@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2002-01-01"
+last_updated: "2003-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -158,7 +158,7 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 - d. voorzien van een korte aantekening van al hetgeen in de zaak voorvalt.
 
-2. Indien binnen de gerechten meerdere kamers zijn gevormd voor de behandeling van burgerlijke zaken, krijgt elke kamer een afzonderlijke rol. De zaken worden in dat geval onverwijld aangebracht bij de kamer die daartoe is aangewezen in het bestuursreglement, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=19&z=2002-01-01&g=2002-01-01), en in het geval van de Hoge Raad in het reglement, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75).
+2. Indien binnen de gerechten meerdere kamers zijn gevormd voor de behandeling van burgerlijke zaken, krijgt elke kamer een afzonderlijke rol. De zaken worden in dat geval onverwijld aangebracht bij de kamer die daartoe is aangewezen in het bestuursreglement, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=19&z=2003-11-08&g=2003-11-08), en in het geval van de Hoge Raad in het reglement, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75).
 
 ##### Artikel 14
 
@@ -188,11 +188,11 @@ Het bestuur van een rechtbank of een gerechtshof draagt er zorg voor dat een afz
 
 ##### Artikel 19
 
-Het bestuur van een gerecht draagt er zorg voor dat een rol wordt gehouden voor strafzaken waarop alle zaken die op de openbare terechtzitting worden behandeld, worden ingeschreven, overeenkomstig de [onderdelen van a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01).
+Het bestuur van een gerecht draagt er zorg voor dat een rol wordt gehouden voor strafzaken waarop alle zaken die op de openbare terechtzitting worden behandeld, worden ingeschreven, overeenkomstig de [onderdelen van a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2003-11-08&g=2003-11-08).
 
 ##### Artikel 20
 
-Het bestuur van een gerechtshof draagt er zorg voor dat een rol wordt gehouden voor belastingzaken waarop alle zaken worden ingeschreven, overeenkomstig de [onderdelen a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2002-01-01&g=2002-01-01).
+Het bestuur van een gerechtshof draagt er zorg voor dat een rol wordt gehouden voor belastingzaken waarop alle zaken worden ingeschreven, overeenkomstig de [onderdelen a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2003-11-08&g=2003-11-08).
 
 #### Paragraaf 6. Inzage stukken
 
@@ -313,5 +313,29 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 36
 
 Dit besluit wordt aangehaald als: Besluit orde van dienst gerechten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 12a
+
+Griffierswerkzaamheden voor strafzaken van het gerechtshof te Amsterdam worden met ingang van 13 oktober 2003 tijdelijk mede verricht te Amstelveen.
+
+#### Paragraaf 5. Verdeling zaken
+
+#### Paragraaf 6. Inzage stukken
+
+##### Artikel 22a
+
+Kennisneming van processtukken van strafzaken van het gerechtshof te Amsterdam door een verdachte die niet rechtens van zijn vrijheid is beroofd of diens raadsman, vindt met ingang van 13 oktober 2003 tijdelijk plaats in Amstelveen.
+
+#### Paragraaf 7. Openbaar ministerie en procureur-generaal bij de Hoge Raad
+
+### Hoofdstuk 2. Hoge Raad
+
+#### Paragraaf 1. De griffier en de gerechtsvergadering
+
+#### Paragraaf 2. Behandeling bijzondere zaken
+
+### Hoofdstuk 3. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
