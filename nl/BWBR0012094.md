@@ -4,7 +4,7 @@ identifier: "BWBR0012094"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012094"
 soort: "AMvB"
@@ -54,15 +54,27 @@ In dit besluit wordt verstaan onder:
 
 - b. verplichtstelling: verplichte deelneming in een bedrijfstakpensioenfonds op grond van [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2);
 
-- c. vrijstelling: vrijstelling, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13).
+- c. vrijstelling: vrijstelling, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13);
 
-##### Artikel 2. Vrijstelling in verband met bestaande pensioenvoorziening
+- d. fusie: de fusie, bedoeld in [Boek 2, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2) en [3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=3) of het samengaan van twee of meer ondernemingen via een activa- en passivatransactie waardoor bedrijfsactiviteiten samensmelten zonder dat een of meer van de fuserende rechtspersonen ophoudt te bestaan;
 
-Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle werknemers van die werkgever, met ingang van de dag dat de verplichtstelling in werking treedt respectievelijk als gevolg van gewijzigde bedrijfsactiviteiten op hem van toepassing wordt, vrijstelling verleend, indien de werknemers van die werkgever al deelnemen in een pensioenregeling die al ten minste zes maanden voor het moment van indiening van de aanvraag tot verplichtstelling van kracht was respectievelijk indien de werkgever voor zijn werknemers al een pensioenvoorziening heeft getroffen die al ten minste zes maanden voor het moment dat de verplichtstelling op hem van toepassing wordt, van kracht was.
+- e. nieuwe werkgever: de werkgever bij wie de werknemers voor wie vrijstelling was verleend na een fusie in dienst komen;
+
+- f. oude werkgever: de voor een fusie bestaande werkgever bij wie de werknemers in dienst waren voor wie vrijstelling was verleend;
+
+- g. verplichte vrijstelling: een vrijstelling welke is verleend op een van de gronden, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2004-10-01&g=2004-10-01).
+
+##### Artikel 2
+
+Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever, met ingang van de dag dat de verplichtstelling in werking treedt respectievelijk als gevolg van gewijzigde bedrijfsactiviteiten op hem en zijn werknemers van toepassing wordt, vrijstelling verleend, indien:
+
+- a. die werknemers van die werkgever al deelnemen in een pensioenregeling die ten minste zes maanden voor het moment van indiening van de in behandeling genomen aanvraag tot verplichtstelling, van kracht was; of
+
+- b. indien de werkgever voor die werknemers al een pensioenvoorziening heeft getroffen die al ten minste zes maanden voor het moment dat de verplichtstelling op hem en zijn werknemers van toepassing wordt, van kracht was.
 
 ##### Artikel 3. Vrijstelling in verband met concernvorming
 
-1. Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle werknemers van die werkgever vrijstelling verleend indien die werkgever deel uitmaakt of deel is gaan uitmaken van een concern en:
+1. Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever vrijstelling verleend indien die werkgever deel uitmaakt of deel is gaan uitmaken van een concern en:
 
 - a. bij de concernvorming zowel de bij het arbeidsvoorwaardenoverleg van die werkgever betrokken vakorganisaties als de bij het arbeidsvoorwaardenoverleg van het concern betrokken vakorganisaties, betrokken zijn geweest;
 
@@ -78,13 +90,13 @@ Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle we
 
 ##### Artikel 4. Vrijstelling in verband met eigen cao
 
-Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle werknemers van die werkgever vrijstelling verleend voorzover een besluit tot algemeenverbindendverklaring van bepalingen van een collectieve arbeidsovereenkomst op die werkgever niet van toepassing is of, indien dat besluit wel op hem van toepassing is, voorzover hij hiervan dispensatie heeft gekregen en met de bij het arbeidsvoorwaardenoverleg betrokken vakorganisaties een afzonderlijke pensioenvoorziening is overeengekomen. Het verzoek om vrijstelling wordt mede door of namens de bij het arbeidsvoorwaardenoverleg betrokken vakorganisaties gedaan.
+Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever vrijstelling verleend voorzover een besluit tot algemeenverbindendverklaring van bepalingen van een collectieve arbeidsovereenkomst op die werkgever niet van toepassing is of, indien dat besluit wel op hem en zijn werknemers van toepassing is, voorzover hij hiervan vrijstelling heeft gekregen en met de bij het arbeidsvoorwaardenoverleg betrokken vakorganisaties een afzonderlijke pensioenvoorziening is overeengekomen. Het verzoek om vrijstelling wordt mede door of namens de bij het arbeidsvoorwaardenoverleg betrokken vakorganisaties gedaan.
 
 ##### Artikel 5. Vrijstelling in verband met onvoldoende beleggingsrendement
 
-1. Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle werknemers van die werkgever vrijstelling verleend indien:
+1. Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever vrijstelling verleend indien:
 
-- a. uit de performancetoets, uitgevoerd over een periode van 5 kalenderjaren aan de hand van bijlage 1 bij deze regeling, blijkt dat het feitelijk behaalde beleggingsrendement van het bedrijfstakpensioenfonds in negatieve zin aanzienlijk afwijkt van het rendement van de door het fonds vastgestelde normportefeuille waarbij van een aanzienlijke afwijking in negatieve zin sprake is indien de uitkomst van de berekening van de performancetoets minder is dan – 1,28;
+- a. uit de performancetoets, uitgevoerd over een periode van 5 kalenderjaren aan de hand van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=1&z=2004-10-01&g=2004-10-01) bij deze regeling, blijkt dat het feitelijk behaalde beleggingsrendement van het bedrijfstakpensioenfonds in negatieve zin aanzienlijk afwijkt van het rendement van de door het fonds vastgestelde normportefeuille waarbij van een aanzienlijke afwijking in negatieve zin sprake is indien de uitkomst van de berekening van de performancetoets minder is dan – 1,28;
 
 - b. blijkt dat het bedrijfstakpensioenfonds niet of in onvoldoende mate heeft voldaan aan het tweede of derde lid; of
 
@@ -98,9 +110,9 @@ Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle we
 
 - c. de toets op toereikendheid ten aanzien van de continue dekking van de verworven aanspraken, uitgaande van prudente veronderstellingen, heeft doorstaan.
 
-3. De normportefeuille, bedoeld in het eerste lid, onderdeel a, wordt jaarlijks door het bestuur van het bedrijfstakpensioenfonds voor het daarop volgende kalenderjaar vastgesteld en is gebaseerd op de in het tweede lid bedoelde verdeling van beleggingen in vastrentende waarden en zakelijke waarden, waarbij deze verdeling verder onderverdeeld wordt naar beleggingscategorieën en landen of sectoren waarin belegd wordt en waarbij deze onderverdeling voorzien wordt van herbeleggingsindices voor het daarop volgende jaar die breed samengesteld, belegbaar en objectief meetbaar zijn. Indien geen representatieve herbeleggingsindex bestaat of van toepassing is, wordt een representatieve lokale rentemarktindex gebruikt vermeerderd met 1 procentpunt.
+3. De normportefeuille, bedoeld in het eerste lid, onderdeel a, wordt jaarlijks door het bestuur van het bedrijfstakpensioenfonds voor het daarop volgende kalenderjaar vastgesteld en is gebaseerd op de in het tweede lid bedoelde verdeling van beleggingen in vastrentende waarden en zakelijke waarden, waarbij deze verdeling verder onderverdeeld wordt naar beleggingscategorieën en landen of sectoren waarin belegd wordt en waarbij deze onderverdeling voorzien wordt van herbeleggingsindices voor het daarop volgende jaar die breed samengesteld, belegbaar en objectief meetbaar zijn. Indien geen representatieve openbare herbeleggingsindex bestaat of van toepassing is, kan een representatieve lokale rentemarktindex vermeerderd met 1 procentpunt of een representatieve niet-openbare herbeleggingsindex worden gebruikt.
 
-4. In afwijking van het tweede en derde lid kan het bestuur van het bedrijfstakpensioenfonds een eenmaal vastgesteld beleggingsbeleid respectievelijk vastgestelde normportefeuille in de loop van een jaar voor het dan nog resterende deel van dat jaar opnieuw vaststellen indien door een onvoorziene substantiële wijziging in de verplichtingenstructuur niet langer sprake is van een adequate verdeling tussen vastrentende en zakelijke waarden als bedoeld in het tweede en derde lid. De noodzaak tot het op korte termijn opnieuw vaststellen blijkt uit een na 1 november van het voorafgaande kalenderjaar opgestelde Asset Liability Managementstudie, uitgevoerd naar aanleiding van de gewijzigde verplichtingenstructuur, en uit een verklaring van een externe deskundige die niet bij die studie betrokken is geweest, waarin de uitkomst van die studie wordt onderschreven.
+4. In afwijking van het tweede en derde lid kan het bestuur van het bedrijfstakpensioenfonds een eenmaal vastgesteld beleggingsbeleid respectievelijk vastgestelde normportefeuille in de loop van een jaar voor het dan nog resterende deel van dat jaar éénmalig opnieuw vaststellen indien door een onvoorziene substantiële wijziging in de verplichtingenstructuur of door een substantiële wijziging in de waarde van de beleggingen niet langer sprake is van een adequate verdeling tussen vastrentende en zakelijke waarden als bedoeld in het tweede en derde lid. De noodzaak tot het op korte termijn opnieuw vaststellen blijkt uit een na 1 november van het voorafgaande kalenderjaar opgestelde Asset Liability Managementstudie, uitgevoerd naar aanleiding van de gewijzigde verplichtingenstructuur of de gewijzigde waarde van de beleggingen, en uit een verklaring van een externe deskundige die niet bij die studie betrokken is geweest, waarin de uitkomst van die studie wordt onderschreven.
 
 5. Het bestuur van het bedrijfstakpensioenfonds:
 
@@ -110,63 +122,59 @@ Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds aan alle we
 
 - c. deelt op verzoek vanaf 1 januari schriftelijk mee welke normportefeuille als bedoeld in het derde lid het over het daaraan voorafgaande jaar had gekozen waarbij de gemaakte keuzen met een toelichting zijn onderbouwd;
 
-- d. deelt op verzoek vanaf 1 april schriftelijk het feitelijk rendement van het bedrijfstakpensioenfonds en het rendement van de gekozen normportefeuille als bedoeld in punt 3 van bijlage 1 bij deze regeling mee;
+- d. stelt op verzoek vanaf 1 april de over het voorafgaande jaar gehanteerde niet-openbare herbeleggingsindices, bedoeld in het derde lid, ter beschikking zonder hiervoor op enigerlei wijze kosten in rekening te brengen;
 
-- e. deelt op verzoek vanaf 1 april schriftelijk de uitkomst van de berekening als bedoeld in het eerste lid, onderdeel a, mee; en
+- e. deelt op verzoek vanaf 1 april schriftelijk het feitelijk rendement van het bedrijfstakpensioenfonds en het rendement van de gekozen normportefeuille als bedoeld in punt 3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=1&z=2004-10-01&g=2004-10-01) bij deze regeling mee;
 
-- f. doet, in het geval het beleggingsbeleid en de normportefeuille opnieuw zijn vastgesteld als bedoeld in het vierde lid,
+- f. deelt op verzoek vanaf 1 april schriftelijk de uitkomst van de berekening als bedoeld in het eerste lid, onderdeel a, mee; en
+
+- g. doet, in het geval het beleggingsbeleid en de normportefeuille opnieuw zijn vastgesteld als bedoeld in het vierde lid,
 
 - 1°. de mededeling, bedoeld in onderdeel a, vanaf de 15e dag na totstandkoming van het nieuwe beleggingsbeleid;
 
-- 2°. de verklaring, bedoeld in onderdeel b, vanaf de 15e dag na totstandkoming van het nieuwe normportefeuille;
+- 2°. de verklaring, bedoeld in onderdeel b, vanaf de 15e dag na totstandkoming van de nieuwe normportefeuille;
 
 - 3°. een mededeling van het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille in de Staatscourant uiterlijk de 15e dag na de vaststelling; en
 
 - 4°. de aan het bedrijfspensioenfonds deelnemende werkgevers binnen 2 maanden na het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille een schriftelijke mededeling toekomen.
 
-6. Dit artikel is niet van toepassing op een bedrijfstakpensioenfonds voorzover dat bedrijfstakpensioenfonds herverzekerd is zonder een gesepareerd beleggingsdepot. In dat geval wordt, in afwijking van het eerste lid, aan een werkgever slechts vrijstelling verleend indien het bestuur van het bedrijfstakpensioenfonds bij het sluiten van de herverzekeringsovereenkomst niet of onvoldoende heeft getoetst of het beleggingsbeleid van de verzekeraar voldoet aan het tweede lid.
+6. Dit artikel is niet van toepassing op een bedrijfstakpensioenfonds voorzover dat bedrijfstakpensioenfonds herverzekerd is zonder een gesepareerd beleggingsdepot. Indien een bedrijfstakpensioenfonds gedeeltelijk herverzekerd is zonder een gesepareerd beleggingsdepot is dit artikel niet van toepassing op dit herverzekerde gedeelte. In deze gevallen wordt, in afwijking van het eerste lid, aan een werkgever slechts vrijstelling verleend indien het bestuur van het bedrijfstakpensioenfonds bij het sluiten van de herverzekeringsovereenkomst niet of onvoldoende heeft getoetst of het beleggingsbeleid van de verzekeraar voldoet aan het tweede lid.
 
 ##### Artikel 6. Vrijstelling om andere redenen
 
-Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds aan alle werknemers van die werkgever ook om andere redenen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2002-01-01&g=2002-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2002-01-01&g=2002-01-01) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), vrijstelling worden verleend.
+Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever ook om andere redenen dan genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2004-10-01&g=2004-10-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2004-10-01&g=2004-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2004-10-01&g=2004-10-01) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), vrijstelling worden verleend.
 
 ##### Artikel 7. Voorschriften bij het verlenen van vrijstelling
 
 1. Aan de vrijstelling kunnen door het bedrijfstakpensioenfonds voorschriften worden verbonden ter verzekering van een goede uitvoering van de wet.
 
-2. Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever of, in het geval pensioenrechten worden ontleend aan een ondernemingspensioenfonds of een ander bedrijfstakpensioenfonds, het bestuur van het desbetreffende fonds, aan de Pensioen- & Verzekeringskamer en aan het bestuur van het bedrijfstakpensioenfonds dat vrijstelling verleent inlichtingen zal verstrekken, die de Pensioen- & Verzekeringskamer of laatstgenoemd bestuur ter verzekering van een goede uitvoering van de wet verlangt. De inlichtingen worden desgewenst schriftelijk en door middel van ingevulde en ondertekende formulieren binnen een door de Verzekeringskamer onderscheidenlijk door bedoeld bestuur, schriftelijk te stellen termijn verstrekt.
+2. Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever of, in het geval pensioenrechten worden ontleend aan een ondernemingspensioenfonds of een ander bedrijfstakpensioenfonds, het bestuur van het desbetreffende fonds, aan de Pensioen- & Verzekeringskamer en aan het bestuur van het bedrijfstakpensioenfonds dat vrijstelling verleent inlichtingen zal verstrekken, die de Pensioen- & Verzekeringskamer of laatstgenoemd bestuur ter verzekering van een goede uitvoering van de wet verlangt. De inlichtingen worden desgewenst schriftelijk en door middel van ingevulde en ondertekende formulieren binnen een door de Pensioen- & Verzekeringskamer onderscheidenlijk door bedoeld bestuur, schriftelijk te stellen termijn verstrekt.
 
-3. Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever een andere pensioenvoorziening heeft of deze zal treffen en deze heeft ondergebracht of zal onderbrengen bij een ander bedrijfstakpensioenfonds, een ondernemingspensioenfonds of een verzekeraar als bedoeld in [artikel 2, vierde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2).
+3. Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever een andere pensioenvoorziening heeft en deze heeft ondergebracht bij een ander bedrijfstakpensioenfonds, een ondernemingspensioenfonds of een verzekeraar als bedoeld in [artikel 2, vierde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2) dan wel dat de werkgever binnen 12 maanden na het moment waarop de vrijstelling wordt verleend een andere pensioenvoorziening zal treffen en deze zal onderbrengen bij een ander bedrijfstakpensioenfonds, een ondernemingspensioenfonds of een verzekeraar als bedoeld in [artikel 2, vierde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2).
 
-4. Aan de vrijstelling, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2002-01-01&g=2002-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2002-01-01&g=2002-01-01) kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2002-01-01&g=2002-01-01) bij dit besluit, tenzij partijen anders overeenkomen.
+4. Aan de vrijstelling, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2004-10-01&g=2004-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2004-10-01&g=2004-10-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2004-10-01&g=2004-10-01) kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=2&z=2004-10-01&g=2004-10-01) bij dit besluit, tenzij partijen anders overeenkomen.
 
-5. Aan de vrijstelling, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2002-01-01&g=2002-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2002-01-01&g=2002-01-01) wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=3&z=2002-01-01&g=2002-01-01) bij dit besluit te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds.
+5. Aan de vrijstelling, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2004-10-01&g=2004-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2004-10-01&g=2004-10-01) wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=3&z=2004-10-01&g=2004-10-01) bij dit besluit te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds.
 
-6. Aan de vrijstelling, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste dezelfde aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.
+6. Aan de vrijstelling, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste dezelfde aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.
 
 ##### Artikel 8. Intrekking van de vrijstelling
 
-1. Een vrijstelling kan door het bedrijfstakpensioenfonds worden ingetrokken, indien niet meer wordt voldaan aan de voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2002-01-01&g=2002-01-01), 3 of 4, indien niet meer wordt voldaan aan de reden tot vrijstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2002-01-01&g=2002-01-01), of indien wordt gehandeld in strijd met een of meer aan de vrijstelling verbonden voorschriften.
+1. Een vrijstelling kan door het bedrijfstakpensioenfonds worden ingetrokken, indien niet meer wordt voldaan aan de voorwaarden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=2&z=2004-10-01&g=2004-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=3&z=2004-10-01&g=2004-10-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=4&z=2004-10-01&g=2004-10-01), indien niet meer wordt voldaan aan de reden tot vrijstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=6&z=2004-10-01&g=2004-10-01), of indien wordt gehandeld in strijd met een of meer aan de vrijstelling verbonden voorschriften.
 
-2. De vrijstelling, bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), wordt uitsluitend op verzoek van de werkgever aan wiens werknemers vrijstelling is verleend ingetrokken.
+2. De vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), wordt uitsluitend op verzoek van de werkgever voor wiens werknemers vrijstelling is verleend ingetrokken.
 
-3. In afwijking van het tweede lid kan de vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), door het bedrijfstakpensioenfonds worden ingetrokken indien wordt gehandeld in strijd met de voorschriften die aan de vrijstelling verbonden zijn.
+3. In afwijking van het tweede lid kan de vrijstelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), door het bedrijfstakpensioenfonds worden ingetrokken indien wordt gehandeld in strijd met de voorschriften die aan de vrijstelling verbonden zijn.
 
 ##### Artikel 9. Overgangsbepalingen
 
-1. In afwijking van [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), wordt de performancetoets in 2002 uitgevoerd over de periode 26 april 1998 tot 1 januari 2002 en in 2003 over de periode 26 april 1998 tot 1 januari 2003.
-
-2. In afwijking van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), wordt voor het jaar 1998 uitgegaan van een vóór 26 augustus 1998 door het bestuur van het bedrijfstakpensioenfonds vastgestelde normportefeuille die naar keuze van het bedrijfstakpensioenfonds of is gebaseerd op de feitelijke verdeling van de beleggingen in vastrentende en zakelijke waarden zoals het bedrijfstakpensioenfonds die hanteerde op 26 april 1998 of is gebaseerd op de gemiddelde feitelijke verdeling van de beleggingen in vastrentende en zakelijke waarden in de maand april 1998. [Artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), is hierbij van overeenkomstige toepassing.
-
-3. In afwijking van het tweede lid, eerste zin, kan, indien vóór 1 januari 1998 door het bestuur van het bedrijfstakpensioenfonds voor het jaar 1998 een normportefeuille is vastgesteld, van die normportefeuille worden uitgegaan. Bij de uitvoering van de performancetoets, bedoeld in het eerste lid, wordt in dat geval de normportefeuille gehanteerd zoals deze luidde op 26 april 1998.
-
-4. Voor de jaren 1999 en 2000, wordt bij de berekening van de performancetoets, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), uitgegaan van de normportefeuille die op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), en de daarop berustende bepalingen van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds zoals die wet en de daarop berustende bepalingen luidde op de dag voor inwerkingtreding van [artikel 40 de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=40) voor die jaren is vastgesteld.
-
-5. Voor de jaren 1998 en 1999 wordt bij de berekeningen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&bijlage=1&z=2002-01-01&g=2002-01-01) uitgegaan van de gemaakte berekeningen op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2002-01-01&g=2002-01-01), en de daarop berustende bepalingen van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds zoals die wet en de daarop berustende bepalingen luidde op de dag voor inwerkingtreding van [artikel 40 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=40) over die jaren.
+Vervallen
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2001 met dien verstande dat artikel 5, eerste lid, onderdeel a, met ingang van 1 januari 2002 in werking treedt.
+1. Dit besluit treedt in werking met ingang van 1 januari 2001 met dien verstande dat [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), met ingang van 1 januari 2002 in werking treedt.
+
+2. De [artikelen 1, onderdeel d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=1&z=2004-10-01&g=2004-10-01), en [7a tot en met 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7a&z=2004-10-01&g=2004-10-01) treden in werking met ingang van de datum van het besluit van 22 juli 2004 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met het opstellen van regels hoe na een fusie, splitsing of doorstart van een onderneming moet worden omgegaan met verleende vrijstellingen van de verplichte deelname aan een bedrijfstakpensioenfonds alsmede enkele andere wijzigingen (Stb. 2004, 397).
 
 ##### Artikel 11. Citeertitel
 
@@ -281,6 +289,194 @@ Indien er op de dag van uittreding sprake is van een onderdekking, mag dit er ni
 Eens in de vijf jaar wordt door het bedrijfstakpensioenfonds getoetst of de regeling van de werkgever aan wie vrijstelling is verleend actuarieel gelijkwaardig is. Indien in de tussenliggende periode sprake is van een wijziging in de regeling van het bedrijfstakpensioenfonds dan wel in de regeling van de werkgever aan wie vrijstelling is verleend die zo ingrijpend is dat mag worden aangenomen dat daarvan een reële invloed op de onderstaande berekening zal uitgaan, kan het bedrijfstakpensioenfonds beslissen dat de toets frequenter wordt uitgevoerd.
 
 De werkgever aan wie aan wie vrijstelling is verleend, zendt van iedere wijziging in de pensioenregeling een afschrift aan het bedrijfstakpensioenfonds.
+
+### Toets:
+
+Bij de toetsing van de actuariële gelijkwaardigheid wordt de volgende procedure in acht genomen:
+
+### Frequentie:
+
+Eens in de vijf jaar wordt door het bedrijfstakpensioenfonds getoetst of de regeling van de werkgever aan wie vrijstelling is verleend actuarieel gelijkwaardig is. Indien in de tussenliggende periode sprake is van een wijziging in de regeling van het bedrijfstakpensioenfonds dan wel in de regeling van de werkgever aan wie vrijstelling is verleend die zo ingrijpend is dat mag worden aangenomen dat daarvan een reële invloed op de onderstaande berekening zal uitgaan, kan het bedrijfstakpensioenfonds beslissen dat de toets frequenter wordt uitgevoerd.
+
+De werkgever aan wie aan wie vrijstelling is verleend, zendt van iedere wijziging in de pensioenregeling een afschrift aan het bedrijfstakpensioenfonds.
+
+Daarnaast dient het financieringssysteem te waarborgen dat er in beginsel te allen tijde sprake is van een 100% dekking van de tijdsevenredige aanspraken, tenzij het bedrijfstakpensioenfonds zichzelf ook minder dan 100% dekking ten opzichte van die norm toestaat. De dekkingsgraad van een door de werkgever voorgestane pensioenregeling dient in dat geval ten minste gelijk te zijn aan die van het bedrijfstakpensioenfonds.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a. Fusie werkgevers met vrijstellingen van zelfde bedrijfstakpensioenfonds
+
+1. Na een fusie tussen oude werkgevers aan wie voor hun werknemers door eenzelfde bedrijfstakpensioenfonds een verplichte vrijstelling is verleend, gaan de verleende vrijstellingen over op de nieuwe werkgever en blijven deze in stand zolang voldaan wordt aan de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01). De nieuwe werkgever deelt het bedrijfstakpensioenfonds mee dat de voor de fusie bestaande pensioenregelingen worden voortgezet en welke pensioenregeling van toepassing zal zijn op na de fusie in dienst tredende werknemers.
+
+2. In afwijking van het eerste lid wordt op verzoek van de nieuwe werkgever in de situatie dat voor alle werknemers van de nieuwe werkgever dezelfde bestaande pensioenregeling gaat gelden, de daarvoor verleende vrijstelling, met de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01), van toepassing op alle huidige en toekomstige werknemers van die nieuwe werkgever.
+
+##### Artikel 7b. Fusie werkgevers met en zonder vrijstellingen van zelfde bedrijfstakpensioenfonds
+
+1. Na een fusie tussen oude werkgevers op wie dezelfde verplichtstelling van toepassing is en waarbij niet aan alle oude werkgevers een verplichte vrijstelling is verleend, vervallen de vrijstellingen.
+
+2. In afwijking van het eerste lid wordt op verzoek van de nieuwe werkgever van wie ten minste 50% van de werknemers voor de fusie in dienst was bij een of meer oude werkgevers aan wie een verplichte vrijstelling was verleend:
+
+- a. de vrijstelling uitgebreid tot alle huidige en toekomstige werknemers van de nieuwe werkgever, of
+
+- b. de vrijstelling gehandhaafd voor de op het tijdstip van fusie in dienst zijnde werknemers van de oude werkgever of oude werkgevers met een vrijstelling.
+
+3. Indien de nieuwe werkgever een verzoek doet tot uitbreiding van de vrijstelling, bedoeld in het tweede lid, onderdeel a, kan het bedrijfstakpensioenfonds daaraan de voorwaarde verbinden dat de nieuwe werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het bedrijfstakpensioenfonds hierdoor lijdt. De hoogte van deze bijdrage wordt berekend volgens bijlage 2 bij dit besluit, tenzij partijen anders overeenkomen.
+
+4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het tweede lid, blijven de voorschriften, bedoeld in artikel 7, van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
+
+##### Artikel 7c. Fusie werkgevers met en zonder vrijstellingen van verschillende bedrijfstakpensioenfondsen
+
+1. Op verzoek van een nieuwe werkgever die is ontstaan na een fusie tussen oude werkgevers op wie verschillende verplichtstellingen van toepassing waren, en op wie na de fusie één verplichtstelling van toepassing wordt, wordt een aan een oude werkgever in het kader van dezelfde verplichtstelling verleende vrijstelling uitgebreid tot alle huidige en toekomstige werknemers van de nieuwe werkgever.
+
+2. Op verzoek van een nieuwe werkgever die is ontstaan na een fusie tussen oude werkgevers op wie verschillende verplichtstellingen van toepassing waren en op wie na de fusie één verplichtstelling van toepassing wordt, wordt een aan één of meer oude werkgevers in het kader van dezelfde verplichtstelling verleende vrijstelling gehandhaafd voor alle werknemers van die oude werkgever.
+
+3. Op verzoek van een nieuwe werkgever die is ontstaan na een fusie tussen oude werkgevers op wie verschillende verplichtstellingen van toepassing waren en op wie na de fusie verschillende verplichtstellingen van toepassing blijven, wordt een aan één of meer oude werkgevers verleende vrijstelling gehandhaafd voor alle werknemers van die oude werkgever en voor de toekomstige werknemers van de nieuwe werkgever die onder dezelfde verplichtstelling vallen.
+
+4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het eerste, tweede en derde lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01), van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
+
+##### Artikel 7d. Vrijstelling na splitsing
+
+1. In dit artikel wordt verstaan onder:
+
+- a. zuivere splitsing: een zuivere splitsing als bedoeld in [artikel 334a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a);
+
+- b. afsplitsing: een afsplitsing als bedoeld in [artikel 334a, derde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a);
+
+- c. oude werkgever: de voor een zuivere splitsing of afsplitsing bestaande werkgever;
+
+- d. nieuwe werkgever: de na een zuivere splitsing of afsplitsing ontstane werkgever.
+
+2. In geval van zuivere splitsing blijft op verzoek van de nieuwe werkgevers een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01), in stand, indien op de nieuwe werkgevers dezelfde verplichtstelling van toepassing blijft. De nieuwe werkgevers delen het bedrijfstakpensioenfonds mee welke werknemers bij hen in dienst zijn.
+
+3. De vrijstelling wordt vanaf het tijdstip van de splitsing geacht te zijn verleend aan de nieuwe werkgevers en geldt voor de huidige en toekomstige werknemers.
+
+4. In geval van een afsplitsing blijft een aan een oude werkgever verleende verplichte vrijstelling met de daarbij behorende voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01), in stand, indien de voor de afsplitsing bestaande pensioenregeling wordt voortgezet. De oude werkgever deelt dit mede aan het bedrijfstakpensioenfonds.
+
+5. In geval van een afsplitsing wordt op verzoek van een nieuwe werkgever, die onder dezelfde verplichtstelling valt als de oude werkgever, aan de nieuwe werkgever een vrijstelling verleend voor zijn huidige en toekomstige werknemers onder dezelfde voorwaarden als welke zijn verbonden aan de aan de oude werkgever verleende vrijstelling. Deze vrijstelling wordt vanaf het moment van afsplitsing geacht te zijn verleend aan de nieuwe werkgever.
+
+##### Artikel 7e. Vrijstelling na doorstart
+
+1. Op verzoek van een werkgever op wie een verplichtstelling van toepassing is, wordt een verplichte vrijstelling gehandhaafd die is verleend aan een gefailleerde werkgever wiens activiteiten hij geheel of nagenoeg geheel voortzet in het kader van een doorstart, mits:
+
+- a. de doorstart plaatsvindt binnen één jaar na het faillissement, en
+
+- b. ten minste 50% van de werknemers van de gefailleerde werkgever in dienst is gekomen bij die werkgever.
+
+2. Bij de handhaving van de vrijstelling, bedoeld in het eerste lid, blijven de voorschriften, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=7&z=2004-10-01&g=2004-10-01), van toepassing en wordt de vrijstelling vanaf het tijdstip van doorstart geacht te zijn verleend aan de werkgever die de doorstart maakt voor zijn huidige en toekomstige werknemers.
+
+## Bijlage 1. Performance toets
+
+De performancetoets wordt als volgt uitgevoerd, waarbij het subscript j steeds het jaar aangeeft:
+
+1. Uitgaande van de normportefeuille worden twee percentages vastgesteld die de samenstelling van de normportefeuille bepalen:
+
+aj%: vastrentende waarden inclusief kasbeleggingen;
+
+bj%: overige (zakelijke) beleggingen;
+
+aj% en bj% zijn samen 100%.
+
+2. Hieruit wordt jaarlijks de voor het bedrijfstakpensioenfonds geldende maat voor de rendementsspreiding bepaald volgens de formule
+
+Ej = [aj% * 0,6% + bj% * 2,6%].
+
+3. Jaarlijks voor 1 april wordt over het daaraan voorafgaande jaar het feitelijke rendement van het bedrijfstakpensioenfonds (Rfj) en het rendement van de gekozen normportefeuille (Rbj) op eenzelfde grondslag vastgesteld en gecontroleerd door een externe accountant die voldoet aan [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Hierbij wordt bij het bepalen van het rendement gebruik gemaakt van daartoe opgestelde richtlijnen van de Vereniging van Beleggingsanalisten.
+
+4. Daarnaast worden de interne beleggingsuitvoeringskosten kj bepaald en uitgedrukt in een percentage van het gemiddelde van het begin- en eindvermogen op actuele basis. Onder interne beleggingsuitvoeringskosten worden tevens begrepen de door het bedrijfstakpensioenfonds te betalen beheerskosten aan externe vermogensbeheerders, met inbegrip van kosten van bewaarneming en administratiekosten voor zover niet reeds tot uitdrukking komend in de rendementsberekening over aangehouden eenheden of tegoeden bij externe vermogensbeheerders.
+
+5. Het verschil in rendement tussen Rfj en Rbj wordt gecorrigeerd voor (i) de beleggingskosten, waarbij het rendement van de normportefeuille wordt gecorrigeerd voor beleggingskosten, die fictief zijn bepaald op basis van de onderstaande staffel en (ii) voor de jaarlijkse maat voor de rendementsspreiding van het fonds Ej.
+
+| **Percentage zakelijke waarden (p)** | **normkosten** |
+| --- | --- |
+| 0 ≤ p < 10 | 0,10% |
+| 10 ≤ p < 20 | 0,11% |
+| 20 ≤ p < 30 | 0,12% |
+| 30 ≤ p < 35 | 0,13% |
+| 35 ≤ p < 40 | 0,14% |
+| 40 ≤ p < 45 | 0,15% |
+| 45 ≤ p < 50 | 0,16% |
+| 50 ≤ p < 55 | 0,17% |
+| 55 ≤ p < 60 | 0,18% |
+| 60 ≤ p < 70 | 0,19% |
+| 70 ≤ p < 80 | 0,20% |
+| 80 ≤ p < 90 | 0,21% |
+| 90 ≤ p <100 | 0,22% |
+
+Daartoe berekent men zj volgens de formule:
+
+6. Op basis hiervan toetst men vanaf 2004 of over de afgelopen 5 jaar geldt dat:
+
+**z(j-5) + z(j-4) + z(j-3) + z(j-2) + z(j-1)**≥ – 1,28
+
+√ 5
+
+7. In 2002 wordt getoetst of
+
+**z(1998) + z(1999) + z(2000) + z(2001)**≥ – 1,28
+
+√ 3,7
+
+8. In 2003 wordt getoetst of
+
+**z(1998) + z(1999) + z(2000) + z(2001)+ z (2002)** ≥ – 1,28
+
+√ 4,7
+
+9. Indien door het bestuur van het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012094&artikel=5&z=2004-10-01&g=2004-10-01), wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent:
+
+a. voor de toepassing van punt 1:
+
+aperiode 1 % plus bperiode 1 % zijn samen 100%
+
+Voor periode 2 geldt dezelfde formule, zij het dat het subscript «periode 2» wordt genoteerd in plaats van «periode 1»;
+
+b. voor de toepassing van punt 2:
+
+Eperiode 1 = [aperiode 1 * 0,6 + bperiode 1 * 2,6]
+
+Hierbij is aperiode 1 % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en bperiode 1 % het aandeel zakelijke waarden in periode 1.
+
+Voor periode 2 geldt dezelfde formule, zij het dat het subscript «periode 2» genoteerd staat in plaats van «periode 1»;
+
+c. voor de toepassing van punt 5:
+
+voor periode 1, en dezelfde formule voor periode 2, maar dan met subscript« periode 2»
+
+Vervolgens worden de zperiode 1 en zperiode 2 teruggebracht worden naar één periode van een jaar, door de formule
+
+zj = zperiode 1 + zperiode 2
+
+De na deze berekening verkregen zj wordt in de formules van de punten 6, 7 en 8 verwerkt.
+
+## Bijlage 2. Rekenregels verzekeringstechnisch nadeel
+
+De hoogte van de compensatie ter vergoeding van het verzekeringstechnische nadeel bij vrijstelling heeft betrekking op de volgende elementen:
+
+- 1. te missen solidariteitsbijdragen als gevolg van het uittreden uit het bedrijfstakpensioenfonds. Deze solidariteitsbijdrage wordt als volgt berekend:
+
+- a. bereken de volgende bedragen met als referentieperiode het volledige boekjaar voorafgaand aan het boekjaar waarin de vrijstelling ingaat:
+
+- –. PaT: het bedrag van de actuarieel vastgestelde last van een eenjarige pensioeninkoop en dekking van het sterfterisico voor het deelnemersbestand van het gehele bedrijfstakpensioenfonds en uitgaande van de fictie dat de pensioenen tijdsevenredig worden gefinancierd en verworven;
+
+- –. PaU: dezelfde berekening als bij PaT, nu echter vastgesteld voor het bestand van de uittredende werkgever;
+
+- –. PdT: het bedrag dat het bedrijfstakpensioenfonds voor het totale actievenbestand van de aangesloten werkgevers ontvangt aan doorsneejaarpremie voor de reguliere pensioenopbouw en risicodekking;
+
+- –. PdU: dezelfde berekening als bij PdT, nu echter vastgesteld als de ontvangst aan (doorsnee)premie van de uittredende werkgever;
+
+- b. de jaarlijkse solidariteitsbijdrage is gelijk aan de uitkomst van de volgende berekening: [PdU/PdT]* PaT-PaU. Een uitkomst kleiner dan nul wordt op nul gesteld;
+
+- c. indien gedurende de onder a gehanteerde referentieperiode een deel van de doorsneejaarpremie PdU betrekking heeft op de inkoop van aanspraken voor niet-actieven, dient dit deel, verhoogd met voorzienbare toekomstige stijgingen hiervan, eveneens gecompenseerd te worden;
+
+- d. het te compenseren nadeel vanwege de te missen solidariteitsbijdragen wordt gevonden door de bedragen onder b en c op te tellen en te vermenigvuldigen met de factor van de contante waarde van een continue annuïteit met een looptijd van 5,5 jaar. Deze looptijd wordt verlengd met het aantal volle jaren dat de gemiddelde leeftijd van het bestand van de uittredende beroepsgenoot meer dan 5 jaar lager is dan de gemiddelde leeftijd van het totale bestand van het bedrijfstakpensioenfonds. De rentevoet bedraagt 4%.
+
+- 2. de kosten die redelijkerwijs verbonden zijn aan de behandeling van het vrijstellingsverzoek.
+
+Indien er op de dag van uittreding sprake is van een onderdekking, mag dit er niet toe leiden dat de financieringsachterstand wordt verhaald op de bij het bedrijfstakpensioenfonds achterblijvende werkgevers. De werkgever aan wie de vrijstelling is verleend dient dan op dezelfde wijze als de achterblijvende werkgevers bij te dragen in de financiering van de achterstand. Partijen kunnen overeen komen dat dit in één keer wordt afgerekend.
+
+## Bijlage 3. Actuariële en financiële gelijkwaardigheid
+
+### Actuariële gelijkwaardigheid:
 
 ### Toets:
 
