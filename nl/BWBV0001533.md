@@ -567,37 +567,3 @@ DONE at The Hague this 18th day of October 2001, in duplicate, in the Netherland
 **For the Government of the Republic of Uzbekistan**
 
 (sd.) A. SHAYHOV
-
-##### Artikel 24A. Recht Op Voordelen
-
-1. Niettegenstaande de overige bepalingen van dit Verdrag, wordt een voordeel uit hoofde van dit Verdrag niet toegekend met betrekking tot een bestanddeel van het inkomen of het vermogen indien, alle relevante feiten en omstandigheden in aanmerking genomen, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dit voordeel een van de voornaamste redenen was voor een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat toekenning van dit voordeel onder deze omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de relevante bepalingen van dit Verdrag.
-
-2. Indien een persoon een voordeel uit hoofde van dit Verdrag wordt geweigerd ingevolge het eerste lid, dient de bevoegde autoriteit van de Verdragsluitende Staat die het voordeel anderszins zou hebben toegekend deze persoon desalniettemin te behandelen alsof deze recht heeft op dit voordeel of op andere voordelen ter zake van een specifiek bestanddeel van het inkomen of het vermogen, indien deze bevoegde autoriteit, op verzoek van deze persoon en na bestudering van de relevante feiten en omstandigheden, vaststelt dat deze voordelen zouden zijn verleend bij het ontbreken van de transactie of constructie bedoeld in het eerste lid.
-
-3. De bevoegde autoriteit van een Verdragsluitende Staat raadpleegt de bevoegde autoriteit van de andere Verdragsluitende Staat alvorens een voordeel uit hoofde van het eerste of tweede lid te weigeren.
-
-### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
-
-### HOOFDSTUK VII. SLOTBEPALINGEN
-
-Ter zake van het Verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontgaan en ontwijken van belasting, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-##### XV. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=25&z=2017-12-31&g=2017-12-31)
-
-Het is wel te verstaan dat de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=25&z=2017-12-31&g=2017-12-31) uitsluitend van kracht zijn indien de status van het Aralmeer als een „zee” krachtens het internationale recht internationaal erkend is.
-
-##### XVI. Ad [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=28&z=2017-12-31&g=2017-12-31) en [29](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=29&z=2017-12-31&g=2017-12-31)
-
-Voor de toepassing van de bepalingen van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=28&z=2017-12-31&g=2017-12-31) en [29](https://wetten.overheid.nl/jci1.3:c:BWBV0001533&hoofdstuk=VI&artikel=29&z=2017-12-31&g=2017-12-31), worden de uit hoofde van de Nederlandse inkomensgerelateerde voorschriften geheven bijdragen en toegekende voordelen aangemerkt als belastingen.
-
-IN WITNESS whereof the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at The Hague this 18th day of October 2001, in duplicate, in the Netherlands, Uzbek and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Uzbek texts, the English text shall prevail.
-
-**For the Government of the Kingdom of the Netherlands**
-
-(sd.) W. BOS
-
-**For the Government of the Republic of Uzbekistan**
-
-(sd.) A. SHAYHOV
