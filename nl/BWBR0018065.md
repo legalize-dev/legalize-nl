@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2005-01-01"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -88,7 +88,7 @@ De gegevens, bedoeld in de [artikelen 172](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-03-18), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Inwerkingtreding
 
@@ -98,7 +98,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-01-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2005-03-18&g=2005-03-18) van het Besluit informatievoorziening WPO/WEC
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of regionaal expertise centrum (REC) dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
