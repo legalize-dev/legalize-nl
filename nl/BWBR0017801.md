@@ -622,33 +622,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2005.
 Dit besluit wordt aangehaald als: Mandaatbesluit LNV Dienst Regelingen 2005.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Financieel mandaat en machtiging
-
-#### Paragraaf 3. Bestuursdwang, last onder dwangsom, dwangbevel, invordering, aanwijzing deskundigen, hertaxatie
-
-#### Paragraaf 4. Bezwaar, beroep en procesmachtiging
-
-#### Paragraaf 5. De binnenvisserij, kustvisserij en visserijzone
-
-#### Paragraaf 6. De Flora- en faunawet
-
-#### Paragraaf 7. De Boswet
-
-#### Paragraaf 8. Het Programma Beheer
-
-#### Paragraaf 9. De Kaderregeling subsidiëring natuurprojecten
-
-#### Paragraaf 10. De Landbouwwet
-
-#### Paragraaf 11. Het Stimuleringskader
-
-#### Paragraaf 12. Meststoffenwetgeving
-
-#### Paragraaf 13. Gezondheids- en welzijnswet voor dieren
-
-#### Paragraaf 14. Overige aangelegenheden
-
-#### Paragraaf 15. Overige bepalingen
