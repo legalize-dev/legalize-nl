@@ -4,7 +4,7 @@ identifier: "BWBR0016871"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-06-30"
-last_updated: "2001-01-01"
+last_updated: "2004-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016871"
 soort: "AMvB"
@@ -91,21 +91,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding of tegemoetkoming wordt gedurende 3 maanden voortgezet.
+1. De in [artikel 3, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt gedurende 3 maanden voortgezet.
 
-2. De in [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding of tegemoetkoming wordt gedurende 1 jaar voortgezet.
+2. De in [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt gedurende 1 jaar voortgezet.
 
-3. De in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding of tegemoetkoming wordt gedurende 5 jaar voortgezet.
+3. De in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt gedurende 5 jaar voortgezet.
 
-4. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding wordt gedurende 5 jaar voortgezet.
+4. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding wordt gedurende 5 jaar voortgezet.
 
-5. De in [artikel 3, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding of tegemoetkoming wordt, in afwijking van de termijn genoemd in respectievelijk het tweede en derde lid, beëindigd wanneer de weduwe of weduwnaar in het huwelijk treedt.
+5. De in [artikel 3, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt, in afwijking van de termijn genoemd in respectievelijk het tweede en derde lid, beëindigd wanneer de weduwe of weduwnaar in het huwelijk treedt.
 
-6. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar in het huwelijk treedt.
+6. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar in het huwelijk treedt.
 
-7. De in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding of tegemoetkoming wordt, in afwijking van de termijn genoemd in het derde lid, beëindigd wanneer de weduwe of weduwnaar vrijwillig verhuist.
+7. De in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt, in afwijking van de termijn genoemd in het derde lid, beëindigd wanneer de weduwe of weduwnaar vrijwillig verhuist.
 
-8. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2001-01-01), genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar verhuist naar zelfstandige huisvesting, dan wel naar een inrichting voor verpleging of verzorging die met toepassing van één der sociale verzekeringswetten wordt betaald.
+8. De in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar verhuist naar zelfstandige huisvesting, dan wel naar een inrichting voor verpleging of verzorging die met toepassing van één der sociale verzekeringswetten wordt betaald.
 
 9. Wanneer zich een omstandigheid als bedoeld in het vijfde, zesde, zevende of achtste lid voordoet, wordt de vergoeding of de tegemoetkoming beëindigd met ingang van de eerste dag van de maand volgend op de maand waarin zich deze omstandigheid voordoet.
 
