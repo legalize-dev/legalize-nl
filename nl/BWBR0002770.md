@@ -1,0 +1,533 @@
+---
+title: "Besluit van 22 juni 1971 tot vaststelling van het Uitvoeringsbesluit belastingen van rechtsverkeer"
+identifier: "BWBR0002770"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002770"
+soort: "AMvB"
+stam_id: "983373"
+version_id: "1444102"
+internal_id: "C1444101"
+label_id: "953404"
+dtd_version: "2.0"
+original_entry_into_force: "1972-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002770/2025-07-01/0"
+intitule_bron: "Stb.1971-393"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-06-22"
+intitule_status: "goed"
+original_publication: "Stb.1971-393"
+original_signed_date: "1971-06-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-01-01"
+jci_1_3: "jci1.3:c:BWBR0002770&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002770&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit belastingen van rechtsverkeer"
+signed_date: "1971-06-22"
+entry_into_force: "1972-01-01"
+---
+# Besluit van 22 juni 1971 tot vaststelling van het Uitvoeringsbesluit belastingen van rechtsverkeer
+
+Op de voordracht van de Staatssecretaris van Financiën van 29 april 1971, nr. B71/8431, directie Wetgeving Douane en Verbruiksbelastingen;
+
+Gelet op de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), en [53 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=53) (**Stb.** 1970, 611);
+
+De Raad van State gehoord (advies van 2 juni 1971, nr. 6);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 18 juni 1971, nr. B 71/11450, directie Wetgeving Douane en Verbruiksbelastingen;
+
+Hebben goedgevonden en verstaan:
+
+#### Begripsbepaling
+
+##### Artikel 1
+
+Dit besluit verstaat onder wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740).
+
+### Hoofdstuk I. Overdrachtsbelasting
+
+##### Artikel 2
+
+De waarde van een canon, een retributie of een huur als is bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=11), wordt bepaald met inachtneming van de bij dit besluit behorende bijlage.
+
+##### Artikel 3
+
+De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstellingen zijn slechts van toepassing, indien de verkrijger van onroerende zaken of van rechten waaraan deze zijn onderworpen binnen een maand na de verkrijging aangifte doet en in het aangiftebiljet - dan wel, ingeval aangifte wordt gedaan door het aanbieden van een akte ter registratie, in die akte of in een aan de voet daarvan gestelde, door de verkrijger of namens deze door de notaris of de persoon die de akte heeft opgesteld, ondertekende verklaring - een beroep op de vrijstelling wordt gedaan onder opgaaf van de voor de toepassing van de vrijstelling van belang zijnde gegevens.
+
+##### Artikel 4
+
+1. De in [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling bij inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, van een onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen bijschrijving op de kapitaalrekening van de vennootschap van een bedrag dat ten minste gelijk is aan de waarde in het economische verkeer van het vermogen van de ingebrachte onderneming dan wel de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.
+
+2. In afwijking van het eerste lid is de aldaar bedoelde vrijstelling eveneens van toepassing indien de inbreng geen betrekking heeft op een onderneming maar op afzonderlijke onroerende zaken, mits de inbreng volgt op een verkrijging als bedoeld in [artikel 15, eerste lid, onderdeel f, onder 1° of 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), en de verkrijging en de inbreng uitsluitend plaatshebben in verband met de toetreding, uittreding of vervanging van vennoten, dan wel de toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). De in dit lid bedoelde onroerende zaken moeten voorafgaand aan bedoelde verkrijging deel hebben uitgemaakt van het vermogen van de onderneming van de vennootschap en niet zijn gebruikt of bestemd voor gebruik in het kader van het verkrijgen, vervreemden, of exploiteren van onroerende zaken.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een inbreng is alsnog verschuldigd, indien de inbrenger binnen drie jaren na de inbreng niet meer vennoot is van de vennootschap, dan wel binnen die periode zijn bijschrijving wegens inbreng op de kapitaalrekening is verminderd, anders dan door afboeking van zijn aandeel in het verlies van de vennootschap. De bepaling is eveneens van toepassing bij het verlenen van een koopoptie op het aandeel of een deel van het aandeel van de inbrenger in het vermogen van de vennootschap.
+
+4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een inbreng is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de inbreng door de vennootschap wordt voortgezet.
+
+5. Het derde en vierde lid blijft buiten toepassing in geval van een inbreng als bedoeld in het eerste lid, dan wel een omzetting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5&z=2002-01-01&g=2002-01-01).
+
+6. Onder kapitaalrekening wordt verstaan de rekening op de balans van de vennootschap waarop de deelgerechtigdheid van de vennoot in het vermogen van de vennootschap wordt opgenomen.
+
+7. Voor de toepassing van dit artikel worden onder onroerende zaken mede verstaan fictieve onroerende zaken als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), rechten waaraan onroerende zaken of fictieve onroerende zaken zijn onderworpen, alsmede de economische eigendom van deze zaken of rechten.
+
+##### Artikel 4a
+
+1. De in [artikel 15, eerste lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling krachtens vereffening van het vermogen van een rechtspersoon is van toepassing wanneer de vereffening plaatsheeft in het kader van de voortzetting van een door een vennootschap gedreven onderneming door de aandeelhouders, als bedoeld in [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). Onder vennootschap wordt in de vorige volzin verstaan de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid, mits deze vennootschappen uitsluitend natuurlijke personen als aandeelhouder hebben.
+
+2. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een vereffening is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de vereffening door de verkrijger rechtstreeks wordt voortgezet of mede voortgezet.
+
+3. Het tweede lid blijft buiten toepassing in geval van inbreng of omzetting van een onderneming, als bedoeld in [artikel 15, eerste lid, onderdeel e, onder 1°, onderscheidenlijk onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15).
+
+##### Artikel 5
+
+1. De in [artikel 15, eerste lid, onderdeel **e**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde vrijstelling bij omzetting van een niet in de vorm van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva worden ingebracht tegen toekenning van aandelen, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming.
+
+2. Onder toekenning van aandelen wordt begrepen het geval waarin naast de toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van de waarde van hetgeen op de aandelen is gestort, met dien verstande dat ingeval de omzetting plaatsvindt met toepassing van [artikel 3.65 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65), dit bedrag kan worden gesteld op het bedrag waarvoor de ondernemer op grond van de aan deze toepassing verbonden voorwaarden wordt gecrediteerd.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel **e**, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een omzetting is alsnog verschuldigd, indien de inbrenger binnen drie jaren na de omzetting niet meer in het bezit is van alle bij of in verband met die omzetting verkregen aandelen. De bepaling is eveneens van toepassing bij vervreemding van claims en het verlenen van een koopoptie op de aandelen, alsmede bij een gehele of gedeeltelijke terugbetaling van hetgeen op de aandelen is gestort.
+
+4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel **e**, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een omzetting is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de omzetting door de vennootschap wordt voortgezet.
+
+5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het derde lid bedoelde aandelen.
+
+6. Het vierde lid blijft buiten toepassing in geval van vervreemding in het kader van een fusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2002-01-01&g=2002-01-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2002-01-01&g=2002-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2002-01-01&g=2002-01-01).
+
+##### Artikel 5a
+
+1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens fusie is van toepassing indien een vennootschap uitsluitend de gehele onderneming of een zelfstandig onderdeel daarvan van een andere vennootschap verkrijgt tegen toekenning van aandelen.
+
+2. Onder toekenning van aandelen wordt begrepen het geval waarin naast de toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van de waarde van hetgeen op de aandelen is gestort.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een fusie is alsnog verschuldigd, indien de inbrengende vennootschap binnen drie jaren na de fusie niet meer in het bezit is van alle bij of in verband met die fusie verkregen aandelen.
+
+4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15) niet is geheven ter zake van een fusie is alsnog verschuldigd, indien de onderneming niet gedurende een periode van ten minste drie jaren na de fusie door de verkrijgende vennootschap wordt voortgezet.
+
+5. Het derde lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het derde lid bedoelde aandelen.
+
+6. Het vierde lid blijft buiten toepassing in geval van vervreemding van de onderneming in het kader van een fusie als bedoeld in dit artikel, een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2002-01-01&g=2002-01-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2002-01-01&g=2002-01-01).
+
+7. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
+
+##### Artikel 5b
+
+1. De in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde vrijstelling wegens interne reorganisatie is van toepassing indien een tot het concern behorende vennootschap onroerende zaken overdraagt aan een andere vennootschap van dat concern.
+
+2. Onder een concern wordt verstaan een vennootschap waarvan niet alle of nagenoeg alle aandelen onmiddellijk of middellijk in het bezit zijn van een andere vennootschap, te zamen met alle andere vennootschappen waarin zij onmiddellijk of middellijk alle of nagenoeg alle aandelen bezit.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven wegens interne reorganisatie is alsnog verschuldigd indien de vennootschap die de onroerende zaken heeft verkregen, binnen drie jaren na de verkrijging niet langer deel uitmaakt van het concern.
+
+4. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15)niet is geheven wegens interne reorganisatie is alsnog verschuldigd voor zover de overdragende vennootschap tot het concern is gaan behoren als gevolg van een niet onder [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37) vallende gebeurtenis waarbij geen overdrachtsbelasting verschuldigd was, indien de onroerende zaken zijn verkregen door die overdragende vennootschap vóór de hiervoor bedoelde gebeurtenis en de onderneming van die vennootschap niet gedurende drie jaren binnen het concern is voortgezet.
+
+5. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
+
+6. Voor de toepassing van dit artikel worden onder onroerende zaken mede verstaan fictieve onroerende zaken als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), rechten waaraan onroerende zaken of fictieve onroerende zaken zijn onderworpen, alsmede de economische eigendom van deze zaken of rechten.
+
+##### Artikel 5c
+
+1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens splitsing is van toepassing wanneer sprake is van een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) van een vennootschap met een in aandelen verdeeld kapitaal en aan de splitsing in overwegende mate zakelijke overwegingen ten grondslag liggen.
+
+2. Ingeval een aandeelhouder dan wel een samenwerkende groep van aandeelhouders ten tijde van de splitsing doorslaggevende zeggenschap in de splitsende vennootschap heeft, deze in een bij de splitsing betrokken lichaam behoudt of verkrijgt doch deze binnen drie jaren na de splitsing kwijtraakt door vervreemding van aandelen, dan wel ingeval van een afsplitsing waarbij de verkrijgende vennootschap aandelen uitreikt aan de splitsende vennootschap, de splitsende vennootschap zijn belang in de verkrijgende vennootschap binnen drie jaren na de splitsing geheel of ten dele vervreemdt, worden in overwegende mate zakelijke overwegingen niet aanwezig geacht, tenzij het tegendeel aannemelijk wordt gemaakt.
+
+3. Het tweede lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), met dien verstande dat de in dat kader verkregen aandelen in de plaats komen van de in het tweede lid bedoelde aandelen.
+
+4. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de open commanditaire vennootschap, alsmede andere vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en dat naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
+
+##### Artikel 6
+
+1. De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), is slechts van toepassing, indien het verkregene is ingeschreven in een van de ingevolge de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) vastgestelde registers van beschermde monumenten.
+
+2. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven, is alsnog verschuldigd, indien binnen een tijdvak van 25 jaren na de verkrijging:
+
+- a. het verkregene niet meer voorkomt in het register, bedoeld in het eerste lid, of
+
+- b. naar het oordeel van Onze Minister de verkrijger niet meer hoofdzakelijk de instandhouding van monumenten ten doel heeft.
+
+##### Artikel 6a
+
+1. Voor de toepassing van [artikel 15, eerste lid, onderdeel q, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) is sprake van:
+
+- a. naburige landerijen indien de afstand tussen de oude en de nieuwe landerijen, gemeten over de openbare weg en zonder dat men zich hoeft te begeven over het eigendom van een derde anders dan krachtens verkregen recht, niet groter is dan 10 kilometer;
+
+- b. verbetering van de landbouwstructuur indien de verkrijger de verkregen landerijen bedrijfsmatig exploiteert, de afstand van de bedrijfsgebouwen tot de verkregen landerijen, gemeten op de in onderdeel a bedoelde wijze, ten hoogste 25 kilometer bedraagt en de verkregen landerijen nog gedurende ten minste een jaar na de verkrijging als zodanig in gebruik zijn.
+
+2. Voor de toepassing van het eerste lid wordt onder landerijen mede verstaan: de als kweek- of teeltmiddel gebruikte ondergrond van glasopstanden.
+
+##### Artikel 7
+
+1. Met betrekking tot de belasting ter zake van een verkrijging van andere goederen dan bedoeld in [artikel 4, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), waarvan een onderhandse akte is opgemaakt op de voet van artikel II van de wet van 28 juni 1956 (**Stb.** 376), wordt aangifte gedaan door het aanbieden van die akte ter registratie. Het verschuldigde bedrag aan overdrachtsbelasting wordt vermeld in een aan de voet van de akte gestelde, door de verkrijger of namens deze door de persoon die de akte heeft opgesteld, ondertekende verklaring. Voor zover in de akte niet alle gegevens voorkomen waarvan kennisneming van belang kan zijn voor de heffing van de belasting, dienen deze te worden opgenomen in die verklaring.
+
+2. Ten aanzien van de inhoud van de akte, voor zover deze van belang is voor de heffing van de belasting, en de in het eerste lid bedoelde verklaring, zijn de wettelijke bepalingen met betrekking tot de aangifte van overeenkomstige toepassing als vormden die akte en verklaring te zamen de door de verkrijger gedane aangifte.
+
+3. De persoon die de in het eerste lid bedoelde akte heeft opgesteld, is hoofdelijk aansprakelijk voor de belasting welke is verschuldigd wegens de verkrijging waarvan de akte is opgemaakt, zulks tot het bedrag dat ingevolge de inhoud van die akte is verschuldigd.
+
+### Hoofdstuk II. Assurantiebelasting
+
+##### Artikel 8
+
+Vervallen
+
+##### Artikel 9
+
+Vervallen
+
+##### Artikel 9a
+
+1. Het verzoek om een vergunning voor een fiscaal vertegenwoordiger bevat de volgende gegevens:
+
+- a. naam, adres en woon- of vestigingsplaats van de verzoeker;
+
+- b. het beoogde tijdstip van aanvang van het fiscaal vertegenwoordigerschap; en
+
+- c. naam, adres en woon- of vestigingsplaats van de verzekeraar die niet in Nederland woont of is gevestigd.
+
+2. Een vergunning voor een fiscaal vertegenwoordiger wordt slechts verleend indien de verzoeker:
+
+- a. in Nederland woont of is gevestigd;
+
+- b. in de afgelopen vijf jaren niet wegens overtreding van de wettelijke bepalingen inzake rijksbelastingen onherroepelijk is veroordeeld; en
+
+- c. naar het oordeel van de inspecteur voldoende solvabel is.
+
+3. De verlening van een vergunning voor een fiscaal vertegenwoordiger is tevens gebonden aan de voorwaarde dat de verzoeker optreedt voor alle verzekeringen waarvoor assurantiebelasting is verschuldigd van de verzekeraar die niet in Nederland woont of is gevestigd.
+
+4. De inspecteur kan de vergunning intrekken of wijzigen:
+
+- a. op verzoek van de fiscaal vertegenwoordiger met schriftelijke instemming van de verzekeraar die niet in Nederland woont of is gevestigd;
+
+- b. op verzoek van de verzekeraar die niet in Nederland woont of is gevestigd; of
+
+- c. indien de fiscaal vertegenwoordiger niet meer voldoet aan de voorwaarden waaronder de vergunning is verleend.
+
+5. De verzekeraar die niet in Nederland woont of is gevestigd wordt van de intrekking of wijziging van de vergunning in kennis gesteld, alsmede van de gronden waarop deze berust.
+
+### Hoofdstuk III. Kapitaalsbelasting
+
+##### Artikel 10
+
+De in [artikel 37, eerste lid, onderdelen **a** en **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37)bedoelde vrijstellingen zijn slechts van toepassing, indien het lichaam:
+
+- a. een boekhouding voert waarin de voor die toepassing van belang zijnde gegevens op duidelijke en overzichtelijke wijze zijn vermeld;
+
+- b. binnen een maand na het bijeenbrengen van kapitaal aangifte doet door de inlevering van een aangiftebiljet waarin onder vermelding van de in onderdeel **a** bedoelde gegevens een beroep op die toepassing wordt gedaan.
+
+##### Artikel 11
+
+Vervallen
+
+##### Artikel 12
+
+Vervallen
+
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+1. De belasting die door toepassing van [artikel 37, eerste lid, onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37)niet is geheven ter zake van een fusie als bedoeld in [artikel 37, tweede lid, onderdeel **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), is door het lichaam alsnog verschuldigd, indien het lichaam binnen vijf jaren na het tijdstip van de inbreng niet meer in het bezit is van alle aandelen in het andere lichaam die het op dat tijdstip heeft verworven of reeds in zijn bezit had en van ten minste 75 percent van de aandelen in het andere lichaam.
+
+2. Het eerste lid blijft buiten toepassing in geval van vervreemding van de aandelen in het kader van een fusie, splitsing of interne reorganisatie, als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), alsmede ingeval het lichaam dat de aandelen heeft verworven, wordt ontbonden en geliquideerd.
+
+##### Artikel 15
+
+Vervallen
+
+##### Artikel 16
+
+De vrijstelling, bedoeld in [artikel 37, eerste lid, onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=37), is slechts van toepassing, voor zover de nominale waarde van het in aandelen verdeelde kapitaal van het nieuwe lichaam niet meer beloopt dan het kapitaal dat bij het omgezette lichaam in een van de lid-staten van de Europese Unie met een kapitaalsbelasting was belast.
+
+### Hoofdstuk IV. Beursbelasting
+
+##### Artikel 17
+
+Vervallen
+
+##### Artikel 18
+
+Vervallen
+
+##### Artikel 19
+
+1. Dit besluit treedt in werking met ingang van 1 januari 1972.
+
+2. Dit besluit kan worden aangehaald als Uitvoeringsbesluit belastingen van rechtsverkeer.
+
+## Bijlage
+
+- a. De waarde van een canon, een retributie of een huur van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
+
+| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
+| --- | --- | --- |
+| 15, |   | 20 jaar of ouder, doch jonger dan 30 jaar is, |
+| 14, |   | 30 jaar of ouder, doch jonger dan 40 jaar is, |
+| 13, |   | 40 jaar of ouder, doch jonger dan 50 jaar is, |
+| 12, |   | 50 jaar of ouder, doch jonger dan 55 jaar is, |
+| 11, |   | 55 jaar of ouder, doch jonger dan 60 jaar is, |
+| 10, |   | 60 jaar of ouder, doch jonger dan 65 jaar is, |
+| 8, |   | 65 jaar of ouder, doch jonger dan 70 jaar is, |
+| 7, |   | 70 jaar of ouder, doch jonger dan 75 jaar is, |
+| 5, |   | 75 jaar of ouder, doch jonger dan 80 jaar is |
+| 4, |   | 80 jaar of ouder, doch jonger dan 85 jaar is, |
+| 3, |   | 85 jaar of ouder, doch jonger dan 90 jaar is, |
+| 2, |   | 90 jaar of ouder is. |
+
+- b. De waarde van een canon, een retributie of een huur die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij bestaat, iedere euro berekend tegen de volgende bedragen:
+
+|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid niet van het leven afhankelijk is |
+| --- | --- | --- | --- | --- |
+|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder |   |
+| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
+| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
+| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
+| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
+| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
+| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
+
+- c. De waarde van een canon, een retributie of een huur voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
+
+- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
+
+- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
+
+- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
+
+- e. Een canon, een retributie of een huur die vervalt bij het overlijden:
+
+- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
+
+- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
+
+- f. Een canon, een retributie of een huur tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie of een huur tot het geschatte gemiddelde jaarlijkse bedrag.
+
+- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
+
+- h. Een canon, een retributie of een huur tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie of een huur tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 5d
+
+1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling is op een verkrijging door een instelling of vereniging als bedoeld in [artikel 6.33, eerste lid, onderdelen b en c, van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) van toepassing:
+
+- a. bij een juridische fusie tussen twee of meer van deze instellingen of verenigingen, indien in het kader daarvan alle activa en passiva van één of meer van de verdwijnende instellingen of verenigingen onder algemene titel overgaan op de verkrijgende instelling of vereniging of op een in het kader van de fusie nieuw opgerichte dergelijke instelling of vereniging, mits bij de overgang commerciële factoren geen rol spelen;
+
+- b. bij een taakoverdracht tussen twee of meer van deze instellingen of verenigingen, indien in het kader daarvan alle activa en passiva die betrekking hebben op de overgedragen taak aan de verkrijgende instelling of vereniging worden overgedragen, mits bij de overdracht commerciële factoren geen rol spelen.
+
+2. De vrijstelling is niet van toepassing op de verkrijging indien de overdracht uitsluitend de exploitatie van onroerende zaken inhoudt of de afzonderlijke overdracht van onroerende zaken betreft of als de onroerende zaken niet worden aangewend voor de overgedragen taak.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven, is alsnog verschuldigd indien de verkrijgende instelling of vereniging binnen drie jaren na de fusie of taakoverdracht niet meer bestaat of niet meer aangemerkt wordt als een instelling of vereniging als bedoeld in [artikel 6.33, eerste lid, onderdelen b en c, van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33).
+
+4. Het derde lid blijft buiten toepassing indien een verkrijgende instelling of vereniging niet langer als instelling of vereniging als bedoeld in [artikel 6.33, eerste lid, onderdelen b en c, van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) wordt aangemerkt als gevolg van een juridische fusie als bedoeld in het eerste lid, onderdeel a, of als gevolg van een taakoverdracht als bedoeld in het eerste lid, onderdeel b, voor zover de belasting betrekking heeft op onroerende zaken die in het kader van deze juridische fusie zijn overgegaan of in het kader van deze taakoverdracht zijn overgedragen.
+
+### Hoofdstuk II. Assurantiebelasting
+
+### Hoofdstuk III. Kapitaalsbelasting
+
+### Hoofdstuk IV. Beursbelasting
+
+## Bijlage
+
+- a. De waarde van een canon, een retributie of een huur van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
+
+| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
+| --- | --- | --- |
+| 15, |   | 20 jaar of ouder, doch jonger dan 30 jaar is, |
+| 14, |   | 30 jaar of ouder, doch jonger dan 40 jaar is, |
+| 13, |   | 40 jaar of ouder, doch jonger dan 50 jaar is, |
+| 12, |   | 50 jaar of ouder, doch jonger dan 55 jaar is, |
+| 11, |   | 55 jaar of ouder, doch jonger dan 60 jaar is, |
+| 10, |   | 60 jaar of ouder, doch jonger dan 65 jaar is, |
+| 8, |   | 65 jaar of ouder, doch jonger dan 70 jaar is, |
+| 7, |   | 70 jaar of ouder, doch jonger dan 75 jaar is, |
+| 5, |   | 75 jaar of ouder, doch jonger dan 80 jaar is |
+| 4, |   | 80 jaar of ouder, doch jonger dan 85 jaar is, |
+| 3, |   | 85 jaar of ouder, doch jonger dan 90 jaar is, |
+| 2, |   | 90 jaar of ouder is. |
+
+- b. De waarde van een canon, een retributie of een huur die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij bestaat, iedere euro berekend tegen de volgende bedragen:
+
+|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid niet van het leven afhankelijk is |
+| --- | --- | --- | --- | --- |
+|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder |   |
+| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
+| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
+| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
+| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
+| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
+| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
+
+- c. De waarde van een canon, een retributie of een huur voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
+
+- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
+
+- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
+
+- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
+
+- e. Een canon, een retributie of een huur die vervalt bij het overlijden:
+
+- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
+
+- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
+
+- f. Een canon, een retributie of een huur tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie of een huur tot het geschatte gemiddelde jaarlijkse bedrag.
+
+- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
+
+- h. Een canon, een retributie of een huur tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie of een huur tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 5bis
+
+1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens fusie is van toepassing bij overgang van vermogen onder algemene titel in het kader van een juridische fusie tussen rechtspersonen, mits die fusie hoofdzakelijk plaatsvindt op grond van zakelijke overwegingen. De eerste volzin blijft buiten toepassing in geval van een fusie waarop [artikel 5b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2012-01-01&g=2012-01-01), van toepassing is.
+
+2. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens fusie is niet van toepassing dan wel de belasting die door toepassing van artikel 15, eerste lid, onderdeel h, van de wet niet is geheven is alsnog verschuldigd, indien:
+
+- a. een aandeelhouder van een verdwijnende rechtspersoon, welke rechtspersoon op het tijdstip van de fusie kwalificeert als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), op dat tijdstip of op enig tijdstip in het daaraan voorafgaande jaar, al dan niet tezamen met een tot hetzelfde concern als gedefinieerd in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2012-01-01&g=2012-01-01), behorend lichaam, een belang van ten minste een derde gedeelte in de verdwijnende rechtspersoon bezit of heeft bezeten, daarvoor als gevolg van de fusie geen in de plaats komend soortgelijk belang in de verkrijgende rechtspersoon of een groepsmaatschappij daarvan verkrijgt, dan wel dat soortgelijk belang binnen drie jaren na de fusie geheel of ten dele vervreemdt;
+
+- b. een aandeelhouder van de verkrijgende rechtspersoon, welke rechtspersoon op het tijdstip van de fusie kwalificeert als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), op dat tijdstip of op enig tijdstip in het daaraan voorafgaande jaar, al dan niet tezamen met een tot hetzelfde concern als gedefinieerd in [artikel 5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2012-01-01&g=2012-01-01), behorend lichaam, een belang van ten minste een derde gedeelte in de verkrijgende rechtspersoon bezit of heeft bezeten, dat belang binnen drie jaren na de fusie geheel of ten dele vervreemdt;
+
+- c. een aandeelhouder van een verdwijnende rechtspersoon als gevolg van de fusie een belang van ten minste een derde gedeelte in de verkrijgende rechtspersoon of een groepsmaatschappij daarvan, welke rechtspersoon of groepsmaatschappij als gevolg van de fusie kwalificeert als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), verkrijgt en dat belang binnen drie jaren na de fusie geheel of ten dele vervreemdt;
+
+- d. een aandeelhouder van de verkrijgende rechtspersoon of van een groepsmaatschappij daarvan als gevolg van de fusie een belang van ten minste een derde gedeelte in de verkrijgende rechtspersoon of de groepsmaatschappij daarvan, welke rechtspersoon of groepsmaatschappij als gevolg van de fusie kwalificeert als een rechtspersoon als bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), bezit en dat belang binnen drie jaren na de fusie geheel of ten dele vervreemdt.
+
+3. De belasting die door toepassing van [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) niet is geheven ter zake van een fusie is alsnog verschuldigd, indien de activiteiten van de fuserende rechtspersonen niet gedurende een periode van ten minste drie jaren na de fusie door de verkrijgende rechtspersoon in haar geheel worden voortgezet.
+
+4. Het tweede lid blijft buiten toepassing in geval van een vervreemding van het belang in het kader van een geruisloze terugkeer als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=4a&z=2012-01-01&g=2012-01-01), een juridische fusie als bedoeld in dit artikel, een bedrijfsfusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2012-01-01&g=2012-01-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2012-01-01&g=2012-01-01), een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2012-01-01&g=2012-01-01), dan wel indien ten minste 75 percent van de aandelen van de verkrijgende vennootschap wordt verkregen door een andere vennootschap tegen toekenning van eigen aandelen, waaronder mede wordt begrepen het geval waarin naast toekenning van aandelen tevens een bedrag in geld wordt betaald van ten hoogste 10 percent van hetgeen op de aandelen is gestort. De eerste volzin is slechts van toepassing indien het toegekende belang in de plaats komt van het in het tweede lid bedoelde belang dan wel het in het tweede lid bedoelde belang de resterende periode in het bezit blijft bij de opvolgende verkrijger.
+
+5. Het derde lid blijft buiten toepassing in geval van vervreemding van de activiteiten in het kader van een inbreng als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=4&z=2012-01-01&g=2012-01-01), een geruisloze terugkeer als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=4a&z=2012-01-01&g=2012-01-01), een juridische fusie als bedoeld in dit artikel, een bedrijfsfusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2012-01-01&g=2012-01-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2012-01-01&g=2012-01-01), een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2012-01-01&g=2012-01-01), mits de in het derde lid bedoelde activiteiten gedurende de resterende periode door de opvolgende verkrijger worden voortgezet. In geval van een inbreng als bedoeld in artikel 4 is de eerste volzin slechts van toepassing indien het ter zake van de inbreng verkregen belang in de vennootschap de resterende periode blijft behouden.
+
+6. Het vierde en het vijfde lid blijven buiten toepassing ingeval de daargenoemde gebeurtenissen in samenhang met de juridische fusie in overwegende mate gericht zijn op het ontgaan van belastingheffing.
+
+7. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling is eveneens van toepassing op uit de fusie voortvloeiende verkrijgingen van een belang in een verkrijgende rechtspersoon of een groepsmaatschappij daarvan, welke rechtspersoon of groepsmaatschappij kwalificeert als een lichaam als bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4).
+
+8. Voor de toepassing van dit artikel wordt onder rechtspersoon verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de vereniging met volledige rechtsbevoegdheid, de coöperatie, de onderlinge waarborgmaatschappij, alsmede de stichting. Onder rechtspersoon wordt mede verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
+
+### Hoofdstuk II. Assurantiebelasting
+
+### Hoofdstuk III. Kapitaalsbelasting
+
+### Hoofdstuk IV. Beursbelasting
+
+## Bijlage
+
+- a. De waarde van een canon, een retributie of een huur van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
+
+| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
+| --- | --- | --- |
+| 15, |   | 20 jaar of ouder, doch jonger dan 30 jaar is, |
+| 14, |   | 30 jaar of ouder, doch jonger dan 40 jaar is, |
+| 13, |   | 40 jaar of ouder, doch jonger dan 50 jaar is, |
+| 12, |   | 50 jaar of ouder, doch jonger dan 55 jaar is, |
+| 11, |   | 55 jaar of ouder, doch jonger dan 60 jaar is, |
+| 10, |   | 60 jaar of ouder, doch jonger dan 65 jaar is, |
+| 8, |   | 65 jaar of ouder, doch jonger dan 70 jaar is, |
+| 7, |   | 70 jaar of ouder, doch jonger dan 75 jaar is, |
+| 5, |   | 75 jaar of ouder, doch jonger dan 80 jaar is |
+| 4, |   | 80 jaar of ouder, doch jonger dan 85 jaar is, |
+| 3, |   | 85 jaar of ouder, doch jonger dan 90 jaar is, |
+| 2, |   | 90 jaar of ouder is. |
+
+- b. De waarde van een canon, een retributie of een huur die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij bestaat, iedere euro berekend tegen de volgende bedragen:
+
+|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid niet van het leven afhankelijk is |
+| --- | --- | --- | --- | --- |
+|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder |   |
+| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
+| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
+| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
+| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
+| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
+| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
+
+- c. De waarde van een canon, een retributie of een huur voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
+
+- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
+
+- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
+
+- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
+
+- e. Een canon, een retributie of een huur die vervalt bij het overlijden:
+
+- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
+
+- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
+
+- f. Een canon, een retributie of een huur tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie of een huur tot het geschatte gemiddelde jaarlijkse bedrag.
+
+- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
+
+- h. Een canon, een retributie of een huur tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie of een huur tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 3a
+
+1. De termijn waarbinnen de verkrijging plaatsvindt, bedoeld in [artikel 15, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), bedraagt 24 maanden na het tijdstip van de eerste ingebruikneming of de ingangsdatum van de verhuur als deze vóór het tijdstip van de eerste ingebruikneming ligt en geldt indien het tijdstip van de eerste ingebruikneming of de ingangsdatum van de verhuur als deze vóór het tijdstip van de eerste ingebruikneming ligt, is gelegen tussen 31 oktober 2012 en 1 januari 2015.
+
+2. De verkrijging is opgenomen in een notariële akte die is verleden binnen de in het eerste lid bedoelde termijn waarbinnen de verkrijging plaatsvindt.
+
+### Hoofdstuk II. Assurantiebelasting
+
+### Hoofdstuk III. Kapitaalsbelasting
+
+### Hoofdstuk IV. Beursbelasting
+
+## Bijlage
+
+- a. De waarde van een canon, een retributie of een huur van het leven van één persoon afhankelijk, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met:
+
+| 16, | wanneer degene gedurende wiens leven de schuldplichtigheid moet plaatshebben | jonger dan 20 jaar is, |
+| --- | --- | --- |
+| 15, |   | 20 jaar of ouder, doch jonger dan 30 jaar is, |
+| 14, |   | 30 jaar of ouder, doch jonger dan 40 jaar is, |
+| 13, |   | 40 jaar of ouder, doch jonger dan 50 jaar is, |
+| 12, |   | 50 jaar of ouder, doch jonger dan 55 jaar is, |
+| 11, |   | 55 jaar of ouder, doch jonger dan 60 jaar is, |
+| 10, |   | 60 jaar of ouder, doch jonger dan 65 jaar is, |
+| 8, |   | 65 jaar of ouder, doch jonger dan 70 jaar is, |
+| 7, |   | 70 jaar of ouder, doch jonger dan 75 jaar is, |
+| 5, |   | 75 jaar of ouder, doch jonger dan 80 jaar is |
+| 4, |   | 80 jaar of ouder, doch jonger dan 85 jaar is, |
+| 3, |   | 85 jaar of ouder, doch jonger dan 90 jaar is, |
+| 2, |   | 90 jaar of ouder is. |
+
+- b. De waarde van een canon, een retributie of een huur die na een bepaalde tijd vervalt, wordt gesteld op het jaarlijkse bedrag, vermenigvuldigd met het aantal jaren gedurende welke zij bestaat, iedere euro berekend tegen de volgende bedragen:
+
+|   | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid afhankelijk is van het leven van een persoon | indien de schuldplichtigheid niet van het leven afhankelijk is |
+| --- | --- | --- | --- | --- |
+|   | jonger dan 40 jaar | 40 jaar of ouder, doch jonger dan 60 jaar | 60 jaar of ouder |   |
+| het eerste vijftal jaren | 0,84 | 0,83 | 0,75 | 0,85 |
+| het tweede vijftal jaren | 0,62 | 0,60 | 0,40 | 0,64 |
+| het derde vijftal jaren | 0,46 | 0,42 | 0,15 | 0,48 |
+| het vierde vijftal jaren | 0,34 | 0,28 | 0,04 | 0,36 |
+| het vijfde vijftal jaren | 0,25 | 0,18 | 0,02 | 0,28 |
+| de volgende jaren | 0,12 | 0,06 | – | 0,15 |
+
+- c. De waarde van een canon, een retributie of een huur voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.
+
+- d. De overeenkomstig onderdeel **b** berekende waarde kan, indien de schuldplichtigheid:
+
+- 1. van het leven afhankelijk is, niet hoger zijn dan de waarde die verkregen zou zijn, wanneer de schuldplichtigheid niet tevens na een bepaalde tijd zou vervallen;
+
+- 2. niet van het leven afhankelijk is, niet hoger zijn dan het zeventienvoud van het jaarlijkse bedrag.
+
+- e. Een canon, een retributie of een huur die vervalt bij het overlijden:
+
+- 1. van de langstlevende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren jonger is dan de jongste van de vorenbedoelde personen;
+
+- 2. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een canon, een retributie of een huur, afhankelijk van het leven van iemand die vijf jaren ouder is dan de oudste van de vorenbedoelde personen.
+
+- f. Een canon, een retributie of een huur tot een onzeker jaarlijks bedrag wordt gelijkgesteld met een canon, een retributie of een huur tot het geschatte gemiddelde jaarlijkse bedrag.
+
+- g. De waarde van een schuldplichtigheid, niet vallende onder een van de vorige leden, wordt gesteld op het bedrag waarvoor zodanige schuldplichtigheid zou kunnen worden verkocht.
+
+- h. Een canon, een retributie of een huur tot andere zaken dan geld, wordt gelijkgesteld met een canon, een retributie of een huur tot een jaarlijks bedrag gelijk aan de waarde welke aan die zaken in het economische verkeer kan worden toegekend.
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
