@@ -63,9 +63,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 Deze regeling wordt aangehaald als: Regeling Nationaal Noodnet.
 
 Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden geplaatst.
-
-##### Artikel 3a
-
-Deze regeling berust op [artikel 23, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
-
-Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politieblad worden geplaatst.
