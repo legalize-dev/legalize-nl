@@ -4,7 +4,7 @@ identifier: "BWBR0008846"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "1997-12-01"
+last_updated: "2004-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008846"
 soort: "AMvB"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 
 ##### Artikel 2
 
-Om in het krachtens artikel 3 van de wet ingestelde register van artsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot arts die voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=1997-12-01&g=1997-12-01) van dit besluit.
+Om in het krachtens artikel 3 van de wet ingestelde register van artsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot arts die voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2004-09-23&g=2004-09-23) van dit besluit.
 
 ##### Artikel 3
 
-De opleiding tot arts is erop gericht dat de betrokkene de kennis, het inzicht en de vaardigheden verwerft op het niveau van de algemene eindtermen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=1&z=1997-12-01&g=1997-12-01) bij dit besluit, in samenhang met de lijst van problemen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=2&z=1997-12-01&g=1997-12-01) bij dit besluit.
+De opleiding tot arts is erop gericht dat de betrokkene de kennis, het inzicht en de vaardigheden verwerft op het niveau van de algemene eindtermen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=1&z=2004-09-23&g=2004-09-23) bij dit besluit, in samenhang met de lijst van problemen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=2&z=2004-09-23&g=2004-09-23) bij dit besluit.
 
 ##### Artikel 4
 
@@ -68,13 +68,13 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen arts.
 
-## Bijlage 1. bij artikel 3 van het Besluit opleidingseisen arts
+## Bijlage 1. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2004-09-23&g=2004-09-23) van het Besluit opleidingseisen arts
 
-### ALGEMENE EINDTERMEN
+### 1. ALGEMENE EINDTERMEN
 
-### 1. De medische aspecten
+### **KENNIS, VAARDIGHEDEN EN PROFESSIONEEL GEDRAG:**
 
-### 1.1
+### **MEDISCHE ASPECTEN**
 
 De mens op somatisch, psychisch en sociaal gebied:
 
@@ -100,57 +100,57 @@ Het aanvullende onderzoek:
 
 ### 1.7
 
-De beheersing van het proces van het medisch probleemoplossen gedurende alle hierbovengenoemde stappen (probleemanalyse II):
+De arts is in staat:
 
 ### 1.8. Beleid
 
-### 1.8.1
+### **1.7. Probleemanalyse II**
 
-Het opstellen van een beleidsplan:
+De arts is in staat:
 
 – het in overleg met de patiënt kiezen uit (en weet hebben van) de verschillende beleidsmogelijkheden, op basis van hulpvraag van de patiënt en de bevindingen van het diagnostisch proces. Bij deze keus wordt rekening gehouden met het verwachte effect vergeleken met het natuurlijk beloop, patiëntgebonden factoren (zoals leeftijd, voorkeur en wensen van de patiënt, persoonlijke en gezinsomstandigheden, therapie-trouw), mogelijke neveneffecten, complicaties, de continuïteit van de zorg, eventuele co-morbiditeit en kosten.
 
-### 1.8.2
+### **Beleidsplan**
 
-Het op «maat» vorm geven van het beleidsplan:
+De arts is in staat:
 
-### 1.8.2.1
+### **Beleidsplan «op maat»**
 
 bij alle vormen van therapie:
 
 ### 1.8.2.2
 
-tijdens het therapeutisch gesprek:
+De arts beschikt over kennis met betrekking tot:
 
-### 1.8.2.3
+### **therapeutisch gesprek**
 
-adviseren en voorlichten bij gezondheid en ziekte ten aanzien van:
+De arts is in staat:
 
-### 1.8.2.4
+### **adviseren, voorlichten**
 
-farmacotherapie:
+De arts is in staat:
 
-### 1.8.2.5
+### **farmacotherapie**
 
-acute hulpverlening:
+De arts is in staat:
 
-– het kunnen handelen op minstens eerste hulp niveau (zoals thans omschreven in het Oranje Kruisboek).
+De arts beschikt over kennis met betrekking tot:
 
-### 1.8.2.6
+### **acute hulpverlening**
 
-verwijzen/consultatie:
+De arts is in staat:
 
-### 1.8.2.7
+### **verwijzen/consultatie**
 
-kennis hebben van:
+De arts is in staat:
 
-### 1.8.3
+### **Evaluatie van het ingestelde beleid/behandelingsresultaat**
 
-Het evalueren van het behandelingsresultaat:
+De arts is in staat:
 
-### 1.9
+### **1.9. Begeleiding**
 
-De begeleiding van de patiënt:
+De arts is in staat:
 
 ### 1.10
 
@@ -158,55 +158,55 @@ Verslaglegging en registratie:
 
 ### 1.11
 
-Preventie:
+De arts beschikt over kennis met betrekking tot:
 
-### 2. De wetenschappelijke aspecten
+### **1.11. Preventie en predictie**
 
 ### 2.1
 
-De grondbeginselen van wetenschappelijk onderzoek:
+De arts beschikt over kennis met betrekking tot:
 
-### 2.2
+### **KENNIS, VAARDIGHEDEN EN PROFESSIONEEL GEDRAG**
 
 De betekenis van het wetenschappelijk denken voor het handelen van de arts:
 
-### 2.3
+### **2.1. Grondbeginselen van wetenschappelijk onderzoek**
 
-Het bevorderen en onderhouden van de vakbekwaamheid:
+De arts is in staat:
 
 ### 3. De persoonlijke aspecten
 
-### 3.1
+### **2.2. Betekenis van het wetenschappelijk denken voor het handelen van de arts**
 
-De arts–patiënt relatie:
+De arts geeft blijk van:
 
 ### 3.2
 
-Zich bewust zijn dat voor het functioneren als arts vereist is:
+De arts beschikt over kennis met betrekking tot de wetenschappelijke achtergronden van:
 
-### 3.2.1
+### **2.3. Bevorderen en onderhouden van de vakbekwaamheid**
 
 Met betrekking tot persoonlijke eigenschappen:
 
 ### 3.2.2
 
-Met betrekking tot het medisch handelen:
+De arts is in staat:
 
-### 3.2.3
+### **bijhouden vakliteratuur**
 
-Met betrekking tot het werken in teamverband:
+De arts is in staat:
 
-### 3.3
+### **KENNIS, VAARDIGHEDEN EN PROFESSIONEEL GEDRAG:**
 
 Zich bewust zijn van de wederzijdse beïnvloeding van werk en privéleven en trachten tot een goede afstemming te komen.
 
-### 4. De aspecten in relatie tot de maatschappij en het gezondheidszorgsysteem
+### **3.1. Arts-patiënt relatie**
 
 ### 4.1
 
-Kennis van en inzicht in de structuur en het functioneren van gezondheidszorg:
+De arts is in staat:
 
-### 4.2
+### **3.2. Persoonlijk functioneren**
 
 Kennis van medische ethiek:
 
@@ -220,6 +220,158 @@ Globale kennis van de financiële aspecten van de gezondheidszorg:
 
 ## Bijlage 2. bij artikel 3 van het Besluit opleidingseisen arts
 
-### Problemen als uitgangspunt voor onderwijs
+### **3.3. Wederzijdse beïnvloeding van werk en privéleven**
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### **1.1. De mens als somatisch, psychisch en sociaal wezen**
+
+De arts beschikt over kennis en inzicht met betrekking tot:
+
+### **1.2. Probleemherkenning en -omschrijving**
+
+De arts is in staat:
+
+### **1.3. Anamnese**
+
+De arts is in staat:
+
+### **1.4. Lichamelijk onderzoek**
+
+De arts is in staat:
+
+### **1.5. Probleemanalyse I**
+
+De arts is in staat:
+
+### **1.6. Aanvullend onderzoek**
+
+De arts geeft blijk van:
+
+De arts beschikt over kennis met betrekking tot:
+
+### **1.8. Beleid**
+
+### **bij alle vormen van beleid/behandeling**
+
+De arts is in staat:
+
+De arts beschikt over kennis met betrekking tot de essentialia van:
+
+### **1.10. Verslaglegging en registratie**
+
+De arts is in staat:
+
+De arts is in staat:
+
+### 2. WETENSCHAPPELIJKE ASPECTEN
+
+De arts beschikt over kennis met betrekking tot:
+
+De arts is in staat:
+
+### **verantwoordelijkheid voor eigen deskundigheidsbevordering**
+
+De arts geeft blijk van:
+
+### 3. PERSOONLIJKE ASPECTEN
+
+De arts geeft blijk van:
+
+### **met betrekking tot persoonlijke eigenschappen**
+
+De arts geeft blijk van besef dat voor het functioneren als arts vereist is, dat hij:
+
+### **met betrekking tot het medisch handelen**
+
+De arts geeft blijk van besef dat het voor het functioneren als arts vereist is, dat hij:
+
+### **met betrekking tot het werken in teamverband:**
+
+De arts geeft blijk van besef dat voor het functioneren als arts vereist is, dat hij:
+
+De arts is in staat:
+
+### **KENNIS, VAARDIGHEDEN EN PROFESSIONEEL GEDRAG:**
+
+### 4. ASPECTEN IN RELATIE TOT DE MAATSCHAPPIJ EN HET GEZONDHEIDSZORGSYSTEEM
+
+### **4.1. Volksgezondheid en gezondheidszorg**
+
+De arts is in staat:
+
+De arts beschikt over kennis en inzicht met betrekking tot:
+
+### **4.2. Medische ethiek**
+
+De arts geeft blijk van:
+
+De arts is in staat:
+
+De arts beschikt over kennis met betrekking tot:
+
+### **4.3. Juridische aspecten van de gezondheidszorg en van de medische beroepsuitoefening**
+
+De arts is in staat:
+
+De arts beschikt over kennis en inzicht op hoofdlijnen met betrekking tot:
+
+## Bijlage 2. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2004-09-23&g=2004-09-23) van het Besluit opleidingseisen arts
+
+### PROBLEMEN ALS UITGANGSPUNTEN VOOR ONDERWIJS
+
+### **PROBLEMENLIJST**
+
+### 1. Algemeen
+
+### 2. Huid
+
+### 3. Hoofd
+
+### **Algemeen**
+
+### **Oog**
+
+### **Oor**
+
+### **Neus en neusbijholten**
+
+### 4. Mond- en keelholte, hals
+
+### 5. Thorax
+
+### 6. Mammae
+
+### 7. Abdomen
+
+### **Algemeen**
+
+### **Lies**
+
+### **Anale gebied**
+
+### 8. Urinewegen en geslachtsorganen
+
+### **Algemeen**
+
+### **Man**
+
+### **Vrouw**
+
+### 9. Bewegingsapparaat
+
+### 10. Zenuwstelsel
+
+### 11. Psychisch functioneren
+
+### 12. Seksueel functioneren
+
+### 13. Voortplanting
+
+### 14. Het jonge kind
+
+### 15. Sociaal-psychologische problemen (relevant voor het medisch handelen)
+
+### 16. Problemen ten gevolge van medisch handelen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
