@@ -4,7 +4,7 @@ identifier: "BWBR0003797"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "1996-06-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003797"
 soort: "wet"
@@ -62,7 +62,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3
 
-1. Voor de duur dat een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=1996-06-01&g=1996-06-01) van kracht is, geldt het in de volgende leden bepaalde.
+1. Voor de duur dat een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=2005-01-01&g=2005-01-01) van kracht is, geldt het in de volgende leden bepaalde.
 
 2. Overdracht en aanvaarding van spaarbewijzen is verboden tenzij door tussenkomst van een lid van de Vereniging voor de Effectenhandel dan wel de onderneming of instelling die de spaarbewijzen heeft uitgegeven.
 
@@ -70,11 +70,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3a
 
-De onderneming of instelling die bedrijfsmatig een spaarbewijs uitgeeft of een uitbetaling doet tegen inlevering van een spaarbewijs onderscheidenlijk degene die tussenkomst verleent bij de overdracht en aanvaarding van een spaarbewijs, stelt bij deze handeling de identiteit van de tegenpartij onderscheidenlijk van degene die het spaarbewijs overdraagt en van degene die het spaarbewijs aanvaardt, vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) (**Stb.** 1993, 660) of van een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet dan wel een geldig rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) en neemt de aard en het nummer daarvan alsmede een duidelijke omschrijving van het aantal, de soort en de onderscheiden nummers van de betrokken spaarbewijzen op in de administratie.
+De onderneming of instelling die bedrijfsmatig een spaarbewijs uitgeeft of een uitbetaling doet tegen inlevering van een spaarbewijs onderscheidenlijk degene die tussenkomst verleent bij de overdracht en aanvaarding van een spaarbewijs, stelt bij deze handeling de identiteit van de tegenpartij onderscheidenlijk van degene die het spaarbewijs overdraagt en van degene die het spaarbewijs aanvaardt, vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en neemt de aard en het nummer daarvan alsmede een duidelijke omschrijving van het aantal, de soort en de onderscheiden nummers van de betrokken spaarbewijzen op in de administratie.
 
 ##### Artikel 4
 
-Handelen in strijd met een op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=1996-06-01&g=1996-06-01) algemeen verbindend verklaarde regeling of de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=1996-06-01&g=1996-06-01), gegeven nadere regels is een strafbaar feit.
+Handelen in strijd met een op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=2005-01-01&g=2005-01-01) algemeen verbindend verklaarde regeling of de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=2005-01-01&g=2005-01-01), gegeven nadere regels is een strafbaar feit.
 
 ##### Artikel 5
 
@@ -86,7 +86,7 @@ Deze wet is niet van toepassing op:
 
 - a. waardepapieren, uitgegeven door publiekrechtelijke lichamen;
 
-- b. waardepapieren die zijn uitgegeven op een tijdstip, waarop een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=1996-06-01&g=1996-06-01) niet van kracht is.
+- b. waardepapieren die zijn uitgegeven op een tijdstip, waarop een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003797&artikel=2&z=2005-01-01&g=2005-01-01) niet van kracht is.
 
 ##### Artikel 7
 
