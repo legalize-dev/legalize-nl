@@ -4,7 +4,7 @@ identifier: "BWBR0019286"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2003-06-06"
+last_updated: "2004-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019286"
 soort: "wet"
@@ -108,7 +108,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XVI
 
