@@ -53,9 +53,3 @@ Indien het bij koninklijke boodschap van 29 september 1997 ingediende voorstel v
 Deze regeling wordt aangehaald als: Regeling terugvordering geringe bedragen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 35, vierde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
