@@ -4,7 +4,7 @@ identifier: "BWBR0002356"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2017-03-01"
-last_updated: "1986-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002356"
 soort: "rijkswet"
@@ -110,11 +110,9 @@ De zaak kan bij de Hoge Raad ook worden bepleit door advocaten, ingeschreven bij
 
 1. Voor het instellen van het beroep in cassatie staat de verdachte en een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba een termijn open van veertien vrije dagen. Bij algemene maatregel van rijksbestuur kan een langere termijn worden vastgesteld voor de gevallen, waarin de verdachte geen woonplaats heeft op het eiland waar de beslissing, waartegen beroep in cassatie wordt ingesteld, is uitgesproken.
 
-2. De verdachte, door of namens wie beroep in cassatie is ingesteld, is, op straffe van niet-ontvankelijkheid, verplicht vóór de dag van de terechtzitting bij de Hoge Raad door een raadsman een schriftuur te doen indienen, houdende zijn middelen van cassatie.
+2. Alvorens de stukken van het geding aan de griffier van de Hoge Raad worden gezonden, wordt aan de raadsman van de verdachte, indien hij dit verzoekt, gelegenheid gegeven de stukken in te zien.
 
-3. In afwijking van het bepaalde in het [derde lid van artikel 433 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=433) zendt de griffier de stukken van het geding binnen dertig dagen na het verstrijken van de aldaar genoemde termijn aan de griffier van de Hoge Raad. Aan de raadsman van de verdachte wordt, indien hij dit verzoekt, tevoren gelegenheid gegeven de stukken in te zien.
-
-4. Aanzeggingen en kennisgevingen als voorgeschreven in [titel III van het derde Boek van het Nederlandse Wetboek van Strafvordering](onbekend) geschieden op de in de Nederlandse Antillen en Aruba gebruikelijke wijze, en, voor zover zij moeten uitgaan van de procureur-generaal bij de Hoge Raad, op diens uitnodiging door de zorg van een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba.
+3. Aanzeggingen en kennisgevingen als voorgeschreven in [titel III van het derde Boek van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=III) geschieden op de in de Nederlandse Antillen en Aruba gebruikelijke wijze, en, voor zover zij moeten uitgaan van de procureur-generaal bij de Hoge Raad, op diens uitnodiging door de zorg van een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba.
 
 ##### Artikel 12
 
