@@ -4,7 +4,7 @@ identifier: "BWBV0002871"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-01"
-last_updated: "2000-01-02"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002871"
 soort: "verdrag"
@@ -67,7 +67,7 @@ Zijn overeengekomen het volgende Verdrag te sluiten:
 
 - 10). wordt onder „tijdvakken van verzekering” verstaan tijdvakken van premie- of bijdragebetaling, van dienstbetrekking, van beroepswerkzaamheden of van wonen, die als tijdvakken van verzekering worden omschreven of aangemerkt ingevolge de wetgeving krachtens welke zij zijn vervuld, alsmede alle met deze tijdvakken gelijkgestelde tijdvakken, voor zover zij als zodanig door deze wetgeving zijn erkend;
 
-- 11). wordt onder „uitkering” of „pensioen” verstaan een uitkering of pensioen krachtens de toe te passen wetgeving, met inbegrip van alle bestanddelen daarvan, alsmede alle verhogingen en aanvullende betalingen.
+- 11). wordt onder „uitkering” of „pensioen” verstaan een uitkering of pensioen krachtens de toe te passen wetgeving, met inbegrip van alle bestanddelen daarvan, alsmede alle verhogingen en aanvullende betalingen ingevolge deze wetgeving.
 
 2. In dit Verdrag hebben andere termen de betekenis die daaraan wordt gegeven krachtens de wetgeving die wordt toegepast.
 
@@ -81,19 +81,19 @@ Tenzij in dit Verdrag anders wordt bepaald, is dit Verdrag van toepassing op per
 
 - A. in Nederland op alle wetgevingen betreffende de navolgende takken:
 
-- a). ziekteverzekering,
+- a). ziekteuitkeringsverzekering, met inbegrip van het stelsel inzake de aansprakelijkheid van een werkgever,
 
 - b). invaliditeitsverzekering,
 
 - c). ouderdomsverzekering,
 
-- d). weduwen- en wezenverzekering,
+- d). nabestaandenverzekering,
 
 - e). werkloosheidsverzekering,
 
 - f). kinderbijslagen;
 
-- B. in Israël op de Algemene Verzekeringswet (Samengevoegde tekst) 5728-1968 voorzover deze van toepassing is op de volgende takken:
+- B. in Israël op de Algemene Verzekeringswet (Samengevoegde tekst) 5755-1995 voor zover deze van toepassing is op de volgende takken:
 
 - a). verzekering inzake ouderdom en nagelaten betrekkingen,
 
@@ -129,7 +129,7 @@ Tenzij in dit Verdrag anders wordt bepaald, worden voor de toepassing van de wet
 
 ##### Artikel 4
 
-1. Tenzij in dit Verdrag anders wordt bepaald, kunnen pensioenen en andere uitkeringen, met uitzondering van werkloosheidsuitkeringen, niet worden verminderd, gewijzigd, geschorst of ingetrokken op grond van het feit dat de rechthebbende op het grondgebied van de andere Verdragsluitende Partij woont.
+1. Tenzij in dit Verdrag anders wordt bepaald, kunnen pensioenen en andere uitkeringen, met uitzondering van werkloosheidsuitkeringen, niet worden verminderd, gewijzigd, geschorst of ingetrokken op grond van het feit dat de uitkeringsgerechtigde of, in voorkomend geval, het kind, op het grondgebied van de andere Verdragsluitende Partij woont.
 
 2. Tenzij in dit Verdrag anders wordt bepaald, worden pensioenen en andere uitkeringen die zijn verschuldigd krachtens de wetgeving van een der Verdragsluitende Partijen, aan de onderdanen van de andere Verdragsluitende Partij, die in een derde Staat wonen, onder dezelfde voorwaarden en in dezelfde mate verleend als aan de onderdanen van eerstbedoelde Verdragsluitende Partij die in die derde Staat wonen.
 
@@ -141,7 +141,7 @@ De bepalingen van een wetgeving van een Verdragsluitende Partij inzake verminder
 
 ##### Artikel 6
 
-Onverminderd het bepaalde in de artikelen 7, 8 en 9 zijn personen op wie dit Verdrag van toepassing is, onderworpen aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan zij wonen of, wat de in artikel 2, eerste lid, genoemde takken van verzekering die niet van wonen afhankelijk zijn, betreft, aan de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan zij werkzaam zijn.
+Personen op wie de bepalingen van dit deel van het Verdrag van toepassing zijn, zijn onderworpen aan de wetgeving van slechts één Verdragsluitende Partij. Die wetgeving wordt vastgesteld in overeenstemming met de bepalingen van de artikelen 6a tot en met 6d.
 
 ##### Artikel 6a
 
@@ -169,25 +169,19 @@ Indien een persoon die op het grondgebied van een Verdragsluitende Partij werkza
 
 ##### Artikel 7
 
-1. Indien een persoon die op het grondgebied van een Verdragsluitende Partij werkzaam is, door zijn werkgever uitgezonden wordt naar het grondgebied van de andere Verdragsluitende Partij ten einde aldaar voor dezelfde werkgever arbeid te verrichten, blijft de wetgeving van eerstbedoelde Partij op hem van toepassing gedurende een periode van 24 maanden na zijn uitzending alsof hij nog op het grondgebied van deze Partij werkzaam was.
+1. Een werknemer of zelfstandige op wie ingevolge artikel 6a, tweede lid, artikel 6b en artikel 6d, tweede lid, de wetgeving van een Verdragsluitende Partij van toepassing is, alsmede de hem vergezellende gezinsleden, worden te dien einde beschouwd als personen waarop de wetgeving van die Verdragsluitende Partij van toepassing is.
 
-2. Op ambulant personeel dat, in dienst van een onderneming die voor rekening van anderen of voor eigen rekening vervoer verricht, werkzaam is op het grondgebied van beide Verdragsluitende Partijen, is de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de onderneming haar zetel heeft, van toepassing alsof het op dat grondgebied werkzaam was.
-
-3. Op personen die aan boord van een zeeschip of een luchtvaartuig werkzaam zijn in dienst van een onderneming die haar zetel op het grondgebied van een Verdragsluitende Partij heeft, is de wetgeving van die Partij van toepassing alsof zij op dat grondgebied werkzaam waren.
-
-4. Een werknemer op wie de wetgeving van een Verdragsluitende Partij ingevolge dit artikel van toepassing zal zijn, alsmede de gezinsleden die hem vergezellen, worden te dien einde als ingezetenen van die Verdragsluitende Partij beschouwd.
+2. Indien een in het eerste lid van dit artikel bedoeld gezinslid betaalde arbeid verricht op het grondgebied van de Verdragsluitende Partij waarnaar de persoon is uitgezonden, of een pensioen of een uitkering ontvangt ingevolge de wetgeving van deze Verdragsluitende Partij, is op deze persoon de wetgeving van deze Verdragsluitende Partij van toepassing.
 
 ##### Artikel 8
 
-1. Dit Verdrag laat onverlet de bepalingen van het Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer of van de algemene regelingen van internationaal gewoonterecht betreffende consulaire voorrechten en immuniteiten met betrekking tot de in artikel 2, eerste lid, genoemde wetgevingen.
-
-2. Artikel 7, eerste lid, is zonder beperking in tijd van toepassing op overheidspersoneel, behalve op de personen op wie de in het eerste lid van dit artikel bedoelde bepalingen en regelingen van toepassing zijn, wanneer zij naar het grondgebied van de andere Verdragsluitende Partij worden uitgezonden.
+Voor de toepassing van de Nederlandse wetgeving wordt een persoon op wie in overeenstemming met dit deel van het Verdrag de Nederlandse wetgeving van toepassing is, geacht op het grondgebied van Nederland te wonen.
 
 ##### Artikel 9
 
-1. De bevoegde autoriteiten van de beide Verdragsluitende Partijen kunnen bij overeenkomst in het belang van de betrokken personen of groepen personen uitzonderingen vaststellen op de artikelen 6, 7 en 8.
+1. De bevoegde autoriteiten van de beide Verdragsluitende Partijen kunnen bij overeenkomst in het belang van de betrokken personen voorzien in uitzonderingen op de artikelen 6a tot en met 6d.
 
-2. Artikel 7, vierde lid, is in de in dit artikel bedoelde gevallen, van overeenkomstige toepassing.
+2. Artikel 7 is in de in dit artikel bedoelde gevallen van overeenkomstige toepassing.
 
 ## DEEL III. BIJZONDERE BEPALINGEN INZAKE DE VERSCHILLENDE SOORTEN UITKERINGEN
 
