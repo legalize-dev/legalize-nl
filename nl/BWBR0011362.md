@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2004-03-14"
+last_updated: "2004-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -448,9 +448,9 @@ Zij kunnen voor groep 1 alleen geschikt worden verklaard mits dit wordt beperkt 
 
 ### 6.8.1. Veneuze aandoeningen
 
-Wanneer een ICD in of na bedoelde observatieperiode één of meer stroomstoten heeft afgegeven, geldt ongeschiktheid. Blijkt uit specialistisch onderzoek dat deze elektroshocks terecht zijn afgegeven, dan is de betrokkene ongeschikt gedurende zes maanden na de laatste shock. Daarna kan goedkeuring geschieden voor maximaal drie jaar. In geval van misplaatste shocks zijn ICD-dragers ongeschikt, totdat de kans op dergelijke shocks voldoende is gereduceerd door het opnieuw afstellen van de ICD. Het laatste moet blijken uit een observatieperiode van zes maanden na ICD-herafstelling, waarin geen elektroshocks mogen zijn opgetreden. Daarna kan goedkeuring geschieden voor maximaal drie jaar.
+In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
-### 6.8.2. Arteriële aandoeningen
+### 6.8. Perifere vaatziekten
 
 Zij kunnen voor groep 1 alleen geschikt worden verklaard mits dit wordt beperkt tot privé-gebruik.
 
@@ -460,17 +460,17 @@ Personen met dergelijke klachten zijn ongeschikt voor alle rijbewijzen zo lang d
 
 ### Hoofdstuk 7. Neurologische aandoeningen
 
-### 6.8.2. Arteriële aandoeningen
-
-Het betreft hier aandoeningen als aneurysma aortae, uitgebreide arteriosclerose, ziekte van Raynaud, de ziekte van Buerger en scleroderma. Voor de geschiktheidsbeoordeling kan volstaan worden met de aantekening van de keurend arts. Personen die - al dan niet na behandeling - geen of geringe klachten hebben kunnen worden goedgekeurd voor rijbewijzen van groep 1 met een maximale termijn van tien jaar, en voor rijbewijzen van groep 2 met een termijn van vijf tot tien jaar.
-
 ### 6.9. Onbegrepen, mogelijk circulatoir veroorzaakte syncope
 
 Personen met dergelijke klachten zijn ongeschikt voor alle rijbewijzen zo lang de diagnose onzeker is en er geen effectieve behandeling is ingesteld (of anderszins de klachten verdwijnen). Voor groep 1 geldt een klachtenvrije periode van een jaar, voor groep 2 van vijf jaar. Zie ook paragrafen 7.3 en 8.5.
 
 ### Hoofdstuk 7. Neurologische aandoeningen
 
-### 7.1. Inleiding
+Personen met dergelijke klachten zijn ongeschikt voor alle rijbewijzen zo lang de diagnose onzeker is en er geen effectieve behandeling is ingesteld (of anderszins de klachten verdwijnen). Voor groep 1 geldt een klachtenvrije periode van een jaar, voor groep 2 van vijf jaar. Zie ook paragrafen 7.3 en 8.5.
+
+### Hoofdstuk 7. Neurologische aandoeningen
+
+### 7.2. Epilepsie
 
 ### 7.3. Bewustzijnsstoornissen (anders dan epilepsie)
 
@@ -482,47 +482,47 @@ Deze personen zijn ongeschikt voor rijbewijzen van groep 2, behalve wanneer de b
 
 ### 7.2.2. Rijbewijzen van groep 2
 
+De betrokkene kan geschikt worden verklaard voor rijbewijzen van groep 1 als deze minstens één jaar vrij is van de bedoelde stoornissen. De geschiktheidstermijn is dan vijf tot tien jaar, afhankelijk van de ernst van het beeld.
+
+Deze personen zijn ongeschikt voor rijbewijzen van groep 2, behalve wanneer de bewustzijnsstoornissen de laatste vijf jaar zijn uitgebleven; in dat geval geldt een geschiktheidstermijn van vijf jaar.
+
+### 7.4. Min of meer progressieve, al of niet intermitterend verlopende ziektebeelden
+
 Het betreft hier aandoeningen van de hersenen of het ruggenmerg, zoals de ziekte van Parkinson, de ziekte van Alzheimer (zie voor dementie ook paragraaf 8.6), multiple sclerose, cervicale myelopathie, en ernstige ziekten van perifere zenuwen en skeletspieren. De betrokkenen komen in de regel niet in aanmerking voor rijbewijzen van groep 2.
 
-Personen met bewustzijnsstoornissen zijn ongeacht de oorzaak voor alle rijbewijzen ongeschikt (zie ook de paragrafen 6.9 en 8.5). Bij bewustzijnsstoornissen in de niet recente voorgeschiedenis en wanneer tevens uit de aantekening van de keurend arts blijkt dat nader specialistisch onderzoek niets heeft uitgewezen, is geen specialistisch onderzoek nodig. In alle andere gevallen is voor de geschiktheidsbeoordeling een specialistisch rapport vereist.
+Voor de beoordeling van de geschiktheid voor rijbewijzen van groep 1 is een specialistisch rapport nodig (opgesteld door een deskundig neuroloog en eventueel een neuropsycholoog); bij cervicale myelopathie kan echter volstaan worden met de aantekening van de keurend arts. Voor een juiste oordeelsvorming dient ook een deskundige op het gebied van de praktische geschiktheid van het CBR te worden geraadpleegd (uitvoering van een technisch onderzoek en/of een rijtest). De duur van de geschiktheidstermijn hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar.
 
 ### 7.5. Intracraniële tumoren
 
-Deze personen zijn ongeschikt voor rijbewijzen van groep 2, behalve wanneer de bewustzijnsstoornissen de laatste vijf jaar zijn uitgebleven; in dat geval geldt een geschiktheidstermijn van vijf jaar.
+Naast het onderscheid tussen hersentumoren in strikte zin en buiten de hersenen gelegen intracraniële tumoren, is het al dan niet optreden van epilepsie van belang voor de bepaling van de geschiktheid.
 
 Voor personen met intracraniële tumoren is steeds een specialistisch rapport vereist en in geval van stoornissen van het gezichtsorgaan gelden tevens de eisen uit hoofdstuk 3.
 
 ### 7.5.1. Rijbewijzen van groep 1
 
-Voor de beoordeling van de geschiktheid voor rijbewijzen van groep 1 is een specialistisch rapport nodig (opgesteld door een deskundig neuroloog en eventueel een neuropsycholoog); bij cervicale myelopathie kan echter volstaan worden met de aantekening van de keurend arts. Voor een juiste oordeelsvorming dient ook een deskundige op het gebied van de praktische geschiktheid van het CBR te worden geraadpleegd (uitvoering van een technisch onderzoek en/of een rijtest). De duur van de geschiktheidstermijn hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar.
+Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
+
+In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
 De hieronder geformuleerde eisen voor groep 1 gelden zowel voor behandelde als onbehandelde intracraniële tumoren.
 
 ### 7.5.2. Rijbewijzen van groep 2
 
-Voor personen met intracraniële tumoren is steeds een specialistisch rapport vereist en in geval van stoornissen van het gezichtsorgaan gelden tevens de eisen uit hoofdstuk 3.
-
-Een uitzondering hierop vormt de situatie waarin de tumor, blijkens het specialistisch rapport, met succes curatief is behandeld. Bij afwezigheid van functiestoornissen is er geschiktheid met een maximum van drie jaar, aan te geven door de keurend specialist. Zijn er na de curatieve behandeling resterende lichamelijke of geestelijke functiestoornissen, dan is voor de beoordeling van de geschiktheid een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) vereist. Bij een positieve rijtest bestaat er geschiktheid voor een termijn van maximaal drie jaar. Het CBR heeft voor de rijtest een uitvoerig protocol
-
-Strenge eisen moeten gesteld worden aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer). Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2 rijbewijs. Aanvragers van een groep 1 rijbewijs, die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom alleen geschikt worden verklaard als het gebruik van het rijbewijs wordt beperkt tot privé gebruik.
-
-### 7.6. Doorbloedingsstoornissen van de hersenen
-
-Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
+Personen met een intracraniële tumor zijn ongeschikt voor rijbewijzen van groep 2.
 
 ### 7.6.1. Rijbewijzen van groep 1
 
-Een uitzondering hierop vormt de situatie waarin de tumor, blijkens het specialistisch rapport, met succes curatief is behandeld. Bij afwezigheid van functiestoornissen is er geschiktheid met een maximum van drie jaar, aan te geven door de keurend specialist. Zijn er na de curatieve behandeling resterende lichamelijke of geestelijke functiestoornissen, dan is voor de beoordeling van de geschiktheid een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) vereist. Bij een positieve rijtest bestaat er geschiktheid voor een termijn van maximaal drie jaar. Het CBR heeft voor de rijtest een uitvoerig protocol
+Bij epilepsie geldt tevens paragraaf 7.2.
 
-### 7.6.1.1. Aneurysmata en andere misvormingen van de hersenvaten
+### 7.6. Doorbloedingsstoornissen van de hersenen
 
 ### 7.6. Doorbloedingsstoornissen van de hersenen
 
 Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
 
-Na een beroerte is men ongeschikt voor rijbewijzen van groep 1 voor een periode van zes maanden. Na die termijn is een specialistisch rapport vereist, opgesteld door een neuroloog of een revalidatiearts.
+Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
 
-Strengere eisen moeten gesteld worden aan houders van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer). Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2 rijbewijs. Aanvragers van een groep 1 rijbewijs, die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom alleen geschikt worden verklaard als het gebruik van het rijbewijs wordt beperkt tot privé gebruik.
+In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
 Voor personen met epilepsie geldt tevens paragraaf 7.2.
 
@@ -622,7 +622,7 @@ Bij twijfel over de geschiktheid van de betrokkene in de nabije toekomst dient e
 
 De geschiktheid van personen met een lichamelijke handicap wordt in eerste instantie beoordeeld door het CBR op basis van de aantekening van de keurende arts op de eigen verklaring en de eventueel reeds beschikbare overige gegevens (bijvoorbeeld een rapport van de revalidatiearts).
 
-In de tweede plaats kan het CBR een beoordeling vragen door een deskundige op het gebied van de praktische geschiktheid van het CBR. Deze deskundige adviseert het CBR - veelal na uitvoering van een technisch onderzoek of een rijtest - over de mogelijkheden van de aanvrager van het rijbewijs om, zo nodig met aanpassingen aan het voertuig, een motorrijtuig te besturen.
+In de tweede plaats kan het CBR een beoordeling vragen door een deskundige op het gebied van de praktische geschiktheid van het CBR. Deze deskundige adviseert het CBR veelal na uitvoering van een technisch onderzoek of een rijtest over de mogelijkheden van de aanvrager van het rijbewijs om, zo nodig met aanpassingen aan het voertuig, een motorrijtuig te besturen.
 
 ### 10.2. Geneesmiddelen die de werking van het centrale zenuwstelsel beïnvloeden
 
@@ -764,21 +764,21 @@ Ernstige klachten (zoals duizeligheid of bewustzijnsstoornissen, of NYHA klasse 
 
 ### 6.7.4. Implanteerbare cardioverter-defibrillator
 
-Voor personen bij wie een implanteerbare cardioverter-defibrillator (ICD) is ingebracht, is altijd een specialistisch rapport vereist.
+Voor personen bij wie een implanteerbare cardioverter-defibrillator (ICD) is ingebracht, is altijd een specialistisch rapport van een cardioloog met kennis en ervaring op dit gebied vereist. Deze personen zijn ongeschikt gedurende een observatieperiode van twee maanden na implantatie. Blijkt aan het einde van deze periode dat het apparaat geen elektroshocks heeft afgegeven, dan wel dat zich tijdens stimulatie door de ICD geen ernstige hemodynamische problemen hebben voorgedaan, dan kunnen bedoelde personen voor een beperkte termijn geschikt worden verklaard voor rijbewijzen van groep 1. De maximale geschiktheidstermijn is vijf jaar. Wanneer een ICD in of na bedoelde observatieperiode één of meer stroomstoten heeft afgegeven, geldt ongeschiktheid. Blijkt uit specialistisch onderzoek dat deze elektroshocks terecht zijn afgegeven, dan is de betrokkene ongeschikt gedurende minimaal twee maanden na de laatste shock. In geval van misplaatste shocks zijn ICD-dragers ongeschikt, totdat de kans op dergelijke shocks voldoende is gereduceerd door het opnieuw afstellen van de ICD. Het laatste moet blijken uit een observatieperiode van minimaal twee maanden na herafstelling van de ICD. Personen met een ICD zijn in alle gevallen ongeschikt voor rijbewijzen van groep 2.
 
-Deze personen zijn ongeschikt gedurende een observatieperiode van zes maanden na implantatie. Blijkt aan het einde van deze periode dat het apparaat geen elektroshocks heeft afgegeven dan wel dat zich tijdens stimulatie door de ICD geen ernstige hemodynamische problemen hebben voorgedaan, dan kunnen bedoelde personen voor een beperkte termijn geschikt worden verklaard voor rijbewijzen van groep 1. De maximale geschiktheidstermijn bedraagt daarbij vijf jaar voor personen bij wie de ICD om een profylactische reden is ingebracht en drie jaar voor personen bij wie de ICD met een primair therapeutisch doel is ingebracht.
+Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken. Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Dragers van een ICD kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
 
 Personen met een ICD zijn in alle gevallen ongeschikt voor rijbewijzen van groep 2.
 
-### 6.8.1. Veneuze aandoeningen
+### 6.8.2. Arteriële aandoeningen
 
-Personen met een ernstige vorm van diep veneuze trombose zijn in het algemeen ongeschikt voor elk rijbewijs; in ieder geval is een specialistisch rapport vereist. Bij alle andere aandoeningen in deze rubriek geldt geschiktheid voor beide groepen rijbewijzen, tenzij er sprake is van bijzondere complicaties (ter beoordeling van een specialist).
+Het betreft hier aandoeningen als aneurysma aortae, uitgebreide arteriosclerose, ziekte van Raynaud, de ziekte van Buerger en scleroderma. Voor de geschiktheidsbeoordeling kan volstaan worden met de aantekening van de keurend arts. Personen die - al dan niet na behandeling - geen of geringe klachten hebben kunnen worden goedgekeurd voor rijbewijzen van groep 1 met een maximale termijn van tien jaar, en voor rijbewijzen van groep 2 met een termijn van vijf tot tien jaar.
 
-In dit hoofdstuk worden de eisen aan de geschiktheid voor het onderwerp ’neurologie’ geformuleerd, waaronder die voor epilepsie.
-
-### 7.2. Epilepsie
+Voor deze personen is altijd een specialistisch rapport vereist.
 
 ### 7.2.1. Rijbewijzen van groep 1
+
+### 7.3. Bewustzijnsstoornissen (anders dan epilepsie)
 
 ### 7.3. Bewustzijnsstoornissen (anders dan epilepsie)
 
@@ -798,7 +798,7 @@ De hieronder geformuleerde eisen voor groep 1 gelden zowel voor behandelde als o
 
 ### 7.5.2. Rijbewijzen van groep 2
 
-Personen met een intracraniële tumor zijn ongeschikt voor rijbewijzen van groep 2.
+Een uitzondering hierop vormt de situatie waarin de tumor, blijkens het specialistisch rapport, met succes curatief is behandeld. Bij afwezigheid van functiestoornissen is er geschiktheid met een maximum van drie jaar, aan te geven door de keurend specialist. Zijn er na de curatieve behandeling resterende lichamelijke of geestelijke functiestoornissen, dan is voor de beoordeling van de geschiktheid een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) vereist. Bij een positieve rijtest bestaat er geschiktheid voor een termijn van maximaal drie jaar. Het CBR heeft voor de rijtest een uitvoerig protocol
 
 Bij epilepsie geldt tevens paragraaf 7.2.
 
@@ -917,3 +917,19 @@ Op zich vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid; wel ka
 Personen met ’probleemgedrag’ door misbruik van geneesmiddelen (zoals slaapmiddelen, tranquillizers, amfetaminen en dergelijke) zijn ongeschikt voor deelname aan het gemotoriseerde verkeer (zie ook paragraaf 8.8).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 6.8.1. Veneuze aandoeningen
+
+Personen met een ernstige vorm van diep veneuze trombose zijn in het algemeen ongeschikt voor elk rijbewijs; in ieder geval is een specialistisch rapport vereist. Bij alle andere aandoeningen in deze rubriek geldt geschiktheid voor beide groepen rijbewijzen, tenzij er sprake is van bijzondere complicaties (ter beoordeling van een specialist).
+
+### 7.1. Inleiding
+
+In dit hoofdstuk worden de eisen aan de geschiktheid voor het onderwerp ’neurologie’ geformuleerd, waaronder die voor epilepsie.
+
+### 7.2.2. Rijbewijzen van groep 2
+
+Personen met bewustzijnsstoornissen zijn ongeacht de oorzaak voor alle rijbewijzen ongeschikt (zie ook de paragrafen 6.9 en 8.5). Bij bewustzijnsstoornissen in de niet recente voorgeschiedenis en wanneer tevens uit de aantekening van de keurend arts blijkt dat nader specialistisch onderzoek niets heeft uitgewezen, is geen specialistisch onderzoek nodig. In alle andere gevallen is voor de geschiktheidsbeoordeling een specialistisch rapport vereist.
+
+Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
+
+### 7.6.1. Rijbewijzen van groep 1
