@@ -1,0 +1,268 @@
+---
+title: "Uitvoeringsregeling motorrijtuigenbelasting 1994"
+identifier: "BWBR0007308"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007308"
+soort: "ministeriele-regeling"
+stam_id: "3376983"
+version_id: "30526602"
+internal_id: "C43761641"
+label_id: "3357054"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007308/2025-01-01/0"
+intitule_bron: "Stcrt.1995-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-30"
+intitule_published: "1995-03-30"
+intitule_in_force: "1995-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41523"
+original_signed_date: "2024-12-19"
+original_published_date: "2024-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-41523"
+entry_into_force_date: "2024-12-19"
+jci_1_3: "jci1.3:c:BWBR0007308&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0007308&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-12-19"
+entry_into_force: "2024-12-19"
+---
+# Uitvoeringsregeling motorrijtuigenbelasting 1994
+
+Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), en [15, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15) en [artikel XI, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XI).
+
+Besluit:
+
+##### Artikel 1
+
+Deze regeling geeft uitvoering aan de artikelen 3, tweede lid, 7, tweede lid, 15, tweede en derde lid, en 37f van de Wet op de motorrijtuigenbelasting 1994, [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
+
+##### Artikel 2
+
+In deze regeling wordt verstaan onder:
+
+##### Artikel 3
+
+1. De laadruimte voldoet aan de gestelde voorwaarden met betrekking tot de lengte en de hoogte indien deze in gesloten toestand een rechthoekig, rechtop geplaatst blok kan bevatten waarvan de lengte, de hoogte en de breedte ten minste gelijk zijn aan de in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3) voor de desbetreffende laadruimte genoemde afmetingen, en waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig. Voor de toepassing van deze bepaling worden, indien de laadruimte niet van de bestuurderszitplaats is afgescheiden door een vaste wand, de zitplaatsen voor de bestuurder en de bijrijder in de achterste stand geplaatst.
+
+2. Het verschil in hoogte tussen de cabine en de laadruimte is de verticale afstand tussen het denkbeeldige horizontale vlak waarin de beide hoogste punten van de dagopening van de deuren bij de voorzitplaatsen zijn gelegen, en het hoogste gedeelte van het dak van de laadruimte, gemeten over een breedte van ten minste 20 cm.
+
+3. De hoogte van de cabine van een motorrijtuig met een dubbele cabine is de grootste afstand tussen vloer en dak van de cabine, gemeten over een breedte van ten minste 20 cm.
+
+4. De lengte van de cabine van een motorrijtuig met een dubbele cabine is de evenwijdig aan de lengte-as van het desbetreffende motorrijtuig gemeten afstand tussen het achterste punt van het stuurwiel en de vaste wand die de cabine van de laadruimte scheidt.
+
+5. De lengte van de laadruimte van een motorrijtuig met een dubbele cabine is gelijk aan de lengte van het langste rechthoekige, rechtop geplaatste blok met een hoogte van 130 cm en een breedte van 20 cm dat de laadruimte in gesloten toestand kan bevatten, waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig.
+
+6. De lengte die de laadruimte van een motorrijtuig met een dubbele cabine zou hebben indien de zitruimte achter de bestuurder zou ontbreken, is gelijk aan de lengte van het langste rechthoekige, rechtop geplaatste blok met een hoogte van 130 cm en een breedte van 20 cm dat de laadruimte in gesloten toestand kan bevatten, waarvan de lengte-as evenwijdig is aan die van het desbetreffende motorrijtuig, en waarbij er voor het nemen van de maat van wordt uitgegaan dat die laadruimte van de cabine is gescheiden door middel van een 115 cm achter het achterste punt van het stuurwiel geplaatste vaste wand.
+
+7. De hoogte van de vaste wand die de cabine van de laadruimte scheidt, is de afstand tussen het laagste punt van de bovenzijde van de wand en het hoogste punt van de laadvloer.
+
+8. De vaste wand die de cabine van de laadruimte scheidt, dient verticaal en in een hoek van 90° ten opzichte van de lengte-as te zijn geplaatst en wel:
+
+- a. indien het motorrijtuig niet is voorzien van een dubbele cabine: ten hoogste 115 cm achter het achterste punt van het stuurwiel;
+
+- b. indien het motorrijtuig is voorzien van een dubbele cabine: direct achter de achterste zitplaatsen.
+
+9. De vaste wand die de cabine van de laadruimte scheidt dient:
+
+- a. te zijn vervaardigd uit ondoorzichtig en vormvast materiaal, waarbij een vast raam met een hoogte van 40 cm is toegestaan;
+
+- b. geheel vlak te zijn;
+
+- c. uit één geheel te bestaan, waarbij voorzieningen zijn toegestaan ten behoeve van het aan het desbetreffende motorrijtuig noodzakelijk te plegen onderhoud; en
+
+- d. zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
+
+10. Een laadruimte is niet voorzien van zijruiten indien de zijruiten geheel zijn verwijderd en zijn vervangen door niet uit glas bestaande panelen uit één stuk van ondoorzichtig en vormvast materiaal. De panelen dienen zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
+
+11. De laadruimte dient in haar geheel te zijn voorzien van een vaste, vlakke laadvloer. De laadvloer dient zoveel mogelijk rondom en op onverbrekelijke wijze rechtstreeks met de carrosserie te zijn verbonden.
+
+##### Artikel 3a
+
+[Artikel 7, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) is van toepassing voor motorrijtuigen als bedoeld in [artikel 1, onderdeel a, van de Regeling uitzondering kentekenplicht voor leden aangewezen krijgsmacht of civiele dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0007056&artikel=1).
+
+##### Artikel 4
+
+1. De belasting voor een personenauto, een bestelauto, een motorrijwiel of een vrachtauto behoeft niet bij de aanvang van een tijdvak te zijn betaald indien het een ander tijdvak betreft dan:
+
+- a. een tijdvak als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=11), met uitzondering van het tijdvak dat aanvangt met ingang van de dag van dagtekening van de eerste tenaamstelling van het voor het motorrijtuig afgegeven kentekenbewijs;
+
+- b. een tijdvak als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=13).
+
+2. Bij toepassing van het eerste lid dient de belasting te zijn betaald binnen veertien dagen na de aanvang van het tijdvak, doch uiterlijk vóór het door de inspecteur daarvoor bepaalde tijdstip.
+
+##### Artikel 4a
+
+De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+
+2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
+
+3. De inspecteur verleent de vergunning bij beschikking.
+
+4. De inspecteur wijst de aanvraag af indien:
+
+- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
+
+- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
+
+5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
+
+6. De vergunning eindigt:
+
+- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
+
+- door opzegging door de aanvrager.
+
+7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+
+##### Artikel 5
+
+1. De nummerplaat, bedoeld in [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII) en in [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a), bestaat uit een op zijn punt geplaatste vierkante plaat met zijden van 21 centimeter, waarop in witte onuitwisbare tekens op een rode achtergrond, volgens RAL standaardkleur nr. 3000, de kentekens van het registratiebewijs dat krachtens [artikel 5 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5) voor het voertuig is afgegeven, en een gewichtscode zijn aangebracht. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede van de onderlinge afstand daarvan, zijn die welke in de [Bijlage bij de Regeling kentekens en kentekenplaten](onbekend) als model A.2. voor het kenteken van motorrijwielen zijn voorgeschreven. De plaatsing van de tekens op de plaat geschiedt overeenkomstig het model van de bijlage bij deze regeling.
+
+2. De in het eerste lid bedoelde gewichtscode geeft het tot het naaste honderdtal kilogrammen afgeronde gewicht aan, waarbij 50 kilogram naar beneden wordt afgerond. De gewichtscode bestaat uit twee cijfers of uit één letter en één cijfer. Het eerste cijfer geeft de duizendtallen aan van het gewicht in kilogrammen. Het tweede cijfer geeft de honderdtallen aan van het afgeronde gewicht in kilogrammen. Indien het gewicht tienduizend kilogram of meer bedraagt, begint de code met een letter die de duizendtallen aangeeft van het gewicht overeenkomstig de volgende tabel:
+
+A is 10;G is 16;N is 22;V is 28;
+
+B is 11;H is 17;P is 23;W is 29;
+
+C is 12;J is 18;R is 24;X is 30
+
+D is 13;K is 19;S is 25;Z is 31;
+
+E is 14;L is 20;T is 26;
+
+F is 15;M is 21;U is 27;
+
+XX is meer dan 31950 kilogram.
+
+3. De plaat moet duidelijk als zodanig kenbaar worden aangebracht aan de achterzijde van het voertuig. Indien het motorrijtuig is verbonden met meer dan één voertuig, dienen de platen van die voertuigen op het achterste voertuig te zijn aangebracht. De plaat mag niet hoger zijn aangebracht dan 2 meter boven het wegdek en niet in de onmiddellijke nabijheid van de op het rij- of voertuig aangebrachte kentekenplaat met het kenteken van het motorrijtuig.
+
+##### Artikel 5a
+
+1. Het verzoek om toepassing van [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37a) gaat vergezeld van een afschrift van de beschikking, bedoeld in [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), onderscheidenlijk in [artikel 7, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7).
+
+2. Het verzoek om toepassing van [artikel 37b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b) gaat vergezeld van
+
+- a. afschriften van de kentekenbewijzen van de vrachtauto’s die deel uit zullen maken van het bedrijfsvoertuigenpark;
+
+- b. afschriften van het registratiebewijs of de registratiebewijzen van de aanhangwagens die deel uit zullen maken van het bedrijfsvoertuigenpark;
+
+- c. een schriftelijke verklaring van de houder dat geen van de vrachtwagens die deel zullen uitmaken van het bedrijfsvoertuigenpark zal worden verbonden met een aanhangwagen die daarvan geen deel uitmaakt; en
+
+- d. een schriftelijke verklaring van de houder dat hij wijzigingen met betrekking tot de in het bedrijfsvoertuigenpark opgenomen vrachtauto’s en aanhangwagens terstond aan de inspecteur zal melden.
+
+##### Artikel 6
+
+1. Deze regeling treedt in werking met ingang van 1 april 1995.
+
+2. Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting 1994.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4b
+
+De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+
+2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
+
+3. De inspecteur verleent de vergunning bij beschikking.
+
+4. De inspecteur wijst de aanvraag af indien:
+
+- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
+
+- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
+
+5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
+
+6. De vergunning eindigt:
+
+- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
+
+- door opzegging door de aanvrager.
+
+7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4c
+
+1. De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+
+2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
+
+3. De inspecteur verleent de vergunning bij beschikking.
+
+4. De inspecteur wijst de aanvraag af indien:
+
+- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
+
+- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
+
+5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
+
+6. De vergunning eindigt:
+
+- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
+
+- door opzegging door de aanvrager.
+
+7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4bis
+
+1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat belastingplichtige de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. [Artikel 43e van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e)is van toepassing.
+
+2. Indien de Dienst Wegverkeer naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat in het kentekenregister een fijnstofuitstoot wordt geregistreerd van niet meer dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de [artikelen 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), onderscheidenlijk [24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24).
+
+3. Op verzoek van belastingplichtige verleent de inspecteur aan de belastingplichtige teruggaaf als bedoeld in het tweede lid.
+
+4. Bij het verzoek om teruggaaf overlegt de belastingplichtige een afschrift van zijn verzoek als bedoeld in het eerste lid en een afschrift van het bericht van de Dienst Wegverkeer, bedoeld in [artikel 43e, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e).
+
+5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
+
+6. De inspecteur neemt de beslissing op het verzoek, bedoeld in het derde lid, bij voor bezwaar vatbare beschikking.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4ter
+
+1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat een belastingplichtige als bedoeld in [artikel 7, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) de inspecteur verzoekt tot toepassing van een specifieke fijnstofuitstoot.
+
+2. Indien de inspecteur naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat de fijnstofuitstoot van het motorrijtuig niet meer bedraagt dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft de belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de [artikelen 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), onderscheidenlijk [24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24).
+
+3. De inspecteur neemt de beslissing op het verzoek en de daarmee samenhangende teruggaaf bij één voor bezwaar vatbare beschikking.
+
+4. Bij een verzoek als bedoeld in het eerste of derde lid overlegt de belastingplichtige een afschrift van het kentekenregister waarin het motorrijtuig is geregistreerd en waaruit de fijnstofuitstoot van het motorrijtuig onomstotelijk blijkt.
+
+5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
