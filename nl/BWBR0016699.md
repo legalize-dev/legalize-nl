@@ -88,17 +88,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet implementatie Europ
 Dit besluit wordt aangehaald als: Besluit voorwaardelijke toegang.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. Het college laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen.
-
-2. Het eerste lid is van overeenkomstige toepassing indien een onderneming moet voldoen aan een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13), een verplichting als bedoeld in [artikel 6a.17, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.17) of een verplichting betreffende het beheersen van tarieven als bedoeld in een krachtens [artikel 6a.19. tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.19) gestelde regeling.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5b
-
-Indien een onderneming bij de levering van een type huurlijn uit het minimumpakket van huurlijnen krachtens artikel [6a.19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.19) moet voldoen aan een verplichting met betrekking tot de hoogte van haar tarieven, kan het college op grond van [artikel 6a.2, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.2) de verplichting opleggen om invoering van nieuwe of gewijzigde tarieven niet plaats te laten vinden dan nadat het college deze tarieven heeft goedgekeurd. [Artikel 6a.14, tweede tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.14) is van overeenkomstige toepassing.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
