@@ -426,39 +426,3 @@ Vervallen
 Deze wet wordt aangehaald als: Wet opneming buitenlandse kinderen ter adoptie.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 3a. Tegemoetkoming kosten
-
-##### Artikel 9a
-
-1. Onze Minister verleent adoptiefouders op hun verzoek een tegemoetkoming in de kosten die zij gemaakt hebben in verband met de interlandelijke adoptie van een kind indien:
-
-- a. het verzoek is ingediend binnen drie jaren nadat het kind door de adoptiefouders is geadopteerd;
-
-- b. het kind de Nederlandse nationaliteit heeft verkregen of, indien geen van de adoptiefouders de Nederlandse nationaliteit heeft, het kind de nationaliteit van ten minste één van de adoptiefouders heeft verkregen;
-
-- c. de adoptie in overeenstemming met deze wet is afgerond.
-
-2. Bij ministeriële regeling worden regels gesteld omtrent de aanvraag van de tegemoetkoming.
-
-##### Artikel 9b
-
-1. De hoogte van de tegemoetkoming in de kosten van interlandelijke adoptie als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3a&artikel=9a&z=2012-01-01&g=2012-01-01) bedraagt € 3 700.
-
-2. Bij ministeriële regeling wordt het bedrag, genoemd in het eerste lid, jaarlijks met ingang van 1 januari opnieuw vastgesteld aan de hand van de consumentenprijsindex.
-
-##### Artikel 9c
-
-Dit hoofdstuk is uitsluitend van toepassing op kinderen die tussen 1 januari 2009 en 1 januari 2013 zijn geadopteerd.
-
-### Hoofdstuk 4. Het gezinsonderzoek na binnenkomst in Nederland van een tijdens gewoon verblijf in het buitenland opgenomen buitenlands kind
-
-### Hoofdstuk 5. De vergunning en de werkzaamheden van vergunninghouders
-
-### Hoofdstuk 5A. De klachtencommissie
-
-### Hoofdstuk 6. Toezicht en strafbepalingen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
