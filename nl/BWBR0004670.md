@@ -350,39 +350,3 @@ De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 oktober 1983.
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) bedoelde grensbedrag en het in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), 14% en met betrekking tot een nabestaandenpensioen krachtens [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), 28% van die bedragen in de plaats komt.
-
-2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=14&z=2003-06-04&g=2003-06-04), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2003-06-04&g=2003-06-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
-
-3. Indien wegens toepassing van het tweede lid de daar bedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheiden bedragen.
-
-4. Voor de toepassing van het eerste, tweede en derde lid worden krachtens wettelijk voorschrift toegekende toeslagen niet onder pensioen begrepen.
-
-#### Verval van pensioen en uitkering
-
-#### Ingang en einde van pensioen en uitkering
-
-#### Administratieve bepalingen
-
-#### Beroep en herziening
-
-#### Overgangsbepalingen
-
-#### Slotbepaling
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 41a
-
-Aanspraken op een uitkering of pensioen op grond van deze rijkswet, zoals die luidde voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](onbekend), worden geacht te zijn opgebouwd op grond van deze rijkswet, zoals die luidt na de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen.
-
-#### Slotbepalingen
-
-##### Artikel 41b
-
-Deze rijkswet wordt aangehaald als: Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten.
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
