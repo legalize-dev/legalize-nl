@@ -4,7 +4,7 @@ identifier: "BWBR0002845"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002845"
 soort: "wet"
@@ -84,11 +84,11 @@ vermeerderd of verminderd in elk jaar waarover de uitkering wordt genoten:
 
 1. Bij overlijden van de Koning dan wel van de vermoedelijke erfgenaam van de Kroon ontvangt de overlevende echtgenote of echtgenoot, zolang deze lid van het Koninklijk Huis is, een uitkering die binnen twee jaren na het overlijden geregeld wordt door aanvulling van deze wet.
 
-2. De in het eerste lid bedoelde echtgenote of echtgenoot ontvangt, zolang deze lid van het Koninklijk Huis is, tot het in werking treden van de in het eerste lid bedoelde regeling ten minste de uitkering die zij of hij volgens het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-01-01&g=2002-01-01) zou hebben ontvangen indien het overlijden niet zou hebben plaats gehad.
+2. De in het eerste lid bedoelde echtgenote of echtgenoot ontvangt, zolang deze lid van het Koninklijk Huis is, tot het in werking treden van de in het eerste lid bedoelde regeling ten minste de uitkering die zij of hij volgens het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01) zou hebben ontvangen indien het overlijden niet zou hebben plaats gehad.
 
 ##### Artikel 3
 
-Een Koning die afstand van de Kroon heeft gedaan alsmede zijn echtgenote ontvangen, zolang zij lid zijn van het Koninklijk Huis, een uitkering die geregeld wordt door aanvulling van deze wet. De [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-01-01&g=2002-01-01), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=2&z=2002-01-01&g=2002-01-01) zijn van overeenkomstige toepassing.
+Een Koning die afstand van de Kroon heeft gedaan alsmede zijn echtgenote ontvangen, zolang zij lid zijn van het Koninklijk Huis, een uitkering die geregeld wordt door aanvulling van deze wet. De [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=2&z=2002-07-01&g=2002-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -120,7 +120,7 @@ Een Koning die afstand van de Kroon heeft gedaan alsmede zijn echtgenote ontvang
 
 ##### Artikel 6
 
-1. Ten aanzien van de Staatsdomeinen blijft het genot van de jacht, bij het in werking treden van deze wet behorende tot of voortvloeiende uit het Kroondomein, bedoeld in de wet van 1 mei 1863, **Stb.** 43, afgestaan aan de Koning; deze is jachthouder in de zin van de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155) (3 november 1954, **Stb.** 523).
+1. Ten aanzien van de Staatsdomeinen blijft het genot van de jacht, bij het in werking treden van deze wet behorende tot of voortvloeiende uit het Kroondomein, bedoeld in de wet van 1 mei 1863, **Stb.** 43, afgestaan aan de Koning; deze is jachthouder in de zin van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
 
 2. Wijzigt de Jachtwet 1954.
 
@@ -150,9 +150,9 @@ Prinses Juliana € 601 258,79
 
 Prins Bernhard € 353 948,57
 
-2. Deze uitkeringen worden jaarlijks vermeerderd of verminderd overeenkomstig de jaarlijkse vermeerdering of vermindering ten opzichte van 1979 van de uitkeringen van de leden van het Koninklijk Huis, genoemd onder I en II van de in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-01-01&g=2002-01-01), opgenomen tabel.
+2. Deze uitkeringen worden jaarlijks vermeerderd of verminderd overeenkomstig de jaarlijkse vermeerdering of vermindering ten opzichte van 1979 van de uitkeringen van de leden van het Koninklijk Huis, genoemd onder I en II van de in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), opgenomen tabel.
 
-3. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-01-01&g=2002-01-01), bedoelde gedeelten van de uitkeringen zijn voor:
+3. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2002-07-01&g=2002-07-01), bedoelde gedeelten van de uitkeringen zijn voor:
 
 |   | A | B | C |
 | --- | --- | --- | --- |
