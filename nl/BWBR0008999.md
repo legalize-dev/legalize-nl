@@ -4,7 +4,7 @@ identifier: "BWBR0008999"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "1999-07-28"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008999"
 soort: "wet"
@@ -334,9 +334,7 @@ De exploitant die zich bij beroep bij de rechtbank beroept op een onnodige aanho
 
 ##### Artikel 28
 
-1. Onze Minister draagt zorg voor de publicatie na afloop van elk kwartaal van een kalenderjaar van een overzicht van de schepen, met uitzondering van vissersvaartuigen, die in dat kwartaal zijn aangehouden en die in een periode van twee jaar eindigende op de laatste dag van dat kwartaal, meer dan eenmaal zijn aangehouden.
-
-2. Het overzicht, bedoeld in het eerste lid, omvat de gegevens, genoemd in artikel 15 van de richtlijn.
+Onze Minister draagt er zorg voor dat ten minste elke maand de gegevens, bedoeld in bijlage VIII, deel I, van de richtlijn, worden gepubliceerd betreffende schepen, met uitzondering van vissersvaartuigen, die de voorgaande maand zijn aangehouden in, of die onderworpen zijn aan een weigering van toegang tot een haven.
 
 ##### Artikel 29
 
@@ -354,11 +352,11 @@ Ter uitvoering van internationale afspraken of besluiten van volkenrechtelijke o
 
 ##### Artikel 31
 
-1. Een wijziging van bijlage VI van de richtlijn, van het model, bedoeld in artikel 12, vierde lid, van de richtlijn, in de publicatiegegevens, genoemd in artikel 15, van de richtlijn, of van de artikelen 9, 9bis, 11 en 13 van de richtlijn, gaat voor de toepassing van [de artikelen 7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=1999-07-28&g=1999-07-28), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=17&z=1999-07-28&g=1999-07-28), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=28&z=1999-07-28&g=1999-07-28), en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=29&z=1999-07-28&g=1999-07-28) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van bijlage VI van de richtlijn, van het model, bedoeld in artikel 12, vierde lid, van de richtlijn, in de publicatiegegevens, bedoeld in bijlage VIII, van de richtlijn, of van de artikelen 9, 9bis, 11 en 13 van de richtlijn, gaat voor de toepassing van de artikelen 7, eerste lid, onder a, en tweede lid, 17, tweede lid, 28 en 29 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Een wijziging van de verdragen gaat voor de toepassing van [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=1999-07-28&g=1999-07-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=1999-07-28&g=1999-07-28), [7, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=1999-07-28&g=1999-07-28), en [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=1999-07-28&g=1999-07-28), gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
+2. Een wijziging van de verdragen gaat voor de toepassing van de artikelen 3, 4, 7, eerste lid, onder c, en derde lid, en 11, vierde lid, gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
 
-3. Een wijziging van bijlage 2 van het MOU gaat voor de toepassing van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=1999-07-28&g=1999-07-28), gelden met ingang van de dag waarop de wijziging in werking treedt.
+3. Een wijziging van bijlage 2 van het MOU gaat voor de toepassing van artikel 9, tweede lid, gelden met ingang van de dag waarop de wijziging in werking treedt.
 
 ##### Artikel 32
 
