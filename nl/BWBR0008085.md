@@ -4,7 +4,7 @@ identifier: "BWBR0008085"
 country: "nl"
 rank: "wet"
 publication_date: "1996-07-01"
-last_updated: "1996-06-26"
+last_updated: "1996-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008085"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de regeling in de [A
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Werkt, m.u.v. artikel 1, onder H, T en EE, terug tot en met 1 juli 1994.
+
 ##### ARTIKEL I
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers.
@@ -68,6 +70,6 @@ Ten aanzien van een aanmelding als bedoeld in het bij deze wet in de [Algemene p
 
 ##### ARTIKEL V
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt met uitzondering van [artikel I, onderdelen H, T](https://wetten.overheid.nl/jci1.3:c:BWBR0008085&artikel=I&z=1996-06-26&g=1996-06-26) en EE, terug tot en met 1 juli 1994.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt met uitzondering van [artikel I, onderdelen H, T](https://wetten.overheid.nl/jci1.3:c:BWBR0008085&artikel=I&z=1996-06-26&g=1996-07-01) en EE, terug tot en met 1 juli 1994.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
