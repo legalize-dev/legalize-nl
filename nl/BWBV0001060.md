@@ -290,35 +290,3 @@ DONE in duplicate at Cape Town on this day twenty-sixth of May 1992, in the Engl
 **For the Government of the Republic of South Africa**
 
 (sd.) P. WELGEMOED
-
-##### Artikel 16bis. Veiligheid van de luchtvaart
-
-1. Een Overeenkomstsluitende Partij kan te allen tijde verzoeken om overleg over de veiligheidsnormen die door de andere Overeenkomstsluitende Partij worden gehandhaafd met betrekking tot luchtvaartvoorzieningen, bemanning, luchtvaartuigen en de exploitatie van luchtvaartuigen. Dergelijk overleg vindt plaats binnen dertig (30) dagen na dat verzoek.
-
-2. Indien een Overeenkomstsluitende Partij na dergelijk overleg oordeelt dat de andere Overeenkomstsluitende Partij op een van de hierboven bedoelde gebieden niet op doeltreffende wijze veiligheidsnormen handhaaft en toepast die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het Verdrag waren vastgesteld, stelt de eerstgenoemde Overeenkomstsluitende Partij de andere Overeenkomstsluitende Partij daarvan in kennis en van de noodzakelijk geachte stappen om te voldoen aan die minimumnormen. Deze Overeenkomstsluitende Partij neemt passende corrigerende maatregelen en indien zij nalaat om binnen vijftien (15) na de kennisgeving, of binnen een langere termijn als overeen te komen, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001060&artikel=5&z=2009-10-07&g=2009-10-07).
-
-3. Onverminderd de verplichtingen bedoeld in [artikel 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), wordt overeengekomen dat elk luchtvaartuig dat door de aangewezen luchtvaartmaatschappij van de ene Overeenkomstsluitende partij wordt gebruikt voor diensten naar of vanuit het grondgebied van de andere Overeenkomstsluitende Partij, terwijl het zich op het grondgebied van de andere Overeenkomstsluitende Partij bevindt, mag worden onderworpen aan een inspectie door de bevoegde vertegenwoordiger van die andere Overeenkomstsluitende Partij. Met deze inspectie wordt onder meer beoogd de geldigheid van de documenten van het luchtvaartuig alsmede die van zijn bemanning en de kennelijke toestand van het luchtvaartuig en zijn uitrusting te controleren (hierna aangeduid als „platforminspectie”), mits dit niet leidt tot onredelijke vertraging.
-
-4. Indien een dergelijke platforminspectie of reeks platforminspecties leidt tot ernstige bezorgdheid dat:
-
-- a. een luchtvaartuig of de exploitatie van een luchtvaartuig niet voldoet aan de op dat moment uit hoofde van het Verdrag vastgestelde minimumnormen; of
-
-- b. de op dat moment uit hoofde van het Verdrag vastgestelde veiligheidsnormen onvoldoende worden gehandhaafd en vastgelegd, staat het de Overeenkomstsluitende Partij die de inspectie verricht vrij, voor de toepassing van [artikel 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), de conclusie te trekken dat de vereisten krachtens welke het bewijs of de vergunningen ten aanzien van dat luchtvaartuig of ten aanzien van de bemanning van dat luchtvaartuig zijn afgegeven of geldig verklaard, of dat de vereisten uit hoofde waarvan dat luchtvaartuig wordt geëxploiteerd, niet gelijk zijn aan of zwaarder zijn dan de minimumnormen die zijn vastgesteld uit hoofde van het Verdrag.
-
-5. Ingeval toegang ten behoeve van de uitvoering van een platforminspectie in overeenstemming met het bovenstaande derde lid van een door een aangewezen luchtvaartmaatschappij van een Overeenkomstsluitende Partij geëxploiteerd luchtvaartuig door de vertegenwoordigers van die aangewezen luchtvaartmaatschappij wordt geweigerd, kan de andere Overeenkomstsluitende Partij daaruit afleiden dat er aanleiding is voor ernstige bezorgdheid als bedoeld in het bovenstaande vierde lid en de conclusies te trekken zoals bedoeld in dat lid.
-
-6. Elke Overeenkomstsluitende Partij behoudt zich het recht voor de vergunning van een aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij onmiddellijk te schorsen of daarvan af te wijken, ingeval de eerstgenoemde Overeenkomstsluitende Partij concludeert, hetzij naar aanleiding van een platforminspectie hetzij na overleg, dat onverwijld ingrijpen essentieel is voor de veiligheid van de exploitatie door de luchtvaartmaatschappij.
-
-7. Elke maatregel door een Overeenkomstsluitende Partij in overeenstemming met het bovenstaande tweede of zesde lid wordt beëindigd zodra de andere Overeenkomstsluitende Partij de veiligheidsbepalingen van dit artikel naleeft.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
-
-DONE in duplicate at Cape Town on this day twenty-sixth of May 1992, in the English language.
-
-**For the Government of the Kingdom of the Netherlands**
-
-(sd.) J. R. H. MAIJ-WEGGEN
-
-**For the Government of the Republic of South Africa**
-
-(sd.) P. WELGEMOED
