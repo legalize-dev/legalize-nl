@@ -4,7 +4,7 @@ identifier: "BWBR0005091"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-07-15"
-last_updated: "1994-01-01"
+last_updated: "2004-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005091"
 soort: "ministeriele-regeling"
@@ -128,7 +128,7 @@ Vervallen
 
 ##### Artikel 10
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt met inachtneming van de bepalingen van het Besluit Algemene secretarie-aangelegenheden rijksadministratie (Stb. 1980, 182) op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.
+Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.
 
 ##### Artikel 11
 
