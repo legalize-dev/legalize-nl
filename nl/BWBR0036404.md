@@ -83,9 +83,3 @@ Voorstellen tot het ontnemen van een verleend Vliegerkruis kunnen aan Ons worden
 Dit besluit treedt in werking op den dag volgende op dien zijner afkondiging in het Staatsblad.
 
 Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5b
-
-Ingaande 1 januari 2017 moet een verzoek om toekenning van het Vliegerkruis zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036404&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
