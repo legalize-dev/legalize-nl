@@ -227,15 +227,3 @@ GEDAAN in tweevoud te Caracas op 22 oktober 1991, in de Nederlandse, de Spaanse 
 **Voor de Regering van de Republiek Venezuela**
 
 (w.g.) ROSARIO ORELLANA
-
-##### 1. Ad artikel 1, letter b, iii:
-
-Vervallen
-
-##### 2. Ad artikel 3, eerste lid:
-
-Vervallen
-
-##### 3
-
-Vervallen
