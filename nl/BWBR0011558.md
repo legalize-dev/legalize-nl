@@ -1,0 +1,727 @@
+---
+title: "Regeling selectie, plaatsing en overplaatsing van gedetineerden"
+identifier: "BWBR0011558"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-22"
+last_updated: "2001-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011558"
+soort: "ministeriele-regeling"
+stam_id: "4570763"
+version_id: "21237392"
+internal_id: "C30499391"
+label_id: "4549504"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011558/2025-11-22/0"
+intitule_bron: "Stcrt.2000-176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-15"
+intitule_published: "2000-09-12"
+intitule_in_force: "2000-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-4617"
+original_signed_date: "2014-02-10"
+original_published_date: "2014-02-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-4617"
+entry_into_force_date: "2014-02-10"
+jci_1_3: "jci1.3:c:BWBR0011558&z=2025-11-22&g=2025-11-22"
+jci_1_0: "1.0:c:BWBR0011558&g=2025-11-22"
+citeertitel_status: "officieel"
+signed_date: "2014-02-10"
+entry_into_force: "2014-02-10"
+---
+# Regeling selectie, plaatsing en overplaatsing van gedetineerden
+
+Gelet op [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=13), [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15), [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=25) en [artikel 52, derde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=52);
+
+Gezien op de adviezen van de Centrale Raad voor Strafrechtstoepassing van 4 maart 1999, kenmerk 74766798, 27 september 1999, kenmerk 789741/99, 14 december 1999, kenmerk 805820/99 en 21 december 1999, kenmerk 796162/99;
+
+Besluit:
+
+### Hoofdstuk I. Algemene bepalingen
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+### Hoofdstuk II. Beveiligingsniveau
+
+##### Artikel 2. Zeer beperkt beveiligde inrichting of afdeling
+
+1. In zeer beperkt beveiligde inrichtingen of afdelingen kunnen gedetineerden worden geplaatst:
+
+- a. die een te verwaarlozen vlucht- of maatschappelijk risico vormen,
+
+- b. aan wie een vrijheidsstraf van ten minste zes maanden opgelegd is,
+
+- c. die ten minste de helft van de opgelegde vrijheidsstraf hebben ondergaan, die geen veroordelingen tot betaling van een geldboete of geldbedrag van meer dan f 500,- hebben openstaan,
+
+- d. die een strafrestant hebben van ten minste zes weken en ten hoogste zes maanden, en
+
+- e. die beschikken over een aanvaardbaar verlofadres.
+
+2. Voor plaatsing in een zeer beperkt beveiligde inrichting of afdelingen komen niet in aanmerking gedetineerden ten aanzien van wie:
+
+- a. vaststaat dat zij na de detentie zullen worden uitgezet of uitgeleverd,
+
+- b. de einddatum van de detentie nog niet vaststaat, of
+
+- c. de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd.
+
+3. In afwijking van het eerste lid kunnen tevens voor plaatsing in een zeer beperkt beveiligde inrichting of afdeling in aanmerking komen, gedetineerden ten aanzien van wie een door de selectiefunctionaris akkoord bevonden voorstel voor deelname aan een penitentiair programma aanwezig is. Het verblijf in de zeer beperkt beveiligde inrichting direct voorafgaande aan de plaatsing in het penitentiair programma duurt maximaal zes maanden.
+
+4. Het eerste lid, onderdelen b tot en met e, zijn niet van toepassing op een zeer beperkt beveiligde inrichting of afdeling die is aangewezen in het kader van het experiment Elektronische Detentiehuizen, bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=II&artikel=2a&z=2001-10-01&g=2001-10-01).
+
+##### Artikel 2a
+
+1. Er is een experiment Elektronische Detentiehuizen dat loopt van 1 oktober 2001 tot 1 april 2002. De Minister van Justitie kan de duur van het experiment met een periode van een half jaar verlengen. Het experiment wordt geëvalueerd.
+
+2. De Minister van Justitie wijst Elektronische Detentiehuizen aan waar het experiment plaatsvindt.
+
+3. In Elektronische Detentiehuizen kunnen gedetineerden worden geplaatst die:
+
+- a. tenminste 90 procent van de opgelegde vrijheidsstraf hebben ondergaan;
+
+- b. een strafrestant hebben van ten hoogste 60 dagen;
+
+- c. tijdens detentie hebben doen blijken van goed gedrag
+
+4. De directeur kan besluiten dat het dagprogramma in een Elektronisch Detentiehuis gedeeltelijk buiten de inrichting plaatsvindt.
+
+##### Artikel 3. Beperkt beveiligde inrichting of afdeling
+
+1. In beperkt beveiligde inrichtingen of afdelingen kunnen zelfmelders worden geplaatst.
+
+2. Naast de in het eerste lid genoemde categorie kunnen in de beperkt beveiligde inrichtingen of afdelingen gedetineerden worden geplaatst die:
+
+- a. een beperkt vlucht- en maatschappelijk risico vormen,
+
+- b. een strafrestant hebben van maximaal achttien maanden, en
+
+- c. beschikken over een aanvaardbaar verlofadres.
+
+3. Voor plaatsing in een beperkt beveiligde inrichting of afdeling komen niet in aanmerking gedetineerden:
+
+- a. ten aanzien van wie vaststaat dat zij na de detentie zullen worden uitgezet of uitgeleverd,
+
+- b. ten aanzien van wie de einddatum van de detentie nog niet vaststaat, of
+
+- c. aan wie de maatregel terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd.
+
+4. Bij het bepalen van het strafrestant wordt de vervangende hechtenis op grond van de [artikelen 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) en [24d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24d) en de gijzeling op grond van [artikelen 28, eerste lid, Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) meegeteld.
+
+##### Artikel 4. Normaal beveiligde inrichting of afdeling
+
+In normaal beveiligde inrichtingen of afdelingen kunnen gedetineerden worden geplaatst die niet in aanmerking komen voor plaatsing in een inrichting of afdeling met een ander beveiligingsniveau.
+
+##### Artikel 5. Uitgebreid beveiligde inrichting of afdeling
+
+In uitgebreid beveiligde inrichtingen of afdelingen kunnen gedetineerden worden geplaatst die een verhoogd vlucht- of maatschappelijk risico vormen.
+
+##### Artikel 6. Extra beveiligde inrichting
+
+In extra beveiligde inrichting kunnen gedetineerden worden geplaatst die:
+
+- a. een extreem vluchtrisico vormen en een onaanvaardbaar maatschappelijk risico vormen in termen van recidivegevaar voor ernstige geweldsdelicten, of
+
+- b. bij ontvluchting een onaanvaardbaar maatschappelijk risico vormen, waarbij het vluchtrisico als zodanig hieraan ondergeschikt is.
+
+### Hoofdstuk III. Regimes
+
+##### Artikel 7. Regime van algehele gemeenschap
+
+In een regime van algehele gemeenschap kunnen veroordeelde gedetineerden worden geplaatst die:
+
+- a. gelet op hun persoonlijkheid en gedrag geschikt zijn om in een gemeenschap te functioneren, en
+
+- b. geschikt en bereid zijn om deel te nemen aan het in de inrichting of afdeling aangeboden activiteitenprogramma.
+
+##### Artikel 8. Standaardregime van beperkte gemeenschap
+
+In het standaardregime van beperkte gemeenschap kunnen gedetineerden worden geplaatst ten aanzien van wie plaatsing in één van de overige regimes niet geïndiceerd is.
+
+##### Artikel 9. Sober regime van beperkte gemeenschap
+
+1. In het sober regime van beperkte gemeenschap kunnen worden geplaatst:
+
+- a. veroordeelden die zijn aangehouden ter executie van een onherroepelijke vrijheidsstraf,
+
+- b. subsidiair gehechten, of
+
+- c. verdachten van strafbare feiten ten aanzien van wie door het openbaar ministerie een vrijheidsstraf zal worden gevorderd van maximaal 60 dagen.
+
+2. Gedetineerden verblijven gedurende een periode van maximaal 60 dagen in het sober regime. In het geval dat er vervolgvonnissen ten uitvoer worden gelegd, kan een gedetineerde maximaal 90 dagen in het sober regime verblijven.
+
+3. Gedetineerden wier verblijf de termijnen, genoemd in het tweede lid, zal overschrijden of dreigt te zullen overschrijden, worden door de directeur van de inrichting tijdig, doch in elk geval 18 dagen voor het verstrijken van de genoemde termijn, voor overplaatsing aangeboden aan de selectiefunctionaris.
+
+##### Artikel 10. Extra beveiligd regime van beperkte gemeenschap
+
+Het extra beveiligd regime van beperkte gemeenschap is van toepassing op gedetineerden die in de extra beveiligde inrichting zijn geplaatst.
+
+##### Artikel 11. Individueel regime
+
+In het individueel regime kunnen gedetineerden worden geplaatst die op grond van hun persoonlijkheid, gedrag of andere persoonlijke omstandigheden, een ernstig beheersrisico vormen voor zichzelf of anderen en ten gevolge daarvan niet in staat zijn in een regime van algehele of beperkte gemeenschap te functioneren of te verblijven.
+
+### Hoofdstuk IV. Inrichtingen en afdelingen voor bijzondere opvang
+
+##### Artikel 12. Pieter Baan Centrum (PBC)
+
+In het Pieter Baan Centrum kunnen gedetineerden worden geplaatst ten aanzien van wie een bevel tot overbrenging ten behoeve van observatie is gegeven als bedoeld in artikel 198 juncto 196 [Wetboek van strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+
+##### Artikel 13. Externe Resocialisatie Afdeling (ERA)
+
+1. In de Externe Resocialisatie Afdeling kunnen mannelijke gedetineerden worden geplaatst met:
+
+- a. een strafrestant van minimaal vijf maanden en maximaal twaalf maanden, en
+
+- b. psychosociale problematiek, die intensieve zorg behoeven en niet in aanmerking komen voor een andere vorm van detentiefasering. In afwijking van het in [artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=II&artikel=2&z=2001-10-01&g=2001-10-01), genoemde strafrestant kunnen gedetineerden in de Externe Resocialisatie Afdeling worden geplaatst met een strafrestant van ten minste vijf maanden en ten hoogste twaalf maanden.
+
+2. Voor plaatsing in de Externe Resocialisatie Afdeling komen niet in aanmerking gedetineerden met:
+
+- a. een ernstige actuele verslavingsproblematiek, of
+
+- b. een ernstige actuele psychiatrische problematiek.
+
+##### Artikel 14. Forensische Observatie- en Begeleidingsafdeling (FOBA)
+
+In de Forensische Observatie- en Begeleidingsafdeling kunnen gedetineerden worden geplaatst die als gevolg van een psychiatrische stoornis, persoonlijkheidstoornis of psychosociale problematiek in een crisissituatie verkeren en ten gevolge daarvan tijdelijk niet in een reguliere inrichting of afdeling kunnen verblijven.
+
+##### Artikel 15. Individuele Begeleidingsafdelingen (IBA)
+
+1. In de Individuele Begeleidings-afdelingen kunnen gedetineerden worden geplaatst die vanwege een psychiatrische stoornis, een persoonlijkheidsstoornis dan wel psychosociale problematiek extra begeleiding behoeven en zich niet kunnen handhaven in een reguliere inrichting of afdeling.
+
+2. Gedetineerden bij wie de in het eerste lid gestelde problematiek primair wordt veroorzaakt door een verslavingsproblematiek, komen in beginsel niet voor plaatsing in een Individuele Begeleidingsafdeling in aanmerking.
+
+##### Artikel 16. Inrichtingen voor de bijzondere opvang van psychologisch onvolwassenen (JOVO)
+
+In de inrichtingen of afdelingen voor de bijzondere opvang van psychologisch onvolwassenen worden gedetineerden geplaatst die:
+
+- a. een leeftijd hebben van 16 of 17 jaar en krachtens het strafrecht voor meerderjarigen zijn veroordeeld tot een vrijheidsstraf. Zij zullen tot een leeftijd van 18 jaar binnen een inrichting of afdeling voor psychologisch onvolwassenen verblijven, tenzij plaatsing in een andere inrichting of afdeling aangewezen is;
+
+- b. een leeftijd hebben hoger dan 17 jaar en die zich door hun gedrag kenmerken als psychologisch onvolwassenen.
+
+##### Artikel 17. Inrichtingen of afdelingen voor moeders met kinderen
+
+1. In de inrichtingen of afdelingen, bedoeld in [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=12), worden vrouwelijke gedetineerden geplaatst:
+
+- a. ten aanzien van wie de plaatsing in het belang is van de instandhouding van de moeder- kindrelatie,
+
+- b. die voldoende vaardigheden hebben om zelf verantwoordelijk te kunnen zijn voor de opvoeding van het kind, of van wie ingeschat wordt dat deze vaardigheden in voldoende mate zijn aan te leren, en
+
+- c. voor wiens kind niet minstens gelijkwaardige opvangmogelijkheden gerealiseerd kunnen worden buiten de inrichting.
+
+2. Voor plaatsing in de inrichtingen of afdeling, bedoeld in [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=12), komen niet in aanmerking vrouwelijke gedetineerden:
+
+- a. met een strafrestant van minder dan drie maanden bij plaatsing,
+
+- b. met een acute psychiatrische of psychische problematiek,
+
+- c. van wie het kind op de datum van vervroegde invrijheidsstelling van de moeder een leeftijd heeft ouder dan de bij de bestemmingsaanwijzing van de inrichting vastgestelde maximale leeftijd van het kind,
+
+- d. van wie het kind een ernstig lichamelijk of geestelijk gebrek heeft, waardoor intensieve begeleiding is vereist, of
+
+- e. ten aanzien van wie de plaatsing niet in het belang van het kind is.
+
+##### Artikel 18. Penitentiair Selectie Centrum (PSC)
+
+1. In het Penitentiair Selectie Centrum kunnen gedetineerden worden geplaatst:
+
+- a. ten aanzien van wie een psychologisch advies is gevraagd ten behoeve van de tenuitvoerlegging dan wel verdere tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel,
+
+- b. met een strafrestant van ten hoogste 18 maanden die psychotherapie of sociotherapie behoeven en niet of nog niet geschikt zijn voor begeleiding in een niet-justitiële instelling, of
+
+- c. die tijdelijk opvang behoeven vanwege een psychosociale crisis.
+
+2. Gedetineerden waarbij de in het eerste lid, onder b en c, genoemde problematiek overheerst wordt door een verslavingsproblematiek komen in beginsel niet voor plaatsing in het Penitentiair Selectie Centrum in aanmerking.
+
+##### Artikel 19. Penitentiair Ziekenhuis (PZ)
+
+In het Penitentiair Ziekenhuis kunnen gedetineerden worden geplaatst:
+
+- a. die medische behandeling behoeven waarvoor opname in een ziekenhuis geïndiceerd is,
+
+- b. ten aanzien van wie het vermoeden bestaat dat zij voorwerpen in hun lichaam hebben verborgen die een ernstig gevaar kunnen vormen voor de gezondheid van de gedetineerde, of
+
+- c. die langdurig extra medische verzorging behoeven en ten gevolge daarvan niet of zeer moeilijk in een reguliere inrichting of afdeling kunnen verblijven.
+
+##### Artikel 20. Verslaafden Begeleidingsafdeling (VBA)
+
+1. In de Verslaafden Begeleidings-afdelingen kunnen gedetineerden worden geplaatst die een verslavingsproblematiek hebben en die in staat en bereid zijn van de geboden begeleiding bij deze problematiek gebruik te maken. Alvorens in een Verslaaf-den Begeleidingsafdeling te kunnen worden geplaatst moet de gedetineerde met succes een toeleidingsprogramma hebben afgerond.
+
+2. Voor plaatsing in een Verslaafden Begeleidingsafdeling komen niet in aanmerking:
+
+- a. gedetineerden met een acute psychiatrische stoornis,
+
+- b. gedetineerden van wie vaststaat dat zij na de detentie worden uitgezet of uitgeleverd,
+
+- c. gedetineerden aan wie terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd, of
+
+- d. gedetineerden die de Nederlandse taal in onvoldoende mate beheersen.
+
+### Hoofdstuk V. Selectie
+
+##### Artikel 21. Aanwijzingen
+
+Indien de selectiefunctionaris voornemens is van de aanwijzingen, bedoeld in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) af te wijken, stelt hij het openbaar ministerie dan wel de autoriteiten die de straf of maatregel hebben opgelegd daarvan schriftelijk en gemotiveerd op de hoogte.
+
+##### Artikel 22. Risicoprofiel
+
+1. Ten behoeve van de eerste plaatsing van een gedetineerde, stelt de selectiefunctionaris het risicoprofiel van de gedetineerde vast.
+
+2. Voor de bepaling van het risicoprofiel worden de volgende gegevens of indicatoren in onderlinge samenhang beschouwd:
+
+- a. de kenmerken en achtergronden van het delict waarvan de gedetineerde wordt verdacht of waarvoor hij is veroordeeld,
+
+- b. de gegevens over een eventuele eerdere detentie in binnen- dan wel buitenland, en
+
+- c. eventueel overige beschikbare informatie waaronder de bevindingen van het meldpunt-GRIP na analyse van beschikbare gegevens omtrent de gedetineerde.
+
+3. Indien het Openbaar Ministerie geen gebruik heeft gemaakt van de mogelijkheid om gegevens te verstrekken of indicatoren te onderbouwen, dan volstaat de selectiefunctionaris bij de bepaling van het risicoprofiel met de overige hem ter beschikking staande gegevens en daaraan gerelateerde indicatoren.
+
+4. De selectiefunctionaris plaatst een gedetineerde, zo mogelijk, in een inrichting of afdeling met de mate van beveiliging die op grond van het risicoprofiel voor betrokkene geïndiceerd is.
+
+5. Indien het regime dan wel de bijzondere opvang die voor de gedetineerde geïndiceerd is, niet wordt geboden in een inrichting of afdeling met het voor de gedetineerde geïndiceerde beveiligingsniveau, plaatst de selectiefunctionaris de gedetineerde in een inrichting of afdeling met een hoger beveiligingsniveau.
+
+##### Artikel 23. Selectie-adviescommissie
+
+De directeur Gevangeniswezen kan ten behoeve van de selectie van gedetineerden voor een bepaalde categorie inrichtingen of afdelingen een selectie-adviescommissie instellen.
+
+Er is in ieder geval:
+
+- een selectie-adviescommissie Extra Beveiligde Inrichting welke adviseert over de plaatsing in een extra beveiligde inrichting;
+
+- een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert over plaatsing krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=41) van het besluit.
+
+##### Artikel 24. Selectieprocedure ten aanzien van voorlopig gehechte gedetineerden
+
+1. De eerste plaatsing van een voorlopig gehechte gedetineerde geschiedt in een huis van bewaring, bij voorkeur gelegen in of toegewezen aan het arrondissement van vervolging.
+
+2. Op voorstel van de directeur dan wel op grond van een verzoek bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18), kan de selectiefunctionaris de gedetineerde overplaatsen naar een ander huis van bewaring, al dan niet met een ander niveau van beveiliging of een ander regime.
+
+3. Indien de overplaatsing mede gebaseerd is op het risicoprofiel, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=22&z=2001-10-01&g=2001-10-01), beoordeelt de selectiefunctionaris of de informatie op basis waarvan het risicoprofiel is vastgesteld, nog ongewijzigd van toepassing is. Zonodig wordt het risicoprofiel aangepast aan de gewijzigde omstandigheden.
+
+4. Indien de selectiefunctionaris voornemens is de gedetineerde te selecteren voor een inrichting of afdeling waarvoor een selectie-adviescommissie bestaat, legt de selectiefunctionaris zijn voorgenomen besluit ter advisering aan deze commissie voor.
+
+5. In spoedeisende gevallen kan het in het vierde lid genoemde advies achterwege blijven. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.
+
+##### Artikel 25. Selectieprocedure ten aanzien van onherroepelijk veroordeelde gedetineerden
+
+1. De eerste plaatsing van een zelfmelder geschiedt in een beperkt beveiligde inrichting of afdeling.
+
+2. Veroordeelde gedetineerden die voldoen aan de criteria, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=III&artikel=9&z=2001-10-01&g=2001-10-01), worden in een huis van bewaring met een sober regime geplaatst.
+
+3. Ten aanzien van een onherroepelijk veroordeelde gedetineerde die niet behoort tot de categorie, bedoeld in het eerste en tweede lid, beoordeelt de selectiefunctionaris op grond van de beschikbare informatie omtrent het gedrag, de persoon en persoonlijkheidskenmerken van de gedetineerde welk regime het meest geëigend is voor de gedetineerde, alsmede of de gedetineerde voor plaatsing in een inrichting of afdeling voor bijzondere opvang in aanmerking komt. Met inachtneming van het gestelde in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=21&z=2001-10-01&g=2001-10-01), plaatst de selectiefunctionaris de gedetineerde vervolgens in een inrichting of afdeling die het meest geïndiceerd is voor betrokkene.
+
+4. Op voorstel van de directeur dan wel op grond van een verzoek als bedoeld in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18), kan de selectiefunctionaris de gedetineerde overplaatsen naar een andere inrichting of afdeling, al dan niet met een ander beveiligingsniveau of regime.
+
+5. Indien de plaatsing of overplaatsing van een onherroepelijk veroordeelde gedetineerde mede gebaseerd is op het risicoprofiel van betrokkene, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=22&z=2001-10-01&g=2001-10-01), beoordeelt de selectiefunctionaris of de informatie op basis waarvan het risicoprofiel is vastgesteld, nog ongewijzigd van toepassing is. Zo nodig wordt het risicoprofiel aangepast aan de gewijzigde omstandigheden.
+
+6. Indien de selectiefunctionaris voornemens is de gedetineerde te selecteren voor een inrichting of afdeling waarvoor een selectie-adviescommissie bestaat, legt de selectiefunctionaris zijn voorgenomen besluit ter advisering aan deze commissie voor.
+
+7. Indien het de selectie van een gedetineerde betreft met een opgelegde vrijheidsstraf van 8 jaar of meer, legt de selectiefunctionaris zijn voorgenomen besluit eerst ter advisering voor aan het Penitentiair Selectie Centrum. De selectie-adviescommissie baseert haar advies aan de selectiefunctionaris in dat geval mede op het advies van het Penitentiair Selectie Centrum.
+
+8. In spoedeisende gevallen kunnen de in zesde en zevende lid genoemde adviezen achterwege blijven. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.
+
+##### Artikel 26. Plaatsing in een extra beveiligde inrichting (EBI)
+
+1. In aanvulling op het gestelde in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=24&z=2001-10-01&g=2001-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=25&z=2001-10-01&g=2001-10-01) worden ten aanzien van een plaatsing in een Extra Beveiligde Inrichting de volgende voorwaarden in acht genomen:
+
+- a. Alvorens het selectievoorstel wordt voorgelegd aan de selectie-adviescommissie Extra Beveiligde Inrichting wordt dit voorzien van externe justitiële informatie, in ieder geval van het meldpunt-GRIP en het Openbaar Ministerie, omtrent het vlucht- en maatschappelijk risico van betrokkene.
+
+- b. De selectiefunctionaris hoort de betrokken gedetineerde alvorens een beslissing omtrent de plaatsing te nemen. Eventueel door de gedetineerde tegen de plaatsing aangevoerde argumenten worden in het selectieadvies vastgelegd.
+
+- c. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot plaatsing in een Extra Beveiligde Inrichting over met instemming van de directeur Gevangeniswezen. In alle andere gevallen wordt de directeur Gevangeniswezen door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.
+
+2. Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen, kan spoedshalve afgeweken worden van de in het eerste lid gestelde procedure. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.
+
+3. De selectiefunctionaris neemt ambtshalve elke zes maanden een besluit omtrent de verlenging van het verblijf in een Extra Beveiligde Inrichting. De eerste besluitvorming over verlenging of beëindiging van het verblijf in een Extra Beveiligde Inrichting vindt plaats zes maanden na de plaatsing van betrokkene in een Extra Beveiligde Inrichting.
+
+4. Bij het nemen van de beslissing, bedoeld in het derde lid, worden de volgende voorwaarden in acht genomen:
+
+- a. Ten behoeve van de besluitvorming stelt de directeur van de Extra Beveiligde Inrichting vijf maanden na de plaatsing dan wel laatste beslissing omtrent de verlenging van het verblijf in de Extra Beveiligde Inrichting, een schriftelijke (gedrags)rapportage over de gedetineerde op.
+
+- b. Alvorens hij het voorstel indient, wint de directeur beschikbare informatie over de betrokken gedetineerde in bij de secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting. De secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting wendt zich vervolgens ter verkrijging van externe justitiële informatie tot het meldpunt-GRIP en het Openbaar Ministerie, verzamelt en analyseert de beschikbare gegevens en informeert de directeur van de Extra Beveiligde Inrichting schriftelijk dan wel in spoedeisende gevallen telefonisch met schriftelijke bevestiging achteraf.
+
+- c. De directeur bespreekt de rapportage met de gedetineerde alvorens deze naar de selectiefunctionaris te verzenden. Eventuele opmerkingen van de gedetineerde worden in de rapportage vastgelegd.
+
+- d. Indien de selectiefunctionaris overweegt de plaatsing in een Extra Beveiligde Inrichting te verlengen hoort hij de gedetineerde. Eventueel door de gedetineerde aangevoerde bezwaren worden vastgelegd.
+
+- e. Indien de gedragsdeskundige informatie daartoe aanleiding geeft, legt de selectiefunctionaris de beschikbare informatie ter advisering voor aan het Penitentiair Selectie Centrum.
+
+- f. De selectiefunctionaris legt, de onder a tot en met c bedoelde informatie, voorzien van zijn voorgenomen besluit ter advisering voor aan de selectie-adviescommissie Extra Beveiligde Inrichting. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot verlenging van de plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot verlenging van de plaatsing in een Extra Beveiligde Inrichting over met instemming van de directeur Gevangeniswezen. In alle andere gevallen wordt de hiervoor genoemde directeur Gevangeniswezen door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.
+
+5. Een in een Extra Beveiligde Inrichting verblijvende gedetineerde wiens strafrestant nog slechts anderhalf jaar of minder bedraagt wordt uit de Extra Beveiligde Inrichting geplaatst, tenzij:
+
+- a. er sprake is van een uitlevering of dreigende uitlevering,
+
+- b. er nog immer sprake is van een onaanvaardbaar maatschappelijk risico bij ontvluchting,
+
+- c. de betrokken gedetineerde in de voorafgaande periode van een jaar ontvlucht is, een ontvluchtingspoging heeft gedaan of op andere wijze de orde en veiligheid in de inrichting ernstig in gevaar heeft gebracht, of
+
+- d. er nog steeds valide informatie van het meldpunt-GRIP dan wel het Openbaar Ministerie aanwezig is omtrent een reëel vluchtgevaar van de gedetineerde.
+
+6. De directeur van een Extra Beveiligde Inrichting kan in verband met nieuwe feiten de selectiefunctionaris tussentijds voorstellen de gedetineerde over te plaatsen. De selectiefunctionaris kan, na instemming van de directeur Gevangeniswezen, op basis van het vastgestelde feitenmateriaal tot overplaatsing van de betrokken gedetineerde besluiten. In dat geval wordt de selectie-adviescommissie Extra Beveiligde Inrichting achteraf geïnformeerd.
+
+### Hoofdstuk VI. Plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+##### Artikel 27. Plaatsing van een alleen tot vrijheidsstraf veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in [artikel 13, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13)
+
+1. Indien overbrenging van een tot vrijheidsstraf veroordeelde naar een justitiële inrichting voor verpleging van ter beschikking gestelden geïndiceerd is, zendt de directeur van de inrichting van verblijf een daartoe strekkend advies, met daarbij gevoegd het advies van de districtspsychiater, door tussenkomst van de selectiefunctionaris naar het Penitentiair Selectie Centrum. Het hoofd van Penitentiair Selectie Centrum zendt deze stukken voorzien van zijn advies naar de Minister.
+
+2. Zo nodig wordt de gedetineerde door de selectiefunctionaris overgeplaatst naar het Penitentiair Selectie Centrum ten behoeve van nader onderzoek.
+
+3. De adviescommissie geestelijk gestoorde gedetineerden brengt op basis van de desbetreffende stukken advies uit aan de Minister.
+
+4. De Minister beslist over de plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden.
+
+5. Indien op grond van [artikel 76, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=76), de termijn voor plaatsing van een tot vrijheidstraf veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden wordt verlengd, wordt de gedetineerde, in overeenstemming met [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=57), gehoord althans daartoe in de gelegenheid gesteld. De gedetineerde ontvangt onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling omtrent de beslissing.
+
+##### Artikel 28. Plaatsing van veroordeelden tot vrijheidsstraf en ter beschikking gestelden met bevel tot verpleging van overheidswege als bedoeld in [artikel 13, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13)
+
+1. Tot vrijheidsstraf en terbeschikkingstelling met bevel tot verpleging van overheidswege veroordeelden aan wie een onvoorwaardelijke vrijheidsstraf is opgelegd van ten hoogste 3 jaar worden, nadat de rechterlijke uitspraak onherroepelijk is geworden, op het tijdstip, bepaald in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=42), van het besluit of zo spoedig mogelijk daarna, geplaatst in een justitiële inrichting voor verpleging van ter beschikking gestelden, tenzij met inachtneming van het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=43) van het besluit wordt besloten tot een eerdere of latere plaatsing. In het geval dat de Minister een latere plaatsing overweegt, vraagt hij de adviescommissie geestelijk gestoorde gedetineerden daaromtrent om advies.
+
+2. Ten aanzien van iedere veroordeelde tot vrijheidsstraf en terbeschikkingstelling met bevel tot verpleging van overheidswege aan wie een onvoorwaardelijke vrijheidsstraf is opgelegd langer dan 3 jaar, brengt de selectiefunctionaris, gehoord de directeur van de inrichting van verblijf, na ontvangst van de onherroepelijke rechterlijke uitspraak, advies uit aan het hoofd van het Penitentiair Selectie Centrum. Indien [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=42), van het besluit van toepassing is, kan het uitbrengen van advies door de selectiefunctionaris achterwege blijven. In zijn advies betrekt de selectiefunctionaris de vraag, op welk tijdstip de plaatsing van de veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden is geïndiceerd. Met het advies worden meegezonden de selectiebescheiden en het penitentiair dossier.
+
+3. Indien het hoofd van het Penitentiair Selectie Centrum plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden geïndiceerd acht, brengt hij daarover advies uit aan de adviescommissie geestelijk gestoorde gedetineerden.
+
+4. De Minister, gehoord de adviescommissie geestelijk gestoorde gedetineerden in de gevallen dat deze advies uitbrengt, beslist over plaatsing van de veroordeelde in een justitiële inrichting voor verpleging van ter beschikking gestelden.
+
+5. Ten aanzien van veroordeelden tot vrijheidsstraf en terbeschikkingstelling met bevel tot verpleging van overheidswege, waarvan de rechterlijke uitspraak onherroepelijk is geworden vóór 2 oktober 1997, wordt, indien er een wachtlijst is voor plaatsing in de inrichting voor ter beschikking gestelden waarvoor betrokkene is geselecteerd, de tijd, nadat een derde van de opgelegde straf is verstreken tot de datum van vervroegde invrijheidstelling, voor de helft meegeteld voor de bepaling van de plaats op de wachtlijst van betrokkene.
+
+##### Artikel 29. Jaarlijkse beoordeling tijdens de tenuitvoerlegging van de vrijheidsstraf als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=44) van het besluit
+
+1. In verband met de beoordeling, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=44), van het besluit, brengt de directeur van de penitentiaire inrichting van verblijf jaarlijks advies uit over de noodzaak tot vervroegde plaatsing van de veroordeelde tot gevangenisstraf en terbeschikkingstelling in een justitiële inrichting voor verpleging van ter beschikking gestelden. De directeur laat zich daarbij adviseren door het psycho-medisch overleg van de inrichting van verblijf van de veroordeelde en door de districtspsychiater. Indien de districtspsychiater deel uitmaakt van het psycho-medisch overleg, kan worden volstaan met een weergave van zijn visie in het advies van het psycho-medisch overleg.
+
+2. Ten behoeve van het aan de directeur uit te brengen advies, wordt door de districtspsychiater onderzocht of er gronden aanwezig zijn de veroordeelde, bedoeld in het eerste lid, met toepassing van [artikel 13 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=13) in samenhang met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=41) van het besluit te plaatsen in een justitiële inrichting voor verpleging van ter beschikking gestelden.
+
+3. De directeur van de inrichting van verblijf zendt zijn advies, met daarbij gevoegd het advies van de districtspsychiater, door tussenkomst van de selectiefunctionaris naar het Penitentiair Selectie Centrum. Het hoofd van het Penitentiair Selectie Centrum zendt deze stukken tezamen met zijn advies naar de Minister. Indien wordt overwogen van de termijn genoemd in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=42), van het besluit af te wijken, zendt het hoofd van het Penitentiair Selectie Centrum de desbetreffende stukken tezamen met zijn advies aan de adviescommissie geestelijk gestoorde gedetineerden. In dat geval brengt de adviescommissie geestelijke gestoorde gedetineerden op basis van de desbetreffende stukken advies uit aan de Minister.
+
+4. De Minister beslist binnen vier weken na de ontvangst van hetzij het advies van het Penitentiair Selectie Centrum hetzij het advies van de commissie geestelijk gestoorde gedetineerden, over plaatsing van betrokkene in een justitiële inrichting voor verpleging van ter beschikking gestelden.
+
+5. Indien plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden niet geschiedt binnen de termijn als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=42), van het besluit, wordt voortgegaan met de jaarlijkse beoordeling ter bepaling van het tijdstip van plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden.
+
+### Hoofdstuk VII. Plaatsing in een psychiatrisch ziekenhuis, een verslavingskliniek, dan wel een ziekenhuis
+
+##### Artikel 30. Plaatsing in een psychiatrisch ziekenhuis als bedoeld in artikel 15, vijfde lid, van de wet
+
+1. Indien plaatsing in een psychiatrisch ziekenhuis geïndiceerd is, dient de directeur van de inrichting waar de gedetineerde verblijft, na overleg met de districtspsychiater, een daartoe strekkend advies in bij de selectiefunctionaris.
+
+2. Het advies van de directeur is onderbouwd met:
+
+- a. een schriftelijk advies van het psycho-medisch overleg van de inrichting betreffende de psychiatrische problematiek en de wenselijkheid van opname,
+
+- b. een inschatting van het vlucht- en maatschappelijk risico dat aan de plaatsing verbonden is, en
+
+- c. een schriftelijk instemming van het Openbaar Ministerie indien het een onveroordeelde betreft dan wel bij het vonnis een executie-indicator is gegeven.
+
+3. Indien de behandeling van een persoonlijkheidsstoornis bij de gedetineerde ten grondslag ligt aan het advies tot plaatsing in een psychiatrisch ziekenhuis, laat de selectiefunctionaris zich omtrent de wenselijkheid van de detentievervangende behandeling van de gedetineerde nader adviseren door het Penitentiair Selectie Centrum. Indien gewenst plaatst de selectiefunctionaris de gedetineerde over naar het Penitentiair Selectie Centrum ten behoeve van nader onderzoek.
+
+4. Het in het derde lid genoemde advies kan achterwege blijven indien op grond van de `Indicatiestelling in de forensische zorg' in het betreffende ressort een forensisch deskundige Geestelijke Gezondheidszorg-indicatiecommissie is ingesteld, die over de noodzaak tot opname van betrokkene in een psychiatrisch ziekenhuis heeft geadviseerd.
+
+5. Indien de detentievervangende behandeling van een persoonlijkheidsstoornis van de gedetineerde ten grondslag ligt aan de plaatsing in een psychiatrisch ziekenhuis wordt de gedetineerde gedurende het verblijf in het psychiatrisch ziekenhuis administratief ingeschreven in het Penitentiair Selectie Centrum. In de overige gevallen blijft de gedetineerde administratief ingeschreven in de inrichting van herkomst.
+
+6. De inrichting of afdeling alwaar de gedetineerde administratief is ingeschreven volgt gedurende het verblijf in het psychiatrisch ziekenhuis het behandelingsverloop en treedt als aanspreekpunt dan wel intermediair op bij eventuele bijzonderheden en incidenten.
+
+7. De gedetineerde kan in het kader van de behandeling, met instemming van de selectiefunctionaris en het Openbaar Ministerie, in een dagbehandeling geplaatst worden. De directeur van de inrichting al waar betrokkene administratief is ingeschreven pleegt hieromtrent overleg met de selectiefunctionaris en het Openbaar Ministerie. Voorwaarde voor plaatsing in een dagbehandeling is dat voorzien is in de kosten van het levensonderhoud van betrokkene.
+
+8. Indien een langer verblijf van betrokkene in het psychiatrisch ziekenhuis zich niet meer verdraagt met de ongestoorde tenuitvoerlegging van de vrijheidsstraf dan wel op andere gronden niet meer wenselijk is, dient de directeur van de inrichting alwaar de gedetineerde administratief is ingeschreven bij de selectiefunctionaris een verzoek tot overplaatsing van de gedetineerde in.
+
+9. Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen, kan spoedshalve afgeweken worden van de in het achtste lid gestelde procedure. In dat geval kan de directeur van de inrichting of afdeling alwaar betrokkene administratief is ingeschreven, na overleg met het psychiatrisch ziekenhuis, tot terugplaatsing in de penitentiaire inrichting over gaan. De selectiefunctionaris wordt zo spoedig mogelijk van de plaatsing op de hoogte gesteld, waarna de selectiefunctionaris alsnog over het plaatsingsbesluit beslist.
+
+##### Artikel 31. Plaatsing in een verslavingskliniek op grond van 43, derde lid, van de wet
+
+1. De directeur kan, na instemming van de selectiefunctionaris, besluiten een veroordeelde gedetineerde in een verslavingskliniek te plaatsen, indien de klinische opname in de verslavingskliniek als detentievervangende behandeling geïndiceerd is en de overbrenging zich verdraagt met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. Een gedetineerde kan voor plaatsing in aanmerking komen indien:
+
+- a. de einddatum van de detentie vaststaat, en
+
+- b. het strafrestant maximaal twaalf maanden bedraagt.
+
+2. Voor de plaatsing als bedoeld in het eerste lid is instemming van het Openbaar Ministerie vereist, indien op het vonnis een executie-indicator is gegeven.
+
+3. Gedurende het verblijf in de verslavingskliniek blijft betrokkene administratief ingeschreven in de inrichting van herkomst.
+
+4. De inrichting alwaar de gedetineerde administratief is ingeschreven volgt gedurende het verblijf in de verslavingskliniek het behandelingsverloop en treedt als aanspreekpunt dan wel intermediair op bij eventuele bijzonderheden en incidenten.
+
+5. De gedetineerde kan in het kader van de behandeling, met instemming van de selectiefunctionaris en het Openbaar Ministerie, in een dagbehandeling geplaatst worden. De directeur van de inrichting alwaar betrokkene administratief is ingeschreven pleegt hieromtrent overleg met de selectiefunctionaris en het Openbaar Ministerie. Voorwaarde voor plaatsing in een dagbehandeling is dat voorzien is in de kosten van het levensonderhoud van betrokkene.
+
+6. Bij omstandigheden waardoor een langer verblijf van betrokkene in de verslavingskliniek zich niet meer verdraagt met de ongestoorde tenuitvoerlegging van de vrijheidsstraf dan wel op andere gronden niet meer geïndiceerd is, kan de directeur, na instemming van de selectiefunctionaris, tot terugplaatsing van de gedetineerde in de inrichting besluiten.
+
+7. Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen, kan spoedshalve afgeweken worden van de in het zesde lid gestelde procedure. In dat geval kan de directeur van de inrichting alwaar betrokkene administratief is ingeschreven, na overleg met de verslavingskliniek, tot terugplaatsing in de penitentiaire inrichting over gaan. De selectiefunctionaris wordt zo spoedig mogelijk van de plaatsing op de hoogte gesteld.
+
+##### Artikel 32. Plaatsing in het Penitentiair Ziekenhuis
+
+1. Indien plaatsing in het Penitentiair Ziekenhuis medisch geïndiceerd is, wordt de indicatie door de medische dienst van de inrichting van verblijf schriftelijk voorgelegd aan het hoofd van de medische dienst van het Penitentiair Ziekenhuis.
+
+2. Nadat de directeur van het Penitentiair Ziekenhuis de directeur van de inrichting alwaar de gedetineerde verblijft heeft gemeld dat een opname kan worden gerealiseerd, kan de directeur van de inrichting alwaar betrokkene verblijft de gedetineerde in het Penitentiair Ziekenhuis plaatsen. Indien een langer verblijf in het Penitentiair Ziekenhuis niet meer geïndiceerd is, plaatst de directeur van de inrichting van herkomst de gedetineerde terug in zijn inrichting.
+
+3. Indien de plaatsing in het Penitentiair Ziekenhuis is gebaseerd op één van de gronden als genoemd in [artikel 19 onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=19&z=2001-10-01&g=2001-10-01), blijft de gedetineerde administratief ingeschreven in de inrichting van herkomst.
+
+4. Indien een plaatsing in het Penitentiair Ziekenhuis geïndiceerd is als bedoeld in [artikel 19, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=19&z=2001-10-01&g=2001-10-01), plaatst de selectiefunctionaris, op voorstel van de directeur van de inrichting van herkomst en de directeur van het Penitentiair Ziekenhuis, de gedetineerde over naar het Penitentiair Ziekenhuis. Indien een langer verblijf in het Penitentiair Ziekenhuis niet langer geïndiceerd is, plaatst de selectiefunctionaris de gedetineerde, op voorstel van de directie van het Penitentiair Ziekenhuis, over.
+
+5. Indien een spoedeisende plaatsing in het Penitentiair Ziekenhuis geïndiceerd is, kan, met instemming van de directeur van het Penitentiair Ziekenhuis, afgeweken worden van de in dit artikel gestelde procedure.
+
+##### Artikel 33. Plaatsing in een algemeen ziekenhuis op grond van [artikel 42, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=42)
+
+1. De directeur gaat tot plaatsing in een algemeen ziekenhuis over indien de opname in een ziekenhuis medisch geïndiceerd en opname in het Penitentiair Ziekenhuis niet mogelijk of wenselijk is.
+
+2. Indien de plaatsing een voorlopig gehechte gedetineerde betreft, vraagt de directeur toestemming aan het Openbaar Ministerie. Ten aanzien van een veroordeelde gedetineerde wordt de visie van het Openbaar Ministerie gevraagd indien op het vonnis een executie-indicator is gegeven.
+
+3. Indien het verblijf in een ziekenhuis zonder toezicht, gelet op het vlucht- of maatschappelijk risico van betrokkene, onverantwoord is, treft de directeur maatregelen welke noodzakelijk zijn voor de bewaking van de gedetineerde.
+
+4. De inrichting van herkomst volgt gedurende het verblijf in het ziekenhuis het behandelingsverloop en treedt als aanspreekpunt dan wel intermediair op bij eventuele bijzonderheden en incidenten.
+
+5. Indien spoedeisende medische zorg geboden is, kan afgeweken worden van de in dit artikel gestelde procedure.
+
+##### Artikel 34. Plaatsing in de Forensische Observatie- en Begeleidingsafdeling
+
+1. De plaatsing in de Forensische Observatie- en Begeleidingsafdeling geschiedt overeenkomstig [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=24&z=2001-10-01&g=2001-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=V&artikel=25&z=2001-10-01&g=2001-10-01).
+
+2. Indien een spoedeisende plaatsing in de Forensisch Observatie- en Begeleidingsafdeling geïndiceerd is, kan de directeur van de inrichting van herkomst met instemming van de directeur van de Forensische Observatie- en Begeleidingsafdeling, de gedetineerde in afwachting van de plaatsingsbeslissing van de selectiefunctionaris in de Forenische Observatie- en Begeleidingsafdeling plaatsen. De selectiefunctionaris wordt zo spoedig mogelijk van de plaatsing op de hoogte gesteld, waarna de selectiefunctionaris alsnog over de plaatsing beslist.
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+##### Artikel 35
+
+De volgende regelingen worden ingetrokken:
+
+- 05-11-1999, 798621/99/DJI. Wijziging criteria POI-plaatsing.
+
+- 01-02-1999, 744495/99/DJI. Herziening selectie en plaatsingsprocedure gedetineerden.
+
+- 16-09-1998, 713085/98/DJI. Selectie van gedetineerden behorend tot de categorie arrestant.
+
+- 24-03-1998, 673100/98/DJI. Wijziging criteria HOI-plaatsing.
+
+- 26-09-1997, 653291/97/DJI. De Regeling plaatsing veroordeelden gevangenisstraf en TBS.
+
+- 22-08-1997, 646188/97/DJI. Herziening Selectie- en Plaatsingsprocedure extra beveiligde inrichting.
+
+- 18-07-1997, 638818/97/DJI. Sober regime.
+
+- 25-01-1996, 536910/96/DJI. Plaatsingsprocedure IBA's HvB.
+
+- 04-08-1995, 505887/95/DJI. Selectie en (over)plaatsing van jeugdigen.
+
+- 30-12-1994, 442883/94/DJI. Selectie & detentiebegeleiding langgestraften.
+
+- 12-08-1994, 451672/94/DJ. Detentiefasering; overplaatsing van gedetineerden naar halfopen inrichtingen in de laatste fase van de detentie.
+
+- 28-07-1993, 377359/93/DJ. Detentiefasering; overplaatsing van gedetineerden naar halfopen inrichtingen in de laatste fase van de detentie.
+
+- 25-02-1993, 229622/93/DJ. 1. Dagdetentie Groningen; 2. Beleidskader dagdetentie.
+
+- 14-02-1992, 017877/92/DJ. Uitbreiding van begeleiding van het experiment dagdetentie naar een aantal grotere gemeenten.
+
+- 02-12-1991, 168236/91/DJ. Onderbrenging kortgestrafte volwassenen in het ressort Amsterdam - HvB Het schouw te Amsterdam.
+
+- 26-09-1990, 294469 DJ 90. Herziening selectie en plaatsingsprocedure Open inrichtingen.
+
+- 17-04-1990, 141139 DJ 90. Voortzetting experiment dagdetentie te Rotterdam.
+
+- 12-05-1987, 214/387. Regeling begrip `werkelijke straftijd'.
+
+- 18-05-1981, 331/381. Differentiatie inrichtingen voor vrouwelijke gedetineerden.
+
+- 02-04-1979, 275/379. Richtlijnen voor de selectie en plaatsing van kortgestrafte jeugdigen en van kortgestrafte volwassenen.
+
+- 07-06-1978, 133/378. Richtlijnen voor de selectie- en detentiebegeleiding van langgestraften en van tot gevangenisstraf veroordeelden die tevens ter beschikking van de regering zijn gesteld.
+
+##### Artikel 36. Inwerkingtreding
+
+Deze regeling treedt in werking op 1 oktober 2000.
+
+##### Artikel 37. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling selectie, plaatsing en overplaatsing van gedetineerden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a
+
+1. De directeur kan een gedetineerde die in een regime van algehele of beperkte gemeenschap is geplaatst, een voor de gemeenschappelijke onderbrenging van gedetineerden bestemde verblijfsruimte toewijzen, tenzij de gedetineerde daarvoor ongeschikt wordt geacht.
+
+2. Ongeschiktheid van een gedetineerde als bedoeld in het eerste lid kan samenhangen met:
+
+- a. diens psychische gestoordheid;
+
+- b. diens verslavingsproblematiek;
+
+- c. diens gezondheidstoestand;
+
+- d. diens gedragsproblematiek;
+
+- e. de achtergrond van het door hem gepleegde delict;
+
+- f. de aan hem opgelegde beperkingen.
+
+### Hoofdstuk IV. Inrichtingen en afdelingen voor bijzondere opvang
+
+### Hoofdstuk V. Selectie
+
+### Hoofdstuk VI. Plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk VII. Plaatsing in een psychiatrisch ziekenhuis, een verslavingskliniek, dan wel een ziekenhuis
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, wordt het strafrestant voor de toepassing van deze regeling berekend op grond van de veroordeling waartegen het rechtsmiddel is aangewend.
+
+### Hoofdstuk II. Beveiligingsniveau
+
+### Hoofdstuk III. Regimes
+
+### Hoofdstuk IIIa. Toewijzing verblijfsruimte in inrichting of afdeling
+
+### Hoofdstuk IV. Inrichtingen en afdelingen voor bijzondere opvang
+
+### Hoofdstuk V. Selectie
+
+### Hoofdstuk VI. Plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk VII. Plaatsing in een psychiatrisch ziekenhuis, een verslavingskliniek, dan wel een ziekenhuis
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 20a. Terroristen Afdeling (TA)
+
+In de Terroristen Afdeling worden gedetineerden geplaatst die:
+
+- a. verdacht worden van een terroristisch misdrijf;
+
+- b. al dan niet onherroepelijk veroordeeld zijn wegens een terroristisch misdrijf;
+
+- c. voor of tijdens hun detentie een boodschap van radicalisering verkondigen of verspreiden daaronder mede begrepen wervingsactiviteiten voor doeleinden die in strijd zijn met de openbare orde en veiligheid dan wel de orde of veiligheid in de inrichting;
+
+tenzij uit informatie van het GRIP of het Openbaar Ministerie voortvloeit dat plaatsing op een Terroristen Afdeling niet is geïndiceerd.
+
+### Hoofdstuk V. Selectie
+
+##### Artikel 26a
+
+Een in een Terroristen Afdeling verblijvende gedetineerde als bedoeld in [artikel 20a onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=20a&z=2006-09-18&g=2006-09-18) die eenderde deel van de aan hem onherroepelijk opgelegde vrijheidstraf of vrijheidsbenemende maatregel heeft ondergaan en wiens strafrestant tenminste vier maanden en ten hoogste één jaar bedraagt, wordt uit de Terroristen Afdeling geplaatst, tenzij:
+
+- a. er sprake is van een uitlevering of dreigende uitlevering;
+
+- b. er sprake is van een verhoogd maatschappelijk risico bij ontvluchting;
+
+- c. er gedurende het laatste jaar van het verblijf op de Terroristen Afdeling sprake is geweest van het verkondigen of verspreiden van een boodschap van radicalisering daaronder mede begrepen wervingsactiviteiten voor doeleinden die in strijd zijn met de openbare orde en veiligheid dan wel de orde of veiligheid in de inrichting.
+
+##### Artikel 26b
+
+De selectiefunctionaris neemt ten aanzien van gedetineerden als bedoeld in [art. 20a onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=20a&z=2006-09-18&g=2006-09-18) ambtshalve elke twaalf maanden een besluit omtrent de verlenging van het verblijf in een Terroristen Afdeling. De eerste besluitvorming over verlenging of beëindiging van het verblijf in een Terroristen Afdeling vindt plaats twaalf maanden na de plaatsing van betrokkene in een Terroristen Afdeling.
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 20b. Inrichtingen voor strafrechtelijk gedetineerde vreemdelingen
+
+1. In de inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen worden vreemdelingen geplaatst die na de tenuitvoerlegging van de vrijheidsstraf geen rechtmatig verblijf hebben in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+
+2. De inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen kunnen worden onderscheiden in:
+
+- a. inrichtingen of afdelingen voor gedetineerden als bedoeld in het eerste lid met een strafrestant van ten minste vier maanden;
+
+- b. inrichtingen of afdelingen voor gedetineerden als bedoeld in het eerste lid met een strafrestant van minder dan vier maanden.
+
+3. In de inrichtingen of afdelingen voor strafrechtelijk gedetineerde vreemdelingen kunnen tevens gedetineerden als bedoeld in het eerste lid worden geplaatst voor de tenuitvoerlegging van voorlopige hechtenis vóór veroordeling in eerste aanleg.
+
+4. Plaatsing in een andere inrichting of afdeling dan bedoeld in dit artikel is in ieder geval aangewezen als het gedetineerden betreft als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=20a&z=2009-03-25&g=2009-03-25).
+
+### Hoofdstuk V. Selectie
+
+### Hoofdstuk VII. Plaatsing in een psychiatrisch ziekenhuis, een verslavingskliniek, dan wel een ziekenhuis
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 20c. Penitentiair Psychiatrisch Centrum
+
+In het Penitentiair Psychiatrisch Centrum kunnen gedetineerden worden geplaatst ten aanzien van wie:
+
+- a. in verband met een psychiatrische stoornis, een persoonlijkheidsstoornis, psychosociale problematiek, verslavingsproblematiek of een verstandelijke beperking, forensische zorg is geïndiceerd;
+
+- b. in verband met de vraag of forensische zorg is geïndiceerd, nadere observatie is vereist.
+
+### Hoofdstuk V. Selectie
+
+### Hoofdstuk VI. Plaatsing in een justitiële inrichting voor verpleging van ter beschikking gestelden
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1b. Uitgesloten van dit hoofdstuk
+
+Dit hoofdstuk is niet van toepassing op gedetineerden aan wie de maatregel tot plaatsing in een inrichting voor stelselmatige daders onherroepelijk is opgelegd.
+
+##### Artikel 1c. Het detentie- en re-integratieplan
+
+1. De directeur draagt zorg dat uiterlijk binnen een maand na binnenkomst van de gedetineerde in een inrichting, zo veel mogelijk in overleg met hem, een detentie- en re-integratieplan wordt vastgesteld.
+
+2. In het detentie- en re-integratieplan wordt kenbaar gemaakt voor welke activiteiten uit het plusprogramma de gedetineerde in aanmerking komt.
+
+3. De directeur draagt zorg dat de tenuitvoerlegging overeenkomstig het detentie- en re-integratieplan plaatsvindt.
+
+##### Artikel 1d. Beslissing tot promoveren en degraderen
+
+1. De directeur besluit over promotie en degradatie van een gedetineerde.
+
+2. Een gedetineerde heeft aanspraak op promotie indien hij op alle onderdelen van goed gedrag positief scoort gedurende een periode van zes weken. De directeur beoordeelt de onderdelen van goed gedrag op basis van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=1&z=2014-03-01&g=2014-03-01) van deze regeling of, voor zover het een vreemdeling betreft die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), op basis van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&bijlage=2&z=2014-03-01&g=2014-03-01) van deze regeling.
+
+3. Indien de gedetineerde die is gepromoveerd, op een van de onderdelen van goed gedrag verzaakt, kan de directeur besluiten tot degradatie. Daarbij maakt de directeur bekend de periode gedurende welke de gedetineerde op alle onderdelen van goed gedrag, zoals opgenomen in de in het tweede lid genoemde bijlagen, positief dient te scoren om wederom in aanmerking voor promotie te komen. Deze periode is maximaal zes weken.
+
+4. Indien bekend is dat een gedetineerde een verstandelijk beperking of een ziekelijke stoornis, waaronder ernstige verslavingsproblematiek, heeft die van invloed is op zijn gedrag, kan de directeur besluiten dat hij voor promotie gedurende de vereiste periode niet positief hoeft te scoren op het onderdeel zorg en begeleiding van de in het tweede lid genoemde bijlagen, mits hij de bereidheid toont tot verbetering. Indien de gedetineerde die is gepromoveerd, zich gedraagt op een wijze waaruit kan worden afgeleid dat hij niet meer bereid is zich te verbeteren op het onderdeel zorg en begeleiding, kan de directeur besluiten tot degradatie.
+
+5. In afwijking van het tweede lid is een tot vrijheidsstraf veroordeelde gedetineerde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en ten aanzien van wie geen aanhouding en plaatsing in een penitentiaire inrichting is bevolen, bij aanvang van zijn detentie gepromoveerd.
+
+##### Artikel 1e. Uitgesloten van promotie of het plusprogramma
+
+Uitgesloten van promotie of het plusprogramma zijn gedetineerden:
+
+- a. tegen wie het openbaar ministerie een maatregel tot plaatsing in een inrichting voor stelselmatige daders vordert;
+
+- b. die vervolgd worden voor het in detentie plegen dan wel medeplegen van misdrijven. Indien de vervolging niet leidt tot een veroordeling, wordt de uitsluiting ongedaan gemaakt;
+
+- c. die zijn geplaatst in een Justitieel Medisch Centrum als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=19&z=2014-03-01&g=2014-03-01) of in een Penitentiair Psychiatrisch Centrum als bedoeld in [artikel 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=20c&z=2014-03-01&g=2014-03-01);
+
+- d. die zijn geplaatst in een uitgebreid beveiligde inrichting of afdeling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=II&artikel=5&z=2014-03-01&g=2014-03-01), een extra beveiligde inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=II&artikel=6&z=2014-03-01&g=2014-03-01), of een Terroristen Afdeling als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&hoofdstuk=IV&artikel=20a&z=2014-03-01&g=2014-03-01).
+
+### Hoofdstuk II. Beveiligingsniveau
+
+### Hoofdstuk IIIa. Toewijzing verblijfsruimte in inrichting of afdeling
+
+### Hoofdstuk IV. Inrichtingen en afdelingen voor bijzondere opvang
+
+### Hoofdstuk IIX. Overgangsbepaling, inwerkingtreding en citeertitel
+
+## Bijlage 1
+
+### Stimuleren en ontmoedigen
+
+## Bijlage 2
+
+### Stimuleren en ontmoedigen (VRIS)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. Stimuleren en Ontmoedigen (Vris)
+
+| **Gewenst gedrag in het kader van re-integratie/resocialisatie in land van herkomst** | **Ongewenst gedrag in het kader van re-integratie/resocialisatie in land van herkomst** | **Ontoelaatbaar gedrag dat leidt tot directe degradatie** |
+| --- | --- | --- |
+| **– Een gedetineerde doorloopt de benodigde screening/diagnostiek en intake.** **– Een gedetineerde werkt actief mee aan het opstellen van het eigen terugkeerplan, met inbegrip van een plan van aanpak op de basisvoorwaarden.** **– Een gedetineerde voert het terugkeerplan uit.** | **– Een gedetineerde doorloopt niet de benodigde screening/diagnostiek en intake.** **– Een gedetineerde werkt niet mee aan het opstellen van het eigen terugkeerplan, met inbegrip van een plan van aanpak op de basisvoorwaarden.** **– Een gedetineerde voert het terugkeerplan niet uit.** | **– Een gedetineerde keert verwijtbaar te laat of niet terug van verlof.** **– Een gedetineerde brengt in de inrichting verboden goederen binnen, handelt daarin of heeft deze in bezit.** **– Een gedetineerde gedraagt zich fysiek agressief of bedreigt personeel of een medegedetineerde ernstig.** **– Een gedetineerde ontvlucht de inrichting, dan wel onderneemt een poging daartoe.** **– Een gedetineerde wordt vervolgd voor het in detentie plegen dan wel medeplegen van een misdrijf.** **– Een gedetineerde gebruikt alcohol of drugs, weigert een drugstest af te nemen of fraudeert bij het afnemen van de test.** |
+|   |   | **– Een gedetineerde keert verwijtbaar te laat of niet terug van verlof.** **– Een gedetineerde brengt in de inrichting verboden goederen binnen, handelt daarin of heeft deze in bezit.** **– Een gedetineerde gedraagt zich fysiek agressief of bedreigt personeel of een medegedetineerde ernstig.** **– Een gedetineerde ontvlucht de inrichting, dan wel onderneemt een poging daartoe.** **– Een gedetineerde wordt vervolgd voor het in detentie plegen dan wel medeplegen van een misdrijf.** **– Een gedetineerde gebruikt alcohol of drugs, weigert een drugstest af te nemen of fraudeert bij het afnemen van de test.** |
+| **Gewenst gedrag in het kader van verblijf en leefbaarheid** | **Ongewenst gedrag in het kader van verblijf en leefbaarheid** | **– Een gedetineerde keert verwijtbaar te laat of niet terug van verlof.** **– Een gedetineerde brengt in de inrichting verboden goederen binnen, handelt daarin of heeft deze in bezit.** **– Een gedetineerde gedraagt zich fysiek agressief of bedreigt personeel of een medegedetineerde ernstig.** **– Een gedetineerde ontvlucht de inrichting, dan wel onderneemt een poging daartoe.** **– Een gedetineerde wordt vervolgd voor het in detentie plegen dan wel medeplegen van een misdrijf.** **– Een gedetineerde gebruikt alcohol of drugs, weigert een drugstest af te nemen of fraudeert bij het afnemen van de test.** |
+| **– Een gedetineerde werkt mee aan het dagprogramma.** **– Een gedetineerde werkt mee aan arbeid.** **– Een gedetineerde houdt zich aan (huis)regels.** **– Een gedetineerde houdt zich aan afspraken.** **– Een gedetineerde laat zich aanspreken op gedrag.** **– Een gedetineerde gebruikt geen alcohol of drugs en werkt mee aan drugstesten (urinecontroles).** | **– Een gedetineerde werkt niet mee aan het dagprogramma.** **– Een gedetineerde werkt niet mee aan arbeid.** **– Een gedetineerde houdt zich niet aan (huis)regels.** **– Een gedetineerde houdt zich niet aan afspraken.** **– Een gedetineerde laat zich niet aanspreken op gedrag.** | **– Een gedetineerde keert verwijtbaar te laat of niet terug van verlof.** **– Een gedetineerde brengt in de inrichting verboden goederen binnen, handelt daarin of heeft deze in bezit.** **– Een gedetineerde gedraagt zich fysiek agressief of bedreigt personeel of een medegedetineerde ernstig.** **– Een gedetineerde ontvlucht de inrichting, dan wel onderneemt een poging daartoe.** **– Een gedetineerde wordt vervolgd voor het in detentie plegen dan wel medeplegen van een misdrijf.** **– Een gedetineerde gebruikt alcohol of drugs, weigert een drugstest af te nemen of fraudeert bij het afnemen van de test.** |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
