@@ -4,7 +4,7 @@ identifier: "BWBV0003547"
 country: "nl"
 rank: "verdrag"
 publication_date: "1983-11-06"
-last_updated: "1979-03-07"
+last_updated: "1983-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003547"
 soort: "verdrag"
@@ -62,7 +62,7 @@ Ingeval van overtreding van de bepalingen van deze Overeenkomst door een vervoer
 
 ##### Artikel 5
 
-Indien voertuigen van vervoerders, gevestigd in het land van een der Overeenkomstsluitende Partijen, worden gebruikt voor internationaal vervoer krachtens de bepalingen van deze Overeenkomst, zijn ze vrijgesteld van belastingen en heffingen, verschuldigd voor het deelnemen aan het verkeer of het bezit van voertuigen, alsmede van bijzondere belastingen of heffingen op vervoerswerkzaamheden op het grondgebied van de andere Overeenkomstsluitende Partij.
+Belastingen en heffingen op internationale wegvervoerswerkzaamheden, uitgevoerd door vervoerders van een der Overeenkomstsluitende Partijen op het grondgebied van de andere Overeenkomstsluitende Partij zijn in overeenstemming met de wetgeving die van toepassing is op het grondgebied van de andere Overeenkomstsluitende Partij.
 
 ##### Artikel 6
 
