@@ -135,13 +135,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Kansspelenbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het**Staatsblad**zal worden geplaatst.
-
-##### Artikel 6a
-
-Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende methoden ter controle van de naleving van het gestelde bij of krachtens de [artikelen 33e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) en [33f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), alsmede de vaststelling van de aantallen speeltafels, aangekoppelde spelersterminals en spelersplaatsen voor de toepassing van artikel 33f, tweede lid, van de wet.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het**Staatsblad**zal worden geplaatst.
-
-##### Artikel 11
-
-Dit besluit wordt aangehaald als: Kansspelenbesluit.
