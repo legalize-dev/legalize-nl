@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -173,7 +173,7 @@ Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot 
 
 ##### Artikel 4b
 
-1. Ingeval van inwilliging van het in[artikel 28c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28c) bedoelde verzoek, is de wederverkoper de belasting die hij in aftrek heeft gebracht:
+1. Ingeval van inwilliging van het in [artikel 28c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28c) bedoelde verzoek, is de wederverkoper de belasting die hij in aftrek heeft gebracht:
 
 - a. ter zake van de levering en invoer van goederen als bedoeld in het eerste lid, onderdelen a en b, van dat artikel; of
 
@@ -185,11 +185,9 @@ alsnog verschuldigd in het eerste belastingtijdvak waarin [artikel 28c van de we
 
 - a. ingevolge [artikel 28e, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28e) niet in aftrek heeft gebracht; of
 
-- b. met toepassing van het eerste of het derde lid van dit artikel verschuldigd is geworden;
+- b. met toepassing van het eerste lid van dit artikel verschuldigd is geworden;
 
 alsnog in aftrek brengen in het eerste belastingtijdvak waarin die wederopzegging toepassing vindt.
-
-3. Met betrekking tot in aftrek gebrachte belasting ter zake van de levering en de invoer vóór 1 januari 1995 van kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, is het eerste lid, uitsluitend in 1995, van overeenkomstige toepassing, met dien verstande dat de belasting alsdan alsnog verschuldigd is, naar keuze van de wederverkoper, hetzij in het eerste hetzij in het laatste belastingtijdvak van 1995.
 
 ##### Artikel 4c
 
@@ -809,9 +807,7 @@ mits daarin in elk geval de volgende vermeldingen zijn opgenomen:
 
 - a. kan bij de levering van brandstof voor landvoertuigen de vermelding van de naam en het adres van de afnemer achterwege blijven, mits die afnemer kan worden geïdentificeerd doordat zijn gegevens door de wijze van betalen, giraal of anderszins, traceerbaar zijn;
 
-- b. kan in plaats van de naam en het adres van de afnemer, een klantennummer of een dergelijke aanduiding worden vermeld;
-
-- c. kan bij de levering van goederen door groothandelaren, in plaats van de vermelding van de aard van de geleverde goederen, een door de inspecteur goedgekeurde codevermelding worden gebruikt.
+- b. kan bij de levering van goederen door groothandelaren, in plaats van de vermelding van de aard van de geleverde goederen, een door de inspecteur goedgekeurde codevermelding worden gebruikt.
 
 3. Geen afwijkingen zijn toegestaan voor leveringen als bedoeld in [artikel 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a) en voor leveringen met toepassing van de bij de wet behorende [tabel II, onderdeel a, post 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II).
 
@@ -1620,6 +1616,8 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 | of organische verbindingen van edele metalen, |   |
 | van radioactieve elementen, van zeldzame |   |
 | aardmetalen en van isotopen |   |
+| Amidoverbindingen van carbonzuren of van koolzuur | 2924; |
+| Andere organische verbindingen van niet-metalen of van metalen | 2931; |
 | Pigmenten en preparaten op basis van | 3206 30 00; |
 | cadmiumverbindingen |   |
 | Organische tensioactieve producten (andere dan | 3402 |
@@ -1629,6 +1627,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 | zeep bevattend, andere dan die bedoeld bij |   |
 | post 3401 |   |
 | Onkruidbestrijdingsmiddelen | 3808 30 27; |
+| Bereide bindmiddelen voor gietvormen of voor gietkernen; chemische producten en preparaten van de chemische of van aanverwante industrieën (mengsels van natuurlijke producten daaronder begrepen), elders genoemd noch elders onder begrepen | 3824; |
 | Polyacetalen, andere polyethers en | #3907 |
 | epoxyharsen, in primaire vormen; |   |
 | polycarbonaten, alkydharsen, polyallylesters |   |
@@ -1740,13 +1739,13 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 ## Bijlage L
 
-(Publicatieblad van de Europese Gemeenschappen 2003/C 272/03)
-
 | **LAND VAN UITGIFTE** | **MUNTEENHEID** |
 | --- | --- |
 | **AFGHANISTAN** | (20 AFGHANI) 10 000 AFGHANI (½ AMANI) (1 AMANI) (2 AMANI) (4 GRAMS) (8 GRAMS) 1 TILLA 2 TILLAS |
 |   |   |
 | **ALBANIË** | 20 LEKE 50 LEKE 100 LEKE 200 LEKE 500 LEKE |
+|   |   |
+| **ALDERNEY** | 25 POUNDS |
 |   |   |
 | **ANDORRA** | 50 DINERS 100 DINERS 250 DINERS 1 SOVEREIGN |
 |   |   |
@@ -1754,15 +1753,15 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **ARGENTINIË** | 1 ARGENTINO |
 |   |   |
-| **AUSTRALIË** | 5 DOLLARS 15 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 200 DOLLARS 250 DOLLARS 1 000 DOLLARS 3 000 DOLLARS 10 000 DOLLARS ½ SOVEREIGN (= ½ POUND) 1 SOVEREIGN (= 1 POUND) |
+| **AUSTRALIË** | 5 DOLLARS 15 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 200 DOLLARS 250 DOLLARS 500 DOLLARS 1 000 DOLLARS 2 500 DOLLARS 3 000 DOLLARS 10 000 DOLLARS ½ SOVEREIGN (= ½ POUND) |
 |   |   |
 | **BAHAMA’S** | 10 DOLLARS 20 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 200 DOLLARS 2 500 DOLLARS |
 |   |   |
-| **BELGIË** | 10 ECU 25 ECU 50 ECU 100 ECU 100 EURO 10 FRANCS 5 000 FRANCS |
+| **BELGIË** | 10 ECU 25 ECU 50 ECU 100 ECU 100 EURO 5 000 FRANCS |
 |   |   |
 | **BELIZE** | 25 DOLLARS 50 DOLLARS 100 DOLLARS 250 DOLLARS |
 |   |   |
-| **BERMUDA** | 50 DOLLARS 100 DOLLARS 200 DOLLARS |
+| **BERMUDA** | 10 DOLLARS 25 DOLLARS 50 DOLLARS 60 DOLLARS 100 DOLLARS 200 DOLLARS 250 DOLLARS |
 |   |   |
 | **BHUTAN** | 1 SERTUM 2 SERTUMS 5 SERTUMS |
 |   |   |
@@ -1778,7 +1777,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **BURUNDI** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
 |   |   |
-| **CANADA** | 1 DOLLAR 2 DOLLARS 5 DOLLARS 10 DOLLARS 20 DOLLARS 50 DOLLARS 100 DOLLARS 175 DOLLARS 200 DOLLARS 350 DOLLARS 1 SOVEREIGN |
+| **CANADA** | 1 DOLLAR 2 DOLLARS 5 DOLLARS 10 DOLLARS 20 DOLLARS 50 DOLLARS 175 DOLLARS 200 DOLLARS 350 DOLLARS |
 |   |   |
 | **CAYMANEILANDEN** | 25 DOLLARS 50 DOLLARS 100 DOLLARS 250 DOLLARS |
 |   |   |
@@ -1802,7 +1801,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **DOMINICAANSE REPUBLIEK** | 30 PESOS 100 PESOS 200 PESOS 250 PESOS |
 |   |   |
-| **DUITSLAND** | 1 MARK 10 MARK 200 EUROS |
+| **DUITSLAND** | 10 MARK |
 |   |   |
 | **ECUADOR** | 1 CONDOR 10 SUCRES |
 |   |   |
@@ -1810,13 +1809,14 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **EL SALVADOR** | 25 COLONES 50 COLONES 100 COLONES 200 COLONES 250 COLONES |
 |   |   |
+| **EQUATORIAAL-GUINEA** | 250 PESETAS 500 PESETAS 750 PESETAS 1 000 PESETAS 5 000 PESETAS |
+|   |   |
 | **ETHIOPIË** | 400 BIRR 600 BIRR 10 (DOLLARS) 20 (DOLLARS) 50 (DOLLARS) 100 (DOLLARS) 200 (DOLLARS) |
 |   |   |
 | **FIJI** | 200 DOLLARS 250 DOLLARS |
 |   |   |
 | **FILIPIJNEN** | 1 000 PISO 1 500 PISO 5 000 PISO |
-|   |   |
-| **FRANKRIJK** | 10 FRANCS 40 FRANCS 500 FRANCS 655 957 FRANCS |
+| **FRANKRIJK** | 10 EURO 20 EURO 50 EURO 5 FRANCS 10 FRANCS 40 FRANCS 50 FRANCS 100 FRANCS |
 |   |   |
 | **GABON** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS 3 000 FRANCS 5 000 FRANCS 10 000 FRANCS 20 000 FRANCS |
 |   |   |
@@ -1826,7 +1826,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **GUATEMALA** | 5 QUETZALES 10 QUETZALES 20 QUETZALES |
 |   |   |
-| **GUERNSEY** | 1 POUND 5 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS |
+| **GUERNSEY** | 1 POUND 5 POUNDS 10 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS |
 |   |   |
 | **GUINEE** | 1 000 FRANCS 2 000 FRANCS 5 000 FRANCS 10 000 FRANCS |
 |   |   |
@@ -1834,18 +1834,17 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **HONDURAS** | 200 LEMPIRAS 500 LEMPIRAS |
 |   |   |
-| **HONGARIJE** | 4 FORINT = 10 FRANCS 8 FORINT = 20 FRANCS 50 FORINT 100 FORINT 200 FORINT 500 FORINT 1 000 FORINT 20 KORONA 100 KORONA |
+| **HONGARIJE** | 1 DUKAT 8 FORINT = 20 FRANCS 50 FORINT 100 FORINT 200 FORINT 500 FORINT 1 000 FORINT 5 000 FORINT 10 000 FORINT 20 000 FORINT 50 000 FORINT 100 000 FORINT 20 KORONA 100 KORONA |
 |   |   |
 | **HONGKONG** | 1 000 DOLLARS |
 |   |   |
-| **IJSLAND** | 500 KRONOR 10 000 KRONUR |
+| **IJSLAND** | 500 KRONUR |
 |   |   |
 | **INDIA** | 1 MOHUR 15 RUPEES 1 SOVEREIGN |
 |   |   |
-| **INDONESIË** | 100 000 RUPIAH |
+| **INDONESIË** | 2 000 RUPIAH 5 000 RUPIAH 10 000 RUPIAH 20 000 RUPIAH 25 000 RUPIAH 100 000 RUPIAH 200 000 RUPIAH |
 |   |   |
 | **IRAK** | (5 DINARS) (50 DINARS) (100 DINARS) |
-|   |   |
 | **IRAN** | (½ AZADI) (1 AZADI) (¼ PAHLAVI) (½ PAHLAVI) (1 PAHLAVI) (2½ PAHLAVI) (5 PAHLAVI) (10 PAHLAVI) 500 RIALS 750 RIALS 1 000 RIALS 2 000 RIALS |
 |   |   |
 | **ISRAËL** | 20 LIROT 50 LIROT 100 LIROT 200 LIROT 500 LIROT 1 000 LIROT 5 000 LIROT 5 NEW SHEQALIM 10 NEW SHEQALIM 20 NEW SHEQALIM 5 SHEQALIM 10 SHEQALIM 500 SHEQEL |
@@ -1854,7 +1853,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **JAMAICA** | 100 DOLLARS 250 DOLLARS |
 |   |   |
-| **JERSEY** | 1 POUND 2 POUNDS 5 POUNDS 10 POUNDS 20 POUNDS 25 POUNDS 50 POUNDS 1 SOVEREIGN |
+| **JERSEY** | 1 POUND 2 POUNDS 5 POUNDS 10 POUNDS 20 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS 1 SOVEREIGN |
 |   |   |
 | **JOEGOSLAVIË** | 20 DINARA 100 DINARA 200 DINARA 500 DINARA 1 000 DINARA 1 500 DINARA 2 000 DINARA 2 500 DINARA 5 000 DINARA |
 |   |   |
@@ -1868,11 +1867,11 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **LESOTHO** | 1 LOTI 2 MALOTI 4 MALOTI 10 MALOTI 20 MALOTI 50 MALOTI 100 MALOTI 250 MALOTI 500 MALOTI |
 |   |   |
-| **LETLAND** | 10 LATUS 100 LATUS |
+| **LETLAND** | 100 LATUS |
 |   |   |
 | **LIBERIA** | 12 DOLLARS 20 DOLLARS 25 DOLLARS 30 DOLLARS 100 DOLLARS 250 DOLLARS |
 |   |   |
-| **LUXEMBURG** | 20 FRANCS |
+| **LUXEMBURG** | 5 EURO 20 FRANCS |
 |   |   |
 | **MACAO** | 500 PATACAS 1 000 PATACAS |
 |   |   |
@@ -1894,11 +1893,11 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **MONGOLIË** | 750 (TUGRIK) 1 000 (TUGRIK) |
 |   |   |
-| **NEDERLAND** | (2 DUKAAT) 1 GULDEN 5 GULDEN |
+| **NEDERLAND** | 1 DUKAAT (2 DUKAAT) 1 GULDEN 5 GULDEN |
 |   |   |
 | **NEDERLANDSE ANTILLEN** | 5 GULDEN 10 GULDEN 50 GULDEN 100 GULDEN 300 GULDEN |
 |   |   |
-| **NEPAL** | 1 ASARFI 1 000 RUPEES |
+| **NEPAL** | 1 ASARPHI 1 000 RUPEES |
 |   |   |
 | **NICARAGUA** | 50 CORDOBAS |
 |   |   |
@@ -1906,13 +1905,11 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **NIGER** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
 |   |   |
-| **NOORWEGEN** | 1 500 KRONER |
-|   |   |
-| **OEGANDA** | 50 SHILLINGS 100 SHILLINGS 500 SHILLINGS 1 000 SHILLINGS |
+| **NOORWEGEN** | 10 KRONER 1 500 KRONER |
 |   |   |
 | **OMAN** | 25 OMANI RIALS 75 OMANI RIALS |
 |   |   |
-| **OOSTENRIJK** | (1 DUCAT) 4 (DUCATS) 10 EURO 25 EURO 50 EURO 100 EURO 4 FLORIN = 10 FRANCS (= 4 GULDEN) 8 FLORIN = 20 FRANCS (= 8 GULDEN) 10 CORONA (= 10 KRONEN) 20 CORONA (= 20 KRONEN) 100 CORONA (= 100 KRONEN) 25 SCHILLING 100 SCHILLING 200 SCHILLING 500 SCHILLING 1 000 SCHILLING 2 000 SCHILLING |
+| **OOSTENRIJK** | (1 DUCAT) (4 DUCATS) 10 EURO 25 EURO 50 EURO 100 EURO 4 FLORIN = 10 FRANCS (= 4 GULDEN) 8 FLORIN = 20 FRANCS (= 8 GULDEN) 20 CORONA (= 20 KRONEN) 100 CORONA (= 100 KRONEN) 25 SCHILLING 100 SCHILLING 200 SCHILLING 1 000 SCHILLING 2 000 SCHILLING |
 |   |   |
 | **PAKISTAN** | 3 000 RUPEES |
 |   |   |
@@ -1922,21 +1919,21 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **PERU** | 1/5 LIBRA ½ LIBRA 1 LIBRA 5 SOLES 10 SOLES 20 SOLES 50 SOLES 100 SOLES |
 |   |   |
-| **POLEN** | 500 ZLOTYCH 200 000 ZLOTYCH 500 000 ZLOTYCH |
+| **POLEN** | 50 ZLOTY (Golden Eagle) 100 ZLOTY (Golden Eagle) 100 ZLOTY 200 ZLOTY (Golden Eagle) 200 ZLOTY 500 ZLOTYCH 500 ZLOTY (Golden Eagle) 200 000 ZLOTYCH 500 000 ZLOTYCH |
 |   |   |
 | **PORTUGAL** | 100 ESCUDOS 200 ESCUDOS 500 ESCUDOS 10 000 REIS |
 |   |   |
 | **RHODESIË** | 10 SHILLINGS 1 POUND 5 POUNDS |
 |   |   |
-| **ROEMENIË** | 20 LEI |
-|   |   |
-| **RUSLAND** | 10 (ROUBLES) 15 (ROUBLES) 50 (ROUBLES) 100 (ROUBLES) 200 (ROUBLES) |
+| **RUSLAND** | 5 ROUBLES 10 (ROUBLES) 15 (ROUBLES) 25 ROUBLES 50 (ROUBLES) 200 (ROUBLES) |
 |   |   |
 | **RWANDA** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS |
 |   |   |
+| **SALOMONSEILANDEN** | 10 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS |
+|   |   |
 | **SAN MARINO** | 1 SCUDO 2 SCUDI 5 SCUDI 10 SCUDI |
 |   |   |
-| **SAOEDI-ARABIË** | 1 GUINEA (= 1 SAUDI POUND) |
+| **SAUDI-ARABIË** | 1 GUINEA (= 1 SAUDI POUND) |
 |   |   |
 | **SENEGAL** | 10 FRANCS 25 FRANCS 50 FRANCS 100 FRANCS 250 FRANCS 500 FRANCS 1 000 FRANCS 2 500 FRANCS |
 |   |   |
@@ -1948,33 +1945,41 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **SINGAPORE** | 1 DOLLAR 2 DOLLARS 5 DOLLARS 10 DOLLARS 20 DOLLARS 25 DOLLARS 50 DOLLARS 100 DOLLARS 150 DOLLARS 250 DOLLARS 500 DOLLARS |
 |   |   |
-| **SOEDAN** | 25 POUNDS 50 POUNDS 100 POUNDS |
+| **SLOVENIË** | 5 000 TOLARS 20 000 TOLARS |
+|   |   |
+| **SLOWAKIJE** | 1 DUKAT 2 DUKAT 5 DUKAT 10 DUKAT |
 |   |   |
 | **SOMALIË** | 20 SHILLINGS 50 SHILLINGS 100 SHILLINGS 200 SHILLINGS 500 SHILLINGS 1 500 SHILLINGS |
 |   |   |
-| **SPANJE** | 2 (ESCUDOS) 4 (ESCUDOS) 10 (ESCUDOS) 20 PESETAS 100 (REALES) |
+| **SPANJE** | 2 (ESCUDOS) 10 (ESCUDOS) 10 PESETAS 20 PESETAS 5 000 PESETAS 10 000 PESETAS 20 000 PESETAS 40 000 PESETAS 80 000 PESETAS 100 (REALES) |
+|   |   |
+| **SUDAN** | 25 POUNDS 50 POUNDS 100 POUNDS |
 |   |   |
 | **SURINAME** | 100 GULDEN |
 |   |   |
-| **SWAZILAND** | 2 EMALANGENI 5 EMALANGENI 10 EMALANGENI 20 EMALANGENI 25 EMALANGENI 50 EMALANGENI 1 LILANGENI |
+| **SWAZILAND** | 2 EMALANGENI 5 EMALANGENI 10 EMALANGENI 20 EMALANGENI 25 EMALANGENI 50 EMALANGENI 100 EMALANGENI 250 EMALANGENI 1 LILANGENI |
 |   |   |
 | **SYRIË** | (½ POUND) (1 POUND) |
 |   |   |
-| **TANZANIA** | 1 500 SHILINGI 2 000 SHILINGI |
+| **TANZANIA** | 1 500 SHILINGI 2 000 SHILLINGI |
 |   |   |
 | **THAILAND** | (150 BAHT) (300 BAHT) (400 BAHT) (600 BAHT) (800 BAHT) (1 500 BAHT) (2 500 BAHT) (3 000 BAHT) (4 000 BAHT) (5 000 BAHT) (6 000 BAHT) |
 |   |   |
 | **TONGA** | ½ HAU 1 HAU 5 HAU ¼ KOULA ½ KOULA 1 KOULA |
 |   |   |
-| **TSJECHIË** | 1 DUCAT |
+| **TSJAAD** | 3 000 FRANCS 5 000 FRANCS 10 000 FRANCS 20 000 FRANCS |
 |   |   |
-| **TUNESIË** | 2 DINARS 5 DINARS 10 DINARS 20 DINARS 40 DINARS 75 DINARS 10 FRANCS 20 FRANCS 100 FRANCS 5 PIASTRAS |
+| **TSJECHIË** | 1 000 KORUN (I 000 Kč) 2 000 KORUN (2 000 Kč) 2 500 KORUN (2 500 Kč) 5 000 KORUN (5 000 Kč) 10 000 KORUN (10 000 Kč) |
 |   |   |
-| **TURKIJE** | (25 KURUSH) (= 25 PIASTRES) (50 KURUSH) (= 50 PIASTRES) (100 KURUSH) (= 100 PIASTRES) (250 KURUSH) (= 250 PIASTRES) (500 KURUSH) (= 500 PIASTRES) ½ LIRA 1 LIRA 500 LIRA 1 000 LIRA 10 000 LIRA |
+| **TUNESIË** | 2 DINARS 5 DINARS 10 DINARS 20 DINARS 40 DINARS 75 DINARS 10 FRANCS 20 FRANCS 5 PIASTRES |
+|   |   |
+| **TURKIJE** | (25 KURUSH) (= 25 PIASTRES) (50 KURUSH) (= 50 PIASTRES) (100 KURUSH) (= 100 PIASTRES) (250 KURUSH) (= 250 PIASTRES) ½ LIRA 1 LIRA 500 LIRA 1 000 LIRA 10 000 LIRA |
 |   |   |
 | **TURKS- & CAICOSEILANDEN** | 100 CROWNS |
 |   |   |
 | **TUVALU** | 50 DOLLARS |
+|   |   |
+| **UGANDA** | 50 SHILLINGS 100 SHILLINGS 500 SHILLINGS 1 000 SHILLINGS |
 |   |   |
 | **URUGUAY** | 5 000 NUEVO PESOS 20 000 NUEVO PESOS 5 PESOS |
 |   |   |
@@ -1982,11 +1987,11 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **VENEZUELA** | (10 BOLIVARES) (20 BOLIVARES) (100 BOLIVARES) 1 000 BOLIVARES 3 000 BOLIVARES 5 000 BOLIVARES 10 000 BOLIVARES 5 VENEZOLANOS |
 |   |   |
-| **VERENIGD KONINKRIJK** | (1/3 GUINEA) (½ GUINEA) 50 PENCE 2 POUNDS 5 POUNDS 10 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS (2 SOVEREIGNS) (5 SOVEREIGNS) |
-|   |   |
 | **VERENIGDE ARABISCHE EMIRATEN** | (500 DIRHAMS) (750 DIRHAMS) (1 000 DIRHAMS) |
 |   |   |
-| **USA** | 5 DOLLARS 10 DOLLARS 20 DOLLARS 25 DOLLARS 50 DOLLARS |
+| **VERENIGDE STATEN VAN AMERIKA** | 20 DOLLARS 25 DOLLARS 50 DOLLARS |
+|   |   |
+| **VERENIGD KONINKRIJK** | (1/3 GUINEA) (½ GUINEA) 50 PENCE 2 POUNDS 5 POUNDS 10 POUNDS 25 POUNDS 50 POUNDS 100 POUNDS ½ SOVEREIGN (2 SOVEREIGNS) (5 SOVEREIGNS) |
 |   |   |
 | **WEST-SAMOA** | 50 TALA 100 TALA |
 |   |   |
@@ -1994,8 +1999,10 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 |   |   |
 | **ZAMBIA** | 250 KWACHA |
 |   |   |
-| **ZUID-AFRIKA** | 1/10 KRUGERRAND ¼ KRUGERRAND ½ KRUGERRAND 1 KRUGERRAND 1 RAND 2 RAND ½ SOVEREIGN (= ½ POUND) 1 SOVEREIGN (= 1 POUND) |
+| **ZUID-AFRIKA** | 1/10 KRUGERRAND ¼ KRUGERRAND ½ KRUGERRAND 1 KRUGERRAND 1/10 oz NATURA ¼ oz NATURA ½ oz NATURA 1 oz NATURA 1/10 PROTEA 1 PROTEA 1 RAND 2 RAND ½ SOVEREIGN (= ½ POUND) 1 SOVEREIGN (= 1 POUND) |
 |   |   |
 | **ZUID-KOREA** | 2 500 WON 20 000 WON 25 000 WON 30 000 WON 50 000 WON |
 |   |   |
-| **ZWITSERLAND** | 10 FRANCS 50 FRANCS |
+| **ZWEDEN** | 5 CROWNS |
+|   |   |
+| **ZWITSERLAND** | 10 FRANCS 20 FRANCS 50 FRANCS 100 FRANCS |
