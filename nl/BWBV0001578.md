@@ -637,15 +637,3 @@ DONE at Warsaw this February 13th day of 2002, in duplicate, in the Netherlands,
 **For the Republic of Poland**
 
 (sd.) M. BELKA
-
-IN WITNESS whereof the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at Warsaw this February 13th day of 2002, in duplicate, in the Netherlands, Polish and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Polish texts, the English text shall prevail.
-
-**For the Kingdom of the Netherlands**
-
-(sd.) A. JORRITSMA-LEBBINK
-
-**For the Republic of Poland**
-
-(sd.) M. BELKA
