@@ -1,0 +1,111 @@
+---
+title: "Financieel besluit Loodswezen"
+identifier: "BWBR0007549"
+country: "nl"
+rank: "pbo"
+publication_date: "2015-03-26"
+last_updated: "2000-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007549"
+soort: "pbo"
+stam_id: "6640053"
+version_id: "11473532"
+internal_id: "C15462691"
+label_id: "6628434"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007549/2015-03-26/0"
+intitule_bron: "Stcrt.1995-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-12"
+intitule_published: "1995-09-25"
+intitule_in_force: "1995-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-185"
+original_signed_date: "1995-09-12"
+original_published_date: "1995-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-185-p14-SC3734"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007549&z=2015-03-26&g=2015-03-26"
+jci_1_0: "1.0:c:BWBR0007549&g=2015-03-26"
+citeertitel_status: "officieel"
+signed_date: "1995-09-12"
+entry_into_force: "1995-10-01"
+---
+# Financieel besluit Loodswezen
+
+Gelet op [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [artikel 15b, eerste en derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b);
+
+Besluit:
+
+De aanwijzing en voorschriften als bedoeld in [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [artikel 15b, eerste en derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) worden vastgesteld als volgt:
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2000-03-22&g=2000-03-22);
+
+- b. samenwerkingsverband: een samenwerkingsverband als bedoeld in artikel 2 van de Dienstverleningsverordening registerloodsen;
+
+- c. algemene raad: het orgaan van de corporatie, bedoeld in [artikel 6, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=6);
+
+##### Artikel 2
+
+1. De organisatie, bedoeld in de [artikelen 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [15b, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b) is: Nederlands Loodswezen B.V., statutair gevestigd te Rotterdam.
+
+2. De organisatie dient met inachtneming van het bepaalde bij of krachtens dit besluit zorg te dragen voor de inning van de loodsgelden en de loodsgelden aan te wenden voor de betalingen volgens het bepaalde bij of krachtens dit besluit en de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548). De algemene raad kan de organisatie verplichten tot het laten stellen van zekerheid door of namens degene die de loodsgelden verschuldigd is. De organisatie is, uitsluitend in overeenstemming met de algemene raad, bevoegd om het recht op verschuldigde loodsgelden en op de inning van de loodsgelden toe te kennen aan derden.
+
+##### Artikel 3
+
+1. De loodsgelden komen geheel ten gunste van de samenwerkingsverbanden. Ieder boekjaar van de organisatie komen de op dat boekjaar betrekking hebbende loodsgelden in de verhouding van het aantal registerloodsen in ieder samenwerkingsverband ten opzichte van het totale aantal registerloodsen in de samenwerkingsverbanden samen ten gunste van het betreffende samenwerkingsverband. Voor de bepaling van de aantallen registerloodsen gelden de aantallen op 31 december van het betreffende boekjaar.
+
+2. De organisatie brengt ten laste van ieder samenwerkingsverband in de verhouding als omschreven in het eerste lid de volgende lasten:
+
+- a. De kosten van het funktioneel leeftijdspensioen voor voormalige registerloodsen en de kosten van het krachtens collectieve arbeidsovereenkomst toegekende recht op funktioneel leeftijdsontslag van het personeel, belast met de uitvoering van de taken als bedoeld in onderdeel c;
+
+- b. Het budget van de Nederlandse loodsencorporatie ter vergoeding van:
+
+- 1°. kosten met betrekking tot adspirant-registerloodsen;
+
+- 2°. kosten met betrekking tot de door de algemene raad en de besturen van de regionale loodsencorporaties bij of krachtens de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) te verzorgen taken;
+
+- c. De kosten met betrekking tot de inning van de loodsgelden en de taken ten behoeve van de door de registerloodsen te verlenen diensten, een en ander volgens de regels met betrekking tot de samenwerkingsverbanden;
+
+- d. Vergoedingen ten behoeve van registerloodsen ter zake van:
+
+- 1°. verrichtingen;
+
+- 2°. loodsen vanaf de wal;
+
+- 3°. afbestellingen;
+
+- 4°. vergoedingen als bedoeld in [artikel 10, tweede lid, van het Loodsgeldbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007342&artikel=10);
+
+- e. De voeding van het bufferfonds.
+
+3. De organisatie draagt zorg voor de uit de lasten, genoemd in het tweede lid, voortvloeiende betalingen, met inachtneming van de regels, vastgesteld bij de verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26). De volgorde van de opsomming van de lasten, genoemd in het tweede lid, is tevens de rangorde van de betalingen.
+
+4. De betalingen betreffende het funktioneel leeftijdspensioen geschieden aan de bij verordening aangewezen rechtspersoon belast met de uitkering van het funktioneel leeftijdspensioen aan voormalige registerloodsen. De betalingen betreffende het funktioneel leeftijdsontslag geschieden aan de betrokken rechthebbende met ingang van de maand volgende op de maand waarin betrokkene de voor hem bepaalde leeftijdsgrens wegens funktioneel leeftijdsontslag heeft bereikt en uit dien hoofde de betreffende arbeisovereenkomst is beëindigd. Betaling eindigt per eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
+
+5. De betalingen ten aanzien van het budget van de Nederlandse loodsencorporatie, bedoeld in het tweede lid, onderdeel b, geschieden aan de Nederlandse loodsencorporatie.
+
+6. De vergoedingen, bedoeld in het tweede lid, onderdeel d, komen ten gunste van het betreffende samenwerkingsverband.
+
+7. De betaling van het bedrag, bedoeld in het tweede lid, onderdeel e, geschiedt aan de rechtspersoon die is belast met het beheer van dat bufferfonds.
+
+8. De vergoeding als bedoeld in [artikel 13, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13) wordt, op verzoek van de betreffende regionale loodsencorporatie, geïnd door de organisatie en betaald aan het betreffende samenwerkingsverband.
+
+##### Artikel 4
+
+De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2000-03-22&g=2000-03-22).
+
+##### Artikel 5
+
+De organisatie is ten aanzien van de verkrijging van de informatie als bedoeld in [artikel 15, derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15) bevoegd de daartoe benodigde scheepsgegevens en de gegevens van de gevaren trajecten volgens schriftelijke opgave te verlangen.
+
+##### Artikel 6
+
+Dit besluit treedt in werking met ingang van 1 oktober 1995 en kan worden aangehaald als Financieel besluit Loodswezen.
+
+**Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
