@@ -4,7 +4,7 @@ identifier: "BWBR0001998"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-10"
-last_updated: "2002-01-01"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001998"
 soort: "wet"
@@ -57,7 +57,7 @@ Deze wet verstaat onder:
 
 ##### Artikel 1a
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2002-01-01&g=2002-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=3&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2002-01-01&g=2002-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8&z=2002-01-01&g=2002-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=3&z=2004-11-01&g=2004-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8&z=2004-11-01&g=2004-11-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -83,21 +83,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5
 
-1. Hij die door handelen of nalaten een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2002-01-01&g=2002-01-01), opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
+1. Hij die door handelen of nalaten een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
 
-2. Hij aan wiens schuld te wijten is, dat een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2002-01-01&g=2002-01-01), wordt overtreden, hetzij door hemzelf, hetzij door een ander, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
+2. Hij aan wiens schuld te wijten is, dat een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), wordt overtreden, hetzij door hemzelf, hetzij door een ander, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
 
 3. De bij dit artikel strafbaar gestelde feiten worden beschouwd als misdrijven.
 
 4. Dit artikel is ook van toepassing op feiten, buiten Nederland gepleegd.
 
-5. Niet strafbaar is de overtreding van een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2002-01-01&g=2002-01-01), voorzoover betreft het aanvangen of vervolgen van een vaart, een reis of een reeks van reizen in het buitenland, indien kan worden aannemelijk gemaakt, dat gedurende vijf dagen onmiddellijk hieraan voorafgaande, geenerlei berichtgeving tusschen het schip en Nederland mogelijk is geweest.
+5. Niet strafbaar is de overtreding van een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), voorzoover betreft het aanvangen of vervolgen van een vaart, een reis of een reeks van reizen in het buitenland, indien kan worden aannemelijk gemaakt, dat gedurende vijf dagen onmiddellijk hieraan voorafgaande, geenerlei berichtgeving tusschen het schip en Nederland mogelijk is geweest.
 
 ##### Artikel 6
 
-1. Hij die een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2002-01-01&g=2002-01-01), opzettelijk niet nakomt, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige voorwaarde niet wordt nagekomen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
+1. Hij die een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01), opzettelijk niet nakomt, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige voorwaarde niet wordt nagekomen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
 
-2. Hij aan wiens schuld te wijten is, dat een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2002-01-01&g=2002-01-01), niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
+2. Hij aan wiens schuld te wijten is, dat een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01), niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
 
 3. De bij dit artikel strafbaar gestelde feiten worden beschouwd als misdrijven.
 
@@ -109,7 +109,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - a. de officieren der Koninklijke Marine, behoorende tot het Korps zeeofficieren, en, voorzoover zij in werkelijken dienst zijn, de tot dit Korps behoorende officieren der Koninklijke Marine Reserve;
 
-- b. de ambtenaren van de Scheepvaartinspectie, de Verkeersinspectie en den Rijkswaterstaat;
+- b. de ambtenaren van de Scheepvaartinspectie en de daartoe door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat en van Rijkswaterstaat;
 
 - c. de ambtenaren der Invoerrechten en Accijnzen;
 
