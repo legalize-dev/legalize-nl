@@ -4,7 +4,7 @@ identifier: "BWBR0007122"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2002-01-01"
+last_updated: "2002-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007122"
 soort: "AMvB"
@@ -46,11 +46,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als stoffen die worden geacht aan de omschrijving van artikel 175, eerste lid, eerste zin, van Boek 6 van het Burgerlijk Wetboek te voldoen worden aangewezen:
+Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, eerste zin, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=175) te voldoen worden aangewezen:
 
 - a. de stoffen die zijn opgenomen in Bijlage I bij [richtlijn nr. 67/548/EEG](31967L0548) van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (**PbEG** L 196), zoals gewijzigd door [richtlijn nr. 92/32/EEG](31992L0032) van de Raad van de Europese Gemeenschappen van 30 april 1992 (**PbEG** L 154);
 
-- b. de gevaarlijke afvalstoffen aangewezen in het [Besluit aanwijzing gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0006271), voor zover zij niet reeds onder de in onderdeel **a** bedoelde stoffen vallen.
+- b. de gevaarlijke afvalstoffen aangewezen ingevolge [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), voor zover zij niet reeds onder de in onderdeel **a** bedoelde stoffen vallen.
 
 ##### Artikel 2
 
