@@ -4,7 +4,7 @@ identifier: "BWBR0007558"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2002-10-01"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007558"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het 
 
 - 13°52°57’.90 NB, 04°48’.18 OL;
 
-- 2°. de Havenmeester van de gemeente Rotterdam, voor zover het betreft de scheepvaartwegen in beheer bij het Rijk benedenstrooms van kilometerraai 991,7 van de Nieuwe Maas en benedenstrooms van kilometerraai 998 van de Oude Maas;
+- 2°. de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V., voor zover het betreft de scheepvaartwegen in beheer bij het Rijk benedenstrooms van kilometerraai 991,7 van de Nieuwe Maas en benedenstrooms van kilometerraai 998 van de Oude Maas;
 
 - 3°. de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2), voor het gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 51°42’.6 NB, 03°41’.6 OL, naar 51°39’.1 NB, 03°19’.7 OL, vandaar naar 51°33’.7 NB, 03°10’.0 OL, vandaar naar 51°22’.4 NB, 02°58’.2 OL, en vandaar naar 51°22’.3 NB, 03°21’.8 OL, de Westerschelde en het kanaal van Gent naar Terneuzen, met inbegrip van de Axelse Sassing;
 
@@ -86,7 +86,7 @@ De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het 
 
 ##### Artikel 2
 
-De bevoegde autoriteit, bedoeld in [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=1), is de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2002-10-01&g=2002-10-01) van deze regeling bedoelde functionaris, voor de aldaar genoemde scheepvaartwegen.
+De bevoegde autoriteit, bedoeld in [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=1), is de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31) van deze regeling bedoelde functionaris, voor de aldaar genoemde scheepvaartwegen.
 
 ##### Artikel 3
 
@@ -96,9 +96,9 @@ De regionale autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel c, van het
 
 - b. voor de regio Amsterdam-IJmond: het algemeen bestuur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied;
 
-- c. voor de regio Rotterdam-Rijnmond: de functionaris, bedoeld in [artikel 1, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2002-10-01&g=2002-10-01);
+- c. voor de regio Rotterdam-Rijnmond: de functionaris, bedoeld in [artikel 1, onderdeel a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31);
 
-- d. voor de regio Scheldemonden: de functionaris, bedoeld in [artikel 1, onderdeel a, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2002-10-01&g=2002-10-01).
+- d. voor de regio Scheldemonden: de functionaris, bedoeld in [artikel 1, onderdeel a, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2003-12-31&g=2003-12-31).
 
 ##### Artikel 4
 
