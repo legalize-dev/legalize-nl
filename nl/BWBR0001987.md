@@ -202,35 +202,3 @@ Deze wet kan worden aangehaald onder den titel: "Wet op het algemeen verbindend 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. Indien een verzoek is gedaan aan Onze Minister om een uitzondering te maken op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, beslist Onze Minister op dit verzoek niet eerder dan op het moment dat die bepalingen van de collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard.
-
-2. Indien tegen een besluit inzake het al dan niet maken van een uitzondering op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst bezwaar is gemaakt, beslist Onze Minister op dat bezwaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), binnen veertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. De verlenging van de verbindendverklaring, bedoeld in [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01), kan alleen geschieden op verzoek van alle werkgevers of verenigingen van werkgevers en werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.
-
-2. De verlenging van de verbindendverklaring geschiedt voor ten hoogste een jaar.
-
-3. De [artikelen 4, tweede lid en derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2015-07-01&g=2015-07-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2015-07-01&g=2015-07-01), zijn van overeenkomstige toepassing.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10c
-
-Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2016-06-18&g=2016-06-18).
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2b
-
-1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2020-07-30&g=2020-07-30) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
-
-2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2020-07-30&g=2020-07-30) van deze wet, verplicht wordt bepalingen van een collectieve arbeidsovereenkomst na te komen. De rechten en verplichtingen eindigen voorts zodra de werking der verbindendverklaring eindigt.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
