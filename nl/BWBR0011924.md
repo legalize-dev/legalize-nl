@@ -4,7 +4,7 @@ identifier: "BWBR0011924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2002-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011924"
 soort: "ministeriele-regeling"
@@ -40,11 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-Het bedrag, bedoeld in [artikel 48, tweede lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=48) dat een reiziger is verschuldigd, wordt vastgesteld op € 27,00.
+Het bedrag, bedoeld in [artikel 48, tweede lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=48) dat een reiziger is verschuldigd, wordt vastgesteld op € 35,00.
 
 ##### Artikel 2
 
-Het bedrag aan administratiekosten, bedoeld in [artikel 48, zesde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=48), wordt vastgesteld op € 6,50.
+Het bedrag aan administratiekosten, bedoeld in [artikel 48, zesde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=48), wordt vastgesteld op € 10,00.
 
 ##### Artikel 3
 
