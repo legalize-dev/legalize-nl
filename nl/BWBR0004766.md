@@ -4,7 +4,7 @@ identifier: "BWBR0004766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-09-04"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004766"
 soort: "ministeriele-regeling"
@@ -53,9 +53,9 @@ Met betrekking tot bezwaar tegen een in deze regeling als voor bezwaar vatbaar a
 
 1. Verzoeken tot uitstel van betaling, tot kwijtschelding of tot ontslag van betalingsverplichting ingevolge deze regeling worden afgewezen door de ontvanger indien de voor de beoordeling van het daartoe strekkende verzoek benodigde gegevens niet, onjuist of onvolledig dan wel niet op de door de ontvanger aangegeven wijze zijn verstrekt.
 
-2. Een ingevolge de [hoofdstukken 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&z=2003-01-01&g=2003-09-04) en [1B](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&z=2003-01-01&g=2003-09-04) te nemen besluit tot afwijzing, verlening of herziening van uitstel van betaling of van kwijtschelding of een ingevolge die hoofdstukken of het derde lid te nemen besluit tot gehele of gedeeltelijke beëindiging van uitstel van betaling, geschiedt bij voor bezwaar vatbare beschikking.
+2. Een ingevolge de [hoofdstukken 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&z=2004-01-01&g=2004-01-01) en [1B](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&z=2004-01-01&g=2004-01-01) te nemen besluit tot afwijzing, verlening of herziening van uitstel van betaling of van kwijtschelding of een ingevolge die hoofdstukken of het derde lid te nemen besluit tot gehele of gedeeltelijke beëindiging van uitstel van betaling, geschiedt bij voor bezwaar vatbare beschikking.
 
-3. Indien bij vermindering van een belastingaanslag het bedrag waarvoor op de voet van het [eerste lid van de artikelen 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6b&z=2003-01-01&g=2003-09-04), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=2&artikel=1e&z=2003-01-01&g=2003-09-04), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=3&artikel=1g&z=2003-01-01&g=2003-09-04), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=4&artikel=2&z=2003-01-01&g=2003-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=4&artikel=3&z=2003-01-01&g=2003-09-04), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=5&artikel=4a&z=2003-01-01&g=2003-09-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=6&artikel=5&z=2003-01-01&g=2003-09-04), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=7&artikel=5a&z=2003-01-01&g=2003-09-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6&z=2003-01-01&g=2003-09-04), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6a&z=2003-01-01&g=2003-09-04) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6b&z=2003-01-01&g=2003-09-04) uitstel van betaling is verleend, wijziging ondergaat, beëindigt de ontvanger, met inachtneming van het bepaalde in de genoemde artikelen, het uitstel dienovereenkomstig.
+3. Indien bij vermindering van een belastingaanslag het bedrag waarvoor op de voet van het [eerste lid van de artikelen 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6b&z=2004-01-01&g=2004-01-01), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=2&artikel=1e&z=2004-01-01&g=2004-01-01), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=3&artikel=1g&z=2004-01-01&g=2004-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=4&artikel=2&z=2004-01-01&g=2004-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=4&artikel=3&z=2004-01-01&g=2004-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=5&artikel=4a&z=2004-01-01&g=2004-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=6&artikel=5&z=2004-01-01&g=2004-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=7&artikel=5a&z=2004-01-01&g=2004-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6&z=2004-01-01&g=2004-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6a&z=2004-01-01&g=2004-01-01) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&artikel=6b&z=2004-01-01&g=2004-01-01) uitstel van betaling is verleend, wijziging ondergaat, beëindigt de ontvanger, met inachtneming van het bepaalde in de genoemde artikelen, het uitstel dienovereenkomstig.
 
 ##### Artikel 1c
 
@@ -77,13 +77,13 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ##### Artikel 1e
 
-1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden. Bij het verlenen van uitstel van betaling als bedoeld in de vorige volzin kan, in afwijking in zoverre van [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), of [artikel 3.136, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), zekerheidstelling achterwege blijven indien sprake is van emigratie van de belastingschuldige en zijn aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) zijn ondergebracht bij een verzekeraar die bevoegd is het directe verzekeringsbedrijf, bedoeld in de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), uit te oefenen en die de lijfrente- of pensioenverplichting rekent tot het binnenlandse ondernemingsvermogen, dan wel zijn ondergebracht bij een lichaam dat ingevolge [artikel 5, onderdeel b, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) is vrijgesteld van de vennootschapsbelasting.
+1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden. Bij het verlenen van uitstel van betaling als bedoeld in de vorige volzin kan, in afwijking in zoverre van [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), voor belastingaanslagen betreffende de inkomstenbelasting die is verschuldigd door de toepassing van [artikel 3.83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), of [artikel 3.136, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136), zekerheidstelling achterwege blijven indien sprake is van emigratie van de belastingschuldige en zijn aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) zijn ondergebracht bij een verzekeraar die bevoegd is het directe verzekeringsbedrijf, bedoeld in de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), uit te oefenen en die de lijfrente- of pensioenverplichting rekent tot het binnenlandse ondernemingsvermogen, dan wel zijn ondergebracht bij een lichaam dat ingevolge [artikel 5, eerste lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) is vrijgesteld van de vennootschapsbelasting.
 
 2. Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn 10 jaar zijn verstreken.
 
 3. Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.
 
-4. De ontvanger beëindigt het uitstel voorzover zich met betrekking tot aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) waarop de verschuldigde belasting, bedoeld in [artikel 25, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&artikel=25&z=2003-01-01&g=2003-09-04), van de wet betrekking heeft, een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+4. De ontvanger beëindigt het uitstel voorzover zich met betrekking tot aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) waarop de verschuldigde belasting, bedoeld in [artikel 25, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&artikel=25&z=2004-01-01&g=2004-01-01), van de wet betrekking heeft, een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 ##### Artikel 1f
 
@@ -109,9 +109,9 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 2. Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tien jaar zijn verstreken.
 
-3. Ingeval aandelen of winstbewijzen waarvan de waarde ten grondslag ligt aan de in het eerste lid bedoelde belasting worden vervreemd in de zin van [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12) of [artikel 4.16, eerste lid, onderdelen a tot en met g en i, en tweede tot en met vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16), beëindigt de ontvanger het uitstel voorzover dit aan deze aandelen of winstbewijzen kan worden toegerekend
+3. Ingeval aandelen of winstbewijzen waarvan de waarde ten grondslag ligt aan de in het eerste lid bedoelde belasting worden vervreemd in de zin van [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12) of [artikel 4.16, eerste lid, onderdelen a tot en met g en i, en tweede tot en met vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16), beëindigt de ontvanger het uitstel voorzover dit aan deze aandelen of winstbewijzen kan worden toegerekend. In geval van een teruggaaf van wat op aandelen of bewijzen van deelgerechtigdheid is gestort dan wel van wat door houders van winstbewijzen is gestort of ingelegd, beëindigt de ontvanger het uitstel voorzover dit aan deze teruggaaf kan worden toegerekend.
 
-4. Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in [artikel 4.16, eerste lid, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) het uitstel worden voortgezet; de aandelen in of winstbewijzen van de verkrijgende vennootschap worden geacht voortaan aan het verleende uitstel ten grondslag te liggen.
+4. Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in de zin van [artikel 4.16, eerste lid, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) het uitstel worden voortgezet; de aandelen in of winstbewijzen van de verkrijgende vennootschap worden geacht voortaan aan het verleende uitstel ten grondslag te liggen.
 
 5. Op schriftelijk verzoek van de belastingschuldige kan in geval van een vervreemding in de zin van [artikel 4.16, eerste lid, onderdeel e of f, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) het uitstel worden voortgezet.
 
@@ -209,7 +209,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ##### Artikel 7
 
-1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek bij voor administratief beroep vatbare beschikking kwijtschelding van de door hem verschuldigde rijksbelastingen in andere gevallen dan die, bedoeld in de [hoofdstukken IA](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&z=2003-01-01&g=2003-09-04) en [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&z=2003-01-01&g=2003-09-04), op de voet van deze afdeling en de afdelingen 2 tot en met 5 van dit hoofdstuk.
+1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek bij voor administratief beroep vatbare beschikking kwijtschelding van de door hem verschuldigde rijksbelastingen in andere gevallen dan die, bedoeld in de [hoofdstukken IA](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&z=2004-01-01&g=2004-01-01) en [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&z=2004-01-01&g=2004-01-01), op de voet van deze afdeling en de afdelingen 2 tot en met 5 van dit hoofdstuk.
 
 2. Voor de toepassing van dit hoofdstuk worden de heffingsrente, de revisierente en de bestuurlijke boeten die de belastingschuldige heeft belopen in verband met de in dit hoofdstuk bedoelde belastingen, gelijkgesteld met de belastingen waarmee zij samenhangen.
 
@@ -225,7 +225,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 - d. indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, tenzij sprake is van een akkoord als bedoeld in [artikel 329 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=329), dan wel van een belastingaanslag voor zover die materieel verschuldigd is geworden op een tijdstip of over een tijdvak dat is gelegen na de uitspraak waarbij de schuldsaneringsregeling van toepassing is verklaard en niet kan worden aangemerkt als boedelschuld;
 
-- e. indien de belastingschuldige een bedrijf of zelfstandig een beroep uitoefent en ook na totstandkoming van een akkoord, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=21&z=2003-01-01&g=2003-09-04), geen reële vooruitzichten zouden bestaan voor de voortzetting van het bedrijf of beroep;
+- e. indien de belastingschuldige een bedrijf of zelfstandig een beroep uitoefent en ook na totstandkoming van een akkoord, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=21&z=2004-01-01&g=2004-01-01), geen reële vooruitzichten zouden bestaan voor de voortzetting van het bedrijf of beroep;
 
 - f. voor een voorlopige aanslag die nog niet is gevolgd door de aanslag;
 
@@ -245,7 +245,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 1. Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die geen bedrijf of niet zelfstandig een beroep uitoefenen, van loonbelasting verschuldigd door werknemers alsmede van door natuurlijke personen verschuldigd successierecht, schenkingsrecht, recht van overgang en verschuldigde belastingen van rechtsverkeer.
 
-2. Deze afdeling heeft voorts, in afwijking in zoverre van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2003-01-01&g=2003-09-04) betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een uitkering genieten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344).
+2. Deze afdeling heeft voorts, in afwijking in zoverre van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2004-01-01&g=2004-01-01) betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een uitkering genieten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344).
 
 ##### Artikel 11
 
@@ -257,11 +257,11 @@ Kwijtschelding wordt verleend voor:
 
 - 1°. het aanwezige vermogen is aangewend ter voldoening van de belastingaanslag;
 
-- 2°. ten minste 80 percent van de betalingscapaciteit is aangewend; een en ander onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2003-01-01&g=2003-09-04), [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=17&z=2003-01-01&g=2003-09-04) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=18&z=2003-01-01&g=2003-09-04).
+- 2°. ten minste 80 percent van de betalingscapaciteit is aangewend; een en ander onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2004-01-01&g=2004-01-01), [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=17&z=2004-01-01&g=2004-01-01) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=18&z=2004-01-01&g=2004-01-01).
 
 ##### Artikel 12
 
-1. Onder vermogen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2003-01-01&g=2003-09-04) wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in artikel 3 van de Algemene bijstandswet, verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.
+1. Onder vermogen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2004-01-01&g=2004-01-01) wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.
 
 2. Onder bezittingen wordt niet begrepen:
 
@@ -271,53 +271,53 @@ Kwijtschelding wordt verleend voor:
 
 - c. een auto die op het moment van het verzoek een waarde heeft van € 2269 of minder; een auto met een waarde van meer dan € 2269 wordt niet als vermogen beschouwd indien jegens de ontvanger aannemelijk kan worden gemaakt dat die auto absoluut onmisbaar is voor de uitoefening van een beroep dan wel absoluut onmisbaar is in verband met invaliditeit;
 
-- d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=16&z=2003-01-01&g=2003-09-04) in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in [artikel 15, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2003-01-01&g=2003-09-04), niet te boven gaat;
+- d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=16&z=2004-01-01&g=2004-01-01) in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in [artikel 15, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2004-01-01&g=2004-01-01), niet te boven gaat;
 
-- e. het bedrag op een bank- of girorekening dat in het kader van de Wet studiefinanciering 2000 of de Wet tegemoetkoming studiekosten is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1p);
+- e. het bedrag op een bank- of girorekening dat in het kader van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) of de Wet tegemoetkoming studiekosten is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1p);
 
 - f. een bedrag van € 2269 aan financiële middelen per persoon voor personen die op 31 december 1999 de leeftijd van 65 jaar hebben bereikt.
 
 3. Onder waarde, bedoeld in het tweede lid, onderdeel c, wordt verstaan de prijs die de autohandel bereid is te betalen bij inkoop zonder gelijktijdige verkoop van een andere auto.
 
-4. Indien de uitgaven, bedoeld in [artikel 15, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2003-01-01&g=2003-09-04), verschuldigd zijn over een termijn van langer dan een maand wordt in plaats van het per maand gemiddelde bedrag in aanmerking genomen het deel van het termijnbedrag voor zover dat, gelet op de vervaldatum van de termijnbetaling, op het moment van het verzoek om kwijtschelding redelijkerwijs kan worden aangemerkt als reservering voor die termijnbetaling.
+4. Indien de uitgaven, bedoeld in [artikel 15, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2004-01-01&g=2004-01-01), verschuldigd zijn over een termijn van langer dan een maand wordt in plaats van het per maand gemiddelde bedrag in aanmerking genomen het deel van het termijnbedrag voor zover dat, gelet op de vervaldatum van de termijnbetaling, op het moment van het verzoek om kwijtschelding redelijkerwijs kan worden aangemerkt als reservering voor die termijnbetaling.
 
 ##### Artikel 13
 
-1. Onder betalingscapaciteit, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2003-01-01&g=2003-09-04), wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.
+1. Onder betalingscapaciteit, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2004-01-01&g=2004-01-01), wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.
 
-2. Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=3).
+2. Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3).
 
 ##### Artikel 14
 
-1. Onder het netto-besteedbare inkomen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2003-01-01&g=2003-09-04), wordt verstaan het met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2003-01-01&g=2003-09-04) vermelde uitgaven verminderde gezamenlijke bedrag van:
+1. Onder het netto-besteedbare inkomen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), wordt verstaan het met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2004-01-01&g=2004-01-01) vermelde uitgaven verminderde gezamenlijke bedrag van:
 
-- a. de aan inhouding van loonbelasting/premie voor de volksverzekeringen onderworpen inkomsten verminderd met de wettelijke inhoudingen en de ingehouden pensioenpremies en premies ziektekostenverzekering;
+- a. de aan inhouding van loonbelasting/premie voor de volksverzekeringen onderworpen inkomsten verminderd met de wettelijke inhoudingen, zonder rekening te houden met de daarbij eventueel in mindering gebrachte jonggehandicaptenkorting, bedoeld in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8), en de ingehouden pensioenpremies en premies ziektekostenverzekering;
 
 - b. uitkeringen voor levensonderhoud ingevolge de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=157), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=158) of [404 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=404);
 
-- c. overige inkomsten met uitzondering van de uitkeringen ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de [artikelen 229d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=229d), en [255a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255a) en een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1p), alsmede inkomsten als bedoeld in [artikel 43, tweede lid, onderdelen i, j, m en n, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=43) en, tot ten hoogste het bedrag genoemd in [artikel 43, tweede lid, onderdeel p, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=43), de subsidies, bedoeld in [artikel 3, eerste lid, van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=3), voorzover deze subsidies niet kunnen worden aangemerkt als premies als bedoeld in [artikel 43, tweede lid, onderdelen i en j, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=43).
+- c. overige inkomsten met uitzondering van de uitkeringen ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de [artikelen 229d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=229d), en [255a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255a) en een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1p), alsmede inkomsten als bedoeld in [artikel 31, tweede lid, onderdelen j, k en o, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) en de langdurigheidstoeslag, bedoeld in [artikel 36 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36).
 
-2. Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), daaronder begrepen de aanspraak op een zodanige teruggaaf, met uitzondering van de daarin begrepen kinderkorting, aanvullende kinderkorting of toetrederskorting, bedoeld in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8).
+2. Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), daaronder begrepen de aanspraak op een zodanige teruggaaf, met uitzondering van de daarin begrepen kinderkorting, aanvullende kinderkorting, toetrederskorting, alsmede voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, aanvullende alleenstaande-ouderkorting en combinatiekorting, bedoeld in [hoofdstuk 8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8).
 
-3. Indien bij de vaststelling van de voorlopige teruggaaf rekening is gehouden met kinderkorting, aanvullende kinderkorting of toetrederskorting wordt voor de toepassing van het tweede lid het bedrag van de voorlopige teruggaaf zoveel mogelijk geacht betrekking te hebben op die kortingen.
+3. Indien bij de vaststelling van de voorlopige teruggaaf rekening is gehouden met kinderkorting, aanvullende kinderkorting, toetrederskorting, alsmede voor alleenstaande ouders van wie het jongste kind jonger dan vijf jaar is, aanvullende alleenstaande-ouderkorting en combinatiekorting wordt voor de toepassing van het tweede lid het bedrag van de voorlopige teruggaaf zoveel mogelijk geacht betrekking te hebben op die kortingen.
 
-4. Voor de belastingschuldige, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2003-01-01&g=2003-09-04), die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding een uitkering heeft genoten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) worden tot de inkomsten, bedoeld in het eerste lid, onderdeel c, ook gerekend de inkomsten uit de beroepsuitoefening. Deze inkomsten worden in aanmerking genomen voor het bedrag dat blijkt uit de opgave van de in het kalenderjaar genoten inkomsten die de belastingschuldige aan het college van burgemeester en wethouders moet verstrekken ten behoeve van de definitieve vaststelling van de hoogte van de uitkering, bedoeld in [artikel 10 van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=10).
+4. Voor de belastingschuldige, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01), die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding een uitkering heeft genoten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) worden tot de inkomsten, bedoeld in het eerste lid, onderdeel c, ook gerekend de inkomsten uit de beroepsuitoefening. Deze inkomsten worden in aanmerking genomen voor het bedrag dat blijkt uit de opgave van de in het kalenderjaar genoten inkomsten die de belastingschuldige aan het college van burgemeester en wethouders moet verstrekken ten behoeve van de definitieve vaststelling van de hoogte van de uitkering, bedoeld in [artikel 10 van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=10).
 
-5. Voor de belastingschuldige, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2003-01-01&g=2003-09-04), die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding geen uitkering heeft genoten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) worden de inkomsten, bedoeld in het eerste lid, gesteld op de op hem van toepassing zijnde bijstandsnorm ingevolge [hoofdstuk IV, afdeling 1, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&afdeling=1).
+5. Voor de belastingschuldige, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01), die in het kalenderjaar voorafgaande aan het verzoek om kwijtschelding geen uitkering heeft genoten ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) worden de inkomsten, bedoeld in het eerste lid, gesteld op de op hem van toepassing zijnde bijstandsnorm ingevolge [hoofdstuk 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3).
 
 ##### Artikel 15
 
-Als uitgaven als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2003-01-01&g=2003-09-04), worden in aanmerking genomen:
+Als uitgaven als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), worden in aanmerking genomen:
 
-- a. betalingen op belastingschulden, met uitzondering van die genoemd in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2003-01-01&g=2003-09-04);
+- a. betalingen op belastingschulden, met uitzondering van die genoemd in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2004-01-01&g=2004-01-01);
 
-- b. het bedrag van de voor rekening van de belastingschuldige komende netto-woonlasten tot maximaal het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), voorzover dit meer is dan het bedrag, genoemd in [artikel 17, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=17). Onder netto-woonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in [artikel 5, eerste lid, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=5), dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voorzover deze hem voor gebruik ter beschikking staat, verminderd met de ontvangen huursubsidie en bijzondere bijdrage in de huurlasten op grond van [artikel 26b van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26b) of met de ontvangen woonkostentoeslag, andere dan die in de vorm van de verhogingen, genoemd in [artikel 21, eerste lid, onderdeel d, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21), onderscheidenlijk een daarmee overeenkomende verhoging ingevolge [hoofdstuk IV, afdeling 2, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&afdeling=2);
+- b. het bedrag van de voor rekening van de belastingschuldige komende netto-woonlasten tot maximaal het bedrag, genoemd in [artikel 13, eerste lid, onderdeel a, van de Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), voorzover dit meer is dan het bedrag, genoemd in [artikel 17, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=17). Onder netto-woonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in [artikel 5, eerste lid, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=5), dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voorzover deze hem voor gebruik ter beschikking staat, verminderd met de ontvangen huursubsidie en bijzondere bijdrage in de huurlasten op grond van [artikel 26b van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=26b) of met de ontvangen woonkostentoeslag, andere dan die in de vorm van de verhogingen, genoemd in [artikel 21, eerste lid, onderdeel d, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21), onderscheidenlijk een daarmee overeenkomende verhoging ingevolge [artikel 35 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=35);
 
 - c. de niet door de werkgever ingehouden premies ziektekostenverzekering en de nominale premies ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
 - d. betaalde uitkeringen voor levensonderhoud ingevolge de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=157), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=158) of [404 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=404);
 
-- e. aflossingen op leningen voor zover die zijn aangewend voor de betaling van belastingschulden, met uitzondering van die genoemd in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2003-01-01&g=2003-09-04);
+- e. aflossingen op leningen voor zover die zijn aangewend voor de betaling van belastingschulden, met uitzondering van die genoemd in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2004-01-01&g=2004-01-01);
 
 - f. de met het houden van kostgangers verbonden kosten tot het totaal van: doch ten hoogste de met het houden van kostgangers genoten inkomsten. Bij de bepaling van het aantal dagen wordt een volle maand op 30 dagen gesteld.
 
@@ -327,19 +327,19 @@ Als uitgaven als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 16
 
-1. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2003-01-01&g=2003-09-04), bedragen voor belastingschuldigen die worden aangemerkt als:
+1. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), bedragen voor belastingschuldigen die worden aangemerkt als:
 
-- a. echtgenoten als bedoeld in [artikel 3 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=3): 90 percent van het gezamenlijke bedrag, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2003-01-01&g=2003-09-04), doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 30, eerste lid, onderdeel c, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30) nadat deze is verminderd met het bedrag, genoemd in [artikel 33, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=33), en ten hoogste 90 percent van de bijstandsnorm, genoemd in [artikel 30, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30);
+- a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3): 90 percent van het gezamenlijke bedrag, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21) nadat deze is verminderd met het bedrag, genoemd in [artikel 26 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=26), en ten hoogste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21);
 
-- b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=4): 90 percent van het gezamenlijke bedrag, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2003-01-01&g=2003-09-04), doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 30, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30), en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in [artikel 33, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=33).
+- b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=4): 90 percent van het gezamenlijke bedrag, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), doch ten minste 90 percent van de bijstandsnorm, genoemd in [artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in [artikel 25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=25).
 
-2. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2003-01-01&g=2003-09-04), bedragen, in afwijking van het eerste lid, voor belastingschuldigen die worden aangemerkt als:
+2. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), bedragen, in afwijking van het eerste lid, voor belastingschuldigen die worden aangemerkt als:
 
-- a. echtgenoten als bedoeld in [artikel 3 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=3) die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in [artikel 30, tweede lid, onderdeel c, onderscheidenlijk onderdeel d, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30);
+- a. echtgenoten als bedoeld in [artikel 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3) die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot 65 jaar of ouder is: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22);
 
-- b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=4) die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in [artikel 30, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30).
+- b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=4) die 65 jaar of ouder zijn: 90 percent van de bijstandsnorm, genoemd in [artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22).
 
-3. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2003-01-01&g=2003-09-04), bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in [artikel 31 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=31).
+3. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in [artikel 23 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=23).
 
 ##### Artikel 17
 
@@ -353,15 +353,15 @@ Geen kwijtschelding wordt verleend ten belope van het bedrag van de te betalen b
 
 - b. binnen een jaar na het verzoek een verbetering in de financiële omstandigheden is te verwachten; of
 
-- c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopige teruggaaf, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2003-01-01&g=2003-09-04), kan worden verwacht.
+- c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopige teruggaaf, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), kan worden verwacht.
 
 ##### Artikel 19
 
-Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=3), wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.
+Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3) wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.
 
 ##### Artikel 19a
 
-1. Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig [artikel 329 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=329) een akkoord aanbiedt, verleent de ontvanger, de [artikelen 8, eerste lid, onderdelen a, b, e, f en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2003-01-01&g=2003-09-04), en [10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2003-01-01&g=2003-09-04) buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits:
+1. Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig [artikel 329 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=329) een akkoord aanbiedt, verleent de ontvanger, de [artikelen 8, eerste lid, onderdelen a, b, e, f en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2004-01-01&g=2004-01-01), en [10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01) buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits:
 
 - 1°. het te ontvangen deel van de belastingschuld of belastingschulden ten minste het dubbele percentage bedraagt van hetgeen aan concurrente schuldeisers op hun vorderingen zal worden uitgekeerd en van ten minste dezelfde omvang is als kan worden verkregen indien een saneringsplan wordt vastgesteld;
 
@@ -401,19 +401,19 @@ Medewerking van de ontvanger aan een akkoord geschiedt slechts indien:
 
 ##### Artikel 22a
 
-[Artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=19a&z=2003-01-01&g=2003-09-04) is van overeenkomstige toepassing met dien verstande dat in plaats van ,,de [artikelen 10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2003-01-01&g=2003-09-04)” wordt gelezen: de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2003-01-01&g=2003-09-04).
+[Artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=19a&z=2004-01-01&g=2004-01-01) is van overeenkomstige toepassing met dien verstande dat in plaats van ,,de [artikelen 10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01)” wordt gelezen: de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2004-01-01&g=2004-01-01).
 
 ### Afdeling 4. Kwijtschelding na staking bedrijf of zelfstandige beroepsuitoefening
 
 ##### Artikel 23
 
-Indien een natuurlijk persoon zijn bedrijf of zelfstandige beroepsuitoefening heeft gestaakt en aannemelijk is dat die belastingschuldige in de toekomst geen bedrijf of niet zelfstandig een beroep meer zal uitoefenen, wordt kwijtschelding van de belastingen, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2003-01-01&g=2003-09-04), verleend overeenkomstig het bepaalde in afdeling 2.
+Indien een natuurlijk persoon zijn bedrijf of zelfstandige beroepsuitoefening heeft gestaakt en aannemelijk is dat die belastingschuldige in de toekomst geen bedrijf of niet zelfstandig een beroep meer zal uitoefenen, wordt kwijtschelding van de belastingen, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2004-01-01&g=2004-01-01), verleend overeenkomstig het bepaalde in afdeling 2.
 
 ### Afdeling 5. Beroep
 
 ##### Artikel 24
 
-Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=7&z=2003-01-01&g=2003-09-04), kan hij binnen tien dagen na dagtekening van de kennisgeving waarmee de beschikking is bekendgemaakt, een beroepschrift richten tot de directeur onder vermelding van de gronden van het beroep. Het beroepschrift wordt ingediend bij de ontvanger.
+Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=7&z=2004-01-01&g=2004-01-01), kan hij binnen tien dagen na dagtekening van de kennisgeving waarmee de beschikking is bekendgemaakt, een beroepschrift richten tot de directeur onder vermelding van de gronden van het beroep. Het beroepschrift wordt ingediend bij de ontvanger.
 
 ##### Artikel 25
 
@@ -445,29 +445,29 @@ Deze afdeling heeft betrekking op:
 
 - c. waterschapsbelastingen als bedoeld in [hoofdstuk XVI van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVI) alsmede belastingen waarvan de heffing krachtens bijzondere wetten door het waterschap geschiedt;
 
-- d. de beveiligingsheffing ingevolge [artikel 37j van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37j);
+- d. de geluidsheffing burgerluchtvaart ingevolge [artikel 77 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77);
 
-- e. de geluidsheffing burgerluchtvaart ingevolge [artikel 77 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77);
+- e. de heffingen ingevolge [hoofdstuk IV van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV);
 
-- f. de heffingen ingevolge [hoofdstuk IV van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV);
+- f. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91a), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91h) of [artikel 92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=92) ingevoerde heffingen;
 
-- g. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91a), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91h) of [artikel 92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=92) ingevoerde heffingen;
+- g. de verontreinigingsheffing rijkswateren ingevolge [artikel 23 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=23);
 
-- h. de verontreinigingsheffing rijkswateren ingevolge [artikel 23 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=23).
+alsmede op de daarmee samenhangende bestuurlijke boeten.
 
 ##### Artikel 28
 
-1. Met betrekking tot een verzoek om kwijtschelding van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2003-01-01&g=2003-09-04) genoemde belastingen en heffingen verschuldigd door:
+1. Met betrekking tot een verzoek om kwijtschelding van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2004-01-01&g=2004-01-01) genoemde belastingen en heffingen verschuldigd door:
 
-- a. een natuurlijk persoon die geen bedrijf of niet zelfstandig een beroep uitoefent, zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2003-01-01&g=2003-09-04), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&z=2003-01-01&g=2003-09-04) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2003-01-01&g=2003-09-04) van overeenkomstige toepassing;
+- a. een natuurlijk persoon die geen bedrijf of niet zelfstandig een beroep uitoefent, zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2004-01-01&g=2004-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&z=2004-01-01&g=2004-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2004-01-01&g=2004-01-01) van overeenkomstige toepassing;
 
-- b. een natuurlijk persoon die een bedrijf of zelfstandig een beroep uitoefent, zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2003-01-01&g=2003-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&z=2003-01-01&g=2003-09-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=4&z=2003-01-01&g=2003-09-04) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2003-01-01&g=2003-09-04) van overeenkomstige toepassing;
+- b. een natuurlijk persoon die een bedrijf of zelfstandig een beroep uitoefent, zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2004-01-01&g=2004-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&z=2004-01-01&g=2004-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=4&z=2004-01-01&g=2004-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2004-01-01&g=2004-01-01) van overeenkomstige toepassing;
 
-- c. een rechtspersoon zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2003-01-01&g=2003-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&z=2003-01-01&g=2003-09-04) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2003-01-01&g=2003-09-04) van overeenkomstige toepassing;
+- c. een rechtspersoon zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&z=2004-01-01&g=2004-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&z=2004-01-01&g=2004-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2004-01-01&g=2004-01-01) van overeenkomstige toepassing;
 
-- d. een natuurlijk persoon die een uitkering geniet ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) zijn de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2003-01-01&g=2003-09-04), en [14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2003-01-01&g=2003-09-04), van overeenkomstige toepassing.
+- d. een natuurlijk persoon die een uitkering geniet ingevolge de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) zijn de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01), en [14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), van overeenkomstige toepassing.
 
-2. Waar in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=9&z=2003-01-01&g=2003-09-04), en in [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2003-01-01&g=2003-09-04) sprake is van directeur wordt voor:
+2. Waar in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=9&z=2004-01-01&g=2004-01-01), en in [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=5&z=2004-01-01&g=2004-01-01) sprake is van directeur wordt voor:
 
 - a. provinciale belastingen gelezen: gedeputeerde staten;
 
@@ -475,15 +475,13 @@ Deze afdeling heeft betrekking op:
 
 - c. waterschapsbelastingen gelezen: het dagelijks bestuur;
 
-- d. de beveiligingsheffing gelezen: het hoofd van de Directie Politie van het Ministerie van Justitie;
+- d. de geluidsheffing burgerluchtvaart gelezen: de directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat;
 
-- e. de geluidsheffing burgerluchtvaart gelezen: de directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat;
-
-- f. de heffingen ingevolge [hoofdstuk IV van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV), de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91a), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91h) of [artikel 92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=92) ingevoerde heffingen gelezen: de directeur Financiële en Economische Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij.
+- e. de heffingen ingevolge [hoofdstuk IV van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV), de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91a), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91h) of [artikel 92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=92) ingevoerde heffingen gelezen: de directeur Financiële en Economische Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij.
 
 ##### Artikel 28a
 
-Met betrekking tot een verzoek om ontslag van de verplichting tot betaling van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2003-01-01&g=2003-09-04) genoemde belastingen en heffingen zijn afdeling 6 en artikel 28, tweede lid, van overeenkomstige toepassing.
+Met betrekking tot een verzoek om ontslag van de verplichting tot betaling van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2004-01-01&g=2004-01-01) genoemde belastingen en heffingen zijn afdeling 6 en artikel 28, tweede lid, van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Betalingskorting en invorderingsrente
 
@@ -561,89 +559,33 @@ Bij de enige of laatste betaling wordt een bedrag aan invorderingsrente van € 
 
 ##### Artikel 34
 
-Bij uitstel van betaling voor een periode van drie jaren of langer kan de ontvanger bedingen dat de in rekening te brengen invorderingsrente in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=29&z=2003-01-01&g=2003-09-04) jaarlijks wordt betaald.
+Bij uitstel van betaling voor een periode van drie jaren of langer kan de ontvanger bedingen dat de in rekening te brengen invorderingsrente in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=29&z=2004-01-01&g=2004-01-01) jaarlijks wordt betaald.
 
 ### Hoofdstuk IV. Aansprakelijkheid
 
 ##### Artikel 35
 
-[Dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IV&z=2003-01-01&g=2003-09-04) verstaat onder:
-
-- a. g-rekening: een geblokkeerde rekening, zijnde een rekening als bedoeld in [artikel 16b, vijfde lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) en [artikel 35, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), welke door een onderaannemer bij een ingevolge de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792) geregistreerde kredietinstelling wordt gehouden en waarvan de saldi zijn bestemd voor betalingen als bedoeld in de in dit onderdeel genoemde artikelen, in verband waarmee op die saldi een pandrecht is gevestigd ten behoeve van het Uitvoeringsinstituut werknemersverzekeringen en van de ontvanger;
-
-- b. g-rekeningovereenkomst: een conform de bijlage bij deze regeling gesloten overeenkomst tot vestiging van een pandrecht als bedoeld in onderdeel a;
-
-- c. overmakingsovereenkomst: de schriftelijke overeenkomst tussen een aannemer en een onderaannemer tot overmaking naar de g-rekening van de onderaannemer van het bedrag waarvoor de aannemer op grond van [artikel 16b, eerste lid, Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) en [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) aansprakelijk is.
+Vervallen
 
 ##### Artikel 36
 
-1. De g-rekeningovereenkomst wordt aangegaan met de ondernemer die:
-
-- a. werk in onderaanneming verricht of op korte termijn zal gaan verrichten, en
-
-- b. inhoudingsplichtige is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), dan wel dit op korte termijn zal worden.
-
-2. De ontvanger is bevoegd het aangaan van een g-rekeningovereenkomst te weigeren indien:
-
-- a. met de onderaannemer reeds een g-rekeningovereenkomst is gesloten, tenzij deze aannemelijk maakt dat meer dan één g-rekening voor zijn bedrijfsvoering noodzakelijk is;
-
-- b. gegronde vrees bestaat dat onjuist gebruik van de g-rekening zal worden gemaakt.
+Vervallen
 
 ##### Artikel 37
 
-1. Met betrekking tot betalingen op en ten laste van een g-rekening zijn de aannemer en de onderaannemer verplicht een overmakingsovereenkomst te sluiten.
-
-2. De overmakingsovereenkomst dient ten minste te bevatten:
-
-- 1°. de naam, het adres en de woonplaats van de aannemer en de onderaannemer;
-
-- 2°. een duidelijke omschrijving van de in het kader van het werk te leveren prestatie en van de plaats(en) van uitvoering van het werk, alsmede de benaming(en) van het werk zoals deze door de aannemer en de onderaannemer wordt (worden) gebruikt;
-
-- 3°. de voor de uitvoering van het werk te betalen prijs;
-
-- 4°. het bedrag van de voor de uitvoering van het werk te betalen prijs, dat bestemd is voor de loonbetaling;
-
-- 5°. de loonbelastingnummers van de aannemer en de onderaannemer;
-
-- 6°. het nummer van de g-rekening van de onderaannemer en de instelling waarbij die g-rekening wordt gehouden;
-
-- 7°. één nummer waaronder de overmakingsovereenkomst in de administratie van de aannemer en van de onderaannemer wordt vermeld.
+Vervallen
 
 ##### Artikel 38
 
-1. Met betrekking tot een betaling op de g-rekening vermeldt de aannemer ten minste de volgende gegevens op de betalingsopdracht:
-
-- a. het nummer bedoeld in [artikel 37, tweede lid, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IV&artikel=37&z=2003-01-01&g=2003-09-04);
-
-- b. de benaming(en) van het werk zoals deze door de aannemer en onderaannemer wordt (worden) gebruikt en waarop de betaling betrekking heeft;
-
-- c. het tijdvak waarop de betaling betrekking heeft.
-
-2. Met betrekking tot een betaling aan de ontvanger ten laste van de g-rekening vermeldt de onderaannemer ten minste de volgende gegevens op de betalingsopdracht: het aanslagnummer dat op het aanslagbiljet is vermeld dan wel het aangiftenummer voor de loonbelasting/premie volksverzekeringen dat is vermeld op het aangiftebiljet dat betrekking heeft op het tijdvak waarvoor de betaling is bestemd.
-
-3. Met betrekking tot betalingen, bedoeld in het tweede lid, geeft de onderaannemer ten behoeve van de ontvanger een specificatie van de werken waarop de betaling betrekking heeft, voor elk werk ten minste bestaande uit de benaming(en) van het werk zoals deze door de aannemer en de onderaannemer worden gebruikt, alsmede het tijdvak waarin het werk waarop de betaling betrekking heeft is verricht.
+Vervallen
 
 ##### Artikel 39
 
-1. De overmakingsovereenkomst dient door de aannemer en de onderaannemer gedurende zeven jaar te worden bewaard.
-
-2. De in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IV&artikel=38&z=2003-01-01&g=2003-09-04), genoemde gegevens dienen door de aannemer gedurende zeven jaar bij zijn betalingsbewijs te worden bewaard.
-
-3. De dagafschriften met betrekking tot de g-rekening en eventuele bijlagen, dienen door de onderaannemer gedurende zeven jaar op volgnummer te worden bewaard.
+Vervallen
 
 ##### Artikel 40
 
-De g-rekeningovereenkomst kan eenzijdig door de ontvanger worden opgezegd:
-
-- a. indien de ondernemer geen of op onjuiste wijze gebruik maakt van de g-rekening;
-
-- b. de ondernemer geen werk meer verricht in onderaanneming;
-
-- c. de ondernemer geen inhoudingsplichtige meer is in de zin van de Wet op de loonbelasting 1964;
-
-- d. met de ondernemer reeds een g-rekeningovereenkomst is gesloten, en hij niet aannemelijk maakt dat meer dan één g-rekening voor zijn bedrijfsvoering noodzakelijk is;
-
-- e. de ondernemer failliet is verklaard.
+Vervallen
 
 ##### Artikel 40a
 
@@ -664,3 +606,5 @@ Als goederen als bedoeld in [artikel 42c van de wet](https://wetten.overheid.nl/
 2. Deze regeling kan worden aangehaald als: Uitvoeringsregeling Invorderingswet 1990.
 
 ## Bijlage I
+
+Vervallen
