@@ -1065,15 +1065,3 @@ Dit besluit wordt aangehaald als: Besluit financiële verhouding 2001.
 | Totaal | 15 867 1390 |   | 4 988 680,80 | 2 209 996,96 | 2 103 983,56 | 5 851 425,6? |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 28a
-
-Het grensbedrag voor de verzameluitkering, bedoeld in [artikel 15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), wordt vastgesteld op € 10 miljoen per jaar.
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-## Bijlage 4. Overgangsregeling 2001–2004 (bijlage bij artikel 27)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
