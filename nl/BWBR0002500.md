@@ -85,13 +85,3 @@ Bevat wijzigingen in andere regelgeving.
 Deze wet kan worden aangehaald als "Verhaalswet ongevallen ambtenaren".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=2&z=2008-06-13&g=2008-06-13) bedoelde aansprakelijke is eveneens verplicht tot vergoeding van de door het verhalend lichaam gemaakte redelijke kosten ter nakoming van zijn in [artikel 76e van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76e) dan wel in naar aard en strekking daarmee overeenkomende bepalingen van de op de ambtenaar van toepassing zijnde rechtspositieregeling bedoelde verplichtingen. De aansprakelijke kan hetzelfde verweer voeren dat hem jegens de getroffene ten dienste zou hebben gestaan.
-
-##### Artikel 3b. Overgangsbepaling in verband met [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3a&z=2008-06-13&g=2008-06-13)
-
-In gedingen aangevangen voor het van toepassing worden van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3a&z=2008-06-13&g=2008-06-13) bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3a&z=2008-06-13&g=2008-06-13). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
