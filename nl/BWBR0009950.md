@@ -4,7 +4,7 @@ identifier: "BWBR0009950"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2003-01-01"
+last_updated: "2003-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009950"
 soort: "wet"
@@ -113,7 +113,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. radiozendapparaten die geschikt zijn om op een openbaar telecommunicatienetwerk te worden aangesloten;
 
-- 3°. apparaten voor satellietgrondstations tenzij bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-01-01&g=2003-01-01) anders is bepaald, doch met uitsluiting van speciaal geconstrueerde apparatuur die bedoeld is voor gebruik als onderdeel van een openbaar telecommunicatienetwerk;
+- 3°. apparaten voor satellietgrondstations tenzij bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-05-21&g=2003-05-21) anders is bepaald, doch met uitsluiting van speciaal geconstrueerde apparatuur die bedoeld is voor gebruik als onderdeel van een openbaar telecommunicatienetwerk;
 
 - ij. radiozendapparaten: apparaten die naar hun aard bestemd zijn voor het zenden of het zenden en ontvangen van radiocommunicatiesignalen;
 
@@ -121,7 +121,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - aa. systeem voor voorwaardelijke toegang: een systeem met behulp waarvan toegang verkregen kan worden tot gecodeerde programma's of andere diensten die slechts gedecodeerd kunnen worden ontvangen met behulp van een daartoe bestemd apparaat door degene die een daartoe strekkende overeenkomst met de aanbieder van het systeem heeft gesloten;
 
-- bb. Internationaal Telecommunicatieverdrag: het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138) en de op 14 oktober 1994 te Kyoto tot stand gekomen Akten van wijziging van het Statuut en het Verdrag van de Internationale Unie voor Telecommunicatie (Trb. 1995, 201).
+- bb. Internationaal Telecommunicatieverdrag: het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138) en de op 14 oktober 1994 te Kyoto tot stand gekomen Akten van wijziging van het Statuut en het Verdrag van de Internationale Unie voor Telecommunicatie (Trb. 1995, 201);
+
+- cc. certificaat: een elektronische bevestiging die gegevens voor het verifiëren van een elektronische handtekening met een bepaalde persoon verbindt en de identiteit van die persoon bevestigt;
+
+- dd. gekwalificeerd certificaat: een certificaat dat voldoet aan de eisen, gesteld krachtens [artikel 18.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21), en is afgegeven door een certificatiedienstverlener die voldoet aan de eisen, gesteld krachtens artikel 18.15, eerste lid;
+
+- ee. certificatiedienstverlener: een natuurlijke of rechtspersoon die certificaten afgeeft of andere diensten in verband met elektronische handtekeningen verleent;
+
+- ff. middel voor het aanmaken van elektronische handtekeningen: geconfigureerde software of hardware die wordt gebruikt om de gegevens voor het aanmaken van elektronische handtekeningen te implementeren;
+
+- gg. veilig middel voor het aanmaken van elektronische handtekeningen: een middel voor het aanmaken van elektronische handtekeningen dat voldoet aan de eisen gesteld krachtens [artikel 18.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17&z=2003-05-21&g=2003-05-21);
+
+- hh. elektronische handtekening: voor de toepassing van deze wet geldt de definitiebepaling van [artikel 15a, vierde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a);
+
+- ii. ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling van [artikel 15a, vijfde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a).
 
 ##### Artikel 1.2
 
@@ -133,15 +147,19 @@ De bepalingen vastgesteld bij of krachtens deze wet gelden mede op en met betrek
 
 1. Voor het aanleggen of aanbieden van een openbaar telecommunicatienetwerk, huurlijnen of een omroepnetwerk, dan wel voor het aanbieden van een openbare telecommunicatiedienst of een systeem voor voorwaardelijke toegang is een registratie door het college vereist. Het college is bevoegd te bepalen welke gegevens bij de aanvraag om een registratie dienen te worden overgelegd, met dien verstande dat het college slechts die gegevens verzamelt die nodig zijn voor een goede uitvoering van deze wet. Tot deze gegevens behoren in elk geval de door het college aan Onze Minister ter beschikking te stellen gegevens die van belang zijn voor de veiligheid van de staat, de strafrechtelijke handhaving van de rechtsorde en de voorbereiding op buitengewone omstandigheden. Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de gegevensverzameling.
 
-2. Geen registratie is vereist voor inrichtingen of diensten:
+2. Een registratie als bedoeld in het eerste lid is niet vereist voor inrichtingen of diensten:
 
 - a. waarvoor bij of krachtens deze wet een vergunning is vereist;
 
 - b. die behoren tot bij algemene maatregel van bestuur aangewezen categorie van diensten of van inrichtingen van geringe omvang of betekenis.
 
+3. Voor het aanbieden of afgeven van gekwalificeerde certificaten aan het publiek is een registratie door het college vereist van de certificatiedienstverlener die in Nederland een vestiging heeft. Bij de aanvraag van een registratie legt de certificatiedienstverlener documenten over waaruit de overeenstemming met de bij en krachtens [artikel 18.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21), bedoelde eisen blijkt. Het college is bevoegd te bepalen welke andere gegevens bij de aanvraag van een registratie dienen te worden overgelegd.
+
+4. Een certificatiedienstverlener waarvan door een organisatie als bedoeld in [artikel 18.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.16&z=2003-05-21&g=2003-05-21), is vastgesteld dat wordt voldaan aan de eisen, gesteld bij of krachtens [artikel 18.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21), kan om te voldoen aan het bepaalde krachtens de tweede volzin van het derde lid, volstaan met het overleggen van een geldig bewijs van die vaststelling.
+
 ##### Artikel 2.2
 
-1. Het college weigert een registratie indien de gevraagde registratie geen betrekking heeft op een openbaar telecommunicatienetwerk, huurlijnen, een omroepnetwerk, een openbare telecommunicatiedienst of een systeem voor voorwaardelijke toegang.
+1. Het college weigert een registratie indien de gevraagde registratie geen betrekking heeft op een openbaar telecommunicatienetwerk, huurlijnen, een omroepnetwerk, een openbare telecommunicatiedienst, een systeem van voorwaardelijke toegang of het aanbieden of afgeven van gekwalificeerde certificaten aan het publiek.
 
 2. Het college kan een registratie weigeren indien de gevraagde gegevens niet, onvolledig of niet juist zijn verstrekt.
 
@@ -153,9 +171,11 @@ De bepalingen vastgesteld bij of krachtens deze wet gelden mede op en met betrek
 
 - c. indien de grond voor registratie is vervallen;
 
-- d. wegens het verrichten van activiteiten of diensten in strijd met het bepaalde bij of krachtens deze wet, of
+- d. wegens het verrichten van activiteiten of diensten in strijd met het bepaalde bij of krachtens deze wet;
 
-- e. op aanwijzing van Onze Minister in het belang van de veiligheid van de staat of de strafrechtelijke handhaving van de rechtsorde.
+- e. op aanwijzing van Onze Minister in het belang van de veiligheid van de staat of de strafrechtelijke handhaving van de rechtsorde, of
+
+- f. indien het college heeft vastgesteld dat de certificatiedienstverlener niet of niet geheel voldoet aan de eisen bedoeld in [artikel 18.15 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21) en de certificatiedienstverlener niet binnen de door het college gestelde termijn heeft aangetoond aan deze eisen te voldoen. Indien de certificatiedienstverlener aantoont redelijkerwijs niet binnen de gestelde termijn aan de eisen te kunnen voldoen, kan het college de termijn verlengen.
 
 4. Er is in het belang van de goede uitvoering van deze wet een register van de registraties. Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor het register. Het register ligt voor eenieder kosteloos ter inzage op een door het college te bepalen plaats.
 
@@ -195,9 +215,9 @@ De geregistreerde geeft aan het college onverwijld alle wijzigingen door die van
 
 - b. voor iedere provincie wordt ten minste één vergunning voor het gebruik van frequentieruimte verleend ten behoeve van de uitzending van het radioprogramma, bedoeld in [artikel 1, onder j, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1), van de instelling die ten behoeve van de desbetreffende provincie zendtijd voor regionale omroep heeft verkregen, op zodanige wijze, dat een provinciaal bereik van het programma mogelijk is;
 
-- c. indien in een provincie aan twee of meer regionale omroepinstellingen op grond van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) zendtijd is toegewezen, zal, onverminderd [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-01-01&g=2003-01-01), aan elk van de omroepinstellingen vergunning voor het gebruik van frequentieruimte worden verleend voor een bereik dat ten minste gelijk is aan de onderscheidene verzorgingsgebieden, voorzover dit technisch mogelijk is;
+- c. indien in een provincie aan twee of meer regionale omroepinstellingen op grond van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) zendtijd is toegewezen, zal, onverminderd [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-05-21&g=2003-05-21), aan elk van de omroepinstellingen vergunning voor het gebruik van frequentieruimte worden verleend voor een bereik dat ten minste gelijk is aan de onderscheidene verzorgingsgebieden, voorzover dit technisch mogelijk is;
 
-- d. aan iedere instelling die op grond van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) voor lokale omroep zendtijd heeft verkregen, zal, onverminderd [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-01-01&g=2003-01-01), ten behoeve van de uitzending van haar radioprogramma vergunning voor het gebruik van frequentieruimte worden verleend voor een bereik dat ten minste gelijk is aan het verzorgingsgebied van het programma, voorzover dit technisch mogelijk is, en een doelmatig gebruik van het frequentiespectrum zich daartegen niet verzet.
+- d. aan iedere instelling die op grond van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) voor lokale omroep zendtijd heeft verkregen, zal, onverminderd [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-05-21&g=2003-05-21), ten behoeve van de uitzending van haar radioprogramma vergunning voor het gebruik van frequentieruimte worden verleend voor een bereik dat ten minste gelijk is aan het verzorgingsgebied van het programma, voorzover dit technisch mogelijk is, en een doelmatig gebruik van het frequentiespectrum zich daartegen niet verzet.
 
 4. De verlening van vergunningen in andere gevallen dan bedoeld in het tweede lid geschiedt:
 
@@ -229,7 +249,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 ##### Artikel 3.3a
 
-1. Teneinde een optimaal gebruik van frequentieruimte te waarborgen kan, in overeenstemming met Onze Minister van Financiën, en waar het betreft het gebruik van frequentieruimte door commerciële omroepinstellingen mede in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen, met inachtneming van [richtlijn nr. 97/13/EG](onbekend) van het Europese Parlement en de Raad van de Europese Unie van 10 april 1997 (pbEG L117) betreffende een gemeenschappelijk kader voor algemene machtigingen en individuele vergunningen op het gebied van telecommunicatiediensten, bij ministeriële regeling worden bepaald dat de verkrijger of houder van een vergunning, de houder van een vergunning van wie de vergunning wordt of is verlengd hieronder begrepen, anders dan een vergunning als bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), voor het gebruik van frequentieruimte voor een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), bepaalde bestemming een eenmalig of periodiek bedrag verschuldigd is.
+1. Teneinde een optimaal gebruik van frequentieruimte te waarborgen kan, in overeenstemming met Onze Minister van Financiën, en waar het betreft het gebruik van frequentieruimte door commerciële omroepinstellingen mede in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen, met inachtneming van [richtlijn nr. 97/13/EG](onbekend) van het Europese Parlement en de Raad van de Europese Unie van 10 april 1997 (pbEG L117) betreffende een gemeenschappelijk kader voor algemene machtigingen en individuele vergunningen op het gebied van telecommunicatiediensten, bij ministeriële regeling worden bepaald dat de verkrijger of houder van een vergunning, de houder van een vergunning van wie de vergunning wordt of is verlengd hieronder begrepen, anders dan een vergunning als bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), voor het gebruik van frequentieruimte voor een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), bepaalde bestemming een eenmalig of periodiek bedrag verschuldigd is.
 
 2. De hoogte van het te betalen bedrag is bij:
 
@@ -239,7 +259,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 3. De in het eerste lid bedoelde ministeriële regeling kan nadere regels bevatten over de wijze waarop de in het tweede lid, onder a en b, bedoelde voordelen uit de exploitatie van de vergunning of de uit de exploitatie van de vergunning te verwachten omzet worden bepaald.
 
-4. De verplichting tot het betalen van een eenmalig of periodiek bedrag bestaat slechts indien de in het eerste lid bedoelde ministeriële regeling in werking is getreden voor het tijdstip dat in de aanvraagprocedure is vastgesteld als het tijdstip waarop de aanvraag voor de vergunning kan worden ingediend, dan wel, indien het een vergunning betreft die wordt verleend op de in [artikel 3.3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), bedoelde wijze, in werking is getreden op het moment dat de aanvraag is ingediend.
+4. De verplichting tot het betalen van een eenmalig of periodiek bedrag bestaat slechts indien de in het eerste lid bedoelde ministeriële regeling in werking is getreden voor het tijdstip dat in de aanvraagprocedure is vastgesteld als het tijdstip waarop de aanvraag voor de vergunning kan worden ingediend, dan wel, indien het een vergunning betreft die wordt verleend op de in [artikel 3.3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), bedoelde wijze, in werking is getreden op het moment dat de aanvraag is ingediend.
 
 5. Bij een verlenging van een vergunning voor het gebruik van frequentieruimte kan, in afwijking van het vierde lid, in het geval de aanvraag tot verlenging wordt gedaan op een tijdstip waarop Onze Minister het voornemen heeft binnen dezelfde bestemming vergunningen te gaan verlenen door middel van een veiling dan wel een vergelijkende toets met een financieel bod, de verplichting tot het betalen van een eenmalig of periodiek bedrag ook bestaan indien de in het eerste lid bedoelde ministeriële regeling in werking is getreden op een tijdstip gelegen na het tijdstip waarop de aanvraag tot verlenging is gedaan, mits:
 
@@ -255,9 +275,9 @@ Deze regels hebben in ieder geval betrekking op:
 
 8. In het geval dat:
 
-- a. op grond van het eerste lid bij ministeriële regeling is bepaald dat voor het gebruik van frequentieruimte met een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), bepaalde bestemming een eenmalig of periodiek bedrag verschuldigd is, zal, zolang er in die bestemming nog houders van vergunningen voor het gebruik van frequentieruimte zijn, houders van vergunningen van wie de vergunning is verlengd uitgezonderd, bij elke volgende uitgifte van frequentieruimte met die bestemming op een vergelijkbare wijze voor het gebruik van de frequentieruimte een bedrag verschuldigd zijn, tenzij dit ten gevolge van gewijzigde omstandigheden betreffende het gebruik van die frequentieruimte niet langer leidt tot een optimaal gebruik van frequentieruimte;
+- a. op grond van het eerste lid bij ministeriële regeling is bepaald dat voor het gebruik van frequentieruimte met een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), bepaalde bestemming een eenmalig of periodiek bedrag verschuldigd is, zal, zolang er in die bestemming nog houders van vergunningen voor het gebruik van frequentieruimte zijn, houders van vergunningen van wie de vergunning is verlengd uitgezonderd, bij elke volgende uitgifte van frequentieruimte met die bestemming op een vergelijkbare wijze voor het gebruik van de frequentieruimte een bedrag verschuldigd zijn, tenzij dit ten gevolge van gewijzigde omstandigheden betreffende het gebruik van die frequentieruimte niet langer leidt tot een optimaal gebruik van frequentieruimte;
 
-- b. voor het gebruik van frequentieruimte met een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), bepaalde bestemming geen gebruik wordt gemaakt van de in het eerste lid geboden mogelijkheid om voor het gebruik van die frequentieruimte een eenmalig of periodiek bedrag te vragen wordt, zolang er in die bestemming nog houders van vergunningen voor het gebruik van frequentieruimte zijn, houders van vergunningen van wie de vergunning is verlengd uitgezonderd, ook bij elke volgende uitgifte met die bestemming van die mogelijkheid geen gebruik gemaakt, tenzij dit ten gevolge van gewijzigde omstandigheden betreffende het gebruik van die frequentieruimte niet langer leidt tot een optimaal gebruik van frequentieruimte.
+- b. voor het gebruik van frequentieruimte met een op grond van [artikel 3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), bepaalde bestemming geen gebruik wordt gemaakt van de in het eerste lid geboden mogelijkheid om voor het gebruik van die frequentieruimte een eenmalig of periodiek bedrag te vragen wordt, zolang er in die bestemming nog houders van vergunningen voor het gebruik van frequentieruimte zijn, houders van vergunningen van wie de vergunning is verlengd uitgezonderd, ook bij elke volgende uitgifte met die bestemming van die mogelijkheid geen gebruik gemaakt, tenzij dit ten gevolge van gewijzigde omstandigheden betreffende het gebruik van die frequentieruimte niet langer leidt tot een optimaal gebruik van frequentieruimte.
 
 9. Bij de in het eerste lid bedoelde ministeriële regeling kan worden bepaald dat het bedrag verschuldigd uit hoofde van een veiling of een vergelijkende toets met de mogelijkheid tot een financieel bod, vermeerderd met een op grond van die regeling verschuldigd eenmalig of periodiek bedrag een bepaalde hoogte niet te boven zal gaan.
 
@@ -265,7 +285,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 ##### Artikel 3.4
 
-1. In afwijking van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) is geen vergunning vereist voor gebruik van in het frequentieplan aangewezen frequentieruimte die:
+1. In afwijking van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) is geen vergunning vereist voor gebruik van in het frequentieplan aangewezen frequentieruimte die:
 
 - a. al dan niet tezamen met bij ministeriële regeling aan te wijzen categorieën van radiozendapparaten voor een in het frequentieplan aangegeven bestemming door eenieder mag worden gebruikt;
 
@@ -341,7 +361,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 2. Een toestemming kan onder beperkingen worden verleend. Aan een toestemming kunnen voorschriften worden verbonden. Deze kunnen worden gewijzigd.
 
-3. [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing.
+3. [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-05-21&g=2003-05-21) is van overeenkomstige toepassing.
 
 #### § 3.3. Bijzonder gebruik van frequentieruimte
 
@@ -371,7 +391,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 - b. daartoe een last wordt verstrekt door een tot het onderzoek van telecommunicatie bevoegde autoriteit, en
 
-- c. dit plaatsvindt met het doel de informatie, bedoeld in [artikel 13.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01), onderscheidenlijk [artikel 13.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01), te achterhalen en onverkorte toepassing van [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01) onvoldoende het belang van de strafvordering dient.
+- c. dit plaatsvindt met het doel de informatie, bedoeld in [artikel 13.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21), onderscheidenlijk [artikel 13.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21), te achterhalen en onverkorte toepassing van [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21) onvoldoende het belang van de strafvordering dient.
 
 #### § 3.4. Antenne-opstelpunten, antennesystemen en antennes
 
@@ -397,13 +417,13 @@ Deze regels hebben in ieder geval betrekking op:
 
 2. De in het eerste lid bedoelde regels kunnen in ieder geval betrekking hebben op:
 
-- a. de door degene, bedoeld in [artikel 3.11, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-01-01&g=2003-01-01), te verstrekken informatie over de antenne-opstelpunten waarover zij beschikken;
+- a. de door degene, bedoeld in [artikel 3.11, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-05-21&g=2003-05-21), te verstrekken informatie over de antenne-opstelpunten waarover zij beschikken;
 
 - b. het reserveren van ruimte op antenne-opstelpunten voor eigen gebruik of voor medegebruik;
 
-- c. de termijnen waarbinnen op een verzoek als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-01-01&g=2003-01-01), tot medegebruik van een antenne-opstelpunt moet worden beslist;
+- c. de termijnen waarbinnen op een verzoek als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-05-21&g=2003-05-21), tot medegebruik van een antenne-opstelpunt moet worden beslist;
 
-- d. de vergoeding, bedoeld in [artikel 3.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-01-01&g=2003-01-01).
+- d. de vergoeding, bedoeld in [artikel 3.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2003-05-21&g=2003-05-21).
 
 ### Hoofdstuk 4. Nummerbeleid en nummerbeheer
 
@@ -433,7 +453,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 4. Een toekenning van nummers kan in het belang van een doelmatige toekenning onder beperkingen worden verleend. In dat belang kunnen aan een toekenning voorschriften worden verbonden.
 
-5. Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van [artikel 4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.
+5. Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van [artikel 4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.1&z=2003-05-21&g=2003-05-21), is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.
 
 6. In het geval er meerdere aanvragen om toekenning van nummers voor eenzelfde bestemming bij het college ter behandeling voorliggen en bij die aanvragen een gelijke voorkeur wordt uitgesproken voor toekenning van een bepaald nummer, dan wel bepaalde nummers kan het college besluiten de aanvragen om toekenning van die nummers verder te behandelen volgens een procedure van veiling, dan wel besluiten op die aanvragen te beslissen door middel van het lot. In het geval van veiling komt de opbrengst ervan toe aan de staat.
 
@@ -445,13 +465,13 @@ Deze regels hebben in ieder geval betrekking op:
 
 1. Een toekenning wordt geweigerd, indien:
 
-- a. de aanvrager niet behoort tot een van de categorieën, genoemd in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-01-01&g=2003-01-01);
+- a. de aanvrager niet behoort tot een van de categorieën, genoemd in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-05-21&g=2003-05-21);
 
-- b. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van [artikel 4.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-01-01&g=2003-01-01), vastgestelde aanwijzing;
+- b. de toekenning in strijd is met het desbetreffende nummerplan of een op grond van [artikel 4.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-05-21&g=2003-05-21), vastgestelde aanwijzing;
 
 - c. redelijkerwijs is te verwachten dat door de aanvrager niet zal of kan worden voldaan aan het bij of krachtens deze wet met betrekking tot nummers bepaalde;
 
-- d. de aanvrager een nummer aanvraagt, behorende tot de in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-01-01&g=2003-01-01), bedoelde categorieën van nummers, en niet bereid is te verklaren dat hij zich zal houden aan de gedragscode, bedoeld in dat artikel;
+- d. de aanvrager een nummer aanvraagt, behorende tot de in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-05-21&g=2003-05-21), bedoelde categorieën van nummers, en niet bereid is te verklaren dat hij zich zal houden aan de gedragscode, bedoeld in dat artikel;
 
 - e. de toekenning in strijd zou zijn met de bij of krachtens deze wet gestelde regels.
 
@@ -461,7 +481,7 @@ Deze regels hebben in ieder geval betrekking op:
 
 - b. het in de aanvraag omschreven voorgenomen gebruik de toekenning van de gevraagde hoeveelheid nummers niet rechtvaardigt;
 
-- c. een eerdere toekenning is ingetrokken op grond van [artikel 4.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2003-01-01&g=2003-01-01);
+- c. een eerdere toekenning is ingetrokken op grond van [artikel 4.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.7&z=2003-05-21&g=2003-05-21);
 
 - d. uit de aanvraag blijkt dat deze wordt gedaan met de kennelijke bedoeling de bij de aanvraag gevraagde nummers te verhandelen.
 
@@ -469,9 +489,9 @@ Deze regels hebben in ieder geval betrekking op:
 
 1. Het college kan op aanvraag nummers reserveren ten behoeve van de aanvrager voor een periode van ten hoogste drie jaar. De gereserveerde nummers zijn gedurende de reserveringsduur uitsluitend beschikbaar voor toekenning aan de desbetreffende houder van de reservering.
 
-2. De in het eerste lid bedoelde mogelijkheid tot reservering bestaat niet ten aanzien van de op grond van [artikel 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-01-01&g=2003-01-01), bij ministeriële regeling aangewezen nummers.
+2. De in het eerste lid bedoelde mogelijkheid tot reservering bestaat niet ten aanzien van de op grond van [artikel 4.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-05-21&g=2003-05-21), bij ministeriële regeling aangewezen nummers.
 
-3. De [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-01-01&g=2003-01-01) en [4.3, eerste en tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-01-01&g=2003-01-01), zijn op een reservering van overeenkomstige toepassing.
+3. De [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-05-21&g=2003-05-21) en [4.3, eerste en tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-05-21&g=2003-05-21), zijn op een reservering van overeenkomstige toepassing.
 
 4. Een reservering kan voorts geheel of gedeeltelijk worden geweigerd, indien op grond van de aanvraag redelijkerwijs niet is te verwachten dat het voorgenomen gebruik binnen drie jaar, dan wel, indien de reservering voor een kortere periode dan drie jaar wordt aangevraagd, binnen de door de aanvrager gevraagde periode, wordt verwezenlijkt.
 
@@ -487,11 +507,11 @@ Deze regels hebben in ieder geval betrekking op:
 
 - b. naar het oordeel van het college niet aannemelijk is dat de ontwikkeling van de activiteit die ten grondslag ligt aan de reservering, de gevraagde toekenning noodzakelijk maakt.
 
-3. Met betrekking tot andere aanvragen om een wijziging is [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-01-01&g=2003-01-01), of, indien het een aanvraag om wijziging van een reservering betreft, [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2003-01-01&g=2003-01-01) van toepassing.
+3. Met betrekking tot andere aanvragen om een wijziging is [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-05-21&g=2003-05-21), of, indien het een aanvraag om wijziging van een reservering betreft, [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.4&z=2003-05-21&g=2003-05-21) van toepassing.
 
 ##### Artikel 4.6
 
-Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nummer of reservering en een derde toestaan dat de toekenning of reservering overgaat op de derde. [Artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-01-01&g=2003-01-01), en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing.
+Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nummer of reservering en een derde toestaan dat de toekenning of reservering overgaat op de derde. [Artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.2&z=2003-05-21&g=2003-05-21), en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.3&z=2003-05-21&g=2003-05-21) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4.7
 
@@ -513,7 +533,7 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 - b. na de toekenning of reservering blijkt dat deze gedaan is met de kennelijke bedoeling de toegekende of gereserveerde nummers te verhandelen.
 
-5. Een toekenning of reservering kan voorts worden gewijzigd of ingetrokken indien de erkende instelling, bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-01-01&g=2003-01-01), om intrekking vraagt nadat zij van oordeel is dat de houder van een nummer, behorende tot de in dat artikel bedoelde categorieën van nummers, in strijd heeft gehandeld met de daar bedoelde gedragscode.
+5. Een toekenning of reservering kan voorts worden gewijzigd of ingetrokken indien de erkende instelling, bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-05-21&g=2003-05-21), om intrekking vraagt nadat zij van oordeel is dat de houder van een nummer, behorende tot de in dat artikel bedoelde categorieën van nummers, in strijd heeft gehandeld met de daar bedoelde gedragscode.
 
 ##### Artikel 4.8
 
@@ -537,7 +557,7 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 - c. de mogelijkheid te bieden het in het kader van de afgenomen telecommunicatiedienst bij hem in gebruik zijnde nummer te blijven gebruiken indien hij er voor kiest een andere bij die maatregel aan te wijzen telecommunicatiedienst af te nemen.
 
-2. Een aanbieder van krachtens het eerste lid aangewezen categorie van telecommunicatiediensten op wie een verplichting als bedoeld in dat lid, onderdeel a, rust, is, onverminderd [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-01-01&g=2003-01-01), tevens verplicht aan degene met wie hij overeenkomt de desbetreffende telecommunicatiedienst te leveren de mogelijkheid te bieden het voorheen in het kader van die dienst bij diegene in gebruik zijnde nummer te blijven gebruiken.
+2. Een aanbieder van krachtens het eerste lid aangewezen categorie van telecommunicatiediensten op wie een verplichting als bedoeld in dat lid, onderdeel a, rust, is, onverminderd [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-05-21&g=2003-05-21), tevens verplicht aan degene met wie hij overeenkomt de desbetreffende telecommunicatiedienst te leveren de mogelijkheid te bieden het voorheen in het kader van die dienst bij diegene in gebruik zijnde nummer te blijven gebruiken.
 
 3. Bij een verplichting opgelegd, krachtens het eerste lid, onderdeel a, gaat:
 
@@ -551,7 +571,7 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 6. De in het derde lid bedoelde aanbieders stellen het college binnen een door het college te bepalen termijn en op een door het college te bepalen wijze op de hoogte van de toekenningen van nummers die in een door het college te bepalen periode op grond van het derde lid van hen op andere aanbieders zijn overgegaan, alsmede van de toekenningen van nummers die op grond van het derde lid van andere aanbieders op hen zijn overgegaan. Het college maakt de door hem bepaalde termijn, wijze en periode, bedoeld in de eerste volzin, bekend in de Staatscourant.
 
-7. Een aanbieder van een openbaar telecommunicatienetwerk waarover een krachtens het eerste lid aangewezen categorie van openbare telecommunicatiediensten wordt verzorgd, zorgt ervoor, voorzover een dergelijke verplichting niet reeds voortvloeit uit [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) of [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-01-01&g=2003-01-01), dat zijn netwerk zodanig is ingericht dat een aanbieder van die dienst een krachtens het eerste lid opgelegde verplichting kan nakomen.
+7. Een aanbieder van een openbaar telecommunicatienetwerk waarover een krachtens het eerste lid aangewezen categorie van openbare telecommunicatiediensten wordt verzorgd, zorgt ervoor, voorzover een dergelijke verplichting niet reeds voortvloeit uit [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) of [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-05-21&g=2003-05-21), dat zijn netwerk zodanig is ingericht dat een aanbieder van die dienst een krachtens het eerste lid opgelegde verplichting kan nakomen.
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de doorberekening van kosten van een krachtens het eerste lid opgelegde verplichting.
 
@@ -571,17 +591,17 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 ##### Artikel 5.1
 
-1. Eenieder is, behoudens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.2&z=2003-01-01&g=2003-01-01) en onverminderd het in dit hoofdstuk geregelde recht op schadevergoeding, verplicht de aanleg en instandhouding van kabels ten dienste van een openbaar telecommunicatienetwerk of van een omroepnetwerk in en op openbare gronden, alsmede de opruiming daarvan, te gedogen.
+1. Eenieder is, behoudens [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.2&z=2003-05-21&g=2003-05-21) en onverminderd het in dit hoofdstuk geregelde recht op schadevergoeding, verplicht de aanleg en instandhouding van kabels ten dienste van een openbaar telecommunicatienetwerk of van een omroepnetwerk in en op openbare gronden, alsmede de opruiming daarvan, te gedogen.
 
-2. De in het eerste lid bedoelde verplichting strekt zich, behoudens [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-01-01&g=2003-01-01) en onverminderd het in dit hoofdstuk geregelde recht op schadevergoeding, wat betreft interlokale en internationale kabels tevens uit tot alle andere gronden, uitgezonderd afgesloten tuinen en erven die met bewoonde percelen één geheel vormen.
+2. De in het eerste lid bedoelde verplichting strekt zich, behoudens [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-05-21&g=2003-05-21) en onverminderd het in dit hoofdstuk geregelde recht op schadevergoeding, wat betreft interlokale en internationale kabels tevens uit tot alle andere gronden, uitgezonderd afgesloten tuinen en erven die met bewoonde percelen één geheel vormen.
 
 3. Door de aanleg, de instandhouding en de opruiming van kabels wordt geen verandering in de bestemming en zo min mogelijk belemmering in het gebruik van de gronden gebracht.
 
 ##### Artikel 5.2
 
-1. De gemeente is belast met de coördinatie van de binnen haar grondgebied door aanbieders van openbare telecommunicatienetwerken of van omroepnetwerken uit te voeren werkzaamheden in verband met de aanleg en instandhouding van kabels, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01).
+1. De gemeente is belast met de coördinatie van de binnen haar grondgebied door aanbieders van openbare telecommunicatienetwerken of van omroepnetwerken uit te voeren werkzaamheden in verband met de aanleg en instandhouding van kabels, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21).
 
-2. Bij deze coördinatie worden mede betrokken andere werkzaamheden en andere belangen dan waarin door deze wet wordt voorzien. De coördinatie mag niet leiden tot een zodanige vertraging van voorgenomen werkzaamheden dat redelijkerwijs niet meer kan worden gesproken van gedogen als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01).
+2. Bij deze coördinatie worden mede betrokken andere werkzaamheden en andere belangen dan waarin door deze wet wordt voorzien. De coördinatie mag niet leiden tot een zodanige vertraging van voorgenomen werkzaamheden dat redelijkerwijs niet meer kan worden gesproken van gedogen als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21).
 
 3. Een aanbieder van een openbaar telecommunicatienetwerk of van een omroepnetwerk gaat slechts over tot het verrichten van werkzaamheden als bedoeld in het eerste lid indien deze:
 
@@ -601,9 +621,9 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 ##### Artikel 5.3
 
-1. Indien de aanbieder van een openbaar telecommunicatienetwerk of van een omroepnetwerk het voornemen heeft werkzaamheden uit te voeren in verband met de aanleg en instandhouding van kabels, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01), streeft hij naar overeenstemming met degene op wie een gedoogplicht rust over de plaats en wijze van de uitvoering van het werk.
+1. Indien de aanbieder van een openbaar telecommunicatienetwerk of van een omroepnetwerk het voornemen heeft werkzaamheden uit te voeren in verband met de aanleg en instandhouding van kabels, bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21), streeft hij naar overeenstemming met degene op wie een gedoogplicht rust over de plaats en wijze van de uitvoering van het werk.
 
-2. Bij gebreke van overeenstemming geeft de aanbieder van het netwerk aan degene op wie een gedoogplicht als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01), rust onverwijld een schriftelijke kennisgeving waarin een omschrijving van de voorgenomen plaats en de wijze van uitvoering van de werkzaamheden wordt gegeven. Indien degene op wie een gedoogplicht rust, tegen de kennisgeving bedenkingen heeft, kan hij na ontvangst daarvan het college verzoeken een beschikking te geven.
+2. Bij gebreke van overeenstemming geeft de aanbieder van het netwerk aan degene op wie een gedoogplicht als bedoeld in [artikel 5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21), rust onverwijld een schriftelijke kennisgeving waarin een omschrijving van de voorgenomen plaats en de wijze van uitvoering van de werkzaamheden wordt gegeven. Indien degene op wie een gedoogplicht rust, tegen de kennisgeving bedenkingen heeft, kan hij na ontvangst daarvan het college verzoeken een beschikking te geven.
 
 3. Het college geeft de beschikking binnen acht weken na ontvangst van het verzoek.
 
@@ -611,11 +631,11 @@ Het college kan op gezamenlijke aanvraag van de desbetreffende houder van een nu
 
 ##### Artikel 5.4
 
-Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01), beperkt zich voor eigenaren en beheerders van openbare gronden tot vergoeding van de kosten van de voorzieningen en van de meerdere kosten van onderhoud.
+Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21), beperkt zich voor eigenaren en beheerders van openbare gronden tot vergoeding van de kosten van de voorzieningen en van de meerdere kosten van onderhoud.
 
 ##### Artikel 5.5
 
-1. Onverminderd [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01) en het in dit hoofdstuk geregelde recht op schadevergoeding, is eenieder verplicht ten dienste van een openbaar telecommunicatienetwerk of van een omroepnetwerk te gedogen dat:
+1. Onverminderd [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21) en het in dit hoofdstuk geregelde recht op schadevergoeding, is eenieder verplicht ten dienste van een openbaar telecommunicatienetwerk of van een omroepnetwerk te gedogen dat:
 
 - a. kabels boven gronden, gebouwen en wateren worden aangelegd en instandgehouden, mits zonder aanhechting of aanraking;
 
@@ -625,7 +645,7 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 2. Door de aanleg, de instandhouding en de opruiming van kabels wordt geen verandering teweeggebracht in de bestemming van hetgeen waarin, waaraan, waarop of waarboven de kabels zijn of worden aangelegd alsmede zo min mogelijk verandering in de uiterlijke gedaante en zo min mogelijk belemmering in het gebruik ervan.
 
-3. Op de aanleg van kabels ingevolge dit artikel is het bepaalde bij of krachtens de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.2&z=2003-01-01&g=2003-01-01) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-01-01&g=2003-01-01) niet van toepassing.
+3. Op de aanleg van kabels ingevolge dit artikel is het bepaalde bij of krachtens de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.2&z=2003-05-21&g=2003-05-21) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-05-21&g=2003-05-21) niet van toepassing.
 
 ##### Artikel 5.6
 
@@ -639,7 +659,7 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 2. In andere gevallen dan bedoeld in het eerste lid, gaat de aanbieder, bedoeld in het eerste lid, slechts over tot verplaatsing van kabels, indien de verzoeker hem de kosten daarvan vergoedt.
 
-3. Bij gebreke van overeenstemming over de kosten, bedoeld in het eerste of tweede lid, is [artikel 5.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
+3. Bij gebreke van overeenstemming over de kosten, bedoeld in het eerste of tweede lid, is [artikel 5.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.3&z=2003-05-21&g=2003-05-21), van overeenkomstige toepassing.
 
 ##### Artikel 5.8
 
@@ -649,7 +669,7 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 ##### Artikel 5.9
 
-1. De eis tot schadevergoeding als bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.5&z=2003-01-01&g=2003-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.8&z=2003-01-01&g=2003-01-01) wordt, onafhankelijk van hetgeen gevorderd wordt, aanhangig gemaakt bij de rechtbank van het arrondissement waarin de onroerende zaak waaraan schade wordt toegebracht is gelegen. De eis tot schadevergoeding wordt behandeld en beslist door de kantonrechter van de rechtbank.
+1. De eis tot schadevergoeding als bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.5&z=2003-05-21&g=2003-05-21) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.8&z=2003-05-21&g=2003-05-21) wordt, onafhankelijk van hetgeen gevorderd wordt, aanhangig gemaakt bij de rechtbank van het arrondissement waarin de onroerende zaak waaraan schade wordt toegebracht is gelegen. De eis tot schadevergoeding wordt behandeld en beslist door de kantonrechter van de rechtbank.
 
 2. Indien de onroerende zaak in meer dan een arrondissement is gelegen, wordt de eis aanhangig gemaakt bij een van de rechtbanken, ter keuze van de eiser.
 
@@ -657,7 +677,7 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 4. De bepalingen van burgerlijk procesrecht zijn van toepassing op de geschillen, bedoeld in het eerste lid, voorzover daarvan in de voorgaande leden van dit artikel niet is afgeweken.
 
-5. Ook voordat omtrent de schadevergoeding overeenstemming verkregen of uitspraak gedaan is, kan tot de uitvoering van de in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.5&z=2003-01-01&g=2003-01-01) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.8&z=2003-01-01&g=2003-01-01) bedoelde werkzaamheden worden overgegaan.
+5. Ook voordat omtrent de schadevergoeding overeenstemming verkregen of uitspraak gedaan is, kan tot de uitvoering van de in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.1&z=2003-05-21&g=2003-05-21), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.5&z=2003-05-21&g=2003-05-21) en [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&artikel=5.8&z=2003-05-21&g=2003-05-21) bedoelde werkzaamheden worden overgegaan.
 
 ##### Artikel 5.10
 
@@ -683,23 +703,23 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op aanbieders van huurlijnen.
 
-6. Onverminderd het derde en vierde lid, dient ter uitvoering van het eerste, tweede en vijfde lid iedere daar bedoelde aanbieder met andere daar bedoelde aanbieders in onderhandeling te treden om te komen tot overeenkomsten op basis waarvan de interconnectie tot stand komt. In het geval de in de vorige zin bedoelde verplichting dient ter uitvoering van het eerste lid kan het college aanbieders bij het uitblijven van een overeenkomst een termijn stellen, waarbinnen deze tot stand moet zijn gekomen. Na ommekomst van deze termijn zijn betrokken aanbieders in gebreke, tenzij door een of meer van hen een beroep gedaan is op [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-01-01&g=2003-01-01).
+6. Onverminderd het derde en vierde lid, dient ter uitvoering van het eerste, tweede en vijfde lid iedere daar bedoelde aanbieder met andere daar bedoelde aanbieders in onderhandeling te treden om te komen tot overeenkomsten op basis waarvan de interconnectie tot stand komt. In het geval de in de vorige zin bedoelde verplichting dient ter uitvoering van het eerste lid kan het college aanbieders bij het uitblijven van een overeenkomst een termijn stellen, waarbinnen deze tot stand moet zijn gekomen. Na ommekomst van deze termijn zijn betrokken aanbieders in gebreke, tenzij door een of meer van hen een beroep gedaan is op [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-05-21&g=2003-05-21).
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake de tot stand te brengen interconnectie. Deze regels kunnen verschillend worden gesteld ten aanzien van bij die regels te onderscheiden categorieën van openbare telecommunicatienetwerken of openbare telecommunicatiediensten.
 
 ##### Artikel 6.2
 
-1. Van overeenkomsten als bedoeld in [artikel 6.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01), en wijzigingen daarin, wordt zo spoedig mogelijk, doch uiterlijk binnen een week nadat bedoelde overeenkomsten zijn gesloten, onderscheidenlijk bedoelde wijzigingen zijn overeengekomen, een afschrift gedeponeerd bij het college.
+1. Van overeenkomsten als bedoeld in [artikel 6.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21), en wijzigingen daarin, wordt zo spoedig mogelijk, doch uiterlijk binnen een week nadat bedoelde overeenkomsten zijn gesloten, onderscheidenlijk bedoelde wijzigingen zijn overeengekomen, een afschrift gedeponeerd bij het college.
 
-2. Indien het college van oordeel is dat een overeenkomst strijdig is met het bepaalde bij of krachtens deze wet, stelt het de partijen daarvan in kennis onder mededeling van de onderdelen die naar zijn oordeel wijziging behoeven. Zolang die wijzigingen niet zijn aangebracht, is door betrokken aanbieders niet voldaan aan [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01).
+2. Indien het college van oordeel is dat een overeenkomst strijdig is met het bepaalde bij of krachtens deze wet, stelt het de partijen daarvan in kennis onder mededeling van de onderdelen die naar zijn oordeel wijziging behoeven. Zolang die wijzigingen niet zijn aangebracht, is door betrokken aanbieders niet voldaan aan [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21).
 
 3. Het college kan een afschrift van bij hem gedeponeerde overeenkomsten op verzoek aan belanghebbenden ter beschikking stellen, met uitzondering van naar het oordeel van het college als vertrouwelijk aan te merken bedrijfsgegevens.
 
 ##### Artikel 6.3
 
-1. Indien aanbieders geen overeenkomst als bedoeld in [artikel 6.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01), tot stand brengen, kan het college op aanvraag van een of meer van hen, de regels vaststellen die tussen hen zullen gelden. Een besluit van het college laat de mogelijkheid van een buitenlandse aanbieder als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01), om af te zien van de interconnectie onverlet.
+1. Indien aanbieders geen overeenkomst als bedoeld in [artikel 6.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21), tot stand brengen, kan het college op aanvraag van een of meer van hen, de regels vaststellen die tussen hen zullen gelden. Een besluit van het college laat de mogelijkheid van een buitenlandse aanbieder als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21), om af te zien van de interconnectie onverlet.
 
-2. Geschillen tussen bij interconnectie als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) betrokken aanbieders met betrekking tot de vraag of de ter zake tussen hen in verband met interconnectie bestaande verbintenissen, of de wijze waarop deze worden nagekomen, strijdig zijn met het bepaalde bij of krachtens deze wet, worden op aanvraag van een of meer van de betrokken aanbieders door het college beslecht. In het geval het college van oordeel is dat er sprake is van strijd met het bepaalde bij of krachtens deze wet kan hij ter beëindiging van deze situatie regels vaststellen die tussen de aanbieders zullen gelden. In voorkomende gevallen treden bedoelde regels in de plaats van de tot dan toe bestaande verbintenissen.
+2. Geschillen tussen bij interconnectie als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) betrokken aanbieders met betrekking tot de vraag of de ter zake tussen hen in verband met interconnectie bestaande verbintenissen, of de wijze waarop deze worden nagekomen, strijdig zijn met het bepaalde bij of krachtens deze wet, worden op aanvraag van een of meer van de betrokken aanbieders door het college beslecht. In het geval het college van oordeel is dat er sprake is van strijd met het bepaalde bij of krachtens deze wet kan hij ter beëindiging van deze situatie regels vaststellen die tussen de aanbieders zullen gelden. In voorkomende gevallen treden bedoelde regels in de plaats van de tot dan toe bestaande verbintenissen.
 
 3. Met betrekking tot aanvragen als bedoeld in het eerste en tweede lid geldt dat het college:
 
@@ -707,7 +727,7 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 - b. in spoedeisende gevallen een voorlopig besluit neemt, dat tussen de betrokken aanbieders geldt tot het definitieve besluit.
 
-4. Het college neemt geen besluit op een aanvraag als bedoeld in het eerste lid indien betrokken aanbieders voor het tijdstip van het nemen van het besluit overeenkomstig [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-01-01&g=2003-01-01), het afschrift van een tussen hen totstandgekomen overeenkomst bij het college hebben gedeponeerd, welke voldoet aan het bepaalde bij of krachtens deze wet, dan wel, indien er sprake is van een buitenlandse aanbieder, deze voor het tijdstip van de uitspraak te kennen geeft af te zien van de interconnectie.
+4. Het college neemt geen besluit op een aanvraag als bedoeld in het eerste lid indien betrokken aanbieders voor het tijdstip van het nemen van het besluit overeenkomstig [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-05-21&g=2003-05-21), het afschrift van een tussen hen totstandgekomen overeenkomst bij het college hebben gedeponeerd, welke voldoet aan het bepaalde bij of krachtens deze wet, dan wel, indien er sprake is van een buitenlandse aanbieder, deze voor het tijdstip van de uitspraak te kennen geeft af te zien van de interconnectie.
 
 #### § 6.2. Bepalingen met betrekking tot aanbieders met aanmerkelijke macht op de markt
 
@@ -723,21 +743,21 @@ Het recht op schadevergoeding, verband houdend met de gedoogplicht, bedoeld in [
 
 ##### Artikel 6.5
 
-Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01):
+Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21):
 
-- a. verstrekken aan andere aanbieders, die krachtens [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) verzoeken om interconnectie, deze onder gelijke voorwaarden onder gelijke omstandigheden;
+- a. verstrekken aan andere aanbieders, die krachtens [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) verzoeken om interconnectie, deze onder gelijke voorwaarden onder gelijke omstandigheden;
 
-- b. verstrekken aan andere aanbieders, die krachtens [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) verzoeken om interconnectie, deze onder gelijke voorwaarden als die welke onder gelijke omstandigheden gelden voor henzelf of hun dochtermaatschappijen;
+- b. verstrekken aan andere aanbieders, die krachtens [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) verzoeken om interconnectie, deze onder gelijke voorwaarden als die welke onder gelijke omstandigheden gelden voor henzelf of hun dochtermaatschappijen;
 
-- c. verstrekken aan aanbieders als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) op aanvraag alle met betrekking tot interconnectie benodigde informatie alsmede de voorgenomen wijzigingen die binnen de volgende zes maanden zullen worden ingevoerd;
+- c. verstrekken aan aanbieders als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) op aanvraag alle met betrekking tot interconnectie benodigde informatie alsmede de voorgenomen wijzigingen die binnen de volgende zes maanden zullen worden ingevoerd;
 
 - d. gebruiken de aan hen verstrekte informatie uitsluitend voor het doel waarvoor deze aan hen werd verstrekt.
 
 ##### Artikel 6.6
 
-1. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), alsmede aanbieders van mobiele openbare telefoondiensten en mobiele openbare telefoonnetwerken aangewezen door het college krachtens [artikel 6.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), dragen er zorg voor dat de tarieven voor interconnectie op transparante wijze worden bepaald en op kosten zijn georiënteerd.
+1. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), alsmede aanbieders van mobiele openbare telefoondiensten en mobiele openbare telefoonnetwerken aangewezen door het college krachtens [artikel 6.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), dragen er zorg voor dat de tarieven voor interconnectie op transparante wijze worden bepaald en op kosten zijn georiënteerd.
 
-2. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), dragen er bovendien zorg voor dat de tarieven voor interconnectie in voldoende mate zijn uitgesplitst.
+2. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), dragen er bovendien zorg voor dat de tarieven voor interconnectie in voldoende mate zijn uitgesplitst.
 
 3. Ter uitvoering van het eerste lid wordt door de onderscheiden aanbieders een systeem voor de toerekening van de kosten voor interconnectie opgesteld. Het systeem behoeft de goedkeuring van het college.
 
@@ -747,7 +767,7 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 ##### Artikel 6.7
 
-1. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en aanbieders van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), maken een referentie-interconnectie-aanbieding bekend.
+1. Aanbieders van vaste openbare telefoonnetwerken, vaste openbare telefoondiensten en aanbieders van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), maken een referentie-interconnectie-aanbieding bekend.
 
 2. Een referentie-interconnectie-aanbieding omvat een omschrijving van hetgeen op het gebied van interconnectie wordt aangeboden, opgesplitst naar componenten, tarieven en andere daarvan deel uitmakende voorwaarden.
 
@@ -755,7 +775,7 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 ##### Artikel 6.8
 
-1. Aanbieders van vaste openbare telefoonnetwerken, van vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), die interconnectie bieden aan andere aanbieders, voeren gescheiden boekhoudingen voor hun activiteiten in verband met interconnectie en voor hun overige activiteiten.
+1. Aanbieders van vaste openbare telefoonnetwerken, van vaste openbare telefoondiensten en van huurlijnen, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), die interconnectie bieden aan andere aanbieders, voeren gescheiden boekhoudingen voor hun activiteiten in verband met interconnectie en voor hun overige activiteiten.
 
 2. Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is op aanbieders waarvan de jaaromzet in telecommunicatieactiviteiten in de Europese Unie een bij die regeling te bepalen bedrag niet te boven gaat.
 
@@ -763,11 +783,11 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 ##### Artikel 6.9
 
-1. Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), voldoen aan alle redelijke verzoeken tot bijzondere toegang.
+1. Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), voldoen aan alle redelijke verzoeken tot bijzondere toegang.
 
-2. De [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-01-01&g=2003-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-01-01&g=2003-01-01) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing, met dien verstande dat het in [artikel 6.5, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2003-01-01&g=2003-01-01), vastgelegde vereiste van non-discriminatie, behoudens het bepaalde in het derde lid, mede ziet op de ten behoeve van de totstandbrenging van interconnectie als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01) geboden bijzondere toegang.
+2. De [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-05-21&g=2003-05-21), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-05-21&g=2003-05-21) en [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2003-05-21&g=2003-05-21) zijn van overeenkomstige toepassing, met dien verstande dat het in [artikel 6.5, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2003-05-21&g=2003-05-21), vastgelegde vereiste van non-discriminatie, behoudens het bepaalde in het derde lid, mede ziet op de ten behoeve van de totstandbrenging van interconnectie als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21) geboden bijzondere toegang.
 
-3. Onverminderd het eerste en tweede lid, is voor aanbieders van vaste openbare telefoonnetwerken of vaste openbare telefoondiensten die zijn aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing ten aanzien van verzoeken om bijzondere toegang gedaan door hen die in of buiten Nederland openbare telecommunicatiediensten aanbieden.
+3. Onverminderd het eerste en tweede lid, is voor aanbieders van vaste openbare telefoonnetwerken of vaste openbare telefoondiensten die zijn aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2003-05-21&g=2003-05-21) van overeenkomstige toepassing ten aanzien van verzoeken om bijzondere toegang gedaan door hen die in of buiten Nederland openbare telecommunicatiediensten aanbieden.
 
 4. Onze Minister, onverminderd eventuele verplichtingen uit hoofde van Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties, kan ontheffing verlenen van de in het eerste, tweede en derde lid neergelegde verplichtingen, indien de bijzondere toegang betrekking heeft op de verzorging van openbare telecommunicatiediensten van en naar een ander land, en de naleving van de verplichting leidt tot een verstoring van de mededinging.
 
@@ -785,7 +805,7 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 4. Het college dan wel een door het college aan te wijzen bevoegde derde onderzoekt jaarlijks of er in overeenstemming met het in het derde lid bedoelde systeem is gehandeld. Van het resultaat van het onderzoek wordt mededeling gedaan in de Staatscourant.
 
-5. [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing op overeenkomsten inzake ontbundelde toegang tot het aansluitnetwerk en bijbehorende faciliteiten, als bedoeld in artikel 2, onderdeel a, onderscheidenlijk artikel 2, onderdeel i, van de verordening, waarbij een aangemelde exploitant, als bedoeld in artikel 2, onderdeel a, van de verordening, partij is.
+5. [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2003-05-21&g=2003-05-21) is van overeenkomstige toepassing op overeenkomsten inzake ontbundelde toegang tot het aansluitnetwerk en bijbehorende faciliteiten, als bedoeld in artikel 2, onderdeel a, onderscheidenlijk artikel 2, onderdeel i, van de verordening, waarbij een aangemelde exploitant, als bedoeld in artikel 2, onderdeel a, van de verordening, partij is.
 
 ### Hoofdstuk 7. Open netwerk voorziening, huurlijnen en telefonie
 
@@ -799,7 +819,7 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 ##### Artikel 7.2
 
-1. Het college wijst aanbieders van huurlijnen aan op wie de regels, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), ter uitvoering van [richtlijn nr. 92/44/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 5 juni 1992 betreffende de toepassing van Open Network Provision (ONP) op huurlijnen (PbEG L 165) van toepassing zijn.
+1. Het college wijst aanbieders van huurlijnen aan op wie de regels, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), ter uitvoering van [richtlijn nr. 92/44/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 5 juni 1992 betreffende de toepassing van Open Network Provision (ONP) op huurlijnen (PbEG L 165) van toepassing zijn.
 
 2. Het college wijst een aanbieder van huurlijnen, bedoeld in het eerste lid, aan voorzover die aanbieder over een aanmerkelijke macht op de relevante markt beschikt.
 
@@ -809,25 +829,25 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 ##### Artikel 7.3
 
-1. Voor aanbieders van huurlijnen worden de regels, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), slechts gesteld voorzover deze zijn aangewezen op grond van [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-01-01&g=2003-01-01). De regels hebben in ieder geval betrekking op:
+1. Voor aanbieders van huurlijnen worden de regels, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), slechts gesteld voorzover deze zijn aangewezen op grond van [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-05-21&g=2003-05-21). De regels hebben in ieder geval betrekking op:
 
 - a. de voorwaarden voor levering en gebruik;
 
 - b. de capaciteit, kwaliteit en eigenschappen van het aanbod;
 
-- c. de tarieven met dien verstande dat voor huurlijnen van een aanbieder van huurlijnen als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-01-01&g=2003-01-01), in het gehele land dezelfde vormen van tarifering worden gehanteerd. Het college kan ontheffing verlenen van deze verplichting indien er in voldoende mate sprake is van concurrentie op de betreffende markt;
+- c. de tarieven met dien verstande dat voor huurlijnen van een aanbieder van huurlijnen als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-05-21&g=2003-05-21), in het gehele land dezelfde vormen van tarifering worden gehanteerd. Het college kan ontheffing verlenen van deze verplichting indien er in voldoende mate sprake is van concurrentie op de betreffende markt;
 
 - d. het verstrekken van informatie over het aanbod ten behoeve van gebruikers, en
 
 - e. het voeren van gescheiden boekhoudingen voor de activiteiten in verband met het aanbod van huurlijnen en voor overige activiteiten.
 
-2. Onverminderd het bepaalde bij of krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&z=2003-01-01&g=2003-01-01) kunnen de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), bedoelde regels ten aanzien van de aanbieders van huurlijnen, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), betrekking hebben op de toegang tot het netwerk van die aanbieders.
+2. Onverminderd het bepaalde bij of krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&z=2003-05-21&g=2003-05-21) kunnen de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), bedoelde regels ten aanzien van de aanbieders van huurlijnen, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), betrekking hebben op de toegang tot het netwerk van die aanbieders.
 
 #### § 7.3. Verplichtingen met betrekking tot telefonie
 
 ##### Artikel 7.4
 
-1. Onverminderd het bepaalde bij of krachtens [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&z=2003-01-01&g=2003-01-01) hebben de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), bedoelde regels ten aanzien van de aanbieders van een vaste openbare telefoondienst of een vast openbaar telefoonnetwerk in ieder geval betrekking op:
+1. Onverminderd het bepaalde bij of krachtens [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&z=2003-05-21&g=2003-05-21) hebben de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), bedoelde regels ten aanzien van de aanbieders van een vaste openbare telefoondienst of een vast openbaar telefoonnetwerk in ieder geval betrekking op:
 
 - a. de voorwaarden voor levering en gebruik;
 
@@ -835,7 +855,7 @@ Aanbieders, aangewezen door het college krachtens [artikel 6.4, eerste lid](http
 
 - c. het verstrekken van informatie over het aanbod ten behoeve van gebruikers.
 
-2. De in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), bedoelde regels ten aanzien van de aanbieders van een vast openbaar telefoonnetwerk of een vaste openbare telefoondienst, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), kunnen betrekking hebben op:
+2. De in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), bedoelde regels ten aanzien van de aanbieders van een vast openbaar telefoonnetwerk of een vaste openbare telefoondienst, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), kunnen betrekking hebben op:
 
 a. de tarieven met dien verstande dat voor de vaste openbare telefoondienst in het gehele land dezelfde vormen van tarifering worden gehanteerd. Het college kan ontheffing verlenen van deze verplichting indien er in voldoende mate sprake is van concurrentie op de betreffende markt;
 
@@ -843,11 +863,11 @@ b. het voeren van gescheiden boekhoudingen voor de activiteiten in verband met h
 
 c. de levering van aanvullende faciliteiten.
 
-3. Onverminderd het bepaalde bij of krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&z=2003-01-01&g=2003-01-01) kunnen de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), bedoelde regels ten aanzien van aanbieders van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst, een mobiel openbaar telefoonnetwerk en van een mobiele openbare telefoondienst, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), betrekking hebben op de toegang tot het vaste openbare telefoonnetwerk onderscheidenlijk het mobiele openbare telefoonnetwerk van die aanbieders.
+3. Onverminderd het bepaalde bij of krachtens [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&z=2003-05-21&g=2003-05-21) kunnen de in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), bedoelde regels ten aanzien van aanbieders van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst, een mobiel openbaar telefoonnetwerk en van een mobiele openbare telefoondienst, aangewezen krachtens [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), betrekking hebben op de toegang tot het vaste openbare telefoonnetwerk onderscheidenlijk het mobiele openbare telefoonnetwerk van die aanbieders.
 
 ##### Artikel 7.5
 
-De in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-01-01&g=2003-01-01), bedoelde regels hebben voorts betrekking op het, met inachtneming van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2003-01-01&g=2003-01-01), aan derden ter beschikking stellen van bij die regels aan te wijzen categorieën van nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen en van een abonnee-informatiedienst.
+De in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2003-05-21&g=2003-05-21), bedoelde regels hebben voorts betrekking op het, met inachtneming van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&z=2003-05-21&g=2003-05-21), aan derden ter beschikking stellen van bij die regels aan te wijzen categorieën van nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen en van een abonnee-informatiedienst.
 
 ##### Artikel 7.6
 
@@ -857,11 +877,11 @@ Een aanbieder van een vast openbaar telefoonnetwerk, van een vaste openbare tele
 
 ##### Artikel 7.7
 
-Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de gevallen waarin en de procedure volgens welke de natuurlijke persoon of rechtspersoon die rechtstreeks in zijn belang is getroffen een oordeel van het college kan vragen over een maatregel, door een aanbieder van huurlijnen, aangewezen door het college krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-01-01&g=2003-01-01), dan wel door een aanbieder van een vast openbaar telefoonnetwerk of van een vaste openbare telefoondienst, genomen in het kader van de geharmoniseerde voorwaarden die betrekking hebben op open en efficiënte toegang tot en gebruik van openbare telecommunicatienetwerken en openbare telecommunicatiediensten overeenkomstig [richtlijn nr. 90/387/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 28 juni 1990 betreffende de totstandbrenging van de interne markt voor telecommunicatiediensten door middel van de tenuitvoerlegging van Open Network Provision (ONP) (PbEG L 192).
+Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de gevallen waarin en de procedure volgens welke de natuurlijke persoon of rechtspersoon die rechtstreeks in zijn belang is getroffen een oordeel van het college kan vragen over een maatregel, door een aanbieder van huurlijnen, aangewezen door het college krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-05-21&g=2003-05-21), dan wel door een aanbieder van een vast openbaar telefoonnetwerk of van een vaste openbare telefoondienst, genomen in het kader van de geharmoniseerde voorwaarden die betrekking hebben op open en efficiënte toegang tot en gebruik van openbare telecommunicatienetwerken en openbare telecommunicatiediensten overeenkomstig [richtlijn nr. 90/387/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 28 juni 1990 betreffende de totstandbrenging van de interne markt voor telecommunicatiediensten door middel van de tenuitvoerlegging van Open Network Provision (ONP) (PbEG L 192).
 
 ##### Artikel 7.8
 
-Indien een oordeel van het college, gegeven krachtens [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.4&artikel=7.7&z=2003-01-01&g=2003-01-01), inhoudt dat een door de in dat artikel bedoelde aanbieder genomen maatregel onredelijk is, kan het college de regels vaststellen die terzake tussen die aanbieder en de vrager van het oordeel zullen gelden.
+Indien een oordeel van het college, gegeven krachtens [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.4&artikel=7.7&z=2003-05-21&g=2003-05-21), inhoudt dat een door de in dat artikel bedoelde aanbieder genomen maatregel onredelijk is, kan het college de regels vaststellen die terzake tussen die aanbieder en de vrager van het oordeel zullen gelden.
 
 ### Hoofdstuk 8. Omroepnetwerken, omroepzendernetwerken en systemen voor voorwaardelijke toegang
 
@@ -875,7 +895,7 @@ Indien een oordeel van het college, gegeven krachtens [artikel 7.7](https://wett
 
 ##### Artikel 8.2
 
-Het college kan aan de aanbieder van een omroepnetwerk die in zijn verzorgingsgebied niet beschikt over een aanmerkelijke macht op de markt, op diens verzoek geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2003-01-01&g=2003-01-01). [Artikel 6.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), is daarbij van overeenkomstige toepassing.
+Het college kan aan de aanbieder van een omroepnetwerk die in zijn verzorgingsgebied niet beschikt over een aanmerkelijke macht op de markt, op diens verzoek geheel of gedeeltelijk ontheffing verlenen van de verplichtingen, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2003-05-21&g=2003-05-21). [Artikel 6.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 8.3
 
@@ -909,13 +929,13 @@ De aanbieder van een omroepnetwerk voert, indien hij zijn omroepnetwerk tevens a
 
 ##### Artikel 8.6
 
-1. Het college is bevoegd ter uitvoering van de in [artikel 8.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.3&artikel=8.5&z=2003-01-01&g=2003-01-01), bedoelde regels aan de aanbieder van een systeem voor voorwaardelijke toegang aanwijzingen te geven, indien het van oordeel is dat de wijze waarop de aanbieder transportcapaciteit verdeelt, of tarieven en andere leveringsvoorwaarden vaststelt, niet in overeenstemming is met die regels.
+1. Het college is bevoegd ter uitvoering van de in [artikel 8.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.3&artikel=8.5&z=2003-05-21&g=2003-05-21), bedoelde regels aan de aanbieder van een systeem voor voorwaardelijke toegang aanwijzingen te geven, indien het van oordeel is dat de wijze waarop de aanbieder transportcapaciteit verdeelt, of tarieven en andere leveringsvoorwaarden vaststelt, niet in overeenstemming is met die regels.
 
 2. De aanbieder van een systeem voor voorwaardelijke toegang is verplicht een aanwijzing als bedoeld in het eerste lid op te volgen.
 
 ##### Artikel 8.7
 
-Indien de aanbieder van een omroepnetwerk en de aanbieder van een programma, als bedoeld in [artikel 1, onderdeel f, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1) geen overeenstemming bereiken over de toegang van het aangeboden programma tot het desbetreffende omroepnetwerk kan het college op verzoek van de aanbieder van het programma ter zake bindende aanwijzingen geven. [Artikel 8.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.4&artikel=8.6&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
+Indien de aanbieder van een omroepnetwerk en de aanbieder van een programma, als bedoeld in [artikel 1, onderdeel f, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1) geen overeenstemming bereiken over de toegang van het aangeboden programma tot het desbetreffende omroepnetwerk kan het college op verzoek van de aanbieder van het programma ter zake bindende aanwijzingen geven. [Artikel 8.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.4&artikel=8.6&z=2003-05-21&g=2003-05-21), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 9. Universele dienstverlening
 
@@ -927,17 +947,17 @@ Indien de aanbieder van een omroepnetwerk en de aanbieder van een programma, als
 
 ##### Artikel 9.2
 
-1. Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), aangewezen openbare telecommunicatiediensten of voorzieningen niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit de verzorging van de desbetreffende diensten of voorzieningen in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste vijf jaar opdragen aan degene die overeenkomstig de in dit artikel geregelde procedure wordt aangewezen als degene die de laagste totale nettokosten verwacht.
+1. Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), aangewezen openbare telecommunicatiediensten of voorzieningen niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit de verzorging van de desbetreffende diensten of voorzieningen in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste vijf jaar opdragen aan degene die overeenkomstig de in dit artikel geregelde procedure wordt aangewezen als degene die de laagste totale nettokosten verwacht.
 
-2. Onze Minister maakt het voornemen over te gaan tot een opdracht bekend aan degene die binnen het verzorgingsgebied op de relevante markt beschikt over een aanmerkelijke macht. Het voornemen bevat de te verzorgen openbare telecommunicatiediensten of voorzieningen, het verzorgingsgebied en de periode waarvoor de opdracht zal worden gegeven. [Artikel 6.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
+2. Onze Minister maakt het voornemen over te gaan tot een opdracht bekend aan degene die binnen het verzorgingsgebied op de relevante markt beschikt over een aanmerkelijke macht. Het voornemen bevat de te verzorgen openbare telecommunicatiediensten of voorzieningen, het verzorgingsgebied en de periode waarvoor de opdracht zal worden gegeven. [Artikel 6.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), is van overeenkomstige toepassing.
 
 3. Van het voornemen wordt mededeling gedaan door plaatsing in de Staatscourant. Daarbij wordt gewezen op de in het vijfde lid geregelde mogelijkheid een aanvraag in te dienen om een opdracht.
 
-4. Binnen acht weken na de datum van de in het tweede lid, eerste volzin, bedoelde bekendmaking wordt door degene die binnen het verzorgingsgebied op de relevante markt beschikt over een aanmerkelijke macht aan Onze Minister meegedeeld of hij verwacht in aanmerking te komen voor een vergoeding op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01) indien aan hem een opdracht zou worden gegeven. Verwacht de in de vorige zin bedoelde aanbieder in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in [artikel 9.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01), bedoelde nettokosten zullen zijn.
+4. Binnen acht weken na de datum van de in het tweede lid, eerste volzin, bedoelde bekendmaking wordt door degene die binnen het verzorgingsgebied op de relevante markt beschikt over een aanmerkelijke macht aan Onze Minister meegedeeld of hij verwacht in aanmerking te komen voor een vergoeding op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21) indien aan hem een opdracht zou worden gegeven. Verwacht de in de vorige zin bedoelde aanbieder in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in [artikel 9.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21), bedoelde nettokosten zullen zijn.
 
 5. Binnen acht weken na de datum van de in het derde lid bedoelde bekendmaking kan bij Onze Minister door anderen dan degene die binnen het verzorgingsgebied op de relevante markt beschikt over een aanmerkelijke macht, een aanvraag worden ingediend om een opdracht.
 
-6. De aanvraag bevat in ieder geval een verklaring van de aanvrager of hij verwacht in aanmerking te komen voor een vergoeding op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01), indien aan hem een opdracht zou worden gegeven. Verwacht de aanvrager in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in [artikel 9.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01), bedoelde nettokosten zullen zijn.
+6. De aanvraag bevat in ieder geval een verklaring van de aanvrager of hij verwacht in aanmerking te komen voor een vergoeding op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21), indien aan hem een opdracht zou worden gegeven. Verwacht de aanvrager in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in [artikel 9.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21), bedoelde nettokosten zullen zijn.
 
 7. Een opdracht wordt geweigerd indien de aanvrager naar verwachting de opdracht niet naar behoren zal kunnen verzorgen.
 
@@ -947,29 +967,29 @@ Indien de aanbieder van een omroepnetwerk en de aanbieder van een programma, als
 
 ##### Artikel 9.3
 
-1. Degene die op grond van een opdracht als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-01-01&g=2003-01-01), openbare telecommunicatiediensten of voorzieningen verzorgt kan binnen een half jaar na afloop van een kalenderjaar waarin hij die diensten of voorzieningen heeft verzorgd bij het college een aanvraag indienen om vergoeding van de in het afgelopen kalenderjaar bij de verzorging gemaakte nettokosten.
+1. Degene die op grond van een opdracht als bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-05-21&g=2003-05-21), openbare telecommunicatiediensten of voorzieningen verzorgt kan binnen een half jaar na afloop van een kalenderjaar waarin hij die diensten of voorzieningen heeft verzorgd bij het college een aanvraag indienen om vergoeding van de in het afgelopen kalenderjaar bij de verzorging gemaakte nettokosten.
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de bij de aanvraag om een vergoeding te verstrekken berekening van de in het eerste lid bedoelde nettokosten.
 
-3. Een vergoeding wordt slechts toegekend voorzover naar het oordeel van het college het bestaan en de hoogte van de nettokosten op grond van de verstrekte gegevens voldoende is aangetoond. De vergoeding is niet hoger dan de door de aanvrager op grond van [artikel 9.2, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-01-01&g=2003-01-01), voor het kalenderjaar waarop de aanvraag betrekking heeft verwachte nettokosten.
+3. Een vergoeding wordt slechts toegekend voorzover naar het oordeel van het college het bestaan en de hoogte van de nettokosten op grond van de verstrekte gegevens voldoende is aangetoond. De vergoeding is niet hoger dan de door de aanvrager op grond van [artikel 9.2, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-05-21&g=2003-05-21), voor het kalenderjaar waarop de aanvraag betrekking heeft verwachte nettokosten.
 
 4. Indien een vergoeding wordt toegekend wordt dit onder vermelding van het te vergoeden bedrag bekend gemaakt in de Staatscourant.
 
-5. Een vergoeding wordt uitbetaald binnen een week nadat de in [artikel 9.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2003-01-01&g=2003-01-01), bedoelde termijn is verstreken.
+5. Een vergoeding wordt uitbetaald binnen een week nadat de in [artikel 9.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.4&z=2003-05-21&g=2003-05-21), bedoelde termijn is verstreken.
 
 ##### Artikel 9.4
 
-1. Indien ingevolge [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01) aan degene die op grond van een opdracht openbare telecommunicatiediensten of voorzieningen verzorgt, een vergoeding wordt toegekend, is eenieder die een openbare telecommunicatiedienst aanbiedt behorende tot een krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), aangewezen categorie van openbare telecommunicatiediensten, en die in het kalenderjaar waarop de te betalen vergoeding betrekking heeft, voor die dienst in Nederland een hogere omzet heeft dan een bij ministeriële regeling te bepalen bedrag, aan het college een bijdrage verschuldigd.
+1. Indien ingevolge [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21) aan degene die op grond van een opdracht openbare telecommunicatiediensten of voorzieningen verzorgt, een vergoeding wordt toegekend, is eenieder die een openbare telecommunicatiedienst aanbiedt behorende tot een krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), aangewezen categorie van openbare telecommunicatiediensten, en die in het kalenderjaar waarop de te betalen vergoeding betrekking heeft, voor die dienst in Nederland een hogere omzet heeft dan een bij ministeriële regeling te bepalen bedrag, aan het college een bijdrage verschuldigd.
 
 2. De verschuldigde bijdrage wordt door het college binnen een half jaar na toekenning van de vergoeding vastgesteld en aan degene die de bijdrage is verschuldigd, meegedeeld.
 
 3. De bijdrage wordt berekend door de te betalen vergoeding te vermenigvuldigen met de in het vierde lid bedoelde breuk.
 
-4. De teller van de breuk bestaat uit de jaaromzet in Nederland van de bijdrageverschuldigde aanbieder in de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), aangewezen categorieën van openbare telecommunicatiediensten in het jaar waarop de te betalen vergoeding betrekking heeft. De noemer van de breuk bestaat uit de som van de jaaromzetten in Nederland van de bijdrageverschuldigde aanbieders in de desbetreffende diensten in het jaar waarop de te betalen vergoeding betrekking heeft.
+4. De teller van de breuk bestaat uit de jaaromzet in Nederland van de bijdrageverschuldigde aanbieder in de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), aangewezen categorieën van openbare telecommunicatiediensten in het jaar waarop de te betalen vergoeding betrekking heeft. De noemer van de breuk bestaat uit de som van de jaaromzetten in Nederland van de bijdrageverschuldigde aanbieders in de desbetreffende diensten in het jaar waarop de te betalen vergoeding betrekking heeft.
 
 5. De bijdrage wordt betaald binnen vier weken na ontvangst van de beschikking waarin de bijdrage is vastgesteld.
 
-6. Op verzoek van degene die op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-01-01&g=2003-01-01) een vergoeding krijgt toegekend, wordt een door hem te betalen bijdrage verrekend met de door hem te ontvangen vergoeding.
+6. Op verzoek van degene die op grond van [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.3&z=2003-05-21&g=2003-05-21) een vergoeding krijgt toegekend, wordt een door hem te betalen bijdrage verrekend met de door hem te ontvangen vergoeding.
 
 ### Hoofdstuk 10. Randapparaten, radiozendapparaten en overige apparaten
 
@@ -1001,13 +1021,13 @@ Bij ministeriële regeling worden ter uitvoering van een bindend besluit van de 
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de certificatie van apparaten, die per aangewezen categorie van apparaten kunnen verschillen. Deze regels kunnen worden onderscheiden in regels betreffende:
 
-- a. het onderzoek naar de overeenstemming met de in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-01-01&g=2003-01-01) bedoelde voorschriften;
+- a. het onderzoek naar de overeenstemming met de in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-05-21&g=2003-05-21) bedoelde voorschriften;
 
 - b. de afgifte, het beschikbaar hebben en de intrekking van documenten met betrekking tot apparaten, alsmede het aanbrengen van markeringen.
 
 ##### Artikel 10.3
 
-1. Onze Minister kan instanties aanwijzen die bevoegd zijn de certificatie, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-01-01&g=2003-01-01), uit te voeren.
+1. Onze Minister kan instanties aanwijzen die bevoegd zijn de certificatie, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-05-21&g=2003-05-21), uit te voeren.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake:
 
@@ -1017,27 +1037,27 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de 
 
 3. Onze Minister kan een aanwijzing intrekken indien niet meer wordt voldaan aan de criteria of voorschriften, bedoeld in het tweede lid.
 
-4. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van de toepassing van de certificatie, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-01-01&g=2003-01-01).
+4. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van de toepassing van de certificatie, bedoeld in [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-05-21&g=2003-05-21).
 
 ##### Artikel 10.4
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake:
 
-- a. de middelen die Onze Minister kan gebruiken om het in de handel brengen en verhandelen van apparaten of categorieën van apparaten te beëindigen of te beperken, indien de betrokken apparaten niet voldoen aan de in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-01-01&g=2003-01-01) bedoelde voorschriften;
+- a. de middelen die Onze Minister kan gebruiken om het in de handel brengen en verhandelen van apparaten of categorieën van apparaten te beëindigen of te beperken, indien de betrokken apparaten niet voldoen aan de in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-05-21&g=2003-05-21) bedoelde voorschriften;
 
 - b. de behandeling van klachten over elektromagnetische storingen, ondervonden van het gebruik van apparaten, of over belemmeringen, welke bij het gebruik van radiozendapparaten of randapparaten worden ondervonden.
 
 ##### Artikel 10.5
 
-1. Het is verboden apparaten in de handel te brengen indien niet wordt voldaan aan de krachtens [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-01-01&g=2003-01-01) of [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-01-01&g=2003-01-01) terzake van de desbetreffende apparaten gestelde voorschriften.
+1. Het is verboden apparaten in de handel te brengen indien niet wordt voldaan aan de krachtens [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1&z=2003-05-21&g=2003-05-21) of [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-05-21&g=2003-05-21) terzake van de desbetreffende apparaten gestelde voorschriften.
 
-2. Het is verboden apparaten te verhandelen indien niet wordt voldaan aan de in [artikel 10.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-01-01&g=2003-01-01), bedoelde regels betreffende het beschikbaar hebben van documenten en het aanbrengen van markeringen.
+2. Het is verboden apparaten te verhandelen indien niet wordt voldaan aan de in [artikel 10.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-05-21&g=2003-05-21), bedoelde regels betreffende het beschikbaar hebben van documenten en het aanbrengen van markeringen.
 
-3. Onverminderd het eerste en tweede lid is het verboden apparaten bedoeld in [artikel 10.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1a&z=2003-01-01&g=2003-01-01) te verkopen, te verhuren of anderszins ter beschikking te stellen indien niet wordt voldaan aan de krachtens [artikel 10.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1a&z=2003-01-01&g=2003-01-01) terzake van de betreffende apparaten gestelde regels.
+3. Onverminderd het eerste en tweede lid is het verboden apparaten bedoeld in [artikel 10.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1a&z=2003-05-21&g=2003-05-21) te verkopen, te verhuren of anderszins ter beschikking te stellen indien niet wordt voldaan aan de krachtens [artikel 10.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.1a&z=2003-05-21&g=2003-05-21) terzake van de betreffende apparaten gestelde regels.
 
 ##### Artikel 10.6
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake het maken van handelsreclame voor apparaten waarvan het in de handel brengen of het verhandelen op grond van [artikel 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.5&z=2003-01-01&g=2003-01-01) is verboden.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake het maken van handelsreclame voor apparaten waarvan het in de handel brengen of het verhandelen op grond van [artikel 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.5&z=2003-05-21&g=2003-05-21) is verboden.
 
 #### § 10.1.2. Uitzonderingsbepalingen
 
@@ -1069,13 +1089,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inz
 
 - a. aan de houder van het apparaat aanwijzingen geven met betrekking tot de ingebruikneming of het gebruik van dat apparaat;
 
-- b. aan een vergunning voor het gebruik van frequentieruimte op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-01-01&g=2003-01-01) voorschriften verbinden met betrekking tot de ingebruikneming of het gebruik van dat apparaat;
+- b. aan een vergunning voor het gebruik van frequentieruimte op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-05-21&g=2003-05-21) voorschriften verbinden met betrekking tot de ingebruikneming of het gebruik van dat apparaat;
 
 - c. aan de houders van apparaten de ingebruikneming of het gebruik van die apparaten verbieden zonder voorafgaande vergunning van Onze Minister.
 
 ##### Artikel 10.9
 
-Bij de in [artikel 10.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.1&artikel=10.8&z=2003-01-01&g=2003-01-01), bedoelde regeling kunnen categorieën van apparaten van de toepassing van het bij of krachtens dit hoofdstuk terzake van de elektromagnetische compatibiliteit bepaalde worden uitgezonderd, indien:
+Bij de in [artikel 10.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.1&artikel=10.8&z=2003-05-21&g=2003-05-21), bedoelde regeling kunnen categorieën van apparaten van de toepassing van het bij of krachtens dit hoofdstuk terzake van de elektromagnetische compatibiliteit bepaalde worden uitgezonderd, indien:
 
 - a. zij geen elektromagnetische storingen kunnen veroorzaken of hun werking daardoor niet kan worden aangetast, of
 
@@ -1085,7 +1105,7 @@ Bij de in [artikel 10.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 10.10
 
-Degene die randapparaten als bedoeld in [artikel 1.1, onder x, 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-01-01&g=2003-01-01), in de handel brengt, geeft aan of deze randapparaten al dan niet bestemd zijn voor aansluiting op een openbaar telecommunicatienetwerk.
+Degene die randapparaten als bedoeld in [artikel 1.1, onder x, 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-05-21&g=2003-05-21), in de handel brengt, geeft aan of deze randapparaten al dan niet bestemd zijn voor aansluiting op een openbaar telecommunicatienetwerk.
 
 ##### Artikel 10.11
 
@@ -1093,7 +1113,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 ##### Artikel 10.12
 
-Het is verboden randapparaten aan te sluiten of aangesloten te houden op een openbaar telecommunicatienetwerk die niet voldoen aan de krachtens [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-01-01&g=2003-01-01) gestelde regels met betrekking tot het aanbrengen van markeringen.
+Het is verboden randapparaten aan te sluiten of aangesloten te houden op een openbaar telecommunicatienetwerk die niet voldoen aan de krachtens [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.1&paragraaf=10.1.1&artikel=10.2&z=2003-05-21&g=2003-05-21) gestelde regels met betrekking tot het aanbrengen van markeringen.
 
 ##### Artikel 10.13
 
@@ -1115,11 +1135,11 @@ Voor de toepassing van deze paragraaf worden met radiozendapparaten gelijkgestel
 
 ##### Artikel 10.16
 
-1. Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben, of het gebruik van radiozendapparaten is slechts toegestaan indien voor het gebruik ervan aan de houder van die radiozendapparaten op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-01-01&g=2003-01-01) een vergunning voor het gebruik van frequentieruimte is verleend.
+1. Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben, of het gebruik van radiozendapparaten is slechts toegestaan indien voor het gebruik ervan aan de houder van die radiozendapparaten op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-05-21&g=2003-05-21) een vergunning voor het gebruik van frequentieruimte is verleend.
 
 2. In afwijking van het eerste lid is het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben, of het gebruik van radiozendapparaten zonder dat aan de houder een vergunning is verleend voor het gebruik van frequentieruimte, toegestaan, indien:
 
-- a. krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-01-01&g=2003-01-01) geen vergunning is vereist voor het gebruik van frequentieruimte;
+- a. krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-05-21&g=2003-05-21) geen vergunning is vereist voor het gebruik van frequentieruimte;
 
 - b. de houder van het radiozendapparaat met de houder van een vergunning voor het gebruik van frequentieruimte een overeenkomst heeft gesloten voor de aanleg en het instandhouden van een radiozendapparaat ten behoeve van het verzorgen van diensten van de opdrachtgever waarbij gebruik wordt gemaakt van de aan de opdrachtgever toegewezen frequentieruimte;
 
@@ -1129,7 +1149,7 @@ Voor de toepassing van deze paragraaf worden met radiozendapparaten gelijkgestel
 
 ##### Artikel 10.17
 
-1. Onze Minister kan, in afwijking van [artikel 10.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.3&artikel=10.16&z=2003-01-01&g=2003-01-01), een vergunning verlenen voor het aanleggen van radiozendapparaten zonder dat aan de houder een vergunning is verleend voor gebruik van frequentieruimte. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
+1. Onze Minister kan, in afwijking van [artikel 10.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.3&artikel=10.16&z=2003-05-21&g=2003-05-21), een vergunning verlenen voor het aanleggen van radiozendapparaten zonder dat aan de houder een vergunning is verleend voor gebruik van frequentieruimte. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.
 
 2. De vergunning kan worden geweigerd, indien:
 
@@ -1149,7 +1169,7 @@ Voor de toepassing van deze paragraaf worden met radiozendapparaten gelijkgestel
 
 ##### Artikel 10.18
 
-[Artikel 10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.2&artikel=10.11&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing op radiozendapparaten.
+[Artikel 10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.2&artikel=10.11&z=2003-05-21&g=2003-05-21) is van overeenkomstige toepassing op radiozendapparaten.
 
 ##### Artikel 10.19
 
@@ -1201,9 +1221,9 @@ Onverminderd de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jc
 
 ##### Artikel 11.3
 
-1. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2003-01-01&g=2003-01-01) bedoelde aanbieders treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.
+1. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2003-05-21&g=2003-05-21) bedoelde aanbieders treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.
 
-2. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2003-01-01&g=2003-01-01) bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over:
+2. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.2&z=2003-05-21&g=2003-05-21) bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over:
 
 - a. bijzondere risico's voor de doorbreking van de veiligheid of de beveiliging van het aangeboden netwerk of de aangeboden dienst;
 
@@ -1229,7 +1249,7 @@ Onverminderd de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jc
 
 - b. dit noodzakelijk is ten behoeve van marktonderzoek en verkoopactiviteiten met betrekking tot de eigen telecommunicatiediensten en de abonnee daarmee heeft ingestemd;
 
-- c. dit noodzakelijk is ten behoeve van de berechting van enig geschil, de beslissing van een geschil, bedoeld [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&artikel=12.1&z=2003-01-01&g=2003-01-01), of het vaststellen van regels als bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-01-01&g=2003-01-01);
+- c. dit noodzakelijk is ten behoeve van de berechting van enig geschil, de beslissing van een geschil, bedoeld [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=12&artikel=12.1&z=2003-05-21&g=2003-05-21), of het vaststellen van regels als bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2003-05-21&g=2003-05-21);
 
 - d. dit noodzakelijk is ten behoeve van het verkeersbeheer;
 
@@ -1269,7 +1289,7 @@ Eenieder die een algemeen beschikbare telefoongids uitgeeft of een algemeen besc
 
 ##### Artikel 11.8
 
-De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2003-01-01&g=2003-01-01) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2003-01-01&g=2003-01-01) is beperkt tot abonnees die natuurlijke personen zijn.
+De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2003-05-21&g=2003-05-21) en [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.7&z=2003-05-21&g=2003-05-21) is beperkt tot abonnees die natuurlijke personen zijn.
 
 #### § 11.2. Nummeridentificatie
 
@@ -1295,7 +1315,7 @@ De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - 2°. oproepen waarbij de verstrekking van het nummer van het oproepende netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd is geblokkeerd, te weigeren;
 
-- 3°. indien nummeridentificatie, bedoeld in [artikel 1.1, onderdeel u, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-01-01&g=2003-01-01), wordt aangeboden, kosteloos de verstrekking van het nummer van het opgeroepen netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd aan het oproepende netwerkaansluitpunt te blokkeren.
+- 3°. indien nummeridentificatie, bedoeld in [artikel 1.1, onderdeel u, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-05-21&g=2003-05-21), wordt aangeboden, kosteloos de verstrekking van het nummer van het opgeroepen netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan worden geïdentificeerd aan het oproepende netwerkaansluitpunt te blokkeren.
 
 3. Bij ministeriële regeling worden ten aanzien van de in het eerste lid genoemde openbare telecommunicatiediensten nadere regels gesteld met betrekking tot:
 
@@ -1311,7 +1331,7 @@ De toepassing van de [artikelen 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. Eenieder die nummeridentificatie aanbiedt, is verplicht aan de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Minister, aangewezen beheerders van een alarmnummer voor publieke diensten, indien er telecommunicatie met een alarmnummer wordt afgewikkeld, gelijktijdig:
 
-- a. het nummer van het oproepende netwerkaansluitpunt te verstrekken, ook indien bij dat netwerkaansluitpunt gebruik wordt gemaakt van een in [artikel 11.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2003-01-01&g=2003-01-01), bedoelde blokkeringsmogelijkheid;
+- a. het nummer van het oproepende netwerkaansluitpunt te verstrekken, ook indien bij dat netwerkaansluitpunt gebruik wordt gemaakt van een in [artikel 11.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.2&artikel=11.9&z=2003-05-21&g=2003-05-21), bedoelde blokkeringsmogelijkheid;
 
 - b. de naam, en de beschikbare adres-, postcode- en woonplaatsgegevens van de abonnee, dan wel de locatie van de openbare betaaltelefoon, die onder het desbetreffende nummer is aangesloten, te verstrekken.
 
@@ -1373,15 +1393,15 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 13.5
 
-1. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn verplicht gegevens met betrekking tot een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2003-01-01&g=2003-01-01) en informatieverstrekkingen als bedoeld in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01) te beveiligen tegen kennisneming door onbevoegden alsmede geheimhouding te betrachten met betrekking tot deze gegevens.
+1. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn verplicht gegevens met betrekking tot een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2003-05-21&g=2003-05-21) en informatieverstrekkingen als bedoeld in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21) te beveiligen tegen kennisneming door onbevoegden alsmede geheimhouding te betrachten met betrekking tot deze gegevens.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de te nemen maatregelen in verband met de beveiliging, bedoeld in het eerste lid.
 
 ##### Artikel 13.6
 
-1. De investerings-, exploitatie- en onderhoudskosten voor de technische voorzieningen die door aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn of worden gemaakt teneinde te kunnen voldoen aan de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2003-01-01&g=2003-01-01), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01), en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2003-01-01&g=2003-01-01) komen te hunnen laste.
+1. De investerings-, exploitatie- en onderhoudskosten voor de technische voorzieningen die door aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten zijn of worden gemaakt teneinde te kunnen voldoen aan de [artikelen 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2003-05-21&g=2003-05-21), [13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21), en [13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.5&z=2003-05-21&g=2003-05-21) komen te hunnen laste.
 
-2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten hebben aanspraak op vergoeding uit 's Rijks kas van de door hen gemaakte administratiekosten en personeelskosten rechtstreeks voortvloeiend uit het voldoen aan een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2003-01-01&g=2003-01-01), onderscheidenlijk het verstrekken van informatie als bedoeld in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-01-01&g=2003-01-01).
+2. Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten hebben aanspraak op vergoeding uit 's Rijks kas van de door hen gemaakte administratiekosten en personeelskosten rechtstreeks voortvloeiend uit het voldoen aan een bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.2&z=2003-05-21&g=2003-05-21), onderscheidenlijk het verstrekken van informatie als bedoeld in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.4&z=2003-05-21&g=2003-05-21).
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot de vaststelling en vergoeding van de kosten, bedoeld in het tweede lid.
 
@@ -1401,7 +1421,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 14.2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 14.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2003-01-01&g=2003-01-01), in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 14.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2003-05-21&g=2003-05-21), in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -1415,7 +1435,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 14.3
 
-Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, oefent Onze Minister de in [artikel 14.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2003-01-01&g=2003-01-01), bedoelde bevoegdheden uit in overeenstemming met Onze Minister van Defensie.
+Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, oefent Onze Minister de in [artikel 14.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.4&z=2003-05-21&g=2003-05-21), bedoelde bevoegdheden uit in overeenstemming met Onze Minister van Defensie.
 
 ##### Artikel 14.4
 
@@ -1429,7 +1449,7 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 - c. de instandhouding en exploitatie dan wel beperking of beëindiging van het gebruik van hun radiozendapparaten, en
 
-- d. het ter beschikking stellen van huurlijnen en het gebruik daarvan, van, naar of in het gebied waarvoor een besluit als bedoeld in [artikel 14.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2003-01-01&g=2003-01-01), van kracht is.
+- d. het ter beschikking stellen van huurlijnen en het gebruik daarvan, van, naar of in het gebied waarvoor een besluit als bedoeld in [artikel 14.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2003-05-21&g=2003-05-21), van kracht is.
 
 2. Onze Minister kan bij toepassing van het eerste lid afwijken van de verplichtingen die ingevolge deze wet op aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en op gebruikers van de frequentieruimte rusten.
 
@@ -1445,7 +1465,7 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 ##### Artikel 14.6
 
-1. Onze Minister kan na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie voor aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en voor gebruikers van de frequentieruimte regels stellen ten aanzien van de door hen te nemen organisatorische en personele maatregelen en te treffen bijzondere voorzieningen met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2003-01-01&g=2003-01-01) en de door hen daarover aan Onze Minister te verstrekken informatie. Bij deze regeling wordt bepaald welke kosten van de uitvoering redelijkerwijze ten laste van aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en van gebruikers van de frequentieruimte dienen te komen.
+1. Onze Minister kan na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie voor aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en voor gebruikers van de frequentieruimte regels stellen ten aanzien van de door hen te nemen organisatorische en personele maatregelen en te treffen bijzondere voorzieningen met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&artikel=14.2&z=2003-05-21&g=2003-05-21) en de door hen daarover aan Onze Minister te verstrekken informatie. Bij deze regeling wordt bepaald welke kosten van de uitvoering redelijkerwijze ten laste van aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en van gebruikers van de frequentieruimte dienen te komen.
 
 2. De in het eerste lid bedoelde bijzondere voorzieningen hebben betrekking op:
 
@@ -1467,19 +1487,19 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 - a. het gebruik van frequentieruimte, met uitzondering van die bepalingen die betrekking hebben op het aanbieden van openbare telecommunicatienetwerken of openbare telecommunicatiediensten en niet zien op de technische aspecten van het gebruik;
 
-- b. omroepzendernetwerken, te weten [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.3&z=2003-01-01&g=2003-01-01);
+- b. omroepzendernetwerken, te weten [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.3&z=2003-05-21&g=2003-05-21);
 
-- c. het verstrekken van een opdracht tot verzorging van tot de universele dienst behorende diensten of voorzieningen, te weten [artikel 9.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-01-01&g=2003-01-01);
+- c. het verstrekken van een opdracht tot verzorging van tot de universele dienst behorende diensten of voorzieningen, te weten [artikel 9.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-05-21&g=2003-05-21);
 
-- d. de aan apparatuur te stellen eisen, te weten [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-01-01&g=2003-01-01);
+- d. de aan apparatuur te stellen eisen, te weten [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-05-21&g=2003-05-21);
 
-- e. bevoegd aftappen, te weten [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2003-01-01&g=2003-01-01);
+- e. bevoegd aftappen, te weten [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&z=2003-05-21&g=2003-05-21);
 
-- f. buitengewone omstandigheden, te weten [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&z=2003-01-01&g=2003-01-01);
+- f. buitengewone omstandigheden, te weten [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14&z=2003-05-21&g=2003-05-21);
 
-- g. verdere onderwerpen, te weten de [artikelen 18.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.1&z=2003-01-01&g=2003-01-01), voorzover het bevoegdheden betreft van Onze Minister, [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.2&z=2003-01-01&g=2003-01-01), voorzover het bevoegdheden betreft van Onze Minister, [18.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.4&z=2003-01-01&g=2003-01-01), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2003-01-01&g=2003-01-01), voorzover het bevoegdheden betreft van Onze Minister, [18.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.9&z=2003-01-01&g=2003-01-01), [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.12&z=2003-01-01&g=2003-01-01), voorzover het bevoegdheden betreft van Onze Minister, [20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2003-01-01&g=2003-01-01), voorzover het bevoegdheden betreft van Onze Minister, en [20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.14&z=2003-01-01&g=2003-01-01).
+- g. verdere onderwerpen, te weten de [artikelen 18.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.1&z=2003-05-21&g=2003-05-21), voorzover het bevoegdheden betreft van Onze Minister, [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.2&z=2003-05-21&g=2003-05-21), voorzover het bevoegdheden betreft van Onze Minister, [18.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.4&z=2003-05-21&g=2003-05-21), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.7&z=2003-05-21&g=2003-05-21), voorzover het bevoegdheden betreft van Onze Minister, [18.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.9&z=2003-05-21&g=2003-05-21), [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.12&z=2003-05-21&g=2003-05-21), [18.16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.16&z=2003-05-21&g=2003-05-21), [18.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.17&z=2003-05-21&g=2003-05-21), voorzover het bevoegdheden betreft van Onze Minister, [20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.2&z=2003-05-21&g=2003-05-21), voorzover het bevoegdheden betreft van Onze Minister, en [20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.14&z=2003-05-21&g=2003-05-21).
 
-2. Met het toezicht op de naleving van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2003-01-01&g=2003-01-01) is belast het Commissariaat voor de Media, genoemd in [artikel 9 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=9).
+2. Met het toezicht op de naleving van [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2003-05-21&g=2003-05-21) is belast het Commissariaat voor de Media, genoemd in [artikel 9 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=9).
 
 3. Met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid, alsmede het bepaalde bij [verordening (EG) nr. 2887/2000](onbekend) van het Europees Parlement en de Raad van de Europese Unie van 18 december 2000 inzake ontbundelde toegang tot het aansluitnetwerk (PbEG L 336/4) zijn belast de bij besluit van het college aangewezen ambtenaren.
 
@@ -1487,9 +1507,9 @@ Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, 
 
 ##### Artikel 15.2
 
-1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), bedoelde bepalingen.
+1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), bedoelde bepalingen.
 
-2. Het college is bevoegd tot toepassing van bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), bedoelde bepalingen.
+2. Het college is bevoegd tot toepassing van bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), bedoelde bepalingen.
 
 ##### Artikel 15.3
 
@@ -1499,9 +1519,9 @@ Indien niet wordt voldaan aan de bij of krachtens deze wet gestelde regels ten a
 
 ##### Artikel 15.4
 
-1. Ingeval van overtreding van de bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), bedoelde voorschriften, alsmede van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister aan de overtreder een boete opleggen van ten hoogste € 450 000.
+1. Ingeval van overtreding van de bij of krachtens de in [artikel 15.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), bedoelde voorschriften, alsmede van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan Onze Minister aan de overtreder een boete opleggen van ten hoogste € 450 000.
 
-2. Ingeval van overtreding van de bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), bedoelde voorschriften, alsmede van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan het college aan de overtreder een boete opleggen van ten hoogste € 450 000.
+2. Ingeval van overtreding van de bij of krachtens de in [artikel 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), bedoelde voorschriften, alsmede van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan het college aan de overtreder een boete opleggen van ten hoogste € 450 000.
 
 3. De hoogte van de boete wordt in ieder geval afgestemd op de ernst en de duur van de overtreding, alsmede op de mate waarin de overtreder daarvan een verwijt kan worden gemaakt.
 
@@ -1511,23 +1531,23 @@ Indien niet wordt voldaan aan de bij of krachtens deze wet gestelde regels ten a
 
 ##### Artikel 15.5
 
-1. Met het onderzoek zijn belast de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01).
+1. Met het onderzoek zijn belast de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21).
 
-2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01).
+2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in deze paragraaf gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21).
 
 ##### Artikel 15.6
 
-Indien de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), in het kader van het onderzoek bedoeld in [artikel 15.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.5&z=2003-01-01&g=2003-01-01), een redelijk vermoeden hebben dat een bepaalde natuurlijke persoon of rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon terzake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling terzake om informatie wordt gevraagd.
+Indien de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), in het kader van het onderzoek bedoeld in [artikel 15.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.5&z=2003-05-21&g=2003-05-21), een redelijk vermoeden hebben dat een bepaalde natuurlijke persoon of rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon terzake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling terzake om informatie wordt gevraagd.
 
 ##### Artikel 15.7
 
-1. De ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
+1. De ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
-2. De ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+2. De ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), oefenen de hun in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 
 ##### Artikel 15.8
 
-1. Indien een ambtenaar als bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-01-01&g=2003-01-01), vaststelt dat een overtreding is begaan, maakt hij daarvan een rapport op.
+1. Indien een ambtenaar als bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.1&artikel=15.1&z=2003-05-21&g=2003-05-21), vaststelt dat een overtreding is begaan, maakt hij daarvan een rapport op.
 
 2. In het rapport worden in ieder geval vermeld:
 
@@ -1543,7 +1563,7 @@ Indien de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk de
 
 ##### Artikel 15.9
 
-1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) wordt de belanghebbende schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het in [artikel 15.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-01-01&g=2003-01-01), bedoelde rapport.
+1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) wordt de belanghebbende schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het in [artikel 15.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-05-21&g=2003-05-21), bedoelde rapport.
 
 2. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt Onze Minister, onderscheidenlijk het college, er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
@@ -1559,15 +1579,15 @@ Indien de ambtenaren, bedoeld in [artikel 15.1, eerste lid, onderscheidenlijk de
 
 3. Op verzoek van de overtreder die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister, onderscheidenlijk het college, er zoveel mogelijk zorg voor dat de in die beschikking vermelde informatie aan de overtreder wordt meegedeeld in een voor hem begrijpelijke taal.
 
-4. De beschikking dient te worden gegeven binnen twaalf weken nadat het rapport, bedoeld in [artikel 15.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-01-01&g=2003-01-01), is opgemaakt, tenzij binnen deze termijn het rapport aan het openbaar ministerie is gezonden. In dat geval kan een boete worden opgelegd binnen twaalf weken nadat het openbaar ministerie aan Onze Minister, onderscheidenlijk het college, heeft meegedeeld dat geen strafvervolging wordt ingesteld.
+4. De beschikking dient te worden gegeven binnen twaalf weken nadat het rapport, bedoeld in [artikel 15.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-05-21&g=2003-05-21), is opgemaakt, tenzij binnen deze termijn het rapport aan het openbaar ministerie is gezonden. In dat geval kan een boete worden opgelegd binnen twaalf weken nadat het openbaar ministerie aan Onze Minister, onderscheidenlijk het college, heeft meegedeeld dat geen strafvervolging wordt ingesteld.
 
 ##### Artikel 15.11
 
-De werkzaamheden die verband houden met de uitvoering van de [artikelen 15.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.9&z=2003-01-01&g=2003-01-01) en [15.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.10&z=2003-01-01&g=2003-01-01) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-01-01&g=2003-01-01) bedoelde rapport en het daaraan voorafgaande onderzoek.
+De werkzaamheden die verband houden met de uitvoering van de [artikelen 15.9](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.9&z=2003-05-21&g=2003-05-21) en [15.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.10&z=2003-05-21&g=2003-05-21) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.8&z=2003-05-21&g=2003-05-21) bedoelde rapport en het daaraan voorafgaande onderzoek.
 
 ##### Artikel 15.12
 
-De werking van een beschikking als bedoeld in [artikel 15.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.10&z=2003-01-01&g=2003-01-01), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van een beschikking als bedoeld in [artikel 15.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.10&z=2003-05-21&g=2003-05-21), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 15.13
 
@@ -1579,7 +1599,7 @@ De werking van een beschikking als bedoeld in [artikel 15.10, eerste lid](https:
 
 ##### Artikel 15.14
 
-1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 15.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.13&z=2003-01-01&g=2003-01-01), kan Onze Minister, onderscheidenlijk het college, van de overtreder de verschuldigde boete, verhoogd met de krachtens [artikel 15.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.13&z=2003-01-01&g=2003-01-01), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
+1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 15.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.13&z=2003-05-21&g=2003-05-21), kan Onze Minister, onderscheidenlijk het college, van de overtreder de verschuldigde boete, verhoogd met de krachtens [artikel 15.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=15&paragraaf=15.2&artikel=15.13&z=2003-05-21&g=2003-05-21), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
 
 2. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
 
@@ -1639,9 +1659,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 18.3
 
-1. Onze Minister stelt de directeur-generaal van de Nederlandse mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2), in de gelegenheid hem advies uit te brengen over het ontwerp van een besluit tot weigering of intrekking van een vergunning voorzover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in [de artikelen 3.6, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-01-01&g=2003-01-01), en [3.7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2003-01-01&g=2003-01-01).
+1. Onze Minister stelt de directeur-generaal van de Nederlandse mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2), in de gelegenheid hem advies uit te brengen over het ontwerp van een besluit tot weigering of intrekking van een vergunning voorzover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in [de artikelen 3.6, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2003-05-21&g=2003-05-21), en [3.7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2003-05-21&g=2003-05-21).
 
-2. Alvorens over te gaan tot een schriftelijke bekendmaking als bedoeld in [artikel 9.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-01-01&g=2003-01-01), stelt Onze Minister het college en de directeur-generaal van de Nederlandse mededingingsautoriteit in de gelegenheid hem advies uit te brengen over het ontwerp van de bekendmaking.
+2. Alvorens over te gaan tot een schriftelijke bekendmaking als bedoeld in [artikel 9.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-05-21&g=2003-05-21), stelt Onze Minister het college en de directeur-generaal van de Nederlandse mededingingsautoriteit in de gelegenheid hem advies uit te brengen over het ontwerp van de bekendmaking.
 
 3. Voorzover bij de uitoefening van bevoegdheden van het college begrippen worden uitgelegd die worden gehanteerd bij de toepassing van [artikel 24 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24), geschiedt de uitoefening van die bevoegdheden overeenkomstig door het college in overeenstemming met de directeur-generaal van de Nederlandse mededingingsautoriteit vastgestelde algemene richtlijnen. Van de richtlijnen doet het college mededeling in de Staatscourant.
 
@@ -1721,9 +1741,9 @@ Degene die een telefoongids uitgeeft, neemt op verzoek van een natuurlijke perso
 
 ##### Artikel 18.14
 
-1. De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 9.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), [20.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.1&z=2003-01-01&g=2003-01-01), en [20.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.3&z=2003-01-01&g=2003-01-01), wordt, met uitzondering van de eerste keer dat een dergelijke algemene maatregel wordt vastgesteld, niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd. Binnen vier weken na de overlegging kan door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het in het ontwerp te regelen onderwerp bij de wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
+1. De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 9.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), [20.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.1&z=2003-05-21&g=2003-05-21), en [20.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=20&artikel=20.3&z=2003-05-21&g=2003-05-21), wordt, met uitzondering van de eerste keer dat een dergelijke algemene maatregel wordt vastgesteld, niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd. Binnen vier weken na de overlegging kan door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het in het ontwerp te regelen onderwerp bij de wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-2. Een krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2003-01-01&g=2003-01-01), [4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-01-01&g=2003-01-01), [4.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-01-01&g=2003-01-01), [6.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-01-01&g=2003-01-01), en [6.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-01-01&g=2003-01-01), vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. De eerste en tweede volzin vinden de eerste keer dat de maatregel wordt vastgesteld, geen toepassing.
+2. Een krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2003-05-21&g=2003-05-21), [4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-05-21&g=2003-05-21), [4.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&artikel=4.11&z=2003-05-21&g=2003-05-21), [6.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2003-05-21&g=2003-05-21), en [6.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.3&artikel=6.9&z=2003-05-21&g=2003-05-21), vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. De eerste en tweede volzin vinden de eerste keer dat de maatregel wordt vastgesteld, geen toepassing.
 
 ### Hoofdstuk 19. Wijzigingen in andere wetten
 
@@ -1807,9 +1827,9 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel 20.1
 
-1. KPN Telecom B.V. en haar groepsmaatschappijen als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) worden voor twee jaar, voorzover zij aanbieder zijn van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst, en huurlijnen in Nederland, aangewezen als een aanbieder van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst en huurlijnen in geheel Nederland die beschikt over een aanmerkelijke macht als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-01-01&g=2003-01-01), en [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-01-01&g=2003-01-01).
+1. KPN Telecom B.V. en haar groepsmaatschappijen als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) worden voor twee jaar, voorzover zij aanbieder zijn van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst, en huurlijnen in Nederland, aangewezen als een aanbieder van een vast openbaar telefoonnetwerk, een vaste openbare telefoondienst en huurlijnen in geheel Nederland die beschikt over een aanmerkelijke macht als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6&paragraaf=6.2&artikel=6.4&z=2003-05-21&g=2003-05-21), en [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=7&paragraaf=7.1&artikel=7.2&z=2003-05-21&g=2003-05-21).
 
-2. In afwijking van de [artikelen 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-01-01&g=2003-01-01), biedt KPN Telecom B.V. tot een jaar nadat zij Onze Minister schriftelijk heeft medegedeeld dit niet langer te doen, aan eenieder aan de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), aangewezen diensten en daarmee samenhangende voorzieningen die met betrekking tot kwaliteit en prijs voldoen aan de krachtens [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-01-01&g=2003-01-01), gestelde regels.
+2. In afwijking van de [artikelen 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.2&z=2003-05-21&g=2003-05-21), biedt KPN Telecom B.V. tot een jaar nadat zij Onze Minister schriftelijk heeft medegedeeld dit niet langer te doen, aan eenieder aan de krachtens [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), aangewezen diensten en daarmee samenhangende voorzieningen die met betrekking tot kwaliteit en prijs voldoen aan de krachtens [artikel 9.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=9&artikel=9.1&z=2003-05-21&g=2003-05-21), gestelde regels.
 
 3. Koninklijke KPN N.V. die krachtens artikel 4 van de Wet op de telecommunicatievoorzieningen verplicht is de telexdienst, bedoeld in artikel 4 van het Besluit opgedragen telecommunicatiediensten en de telegraafdienst, bedoeld in artikel 7 van het Besluit opgedragen telecommunicatiediensten te verzorgen, blijft ervoor zorgen dat deze diensten met uitzondering van de telexdienst over radio en de radiotelegrafiedienst door haar zelf of door een door haar aan te wijzen rechtspersoon aan eenieder op het Nederlandse grondgebied worden aangeboden. Binnen twee jaar na inwerkingtreding van deze wet bepaalt Onze Minister aan de hand van door Koninklijke KPN N.V. verstrekte gegevens met betrekking tot omvang van het gebruik van deze diensten in hoeverre verplichte voortzetting van deze diensten maatschappelijk gewenst is.
 
@@ -1817,59 +1837,59 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel 20.2
 
-1. Een vergunning die is verleend krachtens artikel 13a, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01).
+1. Een vergunning die is verleend krachtens artikel 13a, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21).
 
 2. Voor de houder van een vergunning als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 13c, 13g, met dien verstande dat in het eerste lid, onderdeel a, vervalt «waaronder technische aftapbaarheid», 13j, 13k, met uitzondering van het zevende lid, 13l, 13n, 13t, voorzover het betreft de verwijzing naar artikel 11, eerste tot en met derde lid, en vijfde tot en met zevende lid, 13u, 13v, 13x en [13y van de Wet op de telecommunicatievoorzieningen](onbekend) van toepassing.
 
 ##### Artikel 20.3
 
-1. Een machtiging die is verleend krachtens artikel 17, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01).
+1. Een machtiging die is verleend krachtens artikel 17, eerste lid, van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21).
 
-2. De toekenning van radio-frequenties krachtens artikel 3, tweede lid, van de Wet op de telecommunicatievoorzieningen aan de houder van de concessie wordt gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01).
+2. De toekenning van radio-frequenties krachtens artikel 3, tweede lid, van de Wet op de telecommunicatievoorzieningen aan de houder van de concessie wordt gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21).
 
-3. Voorzover bij een machtiging die is verleend krachtens artikel 21 van de Wet op de telecommunicatievoorzieningen radiofrequenties zijn toegekend, wordt deze toekenning van radiofrequenties gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01).
+3. Voorzover bij een machtiging die is verleend krachtens artikel 21 van de Wet op de telecommunicatievoorzieningen radiofrequenties zijn toegekend, wordt deze toekenning van radiofrequenties gelijkgesteld met een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21).
 
 4. Een vergunning als bedoeld in het eerste, tweede en derde lid, geldt voor een bij algemene maatregel van bestuur vast te stellen termijn, waarbij een onderscheid kan worden gemaakt al naar gelang de toepassing waarvoor de vergunning is verleend.
 
 ##### Artikel 20.4
 
-1. Regels vastgesteld krachtens de hoofdstukken IV, V en VII van de Wet op de telecommunicatievoorzieningen, alsmede het bepaalde bij of krachtens het Besluit radio-elektrische inrichtingen, worden gelijkgesteld met regels vastgesteld krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-01-01&g=2003-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-01-01&g=2003-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=16&z=2003-01-01&g=2003-01-01).
+1. Regels vastgesteld krachtens de hoofdstukken IV, V en VII van de Wet op de telecommunicatievoorzieningen, alsmede het bepaalde bij of krachtens het Besluit radio-elektrische inrichtingen, worden gelijkgesteld met regels vastgesteld krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&z=2003-05-21&g=2003-05-21), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-05-21&g=2003-05-21) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=16&z=2003-05-21&g=2003-05-21).
 
-2. Apparaten die op het tijdstip van inwerkingtreding van deze wet in gebruik zijn bij de houder van de concessie, bedoeld in artikel 3, eerste lid, van de Wet op de telecommunicatievoorzieningen, ten dienste van de uitoefening van de aan de houder van de concessie opgedragen taken, worden, voorzover deze niet voldoen aan het bepaalde bij of krachtens [hoofdstuk 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-01-01&g=2003-01-01), geacht te voldoen aan het bepaalde bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-01-01&g=2003-01-01).
+2. Apparaten die op het tijdstip van inwerkingtreding van deze wet in gebruik zijn bij de houder van de concessie, bedoeld in artikel 3, eerste lid, van de Wet op de telecommunicatievoorzieningen, ten dienste van de uitoefening van de aan de houder van de concessie opgedragen taken, worden, voorzover deze niet voldoen aan het bepaalde bij of krachtens [hoofdstuk 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-05-21&g=2003-05-21), geacht te voldoen aan het bepaalde bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&z=2003-05-21&g=2003-05-21).
 
 ##### Artikel 20.5
 
-1. Met betrekking tot de instandhouding, de verplaatsing en de opruiming van kabels en kabelwerken, voorzover de kabels en kabelwerken zijn aangelegd met toepassing van hoofdstuk VI van de Wet op de telecommunicatievoorzieningen is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-01-01&g=2003-01-01) van deze wet van toepassing met dien verstande, dat kabels en kabelwerken, aangelegd in en op openbare gronden als bedoeld in artikel 1, onderdeel g, onder 3°, van de Wet op de telecommunicatievoorzieningen worden gelijkgesteld met kabels, aangelegd in en op openbare gronden als bedoeld in [artikel 1.1, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-01-01&g=2003-01-01), van deze wet.
+1. Met betrekking tot de instandhouding, de verplaatsing en de opruiming van kabels en kabelwerken, voorzover de kabels en kabelwerken zijn aangelegd met toepassing van hoofdstuk VI van de Wet op de telecommunicatievoorzieningen is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-05-21&g=2003-05-21) van deze wet van toepassing met dien verstande, dat kabels en kabelwerken, aangelegd in en op openbare gronden als bedoeld in artikel 1, onderdeel g, onder 3°, van de Wet op de telecommunicatievoorzieningen worden gelijkgesteld met kabels, aangelegd in en op openbare gronden als bedoeld in [artikel 1.1, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=1&artikel=1.1&z=2003-05-21&g=2003-05-21), van deze wet.
 
 2. Ten aanzien van kabels en kabelwerken, bedoeld in het eerste lid, die deel uitmaken van een telecommunicatienetwerk dat tot gebruik strekt van het Ministerie van Defensie geldt dat:
 
-- a. gedurende een periode van vijf jaar na het tijdstip van inwerkingtreding van deze wet op de aanleg van kabels en kabelwerken ten behoeve van uitbreiding van dat telecommunicatienetwerk [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-01-01&g=2003-01-01) van deze wet van toepassing is, en
+- a. gedurende een periode van vijf jaar na het tijdstip van inwerkingtreding van deze wet op de aanleg van kabels en kabelwerken ten behoeve van uitbreiding van dat telecommunicatienetwerk [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-05-21&g=2003-05-21) van deze wet van toepassing is, en
 
-- b. dat tijdens de periode, genoemd onder a, alsmede na afloop van die periode op de kabels en kabelwerken die zijn aangelegd voor uitbreiding van dat telecommunicatienetwerk de bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-01-01&g=2003-01-01) van deze wet met betrekking tot de instandhouding, de verplaatsing en de opruiming van toepassing blijven.
+- b. dat tijdens de periode, genoemd onder a, alsmede na afloop van die periode op de kabels en kabelwerken die zijn aangelegd voor uitbreiding van dat telecommunicatienetwerk de bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=5&z=2003-05-21&g=2003-05-21) van deze wet met betrekking tot de instandhouding, de verplaatsing en de opruiming van toepassing blijven.
 
 ##### Artikel 20.6
 
 1. Een nummerplan vastgesteld krachtens artikel 40d van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een nummerplan als bedoeld in deze wet.
 
-2. De toekenning of reservering van nummers, bedoeld in artikel 17, elfde lid, van de Wet op de telecommunicatievoorzieningen, de toekenning of reservering van nummers alsmede de wijziging daarvan, bedoeld in artikel 40d van de Wet op de telecommunicatievoorzieningen, de toekenning van nummers als bedoeld in artikel 40e van de Wet op de telecommunicatievoorzieningen, alsmede de toekenning van nummers, bedoeld in [artikel 2, derde lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2), worden gelijkgesteld met een reservering, toekenning of wijziging als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2003-01-01&g=2003-01-01) van deze wet.
+2. De toekenning of reservering van nummers, bedoeld in artikel 17, elfde lid, van de Wet op de telecommunicatievoorzieningen, de toekenning of reservering van nummers alsmede de wijziging daarvan, bedoeld in artikel 40d van de Wet op de telecommunicatievoorzieningen, de toekenning van nummers als bedoeld in artikel 40e van de Wet op de telecommunicatievoorzieningen, alsmede de toekenning van nummers, bedoeld in [artikel 2, derde lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2), worden gelijkgesteld met een reservering, toekenning of wijziging als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4&z=2003-05-21&g=2003-05-21) van deze wet.
 
 ##### Artikel 20.7
 
-1. Een vergunning zonder gebiedsbeperking die is verleend krachtens [artikel 2, eerste lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2) wordt gelijkgesteld met een registratie als aanbieder van een openbaar telecommunicatienetwerk als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.3&z=2003-01-01&g=2003-01-01).
+1. Een vergunning zonder gebiedsbeperking die is verleend krachtens [artikel 2, eerste lid, van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=2) wordt gelijkgesteld met een registratie als aanbieder van een openbaar telecommunicatienetwerk als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.3&z=2003-05-21&g=2003-05-21).
 
 2. Voor een geregistreerde als bedoeld in het eerste lid blijven de artikelen 4b van de Wet op de telecommunicatievoorzieningen en [21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=21) nog van toepassing gedurende vijf jaar na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 20.8
 
-1. Ten aanzien van degene op wie ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-01-01&g=2003-01-01) een verplichting tot registratie rust, blijft [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-01-01&g=2003-01-01) buiten toepassing gedurende zes maanden na het tijdstip van inwerkingtreding van deze wet, en indien binnen die termijn een aanvraag tot registratie is ingediend, ook nadien, tot zes weken na de datum van de beschikking waarbij op de aanvraag is beslist.
+1. Ten aanzien van degene op wie ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-05-21&g=2003-05-21) een verplichting tot registratie rust, blijft [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-05-21&g=2003-05-21) buiten toepassing gedurende zes maanden na het tijdstip van inwerkingtreding van deze wet, en indien binnen die termijn een aanvraag tot registratie is ingediend, ook nadien, tot zes weken na de datum van de beschikking waarbij op de aanvraag is beslist.
 
-2. Een registratie als bedoeld in artikel 4ac van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een registratie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-01-01&g=2003-01-01) van deze wet.
+2. Een registratie als bedoeld in artikel 4ac van de Wet op de telecommunicatievoorzieningen wordt gelijkgesteld met een registratie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.1&z=2003-05-21&g=2003-05-21) van deze wet.
 
 ##### Artikel 20.9
 
 1. Het frequentieplan wordt voor de eerste maal vastgesteld binnen zes maanden na het tijdstip van inwerkingtreding van deze wet.
 
-2. Tot het tijdstip waarop het frequentieplan voor de eerste maal is vastgesteld, worden vergunningen voor frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01), verleend door middel van de procedure op volgorde van binnenkomst.
+2. Tot het tijdstip waarop het frequentieplan voor de eerste maal is vastgesteld, worden vergunningen voor frequentieruimte als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21), verleend door middel van de procedure op volgorde van binnenkomst.
 
 3. In afwijking van het tweede lid geldt dat indien een aanvraag voor een vergunning betrekking heeft op frequentieruimte die naar het oordeel van Onze Minister behoort tot een categorie van gebruik waarvoor vergunningen zullen worden verleend door middel van een veiling of een vergelijkende toets, kan Onze Minister besluiten een van genoemde procedures toe te passen.
 
@@ -1879,27 +1899,27 @@ Het frequentieregister is beschikbaar binnen zes maanden na het tijdstip van inw
 
 ##### Artikel 20.11
 
-1. De instemming, bedoeld in [artikel 11.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-01-01&g=2003-01-01), is, onverminderd het tweede lid van dit artikel, niet vereist voor de op het tijdstip van inwerkingtreding van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-01-01&g=2003-01-01), met betrekking tot de voor het in [artikel 11.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-01-01&g=2003-01-01), genoemde doel reeds in gebruik zijnde verkeersgegevens.
+1. De instemming, bedoeld in [artikel 11.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-05-21&g=2003-05-21), is, onverminderd het tweede lid van dit artikel, niet vereist voor de op het tijdstip van inwerkingtreding van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-05-21&g=2003-05-21), met betrekking tot de voor het in [artikel 11.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-05-21&g=2003-05-21), genoemde doel reeds in gebruik zijnde verkeersgegevens.
 
-2. Ten aanzien van de verkeersgegevens, bedoeld in het eerste lid, geldt dat de aanbieders, genoemd in [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-01-01&g=2003-01-01), binnen een jaar na het tijdstip van inwerkingtreding van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-01-01&g=2003-01-01) aan de abonnee mededeling doen van het gebruik dat van deze verkeersgegevens wordt gemaakt. De abonnee wordt geacht met dit gebruik te hebben ingestemd, tenzij deze binnen een termijn van twee maanden na de datum van verzending van de mededeling, schriftelijk aan de desbetreffende aanbieder te kennen geeft dat met het gebruik niet wordt ingestemd.
+2. Ten aanzien van de verkeersgegevens, bedoeld in het eerste lid, geldt dat de aanbieders, genoemd in [artikel 11.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-05-21&g=2003-05-21), binnen een jaar na het tijdstip van inwerkingtreding van [artikel 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.5&z=2003-05-21&g=2003-05-21) aan de abonnee mededeling doen van het gebruik dat van deze verkeersgegevens wordt gemaakt. De abonnee wordt geacht met dit gebruik te hebben ingestemd, tenzij deze binnen een termijn van twee maanden na de datum van verzending van de mededeling, schriftelijk aan de desbetreffende aanbieder te kennen geeft dat met het gebruik niet wordt ingestemd.
 
 ##### Artikel 20.12
 
-[Artikel 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2003-01-01&g=2003-01-01) is niet van toepassing op algemeen beschikbare telefoongidsen en de bestanden van algemeen beschikbare abonnee-informatiediensten die zijn uitgegeven voor het tijdstip van inwerkingtreding van dat artikel.
+[Artikel 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11&paragraaf=11.1&artikel=11.6&z=2003-05-21&g=2003-05-21) is niet van toepassing op algemeen beschikbare telefoongidsen en de bestanden van algemeen beschikbare abonnee-informatiediensten die zijn uitgegeven voor het tijdstip van inwerkingtreding van dat artikel.
 
 ##### Artikel 20.13
 
-Ten aanzien van degene op wie het voorschrift van [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2003-01-01&g=2003-01-01) van toepassing is, blijft dat artikel gedurende negen maanden na het tijdstip van inwerkingtreding van deze wet buiten toepassing, indien de door hem aangeboden openbare telecommunicatienetwerken of openbare telecommunicatiediensten nog niet aftapbaar zijn.
+Ten aanzien van degene op wie het voorschrift van [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=13&artikel=13.1&z=2003-05-21&g=2003-05-21) van toepassing is, blijft dat artikel gedurende negen maanden na het tijdstip van inwerkingtreding van deze wet buiten toepassing, indien de door hem aangeboden openbare telecommunicatienetwerken of openbare telecommunicatiediensten nog niet aftapbaar zijn.
 
 ##### Artikel 20.14
 
-1. Ten aanzien van de instelling die zendtijd als bedoeld in [artikel 1, onder hh, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1) heeft verkregen en die ingevolge [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) een vergunning voor het gebruik van frequentieruimte op het terrein van de publieke omroep behoeft, blijft dat artikel voor dat doel buiten toepassing gedurende zes maanden na het tijdstip van inwerkingtreding van deze wet, en indien binnen die termijn een aanvraag voor een vergunning is ingediend, ook nadien, tot zes weken na de datum van de beschikking waarbij op de aanvraag is beslist.
+1. Ten aanzien van de instelling die zendtijd als bedoeld in [artikel 1, onder hh, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1) heeft verkregen en die ingevolge [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) een vergunning voor het gebruik van frequentieruimte op het terrein van de publieke omroep behoeft, blijft dat artikel voor dat doel buiten toepassing gedurende zes maanden na het tijdstip van inwerkingtreding van deze wet, en indien binnen die termijn een aanvraag voor een vergunning is ingediend, ook nadien, tot zes weken na de datum van de beschikking waarbij op de aanvraag is beslist.
 
-2. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijft de Nederlandsche Omroep-Zender-Maatschappij «NOZEMA», genoemd in [artikel 1 van de Radio-Omroep-Zender-Wet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001965&artikel=1), bevoegd gebruik te maken van de frequentieruimte op het terrein van de publieke omroep, voorzover die frequentieruimte aan haar overeenkomstig [artikel 2 van de Radio-Omroep-Zender-Wet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001965&artikel=2) door Onze Minister is toegewezen.
+2. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijft de Nederlandsche Omroep-Zender-Maatschappij «NOZEMA», genoemd in [artikel 1 van de Radio-Omroep-Zender-Wet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001965&artikel=1), bevoegd gebruik te maken van de frequentieruimte op het terrein van de publieke omroep, voorzover die frequentieruimte aan haar overeenkomstig [artikel 2 van de Radio-Omroep-Zender-Wet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001965&artikel=2) door Onze Minister is toegewezen.
 
-3. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijft de NOZEMA, in afwijking van [artikel 10.16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.3&artikel=10.16&z=2003-01-01&g=2003-01-01), bevoegd radiozendapparaten aan te leggen en te gebruiken ten behoeve van het verzorgen van diensten, waarbij gebruik wordt gemaakt van de frequentieruimte op het terrein van de publieke omroep.
+3. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijft de NOZEMA, in afwijking van [artikel 10.16](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10&titeldeel=10.2&paragraaf=10.2.3&artikel=10.16&z=2003-05-21&g=2003-05-21), bevoegd radiozendapparaten aan te leggen en te gebruiken ten behoeve van het verzorgen van diensten, waarbij gebruik wordt gemaakt van de frequentieruimte op het terrein van de publieke omroep.
 
-4. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijven de krachtens [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-01-01&g=2003-01-01) gestelde regels ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep ten aanzien van de NOZEMA eveneens buiten toepassing.
+4. Zolang en voorzover [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) buiten toepassing blijft ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep, blijven de krachtens [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3&paragraaf=3.2&artikel=3.3&z=2003-05-21&g=2003-05-21) gestelde regels ten aanzien van het gebruik van frequentieruimte op het terrein van de publieke omroep ten aanzien van de NOZEMA eveneens buiten toepassing.
 
 5. De frequentieruimte op het terrein van de publieke omroep die op het tijdstip van inwerkingtreding van deze wet overeenkomstig [artikel 2 van de Radio-Omroep-Zender-Wet 1935](https://wetten.overheid.nl/jci1.3:c:BWBR0001965&artikel=2) door Onze Minister aan de NOZEMA is toegewezen, wordt door de NOZEMA uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze wet aan Onze Minister ter beschikking gesteld.
 
@@ -1932,5 +1952,77 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 20.20
 
 Deze wet wordt aangehaald als: Telecommunicatiewet.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 11.5a
+
+1. Certificatiedienstverleners die certificaten aan het publiek afgeven, verwerken alleen persoonsgegevens die van de betrokkene zelf of met diens uitdrukkelijke toestemming zijn verkregen, en voor zover de verwerking van deze persoonsgegevens voor de afgifte en het beheer van het certificaat is vereist.
+
+2. De in het eerste lid bedoelde persoonsgegevens worden niet voor andere doeleinden verzameld of verwerkt, tenzij de betrokkene daarvoor zijn uitdrukkelijke toestemming heeft gegeven.
+
+3. In afwijking van het tweede lid is de uitdrukkelijke toestemming van de betrokkene niet vereist, indien de verwerking van de in het eerste lid bedoelde persoonsgegevens noodzakelijk is ten behoeve van de opsporing van fraude, of indien de verwerking overigens bij of krachtens de wet wordt gevorderd.
+
+#### § 11.2. Nummeridentificatie
+
+### Hoofdstuk 12. Geschillencommissie
+
+### Hoofdstuk 13. Bevoegd aftappen
+
+### Hoofdstuk 14. Buitengewone omstandigheden
+
+### Hoofdstuk 15. Handhaving
+
+#### § 15.1. Algemeen
+
+#### § 15.2. Boete
+
+### Hoofdstuk 16. Vergoedingen
+
+### Hoofdstuk 17. Beroep
+
+### Hoofdstuk 18. Verdere bepalingen
+
+##### Artikel 18.15
+
+1. Een certificatiedienstverlener die certificaten als gekwalificeerde certificaten aanbiedt of afgeeft aan het publiek en in Nederland een vestiging heeft, voldoet aan de eisen, gesteld bij of krachtens algemene maatregel van bestuur.
+
+2. Certificaten die als gekwalificeerd certificaat aan het publiek worden aangeboden of afgegeven, voldoen aan de eisen gesteld bij of krachtens algemene maatregel van bestuur.
+
+3. Een certificatiedienstverlener stelt, alvorens een gekwalificeerd certificaat af te geven, de identiteit van de persoon die als ondertekenaar in dat gekwalificeerde certificaat wordt aangeduid, vast aan de hand van de bij [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) aangewezen geldige documenten.
+
+##### Artikel 18.16
+
+1. Onze Minister kan een of meer organisaties aanwijzen, die certificatiedienstverleners toetsen op de overeenstemming met de bij en krachtens deze wet gestelde eisen, indien de reglementen van de organisatie voldoende waarborgen bieden dat een overeenkomstig deze regeling, door de aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan [artikel 18.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21) en dat de door een zodanige certificatiedienstverlener aan het publiek aangeboden of afgegeven gekwalificeerde certificaten voldoen aan [artikel 18.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21).
+
+2. Een certificatiedienstverlener die in het bezit is van een geldig bewijs van toetsing van een op grond van het eerste lid aangewezen organisatie, wordt vermoed te voldoen aan [artikel 18.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21).
+
+3. De certificaten die als gekwalificeerd aan het publiek worden aangeboden of afgegeven door een certificatiedienstverlener als bedoeld in het tweede lid, worden vermoed te voldoen aan [artikel 18.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=18&artikel=18.15&z=2003-05-21&g=2003-05-21).
+
+4. Een aanwijzing als bedoeld in het eerste lid geldt voor bepaalde tijd, en kan worden ingetrokken indien blijkt dat de reglementen van de aangewezen organisatie niet meer de in het eerste lid bedoelde waarborg bieden.
+
+##### Artikel 18.17
+
+1. Degene die een veilig middel voor het aanmaken van elektronische handtekeningen op de markt brengt, zorgt ervoor dat het veilige middel voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen eisen.
+
+2. Onze Minister kan een instelling aanwijzen die belast is met het beoordelen van de overeenstemming van een veilig middel voor het aanmaken van elektronische handtekeningen met de eisen, bedoeld in het eerste lid.
+
+3. Degene die een veilig middel voor het aanmaken van elektronische handtekeningen op de markt brengt, zorgt ervoor dat dit middel is voorzien van een verklaring van de instelling, bedoeld in het tweede lid, of van een verklaring van een door de bevoegde autoriteiten van een andere lidstaat van de Europese Gemeenschap dan wel van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, aangewezen instelling, dat het middel voldoet aan de eisen, bedoeld in het eerste lid.
+
+4. De verklaring, bedoeld in het derde lid, betreft ofwel een afzonderlijk veilig middel, ofwel een type.
+
+5. De instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in het tweede lid, toont aan dat zij voldoet aan de bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
+
+6. Indien Onze Minister heeft vastgesteld dat de aangewezen instelling niet meer aan de in het vijfde lid bedoelde eisen voldoet en de instelling niet binnen een door Onze Minister gestelde termijn heeft aangetoond aan de eisen te voldoen, wordt de aanwijzing ingetrokken.
+
+7. Indien de aangewezen instelling aantoont redelijkerwijs niet binnen de gestelde termijn aan de eisen te kunnen voldoen, kan Onze Minister de termijn verlengen.
+
+##### Artikel 18.18
+
+Het is de certificatiedienstverlener waarvan de registratie op grond van [artikel 2.2, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=2&artikel=2.2&z=2003-05-21&g=2003-05-21), is beëindigd verboden gekwalificeerde certificaten aan het publiek aan te bieden of af te geven zolang hij niet opnieuw is geregistreerd.
+
+### Hoofdstuk 19. Wijzigingen in andere wetten
+
+### Hoofdstuk 20. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
