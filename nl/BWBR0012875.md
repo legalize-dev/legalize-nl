@@ -1,0 +1,115 @@
+---
+title: "Regeling voorzieningen sleepvliegen"
+identifier: "BWBR0012875"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-10-01"
+last_updated: "2001-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012875"
+soort: "ministeriele-regeling"
+stam_id: "4571763"
+version_id: "6387912"
+internal_id: "C6634811"
+label_id: "4550124"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012875/2013-10-01/0"
+intitule_bron: "Stcrt.2001-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-08"
+intitule_published: "2001-10-12"
+intitule_in_force: "2001-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-198"
+original_signed_date: "2001-10-08"
+original_published_date: "2001-10-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-10-15"
+jci_1_3: "jci1.3:c:BWBR0012875&z=2013-10-01&g=2013-10-01"
+jci_1_0: "1.0:c:BWBR0012875&g=2013-10-01"
+citeertitel_status: "officieel"
+signed_date: "2001-10-08"
+entry_into_force: "2001-10-15"
+---
+# Regeling voorzieningen sleepvliegen
+
+Gelet op [artikel 45 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=45);
+
+Besluit:
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+##### Artikel 2. Kunstvluchten en vervoer van personen en goederen
+
+1. Tijdens vluchten, waarbij een sleep wordt gesleept, mogen geen kunstvluchten worden uitgevoerd en mogen geen andere personen of goederen worden vervoerd, dan voor het uitvoeren van de vlucht noodzakelijk is.
+
+2. In afwijking van hetgeen in het vorige lid en in het vlieghandboek van het sleepvliegtuig is bepaald, mag tijdens vluchten waarbij een éénpersoons zweefvliegtuig wordt gesleept, een persoon die houder is van een vliegbewijs worden vervoerd, aan wie onderricht in het sleepvliegen wordt gegeven, mits de gezagvoerder van het sleepvliegtuig als examinator voor de bevoegdverklaring 'sleepvliegen' in een vliegbewijs is benoemd. Indien het slepen geschiedt met een sleepvliegtuig waarmede tweepersoons zweefvliegtuigen bij een beperkte startmassa mogen worden gesleept, is de beperking van maximaal toegelaten startmassa bij het slepen van éénpersoons zweefvliegtuigen niet van toepassing.
+
+##### Artikel 3. Sleepnetten en doelen voor schietoefeningen
+
+1. Het sleepnet moet van een door de minister toegelaten type zijn.
+
+2. De constructie en de sterkte van sleepnetten en doelen voor schietoefeningen moeten zodanig zijn, dat beschadigingen, die bij normaal gebruik kunnen ontstaan, niet kunnen leiden tot het optreden van gevaarlijke toestanden tijdens het slepen.
+
+3. De sleep mag noch zodanig geconcentreerde massa's bevatten, noch bij vrije val een zodanige valsnelheid bereiken, dat bij losraken van de sleep dan wel een gedeelte daarvan ernstig gevaar kan ontstaan voor de personen op de grond. Geconcentreerde massa's moeten zodanig zijn bevestigd, dat afzonderlijk losraken onmogelijk kan worden geacht. Een valsnelheid van ten hoogste 5 m/sec wordt toelaatbaar geacht.
+
+4. Het sleepnet of het doel voor schietoefeningen mag tijdens het slepen niet zodanig kunnen bewegen dat dit de besturing of de constructie van het sleepvliegtuig of de sleep ontoelaatbaar aantast.
+
+##### Artikel 4. Sleepkabels
+
+1. De sleepkabel voor het slepen van een zweefvliegtuig moet omvatten:
+
+- a. een kabel, vervaardigd van nylon of van materiaal met overeenkomstige eigenschappen en van een zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=5) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig wordt voldaan;
+
+- b. een breukstuk als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2001-12-13&g=2001-12-13), aangebracht zo dicht mogelijk bij de sleephaak van het zweefvliegtuig en van een nominale sterkte als vermeld in het vlieghandboek van het zweefvliegtuig, welke de maximaal toegelaten waarde als vermeld in de sleepbijlage van het vlieghandboek van het sleepvliegtuig niet mag overschrijden;
+
+- c. gladde ringen, passend om de sleephaken van het zweefvliegtuig en het sleepvliegtuig. Deze ringen mogen het ontkoppelen niet belemmeren.
+
+2. De sleepkabel voor het slepen van een sleepnet of een doel voor schietoefeningen moet bevatten:
+
+- a. een kabel van zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=5) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig kan worden voldaan. Indien de kabel wordt gebruikt voor het tijdens de vlucht oppikken van een sleep op de grond, mag de kabel echter niet zo lang zijn dat dit een bezwaar vormt voor het veilig uitvoeren van de oppikmanoeuvre;
+
+- b. een breukstuk, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012875&artikel=5&z=2001-12-13&g=2001-12-13), van de voorgeschreven nominale sterkte. De afstand tussen breukstuk en sleephaak van het vliegtuig mag ten hoogste 2 meter bedragen;
+
+- c. een gladde ring, passend om de sleephaak van het sleepvliegtuig. Deze mag het ontkoppelen niet belemmeren.
+
+3. Indien een sleepkabel een dreg bevat voor het tijdens de vlucht oppikken van een sleepnet van de grond moet de dreg:
+
+- a. van een door de minister toegelaten type zijn;
+
+- b. veilig uit het sleepvliegtuig kunnen worden geworpen zonder delen van het vliegtuig te raken en zonder dat de kabel om delen van het vliegtuig slaat;
+
+- c. van zo danige vorm zijn, dat de vanghaken bij slepen over de grond niet in de grond blijven steken en van zodanige afwerking zijn, dat de vanglijn niet ontoelaatbaar wordt beschadigd;
+
+- d. van zodanig aard zijn, dat bij het ontkoppelen van de sleep de dreg niet van de sleep kan losraken.
+
+4. Alle onderdelen van de sleepkabel, met uitzondering van het breukstuk, moeten een trekkracht kunnen opnemen, welke tenminste 1,5 maal de nominale sterkte van het breukstuk bedraagt en zonder blijvende vervorming een trekkracht kunnen opnemen, welke tenminste 1,15 maal de nominale sterkte van het breukstuk bedraagt.
+
+5. Alle verbindingselementen moeten zodanig zijn geconstrueerd, dat zij tijdens het slepen niet kunnen losraken.
+
+##### Artikel 5. Breukstukken
+
+1. Het breukstuk en de houder waarin het moet zijn opgenomen, moeten deugdelijk en van een door de minister toegelaten type zijn. De deugdelijkheid van de breukstukken kan worden aangetoond door 5 exemplaren van de betrokken productieserie als volgt te beproeven:
+
+- a. het breukstuk mag niet een meetbare, blijvende vormverandering hebben ondergaan, nadat het breukstuk gedurende 5 minuten is belast met een trekkracht van 0,85 maal de nominale sterkte;
+
+- b. de breuksterkte van het breukstuk mag niet groter zijn dan 1,07 maal en niet kleiner dan 0,93 maal de nominale sterkte.
+
+2. Het breukstuk, waarvan de nominale sterkte in de sleepbijlage van het vlieghandboek is vermeld, moet met een of meer kleuren en een ingeslagen merk duidelijk zijn gemerkt.
+
+##### Artikel 6. Gebruik van buitenlandse vliegtuigen
+
+De gezagvoerder van een buitenlands geregistreerd sleepvliegtuig is verplicht een verklaring van de minister mee te voeren waaruit blijkt dat het slepen met bedoeld vliegtuig is toegestaan. Aan deze toestemming kunnen voorwaarden worden verbonden.
+
+##### Artikel 7. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 15 oktober 2001.
+
+##### Artikel 8. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling voorzieningen sleepvliegen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
