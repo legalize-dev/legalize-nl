@@ -4,7 +4,7 @@ identifier: "BWBR0006007"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-01"
-last_updated: "1993-07-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006007"
 soort: "AMvB"
@@ -50,11 +50,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. waren: andere waren dan die waarop de in artikel II, eerste lid, van de Wijzigingswet 1988 [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) (**Stb.** 358) bedoelde besluiten van toepassing zijn;
+- a. waren: andere waren dan die waarop de in artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (**Stb.** 358) bedoelde besluiten van toepassing zijn;
 
 - b. uitvoer: het buiten Nederlands grondgebied brengen van waren;
 
-- c. samenstelling: het geheel van kenmerkende ingrediënten of kenmerkende onderdelen van waren.
+- c. samenstelling: het geheel van kenmerkende ingrediënten of kenmerkende onderdelen van waren;
+
+- d. **verordening (EG) 178/2002**: [verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG L 31).
 
 ##### Artikel 2
 
@@ -62,13 +64,15 @@ De krachtens de [artikelen 4 tot en met 9 van de Warenwet](https://wetten.overhe
 
 - a. voor zover ten aanzien van die waren voorschriften zijn gesteld krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&wetgeving), die betrekking hebben op een onderwerp waarin ook krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving) is voorzien; of
 
-- b. voor zover ten aanzien van waren voorschriften van toepassing zijn welke zijn gesteld in: die betrekking hebben op een onderwerp waarin ook krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving) is voorzien; of
+- b.
 
-- 1°. de Regeling uitvoer vers vlees 1985;
+- a. voor zover ten aanzien van waren voorschriften van toepassing zijn welke zijn gesteld in: die betrekking hebben op een onderwerp waarin ook krachtens de Warenwet is voorzien; of
 
-- 2°. de Regeling uitvoer vleesprodukten 1979; of
+- 1°. de Regeling uitvoer vers vlees en vleesbereidingen 1985;
 
-- 3°. de Regeling keuring en handelsverkeer vers vlees pluimvee 1985;
+- 2°. de Regeling keuring en handelsverkeer vleesproducten 1993; of
+
+- 3°. de Regeling keuring en handel dierlijke producten;
 
 - c. voor zover die waren voldoen aan door het land van bestemming ter zake gestelde specifieke voorschriften, dan wel aan ter zake welbepaalde internationale regelingen, aan de totstandkoming waarvan de Nederlandse regering heeft meegewerkt, en die voorschriften onderscheidenlijk regelingen desgevraagd door de belanghebbende zijn overgelegd ten behoeve van de met het toezicht ter zake belaste autoriteit;
 
@@ -85,5 +89,11 @@ De krachtens de [artikelen 4 tot en met 9 van de Warenwet](https://wetten.overhe
 1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
 2. Dit besluit wordt aangehaald als: Warenwetbesluit Uitvoer van waren.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 1a
+
+Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met artikel 12 van [verordening (EG) 178/2002](32002R0178).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
