@@ -657,5 +657,3 @@ Opmerking: Het bestuursorgaan is hier een Minister. De handeling betreft in de p
 Waardering: B 2.
 
 De Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
-
-De Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
