@@ -169,11 +169,3 @@ Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toe
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Brussel, op 10 juni 1970, in drievoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
-
-##### Artikel 12bis
-
-Deze Overeenkomst is uitsluitend van toepassing in het kader van de uitoefening van de jacht en geldt niet voor de bestrijding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004239&deel=I&artikel=1&z=2021-11-01&g=2021-11-01) bedoelde wildsoorten, die ter voorkoming of beperking van belangrijke schade aan gewassen, vee, bossen, visserij, wateren of allerhande eigendommen, in het belang van de bescherming van de wilde flora en fauna en van de instandhouding van de natuurlijke habitats, dan wel in het belang van de volksgezondheid, de openbare veiligheid of de veiligheid van het luchtverkeer of om andere dwingende redenen van groot openbaar belang door de Overeenkomstsluitende Partijen wordt toegestaan.
-
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
-
-GEDAAN te Brussel, op 10 juni 1970, in drievoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
