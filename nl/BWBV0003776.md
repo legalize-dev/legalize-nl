@@ -1,0 +1,131 @@
+---
+title: "Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken"
+identifier: "BWBV0003776"
+country: "nl"
+rank: "verdrag"
+publication_date: "1973-06-01"
+last_updated: "1973-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003776"
+soort: "verdrag"
+stam_id: "10003706313"
+version_id: "10003767092"
+internal_id: "C10006983851"
+label_id: "10003691454"
+dtd_version: "2.0"
+original_entry_into_force: "1973-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003776/1973-06-01/0"
+intitule_bron: "Trb.1971-160"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-09-02"
+intitule_in_force: "1973-06-19"
+intitule_status: "goed"
+original_publication: "Trb.1971-160"
+original_published_date: "1971-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-160"
+entry_into_force_date: "1973-06-01"
+jci_1_3: "jci1.3:c:BWBV0003776&z=1973-06-01&g=1973-06-01"
+jci_1_0: "1.0:c:BWBV0003776&g=1973-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-06-01"
+---
+# Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken
+
+De Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, handelend te zamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958 enerzijds, en
+
+De Regering van de Unie van Socialistische Sowjet-Republieken anderzijds,
+
+Geleid door de wens hun traditionele economische banden te versterken,
+
+Zijn overeengekomen als volgt:
+
+##### Artikel 1
+
+De Verdragsluitende Partijen kennen elkander in alle aangelegenheden betreffende de handel de behandeling toe van meest begunstigde natie.
+
+##### Artikel 2
+
+De produkten van oorsprong uit het grondgebied van een der Verdragsluitende Partijen zijn, bij hun invoer op het grondgebied van de andere Partij, in geen geval onderworpen aan andere of hogere rechten en heffingen, noch aan strengere of meer bezwarende douanevoorschriften en -formaliteiten, dan die waaraan gelijksoortige produkten van oorsprong uit enig derde land zijn of later worden onderworpen.
+
+Evenzo zijn produkten van oorsprong uit het grondgebied van een der Verdragsluitende Partijen, uitgevoerd naar het grondgebied van de andere Partij in geen geval onderworpen aan andere of hogere rechten en heffingen, noch aan strengere of meer bezwarende douanevoorschriften en -formaliteiten, dan die waaraan gelijksoortige produkten naar enig derde land zijn of later worden onderworpen.
+
+##### Artikel 3
+
+De produkten van oorsprong uit het grondgebied van een der Verdragsluitende Partijen zijn, na hun invoer op het grondgebied van de andere Partij, niet onderworpen aan andere of hogere binnenlandse belastingen en heffingen, noch aan strengere of meer bezwarende voorschriften en formaliteiten, dan die waaraan soortgelijke produkten van oorsprong uit enig derde land zijn of later worden onderworpen.
+
+Evenzo zijn produkten van oorsprong uit het grondgebied van een der Verdragsluitende Partijen, uit te voeren naar het grondgebied van de andere Verdragsluitende Partij, in het uitvoerende land niet onderworpen aan andere of hogere binnenlandse belastingen en heffingen, noch aan strengere of meer bezwarende voorschriften en formaliteiten dan die waaraan soortgelijke produkten bestemd voor enig derde land zijn of later worden onderworpen.
+
+##### Artikel 4
+
+De bepalingen van dit Verdrag betreffen niet:
+
+- a). de door een van de Verdragsluitende Staten toegekende of later toe te kennen voordelen om de grensbetrekkingen met de buurstaten te vergemakkelijken;
+
+- b). de voordelen voortvloeiend uit een douane-unie en een vrijhandelszone, reeds tot stand gebracht, of later tot stand te brengen door een van de Verdragsluitende Partijen.
+
+##### Artikel 5
+
+Geen der Verdragsluitende Partijen stelt in of handhaaft beperkingen of verboden betreffende de invoer afkomstig uit het grondgebied van de andere Partij of de daarvoor bestemde uitvoer die in dezen onder analoge omstandigheden niet worden toegepast ten aanzien van alle andere landen.
+
+De bepalingen van dit Verdrag betreffen niet beperkingen of verboden die betrekking hebben op:
+
+- a). de openbare orde en de veiligheid van de Staat;
+
+- b). de bescherming van de gezondheid en het leven van personen, dieren of planten;
+
+- c). de bescherming van het nationale artistieke, historische en archeologische erfdeel;
+
+- d). de bescherming van de industriële eigendom en van fabrieks- en handelsmerken.
+
+##### Artikel 6
+
+Ter zake van het vervoer van goederen, passagiers en bagage per spoor of over de binnenwateren kennen de Verdragsluitende Partijen elkaar de behandeling toe van meest begunstigde natie wat betreft de toelating tot het vervoer, de wijzen en kosten van vervoer, alsmede de rechten daaraan verbonden.
+
+##### Artikel 7
+
+Onverminderd de tussen de Verdragsluitende Partijen te sluiten overeenkomsten, verleent elke Partij aan de andere de vrije doortocht over haar grondgebied op de voorwaarden die voor elk derde land gelden. Op de voorrechten die, krachtens bijzondere overeenkomsten betreffende de doortocht, door een Verdragsluitende Partij zijn toegekend aan een land dat geen partij is bij dit Verdrag, kan echter door de andere Verdragsluitende Partij geen aanspraak worden gemaakt.
+
+##### Artikel 8
+
+Aangezien de buitenlandse handel volgens de wetgeving van de Unie van Socialistische Sowjet-Republieken een staatsmonopolie is, heeft de Unie van Socialistische Sowjet-Republieken in België en Nederland haar handelsvertegenwoordigingen waarvan het statuut wordt vastgesteld in de heden ondertekende Protocollen.
+
+De diplomatieke functionarissen die bij de diplomatieke missies van België en Nederland te Moskou belast zijn met economische zaken en handelszaken genieten dezelfde rechten en faciliteiten als aan overeenkomstige categorieën functionarissen van handelsvertegenwoordigingen van de Unie van Socialistische Sowjet-Republieken in België en Nederland worden toegekend.
+
+##### Artikel 9
+
+De Belgische, Luxemburgse en Nederlandse handelaren en industriëlen, natuurlijke personen dan wel rechtspersonen in het leven geroepen in overeenstemming met de nationale wetgeving, waaronder begrepen organisaties zonder winstoogmerk belast met de bevordering van het handelsverkeer tussen de Unie van Socialistische Sowjet-Republieken en de Belgisch-Luxemburgse Economische Unie of Nederland, worden wat hun persoon en hun goederen betreft voor de uitoefening, rechtstreeks dan wel door tussenpersonen die zij hebben gekozen, van hun economische activiteit op het grondgebied van de Unie van Socialistische Sowjet-Republieken, op de voorwaarden waarop deze activiteit is toegestaan door de wetgeving van de Unie van Socialistische Sowjet-Republieken, even gunstig behandeld als de onderdanen en de rechtspersonen van de meest begunstigde natie.
+
+De economische Staatsorganisaties van de Sowjet-Unie en de andere rechtspersonen die overeenkomstig de Sowjet-wetgeving in het leven zijn geroepen, alsmede de onderdanen van de Sowjet-Unie, worden wat hun persoon en hun goederen betreft voor de uitoefening, rechtstreeks dan wel door tussenpersonen die zij hebben gekozen, van hun economische activiteit op het grondgebied van België, het Groothertogdom Luxemburg en Nederland, op de voorwaarden waarop deze activiteit is toegestaan door de wetgeving van deze landen, even gunstig behandeld als de onderdanen en rechtspersonen van de meest begunstigde natie.
+
+De onderdanen en rechtspersonen van iedere Verdragsluitende Staat kunnen in rechte optreden en genieten vrije en gemakkelijke toegang tot de rechtbanken van de andere Verdragsluitende Partij.
+
+##### Artikel 10
+
+De regeling van geschillen die zich kunnen voordoen bij de tenuitvoerlegging van contracten die betrekking hebben op het handelsverkeer tussen de Verdragsluitende Partijen kan geschieden door middel van arbitrage.
+
+##### Artikel 11
+
+Elk geschil tussen de Regering van de Unie van Socialistische Sowjet-Republieken en een der Regeringen van de Beneluxlanden inzake de uitlegging of toepassing van dit Verdrag waarvoor niet langs diplomatieke weg een bevredigende oplossing wordt gevonden, kan in gemeen overleg tussen de partijen bij het geschil worden onderworpen aan het oordeel van het Internationale Gerechtshof.
+
+Indien het geschil niet wordt onderworpen aan de jurisdictie van het Internationaal Gerechtshof kan het in gemeen overleg tussen de partijen bij het geschil worden onderworpen aan arbitrage. Het is wel verstaan dat slechts de in gemeen overleg door de partijen bij het geschil aangewezen personen het ambt van scheidsman kunnen bekleden.
+
+##### Artikel 12
+
+Van de datum van inwerkingtreding van dit Verdrag af zijn de nota's gewisseld tussen de Ambassade van de Unie van Socialistische Sowjet-Republieken in Nederland en het Ministerie van Buitenlandse Zaken van Nederland op 1 en 24 oktober 1945, alsmede de Voorlopige Handelsovereenkomst tussen de Unie van Socialistische Sowjet-Republieken en de Belgisch-Luxemburgse Economische Unie, ondertekend op 5 september 1935 te Parijs, vervallen met uitzondering van artikel 5 van genoemde Voorlopige Handelsovereenkomst dat, ingeval een Verdrag inzake de Handelsscheepvaart wordt gesloten tussen de Unie van Socialistische Sowjet-Republieken en de Belgisch-Luxemburgse Economische Unie, met ingang van de datum van inwerkingtreding van een zodanig Verdrag vervalt.
+
+##### Artikel 13
+
+Dit Verdrag dient zo spoedig mogelijk door de Verdragsluitende Staten te worden bekrachtigd.
+
+De akten van bekrachtiging dienen te worden nedergelegd bij de Regering van het Koninkrijk België die de andere Verdragsluitende Staten van de nederlegging in kennis stelt.
+
+Dit Verdrag treedt in werking op de eerste dag van de maand volgend op de datum van nederlegging van de laatste akte van bekrachtiging.
+
+##### Artikel 14
+
+Dit Verdrag wordt gesloten voor onbeperkte duur. Het kan worden opgezegd met een opzegtermijn van twaalf maanden; de opzegging van het Verdrag door de Unie van Socialistische Sowjet-Republieken dient door haar Regering gelijktijdig te worden medegedeeld aan de Belgische, de Luxemburgse en de Nederlandse Regering. De opzegging van het Verdrag door de Lid-Staten van de Benelux Economische Unie dient gelijktijdig door de Belgische, de Luxemburgse en de Nederlandse Regering te worden medegedeeld aan de Regering van de Unie van Socialistische Sowjet-Republieken.
+
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend.
+
+GEDAAN te Brussel, op 14 juli 1971, in vier originelen elk in de Nederlandse, de Franse en de Russische taal, zijnde deze drie teksten gelijkelijk gezaghebbend.
