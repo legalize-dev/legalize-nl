@@ -4,7 +4,7 @@ identifier: "BWBR0013257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2002-01-01"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013257"
 soort: "ministeriele-regeling"
@@ -59,13 +59,11 @@ De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maand
 
 ##### Artikel 3. Kostenvergoedingen
 
-1. Een lid heeft recht op een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen van de voor het UWV geldende CAO.
+1. Een lid heeft recht op een vergoeding van reis- en verblijfkosten overeenkomstig de regeling van het UWV voor het vergoeden van reis- en verblijfkosten.
 
-2. Een lid ontvangt en vaste onkostenvergoeding van € 2268,90 per jaar.
+2. Een lid ontvangt een representatievergoeding overeenkomstig het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102).
 
-3. De vergoeding, bedoeld in het tweede lid, wordt zover en zolang fiscaal mogelijk netto uitbetaald.
-
-4. Een lid ontvangt een tegemoetkoming in de ziektekosten overeenkomstig het de bepalingen van de voor het UWV geldende CAO.
+3. Een lid ontvangt een tegemoetkoming in de ziektekosten overeenkomstig de bepalingen van de voor het UWV geldende CAO.
 
 ##### Artikel 4. Verlof
 
