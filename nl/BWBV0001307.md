@@ -267,27 +267,3 @@ Elke Staat of intergouvernementele organisatie kan de Secretaris-Generaal te all
 IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed this Agreement in a single original in the English language, which shall be deposited with the Secretary General who shall send copies thereof to all the Members of the Institute.
 
 DONE in the English language at Stockholm on the 27th of February 1995.
-
-##### Artikel I. Oprichting, vestigingsplaats en rechtspositie
-
-1. De Partijen bij dit Verdrag richten hierbij het Internationaal Instituut voor democratie en verkiezingsondersteuning op als een intergouvernementele organisatie, hierna te noemen „het Instituut’’.
-
-2. De zetel van het Instituut is gevestigd te Stockholm, tenzij de Raad besluit het Instituut naar elders te verplaatsen. Het Instituut kan in andere plaatsen kantoren vestigen, indien nodig ter ondersteuning van zijn programma.
-
-3. Het Instituut bezit volledige rechtspersoonlijkheid en heeft de bevoegdheden die noodzakelijk zijn om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, onder meer de bevoegdheid om:
-
-- a. onroerende en roerende zaken te verkrijgen en te vervreemden;
-
-- b. contracten en andere soorten overeenkomsten aan te gaan;
-
-- c. personen in dienst te nemen en uitgeleend personeel te aanvaarden;
-
-- d. in rechte op te treden;
-
-- e. het geld en het vermogen van het Instituut te beleggen; en
-
-- f. andere rechtmatige stappen te ondernemen om de doelstellingen van het Instituut te verwezenlijken.
-
-IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed this Agreement in a single original in the English language, which shall be deposited with the Secretary General who shall send copies thereof to all the Members of the Institute.
-
-DONE in the English language at Stockholm on the 27th of February 1995.
