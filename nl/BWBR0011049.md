@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2000-01-01"
+last_updated: "2002-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -70,11 +70,9 @@ Voor de toepassing van dit besluit wordt onder werkzaamheden die in het algemeen
 
 In afwijking van de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [43b, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), heeft de verzekerde, die werkzaamheden in het algemeen belang verricht, of zijn in hetzelfde land wonende gezinslid, recht op toekenning van arbeidsongeschiktheidsuitkering dan wel wordt de arbeidsongeschiktheidsuitkering niet ingetrokken.
 
-##### Artikel 4. Recht op arbeidsongeschiktheidsuitkering en recht op een uitkering in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 4. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-1. In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, die werkzaamheden in het algemeen belang verricht, of zijn in hetzelfde land wonende gezinslid, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet.
-
-2. Het eerste lid is van overeenkomstige toepassing op het recht op uitkering in verband met bevalling.
+In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, die werkzaamheden in het algemeen belang verricht, of zijn in hetzelfde land wonende gezinslid, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet.
 
 ##### Artikel 5. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -118,11 +116,9 @@ In afwijking van [artikel 19a, eerste lid, van de Ziektewet](https://wetten.over
 
 In afwijking van de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [43b, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), heeft de verzekerde, bedoeld in die artikelen, recht op toekenning van arbeidsongeschiktheidsuitkering dan wel wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien deze verzekerde op de Nederlandse Antillen woont.
 
-##### Artikel 10. Recht op arbeidsongeschiktheidsuitkering en recht op een uitkering in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 10. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-1. In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde op de Nederlandse Antillen woont.
-
-2. Het eerste lid is van overeenkomstige toepassing op het recht op uitkering in verband met bevalling.
+In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde op de Nederlandse Antillen woont.
 
 ##### Artikel 11. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -162,11 +158,9 @@ In afwijking van de [artikelen 19a, eerste lid, van de Ziektewet](https://wetten
 
 In afwijking van de [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [artikel 43b, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), heeft de verzekerde, bedoeld in die artikelen, recht op toekenning van arbeidsongeschiktheidsuitkering dan wel wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien deze verzekerde op Aruba woont.
 
-##### Artikel 16. Recht op arbeidsongeschiktheidsuitkering en recht op een uitkering in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 16. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-1. In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde op Aruba woont.
-
-2. Het eerste lid is van overeenkomstige toepassing op het recht op uitkering in verband met bevalling.
+In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde op Aruba woont.
 
 ##### Artikel 17. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -200,15 +194,15 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 
 ##### Artikel 20. Tijdelijk recht op uitkering op de Nederlandse Antillen
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2000-01-01&g=2000-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2000-01-01&g=2000-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21. Tijdelijk recht op uitkering op Aruba
 
-1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2000-01-01&g=2000-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2000-01-01&g=2000-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 22. Inwerkingtreding
 
