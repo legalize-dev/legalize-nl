@@ -4,7 +4,7 @@ identifier: "BWBV0001432"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-10-22"
-last_updated: "2004-02-24"
+last_updated: "2005-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001432"
 soort: "verdrag"
@@ -84,7 +84,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - h. „Regionale organisatie voor economische integratie”, een door soevereine Staten in een bepaalde regio opgerichte organisatie, waaraan door haar lidstaten bevoegdheden zijn overgedragen ten aanzien van de in dit Verdrag geregelde aangelegenheden en die, in overeenstemming met haar interne procedures, gemachtigd is dit Verdrag te ondertekenen, te bekrachtigen, te aanvaarden, goed te keuren dan wel daartoe toe te treden;
 
-- i. „Commissie ter beoordeling van chemische stoffen”, het in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=18&z=2004-02-24&g=2004-02-24), bedoelde hulporgaan.
+- i. „Commissie ter beoordeling van chemische stoffen”, het in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=18&z=2005-02-01&g=2005-02-01), bedoelde hulporgaan.
 
 ##### Artikel 3. Toepassingsgebied van het Verdrag
 
@@ -128,59 +128,59 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 5. Procedures voor verboden of aan strenge beperkingen onderworpen chemische stoffen
 
-1. Elke Partij die definitieve regelgeving heeft vastgesteld, stelt het Secretariaat daarvan schriftelijk in kennis. Deze kennisgeving dient zo snel mogelijk te geschieden en in elk geval binnen 90 dagen na de datum waarop de definitieve regelgeving van kracht is geworden, en zij bevat, indien beschikbaar, de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) bedoelde informatie.
+1. Elke Partij die definitieve regelgeving heeft vastgesteld, stelt het Secretariaat daarvan schriftelijk in kennis. Deze kennisgeving dient zo snel mogelijk te geschieden en in elk geval binnen 90 dagen na de datum waarop de definitieve regelgeving van kracht is geworden, en zij bevat, indien beschikbaar, de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) bedoelde informatie.
 
 2. Elke Partij stelt het Secretariaat uiterlijk op de voor haar geldende datum van inwerkingtreding van dit Verdrag schriftelijk in kennis van de definitieve regelgeving die op dat ogenblik van kracht is, uitgezonderd de Partijen die de geldende definitieve regelgeving reeds hebben meegedeeld in het kader van de Gewijzigde Richtlijnen van Londen of van de Internationale Gedragscode en dus geen nieuwe kennisgeving hoeven in te dienen.
 
-3. Zo spoedig mogelijk en in elk geval binnen zes maanden na ontvangst van een kennisgeving op grond van het eerste en het tweede lid onderzoekt het Secretariaat of de kennisgeving de volgens [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) vereiste gegevens bevat. Indien de kennisgeving de vereiste informatie bevat, stuurt het Secretariaat onverwijld aan alle Partijen een samenvatting van de ontvangen informatie. Indien de kennisgeving niet de vereiste informatie bevat, brengt het de kennisgevende Partij daarvan op de hoogte.
+3. Zo spoedig mogelijk en in elk geval binnen zes maanden na ontvangst van een kennisgeving op grond van het eerste en het tweede lid onderzoekt het Secretariaat of de kennisgeving de volgens [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) vereiste gegevens bevat. Indien de kennisgeving de vereiste informatie bevat, stuurt het Secretariaat onverwijld aan alle Partijen een samenvatting van de ontvangen informatie. Indien de kennisgeving niet de vereiste informatie bevat, brengt het de kennisgevende Partij daarvan op de hoogte.
 
-4. Om de zes maanden geeft het Secretariaat aan de Partijen een overzicht van de op grond van het eerste en tweede lid ontvangen informatie, met inbegrip van de kennisgevingen die niet alle in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) bedoelde gegevens bevatten.
+4. Om de zes maanden geeft het Secretariaat aan de Partijen een overzicht van de op grond van het eerste en tweede lid ontvangen informatie, met inbegrip van de kennisgevingen die niet alle in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) bedoelde gegevens bevatten.
 
-5. Als het Secretariaat voor een bepaalde chemische stof ten minste één kennisgeving heeft ontvangen van minstens twee regio's waarvoor de procedure van Voorafgaande Geïnformeerde Toestemming geldt, en heeft nagegaan of deze kennisgevingen aan het vereiste van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) beantwoorden, stuurt het Secretariaat deze kennisgevingen door aan de Commissie ter beoordeling van chemische stoffen. De gebieden waarvoor de procedure van Voorafgaande Geïnformeerde Toestemming geldt, worden bij besluit vastgesteld, welk besluit door de Conferentie van de Partijen op haar eerste vergadering bij consensus moet worden goedgekeurd.
+5. Als het Secretariaat voor een bepaalde chemische stof ten minste één kennisgeving heeft ontvangen van minstens twee regio's waarvoor de procedure van Voorafgaande Geïnformeerde Toestemming geldt, en heeft nagegaan of deze kennisgevingen aan het vereiste van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) beantwoorden, stuurt het Secretariaat deze kennisgevingen door aan de Commissie ter beoordeling van chemische stoffen. De gebieden waarvoor de procedure van Voorafgaande Geïnformeerde Toestemming geldt, worden bij besluit vastgesteld, welk besluit door de Conferentie van de Partijen op haar eerste vergadering bij consensus moet worden goedgekeurd.
 
-6. De Commissie ter beoordeling van chemische stoffen beoordeelt de in die kennisgevingen meegedeelde informatie en doet, met inachtneming van de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2004-02-24&g=2004-02-24) vermelde criteria, een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de chemische stof de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en deze bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) moet worden opgenomen.
+6. De Commissie ter beoordeling van chemische stoffen beoordeelt de in die kennisgevingen meegedeelde informatie en doet, met inachtneming van de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2005-02-01&g=2005-02-01) vermelde criteria, een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de chemische stof de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en deze bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) moet worden opgenomen.
 
 ##### Artikel 6. Procedures voor zeer gevaarlijke pesticideformuleringen
 
-1. Een ontwikkelingsland of een land met een overgangseconomie dat Partij is bij het Verdrag en dat als gevolg van het gebruik op zijn grondgebied, onder de gewone gebruiksvoorwaarden, van een zeer gevaarlijke pesticideformulering problemen ondervindt, kan aan het Secretariaat voorstellen de zeer gevaarlijke pesticideformulering in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) op te nemen. Bij het opstellen van haar voorstel kan de Partij een beroep doen op technische expertise uit alle mogelijke bronnen. In het voorstel wordt de in [deel 1 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=1&z=2004-02-24&g=2004-02-24) bedoelde informatie opgenomen.
+1. Een ontwikkelingsland of een land met een overgangseconomie dat Partij is bij het Verdrag en dat als gevolg van het gebruik op zijn grondgebied, onder de gewone gebruiksvoorwaarden, van een zeer gevaarlijke pesticideformulering problemen ondervindt, kan aan het Secretariaat voorstellen de zeer gevaarlijke pesticideformulering in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) op te nemen. Bij het opstellen van haar voorstel kan de Partij een beroep doen op technische expertise uit alle mogelijke bronnen. In het voorstel wordt de in [deel 1 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=1&z=2005-02-01&g=2005-02-01) bedoelde informatie opgenomen.
 
-2. Zo spoedig mogelijk, en uiterlijk zes maanden na ontvangst van een voorstel op grond van het eerste lid, verifieert het Secretariaat of het betrokken voorstel de in [deel 1 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=1&z=2004-02-24&g=2004-02-24) bedoelde vereiste gegevens bevat. Indien het voorstel de vereiste informatie bevat, stuurt het Secretariaat onverwijld aan alle Partijen een samenvatting van de ontvangen informatie. Indien het voorstel niet de vereiste informatie bevat, stelt het de Partij die het voorstel heeft ingediend, daarvan in kennis.
+2. Zo spoedig mogelijk, en uiterlijk zes maanden na ontvangst van een voorstel op grond van het eerste lid, verifieert het Secretariaat of het betrokken voorstel de in [deel 1 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=1&z=2005-02-01&g=2005-02-01) bedoelde vereiste gegevens bevat. Indien het voorstel de vereiste informatie bevat, stuurt het Secretariaat onverwijld aan alle Partijen een samenvatting van de ontvangen informatie. Indien het voorstel niet de vereiste informatie bevat, stelt het de Partij die het voorstel heeft ingediend, daarvan in kennis.
 
-3. Ten aanzien van het op grond van het tweede lid ingediende voorstel verzamelt het Secretariaat de in [deel 2 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=2&z=2004-02-24&g=2004-02-24) bedoelde aanvullende informatie.
+3. Ten aanzien van het op grond van het tweede lid ingediende voorstel verzamelt het Secretariaat de in [deel 2 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=2&z=2005-02-01&g=2005-02-01) bedoelde aanvullende informatie.
 
 4. Als met betrekking tot een bepaalde zeer gevaarlijke pesticideformulering aan de in het tweede en derde lid vermelde voorwaarden is voldaan, geeft het Secretariaat het voorstel en de betreffende informatie door aan de Commissie ter beoordeling van chemische stoffen.
 
-5. De Commissie ter beoordeling van chemische stoffen beoordeelt de in het voorstel vervatte informatie en de verzamelde aanvullende informatie en doet met inachtneming van de in [deel 3 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=3&z=2004-02-24&g=2004-02-24) vermelde criteria een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de zeer gevaarlijke pesticideformulering de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) moet worden opgenomen.
+5. De Commissie ter beoordeling van chemische stoffen beoordeelt de in het voorstel vervatte informatie en de verzamelde aanvullende informatie en doet met inachtneming van de in [deel 3 van Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&deel=3&z=2005-02-01&g=2005-02-01) vermelde criteria een aanbeveling aan de Conferentie van de Partijen betreffende de vraag of voor de zeer gevaarlijke pesticideformulering de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) moet worden opgenomen.
 
-##### Artikel 7. Lijst van chemische stoffen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24)
+##### Artikel 7. Lijst van chemische stoffen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01)
 
-1. Voor elke chemische stof waarvoor de Commissie ter beoordeling van chemische stoffen heeft besloten opneming in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) aan te bevelen, stelt deze Commissie een ontwerpleidraad voor een besluit op. Dit ontwerp behoort ten minste gebaseerd te zijn op de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) of, naar gelang van het geval, in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2004-02-24&g=2004-02-24) bedoelde gegevens, en bevat informatie over de toepassingen van de chemische stof in een andere categorie dan die waarvoor de definitieve regelgeving geldt.
+1. Voor elke chemische stof waarvoor de Commissie ter beoordeling van chemische stoffen heeft besloten opneming in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) aan te bevelen, stelt deze Commissie een ontwerpleidraad voor een besluit op. Dit ontwerp behoort ten minste gebaseerd te zijn op de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) of, naar gelang van het geval, in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2005-02-01&g=2005-02-01) bedoelde gegevens, en bevat informatie over de toepassingen van de chemische stof in een andere categorie dan die waarvoor de definitieve regelgeving geldt.
 
-2. De in het eerste lid bedoelde aanbeveling en het daarin bedoelde ontwerp, leidraad voor een besluit, worden aan de Conferentie van de Partijen toegezonden. De Conferentie van de Partijen beslist of voor de chemische stof de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en of deze bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) moet worden opgenomen, en keurt de ontwerpleidraad voor een besluit goed.
+2. De in het eerste lid bedoelde aanbeveling en het daarin bedoelde ontwerp, leidraad voor een besluit, worden aan de Conferentie van de Partijen toegezonden. De Conferentie van de Partijen beslist of voor de chemische stof de procedure van Voorafgaande Geïnformeerde Toestemming moet worden toegepast en of deze bijgevolg in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) moet worden opgenomen, en keurt de ontwerpleidraad voor een besluit goed.
 
-3. Wanneer is besloten een chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) op te nemen en de bijbehorende ontwerpleidraad voor een besluit door de Conferentie van de Partijen is goedgekeurd, geeft het Secretariaat deze informatie onmiddellijk aan alle Partijen door.
+3. Wanneer is besloten een chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) op te nemen en de bijbehorende ontwerpleidraad voor een besluit door de Conferentie van de Partijen is goedgekeurd, geeft het Secretariaat deze informatie onmiddellijk aan alle Partijen door.
 
 ##### Artikel 8. Chemische stoffen in het kader van de vrijwillig toegepaste procedure van Voorafgaande Geïnformeerde Toestemming
 
-Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) is opgenomen maar waarvoor de procedure van de Voorafgaande Geïnformeerde Toestemming op vrijwillige basis is toegepast vóór de eerste vergadering van de Conferentie van de Partijen, besluit de Conferentie van de Partijen op die vergadering deze chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) op te nemen, voor zover zij er zeker van is dat aan alle voor opneming in [die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) geldende voorwaarden is voldaan.
+Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) is opgenomen maar waarvoor de procedure van de Voorafgaande Geïnformeerde Toestemming op vrijwillige basis is toegepast vóór de eerste vergadering van de Conferentie van de Partijen, besluit de Conferentie van de Partijen op die vergadering deze chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) op te nemen, voor zover zij er zeker van is dat aan alle voor opneming in [die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) geldende voorwaarden is voldaan.
 
-##### Artikel 9. Schrappen van chemische stoffen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24)
+##### Artikel 9. Schrappen van chemische stoffen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01)
 
-1. Als een Partij bij het Secretariaat informatie indient die niet beschikbaar was op het ogenblik waarop is besloten de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) op te nemen, en uit de informatie blijkt dat opname in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) mogelijk niet langer is gerechtvaardigd, gelet op de ter zake geldende criteria van [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2004-02-24&g=2004-02-24) of, naar gelang van het geval, [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2004-02-24&g=2004-02-24), geeft het Secretariaat deze informatie door aan de Commissie ter beoordeling van chemische stoffen.
+1. Als een Partij bij het Secretariaat informatie indient die niet beschikbaar was op het ogenblik waarop is besloten de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) op te nemen, en uit de informatie blijkt dat opname in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) mogelijk niet langer is gerechtvaardigd, gelet op de ter zake geldende criteria van [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2005-02-01&g=2005-02-01) of, naar gelang van het geval, [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2005-02-01&g=2005-02-01), geeft het Secretariaat deze informatie door aan de Commissie ter beoordeling van chemische stoffen.
 
-2. De Commissie ter beoordeling van chemische stoffen beoordeelt de ontvangen informatie als bedoeld in het eerste lid. Voor elke chemische stof waarvoor de Commissie ter beoordeling van chemische stoffen op grond van de desbetreffende criteria van [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2004-02-24&g=2004-02-24) of, naar gelang van het geval, van [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2004-02-24&g=2004-02-24), besluit het schrappen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) aan te bevelen, stelt de Commissie een gewijzigde ontwerpleidraad voor een besluit op.
+2. De Commissie ter beoordeling van chemische stoffen beoordeelt de ontvangen informatie als bedoeld in het eerste lid. Voor elke chemische stof waarvoor de Commissie ter beoordeling van chemische stoffen op grond van de desbetreffende criteria van [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=II&z=2005-02-01&g=2005-02-01) of, naar gelang van het geval, van [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2005-02-01&g=2005-02-01), besluit het schrappen uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) aan te bevelen, stelt de Commissie een gewijzigde ontwerpleidraad voor een besluit op.
 
-3. De in het tweede lid bedoelde aanbeveling wordt aan de Conferentie van de Partijen toegezonden, vergezeld van een gewijzigde ontwerpleidraad voor een besluit. De Conferentie van de Partijen beslist of de chemische stof uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) moet worden geschrapt en of de gewijzigde ontwerpleidraad voor een besluit moet worden goedgekeurd.
+3. De in het tweede lid bedoelde aanbeveling wordt aan de Conferentie van de Partijen toegezonden, vergezeld van een gewijzigde ontwerpleidraad voor een besluit. De Conferentie van de Partijen beslist of de chemische stof uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) moet worden geschrapt en of de gewijzigde ontwerpleidraad voor een besluit moet worden goedgekeurd.
 
-4. Als de Conferentie van de Partijen heeft besloten een chemische stof uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) te schrappen en zij de gewijzigde ontwerpleidraad voor een besluit heeft goedgekeurd, deelt het Secretariaat deze informatie onmiddellijk aan alle Partijen mee.
+4. Als de Conferentie van de Partijen heeft besloten een chemische stof uit [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) te schrappen en zij de gewijzigde ontwerpleidraad voor een besluit heeft goedgekeurd, deelt het Secretariaat deze informatie onmiddellijk aan alle Partijen mee.
 
-##### Artikel 10. Verplichtingen met betrekking tot de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) opgenomen chemische stoffen
+##### Artikel 10. Verplichtingen met betrekking tot de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) opgenomen chemische stoffen
 
-1. Elke Partij treft de nodige wettelijke of bestuursrechtelijke maatregelen om ervoor te zorgen dat tijdig een besluit kan worden genomen betreffende de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stoffen.
+1. Elke Partij treft de nodige wettelijke of bestuursrechtelijke maatregelen om ervoor te zorgen dat tijdig een besluit kan worden genomen betreffende de invoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stoffen.
 
-2. Zo spoedig mogelijk, en in elk geval uiterlijk negen maanden na de datum van verzending van de in [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=7&z=2004-02-24&g=2004-02-24), bedoelde ontwerpleidraad voor een besluit, zendt elke Partij bij het Secretariaat een antwoord in ten aanzien van de toekomstige invoer van de betrokken chemische stof. Als een Partij haar antwoord wijzigt, dient zij het gewijzigde antwoord onmiddellijk bij het Secretariaat in.
+2. Zo spoedig mogelijk, en in elk geval uiterlijk negen maanden na de datum van verzending van de in [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=7&z=2005-02-01&g=2005-02-01), bedoelde ontwerpleidraad voor een besluit, zendt elke Partij bij het Secretariaat een antwoord in ten aanzien van de toekomstige invoer van de betrokken chemische stof. Als een Partij haar antwoord wijzigt, dient zij het gewijzigde antwoord onmiddellijk bij het Secretariaat in.
 
-3. Zodra de in het tweede lid vermelde termijn verstreken is, zendt het Secretariaat aan de Partij die geen antwoord heeft gegeven, een schriftelijk verzoek om dit te doen. Is de betrokken Partij niet in staat een antwoord te geven, dan kan het Secretariaat, waar passend, bijstand verlenen om binnen de in de laatste zin van [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=11&z=2004-02-24&g=2004-02-24), vermelde termijn een antwoord te geven.
+3. Zodra de in het tweede lid vermelde termijn verstreken is, zendt het Secretariaat aan de Partij die geen antwoord heeft gegeven, een schriftelijk verzoek om dit te doen. Is de betrokken Partij niet in staat een antwoord te geven, dan kan het Secretariaat, waar passend, bijstand verlenen om binnen de in de laatste zin van [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=11&z=2005-02-01&g=2005-02-01), vermelde termijn een antwoord te geven.
 
 4. Het in het tweede lid bedoelde antwoord is:
 
@@ -202,15 +202,15 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 - iv. een verzoek aan het Secretariaat om bijstand voor de evaluatie van de betrokken chemische stof.
 
-5. Een antwoord als bedoeld in het vierde lid, onder a) of onder b), betreft de voor de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde categorie of categorieën.
+5. Een antwoord als bedoeld in het vierde lid, onder a) of onder b), betreft de voor de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde categorie of categorieën.
 
 6. Een definitief besluit behoort vergezeld te gaan van een beschrijving van de wettelijke of bestuursrechtelijke maatregelen waarop het is gebaseerd.
 
-7. Alle Partijen zenden de antwoorden voor elke in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stof naar het Secretariaat, uiterlijk op de voor hen vastgestelde datum van inwerkingtreding van dit Verdrag. Een Partij die die antwoorden reeds heeft gegeven in het kader van de Gewijzigde Richtlijnen van Londen of van de Internationale Gedragscode, hoeft deze niet nogmaals in te dienen.
+7. Alle Partijen zenden de antwoorden voor elke in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stof naar het Secretariaat, uiterlijk op de voor hen vastgestelde datum van inwerkingtreding van dit Verdrag. Een Partij die die antwoorden reeds heeft gegeven in het kader van de Gewijzigde Richtlijnen van Londen of van de Internationale Gedragscode, hoeft deze niet nogmaals in te dienen.
 
 8. Elke Partij stelt overeenkomstig haar wettelijke en bestuursrechtelijke bepalingen haar in dit artikel bedoelde antwoorden ter beschikking van de belanghebbenden in haar rechtsgebied.
 
-9. Een Partij die op grond van het tweede en vierde lid van dit artikel, en van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=11&z=2004-02-24&g=2004-02-24), besluit de invoer van een chemische stof niet toe te staan of alleen onder nader bepaalde voorwaarden toe te staan, moet, tenzij dit reeds is gebeurd, tegelijkertijd een verbod instellen of dezelfde voorwaarden opleggen voor:
+9. Een Partij die op grond van het tweede en vierde lid van dit artikel, en van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=11&z=2005-02-01&g=2005-02-01), besluit de invoer van een chemische stof niet toe te staan of alleen onder nader bepaalde voorwaarden toe te staan, moet, tenzij dit reeds is gebeurd, tegelijkertijd een verbod instellen of dezelfde voorwaarden opleggen voor:
 
 - a. de invoer van deze chemische stof van elke andere oorsprong; en
 
@@ -218,21 +218,21 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 10. Het Secretariaat stelt om de zes maanden alle Partijen in kennis van de antwoorden die het heeft ontvangen. Die informatie omvat, indien voorhanden, een beschrijving van de wettelijke of bestuursrechtelijke maatregelen waarop de besluiten gebaseerd zijn. Het Secretariaat meldt de Partijen bovendien de gevallen waarin geen antwoord is ingezonden.
 
-##### Artikel 11. Verplichtingen met betrekking tot de uitvoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stoffen
+##### Artikel 11. Verplichtingen met betrekking tot de uitvoer van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stoffen
 
 1. Elke uitvoerende Partij:
 
-- a. neemt passende wettelijke of bestuursrechtelijke maatregelen om de door het Secretariaat gestuurde antwoorden overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24), op haar beurt aan de belanghebbenden in haar rechtsgebied mee te delen;
+- a. neemt passende wettelijke of bestuursrechtelijke maatregelen om de door het Secretariaat gestuurde antwoorden overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01), op haar beurt aan de belanghebbenden in haar rechtsgebied mee te delen;
 
-- b. treft de passende wettelijke of bestuursrechtelijke maatregelen om ervoor te zorgen dat de in elk antwoord vervatte besluiten uiterlijk zes maanden na de datum waarop het Secretariaat de Partijen overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24), voor het eerst van het antwoord op de hoogte heeft gebracht, door de exporteurs in haar rechtsgebied in acht worden genomen;
+- b. treft de passende wettelijke of bestuursrechtelijke maatregelen om ervoor te zorgen dat de in elk antwoord vervatte besluiten uiterlijk zes maanden na de datum waarop het Secretariaat de Partijen overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01), voor het eerst van het antwoord op de hoogte heeft gebracht, door de exporteurs in haar rechtsgebied in acht worden genomen;
 
 - c. verleent invoerende Partijen, op hun verzoek, het passende advies en de passende bijstand:
 
-- i. om nadere informatie te verkrijgen teneinde hen te helpen maatregelen te treffen als bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24), en het tweede lid van het onderhavige artikel, onder c); en
+- i. om nadere informatie te verkrijgen teneinde hen te helpen maatregelen te treffen als bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01), en het tweede lid van het onderhavige artikel, onder c); en
 
 - ii. ter verbetering van hun deskundigheid en capaciteit om chemische stoffen gedurende de volledige levensduur ervan veilig te beheren.
 
-2. Elke Partij zorgt ervoor dat een in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stof niet uit haar grondgebied wordt uitgevoerd naar een invoerende Partij die er door uitzonderlijke omstandigheden niet in is geslaagd een antwoord mee te delen of die een voorlopig antwoord zonder voorlopig besluit heeft meegedeeld, tenzij:
+2. Elke Partij zorgt ervoor dat een in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stof niet uit haar grondgebied wordt uitgevoerd naar een invoerende Partij die er door uitzonderlijke omstandigheden niet in is geslaagd een antwoord mee te delen of die een voorlopig antwoord zonder voorlopig besluit heeft meegedeeld, tenzij:
 
 - a. het om een chemische stof gaat die op het ogenblik van invoer bij de invoerende Partij geregistreerd staat als chemische stof; of
 
@@ -240,11 +240,11 @@ Voor elke chemische stof die niet in [Bijlage III](https://wetten.overheid.nl/jc
 
 - c. de exporteur via een aangewezen nationale autoriteit van de invoerende Partij expliciet toestemming tot invoer heeft gevraagd en gekregen. De invoerende Partij beantwoordt een dergelijke aanvraag binnen zestig dagen en deelt haar besluit onverwijld aan het Secretariaat mee.
 
-De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende één jaar vanaf de laatste dag van de zesde maand na de datum waarop het Secretariaat de Partijen, overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24), voor het eerst heeft gemeld dat een Partij er niet in geslaagd is een antwoord te zenden of dat een Partij een voorlopig antwoord zonder voorlopig besluit heeft gezonden.
+De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende één jaar vanaf de laatste dag van de zesde maand na de datum waarop het Secretariaat de Partijen, overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01), voor het eerst heeft gemeld dat een Partij er niet in geslaagd is een antwoord te zenden of dat een Partij een voorlopig antwoord zonder voorlopig besluit heeft gezonden.
 
 ##### Artikel 12. Kennisgeving van uitvoer
 
-1. Indien een chemische stof die door een Partij verboden of aan strenge beperkingen onderworpen is, van het grondgebied van deze Partij wordt uitgevoerd, geeft deze Partij aan de invoerende Partij een kennisgeving van uitvoer. De kennisgeving van uitvoer bevat de in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=V&z=2004-02-24&g=2004-02-24) bedoelde informatie.
+1. Indien een chemische stof die door een Partij verboden of aan strenge beperkingen onderworpen is, van het grondgebied van deze Partij wordt uitgevoerd, geeft deze Partij aan de invoerende Partij een kennisgeving van uitvoer. De kennisgeving van uitvoer bevat de in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=V&z=2005-02-01&g=2005-02-01) bedoelde informatie.
 
 2. De kennisgeving van uitvoer van die chemische stof vindt plaats vóór de eerste uitvoer na de aanneming van de corresponderende definitieve regelgeving. Daarna vindt de kennisgeving van uitvoer plaats vóór de eerste uitvoer van het kalenderjaar. De verplichting om de uitvoer vooraf te melden kan worden opgeheven door de aangewezen nationale autoriteit van de invoerende Partij.
 
@@ -254,17 +254,17 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 5. De in het eerste lid vermelde verplichtingen van een Partij komen te vervallen wanneer:
 
-- a. de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) wordt opgenomen;
+- a. de chemische stof in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) wordt opgenomen;
 
-- b. de invoerende Partij voor deze chemische stof aan het Secretariaat een antwoord heeft meegedeeld overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24); en
+- b. de invoerende Partij voor deze chemische stof aan het Secretariaat een antwoord heeft meegedeeld overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01); en
 
-- c. het Secretariaat dit antwoord onder de Partijen heeft verspreid overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2004-02-24&g=2004-02-24).
+- c. het Secretariaat dit antwoord onder de Partijen heeft verspreid overeenkomstig [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=10&z=2005-02-01&g=2005-02-01).
 
 ##### Artikel 13. Bij uitgevoerde chemische stoffen te voegen informatie
 
-1. De Conferentie van de Partijen moedigt de Werelddouaneorganisatie aan specifieke douanecodes van het Geharmoniseerde Systeem toe te kennen aan, naar gelang van het geval, de afzonderlijke chemische stoffen of de groepen chemische stoffen die zijn opgenomen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24). Wanneer aan een chemische stof een code is toegekend, eisen de Partijen dat die code bij uitvoer ook in het vervoersdocument voor die chemische stof wordt vermeld.
+1. De Conferentie van de Partijen moedigt de Werelddouaneorganisatie aan specifieke douanecodes van het Geharmoniseerde Systeem toe te kennen aan, naar gelang van het geval, de afzonderlijke chemische stoffen of de groepen chemische stoffen die zijn opgenomen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01). Wanneer aan een chemische stof een code is toegekend, eisen de Partijen dat die code bij uitvoer ook in het vervoersdocument voor die chemische stof wordt vermeld.
 
-2. Onverminderd de vereisten van de invoerende Partij, eist elke Partij dat zowel in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stoffen als de op haar grondgebied verboden of aan strenge beperkingen onderworpen chemische stoffen, bij uitvoer voldoen aan zodanige etiketteringsvoorwaarden dat, met inachtneming van de ter zake geldende internationale normen, adequate informatie beschikbaar is inzake de risico's en/of gevaren voor de gezondheid van de mens of voor het milieu.
+2. Onverminderd de vereisten van de invoerende Partij, eist elke Partij dat zowel in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stoffen als de op haar grondgebied verboden of aan strenge beperkingen onderworpen chemische stoffen, bij uitvoer voldoen aan zodanige etiketteringsvoorwaarden dat, met inachtneming van de ter zake geldende internationale normen, adequate informatie beschikbaar is inzake de risico's en/of gevaren voor de gezondheid van de mens of voor het milieu.
 
 3. Onverminderd de vereisten van de invoerende Partij, kan elke Partij eisen dat chemische stoffen waarvoor op haar grondgebied om milieu- of gezondheidsredenen etiketteringsvoorwaarden gelden, bij uitvoer aan zodanige etiketteringsvoorwaarden wordt voldaan dat, met inachtneming van de ter zake geldende internationale normen, adequate informatie beschikbaar is inzake de risico's en/of gevaren voor de gezondheid van de mens of voor het milieu.
 
@@ -286,9 +286,9 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 3. De volgende informatie wordt niet als vertrouwelijk aangemerkt voor de toepassing van dit Verdrag:
 
-- a. de in [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2004-02-24&g=2004-02-24) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2004-02-24&g=2004-02-24) bedoelde informatie, ingediend overeenkomstig respectievelijk [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=5&z=2004-02-24&g=2004-02-24) en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=6&z=2004-02-24&g=2004-02-24);
+- a. de in [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=I&z=2005-02-01&g=2005-02-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=IV&z=2005-02-01&g=2005-02-01) bedoelde informatie, ingediend overeenkomstig respectievelijk [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=5&z=2005-02-01&g=2005-02-01) en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=6&z=2005-02-01&g=2005-02-01);
 
-- b. de informatie in het in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=13&z=2004-02-24&g=2004-02-24), genoemde veiligheidsinformatieblad;
+- b. de informatie in het in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=13&z=2005-02-01&g=2005-02-01), genoemde veiligheidsinformatieblad;
 
 - c. de uiterste gebruiksdatum van de chemische stof;
 
@@ -298,7 +298,7 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 4. De productiedatum van de chemische stof wordt voor de toepassing van dit Verdrag normaliter niet als vertrouwelijke informatie aangemerkt.
 
-5. Elke Partij die informatie vraagt over de doorvoer over haar grondgebied van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stoffen, kan deze vraag melden aan het Secretariaat, dat alle Partijen daarvan op de hoogte stelt.
+5. Elke Partij die informatie vraagt over de doorvoer over haar grondgebied van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stoffen, kan deze vraag melden aan het Secretariaat, dat alle Partijen daarvan op de hoogte stelt.
 
 ##### Artikel 15. Toepassing van het Verdrag
 
@@ -308,9 +308,9 @@ De in dit lid genoemde verplichtingen van uitvoerende Partijen gelden gedurende 
 
 - b. de bevordering van initiatieven van het bedrijfsleven om de veiligheid van chemische stoffen te verbeteren; en
 
-- c. de bevordering van vrijwillige overeenkomsten, waarbij de bepalingen in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=16&z=2004-02-24&g=2004-02-24) in acht worden genomen.
+- c. de bevordering van vrijwillige overeenkomsten, waarbij de bepalingen in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=16&z=2005-02-01&g=2005-02-01) in acht worden genomen.
 
-2. Elke Partij draagt er zorg voor dat, voor zover dit uitvoerbaar is, het publiek op passende wijze toegang heeft tot informatie betreffende het omgaan met chemische stoffen en de te nemen maatregelen bij ongevallen alsmede over alternatieve middelen die voor de gezondheid van de mens of voor het milieu veiliger zijn dan de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) vermelde chemische stoffen.
+2. Elke Partij draagt er zorg voor dat, voor zover dit uitvoerbaar is, het publiek op passende wijze toegang heeft tot informatie betreffende het omgaan met chemische stoffen en de te nemen maatregelen bij ongevallen alsmede over alternatieve middelen die voor de gezondheid van de mens of voor het milieu veiliger zijn dan de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) vermelde chemische stoffen.
 
 3. De Partijen komen overeen rechtstreeks of, in voorkomende gevallen, via bevoegde internationale organisaties samen te werken met het oog op de toepassing van dit Verdrag op subregionaal, regionaal en mondiaal niveau.
 
@@ -410,21 +410,21 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 3. De volgende procedure is van toepassing op het voorstellen, de aanneming en de inwerkingtreding van aanvullende bijlagen bij dit Verdrag:
 
-- a. Aanvullende bijlagen bij dit Verdrag worden voorgesteld en aangenomen in overeenstemming met de in [artikel 21, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=21&z=2004-02-24&g=2004-02-24), vervatte procedure;
+- a. Aanvullende bijlagen bij dit Verdrag worden voorgesteld en aangenomen in overeenstemming met de in [artikel 21, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=21&z=2005-02-01&g=2005-02-01), vervatte procedure;
 
 - b. Een Partij die niet in staat is een aanvullende bijlage bij dit Verdrag te aanvaarden, stelt de Depositaris daarvan schriftelijk in kennis binnen een jaar na de datum van mededeling van de aanneming van de aanvullende bijlage door de Depositaris. De Depositaris stelt alle Partijen onverwijld in kennis van elke ontvangen kennisgeving. Een Partij kan te allen tijde een eerdere verklaring van niet-aanvaarding herroepen, waarna de betrokken bijlage voor die Partij in werking treedt, behoudens het bepaalde onder c); en
 
 - c. Na het verstrijken van een jaar na de datum van mededeling door de Depositaris van de aanneming van een aanvullende bijlage, treedt de bijlage in werking voor alle Partijen die geen kennisgeving hebben gedaan als bedoeld onder b).
 
-4. Behalve in het geval van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24), geldt voor het voorstellen, de aanneming en de inwerkingtreding van wijzigingen van de bijlagen bij dit Verdrag dezelfde procedure als voor het voorstellen, de aanneming en de inwerkingtreding van aanvullende bijlagen bij het Verdrag.
+4. Behalve in het geval van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01), geldt voor het voorstellen, de aanneming en de inwerkingtreding van wijzigingen van de bijlagen bij dit Verdrag dezelfde procedure als voor het voorstellen, de aanneming en de inwerkingtreding van aanvullende bijlagen bij het Verdrag.
 
-5. De volgende procedure is van toepassing op het voorstellen, de aanneming en de inwerkingtreding van wijzigingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24):
+5. De volgende procedure is van toepassing op het voorstellen, de aanneming en de inwerkingtreding van wijzigingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01):
 
-- a. Wijzigingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) worden voorgesteld en aangenomen in overeenstemming met de in de artikelen 5 tot en met 9 en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=21&z=2004-02-24&g=2004-02-24), vervatte procedure;
+- a. Wijzigingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) worden voorgesteld en aangenomen in overeenstemming met de in de artikelen 5 tot en met 9 en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&artikel=21&z=2005-02-01&g=2005-02-01), vervatte procedure;
 
 - b. De Conferentie van de Partijen besluit bij consensus over de aanneming;
 
-- c. Een besluit om [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2004-02-24&g=2004-02-24) te wijzigen wordt door de Depositaris onverwijld aan de Partijen meegedeeld. De wijziging treedt voor alle Partijen in werking op een in het besluit vast te stellen datum.
+- c. Een besluit om [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001432&bijlage=III&z=2005-02-01&g=2005-02-01) te wijzigen wordt door de Depositaris onverwijld aan de Partijen meegedeeld. De wijziging treedt voor alle Partijen in werking op een in het besluit vast te stellen datum.
 
 6. Indien een aanvullende bijlage of een wijziging van een bijlage verband houdt met een wijziging van dit Verdrag, treedt die aanvullende bijlage of die wijziging pas in werking wanneer de wijziging van het Verdrag van kracht wordt.
 
