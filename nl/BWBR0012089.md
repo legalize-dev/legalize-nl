@@ -4,7 +4,7 @@ identifier: "BWBR0012089"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2005-01-01"
-last_updated: "2003-04-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012089"
 soort: "rijkswet"
@@ -71,13 +71,13 @@ De [artikelen 14, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel
 
 ##### Artikel IV
 
-1. De in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), genoemde periode vangt niet eerder aan dan op het tijdstip van inwerkingtreding van deze Rijkswet.
+De in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), genoemde periode vangt niet eerder aan dan op het tijdstip van inwerkingtreding van deze Rijkswet.
 
 ##### Artikel V
 
 1. De meerderjarige die vóór het tijdstip van de inwerkingtreding van deze Rijkswet op grond van of, als minderjarige, wegens [artikel 15, aanhef en onder c, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) zijn Nederlanderschap heeft verloren, herkrijgt het Nederlanderschap door het afleggen van een daartoe strekkende schriftelijke verklaring binnen een termijn van twee jaar na de inwerkingtreding van deze Rijkswet. Deze herkrijging werkt terug tot het moment van verlies. [Artikel 6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), zijn van overeenkomstige toepassing. Het minderjarige niet-Nederlandse kind van de vader, moeder of adoptiefouder als bedoeld in [artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), die een verklaring tot herkrijging van het Nederlanderschap aflegt, deelt in die verkrijging, indien het in de verklaring tot dat doel is vermeld. Kinderen van een kind dat in die verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de verklaring de leeftijd van 16 jaar heeft bereikt, deelt slechts in de verkrijging, indien het daarmee uitdrukkelijk instemt. De in [artikel 15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), genoemde periode vangt aan op de dag van de bevestiging als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6).
 
-2. Hij die op grond van [artikel 15, aanhef en onder c, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), zoals dat luidde voor de inwerkingtreding van deze Rijkswet, zijn Nederlanderschap heeft verloren en aan wie na 1 januari 1990 een verklaring omtrent het bezit van het Nederlanderschap dan wel een reisdocument in de zin van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) is verstrekt, wordt geacht het Nederlanderschap niet te hebben verloren. De in [artikel 15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), genoemde periode vangt voor deze persoon aan op de dag van verstrekking van die verklaring of dat document, doch niet eerder dan 1 januari 1994.
+2. Hij die op grond van [artikel 15, aanhef en onder c, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), zoals dat luidde voor de inwerkingtreding van deze Rijkswet, zijn Nederlanderschap heeft verloren en aan wie na 1 januari 1990 een verklaring omtrent het bezit van het Nederlanderschap dan wel een reisdocument in de zin van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) is verstrekt, wordt geacht het Nederlanderschap niet te hebben verloren.
 
 ##### Artikel VI
 
@@ -87,6 +87,6 @@ De Rijkswet van 14 november 1963, Stb. 467, houdende wijziging van de Wet op het
 
 1. De artikelen van deze Rijkswet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [onderdelen c en d van artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), zoals deze komen te luiden ingevolge [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=I&z=2003-04-01&g=2003-04-01) van deze rijkswet zijn niet van toepassing op verzoeken ingediend voor de datum van de inwerkingtreding van dit onderdeel.
+2. De [onderdelen c en d van artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), zoals deze komen te luiden ingevolge [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=I&z=2005-01-01&g=2005-01-01) van deze rijkswet zijn niet van toepassing op verzoeken ingediend voor de datum van de inwerkingtreding van dit onderdeel.
 
 Lasten en bevelen dat deze in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
