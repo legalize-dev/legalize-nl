@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -45,8 +45,6 @@ De Raad van State gehoord (advies van 12 april 2002, nr. W04.02.0121/I);
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 mei 2002, directoraat-generaal Constitutionele Zaken en Koninkrijksrelaties, directie Constitutionele Zaken en Wetgeving, nr. CW02/U73895;
 
 Hebben goedgevonden en verstaan:
-
-Werkt terug tot en met 1 januari 2001.
 
 ##### Artikel 1
 
