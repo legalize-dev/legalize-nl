@@ -65,5 +65,3 @@ Er is een regeringsprijs op het gebied van de emancipatie, genaamd Joke Smit-pri
 ##### Artikel 4
 
 Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit.
-
-Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit.
