@@ -205,31 +205,3 @@ D. 9. Berg houten draagbaar klimmaterieel op in een koele en voldoende geventile
 Deze bijlage behoort bij het Besluit draagbaar klimmaterieel (Warenwet).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Het is verboden draagbaar klimmaterieel te verhandelen, te vervaardigen of binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
-
-## Bijlage. bij Besluit draagbaar klimmaterieel (Warenwet)
-
-### A. Inspectie en voorbereiding
-
-A. 5. Houd draagbaar klimmaterieel zoveel mogelijk vrij van ongerechtigheden, zoals natte verf, modder, sneeuw en olie.
-
-### I. Algemeen
-
-B. 9. Beklim bij 3-delige reformladders, welke worden toegepast als vrijstaand draagbaar klimmaterieel, nooit het uitgeschoven derde ladderdeel boven het scharnierpunt.
-
-### II. Voor draagbaar klimmaterieel welk tegen een muur, wand of gevel wordt geplaatst
-
-B. 15. Het optrektouw moet in de gebruiksstand van het draagbare klimmaterieel zijn vastgezet aan een sport.
-
-### C. Beklimming en gebruik
-
-C. 9. Verplaats draagbaar klimmaterieel niet wanneer u er op staat.
-
-### D. Onderhoud en opslag
-
-Deze bijlage behoort bij het Besluit draagbaar klimmaterieel (Warenwet).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
