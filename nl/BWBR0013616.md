@@ -4,7 +4,7 @@ identifier: "BWBR0013616"
 country: "nl"
 rank: "wet"
 publication_date: "2003-04-01"
-last_updated: "2003-01-01"
+last_updated: "2003-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013616"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Luchtvaartwet.
 
 ##### Artikel II
 
@@ -61,6 +61,6 @@ Regels en andere besluiten, vastgesteld krachtens de [Luchtvaartwet](https://wet
 
 ##### Artikel V
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende [onderdelen van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013616&artikel=I&z=2003-01-01&g=2003-01-01) verschillend kan worden vastgesteld.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende [onderdelen van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013616&artikel=I&z=2003-04-01&g=2003-04-01) verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
