@@ -4,7 +4,7 @@ identifier: "BWBR0006909"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-09-01"
-last_updated: "2002-01-15"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006909"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Akten van de burgerlijke stand, met uitzondering van akten van erkenning van ontkenning van het vaderschap door de moeder, van huwelijksaangifte, van toestemming tot het huwelijk, van aangifte van de registratie van een partnerschap, van toestemming tot registratie van een partnerschap en van naamskeuze, dienen op zodanige wijze met toepassing van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006909&artikel=2&z=2002-01-15&g=2002-01-15) te noemen middelen vervaardigd te zijn dat zij gedurende een termijn van ten minste honderd jaren houdbaar en goed leesbaar zijn.
+1. Akten van de burgerlijke stand, met uitzondering van akten van erkenning van ontkenning van het vaderschap door de moeder, van huwelijksaangifte, van toestemming tot het huwelijk, van aangifte van de registratie van een partnerschap, van toestemming tot registratie van een partnerschap en van naamskeuze, dienen op zodanige wijze met toepassing van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006909&artikel=2&z=2004-05-19&g=2004-05-19) te noemen middelen vervaardigd te zijn dat zij gedurende een termijn van ten minste honderd jaren houdbaar en goed leesbaar zijn.
 
 2. Het bepaalde in het eerste lid wat betreft de houdbaarheid en leesbaarheid is eveneens van toepassing op het vervaardigen van dubbelen of afschriften van akten van de burgerlijke stand alsmede van latere vermeldingen, behorend bij akten of dubbelen dan wel afschriften.
 
@@ -49,11 +49,17 @@ Besluit:
 
 ##### Artikel 2
 
-1. Voor de akten van de burgerlijke stand, met uitzondering van de akten van erkenning van ontkenning van het vaderschap door de moeder, van huwelijksaangifte, van toestemming tot het huwelijk, van aangifte van de registratie van een partnerschap, van toestemming tot registratie van een partnerschap en van naamskeuze, voor de dubbelen of de afschriften alsmede voor daarbij behorende latere vermeldingen mag uitsluitend wit normaal 1-schrijfpapier van het formaat A4 worden gebruikt.
+1. Voor de akten van de burgerlijke stand, met uitzondering van de akten van erkenning van ontkenning van het vaderschap door de moeder, van huwelijksaangifte, van toestemming tot het huwelijk, van aangifte van de registratie van een partnerschap, van toestemming tot registratie van een partnerschap en van naamskeuze, voor de afschriften alsmede voor daarbij behorende latere vermeldingen mag uitsluitend wit normaal 1-schrijfpapier van het formaat A4 worden gebruikt.
 
 In bijzondere gevallen kan afgeweken worden van het voorgeschreven formaat schrijfpapier.
 
-2. De akten van de burgerlijke stand en de daarbij behorende latere vermeldingen mogen uitsluitend worden vervaardigd:
+2. Voor de dubbelen van de akten van de burgerlijke stand en de daarbij behorende latere vermeldingen, mag uitsluitend gebruikt worden:
+
+- a. wit normaal 1-schrijfpapier, of
+
+- b. een CD-ROM die voldoet aan de normen van ISO 9660 en ISO 10149.
+
+3. De akten van de burgerlijke stand en de daarbij behorende latere vermeldingen mogen uitsluitend worden vervaardigd:
 
 - a. met een schrijfpen of een ander schrijfmiddel, mits zwarte schrijfinkt wordt gebruikt;
 
@@ -65,7 +71,9 @@ In bijzondere gevallen kan afgeweken worden van het voorgeschreven formaat schri
 
 - c. langs geautomatiseerde weg, mits de tekst in zwarte kleur wordt gedrukt.
 
-3. Dubbelen of afschriften van akten van de burgerlijke stand en daarbij behorende latere vermeldingen kunnen, behalve op de in het tweede lid van dit artikel genoemde wijzen, ook op andere wijze worden vervaardigd, zulks met inachtneming van de in dat lid voorgeschreven kleuren.
+4. De dubbelen van akten van de burgerlijke stand die overeenkomstig het bepaalde in het tweede lid, onder a, zijn vervaardigd, de afschriften van akten van de burgerlijke stand en de daarbij behorende latere vermeldingen, kunnen behalve op de in het derde lid van dit artikel genoemde wijzen, ook op andere wijze worden vervaardigd.
+
+5. De dubbelen en de afschriften van de akten van de burgerlijke stand en de daarbij behorende latere vermeldingen dienen vervaardigd te worden met inachtneming van de in het derde lid voorgeschreven kleuren.
 
 ##### Artikel 3
 
