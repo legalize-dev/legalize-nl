@@ -4,7 +4,7 @@ identifier: "BWBR0014930"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2003-07-12"
+last_updated: "2004-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014930"
 soort: "AMvB"
@@ -68,11 +68,15 @@ Hebben goedgevonden en verstaan:
 
 - h. **verordening (EG) 1265/69**: [verordening (EEG) nr. 1265/69](31969R1265) van de Commissie van de Europese Gemeenschappen van 1 juli 1969 betreffende de methoden welke van toepassing zijn bij de bepaling van de kwaliteit voor door de interventiebureaus gekochte suiker (PbEG L 163).
 
-2. Dit besluit is niet van toepassing op in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2003-07-12&g=2003-07-12) bedoelde waren in de vorm van poedersuiker, kandijsuiker of suikerbroden.
+2. Dit besluit is niet van toepassing op in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2004-07-12&g=2004-07-12) bedoelde waren in de vorm van poedersuiker, kandijsuiker of suikerbroden.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
+
+2. Het is verboden met gebruikmaking van bij dit besluit bedoelde aanduidingen andere eet- en drinkwaren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
+
+3. Het is verboden bij dit besluit bedoelde eet- en drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de samenstelling of hoedanigheid van de waar.
 
 #### § 2. Etikettering
 
@@ -242,7 +246,7 @@ De aanduiding **wit** mag uitsluitend worden gebezigd bij de aanduiding van:
 
 ##### Artikel 15
 
-Onverminderd de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&artikel=3&z=2003-07-12&g=2003-07-12) mogen, voorzover de consument daardoor niet in verwarring kan worden gebracht:
+Onverminderd de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&artikel=3&z=2004-07-12&g=2004-07-12) mogen, voorzover de consument daardoor niet in verwarring kan worden gebracht:
 
 - a. de in deze paragraaf bedoelde waren ook worden aangeduid met andere in de lidstaten van de Europese Unie ter zake gebruikelijke aanduidingen;
 
@@ -256,7 +260,7 @@ In afwijking van [artikel 5, eerste lid, onder c, van het Warenwetbesluit Etiket
 
 ##### Artikel 17
 
-1. Het kleurtype, het conductometrisch bepaalde asgehalte en de kleur van de oplossing, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2003-07-12&g=2003-07-12), worden bepaald met inachtneming van het tweede lid.
+1. Het kleurtype, het conductometrisch bepaalde asgehalte en de kleur van de oplossing, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=2&z=2004-07-12&g=2004-07-12), worden bepaald met inachtneming van het tweede lid.
 
 2. Eén punt komt overeen:
 
@@ -268,21 +272,21 @@ In afwijking van [artikel 5, eerste lid, onder c, van het Warenwetbesluit Etiket
 
 ##### Artikel 18
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) wordt ingetrokken.
 
 ##### Artikel 19
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 20
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Cacao en chocolade, het Deegwarenbesluit (Warenwet), het Warenwetbesluit Frisdranken en het Warenwetbesluit Verduurzaamde vruchtenprodukten.
 
 ##### Artikel 21
 
 1. Dit besluit treedt in werking met ingang van 12 juli 2003.
 
-2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=1&artikel=2&z=2003-07-12&g=2003-07-12), [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=18&z=2003-07-12&g=2003-07-12), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=19&z=2003-07-12&g=2003-07-12) en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=20&z=2003-07-12&g=2003-07-12) in werking met ingang van 12 juli 2004, met dien verstande dat waren die niet voldoen aan dit besluit, maar die vóór 12 juli 2004 zijn geëtiketteerd overeenkomstig het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) zoals dat onmiddellijk voor dat tijdstip luidde, in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.
+2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=1&artikel=2&z=2004-07-12&g=2004-07-12), [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=18&z=2004-07-12&g=2004-07-12), [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=19&z=2004-07-12&g=2004-07-12) en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014930&paragraaf=3&artikel=20&z=2004-07-12&g=2004-07-12) in werking met ingang van 12 juli 2004, met dien verstande dat waren die niet voldoen aan dit besluit, maar die vóór 12 juli 2004 zijn geëtiketteerd overeenkomstig het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) zoals dat onmiddellijk voor dat tijdstip luidde, in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.
 
 3. Het [Suiker- en stroopbesluit (Warenwet) 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003089) is vanaf 12 juli 2003 niet van toepassing op waren die voldoen aan dit besluit.
 
