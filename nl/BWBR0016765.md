@@ -486,21 +486,3 @@ d. Vlieg horizontaal in de aangegeven richting: De ene arm wijst zijwaarts in de
 e. Landen: De armen gekruist voor het lichaam naar beneden gestrekt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 6 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6).
-
-### Hoofdstuk 2. Zoek- en reddingsseinen
-
-### Hoofdstuk 3. Zoek- en reddingsseinen; seinen bij onderschepping
-
-### Hoofdstuk 4. Seinen voor het luchthavenverkeer
-
-### Hoofdstuk 5. Slotbepalingen
-
-## Bijlage 4. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=10&z=2014-12-12&g=2014-12-12)
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
