@@ -4,7 +4,7 @@ identifier: "BWBR0011395"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2000-06-11"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011395"
 soort: "ministeriele-regeling"
@@ -83,13 +83,13 @@ het beheer van de Haringvlietsluizen als volgt te wijzigen:
 
 ##### Artikel 1
 
-1. Per 1-1-2005 worden de Haringvlietsluizen beperkt opengesteld. Dit betekent dat de sluizen, afhankelijk van de Rijnafvoer bij Lobith, ook bij vloed worden geopend met een maximale doorlaatopening zoals aangegeven in de bij dit Besluit behorende bijlage 1.
+1. Per 1-1-2008 worden de Haringvlietsluizen beperkt opengesteld. Dit betekent dat de sluizen, afhankelijk van de Rijnafvoer bij Lobith, ook bij vloed worden geopend met een maximale doorlaatopening zoals aangegeven in de bij dit Besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&bijlage=1&z=2005-01-01&g=2005-01-01).
 
-2. In bijzondere omstandigheden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=6&z=2000-06-11&g=2000-06-11), kan van het in lid 1 bedoelde gewijzigde sluisbeheer worden afgeweken.
+2. In bijzondere omstandigheden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=6&z=2005-01-01&g=2005-01-01), kan van het in lid 1 bedoelde gewijzigde sluisbeheer worden afgeweken.
 
 ##### Artikel 2
 
-Onder het in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11) bedoelde gewijzigde sluisbeheer wordt ernaar gestreefd de waterstand te Moerdijk niet onder Normaal Amsterdams Peil (NAP 0m) te laten dalen.
+Onder het in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01) bedoelde gewijzigde sluisbeheer wordt ernaar gestreefd de waterstand te Moerdijk niet onder Normaal Amsterdams Peil (NAP 0m) te laten dalen.
 
 ##### Artikel 3
 
@@ -97,7 +97,7 @@ Onder het in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&
 
 2. De functionaliteit van de innamepunten, noodinlaten en intrekzones blijft behouden als - rekening houdend met de locatiespecifieke overbruggingsmogelijkheden - ter plaatse ten gevolge van de inwerkingtreding van dit besluit géén significante verhoging van het chloridegehalte optreedt, ten opzichte van de situatie vóór inwerkingtreding van dit besluit, rekening houdend met autonome ontwikkelingen. In een nog vast te stellen protocol zal een en ander nog nader worden uitgewerkt.
 
-3. Ter bewaking van de functionaliteit van de bedoelde innamepunten, noodinlaten en intrekzones zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11), een continu werkend meetnet voor in elk geval chloride functioneren.
+3. Ter bewaking van de functionaliteit van de bedoelde innamepunten, noodinlaten en intrekzones zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01), een continu werkend meetnet voor in elk geval chloride functioneren.
 
 4. In het in lid 2 bedoelde protocol worden regels gesteld ten aanzien van onder meer:
 
@@ -107,7 +107,7 @@ Onder het in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&
 
 - de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;
 
-- de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11), wordt afgeweken van het sluisbeheer;
+- de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01), wordt afgeweken van het sluisbeheer;
 
 - de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest.
 
@@ -119,7 +119,7 @@ Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betr
 
 2. De functionaliteit van de innamepunten blijft behouden als - rekening houdend met de locatiespecifieke overbruggingsmogelijkheden - ter plaatse ten gevolge van de inwerkingtreding van dit besluit géén significante verhoging van het chloridegehalte optreedt, ten opzichte van de situatie vóór inwerkingtreding van dit besluit, rekening houdend met autonome ontwikkelingen. In een nog vast te stellen protocol zal een en ander nog nader worden uitgewerkt.
 
-3. Ter bewaking van de functionaliteit van de bedoelde innamepunten, zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11), een continu werkend meetnet voor in elk geval chloride functioneren.
+3. Ter bewaking van de functionaliteit van de bedoelde innamepunten, zal uiterlijk één jaar voorafgaand aan het gewijzigde sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01), een continu werkend meetnet voor in elk geval chloride functioneren.
 
 4. In het in lid 2 bedoelde protocol worden regels gesteld ten aanzien van onder meer:
 
@@ -129,7 +129,7 @@ Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betr
 
 - de methodiek waarmee wordt vastgesteld of sprake is van een significante verhoging van het chloridegehalte en/of eventuele andere relevante parameters;
 
-- de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11), wordt afgeweken van het sluisbeheer;
+- de voorwaarden en procedures waaronder in bijzondere omstandigheden als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01), wordt afgeweken van het sluisbeheer;
 
 - de wijze waarop en de frequentie waarmee de (nood)procedures en de effectiviteit daarvan in de praktijk worden uitgetest.
 
@@ -139,7 +139,7 @@ Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betr
 
 1. De meetresultaten van het meetnet staan permanent ter beschikking van de waterbedrijven en waterschappen.
 
-2. Een jaar na aanvang van het sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11) en vervolgens elk jaar daarop volgend, wordt door Rijkswaterstaat directie Zuid-Holland, als beheerder van de Haringvlietsluizen, gerapporteerd aan de betrokken waterbedrijven, regionale Milieu-inspecties, waterschappen en provincies over de effecten van het sluisbeheer.
+2. Een jaar na aanvang van het sluisbeheer als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01) en vervolgens elk jaar daarop volgend, wordt door Rijkswaterstaat directie Zuid-Holland, als beheerder van de Haringvlietsluizen, gerapporteerd aan de betrokken waterbedrijven, regionale Milieu-inspecties, waterschappen en provincies over de effecten van het sluisbeheer.
 
 3. De in het tweede lid bedoelde rapportages worden ten minste eenmaal per jaar besproken in een begeleidingsgroep. In deze begeleidingsgroep hebben in elk geval zitting: de betrokken waterbedrijven, regionale Milieu-inspecties, waterschappen, provincies, Ministerie van Landbouw, Natuurbeheer en Visserij, Directie Zuidwest en Rijkswaterstaat directie Zuid-Holland.
 
@@ -147,7 +147,7 @@ Het protocol wordt namens mij, na op overeenstemming gericht overleg met de betr
 
 ##### Artikel 6
 
-Bij, of in het vooruitzicht van, bijzondere omstandigheden, waaronder omstandigheden waarbij de functionaliteit van innamepunten en/of noodinlaten als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=3&z=2000-06-11&g=2000-06-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=4&z=2000-06-11&g=2000-06-11) in het geding is, kan door Rijkswaterstaat directie Zuid-Holland dan wel door de betrokken waterschappen, waterbedrijven of regionale Milieu-inspecties spoedberaad worden geëntameerd over afwijking van het sluisbeheer als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2000-06-11&g=2000-06-11) en over andere mogelijke maatregelen. De wijze waarop het spoedberaad wordt geëntameerd wordt in het protocol als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=3&z=2000-06-11&g=2000-06-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=4&z=2000-06-11&g=2000-06-11), vastgelegd.
+Bij, of in het vooruitzicht van, bijzondere omstandigheden, waaronder omstandigheden waarbij de functionaliteit van innamepunten en/of noodinlaten als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=3&z=2005-01-01&g=2005-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=4&z=2005-01-01&g=2005-01-01) in het geding is, kan door Rijkswaterstaat directie Zuid-Holland dan wel door de betrokken waterschappen, waterbedrijven of regionale Milieu-inspecties spoedberaad worden geëntameerd over afwijking van het sluisbeheer als bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=1&z=2005-01-01&g=2005-01-01) en over andere mogelijke maatregelen. De wijze waarop het spoedberaad wordt geëntameerd wordt in het protocol als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=3&z=2005-01-01&g=2005-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011395&artikel=4&z=2005-01-01&g=2005-01-01), vastgelegd.
 
 ##### Artikel 7
 
@@ -161,9 +161,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit kan worden aangehaald als Besluit Beheer Haringvlietsluizen.
 
-## Bijlage 1
+## Bijlage 1. Sluisbeheer volgens ‘de Kier’
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+Vergelijking van de sluisopeningen bij verschillend beheer; huidige situatie (LPH’84), het programma volgens het MER en het HOP.
 
 ## Bijlage 2
 
