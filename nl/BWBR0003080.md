@@ -4,7 +4,7 @@ identifier: "BWBR0003080"
 country: "nl"
 rank: "wet"
 publication_date: "2014-07-01"
-last_updated: "1999-10-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003080"
 soort: "wet"
@@ -45,23 +45,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Er is een testamentenregister waarin worden opgenomen de in het volgende artikel vermelde gegevens van:
 
-- a. openbare akten bevattende uiterste willen of herroeping van uiterste willen;
+- a. notariële akten bevattende uiterste willen of herroeping van uiterste willen;
 
-- b. akten van superscriptie;
+- b. akten bevattende bewaargeving of teruggave van uiterste willen;
 
-- c. akten bevattende bewaargeving of teruggave van uiterste willen;
+- c. uiterste willen als bedoeld in [artikel 105 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=105);
 
-- d. akten van giften van de gehele of gedeeltelijke nalatenschap, de gift van een of meer goederen uit de nalatenschap daaronder begrepen;
+- d. akten van benoeming ingaande bij overlijden.
 
-- e. uiterste willen als bedoeld in artikel 997**a** van het Burgerlijk Wetboek;
+- e. notariële akten bevattende schenkingsovereenkomsten of andere giften met de strekking dat zij pas na het overlijden van de schenker of gever zullen worden uitgevoerd, bedingen als bedoeld in [artikel 126, tweede lid, onder a, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=126) en omzettingen als bedoeld in [artikel 126, tweede lid, onder c, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=126);
 
-- f. akten van benoeming ingaande bij overlijden.
+- f. akten als bedoeld in [artikel 19a, eerste lid, onder a tot en met e, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=19a) die overeenkomstig de voorschriften van het Nederlands-Antilliaanse of Arubaanse recht zijn opgemaakt.
 
 2. Onze Minister van Justitie draagt de zorg voor de inrichting en het bijhouden van het testamentenregister.
 
 ##### Artikel 2
 
-1. Voor zover daarvan uit de opgaven of uit de ingevolge artikel 998 van het Burgerlijk Wetboek ontvangen akten blijkt, worden van de akten opgenomen:
+1. Voor zover daarvan uit de opgaven of uit de ingevolge [artikel 106 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=106) ontvangen akten blijkt, worden van de akten opgenomen:
 
 - a. de naam, de eerste drie voornamen en het aantal van de voornamen, de geboorteplaats en de geboortedatum van de persoon die de akte deed verlijden;
 
@@ -71,15 +71,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. indien de akte is verleden door of ten overstaan van een notaris of een consulaire ambtenaar, diens naam, voorletters en standplaats en het nummer waaronder de akte in het repertorium is vermeld; met betrekking tot de notaris wordt het nummer opgenomen dat door Onze Minister van Justitie aan zijn kantoor is toegekend;
 
-- b. indien de akte is verleden door of ten overstaan van een persoon als bedoeld in de artikelen 993-997 van het Burgerlijk Wetboek, diens naam, voorletters en hoedanigheid;
+- b. indien de akte is verleden door of ten overstaan van een persoon als bedoeld in de [artikelen 98 tot en met 104 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=98), diens naam, voorletters en hoedanigheid;
 
-- c. de soort van de akte naar de onderscheiding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=1999-10-01&g=1999-10-01);
+- c. de soort van de akte naar de onderscheiding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01);
 
-- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=1999-10-01&g=1999-10-01), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
+- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
 
 ##### Artikel 3
 
-De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=1999-10-01&g=1999-10-01) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door Onze Minister van Justitie vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
+De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door Onze Minister van Justitie vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
 
 ##### Artikel 4
 
@@ -89,7 +89,7 @@ De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](htt
 
 ##### Artikel 5
 
-Onze Minister van Justitie doet de in artikel 998, eerste lid, van het Burgerlijk Wetboek bedoelde akten onverwijld na de registratie tegen ontvangstbewijs overbrengen naar de algemene bewaarplaats der minuten, registers en repertoria als bedoeld in artikel 57 van de Wet op het notarisambt, te 's-Gravenhage.
+Onze Minister van Justitie doet de in [artikel 106, eerste lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=106) bedoelde akten onverwijld na de registratie tegen ontvangstbewijs overbrengen naar de algemene bewaarplaats der minuten, registers en repertoria als bedoeld in [artikel 57 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=57), te 's-Gravenhage.
 
 ##### Artikel 6
 
