@@ -4,7 +4,7 @@ identifier: "BWBR0004551"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-11-01"
-last_updated: "1994-01-01"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004551"
 soort: "AMvB"
@@ -62,13 +62,9 @@ Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorko
 
 - g. de beroepsactiviteiten waarvan de vervulling of uitoefening door personen van een bepaald geslacht feitelijk wordt belemmerd door wettelijke voorschriften betreffende de bescherming van personen van dat geslacht bij de arbeid;
 
-- h. de beroepsactiviteiten die uitgeoefend worden:
+- h. de beroepsactiviteiten die uitgeoefend worden in het buitenland, indien door het aldaar geldende recht deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;
 
-- -. in andere Lid-Staten van de Europese Gemeenschappen alsmede in de overige staten die Partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, indien in de betreffende staat ingevolge de Richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 (76/207/EG) deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;
-
-- -. in landen die geen Lid-Staat zijn van de Europese Gemeenschappen en evenmin partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, indien door het aldaar geldend recht deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;
-
-- i. de door de Minister van Defensie aan te wijzen beroepsactiviteiten bij de Krijgsmacht.
+- i. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.
 
 ##### Artikel 2
 
