@@ -4,7 +4,7 @@ identifier: "BWBR0016175"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "1998-01-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016175"
 soort: "wet"
@@ -62,7 +62,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. Wijziging [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel VII. Wijziging [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
@@ -78,11 +78,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel IX. Wijziging [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het primair onderwijs.
 
 ##### Artikel X. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
 
@@ -139,11 +139,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIX. Vervallen van een bepaling van de [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188)
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetten enkele wijzigingen van wetstechnische of ondergeschikte aard aan te brengen in verband met geconstateerde wetstechnische gebreken en leemten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
