@@ -277,13 +277,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de derde kalender
 Dit besluit wordt aangehaald als: Reglement op de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
-
-##### Artikel 10a
-
-1. Een voorstel tot verlening van een onderscheiding aan een gezaghebber wordt gericht aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba. De Rijksvertegenwoordiger zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde lid tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
-
-2. Een voorstel tot verlening van een onderscheiding aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gericht aan de gezaghebber van Bonaire. De gezaghebber van Bonaire zendt het voorstel met zijn advies aan het Kapittel. [Artikel 9, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007391&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), is van toepassing.
-
-### Hoofdstuk IV. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
