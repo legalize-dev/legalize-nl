@@ -4,7 +4,7 @@ identifier: "BWBR0005804"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-02-16"
-last_updated: "1998-09-23"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005804"
 soort: "AMvB"
@@ -140,7 +140,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel **a**](https://wetten.o
 
 ##### Artikel 10
 
-1. In de vervoersopdracht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=1998-09-23&g=1998-09-23), worden vermeld:
+1. In de vervoersopdracht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2003-01-01&g=2003-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -172,7 +172,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel **a**](https://wetten.o
 
 - a. de uitgeslagen alcoholvrije dranken, pruimtabak of snuiftabak en de daarvoor uitgereikte facturen;
 
-- b. de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23), toepassing vindt, de overgebrachte alcoholvrije dranken, pruimtabak of snuiftabak met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
+- b. de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01), toepassing vindt, de overgebrachte alcoholvrije dranken, pruimtabak of snuiftabak met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
 
 - c. de uit Nederland betrokken alcoholvrije dranken, pruimtabak of snuiftabak;
 
@@ -184,7 +184,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel **a**](https://wetten.o
 
 ##### Artikel 12
 
-1. Indien degene die om een vergunning voor een inrichting verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=1998-09-23&g=1998-09-23), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de inrichting, alsmede met betrekking tot het stelsel van toezicht.
+1. Indien degene die om een vergunning voor een inrichting verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2003-01-01&g=2003-01-01), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de inrichting, alsmede met betrekking tot het stelsel van toezicht.
 
 2. De in het eerste lid bedoelde inrichting van een inrichting heeft mede betrekking op de daar aanwezige produktie-, transport- en opslaginstallaties.
 
@@ -208,11 +208,11 @@ wordt verleend indien degene die deze goederen betrekt in het bezit is van een v
 
 2. Om de in het eerste lid bedoelde vergunning te kunnen verkrijgen dient de administratie van degene die om de vergunning verzoekt zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens omtrent alle voor de vrijstelling van belasting van belang zijnde bedrijfshandelingen zijn opgenomen. Daarin moeten in ieder geval de gegevens zijn opgenomen omtrent de betrokken alcoholvrije dranken, pruimtabak of snuiftabak en omtrent de daarvan vervaardigde alcoholvrije dranken, pruimtabak of snuiftabak dan wel andere goederen.
 
-3. Voor de toepassing van het eerste lid, onderdeel **a**, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=13&z=1998-09-23&g=1998-09-23) van overeenkomstige toepassing op de door degene die de goederen met vrijstelling betrekt vervaardigde vruchte- en groentesappen.
+3. Voor de toepassing van het eerste lid, onderdeel **a**, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=13&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing op de door degene die de goederen met vrijstelling betrekt vervaardigde vruchte- en groentesappen.
 
 4. Degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling betrekt dient zekerheid te stellen voor de belasting die hij verschuldigd kan worden. De [artikelen 56, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), en [57 tot en met 60 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=57) zijn van overeenkomstige toepassing.
 
-5. Met betrekking tot het brengen van alcoholvrije dranken, pruimtabak of snuiftabak vanuit een inrichting, een derde land, een andere lid-staat, een entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=5&z=1998-09-23&g=1998-09-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=1998-09-23&g=1998-09-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=10&z=1998-09-23&g=1998-09-23) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling mag betrekken dient te worden vermeld op de vervoersopdracht of het bescheid, dan wel dient te worden opgenomen in de administratie van de inrichting van waaruit de alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht met overeenkomstige toepassing van [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23).
+5. Met betrekking tot het brengen van alcoholvrije dranken, pruimtabak of snuiftabak vanuit een inrichting, een derde land, een andere lid-staat, een entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=5&z=2003-01-01&g=2003-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2003-01-01&g=2003-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=10&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling mag betrekken dient te worden vermeld op de vervoersopdracht of het bescheid, dan wel dient te worden opgenomen in de administratie van de inrichting van waaruit de alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht met overeenkomstige toepassing van [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 15
 
@@ -234,7 +234,7 @@ wordt verleend indien degene die deze goederen betrekt in het bezit is van een v
 
 1. Vrijstelling van belasting ter zake van de uitslag en de invoer van alcoholvrije dranken, pruimtabak of snuiftabak die worden gebruikt aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere lid-staat wordt verleend indien de eigenaar van het luchtvaartuig of diens gemachtigde aan de vergunninghouder van de inrichting een schriftelijke verklaring in tweevoud heeft verstrekt waarin hij vermeldt dat de aan hem te leveren alcoholvrije dranken, pruimtabak of snuiftabak zijn bestemd voor vorenbedoeld gebruik, dan wel in geval van invoer, deze verklaring in tweevoud wordt overgelegd bij de aangifte tot plaatsing onder de douaneregeling vrij verkeer.
 
-2. [Artikel 15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=1998-09-23&g=1998-09-23), is van overeenkomstige toepassing.
+2. [Artikel 15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -260,11 +260,11 @@ wordt verleend indien degene die deze goederen betrekt in het bezit is van een v
 
 ##### Artikel 18
 
-Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken, pruimtabak of snuiftabak in gevallen waarin deze goederen op de voet van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) van de wet zouden kunnen worden betrokken met vrijstelling, is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=14&z=1998-09-23&g=1998-09-23) van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde en het vijfde lid van dat artikel.
+Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken, pruimtabak of snuiftabak in gevallen waarin deze goederen op de voet van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) van de wet zouden kunnen worden betrokken met vrijstelling, is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=14&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde en het vijfde lid van dat artikel.
 
 ##### Artikel 19
 
-Voor de toepassing van de teruggaaf van belasting ter zake van de levering van alcoholvrije dranken, pruimtabak of snuiftabak waarvoor op de voet van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30) van de wet aanspraak op een vrijstelling zou bestaan, zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=1998-09-23&g=1998-09-23) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=16&z=1998-09-23&g=1998-09-23) van overeenkomstige toepassing.
+Voor de toepassing van de teruggaaf van belasting ter zake van de levering van alcoholvrije dranken, pruimtabak of snuiftabak waarvoor op de voet van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30) van de wet aanspraak op een vrijstelling zou bestaan, zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=2003-01-01&g=2003-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=16&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 20
 
@@ -276,7 +276,7 @@ Voor de toepassing van de teruggaaf van belasting ter zake van de levering van a
 
 ##### Artikel 21
 
-Voor de toepassing van teruggaaf van belasting voor onder ambtelijk toezicht vernietigde alcoholvrije dranken, pruimtabak of snuiftabak is [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=2&artikel=20&z=1998-09-23&g=1998-09-23), van overeenkomstige toepassing.
+Voor de toepassing van teruggaaf van belasting voor onder ambtelijk toezicht vernietigde alcoholvrije dranken, pruimtabak of snuiftabak is [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=2&artikel=20&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 22
 
@@ -336,7 +336,7 @@ In een douane-entrepot of een vrij entrepot in de zin van de wettelijke bepaling
 
 4. Voor de in het derde lid bedoelde overbrengingen is geen vervoersopdracht vereist.
 
-5. Op verzoek kunnen alcoholvrije dranken, pruimtabak of snuiftabak worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de inrichting dan wel van het entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23), worden de vervoersopdrachten alsdan voorzien van de verklaring dat de goederen in de administratie zijn opgenomen.
+5. Op verzoek kunnen alcoholvrije dranken, pruimtabak of snuiftabak worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de inrichting dan wel van het entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01), worden de vervoersopdrachten alsdan voorzien van de verklaring dat de goederen in de administratie zijn opgenomen.
 
 ### Hoofdstuk V. Ontheffing verbodsbepalingen
 
@@ -344,7 +344,7 @@ In een douane-entrepot of een vrij entrepot in de zin van de wettelijke bepaling
 
 ##### Artikel 31
 
-1. Indien pruimtabak of snuiftabak zal worden verkocht aan anderen dan wederverkopers voor een hogere prijs dan die is vermeld op de aangebrachte zegels, dient degene door wie de pruimtabak of snuiftabak wordt verkocht belastingzegels ten bedrage van het verschil tussen de oorspronkelijke prijs en de nieuwe verkoopprijs aan te vragen bij de inspecteur in wiens ambtsgebied de verkoper woont of is gevestigd.
+1. Indien pruimtabak of snuiftabak zal worden verkocht aan anderen dan wederverkopers voor een hogere prijs dan die is vermeld op de aangebrachte zegels, dient degene door wie de pruimtabak of snuiftabak wordt verkocht belastingzegels ten bedrage van het verschil tussen de oorspronkelijke prijs en de nieuwe verkoopprijs aan te vragen bij de inspecteur onder wie de verkoper ressorteert.
 
 2. De [artikelen 75, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), [78, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=78), en [79 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79) zijn van overeenkomstige toepassing.
 
@@ -354,7 +354,7 @@ In een douane-entrepot of een vrij entrepot in de zin van de wettelijke bepaling
 
 Strafbare feiten zijn:
 
-- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=1998-09-23&g=1998-09-23), [3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=3&z=1998-09-23&g=1998-09-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=7&z=1998-09-23&g=1998-09-23), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=1998-09-23&g=1998-09-23) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=1998-09-23&g=1998-09-23) opgenomen verplichting en een op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=12&z=1998-09-23&g=1998-09-23) opgelegde verplichting; en
+- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2003-01-01&g=2003-01-01), [3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=3&z=2003-01-01&g=2003-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=7&z=2003-01-01&g=2003-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2003-01-01&g=2003-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2003-01-01&g=2003-01-01) opgenomen verplichting en een op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=12&z=2003-01-01&g=2003-01-01) opgelegde verplichting; en
 
 - b. het overigens in strijd met dit besluit vervoeren of voorhanden hebben van alcoholvrije dranken, pruimtabak of snuiftabak.
 
