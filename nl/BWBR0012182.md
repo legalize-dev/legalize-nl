@@ -4,7 +4,7 @@ identifier: "BWBR0012182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-18"
-last_updated: "2003-01-01"
+last_updated: "2003-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012182"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als be
 
 ##### Artikel 3
 
-De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2001-01-31&g=2003-01-01), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2001-01-31&g=2003-01-01), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
+De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2003-06-21&g=2003-06-21), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2003-06-21&g=2003-06-21), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
 
 ##### Artikel 4
 
@@ -58,17 +58,17 @@ Voor een motor of een trekker als bedoeld in [artikel 2, onder a](https://wetten
 
 - a. indien het vermogen van een motor of trekker groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- b. indien het vermogen van een motor of trekker groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 januari 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- b. indien het vermogen van een motor of trekker groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
 - c. indien het vermogen van een motor of trekker groter dan of gelijk is aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068).
 
 ##### Artikel 5
 
-Voor een motor als bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), van het besluit die in Nederland nog niet in het verkeer is gebracht, houdt de goedkeuring, bedoeld in [artikel 3, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), van het besluit, op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
+Voor een motor als bedoeld in [artikel 3, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3) die in Nederland nog niet in het verkeer is gebracht, houdt de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
 
 - a. indien het vermogen van een motor groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- b. indien het vermogen van een motor groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 januari 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- b. indien het vermogen van een motor groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
 - c. indien het vermogen van een motor groter dan of gelijk aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068).
 
