@@ -4,7 +4,7 @@ identifier: "BWBR0011982"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2004-07-01"
+last_updated: "2004-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011982"
 soort: "AMvB"
@@ -104,7 +104,7 @@ De wet is niet van toepassing op:
 
 ##### Artikel 4
 
-1. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=13) en [14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=14) en de [artikelen 21 tot en met 30 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-01&g=2004-07-01) zijn niet van toepassing op besloten busvervoer dat wordt verricht als nevenactiviteit ten behoeve van een hoofdactiviteit die niet bestaat uit het vervoer van personen dan wel dat niet commercieel van aard is, en dat een geringe weerslag heeft op de vervoersmarkt.
+1. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=13) en [14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=14) en de [artikelen 21 tot en met 30 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-07&g=2004-07-07) zijn niet van toepassing op besloten busvervoer dat wordt verricht als nevenactiviteit ten behoeve van een hoofdactiviteit die niet bestaat uit het vervoer van personen dan wel dat niet commercieel van aard is, en dat een geringe weerslag heeft op de vervoersmarkt.
 
 2. Onder besloten busvervoer als bedoeld in het eerste lid wordt in ieder geval begrepen busvervoer dat voor eigen rekening en risico wordt verricht:
 
@@ -114,11 +114,11 @@ De wet is niet van toepassing op:
 
 ##### Artikel 5
 
-De [artikelen 41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-01&g=2004-07-01), [45, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-01&g=2004-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=46&z=2004-07-01&g=2004-07-01), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=47&z=2004-07-01&g=2004-07-01), en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-01&g=2004-07-01) zijn niet van toepassing op openbaar vervoer per trein.
+De [artikelen 41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-07&g=2004-07-07), [45, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-07&g=2004-07-07), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=46&z=2004-07-07&g=2004-07-07), [47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=47&z=2004-07-07&g=2004-07-07), en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-07&g=2004-07-07) zijn niet van toepassing op openbaar vervoer per trein.
 
 ##### Artikel 6
 
-1. De [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4), [5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5), [11 tot en met 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=11), [70 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81, met uitzondering van onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [97 tot en met 99](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101) en [103 tot en met 106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=103) en de [artikelen 12 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=1&artikel=12&z=2004-07-01&g=2004-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-01&g=2004-07-01), [28 tot en met 30, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-01&g=2004-07-01), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&z=2004-07-01&g=2004-07-01) met uitzondering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-01&g=2004-07-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=42&z=2004-07-01&g=2004-07-01), 43 en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-01&g=2004-07-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-01&g=2004-07-01) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-01&g=2004-07-01), 63, [78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=78&z=2004-07-01&g=2004-07-01), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=9&artikel=118&z=2004-07-01&g=2004-07-01), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=120&z=2004-07-01&g=2004-07-01), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=121&z=2004-07-01&g=2004-07-01), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=124&z=2004-07-01&g=2004-07-01) en [126 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=126&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht:
+1. De [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4), [5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5), [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=11), [70 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81, met uitzondering van onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [97 tot en met 99](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101) en [103 tot en met 106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=103) en de [artikelen 12 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=1&artikel=12&z=2004-07-07&g=2004-07-07), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-07&g=2004-07-07), [28 tot en met 30, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-07&g=2004-07-07), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-07&g=2004-07-07), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=42&z=2004-07-07&g=2004-07-07), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=43&z=2004-07-07&g=2004-07-07) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-07&g=2004-07-07), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-07&g=2004-07-07) en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=63&z=2004-07-07&g=2004-07-07), [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=73&z=2004-07-07&g=2004-07-07) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-07&g=2004-07-07), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=9&artikel=118&z=2004-07-07&g=2004-07-07), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=120&z=2004-07-07&g=2004-07-07), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=121&z=2004-07-07&g=2004-07-07), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=124&z=2004-07-07&g=2004-07-07), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=126&z=2004-07-07&g=2004-07-07) en [127, eerste lid, onderdelen d en e van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=127&z=2004-07-07&g=2004-07-07) zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht:
 
 - a. krachtens een door een bestuursorgaan als bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20), met een vervoerder gesloten overeenkomst, welke tot stand is gekomen na een aanbestedingsprocedure krachtens de [Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937) voor het plaatsen van opdrachten voor dienstverlening,
 
@@ -126,29 +126,51 @@ De [artikelen 41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&
 
 - c. in de plaats van een opgeheven of in aanvulling op een bestaande openbaar vervoervoorziening.
 
-2. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=69) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
+2. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=28), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=32) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=44) en de [artikelen 31 tot en met 34 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-07&g=2004-07-07) zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor:
+
+- a. concessie: in artikel 6, eerste lid, van het besluit bedoelde overeenkomst;
+
+- b. concessiehouder: vervoerder;
+
+- c. aan de concessie te verbinden voorschriften: in de overeenkomst te regelen onderwerpen;
+
+- d. concessiegebied: gebied waarvoor de overeenkomst is gesloten;
+
+- e. dienstregeling: dienstkenmerken, zijnde het gebied waarbinnen en de tijdstippen waartussen vervoer wordt verricht, de vooraanmeldingstijd en de ophaal- of aankomstmarge.
+
+3. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=69) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
 
 ##### Artikel 7
 
-1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=13), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=14), [70 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81, met uitzondering van onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=98), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=102), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=105) en [106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=106), en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=3&artikel=10&z=2004-07-01&g=2004-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=3&artikel=11&z=2004-07-01&g=2004-07-01), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&z=2004-07-01&g=2004-07-01) met uitzondering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-01&g=2004-07-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=42&z=2004-07-01&g=2004-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=43&z=2004-07-01&g=2004-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-01&g=2004-07-01), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-01&g=2004-07-01) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-01&g=2004-07-01) en [63, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=63&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer volgens een dienstregeling per passagiersschip dat wordt verricht:
+1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=14), [70 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81, met uitzondering van onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=98), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=102), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=105) en [106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=106), en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=3&artikel=10&z=2004-07-07&g=2004-07-07) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=3&artikel=11&z=2004-07-07&g=2004-07-07), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=41&z=2004-07-07&g=2004-07-07), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=42&z=2004-07-07&g=2004-07-07), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=1&artikel=43&z=2004-07-07&g=2004-07-07) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=50&z=2004-07-07&g=2004-07-07), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-07&g=2004-07-07) en [63, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=63&z=2004-07-07&g=2004-07-07) zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer volgens een dienstregeling per passagiersschip dat wordt verricht:
 
 - a. krachtens een door een bestuursorgaan als bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) met een vervoerder gesloten overeenkomst voor ten hoogste zes jaar of voor een langere duur, voor zover Onze Minister met die duur heeft ingestemd op grond van aanzienlijke investeringen door de vervoerder in voor het te verrichten vervoer noodzakelijke materieel, en
 
 - b. waarbij de overeenkomst tot stand is gekomen na een procedure van aanbesteding voor het plaatsen van overheidsopdrachten voor dienstverlening krachtens de [Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937) voor het plaatsen van opdrachten voor dienstverlening.
 
-2. Dit artikel is niet van toepassing op vervoer dat wordt verricht met passagiersschepen:
+2. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=28), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=32) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=44) en de [artikelen 31 tot en met 34 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-07&g=2004-07-07) zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor:
+
+- a. concessie: in artikel 7, eerste lid, van het besluit bedoelde overeenkomst;
+
+- b. concessiehouder: vervoerder;
+
+- c. aan de concessie te verbinden voorschriften: in de overeenkomst te regelen onderwerpen;
+
+- d. concessiegebied: gebied waarvoor de overeenkomst is gesloten.
+
+3. Dit artikel is niet van toepassing op vervoer dat wordt verricht met passagiersschepen:
 
 - a. met een door de constructie bepaalde maximumsnelheid van minder dan 30 kilometer per uur,
 
-- b. die zijn bestemd voor het vervoer van voertuigen op meer dan twee wielen of
+- b. die zijn bestemd voor het vervoer van voertuigen op meer dan twee wielen, niet zijnde een brommobiel of een gehandicaptenvoertuig als bedoeld in [artikel 1, onderdeel ia, onderscheidenlijk onderdeel r van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) of
 
 - c. op de Waddenzee, met inbegrip van de verbindingen met de Noordzee.
 
-3. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=69) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
+4. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=69) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
 
 ##### Artikel 8
 
-In afwijking van [artikel 2, aanhef en onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-07-01&g=2004-07-01), zijn de [artikelen 73 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=93), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=98),[105](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=105) en [106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=106) en de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=3&artikel=52&z=2004-07-01&g=2004-07-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=3&artikel=53&z=2004-07-01&g=2004-07-01), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-01&g=2004-07-01) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-01&g=2004-07-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=63&z=2004-07-01&g=2004-07-01) en [64, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=64&z=2004-07-01&g=2004-07-01) van overeenkomstige toepassing op door of vanwege de werkgever verzorgd vervoer van werknemers:
+In afwijking van [artikel 2, aanhef en onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-07-07&g=2004-07-07), zijn de [artikelen 73 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=73), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88), [89 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=93), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=97), [98](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=98),[105](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=105) en [106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=106) en de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=3&artikel=52&z=2004-07-07&g=2004-07-07), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=3&artikel=53&z=2004-07-07&g=2004-07-07), [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&z=2004-07-07&g=2004-07-07) met uitzondering van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-07&g=2004-07-07), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=63&z=2004-07-07&g=2004-07-07) en [64, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=2&artikel=64&z=2004-07-07&g=2004-07-07) van overeenkomstige toepassing op door of vanwege de werkgever verzorgd vervoer van werknemers:
 
 - a. naar en van de werkplek, voorafgaand aan onderscheidenlijk na afloop van de werkzaamheden,
 
@@ -166,7 +188,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van een reisinformatiesysteem op diens verzoek ten minste gegevens inzake:
+1. Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van een reisinformatiesysteem op diens verzoek ten minste gegevens inzake:
 
 - a. de door de vervoerder gehanteerde dienstregeling met de geldigheidsduur daarvan,
 
@@ -177,6 +199,20 @@ Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van e
 - d. de wijzigingen van de dienstregeling die ten minste 24 uur van tevoren bekend zijn, gerekend vanaf de eerste dienst die op een dag wordt verzorgd en
 
 - e. de door de vervoerder gehanteerde tarieven en de daarbij behorende zone-indeling.
+
+2. Een vervoerder die vervoer verricht als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=6&z=2004-07-07&g=2004-07-07), verstrekt aan de exploitant van een reisinformatiesysteem op diens verzoek ten minste gegevens inzake:
+
+- a. het gebied waarbinnen en de tijdstippen waartussen vervoer wordt verricht;
+
+- b. het telefoonnummer voor het bestellen van de ritten;
+
+- c. de vooraanmeldingstijd;
+
+- d. de ophaal- of aankomstmarge;
+
+- e. de door de vervoerder gehanteerde tarieven en de daarbij behorende zone-indeling;
+
+- f. de mate van toegankelijkheid van het vervoer voor reizigers met een handicap.
 
 ##### Artikel 11
 
@@ -234,11 +270,11 @@ Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van e
 
 ##### Artikel 15
 
-1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01) worden in de vergunning vermeld:
+1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07) worden in de vergunning vermeld:
 
 - a. het vervoer waarvoor de vergunning is verleend en
 
-- b. het adres van de vervoerder aan wie de vergunning is verleend of, indien [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01), toepassing heeft gevonden, de adressen van de natuurlijke personen, bedoeld in dat artikel, dan wel het gezamenlijk adres van deze personen.
+- b. het adres van de vervoerder aan wie de vergunning is verleend of, indien [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07), toepassing heeft gevonden, de adressen van de natuurlijke personen, bedoeld in dat artikel, dan wel het gezamenlijk adres van deze personen.
 
 2. In de vergunning worden, voor zover van toepassing, de voorschriften vermeld die aan de vergunning zijn verbonden en de beperkingen waaronder de vergunning is verleend.
 
@@ -272,9 +308,9 @@ Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van e
 
 2. Op het vergunningbewijs worden voorts voor zover van toepassing vermeld:
 
-- a. de naam van de personen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01), dan wel de naam waaronder zij gezamenlijk als vervoerder optreden,
+- a. de naam van de personen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07), dan wel de naam waaronder zij gezamenlijk als vervoerder optreden,
 
-- b. de adressen van de personen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01), dan wel het gezamenlijk adres van deze personen,
+- b. de adressen van de personen, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07), dan wel het gezamenlijk adres van deze personen,
 
 - c. de voorschriften die aan de vergunning zijn verbonden en de beperkingen waaronder de vergunning is verleend voorzover van belang voor het toezicht op de rechtmatigheid van het verrichte vervoer, en
 
@@ -284,7 +320,7 @@ Een vervoerder die openbaar vervoer verricht, verstrekt aan een exploitant van e
 
 1. Een vergunningbewijs is niet geldig vanaf het tijdstip waarop de vergunning is ingetrokken, gedurende de periode waarin de op het vergunningbewijs vermelde gegevens niet overeenstemmen met de feitelijke situatie en gedurende de periode waarin een vergunning is geschorst.
 
-2. Met uitzondering van de periode waarin een vergunning is geschorst en met uitzondering van het geval dat de geldigheidstermijn, bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=18&z=2004-07-01&g=2004-07-01), is verlopen, levert de vervoerder binnen vier weken na het tijdstip, bedoeld in het eerste lid, het vergunningbewijs in bij Onze Minister.
+2. Met uitzondering van de periode waarin een vergunning is geschorst en met uitzondering van het geval dat de geldigheidstermijn, bedoeld in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=18&z=2004-07-07&g=2004-07-07), is verlopen, levert de vervoerder binnen vier weken na het tijdstip, bedoeld in het eerste lid, het vergunningbewijs in bij Onze Minister.
 
 ##### Artikel 20
 
@@ -308,13 +344,13 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 1. De vervoerder voldoet aan de eis van betrouwbaarheid, indien hij een met het oog op een vergunning voor collectief personenvervoer, taxivervoer of openbaar vervoer per trein verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) heeft overgelegd die niet ouder is dan twee maanden.
 
-2. De vervoerder wiens land van oorsprong of herkomst een andere lidstaat is dan Nederland, dan wel een andere staat die partij is bij de EER, voldoet aan de eis van betrouwbaarheid, indien hij een document of verklaring heeft overgelegd die in die staat is afgegeven overeenkomstig artikel 3, derde lid, van [richtlijn nr. 96/26/EG](31996L0026), die niet ouder is dan twee maanden.
+2. De vervoerder wiens land van oorsprong of herkomst een andere lidstaat is dan Nederland, dan wel een andere staat die partij is bij de EER, voldoet aan de eis van betrouwbaarheid, indien hij een document of verklaring heeft overgelegd die in die staat is afgegeven overeenkomstig artikel 3, tweede lid, van [richtlijn nr. 96/26/EG](31996L0026), die niet ouder is dan twee maanden.
 
 ##### Artikel 23
 
 1. Aan de eis van betrouwbaarheid wordt niet of niet langer voldaan indien:
 
-- a. een persoon als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-01&g=2004-07-01) geen verklaring omtrent het gedrag overlegt,
+- a. een persoon als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-07&g=2004-07-07) geen verklaring omtrent het gedrag overlegt,
 
 - b. de vervoerder of een persoon als bedoeld in artikel 21 in een aaneengesloten periode van vijf jaar, al dan niet met toepassing van [artikel 51 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), onherroepelijk is veroordeeld wegens het, naar het oordeel van Onze Minister in ernstige mate, overtreden van:
 
@@ -326,13 +362,13 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 - 4°. [artikel 2, eerste of tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2),
 
-- 5°. de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=79&z=2004-07-01&g=2004-07-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-01&g=2004-07-01) of
+- 5°. de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=79&z=2004-07-07&g=2004-07-07) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-07&g=2004-07-07) of
 
 - 6°. [artikel 5.3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.3.15) of [5.1.1, eerste lid, onderdeel c, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.1.1).
 
 - c. tegen de vervoerder binnen een aaneengesloten periode van vijf jaar onherroepelijk vonnis is gewezen wegens het, naar het oordeel van Onze Minister in ernstige mate, niet nakomen van verplichtingen die voortvloeien uit een door hem aangegane arbeidsovereenkomst of overeenkomst van opdracht tot het verrichten van arbeid.
 
-2. Indien ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-01&g=2004-07-01) de plicht tot het voldoen aan de eis van betrouwbaarheid rust op verschillende personen, wordt niet langer aan deze plicht voldaan indien een van hen voldoet aan de voorwaarden, genoemd in het eerste lid.
+2. Indien ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-07&g=2004-07-07) de plicht tot het voldoen aan de eis van betrouwbaarheid rust op verschillende personen, wordt niet langer aan deze plicht voldaan indien een van hen voldoet aan de voorwaarden, genoemd in het eerste lid.
 
 3. Het verplaatsen van een leeg vervoermiddel wordt voor de toepassing van het eerste gelijkgesteld met het verrichten van personenvervoer.
 
@@ -348,17 +384,13 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 ##### Artikel 25
 
-1. De vervoerder voldoet aan de eis van kredietwaardigheid indien hij een bewijs van kredietwaardigheid overlegt dat, behoudens het vijfde en zesde lid, na onderzoek wordt afgegeven door Onze Minister en dat niet ouder is dan twee maanden.
+1. Ter voldoening aan de eis van kredietwaardigheid dient de vervoerder minimaal te beschikken over een bedrijfskapitaal van € 36 302,42 vermeerderd met € 4 991,58 voor iedere auto, bus, metro, tram of een via een geleidesysteem voortbewogen voertuig, met dien verstande dat het gehele bedrijfskapitaal ten minste € 45 378,02 bedraagt.
 
-2. Onze Minister neemt een aanvraag om verlening van een bewijs van kredietwaardigheid in behandeling nadat de bij ministeriële regeling vastgestelde vergoeding voor de kosten van deze behandeling is ontvangen.
+2. Omtrent het voldoen aan de in het eerste lid genoemde eis van kredietwaardigheid stelt Onze Minister een onderzoek in aan de hand van de criteria, bedoeld in artikel 3, derde lid, van [richtlijn nr. 96/26/EG](31996L0026).
 
-3. Onze Minister stelt het onderzoek, bedoeld in het eerste lid, in aan de hand van de criteria, bedoeld in artikel 3, derde lid, van [richtlijn nr. 96/26/EG](31996L0026).
+3. Indien de vervoerder een dienst of bedrijf van een gemeente is, overlegt Onze Minister met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de vaststelling van het voldoen aan de eis van kredietwaardigheid.
 
-4. Onze Minister geeft het bewijs van kredietwaardigheid af aan de vervoerder die minimaal beschikt over een bedrijfskapitaal van € 36 302,42 vermeerderd met € 4 991,58 voor elke auto, bus, metro, tram of een via een geleidesysteem voortbewogen voertuig, met dien verstande dat het gehele bedrijfskapitaal ten minste € 45 378,02 bedraagt.
-
-5. Indien de vervoerder een dienst of bedrijf van een gemeente is, geeft Onze Minister na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties een bewijs van kredietwaardigheid af.
-
-6. De vervoerder die openbaar vervoer of besloten busvervoer verricht en wiens land van oorsprong of herkomst een andere lidstaat is dan Nederland, dan wel een andere staat die partij is bij de EER, voldoet aan de eis van kredietwaardigheid, indien hij een verklaring overlegt die overeenkomstig artikel 3, derde lid, van [richtlijn nr. 96/26/EG](31996L0026), in die staat is afgegeven en die niet ouder is dan twee maanden.
+4. De vervoerder die openbaar vervoer of besloten busvervoer verricht en wiens land van oorsprong of herkomst een andere lidstaat is dan Nederland, dan wel een andere staat die partij is bij de EER, voldoet aan de eis van kredietwaardigheid, indien hij een verklaring overlegt die overeenkomstig artikel 3, tweede lid, van [richtlijn nr. 96/26/EG](31996L0026), in die staat is afgegeven en die niet ouder is dan twee maanden.
 
 #### § 6. Eis van vakbekwaamheid
 
@@ -400,13 +432,13 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 ##### Artikel 29
 
-1. Indien de vervoerder door overlijden, wettelijke of lichamelijke onbekwaamheid van degene die op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-01&g=2004-07-01) voldeed aan de eis van vakbekwaamheid in een onderneming, dienst of bedrijf van een gemeente, niet langer aan deze eis voldoet, kan Onze Minister, te rekenen vanaf dit moment, de belanghebbende die het vervoer wenst voort te zetten, onverminderd het vereiste van een vergunning, op verzoek voor ten hoogste een jaar ontheffing verlenen van deze eis in die onderneming of die dienst of dat bedrijf van een gemeente.
+1. Indien de vervoerder door overlijden, wettelijke of lichamelijke onbekwaamheid van degene die op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-07&g=2004-07-07) voldeed aan de eis van vakbekwaamheid in een onderneming, dienst of bedrijf van een gemeente, niet langer aan deze eis voldoet, kan Onze Minister, te rekenen vanaf dit moment, de belanghebbende die het vervoer wenst voort te zetten, onverminderd het vereiste van een vergunning, op verzoek voor ten hoogste een jaar ontheffing verlenen van deze eis in die onderneming of die dienst of dat bedrijf van een gemeente.
 
 2. Onze Minister neemt een aanvraag om verlening van een ontheffing in behandeling nadat de bij ministeriële regeling vastgestelde vergoeding voor de kosten van deze behandeling is ontvangen.
 
 3. De periode, bedoeld in het eerste lid, kan in bijzondere gevallen met maximaal zes maanden worden verlengd.
 
-4. Indien de vervoerder door overlijden, wettelijke of lichamelijke onbekwaamheid van degene die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=27&z=2004-07-01&g=2004-07-01) voldeed aan de eis van vakbekwaamheid in een onderneming, dienst of bedrijf van een gemeente, niet langer aan deze eis voldoet, kan Onze Minister, te rekenen vanaf dit moment, degene die beschikt over een praktische ervaring van ten minste drie jaar in de dagelijkse leiding van die onderneming, die dienst of dat bedrijf, in bijzondere gevallen op verzoek voor bepaalde tijd ontheffing verlenen van deze eis in die onderneming, die dienst of dat bedrijf.
+4. Indien de vervoerder door overlijden, wettelijke of lichamelijke onbekwaamheid van degene die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=27&z=2004-07-07&g=2004-07-07) voldeed aan de eis van vakbekwaamheid in een onderneming, dienst of bedrijf van een gemeente, niet langer aan deze eis voldoet, kan Onze Minister, te rekenen vanaf dit moment, degene die beschikt over een praktische ervaring van ten minste drie jaar in de dagelijkse leiding van die onderneming, die dienst of dat bedrijf, in bijzondere gevallen op verzoek voor bepaalde tijd ontheffing verlenen van deze eis in die onderneming, die dienst of dat bedrijf.
 
 5. Aan de ontheffing, bedoeld in het eerste lid, kan het voorschrift worden verbonden dat de belanghebbende binnen de periode waarvoor een ontheffing geldt, alsnog zal voldoen aan de eis van vakbekwaamheid.
 
@@ -414,13 +446,13 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 ##### Artikel 30
 
-1. De vervoerder die openbaar vervoer, anders dan per trein, of besloten busvervoer verricht, overlegt elke vijf jaar, gerekend vanaf de dag waarop de vergunning is verleend, aan Onze Minister een verklaring omtrent het gedrag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-01&g=2004-07-01), een bewijs van kredietwaardigheid als bedoeld in [artikel 25, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=5&artikel=25&z=2004-07-01&g=2004-07-01), en toont aan dat hij voldoet aan de eis van vakbekwaamheid als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=27&z=2004-07-01&g=2004-07-01).
+1. De vervoerder die openbaar vervoer, anders dan per trein, of besloten busvervoer verricht, overlegt elke vijf jaar, gerekend vanaf de dag waarop de vergunning is verleend, aan Onze Minister een verklaring omtrent het gedrag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-07&g=2004-07-07), en toont aan dat hij voldoet aan de eis van kredietwaardigheid als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=5&artikel=25&z=2004-07-07&g=2004-07-07) en de eis van vakbekwaamheid als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=27&z=2004-07-07&g=2004-07-07).
 
-2. De vervoerder die taxivervoer verricht overlegt elke vijf jaar, gerekend vanaf de dag waarop de vergunning is verleend, aan Onze Minister een verklaring omtrent het gedrag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-01&g=2004-07-01), en toont aan dat hij voldoet aan de eis van vakbekwaamheid, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-01&g=2004-07-01).
+2. De vervoerder die taxivervoer verricht overlegt elke vijf jaar, gerekend vanaf de dag waarop de vergunning is verleend, aan Onze Minister een verklaring omtrent het gedrag als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-07&g=2004-07-07), en toont aan dat hij voldoet aan de eis van vakbekwaamheid, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-07&g=2004-07-07).
 
-3. Onze Minister kan de vervoerder, bedoeld in het eerste lid, ten hoogste een jaar uitstel verlenen ten behoeve van het overleggen van een bewijs van kredietwaardigheid indien de vervoerder heeft aangetoond dat het op grond van de algemene bedrijfseconomische situatie van zijn onderneming aannemelijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van kredietwaardigheid.
+3. Onze Minister kan de vervoerder, bedoeld in het eerste lid, ten hoogste een jaar uitstel verlenen ten behoeve van de vaststelling van het voldoen aan de eis van kredietwaardigheid indien de vervoerder heeft aangetoond dat het op grond van de algemene bedrijfseconomische situatie van zijn onderneming aannemelijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van kredietwaardigheid.
 
-4. Indien Onze Minister vermoedt dat een persoon als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-01&g=2004-07-01) niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, kan Onze Minister verlangen dat, in afwijking van het eerste lid, die persoon binnen een door Onze Minister vast te stellen termijn opnieuw een verklaring omtrent het gedrag overlegt.
+4. Indien Onze Minister vermoedt dat een persoon als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=21&z=2004-07-07&g=2004-07-07) niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, kan Onze Minister verlangen dat, in afwijking van het eerste lid, die persoon binnen een door Onze Minister vast te stellen termijn opnieuw een verklaring omtrent het gedrag overlegt.
 
 ### Hoofdstuk 3. Concessies en aanbesteding
 
@@ -438,7 +470,7 @@ Consumentenorganisaties die ingevolge de [artikelen 27, eerste lid](https://wett
 
 ##### Artikel 32
 
-Indien de concessieverlener advies vraagt aan consumentenorganisaties als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-01&g=2004-07-01), over een voornemen tot het verlenen of wijzigen van een concessie dan wel tot het vaststellen van een programma van eisen, draagt hij er ten minste zorg voor dat:
+Indien de concessieverlener advies vraagt aan consumentenorganisaties als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-07&g=2004-07-07), over een voornemen tot het verlenen of wijzigen van een concessie dan wel tot het vaststellen van een programma van eisen, draagt hij er ten minste zorg voor dat:
 
 - a. het advies wordt gevraagd op een zodanig tijdstip, dat het advies van wezenlijke invloed kan zijn op het voornemen,
 
@@ -448,7 +480,7 @@ Indien de concessieverlener advies vraagt aan consumentenorganisaties als bedoel
 
 ##### Artikel 33
 
-1. De onderwerpen, bedoeld in [artikel 31, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=31)waarover de concessiehouder krachtens de concessie ten minste eenmaal per jaar advies vraagt aan consumentenorganisaties als bedoeld in [artikel 31 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-01&g=2004-07-01) betreffen, voor zover de concessiehouder ten aanzien van die onderwerpen maatregelen heeft getroffen:
+1. De onderwerpen, bedoeld in [artikel 31, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=31)waarover de concessiehouder krachtens de concessie ten minste eenmaal per jaar advies vraagt aan consumentenorganisaties als bedoeld in [artikel 31 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-07&g=2004-07-07) betreffen, voor zover de concessiehouder ten aanzien van die onderwerpen maatregelen heeft getroffen:
 
 - a. de uitvoering van de dienstregeling,
 
@@ -476,7 +508,7 @@ Indien de concessieverlener advies vraagt aan consumentenorganisaties als bedoel
 
 ##### Artikel 34
 
-De concessieverlener informeert consumentenorganisaties als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-01&g=2004-07-01) ten minste over resultaten van maatregelen ten aanzien van:
+De concessieverlener informeert consumentenorganisaties als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=1&artikel=31&z=2004-07-07&g=2004-07-07) ten minste over resultaten van maatregelen ten aanzien van:
 
 - a. de mate van bereikbaarheid van het concessiegebied en
 
@@ -502,7 +534,7 @@ Bij ministeriële regeling worden regels gesteld over de vergoeding die vervoerd
 
 ##### Artikel 38
 
-Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat de geschiktheid van de vervoerders die niet uit hoofde van de wet, [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=2&artikel=37&z=2004-07-01&g=2004-07-01) of andere door de concessieverlener bij de aanbesteding gestelde voorwaarden zijn uitgesloten, door de concessieverlener is vastgesteld.
+Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat de geschiktheid van de vervoerders die niet uit hoofde van de wet, [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=3&paragraaf=2&artikel=37&z=2004-07-07&g=2004-07-07) of andere door de concessieverlener bij de aanbesteding gestelde voorwaarden zijn uitgesloten, door de concessieverlener is vastgesteld.
 
 ##### Artikel 39
 
@@ -550,7 +582,7 @@ Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat
 
 - a. bevat een vermelding van de prijs van het vervoerbewijs en
 
-- b. is zodanig ingericht dat de houder van het vervoerbewijs en de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89) bedoelde ambtenaren en personen de geldigheid van het vervoerbewijs kunnen vaststellen en
+- b. is zodanig ingericht dat de houder van het vervoerbewijs en de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89) bedoelde ambtenaren en personen de geldigheid van het vervoerbewijs kunnen vaststellen en
 
 - c. voldoet aan andere bij ministeriële regeling vastgestelde eisen.
 
@@ -570,9 +602,9 @@ Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat
 
 - a. kinderen onder geleide die de leeftijd van vier jaar nog niet hebben bereikt en voor wie geen eigen zitplaats wordt verlangd,
 
-- b. één persoon van ten minste twaalf jaar oud en één hond die een persoon begeleidt die is voorzien van een legitimatiebewijs voor gehandicapten,
+- b. één persoon van ten minste twaalf jaar oud die een persoon begeleidt die is voorzien van een legitimatiebewijs voor gehandicapten,
 
-- c. ambtenaren en personen als bedoeld in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), belast met toezicht en opsporing, bij de uitoefening van de hun in die artikelen opgedragen taak.
+- c. ambtenaren en personen als bedoeld in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89), belast met toezicht en opsporing, bij de uitoefening van de hun in die artikelen opgedragen taak.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over een legitimatiebewijs als bedoeld in het eerste lid, onderdeel b, alsmede over de afgifte ervan.
 
@@ -586,13 +618,13 @@ Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat
 
 - a. een fiets, niet zijnde een vouwfiets, voor zover die niet door de vervoerder als handbagage is toegelaten,
 
-- b. levende dieren die niet als handbagage kunnen worden meegenomen, met uitzondering van de hond, bedoeld in [artikel 45, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-01&g=2004-07-01).
+- b. levende dieren die niet als handbagage kunnen worden meegenomen, met uitzondering van een hond die een persoon begeleidt die is voorzien van een legitimatiebewijs voor gehandicapten.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de vervoerprijs voor fietsen en levende dieren als bedoeld in het derde lid.
 
 ##### Artikel 47
 
-1. De reiziger is met uitzondering van de gevallen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-01&g=2004-07-01), en met uitzondering van de door de vervoerder bepaalde gevallen, verplicht zich van een geldig vervoerbewijs te voorzien:
+1. De reiziger is met uitzondering van de gevallen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-07&g=2004-07-07), en met uitzondering van de door de vervoerder bepaalde gevallen, verplicht zich van een geldig vervoerbewijs te voorzien:
 
 - a. voordat hij, hetzij het vervoermiddel betreedt, hetzij een gedeelte van een station of halte betreedt waar hij blijkens duidelijke aanwijzingen van de vervoerder in het bezit moet zijn van een geldig vervoerbewijs of
 
@@ -614,7 +646,7 @@ Het besluit tot concessieverlening geschiedt op grond van gunningscriteria nadat
 
 2. Onverminderd het eerste lid, is de reiziger op vordering van de vervoerder een bij ministeriële regeling vast te stellen bedrag verschuldigd indien hij:
 
-- a. niet voldoet aan de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=47&z=2004-07-01&g=2004-07-01), bedoelde verplichting,
+- a. niet voldoet aan de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=47&z=2004-07-07&g=2004-07-07), bedoelde verplichting,
 
 - b. het vervoerbewijs waarvan hij moet zijn voorzien desgevraagd niet toont of overhandigt,
 
@@ -654,7 +686,7 @@ Zolang een opeisbare schuld ter zake van vervoerbewijzen niet is voldaan, heeft 
 
 ##### Artikel 51
 
-Bij intrekking van een vervoerbewijs of gedeelte van een vervoerbewijs geven de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89) bedoelde ambtenaren en personen daarvan een bewijs af aan de reiziger.
+Bij intrekking van een vervoerbewijs of gedeelte van een vervoerbewijs geven de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87) en [89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=89) bedoelde ambtenaren en personen daarvan een bewijs af aan de reiziger.
 
 #### § 3. Bepalingen over verstoring van orde, rust, veiligheid of een goede bedrijfsgang
 
@@ -704,13 +736,13 @@ Onder aanwijzingen betreffende orde, rust, veiligheid of een goede bedrijfsgang 
 
 ##### Artikel 55
 
-1. De bijdrage die wordt verleend voor exploitatie van openbaar vervoer aan een concessieverlener wordt berekend door de vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-01&g=2004-07-01), te vermenigvuldigen met een rekenfactor.
+1. De bijdrage die wordt verleend voor exploitatie van openbaar vervoer aan een concessieverlener wordt berekend door de vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-07&g=2004-07-07), te vermenigvuldigen met een rekenfactor.
 
 2. Onze Minister kan bij de berekening van de rekenfactor, bedoeld in het eerste lid, rekening houden met:
 
 - a. het bedrag aan jaarlijks beschikbare middelen voor de exploitatie van openbaar vervoer zoals afgeleid uit het hoofdstuk van Verkeer en Waterstaat op de rijksbegroting,
 
-- b. de vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-01&g=2004-07-01).
+- b. de vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-07&g=2004-07-07).
 
 3. Bij ministeriële regeling worden regels vastgesteld over de wijze waarop de rekenfactor wordt berekend.
 
@@ -742,7 +774,7 @@ Onder aanwijzingen betreffende orde, rust, veiligheid of een goede bedrijfsgang 
 
 ##### Artikel 59
 
-1. De vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-01&g=2004-07-01), bestaan uit:
+1. De vervoeropbrengsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-07&g=2004-07-07), bestaan uit:
 
 - a. verkochte vervoerbewijzen in een periode van twaalf maanden voorafgaande aan het jaar waarop de te verlenen bijdrage betrekking heeft, met uitzondering van het gedeelte van het bij het vervoerbewijs behorende tarief dat betrekking heeft op een niet uit openbaar vervoer bestaande daaraan aansluitende of daarmee gepaard gaande prestatie,
 
@@ -752,7 +784,7 @@ Onder aanwijzingen betreffende orde, rust, veiligheid of een goede bedrijfsgang 
 
 ##### Artikel 60
 
-Onder vervoerbewijzen als bedoeld in [artikel 59, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=59&z=2004-07-01&g=2004-07-01), worden verstaan:
+Onder vervoerbewijzen als bedoeld in [artikel 59, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=59&z=2004-07-07&g=2004-07-07), worden verstaan:
 
 - a. nationale vervoerbewijzen als bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=30),
 
@@ -762,7 +794,7 @@ Onder vervoerbewijzen als bedoeld in [artikel 59, onderdeel a](https://wetten.ov
 
 ##### Artikel 61
 
-1. Indien Onze Minister toepassing geeft aan [artikel 78 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=78) wordt een bij ministeriële regeling vastgesteld percentage van aan het desbetreffende concessiegebied toe te rekenen opbrengsten als bedoeld in [artikel 59 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=59&z=2004-07-01&g=2004-07-01) op de bijdrage aan de desbetreffende concessieverlener in mindering gebracht.
+1. Indien Onze Minister toepassing geeft aan [artikel 78 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=78) wordt een bij ministeriële regeling vastgesteld percentage van aan het desbetreffende concessiegebied toe te rekenen opbrengsten als bedoeld in [artikel 59 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=59&z=2004-07-07&g=2004-07-07) op de bijdrage aan de desbetreffende concessieverlener in mindering gebracht.
 
 2. In de ministeriële regeling, bedoeld in het eerste lid, worden regels vastgesteld over de wijze waarop het in mindering te brengen deel wordt berekend.
 
@@ -774,7 +806,7 @@ Indien Onze Minister toepassing geeft aan [artikel 81, onderdeel a, van de wet](
 
 ##### Artikel 63
 
-Indien Onze Minister op grond van [artikel 81, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81) de voor een bepaald jaar verleende bijdrage gewijzigd vaststelt, geschiedt dit overeenkomstig [artikel 61 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-01&g=2004-07-01).
+Indien Onze Minister op grond van [artikel 81, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81) de voor een bepaald jaar verleende bijdrage gewijzigd vaststelt, geschiedt dit overeenkomstig [artikel 61 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-07&g=2004-07-07).
 
 ##### Artikel 64
 
@@ -832,21 +864,21 @@ Met het oog op de verantwoording van de vastgestelde bijdrage voor exploitatie v
 
 ##### Artikel 69
 
-Met het oog op de verlening en vaststelling van de bijdrage alsmede de verantwoording van de vastgestelde bijdrage voor exploitatie van openbaar vervoer verstrekken concessiehouders desgevraagd Onze Minister de gegevens, bedoeld in [artikel 67, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-01&g=2004-07-01).
+Met het oog op de verlening en vaststelling van de bijdrage alsmede de verantwoording van de vastgestelde bijdrage voor exploitatie van openbaar vervoer verstrekken concessiehouders desgevraagd Onze Minister de gegevens, bedoeld in [artikel 67, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-07&g=2004-07-07).
 
 ##### Artikel 70
 
-De in de [artikelen 67, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-01&g=2004-07-01), en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=68&z=2004-07-01&g=2004-07-01) bedoelde gegevens gaan, voor zover door Onze Minister nodig geacht, vergezeld van een toelichting en een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+De in de [artikelen 67, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-07&g=2004-07-07), en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=68&z=2004-07-07&g=2004-07-07) bedoelde gegevens gaan, voor zover door Onze Minister nodig geacht, vergezeld van een toelichting en een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 ##### Artikel 71
 
-Bij ministeriële regeling worden regels gesteld over de wijze waarop de gegevens, bedoeld in de [artikelen 67 tot en met 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-01&g=2004-07-01) worden verstrekt alsmede over een procedure voor de controle van die gegevens.
+Bij ministeriële regeling worden regels gesteld over de wijze waarop de gegevens, bedoeld in de [artikelen 67 tot en met 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=67&z=2004-07-07&g=2004-07-07) worden verstrekt alsmede over een procedure voor de controle van die gegevens.
 
 #### § 5. Experimentenregeling
 
 ##### Artikel 72
 
-1. Onze Minister kan bij wijze van experiment voor ten hoogste zes concessieverleners afwijken van de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=3&artikel=66&z=2004-07-01&g=2004-07-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-01&g=2004-07-01), en toepassing geven aan [artikel 81, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), indien:
+1. Onze Minister kan bij wijze van experiment voor ten hoogste zes concessieverleners afwijken van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=61&z=2004-07-07&g=2004-07-07) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-07&g=2004-07-07), en toepassing geven aan [artikel 81, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81), indien:
 
 - a. door de concessieverlener voor 1 januari 2002 voor ten minste 35% van de omzet van het openbaar vervoer een of meer concessies zijn verleend na een procedure van aanbesteding,
 
@@ -900,13 +932,13 @@ Met het oog op de herkenbaarheid voor de reiziger kunnen bij ministeriële regel
 
 - a. een rijbewijs als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) dan wel een door het bevoegde gezag buiten Nederland afgegeven rijbewijs, dat geldig is voor het besturen van het motorrijtuig waarmee wordt gereden,
 
-- b. een geneeskundige verklaring die niet ouder is dan twee maanden, die voldoet aan de eisen, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-01&g=2004-07-01),
+- b. een geneeskundige verklaring die niet ouder is dan twee maanden, die voldoet aan de eisen, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-07&g=2004-07-07),
 
 - c. een met het oog op het uitoefenen van het beroep van taxichauffeur verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194), die niet ouder is dan twee maanden,
 
 - d. een door Onze Minister erkend getuigschrift van met goed gevolg afgelegde examens waarbij ten minste de kennis is vastgesteld van de door Onze Minister vastgestelde onderwerpen.
 
-2. Op de aanvrager die woonachtig is in een andere lidstaat dan Nederland dan wel een andere staat die partij is bij de EER, is voor wat betreft de verklaring omtrent het gedrag, [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-01&g=2004-07-01), van overeenkomstige toepassing.
+2. Op de aanvrager die woonachtig is in een andere lidstaat dan Nederland dan wel een andere staat die partij is bij de EER, is voor wat betreft de verklaring omtrent het gedrag, [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=4&artikel=22&z=2004-07-07&g=2004-07-07), van overeenkomstige toepassing.
 
 3. Onze Minister neemt een aanvraag om verlening van een chauffeurspas in behandeling nadat de bij ministeriële regeling vastgestelde vergoeding voor de kosten van deze behandeling is ontvangen.
 
@@ -914,7 +946,7 @@ Met het oog op de herkenbaarheid voor de reiziger kunnen bij ministeriële regel
 
 ##### Artikel 77
 
-1. Indien Onze Minister vermoedt dat de bestuurder van een auto waarmee taxivervoer wordt verricht, niet meer voldoet aan de eisen voor het afgeven van een geneeskundige verklaring of een verklaring omtrent het gedrag als bedoeld in [artikel 76, eerste lid, onderdeel b, respectievelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=76&z=2004-07-01&g=2004-07-01), kan Onze Minister verlangen dat die bestuurder zich binnen een door hem vast te stellen termijn aan een nieuw geneeskundig onderzoek onderwerpt, respectievelijk opnieuw verzoekt om afgifte van een verklaring omtrent het gedrag. De bestuurder overlegt binnen een door Onze Minister vast te stellen termijn de nieuwe geneeskundige verklaring of de nieuwe verklaring omtrent het gedrag.
+1. Indien Onze Minister vermoedt dat de bestuurder van een auto waarmee taxivervoer wordt verricht, niet meer voldoet aan de eisen voor het afgeven van een geneeskundige verklaring of een verklaring omtrent het gedrag als bedoeld in [artikel 76, eerste lid, onderdeel b, respectievelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=76&z=2004-07-07&g=2004-07-07), kan Onze Minister verlangen dat die bestuurder zich binnen een door hem vast te stellen termijn aan een nieuw geneeskundig onderzoek onderwerpt, respectievelijk opnieuw verzoekt om afgifte van een verklaring omtrent het gedrag. De bestuurder overlegt binnen een door Onze Minister vast te stellen termijn de nieuwe geneeskundige verklaring of de nieuwe verklaring omtrent het gedrag.
 
 2. Onze Minister kan de chauffeurspas intrekken indien:
 
@@ -932,7 +964,7 @@ Met het oog op de herkenbaarheid voor de reiziger kunnen bij ministeriële regel
 
 ##### Artikel 78
 
-Bij ministeriële regeling kunnen nadere regels worden vastgesteld over de aanvraag, verstrekking, intrekking en inlevering van de chauffeurspas alsmede over de uitvoering van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-01&g=2004-07-01).
+Bij ministeriële regeling kunnen nadere regels worden vastgesteld over de aanvraag, verstrekking, intrekking en inlevering van de chauffeurspas alsmede over de uitvoering van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-07&g=2004-07-07).
 
 #### § 2. Eisen te stellen aan materieel
 
@@ -942,7 +974,7 @@ Met het oog op de herkenbaarheid en toegankelijkheid van het vervoer van persone
 
 ##### Artikel 80
 
-1. Het is verboden openbaar vervoer, besloten busvervoer of taxivervoer met een bus of auto te verrichten indien op het kentekenbewijs een aanduiding als bedoeld in [artikel 28, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=28) ontbreekt.
+1. Het is verboden openbaar vervoer met een bus of besloten busvervoer te verrichten indien op het kentekenbewijs een aanduiding als bedoeld in [artikel 28, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=28) ontbreekt. Het is verboden taxivervoer of openbaar vervoer met een auto te verrichten indien op het kentekenbewijs een aanduiding als bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29) juncto [artikel 28, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=28) ontbreekt.
 
 2. Een keuringsbewijs als bedoeld in [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), dat is afgegeven voor het verrichten van openbaar vervoer, besloten busvervoer of taxivervoer met een bus of auto, verliest zijn geldigheid indien hieruit niet blijkt dat is voldaan aan de eisen, bedoeld in het derde lid, onderdeel b.
 
@@ -1010,13 +1042,15 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - c. **ASOR**: Overeenkomst betreffende internationaal ongeregeld personenvervoer over de weg met autobussen als bedoeld in Besluit 82/505/EEG van de Raad van de Europese Gemeenschappen houdende afsluiting van deze overeenkomst (PbEG L 230),
 
-- d. **Beneluxbeschikking**: Beschikking van het Comité van Ministers van 20 december 1994 M(94)7, houdende de vaststelling van additionele bepalingen inzake het reizigersvervoer met touringcars en met autobussen op het grondgebied van een Beneluxstaat,
+- d. **Interbus-overeenkomst**: Overeenkomst betreffende het ongeregeld internationaal vervoer van personen met touringcars en met autobussen als bedoeld in Besluit 2002/917/EG van de Raad van de Europese Unie van 3 oktober 2002 houdende goedkeuring van deze overeenkomst (PbEG L 321),
 
-- e. **derde land**: overeenkomstsluitende partij bij de ASOR, niet zijnde de Europese Gemeenschappen, een lidstaat of een staat die partij is bij de EER,
+- e. **Beneluxbeschikking**: Beschikking van het Comité van Ministers van 20 december 1994 M(94)7, houdende de vaststelling van additionele bepalingen inzake het reizigersvervoer met touringcars en met autobussen op het grondgebied van een Beneluxstaat,
 
-- f. **ander land**: land, niet zijnde een lidstaat of een derde land,
+- f. **derde land**: overeenkomstsluitende partij bij de ASOR, niet zijnde de Europese Gemeenschappen, een lidstaat dan wel een staat die partij is bij de EER of bij de Interbus-overeenkomst,
 
-- g. **geregeld vervoer**:
+- g. **ander land**: land, niet zijnde een lidstaat, land dat partij is bij de Interbus-overeenkomst of een derde land,
+
+- h. **geregeld vervoer**:
 
 - 1°. in de relatie met andere lidstaten en met staten die partij zijn bij de EER: geregeld vervoer in de zin van artikel 2, eerste lid van [verordening (EEG) nr. 684/92](31992R0684), met uitzondering van een bijzondere vorm van geregeld vervoer, voor zover dat vervoer beantwoordt aan de voorwaarden, bedoeld in artikel 1 van die verordening,
 
@@ -1024,7 +1058,9 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - 3°. in de relatie met andere landen: geregeld vervoer als bedoeld in artikel 3, eerste lid, van de ASOR, tenzij anders bepaald in de met deze landen gesloten overeenkomsten,
 
-- h. **een bijzondere vorm van geregeld vervoer**:
+- 4°. in de relatie met landen die partij zijn bij de Interbus-overeenkomst: geregeld vervoer als bedoeld in artikel 3, derde lid, van de Interbus-overeenkomst,
+
+- i. **een bijzondere vorm van geregeld vervoer**:
 
 - 1°. in de relatie met andere lidstaten en met staten die partij zijn bij de EER: een bijzondere vorm van geregeld vervoer in de zin van artikel 2, eerste lid, punt 2, onder a tot en met c, van [verordening (EEG) nr. 684/92](31992R0684), voor zover dat vervoer beantwoordt aan de voorwaarde, bedoeld in artikel 1, van die verordening,
 
@@ -1032,13 +1068,17 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - 3°. in de relatie met andere landen: een bijzondere vorm van geregeld vervoer als bedoeld in artikel 3, tweede lid, van de ASOR, tenzij anders bepaald in de met deze landen gesloten overeenkomsten,
 
-- i. **pendelvervoer**:
+- 4°. in de relatie met landen die partij zijn bij de Interbus-overeenkomst: een bijzondere vorm van geregeld vervoer als bedoeld in artikel 3, vierde lid, van de Interbus-overeenkomst,
+
+- j. **pendelvervoer**:
 
 - 1°. in de relatie met derde landen: pendelvervoer als bedoeld in artikel 4, eerste lid, van de ASOR,
 
 - 2°. in de relatie met andere landen: pendelvervoer als bedoeld in artikel 4, eerste lid, van de ASOR, tenzij anders bepaald in de met deze landen gesloten overeenkomsten,
 
-- j. **ongeregeld vervoer**:
+- 3°. in de relatie met landen die partij zijn bij de Interbus-overeenkomst: pendelvervoer als bedoeld in artikel 3, vijfde lid, van de Interbus-overeenkomst,
+
+- k. **ongeregeld vervoer**:
 
 - 1°. in de relatie met andere Beneluxlanden: ongeregeld vervoer in de zin van artikel 4 van de Beneluxbeschikking,
 
@@ -1054,7 +1094,9 @@ Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt ve
 
 - –. alle andere vormen van vervoer.
 
-- k. vervoer voor eigen rekening: vervoer voor eigen rekening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-07-01&g=2004-07-01).
+- 5°. in relatie met landen die partij zijn bij de Interbus-overeenkomst: ongeregeld internationaal vervoer als bedoeld in artikel 3, tweede lid, van de Interbusovereenkomst,
+
+- l. vervoer voor eigen rekening: vervoer voor eigen rekening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-07-07&g=2004-07-07).
 
 #### § 2. Algemene bepalingen
 
@@ -1066,9 +1108,9 @@ Op vervoer van personen dat in Nederland wordt verricht door een vervoerder die 
 
 1. Onze Minister beslist op een aanvraag om een vergunning, een attest of een bewijs van toelating voor internationaal vervoer als bedoeld in dit hoofdstuk. Hij kan ambtshalve of op verzoek de vergunning, het attest of het bewijs van toelating vernieuwen, wijzigen of intrekken. De vergunning kan tevens ambtshalve worden geschorst.
 
-2. Reisbladenboekjes als bedoeld in artikel 11, vierde lid, van [verordening (EEG) nr. 684/92](31992R0684) en artikel 7, eerste lid, van de ASOR, worden voor Nederland afgegeven door Onze Minister.
+2. Reisbladenboekjes als bedoeld in artikel 11, vierde lid, van [verordening (EEG) nr. 684/92](31992R0684) en artikel 7, eerste lid, van de ASOR, alsmede in artikel 11 van de Interbus-overeenkomst worden voor Nederland afgegeven door Onze Minister.
 
-3. Een kopie van het reisblad als bedoeld in artikel 2 van [verordening (EG) nr. 2121/98](31998R2121) en in artikel 13 van de ASOR, wordt op het hoofdkantoor van de desbetreffende vervoerder tenminste twee jaar bewaard.
+3. Een kopie van het reisblad als bedoeld in artikel 2 van [verordening (EG) nr. 2121/98](31998R2121) en in artikel 13 van de ASOR, alsmede in artikel 13 van de Interbus-overeenkomst wordt op het hoofdkantoor van de desbetreffende vervoerder tenminste twee jaar bewaard.
 
 ##### Artikel 92
 
@@ -1082,7 +1124,7 @@ Het is verboden een bewerkt gewaarmerkt afschrift van een vergunning te gebruike
 
 Hoofdstuk 2, paragrafen 1, 2 en 3, zijn van overeenkomstige toepassing op de verlening, wijziging of intrekking van vergunningen en documenten als bedoeld in dit hoofdstuk.
 
-#### § 3. Geregeld vervoer en een bijzondere vorm van geregeld vervoer van en naar andere lidstaten
+#### § 3. Geregeld vervoer en een bijzondere vorm van geregeld vervoer van en naar andere lidstaten en staten die partij zijn bij de EER
 
 ##### Artikel 95
 
@@ -1102,11 +1144,11 @@ De vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer v
 
 2. Onze Minister stelt het model vast voor het vervoerverslag.
 
-#### § 4. Geregeld vervoer en een bijzondere vorm van geregeld vervoer van en naar derde landen en andere landen
+#### § 4. Geregeld vervoer en een bijzondere vorm van geregeld vervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst en andere landen
 
 ##### Artikel 98
 
-1. Het is verboden geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen of andere landen te verrichten zonder een daartoe strekkende vergunning.
+1. Het is verboden geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst of andere landen te verrichten zonder een daartoe strekkende vergunning.
 
 2. Een vergunning als bedoeld in het eerste lid wordt aan de in Nederland gevestigde vervoerder slechts verleend indien hem een vergunning voor collectief personenvervoer is verleend.
 
@@ -1118,7 +1160,7 @@ De vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer v
 
 ##### Artikel 100
 
-De vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen en andere landen verricht, draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
+De vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst en andere landen verricht, draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
 
 - a. de vergunning krachtens welke het vervoer wordt verricht of het door Onze Minister gewaarmerkt afschrift van deze vergunning,
 
@@ -1126,27 +1168,27 @@ De vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer v
 
 ##### Artikel 101
 
-1. De in Nederland gevestigde vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen of andere landen verricht, verstrekt aan Onze Minister binnen twee maanden na afloop van ieder kalenderjaar van elk in dat jaar per kwartaal verricht vervoer de gegevens in een vervoerverslag.
+1. De in Nederland gevestigde vervoerder die geregeld vervoer of een bijzondere vorm van geregeld vervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst of andere landen verricht, verstrekt aan Onze Minister binnen twee maanden na afloop van ieder kalenderjaar van elk in dat jaar per kwartaal verricht vervoer de gegevens in een vervoerverslag.
 
 2. Onze Minister stelt het model vast voor het vervoerverslag.
 
-#### § 5. Pendelvervoer van en naar derde landen en andere landen
+#### § 5. Pendelvervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst en andere landen
 
 ##### Artikel 102
 
-1. Het is verboden pendelvervoer van en naar derde landen en andere landen te verrichten zonder een daartoe strekkende vergunning, tenzij met een land is overeengekomen dat geen vergunning is vereist.
+1. Het is verboden pendelvervoer van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst en andere landen te verrichten zonder een daartoe strekkende vergunning, tenzij met een land is overeengekomen dat geen vergunning is vereist.
 
 2. Een vergunning als bedoeld in het eerste lid wordt aan de in Nederland gevestigde vervoerder slechts verleend indien hem een vergunning voor collectief personenvervoer is verleend.
 
 ##### Artikel 103
 
-De vervoerder die pendelvervoer verricht van en naar derde landen of andere landen, draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
+De vervoerder die pendelvervoer verricht van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst of andere landen, draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
 
 - a. de vergunning krachtens welke het vervoer wordt verricht of het door Onze Minister gewaarmerkt afschrift van deze vergunning,
 
 - b. indien het vervoer door een in Nederland gevestigde vervoerder betreft: het vergunningbewijs voor collectief personenvervoer.
 
-#### § 6. Ongeregeld vervoer met bussen uit lidstaten, derde landen en andere landen
+#### § 6. Ongeregeld vervoer met bussen uit lidstaten, derde landen, landen die partij zijn bij de Interbus-overeenkomst en andere landen
 
 ##### Artikel 104
 
@@ -1156,9 +1198,13 @@ De vervoerder die pendelvervoer verricht van en naar derde landen of andere land
 
 3. Het is verboden met bussen die blijkens het kenteken zijn ingeschreven in derde landen, ongeregeld vervoer te verrichten in strijd met de ASOR.
 
+4. Het is verboden met bussen die blijkens het kenteken zijn ingeschreven in landen die partij zijn bij de Interbus-overeenkomst ongeregeld vervoer te verrichten in strijd met de Interbus-overeenkomst.
+
 ##### Artikel 105
 
-Het is verboden ongeregeld vervoer als bedoeld in artikel 2, eerste lid, onderdeel c, van de ASOR, van en naar derde landen te verrichten zonder een daartoe strekkende vergunning, met uitzondering van het vervoer, bedoeld in artikel 5, tweede lid, van die overeenkomst.
+1. Het is verboden ongeregeld vervoer als bedoeld in artikel 2, eerste lid, onderdeel c, van de ASOR, van en naar derde landen te verrichten zonder een daartoe strekkende vergunning, met uitzondering van het vervoer, bedoeld in artikel 5, tweede lid, van die overeenkomst.
+
+2. Het is verboden ongeregeld vervoer als bedoeld in artikel 3, tweede lid, van de Interbus-overeenkomst te verrichten zonder een daartoe strekkende vergunning als bedoeld in artikel 15 van de Interbus-overeenkomst, met uitzondering van het vervoer bedoeld in artikel 6 van die overeenkomst.
 
 ##### Artikel 106
 
@@ -1170,19 +1216,23 @@ De in Nederland gevestigde vervoerder die ongeregeld vervoer als bedoeld in deze
 
 ##### Artikel 108
 
-De vervoerder die ongeregeld vervoer verricht met bussen van en naar lidstaten dan wel staten die partij zijn bij de EER of derde landen, draagt zorg dat in de bus waarmee het vervoer wordt verricht aanwezig is:
+De vervoerder die ongeregeld vervoer verricht met bussen van en naar lidstaten dan wel staten die partij zijn bij de EER of de Interbus-overeenkomst dan wel derde landen, draagt zorg dat in de bus waarmee het vervoer wordt verricht aanwezig is:
 
 - a. indien het betreft vervoer als bedoeld in artikel 2, derde lid, punt 1, eerste alinea van [verordening (EEG) nr. 684/92](31992R0684) van en naar lidstaten dan wel staten die partij zijn bij de EER: het reisblad en het gewaarmerkt afschrift van de communautaire vergunning,
 
 - b. indien het betreft vervoer als bedoeld in artikel 5, eerste en tweede lid, van de ASOR van en naar derde landen en het wordt verricht door een in Nederland gevestigde vervoerder: het reisblad en het vergunningbewijs voor collectief personenvervoer,
 
-- c. indien het betreft vervoer als bedoeld in artikel 5, derde lid, van de ASOR van en naar derde landen en het wordt verricht door een in Nederland gevestigde vervoerder: een gewaarmerkt afschrift van de vergunning en het vergunningbewijs voor collectief personenvervoer.
+- c. indien het betreft vervoer als bedoeld in artikel 5, derde lid, van de ASOR van en naar derde landen en het wordt verricht door een in Nederland gevestigde vervoerder: een gewaarmerkt afschrift van de vergunning en het vergunningbewijs voor collectief personenvervoer,
+
+- d. indien het betreft vervoer als bedoeld in artikel 6 van de Interbus-overeenkomst van en naar landen die partij zijn bij die overeenkomst en het vervoer wordt verricht door een in Nederland gevestigde vervoerder: het reisblad en het vergunningbewijs voor collectief personenvervoer,
+
+- e. indien het betreft vervoer als bedoeld in artikel 7 van de Interbus-overeenkomst van en naar landen die partij zijn bij die overeenkomst en het vervoer wordt verricht door een in Nederland gevestigde vervoerder: een gewaarmerkt afschrift van de vergunning en het vergunningbewijs voor collectief personenvervoer.
 
 ##### Artikel 109
 
 De vervoerder die ongeregeld vervoer verricht van en naar andere landen, draagt zorg dat:
 
-- a. in de bus waarmee dat vervoer wordt verricht, indien het vervoer betreft waarvoor op grond van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=6&artikel=105&z=2004-07-01&g=2004-07-01) een vergunning is vereist, de vergunning aanwezig is krachtens welke het vervoer wordt verricht of het door Onze Minister gewaarmerkt afschrift daarvan,
+- a. in de bus waarmee dat vervoer wordt verricht, indien het vervoer betreft waarvoor op grond van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=6&artikel=105&z=2004-07-07&g=2004-07-07) een vergunning is vereist, de vergunning aanwezig is krachtens welke het vervoer wordt verricht of het door Onze Minister gewaarmerkt afschrift daarvan,
 
 - b. in de bus waarmee dat vervoer wordt verricht, indien het vervoer door een in Nederland gevestigde vervoerder betreft, het vergunningbewijs voor collectief personenvervoer aanwezig is.
 
@@ -1206,13 +1256,13 @@ De vervoerder die vervoer voor eigen rekening verricht van en naar andere lidsta
 
 ##### Artikel 113
 
-1. Het is verboden vervoer voor eigen rekening van en naar derde landen of andere landen te verrichten zonder een daartoe strekkende vergunning, tenzij met een land is overeengekomen dat geen vergunning is vereist.
+1. Het is verboden vervoer voor eigen rekening van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst of andere landen te verrichten zonder een daartoe strekkende vergunning, tenzij met een land is overeengekomen dat geen vergunning is vereist.
 
 2. Een vergunning als bedoeld in het eerste lid wordt aan de in Nederland gevestigde ondernemer slechts verleend indien hem een vergunning voor collectief personenvervoer als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4) is verleend.
 
 ##### Artikel 114
 
-De vervoerder die vervoer voor eigen rekening verricht van en naar derde landen of andere landen draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
+De vervoerder die vervoer voor eigen rekening verricht van en naar derde landen, landen die partij zijn bij de Interbus-overeenkomst of andere landen draagt zorg dat in de bus waarmee dat vervoer wordt verricht aanwezig is:
 
 - a. de vergunning krachtens welke het vervoer wordt verricht of een door Onze Minister gewaarmerkt afschrift van deze vergunning,
 
@@ -1236,7 +1286,7 @@ De vervoerder die vervoer voor eigen rekening verricht van en naar derde landen 
 
 ##### Artikel 116
 
-1. Voor het verrichten van ander taxivervoer dan het vervoer, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-01&g=2004-07-01), met een auto die blijkens het kenteken buiten Nederland is geregistreerd, is een bewijs van toelating van vervoer vereist.
+1. Voor het verrichten van ander taxivervoer dan het vervoer, bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-07&g=2004-07-07), met een auto die blijkens het kenteken buiten Nederland is geregistreerd, is een bewijs van toelating van vervoer vereist.
 
 2. Onze Minister verleent een bewijs van toelating van vervoer indien de vervoerder beschikt over een vergunning voor het verrichten van taxivervoer van het land waar de auto is geregistreerd.
 
@@ -1244,9 +1294,9 @@ De vervoerder die vervoer voor eigen rekening verricht van en naar derde landen 
 
 ##### Artikel 117
 
-De vervoerder, bedoeld in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-01&g=2004-07-01) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=116&z=2004-07-01&g=2004-07-01), draagt er zorg voor dat in de auto aanwezig is:
+De vervoerder, bedoeld in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-07&g=2004-07-07) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=116&z=2004-07-07&g=2004-07-07), draagt er zorg voor dat in de auto aanwezig is:
 
-- a. een vergunning als bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-01&g=2004-07-01) of een gewaarmerkt afschrift hiervan, dan wel een bewijs van toelating als bedoeld in artikel 116,
+- a. een vergunning als bedoeld in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-07&g=2004-07-07) of een gewaarmerkt afschrift hiervan, dan wel een bewijs van toelating als bedoeld in artikel 116,
 
 - b. een volledig en naar waarheid voor de aanvang van de rit ingevuld, bij ministeriële regeling vastgesteld controledocument waarop tenminste is aangeven naam en adres van de vervoerder, naam van de bestuurder, datum, kenteken en zo nodig plaatsnummer van de auto, plaats en tijdstip van vertrek van de rit en plaats en tijdstip van instappen en uitstappen van reizigers.
 
@@ -1254,7 +1304,7 @@ De vervoerder, bedoeld in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 118
 
-Overtreding van elk van de voorschriften, vervat in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=16&z=2004-07-01&g=2004-07-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=19&z=2004-07-01&g=2004-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=20&z=2004-07-01&g=2004-07-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-01&g=2004-07-01), [74, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-01&g=2004-07-01), [75, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=75&z=2004-07-01&g=2004-07-01), [77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-01&g=2004-07-01), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=86&z=2004-07-01&g=2004-07-01), [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=87&z=2004-07-01&g=2004-07-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=88&z=2004-07-01&g=2004-07-01), [91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=2&artikel=91&z=2004-07-01&g=2004-07-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=2&artikel=93&z=2004-07-01&g=2004-07-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=95&z=2004-07-01&g=2004-07-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=96&z=2004-07-01&g=2004-07-01), [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=97&z=2004-07-01&g=2004-07-01), [98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=98&z=2004-07-01&g=2004-07-01), [99](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=99&z=2004-07-01&g=2004-07-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=100&z=2004-07-01&g=2004-07-01), [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=101&z=2004-07-01&g=2004-07-01), [102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=5&artikel=102&z=2004-07-01&g=2004-07-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=5&artikel=103&z=2004-07-01&g=2004-07-01) tot en met [110](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=110&z=2004-07-01&g=2004-07-01), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=112&z=2004-07-01&g=2004-07-01), [113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=113&z=2004-07-01&g=2004-07-01), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=114&z=2004-07-01&g=2004-07-01), [115, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-01&g=2004-07-01), [116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=116&z=2004-07-01&g=2004-07-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=117&z=2004-07-01&g=2004-07-01), [127, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=127&z=2004-07-01&g=2004-07-01), vormt een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
+Overtreding van elk van de voorschriften, vervat in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=16&z=2004-07-07&g=2004-07-07), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=19&z=2004-07-07&g=2004-07-07), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=20&z=2004-07-07&g=2004-07-07), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-07&g=2004-07-07), [74, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-07&g=2004-07-07), [75, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=75&z=2004-07-07&g=2004-07-07), [77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=77&z=2004-07-07&g=2004-07-07), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=86&z=2004-07-07&g=2004-07-07), [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=87&z=2004-07-07&g=2004-07-07), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=7&artikel=88&z=2004-07-07&g=2004-07-07), [91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=2&artikel=91&z=2004-07-07&g=2004-07-07), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=2&artikel=93&z=2004-07-07&g=2004-07-07), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=95&z=2004-07-07&g=2004-07-07), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=96&z=2004-07-07&g=2004-07-07), [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=3&artikel=97&z=2004-07-07&g=2004-07-07), [98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=98&z=2004-07-07&g=2004-07-07), [99](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=99&z=2004-07-07&g=2004-07-07), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=100&z=2004-07-07&g=2004-07-07), [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=4&artikel=101&z=2004-07-07&g=2004-07-07), [102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=5&artikel=102&z=2004-07-07&g=2004-07-07), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=5&artikel=103&z=2004-07-07&g=2004-07-07) tot en met [110](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=110&z=2004-07-07&g=2004-07-07), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=112&z=2004-07-07&g=2004-07-07), [113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=113&z=2004-07-07&g=2004-07-07), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=7&artikel=114&z=2004-07-07&g=2004-07-07), [115, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=115&z=2004-07-07&g=2004-07-07), [116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=116&z=2004-07-07&g=2004-07-07), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=117&z=2004-07-07&g=2004-07-07), [127, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=10&paragraaf=1&artikel=127&z=2004-07-07&g=2004-07-07), vormt een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -1262,19 +1312,19 @@ Overtreding van elk van de voorschriften, vervat in de [artikelen 14, derde lid]
 
 ##### Artikel 119
 
-1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=6&z=2004-07-01&g=2004-07-01) is van toepassing op vervoer als bedoeld in artikel 5b van het Besluit personenvervoer, waarvan de overeenkomst op het moment van inwerkingtreding van dit besluit nog niet was beëindigd.
+1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=6&z=2004-07-07&g=2004-07-07) is van toepassing op vervoer als bedoeld in artikel 5b van het Besluit personenvervoer, waarvan de overeenkomst op het moment van inwerkingtreding van dit besluit nog niet was beëindigd.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=7&z=2004-07-01&g=2004-07-01) is van toepassing op vervoer als bedoeld in artikel 5c van het Besluit personenvervoer, waarvan de overeenkomst op het moment van inwerkingtreding van dit besluit nog niet was beëindigd
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=1&paragraaf=2&artikel=7&z=2004-07-07&g=2004-07-07) is van toepassing op vervoer als bedoeld in artikel 5c van het Besluit personenvervoer, waarvan de overeenkomst op het moment van inwerkingtreding van dit besluit nog niet was beëindigd
 
 ##### Artikel 120
 
-In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=1&artikel=12&z=2004-07-01&g=2004-07-01) geldt voor een beslissing op een aanvraag om verlening van een vergunning voor het verrichten van taxivervoer een termijn van zes maanden, voorzover deze aanvraag is gedaan voor 1 januari 2001.
+In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=1&artikel=12&z=2004-07-07&g=2004-07-07) geldt voor een beslissing op een aanvraag om verlening van een vergunning voor het verrichten van taxivervoer een termijn van zes maanden, voorzover deze aanvraag is gedaan voor 1 januari 2001.
 
 ##### Artikel 121
 
-1. Gedurende de periode dat vergunningen die krachtens de Wet personenvervoer zijn verleend, overeenkomstig [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=112) of [113 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=113) geldig blijven, behouden ook de op deze vergunningen verstrekte vergunningbewijzen hun geldigheid, behoudens het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-01&g=2004-07-01).
+1. Gedurende de periode dat vergunningen die krachtens de Wet personenvervoer zijn verleend, overeenkomstig [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=112) of [113 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=113) geldig blijven, behouden ook de op deze vergunningen verstrekte vergunningbewijzen hun geldigheid, behoudens het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=2&artikel=14&z=2004-07-07&g=2004-07-07).
 
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=16&z=2004-07-01&g=2004-07-01) is niet van toepassing op vergunningen als bedoeld in het eerste lid, die zijn verleend voor het verrichten van openbaar vervoer.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=3&artikel=16&z=2004-07-07&g=2004-07-07) is niet van toepassing op vergunningen als bedoeld in het eerste lid, die zijn verleend voor het verrichten van openbaar vervoer.
 
 ##### Artikel 122
 
@@ -1290,19 +1340,19 @@ Degene die in het bezit is van een verklaring die voor 1 oktober 1999 overeenkom
 
 ##### Artikel 125
 
-Tot 1 juli 2001, wordt, in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-01&g=2004-07-01), aan de eis van vakbekwaamheid voor het verrichten van taxivervoer voldaan indien:
+Tot 1 juli 2001, wordt, in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-07&g=2004-07-07), aan de eis van vakbekwaamheid voor het verrichten van taxivervoer voldaan indien:
 
 - a. een vervoerder die taxivervoer verricht bij de aanvraag van een vergunning voor het verrichten van taxivervoer ten genoegen van Onze Minister aantoont in de periode van 1 juli 1999 tot 1 december 1999 gemiddeld minimaal 30 uur per week per auto taxivervoer te hebben verricht, waarbij is voldaan aan de eisen, gesteld bij of krachtens de artikelen 62 en 63 van de Wet personenvervoer en artikel 159 van het Besluit personenvervoer, zoals deze golden tot 1 januari 2000 en
 
-- b. voor 1 juli 2001 aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-01&g=2004-07-01), wordt voldaan, dan wel voor die datum, blijkens een door Onze Minister afgegeven verklaring wordt aangetoond dat een persoon als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-01&g=2004-07-01), de laatste 5 jaar belast is geweest met het dagelijks beheer van een onderneming met als hoofdactiviteit taxivervoer krachtens een geldige vergunning.
+- b. voor 1 juli 2001 aan [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=28&z=2004-07-07&g=2004-07-07), wordt voldaan, dan wel voor die datum, blijkens een door Onze Minister afgegeven verklaring wordt aangetoond dat een persoon als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=26&z=2004-07-07&g=2004-07-07), de laatste 5 jaar belast is geweest met het dagelijks beheer van een onderneming met als hoofdactiviteit taxivervoer krachtens een geldige vergunning.
 
 ##### Artikel 126
 
-Degene aan wie op grond van artikel 29 van het Besluit personenvervoer, zoals dat luidde voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=29&z=2004-07-01&g=2004-07-01), een ontheffing is verleend van de eis van vakbekwaamheid, blijft vanaf de inwerkingtreding van dit besluit ontheven van de eis van vakbekwaamheid onder de voorwaarden waaronder en gedurende de periode waarvoor die ontheffing is verleend.
+Degene aan wie op grond van artikel 29 van het Besluit personenvervoer, zoals dat luidde voor de inwerkingtreding van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=2&paragraaf=6&artikel=29&z=2004-07-07&g=2004-07-07), een ontheffing is verleend van de eis van vakbekwaamheid, blijft vanaf de inwerkingtreding van dit besluit ontheven van de eis van vakbekwaamheid onder de voorwaarden waaronder en gedurende de periode waarvoor die ontheffing is verleend.
 
 ##### Artikel 127
 
-1. Tot het tijdstip van inwerkingtreding van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=82&z=2004-07-01&g=2004-07-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=83&z=2004-07-01&g=2004-07-01), gelden de volgende bepalingen:
+1. Tot het tijdstip van inwerkingtreding van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=82&z=2004-07-07&g=2004-07-07) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=83&z=2004-07-07&g=2004-07-07), gelden de volgende bepalingen:
 
 - a. in een auto waarmee taxivervoer wordt verricht, is een taxameter aanwezig die zichtbaar voor de reiziger de vervoerprijs overeenkomstig de kenbaar gemaakte tarieven aangeeft,
 
@@ -1332,7 +1382,7 @@ Degene aan wie op grond van artikel 29 van het Besluit personenvervoer, zoals da
 
 ##### Artikel 128
 
-Een geneeskundige verklaring die voor de inwerkingtreding van dit besluit op grond van artikel 157 van het Besluit personenvervoer is afgegeven en zijn geldigheid niet heeft verloren, wordt vanaf de inwerkingtreding van dit besluit gelijkgesteld met de verklaring, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-01&g=2004-07-01).
+Een geneeskundige verklaring die voor de inwerkingtreding van dit besluit op grond van artikel 157 van het Besluit personenvervoer is afgegeven en zijn geldigheid niet heeft verloren, wordt vanaf de inwerkingtreding van dit besluit gelijkgesteld met de verklaring, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=74&z=2004-07-07&g=2004-07-07).
 
 ##### Artikel 129
 
@@ -1396,27 +1446,27 @@ Wijzigt het Vreemdelingenbesluit.
 
 Na de inwerkingtreding van dit besluit berusten de hierna genoemde ministeriële regelingen op de daarbij vermelde artikelen van dit besluit:
 
-- a. de Regeling aanwijzing instanties afgifte legitimatiebewijs voor gehandicapten berust op [artikel 45, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-01&g=2004-07-01),
+- a. de Regeling aanwijzing instanties afgifte legitimatiebewijs voor gehandicapten berust op [artikel 45, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=4&paragraaf=2&artikel=45&z=2004-07-07&g=2004-07-07),
 
-- b. de Regeling rijksbijdrage openbaar vervoer berust op de [artikelen 54 tot en met 59](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-01&g=2004-07-01),
+- b. de Regeling rijksbijdrage openbaar vervoer berust op de [artikelen 54 tot en met 59](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=1&artikel=54&z=2004-07-07&g=2004-07-07),
 
-- c. het besluit van de Minister van Verkeer en Waterstaat van 27 maart 2000, nr. CDJZ/WVW/2000-343 (Stcrt. 77) berust op [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=71&z=2004-07-01&g=2004-07-01),
+- c. het besluit van de Minister van Verkeer en Waterstaat van 27 maart 2000, nr. CDJZ/WVW/2000-343 (Stcrt. 77) berust op [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=4&artikel=71&z=2004-07-07&g=2004-07-07),
 
-- d. de Regeling experiment meerjarenafspraken openbaar vervoer 2000 berust op [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=5&artikel=72&z=2004-07-01&g=2004-07-01).
+- d. de Regeling experiment meerjarenafspraken openbaar vervoer 2000 berust op [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=5&paragraaf=5&artikel=72&z=2004-07-07&g=2004-07-07).
 
-- e. de Regeling maximumtarief en bekendmaking tarieven taxivervoer berust mede op [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=73&z=2004-07-01&g=2004-07-01),
+- e. de Regeling maximumtarief en bekendmaking tarieven taxivervoer berust mede op [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=73&z=2004-07-07&g=2004-07-07),
 
-- f. de Regeling chauffeurspas taxivervoer berust op de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=75&z=2004-07-01&g=2004-07-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=76&z=2004-07-01&g=2004-07-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=78&z=2004-07-01&g=2004-07-01),
+- f. de Regeling chauffeurspas taxivervoer berust op de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=75&z=2004-07-07&g=2004-07-07), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=76&z=2004-07-07&g=2004-07-07) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=1&artikel=78&z=2004-07-07&g=2004-07-07),
 
-- g. de Regeling permanente eisen bussen berust op [artikel 80, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-01&g=2004-07-01),
+- g. de Regeling permanente eisen bussen berust op [artikel 80, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-07&g=2004-07-07),
 
-- h. de Regeling permanente eisen taxi's berust op [artikel 80, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-01&g=2004-07-01),
+- h. de Regeling permanente eisen taxi's berust op [artikel 80, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-07&g=2004-07-07),
 
-- i. de Regeling vaststelling regels voor de keuring van auto's berust op [artikel 80, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-01&g=2004-07-01),
+- i. de Regeling vaststelling regels voor de keuring van auto's berust op [artikel 80, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-07&g=2004-07-07),
 
-- j. de Regeling vaststelling regels voor de keuring van bussen berust op [artikel 80, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-01&g=2004-07-01),
+- j. de Regeling vaststelling regels voor de keuring van bussen berust op [artikel 80, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=6&paragraaf=2&artikel=80&z=2004-07-07&g=2004-07-07),
 
-- k. de Regeling vaststelling controledocument internationaal taxivervoer berust op [artikel 117, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=117&z=2004-07-01&g=2004-07-01).
+- k. de Regeling vaststelling controledocument internationaal taxivervoer berust op [artikel 117, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&hoofdstuk=8&paragraaf=8&artikel=117&z=2004-07-07&g=2004-07-07).
 
 #### § 3. Slotbepalingen
 
