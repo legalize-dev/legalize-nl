@@ -4,7 +4,7 @@ identifier: "BWBR0016606"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-30"
-last_updated: "2004-04-29"
+last_updated: "2004-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016606"
 soort: "wet"
@@ -42,19 +42,19 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Les- en cursusgeldwet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Tot het tijdstip waarop [artikel 8.1.1a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.1a) in werking treedt, geldt voor de toepassing van [artikel 2.2.2, eerste lid, onder a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2), dat bij de vaststelling van de instroom van deelnemers en het bepalen van het aantal deelnemers en examendeelnemers dat een diploma heeft behaald, die deelnemers meetellen waarvan naam, adres en woonplaats bij het bevoegd gezag bekend zijn. Het bevoegd gezag is gehouden ter verificatie van die gegevens van de deelnemer te verlangen dat hij een niet langer dan 6 maanden voor het verzoek om verificatie afgegeven gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens als bedoeld in de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723) van zijn woonplaats overlegt. Verificatie kan achterwege blijven in die gevallen waarin aan de deelnemer een onderwijskaart is verstrekt als bedoeld in artikel 2, vierde lid, van het Uitvoeringsbesluit Les- en cursusgeldwet. Deelnemers die niet zijn opgenomen in de basisadministratie persoonsgegevens tellen alleen mee als zij onderwijs in Nederland volgen en als de instelling de gegevens betreffende naam, adres en woonplaats van de betrokken deelnemer heeft vastgesteld op een wijze vergelijkbaar met hetgeen in de tweede volzin is bepaald.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor elk van de artikelen en de onderdelen daarvan verschillend kan worden vastgesteld.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
