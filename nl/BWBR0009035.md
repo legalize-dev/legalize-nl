@@ -113,39 +113,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit slotallocatie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 8a.52 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.52).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 5a
-
-1. De exploitant van een gecoördineerde luchthaven:
-
-- a. stelt twee maal per jaar coördinatieparameters vast overeenkomstig artikel 6 van de verordening en met inachtneming van de door de verlener van de luchtverkeersleidingsdiensten vastgestelde ATM-capaciteit; en
-
-- b. deelt de vastgestelde coördinatieparameters tijdig vóór de eerste toewijzing van slots ter voorbereiding van de planningconferenties mee aan de luchthavencoördinator.
-
-2. Onze Minister kan de exploitant van een gecoördineerde luchthaven een aanwijzing geven met betrekking tot uitvoering van het eerste lid. De exploitant is verplicht de bindende aanwijzing uit te voeren binnen de termijn die daarin gesteld is. De aanwijzing kan worden gegeven met het oog op:
-
-- a. naleving van milieuvoorschriften;
-
-- b. waarborging van de veiligheid;
-
-- c. naleving van hetgeen bij of krachtens de slotverordening is bepaald.
-
-3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de coördinatieparameters.
-
-##### Artikel 5b
-
-1. De exploitant van de luchthaven Schiphol laat ten minste eenmaal in de drie jaar een onafhankelijk onderzoek uitvoeren waarin, rekening houdend met alle relevante landzijdige technische, operationele en milieubeperkingen, de beschikbare capaciteit op de luchthaven in beeld wordt gebracht.
-
-2. Onze Minister kan de exploitanten van de overige gecoördineerde luchthavens verzoeken een onderzoek als bedoeld in het eerste lid te laten uitvoeren.
-
-3. De resultaten van het onderzoek worden door de exploitant binnen zes maanden na het verzoek, bedoeld in het tweede lid, verzonden naar Onze Minister en het coördinatiecomité.
-
-4. De exploitant kan een onderzoek als bedoeld in dit artikel ook zelf uitvoeren indien het wordt getoetst door een onafhankelijke partij en de conclusies van die onafhankelijke partij gelijktijdig met het onderzoek worden verzonden naar Onze Minister en het coördinatiecomité.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
