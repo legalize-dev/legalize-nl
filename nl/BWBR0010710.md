@@ -227,33 +227,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: [Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710)
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Personeelsaangelegenheden
-
-Deze regeling is niet van toepassing op personeelsaangelegenheden.
-
-### Hoofdstuk 2. Algemene bepalingen
-
-### Hoofdstuk 3. Verlening van volmacht
-
-### Hoofdstuk 4. Beperkingen van volmacht
-
-### Hoofdstuk 5. Ondervolmacht
-
-### Hoofdstuk 6. Bijzonder ondervolmacht
-
-### Hoofdstuk 7. Bijzondere ondervolmacht
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-De volmacht, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=8&z=2025-03-01&g=2025-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=9&z=2025-03-01&g=2025-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2025-03-01&g=2025-03-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
-
-### Hoofdstuk 4. Beperkingen van volmacht
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
