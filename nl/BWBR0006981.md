@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2002-01-01"
+last_updated: "2003-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2002-01-01&g=2002-01-01) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
+1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2003-09-12&g=2003-09-12) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
 
 - a. hoofdcommissaris;
 
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 1. De volgende rangen zijn verbonden aan de volgende functies:
 
-- a. aspirant voor degene die is aangesteld op grond van [artikel 3, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3);
+- a. aspirant voor degene die op grond van [artikel 3, eerste, tweede of derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) is aangesteld als aspirant;
 
 - b. surveillant van politie voor functies die zijn gewaardeerd op schaal 4 en 5;
 
@@ -94,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2a
 
-1. Onverminderd [artikel 45 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=45), gelden voor de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) de rangen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2002-01-01&g=2002-01-01).
+1. Onverminderd [artikel 45 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=45), gelden voor de ambtenaren, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) de rangen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2003-09-12&g=2003-09-12).
 
 2. Aan de volgende functies onderscheidenlijk werkzaamheden is verbonden de rang van:
 
@@ -127,5 +127,19 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit rangen politie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2b
+
+Aan de voorzitter van het college van bestuur van het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum, die is aangesteld als ambtenaar als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](onbekend) kan voor de duur van zijn voorzitterschap op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bij koninklijk besluit de rang van hoofdcommissaris worden toegekend.
+
+##### Artikel 2c
+
+Aan de ambtenaar die is aangesteld als ambtenaar als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](onbekend) voor wie de rang van hoofdcommissaris heeft gegolden, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
+
+##### Artikel 2d
+
+Aan de ambtenaar, bedoeld in [artikel 3, eerste lid, onderdeel a, van de Politiewet 1993](onbekend), die is aangesteld in een functie waaraan de rang van commissaris is verbonden en die op uitzonderlijke wijze heeft bijgedragen tot de behartiging van de belangen van de Nederlandse politie, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
