@@ -1,0 +1,296 @@
+---
+title: "Besluit van 4 juni 1998, houdende het Warenwetbesluit Meel en brood"
+identifier: "BWBR0009669"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-07-01"
+last_updated: "2000-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009669"
+soort: "AMvB"
+stam_id: "806963"
+version_id: "1168982"
+internal_id: "C1168981"
+label_id: "781644"
+dtd_version: "2.0"
+original_entry_into_force: "1998-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009669/2020-07-01/0"
+intitule_bron: "Stb.1998-341"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-04"
+intitule_published: "1998-06-18"
+intitule_in_force: "1998-06-18"
+intitule_status: "goed"
+original_publication: "Stb.1998-341"
+original_signed_date: "1998-06-04"
+original_published_date: "1998-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-341"
+entry_into_force_date: "1998-06-19"
+jci_1_3: "jci1.3:c:BWBR0009669&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0009669&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Meel en brood"
+signed_date: "1998-06-04"
+entry_into_force: "1998-06-19"
+---
+# Besluit van 4 juni 1998, houdende het Warenwetbesluit Meel en brood
+
+Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 september 1997, nr. GZB/VVB/975283, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
+
+Gelet op artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [artikel 8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12), en [artikel 14, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
+
+De Raad van State gehoord (advies van 18 november 1997, no. W13.97.0624);
+
+Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 mei 1998 met nummer GZB/VVB/981807, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
+
+Hebben goedgevonden en verstaan:
+
+#### § 1:. algemene bepalingen
+
+##### Artikel 1
+
+1. In dit besluit wordt verstaan onder:
+
+- a. **meel**: de grotendeels poedervormige waar, verkregen door verkleinen of pletten van de vruchten van graan of de zaden van boekweit, waaraan kiemen en delen van de schil geheel of gedeeltelijk kunnen zijn onttrokken, en waarvan, voor zover het gerst, haver, rijst, wilde rijst of boekweit betreft, de doppen verwijderd zijn;
+
+- b. **bloem**: meel, waarin kiemen en delen van de schil niet met het blote oog waarneembaar zijn;
+
+- c. **gries, grutten**: tot kleine en zeer kleine stukjes verkleinde vruchten van graan of zaden van boekweit;
+
+- d. **brood**: de gebakken eetwaar, met als kenmerkende bestanddelen:
+
+- –. water of melk;
+
+- –. geen ander rijsmiddel dan bakkersgist of zuurdeeg;
+
+- –. al dan niet verkleinde of geplette vruchten van graan, of zaden van boekweit; en keukenzout; waaraan al dan niet broodverbetermiddel is toegevoegd;
+
+- e. **anti-trypsinefactor**: actief bestanddeel van een waar dat de opname van trypsine vanuit de darm verhindert;
+
+- f. **droge stof**: de materie die achterblijft na droging van de waar;
+
+- g. **%**: massaprocent.
+
+2. De [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2000-02-14&g=2000-02-14) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte waren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+
+##### Artikel 2
+
+1. Het is verboden de bij of krachtens dit besluit bedoelde waren te bereiden of te verhandelen of te gebruiken voor de bereiding van brood, die niet voldoen aan de eisen, bij dit besluit gesteld met betrekking tot hun samenstelling of hun hoedanigheid of eigenschappen.
+
+2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
+
+3. Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=4&artikel=17&z=2000-02-14&g=2000-02-14).
+
+#### § 2:. bereiding en samenstelling
+
+##### Artikel 3
+
+Onverminderd de ter zake krachtens het [Warenwetbesluit Levensmiddelen-additieven](https://wetten.overheid.nl/jci1.3:c:BWBR0005456) toegelaten levensmiddelenadditieven, mogen de meelverbeteraars L(+)-cysteïne en L(+)-cysteïnehydrochloride gebruikt worden in meel en bij de bereiding van brood.
+
+##### Artikel 4
+
+1. Bij de bereiding van brood, en in meel, worden geen andere enzymen gebruikt dan koolhydraat- en eiwitsplitsende enzymen, of enzymen die ter zake door Onze Minister bij ministeriële regeling zijn toegelaten.
+
+2. Onze Minister stelt bij ministeriële regeling nadere regels vast inzake de bij of krachtens het eerste lid toegelaten enzymen.
+
+##### Artikel 5
+
+De anti-trypsinefactor van brood dat bereid is met gebruikmaking van soja-producten, bedraagt ten hoogste 5 mg/g eiwit.
+
+##### Artikel 6
+
+In meel, bloem, gries en grutten zijn niet aanwezig:
+
+- a. brandschimmelsporen (sporen van het geslacht Tilletia (Tul.));
+
+- b. bestanddelen van moederkoren (Claviceps purpurea (Tul.)); en
+
+- c. onkruidzaden.
+
+#### § 3:. gereserveerde aanduidingen
+
+##### Artikel 7
+
+1. De aanduiding **meel** mag uitsluitend worden gebezigd voor meel.
+
+2. De aanduiding **bloem** mag uitsluitend worden gebezigd voor bloem.
+
+3. De aanduiding **gries** of **grutten** mag uitsluitend worden gebezigd voor gries onderscheidenlijk grutten.
+
+##### Artikel 8
+
+De aanduiding **brood** mag uitsluitend worden gebezigd voor brood met een vochtgehalte van ten minste 20%, en een gehalte aan keukenzout van ten hoogste 2,5% berekend op de droge stof.
+
+##### Artikel 9
+
+De aanduiding **wit(te)brood** mag uitsluitend worden gebezigd voor brood:
+
+- –. met een vochtgehalte van ten minste 20%;
+
+- –. met een gehalte aan keukenzout van ten hoogste 2,5% berekend op de droge stof;
+
+- –. waarvan tarwebloem het voornaamste meelbestanddeel is; en
+
+- –. waarin zemelen met het blote oog niet waarneembaar zijn.
+
+##### Artikel 10
+
+De aanduiding **bruinbrood** of **tarwebrood** mag uitsluitend worden gebezigd voor brood:
+
+- –. met een vochtgehalte van ten minste 20%;
+
+- –. met een gehalte aan keukenzout van ten hoogste 2,5% berekend op de droge stof;
+
+- –. waarvan (volkoren)tarwemeel, al dan niet gemengd met gebroken tarwe en tarwevlokken, het voornaamste meelbestanddeel is; en
+
+- –. waarin zemelen met het blote oog waarneembaar zijn.
+
+##### Artikel 11
+
+De aanduiding **melkbrood** mag uitsluitend worden gebezigd voor brood:
+
+- –. met een vochtgehalte van ten minste 20%;
+
+- –. met een gehalte aan keukenzout van ten hoogste 2,5% berekend op de droge stof; en
+
+- –. waaraan melkbestanddelen in hun natuurlijke verhouding zijn toegevoegd, zodat het melkvetgehalte ten minste 1,5% van de droge stof bedraagt.
+
+##### Artikel 12
+
+De aanduiding **krentenbrood** mag uitsluitend worden gebezigd voor brood met ten minste 30% krenten.
+
+##### Artikel 13
+
+De aanduiding **rozijnenbrood** mag uitsluitend worden gebezigd voor brood met ten minste 30% rozijnen.
+
+##### Artikel 14
+
+De navolgende aanduidingen mogen uitsluitend worden gebezigd voor zover de aldus aangeduide waar voldoet aan de daarbij vermelde hoeveelheid droge stof:
+
+| aanduiding | hoeveelheid droge stof tussen |
+| --- | --- |
+|   |   |
+| **fluit** of **dubbele kadet** | 60 en 70 gram |
+| **bolletje**, **broodje**, **kadetje** of **puntje** | 30 en 36 gram |
+| **mini**, als onderdeel van de aanduiding | 10 en 25 gram. |
+
+##### Artikel 15
+
+1. Het woord **heel** of het woord **half** mag onderdeel uitmaken van de aanduiding van:
+
+- a. roggebrood, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 520 en 560 gram onderscheidenlijk tussen 260 en 285 gram;
+
+- b. ander brood dan bedoeld onder a, uitsluitend voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 480 en 530 gram onderscheidenlijk tussen 240 en 265 gram.
+
+2. De aanduiding **groot stokbrood** of **klein stokbrood** mag uitsluitend worden gebezigd voor zover de hoeveelheid droge stof van de aldus aangeduide waar ligt tussen 240 en 265 gram onderscheidenlijk tussen 120 en 140 gram.
+
+##### Artikel 16
+
+Het woord **volkoren** mag onderdeel uitmaken van de aanduiding van een in dit besluit bedoelde waar, voorzover in de aldus aangeduide waar alle van nature voorkomende bestanddelen van de desbetreffende graansoort in hun natuurlijke verhouding, al dan niet na een bewerking te hebben ondergaan, aanwezig zijn.
+
+#### § 4:. vermeldingen
+
+##### Artikel 17
+
+1. De vermelding **ongezouten** of **zoutarm** mag voor een in dit besluit bedoelde waar uitsluitend worden gebezigd, indien bij de bereiding van die waar geen keukenzout of andere ingrediënten die het natuurlijk gehalte aan natrium, kalium, ammonium of chloride verhogen, zijn toegevoegd, met dien verstande dat de waar per 100 gram ten hoogste mag bevatten:
+
+- –. 20 mg natrium;
+
+- –. 600 mg kalium;
+
+- –. 20 mg ammonium; en,
+
+- –. 70 mg chloride.
+
+2. Het [Warenwetbesluit Produkten voor bijzondere voeding](https://wetten.overheid.nl/jci1.3:c:BWBR0005489) is niet van toepassing op een waar die voorzien is van een in het eerste lid bedoelde vermelding, tenzij tevens de vermelding **voor natriumarm dieet** wordt gebezigd.
+
+##### Artikel 18
+
+In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2000-02-14&g=2000-02-14) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2000-02-14&g=2000-02-14).
+
+#### § 5:. slotbepalingen
+
+##### Artikel 19
+
+Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
+
+Onze Minister kan bij ministeriële regeling nadere regels vaststellen inzake het eerste lid.
+
+##### Artikel 20
+
+De volgende besluiten worden ingetrokken:
+
+- –. het Broodbesluit (Warenwet) 1985; en
+
+- –. het Meelbesluit (Warenwet) 1985.
+
+##### Artikel 21
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat de als krentenbrood of als rozijnenbrood aangeduide voorverpakte waar die voldoet aan het Broodbesluit (Warenwet) 1985 zoals dat onmiddellijk vóór die dag luidde, nog verhandeld mag worden tot 14 februari 2000.
+
+##### Artikel 22
+
+Dit besluit wordt aangehaald als: Warenwetbesluit Meel en brood.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. De hoeveelheid droge stof van brood met of zonder decoratie met een gewicht tussen 350 gram en 1000 gram ligt tussen de 240 en 265 gram onderscheidenlijk tussen de 480 en 530 gram.
+
+2. Het eerste lid is niet van toepassing op roggebrood en tarweroggebrood.
+
+#### § 3:. gereserveerde aanduidingen
+
+#### § 4:. vermeldingen
+
+#### § 5:. slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 19a
+
+Waren die voldoen aan het Warenwetbesluit Meel en brood zoals dat luidde op 30 september 2017 mogen worden bereid, aangeduid, verhandeld of gebruikt voor de bereiding van brood tot 1 oktober 2018.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Indien in de aanduiding de naam van één graansoort wordt gebezigd moet het meelbestanddeel voor minimaal 98% afkomstig zijn van de betreffende graansoort.
+
+##### Artikel 7b
+
+Indien in de aanduiding de naam van twee of meer graansoorten wordt gebezigd moeten deze graansoorten:
+
+- a. gezamenlijk voor minimaal 98% aanwezig zijn in het meelbestanddeel;
+
+- b. afzonderlijk voor minimaal 5% aanwezig zijn in het meelbestanddeel; en
+
+- c. worden vermeld in de aanduiding, in afnemende volgorde van de hoeveelheid waarin zij in het brood aanwezig zijn.
+
+##### Artikel 7c
+
+De aanduiding **meergranen** mag uitsluitend worden gebezigd voor brood:
+
+- a. waarvan het meelbestanddeel uit minimaal 3 verschillende graansoorten bestaat;
+
+- b. waarbij de graansoort, waarvan de aanwezige hoeveelheid ervan in het brood het grootst is, maximaal 90% van het meelbestanddeel bedraagt; en
+
+- c. waarbij de hoeveelheid van de afzonderlijke graanbestanddelen, uitgedrukt als percentage in het brood, in de ingrediëntenlijst wordt vermeld.
+
+##### Artikel 7d
+
+1. De aanduiding **(zuur)desem** mag uitsluitend worden gebezigd indien:
+
+- a. (zuur)desem als enige rijsmiddel is gebruikt; en
+
+- b. maximaal 0,2% droge gist of maximaal 0,5% verse gist is toegevoegd aan het meelbestanddeel.
+
+2. Indien een brood met vruchten, noten, zaden en pitten (minimaal 30% van het totaalgewicht) wordt aangeduid met **(zuur)desem** mag de hoeveelheid droge gist, in afwijking van het eerste lid, onderdeel b, in totaal maximaal 0,5% droge gist of maximaal 1,2% verse gist van het meelbestanddeel bedragen.
+
+#### § 4:. vermeldingen
+
+#### § 5:. slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
