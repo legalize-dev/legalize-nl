@@ -4,7 +4,7 @@ identifier: "BWBR0017749"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2004-01-01"
+last_updated: "2004-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017749"
 soort: "wet"
@@ -75,7 +75,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XI
 
