@@ -151,35 +151,3 @@ De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Ri
 | 1.2.0 |   | plv. hoofddirecteur van de Immigratie- en Naturalisatiedienst | x | x | x |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-De in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-01&g=2025-11-01), genoemde functionaris kan geen ondermandaat verlenen van de bevoegdheid op grond van [artikel 40d van de Penitentiaire Beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40d).
-
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=3&z=2025-11-01&g=2025-11-01) van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid
-
-Daar waar in de kolommen 2, 3 en 4 geen X staat, is de ambtenaar voor die taken niet aangewezen.
-
-Kolom 2 werkveld:
-
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de overige regelingen en overeenkomsten in relatie tot de vreemdelingenwetgeving besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en Staatssecretaris van Veiligheid en Justitie in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
-
-Kolom 3 werkveld:
-
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) en de overige regelingen en overeenkomsten in relatie tot deze wet besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en Staatssecretaris van Veiligheid en Justitie in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
-
-Kolom 4 werkveld:
-
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) en de overige regelingen en overeenkomsten in relatie tot deze wet besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en de Staatssecretaris van Justitie en Veiligheid in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
-
-|   |   | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --- | --- | --- | --- | --- | --- |
-|   | **Aangewezen functionarissen** | **Aangewezen functionarissen** |   |   |   |
-| 1 | secretaris-generaal | secretaris-generaal | x | x | x |
-| 1.0 |   | plaatsvervangend secretaris-generaal | x | x | x |
-| **1.1** |   | **algemeen directeur van de Dienst Terugkeer en Vertrek** | x | x |   |
-| 1.1.0 |   | plv. algemeen directeur van de Dienst Terugkeer en Vertrek | x | x |   |
-| **1.2** |   | **directeur-generaal van de Immigratie- en Naturalisatiedienst** | x | x | x |
-| 1.2.0 |   | plv. hoofddirecteur van de Immigratie- en Naturalisatiedienst | x | x | x |
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
