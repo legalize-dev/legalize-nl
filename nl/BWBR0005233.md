@@ -296,29 +296,3 @@ Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 Dit besluit kan worden aangehaald als: Besluit kredietvergoeding.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 16a
-
-1. De [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=II&afdeling=1&artikel=4&z=2011-06-02&g=2011-06-02) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=15&z=2011-06-02&g=2011-06-02) zijn niet van toepassing wanneer het jaarlijks kostenpercentage, bedoeld in [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1) ten hoogste de wettelijke rente verhoogd met 12 procentpunten bedraagt.
-
-2. Indien het eerste lid van toepassing is, wordt in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005233&hoofdstuk=V&artikel=16&z=2011-06-02&g=2011-06-02) in plaats van «effectieve kredietvergoedingspercentage op jaarbasis» gelezen: jaarlijks kostenpercentage.
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 76, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=76).
-
-### Hoofdstuk II. Ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
-
-### Afdeling 1. Ten hoogste toegelaten effectieve kredietvergoedingspercentages op jaarbasis
-
-### Afdeling 2. Berekening van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling
-
-### Hoofdstuk III. Ten hoogste toegelaten vertragingsvergoeding
-
-### Hoofdstuk IV. Ten hoogste toegelaten vergoeding bij vervroegde aflossing
-
-### Hoofdstuk V. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
