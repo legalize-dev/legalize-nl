@@ -4,7 +4,7 @@ identifier: "BWBR0016208"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016208"
 soort: "wet"
@@ -47,7 +47,7 @@ Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel IV
 
@@ -55,11 +55,11 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Belastingplan 2002 II – Economische infrastructuur.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
