@@ -4,7 +4,7 @@ identifier: "BWBR0013360"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-01"
-last_updated: "2002-05-08"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013360"
 soort: "AMvB"
@@ -40,15 +40,15 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 
 Gelet op de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), [32, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=32), en [artikel 39, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), [artikel 3 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), [artikel 2c, derde lid, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=2c) en de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) en [20 van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), [artikel 74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), [artikel 18, derde lid, van de Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798&artikel=18), artikel 9, vijfde lid, onder b, van de Wet wapens en munitie,
 
-voor zover het betreft [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.3&z=2002-05-08&g=2002-05-08), gelet op de [artikelen 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.2), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.5) en [8.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.7),
+voor zover het betreft [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.3&z=2002-07-01&g=2002-07-01), gelet op de [artikelen 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.2), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.5) en [8.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.7),
 
-voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08), [1.2.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2002-05-08&g=2002-05-08), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2002-05-08&g=2002-05-08), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-05-08&g=2002-05-08), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-05-08&g=2002-05-08), [2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2002-05-08&g=2002-05-08) en [5.1.9 tot en met 5.1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.9&z=2002-05-08&g=2002-05-08), gelet op de [artikelen 8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.19), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) en [8.41 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41),
+voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01), [1.2.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2002-07-01&g=2002-07-01), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2002-07-01&g=2002-07-01), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-07-01&g=2002-07-01), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-07-01&g=2002-07-01), [2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2002-07-01&g=2002-07-01) en [5.1.9 tot en met 5.1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.9&z=2002-07-01&g=2002-07-01), gelet op de [artikelen 8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.19), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) en [8.41 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41),
 
-voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08), [1.2.2, eerste lid, onder b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2002-05-08&g=2002-05-08), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2002-05-08&g=2002-05-08), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-05-08&g=2002-05-08), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2002-05-08&g=2002-05-08) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2002-05-08&g=2002-05-08), gelet op [artikel 8.44 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44),
+voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01), [1.2.2, eerste lid, onder b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2002-07-01&g=2002-07-01), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2002-07-01&g=2002-07-01), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-07-01&g=2002-07-01), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2002-07-01&g=2002-07-01) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2002-07-01&g=2002-07-01), gelet op [artikel 8.44 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44),
 
-voor zover het betreft de [artikelen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-05-08&g=2002-05-08), gelet op de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1) en [5.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.3), en
+voor zover het betreft de [artikelen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-07-01&g=2002-07-01), gelet op de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1) en [5.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.3), en
 
-voor zover het betreft [artikel 5.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.6&z=2002-05-08&g=2002-05-08), gelet op [artikel 18.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4);
+voor zover het betreft [artikel 5.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.6&z=2002-07-01&g=2002-07-01), gelet op [artikel 18.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4);
 
 De Raad van State gehoord (advies van 13 december 2001, nr. W08.01.0495/V);
 
@@ -88,7 +88,7 @@ inspecteur: de ter plaatse bevoegde inspecteur van het staatstoezicht op de volk
 
 kwetsbare objecten:
 
-- a. woningen: gebouwen of afzonderlijke gedeelten van een gebouw die voor bewoning bestemd zijn, met uitzondering van dienst- en bedrijfswoningen die binnen inrichtingen als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) zijn gelegen;
+- a. woningen: gebouwen of afzonderlijke gedeelten van een gebouw die voor bewoning bestemd zijn, met uitzondering van dienst- en bedrijfswoningen die binnen inrichtingen als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) zijn gelegen;
 
 - b. woonketen of woonwagens als bedoeld in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181);
 
@@ -124,7 +124,7 @@ pyrotechnische stof of pyrotechnisch preparaat: stof of preparaat bestemd om als
 
 sas: ontstekingsmiddel, bestaande uit een pyrotechnische stof, een pyrotechnisch preparaat of een andere stof of preparaat met een gelijksoortige werking als een pyrotechnische stof of pyrotechnisch preparaat, met inbegrip van eventuele toevoegingen;
 
-veiligheidsafstand: afstand die met het oog op de kwaliteit van het milieu voor zover het betreft externe veiligheid tenminste moet zijn gelegen tussen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) en [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08), of een onderdeel van een zodanige inrichting, dan wel een zodanige inrichting waarvoor het geldende bestemmingsplan verlening van een bouwvergunning toelaat enerzijds en kwetsbare objecten en geprojecteerde kwetsbare objecten anderzijds;
+veiligheidsafstand: afstand die met het oog op de kwaliteit van het milieu voor zover het betreft externe veiligheid tenminste moet zijn gelegen tussen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) en [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01), of een onderdeel van een zodanige inrichting, dan wel een zodanige inrichting waarvoor het geldende bestemmingsplan verlening van een bouwvergunning toelaat enerzijds en kwetsbare objecten en geprojecteerde kwetsbare objecten anderzijds;
 
 vuurwerk: een product of voorwerp waarin of waarop een sas aanwezig is en dat bestemd is om voor vermakelijkheidsdoeleinden tot ontbranding gebracht te worden.
 
@@ -138,7 +138,7 @@ vuurwerk: een product of voorwerp waarin of waarop een sas aanwezig is en dat be
 
 ##### Artikel 1.1.2
 
-1. Vuurwerk wordt in ieder geval aangemerkt als vuurwerk dat is bestemd voor particulier gebruik in de zin van [artikel 1.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08), indien:
+1. Vuurwerk wordt in ieder geval aangemerkt als vuurwerk dat is bestemd voor particulier gebruik in de zin van [artikel 1.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01), indien:
 
 - a. het tot ontbranding wordt gebracht door een particulier,
 
@@ -164,13 +164,13 @@ Dit besluit is niet van toepassing op vuurwerk:
 
 ##### Artikel 1.1.4
 
-1. De [artikelen 2.2.1 tot en met 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08) en de [artikelen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) en [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2002-05-08&g=2002-05-08) zijn niet van toepassing op de opslag van vuurwerk in inrichtingen waarvoor een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) is verleend die betrekking heeft op de opslag van vuurwerk, voor zover deze plaatsvindt gedurende ten hoogste 72 uur te rekenen vanaf het moment van opslaan en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van het vuurwerk en de overbrenging daarvan naar een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en het betrokken vuurwerk in de oorspronkelijke verpakking blijft.
+1. De [artikelen 2.2.1 tot en met 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01) en de [artikelen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) en [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2002-07-01&g=2002-07-01) zijn niet van toepassing op de opslag van vuurwerk in inrichtingen waarvoor een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) is verleend die betrekking heeft op de opslag van vuurwerk, voor zover deze plaatsvindt gedurende ten hoogste 72 uur te rekenen vanaf het moment van opslaan en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van het vuurwerk en de overbrenging daarvan naar een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en het betrokken vuurwerk in de oorspronkelijke verpakking blijft.
 
 2. Voor de berekening van de in het eerste lid bedoelde termijn van 72 uur worden zaterdagen, zondagen en officieel erkende feestdagen niet meegerekend.
 
 ##### Artikel 1.1.5
 
-De [artikelen 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2002-05-08&g=2002-05-08), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2002-05-08&g=2002-05-08) en [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08) zijn niet van toepassing op instellingen die vuurwerk bedrijfsmatig en uitsluitend ten behoeve van onderzoek tot ontbranding brengen.
+De [artikelen 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2002-07-01&g=2002-07-01), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2002-07-01&g=2002-07-01) en [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01) zijn niet van toepassing op instellingen die vuurwerk bedrijfsmatig en uitsluitend ten behoeve van onderzoek tot ontbranding brengen.
 
 ##### Artikel 1.1.6
 
@@ -192,13 +192,13 @@ dat bij gebruik overeenkomstig de gebruiksaanwijzing van dat vuurwerk geen letse
 
 ##### Artikel 1.2.2
 
-1. Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-05-08&g=2002-05-08), [2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-05-08&g=2002-05-08), en [2.1.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2002-05-08&g=2002-05-08), consumentenvuurwerk:
+1. Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-07-01&g=2002-07-01), [2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2002-07-01&g=2002-07-01), en [2.1.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2002-07-01&g=2002-07-01), consumentenvuurwerk:
 
 - a. binnen het grondgebied van Nederland te brengen, te vervaardigen, toe te passen, voorhanden te hebben, of aan een ander ter beschikking te stellen, ten aanzien waarvan niet wordt voldaan aan de bij dit besluit gestelde eisen of de ter uitwerking van dit besluit krachtens [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) gestelde regels;
 
 - b. op te slaan of te bewerken ten aanzien waarvan niet wordt voldaan aan de ter uitwerking van dit besluit krachtens [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) gestelde regels.
 
-2. Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-05-08&g=2002-05-08), en [3.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2002-05-08&g=2002-05-08), professioneel vuurwerk:
+2. Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-07-01&g=2002-07-01), en [3.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2002-07-01&g=2002-07-01), professioneel vuurwerk:
 
 - a. binnen het grondgebied van Nederland te brengen, te vervaardigen, toe te passen, voorhanden te hebben, of aan een ander ter beschikking te stellen, ten aanzien waarvan niet wordt voldaan aan de bij dit besluit gestelde eisen;
 
@@ -206,11 +206,11 @@ dat bij gebruik overeenkomstig de gebruiksaanwijzing van dat vuurwerk geen letse
 
 ##### Artikel 1.2.3
 
-Het is verboden vuurwerk buiten een daartoe bestemde inrichting te vervaardigen of, behoudens het bepaalde in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), te bewerken.
+Het is verboden vuurwerk buiten een daartoe bestemde inrichting te vervaardigen of, behoudens het bepaalde in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), te bewerken.
 
 ##### Artikel 1.2.4
 
-1. Het is verboden vuurwerk buiten een inrichting als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) voorhanden te hebben.
+1. Het is verboden vuurwerk buiten een inrichting als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) voorhanden te hebben.
 
 2. Het eerste lid is niet van toepassing:
 
@@ -220,9 +220,9 @@ Het is verboden vuurwerk buiten een daartoe bestemde inrichting te vervaardigen 
 
 - c. tijdens het tot ontbranding brengen van professioneel vuurwerk overeenkomstig artikel 3.3.2, alsmede gedurende ten hoogste acht uur daaraan voorafgaand.
 
-3. Gedeputeerde staten van de provincie waarin het professioneel vuurwerk tot ontbranding zal worden gebracht kunnen bij de toestemming, bedoeld in [artikel 3.3.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), in plaats van de tijdsduur, genoemd in het tweede lid, onder c, een andere tijdsduur vaststellen.
+3. Gedeputeerde staten van de provincie waarin het professioneel vuurwerk tot ontbranding zal worden gebracht kunnen bij de toestemming, bedoeld in [artikel 3.3.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), in plaats van de tijdsduur, genoemd in het tweede lid, onder c, een andere tijdsduur vaststellen.
 
-4. Het eerste lid is tevens niet van toepassing indien het vuurwerk wordt vervoerd overeenkomstig de eisen gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) en met inachtneming van [artikel 1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2002-05-08&g=2002-05-08).
+4. Het eerste lid is tevens niet van toepassing indien het vuurwerk wordt vervoerd overeenkomstig de eisen gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) en met inachtneming van [artikel 1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2002-07-01&g=2002-07-01).
 
 ##### Artikel 1.2.5
 
@@ -232,7 +232,7 @@ Het is verboden vuurwerk buiten een daartoe bestemde inrichting te vervaardigen 
 
 - b. het ononderbroken beladen van een vervoermiddel met vuurwerk en het ononderbroken lossen daaruit, of
 
-- c. het in inrichtingen als bedoeld in [artikel 1.1.4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08):
+- c. het in inrichtingen als bedoeld in [artikel 1.1.4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01):
 
 - 1°. laten staan en laten liggen van een vervoermiddel waarin of waarop zich vuurwerk bevindt,
 
@@ -244,9 +244,9 @@ Het is verboden vuurwerk buiten een daartoe bestemde inrichting te vervaardigen 
 
 - a. die ingevolge het bij of krachtens dit besluit bepaalde, dit vuurwerk mag opslaan,
 
-- b. die houder is van een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), of
+- b. die houder is van een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), of
 
-- c. wiens gegevens, als het vuurwerk buiten het grondgebied van Nederland wordt gebracht, zijn verstrekt bij de melding, bedoeld in [artikel 1.3.2, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2002-05-08&g=2002-05-08).
+- c. wiens gegevens, als het vuurwerk buiten het grondgebied van Nederland wordt gebracht, zijn verstrekt bij de melding, bedoeld in [artikel 1.3.2, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2002-07-01&g=2002-07-01).
 
 ##### Artikel 1.2.6
 
@@ -268,9 +268,9 @@ Het is een ieder die anders dan beroepshalve vuurwerk tot ontbranding brengt, ve
 
 - a. op de verpakking waarin het vuurwerk zich tijdens het vervoer bevindt, is aangeduid de klasse waarin het vuurwerk volgens bijlage A van het ADR is ingedeeld als vuurwerk, en de aanduiding van de klasse overeenstemt met de eigenschappen van dat verpakte vuurwerk,
 
-- b. het vuurwerk vergezeld gaat van een schriftelijke verklaring waarin per vervoersverpakking is aangeduid volgens welke klasse het vuurwerk ingevolge [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-05-08&g=2002-05-08) is ingedeeld,
+- b. het vuurwerk vergezeld gaat van een schriftelijke verklaring waarin per vervoersverpakking is aangeduid volgens welke klasse het vuurwerk ingevolge [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-07-01&g=2002-07-01) is ingedeeld,
 
-- c. aan degene aan wie hij het vuurwerk na het binnen het grondgebied van Nederland te hebben gebracht ter beschikking stelt, een schriftelijke verklaring als bedoeld [onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-05-08&g=2002-05-08) wordt afgegeven,
+- c. aan degene aan wie hij het vuurwerk na het binnen het grondgebied van Nederland te hebben gebracht ter beschikking stelt, een schriftelijke verklaring als bedoeld [onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-07-01&g=2002-07-01) wordt afgegeven,
 
 - d. het vuurwerk en de verpakking van het vuurwerk zijn voorzien van de aanduiding «Geschikt voor particulier gebruik» dan wel «Niet geschikt voor particulier gebruik», en
 
@@ -340,7 +340,7 @@ meldt ten minste twee werkdagen voordat de terbeschikkingstelling plaatsvindt sc
 
 ##### Artikel 1.4.3
 
-1. Degene die een inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) draagt er zorg voor dat burgemeester en wethouders en de burgemeester van de gemeente waarin de inrichting is gelegen, en de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de volgende actuele gegevens:
+1. Degene die een inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) draagt er zorg voor dat burgemeester en wethouders en de burgemeester van de gemeente waarin de inrichting is gelegen, en de commandant van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de volgende actuele gegevens:
 
 - a. de classificatie van het vuurwerk volgens het ADR en de opgeslagen hoeveelheid verpakt en onverpakt vuurwerk in kilogrammen;
 
@@ -348,7 +348,7 @@ meldt ten minste twee werkdagen voordat de terbeschikkingstelling plaatsvindt sc
 
 - c. de plaats waar het vuurwerk binnen de inrichting is opgeslagen.
 
-2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die in een inrichting professioneel vuurwerk voorhanden heeft dat is aangewezen ingevolge [artikel 1.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08).
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die in een inrichting professioneel vuurwerk voorhanden heeft dat is aangewezen ingevolge [artikel 1.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01).
 
 ### Hoofdstuk 2. Consumentenvuurwerk
 
@@ -366,7 +366,9 @@ Consumentenvuurwerk moet voldoen aan door Onze Minister te stellen eisen. Daarto
 
 ##### Artikel 2.1.2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Verpakt consumentenvuurwerk is bij het opslaan en het voorhanden hebben anders dan door particulieren, op zodanige wijze verpakt dat het volgens bijlage A van het ADR, uitsluitend kan worden aangemerkt als vuurwerk behorende tot klasse 1.4G of 1.4S.
+
+2. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht.
 
 ##### Artikel 2.1.3
 
@@ -398,7 +400,7 @@ Het is verboden vuurwerk dat niet voldoet aan de ter uitwerking van dit besluit 
 
 ##### Artikel 2.2.1
 
-1. Degene die een inrichting drijft, waar ten hoogste 1 000 kilogram consumentenvuurwerk wordt opgeslagen of herverpakt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 1, onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08), en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08). Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
+1. Degene die een inrichting drijft, waar ten hoogste 1 000 kilogram consumentenvuurwerk wordt opgeslagen of herverpakt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 1, onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01), en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01). Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
 
 2. Indien een inrichting tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) aangewezen categorie behoort, niet uitsluitend omdat daarin vuurwerk wordt opgeslagen, geldt een voor de inrichting krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) verleende vergunning ook voor het oprichten, in werking hebben of veranderen van de inrichting, dan wel het veranderen van de werking daarvan, voor zover dit oprichten, in werking hebben of veranderen dan wel veranderen van de werking betrekking heeft op het opslaan van vuurwerk.
 
@@ -410,13 +412,13 @@ Het is verboden vuurwerk dat niet voldoet aan de ter uitwerking van dit besluit 
 
 - b. consumentenvuurwerk wordt bewerkt,
 
-voldoet aan de voorschriften die zijn opgenomen in [bijlage 1 onder A, B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08).
+voldoet aan de voorschriften die zijn opgenomen in [bijlage 1 onder A, B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01).
 
 2. Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
 
 ##### Artikel 2.2.3
 
-1. Het bevoegd gezag kan nadere eisen stellen met betrekking tot de in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08), opgenomen voorschriften ten aanzien van:
+1. Het bevoegd gezag kan nadere eisen stellen met betrekking tot de in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01), opgenomen voorschriften ten aanzien van:
 
 - a. de bereikbaarheid en de toegankelijkheid van ruimten waar consumentenvuurwerk aanwezig mag zijn, als bedoeld in voorschrift 1.8;
 
@@ -438,9 +440,9 @@ voldoet aan de voorschriften die zijn opgenomen in [bijlage 1 onder A, B en D](h
 
 ##### Artikel 2.2.4
 
-1. Degene die een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), opricht, meldt dit ten minste vier weken voor de oprichting schriftelijk aan het bevoegd gezag. Het bevoegd gezag zendt onverwijld een afschrift van de melding aan de commandant van de regionale brandweer.
+1. Degene die een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), opricht, meldt dit ten minste vier weken voor de oprichting schriftelijk aan het bevoegd gezag. Het bevoegd gezag zendt onverwijld een afschrift van de melding aan de commandant van de regionale brandweer.
 
-2. Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), en het veranderen van de werking daarvan.
+2. Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), en het veranderen van de werking daarvan.
 
 3. Bij de melding worden vermeld:
 
@@ -460,7 +462,7 @@ voldoet aan de voorschriften die zijn opgenomen in [bijlage 1 onder A, B en D](h
 
 ##### Artikel 2.2.5
 
-Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2002-05-08&g=2002-05-08), onderscheidenlijk een afschrift van een krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) verleende vergunning aan Onze Minister.
+Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2002-07-01&g=2002-07-01), onderscheidenlijk een afschrift van een krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) verleende vergunning aan Onze Minister.
 
 #### § 3. Verkoop en tot ontbranding brengen van consumentenvuurwerk
 
@@ -468,7 +470,7 @@ Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.
 
 Het is verboden consumentenvuurwerk voor handelsdoeleinden ter beschikking te stellen aan een ander dan:
 
-- a. degene die een inrichting drijft als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08) en [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08);
+- a. degene die een inrichting drijft als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01) en [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01);
 
 - b. een in het buitenland gevestigde ondernemer wiens bedrijfsmatige activiteit bestaat uit het verhandelen van vuurwerk.
 
@@ -484,7 +486,7 @@ Het is verboden per levering meer dan tien kilogram consumentenvuurwerk aan een 
 
 ##### Artikel 2.3.4
 
-Het is verboden consumentenvuurwerk aan een particulier bedrijfsmatig ter beschikking te stellen op een andere plaats dan een verkoopruimte die voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) gestelde voorschriften en de door het bevoegd gezag overeenkomstig [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-05-08&g=2002-05-08) gestelde nadere eisen.
+Het is verboden consumentenvuurwerk aan een particulier bedrijfsmatig ter beschikking te stellen op een andere plaats dan een verkoopruimte die voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) gestelde voorschriften en de door het bevoegd gezag overeenkomstig [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2002-07-01&g=2002-07-01) gestelde nadere eisen.
 
 ##### Artikel 2.3.5
 
@@ -496,7 +498,7 @@ Het is verboden consumentenvuurwerk tot ontbranding te brengen op een ander tijd
 
 ##### Artikel 2.3.7
 
-De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2002-05-08&g=2002-05-08), [1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2002-05-08&g=2002-05-08), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2002-05-08&g=2002-05-08), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2002-05-08&g=2002-05-08) en [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2002-05-08&g=2002-05-08) gelden niet ten aanzien van fop- en schertsvuurwerk aangewezen ingevolge [artikel 1.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08).
+De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2002-07-01&g=2002-07-01), [1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2002-07-01&g=2002-07-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2002-07-01&g=2002-07-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2002-07-01&g=2002-07-01) en [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2002-07-01&g=2002-07-01) gelden niet ten aanzien van fop- en schertsvuurwerk aangewezen ingevolge [artikel 1.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01).
 
 ### Hoofdstuk 3. Professioneel vuurwerk
 
@@ -510,13 +512,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.2.1
 
-1. Degene die een inrichting drijft, waar professioneel vuurwerk al dan niet tezamen met consumentenvuurwerk wordt opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-05-08&g=2002-05-08) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08).
+1. Degene die een inrichting drijft, waar professioneel vuurwerk al dan niet tezamen met consumentenvuurwerk wordt opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-07-01&g=2002-07-01) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01).
 
 2. Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
 
 ##### Artikel 3.2.2
 
-1. Het bevoegd gezag kan nadere eisen stellen met betrekking tot de in [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-05-08&g=2002-05-08), opgenomen voorschriften ten aanzien van:
+1. Het bevoegd gezag kan nadere eisen stellen met betrekking tot de in [bijlage 2, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-07-01&g=2002-07-01), opgenomen voorschriften ten aanzien van:
 
 - a. de wijze waarop verpakt of onverpakt vuurwerk wordt opgeslagen, bedoeld in voorschrift 1.9;
 
@@ -538,7 +540,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.2.3
 
-1. Degene die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08):
+1. Degene die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01):
 
 - a. stelt naar het oordeel van het bevoegd gezag op genoegzame wijze door verzekering of anderszins financiële zekerheid ter dekking van de aansprakelijkheid, bedoeld in [boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289), waartoe het drijven van de inrichting aanleiding kan geven;
 
@@ -562,9 +564,9 @@ Het bevoegd gezag zendt een afschrift van een krachtens [artikel 8.1 van de Wet 
 
 2. Het verbod geldt niet voor het ter beschikking stellen van professioneel vuurwerk aan:
 
-- a. een persoon die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08);
+- a. een persoon die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01);
 
-- b. een houder van een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08);
+- b. een houder van een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01);
 
 - c. een in het buitenland gevestigde ondernemer wiens bedrijfsmatige activiteit bestaat uit het verhandelen van of het tot ontbranding brengen van professioneel vuurwerk.
 
@@ -578,13 +580,13 @@ Het bevoegd gezag zendt een afschrift van een krachtens [artikel 8.1 van de Wet 
 
 - a. voorafgaand aan het tot ontbranding brengen van professioneel vuurwerk door de aanvrager afzonderlijke toestemming is verkregen van gedeputeerde staten van de provincie waarin het vuurwerk tot ontbranding zal worden gebracht;
 
-- b. het tot ontbranding te brengen vuurwerk afkomstig is uit een inrichting als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) dan wel rechtstreeks afkomstig is uit het buitenland.
+- b. het tot ontbranding te brengen vuurwerk afkomstig is uit een inrichting als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) dan wel rechtstreeks afkomstig is uit het buitenland.
 
 4. Aan de vergunning kunnen voorts voorschriften worden verbonden in het belang van de bescherming van mens en milieu. Zij kan onder beperkingen worden verleend.
 
 5. Degene aan wie een vergunning is verleend, is gehouden de in het derde en vierde lid bedoelde voorschriften na te leven.
 
-6. De vergunning vervalt op het moment dat de geldigheidsduur van het certificaat van vakbekwaamheid, bedoeld in [artikel 3.3.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2002-05-08&g=2002-05-08), afloopt. Is de vergunning verleend aan een ondernemer dan vervalt de vergunning eveneens op het moment dat er geen persoon aan wie een certificaat van vakbekwaamheid, bedoeld in [artikel 4.8a, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), is afgegeven, meer werkzaam is bij de ondernemer.
+6. De vergunning vervalt op het moment dat de geldigheidsduur van het certificaat van vakbekwaamheid, bedoeld in [artikel 3.3.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2002-07-01&g=2002-07-01), afloopt. Is de vergunning verleend aan een ondernemer dan vervalt de vergunning eveneens op het moment dat er geen persoon aan wie een certificaat van vakbekwaamheid, bedoeld in [artikel 4.8a, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), is afgegeven, meer werkzaam is bij de ondernemer.
 
 7. Gedeputeerde staten stellen de korpschef van de politieregio waar de aanvrager is gevestigd, in de gelegenheid advies uit te brengen over het ontwerp van de beschikking op de aanvraag om een vergunning.
 
@@ -606,11 +608,11 @@ Het bevoegd gezag zendt een afschrift van een krachtens [artikel 8.1 van de Wet 
 
 2. De aanvrager stelt naar het oordeel van het bevoegd gezag bij de aanvraag op genoegzame wijze door verzekering of anderszins financiële zekerheid ter dekking van de aansprakelijkheid, bedoeld in [boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) ter zake van de in het eerste lid, onder b, bedoelde handelingen.
 
-3. De zekerheid bedraagt ten minste € 2 500 000,00 per gebeurtenis en wordt in ieder geval in stand gehouden tot het moment waarop de vergunning vervalt. [Artikel 3.2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2002-05-08&g=2002-05-08), is van overeenkomstige toepassing.
+3. De zekerheid bedraagt ten minste € 2 500 000,00 per gebeurtenis en wordt in ieder geval in stand gehouden tot het moment waarop de vergunning vervalt. [Artikel 3.2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2002-07-01&g=2002-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3.3.4
 
-1. De aanvraag om toestemming als bedoeld in [artikel 3.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), bij gedeputeerde staten gaat vergezeld van een afschrift van het werkplan, bedoeld in [artikel 4.8a, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), een afschrift van de ingevolge [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), verleende vergunning en een afschrift van het in [artikel 3.3.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2002-05-08&g=2002-05-08), bedoelde certificaat. Gedeputeerde staten zenden onverwijld een afschrift van de aanvraag aan de burgemeester van de gemeente binnen wiens gemeente het vuurwerk tot ontbranding zal worden gebracht.
+1. De aanvraag om toestemming als bedoeld in [artikel 3.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), bij gedeputeerde staten gaat vergezeld van een afschrift van het werkplan, bedoeld in [artikel 4.8a, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), een afschrift van de ingevolge [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), verleende vergunning en een afschrift van het in [artikel 3.3.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2002-07-01&g=2002-07-01), bedoelde certificaat. Gedeputeerde staten zenden onverwijld een afschrift van de aanvraag aan de burgemeester van de gemeente binnen wiens gemeente het vuurwerk tot ontbranding zal worden gebracht.
 
 2. Aan de toestemming kunnen voorschriften worden verbonden in het belang van de bescherming van mens en milieu.
 
@@ -618,7 +620,7 @@ Het bevoegd gezag zendt een afschrift van een krachtens [artikel 8.1 van de Wet 
 
 4. Gedeputeerde staten stellen alvorens toestemming te verlenen:
 
-- a. gedeputeerde staten die de aanvrager de vergunning, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), hebben verleend,
+- a. gedeputeerde staten die de aanvrager de vergunning, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), hebben verleend,
 
 - b. de betrokken luchtverkeersdienst als omschreven in [artikel 1, onder r, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), en
 
@@ -632,17 +634,17 @@ in de gelegenheid advies uit te brengen over de beslissing op de aanvraag.
 
 ##### Artikel 3.3.5
 
-1. Een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), kan worden gewijzigd of ingetrokken.
+1. Een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), kan worden gewijzigd of ingetrokken.
 
 2. De [artikelen 8.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.22), [8.23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.23), [8.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.24), [8.25, eerste tot en met derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.25), en [8.26, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.26) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.3.6
 
-1. Degene aan wie een vergunning, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), is verleend, houdt een register bij waarin zijn vermeld:
+1. Degene aan wie een vergunning, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), is verleend, houdt een register bij waarin zijn vermeld:
 
-- a. de persoon of personen aan wie een certificaat van vakbekwaamheid is afgegeven als bedoeld in [artikel 4.8a, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), en door wie of onder wier toezicht bedrijfsmatig handelingen met vuurwerk worden verricht, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08);
+- a. de persoon of personen aan wie een certificaat van vakbekwaamheid is afgegeven als bedoeld in [artikel 4.8a, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a), en door wie of onder wier toezicht bedrijfsmatig handelingen met vuurwerk worden verricht, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01);
 
-- b. de personen die onder toezicht van de onder a bedoelde persoon of personen bedrijfsmatig handelingen met vuurwerk verrichten als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08);
+- b. de personen die onder toezicht van de onder a bedoelde persoon of personen bedrijfsmatig handelingen met vuurwerk verrichten als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01);
 
 - c. de evenementen en voorstellingen, waarbij professioneel vuurwerk tot ontbranding is gebracht en de daarbij tot ontbranding gebrachte typen en hoeveelheden vuurwerk in kilogrammen alsmede de weigeraars, met vermelding van de door de fabrikant bij de vervaardiging toegekende artikelnummers die dienen ter identificatie van het vuurwerk en het productiejaar;
 
@@ -654,19 +656,19 @@ in de gelegenheid advies uit te brengen over de beslissing op de aanvraag.
 
 4. De gegevens, bedoeld in het eerste lid, blijven ten minste voor de duur van tien jaar na de vastlegging in de registratie opgenomen.
 
-5. Degene aan wie een vergunning, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08), is verleend, meldt een ongewoon voorval als bedoeld in het eerste lid, onder d, onverwijld aan gedeputeerde staten van de provincie waarin het vuurwerk tot ontbranding wordt gebracht.
+5. Degene aan wie een vergunning, als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01), is verleend, meldt een ongewoon voorval als bedoeld in het eerste lid, onder d, onverwijld aan gedeputeerde staten van de provincie waarin het vuurwerk tot ontbranding wordt gebracht.
 
 ### Hoofdstuk 4. Veiligheidsafstanden
 
 ##### Artikel 4.1
 
-1. De veiligheidsafstanden, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) worden, voor zover deze in acht genomen moeten worden bij de vaststelling van een besluit als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-05-08&g=2002-05-08), aangemerkt als grenswaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1).
+1. De veiligheidsafstanden, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) worden, voor zover deze in acht genomen moeten worden bij de vaststelling van een besluit als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-07-01&g=2002-07-01), aangemerkt als grenswaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1).
 
 2. Indien de kwaliteit van een gebied waarvoor de veiligheidsafstand in acht moet worden genomen, beter is dan de grenswaarde aangeeft, treedt de kwaliteit van dat gebied niet in de plaats van de grenswaarde.
 
 ##### Artikel 4.2
 
-1. De gemeenteraad neemt de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) gestelde afstanden in acht bij:
+1. De gemeenteraad neemt de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) gestelde afstanden in acht bij:
 
 - a. de vaststelling van een bestemmingsplan als bedoeld in [artikel 10 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=10);
 
@@ -674,7 +676,7 @@ in de gelegenheid advies uit te brengen over de beslissing op de aanvraag.
 
 - c. de wijziging van een bestemmingsplan overeenkomstig [artikel 11, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=11).
 
-2. Burgemeester en wethouders nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) gestelde afstanden in acht bij:
+2. Burgemeester en wethouders nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) gestelde afstanden in acht bij:
 
 - a. het verlenen van vrijstelling van een geldend bestemmingsplan als bedoeld in [artikel 19, eerste lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=19);
 
@@ -684,19 +686,19 @@ in de gelegenheid advies uit te brengen over de beslissing op de aanvraag.
 
 - d. de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-3. Gedeputeerde staten nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) gestelde afstanden in acht bij de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
+3. Gedeputeerde staten nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) gestelde afstanden in acht bij de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-4. Onze Minister neemt bij de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) voor een inrichting die is gelegen binnen het door hem op grond van categorie 10, bedoeld in [bijlage II, van het Inrichtingen- en vergunningenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005829&bijlage=II), aangewezen gebied, de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) gestelde afstanden in acht ten aanzien van kwetsbare objecten en geprojecteerde kwetsbare objecten die zijn gelegen buiten het door hem aangewezen gebied.
+4. Onze Minister neemt bij de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) voor een inrichting die is gelegen binnen het door hem op grond van categorie 10, bedoeld in [bijlage II, van het Inrichtingen- en vergunningenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005829&bijlage=II), aangewezen gebied, de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) gestelde afstanden in acht ten aanzien van kwetsbare objecten en geprojecteerde kwetsbare objecten die zijn gelegen buiten het door hem aangewezen gebied.
 
-5. Het eerste tot en met derde lid zijn niet van toepassing ten aanzien van inrichtingen als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-05-08&g=2002-05-08).
+5. Het eerste tot en met derde lid zijn niet van toepassing ten aanzien van inrichtingen als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2002-07-01&g=2002-07-01).
 
 ##### Artikel 4.3
 
-1. Indien voor het betrokken gebied een bestemmingsplan geldt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit](onbekend), van het gebouw waar vuurwerk wordt opgeslagen of bewerkt binnen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08), tot aan de bestemmingsgrens.
+1. Indien voor het betrokken gebied een bestemmingsplan geldt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit](onbekend), van het gebouw waar vuurwerk wordt opgeslagen of bewerkt binnen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) of [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01), tot aan de bestemmingsgrens.
 
-2. Indien een bestemmingsplan voor het betrokken gebied ontbreekt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit](onbekend), van het gebouw, bedoeld in het eerste lid, tot aan de eigendomsgrens van het gebied dat behoort bij het kwetsbare object. Indien het kwetsbare object een gebouw is, niet zijnde een gebouw als bedoeld in [artikel 1.1.1, eerste lid, onder d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08), dat meer dan tien meter vanaf de eigendomsgrens van het betrokken gebied is gelegen, gelden de veiligheidsafstanden tot tien meter vanaf dat object.
+2. Indien een bestemmingsplan voor het betrokken gebied ontbreekt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit](onbekend), van het gebouw, bedoeld in het eerste lid, tot aan de eigendomsgrens van het gebied dat behoort bij het kwetsbare object. Indien het kwetsbare object een gebouw is, niet zijnde een gebouw als bedoeld in [artikel 1.1.1, eerste lid, onder d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01), dat meer dan tien meter vanaf de eigendomsgrens van het betrokken gebied is gelegen, gelden de veiligheidsafstanden tot tien meter vanaf dat object.
 
-3. In afwijking van het eerste lid gelden de veiligheidsafstanden tot tien meter vanaf het kwetsbare object of het geprojecteerde kwetsbare object, indien dat object een gebouw is, niet zijnde een gebouw als bedoeld in [artikel 1.1.1, eerste lid, onder d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08), en de grens van de bouwstrook meer dan tien meter vanaf de bestemmingsgrens is gelegen. Indien het kwetsbare object of het geprojecteerde kwetsbare object een object is als bedoeld in [artikel 1.1.1, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-05-08&g=2002-05-08), gelden de veiligheidsafstanden tot tien meter vanaf het betrokken object, indien dat object is of mag worden geplaatst op meer dan tien meter van de grens van het gebied dat voor woonwagens of woonschepen is bestemd.
+3. In afwijking van het eerste lid gelden de veiligheidsafstanden tot tien meter vanaf het kwetsbare object of het geprojecteerde kwetsbare object, indien dat object een gebouw is, niet zijnde een gebouw als bedoeld in [artikel 1.1.1, eerste lid, onder d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01), en de grens van de bouwstrook meer dan tien meter vanaf de bestemmingsgrens is gelegen. Indien het kwetsbare object of het geprojecteerde kwetsbare object een object is als bedoeld in [artikel 1.1.1, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2002-07-01&g=2002-07-01), gelden de veiligheidsafstanden tot tien meter vanaf het betrokken object, indien dat object is of mag worden geplaatst op meer dan tien meter van de grens van het gebied dat voor woonwagens of woonschepen is bestemd.
 
 4. Indien in het bestemmingsplan geen bouwstrook is aangegeven, gelden de veiligheidsafstanden tot aan de bestemmingsgrens.
 
@@ -796,27 +798,27 @@ Wijzigt het Besluit vervoer gevaarlijke stoffen.
 
 ##### Artikel 5.3.1
 
-Een vergunning die is verleend krachtens artikel 41, eerste lid, van het Reglement Gevaarlijke Stoffen, wordt tot en met 31 december 2002 gelijkgesteld met een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-05-08&g=2002-05-08).
+Een vergunning die is verleend krachtens artikel 41, eerste lid, van het Reglement Gevaarlijke Stoffen, wordt tot en met 31 december 2002 gelijkgesteld met een vergunning als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2002-07-01&g=2002-07-01).
 
 ##### Artikel 5.3.2
 
-1. Indien op het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treden, ten opzichte van kwetsbare of geprojecteerde kwetsbare objecten niet wordt voldaan aan de van toepassing zijnde veiligheidsafstanden, draagt – behoudens eerdere intrekking van de vergunning – degene die de inrichting drijft er binnen twee jaar na inwerkingtreding van dit besluit zorg voor dat de veiligheidsafstanden zijn geëffectueerd.
+1. Indien op het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treden, ten opzichte van kwetsbare of geprojecteerde kwetsbare objecten niet wordt voldaan aan de van toepassing zijnde veiligheidsafstanden, draagt – behoudens eerdere intrekking van de vergunning – degene die de inrichting drijft er binnen twee jaar na inwerkingtreding van dit besluit zorg voor dat de veiligheidsafstanden zijn geëffectueerd.
 
-2. Het eerste lid geldt niet ten aanzien van geprojecteerde kwetsbare objecten, voor zover het bestemmingsplan waarin deze objecten zijn opgenomen, is vastgesteld op een tijdstip meer dan tien jaar voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treden.
+2. Het eerste lid geldt niet ten aanzien van geprojecteerde kwetsbare objecten, voor zover het bestemmingsplan waarin deze objecten zijn opgenomen, is vastgesteld op een tijdstip meer dan tien jaar voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treden.
 
 ##### Artikel 5.3.3
 
-1. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treden, een vergunning gold voor het opslaan, herverpakken of bewerken van vuurwerk krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) zijn gedurende twee jaar na inwerkingtreding van dit besluit – behoudens eerdere intrekking van de vergunning of het verstrijken van de periode waarvoor de vergunning is verleend – [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-05-08&g=2002-05-08) en de voorschriften opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-05-08&g=2002-05-08) die ten gevolge van de inwerkingtreding van de [artikelen 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08) en [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) gaan gelden, niet van toepassing. Gedurende die periode blijven een zodanige vergunning, de aan de vergunning verbonden voorschriften en artikel 9 van het Vuurwerkbesluit Wet milieugevaarlijke stoffen, zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing.
+1. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treden, een vergunning gold voor het opslaan, herverpakken of bewerken van vuurwerk krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) zijn gedurende twee jaar na inwerkingtreding van dit besluit – behoudens eerdere intrekking van de vergunning of het verstrijken van de periode waarvoor de vergunning is verleend – [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-07-01&g=2002-07-01) en de voorschriften opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-07-01&g=2002-07-01) die ten gevolge van de inwerkingtreding van de [artikelen 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01) en [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) gaan gelden, niet van toepassing. Gedurende die periode blijven een zodanige vergunning, de aan de vergunning verbonden voorschriften en artikel 9 van het Vuurwerkbesluit Wet milieugevaarlijke stoffen, zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing.
 
-2. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treden, een vergunning gold voor het opslaan, herverpakken of bewerken van vuurwerk krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) en binnen twee jaar na de inwerkingtreding van dit besluit ten gevolge van het veranderen van de inrichting dan wel het veranderen van de werking daarvan de vergunning moet worden gewijzigd, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-05-08&g=2002-05-08) en de voorschriften opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-05-08&g=2002-05-08) van toepassing, voor zover de wijziging daarop betrekking heeft.
+2. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop de [paragrafen 2 van de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) en [3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treden, een vergunning gold voor het opslaan, herverpakken of bewerken van vuurwerk krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) en binnen twee jaar na de inwerkingtreding van dit besluit ten gevolge van het veranderen van de inrichting dan wel het veranderen van de werking daarvan de vergunning moet worden gewijzigd, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-07-01&g=2002-07-01) en de voorschriften opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2002-07-01&g=2002-07-01) van toepassing, voor zover de wijziging daarop betrekking heeft.
 
-3. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop [paragraaf 2 van hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treedt, een melding was gedaan krachtens het Besluit opslag vuurwerk milieubeheer, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-05-08&g=2002-05-08) en de voorschriften opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) die ten gevolge van de inwerkingtreding van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08) gaan gelden, niet van toepassing gedurende twee jaar na inwerkingtreding van dit besluit. Gedurende die periode blijven de voorschriften die gesteld zijn bij of krachtens het Besluit opslag vuurwerk milieubeheer en artikel 9 van het Vuurwerkbesluit Wet milieugevaarlijke stoffen, zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing.
+3. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop [paragraaf 2 van hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treedt, een melding was gedaan krachtens het Besluit opslag vuurwerk milieubeheer, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-07-01&g=2002-07-01) en de voorschriften opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) die ten gevolge van de inwerkingtreding van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01) gaan gelden, niet van toepassing gedurende twee jaar na inwerkingtreding van dit besluit. Gedurende die periode blijven de voorschriften die gesteld zijn bij of krachtens het Besluit opslag vuurwerk milieubeheer en artikel 9 van het Vuurwerkbesluit Wet milieugevaarlijke stoffen, zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing.
 
-4. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop [paragraaf 2 van hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-05-08&g=2002-05-08) in werking treedt, een melding was gedaan krachtens het Besluit opslag vuurwerk milieubeheer en binnen twee jaar na de inwerkingtreding van dit besluit ten gevolge van het veranderen van de inrichting dan wel het veranderen van de werking daarvan voor zover die verandering betrekking heeft op de opslag van vuurwerk een melding moet worden gedaan, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-05-08&g=2002-05-08) en de voorschriften opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-05-08&g=2002-05-08) die ten gevolge van de inwerkingtreding van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08) gaan gelden, van toepassing, voor zover de verandering daarop betrekking heeft.
+4. Voor inrichtingen waarvoor onmiddellijk voorafgaand aan het tijdstip waarop [paragraaf 2 van hoofdstuk 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&z=2002-07-01&g=2002-07-01) in werking treedt, een melding was gedaan krachtens het Besluit opslag vuurwerk milieubeheer en binnen twee jaar na de inwerkingtreding van dit besluit ten gevolge van het veranderen van de inrichting dan wel het veranderen van de werking daarvan voor zover die verandering betrekking heeft op de opslag van vuurwerk een melding moet worden gedaan, zijn [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2002-07-01&g=2002-07-01) en de voorschriften opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2002-07-01&g=2002-07-01) die ten gevolge van de inwerkingtreding van [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01) gaan gelden, van toepassing, voor zover de verandering daarop betrekking heeft.
 
 ##### Artikel 5.3.4
 
-Met de aanduiding «Geschikt voor particulier gebruik» genoemd in de [artikelen 1.1.2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.2&z=2002-05-08&g=2002-05-08), [1.3.1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-05-08&g=2002-05-08), [2.1.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2002-05-08&g=2002-05-08), en [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2002-05-08&g=2002-05-08) wordt tot 2 januari 2005 gelijkgesteld de aanduiding «bestemd voor particulier gebruik», indien deze aanduiding is aangebracht op vuurwerk dat voor 1 januari 2003 is vervaardigd.
+Met de aanduiding «Geschikt voor particulier gebruik» genoemd in de [artikelen 1.1.2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.2&z=2002-07-01&g=2002-07-01), [1.3.1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2002-07-01&g=2002-07-01), [2.1.3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2002-07-01&g=2002-07-01), en [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2002-07-01&g=2002-07-01) wordt tot 2 januari 2005 gelijkgesteld de aanduiding «bestemd voor particulier gebruik», indien deze aanduiding is aangebracht op vuurwerk dat voor 1 januari 2003 is vervaardigd.
 
 #### § 4. Slotbepalingen
 
@@ -828,21 +830,21 @@ Onze Minister wijst een vertaling aan van bijlage A van het ADR of draagt zorg v
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-05-08&g=2002-05-08) kan tot twee jaar na inwerkingtreding van de [artikelen 4.1 tot en met 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-05-08&g=2002-05-08) buiten toepassing worden gelaten ten aanzien van besluiten die betrekking hebben op:
+2. [Artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-07-01&g=2002-07-01) kan tot twee jaar na inwerkingtreding van de [artikelen 4.1 tot en met 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-07-01&g=2002-07-01) buiten toepassing worden gelaten ten aanzien van besluiten die betrekking hebben op:
 
 - 1°. het gebied gelegen binnen de veiligheidsafstand die in acht genomen moet worden ten opzichte van een inrichting waar professioneel vuurwerk al dan niet tezamen met consumentenvuurwerk wordt opgeslagen of bewerkt;
 
 - 2°. de verlening of wijziging van een vergunning op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) ten behoeve van inrichtingen in het onder 1° bedoelde gebied,
 
-indien en voor zover door de onder 1° bedoelde inrichting op het tijdstip waarop de [artikelen 4.1 tot en met 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-05-08&g=2002-05-08) in werking treden, ten opzichte van kwetsbare of geprojecteerde kwetsbare objecten niet wordt voldaan aan de voor die inrichting van toepassing zijnde veiligheidsafstanden.
+indien en voor zover door de onder 1° bedoelde inrichting op het tijdstip waarop de [artikelen 4.1 tot en met 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2002-07-01&g=2002-07-01) in werking treden, ten opzichte van kwetsbare of geprojecteerde kwetsbare objecten niet wordt voldaan aan de voor die inrichting van toepassing zijnde veiligheidsafstanden.
 
-3. Het tweede lid geldt niet voor zover het besluit, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-05-08&g=2002-05-08), betrekking heeft op een inrichting als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08).
+3. Het tweede lid geldt niet voor zover het besluit, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-07-01&g=2002-07-01), betrekking heeft op een inrichting als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01).
 
 ##### Artikel 5.4.3
 
 Dit besluit wordt aangehaald als: Vuurwerkbesluit.
 
-## Bijlage 1. Voorschriften voor het opslaan van consumenten-vuurwerk, als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08) en [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08)
+## Bijlage 1. Voorschriften voor het opslaan van consumenten-vuurwerk, als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01) en [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01)
 
 ### A. Begripsbepalingen
 
@@ -948,7 +950,7 @@ Onder de hoeveelheid consumentenvuurwerk wordt verstaan de totale massa consumen
 
 6.3 Indien de toegangsdeur, bedoeld in de voorschriften 6.1 en 6.2, niet visueel kan worden waargenomen en niet aan de daar genoemde afstanden wordt voldaan, zijn tussen de deuropening van de bewaarplaats onderscheidenlijk de bufferbewaarplaats en die toegangsdeur voldoende bouwkundige voorzieningen aangebracht om brandoverslag te voorkomen.
 
-6.4 Teneinde domino-effecten tussen ruimten waar consumentenvuurwerk aanwezig kan zijn en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn te voorkomen, worden vanaf de (buffer)bewaarplaats ten opzichte van die onderdelen ten minste de in [bijlage 3, onderdeel B, onder 1.2 en 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-05-08&g=2002-05-08) gestelde veiligheidsafstanden in acht genomen.
+6.4 Teneinde domino-effecten tussen ruimten waar consumentenvuurwerk aanwezig kan zijn en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn te voorkomen, worden vanaf de (buffer)bewaarplaats ten opzichte van die onderdelen ten minste de in [bijlage 3, onderdeel B, onder 1.2 en 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2002-07-01&g=2002-07-01) gestelde veiligheidsafstanden in acht genomen.
 
 ### C. Opslag van ten hoogste 1 000 kilogram consumentenvuurwerk
 
@@ -960,7 +962,7 @@ In een inrichting waar ten hoogste 1 000 kg consumentenvuurwerk mag worden opges
 
 2. In een inrichting waar meer dan 10 000 kg consumentenvuurwerk mag worden opgeslagen:
 
-## Bijlage 2. Voorschriften voor het opslaan en bewerken van professioneel vuurwerk, al dan niet tezamen met consumentenvuurwerk, als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08)
+## Bijlage 2. Voorschriften voor het opslaan en bewerken van professioneel vuurwerk, al dan niet tezamen met consumentenvuurwerk, als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01)
 
 ### A. Begripsbepalingen
 
@@ -1184,7 +1186,7 @@ In plaats van of naast mechanische transportmiddelen mogen ook transportmiddelen
 
 6.10 Vuurwerk, ontstekers en ontstekingsmiddelen blijven niet in een bewerkingsruimte achter, tenzij deze voorwerpen op veilige wijze worden opgeborgen in speciaal daarvoor ingerichte kasten of worden voorzien van een deugdelijke verpakking.
 
-## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-05-08&g=2002-05-08), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-05-08&g=2002-05-08), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-05-08&g=2002-05-08) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-05-08&g=2002-05-08)
+## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-07-01&g=2002-07-01)
 
 ### A. Begripsbepalingen
 
