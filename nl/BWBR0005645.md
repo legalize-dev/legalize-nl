@@ -4,7 +4,7 @@ identifier: "BWBR0005645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005645"
 soort: "wet"
@@ -69,9 +69,9 @@ In deze wet wordt verstaan onder:
 
 - b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. commissie: een commissie als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-01-01&g=2003-01-01).
+- c. commissie: een commissie als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-01-16&g=2003-01-16).
 
-## Titel II. De inrichting en samenstelling van het provinciaal bestuur
+## Titel II. De inrichting en samenstelling van het provinciebestuur
 
 ### Hoofdstuk I. Algemene bepaling
 
@@ -1007,7 +1007,7 @@ De bevoegdheid tot het maken van provinciale verordeningen blijft ten aanzien va
 
 De bepalingen van provinciale verordeningen in wier onderwerp door een wet of een algemene maatregel van bestuur wordt voorzien, zijn van rechtswege vervallen.
 
-#### § 3. Bijzondere voorzieningen
+#### § 2. Verhouding tot het Rijk
 
 ##### Artikel 120
 
@@ -2288,6 +2288,158 @@ Vervallen
 ##### Artikel 302
 
 Vervallen
+
+## Bijlage. bedoeld in artikel 291, tweede lid van de Provinciewet
+
+### Ministerie van Verkeer en Waterstaat
+
+### Ministerie van Landbouw, Natuurbeheer en Visserij
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Onderwijs en Wetenschappen
+
+### Ministerie van Binnenlandse Zaken
+
+Wet rampen en zware ongevallen, artikel 10
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 35a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 35b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 35c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 40a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 40b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 40c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 53a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk IV. De commissaris van de Koning
+
+### Hoofdstuk IVA. De rekenkamer
+
+#### § 1. De provinciale rekenkamer
+
+#### § 2. De gemeenschappelijke rekenkamer
+
+### Hoofdstuk IVB. De rekenkamerfunctie
+
+### Hoofdstuk V. De commissies
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
+
+### Hoofdstuk VII. De griffier
+
+## Titel III. De bevoegdheid van het provinciaal bestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van provinciale staten
+
+##### Artikel 143a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 143b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151d
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151e
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 151f
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
+
+### Hoofdstuk XI. De bevoegdheid van de commissaris van de Koning
+
+## Titel IV. De financiën van de provincie
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### § 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+##### Artikel 217a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk XV. De provinciale belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent enkele belastingen
+
+#### § 3. Heffing en invordering
+
+### Hoofdstuk XVI. Het Provinciefonds
+
+## Titel V. AANVULLENDE BEPALINGEN INZAKE HET TOEZICHT OP HET PROVINCIAAL BESTUUR
+
+### Hoofdstuk XVII. Goedkeuring
+
+### Hoofdstuk XVIII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
 
 ## Bijlage. bedoeld in artikel 291, tweede lid van de Provinciewet
 
