@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-12-20"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -77,9 +77,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2003-12-20), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2004-09-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2003-12-20) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2004-09-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
