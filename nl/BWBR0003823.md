@@ -69,7 +69,3 @@ De beschikking van de Minister van Sociale Zaken en Volksgezondheid van 5 decemb
 ##### Artikel 6
 
 Deze beschikking met toelichting treedt in werking met ingang van de dag na bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 1 april 1985.
-
-##### Artikel 7
-
-Deze regeling wordt aangehaald als: Regeling nadere regels inzake intrekking en herziening van het ouderdomspensioen.
