@@ -1,0 +1,105 @@
+---
+title: "Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk"
+identifier: "BWBR0001833"
+country: "nl"
+rank: "wet"
+publication_date: "2012-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001833"
+soort: "wet"
+stam_id: "1836223"
+version_id: "2739772"
+internal_id: "C2739771"
+label_id: "1790844"
+dtd_version: "2.0"
+original_entry_into_force: "1838-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001833/2012-01-01/0"
+intitule_bron: "Stb.1829-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1829-05-15"
+intitule_status: "goed"
+original_publication: "Stb.1829-28"
+original_signed_date: "1829-05-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1838-10-01"
+jci_1_3: "jci1.3:c:BWBR0001833&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0001833&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet algemene bepalingen"
+signed_date: "1829-05-15"
+entry_into_force: "1838-10-01"
+---
+# Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk
+
+Allen den genen, die deze zullen zien of hooren lezen, salut! doen te weten:
+
+Alzoo Wij hebben in overweging genomen, dat **de algemeene bepalingen**, vervat bij de wet van den 14den Juni 1822 (**staatsblad** n°. 10), niet **bij uitsluiting** toepasselijk zijn op het burgerlijk wetboek;
+
+Dat daarenboven art. 1 over eene stoffe handelt, welke hare plaats zal behooren te vinden in eene afzonderlijke wet;
+
+Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal,
+
+Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen hetgeen volgt:
+
+##### Artikel 1
+
+Vervallen
+
+##### Artikel 2
+
+Vervallen
+
+##### Artikel 3
+
+Vervallen
+
+##### Artikel 4
+
+De wet verbindt alleen voor het toekomende en heeft geene terugwerkende kracht.
+
+##### Artikel 5
+
+Eene wet kan alleen door eene latere wet, voor het geheel of gedeeltelijk, hare kracht verliezen.
+
+##### Artikel 6
+
+De wetten betreffende de regten, den staat en de bevoegheid der personen, verbinden de Nederlanders, ook wanneer zij zich buiten ’s lands bevinden.
+
+##### Artikel 7
+
+Ten opzigte van onroerende goederen, geldt de wet van het land of der plaats alwaar die goederen gelegen zijn.
+
+##### Artikel 8
+
+De strafwetten en de verordeningen van policie, zijn verbindende voor allen die zich op het grondgebied van het Koningrijk bevinden.
+
+##### Artikel 9
+
+Het burgerlijk regt van het Koningrijk is hetzelfde voor vreemdelingen als voor de Nederlanders, zoo lange de wet niet bepaaldelijk het tegendeel vaststelt.
+
+##### Artikel 10
+
+De vorm van alle handelingen wordt beoordeeld naar de wetten van het land of de plaats alwaar die handelingen zijn verrigt.
+
+##### Artikel 11
+
+De regter moet volgens de wet regt spreken: hij mag in geen geval de innerlijke waarde of billijkheid der wet beoordeelen.
+
+##### Artikel 12
+
+Geen regter mag bij wege van algemeene verordening, dispositie of reglement, uitspraak doen in zaken welke aan zijne beslissing onderworpen zijn.
+
+##### Artikel 13
+
+De regter die weigert regt te spreken, onder voorwendsel van het stilzwijgen, de duisterheid of de onvolledigheid der wet, kan uit hoofde van **regtsweigering** vervolgd worden.
+
+##### Artikel 13a
+
+De regtsmagt van den regter en de uitvoerbaarheid van regterlijke vonnissen en van authentieke akten worden beperkt door de uitzonderingen in het volkenregt erkend.
+
+##### Artikel 14
+
+Vervallen
+
+Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
