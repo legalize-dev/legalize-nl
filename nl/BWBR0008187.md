@@ -4,7 +4,7 @@ identifier: "BWBR0008187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-05-19"
-last_updated: "1998-08-01"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008187"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 1. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning of reservering beginnen uitsluitend met de cijfers 204 of 205.
 
-2. Behoudens het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008187&artikel=3&z=1998-08-01&g=1998-08-01) zijn er geen beperkingen in de beschikbaarheid voor toekenning of reservering van de nummers genoemd in het eerste lid.
+2. Behoudens het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008187&artikel=3&z=2004-05-19&g=2004-05-19) zijn er geen beperkingen in de beschikbaarheid voor toekenning of reservering van de nummers genoemd in het eerste lid.
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ Aan de toekenning of reservering van een nummer wordt het voorschrift verbonden 
 
 ##### Artikel 5
 
-Indien een aanvraag om toekenning of reservering van een nummer strijdig is met dit besluit en de Minister van Verkeer en Waterstaat het voornemen heeft dit besluit zodanig te wijzigen dat inwilliging van de aanvraag alsdan mogelijk wordt, wordt de aanvraag vooruitlopend op de wijziging van dit besluit in behandeling genomen.
+Vervallen
 
 ##### Artikel 6
 
@@ -76,6 +76,12 @@ Dit besluit treedt in werking met ingang van 1 augustus 1996.
 
 Dit besluit wordt aangehaald als: Nummerplan pakket- en circuitgeschakelde datadiensten.
 
-Dit besluit met bijbehorende toelichting wordt ter inzage gelegd bij het Ministerie van Verkeer en Waterstaat, Directie Toezicht Netwerken en Diensten.
+Dit besluit met de bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+## Bijlage
+
+Ligt ter inzage bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
