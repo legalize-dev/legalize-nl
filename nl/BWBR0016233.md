@@ -4,7 +4,7 @@ identifier: "BWBR0016233"
 country: "nl"
 rank: "wet"
 publication_date: "2005-09-01"
-last_updated: "2004-01-01"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016233"
 soort: "wet"
@@ -62,7 +62,7 @@ Wijzigt de Ziektewet.
 
 - A. Wijzigt de Wet terugdringing ziekteverzuim.
 
-- B. De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2004-01-01&g=2004-01-01), worden voor ambtenaren respectievelijk militaire ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) dan wel [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
+- B. De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2004-12-30&g=2004-12-30), worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50) en [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften respectievelijk het bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
 
 ##### Artikel VI. [Wet arbeid mijnbouw Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005703)
 
