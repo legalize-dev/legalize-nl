@@ -4,7 +4,7 @@ identifier: "BWBR0008587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-09"
-last_updated: "2005-01-01"
+last_updated: "2005-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008587"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5b, 
 
 ##### Artikel 1.2. Algemeen
 
-Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-01-01&g=2005-01-01) van toepassing.
+Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-02-25&g=2005-02-25) van toepassing.
 
 ##### Artikel 1.3. Materiaal
 
@@ -116,7 +116,7 @@ De opleidingsinstelling overhandigt de cursist die het examen met goed gevolg he
 
 ##### Artikel 1.8. Administratie
 
-De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2005-01-01&g=2005-01-01) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
+De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2005-02-25&g=2005-02-25) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
 
 #### Paragraaf 1.3. Vervallen
 
@@ -128,7 +128,7 @@ Vervallen
 
 ##### Artikel 1.10. Gegevens arbeidsongevallen
 
-De schriftelijke mededeling van arbeidsongevallen, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) omvat ten minste de gegevens, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2005-01-01&g=2005-01-01) bij deze regeling.
+De schriftelijke mededeling van arbeidsongevallen, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) omvat ten minste de gegevens, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 ##### Artikel 1.11. Gegevens beroepsziekten
 
@@ -248,9 +248,9 @@ Bij de uitvoering van zijn taak op grond van [artikel 14, derde lid, onder d, va
 
 ##### Artikel 2.6. Melding gegevens
 
-1. De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01).
+1. De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25).
 
-2. Indien zich een wijziging voordoet in de gegevens, bedoeld in de [artikelen 2.12, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2005-01-01&g=2005-01-01), of [2.13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2005-01-01&g=2005-01-01), meldt de arbodienst onderscheidenlijk de werkgever dit zo spoedig mogelijk aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in het eerste lid.
+2. Indien zich een wijziging voordoet in de gegevens, bedoeld in de [artikelen 2.12, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2005-02-25&g=2005-02-25), of [2.13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2005-02-25&g=2005-02-25), meldt de arbodienst onderscheidenlijk de werkgever dit zo spoedig mogelijk aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in het eerste lid.
 
 #### Paragraaf 2.2. Certificatie
 
@@ -260,27 +260,27 @@ Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid
 
 ##### Artikel 2.8. Medeling inzake certificaat
 
-Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) doet mededeling aan de minister van de afgifte, de weigering of de intrekking van een certificaat als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-01-01&g=2005-01-01), onder opgave van de redenen. Van de afgifte of de intrekking van een certificaat doet zij tevens mededeling in de Staatscourant.
+Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) doet mededeling aan de minister van de afgifte, de weigering of de intrekking van een certificaat als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-02-25&g=2005-02-25), onder opgave van de redenen. Van de afgifte of de intrekking van een certificaat doet zij tevens mededeling in de Staatscourant.
 
 ##### Artikel 2.9. Klachtenprocedure
 
-Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) heeft een procedure voor het behandelen van klachten aangaande de dienstverlening door arbodiensten. Vastgelegd wordt op welke wijze deze taak wordt uitgevoerd, welke procedures daarbij worden gevolgd en op welke wijze klachten zo nodig zullen leiden tot correcties en preventieve maatregelen.
+Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) heeft een procedure voor het behandelen van klachten aangaande de dienstverlening door arbodiensten. Vastgelegd wordt op welke wijze deze taak wordt uitgevoerd, welke procedures daarbij worden gevolgd en op welke wijze klachten zo nodig zullen leiden tot correcties en preventieve maatregelen.
 
 ##### Artikel 2.10. Verrichten controle
 
-Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) verricht jaarlijks controle bij de arbodienst ten behoeve waarvan door de instelling een certificaat arbodienst is afgegeven.
+Een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) verricht jaarlijks controle bij de arbodienst ten behoeve waarvan door de instelling een certificaat arbodienst is afgegeven.
 
 ##### Artikel 2.11. Afgifte certificaat arbodienst
 
-1. Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) heeft aangewezen, de certificerende instelling, afgegeven indien wordt voldaan aan [artikel 14, derde lid, en vijfde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en [2.9 tot en met 2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.10), de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.1&z=2005-01-01&g=2005-01-01) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2005-01-01&g=2005-01-01), eerste lid, en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen, waarmee de belanghebbende groeperingen hebben ingestemd.
+1. Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) heeft aangewezen, de certificerende instelling, afgegeven indien wordt voldaan aan [artikel 14, derde lid, en vijfde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en [2.9 tot en met 2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.10), de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.1&z=2005-02-25&g=2005-02-25) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2005-02-25&g=2005-02-25), eerste lid, en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen, waarmee de belanghebbende groeperingen hebben ingestemd.
 
-2. Een certificaat arbodienst als bedoeld in [artikel 2.14, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) heeft aangewezen, de certificerende instelling, afgegeven indien wordt voldaan aan [artikel 14, derde lid, en vijfde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.9), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.11) en [2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.12), de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.1&z=2005-01-01&g=2005-01-01) en [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2005-01-01&g=2005-01-01), en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen waarmee de belanghebbende groeperingen hebben ingestemd.
+2. Een certificaat arbodienst als bedoeld in [artikel 2.14, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) heeft aangewezen, de certificerende instelling, afgegeven indien wordt voldaan aan [artikel 14, derde lid, en vijfde tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.9), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.11) en [2.12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.12), de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.2&artikel=2.1&z=2005-02-25&g=2005-02-25) en [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2005-02-25&g=2005-02-25), en bij de uitvoering van taken een kwaliteitssysteem wordt gehanteerd, dat bewerkstelligt dat aan deze wettelijke vereisten wordt voldaan en dat voldoet aan normen waarmee de belanghebbende groeperingen hebben ingestemd.
 
 3. Een certificaat als bedoeld in het eerste en tweede lid, wordt afgegeven voor een periode van ten hoogste vier jaar.
 
 ##### Artikel 2.12. Verstrekken gegevens bij aanvraag certificaat externe arbodienst
 
-1. Een externe arbodienst verstrekt aan de minister dan wel, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-01-01&g=2005-01-01), de volgende gegevens:
+1. Een externe arbodienst verstrekt aan de minister dan wel, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-02-25&g=2005-02-25), de volgende gegevens:
 
 - a. met betrekking tot de deskundigen die voor de arbodienst werkzaam zijn:
 
@@ -316,7 +316,7 @@ Vervallen
 
 ##### Artikel 2.13. Verstrekken gegevens bij aanvraag certificaat interne arbodienst
 
-1. De werkgever verstrekt aan de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-01-01&g=2005-01-01), de volgende gegevens:
+1. De werkgever verstrekt aan de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) heeft aangewezen, aan de certificerende instelling, bij de aanvraag van een certificaat arbodienst als bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-02-25&g=2005-02-25), de volgende gegevens:
 
 - a. met betrekking tot de deskundigen die voor de arbodienst werkzaam zijn:
 
@@ -366,11 +366,11 @@ Vervallen
 
 1. In deze paragraaf wordt verstaan onder lidstaat: een lidstaat van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte.
 
-2. De minister geeft op schriftelijke aanvraag een EG-verklaring als bedoeld in [artikel 2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.8) af op de vakgebieden van de veiligheidskunde, arbeidshygiëne dan wel arbeids- en organisatiekunde indien wordt voldaan aan de [artikelen 2.20 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.20&z=2005-01-01&g=2005-01-01).
+2. De minister geeft op schriftelijke aanvraag een EG-verklaring als bedoeld in [artikel 2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.8) af op de vakgebieden van de veiligheidskunde, arbeidshygiëne dan wel arbeids- en organisatiekunde indien wordt voldaan aan de [artikelen 2.20 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.20&z=2005-02-25&g=2005-02-25).
 
 ##### Artikel 2.20. Vereisten
 
-Bij de schriftelijke aanvraag, bedoeld in [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2005-01-01&g=2005-01-01), wordt aangegeven dan wel overgelegd:
+Bij de schriftelijke aanvraag, bedoeld in [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2005-02-25&g=2005-02-25), wordt aangegeven dan wel overgelegd:
 
 - a. een gewaarmerkte kopie van het diploma dan wel de diploma’s, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006317&artikel=2) dan wel [3 van de Algemene wet erkenning EG-hoger-onderwijsdiploma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006317&artikel=3) waarvan gelijkstelling door middel van een EG-verklaring wordt verlangd alsmede een gewaarmerkte kopie van de daarbij behorende cijferlijst of beoordelingen;
 
@@ -426,7 +426,7 @@ Bij de schriftelijke aanvraag, bedoeld in [artikel 2.19, tweede lid](https://wet
 
 - c. na overleg tussen de aanvrager en diens begeleider kan de begeleider besluiten dat aan de stage een aanvullende opleiding wordt gekoppeld;
 
-- d. de stage wordt beoordeeld op de vraag of de aanvrager de vakgebieden bedoeld in [artikel 2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.20&z=2005-01-01&g=2005-01-01), in voldoende mate beheerst, en
+- d. de stage wordt beoordeeld op de vraag of de aanvrager de vakgebieden bedoeld in [artikel 2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.4&artikel=2.20&z=2005-02-25&g=2005-02-25), in voldoende mate beheerst, en
 
 - e. het resultaat van de beoordeling wordt zo spoedig mogelijk meegedeeld aan de aanvrager en de minister.
 
@@ -466,7 +466,7 @@ Vervallen
 
 ##### Artikel 3.1. Model kennisgeving
 
-Als model van de kennisgeving, bedoeld in [artikel 2.26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.26) wordt vastgesteld het model dat als [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=III&z=2005-01-01&g=2005-01-01) bij deze regeling is gevoegd.
+Als model van de kennisgeving, bedoeld in [artikel 2.26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.26) wordt vastgesteld het model dat als [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=III&z=2005-02-25&g=2005-02-25) bij deze regeling is gevoegd.
 
 #### Paragraaf 3.2. Winningsindustrieën met behulp van boringen
 
@@ -506,7 +506,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
+1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
 
 - a. het boren van een boorgat;
 
@@ -518,7 +518,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), bestaat uit de volgende onderdelen:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), bestaat uit de volgende onderdelen:
 
 - a. het voorontwerprapport;
 
@@ -530,7 +530,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 - e. het addendum verlaten en verwijderen.
 
-2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), bestaat uit de volgende onderdelen:
+2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), bestaat uit de volgende onderdelen:
 
 - a. het gedetailleerd ontwerp, opstarten en gebruik;
 
@@ -540,25 +540,25 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), bevat:
+Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), bevat:
 
 - a. een duidelijke en nauwkeurige beschrijving van het mijnbouwwerk alsmede van de werkzaamheden die op het mijnbouwwerk worden uitgevoerd, met inbegrip van een aanduiding van de voorzieningen die in het ontwerp van het mijnbouwwerk zijn opgenomen ter uitsluiting of vermindering van de risico's;
 
-- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIA&z=2005-01-01&g=2005-01-01) bij deze regeling;
+- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIA&z=2005-02-25&g=2005-02-25) bij deze regeling;
 
-- c. de informatie, bedoeld in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIB&z=2005-01-01&g=2005-01-01) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
+- c. de informatie, bedoeld in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIB&z=2005-02-25&g=2005-02-25) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
 
 - d. de informatie, bedoeld in onderdeel c, is gebaseerd op de opgave, bedoeld in [artikel 2.42f, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
 
 - e. een opgave van de acceptatiecriteria;
 
-- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIC&z=2005-01-01&g=2005-01-01) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage IIID](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIID&z=2005-01-01&g=2005-01-01) bij deze regeling;
+- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIC&z=2005-02-25&g=2005-02-25) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage IIID](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIID&z=2005-02-25&g=2005-02-25) bij deze regeling;
 
 - g. een specificatie van de bronnen, die zijn gebruikt bij het identificeren, analyseren en evalueren van de risico's, met inbegrip van een beschrijving van de wijze waarop de geschiktheid en betrouwbaarheid van de bronnen is vastgesteld;
 
 - h. een beoordeling van de doeltreffendheid en geschiktheid van het veiligheids- en gezondheidszorgsysteem voor het mijnbouwwerk met inbegrip van de resultaten en de noodzakelijk bevonden wijzigingen of aanvullingen van dat zorgsysteem;
 
-- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIC&z=2005-01-01&g=2005-01-01) en [IIID](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIID&z=2005-01-01&g=2005-01-01) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
+- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIC&z=2005-02-25&g=2005-02-25) en [IIID](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIID&z=2005-02-25&g=2005-02-25) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
 
 - j. een opgave van de noodzakelijk geachte risicoverminderende maatregelen, inclusief een samenvatting van al het onderzoek dat in dit kader is verricht;
 
@@ -576,7 +576,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2005-01-01&g=2005-01-01), bevat:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2005-02-25&g=2005-02-25), bevat:
 
 - a. een overzichtstekening waarop de combinaties, bedoeld in het tweede lid, zijn aangegeven;
 
@@ -596,31 +596,31 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - i. een toetsing van de prestaties van een procesinstallatie of componenten daarvan, van apparatuur en van beheerssystemen aan de prestatienormen.
 
-2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
+2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
 
-- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01);
+- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25);
 
-- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01);
+- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25);
 
-- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), of
+- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), of
 
-- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01).
+- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25).
 
 ##### Artikel 3.11. Toezenden gegevens
 
-1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt voorafgaand aan de aanvraag om een vergunning, bedoeld in de [artikelen 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) en [40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt voorafgaand aan de aanvraag om een vergunning, bedoeld in de [artikelen 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) en [40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt acht weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt acht weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-4. Het addendum grote wijzigingen, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt acht weken voor de aanvang van het aanbrengen van de wijzigingen in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+4. Het addendum grote wijzigingen, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt acht weken voor de aanvang van het aanbrengen van de wijzigingen in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-5. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt acht weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+5. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt acht weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 ##### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2005-01-01&g=2005-01-01), wordt vier weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2005-02-25&g=2005-02-25), wordt vier weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 2. Dit veiligheids- en gezondheidsdocument gaat vergezeld van het werkprogramma, bedoeld in [artikel 74 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=74) indien het de volgende werkzaamheden betreft:
 
@@ -628,21 +628,21 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - b. het uitvoeren van werkzaamheden in een bestaand boorgat.
 
-3. In afwijking van het eerste lid wordt de informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01), op verzoek van een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) in tweevoud aan hem toegezonden.
+3. In afwijking van het eerste lid wordt de informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25), op verzoek van een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) in tweevoud aan hem toegezonden.
 
 ##### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
 
-1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-01-01&g=2005-01-01), wordt nageleefd.
+1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2005-02-25&g=2005-02-25), wordt nageleefd.
 
-2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
+2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
 
 3. Indien de resultaten van de beoordeling, bedoeld in het tweede lid, daartoe aanleiding geven, herziet de werkgever die verantwoordelijk is voor de arbeidsplaats het veiligheids- en gezondheidsdocument. De herziene delen van het veiligheids- en gezondheidsdocument worden, alvorens het gewijzigde veiligheids- en gezondheidsdocument wordt uitgevoerd, in tweevoud toegezonden aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 ##### Artikel 3.14. Noodplan
 
-1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v) bevat in ieder geval de informatie, bedoeld in [bijlage IIIE](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIE&z=2005-01-01&g=2005-01-01) bij deze regeling.
+1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v) bevat in ieder geval de informatie, bedoeld in [bijlage IIIE](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IIIE&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
-2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), aanwezig.
+2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), aanwezig.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -688,9 +688,9 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - r. ladingzone: de ladingtanks en alle rechtstreeks aan deze tanks grenzende tanks of andere ruimten, welke als afscheiding dienen tussen de ladingtanks en de overige ruimten van het schip;
 
-- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 4.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7) die voldoet aan de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2005-01-01&g=2005-01-01) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.15&z=2005-01-01&g=2005-01-01);
+- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 4.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7) die voldoet aan de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2005-02-25&g=2005-02-25) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.15&z=2005-02-25&g=2005-02-25);
 
-- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 4.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7), overeenkomstig een van de bij [bijlage IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IVA&z=2005-01-01&g=2005-01-01) van deze regeling vastgestelde modellen.
+- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 4.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.7), overeenkomstig een van de bij [bijlage IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IVA&z=2005-02-25&g=2005-02-25) van deze regeling vastgestelde modellen.
 
 ##### Artikel 4.2. Toepassingsgebied
 
@@ -736,11 +736,11 @@ Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als ge
 
 ##### Artikel 4.8. Veiligheids- en gezondheidsverklaring
 
-De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2005-01-01&g=2005-01-01), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2005-01-01&g=2005-01-01) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2005-01-01&g=2005-01-01), is afgegeven.
+De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2005-02-25&g=2005-02-25), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2005-02-25&g=2005-02-25) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2005-02-25&g=2005-02-25), is afgegeven.
 
 ##### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
 
-1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-01-01&g=2005-01-01) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
+1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-02-25&g=2005-02-25) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
 
 2. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt voorts slechts plaats voor zover die werkzaamheden en de ruimten waarin deze worden uitgevoerd, zijn vermeld in de in het eerste lid bedoelde veiligheids- en gezondheidsverklaring als zijnde toegestaan.
 
@@ -750,7 +750,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.10. Onderzoek gasdeskundige
 
-1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-01-01&g=2005-01-01) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
+1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-02-25&g=2005-02-25) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
 
 2. De gasdeskundige strekt dit onderzoek uit over alle ruimten ten aanzien waarvan hij dit in verband met de aard van de te verrichten werkzaamheden noodzakelijk acht. Bij het onderzoek betrekt de gasdeskundige zo nodig een goed geoutilleerd laboratorium. Hij maakt gebruik van deugdelijke, in goede staat verkerende meet- en andere hulpapparatuur.
 
@@ -792,7 +792,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
 
-Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-01-01&g=2005-01-01) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-01-01&g=2005-01-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
+Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-02-25&g=2005-02-25) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-02-25&g=2005-02-25) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
 
 - a. de aard van de werkzaamheden, de plaats of plaatsen waar deze werkzaamheden zullen worden uitgevoerd en de periode waarin zij zullen worden verricht, nauwkeurig zijn aangeduid door de reparateur;
 
@@ -802,11 +802,11 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - d. door een gasdeskundige een gedagtekende verklaring is uitgereikt waaruit blijkt dat op de onder a tot en met c bedoelde plaatsen de resten van brandbare vloeistoffen zijn verwijderd, zodat geen brandgevaar bestaat;
 
-- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-01-01&g=2005-01-01).
+- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-02-25&g=2005-02-25).
 
 ##### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
 
-1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-01-01&g=2005-01-01), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-01-01&g=2005-01-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-01-01&g=2005-01-01).
+1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-02-25&g=2005-02-25), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2005-02-25&g=2005-02-25) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2005-02-25&g=2005-02-25).
 
 2. De aanwezigheid van vuur, bedoeld in het eerste lid, is voorts toegestaan indien blijkt uit de verklaring, bedoeld in voornoemd lid, dat:
 
@@ -816,7 +816,7 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 ##### Artikel 4.13. Melding werkzaamheden
 
-Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-01-01&g=2005-01-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-01-01&g=2005-01-01), zich voordoen ontvangt de in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) daartoe aangewezen ambtenaar voor de aanvang van de werkzaamheden een volledig en juist ingevuld meldingsformulier overeenkomstig het bij [bijlage IVB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IVB&z=2005-01-01&g=2005-01-01) bij deze regeling vastgestelde model.
+Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-02-25&g=2005-02-25) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-02-25&g=2005-02-25), zich voordoen ontvangt de in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) daartoe aangewezen ambtenaar voor de aanvang van de werkzaamheden een volledig en juist ingevuld meldingsformulier overeenkomstig het bij [bijlage IVB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IVB&z=2005-02-25&g=2005-02-25) bij deze regeling vastgestelde model.
 
 ##### Artikel 4.14
 
@@ -860,7 +860,7 @@ Vervallen
 
 ##### Artikel 4.17d. Gegevens werkplan professioneel vuurwerk
 
-Het werkplan, bedoeld in [artikel 4.8a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a) omvat tenminste de gegevens, bedoeld in [bijlage VB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VB&z=2005-01-01&g=2005-01-01) bij deze regeling.
+Het werkplan, bedoeld in [artikel 4.8a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a) omvat tenminste de gegevens, bedoeld in [bijlage VB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VB&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 #### Paragraaf 4.3. Verbod recirculatie
 
@@ -884,7 +884,7 @@ Het werkplan, bedoeld in [artikel 4.8a, eerste lid, van het besluit](https://wet
 
 ##### Artikel 4.19. Gevaarlijke stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.8b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a) worden aangewezen de waarden die zijn opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-01-01&g=2005-01-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.8b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8a) worden aangewezen de waarden die zijn opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 2.
 
@@ -896,7 +896,7 @@ Als grenswaarde als bedoeld in [artikel 4.8b, tweede lid van het besluit](https:
 
 ##### Artikel 4.20. Kankerverwekkende en mutagene stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2005-01-01&g=2005-01-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 2. De resultaten van de beoordeling, bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) worden voor elke stof waarvoor overeenkomstig het eerste lid een grenswaarde is vastgesteld, getoetst aan die grenswaarde. De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
@@ -920,7 +920,7 @@ Als grenswaarde als bedoeld in [artikel 4.8b, tweede lid van het besluit](https:
 
 3. Het loodgehalte in het bloed als bedoeld in [artikel 4.10b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b) wordt gemeten met behulp van de atomaire absorptiespectrometrie of een andere gelijkwaardige methode.
 
-4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2005-01-01&g=2005-01-01). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
+4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2005-02-25&g=2005-02-25). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
 5. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10b, eerste lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt de werknemers ten minste eenmaal per jaar aangeboden.
 
@@ -928,7 +928,7 @@ Als grenswaarde als bedoeld in [artikel 4.8b, tweede lid van het besluit](https:
 
 ##### Artikel 4.21. Algemeen
 
-De metingen, bedoeld in [artikel 4.50, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50) worden overeenkomstig de [artikelen 4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2005-01-01&g=2005-01-01) uitgevoerd.
+De metingen, bedoeld in [artikel 4.50, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.50) worden overeenkomstig de [artikelen 4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2005-02-25&g=2005-02-25) uitgevoerd.
 
 ##### Artikel 4.22. Monsterneming
 
@@ -964,7 +964,7 @@ Bij monsterneming wordt gebruik gemaakt van:
 
 ##### Artikel 4.25. Voorschriften bij telling
 
-Telling van de vezels op het filter, bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.24&z=2005-01-01&g=2005-01-01), vindt plaats volgens de onderstaande voorschriften:
+Telling van de vezels op het filter, bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.24&z=2005-02-25&g=2005-02-25), vindt plaats volgens de onderstaande voorschriften:
 
 - a. alleen telbare vezels worden geteld; onder telbare vezel wordt verstaan een vezel die voldoet aan de definitie van een vezel, bedoeld in [artikel 4.37, eerste lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.37) die geen deeltje met een maximum diameter groter dan 3 micrometer raakt;
 
@@ -1148,13 +1148,13 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 2. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
-- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIIIA&z=2005-01-01&g=2005-01-01) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
+- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIIIA&z=2005-02-25&g=2005-02-25) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
 
 - b. het reinigen van gereedschappen die worden gebruikt bij de werkzaamheden, bedoeld onder a, of oppervlakken van onderdelen van motorrijtuigen ten behoeve van de herstel- of vernieuwingswerkzaamheden, bedoeld onder a.
 
 3. Het tweede lid is niet van toepassing op werkzaamheden ten behoeve van het herstellen van lakschade of het vernieuwen van laklagen op onderdelen van motorrijtuigen die zijn gebouwd vóór 1970;
 
-4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIIIA&z=2005-01-01&g=2005-01-01) bij deze regeling.
+4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIIIA&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 ##### Artikel 4.32g. Coating van timmerwerk in binnensituaties
 
@@ -1320,7 +1320,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 ##### Artikel 6.1
 
-1. Als certificerende instelling als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) kan worden aangewezen een opleidingsinstelling die een opleiding verzorgt die tot doel heeft personen op te leiden die uit hoofde van een bedrijf of beroep arbeidsgezondheidskundige onderzoeken als bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) uitvoeren of zullen gaan uitvoeren en die voldoet aan de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-01-01&g=2005-01-01) en de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2005-01-01&g=2005-01-01), [6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-01-01&g=2005-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2005-01-01&g=2005-01-01), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01), en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-01-01&g=2005-01-01).
+1. Als certificerende instelling als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) kan worden aangewezen een opleidingsinstelling die een opleiding verzorgt die tot doel heeft personen op te leiden die uit hoofde van een bedrijf of beroep arbeidsgezondheidskundige onderzoeken als bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) uitvoeren of zullen gaan uitvoeren en die voldoet aan de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-02-25&g=2005-02-25) en de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2005-02-25&g=2005-02-25), [6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-02-25&g=2005-02-25), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2005-02-25&g=2005-02-25), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25), en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-02-25&g=2005-02-25).
 
 2. Als certificerende instelling als bedoeld in [artikel 6.16, derde lid, zesde lid, onderscheidenlijk zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), is aangewezen een instelling die:
 
@@ -1334,15 +1334,15 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 - b. duikarbeid verrichten of zullen gaan verrichten;
 
-- c. duikers adequaat medisch begeleiden of zullen gaan begeleiden, en die voldoet aan de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-01-01&g=2005-01-01) en de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2005-01-01&g=2005-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2005-01-01&g=2005-01-01), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01), en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-01-01&g=2005-01-01)
+- c. duikers adequaat medisch begeleiden of zullen gaan begeleiden, en die voldoet aan de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2005-02-25&g=2005-02-25) en de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2005-02-25&g=2005-02-25), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-02-25&g=2005-02-25), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2005-02-25&g=2005-02-25), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25), en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-02-25&g=2005-02-25)
 
 ##### Artikel 6.2. Verstrekken gegevens
 
-Een certificerende instelling als bedoeld in [artikel 6.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01) verstrekt aan de minister op diens verzoek alle informatie met betrekking tot de door haar verzorgde opleiding en stelt hem tijdig op de hoogte van voorgenomen wijzigingen van de inhoud van de opleiding en het bijbehorende examen.
+Een certificerende instelling als bedoeld in [artikel 6.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-02-25&g=2005-02-25) verstrekt aan de minister op diens verzoek alle informatie met betrekking tot de door haar verzorgde opleiding en stelt hem tijdig op de hoogte van voorgenomen wijzigingen van de inhoud van de opleiding en het bijbehorende examen.
 
 ##### Artikel 6.3. Afgifte certificaat duikploegleider, duikarbeid en duikmedische begeleiding
 
-1. Een certificaat duikploegleider, duikarbeid of duikmedische begeleiding als bedoeld in [artikel 6.16, derde lid, zesde lid, onderscheidenlijk zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16) wordt door de instelling, bedoeld in [artikel 6.1, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01), afgegeven indien de cursist met goed gevolg het examen, behorend bij de opleiding, bedoeld in de laatstgenoemde artikelleden, heeft afgelegd. Het certificaat wordt aangemerkt als een schriftelijk bewijs als bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2005-01-01&g=2005-01-01).
+1. Een certificaat duikploegleider, duikarbeid of duikmedische begeleiding als bedoeld in [artikel 6.16, derde lid, zesde lid, onderscheidenlijk zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16) wordt door de instelling, bedoeld in [artikel 6.1, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-02-25&g=2005-02-25), afgegeven indien de cursist met goed gevolg het examen, behorend bij de opleiding, bedoeld in de laatstgenoemde artikelleden, heeft afgelegd. Het certificaat wordt aangemerkt als een schriftelijk bewijs als bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2005-02-25&g=2005-02-25).
 
 2. Een certificaat duikploegleider, duikarbeid of duikmedische begeleiding als bedoeld in het eerste lid, dat door een lidstaat van de Europese Unie anders dan Nederland of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of de Zwitserse bondsstaat is voorgeschreven en dat naar oordeel van de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, qua vereist niveau van vakbekwaamheid gelijkwaardig is, wordt gelijkgesteld aan de certificaten, bedoeld in het eerste lid.
 
@@ -1362,7 +1362,7 @@ Een certificerende instelling als bedoeld in [artikel 6.1, eerste en derde lid](
 
 - a. in het bezit is van het certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde, bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7);
 
-- b. met goed gevolg het examen, behorend bij de opleiding, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01), heeft afgelegd, en
+- b. met goed gevolg het examen, behorend bij de opleiding, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-02-25&g=2005-02-25), heeft afgelegd, en
 
 - c. blijk heeft gegeven over voldoende relevante en actuele kennis en beroepservaring te beschikken.
 
@@ -1380,19 +1380,19 @@ Een certificerende instelling als bedoeld in [artikel 6.1, eerste en derde lid](
 
 ##### Artikel 6.4. Vergoeding
 
-Voor de afgifte van een certificaat als bedoeld in de [artikelen 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01) en [6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-01-01&g=2005-01-01) is een vergoeding verschuldigd van ten hoogste € 273, bijkomende kosten en BTW alsmede opleidings- en examenkosten daaronder niet begrepen.
+Voor de afgifte van een certificaat als bedoeld in de [artikelen 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-02-25&g=2005-02-25) en [6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-02-25&g=2005-02-25) is een vergoeding verschuldigd van ten hoogste € 273, bijkomende kosten en BTW alsmede opleidings- en examenkosten daaronder niet begrepen.
 
 #### Paragraaf 6.2. Opleidingen
 
 ##### Artikel 6.5. Categorieën opleidingen
 
-1. Een opleiding als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01), leidt op tot het uitvoeren van:
+1. Een opleiding als bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-02-25&g=2005-02-25), leidt op tot het uitvoeren van:
 
 - a. arbeidsgezondheidskundige onderzoeken als bedoeld in [artikel 6.14a, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a);
 
 - b. arbeidsgezondheidskundige onderzoeken als bedoeld in [artikel 6.14a, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a).
 
-2. Een opleiding als bedoeld in [artikel 6.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01), omvat:
+2. Een opleiding als bedoeld in [artikel 6.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-02-25&g=2005-02-25), omvat:
 
 - a. een opleiding duikploegleider;
 
@@ -1414,13 +1414,13 @@ Voor de afgifte van een certificaat als bedoeld in de [artikelen 6.3](https://we
 
 ##### Artikel 6.6
 
-Een opleiding als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01) leidt ten minste op tot de eindtermen behorende bij de desbetreffende categorie arbeid als duikploegleider, duikarbeid, duikmedische begeleiding respectievelijk uitvoering van onderzoeken als bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a), bedoeld in [bijlage IX bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2005-01-01&g=2005-01-01).
+Een opleiding als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25) leidt ten minste op tot de eindtermen behorende bij de desbetreffende categorie arbeid als duikploegleider, duikarbeid, duikmedische begeleiding respectievelijk uitvoering van onderzoeken als bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a), bedoeld in [bijlage IX bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2005-02-25&g=2005-02-25).
 
 #### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
 
 ##### Artikel 6.7. Inhoud arbeidsgezondheidskundig onderzoek
 
-Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a), vindt plaats met inachtneming van het bepaalde in [bijlage IXA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IXA&z=2005-01-01&g=2005-01-01) bij deze regeling.
+Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a), vindt plaats met inachtneming van het bepaalde in [bijlage IXA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IXA&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 #### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
 
@@ -1496,25 +1496,25 @@ a. torenkraan: torenvormige hijskraan waarvan het maximumbedrijfslastmoment 10 t
 
 ##### Artikel 7.7. Afgifte certificaat van vakbekwaamheid
 
-1. Een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01) wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen die, met betrekking tot de bediening van een kraan of heistelling van een categorie als genoemd in [artikel 7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01) zijn opgenomen in de certificatieschema’s van de Stichting Toezicht Certificatie Verticaal Transport te Bennekom, bedoeld in het tweede lid.
+1. Een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25) wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen die, met betrekking tot de bediening van een kraan of heistelling van een categorie als genoemd in [artikel 7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25) zijn opgenomen in de certificatieschema’s van de Stichting Toezicht Certificatie Verticaal Transport te Bennekom, bedoeld in het tweede lid.
 
-2. Voor het verkrijgen van een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01) zijn de volgende certificatieschema’s van toepassing:
+2. Voor het verkrijgen van een certificaat als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25) zijn de volgende certificatieschema’s van toepassing:
 
-- a. indien het betreft een certificaat voor de bediening van een mobiele torenkraan van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist mobiele torenkraan’, identificatiecode TCVT W4-06/02-2002 of het certificatieschema ‘Machinist Torenkraan’, identificatiecode TCVT W4-02/09-2000;
+- a. indien het betreft een certificaat voor de bediening van een mobiele torenkraan van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist mobiele torenkraan’, identificatiecode TCVT W4-06/02-2002 of het certificatieschema ‘Machinist Torenkraan’, identificatiecode TCVT W4-02/09-2000;
 
-- b. indien het betreft een certificaat voor de bediening van een torenkraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel a, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist torenkraan’, identificatiecode TCVT W4-02/09-2000;
+- b. indien het betreft een certificaat voor de bediening van een torenkraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel a, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist torenkraan’, identificatiecode TCVT W4-02/09-2000;
 
-- c. indien het betreft een certificaat voor de bediening van een mobiele kraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
+- c. indien het betreft een certificaat voor de bediening van een mobiele kraan van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
 
-- d. indien het betreft een certificaat voor de bediening van een mobiele kraan op rupsen van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist mobiele hei-installatie’, identificatiecode TCVT W4-03/09-2000 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
+- d. indien het betreft een certificaat voor de bediening van een mobiele kraan op rupsen van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist mobiele hei-installatie’, identificatiecode TCVT W4-03/09-2000 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
 
-- e. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist grondverzetmachine met hijsfunctie’, identificatiecode TCVT W4-05/02-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
+- e. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist grondverzetmachine met hijsfunctie’, identificatiecode TCVT W4-05/02-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
 
-- f. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een autolaadkraan met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist autolaadkraan met hijsfunctie’, identificatiecode TCVT W4-04/02-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
+- f. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een autolaadkraan met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist autolaadkraan met hijsfunctie’, identificatiecode TCVT W4-04/02-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
 
-- g. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist verreiker met hijsfunctie’, identificatiecode TCVT W4-07/11-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
+- g. indien het betreft een certificaat voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist verreiker met hijsfunctie’, identificatiecode TCVT W4-07/11-2002 of het certificatieschema ‘Machinist mobiele kraan’, identificatiecode TCVT W4-01/02-2002;
 
-- h. indien het betreft een certificaat voor de bediening van mobiele hei-installaties van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel c, onder 1, 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-01-01&g=2005-01-01), het certificatieschema ‘Machinist mobiele hei-installatie’, identificatiecode TCVT W4-03/09-2000.
+- h. indien het betreft een certificaat voor de bediening van mobiele hei-installaties van de categorieën, bedoeld in [artikel 7.6, tweede lid, onderdeel c, onder 1, 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2005-02-25&g=2005-02-25), het certificatieschema ‘Machinist mobiele hei-installatie’, identificatiecode TCVT W4-03/09-2000.
 
 ##### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
 
@@ -1572,7 +1572,7 @@ Vervallen
 
 ##### Artikel 8.1. Vereisten
 
-Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2005-01-01&g=2005-01-01).
+Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2005-02-25&g=2005-02-25).
 
 ##### Artikel 8.2. Permanente signalering
 
@@ -1580,7 +1580,7 @@ Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het beslu
 
 2. De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.
 
-3. De signalering op recipiënten en leidingen geschiedt overeenkomstig de [artikelen 8.12 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-01-01&g=2005-01-01).
+3. De signalering op recipiënten en leidingen geschiedt overeenkomstig de [artikelen 8.12 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-02-25&g=2005-02-25).
 
 4. De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.
 
@@ -1670,9 +1670,9 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 5. Borden in verband met het brandbestrijdingsmateriaal kenmerken zich door een rechthoekige of vierkante vorm en een wit pictogram op rode achtergrond, waarbij de rode kleur ten minste 50% van het oppervlak van het bord beslaat.
 
-6. De in [bijlage XIA bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIA&z=2005-01-01&g=2005-01-01) opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
+6. De in [bijlage XIA bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIA&z=2005-02-25&g=2005-02-25) opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
 
-7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XIA bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIA&z=2005-01-01&g=2005-01-01). De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
+7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XIA bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIA&z=2005-02-25&g=2005-02-25). De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
 
 ##### Artikel 8.11. Plaatsing van borden
 
@@ -1694,7 +1694,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 3. De in het eerste lid bedoelde gevaarssymbolen kunnen:
 
-- a. worden vervangen door waarschuwingsborden als weergegeven in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-01-01&g=2005-01-01) met hetzelfde pictogram of symbool;
+- a. worden vervangen door waarschuwingsborden als weergegeven in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-02-25&g=2005-02-25) met hetzelfde pictogram of symbool;
 
 - b. worden aangevuld met extra informatie zoals de naam of de formule van de gevaarlijke stof en met bijzonderheden over de gevaren;
 
@@ -1702,17 +1702,17 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 ##### Artikel 8.13. Aanbrengen van signalering op reservoirs
 
-De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-01-01&g=2005-01-01) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
+De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-02-25&g=2005-02-25) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
 
 ##### Artikel 8.14. Plaatsing op reservoirs
 
-1. Indien gevaarssymbolen of gevaarsbenamingen als omschreven in de in [artikel 8.12 onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-01-01&g=2005-01-01) bedoelde richtlijnen op reservoirs en leidingen aangebracht worden, voldoen deze aanduidingen aan de [artikelen 8.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2005-01-01&g=2005-01-01), en [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2005-01-01&g=2005-01-01).
+1. Indien gevaarssymbolen of gevaarsbenamingen als omschreven in de in [artikel 8.12 onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-02-25&g=2005-02-25) bedoelde richtlijnen op reservoirs en leidingen aangebracht worden, voldoen deze aanduidingen aan de [artikelen 8.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2005-02-25&g=2005-02-25), en [8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2005-02-25&g=2005-02-25).
 
 2. De op leidingen gebruikte gevaarssymbolen en gevaarsbenamingen worden zichtbaar en voldoende herhaald aangebracht in de nabijheid van de meest gevaarlijke plaatsen, zoals kleppen en aansluitingspunten.
 
 ##### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
 
-1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-01-01&g=2005-01-01) of door gevaarssymbolen en gevaarsbenamingen als bedoeld [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-01-01&g=2005-01-01) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2005-01-01&g=2005-01-01), wat de afmeting betreft, de gevaarssymbolen en gevaarsbenamingen van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
+1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-02-25&g=2005-02-25) of door gevaarssymbolen en gevaarsbenamingen als bedoeld [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2005-02-25&g=2005-02-25) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2005-02-25&g=2005-02-25), wat de afmeting betreft, de gevaarssymbolen en gevaarsbenamingen van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
 
 2. De in het eerste lid bedoelde borden of gevaarssymbolen en gevaarsbenamingen worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.
 
@@ -1724,9 +1724,9 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 1. Het lichtoppervlak dat een signaal uitzendt, is uniform van kleur of bevat een pictogram op een bepaalde achtergrond.
 
-2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2005-01-01&g=2005-01-01).
+2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2005-02-25&g=2005-02-25).
 
-3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-01-01&g=2005-01-01).
+3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-02-25&g=2005-02-25).
 
 ##### Artikel 8.18. Bijzondere lichtsignalen
 
@@ -1788,7 +1788,7 @@ De seingever is makkelijk herkenbaar voor de ontvanger van de seinen.
 
 ##### Artikel 8.26. Voorkomen onduidelijkheid seinen
 
-De in [bijlage XIB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIB&z=2005-01-01&g=2005-01-01) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
+De in [bijlage XIB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIB&z=2005-02-25&g=2005-02-25) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
 
 ##### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
 
@@ -1810,7 +1810,7 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 ##### Artikel 9.1. Vergoeding
 
-1. Voor de certificatie-onderzoeken in verband met de afgifte van een certificaat als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-01-01&g=2005-01-01), [2.14 tot en met 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2005-01-01&g=2005-01-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2005-01-01&g=2005-01-01), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2005-01-01&g=2005-01-01)[4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2005-01-01&g=2005-01-01), [4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2005-01-01&g=2005-01-01), [4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8&artikel=4.31&z=2005-01-01&g=2005-01-01), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.1&artikel=7.3&z=2005-01-01&g=2005-01-01), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2005-01-01&g=2005-01-01) en een certificaat als bedoeld in [artikel 7.29, negende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29) is een vergoeding verschuldigd van ten hoogste € 182 per uur, bijkomende kosten en BTW daaronder niet begrepen.
+1. Voor de certificatie-onderzoeken in verband met de afgifte van een certificaat als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2005-02-25&g=2005-02-25), [2.14 tot en met 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2005-02-25&g=2005-02-25), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2005-02-25&g=2005-02-25), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2005-02-25&g=2005-02-25)[4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2005-02-25&g=2005-02-25), [4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2005-02-25&g=2005-02-25), [4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8&artikel=4.31&z=2005-02-25&g=2005-02-25), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.1&artikel=7.3&z=2005-02-25&g=2005-02-25), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2005-02-25&g=2005-02-25) en een certificaat als bedoeld in [artikel 7.29, negende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29) is een vergoeding verschuldigd van ten hoogste € 182 per uur, bijkomende kosten en BTW daaronder niet begrepen.
 
 2. Voor het bepalen van het tarief per certificaat worden de duur van de onderzoeken, bedoeld in het eerste lid, en het aantal en de soort van de verrichtingen die daarbij worden uitgevoerd alsmede de aard en de hoogte van de bijkomende kosten zo nauwkeurig mogelijk omschreven.
 
@@ -1826,15 +1826,15 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 1. Voor de toepassing van deze regeling wordt een arbodienst ten behoeve waarvan op het moment van inwerkingtreding van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 juni 1998, nr. ARBO/AIS/98/01120, Directie Arbeidsomstandigheden tot wijziging van de Arbeidsomstandighedenregeling in verband met de verzelfstandiging van de certificering van arbodiensten (Stcrt. 111) op grond van artikel 31a van de wet een certificaat was verleend, aangemerkt als een gecertificeerde arbodienst. De voorschriften die aan het certificaat waren verbonden zijn daarbij van overeenkomstige toepassing.
 
-2. De arbodienst, bedoeld in het eerste lid, gaat zo spoedig mogelijk, maar in ieder geval binnen vier maanden na aanwijzing van een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01), een relatie aan met zo een instelling. De arbodienst doet hiervan mededeling aan de minister.
+2. De arbodienst, bedoeld in het eerste lid, gaat zo spoedig mogelijk, maar in ieder geval binnen vier maanden na aanwijzing van een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25), een relatie aan met zo een instelling. De arbodienst doet hiervan mededeling aan de minister.
 
-3. Een arbodienst als bedoeld in het eerste lid, haalt binnen twee maanden na aanwijzing van een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01), het dossier af bij de minister en stelt dit dossier zo spoedig mogelijk ter beschikking van de certificerende instelling waarmee hij een relatie aangaat.
+3. Een arbodienst als bedoeld in het eerste lid, haalt binnen twee maanden na aanwijzing van een certificerende instelling als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25), het dossier af bij de minister en stelt dit dossier zo spoedig mogelijk ter beschikking van de certificerende instelling waarmee hij een relatie aangaat.
 
-4. Arbodiensten die op het moment van inwerkingtreding van de regeling, bedoeld in het eerste lid, een verzoek om certificaatverlening bij de minister hebben ingediend en waarvan de behandeling nog niet is afgerond, dragen het verzoek om certificaatverlening zo spoedig mogelijk, maar in ieder geval binnen twee maanden, over aan de op grond van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-01-01&g=2005-01-01) aangewezen certificerende instelling.
+4. Arbodiensten die op het moment van inwerkingtreding van de regeling, bedoeld in het eerste lid, een verzoek om certificaatverlening bij de minister hebben ingediend en waarvan de behandeling nog niet is afgerond, dragen het verzoek om certificaatverlening zo spoedig mogelijk, maar in ieder geval binnen twee maanden, over aan de op grond van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2005-02-25&g=2005-02-25) aangewezen certificerende instelling.
 
 ##### Artikel 9.2b. Overgangsbepaling Commissie voor advies inzake bezwaar en beroep
 
-Op een bezwaar- of beroepschrift op grond van de wet en de [Wet op de (re)ïntegratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), dat voor 1 januari 2002 door Onze Minister is ontvangen, is [paragraaf 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.5&z=2005-01-01&g=2005-01-01) van toepassing zoals deze luidde op de dag voorafgaande aan die datum.
+Op een bezwaar- of beroepschrift op grond van de wet en de [Wet op de (re)ïntegratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), dat voor 1 januari 2002 door Onze Minister is ontvangen, is [paragraaf 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.5&z=2005-02-25&g=2005-02-25) van toepassing zoals deze luidde op de dag voorafgaande aan die datum.
 
 ##### Artikel 9.2c. Overgangsbepaling certificering vakbekwaamheid professioneel vuurwerk
 
@@ -1842,13 +1842,13 @@ Vervallen
 
 ##### Artikel 9.2d. Overgangsbepaling certificering duikploegleiders
 
-1. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), geldt ten aanzien van de ploegleider, bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), met uitzondering van de ploegleider bij de brandweer, niet tot 1 januari 2004 mits de aanvrager van het certificaat duikploegleider blijk heeft gegeven te beschikken over voldoende relevante en actuele kennis en beroepservaring
+1. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-02-25&g=2005-02-25), geldt ten aanzien van de ploegleider, bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), met uitzondering van de ploegleider bij de brandweer, niet tot 1 januari 2004 mits de aanvrager van het certificaat duikploegleider blijk heeft gegeven te beschikken over voldoende relevante en actuele kennis en beroepservaring
 
-2. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), geldt ten aanzien van de ploegleider bij de brandweer niet tot 1 juli 2005 mits de aanvrager van het certificaat duikploegleider blijk heeft gegeven te beschikken over voldoende relevante en actuele kennis en beroepservaring.
+2. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-02-25&g=2005-02-25), geldt ten aanzien van de ploegleider bij de brandweer niet tot 1 juli 2005 mits de aanvrager van het certificaat duikploegleider blijk heeft gegeven te beschikken over voldoende relevante en actuele kennis en beroepservaring.
 
 ##### Artikel 9.2e. Overgangsbepaling certificering duikerartsen
 
-[Artikel 6.3a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-01-01&g=2005-01-01), geldt niet mits de aanvrager in een periode van een jaar, direct voorafgaand aan de eerste aanvraag van een certificaat als bedoeld in [artikel 6.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-01-01&g=2005-01-01), tenminste 10 personen belast met het verrichten van duikarbeid, heeft gekeurd.
+[Artikel 6.3a, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-02-25&g=2005-02-25), geldt niet mits de aanvrager in een periode van een jaar, direct voorafgaand aan de eerste aanvraag van een certificaat als bedoeld in [artikel 6.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.3a&z=2005-02-25&g=2005-02-25), tenminste 10 personen belast met het verrichten van duikarbeid, heeft gekeurd.
 
 ##### Artikel 9.3. Intrekking oude op de wet gebaseerde regelingen
 
@@ -7851,9 +7851,9 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.2a. Bepaling risico’s en grenzen
 
-1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2005-01-01&g=2005-01-01), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
+1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2005-02-25&g=2005-02-25), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
 
-2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2005-01-01&g=2005-01-01), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
+2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2005-02-25&g=2005-02-25), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -7961,7 +7961,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 ##### Artikel 4.32h. Gelijkstelling vervangende producten
 
-Met de in de [artikelen 4.32a, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2005-01-01&g=2005-01-01), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2005-01-01&g=2005-01-01), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2005-01-01&g=2005-01-01), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2005-01-01&g=2005-01-01), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2005-01-01&g=2005-01-01), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2005-01-01&g=2005-01-01) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2005-01-01&g=2005-01-01), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de in de [artikelen 4.32a, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2005-02-25&g=2005-02-25), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2005-02-25&g=2005-02-25), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2005-02-25&g=2005-02-25), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2005-02-25&g=2005-02-25), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2005-02-25&g=2005-02-25), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2005-02-25&g=2005-02-25) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2005-02-25&g=2005-02-25), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 #### Paragraaf 4.9. Vervallen
 
@@ -13499,7 +13499,7 @@ Vervallen
 
 ##### Artikel 2.0. Veiligheidsbeheerssysteem
 
-Dit onderdeel is nog niet inwerking getreden
+In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen ten minste de elementen aan de orde, genoemd in [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IA&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 ##### Artikel 2.0a. Procedures risico-inventarisatie en -evaluatie
 
@@ -13535,7 +13535,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.0c. Intern noodplan
 
-Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage IB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IB&z=2005-01-01&g=2005-01-01) bij deze regeling.
+Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage IB](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IB&z=2005-02-25&g=2005-02-25) bij deze regeling.
 
 #### Paragraaf 2.2. Taken van arbodiensten
 
@@ -13581,7 +13581,7 @@ Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.ov
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-## Bijlage I. behorend bij [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.4&artikel=1.10&z=2005-01-01&g=2005-01-01)
+## Bijlage I. behorend bij [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.4&artikel=1.10&z=2005-02-25&g=2005-02-25)
 
 **1. Werkgever**
 
@@ -13645,7 +13645,7 @@ Aard van het arbeidsongeval:
 
 Eventueel betrokken arbeidsmiddelen of stoffen:
 
-## Bijlage IA. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2005-01-01&g=2005-01-01)
+## Bijlage IA. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2005-02-25&g=2005-02-25)
 
 In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen aan de orde:
 
@@ -13665,7 +13665,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 - h. audits en beoordeling: de vaststelling en de toepassing van procedures voor de systematische periodieke evaluatie van het beleid ter voorkoming van zware ongevallen en van de doeltreffendheid en van de deugdelijkheid van het veiligheidsbeheerssysteem alsmede voor de met documenten gestaafde analyse door de werkgever van de resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de actualisering daarvan.
 
-## Bijlage IB. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2005-01-01&g=2005-01-01)
+## Bijlage IB. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2005-02-25&g=2005-02-25)
 
 Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c) bevat de volgende gegevens en beschrijvingen:
 
@@ -14362,7 +14362,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-## Bijlage III. behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2005-01-01&g=2005-01-01)
+## Bijlage III. behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2005-02-25&g=2005-02-25)
 
 **Model kennisgeving bouwwerk**
 
@@ -14460,13 +14460,13 @@ Intrinsieke kenmerken:
 
 - Handtekening opdrachtgever:
 
-## Bijlage IIIA. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01)
+## Bijlage IIIA. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25)
 
-De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01), betreft voor zover van toepassing:
+De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25), betreft voor zover van toepassing:
 
 - a. een locatiekaart waarop de inter- en intrafieldpijpleidingen alsmede de onder water afgewerkte boorgaten zijn aangeduid;
 
-- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01);
+- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25);
 
 - c. voor- en zijaanzichten van het mijnbouwwerk;
 
@@ -14498,11 +14498,11 @@ De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/
 
 - r. de locatie van opslagplaatsen voor ontplofbare stoffen.
 
-## Bijlage IIIB. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01)
+## Bijlage IIIB. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25)
 
-De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01), betreft:
+De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25), betreft:
 
-- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
+- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
 
 - a. de plaatsen en ruimten waar stoffen, voor welke verhoogd brandgevaar bestaat, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen zomede de plaatsen en ruimten, waar stoffen, die direct of indirect gevaar voor ontploffing kunnen veroorzaken, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen, met de naaste omgeving daarvan;
 
@@ -14514,7 +14514,7 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - e. het globale aantal en de soort handbrandblusapparaten per ruimte; de plaatsen, waar pompen voor de bluswatervoorziening zijn opgesteld, de capaciteit van deze pompen, de plaatsen waar hydranten en brandslangen aanwezig zijn en brandslangen aan de bluswaterleiding kunnen worden aangesloten;
 
-- indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
+- indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
 
 - 2. de organisatie van de brandbestrijdingsdienst;
 
@@ -14524,11 +14524,11 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - 5. gegevens betreffende ademhalingsbeschermingsmiddelen voor de met het bestrijden van brand belaste personen.
 
-- 6. Indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) moet op de plattegrond, bedoeld in het eerste lid, onder a, bovendien zijn aangegeven de plaats, waar zich een brandweerkazerne bevindt, en moet het plan gegevens bevatten betreffende het aantal en soort van de grote mobiele brandbluseenheden in die kazerne.
+- 6. Indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) moet op de plattegrond, bedoeld in het eerste lid, onder a, bovendien zijn aangegeven de plaats, waar zich een brandweerkazerne bevindt, en moet het plan gegevens bevatten betreffende het aantal en soort van de grote mobiele brandbluseenheden in die kazerne.
 
-## Bijlage IIIC. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01)
+## Bijlage IIIC. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) betreft ten aanzien van:
 
 - A. het voorontwerprapport:
 
@@ -14604,9 +14604,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen dat de hoeveelheid koolwaterstoffen, toxische stoffen en chemische stoffen geminimaliseerd is.
 
-## Bijlage IIID. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01)
+## Bijlage IIID. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-01-01&g=2005-01-01), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2005-02-25&g=2005-02-25), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) betreft ten aanzien van:
 
 - A. het gedetailleerd ontwerp, opstarten en gebruik:
 
@@ -14632,7 +14632,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het evalueren van de bestaande systemen van toezicht ten aanzien van de werkzaamheden;
 
-- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-01-01&g=2005-01-01);
+- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2005-02-25&g=2005-02-25);
 
 - B. het addendum gebruik:
 
@@ -14654,9 +14654,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen.
 
-## Bijlage IIIE. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2005-01-01&g=2005-01-01)
+## Bijlage IIIE. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2005-02-25&g=2005-02-25)
 
-De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2005-01-01&g=2005-01-01), betreft:
+De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2005-02-25&g=2005-02-25), betreft:
 
 - a. een beschrijving van de organisatiestructuur van de werkgever en de en verantwoordelijke personen in geval van nood alsmede een overzicht van hun taken en bevoegdheden;
 
@@ -14682,7 +14682,7 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 Vervallen
 
-## Bijlage IVA. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2005-01-01&g=2005-01-01)
+## Bijlage IVA. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2005-02-25&g=2005-02-25)
 
 **Veiligheids- en gezondheidsverklaring 10**
 
@@ -14928,13 +14928,13 @@ De toestand van de ladingzone is gelijk aan de toestand zoals die vermeld wordt 
 
 De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage IVB. behorend bij de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-01-01&g=2005-01-01), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-01-01&g=2005-01-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-01-01&g=2005-01-01)
+## Bijlage IVB. behorend bij de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-02-25&g=2005-02-25), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-02-25&g=2005-02-25) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-02-25&g=2005-02-25)
 
-Als model meldingsformulier, behorend bij [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-01-01&g=2005-01-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-01-01&g=2005-01-01) wordt vastgesteld Model A.
+Als model meldingsformulier, behorend bij [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2005-02-25&g=2005-02-25) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-02-25&g=2005-02-25) wordt vastgesteld Model A.
 
 Dit model betreft reparatiewerkzaamheden aan, op of in tankschepen waarbij werk met vuur boven de ladingzone en/of werk met vuur in een deel van de ladingzone plaatsvindt zonder dat de daartoe voorgeschreven veiligheids- en gezondheidsverklaring is uitgereikt.
 
-Als model meldingsformulier, behorend bij [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-01-01&g=2005-01-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-01-01&g=2005-01-01) wordt vastgesteld Model B.
+Als model meldingsformulier, behorend bij [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2005-02-25&g=2005-02-25) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.13&z=2005-02-25&g=2005-02-25) wordt vastgesteld Model B.
 
 Dit model betreft afwijking van de voorwaarde op de Veiligheids- en gezondheidsverklaring 10-11-12/1-12/2 en 13/1 dat binnen een afstand van 25 meter van de ladingzone geen vuur aanwezig mag zijn noch naar redelijke verwachting kan ontstaan.
 
@@ -14954,7 +14954,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage VB. behorend bij [artikel 4.17d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17d&z=2005-01-01&g=2005-01-01)
+## Bijlage VB. behorend bij [artikel 4.17d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17d&z=2005-02-25&g=2005-02-25)
 
 ### 2. Risico’s
 
@@ -14962,7 +14962,7 @@ Vervallen
 
 ### 4. Ondertekening
 
-## Bijlage VI. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2005-01-01&g=2005-01-01)
+## Bijlage VI. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2005-02-25&g=2005-02-25)
 
 **Lijst van wettelijke grenswaarden op grond van artikel 4.9 van het Arbeidsomstandighedenbesluit**
 
@@ -15039,7 +15039,7 @@ De hieronder vermelde grenswaarden gelden bij een temperatuur van 20° C en een 
 | Chroom-metallisch | 7740-47-3 | 0,5 |   |   |
 | Cr(III)-verbindingen |   | 0,5 | 1 |   |
 | **bij gecombineerde blootstelling:** |   |   |   |   |
-| zonder differentiatie naar type chroomverbinding 12Wanneer aannemelijk kan worden gemaakt dat er grotendeels sprake is van oplosbare verbindingen, kan de normstelling voor chroom (VI)-oplosbare verbindingen worden toegepast (zie hiervoor [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-01-01&g=2005-01-01) bij deze regeling). |   |   | 0,01 |   |
+| zonder differentiatie naar type chroomverbinding 12Wanneer aannemelijk kan worden gemaakt dat er grotendeels sprake is van oplosbare verbindingen, kan de normstelling voor chroom (VI)-oplosbare verbindingen worden toegepast (zie hiervoor [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-02-25&g=2005-02-25) bij deze regeling). |   |   | 0,01 |   |
 | Cyclohexaan | 110-82-7 | 875 |   |   |
 | Cyclohexanol | 108-93-0 | 1 |   |   |
 | Cyclohexanon | 108-94-1 |   | 50 | H |
@@ -15095,7 +15095,7 @@ De hieronder vermelde grenswaarden gelden bij een temperatuur van 20° C en een 
 | damp |   | 20 |   |   |
 | stof |   | 1 |   |   |
 | 2-Hexanon | 591-78-6 | 2 |   | H |
-| Houtstof 22Betreft houtstof exclusief stof van hardhout. Zie voor de grenswaarde voor hardhoutstof [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-01-01&g=2005-01-01) van de Arbeidsomstandighedenregeling. (niet allergeen) |   | 2 |   |   |
+| Houtstof 22Betreft houtstof exclusief stof van hardhout. Zie voor de grenswaarde voor hardhoutstof [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2005-02-25&g=2005-02-25) van de Arbeidsomstandighedenregeling. (niet allergeen) |   | 2 |   |   |
 | 2-Hydroxyethylacrylaat | 818-61-1 | 0,24 |   |   |
 | 2-Hydroxyethylmethacrylaat | 868-77-9 | 0,24 |   |   |
 | 2-Hydroxypropylmethacrylaat | 923-26-2 | 0,24 |   |   |
@@ -15201,7 +15201,7 @@ De hieronder vermelde grenswaarden gelden bij een temperatuur van 20° C en een 
 | Zwaveldioxide | 5-9-7446 | 5 |   |   |
 | Zwavelkoolstof | 75-15-0 | 30 |   | H |
 
-## Bijlage VII. behorend bij [artikel 4.20 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2005-01-01&g=2005-01-01)
+## Bijlage VII. behorend bij [artikel 4.20 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2005-02-25&g=2005-02-25)
 
 Verklaring van de gebruikte letters en aanduidingen
 
@@ -15282,7 +15282,7 @@ De hieronder vermelde grenswaarden gelden bij een temperatuur van 20° C en een 
 
 Vervallen
 
-## Bijlage VIIIA. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2005-01-01&g=2005-01-01)
+## Bijlage VIIIA. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2005-02-25&g=2005-02-25)
 
 | **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
 | --- | --- |
@@ -15299,9 +15299,9 @@ Vervallen
 | Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
 | Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
 
-## Bijlage IX. Arboregeling behorend bij [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-01-01&g=2005-01-01)
+## Bijlage IX. Arboregeling behorend bij [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2005-02-25&g=2005-02-25)
 
-- A. Eindtermen ten aanzien van de afgifte van een certificaat duikarbeid met betrekking tot de soort arbeid die wordt verricht: Bij de duikopleiding voor de categorie duikarbeid waartoe de cursist wordt opgeleid worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen: Duikarbeid categorie A als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Duikarbeid categorie B als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Duikarbeid categorie C als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Voor de opleiding van deze categorie duikarbeid geldt als minimale vooropleidingseis ten minste één jaar in het bezit zijn van een duikcertificaat categorie B alsmede ten minste 50 uren duikarbeid hebben verricht van deze categorie. Daarnaast worden de volgende leerdoelstellingen onderscheiden en onderwezen:
+- A. Eindtermen ten aanzien van de afgifte van een certificaat duikarbeid met betrekking tot de soort arbeid die wordt verricht: Bij de duikopleiding voor de categorie duikarbeid waartoe de cursist wordt opgeleid worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen: Duikarbeid categorie A als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Duikarbeid categorie B als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Duikarbeid categorie C als bedoeld in [artikel 6.5, tweede lid, onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Voor de opleiding van deze categorie duikarbeid geldt als minimale vooropleidingseis ten minste één jaar in het bezit zijn van een duikcertificaat categorie B alsmede ten minste 50 uren duikarbeid hebben verricht van deze categorie. Daarnaast worden de volgende leerdoelstellingen onderscheiden en onderwezen:
 
 - elementaire natuurkunde, fysiologie, en kennis van duikerziekten en de daaraan verbonden EHBO-procedures;
 
@@ -15375,7 +15375,7 @@ Vervallen
 
 - relevante regelgeving.
 
-- B. Eindtermen ten aanzien van de afgifte van een certificaat duikmedische begeleiding met betrekking tot de soort arbeid die wordt verricht De volgende leerdoelstellingen worden onderscheiden en onderwezen: Ten aanzien van het certificaat EHBO duikarbeid, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Ten aanzien van het certificaat MAD A, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Voor de opleiding tot dit certificaat geldt als eis een EHBO-diploma met cardiopulmonaire resuscitatie aantekening. Ten aanzien van het certificaat MAD B, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-01-01&g=2005-01-01): Voor de opleiding tot dit certificaat geldt als eis een geldig certificaat MAD A
+- B. Eindtermen ten aanzien van de afgifte van een certificaat duikmedische begeleiding met betrekking tot de soort arbeid die wordt verricht De volgende leerdoelstellingen worden onderscheiden en onderwezen: Ten aanzien van het certificaat EHBO duikarbeid, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Ten aanzien van het certificaat MAD A, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Voor de opleiding tot dit certificaat geldt als eis een EHBO-diploma met cardiopulmonaire resuscitatie aantekening. Ten aanzien van het certificaat MAD B, bedoeld in [artikel 6.5, tweede lid, onderdeel c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2005-02-25&g=2005-02-25): Voor de opleiding tot dit certificaat geldt als eis een geldig certificaat MAD A
 
 - EHBO en cardiopulmonaire resuscitatie;
 
@@ -15579,7 +15579,7 @@ Vervallen
 | --- | --- |
 | II | 60 lesuren + praktijkstage |
 
-## Bijlage IXA. behorend bij [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.3&artikel=6.7&z=2005-01-01&g=2005-01-01)
+## Bijlage IXA. behorend bij [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.3&artikel=6.7&z=2005-02-25&g=2005-02-25)
 
 Met betrekking tot het arbeidsgezondheidskundig onderzoek van personen die duikarbeid, caissonarbeid, of overige arbeid onder overdruk verrichten:
 
@@ -15668,7 +15668,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage XB. behorend bij [artikel 7.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2005-01-01&g=2005-01-01)
+## Bijlage XB. behorend bij [artikel 7.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2005-02-25&g=2005-02-25)
 
 - **Eindtermen met betrekking tot torenkranen van de categorieën mobiele torenkraan, toptorenkraan of loopkat-torenkraan**
 
@@ -15880,7 +15880,7 @@ Vervallen
 
 - 9°. de organisatie op bouwplaatsen en de taak, verantwoordelijkheden en bevoegdheden van een machinist van een mobiele hei-installatie, een opzichter en een uitvoerder.
 
-## Bijlage XIA. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-01-01&g=2005-01-01)
+## Bijlage XIA. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2005-02-25&g=2005-02-25)
 
 Intrinsieke kenmerken:
 
@@ -15912,7 +15912,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-## Bijlage XIB. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2005-01-01&g=2005-01-01)
+## Bijlage XIB. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2005-02-25&g=2005-02-25)
 
 | **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
 | --- | --- | --- |
