@@ -4,7 +4,7 @@ identifier: "BWBR0015492"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-09-06"
-last_updated: "2003-02-05"
+last_updated: "2003-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015492"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de minister: de Minister van Onderwijs, Cultuur en Wetenschappen;
 
-- b. de regiegroep: de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015492&artikel=2&z=2003-09-06&g=2003-02-05) bedoelde Regiegroep Belvedere;
+- b. de regiegroep: de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015492&artikel=2&z=2003-09-06&g=2003-09-06) bedoelde Regiegroep Belvedere;
 
 - c. Belvederebeleid: het beleid verwoord in de Nota Belvedere (Kamerstukken II 1998/99, 26 663, nr. 2).
 
