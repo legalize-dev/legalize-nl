@@ -4,7 +4,7 @@ identifier: "BWBR0005666"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-08-29"
-last_updated: "1997-04-30"
+last_updated: "2003-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005666"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Onder indexcijfer der lonen, bedoeld in artikel 402**a** van Boek 1 van het Burgerlijk Wetboek, wordt verstaan het indexcijfer van caolonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op de laatste werkdag van elke kalendermaand en voor de eerste maal, al dan niet voorlopig, wordt bekendgemaakt door het Centraal Bureau voor de Statistiek.
+Onder indexcijfer der lonen, bedoeld in artikel 402**a** van Boek 1 van het Burgerlijk Wetboek, wordt verstaan het indexcijfer van cao-lonen per maand, inclusief bijzondere beloningen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op de laatste werkdag van elke kalendermaand en voor de eerste maal, al dan niet voorlopig, wordt bekendgemaakt door het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 2
 
