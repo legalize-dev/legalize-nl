@@ -4,7 +4,7 @@ identifier: "BWBR0012638"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012638"
 soort: "AMvB"
@@ -56,103 +56,103 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 ##### Artikel 2
 
-Onverminderd [de artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2004-01-01&g=2004-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2004-01-01&g=2004-01-01), bedragen de kosten, bedoeld in de artikelen[240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
+Onverminderd [de artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2005-01-01&g=2005-01-01), bedragen de kosten, bedoeld in de artikelen[240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
 
-- a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 65,18 per 1 januari 2004: € 70,40;
+- a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 65,18 per 1 januari 2005: € 71,93;
 
-- b. betekening van een titel: € 62,73per 1 januari 2004: € 67,76;
+- b. betekening van een titel: € 62,73per 1 januari 2005: € 69,24;
 
-- c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 51,56per 1 januari 2004: € 55,69;
+- c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 51,56per 1 januari 2005: € 56,90;
 
-- d. betekening, anders dan bedoeld in dit artikel: € 55,18per 1 januari 2004: € 59,60;
+- d. betekening, anders dan bedoeld in dit artikel: € 55,18per 1 januari 2005: € 60,90;
 
-- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 85,73per 1 januari 2004: € 92,61;
+- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 85,73per 1 januari 2005: € 94,63;
 
-- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 115,12per 1 januari 2004: € 124,35;
+- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 115,12per 1 januari 2005: € 127,06;
 
-- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 169,65per 1 januari 2004: € 183,25;
+- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 169,65per 1 januari 2005: € 187,24;
 
-- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 186,21per 1 januari 2004: € 201,14;
+- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 186,21per 1 januari 2005: € 205,52;
 
-- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 136,60per 1 januari 2004: € 147,55;
+- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 136,60per 1 januari 2005: € 150,77;
 
-- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 97,24per 1 januari 2004: € 105,03;
+- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 97,24per 1 januari 2005: € 107,32;
 
-- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 83,03per 1 januari 2004: € 89,68;
+- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 83,03per 1 januari 2005: € 91,64;
 
-- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 113,74per 1 januari 2004: € 122,86;
+- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 113,74per 1 januari 2005: € 125,54;
 
-- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 197,88per 1 januari 2004: € 213,74;
+- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 197,88per 1 januari 2005: € 218,40;
 
-- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 85,10per 1 januari 2004: € 91,92;
+- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 85,10per 1 januari 2005: € 93,92;
 
-- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 117,78per 1 januari 2004: € 127,22;
+- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 117,78per 1 januari 2005: € 129,99;
 
-- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 42,02per 1 januari 2004: € 45,39;
+- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 42,02per 1 januari 2005: € 46,38;
 
-- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 259,61per 1 januari 2004: € 280,43;
+- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 259,61per 1 januari 2005: € 286,54;
 
-- r. gerechtelijke inbewaringgeving: € 176,66per 1 januari 2004: € 190,83;
+- r. gerechtelijke inbewaringgeving: € 176,66per 1 januari 2005: € 194,99;
 
-- s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 64,48per 1 januari 2004: € 69,65;
+- s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 64,48per 1 januari 2005: € 71,17;
 
-- t. executoriale openbare verkoop van roerende zaken: € 225,67per 1 januari 2004: € 243,76;
+- t. executoriale openbare verkoop van roerende zaken: € 225,67per 1 januari 2005: € 249,07;
 
-- u. aanzegging van de overname van de executie van onroerende zaken: € 60,59per 1 januari 2004: € 65,45;
+- u. aanzegging van de overname van de executie van onroerende zaken: € 60,59per 1 januari 2005: € 66,88;
 
-- v. gedwongen ontruiming van onroerende zaken: € 168,60per 1 januari 2004: € 182,11;
+- v. gedwongen ontruiming van onroerende zaken: € 168,60per 1 januari 2005: € 186,08;
 
-- w. tenuitvoerlegging van lijfsdwang: € 195,96per 1 januari 2004: € 211,67.
+- w. tenuitvoerlegging van lijfsdwang: € 195,96per 1 januari 2005: € 216,28.
 
 ##### Artikel 3
 
-Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2004-01-01&g=2004-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2004-01-01&g=2004-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2004-01-01&g=2004-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
+Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2005-01-01&g=2005-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2005-01-01&g=2005-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
 
-- a. in geval van enkelvoudig derdenbeslag: € 8,30per 1 januari 2004: € 8,97;
+- a. in geval van enkelvoudig derdenbeslag: € 8,30per 1 januari 2005: € 9,17;
 
-- b. in geval van twee samenlopende derdenbeslagen: € 13,22per 1 januari 2004: € 14,28; en
+- b. in geval van twee samenlopende derdenbeslagen: € 13,22per 1 januari 2005: € 14,59; en
 
-- c. voor ieder daarop volgend samenlopend derdenbeslag: € 4,92per 1 januari 2004: € 5,32 per beslag.
+- c. voor ieder daarop volgend samenlopend derdenbeslag: € 4,92per 1 januari 2005: € 5,44 per beslag.
 
 ##### Artikel 4
 
-1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2004-01-01&g=2004-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2004-01-01&g=2004-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2004-01-01&g=2004-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor de ambtshandeling, bedoeld in [artikel 2, onder b, d tot en met o en q tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), indien:
+1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2005-01-01&g=2005-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2005-01-01&g=2005-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor de ambtshandeling, bedoeld in [artikel 2, onder b, d tot en met o en q tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), indien:
 
 - a. de gerechtsdeurwaarder ter plaatse van de uitvoering van de desbetreffende ambtshandeling is aangetreden, en
 
 - b. de ambtshandeling geen doorgang heeft gevonden omdat de schuldenaar vrijwillig de uit de executoriale titel blijkende verplichting tot de prestatie nakomt die met die ambtshandeling zou worden afgedwongen, of omdat zijn gehele of gedeeltelijke prestatie leidt tot beeïndiging van de tenuitvoerlegging van de executoriale titel.
 
-2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2004-01-01&g=2004-01-01) is van overeenkomstige toepassing, met dien verstande dat de kosten worden verhoogd met de helft van het desbetreffende bedrag.
+2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2005-01-01&g=2005-01-01) is van overeenkomstige toepassing, met dien verstande dat de kosten worden verhoogd met de helft van het desbetreffende bedrag.
 
 ##### Artikel 5
 
-Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in [artikel 2, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), verminderd met € 15,91per 1 januari 2004: € 17,19.
+Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in [artikel 2, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), verminderd met € 15,91per 1 januari 2005: € 17,56.
 
 ##### Artikel 6
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling:
 
-- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), verhoogd met € 16,21per 1 januari 2004: € 17,51;
+- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), verhoogd met € 16,21per 1 januari 2005: € 17,89;
 
-- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), verhoogd met € 56,74per 1 januari 2004: € 61,29.
+- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), verhoogd met € 56,74per 1 januari 2005: € 62,63.
 
 ##### Artikel 7
 
 Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandeling:
 
-- a. bedoeld in [artikel 2, onder e, f, g, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), langer dan anderhalf uur heeft geduurd, of
+- a. bedoeld in [artikel 2, onder e, f, g, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), langer dan anderhalf uur heeft geduurd, of
 
-- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 15,91per 1 januari 2004: € 17,19 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2004-01-01&g=2004-01-01), verhoogd met € 9,42per 1 januari 2004: € 10,18 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
+- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 15,91per 1 januari 2005: € 17,56 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2005-01-01&g=2005-01-01), verhoogd met € 9,42per 1 januari 2005: € 10,40 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
 
 ##### Artikel 8
 
-1. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten verhoogd met € 20,07per 1 januari 2004: € 21,68 indien:
+1. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten verhoogd met € 20,07per 1 januari 2005: € 22,15 indien:
 
 - a. het exploot, nadat betekening aan de laatstelijk aan de opdrachtgever bekendgeworden woon- of verblijfplaats van de schuldenaar eens of meermalen niet mogelijk is gebleken, op een volgend adres wordt betekend, en
 
 - b. de gerechtsdeurwaarder aan de voet van het exploot de data vermeldt waarop dat adres is geverifieerd aan de hand van gegevens uit de gemeentelijke basisadministratie persoonsgegevens of het Handelsregister, en waarop betekening aan dat adres niet mogelijk is gebleken.
 
-2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), verhoogd met € 40,39per 1 januari 2004: € 43,62 onderscheidenlijk € 78,98per 1 januari 2004: € 85,31, indien de gerechtsdeurwaarder:
+2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), verhoogd met € 40,39per 1 januari 2005: € 44,57 onderscheidenlijk € 78,98per 1 januari 2005: € 87,17, indien de gerechtsdeurwaarder:
 
 - a. de desbetreffende ambtshandeling heeft verricht nadat een of meer eerdere pogingen daartoe geen doorgang vonden wegens afwezigheid van de schuldenaar of een persoon die hem kan vertegenwoordigen op de plaats van het beslag, onderscheidenlijk de afwezigheid van de schuldenaar op de voorziene plaats van tenuitvoerlegging van de lijfsdwang;
 
@@ -190,19 +190,19 @@ Deze paragraaf blijft buiten toepassing ten aanzien van:
 
 ##### Artikel 12
 
-1. De gerechtsdeurwaarder vraagt de opdrachtgever bij wijze van voorschot geen hoger bedrag dan het bedrag dat op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2004-01-01&g=2004-01-01), met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=4&z=2004-01-01&g=2004-01-01) en [11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2004-01-01&g=2004-01-01), wordt vastgesteld. De verhogingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2004-01-01&g=2004-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=7&z=2004-01-01&g=2004-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2004-01-01&g=2004-01-01), worden gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
+1. De gerechtsdeurwaarder vraagt de opdrachtgever bij wijze van voorschot geen hoger bedrag dan het bedrag dat op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2005-01-01&g=2005-01-01), met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01) en [11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2005-01-01&g=2005-01-01), wordt vastgesteld. De verhogingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=7&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), worden gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
-2. Voor andere ambtshandelingen dan die bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=3&z=2004-01-01&g=2004-01-01) kan de gerechtsdeurwaarder bij wijze van voorschot een redelijk bedrag vragen.
+2. Voor andere ambtshandelingen dan die bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=3&z=2005-01-01&g=2005-01-01) kan de gerechtsdeurwaarder bij wijze van voorschot een redelijk bedrag vragen.
 
 ##### Artikel 13
 
-Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2004-01-01&g=2004-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2004-01-01&g=2004-01-01) wordt vastgesteld. Het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2004-01-01&g=2004-01-01), wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
+Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2005-01-01&g=2005-01-01) wordt vastgesteld. Het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
 #### § 3. Slot- en overgangsbepalingen
 
 ##### Artikel 14
 
-1. De bedragen, vastgesteld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2004-01-01&g=2004-01-01), gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
+1. De bedragen, vastgesteld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
 
 - a. A gelijk is aan het procentuele verschil tussen het indexcijfer van het bruto uurloon, inclusief de bijzondere beloningen, op basis van de CAO-lonen van alle werknemers van het jaar t-2 en het daaraan voorafgaande jaar, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt in de Sociaal-economische Maandstatistiek;
 
@@ -228,7 +228,7 @@ Dit besluit berust op de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 18
 
-Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2004-01-01&g=2004-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
+Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2005-01-01&g=2005-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
 
 ##### Artikel 19
 
