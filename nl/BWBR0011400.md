@@ -265,27 +265,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als «Uitvoeringsbesluit Les- en cursusgeldwet 2000».
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a. Opschorting inning lesgeld
-
-In afwijking van [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=2&artikel=4&z=2005-09-07&g=2005-08-01), schort de Informatie Beheer Groep de inning van het verschuldigde bedrag voor het uit de openbare kas bekostigde voorgezet onderwijs, speciaal onderwijs, voortgezet speciaal onderwijs en voor deelnemers van 16 en 17 jaar in het beroepsonderwijs, voor het schooljaar 2005–2006 op.
-
-### Hoofdstuk 3. Cursusgeld
-
-### Hoofdstuk 4. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Omvang lesgeld
-
-1. Het lesgeld, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), bedraagt voor het cursusjaar 2024–2025 € 1419.
-
-2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarvoor het gewijzigde lesgeld zal gelden. De wijziging wordt bepaald door de gemiddelde procentuele wijziging die de consumentenprijsindex over de periode mei tot en met april, voorafgaand aan de vaststelling van de ministeriële regeling, heeft ondergaan ten opzichte van dezelfde periode in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het lesgeldbedrag wordt afgerond op het naastbij gelegen gehele getal.
-
-3. Onder de consumentenprijsindex, bedoeld in het tweede lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor de Statistiek.
-
-### Hoofdstuk 3. Cursusgeld
-
-### Hoofdstuk 4. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
