@@ -4,7 +4,7 @@ identifier: "BWBR0013133"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-15"
-last_updated: "2002-01-01"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013133"
 soort: "AMvB"
@@ -70,7 +70,9 @@ Hebben goedgevonden en verstaan:
 
 1. De buitengriffiers ontvangen een vergoeding van € 91,- per zitting. Zittingen die op één dag worden gehouden, worden samen als één zitting beschouwd.
 
-2. Het eerste lid is van overeenkomstige toepassing op de waarnemend griffiers bij de Hoge Raad, met dien verstande dat de vergoeding niet wordt toegekend aan hen die reeds een volledige of gedeeltelijke bezoldiging ontvangen krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en aan de bij de rechterlijke macht behorende werkzame ambtenaren die reeds een gehele of gedeeltelijke bezoldiging ontvangen krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+2. De vergoeding in het eerste lid wordt niet toegekend als een betrokkene bij een gerecht werkzaam is op basis van een stage of uitzendovereenkomst en aan hen die reeds een volledige of gedeeltelijke bezoldiging ontvangen krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en aan de bij de rechterlijke macht behorende werkzame ambtenaren die reeds een gehele of gedeeltelijke bezoldiging ontvangen krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+
+3. Het eerste lid is van overeenkomstige toepassing op de waarnemend griffiers bij de Hoge Raad, met dien verstande dat de vergoeding niet wordt toegekend aan hen die reeds een volledige of gedeeltelijke bezoldiging ontvangen krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en aan de bij de rechterlijke macht behorende werkzame ambtenaren die reeds een gehele of gedeeltelijke bezoldiging ontvangen krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 ##### Artikel 4
 
@@ -84,13 +86,13 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers.
 
-## Bijlage. bij de artikelen 1, eerste lid, en 2, eerste lid, van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
+## Bijlage. bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2003-11-19&g=2003-11-19), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2003-11-19&g=2003-11-19), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
 
 **Formulier voor het afleggen van de eed of belofte**
 
 Door de buitengriffier en de waarnemend griffier, bedoeld in de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73)
 
-Ik zweer/beloof dat ik hetgeen ik als buitengriffier te weten kom niet verder bekend zal maken dan voor de uitoefening van mijn betrekking nodig is, tenzij mijn verklaring als getuige of deskundige volgens de wet wordt gevorderd.
+Ik zweer/beloof dat ik hetgeen ik als buitengriffier/waarnemend griffier te weten kom niet verder bekend zal maken dan voor de uitoefening van mijn betrekking nodig is, tenzij mijn verklaring als getuige of deskundige volgens de wet wordt gevorderd.
 
 Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
 
