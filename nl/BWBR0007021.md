@@ -4,7 +4,7 @@ identifier: "BWBR0007021"
 country: "nl"
 rank: "wet"
 publication_date: "2006-02-01"
-last_updated: "2000-05-01"
+last_updated: "2005-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007021"
 soort: "wet"
@@ -53,7 +53,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IV
 
-De bescheiden, bedoeld in artikel 454 lid 3, van Boek 7 van het Burgerlijk Wetboek, die voorhanden zijn op het in [artikel V lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=V&z=2000-05-01&g=2000-05-01) bedoelde tijdstip, kunnen nog gedurende tien jaren na dat tijdstip worden bewaard met het oog op mogelijke verstrekking overeenkomstig artikel 458, tenzij de patiënt een verzoek doet als bedoeld in artikel 455 van Boek 7 van het Burgerlijk Wetboek.
+De bescheiden, bedoeld in artikel 454 lid 3, van Boek 7 van het Burgerlijk Wetboek, die voorhanden zijn op het in [artikel V lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=V&z=2000-05-01&g=2005-04-01) bedoelde tijdstip, kunnen nog gedurende tien jaren na dat tijdstip worden bewaard met het oog op mogelijke verstrekking overeenkomstig artikel 458, tenzij de patiënt een verzoek doet als bedoeld in artikel 455 van Boek 7 van het Burgerlijk Wetboek.
 
 ##### Artikel V
 
@@ -73,7 +73,7 @@ De bescheiden, bedoeld in artikel 454 lid 3, van Boek 7 van het Burgerlijk Wetbo
 
 ##### Artikel VI
 
-Op het in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=V&z=2000-05-01&g=2000-05-01), bedoelde tijdstip worden de artikelen 1653 tot en met 1653**x** van het Burgerlijk Wetboek, zoals die bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=I&z=2000-05-01&g=2000-05-01) zijn vastgesteld in titel 7 van Boek 7 van het Burgerlijk Wetboek opgenomen als afdeling 5 van die titel onder het opschrift "De overeenkomst inzake geneeskundige behandeling", en vervalt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=I&z=2000-05-01&g=2000-05-01) voor het overige.
+Op het in [artikel V, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=V&z=2000-05-01&g=2005-04-01), bedoelde tijdstip worden de artikelen 1653 tot en met 1653**x** van het Burgerlijk Wetboek, zoals die bij [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=I&z=2000-05-01&g=2005-04-01) zijn vastgesteld in titel 7 van Boek 7 van het Burgerlijk Wetboek opgenomen als afdeling 5 van die titel onder het opschrift "De overeenkomst inzake geneeskundige behandeling", en vervalt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007021&artikel=I&z=2000-05-01&g=2005-04-01) voor het overige.
 
 2. Bevat wijzigingen in andere regelgeving.
 
