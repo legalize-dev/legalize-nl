@@ -4,7 +4,7 @@ identifier: "BWBR0002515"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2003-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002515"
 soort: "wet"
@@ -50,11 +50,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Heeft de oprichting van een in het eerste lid bedoelde vennootschap plaatsgevonden naar Nederlands recht, dan wordt die vennootschap steeds geacht in Nederland te zijn gevestigd.
 
+Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste volzin geacht te zijn opgericht naar Nederlands recht.
+
 ### Hoofdstuk II. Voorwerp van de belasting
 
 ##### Artikel 2
 
-De belasting wordt geheven naar de opbrengst van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01) bedoelde aandelen, winstbewijzen en geldleningen.
+De belasting wordt geheven naar de opbrengst van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01) bedoelde aandelen, winstbewijzen en geldleningen.
 
 ##### Artikel 3
 
@@ -106,7 +108,7 @@ De herbeleggingsreserve die is gevormd ingevolge de nadere regelen die zijn gege
 
 2. Inhouding van de belasting mag achterwege blijven ten aanzien van de opbrengsten van aandelen in, winstbewijzen ten laste van en geldleningen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) verstrekt aan aangewezen kredietinstellingen en beleggingsinstellingen als bedoeld in [artikel 5.14 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14).
 
-3. Voor het achterwege laten van de inhouding van dividendbelasting ingevolge dit artikel, een teruggaaf van dividendbelasting ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2003-01-01&g=2003-01-01), alsmede het achterwege laten dan wel een vermindering of teruggaaf van dividendbelasting ingevolge de Belastingregeling voor het Koninkrijk of een door Nederland gesloten verdrag ter voorkoming van dubbele belasting, wordt niet als uiteindelijk gerechtigde beschouwd degene die in samenhang met de genoten opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
+3. Voor het achterwege laten van de inhouding van dividendbelasting ingevolge dit artikel, een teruggaaf van dividendbelasting ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2004-01-01&g=2004-01-01), alsmede het achterwege laten dan wel een vermindering of teruggaaf van dividendbelasting ingevolge de Belastingregeling voor het Koninkrijk of een door Nederland gesloten verdrag ter voorkoming van dubbele belasting, wordt niet als uiteindelijk gerechtigde beschouwd degene die in samenhang met de genoten opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
 
 - de opbrengst geheel of gedeeltelijk direct of indirect ten goede is gekomen aan:
 
@@ -148,9 +150,9 @@ tenzij op grond van een voorschrift ter bestrijding van fraude en misbruiken opg
 
 ##### Artikel 4b
 
-1. Ingeval de in [artikel 4**a,** eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2003-01-01&g=2003-01-01), 2°, dan wel in het tweede lid, bedoelde moedermaatschappij op het tijdstip waarop de opbrengst ter beschikking is gesteld nog niet voldoet aan de bedoelde bezitsperiode van één jaar blijft in afwijking in zoverre van dat artikel inhouding van belasting eveneens achterwege, mits de dochtermaatschappij ten belope van het bedrag van de belasting waarvan inhouding achterwege blijft, zekerheid stelt.
+1. Ingeval de in [artikel 4**a,** eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2004-01-01&g=2004-01-01), 2°, dan wel in het tweede lid, bedoelde moedermaatschappij op het tijdstip waarop de opbrengst ter beschikking is gesteld nog niet voldoet aan de bedoelde bezitsperiode van één jaar blijft in afwijking in zoverre van dat artikel inhouding van belasting eveneens achterwege, mits de dochtermaatschappij ten belope van het bedrag van de belasting waarvan inhouding achterwege blijft, zekerheid stelt.
 
-2. Gelijktijdig met het doen van de opgaaf als bedoeld in [artikel 4**a**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2003-01-01&g=2003-01-01), wordt de zekerheid gesteld bij de ontvanger. Deze beslist of de vorm van zekerheid die de dochtermaatschappij aanbiedt, wordt aanvaard.
+2. Gelijktijdig met het doen van de opgaaf als bedoeld in [artikel 4**a**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2004-01-01&g=2004-01-01), wordt de zekerheid gesteld bij de ontvanger. Deze beslist of de vorm van zekerheid die de dochtermaatschappij aanbiedt, wordt aanvaard.
 
 3. Indien binnen één jaar na het tijdstip waarop de moedermaatschappij is gaan voldoen aan de voorwaarde dat zij voor ten minste 25 percent van het nominaal gestorte kapitaal aandeelhouder is van de dochtermaatschappij, dan wel ten minste 25 percent van de stemrechten in de dochtermaatschappij bezit, zich een omstandigheid voordoet waardoor haar bezit daalt beneden de 25 percent, moet de belasting waarvan inhouding op grond van het eerste lid achterwege is gebleven, alsnog worden betaald.
 
@@ -158,7 +160,7 @@ tenzij op grond van een voorschrift ter bestrijding van fraude en misbruiken opg
 
 5. De aan het stellen en het opheffen van de zekerheid verbonden kosten komen ten laste van de dochtermaatschappij.
 
-6. De voorgaande leden zijn van overeenkomstige toepassing ingeval de in [artikel 4**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2003-01-01&g=2003-01-01), bedoelde moedermaatschappij op het tijdstip waarop de opbrengst ter beschikking is gesteld nog niet voldoet aan de bedoelde bezitsperiode van één jaar.
+6. De voorgaande leden zijn van overeenkomstige toepassing ingeval de in [artikel 4**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4a&z=2004-01-01&g=2004-01-01), bedoelde moedermaatschappij op het tijdstip waarop de opbrengst ter beschikking is gesteld nog niet voldoet aan de bedoelde bezitsperiode van één jaar.
 
 ##### Artikel 4c
 
@@ -166,11 +168,9 @@ tenzij op grond van een voorschrift ter bestrijding van fraude en misbruiken opg
 
 - a. de ingekochte aandelen behoren tot een soort welke wordt genoteerd aan de officiële markt van de Euronext effectenbeurs te Amsterdam of aan een daarmee bij ministeriële regeling gelijk te stellen buitenlandse beurs en de inhoudingsplichtige is niet een lichaam waarvan de feitelijke werkzaamheid hoofdzakelijk bestaat uit het, onmiddellijk of middellijk, beleggen van vermogen of een daarmee overeenkomende werkzaamheid;
 
-- b. in het kalenderjaar wordt aan dividend in contanten ten minste uitgekeerd een bedrag gelijk aan het volgens het tweede lid bepaalde gemiddeld uitgekeerde dividend in contanten in vijf voorafgaande kalenderjaren;
+- b. in het kalenderjaar wordt aan dividend in contanten ten minste uitgekeerd een bedrag gelijk aan het volgens het tweede lid bepaalde gemiddeld uitgekeerde dividend in contanten in vijf voorafgaande kalenderjaren, en
 
-- c. het bedrag van de inkoop in het kalenderjaar is ten minste gelijk aan een vierde deel van het dividend in contanten dat in het kalenderjaar wordt uitgekeerd, en
-
-- d. in het kalenderjaar tot het tijdstip van de inkoop en in de vier daaraan voorafgaande kalenderjaren is het nominaal gestorte kapitaal in de inhoudingsplichtige niet vergroot, anders dan in situaties van fusies, situaties waarin ter zake van de vergroting van het nominaal gestorte kapitaal [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3&z=2003-01-01&g=2003-01-01), van toepassing is situaties ‘situaties’ moet zijn ‘,situaties’waarin sprake is van een omzetting in nominaal aandelenkapitaal van hetgeen op aandelen is gestort boven het nominale aandelenkapitaal, of situaties waarin de vergroting van het nominaal gestorte kapitaal een gevolg is van een niet-openbare emissie van aandelen in verband met de voldoening aan een aandelenoptieverplichting jegens een werknemer.
+- c. in het kalenderjaar tot het tijdstip van de inkoop en in de vier daaraan voorafgaande kalenderjaren is het nominaal gestorte kapitaal in de inhoudingsplichtige niet vergroot, anders dan in situaties van fusies, situaties waarin ter zake van de vergroting van het nominaal gestorte kapitaal [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3&z=2004-01-01&g=2004-01-01), van toepassing is situaties waarin sprake is van een omzetting in nominaal aandelenkapitaal van hetgeen op aandelen is gestort boven het nominale aandelenkapitaal, of situaties waarin de vergroting van het nominaal gestorte kapitaal een gevolg is van een niet-openbare emissie van aandelen in verband met de voldoening aan een aandelenoptieverplichting jegens een werknemer.
 
 2. Het bedrag van het in het eerste lid bedoelde gemiddeld uitgekeerde dividend in contanten in vijf voorafgaande kalenderjaren, wordt berekend door na correctie van de bedragen van de zeven voorafgaande kalenderjaren met een inflatiebijstelling, het jaar met het hoogste en het jaar met het laagste gecorrigeerde bedrag buiten aanmerking te laten.
 
@@ -194,7 +194,7 @@ De belasting bedraagt 25% van de opbrengst.
 
 1. Neemt de vennootschap die de opbrengst verschuldigd is, de belasting voor haar rekening, dan wordt voor het berekenen van de belasting de opbrengst vermenigvuldigd met 100/75.
 
-2. Indien bij het einde van het kalenderjaar blijkt dat bij een inkoop van aandelen in het jaar niet is voldaan aan de voorwaarden van [artikel 4c, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4c&z=2003-01-01&g=2003-01-01), wordt de belasting berekend gelijk als in situaties waarin de vennootschap de belasting voor haar rekening neemt.
+2. Indien bij het einde van het kalenderjaar blijkt dat bij een inkoop van aandelen in het jaar niet is voldaan aan de voorwaarden van [artikel 4c, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4c&z=2004-01-01&g=2004-01-01), wordt de belasting berekend gelijk als in situaties waarin de vennootschap de belasting voor haar rekening neemt.
 
 ### Hoofdstuk IV. Wijze van heffing
 
@@ -228,7 +228,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2003-01-01&g=2003-01-01), op aangifte af te dragen belasting kan een in het tweede lid nader aangeduide vermindering worden toegepast wegens winstuitkeringen op aandelen en winstbewijzen die door de inhoudingsplichtige zijn ontvangen van een lichaam dat is gevestigd in de Nederlandse Antillen of Aruba dan wel in een staat in relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is, indien aan de volgende voorwaarden is voldaan:
+1. Op de ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=7&z=2004-01-01&g=2004-01-01), op aangifte af te dragen belasting kan een in het tweede lid nader aangeduide vermindering worden toegepast wegens winstuitkeringen op aandelen en winstbewijzen die door de inhoudingsplichtige zijn ontvangen van een lichaam dat is gevestigd in de Nederlandse Antillen of Aruba dan wel in een staat in relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is, indien aan de volgende voorwaarden is voldaan:
 
 - 1°. de inhoudingsplichtige was op het tijdstip waarop het lichaam de winstuitkering ter beschikking stelde - al dan niet te zamen met in Nederland gevestigde, met de inhoudingsplichtige verbonden lichamen als bedoeld in [artikel 10**a**, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a) - voor ten minste 25 percent van het nominaal gestorte kapitaal aandeelhouder van dat lichaam dan wel bezat, zo het verdrag daarin voorziet, ten minste 25 percent van de stemrechten in dat lichaam;
 
@@ -240,9 +240,9 @@ Vervallen
 
 3. Tot de in het tweede lid genoemde opbrengst waarop de inhoudingsplichtige dividendbelasting heeft ingehouden, wordt niet gerekend de opbrengst waarop hij weliswaar dividendbelasting heeft ingehouden doch welke belasting voor volledige teruggaaf in aanmerking komt, behalve indien de opbrengst ter beschikking wordt gesteld aan:
 
-- 1°. een rechtspersoon als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2003-01-01&g=2003-01-01), of een daarmee vergelijkbaar in het buitenland gevestigd lichaam, die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige; of
+- 1°. een rechtspersoon als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2004-01-01&g=2004-01-01), of een daarmee vergelijkbaar in het buitenland gevestigd lichaam, die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige; of
 
-- 2°. een vennootschap als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2003-01-01&g=2003-01-01).
+- 2°. een vennootschap als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=10&z=2004-01-01&g=2004-01-01).
 
 4. Indien de inhoudingsplichtige als dochtermaatschappij deel uit maakt van een fiscale eenheid in de zin van [artikel 15, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) worden de door die maatschappij ontvangen winstuitkeringen op aandelen en winstbewijzen die voldoen aan de voorwaarden van het eerste lid voor de toepassing van de vermindering ingevolge dit artikel toegerekend aan de moedermaatschappij van die fiscale eenheid. Ingeval door de dochtermaatschappij voor het tot stand komen van de in de vorige volzin bedoelde fiscale eenheid winstuitkeringen zijn ontvangen die voldoen aan de voorwaarden van het eerste lid, kan Onze Minister op gezamenlijk verzoek van de moeder- en de dochtermaatschappij, onder door hem te stellen voorwaarden, toestaan dat die winstuitkeringen worden toegerekend aan de moedermaatschappij.
 
@@ -252,11 +252,11 @@ Vervallen
 
 ##### Artikel 12
 
-1. Indien de inhoudingsplichtige winstuitkeringen heeft ontvangen die zouden kunnen leiden tot een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2003-01-01&g=2003-01-01), mag hij in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2003-01-01&g=2003-01-01), tot een bedrag ter grootte van die vermindering afzien van het achterwege laten van inhouding van de belasting.
+1. Indien de inhoudingsplichtige winstuitkeringen heeft ontvangen die zouden kunnen leiden tot een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2004-01-01&g=2004-01-01), mag hij in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=4&z=2004-01-01&g=2004-01-01), tot een bedrag ter grootte van die vermindering afzien van het achterwege laten van inhouding van de belasting.
 
 2. De inhoudingsplichtige die op de voet van het eerste lid afziet van het achterwege laten van inhouding van belasting, is verplicht aangifte te doen van de ingehouden belasting.
 
-3. Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2003-01-01&g=2003-01-01).
+3. Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=IV&artikel=11&z=2004-01-01&g=2004-01-01).
 
 ##### Artikel 13
 
@@ -276,7 +276,7 @@ Bij het bepalen van hetgeen gemiddeld is gestort op bewijzen van deelgerechtigdh
 
 ##### Artikel 16
 
-[Artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3a&z=2003-01-01&g=2003-01-01), vindt geen toepassing met betrekking tot stortingen op aandelen die vóór 1 januari 1946 hebben plaatsgevonden.
+[Artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&hoofdstuk=II&artikel=3a&z=2004-01-01&g=2004-01-01), vindt geen toepassing met betrekking tot stortingen op aandelen die vóór 1 januari 1946 hebben plaatsgevonden.
 
 ##### Artikel 17
 
