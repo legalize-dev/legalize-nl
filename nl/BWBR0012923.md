@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2002-06-01"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -159,25 +159,38 @@ Tabel 1a
 | CPL | appendix 1 bij JAR-FCL 1.160 & 1.165 (a)(4) | appendix 1 bij JAR-FCL 1.160 & 1.165 (a)(3) | appendix 1 bij JAR-FCL 2.160 & 2.165 (a)(4) | appendix 1 bij JAR-FCL 2.160 & 2.165 (a)(3) |
 | IR | appendix 1 bij JAR-FCL 1.205 | niet mogelijk | appendix 1 bij JAR-FCL 2.205 | niet mogelijk |
 
-Tabel 1b
-
-| FTO Opleiding | Eisen per categorie Vliegtuigen | Helikopters |
+| FTO | FTO | FTO |
 | --- | --- | --- |
+| Oplei- | Eisen per categorie |   |
+| ding | Vliegtuigen | Helikopters |
 | PPL | JAR-FCL 1.125, appendix 1 bij JAR-FCL 1.125 | JAR-FCL 2.125, appendix 1 bij JAR-FCL 2.125 |
-| TR | JAR-FCL 1.262, appendix 1 bij JAR-FCL 1.261(a) | JAR-FCL 1.262, appendix 1 bij JAR-FCL 2.261(a) |
-| CR | JAR-FCL 1.261, bij appendix 1 bij JAR-FCL 1.261(a) | — |
-| F1 | JAR-FCL 1.340 | JAR-FCL 2.340 |
-| MCC | JAR-FCL 1.261(d) | JAR-FCL 2.261(d) |
-
-Tabel 2
-
-| TRTO Opleiding | Eisen per Categorie Vliegtuigen | Helikopters |
-| --- | --- | --- |
-| PPL | JAR-FCL 1.125 | JAR-FCL 2.125 |
 | TR | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261(a) | JAR-FCL 2.261, appendix 1 bij JAR-FCL 2.261(a) |
-| CR | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261(a) | — |
-| MCC | JAR-FCL 1.261 (d) | JAR-FCL 2.261(d) |
-| TR (E) | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261 | — |
+| CR | JAR-FCL 1.261 , appendix 1 bij JAR-FCL 1.261(a) |   |
+| FI | JAR-FCL 1.340 | JAR-FCL 2.340, appendix 1 bij JAR-FCL 2.340 |
+| CRI(SPA) | appendix 1 bij JAR-FCL 1.380 |   |
+| TRI | JAR-FCL 1.365, appendix 1 bij JAR-FCL 1.365 | JAR-FCL 2.365, appendix 1 bij JAR-FCL 2.365 |
+| IRI | JAR-FCL 1.395, appendix 1 bij JAR-FCL 1.395 | JAR-FCL 2.395, appendix 1 bij JAR-FCL 2.395 |
+| SFI | JAR-FCL 1.410 | JAR-FCL 2.410, appendix 1 bij JAR-FCL 2.365 |
+| MCCI | JAR-FCL 1.417 |   |
+| MCC | JAR-FCL 1.261(d) | JAR-FCL 2.261(d), appendix 1 bij JAR-FCL 2.261(d) |
+| HPA | appendix 1 bij JAR-FCL 1.251 |   |
+| TR(H) SP-ME pre-entry |   | JAR-FCL 2.255, appendix 1 bij JAR-FCL 2.255 |
+
+| TRTO | TRTO | TRTO |
+| --- | --- | --- |
+| Oplei- | Eisen per categorie |   |
+| ding | Vliegtuigen | Helikopters |
+| TR | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261(a) | JAR-FCL 2.261, appendix 1 bij JAR-FCL 2.261(a) |
+| CR | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261(a), appendix 1 bij JAR-FCL 1.261(c)(2) |   |
+| MCC | JAR-FCL 1.261(d) | JAR-FCL 2.261(d), appendix 1 bij JAR-FCL 2.261(d) |
+| CRI(SPA) | appendix 1 bij JAR-FCL 1.380 |   |
+| TRI | JAR-FCL 1.365, appendix 1 bij JAR-FCL 1.365 | JAR-FCL 2.365, appendix 1 bij JAR-FCL 2.365 |
+| IRI | JAR-FCL 1.395, appendix 1 bij JAR-FCL 1.395 | JAR-FCL 2.395, appendix 1 bij JAR-FCL 2.395 |
+| SFI | JAR-FCL 1.410 | JAR-FCL 2.410, appendix 1 bij JAR-FCL 2.365 |
+| MCCI | JAR-FCL 1.417 |   |
+| TR(E) | JAR-FCL 1.261, appendix 1 bij JAR-FCL 1.261 |   |
+| HPA | Appendix 1 bij JAR-FCL 1.251 |   |
+| TR(H) SP-ME pre-entry |   | JAR-FCL 2.255, appendix 1 bij JAR-FCL 2.255 |
 
 ### Hoofdstuk 4. Slotbepalingen
 
