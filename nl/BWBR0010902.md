@@ -347,31 +347,3 @@ Dit besluit treedt in werking op het tijdstip dat de [Rijkswet van 2 juni 1999 t
 Dit besluit wordt aangehaald als: Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
-
-#### § 5. Dienstvoorschriften
-
-### Hoofdstuk II. Nadere bepalingen met betrekking tot de Wet militair tuchtrecht
-
-#### § 1. Tuchtrechtelijke geldboete
-
-#### § 2. Vergoeding voor advocaat, getuige en deskundige
-
-#### § 3. Herstel geleden nadeel
-
-#### § 4. Bewaring van en klachten ten aanzien van ingenomen voorwerpen en geschriften
-
-#### § 5. Uitvoering tuchtstraffen opgelegd aan krijgsgevangenen
-
-### Hoofdstuk III. Nadere bepalingen met betrekking tot de Wet militaire strafrechtspraak
-
-#### § 1. Reis- en verblijfskosten, eedsaflegging en tenue van de militaire leden
-
-#### § 2. Bevelsgebied commandant der zeemacht in het Caraïbisch gebied
-
-#### § 3. Reis- en verblijfskostenvergoeding voor de officier-raadsman en voor de verdachte
-
-#### § 4. Bevoegdheden van de opsporingsambtenaren buiten het Koninkrijk
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
