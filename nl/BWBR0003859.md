@@ -4,7 +4,7 @@ identifier: "BWBR0003859"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003859"
 soort: "KB"
@@ -54,7 +54,7 @@ Er is een regeringsprijs op het gebied van de emancipatie, genaamd Joke Smit-pri
 
 1. De Joke Smit-prijs kan eenmaal in de twee jaar worden toegekend aan een persoon, een groep of een instantie op grond van het leveren of geleverd hebben van een fundamentele bijdrage tot verbetering van de positie van vrouwen in de Nederlandse samenleving.
 
-2. De prijs bestaat uit een geldbedrag van € 7 500 en een kunstvoorwerp.
+2. De prijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.
 
 ##### Artikel 3
 
