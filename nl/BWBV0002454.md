@@ -1,0 +1,140 @@
+---
+title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Saoedi-Arabië tot wederzijdse vrijstelling van belastingen geheven naar de inkomsten en winsten van luchtvaartondernemingen uit de uitoefening van luchtvervoer in internationaal verkeer en hun werknemers"
+identifier: "BWBV0002454"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002454"
+soort: "verdrag"
+stam_id: "10002887583"
+version_id: "10002887652"
+internal_id: "C10009478361"
+label_id: "10002874894"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002454/1992-01-01/0"
+intitule_bron: "Trb.1991-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-16"
+intitule_published: "1991-03-26"
+intitule_in_force: "1991-12-23"
+intitule_status: "goed"
+original_publication: "Trb.1991-54"
+original_signed_date: "1991-01-16"
+original_published_date: "1991-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-54"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBV0002454&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBV0002454&g=1992-01-01"
+citeertitel_status: "officieel"
+signed_date: "1991-01-16"
+entry_into_force: "1992-01-01"
+---
+# Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Saoedi-Arabië tot wederzijdse vrijstelling van belastingen geheven naar de inkomsten en winsten van luchtvaartondernemingen uit de uitoefening van luchtvervoer in internationaal verkeer en hun werknemers
+
+De Regering van het Koninkrijk der Nederlanden
+
+en
+
+de Regering van het Koninkrijk Saudiarabië,
+
+De wens koesterende een overeenkomst te sluiten tot wederzijdse vrijstelling van belastingen geheven naar de inkomsten en winsten van luchtvaartondernemingen uit de uitoefening van luchtvervoer in internationaal verkeer en hun werknemers,
+
+Zijn het volgende overeengekomen:
+
+##### Artikel 1. Belastingen waarop de overeenkomst van toepassing is
+
+1. Deze Overeenkomst is van toepassing op belastingen naar het inkomen en winsten die, ongeacht de wijze van heffing, worden geheven ten behoeve van elk van de Overeenkomstsluitende Staten.
+
+2. Als belastingen naar het inkomen worden beschouwd alle belastingen die worden geheven naar het gehele inkomen of naar bestanddelen van het inkomen, waaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende zaken, en belastingen naar het totaalbedrag van de door de luchtvaartondernemingen betaalde lonen of salarissen.
+
+3. De bestaande belastingen waarop de Overeenkomst van toepassing is, zijn met name:
+
+- a. voor Nederland, de inkomstenbelasting, de vennootschapsbelasting, (hierna te noemen: „Nederlandse belasting”);
+
+- b. voor het Koninkrijk Saudiarabië, de inkomstenbelasting, (hierna te noemen: „Saudische belasting”).
+
+4. Deze Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen zoals die later naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Overeenkomstsluitende Staten doen elkaar mededeling van de wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
+
+##### Artikel 2. Begripsbepalingen
+
+1. In deze Overeenkomst, tenzij de context anders vereist:
+
+- a. betekenen de uitdrukkingen „een Overeenkomstsluitende Staat” en „de andere Overeenkomstsluitende Staat” het Koninkrijk der Nederlanden of het Koninkrijk Saudiarabië, al naar de context vereist; de uitdrukking „Overeenkomstsluitende Staten” betekent het Koninkrijk der Nederlanden en het Koninkrijk Saudiarabië;
+
+- b. is voor het Koninkrijk der Nederlanden deze Overeenkomst alleen van toepassing op het deel van het Koninkrijk dat in Europa is gelegen;
+
+- c. betekent de uitdrukking „belasting” „Nederlandse belasting” of „Saudische belasting”, al naar de context vereist;
+
+- d. betekenen de uitdrukkingen „luchtvaartonderneming van een Overeenkomstsluitende Staat” en „luchtvaartonderneming van de andere Overeenkomstsluitende Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een Overeenkomstsluitende Staat en een onderneming gedreven door een inwoner van de andere Overeenkomstsluitende Staat, die is aangewezen door de overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Saudiarabië inzake luchtvervoer;
+
+- e. betekent de uitdrukking „uitoefening van luchtvervoer” de exploitatie van vervoer door de lucht van personen, dieren, goederen en post verricht door een luchtvaartonderneming van een Overeenkomstsluitende Staat, met inbegrip van de verkoop van plaatsbewijzen en soortgelijke bescheiden die voor vervoer worden gebruikt;
+
+- f. betekent de uitdrukking „internationaal verkeer” alle vervoer met een eigen, gehuurd of gecharterd luchvaartuig, dat wordt geëxploiteerd door een luchtvaartonderneming van een Overeenkomstsluitende Staat, behalve wanneer dat vervoer uitsluitend plaats vindt tussen plaatsen die in de andere Overeenkomstsluitende Staat zijn gelegen;
+
+- g. betekent de uitdrukking „bevoegde autoriteit”:
+
+- i). in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger; met betrekking tot de sociale-verzekeringswetgeving echter de voor deze wetgeving verantwoordelijke ministers en hun bevoegde vertegenwoordigers;
+
+- ii). in het Koninkrijk Saudiarabië de Minister van Financiën en Nationale Economie;
+
+- h. betekent de uitdrukking „inwoner van een Overeenkomstsluitende Staat” iedere persoon die, ingevolge de wetgeving van die Staat, aldaar aan belastingheffing is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid;
+
+- i. omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen.
+
+2. Voor de toepassing van de Overeenkomst door een Overeenkomstsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
+
+##### Artikel 3. Luchtvervoer
+
+1. Inkomsten en winsten verkregen door een luchtvaartonderneming van een Overeenkomstsluitende Staat uit de uitoefening van luchtvervoer in internationaal verkeer zijn vrijgesteld van belasting in de andere Overeenkomstsluitende Staat.
+
+2. Het bepaalde in het eerste lid is ook van toepassing op inkomsten en winsten verkregen door een luchtvaartonderneming van een Overeenkomstsluitende Staat uit haar deelneming in een „pool”of een gemeenschappelijke exploitatie van luchtvervoer.
+
+3. Voor de toepassing van dit artikel omvatten inkomsten en winsten verkregen door een luchtvaartonderneming van een Overeenkomstsluitende Staat uit de uitoefening van luchtvervoer in internationaal verkeer inkomsten verkregen door die onderneming uit werkzaamheden die samenhangen met en voortvloeien uit de exploitatie van vervoer door de lucht, zoals:
+
+- a. inkomsten uit verhuur, lease of onderhoud van luchtvaartuigen,
+
+- b. inkomsten uit opleidingsprogramma's, het voeren van beheer of andere diensten verleend door een luchtvaartonderneming van een Overeenkomstsluitende Staat aan een luchtvaartonderneming van de andere Overeenkomstsluitende Staat,
+
+- c. interest of soortgelijke opbrengsten van tegoeden die rechtstreeks samenhangen met de exploitatie van luchtvaartuigen in internationaal verkeer.
+
+##### Artikel 4. Beloning voor persoonlijke arbeid
+
+1. De beloning verkregen ter zake van een dienstbetrekking die is uitgeoefend aan boord van een luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd, is slechts belastbaar in de Overeenkomstsluitende Staat waarin de luchtvaartonderneming is gevestigd.
+
+2. De beloning verkregen door een werknemer van een luchtvaartonderneming van een Overeenkomstsluitende Staat ter zake van een dienstbetrekking die is uitgeoefend in de andere Overeenkomstsluitende Staat, is slechts belastbaar in die andere Staat, tenzij de werknemer een onderdaan is van de eerstgenoemde Staat. In dat geval is die beloning slechts belastbaar in de eerstgenoemde Staat, mits het aantal zodanige werknemers twee niet te boven gaat en de periode gedurende welke zij in de andere Staat wonen vijf jaar niet te boven gaat. De datum waarop de Overeenkomst van kracht wordt, is de datum waarop de eerste periode van vijf jaar begint. De sociale-verzekeringswetgeving van de andere Staat is niet van toepassing op deze werknemers; bijgevolg kunnen zij aan die wetgeving geen rechten ontlenen.
+
+##### Artikel 5. Regeling voor onderling overleg
+
+De bevoegde autoriteiten van de Overeenkomstsluitende Staten trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van deze Overeenkomst in onderlinge overeenstemming op te lossen. Een verzoek tot een regeling voor onderling overleg wordt binnen 90 dagen na de datum van ontvangst van dat verzoek nader toegelicht.
+
+##### Artikel 6. Inwerkingtreding
+
+Deze Overeenkomst treedt in werking op de dertigste dag na de laatste der beide data waarop de onderscheiden Regeringen elkaar schriftelijk hebben meegedeeld, dat de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten zijn vervuld, en de bepalingen ervan vinden toepassing voor de belastingjaren en -tijdvakken die aanvangen op of na 1 januari 1988.
+
+##### Artikel 7. Beëindiging
+
+Deze Overeenkomst blijft van kracht totdat zij door een van de Overeenkomstsluitende Staten wordt beëindigd. Elk van de Overeenkomstsluitende Staten kan de Overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar een kennisgeving van beëindiging te doen. In dat geval houdt de Overeenkomst op van toepassing te zijn voor enig kalenderjaar of -tijdvak dat aanvangt na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan.
+
+IN WITNESS WHEREOF the undersigned, duly authorised by their respective Governments, have signed this Agreement.
+
+DONE at Riyadh, this Wednesday January 16, 1991 in duplicate, in the Netherlands, Arabic and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Arabic texts, the English text shall prevail.
+
+**For the Government of the Kingdom of the Netherlands**
+
+Ambassador of the Kingdom of the Netherlands
+
+(sd.) H. PHILIPSE
+
+Hendrik Philipse
+
+**For the Government of the Kingdom of Saudi Arabia**
+
+Minister of Finance and National Economy
+
+(sd.) MOHAMMED ABALKHAIL
+
+Mohammed Abalkhail
