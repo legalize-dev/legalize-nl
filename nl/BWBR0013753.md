@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-04-17"
+last_updated: "2005-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -158,7 +158,7 @@ m = jaarkilometrage.
 
 Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde inkomstenbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
 
-CAT x 25/100 x T/100 x 100/(100-T)
+CAT x P/100 x T/100 x 100/(100-T)
 
 M = ----------------------------------
 
@@ -170,7 +170,7 @@ M = het bedrag van de vergoeding;
 
 CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM;
 
-25/100 = de factor die overeenkomt met het met betrekking tot ministers en staatssecretarissen op de voet van [artikel 3.145, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.145) toegepaste percentage;
+P = het percentage genoemd in artikel 3.145, eerste lid, van de Wet inkomstenbelasting 2001.
 
 T = het hoogste van de in de tarieftabel van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) opgenomen percentages.
 
