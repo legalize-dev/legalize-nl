@@ -4,7 +4,7 @@ identifier: "BWBV0003487"
 country: "nl"
 rank: "verdrag"
 publication_date: "1995-12-01"
-last_updated: "1986-01-02"
+last_updated: "1995-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003487"
 soort: "verdrag"
@@ -76,7 +76,7 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 1. Meerderjarige Nederlanders die in Suriname zijn geboren of die, buiten Suriname geboren zijnde, behoren tot een van de in artikel 4 onder b omschreven groepen van personen en die op het tijdstip van de inwerkingtreding van deze Overeenkomst buiten de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben, verkrijgen, ook buiten de Republiek Suriname, de Surinaamse nationaliteit door voor 1 januari 1986 hun wil daartoe te kennen te geven.
 
-2. De in het eerste lid bedoelde personen hebben het recht te allen tijde met hun gezin onvoorwaardelijk tot de Republiek Suriname te worden toegelaten en daar in alle opzichten als Surinamer te worden behandeld. Zij verkrijgen van rechtswege de Surinaamse nationaliteit, indien zij gedurende twee jaren in de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben.
+2. De in het eerste lid bedoelde personen hebben het recht te allen tijde met hun gezin onvoorwaardelijk tot de Republiek Suriname te worden toegelaten en daar in alle opzichten als Surinamer te worden behandeld.
 
 3. De echtgenoten en de voor het jaar 2001 geboren kinderen, adoptief-kinderen daaronder begrepen, van de in het eerste lid bedoelde personen hebben eveneens het recht op de voet van het tweede lid onvoorwaardelijk tot de Republiek Suriname te worden toegelaten.
 
@@ -90,7 +90,7 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 3. Op minderjarigen zijn de artikelen 2-5, 9 en 10 van overeenkomstige toepassing, indien hun ouders zijn overleden of onbekend zijn, dan wel indien hun vader of, indien deze overleden of wettelijk onbekend is, hun moeder het Nederlanderschap niet bezit.
 
-4. De in de voorgaande leden bedoelde minderjarigen verkrijgen de nationaliteit die zij, indien zij ten tijde van de inwerkingtreding van deze Overeenkomst reeds meerderjarig waren geweest, zouden hebben gekregen dan wel hadden kunnen verkrijgen of behouden, door binnen vijf jaar na het bereiken van de meerderjarigheid hun wil daartoe te kennen te geven, mits deze nationaliteit is de nationaliteit van het land waar zij dan woonplaats hebben. Hetzelfde geldt voor wegens geestelijke stoornis onder curatele gestelden na de beëindiging van de curatele.
+4. De in de voorgaande leden bedoelde minderjarigen verkrijgen de nationaliteit die zij, indien zij ten tijde van de inwerkingtreding van deze Overeenkomst reeds meerderjarig waren geweest, zouden hebben gekregen dan wel hadden kunnen verkrijgen of behouden, door binnen vijf jaar na het bereiken van de meerderjarigheid hun wil daartoe te kennen te geven. Hetzelfde geldt voor wegens geestelijke stoornis onder curatele gestelden na de beëindiging van de curatele.
 
 5. Buiten Suriname geboren minderjarigen van wie de moeder eveneens buiten Suriname als Nederlander geboren is, die op het tijdstip van de inwerkingtreding van deze Overeenkomst in de Republiek Suriname hetzij woonplaats, hetzij werkelijk verblijf hebben en het Nederlanderschap hebben verloren ingevolge het eerste lid, herkrijgen die hoedanigheid door binnen vijf jaar na het bereiken van de meerderjarigheid hun wil daartoe te kennen te geven.
 
