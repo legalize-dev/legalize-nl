@@ -121,9 +121,3 @@ Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verst
 Dit besluit wordt aangehaald als: Besluit asbestwegen Wms.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
