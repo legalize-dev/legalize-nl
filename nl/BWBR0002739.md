@@ -4,7 +4,7 @@ identifier: "BWBR0002739"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002739"
 soort: "wet"
@@ -52,7 +52,7 @@ Onder akten worden niet alleen verstaan stukken, opgemaakt om tot bewijs te dien
 
 ##### Artikel 3
 
-Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2003-01-01&g=2003-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
+Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), moeten binnen tien dagen na de dag waarop de akten zijn opgemaakt, door die ambtenaren ter registratie worden aangeboden.
 
 ##### Artikel 4
 
@@ -62,13 +62,13 @@ Akten van notarissen, welke niet zijn genoemd in [artikel 4, eerste lid](https:/
 
 ##### Artikel 5
 
-Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2003-01-01&g=2003-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2003-01-01&g=2003-01-01), worden geregistreerd, wanneer zij daartoe worden aangeboden.
+Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), worden geregistreerd, wanneer zij daartoe worden aangeboden.
 
 ##### Artikel 6
 
 1. Op vordering van de inspecteur moet van een akte welke in een vreemde taal is gesteld, worden overgelegd een letterlijke vertaling in het Nederlands, voor overeenstemmend verklaard door een beëdigd vertaler in de zin van de wet van 6 mei 1878 (**Stb.** 30). Indien het een notariële akte betreft, kan de vertaling voor overeenstemmend worden verklaard door de notaris die de akte heeft opgemaakt.
 
-2. Ten aanzien van een akte als is bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2003-01-01&g=2003-01-01) of 4, doet de inspecteur van zijn vordering blijken door een op de akte te stellen gedagtekende en ondertekende verklaring; de akte moet met de vertaling weer worden ingeleverd binnen een maand na de dagtekening van die verklaring.
+2. Ten aanzien van een akte als is bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01) of 4, doet de inspecteur van zijn vordering blijken door een op de akte te stellen gedagtekende en ondertekende verklaring; de akte moet met de vertaling weer worden ingeleverd binnen een maand na de dagtekening van die verklaring.
 
 3. Is niet voldaan aan het eerste of tweede lid, dan wordt de aanbieding ter registratie geacht niet te hebben plaatsgehad.
 
@@ -88,7 +88,7 @@ Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci
 
 - c. toe te staan, afschriften van of uittreksels uit de onder letter **b** bedoelde bescheiden te maken, dan wel die bescheiden voor ten hoogste drie dagen tot nader onderzoek onder zich te nemen. De notaris wordt desgevraagd in de gelegenheid gesteld een afschrift van of uittreksel uit de bescheiden te maken.
 
-2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2003-01-01&g=2003-01-01), genoemde akten, zolang de beschikkers in leven zijn.
+2. Het eerste lid geldt niet ten aanzien van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), genoemde akten, zolang de beschikkers in leven zijn.
 
 3. Voldoening aan de bij het eerste lid omschreven verplichtingen kan gevorderd worden op elke dag, met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) en de bij of krachtens artikel 3 van die wet daarmede gelijkgestelde dagen, mits tussen des voormiddags negen uur en des namiddags vier uur.
 
@@ -96,7 +96,7 @@ Andere akten dan zijn bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci
 
 ##### Artikel 9
 
-De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2003-01-01&g=2003-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2003-01-01&g=2003-01-01), bedoelde andere ambtenaar.
+De notaris is bevoegd onder hem berustende akten welke niet zijn genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), voor ten hoogste veertien dagen tegen ontvangbewijs af te geven aan de inspecteur of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01), bedoelde andere ambtenaar.
 
 ##### Artikel 10
 
@@ -126,7 +126,7 @@ De Staat is aansprakelijk voor de schade wegens verlies of beschadiging van een 
 
 3. Ingeval de in het eerste lid, letter **a**, 1°, bedoelde kosten niet tijdig worden voldaan, wordt de aanbieding ter registratie geacht niet te hebben plaatsgehad.
 
-4. Met betrekking tot bezwaar tegen de op de voet van het eerste en tweede lid in rekening gebrachte kosten, met betrekking tot beroep ter zake van een uitspraak op het desbetreffende bezwaar, alsmede met betrekking tot beroep in cassatie ter zake van de desbetreffende rechterlijke uitspraak, gelden dezelfde regels als die welke van toepassing zijn op bezwaar, beroep of beroep in cassatie als bedoeld in [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V).
+4. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de op de voet van het eerste en het tweede lid in rekening gebrachte kosten is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -140,15 +140,15 @@ Onze Minister van Financiën bepaalt:
 
 - d. de wijze waarop van de registratie op de geregistreerde akten blijkt;
 
-- e. de inrichting en de wijze van bijhouding van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2003-01-01&g=2003-01-01) bedoelde repertorium.
+- e. de inrichting en de wijze van bijhouding van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2005-01-01&g=2005-01-01) bedoelde repertorium.
 
 ##### Artikel 14
 
-1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2003-01-01&g=2003-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2003-01-01&g=2003-01-01) of [13, letter **e,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13&z=2003-01-01&g=2003-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
+1. Hij die niet voldoet aan een verplichting, hem bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=3&z=2005-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2005-01-01&g=2005-01-01) of [13, letter **e,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=13&z=2005-01-01&g=2005-01-01) opgelegd, wordt gestraft met een geldboete van de eerste categorie.
 
-2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2003-01-01&g=2003-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
+2. De notaris die niet voldoet aan een verplichting, hem bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01) opgelegd, wordt gestraft met een geldboete van de tweede categorie.
 
-3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2003-01-01&g=2003-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
+3. De notaris die, ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=8&z=2005-01-01&g=2005-01-01) desgevraagd gehouden zijnde tot het verschaffen van gegevens of inlichtingen, onjuiste of onvolledige gegevens of inlichtingen verstrekt, wordt gestraft met een geldboete van de derde categorie.
 
 4. De [afdelingen 2](onbekend) en 3 van [hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX) zijn van overeenkomstige toepassing.
 
