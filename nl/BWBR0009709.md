@@ -4,7 +4,7 @@ identifier: "BWBR0009709"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-01"
-last_updated: "2002-03-08"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009709"
 soort: "wet"
@@ -52,17 +52,17 @@ Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan 
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. inrichting: een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2002-03-08&g=2002-03-08);
+- b. inrichting: een penitentiaire inrichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2003-09-01&g=2003-09-01);
 
-- c. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=8&z=2002-03-08&g=2002-03-08);
+- c. afdeling: een afdeling van een inrichting als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=8&z=2003-09-01&g=2003-09-01);
 
-- d. directeur: de persoon, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2002-03-08&g=2002-03-08), alsmede diens vervanger of vervangers, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2002-03-08&g=2002-03-08);
+- d. directeur: de persoon, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2003-09-01&g=2003-09-01), alsmede diens vervanger of vervangers, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=3&z=2003-09-01&g=2003-09-01);
 
 - e. gedetineerde: een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een inrichting plaatsvindt;
 
 - f. ambtenaar of medewerker: een persoon die een taak uitoefent in het kader van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;
 
-- g. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2002-03-08&g=2002-03-08);
+- g. selectiefunctionaris: een persoon belast met de plaatsing en overplaatsing van gedetineerden als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2003-09-01&g=2003-09-01);
 
 - h. reclasseringswerker: een reclasseringswerker als bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;
 
@@ -70,25 +70,25 @@ Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan 
 
 - j. Raad: de Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- k. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2002-03-08&g=2002-03-08);
+- k. commissie van toezicht: een commissie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2003-09-01&g=2003-09-01);
 
-- l. beklagcommissie: een commissie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2002-03-08&g=2002-03-08);
+- l. beklagcommissie: een commissie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2003-09-01&g=2003-09-01);
 
-- m. beroepscommissie: een commissie als bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2002-03-08&g=2002-03-08);
+- m. beroepscommissie: een commissie als bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2003-09-01&g=2003-09-01);
 
-- n. verblijfsruimte: de aan een gedetineerde door de directeur ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=16&z=2002-03-08&g=2002-03-08), toegewezen ruimte;
+- n. verblijfsruimte: de aan een gedetineerde door de directeur ingevolge [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=16&z=2003-09-01&g=2003-09-01), toegewezen ruimte;
 
-- o. penitentiair programma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2002-03-08&g=2002-03-08);
+- o. penitentiair programma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01);
 
-- p. huisregels: regels als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2002-03-08&g=2002-03-08);
+- p. huisregels: regels als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2003-09-01&g=2003-09-01);
 
-- q. regime: het samenstel van de verzorging en activiteiten, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2002-03-08&g=2002-03-08), en de regels die gelden voor gedetineerden in een inrichting of afdeling;
+- q. regime: het samenstel van de verzorging en activiteiten, bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2003-09-01&g=2003-09-01), en de regels die gelden voor gedetineerden in een inrichting of afdeling;
 
-- r. activiteiten: activiteiten als bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2002-03-08&g=2002-03-08);
+- r. activiteiten: activiteiten als bedoeld in [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&z=2003-09-01&g=2003-09-01);
 
 - s. vrijheidsstraf: gevangenisstraf, (vervangende) hechtenis, militaire detentie en (vervangende) jeugddetentie;
 
-- t. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor de opvang van verslaafden en vrijheidsbeneming die op andere dan de in [artikel 1, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=I&artikel=1&z=2002-03-08&g=2002-03-08), genoemde gronden plaatsvindt;
+- t. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, lijfsdwang, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor de opvang van verslaafden en vrijheidsbeneming die op andere dan de in [artikel 1, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=I&artikel=1&z=2003-09-01&g=2003-09-01), genoemde gronden plaatsvindt;
 
 - u. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het samenstel van dergelijke straffen dat nog moet worden ondergaan, waarbij wordt uitgegaan van de toepassing van de vervroegde invrijheidstelling volgens de daarvoor geldende wettelijke regeling;
 
@@ -148,21 +148,21 @@ Voor de toepassing van deze wet en de daarop rustende bepalingen wordt verstaan 
 
 4. Aan de directeur is voorbehouden de beslissing omtrent:
 
-- a. de onderbrenging van een kind in de inrichting, bedoeld in [artikel 12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2002-03-08&g=2002-03-08);
+- a. de onderbrenging van een kind in de inrichting, bedoeld in [artikel 12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2003-09-01&g=2003-09-01);
 
-- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), onderscheidenlijk [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08);
+- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), onderscheidenlijk [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01);
 
-- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2002-03-08&g=2002-03-08), op de gronden van [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2002-03-08&g=2002-03-08), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2002-03-08&g=2002-03-08);
+- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2003-09-01&g=2003-09-01), op de gronden van [artikel 23, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2003-09-01&g=2003-09-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2003-09-01&g=2003-09-01);
 
-- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2002-03-08&g=2002-03-08);
+- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2003-09-01&g=2003-09-01);
 
-- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2002-03-08&g=2002-03-08);
+- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2003-09-01&g=2003-09-01);
 
-- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2002-03-08&g=2002-03-08);
+- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2003-09-01&g=2003-09-01);
 
-- g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2002-03-08&g=2002-03-08);
+- g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2003-09-01&g=2003-09-01);
 
-- h. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2002-03-08&g=2002-03-08), en de toepassing van de [artikelen 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2002-03-08&g=2002-03-08), en [53, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2002-03-08&g=2002-03-08).
+- h. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2003-09-01&g=2003-09-01), en de toepassing van de [artikelen 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2003-09-01&g=2003-09-01), en [53, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2003-09-01&g=2003-09-01).
 
 ##### Artikel 6
 
@@ -178,7 +178,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 - b. kennis te nemen van door de gedetineerden naar voren gebrachte grieven;
 
-- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2002-03-08&g=2002-03-08);
+- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2003-09-01&g=2003-09-01);
 
 - d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.
 
@@ -190,7 +190,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 ##### Artikel 8
 
-1. Onze Minister bepaalt de bestemming van elke inrichting of afdeling ingevolge de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=9&z=2002-03-08&g=2002-03-08) en stelt regels voor de plaatsing en overplaatsing van de gedetineerden.
+1. Onze Minister bepaalt de bestemming van elke inrichting of afdeling ingevolge de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=9&z=2003-09-01&g=2003-09-01) en stelt regels voor de plaatsing en overplaatsing van de gedetineerden.
 
 2. Onze Minister kan delen van een inrichting als afdeling met een aparte bestemming aanwijzen.
 
@@ -210,11 +210,13 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 - e. gegijzelden;
 
-- f. ter beschikking gestelden ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in de [artikelen 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) is gegeven voor zolang opname in de voor hen bestemde plaats niet mogelijk is;
+- f. ter beschikking gestelden ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in de [artikelen 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38c) is gegeven voor zolang opname in de voor hen bestemde plaats niet mogelijk is;
 
-- g. personen aan wie de maatregel is opgelegd tot plaatsing in een inrichting voor de opvang van verslaafden als bedoeld in [artikel 38m van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) indien opname in de voor hen bestemde plaats niet mogelijk is;
+- g. personen ten aanzien van wie lijfsdwang als bedoeld in [artikel 577c van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577c) is bevolen;
 
-- h. alle anderen aan wie krachtens rechterlijke uitspraak of beschikking of door het openbaar gezag rechtens hun vrijheid is ontnomen, voor zover geen andere plaats voor hen is bestemd of voor zolang opname in de voor hen bestemde plaats niet mogelijk is.
+- h. personen aan wie de maatregel is opgelegd tot plaatsing in een inrichting voor de opvang van verslaafden als bedoeld in [artikel 38m van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) indien opname in de voor hen bestemde plaats niet mogelijk is;
+
+- i. alle anderen aan wie krachtens rechterlijke uitspraak of beschikking of door het openbaar gezag rechtens hun vrijheid is ontnomen, voor zover geen andere plaats voor hen is bestemd of voor zolang opname in de voor hen bestemde plaats niet mogelijk is.
 
 3. Onze Minister wijst in elk arrondissement ten minste één inrichting of afdeling aan als huis van bewaring.
 
@@ -222,7 +224,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 1. Gevangenissen zijn bestemd voor de opneming van personen die tot vrijheidsstraf zijn veroordeeld. Tot gevangenisstraf veroordeelden aan wie tevens de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd, kunnen na het einde van de vrijheidsstraf in een gevangenis verblijven, zolang opname in de voor hen bestemde plaats niet mogelijk is.
 
-2. In bijzondere gevallen kan gijzeling als bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) in een gevangenis ten uitvoer worden gelegd.
+2. In bijzondere gevallen kan gijzeling als bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) alsmede lijfsdwang als bedoeld in [artikel 577c van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=577c) in een gevangenis ten uitvoer worden gelegd.
 
 3. Gevangenissen kunnen volgens regels te stellen bij of krachtens algemene maatregel van bestuur worden onderscheiden naar de lengte van de straf of het strafrestant van de daarin op te nemen tot vrijheidsstraf veroordeelden.
 
@@ -238,7 +240,7 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 2. Onze Minister wijst inrichtingen of afdelingen aan die uitsluitend zijn bestemd voor de onderbrenging van vrouwelijke gedetineerden.
 
-3. Onze Minister kan inrichtingen of afdelingen aanwijzen waarin van het eerste lid wordt afgeweken vanwege hun bestemming als inrichting of afdeling voor bijzondere opvang als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2002-03-08&g=2002-03-08).
+3. Onze Minister kan inrichtingen of afdelingen aanwijzen waarin van het eerste lid wordt afgeweken vanwege hun bestemming als inrichting of afdeling voor bijzondere opvang als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2003-09-01&g=2003-09-01).
 
 4. De directeur kan gedetineerden van verschillend geslacht die in dezelfde inrichting verblijven in de gelegenheid stellen gezamenlijk aan activiteiten deel te nemen.
 
@@ -296,11 +298,11 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 ##### Artikel 15
 
-1. De personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast worden geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig de bestemming daarvan ingevolge [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&z=2002-03-08&g=2002-03-08). Van het bepaalde omtrent de bestemming kan worden afgeweken op gronden gelegen in de persoon van de betrokkene. Indien een persoon voor plaatsing in meer dan één inrichting of afdeling in aanmerking komt, geschiedt deze met inachtneming van [artikel 2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2002-03-08&g=2002-03-08).
+1. De personen ten aanzien van wie de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen is gelast worden geplaatst in een inrichting of afdeling dan wel overgeplaatst naar een inrichting of afdeling overeenkomstig de bestemming daarvan ingevolge [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&z=2003-09-01&g=2003-09-01). Van het bepaalde omtrent de bestemming kan worden afgeweken op gronden gelegen in de persoon van de betrokkene. Indien een persoon voor plaatsing in meer dan één inrichting of afdeling in aanmerking komt, geschiedt deze met inachtneming van [artikel 2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2003-09-01&g=2003-09-01).
 
-2. Gedetineerden die hiervoor ingevolge [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2002-03-08&g=2002-03-08), in aanmerking komen, kunnen in de gelegenheid worden gesteld tot deelname aan een penitentiair programma. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2002-03-08&g=2002-03-08), kan de deelname worden beëindigd.
+2. Gedetineerden die hiervoor ingevolge [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01), in aanmerking komen, kunnen in de gelegenheid worden gesteld tot deelname aan een penitentiair programma. Bij het niet voldoen aan de voorwaarden voor deelname, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01), kan de deelname worden beëindigd.
 
-3. Met de plaatsing en overplaatsing, bedoeld in het eerste lid, en de beslissingen, bedoeld in het tweede lid, zijn door Onze Minister als zodanig aangewezen selectiefunctionarissen belast. Deze zijn bevoegd de overbrenging van personen te bevelen naar de voor hen bestemde inrichting of afdeling dan wel ten behoeve van deelname aan het voor hen bestemde penitentiair programma dan wel de beëindiging hiervan. Zij kunnen de overbrenging doen geschieden door daartoe aangewezen ambtenaren of medewerkers. Zij zijn bovendien bevoegd tot de beslissing of ten aanzien van de individuele gedetineerde is gebleken van goed gedrag dat aanleiding geeft tot deelname van de gedetineerde aan een penitentiair programma, zodra aan de voorwaarden, bedoeld in [artikel 4, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2002-03-08&g=2002-03-08), is voldaan.
+3. Met de plaatsing en overplaatsing, bedoeld in het eerste lid, en de beslissingen, bedoeld in het tweede lid, zijn door Onze Minister als zodanig aangewezen selectiefunctionarissen belast. Deze zijn bevoegd de overbrenging van personen te bevelen naar de voor hen bestemde inrichting of afdeling dan wel ten behoeve van deelname aan het voor hen bestemde penitentiair programma dan wel de beëindiging hiervan. Zij kunnen de overbrenging doen geschieden door daartoe aangewezen ambtenaren of medewerkers. Zij zijn bovendien bevoegd tot de beslissing of ten aanzien van de individuele gedetineerde is gebleken van goed gedrag dat aanleiding geeft tot deelname van de gedetineerde aan een penitentiair programma, zodra aan de voorwaarden, bedoeld in [artikel 4, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01), is voldaan.
 
 4. De selectiefunctionarissen nemen bij de beslissingen, bedoeld in het eerste en tweede lid, de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd in aanmerking.
 
@@ -310,15 +312,15 @@ De Raad behandelt beroepschriften ingevolge de [hoofdstukken XII](onbekend), [XI
 
 ##### Artikel 15a
 
-In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2002-03-08&g=2002-03-08), kan de selectiefunctionaris bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
+In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2003-09-01&g=2003-09-01), kan de selectiefunctionaris bepalen dat een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel is gelast en die in een politiecel verblijft, daar voor een periode van maximaal tien dagen zal verblijven, nadat hij heeft vastgesteld dat er voor deze persoon geen plaats is in een inrichting. De politiecel voldoet aan de regels die voor politiecellencomplexen zijn vastgesteld.
 
 ##### Artikel 16
 
-1. De directeur bepaalt de wijze van onderbrenging van de gedetineerden die overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2002-03-08&g=2002-03-08) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
+1. De directeur bepaalt de wijze van onderbrenging van de gedetineerden die overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2003-09-01&g=2003-09-01) zijn geplaatst in de inrichting of afdeling met het beheer waarvan hij is belast.
 
-2. De directeur wijst iedere gedetineerde een verblijfsruimte toe met inachtneming van de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=20&z=2002-03-08&g=2002-03-08), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=21&z=2002-03-08&g=2002-03-08) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2002-03-08&g=2002-03-08).
+2. De directeur wijst iedere gedetineerde een verblijfsruimte toe met inachtneming van de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=20&z=2003-09-01&g=2003-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=21&z=2003-09-01&g=2003-09-01) en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=1&artikel=22&z=2003-09-01&g=2003-09-01).
 
-3. De directeur kan onderdelen van de inrichting of afdeling aanwijzen voor de onderbrenging van gedetineerden die een bijzondere opvang in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2002-03-08&g=2002-03-08) behoeven.
+3. De directeur kan onderdelen van de inrichting of afdeling aanwijzen voor de onderbrenging van gedetineerden die een bijzondere opvang in de zin van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=14&z=2003-09-01&g=2003-09-01) behoeven.
 
 4. De directeur bepaalt de criteria waaraan de gedetineerde moet voldoen om voor onderbrenging als bedoeld in het derde lid in aanmerking te komen.
 
@@ -330,15 +332,15 @@ In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid
 
 1. De betrokkene heeft het recht een met redenen omkleed bezwaarschrift in te dienen tegen de beslissing:
 
-- a. tot plaatsing of overplaatsing als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2002-03-08&g=2002-03-08);
+- a. tot plaatsing of overplaatsing als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=1&artikel=15&z=2003-09-01&g=2003-09-01);
 
 - b. tot beëindiging van zijn deelname aan een penitentiair programma.
 
-2. Op de wijze van indiening is [artikel 61, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2002-03-08&g=2002-03-08), van overeenkomstige toepassing.
+2. Op de wijze van indiening is [artikel 61, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2003-09-01&g=2003-09-01), van overeenkomstige toepassing.
 
 3. De selectiefunctionaris stelt de betrokkene in de gelegenheid schriftelijk of mondeling diens bezwaarschrift toe te lichten, tenzij hij het aanstonds kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond acht.
 
-4. De selectiefunctionaris stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2002-03-08&g=2002-03-08), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
+4. De selectiefunctionaris stelt de indiener van het bezwaarschrift binnen zes weken van zijn met redenen omklede beslissing schriftelijk en zoveel mogelijk in een voor deze begrijpelijke taal op de hoogte. Hierbij wijst hij hem op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2003-09-01&g=2003-09-01), alsmede de termijnen waarbinnen en de wijze waarop dit gedaan moet worden.
 
 5. Het indienen van een bezwaarschrift blijft achterwege, indien de betrokkene in de gelegenheid is gesteld zijn bezwaren tegen een door de selectiefunctionaris voorgenomen en hem betreffende beslissing als bedoeld in het eerste lid kenbaar te maken.
 
@@ -350,7 +352,7 @@ In afwijking van [artikel 15, eerste lid, eerste volzin](https://wetten.overheid
 
 - b. deelname aan een penitentiair programma.
 
-2. De [artikelen 61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2002-03-08&g=2002-03-08), en [17, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2002-03-08&g=2002-03-08), zijn van overeenkomstige toepassing.
+2. De [artikelen 61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2003-09-01&g=2003-09-01), en [17, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2003-09-01&g=2003-09-01), zijn van overeenkomstige toepassing.
 
 3. Indien het verzoekschrift, bedoeld in het eerste lid, is afgewezen, kan zes maanden na deze afwijzing opnieuw een dergelijk verzoekschrift worden ingediend.
 
@@ -426,13 +428,13 @@ In een regime van beperkte gemeenschap worden gedetineerden in de gelegenheid ge
 
 ##### Artikel 24
 
-1. De directeur is bevoegd een gedetineerde in afzondering te plaatsen op de gronden genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08). De afzondering ingevolge [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), duurt ten hoogste twee weken.
+1. De directeur is bevoegd een gedetineerde in afzondering te plaatsen op de gronden genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01). De afzondering ingevolge [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), duurt ten hoogste twee weken.
 
-2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de gedetineerde niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2002-03-08&g=2002-03-08). De directeur kan het contact met de buitenwereld gedurende het verblijf in de afzonderingscel beperken of uitsluiten.
+2. De afzondering wordt ten uitvoer gelegd in een afzonderingscel of in een andere verblijfsruimte. Gedurende het verblijf in afzondering neemt de gedetineerde niet deel aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2003-09-01&g=2003-09-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de afzonderingscel beperken of uitsluiten.
 
-3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
+3. De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.
 
-4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), geboden is, kan een ambtenaar of medewerker een gedetineerde voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
+4. Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), geboden is, kan een ambtenaar of medewerker een gedetineerde voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.
 
 5. De directeur draagt zorg dat in geval van afzondering het nodige contact tussen ambtenaren en medewerkers van de inrichting en de gedetineerde wordt gewaarborgd en naar aard en frequentie op de situatie van de gedetineerde wordt afgestemd.
 
@@ -496,7 +498,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De directeur kan, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting dan wel in verband met de beslissing tot plaatsing of overplaatsing dan wel in verband met de verlening van verlof, een gedetineerde verplichten urine af te staan ten behoeve van een onderzoek van die urine op aanwezigheid van gedragsbeïnvloedende middelen.
 
-2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden.[Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2002-03-08&g=2002-03-08), is van overeenkomstige toepassing.
+2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden.[Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2003-09-01&g=2003-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 31
 
@@ -504,7 +506,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. Een ambtenaar of medewerker van de inrichting waar de gedetineerde verblijft kan indien onverwijlde tenuitvoerlegging geboden is, een beslissing als bedoeld in het eerste lid nemen.
 
-3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen.[Artikel 29, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2002-03-08&g=2002-03-08), is van overeenkomstige toepassing.
+3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen.[Artikel 29, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2003-09-01&g=2003-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -530,7 +532,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - b. indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-2. [Artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2002-03-08&g=2002-03-08), is van overeenkomstige toepassing.
+2. [Artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=29&z=2003-09-01&g=2003-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 35
 
@@ -558,7 +560,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De gedetineerde heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht brieven en stukken per post te verzenden en te ontvangen. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de gedetineerde.
 
-2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor gedetineerden, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2002-03-08&g=2002-03-08), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken gedetineerde.
+2. De directeur is bevoegd enveloppen of andere poststukken, afkomstig van of bestemd voor gedetineerden, op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Indien de enveloppen of andere poststukken afkomstig zijn van of bestemd zijn voor de in [artikel 37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2003-09-01&g=2003-09-01), genoemde personen of instanties, geschiedt dit onderzoek in aanwezigheid van de betrokken gedetineerde.
 
 3. De directeur is bevoegd op de inhoud van brieven of andere poststukken afkomstig van of bestemd voor gedetineerden toezicht uit te oefenen. Dit toezicht kan omvatten het kopiëren van brieven of andere poststukken. Van de wijze van uitoefenen van toezicht wordt aan de gedetineerden tevoren mededeling gedaan.
 
@@ -574,7 +576,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 37
 
-1. [Artikel 36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08), is niet van toepassing op brieven, door de gedetineerde gericht aan of afkomstig van:
+1. [Artikel 36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01), is niet van toepassing op brieven, door de gedetineerde gericht aan of afkomstig van:
 
 - a. leden van het Koninklijk Huis;
 
@@ -608,25 +610,25 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De directeur kan het aantal tegelijkertijd tot de gedetineerde toe te laten personen beperken, indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting.
 
-3. De directeur kan de toelating tot de gedetineerde van een bepaald persoon of van bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08). Deze weigering geldt voor ten hoogste drie maanden.
+3. De directeur kan de toelating tot de gedetineerde van een bepaald persoon of van bepaalde personen weigeren, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01). Deze weigering geldt voor ten hoogste drie maanden.
 
-4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08). Dit toezicht kan omvatten het beluisteren of opnemen van het gesprek tussen de bezoeker en de gedetineerde. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
+4. De directeur kan bepalen dat tijdens het bezoek toezicht wordt uitgeoefend, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01). Dit toezicht kan omvatten het beluisteren of opnemen van het gesprek tussen de bezoeker en de gedetineerde. Tevoren wordt aan betrokkenen mededeling gedaan van de aard en de reden van het toezicht.
 
 5. Iedere bezoeker dient zich bij binnenkomst op deugdelijke wijze te legitimeren. De directeur kan bepalen dat een bezoeker aan zijn kleding wordt onderzocht op de aanwezigheid van voorwerpen die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting. Dit onderzoek kan ook betrekking hebben op door hem meegebrachte voorwerpen. De directeur is bevoegd dergelijke voorwerpen gedurende de duur van het bezoek onder zich te nemen tegen afgifte van een bewijs van ontvangst dan wel aan een opsporingsambtenaar ter hand te stellen met het oog op de voorkoming of opsporing van strafbare feiten.
 
-6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08).
+6. De directeur kan het bezoek binnen de daarvoor bestemde tijd beëindigen en de bezoeker uit de inrichting doen verwijderen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01).
 
-7. De in [artikel 37, eerste lid, onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2002-03-08&g=2002-03-08), genoemde personen en instanties hebben te allen tijde toegang tot de gedetineerde. De overige in dat lid genoemde personen en instanties hebben toegang tot de gedetineerde op in de huisregels vastgestelde tijden en plaatsen. Tijdens dit bezoek kunnen zij zich vrijelijk met de gedetineerde onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de gedetineerde een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de gedetineerde en diens rechtsbijstandverlener bij derden bekend kunnen worden.
+7. De in [artikel 37, eerste lid, onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2003-09-01&g=2003-09-01), genoemde personen en instanties hebben te allen tijde toegang tot de gedetineerde. De overige in dat lid genoemde personen en instanties hebben toegang tot de gedetineerde op in de huisregels vastgestelde tijden en plaatsen. Tijdens dit bezoek kunnen zij zich vrijelijk met de gedetineerde onderhouden, behoudens ingeval de directeur, na overleg met de desbetreffende bezoeker, van mening is dat van de gedetineerde een ernstig gevaar uitgaat voor de veiligheid van de bezoeker. In dat geval laat de directeur voor het bezoek weten welke toezichthoudende maatregelen genomen worden om het onderhoud zo ongestoord mogelijk te laten verlopen. De toezichthoudende maatregelen mogen er niet toe leiden dat vertrouwelijke mededelingen in het onderhoud tussen de gedetineerde en diens rechtsbijstandverlener bij derden bekend kunnen worden.
 
 ##### Artikel 39
 
 1. De gedetineerde heeft, behoudens de overeenkomstig het tweede tot en met het vierde lid te stellen beperkingen, het recht ten minste eenmaal per week op in de huisregels vastgestelde tijden en plaatsen en met behulp van een daartoe aangewezen toestel gedurende tien minuten een of meer telefoongesprekken te voeren met personen buiten de inrichting. De hieraan verbonden kosten komen, tenzij de directeur anders bepaalt, voor rekening van de gedetineerde.
 
-2. De directeur kan bepalen dat op de door of met de gedetineerde gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de gedetineerde een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08). Dit toezicht kan omvatten het beluisteren of opnemen van het telefoongesprek. Tevoren wordt aan de betrokkene mededeling gedaan van de aard en de reden van het toezicht.
+2. De directeur kan bepalen dat op de door of met de gedetineerde gevoerde telefoongesprekken toezicht wordt uitgeoefend, indien dit noodzakelijk is om de identiteit van de persoon met wie de gedetineerde een gesprek voert vast te stellen dan wel met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01). Dit toezicht kan omvatten het beluisteren of opnemen van het telefoongesprek. Tevoren wordt aan de betrokkene mededeling gedaan van de aard en de reden van het toezicht.
 
-3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste drie maanden.
+3. De directeur kan de gelegenheid tot het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken weigeren of een telefoongesprek binnen de daarvoor bestemde tijd beëindigen, indien dit noodzakelijk is met het oog op een belang als bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01). De beslissing tot het weigeren van een bepaald telefoongesprek of bepaalde telefoongesprekken geldt voor ten hoogste drie maanden.
 
-4. De gedetineerde wordt in staat gesteld met de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2002-03-08&g=2002-03-08), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaat. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan noodzakelijk is om de identiteit van de personen of instantie met wie de gedetineerde een telefoongesprek voert of wenst te voeren vast te stellen.
+4. De gedetineerde wordt in staat gesteld met de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=37&z=2003-09-01&g=2003-09-01), genoemde personen en instanties telefonisch contact te hebben, indien hiervoor de noodzaak en de gelegenheid bestaat. Op deze gesprekken wordt geen ander toezicht uitgeoefend dan noodzakelijk is om de identiteit van de personen of instantie met wie de gedetineerde een telefoongesprek voert of wenst te voeren vast te stellen.
 
 ##### Artikel 40
 
@@ -658,9 +660,9 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 - a. persoonlijk contact te onderhouden met de geestelijke verzorger van de godsdienst of levensovertuiging van zijn keuze, die aan de inrichting is verbonden;
 
-- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2002-03-08&g=2002-03-08);
+- b. contact te onderhouden met andere dan de onder a genoemde geestelijke verzorgers volgens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2003-09-01&g=2003-09-01);
 
-- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08) is van overeenkomstige toepassing.
+- c. in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze bij te wonen. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01) is van overeenkomstige toepassing.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ten aanzien van de beschikbaarheid van de geestelijke verzorging. Deze regels hebben betrekking op de verlening van geestelijke verzorging door of vanwege verschillende richtingen van godsdienst of levensovertuiging, op de organisatie en de bekostiging van de geestelijke verzorging en op de aanstelling van geestelijke verzorgers bij een inrichting.
 
@@ -778,7 +780,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 51
 
-1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2002-03-08&g=2002-03-08), de navolgende disciplinaire straffen opleggen:
+1. De directeur kan wegens het begaan van feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2003-09-01&g=2003-09-01), de navolgende disciplinaire straffen opleggen:
 
 - a. opsluiting in een strafcel dan wel een andere verblijfsruimte voor ten hoogste twee weken;
 
@@ -792,11 +794,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De directeur bepaalt bij de oplegging van een geldboete tevens door welke andere straf deze zal worden vervangen, ingeval de boete niet binnen de daartoe door hem gestelde termijn is betaald.
 
-3. De directeur kan voor feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2002-03-08&g=2002-03-08), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij tezamen niet langer duren dan twee weken;
+3. De directeur kan voor feiten als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2003-09-01&g=2003-09-01), meer dan één straf opleggen, met dien verstande dat de in het eerste lid onder a en c genoemde straffen slechts kunnen worden opgelegd voor zover zij tezamen niet langer duren dan twee weken;
 
 4. De oplegging van een straf laat onverlet de mogelijkheid voor de directeur om terzake van de door de gedetineerde toegebrachte schade met hem een regeling te treffen.
 
-5. Geen straf kan worden opgelegd, indien de gedetineerde voor het begaan van een feit als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2002-03-08&g=2002-03-08), niet verantwoordelijk kan worden gesteld.
+5. Geen straf kan worden opgelegd, indien de gedetineerde voor het begaan van een feit als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=50&z=2003-09-01&g=2003-09-01), niet verantwoordelijk kan worden gesteld.
 
 6. Indien een straf is opgelegd wordt deze onverwijld ten uitvoer gelegd. De directeur kan bepalen dat een straf niet of slechts ten dele ten uitvoer wordt gelegd.
 
@@ -812,7 +814,7 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. Een straf kan geheel of ten dele voorwaardelijk worden opgelegd. De proeftijd bedraagt ten hoogste drie maanden.
 
-2. De directeur stelt in elk geval als voorwaarde dat de gedetineerde zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de gedetineerde stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=58&z=2002-03-08&g=2002-03-08).
+2. De directeur stelt in elk geval als voorwaarde dat de gedetineerde zich onthoudt van het plegen van feiten die onverenigbaar zijn met de orde of de veiligheid in de inrichting dan wel met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming. De directeur kan andere voorwaarden aan het gedrag van de gedetineerde stellen. De opgelegde voorwaarden worden vermeld in de mededeling, bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=58&z=2003-09-01&g=2003-09-01).
 
 3. Bij het overtreden van een voorwaarde binnen de proeftijd kan de directeur bepalen dat de opgelegde voorwaardelijke straf geheel of ten dele ten uitvoer wordt gelegd.
 
@@ -822,11 +824,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. Van elke strafoplegging dan wel wijziging daarvan houdt de directeur aantekening.
 
-2. Indien een straf ingevolge de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2002-03-08&g=2002-03-08) of [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2002-03-08&g=2002-03-08) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening.
+2. Indien een straf ingevolge de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2003-09-01&g=2003-09-01) of [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2003-09-01&g=2003-09-01) geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening.
 
 ##### Artikel 55
 
-1. De gedetineerde aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2002-03-08&g=2002-03-08), is opgelegd is uitgesloten van het deelnemen aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2002-03-08&g=2002-03-08). De directeur kan het contact met de buitenwereld gedurende het verblijf in de strafcel beperken of uitsluiten.
+1. De gedetineerde aan wie de disciplinaire straf van opsluiting, bedoeld in [artikel 51, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2003-09-01&g=2003-09-01), is opgelegd is uitgesloten van het deelnemen aan activiteiten, voor zover de directeur niet anders bepaalt en behoudens het dagelijks verblijf in de buitenlucht, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VIII&paragraaf=2&artikel=49&z=2003-09-01&g=2003-09-01). De directeur kan het contact met de buitenwereld gedurende het verblijf in de strafcel beperken of uitsluiten.
 
 2. De directeur draagt zorg dat, ingeval de opsluiting in een strafcel ten uitvoer wordt gelegd en langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger terstond hiervan in kennis worden gesteld.
 
@@ -840,11 +842,11 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 2. De gedetineerde wordt hierbij in het bijzonder gewezen op diens bevoegdheid:
 
-- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&z=2002-03-08&g=2002-03-08);
+- a. een bezwaar- of verzoekschrift in te dienen overeenkomstig [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&z=2003-09-01&g=2003-09-01);
 
 - b. zich te wenden tot de maandcommissaris van de commissie van toezicht;
 
-- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2002-03-08&g=2002-03-08), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2002-03-08&g=2002-03-08) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2002-03-08&g=2002-03-08).
+- c. een klaag- of beroepschrift in te dienen overeenkomstig de [hoofdstukken XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2003-09-01&g=2003-09-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&z=2003-09-01&g=2003-09-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&z=2003-09-01&g=2003-09-01).
 
 3. Een gedetineerde vreemdeling wordt bij binnenkomst in de inrichting geïnformeerd over zijn recht de consulaire vertegenwoordiger van zijn land van zijn detentie op de hoogte te laten stellen.
 
@@ -852,21 +854,21 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 1. De directeur stelt de gedetineerde in de gelegenheid te worden gehoord, zoveel mogelijk in een voor hem begrijpelijke taal, alvorens hij beslist omtrent:
 
-- a. de weigering of intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2002-03-08&g=2002-03-08);
+- a. de weigering of intrekking van de toestemming om een kind in de inrichting onder te brengen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=III&artikel=12&z=2003-09-01&g=2003-09-01);
 
-- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a of b, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08);
+- b. de uitsluiting van deelname aan activiteiten en de verlenging daarvan, bedoeld in [artikel 23, eerste lid, onder a of b, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01);
 
-- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2002-03-08&g=2002-03-08), op grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2002-03-08&g=2002-03-08), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2002-03-08&g=2002-03-08), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2002-03-08&g=2002-03-08);
+- c. de plaatsing in afzondering en de verlenging hiervan, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2003-09-01&g=2003-09-01), op grond van [artikel 23, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=23&z=2003-09-01&g=2003-09-01), onderscheidenlijk [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=24&z=2003-09-01&g=2003-09-01), en de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=2&artikel=25&z=2003-09-01&g=2003-09-01);
 
-- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2002-03-08&g=2002-03-08);
+- d. de beperking en de intrekking van verlof, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=V&paragraaf=3&artikel=26&z=2003-09-01&g=2003-09-01);
 
-- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2002-03-08&g=2002-03-08);
+- e. het onderzoek in het lichaam, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=31&z=2003-09-01&g=2003-09-01);
 
-- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2002-03-08&g=2002-03-08);
+- f. het gedogen van een geneeskundige handeling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=32&z=2003-09-01&g=2003-09-01);
 
-- g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2002-03-08&g=2002-03-08);
+- g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in [artikel 33, eerste onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VI&artikel=33&z=2003-09-01&g=2003-09-01);
 
-- h. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2002-03-08&g=2002-03-08), en toepassing van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2002-03-08&g=2002-03-08) en [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2002-03-08&g=2002-03-08).
+- h. de oplegging van een disciplinaire straf, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=51&z=2003-09-01&g=2003-09-01), en toepassing van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=52&z=2003-09-01&g=2003-09-01) en [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IX&artikel=53&z=2003-09-01&g=2003-09-01).
 
 2. Zo nodig geschiedt het horen van de gedetineerde met bijstand van een tolk. Van het horen van de gedetineerde wordt aantekening gehouden.
 
@@ -878,21 +880,21 @@ Het recht van de gedetineerde op onaantastbaarheid van zijn lichaam, zijn kledin
 
 ##### Artikel 58
 
-1. De directeur geeft de gedetineerde van elke beslissing als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=57&z=2002-03-08&g=2002-03-08), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
+1. De directeur geeft de gedetineerde van elke beslissing als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=X&artikel=57&z=2003-09-01&g=2003-09-01), onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling.
 
 2. De directeur geeft de gedetineerde op de in het eerste lid omschreven wijze een mededeling omtrent:
 
-- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen, bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2002-03-08&g=2002-03-08);
+- a. de weigering van verzending of uitreiking van een brief of ander poststuk dan wel van bijgesloten voorwerpen, bedoeld in [artikel 36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=36&z=2003-09-01&g=2003-09-01);
 
-- b. de weigering van de toelating tot de gedetineerde van een bepaald persoon of bepaalde personen, bedoeld in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2002-03-08&g=2002-03-08);
+- b. de weigering van de toelating tot de gedetineerde van een bepaald persoon of bepaalde personen, bedoeld in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=38&z=2003-09-01&g=2003-09-01);
 
-- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken, bedoeld in [artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=39&z=2002-03-08&g=2002-03-08);
+- c. het verbod van het voeren van een bepaald telefoongesprek of bepaalde telefoongesprekken, bedoeld in [artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=39&z=2003-09-01&g=2003-09-01);
 
-- d. de weigering van een contact met een vertegenwoordiger van de media, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=40&z=2002-03-08&g=2002-03-08).
+- d. de weigering van een contact met een vertegenwoordiger van de media, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=VII&artikel=40&z=2003-09-01&g=2003-09-01).
 
 3. In de gevallen, genoemd in het tweede lid, kan de mededeling achterwege blijven, indien de beslissing van de directeur strekt ter uitvoering van een beperking die aan de gedetineerde is opgelegd ingevolge de [artikelen 222](https://wetten.overheid.nl/jci1.3:c:BWBR0001926&artikel=222) en [225 van de lnvoeringswet van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001926&artikel=225).
 
-4. De gedetineerde wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het instellen van beklag, bedoeld in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2002-03-08&g=2002-03-08), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
+4. De gedetineerde wordt in de mededeling, bedoeld in het eerste en tweede lid, gewezen op de mogelijkheid van het instellen van beklag, bedoeld in [hoofdstuk Xl](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2003-09-01&g=2003-09-01), de wijze waarop en de termijn waarbinnen zulks dient te geschieden, alsmede op de mogelijkheid tot het doen van een verzoek aan de voorzitter van de beroepscommissie om hangende de uitspraak op het klaagschrift de tenuitvoerlegging van de beslissing geheel of gedeeltelijk te schorsen.
 
 ##### Artikel 59
 
@@ -938,7 +940,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Aan de klager geeft de secretaris van de beklagcommissie schriftelijk kennis van de inhoud van deze inlichtingen en opmerkingen.
 
-4. De beklagcommissie kan het klaagschrift in handen stellen van het lid van de commissie van toezicht, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2002-03-08&g=2002-03-08), teneinde deze in de gelegenheid te stellen terzake te bemiddelen. De secretaris doet hiervan mededeling aan de directeur.
+4. De beklagcommissie kan het klaagschrift in handen stellen van het lid van de commissie van toezicht, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=7&z=2003-09-01&g=2003-09-01), teneinde deze in de gelegenheid te stellen terzake te bemiddelen. De secretaris doet hiervan mededeling aan de directeur.
 
 ##### Artikel 64
 
@@ -958,7 +960,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Tijdens de beklagprocedure staat de beklagcommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.
 
-4. Indien de klager elders verblijft kunnen de opmerkingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2002-03-08&g=2002-03-08), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
+4. Indien de klager elders verblijft kunnen de opmerkingen, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2003-09-01&g=2003-09-01), op verzoek van de beklagcommissie ten overstaan van een lid van een andere beklagcommissie worden gemaakt.
 
 5. Van het horen van de betrokkenen maakt de secretaris een schriftelijk verslag, dat door de voorzitter en de secretaris wordt ondertekend. Bij verhindering van een van hen wordt de reden daarvan in het verslag vermeld.
 
@@ -974,13 +976,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 2. De uitspraak is met redenen omkleed en gedagtekend. Zij bevat een verslag van het horen van personen door de beklagcommissie. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de directeur wordt onverwijld en kosteloos een afschrift van de beslissing van de beklagcommissie toegezonden of uitgereikt. De datum van die toezending of uitreiking wordt op dit afschrift aangetekend.
 
-3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2002-03-08&g=2002-03-08).
+3. De uitspraak vermeldt de mogelijkheid van het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan alsmede de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2003-09-01&g=2003-09-01).
 
 4. Indien de klager de Nederlandse taal niet voldoende beheerst en in de inrichting niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beklagcommissie zorg voor een vertaling van de uitspraak en de mededeling, bedoeld in het tweede, onderscheidenlijk derde lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt volgens regelen te stellen bij algemene maatregel van bestuur.
 
-5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Zij worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2002-03-08&g=2002-03-08). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt deze uitspraak op het klaagschrift aangetekend.
+5. De voorzitter van de beklagcommissie kan de uitspraak ook mondeling mededelen aan de klager en de directeur. Zij worden daarbij gewezen op de mogelijkheid tot het instellen van beroep bij de beroepscommissie, de wijze waarop en de termijn waarbinnen dit moet worden gedaan, alsmede op de mogelijkheid tot schorsing van de tenuitvoerlegging van de uitspraak, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=70&z=2003-09-01&g=2003-09-01). Als dag van de uitspraak geldt de dag van het doen van deze mededeling. Indien mondeling uitspraak wordt gedaan, wordt deze uitspraak op het klaagschrift aangetekend.
 
-6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2002-03-08&g=2002-03-08), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
+6. Indien het vijfde lid toepassing heeft gevonden en beroep wordt ingesteld als voorzien in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XII&artikel=69&z=2003-09-01&g=2003-09-01), vindt uitwerking van de beslissing van de beklagcommissie plaats op de wijze, bedoeld in het tweede lid. De secretaris van de beklagcommissie zendt een afschrift van deze uitspraak toe aan de directeur, de klager en de beroepscommissie.
 
 7. De secretaris zendt van alle uitspraken van de beklagcommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde van overeenkomstige toepassing.
 
@@ -1024,7 +1026,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 2. Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden, die wordt bijgestaan door een secretaris.
 
-3. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2002-03-08&g=2002-03-08), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2002-03-08&g=2002-03-08), [62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2002-03-08&g=2002-03-08), [63, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2002-03-08&g=2002-03-08), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2002-03-08&g=2002-03-08), en [65, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2002-03-08&g=2002-03-08), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
+3. Ten aanzien van de behandeling van het beroepschrift zijn de [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2003-09-01&g=2003-09-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2003-09-01&g=2003-09-01), [62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=62&z=2003-09-01&g=2003-09-01), [63, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2003-09-01&g=2003-09-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2003-09-01&g=2003-09-01), en [65, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2003-09-01&g=2003-09-01), van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:
 
 - a. de directeur en de klager uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1034,7 +1036,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 70
 
-1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 68, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2002-03-08&g=2002-03-08), inhoudt.
+1. Het indienen van een beroepschrift schorst de tenuitvoerlegging van de uitspraak van de beklagcommissie niet, behalve voor zover deze de toekenning van een tegemoetkoming als bedoeld in [artikel 68, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2003-09-01&g=2003-09-01), inhoudt.
 
 2. Hangende de uitspraak op het beroepschrift kan de voorzitter van de beroepscommissie op verzoek van degene die het beroep heeft ingesteld en gehoord de andere betrokkene in de procedure de tenuitvoerlegging van de uitspraak van de beklagcommissie geheel of gedeeltelijk schorsen. Hij doet hiervan onverwijld mededeling aan de directeur en de klager.
 
@@ -1052,15 +1054,15 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Indien het tweede lid, onder c, toepassing vindt, doet de beroepscommissie hetgeen de beklagcommissie had behoren te doen.
 
-4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2002-03-08&g=2002-03-08) en [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2002-03-08&g=2002-03-08), van overeenkomstige toepassing.
+4. Ten aanzien van de uitspraak van de beroepscommissie zijn de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2003-09-01&g=2003-09-01) en [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2003-09-01&g=2003-09-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing, deelname aan een penitentiair programma, verlof en strafonderbreking
 
 ##### Artikel 72
 
-1. De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2002-03-08&g=2002-03-08) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2002-03-08&g=2002-03-08) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2002-03-08&g=2002-03-08). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2002-03-08&g=2002-03-08), achterwege is gebleven.
+1. De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2003-09-01&g=2003-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2003-09-01&g=2003-09-01) een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2003-09-01&g=2003-09-01). De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2003-09-01&g=2003-09-01), achterwege is gebleven.
 
-2. De gedetineerde heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2002-03-08&g=2002-03-08), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2002-03-08&g=2002-03-08).
+2. De gedetineerde heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge [artikel 60, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2003-09-01&g=2003-09-01), openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XIII&artikel=73&z=2003-09-01&g=2003-09-01).
 
 ##### Artikel 73
 
@@ -1070,7 +1072,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 3. Indien de betrokkene gedetineerd is, kan de indiening van het beroepschrift geschieden door tussenkomst van de directeur van de inrichting of afdeling waar hij verblijft. De directeur draagt zorg dat het beroepschrift onverwijld van een dagtekening wordt voorzien. Als dag waarop het beroepschrift is ingediend geldt die van de dagtekening.
 
-4. De [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2002-03-08&g=2002-03-08), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2002-03-08&g=2002-03-08), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2002-03-08&g=2002-03-08), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2002-03-08&g=2002-03-08), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2002-03-08&g=2002-03-08), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2002-03-08&g=2002-03-08), [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2002-03-08&g=2002-03-08), [68, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2002-03-08&g=2002-03-08), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
+4. De [artikelen 60, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=60&z=2003-09-01&g=2003-09-01), [61, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=61&z=2003-09-01&g=2003-09-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=63&z=2003-09-01&g=2003-09-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=64&z=2003-09-01&g=2003-09-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=65&z=2003-09-01&g=2003-09-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=66&z=2003-09-01&g=2003-09-01), [67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=67&z=2003-09-01&g=2003-09-01), [68, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&artikel=68&z=2003-09-01&g=2003-09-01), zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:
 
 - a. de betrokkenen uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;
 
@@ -1086,7 +1088,7 @@ De directeur draagt zorg voor een regelmatig overleg met gedetineerden over zake
 
 ##### Artikel 75
 
-1. De in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2002-03-08&g=2002-03-08) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2002-03-08&g=2002-03-08), alsmede in de [hoofdstukken XI tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2002-03-08&g=2002-03-08) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de selectiefunctionaris of beklag- of beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
+1. De in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=17&z=2003-09-01&g=2003-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=IV&paragraaf=2&artikel=18&z=2003-09-01&g=2003-09-01), alsmede in de [hoofdstukken XI tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XI&z=2003-09-01&g=2003-09-01) aan de gedetineerde toegekende rechten kunnen, behoudens ingeval de selectiefunctionaris of beklag- of beroepscommissie van oordeel is dat zwaarwegende belangen van de gedetineerde zich daartegen verzetten, mede worden uitgeoefend door:
 
 - a. de curator, indien de gedetineerde onder curatele is gesteld;
 
@@ -1170,7 +1172,7 @@ Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
 ##### Artikel 91
 
-De Beginselenwet gevangeniswezen wordt ingetrokken, met uitzondering van [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2002-03-08&g=2002-03-08) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2002-03-08&g=2002-03-08).
+De Beginselenwet gevangeniswezen wordt ingetrokken, met uitzondering van [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=2&z=2003-09-01&g=2003-09-01) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=II&artikel=5&z=2003-09-01&g=2003-09-01).
 
 ##### Artikel 92
 
@@ -1182,7 +1184,7 @@ Deze wet heeft geen gevolgen voor klaagschriften of beroepschriften die zijn ing
 
 ##### Artikel 94
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XV&artikel=76&z=2002-03-08&g=2002-03-08) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&hoofdstuk=XV&artikel=76&z=2003-09-01&g=2003-09-01) in werking treedt.
 
 ##### Artikel 95
 
