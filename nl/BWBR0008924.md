@@ -4,7 +4,7 @@ identifier: "BWBR0008924"
 country: "nl"
 rank: "kb"
 publication_date: "2018-05-01"
-last_updated: "2000-09-29"
+last_updated: "2004-01-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008924"
 soort: "KB"
@@ -42,31 +42,29 @@ Gelet op [artikel 12**e**, onder **a**, van de Militaire Ambtenarenwet 1931](htt
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking als artikel 91a van Burgerlijk ambtenarenreglement defensie in werking treedt.
+
 ##### Artikel 1
 
-Als landen, bedoeld in [artikel 12**e**, onder **a**, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e) en [artikel 91**a**, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=91a), worden aangewezen:
+Als landen, bedoeld in [artikel 12e, onder a, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e) en [artikel 91a, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=91a), worden aangewezen:
 
-– Libië;
+- –. Afghanistan;
 
-– Syrië;
+- –. Irak;
 
-– Irak;
+- –. Iran;
 
-– Iran;
+- –. Noord-Korea;
 
-– Noord-Korea;
+- –. Pakistan;
 
-– Oekraïne;
+- –. Turkmenistan;
 
-– Rusland;
-
-– Soedan;
-
-– de Federale Republiek Joegoslavië.
+- –. Wit-Rusland.
 
 ##### Artikel 2
 
-Voor de militaire ambtenaar in werkelijke dienst die behoort tot de Militaire Inlichtingendienst, tot het verbindingsinlichtingenpersoneel of tot de categorie crypto-behandelaars die toegang heeft tot zeer geheime of geheime gegevens, dan wel ten aanzien van wie, in het belang van de veiligheid van de Staat of zijn bondgenoten, andere veiligheidsgronden daartoe noodzaken, worden in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008924&artikel=1&z=2000-09-29&g=2000-09-29) de landen aangewezen die zijn aangewezen op grond van [artikel 21, eerste lid, onder b, van de Wet op de inlichtingenen veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=21).
+Voor de militaire ambtenaar in werkelijke dienst die behoort tot de Militaire Inlichtingendienst, tot het verbindingsinlichtingenpersoneel of tot de categorie crypto-behandelaars die toegang heeft tot zeer geheime of geheime gegevens, dan wel ten aanzien van wie, in het belang van de veiligheid van de Staat of zijn bondgenoten, andere veiligheidsgronden daartoe noodzaken, worden in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008924&artikel=1&z=2004-01-09&g=2004-01-09) de landen aangewezen die zijn aangewezen op grond van [artikel 21, eerste lid, onder b, van de Wet op de inlichtingenen veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=21).
 
 ##### Artikel 3
 
