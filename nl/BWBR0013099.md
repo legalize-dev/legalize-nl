@@ -4,7 +4,7 @@ identifier: "BWBR0013099"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013099"
 soort: "wet"
@@ -161,7 +161,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 3. Het eerste lid is van overeenkomstige toepassing op de personen, niet zijnde rechterlijk ambtenaar, die deel uitmaken van een meervoudige kamer van een gerechtshof of een rechtbank.
 
-4. Indien voor of tegelijkertijd met de inwerkingtreding van deze wet geen voorstel van wet tot regeling van de behandeling van klachten tegen gedragingen van rechterlijke ambtenaren en gerechtsambtenaren door een niet tot de rechterlijke macht behorende instantie tot wet is verheven en in werking is getreden, is ten aanzien van de gerechtsambtenaren, de buitengriffiers, de gerechtsauditeurs en de rechterlijke ambtenaren in opleiding, voorzover laatstgenoemden hun opleiding bij een gerecht doorbrengen, [hoofdstuk II van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II) van overeenkomstige toepassing, met dien verstande dat voor de toepassing daarvan als bestuursorgaan wordt aangemerkt het bestuur van het gerecht, waar de betrokkene werkzaam is dan wel de opleiding doorbrengt, dan wel het bestuur van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, indien de betrokkene daarbij werkzaam is, echter uitsluitend voorzover het een gedraging van de betrokkene betreft.
+4. Indien voor of tegelijkertijd met de inwerkingtreding van deze wet geen voorstel van wet tot regeling van de behandeling van klachten tegen gedragingen van rechterlijke ambtenaren en gerechtsambtenaren door een niet tot de rechterlijke macht behorende instantie tot wet is verheven en in werking is getreden, is ten aanzien van de gerechtsambtenaren, de buitengriffiers, de gerechtsauditeurs en de rechterlijke ambtenaren in opleiding, voorzover laatstgenoemden hun opleiding bij een gerecht doorbrengen, [hoofdstuk III van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III) van overeenkomstige toepassing, met dien verstande dat voor de toepassing daarvan als bestuursorgaan wordt aangemerkt het bestuur van het gerecht, waar de betrokkene werkzaam is dan wel de opleiding doorbrengt, dan wel het bestuur van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, indien de betrokkene daarbij werkzaam is, echter uitsluitend voorzover het een gedraging van de betrokkene betreft.
 
 5. [Artikel 47, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=47) is niet van toepassing ten aanzien van de vorderingen van de procureur-generaal bij de Hoge Raad, ingesteld met toepassing van het eerste of tweede lid, alsmede de beslissingen van de Hoge Raad naar aanleiding daarvan.
 
@@ -169,7 +169,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 1. Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-2. Degenen die ingevolge [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0013099&artikel=X&z=2005-01-01&g=2005-01-01) zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris en de daarbij behorende onkostenvergoeding voor zolang zij:
+2. Degenen die ingevolge [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0013099&artikel=X&z=2005-03-15&g=2005-03-15) zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris en de daarbij behorende onkostenvergoeding voor zolang zij:
 
 - a. zijn benoemd als coördinerend vice-president senior van dat gerecht; of
 
