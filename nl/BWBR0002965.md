@@ -141,5 +141,3 @@ Dit besluit kan worden aangeduid als "Besluit ongeregeld luchtvervoer".
 Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin het is geplaatst.
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
