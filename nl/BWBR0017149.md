@@ -4,7 +4,7 @@ identifier: "BWBR0017149"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-11-12"
-last_updated: "2004-01-01"
+last_updated: "2004-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017149"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-De voorzitter en de andere leden van de Commissie toezicht bescherming persoonsgegevens OCW-veld, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017149&artikel=1&z=2004-11-12&g=2004-01-01), ontvangen naast de beloning bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017149&artikel=1&z=2004-11-12&g=2004-01-01), een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen.
+De voorzitter en de andere leden van de Commissie toezicht bescherming persoonsgegevens OCW-veld, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017149&artikel=1&z=2004-11-12&g=2004-11-12), ontvangen naast de beloning bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017149&artikel=1&z=2004-11-12&g=2004-11-12), een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen.
 
 ##### Artikel 3
 
