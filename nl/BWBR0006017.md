@@ -4,7 +4,7 @@ identifier: "BWBR0006017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2004-11-01"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006017"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ en waarbij:
 
 - K3 = 1.25 (GT + 10000)/10000,
 
-- D = holte naar de mal midscheeps gemeten in meters als omschreven in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=I&artikel=2&z=1996-01-01&g=2004-11-01),
+- D = holte naar de mal midscheeps gemeten in meters als omschreven in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=I&artikel=2&z=2004-11-26&g=2004-11-26),
 
 - d = diepgang naar de mal midscheeps gemeten in meters als omschreven in het tweede lid van dit artikel.
 
@@ -108,7 +108,7 @@ en waarbij:
 
 - N1 + N2 = totaal aantal passagiers dat het schip volgens het veiligheidscertificaat voor passagiersschepen mag vervoeren; indien N1 + N2 minder is dan 13, worden N1 en N2 geacht gelijk te zijn aan nul,
 
-- GT = bruto-tonnage van het schip als vastgesteld krachtens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=1996-01-01&g=2004-11-01).
+- GT = bruto-tonnage van het schip als vastgesteld krachtens het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=2004-11-26&g=2004-11-26).
 
 2. de diepgang naar de mal d, bedoeld in het eerste lid van dit artikel, is een van de navolgende diepgangen:
 
@@ -116,15 +116,15 @@ en waarbij:
 
 - b. voor passagiersschepen de diepgang overeenkomende met de hoogstgelegen indelingslastlijn zoals aangegeven op het veiligheidscertificaat voor passagiersschepen;
 
-- c. voor schepen waaraan geen uitwateringslijn is toegekend: de maximaal toegestane diepgang dan wel 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=I&artikel=2&z=1996-01-01&g=2004-11-01).
+- c. voor schepen waaraan geen uitwateringslijn is toegekend: de maximaal toegestane diepgang dan wel 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=I&artikel=2&z=2004-11-26&g=2004-11-26).
 
 ##### Artikel 6
 
-1. Indien de kenmerken van een schip, met name de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=1996-01-01&g=2004-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01) omschreven V, Vc, D, N1 of N2 worden gewijzigd en deze wijziging een vermeerdering van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01) vastgestelde netto-tonnage ten gevolge heeft, wordt de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip onverwijld vastgesteld en toegepast.
+1. Indien de kenmerken van een schip, met name de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=2004-11-26&g=2004-11-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26) omschreven V, Vc, D, N1 of N2 worden gewijzigd en deze wijziging een vermeerdering van de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26) vastgestelde netto-tonnage ten gevolge heeft, wordt de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip onverwijld vastgesteld en toegepast.
 
-2. Voor een schip waaraan gelijktijdig uitwateringslijnen zoals bedoeld in [artikel 5, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01) zijn toegekend, wordt slechts een netto-tonnage vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01), welke tonnage wordt berekend naar de toegekende uitwateringslijn die behoort bij het vervoer waaraan met het schip wordt deelgenomen.
+2. Voor een schip waaraan gelijktijdig uitwateringslijnen zoals bedoeld in [artikel 5, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26) zijn toegekend, wordt slechts een netto-tonnage vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26), welke tonnage wordt berekend naar de toegekende uitwateringslijn die behoort bij het vervoer waaraan met het schip wordt deelgenomen.
 
-3. Indien de kenmerken van een schip, met name de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=1996-01-01&g=2004-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01) omschreven V, Vc, D, N1 of N2 worden gewijzigd of als de desbetreffende toegekende uitwateringslijn, bedoeld in het tweede lid van dit artikel, niet meer van toepassing is door een verandering van het met het schip verrichte vervoer, en een zodanige wijziging leidt tot een vermindering van de netto-tonnage van het schip, zoals vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=1996-01-01&g=2004-11-01), mag niet worden overgegaan tot uitgifte van een nieuwe Internationale Meetbrief (1969) waarop de aldus vastgestelde netto-tonnage is vermeld, alvorens twaalf maanden zijn verstreken na de datum waarop de oorspronkelijke Meetbrief was uitgegeven.
+3. Indien de kenmerken van een schip, met name de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=4&z=2004-11-26&g=2004-11-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26) omschreven V, Vc, D, N1 of N2 worden gewijzigd of als de desbetreffende toegekende uitwateringslijn, bedoeld in het tweede lid van dit artikel, niet meer van toepassing is door een verandering van het met het schip verrichte vervoer, en een zodanige wijziging leidt tot een vermindering van de netto-tonnage van het schip, zoals vastgesteld krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006017&hoofdstuk=II&artikel=5&z=2004-11-26&g=2004-11-26), mag niet worden overgegaan tot uitgifte van een nieuwe Internationale Meetbrief (1969) waarop de aldus vastgestelde netto-tonnage is vermeld, alvorens twaalf maanden zijn verstreken na de datum waarop de oorspronkelijke Meetbrief was uitgegeven.
 
 Het bepaalde in het derde lid van dit artikel is evenwel niet van toepassing in de volgende gevallen:
 
