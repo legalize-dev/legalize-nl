@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2004-05-19"
+last_updated: "2004-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,17 +49,17 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-05-19&g=2004-05-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-05-19&g=2004-05-19), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-10-21&g=2004-10-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-10-21&g=2004-10-21), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-05-19&g=2004-05-19) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19), vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-10-21&g=2004-10-21) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21), vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-05-19&g=2004-05-19) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-10-21&g=2004-10-21) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
 
 ##### Artikel 4
 
@@ -506,7 +506,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 8.. |   |   |
 |   | 9.. | ander gebruik wordt uitgefaseerd |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -825,7 +825,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 085 |   |   |   |
 |   | 086 |   |   |   |
 | 087 |   | Persoonlijke-assistentdiensten, voor zowel vaste als mobiele toepassingen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen; – amusementsdiensten; – doorschakelen naar voornoemde diensten. | 10 | Nee |
-|   | 088 |   |   |   |
+| 088 |   | toegang tot ondernemingen en instellingen, voor zowel vaste als mobiele toepassingen, waarbij geen diensten worden geboden van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen, of diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen, of amusementsdiensten worden geboden, of betaalde dienstverlening door de nummerhouder/nummergebruiker wordt geboden die wordt afgerekend via de telefoonrekening. Bovendien is doorschakelen naar voornoemde diensten uitgesloten. | 10 | Ja, voor de duur van zes maanden na inwerkingtreding van dit besluit. |
 |   | 089 |   |   |   |
 |   |   |   |   |   |
 | 09... | 09... | Overige diensten |   |   |
@@ -902,7 +902,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 
 Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19)
+## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21)
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -963,8 +963,8 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21)
 
 Vervallen.
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-05-19&g=2004-05-19) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-10-21&g=2004-10-21) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
