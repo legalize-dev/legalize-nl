@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -135,7 +135,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 2. Geen klacht kan worden ingediend over besluiten of handelingen ter uitvoering van de Wet militair tuchtrecht.
 
-3. Op de behandeling van de klacht is [hoofdstuk 9, afdeling 2 en 3, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.
+3. Op de behandeling van de klacht zijn de [afdelingen 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2) en [9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.
 
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van dit artikel.
 
@@ -211,7 +211,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
 
-4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2005-01-01&g=2005-01-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2005-03-15&g=2005-03-15), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 12b
 
