@@ -87,9 +87,3 @@ Het Koninklijk besluit van 24 december 1980, houdende vaststelling van een minim
 Dit besluit treedt in werking met ingang van 1 juli 1983.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden naar de Raad van State.
-
-##### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit minimumjeugdloon.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden naar de Raad van State.
