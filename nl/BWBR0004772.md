@@ -1,0 +1,205 @@
+---
+title: "Besluit van 30 mei 1990, houdende het uitvoeringsbesluit Invorderingswet 1990"
+identifier: "BWBR0004772"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004772"
+soort: "AMvB"
+stam_id: "995523"
+version_id: "25556462"
+internal_id: "C36481961"
+label_id: "964834"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004772/2025-12-12/0"
+intitule_bron: "Stb.1990-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2018-514"
+original_signed_date: "2018-12-19"
+original_published_date: "2018-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-514"
+entry_into_force_date: "2018-12-19"
+jci_1_3: "jci1.3:c:BWBR0004772&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0004772&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Invorderingswet 1990"
+signed_date: "2018-12-19"
+entry_into_force: "2018-12-19"
+---
+# Besluit van 30 mei 1990, houdende het uitvoeringsbesluit Invorderingswet 1990
+
+Op de voordracht van de Staatssecretaris van Financiën van 17 maart 1989, nr. WDB89/106, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
+
+Gelet op de [artikelen 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), en [36, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) (**Stb.** 221);
+
+De Raad van State gehoord (advies van 19 juli 1989, nr. W06.89 0153);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 18 mei 1990, nr. WDB 90/273, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
+
+Hebben goedgevonden en verstaan:
+
+#### Algemeen
+
+##### Artikel 1
+
+1. Dit besluit geeft uitvoering aan de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [36 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36).
+
+2. Dit besluit verstaat hierna onder wet: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
+
+### Hoofdstuk I
+
+##### Artikel 2
+
+Vervallen
+
+##### Artikel 3
+
+Vervallen
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+Vervallen
+
+##### Artikel 5a
+
+Vervallen
+
+### Hoofdstuk II. Renteberekening
+
+##### Artikel 6
+
+Indien bij of krachtens [artikel 25, achtste, negende, elfde of zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), uitstel van betaling is verleend, wordt invorderingsrente in rekening gebracht voorzover betaling niet plaatsvindt binnen de termijn waarvoor uitstel is verleend, dan wel, voorzover het uitstel door de ontvanger wordt beëindigd, met ingang van de dag volgende op de dag waarop zich de omstandigheid voordeed welke heeft geleid tot beëindiging van het uitstel.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+##### Artikel 7
+
+1. De mededeling, bedoeld in [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36), wordt gedaan uiterlijk twee weken na de dag waarop ingevolge [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) de verschuldigde belasting behoorde te zijn afgedragen of voldaan.
+
+2. In geval van betalingsonmacht ter zake van een naheffingsaanslag die is opgelegd vanwege de omstandigheid dat de verschuldigde belasting meer beloopt dan die welke overeenkomstig de aangifte is dan wel had moeten worden afgedragen of voldaan, kan, voor zover die omstandigheid niet is te wijten aan opzet of grove schuld van het lichaam, in afwijking van het eerste lid, de mededeling worden gedaan uiterlijk twee weken na de vervaldag van die aanslag.
+
+3. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de verschuldigde belasting niet op aangifte is afgedragen of voldaan of niet is betaald.
+
+##### Artikel 8
+
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2002-01-01&g=2002-01-01), doet, is gehouden aan de ontvanger:
+
+- a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
+
+- b. boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de ontvanger - waarvan de raadpleging van belang kan zijn voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam, desgevraagd voor dit doel beschikbaar te stellen.
+
+##### Artikel 9
+
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2002-01-01&g=2002-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+
+2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
+
+3. Toegelaten moet worden, dat kopieën, leesbare afdrukken of uittreksels worden gemaakt van de voor raadpleging beschikbaar gestelde gegevensdragers of de inhoud daarvan.
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+##### Artikel 10
+
+1. Dit besluit treedt in werking met ingang van 1 juni 1990.
+
+2. Dit besluit wordt aangehaald als: Uitvoeringsbesluit Invorderingswet 1990.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 7a
+
+1. De mededeling bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b), in verbinding met [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) wordt gedaan uiterlijk twee weken na de dag waarop ingevolge de in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49), bedoelde beschikking de aansprakelijkheidsschuld had moeten zijn voldaan.
+
+2. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de aansprakelijkheidsschuld niet is voldaan.
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk II. Renteberekening
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+##### Artikel 9a
+
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2013-07-01&g=2013-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6a
+
+1. Indien twee of meer van de omstandigheden, bedoeld in het tweede lid, zich voordoen, is in ieder geval aannemelijk dat er sprake is van een verhaalsconstructie als bedoeld in [artikel 33a, derde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=33a).
+
+2. Van een omstandigheid als bedoeld in het eerste lid is sprake indien:
+
+- a. de ingevolge de belastingaanslag verschuldigde belasting waarvoor de begunstigde aansprakelijk is gesteld ten minste 30 percent afwijkt van de volgens de met betrekking tot die belasting gedane aangifte verschuldigde belasting of met betrekking tot die belasting ten onrechte geen aangifte is gedaan door de belastingschuldige;
+
+- b. zowel de materiële belastingschuld ten tijde van de benadelende handeling als de totale begunstiging meer bedraagt dan € 100.000;
+
+- c. aan de belastingschuldige in de periode ingaande vijf jaar voorafgaand aan de dagtekening van de belastingaanslag die onbetaald is gebleven een vergrijpboete is opgelegd wegens het niet voldoen aan zijn fiscale verplichtingen of de belastingschuldige in die periode strafrechtelijk is veroordeeld voor het niet voldoen aan zijn fiscale verplichtingen;
+
+- d. de begunstigde met betrekking tot de begunstiging ten onrechte geen aangifte heeft gedaan, of de begunstigde met betrekking tot de begunstiging een onjuiste of onvolledige aangifte heeft gedaan;
+
+- e. de belastingschuldige of de begunstigde met betrekking tot zijn belastingplicht of belastingschuld, onderscheidenlijk zijn aansprakelijkstelling voor de belastingschuld, niet of niet volledig heeft voldaan aan de fiscale informatieverplichtingen;
+
+- f. na het ontstaan van de materiële belastingschuld vermogensbestanddelen van de belastingschuldige zijn overgegaan op een of meer natuurlijke personen of rechtspersonen en ten minste een van die natuurlijke personen, onderscheidenlijk rechtspersonen, buiten Nederland woont, onderscheidenlijk buiten Nederland is gevestigd.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6bis
+
+1. Invorderingsrente wordt niet in rekening gebracht gedurende de periode waarin het aanbod van de ontvanger geldt om de invordering ter zake van een voorlopige aanslag in de inkomstenbelasting die betrekking heeft op het tijdvak 2022 aan te houden:
+
+- a. bij wege waarvan in ieder geval over belastbaar inkomen uit sparen en beleggen als bedoeld in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1) belasting wordt geheven; en
+
+- b. waarvan het aanslagbiljet een dagtekening heeft die is gelegen in het jaar 2022.
+
+2. Indien het aanbod van de ontvanger om de vordering aan te houden is komen te vervallen, wordt invorderingsrente berekend overeenkomstig [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), tenzij de belastingschuldige binnen zes weken nadat de ontvanger het inkomen, bedoelt in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1), opnieuw heeft vastgesteld in een voorlopige of definitieve aanslag en daarmee het eerdergenoemde aanbod is komen te vervallen, het openstaande bedrag heeft voldaan.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IIIa. Overgangsbepaling
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6ter
+
+1. Indien een aanvrager van een kinderopvangtoeslag en diens partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) naar het oordeel van de Dienst Toeslagen in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7) en dientengevolge de invordering is gepauzeerd, wordt invorderingsrente als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) of rente als bedoeld in [artikel 29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) niet in rekening gebracht over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode tot en met de dagtekening van de brief van de Dienst Toeslagen over het einde van de pauzering van de invordering.
+
+2. Indien een oordeel als bedoeld in het eerste lid ontbreekt wordt invorderingsrente als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) of rente als bedoeld in [artikel 29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) niet in rekening gebracht indien een aanvrager van een kinderopvangtoeslag en diens partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3):
+
+- a. voor 1 maart 2023 een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode vanaf de datum van de aanvraag tot en met de dagtekening van de brief van de Dienst Toeslagen over het einde van de pauzering van de invordering;
+
+- b. vanaf 1 maart 2023 een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode vanaf de datum van de aanvraag tot en met 31 december 2020.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 9b
+
+[Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2025-12-12&g=2025-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in de [artikelen 70g](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70g) of [70h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70h), wordt beëindigd.
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
