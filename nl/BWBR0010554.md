@@ -4,7 +4,7 @@ identifier: "BWBR0010554"
 country: "nl"
 rank: "kb"
 publication_date: "2012-10-01"
-last_updated: "1999-09-01"
+last_updated: "2004-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010554"
 soort: "KB"
@@ -48,15 +48,13 @@ De navolgende organisaties worden aangewezen tot het voordragen van het achter h
 
 - a. de Combinatie van Beroepsvissers: 3 leden;
 
-- b. de Nederlandse Vereniging van Sportvissersfederaties: 2 leden;
+- b. de Nederlandse Vereniging van Sportvissersfederaties: 3 leden;
 
-- c. de Vereniging van Nederlandse Autonome Sportvisserij Organisaties: 1 lid;
+- c. de Unie van Waterschappen: 1 lid;
 
-- d. de Unie van Waterschappen: 1 lid;
+- d. de Land- en Tuinbouworganisatie Nederland: 1 lid;
 
-- e. de Land- en Tuinbouworganisatie Nederland: 1 lid;
-
-- f. de Nederlandse Vereniging voor de Landelijke Eigendom: 1 lid.
+- e. de Federatie Particulier Grondbezit: 1 lid.
 
 ##### Artikel 2
 
