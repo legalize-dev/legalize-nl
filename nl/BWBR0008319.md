@@ -4,7 +4,7 @@ identifier: "BWBR0008319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-06"
-last_updated: "2002-01-01"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008319"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 - d. vertegenwoordigers van toegelaten kredietverzekeringsmaatschappijen, die worden benoemd door de Minister van Financiën.
 
-- e. drie vertegenwoordigers van de Minister van Financiën, de Minister van Economische Zaken en de Minister van Landbouw, Natuurbeheer en Visserij, die worden benoemd door de Minister van Financiën.
+- e. twee vertegenwoordigers van de Minister van Financiën en de Minister van Economische Zaken, die worden benoemd door de Minister van Financiën.
 
 3. Naast de in het tweede lid genoemde leden kan de Minister van Financiën plaatsvervangende leden benoemen.
 
@@ -76,7 +76,7 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 1. De Minister van Financiën benoemt de voorzitter, de secretaris, en hun plaatsvervangers uit de kring van vertegenwoordigers van De Neder-landsche Bank N.V.
 
-2. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is. De onder [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008319&artikel=4&z=2002-01-01&g=2002-01-01), bedoelde leden worden niet meer dan eenmaal herbenoemd.
+2. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is. De onder [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008319&artikel=4&z=2004-04-01&g=2004-04-01), bedoelde leden worden niet meer dan eenmaal herbenoemd.
 
 3. Bij tussentijdse vacature treedt de nieuwbenoemde, wat de duur van zijn benoeming betreft, in de plaats van zijn voorganger.
 
