@@ -4,7 +4,7 @@ identifier: "BWBV0002519"
 country: "nl"
 rank: "verdrag"
 publication_date: "2003-05-01"
-last_updated: "2000-01-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002519"
 soort: "verdrag"
@@ -61,7 +61,7 @@ Voor de toepassing van dit Verdrag:
 
 - 7. wordt onder „verzekeringstijdvak” verstaan een tijdvak van premiebetaling, een tijdvak van inkomsten uit loondienst of uit zelfstandige arbeid of een tijdvak van wonen, dat door de wetten krachtens welke een zodanig tijdvak is vervuld als een verzekeringstijdvak wordt omschreven of aangemerkt, of elk soortgelijk tijdvak voor zover het krachtens deze wetten met een verzekeringstijdvak wordt gelijkgesteld;
 
-- 8. wordt onder „uitkering” verstaan een uitkering of pensioen ingevolge de wetten van een van beide Verdragsluitende Staten, met inbegrip van elke verhoging van, of elke aanvulling op de uitkering of het pensioen;
+- 8. wordt onder „uitkering” verstaan een uitkering, pensioen of bijslag waarin de wetgeving van een Verdragsluitende Staat voorziet, met inbegrip van de aanvullingen of verhogingen die van toepassing zijn op die uitkering, dat pensioen of die bijslag uit hoofde van de in artikel 2 bedoelde wetgeving;
 
 - 9. elke term die niet in dit Verdrag is omschreven heeft de betekenis die daaraan wordt gegeven in de wetten die worden toegepast.
 
@@ -115,7 +115,11 @@ Tenzij anders is bepaald, is dit Verdrag van toepassing op alle personen op wie 
 
 ##### Artikel 5
 
-Tenzij in dit Verdrag anders is bepaald, zijn de bepalingen in de wetten van een Verdragsluitende Staat die de betaling van invaliditeitspensioenen, ouderdomspensioenen of pensioenen voor nagelaten betrekkingen beperken uitsluitend op grond van het feit dat een persoon niet op het grondgebied van die Verdragsluitende Staat woont of niet op dit grondgebied aanwezig is, niet van toepassing op personen die wonen op het grondgebied van de andere Verdragsluitende Staat.
+1. Tenzij in dit Verdrag anders is bepaald, zijn de bepalingen in de wetten van een Verdragsluitende Staat die de betaling van invaliditeitspensioenen, ouderdomspensioenen of pensioenen voor nagelaten betrekkingen beperken uitsluitend op grond van het feit dat een persoon niet op het grondgebied van die Verdragsluitende Staat woont of niet op dit grondgebied aanwezig is, niet van toepassing op personen die wonen op het grondgebied van de andere Verdragsluitende Staat.
+
+2. Wat Nederland betreft:
+
+Uitkeringen uit hoofde van de Nederlandse Kinderbijslagwet worden ook betaald, wanneer de desbetreffende verzekerde of het kind woont of verblijft op het grondgebied van de Verenigde Staten.
 
 ## TITEL II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETTEN
 
