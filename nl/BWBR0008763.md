@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-03-26"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -106,17 +106,7 @@ Vervallen
 
 ##### Artikel 4
 
-1. Onze Minister verzoekt aan de voorzitter van de huurcommissie van het ressort waarin de woning is gelegen een verklaring af te geven die betrekking heeft op een woning:
-
-- a. waarvoor de huurder een aanvraag doet tot toekenning van huursubsidie, en
-
-- b. die:
-
-- 1°. een zelfstandige woonruimte of een onvrije etage is, die niet wordt verhuurd door een toegelaten instelling als bedoeld in [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) of een gemeente, of
-
-- 2°. een onzelfstandige woonruimte is, welke deel uitmaakt van een woongebouw of een woning, die door Onze Minister is aangewezen krachtens [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11).
-
-2. Het eerste lid, onderdeel b, onder 1°, is van overeenkomstige toepassing, als de toegelaten instelling of de gemeente een andere verhuurder vertegenwoordigt.
+Vervallen
 
 ##### Artikel 5
 
@@ -124,7 +114,7 @@ Vervallen
 
 ##### Artikel 6
 
-De voorzitter van de huurcommissie vermeldt op de verklaring de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van de huurcommissie van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
+De voorzitter van de huurcommissie van het ressort waarin de woning is gelegen vermeldt op de verklaring de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van de huurcommissie van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
 
 ### HOOFDSTUK 5. INFORMATIEPLICHT
 
