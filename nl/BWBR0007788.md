@@ -4,7 +4,7 @@ identifier: "BWBR0007788"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2002-09-01"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007788"
 soort: "wet"
@@ -58,7 +58,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. 41,5 procent van de niet-belastingontvangsten van de staat, verkregen uit de winning van koolwaterstoffen;
 
-- b. het bedrag dat overeenkomt met de rentelasten die bespaard worden als gevolg van het in mindering brengen op de staatsschuld van de in het tweede lid omschreven opbrengsten;
+- b. het bedrag dat overeenkomt met de rentelasten die bespaard worden als gevolg van het in mindering brengen op de staatsschuld van de in het derde lid omschreven opbrengsten;
 
 - c. inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid, tot ten hoogste het nominale bedrag uit het Fes dat is besteed voor de voorfinanciering van de geraamde private bijdragen in de aanleg;
 
@@ -72,7 +72,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 2°. de verlening in het jaar 2000 van het recht om UMTS-frequenties te gebruiken.
 
-2. Opbrengsten als bedoeld in het eerste lid, onder b, zijn:
+2. Onder ontvangsten als bedoeld in het eerste lid, onder a, worden niet verstaan de ontvangsten van Energie Beheer Nederland B.V., meerjarige stand Miljoenennota 2002, voortkomend uit de verwerving van de certificaten Energie Beheer Nederland B.V.
+
+3. Opbrengsten als bedoeld in het eerste lid, onder b, zijn:
 
 - a. ontvangsten van de staat, verkregen in verband met de overbelevering van aardgas door de Nederlandse Aardolie Maatschappij b.v. aan Brigitta Erdgas und Erdöl GmbH uit aardgaswinning in de Eemsmonding,
 
@@ -80,7 +82,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. andere nader aan te wijzen ontvangsten uit het vervreemden van materiële en immateriële activa en rechten van de staat.
 
-3. Onder ontvangsten als bedoeld in het tweede lid worden niet verstaan:
+4. Onder ontvangsten als bedoeld in het derde lid worden niet verstaan:
 
 - a. de opbrengst van de verkoop van het Nederlands Omroepproduktiebedrijf n.v.;
 
@@ -90,11 +92,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. de opbrengst van de verkoop van aandelen die zijn verkregen bij wijze van dividend.
 
-4. Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.
+5. Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.
 
-5. Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het tweede lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.
+6. Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het derde lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.
 
-6. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
+7. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
 
 ##### Artikel 3
 
@@ -122,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.
 
-3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2002-09-01&g=2002-09-01).
+3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2004-10-01&g=2004-10-01).
 
 4. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=2), en [artikel 52, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=52) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.
 
