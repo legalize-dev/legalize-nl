@@ -121,19 +121,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Een wijziging van [richtlijn 97/68](31997L0068) gaat voor de toepassing van artikel 1, onderdelen b tot en met j, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Een typegoedkeuring die voor één fase van emissiegrenswaarden wordt verleend, loopt af met ingang van de verplichte tenuitvoerlegging van de grenswaarden van de volgende fase.
-
-##### Artikel 5b
-
-Indien een motortype of motorfamilie voor de uiterste datum, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=4&z=2014-02-18&g=2014-02-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=5&z=2014-02-18&g=2014-02-18), in samenhang met richtlijn 97/68, aan de emissiegrenswaarden voldoet, mag op het etiket worden aangegeven dat de motoren voor de vastgestelde data aan de emissiegrenswaarden voldoen.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
