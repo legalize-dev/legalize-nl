@@ -4,7 +4,7 @@ identifier: "BWBR0008475"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-08-02"
-last_updated: "2001-06-01"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008475"
 soort: "AMvB"
@@ -58,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - c. geneeskundig onderzoek: een militair geneeskundig onderzoek naar het bestaan van blijvende ongeschiktheid voor het vervullen van de militaire dienst;
 
-- d. pensioenkeuring: een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van verwonding, ziekten of gebreken, genoemd in [artikel E11 van de Algemene militaire pensioenwet](onbekend), alsmede zonodig naar het bestaan van arbeidsongeschiktheid in de zin van artikel E6, lid twee tot en met vier van bedoelde wet;
+- d. pensioenkeuring: een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van verwonding, ziekten of gebreken, ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake arbeidsongeschiktheid, alsmede inzake invaliditeit met dienstverband;
 
 - e. pensioenverzekeringsautoriteit: een door Onze Minister aan te wijzen medisch adviseur, die hem adviseert omtrent de pensioenverzekeringsaspecten;
 
-- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=1998-06-19&g=2001-06-01).
+- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=2003-05-23&g=2003-05-23).
 
 #### Paragraaf 2. Het geneeskundig onderzoek naar blijvende dienstongeschiktheid
 
@@ -142,11 +142,11 @@ Onze Minister kan bepalen, dat een onderzoek ten aanzien van een dienstplichtige
 
 3. De commissie brengt omtrent de eventuele pensioenaanspraken van de militair een nader rapport uit aan de pensioenverzekeringsautoriteit.
 
-4. In voorkomend geval kan de commissie tevens gevraagd worden een advies uit te brengen omtrent de vraag of en zo ja in hoeverre na ontslag alsnog sprake is van verwonding, ziekten of gebreken als bedoeld in [artikel E11 van de Algemene militaire pensioenwet](onbekend).
+4. In voorkomend geval kan de commissie tevens gevraagd worden een advies uit te brengen omtrent de vraag of en zo ja in hoeverre na ontslag alsnog sprake is van verwonding, ziekten of gebreken als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake invaliditeit met dienstverband.
 
 ##### Artikel 13
 
-1. Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in [artikel E11 van de Algemene militaire pensioenwet](onbekend) wordt uitgegaan van de War Pensions Committee-schaal zoals in de bijlage opgenomen.
+1. Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen wordt uitgegaan van de War Pensions Committee-schaal zoals in de bijlage opgenomen.
 
 2. Onze Minister kan in bepaalde gevallen afwijken van de in lid 1 genoemde schaal dan wel aanwijzingen geven ter nadere invulling van de toepassing ervan.
 
