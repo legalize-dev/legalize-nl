@@ -4,7 +4,7 @@ identifier: "BWBR0008836"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-23"
-last_updated: "2001-11-29"
+last_updated: "2003-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008836"
 soort: "ministeriele-regeling"
@@ -82,11 +82,9 @@ Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcode
 
 Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij het Ministerie van Verkeer en Waterstaat, Directie Toezicht Netwerken en Diensten.
 
-## Bijlage. , bedoeld in artikel 1, derde lid, van het besluit nummerplan internationale signaleringspuntcodes
+## Bijlage. , als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2003-10-16&g=2003-10-16), van het Besluit nummerplan internationale signaleringspuntcodes
 
-Realties tussen nummers en hun bestemmingen
-
-| **Beschikbaar voor toekenning of reservering** | **Bestemming van de nummers** | **Lengte van de nummers** |
+| Beschikbaar voor toekenning of reservering | Bestemming van de nummers | Lengte van de nummers |
 | --- | --- | --- |
 | 2-002-0 | internationaal netwerkpunt | 5 |
 | 2-002-1 | internationaal netwerkpunt | 5 |
@@ -176,5 +174,13 @@ Realties tussen nummers en hun bestemmingen
 | 2-253-5 | internationaal netwerkpunt | 5 |
 | 2-253-6 | internationaal netwerkpunt | 5 |
 | 2-253-7 | internationaal netwerkpunt | 5 |
+| 6-249-0 | internationaal netwerkpunt | 5 |
+| 6-249-1 | internationaal netwerkpunt | 5 |
+| 6-249-2 | internationaal netwerkpunt | 5 |
+| 6-249-3 | internationaal netwerkpunt | 5 |
+| 6-249-4 | internationaal netwerkpunt | 5 |
+| 6-249-5 | internationaal netwerkpunt | 5 |
+| 6-249-6 | internationaal netwerkpunt | 5 |
+| 6-249-7 | internationaal netwerkpunt | 5 |
 
 Dit besluit zal in de Staatscourant worden geplaatst.
