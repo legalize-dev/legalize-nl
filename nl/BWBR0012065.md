@@ -1,0 +1,137 @@
+---
+title: "Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluiten"
+identifier: "BWBR0012065"
+country: "nl"
+rank: "amvb"
+publication_date: "2007-07-18"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012065"
+soort: "AMvB"
+stam_id: "1459673"
+version_id: "2186572"
+internal_id: "C2186571"
+label_id: "1418434"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012065/2007-07-18/0"
+intitule_bron: "Stb.2000-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2000-640"
+original_signed_date: "2000-12-20"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-640"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012065&z=2007-07-18&g=2007-07-18"
+jci_1_0: "1.0:c:BWBR0012065&g=2007-07-18"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit van enige uitvoeringsbesluiten (belastingherziening 2001)"
+signed_date: "2000-12-20"
+entry_into_force: "2001-01-01"
+---
+# Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluiten
+
+Op de voordracht van de Staatssecretaris van Financiën van 17 november 2000, nr. WDB2000/874M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
+
+Gelet op [artikel 61 van Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=61), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15a), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g), [18h](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18h), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33) en [35c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35c), [artikel 39 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=39), artikel III van de Wet van 30 september 1986 (Stb. 479), de [artikelen 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) en [29 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29), [artikel 15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), [artikel 28 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en op [hoofdstuk 2, artikelen I, onderdeel Ra, en IV, onderdeel B, derde lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend);
+
+De Raad van State gehoord (advies van 13 december 2000, nr. W.06.00.0536/IV);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 18 december 2000, nr. WDB2000/964U, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
+
+Hebben goedgevonden en verstaan:
+
+### Hoofdstuk 1. Aanpassingen
+
+##### Artikel I
+
+Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
+
+##### Artikel II
+
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
+
+##### Artikel III
+
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
+
+##### Artikel IV
+
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
+
+##### Artikel V
+
+Wijzigt het Besluit beleggingsinstellingen.
+
+##### Artikel VI
+
+Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
+
+##### Artikel VII
+
+Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
+
+### Hoofdstuk 2. Overgangsrecht
+
+##### Artikel I
+
+1. Voor de toepassing van [artikel 3.127, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), juncto de in [Hoofdstuk 2, artikel I, onderdeel Ra, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) opgenomen overgangsregeling voor de inhaal van pensioentekorten, worden de in de kalenderjaren 1994 tot en met 2000 niet aangewende bedragen berekend en in aanmerking genomen als volgt:
+
+- a. berekend overeenkomstig de in [artikel 3.127, tweede tot en met vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127) voor het kalenderjaar 2001 geldende grondslagen en bedragen, met dien verstande dat als bedragen, genoemd in [artikel 3.127, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), in aanmerking worden genomen de bedragen die gelden in het kalenderjaar waarin de niet aangewende bedragen aan premies voor lijfrenten zijn betaald of verrekend;
+
+- b. berekend op basis van het persoonlijke inkomen, zoals dat op grond van artikel 5, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat in die jaren luidde, is vastgesteld; en
+
+- c. verminderd met de in de desbetreffende kalenderjaren gerealiseerde opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve, waarbij de vermindering in verband met de opbouw van pensioenaanspraken wordt berekend op basis van de in [artikel 7 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=7) opgenomen uitgangspunten.
+
+Op het aldus berekende bedrag aan ruimte worden vervolgens voor de berekening van de met ingang van het kalenderjaar 2001 alsnog in aanmerking te nemen bedragen, de ingevolge artikel 45a van de Wet op de inkomstenbelasting 1964, zoals dat in die jaren luidde, in aanmerking genomen premies voor lijfrenten in mindering gebracht.
+
+2. Voor de toepassing van het eerste lid kan de belastingplichtige de verzekeraar van het pensioen verzoeken om een opgave van de pensioenaangroei in een jaar dat is gelegen in de periode van 1994 tot en met 2000 te verstrekken. De opgave van de pensioenaangroei wordt door de verzekeraar van het pensioen binnen drie maanden na ontvangst van het verzoek aan de belastingplichtige verstrekt.
+
+##### Artikel II
+
+1. Indien een lichaam is opgericht na 1 januari 1998 wordt het bedrag, bedoeld in [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel b, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend), gesteld op nihil.
+
+2. Indien de belastingplichtige na 1 januari 1998 onder algemene titel vermogen verkrijgt of heeft verkregen in het kader van een fusie (juridische fusie):
+
+- a. worden voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel b, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) mede in aanmerking genomen de winstuitdelingen die door de verdwijnende rechtspersoon, volgens een bestendige gedragslijn, in de drie kalenderjaren die onmiddellijk voorafgaan aan 1 januari 2001, per jaar zijn verricht;
+
+- b. wordt voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel d, van die wet](onbekend) mede in aanmerking genomen het resultaat van de verdwijnende rechtspersoon;
+
+- c. worden voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, zesde lid, van die wet](onbekend) mede in aanmerking genomen de winstuitdelingen die in totaliteit door de verdwijnende rechtspersoon in de periode van 1 januari 2001 tot het fusietijdstip zijn verricht en wordt mede in aanmerking genomen de waarde in het economische verkeer van het in dat lid bedoelde saldo van de verdwijnende rechtspersoon.
+
+3. Indien de belastingplichtige na 1 januari 1998 onder algemene titel vermogen verkrijgt of heeft verkregen in het kader van een splitsing (juridische splitsing):
+
+- a. worden voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel b, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) de winstuitdelingen die door de splitsende rechtspersoon, volgens een bestendige gedragslijn, gedurende de drie kalenderjaren die onmiddellijk voorafgaan aan 1 januari 2001 per jaar zijn verricht, geacht voor een evenredig gedeelte te zijn gedaan door de belastingplichtige en worden, in geval van een splitsing waarbij de splitsende rechtspersoon blijft bestaan, deze winstuitdelingen door de splitsende rechtspersoon in dezelfde mate geacht te zijn verminderd;
+
+- b. wordt voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel d, van die wet](onbekend), het resultaat van de splitsende rechtspersoon geacht voor een evenredig gedeelte te zijn behaald door de belastingplichtige en wordt, in geval van splitsing waarbij de splitsende rechtspersoon blijft bestaan, het resultaat van de splitsende rechtspersoon in dezelfde mate verminderd;
+
+- c. worden voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, zesde lid, van die wet](onbekend) de winstuitdelingen die in totaliteit door de splitsende rechtspersoon zijn gedaan, geacht voor een evenredig deel te zijn verricht door de belastingplichtige en worden, in geval van splitsing waarbij de splitsende rechtspersoon blijft bestaan, de winstuitdelingen van de splitsende rechtspersoon in dezelfde mate verminderd.
+
+4. Voor de toepassing van het derde lid wordt onder evenredig gedeelte verstaan: een gedeelte dat evenredig is aan de verhouding ten tijde van de splitsing tussen de waarde in het economische verkeer van de vermogensbestanddelen van de splitsende rechtspersoon die overgaan op de belastingplichtige en de waarde in het economische verkeer van het gehele vermogen van de splitsende rechtspersoon.
+
+5. Ingeval de belastingplichtige na 1 januari 1998 onder algemene titel vermogen heeft verkregen of verkrijgt in het kader van een fusie of splitsing, wordt ten aanzien van de aandelen die door natuurlijke personen of lichamen in het kader van die fusie of splitsing worden verkregen in de belastingplichtige, ingeval die natuurlijke personen of lichamen op het moment van de fusie of splitsing een belang van ten minste vijf percent houden in de verdwijnende of splitsende vennootschap, de ononderbroken periode dat die natuurlijke personen of lichamen dat belang hebben gehouden, voor de toepassing van [hoofdstuk 2, artikel IV, onderdeel B, vierde lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend), mede in aanmerking genomen. De eerste volzin is van overeenkomstige toepassing indien de aandelen in het kader van de fusie of splitsing worden uitgereikt door een andere rechtspersoon dan de belastingplichtige.
+
+6. Voorzover aandelen of bewijzen van deelgerechtigdheid in een vennootschap die is opgericht na 1 januari 1998 bij de oprichting worden gehouden door in [hoofdstuk 2, artikel IV, onderdeel B, vierde lid, eerste volzin, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) bedoelde personen of lichamen, worden deze aandelen of bewijzen van deelgerechtigdheid voor de toepassing van dat lid geacht op dat tijdstip gedurende een ononderbroken periode van drie jaren door deze personen of lichamen, te worden gehouden.
+
+7. Ingeval op het tijdstip dat onmiddellijk voorafgaat aan een emissie van aandelen of bewijzen van deelgerechtigdheid, alle uitstaande aandelen of bewijzen van deelgerechtigdheid voldoen aan de in [hoofdstuk 2, artikel IV, onderdeel B, vierde lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) gestelde voorwaarden, worden de bij die emissie uitgegeven aandelen of bewijzen van deelgerechtigdheid voor de toepassing van genoemd onderdeel B, voor zover ze zijn uitgegeven aan op het moment van de emissie bestaande aandeelhouders of houders van bewijzen van deelgerechtigdheid, geacht bij die aandeelhouders of houders van bewijzen van deelgerechtigdheid reeds drie jaren in bezit te zijn.
+
+8. Het vijfde lid is van overeenkomstige toepassing indien aandelen in de belastingplichtige worden verkregen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55).
+
+### Hoofdstuk 3. Slotbepalingen
+
+##### Artikel I
+
+Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
+
+##### Artikel II
+
+1. Dit besluit treedt in werking met ingang van 1 januari 2001.
+
+2. [Artikel V van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012065&hoofdstuk=1&artikel=V&z=2002-01-01&g=2002-01-01) vindt voor het eerst toepassing voor boekjaren die aanvangen op of na 1 januari 2001.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
