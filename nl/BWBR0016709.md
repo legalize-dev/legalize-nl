@@ -4,7 +4,7 @@ identifier: "BWBR0016709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2004-05-19"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016709"
 soort: "ministeriele-regeling"
@@ -82,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 1. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor het gebruik van de openbare telefoondienst op een vaste locatie.
 
-2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2004-05-19&g=2004-05-19) bepaalde basisniveau van specificatie.
+2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2005-03-01&g=2005-03-01) bepaalde basisniveau van specificatie.
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
 ##### Artikel 2.3
 
-Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2004-05-19&g=2004-05-19) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
+Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2005-03-01&g=2005-03-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
 
 - a. de periode waarop de rekening betrekking heeft;
 
@@ -102,7 +102,7 @@ Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2
 
 - 2°. het toegepaste tarief dan wel het gemiddelde tarief;
 
-- 3°. het opgeroepen nummer met dien verstande dat indien het een nummer betreft van een abonnee die gebruik heeft gemaakt van een aan hem geboden mogelijkheid tot afscherming van diens nummer op nota’s die voor geleverde elektronische communicatiediensten worden uitgebracht, de vermelding van het opgeroepen nummer plaatsvindt onder afscherming van de laatste vier cijfers van dat nummer;
+- 3°. het opgeroepen nummer;
 
 - 4°. de datum waarop deze heeft plaatsgevonden;
 
@@ -200,7 +200,7 @@ Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 4.5
 
-Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2004-05-19&g=2004-05-19), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
+Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2005-03-01&g=2005-03-01), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
