@@ -4,7 +4,7 @@ identifier: "BWBR0006922"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-23"
-last_updated: "1995-01-01"
+last_updated: "2004-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006922"
 soort: "AMvB"
@@ -81,6 +81,6 @@ Dit besluit wordt aangehaald als "Besluit Rijnvaartpolitiereglement 1995".
 
 ## [Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923)
 
-Dit onderdeel is nog niet inwerking getreden
+[Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Rijnvaartpolitiereglement 1995, in het **Staatsblad** zullen worden geplaatst.
