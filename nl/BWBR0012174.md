@@ -123,7 +123,3 @@ Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR001
 ### III. De volgende planten en schimmels:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
