@@ -4,7 +4,7 @@ identifier: "BWBR0016575"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-04-15"
-last_updated: "2001-07-13"
+last_updated: "2004-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016575"
 soort: "ministeriele-regeling"
@@ -45,13 +45,13 @@ In deze regeling wordt onder ‘geluidsgevoelige ruimten van woningen’, ‘gel
 
 ##### Artikel 2
 
-1. De Minister van Verkeer en Waterstaat kan op aanvraag van de eigenaar van een woning als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2001-07-13), een subsidie verstrekken ten behoeve van:
+1. De Minister van Verkeer en Waterstaat kan op aanvraag van de eigenaar van een woning als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2004-04-15), een subsidie verstrekken ten behoeve van:
 
 - a. het aanbrengen van geluidwerende voorzieningen aan die woning voor dat gedeelte van het daarvoor benodigde bedrag dat hoger is dan de voor die woning berekende kostenbegrenzingswaarde, of
 
 - b. het realiseren van vervangende nieuwbouw van een woning.
 
-2. Met een aanvraag als bedoeld in het eerste lid, wordt gelijkgesteld de woning van een eigenaar waarvan op de dag van publicatie van deze regeling door de Minister van Verkeer en Waterstaat is vastgesteld dat die woning voldoet aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2001-07-13).
+2. Met een aanvraag als bedoeld in het eerste lid, wordt gelijkgesteld de woning van een eigenaar waarvan op de dag van publicatie van deze regeling door de Minister van Verkeer en Waterstaat is vastgesteld dat die woning voldoet aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2004-04-15).
 
 ##### Artikel 3
 
@@ -59,13 +59,13 @@ In deze regeling wordt onder ‘geluidsgevoelige ruimten van woningen’, ‘gel
 
 2. Het subsidieplafond wordt als volgt verdeeld:
 
-- a. voor de woningen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=2&z=2004-04-15&g=2001-07-13), wordt in ieder geval een subsidie verstrekt, en
+- a. voor de woningen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=2&z=2004-04-15&g=2004-04-15), wordt in ieder geval een subsidie verstrekt, en
 
-- b. vervolgens wordt met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=4&z=2004-04-15&g=2001-07-13) beslist op de resterende aanvragen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=2&z=2004-04-15&g=2001-07-13).
+- b. vervolgens wordt met inachtneming van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=4&z=2004-04-15&g=2004-04-15) beslist op de resterende aanvragen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=2&z=2004-04-15&g=2004-04-15).
 
 ##### Artikel 4
 
-Indien de ontvangen aanvragen, voor zover zij voldoen aan de voorschriften in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2001-07-13), leiden tot een bedrag aan subsidie dat hoger is dan het deel van het subsidieplafond dat beschikbaar is na de verdeling op grond van [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=3&z=2004-04-15&g=2001-07-13), wordt het resterende bedrag naar evenredigheid over die aanvragen verdeeld.
+Indien de ontvangen aanvragen, voor zover zij voldoen aan de voorschriften in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2004-04-15), leiden tot een bedrag aan subsidie dat hoger is dan het deel van het subsidieplafond dat beschikbaar is na de verdeling op grond van [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=3&z=2004-04-15&g=2004-04-15), wordt het resterende bedrag naar evenredigheid over die aanvragen verdeeld.
 
 ##### Artikel 5
 
@@ -81,7 +81,7 @@ Subsidie op grond van deze regeling kan slechts worden verstrekt met betrekking 
 
 ##### Artikel 6
 
-1. De eigenaren van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2001-07-13) bedoelde woningen ontvangen een aanbod voor het van rijkswege aanbrengen van geluidwerende voorzieningen, omvattende:
+1. De eigenaren van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=5&z=2004-04-15&g=2004-04-15) bedoelde woningen ontvangen een aanbod voor het van rijkswege aanbrengen van geluidwerende voorzieningen, omvattende:
 
 - a. een aanbod als bedoeld in [artikel 12, tweede lid, van de Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540&artikel=12) en indien van toepassing, een overeenkomst op grond van [artikel 12, tweede lid van de Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540&artikel=12), en
 
@@ -95,13 +95,13 @@ Subsidie op grond van deze regeling kan slechts worden verstrekt met betrekking 
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13), kan de eigenaar van een woning kiezen voor het zelf realiseren van vervangende nieuwbouw. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13), is van overeenkomstige toepassing.
+1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15), kan de eigenaar van een woning kiezen voor het zelf realiseren van vervangende nieuwbouw. [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15), is van overeenkomstige toepassing.
 
 2. Indien de eigenaar van de woning kiest voor vervangende nieuwbouw, wordt subsidie verstrekt onder de voorwaarde dat over de te verstrekken subsidie een overeenkomst wordt gesloten. In de overeenkomst stelt de Minister van Verkeer en Waterstaat voorwaarden.
 
-3. Indien de eigenaar van de woning vervangende nieuwbouw realiseert, verstrekt de Minister van Verkeer en Waterstaat een subsidie ter hoogte van het aanbod, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13).
+3. Indien de eigenaar van de woning vervangende nieuwbouw realiseert, verstrekt de Minister van Verkeer en Waterstaat een subsidie ter hoogte van het aanbod, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15).
 
-4. Indien het geraamde bedrag van de kosten van het van rijkswege aanbrengen van geluidwerende voorzieningen, inclusief extra uitvoeringskosten, lager is dan het bedrag van het aanbod, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13), vindt geen toepassing van het eerste lid plaats, tenzij de eigenaar van de woning het verschil tussen beide bedoelde bedragen voor zijn rekening neemt.
+4. Indien het geraamde bedrag van de kosten van het van rijkswege aanbrengen van geluidwerende voorzieningen, inclusief extra uitvoeringskosten, lager is dan het bedrag van het aanbod, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15), vindt geen toepassing van het eerste lid plaats, tenzij de eigenaar van de woning het verschil tussen beide bedoelde bedragen voor zijn rekening neemt.
 
 ##### Artikel 8
 
@@ -113,19 +113,19 @@ Subsidie op grond van deze regeling kan slechts worden verstrekt met betrekking 
 
 1. De beslissing op de aanvraag wordt genomen binnen vijf maanden na publicatie van deze regeling.
 
-2. Indien [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13), wordt toegepast kunnen in de overeenkomst, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13), voorschotten worden vastgesteld.
+2. Indien [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15), wordt toegepast kunnen in de overeenkomst, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15), voorschotten worden vastgesteld.
 
 ##### Artikel 10
 
-1. Het bedrag waarop de subsidie ten hoogste kan worden vastgesteld, bedraagt het laagste bedrag, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13), verminderd met de voor de woning berekende kostenbegrenzingswaarde.
+1. Het bedrag waarop de subsidie ten hoogste kan worden vastgesteld, bedraagt het laagste bedrag, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15), verminderd met de voor de woning berekende kostenbegrenzingswaarde.
 
 2. Vaststelling van de subsidie vindt plaats nadat door de Minister van Verkeer en Waterstaat is vastgesteld dat de daartoe in aanmerking komende geluidsgevoelige ruimten van de woning voldoen aan de geluidwerende vereisten.
 
 ##### Artikel 11
 
-1. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=10&z=2004-04-15&g=2001-07-13), bedraagt de subsidie indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13), het laagste van de bedragen, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2001-07-13).
+1. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=10&z=2004-04-15&g=2004-04-15), bedraagt de subsidie indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15), het laagste van de bedragen, genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=6&z=2004-04-15&g=2004-04-15).
 
-2. Vaststelling van de subsidie vindt indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13), plaats nadat door de Minister van Verkeer en Waterstaat is vastgesteld dat de vervangende nieuwbouw voldoet aan de voorwaarden van de overeenkomst, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13).
+2. Vaststelling van de subsidie vindt indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15), plaats nadat door de Minister van Verkeer en Waterstaat is vastgesteld dat de vervangende nieuwbouw voldoet aan de voorwaarden van de overeenkomst, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15).
 
 3. Ten behoeve van de vaststelling van de subsidie, bedoeld in het tweede lid, dient de eigenaar van de woning van wie een aanvraag is gehonoreerd, een volledig kostenoverzicht in.
 
@@ -133,11 +133,11 @@ Subsidie op grond van deze regeling kan slechts worden verstrekt met betrekking 
 
 1. De subsidie wordt verleend onder de voorwaarde dat voor het deel van de subsidie dat ten laste van een nog niet vastgestelde begroting komt, voldoende gelden ter beschikking worden gesteld.
 
-2. De subsidieverlening geschiedt onder de voorwaarde van goedkeuring door de Staten-Generaal van de in de begroting van het Ministerie van Verkeer en Waterstaat opgenomen subsidie voor het doen aanbrengen van geluidwerende voorzieningen aan de woningen respectievelijk voor het realiseren van vervangende nieuwbouw, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13).
+2. De subsidieverlening geschiedt onder de voorwaarde van goedkeuring door de Staten-Generaal van de in de begroting van het Ministerie van Verkeer en Waterstaat opgenomen subsidie voor het doen aanbrengen van geluidwerende voorzieningen aan de woningen respectievelijk voor het realiseren van vervangende nieuwbouw, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15).
 
 ##### Artikel 13
 
-De subsidieontvanger verleent indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2001-07-13), op verzoek van de Minister van Verkeer en Waterstaat alle medewerking aan het door die minister overeenkomstig [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) op te stellen en te publiceren verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk. Het verslag wordt slechts eenmaal opgesteld en gepubliceerd nadat alle op grond van deze regeling gesubsidieerde activiteiten zijn afgerond.
+De subsidieontvanger verleent indien toepassing wordt gegeven aan [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016575&artikel=7&z=2004-04-15&g=2004-04-15), op verzoek van de Minister van Verkeer en Waterstaat alle medewerking aan het door die minister overeenkomstig [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) op te stellen en te publiceren verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk. Het verslag wordt slechts eenmaal opgesteld en gepubliceerd nadat alle op grond van deze regeling gesubsidieerde activiteiten zijn afgerond.
 
 ##### Artikel 14
 
