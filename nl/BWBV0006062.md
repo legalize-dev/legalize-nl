@@ -1,0 +1,313 @@
+---
+title: "Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen"
+identifier: "BWBV0006062"
+country: "nl"
+rank: "verdrag"
+publication_date: "1940-05-06"
+last_updated: "1940-05-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006062"
+soort: "verdrag"
+stam_id: "10005008083"
+version_id: "10005329442"
+internal_id: "C10008208541"
+label_id: "10004991944"
+dtd_version: "2.0"
+original_entry_into_force: "1816-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006062/1940-05-06/0"
+intitule_bron: "Stb.1850-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1850-03-13"
+intitule_published: "1850-07-16"
+intitule_in_force: "1850-07-16"
+intitule_status: "goed"
+original_publication: "Stb.1850-10"
+original_signed_date: "1850-03-13"
+original_published_date: "1850-07-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1816-12-03"
+jci_1_3: "jci1.3:c:BWBV0006062&z=1940-05-06&g=1940-05-06"
+jci_1_0: "1.0:c:BWBV0006062&g=1940-05-06"
+citeertitel_status: "redactioneel"
+signed_date: "1850-03-13"
+entry_into_force: "1816-12-03"
+---
+# Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen
+
+ZIJNE MAJESTEIT DE KONING DER NEDERLANDEN, PRINS VAN ORANJE-NASSAU, GROOT-HERTOG VAN LUXEMBURG, ENZ. ENZ. ENZ.
+
+en
+
+ZIJNE MAJESTEIT DE KONING VAN PRUISSEN, ENZ. ENZ. ENZ.
+
+Bij tractaat van den 26ten Junij jl. bepaald hebbende de grensscheiding der beide Rijken, van de Fransche grenzen aan de Moezel tot aan het Oud-Hollandsch grondgebied bij Mook, en willende die oude grensscheiding laten onderzoeken, alsmede aan, den Neder-Rijn, op de billijkste en voegzaamste wijze, tot wederzijdsch voordeel der beide Staten, doen regelen al wat betrekking heeft tot de waterbouwkundige werken en dergelijke punten, — hebben, overeenkomstig art. 25 der slotacte van het Weener Congres, benoemd tot Commissarissen en met hunne volmagten voorzien, te weten:
+
+Zijne Majesteit de Koning der Nederlanden, de Heeren **Maximiliaan Jacob de Man**, Kolonel van het Corps der Genie, Directeur der Archieven van Oorlog en van het Topographisch bureau, Ridder der Militaire Willems-orde, 3de klasse, en**Jan Blanken Jz.**, Inspecteur-Generaal van den Waterstaat, Ridder der Orde van den Nederlandschen Leeuw, en
+
+Zijne Majesteit de Koning van Pruissen: den Heer **Frederik** Graaf von Solms Laubach, Eersten President der Hertogdommen Gulik, Kleef en Berg, Grootkruis der Orde van den Rooden Adelaar en der Orde van St. Anna van Rusland, dewelke, gebruik makende van de bevoegdheid, hem bij zijne volmagt verleend, tot datzelfde einde heeft gedelegeerd en met gelijke volmagten voorzien als de zijne, de Heeren **Frederik Willem von Bernuth**, Opper-Regerings-President te Arnsberg, en **Johan Albert Eytelwein**, Geheimraad en Directeur-Generaal der Openbare Werken van het Koningrijk.
+
+Welke Commissarissen, na hunne volmagten uitgewisseld en in orde bevonden te hebben, wegens de volgende punten en artikelen zijn overeengekomen.
+
+##### Art. 1
+
+De grenzen bij het tegenwoordig tractaat vastgesteld, bepalen de grensscheiding tusschen de beide Staten, van het punt alwaar de grenzen langs de Maas het oude Hollandsche grondgebied raken bij de huizen genaamd **Aan het end**, tot aan het grondgebied van Hannover, alwaar de grenslijn tusschen de twee Koningrijken eindigt.
+
+##### Art. 2
+
+De grenslijn zal aan het bovengenoemde punt beginnen, en de grensscheiding volgen tusschen het Oude Hollandsche Pruissische grondgebied, zoo als die zich bevond in 1795, in dier voege, dat de Plak, het Schildbroek, de Steenbergsche heide en het Nederrijksche bosch, aan het Koningrijk der Nederlanden zullen verblijven; en het Kleefsche Bosch, de Lindenbergsche Hof, de Roode Leeuw, de Halvemaan en het grondgebied van Wilder aan het Koningrijk Pruissen.
+
+Aan de Halvemaan zal zij den grooten weg van Kleef op Nijmegen dwars overgaan, en dien weg volgen tot aan het huis genaamd Koning van Pruissen, welk huis aan het Koningrijk Pruissen verblijven zal, zoodanig dat de gezegde weg geheel van de bovengemelde Halvemaan, tot het Koningrijk der Nederlanden behooren zal.
+
+Van het huis, genaamd Koning van Pruissen, zal de lijn den grooten heerbaan verlaten, zich rigtende op het huis, genaamd de Mussenberg, bij het dorp Beek, latende dit huis aan Pruissen en het dorp aan de Nederlanden. Van de Mussenberg rigt zich de oude grensscheiding oostwaarts tot aan Aartjes Hof, hetwelk met den Wilderschen weg aan Pruissen verblijft; van daar noordwaarts, volgende de oude waterleiding tot aan de waterloozing van Zijfflich en deze waterloozing tot aan de grenzen tusschen Zijfflich en Loeth, zoodanig dat de Tornsche molen, met de aldaar gelegene huizen en het terrein van Zijfflich, tusschen de uitwatering en het Ooijsche water, zullen behooren tot de Nederlanden, — en het Wildersche meer, met het gedeelte der waterloozing van Zijfflich, tusschen den Tornschen molen en de grenzen van Loeth, geheel aan Pruissen zullen behooren.
+
+De grenslijn zal vervolgens de gezegde scheiding tusschen Zijfflich en Loeth volgen, tot aan het zuidelijkste punt der heerlijkheid Millingen, en vervolgens de oude oostelijke grenzen dier heerlijkheid tot aan de Waal, zoodanig dat Zijfflich, Niehl en Bimmen aan het Koningrijk Pruissen blijven, en dat Loeth, Hulthuizen, Kekerdom en Millingen een gedeelte van het Koningrijk der Nederlanden zullen uitmaken.
+
+##### Art. 3
+
+Van het punt, alwaar de grens van Millingen aan de Waal raakt, zal de grenslijn zich in regte lijn rigten op den toren van Aerdt, tot aan het middenpunt van de regelmatige breedte der rivier, welk middenpunt opwaarts, voor Thalweg zal worden genomen, en de grensscheiding bepalen zal tot tegen over de verlenging der linkerzijde van den weg van Stokman naar Elten, in dier voege dat de Schenkeschans met deszelfs gebied een gedeelte van het Koningrijk Pruissen zal uitmaken, en dat de Kijfwaard, de Bijlandsche Waard, 's Gravenwaard, het Lobith, het Boven- en Beneden-Spijk, daaronder begrepen de enclave van het gebied van Elten, aan het Koningrijk der Nederlanden behooren zullen.
+
+##### Art. 4
+
+Van het bovengezegde midden van den Rijn, zal de grensscheiding de rivier verlaten, en zich noordwaarts wenden, den linker zoom van den weg van Stokman naar Elten langs gaande, tot aan het midden van de beek, genaamd de Wildt, latende den weg, genaamd de Postweg, met de brug over de Wildt, in zijn geheel aan Pruissen, en het gedeelte van Elten, gelegen tusschen dezen Postweg, het Boven-Spijk, den ouden Rijn en de Wildt, aan de Nederlanden.
+
+De Pruissische onderdanen zullen de bevoegdheid hebben de Spijksche dijken vrij over te gaan, en wederkeerig zal de gezegde postweg altijd vrij en open blijven voor de onderdanen der Nederlanden.
+
+##### Art. 5
+
+De grenslijn zal het midden der beek de Wildt volgen tot aan den Ouden Rijn, en zal van daar het Eltensche gebied langs gaan, aan den regter oever van den ouden Rijn, en de kom, genaamd de Kam, tot aan den zomerdam van den Steenwaard, zoodanig dat de Kam en het Houwbergsche veerhuis, met de huizen tot aan de grens van Elten, aan het Koningrijk der Nederlanden behooren zullen.
+
+Gekomen aan den zomerdam, welke geheel aan Pruissen blijft, zal zij de buitenglooijing op een' afstand van 12 voeten Rijnlandsche maat langs gaan, tot aan de oude zuidelijke grenzen der heerlijkheid Grondstein, en zal deze grenzen volgen langs den regter oever van den Ouden Rijn, tot beneden de weide, behoorende tot het huis genaamd Waardmanshof, zoodanig dat het gedeelte van de Kijkuit, tusschen gezegde weide en den Ouden Rijn gelegen, aan het Koningrijk Pruissen behooren zal. Vervolgens zal de lijn de westelijke sloot van deze weide volgen, tot aan den weg de verlenging der zomerkade uitmakende, en zal zij dezen weg in eene noordelijke rigting tot aan de eerste sloot ter regterzijde langs gaan, en deze sloot, als ook de zuidelijke sloot van de Smitsweide, tot aan den afstand van 3 roeden Rijnlandsche maat van de oostelijke sloot dier weide, volgen.
+
+Van dit punt, zal de grensscheiding zich evenwijdig met gezegde oostelijke sloot rigten tot aan de noordelijke grenzen van Grondstein, in dier voege, dat de Steenwaard met den zomerdam, de heerlijkheid Grondstein, en de oostelijke sloot van de Smetsweide, met de 3 roeden aan de overzijde, ten einde daarvan eenen weg te maken, welke op den weg van Zevenaar naar Elten uitloopt, tot het Koningrijk van Pruissen behooren zullen; en de Kribmeestersweide, de Meeuwenpollen en het gedeelte van den Noteboomschen polder, alwaar zich de overlaat van de Lijmers bevindt, geheel tot het Koningrijk der Nederlanden.
+
+##### Art. 6
+
+Vervolgens zal de grenslijn langs de noordelijke grenzen van Grondstein gaan, tot aan een land behoorende aan de kerk van Elten, tusschen den weg van Zevenaar naar Elten en de uitstekende punt van Grondstein gelegen. Van daar zal zij de oude grenzen tusschen Elten en de Lijmers volgen, en zich in eene regte lijn op de oude grens van Gelderland rigten, zoodanig dat de huizen van Velthuizen aan Pruissen blijven en de uitstekende punt door de oude grensscheiding ter linkerzijde gevormd, aan de Nederlanden.
+
+Eindelijk zal zij de grenzen tussen grondgebied van Elten en dat van het proostschap van Emmerik, alsmede die van Beek en 's Heerenberg, zoo als die zich in 1795 bevonden, tot aan de beek, gezegd de Wildt, langs gaan.
+
+##### Art. 7
+
+Van de Wildt zal zij zich oostwaarts wenden door het midden van deze beek en van de Bergsche Wetering, tot aan de landweer of schouwgracht van Netterden, en zal insgelijks het midden van deze schouwgracht volgen tot aan de sluis, welke in den zomerdam van klein Netterden gelegd zal worden. Deze sluis zal geheel aan Pruissen blijven, en de lijn zal, na zich om dezelve te hebben heen gewend, het midden volgen van het uitwateringskanaal, tot aan de oude grensscheiding tusschen de beide Koningrijken, ten oosten van de Nettersche landweer te graven.
+
+Door deze bepaling zal het terrein, waarin zich bevindt de Linthorst, de Bosch, de Botberg, Klein Netterden, Speelberg, Borghees enz., en hetwelk tusschen de oude grenzen van Huttum en Emmerik gelegen is, het nieuw te graven uitwaterings-kanaal, de sluis van Klein Netterden, de Schouwgraaf, de Bergsche Wetering en de Wildt, van nu voortaan aan Zijne Majesteit den Koning van Pruissen behooren.
+
+##### Art. 8
+
+Op de bijzondere kaart, bij dit tractaat gevoegd, en door de respective Commissarissen geteekend, zullen de hierboven omschreven grenzen bepaaldelijk afgeteekend worden.
+
+##### Art. 9
+
+Van gezegd punt, ten oosten der landweer van Hetter tot aan de Hannoversche grenzen, zal de grenslijn dezelfde als in 1795 blijven, en zal in hare bijzonderheden slechts bij de algemeene plaatsing der palen bepaald worden, aangezien zich noch verschil noch aanmerking nopens hare rigting voordoet.
+
+##### Art. 10
+
+Behalve de gedeelten grondgebied, welke, ten gevolge der grensscheiding, bij de vorige artikelen bepaald, van heerschappij zullen veranderen, zal Oberbillig, met het grondgebied op den regter oever van de Moesel gelegen, en volgens het tractaat van Aken van den 26sten Junij jl. aan het Koningrijk der Nederlanden moetende behooren, aan het Koningrijk Pruissen verblijven.
+
+##### Art. 11
+
+Al de Waterbouwkundige werken enz, aan weêrskanten der rivier gelegen, zullen voortaan alleenlijk ten laste en ter bijzondere beschikking komen van den Vorst, die het bij art. 3 bepaalde grondgebied aan beide zijden van den Thalweg bezit.
+
+##### Art. 12
+
+Er zal in de bedding der rivier, ten ware bij voorafgaand overleg en gemeenschappelijk goedvinden der beide Mogendheden, geen offensief werk mogen worden daargesteld, hetwelk aan den stroom en daardoor aan den tegenovergestelden oever schadelijk zou kunnen zijn. Insgelijks is het gelegen met de nieuwe werken aan het buitenterrein der dijken, welke den stroom en den ijsgang zouden kunnen belemmeren of tegenhouden.
+
+##### Art. 13
+
+De eigenlijke breedte der rivier wordt gerekend op 150 roeden (Rijnlandsche maat), genomen ter middelbare hoogte van 8 voet en 6 duim aan de pijlschaal te Pannerden, overeenkomende met 6 voet en 4 duim aan de pijlschaal van Emmerik.
+
+Geene rijs- of aanplantingen hoegenaamd, die den tegenovergestelden oever der rivier op een afstand van minder dan 150 roeden zouden naderen, zullen mogen geduld worden, in dier voege, dat zij niet alleen op die normale breedte zullen verboden zijn, maar zelfs dat de thans bestaande, welke de breedte van 100 roeden overschrijden, tot op den wortel zullen worden geveld of uitgerukt.
+
+Indien het intusschen mogt worden noodig geoordeeld, eenige aanplanting, in strijd met die bepalingen, van de eene of andere zijde te doen, dan zullen de respective autoriteiten zich vooraf over de uitvoering daarvan moeten verstaan.
+
+##### Art. 14
+
+Geene der beide Mogendheden zal immer, op gezegde normale breedte van 150 roeden, aan haren kant tegenover den vreemden oever laten uitoefenen of toestaan het visschen van zalm of andere visch hoe ook genaamd, door middel van steken of andere middelen welke in den loop van het water eenige de minste vertraging zouden kunnen veroorzaken, of eenigermate eene ophooping van kiezel, zand of andere voorwerpen bevorderlijk kunnen zijn, die aanwas van grond zouden kunnen te weeg brengen.
+
+##### Art. 15
+
+Het oppergezag over de visscherij op den Beneden-Rijn zal bepaald worden door eene regte lijn, te trekken van de toren van Keken op die van Lobith, zoodanig dat het gedeelte bovenwaarts die lijn, aan Zijne Majesteit den Koning van Pruissen, en het gedeelte benedenwaarts aan Zijne Majesteit den Koning der Nederlanden behooren zal.
+
+##### Art. 16
+
+Indien zich ondiepten of zandbanken in het midden der rivier mogten vormen, zoodanig dat het nuttig is de nadeelige gevolgen voor de algemeene scheepvaart er van voor te komen, zoo zal men in overleg treden omtrent de maatregelen, met wederzijdsch goedvinden te nemen om verdere ongelegenheden tegen te gaan.
+
+##### Art. 17
+
+Vervallen
+
+##### Art. 18
+
+De overeenkomsten van den 23sten September 1745 en van den 4den Julij 1771 worden bij het tegenwoordig tractaat vernietigd.
+
+##### Art. 19
+
+Vervallen
+
+##### Art. 20
+
+Opdat de afloop van het water van den polder de Hetter, zonder aan het naburig grondgebied der Nederlanden te schaden, plaats grijpe, zal in den zomerdam de klein Netterden een gemetseld sluisje met twee wel gesloten valdeuren worden gemaakt.
+
+De opening der afwatering zal zijn van 4 tot 5 voeten (Rijnlandsche maat), en de grond of de bodem zal niet lager dan een voet beneden dien der groote sluis van Nieder-Hetter, nabij den Leeuwenberg, in den Hoofd-Rijndijk, boven Emmerik, worden gelegd.
+
+Noch de muren, noch de waterkeering der nieuwe sluis van Klein Netterden, zullen immer beneden de tegenwoordige hoogte van gezegden zomerdam van Netterden mogen zijn, gelijkstaande aan n°. 13 voet der pijlschaal, die op dit oogenblik aan den kant opwaarts van gezegde groote sluis van Leeuwenberg bestaat.
+
+##### Art. 21
+
+Geen der valdeuren van de nieuwe sluis van Klein Netterden mag worden opgehaald, dan wanneer de landweer of schouwgracht van Netterden, de Bergsche Wetering en de Wildt, zullen zijn op hunne diepten, breedten en geheele opening, bedongen bij art. 22, en wanneer alsdan het water in de schouwgracht, beneden gezegde nieuwe sluis, ten minste tot n°. 10 voet aan de pijlschaal der groote sluis van Leeuwenberg zal gedaald zijn, of, hetgeen op hetzelfde neerkomt, op drie voet nederwaarts van de grootste hoogte, welke bij het volgend artikel bepaald is, voor de nieuwe sluis van Klein Netterden, en de kruin van den zomerdam van dien naam.
+
+##### Art. 22
+
+De algemeene afmetingen, bepaald voor de, afwateringen, zijn als volgt:
+
+- 1°. De diepte van de afwaterings-sloot, op het vlak der bedding, aan het oostelijk uiteinde, nabij de gezegde nieuwe sluis van Klein Netterden, zal gelijk zijn met den vloer dierzelfde sluis, en zal in eene afdalende helling loopen naar het tegenovergestelde uiteinde in den ouden Rijn, op de tegenwoordige diepte der Wildt, onder de brug in den postweg nabij den Eltenberg.
+
+- 2°. De breedte op het vlak der bedding van het kanaal zal ten minste moeten zijn:
+
+- a. 6 voet voor de te graven afwaterings-sloot en voor het gedeelte genaamd de Nettersche landweer of Schouwgraaf;
+
+- b. 8 voet voor de Bergsche Wetering;
+
+- c. 12 voet voor de beek de Wildt.
+
+- 3°. De glooijingen zullen van anderhalf of tweemaal de hoogte zijn, naarmate van de hoedanigheid der te vergraven aarde.
+
+- 4°. Van de nieuwe sluis van Klein Netterden tot aan Emmerick, zal de hoogte van den zomerdam of aan elke andere waterkeering, welke ook, niet beneden het n°. 13 voet der gezegde peilschaal der groote sluis van Leeuwenberg mogen verlaagd worden
+
+Uitgezonderd die van Klein Netterden, zal geene sluis verlaagd, of doorsnijding hoe ook genaamd, in gezegden zomerdam mogen worden gebouwd of daargesteld.
+
+Geen afwaterings-sloot, breeder dan drie voet op de bedding zal gegraven worden:
+
+- a. benedenwaarts van voornoemden zomerdam;
+
+- b. in de geheele uitgestrektheid van het terrein tusschen de Wildt, de Bergsche Wetering, de Schouwgraaf en de oude grenzen van Emmerik;
+
+- c. in de landen van Huttum tot aan den postweg van Elten naar Stokman.
+
+Het Pruissische Gouvernement zal binnen den kortst mogelijken tijd, ieder gebrek, ten aanzien der bepalingen onder 4°, doen verhelpen.
+
+##### Art. 23
+
+De bermen of de gronden, aan iederen kant der afwaterings-sloot zullen, met de uit te graven aarde worden opgehoogd en gelijk gemaakt, des noodig met de gronden aan beide zijden der sloot, zonder eenige vergoeding voor de gedeelten terrein met gezegde uitgegraven aarde bedekt, welke ten laste van het Pruissisch Gouvernement zullen zijn.
+
+##### Art. 24
+
+Ingeval dat de nieuw te graven sloot, alsmede de Nettersche schouwgraaf, naburige wegen of andere, hoe ook genaamd, doorsnijdt, zal het Pruissisch Gouvernement daar ter plaatsen hechte en voldoende bruggen doen leggen, opdat de overgang in geenen deele belemmerd worde.
+
+Hetzelve zal insgelijks ten zijnen laste nemen, niet alleen de verbreeding der Wildt, de Bergsche Wetering en het graven der nieuwe afwaterings-sloot, alles op de afmetingen bij art. 22 bepaald, maar ook het maken van alle nieuwe aarde- of metselwerken.
+
+##### Art. 25
+
+Hoe onderhoud van gezegde afwatering, voor zoo verre zij de grensscheiding, beginnende aan de limieten van Nieder-Hetter, daarstelt, zal door beide Staten gemeenschappelijk worden gedragen, terwijl hetzelve ten laste zal komen van iederen Staat op wiens grondgebied die afwatering geheel zal gelegen zijn.
+
+De sluis van Nieder-Hetter zal geheel ten laste van het Pruissisch Gouvernement komen.
+
+##### Art. 26
+
+Voor zoo veel verbreedingen of veranderingen van oude bruggen voor de waterloozing der Hetter noodig mogten zijn, zal het Pruissisch Gouvernement in de kosten der eerste vermaking voorzien; maar het onderhoud zoo wel van die nieuwe werken als van de bruggen en werken vóór het graven der bedoelde waterloozing bestaande, zal ten laste der beide Staten komen.
+
+##### Art. 27
+
+De groote sluizen in den Hoofd-Rijndijk, tusschen Emmerik en Wezel bestaande, zullen niet weggenomen, gesloten, of in hun afwaterings-vermogen naar gemelde groote rivier verminderd mogen worden; opdat alle die sluizen, zoo als thans, in goeden staat blijven tot het gemakkelijk afvoeren van het overstroomings- of regenwater van de geheele uitgestrektheid van het land, achter die hoofddjjken gelegen.
+
+Ingeval van de zijde van Pruissen eenige verandering in de bedoelde sluizen mogt worden noodig geoordeeld, zal men zich dienaangaande met de bevoegde Nederlandsche autoriteiten verstaan, en indien het Gouvernement van dat Rijk daarin toestemt, zal het beding, in dit artikel vervat, veranderingen kunnen ondergaan
+
+##### Art. 28
+
+Alle voornoemde werken en voorwerpen, van den zomerdam van Klein Netterden tot aan de vereeniging der Wildt met den ouden Rijn, zullen tweemaal in 't jaar, in de maanden Junij en October, door Commissarissen en deskundigen, van weêrskanten te benoemen, in oogenschouw worden genomen, overeenkomstig een reglement, met gemeen overleg op te stellen. Welke Commissarissen en deskundigen, van 't oogenblik hunner bemoeijing, de bevoegdheid zullen hebben om over al de te maken en te onderhouden werken toezigt te houden.
+
+##### Art. 29
+
+Onafhankelijk van de bedoelde inspectien, zal de algemeene Directie van den Waterstaat van het Koningrijk der Nederlanden ten allen tijde de bevoegdheid hebben, om alle de werken betrekkelijk gezegde afwatering, van den zomerdam van Klein Netterden, tot aan de vereeniging der Wildt met den ouden Rijn, te doen nazien, na alvorens de Pruissische Directie daarvan te hebben verwittigd, tijdig genoeg om ingenieurs of inspecteurs te kunnen voegen bij die der gezegde algemeene Directie van den Waterstaat, ten einde tot hetzelfde doel mede te werken.
+
+##### Art. 30
+
+Overal waar beken de grensscheidingen vormen, zullen deze voor beide Staten gemeen zijn, ten ware het tegendeel stellig bepaald zij; en wanneer dezelve gemeen zijn, zal het onderhoud der bruggen, het schoonhouden enz., met gemeen overleg en op gemeene kosten geschieden, althans, indien bestaande overeenkomsten tusschen gemeenten andere andere bepalingen bevatten. Doch zal iedere Staat uitsluitend met het onderhoud der aan deszelfs zijde gelegen oevers belast zijn.
+
+Even zoo zal het gelegen zijn met de grachten, sloten, wegen, kanalen, heggen of alle andere voorwerpen, tot grensscheiding dienende, dat is te zeggen, dat deze voorwerpen, wat de souvereiniteit betreft, voor beide Mogendheden gemeen zullen zijn, en dat aan derzelver tegenwoordigen staat niets zal mogen worden veranderd, dan met wederzijdsche toestemming, ten ware deswege tegenovergestelde bepalingen bestonden.
+
+##### Art. 31
+
+De waterloozingen, welke tegenwoordig op wederzijdsch grondgebied bestaan, zullen insgelijks voor 't vervolg bewaard blijven, en zal men geenerlei schikking vermogen te maken, welke aan den afloop der binnenwateren zoude kunnen hinderlijk zijn.
+
+##### Art. 32
+
+De veeren, welke thans op den Rijn bestaan, zullen in hunnen tegenwoordigen staat blijven. De bestaande regten zullen bij voortduring geheven worden voor rekening derzelfde Staten die thans in het genot zijn. — Men zal van weerskanten de bevoegdheid hebben om de werken aan den overliggenden oever, tot het gemakkelijk aanlanden der overvarenden noodzakelijk, aan te leggen en te onderhouden. Er zal geene nieuwe overvaart van de grenzen van Millingen aan de Waal tot aan Stokman aan den Mijn mogen worden daargesteld, zonder voorafgaand overleg en met gemeenschappelijk goedvinden der beide Mogendheden.
+
+##### Art. 33
+
+De domeinen van den Staat, welke in de gemeenten of gedeelten van gemeenten, welke van bestuur veranderen, gelegen mogten zijn, zullen steeds het grondgebied volgen en aan den nieuwen Souverein behooren.
+
+Indien op de over en weder afgestane gedeelten grondgebied domeinen mogten liggen, waarvan de oorspronkelijke registers den verkoop onder het Fransch Gouvernement en in naam van hetzelve door Fransche autoriteiten bewijzen, en van welke de achterstallige verkoopprijzen alsnog, hetzij geheel of gedeeltelijk, moeten worden ontvangen, zal de Souverein aan wien die gronden vóór het tegenwoordig tractaat toebehoorden, de bevoegdheid hebben, den kooper, overeenkomstig de onder den nieuwen Souverein bestaande wetten, te doen vervolgen.
+
+De inkomsten der domeinen, die na de ontruiming door de Franschen, niet in de kassen van den wettigen Souverein zijn gestort, zullen aan dien Souverein worden teruggegeven door de kassen, welke die ontvangst verkeerdelijk hebben genoten.
+
+De inkomsten der gedeelten van de Lijmers, welke niet zijn begrepen in de overgave der enclaves op den 25sten Mei jl., en ten gevolge van het tegenwoordig tractaat aan de Nederlanden komende, zullen, te rekenen van dien dag, worden teruggegeven.
+
+##### Art. 34
+
+De belastingen en andere inkomsten van den Staat zullen voortloopen en ingevorderd worden voor rekening van den nieuwen Souverein, te rekenen van den dag der inbezitneming; welke dag, in geen geval, den bij art. 43 bepaalden tijd, betrekkelijk de ontruiming en de overgave der plaatsen, bij het tegenwoordig tractaat afgestaan of geruild, zal mogen overschrijden; zoodat, bijaldien de inbezitneming van eene gemeente, of gedeelte van eene gemeente, door eenig onvoorzien toeval vertraagd wierd, de belastingen en andere inkomsten van den Staat, desniettemin, van den bepaalden dag af, verschuldigd zullen zijn.
+
+##### Art. 35
+
+De goederen, zakelijke regten en actien, welke mogten behooren aan gemeenten of bijzondere personen van het een of ander bestuur, in en op de plaatsen en het grondgebied, welke wederzijds afgestaan, geruild of verdeeld zijn, worden gehandhaafd en in stand gehouden.
+
+##### Art. 36
+
+Wanneer gemeenten of onderhoorigheden van gemeenten, door de grenslijn zullen doorsneden zijn, zal het actief en passief dier gemeenten, dat is te zeggen, hare gemeente-goederen, alsmede hare schulden, in dezelfde verhouding moeten gedeeld worden. Om die verhouding daar te stellen, zal tot grondslag genomen worden het beloop der grond- en personele belastingen te zamen, en indien de personele belasting aldaar niet bestond, de grondbelasting alleen. De gemeente-goederen en inkomsten, welke hoofdelijk, of volgens de haardsteden, onder de ingezetenen verdeeld moesten worden, zullen gedeeld worden volgens den grondslag alleen voor de jaarlijksche uitdeelingen aangenomen, ten ware er wezenlijk en van regtswege uitdeelingen van dien aard bestaan, met dien verstande evenwel, dat, na gemaakte verdeeling, deze goederen onderworpen zullen wezen aan de plaatselijke wetten van den nieuwen Staat, tot welke zij zullen behooren.
+
+Het gedeelte van Zijfflich, alsmede de dorpen Kekerdom en Loeth, bij het tegenwoordig tractaat aan het Koningrijk der Nederlanden afgestaan, en een gedeelte van den Duffeltschen polder uitmakende, zullen gehouden zijn hun aandeel bij te dragen in de achterstallige schulden, door dien polder aangegaan, tot aan den dag der inbezitneming, bij art. 43 bepaald.
+
+##### Art. 37
+
+De landbouwers, wier eigendommen gedeeltelijk aan deze en gedeeltelijk aan gene zijde der grenzen gelegen zijn, zullen stalmest, allerhande stroo, strooisel en andere mestsoorten voor het bebouwen hunner landen, kunnen in- en uitvoeren, alsmede alle soorten van ingezamelden oogst. Zij zullen insgelijks de bevoegdheid hebben, hunne weibeesten over en weder te drijven; alles zonder aan eenig tolregt, hetzij van in-, uit- of doorvoer, of anderen van dien aard, onderhevig te zijn. Het zal genoegzaam wezen, dat zij door certificaten van het plaatselijk bestuur doen blijken, dat zij eigendommen aan gene zijde der grenzen bezitten en bebouwen, zonder zich echter te mogen onttrekken aan het onderzoek der tolbeambten, of anderen, die wettig belast zijn, de gevallen van sluiking na te gaan; wel te verstaan, dat die tolbeambten of agenten geene nasporingen, dan op hun repectief grondgebied zullen mogen doen.
+
+##### Art. 38
+
+Men zal van beide zijden op het naburig grondgebied, vrij van alle regten, mogen koopen en uitvoeren de materialen tot het onderhoud der dijken en wegen benoodigd.
+
+##### Art. 39
+
+De krijgslieden van elken rang, in eene, bij het tegenwoordig tractaat afgestane of verruilde gemeente of gedeelte eener gemeente geboren, zullen aan den Souverein dier gemeente of gedeelte van gemeente, worden teruggezonden binnen den tijd van drie maanden, zoo zij in Europa dienen, en binnen dien van een jaar, zoo zij zich in de kolonien of in eenig ander werelddeel bevinden.
+
+De officieren zullen echter de keuze hebben, van naar hun land terug te keeren, of in dienst van den Souverein te blijven, onder wiens vanen zij zich bevinden; zij zullen gehouden wezen, binnen zes maanden na de afkondiging van het tegenwoordig tractaat, deze keuze te doen.
+
+##### Art. 40
+
+De inwoners, die, ten gevolge van eene of andere bepaling van het tegenwoordig tractaat, van den eenen Staat tot den anderen overgaan, zullen, binnen den tijd van vier jaren, van woonplaats kunnen veranderen, zonder aan eenige lasten of voorwaarden hoegenaamd, onderworpen te zijn, zij zullen zelfs hunne goederen kunnen verkoopen of overdragen, zonder gehouden te wezen, andere regten dan de overige inwoners van hetzelfde land, te betalen.
+
+##### Art. 41
+
+De ambtenaren, wonende in de gemeenten of gedeelten der afgestane of verruilde gemeenten, en die, volgens de wetten, onder wier heerschappij zij aangesteld zijn, niet zonder schadevergoeding kunnen verplaatst worden, zullen hunne posten behouden en dezelfde regten genieten, als onder het Gouvernement, dat hen heeft aangesteld.
+
+##### Art. 42
+
+Daar, niettegenstaande de zorgen, die de beide Commissien gedragen hebben, om al de zich opgedaan hebbende zwarigheden uit den weg te ruimen, het echter mogelijk is, dat er zich nog andere opdoen bij het plannen der grenspalen; zoo is men overeengekomen, dat zoodanige leden der beide commissien, onder wier leiding deze verrigting plaats zal hebben, gemagtigd zullen zijn, om alle deze zwarigheden te vereffenen, en, in het bijzonder, om, na de plaatselijke autoriteiten te hebben gehoord, alle de geschillen te beoordeelen, die, wegens de onzekerheid der grensscheidingen van eenige gemeenten, zouden kunnen ontstaan
+
+##### Art. 43
+
+De onderscheidene afgestane of verruilde plaatsen, of die terug zullen moeten gegeven worden, zullen ontruimd worden, en het bestuur van dezelve zal aan de bevoegde autoriteiten, binnen eene maand, te rekenen van de uitwisseling der ratificatien, overgeleverd worden.
+
+##### Art. 44
+
+De archieven, kaarten en andere stukken, betrekkelijk de administratien der meijerijen of gemeenten, die, ingevolge het tegenwoordige tractaat, van het eene beheer onder het andere zullen overgaan, zullen tegelijk met het grondgebied zelve overgeleverd worden. Ingeval slechts een gedeelte eener gemeente of meijerij afgestaan of verruild wierd, zullen de archieven aan dat gedeelte verblijven, alwaar de hoofdplaats zich bevinden zal, onder verband, om er aan het andere gedeelte, zoo dikwerf zulks zal noodig zijn, inzage van te geven.
+
+##### Art. 45
+
+Vervallen
+
+##### Art. 46
+
+Het tegenwoordig tractaat zal aan de beide Hoven ter bekrachtiging worden onderworpen, en de bekrachtigingen zullen binnen de twee maanden na de onderteekening, of zoo veel eerder mogelijk, uitgewisseld worden.
+
+En foi de quoi les Commissaires des Hautes parties contractantes l'ont signé et muni de leurs cachets.
+
+Fait à Clèves, le sept Octobre dix huit cent seize.
+
+(**L. S.**) M. J. DE MAN.
+
+(**L. S.**) DE BERNUTH.
+
+(**L. S.**) J. BLANKEN JZ.
+
+(**L. S.**) EYTELWEIN.
