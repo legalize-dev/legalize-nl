@@ -4,7 +4,7 @@ identifier: "BWBR0007168"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-07-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007168"
 soort: "wet"
@@ -57,15 +57,19 @@ Krachtens deze wet worden de volgende belastingen geheven:
 
 - d. een belasting op brandstoffen;
 
-- e. een regulerende energiebelasting.
+- e. een energiebelasting.
 
 ##### Artikel 2
 
-Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
+1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Financiën;
 
-- b. Onze Ministers: Onze Minister van Financiën en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+- b. Onze Ministers: Onze Minister van Financiën en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+- c. GN-code: een code als bedoeld in [verordening (EEG) nr. 2658/87](31987R2658) van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 1 januari 2002.
+
+2. Bij regeling van Onze Minister kunnen de GN-codes, genoemd in [artikel 20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=1&artikel=20&z=2004-01-01&g=2004-01-01), en [artikel 36a, eerste lid, onderdelen m, n en o](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=1&artikel=36a&z=2004-01-01&g=2004-01-01), worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in de [richtlijn nr. 2003/96/EG](32003L0096) van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), in overeenstemming met artikel 2, lid vijf, van die richtlijn zijn aangepast. In dat geval kan bij regeling van Onze Minister eveneens de datum in het eerste lid, onderdeel c, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen.
 
 ### Hoofdstuk II. Grondwaterbelasting
 
@@ -155,15 +159,15 @@ Vrijgesteld zijn de volgende onttrekkingen van grondwater:
 
 ##### Artikel 9
 
-1. Het tarief bedraagt per kubieke meter onttrokken grondwater € 0,1743.
+1. Het tarief bedraagt per kubieke meter onttrokken grondwater € 0,1785.
 
 2. In afwijking van het eerste lid bedraagt het tarief nihil voor onttrekkingen door middel van een inrichting waarbij grondwater wordt onttrokken en vervolgens in een gesloten systeem weer volledig wordt teruggevoerd in hetzelfde watervoerende pakket als waaraan het is onttrokken, in overeenstemming met de voorwaarden welke daartoe zijn gesteld in de vergunning die voor het onttrekken en terugvoeren van water is verleend ingevolge de [Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406).
 
-3. In afwijking van het eerste lid bedraagt het tarief voor onttrekkingen met behulp van een OEDI per kubieke meter onttrokken grondwater € 0,0564 voor zover de in een jaar onttrokken hoeveelheid grondwater de in dat jaar geïnfiltreerde hoeveelheid water niet overschrijdt, met dien verstande dat in dat geval de onttrekking door middel van een oevergrondwaterwinning en de infiltratie niet in aanmerking worden genomen.
+3. In afwijking van het eerste lid bedraagt het tarief voor onttrekkingen met behulp van een OEDI per kubieke meter onttrokken grondwater € 0,0578 voor zover de in een jaar onttrokken hoeveelheid grondwater de in dat jaar geïnfiltreerde hoeveelheid water niet overschrijdt, met dien verstande dat in dat geval de onttrekking door middel van een oevergrondwaterwinning en de infiltratie niet in aanmerking worden genomen.
 
 ##### Artikel 10
 
-De in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=3&artikel=6&z=2003-07-01&g=2003-07-01), bedoelde vermindering bedraagt per kubieke meter geïnfiltreerd water € 0,1460.
+De in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=3&artikel=6&z=2004-01-01&g=2004-01-01), bedoelde vermindering bedraagt per kubieke meter geïnfiltreerd water € 0,1495.
 
 ### Afdeling 4a. Teruggaaf
 
@@ -247,7 +251,7 @@ De belasting wordt geheven van degene die de levering verricht.
 
 - b. in andere gevallen op het tijdstip van de uitreiking van de factuur.
 
-2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11c&z=2003-07-01&g=2003-07-01), wordt de hoeveelheid water, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
+2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11c&z=2004-01-01&g=2004-01-01), wordt de hoeveelheid water, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
 
 3. Onder de in het eerste lid, onderdeel a, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotten.
 
@@ -257,7 +261,7 @@ De belasting wordt geheven van degene die de levering verricht.
 
 ##### Artikel 11g
 
-Het tarief bedraagt € 0,141 per kubieke meter.
+Het tarief bedraagt € 0,144 per kubieke meter.
 
 ### Afdeling 5. Vrijstellingen
 
@@ -271,7 +275,7 @@ Het tarief bedraagt € 0,141 per kubieke meter.
 
 ##### Artikel 11i
 
-1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de levering van leidingwater, voor zover de door de belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2003-07-01&g=2003-07-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
+1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de levering van leidingwater, voor zover de door de belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2004-01-01&g=2004-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
 2. De inspecteur beslist op het verzoek, bedoeld in het eerste lid, bij een voor bezwaar vatbare beschikking.
 
@@ -289,17 +293,17 @@ Het tarief bedraagt € 0,141 per kubieke meter.
 
 2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan de verbruiker.
 
-3. [Artikel 11i, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=6&artikel=11i&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+3. [Artikel 11i, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=6&artikel=11i&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
 ##### Artikel 11k
 
-1. De belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2003-07-01&g=2003-07-01), is gehouden een administratie te voeren zodanig dat – voor zover dat voor de heffing van de belasting van belang kan zijn daaruit te allen tijde duidelijk blijken:
+1. De belastingplichtige, bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11d&z=2004-01-01&g=2004-01-01), is gehouden een administratie te voeren zodanig dat – voor zover dat voor de heffing van de belasting van belang kan zijn daaruit te allen tijde duidelijk blijken:
 
 - a. de gegevens betreffende de door hem verrichte leveringen;
 
-- b. de gegevens betreffende de toepassing van de in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11c&z=2003-07-01&g=2003-07-01), bedoelde hoeveelheidsgrens.
+- b. de gegevens betreffende de toepassing van de in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=2&artikel=11c&z=2004-01-01&g=2004-01-01), bedoelde hoeveelheidsgrens.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichtingen moet worden voldaan.
 
@@ -371,9 +375,9 @@ De belasting wordt geheven van de houder van een inrichting.
 
 De belasting wordt verschuldigd op het tijdstip waarop:
 
-- a. de afvalstoffen, bedoeld in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=13&z=2003-07-01&g=2003-07-01), ter verwijdering worden afgegeven;
+- a. de afvalstoffen, bedoeld in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), ter verwijdering worden afgegeven;
 
-- b. de afvalstoffen, bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=13&z=2003-07-01&g=2003-07-01), binnen de inrichting waarin deze stoffen zijn ontstaan, worden verwijderd.
+- b. de afvalstoffen, bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=13&z=2004-01-01&g=2004-01-01), binnen de inrichting waarin deze stoffen zijn ontstaan, worden verwijderd.
 
 ### Afdeling 4. Vrijstellingen en tarief
 
@@ -397,11 +401,11 @@ De belasting wordt verschuldigd op het tijdstip waarop:
 
 1. Het tarief bedraagt in geval van:
 
-- a. Het storten van afvalstoffen: € 81,65 per 1000 kilogram;
+- a. Het storten van afvalstoffen: € 83,61 per 1000 kilogram;
 
 - b. het verbranden van afvalstoffen: nihil.
 
-2. In afwijking van het eerste lid, onderdeel a, bedraagt het tarief € 13,47 per 1000 kilogram voor:
+2. In afwijking van het eerste lid, onderdeel a, bedraagt het tarief € 13,79 per 1000 kilogram voor:
 
 - a. afvalstoffen die uitsluitend bestaan uit de categorieën van afvalstoffen, genoemd in [artikel 1, eerste lid, onder 17 en 21 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1);
 
@@ -433,13 +437,13 @@ Vervallen
 
 4. Het verhoudingsgetal, bedoeld in het derde lid, wordt gebaseerd op de in het voorafgaande tijdvak gerealiseerde cijfers. Na afloop van het kalenderjaar vindt herrekening plaats op de voet van het eerste lid.
 
-5. [Artikel 10a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4a&artikel=10a&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+5. [Artikel 10a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4a&artikel=10a&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 18c
 
-1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de afgifte ter verwijdering van afvalstoffen, voor zover de door de belastingplichtige, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2003-07-01&g=2003-07-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
+1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van de afgifte ter verwijdering van afvalstoffen, voor zover de door de belastingplichtige, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=2&artikel=14&z=2004-01-01&g=2004-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
-2. [Artikel 10a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4a&artikel=10a&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+2. [Artikel 10a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4a&artikel=10a&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 5. Verplichting ten dienste van de belastingheffing
 
@@ -449,7 +453,7 @@ Vervallen
 
 2. Bij ministeriële regeling kunnen door Onze Minister regels worden gesteld omtrent de wijze waarop de in het eerste lid bedoelde verplichting moet worden nagekomen.
 
-3. De belastingplichtige is gehouden de administratie zodanig in te richten dat daarin op overzichtelijke wijze is opgenomen welke stoffen, preparaten of andere producten als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=1&artikel=12&z=2003-07-01&g=2003-07-01), in welke hoeveelheden en op welk tijdstip de inrichting zijn binnengebracht dan wel hebben verlaten.
+3. De belastingplichtige is gehouden de administratie zodanig in te richten dat daarin op overzichtelijke wijze is opgenomen welke stoffen, preparaten of andere producten als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=1&artikel=12&z=2004-01-01&g=2004-01-01), in welke hoeveelheden en op welk tijdstip de inrichting zijn binnengebracht dan wel hebben verlaten.
 
 ### Hoofdstuk IV. Brandstoffenbelasting
 
@@ -457,151 +461,87 @@ Vervallen
 
 ##### Artikel 20
 
-1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. minerale oliën: minerale oliën in de zin van [artikel 25 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=25);
+- a. kolen: producten van de GN-codes 2701, 2702 en 2704;
 
-- b. ongelode lichte olie, gelode lichte olie, halfzware olie, gasolie, zware stookolie en vloeibaar gemaakt petroleumgas: hetgeen ingevolge de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26) en [28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=28) onder deze begrippen wordt verstaan;
+- b. brandstof: een stof – met inbegrip van alle daaraan toegevoegde stoffen – dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken;
 
-- c. L: een liter bij een temperatuur van 15°C;
+- c. afleveren: het aan de voorraad onttrekken door een leverancier in verband met de afgifte aan of verzending naar een afnemer;
 
-- d. brandstof: een stof - met inbegrip van alle daaraan toegevoegde stoffen - dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken;
-
-- e. kolen: steenkool of uit steenkool vervaardigde vaste brandstoffen, bruinkool en geperste bruinkool;
-
-- f. gas: aardgas, waaronder begrepen producten die direct of indirect zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als aardgas, hoogovengas, cokesovengas, kolengas en raffinaderijgas;
-
-- g. weg, motorrijtuig en pleziervaartuig: hetgeen daaronder wordt verstaan in [artikel 27, vijfde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27);
-
-- h. Nm3: een normaalkubiekemeter;
-
-- i. invoer: invoer in de zin van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251);
-
-- j. uitslag: uitslag in de zin van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251);
-
-- k. afleveren: het aan de voorraad onttrekken door een leverancier in verband met de afgifte aan of verzending naar een afnemer;
-
-- l. gebruiken: het aanwenden van brandstoffen overeenkomstig de bestemming;
-
-- m. KV-gas: gas dat door vergassing van kolen wordt verkregen.
-
-2. Bij ministeriële regeling worden door Onze Minister regels gesteld met betrekking tot:
-
-- a. de herleiding van feitelijke hoeveelheden van minerale oliën en niet als minerale olie aangemerkt gas tot hoeveelheden bij een temperatuur van 15°C;
-
-- b. de vaststelling van het loodgehalte van ongelode lichte olie en gelode lichte olie.
+- d. gebruiken: het aanwenden als brandstof.
 
 ### Afdeling 2. Grondslag en belastingplicht
 
 ##### Artikel 21
 
-1. Onder de naam brandstoffenbelasting wordt een belasting geheven op:
+1. Onder de naam brandstoffenbelasting wordt een belasting geheven op kolen.
 
-- a. ongelode lichte olie en gelode lichte olie;
+2. De belasting wordt geheven ter zake van de aflevering of het gebruik van kolen.
 
-- b. halfzware olie;
+3. De belasting wordt slechts geheven voorzover de kolen door degene die deze aflevert of gebruikt, zijn gewonnen, vervaardigd of binnen Nederland zijn gebracht.
 
-- c. gasolie;
+4. De belasting wordt geheven ongeacht de bewerking die op de kolen is toegepast.
 
-- d. zware stookolie;
+5. Als aflevering of gebruik wordt niet aangemerkt het gebruik van kolen voor het vervaardigen van kolen, energieproducten als bedoeld in [artikel 36b, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), of minerale oliën als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) indien het gebruik van de kolen plaats vindt binnen de inrichting waarin zij zijn ontstaan.
 
-- e. vloeibaar gemaakt petroleumgas;
-
-- f. kolen;
-
-- g. gas;
-
-- h. KV-gas.
-
-2. Met betrekking tot de als minerale oliën aangemerkte brandstoffen, bedoeld in het eerste lid, wordt de belasting geheven ter zake van de uitslag en van de invoer, als was de belasting een accijns.
-
-3. Met betrekking tot kolen en niet als minerale olie aangemerkt gas wordt de belasting geheven ter zake van de aflevering of het gebruik van de desbetreffende brandstoffen.
-
-4. Met betrekking tot kolen en niet als minerale olie aangemerkt gas wordt de belasting slechts geheven voor zover die goederen door degene die deze aflevert of gebruikt, zijn gewonnen, vervaardigd of binnen Nederland zijn gebracht.
-
-5. De belasting op kolen wordt geheven ongeacht de bewerking die daarop mocht zijn toegepast.
+6. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder het vijfde lid toepassing vindt.
 
 ##### Artikel 22
 
-1. De belasting op ongelode en gelode lichte olie wordt, bij wijze van regulerende heffing, verhoogd met de volgende toeslagen:
-
-- a. een toeslag op gelode lichte olie met een researchoktaangetal lager dan 97;
-
-- b. een toeslag op ongelode lichte olie met een researchoktaangetal lager dan 95.
-
-2. Bij ministeriële regeling worden door Onze Minister regels gesteld omtrent de vaststelling van het researchoktaangetal.
+De belasting wordt geheven van degene die de kolen aflevert of gebruikt.
 
 ##### Artikel 23
 
-1. Met betrekking tot de minerale oliën, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), wordt de belasting geheven van degene die ter zake accijns verschuldigd is.
-
-2. Met betrekking tot de niet als minerale oliën aangemerkte brandstoffen, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), wordt de belasting geheven van degene die deze goederen aflevert of gebruikt.
+De belasting wordt geheven per eenheid brandstof, uitgedrukt in kilogram.
 
 ##### Artikel 24
 
-1. In afwijking van [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), en [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=23&z=2003-07-01&g=2003-07-01), wordt de belasting met betrekking tot niet als minerale olie aangemerkt aardgas:
-
-- a. van degene die het aardgas heeft gewonnen of vervaardigd slechts geheven voor zover hij dat gas als brandstof gebruikt;
-
-- b. in andere gevallen geheven van degene die door hem binnen Nederland gebracht aardgas dan wel aan hem afgeleverd aardgas door degene die het heeft gewonnen of vervaardigd, aflevert of gebruikt.
-
-2. Indien in een periode van een jaar ten aanzien van een gebruiker zowel sprake is van door hem verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas was betrokken van één leverancier, met dien verstande dat de belasting primair is verschuldigd wegens de door de binnenlandse leverancier aan hem geleverde hoeveelheden aardgas.
+De belasting wordt verschuldigd op het tijdstip waarop de aflevering of het gebruik van de kolen plaatsvindt.
 
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 
 ##### Artikel 25
 
-De belasting wordt geheven per eenheid brandstof, uitgedrukt in L, kilogram, Nm3 of gigajoule.
+1. Het tarief bedraagt per 1000 kilogram kolen € 12,28.
+
+2. In afwijking van het eerste lid bedraagt het tarief nihil voor kolen die worden afgeleverd met een buiten Nederland gelegen bestemming, mits kan worden aangetoond dat de desbetreffende brandstoffen in verband met de aflevering buiten Nederland zijn gebracht.
+
+3. Op verzoek van de belastingplichtige wordt de belasting in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=3&artikel=23&z=2004-01-01&g=2004-01-01) en van het eerste lid geheven per eenheid brandstof, uitgedrukt in zowel energie-inhoud als CO2-emissie bij verbranding van de kolen. In dat geval zijn de in het vierde lid genoemde tarieven van toepassing. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor vijf jaren. Een hernieuwd verzoek kan pas vijf jaren na die wederopzegging worden ingewilligd. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
+
+4. De in het derde lid bedoelde tarieven bedragen € 0,2100 per gigajoule en € 2,5984 per 1000 kilogram CO2.
+
+5. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de regeling bedoeld in het derde lid wordt toegepast.
 
 ##### Artikel 26
 
-1. De belasting met betrekking tot de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), bedoelde minerale oliën, wordt verschuldigd op het tijdstip waarop de accijns ter zake van die oliën verschuldigd wordt of zou worden, indien van de desbetreffende minerale oliën accijns zou worden geheven.
+1. Vrijstelling van de belasting wordt verleend ter zake van de aflevering of het gebruik van kolen die worden gebruikt als brandstof voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30%.
 
-2. De belasting met betrekking tot de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), bedoelde, niet als minerale oliën aangemerkte brandstoffen, wordt verschuldigd op het tijdstip waarop het gebruik of de aflevering van de brandstof plaatsvindt.
+2. Als installatie met een elektrisch rendement van minimaal 30% wordt aangemerkt een installatie met een gemiddeld gebruik van maximaal 12 megajoule per opgewekt kWh.
 
-### Afdeling 4. Tarief
+3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de vrijstelling, bedoeld in het eerste lid wordt verleend.
+
+4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+
+### Afdeling 5. Vrijstellingen
 
 ##### Artikel 27
 
-1. Het tarief bedraagt voor:
+1. Aan degene die door derden aan hem afgeleverde kolen heeft aangewend anders dan als brandstof, wordt op zijn verzoek door de inspecteur een teruggaaf verleend van de belasting.
 
-| a. | ongelode lichte olie, per 1000 L | € 12,86; |
-| --- | --- | --- |
-| b. | gelode lichte olie, per 1000 L | € 12,86; |
-| c. | halfzware olie, per 1000 L | € 14,09; |
-| d. | gasolie die is bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen, per 1000 L | € 14,19; |
-| e. | andere gasolie, per 1000 L | € 14,19; |
-| f. | zware stookolie, per 1000 kilogram | € 16,57; |
-| g. | vloeibaar gemaakt petroleumgas, per 1000 kilogram | € 16,94; |
-| h. | kolen, per 1000 kilogram | € 11,99; |
-| i. | hoogovengas, cokesovengas, kolengas en raffinaderijgas, per 1000 gigajoule | € 121,33; |
-| j. | aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule, per Nm3 | € 0,0110; |
-|   | met dien verstande dat bij levering van meer dan 10 000 000 Nm3 aardgas per jaar aan een gebruiker het tarief voor aardgas per Nm3 van het meerdere bedraagt. | € 0,0073 |
-| k. | KV-gas, per 1000 gigajoule | € 479,14. |
+2. Aan degene die kolen aflevert met een buiten Nederland gelegen bestemming, dan wel buiten Nederland brengt teneinde daar door hem te worden afgeleverd of gebruikt, wordt op verzoek door de inspecteur een teruggaaf verleend van de belasting op de desbetreffende kolen.
 
-2. Bij aardgas met een bovenste verbrandingswaarde lager of hoger dan 35,17 megajoule per Nm3 wordt het in het eerste lid genoemde tarief naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
+3. De inspecteur beslist op het verzoek, bedoeld in het eerste en tweede lid, bij voor bezwaar vatbare beschikking.
 
-3. De toeslag op het tarief voor brandstoffen, als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=22&z=2003-07-01&g=2003-07-01), bedraagt voor:
+4. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het vijfde lid bedoelde kennisgeving.
 
-- a. gelode lichte olie met een researchoktaangetal lager dan 97, per 1000 L € 32;
+5. Indien de inspecteur de beschikking niet binnen de in het vierde lid genoemde termijn kan geven, stelt hij belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.
 
-- b. ongelode lichte olie met een researchoktaangetal lager dan 95, per 1000 L € 14.
+6. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de indiening van het verzoek en de wijze waarop kan worden aangetoond dat aan de voorwaarden voor teruggaaf wordt voldaan.
 
-4. In afwijking van de voorgaande leden bedraagt het tarief nihil voor niet als minerale oliën aangemerkte brandstoffen die worden afgeleverd met een buiten Nederland gelegen bestemming, mits kan worden aangetoond dat de desbetreffende brandstoffen in verband met de aflevering buiten Nederland zijn gebracht.
+7. Onze Minister kan bij ministeriële regeling nadere regels stellen ten behoeve van de uitvoering van dit artikel.
 
-5. In afwijking van het eerste lid, onderdeel i, bedraagt het tarief nihil voor hoogovengas, cokesovengas en kolengas, voor zover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.
-
-6. In afwijking van het eerste lid, onderdeel j, bedraagt het tarief nihil voor in [artikel 20, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-07-01&g=2003-07-01), als aardgas aangemerkte producten voor zover deze als brandstof worden gebruikt in de inrichting waarin zij ontstaan.
-
-7. Op verzoek van de belastingplichtige wordt de belasting van kolen in afwijking van artikel 25 en van het eerste lid, onderdeel h, geheven per eenheid brandstof, uitgedrukt in zowel energie-inhoud als CO2-emissie bij verbranding van de kolen. In dat geval zijn de in het achtste lid genoemde tarieven van toepassing. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor vijf jaren. Een hernieuwd verzoek kan eerst vijf jaren na die wederopzegging worden ingewilligd. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
-
-8. De in het zevende lid bedoelde tarieven bedragen € 0,2051 per gigajoule en € 2,5375 per 1000 kilogram CO2.
-
-9. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de regeling, bedoeld in het zevende lid, wordt toegepast.
-
-10. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
-
-### Afdeling 4a. Vrijstellingen
+### Afdeling 6. Teruggaaf
 
 ##### Artikel 27a
 
@@ -623,27 +563,13 @@ De belasting wordt geheven per eenheid brandstof, uitgedrukt in L, kilogram, Nm3
 
 ##### Artikel 28
 
-1. Aan degene die door derden aan hem afgeleverde kolen of niet als minerale olie aangemerkt gas heeft gebruikt anders dan als brandstof, wordt op zijn verzoek door de inspecteur een teruggaaf verleend van de belasting op de betrokken brandstof.
+1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot kolen die worden gebruikt als brandstof voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30% als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=5&artikel=26&z=2004-01-01&g=2004-01-01).
 
-2. Aan degene die niet als minerale oliën aangemerkte brandstoffen, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01):
+2. De in het eerste lid bedoelde teruggaaf wordt verleend aan de verbruiker.
 
-- a. aflevert met een buiten Nederland gelegen bestemming; dan wel
+3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de in het eerste lid bedoelde teruggaaf wordt verleend.
 
-- b. buiten Nederland brengt ten einde daar door hem te worden afgeleverd of gebruikt,
-
-wordt op verzoek door de inspecteur een teruggaaf verleend van de belasting op de desbetreffende brandstoffen.
-
-3. Een teruggaaf van de belasting op kolen wordt niet verleend indien de kolen worden gebruikt voor de vervaardiging van vaste brandstoffen die als zodanig worden gebruikt of binnen Nederland afgeleverd.
-
-4. De inspecteur beslist op het verzoek, bedoeld in het eerste en tweede lid, bij een voor bezwaar vatbare beschikking.
-
-5. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het zesde lid bedoelde kennisgeving.
-
-6. Indien de inspecteur de beschikking niet binnen de in het vijfde lid genoemde termijn kan geven, stelt hij belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.
-
-7. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de indiening van het verzoek en de wijze waarop kan worden aangetoond dat aan de voorwaarden voor teruggaaf wordt voldaan.
-
-8. Onze Minister kan bij ministeriële regeling nadere regels stellen ten behoeve van de uitvoering van dit artikel.
+4. [Artikel 27, derde tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=6&artikel=27&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 28a
 
@@ -661,11 +587,7 @@ wordt op verzoek door de inspecteur een teruggaaf verleend van de belasting op d
 
 ##### Artikel 29
 
-1. De belastingplichtige is gehouden een administratie te voeren zodanig dat - voor zover dat voor de heffing van belang kan zijn - daaruit te allen tijde duidelijk blijken:
-
-- a. de gegevens betreffende de herkomst, de invoer en de uitslag van de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), bedoelde minerale oliën;
-
-- b. de gegevens betreffende het winnen, vervaardigen, binnen Nederland brengen, afleveren en gebruiken van kolen en niet als minerale olie aangemerkt gas.
+1. De belastingplichtige is gehouden een administratie te voeren zodanig dat, voorzover dat voor de heffing van belang kan zijn, daaruit te allen tijde duidelijk blijken de gegevens betreffende het winnen, vervaardigen, binnen Nederland brengen, afleveren en gebruiken van kolen.
 
 2. Bij ministeriële regeling kunnen door Onze Minister nadere regels worden gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichting moet worden voldaan.
 
@@ -673,9 +595,7 @@ wordt op verzoek door de inspecteur een teruggaaf verleend van de belasting op d
 
 ##### Artikel 30
 
-1. De belasting van de als minerale oliën aangemerkte brandstoffen bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=22&z=2003-07-01&g=2003-07-01), wordt geheven en ingevorderd als was zij een accijns.
-
-2. Bij algemene maatregel van bestuur kan worden bepaald dat de belasting bedoeld in het eerste lid te zamen met accijns van minerale oliën kan worden geheven en ingevorderd.
+Vervallen
 
 ### Hoofdstuk V
 
@@ -721,7 +641,7 @@ Vervallen
 
 - e. uitslag: uitslag in de zin van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251);
 
-- f. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen **a** tot en met **d**, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) op het Nederlandse distributienet waaruit elektriciteit of aardgas aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;
+- f. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen **a** tot en met **d**, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) op een Nederlands distributienet waaruit elektriciteit of aardgas aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;
 
 - g. installatie voor warmtekrachtkoppeling: een installatie waarin aardgas wordt verstookt voor de gecombineerde opwekking van warmte en kracht met een totaal energetisch rendement van minimaal 60%, gebaseerd op de calorische onderwaarde van het gas. Onder het totaal energetisch rendement wordt verstaan de som van het rendement van de elektriciteitsopwekking en tweederde deel van het rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van aardgas;
 
@@ -731,17 +651,29 @@ Vervallen
 
 - j. biomassa: de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;
 
-- k. zuivere biomassa: producten, afvalstoffen en residuen van de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken die geheel biologisch afbreekbaar zijn, alsmede industrieel en huishoudelijk afval dat geheel biologisch afbreekbaar is.
+- k. zuivere biomassa: producten, afvalstoffen en residuen van de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken die geheel biologisch afbreekbaar zijn, alsmede industrieel en huishoudelijk afval dat geheel biologisch afbreekbaar is;
+
+- l. Nm3: een normaalkubiekemeter;
+
+- m. aardgas: producten van de GN-codes 2711 11 00 en 2711 21 00;
+
+- n. overige gassen: hoogovengas, cokesovengas, kolengas, raffinaderijgas en KV-gas als bedoeld in de GN-code 2705;
+
+- o. elektriciteit: elektrische energie van de GN-code 2716;
+
+- p. brandstof: een stof – met inbegrip van alle daaraan toegevoegde stoffen – dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken.
 
 2. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de herleiding van feitelijke hoeveelheden van halfzware olie en gasolie tot hoeveelheden bij een temperatuur van 15°C.
 
 3. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen nadere regels worden gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.
 
+4. Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), met uitzondering van een net als bedoeld in [artikel 15, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=15).
+
 ### Afdeling 2. Grondslag en belastingplicht
 
 ##### Artikel 36b
 
-1. Onder de naam regulerende energiebelasting wordt een belasting geheven op:
+1. Onder de naam energiebelasting wordt een belasting geheven op de volgende producten:
 
 - a. halfzware olie;
 
@@ -749,25 +681,25 @@ Vervallen
 
 - c. vloeibaar gemaakt petroleumgas;
 
-- d. aardgas; en
+- d. aardgas;
 
-- e. elektriciteit.
+- e. overige gassen; en
 
-2. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt als aardgas mede aangemerkt elk product dat direct of indirect is bestemd voor gebruik, wordt aangeboden voor verkoop of wordt gebruikt als aardgas. [Artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=27&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+- f. elektriciteit.
+
+2. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt als één van de onder het eerste lid, onderdelen a tot en met e, bedoelde producten, niet zijnde één van deze producten, mede aangemerkt elk product dat direct of indirect is bestemd voor gebruik, wordt aangeboden voor verkoop of wordt gebruikt als één van deze producten.
 
 ##### Artikel 36c
 
 1. Met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, wordt de belasting geheven ter zake van de uitslag en van de invoer, als was de belasting een accijns.
 
-2. Met betrekking tot aardgas wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 1 000 000 m3 per verbruiksperiode van 12 maanden per aansluiting. Bij het in aanmerking nemen van vorengenoemde maximale hoeveelheid wordt geen rekening gehouden met leveringen als bedoeld in het vijfde lid.
+2. Met betrekking tot aardgas wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker en met betrekking tot overige gassen wordt de belasting geheven ter zake van de levering aan de verbruiker.
 
-3. Met betrekking tot elektriciteit wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 10 000 000 kWh per verbruiksperiode van 12 maanden per aansluiting. Bij het in aanmerking nemen van vorengenoemde maximale hoeveelheid wordt geen rekening gehouden met leveringen als bedoeld in het vijfde lid.
+3. Met betrekking tot elektriciteit wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, met uitzondering van de levering van elektriciteit aan degene die op zijn beurt leveringen via een aansluiting aan de verbruiker verricht.
 
-4. Bij een verbruiksperiode korter dan wel langer dan 12 maanden worden de in het tweede en derde lid genoemde hoeveelheidsgrenzen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
+4. Als een levering als bedoeld in het tweede en derde lid, wordt mede aangemerkt het verbruik van aardgas, overige gassen en elektriciteit, indien deze op andere wijze zijn verkregen dan door een levering als bedoeld in het tweede en derde lid. Als een levering als bedoeld in het derde lid wordt mede aangemerkt het verbruik van elektriciteit, indien de elektriciteit is verkregen door tussenkomst van de Amsterdam Power Exchange, alsmede het verbruik van elektriciteit door degene die leveringen via een aansluiting aan de verbruiker verricht.
 
-5. Als een levering als bedoeld in het tweede en derde lid wordt mede aangemerkt het verbruik van aardgas en elektriciteit, indien het aardgas en de elektriciteit op andere wijze zijn verkregen dan door een levering als bedoeld in het tweede en derde lid. Als een levering als bedoeld in het derde lid wordt mede aangemerkt het verbruik van elektriciteit, indien de elektriciteit is verkregen door tussenkomst van de Amsterdam Power Exchange.
-
-6. Het vijfde lid is niet van toepassing met betrekking tot de verbruiker die:
+5. Het vierde lid is niet van toepassing met betrekking tot de verbruiker die:
 
 - a. elektriciteit heeft opgewekt door middel van hernieuwbare energiebronnen, met uitzondering van elektriciteit uit biomassa die niet als zuivere biomassa wordt aangemerkt;
 
@@ -777,7 +709,9 @@ Vervallen
 
 - d. elektriciteit heeft opgewekt door middel van een installatie voor warmtekrachtkoppeling.
 
-7. Bij de levering van aardgas aan een verbruiker die dat gebruikt voor een installatie voor blokverwarming, wordt in afwijking in zoverre van het tweede lid de belasting geheven over de totale hoeveelheid geleverd aardgas.
+6. Als levering wordt niet aangemerkt het verbruik van een van de producten genoemd in [artikel 36b, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), indien die producten worden verbruikt voor de vervaardiging van producten als bedoeld in [artikel 36b, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), alsmede lichte olie als bedoeld in [artikel 26, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26) en zware stookolie als bedoeld in [artikel 26, vijfde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26), in dezelfde inrichting waarin zij zijn ontstaan.
+
+7. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder het zesde lid toepassing vindt.
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -789,31 +723,41 @@ Als uitslag wordt mede aangemerkt het gebruik van halfzware olie, gasolie en vlo
 
 1. Met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, wordt de belasting geheven van degene die ter zake accijns verschuldigd is of zou zijn, indien van die brandstoffen accijns zou worden geheven.
 
-2. Met betrekking tot aardgas en elektriciteit wordt de belasting geheven van degene die de levering verricht.
+2. Met betrekking tot aardgas, overige gassen en elektriciteit wordt de belasting geheven van degene die de levering verricht.
 
-3. In afwijking van het tweede lid wordt bij toepassing van [artikel 36**c**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), de belasting geheven van de verbruiker.
+3. In afwijking van het tweede lid wordt bij toepassing van [artikel 36**c**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2004-01-01&g=2004-01-01), de belasting geheven van de verbruiker.
 
-4. In afwijking van het tweede lid wordt de belasting geheven van de verbruiker indien degene die de levering aan de verbruiker verricht, niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht.
+4. Voor de toepassing van het tweede lid dient, indien degene die de levering aan de verbruiker verricht, niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht, degene die de levering verricht in Nederland ter zake van deze levering een fiscaal vertegenwoordiger aan te stellen. De fiscaal vertegenwoordiger treedt op namens degene die levert aan de verbruiker en treedt in zijn plaats met betrekking tot alle rechten en verplichtingen die hij heeft inzake de aangifte en de betaling van de belasting, alsmede de verplichtingen, bedoeld in [artikel 36n](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=7&artikel=36n&z=2004-01-01&g=2004-01-01).
 
-5. Indien in een verbruiksperiode van 12 maanden ten aanzien van de verbruiker, bedoeld in het derde en vierde lid, zowel sprake is van door hem op grond van het derde onderscheidenlijk vierde lid verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair is verschuldigd op grond van het tweede lid.
+5. De fiscaal vertegenwoordiger dient in het bezit te zijn van een daartoe verstrekte vergunning van de inspecteur.
+
+6. Degene die een vergunning als fiscaal vertegenwoordiger wil verkrijgen, dient daartoe een verzoek in bij de inspecteur. Bij of krachtens op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die het verzoek moet bevatten.
+
+7. Bij het verzoek wordt een verklaring overgelegd van degene die de levering aan de verbruiker verricht waaruit blijkt dat deze degene die het verzoek indient, machtigt op te treden als zijn fiscaal vertegenwoordiger.
+
+8. Bij of krachtens op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de voorwaarden waaronder de vergunning wordt verleend, gewijzigd en ingetrokken. Het verlenen, het weigeren, het wijzigen en het intrekken van de vergunning geschiedt bij voor bezwaar vatbare beschikking.
+
+9. In afwijking van het tweede lid wordt de belasting geheven van de verbruiker indien degene die de levering aan de verbruiker verricht en geen fiscaal vertegenwoordiger heeft, niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht.
+
+10. Indien in een verbruiksperiode van 12 maanden ten aanzien van de verbruiker, bedoeld in het derde en negende lid, zowel sprake is van door hem op grond van het derde onderscheidenlijk negende lid verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair is verschuldigd op grond van het tweede lid.
 
 ##### Artikel 36f
 
-In afwijking van [artikel 36**e**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2003-07-01&g=2003-07-01), wordt de belasting bij toepassing van [artikel 36**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36d&z=2003-07-01&g=2003-07-01) geheven van degene die de halfzware olie, de gasolie of het vloeibaar gemaakt petroleumgas gebruikt.
+In afwijking van [artikel 36**e**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2004-01-01&g=2004-01-01), wordt de belasting bij toepassing van [artikel 36**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36d&z=2004-01-01&g=2004-01-01) geheven van degene die de halfzware olie, de gasolie of het vloeibaar gemaakt petroleumgas gebruikt.
 
-### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+### Afdeling 4. Tarief
 
 ##### Artikel 36g
 
-De belasting wordt geheven per eenheid brandstof, uitgedrukt in L, kilogram of m3, en voor elektriciteit per eenheid energie-inhoud, uitgedrukt in kWh.
+De belasting wordt voor halfzware olie, gasolie, vloeibaar gemaakt petroleumgas en aardgas geheven per eenheid brandstof, uitgedrukt in L, kilogram of m3, en voor elektriciteit en overige gassen per eenheid energie-inhoud, uitgedrukt in kWh onderscheidenlijk gigajoule.
 
 ##### Artikel 36h
 
 1. De belasting met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas wordt verschuldigd op het tijdstip waarop de accijns ter zake van die brandstoffen verschuldigd wordt of zou worden indien van die brandstoffen accijns zou worden geheven.
 
-2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 36**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36d&z=2003-07-01&g=2003-07-01) verschuldigd op het tijdstip waarop het gebruik plaatsvindt.
+2. In afwijking van het eerste lid wordt de belasting bij toepassing van [artikel 36**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36d&z=2004-01-01&g=2004-01-01) verschuldigd op het tijdstip waarop het gebruik plaatsvindt.
 
-3. De belasting met betrekking tot de levering van aardgas en de levering van elektriciteit wordt verschuldigd:
+3. De belasting met betrekking tot de levering van aardgas, overige gassen en de levering van elektriciteit wordt verschuldigd:
 
 - a. in gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorschotnota wordt uitgereikt, een voorschotbedrag wordt ontvangen:
 
@@ -823,11 +767,11 @@ De belasting wordt geheven per eenheid brandstof, uitgedrukt in L, kilogram of m
 
 - b. in andere gevallen op het tijdstip van de uitreiking van de factuur.
 
-4. Voor de toepassing van het derde lid, onderdeel **a**, onder 1°, in samenhang met [artikel 36**c**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.
+4. Voor de toepassing van het derde lid, onderdeel **a**, onder 1°, worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.
 
 5. Onder de in het derde lid, onderdeel **a**, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotten.
 
-6. In afwijking van het derde lid wordt de belasting bij toepassing van [artikel 36**c**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), verschuldigd op het tijdstip waarop het verbruik plaatsvindt.
+6. In afwijking van het derde lid wordt de belasting bij toepassing van [artikel 36c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2004-01-01&g=2004-01-01), verschuldigd op het tijdstip waarop het verbruik plaatsvindt.
 
 7. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -837,77 +781,103 @@ De belasting wordt geheven per eenheid brandstof, uitgedrukt in L, kilogram of m
 
 1. Het tarief bedraagt voor:
 
-- a. halfzware olie, per 1000 L € 135,10;
+- a. halfzware olie, per 1000 L € 152,77;
 
-- b. gasolie, per 1000 L € 136,24;
+- b. gasolie, per 1000 L € 154,04;
 
-- c. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 161,16;
+- c. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 182,38;
 
-- d. aardgas met een bovenste verbrandingswaarde van 35,17 megajoule, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
+- d. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
 
-- –. niet hoger is dan 5000 m3, per m3 € 0,1285;
+- –. niet hoger is dan 5000 m3, per m3 € 0,1429;
 
-- –. hoger is dan 5000 m3, maar niet hoger dan 170 000 m3, per m3 € 0,0600;
+- –. hoger is dan 5000 m3, maar niet hoger dan 170 000 m3, per m3 € 0,0727;
 
-- –. hoger is dan 170 000 m3, per m3 € 0,0111;
+- –. hoger is dan 170 000 m3, maar niet hoger dan 1 000 000 m3, per m3 € 0,0227;
 
-- e. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
+- –. hoger is dan 1 000 000 m3, maar niet hoger dan 10 000 000 m3, per m3 € 0,0113;
 
-- –. niet hoger is dan 10 000 kWh, per kWh € 0,0639;
+- –. hoger is dan 10 000 000 m3, per m3 € 0,0106 voor niet-zakelijk verbruik en per m3 € 0,0075 voor zakelijk verbruik;
 
-- –. hoger is dan 10 000 kWh, maar niet hoger dan 50 000 kWh,
+- e. hoogovengas, cokesovengas, kolengas en raffinaderijgas, per 1000 gigajoule € 124,24;
 
-- per. kWh € 0,0207;
+- f. KV-gas, per 1000 gigajoule € 490,64;
 
-- –. hoger is dan 50 000 kWh, per kWh € 0,0063.
+- g. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
+
+- –. niet hoger is dan 10 000 kWh, per kWh € 0,0654;
+
+- –. hoger is dan 10 000 kWh, maar niet hoger dan 50 000 kWh, per kWh € 0,0212;
+
+- –. hoger is dan 50 000 kWh, maar niet hoger dan 10 000 000 kWh, per kWh € 0,0065;
+
+- –. hoger is dan 10 000 000 kWh, per kWh € 0,0010 voor niet-zakelijk verbruik en per kWh € 0,0005 voor zakelijk verbruik.
 
 2. In afwijking van het eerste lid, onderdelen **a, b** en **c**, bedraagt het tarief voor halfzware olie, gasolie en vloeibaar gemaakt petroleumgas bestemd voor het aandrijven van motorrijtuigen op de weg of van pleziervaartuigen nihil.
 
-3. In afwijking van het eerste lid, onderdelen a, b en c, bedraagt het tarief voor halfzware olie, gasolie en vloeibaar gemaakt petroleumgas als bedoeld in post a 32 van de [bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), onderscheidenlijk € 1,7329, € 1,7475 en € 2,0671, indien geen aansluiting aanwezig is voor aardgas.
+3. In afwijking van het eerste lid, onderdelen a, b en c, bedraagt het tarief voor halfzware olie, gasolie en vloeibaar gemaakt petroleumgas als bedoeld in post a 32 van de [bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), onderscheidenlijk € 16,1629, € 16,2775 en € 19,4171, indien geen aansluiting aanwezig is voor aardgas.
 
-4. In afwijking van het eerste lid, onderdeel d, bedraagt het tarief voor aardgas als bedoeld in post a 32 van de [bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
+4. In afwijking van het eerste lid, onderdeel d, bedraagt het tarief voor aardgas als bedoeld in [post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
 
-- –. niet hoger is dan 5000 m3, per m3 € 0,00165;
+- –. niet hoger is dan 5000 m3, per m3 € 0,01295;
 
-- –. hoger is dan 5000 m3, maar niet hoger dan 170 000 m3, per m3 € 0,00077;
+- –. hoger is dan 5000 m3, maar niet hoger dan 170 000 m3, per m3 € 0,01207;
 
-- –. hoger is dan 170 000 m3, per m3 € 0,00014.
+- –. hoger is dan 170 000 m3, maar niet hoger dan 1 000 000 m3, per m3 € 0,01144;
+
+- –. hoger is dan 1 000 000 m3, maar niet hoger dan 10 000 000 m3, per m3 € 0,0113;
+
+- –. hoger is dan 10 000 000 m3, per m3 € 0,0075.
 
 5. Bij aardgas met een bovenste verbrandingswaarde lager of hoger dan 35,17 megajoule per m3 worden de in het eerste lid, onderdeel d, vierde en zevende lid genoemde tarieven naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
-6. Voorzover de belastingplichtige met betrekking tot de levering van elektriciteit een specifiek contract heeft gesloten met de verbruiker en beschikt over een met die levering overeenkomende hoeveelheid groencertificaten als bedoeld in artikel 1, onderdeel d, van de Regeling groencertificaten Elektriciteitswet 1998, bedraagt het tarief, in afwijking van het eerste lid, onderdeel e, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
+6. Voorzover de belastingplichtige met betrekking tot de levering van elektriciteit een specifiek contract heeft gesloten met de verbruiker en beschikt over een met die levering overeenkomende hoeveelheid garanties van oorsprong als bedoeld in [artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), bedraagt het tarief, in afwijking van het eerste lid, onderdeel e, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
 
-- –. niet hoger is dan 10 000 kWh, per kWh € 0,0349;
+- –. niet hoger is dan 10 000 kWh, per kWh € 0,0357;
 
 - –. hoger is dan 10 000 kWh nihil.
 
-De eerste volzin is niet van toepassing met betrekking tot groencertificaten die zijn geboekt ter zake van elektriciteit die is opgewekt door middel van waterkracht dan wel van elektriciteit uit biomassa die niet als zuivere biomassa kan worden aangemerkt.
+De eerste volzin is niet van toepassing met betrekking tot garanties van oorsprong die zijn geboekt ter zake van elektriciteit die is opgewekt door middel van waterkracht dan wel van elektriciteit uit biomassa die niet als zuivere biomassa kan worden aangemerkt.
 
 7. Voorzover de belastingplichtige met betrekking tot de levering van stortgas, rioolwaterzuiveringsgas of biogas een specifiek contract heeft gesloten met de verbruiker, bedraagt het tarief, in afwijking van het eerste lid, onderdeel d, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
 
-- –. niet hoger is dan 5000 m3, per m3 € 0,0453;
+- –. niet hoger is dan 5000 m3, per m3 € 0,0577;
 
-- –. hoger is dan 5000 m3 nihil.
+- –. hoger is dan 5000 m3, maar niet hoger dan 10 000 000 m3, per m3 € 0,0113;
 
-8. In afwijking van het eerste lid, onderdeel d, bedraagt het tarief voor aardgas € 0,1285 per m3 voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming.
+- –. hoger is dan 10 000 000 m3, per m3 € 0,0075.
 
-9. Bij een verbruiksperiode korter dan wel langer dan 12 maanden worden de in het eerste lid, onderdelen d en e, vierde, zesde en zevende lid, genoemde hoeveelheidsgrenzen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
+8. In afwijking van het eerste lid, onderdeel d, bedraagt het tarief voor aardgas € 0,1429 per m3 voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming.
 
-10. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de tarieven, bedoeld in het zesde en zevende lid, worden toegepast.
+9. Zakelijk verbruik is verbruik door een zakelijke eenheid die zelfstandig, op ongeacht welke plaats, leveringen van goederen en diensten verricht, ongeacht het oogmerk of het resultaat van die economische activiteiten. Economische activiteiten omvatten alle werkzaamheden van een fabrikant, handelaar of verrichter van diensten, met inbegrip van de winning van delfstoffen, de landbouw en de uitoefening van vrije of daarmee gelijkgestelde beroepen. Rijks-, regionale en lokale overheden, alsmede andere publiekrechtelijke lichamen worden als zakelijke eenheid aangemerkt voorzover zij werkzaamheden of transacties verrichten die bij een behandeling als niet-zakelijke eenheid tot concurrentieverstoring van enige betekenis zouden leiden.
 
-11. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van het derde, vierde, zesde en zevende lid.
+10. Niet-zakelijk verbruik is het verbruik anders dan het zakelijk verbruik, bedoeld in het negende lid.
 
-### Afdeling 5. Belastingvermindering en vrijstellingen
+11. Indien bij een aansluiting sprake is van zowel zakelijk als niet-zakelijk verbruik worden de tarieven genoemd in het eerste lid, onderdelen d en g, voor verbruik boven 10 000 000 m3 respectievelijk 10 000 000 kWh toegepast naar evenredigheid van elk type verbruik. Indien het verbruik nagenoeg geheel bestaat uit zakelijk verbruik of niet-zakelijk verbruik, wordt het volledige verbruik als zodanig aangemerkt.
+
+12. Bij een verbruiksperiode korter dan wel langer dan 12 maanden worden de in het eerste lid, onderdelen d en g, vierde, zesde en zevende lid, genoemde hoeveelheidsgrenzen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
+
+13. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de tarieven, bedoeld in het eerste lid, onderdelen d en g, zesde en zevende lid, worden toegepast.
+
+14. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van derde, vierde, zesde, zevende en elfde lid.
+
+15. In afwijking van het eerste lid, onderdeel d, en het vierde lid, bedragen de tarieven nihil voor in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), als aardgas aangemerkte producten voorzover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.
+
+16. In afwijking van het eerste lid, onderdeel e, bedraagt het tarief nihil voor hoogovengas, cokesovengas, kolengas en raffinaderijgas, voorzover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.
+
+17. In afwijking van het eerste lid, onderdeel d, het vierde, zevende en achtste lid, wordt, indien op basis van een contract tussen de belastingplichtige en de verbruiker de levering van aardgas gemeten wordt in Nm3, de belasting verschuldigd over Nm3. Daarbij worden de tarieven, zoals die met betrekking tot aardgas in het eerste lid, onderdeel d, het vierde, het zevende en het achtste lid, zijn vastgesteld per m3, toegepast.
+
+### Afdeling 6. Teruggaven
 
 ##### Artikel 36j
 
-1. Op de ter zake van de levering van aardgas en elektriciteit, bedoeld in [artikel 36c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt € 176 per verbruiksperiode van 12 maanden per elektriciteitsaansluiting. Indien het bedrag van de over deze verbruiksperiode verschuldigde belasting lager is dan het bedrag van de vermindering, wordt het verschil aan de verbruiker terugbetaald.
+1. Op de ter zake van de levering van aardgas en elektriciteit, bedoeld in [artikel 36c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2004-01-01&g=2004-01-01), verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt € 181 per verbruiksperiode van 12 maanden per elektriciteitsaansluiting. Indien het bedrag van de over deze verbruiksperiode verschuldigde belasting lager is dan het bedrag van de vermindering, wordt het verschil aan de verbruiker terugbetaald.
 
 2. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen regels worden gesteld ter effectuering van de toepassing van het eerste lid. Daarbij worden tevens regels gesteld inzake administratieve verplichtingen alsmede strafbaarstelling van overtreding van het bij die regels gestelde.
 
 3. Bij een verbruiksperiode korter dan wel langer dan 12 maanden wordt het in het eerste lid genoemde bedrag naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
-4. Bij toepassing van [artikel 36**c**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), zijn het eerste en het derde lid van overeenkomstige toepassing.
+4. Bij toepassing van [artikel 36**c**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2004-01-01&g=2004-01-01), zijn het eerste en het derde lid van overeenkomstige toepassing.
 
 5. De in het eerste lid bedoelde vermindering van belasting is niet van toepassing met betrekking tot zaken, al dan niet als onroerende zaak aangemerkt, die niet op zichzelf als gebouwde eigendommen zijn aan te merken welke kunnen dienen als woning of ten behoeve van de uitoefening van een bedrijf of beroep of anderszins een verblijfsfunctie hebben.
 
@@ -917,25 +887,51 @@ De eerste volzin is niet van toepassing met betrekking tot groencertificaten die
 
 ##### Artikel 36k
 
-1. Vrijstelling van de belasting wordt verleend ter zake van de levering van aardgas dat wordt gebruikt als brandstof voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30%, alsmede ter zake van de levering van aardgas dat wordt gebruikt als grondstof voor de productie van belastbare producten als bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2003-07-01&g=2003-07-01), dan wel als additief of als vulstof in dergelijke producten.
+1. Vrijstelling van de belasting wordt verleend ter zake van de levering van producten als bedoeld in [artikel 36b, eerste lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch rendement van minimaal 30%.
 
-2. Als installatie met een elektrisch rendement van minimaal 30% wordt aangemerkt een installatie met een gemiddeld gebruik van maximaal 0,38 Nm3 aardgas per opgewekt kWh.
+2. Als installatie met een elektrisch rendement van minimaal 30% wordt aangemerkt een installatie met:
 
-3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de vrijstelling, bedoeld in het eerste lid, wordt verleend.
+- a. een gemiddeld gebruik van maximaal 0,38 Nm3 aardgas per opgewekt kWh;
 
-4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+- b. een gemiddeld gebruik van maximaal 12 megajoule per opgewekt kWh in geval van een andere brandstof.
 
-### Afdeling 6. Teruggaven
+3. Vrijstelling van belasting wordt verleend ter zake van de levering van elektriciteit die wordt gebruikt voor chemische reductie en elektrolytische en metallurgische procédés.
+
+4. Vrijstelling van belasting wordt verleend ter zake van de levering van aardgas en overige gassen die worden gebruikt anders dan als brandstof dan wel aardgas dat wordt gebruikt als additief of als vulstof in producten die direct of indirect zijn bestemd voor verbruik, worden aangeboden voor verkoop of worden verbruikt als aardgas.
+
+5. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de vrijstellingen, bedoeld in het eerste, derde en vierde lid, worden verleend.
+
+6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+
+### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
 ##### Artikel 36l
 
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, voor zover de hoeveelheid die door een verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.
 
+De teruggaaf bedraagt:
+
+- a. indien voornoemde producten zijn belast naar het tarief, bedoeld in artikel 36i, eerste lid, onderdelen a, b en c:
+
+- –. voor halfzware olie, per 1000 L € 138,34;
+
+- –. voor gasolie, per 1000 L € 139,51; en
+
+- –. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 165,03;
+
+- b. indien voornoemde producten zijn belast naar het tarief, bedoeld in artikel 36i, derde lid:
+
+- –. voor halfzware olie, per 1000 L € 1,7329;
+
+- –. voor gasolie, per 1000 L € 1,7475; en
+
+- –. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 2,0671.
+
 2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan degene die de brandstoffen voor eigen verbruik heeft betrokken.
 
-3. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief als bedoeld in [artikel 36i, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2003-07-01&g=2003-07-01), voor het verbruik niet hoger dan 5000 m3, voorzover het verbruik van warmte in een onroerende zaak die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 158 000 MJ per verbruiksperiode van 12 maanden.
+3. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief als bedoeld in [artikel 36i, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2004-01-01&g=2004-01-01), voor het verbruik niet hoger dan 5000 m3, voorzover het verbruik van warmte in een onroerende zaak die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 158 000 MJ per verbruiksperiode van 12 maanden.
 
-4. De teruggaaf, bedoeld in het derde lid, wordt verleend aan de gebruiker van de in het derde lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het tarief, bedoeld in [artikel 36i, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2003-07-01&g=2003-07-01), voor het verbruik niet hoger dan 5000 m3 en het tarief voor het verbruik gelegen tussen 5000 m3 en 170 000 m3.
+4. De teruggaaf, bedoeld in het derde lid, wordt verleend aan de gebruiker van de in het derde lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het tarief, bedoeld in [artikel 36i, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2004-01-01&g=2004-01-01), voor het verbruik niet hoger dan 5000 m3 en het tarief voor het verbruik gelegen tussen 5000 m3 en 170 000 m3.
 
 5. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, voor zover de belasting over de hoeveelheden aardgas en elektriciteit die door een verbruiker in een verbruiksperiode van 12 maanden van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
 
@@ -945,9 +941,9 @@ De eerste volzin is niet van toepassing met betrekking tot groencertificaten die
 
 8. De teruggaaf, bedoeld in het zevende lid, wordt verleend aan de gebruiker van de in het zevende lid bedoelde onroerende zaken. De teruggaaf bedraagt 50 percent van de aan hem in rekening gebrachte belasting.
 
-9. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste, derde, vijfde, zevende en twaalfde lid, wordt verleend.
+9. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste, derde, vijfde, zevende, twaalfde, dertiende, veertiende en vijftiende lid, wordt verleend.
 
-10. [Artikel 28, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=5&artikel=28&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+10. [Artikel 27, derde tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=6&artikel=27&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 11. De teruggaafregeling, bedoeld in het zevende lid, is onder bij regeling van Onze Minister te stellen nadere voorwaarden en beperkingen, eveneens van toepassing met betrekking tot aardgas en elektriciteit, gebruikt in onroerende zaken die hoofdzakelijk in gebruik zijn bij een charitatieve, culturele, wetenschappelijke of het algemeen nut beogende instelling, mits:
 
@@ -961,27 +957,35 @@ De eerste volzin is niet van toepassing met betrekking tot groencertificaten die
 
 - e. de instelling beschikt over een eigen aansluiting.
 
-Bij ministeriële regeling kan Onze Minister niet gesubsidieerd vrijwilligerswerk dat ter behartiging van een sociaal belang om niet wordt verricht door natuurlijke personen onder voorwaarden en beperkingen aanwijzen als een instelling in de zin van de vorige volzin.
+Een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) wordt gelijkgesteld met notarieel verleden statuten als bedoeld in de eerste volzin, aanhef en onderdeel a, indien dit statuut schriftelijk is vastgelegd.
 
-12. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas dat wordt gebruikt op een in [artikel 36k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=5&artikel=36k&z=2003-07-01&g=2003-07-01), bedoelde wijze.
+De teruggaafregeling, bedoeld in de eerste volzin, is onder bij regeling van Onze Minister te stellen nadere voorwaarden en beperkingen, eveneens van toepassing met betrekking tot aardgas en elektriciteit, gebruikt in onroerende zaken die hoofdzakelijk in gebruik zijn bij instellingen die een sociaal belang behartigen.
+
+12. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot producten als bedoeld in [artikel 36b, eerste lid, onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36b&z=2004-01-01&g=2004-01-01), die worden gebruikt op een in artikel [36k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=5&artikel=36k&z=2004-01-01&g=2004-01-01), bedoelde wijze.
+
+13. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot elektriciteit die wordt gebruikt op een in [artikel 36k, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=5&artikel=36k&z=2004-01-01&g=2004-01-01), bedoelde wijze.
+
+14. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas en overige gassen die worden gebruikt op een in [artikel 36k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=5&artikel=36k&z=2004-01-01&g=2004-01-01), bedoelde wijze.
+
+15. Op verzoek wordt teruggaaf van de belasting verleend voorzover met betrekking tot zakelijk verbruik van aardgas boven de 10 000 000 m3 of elektriciteit boven de 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting het tarief voor niet-zakelijk verbruik in rekening is gebracht.
 
 ##### Artikel 36m
 
-1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van leveringen van aardgas en elektriciteit, voor zover de door de belastingplichtige, bedoeld in [artikel 36**e**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2003-07-01&g=2003-07-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
+1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van leveringen van aardgas en elektriciteit, voor zover de door de belastingplichtige, bedoeld in [artikel 36**e**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2004-01-01&g=2004-01-01), ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen.
 
-2. [Artikel 28, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=5&artikel=28&z=2003-07-01&g=2003-07-01), is van overeenkomstige toepassing.
+2. [artikel 27, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=6&artikel=27&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 
 ##### Artikel 36n
 
-1. De belastingplichtige, bedoeld in [artikel 36**e**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2003-07-01&g=2003-07-01), is gehouden een administratie te voeren zodanig dat - voor zover dat voor de heffing van de belasting van belang kan zijn - daaruit te allen tijde duidelijk blijken:
+1. De belastingplichtige, bedoeld in [artikel 36**e**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2004-01-01&g=2004-01-01), is gehouden een administratie te voeren zodanig dat - voor zover dat voor de heffing van de belasting van belang kan zijn - daaruit te allen tijde duidelijk blijken:
 
 - a. de gegevens betreffende de door hem verrichte leveringen;
 
-- b. de gegevens betreffende de toepassing van de in [artikel 36c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36c&z=2003-07-01&g=2003-07-01), en [artikel 36i, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2003-07-01&g=2003-07-01), bedoelde hoeveelheidsgrenzen.
+- b. de gegevens betreffende de toepassing van de in artikel [36i, eerste lid, onderdelen d en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2004-01-01&g=2004-01-01), bedoelde hoeveelheidgrenzen.
 
-2. Bij toepassing van [artikel 36e, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2003-07-01&g=2003-07-01), is het eerste lid van overeenkomstige toepassing.
+2. Bij toepassing van [artikel 36e, derde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=2&artikel=36e&z=2004-01-01&g=2004-01-01), is het eerste lid van overeenkomstige toepassing.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop aan de in het eerste lid bedoelde verplichtingen moet worden voldaan.
 
@@ -1001,15 +1005,15 @@ Vervallen
 
 ##### Artikel 36q
 
-Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kan worden voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden en beperkingen, op verzoek geheel of gedeeltelijke teruggaaf van de belasting wordt verleend aan verbruikers, die in het kader van met Onze Ministers gemaakte afspraken verplichtingen op zich hebben genomen ter verbetering van de energie-efficiency.
+Bij of krachtens op voordracht van Onze Minister, mede namens Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en Onze Minister van Landbouw, Natuur en Voedselkwaliteit, vast te stellen algemene maatregel van bestuur wordt voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden, vrijstelling van de belasting wordt verleend ter zake van de levering van zakelijk verbruikte elektriciteit bij een verbruik boven de 10 000 000 kWh per verbruiksperiode van 12 maanden per aansluiting, voor het gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat hoger is dan 10 000 000 kWh, indien de verbruiker in het kader van met Onze Minister van Economische Zaken, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer of Onze Minister van Landbouw, Natuur en Voedselkwaliteit gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie.
 
-### Afdeling 11. Bijzondere regeling voor afvalverbrandingsinstallaties
+### Afdeling 1. Wijze van heffing
 
 ##### Artikel 36r
 
 Vervallen
 
-### Afdeling 12
+### Afdeling 2. Aanvullende regelingen
 
 ##### Artikel 36s
 
@@ -1029,17 +1033,15 @@ Vervallen
 
 1. De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.
 
-2. In afwijking in zoverre van het eerste lid wordt de belasting van de als minerale oliën aangemerkte brandstoffen bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=21&z=2003-07-01&g=2003-07-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=2&artikel=22&z=2003-07-01&g=2003-07-01), voldaan overeenkomstig de ingevolge [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=7&artikel=30&z=2003-07-01&g=2003-07-01), geldende bepalingen van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251).
+2. Bij toepassing van [artikel 36**h**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=3&artikel=36h&z=2004-01-01&g=2004-01-01), dient in afwijking in zoverre van het tweede lid en van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), de belasting uiterlijk op de dag na het in [artikel 36**h**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=3&artikel=36h&z=2004-01-01&g=2004-01-01), bedoelde tijdstip op aangifte te worden voldaan.
 
-3. Bij toepassing van [artikel 36**h**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=3&artikel=36h&z=2003-07-01&g=2003-07-01), dient in afwijking in zoverre van het tweede lid en van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), de belasting uiterlijk op de dag na het in [artikel 36**h**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=3&artikel=36h&z=2003-07-01&g=2003-07-01), bedoelde tijdstip op aangifte te worden voldaan.
-
-4. Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag. Artikel 28, vierde tot en met zevende lid, is van overeenkomstige toepassing.
+3. Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag. [Artikel 27, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=6&artikel=27&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 2. Aanvullende regelingen
 
 ##### Artikel 37a
 
-De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=9&z=2003-07-01&g=2003-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=10&z=2003-07-01&g=2003-07-01), [11g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=4&artikel=11g&z=2003-07-01&g=2003-07-01), [18, eerste lid, onderdeel a en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2003-07-01&g=2003-07-01), [27, eerste lid, onderdelen a tot en met k, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=27&z=2003-07-01&g=2003-07-01), [36i, eerste lid, onderdelen a tot en met e, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2003-07-01&g=2003-07-01), vermelde bedragen.
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 9, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=9&z=2004-01-01&g=2004-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=II&afdeling=4&artikel=10&z=2004-01-01&g=2004-01-01), [11g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IIA&afdeling=4&artikel=11g&z=2004-01-01&g=2004-01-01), [18, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=III&afdeling=4&artikel=18&z=2004-01-01&g=2004-01-01), [25, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=IV&afdeling=4&artikel=25&z=2004-01-01&g=2004-01-01), [36i, eerste, derde, vierde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=4&artikel=36i&z=2004-01-01&g=2004-01-01), en [36l, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=6&artikel=36l&z=2004-01-01&g=2004-01-01), vermelde bedragen.
 
 ##### Artikel 38
 
@@ -1055,7 +1057,7 @@ Onze Ministers zenden binnen twee en een half jaar na de inwerkingtreding van de
 
 ##### Artikel 38b
 
-Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer uiterlijk 1 juli 2002 aan de Staten-Generaal een verslag over de uitvoering en de werking van [artikel 36p](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=9&artikel=36p&z=2003-07-01&g=2003-07-01) alsmede over de wenselijkheid van handhaving van de desbetreffende regeling.
+Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer uiterlijk 1 juli 2002 aan de Staten-Generaal een verslag over de uitvoering en de werking van [artikel 36p](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VA&afdeling=9&artikel=36p&z=2004-01-01&g=2004-01-01) alsmede over de wenselijkheid van handhaving van de desbetreffende regeling.
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -1066,5 +1068,39 @@ De inwerkingtreding van deze wet wordt bij wet geregeld.
 ##### Artikel 40
 
 Deze wet wordt aangehaald als: Wet belastingen op milieugrondslag.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+
+### Afdeling 4. Tarief
+
+### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
+
+### Hoofdstuk V
+
+### Hoofdstuk VA. Energiebelasting
+
+### Afdeling 1. Begripsbepalingen
+
+### Afdeling 2. Grondslag en belastingplicht
+
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+
+### Afdeling 5. Belastingvermindering en vrijstellingen
+
+### Afdeling 8. Bijzondere regeling voor op duurzame wijze geproduceerde energie
+
+### Afdeling 9. Bijzondere regeling voor energiezuinige apparaten, energiebesparende voorzieningen en voorzieningen voor het opwekken van duurzame energie (energiepremies)
+
+### Afdeling 10. Bijzondere vrijstelling
+
+### Afdeling 11. Bijzondere regeling voor afvalverbrandingsinstallaties
+
+### Hoofdstuk VI. Algemene bepalingen
+
+### Afdeling 3. Evaluatie
+
+### Hoofdstuk VII. Slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
