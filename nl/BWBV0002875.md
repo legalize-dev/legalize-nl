@@ -1,0 +1,40 @@
+---
+title: "Europees Verdrag inzake de erkenning van de rechtspersoonlijkheid van internationale niet-gouvernementele organisaties"
+identifier: "BWBV0002875"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-06-01"
+last_updated: "1986-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002875"
+soort: "verdrag"
+stam_id: "10003194203"
+version_id: "10003204022"
+internal_id: "C10006979771"
+label_id: "10003180114"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002875/2007-06-01/0"
+intitule_bron: "Trb.2002-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-02-21"
+intitule_published: "2002-04-25"
+intitule_in_force: "2007-05-09"
+intitule_status: "goed"
+original_publication: "Trb.2002-81"
+original_signed_date: "2007-02-21"
+original_published_date: "2002-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-81"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBV0002875&z=2007-06-01&g=2007-06-01"
+jci_1_0: "1.0:c:BWBV0002875&g=2007-06-01"
+citeertitel_status: "officieel"
+signed_date: "2007-02-21"
+entry_into_force: "2007-06-01"
+---
+# Europees Verdrag inzake de erkenning van de rechtspersoonlijkheid van internationale niet-gouvernementele organisaties
+
+IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
+
+DONE at Strasbourg, this 24th day of April 1986, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe and to any State invited to accede to this Convention.
