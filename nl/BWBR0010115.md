@@ -4,7 +4,7 @@ identifier: "BWBR0010115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-14"
-last_updated: "2004-04-30"
+last_updated: "2004-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010115"
 soort: "ministeriele-regeling"
@@ -45,21 +45,21 @@ Besluit:
 
 a. Minister: Minister van Verkeer en Waterstaat; b. bevoegde autoriteit: 1º. Minister, of 2º. een in bijlage 4 bij deze regeling erkende instantie.
 
-2. De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2, [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-04-30&g=2004-04-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2004-04-30&g=2004-04-30), voorzover daarin niet anders is bepaald.
+2. De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2, [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-05-28&g=2004-05-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2004-05-28&g=2004-05-28), voorzover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 1. Bij deze regeling behoren vier bijlagen:
 
-a. bijlage 1: voorschriften betreffende het vervoer van gevaarlijke stoffen over de Nederlandse binnenwateren, zijnde de Nederlandse vertaling van het ADNR en de daarvan deel uitmakende bijlagen; b. bijlage 2: Regeling vervoer gevaarlijke stoffen met zeeschepen; c. bijlage 3: voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30); d. bijlage 4: erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2004-04-30&g=2004-04-30).
+a. bijlage 1: voorschriften betreffende het vervoer van gevaarlijke stoffen over de Nederlandse binnenwateren, zijnde de Nederlandse vertaling van het ADNR en de daarvan deel uitmakende bijlagen; b. bijlage 2: Regeling vervoer gevaarlijke stoffen met zeeschepen; c. bijlage 3: voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-05-28&g=2004-05-28); d. bijlage 4: erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2004-05-28&g=2004-05-28).
 
-2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30) is van toepassing op de Nederlandse binnenwateren, voorzover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2004-04-30&g=2004-04-30) niet van toepassing is.
+2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-05-28&g=2004-05-28) is van toepassing op de Nederlandse binnenwateren, voorzover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2004-05-28&g=2004-05-28) niet van toepassing is.
 
-3. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2004-04-30&g=2004-04-30) zijn niet van toepassing op handelingen, genoemd in [artikel 3.3.2, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.3.2).
+3. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-05-28&g=2004-05-28) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2004-05-28&g=2004-05-28) zijn niet van toepassing op handelingen, genoemd in [artikel 3.3.2, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.3.2).
 
 ##### Artikel 3
 
-Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
+Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-05-28&g=2004-05-28) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
 ##### Artikel 4
 
@@ -67,9 +67,9 @@ Indien de Minister ingevolge artikel 3, eerste lid, van het ADNR, tijdelijke voo
 
 ##### Artikel 5
 
-1. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-04-30&g=2004-04-30) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+1. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-05-28&g=2004-05-28) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-2. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-04-30&g=2004-04-30) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+2. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2004-05-28&g=2004-05-28) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 3. Het eerste en tweede lid zijn niet van toepassing met betrekking tot de Rijn, de Waal en de Lek.
 
@@ -93,15 +93,15 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2004-04-30&g=2004-04-30), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2004-05-28&g=2004-05-28)
 
 ##### Artikel 1. **Toepasbaarheid**
 
-De bepalingen van deze bijlage zijn van toepassing op elk vervoer van gevaarlijke stoffen over de Nederlandse binnenwateren en hebben voorrang boven de bepalingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30).
+De bepalingen van deze bijlage zijn van toepassing op elk vervoer van gevaarlijke stoffen over de Nederlandse binnenwateren en hebben voorrang boven de bepalingen van bijlage 1.
 
 ##### Artikel 2. **N-bepaling**
 
-De volgende N-bepalingen zijn een aanvulling op, dan wel een afwijking van de overeenkomstige bepaling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30).
+De volgende N-bepalingen zijn een aanvulling op, dan wel een afwijking van de overeenkomstige bepaling in bijlage 1.
 
 Vluchtwegen 1.4.2.3.1. d)/1.4.3.3. p) N
 
@@ -117,41 +117,41 @@ Het bij het laden naar buiten treden van de gas/luchtmengsels van de stoffen vin
 
 ##### Artikel 3. **Routering**
 
-1. Het is verboden ammoniak van de klasse 2, stofnummer 9000, Ammoniak, Klasse 2, 3TC, of brandbare gassen van de klasse 2 te vervoeren met tankschepen langs Dordrecht, Zwijndrecht of Papendrecht, anders dan over de Dordtse Kil.
+1. Het is verboden ammoniak van de klasse 2, stofnummer 9000, Ammoniak, watervrij sterk gekoeld Klasse 2, 3TC, of brandbare gassen van de klasse 2 te vervoeren met tankschepen langs Dordrecht, Zwijndrecht of Papendrecht, anders dan over de Dordtse Kil.
 
 2. Het eerste lid is niet van toepassing op:
 
 - a. tankschepen die minder dan 25 ton vervoeren;
 
-- b. tankschepen die volledig voldoen aan randnummer 7.2.4.24 van het ADNR conform het Certificaat van Goedkeuring, of
+- b. tankschepen die volledig voldoen aan randnummer 9.3.1.11.2 van het ADNR conform het Certificaat van Goedkeuring, of
 
 - c. vervoer uitsluitend tussen de Volkeraksluizen en Amsterdam, mits het betrokken schip zich ten minste één uur voor het opvaren van de Oude Maas meldt bij de Regionale Verkeerscentrale Dordrecht.
 
-##### Artikel 4. **Binnenvaartpolitiereglement**
+##### Artikel 4. [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
 
 Op het vervoer van gevaarlijke stoffen op de Westerschelde en haar mondingen, op het Kanaal van Gent naar Terneuzen en in de buitenvoorhavens te Terneuzen, op de Eems en op de Dollard zijn de voorschriften bij of krachtens de [artikelen 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14), [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.21), [3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.32), [4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.04), [6.28, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), [7.06](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.06) en [7.08, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.08) van overeenkomstige toepassing.
 
-## Bijlage 4. bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2004-04-30&g=2004-04-30), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+## Bijlage 4. bedoeld in [artikel 2, eerste lid, onderdeel d, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2004-05-28&g=2004-05-28)
 
 ##### Artikel 1
 
 Bevoegde autoriteiten in bijlage 1 bij het Protocol bij het ADNR zijn op basis van:
 
-- a. [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=3&z=2004-04-30&g=2004-04-30): de Directeur-Generaal Goederenvervoer (Afdeling Lading en Risicobeleid);
+- a. [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=3&z=2004-05-28&g=2004-05-28): de Directeur-Generaal Goederenvervoer (Afdeling Lading en Risicobeleid);
 
-- b. [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=4&z=2004-04-30&g=2004-04-30): de Directeur-Generaal Goederenvervoer (Afdeling Lading en Risicobeleid);
+- b. [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=4&z=2004-05-28&g=2004-05-28): de Directeur-Generaal Goederenvervoer (Afdeling Lading en Risicobeleid);
 
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=5&z=2004-04-30&g=2004-04-30): Inspectie Verkeer en Waterstaat (Divisie Vervoer).
+- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=5&z=2004-05-28&g=2004-05-28): Inspectie Verkeer en Waterstaat (Divisie Vervoer).
 
 ##### Artikel 2
 
-In de onderstaande tabel 1 zijn de instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2004-04-30&g=2004-04-30) voorzover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
+In de onderstaande tabel 1 zijn de instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voorzover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
 
 ##### Artikel 3
 
 1. In tabel 1 wordt verstaan onder:
 
-a. Classificatiebureau: een classificatiebureau dat door alle Rijnoeverstaten en België is erkend; b. Defensie: Militaire Commissie Gevaarlijke Stoffen van het Ministerie van Defensie; c. DGG/VL: Minister, namens deze het hoofd van de afdeling Lading en Risicobeleid van het Directoraat-Generaal Goederenvervoer; d. Stoomwezen: Stoomwezen B.V. of een door deze instantie aangewezen deskundige of instantie; e. HID-RWS: Minister, namens deze de betrokken hoofdingenieur-directeur van het Directoraat-Generaal Rijkswaterstaat; f. IVW, Divisie Scheepvaart: Minister, namens deze de directeur-hoofdinspecteur van de Inspectie Verkeer en Waterstaat, divisie Scheepvaart; g. IVW, Divisie Vervoer: Minister, namens deze de directeur-hoofdinspecteur van de Inspectie Verkeer en Waterstaat, divisie Vervoer; h. KOFS: het Koninklijk Onderwijsfonds voor de Scheepvaart; i. LNV: de Minister van Landbouw, Natuurbeheer en Visserij; j. SEV: Stichting Exameninstituut Veiligheidsadviseur; k. SZW: de Minister van Sociale Zaken en Werkgelegenheid; l. TNO PML: het Prins Maurits Laboratorium van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek; m. VROM: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; n. VWS: de Minister van Volksgezondheid, Welzijn en Sport.
+a. Classificatiebureau: een classificatiebureau dat door alle Rijnoeverstaten en België is erkend; b. Defensie: Militaire Commissie Gevaarlijke Stoffen van het Ministerie van Defensie; c. DGG/VL: Minister, namens deze het hoofd van de afdeling Lading en Risicobeleid van het Directoraat-Generaal Goederenvervoer; d. Stoomwezen: Stoomwezen B.V. of een door deze instantie aangewezen deskundige of instantie; e. HID-RWS: Minister, namens deze de betrokken hoofdingenieur-directeur van het Directoraat-Generaal Rijkswaterstaat; f. IVW, Divisie Scheepvaart: Minister, namens deze de directeur-hoofdinspecteur van de Inspectie Verkeer en Waterstaat, divisie Scheepvaart; g. IVW, Divisie Vervoer: Minister, namens deze de directeur-hoofdinspecteur van de Inspectie Verkeer en Waterstaat, divisie Vervoer; h. KOFS: het Koninklijk Onderwijsfonds voor de Scheepvaart; i. LNV: de Minister van Landbouw, Natuur en Voedselkwaliteit; j. SEV: Stichting Exameninstituut Veiligheidsadviseur; k. SZW: de Minister van Sociale Zaken en Werkgelegenheid; l. TNO PML: het Prins Maurits Laboratorium van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek; m. VROM: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; n. VWS: de Minister van Volksgezondheid, Welzijn en Sport.
 
 2. Indien het Stoomwezen B.V. de bevoegde autoriteit als bedoeld in tabel 1 is, gelden indien wordt verwezen naar voorschriften of bepalingen, de normen van Stoomwezen B.V.
 
