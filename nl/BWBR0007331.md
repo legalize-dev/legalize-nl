@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2004-07-16"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als vaarwegen of gedeelten daarvan, waar des daags met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
+1. Als vaarwegen of gedeelten daarvan, waar overdag met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
 
 - a. vervallen;
 
@@ -268,7 +268,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Als vaarwegen of gedeelten daarvan, waar des daags mag worden gewaterskied worden aangewezen:
+1. Als vaarwegen of gedeelten daarvan, waar overdag mag worden gewaterskied worden aangewezen:
 
 - a. vervallen;
 
@@ -490,7 +490,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 3
 
-1. Als vaarwegen of gedeelten daarvan, waar des nachts met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
+1. Als vaarwegen of gedeelten daarvan, waar 's nachts met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
 
 - a. de Oude Maas vanaf km 998.000;
 
@@ -500,4 +500,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2004-07-16&g=2004-07-16), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2004-12-01&g=2004-12-01), van overeenkomstige toepassing.
