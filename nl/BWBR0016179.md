@@ -4,7 +4,7 @@ identifier: "BWBR0016179"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-01-01"
-last_updated: "2003-12-31"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016179"
 soort: "ministeriele-regeling"
@@ -46,10 +46,10 @@ Wijzigt de Regeling schoonmaakdiensten particulieren.
 
 1. Het controle- en rapportageprotocol, bedoeld in [artikel 7 van de Regeling schoonmaakdiensten particulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009136&artikel=7), voor het jaar 2003 wordt vastgesteld overeenkomstig het bij deze regeling behorende model.
 
-2. Dit lid is nog niet in werking getreden.
+2. De modellen van de declaratie, de slotdeclaratie, de jaaropgave, de verklaring van de accountant en het controle- en rapportageprotocol, bedoeld in [artikel 7 van de Regeling schoonmaakdiensten particulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0009136&artikel=7), worden voor het jaar 2004 vervangen door de bij deze regeling behorende modellen.
 
 ##### Artikel III
 
-Deze regeling treedt, met uitzondering van de [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=I&z=2003-12-31&g=2003-12-31), en [II, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=II&z=2003-12-31&g=2003-12-31), in werking met ingang van 1 januari 2004. De [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=I&z=2003-12-31&g=2003-12-31), en [II, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=II&z=2003-12-31&g=2003-12-31), treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 januari 2003.
+Deze regeling treedt, met uitzondering van de [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=I&z=2004-01-01&g=2004-01-01), en [II, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=II&z=2004-01-01&g=2004-01-01), in werking met ingang van 1 januari 2004. De [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=I&z=2004-01-01&g=2004-01-01), en [II, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016179&artikel=II&z=2004-01-01&g=2004-01-01), treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 januari 2003.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van het controle- en rapportageprotocol voor het jaar 2003 en het controle- en rapportageprotocol voor het 2004, in de Staatscourant worden geplaatst. Het controle- en rapportageprotocol voor het jaar 2003 en het controle- en rapportageprotocol voor het jaar 2004 worden met ingang van 15 januari 2004 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te Den Haag.
