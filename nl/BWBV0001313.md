@@ -624,29 +624,3 @@ DONE at Copenhagen this first day of July 1996, in duplicate, in the English lan
 **For the Government of the Kingdom of Denmark**
 
 (sd.) PETER LOFT
-
-##### Artikel 23a. Recht op voordelen
-
-Niettegenstaande de overige bepalingen van dit Verdrag, wordt een voordeel uit hoofde van dit Verdrag niet toegekend met betrekking tot een bestanddeel van het inkomen indien, rekening houdend met alle relevante feiten en omstandigheden, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dat voordeel een van de voornaamste doelen was van een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat toekenning van dat voordeel in deze omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de relevante bepalingen van dit Verdrag.
-
-### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
-
-### HOOFDSTUK VII. SLOTBEPALINGEN
-
-Met betrekking tot het Verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting, gesloten tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-##### XIII. Ad [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001313&hoofdstuk=VI&artikel=27&z=2018-12-31&g=2018-12-31) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001313&hoofdstuk=VI&artikel=28&z=2018-12-31&g=2018-12-31)
-
-De bepalingen van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001313&hoofdstuk=VI&artikel=27&z=2018-12-31&g=2018-12-31) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001313&hoofdstuk=VI&artikel=28&z=2018-12-31&g=2018-12-31) zijn van dienovereenkomstige toepassing op inkomstengerelateerde voorschriften.
-
-IN WITNESS whereof the undersigned, duly authorised thereto, have signed this Convention.
-
-DONE at Copenhagen this first day of July 1996, in duplicate, in the English language.
-
-**For the Government of the Kingdom of the Netherlands**
-
-(sd.) J. W. SEMEYNS DE VRIES VAN DOESBURGH
-
-**For the Government of the Kingdom of Denmark**
-
-(sd.) PETER LOFT
