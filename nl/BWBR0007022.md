@@ -4,7 +4,7 @@ identifier: "BWBR0007022"
 country: "nl"
 rank: "wet"
 publication_date: "2009-05-01"
-last_updated: "2001-01-10"
+last_updated: "2002-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007022"
 soort: "wet"
@@ -166,7 +166,7 @@ Bepalingen in verordeningen van provincies, gemeenten en waterschappen, in wier 
 
 ##### Artikel 29
 
-Ten aanzien van aanvragen van typegoedkeuringen en individuele goedkeuringen, ingediend ten minste vier weken vóór het tijdstip van inwerkingtreding van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) en [26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), blijven na dat tijdstip de bepalingen en eisen, gesteld bij of krachtens de Wegenverkeerswet van kracht, tenzij de aanvrager om toepassing van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) en [26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) verzoekt. Indien de aanvraag wordt behandeld overeenkomstig de bepalingen van de Wegenverkeerswet, is ten aanzien van de op basis daarvan verleende typegoedkeuring [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=2&artikel=30&z=2001-01-10&g=2001-01-10) van overeenkomstige toepassing.
+Ten aanzien van aanvragen van typegoedkeuringen en individuele goedkeuringen, ingediend ten minste vier weken vóór het tijdstip van inwerkingtreding van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) en [26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), blijven na dat tijdstip de bepalingen en eisen, gesteld bij of krachtens de Wegenverkeerswet van kracht, tenzij de aanvrager om toepassing van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) en [26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) verzoekt. Indien de aanvraag wordt behandeld overeenkomstig de bepalingen van de Wegenverkeerswet, is ten aanzien van de op basis daarvan verleende typegoedkeuring [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=2&artikel=30&z=2002-08-01&g=2002-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 30
 
@@ -202,7 +202,7 @@ Aanvragen van nieuwe kentekenbewijzen of delen daarvan, ter vervanging van op ba
 
 ##### Artikel 37
 
-Aanvragen van nieuwe kentekenbewijzen of delen daarvan, ter vervanging van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen of delen daarvan, die verloren zijn geraakt of teniet zijn gegaan, en aanvragen van duplicaten voor op basis van de Wegenverkeerswet afgegeven kentekenbewijzen of delen daarvan, die versleten of geheel of ten dele onleesbaar zijn, welke aanvragen worden ingediend na het tijdstip van inwerkingtreding van [artikel 55 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=55), worden na dat tijdstip behandeld overeenkomstig de ter zake bij of krachtens de Wegenverkeerswet vastgestelde voorschriften, tenzij met toepassing van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=3&artikel=34&z=2001-01-10&g=2001-01-10) is bepaald dat de kentekenbewijzen ter vervanging waarvan die nieuwe kentekenbewijzen of duplicaten worden aangevraagd, dienen te worden vervangen door een kentekenbewijs, afgegeven op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
+Aanvragen van nieuwe kentekenbewijzen of delen daarvan, ter vervanging van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen of delen daarvan, die verloren zijn geraakt of teniet zijn gegaan, en aanvragen van duplicaten voor op basis van de Wegenverkeerswet afgegeven kentekenbewijzen of delen daarvan, die versleten of geheel of ten dele onleesbaar zijn, welke aanvragen worden ingediend na het tijdstip van inwerkingtreding van [artikel 55 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=55), worden na dat tijdstip behandeld overeenkomstig de ter zake bij of krachtens de Wegenverkeerswet vastgestelde voorschriften, tenzij met toepassing van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=3&artikel=34&z=2002-08-01&g=2002-08-01) is bepaald dat de kentekenbewijzen ter vervanging waarvan die nieuwe kentekenbewijzen of duplicaten worden aangevraagd, dienen te worden vervangen door een kentekenbewijs, afgegeven op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 ##### Artikel 38
 
@@ -276,11 +276,15 @@ Tot het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel
 
 ##### Artikel 48
 
-Met ingang van het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel **k**](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), en [107 tot en met 134 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) wordt voor de toepassing van die wet onder rijbewijs mede verstaan een rijbewijs dat is afgegeven op basis van de Wegenverkeerswet.
+1. Met ingang van het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [107 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [111, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111) en [112 tot en met 134 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=112) wordt voor de toepassing van die wet onder rijbewijs mede verstaan een rijbewijs dat is afgegeven op basis van de Wegenverkeerswet.
+
+2. Voor de toepassing van [artikel 111, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111) wordt onder een eerder aan hem afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan hem afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+
+3. Met ingang van het tijdstip van inwerkingtreding van [artikel 123 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123) wordt voor de toepassing van het eerste lid, aanhef juncto onderdeel b, van dat artikel onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur of door omwisseling tegen een rijbewijs dat is afgegeven door het daartoe bevoegde gezag buiten Nederland.
 
 ##### Artikel 49
 
-Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=50&z=2001-01-10&g=2001-01-10) worden rijbewijzen die zijn afgegeven op basis van de Wegenverkeerswet, aangemerkt als rijbewijzen die zijn afgegeven op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
+Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=50&z=2002-08-01&g=2002-08-01) worden rijbewijzen die zijn afgegeven op basis van de Wegenverkeerswet, aangemerkt als rijbewijzen die zijn afgegeven op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 ##### Artikel 50
 
@@ -320,7 +324,7 @@ Aanvragen van vervangende rijbewijzen voor op basis van de Wegenverkeerswet afge
 
 ##### Artikel 59
 
-In de gevallen, bedoeld in de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=56&z=2001-01-10&g=2001-01-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=57&z=2001-01-10&g=2001-01-10) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=58&z=2001-01-10&g=2001-01-10) wordt aan de aanvrager een rijbewijs volgens het door Onze Minister ingevolge [artikel 107, tweede lid, onderdeel **a**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) vastgestelde model afgegeven.
+In de gevallen, bedoeld in de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=56&z=2002-08-01&g=2002-08-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=57&z=2002-08-01&g=2002-08-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0007022&hoofdstuk=IV&paragraaf=7&artikel=58&z=2002-08-01&g=2002-08-01) wordt aan de aanvrager een rijbewijs volgens het door Onze Minister ingevolge [artikel 107, tweede lid, onderdeel **a**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) vastgestelde model afgegeven.
 
 ##### Artikel 60
 
