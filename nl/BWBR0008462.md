@@ -4,7 +4,7 @@ identifier: "BWBR0008462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-18"
-last_updated: "2001-04-29"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008462"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2001-04-29&g=2001-04-29) vrijstelling verleend:
+1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2001-04-29&g=2003-01-01) vrijstelling verleend:
 
 - a. de onroerende-zaakbelasting ter zake van het gebruik van onroerende zaken;
 
@@ -66,7 +66,7 @@ Besluiten:
 
 ##### Artikel 2
 
-1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2001-04-29), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
+1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2003-01-01), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
 
 2. Onder de officiële werkzaamheden van de diplomatieke of consulaire vertegenwoordiging, bedoeld in het eerste lid, wordt mede verstaan het huisvesten van haar leden.
 
@@ -74,9 +74,9 @@ Besluiten:
 
 ##### Artikel 3
 
-1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2001-04-29), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, met uitzondering van de honoraire consuls.
+1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2003-01-01), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, met uitzondering van de honoraire consuls.
 
-2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2001-04-29), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, met uitzondering van de honoraire consulaire ambtenaren, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland.
+2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2003-01-01), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, met uitzondering van de honoraire consulaire ambtenaren, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland.
 
 3. Een in het tweede lid genoemde vrijstelling ten aanzien van de leden, wordt mede toegepast ten aanzien van de bij hen inwonende gezinsleden en ten aanzien van hun particuliere bedienden.
 
@@ -86,7 +86,7 @@ Besluiten:
 
 ##### Artikel 4
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2001-04-29), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2003-01-01), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
 
 - a. de Carnegie-Stichting te Den Haag, ter zake van het Vredespaleis;
 
@@ -124,7 +124,7 @@ Besluiten:
 
 ##### Artikel 5
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2001-04-29), genoemde belastingen zijn vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2001-04-29&g=2003-01-01), genoemde belastingen zijn vrijgesteld:
 
 - a. leden van een krijgsmacht, een civiele dienst en hun gezinsleden als bedoeld in artikel I, eerste lid, letters a, b, en c van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten;
 
