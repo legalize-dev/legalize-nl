@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-05-31"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=22), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), [37b, derde lid en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37c), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73) en [74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=74) en [artikel 37 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37).
+Dit besluit geeft uitvoering aan de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=1), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=4), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=22), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b), [30, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30), [37b, derde lid en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37b), [37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37c), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), [71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=73) en [74, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=74) en [artikel 37 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37).
 
 ##### Artikel 2
 
@@ -106,21 +106,27 @@ Met motorrijwielen als bedoeld in [artikel 2, onderdeel **d**](https://wetten.ov
 
 ##### Artikel 5a
 
-1. [Artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b) van de wet vindt toepassing voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, indien met het motorrijtuig niet wordt gereden op autowegen en autosnelwegen.
+1. Ten behoeve van eenzelfde gehandicapte vindt artikel 24a van de wet toepassing voor één bestelauto.
 
-2. De toepassing van [artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b) van de wet vindt plaats op verzoek.
+2. Artikel 24a van de wet vindt slechts toepassing indien het verzoek daartoe wordt ingediend bij de inspecteur voor de aanvang van het tijdvak, en
 
-3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak.
+- a. bij het verzoek worden overgelegd:
 
-4. Bij het verzoek worden een of meer foto’s overgelegd waaruit blijkt dat het motorrijtuig op de in het eerste lid vermelde wijze is ingericht en waarop het kenteken duidelijk waarneembaar is.
+- –. bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in artikel 24a, eerste lid, van de wet die is verstrekt in het kader van een beschikking ingevolge de [Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169), dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
-5. Bij het verzoek wordt een verklaring overgelegd dat als het motorrijtuig niet meer voldoet aan de in het eerste lid genoemde voorwaarden een opgaaf aan de inspecteur zal worden gedaan.
+- –. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de bestelauto; en
 
-6. De inspecteur beslist op het verzoek voor bij bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend.
+- –. een verklaring van een ambtenaar van de rijksbelastingdienst, bevoegd inzake de douane, dat de bestelauto is ingericht voor het in artikel 24a, eerste lid van de wet bedoelde vervoer; en
 
-7. Indien aan de in het eerste lid bedoelde voorwaarden niet langer wordt voldaan, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
+- b. de bestelauto uitsluitend wordt gebruikt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto.
 
-8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
+3. Indien artikel 24a van de wet reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
+
+4. De beschikking bedoeld in artikel 24a, zesde lid, van de wet werkt terug tot op het tijdstip waarop het verzoek is ingediend, tenzij in de beschikking anders is bepaald.
+
+5. Telkens vóór het einde van het vierde opeenvolgende tijdvak, gerekend vanaf het tijdstip waarop de beschikking van kracht is geworden, wordt een verklaring van de gehandicapte en, in geval dit een ander is, de houder overgelegd dat de bestelauto uitsluitend wordt gebruikt voor het in het tweede lid, onderdeel b, bedoelde gebruik en dat de bestelauto niet in een zodanige staat is gebracht, anders dan door een aanpassing als bedoeld in het artikel 24a, tweede lid,van de wet, dat het een personenauto is.
+
+6. Indien niet langer wordt voldaan aan de voorwaarden en beperkingen voor de toepassing van artikel 24a van de wet, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=17), of artikel 24a, vierde lid, van de wet, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop niet langer aan de voorwaarden en beperkingen van artikel 24a van de wet wordt voldaan.
 
 ##### Artikel 6
 
@@ -190,7 +196,7 @@ Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip
 
 2. De toepassing van [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=50), van de wet vindt plaats op verzoek.
 
-3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2004-05-31&g=2004-05-31), is van overeenkomstige toepassing.
+3. [Artikel 6, tweede lid, en vierde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=III&artikel=6&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
 
@@ -412,23 +418,23 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2004-05-31&g=2004-05-31).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2004-05-31&g=2004-05-31) worden op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) worden op verzoek verleend.
 
 2. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, dan wel van het gebruik van de weg in Nederland met het motorrijtuig.
 
-3. Bij het verzoek worden de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2004-05-31&g=2004-05-31) bedoelde opgaven, verklaringen en bescheiden overgelegd, alsmede een opgave van het kenteken van het motorrijtuig.
+3. Bij het verzoek worden de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde opgaven, verklaringen en bescheiden overgelegd, alsmede een opgave van het kenteken van het motorrijtuig.
 
-4. Bij het verzoek wordt een verklaring overgelegd dat voor motorrijtuigen die niet meer voldoen aan in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2004-05-31&g=2004-05-31) gestelde voorwaarden of omstandigheden, dan wel - voor zover het andere motorrijtuigen betreft - worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan.
+4. Bij het verzoek wordt een verklaring overgelegd dat voor motorrijtuigen die niet meer voldoen aan in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) gestelde voorwaarden of omstandigheden, dan wel - voor zover het andere motorrijtuigen betreft - worden afgestoten, een opgaaf aan de inspecteur zal worden gedaan.
 
 5. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De vrijstelling werkt, tenzij in de beschikking anders is bepaald, terug tot op het tijdstip waarop het verzoek is ingediend.
 
 6. Indien de in het vierde lid bedoelde voorwaarden of omstandigheden zich niet langer voordoen, trekt de inspecteur de vrijstelling in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
 
-7. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting bedoeld in het vierde lid, wordt de vrijstelling geacht te zijn vervallen op het tijdstip waarop de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2004-05-31&g=2004-05-31) bedoelde voorwaarden of omstandigheden zich niet meer voordoen.
+7. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting bedoeld in het vierde lid, wordt de vrijstelling geacht te zijn vervallen op het tijdstip waarop de in de [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde voorwaarden of omstandigheden zich niet meer voordoen.
 
 8. Bij beëindiging van de vrijstelling geldt als kort tijdvak waarover de belasting moet worden betaald, het tijdvak dat aanvangt met ingang van de dag waarop de vrijstelling is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die vrijstelling moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=11), van de wet.
 
@@ -452,17 +458,17 @@ Vrijstelling van belasting voor motorrijtuigen waarvan de houder niet in Nederla
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2004-05-31&g=2004-05-31) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2005-01-01&g=2005-01-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2004-05-31&g=2004-05-31), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2005-01-01&g=2005-01-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2004-05-31&g=2004-05-31).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2005-01-01&g=2005-01-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
@@ -475,6 +481,84 @@ Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 ##### Artikel 33
 
 Dit besluit kan worden aangehaald als Uitvoeringsbesluit motorrijtuigenbelasting 1994.
+
+## Bijlage
+
+| Land waar de houder woont of is gevestigd | Omschrijving van de motorrijtuigen waarvoor de vrijstelling geldt | Duur van de vrijstelling |
+| --- | --- | --- |
+| **A. Lid-staten van de Europese Unie** |   |   |
+| België | alle motorrijtuigen | onbeperkte duur |
+| Duitsland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste veertien dagen |
+| Denemarken | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste drie maanden |
+| Frankrijk | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Griekenland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Ierland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Italië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Luxemburg | alle motorrijtuigen | onbeperkte duur |
+| Portugal | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Spanje | motorrijtuigen, ingericht voor personenvervoer | ten hoogste twaalf maanden |
+| Verenigd Koninkrijk | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
+| Alle lid-staten | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen of goederen tegen betaling | regelmatig gebruik van de weg in Nederland van de verblijfplaats buiten Nederland naar de arbeidsplaats en terug |
+| **B. Overige landen** |   |   |
+| Aruba | alle motorrijtuigen | onbeperkte duur |
+| Bulgarije | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Canada | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste twaalf maanden |
+| Cyprus | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Finland | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Hongarije | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste 60 dagen per kalenderjaar |
+|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Israël | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Japan | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste drie maanden |
+| Joegoslavië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | vrijstelling onder voorwaarde dat een geldig legitimatiebewijs wordt overgelegd |
+| Liechtenstein | alle motorrijtuigen | ten hoogste drie maanden |
+| Nederlandse Antillen | alle motorrijtuigen | onbeperkte duur |
+| Noorwegen | alle motorrijtuigen, met uitzondering van die welke niet zijn ingericht voor personenvervoer en worden voortbewogen of zijn ingericht om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan benzine | ten hoogste twaalf maanden |
+| Oostenrijk | alle motorrijtuigen | onbeperkte duur |
+| Polen | alle motorrijtuigen met uitzondering van die gebezigd voor doorgaand transport en van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
+| Roemenië | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Suriname | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Tsjechoslowakije | alle motorrijtuigen | onbeperkte duur |
+| Turkije | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
+| Unie van Socialistische Sovjetrepublieken | alle motorrijtuigen | onbeperkte duur |
+| Unie van Zuid-Afrika | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Verenigde Staten van Amerika | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Zweden | alle motorrijtuigen | ten hoogste twaalf maanden |
+| Zwitserland | alle motorrijtuigen | ten hoogste drie maanden |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 5b
+
+1. [Artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b) van de wet vindt toepassing voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, indien met het motorrijtuig niet wordt gereden op autowegen en autosnelwegen.
+
+2. De toepassing van [artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25b) van de wet vindt plaats op verzoek.
+
+3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak.
+
+4. Bij het verzoek worden een of meer foto’s overgelegd waaruit blijkt dat het motorrijtuig op de in het eerste lid vermelde wijze is ingericht en waarop het kenteken duidelijk waarneembaar is.
+
+5. Bij het verzoek wordt een verklaring overgelegd dat als het motorrijtuig niet meer voldoet aan de in het eerste lid genoemde voorwaarden een opgaaf aan de inspecteur zal worden gedaan.
+
+6. De inspecteur beslist op het verzoek voor bij bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend.
+
+7. Indien aan de in het eerste lid bedoelde voorwaarden niet langer wordt voldaan, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
+
+8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
+
+### Hoofdstuk IIIA. Bedrijfsvoertuigenpark
+
+### Hoofdstuk IV. Vrijstellingen
+
+### Hoofdstuk V. Overgangsbepalingen
+
+### Hoofdstuk VI. Slotbepalingen
 
 ## Bijlage
 
