@@ -4,7 +4,7 @@ identifier: "BWBR0003028"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-04-01"
-last_updated: "1976-06-17"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003028"
 soort: "ministeriele-regeling"
@@ -45,11 +45,11 @@ In dit besluit wordt onder ‘Richtlijn’ verstaan: de Richtlijn van de Raad va
 
 ##### Artikel 2
 
-De burgemeester wordt aangewezen als de instantie die bevoegd is tot afgifte van een bewijs van betrouwbaarheid als bedoeld in het eerste lid van artikel 3 van de Richtlijn. Als bewijs van betrouwbaarheid dient de verklaring omtrent het gedrag, die kan worden afgegeven ingevolge de artikelen 19 en volgende van de Wet op de justitiële documentatie en de verklaringen omtrent het gedrag.
+De burgemeester wordt aangewezen als de instantie die bevoegd is tot afgifte van een bewijs van betrouwbaarheid als bedoeld in het eerste lid van artikel 3 van de Richtlijn. Als bewijs van betrouwbaarheid dient de verklaring omtrent het gedrag, die kan worden afgegeven overeenkomstig de bepalingen van de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
 ##### Artikel 3
 
-Ter vervanging van het in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003028&artikel=3&z=1976-06-17&g=1976-06-17) bedoelde document dat dient tot bewijs van het feit dat geen faillissement heeft plaatsgehad, wordt aangewezen een door een notaris afgegeven afschrift van een authentieke akte, waarin het afleggen van een verklaring, als bedoeld in voornoemd artikel, tweede lid, is geconstateerd.
+Ter vervanging van het in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003028&artikel=3&z=2004-04-01&g=2004-04-01) bedoelde document dat dient tot bewijs van het feit dat geen faillissement heeft plaatsgehad, wordt aangewezen een door een notaris afgegeven afschrift van een authentieke akte, waarin het afleggen van een verklaring, als bedoeld in voornoemd artikel, tweede lid, is geconstateerd.
 
 ##### Artikel 4
 
