@@ -61,9 +61,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 49 van de Zeevaart
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Zeevaartbemanningswet.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 61, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=61).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
