@@ -4,7 +4,7 @@ identifier: "BWBR0008657"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008657"
 soort: "wet"
@@ -340,7 +340,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 6. Voor de toepassing van het vierde lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-7. In afwijking van het eerste lid, onderdeel c, worden bij algemene maatregel van bestuur regels gesteld waaruit blijkt onder welke omstandigheden het recht op een arbeidsongeschiktheidsuitkering kan worden voortgezet wegens gebleken onbillijkheden die uitsluitend voortkomen uit beperking van de exporteerbaarheid.
+7. Het Uitvoeringsinstituut werknemersverzekeringen kan het eerste lid, onderdeel c, buiten toepassing laten of daarvan afwijken voorzover toepassing, gelet op het belang van het eindigen van het recht op arbeidsongeschiktheidsuitkering indien de jonggehandicapte buiten Nederland gaat wonen, zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 18. Herleving van het recht op uitkering
 
@@ -538,31 +538,31 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 ##### Artikel 38. Gevolgen niet-naleving voorschriften
 
-Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2002-01-01&g=2002-01-01), indien de jonggehandicapte:
+Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2002-09-01&g=2002-09-01), indien de jonggehandicapte:
 
-- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2002-01-01&g=2002-01-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij de Centrale organisatie voor werk en inkomen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
+- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2002-09-01&g=2002-09-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij de Centrale organisatie voor werk en inkomen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
 
 - b. zich niet, zolang als het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige te kennen heeft gegeven dit noodzakelijk te achten, onder geneeskundige behandeling stelt of indien hij de voorschriften van de behandelende arts niet opvolgt;
 
 - c. zich schuldig maakt aan gedragingen, waardoor zijn genezing wordt belemmerd of nalaat voldoende mee te werken om aanpassing aan zijn ziekte of gebrek te verkrijgen;
 
-- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2002-01-01&g=2002-01-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2002-01-01&g=2002-01-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
+- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2002-09-01&g=2002-09-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2002-09-01&g=2002-09-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
 
 - e. zijn arbeidsongeschiktheid opzettelijk heeft veroorzaakt;
 
-- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2002-01-01&g=2002-01-01);
+- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2002-09-01&g=2002-09-01);
 
 - g. indien de belanghebbende zonder redelijke gronden niet meewerkt aan een scholing of opleiding die wenselijk wordt geacht voor zijn inschakeling in de arbeid.
 
 ##### Artikel 39. Afstemming maatregel op ernst gedraging
 
-1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2002-01-01&g=2002-01-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2002-01-01&g=2002-01-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2002-09-01&g=2002-09-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2002-09-01&g=2002-09-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2002-01-01&g=2002-01-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, of indien de jonggehandicapte zich niet houdt aan de voorschriften, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2002-01-01&g=2002-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
+2. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2002-09-01&g=2002-09-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, of indien de jonggehandicapte zich niet houdt aan de voorschriften, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2002-09-01&g=2002-09-01), kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
 
 3. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van het opleggen van een maatregel af te zien.
 
-4. Het opleggen van een maatregel blijft achterwege, indien voor dezelfde gedraging een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2002-01-01&g=2002-01-01) wordt opgelegd.
+4. Het opleggen van een maatregel blijft achterwege, indien voor dezelfde gedraging een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2002-09-01&g=2002-09-01) wordt opgelegd.
 
 5. Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekking tot het eerste lid.
 
@@ -788,7 +788,7 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 ##### Artikel 57
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 55, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2002-01-01&g=2002-01-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2002-01-01&g=2002-01-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 55, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2002-09-01&g=2002-09-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2002-09-01&g=2002-09-01).
 
 ##### Artikel 58. Onvervreemdbaarheid van verstrekkingen
 
