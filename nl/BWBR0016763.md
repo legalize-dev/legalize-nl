@@ -159,23 +159,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Uitvoeringswet EG-bewijsverordening.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Het verzoekende gerecht kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van een door een beëdigd vertaler vervaardigde vertaling van de stukken in een door de lidstaat van het aangezochte gerecht aanvaarde taal.
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de verzending als bedoeld in artikel 7, eerste lid, van de verordening.
-
-#### § 2. Verzoeken uit een andere lidstaat aan een gerecht of centraal orgaan in Nederland
-
-#### § 3. Verzoeken aan een gerecht, het centrale orgaan of de bevoegde autoriteit in een andere lidstaat
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
