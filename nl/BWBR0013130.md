@@ -4,7 +4,7 @@ identifier: "BWBR0013130"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2005-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013130"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Ten aanzien van de tot het bureau van de Raad voor de rechtspraak behorende ambtenaren worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door de Raad voor de rechtspraak.
+Ten aanzien van de ambtenaren die behoren tot het bureau van de Raad voor de rechtspraak of een onder de Raad voor de rechtspraak ressorterende dienst als bedoeld in [artikel 40 van het Besluit financiering rechtspraak 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&artikel=40) worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door de Raad voor de rechtspraak.
 
 ##### Artikel 3
 
