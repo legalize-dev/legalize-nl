@@ -4,7 +4,7 @@ identifier: "BWBR0004480"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004480"
 soort: "ministeriele-regeling"
@@ -42,9 +42,11 @@ Besluit:
 
 Als ambtenaar belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) worden aangewezen:
 
-- a. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij;
+- a. de ambtenaren van de Voedsel en Waren Autoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. de ambtenaren van het agentschap LASER van het Ministerie van Landbouw, Natuurbeheer en Visserij.
+- b. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+
+- c. de ambtenaren van het agentschap LASER van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
