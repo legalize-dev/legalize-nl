@@ -58,29 +58,3 @@ Deze regeling treedt in werking op het tijdstip waarop het Besluit van 1 decembe
 Deze regeling wordt aangehaald als: Regeling vluchten militaire onbemande luchtvaartuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=28) en [42 tot en met 55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), gelden de volgende nadere regels:
-
-- a. de vlucht wordt uitgevoerd in een gebied waar het uitoefenen van de burgerluchtvaart is verboden tijdens het gebruik van het gebied ten behoeve van militaire oefeningen;
-
-- b. de vlucht wordt afgestemd met eventueel ander militair luchtverkeer.
-
-2. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen voor observatiedoeleinden vanuit de lucht, waarvan de totale startmassa ten hoogste 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=17), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=32), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=35), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=38) en [42 tot en met 55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), gelden de volgende nadere regels:
-
-- a. vluchten worden slechts in de volgende gebieden uitgevoerd:
-
-- 1°. militaire plaatselijke luchtverkeersleidingsgebieden zoals aangegeven in de Regeling luchtverkeersdienstverlening;
-
-- 2°. restricted areas, ingesteld op basis van [artikel 5.10, tweede lid, Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
-
-- 3°. bijzondere luchtverkeersgebieden, ingesteld op basis van [artikel 8 Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=8);
-
-- b. vluchten in het kader van een oefening in gebieden als bedoeld in onderdeel a, onder 3°, zijn toegestaan tot een hoogte van maximaal 150 meter (500 ft) boven de grond of het water;
-
-- c. voorafgaand aan de vlucht wordt per NOTAM bekend gesteld in welk gebied en voor welke duur gebruik wordt gemaakt van het betreffende gebied door het militaire onbemande luchtvaartuig;
-
-- d. de vlucht wordt afgestemd met eventueel ander luchtverkeer in het gebied.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
