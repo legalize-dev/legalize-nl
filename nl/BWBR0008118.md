@@ -84,9 +84,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet vervoer gevaarlij
 Deze regeling wordt aangehaald als: Tariefregeling vervoer gevaarlijke stoffen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 10a van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) is een tarief verschuldigd van € 4.708.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
