@@ -4,7 +4,7 @@ identifier: "BWBR0003404"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-01-20"
-last_updated: "1993-03-01"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003404"
 soort: "AMvB"
@@ -66,7 +66,9 @@ Met betrekking tot het uitvoeren van vluchten worden door Onze Minister voorschr
 
 ##### Artikel 4. Beperking gebruik luchtvaartterreinen
 
-Het opstijgen of landen van bepaalde soorten luchtvaartuigen op een of meer Nederlandse luchtvaartterreinen kan door Onze Minister worden beperkt of verboden, indien daarbij meer dan een door hem vastgestelde hoeveelheid geluid wordt geproduceerd.
+1. Het opstijgen of landen van bepaalde soorten luchtvaartuigen op een of meer Nederlandse luchtvaartterreinen kan door Onze Minister worden beperkt of verboden, indien daarbij meer dan een door hem vastgestelde hoeveelheid geluid wordt geproduceerd.
+
+2. [Artikel 1.1, onderdelen h tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=1.1), en [hoofdstuk 4A van het Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A) zijn van overeenkomstige toepassing op maatregelen, ter uitvoering van het eerste lid door Onze Minister getroffen ten aanzien van de luchthaven Schiphol.
 
 ##### Artikel 5. Beperking geluidhinder door proefdraaien
 
@@ -76,13 +78,13 @@ Met betrekking tot de beperking van de geluidhinder ontstaan door proefdraaien v
 
 1. Overtreding van
 
-- a. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=3&z=1993-03-01&g=1993-03-01) of
+- a. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=3&z=2004-12-01&g=2004-12-01) of
 
-- b. een verbod krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=4&z=1993-03-01&g=1993-03-01)
+- b. een verbod krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=4&z=2004-12-01&g=2004-12-01)
 
 is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62) (**Stb.** 1958, 47).
 
-2. Overtreding van een voorschrift gegeven krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=2&z=1993-03-01&g=1993-03-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=5&z=1993-03-01&g=1993-03-01) is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+2. Overtreding van een voorschrift gegeven krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=2&z=2004-12-01&g=2004-12-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=5&z=2004-12-01&g=2004-12-01) is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 ##### Artikel 7. Slotbepaling
 
