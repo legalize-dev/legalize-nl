@@ -4,7 +4,7 @@ identifier: "BWBR0016985"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2004-01-01"
+last_updated: "2004-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016985"
 soort: "wet"
@@ -42,7 +42,7 @@ Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel III
 
@@ -50,11 +50,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
 
 ##### Artikel VI
 
@@ -62,7 +62,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziekenfondswet.
 
 ##### Artikel VIII
 
@@ -74,7 +74,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
 ##### Artikel XI. Overgang vermogensbestanddelen arbeidsongeschiktheidsfonds zelfstandigen
 
@@ -82,15 +82,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. Evaluatie
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel XIII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=I&z=2004-08-01&g=2004-08-01), met betrekking tot de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=76) en [77 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=77) terugwerkt tot en met 1 januari 2004. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 
 ##### Artikel XIV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet einde toegang verzekering WAZ.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
