@@ -4,7 +4,7 @@ identifier: "BWBR0002267"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2002-07-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002267"
 soort: "wet"
@@ -68,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - j. Onze Minister: voor wat de burgerluchtvaart en de algemene verkeersveiligheid in de lucht betreft: Onze Minister van Verkeer en Waterstaat: voor wat de militaire luchtvaart betreft: Onze Minister van Defensie;
 
-2. In deze wet en de daarop berustende bepalingen wordt onder uitwendige scheidingsconstructie, verblijfsgebiedverblijfsruimte en gezondheidszorggebouw verstaan hetgeen daaronder wordt verstaan in [artikel 1 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=1) (**Stb.** 1991, 680). Voor de toepassing van [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01) en de daarop berustende bepalingen wordt voor wat betreft de voorschriften die samenhangen met de in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), bedoelde grenswaarde onder gezondheidszorggebouwen verstaan die gedeelten van gezondheidszorggebouwen waarin personen die medisch worden verpleegd, verzorgd of behandeld, de nacht doorbrengen.
+2. In deze wet en de daarop berustende bepalingen wordt onder uitwendige scheidingsconstructie, verblijfsgebiedverblijfsruimte en gezondheidszorggebouw verstaan hetgeen daaronder wordt verstaan in [artikel 1 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=1) (**Stb.** 1991, 680). Voor de toepassing van [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01) en de daarop berustende bepalingen wordt voor wat betreft de voorschriften die samenhangen met de in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), bedoelde grenswaarde onder gezondheidszorggebouwen verstaan die gedeelten van gezondheidszorggebouwen waarin personen die medisch worden verpleegd, verzorgd of behandeld, de nacht doorbrengen.
 
 ##### Artikel 2
 
@@ -176,7 +176,7 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16a
 
-1. Ten aanzien van vergunningen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01) die vallen onder [verordening (EEG) nr. 2407/92](31992R2407) van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de verlening, intrekking en schorsing van exploitatievergunningen aan luchtvaartmaatschappijen (**PbEG** L 240), wordt toegepast hetgeen bij of krachtens die verordening is bepaald.
+1. Ten aanzien van vergunningen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01) die vallen onder [verordening (EEG) nr. 2407/92](31992R2407) van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de verlening, intrekking en schorsing van exploitatievergunningen aan luchtvaartmaatschappijen (**PbEG** L 240), wordt toegepast hetgeen bij of krachtens die verordening is bepaald.
 
 2. Een wijziging van het bepaalde bij of krachtens de verordening, genoemd in het eerste lid, treedt voor de toepassing van het eerste lid in werking met ingang van de dag waarop de betrokken wijzigingsregeling in werking treedt.
 
@@ -196,7 +196,7 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16b
 
-1. Een vergunning als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01) die niet valt onder de in [artikel 16**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16a&z=2002-07-01&g=2002-07-01) genoemde verordening, wordt verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste vijf jaar. Zij kan door Onze Minister worden verlengd.
+1. Een vergunning als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01) die niet valt onder de in [artikel 16**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16a&z=2003-01-01&g=2003-01-01) genoemde verordening, wordt verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste vijf jaar. Zij kan door Onze Minister worden verlengd.
 
 2. Aan een vergunning als bedoeld in het eerste lid, kunnen voorschriften of beperkingen worden verbonden.
 
@@ -216,11 +216,11 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mag vervoer me
 
 ##### Artikel 16c
 
-Bij ministeriële regeling kunnen bepaalde soorten van vervoer worden uitgezonderd van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01) vervatte verplichting.
+Bij ministeriële regeling kunnen bepaalde soorten van vervoer worden uitgezonderd van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01) vervatte verplichting.
 
 ##### Artikel 16d
 
-1. Onze Minister kan ontheffing verlenen van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01) vervatte verplichting. Van de beschikking ter zake wordt mededeling in de **Staatscourant** gedaan.
+1. Onze Minister kan ontheffing verlenen van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01) vervatte verplichting. Van de beschikking ter zake wordt mededeling in de **Staatscourant** gedaan.
 
 2. Aan de in het eerste lid bedoelde ontheffingen kunnen voorschriften of beperkingen worden verbonden.
 
@@ -248,7 +248,7 @@ Bij ministeriële regeling kunnen bepaalde soorten van vervoer worden uitgezonde
 
 mits het aan te wijzen luchtvaartterrein overeenstemt een van kracht zijnd plan als bedoeld in [artikel 2**a** van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=2a) (**Stb.** 1985, 626) ten aanzien van het nationaal ruimtelijk beleid inzake luchtvaartterreinen.
 
-2. Bij een verzoekschrift moeten in tweevoud worden gevoegd de bescheiden, bedoeld in [artikel 20, tweede lid, onder **a, b, c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01).
+2. Bij een verzoekschrift moeten in tweevoud worden gevoegd de bescheiden, bedoeld in [artikel 20, tweede lid, onder **a, b, c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01).
 
 3. Onze Minister kan, na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, een verzoek tot aanwijzing om redenen ontleend aan het algemeen belang onmiddellijk afwijzen.
 
@@ -286,31 +286,31 @@ mits het aan te wijzen luchtvaartterrein overeenstemt een van kracht zijnd plan 
 
 - 3. de toegepaste luchtverkeersgegevens voor de berekeningen van de geluidsbelastingscontouren, die ten grondslag liggen aan de in de onderdelen e en f van dit lid bedoelde kaarten;
 
-- e. de ingevolge de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) vast te stellen geluidszones, alsmede een of meer kaarten waarop, op basis van de vastgestelde grenswaarden voor de maximale geluidsbelasting, met gebruikmaking van de in onderdeel d bedoelde gegevens, de in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) bedoelde geluidszones zijn aangegeven;
+- e. de ingevolge de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) vast te stellen geluidszones, alsmede een of meer kaarten waarop, op basis van de vastgestelde grenswaarden voor de maximale geluidsbelasting, met gebruikmaking van de in onderdeel d bedoelde gegevens, de in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) bedoelde geluidszones zijn aangegeven;
 
-- f. de ingevolge [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25d&z=2002-07-01&g=2002-07-01) vast te stellen geluidscontouren binnen iedere in onderdeel e bedoelde geluidszone, welke worden aangegeven op de bij die geluidszone behorende kaart;
+- f. de ingevolge [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25d&z=2003-01-01&g=2003-01-01) vast te stellen geluidscontouren binnen iedere in onderdeel e bedoelde geluidszone, welke worden aangegeven op de bij die geluidszone behorende kaart;
 
-- g. een verantwoording van de gebruikmaking van de bevoegdheid, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01);
+- g. een verantwoording van de gebruikmaking van de bevoegdheid, bedoeld in [artikel 25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01);
 
-- h. een ontwerp van de aanwijzingen, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01);
+- h. een ontwerp van de aanwijzingen, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01);
 
 - i. een beschrijving van de specifieke maatregelen ter beperking van de geluidsbelasting veroorzaakt door luchtvaartuigen die van het luchtvaartterrein gebruik maken.
 
-3. Het ontwerp kan bovendien omvatten een kaart, waarop de optimale buitengrens van iedere ingevolge [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01) vast te stellen geluidszone staat aangegeven, waarnaar als eindfase gestreefd dient te worden.
+3. Het ontwerp kan bovendien omvatten een kaart, waarop de optimale buitengrens van iedere ingevolge [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01) vast te stellen geluidszone staat aangegeven, waarnaar als eindfase gestreefd dient te worden.
 
-4. Eveneens worden ter inzage gelegd het advies van de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=18&z=2002-07-01&g=2002-07-01), en de resultaten van het overleg bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01).
+4. Eveneens worden ter inzage gelegd het advies van de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=18&z=2003-01-01&g=2003-01-01), en de resultaten van het overleg bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01).
 
 5. Tevens wordt ter inzage gelegd het verzoekschrift zo dit is ingekomen.
 
-6. De terinzagelegging van de stukken geschiedt ter griffie en ter secretarie van respectievelijk de provincies en gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01).
+6. De terinzagelegging van de stukken geschiedt ter griffie en ter secretarie van respectievelijk de provincies en gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 21
 
-1. De terinzagelegging, bedoeld in [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), geschieden door de zorg van Gedeputeerde Staten van de provincies" bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), op één en dezelfde dag binnen een maand, nadat zij de in het vorig artikel genoemde bescheiden van Onze Minister hebben ontvangen.
+1. De terinzagelegging, bedoeld in [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), geschieden door de zorg van Gedeputeerde Staten van de provincies" bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), op één en dezelfde dag binnen een maand, nadat zij de in het vorig artikel genoemde bescheiden van Onze Minister hebben ontvangen.
 
-2. De personen, vermeld op de in het [tweede lid onder **b** en **c** van artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01) bedoelde lijsten, worden door Gedeputeerde Staten bij aangetekende brief van de nederlegging in kennis gesteld.
+2. De personen, vermeld op de in het [tweede lid onder **b** en **c** van artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01) bedoelde lijsten, worden door Gedeputeerde Staten bij aangetekende brief van de nederlegging in kennis gesteld.
 
-3. Zienswijzen als bedoeld in [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13), kunnen door een ieder schriftelijk naar voren worden gebracht bij een commissie, ingesteld door gedeputeerde staten van een provincie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), mondeling kunnen zienswijzen naar voren worden gebracht op een door deze commissie vast te stellen zitting. Gedeputeerde Staten van de provincies, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), wijzen gezamenlijk de voorzitter van de commissie aan. De commissie bestaat voorts uit:
+3. Zienswijzen als bedoeld in [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13), kunnen door een ieder schriftelijk naar voren worden gebracht bij een commissie, ingesteld door gedeputeerde staten van een provincie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), mondeling kunnen zienswijzen naar voren worden gebracht op een door deze commissie vast te stellen zitting. Gedeputeerde Staten van de provincies, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), wijzen gezamenlijk de voorzitter van de commissie aan. De commissie bestaat voorts uit:
 
 - a. een lid van elk van die colleges van Gedeputeerde Staten door hen aangewezen;
 
@@ -318,7 +318,7 @@ mits het aan te wijzen luchtvaartterrein overeenstemt een van kracht zijnd plan 
 
 - c. twee vertegenwoordigers, aangewezen door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- d. twee door burgemeester en wethouders van elke gemeente als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), aan te wijzen vertegenwoordigers, waarvan tenminste een als vertegenwoordiger van de omwonenden van het betrokken luchtvaartterrein kan worden beschouwd.
+- d. twee door burgemeester en wethouders van elke gemeente als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), aan te wijzen vertegenwoordigers, waarvan tenminste een als vertegenwoordiger van de omwonenden van het betrokken luchtvaartterrein kan worden beschouwd.
 
 Gedeputeerde Staten kunnen verzoeken dat in voorkomende gevallen ook andere Ministers deskundigen als lid aanwijzen.
 
@@ -334,13 +334,13 @@ Gedeputeerde Staten kunnen verzoeken dat in voorkomende gevallen ook andere Mini
 
 ##### Artikel 23
 
-1. Door de zorg van Gedeputeerde Staten van de provincies" bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), worden afschriften van de in het vorige artikel genoemde bescheiden, alsmede van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01) genoemde stukken, gedurende een maand ter griffie van deze provincies en ter secretarie van de gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), voor een ieder ter inzage gelegd.
+1. Door de zorg van Gedeputeerde Staten van de provincies" bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), worden afschriften van de in het vorige artikel genoemde bescheiden, alsmede van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01) genoemde stukken, gedurende een maand ter griffie van deze provincies en ter secretarie van de gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), voor een ieder ter inzage gelegd.
 
-2. Van de terinzagelegging wordt door de zorg van gedeputeerde staten tevoren kennis gegeven in de **Staatscourant** en in één of meer door hen aan te wijzen nieuwsbladen. De burgemeester van elke gemeente als bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), geeft van de terinzagelegging eveneens kennis op de gebruikelijke wijze.
+2. Van de terinzagelegging wordt door de zorg van gedeputeerde staten tevoren kennis gegeven in de **Staatscourant** en in één of meer door hen aan te wijzen nieuwsbladen. De burgemeester van elke gemeente als bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), geeft van de terinzagelegging eveneens kennis op de gebruikelijke wijze.
 
 ##### Artikel 24
 
-1. Binnen zes maanden na de ontvangst van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=22&z=2002-07-01&g=2002-07-01) bedoelde advies beslist Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer omtrent de aanwijzing. Dat besluit behelst een verwijzing naar een bijgevoegde kaart en naar lijsten als bedoeld in [artikel 20, tweede lid onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01). Het wordt verzonden aan de exploitant van het luchtvaartterrein, de in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01) bedoelde provincies en gemeenten, aan de leden van de in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=21&z=2002-07-01&g=2002-07-01), bedoelde commissie, alsmede aan degenen, die op de lijsten zijn vermeld als eigenaren, mede-eigenaren, beperkt gerechtigden en persoonlijk gerechtigden.
+1. Binnen zes maanden na de ontvangst van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=22&z=2003-01-01&g=2003-01-01) bedoelde advies beslist Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer omtrent de aanwijzing. Dat besluit behelst een verwijzing naar een bijgevoegde kaart en naar lijsten als bedoeld in [artikel 20, tweede lid onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01). Het wordt verzonden aan de exploitant van het luchtvaartterrein, de in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01) bedoelde provincies en gemeenten, aan de leden van de in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=21&z=2003-01-01&g=2003-01-01), bedoelde commissie, alsmede aan degenen, die op de lijsten zijn vermeld als eigenaren, mede-eigenaren, beperkt gerechtigden en persoonlijk gerechtigden.
 
 2. De bestemming van het luchtvaartterrein kan bij de aanwijzing worden beperkt tot het gebruik door:
 
@@ -348,29 +348,29 @@ Gedeputeerde Staten kunnen verzoeken dat in voorkomende gevallen ook andere Mini
 
 - b. bepaalde vormen van luchtvaart.
 
-3. In de aanwijzing worden in ieder geval voorschriften gesteld om te voorkomen dat buiten de geluidszones, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), een hogere geluidsbelasting dan de vastgestelde grenswaarde optreedt. Deze kunnen beperkingen inhouden ten aanzien van het gebruik van het luchtvaartterrein.
+3. In de aanwijzing worden in ieder geval voorschriften gesteld om te voorkomen dat buiten de geluidszones, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), een hogere geluidsbelasting dan de vastgestelde grenswaarde optreedt. Deze kunnen beperkingen inhouden ten aanzien van het gebruik van het luchtvaartterrein.
 
 ##### Artikel 24a
 
-1. Indien op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01) ten aanzien van gronden binnen één of meer geluidszones aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) worden gegeven, wordt de beslissing omtrent de aanwijzing van een luchtvaartterrein niet eerder genomen dan nadat de aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) gelet op het bepaalde in het tweede lid van dat artikel kunnen worden gegeven.
+1. Indien op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01) ten aanzien van gronden binnen één of meer geluidszones aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) worden gegeven, wordt de beslissing omtrent de aanwijzing van een luchtvaartterrein niet eerder genomen dan nadat de aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) gelet op het bepaalde in het tweede lid van dat artikel kunnen worden gegeven.
 
 2. Onze Minister kan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de beslissing omtrent de aanwijzing van een luchtvaartterrein voor ten hoogste zes maanden verdagen.
 
-3. Indien binnen de termijn, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2002-07-01&g=2002-07-01), of het tweede lid van dit artikel, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Tweede Kamer der Staten-Generaal van zijn voornemen tot het geven van de in het eerste lid bedoelde aanwijzingen in kennis heeft gesteld, kan in afwijking van het bepaalde in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2002-07-01&g=2002-07-01), of het tweede lid van dit artikel, de beslissing omtrent de aanwijzing van een luchtvaartterrein worden genomen een maand na het tijdstip waarop de in het eerste lid bedoelde aanwijzingen ingevolge [artikel 37, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) kunnen worden gegeven.
+3. Indien binnen de termijn, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2003-01-01&g=2003-01-01), of het tweede lid van dit artikel, Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Tweede Kamer der Staten-Generaal van zijn voornemen tot het geven van de in het eerste lid bedoelde aanwijzingen in kennis heeft gesteld, kan in afwijking van het bepaalde in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2003-01-01&g=2003-01-01), of het tweede lid van dit artikel, de beslissing omtrent de aanwijzing van een luchtvaartterrein worden genomen een maand na het tijdstip waarop de in het eerste lid bedoelde aanwijzingen ingevolge [artikel 37, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) kunnen worden gegeven.
 
-4. Indien niet binnen de termijn, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2002-07-01&g=2002-07-01), en het tweede en derde lid van dit artikel is beslist, doen Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daarvan onder opgave van redenen mededeling aan de Tweede Kamer der Staten-Generaal.
+4. Indien niet binnen de termijn, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24a&z=2003-01-01&g=2003-01-01), en het tweede en derde lid van dit artikel is beslist, doen Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daarvan onder opgave van redenen mededeling aan de Tweede Kamer der Staten-Generaal.
 
-5. Indien de beslissing om te verdagen niet binnen de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), bedoelde termijn is genomen, is het tweede lid van dit artikel van overeenkomstige toepassing.
+5. Indien de beslissing om te verdagen niet binnen de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), bedoelde termijn is genomen, is het tweede lid van dit artikel van overeenkomstige toepassing.
 
 ##### Artikel 24b
 
 1. Onze Minister doet mededeling van zijn beslissing omtrent de aanwijzing van het luchtvaartterrein in de **Staatscourant** en in de daarvoor in aanmerking komende dag- en nieuwsbladen. Hij maakt bij die gelegenheid tevens de nederlegging bekend van de afschriften van de aanwijzing.
 
-2. Onze Minister zendt afschrift van zijn beslissing omtrent de aanwijzing aan de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie en aan de commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2002-07-01&g=2002-07-01), indien deze reeds is ingesteld.
+2. Onze Minister zendt afschrift van zijn beslissing omtrent de aanwijzing aan de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie en aan de commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2003-01-01&g=2003-01-01), indien deze reeds is ingesteld.
 
-3. Vanaf de dag der verzending van de afschriften ligt de aanwijzing van het luchtvaartterrein voor een ieder ter inzage ter griffie en ter secretarie van respectievelijk de provincies en gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01).
+3. Vanaf de dag der verzending van de afschriften ligt de aanwijzing van het luchtvaartterrein voor een ieder ter inzage ter griffie en ter secretarie van respectievelijk de provincies en gemeenten, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01).
 
-4. Gedeputeerde Staten van de provincies, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), dragen zorg voor de verzending van de afschriften aan degenen die bij hen schriftelijk bezwaren hebben ingediend, tenzij publicatie hiervan plaatsvindt in de plaatselijke bladen.
+4. Gedeputeerde Staten van de provincies, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), dragen zorg voor de verzending van de afschriften aan degenen die bij hen schriftelijk bezwaren hebben ingediend, tenzij publicatie hiervan plaatsvindt in de plaatselijke bladen.
 
 ##### Artikel 25
 
@@ -380,11 +380,11 @@ Gedeputeerde Staten kunnen verzoeken dat in voorkomende gevallen ook andere Mini
 
 - b. één voor luchtvaartuigen minder dan 6000 kg, maar meer dan 390 kg, voor zover niet begrepen onder **a**.
 
-2. De vaststelling van de grenswaarde bedoeld in het eerste lid, onder **a**, blijft achterwege indien de daarbij behorende zone bedoeld in [artikel 25**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01) geheel ligt binnen de grenzen van het luchtvaartterrein en voor dat luchtvaartterrein een zone behorende bij de grenswaarde bedoeld in het eerste lid, onder **b**, wordt vastgesteld. De vaststelling van de grenswaarde bedoeld in het eerste lid, onder **b**, blijft achterwege indien de daarbij behorende zone bedoeld in [artikel 25**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01) geheel ligt binnen de zone behorende bij de grenswaarde bedoeld in het eerste lid, onder **a**.
+2. De vaststelling van de grenswaarde bedoeld in het eerste lid, onder **a**, blijft achterwege indien de daarbij behorende zone bedoeld in [artikel 25**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01) geheel ligt binnen de grenzen van het luchtvaartterrein en voor dat luchtvaartterrein een zone behorende bij de grenswaarde bedoeld in het eerste lid, onder **b**, wordt vastgesteld. De vaststelling van de grenswaarde bedoeld in het eerste lid, onder **b**, blijft achterwege indien de daarbij behorende zone bedoeld in [artikel 25**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01) geheel ligt binnen de zone behorende bij de grenswaarde bedoeld in het eerste lid, onder **a**.
 
 3. Bij algemene maatregel van bestuur worden vastgesteld maximale waarden van geluidsbelasting boven de in het eerste lid bedoelde grenswaarden, ter bepaling van de toelaatbaarheid van zekere bestemmingen op gronden gelegen binnen de geluidszone.
 
-4. De grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer in de nachtelijke periode is LAeq 26 dB(A). De nachtelijke periode wordt bij de aanwijzing krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01) vastgesteld en beslaat een periode van zeven aaneengesloten uren tussen 23.00 uur en 07.00 uur plaatselijke tijd. Bij algemene maatregel van bestuur worden de luchtvaartterreinen aangewezen waarvoor deze grenswaarde vanwege het gebruik van die luchtvaartterreinen voor starts en landingen met luchtvaartuigen geldt.
+4. De grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer in de nachtelijke periode is LAeq 26 dB(A). De nachtelijke periode wordt bij de aanwijzing krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01) vastgesteld en beslaat een periode van zeven aaneengesloten uren tussen 23.00 uur en 07.00 uur plaatselijke tijd. Bij algemene maatregel van bestuur worden de luchtvaartterreinen aangewezen waarvoor deze grenswaarde vanwege het gebruik van die luchtvaartterreinen voor starts en landingen met luchtvaartuigen geldt.
 
 5. Voorts worden bij of krachtens algemene maatregel van bestuur op grond van deze wet of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (**Stb.** 1991, 439) in verband met het structureel uitgevoerd nachtelijk vliegverkeer voorschriften gegeven met betrekking tot de karakteristieke geluidwering van een uitwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied en de buitenlucht van een te bouwen woning en een te bouwen gezondheidszorggebouw. Daarbij wordt aangegeven op welk deel van het verblijfsgebied deze voorschriften betrekking hebben.
 
@@ -392,13 +392,13 @@ Gedeputeerde Staten kunnen verzoeken dat in voorkomende gevallen ook andere Mini
 
 7. Over de wijziging van een waarde als bedoeld in het eerste lid vindt overleg plaats met de exploitant van het luchtvaartterrein waarvoor die waarde wordt gewijzigd alsmede met de gebruikers van luchtvaartuigen welke geregeld op dat luchtvaartterrein landen en daarvan opstijgen.
 
-8. De voordracht voor een algemene maatregel van bestuur, waarbij een eerder vastgestelde waarde als bedoeld in het eerste lid wordt gewijzigd, wordt Ons niet gedaan dan nadat de betrokken commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2002-07-01&g=2002-07-01), gedurende een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij de toezending van het ontwerp vast te stellen termijn in de gelegenheid is gesteld over dat ontwerp advies uit te brengen.
+8. De voordracht voor een algemene maatregel van bestuur, waarbij een eerder vastgestelde waarde als bedoeld in het eerste lid wordt gewijzigd, wordt Ons niet gedaan dan nadat de betrokken commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2003-01-01&g=2003-01-01), gedurende een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij de toezending van het ontwerp vast te stellen termijn in de gelegenheid is gesteld over dat ontwerp advies uit te brengen.
 
-9. Het ontwerp van een algemene maatregel van bestuur als bedoeld in het achtste lid wordt gelijktijdig met de toezending aan de commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2002-07-01&g=2002-07-01), overgelegd aan de Staten-Generaal.
+9. Het ontwerp van een algemene maatregel van bestuur als bedoeld in het achtste lid wordt gelijktijdig met de toezending aan de commissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2003-01-01&g=2003-01-01), overgelegd aan de Staten-Generaal.
 
 ##### Artikel 25a
 
-Voor iedere grenswaarde die krachtens [artikel 25, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), ten aanzien van een luchtvaartterrein wordt vastgesteld, wordt bij de aanwijzing van dat luchtvaartterrein een geluidszone rond dat terrein vastgesteld, waarbuiten de geluidsbelasting door landende en opstijgende luchtvaartuigen de grenswaarde niet mag overschrijden.
+Voor iedere grenswaarde die krachtens [artikel 25, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), ten aanzien van een luchtvaartterrein wordt vastgesteld, wordt bij de aanwijzing van dat luchtvaartterrein een geluidszone rond dat terrein vastgesteld, waarbuiten de geluidsbelasting door landende en opstijgende luchtvaartuigen de grenswaarde niet mag overschrijden.
 
 ##### Artikel 25b
 
@@ -406,45 +406,45 @@ Voor iedere grenswaarde die krachtens [artikel 25, eerste en vierde lid](https:/
 
 2. Indien het eerste lid wordt toegepast, dient de aanwijzing zo te worden geformuleerd dat op een bij de aanwijzing vastgesteld tijdstip uit de aanwijzing volgt welke variant op dat tijdstip als de definitieve geluidszone moet worden beschouwd. Op dat tijdstip vervallen de overige varianten.
 
-3. Het in het tweede lid bedoelde tijdstip kan worden bepaald op ten hoogste tien jaar te rekenen vanaf het tijdstip waarop de mededeling, bedoeld in [artikel 24b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24b&z=2002-07-01&g=2002-07-01), in de **Staatscourant** is bekend gemaakt.
+3. Het in het tweede lid bedoelde tijdstip kan worden bepaald op ten hoogste tien jaar te rekenen vanaf het tijdstip waarop de mededeling, bedoeld in [artikel 24b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24b&z=2003-01-01&g=2003-01-01), in de **Staatscourant** is bekend gemaakt.
 
 4. Indien het in het tweede lid bedoelde tijdstip is bepaald op een tijdstip binnen de tien jaar, bedoeld in het derde lid, kan door middel van een wijziging van de aanwijzing een ander tijdstip worden bepaald binnen het resterende tijdvak van de tien jaar, bedoeld in het derde lid.
 
-5. Indien het eerste lid wordt toegepast, kan bij de aanwijzing worden bepaald dat ten aanzien van één of meer varianten voor een aangegeven tijdsduur de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01), geheel of gedeeltelijk niet, dan wel op bij de aanwijzing aangegeven wijze gewijzigd, van toepassing is.
+5. Indien het eerste lid wordt toegepast, kan bij de aanwijzing worden bepaald dat ten aanzien van één of meer varianten voor een aangegeven tijdsduur de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01), geheel of gedeeltelijk niet, dan wel op bij de aanwijzing aangegeven wijze gewijzigd, van toepassing is.
 
 ##### Artikel 25c
 
-1. Bij de aanwijzing van het luchtvaartterrein kunnen vooruitlopend op de vaststelling van de varianten, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01), of de vaststelling van de geluidszone, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), een of meer tijdelijke geluidszones worden vastgesteld. [Artikel 25b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01), is van overeenkomstige toepassing.
+1. Bij de aanwijzing van het luchtvaartterrein kunnen vooruitlopend op de vaststelling van de varianten, bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01), of de vaststelling van de geluidszone, bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), een of meer tijdelijke geluidszones worden vastgesteld. [Artikel 25b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
-2. Ten aanzien van iedere tijdelijke zone wordt de geldingsduur aangegeven. Bij de bepaling van de geldingsduur is [artikel 25b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01), van overeenkomstige toepassing.
+2. Ten aanzien van iedere tijdelijke zone wordt de geldingsduur aangegeven. Bij de bepaling van de geldingsduur is [artikel 25b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
 
 3. Indien de geldingsduur van een tijdelijke zone is verstreken voordat het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie vervalt de tijdelijke zone, met dien verstande dat tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie:
 
 - a. de rechten die omwonenden van het luchtvaartterrein aan de regeling omtrent de tijdelijke zone in de aanwijzing kunnen ontlenen onverminderd van kracht blijven;
 
-- b. de rechten en verplichtingen van de gebruikers van luchtvaartuigen, welke geregeld op dat luchtvaartterrein landen en daarvan opstijgen, van kracht blijven, voor zover dat is bepaald in de aanwijzing of voor zover dat wordt bepaald in het gebruiksplan, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2002-07-01&g=2002-07-01).
+- b. de rechten en verplichtingen van de gebruikers van luchtvaartuigen, welke geregeld op dat luchtvaartterrein landen en daarvan opstijgen, van kracht blijven, voor zover dat is bepaald in de aanwijzing of voor zover dat wordt bepaald in het gebruiksplan, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2003-01-01&g=2003-01-01).
 
-4. Indien de geldingsduur van een tijdelijke zone is verstreken voordat het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie is de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01), ongewijzigd geheel van toepassing tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie.
+4. Indien de geldingsduur van een tijdelijke zone is verstreken voordat het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie is de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01), ongewijzigd geheel van toepassing tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie.
 
 5. Uiterlijk een jaar vóór het tijdstip waarop de geldingsduur van een tijdelijke zone vervalt, maakt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in de Staatscourant bekend of de exploitant aan het vervallen van de tijdelijke zone gevolgen moet verbinden met betrekking tot het gebruiksplan, en zo ja, welke. De exploitant is verplicht die gevolgen te verwerken in het gebruiksplan tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie.
 
-6. Tegelijkertijd met de bekendmaking, bedoeld in het vijfde lid, maakt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in de Staatscourant bekend op welke wijze tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie versneld uitvoering wordt gegeven aan de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01).
+6. Tegelijkertijd met de bekendmaking, bedoeld in het vijfde lid, maakt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in de Staatscourant bekend op welke wijze tot het tijdstip waarop het gebruik van het luchtvaartterrein plaatsvindt overeenkomstig de bij de vaststelling van die zone beschreven situatie versneld uitvoering wordt gegeven aan de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 25d
 
-Bij de aanwijzing van het luchtvaartterrein worden ten aanzien van iedere definitieve en tijdelijke geluidszone geluidscontouren vastgesteld, behorende bij de maximale waarden, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01).
+Bij de aanwijzing van het luchtvaartterrein worden ten aanzien van iedere definitieve en tijdelijke geluidszone geluidscontouren vastgesteld, behorende bij de maximale waarden, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 25e
 
-De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01), [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) en [25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25d&z=2002-07-01&g=2002-07-01) zijn niet van toepassing indien in de aanwijzing van het luchtvaartterrein het gebruik daarvan door van een voortstuwingsinstallatie voorziene luchtvaartuigen wordt uitgesloten.
+De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01), [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) en [25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25d&z=2003-01-01&g=2003-01-01) zijn niet van toepassing indien in de aanwijzing van het luchtvaartterrein het gebruik daarvan door van een voortstuwingsinstallatie voorziene luchtvaartuigen wordt uitgesloten.
 
 ##### Artikel 25f
 
-Indien ten gevolge van groot onderhoud van een baan of banen, van een ongeval of van een ander bijzonder voorval sprake is van langdurige afwijking van het voorgeschreven gebruik van het luchtvaartterrein, waardoor de geluidszone voor de grenswaarde bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), of [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), eenmalig overschreden zal worden, kan door Onze Minister ontheffing worden verleend van het verbod bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01).
+Indien ten gevolge van groot onderhoud van een baan of banen, van een ongeval of van een ander bijzonder voorval sprake is van langdurige afwijking van het voorgeschreven gebruik van het luchtvaartterrein, waardoor de geluidszone voor de grenswaarde bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), of [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), eenmalig overschreden zal worden, kan door Onze Minister ontheffing worden verleend van het verbod bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 25g
 
-1. Onze Minister stelt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer regels vast omtrent de wijze van meten, berekenen en registreren van de geluidsbelasting binnen en buiten iedere op grond van de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) geldende geluidszone.
+1. Onze Minister stelt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer regels vast omtrent de wijze van meten, berekenen en registreren van de geluidsbelasting binnen en buiten iedere op grond van de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) geldende geluidszone.
 
 2. De kosten verbonden aan metingen, berekeningen en registraties van de geluidsbelasting komen ten laste van de exploitant van het luchtvaartterrein.
 
@@ -456,47 +456,47 @@ Indien ten gevolge van groot onderhoud van een baan of banen, van een ongeval of
 
 ##### Artikel 25i
 
-Alle gegevens, welke ingevolge de [artikelen 20, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01), en [25g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01) zijn verzameld met betrekking tot de geluidsbelasting, zijn openbaar, tenzij het belang van de veiligheid van de Staat zich daartegen verzet.
+Alle gegevens, welke ingevolge de [artikelen 20, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01), en [25g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01) zijn verzameld met betrekking tot de geluidsbelasting, zijn openbaar, tenzij het belang van de veiligheid van de Staat zich daartegen verzet.
 
 ##### Artikel 26
 
-1. Indien de beschikking, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), inhoudt dat een aanwijzing wordt gegeven met één of meer geluidszones geeft Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met Onze Minister op het tijdstip waarop die beschikking wordt gegeven met inachtneming van het krachtens [artikel 25, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01) bepaalde, ten aanzien van gronden, gelegen binnen die geluidszones aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37).
+1. Indien de beschikking, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), inhoudt dat een aanwijzing wordt gegeven met één of meer geluidszones geeft Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met Onze Minister op het tijdstip waarop die beschikking wordt gegeven met inachtneming van het krachtens [artikel 25, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01) bepaalde, ten aanzien van gronden, gelegen binnen die geluidszones aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37).
 
-2. Indien bij de aanwijzing van het luchtvaartterrein krachtens [artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) meer varianten worden vastgesteld kan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) van die geluidszones een andere variant, al dan niet met elementen uit de overige varianten, als uitgangspunt nemen dan is gedaan bij de aanwijzing op grond van [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01).
+2. Indien bij de aanwijzing van het luchtvaartterrein krachtens [artikel 25**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) meer varianten worden vastgesteld kan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) van die geluidszones een andere variant, al dan niet met elementen uit de overige varianten, als uitgangspunt nemen dan is gedaan bij de aanwijzing op grond van [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01).
 
 3. Aanwijzingen als bedoeld in [artikel 37 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=37) kunnen achterwege blijven ten aanzien van gronden gelegen in een tijdelijke zone.
 
 ##### Artikel 26a
 
-1. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het geven van aanwijzingen als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01), aangeven op welke wijze aan bestemmingsplannen, nadat zij zo nodig in overeenstemming zijn gebracht met de door hem gegeven voorschriften omtrent de inhoud daarvan, uitvoering zou moeten worden gegeven, in het bijzonder met het oog op de beëindiging van het gebruik of de bewoning van daarin begrepen bestaande bebouwing, dan wel in voorkomend geval de afbraak daarvan.
+1. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het geven van aanwijzingen als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01), aangeven op welke wijze aan bestemmingsplannen, nadat zij zo nodig in overeenstemming zijn gebracht met de door hem gegeven voorschriften omtrent de inhoud daarvan, uitvoering zou moeten worden gegeven, in het bijzonder met het oog op de beëindiging van het gebruik of de bewoning van daarin begrepen bestaande bebouwing, dan wel in voorkomend geval de afbraak daarvan.
 
-2. Beëindiging van het gebruik of de bewoning kan echter niet worden gevergd van degene die, op het tijdstip van het van kracht worden van de beschikking, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), gebruiker of bewoner is.
+2. Beëindiging van het gebruik of de bewoning kan echter niet worden gevergd van degene die, op het tijdstip van het van kracht worden van de beschikking, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), gebruiker of bewoner is.
 
-3. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het geven van aanwijzingen als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01), tevens aangeven op welke wijze en in welke gevallen geldelijke steun uit ’s Rijks kas kan worden verleend ter bestrijding van de kosten ten gevolge van uitvoering van de in overeenstemming met de aanwijzingen gebrachte bestemmingsplannen.
+3. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het geven van aanwijzingen als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01), tevens aangeven op welke wijze en in welke gevallen geldelijke steun uit ’s Rijks kas kan worden verleend ter bestrijding van de kosten ten gevolge van uitvoering van de in overeenstemming met de aanwijzingen gebrachte bestemmingsplannen.
 
 ##### Artikel 26b
 
-Onze Minister stelt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een regeling vast inzake geluidwerende voorzieningen ten aanzien van aanwezige woningen en andere geluidsgevoelige gebouwen, welke bij de uitvoering van de in overeenstemming met de aanwijzingen, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26a&z=2002-07-01&g=2002-07-01), gebrachte bestemmingsplannen niet behoeven te worden afgebroken, of waarvan het gebruik of de bewoning niet behoeft te worden beëindigd, binnen:
+Onze Minister stelt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een regeling vast inzake geluidwerende voorzieningen ten aanzien van aanwezige woningen en andere geluidsgevoelige gebouwen, welke bij de uitvoering van de in overeenstemming met de aanwijzingen, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26a&z=2003-01-01&g=2003-01-01), gebrachte bestemmingsplannen niet behoeven te worden afgebroken, of waarvan het gebruik of de bewoning niet behoeft te worden beëindigd, binnen:
 
-- a. de voor de in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), bedoelde grenswaarde vastgestelde geluidszone, en
+- a. de voor de in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), bedoelde grenswaarde vastgestelde geluidszone, en
 
-- b. voor zover [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), is toegepast, de voor de grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer vastgestelde geluidszone.
+- b. voor zover [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), is toegepast, de voor de grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer vastgestelde geluidszone.
 
 De regeling inzake geluidwerende voorzieningen is voor wat betreft de voorschriften die samenhangen met de gestelde grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer van toepassing op aanwezige woningen en gezondheidszorggebouwen.
 
 ##### Artikel 26c
 
-Vooruitlopend op de vaststelling van een geluidszone voor de in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), bedoelde grenswaarde en op de vaststelling van een geluidszone voor de grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer kan Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor woningen en andere geluidsgevoelige gebouwen in het gebied dat naar verwachting deel zal uitmaken van een definitieve of tijdelijke zone, maatregelen nemen ter beperking van geluidhinder door luchtvaartuigen. De in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01) bedoelde regeling is van overeenkomstige toepassing.
+Vooruitlopend op de vaststelling van een geluidszone voor de in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), bedoelde grenswaarde en op de vaststelling van een geluidszone voor de grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer kan Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor woningen en andere geluidsgevoelige gebouwen in het gebied dat naar verwachting deel zal uitmaken van een definitieve of tijdelijke zone, maatregelen nemen ter beperking van geluidhinder door luchtvaartuigen. De in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01) bedoelde regeling is van overeenkomstige toepassing.
 
 ##### Artikel 26d
 
-De geldelijke steun, bedoeld in [artikel 26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26a&z=2002-07-01&g=2002-07-01), en de kosten verbonden aan de uitvoering van de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2002-07-01&g=2002-07-01), en de kosten verbonden aan de toepassing van [artikel 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26c&z=2002-07-01&g=2002-07-01) komen ten laste van het Rijk, met dien verstande dat door de eigenaar of houder van een burgerluchtvaartuig ter zake van het landen met dat luchtvaartuig op een luchtvaartterrein dan wel door de luchtpassagier die van enigerlei luchthaven gebruik maakt een vergoeding verschuldigd is aan de Staat ter bestrijding van die geldelijke steun en vorenbedoelde kosten.
+De geldelijke steun, bedoeld in [artikel 26a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26a&z=2003-01-01&g=2003-01-01), en de kosten verbonden aan de uitvoering van de regeling, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26b&z=2003-01-01&g=2003-01-01), en de kosten verbonden aan de toepassing van [artikel 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26c&z=2003-01-01&g=2003-01-01) komen ten laste van het Rijk, met dien verstande dat door de eigenaar of houder van een burgerluchtvaartuig ter zake van het landen met dat luchtvaartuig op een luchtvaartterrein dan wel door de luchtpassagier die van enigerlei luchthaven gebruik maakt een vergoeding verschuldigd is aan de Staat ter bestrijding van die geldelijke steun en vorenbedoelde kosten.
 
 ##### Artikel 27
 
 1. Onze Minister kan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een aanwijzing te allen tijde wijzigen.
 
-2. De [artikelen 18, tweede lid, tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=18&z=2002-07-01&g=2002-07-01) zijn van overeenkomstige toepassing ten aanzien van de wijziging van een aanwijzing indien het betreft:
+2. De [artikelen 18, tweede lid, tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=18&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing ten aanzien van de wijziging van een aanwijzing indien het betreft:
 
 - a. een vergroting van het luchtvaartterrein;
 
@@ -506,21 +506,21 @@ De geldelijke steun, bedoeld in [artikel 26a, derde lid](https://wetten.overheid
 
 De wijziging moet overeenstemmen met een van kracht zijnd plan als bedoeld in [artikel 2**a** van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=2a). In geval van de wijziging van een aanwijzing als hier bedoeld worden de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie gehoord.
 
-3. Onze Minister kan de [artikelen 19-24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01) en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=27&z=2002-07-01&g=2002-07-01), met betrekking tot terreinen, welke niet voor gebruik door vliegtuigen worden aangewezen, buiten toepassing laten.
+3. Onze Minister kan de [artikelen 19-24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01) en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=27&z=2003-01-01&g=2003-01-01), met betrekking tot terreinen, welke niet voor gebruik door vliegtuigen worden aangewezen, buiten toepassing laten.
 
 ##### Artikel 28
 
-1. Ten behoeve van overleg en voorlichting omtrent de milieuhygiëne rond het luchtvaartterrein kan Onze Minister een commissie instellen. De instelling van deze commissie geschiedt in elk geval bij een luchtvaartterrein waarvoor een geluidszone als bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) is vastgesteld.
+1. Ten behoeve van overleg en voorlichting omtrent de milieuhygiëne rond het luchtvaartterrein kan Onze Minister een commissie instellen. De instelling van deze commissie geschiedt in elk geval bij een luchtvaartterrein waarvoor een geluidszone als bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) is vastgesteld.
 
-2. De commissie kan worden gehoord inzake de vaststelling van het handhavingsvoorschrift bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30a&z=2002-07-01&g=2002-07-01) en de vaststelling van het gebruiksplan bedoeld in [artikel 30 b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2002-07-01&g=2002-07-01). Onze Minister kan de commissie in de gelegenheid stellen advies uit te brengen over alle maatregelen en voorschriften met gevolg voor de geluidsbelasting rond het luchtvaartterrein alsmede over de wijze van handhaving van deze maatregelen en voorschriften.
+2. De commissie kan worden gehoord inzake de vaststelling van het handhavingsvoorschrift bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30a&z=2003-01-01&g=2003-01-01) en de vaststelling van het gebruiksplan bedoeld in [artikel 30 b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2003-01-01&g=2003-01-01). Onze Minister kan de commissie in de gelegenheid stellen advies uit te brengen over alle maatregelen en voorschriften met gevolg voor de geluidsbelasting rond het luchtvaartterrein alsmede over de wijze van handhaving van deze maatregelen en voorschriften.
 
 De commissie is bevoegd Onze Minister ongevraagd voorstellen terzake te doen.
 
-3. Onze Minister stelt bij de instelling van een commissie als bedoeld in het eerste lid nadere regels vast omtrent de taak en de samenstelling na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en na overleg met de besturen van de provincies en gemeenten, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01). In de commissie hebben zitting:
+3. Onze Minister stelt bij de instelling van een commissie als bedoeld in het eerste lid nadere regels vast omtrent de taak en de samenstelling na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en na overleg met de besturen van de provincies en gemeenten, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01). In de commissie hebben zitting:
 
-- a. één vertegenwoordiger van elke provincie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01);
+- a. één vertegenwoordiger van elke provincie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01);
 
-- b. twee vertegenwoordigers van elke gemeente als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2002-07-01&g=2002-07-01), waarvan tenminste één als vertegenwoordiger van in die gemeente woonachtige omwonenden van het luchtvaartterrein kan worden beschouwd;
+- b. twee vertegenwoordigers van elke gemeente als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01), waarvan tenminste één als vertegenwoordiger van in die gemeente woonachtige omwonenden van het luchtvaartterrein kan worden beschouwd;
 
 - c. ten hoogste twee vertegenwoordigers van de exploitant van het luchtvaartterrein;
 
@@ -554,41 +554,41 @@ De commissie is bevoegd Onze Minister ongevraagd voorstellen terzake te doen.
 
 ##### Artikel 30
 
-1. Tegen een besluit als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=27&z=2002-07-01&g=2002-07-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. Het beroep kan mede de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01), bedoelde aanwijzingen en voorschriften omvatten.
+1. Tegen een besluit als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=27&z=2003-01-01&g=2003-01-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. Het beroep kan mede de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01), bedoelde aanwijzingen en voorschriften omvatten.
 
-2. Indien omtrent het ontwerp van een bestemmingsplan dat ter uitvoering van de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01), bedoelde aanwijzingen en voorschriften wordt vastgesteld of herzien, zienswijzen als bedoeld in [artikel 23, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=23) kenbaar zijn gemaakt, kunnen deze geen grond vinden in bedenkingen tegen de aanwijzing van het luchtvaartterrein of de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2002-07-01&g=2002-07-01), bedoelde aanwijzingen en voorschriften.
+2. Indien omtrent het ontwerp van een bestemmingsplan dat ter uitvoering van de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01), bedoelde aanwijzingen en voorschriften wordt vastgesteld of herzien, zienswijzen als bedoeld in [artikel 23, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=23) kenbaar zijn gemaakt, kunnen deze geen grond vinden in bedenkingen tegen de aanwijzing van het luchtvaartterrein of de in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26&z=2003-01-01&g=2003-01-01), bedoelde aanwijzingen en voorschriften.
 
 ### Afdeling 2. Voorschriften omtrent handhaving van geluidszones
 
 ##### Artikel 30a
 
-1. Voor elk luchtvaartterrein waarvoor een of meer zones, als bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) worden vastgesteld, stelt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een handhavingsvoorschrift vast.
+1. Voor elk luchtvaartterrein waarvoor een of meer zones, als bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) worden vastgesteld, stelt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een handhavingsvoorschrift vast.
 
-2. Het handhavingsvoorschrift legt de hoofdlijnen vast van de wijze waarop toezicht plaatsvindt op de voor het gebruik van een luchtvaartterrein gestelde voorschriften als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), alsmede op andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder, en bevat tenminste:
+2. Het handhavingsvoorschrift legt de hoofdlijnen vast van de wijze waarop toezicht plaatsvindt op de voor het gebruik van een luchtvaartterrein gestelde voorschriften als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), alsmede op andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder, en bevat tenminste:
 
 - a. regels omtrent de wijze waarop de voor het meten, berekenen en registreren van de geluidsbelasting benodigde gegevens worden verzameld;
 
-- b. regels omtrent de wijze waarop het feitelijke gebruik van het luchtvaartterrein wordt getoetst aan het voorgenomen gebruik dat in het gebruiksplan, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2002-07-01&g=2002-07-01), is aangegeven;
+- b. regels omtrent de wijze waarop het feitelijke gebruik van het luchtvaartterrein wordt getoetst aan het voorgenomen gebruik dat in het gebruiksplan, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2003-01-01&g=2003-01-01), is aangegeven;
 
-- c. regels omtrent de wijze waarop kan worden geconstateerd of het gebruik van het luchtvaartterrein afwijkt van de voorschriften in de aanwijzing bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), met betrekking tot de geluidsbelasting of andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder.
+- c. regels omtrent de wijze waarop kan worden geconstateerd of het gebruik van het luchtvaartterrein afwijkt van de voorschriften in de aanwijzing bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), met betrekking tot de geluidsbelasting of andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder.
 
 3. Het handhavingsvoorschrift is openbaar.
 
-4. Onze Minister brengt uiterlijk vóór 1 april van elk kalenderjaar in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan de milieucommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2002-07-01&g=2002-07-01), een evaluatierapport uit over de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar. Zonodig bevat het evaluatierapport voorstellen omtrent de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar.
+4. Onze Minister brengt uiterlijk vóór 1 april van elk kalenderjaar in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan de milieucommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=28&z=2003-01-01&g=2003-01-01), een evaluatierapport uit over de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar. Zonodig bevat het evaluatierapport voorstellen omtrent de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar.
 
 ##### Artikel 30b
 
 1. De exploitant van een luchtvaartterrein
 
-- a. in gebruik voor luchtvaartuigen als bedoeld in [artikel 25, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), zendt Onze Minister een voorstel inzake het gebruik van het luchtvaartterrein voor een nader met Onze Minister overeen te komen periode van 12 achtereenvolgende maanden, verder te noemen gebruiksplan;
+- a. in gebruik voor luchtvaartuigen als bedoeld in [artikel 25, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), zendt Onze Minister een voorstel inzake het gebruik van het luchtvaartterrein voor een nader met Onze Minister overeen te komen periode van 12 achtereenvolgende maanden, verder te noemen gebruiksplan;
 
-- b. alleen in gebruik voor luchtvaartuigen als bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2002-07-01&g=2002-07-01), toont ten genoegen van Onze Minister aan dat door het te verwachten gebruik van het luchtvaartterrein de geluidszone niet zal worden overschreden.
+- b. alleen in gebruik voor luchtvaartuigen als bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25&z=2003-01-01&g=2003-01-01), toont ten genoegen van Onze Minister aan dat door het te verwachten gebruik van het luchtvaartterrein de geluidszone niet zal worden overschreden.
 
 2. Het gebruiksplan bevat:
 
 - a. een voorstel voor de wijze waarop het luchtvaartterrein zal worden gebruikt, met inbegrip van de door de exploitant van het desbetreffende luchtvaartterrein tweemaal per jaar vast te stellen capaciteit;
 
-- b. tenminste alle gegevens die volgens het in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30a&z=2002-07-01&g=2002-07-01) bedoelde handhavingsvoorschrift nodig zijn om de geluidsbelasting te bepalen die zal worden veroorzaakt door het in het gebruiksplan voorgestelde gebruik van het luchtvaartterrein;
+- b. tenminste alle gegevens die volgens het in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30a&z=2003-01-01&g=2003-01-01) bedoelde handhavingsvoorschrift nodig zijn om de geluidsbelasting te bepalen die zal worden veroorzaakt door het in het gebruiksplan voorgestelde gebruik van het luchtvaartterrein;
 
 - c. de maatregelen, die de exploitant in ieder geval dient te nemen om voor zover dat in zijn vermogen ligt er voor zorg te dragen, dat bij het gebruik van het desbetreffende luchtvaartterrein de geluidsbelasting de vastgestelde grenswaarde buiten de daarbij behorende geluidszone niet overschrijdt;
 
@@ -596,9 +596,9 @@ De commissie is bevoegd Onze Minister ongevraagd voorstellen terzake te doen.
 
 3. Onze Minister stelt na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het gebruiksplan binnen zes weken na ontvangst vast, indien is aangetoond dat:
 
-- -. het gebruik van het luchtvaartterrein zoals aangegeven in het gebruiksplan niet zal leiden tot een hogere geluidsbelasting dan is toegelaten volgens de voor het luchtvaartterrein op grond van de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01) vastgestelde zones, en
+- -. het gebruik van het luchtvaartterrein zoals aangegeven in het gebruiksplan niet zal leiden tot een hogere geluidsbelasting dan is toegelaten volgens de voor het luchtvaartterrein op grond van de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01) vastgestelde zones, en
 
-- -. de op grond van [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2002-07-01&g=2002-07-01), of op andere wijze gestelde voorschriften en maatregelen die zijn gericht op het voorkomen of bestrijden van geluidhinder, in acht zijn genomen.
+- -. de op grond van [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=24&z=2003-01-01&g=2003-01-01), of op andere wijze gestelde voorschriften en maatregelen die zijn gericht op het voorkomen of bestrijden van geluidhinder, in acht zijn genomen.
 
 4. Zolang voor de voorliggende periode van 12 maanden geen gebruiksplan is vastgesteld, hanteert de exploitant van het luchtvaartterrein het laatst vastgestelde gebruiksplan.
 
@@ -642,7 +642,7 @@ De exploitant van een uitsluitend of mede voor het openbare burgerlijke luchtver
 
 - a. in strijd met de bepalingen en voorschriften bij de aanwijzing gesteld;
 
-- b. in strijd met de door Onze Minister gegeven voorschriften, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2002-07-01&g=2002-07-01);
+- b. in strijd met de door Onze Minister gegeven voorschriften, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2003-01-01&g=2003-01-01);
 
 - c. voor andere doeleinden, dan die, welke verband houden met de exploitatie van het luchtvaartterrein.
 
@@ -656,17 +656,17 @@ De exploitant van een uitsluitend of mede voor het openbare burgerlijke luchtver
 
 - a. in strijd met de bepalingen en voorschriften bij de aanwijzing gesteld;
 
-- b. in strijd met de door Onze Minister gegeven voorschriften als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2002-07-01&g=2002-07-01).
+- b. in strijd met de door Onze Minister gegeven voorschriften als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2003-01-01&g=2003-01-01).
 
-2. Het bepaalde in het eerste lid geldt niet, indien en voor zover Onze Minister ontheffing heeft verleend, dan wel voor zover een ontheffing is verleend als bedoeld in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2002-07-01&g=2002-07-01).
+2. Het bepaalde in het eerste lid geldt niet, indien en voor zover Onze Minister ontheffing heeft verleend, dan wel voor zover een ontheffing is verleend als bedoeld in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 35
 
 1. Onze Minister kan, in verband met de gesteldheid van het luchtvaartterrein of om andere redenen de veiligheid van de luchtvaart betreffende dan wel op grond van de omstandigheid, dat de bij de aanwijzing gestelde bepalingen of voorschriften niet worden nageleefd, een luchtvaartterrein tijdelijk gesloten verklaren.
 
-Voor zover Onze Minister geen ontheffing als bedoeld in [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25f&z=2002-07-01&g=2002-07-01) heeft verleend voor een tijdelijke overschrijding van de geluidszones, bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2002-07-01&g=2002-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2002-07-01&g=2002-07-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2002-07-01&g=2002-07-01), kan een luchtvaartterrein tijdelijk gesloten worden verklaard indien buiten de geluidszones een hogere geluidsbelasting is opgetreden dan de vastgestelde grenswaarde.
+Voor zover Onze Minister geen ontheffing als bedoeld in [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25f&z=2003-01-01&g=2003-01-01) heeft verleend voor een tijdelijke overschrijding van de geluidszones, bedoeld in de [artikelen 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25a&z=2003-01-01&g=2003-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25b&z=2003-01-01&g=2003-01-01) en [25c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=25c&z=2003-01-01&g=2003-01-01), kan een luchtvaartterrein tijdelijk gesloten worden verklaard indien buiten de geluidszones een hogere geluidsbelasting is opgetreden dan de vastgestelde grenswaarde.
 
-2. Onze Minister kan in geval van dreigende overschrijding van een vastgestelde grenswaarde buiten de daarbij behorende geluidszone het desbetreffende luchtvaartterrein tijdelijk gesloten verklaren, indien de exploitant alle in [artikel 30b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2002-07-01&g=2002-07-01), bedoelde maatregelen zal nemen of heeft genomen.
+2. Onze Minister kan in geval van dreigende overschrijding van een vastgestelde grenswaarde buiten de daarbij behorende geluidszone het desbetreffende luchtvaartterrein tijdelijk gesloten verklaren, indien de exploitant alle in [artikel 30b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2003-01-01&g=2003-01-01), bedoelde maatregelen zal nemen of heeft genomen.
 
 3. De sluiting kan, met inachtneming van hetgeen daaromtrent bij internationale overeenkomst is bepaald, worden beperkt tot:
 
@@ -678,7 +678,7 @@ Voor zover Onze Minister geen ontheffing als bedoeld in [artikel 25f](https://we
 
 - d. bepaalde tijdsperioden;
 
-- e. luchtvaartuigen behorend tot het soort luchtvaartuigen in beheer of in eigendom van een natuurlijke persoon of rechtspersoon, waarmee een gezagvoerder in zijn dienst of voor zijn rekening gedurende een periode van twaalf maanden tenminste twee keer het verbod, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2002-07-01&g=2002-07-01), heeft overtreden.
+- e. luchtvaartuigen behorend tot het soort luchtvaartuigen in beheer of in eigendom van een natuurlijke persoon of rechtspersoon, waarmee een gezagvoerder in zijn dienst of voor zijn rekening gedurende een periode van twaalf maanden tenminste twee keer het verbod, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2003-01-01&g=2003-01-01), heeft overtreden.
 
 ##### Artikel 36
 
@@ -690,25 +690,37 @@ Voor zover Onze Minister geen ontheffing als bedoeld in [artikel 25f](https://we
 
 ##### Artikel 37
 
-Het is verboden voor het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2002-07-01&g=2002-07-01) bedoelde gebruik andere tarieven te heffen, dan de ingevolge dat artikel door Ons goedgekeurde tarieven.
+Het is verboden voor het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2003-01-01&g=2003-01-01) bedoelde gebruik andere tarieven te heffen, dan de ingevolge dat artikel door Ons goedgekeurde tarieven.
 
-### Afdeling 3A. Beveiliging luchtvaartterreinen
+### Afdeling 3A. Beveiliging op luchtvaartterreinen
 
 #### § 1. Algemeen
 
 ##### Artikel 37a
 
-1. Voor de toepassing van deze afdeling wordt verstaan onder:
+1. Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. luchtvaartterreinen: een luchtvaartterrein dat mede wordt gebruikt voor verkeersvluchten van of naar een bestemming buiten Nederlands grondgebied, met uitzondering van die delen van een militair luchtvaartterrein die niet uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt;
+- a. luchtvaartterreinen: een luchtvaartterrein dat mede wordt gebruikt voor verkeersvluchten, met uitzondering van die delen van een militair luchtvaartterrein die niet uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt;
 
-- b. bewakingspersoneel:
+- b. beveiligingspersoneel:
 
-- 1°. personen in dienst van een door Onze Minister van Justitie met de beveiliging van een luchtvaartterrein belaste particuliere beveiligingsorganisatie, waaraan door Onze Minister van Justitie een vergunning is verleend als bedoeld in [artikel 2, eerste lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=2), alsmede
+- 1°. personen in dienst van een door de exploitant van een luchtvaartterrein met de uitvoering van de beveiliging belaste particuliere beveiligingsorganisatie, waaraan door Onze Minister van Justitie een vergunning is verleend als bedoeld in [artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3), en
 
-- 2°. de door Onze Minister van Justitie aangewezen politie-ambtenaren, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
+- 2°. de door Onze Minister van Justitie aangewezen politie-ambtenaren, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
 
-2. Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van [artikel 1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=I&artikel=1&z=2002-07-01&g=2002-07-01), voor de toepassing van deze afdeling als exploitant aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.
+- c. voor bedreiging geschikte voorwerpen: wapens, explosieven of andere voorwerpen en stoffen, die voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen;
+
+- d. gevaarlijke goederen: explosieven of andere voorwerpen en stoffen, die de veiligheid van het luchtvaartuig in gevaar kunnen brengen;
+
+- e. bagage: goederen toebehorende aan passagiers,
+
+- 1°. die deze zelf in het luchtvaartuig meenemen als handbagage, of
+
+- 2°. die deze in verband met hun reis aan de luchtvaartmaatschappij hebben afgegeven teneinde in het ruim van het luchtvaartuig te worden vervoerd als ruimbagage;
+
+- f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen postzendingen als bedoeld in [artikel 1, onderdeel c, van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=1), tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.
+
+2. Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van [artikel 1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01), voor de toepassing van deze afdeling als exploitant van een luchtvaartterrein aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.
 
 3. Een koninklijk besluit als bedoeld in het tweede lid wordt genomen op voordracht van Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Ministers van Justitie en van Defensie.
 
@@ -718,7 +730,7 @@ Het is verboden voor het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. De exploitant van een luchtvaartterrein wijst de delen daarvan aan:
 
-- a. die door het publiek slechts betreden mogen worden, indien de betrokken personen in het bezit zijn van een geldig reisbiljet;
+- a. die door het publiek slechts betreden mogen worden, indien de betrokken personen in het bezit zijn van een geldig reisbiljet of een daartoe afgegeven persoonsgebonden kaart;
 
 - b. die niet voor het publiek toegankelijk zijn;
 
@@ -726,27 +738,31 @@ Het is verboden voor het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Onze Minister van Justitie, in overeenstemming met Onze Minister, kan delen van het luchtvaartterrein aanwijzen die in ieder geval tot één van de in het eerste lid bedoelde delen behoren.
 
-3. De exploitant draagt er zorg voor:
+3. De exploitant van een luchtvaartterrein draagt er zorg voor:
 
 - a. dat een ieder die toegang heeft tot één van de in het eerste lid, onder **b** en **c**, bedoelde delen, over een door hem verstrekt of erkend toegangsbewijs beschikt, waaruit tevens duidelijk kenbaar is tot welke delen de drager toegang heeft;
 
 - b. dat een ieder die zich in één van de in het eerste lid, onder **b** en **c**, bedoelde delen bevindt, verplicht is het onder **a** bedoelde toegangsbewijs zichtbaar te dragen;
 
-- c. dat een ieder die zich in één van de in het eerste lid, onder **a**, bedoelde delen bevindt, verplicht is het onder **a** bedoelde toegangsbewijs dan wel een geldig reisbiljet bij zich te hebben en dit te allen tijde op verzoek van een lid van het bewakingspersoneel ter inzage te geven.
+- c. dat een ieder die zich in één van de in het eerste lid, onder **a**, bedoelde delen bevindt, verplicht is het onder **a** bedoelde toegangsbewijs dan wel een geldig reisbiljet of een daartoe afgegeven persoonsgebonden kaart bij zich te hebben en dit te allen tijde op verzoek van een lid van het beveiligingspersoneel ter inzage te geven;
 
-4. De exploitant schermt de in het eerste lid, onder **b** en **c**, bedoelde delen van het luchtvaartterrein zodanig onderling van elkaar af dat zij slechts op een beperkt aantal door bewakingspersoneel of anderszins bewaakte plaatsen toegankelijk zijn na inzage van het toegangsbewijs. Delen als bedoeld in het eerste lid, onder **c**, die voor onderscheiden categorieën personeel toegankelijk zijn worden daarbij als onderscheiden delen aangemerkt.
+- d. dat voertuigen die worden gebruikt op de delen, bedoeld in het eerste lid onder b en c, zijn voorzien van een door de exploitant van een luchtvaartterrein afgegeven toegangsbewijs dat duidelijk zichtbaar is aangebracht en waarop duidelijk kenbaar is tot welke delen het voertuig toegang heeft.
 
-5. De toegangen bedoeld in het derde lid, dienen duidelijk gemarkeerd te zijn onder aanduiding van de categorieën personen die toegang hebben. De toegangen dienen steeds helder verlicht en afsluitbaar te zijn.
+4. De exploitant van een luchtvaartterrein schermt de in het eerste lid, onder **b** en **c**, bedoelde delen van het luchtvaartterrein zodanig onderling van elkaar af dat zij slechts op een beperkt aantal door beveiligingspersoneel of anderszins bewaakte plaatsen toegankelijk zijn na controle van het toegangsbewijs. Delen als bedoeld in het eerste lid, onder **c**, die voor onderscheiden categorieën personeel toegankelijk zijn worden daarbij als onderscheiden delen aangemerkt.
 
-6. De exploitant draagt er zorg voor, dat personen die niet voldoen aan het derde lid, onder **b** en **c**, de verdere toegang tot de in het eerste lid bedoelde delen van het luchtvaartterrein wordt ontzegd.
+5. De plaatsen bedoeld in het vierde lid, dienen duidelijk gemarkeerd te zijn onder aanduiding van de categorieën personen die toegang hebben. De plaatsen dienen steeds helder verlicht en afsluitbaar te zijn.
+
+6. Een ieder die op de plaatsen, bedoeld in het vierde lid, toegang zoekt tot of zich bevindt op één van de in het eerste lid, onder b en c, bedoelde delen, gedoogt dat vanwege de exploitant van een luchtvaartterrein onderzoek plaatsvindt aan zijn kleding of van voorwerpen die hij bij zich heeft.
+
+7. De exploitant van een luchtvaartterrein draagt er zorg voor, dat personen die niet voldoen aan het derde lid, onder **b** en **c**, of het zesde lid, de verdere toegang tot de in het eerste lid bedoelde delen van het luchtvaartterrein wordt ontzegd.
 
 ##### Artikel 37c
 
-1. De exploitant treft de nodige voorzieningen om te voorkomen dat personen of bagage aan boord van een luchtvaartuig gaan zonder dat deze zijn onderworpen aan een controle overeenkomstig paragraaf 3.
+1. De exploitant van een luchtvaartterrein treft de nodige voorzieningen om te voorkomen dat personen of bagage aan boord van een luchtvaartuig gaan zonder dat deze zijn onderworpen aan een controle overeenkomstig paragraaf 3.
 
-2. De exploitant is verplicht te beschikken over:
+2. De exploitant van een luchtvaartterrein is verplicht te beschikken over:
 
-- a. voldoende detectieapparatuur voor de uitoefening van de controle door het bewakingspersoneel overeenkomstig paragraaf 3;
+- a. voldoende en passende detectieapparatuur voor de uitoefening van de controle door het beveiligingspersoneel overeenkomstig paragraaf 3;
 
 - b. een ruimte voor vertrekkende passagiers die zodanig is ingericht dat gecontroleerde passagiers en handbagage zijn afgeschermd en een vermenging met niet gecontroleerde personen en voorwerpen niet mogelijk is;
 
@@ -754,7 +770,9 @@ Het is verboden voor het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. een afsluitbare en beveiligde ruimte bestemd voor het bewaren van verdachte bagage.
 
-3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, nadere regels stellen met betrekking tot de voorzieningen die zijn vereist ter beveiliging van de internationale burgerluchtvaart. Deze regels kunnen de eis inhouden van voorafgaande toestemming door Onze Minister van Justitie van de getroffen voorzieningen.
+3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, nadere regels stellen met betrekking tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart.
+
+4. Onze Minister van Justitie kan de exploitant van een luchtvaartterrein een aanwijzing geven inzake de aanschaf van detectie-apparatuur indien deze apparatuur redelijkerwijs niet als passend kan worden beschouwd.
 
 ##### Artikel 37d
 
@@ -762,29 +780,31 @@ De exploitant van een luchtvaartterrein richt dit zodanig in, en treft zodanige 
 
 - a. een plaats beschikbaar is voor het afzonderen van een luchtvaartuig;
 
-- b. het bewakingspersoneel snel en op eenvoudige wijze de verschillende delen van het luchtvaartterrein kan bereiken en toezicht kan houden op daar aanwezige personen;
+- b. het beveiligingspersoneel snel en op eenvoudige wijze de verschillende delen van het luchtvaartterrein kan bereiken en toezicht kan houden op daar aanwezige personen;
 
 - c. redelijkerwijze voorkomen wordt dat onbevoegden een geparkeerd luchtvaartuig betreden.
 
 ##### Artikel 37e
 
-1. De exploitant van een luchtvaartterrein is gehouden een plan op te stellen met betrekking tot de beveiliging van het luchtvaartterrein. Het plan behoeft de toestemming van Onze Minister van Justitie in overeenstemming met Onze Minister. De toestemming kan te allen tijde worden ingetrokken indien aanpassingen in het plan gewenst zijn.
+1. De exploitant van een luchtvaartterrein is gehouden een plan op te stellen met betrekking tot de beveiliging van het luchtvaartterrein. Het plan behoeft de toestemming van Onze Minister van Justitie in overeenstemming met Onze Minister. Het plan wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
 
 2. Het in het eerste lid bedoelde plan omvat onder meer:
 
 - a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van het luchtvaartterrein;
 
-- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 37**i**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37i&z=2002-07-01&g=2002-07-01);
+- b. de bijzondere procedures en maatregelen voor situaties als bedoeld in [artikel 37**ad**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37ad&z=2003-01-01&g=2003-01-01);
 
 - c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein en
 
 - d. andere bij algemene maatregel van bestuur te bepalen onderwerpen.
 
-3. De exploitant van een luchtvaartterrein verstrekt desgevraagd Onze Minister van Justitie alle informatie met betrekking tot de beveiliging van het luchtvaartterrein.
+3. De exploitant van een luchtvaartterrein informeert uit eigen beweging Onze Minister en Onze Minister van Justitie indien het plan door omstandigheden niet kan worden uitgevoerd of daarin wijzigingen worden aangebracht. Hij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van het luchtvaartterrein.
+
+4. Indien een onderdeel van het plan niet wordt uitgevoerd, kan Onze Minister van Justitie de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het plan aangegeven niveau van beveiliging te benaderen.
 
 ##### Artikel 37f
 
-1. Onverminderd de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=29&z=2002-07-01&g=2002-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2002-07-01&g=2002-07-01) is Onze Minister van Justitie bevoegd tot toepassing van bestuursdwang ter handhaving van de aan de exploitant bij of krachtens deze paragraaf gestelde verplichtingen.
+1. Onverminderd de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=29&z=2003-01-01&g=2003-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2003-01-01&g=2003-01-01) is Onze Minister van Justitie bevoegd tot toepassing van bestuursdwang ter handhaving van de aan de exploitant bij of krachtens deze paragraaf gestelde verplichtingen.
 
 2. De maatregelen, getroffen op grond van het eerste lid, worden buiten beschouwing gelaten bij de vaststelling van de omvang van de verplichtingen van de exploitant ingevolge deze paragraaf.
 
@@ -806,7 +826,7 @@ De exploitant van een luchtvaartterrein richt dit zodanig in, en treft zodanige 
 
 - c. naar de betrouwbaarheid van passagiers als bedoeld in het eerste lid.
 
-3. Bij toepassing van [artikel 37**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37i&z=2002-07-01&g=2002-07-01) kan de controle als bedoeld in het tweede lid, stelselmatig worden uitgevoerd.
+3. Bij toepassing van [artikel 37**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37i&z=2003-01-01&g=2003-01-01) kan de controle als bedoeld in het tweede lid, stelselmatig worden uitgevoerd.
 
 4. Bij ministeriële regeling van Onze Minister van Justitie, in overeenstemming met Onze Minister, kan een vrijstelling worden verleend ten aanzien van de soorten vluchten of luchtvaartuigen die zijn uitgezonderd van een controle als bedoeld in het eerste lid. Onze Minister van Justitie kan in bijzondere gevallen ontheffing verlenen van deze controle.
 
@@ -814,7 +834,7 @@ De exploitant van een luchtvaartterrein richt dit zodanig in, en treft zodanige 
 
 ##### Artikel 37h
 
-1. Passagiers die weigeren zichzelf of hun bagage aan controle te onderwerpen, wordt verhinderd enig luchtvaartuig te betreden, hun wordt de verdere toegang tot de in [artikel 37**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2002-07-01&g=2002-07-01), bedoelde delen van het luchtvaartterrein ontzegd en zij worden daaruit zo nodig verwijderd.
+1. Passagiers die weigeren zichzelf of hun bagage aan controle te onderwerpen, wordt verhinderd enig luchtvaartuig te betreden, hun wordt de verdere toegang tot de in [artikel 37**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2003-01-01&g=2003-01-01), bedoelde delen van het luchtvaartterrein ontzegd en zij worden daaruit zo nodig verwijderd.
 
 2. Bagage waarvan de herkomst of de eigendom van een van de inzittenden in het betrokken luchtvaartuig niet is vastgesteld, wordt niet aan boord van het luchtvaartuig gebracht dan na onderzoek op de aanwezigheid van wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en gezondheid van personen kunnen bedreigen, voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen.
 
@@ -824,75 +844,85 @@ De exploitant van een luchtvaartterrein richt dit zodanig in, en treft zodanige 
 
 ##### Artikel 37i
 
-1. Onze Minister van Justitie kan op grond van omstandigheden en inlichtingen vaststellen, dat er ten aanzien van een luchtvaartterrein, dan wel bepaalde daar aanwezige luchtvaartuigen, het vermoeden gerechtvaardigd is, dat een bijzonder gevaar bestaat dat zij het object van geweldpleging, aanslagen of bedreiging zullen vormen. Hij geeft hiervan onverwijld kennis aan de exploitant.
+Vervallen.
 
-2. Na toepassing van het eerste lid worden geen goederen of dieren aan boord van de betrokken luchtvaartuigen gebracht dan na, zonodig stuksgewijs, onderzoek op de aanwezigheid van wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en gezondheid van personen kunnen bedreigen, voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen.
-
-3. Onze Minister van Justitie kan in andere dan de in het eerste lid bedoelde gevallen, luchtvaartuigen aanwijzen met betrekking tot welke het tweede lid van toepassing is.
-
-4. De [artikelen 37**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37c&z=2002-07-01&g=2002-07-01), en [37**h**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2002-07-01&g=2002-07-01), zijn van overeenkomstige toepassing met betrekking tot het onderzoek bedoeld in het tweede lid.
-
-#### § 4. De beveiligingsheffing
+#### § 3. De uitoefening van controle door bewakingspersoneel
 
 ##### Artikel 37j
 
-1. Ter bestrijding van de kosten die het Rijk maakt met het oog op de uitoefening van de controle overeenkomstig paragraaf 3, wordt onder de naam "beveiligingsheffing" een heffing geheven.
+1. De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen.
 
-2. De heffing wordt geheven van de natuurlijke persoon of rechtspersoon die als eigenaar of houder van een burgerluchtvaartuig dit te zijner beschikking heeft en dit onder zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer.
+2. Het gestelde in het eerste lid kan, onverminderd het bepaalde bij of krachtens deze of andere wetten, achterwege blijven indien er sprake is van:
 
-3. De heffing wordt geheven naar het aantal passagiers dat, na te zijn onderworpen aan een controle als bedoeld in paragraaf 3, op een luchtvaartterrein aan boord gaat van een burgerluchtvaartuig met een bestemming buiten het grondgebied van Nederland. Daarbij worden niet meegerekend passagiers
+- a. vracht bestemd om te worden overgeladen van het ene vliegtuig op het andere, voor zover deze is voorzien van bescherming tegen bemoeienis door ongeautoriseerde personen;
 
-- a. die overstappen en de luchthaven daarbij niet meer dan vierentwintig uren verlaten, of
+- b. vervoer van stoffelijke overschotten;
 
-- b. met een leeftijd jonger dan twee jaren.
+- c. levende dieren;
 
-4. Het tarief van de heffing wordt bij ministeriële regeling door Onze Minister van Justitie bij het begin van een kalenderjaar vastgesteld. Het tarief wordt berekend door de geraamde kosten als bedoeld in het eerste lid, voor dat jaar te delen door het dat jaar te verwachten aantal passagiers dat aan boord zal gaan en daarop de nodige afronding aan te brengen. Indien in de loop van een kalenderjaar de geraamde kosten per passagier een aanzienlijke wijziging ondergaan, wordt het tarief tussentijds gewijzigd. Het tarief wordt alsdan berekend door de voor het resterende deel van het kalenderjaar geraamde kosten te delen door het voor dat deel verwachte aantal passagiers.
+- d. levensreddende materialen, voor zover de controle afbreuk kan doen aan de levensreddende kwaliteit van het materiaal;
+
+- e. nucleair materiaal of
+
+- f. andere bij ministeriële regeling van Onze Minister van Justitie aangewezen vracht, voor zover de controle afbreuk kan doen aan de kwaliteit van de vracht.
 
 ##### Artikel 37k
 
-1. De heffing wordt door Onze Minister van Justitie geheven.
+1. De controle, bedoeld in het [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2003-01-01&g=2003-01-01), omvat in ieder geval:
 
-2. Onverminderd het overigens in dit artikel bepaalde wordt de heffing geheven met overeenkomstige toepassing van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) (Stb. 1959, 301), met dien verstande dat van die wet buiten toepassing blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=I&artikel=2&z=2002-07-01&g=2002-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=37&z=2002-07-01&g=2002-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), 47a, [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=48&z=2002-07-01&g=2002-07-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=52&z=2002-07-01&g=2002-07-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=53&z=2002-07-01&g=2002-07-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=54&z=2002-07-01&g=2002-07-01), alsmede [68 tot en met 88](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=68&z=2002-07-01&g=2002-07-01).
+- a. een onderzoek naar de identiteit van degene die feitelijk vracht aanbiedt;
 
-3. De bevoegdheden en de verplichtingen van de hierna vermelde, in de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) genoemde functionarissen gelden met betrekking tot de beveiligingsheffing voor de daarachter genoemde functionarissen:
+- b. het stelselmatig uitvoeren van onderzoek met de hand, met behulp van passende detectieapparatuur of van andere technische hulpmiddelen en
 
-- a. Onze Minister van Financiën: Onze Minister van Justitie;
+- c. de verificatie van de luchtvrachtbrief en de verzamelstaat.
 
-- b. de inspecteur: de door Onze Minister van Justitie daartoe aan te wijzen functionaris van de exploitant van een luchtvaartterrein.
+2. Voor zover de aard of samenstelling van de vracht zich tegen controle verzet, kan Onze Minister van Justitie bij ministeriële regeling vrijstelling verlenen van handelingen als bedoeld in het eerste lid, onderdeel b.
 
-4. In afwijking van het derde lid, onderdeel b, treedt voor de toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) de door Onze Minister van Justitie aan te wijzen ambtenaar in de plaats van de inspecteur. Voorts treedt voor de toepassing van [artikel 28a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=28a) Onze Minister van Justitie in de plaats van Onze Minister van Financiën.
+3. De [artikelen 37c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37c&z=2003-01-01&g=2003-01-01), en [37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37f&z=2003-01-01&g=2003-01-01), zijn van overeenkomstige toepassing.
 
-5. De heffing wordt geheven bij wege van aanslag. Zij wordt geheven over een bij ministeriële regeling van Onze Minister van Justitie te bepalen tijdvak.
+4. De luchtvaartmaatschappij doet bij de controle aangetroffen gevaarlijke goederen, of de vracht waarin gevaarlijke goederen zijn aangetroffen, niet dan in overeenstemming met door Onze Minister van Justitie bij ministeriële regeling vast te stellen regels of te geven aanwijzingen aan boord van een luchtvaartuig brengen.
 
 ##### Artikel 37l
 
-1. De heffing wordt ingevorderd door de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein en door de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+1. [Artikel 37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2003-01-01&g=2003-01-01) is niet van toepassing indien vracht wordt aangeboden door de personen als bedoeld in het tweede lid en blijkens een uitwendige visuele controle
 
-2. Onverminderd het overigens in dit artikel bepaalde wordt de heffing ingevorderd met overeenkomstige toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) (**Stb.** 1969, 83), met dien verstande dat van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) buiten toepassing blijven de [artikelen 9, eerste tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9)[59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62). Voorts blijven bij de toepassing van [artikel 66 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66), de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86) en [87 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) buiten toepassing.
+- a. de vracht is verpakt;
 
-3. Met betrekking tot de invordering geldt vervolgens dat:
+- b. de verpakking onbeschadigd is;
 
-- a. wat betreft de toepassing van [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) uitsluitend bevoegd is de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein. De in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=12) en [15, eerste lid, onderdeel **a**, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15) (**Stb.** 221) bedoelde bevoegdheden komen uitsluitend toe aan de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein. De in [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde bevoegdheid komt uitsluitend toe aan de door Onze Minister van Justitie aan te wijzen ambtenaar, met dien verstande dat voor de toepassing van artikel 26 van die wet de door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing zijn;
+- c. geen gevaarlijke goederen zijn toegevoegd en
 
-- b. de overige bij de invordering van toepassing zijnde bevoegdheden, met uitzondering van die bedoeld in de [artikelen 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) en [58 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58), uitsluitend toekomen aan de ontvanger bedoeld in het eerste lid;
+- d. geen onregelmatigheden met de verpakking hebben plaatsgevonden.
 
-- c. de bevoegdheid bedoeld in [artikel 24, tweede en derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) zowel toekomt aan de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein als aan de ontvanger bedoeld in het eerste lid;
+2. De personen bedoeld in het eerste lid, aanhef, zijn:
 
-- d. de bevoegdheden bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) en [artikel 58 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=58) toekomen aan de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein indien deze met de invordering is belast en indien de ontvanger bedoeld in het eerste lid met de invordering is belast, toekomen aan die ontvanger.
+- a. een geregistreerde als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01);
 
-4. In het kader van het verzet tegen de tenuitvoerlegging van het dwangbevel moet in [artikel 17 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=17) voor "de ontvanger die het dwangbevel heeft uitgevaardigd" telkens worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.
+- b. een niet-geregistreerde voor zover de vracht afkomstig is van een geregistreerde en deze is verpakt overeenkomstig de door Onze Minister van Justitie bij ministeriële regeling vast te stellen voorschriften om te voorkomen dat daaraan gevaarlijke goederen worden toegevoegd;
 
-5. Betaling van de heffing dient te geschieden aan de door Onze Minister van Justitie aan te wijzen functionaris van de exploitant van een luchtvaartterrein. Na de betekening van het dwangbevel dient te worden betaald aan de ontvanger bedoeld in het eerste lid die is vermeld op het dwangbevel.
+- c. een rechtspersoon op wie een verplichting tot vervoer van voorwerpen rust ingevolge de [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423), of een overeenkomstige buitenlandse postinstelling; of
+
+- d. bij ministeriële regeling te bepalen categorieën van natuurlijke personen of rechtspersonen die in het buitenland zijn gevestigd en ten aanzien waarvan op grond van internationale afspraken toereikende waarborgen aanwezig zijn dat maatregelen zijn genomen ter beveiliging van de aangeboden vracht.
+
+3. Onze Minister van Justitie kan bepalen dat de uitzondering, bedoeld in het eerste lid, niet van toepassing is op de rechtspersoon, bedoeld in het tweede lid, onderdeel c, indien er een gerechtvaardigd vermoeden is dat bepaalde vracht gevaarlijke goederen bevat.
+
+4. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling voorschriften geven met betrekking tot vracht aangeboden door personen als bedoeld in het tweede lid, onderdeel c, ter voorkoming van vervoer van gevaarlijke goederen door een luchtvaartmaatschappij.
+
+5. Onze Minister van Justitie kan met het oog op de controle ter beveiliging van vracht bij ministeriële regeling voorschriften geven over de afhandeling van vracht door personen die in het buitenland zijn gevestigd en vracht aanbieden door tussenkomst van de personen als bedoeld in het tweede lid, onderdeel d.
 
 ##### Artikel 37m
 
-1. De natuurlijke persoon of de rechtspersoon als bedoeld in [artikel 37**j**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2002-07-01&g=2002-07-01), houdt met inachtneming van door Onze Minister van Justitie bij ministeriële regeling vast te stellen regels, aantekening van het aantal passagiers als bedoeld in [artikel 37**j**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2002-07-01&g=2002-07-01). Hij is verplicht die aantekeningen gedurende tien jaren te bewaren.
+1. Aan de luchtvaartmaatschappij voor vervoer toevertrouwde brieven worden zonder goedvinden van de afzender of van de geadresseerde slechts geopend indien de rechter-commissaris in de rechtbank van het arrondissement waarbinnen de brief is aangetroffen, daartoe, op verzoek van de luchtvaartmaatschappij, bevel heeft gegeven.
 
-2. [Artikel 54 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) is van toepassing met dien verstande dat voor "de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) of [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a)" wordt gelezen: het eerste lid.
+2. Het bevel, bedoeld in het eerste lid, wordt slechts gegeven indien het vermoeden bestaat dat zich in de brief gevaarlijke goederen bevinden.
 
 ##### Artikel 37n
 
-Bij ministeriële regeling van Onze Minister van Justitie kunnen inzake de heffing en de invordering van de beveiligingsheffing nadere in het kader van deze paragraaf passende regels worden gesteld ter aanvulling van de daarin geregelde onderwerpen. Bij ministeriële regeling van Onze Minister van Justitie worden regels gesteld inzake de afdracht van de door de functionaris als bedoeld in [artikel 37**l**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37l&z=2002-07-01&g=2002-07-01), ingevorderde heffing aan Onze Minister van Justitie.
+1. De luchtvaartmaatschappij beschikt over een afsluitbare en beveiligde ruimte bestemd voor de ontvangst en bewaring van vracht.
+
+2. Zij stelt de identiteit van de aanbieders van vracht vast, indien deze personen niet zijn geregistreerd overeenkomstig [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), en registreert of doet registreren de naam en het adres van die personen en van de afzender.
+
+3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling nadere voorschriften geven aan de luchtvaartmaatschappij ter beveiliging van de burgerluchtvaart.
 
 ### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
 
@@ -930,9 +960,9 @@ Bij ministeriële regeling van Onze Minister van Justitie kunnen inzake de heffi
 
 ##### Artikel 39
 
-Een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), treft niet:
+Een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), treft niet:
 
-- a. bouwwerken, bestaande ten tijde van de kennisgeving in de **Staatscourant**, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=43&z=2002-07-01&g=2002-07-01);
+- a. bouwwerken, bestaande ten tijde van de kennisgeving in de **Staatscourant**, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=43&z=2003-01-01&g=2003-01-01);
 
 - b. bouwwerken vóór die kennisgeving begonnen en volgens een vroeger gemaakt bestek regelmatig voortgezet;
 
@@ -942,25 +972,25 @@ Een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 40
 
-1. Onze Minister kan een verbod leggen, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01):
+1. Onze Minister kan een verbod leggen, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01):
 
 - a. ambtshalve;
 
 - b. op schriftelijk verzoek van de exploitant van het luchtvaartterrein.
 
-2. Bij een verzoekschrift moeten in tweevoud worden gevoegd de bescheiden, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01).
+2. Bij een verzoekschrift moeten in tweevoud worden gevoegd de bescheiden, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 41
 
-Onze Minister kan een verzoek, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=40&z=2002-07-01&g=2002-07-01), onmiddellijk afwijzen; de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01) blijven in dat geval buiten toepassing.
+Onze Minister kan een verzoek, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=40&z=2003-01-01&g=2003-01-01), onmiddellijk afwijzen; de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01) blijven in dat geval buiten toepassing.
 
 ##### Artikel 42
 
-1. Met betrekking tot een verbod als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), wordt toepassing gegeven aan de in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) geregelde procedure, waarbij in ieder geval ter inzage worden gelegd:
+1. Met betrekking tot een verbod als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), wordt toepassing gegeven aan de in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) geregelde procedure, waarbij in ieder geval ter inzage worden gelegd:
 
-- a. een kaart waarop die terreinen duidelijk zijn aangegeven, waarbij [artikel 20, tweede lid onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01), van overeenkomstige toepassing is, en
+- a. een kaart waarop die terreinen duidelijk zijn aangegeven, waarbij [artikel 20, tweede lid onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing is, en
 
-- b. overeenkomstige lijsten, als bedoeld in [artikel 20, tweede lid onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01), met dien verstande dat daarbij de in laatstgenoemd lid onder **c** voorkomende zinsnede "voor zover deze Onze Minister bekend zijn" wordt gelezen: voor zover deze Onze Minister dan wel de exploitant van het luchtvaartterrein bekend zijn.
+- b. overeenkomstige lijsten, als bedoeld in [artikel 20, tweede lid onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01), met dien verstande dat daarbij de in laatstgenoemd lid onder **c** voorkomende zinsnede "voor zover deze Onze Minister bekend zijn" wordt gelezen: voor zover deze Onze Minister dan wel de exploitant van het luchtvaartterrein bekend zijn.
 
 2. Indien een verzoekschrift is ingekomen, wordt ook dit nedergelegd.
 
@@ -972,7 +1002,7 @@ Onze Minister kan een verzoek, als bedoeld in [artikel 40](https://wetten.overhe
 
 2. Onverminderd [artikel 3:12, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12) wordt van de terinzagelegging schriftelijk afzonderlijk kennisgegeven aan:
 
-- a. de personen, vermeld op de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01) bedoelde lijst, en
+- a. de personen, vermeld op de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01) bedoelde lijst, en
 
 - b. de exploitant van het luchtvaartterrein.
 
@@ -1002,9 +1032,9 @@ Onze Minister kan een verzoek, als bedoeld in [artikel 40](https://wetten.overhe
 
 - b. afzonderlijk schriftelijk aan:
 
-- I. de personen, vermeld op de in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01), bedoelde lijsten;
+- I. de personen, vermeld op de in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01), bedoelde lijsten;
 
-- II. de andere, na de nederlegging, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01), bekend geworden belanghebbenden;
+- II. de andere, na de nederlegging, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01), bekend geworden belanghebbenden;
 
 - III. allen, die hun zienswijze hebben ingebracht;
 
@@ -1016,9 +1046,9 @@ Vervallen
 
 ##### Artikel 47
 
-1. Onze Minister kan een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), te allen tijde geheel of gedeeltelijk opheffen.
+1. Onze Minister kan een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), te allen tijde geheel of gedeeltelijk opheffen.
 
-2. Indien dit naar zijn oordeel wenselijk is, worden de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01) overeenkomstig toegepast.
+2. Indien dit naar zijn oordeel wenselijk is, worden de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01) overeenkomstig toegepast.
 
 ##### Artikel 48
 
@@ -1026,29 +1056,29 @@ Vervallen
 
 - a. oplegging of opheffing van een verbod, als bedoeld in artikel 38,
 
-- b. afwijzing van een verzoek tot oplegging of opheffing van een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), wordt ten spoedigste afschrift gezonden aan:
+- b. afwijzing van een verzoek tot oplegging of opheffing van een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), wordt ten spoedigste afschrift gezonden aan:
 
 - I. hem, die het verzoekschrift heeft ingediend, onderscheidenlijk de exploitant van het luchtvaartterrein;
 
-- II. en voorts, indien de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01) toepassing hebben gevonden, aan:
+- II. en voorts, indien de [artikelen 42-45](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01) toepassing hebben gevonden, aan:
 
-- A. de personen, vermeld op de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01) bedoelde lijst;
+- A. de personen, vermeld op de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01) bedoelde lijst;
 
-- B. de andere, na de nederlegging, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2002-07-01&g=2002-07-01), bekend geworden belanghebbenden;
+- B. de andere, na de nederlegging, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=42&z=2003-01-01&g=2003-01-01), bekend geworden belanghebbenden;
 
 - C. allen, die hun zienswijze hebben ingebracht.
 
-Hierbij wordt tevens gewezen op het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=49&z=2002-07-01&g=2002-07-01).
+Hierbij wordt tevens gewezen op het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=49&z=2003-01-01&g=2003-01-01).
 
 2. Van de in het eerste lid, onderdeel **a**, bedoelde beschikkingen wordt mededeling gedaan in de **Staatscourant**.
 
-3. Onze Minister doet de beschikking tot oplegging van een verbod als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01) onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
+3. Onze Minister doet de beschikking tot oplegging van een verbod als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01) onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
 ##### Artikel 49
 
 Vervallen
 
-#### § 2. Schadeloosstelling
+#### § 1. Oplegging van het verbod
 
 ##### Artikel 50
 
@@ -1060,9 +1090,9 @@ Vervallen
 
 - c. hen, die een persoonlijk recht hebben ten aanzien van de terreinen,
 
-waarop een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), gelegd wordt, door dit verbod mocht worden geleden, wordt door de exploitant van het luchtvaartterrein vergoed.
+waarop een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), gelegd wordt, door dit verbod mocht worden geleden, wordt door de exploitant van het luchtvaartterrein vergoed.
 
-2. Bij de berekening van de schadeloosstelling wordt mede gelet op de waardevermindering van de gezamenlijke gronden, ten aanzien waarvan dezelfde persoon rechthebbende is, ook voor zover zij niet onder het verbod vallen, op het tijdstip van inwerkingtreding als onmiddellijk gevolg van het verbod. Geen rekening wordt gehouden met veranderingen, aangebracht of ontworpen na de kennisgeving in de **Staatscourant**, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=43&z=2002-07-01&g=2002-07-01).
+2. Bij de berekening van de schadeloosstelling wordt mede gelet op de waardevermindering van de gezamenlijke gronden, ten aanzien waarvan dezelfde persoon rechthebbende is, ook voor zover zij niet onder het verbod vallen, op het tijdstip van inwerkingtreding als onmiddellijk gevolg van het verbod. Geen rekening wordt gehouden met veranderingen, aangebracht of ontworpen na de kennisgeving in de **Staatscourant**, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=43&z=2003-01-01&g=2003-01-01).
 
 3. De hypotheekhouder en de ingeschreven beslaglegger hebben geen recht op afzonderlijke schadevergoeding. Zij kunnen zich beroepen op hun rechten uit [artikel 229 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=229) en [artikel 507**a** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=507a). De schadeloosstelling mag, op straffe van nietigheid, niet worden betaald en een rechterlijke uitspraak tot betaling niet worden ten uitvoer gelegd dan veertien dagen, nadat het voornemen tot betaling of tenuitvoerlegging over te gaan aan de hypotheekhouders en beslagleggers is betekend.
 
@@ -1106,7 +1136,7 @@ waarop een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 55
 
-1. Indien een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), geheel of gedeeltelijk wordt opgeheven, kan de exploitant van het luchtvaartterrein van:
+1. Indien een verbod, als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), geheel of gedeeltelijk wordt opgeheven, kan de exploitant van het luchtvaartterrein van:
 
 - a. de eigenaren der terreinen,
 
@@ -1116,7 +1146,7 @@ waarop het verbod rustte, de waardevermeerdering vorderen, welke voor deze onroe
 
 2. De vordering moet binnen een jaar na de inwerkingtreding van de opheffing worden ingesteld.
 
-3. De [artikelen 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=50&z=2002-07-01&g=2002-07-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=53&z=2002-07-01&g=2002-07-01), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=54&z=2002-07-01&g=2002-07-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=50&z=2003-01-01&g=2003-01-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=53&z=2003-01-01&g=2003-01-01), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=2&artikel=54&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 5. Militaire werken
 
@@ -1130,7 +1160,7 @@ waarop het verbod rustte, de waardevermeerdering vorderen, welke voor deze onroe
 
 ##### Artikel 57
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 57**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=57a&z=2002-07-01&g=2002-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2002-07-01&g=2002-07-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2002-07-01&g=2002-07-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2002-07-01&g=2002-07-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 57**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=57a&z=2003-01-01&g=2003-01-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2003-01-01&g=2003-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2003-01-01&g=2003-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2003-01-01&g=2003-01-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -1166,23 +1196,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 62
 
-1. Hij, die een van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2002-07-01&g=2002-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=9&z=2002-07-01&g=2002-07-01), [14, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2002-07-01&g=2002-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2002-07-01&g=2002-07-01), [30b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2002-07-01&g=2002-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=31&z=2002-07-01&g=2002-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=32&z=2002-07-01&g=2002-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2002-07-01&g=2002-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2002-07-01&g=2002-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2002-07-01&g=2002-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=37&z=2002-07-01&g=2002-07-01), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2002-07-01&g=2002-07-01), of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=74&z=2002-07-01&g=2002-07-01) overtreedt, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
+1. Hij, die een van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2003-01-01&g=2003-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), [14, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2003-01-01&g=2003-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2003-01-01&g=2003-01-01), [30b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=2&artikel=30b&z=2003-01-01&g=2003-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=31&z=2003-01-01&g=2003-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=32&z=2003-01-01&g=2003-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=33&z=2003-01-01&g=2003-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2003-01-01&g=2003-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=36&z=2003-01-01&g=2003-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=37&z=2003-01-01&g=2003-01-01), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=4&paragraaf=1&artikel=38&z=2003-01-01&g=2003-01-01), of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=74&z=2003-01-01&g=2003-01-01) overtreedt, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
-2. Met dezelfde straf wordt gestraft de gezagvoerder, die een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2002-07-01&g=2002-07-01), [14, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2002-07-01&g=2002-07-01), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2002-07-01&g=2002-07-01), overtreedt.
+2. Met dezelfde straf wordt gestraft de gezagvoerder, die een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2003-01-01&g=2003-01-01), [14, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=14&z=2003-01-01&g=2003-01-01), of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2003-01-01&g=2003-01-01), overtreedt.
 
 3. Overtreding van een voorschrift gegeven bij of krachtens algemene maatregel van bestuur ingevolge deze wet, wordt, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
-4. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2002-07-01&g=2002-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2002-07-01&g=2002-07-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2002-07-01&g=2002-07-01) de luchtvaart doet of laat uitoefenen, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
+4. De eigenaar of houder van een luchtvaartuig, die in strijd met een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2003-01-01&g=2003-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2003-01-01&g=2003-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=16&z=2003-01-01&g=2003-01-01) de luchtvaart doet of laat uitoefenen, wordt gestraft hetzij met hechtenis van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met één van deze straffen.
 
 ##### Artikel 63
 
-Overtreding van een van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=15&z=2002-07-01&g=2002-07-01) of [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=65&z=2002-07-01&g=2002-07-01) wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+Overtreding van een van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=15&z=2003-01-01&g=2003-01-01) of [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=65&z=2003-01-01&g=2003-01-01) wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 ##### Artikel 64
 
 1. Bij veroordeling wegens overtreding van:
 
-- a. een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2002-07-01&g=2002-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2002-07-01&g=2002-07-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2002-07-01&g=2002-07-01),
+- a. een van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=1&artikel=4&z=2003-01-01&g=2003-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=2&artikel=8&z=2003-01-01&g=2003-01-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=III&afdeling=3&artikel=17&z=2003-01-01&g=2003-01-01),
 
 - b. een voorschrift van een krachtens deze wet vastgestelde algemene maatregel van bestuur, kan de schuldige de bevoegdheid een luchtvaartuig te bedienen voor ten hoogste drie jaren worden ontzegd.
 
@@ -1194,23 +1224,23 @@ Het is degene, die weet, of redelijkerwijze moet weten, dat hem bij rechterlijke
 
 ##### Artikel 66
 
-1. Hij, die opzettelijk niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2002-07-01&g=2002-07-01) gedane vordering, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
+1. Hij, die opzettelijk niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2003-01-01&g=2003-01-01) gedane vordering, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-2. Hij, die opzettelijk in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2002-07-01&g=2002-07-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+2. Hij, die opzettelijk in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2003-01-01&g=2003-01-01) gegeven aanwijzing, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-3. Hij, die opzettelijk een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2002-07-01&g=2002-07-01) gegeven opdracht niet uitvoert, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+3. Hij, die opzettelijk een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2003-01-01&g=2003-01-01) gegeven opdracht niet uitvoert, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 ##### Artikel 67
 
-1. Hij, die niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2002-07-01&g=2002-07-01) gedane vordering, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
+1. Hij, die niet voldoet aan een krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2003-01-01&g=2003-01-01) gedane vordering, wordt gestraft met hechtenis van ten hoogste één jaar of geldboete van de derde categorie.
 
-2. Hij, die in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2002-07-01&g=2002-07-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Hij, die in strijd handelt met een ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2003-01-01&g=2003-01-01) gegeven aanwijzing, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-3. Hij, die een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2002-07-01&g=2002-07-01) gegeven opdracht niet uitvoert, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+3. Hij, die een ingevolge [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2003-01-01&g=2003-01-01) gegeven opdracht niet uitvoert, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
 ##### Artikel 68
 
-Hij, die een handeling verricht met het oogmerk de uitoefening van de bevoegdheden vermeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2002-07-01&g=2002-07-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2002-07-01&g=2002-07-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2002-07-01&g=2002-07-01) te belemmeren, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+Hij, die een handeling verricht met het oogmerk de uitoefening van de bevoegdheden vermeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=58&z=2003-01-01&g=2003-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=59&z=2003-01-01&g=2003-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=V&artikel=61&z=2003-01-01&g=2003-01-01) te belemmeren, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 ##### Artikel 69
 
@@ -1218,9 +1248,9 @@ Vervallen
 
 ##### Artikel 70
 
-De feiten strafbaar gesteld bij de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=63&z=2002-07-01&g=2002-07-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=66&z=2002-07-01&g=2002-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=68&z=2002-07-01&g=2002-07-01) zijn misdrijven.
+De feiten strafbaar gesteld bij de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=63&z=2003-01-01&g=2003-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=66&z=2003-01-01&g=2003-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=68&z=2003-01-01&g=2003-01-01) zijn misdrijven.
 
-De feiten strafbaar gesteld bij de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62&z=2002-07-01&g=2002-07-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=67&z=2002-07-01&g=2002-07-01) zijn overtredingen.
+De feiten strafbaar gesteld bij de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=62&z=2003-01-01&g=2003-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=67&z=2003-01-01&g=2003-01-01) zijn overtredingen.
 
 ##### Artikel 71
 
@@ -1232,7 +1262,7 @@ Als personen met de opsporing van de bij of krachtens deze wet strafbaar gesteld
 
 ##### Artikel 72
 
-Onverminderd [artikel 37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2002-07-01&g=2002-07-01) is Onze Minister bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+Onverminderd [artikel 37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2003-01-01&g=2003-01-01) is Onze Minister bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 73
 
@@ -1250,11 +1280,11 @@ Vervallen
 
 ##### Artikel 73b
 
-Ieder is verplicht aan de krachtens [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=73&z=2002-07-01&g=2002-07-01) aangewezen ambtenaren desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die zij redelijkerwijs bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
+Ieder is verplicht aan de krachtens [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=73&z=2003-01-01&g=2003-01-01) aangewezen ambtenaren desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die zij redelijkerwijs bij de uitvoering van de hun op grond van deze wet opgedragen taak behoeven.
 
 ##### Artikel 73c
 
-1. Onze Minister is bevoegd aan de overtreder of de houder, bezitter of eigenaar van het betrokken luchtvaartuig een last onder dwangsom op te leggen, indien de gezagvoerder voor de tweede keer een overtreding heeft begaan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2002-07-01&g=2002-07-01).
+1. Onze Minister is bevoegd aan de overtreder of de houder, bezitter of eigenaar van het betrokken luchtvaartuig een last onder dwangsom op te leggen, indien de gezagvoerder voor de tweede keer een overtreding heeft begaan als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=34&z=2003-01-01&g=2003-01-01).
 
 2. De [artikelen 5.3.1, tweede tot en met vijfde lid](onbekend), en [5.3.2 tot en met 5.3.4 van de Algemene wet bestuursrecht](onbekend) zijn van toepassing.
 
@@ -1276,7 +1306,7 @@ Vervallen
 
 ##### Artikel 75
 
-Op de eerste vordering van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=71&z=2002-07-01&g=2002-07-01) bedoelde personen zijn de gezagvoerder en de overige leden van de bemanning van een luchtvaartuig verplicht de bij of krachtens deze wet vereiste bescheiden behoorlijk ter inzage af te geven.
+Op de eerste vordering van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VI&artikel=71&z=2003-01-01&g=2003-01-01) bedoelde personen zijn de gezagvoerder en de overige leden van de bemanning van een luchtvaartuig verplicht de bij of krachtens deze wet vereiste bescheiden behoorlijk ter inzage af te geven.
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -1324,7 +1354,7 @@ Op de eerste vordering van de in [artikel 71](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 77
 
-1. Met betrekking tot de financiering en de bekostiging van de kosten van de uitvoering van de aanwijzingen, de voorschriften en de maatregelen als bedoeld in [artikel 26d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26d&z=2002-07-01&g=2002-07-01) wordt onder de naam "geluidsheffing burgerluchtvaart" een heffing geheven.
+1. Met betrekking tot de financiering en de bekostiging van de kosten van de uitvoering van de aanwijzingen, de voorschriften en de maatregelen als bedoeld in [artikel 26d](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=26d&z=2003-01-01&g=2003-01-01) wordt onder de naam "geluidsheffing burgerluchtvaart" een heffing geheven.
 
 2. De heffing wordt geheven ter zake van het landen met een burgerluchtvaartuig op een luchtvaartterrein tot het tijdstip waarop de kosten als bedoeld in het eerste lid voor dat luchtvaartterrein zijn voldaan.
 
@@ -1458,9 +1488,9 @@ M: de maximaal toegelaten startmassa van het burgerluchtvaartuig uitgedrukt in g
 
 ##### Artikel 77c
 
-1. Bij ministeriële regeling van Onze Minister van Verkeer en Waterstaat kunnen inzake de heffing en de invordering van de geluidsheffing nadere in het kader van de [artikelen 77 tot en met 77**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VII&artikel=77&z=2002-07-01&g=2002-07-01) passende regels worden gesteld ter aanvulling van de daarin geregelde onderwerpen.
+1. Bij ministeriële regeling van Onze Minister van Verkeer en Waterstaat kunnen inzake de heffing en de invordering van de geluidsheffing nadere in het kader van de [artikelen 77 tot en met 77**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VII&artikel=77&z=2003-01-01&g=2003-01-01) passende regels worden gesteld ter aanvulling van de daarin geregelde onderwerpen.
 
-2. Bij ministeriële regeling van Onze Minister van Verkeer en Waterstaat worden regels gesteld inzake de afdracht van de door de functionaris als bedoeld in [artikel 77**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VII&artikel=77b&z=2002-07-01&g=2002-07-01), ingevorderde heffing aan Onze Minister van Verkeer en Waterstaat.
+2. Bij ministeriële regeling van Onze Minister van Verkeer en Waterstaat worden regels gesteld inzake de afdracht van de door de functionaris als bedoeld in [artikel 77**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=VII&artikel=77b&z=2003-01-01&g=2003-01-01), ingevorderde heffing aan Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 78
 
@@ -1476,16 +1506,150 @@ Bevat wijzigingen in andere regelgeving.
 
 2. De op grond dier wet afgegeven bewijzen van inschrijving, van luchtwaardigheid, van geschiktheid en van gelijkstelling blijven, voor zover zij hun geldigheid krachtens de bepalingen dier wet niet hebben verloren, hun geldigheid behouden, totdat bij algemene maatregel van bestuur een nadere regeling te dien aanzien zal zijn getroffen.
 
-3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij Onze Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kunnen de [artikelen 20-23](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2002-07-01&g=2002-07-01) geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
+3. De aanwijzing van luchtvaartterreinen blijft met de oude rechtsgevolgen nog drie jaren na de inwerkingtreding van deze wet van kracht, tenzij Onze Minister de aanwijzing op een vroeger tijdstip intrekt. Indien de intrekking geschiedt onder gelijktijdige aanwijzing ingevolge deze wet, kunnen de [artikelen 20-23](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=20&z=2003-01-01&g=2003-01-01) geheel of gedeeltelijk buiten toepassing worden gelaten, voor zover de nieuwe aanwijzing betrekking heeft op terreinen, die reeds waren aangewezen.
 
 4. Het voorgaande lid vindt overeenkomstige toepassing op beslissingen betreffende belemmerende werken en handelingen ingevolge de in het eerste lid bedoelde wet genomen.
 
 ##### Artikel 81
 
-Deze wet treedt in werking op een door Ons te bepalen tijdstip; Wij kunnen Ons voorbehouden een ander tijdstip vast te stellen, waarop [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=5&artikel=56&z=2002-07-01&g=2002-07-01) in werking treedt.
+Deze wet treedt in werking op een door Ons te bepalen tijdstip; Wij kunnen Ons voorbehouden een ander tijdstip vast te stellen, waarop [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=5&artikel=56&z=2003-01-01&g=2003-01-01) in werking treedt.
 
 ##### Artikel 82
 
 Deze wet kan worden aangehaald als "Luchtvaartwet".
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 37ab
+
+Onze Minister van Justitie is belast met de beveiliging van de burgerluchtvaart. De exploitant van een luchtvaartterrein, een luchtvaartmaatschappij en een persoon als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), eerste lid, zijn gehouden te voldoen aan door Onze Minister van Justitie of namens deze door de Commandant van de Koninklijke marechaussee gegeven aanwijzingen inzake de nakoming van een verplichting die op hen rust ingevolge de artikelen [37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2003-01-01&g=2003-01-01), [37f](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37f&z=2003-01-01&g=2003-01-01), [37g](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37g&z=2003-01-01&g=2003-01-01), [37h](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=3&artikel=37h&z=2003-01-01&g=2003-01-01), 37hb, 37hd, [37k](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37k&z=2003-01-01&g=2003-01-01), [37l](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37l&z=2003-01-01&g=2003-01-01), [37n](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37n&z=2003-01-01&g=2003-01-01) of [37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2003-01-01&g=2003-01-01).
+
+##### Artikel 37ac
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven voor de uitvoering van de controle als bedoeld in de [artikelen 37b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37b&z=2003-01-01&g=2003-01-01), en de paragrafen 3 en 4, alsmede voor de afhandeling van daarbij geconstateerde onregelmatigheden. De controle wordt overigens verricht met inachtneming van de door Onze Minister van Justitie gegeven algemene aanwijzingen.
+
+2. Onze Minister van Justitie kan naar aanleiding van onvoorziene omstandigheden bijzondere aanwijzingen geven voor de uitvoering van de controle als bedoeld in het eerste lid. In dat geval bepaalt Onze Minister van Justitie dat de kosten worden vergoed die redelijkerwijs zijn gemaakt om de aanwijzing uit te voeren.
+
+##### Artikel 37ad
+
+1. Onze Minister van Justitie kan op grond van omstandigheden of inlichtingen vaststellen, dat er voor een luchtvaartterrein dan wel bepaalde daar aanwezige luchtvaartuigen, een bijzonder gevaar bestaat dat zij het object van geweldpleging, aanslagen of bedreiging zullen vormen. Hij geeft hiervan onverwijld kennis aan de exploitant van dat luchtvaartterrein en, in voorkomend geval, aan de luchtvaartmaatschappij van die luchtvaartuigen.
+
+2. Na toepassing van het eerste lid worden geen goederen aan boord van de betrokken luchtvaartuigen gebracht dan na, zonodig stuksgewijs, onderzoek op de aanwezigheid van voor bedreiging geschikte voorwerpen.
+
+3. Onze Minister van Justitie kan in andere dan de in het eerste lid bedoelde gevallen, luchtvaartuigen aanwijzen waarop het tweede lid van toepassing is.
+
+##### Artikel 37ae
+
+1. Indien de naleving van de bij of krachtens dit hoofdstuk gestelde voorschriften gevaar dreigt te lopen, doet de exploitant van een luchtvaartterrein, de betrokken luchtvaartmaatschappij of een persoon als bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), daarvan onverwijld mededeling aan de Commandant van de Koninklijke marechaussee.
+
+2. Onze Minister van Justitie of de Commandant van de Koninklijke marechaussee kan het opstijgen van een luchtvaartuig verbieden en beletten indien er een redelijk vermoeden bestaat dat wegens het niet naleven van de bij of krachtens dit hoofdstuk gestelde voorschriften de beveiliging van de burgerluchtvaart in gevaar kan komen.
+
+3. Onze Minister van Justitie kan de Commandant van de Koninklijke marechaussee een aanwijzing geven omtrent de uitoefening van de bevoegdheid, bedoeld in het tweede lid.
+
+#### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
+
+#### § 4. Controle van vracht
+
+##### Artikel 37o
+
+1. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling ten aanzien van bepaalde soorten vluchten of luchtvaartuigen vrijstelling verlenen van de controle als bedoeld in [artikel 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2003-01-01&g=2003-01-01), wanneer de dreiging voor deze soorten als gevolg van gevaarlijke goederen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
+
+2. Onze Minister van Justitie kan in bijzondere gevallen op de grond als bedoeld in het eerste lid, ontheffing verlenen van de controle.
+
+##### Artikel 37p
+
+1. De Commandant van de Koninklijke marechaussee houdt een register bij van natuurlijke personen of rechtspersonen die bedrijfsmatig vracht aanbieden, doen vervoeren of vervoeren. In het register staan slechts personen ingeschreven op hun verzoek. Daarin worden in ieder geval vermeld de naam, het adres en de vestigingsplaats van de geregistreerde, het nummer van inschrijving bij de Kamer van Koophandel en de datum van inschrijving in het register.
+
+2. Personen als bedoeld in het eerste lid kunnen worden ingeschreven onder afgifte van een verklaring waaruit blijkt dat is voldaan aan de bij ministeriële regeling gestelde eisen met het oog op de veiligheid en de betrouwbaarheid van de door hen aangeboden vracht.
+
+3. Personen als bedoeld in het eerste lid kunnen zich in het register doen inschrijven door inzending van een ingevuld aanmeldingsformulier waarvan Onze Minister van Justitie bij ministeriële regeling een model vaststelt.
+
+4. In het buitenland gevestigde natuurlijke personen of rechtspersonen die bedrijfsmatig vracht aanbieden, doen vervoeren of vervoeren, kunnen zich in het register doen inschrijven overeenkomstig door Onze Minister van Justitie bij ministeriële regeling te stellen nadere regels.
+
+5. De Commandant van de Koninklijke marechaussee weigert inschrijving in het register als bedoeld in het eerste lid, indien niet is voldaan of in onvoldoende mate blijkt dat is voldaan aan de bij ministeriële regeling gestelde eisen met het oog op de veiligheid en de betrouwbaarheid van de door hen aangeboden vracht.
+
+6. Onze Minister van Justitie kan bij ministeriële regeling regels geven over:
+
+- a. de inhoud van de verklaring, bedoeld in het tweede lid;
+
+- b. de procedure van inschrijving en het melden van wijzigingen;
+
+- c. op te nemen categorieën van gegevens in het register.
+
+##### Artikel 37q
+
+1. De geregistreerde als bedoeld in[artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01) is verplicht iedere wijziging die optreedt in de in [artikel 37p, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01) bedoelde gegevens onverwijld door te geven.
+
+2. De Commandant van de Koninklijke marechaussee haalt de inschrijving in het register als bedoeld in artikel 37p door:
+
+- a. op verzoek van de geregistreerde; of
+
+- b. bij beëindiging van de werkzaamheden tot het bedrijfsmatig aanbieden of vervoeren van vracht.
+
+3. De Commandant van de Koninklijke marechaussee haalt de inschrijving in het register als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01) op last van Onze Minister van Justitie door:
+
+- a. indien bij controle blijkt dat de geregistreerde aan de bij of krachtens dit hoofdstuk van deze wet gegeven voorschriften geen uitvoering geeft; of
+
+- b. bij controle blijkt van zodanige aanwijzingen van betrokkenheid bij gepleegde of te plegen misdrijven dat gerechtvaardigde twijfel bestaat omtrent de betrouwbaarheid van de geregistreerde.
+
+4. Een doorhaling als bedoeld in het derde lid, onderdeel a, vindt plaats voor ten hoogste twee jaren. Na verstrijken van deze termijn kan opnieuw inschrijving overeenkomstig dit artikel plaatsvinden.
+
+5. Een doorhaling als bedoeld in het derde lid, onderdeel b, vindt plaats voor onbepaalde tijd. Hernieuwde inschrijving vindt slechts plaats na toestemming van Onze Minister van Justitie.
+
+6. De inschrijving dan wel de doorhaling van de inschrijving in het register bedoeld in het derde lid, wordt niet eerder van kracht dan twee weken nadat de Commandant van de Koninklijke marechaussee daarvan mededeling heeft gedaan aan de geregistreerde.
+
+7. Voor zover zij deze behoeven voor de vervulling van de in de [artikelen 37j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2003-01-01&g=2003-01-01), en [artikel 37r](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37r&z=2003-01-01&g=2003-01-01) bedoelde verplichtingen worden uit het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), gegevens verstrekt aan:
+
+- a. luchtvaartmaatschappijen en
+
+- b. geregistreerde personen als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01).
+
+8. Aan anderen dan de in het zevende lid bedoelde personen wordt desgevraagd meegedeeld of bepaalde natuurlijke personen of rechtspersonen die bedrijfsmatig vracht aanbieden of vervoeren, zijn ingeschreven in het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01).
+
+9. Tegen besluiten van de Commandant van de Koninklijke marechaussee verband houdend met het register, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), kan een belanghebbende administratief beroep instellen bij de Minister van Justitie.
+
+##### Artikel 37r
+
+De geregistreerde als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01) doet vracht afkomstig van een niet-geregistreerde, controleren op de aanwezigheid van gevaarlijke goederen. De [artikelen 37f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=2&artikel=37f&z=2003-01-01&g=2003-01-01), en [37j tot en met 37o](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37j&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing.
+
+##### Artikel 37s
+
+In verband met de taakuitoefening, bedoeld in [artikel 37p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01), kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen als bedoeld in [artikel 37p](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=4&artikel=37p&z=2003-01-01&g=2003-01-01). Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politieregisters raadplegen overeenkomstig [artikel 15, eerste lid, onderdeel e, van de Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798&artikel=15).
+
+#### § 5. Handhaving
+
+##### Artikel 37t
+
+Met het toezicht op de naleving van het bepaalde bij en krachtens deze afdeling is belast de Commandant van de Koninklijke marechaussee. Onze Minister van Justitie kan daartoe aanwijzingen geven.
+
+##### Artikel 37u
+
+1. Onze Minister van Justitie kan bestuursdwang toepassen ter handhaving van het bepaalde bij of krachtens deze afdeling, onverminderd de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=1&artikel=29&z=2003-01-01&g=2003-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3&artikel=35&z=2003-01-01&g=2003-01-01).
+
+2. Onze Minister van Justitie kan van de in het eerste lid genoemde bevoegdheid mandaat verlenen aan de Commandant van de Koninklijke marechaussee.
+
+##### Artikel 37v
+
+1. Een klacht tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2003-01-01&g=2003-01-01), over een gedraging bij de uitvoering van een taak ingevolge deze afdeling, kan worden ingediend bij de Commandant van de Koninklijke marechaussee.
+
+2. De klacht wordt behandeld door Onze Minister van Justitie. Deze kan hiervoor mandaat verlenen aan de Commandant van de Koninklijke marechaussee.
+
+3. [Hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) is van overeenkomstige toepassing. De regels vastgesteld krachtens [artikel 6, onder i, van de Wet particuliere beveiligingsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=6) blijven buiten werking.
+
+4. Voor de toepassing van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) wordt een gedraging als bedoeld in het eerste lid, aangemerkt als een gedraging van Onze Minister van Justitie.
+
+5. Indien de klacht zich tevens richt tegen beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onder b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV&afdeling=3A&paragraaf=1&artikel=37a&z=2003-01-01&g=2003-01-01), en betrekking heeft op hetzelfde feitencomplex, wordt deze behandeld volgens de procedure die geldt voor dat beveiligingspersoneel.
+
+### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
+
+#### § 2. Schadeloosstelling
+
+### Afdeling 5. Militaire werken
+
+### Hoofdstuk V. Militaire vorderingen
+
+### Hoofdstuk VI. Strafbepalingen
+
+### Hoofdstuk VII. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
