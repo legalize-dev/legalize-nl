@@ -4,7 +4,7 @@ identifier: "BWBR0009675"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2001-06-20"
+last_updated: "2002-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009675"
 soort: "AMvB"
@@ -86,13 +86,17 @@ Hebben goedgevonden en verstaan:
 
 - o. **richtlijn 94/65/EG:** [richtlijn nr. 94/65/EG](31994L0065) van de Raad van de Europese Unie van 14 december 1994 tot vaststelling van voorschriften voor de productie en het in de handel brengen van gehakt vlees en vleesbereidingen (PbEG L 368);
 
-- p. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht.
+- p. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht;
+
+- q. **verordening (EG) 1760/2000**: [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [verordening (EG) nr. 820/97](31997R0820) van de Raad van de Europese Unie;
+
+- r. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216).
 
 2. De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van [artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
 3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in [artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
-4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2001-06-20&g=2001-06-20) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2002-08-30&g=2002-08-30) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2002-08-30&g=2002-08-30) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
 
 ##### Artikel 2
 
@@ -106,7 +110,9 @@ Hebben goedgevonden en verstaan:
 
 5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2001-06-20&g=2001-06-20).
+6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2002-08-30&g=2002-08-30).
+
+7. Het is verboden te handelen in strijd met artikel 11, eerste streepje, artikel 13, eerste, tweede en vijfde lid, artikel 14, of artikel 15, van [verordening (EG) 1760/2000](32000R1760), of met artikel 1, artikel 2, tweede lid, artikel 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
 
 #### § 2a:. implementatie [richtlijn 94/65/EG](31994L0065) – voorschriften inzake de productie en het in de handel brengen van vleesbereidingen en gehakt vlees
 
@@ -114,7 +120,7 @@ Hebben goedgevonden en verstaan:
 
 1. Vleesbereidingen en gehakt vlees worden op hygiënische wijze bereid, behandeld, bewerkt, verwerkt en verhandeld, en voorzien van passende etikettering.
 
-2. Onze Minister stelt ter uitvoering van [richtlijn 94/65/EG](31994L0065) bij ministeriële regeling nadere regels vast inzake het eerste lid, met dien verstande dat daarbij gebruik wordt gemaakt van de mogelijkheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2001-06-20&g=2001-06-20), [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2001-06-20&g=2001-06-20), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20), van [richtlijn 94/65/EG](31994L0065). De afwijking, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2001-06-20&g=2001-06-20), eerste alinea, van [richtlijn 94/65/EG](31994L0065), zal uitsluitend gelden voor werkplaatsen die:
+2. Onze Minister stelt ter uitvoering van [richtlijn 94/65/EG](31994L0065) bij ministeriële regeling nadere regels vast inzake het eerste lid, met dien verstande dat daarbij gebruik wordt gemaakt van de mogelijkheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2002-08-30&g=2002-08-30), [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2002-08-30&g=2002-08-30), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2002-08-30&g=2002-08-30), van [richtlijn 94/65/EG](31994L0065). De afwijking, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2002-08-30&g=2002-08-30), eerste alinea, van [richtlijn 94/65/EG](31994L0065), zal uitsluitend gelden voor werkplaatsen die:
 
 - a. per week niet meer dan 7,5 ton vleesbereidingen produceren; of
 
@@ -156,7 +162,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zi
 
 ##### Artikel 4
 
-Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2001-06-20&g=2001-06-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2001-06-20&g=2001-06-20),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2001-06-20&g=2001-06-20) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2001-06-20&g=2001-06-20) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2002-08-30&g=2002-08-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2002-08-30&g=2002-08-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2002-08-30&g=2002-08-30),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2002-08-30&g=2002-08-30) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2002-08-30&g=2002-08-30) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
 
 ##### Artikel 5
 
@@ -222,13 +228,13 @@ De vermelding **mager** of **magere** mag worden gebezigd bij:
 
 ##### Artikel 14
 
-Het Vlees- en vleeswarenbesluit (Warenwet) 1987 wordt ingetrokken.
+De autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760), en in artikel 11, onder a, van [verordening (EG) 1825/2000](32000R1825), is de Voedsel en Waren Autoriteit.
 
 ##### Artikel 15
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat voorverpakte eetwaren die zijn aangeduid op de voet van artikel 6, tweede lid, van het Vlees- en vleeswarenbesluit (Warenwet) 1987 zoals dat luidde onmiddellijk vóór 1 juli 1998, nog verhandeld mogen worden tot 14 februari 2000.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2001-06-20&g=2001-06-20) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2002-08-30&g=2002-08-30) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
 
 ##### Artikel 16
 
