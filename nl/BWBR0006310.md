@@ -4,7 +4,7 @@ identifier: "BWBR0006310"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-12-14"
-last_updated: "1999-07-01"
+last_updated: "2004-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006310"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bindende EEG-regeling** : een krachtens het Verdrag tot oprichting van de Europese Economische Gemeenschap met betrekking tot eet- of drinkwaren tot stand gekomen verordening, richtlijn of beschikking, die in het belang van de volksgezondheid regels stelt ten aanzien van de invoer in de Europese Economische Gemeenschap van eet- of drinkwaren die:
+- a. **bindend EG-besluit:** een krachtens het Verdrag tot oprichting van de Europese Gemeenschap met betrekking tot eet- en drinkwaren tot stand gekomen verordening, richtlijn of beschikking, die in het belang van de volksgezondheid regels stelt ten aanzien van de invoer, of het na invoer verhandelen daarvan, in de Europese Unie van eet- of drinkwaren die:
 
 - 1°. afkomstig zijn uit of van oorsprong zijn uit een gebied of een land waar een besmettelijke ziekte heerst, die via die eet- of drinkwaren op de mens kan worden overgebracht; of
 
@@ -58,19 +58,19 @@ Hebben goedgevonden en verstaan:
 
 - c. **Richtlijn 92/118/EEG** : [Richtlijn 92/118/EEG](31992L0118) van de Raad van de Europese Gemeenschappen van 17 december 1992 tot vaststelling van de veterinairrechtelijke en de gezondheidsvoorschriften voor het handelsverkeer en de invoer in de Gemeenschap van produkten waarvoor ten aanzien van deze voorschriften geen specifieke communautaire regelgeving geldt als bedoeld in bijlage A, hoofdstuk I, van [richtlijn 89/662/EEG](31989L0662), en, wat ziekteverwekkers betreft, van [Richtlijn 90/425/EEG](31990L0425) (**PbEG** 1993, L 62).
 
-2. Dit besluit is niet van toepassing op een bindende EEG-regeling voor zover die, behoudens op ondergeschikte punten, ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard.
+2. Dit besluit is niet van toepassing op een bindend EG-besluit voor zover dat, behoudens op ondergeschikte punten, ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard.
 
 ##### Artikel 2
 
-1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=1999-07-01&g=1999-07-01) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen.
+1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2004-09-24&g=2004-09-24) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
 
-2. Het is verboden eet- of drinkwaren binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
+2. Het is verboden eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
-3. Het is verboden te handelen in strijd met een bepaling uit een bindende EEG-regeling, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.
+3. Het is verboden te handelen in strijd met een bepaling uit een bindend EG-besluit, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.
 
 ##### Artikel 3
 
-Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht indien die waren bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid geschikt zijn voor menselijke consumptie.
+Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verhandeld indien die waren bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid geschikt zijn voor menselijke consumptie.
 
 ##### Artikel 4
 
@@ -80,9 +80,9 @@ Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbe
 
 - b. [Richtlijn 92/118/EEG](31992L0118);
 
-- c. een bindende EEG-regeling;
+- c. een bindend EG-besluit;
 
-nadere regels vast ter uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=3&z=1999-07-01&g=1999-07-01), voor zover het de volksgezondheid betreft.
+nadere regels vast ter uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=3&z=2004-09-24&g=2004-09-24), voor zover het de volksgezondheid betreft.
 
 ##### Artikel 5
 
