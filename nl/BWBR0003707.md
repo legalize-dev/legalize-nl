@@ -113,7 +113,3 @@ Onverminderd de bepalingen van het LVR-1980, mag door of namens de bevelhebber d
 ##### Artikel 6
 
 Deze beschikking treedt in werking met ingang van de datum van ondertekening.
-
-##### Artikel 7
-
-Deze regeling wordt aangehaald als: Regeling beperking geluidhinder luchtvaart.
