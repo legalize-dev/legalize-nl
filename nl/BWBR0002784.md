@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2004-01-01&g=2004-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2005-01-01&g=2005-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
 
 ##### Artikel 2a
 
@@ -124,3 +124,27 @@ Vervallen
 ##### Artikel 2c
 
 De rente, bedoeld in de [artikelen 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [15ad, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), die bij het einde van de daarin bedoelde periode van acht jaren nog niet in aftrek is gekomen, wordt achtereenvolgens in mindering gebracht op en ten hoogste tot de positieve belastbare bedragen van de volgende jaren.
+
+##### Artikel 2bis
+
+1. Het tijdstip van bij de bepaling van de winst in aftrek komen van aan personeel toegekende rechten om aandelen of winstbewijzen te verwerven of een daarmee gelijk te stellen recht, als bedoeld in artikel 9, eerste lid, onderdeel h, van de wet, is:
+
+- a. bij een onvoorwaardelijke toekenning of een toekenning onder ontbindende voorwaarde, het tijdstip waarop het recht is aanvaard, inhoudelijk volledig is bepaald en de uitoefening aanstonds of na een bepaalde, vaste termijn kan geschieden;
+
+- b. bij een toekenning onder opschortende voorwaarde, het tijdstip waarop de voorwaarde is vervuld, het recht is aanvaard, inhoudelijk volledig is bepaald en de uitoefening aanstonds of na een bepaalde, vaste termijn kan geschieden.
+
+2. Voor de toepassing van artikel 9, eerste lid, onderdeel h, van de wet wordt de waarde van een ter beurze genoteerd recht om aandelen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de waarde in het economische verkeer van dat recht op het tijdstip van aftrek, bedoeld in het eerste lid. Voor de toepassing van bedoeld onderdeel h wordt de waarde van een recht om winstbewijzen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de waarde in het economische verkeer van dat recht op het tijdstip van aftrek, bedoeld in het eerste lid.
+
+3. Voor de toepassing van artikel 9, eerste lid, onderdeel h, van de wet wordt de waarde van een niet ter beurze genoteerd recht om aandelen te verwerven of van een daarmee gelijk te stellen recht, gesteld op de som van de intrinsieke waarde en de verwachtingswaarde van dat recht. De waarde wordt uitgedrukt in een percentage (P) van de waarde (W) in het economische verkeer van de aandelen waarop dat recht betrekking heeft op het tijdstip van aftrek, bedoeld in het eerste lid.
+
+4. Voor de toepassing van het derde lid wordt P berekend volgens de formule P = I + V doch ten minste nihil, waarin
+
+I voorstelt: {(W – U) / W} × 100, U is daarin de in de optie-overeenkomst vastgelegde uitoefenkoers;
+
+V voorstelt: (4,5 – 0,1t) × t – (0,09 – 0,002t) × I × t doch ten minste nihil, t is daarin de na het tijdstip van aftrek ter zake van de toekenning van het recht resterende looptijd van dat recht in jaren of gedeelten van jaren, doch ten hoogste 20.
+
+5. Voor de toepassing van het vierde lid worden I en V naar beneden afgerond op gehele getallen.
+
+6. Indien P op het tijdstip van aftrek niet bepaalbaar is volgens het vierde lid, wordt de waarde van het recht, bedoeld in het derde lid, gesteld op de waarde in het economische verkeer van het recht op het tijdstipvan aftrek.
+
+7. Indien de belastingplichtige aannemelijk maakt dat de volgens het derde tot en met het vijfde lid vastgestelde waarde in belangrijke mate lager is dan de werkelijke waarde in het economische verkeer van het recht op het tijdstip van aftrek, wordt de waarde gesteld op de waarde in het economische verkeer.
