@@ -65,7 +65,3 @@ Deze regeling wordt aangehaald als:
 Regeling schorsing geldigheid kentekenbewijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-De schorsing eindigt door verloop van een jaar nadat de schorsing is verleend.
