@@ -4,7 +4,7 @@ identifier: "BWBR0008295"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2004-11-01"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008295"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Als ambtenaren in de zin van [artikel 34, tweede lid, van de Wet vervoer gevaarl
 
 Als ambtenaren in de zin van [artikel 34, derde lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=34) worden aangewezen:
 
-- a. de ambtenaren van de Scheepvaartinspectie, bedoeld in [artikel 10, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), voor zover het betreft:
+- a. de ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat, voor zover het betreft:
 
 - 1º. het vervoer per zeeschip over de binnenwateren,
 
@@ -68,19 +68,19 @@ Als ambtenaren in de zin van [artikel 34, derde lid, van de Wet vervoer gevaarli
 
 ##### Artikel 4
 
-Als ambtenaren, bedoeld in [artikel 44, eerste lid, onderdeel a, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), worden aangewezen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=1&z=2003-12-31&g=2004-11-01) bedoelde ambtenaren, voor zover zij zijn beëdigd als buitengewoon opsporingsambtenaar.
+Als ambtenaren, bedoeld in [artikel 44, eerste lid, onderdeel a, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), worden aangewezen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=1&z=2004-11-26&g=2004-11-26) bedoelde ambtenaren, voor zover zij zijn beëdigd als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 5
 
-Als ambtenaren, bedoeld in [artikel 44, eerste lid, onderdeel b, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), worden aangewezen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=2&z=2003-12-31&g=2004-11-01) bedoelde ambtenaren, voor zover zij zijn beëdigd als buitengewoon opsporingsambtenaar.
+Als ambtenaren, bedoeld in [artikel 44, eerste lid, onderdeel b, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), worden aangewezen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=2&z=2004-11-26&g=2004-11-26) bedoelde ambtenaren, voor zover zij zijn beëdigd als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 6
 
 Als ambtenaren, bedoeld in [artikel 44, eerste lid, onderdeel c, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), worden aangewezen, voor zover zij zijn beëdigd als buitengewoon opsporingsambtenaar:
 
-- a. de ambtenaren bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=3&z=2003-12-31&g=2004-11-01);
+- a. de ambtenaren bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008295&paragraaf=1&artikel=3&z=2004-11-26&g=2004-11-26);
 
-- b. de ambtenaren van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor zover belast met de inspectie van de milieuhygiëne;
+- b. de ambtenaren van het Inspectoraat-Generaal VROM;
 
 - c. de aan de afdeling Gevaarlijke Stoffen en Milieu van het Gemeentelijk Havenbedrijf Amsterdam verbonden inspecteurs;
 
