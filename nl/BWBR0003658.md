@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2004-04-30"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-30&g=2004-04-30) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-07-01&g=2004-07-01) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
 - 1. specerijen, bedoeld in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -56,13 +56,13 @@ De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbar
 
 - 4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-30&g=2004-04-30) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-07-01&g=2004-07-01) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-30&g=2004-04-30), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-07-01&g=2004-07-01), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-30&g=2004-04-30) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2004-04-30&g=2004-04-30) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-07-01&g=2004-07-01) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2004-07-01&g=2004-07-01) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -1087,6 +1087,11 @@ Door vernummering vervallen.
 | chloorfacinon | geen | chloorfacinon | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | 4-chloorfenoxy-azijnzuur | geen | 4-chloorfenoxy-azijnzuur | alle | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| chloorfenapyr | geen | chloorfenapyr | olie houdende zaden | 0,1* |   | 1 |
+|   |   |   | thee | 0,1* |   | 1 |
+|   |   |   | hop | 0,1* |   | 1 |
+|   |   |   | overige | 0,05* |   | 1 |
 |   |   |   |   |   |   |   |
 | chloorfenpropmethyl | geen | chloorfenpropmethyl | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2177,10 +2182,8 @@ Door vernummering vervallen.
 |   |   | uitgedrukt als | thee | 0,1* |   |   |
 |   |   | trifenyl-kation | hop | 0,1* |   |   |
 |   |   |   | overige | 0,05* |   |   |
-|   |   |   |   |   |   |   |
-| fentin-acetaat | geen | zie fentin | zie fentin |   |   |   |
-|   |   |   |   |   |   |   |
-| fentin-hydroxide | geen | zie fentin | zie fentin |   |   |   |
+| fentinacetaat | zie fentin |   |   |   |   | 1 |
+| fentinhydroxide | zie fentin |   |   |   |   | 1 |
 |   |   |   |   |   |   |   |
 | 2-fenylfenol en Na- | geen | 2-fenylfenol | citrusvruchten |   | 16) |   |
 | zout |   |   |   |   |   |   |
