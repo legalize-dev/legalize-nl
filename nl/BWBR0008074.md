@@ -4,7 +4,7 @@ identifier: "BWBR0008074"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-06-01"
+last_updated: "2003-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008074"
 soort: "AMvB"
@@ -110,7 +110,7 @@ Voor het besturen van motorrijtuigen van de rijbewijscategorieën C, D en E is g
 
 ##### Artikel 4
 
-Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in [artikel 103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=3&artikel=103&z=2001-10-01&g=2002-06-01), bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef.
+Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in [artikel 103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=3&artikel=103&z=2003-09-30&g=2003-09-30), bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef.
 
 #### § 3. Uitzonderingen minimumleeftijd
 
@@ -206,7 +206,7 @@ Bij de aanvraag van registratie dienen te worden overgelegd:
 
 - c. een niet langer dan 6 maanden voor de aanvraag afgegeven, de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens van de gemeente waar de aanvrager is ingeschreven in de basisadministratie persoonsgegevens;
 
-- d. bewijsstukken waaruit blijkt dat ten aanzien van het ter registratie aangeboden rijbewijs is voldaan aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=5&artikel=10&z=2001-10-01&g=2002-06-01) gestelde eisen.
+- d. bewijsstukken waaruit blijkt dat ten aanzien van het ter registratie aangeboden rijbewijs is voldaan aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=5&artikel=10&z=2003-09-30&g=2003-09-30) gestelde eisen.
 
 ##### Artikel 12
 
@@ -238,7 +238,7 @@ De Dienst Wegverkeer doet van de registratie en van de in het kader daarvan vast
 
 - a. motorrijtuigen op twee wielen, waarvan de cilinderinhoud meer dan 50 cm3 en de door de constructie bepaalde maximumsnelheid meer dan 45 km per uur bedraagt, al dan niet met zijspanwagen of aanhangwagen (Rijbewijs A);
 
-- b. motorrijtuigen op drie wielen, niet zijnde motorrijtuigen op twee wielen met zijspanwagen, en motorrijtuigen op vier wielen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg en die niet zijn ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen, alsmede door die motorrijtuigen voortbewogen aanhangwagens waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg, dan wel meer bedraagt dan 750 kg, mits in dat geval de toegestane maximum massa van de aanhangwagen niet meer bedraagt dan de ledige massa van het motorrijtuig en de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen niet meer bedraagt dan 3500 kg (Rijbewijs B);
+- b. motorrijtuigen op drie wielen, niet zijnde motorrijtuigen op twee wielen met zijspanwagen, en motorrijtuigen op vier of meer wielen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg en die niet zijn ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen, alsmede door die motorrijtuigen voortbewogen aanhangwagens waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg, dan wel meer bedraagt dan 750 kg, mits in dat geval de toegestane maximum massa van de aanhangwagen niet meer bedraagt dan de ledige massa van het motorrijtuig en de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen niet meer bedraagt dan 3500 kg (Rijbewijs B);
 
 - c. motorrijtuigen, niet zijnde motorrijtuigen van de rijbewijscategorie D, waarvan de toegestane maximum massa meer bedraagt dan 3500 kg, alsmede daardoor voortbewogen aanhangwagens waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg (Rijbewijs C);
 
@@ -260,7 +260,7 @@ Aan de aanvrager van een rijbewijs, die blijkens de door hem overgelegde verklar
 
 ##### Artikel 18
 
-1. Onverminderd [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2001-10-01&g=2002-06-01) wordt aan de aanvrager die in het bezit is van een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs C of D een verklaring van rijvaardigheid overlegt, een rijbewijs afgegeven voor het besturen van de betrokken categorieën van motorrijtuigen, zonder dat voor een van die categorieën een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
+1. Onverminderd [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2003-09-30&g=2003-09-30) wordt aan de aanvrager die in het bezit is van een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs C of D een verklaring van rijvaardigheid overlegt, een rijbewijs afgegeven voor het besturen van de betrokken categorieën van motorrijtuigen, zonder dat voor een van die categorieën een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
 
 2. Voor de toepassing van het eerste lid wordt met een rijbewijs B als daar bedoeld gelijkgesteld een rijbewijs B dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
@@ -318,7 +318,7 @@ Indien de aanvraag betrekking heeft op de afgifte van
 
 - c. een rijbewijs dat geldig is voor een categorie of categorieën waarvoor een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, ongeldig is verklaard, dan wel
 
-- d. een rijbewijs ter vervanging van een eerder door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aan de aanvrager afgegeven rijbewijs, dat versleten of geheel of ten dele onleesbaar is, dan wel verloren is geraakt of teniet is gegaan, dient de aanvraag in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=27&z=2001-10-01&g=2002-06-01) te zijn gericht tot de Dienst Wegverkeer en te worden ingediend bij de burgemeester van de gemeente waar de aanvrager als ingezetene is ingeschreven in de basisadministratie persoonsgegevens. De burgemeester geleidt de aanvraag terstond door naar de Dienst Wegverkeer.
+- d. een rijbewijs ter vervanging van een eerder door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aan de aanvrager afgegeven rijbewijs, dat versleten of geheel of ten dele onleesbaar is, dan wel verloren is geraakt of teniet is gegaan, dient de aanvraag in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=27&z=2003-09-30&g=2003-09-30) te zijn gericht tot de Dienst Wegverkeer en te worden ingediend bij de burgemeester van de gemeente waar de aanvrager als ingezetene is ingeschreven in de basisadministratie persoonsgegevens. De burgemeester geleidt de aanvraag terstond door naar de Dienst Wegverkeer.
 
 ##### Artikel 29
 
@@ -326,7 +326,7 @@ Indien de aanvrager woonachtig is in Nederland, doch niet als ingezetene is inge
 
 ##### Artikel 30
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager aan wie in Nederland de status van diplomatiek of consulair ambtenaar is toegekend of die behoort tot het gezin van een persoon aan wie in Nederland de status van diplomatiek of consulair ambtenaar is toegekend, dient de aanvraag in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=29&z=2001-10-01&g=2002-06-01) te zijn gericht tot en te worden ingediend bij de Dienst Wegverkeer door tussenkomst van Onze Minister van Buitenlandse Zaken.
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager aan wie in Nederland de status van diplomatiek of consulair ambtenaar is toegekend of die behoort tot het gezin van een persoon aan wie in Nederland de status van diplomatiek of consulair ambtenaar is toegekend, dient de aanvraag in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=29&z=2003-09-30&g=2003-09-30) te zijn gericht tot en te worden ingediend bij de Dienst Wegverkeer door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
 ##### Artikel 31
 
@@ -344,7 +344,7 @@ Indien de aanvrager woonachtig is buiten Nederland, dient de aanvraag te zijn ge
 
 - b. in de onmiddellijk aan het moment van de aanvraag voorafgaande periode van één jaar ten minste 185 dagen in Nederland woonachtig te zijn geweest.
 
-2. Indien het een aanvraag betreft als bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2001-10-01&g=2002-06-01), dient de aanvrager in Nederland woonachtig te zijn.
+2. Indien het een aanvraag betreft als bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2003-09-30&g=2003-09-30), dient de aanvrager in Nederland woonachtig te zijn.
 
 3. Het eerste lid geldt niet indien bij de aanvraag een door het daartoe bevoegde militaire gezag niet langer dan zes maanden voor de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, wordt overgelegd.
 
@@ -374,7 +374,7 @@ Indien de aanvrager woonachtig is buiten Nederland, dient de aanvraag te zijn ge
 
 - III. indien de aanvrager lid is van een in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, in Nederland gelegerde krijgsmacht, lid is van de tot die krijgsmacht behorende civiele dienst of behoort tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, een door de betrokken basiscommandant ondertekende verklaring waaruit zulks blijkt;
 
-- IV. indien de aanvrager niet in Nederland woonachtig is, enig bewijsstuk betreffende de woonplaats en de datum en plaats van geboorte van de aanvrager alsmede, in de gevallen bedoeld in [artikel 32, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=32&z=2001-10-01&g=2002-06-01), een bewijs uit de basisadministratie persoonsgegevens van de gemeente waar hij laatstelijk woonachtig was.
+- IV. indien de aanvrager niet in Nederland woonachtig is, enig bewijsstuk betreffende de woonplaats en de datum en plaats van geboorte van de aanvrager alsmede, in de gevallen bedoeld in [artikel 32, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=32&z=2003-09-30&g=2003-09-30), een bewijs uit de basisadministratie persoonsgegevens van de gemeente waar hij laatstelijk woonachtig was.
 
 - d. twee pasfoto's van de aanvrager, die voldoen aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -386,7 +386,7 @@ Indien de aanvrager woonachtig is buiten Nederland, dient de aanvraag te zijn ge
 
 ##### Artikel 34
 
-Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid voor iedere rijbewijscategorie waarop de aanvraag betrekking heeft;
 
@@ -394,7 +394,7 @@ Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, beho
 
 ##### Artikel 35
 
-Indien de aanvraag betrekking heeft op de vernieuwing van het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien de aanvraag betrekking heeft op de vernieuwing van het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. dat eerder afgegeven rijbewijs;
 
@@ -408,7 +408,7 @@ Indien de aanvraag betrekking heeft op de vernieuwing van het eerder aan de aanv
 
 ##### Artikel 36
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. dat eerder afgegeven rijbewijs;
 
@@ -418,21 +418,21 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig i
 
 ##### Artikel 37
 
-Voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=34&z=2001-10-01&g=2002-06-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2001-10-01&g=2002-06-01) wordt met een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid gelijkgesteld een door het daartoe bevoegde militaire gezag niet langer dan zes maanden vóór de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft.
+Voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=34&z=2003-09-30&g=2003-09-30) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2003-09-30&g=2003-09-30) wordt met een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid gelijkgesteld een door het daartoe bevoegde militaire gezag niet langer dan zes maanden vóór de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft.
 
 ##### Artikel 38
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs versleten of geheel of ten dele onleesbaar is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens dat versleten of geheel of ten dele onleesbare rijbewijs te worden overgelegd.
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs versleten of geheel of ten dele onleesbaar is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens dat versleten of geheel of ten dele onleesbare rijbewijs te worden overgelegd.
 
 2. Voor de toepassing van het eerste lid wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een rijbewijs dat eerder aan de aanvrager is afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 39
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs verloren geraakt of teniet gegaan is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd een door de aanvrager ondertekende verklaring, dat het rijbewijs verloren geraakt of teniet gegaan is. In de verklaring dienen de omstandigheden waaronder het rijbewijs verloren geraakt of teniet gegaan is, te worden omschreven.
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs verloren geraakt of teniet gegaan is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd een door de aanvrager ondertekende verklaring, dat het rijbewijs verloren geraakt of teniet gegaan is. In de verklaring dienen de omstandigheden waaronder het rijbewijs verloren geraakt of teniet gegaan is, te worden omschreven.
 
 ##### Artikel 40
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs in verband met een wijziging van de geslachtsnaam, de voornamen, de kunne dan wel de plaats of datum van geboorte van de aanvrager, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2001-10-01&g=2002-06-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs in verband met een wijziging van de geslachtsnaam, de voornamen, de kunne dan wel de plaats of datum van geboorte van de aanvrager, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2003-09-30&g=2003-09-30) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. het eerder aan de aanvrager afgegeven rijbewijs;
 
@@ -634,7 +634,9 @@ Het model van de verklaring van rijvaardigheid wordt bij ministeriële regeling 
 
 ##### Artikel 53
 
-Het onderzoek naar de rijvaardigheid voor de rijbewijscategorieën A, B, C en D bestaat uit een theorie-examen en een praktijk-examen voor iedere rijbewijscategorie waarvoor een verklaring van rijvaardigheid wordt verlangd. Het onderzoek naar de rijvaardigheid voor de rijbewijscategorie E bestaat uit een praktijk-examen.
+1. Het onderzoek naar de rijvaardigheid voor de rijbewijscategorieën A, B, C en D bestaat uit een theorie-examen en een praktijk-examen voor iedere rijbewijscategorie waarvoor een verklaring van rijvaardigheid wordt verlangd. Het onderzoek naar de rijvaardigheid voor de rijbewijscategorie E bestaat uit een praktijk-examen.
+
+2. Het theorie-examen voor de rijbewijscategorieën C en D bestaat uit de onderdelen verkeerskennis, voertuigtechniek en administratie.
 
 #### § 2. Aanvraag van verklaringen van rijvaardigheid
 
@@ -672,7 +674,9 @@ Het voor de aanvraag van een verklaring van rijvaardigheid verschuldigde tarief 
 
 ##### Artikel 56
 
-Het theorie-examen kan slechts worden afgelegd door personen die de leeftijd van achttien jaren hebben bereikt.
+1. Het theorie-examen voor de rijbewijscategorieën A en B kan slechts worden afgelegd door personen die de leeftijd van achttien jaren hebben bereikt.
+
+2. De onderdelen voertuigtechniek en administratie van het theorie-examen voor de rijbewijscategorieën C en D kunnen slechts worden afgelegd door personen die de leeftijd van zeventien jaren hebben bereikt. Het onderdeel verkeerskennis van het theorie-examen voor de rijbewijscategorieën C en D kan slechts worden afgelegd door personen die de leeftijd van achttien jaren hebben bereikt.
 
 ##### Artikel 57
 
@@ -858,15 +862,15 @@ Voor de toepassing van artikel 67, eerste lid, onderdeel **a**, wordt met een ni
 
 ##### Artikel 72
 
-Het praktijk-examen voor het rijbewijs B bestaat uit het afleggen van een rijproef met een motorrijtuig op vier wielen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg en dat niet is ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen.
+Het praktijkexamen voor het rijbewijs B bestaat uit het afleggen van een rijproef met een motorrijtuig op vier wielen, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg, en dat niet is ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen. Het motorrijtuig dient een snelheid te kunnen bereiken van ten minste 100 km per uur.
 
 ##### Artikel 73
 
-Het praktijk-examen voor het rijbewijs C bestaat uit het afleggen van een rijproef met een motorrijtuig, niet zijnde een motorrijtuig bestemd voor het voortbewegen van een oplegger, dat niet is ingericht voor het vervoer van personen en waarvan de lengte ten minste 7,75 m, de wielbasis ten minste 4,25 m en de toegestane maximum massa ten minste 10 000 kg bedraagt. Het motorrijtuig dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif en dient met ten minste 3 000 kg te zijn beladen. Het motorrijtuig dient te zijn uitgerust met een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370).
+Het praktijkexamen voor het rijbewijs C bestaat uit het afleggen van een rijproef met een motorrijtuig, niet zijnde een motorrijtuig bestemd voor het voortbewegen van een oplegger, dat niet is ingericht voor het vervoer van personen en waarvan de lengte ten minste 8 m, de breedte ten minste 2,40 m, de wielbasis ten minste 4,50 m en de toegestane maximum massa ten minste 12 000 kg bedraagt. Het motorrijtuig dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine, en dient met ten minste 3000 kg te zijn beladen. Het motorrijtuig dient te zijn uitgerust met een anti-blokkeersysteem, een versnellingsbak met ten minste acht voorwaartse versnellingen, een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). Het motorrijtuig dient te zijn voorzien van een slaapcabine. Het motorrijtuig dient een snelheid te kunnen bereiken van ten minste 80 km per uur.
 
 ##### Artikel 74
 
-Het praktijk-examen voor het rijbewijs D bestaat uit het afleggen van een rijproef met een ongeleed motorrijtuig dat is ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen, en waarvan de lengte ten minste 10 m en de wielbasis ten minste 5,25 m bedraagt. Het motorrijtuig dient te zijn uitgerust met een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370).
+Het praktijkexamen voor het rijbewijs D bestaat uit het afleggen van een rijproef met een ongeleed motorrijtuig dat is ingericht voor het vervoer van meer dan 8 personen, de bestuurder daaronder niet begrepen, en waarvan de lengte ten minste 10 m, de breedte ten minste 2,40 m en de wielbasis ten minste 5,25 m bedraagt. Het motorrijtuig dient te zijn uitgerust met een anti-blokkeersysteem, een versnellingsbak met ten minste vijf voorwaartse versnellingen, een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). Het motorrijtuig dient een snelheid te kunnen bereiken van ten minste 80 km per uur.
 
 ##### Artikel 75
 
@@ -874,9 +878,9 @@ Het praktijk-examen voor het rijbewijs E bij B bestaat uit het afleggen van een 
 
 ##### Artikel 76
 
-Het praktijk-examen voor het rijbewijs E bij C bestaat uit het afleggen van een rijproef
+1. Het praktijkexamen voor het rijbewijs E bij C bestaat uit het afleggen van een rijproef
 
-- a. met een motorrijtuig als bedoeld in artikel 73 en een aanhangwagen waarvan de lengte ten minste 8 m bedraagt. De lengte van het samenstel van trekkend motorrijtuig en aanhangwagen dient ten minste 16 m te bedragen. De toegestane maximum massa van het trekkend motorrijtuig en van de aanhangwagen te samen dient ten minste 20 000 kg te bedragen. De aanhangwagen dient te zijn uitgerust met twee of meer assen waarvan er maximaal één gestuurd is, dan wel met een samenstel van twee of meer starre assen in het midden van de aanhangwagen waarbij
+- a. met een samenstel van een motorrijtuig als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=73&z=2003-09-30&g=2003-09-30) en een aanhangwagen waarvan de lengte ten minste 8 m en de breedte ten minste 2,40 m bedraagt. De lengte van het samenstel van trekkend motorrijtuig en aanhangwagen dient ten minste 16 m te bedragen. Het samenstel dient een snelheid van ten minste 80 km per uur te kunnen bereiken. De toegestane maximum massa van het trekkend motorrijtuig en van de aanhangwagen te samen dient ten minste 20 000 kg te bedragen. De aanhangwagen dient te zijn uitgerust met twee of meer assen waarvan er maximaal één gestuurd is, dan wel met een samenstel van twee of meer starre assen in het midden van de aanhangwagen waarbij De aanhangwagen dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine van het trekkend motorrijtuig, en dient met ten minste 3000 kg te zijn beladen, dan wel
 
 - I. de afstand van het hart van de koppeling tot het hart van het samenstel van assen ten minste 5 m bedraagt;
 
@@ -884,13 +888,11 @@ Het praktijk-examen voor het rijbewijs E bij C bestaat uit het afleggen van een 
 
 - III. de hoogte van het hart van de koppeling zich op niet meer dan 0,70 m boven het wegdek bevindt.
 
-- De. aanhangwagen dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif en dient met ten minste 3 000 kg te zijn beladen, dan wel
-
-- b. met een samenstel van een trekkend motorrijtuig waarvan de wielbasis ten minste 3,20 m en ten hoogste 3,80 m bedraagt en een oplegger. De lengte van het samenstel van trekkend motorrijtuig en oplegger dient ten minste 14,5 m te bedragen. De toegestane maximum massa van het samenstel dient ten minste 20 000 kg te bedragen. Het trekkend motorrijtuig dient te zijn uitgerust met een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). De oplegger dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif en dient met ten minste 6 000 kg te zijn beladen. De oplegger dient te zijn uitgerust met starre assen.
+- b. met een samenstel van een trekkend motorrijtuig waarvan de wielbasis ten minste 3,20 m en ten hoogste 4,25 m bedraagt, en een oplegger. De lengte van het samenstel van trekkend motorrijtuig en oplegger dient ten minste 14,50 m te bedragen. Het samenstel dient een snelheid van ten minste 80 km per uur te kunnen bereiken. De toegestane maximum massa van het samenstel dient ten minste 20 000 kg te bedragen. Het trekkend motorrijtuig dient te zijn uitgerust met een anti-blokkeersysteem, een versnellingsbak met ten minste acht voorwaartse versnellingen, een toerenteller en een controle-apparaat als bedoeld in [verordening (EEG) nr. 3821/85](31985R3821) van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende de invoering van een controle-apparaat bij het wegvervoer (PbEG L 370). Het trekkend motorrijtuig dient te zijn voorzien van een slaapcabine. De oplegger dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine van het trekkend motorrijtuig, en dient met ten minste 6000 kg te zijn beladen. De oplegger dient te zijn uitgerust met starre assen.
 
 ##### Artikel 77
 
-Het praktijk-examen voor het rijbewijs E bij D bestaat uit het afleggen van een rijproef met een motorrijtuig als bedoeld in artikel 74 en een aanhangwagen waarvan de lengte ten minste 5 m en de toegestane maximum massa ten minste 3 000 kg bedraagt. De aanhangwagen moet zijn voorzien van een gesloten opbouw dan wel van een gesloten huif en dient met ten minste 750 kg te zijn beladen.
+Het praktijkexamen voor het rijbewijs E bij D bestaat uit het afleggen van een rijproef met een motorrijtuig als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=74&z=2003-09-30&g=2003-09-30) en een aanhangwagen waarvan de lengte ten minste 5 m, de breedte ten minste 2,40 m en de toegestane maximum massa ten minste 3000 kg bedraagt. De aanhangwagen moet zijn voorzien van een gesloten opbouw dan wel van een gesloten huif die ten minste 2 m breed en 2 m hoog is en dient met ten minste 800 kg te zijn beladen. Het samenstel dient een snelheid te kunnen bereiken van ten minste 80 km per uur.
 
 ##### Artikel 78
 
@@ -922,7 +924,9 @@ Het motorrijtuig waarmee de rijproef voor het rijbewijs C, D of E wordt afgelegd
 
 ##### Artikel 82
 
-Het motorrijtuig dan wel het samenstel van trekkend motorrijtuig en aanhangwagen, waarmee de rijproef wordt afgelegd, dient naar het oordeel van het CBR daartoe geschikt te zijn.
+1. Het motorrijtuig dan wel het samenstel van trekkend motorrijtuig en aanhangwagen, waarmee de rijproef wordt afgelegd, dient naar het oordeel van het CBR daartoe geschikt te zijn.
+
+2. Aan het praktijkexamen voertuigbeheersing voor de rijbewijscategorie A en aan het praktijkexamen verkeersdeelneming voor de rijbewijscategorie A mag slechts worden deelgenomen door kandidaten met een naar het oordeel van het CBR daartoe geschikte beschermende uitrusting, bestaande uit handschoenen, schoeisel, beschermende kleding en een helm.
 
 ##### Artikel 83
 
@@ -1846,7 +1850,7 @@ Indien de aanvrager van een rijbewijs in het bezit is van:
 
 ##### Artikel 198
 
-Overtreding van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=2&artikel=2&z=2001-10-01&g=2002-06-01), is een strafbaar feit.
+Overtreding van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=2&artikel=2&z=2003-09-30&g=2003-09-30), is een strafbaar feit.
 
 ### Hoofdstuk XI. Slotbepalingen
 
