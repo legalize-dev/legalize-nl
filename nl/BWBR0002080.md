@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2004-07-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -87,11 +87,11 @@ De rechtsgebieden van de tot het ressort Arnhem behorende rechtbanken bestaan ui
 
 - 1. Arrondissement Almelo: Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo (O.), Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden.
 
-- 2. Arrondissement Arnhem: Angerlo, Arnhem, Barneveld, Beuningen, Buren, Culemborg, Didam, Doesburg, Druten, Duiven, Ede, Geldermalsen, Groesbeek, Heumen, Lingewaal, Lingewaard, Maasdriel, Millingen aan de Rijn, Neder-Betuwe, Neerijnen, Nijkerk, Nijmegen, Overbetuwe, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Ubbergen, Wageningen, West Maas en Waal, Westervoort, Wijchen, Zaltbommel, Zevenaar.
+- 2. Arrondissement Arnhem: Arnhem, Barneveld, Beuningen, Buren, Culemborg, Doesburg, Druten, Duiven, Ede, Geldermalsen, Groesbeek, Heumen, Kesteren, Lingewaal, Lingewaard, Maasdriel, Millingen aan de Rijn, Neerijnen, Nijkerk, Nijmegen, Overbetuwe, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Ubbergen, Wageningen, West Maas en Waal, Westervoort, Wijchen, Zaltbommel, Zevenaar.
 
-- 3. Arrondissement Zutphen: Aalten, Apeldoorn, Bergh, Borculo, Brummen, Dinxperlo, Doetinchem, Eibergen, Elburg, Epe, Ermelo, Gendringen, Gorssel, Groenlo, Harderwijk, Hattem, Heerde, Hengelo (G.), Hummelo en Keppel, Lichtenvoorde, Lochem, Neede, Nunspeet, Oldebroek, Putten, Ruurlo, Steenderen, Voorst, Vorden, Warnsveld, Wehl, Winterswijk, Wisch, Zelhem, Zutphen.
+- 3. Arrondissement Zutphen: Aalten, Apeldoorn, Berkelland, Bronckhorst, Brummen, Doetinchem, Elburg, Epe, Ermelo, Groenlo, Harderwijk, Hattem, Heerde, Lochem, Montferland, Nunspeet, Oldebroek, Oude IJsselstreek, Putten, Voorst, Winterswijk, Zutphen.
 
-- 4. Arrondissement Zwolle-Lelystad: Almere, Bathmen, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst-Wijhe, Ommen, Raalte, Staphorst, Steenwijkerland, Urk, Zeewolde, Zwartewaterland, Zwolle.
+- 4. Arrondissement Zwolle-Lelystad: Almere, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst, Ommen, Raalte, Staphorst, Steenwijk, Urk, Zeewolde, Zwartewaterland, Zwolle.
 
 ##### Artikel 6
 
