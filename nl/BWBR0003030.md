@@ -135,11 +135,3 @@ Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met ov
 2. Het treedt in werking met ingang van 1 mei 1976.
 
 Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
-
-##### Artikel 2
-
-Dit besluit berust op de [artikelen 67, vijfde en zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), [79, vierde lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=79) en [5a van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=5a).
-
-##### Artikel 7
-
-De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54), met dien verstande dat in plaats van «gerechtshof te Arnhem» wordt gelezen: rechtbank te ’s-Gravenhage, gerechtshof te ’s-Gravenhage onderscheidenlijk rechtbank te ’s-Gravenhage.
