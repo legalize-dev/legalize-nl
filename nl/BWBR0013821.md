@@ -1,0 +1,57 @@
+---
+title: "Kennisgeving aan de importeurs mbt invoer van suiker van de GN-codes 1701 en 1702 vanuit Albanië, Bosnië-Herzegovina, Kroatië, de Federatieve Republiek Joegoslavië, Kosovo, en de Voormalige Joegoslavische Republiek Macedonië (de Westelijke Balkan)"
+identifier: "BWBR0013821"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-07-01"
+last_updated: "2002-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013821"
+soort: "beleidsregel"
+stam_id: "8403973"
+version_id: "13276992"
+internal_id: "C18434491"
+label_id: "8384734"
+dtd_version: "2.0"
+original_entry_into_force: "2002-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013821/2002-07-01/0"
+intitule_bron: "Infob.2002-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-28"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-6"
+original_signed_date: "2002-06-28"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-07-01"
+jci_1_3: "jci1.3:c:BWBR0013821&z=2002-07-01&g=2002-07-01"
+jci_1_0: "1.0:c:BWBR0013821&g=2002-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-06-28"
+entry_into_force: "2002-07-01"
+---
+# Kennisgeving aan de importeurs mbt invoer van suiker van de GN-codes 1701 en 1702 vanuit Albanië, Bosnië-Herzegovina, Kroatië, de Federatieve Republiek Joegoslavië, Kosovo, en de Voormalige Joegoslavische Republiek Macedonië (de Westelijke Balkan)
+
+Aan het hoofd van de Directie Douane en de hoofden van de douanedistricten
+
+### Kennisgeving aan de importeurs mbt invoer van suiker uit voormelde landen
+
+Op 26 juni 2002 heeft de Europese Commissie een bericht gepubliceerd aan importeurs die suiker in de Gemeenschap invoeren die als van oorsprong uit voormelde landen (PB (EG) C 152 van 26 juni 2002, pagina 14) wordt aangegeven.
+
+Kosovo is gedefinieerd bij Resolutie 1244 van de Veiligheidsraad van de Verenigde Naties van 10 juni 1999.
+
+In dit bericht stelt de Europese Commissie importeurs ervan in kennis dat gegronde twijfel bestaat over de juiste toepassing van de preferentiële regelingen voor suiker uit voormelde landen en over de geldigheid van de oorsprongsbewijzen die in de Europese Gemeenschap worden overgelegd voor de uit die landen afkomstige suiker van de GN-codes 1701 en 1702.
+
+Volgens de Europese Commissie vloeit deze gegronde twijfel voort uit het feit dat sinds begin 2001 een aanzienlijke en snelle toename is geregistreerd van de preferentiële invoer van suiker in de Gemeenschap uit voormelde landen, ondanks het feit dat de landen in kwestie in het recente verleden niet voldoende suiker voor eigen consumptie konden produceren. In die periode is de uitvoer van suiker uit de Gemeenschap naar voormelde landen met ongeveer dezelfde hoeveelheid toegenomen. De Europese Commissie vindt deze ontwikkeling van de handel in beide richtingen zeer opmerkelijk en er zijn aanwijzingen van fraude.
+
+De importeurs uit de Gemeenschap, die de oorsprongsbewijzen overleggen om een preferentiële behandeling te krijgen, worden er dus op gewezen dat zij alle nodige voorzorgsmaatregelen moeten treffen en dat bij het in het vrije verkeer brengen van bedoelde goederen een douaneschuld kan ontstaan en sprake kan zijn van fraude ten nadele van de financiële belangen van de Europese Gemeenschap.
+
+Deze kennisgeving heeft voor de Douane tot gevolg dat alle bescheiden afgegeven voor de invoer van bedoelde suiker uit voormelde landen, voor nacontrole moeten worden ingezonden naar de Afdeling Oorsprongszaken van het Douanedistrict Arnhem. Dit betekent concreet dat oorsprongsbescheiden voor bedoelde suiker die per 1 juli 2002 worden overgelegd bij invoeraangiften dienen te worden ingezonden.
+
+Voorts moet door de aangevers per 1 juli 2002 zekerheid worden gesteld. Dit geldt ook voor de aangiften in de zin van artikel 76 van [Verordening (EG) nr. 2913/92](31992R2913) (het communautair douanewetboek). De hoogte van de zekerheid is het verschil tussen het preferentiële en het algemene tarief.
+
+De Douane zal via de beeldkrant nadere instructies ontvangen.
+
+De hoofden van de douanedistricten wordt verzocht de hoofden van de douaneposten van het vorenstaande in kennis te stellen.
