@@ -4,7 +4,7 @@ identifier: "BWBR0006355"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-29"
-last_updated: "2002-04-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006355"
 soort: "wet"
@@ -105,11 +105,11 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Voor personen in dienst van staat, provincie, gemeente, waterschap of enig ander publiekrechtelijk lichaam dan wel van de NV Nederlandse Spoorwegen gelden de navolgende bepalingen.
 
-2. Bij verhindering wegens ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling om zijn dienst te verrichten of zijn ambt te vervullen bestaat gedurende een tijdvak van tweeënvijftig weken aanspraak op 70% van de bezoldiging als bedoeld in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) dan wel van hetgeen daarmee overeenkomt, voor zover deze bezoldiging niet meer bedraagt dan hetgeen overeenkomt met het maximum dagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9). De aanspraak bedraagt echter minimaal het bedrag van het minimumloon dat voor betrokkene zou gelden indien de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) op hem van toepassing zou zijn. De eerste twee volzinnen zijn van overeenkomstige toepassing voor zover in verband met ziekte, zwangerschap of bevalling ook na ontslag aanspraak bestaat op betaling van bezoldiging of van hetgeen daarmee overeenkomt.
+2. Bij verhindering wegens ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling om zijn dienst te verrichten of zijn ambt te vervullen bestaat gedurende een tijdvak van 104 weken aanspraak op 70% van de bezoldiging als bedoeld in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) dan wel van hetgeen daarmee overeenkomt, voor zover deze bezoldiging niet meer bedraagt dan hetgeen overeenkomt met het maximum dagloon, bedoeld in [artikel 9, eerste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9). De aanspraak bedraagt de eerste 52 weken echter minimaal het bedrag van het minimumloon dat voor betrokkene zou gelden indien de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) op hem van toepassing zou zijn. De eerste twee volzinnen zijn van overeenkomstige toepassing voor zover in verband met ziekte, zwangerschap of bevalling ook na ontslag aanspraak bestaat op betaling van bezoldiging of van hetgeen daarmee overeenkomt.
 
 3. Is de bezoldiging of hetgeen daarmee overeenkomt, op een andere wijze dan naar tijdruimte vastgesteld, dan zijn de bepalingen van dit artikel van toepassing met dien verstande, dat als bezoldiging wordt beschouwd de gemiddelde bezoldiging die betrokkene, wanneer hij niet verhinderd was geweest, gedurende die tijd had kunnen verdienen.
 
-4. Van het tweede lid kan bij algemeen verbindend voorschrift ten nadele van betrokkene slechts in zoverre worden afgeweken dat betrokkene voor de eerste twee dagen van het in het tweede lid bedoelde tijdvak van tweeënvijftig weken geen aanspraak heeft op bezoldiging of hetgeen daarmee overeenkomt.
+4. Van het tweede lid kan bij algemeen verbindend voorschrift ten nadele van betrokkene slechts in zoverre worden afgeweken dat betrokkene voor de eerste twee dagen van het in het tweede lid bedoelde tijdvak van 104 weken geen aanspraak heeft op bezoldiging of hetgeen daarmee overeenkomt.
 
 5. In afwijking van het tweede lid heeft de vrouwelijke werknemer de in dat lid bedoelde aanspraak niet gedurende de periode dat zij zwangerschaps- of bevallingsverlof geniet overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1).
 
@@ -155,15 +155,13 @@ Bevat wijzigingen in andere regelgeving.
 
 13. Indien betrokkene voor de aanvang van zijn dienstbetrekking of ambtsvervulling een overeenkomst had gesloten tot verzekering van de geldelijke gevolgen van verhindering tot werken wegens ziekte, mag hij die overeenkomst, voor zover hij daaraan rechten kan ontlenen die gelijkwaardig zijn aan die welke voor hem uit dit artikel voortvloeien, voor het vervolg, echter niet eerder dan met ingang van de aanvang van de dienstbetrekking of ambtsvervulling opzeggen. De door betrokkene vooruitbetaalde premie wordt door de verzekeraar naar gelang van het opgezegde gedeelte van de overeenkomst terugbetaald, onder aftrek van ten hoogste 25% van het terug te betalen bedrag voor administratiekosten.
 
-14. Het tijdvak, bedoeld in de eerste volzin van het tweede lid, wordt verlengd:
+14. Het tijdvak van 104 weken, bedoeld in de eerste volzin van het tweede lid, wordt verlengd:
 
 - a. met de duur van de vertraging indien de werkgever de aangifte, bedoeld in [artikel 38, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38) later doet dan op grond van dat artikel van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is voorgeschreven.;
 
-- b. met de duur van de verlenging van de wachttijd, bedoeld in [artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), indien de wachttijd op grond van het zevende lid van dat artikel wordt verlengd;
+- b. met de duur van de verlenging van de wachttijd, bedoeld in [artikel 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), indien de wachttijd op grond van het zevende lid van dat artikel wordt verlengd; en
 
 - c. met de duur van het tijdvak, dat het Uitvoeringsinstituut werknemersverzekeringen op grond van [artikel 71a, negende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) heeft vastgesteld.
-
-15. Ingeval van verlenging op grond van het veertiende lid kan het tijdvak, bedoeld in het tweede lid, niet meer dan honderdvier weken bedragen.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
@@ -187,7 +185,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XVIII
 
-1. Degene die op grond van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=IV&artikel=XVII&z=2002-04-01&g=2002-04-01) aanspraken heeft verkregen die voortvloeien uit [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) of [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) behoudt deze aanspraken, indien:
+1. Degene die op grond van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=IV&artikel=XVII&z=2004-01-01&g=2004-01-01) aanspraken heeft verkregen die voortvloeien uit [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) of [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) behoudt deze aanspraken, indien:
 
 - a. hij op 30 juni 1994 ongeschikt is tot werken wegens ziekte, zolang die ongeschiktheid duurt; of
 
@@ -197,7 +195,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XIX
 
-1. De bepaling van [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=II&artikel=XIV&z=2002-04-01&g=2002-04-01) is niet van toepassing op de arbeidsverhoudingen van personen:
+1. De bepaling van [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=II&artikel=XIV&z=2004-01-01&g=2004-01-01) is niet van toepassing op de arbeidsverhoudingen van personen:
 
 - a. die op de dag vóór de inwerkingtreding van deze wet ongeschikt zijn tot het verrichten van hun arbeid wegens ziekte, zolang die ongeschiktheid duurt; of
 
@@ -215,9 +213,9 @@ De tekst van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wor
 
 ##### Artikel XXII
 
-1. De artikelen van deze wet, met uitzondering van [artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2002-04-01&g=2002-04-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De artikelen van deze wet, met uitzondering van [artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2004-01-01&g=2004-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2002-04-01&g=2002-04-01), treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.
+2. [Artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2004-01-01&g=2004-01-01), treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.
 
 ##### ARTIKEL XXIII
 
