@@ -4,7 +4,7 @@ identifier: "BWBR0006526"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-07-01"
-last_updated: "2002-01-01"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006526"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. tegen volstorting van die aandelen in geld,
 
-- 2°. door omzetting van een participatie, als bedoeld in onderdeel **b**, die is geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01), of een deel daarvan, of
+- 2°. door omzetting van een participatie, als bedoeld in onderdeel **b**, die is geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16), of een deel daarvan, of
 
 - 3°. door omzetting van een met het oog op de verkrijging van die aandelen door de particuliere participatiemaatschappij aan de vennootschap, of aan de vennootschap in oprichting, in geld verstrekte lening met een effectieve looptijd van niet meer dan drie maanden of een deel van die lening;
 
@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In dit besluit en de daarop berustende bepalingen wordt onder een gemelde participatie verstaan een participatie in de zin van artikel 1, eerste lid, onder **g**, van de Garantieregeling particuliere participatiemaatschappijen 1981, ten aanzien waarvan de melding niet is doorgehaald, als bedoeld in artikel 13, vierde lid, van die regeling.
 
-3. In het eerste lid van dit artikel en in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&z=2002-01-01&g=2002-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&z=2002-01-01&g=2002-01-01) wordt onder een vennootschap verstaan een vennootschap die voldoet aan de volgende eisen:
+3. In het eerste lid van dit artikel en in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&z=2003-07-16&g=2003-07-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&z=2003-07-16&g=2003-07-16) wordt onder een vennootschap verstaan een vennootschap die voldoet aan de volgende eisen:
 
 - a. zij is een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid;
 
@@ -178,7 +178,7 @@ Door de bank aangewezen personen kunnen, voor zover dat redelijkerwijs noodzakel
 
 ##### Artikel 7
 
-De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag. Indien de beschikking niet binnen acht weken kan worden gegeven, stelt de bank de aanvrager daarvan in kennis en noemt zij daarbij een redelijke termijn waarop de beschikking wel tegemoet kan worden gezien.
+De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
 ##### Artikel 8
 
@@ -186,7 +186,7 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 2. De bank kan afwijzend beslissen op een aanvraag:
 
-- a. indien niet is voldaan aan een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=6&z=2002-01-01&g=2002-01-01) of aan een verzoek als bedoeld in artikel 6 van de Kaderwet verstrekking financiële middelen EZ;
+- a. indien niet is voldaan aan een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=6&z=2003-07-16&g=2003-07-16) of aan een verzoek als bedoeld in artikel 6 van de Kaderwet verstrekking financiële middelen EZ;
 
 - b. indien de aanvrager in het kader van de aanvraag gegevens heeft verstrekt, waarvan hij wist of behoorde te weten dat deze onjuist of onvolledig waren en deze verstrekking tot een onjuiste beschikking op de aanvraag zou hebben geleid.
 
@@ -196,11 +196,11 @@ Een erkenning als particuliere participatiemaatschappij wordt bekend gemaakt in 
 
 ##### Artikel 10
 
-Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=11&z=2002-01-01&g=2002-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2002-01-01&g=2002-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=13&z=2002-01-01&g=2002-01-01) opgenomen verplichtingen verbonden.
+Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=11&z=2003-07-16&g=2003-07-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2003-07-16&g=2003-07-16) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=13&z=2003-07-16&g=2003-07-16) opgenomen verplichtingen verbonden.
 
 ##### Artikel 11
 
-1. De betrokkene blijft voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01) gestelde eisen.
+1. De betrokkene blijft voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2003-07-16&g=2003-07-16) gestelde eisen.
 
 2. De betrokkene voldoet voorts aan de volgende eisen:
 
@@ -208,9 +208,9 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - 1°. het gestorte aandelenkapitaal, of, indien de betrokkene geen rechtspersoon is, het door vennoten verplicht in te brengen kapitaal;
 
-- 2°. de helft van de de totale verkrijgingsprijs van de participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01) of die gemelde participaties van betrokkene zijn;
+- 2°. de helft van de de totale verkrijgingsprijs van de participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16) of die gemelde participaties van betrokkene zijn;
 
-- b. de som van de verkrijgingsprijzen van de uit aandelen bestaande participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01) of die gemelde participaties van betrokkene vormen, zal aan het einde van het derde boekjaar na erkenning van de participatiemaatschappij niet minder dan 40 procent, aan het einde van het vierde boekjaar niet minder dan 50 procent en aan het einde van het vijfde boekjaar niet minder dan 60 procent van de totale activa van de particuliere participatiemaatschappij bedragen, waarbij de vaste financiële activa tegen kostprijs zijn gewaardeerd. Met ingang van het zesde boekjaar zal dit percentage niet tweemaal achtereen aan het einde van het boekjaar minder dan 60 procent bedragen.
+- b. de som van de verkrijgingsprijzen van de uit aandelen bestaande participaties van betrokkene, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16) of die gemelde participaties van betrokkene vormen, zal aan het einde van het derde boekjaar na erkenning van de participatiemaatschappij niet minder dan 40 procent, aan het einde van het vierde boekjaar niet minder dan 50 procent en aan het einde van het vijfde boekjaar niet minder dan 60 procent van de totale activa van de particuliere participatiemaatschappij bedragen, waarbij de vaste financiële activa tegen kostprijs zijn gewaardeerd. Met ingang van het zesde boekjaar zal dit percentage niet tweemaal achtereen aan het einde van het boekjaar minder dan 60 procent bedragen.
 
 3. Indien als gevolg van een incidentele grote opbrengst uit de vervreemding van een participatie dan wel van een andere financiering niet voldaan kan worden aan het tweede lid, onder **b**, kan de bank een tijdelijke ontheffing verlenen. Een aanvraag om een ontheffing wordt ingediend uiterlijk zes weken voor het einde van het desbetreffende boekjaar. De bank geeft een beschikking voor het einde van dat boekjaar.
 
@@ -248,11 +248,11 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - 3°. een wijziging in de aansprakelijkheid van een vennoot voor de schulden van de vennootschap;
 
-- c. enige omstandigheid ten gevolge waarvan zij niet meer voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01);
+- c. enige omstandigheid ten gevolge waarvan zij niet meer voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2003-07-16&g=2003-07-16);
 
-- d. de gehele of gedeeltelijke vervreemding van een participatie die tot aan de vervreemding werd geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01) of een gemelde participatie was;
+- d. de gehele of gedeeltelijke vervreemding van een participatie die tot aan de vervreemding werd geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16) of een gemelde participatie was;
 
-- e. de faillietverklaring van, de verlening van voorlopige of definitieve surséance van betaling aan, en een besluit tot ontbinding van een vennootschap, waarin de betrokkene een of meer participaties heeft, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01) of die een gemelde participatie zijn.
+- e. de faillietverklaring van, de verlening van voorlopige of definitieve surséance van betaling aan, en een besluit tot ontbinding van een vennootschap, waarin de betrokkene een of meer participaties heeft, die worden geregistreerd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16) of die een gemelde participatie zijn.
 
 2. De betrokkene voldoet aan verzoeken van door de bank aangewezen personen om, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van dit besluit:
 
@@ -266,13 +266,13 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 1. De bank kan de erkenning als particuliere participatiemaatschappij intrekken, indien:
 
-- a. de betrokkene niet heeft voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=11&z=2002-01-01&g=2002-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2002-01-01&g=2002-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=13&z=2002-01-01&g=2002-01-01) opgenomen verplichtingen;
+- a. de betrokkene niet heeft voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=11&z=2003-07-16&g=2003-07-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2003-07-16&g=2003-07-16) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=13&z=2003-07-16&g=2003-07-16) opgenomen verplichtingen;
 
-- b. de bank op grond van de deskundigheid, de voornemens of de antecedenten van een of meer personen die het beleid van de betrokkene bepalen of medebepalen of op grond van het door de betrokkene gevoerde beleid dan wel op grond van de omstandigheden die geleid hebben tot een afwijzing van een aanvraag als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=4&artikel=27&z=2002-01-01&g=2002-01-01) van oordeel is, dat het goed functioneren van de betrokkene als particuliere participatiemaatschappij niet meer voldoende gewaarborgd is;
+- b. de bank op grond van de deskundigheid, de voornemens of de antecedenten van een of meer personen die het beleid van de betrokkene bepalen of medebepalen of op grond van het door de betrokkene gevoerde beleid dan wel op grond van de omstandigheden die geleid hebben tot een afwijzing van een aanvraag als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=4&artikel=27&z=2003-07-16&g=2003-07-16) van oordeel is, dat het goed functioneren van de betrokkene als particuliere participatiemaatschappij niet meer voldoende gewaarborgd is;
 
 - c. de beschikking, inhoudende de erkenning als particuliere participatiemaatschappij, ten gevolge van aan de betrokkene te wijten onjuistheid of onvolledigheid van verstrekte gegevens anders luidde dan het geval zou zijn geweest, indien de gegevens juist en volledig zouden zijn verstrekt.
 
-2. Bij de beschikking tot intrekking kan de bank bepalen dat de aanspraken op subsidies als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01) betreffende die participaties, die de particuliere participatiemaatschappij heeft verkregen nadat de intrekkingsgrond is ontstaan, in een door hem te bepalen omvang, al dan niet met terugwerkende kracht, vervallen. Indien de intrekking gegrond is op het eerste lid, onder **c**, bepaalt de bank steeds dat alle in de eerste volzin bedoelde aanspraken vervallen met terugwerkende kracht.
+2. Bij de beschikking tot intrekking kan de bank bepalen dat de aanspraken op subsidies als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16) betreffende die participaties, die de particuliere participatiemaatschappij heeft verkregen nadat de intrekkingsgrond is ontstaan, in een door hem te bepalen omvang, al dan niet met terugwerkende kracht, vervallen. Indien de intrekking gegrond is op het eerste lid, onder **c**, bepaalt de bank steeds dat alle in de eerste volzin bedoelde aanspraken vervallen met terugwerkende kracht.
 
 3. De intrekking wordt, zodra zij onherroepelijk is geworden, bekend gemaakt in de **Staatscourant**, onder vermelding van de naam en de statutaire zetel van de betrokkene.
 
@@ -288,7 +288,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - a. de naam en een omschrijving van de activiteiten van de vennootschap waarin de particuliere participatiemaatschappij de participatie heeft verkregen;
 
-- b. dat deze vennootschap op het moment van de aanvraag voldoet aan de eisen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=1&artikel=2&z=2002-01-01&g=2002-01-01);
+- b. dat deze vennootschap op het moment van de aanvraag voldoet aan de eisen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=1&artikel=2&z=2003-07-16&g=2003-07-16);
 
 - c. de precieze aard van de participatie, de datum van verkrijging, de verkrijgingsprijs van de participatie en de voorwaarden waaronder deze is verkregen;
 
@@ -316,11 +316,11 @@ Onze Minister stelt bij ministeriële regeling met betrekking tot ieder kalender
 
 - b. de aanvrager geen erkende participatiemaatschappij was in de zin van dit besluit of de Garantieregeling particuliere participatiemaatschappijen 1981 ten tijde van de verkrijging van de participatie.
 
-- c. de aanvrager de registratiepremie, bedoeld in [artikel 15, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01), niet of niet tijdig heeft voldaan.
+- c. de aanvrager de registratiepremie, bedoeld in [artikel 15, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16), niet of niet tijdig heeft voldaan.
 
 2. De bank beslist afwijzend op een aanvraag om registratie, voor zover:
 
-- a. door registratie het krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=16&z=2002-01-01&g=2002-01-01) vastgestelde bedrag zou worden overschreden;
+- a. door registratie het krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=16&z=2003-07-16&g=2003-07-16) vastgestelde bedrag zou worden overschreden;
 
 - b. de participatie waarop de aanvraag betrekking heeft ten tijde van de verkrijging bestond uit een converteerbare achtergestelde lening en de aanvrager niet voorafgaand aan of tegelijk met de verkrijging van de betreffende participatie een of meer andere uit aandelen bestaande participaties in dezelfde vennootschap heeft verkregen, die ten tijde van de verkrijging van de eerst bedoelde participatie aan de volgende vereisten voldeden:
 
@@ -412,15 +412,15 @@ De bank beslist in ieder geval afwijzend op een aanvraag om subsidie indien:
 
 - a. indien de participatie geheel of gedeeltelijk is vervreemd, de prijs waarvoor die vervreemding plaatsvond of, indien de betreffende vennootschap ontbonden is, de liquidatie-uitkering en
 
-- b. de door de bank vastgestelde waarde van de voordelen die de aanvrager en de personen, die op het tijdstip van de gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), of op enig tijdstip in de daaraan voorafgaande twee jaar, aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager of betrokken waren bij het beleid of beheer van de aanvrager, door het verkrijgen of het houden van de participatie dan wel door een gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), hebben verkregen of zullen verkrijgen.
+- b. de door de bank vastgestelde waarde van de voordelen die de aanvrager en de personen, die op het tijdstip van de gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), of op enig tijdstip in de daaraan voorafgaande twee jaar, aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager of betrokken waren bij het beleid of beheer van de aanvrager, door het verkrijgen of het houden van de participatie dan wel door een gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), hebben verkregen of zullen verkrijgen.
 
 2. De subsidiegrondslag van een participatie die bestaat uit een converteerbare achtergestelde lening wordt gevormd door de verkrijgingsprijs of, indien het verlies slechts op een deel van de participatie is geleden, het hiermee overeenkomende deel van de verkrijgingsprijs, verminderd met:
 
-- a. indien de participatie geheel of gedeeltelijk is vervreemd, de prijs waarvoor die vervreemding plaatsvond of de op de participatie verrichte uitkering wegens een van de in [artikel 20, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01) genoemde gebeurtenissen,
+- a. indien de participatie geheel of gedeeltelijk is vervreemd, de prijs waarvoor die vervreemding plaatsvond of de op de participatie verrichte uitkering wegens een van de in [artikel 20, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16) genoemde gebeurtenissen,
 
-- b. het bedrag of, indien het verlies slechts op een deel van de participatie is geleden, het hiermee overeenkomende deel van het bedrag, dat op de participatie is afgelost in de periode tot aan de gebeurtenis, bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), en
+- b. het bedrag of, indien het verlies slechts op een deel van de participatie is geleden, het hiermee overeenkomende deel van het bedrag, dat op de participatie is afgelost in de periode tot aan de gebeurtenis, bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), en
 
-- c. de door de bank vastgestelde waarde van de voordelen die de aanvrager en de personen, die op het tijdstip van de gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager, of betrokken waren bij het beleid of beheer van de aanvrager, door het verkrijgen of het houden van de participatie dan wel door een gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), hebben verkregen of zullen verkrijgen.
+- c. de door de bank vastgestelde waarde van de voordelen die de aanvrager en de personen, die op het tijdstip van de gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager, of betrokken waren bij het beleid of beheer van de aanvrager, door het verkrijgen of het houden van de participatie dan wel door een gebeurtenis als bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), hebben verkregen of zullen verkrijgen.
 
 3. Indien de verkrijgingsprijs van een participatie die bestaat uit een converteerbare achtergestelde lening hoger is dan de nominale waarde van de hoofdsom, wordt bij de toepassing van het tweede lid in plaats van de verkrijgingsprijs de nominale waarde van de hoofdsom in aanmerking genomen.
 
@@ -458,7 +458,7 @@ Tm: het aantal volledige maanden, verlopen tussen de verkrijging van de particip
 
 ##### Artikel 25
 
-De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag. Indien de beschikking niet binnen acht weken kan worden gegeven, stelt de bank de aanvrager daarvan in kennis en noemt zij een redelijke termijn waarop de beschikking wel tegemoet kan worden gezien.
+De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
 ##### Artikel 26
 
@@ -470,17 +470,17 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 ##### Artikel 27
 
-1. Een aanvraag om subsidie wordt binnen zes maanden na de gebeurtenis, bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), ingediend bij de bank, met gebruikmaking van een formulier, waarvan het model bij regeling van Onze Minister wordt vastgesteld. De aanvraag gaat vergezeld van:
+1. Een aanvraag om subsidie wordt binnen zes maanden na de gebeurtenis, bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), ingediend bij de bank, met gebruikmaking van een formulier, waarvan het model bij regeling van Onze Minister wordt vastgesteld. De aanvraag gaat vergezeld van:
 
 - a. alle bewijsstukken betreffende de oorzaak en de omvang van het verlies;
 
-- b. een verklaring van de aanvrager omtrent de waarde van de in [artikel 20, eerste lid, onder b en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), bedoelde voordelen;
+- b. een verklaring van de aanvrager omtrent de waarde van de in [artikel 20, eerste lid, onder b en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), bedoelde voordelen;
 
-- c. de namen van de personen die op het tijdstip van de gebeurtenis, bedoeld in [artikel 20 eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2002-01-01&g=2002-01-01), of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager dan wel betrokken waren bij het beheer van de aanvrager;
+- c. de namen van de personen die op het tijdstip van de gebeurtenis, bedoeld in [artikel 20 eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2003-07-16&g=2003-07-16), of op enig tijdstip in de daaraan voorafgaande twee jaar aandeelhouder waren van de aanvrager, in dienst waren van de aanvrager dan wel betrokken waren bij het beheer van de aanvrager;
 
 - d. een verklaring van een accountant omtrent de juistheid en volledigheid van de in de aanvraag vermelde gegevens en bij de aanvraag meegezonden bewijsstukken;
 
-- e. de bescheiden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2002-01-01&g=2002-01-01), betreffende de twee laatst verlopen boekjaren, tenzij de bank deze bescheiden reeds heeft ontvangen;
+- e. de bescheiden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2003-07-16&g=2003-07-16), betreffende de twee laatst verlopen boekjaren, tenzij de bank deze bescheiden reeds heeft ontvangen;
 
 - f. de door de algemene vergadering van aandeelhouders van de vennootschap of de vennoten vastgestelde of goedgekeurde jaarrekeningen betreffende de sedert de verkrijging van de participatie verlopen boekjaren.
 
@@ -488,19 +488,19 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 ##### Artikel 28
 
-De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag. Indien de beschikking niet binnen acht weken kan worden gegeven, stelt de bank de aanvrager daarvan in kennis en noemt zij daarbij een redelijke termijn waarop de beschikking wel tegemoet kan worden gezien.
+De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
 ##### Artikel 29
 
 Op een aanvraag kan in ieder geval afwijzend worden beslist:
 
-- a. indien niet is voldaan aan een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=6&z=2002-01-01&g=2002-01-01), of aan een verzoek als bedoeld in artikel 6 van de Kaderwet verstrekking financiële middelen EZ;
+- a. indien niet is voldaan aan een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=6&z=2003-07-16&g=2003-07-16), of aan een verzoek als bedoeld in artikel 6 van de Kaderwet verstrekking financiële middelen EZ;
 
 - b. indien de aanvrager in het kader van de aanvraag gegevens heeft verstrekt waarvan hij wist of behoorde te weten dat deze onjuist of onvolledig waren, en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid.
 
 ##### Artikel 30
 
-1. Een beschikking, inhoudende de verstrekking van een subsidie kan worden ingetrokken of gewijzigd bij een beschikking als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=14&z=2002-01-01&g=2002-01-01).
+1. Een beschikking, inhoudende de verstrekking van een subsidie kan worden ingetrokken of gewijzigd bij een beschikking als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=14&z=2003-07-16&g=2003-07-16).
 
 2. Indien toepassing is gegeven aan het eerste lid, zijn ter beschikking gestelde financiële middelen terstond opeisbaar voor zover zij het bedrag waarop de betrokkene alsdan recht heeft te boven gaan.
 
@@ -508,9 +508,9 @@ Op een aanvraag kan in ieder geval afwijzend worden beslist:
 
 ##### Artikel 31
 
-1. Aanvragen tot erkenning als particuliere participatiemaatschappij als bedoeld in Hoofdstuk 2 van de Garantieregeling particuliere participatiemaatschappijen 1981, die zijn ingediend voor de inwerkingtreding van dit besluit, en waarop nog niet is besloten, worden in aanmerking genomen als aanvragen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01) van dit besluit.
+1. Aanvragen tot erkenning als particuliere participatiemaatschappij als bedoeld in Hoofdstuk 2 van de Garantieregeling particuliere participatiemaatschappijen 1981, die zijn ingediend voor de inwerkingtreding van dit besluit, en waarop nog niet is besloten, worden in aanmerking genomen als aanvragen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2003-07-16&g=2003-07-16) van dit besluit.
 
-2. Meldingen als bedoeld in artikel 13 van de Garantieregeling particuliere participatiemaatschappijen 1981 die de toezichthouder ten tijde van de inwerkingtreding van dit besluit nog niet schriftelijk heeft bevestigd, worden in aanmerking genomen als aanvragen om registratie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2002-01-01&g=2002-01-01) van dit besluit.
+2. Meldingen als bedoeld in artikel 13 van de Garantieregeling particuliere participatiemaatschappijen 1981 die de toezichthouder ten tijde van de inwerkingtreding van dit besluit nog niet schriftelijk heeft bevestigd, worden in aanmerking genomen als aanvragen om registratie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2003-07-16&g=2003-07-16) van dit besluit.
 
 ##### Artikel 32
 
