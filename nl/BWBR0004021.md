@@ -75,9 +75,3 @@ Aan de opsomming van waren in het besluit van 26 maart 1921 (**Stb.** 638), tot 
 2. Dit besluit kan worden aangehaald als: "Spaanplaatbesluit (Warenwet)".
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Het is verboden spaanplaat te verhandelen of te vervaardigen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
