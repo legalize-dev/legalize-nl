@@ -406,13 +406,3 @@ Deze Rijkswet kan worden aangehaald als "Rijkswet Noodvoorzieningen Scheepvaart.
 Deze Rijkswet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad,** het **Gouvernementsblad van Suriname** en het**Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 25a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### VII. Strafbepalingen
-
-#### VIII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad,** het **Gouvernementsblad van Suriname** en het**Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
