@@ -83,11 +83,3 @@ Deze regeling wordt aangehaald als: Regeling bijstandsverlening aan zelfstandige
 ## Bijlage
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Wijziging wettelijke grondslag
-
-Deze regeling berust op [artikel 37, eerste lid, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=37).
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
