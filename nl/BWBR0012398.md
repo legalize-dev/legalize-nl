@@ -4,7 +4,7 @@ identifier: "BWBR0012398"
 country: "nl"
 rank: "wet"
 publication_date: "2009-07-01"
-last_updated: "2001-09-01"
+last_updated: "2002-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012398"
 soort: "wet"
@@ -82,7 +82,7 @@ Wijzigt de Wet bescherming persoonsgegevens.
 
 ##### Artikel 1
 
-Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 19....
+Vervallen
 
 ##### Artikel 2
 
