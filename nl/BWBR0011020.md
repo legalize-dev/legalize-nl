@@ -4,7 +4,7 @@ identifier: "BWBR0011020"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "2000-01-26"
+last_updated: "2004-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011020"
 soort: "wet"
@@ -58,7 +58,7 @@ De wet van 26 mei 1870 wordt ingetrokken.
 
 ##### Artikel 3
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen is belast met het privaatrechtelijk beheer van de museale verzamelingen of museale voorwerpen die eigendom zijn van de Staat dan wel aan de zorg van de Staat zijn toevertrouwd en die tot het tijdstip van intrekking van de wet van 26 mei 1870 in beheer waren bij de Rijksakademie.
+Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met het privaatrechtelijk beheer van de museale verzamelingen of museale voorwerpen die eigendom zijn van de Staat dan wel aan de zorg van de Staat zijn toevertrouwd en die tot het tijdstip van intrekking van de wet van 26 mei 1870 in beheer waren bij de Rijksakademie.
 
 ##### Artikel 4
 
