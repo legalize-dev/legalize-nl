@@ -4,7 +4,7 @@ identifier: "BWBR0012035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 ##### Artikel 3
 
-De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2003-01-01&g=2003-01-01) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
+De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2005-01-01&g=2005-01-01) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
 
 ##### Artikel 4
 
@@ -78,9 +78,7 @@ Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zeven
 
 ##### Artikel 6
 
-1. Met betrekking tot arbo-bedrijfsmiddelen als bedoeld in artikel 3.32, eerste lid, van de wet is willekeurige afschrijving alleen mogelijk indien de aanmelding van de aangegane verplichtingen of gemaakte voortbrengingskosten plaatsvindt binnen een termijn van drie maanden. Daarbij is artikel 2, tweede en derde lid, van overeenkomstige toepassing.
-
-2. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten geschiedt door middel van het door de inspecteur uitgereikte of toegezonden formulier. Ter zake wordt een ontvangstbewijs afgegeven.
+Vervallen
 
 ### Hoofdstuk 4. Andere aangewezen bedrijfsmiddelen
 
@@ -98,7 +96,7 @@ Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zeven
 
 ##### Artikel 8
 
-Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2003-01-01&g=2003-01-01), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
+Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2005-01-01&g=2005-01-01), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
 
 ##### Artikel 9
 
@@ -112,11 +110,11 @@ Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid,
 
 ##### Artikel 11
 
-De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2003-01-01&g=2003-01-01) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
+De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2005-01-01&g=2005-01-01) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
 
 ##### Artikel 12
 
-Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2003-01-01&g=2003-01-01) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
+Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2005-01-01&g=2005-01-01) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
 
 #### Paragraaf 3. Immateriële activa
 
