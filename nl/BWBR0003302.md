@@ -4,7 +4,7 @@ identifier: "BWBR0003302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2002-09-21"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003302"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor
 
 ##### Artikel 2
 
-Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&artikel=1&z=2002-09-21&g=2002-09-21) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
+Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2005-01-01&g=2005-01-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
 
 ##### Artikel 2a
 
@@ -59,7 +59,7 @@ Het tarief voor de werkzaamheden van de Kamer bedraagt voor wat betreft het verl
 
 ##### Artikel 3
 
-Deze beschikking is niet van toepassing voor werkzaamheden ten aanzien van overeenkomsten, die voor 1 april 1980 aan de Kamer voor de Binnenvisserij ter goedkeuring zijn voorgelegd noch ten aanzien van verzoeken tot verlenging die voor die datum bij de Kamer zijn ingediend.
+Deze regeling is niet van toepassing voor werkzaamheden ten aanzien van overeenkomsten, die voor 1 april 1980 aan de Kamer voor de Binnenvisserij ter goedkeuring zijn voorgelegd noch ten aanzien van verzoeken tot verlenging die voor die datum bij de Kamer zijn ingediend.
 
 ##### Artikel 4
 
@@ -67,10 +67,26 @@ De beschikking van de Minister van Landbouw en Visserij van 27 november 1968, nr
 
 ##### Artikel 5
 
-Deze beschikking treedt in werking met ingang van 1 april 1980.
+Deze regeling treedt in werking met ingang van 1 april 1980.
 
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als:
 
-Regeling tarieven Kamer voor de Binnenvisserij.
+Regeling tarieven Kamer voor de Binnenvisserij en geldsom visakten.
+
+#### Paragraaf 1. Tarieven Kamer voor de Binnenvisserij
+
+#### Paragraaf 2. Geldsom visakten
+
+##### Artikel 4a
+
+- 1. De geldsom voor de verkrijging van de grote visakte bedraagt voor 2005: € 47,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 45,37 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,13.
+
+- 2. De geldsom voor de verkrijging van de sportvisakte bedraagt voor 2005: € 9,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 7,47 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,03.
+
+#### Paragraaf 3. Slotbepalingen
+
+##### Artikel 4b
+
+Deze regeling berust op [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=10), en [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).
