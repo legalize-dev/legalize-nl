@@ -453,9 +453,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 24a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
