@@ -111,9 +111,3 @@ Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (**
 Dit besluit kan worden aangehaald als "Besluit klachtrecht militairen".
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 6a. Grondslag
-
-Dit besluit berust op [artikel 9, vierde lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
