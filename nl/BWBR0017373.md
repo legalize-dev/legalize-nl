@@ -4,7 +4,7 @@ identifier: "BWBR0017373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-11-12"
-last_updated: "2003-10-01"
+last_updated: "2004-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017373"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het NVI: het Nederlands Vaccin Instituut;
 
-3. De Raad: de Raad van Toezicht, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=2&z=2004-11-12&g=2003-10-01);
+3. De Raad: de Raad van Toezicht, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=2&z=2004-11-12&g=2004-11-12);
 
 4. De Directie: de Directie van het NVI;
 
@@ -109,11 +109,11 @@ Het lidmaatschap van de Raad eindigt:
 
 - a. op eigen schriftelijk verzoek;
 
-- b. wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=5&z=2004-11-12&g=2003-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=6&z=2004-11-12&g=2003-10-01);
+- b. wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=5&z=2004-11-12&g=2004-11-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=6&z=2004-11-12&g=2004-11-12);
 
 - c. wegens overlijden;
 
-- d. indien het lid door de minister, op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=5&z=2004-11-12&g=2003-10-01) en [6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=6&z=2004-11-12&g=2003-10-01), wordt ontslagen.
+- d. indien het lid door de minister, op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=5&z=2004-11-12&g=2004-11-12) en [6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=6&z=2004-11-12&g=2004-11-12), wordt ontslagen.
 
 ##### Artikel 8. Reglement
 
@@ -131,7 +131,7 @@ Het lidmaatschap van de Raad eindigt:
 
 ##### Artikel 9. Adviestaak
 
-1. De Raad stelt met betrekking tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2003-10-01) bepaalde, een advies op naar aanleiding van het door de Directie opgestelde conceptprogramma SVOP en infrastructurele investeringen voor het komende kalenderjaar.
+1. De Raad stelt met betrekking tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2004-11-12) bepaalde, een advies op naar aanleiding van het door de Directie opgestelde conceptprogramma SVOP en infrastructurele investeringen voor het komende kalenderjaar.
 
 2. Uiterlijk 30 november van elk jaar stelt de Directie het definitieve programma voor het volgende kalenderjaar vast en stuurt het SVOP als onderdeel van de begroting NVI, samen met het advies van de Raad, ter kennisname aan de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
@@ -141,7 +141,7 @@ Het lidmaatschap van de Raad eindigt:
 
 ##### Artikel 10. Ambtelijke ondersteuning
 
-1. Ter ondersteuning bij zijn in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2003-10-01) bedoelde taak wordt de Raad bijgestaan door een bureau.
+1. Ter ondersteuning bij zijn in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2004-11-12) bedoelde taak wordt de Raad bijgestaan door een bureau.
 
 2. Het personeel van dit bureau wordt door het NVI beschikbaar gesteld. Dit personeel is in dienst van het NVI.
 
