@@ -4,7 +4,7 @@ identifier: "BWBR0001937"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "1997-05-14"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001937"
 soort: "wet"
@@ -114,7 +114,7 @@ Wanneer bij de collectieve arbeidsovereenkomst niet anders is bepaald, is de wer
 
 2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) verplicht wordt bepalingen na te komen van een collectieve arbeidsovereenkomst. De rechten en verplichtingen eindigen voorts zodra de op het tijdstip van de overgang lopende geldingsduur van de collectieve arbeidsovereenkomst verstrijkt.
 
-3. Het eerste lid is niet van toepassing op rechten en verplichtingen van de werkgever die voortvloeien uit een bepaling in een collectieve arbeidsovereenkomst, die betrekking heeft op een pensioenvoorziening als bedoeld in [artikel 1, eerste lid, onder **a**, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), dan wel op een spaarregeling als bedoeld in artikel 3, eerste lid, van die wet.
+3. In afwijking van het eerste en het tweede lid zijn op rechten en verplichtingen van de werkgever die voortvloeien uit een bepaling in een collectieve arbeidsovereenkomst, die betrekking heeft op een pensioenvoorziening als bedoeld in [artikel 1, eerste lid, onder a, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), dan wel op een spaarregeling als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=3), de [artikelen 663](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) en [664 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=664) van toepassing.
 
 4. Het tweede lid is van overeenkomstige toepassing op de rechten en verplichtingen welke voortvloeien uit een collectieve arbeidsovereenkomst en krachtens fusie zijn overgegaan op de verkrijgende rechtspersoon.
 
@@ -166,7 +166,7 @@ De gevolgen van eene collectieve arbeidsovereenkomst, van kracht bij de inwerkin
 
 ##### Artikel 26
 
-Ten aanzien van vereenigingen, welke op het tijdstip van de inwerkingtreding dezer wet partij zijn of in de twee daaraan voorafgaande jaren partij geweest zijn bij eene collectieve arbeidsovereenkomst, vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=2&z=1997-05-14&g=1997-05-14) eerst twee jaren na die inwerkingtreding toepassing.
+Ten aanzien van vereenigingen, welke op het tijdstip van de inwerkingtreding dezer wet partij zijn of in de twee daaraan voorafgaande jaren partij geweest zijn bij eene collectieve arbeidsovereenkomst, vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=2&z=2002-07-01&g=2002-07-01) eerst twee jaren na die inwerkingtreding toepassing.
 
 ##### Artikel 27
 
