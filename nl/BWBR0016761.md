@@ -4,7 +4,7 @@ identifier: "BWBR0016761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-06-15"
-last_updated: "2003-04-11"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016761"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ entry_into_force: "2004-06-15"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001.
 
 ##### Artikel II
 
@@ -50,13 +50,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IV
 
 Dit onderdeel is nog niet inwerking getreden
-
-Handelend in overeenstemming met de Minister van Buitenlandse Zaken en de Minister van Justitie in zijn hoedanigheid van Minister van het Koninkrijk;
-
-Gelet op [artikel 4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), en [59 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
-
-Deze regeling zal met de toelichting in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba worden geplaatst.
