@@ -4,7 +4,7 @@ identifier: "BWBR0005170"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-06-20"
-last_updated: "1999-06-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005170"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 - c. Binnenlandse Zaken: de commissarissen van de Koning, ieder voor de provincie waarvoor hij is benoemd;
 
-- d. Financiën: de hoofden van de eenheden douane, ieder voor het gebied dat ingevolge artikel 7 van de Organisatieregeling Belastingdienst (**Stcrt.** 1989, 21) als zijn ambtsgebied is vastgesteld;
+- d. Financiën: de voorzitters van de managementteams van de Belastingdienst/Douane;
 
 - e. Defensie: de provinciale militaire commandanten, ieder voor het gebied dat in [artikel 3 van het Besluit gezagsgebieden militaire gezagsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0003915&artikel=3) (**Stb.** 1986, 58) als zijn gezagsgebied is vastgesteld;
 
@@ -84,19 +84,19 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 ##### Artikel 3
 
-1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=1999-06-01&g=1999-06-01) en [2, onder d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=1999-06-01&g=1999-06-01), genoemde autoriteiten verrichten hun taak zoveel mogelijk na overleg met de commissaris van de Koning van de provincie waarin het in die artikelen voor hen aangewezen gebied is gelegen, en zij verstrekken deze op diens verzoek inlichtingen over het door hen gevoerde en te voeren beleid.
+1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2003-01-01&g=2003-01-01) en [2, onder d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2003-01-01&g=2003-01-01), genoemde autoriteiten verrichten hun taak zoveel mogelijk na overleg met de commissaris van de Koning van de provincie waarin het in die artikelen voor hen aangewezen gebied is gelegen, en zij verstrekken deze op diens verzoek inlichtingen over het door hen gevoerde en te voeren beleid.
 
-2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=1999-06-01&g=1999-06-01), zoveel mogelijk na overleg met het College van procureurs-generaal.
+2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2003-01-01&g=2003-01-01), zoveel mogelijk na overleg met het College van procureurs-generaal.
 
 ##### Artikel 4
 
-De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=1999-06-01&g=1999-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=1999-06-01&g=1999-06-01) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) (**Stb.** 1988, 228) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
+De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2003-01-01&g=2003-01-01) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) (**Stb.** 1988, 228) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
 ##### Artikel 5
 
-1. Zodra de verbinding tussen Onze betrokken Ministers en een gebied, waarmee de verbinding verbroken was, is hersteld, doet Onze Minister van Economische Zaken daarvan mededeling aan de desbetreffende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=1999-06-01&g=1999-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=1999-06-01&g=1999-06-01) aangewezen autoriteiten. Een dergelijke mededeling wordt tevens bekendgemaakt in de Staatscourant.
+1. Zodra de verbinding tussen Onze betrokken Ministers en een gebied, waarmee de verbinding verbroken was, is hersteld, doet Onze Minister van Economische Zaken daarvan mededeling aan de desbetreffende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2003-01-01&g=2003-01-01) aangewezen autoriteiten. Een dergelijke mededeling wordt tevens bekendgemaakt in de Staatscourant.
 
-2. Zo spoedig mogelijk na de bekendmaking van de in het eerste lid bedoelde mededeling leggen de betrokken, bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=1999-06-01&g=1999-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=1999-06-01&g=1999-06-01) aangewezen, autoriteiten aan Onze minister wiens bevoegdheden zij hebben uitgeoefend rekening en verantwoording af van al hetgeen zij in de uitoefening van die bevoegdheden hebben verricht.
+2. Zo spoedig mogelijk na de bekendmaking van de in het eerste lid bedoelde mededeling leggen de betrokken, bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2003-01-01&g=2003-01-01) aangewezen, autoriteiten aan Onze minister wiens bevoegdheden zij hebben uitgeoefend rekening en verantwoording af van al hetgeen zij in de uitoefening van die bevoegdheden hebben verricht.
 
 ##### Artikel 6
 
