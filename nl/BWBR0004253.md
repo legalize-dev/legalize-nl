@@ -71,35 +71,3 @@ Aldus naar waarheid ingevuld.
 Dit document dient vóór het vertrek van elke rit te worden ingevuld. De gegevens onder E en F dienen te worden ingevuld op het moment dat de reizigers instappen respectievelijk uitstappen. Voorts dient dit document in het te bezigen motorrijtuig aanwezig te zijn en op verzoek van de met de controle belaste ambtenaren ter inzage worden gegeven.
 
 Deze regeling wordt met de bijlage in de Nederlandse Staatscourant geplaatst.
-
-##### Artikel 3
-
-Deze regeling wordt aangehaald als: Regeling controledocumenten taxivervoer.
-
-##### Artikel 4
-
-Deze regeling treedt in werking met ingang van 1 januari 1988.
-
-## Bijlage. Controledocument, als bedoeld in artikel 149, sub c, van het Besluit personenvervoer
-
-- A). Naam vervoerder: Adres: Vestigingsplaats:
-
-- B). Naam bestuurder:
-
-- C). Kenteken te bezigen motorrijtuigen:
-
-- D). Plaats van vertrek: Tijdstip:
-
-- E). Instapplaats reiziger(s): Tijdstip instappen:
-
-- F). Uitstapplaats reiziger(s): Tijdstip uitstappen:
-
-Aldus naar waarheid ingevuld.
-
-......................, de ......................
-
-**(handtekening vervoerder)**
-
-Dit document dient vóór het vertrek van elke rit te worden ingevuld. De gegevens onder E en F dienen te worden ingevuld op het moment dat de reizigers instappen respectievelijk uitstappen. Voorts dient dit document in het te bezigen motorrijtuig aanwezig te zijn en op verzoek van de met de controle belaste ambtenaren ter inzage worden gegeven.
-
-Deze regeling wordt met de bijlage in de Nederlandse Staatscourant geplaatst.
