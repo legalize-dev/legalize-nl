@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2001-10-15"
+last_updated: "2003-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -553,23 +553,9 @@ De bij of krachtens dit hoofdstuk vastgestelde bepalingen zijn van toepassing op
 
 ##### Artikel 97. Vervoer van passagiers en lading
 
-1. Het is verboden in een luchtvaartuig te vervoeren of te doen vervoeren:
+1. Het is verboden in een luchtvaartuig personen te vervoeren of te doen vervoeren , die kennelijk gevaarlijk zijn voor de veiligheid of gezondheid van de overige inzittenden, tenzij zodanige personen onder toezicht staan van deskundige begeleiders en de voor de veiligheid en de gezondheid vereiste voorzorgen in acht worden genomen.
 
-- a. personen, die kennelijk gevaarlijk zijn voor de veiligheid of gezondheid van de overige inzittenden, tenzij zodanige personen onder toezicht staan van deskundige begeleiders en de voor de veiligheid en de gezondheid van de inzittenden vereiste voorzorgen in acht worden genomen;
-
-- b. dieren zonder dat de door Onze Minister vast te stellen regelen in acht worden genomen.
-
-2. Het is verboden in een luchtvaartuig te vervoeren, te doen vervoeren of ten vervoer aan te bieden gevaarlijke stoffen met uitzondering van:
-
-- a. die, welke nodig zijn voor de uitvoering en veiligheid van de vlucht;
-
-- b. radio-actieve stoffen, indien het bepaalde bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (**Stb.** 1963, 82) in acht wordt genomen;
-
-- c. gevaarlijke stoffen niet zijnde radio-actieve stoffen, indien de door Onze Minister gegeven voorschriften in acht worden genomen.
-
-3. Wanneer in een luchtvaartuig personen, dieren of stoffen als bedoeld in de voorgaande leden worden vervoerd, is de houder of de eigenaar van het luchtvaartuig verplicht er zorg voor te dragen, dat zulks vóór de aanvang van de vlucht op duidelijke wijze ter kennis van de gezagvoerder wordt gebracht.
-
-4. Het bepaalde in het eerste lid, onder **a**, het tweede lid en het derde lid van dit artikel is tevens van toepassing op buitenlandse luchtvaartuigen binnen Nederland.
+2. Wanneer in een luchtvaartuig personen als bedoeld in het eerste lid worden vervoerd is de houder of de eigenaar van het luchtvaartuig verplicht er zorg voor te dragen, dat zulks voor de aanvang van de vlucht op duidelijke wijze ter kennis van de gezagvoerder wordt gebracht.
 
 ##### Artikel 98. Bescheiden en boeken
 
