@@ -4,7 +4,7 @@ identifier: "BWBR0007687"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007687"
 soort: "AMvB"
@@ -124,7 +124,7 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 ##### Artikel 2.1:4
 
-1. [Paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&z=2003-01-01&g=2003-01-01) en de daarop berustende bepalingen en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet zijn niet van toepassing op arbeid van huishoudelijke aard verricht door de werknemer van 18 jaar of ouder in of ten behoeve van een particuliere huishouding, waarbij die werknemer in die particuliere huishouding inwoont.
+1. [Paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&z=2003-01-30&g=2003-01-30) en de daarop berustende bepalingen en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet zijn niet van toepassing op arbeid van huishoudelijke aard verricht door de werknemer van 18 jaar of ouder in of ten behoeve van een particuliere huishouding, waarbij die werknemer in die particuliere huishouding inwoont.
 
 2. Onder arbeid, als bedoeld in het eerste lid, wordt mede verstaan: arbeid van huishoudelijke aard, verricht in de ruimte die de werkgever gebruikt om geheel of gedeeltelijk door middel van werkzaamheden in zijn levensonderhoud te voorzien.
 
@@ -134,13 +134,13 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 1. De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) en [4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) en de[hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&hoofdstuk=6) van de wet en de daarop berustende bepalingen zijn niet van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder:
 
-- a. die namens de werkgever uitsluitend of in hoofdzaak leiding geeft aan werknemers die voor die werkgever arbeid verrichten en van wie het jaarlijks in geld vastgesteld loon ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-01&g=2003-01-01), bedraagt;
+- a. die namens de werkgever uitsluitend of in hoofdzaak leiding geeft aan werknemers die voor die werkgever arbeid verrichten en van wie het jaarlijks in geld vastgesteld loon ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-30&g=2003-01-30), bedraagt;
 
-- b. die namens de werkgever en in diens plaats een landbouwbedrijf uitoefent en daarin landbouwarbeid verricht en van wie het jaarlijks in geld vastgesteld loon ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-01&g=2003-01-01), bedraagt;
+- b. die namens de werkgever en in diens plaats een landbouwbedrijf uitoefent en daarin landbouwarbeid verricht en van wie het jaarlijks in geld vastgesteld loon ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-30&g=2003-01-30), bedraagt;
 
-- c. die de werkgever of de werknemer, bedoeld in de onderdelen **a** of **b**, vervangt, gedurende die vervanging, mits het jaarlijks in geld vastgesteld loon van die werknemer ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-01&g=2003-01-01), bedraagt;
+- c. die de werkgever of de werknemer, bedoeld in de onderdelen **a** of **b**, vervangt, gedurende die vervanging, mits het jaarlijks in geld vastgesteld loon van die werknemer ten minste tweemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-30&g=2003-01-30), bedraagt;
 
-- d. wiens jaarlijks in geld vastgesteld loon ten minste driemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-01&g=2003-01-01), bedraagt.
+- d. wiens jaarlijks in geld vastgesteld loon ten minste driemaal het bedrag, vastgesteld overeenkomstig [artikel 2.1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:6&z=2003-01-30&g=2003-01-30), bedraagt.
 
 2. Het eerste lid, onderdelen **b** tot en met **d**, is niet van toepassing op arbeid verricht op of vanaf een mijnbouwinstallatie.
 
@@ -154,7 +154,7 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 ##### Artikel 2.1:6
 
-De hoogte van het bedrag, bedoeld in [artikel 2.1:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:5&z=2003-01-01&g=2003-01-01), bedraagt:
+De hoogte van het bedrag, bedoeld in [artikel 2.1:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:5&z=2003-01-30&g=2003-01-30), bedraagt:
 
 - 1°. het twaalfvoud van de uitbetalingstermijn van een maand, bedoeld in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimum vakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), dat overeenkomstig [artikel 14, eerste en zesde lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14), is vastgesteld op 1 januari van het desbetreffende jaar,
 
@@ -218,7 +218,7 @@ De[artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:2) e
 
 #### § 3.1. Registratieverplichtingen
 
-#### Mijnbouwinstallatie
+#### Duikwerkzaamheden civiele onderwaterbouw
 
 ##### Artikel 3.1:1
 
@@ -226,15 +226,15 @@ De werkgever zorgt er voor, dat op een bemande mijnbouwinstallatie de op die mij
 
 ##### Artikel 3.1:2
 
-1. Indien [artikel 5.14:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-01&g=2003-01-01) van toepassing is, zorgt de werkgever er voor dat de registratie van de arbeids- en rusttijden van de werknemer plaatsvindt volgens een door Onze Minister vastgesteld model.
+1. Indien [artikel 5.14:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-30&g=2003-01-30) van toepassing is, zorgt de werkgever er voor dat de registratie van de arbeids- en rusttijden van de werknemer plaatsvindt volgens een door Onze Minister vastgesteld model.
 
 2. De werknemer, bedoeld in het eerste lid, draagt tijdens het verrichten van de arbeid de in dat lid bedoelde registratie bij zich.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een persoon als bedoeld in [artikel 2.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.2&artikel=2.2:1&z=2003-01-01&g=2003-01-01).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een persoon als bedoeld in [artikel 2.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.2&artikel=2.2:1&z=2003-01-30&g=2003-01-30).
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de inhoud, de invulling en het gebruik van de in het eerste lid bedoelde registratie.
 
-#### § 3.2. Bewaartermijn
+#### § 3.1. Registratieverplichtingen
 
 ##### Artikel 3.2:1
 
@@ -258,7 +258,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht in het kader van
 
 2. De werkgever voor wie de jeugdige werknemer arbeid in het kader van een alternatieve sanctie verricht, organiseert de arbeid zodanig, dat die werknemer ten hoogste 10 uren per dienst en 55 uren per week arbeid verricht.
 
-#### Arbeidstijd van de jeugdige werknemer
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 4.1:3
 
@@ -266,7 +266,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht in het kader van
 
 2. De werkgever voor wie de werknemer van 18 jaar of ouder arbeid in het kader van een alternatieve sanctie verricht, organiseert de arbeid zodanig, dat die werknemer ten hoogste 12 uren per dienst en 60 uren per week arbeid verricht.
 
-#### Arbeidstijd van de werknemer van 18 jaar of ouder
+#### Arbeidstijd van de jeugdige werknemer
 
 ##### Artikel 4.1:4
 
@@ -288,11 +288,11 @@ Voor de toepassing van deze paragraaf wordt verstaan onder feestdag: Nieuwjaarsd
 
 2. Indien de aard van de arbeid of de bedrijfsomstandigheden dit in verband met de feestdag, Koninginnedag of 5 december noodzakelijk maakt, organiseert de werkgever de arbeid zodanig, dat de werknemer van 18 jaar of ouder in de aaneengesloten periode van 7 dagen voorafgaand aan die dag ten hoogste tweemaal 14 uren per dienst onderscheidenlijk per nachtdienst arbeid verricht.
 
-3. Indien een door godsdienstige opvattingen ingegeven feestdag, anders dan bedoeld in [artikel 4.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:1&z=2003-01-01&g=2003-01-01), de aard van de arbeid of de bedrijfsomstandigheden beïnvloedt op een wijze die gelijkenis vertoont met de beïnvloeding van een aldaar bedoelde feestdag, is het tweede lid van overeenkomstige toepassing.
+3. Indien een door godsdienstige opvattingen ingegeven feestdag, anders dan bedoeld in [artikel 4.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:1&z=2003-01-30&g=2003-01-30), de aard van de arbeid of de bedrijfsomstandigheden beïnvloedt op een wijze die gelijkenis vertoont met de beïnvloeding van een aldaar bedoelde feestdag, is het tweede lid van overeenkomstige toepassing.
 
-4. [Artikel 4.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-01&g=2003-01-01) is niet van toepassing indien dit artikel wordt toegepast.
+4. [Artikel 4.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-30&g=2003-01-30) is niet van toepassing indien dit artikel wordt toegepast.
 
-#### Arbeidstijd voorafgaand aan de feestdag
+#### Begrip feestdag
 
 ##### Artikel 4.2:3
 
@@ -306,7 +306,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder feestdag: Nieuwjaarsd
 
 3. Indien het tweede lid wordt toegepast, organiseert de werkgever de arbeid zodanig, dat zoveel mogelijk werknemers geen arbeid verrichten in de tijdruimte gelegen tussen de feestdag 00.00 uur en de daarop volgende dag 06.00 uur.
 
-4. Bij collectieve regeling kan een door godsdienstige opvattingen ingegeven feestdag, anders dan bedoeld in [artikel 4.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:1&z=2003-01-01&g=2003-01-01), worden aangewezen waarop dit artikel van overeenkomstige toepassing is.
+4. Bij collectieve regeling kan een door godsdienstige opvattingen ingegeven feestdag, anders dan bedoeld in [artikel 4.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:1&z=2003-01-30&g=2003-01-30), worden aangewezen waarop dit artikel van overeenkomstige toepassing is.
 
 #### § 4.3. Noodzakelijke werkzaamheden
 
@@ -330,11 +330,11 @@ Voor de toepassing van deze paragraaf wordt verstaan onder feestdag: Nieuwjaarsd
 
 ##### Artikel 4.4:1
 
-1. Ten aanzien van de arbeidstijd per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd kan, in afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet en de [paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&z=2003-01-01&g=2003-01-01) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&z=2003-01-01&g=2003-01-01) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&z=2003-01-01&g=2003-01-01), dit artikel worden toegepast.
+1. Ten aanzien van de arbeidstijd per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd kan, in afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet en de [paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&z=2003-01-30&g=2003-01-30) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&z=2003-01-30&g=2003-01-30) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&z=2003-01-30&g=2003-01-30), dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de arbeidstijd per dienst of per nachtdienst onderscheidenlijk de onafgebroken rusttijd met ten hoogste 15 achtereenvolgende minuten wordt verlengd onderscheidenlijk ingekort, indien de werkzaamheden van de werknemer van 18 jaar of ouder aan het einde van zijn dienst onderscheidenlijk nachtdienst worden overgenomen en direct daaropvolgend worden voortgezet door een andere werknemer en een goede voortgang van die werkzaamheden overdracht noodzakelijk maakt.
 
-3. Op de afwijking, bedoeld in het tweede lid, zijn [artikel 5:8, eerste lid, onderdeel **b**, en derde lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet en de[artikelen 4.7:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:1&z=2003-01-01&g=2003-01-01), [5.1:4, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-01&g=2003-01-01), 5.2:3, derde lid, [5.4:2, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2003-01-01&g=2003-01-01), [5.5:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2003-01-01&g=2003-01-01), [5.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:2&z=2003-01-01&g=2003-01-01), [5.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.8&artikel=5.8:3&z=2003-01-01&g=2003-01-01), [5.14:2, derde lid, onderdeel a, en vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01), [5.14:5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-01&g=2003-01-01), en [8.1:1, eerste lid](onbekend), niet van toepassing.
+3. Op de afwijking, bedoeld in het tweede lid, zijn [artikel 5:8, eerste lid, onderdeel **b**, en derde lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet en de[artikelen 4.7:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:1&z=2003-01-30&g=2003-01-30), [5.1:4, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-30&g=2003-01-30), 5.2:3, derde lid, [5.4:2, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2003-01-30&g=2003-01-30), [5.5:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2003-01-30&g=2003-01-30), [5.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:2&z=2003-01-30&g=2003-01-30), [5.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.8&artikel=5.8:3&z=2003-01-30&g=2003-01-30), [5.14:2, derde lid, onderdeel a, en vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30), [5.14:5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-30&g=2003-01-30), en [8.1:1, eerste lid](onbekend), niet van toepassing.
 
 #### § 4.5. Ploegenarbeid
 
@@ -358,7 +358,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die semi- of volcontinu i
 
 5. De in het tweede en vierde lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### 7/5-regeling
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 4.5:3
 
@@ -372,7 +372,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die semi- of volcontinu i
 
 3. Indien dit artikel wordt toegepast, organiseert de werkgever de arbeid van de in dat lid bedoelde werknemer zodanig, dat deze op ten minste 26 zondagen in elke periode van 52 achtereenvolgende weken geen arbeid verricht.
 
-#### Arbeid op zondag
+#### 7/5-regeling
 
 ##### Artikel 4.5:4
 
@@ -380,13 +380,13 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die semi- of volcontinu i
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer de in het[tweede lid van artikel 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10) van de wet bedoelde pauze heeft.
 
-#### Pauze
+#### Arbeid op zondag
 
 ##### Artikel 4.5:5
 
 1. Van [artikel 5:8, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet kan ten aanzien van de arbeidstijd per nachtdienst en van [artikel 5:8, derde lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), worden afgeweken, indien zich incidentele en onvoorziene omstandigheden voordoen waardoor het aantal werknemers in een ploeg onder het vereiste minimum komt, die een dergelijke afwijking noodzakelijk maken.
 
-2. Onverminderd [de artikelen 4.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-01&g=2003-01-01) en [4.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-01&g=2003-01-01) organiseert de werkgever de arbeid zodanig, dat de werknemer:
+2. Onverminderd [de artikelen 4.2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-30&g=2003-01-30) en [4.5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-30&g=2003-01-30) organiseert de werkgever de arbeid zodanig, dat de werknemer:
 
 - a. gedurende ten hoogste 2 maal in elke periode van 4 achtereenvolgende weken en 8 maal in elke periode van 52 achtereenvolgende weken, ten hoogste 11 uren per nachtdienst arbeid verricht;
 
@@ -408,7 +408,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die semi- of volcontinu i
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer in elke periode van 52 achtereenvolgende weken gemiddeld ten hoogste 40 uren per week arbeid verricht.
 
-4. Indien het eerste lid wordt toegepast, organiseert de werkgever in afwijking van de[artikelen 4.2:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-01&g=2003-01-01), [4.5:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-01&g=2003-01-01), [5.2:2, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:2&z=2003-01-01&g=2003-01-01), en [5.6:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:3&z=2003-01-01&g=2003-01-01), de arbeid zodanig, dat de werknemer ten hoogste 12 uren per dienst onderscheidenlijk per nachtdienst arbeid verricht.
+4. Indien het eerste lid wordt toegepast, organiseert de werkgever in afwijking van de[artikelen 4.2:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-30&g=2003-01-30), [4.5:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-30&g=2003-01-30), [5.2:2, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:2&z=2003-01-30&g=2003-01-30), en [5.6:3, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:3&z=2003-01-30&g=2003-01-30), de arbeid zodanig, dat de werknemer ten hoogste 12 uren per dienst onderscheidenlijk per nachtdienst arbeid verricht.
 
 #### Afwijking pauzeregeling
 
@@ -458,9 +458,9 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die semi- of volcontinu i
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 12 uren per dienst arbeid verricht.
 
-3. Dit artikel kan uitsluitend worden toegepast, indien [artikel 4.8:1, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01), van toepassing is.
+3. Dit artikel kan uitsluitend worden toegepast, indien [artikel 4.8:1, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30), van toepassing is.
 
-#### Arbeidstijd inclusief overwerk
+#### Aanwezigheidsdienst
 
 ##### Artikel 4.8:3
 
@@ -508,7 +508,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder baggerwerkzaamheden: 
 
 Deze paragraaf is uitsluitend van toepassing op baggerwerkzaamheden op het Nederlands territoir, verricht door een werknemer van 18 jaar of ouder die geen schepeling als bedoeld in [artikel 6.1:2 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=6.1:2) of bemanningslid als bedoeld in [artikel 1, onderdeel **b**, van de Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029&artikel=1) is.
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip baggerwerkzaamheden
 
 ##### Artikel 5.1:3
 
@@ -516,11 +516,11 @@ Deze paragraaf is uitsluitend van toepassing op baggerwerkzaamheden op het Neder
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 11 uren per dienst, in elke periode van 4 achtereenvolgende weken gemiddeld 45 uren per week en in elke periode van 13 achtereenvolgende weken gemiddeld 40 uren per week arbeid verricht.
 
-#### Arbeidstijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.1:4
 
-1. In afwijking van [artikel 5:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet kan, met inachtneming van [artikel 5.1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-01&g=2003-01-01), dit artikel worden toegepast.
+1. In afwijking van [artikel 5:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet kan, met inachtneming van [artikel 5.1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-30&g=2003-01-30), dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer die arbeid verricht in nachtdienst:
 
@@ -530,11 +530,11 @@ Deze paragraaf is uitsluitend van toepassing op baggerwerkzaamheden op het Neder
 
 - c. na een reeks van ten minste 3 en ten hoogste 7 maal achtereen arbeid te hebben verricht in nachtdienst, een onafgebroken rusttijd heeft van ten minste 60 uren.
 
-#### Arbeid in nachtdienst
+#### Arbeidstijd
 
 ##### Artikel 5.1:5
 
-1. Met uitsluiting van hetgeen in [artikel 4.6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.6&artikel=4.6:2&z=2003-01-01&g=2003-01-01) is bepaald, wordt, indien de[artikelen 5.1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-01&g=2003-01-01) en [5.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-01&g=2003-01-01) van toepassing zijn, in afwijking van [artikel 5:10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10), van de wet, dit artikel toegepast.
+1. Met uitsluiting van hetgeen in [artikel 4.6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.6&artikel=4.6:2&z=2003-01-30&g=2003-01-30) is bepaald, wordt, indien de[artikelen 5.1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-30&g=2003-01-30) en [5.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-30&g=2003-01-30) van toepassing zijn, in afwijking van [artikel 5:10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10), van de wet, dit artikel toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de in het[tweede lid van artikel 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10) van de wet bedoelde pauze ten minste één uur bedraagt, welke mag worden gesplitst in twee of meer pauzes.
 
@@ -560,7 +560,7 @@ Deze paragraaf is uitsluitend van toepassing op beveiligingswerkzaamheden die wo
 
 - c. ten minste 2 maal in elke periode van 4 achtereenvolgende weken geen arbeid verricht in de tijdruimte gelegen tussen zaterdag 00.00 uur en de daaropvolgende maandag 06.00 uur.
 
-#### Arbeid op zaterdag en zondag
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.2:3
 
@@ -568,7 +568,7 @@ Deze paragraaf is uitsluitend van toepassing op beveiligingswerkzaamheden die wo
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer die arbeid verricht in nachtdienst hetzij ten hoogste 42 maal in elke periode van 13 achtereenvolgende weken en 140 maal in elke periode van 52 achtereenvolgende weken arbeid in nachtdienst verricht, hetzij ten hoogste 38 uren in elke periode van 2 achtereenvolgende weken arbeid verricht tussen 00.00 uur en 06.00 uur.
 
-#### Arbeid in nachtdienst
+#### Arbeid op zaterdag en zondag
 
 ##### Artikel 5.2:4
 
@@ -596,13 +596,13 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 3. Indien dit door het nemen van andere maatregelen redelijkerwijs niet is te voorkomen, organiseert de werkgever de arbeid zodanig, dat de in het eerste lid bedoelde werknemer gedurende ten minste 13 maal een aaneengesloten tijdruimte van 7 maal 24 uren in elke periode van 26 achtereenvolgende weken geen consignatie tussen twee opeenvolgende diensten wordt opgelegd.
 
-#### Consignatie
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.3:3
 
 1. Dit artikel is niet van toepassing op de werknemer die lid is van de vrijwillige brandweer.
 
-2. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
+2. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
 
 3. De werknemer:
 
@@ -628,7 +628,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 1. Dit artikel is uitsluitend van toepassing op de werknemer die lid is van de vrijwillige brandweer.
 
-2. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
+2. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
 
 3. Een aanwezigheidsdienst wordt, met inachtneming van het vierde lid, uitsluitend bij collectieve regeling bepaald. Elk beding waarbij op andere wijze dan in de eerste volzin is bepaald, gebruik wordt gemaakt van het vierde lid, is nietig.
 
@@ -640,7 +640,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werkneme
 
 #### § 5.4. Brood- en banketbakkerij
 
-#### Toepasselijkheid van de paragraaf
+#### Aanwezigheidsdienst
 
 ##### Artikel 5.4:1
 
@@ -678,7 +678,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid“arbeid” moet zijn “
 
 #### § 5.5. Dagbladbedrijf
 
-#### Toepasselijkheid van de paragraaf
+#### Arbeid in nachtdienst
 
 ##### Artikel 5.5:1
 
@@ -706,11 +706,11 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensieper
 
 1. Dit artikel is uitsluitend van toepassing op arbeid verricht door defensiepersoneel als bedoeld in [artikel 1:7, onderdeel **b**, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=1:7), van de wet.
 
-2. Voor de toepassing van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet wordt de jeugdige werknemer, met inachtneming van het derde lid, gelijkgesteld aan de werknemer van 18 jaar of ouder. Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&z=2003-01-01&g=2003-01-01), is de eerste volzin van overeenkomstige toepassing.
+2. Voor de toepassing van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet wordt de jeugdige werknemer, met inachtneming van het derde lid, gelijkgesteld aan de werknemer van 18 jaar of ouder. Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&z=2003-01-30&g=2003-01-30), is de eerste volzin van overeenkomstige toepassing.
 
 3. De werkgever organiseert de arbeid zodanig, dat de jeugdige werknemer in elke periode van 13 achtereenvolgende weken gemiddeld ten hoogste 40 uren per week arbeid verricht.
 
-#### Jeugdige werknemers
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.6:3
 
@@ -724,11 +724,11 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensieper
 
 - c. ten minste 2 maal in elke periode van 4 achtereenvolgende weken geen arbeid verricht in de tijdruimte gelegen tussen zaterdag 00.00 uur en de daaropvolgende maandag 06.00 uur.
 
-#### Arbeid op zaterdag en zondag
+#### Jeugdige werknemers
 
 ##### Artikel 5.6:4
 
-1. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
+1. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), van de wet dit artikel worden toegepast.
 
 2. Een aanwezigheidsdienst wordt, met inachtneming van het derde en vierde lid, uitsluitend bij collectieve regeling bepaald. Elk beding waarbij op andere wijze dan in de eerste volzin is bepaald, gebruik wordt gemaakt van het derde en vierde lid, is nietig.
 
@@ -740,7 +740,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensieper
 
 - b. na die aanwezigheidsdienst of reeks van aaneengesloten aanwezigheidsdiensten een onafgebroken rusttijd heeft die ten minste even lang is als de voorafgaande aanwezigheidsdienst onderscheidenlijk reeks van aaneengesloten aanwezigheidsdiensten.
 
-#### Aanwezigheidsdienst
+#### Arbeid op zaterdag en zondag
 
 ##### Artikel 5.6:5
 
@@ -754,7 +754,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door defensieper
 
 - b. ten minste gedurende 8 maal een aaneengesloten tijdruimte van 7 maal 24 uren in elke periode van 13 achtereenvolgende weken geen piket, aanwezigheidsdienst of consignatie wordt opgelegd.
 
-#### Piket
+#### Aanwezigheidsdienst
 
 ##### Artikel 5.6:6
 
@@ -774,7 +774,7 @@ Vervallen
 
 #### § 5.7. Distributie en overslag
 
-#### Toepasselijkheid van de paragraaf
+#### Militaire luchtvaart
 
 ##### Artikel 5.7:1
 
@@ -802,7 +802,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder horecabedrijf: café'
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door de werknemer van 18 jaar of ouder in het horecabedrijf.
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip horecabedrijf
 
 ##### Artikel 5.8:3
 
@@ -824,7 +824,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder inlichtingen- en veil
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder in dienst van een inlichtingen- of veiligheidsdienst.
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip inlichtingen- en veiligheidsdienst
 
 ##### Artikel 5.9:3
 
@@ -844,7 +844,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 ##### Artikel 5.10:1
 
-In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet is, met uitsluiting van hetgeen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&z=2003-01-01&g=2003-01-01) en de [paragrafen 5.1 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&z=2003-01-01&g=2003-01-01) en [5.11 tot en met 5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.11&z=2003-01-01&g=2003-01-01) is bepaald, deze paragraaf van toepassing op arbeid als bedoeld in [artikel 2.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:4&z=2003-01-01&g=2003-01-01).
+In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&paragraaf=5.2) van de wet is, met uitsluiting van hetgeen in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&z=2003-01-30&g=2003-01-30) en de [paragrafen 5.1 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&z=2003-01-30&g=2003-01-30) en [5.11 tot en met 5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.11&z=2003-01-30&g=2003-01-30) is bepaald, deze paragraaf van toepassing op arbeid als bedoeld in [artikel 2.1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=2&paragraaf=2.1&artikel=2.1:4&z=2003-01-30&g=2003-01-30).
 
 #### Toepasselijkheid van de paragraaf
 
@@ -854,13 +854,13 @@ In afwijking van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007671
 
 2. De in het eerste lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Wekelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.10:3
 
 De werknemer verricht op ten minste 4 zondagen in elke periode van 13 achtereenvolgende weken geen arbeid.
 
-#### Arbeid op zondag
+#### Wekelijkse onafgebroken rusttijd
 
 ##### Artikel 5.10:4
 
@@ -868,19 +868,19 @@ De werknemer verricht op ten minste 4 zondagen in elke periode van 13 achtereenv
 
 2. De in het eerste lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Dagelijkse onafgebroken rusttijd
+#### Arbeid op zondag
 
 ##### Artikel 5.10:5
 
 De werknemer verricht ten hoogste in elke periode van 4 achtereenvolgende weken gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken gemiddeld 45 uren per week arbeid.
 
-#### Arbeidstijd
+#### Dagelijkse onafgebroken rusttijd
 
 ##### Artikel 5.10:6
 
 De arbeid van de werknemer wordt na ten hoogste 4 uren aaneengesloten arbeid in een dienst onderbroken door een pauze.
 
-#### Pauze
+#### Arbeidstijd
 
 ##### Artikel 5.10:7
 
@@ -908,7 +908,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 3. Indien het tweede lid, onderdeel **b**, wordt toegepast, organiseert de werkgever de arbeid zodanig, dat de werknemer na het verrichten van die arbeid een onafgebroken rusttijd heeft van ten minste 24 uren.
 
-#### Wekelijkse of dagelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.11:3
 
@@ -922,7 +922,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 ##### Artikel 5.12:1
 
-Met uitsluiting van hetgeen in [paragraaf 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&z=2003-01-01&g=2003-01-01) is bepaald, is deze paragraaf uitsluitend van toepassing op arbeid, die bestaat uit werkzaamheden met betrekking tot het totstandkomen en het uitzenden van audio-, visuele of audio-visuele producties alsmede de direct daarmee samenhangende werkzaamheden, verricht door werknemers van 18 jaar of ouder.
+Met uitsluiting van hetgeen in [paragraaf 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&z=2003-01-30&g=2003-01-30) is bepaald, is deze paragraaf uitsluitend van toepassing op arbeid, die bestaat uit werkzaamheden met betrekking tot het totstandkomen en het uitzenden van audio-, visuele of audio-visuele producties alsmede de direct daarmee samenhangende werkzaamheden, verricht door werknemers van 18 jaar of ouder.
 
 #### Toepasselijkheid van de paragraaf
 
@@ -960,7 +960,7 @@ Elk beding waarbij op andere wijze dan in de vorige volzin is bepaald, wordt afg
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer een onafgebroken rusttijd heeft van hetzij ten minste 36 uren in elke aaneengesloten tijdruimte van 7 maal 24 uren, hetzij ten minste 60 uren in elke aaneengesloten tijdruimte van 14 maal 24 uren.
 
-#### Wekelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.13:3
 
@@ -1020,13 +1020,13 @@ Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid v
 
 2. In afwijking van de[artikelen 5:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:8, derde lid, met uitzondering van onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), van de wet ten aanzien van de arbeidstijd per dienst onderscheidenlijk per nachtdienst kan dit artikel worden toegepast. Uitsluitend bij collectieve regeling kan worden afgeweken van de[artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), en [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet. Elk beding waarop op andere wijze dan in de vorige volzin is bepaald, wordt afgeweken van de[artikelen 5:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), en [5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet is nietig.
 
-3. [Artikel 5.14:2, vijfde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01), zijn van overeenkomstige toepassing.
+3. [Artikel 5.14:2, vijfde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30), zijn van overeenkomstige toepassing.
 
 #### Verplaatsbare mijnbouwinstallatie
 
 ##### Artikel 5.14:4
 
-[Artikel 5.14:2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01), is niet van toepassing op arbeid verricht door werknemers in dienst van een niet in Nederland gevestigde werkgever op of vanaf een in zijn geheel verplaatsbare mijnbouwinstallatie.
+[Artikel 5.14:2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30), is niet van toepassing op arbeid verricht door werknemers in dienst van een niet in Nederland gevestigde werkgever op of vanaf een in zijn geheel verplaatsbare mijnbouwinstallatie.
 
 #### Verplaatsbare mijnbouwinstallatie
 
@@ -1050,15 +1050,15 @@ Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid v
 
 6. Indien dit artikel wordt toegepast, organiseert de werkgever de arbeid van de werknemer zodanig, dat tegenover iedere periode van 24 uren welke wordt doorgebracht op of vanaf een mijnbouwwerk in een periode van 13 achtereenvolgende weken een onafgebroken rusttijd staat van ten minste 24 uren elders.
 
-#### Arbeids- en rusttijden in een niet-bestendig en -regelmatig arbeidstijdpatroon
+#### Verplaatsbare mijnbouwinstallatie
 
 ##### Artikel 5.14:6
 
-1. In afwijking van [artikel 5:10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10), van de wet wordt, indien de[artikelen 5.14:2 tot en met 5.14:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01)van toepassing zijn, dit artikel toegepast.
+1. In afwijking van [artikel 5:10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10), van de wet wordt, indien de[artikelen 5.14:2 tot en met 5.14:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30)van toepassing zijn, dit artikel toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de in het[tweede lid van artikel 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:10) van de wet bedoelde pauze ten minste één uur bedraagt, welke mag worden gesplitst in 2 of meer pauzes.
 
-#### Pauze
+#### Arbeids- en rusttijden in een niet-bestendig en -regelmatig arbeidstijdpatroon
 
 ##### Artikel 5.14:7
 
@@ -1066,7 +1066,7 @@ Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid v
 
 2. De werkgever organiseert de arbeid zodanig dat de werknemer die consignatie wordt opgelegd ten hoogste 13 uren in elke periode van 24 achtereenvolgende uren en 85 uren per week arbeid verricht.
 
-#### Consignatie
+#### Pauze
 
 ##### Artikel 5.14:8
 
@@ -1084,7 +1084,7 @@ Deze paragraaf is van toepassing op werknemers van 18 jaar of ouder die arbeid v
 
 - d. ten hoogste 10 uren arbeid verricht per nachtdienst.
 
-#### Duikwerkzaamheden
+#### Consignatie
 
 ##### Artikel 5.14:9
 
@@ -1114,7 +1114,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder mobiele kraan hetgeen
 
 Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerkzaamheden met een mobiele kraan en de direct daarmee samenhangende werkzaamheden, alsmede het gebruik van de openbare weg door die kraan, verricht door een werknemer van 18 jaar of ouder, die in het bezit is van een certificaat van vakbekwaamheid als bedoeld in [artikel 7.32, eerste lid, onder a, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32).
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip mobiele kraan
 
 ##### Artikel 5.15:3
 
@@ -1122,7 +1122,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerk
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 10 uren per nachtdienst arbeid verricht.
 
-#### Arbeid in nachtdienst
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.15:4
 
@@ -1138,7 +1138,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerk
 
 1. Deze paragraaf is van toepassing op arbeid, die bestaat uit werkzaamheden met betrekking tot uitvoeringen van culturele of artistieke aard of uitvoeringen die daarmee gelijkenis vertonen alsmede de direct daarmee samenhangende werkzaamheden, verricht door een werknemer van 18 jaar of ouder.
 
-2. De[artikelen 5.16:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:3&z=2003-01-01&g=2003-01-01) en[5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-01&g=2003-01-01) zijn van toepassing op arbeid, verricht in een bioscoop door een werknemer van 18 jaar of ouder en die bestaat uit het uitsluitend of in hoofdzaak:
+2. De[artikelen 5.16:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:3&z=2003-01-30&g=2003-01-30) en[5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-30&g=2003-01-30) zijn van toepassing op arbeid, verricht in een bioscoop door een werknemer van 18 jaar of ouder en die bestaat uit het uitsluitend of in hoofdzaak:
 
 - a. bedienen van filmapparatuur als operateur of leerlingoperateur, of
 
@@ -1158,15 +1158,15 @@ Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerk
 
 5. De in het tweede en vierde lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Wekelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.16:3
 
-1. In afwijking van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet kan, uitsluitend indien [artikel 5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-01&g=2003-01-01) van toepassing is, dit artikel worden toegepast.
+1. In afwijking van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet kan, uitsluitend indien [artikel 5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-30&g=2003-01-30) van toepassing is, dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer een onafgebroken rusttijd heeft van ten minste 11 uren in een aangesloten tijdruimte van 24 uren, welke rusttijd 4 maal in elke periode van 4 achtereenvolgende weken mag worden ingekort tot ten minste 8 uren. De in de vorige volzin bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Dagelijkse onafgebroken rusttijd
+#### Wekelijkse onafgebroken rusttijd
 
 ##### Artikel 5.16:4
 
@@ -1174,7 +1174,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerk
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 12 uren per dienst onderscheidenlijk per nachtdienst, 72 uren per week, in elke periode van 13 achtereenvolgende weken gemiddeld 48 uren per week en in elke periode van 52 achtereenvolgende weken gemiddeld 40 uren per week arbeid verricht. In afwijking van de eerste volzin ten aanzien van de arbeidstijd per dienst onderscheidenlijk per nachtdienst, kan de werkgever de arbeid zodanig organseren, dat de werknemer ten hoogste 26 maal in elke periode van 52 achtereenvolgende weken ten hoogste 14 uren per dienst onderscheidenlijk per nachtdienst arbeid verricht, mits die werknemer vóór en ná die dienst een onafgebroken rusttijd heeft van ten minste 24 uren.
 
-#### Arbeidstijd inclusief overwerk
+#### Dagelijkse onafgebroken rusttijd
 
 ##### Artikel 5.16:5
 
@@ -1190,7 +1190,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid, die bestaat uit hijswerk
 
 3. De in het tweede lid, onderdeel **b**, bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-4. [Artikel 5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-01&g=2003-01-01) is niet van toepassing als dit artikel wordt toegepast.
+4. [Artikel 5.16:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-30&g=2003-01-30) is niet van toepassing als dit artikel wordt toegepast.
 
 #### § 5.17. Uitvaartverzorging
 
@@ -1216,7 +1216,7 @@ Vervallen
 
 #### § 5.18. Schoonmaakbedrijf
 
-#### Begrip schoonmaakbedrijf
+#### Wekelijkse onafgebroken rusttijd
 
 ##### Artikel 5.18:1
 
@@ -1228,7 +1228,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder schoonmaakbedrijf: ee
 
 Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknemer van 18 jaar of ouder in een schoonmaakbedrijf.
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip schoonmaakbedrijf
 
 ##### Artikel 5.18:3
 
@@ -1238,7 +1238,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid verricht door een werknem
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer een onafgebroken rusttijd heeft van ten minste 10 uren in een aaneengesloten tijdruimte van 24 uren. De in de vorige volzin bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag waarop de werknemer arbeid verricht.
 
-#### Dagelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.18:4
 
@@ -1266,7 +1266,7 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die bestaat uit verplegin
 
 3. De werkgever organiseert de arbeid van de werknemer zodanig, dat diens onafgebroken rusttijd in elke aaneengesloten tijdruimte van 7 maal 24 uren ten hoogste éénmaal wordt ingekort tot ten minste 10 uren.
 
-#### Rusttijden
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.19:3
 
@@ -1276,9 +1276,9 @@ Deze paragraaf is uitsluitend van toepassing op arbeid die bestaat uit verplegin
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 3 maal in elke tijdruimte van 7 maal 24 uren en 26 maal in elke periode van 13 achtereenvolgende weken een bereikbaarheidsdienst wordt opgelegd.
 
-4. De werkgever organiseert de arbeid zodanig dat de werknemer in elke periode van 13 weken ten hoogste gemiddeld 45 uren per week arbeid verricht mits hij voldoet aan de voorwaarden, bedoeld in [artikel 4.8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-01&g=2003-01-01), of aan een de voorwaarden, bedoeld in [artikel 4.8:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-01&g=2003-01-01).
+4. De werkgever organiseert de arbeid zodanig dat de werknemer in elke periode van 13 weken ten hoogste gemiddeld 45 uren per week arbeid verricht mits hij voldoet aan de voorwaarden, bedoeld in [artikel 4.8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-30&g=2003-01-30), of aan een de voorwaarden, bedoeld in [artikel 4.8:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-30&g=2003-01-30).
 
-#### Bereikbaarheidsdienst
+#### Rusttijden
 
 ##### Artikel 5.19:4
 
@@ -1308,11 +1308,11 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 48 uren per week arbeid verricht.
 
-#### Arbeidstijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.20:3
 
-1. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), ten aanzien van de arbeidstijd per periode van 24 achtereenvolgende uren, van de wet en in afwijking van [artikel 4.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2003-01-01&g=2003-01-01), ten aanzien van de verlenging van de arbeidstijd per dienst onderscheidenlijk van de inkorting van de onafgebroken rusttijd, dit artikel worden toegepast.
+1. Met uitsluiting van hetgeen in [artikel 4.8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30) is bepaald, kan, ter aanvulling van [artikel 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11) van de wet en in afwijking van [artikel 5:11, derde lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:11), ten aanzien van de arbeidstijd per periode van 24 achtereenvolgende uren, van de wet en in afwijking van [artikel 4.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2003-01-30&g=2003-01-30), ten aanzien van de verlenging van de arbeidstijd per dienst onderscheidenlijk van de inkorting van de onafgebroken rusttijd, dit artikel worden toegepast.
 
 2. Een aanwezigheidsdienst wordt, met inachtneming van het derde, vierde en vijfde lid, uitsluitend bij collectieve regeling bepaald. Elk beding waarin op andere wijze dan in de eerste volzin is bepaald, gebruik wordt gemaakt van het derde, vierde of vijfde lid, is nietig.
 
@@ -1334,7 +1334,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 - b. vóór en nà een aanwezigheidsdienst een onafgebroken rusttijd heeft van ten minste 9 uren.
 
-#### Aanwezigheidsdienst
+#### Arbeidstijd
 
 ##### Artikel 5.20:4
 
@@ -1344,7 +1344,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 5 maal in elke tijdruimte van 7 maal 24 uren en 26 maal in elke periode van 13 achtereenvolgende weken een bereikbaarheidsdienst wordt opgelegd.
 
-#### Bereikbaarheidsdienst
+#### Aanwezigheidsdienst
 
 ##### Artikel 5.20:5
 
@@ -1372,7 +1372,7 @@ Deze paragraaf is uitsluitend van toepassing op de werknemer van 18 jaar of oude
 
 - b. ten hoogste 60 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week arbeid verricht.
 
-#### Bereikbaarheidsdienst
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.21:3
 
@@ -1410,7 +1410,7 @@ Vervallen
 
 #### § 5.23. Tentoonstellingsbouw
 
-#### Toepasselijkheid van de paragraaf
+#### Arbeid in nachtdienst
 
 ##### Artikel 5.23:1
 
@@ -1434,17 +1434,17 @@ Deze paragraaf is van toepassing op arbeid, verricht door een werknemer van 18 j
 
 5. De in het tweede en vierde lid bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Wekelijkse onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.23:3
 
-1. In afwijking van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet kan, uitsluitend indien [artikel 5.23:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:4&z=2003-01-01&g=2003-01-01) van toepassing is, dit artikel worden toegepast.
+1. In afwijking van [artikel 5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), van de wet kan, uitsluitend indien [artikel 5.23:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:4&z=2003-01-30&g=2003-01-30) van toepassing is, dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer een onafgebroken rusttijd heeft van ten minste 11 uren in een aangesloten tijdruimte van 24 uren, welke rusttijd 4 maal in elke periode van 4 achtereenvolgende weken mag worden ingekort tot ten minste 8 uren.
 
 3. De in het tweede bedoelde tijdruimte vangt aan op het eerste tijdstip van de dag, waarop de werknemer arbeid verricht.
 
-#### Dagelijkse onafgebroken rusttijd
+#### Wekelijkse onafgebroken rusttijd
 
 ##### Artikel 5.23:4
 
@@ -1480,7 +1480,7 @@ Onder instellingen voor maatschappelijke opvang wordt verstaan: algemene crisiso
 
 Deze paragraaf is uitsluitend van toepassing op arbeid, verricht door werknemers van 18 jaar of ouder in instellingen voor maatschappelijke opvang.
 
-#### Toepasselijkheid van de paragraaf
+#### Het begrip maatschappelijke opvang
 
 ##### Artikel 5.25:3
 
@@ -1502,9 +1502,9 @@ Voor de toepassing van deze paragraaf wordt onder binnenwateren verstaan: de bin
 
 1. Deze paragraaf is uitsluitend van toepassing op arbeid verricht aan boord van schepen op binnenwateren, met uitzondering van de schepen, bedoeld in [artikel 4 van de Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029&artikel=4), door werknemers van 18 jaar of ouder die geen bemanningslid zijn als bedoeld in [artikel 1, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006029&artikel=1).
 
-2. [Paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&z=2003-01-01&g=2003-01-01) is niet van toepassing als deze paragraaf wordt toegepast.
+2. [Paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&z=2003-01-30&g=2003-01-30) is niet van toepassing als deze paragraaf wordt toegepast.
 
-#### Toepasselijkheid van de paragraaf
+#### Begrip binnenwateren
 
 ##### Artikel 5.26:3
 
@@ -1514,11 +1514,11 @@ Voor de toepassing van deze paragraaf wordt onder binnenwateren verstaan: de bin
 
 3. De werkgever organiseert de arbeid zodanig dat de werknemer vanaf de dag nadat het schip de binnenwateren is binnengevaren een onafgebroken rusttijd heeft waarvan de omvang wordt bepaald door de uitkomst van de berekening van het aantal dagen dat de werknemer aan boord van het schip werkzaamheden heeft verricht, vermenigvuldigd met 6 uur.
 
-#### Onafgebroken rusttijd
+#### Toepasselijkheid van de paragraaf
 
 ##### Artikel 5.26:4
 
-1. Met uitsluiting van hetgeen in [artikel 4.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-01&g=2003-01-01) is bepaald, kan in afwijking van de[artikelen 5:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), van de wet ten aanzien van de arbeidstijd per dienst dit artikel worden toegepast.
+1. Met uitsluiting van hetgeen in [artikel 4.3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-30&g=2003-01-30) is bepaald, kan in afwijking van de[artikelen 5:7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), en [5:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), van de wet ten aanzien van de arbeidstijd per dienst dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig, dat de werknemer van 18 jaar of ouder ten hoogste éénmaal in elke periode van 2 achtereen-volgende weken 14 uren per dienst arbeid verricht.
 
@@ -1526,13 +1526,13 @@ Voor de toepassing van deze paragraaf wordt onder binnenwateren verstaan: de bin
 
 ##### Artikel 5.27:1
 
-Met uitsluiting van hetgeen in [paragraaf 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&z=2003-01-01&g=2003-01-01) is bepaald, is deze paragraaf is van toepassing op arbeid die bestaat uit ambulancezorg en de direct daarmee samenhangende werkzaamheden, verricht door de werknemer van 18 jaar of ouder.
+Met uitsluiting van hetgeen in [paragraaf 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&z=2003-01-30&g=2003-01-30) is bepaald, is deze paragraaf is van toepassing op arbeid die bestaat uit ambulancezorg en de direct daarmee samenhangende werkzaamheden, verricht door de werknemer van 18 jaar of ouder.
 
-#### Aanwezigheidsdienst
+#### Arbeidstijd inclusief overwerk
 
 ##### Artikel 5.27:2
 
-1. In afwijking van [artikel 4.8:1, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01), kan dit artikel worden toegepast.
+1. In afwijking van [artikel 4.8:1, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30), kan dit artikel worden toegepast.
 
 2. De werkgever organiseert de arbeid zodanig dat de werknemer vóór en nà een aanwezigheidsdienst een onafgebroken rusttijd heeft van ten minste 11 uren, welke rusttijd in elke aaneengesloten tijdruimte van 7 maal 24 uren mag worden ingekort tot éénmaal ten minste 10 uren enéé nmaal ten minste 8 uren.
 
@@ -1546,7 +1546,7 @@ Met uitsluiting van hetgeen in [paragraaf 5.19](https://wetten.overheid.nl/jci1.
 
 3. De werkgever organiseert de arbeid zodanig, dat de werknemer ten hoogste 3 maal in elke tijdruimte van 7 maal 24 uren en 37 maal in elke periode van 13 achtereenvolgende weken een bereikbaarheidsdienst wordt opgelegd.
 
-#### Bereikbaarheidsdienst
+#### Aanwezigheidsdienst
 
 ##### Artikel 5.27:4
 
@@ -1558,7 +1558,7 @@ Indien consignatie, aanwezigheidsdiensten en bereikbaarheidsdiensten worden opge
 
 ##### Artikel 7:1
 
-Het niet-naleven van de[artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2003-01-01&g=2003-01-01), [3.1:2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:2&z=2003-01-01&g=2003-01-01), [3.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.2&artikel=3.2:1&z=2003-01-01&g=2003-01-01), [4.1:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&artikel=4.1:2&z=2003-01-01&g=2003-01-01), [4.1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&artikel=4.1:3&z=2003-01-01&g=2003-01-01), [4.2:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:2&z=2003-01-01&g=2003-01-01), [4.2:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-01&g=2003-01-01), [4.3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-01&g=2003-01-01), [4.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2003-01-01&g=2003-01-01), [4.5;2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:2&z=2003-01-01&g=2003-01-01), [4.5:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-01&g=2003-01-01), [4.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:4&z=2003-01-01&g=2003-01-01),[4.5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:5&z=2003-01-01&g=2003-01-01), [4.6:1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.6&artikel=4.6:1&z=2003-01-01&g=2003-01-01), [4.7:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:1&z=2003-01-01&g=2003-01-01), [4.8:1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-01&g=2003-01-01), [4.8:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:2&z=2003-01-01&g=2003-01-01), [4.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2003-01-01&g=2003-01-01), [4.8:4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-01&g=2003-01-01), [4.9:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.9&artikel=4.9:1&z=2003-01-01&g=2003-01-01)”"lid”" moet zijn "lid,"[5.1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-01&g=2003-01-01), [5.1:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-01&g=2003-01-01), [5.1:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:5&z=2003-01-01&g=2003-01-01), [5.2:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:2&z=2003-01-01&g=2003-01-01), [5.2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:3&z=2003-01-01&g=2003-01-01), [5.3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:2&z=2003-01-01&g=2003-01-01), [5.3:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:3&z=2003-01-01&g=2003-01-01), [5.3:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:4&z=2003-01-01&g=2003-01-01),[5.4:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2003-01-01&g=2003-01-01), [5.4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:3&z=2003-01-01&g=2003-01-01), [5.5:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2003-01-01&g=2003-01-01), [5.6:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:2&z=2003-01-01&g=2003-01-01), [5.6:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:3&z=2003-01-01&g=2003-01-01), [5.6:4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:4&z=2003-01-01&g=2003-01-01), [5.6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:5&z=2003-01-01&g=2003-01-01),[5.6:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:6&z=2003-01-01&g=2003-01-01), [5.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:2&z=2003-01-01&g=2003-01-01), [5.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.8&artikel=5.8:3&z=2003-01-01&g=2003-01-01), [5.9:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.9&artikel=5.9:3&z=2003-01-01&g=2003-01-01), [5.11:2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.11&artikel=5.11:2&z=2003-01-01&g=2003-01-01), [5.12:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.12&artikel=5.12:2&z=2003-01-01&g=2003-01-01), [5.13:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.13&artikel=5.13:2&z=2003-01-01&g=2003-01-01), [5.14:2, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01), [5.14:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:3&z=2003-01-01&g=2003-01-01), voor zover het betreft [artikel 5.14:2, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-01&g=2003-01-01), [5.14:5, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-01&g=2003-01-01), [5.14:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:6&z=2003-01-01&g=2003-01-01),[5.14:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:7&z=2003-01-01&g=2003-01-01), [5.14:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:8&z=2003-01-01&g=2003-01-01), [5.14:9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:9&z=2003-01-01&g=2003-01-01), [5.15:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&artikel=5.15:3&z=2003-01-01&g=2003-01-01), [5.15:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&artikel=5.15:4&z=2003-01-01&g=2003-01-01), [5.16:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:2&z=2003-01-01&g=2003-01-01), [5.16:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:3&z=2003-01-01&g=2003-01-01), [5.16:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-01&g=2003-01-01), [5.16:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:5&z=2003-01-01&g=2003-01-01), [5.17:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.17&artikel=5.17:2&z=2003-01-01&g=2003-01-01), [5.18:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.18&artikel=5.18:3&z=2003-01-01&g=2003-01-01), [5.18:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.18&artikel=5.18:4&z=2003-01-01&g=2003-01-01), [5.19:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:2&z=2003-01-01&g=2003-01-01), [5.19:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:3&z=2003-01-01&g=2003-01-01), [5.19:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:4&z=2003-01-01&g=2003-01-01), [5.20:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:2&z=2003-01-01&g=2003-01-01), [5.20:3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:3&z=2003-01-01&g=2003-01-01), [5.20:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:4&z=2003-01-01&g=2003-01-01), [5.20:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:5&z=2003-01-01&g=2003-01-01), [5.21:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:2&z=2003-01-01&g=2003-01-01), [5.21:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:3&z=2003-01-01&g=2003-01-01), [5.22:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:2&z=2003-01-01&g=2003-01-01), [5.23:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:2&z=2003-01-01&g=2003-01-01), [5.23:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:3&z=2003-01-01&g=2003-01-01), [5.23;4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:4&z=2003-01-01&g=2003-01-01), [5.24:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.24&artikel=5.24:2&z=2003-01-01&g=2003-01-01), [5.25:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.25&artikel=5.25:3&z=2003-01-01&g=2003-01-01), [5.26:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:3&z=2003-01-01&g=2003-01-01), [5.26:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:4&z=2003-01-01&g=2003-01-01), [5.27:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:2&z=2003-01-01&g=2003-01-01), [5.27:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:3&z=2003-01-01&g=2003-01-01), [5.27:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:4&z=2003-01-01&g=2003-01-01), [5.22:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:2&z=2003-01-01&g=2003-01-01), [5.22:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:3&z=2003-01-01&g=2003-01-01), en [8.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=8&paragraaf=8.1&artikel=8.1:1&z=2003-01-01&g=2003-01-01) alsmede het bepaalde krachtens [artikel 3.1:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:2&z=2003-01-01&g=2003-01-01), levert een strafbaar feit op.
+Het niet-naleven van de[artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:1&z=2003-01-30&g=2003-01-30), [3.1:2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:2&z=2003-01-30&g=2003-01-30), [3.2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.2&artikel=3.2:1&z=2003-01-30&g=2003-01-30), [4.1:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&artikel=4.1:2&z=2003-01-30&g=2003-01-30), [4.1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.1&artikel=4.1:3&z=2003-01-30&g=2003-01-30), [4.2:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:2&z=2003-01-30&g=2003-01-30), [4.2:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.2&artikel=4.2:3&z=2003-01-30&g=2003-01-30), [4.3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.3&artikel=4.3:1&z=2003-01-30&g=2003-01-30), [4.4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.4&artikel=4.4:1&z=2003-01-30&g=2003-01-30), [4.5;2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:2&z=2003-01-30&g=2003-01-30), [4.5:3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:3&z=2003-01-30&g=2003-01-30), [4.5:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:4&z=2003-01-30&g=2003-01-30),[4.5:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.5&artikel=4.5:5&z=2003-01-30&g=2003-01-30), [4.6:1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.6&artikel=4.6:1&z=2003-01-30&g=2003-01-30), [4.7:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.7&artikel=4.7:1&z=2003-01-30&g=2003-01-30), [4.8:1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:1&z=2003-01-30&g=2003-01-30), [4.8:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:2&z=2003-01-30&g=2003-01-30), [4.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:3&z=2003-01-30&g=2003-01-30), [4.8:4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.8&artikel=4.8:4&z=2003-01-30&g=2003-01-30), [4.9:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=4&paragraaf=4.9&artikel=4.9:1&z=2003-01-30&g=2003-01-30)”"lid”" moet zijn "lid,"[5.1:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:3&z=2003-01-30&g=2003-01-30), [5.1:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:4&z=2003-01-30&g=2003-01-30), [5.1:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.1&artikel=5.1:5&z=2003-01-30&g=2003-01-30), [5.2:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:2&z=2003-01-30&g=2003-01-30), [5.2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.2&artikel=5.2:3&z=2003-01-30&g=2003-01-30), [5.3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:2&z=2003-01-30&g=2003-01-30), [5.3:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:3&z=2003-01-30&g=2003-01-30), [5.3:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.3&artikel=5.3:4&z=2003-01-30&g=2003-01-30),[5.4:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:2&z=2003-01-30&g=2003-01-30), [5.4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.4&artikel=5.4:3&z=2003-01-30&g=2003-01-30), [5.5:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.5&artikel=5.5:2&z=2003-01-30&g=2003-01-30), [5.6:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:2&z=2003-01-30&g=2003-01-30), [5.6:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:3&z=2003-01-30&g=2003-01-30), [5.6:4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:4&z=2003-01-30&g=2003-01-30), [5.6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:5&z=2003-01-30&g=2003-01-30),[5.6:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.6&artikel=5.6:6&z=2003-01-30&g=2003-01-30), [5.7:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.7&artikel=5.7:2&z=2003-01-30&g=2003-01-30), [5.8:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.8&artikel=5.8:3&z=2003-01-30&g=2003-01-30), [5.9:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.9&artikel=5.9:3&z=2003-01-30&g=2003-01-30), [5.11:2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.11&artikel=5.11:2&z=2003-01-30&g=2003-01-30), [5.12:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.12&artikel=5.12:2&z=2003-01-30&g=2003-01-30), [5.13:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.13&artikel=5.13:2&z=2003-01-30&g=2003-01-30), [5.14:2, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30), [5.14:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:3&z=2003-01-30&g=2003-01-30), voor zover het betreft [artikel 5.14:2, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:2&z=2003-01-30&g=2003-01-30), [5.14:5, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:5&z=2003-01-30&g=2003-01-30), [5.14:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:6&z=2003-01-30&g=2003-01-30),[5.14:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:7&z=2003-01-30&g=2003-01-30), [5.14:8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:8&z=2003-01-30&g=2003-01-30), [5.14:9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.14&artikel=5.14:9&z=2003-01-30&g=2003-01-30), [5.15:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&artikel=5.15:3&z=2003-01-30&g=2003-01-30), [5.15:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.15&artikel=5.15:4&z=2003-01-30&g=2003-01-30), [5.16:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:2&z=2003-01-30&g=2003-01-30), [5.16:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:3&z=2003-01-30&g=2003-01-30), [5.16:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:4&z=2003-01-30&g=2003-01-30), [5.16:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.16&artikel=5.16:5&z=2003-01-30&g=2003-01-30), [5.17:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.17&artikel=5.17:2&z=2003-01-30&g=2003-01-30), [5.18:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.18&artikel=5.18:3&z=2003-01-30&g=2003-01-30), [5.18:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.18&artikel=5.18:4&z=2003-01-30&g=2003-01-30), [5.19:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:2&z=2003-01-30&g=2003-01-30), [5.19:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:3&z=2003-01-30&g=2003-01-30), [5.19:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.19&artikel=5.19:4&z=2003-01-30&g=2003-01-30), [5.20:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:2&z=2003-01-30&g=2003-01-30), [5.20:3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:3&z=2003-01-30&g=2003-01-30), [5.20:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:4&z=2003-01-30&g=2003-01-30), [5.20:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.20&artikel=5.20:5&z=2003-01-30&g=2003-01-30), [5.21:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:2&z=2003-01-30&g=2003-01-30), [5.21:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.21&artikel=5.21:3&z=2003-01-30&g=2003-01-30), [5.22:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:2&z=2003-01-30&g=2003-01-30), [5.23:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:2&z=2003-01-30&g=2003-01-30), [5.23:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:3&z=2003-01-30&g=2003-01-30), [5.23;4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.23&artikel=5.23:4&z=2003-01-30&g=2003-01-30), [5.24:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.24&artikel=5.24:2&z=2003-01-30&g=2003-01-30), [5.25:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.25&artikel=5.25:3&z=2003-01-30&g=2003-01-30), [5.26:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:3&z=2003-01-30&g=2003-01-30), [5.26:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.26&artikel=5.26:4&z=2003-01-30&g=2003-01-30), [5.27:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:2&z=2003-01-30&g=2003-01-30), [5.27:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:3&z=2003-01-30&g=2003-01-30), [5.27:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.27&artikel=5.27:4&z=2003-01-30&g=2003-01-30), [5.22:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:2&z=2003-01-30&g=2003-01-30), [5.22:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=5&paragraaf=5.22&artikel=5.22:3&z=2003-01-30&g=2003-01-30), en [8.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=8&paragraaf=8.1&artikel=8.1:1&z=2003-01-30&g=2003-01-30) alsmede het bepaalde krachtens [artikel 3.1:2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=3&paragraaf=3.1&artikel=3.1:2&z=2003-01-30&g=2003-01-30), levert een strafbaar feit op.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
@@ -1580,11 +1580,11 @@ Het niet-naleven van de[artikelen 3.1:1](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 8.1:2
 
-[Artikel 8.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=8&paragraaf=8.1&artikel=8.1:1&z=2003-01-01&g=2003-01-01) vervalt 10 jaren na het tijdstip van inwerkingtreding van dit besluit.
+[Artikel 8.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&hoofdstuk=8&paragraaf=8.1&artikel=8.1:1&z=2003-01-30&g=2003-01-30) vervalt 10 jaren na het tijdstip van inwerkingtreding van dit besluit.
 
-#### § 8.2. Wijziging regelgeving
+#### § 8.1. Overgangsbepalingen
 
-#### [Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474)
+#### Permanente nachtarbeid
 
 ##### Artikel 8.2:1
 
@@ -1596,13 +1596,13 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.
 
-#### [Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564)
+#### [Mijnreglement 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002474)
 
 ##### Artikel 8.2:3
 
 Vervallen
 
-#### [Werktijdenbesluit voor verplegings- of verzorgingsinrichtingen](onbekend) en de jeugdhulpverlening
+#### [Mijnreglement continentaal plat](https://wetten.overheid.nl/jci1.3:c:BWBR0002564)
 
 ##### Artikel 8.2:4
 
@@ -1624,7 +1624,7 @@ Dit besluit wordt aangehaald als: Arbeidstijdenbesluit.
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Duikwerkzaamheden civiele onderwaterbouw
+#### Mijnbouwinstallatie
 
 ##### Artikel 2.2:2
 
@@ -1633,6 +1633,196 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 ### Hoofdstuk 3. Registratie
 
 #### § 3.1. Registratieverplichtingen
+
+#### Mijnbouwinstallatie
+
+#### § 3.2. Bewaartermijn
+
+### Hoofdstuk 4. Arbeids- en rusttijden, algemene afwijkingen en aanvullingen
+
+#### § 4.1. Alternatieve sancties
+
+#### Arbeidstijd van de werknemer van 18 jaar of ouder
+
+#### § 4.2. Feestdagen
+
+#### Arbeidstijd voorafgaand aan de feestdag
+
+#### § 4.3. Noodzakelijke werkzaamheden
+
+#### Arbeidstijd
+
+#### § 4.4. Overdracht van werkzaamheden
+
+#### Rusttijd en arbeidstijd
+
+#### § 4.5. Ploegenarbeid
+
+#### Pauze
+
+#### § 4.6. Pauze
+
+#### Afwijking pauzeregeling
+
+#### § 4.7. Nachtdiensten
+
+#### Arbeidstijd inclusief overwerk
+
+#### § 4.9. Referentieperiode
+
+### Hoofdstuk 5. Arbeids- en rusttijden, bijzondere afwijkingen en aanvullingen
+
+#### § 5.1. Baggerwerkzaamheden
+
+#### Arbeid in nachtdienst
+
+#### § 5.2. Beveiliging
+
+#### Arbeid in nachtdienst
+
+#### § 5.3. Brandweer
+
+#### Consignatie
+
+#### § 5.4. Brood- en banketbakkerij
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.5. Dagbladbedrijf
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.6. Defensie
+
+#### Piket
+
+##### Artikel 5.6:7
+
+Vervallen
+
+#### § 5.7. Distributie en overslag
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.8. Horecabedrijf
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.9. Inlichtingen- en veiligheidsdiensten
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.10. Inwonend huishoudelijk personeel
+
+#### Pauze
+
+#### § 5.11. Vrijwillige politie
+
+#### Wekelijkse of dagelijkse onafgebroken rusttijd
+
+#### § 5.12. Audio-visuele producties
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.13. Landbouwarbeid
+
+#### Wekelijkse onafgebroken rusttijd
+
+#### § 5.14. Mijnbouw
+
+#### Toepasselijkheid van de paragraaf
+
+#### Duikwerkzaamheden
+
+#### § 5.15. Mobiele kranen
+
+#### Arbeid in nachtdienst
+
+#### § 5.16. Podiumkunsten en bioscopen
+
+#### Arbeidstijd inclusief overwerk
+
+#### § 5.17. Uitvaartverzorging
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.18. Schoonmaakbedrijf
+
+#### Dagelijkse onafgebroken rusttijd
+
+#### § 5.19. Verpleging en verzorging
+
+#### Bereikbaarheidsdienst
+
+##### Artikel 5.19:5
+
+Vervallen
+
+##### Artikel 5.19:6
+
+Vervallen
+
+#### § 5.20. Artsen
+
+#### Bereikbaarheidsdienst
+
+#### § 5.21. Verloskundigen
+
+#### Bereikbaarheidsdienst
+
+#### § 5.22. Werkzaamheden die samenhangen met railvervoer
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.23. Tentoonstellingsbouw en scheepsreparatie
+
+#### Dagelijkse onafgebroken rusttijd
+
+#### § 5.24. Kraamzorg
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.25. Maatschappelijke opvang
+
+#### Toepasselijkheid van de paragraaf
+
+#### § 5.26. Niet-nautisch personeel binnenvaart
+
+#### Onafgebroken rusttijd
+
+#### § 5.27. Ambulancezorg
+
+#### Bereikbaarheidsdienst
+
+### Hoofdstuk 7. Strafbaarstelling en daarmee samenhangende bepalingen
+
+#### Strafbaarstelling
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+#### § 8.1. Overgangsbepalingen
+
+#### Permanente nachtarbeid
+
+#### § 8.2. Wijziging regelgeving
+
+#### [Werktijdenbesluit voor verplegings- of verzorgingsinrichtingen](onbekend) en de jeugdhulpverlening
+
+#### § 8.3. Slotbepalingen
+
+#### Inwerkingtreding
+
+Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### Handelsondernemingen en kantoren
+
+##### Artikel 2.1:14
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2.2. Uitbreiding van de toepasselijkheid van de wet
+
+### Hoofdstuk 3. Registratie
 
 #### Mijnbouwinstallatie
 
@@ -1682,19 +1872,13 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting
 
 #### § 5.3. Brandweer
 
-#### Aanwezigheidsdienst
-
 #### § 5.4. Brood- en banketbakkerij
-
-#### Arbeid in nachtdienst
 
 #### § 5.5. Dagbladbedrijf
 
 #### Arbeid in nachtdienst
 
 #### § 5.6. Defensie
-
-#### Militaire luchtvaart
 
 ##### Artikel 5.6:7
 
@@ -1744,8 +1928,6 @@ Vervallen
 
 #### § 5.17. Uitvaartverzorging
 
-#### Wekelijkse onafgebroken rusttijd
-
 #### § 5.18. Schoonmaakbedrijf
 
 #### Arbeid in nachtdienst
@@ -1772,8 +1954,6 @@ Vervallen
 
 #### § 5.22. Werkzaamheden die samenhangen met railvervoer
 
-#### Arbeid in nachtdienst
-
 #### § 5.23. Tentoonstellingsbouw en scheepsreparatie
 
 #### Arbeidstijd inclusief overwerk
@@ -1788,8 +1968,6 @@ Vervallen
 
 #### § 5.26. Niet-nautisch personeel binnenvaart
 
-#### Arbeidstijd inclusief overwerk
-
 #### § 5.27. Ambulancezorg
 
 #### Cumulatiebijzondere diensten
@@ -1799,10 +1977,6 @@ Vervallen
 #### Strafbaarstelling
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-#### § 8.1. Overgangsbepalingen
-
-#### Permanente nachtarbeid
 
 #### § 8.2. Wijziging regelgeving
 
