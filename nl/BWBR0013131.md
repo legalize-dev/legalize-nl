@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2002-01-01"
+last_updated: "2002-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de directeuren bedrijfsvoering uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2002-01-01&g=2002-01-01), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2002-12-18&g=2002-12-18), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
@@ -112,11 +112,9 @@ De directeur bedrijfsvoering die of het niet-rechterlijk lid van de Raad voor de
 
 ##### Artikel 9
 
-1. Aan de rechterlijk ambtenaar met rechtspraak belast die of het lid met rechtspraak belast dat tevens is benoemd als lid van de Raad voor de rechtspraak, voorzitter van het bestuur van een gerecht, sectorvoorzitter bij een gerechtshof, lid van het bestuur, anders dan voorzitter of niet-rechterlijk lid, van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, onderscheidenlijk sectorvoorzitter bij een rechtbank wordt, in plaats van de onkostenvergoeding overeenkomstig [artikel 1 van het Besluit onkostenvergoeding rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0005887&artikel=1), een onkostenvergoeding toegekend van € 3906,59, € 2252,11, € 1500,65,
+1. Aan de rechterlijk ambtenaar met rechtspraak belast die of het lid met rechtspraak belast dat tevens is benoemd als lid van de Raad voor de rechtspraak, voorzitter van het bestuur van een gerecht, sectorvoorzitter bij een gerechtshof, lid van het bestuur, anders dan voorzitter of niet-rechterlijk lid, van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, onderscheidenlijk sectorvoorzitter bij een rechtbank wordt, in plaats van de onkostenvergoeding overeenkomstig [artikel 1 van het Besluit onkostenvergoeding rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0005887&artikel=1), een onkostenvergoeding toegekend van € 4023,79, € 2319,67, € 1545,67, € 1545,67 onderscheidenlijk € 1418,54 per jaar.
 
-€ 1500,65 onderscheidenlijk € 1377,22 per jaar.
-
-2. Aan de niet-rechterlijke leden van de Raad voor de rechtspraak wordt een representatiekostenvergoeding toe-gekend van € 3849,26 per jaar. Het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is op deze leden niet van toepassing.
+2. Aan de niet-rechterlijke leden van de Raad voor de rechtspraak wordt een representatiekostenvergoeding toe-gekend van € 3946,20 per jaar. Het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is op deze leden niet van toepassing.
 
 ##### Artikel 10
 
@@ -125,5 +123,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a
+
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2002-12-18&g=2002-12-18) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
+
+##### Artikel 9b
+
+Bij regeling van Onze Minister kunnen de in dit besluit genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
