@@ -1,0 +1,117 @@
+---
+title: "Regeling bijdragen aanleg snelgroeiend bos 1988"
+identifier: "BWBR0004416"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-22"
+last_updated: "1996-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004416"
+soort: "ministeriele-regeling"
+stam_id: "4362423"
+version_id: "6118952"
+internal_id: "C6323161"
+label_id: "4341034"
+dtd_version: "2.0"
+original_entry_into_force: "1988-10-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004416/2016-01-22/0"
+intitule_bron: "Stcrt.1988-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-14"
+intitule_published: "1988-10-25"
+intitule_in_force: "1988-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-207"
+original_signed_date: "1988-10-14"
+original_published_date: "1988-10-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-10-25"
+jci_1_3: "jci1.3:c:BWBR0004416&z=2016-01-22&g=2016-01-22"
+jci_1_0: "1.0:c:BWBR0004416&g=2016-01-22"
+citeertitel_status: "officieel"
+signed_date: "1988-10-14"
+entry_into_force: "1988-10-25"
+---
+# Regeling bijdragen aanleg snelgroeiend bos 1988
+
+Overwegende, dat het gewenst is een nieuwe regeling vast te stellen voor het verlenen van bijdragen ter bevordering van de aanleg van snelgroeiend bos voor de houtvoorziening op de korte termijn;
+
+Gehoord het Bosschap en de Bosbouwvoorlichtingsraad;
+
+Besluiten:
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+##### Artikel 2
+
+Aan de eigenaar wordt op de voet van de bepalingen van deze regeling op zijn verzoek door de minister een eenmalige bijdrage van f 3000 per hectare verleend ter zake van bebossing van gronden anders dan ter voldoening aan een bestaande verplichting tot herbeplanting.
+
+##### Artikel 3
+
+De bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=1996-12-18&g=1996-12-18), wordt slechts verleend indien:
+
+- a. ten minste een aaneengesloten halve hectare grond wordt bebost of een door de minister daarmee gelijk te stellen aantal kilometers weg- of rijbeplanting wordt aangelegd en
+
+- b. de bebossing geschiedt met de boomsoorten behorende tot de geslachten populus (populier) of salix (wilg), dan wel met de boomsoorten Fijnspar (Picea abies), Sitcaspar (Picea sitchensis), Corsicaanse den (Pinus nigra var. maritima) of Douglas (Pseudo-tsuga menziesii).
+
+##### Artikel 4
+
+Geen bijdrage wordt verleend indien:
+
+- a. de voor de toekenning van bijdragen op grond van deze regeling beschikbaar gestelde middelen blijkens een daartoe strekkende mededeling van de minister in de Staatscourant door het totaal van de voorafgaande toezeggingen zijn uitgeput dan wel overschreden zullen worden door toezegging van de gevraagde bijdrage;
+
+- b. de bebossing heeft plaatsgevonden voordat op de aanvrage is beslist;
+
+- c. de beplanting naar het oordeel van de minister bosbouwkundig niet verantwoord is.
+
+##### Artikel 5
+
+1. De eigenaar dient de opstand waarvoor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=1996-12-18&g=1996-12-18), is verleend, in stand te houden tot het moment van velling overeenkomstig het bepaalde in het tweede en derde lid van dit artikel.
+
+2. De opstand dient te worden geveld:
+
+- a. indien deze bestaat uit bomen behorende tot de geslachten populus of salix, tussen 15 en 25 jaar na het moment van aanleg;
+
+- b. indien deze bestaat uit de andere boomsoorten genoemd in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=3&z=1996-12-18&g=1996-12-18), tussen 25 en 40 jaar na het moment van aanleg.
+
+3. In afwijking van het bepaalde in het vorige lid mag de houtopstand, nadat de minister daartoe toestemming heeft gegeven, worden geveld binnen de termijn van 15 onderscheidenlijk 25 jaar na het moment van aanleg, indien ten minste 3200 m² hout per hectare kan worden geoogst, dat geschikt is voor industriële toepassing.
+
+##### Artikel 6
+
+Aanvragen voor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=1996-12-18&g=1996-12-18), kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994. Zij dienen te worden ingediend bij LASER.
+
+##### Artikel 7
+
+1. De minister kan de eigenaar een termijn stellen waarbinnen de bebossing dient plaats te vinden.
+
+2. De bijdrage wordt uitbetaald nadat door of namens de minister is vastgesteld, dat de bebossing heeft plaatsgevonden in overeenstemming met de bepalingen van deze regeling. Hiertoe dient de eigenaar binnen vier weken na de aanleg van het bos schriftelijk te verklaren dat de bebossing heeft plaatsgevonden. Deze verklaring dient te worden gericht aan de minister en te worden ingediend bij LASER.
+
+##### Artikel 8
+
+Indien de voorschriften bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=5&z=1996-12-18&g=1996-12-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=7&z=1996-12-18&g=1996-12-18) niet worden nagekomen vervalt het recht op de bijdrage en kan deze, vermeerderd met de verschuldigde wettelijke rente, geheel of gedeeltelijk worden teruggevorderd van degene aan wie de bijdrage is verleend of van diens rechtsopvolgers onder algemene titel.
+
+##### Artikel 9
+
+Vervallen
+
+##### Artikel 10
+
+Vervallen
+
+##### Artikel 11
+
+Beslissingen op grond van deze regeling vinden plaats onder het voorbehoud dat de Commissie van de Europese Gemeenschappen de vereiste goedkeuring geeft voor het uitvoeren van deze regeling.
+
+##### Artikel 12
+
+De Regeling bijdragen aanleg snelgroeiend bos (Stcrt. 1984, 253) wordt ingetrokken met dien verstande dat het bepaalde daarin van toepassing blijft ten aanzien van op grond van die regeling reeds genomen beschikkingen.
+
+##### Artikel 13
+
+1. Deze regeling kan worden aangehaald als ‘Regeling bijdragen aanleg snelgroeiend bos 1988.’
+
+2. Deze regeling wordt bekendgemaakt in de Staatscourant en treedt in werking met ingang van de dag van haar bekendmaking.
+
+3. Deze regeling werkt terug tot 1 mei 1988.
