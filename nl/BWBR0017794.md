@@ -4,7 +4,7 @@ identifier: "BWBR0017794"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-15"
-last_updated: "2004-12-31"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017794"
 soort: "KB"
@@ -45,31 +45,39 @@ Hebben goedgevonden en verstaan:
 
 Als hoofdspoorweg worden aangewezen:
 
-- a. de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2004-12-31&g=2004-12-31);
+- a. de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2005-01-01&g=2005-01-01);
 
 - b. Dit onderdeel is nog niet in werking getreden.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende beschikkingen tot aanwijzing als locaalspoorweg als bedoeld in [artikel 1, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](https://wetten.overheid.nl/jci1.3:c:BWBR0001866) (Stb. 118), worden ingetrokken:
+
+- a. beschikking van 24 november 1958, nr. V-1/0116890;
+
+- b. beschikking van 28 december 1959, nr. V-1/0133031;
+
+- c. beschikking van 15 juni 1993, nr. S-31318, 's-Heer Arendskerke – Sloehaven;
+
+- d. beschikking van 16 december 1993, nr. S-31975, Weert – Budel Grens.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wordt ingetrokken.
 
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van:
 
-- a. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2004-12-31&g=2004-12-31), dat in werking treedt met ingang van de eerste dag van de tiende kalendermaand na inwerkingtreding van de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16);
+- a. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), dat in werking treedt met ingang van de eerste dag van de tiende kalendermaand na inwerkingtreding van de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16);
 
-- b. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2004-12-31&g=2004-12-31) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2004-12-31&g=2004-12-31), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
+- b. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2005-01-01&g=2005-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2005-01-01&g=2005-01-01), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-## Bijlage 1. behorend bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2004-12-31&g=2004-12-31), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 1. behorend bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), van het Besluit aanwijzing hoofdspoorwegen
 
 In deze bijlage wordt verstaan onder:
 
@@ -187,9 +195,9 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 16. Rotterdam Hofplein – Den Haag Centraal, met de zijtak Leidschendam-Voorburg Aansluiting – Zoetermeer Stadslijn.
 
-## Bijlage 2. behorend bij [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2004-12-31&g=2004-12-31), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 2. behorend bij [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), van het Besluit aanwijzing hoofdspoorwegen
 
-Spoorwegen als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2004-12-31&g=2004-12-31), zijn:
+Spoorwegen als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), zijn:
 
 - a. de volgende spoorwegen:
 
