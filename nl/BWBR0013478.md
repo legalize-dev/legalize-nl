@@ -86,27 +86,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders luchtvaart.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 11.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
-
-- a. de directeur-generaal van het Directoraat-Generaal Transport en Luchtvaart;
-
-- b. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
-
-- c. de ambtenaren van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8
-
-Dit besluit berust tevens op de [artikelen 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=64), en [65 van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=65).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b
-
-Dit besluit berust mede op [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
