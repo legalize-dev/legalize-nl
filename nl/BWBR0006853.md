@@ -1,0 +1,63 @@
+---
+title: "Regeling maaltijdvergoeding bij overwerk politie"
+identifier: "BWBR0006853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-13"
+last_updated: "1994-08-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006853"
+soort: "ministeriele-regeling"
+stam_id: "3584323"
+version_id: "5367422"
+internal_id: "C5560511"
+label_id: "3564304"
+dtd_version: "2.0"
+original_entry_into_force: "1994-08-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006853/2025-05-13/0"
+intitule_bron: "Stcrt.1994-154"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-08-02"
+intitule_published: "1994-08-15"
+intitule_in_force: "1994-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-154"
+original_signed_date: "1994-08-02"
+original_published_date: "1994-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-08-17"
+jci_1_3: "jci1.3:c:BWBR0006853&z=2025-05-13&g=2025-05-13"
+jci_1_0: "1.0:c:BWBR0006853&g=2025-05-13"
+citeertitel_status: "officieel"
+signed_date: "1994-08-02"
+entry_into_force: "1994-08-17"
+---
+# Regeling maaltijdvergoeding bij overwerk politie
+
+Gelet op [artikel 28 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=28);
+
+Besluit:
+
+##### Artikel 1
+
+Voor de toepassing van deze regeling wordt verstaan onder:
+
+##### Artikel 2
+
+1. Indien de dagelijkse diensttijd van de ambtenaar op de dag waarop overwerk moet worden verricht met ten minste twee overwerkuren wordt verlengd en het dienstbelang naar het oordeel van het bevoegd gezag dientengevolge niet toelaat dat hij zijn maaltijd op de hiervoor bestemde tijd op de voor hem gebruikelijke plaats nuttigt, wordt hem door het bevoegd gezag een vergoeding toegekend.
+
+2. Het bevoegd gezag stelt nadere regels ten aanzien van de vergoeding, bedoeld in het eerste lid.
+
+##### Artikel 3
+
+Het bevoegd gezag is bevoegd deze regeling op overeenkomstige wijze toe te passen voor met overwerk vergelijkbare situaties.
+
+##### Artikel 4
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994.
+
+##### Artikel 5
+
+Deze regeling wordt aangehaald als: Regeling maaltijdvergoeding bij overwerk politie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
