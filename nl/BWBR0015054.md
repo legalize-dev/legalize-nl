@@ -4,7 +4,7 @@ identifier: "BWBR0015054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-12-03"
-last_updated: "2003-05-15"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015054"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - **Commissie:** de Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen;
 
-- **Loket Vlootzaken:** het Loket Vlootzaken van de directie Noordzee van het Directoraat-Generaal Rijkswaterstaat;
+- **Loket Vlootzaken:** het Loket Vlootzaken van Rijkswaterstaat Noordzee;
 
 - **Beheerder:** degene die is belast met het beheer over een civiel zeegaand rijksvaartuig.
 
@@ -59,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De Commissie adviseert de ministers van Verkeer en Waterstaat, Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuurbeheer en Visserij, en van Onderwijs, Cultuur en Wetenschappen jaarlijks omtrent:
+1. De Commissie adviseert de ministers van Verkeer en Waterstaat, Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuur en Voedselkwaliteit, en van Onderwijs, Cultuur en Wetenschappen jaarlijks omtrent:
 
 - a. het interdepartementaal gebruik van de bij de in de aanhef genoemde ministeries in beheer zijnde civiele zeegaande rijksvaartuigen;
 
@@ -71,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De Commissie ontwerpt met betrekking tot de civiele zeegaande vaartuigen voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2003-05-15&g=2003-05-15) genoemde ministers jaarlijks een interdepartementaal vlootplan.
+1. De Commissie ontwerpt met betrekking tot de civiele zeegaande vaartuigen voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2004-12-03&g=2004-12-03) genoemde ministers jaarlijks een interdepartementaal vlootplan.
 
 2. Het in het eerste lid bedoelde vlootplan wordt opgesteld aan de hand van:
 
@@ -85,11 +85,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-De Commissie bestaat uit een voorzitter, een secretaris, een plaatsvervangend secretaris en zes leden.
+De Commissie bestaat uit een voorzitter, een secretaris, en zes leden.
 
 ##### Artikel 6
 
-1. De voorzitter, de secretaris en de plaatsvervangend secretaris van de Commissie worden benoemd door de Minister van Verkeer en Waterstaat.
+1. De voorzitter en de secretaris van de Commissie worden benoemd door de Minister van Verkeer en Waterstaat.
 
 2. De leden van de Commissie worden als volgt aangewezen:
 
@@ -99,7 +99,7 @@ De Commissie bestaat uit een voorzitter, een secretaris, een plaatsvervangend se
 
 - c. één lid door de Minister van Financiën;
 
-- d. één lid door de Minister van Landbouw, Natuurbeheer en Visserij;
+- d. één lid door de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - e. één lid door de Minister van Onderwijs, Cultuur en Wetenschappen; en
 
@@ -107,7 +107,7 @@ De Commissie bestaat uit een voorzitter, een secretaris, een plaatsvervangend se
 
 ##### Artikel 7
 
-Het secretariaat van de Commissie wordt verzorgd door het Ministerie van Verkeer en Waterstaat en wordt organisatorisch ondergebracht bij het Directoraat-Generaal Goederenvervoer van dat ministerie.
+Het secretariaat van de Commissie wordt verzorgd door het Ministerie van Verkeer en Waterstaat en wordt organisatorisch ondergebracht bij Rijkswaterstaat Noordzee van dat ministerie.
 
 ##### Artikel 8
 
@@ -117,7 +117,7 @@ Een afwijkende mening van een lid kan op diens verzoek in het advies worden verm
 
 ##### Artikel 9
 
-1. Een minister, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2003-05-15&g=2003-05-15), of een beheerder meldt aan de voorzitter van de Commissie wanneer er tijdelijk behoefte aan een civiel zeegaand vaartuig bestaat.
+1. Een minister, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2004-12-03&g=2004-12-03), of een beheerder meldt aan de voorzitter van de Commissie wanneer er tijdelijk behoefte aan een civiel zeegaand vaartuig bestaat.
 
 2. De Commissie overlegt na de ontvangst van een verzoek als bedoeld in het eerste lid over de wijze waarop in de tijdelijke behoefte kan worden voorzien. De voorzitter van de Commissie kan hiertoe voorstellen doen. De Commissie deelt na haar beraadslaging de uitslag aan de minister of beheerder mede.
 
@@ -127,17 +127,17 @@ Een afwijkende mening van een lid kan op diens verzoek in het advies worden verm
 
 1. Het Loket Vlootzaken beheert en onderhoudt een databestand met gegevens van de civiele vaartuigen. De beheerders van deze vaartuigen leveren daartoe op verzoek van het Loket Vlootzaken de benodigde gegevens.
 
-2. Het Loket Vlootzaken publiceert iedere twee jaar een overzicht van de bij de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2003-05-15&g=2003-05-15) genoemde ministers in beheer zijnde civiele vaartuigen.
+2. Het Loket Vlootzaken publiceert iedere twee jaar een overzicht van de bij de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2004-12-03&g=2004-12-03) genoemde ministers in beheer zijnde civiele vaartuigen.
 
 ##### Artikel 11
 
-Het Loket Vlootzaken stelt adviezen op betreffende de ontwerptechnische, bedrijfseconomische en financiële aspecten van de volgens het interdepartementale vlootplan bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=4&z=2003-05-15&g=2003-05-15), te verwerven civiele zeegaande vaartuigen en de wijze van aanbesteding, aankoop of huur van deze vaartuigen.
+Het Loket Vlootzaken stelt adviezen op betreffende de ontwerptechnische, bedrijfseconomische en financiële aspecten van de volgens het interdepartementale vlootplan bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=4&z=2004-12-03&g=2004-12-03), te verwerven civiele zeegaande vaartuigen en de wijze van aanbesteding, aankoop of huur van deze vaartuigen.
 
 ##### Artikel 12
 
-Het Loket Vlootzaken kan op verzoek van een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2003-05-15&g=2003-05-15) genoemde minister of een beheerder:
+Het Loket Vlootzaken kan op verzoek van een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=3&z=2004-12-03&g=2004-12-03) genoemde minister of een beheerder:
 
-- a. ondersteunend optreden bij de uitvoering van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=11&z=2003-05-15&g=2003-05-15) bedoelde adviezen met betrekking tot aanbesteding, aankoop of huur van civiele zeegaande vaartuigen;
+- a. ondersteunend optreden bij de uitvoering van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=11&z=2004-12-03&g=2004-12-03) bedoelde adviezen met betrekking tot aanbesteding, aankoop of huur van civiele zeegaande vaartuigen;
 
 - b. adviseren met betrekking tot civiele zeegaande vaartuigen, ten aanzien van:
 
@@ -155,7 +155,7 @@ De Commissie zendt 4 jaar na de inwerkingtreding van dit besluit aan de Minister
 
 ##### Artikel 14
 
-Na inwerkingtreding van dit besluit berusten de op grond van [artikel 4 van de Regeling van de Minister van Verkeer en Waterstaat van 19 mei 1992, nr. ICONA/92.8706 (Stcrt. 1992, 115), houdende de instelling van de Commissie Interdepartementaal Overleg Zeegaande Vaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0005549&artikel=4), genomen beschikkingen op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=6&z=2003-05-15&g=2003-05-15) van het onderhavige besluit.
+Na inwerkingtreding van dit besluit berusten de op grond van [artikel 4 van de Regeling van de Minister van Verkeer en Waterstaat van 19 mei 1992, nr. ICONA/92.8706 (Stcrt. 1992, 115), houdende de instelling van de Commissie Interdepartementaal Overleg Zeegaande Vaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0005549&artikel=4), genomen beschikkingen op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015054&artikel=6&z=2004-12-03&g=2004-12-03) van het onderhavige besluit.
 
 ##### Artikel 15
 
