@@ -4,7 +4,7 @@ identifier: "BWBR0010334"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-13"
-last_updated: "2000-04-08"
+last_updated: "2003-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010334"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08), gelden als uitgangspunten dat:
+1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21), gelden als uitgangspunten dat:
 
 - a. deze kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;
 
@@ -90,9 +90,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2000-04-08&g=2000-04-08), zijn, voorzover het betreft werkzaamheden of diensten van Onze Minister, werkzaamheden of diensten met betrekking tot:
+1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2003-05-21&g=2003-05-21), zijn, voorzover het betreft werkzaamheden of diensten van Onze Minister, werkzaamheden of diensten met betrekking tot:
 
-- a. het gebruik van frequentieruimte, bedoeld in [§ 3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), voor:
+- a. het gebruik van frequentieruimte, bedoeld in [§ 3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&paragraaf=3.2), voor:
 
 - 1°. vaste verbindingen,
 
@@ -106,9 +106,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 6°. omroep.
 
-- b. randapparaten en radiozendapparaten en overige apparaten als bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10).
+- b. randapparaten en radiozendapparaten en overige apparaten als bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10),
 
-2. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2000-04-08&g=2000-04-08), zijn, voorzover het betreft werkzaamheden of diensten van het college, werkzaamheden of diensten met betrekking tot:
+- c. de aanwijzing van certificatie-organisaties als bedoeld in [artikel 18.16, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.16),
+
+- d. de aanwijzing van instellingen als bedoeld in [artikel 18.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17).
+
+2. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2003-05-21&g=2003-05-21), zijn, voorzover het betreft werkzaamheden of diensten van het college, werkzaamheden of diensten met betrekking tot:
 
 - a. openbare telecommunicatienetwerken,
 
@@ -124,9 +128,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. vergunningen als bedoeld in de [artikelen 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2),
 
-- h. nummers.
+- h. nummers,
 
-3. Bij de toerekening van de kosten, bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2000-04-08&g=2000-04-08), aan de categorieën, bedoeld in het tweede lid, onder a tot en met e, worden de kosten van werkzaamheden of diensten die ten behoeve van aanbieders met een aanmerkelijke macht op de markt worden verricht, afzonderlijk gecategoriseerd.
+- i. diensten van certificatiedienstverleners.
+
+3. Bij de toerekening van de kosten, bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2003-05-21&g=2003-05-21), aan de categorieën, bedoeld in het tweede lid, onder a tot en met e, worden de kosten van werkzaamheden of diensten die ten behoeve van aanbieders met een aanmerkelijke macht op de markt worden verricht, afzonderlijk gecategoriseerd.
 
 4. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste en tweede lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
 
@@ -134,15 +140,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of per subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld:
 
-- a. op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2000-04-08&g=2000-04-08); en
+- a. op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2003-05-21&g=2003-05-21); en
 
 - b. naar rato van de per categorie of per subcategorie bij ministeriële regeling vast te stellen verdeelsleutel.
 
-2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08), afzonderlijk vastgesteld.
+2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21), afzonderlijk vastgesteld.
 
 ##### Artikel 6
 
-Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2000-04-08&g=2000-04-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2000-04-08&g=2000-04-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2000-04-08&g=2000-04-08), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08).
+Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2003-05-21&g=2003-05-21), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2003-05-21&g=2003-05-21) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2003-05-21&g=2003-05-21), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21).
 
 ##### Artikel 7
 
@@ -194,11 +200,11 @@ Wijzigt het Frequentiebesluit.
 
 ##### Artikel 15
 
-Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2000-04-08&g=2000-04-08), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2000-04-08&g=2000-04-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2000-04-08&g=2000-04-08) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2000-04-08&g=2000-04-08) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2003-05-21&g=2003-05-21), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2003-05-21&g=2003-05-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2003-05-21&g=2003-05-21) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2003-05-21&g=2003-05-21) van dit besluit.
 
 ##### Artikel 16
 
-Het bedrag, bedoeld in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2000-04-08&g=2000-04-08), heeft, indien het voor de eerste maal krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2000-04-08&g=2000-04-08) van dit besluit bij ministeriële regeling wordt vastgesteld, slechts betrekking op de periode vanaf het tijdstip van inwerkingtreding van de regeling tot en met 31 december 1999.
+Het bedrag, bedoeld in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2003-05-21&g=2003-05-21), heeft, indien het voor de eerste maal krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2003-05-21&g=2003-05-21) van dit besluit bij ministeriële regeling wordt vastgesteld, slechts betrekking op de periode vanaf het tijdstip van inwerkingtreding van de regeling tot en met 31 december 1999.
 
 ##### Artikel 17
 
