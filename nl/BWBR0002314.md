@@ -4,7 +4,7 @@ identifier: "BWBR0002314"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-09-01"
-last_updated: "1959-06-04"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002314"
 soort: "AMvB"
@@ -66,7 +66,7 @@ In de begroting mag een post voor onvoorziene uitgaven worden opgenomen tot dekk
 
 ##### Artikel 4
 
-1. Indien het verloop der uitgaven daartoe aanleiding geeft, kan de Centrale Raad een suppletoire begroting vaststellen. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002314&hoofdstuk=II&artikel=2&z=1959-06-04&g=1959-06-04) is van overeenkomstige toepassing.
+1. Indien het verloop der uitgaven daartoe aanleiding geeft, kan de Centrale Raad een suppletoire begroting vaststellen. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002314&hoofdstuk=II&artikel=2&z=2002-09-01&g=2002-09-01) is van overeenkomstige toepassing.
 
 2. Is op een zodanige suppletoire begroting de goedkeuring van Onze Minister verkregen, dan wordt zij geacht met de goedgekeurde begroting een geheel uit te maken.
 
@@ -100,9 +100,7 @@ De geldmiddelen van de Centrale Raad bestaan uit:
 
 ##### Artikel 9
 
-1. De gelden, nodig voor het doen van uitgaven, welke in de goedgekeurde begroting zijn voorzien, worden met inachtneming van het bepaalde in [artikel 36 der Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=36) 1927 (**Stb.** 259) door Onze Minister op aanvraag van de Centrale Raad verstrekt.
-
-2. Onze Minister kan een aanvraag om gelden afwijzen, indien hem blijkt, dat:
+1. Onze Minister kan een aanvraag om gelden afwijzen, indien hem blijkt, dat:
 
 - a. de voorgenomen uitgave niet of slechts ten dele in de goedgekeurde begroting is voorzien;
 
@@ -110,7 +108,7 @@ De geldmiddelen van de Centrale Raad bestaan uit:
 
 - c. ten aanzien van de voorgenomen uitgave niet is voldaan aan hetgeen dit besluit voorschrijft.
 
-3. De gelden, bedoeld in het eerste lid, worden beschouwd als voorschotten op de Rijksbijdrage.
+2. De gelden, bedoeld in het eerste lid, worden beschouwd als voorschotten op de Rijksbijdrage.
 
 ##### Artikel 10
 
@@ -130,7 +128,7 @@ De geldmiddelen van de Centrale Raad bestaan uit:
 
 ##### Artikel 12
 
-Alvorens verplichtingen aan te gaan, welke kunnen leiden tot uitgaven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002314&hoofdstuk=II&artikel=3&z=1959-06-04&g=1959-06-04) van dit besluit, pleegt de Centrale Raad overleg met Onze Minister.
+Alvorens verplichtingen aan te gaan, welke kunnen leiden tot uitgaven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002314&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01) van dit besluit, pleegt de Centrale Raad overleg met Onze Minister.
 
 ##### Artikel 13
 
