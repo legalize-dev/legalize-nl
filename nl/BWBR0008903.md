@@ -4,7 +4,7 @@ identifier: "BWBR0008903"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2002-03-07"
+last_updated: "2003-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008903"
 soort: "wet"
@@ -55,7 +55,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. arbeidshandicapcategorie: een groep van tot de doelgroep behorende personen, die in dezelfde orde arbeidsgehandicapt is;
 
-- d. dienstbetrekking: een dienstbetrekking met de gemeente als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2002-01-01&g=2002-03-07);
+- d. dienstbetrekking: een dienstbetrekking met de gemeente als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2003-02-19&g=2003-02-19);
 
 - e. werknemer: degene die een dienstbetrekking heeft;
 
@@ -83,15 +83,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
+1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
 
-2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
+2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
 
-3. Bij ministeriële regeling kunnen regels worden gesteld inzake de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07).
+3. Bij ministeriële regeling kunnen regels worden gesteld inzake de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19).
 
 ##### Artikel 4
 
-1. De gemeente, het Uitvoeringsinstituut werknemersverzekeringen en de Centrale organisatie werk en inkomen werken samen om de inschakeling in het arbeidsproces te bevorderen van de werknemers van wie de verwachting bestaat dat zij in staat zullen zijn om binnen een jaar arbeid te verrichten onder normale omstandigheden en bij de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-03-07).
+1. De gemeente, het Uitvoeringsinstituut werknemersverzekeringen en de Centrale organisatie werk en inkomen werken samen om de inschakeling in het arbeidsproces te bevorderen van de werknemers van wie de verwachting bestaat dat zij in staat zullen zijn om binnen een jaar arbeid te verrichten onder normale omstandigheden en bij de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2003-02-19&g=2003-02-19).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de uitvoering van het eerste lid.
 
@@ -111,7 +111,7 @@ De gemeente bedingt voor de door de werknemer verrichte arbeid dan wel voor ten 
 
 - c. de werknemer niet voldoet aan het eerste lid.
 
-3. Voordat de gemeente de dienstbetrekking opzegt wegens een andere reden dan genoemd in de onderdelen **a** en **b** van het tweede lid, vraagt zij advies van de commissie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07).
+3. Voordat de gemeente de dienstbetrekking opzegt wegens een andere reden dan genoemd in de onderdelen **a** en **b** van het tweede lid, vraagt zij advies van de commissie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19).
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het advies, de werkwijze en de samenstelling van de commissie bij haar taak op grond van het derde lid.
 
@@ -133,15 +133,15 @@ De gemeente bedingt voor de door de werknemer verrichte arbeid dan wel voor ten 
 
 ##### Artikel 8
 
-1. Het Rijk verstrekt aan de gemeente overeenkomstig dit hoofdstuk een subsidie voor de uitvoering van [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2002-01-01&g=2002-03-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2002-01-01&g=2002-03-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&z=2002-01-01&g=2002-03-07).
+1. Het Rijk verstrekt aan de gemeente overeenkomstig dit hoofdstuk een subsidie voor de uitvoering van [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2003-02-19&g=2003-02-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2003-02-19&g=2003-02-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&z=2003-02-19&g=2003-02-19).
 
 2. Onze Minister verleent vóór 1 oktober van ieder jaar de subsidie, waarop elke gemeente over het daaropvolgende jaar recht heeft.
 
 3. De hoogte van de subsidie wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels en na overleg met een representatieve vertegenwoordiging van de gemeenten, bepaald aan de hand van:
 
-- a. een door Onze Minister voor elke gemeente vast te stellen aantal dienstbetrekkingen op basis van een volledige werkweek dan wel arbeidsovereenkomsten op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-03-07), onderscheiden naar arbeidshandicapcategorie, en rekening houdend met het aantal ingezetenen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de onderscheiden arbeidshandicapcategorieën binnen de doelgroep behoren;
+- a. een door Onze Minister voor elke gemeente vast te stellen aantal dienstbetrekkingen op basis van een volledige werkweek dan wel arbeidsovereenkomsten op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2003-02-19&g=2003-02-19), onderscheiden naar arbeidshandicapcategorie, en rekening houdend met het aantal ingezetenen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de onderscheiden arbeidshandicapcategorieën binnen de doelgroep behoren;
 
-- b. een door Onze Minister jaarlijks vast te stellen bedrag per arbeidsovereenkomst als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-03-07) en per dienstbetrekking als bedoeld in onderdeel **a**, dat voor elke arbeidshandicapcategorie verschillend kan worden vastgesteld, rekening houdend met de verwachte loonkostenontwikkelingen, uitvoeringskosten en opbrengsten voortvloeiend uit de dienstbetrekkingen;
+- b. een door Onze Minister jaarlijks vast te stellen bedrag per arbeidsovereenkomst als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2003-02-19&g=2003-02-19) en per dienstbetrekking als bedoeld in onderdeel **a**, dat voor elke arbeidshandicapcategorie verschillend kan worden vastgesteld, rekening houdend met de verwachte loonkostenontwikkelingen, uitvoeringskosten en opbrengsten voortvloeiend uit de dienstbetrekkingen;
 
 - c. de aan de gemeente verleende subsidie over het voorafgaande jaar.
 
@@ -157,15 +157,15 @@ De gemeente bedingt voor de door de werknemer verrichte arbeid dan wel voor ten 
 
 1. Na afloop van het jaar stelt Onze Minister de subsidie vast. De vastgestelde subsidie kan van de verleende subsidie afwijken, voor zover:
 
-- a. de som van de produkten van het, op basis van een volledige werkweek berekende, aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2002-01-01&g=2002-03-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2002-01-01&g=2002-03-07) in elke arbeidshandicapcategorie en het bij die arbeidshandicapcategorie behorende bedrag als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2002-01-01&g=2002-03-07), minder bedraagt dan de verleende subsidie;
+- a. de som van de produkten van het, op basis van een volledige werkweek berekende, aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2003-02-19&g=2003-02-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2003-02-19&g=2003-02-19) in elke arbeidshandicapcategorie en het bij die arbeidshandicapcategorie behorende bedrag als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2003-02-19&g=2003-02-19), minder bedraagt dan de verleende subsidie;
 
-- b. de dienstbetrekking met een werknemer, nadat is vastgesteld dat hij niet langer tot de doelgroep behoort, in strijd met [artikel 6, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2002-01-01&g=2002-03-07), langer wordt voortgezet dan de voor hem geldende opzegtermijn;
+- b. de dienstbetrekking met een werknemer, nadat is vastgesteld dat hij niet langer tot de doelgroep behoort, in strijd met [artikel 6, tweede lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2003-02-19&g=2003-02-19), langer wordt voortgezet dan de voor hem geldende opzegtermijn;
 
-- c. het gemeentebestuur niet handelt in overeenstemming met de bij of krachtens deze wet gestelde regels, of daarop niet dan wel onvoldoende toeziet, met uitzondering van [de artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=5&z=2002-01-01&g=2002-03-07);
+- c. het gemeentebestuur niet handelt in overeenstemming met de bij of krachtens deze wet gestelde regels, of daarop niet dan wel onvoldoende toeziet, met uitzondering van [de artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=5&z=2003-02-19&g=2003-02-19);
 
 - d. de subsidie in het jaar na het jaar waarin hij is verleend anders is bestemd dan voor de uitvoering van deze wet of voor de inschakeling van werkzoekenden in het arbeidsproces of binnen een redelijke termijn niet overeenkomstig die bestemming feitelijk is besteed.
 
-2. Verlies van ingezetenschap in de gemeente heeft geen invloed op de toepassing van onderdeel a van het eerste lid, zolang de dienstbetrekking of de arbeidsovereenkomst, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-03-07), voortduurt.
+2. Verlies van ingezetenschap in de gemeente heeft geen invloed op de toepassing van onderdeel a van het eerste lid, zolang de dienstbetrekking of de arbeidsovereenkomst, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2003-02-19&g=2003-02-19), voortduurt.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de subsidievaststelling en de gevolgen daarvan voor de subsidieverlening voor de komende jaren.
 
@@ -177,7 +177,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 11
 
-1. Het gemeentebestuur stelt van personen, die voor indicatie zijn aangemeld dan wel die zich daartoe hebben aangemeld, gehoord de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07), bij beschikking vast:
+1. Het gemeentebestuur stelt van personen, die voor indicatie zijn aangemeld dan wel die zich daartoe hebben aangemeld, gehoord de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19), bij beschikking vast:
 
 - a. of deze behoren tot de doelgroep;
 
@@ -185,11 +185,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 - c. welke aanpassing van omstandigheden nodig is bij het verrichten van arbeid door de betrokkene;
 
-- d. of de betrokkene in aanmerking komt voor toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2002-01-01&g=2002-03-07);
+- d. of de betrokkene in aanmerking komt voor toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2003-02-19&g=2003-02-19);
 
 - e. of de betrokkene in aanmerking komt voor een scholingstraject.
 
-2. Het gemeentebestuur verricht periodiek herindicatie van personen overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2002-01-01&g=2002-03-07), gestelde regels, gehoord de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07).
+2. Het gemeentebestuur verricht periodiek herindicatie van personen overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2003-02-19&g=2003-02-19), gestelde regels, gehoord de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19).
 
 3. Indicatie vindt slechts plaats met betrekking tot personen die als werkzoekende staan ingeschreven bij de Centrale organisatie werk en inkomen, dan wel personen, die reeds een dienstbetrekking hebben en die voor herindicatie in aanmerking komen.
 
@@ -201,9 +201,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 12
 
-1. Het gemeentebestuur stelt een onafhankelijke commissie in dan wel wijst een onafhankelijke commissie aan, die haar, na het verrichten van een onderzoek, adviseert omtrent de indicatie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2002-01-01&g=2002-03-07), en de herindicatie, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2002-01-01&g=2002-03-07).
+1. Het gemeentebestuur stelt een onafhankelijke commissie in dan wel wijst een onafhankelijke commissie aan, die haar, na het verrichten van een onderzoek, adviseert omtrent de indicatie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2003-02-19&g=2003-02-19), en de herindicatie, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2003-02-19&g=2003-02-19).
 
-2. In de commissie hebben in elk geval zitting een arbeidskundige, een arbeidsmarktdeskundige, een arts en een psycholoog. Ambtenaren in dienst van de gemeente dan wel personen in dienst van de rechtspersoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), maken geen deel uit van de commissie.
+2. In de commissie hebben in elk geval zitting een arbeidskundige, een arbeidsmarktdeskundige, een arts en een psycholoog. Ambtenaren in dienst van de gemeente dan wel personen in dienst van de rechtspersoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), maken geen deel uit van de commissie.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het advies en de werkwijze van de commissie.
 
@@ -221,9 +221,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 3. Onze Minister kan een gemeentebestuur aanwijzingen geven met betrekking tot de uitvoering van deze wet door dat gemeentebestuur. Hij treedt daarbij niet in individuele gevallen.
 
-4. Ten behoeve van het toezicht, bedoeld in het eerste lid, dient het gemeentebestuur jaarlijks bij Onze Minister een verslag in over de uitvoering van deze wet. Het verslag omvat mede een kostenopgave ten behoeve van de subsidievaststelling. Het verslag is voorzien van een verklaring van een deskundige, belast met de in [artikel 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) voorgeschreven controle omtrent de juistheid en volledigheid van verstrekte gegevens. Het verslag wordt kosteloos verstrekt.
+4. Ten behoeve van het toezicht, bedoeld in het eerste lid, dient het gemeentebestuur jaarlijks bij Onze Minister een verslag in over de uitvoering van deze wet. Het verslag omvat mede een kostenopgave ten behoeve van de subsidievaststelling. Het verslag is voorzien van een verklaring van de accountant, belast met de in [artikel 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) voorgeschreven controle omtrent de juistheid en volledigheid van verstrekte gegevens. Het verslag wordt kosteloos verstrekt.
 
-5. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07), verstrekken ten behoeve van het toezicht desgevraagd aan Onze Minister kosteloos nadere of andere informatie en verlenen hem inzage in de administratie.
+5. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19), verstrekken ten behoeve van het toezicht desgevraagd aan Onze Minister kosteloos nadere of andere informatie en verlenen hem inzage in de administratie.
 
 6. De administratie moet zodanig worden ingericht en gevoerd, dat alle van belang zijnde vastleggingen en bewijsstukken ten behoeve van het besluitvormings-, uitvoerings-, controle- en verantwoordingsproces zichtbaar en controleerbaar zijn vastgelegd.
 
@@ -231,21 +231,21 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 14
 
-1. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07), verstrekken desgevraagd aan Onze Minister kosteloos alle inlichtingen, die hij nodig heeft voor de informatievoorziening en de beleidsvorming met betrekking tot deze wet.
+1. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19), verstrekken desgevraagd aan Onze Minister kosteloos alle inlichtingen, die hij nodig heeft voor de informatievoorziening en de beleidsvorming met betrekking tot deze wet.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld voor de inhoud, de wijze van verstrekken en het tijdstip van het verstrekken van de inlichtingen.
 
 ##### Artikel 15
 
-1. Andere gemeentebesturen, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersonen, de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het gemeentebestuur en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
+1. Andere gemeentebesturen, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersonen, de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het gemeentebestuur en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
 
-2. Het gemeentebestuur en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
+2. Het gemeentebestuur en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen voor de toepassing van het eerste en tweede lid nadere regels worden gesteld.
 
-4. Een ieder verstrekt desgevraagd aan het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07) kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
+4. Een ieder verstrekt desgevraagd aan het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19) kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
 
-5. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-03-07), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2002-01-01&g=2002-03-07) kunnen het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), opnemen in een persoonsregistratie aangelegd voor de uitvoering van deze wet en daarvan gebruik maken, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat sociaal-fiscaalnummer.
+5. Het gemeentebestuur, de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2003-02-19&g=2003-02-19), aangewezen rechtspersoon en de commissie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2003-02-19&g=2003-02-19) kunnen het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), opnemen in een persoonsregistratie aangelegd voor de uitvoering van deze wet en daarvan gebruik maken, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat sociaal-fiscaalnummer.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -273,11 +273,11 @@ Het recht zoals dat voor de datum van inwerkingtreding van deze wet gold blijft 
 
 ##### Artikel 18
 
-Voor de eerste toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2002-01-01&g=2002-03-07) wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels, rekening gehouden met het aantal dienstbetrekkingen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum.
+Voor de eerste toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2003-02-19&g=2003-02-19) wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels, rekening gehouden met het aantal dienstbetrekkingen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum.
 
 ##### Artikel 19
 
-Personen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet een dienstbetrekking hebben krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum, behoeven, zolang de dienstbetrekking voortduurt, niet overeenkomstig [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2002-01-01&g=2002-03-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&z=2002-01-01&g=2002-03-07) te worden geïndiceerd; [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2002-01-01&g=2002-03-07), is echter wel van toepassing.
+Personen, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet een dienstbetrekking hebben krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum, behoeven, zolang de dienstbetrekking voortduurt, niet overeenkomstig [de hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2003-02-19&g=2003-02-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&z=2003-02-19&g=2003-02-19) te worden geïndiceerd; [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2003-02-19&g=2003-02-19), is echter wel van toepassing.
 
 ##### Artikel 20
 
