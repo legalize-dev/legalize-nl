@@ -4,7 +4,7 @@ identifier: "BWBR0013916"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-11-01"
-last_updated: "2002-01-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013916"
 soort: "AMvB"
@@ -142,7 +142,7 @@ Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Hoofdstuk 6. Wijzigingen met ingang van 1 november 2002
 
-### Hoofdstuk 7. Overige wijzigingen
+### Hoofdstuk 6. Wijzigingen met ingang van 1 november 2002
 
 ##### Artikel XXI
 
@@ -178,7 +178,7 @@ Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-### Hoofdstuk 8. Slotbepalingen
+### Hoofdstuk 7. Overgangsbepalingen
 
 ##### Artikel XVII
 
@@ -187,75 +187,3 @@ Wijzigt het Inkomstenbesluit militairen.
 ### Hoofdstuk 7. Overige wijzigingen
 
 ### Hoofdstuk 8. Slotbepalingen
-
-Op de voordracht van de Staatssecretaris van Defensie van 10 april 2002, nr. P/2002002157;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) alsmede [artikel 12 van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-De Raad van State gehoord (advies van 30 mei 2002, nr. W07.02.0162/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 11 juli 2002, nr. P/2002004174;
-
-Hebben goedgevonden en verstaan:
-
-Artikelen I-VII werken terug tot en met 1 oktober 2001. Artikelen VIII-X werken terug tot en met 1 december 2001. Artikelen XI-XVI werken terug tot en met 1 januari 2002. Artikel XVII werkt terug tot en met 1 juli 2002. Artikelen XXI, onderdeel A, en XXIII werken terug tot en met 4 juli 2002. Artikelen XXIV, onderdelen A tot en met C, en XXV werken terug tot en met 1 juni 2000. Artikelen XXIV, onderdelen D en E, en XXVI werken terug tot en met 1 januari 2001.
-
-### Hoofdstuk 1. Toekenning van een eenmalige uitkering over 2001, 2002 en 2003 aan het defensiepersoneel
-
-### Hoofdstuk 2. Wijzigingen met ingang van 1 oktober 2001
-
-### Hoofdstuk 3. Wijzigingen met ingang van 1 december 2001
-
-### Hoofdstuk 4. Wijzigingen met ingang van 1 januari 2002
-
-##### Artikel XVIII
-
-Wijzigt het Besluit personenchauffeurs defensie.
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel XIX
-
-Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel XX
-
-Wijzigt het Inkomstenbesluit militairen.
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 7. Overige wijzigingen
-
-### Hoofdstuk 7. Overgangsbepalingen
-
-##### Artikel XXVII
-
-A. In afwijking van [artikel 8, vierde lid, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=8) wordt het salarisnummer van de korporaal der eerste klasse van de Koninklijke Landmacht of van de Koninklijke Luchtmacht op 1 oktober 2001 met één verhoogd. Deze verhoging is niet van invloed op de datum van de jaarlijkse verhoging van het salarisnummer, bedoeld in artikel 7, vierde lid, of artikel 8a, tweede lid.
-
-B. Buitengewoon verlof dat reeds is verleend voor de datum van inwerkingtreding van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=3&artikel=VIII&z=2002-09-13&g=2002-09-13) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=3&artikel=IX&z=2002-09-13&g=2002-09-13) op basis van een artikel in het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482) of het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), zoals deze op dat moment luidde, wordt geacht te zijn verleend op basis van het toepasselijke artikel in dit besluit zoals dat luidt na inwerkingtreding daarvan.
-
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel XXVIII
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat:
-
-- a. de [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=1&z=2002-09-13&g=2002-09-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=2&z=2002-09-13&g=2002-09-13) terugwerken tot en met 1 oktober 2001;
-
-- b. [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=3&z=2002-09-13&g=2002-09-13) terugwerkt tot en met 1 december 2001;
-
-- c. [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=4&z=2002-09-13&g=2002-09-13) terugwerkt tot en met 1 januari 2002;
-
-- d. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=5&z=2002-09-13&g=2002-09-13) terugwerkt tot en met 1 juli 2002;
-
-- e. [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXI&z=2002-09-13&g=2002-09-13), en [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXIII&z=2002-09-13&g=2002-09-13) terugwerken tot en met 4 juli 2002;
-
-- f. [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=6&z=2002-09-13&g=2002-09-13) in werking treedt met ingang van 1 november 2002;
-
-- g. [artikel XXIV, onderdelen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXIV&z=2002-09-13&g=2002-09-13), en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXV&z=2002-09-13&g=2002-09-13) terugwerken tot en met 1 juni 2000;
-
-- h. [artikel XXIV, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXIV&z=2002-09-13&g=2002-09-13), en [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013916&hoofdstuk=7&artikel=XXVI&z=2002-09-13&g=2002-09-13) terugwerken tot en met 1 januari 2001.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
