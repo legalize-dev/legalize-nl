@@ -4,7 +4,7 @@ identifier: "BWBR0016698"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-09"
-last_updated: "2004-05-19"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016698"
 soort: "AMvB"
@@ -106,15 +106,15 @@ Voor de eerste aansluiting op het openbare telefoonnetwerk op een vaste locatie 
 
 ##### Artikel 2.5
 
-1. De hoogte van het eenmalige tarief, bedoeld in [artikel 2.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), is, uitgaande van de kosten, niet hoger dan redelijk.
+1. De hoogte van het eenmalige tarief, bedoeld in [artikel 2.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), is, uitgaande van de kosten, niet hoger dan redelijk.
 
 2. In afwijking van het eerste lid, kunnen bij ministeriële regeling voor bepaalde categorieën eindgebruikers tarieven worden vastgesteld die aan hen ten hoogste in rekening mogen worden gebracht.
 
 3. Consumenten kunnen met betrekking tot de toegang tot de openbare telefoondienst op een vaste locatie, bedoeld in [artikel 9.1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1), kiezen uit één van de volgende abonnementsvormen:
 
-- a. een belabonnement waarvan het maandelijkse tarief, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), en de gebruiksafhankelijke tarieven, bedoeld in [artikel 2.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), elk afzonderlijk, uitgaande van de kosten, niet hoger dan redelijk zijn;
+- a. een belabonnement waarvan het maandelijkse tarief, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), en de gebruiksafhankelijke tarieven, bedoeld in [artikel 2.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), elk afzonderlijk, uitgaande van de kosten, niet hoger dan redelijk zijn;
 
-- b. een bereikbaarheidsabonnement waarvan het maandelijkse tarief, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), en de gebruiksafhankelijke tarieven, bedoeld in [artikel 2.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), niet hoger zijn dan een bij ministeriële regeling vast te stellen bedrag.
+- b. een bereikbaarheidsabonnement waarvan het maandelijkse tarief, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), en de gebruiksafhankelijke tarieven, bedoeld in [artikel 2.4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), niet hoger zijn dan een bij ministeriële regeling vast te stellen bedrag.
 
 4. Voor eindgebruikers, niet zijnde consumenten, is het belabonnement, bedoeld in het derde lid, onderdeel a, beschikbaar.
 
@@ -130,7 +130,7 @@ Voor de eerste aansluiting op het openbare telefoonnetwerk op een vaste locatie 
 
 ##### Artikel 2.7
 
-Bij ministeriële regeling kunnen andere dan de in de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2004-05-19&g=2004-05-19) bedoelde regels worden gesteld met betrekking tot de kwaliteit van de in [artikel 9.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1) genoemde diensten.
+Bij ministeriële regeling kunnen andere dan de in de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2005-03-01&g=2005-03-01) bedoelde regels worden gesteld met betrekking tot de kwaliteit van de in [artikel 9.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1) genoemde diensten.
 
 #### § 2.2. Verplichtingen voor aanbieders die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) zijn aangewezen
 
@@ -142,7 +142,7 @@ De aanbieder die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/j
 
 1. De aanbieder die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, hanteert voor de diensten waarvoor hij is aangewezen in zijn verzorgingsgebied dezelfde vormen van tarifering.
 
-2. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, rekent in zijn verzorgingsgebied aan consumenten voor het tarief, bedoeld in [artikel 2.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2004-05-19&g=2004-05-19), één uniform tarief, tenzij de consument reeds abonnee is bij deze aanbieder en die dienst vanaf een ander adres wil afnemen en de aanbieder gebruik kan maken van een bestaande aansluiting om die dienst aan hem te leveren.
+2. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, rekent in zijn verzorgingsgebied aan consumenten voor het tarief, bedoeld in [artikel 2.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2005-03-01&g=2005-03-01), één uniform tarief, tenzij de consument reeds abonnee is bij deze aanbieder en die dienst vanaf een ander adres wil afnemen en de aanbieder gebruik kan maken van een bestaande aansluiting om die dienst aan hem te leveren.
 
 ##### Artikel 2.10
 
@@ -176,13 +176,13 @@ Een aanbieder die telefoonnummers in gebruik geeft, voldoet aan alle redelijke v
 
 1. Een aanbieder van de openbare telefoondienst die voor of bij het sluiten van een overeenkomst met een gebruiker diens naam, adres en huisnummer, postcode en woonplaats vraagt, vraagt tevens toestemming voor opname van deze soorten persoonsgegevens en door hem in gebruik gegeven telefoonnummers in elke standaard telefoongids en elk abonneebestand dat voor een standaard abonnee-informatiedienst wordt gebruikt. De in de vorige volzin bedoelde toestemming wordt per soort persoonsgegeven afzonderlijk gevraagd.
 
-2. De gegeven toestemming is relevante informatie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2004-05-19&g=2004-05-19).
+2. De gegeven toestemming is relevante informatie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2005-03-01&g=2005-03-01).
 
 3. Een aanbieder van de openbare telefoondienst die tevens toestemming vraagt voor opname in een andere telefoongids dan de standaard telefoongids of een abonneebestand dat niet uitsluitend wordt gebruikt voor de standaard abonnee-informatiedienst, zorgt ervoor dat de wijze waarop en de vorm waarin de in het eerste lid bedoelde toestemming wordt gevraagd ten minste gelijk is aan de wijze waarop en de vorm waarin de in dit lid eerstgenoemde toestemming wordt gevraagd.
 
 ##### Artikel 3.3
 
-De abonnee-informatiedienst, bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), voldoet aan de voorschriften, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2004-05-19&g=2004-05-19).
+De abonnee-informatiedienst, bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), voldoet aan de voorschriften, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2005-03-01&g=2005-03-01).
 
 #### § 3.2. Geschillenbeslechting door geschillencommissie
 
@@ -208,7 +208,7 @@ Als openbare elektronische communicatiediensten als bedoeld in [artikel 12.1 van
 
 ##### Artikel 3.6
 
-De krachtens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2004-05-19&g=2004-05-19) gestelde verplichtingen, die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van [richtlijn nr. 2002/22/EG](32002L0022) en gelden voor de krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) aangewezen aanbieder van openbare telefoondiensten op een vaste locatie, zijn van overeenkomstige toepassing op andere aanbieders van openbare telefoondiensten.
+De krachtens [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2005-03-01&g=2005-03-01) gestelde verplichtingen, die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van [richtlijn nr. 2002/22/EG](32002L0022) en gelden voor de krachtens [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) aangewezen aanbieder van openbare telefoondiensten op een vaste locatie, zijn van overeenkomstige toepassing op andere aanbieders van openbare telefoondiensten.
 
 ### Hoofdstuk 4. Bescherming van persoonsgegevens en de persoonlijke levenssfeer
 
@@ -239,5 +239,23 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet impleme
 ##### Artikel 5.3
 
 Dit besluit wordt aangehaald als: Besluit universele dienstverlening en eindgebruikersbelangen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.2
+
+1. Een abonnee van een openbare telefoondienst of van een carrierdienst heeft jegens zijn aanbieder het recht om aan te geven dat zijn nummer op nota’s voor geleverde elektronische communicatiediensten, waarbij vermelding plaatsvindt van opgeroepen nummers, dient te worden afgeschermd.
+
+2. Een aanbieder als bedoeld in het eerste lid draagt er zorg voor dat de andere aanbieders wie het aangaat worden geïnformeerd omtrent de nummers die dienen te worden afgeschermd. Eerstbedoelde aanbieder draagt zorg voor de juistheid, volledigheid en tijdigheid van de verstrekte informatie. Deze informatie blijft beperkt tot een overzicht van de af te schermen nummers.
+
+3. Alle aanbieders wie het aangaat geven zo spoedig mogelijk doch uiterlijk met ingang van de factuurperiode volgend op die binnen welke het verzoek is gedaan, uitvoering aan het verzoek van de abonnee.
+
+4. Afscherming van een nummer als bedoeld in het eerste lid vindt plaats door het weglaten dan wel onherkenbaar maken van de laatste vier cijfers van het nummer.
+
+5. Iedere aanbieder is jegens zijn eigen abonnee gehouden ervoor te zorgen dat afscherming als bedoeld in het eerste lid, zowel waar het gaat om afscherming op nota’s die door de desbetreffende aanbieder zelf worden uitgebracht als op nota’s die door andere aanbieders worden uitgebracht, wordt uitgevoerd.
+
+6. De uitoefening van het recht, bedoeld in het eerste lid, is kosteloos.
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
