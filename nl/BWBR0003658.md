@@ -3699,25 +3699,3 @@ Door vernummering vervallen.
 ## Bijlage IIA
 
 Door vernummering vervallen.
-
-##### Artikel 1a
-
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2005-03-02&g=2005-03-02) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
-
-- a. het desbetreffende landbouwproduct in de handel is gebracht in een lidstaat van de Europese Unie die voor dat landbouwproduct een voorlopig maximum residugehalte heeft vastgesteld en die lidstaat dat voorlopig maximum heeft medegedeeld aan de Commissie van de Europese Unie overeenkomstig artikel 4, eerste lid, onder f, van richtlijn nr. 91/414/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 414); en
-
-- b. die hoeveelheid niet groter is dan het onder a bedoelde voorlopige maximum residugehalte.
-
-## Bijlage IIA
-
-Door vernummering vervallen.
-
-Deze bijlage behoort bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2008-09-01&g=2008-09-01), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=2&z=2008-09-01&g=2008-09-01), van de Warenwetregeling residuen van bestrijdingsmiddelen.
-
-### **Inleidende opmerkingen**
-
-1 Geldt uitsluitend voor residuen die het gevolg zijn van het gebruik als biocide.
-
-## Bijlage IIA
-
-Door vernummering vervallen.
