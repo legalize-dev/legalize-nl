@@ -4,7 +4,7 @@ identifier: "BWBR0016208"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2003-09-04"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016208"
 soort: "wet"
@@ -99,7 +99,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. Overgangsrecht inkomstenbelasting
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) wordt bij het begin van het kalenderjaar 2004 niet toegepast met betrekking tot het in [artikel 3.127, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), vermelde bedrag van € 10 571.
 
 ##### Artikel XVII
 
