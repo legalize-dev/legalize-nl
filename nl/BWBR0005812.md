@@ -1,0 +1,671 @@
+---
+title: "Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken en van enkele andere produkten"
+identifier: "BWBR0005812"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005812"
+soort: "ministeriele-regeling"
+stam_id: "3375403"
+version_id: "5130752"
+internal_id: "C21380621"
+label_id: "3356034"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005812/2025-01-01/0"
+intitule_bron: "Stcrt.1992-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-28"
+intitule_published: "1992-12-29"
+intitule_in_force: "1992-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-252"
+original_signed_date: "1992-12-28"
+original_published_date: "1992-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+entry_into_force_dossier: "22843"
+jci_1_3: "jci1.3:c:BWBR0005812&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0005812&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken"
+signed_date: "1992-12-28"
+entry_into_force: "1993-01-01"
+---
+# Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken en van enkele andere produkten
+
+Gelet op de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) (Stb. 1992, 683) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6) (Stb. 1992, 685);
+
+Besluit:
+
+### Hoofdstuk I. Inleidende bepalingen
+
+### Afdeling 1. Algemene bepalingen
+
+##### Artikel 1
+
+Deze regeling geeft uitvoering aan de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) (Stb. 1992, 683) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6) (Stb. 1992, 685).
+
+##### Artikel 2
+
+Deze regeling verstaat onder:
+
+- a. wet: [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802);
+
+- b. besluit: [Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005804).
+
+### Afdeling 2. Overbrengen van alcoholvrije dranken, pruimtabak of snuiftabak
+
+##### Artikel 3
+
+1. Als vervoersopdracht bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) van het besluit dienen te worden gebruikt:
+
+- een kopie van de verkoopfactuur van de desbetreffende goederen; of
+
+- een door de vergunninghouder van de inrichting opgemaakt vervoersbescheid.
+
+2. Als vervoersopdracht bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=8) van het besluit dienen te worden gebruikt:
+
+- een kopie van de aankoopfactuur van de desbetreffende goederen;
+
+- een exemplaar van de op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), gedane aangifte voor het vrije verkeer; of
+
+- een exemplaar van de aangifte waarmee de accijnsgoederen op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), binnen Nederland worden gebracht.
+
+3. Op de als vervoersopdracht gebruikte bescheiden moet worden vermeld: vervoersopdracht.
+
+##### Artikel 4
+
+Als een bescheid als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=5) kan worden gebruikt:
+
+- a. een factuur; of
+
+- b. een vervoersbescheid.
+
+##### Artikel 5
+
+Artikel 4, derde lid, van de wet vindt uitsluitend toepassing, indien de hoeveelheid als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6), niet meer bedraagt dan:
+
+- a. alcoholvrije dranken 25 l;
+
+- b. pruimtabak 1 kg;
+
+- c. snuiftabak 1 kg.
+
+### Hoofdstuk II. Alcoholvrije dranken
+
+##### Artikel 6
+
+1. Het percentage vruchtesap of vruchtenmoes dat een mengsel van water en vruchtesap ten minste moet bevatten om aangemerkt te worden als vruchtesap is opgenomen in de bijlage bij deze regeling.
+
+2. Indien een mengsel als bedoeld in het eerste lid, meer dan één soort vruchtesap of vruchtenmoes bevat, worden de in de bijlage opgenomen percentages van de desbetreffende soorten naar evenredigheid toegepast.
+
+##### Artikel 7
+
+1. De belasting van vruchtesap of groentesap in vaste vorm of in geconcentreerde vorm of van limonade in vaste vorm of in geconcentreerde vorm, andere dan voor huishoudelijk gebruik, wordt berekend naar het volume dat die dranken hebben, nadat zij voor rechtstreekse consumptie geschikt zijn gemaakt.
+
+2. Degene die vruchtesap of groentesap in vaste vorm of in geconcentreerde vorm of limonade in vaste vorm of in geconcentreerde vorm, andere dan voor huishoudelijk gebruik, uitslaat of invoert, is op verzoek van de inspecteur gehouden alle gegevens te verstrekken die het mogelijk maken op eenvoudige wijze het volume van de dranken te herleiden tot het in het eerste lid bedoelde volume.
+
+##### Artikel 8
+
+Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorwaarden gesteld bij het [Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310) (Stb. 1980, 223).
+
+### Hoofdstuk III. Uitslag
+
+### Afdeling 1. Inrichting
+
+##### Artikel 9
+
+Een plaats waar geen alcoholvrije dranken worden vervaardigd, kan uitsluitend als inrichting voor de opslag van alcoholvrije dranken in aanmerking komen, indien de hoeveelheid die aldaar gemiddeld over een jaar voorhanden is, meer bedraagt dan 50 000 liter.
+
+##### Artikel 10
+
+In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen plaatsen van waaruit alcoholvrije dranken, pruimtabak of snuiftabak worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2003-01-01&g=2003-01-01).
+
+##### Artikel 11
+
+1. Indien de inspecteur op grond van [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=12) voorwaarden stelt voor een vergunning voor een inrichting waar alcoholvrije dranken, pruimtabak of snuiftabak worden vervaardigd, kan daarbij worden bepaald dat ter zake van de vervaardiging werkaangiften moeten worden gedaan.
+
+2. De werkaangiften dienen ten minste twee werkdagen voor de aanvang van de vervaardiging te worden ingediend bij de inspecteur.
+
+3. In de werkaangifte dienen te worden vermeld:
+
+- a. de voorgenomen te vervaardigen hoeveelheden; en
+
+- b. de tijdstippen waarop de vervaardiging aanvangt en wordt beëindigd.
+
+4. De werkaangifte kan per werkweek geschieden.
+
+##### Artikel 12
+
+1. In een verzoek om een vergunning voor een inrichting dienen met betrekking tot hetgeen in het in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15) van overeenkomstige toepassing verklaarde [artikel 42, eerste en tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42), is bepaald, in elk geval te worden vermeld:
+
+- a. een omschrijving van de aard van het bedrijf waaruit onder meer moet blijken of de vergunning mede wordt gevraagd voor de vervaardiging van de desbetreffende goederen of uitsluitend voor het voorhanden hebben van de desbetreffende goederen;
+
+- b. het adres en de kadastrale aanduiding van de plaats waar de inrichting wordt gevestigd; en
+
+- c. een omschrijving van de administratie en de administratieve organisatie, alsmede het adres waar de administratie wordt gehouden.
+
+2. Indien toepassing van [artikel 2, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=2) wordt gewenst, wordt dit in het verzoek als bedoeld in het eerste lid opgenomen.
+
+### Afdeling 2. Aangifte
+
+##### Artikel 13
+
+1. Een vergunninghouder van een inrichting die tevens vergunninghouder is van één of meer andere inrichtingen kan op verzoek één aangifte voor die plaatsen te zamen doen, indien:
+
+- a. de administratie van de desbetreffende inrichtingen op één centrale plaats wordt gevoerd;
+
+- b. de centrale administratie en de administratieve organisatie van de desbetreffende inrichtingen zodanig is dat het toezicht op de heffing is gewaarborgd en uit de administratie op duidelijke wijze blijkt op welke inrichtingen de onderscheiden posten van die aangifte betrekking hebben.
+
+2. Het verzoek wordt ingediend bij de inspecteur onder wie de plaats ressorteert waar de centrale administratie wordt gevoerd. Een afschrift van het verzoek wordt gezonden naar de inspecteurs die de vergunningen voor de desbetreffende inrichtingen hebben verleend.
+
+3. De toestemming voor toepassing van het eerste lid wordt opgenomen in de vergunningen voor de desbetreffende inrichtingen. Daarbij kunnen aanvullende voorwaarden worden opgenomen omtrent het doen van de verzamelaangifte en de wijze waarop de administratie en de administratieve organisatie van de desbetreffende inrichtingen moeten zijn ingericht.
+
+4. Op de toestemming zijn de [artikelen 45 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) van overeenkomstige toepassing.
+
+### Afdeling 3. Zekerheid
+
+##### Artikel 14
+
+1. Voor de belasting die de vergunninghouder van een inrichting verschuldigd is of kan worden, stelt hij zekerheid. De zekerheid wordt bepaald op basis van het belastingbelang.
+
+2. Het belastingbelang is de som van het bedrag dat wordt vertegenwoordigd door de hoeveelheid alcoholvrije dranken, pruimtabak of snuiftabak die:
+
+- gemiddeld in de inrichting voorhanden is;
+
+- gemiddeld in een aangiftetijdvak wordt uitgeslagen;
+
+- gemiddeld in een aangiftetijdvak met een vervoersopdracht of een ander daartoe aangewezen bescheid wordt overgebracht naar een andere inrichting, een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lid-staat of een derde land;
+
+- gemiddeld in een aangiftetijdvak met toepassing van artikel 2, vijfde lid, van het besluit wordt overgebracht naar een andere inrichting;
+
+- gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een communautaire douaneregeling wordt overgebracht naar de inrichting.
+
+3. Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in het in artikel 35, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 76, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) van het bedrag aan belasting dat aangevraagde belastingzegels vertegenwoordigen, is het belastingbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.
+
+4. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2003-01-01&g=2003-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.
+
+5. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
+
+### Hoofdstuk IV. Vrijstellingen en teruggaven
+
+### Afdeling 1. Vrijstellingen
+
+##### Artikel 15
+
+1. In het verzoek om een vergunning als bedoeld in het in [artikel 29, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) van overeenkomstige toepassing verklaarde [artikel 65, vierde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), dienen te worden vermeld:
+
+- a. de persoon op wiens naam de vergunning dient te worden gesteld;
+
+- b. de hoeveelheid alcoholvrije dranken, pruimtabak of snuiftabak, onderscheiden naar soort, die naar verwachting per jaar zal worden betrokken;
+
+- c. de locatie en de inrichting van het bedrijf;
+
+- d. de hoeveelheid alcoholvrije dranken, pruimtabak of snuiftabak, onderscheiden naar soort, die naar verwachting per jaar met vrijstelling wordt vervaardigd of verbruikt;
+
+- e. de administratie en de administratieve organisatie met betrekking tot het bedrijf waarvoor de vergunning wordt gevraagd.
+
+2. Met betrekking tot het verlenen, het aanpassen en het intrekken van de vergunning zijn de [artikelen 45 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) van overeenkomstige toepassing.
+
+##### Artikel 16
+
+In de verklaring als bedoeld in artikel 15, eerste lid, onderdeel b, van het besluit dienen te worden vermeld:
+
+- de naam en het adres van de afnemer;
+
+- de naam en het adres van de leverancier;
+
+- de soort en de hoeveelheid van de desbetreffende goederen;
+
+- de naam, het nummer van teboekstelling en het land van registratie van het schip waarvoor de desbetreffende goederen zijn bestemd;
+
+- de naam en het adres van de gezagvoerder van het schip;
+
+- nummer en datum van de vergunning als bedoeld in artikel 15, eerste lid, van het besluit alsmede de inspecteur die de vergunning heeft verleend.
+
+- het vertrek- en het eindpunt van de vaart.
+
+##### Artikel 17
+
+In de verklaring als bedoeld in artikel 16 van het besluit dienen te worden vermeld:
+
+- de naam en het adres van de afnemer;
+
+- de naam en het adres van de leverancier;
+
+- de soort en de hoeveelheid van de desbetreffende goederen;
+
+- het registratienummer van het luchtvaartuig waarvoor de desbetreffende goederen zijn bestemd;
+
+- de naam en het adres van de gezagvoerder van het luchtvaartuig, alsmede het vertrek- en het eindpunt van de vlucht.
+
+##### Artikel 18
+
+1. Degene die in het bezit is van een vergunning als bedoeld in artikel 17, eerste lid, van het besluit, dient in zijn administratie met betrekking tot de alcoholvrije dranken, pruimtabak of snuiftabak die worden gebruikt voor onderzoek, kwaliteitscontroles of smaaktesten buiten de inrichting op overzichtelijke wijze bij te houden:
+
+- de soort en de hoeveelheid van de goederen;
+
+- het tijdstip van de overbrenging van de goederen;
+
+- het tijdstip van de overbrenging van de na afloop van het onderzoek, de controle of de smaaktest resterende goederen alsmede de plaats waar de goederen naar worden overgebracht. In de administratie worden ingeval van overbrenging naar een andere inrichting dan die van de in de aanhef bedoelde vergunninghouder de naam, het adres en Let vergunningnummer van de vergunninghouder van die andere inrichting vermeld.
+
+2. Bij de in het eerste lid bedoelde administratie bewaart degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling uitslaat dan wel invoert:
+
+- een afschrift van het ingevolge artikel 17, tweede lid, van het besluit gedane verzoek en van de daarbij overgelegde schriftelijke opdracht voor de onderzoeken, controles of smaaktesten;
+
+- ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: een afschrift van de ingevolge de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), gedane aangifte ten uitvoer waaruit blijkt dat de goederen hun bestemming hebben bereikt;
+
+- ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2003-01-01&g=2003-01-01).
+
+- ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
+
+3. Degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling invoert bewaart bij de in het eerste lid bedoelde administratie tevens een afschrift van de voor de desbetreffende goederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), gedane en ambtelijk afgetekende aangifte voor het vrije verkeer.
+
+##### Artikel 19
+
+1. Vrijstelling van belasting ter zake van de uitslag van alcoholvrije dranken, pruimtabak en snuiftabak uit een inrichting wordt verleend in gevallen waarin bij invoer deze goederen met toepassing van de artikelen 84 en 85 van de Douaneregeling met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.
+
+2. Vóór de uitslag dient een vergunning van de inspecteur te zijn verkregen. De vergunninghouder van de inrichting dient daartoe een verzoek in bij de inspecteur.
+
+3. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking
+
+### Afdeling 2. Teruggaven
+
+##### Artikel 20
+
+Een verzoek om teruggaaf van belasting als bedoeld in artikel 32 van de wet dient te worden ingediend binnen drie maanden nadat:
+
+- de in artikel 28 van de wet bedoelde vruchte- of groentesappen zijn vervaardigd;
+
+- de alcoholvrije dranken, pruimtabak of snuiftabak zijn gebruikt overeenkomstig de in de artikel 29, eerste lid, van de wet bedoelde bestemming;
+
+- de alcoholvrije dranken, pruimtabak of snuiftabak de in artikel 30 van de wet bedoelde bestemming hebben gevolgd.
+
+##### Artikel 21
+
+1. Een verzoek om teruggaaf van belasting als bedoeld in artikel 33, eerste lid, onderdelen a en b, van de wet voor alcoholvrije dranken, pruimtabak of snuiftabak die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd dient binnen één maand na de dag van het verloren gaan of van de vernietiging te worden ingediend bij de inspecteur onder wie de belanghebbende ressorteert.
+
+2. Het verzoek dient de volgende gegevens te bevatten:
+
+- a. de soort en de hoeveelheid van de goederen of de andere voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens;
+
+- b. het tijdstip, de plaats en de oorzaak van het verloren gaan, dan wel de vermelding van de ambtelijke verklaring van de vernietiging;
+
+- c. wanneer mededeling is gedaan van het verloren gaan; en
+
+- d. de soort en de hoeveelheid van de restanten van verloren gegane goederen en andere van belang zijnde gegevens.
+
+##### Artikel 22
+
+Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33) voor alcoholvrije dranken, pruimtabak of snuiftabak dient binnen drie maanden nadat de goederen hun bestemming hebben bereikt te worden ingediend bij de inspecteur onder wie belanghebbende ressorteert.
+
+### Hoofdstuk V. Bijzondere bepalingen
+
+### Afdeling 1. Belastingzegels
+
+##### Artikel 23
+
+Pruimtabak of snuiftabak die door reizigers voor eigen gebruik als bagage wordt meegenomen vanuit het buitenland, behoeft niet te zijn voorzien van belastingzegels.
+
+##### Artikel 24
+
+1. De belastingzegels worden aangevraagd bij:
+
+- a. de inspecteur onder wie de plaats waar de inrichting voor pruimtabak of snuiftabak is gelegen, ressorteert;
+
+- b. de voorzitter van het managementteam Belastingdienst/Douane West voor pruimtabak of snuiftabak die door of in opdracht van een ander dan een vergunninghouder van een inrichting voor pruimtabak of snuiftabak buiten Nederland van belastingzegels wordt voorzien.
+
+2. Indien een vergunninghouder van een inrichting voor pruimtabak of snuiftabak belastingzegels aanvraagt voor pruimtabak of snuiftabak die buiten Nederland van die zegels wordt voorzien, dient hij daarvan afzonderlijk aantekening te houden in zijn administratie.
+
+3. Voor het aanvragen van belastingzegels dient gebruik te worden gemaakt van de formulieren die van rijkswege verkrijgbaar worden gesteld.
+
+##### Artikel 25
+
+1. De belastingzegels worden verkrijgbaar gesteld bij de Geldnet Services B.V. Business Unit Waardenlogistiek.
+
+2. De belastingzegels worden door de Geldnet Services B.V. Business Unit Waardenlogistiek rechtstreeks aan de aanvrager gezonden, tenzij uit de aanvraag blijkt dat zij door de aanvrager of diens gemachtigde in ontvangst zullen worden genomen bij de Geldnet Services B.V. Business Unit Waardenlogistiek.
+
+##### Artikel 26
+
+1. De belastingzegels worden verkrijgbaar gesteld in hoeveelheden van één of meer vellen.
+
+2. Van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=27&z=2003-01-01&g=2003-01-01) vermelde lint- en sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door de Geldnet Services B.V. Business Unit Waardenlogistiek na overleg met de desbetreffende organisaties van de tabaksbranche.
+
+##### Artikel 27
+
+1. De belastingzegels hebben de vorm van een rechthoek. De zegels worden uitgevoerd én als lintzegel én als sluitzegel.
+
+2. De grootte van de lintzegels bedraagt 2 × 2,6 cm. De grootte van de sluitzegels bedraagt: 2,4 × 4,3 cm of 2,85 × 5,1 cm.
+
+##### Artikel 28
+
+1. Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de accijnszegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2003-01-01&g=2003-01-01) bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.
+
+2. De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de accijnszegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2003-01-01&g=2003-01-01) bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.
+
+##### Artikel 28a
+
+Op de lintzegels en op de sluitzegels mogen op de daarvoor aangewezen plaats aanduidingen als bedoeld in het Aanduidingenbesluit tabaksprodukten (Stb. 1994, 720) worden aangebracht.
+
+##### Artikel 29
+
+1. De inspecteur kan op verzoek van degene die de belastingzegels heeft aangevraagd, toestaan dat op de belastingzegel in plaats van de naam een fabrieks- of handelsmerk of een door het Ministerie van Financiën vastgesteld nummer wordt vermeld.
+
+2. De zegels worden afgeleverd zonder vermelding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28&z=2003-01-01&g=2003-01-01) bedoelde naam of van het in het eerste lid van dit artikel bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen moet door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze worden aangebracht op de daarvoor aangewezen plaats op de zegels.
+
+3. Door degene die de accijnszegels heeft aangevraagd mag een code worden aangebracht, bestaande uit letters dan wel uit een nummer voorafgegaan door een letter. Deze code dient te worden vermeld op de sluitzegels rechts van het zegelbeeld en op de lintzegels in het rechter middenvak.
+
+4. Het is verboden op de zegels andere dan de in dit artikel voorgeschreven en toegestane vermeldingen aan te brengen.
+
+##### Artikel 30
+
+1. Het beeld van de lintzegels bestaat uit een versieringsmotief waarin van links naar rechts de Belgische, de Nederlandse en de Luxemburgse Leeuw voorkomen. Bovendien zijn in de zegels tweemaal de letters B, N en L in monogramvorm opgenomen. De sluitzegels bestaan uit een ondergrond gevormd door een herhaling van het woord Benelux met aan beide korte zijden een ornament van tabaksbladeren. Bovendien zijn in deze ondergrond opgenomen de Belgische, de Nederlandse en de Luxemburgse Leeuw. Het zegelbeeld wordt gevormd door de letters B, N en L in monogramvorm, het geheel omgeven door een randmotief.
+
+2. 2. De zegels worden gedrukt in de volgende kleuren: de ondergrond in lichtbruin en het zegelbeeld alsmede de van rijkswege aangebrachte vermeldingen in groenachtig blauw.
+
+##### Artikel 31
+
+Sluitzegels mogen worden gebruikt voor plastic zakken (zogenoemde pouch-verpakkingen), doosjes met draaiend deksel, blikken busjes en verpakkingen die zijn omgeven door een omhulsel van cellofaan voorzien van een zogenoemde tearstrip.
+
+##### Artikel 32
+
+1. De belastingzegels moeten met kleefstof geheel op de verpakking worden bevestigd en wel zodanig dat de verpakking op de voor opening bestemde plaats of plaatsen niet kan worden geopend zonder dat de belastingzegels worden gescheurd of doorgesneden.
+
+2. De belastingzegels moeten op de verpakking zodanig worden aangebracht dat de op de zegels voorkomende vermeldingen van de hoeveelheid en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2003-01-01&g=2003-01-01), duidelijk leesbaar blijven, ook indien de verpakking op de daarvoor bestemde plaats of plaatsen is geopend.
+
+3. Indien lintzegels voor bepaalde verpakkingen te lang zijn, is inkorting van die zegels geoorloofd tot aan de monogrammen. Indien nog verdere inkorting nodig is, mogen het linkermonogram en het onmiddellijk daarnaast liggende vak tot aan het beeld van de linkerleeuw eveneens worden afgesneden.
+
+##### Artikel 33
+
+Het voor herhaald gebruik ongeschikt maken van een belastingzegel dient te geschieden door de zegel zo op de verpakking aan te brengen dat bij het openen van die verpakking het gedeelte van de belastingzegel waarop de kleinhandelsprijs is vermeld, wordt verwijderd van de verpakking dan wel wordt verscheurd.
+
+##### Artikel 34
+
+1. De verpakking van pruimtabak of snuiftabak moet de inhoud geheel omgeven en zonder beschadiging niet anders kunnen worden geopend dan op één of ten hoogste twee daarvoor bestemde en duidelijk herkenbare plaatsen. Het materiaal van de verpakking op de plaats waar de belastingzegel wordt bevestigd, dient zodanig te zijn dat een duurzame bevestiging wordt verkregen.
+
+2. Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2003-01-01&g=2003-01-01).
+
+3. De verpakking mag geen andere voorwerpen bevatten dan pruimtabak of snuiftabak. Evenmin mag de verpakking zodanig van aard en vorm zijn, dat daarmee tevens een later gebruik voor andere doeleinden wordt beoogd.
+
+##### Artikel 35
+
+De verpakking van pruimtabak of snuiftabak waarop belastingzegels worden aangebracht, mag uitsluitend één van de navolgende hoeveelheden pruimtabak of snuiftabak bevatten: veelvouden van 50 g nettomassa, alsmede 10, 25, 40 en 60 g nettomassa.
+
+##### Artikel 36
+
+Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen waarvan de nettomassa afwijkt van hetgeen in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2003-01-01&g=2003-01-01) is bepaald, mogen worden voorzien van zegels, mits de voldoening van de belasting plaats heeft naar de op 5 g afgeronde nettomassa, die de werkelijke massa het meest nabij komt en zegels worden gebruikt waarop de nettomassa niet is vermeld doch waarop voor de massa wordt verwezen naar de op de verpakking vermelde nettomassa. In het vak van de belastingzegel wordt alsdan in verticale stand het aantal grammen massa vermeld waarnaar de voldoening van de belasting heeft plaatsgevonden.
+
+##### Artikel 37
+
+1. Degene die de belastingzegels heeft aangevraagd, kan niet-beschadigde belastingzegels terugzenden aan de Geldnet Services B.V. Business Unit Waardenlogistiek.
+
+2. Voor het terugzenden van belastingzegels dient gebruik te worden gemaakt van het formulier dat van rijkswege verkrijgbaar wordt gesteld.
+
+##### Artikel 38
+
+1. Op verzoek van degene die de belastingzegels heeft aangevraagd, worden belastingzegels die zijn beschadigd of reeds zijn aangebracht op de verpakkingen die de inrichting nog niet hebben verlaten onder ambtelijk toezicht vernietigd.
+
+2. Het eerste lid is ook van toepassing op pruimtabak of snuiftabak die is uitgeslagen uit de inrichting of binnen Nederland is gebracht indien de pruimtabak of snuiftabak door degene die de accijnszegels heeft aangevraagd, is teruggenomen.
+
+##### Artikel 39
+
+1. Op verzoek van degene die de belastingzegels heeft aangevraagd, wordt teruggaaf verleend van het bedrag aan belasting dat belastingzegels vertegenwoordigen die:
+
+- a. door hem niet-beschadigd zijn teruggezonden;
+
+- b. zijn verloren gegaan ten gevolge van overmacht of ongeval;
+
+- c. onder ambtelijk toezicht zijn vernietigd.
+
+2. Het verzoek dient te bevatten de opgaaf van de soort en de hoeveelheid van de belastingzegels en het bedrag aan belasting dat zij vertegenwoordigen.
+
+3. Het verzoek wordt ingediend:
+
+- a. gelijktijdig met het terugzenden van de belastingzegels;
+
+- b. binnen een maand na het tijdstip van het verloren gaan; of
+
+- c. gelijktijdig met het verzoek tot het onder ambtelijk toezicht vernietigen.
+
+4. Degene die de belastingzegels heeft aangevraagd, doet van het verloren gaan van de belastingzegel onverwijld mededeling aan de inspecteur onder wie de plaats ressorteert waar de zegels zijn verloren gegaan onder opgaaf van het tijdstip, de plaats en de oorzaak van het verloren gaan.
+
+5. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
+
+6. Voor belastingzegels die zijn beschadigd of verloren zijn gegaan, vindt teruggaaf slechts plaats voor zover het bedrag van de belasting met zekerheid is vast te stellen.
+
+##### Artikel 40
+
+Tegen overlegging van de in [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=39&z=2003-01-01&g=2003-01-01), bedoelde beschikking aan de inspecteur door wiens bemiddeling de belastingzegels zijn aangevraagd, wordt indien door degene die de belastingzegels heeft aangevraagd op de voet van het in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35) van overeenkomstige toepassing verklaarde [artikel 76 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan belasting, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post: in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.
+
+### Afdeling 2. Controlebepalingen
+
+##### Artikel 41
+
+1. Als een in [artikel 27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=27), bedoeld bescheid kan dienen:
+
+- a. een factuur; of
+
+- b. een vervoersbescheid.
+
+2. De factuur of het vervoersbescheid dient in tweevoud te worden opgemaakt. Het duplicaat dient bij de administratie te worden bewaard.
+
+3. Op het factuur of het vervoersbescheid dienen de volgende gegevens te worden vermeld:
+
+- a. de plaats en de dagtekening van afgifte;
+
+- b. de naam, het adres en de hoedanigheid van de afzender;
+
+- c. de plaats waar het pand zich bevindt van waaruit de goederen afkomstig zijn;
+
+- d. de naam, het adres en de hoedanigheid van de ontbieder;
+
+- e. de plaats waar het pand zich bevindt waar de goederen naartoe worden vervoerd;
+
+- f. de soort en de hoeveelheid van de alcoholvrije dranken;
+
+- g. de merken en nummers, aantal en soort van de verpakkingen;
+
+- h. de naam en het adres van de vervoerder;
+
+- i. de soort van het vervoermiddel waarmee de goederen worden vervoerd, alsmede de naam en het kenteken; en
+
+- j. de datum van aanvang van het vervoer.
+
+##### Artikel 42
+
+Bij een onderzoek genomen monsters worden onderzocht in het Laboratorium van de Belastingdienst.
+
+### Afdeling 3. Overige bepalingen
+
+##### Artikel 43
+
+1. De vergunninghouder van een inrichting doet van het verloren gaan van alcoholvrije dranken, pruimtabak of snuiftabak in zijn inrichting ten gevolge van ongeval of overmacht onverwijld mededeling aan de inspecteur onder opgaaf van het tijdstip en de oorzaak van het verloren gaan.
+
+2. Het eerste lid is van overeenkomstige toepassing op het verloren gaan van alcoholvrije dranken, pruimtabak of snuiftabak ten gevolge van ongeval of overmacht tijdens het overbrengen van goederen waarvoor de belasting nog niet is geheven.
+
+3. Van een voorgenomen vernietiging van in een inrichting voorhanden zijnde alcoholvrije dranken, pruimtabak of snuiftabak die onbruikbaar of onverkoopbaar zijn geworden, wordt uiterlijk twee werkdagen voor de voorgenomen vernietiging door de vergunninghouder van de inrichting mededeling gedaan aan de inspecteur, onder vermelding van het tijdstip waarop de vernietiging zal plaatsvinden.
+
+### Hoofdstuk VI. Ontheffing verbodsbepalingen
+
+##### Artikel 44
+
+In afwijking van het in [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) van overeenkomstige toepassing verklaarde [artikel 95, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=95), mag in de detailhandelszaken pruimtabak of snuiftabak aanwezig zijn met verbroken belastingzegels tot een aantal van 10 verpakkingen, mits de op de verpakking aangebrachte belastingzegels, hoewel doorgescheurd of doorgesneden, volledig aanwezig zijn. Die pruimtabak of snuiftabak mag met niet meer dan één verpakking tegelijk worden afgeleverd.
+
+### Hoofdstuk VII. Strafbepalingen
+
+##### Artikel 45
+
+Strafbare feiten zijn:
+
+- a. het overtreden van het in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2003-01-01&g=2003-01-01), bedoelde verbod;
+
+- b. het niet voldoen aan een in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=32&z=2003-01-01&g=2003-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=33&z=2003-01-01&g=2003-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2003-01-01&g=2003-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=36&z=2003-01-01&g=2003-01-01) opgelegde verplichting.
+
+### Hoofdstuk VIII. Slotbepalingen
+
+##### Artikel 46
+
+1. Deze regeling treedt in werking op het tijdstip waarop de [Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) in werking treedt.
+
+2. Deze regeling kan worden aangehaald als [Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005812).
+
+## Bijlage
+
+| **Gehalte aan vruchtesap of vruchtenmoes als bedoeld in artikel 6** | **Minimumgehalte aan sap en eventueel aan vruchtenmoes, uitgedrukt in gewichtspercenten van het eindprodukt** |
+| --- | --- |
+| **1. Vruchten met zuur sap dat onbewerkt niet geschikt is voor menselijke consumptie** |   |
+| passievruchten (Passiflora edulis) | 25 |
+| gele terongs (Solanum quitoense) | 25 |
+| zwarte aalbessen | 25 |
+| witte aalbessen | 25 |
+| rode aalbessen | 25 |
+| kruisbessen | 30 |
+| duindoornbessen (Hippophaë) | 25 |
+| sleepruimen | 30 |
+| pruimen | 30 |
+| kwetsen | 30 |
+| lijsterbessen | 30 |
+| rozebottels | 40 |
+| zure kersen (Morellen) | 35 |
+| andere kersen | 40 |
+| bosbessen | 40 |
+| vlierbessen | 50 |
+| frambozen | 40 |
+| abrikozen | 40 |
+| aardbeien | 40 |
+| bramen (braambessen) | 40 |
+| rode bosbessen | 30 |
+| kweeperen | 50 |
+| citroenen en lemmetjes | 25 |
+| andere vruchten van deze categorie | 25 |
+|   |   |
+| **2. Zuurarme vruchten of vruchten met veel vruchtvlees of zeer aromatische vruchten, met sap dat onbewerkt niet geschikt is voor menselijke consumptie:** |   |
+| mango's | 35 |
+| bananen | 25 |
+| guaves | 25 |
+| papaya's | 25 |
+| litchi's | 25 |
+| azarolmispels | 25 |
+| zuurzakken (Annona Muricata) | 25 |
+| boeah nona's (Annona reticulata) | 25 |
+| cherimoya's | 25 |
+| granaatappelen | 25 |
+| acajounoten of cashewnoten (Anarcardium occidentale) | 25 |
+| rode mombinpruimen (Spondias purperea) | 25 |
+| Imbu-mombinpruimen (Spondias tuberosa arruda) | 30 |
+| andere vruchten van deze categorie | 25 |
+|   |   |
+| **3. vruchten met sap dat onbewerkt geschikt is voor menselijke consumptie:** |   |
+| appelen | 50 |
+| peren | 50 |
+| perziken | 45 |
+| citrusvruchten met uitzondering van citroenen en lemmetjes | 50 |
+| ananassen | 50 |
+| andere vruchten van deze categorie | 50 |
+
+##### Artikel 40a
+
+In een ingevolge de overeenkomstige toepassing van [artikel 75, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) gedaan verzoek wordt in ieder geval vermeld:
+
+- a. de persoon op wiens naam de toestemming moet worden gesteld en zijn btw-identificatienummer;
+
+- b. het adres en de woonplaats van de in onderdeel a bedoelde persoon;
+
+- c. de aard van het bedrijf waaruit blijkt voor welk soort bedrijf het verzoek wordt gedaan, onder overeenkomstige toepassing van [artikel 75, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75);
+
+- d. een omschrijving van de zegeladministratie en het adres waar deze administratie wordt gehouden;
+
+- e. het aantal belastingzegels dat gemiddeld per maand wordt aangevraagd en per maand in voorraad wordt gehouden onderscheiden naar pruimtabak en snuiftabak alsmede naar de gemiddelde kleinhandelsprijs;
+
+- f. de naam, het adres, de woonplaats, het land en de aard van het niet in Nederland gevestigde bedrijf als het een fiscaal vertegenwoordiger betreft;
+
+- g. de naam en het adres van degene die de pruimtabak of snuiftabak uitslaat of invoert als het een bedrijf als bedoeld in [artikel 75, eerste lid, onderdelen c of d, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) betreft.
+
+##### Artikel 40b
+
+Met betrekking tot het verlenen en aanpassen van de toestemming om belastingzegels aan te vragen zijn de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) en [46 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=46) van overeenkomstige toepassing.
+
+##### Artikel 40c
+
+In de administratie wordt krachtens de overeenkomstige toepassing van [artikel 75, zesde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) in ieder geval aantekening gehouden van:
+
+- a. de aangevraagde en ontvangen belastingzegels;
+
+- b. de kleinhandelsprijs en de hoeveelheid op iedere belastingzegel;
+
+- c. het aanbrengen van belastingzegels op de verpakking in Nederland en in het buitenland;
+
+- d. het terugsturen van vellen met belastingzegels die niet aan de kwaliteitseisen voldoen of niet zijn geleverd overeenkomstig de aanvraag;
+
+- e. het vernietigen onder ambtelijk toezicht van losse belastingzegels of beschadigde vellen met belastingzegels en het verloren gaan van de belastingzegels ten gevolge van ongeval of overmacht;
+
+- f. de belastingzegels die zijn aangebracht op uitgeslagen of ingevoerde pruimtabak of snuiftabak;
+
+- g. als het een inrichting voor verbruiksbelastingen betreft de belastingzegels die zijn aangebracht op de uitgeslagen pruimtabak of snuiftabak die in de inrichting voor verbruiksbelastingen opnieuw zijn ingeslagen; en
+
+- h. de locatie waar de belastingzegels zich bevinden of de locatie waar de pruimtabak of snuiftabak zich bevindt waarop de belastingzegels zijn aangebracht voor zover de pruimtabak of snuiftabak nog niet is opgenomen in een aangifte als bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=20).
+
+### Afdeling 3. Overige bepalingen
+
+### Hoofdstuk VI. Ontheffing verbodsbepalingen
+
+### Hoofdstuk VII. Strafbepalingen
+
+### Hoofdstuk VIII. Slotbepalingen
+
+## Bijlage
+
+| **Gehalte aan vruchtesap of vruchtenmoes, bedoeld in artikel 6** | **Minimumgehalte aan sap en eventueel aan vruchtenmoes, uitgedrukt in gewichtspercenten van het eindprodukt** |
+| --- | --- |
+| **1. Vruchten met zuur sap dat onbewerkt niet geschikt is voor menselijke consumptie** |   |
+| passievruchten (Passiflora edulis) | 25 |
+| gele terongs (Solanum quitoense) | 25 |
+| zwarte aalbessen | 25 |
+| witte aalbessen | 25 |
+| rode aalbessen | 25 |
+| kruisbessen | 30 |
+| duindoornbessen (Hippophaë) | 25 |
+| sleepruimen | 30 |
+| pruimen | 30 |
+| kwetsen | 30 |
+| lijsterbessen | 30 |
+| rozebottels | 40 |
+| zure kersen (Morellen) | 35 |
+| andere kersen | 40 |
+| bosbessen | 40 |
+| vlierbessen | 50 |
+| frambozen | 40 |
+| abrikozen | 40 |
+| aardbeien | 40 |
+| bramen (braambessen) | 40 |
+| rode bosbessen | 30 |
+| kweeperen | 50 |
+| citroenen en lemmetjes | 25 |
+| andere vruchten van deze categorie | 25 |
+|   |   |
+| **2. Zuurarme vruchten of vruchten met veel vruchtvlees of zeer aromatische vruchten, met sap dat onbewerkt niet geschikt is voor menselijke consumptie:** |   |
+| mango's | 35 |
+| bananen | 25 |
+| guaves | 25 |
+| papaya's | 25 |
+| litchi's | 25 |
+| azarolmispels | 25 |
+| zuurzakken (Annona Muricata) | 25 |
+| boeah nona's (Annona reticulata) | 25 |
+| cherimoya's | 25 |
+| granaatappelen | 25 |
+| acajounoten of cashewnoten (Anarcardium occidentale) | 25 |
+| rode mombinpruimen (Spondias purperea) | 25 |
+| Imbu-mombinpruimen (Spondias tuberosa arruda) | 30 |
+| andere vruchten van deze categorie | 25 |
+|   |   |
+| **3. vruchten met sap dat onbewerkt geschikt is voor menselijke consumptie:** |   |
+| appelen | 50 |
+| peren | 50 |
+| perziken | 45 |
+| citrusvruchten met uitzondering van citroenen en lemmetjes | 50 |
+| ananassen | 50 |
+| andere vruchten van deze categorie | 50 |
