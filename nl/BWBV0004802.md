@@ -4,7 +4,7 @@ identifier: "BWBV0004802"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-07-01"
-last_updated: "1999-11-12"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004802"
 soort: "verdrag"
@@ -670,6 +670,82 @@ De uitgaven met betrekking tot het Auditcomité komen ten laste van de Organisat
 - b. Ten behoeve van de controle van de mate van transparantie genoemd in het bovenstaande eerste lid, onderdeel b, mag het Auditcomité bij zijn werkzaamheden worden bijgestaan door externe adviseurs.
 
 5. Het doel van de in het bovenstaande eerste lid, onderdeel a, genoemde controle die aan de hand van bescheiden en, zo nodig, ter plaatse geschiedt, heeft ten doel de juistheid van de ontvangsten en uitgaven na te gaan, en vast te stellen of een goed financieel beheer is gevoerd. Het Auditcomité legt na afsluiting van elk begrotingsjaar een verslag aan de Commissie voor.
+
+##### Artikel 23
+
+Alle voorgestelde wijzigingen van de Statuten worden ter goedkeuring aan de Commissie voorgelegd, met inachtneming van het bepaalde in artikel 32, lid 3 van het Verdrag.
+
+##### Artikel 1. Begripsbepalingen
+
+Vervallen
+
+##### Artikel 2. Verkeersleidingscentrum Maastricht
+
+Vervallen
+
+##### Artikel 3. Verkeersleidingscentrum Karlsruhe
+
+Vervallen
+
+##### Artikel 4. In Ierland geïnstalleerde inrichtingen
+
+Vervallen
+
+##### Artikel 5. Resterende betalingen
+
+Vervallen
+
+##### Artikel 6. Overgangsbepalingen inzake de begroting
+
+Vervallen
+
+TEN BLIJKE WAARVAN, de ondergetekende Gevolmachtigden, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, dit Verdrag hebben ondertekend en van hun zegel hebben voorzien.
+
+Gedaan te Brussel, op 13 december 1960, in de Duitse, Engelse, Franse en Nederlandse taal, in een enkel exemplaar, dat blijft berusten in het archief van de Regering van het Koninkrijk België, die een gewaarmerkt afschrift hiervan zal doen toekomen aan alle ondertekenende staten. In geval van afwijking tussen de teksten is de Franse tekst doorslaggevend.
+
+##### Artikel 17bis
+
+Er wordt een „EUROCONTROL-pensioenfonds” opgericht dat een afzonderlijke categorie activa van de Organisatie vormt. Het fonds bezit geen rechtspersoonlijkheid. Het wordt beheerd zoals vervat in het Aanhangsel bij deze Statuten.
+
+##### Artikel 18
+
+1. De diensten van het Agentschap kunnen op verzoek van de Commissie, op eigen initiatief of op verzoek van de Directeur-generaal, onderworpen worden aan administratieve of technische inspecties.
+
+2. Deze inspecties worden uitgevoerd door ambtenaren behorende tot de overheidsdiensten van de Verdragsluitende Partijen, zo nodig met externe bijstand. Elke inspectiecommissie bestaat uit ten minste twee leden van verschillende nationaliteit en tot elke inspectiecommissie moet voor zover mogelijk een lid behoren dat aan een voorgaande inspectie heeft deelgenomen.
+
+##### Artikel 19
+
+1. Onverminderd het gestelde in onderstaand lid 2 worden de jaarlijkse bijdragen van de Verdragsluitende Partijen aan de begroting voor elk begrotingsjaar bepaald volgens onderstaande verdeelsleutel:
+
+- (a). een eerste bestanddeel, ten belope van 30% van de bijdrage, wordt berekend in verhouding tot de hoogte van het Bruto Nationaal Produkt van de Verdragsluitende Partijen zoals dit is omschreven in onderstaand lid 3;
+
+- (b). een tweede bestanddeel, ten belope van 70% van de bijdrage, wordt berekend in verhouding tot de hoogte van de grondslag van de „en route”-heffingen der Verdragsluitende Partijen zoals deze is omschreven in onderstaand lid 4.
+
+2. Geen enkele Verdragsluitende Partij is verplicht voor een bepaald begrotingsjaar een hogere bijdrage te betalen dan 30% van het totaal van de bijdragen van de Verdragsluitende Partijen. Indien de overeenkomstig de bepalingen in het eerste lid berekende bijdrage van een Verdragsluitende Partij meer bedraagt dan 30%, wordt het overschot volgens de in het eerste lid vastgestelde regels over de andere Verdragsluitende Partijen omgeslagen.
+
+3. Het hier bedoelde Bruto Nationaal Produkt is het nationaal produkt zoals dat blijkt uit de statistieken, opgesteld door de Organisatie voor Economische Samenwerking en Ontwikkeling - of, bij gebreke daarvan, door een andere instantie die gelijkwaardige garanties biedt en aangewezen is krachtens een beslissing van de Commissie - door het rekenkundig gemiddelde te berekenen over de laatste drie jaren waarvoor zulke statistieken ter beschikking staan. Bedoeld wordt het Bruto Nationaal Produkt berekend naar factorkosten en lopende prijzen uitgedrukt in Europese Rekeneenheden.
+
+4. De hier bedoelde grondslag voor de „en route”-heffingen is die welke is vastgesteld voor het voorlaatste jaar vóór het desbetreffende begrotingsjaar.
+
+##### Artikel 20
+
+1. De Organisatie kan op de internationale kapitaalmarktende gelden opnemen die ter vervulling van haar taak noodzakelijk zijn.
+
+2. De Organisatie kan op de kapitaalmarkten van een Verdragsluitende Partij leningen uitgeven in het kader van de voor binnenlandse leningen geldende nationale wettelijke regelingen, of bij gebreke van dergelijke regelingen, in overeenstemming met de Verdragsluitende Partij.
+
+3. Het Financieel Reglement stelt de procedure vast volgens welke de Organisatie leningen aangaat en aflost.
+
+4. Elke begroting bepaalt het maximumbedrag dat de Organisatie kan lenen in de loop van het jaar waarop de begroting betrekking heeft.
+
+5. Ten aanzien van aangelegenheden die vallen binnen de werkingssfeer van dit artikel handelt de Organisatie in overleg met de bevoegde autoriteiten van de Verdragsluitende Partijen of met de circulatiebanken van die Verdragsluitende Partijen.
+
+##### Artikel 21
+
+In het ingevolge het bovenstaande artikel 11 aangenomen Financieel Reglement wordt voorzien in het ramen, uitvoeren en nazien van de ontvangsten en uitgaven van het Agentschap, met inachtneming van de bepalingen van deze Statuten.
+
+##### Artikel 22
+
+Vervallen
 
 ##### Artikel 23
 
