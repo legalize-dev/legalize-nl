@@ -4,7 +4,7 @@ identifier: "BWBR0012182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-18"
-last_updated: "2001-01-31"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012182"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als be
 
 ##### Artikel 3
 
-De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2001-01-31&g=2001-01-31), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2001-01-31&g=2001-01-31), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
+De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2001-01-31&g=2003-01-01), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2001-01-31&g=2003-01-01), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
 
 ##### Artikel 4
 
