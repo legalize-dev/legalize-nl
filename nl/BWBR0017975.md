@@ -4,7 +4,7 @@ identifier: "BWBR0017975"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-02-11"
-last_updated: "2004-02-01"
+last_updated: "2005-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017975"
 soort: "AMvB"
@@ -115,7 +115,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De Raad stelt een commissie in die de Raad adviseert over wijzigingen in de productie-, prijs- en werklastmetingssystemen alsmede de opzet van de vergelijkende en diepteonderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2004-02-01).
+1. De Raad stelt een commissie in die de Raad adviseert over wijzigingen in de productie-, prijs- en werklastmetingssystemen alsmede de opzet van de vergelijkende en diepteonderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2005-02-11).
 
 2. De commissie bestaat uit vertegenwoordigers van de gerechten.
 
@@ -169,9 +169,9 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 - b. veranderingen in de verhouding van de aantallen zaken per zaakscategorie binnen de productgroep;
 
-- c. de uitkomsten van de werklastmeting, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=4&z=2005-02-11&g=2004-02-01), en de aanvullende onderzoeken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=5&z=2005-02-11&g=2004-02-01);
+- c. de uitkomsten van de werklastmeting, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=4&z=2005-02-11&g=2005-02-11), en de aanvullende onderzoeken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=5&z=2005-02-11&g=2005-02-11);
 
-- d. overwegingen van kwaliteit op basis van informatie uit het kwaliteitssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=7&z=2005-02-11&g=2004-02-01);
+- d. overwegingen van kwaliteit op basis van informatie uit het kwaliteitssysteem, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=7&z=2005-02-11&g=2005-02-11);
 
 - e. overwegingen van doelmatigheid.
 
@@ -181,7 +181,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 1. De Raad baseert in zijn begrotingsvoorstel voor het uitvoeringsjaar en de vier daaropvolgende jaren de raming van het aantal zaken per productgroep op de verwachte instroom van zaken in het begrotingsjaar, de werkvoorraad aan het begin van het uitvoeringsjaar en de gewenste werkvoorraad aan het eind van het jaar.
 
-2. De Raad hanteert het prognosemodel, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=8&z=2005-02-11&g=2004-02-01), voor de raming van de verwachte instroom van zaken. Indien hij voor zijn begrotingsvoorstel afwijkt van door het prognosemodel gegenereerde gegevens, worden de redenen daarvoor opgenomen in het voorstel.
+2. De Raad hanteert het prognosemodel, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=8&z=2005-02-11&g=2005-02-11), voor de raming van de verwachte instroom van zaken. Indien hij voor zijn begrotingsvoorstel afwijkt van door het prognosemodel gegenereerde gegevens, worden de redenen daarvoor opgenomen in het voorstel.
 
 3. De Raad corrigeert, in voorkomend geval, de raming van de verwachte instroom voor de effecten van wijzigingen in het systeem van de rechtspraak.
 
@@ -209,7 +209,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 - a. de door de gerechten gezamenlijk te realiseren zaaksaantallen per productgroep;
 
-- b. te realiseren doelstellingen zoals opgenomen in het in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2004-02-01) bedoelde plan;
+- b. te realiseren doelstellingen zoals opgenomen in het in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2005-02-11) bedoelde plan;
 
 - c. het realiseren van in arbeidsvoorwaardenoverleg gemaakte afspraken.
 
@@ -217,7 +217,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 ##### Artikel 17
 
-1. Het eigen vermogen van de rechtspraak wordt bepaald door de som te nemen van de eigen vermogens van de gerechten en onder de Raad ressorterende diensten, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2004-02-01) en [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=5&artikel=39&z=2005-02-11&g=2004-02-01), en het eigen vermogen van de Raad zelf, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=18&z=2005-02-11&g=2004-02-01).
+1. Het eigen vermogen van de rechtspraak wordt bepaald door de som te nemen van de eigen vermogens van de gerechten en onder de Raad ressorterende diensten, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11) en [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=5&artikel=39&z=2005-02-11&g=2005-02-11), en het eigen vermogen van de Raad zelf, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=18&z=2005-02-11&g=2005-02-11).
 
 2. In de balans kunnen onder het eigen vermogen van de rechtspraak slechts worden opgenomen:
 
@@ -233,7 +233,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 5. Een positief exploitatieresultaat van de rechtspraak komt tot de in het derde lid bedoelde grens ten goede aan de exploitatiereserve van de rechtspraak. Het meerdere keert de Raad uit aan Onze Minister.
 
-6. Een negatief exploitatieresultaat van de rechtspraak komt ten laste van de exploitatiereserve van de rechtspraak. In het uitzonderlijke geval dat dit leidt tot een negatief vermogen wordt dit aangezuiverd door Onze Minister en vindt overleg plaats over te nemen maatregelen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=21&z=2005-02-11&g=2004-02-01).
+6. Een negatief exploitatieresultaat van de rechtspraak komt ten laste van de exploitatiereserve van de rechtspraak. In het uitzonderlijke geval dat dit leidt tot een negatief vermogen wordt dit aangezuiverd door Onze Minister en vindt overleg plaats over te nemen maatregelen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=21&z=2005-02-11&g=2005-02-11).
 
 7. Voor het tegen een financiële vergoeding verrichten van activiteiten die niet in een wettelijke regeling aan de rechtspraak zijn opgedragen voor anderen dan Onze Minister, behoeft de Raad de instemming van Onze Minister.
 
@@ -243,7 +243,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 2. De exploitatiereserve van de Raad is bestemd om risico’s in de bedrijfsvoering van de rechtspraak als geheel op te vangen.
 
-3. Onze Minister kan met inachtneming van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01), om niet een toevoeging doen aan de exploitatiereserve van de Raad ten einde het eigen vermogen van de Raad te versterken.
+3. Onze Minister kan met inachtneming van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), om niet een toevoeging doen aan de exploitatiereserve van de Raad ten einde het eigen vermogen van de Raad te versterken.
 
 4. Het is de Raad niet toegestaan bijdragen in de vorm van een lening te aanvaarden van anderen dan Onze Minister van Financiën. Bijdragen van anderen worden toegevoegd aan de exploitatiereserve van de Raad.
 
@@ -261,17 +261,17 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 ##### Artikel 20
 
-1. De aan de Raad ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2004-02-01) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd indien de gerechten meer dan wel minder zaken per productgroep hebben afgedaan dan in de begroting van het Ministerie van Justitie was opgenomen.
+1. De aan de Raad ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2005-02-11) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd indien de gerechten meer dan wel minder zaken per productgroep hebben afgedaan dan in de begroting van het Ministerie van Justitie was opgenomen.
 
 2. Het bedrag van de verhoging dan wel verlaging wordt bepaald door het aantal zaken per productgroep dat meer dan wel minder is afgedaan te vermenigvuldigen met een prijs die gelijk is aan 70% van de voor het desbetreffende jaar geldende prijs per productgroep.
 
-3. Een in het eerste lid bedoelde verhoging van de productiegerelateerde bijdrage wordt tot de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01), bedoelde grens als bate opgenomen in de staat van baten en lasten van de Raad en de gerechten en komt ten laste van de egalisatierekening van de rechtspraak. Is de verhoging groter, dan wordt voor het meerdere de egalisatierekening niet belast. De verhoging is maximaal het bedrag, bedoeld in [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2004-02-01).
+3. Een in het eerste lid bedoelde verhoging van de productiegerelateerde bijdrage wordt tot de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), bedoelde grens als bate opgenomen in de staat van baten en lasten van de Raad en de gerechten en komt ten laste van de egalisatierekening van de rechtspraak. Is de verhoging groter, dan wordt voor het meerdere de egalisatierekening niet belast. De verhoging is maximaal het bedrag, bedoeld in [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2005-02-11).
 
 4. Een in het eerste lid bedoelde verlaging van de productiegerelateerde bijdrage wordt als last opgenomen in de staat van baten en lasten van de Raad en de gerechten en komt ten goede aan de egalisatierekening van de rechtspraak.
 
 ##### Artikel 21
 
-Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de rechtspraak, een exploitatiewinst die uitkomt komen boven de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01), bedoelde grens dan wel een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overleggen Onze Minister en de Raad over te nemen maatregelen en passen zo nodig, onverminderd [artikel 17, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01), de productieaantallen van de rechtspraak en de landelijke prijzen aan.
+Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de rechtspraak, een exploitatiewinst die uitkomt komen boven de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), bedoelde grens dan wel een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overleggen Onze Minister en de Raad over te nemen maatregelen en passen zo nodig, onverminderd [artikel 17, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), de productieaantallen van de rechtspraak en de landelijke prijzen aan.
 
 ### Afdeling 5. Informatievoorziening
 
@@ -279,13 +279,13 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de r
 
 1. De Raad verstrekt Onze Minister de voor de uitoefening van zijn taak met betrekking tot de financiering van de rechtspraak benodigde informatie. Daartoe behoren in elk geval:
 
-- a. gegevens over de productiegerelateerde bijdrage, gerechtskosten en overige uitgaven als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2004-02-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=14&z=2005-02-11&g=2004-02-01), en [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2004-02-01).
+- a. gegevens over de productiegerelateerde bijdrage, gerechtskosten en overige uitgaven als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2005-02-11), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=14&z=2005-02-11&g=2005-02-11), en [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2005-02-11).
 
-- b. prijsgegevens, waaronder de uitkomsten van de werklastmeting en vergelijkende en diepteonderzoeken, en gegevens over de kwaliteit als genoemd in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=12&z=2005-02-11&g=2004-02-01).
+- b. prijsgegevens, waaronder de uitkomsten van de werklastmeting en vergelijkende en diepteonderzoeken, en gegevens over de kwaliteit als genoemd in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=12&z=2005-02-11&g=2005-02-11).
 
-- c. gegevens over zaaksaantallen, de instroom van zaken en werkvoorraden genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=13&z=2005-02-11&g=2004-02-01).
+- c. gegevens over zaaksaantallen, de instroom van zaken en werkvoorraden genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=13&z=2005-02-11&g=2005-02-11).
 
-- d. balansgegevens waaronder gegevens over het eigen vermogen en de egalisatierekening als bedoeld in de [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01).
+- d. balansgegevens waaronder gegevens over het eigen vermogen en de egalisatierekening als bedoeld in de [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11).
 
 2. Onze Minister en de Raad maken in een informatieprotocol nadere afspraken over de ten behoeve van de financiering te verstrekken informatie.
 
@@ -295,7 +295,7 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de r
 
 ##### Artikel 23
 
-De Raad splitst de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2004-02-01) bedoelde productiegerelateerde bijdrage van Onze Minister in de volgende delen:
+De Raad splitst de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2005-02-11) bedoelde productiegerelateerde bijdrage van Onze Minister in de volgende delen:
 
 - a. een productiegerelateerde bijdrage voor de gerechten;
 
@@ -307,7 +307,7 @@ De Raad splitst de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR00179
 
 ##### Artikel 24
 
-De Raad splitst de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2004-02-01) bedoelde bijdrage van Onze Minister voor overige uitgaven in de volgende delen:
+De Raad splitst de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2005-02-11) bedoelde bijdrage van Onze Minister voor overige uitgaven in de volgende delen:
 
 - a. een bijdrage aan de gerechten voor overige uitgaven;
 
@@ -339,19 +339,19 @@ De door de Raad aan het gerecht toe te kennen bijdrage bestaat uit de volgende o
 
 1. De Raad stelt de lokale prijzen vast.
 
-2. De Raad kan de prijzen voor de afzonderlijke gerechten verschillend vaststellen op grond van de uitkomsten van de werklastmeting en de vergelijkende onderzoeken, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=4&z=2005-02-11&g=2004-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=5&z=2005-02-11&g=2004-02-01).
+2. De Raad kan de prijzen voor de afzonderlijke gerechten verschillend vaststellen op grond van de uitkomsten van de werklastmeting en de vergelijkende onderzoeken, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=4&z=2005-02-11&g=2005-02-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=5&z=2005-02-11&g=2005-02-11).
 
 3. De in het tweede lid bedoelde differentiatie in de prijzen kan alleen betrekking hebben op factoren die de gerechten niet kunnen beïnvloeden.
 
 ##### Artikel 28
 
-1. De Raad verdeelt het bedrag van de in [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=1&artikel=10&z=2005-02-11&g=2004-02-01), bedoelde component gerechtskosten over de gerechten overeenkomstig het aantal civiele en bestuursrechtelijke zaken dat in het begrotingsjaar zal worden afgehandeld.
+1. De Raad verdeelt het bedrag van de in [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=1&artikel=10&z=2005-02-11&g=2005-02-11), bedoelde component gerechtskosten over de gerechten overeenkomstig het aantal civiele en bestuursrechtelijke zaken dat in het begrotingsjaar zal worden afgehandeld.
 
 2. Op verzoek van het bestuur van een gerecht stelt de Raad aanvullende financiële middelen ter beschikking teneinde de met de gerechtskosten in civiele en bestuursrechterlijke zaken gemoeide uitgaven van het desbetreffende gerecht te bekostigen.
 
 ##### Artikel 29
 
-De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2004-02-01), bedoelde component huisvesting over de gerechten op grond van ramingen van de gerechten ter zake.
+De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2005-02-11), bedoelde component huisvesting over de gerechten op grond van ramingen van de gerechten ter zake.
 
 ##### Artikel 30
 
@@ -363,11 +363,11 @@ De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overh
 
 - b. een begroting, tenzij deze voor de berekening van het bedrag niet van belang is.
 
-3. Door de Raad toegekende verzoeken komen ten laste van de in [artikel 23, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2004-02-01), bedoelde component specifieke uitgaven.
+3. Door de Raad toegekende verzoeken komen ten laste van de in [artikel 23, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2005-02-11), bedoelde component specifieke uitgaven.
 
 ##### Artikel 31
 
-De Raad verdeelt het bedrag van de in [artikel 24, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=24&z=2005-02-11&g=2004-02-01), bedoelde component overige uitgaven over de gerechten op grond van ramingen van de gerechten ter zake.
+De Raad verdeelt het bedrag van de in [artikel 24, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=24&z=2005-02-11&g=2005-02-11), bedoelde component overige uitgaven over de gerechten op grond van ramingen van de gerechten ter zake.
 
 ### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
 
@@ -377,7 +377,7 @@ De aan de toekenning van de jaarlijkse bijdrage door de Raad te verbinden voorsc
 
 - a. te realiseren zaaksaantallen, onderscheiden naar zaakscategorie;
 
-- b. met de in de [artikelen 25, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=25&z=2005-02-11&g=2004-02-01), bedoelde bijdragen te realiseren doelen;
+- b. met de in de [artikelen 25, onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=25&z=2005-02-11&g=2005-02-11), bedoelde bijdragen te realiseren doelen;
 
 - c. het realiseren van in arbeidsvoorwaardenoverleg gemaakte afspraken.
 
@@ -385,19 +385,19 @@ De aan de toekenning van de jaarlijkse bijdrage door de Raad te verbinden voorsc
 
 ##### Artikel 33
 
-Het bestuur van het gerecht is verplicht medewerking te verlenen aan de metingen en onderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2004-02-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=7&z=2005-02-11&g=2004-02-01).
+Het bestuur van het gerecht is verplicht medewerking te verlenen aan de metingen en onderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2005-02-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=7&z=2005-02-11&g=2005-02-11).
 
 ##### Artikel 34
 
-Het bestuur van het gerecht kan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=28&z=2005-02-11&g=2004-02-01) aan het gerecht toegekende bijdrage voor gerechtskosten in civiele en bestuursrechtelijke zaken uitsluitend voor deze kosten aanwenden.
+Het bestuur van het gerecht kan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=28&z=2005-02-11&g=2005-02-11) aan het gerecht toegekende bijdrage voor gerechtskosten in civiele en bestuursrechtelijke zaken uitsluitend voor deze kosten aanwenden.
 
 ##### Artikel 35
 
 Het bestuur van het gerecht verstrekt aan de Raad:
 
-- a. de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=5&artikel=22&z=2005-02-11&g=2004-02-01), genoemde gegevens;
+- a. de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=5&artikel=22&z=2005-02-11&g=2005-02-11), genoemde gegevens;
 
-- b. de gegevens die de Raad nodig heeft om aan de afspraken in het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=5&artikel=22&z=2005-02-11&g=2004-02-01), bedoelde informatieprotocol te voldoen;
+- b. de gegevens die de Raad nodig heeft om aan de afspraken in het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=5&artikel=22&z=2005-02-11&g=2005-02-11), bedoelde informatieprotocol te voldoen;
 
 - c. informatie over aantallen en categorieën van af te handelen zaken van het gerecht en aantallen en categorieën van af te handelen zaken als nevenzittingsplaats voor een ander gerecht, alsmede aantallen en categorieën van zaken die in een nevenzittingsplaats buiten het rechtsgebied worden behandeld.
 
@@ -419,23 +419,23 @@ Het bestuur van het gerecht verstrekt aan de Raad:
 
 7. Een positief exploitatieresultaat van het gerecht komt tot de in het derde lid bedoelde grens ten goede aan de exploitatiereserve. Het meerdere wordt toegevoegd aan het vermogen van de Raad.
 
-8. Een negatief exploitatieresultaat van het gerecht komt ten laste van het exploitatiereserve. In het uitzonderlijke geval dat dit leidt tot een negatief vermogen wordt dit aangezuiverd door de Raad en vindt overleg plaats over te nemen maatregelen als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=38&z=2005-02-11&g=2004-02-01).
+8. Een negatief exploitatieresultaat van het gerecht komt ten laste van het exploitatiereserve. In het uitzonderlijke geval dat dit leidt tot een negatief vermogen wordt dit aangezuiverd door de Raad en vindt overleg plaats over te nemen maatregelen als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=38&z=2005-02-11&g=2005-02-11).
 
 9. Voor het tegen een financiële vergoeding verrichten van activiteiten die niet in een wettelijke regeling aan het gerecht zijn opgedragen voor anderen dan de rechtspraak zelf of Onze Minister, behoeft het bestuur van het gerecht de instemming van de Raad.
 
 ##### Artikel 37
 
-1. De aan het gerecht ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=26&z=2005-02-11&g=2004-02-01) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd, indien het gerecht meer dan wel minder zaken per productgroep heeft afgedaan dan met de Raad voor dat jaar is overeengekomen.
+1. De aan het gerecht ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=26&z=2005-02-11&g=2005-02-11) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd, indien het gerecht meer dan wel minder zaken per productgroep heeft afgedaan dan met de Raad voor dat jaar is overeengekomen.
 
 2. Het bedrag van de verhoging dan wel verlaging wordt bepaald door het aantal zaken per productgroep dat meer dan wel minder is afgedaan te vermenigvuldigen met een prijs die gelijk is aan 70% van het voor het desbetreffende jaar geldende gemiddelde van de prijs per productgroep, die de Raad voor de afzonderlijke gerechten hanteert.
 
-3. Een in het tweede lid bedoelde verhoging van de productiegerelateerde bijdrage wordt als bate opgenomen in de staat van baten en lasten en komt ten laste van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2004-02-01) bedoelde egalisatierekening van de rechtspraak. Indien voor de rechtspraak sprake is van een verrekening die hoger ligt dan het bedrag dat op grond van [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2004-02-01), beschikbaar is, bedraagt de verhoging voor elk afzonderlijk gerecht een aan de krachtens het tweede lid berekende verhogingen evenredig deel van het beschikbare bedrag op de egalisatierekening.
+3. Een in het tweede lid bedoelde verhoging van de productiegerelateerde bijdrage wordt als bate opgenomen in de staat van baten en lasten en komt ten laste van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2005-02-11) bedoelde egalisatierekening van de rechtspraak. Indien voor de rechtspraak sprake is van een verrekening die hoger ligt dan het bedrag dat op grond van [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=19&z=2005-02-11&g=2005-02-11), beschikbaar is, bedraagt de verhoging voor elk afzonderlijk gerecht een aan de krachtens het tweede lid berekende verhogingen evenredig deel van het beschikbare bedrag op de egalisatierekening.
 
 4. Een in het tweede lid bedoelde verlaging van de productiegerelateerde bijdrage wordt als last opgenomen in de staat van baten en lasten van het gerecht en komt ten goede aan de egalisatierekening van de rechtspraak.
 
 ##### Artikel 38
 
-Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen voor een gerecht, een exploitatiewinst die uitkomt boven de in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2004-02-01), bedoelde grens dan wel bij een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overlegt de Raad met het betreffende gerecht over te nemen maatregelen en passen zij zonodig, onverminderd [artikel 36, zevende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2004-02-01), de gemaakte afspraken over productieaantallen en de lokale prijzen aan.
+Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen voor een gerecht, een exploitatiewinst die uitkomt boven de in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), bedoelde grens dan wel bij een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overlegt de Raad met het betreffende gerecht over te nemen maatregelen en passen zij zonodig, onverminderd [artikel 36, zevende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), de gemaakte afspraken over productieaantallen en de lokale prijzen aan.
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -451,7 +451,7 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen voor een
 
 ##### Artikel 40
 
-Voor onder de Raad ressorterende diensten is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2004-02-01) van overeenkomstige toepassing.
+Voor onder de Raad ressorterende diensten is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11) van overeenkomstige toepassing.
 
 ##### Artikel 41
 
@@ -485,7 +485,7 @@ Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenare
 
 3. Voor het opstellen van een openingsbalans per 1 januari 2005 zijn de artikelen 2 en 3 van de regeling Vermogensvoorschriften baten-lastendiensten 2001 van overeenkomstige toepassing voor de Raad, de gerechten en onder de Raad ressorterende diensten.
 
-4. De in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2004-02-01), en [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2004-02-01), bedoelde grens van 5% wordt voor het jaar 2006 berekend aan de hand van de baten 2005. Voor het jaar 2007 aan de hand van de gemiddelde jaarlijkse baten van 2005 en 2006.
+4. De in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), en [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), bedoelde grens van 5% wordt voor het jaar 2006 berekend aan de hand van de baten 2005. Voor het jaar 2007 aan de hand van de gemiddelde jaarlijkse baten van 2005 en 2006.
 
 ##### Artikel 47
 
