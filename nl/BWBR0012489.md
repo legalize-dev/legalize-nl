@@ -4,7 +4,7 @@ identifier: "BWBR0012489"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012489"
 soort: "AMvB"
@@ -60,6 +60,6 @@ Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waa
 
 ##### Artikel III
 
-Dit besluit treedt in werking met ingang 1 januari 2003 met uitzondering van de [artikelen I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0012489&artikel=I&z=2002-01-01&g=2002-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0012489&artikel=II&z=2002-01-01&g=2002-01-01), die in werking treden met ingang van 1 januari 2002.
+Dit besluit treedt in werking met ingang 1 januari 2003 met uitzondering van de [artikelen I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0012489&artikel=I&z=2003-01-01&g=2003-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0012489&artikel=II&z=2003-01-01&g=2003-01-01), die in werking treden met ingang van 1 januari 2002.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
