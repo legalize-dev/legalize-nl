@@ -301,29 +301,3 @@ Deze regeling wordt aangehaald als: Regeling inschrijving Nederlandse burgerluch
 ## Bijlage 2. bij artikel 17
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.2), [3.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), en [3.5, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.5) en [artikel 4 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=4).
-
-#### § 2. In te dienen gegevens met betrekking tot het luchtvaartuig
-
-#### § 3. In te dienen gegevens met betrekking tot de aanvrager
-
-#### § 4. Wijziging van de inschrijving
-
-#### § 5. Vernieuwing van het bewijs van inschrijving
-
-#### § 6. Doorhaling van de inschrijving
-
-#### § 7. Model van bewijs van inschrijving
-
-#### § 8. In het register op te nemen gegevens
-
-#### § 9. Nationaliteitskenmerken en inschrijvingskenmerken
-
-#### § 10. Slotbepalingen
-
-## Bijlage 2. bij artikel 17
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
