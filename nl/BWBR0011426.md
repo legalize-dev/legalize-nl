@@ -4,7 +4,7 @@ identifier: "BWBR0011426"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-08-28"
-last_updated: "2000-07-01"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011426"
 soort: "ministeriele-regeling"
@@ -48,14 +48,24 @@ Besluit:
 
 ##### Artikel 2
 
-De tekst van de latere vermeldingen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&artikel=1&z=2000-07-01&g=2000-07-01) wordt in enkelvoud toegezonden op formulieren ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&bijlage=1&z=2000-07-01&g=2000-07-01) aangehechte model (formaat A4 (297x210 mm). De formulieren worden vervaardigd met inachtneming van de [Regeling papier en schrijfmiddelen voor de burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006909). De formulieren gaan vergezeld van een geleidebrief overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&bijlage=2&z=2000-07-01&g=2000-07-01) aangehechte model (formaat A4 (297x210 mm.) alsmede van een PTT-formulier voor ‘Post met ontvangstbevestiging’.
+1. Voor de toezending van de tekst van de latere vermeldingen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&artikel=1&z=2004-05-19&g=2004-05-19), mogen uitsluitend worden gebruikt:
+
+- a. formulieren ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&bijlage=1&z=2004-05-19&g=2004-05-19) aangehechte model (formaat A4) of
+
+- b. een CD-ROM die voldoet aan de normen van ISO 9660 en ISO 10149.
+
+2. De formulieren en de CD-ROM gaan vergezeld van een begeleidende brief volgens het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011426&bijlage=2&z=2004-05-19&g=2004-05-19) aangehechte model (formaat A4).
+
+3. Voor de verpakking van een CD-ROM mag uitsluitend gebruik gemaakt worden van een kunststof verpakking waardoor beschadiging van de CD-ROM bij normaal vervoer per post redelijkerwijze is uitgesloten.
+
+4. De toezending van de formulieren en van de CD-ROM geschiedt per aangetekende post met ontvangstbevestiging.
 
 ##### Artikel 3
 
-Deze regeling treedt in werking op 1 juli 2000.
+Deze regeling treedt in werking op het tijdstip waarop het besluit van 31 maart 2004 tot wijziging van het besluit burgerlijke stand 1994 in verband met het mogelijk maken van vervaardiging op digitale wijze van de dubbelen van de akten van de burgerlijke stand in werking treedt (Stb. 2004, 190).
 
 ## Bijlage 1. Kennisgeving latere vermelding
 
-## Bijlage 2
+## Bijlage 2. Begeleidende brief
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
