@@ -481,31 +481,3 @@ Categorie V: bedrijfstakpensioenfondsen met een balanstotaal van meer dan € 45
 3. Indien de gegevens omtrent het balanstotaal niet aan de Pensioen- & Verzekeringskamer beschikbaar zijn gesteld, kan de Pensioen- & Verzekeringskamer aan degene aan wie de boete wordt opgelegd, verzoeken deze gegevens binnen een door haar te stellen termijn te verstrekken. Indien de betrokkene niet binnen de gestelde termijn voldoet aan dit verzoek, is bij de vaststelling van de hoogte van de boete categorie V van toepassing.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a. [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
-
-De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is niet van toepassing op bedrijfstakpensioenfondsen.
-
-#### § 4. Toezicht en sancties
-
-#### § 5. Rechtsvordering
-
-#### § 6. Wijziging van wetten
-
-#### § 7. Overgangs- en slotbepalingen
-
-## Bijlage. als bedoeld in artikel 20 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 39a. Overgangsrecht in verband met [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328)
-
-[Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=8&z=2023-07-01&g=2023-07-01), zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328), blijft van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds overgaat op uitvoering van een gewijzigde pensioenovereenkomst, maar uiterlijk 1 januari 2027. De [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2), en [220h, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220h) zijn van toepassing.
-
-## Bijlage. als bedoeld in artikel 20 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
