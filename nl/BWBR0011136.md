@@ -67,9 +67,3 @@ Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepal
 Dit besluit wordt aangehaald als: Besluit extramurale vrijheidsbeneming en sociale zekerheid.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 13, derde lid, van de Wet werk en bijstand](onbekend).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
