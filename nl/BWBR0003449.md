@@ -1,0 +1,93 @@
+---
+title: "Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)"
+identifier: "BWBR0003449"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-03-08"
+last_updated: "1981-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003449"
+soort: "AMvB"
+stam_id: "740603"
+version_id: "1082112"
+internal_id: "C1082111"
+label_id: "717594"
+dtd_version: "2.0"
+original_entry_into_force: "1981-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003449/2006-03-08/0"
+intitule_bron: "Stb.1981-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-10-16"
+intitule_status: "goed"
+original_publication: "Stb.1981-659"
+original_signed_date: "1981-10-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-11-07"
+jci_1_3: "jci1.3:c:BWBR0003449&z=2006-03-08&g=2006-03-08"
+jci_1_0: "1.0:c:BWBR0003449&g=2006-03-08"
+citeertitel_status: "officieel"
+short_title: "Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer"
+signed_date: "1981-10-16"
+entry_into_force: "1981-11-07"
+---
+# Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)
+
+Op de voordracht van Onze Minister van Landbouw en Visserij van 29 juni 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J.4247;
+
+Gelet op [artikel 3, zevende lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=3) (**Stb.** 1981, 248);
+
+De Raad van State gehoord (advies van 17 augustus 1981, nr. 810805/20);
+
+Gezien het nader rapport van Onze Minister van Landbouw en Visserij van 8 oktober 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J.6158;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+1. De omschrijving en de aanduiding van het gebied waarvan bij besluit van de gemeenteraad wordt verklaard, dat daarin uitsluitend of nagenoeg uitsluitend onroerend goed is gelegen, dat duurzaam voor andere dan landbouwkundige doeleinden wordt gebruikt dan wel onroerend goed dat niet als natuurterrein dient te worden aangemerkt, geschiedt in dat besluit door de vermelding van alle tot het gebied behorende percelen, met gebruikmaking van hun kadastrale aanduiding, welke bestaat uit achtereenvolgens de naam der kadastrale gemeente, de aanduiding der sectie en het perceelnummer.
+
+2. Indien alle percelen die binnen één kadastrale sectie zijn gelegen tot het gebied behoren, wordt volstaan met de vermelding van de naam der kadastrale gemeente en de aanduiding der sectie.
+
+3. Indien van de in één kadastrale sectie gelegen percelen het aantal der duurzaam voor andere dan landbouwkundige doeleinden gebruikt wordende percelen dan wel de percelen die niet als natuurterreinen dienen te worden aangemerkt, aanmerkelijk groter is dan het aantal overige percelen, wordt het gebied omschreven en aangeduid als omvattende de gehele sectie, met uitzondering van die overige percelen, welke laatste als zodanig worden vermeld en daarbij door hun nummer worden aangegeven.
+
+4. Bij de vermeldingen ingevolge het eerste en het derde lid worden de perceelnummers in hun numerieke volgorde geplaatst.
+
+5. Als kadastrale aanduiding waarvan vermelding geschiedt ingevolge het eerste, tweede en derde lid, wordt aangemerkt die, welke bestaat op een tijdstip dat de gemeenteraad in het besluit aanwijst.
+
+##### Artikel 2
+
+Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=1981-11-07&g=1981-11-07), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van de gemeenteraad opgenomen.
+
+##### Artikel 3
+
+1. De bij het besluit van de gemeenteraad gevoegde kaart wordt ingericht met inachtneming van de volgende voorschriften:
+
+- a. de kaart wordt vervaardigd op een schaal van 1 op 10.000;
+
+- b. de begrenzing van het in het besluit van de gemeenteraad begrepen gebied wordt met een duidelijke ononderbroken lijn op de kaart aangegeven;
+
+- c. uit de kaart moet de kadastrale sectie-indeling blijken door middel van een onderbroken lijn;
+
+- d. uit de kaart moet de aansluiting van het in het besluit van de gemeenteraad begrepen gebied aan het daaromheen gelegen gebied blijken;
+
+- e. op de kaart wordt een noordpijl alsmede de naam van de gemeente aangegeven.
+
+2. In afwijking van het bepaalde in het eerste lid, onder **a**, mag de kaart worden vervaardigd op een schaal van:
+
+- a. 1 op 25.000, indien de uitgestrektheid van de gemeente daartoe aanleiding geeft;
+
+- b. 1 op 5.000, indien de bijzondere kadastrale situatie van het gebied als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=1981-11-07&g=1981-11-07), dit noodzakelijk maakt.
+
+3. Onze Minister kan met betrekking tot de technische uitvoering van de kaarten nadere voorschriften geven.
+
+##### Artikel 4
+
+1. Burgemeester en wethouders maken Onze goedkeuring van het besluit bekend in de **Nederlandse Staatscourant**, in een of meer in de gemeente verspreide dag- of nieuwsbladen en voorts op de aldaar gebruikelijke wijze.
+
+2. Het door Ons goedgekeurde besluit van de gemeenteraad wordt, hetzij in druk, hetzij in afschrift, tegen betaling van de kosten algemeen verkrijgbaar gesteld.
+
+##### Artikel 5
+
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
