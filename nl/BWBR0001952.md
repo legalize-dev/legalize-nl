@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -153,7 +153,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 ##### Artikel 12
 
-Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
+1. Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
 - a. aanstelling;
 
@@ -187,9 +187,15 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 
 - p. het verbieden van nevenwerkzaamheden waardoor de goede vervulling van de functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met de functievervulling, niet in redelijkheid zou zijn verzekerd;
 
-- q. overige rechten en verplichtingen;
+- q. de openbaarmaking van de krachtens onderdeel o geregistreerde nevenwerkzaamheden van militaire ambtenaren die een functie vervullen waarvoor ter bescherming van de integriteit van de openbare dienst openbaarmaking van de nevenwerkzaamheden noodzakelijk is;
 
-- r. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
+- r. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is en de bescherming van de militaire ambtenaar tijdens en na het volgen van die procedure;
+
+- s. overige rechten en verplichtingen;
+
+- t. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
+
+2. Bij of krachtens algemene maatregel van bestuur worden voor militaire ambtenaren die een functie vervullen waaraan in het bijzonder het risico van financiële belangenverstrengeling of het risico van oneigenlijk gebruik van koersgevoelige informatie verbonden is, voorschriften vastgesteld betreffende de melding van financiële belangen respectievelijk van het bezit van en transacties in effecten, die de belangen van de dienst voor zover deze in verband staan met de functievervulling, kunnen raken.
 
 ##### Artikel 12a
 
@@ -204,6 +210,8 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 - c. een vakvereniging.
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
+
+4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2003-05-01&g=2003-05-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 12b
 
