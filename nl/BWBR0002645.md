@@ -4,7 +4,7 @@ identifier: "BWBR0002645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002645"
 soort: "wet"
@@ -81,7 +81,7 @@ Behalve de in de voorgaande artikelen genoemde bedragen worden in rekening gebra
 
 1. Tegen de door de ontvanger of de belastingdeurwaarder in rekening gebrachte kosten van vervolging welke niet voortspruiten uit de gerechtelijke tenuitvoerlegging van het dwangbevel kan degene van wie die kosten worden gevorderd een bezwaarschrift, onderscheidenlijk een beroepschrift indienen bij de ontvanger. Met betrekking tot bezwaar tegen de in de eerste volzin bedoelde beschikking, met betrekking tot beroep ter zake van een uitspraak op het desbetreffende bezwaar, alsmede met betrekking tot beroep in cassatie ter zake van de desbetreffende rechterlijke uitspraak, gelden dezelfde regels als die welke van toepassing zijn op bezwaar, beroep of beroep in cassatie als bedoeld in [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V).
 
-2. Het bezwaar- of beroepschrift kan niet zijn gegrond op de stelling dat het aanslagbiljet of de aanmaning niet is ontvangen.
+2. Het bezwaar- of beroepschrift kan niet zijn gegrond op de stelling dat het aanslagbiljet, de aanmaning of het op de voet van artikel 13, derde lid, van de Invorderingswet 1990 betekende dwangbevel niet is ontvangen.
 
 ##### Artikel 8
 
