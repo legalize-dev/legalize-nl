@@ -277,35 +277,3 @@ Deze wet kan worden aangehaald als: Noodwet financieel verkeer.
 Met uitzondering van de [artikelen 3-32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=II&artikel=3&z=1998-06-01&g=1998-06-01) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18b
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-1. Onze Minister is bevoegd te bepalen dat verzekeringsondernemingen die ingevolge door hen gesloten overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering uitkeringen zullen verrichten naar aanleiding van een of meer terroristische handelingen, door hem vast te stellen kortingen toepassen, dan wel niet gehouden zijn tot uitkeringen die een door hem te bepalen bedrag voor alle verzekeringsondernemingen gezamenlijk overschrijden.
-
-2. Onder de in het eerste lid bedoelde uitkeringen krachtens overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering zijn niet begrepen uitkeringen krachtens overeenkomsten van herverzekering.
-
-3. Onze Minister is bevoegd de in het eerste lid bedoelde kortingen en beperkingen van uitkeringen te herzien.
-
-##### Artikel 18c
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-Onze Minister is bevoegd nadere voorschriften te geven terzake van het bepaalde in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2003-11-26&g=2003-11-26).
-
-##### Artikel 18d
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
-
-Zolang de ingevolge de [artikelen 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18b&z=2003-11-26&g=2003-11-26) en [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&hoofdstuk=IXA&artikel=18c&z=2003-11-26&g=2003-11-26) gegeven voorschriften van kracht zijn, blijven de in de betrokken overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering opgenomen bepalingen omtrent de dekking van het terrorismerisico buiten toepassing.
-
-### Hoofdstuk X. Dekking oorlogsrisico door levensverzekeringsondernemingen, pensioen- en spaarfondsen
-
-### Hoofdstuk XII. Financieel verkeer met het buitenland
-
-### Hoofdstuk XIII. Bepalingen van bijzondere aard
-
-### Hoofdstuk XIV. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
