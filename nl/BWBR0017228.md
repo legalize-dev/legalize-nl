@@ -4,7 +4,7 @@ identifier: "BWBR0017228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-01"
-last_updated: "2004-10-15"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017228"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek 
 
 - a. de aanmelding van de door de inspecteur-generaal aangegeven schepen;
 
-- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2004-10-15&g=2004-10-15), vermelde gegevens.
+- b. de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=3&artikel=3&z=2005-01-01&g=2005-01-01), vermelde gegevens.
 
 #### § 4. Rapportageverplichtingen
 
@@ -125,19 +125,13 @@ Het aantal jaarlijks door de ambtenaren van de divisie Scheepvaart te inspectere
 
 ##### Artikel 9
 
-Het tarief ter vergoeding van de kosten, bedoeld in [artikel 35a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35a), voor:
-
-- a. de behandeling van de aanvraag voor een ontheffing, bedraagt € 87;
-
-- b. de verlening van een ontheffing, bedraagt € 183;
-
-- c. de afgifte van duplicaten en gewaarmerkte afschriften van de ontheffing, bedraagt € 118.
+Vervallen
 
 #### § 8. Aanwijzing havens
 
 ##### Artikel 10
 
-De havenbeheerders van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2004-10-15&g=2004-10-15) aangewezen havens dragen zorg voor toereikende havenontvangstvoorzieningen voor het in ontvangst nemen van de in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2004-10-15&g=2004-10-15) aangewezen categorieën scheepsafval, overige schadelijke stoffen of restanten van schadelijke stoffen.
+De havenbeheerders van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2005-01-01&g=2005-01-01) aangewezen havens dragen zorg voor toereikende havenontvangstvoorzieningen voor het in ontvangst nemen van de in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=I&z=2005-01-01&g=2005-01-01) aangewezen categorieën scheepsafval, overige schadelijke stoffen of restanten van schadelijke stoffen.
 
 #### § 9. Aanwijzing rechtspersoon visserijsector
 
@@ -149,7 +143,7 @@ Als rechtspersoon, bedoeld in [artikel 9, tweede lid, van het Besluit havenontva
 
 ##### Artikel 12
 
-Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2004-10-15&g=2004-10-15) bij deze regeling.
+Een melding als bedoeld in [artikel 8, eerste lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8) wordt gedaan met behulp van het model, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&bijlage=II&z=2005-01-01&g=2005-01-01) bij deze regeling.
 
 #### § 11. Wijziging en intrekking van andere regelingen
 
@@ -165,9 +159,9 @@ De circulaire van de Minister van Verkeer en Waterstaat inzake melding door de s
 
 ##### Artikel 15
 
-1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2004-10-15&g=2004-10-15) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
+1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2005-01-01&g=2005-01-01) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kwartaal betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kwartaal betrekking hebbende gegevens.
 
-2. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=6&z=2004-10-15&g=2004-10-15) worden de op het kalenderjaar 2004 betrekking hebbende gegevens als bedoeld in dat artikel uiterlijk 1 maart 2006 aan de inspecteur-generaal gemeld.
+2. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=6&z=2005-01-01&g=2005-01-01) worden de op het kalenderjaar 2004 betrekking hebbende gegevens als bedoeld in dat artikel uiterlijk 1 maart 2006 aan de inspecteur-generaal gemeld.
 
 ##### Artikel 16
 
