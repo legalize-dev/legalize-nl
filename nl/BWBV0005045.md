@@ -4,7 +4,7 @@ identifier: "BWBV0005045"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-02-21"
-last_updated: "2004-12-16"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005045"
 soort: "verdrag"
@@ -76,9 +76,9 @@ b). De instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een
 
 - -. de toekenning van gelijk stemrecht aan alle leden van de Raad van Bestuur;
 
-- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2004-12-16&g=2004-12-16) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2004-12-16&g=2004-12-16) van de hierbij gevoegde Statuten).
+- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2005-03-18&g=2005-03-18) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2005-03-18&g=2005-03-18) van de hierbij gevoegde Statuten).
 
-c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2004-12-16&g=2004-12-16) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2004-12-16&g=2004-12-16) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
+c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2005-03-18&g=2005-03-18) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2005-03-18&g=2005-03-18) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
 
 d). De Regering van de Staat van vestiging geeft onverwijld kennis aan de andere Regeringen van alle Statutenwijzigingen, waartoe door de Maatschappij is besloten. In de gevallen, voorzien in de leden **b)** en **c)** van dit artikel, treden deze wijzigingen, indien geen bezwaar is gemaakt door enige Regering wier instemming op grond van de genoemde leden is vereist, drie maanden na de datum van deze kennisgeving in werking. De op grond van dit lid gemaakte bezwaren worden ter kennis gebracht van de Regering van de Staat van vestiging, die daarvan mededeling doet aan de andere Regeringen.
 
@@ -104,7 +104,7 @@ b). Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf dez
 
 ##### Artikel 6
 
-a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2004-12-16&g=2004-12-16) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
+a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2005-03-18&g=2005-03-18) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
 
 b). De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.
 
@@ -126,7 +126,7 @@ De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezen
 
 ##### Artikel 10
 
-Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2004-12-16&g=2004-12-16), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
+Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2005-03-18&g=2005-03-18), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
 
 ##### Artikel 11
 
@@ -134,7 +134,7 @@ a). Iedere Regering van een Europees land, die dit Verdrag niet heeft onderteken
 
 b). De toetreding van een Regering, die geen lid is van de Europese Conferentie van Ministers van Verkeer, zal evenwel eerst van kracht worden nadat de instemming van alle bij dit Verdrag partij zijnde Regeringen aan de Regering van Zwitserland ter kennis is gebracht.
 
-c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2004-12-16&g=2004-12-16), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
+c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2005-03-18&g=2005-03-18), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
 
 ##### Artikel 12
 
@@ -144,7 +144,7 @@ Dit Verdrag is gesloten voor de duur van de Maatschappij.
 
 a). Een bij dit Verdrag partij zijnde Regering, waarvan geen spoorweg aandeelhouder is of waarvan iedere spoorweg heeft opgehouden aandeelhouder te zijn van de Maatschappij, kan haar deelneming aan dit Verdrag beëindigen door met inachtneming van een opzeggingstermijn van drie maanden een desbetreffende mededeling tot de Regering van Zwitserland te richten. Indien de opzegging echter geschiedt door de Regering van de Staat van vestiging, eindigt haar deelneming aan dit Verdrag eerst nadat de zetel van de Maatschappij is verplaatst naar een andere Staat.
 
-b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2004-12-16&g=2004-12-16) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
+b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2005-03-18&g=2005-03-18) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
 
 ##### Artikel 14
 
@@ -152,7 +152,7 @@ Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking 
 
 ##### Artikel 15
 
-a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2004-12-16&g=2004-12-16), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
+a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2005-03-18&g=2005-03-18), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
 
 b). Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het Verdrag in werking onmiddellijk na de nederlegging van de akte van bekrachtiging.
 
@@ -162,7 +162,7 @@ c). De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserla
 
 a). Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.
 
-b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2004-12-16&g=2004-12-16), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
+b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2005-03-18&g=2005-03-18), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
 
 ##### Artikel 17
 
@@ -366,7 +366,7 @@ In dringende gevallen kunnen besluiten per brief of per telegram genomen worden,
 
 De Raad van Bestuur kan noch beraadslagen noch rechtsgeldige beslissingen nemen indien de bijeenroeping niet overeenkomstig deze statuten is geschied of indien de meerderheid der leden niet aanwezig of vertegenwoordigd is.
 
-De besluiten van de Raad worden genomen met meerderheid van de stemmen van de aanwezige of vertegenwoordigde leden. Bij staking van stemmen is de stem van de voorzitter der vergadering doorslaggevend. Voor besluiten bedoeld in [punt 3 van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=22&z=2004-12-16&g=2004-12-16) is bij uitzondering een meerderheid van 3/4 vereist.
+De besluiten van de Raad worden genomen met meerderheid van de stemmen van de aanwezige of vertegenwoordigde leden. Bij staking van stemmen is de stem van de voorzitter der vergadering doorslaggevend. Voor besluiten bedoeld in [punt 3 van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=22&z=2005-03-18&g=2005-03-18) is bij uitzondering een meerderheid van 3/4 vereist.
 
 ##### Artikel 25
 
@@ -388,7 +388,7 @@ De aandeelhouders stellen zich jegens de vennootschap garant voor de uitvoering 
 
 Indien de uitvoering van een bepaalde overeenkomst gedekt wordt door andere garanties, met name die welke voortvloeien uit artikel 3 of uit het in artikel 1 bedoelde Internationale Verdrag, treedt de in het eerste lid bedoelde garantie alleen subsidiair in werking.
 
-Er zal slechts een beroep op de in het eerste lid bedoelde garantie worden gedaan voorzover enige spoorweg de door haar aangegane verplichtingen niet is nagekomen en deze het bedrag van de bijzondere garantiereserve, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2004-12-16&g=2004-12-16), overschrijden.
+Er zal slechts een beroep op de in het eerste lid bedoelde garantie worden gedaan voorzover enige spoorweg de door haar aangegane verplichtingen niet is nagekomen en deze het bedrag van de bijzondere garantiereserve, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2005-03-18&g=2005-03-18), overschrijden.
 
 De bedragen, die de aandeelhouders als garantie hebben gestort, zullen verhoudingsgewijs worden terugbetaald naar gelang de vennootschap later betaling verkrijgt uit hoofde van haar vordering met betrekking tot de vervallen overeenkomst of van het materieel bedoeld in die overeenkomst.
 
