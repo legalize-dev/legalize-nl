@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2002-09-11"
+last_updated: "2003-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -80,11 +80,11 @@ In dit besluit wordt verstaan onder:
 
 - o. Wet SUWI: de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- p. boete: de boete, bedoeld in de [artikelen 14a, eerste lid, van de Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14a), [17, eerste lid, van de WIK](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=17), [20a, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), [20a, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a), [27a, eerste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [40, eerste lid, van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=40), [14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), [17c, eerste lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), [39, eerste lid, van de ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39), [17a, eerste lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), [7:16, eerste lid, van de Wet arbeid en zorg](onbekend) en [46, eerste lid, van de REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=46);
+- p. boete: de boete, bedoeld in de [artikelen 14a, eerste lid, van de Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14a), [17, eerste lid, van de WIK](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=17), [20a, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), [20a, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a), [27a, eerste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [40, eerste lid, van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=40), [14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), [17c, eerste lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), [39, eerste lid, van de ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39), [17a, eerste lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), [7:16, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=7:16) en [46, eerste lid, van de REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=46);
 
-- q. werkgeversboete ZW/WAO: de boete, bedoeld in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), en [38a, zesde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002;
+- q. werkgeversboete ZW/WAO: de boete, bedoeld in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002;
 
-- r. inlichtingenverplichting: de verplichting, bedoeld in de [artikelen 65, eerste lid, van de Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=65), [15, tweede lid, sub c, van de WIK](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=15), [13, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), [13, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13), [25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [62 van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=62), [12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), [49 van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [35 van de ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [15 van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [7:15, eerste en tweede lid, van de Wet arbeid en zorg](onbekend), [45 van de REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=45), en [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en[29, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29);
+- r. inlichtingenverplichting: de verplichting, bedoeld in de [artikelen 65, eerste lid, van de Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=65), [15, tweede lid, sub c, van de WIK](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=15), [13, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), [13, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13), [25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [62 van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=62), [12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), [49 van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [35 van de ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [15 van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [7:15, eerste en tweede lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=7:15), [45 van de REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=45), en [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en[29, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29);
 
 - s. benadelingsbedrag:
 
@@ -108,9 +108,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Afstemming
 
-1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2002-09-11&g=2002-09-11), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2003-08-15&g=2003-08-15), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2002-09-11&g=2002-09-11), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2002-09-11&g=2002-09-11), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2002-09-11&g=2002-09-11), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2002-09-11&g=2002-09-11) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2003-08-15&g=2003-08-15), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2003-08-15&g=2003-08-15), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2003-08-15&g=2003-08-15), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2003-08-15&g=2003-08-15) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
 ##### Artikel 4. Intrekking van een besluit en vervallen van artikelen
 
@@ -156,27 +156,29 @@ Dit besluit wordt aangehaald als: Boetebesluit socialezekerheidswetten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 2a. Niet behoorlijke hersteldmelding en melding laatste werkdag
+##### Artikel 2a. Niet of niet behoorlijke melding door werkgever
 
-De verplichtingen, bedoeld in de [artikelen 38, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), en [38a, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) zijn niet behoorlijk nagekomen indien:
+1. De verplichtingen, bedoeld in de [artikelen 38, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), en [38a, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) zijn niet behoorlijk nagekomen indien:
 
 - a. de aangifte op de laatste werkdag of de hersteldmelding niet tijdig is gedaan, of
 
 - b. de datum van de laatste werkdag of herstel onjuist is opgegeven.
 
-##### Artikel 2b. Hoogte van de werkgeversboete bij niet behoorlijke hersteldmelding en melding laatste werkdag en het ontbreken daarvan
+2. De verplichting, bedoeld in [artikel 63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), is niet nagekomen indien de werkgever de melding dat hij zich met betrekking tot de begeleiding van zijn zieke werknemers niet meer laat bijstaan door een arbodienst, niet binnen 7 kalenderdagen heeft gedaan.
 
-1. De hoogte van de boete, bedoeld in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), en [38a, zesde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) bedraagt:
+##### Artikel 2b. Hoogte van de werkgeversboete bij niet of niet behoorlijke melding
 
-- € 68, indien de aangifte van de laatste werkdag of de hersteldmelding minder dan 7 kalenderdagen te laat is gedaan;
+1. De hoogte van de boete, bedoeld in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) bedraagt:
 
-- € 227, indien de aangifte van de laatste werkdag of de hersteldmelding 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
+- a. € 68, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst minder dan 7 kalenderdagen te laat is gedaan;
 
-- € 454, indien de aangifte van de laatste werkdag of de hersteldmelding 28 kalenderdagen of meer te laat is gedaan;
+- b. € 227, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
 
-- € 454, indien de datum van de laatste werkdag of herstel onjuist is opgegeven.
+- c. € 454, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst 28 kalenderdagen of meer te laat is gedaan;
 
-2. De boete wegens het niet nakomen van de verplichtingen, bedoeld in de [artikelen 38, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), en [38a, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), bedraagt € 454.
+- d. € 454, indien de datum van de laatste werkdag, de datum van herstel respectievelijk de datum sedert wanneer de werkgever zich niet meer laat bijstaan door een arbodienst onjuist is opgegeven.
+
+2. De boete wegens het niet nakomen van de verplichtingen, bedoeld in [artikel 38, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), of [63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), bedraagt € 454.
 
 ##### Artikel 2c. Werkgeversboete bij het niet indienen van en het niet meewerken aan het opstellen of uitvoeren van het reïntegratieplan
 
