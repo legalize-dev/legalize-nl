@@ -4,7 +4,7 @@ identifier: "BWBR0008074"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-10-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008074"
 soort: "AMvB"
@@ -110,7 +110,7 @@ Voor het besturen van motorrijtuigen van de rijbewijscategorieën C, D en E is g
 
 ##### Artikel 4
 
-Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in de artikelen [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=2&artikel=101&z=2004-10-01&g=2004-10-01), aanhef, en [103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=3&artikel=103&z=2004-10-01&g=2004-10-01), bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef.
+Voor het besturen van motorrijtuigen is geen rijbewijs vereist tijdens het afleggen van de in de artikelen [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=2&artikel=101&z=2005-01-01&g=2005-01-01), aanhef, en [103, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=IV&paragraaf=3&artikel=103&z=2005-01-01&g=2005-01-01), bedoelde rijproef, mits de bestuurder in het bezit is van een oproep voor die rijproef.
 
 #### § 3. Uitzonderingen minimumleeftijd
 
@@ -210,7 +210,7 @@ Bij de aanvraag van registratie dienen te worden overgelegd:
 
 - c. een niet langer dan 6 maanden voor de aanvraag afgegeven, de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisadministratie persoonsgegevens van de gemeente waar de aanvrager is ingeschreven in de basisadministratie persoonsgegevens;
 
-- d. bewijsstukken waaruit blijkt dat ten aanzien van het ter registratie aangeboden rijbewijs is voldaan aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=5&artikel=10&z=2004-10-01&g=2004-10-01) gestelde eisen.
+- d. bewijsstukken waaruit blijkt dat ten aanzien van het ter registratie aangeboden rijbewijs is voldaan aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=5&artikel=10&z=2005-01-01&g=2005-01-01) gestelde eisen.
 
 ##### Artikel 12
 
@@ -264,13 +264,13 @@ Aan de aanvrager van een rijbewijs, die blijkens de door hem overgelegde verklar
 
 ##### Artikel 18
 
-1. Onverminderd [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2004-10-01&g=2004-10-01) wordt aan de aanvrager die in het bezit is van een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs C of D een verklaring van rijvaardigheid overlegt, een rijbewijs afgegeven voor het besturen van de betrokken categorieën van motorrijtuigen, zonder dat voor een van die categorieën een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
+1. Onverminderd [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2005-01-01&g=2005-01-01) wordt aan de aanvrager die in het bezit is van een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs C of D een verklaring van rijvaardigheid overlegt, een rijbewijs afgegeven voor het besturen van de betrokken categorieën van motorrijtuigen, zonder dat voor een van die categorieën een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
 
-2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2004-10-01&g=2004-10-01) wordt aan de aanvrager die in het bezit is van een rijbewijs B, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij B een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie B, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij B, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
+2. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2005-01-01&g=2005-01-01) wordt aan de aanvrager die in het bezit is van een rijbewijs B, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij B een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie B, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij B, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
 
-3. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2004-10-01&g=2004-10-01) wordt aan de aanvrager die in het bezit is van een rijbewijs C, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij C een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie C, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij C, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
+3. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2005-01-01&g=2005-01-01) wordt aan de aanvrager die in het bezit is van een rijbewijs C, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij C een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie C, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij C, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
 
-4. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2004-10-01&g=2004-10-01) wordt aan de aanvrager die in het bezit is van een rijbewijs D, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij D een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie D, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij D, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
+4. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=17&z=2005-01-01&g=2005-01-01) wordt aan de aanvrager die in het bezit is van een rijbewijs D, dat is voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, en die ter verkrijging van een rijbewijs E bij D een verklaring van rijvaardigheid overlegt waaruit blijkt dat hij het praktijkexamen heeft afgelegd met een aanhangwagen, voortbewogen door een trekkend motorrijtuig van de categorie D, dat niet is voorzien van een automatische gangwissel of van een automatische koppeling, een rijbewijs afgegeven voor de categorie E bij D, zonder dat voor die categorie of voor de categorie waartoe het trekkend motorrijtuig behoort, een beperking tot motorrijtuigen die zijn voorzien van een automatische gangwissel of van een automatische koppeling geldt.
 
 5. Voor de toepassing van het eerste lid wordt met een rijbewijs B als daar bedoeld gelijkgesteld:
 
@@ -332,7 +332,7 @@ Indien de aanvraag betrekking heeft op de afgifte van
 
 - c. een rijbewijs dat geldig is voor een categorie of categorieën waarvoor een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, ongeldig is verklaard, dan wel
 
-- d. een rijbewijs ter vervanging van een eerder door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aan de aanvrager afgegeven rijbewijs, dat versleten of geheel of ten dele onleesbaar is, dan wel verloren is geraakt of teniet is gegaan, dient de aanvraag in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=27&z=2004-10-01&g=2004-10-01) te zijn gericht tot de Dienst Wegverkeer en te worden ingediend bij de burgemeester van de gemeente waar de aanvrager als ingezetene is ingeschreven in de basisadministratie persoonsgegevens. De burgemeester geleidt de aanvraag terstond door naar de Dienst Wegverkeer.
+- d. een rijbewijs ter vervanging van een eerder door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aan de aanvrager afgegeven rijbewijs, dat versleten of geheel of ten dele onleesbaar is, dan wel verloren is geraakt of teniet is gegaan, dient de aanvraag in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=27&z=2005-01-01&g=2005-01-01) te zijn gericht tot de Dienst Wegverkeer en te worden ingediend bij de burgemeester van de gemeente waar de aanvrager als ingezetene is ingeschreven in de basisadministratie persoonsgegevens. De burgemeester geleidt de aanvraag terstond door naar de Dienst Wegverkeer.
 
 ##### Artikel 29
 
@@ -340,7 +340,7 @@ Indien de aanvrager woonachtig is in Nederland, doch niet als ingezetene is inge
 
 ##### Artikel 30
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager die vreemdeling in de zin van de Vreemdelingenwet 2000 is en aan wie op grond van zijn hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van zijn hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder is van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden, dient de aanvraag in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=29&z=2004-10-01&g=2004-10-01) te zijn gericht tot en te worden ingediend bij de Dienst Wegverkeer.
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager die vreemdeling in de zin van de Vreemdelingenwet 2000 is en aan wie op grond van zijn hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van zijn hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder is van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden, dient de aanvraag in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=29&z=2005-01-01&g=2005-01-01) te zijn gericht tot en te worden ingediend bij de Dienst Wegverkeer.
 
 ##### Artikel 31
 
@@ -358,7 +358,7 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een buit
 
 - b. in de onmiddellijk aan het moment van de aanvraag voorafgaande periode van één jaar ten minste 185 dagen in Nederland woonachtig te zijn geweest.
 
-2. Indien het een aanvraag betreft als bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2004-10-01&g=2004-10-01), dient de aanvrager in Nederland woonachtig te zijn.
+2. Indien het een aanvraag betreft als bedoeld in de [artikelen 44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2005-01-01&g=2005-01-01), dient de aanvrager in Nederland woonachtig te zijn.
 
 3. Het eerste lid geldt niet indien bij de aanvraag een door het daartoe bevoegde militaire gezag niet langer dan zes maanden voor de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, wordt overgelegd.
 
@@ -388,7 +388,7 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een buit
 
 - III. indien de aanvrager lid is van een in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten, in Nederland gelegerde krijgsmacht, lid is van de tot die krijgsmacht behorende civiele dienst of behoort tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, een door de betrokken basiscommandant ondertekende verklaring waaruit zulks blijkt;
 
-- IV. indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een buiten Nederland woonachtige aanvrager aan wie nog niet eerder een rijbewijs is afgegeven dan wel aan een buiten Nederland, anders dan in een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, woonachtige aanvrager, enig bewijsstuk betreffende de woonplaats en de datum en plaats van geboorte van de aanvrager alsmede, in de gevallen bedoeld in [artikel 32, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=32&z=2004-10-01&g=2004-10-01), een bewijs uit de basisadministratie persoonsgegevens van de gemeente waar hij laatstelijk woonachtig was.
+- IV. indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een buiten Nederland woonachtige aanvrager aan wie nog niet eerder een rijbewijs is afgegeven dan wel aan een buiten Nederland, anders dan in een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, woonachtige aanvrager, enig bewijsstuk betreffende de woonplaats en de datum en plaats van geboorte van de aanvrager alsmede, in de gevallen bedoeld in [artikel 32, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=1&artikel=32&z=2005-01-01&g=2005-01-01), een bewijs uit de basisadministratie persoonsgegevens van de gemeente waar hij laatstelijk woonachtig was.
 
 - d. twee pasfoto's van de aanvrager, die voldoen aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -400,7 +400,7 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een buit
 
 ##### Artikel 34
 
-Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid voor iedere rijbewijscategorie waarop de aanvraag betrekking heeft;
 
@@ -408,23 +408,27 @@ Indien aan de aanvrager nog niet eerder een rijbewijs is afgegeven, dienen, beho
 
 ##### Artikel 35
 
-Indien de aanvraag betrekking heeft op de vernieuwing van het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien de aanvraag betrekking heeft op de vernieuwing van het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. dat eerder afgegeven rijbewijs;
 
 - b. een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid indien
 
-- I. de aanvrager de leeftijd van 70 jaren heeft bereikt,
+- I. de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D,
 
-- II. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, dan wel
+- II. de aanvrager de leeftijd van 70 jaren heeft bereikt,
 
-- III. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke gesteldheid van de aanvrager.
+- III. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt,
+
+- IV. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke geschiktheid van de aanvrager dan wel
+
+- V. blijkens een door het CBR dan wel door degene die ingevolge [artikel 124, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124) is belast met ongeldigverklaring, in het rijbewijzenregister aangebrachte aantekening het overleggen van een dergelijke verklaring noodzakelijk is;
 
 - c. een verklaring van rijvaardigheid indien blijkens een door het CBR dan wel door degene die ingevolge [artikel 124, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124) is belast met ongeldigverklaring, in het rijbewijzenregister aangebrachte aantekening het overleggen van een dergelijke verklaring noodzakelijk is.
 
 ##### Artikel 36
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig is voor meer categorieën dan het eerder aan de aanvrager afgegeven rijbewijs, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. dat eerder afgegeven rijbewijs;
 
@@ -434,31 +438,33 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs dat geldig i
 
 ##### Artikel 37
 
-Voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=34&z=2004-10-01&g=2004-10-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2004-10-01&g=2004-10-01) wordt met een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid gelijkgesteld een door het daartoe bevoegde militaire gezag niet langer dan zes maanden vóór de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft.
+Voor de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=34&z=2005-01-01&g=2005-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2005-01-01&g=2005-01-01) wordt met een niet langer dan zes maanden vóór de aanvraag afgegeven verklaring van rijvaardigheid gelijkgesteld een door het daartoe bevoegde militaire gezag niet langer dan zes maanden vóór de aanvraag afgegeven bewijs van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft.
 
 ##### Artikel 38
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs versleten of geheel of ten dele onleesbaar is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens dat versleten of geheel of ten dele onleesbare rijbewijs te worden overgelegd.
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs versleten of geheel of ten dele onleesbaar is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens dat versleten of geheel of ten dele onleesbare rijbewijs te worden overgelegd.
 
 2. Voor de toepassing van het eerste lid wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een rijbewijs dat eerder aan de aanvrager is afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 39
 
-Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs verloren geraakt of teniet gegaan is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd een door de aanvrager ondertekende verklaring, dat het rijbewijs verloren geraakt of teniet gegaan is. In de verklaring dienen de omstandigheden waaronder het rijbewijs verloren geraakt of teniet gegaan is, te worden omschreven.
+Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervanging van een eerder aan de aanvrager afgegeven rijbewijs dat nog geldig is hetzij zijn geldigheid door het verstrijken van de geldigheidsduur heeft verloren, welk rijbewijs verloren geraakt of teniet gegaan is, dient, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd een door de aanvrager ondertekende verklaring, dat het rijbewijs verloren geraakt of teniet gegaan is. In de verklaring dienen de omstandigheden waaronder het rijbewijs verloren geraakt of teniet gegaan is, te worden omschreven.
 
 ##### Artikel 40
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs in verband met een wijziging van de geslachtsnaam, de voornamen, de kunne dan wel de plaats of datum van geboorte van de aanvrager, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs in verband met een wijziging van de geslachtsnaam, de voornamen, de kunne dan wel de plaats of datum van geboorte van de aanvrager, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. het eerder aan de aanvrager afgegeven rijbewijs;
 
 - b. een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid indien:
 
-- I. de aanvrager de leeftijd van 70 jaren heeft bereikt;
+- I. indien de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D,
 
-- II. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, dan wel
+- II. de aanvrager de leeftijd van 70 jaren heeft bereikt;
 
-- III. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke gesteldheid van de aanvrager.
+- III. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, dan wel
+
+- IV. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke geschiktheid van de aanvrager.
 
 2. Voor de toepassing van het eerste lid wordt onder het eerder aan de aanvrager afgegeven rijbewijs mede verstaan het eerder door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte aan de aanvrager afgegeven rijbewijs.
 
@@ -478,7 +484,7 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervangi
 
 - c. een rijbewijs met een kortere geldigheidsduur dan het eerder aan de aanvrager afgegeven rijbewijs,
 
-dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens het eerder aan de aanvrager afgegeven rijbewijs en een niet langer dan een jaar voor de aanvraag afgegeven verklaring van geschiktheid voor iedere rijbewijscategorie waarop de ongeldigverklaring betrekking heeft, te worden overgelegd.
+dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens het eerder aan de aanvrager afgegeven rijbewijs en een niet langer dan een jaar voor de aanvraag afgegeven verklaring van geschiktheid voor iedere rijbewijscategorie waarop de ongeldigverklaring betrekking heeft, te worden overgelegd.
 
 2. Indien de aanvraag betrekking heeft op de afgifte van
 
@@ -502,7 +508,7 @@ dienen, behoudens de in artikel 33 genoemde bescheiden, bij de aanvraag tevens e
 
 - b. het daartoe bevoegde gezag n een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of
 
-- c. het daartoe bevoegde gezag buiten Nederland, anders dan in de Nederlandse Antillen, Aruba, een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover dat rijbewijs ingevolge [artikel 46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=46&z=2004-10-01&g=2004-10-01), bij ministeriële regeling is aangewezen.
+- c. het daartoe bevoegde gezag buiten Nederland, anders dan in de Nederlandse Antillen, Aruba, een andere lidstaat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover dat rijbewijs ingevolge [artikel 46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=46&z=2005-01-01&g=2005-01-01), bij ministeriële regeling is aangewezen.
 
 ##### Artikel 43
 
@@ -512,11 +518,13 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervangi
 
 - b. een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid indien:
 
-- I. de aanvrager de leeftijd van 70 jaren heeft bereikt;
+- I. indien de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D,
 
-- II. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, dan wel
+- II. de aanvrager de leeftijd van 70 jaren heeft bereikt;
 
-- III. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke gesteldheid van de aanvrager.
+- III. de aanvrager de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, dan wel
+
+- IV. blijkens een aantekening in het rijbewijzenregister naar het oordeel van het CBR het overleggen van een dergelijke verklaring noodzakelijk is op grond van de bij het CBR bekend zijnde gegevens met betrekking tot de lichamelijke en geestelijke geschiktheid van de aanvrager.
 
 ##### Artikel 44
 
@@ -544,15 +552,17 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervangi
 
 - b. een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid voor iedere rijbewijscategorie waarop de aanvraag betrekking heeft, indien
 
-- I. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
+- I. de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D;
 
-- II. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap;
+- II. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
 
-- III. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd;
+- III. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap;
 
-- IV. de aanvrager op het moment van indiening van de aanvraag de leeftijd van 70 jaren heeft bereikt;
+- IV. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd;
 
-- V. de aanvrager op het moment van indiening van de aanvraag de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop de aanvrager de leeftijd van 70 jaren bereikt.
+- V. de aanvrager op het moment van indiening van de aanvraag de leeftijd van 70 jaren heeft bereikt;
+
+- VI. de aanvrager op het moment van indiening van de aanvraag de leeftijd van 65 jaren heeft bereikt en in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop de aanvrager de leeftijd van 70 jaren bereikt.
 
 2. Het over te leggen rijbewijs dient:
 
@@ -594,7 +604,7 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervangi
 
 ##### Artikel 47
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een aanvrager die vreemdeling in de zin van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is en aan wie op grond van diens hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van diens hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie door Onze Minister van Buitenlandse Zaken een identiteitsbewijs voor geprivilegieerden is verstrekt, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, door het daartoe bevoegde gezag buiten Nederland afgegeven aan een aanvrager die vreemdeling in de zin van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is en aan wie op grond van diens hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van diens hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie door Onze Minister van Buitenlandse Zaken een identiteitsbewijs voor geprivilegieerden is verstrekt, dienen, behoudens de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01) genoemde bescheiden, bij de aanvraag tevens te worden overgelegd:
 
 - a. het door dat gezag afgegeven rijbewijs;
 
@@ -602,11 +612,13 @@ Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs ter vervangi
 
 - c. indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid voor iedere rijbewijscategorie waarop de aanvraag betrekking heeft indien:
 
-- I. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
+- I. de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D;
 
-- II. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschappen;
+- II. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
 
-- III. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd.
+- III. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap;
+
+- IV. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd.
 
 2. Indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag buiten Nederland, anders dan in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dient het op het moment van de aanvraag nog geldig te zijn.
 
@@ -622,11 +634,13 @@ Indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag in
 
 - c. indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, een niet langer dan een jaar vóór de aanvraag afgegeven verklaring van geschiktheid voor iedere rijbewijscategorie waarop de aanvraag betrekking heeft indien:
 
-- I. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
+- I. de aanvraag mede betrekking heeft op een der rijbewijscategorieën C, D, E bij C of E bij D;
 
-- II. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschappen;
+- II. het overgelegde rijbewijs is afgegeven voor een kortere geldigheidsduur dan de in de staat van afgifte gebruikelijke termijn van geldigheid;
 
-- III. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd.
+- III. het overgelegde rijbewijs beperkende aantekeningen bevat die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap;
+
+- IV. op het moment van indiening van de aanvraag de bij registratie van het overgelegde rijbewijs in het rijbewijzenregister vastgestelde termijn van geldigheid in Nederland is verstreken dan wel, indien het overgelegde rijbewijs niet is geregistreerd in het rijbewijzenregister of indien de bij registratie vastgestelde termijn van geldigheid in Nederland korter is dan een jaar, op het moment van indiening van de aanvraag meer dan een jaar is verstreken sedert de dag waarop de aanvrager zich in Nederland heeft gevestigd.
 
 2. Indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag buiten Nederland, anders dan in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dient het op het moment van de aanvraag nog geldig te zijn.
 
@@ -636,7 +650,7 @@ Indien het overgelegde rijbewijs is afgegeven door het daartoe bevoegde gezag in
 
 ##### Artikel 49
 
-1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager aan wie nog niet eerder een rijbewijs is afgegeven, wordt voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager gebruik gemaakt van het bij de aanvraag overgelegde, op naam van de aanvrager gestelde reis- of identiteitsdocument, bedoeld in [artikel 33, eerste lid, onderdeel b, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01).
+1. Indien de aanvraag betrekking heeft op de afgifte van een rijbewijs aan een aanvrager aan wie nog niet eerder een rijbewijs is afgegeven, wordt voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager gebruik gemaakt van het bij de aanvraag overgelegde, op naam van de aanvrager gestelde reis- of identiteitsdocument, bedoeld in [artikel 33, eerste lid, onderdeel b, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01).
 
 2. In afwijking van het eerste lid wordt, indien de aanvraag betrekking heeft op de afgifte van een rijbewijs tegen overlegging van een rijbewijs, aan de aanvrager afgegeven door het daartoe bevoegde gezag in een andere lid-staat van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager gebruik gemaakt van dat rijbewijs, mits dat rijbewijs is geregistreerd in het rijbewijzenregister en het is voorzien van een pasfoto van de houder.
 
@@ -954,7 +968,7 @@ Het praktijk-examen voor het rijbewijs E bij B bestaat uit het afleggen van een 
 
 1. Het praktijkexamen voor het rijbewijs E bij C bestaat uit het afleggen van een rijproef
 
-- a. met een samenstel van een motorrijtuig als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=73&z=2004-10-01&g=2004-10-01) en een aanhangwagen waarvan de lengte ten minste 8 m en de breedte ten minste 2,40 m bedraagt. De lengte van het samenstel van trekkend motorrijtuig en aanhangwagen dient ten minste 16 m te bedragen. Het samenstel dient een snelheid van ten minste 80 km per uur te kunnen bereiken. De toegestane maximum massa van het trekkend motorrijtuig en van de aanhangwagen te samen dient ten minste 20 000 kg te bedragen. De aanhangwagen dient te zijn uitgerust met twee of meer assen waarvan er maximaal één gestuurd is, dan wel met een samenstel van twee of meer starre assen in het midden van de aanhangwagen waarbij De aanhangwagen dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine van het trekkend motorrijtuig, en dient met ten minste 3000 kg te zijn beladen, dan wel
+- a. met een samenstel van een motorrijtuig als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=73&z=2005-01-01&g=2005-01-01) en een aanhangwagen waarvan de lengte ten minste 8 m en de breedte ten minste 2,40 m bedraagt. De lengte van het samenstel van trekkend motorrijtuig en aanhangwagen dient ten minste 16 m te bedragen. Het samenstel dient een snelheid van ten minste 80 km per uur te kunnen bereiken. De toegestane maximum massa van het trekkend motorrijtuig en van de aanhangwagen te samen dient ten minste 20 000 kg te bedragen. De aanhangwagen dient te zijn uitgerust met twee of meer assen waarvan er maximaal één gestuurd is, dan wel met een samenstel van twee of meer starre assen in het midden van de aanhangwagen waarbij De aanhangwagen dient te zijn voorzien van een gesloten opbouw dan wel van een gesloten huif, ten minste even breed en hoog als de cabine van het trekkend motorrijtuig, en dient met ten minste 3000 kg te zijn beladen, dan wel
 
 - I. de afstand van het hart van de koppeling tot het hart van het samenstel van assen ten minste 5 m bedraagt;
 
@@ -966,7 +980,7 @@ Het praktijk-examen voor het rijbewijs E bij B bestaat uit het afleggen van een 
 
 ##### Artikel 77
 
-Het praktijkexamen voor het rijbewijs E bij D bestaat uit het afleggen van een rijproef met een motorrijtuig als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=74&z=2004-10-01&g=2004-10-01) en een aanhangwagen waarvan de lengte ten minste 5 m, de breedte ten minste 2,40 m en de toegestane maximum massa ten minste 3000 kg bedraagt. De aanhangwagen moet zijn voorzien van een gesloten opbouw dan wel van een gesloten huif die ten minste 2 m breed en 2 m hoog is en dient met ten minste 800 kg te zijn beladen. Het samenstel dient een snelheid te kunnen bereiken van ten minste 80 km per uur.
+Het praktijkexamen voor het rijbewijs E bij D bestaat uit het afleggen van een rijproef met een motorrijtuig als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=74&z=2005-01-01&g=2005-01-01) en een aanhangwagen waarvan de lengte ten minste 5 m, de breedte ten minste 2,40 m en de toegestane maximum massa ten minste 3000 kg bedraagt. De aanhangwagen moet zijn voorzien van een gesloten opbouw dan wel van een gesloten huif die ten minste 2 m breed en 2 m hoog is en dient met ten minste 800 kg te zijn beladen. Het samenstel dient een snelheid te kunnen bereiken van ten minste 80 km per uur.
 
 ##### Artikel 78
 
@@ -1102,13 +1116,15 @@ Het model van de verklaring van geschiktheid wordt bij ministeriële regeling va
 
 2. Indien een of meer van de op de eigen verklaring gestelde vragen betreffende de lichamelijke en geestelijke geschiktheid van de aanvrager bevestigend worden beantwoord, dient op de eigen verklaring een aantekening van een arts te zijn gesteld waaruit de aard en de ernst van de afwijking blijken.
 
-3. Bij de aanvraag dient tevens een door een arts opgemaakt, niet langer dan twee weken voor de aanvraag getekend, geneeskundig verslag volgens door het CBR vastgesteld model te worden overgelegd indien de aanvraag betrekking heeft op:
+3. Indien de aanvraag betrekking heeft op:
 
-- a. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 70 jaren heeft bereikt;
+- a. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 70 jaren heeft bereikt,
 
-- b. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 65 jaren heeft bereikt en die in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop de aanvrager de leeftijd van 70 jaren bereikt;
+- b. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 65 jaren heeft bereikt en die in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop de aanvrager de leeftijd van 70 jaren bereikt, dan wel
 
-- c. de eerste afgifte van een rijbewijs C, D, E bij C of E bij D.
+- c. de afgifte van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, D, E bij C of E bij D,
+
+dient bij de aanvraag tevens een niet langer dan twee weken voor de aanvraag getekend, geneeskundig verslag volgens door het CBR vastgesteld model te worden overgelegd. Het geneeskundig verslag dient in de gevallen, bedoeld onder a en b, te zijn opgemaakt door een arts en dient in het geval, bedoeld onder c, te zijn opgemaakt door een door het CBR aangewezen arts.
 
 4. Het eerste lid, onderdeel **b**, geldt niet indien de aanvraag van een verklaring van geschiktheid gelijktijdig met de aanvraag van een verklaring van rijvaardigheid wordt ingediend.
 
@@ -1134,7 +1150,7 @@ Het model van de verklaring van geschiktheid wordt bij ministeriële regeling va
 
 - II. de afgifte van een rijbewijs aan een aanvrager die de leeftijd van 65 jaren heeft bereikt en die in het bezit is van een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop de aanvrager de leeftijd van 70 jaren bereikt;
 
-- III. de eerste afgifte van een rijbewijs C, D, E bij C of E bij D.
+- III. de afgifte van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, D, E bij C of E bij D.
 
 3. Het in het eerste lid, aanhef, bedoelde technisch onderzoek en de daar bedoelde rijproef mogen slechts betrekking hebben op de bij ministeriële regeling aangewezen punten van onderzoek.
 
@@ -1824,11 +1840,11 @@ Aanvragen van geneeskundige verklaringen die zijn ingediend vóór de datum van 
 
 ##### Artikel 179
 
-1. Voor de toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B met de aanduiding «Automaat».
+1. Voor de toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs B dat is voorzien van een bij ministeriële regeling vastgestelde code waaruit blijkt dat de houder van dat rijbewijs het praktijk-examen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B met de aanduiding «Automaat».
 
-2. Voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
+2. Voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
 
-3. Voor de toepassing van [artikel 18, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs B dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B dat na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+3. Voor de toepassing van [artikel 18, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=6&artikel=18&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs B dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B dat na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
 ##### Artikel 180
 
@@ -1840,39 +1856,39 @@ Voor de toepassing van de artikelen 16, 17, 24, 25, 34, onderdeel **b**, 35, ond
 
 ##### Artikel 182
 
-1. Voor de toepassing van [artikel 33, eerste lid, onderdeel b onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+1. Voor de toepassing van [artikel 33, eerste lid, onderdeel b onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=33&z=2005-01-01&g=2005-01-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
-2. Voor de toepassing van [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=3&artikel=49&z=2004-10-01&g=2004-10-01), wordt onder het eerder aan de aanvrager afgegeven rijbewijs, mits dat rijbewijs hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan het eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs, mits dat rijbewijs hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+2. Voor de toepassing van [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=3&artikel=49&z=2005-01-01&g=2005-01-01), wordt onder het eerder aan de aanvrager afgegeven rijbewijs, mits dat rijbewijs hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan het eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs, mits dat rijbewijs hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
-3. Voor de toepassing van [artikel 49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=3&artikel=49&z=2004-10-01&g=2004-10-01), wordt onder het eerder afgegeven rijbewijs mede verstaan het eerder op basis van de Wegenverkeerswet afgegeven rijbewijs.
+3. Voor de toepassing van [artikel 49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=3&artikel=49&z=2005-01-01&g=2005-01-01), wordt onder het eerder afgegeven rijbewijs mede verstaan het eerder op basis van de Wegenverkeerswet afgegeven rijbewijs.
 
-4. Voor de toepassing van de [artikelen 59, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2004-10-01&g=2004-10-01), en [67, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2004-10-01&g=2004-10-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
+4. Voor de toepassing van de [artikelen 59, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2005-01-01&g=2005-01-01), en [67, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2005-01-01&g=2005-01-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
 
 ##### Artikel 183
 
-1. Voor de toepassing van de [artikelen 35, aanhef en onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=35&z=2004-10-01&g=2004-10-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2004-10-01&g=2004-10-01) en [38 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=38&z=2004-10-01&g=2004-10-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+1. Voor de toepassing van de [artikelen 35, aanhef en onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=35&z=2005-01-01&g=2005-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2005-01-01&g=2005-01-01) en [38 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=38&z=2005-01-01&g=2005-01-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
-2. Voor de toepassing van [artikel 35, onderdeel b onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=35&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt.
+2. Voor de toepassing van [artikel 35, onderdeel b, onder III](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=35&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt, mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs waarvan de geldigheidsduur verstrijkt op of na de dag waarop hij de leeftijd van 70 jaren bereikt.
 
-3. Voor de toepassing van de [artikelen 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2004-10-01&g=2004-10-01), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=45&z=2004-10-01&g=2004-10-01), [46, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=46&z=2004-10-01&g=2004-10-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=V&paragraaf=1&artikel=107&z=2004-10-01&g=2004-10-01) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=V&paragraaf=1&artikel=108&z=2004-10-01&g=2004-10-01) wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur of door omwisseling tegen een rijbewijs dat is afgegeven door het daartoe bevoegde gezag buiten Nederland.
+3. Voor de toepassing van de [artikelen 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=44&z=2005-01-01&g=2005-01-01), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=45&z=2005-01-01&g=2005-01-01), [46, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=46&z=2005-01-01&g=2005-01-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=V&paragraaf=1&artikel=107&z=2005-01-01&g=2005-01-01) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=V&paragraaf=1&artikel=108&z=2005-01-01&g=2005-01-01) wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur of door omwisseling tegen een rijbewijs dat is afgegeven door het daartoe bevoegde gezag buiten Nederland.
 
 ##### Artikel 184
 
-1. Voor de toepassing van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2004-10-01&g=2004-10-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=43&z=2004-10-01&g=2004-10-01) en [59, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2004-10-01&g=2004-10-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
+1. Voor de toepassing van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=36&z=2005-01-01&g=2005-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=43&z=2005-01-01&g=2005-01-01) en [59, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2005-01-01&g=2005-01-01), wordt onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
 
-2. Voor de toepassing van [artikel 59, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2004-10-01&g=2004-10-01), wordt onder een aan de aanvrager afgegeven rijbewijs B dat hetzij nog geldig is, hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs B dat hetzij nog geldig is, hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
+2. Voor de toepassing van [artikel 59, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=3&artikel=59&z=2005-01-01&g=2005-01-01), wordt onder een aan de aanvrager afgegeven rijbewijs B dat hetzij nog geldig is, hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs B dat hetzij nog geldig is, hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.
 
 ##### Artikel 185
 
-Voor de toepassing van de [artikelen 45, eerste lid, onderdeel b onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=45&z=2004-10-01&g=2004-10-01), [47, eerste lid, onderdeel c onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=47&z=2004-10-01&g=2004-10-01), en [48, eerste lid, onderdeel c onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=48&z=2004-10-01&g=2004-10-01), worden in het overgelegde rijbewijs omschreven eisen ten aanzien van de inrichting van het voertuig en de eis dat de aanvrager corrigerende lenzen draagt, niet aangemerkt als beperkende aantekeningen die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap.
+Voor de toepassing van de [artikelen 45, eerste lid, onderdeel b onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=45&z=2005-01-01&g=2005-01-01), [47, eerste lid, onderdeel c onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=47&z=2005-01-01&g=2005-01-01), en [48, eerste lid, onderdeel c onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=II&paragraaf=2&artikel=48&z=2005-01-01&g=2005-01-01), worden in het overgelegde rijbewijs omschreven eisen ten aanzien van de inrichting van het voertuig en de eis dat de aanvrager corrigerende lenzen draagt, niet aangemerkt als beperkende aantekeningen die niet zijn aangeduid met de geharmoniseerde codes van de Europese Gemeenschap.
 
 ##### Artikel 186
 
-1. Voor de toepassing van [artikel 67, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2004-10-01&g=2004-10-01), wordt onder een theorie-certificaat als daar bedoeld mede verstaan een niet langer dan drie jaar voor de dag van het examen op basis van het Wegenverkeersreglement afgegeven theorie-certificaat.
+1. Voor de toepassing van [artikel 67, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2005-01-01&g=2005-01-01), wordt onder een theorie-certificaat als daar bedoeld mede verstaan een niet langer dan drie jaar voor de dag van het examen op basis van het Wegenverkeersreglement afgegeven theorie-certificaat.
 
-2. Voor de toepassing van [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs B, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
+2. Voor de toepassing van [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs B, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een op basis van de Wegenverkeerswet afgegeven rijbewijs B, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
 
-3. Voor de toepassing van [artikel 67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2004-10-01&g=2004-10-01), wordt onder een rijbewijs voor het trekkende motorrijtuig, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan en op basis van de Wegenverkeerswet afgegeven rijbewijs voor het trekkende motorrijtuig, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
+3. Voor de toepassing van [artikel 67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=III&paragraaf=4&artikel=67&z=2005-01-01&g=2005-01-01), wordt onder een rijbewijs voor het trekkende motorrijtuig, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan en op basis van de Wegenverkeerswet afgegeven rijbewijs voor het trekkende motorrijtuig, al dan niet voorzien van een bij ministeriële regeling vastgestelde codering waaruit blijkt dat de houder van dat rijbewijs het praktijkexamen heeft afgelegd in een motorrijtuig dat is voorzien van een automatische gangwissel of van een automatische koppeling, dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur en dat niet behoort tot een bij ministeriële regeling aangewezen model.
 
 ##### Artikel 187
 
@@ -1926,7 +1942,7 @@ Indien de aanvrager van een rijbewijs in het bezit is van:
 
 ##### Artikel 197
 
-1. [Artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIII&paragraaf=1&artikel=157&z=2004-10-01&g=2004-10-01) geldt niet voor bestuurders van bromfietsen, die op de datum van inwerkingtreding van [artikel 135 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=135) de leeftijd van 16 jaren hebben bereikt. Aan hen wordt door het CBR op aanvraag en tegen betaling van het daarvoor vastgestelde tarief een bromfietscertificaat afgegeven.
+1. [Artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIII&paragraaf=1&artikel=157&z=2005-01-01&g=2005-01-01) geldt niet voor bestuurders van bromfietsen, die op de datum van inwerkingtreding van [artikel 135 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=135) de leeftijd van 16 jaren hebben bereikt. Aan hen wordt door het CBR op aanvraag en tegen betaling van het daarvoor vastgestelde tarief een bromfietscertificaat afgegeven.
 
 2. Het in het eerste lid bedoelde tarief wordt vastgesteld door het CBR onder goedkeuring van Onze Minister.
 
@@ -1942,7 +1958,7 @@ Indien de aanvrager van een rijbewijs in het bezit is van:
 
 ##### Artikel 198
 
-Overtreding van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=2&artikel=2&z=2004-10-01&g=2004-10-01), is een strafbaar feit.
+Overtreding van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=I&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01), is een strafbaar feit.
 
 ### Hoofdstuk XI. Slotbepalingen
 
