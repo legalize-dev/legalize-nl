@@ -1,0 +1,102 @@
+---
+title: "Stageverordening"
+identifier: "BWBR0011434"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-01-01"
+last_updated: "2000-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011434"
+soort: "pbo"
+stam_id: "6831593"
+version_id: "11711712"
+internal_id: "C15787821"
+label_id: "6819804"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011434/2013-01-01/0"
+intitule_bron: "Stcrt.2000-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-21"
+intitule_published: "2000-09-20"
+intitule_in_force: "2000-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-182"
+original_signed_date: "2000-06-21"
+original_published_date: "2000-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011434&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0011434&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-06-21"
+entry_into_force: "2000-10-01"
+---
+# Stageverordening
+
+Overwegende dat het gewenst is regelen te stellen met betrekking tot de verplichtingen van de notaris en de kandidaat-notaris gedurende de stage;
+
+Gelet op [artikel 31 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=31);
+
+Gezien het ontwerp van het bestuur met bijbehorende toelichting;
+
+Gelet op de adviezen van de kamers van toezicht;
+
+Gelet op de adviezen van de ringen;
+
+stelt de navolgende verordening vast:
+
+#### De verplichtingen van de notaris en de kandidaat-notaris
+
+##### Artikel 1
+
+1. De notaris op wiens kantoor de kandidaat-notaris tijdens zijn stage werkzaam is draagt zorg voor een voldoende begeleiding van diens werkzaamheden tijdens de stage. Is de kandidaat-notaris werkzaam bij een maatschap waarbij meer notarissen werkzaam zijn dan rust deze verplichting op iedere notaris.
+
+2. De notaris geeft de kandidaat-notaris leiding, voorlichting en raad bij zijn functioneren als kandidaat-notaris.
+
+3. De notaris geeft de kandidaat-notaris tijdens de stage de mogelijkheid om zich in alle gebruikelijke notariële werkzaamheden te bekwamen.
+
+4. De notaris geeft de kandidaat-notaris voldoende gelegenheid om vanaf de aanvaarding van het dienstverband de beroepsopleiding te volgen, de daarbij behorende examens af te leggen en om aan de in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011434&artikel=3&z=2000-10-01&g=2000-10-01) bedoelde cursussen deel te nemen die behoren bij zijn opleiding tijdens de stage.
+
+5. Wanneer de kandidaat-notaris tot waarnemer benoembaar is en zich daartoe bereid heeft verklaard dient de notaris, behoudens bijzondere omstandigheden, een verzoek in om hem tot waarnemer te benoemen als bedoeld in [artikel 29 lid 2 eerste zin van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=29).
+
+6. Wanneer de kandidaat-notaris op grond van het verzoek als bedoeld in lid 5 tot waarnemer is benoemd dan stelt de notaris hem, behoudens bijzondere omstandigheden, in staat om gedurende ten minste tien werkdagen per jaar de waarneming uit te oefenen.
+
+##### Artikel 2
+
+De kandidaat-notaris is gehouden zich tijdens de stage in te spannen voor de verkrijging van de noodzakelijke praktische vaardigheden en theoretische kennis.
+
+#### Cursussen en vrijstellingen
+
+##### Artikel 3
+
+1. Het bestuur van de KNB stelt bij reglement vast welke cursussen de kandidaat-notaris gedurende de stage ter voorbereiding op de zelfstandige uitoefening van het notarisambt moet volgen. Deze cursussen liggen in beginsel in gelijke verhouding deels op het gebied van het management en bet financieel bestuur en deels op vakinhoudelijk gebied.
+
+2. De in lid 1 bedoelde cursussen mogen er niet toe leiden dat een kandidaat-notaris meer opleidingspunten moet behalen dan door bet bestuur van de KNB is bepaald op grond van [artikel 2 van de Verordening bevordering vakbekwaamheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011165).
+
+3. Het bestuur van de KNB verleent vrijstelling voor hel volgen van een cursus wanneer een kandidaat-notaris aantoonbaar over de nodige kennis en ervaring met betrekking tot hel onderwerp van een cursus of een deel daarvan beschikt.
+
+4. Over het in lid 1 van dit artikel bedoelde reglement wordt de ledenraad geraadpleegd. Het reglement wordt zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Justitie gebracht.
+
+##### Artikel 4
+
+Gedurende de stage is de kandidaat-notaris vrijgesteld van de verplichtingen voortvloeiende uit de [Verordening bevordering vakbekwaamheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011165).
+
+#### Slotbepalingen
+
+##### Artikel 5
+
+Deze verordening wordt aangehaald als Stageverordening.
+
+##### Artikel 6
+
+Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
+
+##### Artikel 5a. Verzoek verkorting stage en waardering relevante werkzaamheden
+
+1. Het bestuur van de KNB stelt een commissie in, die als taak heeft het bestuur te adviseren over verzoeken tot verkorting van de stage, indien bepaalde werkzaamheden van de verzoeker, anders dan een stage op één of meer notariskantoren in Nederland, relevant zijn voor de voorbereiding op het notarisambt.
+
+2. Het bestuur van de KNB stelt een reglement vast voor de waardering van de werkzaamheden van verzoeker, genoemd in het eerste lid. Hierin geeft het bestuur aan welke werkzaamheden in beginsel gelijk zijn te stellen aan de praktische en theoretische werkzaamheden die een kandidaat-notaris tijdens zijn stage op een notariskantoor verricht.
+
+3. Het bestuur van de KNB stelt een reglement vast voor de behandeling van verzoeken tot verkorting van de stage, waarin de te volgen procedure en de wijze van bekendmaken van het beleid worden geregeld.
+
+4. Over de in de voorgaande leden genoemde reglementen wordt de ledenraad geraadpleegd. De reglementen worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
