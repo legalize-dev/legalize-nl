@@ -4,7 +4,7 @@ identifier: "BWBR0014727"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-10-27"
-last_updated: "2003-03-01"
+last_updated: "2004-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014727"
 soort: "ministeriele-regeling"
@@ -81,9 +81,9 @@ Tot lid van de commissie worden benoemd:
 
 2. De vergoeding voor de leden van de commissie van deskundigen bedraagt per vergadering € 550,- per lid, tot een totaal maximum van € 22.000,- voor de commissie. Per vergadering wordt een vergoeding voor reis- en verblijfskosten van € 25,- per lid van de commissie verstrekt. Meerdere vergaderingen op één dag worden aangemerkt als één vergadering.
 
-3. Voor de extra werkzaamheden van de voorzitter van de commissie wordt een vaste vergoeding verstrekt van € 4500,-. De vergoeding wordt ver-strekt in drie gelijke delen, te weten na oplevering van het schriftelijk advies van de commissie over de in [artikel 2, tweede lid, onder (a), (b) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0014727&artikel=2&z=2003-03-01&g=2003-03-01) genoemde documenten.
+3. Voor de extra werkzaamheden van de voorzitter van de commissie wordt een vaste vergoeding verstrekt van € 4500,-. De vergoeding wordt ver-strekt in drie gelijke delen, te weten na oplevering van het schriftelijk advies van de commissie over de in [artikel 2, tweede lid, onder (a), (b) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0014727&artikel=2&z=2004-10-27&g=2004-10-27) genoemde documenten.
 
-4. Voor de extra werkzaamheden van de secretaris van de commissie (vergaderstukken en adviezen) wordt een vaste vergoeding verstrekt van € 15000,00. De vergoeding wordt verstrekt in drie gelijke delen, te weten na oplevering van het schriftelijk advies van de commissie over de in [artikel 2, tweede lid, onder (a), (b) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0014727&artikel=2&z=2003-03-01&g=2003-03-01) genoemde documenten.
+4. Voor de extra werkzaamheden van de secretaris van de commissie (vergaderstukken en adviezen) wordt een vaste vergoeding verstrekt van € 15000,00. De vergoeding wordt verstrekt in drie gelijke delen, te weten na oplevering van het schriftelijk advies van de commissie over de in [artikel 2, tweede lid, onder (a), (b) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBR0014727&artikel=2&z=2004-10-27&g=2004-10-27) genoemde documenten.
 
 5. Voor het gebruikmaken van diensten van derden, waaruit financiële verplichtingen voor het Rijk voortvloeien, behoeft de commissie van deskundigen toestemming van de Staatssecretaris van Verkeer en Waterstaat.
 
@@ -97,6 +97,6 @@ Tot lid van de commissie worden benoemd:
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2003.
 
-2. Dit besluit vervalt twee maanden nadat de commissie haar schriftelijk advies over het eindrapport van het CPB heeft opgeleverd, doch uiterlijk op 1 januari 2005.
+2. Dit besluit vervalt op het tijdstip waarop deel 1 (beleidsvoornemen) van de PKB Ruimte voor de Rivier wordt uitgebracht.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
