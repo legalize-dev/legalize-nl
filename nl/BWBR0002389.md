@@ -109,15 +109,3 @@ Een krachtens deze wet opgelegde verplichting is opgeheven voor zover het voldoe
 2. Met uitzondering van de [artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3&z=1997-05-01&g=1997-05-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren of, voor zover het de voedselvoorziening betreft, de bij besluit van Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen ambtenaren.
-
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
-
-3. Zo nodig oefent de toezichthouder de in de [artikelen 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) genoemde bevoegdheden uit met behulp van de sterke arm.
-
-4. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de krachtens deze wet opgelegde verplichtingen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
