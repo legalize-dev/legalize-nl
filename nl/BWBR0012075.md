@@ -4,7 +4,7 @@ identifier: "BWBR0012075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-04-05"
-last_updated: "2003-02-28"
+last_updated: "2004-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012075"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze ministeriële regeling wordt verstaan onder:
 
 - e. voor de in artikel 21, eerste lid, van de Politiewet 1993 bedoelde regio's: 20%.
 
-3. Voor de renterisiconorm geldt een minimumbedrag van 5.509.275 gulden.
+3. Voor de renterisiconorm geldt een minimumbedrag van 2.500.000 euro.
 
 ##### Artikel 3
 
@@ -102,11 +102,11 @@ Het renterisico op de vaste schuld in een jaar wordt als volgt berekend: de som 
 
 ##### Artikel 5
 
-Het Centraal Bureau voor de Statistiek zendt iedere drie maanden voor het einde van het eerstvolgende kwartaal verzamelopgaven van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2003-02-28&g=2003-02-28), bedoelde gegevens aan Onze Minister van Financiën.
+Het Centraal Bureau voor de Statistiek zendt iedere drie maanden voor het einde van het eerstvolgende kwartaal verzamelopgaven van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2004-12-12), bedoelde gegevens aan Onze Minister van Financiën.
 
 ##### Artikel 6
 
-De opgaven bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2003-02-28&g=2003-02-28), worden verstrekt overeenkomstig de als bijlage bij deze regeling gevoegde modelstaten.
+De opgaven bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2004-12-12), worden verstrekt overeenkomstig de als bijlage bij deze regeling gevoegde modelstaten.
 
 ##### Artikel 7
 
