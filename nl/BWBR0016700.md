@@ -91,9 +91,3 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet impleme
 Dit besluit wordt aangehaald als: Besluit interoperabiliteit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Een aanbieder van openbare telefoondiensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
