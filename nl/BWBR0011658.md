@@ -69,9 +69,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen Wms.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
