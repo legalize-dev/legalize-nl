@@ -261,31 +261,3 @@ I. Afgewerkte olie behoort tot categorie I, indien:
 II. Afgewerkte olie behoort tot categorie II, indien:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2005-04-28&g=2005-04-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2005-04-28&g=2005-04-28) van het Besluit inzamelen afvalstoffen
-
-### Categorieën van afgewerkte olie
-
-I. Afgewerkte olie behoort tot categorie I, indien:
-
-II. Afgewerkte olie behoort tot categorie II, indien:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Deze paragraaf berust op [artikel 10.47, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.47).
-
-##### Artikel 1b
-
-Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage 11 van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&bijlage=11) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
-
-#### § 2. Vermelding op de lijst van inzamelaars
-
-#### § 3. Inzamelvergunning
-
-#### § 4. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2018-01-01&g=2018-01-01) van het Besluit inzamelen afvalstoffen
-
-Vervallen
