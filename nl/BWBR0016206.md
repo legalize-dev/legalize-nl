@@ -4,7 +4,7 @@ identifier: "BWBR0016206"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016206"
 soort: "wet"
@@ -87,7 +87,7 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel XIII
 
-[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XII&z=2005-01-01&g=2005-01-01) bedoelde verhoging van de accijns.
+[Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XII&z=2005-03-01&g=2005-03-01) bedoelde verhoging van de accijns.
 
 ##### Artikel XIV
 
@@ -183,19 +183,19 @@ Ingeval een in [artikel 5, eerste lid, onderdeel b, van de Wet op de vennootscha
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2004, met dien verstande dat:
 
-- a. [artikel I, onderdelen D, L, U, V, W, Y, Z en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2005-01-01&g=2005-01-01), en [artikel V, onderdelen Y, Z, AA en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=V&z=2005-01-01&g=2005-01-01), toepassing vinden nadat [artikel 10.1 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2004 is toegepast;
+- a. [artikel I, onderdelen D, L, U, V, W, Y, Z en CC](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2005-03-01&g=2005-03-01), en [artikel V, onderdelen Y, Z, AA en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=V&z=2005-03-01&g=2005-03-01), toepassing vinden nadat [artikel 10.1 Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2004 is toegepast;
 
-- b. [artikel XI, onderdelen A, derde lid, en Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-01-01&g=2005-01-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XXIV&z=2005-01-01&g=2005-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2004;
+- b. [artikel XI, onderdelen A, derde lid, en Bc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-03-01&g=2005-03-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XXIV&z=2005-03-01&g=2005-03-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2004;
 
-- c. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-01-01&g=2005-01-01), met betrekking tot de achterwaartse verrekening van verliezen voor het eerst toepassing vindt op het verlies van het boekjaar dat aanvangt op of na 1 januari 2004;
+- c. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-03-01&g=2005-03-01), met betrekking tot de achterwaartse verrekening van verliezen voor het eerst toepassing vindt op het verlies van het boekjaar dat aanvangt op of na 1 januari 2004;
 
-- d. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-01-01&g=2005-01-01), met betrekking tot de voorwaartse verrekening van verliezen voor het eerst toepassing vindt op de verrekening met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van het boekjaar dat aanvangt op of na 1 januari 2004;
+- d. [artikel XI, onderdelen Bi, Bj, Ca en Cb](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XI&z=2005-03-01&g=2005-03-01), met betrekking tot de voorwaartse verrekening van verliezen voor het eerst toepassing vindt op de verrekening met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van het boekjaar dat aanvangt op of na 1 januari 2004;
 
-- e. [artikel I, onderdeel Rb en Rc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2005-01-01&g=2005-01-01), terugwerkt tot en met 1 januari 2003.
+- e. [artikel I, onderdeel Rb en Rc](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=I&z=2005-03-01&g=2005-03-01), terugwerkt tot en met 1 januari 2003.
 
-2. In afwijking in zoverre van het eerste lid treedt [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XV&z=2005-01-01&g=2005-01-01), in werking op 1 januari 2005.
+2. In afwijking in zoverre van het eerste lid treedt [artikel XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XV&z=2005-03-01&g=2005-03-01), in werking op 1 januari 2005.
 
-3. In afwijking in zoverre van het eerste lid treedt [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XVI&z=2005-01-01&g=2005-01-01), in werking op 1 juli 2004.
+3. In afwijking in zoverre van het eerste lid treedt [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016206&artikel=XVI&z=2005-03-01&g=2005-03-01), in werking op 1 juli 2004.
 
 ##### Artikel XXXII
 
