@@ -4,7 +4,7 @@ identifier: "BWBR0009524"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "2003-01-25"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009524"
 soort: "wet"
@@ -142,20 +142,20 @@ Onze Minister van Onderwijs, Cultuur en Wetenschappen brengt mede namens Onze Mi
 
 1. Deze wet treedt in werking met ingang van 1 september 1998, met dien verstande dat de bepalingen, genoemd in het tweede tot en met negende lid, in werking treden met ingang van de in die leden vermelde tijdstippen.
 
-2. Uitsluitend met het oog op de toepassing van de artikelen VIIIb en VIIIc werkt [artikel I onderdelen P](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2003-01-25&g=2003-01-25) en Pa betreffende de artikelen 7.7 en 7.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, terug tot en met 1 januari 1998.
+2. Uitsluitend met het oog op de toepassing van de artikelen VIIIb en VIIIc werkt [artikel I onderdelen P](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2005-03-01&g=2005-03-01) en Pa betreffende de artikelen 7.7 en 7.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, terug tot en met 1 januari 1998.
 
-3. [Artikel I onderdeel N onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2003-01-25&g=2003-01-25) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 september 1997.
+3. [Artikel I onderdeel N onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2005-03-01&g=2005-03-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 september 1997.
 
-4. [Artikel I onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2003-01-25&g=2003-01-25) CC en EE treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+4. [Artikel I onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2005-03-01&g=2005-03-01) CC en EE treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-5. [Artikel I onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2003-01-25&g=2003-01-25) voor zover het betreft artikel 7.9f van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en [artikel III onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=III&z=2003-01-25&g=2003-01-25) voor zover het betreft artikel 9, lid 1f, van de Wet op de studiefinanciering, en onderdeel J, treden in werking met ingang van 1 juni 1998.
+5. [Artikel I onderdeel T](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2005-03-01&g=2005-03-01) voor zover het betreft artikel 7.9f van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en [artikel III onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=III&z=2005-03-01&g=2005-03-01) voor zover het betreft artikel 9, lid 1f, van de Wet op de studiefinanciering, en onderdeel J, treden in werking met ingang van 1 juni 1998.
 
-6. [Artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2003-01-25&g=2003-01-25) FFFa, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 19 maart 1997 wat betreft de openbare universiteiten en tot en met 11 juli 1997 wat betreft de Open Universiteit.
+6. [Artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=I&z=2005-03-01&g=2005-03-01) FFFa, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 19 maart 1997 wat betreft de openbare universiteiten en tot en met 11 juli 1997 wat betreft de Open Universiteit.
 
-7. De artikelen Ia en IIIa treden in werking op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor dit koninklijk besluit wordt niet eerder gedaan dan nadat uit het evaluatieverslag, bedoeld in artikel VIIId, blijkt dat de duale opleidingen in het wetenschappelijk onderwijs, bedoeld in artikel 7.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, in een behoefte voorzien en de Tweede Kamer der Staten-Generaal te kennen heeft gegeven daarmee in te stemmen.
+7. Artikel Ia treedt in werking op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor dit koninklijk besluit wordt niet eerder gedaan dan nadat uit het evaluatieverslag, bedoeld in artikel VIIId, blijkt dat de duale opleidingen in het wetenschappelijk onderwijs, bedoeld in artikel 7.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, in een behoefte voorzien en de Tweede Kamer der Staten-Generaal te kennen heeft gegeven daarmee in te stemmen.
 
 8. Artikel VIIa treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 augustus 1997.
 
-9. De [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VIII&z=2003-01-25&g=2003-01-25), VIIIb en VIIIc treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+9. De [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VIII&z=2005-03-01&g=2005-03-01), VIIIb en VIIIc treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
