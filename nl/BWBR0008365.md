@@ -4,7 +4,7 @@ identifier: "BWBR0008365"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-05-01"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008365"
 soort: "wet"
@@ -156,17 +156,17 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 1. De aanstelling van een rechterlijk ambtenaar kan naar omvang van de taak op zijn verzoek bij koninklijk besluit worden gewijzigd.
 
-2. Met inachtneming van de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=2&z=2002-05-15&g=2003-05-01), gestelde regels, kan de aanstelling van een rechterlijk ambtenaar in opleiding naar omvang van de taak op zijn verzoek bij beschikking van Onze Minister worden gewijzigd.
+2. Met inachtneming van de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=2&z=2003-12-01&g=2003-12-01), gestelde regels, kan de aanstelling van een rechterlijk ambtenaar in opleiding naar omvang van de taak op zijn verzoek bij beschikking van Onze Minister worden gewijzigd.
 
 ##### Artikel 4
 
-1. Op een verzoek als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=3&z=2002-05-15&g=2003-05-01), wordt beslist nadat daarover het advies is ingewonnen van de functionele autoriteit.
+1. Op een verzoek als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=3&z=2003-12-01&g=2003-12-01), wordt beslist nadat daarover het advies is ingewonnen van de functionele autoriteit.
 
-2. Op een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=3&z=2002-05-15&g=2003-05-01), wordt beslist nadat daarover het advies is ingewonnen van de rector en hetzij het bestuur van de rechtbank hetzij het hoofd van het arrondissementsparket.
+2. Op een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=3&z=2003-12-01&g=2003-12-01), wordt beslist nadat daarover het advies is ingewonnen van de rector en hetzij het bestuur van de rechtbank hetzij het hoofd van het arrondissementsparket.
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=2&z=2002-05-15&g=2003-05-01) worden raadsheren in buitengewone dienst van de Hoge Raad, raadsheren-plaatsvervangers, rechters-plaatsvervangers, advocaten-generaal in buitengewone dienst bij de Hoge Raad, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen niet aangesteld voor het vervullen van een volledige of een gedeeltelijke taak.
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=2&z=2003-12-01&g=2003-12-01) worden raadsheren in buitengewone dienst van de Hoge Raad, raadsheren-plaatsvervangers, rechters-plaatsvervangers, advocaten-generaal in buitengewone dienst bij de Hoge Raad, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen niet aangesteld voor het vervullen van een volledige of een gedeeltelijke taak.
 
 2. Zij kunnen voor het verrichten van werkzaamheden worden opgeroepen door de president van de Hoge Raad, door het bestuur van het desbetreffende gerechtshof, door het bestuur van de desbetreffende rechtbank, door de procureur-generaal bij de Hoge Raad, onderscheidenlijk door het hoofd van het desbetreffende parket.
 
@@ -178,7 +178,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 3. De aanwijzing kan naar de omvang van de taak op verzoek van de belanghebbende worden gewijzigd.
 
-4. Op een aanwijzing, een verlenging van de aanwijzing of een tussentijdse wijziging van de aan de aanwijzing verbonden taak is [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=4&z=2002-05-15&g=2003-05-01), van overeenkomstige toepassing.
+4. Op een aanwijzing, een verlenging van de aanwijzing of een tussentijdse wijziging van de aan de aanwijzing verbonden taak is [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=4&z=2003-12-01&g=2003-12-01), van overeenkomstige toepassing.
 
 5. Een aanwijzing, een verlenging of een wijziging van de aanwijzing geschiedt voor zover het plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen betreft bij beschikking van Onze Minister en overigens bij koninklijk besluit.
 
@@ -218,11 +218,13 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 8
 
-Rechterlijke ambtenaren of rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van een gedeeltelijke taak, ontvangen een salaris dat een met hun taak overeenkomend deel bedraagt van het salaris dat zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige taak.
+1. Rechterlijke ambtenaren of rechterlijke ambtenaren in opleiding die zijn aangesteld voor het vervullen van een gedeeltelijke taak, ontvangen een salaris dat een met hun taak overeenkomend deel bedraagt van het salaris dat zij zouden hebben ontvangen indien zij in hetzelfde ambt zouden zijn aangesteld voor het vervullen van een volledige taak.
+
+2. De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding voor wie de arbeidsduur op basis van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), op meer dan gemiddeld 36 uur per week is vastgesteld, ontvangt een salaris voor het vervullen van een volledige taak, vermenigvuldigd met de voor hem geldende arbeidsduurfactor, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01).
 
 ##### Artikel 9
 
-1. Raadsheren-plaatsvervangers, rechters-plaatsvervangers, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen die zijn aangewezen om tijdelijk een volledige of een gedeeltelijke taak te vervullen en die niet reeds uit anderen hoofde als rechterlijk ambtenaar of als rechterlijk ambtenaar in opleiding worden bezoldigd, ontvangen over de periode van hun aanwijzing een salaris op de voet van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=7&z=2002-05-15&g=2003-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=8&z=2002-05-15&g=2003-05-01).
+1. Raadsheren-plaatsvervangers, rechters-plaatsvervangers, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen die zijn aangewezen om tijdelijk een volledige of een gedeeltelijke taak te vervullen en die niet reeds uit anderen hoofde als rechterlijk ambtenaar of als rechterlijk ambtenaar in opleiding worden bezoldigd, ontvangen over de periode van hun aanwijzing een salaris op de voet van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=7&z=2003-12-01&g=2003-12-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=8&z=2003-12-01&g=2003-12-01).
 
 2. Raadsheren-plaatsvervangers, rechters-plaatsvervangers, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen die niet zijn aangewezen om tijdelijk een volledige of een gedeeltelijke taak te vervullen en die niet reeds uit anderen hoofde als rechterlijk ambtenaar of als rechterlijk ambtenaar in opleiding worden bezoldigd, ontvangen een vergoeding volgens bij algemene maatregel van bestuur te stellen regels.
 
@@ -254,7 +256,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. Indien in de bijlage, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=7&z=2002-05-15&g=2003-05-01), voor het salaris van een rechterlijk ambtenaar of een rechterlijk ambtenaar in opleiding een schaal is opgenomen, geniet deze bij de eerste benoeming met ingang van de datum van indiensttreding het als eerste in de schaal vermelde salaris en vervolgens telkens na één jaar het daarna in de schaal vermelde salaris.
+1. Indien in de bijlage, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=7&z=2003-12-01&g=2003-12-01), voor het salaris van een rechterlijk ambtenaar of een rechterlijk ambtenaar in opleiding een schaal is opgenomen, geniet deze bij de eerste benoeming met ingang van de datum van indiensttreding het als eerste in de schaal vermelde salaris en vervolgens telkens na één jaar het daarna in de schaal vermelde salaris.
 
 2. Van het eerste lid kan worden afgeweken in het besluit waarin de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding wordt benoemd.
 
@@ -262,11 +264,11 @@ Vervallen
 
 ##### Artikel 14
 
-Bij een opvolgende benoeming in een ambt waaraan een hoger maximum salaris is verbonden en waarvoor in de bijlage een schaal is opgenomen, geschiedt de inpassing in die schaal, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=13&z=2002-05-15&g=2003-05-01) plaatsvond.
+Bij een opvolgende benoeming in een ambt waaraan een hoger maximum salaris is verbonden en waarvoor in de bijlage een schaal is opgenomen, geschiedt de inpassing in die schaal, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=13&z=2003-12-01&g=2003-12-01) plaatsvond.
 
 ##### Artikel 15
 
-Bij een opvolgende benoeming in een ambt waaraan een gelijk maximum salaris is verbonden en waarvoor in de bijlage een schaal is opgenomen, geschiedt de inpassing in die schaal van de rechterlijk ambtenaar die nog niet het aan dat ambt verbonden maximum salaris geniet, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=13&z=2002-05-15&g=2003-05-01) plaatsvond.
+Bij een opvolgende benoeming in een ambt waaraan een gelijk maximum salaris is verbonden en waarvoor in de bijlage een schaal is opgenomen, geschiedt de inpassing in die schaal van de rechterlijk ambtenaar die nog niet het aan dat ambt verbonden maximum salaris geniet, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=13&z=2003-12-01&g=2003-12-01) plaatsvond.
 
 ##### Artikel 16
 
@@ -306,21 +308,37 @@ De bepalingen die voor burgerlijke rijksambtenaren gelden ten aanzien van het ge
 
 ##### Artikel 20
 
-1. De arbeidsduur bedraagt gemiddeld ten hoogste 36 uur per week.
+1. De arbeidsduur bedraagt bij een volledige taak gemiddeld 36 uur per week. Op verzoek van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding kan de arbeidsduur in hele uren worden vastgesteld op meer dan gemiddeld 36 uur per week, waarbij een maximum geldt van gemiddeld 40 uur per week. Dit verzoek wordt toegewezen, tenzij het dienstbelang zich daartegen verzet. Een verzoek tot het vaststellen van de arbeidsduur op meer dan 36 uur per week wordt niet toegewezen aan:
 
-2. Voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding met een volledige taak bedraagt het aantal te werken uren in een jaar: het aantal kalenderdagen, verminderd met het aantal zaterdagen en zondagen en met de niet op zaterdag of zondag vallende feestdagen, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=21&z=2002-05-15&g=2003-05-01), in dat jaar, vermenigvuldigd met 7,2.
+- a. de rechterlijk ambtenaar wiens gemiddelde werktijd op basis van [artikel 38d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38d) is teruggebracht;
+
+- b. de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding die op basis van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=37&z=2003-12-01&g=2003-12-01) betaald ouderschapsverlof geniet;
+
+- c. de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding die op basis van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2003-12-01&g=2003-12-01) buitengewoon verlof geniet;
+
+- d. de rechterlijk ambtenaar aan wie op grond van [artikel 46h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46h&z=2003-12-01&g=2003-12-01), gedeeltelijk ontslag is verleend met het oog op een uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 1.5 van het Pensioenreglement van de Stichting Pensioenfonds ABP;
+
+- e. de arbeidsgehandicapte in de zin van [artikel 2 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=2), waarbij een verminderde arbeidsprestatie is vastgesteld.
+
+2. Voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding met een volledige taak bedraagt het aantal te werken uren in een jaar: het aantal kalenderdagen, verminderd met het aantal zaterdagen en zondagen en met de niet op zaterdag of zondag vallende feestdagen, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=21&z=2003-12-01&g=2003-12-01), in dat jaar, vermenigvuldigd met 7,2.
 
 3. Voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding met een gedeeltelijke taak bedraagt het aantal te werken uren in een jaar een evenredig deel van het aantal uren, berekend overeenkomstig het tweede lid.
 
-4. Het aantal te werken uren, bedoeld in het tweede of derde lid, wordt rekenkundig op hele uren afgerond.
+4. Het aantal te werken uren in een jaar, bedoeld in het tweede lid, wordt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, voor wie de arbeidsduur op basis van het eerste lid op meer dan gemiddeld 36 uur per week is vastgesteld, vermenigvuldigd met de arbeidsduurfactor. De arbeidsduurfactor is een breuk waarvan de teller bestaat uit de voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding vastgestelde arbeidsduur en de noemer bestaat uit 36.
+
+5. Het aantal te werken uren, bedoeld in het tweede, derde of vierde lid, wordt rekenkundig op hele uren afgerond.
+
+6. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=3&z=2003-12-01&g=2003-12-01) berust de bevoegdheid tot het vaststellen van de arbeidsduur op meer dan gemiddeld 36 uur per week als bedoeld in het eerste lid bij de functionele autoriteit.
+
+7. Onder de Stichting Pensioenfonds ABP wordt in dit artikel verstaan de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6).
 
 ##### Artikel 21
 
 1. De functionele autoriteit stelt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, in overeenstemming met deze, een werktijdregeling vast. Voor een rechterlijk ambtenaar in opleiding die een deelstage van zijn binnenstage elders dan bij een rechtbank of arrondissementsparket doorbrengt, geschiedt die vaststelling door de rector.
 
-2. Onder werktijdregeling wordt verstaan een voor een periode van langer dan een week opgesteld en tevoren bekendgemaakt schema van aanvang en einde van de dagelijkse werktijden. In de werktijdregeling wordt het aantal te werken uren, bedoeld in [artikel 20, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2002-05-15&g=2003-05-01), vermeld.
+2. Onder werktijdregeling wordt verstaan een voor een periode van langer dan een week opgesteld en tevoren bekendgemaakt schema van aanvang en einde van de dagelijkse werktijden. In de werktijdregeling wordt het aantal te werken uren, bedoeld in [artikel 20, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), vermeld. Het in de werktijdregeling opgenomen aantal te werken uren is op jaarbasis niet hoger dan gemiddeld 40 uur per week.
 
-3. Op verzoek van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding kan, indien het belang van de taakvervulling zich daartegen niet verzet, een werktijdregeling worden vastgesteld waarbij het aantal te werken uren gelijk is aan het aantal kalenderdagen per jaar, verminderd met het aantal zaterdagen en zondagen en niet op zaterdag of zondag vallende feestdagen, bedoeld in het vijfde lid, vermenigvuldigd met acht. De bepalingen die terzake gelden voor de burgerlijke rijksambtenaren zijn van overeenkomstige toepassing.
+3. Op verzoek van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding kan, indien het belang van de taakvervulling zich daartegen niet verzet, een werktijdregeling worden vastgesteld waarbij het aantal te werken uren gelijk is aan het aantal kalenderdagen per jaar, verminderd met het aantal zaterdagen en zondagen en niet op zaterdag of zondag vallende feestdagen, bedoeld in het vijfde lid, vermenigvuldigd met acht. De bepalingen die terzake gelden voor de burgerlijke rijksambtenaren zijn van overeenkomstige toepassing. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding voor wie de arbeidsduur op basis van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), op meer dan gemiddeld 36 uur per week is vastgesteld, kan geen verzoek doen als bedoeld in de eerste volzin.
 
 4. Van de vastgestelde werktijdregeling kan slechts worden afgeweken voor een beperkte duur en indien het belang van de taakvervulling dit naar het oordeel van degene die de werktijdregeling ingevolge het eerste lid heeft vastgesteld, onvermijdelijk maakt.
 
@@ -328,7 +346,7 @@ De bepalingen die voor burgerlijke rijksambtenaren gelden ten aanzien van het ge
 
 6. Op zaterdag kunnen werkzaamheden worden opgedragen, mits het belang van de taakvervulling daartoe naar het oordeel van de functionele autoriteit aanleiding geeft.
 
-7. In bijzondere gevallen kan van de vaststelling van een werktijdregeling als bedoeld in het eerste lid worden afgezien. In dat geval zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2002-05-15&g=2003-05-01) en [21, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=21&z=2002-05-15&g=2003-05-01), van overeenkomstige toepassing.
+7. In bijzondere gevallen kan van de vaststelling van een werktijdregeling als bedoeld in het eerste lid worden afgezien. In dat geval zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01) en [21, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=21&z=2003-12-01&g=2003-12-01), van overeenkomstige toepassing.
 
 ##### Artikel 22
 
@@ -370,9 +388,11 @@ De bepalingen die voor burgerlijke rijksambtenaren gelden ten aanzien van het ge
 
 4. De aanspraak op vakantie wordt voor degene die een aanstelling of aanwijzing voor een gedeeltelijke taak heeft, vastgesteld op een evenredig deel van de aanspraak bij een volledige taak.
 
+5. De ingevolge het tweede en derde lid geldende aanspraak op vakantie wordt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding voor wie de arbeidsduur op basis van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), op meer dan gemiddeld 36 uur per week is vastgesteld, vermenigvuldigd met de voor hem geldende arbeidsduurfactor, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01).
+
 ##### Artikel 25
 
-Indien wijziging wordt aangebracht in de taakomvang van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding, wordt de aanspraak op vakantie over een eventueel resterend gedeelte van het desbetreffende kalenderjaar opnieuw vastgesteld, rekening houdend met de nieuwe taakomvang. De tot aan de datum van ingang van de wijziging verworven aanspraak op vakantie blijft ongewijzigd gehandhaafd.
+Indien wijziging wordt aangebracht in de arbeidsduur van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding, wordt de aanspraak op vakantie over een eventueel resterend gedeelte van het desbetreffende kalenderjaar opnieuw vastgesteld, rekening houdend met de nieuwe arbeidsduur. De tot aan de datum van ingang van de wijziging verworven aanspraak op vakantie blijft ongewijzigd gehandhaafd.
 
 ##### Artikel 26
 
@@ -392,15 +412,17 @@ Bij indiensttreding of bij het einde van de aanstelling of aanwijzing in de loop
 
 ##### Artikel 27a
 
-1. Indien het belang van de dienst zich daartegen niet verzet, kan de functionele autoriteit op verzoek van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding eenmaal per kalenderjaar de voor die rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ingevolge [artikel 24, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=24&z=2002-05-15&g=2003-05-01), geldende aanspraak op vakantie verlagen.
+1. Indien het belang van de dienst zich daartegen niet verzet, kan de functionele autoriteit op verzoek van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding eenmaal per kalenderjaar de voor die rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ingevolge [artikel 24, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=24&z=2003-12-01&g=2003-12-01), geldende aanspraak op vakantie verlagen.
 
 2. Het aantal uren vakantie waarmee de aanspraak kan worden verlaagd bedraagt ten hoogste het aantal uren vakantie waarop de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding over het desbetreffende kalenderjaar aanspraak heeft, verminderd met 144 uren indien hij is aangesteld of aangewezen voor het vervullen van een volledige taak, dan wel verminderd met een in evenredigheid lager aantal uren indien hij is aangesteld of aangewezen voor het vervullen van een gedeeltelijke taak. De aanspraak op vakantie kan alleen worden verlaagd met een aantal uren vakantie dat deelbaar is door het getal vier.
 
-3. Onze Minister stelt vast voor welke datum verzoeken als bedoeld in het eerste lid kunnen worden ingediend.
+3. Het aantal uren vakantie waarmee de aanspraak van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, voor wie de arbeidsduur op basis van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), op meer dan gemiddeld 36 uur per week is vastgesteld, kan worden verlaagd, bedraagt ten hoogste het aantal uren vakantie waarop de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding over het desbetreffende kalenderjaar aanspraak heeft, verminderd met: 144 uur vermenigvuldigd met de voor de voor hem geldende arbeidsduurfactor, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01).
 
-4. De functionele autoriteit beslist op of na de in het derde lid bedoelde datum gelijktijdig op de voor die datum ingediende verzoeken.
+4. Onze Minister stelt vast voor welke datum verzoeken als bedoeld in het eerste lid kunnen worden ingediend.
 
-5. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur vakantie waarmee zijn aanspraak op vakantie overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister krachtens het derde lid vastgestelde datum.
+5. De functionele autoriteit beslist op of na de in het derde lid bedoelde datum gelijktijdig op de voor die datum ingediende verzoeken.
+
+6. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur vakantie waarmee zijn aanspraak op vakantie overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister krachtens het derde lid vastgestelde datum.
 
 ##### Artikel 28
 
@@ -410,6 +432,8 @@ Bij indiensttreding of bij het einde van de aanstelling of aanwijzing in de loop
 
 3. Voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding die is aangesteld of aangewezen voor het vervullen van een gedeeltelijke taak wordt de op grond van het tweede lid geldende verplichting vastgesteld op een evenredig deel van de verplichting bij een volledige taak.
 
+4. Het aantal uren vakantie, bedoeld in het tweede lid, wordt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding voor wie de arbeidsduur op basis van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01), op meer dan gemiddeld 36 uur per week is vastgesteld, vermenigvuldigd met de arbeidsduurfactor, bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01).
+
 ##### Artikel 29
 
 1. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding gedurende de binnenstage meldt het voornemen vakantie op te nemen tijdig aan de functionele autoriteit.
@@ -418,15 +442,15 @@ Bij indiensttreding of bij het einde van de aanstelling of aanwijzing in de loop
 
 ##### Artikel 30
 
-Indien de taakvervulling dat dringend noodzakelijk maakt, kan de functionele autoriteit, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=29&z=2002-05-15&g=2003-05-01), aan de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding opdragen reeds opgenomen vakantie in te trekken, zowel voor als tijdens de vakantie. Indien deze door het intrekken van de vakantie geldelijke schade lijdt, wordt deze aan hem vergoed.
+Indien de taakvervulling dat dringend noodzakelijk maakt, kan de functionele autoriteit, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=29&z=2003-12-01&g=2003-12-01), aan de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding opdragen reeds opgenomen vakantie in te trekken, zowel voor als tijdens de vakantie. Indien deze door het intrekken van de vakantie geldelijke schade lijdt, wordt deze aan hem vergoed.
 
 ##### Artikel 31
 
-Niet opgenomen vakantie, waaronder eventueel van vorige jaren overgeboekte vakantie, wordt naar het volgende kalenderjaar overgeboekt tot een maximum van de aanspraak van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding over een vol kalenderjaar berekend op grond van de [artikelen 24 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=24&z=2002-05-15&g=2003-05-01), verminderd met de in [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2002-05-15&g=2003-05-01), bedoelde vakantie.
+Niet opgenomen vakantie, waaronder eventueel van vorige jaren overgeboekte vakantie, wordt naar het volgende kalenderjaar overgeboekt tot een maximum van de aanspraak van de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding over een vol kalenderjaar berekend op grond van de [artikelen 24 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=24&z=2003-12-01&g=2003-12-01), verminderd met de in [artikel 28, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2003-12-01&g=2003-12-01), bedoelde vakantie.
 
 ##### Artikel 32
 
-1. Indien de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding op de datum van het einde van zijn aanstelling nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij nog niet heeft opgenomen, een vergoeding toegekend ten bedrage van het salaris per uur dat hij direct voorafgaand aan het einde van zijn aanstelling genoot. De vergoeding wordt berekend met inachtneming van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2002-05-15&g=2003-05-01) en uitgaande van het salaris en de taak zoals die direct voorafgaand aan de beëindiging van het dienstverband voor hem golden en de leeftijd welke hij bereikt in het kalenderjaar van het einde van zijn aanstelling.
+1. Indien de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding op de datum van het einde van zijn aanstelling nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij nog niet heeft opgenomen, een vergoeding toegekend ten bedrage van het salaris per uur dat hij direct voorafgaand aan het einde van zijn aanstelling genoot. De vergoeding wordt berekend met inachtneming van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2003-12-01&g=2003-12-01) en uitgaande van het salaris en de taak zoals die direct voorafgaand aan de beëindiging van het dienstverband voor hem golden en de leeftijd welke hij bereikt in het kalenderjaar van het einde van zijn aanstelling.
 
 2. Indien op de dag van het einde van zijn aanstelling blijkt dat de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding teveel vakantie heeft genoten, is hij voor ieder uur teveel genoten vakantie een bedrag verschuldigd ten bedrage van het salaris per uur.
 
@@ -446,7 +470,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 ##### Artikel 35
 
-1. Behoudens in dringende gevallen moet het buitengewoon verlof, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2002-05-15&g=2003-05-01), tijdig worden aangevraagd.
+1. Behoudens in dringende gevallen moet het buitengewoon verlof, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2003-12-01&g=2003-12-01), tijdig worden aangevraagd.
 
 2. De verlening geschiedt voor een daarbij te bepalen periode. Aan de verlening kunnen voorschriften worden verbonden.
 
@@ -478,7 +502,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 ##### Artikel 38
 
-1. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding meldt het voornemen tot het nemen van het in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=37&z=2002-05-15&g=2003-05-01) bedoelde verlof ten minste twee maanden voor het door hem gewenste tijdstip van ingang van het verlof schriftelijk aan de functionele autoriteit. Hij doet daarbij opgave van:
+1. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding meldt het voornemen tot het nemen van het in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=37&z=2003-12-01&g=2003-12-01) bedoelde verlof ten minste twee maanden voor het door hem gewenste tijdstip van ingang van het verlof schriftelijk aan de functionele autoriteit. Hij doet daarbij opgave van:
 
 - a. de aaneengesloten periode van het verlof,
 
@@ -486,7 +510,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 - c. de spreiding van de verlofuren over de week.
 
-2. De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de datum van de bevalling, van het einde van het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=36&z=2002-05-15&g=2003-05-01) bedoelde bevallingsverlof of van de aanvang van de verzorging.
+2. De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de datum van de bevalling, van het einde van het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=5&paragraaf=5.2&artikel=36&z=2003-12-01&g=2003-12-01) bedoelde bevallingsverlof of van de aanvang van de verzorging.
 
 3. De functionele autoriteit is verplicht in te stemmen met een verzoek van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding het verlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden, tenzij de taakvervulling zich hiertegen ernstig verzet. Hij behoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. Indien het verlof, met toepassing van de eerste volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, vervalt de aanspraak op het overige deel van dat verlof.
 
@@ -498,7 +522,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 2. Het buitengewoon verlof gaat niet eerder in dan na aanvaarding van dat verlof met de daaraan verbonden voorschriften door de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding.
 
-3. In geval van buitengewoon verlof zonder behoud van bezoldiging heeft de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding geen aanspraak op vakantie of arbeidsduurverkorting als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2002-05-15&g=2003-05-01).
+3. In geval van buitengewoon verlof zonder behoud van bezoldiging heeft de rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding geen aanspraak op vakantie of arbeidsduurverkorting als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=4&artikel=20&z=2003-12-01&g=2003-12-01).
 
 ### Hoofdstuk 6. Overige rechten en plichten
 
@@ -550,7 +574,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 1. Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding die is benoemd of verkozen in een functie in een publiekrechtelijk college wordt, tenzij het belang van een goede taakvervulling zich daartegen verzet, door de functionele autoriteit gelegenheid gegeven tot het bijwonen van vergaderingen en zittingen van dat college en voor het verrichten van daaruit voortvloeiende werkzaamheden ten behoeve van dat college.
 
-2. Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding wordt, tenzij het belang van een goede taakvervulling zich daartegen verzet, door de functionele autoriteit gelegenheid gegeven tot het verrichten van of het deelnemen aan activiteiten op de terreinen, bedoeld in [artikel 48, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), voor of van een vakvereniging.
+2. Aan een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding wordt, tenzij het belang van een goede taakvervulling zich daartegen verzet, door de functionele autoriteit gelegenheid gegeven tot het verrichten van of het deelnemen aan activiteiten op de terreinen, bedoeld in [artikel 48, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), voor of van een vakvereniging.
 
 ##### Artikel 46
 
@@ -578,7 +602,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 ##### Artikel 46b
 
-[Dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&z=2002-05-15&g=2003-05-01) is alleen van toepassing op de voor het leven benoemde rechterlijke ambtenaren.
+[Dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&z=2003-12-01&g=2003-12-01) is alleen van toepassing op de voor het leven benoemde rechterlijke ambtenaren.
 
 #### § 6A.2. Disciplinaire maatregelen
 
@@ -630,11 +654,11 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 - a. tegen hem een gerechtelijk vooronderzoek ter zake van een misdrijf is ingesteld;
 
-- b. er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op grond van de [artikelen 46h](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46h&z=2002-05-15&g=2003-05-01) en [46i](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2002-05-15&g=2003-05-01), zouden kunnen leiden.
+- b. er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op grond van de [artikelen 46h](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46h&z=2003-12-01&g=2003-12-01) en [46i](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2003-12-01&g=2003-12-01), zouden kunnen leiden.
 
 ##### Artikel 46g
 
-1. In een geval als bedoeld in [artikel 46f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.3&artikel=46f&z=2002-05-15&g=2003-05-01), eindigt de schorsing na drie maanden. De Hoge Raad kan de maatregel telkens voor ten hoogste drie maanden verlengen.
+1. In een geval als bedoeld in [artikel 46f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.3&artikel=46f&z=2003-12-01&g=2003-12-01), eindigt de schorsing na drie maanden. De Hoge Raad kan de maatregel telkens voor ten hoogste drie maanden verlengen.
 
 2. De Hoge Raad beëindigt de schorsing zodra de grond voor deze maatregel is vervallen.
 
@@ -656,9 +680,9 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 - a. de ongeschiktheid twee jaar onafgebroken heeft geduurd;
 
-- b. herstel van zijn ziekte binnen een periode van zes maanden na de in [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2002-05-15&g=2003-05-01) genoemde termijn van twee jaar redelijkerwijs niet is te verwachten; en
+- b. herstel van zijn ziekte binnen een periode van zes maanden na de in [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2003-12-01&g=2003-12-01) genoemde termijn van twee jaar redelijkerwijs niet is te verwachten; en
 
-- c. na een zorgvuldig onderzoek door de functionele autoriteit het niet mogelijk is gebleken om hem bij een gerecht dan wel binnen het gezagsbereik van Onze Minister een andere taak op te dragen als bedoeld in [artikel 46k](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46k&z=2002-05-15&g=2003-05-01), dan wel hij heeft geweigerd deze opdracht te aanvaarden.
+- c. na een zorgvuldig onderzoek door de functionele autoriteit het niet mogelijk is gebleken om hem bij een gerecht dan wel binnen het gezagsbereik van Onze Minister een andere taak op te dragen als bedoeld in [artikel 46k](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46k&z=2003-12-01&g=2003-12-01), dan wel hij heeft geweigerd deze opdracht te aanvaarden.
 
 2. Bij het bepalen van het tijdvak van twee jaar, bedoeld in het eerste lid, onderdeel a, worden niet in aanmerking genomen afwezigheid van een rechterlijk ambtenaar wegens door zwangerschap of bevalling veroorzaakte ziekte in de periode vanaf het begin van de zwangerschap tot de eerste dag van het zwangerschapsverlof en afwezigheid van een rechterlijk ambtenaar wegens ziekte in de periode van de eerste dag van het zwangerschapsverlof tot en met de laatste dag van het bevallingsverlof.
 
@@ -668,7 +692,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 - b. indien zij worden onderbroken door afwezigheid wegens ziekte als bedoeld in het tweede lid; of
 
-- c. indien [een onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2002-05-15&g=2003-05-01) bedoelde afwezigheid wordt voorafgegaan of wordt gevolgd door een periode van arbeidsgeschiktheid, die in totaal minder dan vier weken bedraagt.
+- c. indien [een onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2003-12-01&g=2003-12-01) bedoelde afwezigheid wordt voorafgegaan of wordt gevolgd door een periode van arbeidsgeschiktheid, die in totaal minder dan vier weken bedraagt.
 
 4. In afwijking van het eerste lid kan het ontslag, indien de daar bedoelde voorwaarden zijn vervuld en de rechterlijk ambtenaar daarom verzoekt, worden verleend bij koninklijk besluit op voordracht van Onze Minister. Voor de rechtsgevolgen wordt dit ontslag gelijkgesteld met een door de Hoge Raad overeenkomstig het eerste lid verleend ontslag.
 
@@ -676,7 +700,7 @@ In geval van zwaarwegende persoonlijke omstandigheden kan op verzoek van de rech
 
 ##### Artikel 46j
 
-1. Om te beoordelen of sprake is van een situatie als bedoeld in [artikel 46i, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2002-05-15&g=2003-05-01), wordt door de functionele autoriteit medisch advies ingewonnen bij een daartoe door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), aangewezen arts. Deze arts stelt naar aanleiding van zijn bevindingen een rapport op, dat wordt toegezonden aan de functionele autoriteit en in afschrift aan de betrokken rechterlijk ambtenaar.
+1. Om te beoordelen of sprake is van een situatie als bedoeld in [artikel 46i, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2003-12-01&g=2003-12-01), wordt door de functionele autoriteit medisch advies ingewonnen bij een daartoe door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), aangewezen arts. Deze arts stelt naar aanleiding van zijn bevindingen een rapport op, dat wordt toegezonden aan de functionele autoriteit en in afschrift aan de betrokken rechterlijk ambtenaar.
 
 2. De in het eerste lid bedoelde arts betrekt bij zijn beoordeling een door de functionele autoriteit aangewezen arts en, indien de rechterlijk ambtenaar dit wenst, een door de rechterlijk ambtenaar aangewezen arts.
 
@@ -724,15 +748,15 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 ##### Artikel 46n
 
-1. De rechterlijk ambtenaar aan wie op basis van [artikel 46l, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2002-05-15&g=2003-05-01), ontslag wordt verleend, ontvangt een jaarlijkse uitkering uit 's rijks kas ter grootte van hetgeen hij op grond van het bij of krachtens de wet bepaalde zou ontvangen, indien hij zou zijn ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte en hij met ingang van de datum van dit ontslag uit hoofde van ziekten of gebreken blijvend volledig ongeschikt zou zijn.
+1. De rechterlijk ambtenaar aan wie op basis van [artikel 46l, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2003-12-01&g=2003-12-01), ontslag wordt verleend, ontvangt een jaarlijkse uitkering uit 's rijks kas ter grootte van hetgeen hij op grond van het bij of krachtens de wet bepaalde zou ontvangen, indien hij zou zijn ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte en hij met ingang van de datum van dit ontslag uit hoofde van ziekten of gebreken blijvend volledig ongeschikt zou zijn.
 
-2. De Hoge Raad kan bij zijn beslissing aan de rechterlijk ambtenaar aan wie op basis van [artikel 46l, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2002-05-15&g=2003-05-01), op basis van [artikel 46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46m&z=2002-05-15&g=2003-05-01), dan wel bij wijze van disciplinaire maatregel ontslag wordt verleend, voor een tijdsduur van ten hoogste vijf jaar een zodanige jaarlijkse uitkering ten laste van 's rijks kas toekennen als de Hoge Raad met het oog op de omstandigheden redelijk acht. De uitkering bedraagt niet meer dan hetgeen bij ontslag ingevolge [artikel 46l, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2002-05-15&g=2003-05-01), zou worden genoten. De Hoge Raad kan de uitkering herzien of intrekken, indien de omstandigheden daartoe aanleiding geven.
+2. De Hoge Raad kan bij zijn beslissing aan de rechterlijk ambtenaar aan wie op basis van [artikel 46l, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2003-12-01&g=2003-12-01), op basis van [artikel 46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46m&z=2003-12-01&g=2003-12-01), dan wel bij wijze van disciplinaire maatregel ontslag wordt verleend, voor een tijdsduur van ten hoogste vijf jaar een zodanige jaarlijkse uitkering ten laste van 's rijks kas toekennen als de Hoge Raad met het oog op de omstandigheden redelijk acht. De uitkering bedraagt niet meer dan hetgeen bij ontslag ingevolge [artikel 46l, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2003-12-01&g=2003-12-01), zou worden genoten. De Hoge Raad kan de uitkering herzien of intrekken, indien de omstandigheden daartoe aanleiding geven.
 
 #### § 6A.5. Procedure bij de Hoge Raad
 
 ##### Artikel 46o
 
-1. De Hoge Raad neemt de in dit hoofdstuk bedoelde beslissingen op vordering van de procureur-generaal bij de Hoge Raad. Over herziening van een uitkering als bedoeld in [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46n&z=2002-05-15&g=2003-05-01), en over beëindiging van een schorsing beslist de Hoge Raad op vordering van de procureur-generaal dan wel op verzoek van de betrokken rechterlijk ambtenaar.
+1. De Hoge Raad neemt de in dit hoofdstuk bedoelde beslissingen op vordering van de procureur-generaal bij de Hoge Raad. Over herziening van een uitkering als bedoeld in [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46n&z=2003-12-01&g=2003-12-01), en over beëindiging van een schorsing beslist de Hoge Raad op vordering van de procureur-generaal dan wel op verzoek van de betrokken rechterlijk ambtenaar.
 
 2. De vordering van de procureur-generaal, bedoeld in het eerste lid, geschiedt ambtshalve dan wel naar aanleiding van een met redenen omkleed verzoek van de functionele autoriteit van de betrokken rechterlijk ambtenaar. Indien de betrokken rechterlijk ambtenaar werkzaam is bij een gerechtshof of een rechtbank en daarvan niet tevens president is, wordt in de eerste volzin onder functionele autoriteit verstaan: de rechterlijk ambtenaar die tevens president van dat gerechtshof onderscheidenlijk die rechtbank is. Indien de betrokken rechterlijk ambtenaar werkzaam is bij een gerechtshof onderscheidenlijk een rechtbank en daarvan tevens president is, wordt in de eerste volzin onder functionele autoriteit verstaan: de president van de Hoge Raad onderscheidenlijk de rechterlijk ambtenaar die tevens president is van het gerechtshof tot het rechtsgebied waarvan die rechtbank behoort.
 
@@ -752,11 +776,11 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 5. De Hoge Raad doet aan het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad alsmede aan Onze Minister onverwijld mededeling van beslissingen waarbij een rechterlijk ambtenaar wordt ontslagen of geschorst, de schorsing wordt verlengd of beëindigd, dan wel hem bij ongeschiktheid wegens ziekte een andere taak wordt opgedragen.
 
-6. De Hoge Raad doet aan Onze Minister alsmede aan het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad onverwijld mededeling van beslissingen waarbij een uitkering als bedoeld in [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46n&z=2002-05-15&g=2003-05-01), wordt toegekend, herzien of ingetrokken.
+6. De Hoge Raad doet aan Onze Minister alsmede aan het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad onverwijld mededeling van beslissingen waarbij een uitkering als bedoeld in [artikel 46n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46n&z=2003-12-01&g=2003-12-01), wordt toegekend, herzien of ingetrokken.
 
 ##### Artikel 46q
 
-Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdragen van een andere taak van de procureur-generaal in het geding is, worden de in de [artikelen 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2002-05-15&g=2003-05-01) en [46p](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46p&z=2002-05-15&g=2003-05-01) aan de procureur-generaal toegekende bevoegdheden en verplichtingen uitgeoefend door de plaatsvervangend procureur-generaal.
+Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdragen van een andere taak van de procureur-generaal in het geding is, worden de in de [artikelen 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2003-12-01&g=2003-12-01) en [46p](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46p&z=2003-12-01&g=2003-12-01) aan de procureur-generaal toegekende bevoegdheden en verplichtingen uitgeoefend door de plaatsvervangend procureur-generaal.
 
 ### Hoofdstuk 7. Beroep
 
@@ -768,7 +792,7 @@ Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdrage
 
 3. Een belanghebbende kan bij de Centrale Raad van Beroep tevens beroep instellen tegen een schriftelijke beslissing of een handeling, genomen of verricht door een onafhankelijk, bij wet ingesteld met rechtspraak belast orgaan, door de voorzitter of een lid van een zodanig orgaan, door het bestuur van een zodanig orgaan of de voorzitter van dat bestuur, door de Raad voor de rechtspraak, dan wel door de procureur-generaal, de plaatsvervangend procureur-generaal of een advocaat-generaal bij de Hoge Raad, waarbij een voor het leven benoemde rechterlijk ambtenaar als zodanig, een nagelaten betrekking of rechtverkrijgende belanghebbende is.
 
-4. Het derde lid is niet van toepassing ten aanzien van beslissingen van de Hoge Raad als bedoeld in [hoofdstuk 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&z=2002-05-15&g=2003-05-01), vorderingen als bedoeld in [artikel 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2002-05-15&g=2003-05-01) tot het nemen van deze beslissingen, alsmede schriftelijke beslissingen en handelingen genomen of verricht door de president van de Hoge Raad.
+4. Het derde lid is niet van toepassing ten aanzien van beslissingen van de Hoge Raad als bedoeld in [hoofdstuk 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&z=2003-12-01&g=2003-12-01), vorderingen als bedoeld in [artikel 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2003-12-01&g=2003-12-01) tot het nemen van deze beslissingen, alsmede schriftelijke beslissingen en handelingen genomen of verricht door de president van de Hoge Raad.
 
 ### Hoofdstuk 8. Overleg
 
@@ -776,7 +800,7 @@ Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdrage
 
 1. Over aangelegenheden van algemeen belang voor de rechtstoestand – met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd – van de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding, wordt niet beslist dan nadat daarover door Onze Minister overleg is gevoerd met de Sectorcommissie rechterlijke macht.
 
-2. Het eerste lid is niet van toepassing ten aanzien van de regelingen, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=49&z=2002-05-15&g=2003-05-01), een en ander voor zover in het overleg over deze regelingen niet is voorzien in een bevoegdheid om aanvullende of afwijkende voorzieningen te treffen ten behoeve van de functionarissen, bedoeld in het eerste lid.
+2. Het eerste lid is niet van toepassing ten aanzien van de regelingen, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=49&z=2003-12-01&g=2003-12-01), een en ander voor zover in het overleg over deze regelingen niet is voorzien in een bevoegdheid om aanvullende of afwijkende voorzieningen te treffen ten behoeve van de functionarissen, bedoeld in het eerste lid.
 
 3. Over algemene aangelegenheden met betrekking tot de rechtspleging wordt door Onze Minister overleg gevoerd met de Sectorcommissie rechterlijke macht, indien een deelnemer aan het overleg dat verzoekt.
 
@@ -788,7 +812,7 @@ Het overleg met betrekking tot regelingen die specifiek betrekking hebben op ove
 
 ##### Artikel 50
 
-1. De deelnemers aan het overleg, bedoeld in [artikel 48, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), zijn de Sectorcommissie rechterlijke macht en Onze Minister.
+1. De deelnemers aan het overleg, bedoeld in [artikel 48, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), zijn de Sectorcommissie rechterlijke macht en Onze Minister.
 
 2. De Sectorcommissie rechterlijke macht bestaat uit vertegenwoordigers van:
 
@@ -806,23 +830,23 @@ Het overleg met betrekking tot regelingen die specifiek betrekking hebben op ove
 
 ##### Artikel 51
 
-1. Voorstellen strekkende tot invoering, wijziging of intrekking van regelingen welke aangelegenheden betreffen waarop [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), betrekking heeft en waaraan individuele functionarissen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), rechten kunnen ontlenen dan wel die plichten voor hen kunnen meebrengen, worden slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Sectorcommissie rechterlijke macht.
+1. Voorstellen strekkende tot invoering, wijziging of intrekking van regelingen welke aangelegenheden betreffen waarop [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), betrekking heeft en waaraan individuele functionarissen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), rechten kunnen ontlenen dan wel die plichten voor hen kunnen meebrengen, worden slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Sectorcommissie rechterlijke macht.
 
 2. Het eerste lid is niet van toepassing op voorstellen strekkende tot:
 
-- a. invoering of wijziging van een wettelijke regeling die betrekking heeft op alle burgers of alle werknemers, waaronder begrepen de functionarissen, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01),
+- a. invoering of wijziging van een wettelijke regeling die betrekking heeft op alle burgers of alle werknemers, waaronder begrepen de functionarissen, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01),
 
 - b. invoering of wijziging van een wettelijke regeling voor de functionarissen, bedoeld in artikel 48, eerste lid, met een overeenkomstige inhoud als een voorstel tot invoering of wijziging van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) werkzaam zijn,
 
-- c. vantoepassingverklaring op de functionarissen, bedoeld in artikel 48, eerste lid, van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor functionarissen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), geldende regelingen, een en ander mits het totaal van rechten en plichten van de functionarissen, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), over het geheel beoordeeld niet ongunstiger wordt, of
+- c. vantoepassingverklaring op de functionarissen, bedoeld in artikel 48, eerste lid, van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor functionarissen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), geldende regelingen, een en ander mits het totaal van rechten en plichten van de functionarissen, bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), over het geheel beoordeeld niet ongunstiger wordt, of
 
 - d. implementatie van verplichtingen voortvloeiend uit een internationaal verdrag.
 
-3. Indien in een overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het tweede lid, onderdeel **c**, wordt voldaan aan de voorwaarde dat het totaal van rechten en plichten over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan een arbitrale uitspraak van de Advies- en Arbitragecommissie, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=53&z=2002-05-15&g=2003-05-01).
+3. Indien in een overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het tweede lid, onderdeel **c**, wordt voldaan aan de voorwaarde dat het totaal van rechten en plichten over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan een arbitrale uitspraak van de Advies- en Arbitragecommissie, bedoeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=53&z=2003-12-01&g=2003-12-01).
 
 ##### Artikel 52
 
-1. Indien tijdens het overleg met de Sectorcommissie rechterlijke macht over voorstellen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2002-05-15&g=2003-05-01), de voorzitter onderscheidenlijk een of meer leden van de Sectorcommissie rechterlijke macht tot het oordeel komt dat het overleg niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan het overleg zal hebben, brengt diegene dat oordeel binnen drie dagen nadat daarvan in het overleg blijk is gegeven, schriftelijk ter kennis aan de leden van de Sectorcommissie rechterlijke macht onderscheidenlijk aan de voorzitter van het overleg en de overige leden van de Sectorcommissie rechterlijke macht.
+1. Indien tijdens het overleg met de Sectorcommissie rechterlijke macht over voorstellen als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=48&z=2003-12-01&g=2003-12-01), de voorzitter onderscheidenlijk een of meer leden van de Sectorcommissie rechterlijke macht tot het oordeel komt dat het overleg niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan het overleg zal hebben, brengt diegene dat oordeel binnen drie dagen nadat daarvan in het overleg blijk is gegeven, schriftelijk ter kennis aan de leden van de Sectorcommissie rechterlijke macht onderscheidenlijk aan de voorzitter van het overleg en de overige leden van de Sectorcommissie rechterlijke macht.
 
 2. Binnen vijf dagen na de kennisgeving, bedoeld in het eerste lid, schrijft de voorzitter een bijzondere vergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven. In deze vergadering wordt nagegaan of:
 
@@ -836,11 +860,11 @@ Het overleg met betrekking tot regelingen die specifiek betrekking hebben op ove
 
 ##### Artikel 53
 
-1. Er is een Advies- en Arbitragecommissie, die tot taak heeft te adviseren dan wel een arbitrale uitspraak te doen in de geschillen die haar ingevolge [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=51&z=2002-05-15&g=2003-05-01), of [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2002-05-15&g=2003-05-01), worden voorgelegd. Ten aanzien van de samenstelling van de Advies- en Arbitragecommissie is [artikel 110**g** van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) van overeenkomstige toepassing, met dien verstande dat de Advies- en Arbitragecommissie voor de behandeling van aangelegenheden op grond van [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=51&z=2002-05-15&g=2003-05-01), of [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2002-05-15&g=2003-05-01), wordt uitgebreid met twee leden en hun plaatsvervangers, benoemd door Onze Minister. Van hen worden één lid en zijn plaatsvervanger benoemd op voordracht van de Sectorcommissie rechterlijke macht. Bij algemene maatregel van bestuur worden regels gesteld omtrent deze voordracht door de Sectorcommissie rechterlijke macht.
+1. Er is een Advies- en Arbitragecommissie, die tot taak heeft te adviseren dan wel een arbitrale uitspraak te doen in de geschillen die haar ingevolge [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=51&z=2003-12-01&g=2003-12-01), of [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2003-12-01&g=2003-12-01), worden voorgelegd. Ten aanzien van de samenstelling van de Advies- en Arbitragecommissie is [artikel 110**g** van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) van overeenkomstige toepassing, met dien verstande dat de Advies- en Arbitragecommissie voor de behandeling van aangelegenheden op grond van [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=51&z=2003-12-01&g=2003-12-01), of [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2003-12-01&g=2003-12-01), wordt uitgebreid met twee leden en hun plaatsvervangers, benoemd door Onze Minister. Van hen worden één lid en zijn plaatsvervanger benoemd op voordracht van de Sectorcommissie rechterlijke macht. Bij algemene maatregel van bestuur worden regels gesteld omtrent deze voordracht door de Sectorcommissie rechterlijke macht.
 
 2. Tot het inwinnen van een advies van de Advies- en Arbitragecommissie is zowel de voorzitter van het overleg als de Sectorcommissie rechterlijke macht bevoegd.
 
-3. Voor het onderwerpen van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie overeenkomstig [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2002-05-15&g=2003-05-01), is overeenstemming vereist tussen de deelnemers aan het overleg.
+3. Voor het onderwerpen van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie overeenkomstig [artikel 52, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=8&artikel=52&z=2003-12-01&g=2003-12-01), is overeenstemming vereist tussen de deelnemers aan het overleg.
 
 4. De arbitrale uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
@@ -850,7 +874,7 @@ Het overleg met betrekking tot regelingen die specifiek betrekking hebben op ove
 
 ##### Artikel 54
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen, ter aanvulling van hetgeen in deze wet is geregeld, voor de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding nadere arbeidsvoorwaarden worden vastgesteld. Daarbij kan worden afgeweken van de bepalingen, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=16&z=2002-05-15&g=2003-05-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=19&z=2002-05-15&g=2003-05-01).
+1. Bij of krachtens algemene maatregel van bestuur kunnen, ter aanvulling van hetgeen in deze wet is geregeld, voor de rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding nadere arbeidsvoorwaarden worden vastgesteld. Daarbij kan worden afgeweken van de bepalingen, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=16&z=2003-12-01&g=2003-12-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=19&z=2003-12-01&g=2003-12-01).
 
 2. Voorts kunnen bij of krachtens algemene maatregel van bestuur voor rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding voorschriften worden vastgesteld met betrekking tot:
 
@@ -918,74 +942,74 @@ Vervallen
 
 Vervallen
 
-## Bijlage. Bij de Wet rechtspositie rechterlijke ambtenaren
+## Bijlage. bij de Wet rechtspositie rechterlijke ambtenaren
 
-| Salariscategorie | Salariscategorie | salaris in guldensper maandper 1 augustus 1999 |
+| salariscategorie |   | salaris in euro's per maand per 1 mei 2003 |
 | --- | --- | --- |
-| 1 |   | 18 510 |
-| 2 |   | 17 355 |
-| 3 |   | 16 273 |
-| 4 |   | 15 440 |
-| 5 | aanvang | 12 762 |
-|   | na 1 jaar | 13 600 |
-|   | na 2 jaar | 14 491 |
-|   | na 3 jaar | 15 440 |
-| 6 |   | 14 038 |
-| 7 | aanvang | 11 977 |
-|   | na 1 jaar | 12 762 |
-|   | na 2 jaar | 13 600 |
-|   | na 3 jaar | 14 038 |
-| 8 | aanvang | 11 977 |
-|   | na 1 jaar | 12 365 |
-|   | na 2 jaar | 12 762 |
-|   | na 3 jaar | 13 174 |
-| 9 | aanvang | 9 213 |
-|   | na 1 jaar | 9 469 |
-|   | na 2 jaar | 9 722 |
-|   | na 3 jaar | 9 990 |
-|   | na 4 jaar | 10 266 |
-|   | na 5 jaar | 10 549 |
-|   | na 6 jaar | 10 888 |
-|   | na 7 jaar | 11 242 |
-|   | na 8 jaar | 11 604 |
-|   | na 9 jaar | 11 977 |
-| 10 | aanvang | 7 850 |
-|   | na 1 jaar | 8 053 |
-|   | na 2 jaar | 8 248 |
-|   | na 3 jaar | 8 452 |
-|   | na 4 jaar | 8 705 |
-|   | na 5 jaar | 8 959 |
-|   | na 6 jaar | 9 213 |
-|   | na 7 jaar | 9 469 |
-|   | na 8 jaar | 9 589 |
-| 11 | aanvang | 6 840 |
-|   | na 1 jaar | 7 043 |
-|   | na 2 jaar | 7 246 |
-|   | na 3 jaar | 7 448 |
-|   | na 4 jaar | 7 644 |
-|   | na 5 jaar | 7 850 |
-|   | na 6 jaar | 8 053 |
-|   | na 7 jaar | 8 248 |
-|   | na 8 jaar | 8 452 |
-|   | na 9 jaar | 8 705 |
-|   | na 10 jaar | 8 832 |
-| 11a | aanvang | 7 850 |
-|   | na 1 jaar | 8 053 |
-|   | na 2 jaar | 8 248 |
-|   | na 3 jaar | 8 452 |
-|   | na 4 jaar | 8 705 |
-|   | na 5 jaar | 8 959 |
-|   | na 6 jaar | 9 213 |
-|   | na 7 jaar | 9 469 |
-|   | na 8 jaar | 9 589 |
-| 12 | aanvang | 4 180 |
-|   | na 1 jaar | 4 380 |
-|   | na 2 jaar | 4 593 |
-|   | na 3 jaar | 5 629 |
-|   | na 4 jaar | 5 844 |
-|   | na 5 jaar | 6 044 |
-|   | na 6 jaar | 6 224 |
-|   | na 7 jaar | 6 414 |
-|   | na 8 jaar | 6 627 |
+| 1 |   | 9 572,79 |
+| 2 |   | 8 979,64 |
+| 3 |   | 8 423,94 |
+| 4 |   | 7 900,54 |
+|   | aanvang | 6 541,49 |
+|   | na 1 jaar | 6 966,57 |
+|   | na 2 jaar | 7 418,82 |
+|   | na 3 jaar | 7 900,54 |
+| 6 |   | 7 188,49 |
+| 7 | aanvang | 6 143,10 |
+|   | na 1 jaar | 6 541,49 |
+|   | na 2 jaar | 6 966,57 |
+|   | na 3 jaar | 7 188,49 |
+| 8 | aanvang | 6 143,10 |
+|   | na 1 jaar | 6 340,19 |
+|   | na 2 jaar | 6 541,49 |
+|   | na 3 jaar | 6 750,75 |
+| 9 | aanvang | 4 740,51 |
+|   | na 1 jaar | 4 870,66 |
+|   | na 2 jaar | 4 998,47 |
+|   | na 3 jaar | 5 135,18 |
+|   | na 4 jaar | 5 275,14 |
+|   | na 5 jaar | 5 418,40 |
+|   | na 6 jaar | 5 591,15 |
+|   | na 7 jaar | 5 769,98 |
+|   | na 8 jaar | 5 953,97 |
+|   | na 9 jaar | 6 143,10 |
+| 10 | aanvang | 4 049,06 |
+|   | na 1 jaar | 4 152,05 |
+|   | na 2 jaar | 4 250,82 |
+|   | na 3 jaar | 4 354,29 |
+|   | na 4 jaar | 4 482,57 |
+|   | na 5 jaar | 4 611,77 |
+|   | na 6 jaar | 4 740,51 |
+|   | na 7 jaar | 4 870,66 |
+|   | na 8 jaar | 4 931,52 |
+| 11 | aanvang | 3 536,43 |
+|   | na 1 jaar | 3 639,89 |
+|   | na 2 jaar | 3 742,87 |
+|   | na 3 jaar | 3 844,95 |
+|   | na 4 jaar | 3 944,19 |
+|   | na 5 jaar | 4 049,06 |
+|   | na 6 jaar | 4 152,05 |
+|   | na 7 jaar | 4 250,82 |
+|   | na 8 jaar | 4 354,29 |
+|   | na 9 jaar | 4 482,57 |
+|   | na 10 jaar | 4 547,17 |
+| 11a | aanvang | 4 049,06 |
+|   | na 1 jaar | 4 152,05 |
+|   | na 2 jaar | 4 250,82 |
+|   | na 3 jaar | 4 354,29 |
+|   | na 4 jaar | 4 482,57 |
+|   | na 5 jaar | 4 611,77 |
+|   | na 6 jaar | 4 740,51 |
+|   | na 7 jaar | 4 870,66 |
+|   | na 8 jaar | 4 931,52 |
+| 12 | aanvang | 2 161,93 |
+|   | na 1 jaar | 2 264,92 |
+|   | na 2 jaar | 2 375,40 |
+|   | na 3 jaar | 2 910,98 |
+|   | na 4 jaar | 3 021,93 |
+|   | na 5 jaar | 3 125,39 |
+|   | na 6 jaar | 3 219,02 |
+|   | na 7 jaar | 3 316,86 |
+|   | na 8 jaar | 3 426,88 |
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
