@@ -4,7 +4,7 @@ identifier: "BWBR0004613"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004613"
 soort: "AMvB"
@@ -64,13 +64,11 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 ##### Artikel 4a
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander die op grond van [artikel 8, tweede lid, onderdeel a of b, derde lid, onderdeel a, vierde, vijfde of zesde lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=8) werkzaam is bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland als bedoeld in [artikel 7, tweede lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=7), tenzij hij:
+1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander die op grond van [artikel 8, tweede lid, onderdeel a, derde lid, onderdeel a, vierde, vijfde of zesde lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=8) werkzaam is bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland als bedoeld in [artikel 7, tweede lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=7), tenzij hij:
 
-- a. ten tijde van aanwerving niet in Nederland woonde;
+- a. buiten Nederland arbeid verricht anders dan de werkzaamheden, bedoeld in de aanhef; of
 
-- b. buiten Nederland arbeid verricht anders dan de werkzaamheden, bedoeld in de aanhef; of
-
-- c. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid.
+- b. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid.
 
 2. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de particuliere bediende die in dienst is van de in het eerste lid bedoelde verzekerde, tenzij hij:
 
@@ -84,7 +82,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 ##### Artikel 4b
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2002-01-01&g=2002-01-01), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
+1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2003-08-01&g=2003-08-01), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
 
 - a. ten tijde van aanwerving niet in Nederland woonde;
 
@@ -190,7 +188,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 ##### Artikel 14
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2002-01-01&g=2002-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2002-01-01&g=2002-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2002-01-01&g=2002-01-01), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
+1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2003-08-01&g=2003-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2003-08-01&g=2003-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2003-08-01&g=2003-08-01), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
 
 2. Onze Minister is bevoegd in bepaalde gevallen van het eerste lid en de aldaar genoemde termijn af te wijken. Een buiten Nederland doorgebrachte verlofperiode geldt niet als onderbreking van zowel de termijn, genoemd in het eerste lid, als de termijn, vastgesteld na toepassing van de eerste volzin.
 
