@@ -1,0 +1,129 @@
+---
+title: "Instellingsbesluit Bovenregionaal Advies College management development politie"
+identifier: "BWBR0012420"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-06-25"
+last_updated: "2001-05-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012420"
+soort: "ministeriele-regeling"
+stam_id: "4256213"
+version_id: "6019702"
+internal_id: "C6223091"
+label_id: "4234844"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012420/2005-06-25/0"
+intitule_bron: "Stcrt.2001-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-19"
+intitule_published: "2001-05-03"
+intitule_in_force: "2001-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-85"
+original_signed_date: "2001-04-19"
+original_published_date: "2001-05-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-05"
+jci_1_3: "jci1.3:c:BWBR0012420&z=2005-06-25&g=2005-06-25"
+jci_1_0: "1.0:c:BWBR0012420&g=2005-06-25"
+citeertitel_status: "officieel"
+signed_date: "2001-04-19"
+entry_into_force: "2001-05-05"
+---
+# Instellingsbesluit Bovenregionaal Advies College management development politie
+
+in overeenstemming met de Minister van Justitie;
+
+Besluit:
+
+##### Artikel 1
+
+Er is een Bovenregionaal Advies College management development politie, hierna te noemen: BRC.
+
+##### Artikel 2
+
+Het BRC heeft als taak aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie te adviseren over:
+
+- a. de verdere ontwikkeling, implementatie, evaluatie en bijstelling van het landelijk en interregionaal management development beleid ten behoeve van de Nederlandse politie;
+
+- b. de aansluiting van het regionale en interregionale management development op het landelijk management development door onder meer het ontwikkelen van landelijk gedragen criteria voor functies binnen de politieorganisatie;
+
+- c. de ontwikkeling en invoering van instrumenten om dit gezamenlijke beleid te ondersteunen;
+
+- d. de selectie van kandidaten voor het landelijk management development bestand van strategische functies binnen de politieorganisatie;
+
+- e. de periodieke toetsing en registratie van de individuele ontwikkelingen van de geselecteerde kandidaten.
+
+##### Artikel 3
+
+Ter uitvoering van zijn taken stelt het BRC tweejaarlijks een werkplan op en zendt dit ter goedkeuring aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie.
+
+##### Artikel 4
+
+1. Het BRC is als volgt samengesteld:
+
+- a. de heer dr. R.W. Welschen, korpsbeheerder van het regionale politiekorps Brabant-Zuid-Oost, voorzitter;
+
+- b. de heer drs. A.H.C. Annink, directeur-generaal Openbare Orde en Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te 's-Gravenhage;
+
+- c. mevrouw D. van As-Kleijwegt, korpsbeheerder van het regionale politiekorps Drenthe;
+
+- d. de heer mr. M.J. Bolhaar, hoofdofficier van justitie te 's-Hertogenbosch;
+
+- e. de heer E.T. van Hoorn, korpschef van het regionale politiekorps Brabant-Noord;
+
+- f. de heer J. Kuiper, korpschef van het regionale politiekorps Amsterdam-Amstelland;
+
+- g. de heer mr. J. Wiarda, korpschef van het regionale politiekorps Haaglanden;
+
+- h. de heer mr. J.H. van den Heuvel, hoofd van de directie opsporingsbeleid van het Ministerie van Justitie te 's-Gravenhage;
+
+- i. mevrouw drs. A.M. Miedema, hoofd van het Coördinatiepunt landelijk management development politie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te te 's-Gravenhage, secretaris;
+
+2. De Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie voorzien in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met g, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.
+
+##### Artikel 5
+
+Een ieder die betrokken is bij de werkzaamheden van het BRC en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
+
+##### Artikel 6
+
+Het BRC kan een huishoudelijk reglement opstellen met betrekking tot de inrichting van de procesgang, werkwijze en administratieve organisatie.
+
+##### Artikel 7
+
+Het BRC kan, ter verwezenlijking van zijn doelstellingen, omtrent nader te bepalen onderwerpen werkgroepen instellen of ondersteunen.
+
+##### Artikel 8
+
+Op de leden van het BRC is het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) van toepassing.
+
+##### Artikel 9
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Bovenregionaal Advies College management development politie.
+
+Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.
+
+Afschrift van dit besluit wordt gezonden aan:
+
+- de voorzitter en de leden van het College
+
+- de voorzitters van de Eerste en Tweede Kamer der Staten-Generaal
+
+- de Minister van Justitie
+
+- de Algemene Rekenkamer
+
+- de Inspectie van de Rijksfinanciën
+
+- de voorzitter van het Korpsbeheerdersberaad
+
+- de voorzitter van de Raad van Hoofdcommissarissen
+
+- de voorzitter van het OM Politieberaad.
