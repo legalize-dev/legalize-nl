@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2002-09-01"
+last_updated: "2003-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -62,27 +62,7 @@ Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de W
 
 ##### Artikel 2
 
-Als bestuursorgaan als bedoeld in [artikel 1a, tweede lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a)onderscheidenlijk [artikel 1a, tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a), zijn aangewezen de bestuursorganen van:
-
-- a. de Koninklijke Nederlandse Akademie van Wetenschappen, genoemd in [artikel 1.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
-
-- b. de Open Universiteit, genoemd in [artikel 1.3 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3);
-
-- c. Openbare universiteiten als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
-
-- d. Openbare hoge scholen als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
-
-- e. de Koninklijke Bibliotheek, genoemd in [artikel 1.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
-
-- f. landelijke organen als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
-
-- g. de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO, genoemd in [artikel 3 van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=3);
-
-- h. de Centrale commissie vaststelling examenopgaven en beoordelingsnormen, genoemd in het Besluit Instelling Centrale commissie vaststelling examenopgaven en beoordelingsnormen;
-
-- i. het Rijksinstituut voor Oorlogsdocumentatie, genoemd in het koninklijk besluit van 28 juli 1979 (Stb. 426);
-
-- j. de Nederlandse organisatie voor wetenschappelijk onderzoek, genoemd in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2).
+Vervallen
 
 ##### Artikel 3
 
