@@ -219,13 +219,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet financiering decentrale overheden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 2b
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
