@@ -1,0 +1,1485 @@
+---
+title: "Regeling studiefinanciering 2000"
+identifier: "BWBR0011595"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011595"
+soort: "ministeriele-regeling"
+stam_id: "4952193"
+version_id: "24910002"
+internal_id: "C35629951"
+label_id: "4929974"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011595/2026-01-01/0"
+intitule_bron: "Stcrt.2000-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-30"
+intitule_published: "2000-09-01"
+intitule_in_force: "2000-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-9451"
+original_signed_date: "2018-02-13"
+original_published_date: "2018-02-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-9451"
+entry_into_force_date: "2018-02-13"
+jci_1_3: "jci1.3:c:BWBR0011595&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0011595&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2018-02-13"
+entry_into_force: "2018-02-13"
+---
+# Regeling studiefinanciering 2000
+
+Gelet op de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.3), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12), [2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14), [3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7), [3.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.24), [3.26, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), [3.27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), [3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.28), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.29), [6.9, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.9), en [7.4, vijfde en zesde lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.4);
+
+Besluit:
+
+### Hoofdstuk 1. Algemene bepalingen
+
+##### Artikel 1.1. Begripsbepalingen
+
+### Hoofdstuk 2. Regeling omtrent aanvraag
+
+##### Artikel 2.1. Formulieren
+
+Gegevens die nodig zijn voor de toekenning van de studiefinanciering, worden door de studerende, diens partner of diens ouders uitsluitend verstrekt door invulling en inlevering van daartoe bestemde door de IB-Groep te verstrekken formulieren.
+
+##### Artikel 2.2. De studentenchipkaart
+
+In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.1&z=2003-01-01&g=2003-01-01) kan een studerende die in het bezit is van een studentenchipkaart gegevens betreffende de einddatum van zijn aanspraak op studiefinanciering of de wijziging van zijn woonplaats, aan de IB-Groep doorgeven via de aan hem verstrekte studentenchipkaart.
+
+##### Artikel 2.3. Aanvraagprocedure
+
+In de aanvraag om toekenning van studiefinanciering worden de basisbeurs, de aanvullende beurs, de basislening of de aanvullende lening aangevraagd. De aanvrager doet daarbij opgave van het sociaal-fiscaal nummer waaronder hijzelf is geregistreerd bij de rijksbelastingdienst.
+
+##### Artikel 2.4. Volledige opleiding buiten Nederland: aanvraag OV-studenten-kaart
+
+De studerende, bedoeld in [artikel 3.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.25), die als reisvoorziening een OV-studentenkaart wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep uiterlijk 8 weken voor de datum waarop de kaart moet ingaan.
+
+##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
+
+1. De studerende, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.12&z=2003-01-01&g=2003-01-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep.
+
+2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
+
+- a. in welke maanden de studerende een of meer onderdelen van de opleiding in het buitenland volgt,
+
+- b. dat deze onderdelen meetellen voor het Nederlands diploma, en
+
+- c. dat de studerende gedurende deze periode ingeschreven blijft aan de Nederlandse onderwijsinstelling.
+
+3. Met ingang van de eerste dag van de periode, waarover de aanvraag is toegekend, vervalt het recht op een OV-studentenkaart.
+
+### Hoofdstuk 3. Aanwijzing opleidingen in het buitenland
+
+##### Artikel 3.1. Hoger onderwijs in EER-landen
+
+Voor een lening gedurende ten hoogste 36 maanden als bedoeld in [artikel 2.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12) kan een student in aanmerking komen die onderwijs volgt aan een in bijlage 1 genoemde opleiding.
+
+##### Artikel 3.2. Buitenlandse opleidingen
+
+Voor studiefinanciering kan een student als bedoeld in [artikel 2.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.14) in aanmerking komen die is ingeschreven voor het volgen van onderwijs aan een in bijlage 2 genoemde opleiding.
+
+### Hoofdstuk 4. Reisvoorziening
+
+##### Artikel 4.1. Vorm van de reisvoorziening
+
+De reisvoorziening wordt toegekend in de vorm van een OV-studentenkaart.
+
+##### Artikel 4.2. Geldigheidsduur van de OV-studentenkaart
+
+De OV-studentenkaart heeft een geldigheidsduur die ten hoogste de periode van 1 januari tot en met 31 december van een kalenderjaar beslaat.
+
+##### Artikel 4.3. Geen verlenging geldigheidsduur
+
+De periode waarvoor de OV-studentenkaart geldig is, kan niet worden verlengd. De OV-studentenkaart wordt jaarlijks per 1 januari vervangen door een nieuwe kaart, tenzij op het moment van vervanging van de kaart geen recht op de reisvoorziening bestaat.
+
+##### Artikel 4.4. Wijze van verkrijgen van een nieuwe OV-studentenkaart
+
+De studerende die recht heeft op de OV-studentenkaart, ontvangt van de IB-Groep jaarlijks tijdig voor 1 januari, of voor de maand waarin recht op de reisvoorziening ontstaat, bericht over de plaats waar, de periode waarin en de wijze waarop de nieuwe OV-studentenkaart kan worden afgehaald.
+
+##### Artikel 4.5. De keuze van de OV-studentenkaart
+
+1. De OV-studentenkaart kan worden verstrekt naar keuze van de studerende als:
+
+- a. OVS-weekkaart als bedoeld in [artikel 3.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.1&z=2003-01-01&g=2003-01-01), van de overeenkomst inzake de OV-studentenkaart, tussen de Staat en de openbaarvervoerbedrijven van 19 oktober 1998, of
+
+- b. OVS-weekendkaart als bedoeld in [artikel 3.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.1&z=2003-01-01&g=2003-01-01), van genoemde overeenkomst.
+
+2. De studerende geeft bij het afhalen van de kaart te kennen of hij een OVS-weekkaart of een OVS-weekendkaart kiest.
+
+##### Artikel 4.6. Herziening van de keuze van de OV-studentenkaart; beslistermijn
+
+Op de aanvraag om herziening van de keuze, bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), wordt besloten uiterlijk op de tiende werkdag nadat de aanvraag bij de IB-Groep is ontvangen. Indien de aanvraag wordt toegekend, kan de kaart vanaf de datum van het besluit worden afgehaald.
+
+##### Artikel 4.7. Kosten van het herzien van de keuze van de OV-studentenkaart
+
+Indien een studerende de gemaakte kaartkeuze herziet, is hij daarvoor aan de IB-Groep € 13,61 verschuldigd.
+
+##### Artikel 4.8. OV-studentenkaart is strikt persoonlijk
+
+De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2003-01-01&g=2003-01-01), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
+
+##### Artikel 4.9. Eigendom van de OV-studentenkaart
+
+De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. De IB-Groep bezit het auteursrecht op de OV-studentenkaart.
+
+##### Artikel 4.10. Uitzondering op de plicht om de OV-studentenkaart in te leveren
+
+1. Indien aan de studerende na verlies of diefstal van de kaart geen duplicaat is verstrekt, is hij in afwijking van [artikel 3.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), niet verplicht zijn OV-studentenkaart in te leveren, mits hij van deze diefstal of dit verlies aangifte doet en dat aan de verstrekker van de kaart meldt met een door een politiebeambte ingevuld, daartoe bestemd formulier. Deze melding vindt plaats binnen 5 werkdagen nadat zijn recht op studiefinanciering is geëindigd.
+
+2. Het formulier, bedoeld in het eerste lid, is verkrijgbaar bij door de IB-Groep aangewezen instellingen. De studerende is voor de verwerking van dit formulier een bedrag verschuldigd van € 18,15 dat aan de verstrekker van het formulier wordt voldaan.
+
+3. In geval van examen, herexamen dan wel uitloting van een student, is de studerende verplicht de OV-studentenkaart in te leveren binnen 5 werkdagen na het bekend worden van de examen- of herexamenuitslag respectievelijk na het moment dat de uitslag van de uitloting bekend is geworden.
+
+##### Artikel 4.11. Wijze waarop en voorwaarden waaronder een duplicaat van de OV-studentenkaart kan worden verstrekt
+
+1. In geval van verlies, diefstal of beschadiging van de OV-studentenkaart heeft de studerende die recht heeft op de reisvoorziening, recht op verstrekking van een duplicaat van de kaart uiterlijk op de tiende werkdag na ontvangst van de aanvraag daartoe bij de verstrekker van de kaart.
+
+2. Een duplicaat van de kaart wordt door middel van een formulier aangevraagd. Dat formulier is verkrijgbaar bij door de IB-Groep aangewezen instellingen.
+
+3. In geval van verlies of diefstal wordt daarvan aangifte gedaan. In geval van beschadiging wordt de beschadigde kaart met het formulier, bedoeld in het tweede lid, ingeleverd bij door de IB-Groep aangewezen instellingen, of meegezonden aan de IB-Groep.
+
+4. Indien de studerende een duplicaat aanvraagt, is hij daarvoor aan de IB-Groep een bedrag verschuldigd van € 31,76.
+
+5. De originele kaart verliest zijn geldigheid op het moment dat het duplicaat is toegekend.
+
+##### Artikel 4.12. Voorziening in geld
+
+1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2003-01-01&g=2003-01-01) kan de studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, over die periode in het buitenland op aanvraag in plaats van een OV-studentenkaart in aanmerking komen voor een voorziening in geld.
+
+2. De studerende komt in aanmerking voor een voorziening in geld als bedoeld in het eerste lid, indien:
+
+- a. het onderdeel dat buiten Nederland wordt gevolgd, meetelt voor het Nederlandse diploma, en
+
+- b. de studerende ingeschreven blijft aan de Nederlandse onderwijsinstelling.
+
+3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
+
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde OV-studentenkaart ter beschikking gesteld zonder dat deze kaart opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een OV-studentenkaart worden aangevraagd met inachtneming van de aanvraagtermijn van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2003-01-01&g=2003-01-01).
+
+### Hoofdstuk 5. Terugbetaling studieschuld
+
+##### Artikel 5.1. Wijzen van terugbetaling
+
+1. De betaling van de maandelijkse termijnen voor de rente en aflossing van de lening, bedoeld in [artikel 6.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.9), geschiedt door middel van:
+
+- a. een door de IB-Groep aan de debiteur gezonden acceptgirokaart, of
+
+- b. een daartoe door de debiteur aan de IB-Groep verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bank- of postbankrekening van de debiteur.
+
+2. Indien de debiteur betaalt volgens de in het eerste lid, onderdeel b, bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+
+### Hoofdstuk 6. Herziening
+
+##### Artikel 6.1. Verrekening en terugbetaling
+
+1. Indien uit een beschikking tot herziening als bedoeld in [artikel 7.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de wet.
+
+2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die vanaf het tijdstip van afgifte van de in het eerste lid bedoelde beschikking aan de studerende zouden moeten worden gedaan.
+
+3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 13, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=13). Wanneer die maandbetalingen hoger zijn dan € 129,21 naar de maatstaf van 1 januari 2000 geschiedt de verrekening met dat bedrag.
+
+4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.
+
+5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
+
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2003-01-01&g=2003-01-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+
+7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
+
+8. Voor de berekening van de rente op de voet van het zevende lid wordt een maand gesteld op 30 dagen en een jaar gesteld op 360 dagen.
+
+9. Indien een, met inachtneming van het zesde en zevende lid berekende, termijn niet op de vervaldatum is ontvangen, vervalt de in het zesde lid bedoelde toestemming. Het nog niet door de betaling van het in de reeds betaalde maandelijkse termijnen begrepen bedrag aan aflossing op het in het vijfde lid bedoelde bedrag, vermeerderd met het verschuldigde bedrag aan wettelijke rente, wordt op eerste vordering binnen 14 dagen door de debiteur geheel voldaan.
+
+##### Artikel 6.2. Aanpassing
+
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2003-01-01&g=2003-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+##### Artikel 7.1. Afwijking van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.7&z=2003-01-01&g=2003-01-01)
+
+Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
+
+##### Artikel 7.2. Afwijking van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.10&z=2003-01-01&g=2003-01-01)
+
+Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
+
+##### Artikel 7.3. Afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.11&z=2003-01-01&g=2003-01-01)
+
+Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
+
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2003-01-01&g=2003-01-01)
+
+Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
+
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2003-01-01&g=2003-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2003-01-01&g=2003-01-01)
+
+Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
+
+##### Artikel 7.6. Vastgestelde bedragen
+
+Daar waar in ministeriële regelingen bedragen zijn vastgesteld voor het jaar 2000, worden deze bedragen vanaf 1 september 2000 geacht te zijn vastgesteld op grond van de wet.
+
+### Hoofdstuk 8. Slotbepalingen
+
+##### Artikel 8.1. Intrekking
+
+De Regeling aanleveren gegevens voor studiefinanciering bij duale opleidingen wordt ingetrokken.
+
+##### Artikel 8.2. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 september 2000.
+
+##### Artikel 8.3. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling studiefinanciering 2000.
+
+## Bijlage 1
+
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+## Bijlage 2
+
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 3.3. Studiefinanciering volledige opleiding in het buitenland: beroepsonderwijs
+
+1. Voor studiefinanciering kan een deelnemer als bedoeld in [artikel 2.13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.13a) in ieder geval in aanmerking komen die onderwijs volgt aan een opleiding die voldoet aan de volgende criteria:
+
+- a. de opleiding wordt verzorgd aan een instelling in het Gewest Brussel voorzover het betreft Nederlandstalige opleidingen, in Vlaanderen of in de Bondsrepubliek Duitsland,
+
+- b. de opleiding wordt verzorgd op een wijze die vergelijkbaar is met de beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder a, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2),
+
+- c. de opleiding is vergelijkbaar met een beroepsopleiding in de sectoren Gezondheid en Welzijn, Metaal en Elektro of Economie en Administratie van de landelijke kwalificatiestructuur als bedoeld in [artikel 7.2.4 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), en
+
+- d. voor het volgen van de opleiding kan van overheidswege in de desbetreffende staat een tegemoetkoming in studiekosten of levensonderhoud worden verstrekt.
+
+2. In afwijking van het eerste lid, onderdelen a en c kan een deelnemer voor studiefinanciering in aanmerking komen die onderwijs volgt aan een instelling in een lidstaat van de Europese Unie aan een opleiding die niet vergelijkbaar is met enige beroepsopleiding in de landelijke kwalificatiestructuur als bedoeld in [artikel 7.2.4 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4).
+
+##### Artikel 3.4. Beroepsonderwijs in het buitenland: opleiding niveau 1 of 2 dan wel niveau 3 of 4
+
+1. Een opleiding als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.3&z=2005-08-01&g=2005-08-01) die vergelijkbaar is met een opleiding niveau 1 of 2 wordt voor de toepassing van de wet aangemerkt als een opleiding niveau 1 of 2.
+
+2. Een opleiding als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.3&z=2005-08-01&g=2005-08-01) die vergelijkbaar is met een opleiding niveau 3 of 4 wordt voor de toepassing van de wet aangemerkt als een opleiding niveau 3 of 4.
+
+### Hoofdstuk 4. Reisvoorziening
+
+### Hoofdstuk 6. Herziening
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage 1
+
+Vervallen
+
+## Bijlage 2
+
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 6a.1. Bacheloropleidingen en verwante kopopleidingen
+
+1. De bacheloropleidingen, bedoeld in [artikel 5.6, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.6) zijn de opleidingen in de kolommen ‘HBO-bachelor’ en ‘WO-bachelor’ van de bijlage bij deze regeling.
+
+2. De hbo-lerarenopleidingen, bedoeld in [artikel 5.6, vijfde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.6) zijn opleidingen tot leraar genoemd in de kolom ‘Bevoegdheid’ van de bijlage bij deze regeling. Een hbo-lerarenopleiding is verwant met een opleiding als bedoeld in het eerste lid van dit artikel als deze twee opleidingen in dezelfde rij van de bijlage zijn opgenomen.
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. bij de Regeling studiefinanciering 2000
+
+| HBO-bachelor | WO-bachelor | Bevoegdheid |
+| --- | --- | --- |
+| Bedrijfseconomie Accountancy Fiscale economie Commerciële economie | Bedrijfseconomie Algemene economie | Leraar economie |
+|   | Nederlands | Leraar Nederlands |
+|   | Engels | Leraar Engels |
+|   | Duits | Leraar Duits |
+|   | Frans | Leraar Frans |
+|   | Spaans | Leraar Spaans |
+|   | Arabisch | Leraar Arabisch |
+|   | Turks | Leraar Turks |
+|   | Fries | Leraar Fries |
+|   | Geografie | Leraar aardrijkskunde |
+|   | Geschiedenis | Leraar geschiedenis |
+| Bedrijfswiskunde | Wiskunde | Leraar wiskunde |
+| Technische natuurkunde | Natuurkunde | Leraar natuurkunde |
+| Industrieel ontwerpen | Industrieel ontwerpen | Leraar techniek |
+| Chemie/ Scheikunde | Chemie/ Scheikunde | Leraar scheikunde |
+|   | Biologie | Leraar biologie |
+| Werktuigbouwkunde | Werktuigbouwkunde | Leraar werktuigbouw |
+| Werktuigbouwkunde | Werktuigbouwkunde | Leraar techniek |
+| Elektrotechniek | Elektrotechniek | Leraar elektrotechniek |
+| Motorvoertuigen |   | Leraar motorvoertuigentechniek |
+| Bouwkunde | Bouwkunde | Leraar bouwkunde |
+| Bouwtechniek |   | Leraar bouwtechniek |
+| Pedagogiek Sociaal Pedagogische Hulpverlening | Pedagogiek | Leraar pedagogiek |
+|   | Politicologie | Leraar maatschappijleer |
+| Sociaal Pedagogische Hulpverlening Maatschappelijk Werk en Dienstverlening Cultureel Maatschappelijke Vorming Pedagogiek Psychologie Personeel en Arbeid | Pedagogiek Psychologie | Leraar omgangskunde |
+|   |   |   |
+| HBO-bachelor (alleen van het Hoger Agrarisch Onderwijs) Landbouw Plantenteelt Veehouderij Tuinbouw en akkerbouw Dier- en veehouderij Tuinbouw Levensmiddelentechnologie Voedingsmiddelentechnologie Tuin- en landschapsinrichting Bedrijfskunde en agribusiness Agrarische bedrijfskunde | WO-bachelor (alleen van de Wageningen Universiteit) Bos- en natuurbeheer Milieukunde Agrotechnologie Plantenwetenschappen Landschapsarchitectuur en ruimtelijke planning Landschap, planning en ontwerp Dierwetenschappen Biologie Voeding en gezondheid Levensmiddelentechnologie | Leraar educatie en kennismanagement voor de groene sector |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+### Hoofdstuk 5. Terugbetaling studieschuld
+
+##### Artikel 5.2. Aflosvrije periode
+
+1. Op aanvraag van de debiteur kan de terugbetaling, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), en [artikel 10a.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5), worden opgeschort met een of meerdere aflosvrije periodes.
+
+2. Een aflosvrije periode beslaat minimaal drie kalendermaanden.
+
+3. De terugbetaling kan voor ten hoogste vijf kalenderjaren worden opgeschort.
+
+4. De debiteur dient een aanvraag als bedoeld in het eerste lid in uiterlijk 1 maand voor de datum waarop de aflosvrije periode in moet gaan.
+
+5. Voor elke aflosvrije periode wordt een nieuwe aanvraag ingediend bij de Minister.
+
+### Hoofdstuk 6. Herziening
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage
+
+| Hbo-bachelor | Wo-bachelor | B Opleiding tot leraar voortgezet onderwijs van de tweede graad | Crohonr. |
+| --- | --- | --- | --- |
+| Bedrijfseconomie, | Bedrijfseconomie, | Leraar economie* | 35203 |
+| Accountancy, | Algemene economie, |   | 35202 |
+| Fiscale economie, |   |   |   |
+| Commerciële economie, |   |   |   |
+| Management, Economie en Recht |   |   |   |
+|   | Nederlands | Leraar Nederlands | 35198 |
+|   | Engels | Leraar Engels | 35195 |
+|   | Duits | Leraar Duits | 35193 |
+|   | Frans | Leraar Frans | 35196 |
+|   | Spaans | Leraar Spaans | 35255 |
+|   | Arabisch | Leraar Arabisch | 35185 |
+|   | Turks | Leraar Turks | 35186 |
+|   | Fries | Leraar Fries | 35144 |
+|   | Geografie | Leraar aardrijkskunde | 35201 |
+|   | Geschiedenis | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | Wiskunde | Leraar wiskunde | 35221 |
+| Technische natuurkunde | Natuurkunde | Leraar natuurkunde | 35261 |
+| Industrieel ontwerpen, Werktuigbouwkunde | Industrieel ontwerpen | Leraar techniek | 35254 |
+| Chemie/ Scheikunde, Applied Science met Scheikunde | Chemie/ Scheikunde | Leraar scheikunde | 35199 |
+|   | Biologie | Leraar biologie | 35301 |
+| Werktuigbouwkunde | Werktuigbouwkunde | Leraar werktuigbouw | 35387 |
+| Elektrotechniek | Elektrotechniek | Leraar elektrotechniek | 35384 |
+| Motorvoertuigen |   | Leraar motorvoertuigentechniek | 35386 |
+| Bouwkunde | Bouwkunde | Leraar bouwkunde | 35382 |
+| Bouwtechniek | Bouwtechniek | Leraar bouwtechniek | 35383 |
+| Pedagogiek, | Pedagogiek | Leraar pedagogiek | 35204 |
+| Sociaal Pedagogische Hulpverlening | Politicologie | Leraar maatschappijleer | 35411 |
+| Sociaal Pedagogische Hulpverlening, | Pedagogiek, | Leraar omgangskunde | 35421 |
+| Maatschappelijk Werk en Dienstverlening, | Psychologie |   |   |
+| Cultureel Maatschappelijke Vorming, |   |   |   |
+| Creatieve Therapie, |   |   |   |
+| Pedagogiek, |   |   |   |
+| Psychologie, |   |   |   |
+| Personeel en Arbeid |   |   |   |
+| Technische Informatica Informatica |   | Docent informatie en communicatie technologie | 39116 |
+| Godsdienst-pastoraal Werk | Theologie | Leraar godsdienst | 35441 |
+| HBO-bachelor (alleen van het Hoger Agrarisch Onderwijs) | WO-bachelor (alleen van de Wageningen Universiteit) |   |   |
+| Plattelandsvernieuwing, | Bos- en natuurbeheer, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Landbouw, | Milieukunde, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Plantenteelt, | Agrotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Veehouderij, | Plantenwetenschappen, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw, | Biotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Dier- en veehouderij, | Landschapsarchitectuur en ruimtelijke planning, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie, | Landschap, planning en ontwerp, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Fooddesign en innovation, | Dierwetenschappen, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuinbouw, | Biologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Levensmiddelentechnologie, | Voeding en gezondheid, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Bos- en Natuurbeheer, | Levensmiddelentechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting, | Voedingsmiddelentechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tropische Landbouw, | Plant /Biotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Diermanagement, | Foodquality Management | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness, |   |   |   |
+| Agrarische bedrijfskunde |   |   |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 6b.1. Aanspraken op grond van voormalig [artikel 5.6 WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.6)
+
+Voor de toepassing van [artikel 12.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14) wordt ten aanzien van de student, bedoeld in [artikel 5.6, vijfde tot en met achtste en tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.6), zoals dat luidde op 31 augustus 2015, onder ‘nominale duur van die opleiding’ verstaan de nominale duur die voor de betreffende student van toepassing is, inclusief de verlenging met een jaar op grond van artikel 5.6 van de wet, zoals dat luidde op 31 augustus 2015.
+
+##### Artikel 6b.2. Omzettingsmoment studieschuld van lening beroepsonderwijs naar lening hoger onderwijs
+
+De lening van een debiteur die op grond van [artikel 10a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.2), of [artikel 12.14, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14) een aanvraag heeft gedaan om die lening aan te merken als een lening hoger onderwijs, wordt met ingang van de datum waarop de aflosfase begint aangemerkt als een lening hoger onderwijs.
+
+##### Artikel 6b.3. Toepassing nieuwe terugbetalingsregels op studieschuld waarop reeds is afgelost
+
+Voor de debiteur, bedoeld in [artikel 10a.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.2), of [12.14, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), voor wie reeds een aflosfase is aangevangen voordat artikel 12.14, vijfde lid, van de wet op hem van toepassing wordt, geldt het verzoek om de lening aan te merken als een lening hoger onderwijs voor beide leningen, met dien verstande dat:
+
+- a. de aanvraag wordt ingediend vóór aanvang van de aflosfase van de lening waarop [artikel 12.14, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14) van toepassing is, maar na 31 december 2016;
+
+- b. beide leningen worden aangemerkt als een lening hoger onderwijs met ingang van de datum waarop de aflosfase van de lening waarop [artikel 12.14, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14) van toepassing is begint; en
+
+- c. de totale duur van de aflosfase voor de lening waarvoor reeds een aflosfase was aangevangen, wordt verminderd met het aantal maanden dat die aflosfase reeds had geduurd.
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+##### Artikel 2a.1. Toekenning en betaling levenlanglerenkrediet
+
+Toekenning en betaling van het levenlanglerenkrediet vindt plaats overeenkomstig de wijze van toekenning en betaling van de reguliere studiefinanciering, bedoeld in [artikel 3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.1).
+
+##### Artikel 2a.2. Berekening van de hoogte van het levenlanglerenkrediet voor studenten ingeschreven voor het volgen van een opleiding waarbij het jaarlijks te betalen bedrag aan collegegeld niet vooraf is vast te stellen
+
+1. Voor een student voor wie het feitelijk voor een periode van 12 maanden te betalen bedrag aan collegegeld niet vooraf is vast te stellen, wordt onder de voorwaarden, genoemd in dit artikel, afgeweken van de maximale hoogte van het levenlanglerenkrediet per maand, genoemd in [artikel 3.16d, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16d).
+
+2. Bij de berekening van de hoogte van het levenlanglerenkrediet dat een student per maand toegekend krijgt is het aantal studiepunten van de onderwijseenheid, bedoeld in [artikel 7.32, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.32), waarvoor de student het levenlanglerenkrediet aanvraagt bepalend.
+
+3. Het aantal studiepunten behorende bij de onderwijseenheid waarvoor de student het levenlanglerenkrediet aanvraagt, wordt gedeeld door vijf. Het getal dat daaruit komt wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het levenlanglerenkrediet voor de desbetreffende onderwijseenheid wordt uitbetaald.
+
+4. De hoogte van het bedrag dat per maand wordt uitbetaald aan een student wordt berekend door het aangevraagde bedrag aan levenlanglerenkrediet voor een onderwijseenheid te delen door het aantal maanden als berekend in het derde lid.
+
+5. Per studiejaar kan levenlanglerenkrediet worden toegekend voor een of meerdere onderwijseenheden tot in totaal ten hoogste een bedrag van vijf maal het wettelijk collegegeld als bedoeld in[artikel 7.45, eerste lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45).
+
+### Hoofdstuk 4. Reisvoorziening
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2017-10-03&g=2017-08-01)
+
+| HBO-bachelor | Croho-nummer | WO-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commerciële economie | 34402 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commercieel management1 | 34126 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35197 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35197 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35197 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+|   |   | Biologie | 56860 | Leraar biologie | 35301 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie3 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Hbo ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   |   | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 |   | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   |   | 35421 |
+| Creatieve therapie | 34644 |   |   |   | 35421 |
+| Pedagogiek | 35158 |   |   |   | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
+| Human Resource Management | 34609 |   |   |   | 35421 |
+
+| Hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | Wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+1 Alleen met uitstroomprofiel Commerciële Economie
+
+2 Afhankelijk van vakkenpakket
+
+3 Alleen voor het uitstroomprofiel bouwkunde
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 2a.3. Hoogte en berekening van het levenlanglerenkrediet voor studenten aan een onderwijseenheid
+
+1. Voor een student die is ingeschreven voor het volgen van een onderwijseenheid als bedoeld in [artikel 2.12, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12), wordt onder de voorwaarden, genoemd in dit artikel, afgeweken van de maximale hoogte van het levenlanglerenkrediet per maand, genoemd in [artikel 3.16d, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16d).
+
+2. Bij de berekening van de hoogte van het levenlanglerenkrediet dat een student per maand toegekend krijgt, is het aantal studiepunten van de onderwijseenheid waarvoor de student het levenlanglerenkrediet aanvraagt bepalend.
+
+3. Het aantal studiepunten behorende bij de onderwijseenheid waarvoor de student het levenlanglerenkrediet aanvraagt, wordt gedeeld door vijf. Het getal dat daaruit komt wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het levenlanglerenkrediet voor de desbetreffende onderwijseenheid wordt uitbetaald.
+
+4. De hoogte van het bedrag dat per maand wordt uitbetaald aan een student wordt berekend door het aangevraagde bedrag aan levenlanglerenkrediet voor een onderwijseenheid te delen door het aantal maanden als berekend in het derde lid.
+
+### Hoofdstuk 3. Aanwijzing opleidingen in het buitenland
+
+### Hoofdstuk 4. Reisvoorziening
+
+### Hoofdstuk 6. Herziening
+
+### Hoofdstuk 6a. Kopopleidingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-12-05&g=2017-09-01)
+
+| hbo-bachelor | Croho-nummer | wo-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commerciële economie | 34402 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commercieel management1 | 34126 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie3 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie4 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie4 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie4 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie4 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work5 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   |   | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 |   | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   |   | 35421 |
+| Creatieve therapie | 34644 |   |   |   | 35421 |
+| Pedagogiek | 35158 |   |   |   | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
+| Human Resource Management | 34609 |   |   |   | 35421 |
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+1 Alleen met het uitstroomprofiel Commerciële Economie
+
+2 Afhankelijk van het vakkenpakket
+
+3 Alleen voor het uitstroomprofiel Bouwkunde
+
+4 Alleen voor het uitstroomprofiel Informatietechnologie
+
+5 Alleen met de specialisatie Jeugd
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 4a.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
+
+1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
+
+2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), of de markering, bedoeld in het eerste lid, van toepassing is.
+
+3. De Minister verstrekt geen gegevens aan derden met betrekking tot de melding, bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), en de markering, bedoeld in het eerste lid.
+
+4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.17a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.17a van de wet.
+
+##### Artikel 4a.2. Gegevensuitwisseling met Inspectie SZW
+
+1. De Minister verstrekt gegevens als bedoeld in [artikel 9.6a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=9.6a), slechts op verzoek van de Inspectie SZW.
+
+2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met het burgerservicenummer.
+
+3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
+
+4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
+
+##### Artikel 4a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging tegen verlies of onrechtmatige verwerking en hoe daarop wordt toegezien
+
+1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.17a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.17a), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+
+2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62), van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-02-22&g=2018-02-22)
+
+| hbo-bachelor | Croho-nummer | wo-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commerciële economie | 34402 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commercieel management1 | 34126 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie3 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie4 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie4 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie4 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie4 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work5 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   |   | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 |   | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   |   | 35421 |
+| Creatieve therapie | 34644 |   |   |   | 35421 |
+| Pedagogiek | 35158 |   |   |   | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
+| Human Resource Management | 34609 |   |   |   | 35421 |
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+1 Alleen met het uitstroomprofiel Commerciële Economie
+
+2 Afhankelijk van het vakkenpakket
+
+3 Alleen voor het uitstroomprofiel Bouwkunde
+
+4 Alleen voor het uitstroomprofiel Informatietechnologie
+
+5 Alleen met de specialisatie Jeugd
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+### Hoofdstuk 6a. Kopopleidingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2018-12-05&g=2018-02-22)
+
+| hbo-bachelor | Croho-nummer | wo-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commerciële economie | 34402 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Commercieel management1 | 34126 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie2 Leraar economie2 Leraar algemene economie2 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie3 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie4 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie4 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie4 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie4 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie4 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie4 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work5 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   |   | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 |   | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   |   | 35421 |
+| Creatieve therapie | 34644 |   |   |   | 35421 |
+| Pedagogiek | 35158 |   |   |   | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   |   | 35421 |
+| Human Resource Management | 34609 |   |   |   | 35421 |
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+1 Alleen met het uitstroomprofiel Commerciële Economie
+
+2 Afhankelijk van het vakkenpakket
+
+3 Alleen voor het uitstroomprofiel Bouwkunde
+
+4 Alleen voor het uitstroomprofiel Informatietechnologie
+
+5 Alleen met de specialisatie Jeugd
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 5.3. Schorsing reguliere studieschuld bij aangaan levenlanglerenkredietschuld
+
+De terugbetalingsperiode van de lening hoger onderwijs en de lening beroepsonderwijs wordt op aanvraag geschorst indien de debiteur opnieuw studerende is en levenlanglerenkrediet geniet.
+
+##### Artikel 5.4. Schorsing levenlanglerenkredietschuld bij aangaan reguliere studieschuld of levenlanglerenkredietschuld
+
+1. De terugbetalingsperiode van de lening die is ontstaan door toekenning van het levenlanglerenkrediet wordt van rechtswege geschorst indien:
+
+- a. de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=3&artikel=3.1&z=2020-09-01&g=2020-09-01), geniet, of
+
+- b. de debiteur opnieuw levenlanglerenkrediet aangaat en geen lening beroepsonderwijs of lening hoger onderwijs heeft.
+
+2. De terugbetalingsperiode van de lening die is ontstaan door toekenning van het levenlanglerenkrediet wordt op aanvraag geschorst indien:
+
+- a. de debiteur opnieuw studerende is en onderwijs volgt als bedoeld in de [paragrafen 2.2 tot en met 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&paragraaf=2.2), met uitzondering van het onderwijs, bedoeld in [artikel 2.12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.12), en geen studiefinanciering geniet; of
+
+- b. de debiteur opnieuw levenlanglerenkrediet aangaat en een lening beroepsonderwijs of lening hoger onderwijs heeft.
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2020-09-01&g=2020-09-01)
+
+| hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Commercieel management4 | 34126 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Opleiding tot Verpleegkunde | 34560 |   |   | Leraar vo 2e gr Gezondheidszorg & Welzijn5 | 35388 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie7 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie8 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie8 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie8 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie8 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work9 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   | Leraar omgangskunde | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 | Leraar omgangskunde | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   | Leraar omgangskunde | 35421 |
+| Creatieve therapie | 34644 |   |   | Leraar omgangskunde | 35421 |
+| Pedagogiek | 35158 |   |   | Leraar omgangskunde | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   | Leraar omgangskunde | 35421 |
+| Human Resource Management | 34609 |   |   | Leraar omgangskunde | 35421 |
+
+1 Afhankelijk van het vakkenpakket
+
+2 Afhankelijk van het vakkenpakket
+
+3 Afhankelijk van het vakkenpakket
+
+4 Alleen met het uitstroomprofiel Commerciële Economie
+
+5 Deze kopopleiding kent ook een vakinhoudelijke invulling
+
+6 Alleen voor het uitstroomprofiel Informatietechnologie
+
+7 Alleen voor het uitstroomprofiel Bouwkunde
+
+8 Alleen voor het uitstroomprofiel Informatietechnologie
+
+9 Alleen met de specialisatie Jeugd
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+### Hoofdstuk 6b. Cohortgarantie studievoorschot hoger onderwijs
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2023-04-01&g=2023-04-01)
+
+| hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Commercieel management4 | 34126 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Opleiding tot Verpleegkunde | 34560 |   |   | Leraar vo 2e gr Gezondheidszorg & Welzijn5 | 35388 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie7 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie8 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie8 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie8 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie8 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work9 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   | Leraar omgangskunde | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 | Leraar omgangskunde | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   | Leraar omgangskunde | 35421 |
+| Creatieve therapie | 34644 |   |   | Leraar omgangskunde | 35421 |
+| Pedagogiek | 35158 |   |   | Leraar omgangskunde | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   | Leraar omgangskunde | 35421 |
+| Human Resource Management | 34609 |   |   | Leraar omgangskunde | 35421 |
+
+1 Afhankelijk van het vakkenpakket
+
+2 Afhankelijk van het vakkenpakket
+
+3 Afhankelijk van het vakkenpakket
+
+4 Alleen met het uitstroomprofiel Commerciële Economie
+
+5 Deze kopopleiding kent ook een vakinhoudelijke invulling
+
+6 Alleen voor het uitstroomprofiel Informatietechnologie
+
+7 Alleen voor het uitstroomprofiel Bouwkunde
+
+8 Alleen voor het uitstroomprofiel Informatietechnologie
+
+9 Alleen met de specialisatie Jeugd
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+##### Artikel 2.6. Aanvraagprocedure gebruik overgangsregeling terugbetalingsregels mbo
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.7. Aanvraagprocedure van een tegemoetkoming voor cohorten onder het studievoorschot hoger onderwijs
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.8. Aanvraagprocedure van een tegemoetkoming voor de eerste vier cohorten onder het studievoorschot hoger onderwijs
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2a.4. Berekening van het collegegeldkrediet of levenlanglerenkrediet voor een student educatieve module of premaster
+
+Voor een ho-student die op grond van [artikel 3.16f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.16f) per maand een bedrag aan collegegeldkrediet of levenlanglerenkrediet ontvangt dat gelijkstaat aan de vergoeding die hij naar rato per 5 studiepunten betaalt voor het gebruikmaken van een educatieve module of premaster,
+
+wordt het aantal maanden waarover het collegegeldkrediet of levenlanglerenkrediet wordt uitbetaald, berekend door het aantal studiepunten van de educatieve module of premaster te delen door vijf. Het getal dat daaruit komt, wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het collegegeldkrediet of levenlanglerenkrediet wordt uitbetaald.
+
+### Hoofdstuk 4. Reisvoorziening
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2023-09-01&g=2023-09-01)
+
+| hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Commercieel management4 | 34126 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Opleiding tot Verpleegkunde | 34560 |   |   | Leraar vo 2e gr Gezondheidszorg & Welzijn5 | 35388 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie7 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie8 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie8 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie8 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie8 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work9 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   | Leraar omgangskunde | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 | Leraar omgangskunde | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   | Leraar omgangskunde | 35421 |
+| Creatieve therapie | 34644 |   |   | Leraar omgangskunde | 35421 |
+| Pedagogiek | 35158 |   |   | Leraar omgangskunde | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   | Leraar omgangskunde | 35421 |
+| Human Resource Management | 34609 |   |   | Leraar omgangskunde | 35421 |
+
+1 Afhankelijk van het vakkenpakket
+
+2 Afhankelijk van het vakkenpakket
+
+3 Afhankelijk van het vakkenpakket
+
+4 Alleen met het uitstroomprofiel Commerciële Economie
+
+5 Deze kopopleiding kent ook een vakinhoudelijke invulling
+
+6 Alleen voor het uitstroomprofiel Informatietechnologie
+
+7 Alleen voor het uitstroomprofiel Bouwkunde
+
+8 Alleen voor het uitstroomprofiel Informatietechnologie
+
+9 Alleen met de specialisatie Jeugd
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
