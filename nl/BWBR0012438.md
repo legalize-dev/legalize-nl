@@ -4,7 +4,7 @@ identifier: "BWBR0012438"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-09-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012438"
 soort: "wet"
@@ -216,7 +216,7 @@ Een minderjarige die de leeftijd van 17 jaren heeft bereikt is bekwaam de rechts
 
 ##### Artikel 1.6. Inspecteur der rijksbelastingen bepaalt inkomen of loon
 
-De inspecteur die ingevolge [artikel 3 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3) bevoegd is tot heffing van belastingen van de aanvrager, partner van de aanvrager, TOS-ouder of partner van de TOS-ouder, bepaalt op verzoek van de IB-Groep het gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon van de desbetreffende aanvrager, partner van de aanvrager, TOS-ouder of partner van de TOS-ouder.
+De inspecteur, onder wie de aanvrager, partner van de aanvrager, TOS-ouder of partner van de TOS-ouder krachtens [artikel 3, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3) ressorteert voor de heffing van de inkomstenbelasting, bepaalt op verzoek van de IB-Groep het gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon van de desbetreffende aanvrager, partner van de aanvrager, TOS-ouder of partner van de TOS-ouder.
 
 ##### Artikel 1.7. Gebruik sociaal-fiscaalnummer of onderwijsnummer
 
@@ -314,13 +314,13 @@ Voor tegemoetkoming ingevolge hoofdstuk 4 kan een deelnemer vavo in aanmerking k
 
 ##### Artikel 2.11. Bekostigd en aangewezen hoger onderwijs lerarenopleidingen
 
-1. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2002-09-01&g=2002-09-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een bekostigde universiteit of hogeschool, genoemd in de [bijlage van de WHW](77499):
+1. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2003-01-01&g=2003-01-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een bekostigde universiteit of hogeschool, genoemd in de [bijlage van de WHW](77499):
 
 - a. voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan, of
 
 - b. gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.12), [5a.12a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.12a), [5a.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.15), of [6.5, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5).
 
-2. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2002-09-01&g=2002-09-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.14 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.14):
+2. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2003-01-01&g=2003-01-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.14 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.14):
 
 - a. voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan, of
 
@@ -406,7 +406,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 1. De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van het toetsingsinkomen.
 
-2. Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van het toetsingsinkomen. Naar de maatstaf van het schooljaar of studiejaar 2001–2002 bedraagt het grensbedrag € 24 950,–Per 1 januari 2002: € 25.748,40.
+2. Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van het toetsingsinkomen. Naar de maatstaf van het schooljaar of studiejaar 2001–2002 bedraagt het grensbedrag € 24 950,–Met ingang van het schooljaar 2003-2004: € 26.966,30.
 
 3. Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.
 
@@ -428,11 +428,11 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 ##### Artikel 2.25. Korting op tegemoetkoming
 
-1. De tegemoetkoming wordt verminderd met een ingevolge het derde lid en [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.27&z=2002-09-01&g=2002-09-01) berekende korting wegens overschrijding van het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2002-09-01&g=2002-09-01).
+1. De tegemoetkoming wordt verminderd met een ingevolge het derde lid en [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.27&z=2003-01-01&g=2003-01-01) berekende korting wegens overschrijding van het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2003-01-01&g=2003-01-01).
 
-2. De korting wordt niet toegepast op de basistoelage, bedoeld in [artikel 4.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2002-09-01&g=2002-09-01).
+2. De korting wordt niet toegepast op de basistoelage, bedoeld in [artikel 4.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2003-01-01&g=2003-01-01).
 
-3. De korting is 30% van het verschil tussen het toetsingsinkomen in het peiljaar en het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2002-09-01&g=2002-09-01).
+3. De korting is 30% van het verschil tussen het toetsingsinkomen in het peiljaar en het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2003-01-01&g=2003-01-01).
 
 4. Het kortingsbedrag voor een kalendermaand is de korting, bedoeld in het derde lid, gedeeld door 12.
 
@@ -460,7 +460,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 ##### Artikel 2.28. Peiljaarverlegging bij terugval in inkomen
 
-1. Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.24&z=2002-09-01&g=2002-09-01), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2002-09-01&g=2002-09-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&artikel=5.5&z=2002-09-01&g=2002-09-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=5.11&z=2002-09-01&g=2002-09-01).
+1. Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.24&z=2003-01-01&g=2003-01-01), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2003-01-01&g=2003-01-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&artikel=5.5&z=2003-01-01&g=2003-01-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=5.11&z=2003-01-01&g=2003-01-01).
 
 2. Voor de toepassing van het eerste lid wordt onder een terugval in inkomen verstaan een vermindering van het toetsingsinkomen met ten minste 15% ten opzichte van het peiljaar, met dien verstande dat:
 
@@ -470,7 +470,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 ##### Artikel 2.29. Nog niet vastgesteld of nog niet bekend inkomen
 
-Voor de toepassing van de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.24&z=2002-09-01&g=2002-09-01) en [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.25&z=2002-09-01&g=2002-09-01) wordt zolang het gecorrigeerde verzamelinkomen over het kalenderjaar waarover het verzamelinkomen berekend wordt, het eerste of het tweede jaar na dat kalenderjaar nog niet is vastgesteld of het gecorrigeerde belastbare loon over het desbetreffende kalenderjaar nog niet bekend is, door de IB-Groep daarvoor in de plaats gesteld een bedrag dat het vast te stellen gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon zo goed mogelijk benadert.
+Voor de toepassing van de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.24&z=2003-01-01&g=2003-01-01) en [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.25&z=2003-01-01&g=2003-01-01) wordt zolang het gecorrigeerde verzamelinkomen over het kalenderjaar waarover het verzamelinkomen berekend wordt, het eerste of het tweede jaar na dat kalenderjaar nog niet is vastgesteld of het gecorrigeerde belastbare loon over het desbetreffende kalenderjaar nog niet bekend is, door de IB-Groep daarvoor in de plaats gesteld een bedrag dat het vast te stellen gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon zo goed mogelijk benadert.
 
 ### Hoofdstuk 3. Leerlingen tot 18 jaar in voortgezet onderwijs en beroepsonderwijs
 
@@ -514,12 +514,12 @@ Dit hoofdstuk is van toepassing op scholieren, deelnemers en deelnemers vavo die
 
 **Overzicht. Bedragen tegemoetkoming schoolkosten**
 
-| bovenbouw | € 572,67,– Per 1 januari 2002: € 586,93 |
+| bovenbouw | € 572,67,– Voor het schooljaar 2003-2004: € 613,87 |
 | --- | --- |
-| beroepsonderwijs | € 845,39,–Per 1 januari 2002: € 866,44 |
+| beroepsonderwijs | € 845,39,–Voor het schooljaar 2003-2004: € 906,21 |
 | speciaal onderwijs | nihil |
 | voortgezet speciaal onderwijs | nihil |
-| overig onderwijs | € 504,60,–Per 1 januari 2002: € 517,16 |
+| overig onderwijs | € 504,60,–Voor het schooljaar 2003-2004: € 540,90 |
 
 2. Onder overig onderwijs, genoemd in het overzicht in het eerste lid, valt tevens het voortgezet speciaal onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden en moeilijk lerende kinderen.
 
@@ -593,9 +593,9 @@ De tegemoetkoming in de zin van dit hoofdstuk bestaat uit:
 
 De basistoelage is naar de maatstaf van 1 januari 2001 per kalendermaand voor een:
 
-- a. thuiswonende leerling: € 84,59 Per 1 januari 2002: € 86,70., en
+- a. thuiswonende leerling: € 84,59 Per 1 januari 2003: € 90,68, en
 
-- b. uitwonende leerling: € 197,21 Per 1 januari 2002: € 202,12..
+- b. uitwonende leerling: € 197,21 Per 1 januari 2003: € 211,40.
 
 ##### Artikel 4.4. Tegemoetkoming onderwijsbijdrage
 
@@ -619,11 +619,11 @@ De basistoelage is naar de maatstaf van 1 januari 2001 per kalendermaand voor ee
 
 **Overzicht. Bedragen tegemoetkoming schoolkosten**
 
-| bovenbouw | € 47,72 Per 1 januari 2002: € 48,91. |
+| bovenbouw | € 47,72 Voor het schooljaar 2003-2004: € 51,16 |
 | --- | --- |
 | speciaal onderwijs | nihil |
 | voortgezet speciaal onderwijs | nihil |
-| overig onderwijs | € 42,05 Per 1 januari 2002: € 43,10. |
+| overig onderwijs | € 42,05 Voor het schooljaar 2003-2004: € 45,08 |
 
 2. Artikel 3.5, tweede lid, is van toepassing.
 
@@ -771,20 +771,20 @@ De tegemoetkoming in de zin van deze afdeling bestaat uit:
 
 | aantal minuten per week | onderwijsbijdrage | schoolkosten |
 | --- | --- | --- |
-| 540 of meer | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o1) | € 226,– Per 1 januari 2002: € 240,91 |
-| 540 of meer en voor 1 januari 270 tot 540 | 0,5 x [o1 + (o1 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 113 Per 1 januari 2002: € 120,46 + € 113 Per 1 januari 2002: € 120,45 naar rato aantal minuten dat onderwijs wordt gevolgd |
-| 270 tot 540 | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o2) | € 152,– Per 1 januari 2002: € 162,31 |
-| 270 tot 540 en voor 1 januari minder dan 270 | 0,5 x [o2 + (o2 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 76,- Per 1 januari 2002: € 81,16+ € 76,-Per 1 januari 2002: € 81,15 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 540 of meer | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o1) | € 226,– Voor het studiejaar 2003-2004: € 251,97 |
+| 540 of meer en voor 1 januari 270 tot 540 | 0,5 x [o1 + (o1 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 113 Voor het studiejaar 2003-2004: € 125,99 + € 113 Voor het studiejaar 2003-2004: € 125,98 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 270 tot 540 | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o2) | € 152,– Voor het studiejaar 2003-2004: € 169,76 |
+| 270 tot 540 en voor 1 januari minder dan 270 | 0,5 x [o2 + (o2 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 76,- Voor het studiejaar 2003-2004: € 84,88+ € 76,-Voor het studiejaar 2003-2004: € 84,88 naar rato aantal minuten dat onderwijs wordt gevolgd |
 | minder dan 270 | nihil | nihil |
 
 **Overzicht 2. Geen onderwijs meer volgen na 30 september en voor 1 januari**
 
 | aantal minuten per week | onderwijsbijdrage | schoolkosten |
 | --- | --- | --- |
-| 540 of meer | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o1) | € 113,- Per 1 januari 2002: € 120,46 |
-| 540 of meer en voor 1 januari 270 tot 540 | 0,25 x [o1 + (o1 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 56,50 Per 1 januari 2002: € 60,23 + € 56,50 Per 1 januari 2002: € 60,23 naar rato aantal minuten dat onderwijs wordt gevolgd |
-| 270 tot 540 | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o2) | € 76,- Per 1 januari 2002: € 81,16 |
-| 270 tot 540 en voor 1 januari minder dan 270 | 0,25 x [o2 + (o2 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 38,- Per 1 januari 2002: € 40,58 + € 38,- Per 1 januari 2002: € 40,58 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 540 of meer | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o1) | € 113,- Voor het studiejaar 2003-2004: € 125,98 |
+| 540 of meer en voor 1 januari 270 tot 540 | 0,25 x [o1 + (o1 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 56,50 Voor het studiejaar 2003-2004: € 62,99 + € 56,50 Voor het studiejaar 2003-2004: € 62,99 naar rato aantal minuten dat onderwijs wordt gevolgd |
+| 270 tot 540 | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o2) | € 76,- Voor het studiejaar 2003-2004: € 84,88 |
+| 270 tot 540 en voor 1 januari minder dan 270 | 0,25 x [o2 + (o2 naar rato aantal minuten dat onderwijs wordt gevolgd)] | € 38,- Voor het studiejaar 2003-2004: € 42,44 + € 38,- Voor het studiejaar 2003-2004: € 42,44 naar rato aantal minuten dat onderwijs wordt gevolgd |
 | minder dan 270 | nihil | nihil |
 
 **Overzicht 3. Geen onderwijs meer volgen na 30 september**
@@ -873,9 +873,9 @@ De [artikelen 7:2 tot en met 7:9 van de Algemene wet bestuursrecht](https://wett
 
 ##### Artikel 7.3. Verrekening teveel toegekende en uitbetaalde tegemoetkoming
 
-1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2002-09-01&g=2002-09-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de tegemoetkoming dat teveel is uitbetaald, door de aanvrager terugbetaald of met hem verrekend.
+1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2003-01-01&g=2003-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de tegemoetkoming dat teveel is uitbetaald, door de aanvrager terugbetaald of met hem verrekend.
 
-2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2002-09-01&g=2002-09-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voorzover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
+2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2003-01-01&g=2003-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voorzover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
 
 3. Indien na een voorlopige voorziening als bedoeld in [titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3), de beslissing in hoofdzaak daartoe aanleiding geeft, wordt het bedrag dat op grond van de voorlopige voorziening teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend. 4 De in het eerste tot en met derde lid bedoelde terugbetaling en verrekening geschieden overeenkomstig bij ministeriële regeling vast te stellen redelijke terugbetalingsregels.
 
@@ -935,7 +935,7 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 ##### Artikel 9.6. Verstrekken van inlichtingen door inspecteur der rijksbelastingen
 
-De inspecteur die ingevolge [artikel 3 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3) bevoegd is tot heffing van belastingen, verstrekt de gegevens inzake het gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon aan de IB-Groep volgens bij of krachtens algemene maatregel van bestuur te stellen regels.
+De inspecteur, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.6&z=2003-01-01&g=2003-01-01), verstrekt de gegevens inzake het gecorrigeerde verzamelinkomen of het gecorrigeerde belastbare loon aan de IB-Groep volgens bij of krachtens algemene maatregel van bestuur te stellen regels.
 
 #### Paragraaf 9.3. Administratieve sanctie
 
@@ -1009,7 +1009,7 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 
 1. Voor tegemoetkoming kan aanspraak bestaan afhankelijk van de hoogte van het toetsingsinkomen en van de onderwijssoort.
 
-2. Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,-Per 1 januari 2002: € 2.949,46..
+2. Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,-Per 1 januari 2003: € 3.088,97.
 
 ##### Artikel 10.6. Toetsingsinkomen
 
@@ -1047,9 +1047,9 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 
 - a. hoger onderwijs: 12 maal het normbedrag voor boeken en leermiddelen voor het hoger onderwijs, bedoeld in [artikel 3.18 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), zoals dat geldt op de eerste dag van het studiejaar en afgerond op het naastbij gelegen, gehele getal,
 
-- b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 226,-Per 1 januari 2002: € 240,91.,
+- b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 226,-Voor het schooljaar 2003-2004: € 251,97,
 
-- c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 152,- Per 1 januari 2002: € 162,31.,
+- c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 152,- Voor het schooljaar 2003-2004: € 169,76,
 
 - d. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.
 
@@ -1315,15 +1315,15 @@ Deze wet wordt aangehaald als: Wet tegemoetkoming onderwijsbijdrage en schoolkos
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12.3a. Afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2002-09-01&g=2002-09-01)
+##### Artikel 12.3a. Afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2003-01-01&g=2003-01-01)
 
-1. In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2002-09-01&g=2002-09-01) komt tot een bij koninklijk besluit te bepalen tijdstip voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2002-09-01&g=2002-09-01) mede in aanmerking een student die is ingeschreven voor het volgen van:
+1. In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2003-01-01&g=2003-01-01) komt tot een bij koninklijk besluit te bepalen tijdstip voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2003-01-01&g=2003-01-01) mede in aanmerking een student die is ingeschreven voor het volgen van:
 
 - a. een voltijdse opleiding als bedoeld in de [artikelen 17a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=17a.6), [17a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=17a.7) of [17a.7a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=17a.7a), voorzover het een opleiding voor het beroep van leraar betreft en voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan, of
 
 - b. een voltijdse bacheloropleiding of masteropleiding voor het beroep van leraar, ten aanzien waarvan [artikel 17a.9 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=17a.9) van toepassing is.
 
-2. In afwijking van [artikel 2.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2002-09-01&g=2002-09-01), geldt tot een bij koninklijk besluit te bepalen tijdstip in plaats van ‘[6.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5)’: [6.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5).
+2. In afwijking van [artikel 2.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2003-01-01&g=2003-01-01), geldt tot een bij koninklijk besluit te bepalen tijdstip in plaats van ‘[6.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5)’: [6.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5).
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
