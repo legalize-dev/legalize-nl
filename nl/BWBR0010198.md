@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2001-12-08"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,19 +49,17 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2001-12-08&g=2001-12-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2001-12-08&g=2001-12-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2001-12-08&g=2001-12-08), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2001-12-08&g=2001-12-08).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-05-19&g=2004-05-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-05-19&g=2004-05-19), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2001-12-08&g=2001-12-08) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2001-12-08&g=2001-12-08) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2001-12-08&g=2001-12-08), vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-05-19&g=2004-05-19) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-05-19&g=2004-05-19), vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2001-12-08&g=2001-12-08) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld;
-
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2001-12-08&g=2001-12-08) wordt de verbijzondering naar nummerlengte van de nummerreeksen 060, 063, 064, 068 en 069 en naar dienst van de nummerreeksen 063 en 068 vastgesteld.
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-05-19&g=2004-05-19) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
 
 ##### Artikel 4
 
@@ -69,7 +67,7 @@ Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers
 
 ##### Artikel 5
 
-Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander, korter, geografisch of niet-geografisch nummer gevolgd door één of meer cijfers.
+Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander, korter of langer, geografisch of niet-geografisch nummer gevolgd door één of meer cijfers.
 
 ##### Artikel 6
 
@@ -508,11 +506,403 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 8.. |   |   |
 |   | 9.. | ander gebruik wordt uitgefaseerd |   |
 
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19), van het Nummerplan telefoon- en ISDN-diensten
+
+| Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
+| --- | --- | --- | --- | --- |
+| 00 |   | Internationale toegangscode | 2 | Nee |
+|   |   |   |   |   |
+| 01... | 01... | Netnummergebieden |   |   |
+| 010 |   | Rotterdam | 10 | Nee |
+|   | 0110 |   |   |   |
+| 0111 |   | Zierikzee | 10 | Nee |
+|   | 0112 |   |   |   |
+| 0113 |   | Goes | 10 | Nee |
+| 0114 |   | Hulst | 10 | Nee |
+| 0115 |   | Terneuzen | 10 | Nee |
+|   | 0116 |   |   |   |
+| 0117 |   | Oostburg | 10 | Nee |
+| 0118 |   | Middelburg | 10 | Nee |
+|   | 0119 |   |   |   |
+|   | 012 |   |   |   |
+| 013 |   | Tilburg | 10 | Nee |
+|   |   |   |   |   |
+| 014 |   | Overige diensten |   |   |
+| 014 |   | Netwerkinterne diensten zoals routeren en testen; opmerking 1: deze nummers zijn bedoeld voor eigen gebruik door netwerkbeheerders en niet om te worden aangekozen door eindgebruikers; opmerking 2: deze bestemming valt niet in de categorie ‘geografisch bepaalde bestemmingen’ waarvoor de nummerreeks 01 is bestemd. | Niet bepaald | Nee |
+|   |   |   |   |   |
+| 01... | 01... | Netnummergebieden |   |   |
+| 015 |   | Delft | 10 | Nee |
+|   | 0160 |   |   |   |
+| 0161 |   | Rijen | 10 | Nee |
+| 0162 |   | Oosterhout | 10 | Nee |
+|   | 0163 |   |   |   |
+| 0164 |   | Bergen op Zoom | 10 | Nee |
+| 0165 |   | Roosendaal | 10 | Nee |
+| 0166 |   | Tholen | 10 | Nee |
+| 0167 |   | Steenbergen | 10 | Nee |
+| 0168 |   | Zevenbergen | 10 | Nee |
+|   | 0169 |   |   |   |
+|   | 0170 |   |   |   |
+|   | 0171 |   |   |   |
+| 0172 |   | Alphen a/d Rijn | 10 | Nee |
+|   | 0173 |   |   |   |
+| 0174 |   | Naaldwijk | 10 | Nee |
+|   | 0175 |   |   |   |
+|   | 0176 |   |   |   |
+|   | 0177 |   |   |   |
+|   | 0178 |   |   |   |
+|   | 0179 |   |   |   |
+| 0180 |   | IJsselsteden | 10 | Nee |
+| 0181 |   | Spijkenisse | 10 | Nee |
+| 0182 |   | Gouda | 10 | Nee |
+| 0183 |   | Gorinchem | 10 | Nee |
+| 0184 |   | Sliedrecht | 10 | Nee |
+|   | 0185 |   |   |   |
+| 0186 |   | Oud-Beijerland | 10 | Nee |
+| 0187 |   | Middelharnis | 10 | Nee |
+|   | 0188 |   |   |   |
+|   | 0189 |   |   |   |
+|   | 019 |   |   |   |
+|   |   |   |   |   |
+| 02... | 02... | Netnummergebieden |   |   |
+| 020 |   | Amsterdam | 10 | Nee |
+|   | 021 |   |   |   |
+|   | 0220 |   |   |   |
+|   | 0221 |   |   |   |
+| 0222 |   | Den Burg | 10 | Nee |
+| 0223 |   | Den Helder | 10 | Nee |
+| 0224 |   | Schagen | 10 | Nee |
+|   | 0225 |   |   |   |
+| 0226 |   | Noord Scharwoude | 10 | Nee |
+| 0227 |   | Middenmeer | 10 | Nee |
+| 0228 |   | Enkhuizen | 10 | Nee |
+| 0229 |   | Hoorn | 10 | Nee |
+| 023 |   | Haarlem | 10 | Nee |
+| 024 |   | Nijmegen | 10 | Nee |
+|   | 0250 |   |   |   |
+| 0251 |   | Beverwijk | 10 | Nee |
+| 0252 |   | Hillegom | 10 | Nee |
+|   | 0253 |   |   |   |
+|   | 0254 |   |   |   |
+| 0255 |   | IJmuiden | 10 | Nee |
+|   | 0256 |   |   |   |
+|   | 0257 |   |   |   |
+|   | 0258 |   |   |   |
+|   | 0259 |   |   |   |
+| 026 |   | Arnhem | 10 | Nee |
+|   | 027 |   |   |   |
+|   | 028 |   |   |   |
+|   | 0290 |   |   |   |
+|   | 0291 |   |   |   |
+|   | 0292 |   |   |   |
+|   | 0293 |   |   |   |
+| 0294 |   | Weesp | 10 | Nee |
+|   | 0295 |   |   |   |
+|   | 0296 |   |   |   |
+| 0297 |   | Uithoorn | 10 | Nee |
+|   | 0298 |   |   |   |
+| 0299 |   | Purmerend | 10 | Nee |
+|   |   |   |   |   |
+| 03... | 03... | Netnummergebieden |   |   |
+| 030 |   | Utrecht | 10 | Nee |
+|   | 0310 |   |   |   |
+|   | 0311 |   |   |   |
+|   | 0312 |   |   |   |
+| 0313 |   | Dieren | 10 | Nee |
+| 0314 |   | Doetinchem | 10 | Nee |
+| 0315 |   | Terborg | 10 | Nee |
+| 0316 |   | Zevenaar | 10 | Nee |
+| 0317 |   | Wageningen | 10 | Nee |
+| 0318 |   | Ede | 10 | Nee |
+|   | 0319 |   |   |   |
+| 0320 |   | Lelystad | 10 | Nee |
+| 0321 |   | Dronten | 10 | Nee |
+|   | 0322 |   |   |   |
+|   | 0323 |   |   |   |
+|   | 0324 |   |   |   |
+|   | 0325 |   |   |   |
+|   | 0326 |   |   |   |
+|   | 0327 |   |   |   |
+|   | 0328 |   |   |   |
+|   | 0329 |   |   |   |
+| 033 |   | Amersfoort | 10 | Nee |
+|   | 0340 |   |   |   |
+| 0341 |   | Harderwijk | 10 | Nee |
+| 0342 |   | Barneveld | 10 | Nee |
+| 0343 |   | Doorn | 10 | Nee |
+| 0344 |   | Tiel | 10 | Nee |
+| 0345 |   | Culemborg | 10 | Nee |
+| 0346 |   | Maarssen | 10 | Nee |
+| 0347 |   | Vianen | 10 | Nee |
+| 0348 |   | Woerden | 10 | Nee |
+|   | 0349 |   |   |   |
+| 035 |   | Hilversum | 10 | Nee |
+| 036 |   | Almere | 10 | Nee |
+|   | 037 |   |   |   |
+| 038 |   | Zwolle | 10 | Nee |
+|   | 039 |   |   |   |
+|   |   |   |   |   |
+| 04... | 04... | Netnummergebieden |   |   |
+| 040 |   | Eindhoven | 10 | Nee |
+|   | 0410 |   |   |   |
+| 0411 |   | Boxtel | 10 | Nee |
+| 0412 |   | Oss | 10 | Nee |
+| 0413 |   | Veghel | 10 | Nee |
+|   | 0414 |   |   |   |
+|   | 0415 |   |   |   |
+| 0416 |   | Waalwijk | 10 | Nee |
+|   | 0417 |   |   |   |
+| 0418 |   | Zaltbommel | 10 | Nee |
+|   | 0419 |   |   |   |
+|   | 042 |   |   |   |
+| 043 |   | Maastricht | 10 | Nee |
+|   |   |   |   |   |
+| 044... | 044... | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0440 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0441 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0442 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0443 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+| 0444 |   | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 | Nee |
+|   | 0445 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0446 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0447 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0448 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   | 0449 | Routering voor oproepen naar nummers in de Europese telefoonnummerruimte | 6 t/m 14 |   |
+|   |   |   |   |   |
+| 04... | 04... | Netnummergebieden |   |   |
+| 045 |   | Heerlen | 10 | Nee |
+| 046 |   | Sittard | 10 | Nee |
+|   | 0470 |   |   |   |
+|   | 0471 |   |   |   |
+|   | 0472 |   |   |   |
+|   | 0473 |   |   |   |
+|   | 0474 |   |   |   |
+| 0475 |   | Roermond | 10 | Nee |
+|   | 0476 |   |   |   |
+|   | 0477 |   |   |   |
+| 0478 |   | Venray | 10 | Nee |
+|   | 0479 |   |   |   |
+|   | 0480 |   |   |   |
+| 0481 |   | Bemmel | 10 | Nee |
+|   | 0482 |   |   |   |
+|   | 0483 |   |   |   |
+|   | 0484 |   |   |   |
+| 0485 |   | Cuyk | 10 | Nee |
+| 0486 |   | Grave | 10 | Nee |
+| 0487 |   | Druten | 10 | Nee |
+| 0488 |   | Zetten | 10 | Nee |
+|   | 0489 |   |   |   |
+|   | 0490 |   |   |   |
+|   | 0491 |   |   |   |
+| 0492 |   | Helmond | 10 | Nee |
+| 0493 |   | Deurne | 10 | Nee |
+|   | 0494 |   |   |   |
+| 0495 |   | Weert | 10 | Nee |
+|   | 0496 |   |   |   |
+| 0497 |   | Eersel | 10 | Nee |
+|   | 0498 |   |   |   |
+| 0499 |   | Best | 10 | Nee |
+|   |   |   |   |   |
+| 05... | 05... | Netnummergebieden |   |   |
+| 050 |   | Groningen | 10 | Nee |
+|   | 0510 |   |   |   |
+| 0511 |   | Veenwouden | 10 | Nee |
+| 0512 |   | Drachten | 10 | Nee |
+| 0513 |   | Heerenveen | 10 | Nee |
+| 0514 |   | Balk | 10 | Nee |
+| 0515 |   | Sneek | 10 | Nee |
+| 0516 |   | Oosterwolde | 10 | Nee |
+| 0517 |   | Franeker | 10 | Nee |
+| 0518 |   | St. Annaparochie | 10 | Nee |
+| 0519 |   | Dokkum | 10 | Nee |
+|   | 0520 |   |   |   |
+| 0521 |   | Steenwijk | 10 | Nee |
+| 0522 |   | Meppel | 10 | Nee |
+| 0523 |   | Dedemsvaart | 10 | Nee |
+| 0524 |   | Coevorden | 10 | Nee |
+| 0525 |   | Elburg | 10 | Nee |
+|   | 0526 |   |   |   |
+| 0527 |   | Emmeloord | 10 | Nee |
+| 0528 |   | Hoogeveen | 10 | Nee |
+| 0529 |   | Ommen | 10 | Nee |
+| 053 |   | Enschede | 10 | Nee |
+|   | 0540 |   |   |   |
+| 0541 |   | Oldenzaal | 10 | Nee |
+|   | 0542 |   |   |   |
+| 0543 |   | Winterswijk | 10 | Nee |
+| 0544 |   | Groenlo | 10 | Nee |
+| 0545 |   | Neede | 10 | Nee |
+| 0546 |   | Almelo | 10 | Nee |
+| 0547 |   | Goor | 10 | Nee |
+| 0548 |   | Rijssen | 10 | Nee |
+|   | 0549 |   |   |   |
+| 055 |   | Apeldoorn | 10 | Nee |
+|   | 0560 |   |   |   |
+| 0561 |   | Wolvega | 10 | Nee |
+| 0562 |   | West Terschelling | 10 | Nee |
+|   | 0563 |   |   |   |
+|   | 0564 |   |   |   |
+|   | 0565 |   |   |   |
+| 0566 |   | Irnsum | 10 | Nee |
+|   | 0567 |   |   |   |
+|   | 0568 |   |   |   |
+|   | 0569 |   |   |   |
+| 0570 |   | Deventer | 10 | Nee |
+| 0571 |   | Twello | 10 | Nee |
+| 0572 |   | Raalte | 10 | Nee |
+| 0573 |   | Lochem | 10 | Nee |
+|   | 0574 |   |   |   |
+| 0575 |   | Zutphen | 10 | Nee |
+|   | 0576 |   |   |   |
+| 0577 |   | Uddel | 10 | Nee |
+| 0578 |   | Epe | 10 | Nee |
+|   | 0579 |   |   |   |
+| 058 |   | Leeuwarden | 10 | Nee |
+|   | 0590 |   |   |   |
+| 0591 |   | Emmen | 10 | Nee |
+| 0592 |   | Assen | 10 | Nee |
+| 0593 |   | Beilen | 10 | Nee |
+| 0594 |   | Zuidhorn | 10 | Nee |
+| 0595 |   | Warffum | 10 | Nee |
+| 0596 |   | Appingedam | 10 | Nee |
+| 0597 |   | Winschoten | 10 | Nee |
+| 0598 |   | Hoogezand | 10 | Nee |
+| 0599 |   | Stadskanaal | 10 | Nee |
+|   |   |   |   |   |
+| 06... | 06... | Mobiele diensten en toegang tot data- diensten |   |   |
+|   | 060 |   |   |   |
+| 061 |   | Mobiele telefonie | 10 | Nee |
+| 062 |   | Mobiele telefonie | 10 | Nee |
+| 063 |   | Mobiele telefonie | 10 | Nee |
+| 064 |   | Mobiele telefonie | 10 | Nee |
+| 0650... t/m 0655... |   | Mobiele telefonie | 10 | Nee |
+| 0656... t/m 0659... |   | Semafonie; wordt uitgefaseerd. Vanaf 1 januari 2006 mobiele telefonie | 10 | Nee |
+| 066 |   | Semafonie | 10 | Nee |
+| 0670... t/m 0675... |   | Videotex en toegang tot datadiensten op andere netwerken | 6, 101De nummers hebben 6 cijfers behalve de nummers die beginnen met 067-281, 067-284 en 067-364 welke uit 10 cijfers bestaan. | Nee |
+| 06760... |   | Toegang tot internet, dat wil zeggen toegang tot het openbaar toegankelijk deel van op het Internet Protocol gebaseerde netwerken en diensten | 10 | Nee |
+|   | 06761... t/m 06769... |   |   |   |
+| 0677... t/m 0679... |   | Videotex en toegang tot datadiensten op andere netwerken | 6 | Nee |
+|   | 068 |   |   |   |
+|   | 069 |   |   |   |
+|   |   |   |   |   |
+| 07... | 07... | Netnummergebieden |   |   |
+| 070 |   | ’s-Gravenhage | 10 | Nee |
+| 071 |   | Leiden | 10 | Nee |
+| 072 |   | Alkmaar | 10 | Nee |
+| 073 |   | ’s-Hertogenbosch | 10 | Nee |
+| 074 |   | Hengelo | 10 | Nee |
+| 075 |   | Zaandam | 10 | Nee |
+| 076 |   | Breda | 10 | Nee |
+| 077 |   | Venlo | 10 | Nee |
+| 078 |   | Dordrecht | 10 | Nee |
+| 079 |   | Zoetermeer | 10 | Nee |
+|   |   |   |   |   |
+| 08... | 08... | Overige diensten |   |   |
+| 0800-0... 0800-1... 0800-2... 0800-3... 0800-400... t/m 0800-405... |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie bijlage 3, tabel 0800 | Nee |
+| 0800-406... |   | Gratis informatiediensten | 11 | Nee |
+| 0800-407... t/m 0800-409... |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
+| 0800-41... |   | Gratis informatiediensten | 8 | Nee |
+| 0800-42... |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
+| 0800-43... |   | Gratis informatiediensten | 8 | Nee |
+| 0800-44... 0800-45... |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
+| 0800-46... |   | Gratis informatiediensten | 8 | Nee |
+| 0800-47... 0800-48... |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
+| 0800-49... |   | Gratis informatiediensten | 8 | Nee |
+| 0800-5 0800-6 0800-7 0800-8 0800-9 |   | Gratis informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie bijlage 3, tabel 0800 | Nee |
+|   | 0801 |   |   |   |
+|   | 0802 |   |   |   |
+|   | 0803 |   |   |   |
+|   | 0804 |   |   |   |
+|   | 0805 |   |   |   |
+|   | 0806 |   |   |   |
+|   | 0807 |   |   |   |
+|   | 0808 |   |   |   |
+|   | 0809 |   |   |   |
+|   | 081 |   |   |   |
+| 082 |   | Virtual private networks | Niet bepaald | Nee |
+|   | 083 |   |   |   |
+| 084 |   | Persoonlijke-assistentdiensten, voor zowel vaste als mobiele toepassingen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen; – amusementsdiensten; – doorschakelen naar voornoemde diensten. | 10 | Nee |
+|   | 085 |   |   |   |
+|   | 086 |   |   |   |
+| 087 |   | Persoonlijke-assistentdiensten, voor zowel vaste als mobiele toepassingen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen; – amusementsdiensten; – doorschakelen naar voornoemde diensten. | 10 | Nee |
+|   | 088 |   |   |   |
+|   | 089 |   |   |   |
+|   |   |   |   |   |
+| 09... | 09... | Overige diensten |   |   |
+| 0900 |   | Betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – amusementsdiensten of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie bijlage 3, tabel 0900 | Nee |
+|   | 0901 |   |   |   |
+|   | 0902 |   |   |   |
+|   | 0903 |   |   |   |
+|   | 0904 |   |   |   |
+|   | 0905 |   |   |   |
+| 0906 |   | Betaalde informatiediensten | 8, 11 zie bijlage 3, tabel 0906 | Nee |
+|   | 0907 |   |   |   |
+|   | 0908 |   |   |   |
+| 0909 |   | Betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie bijlage 3, tabel 0909 | Nee |
+|   | 091 |   |   |   |
+|   | 092 |   |   |   |
+|   | 093 |   |   |   |
+|   | 094 |   |   |   |
+|   | 095 |   |   |   |
+|   | 096 |   |   |   |
+|   | 097 |   |   |   |
+|   | 098 |   |   |   |
+|   | 099 |   |   |   |
+|   |   |   |   |   |
+| 1... | 1... | Speciale diensten |   |   |
+| 10... |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 5 | Nee |
+|   | 106... |   | 5 |   |
+|   | 111 | Geharmoniseerde Europese korte nummers |   |   |
+| 112 |   | Europees alarmnummer | 3 | Nee |
+|   | 113 | Geharmoniseerde Europese korte nummers |   |   |
+|   | 114 | Geharmoniseerde Europese korte nummers |   |   |
+|   | 115 | Geharmoniseerde Europese korte nummers |   |   |
+|   | 116 | Geharmoniseerde Europese korte nummers |   |   |
+|   | 117 | Geharmoniseerde Europese korte nummers |   |   |
+| 118 |   | Abonnee-informatiedienst die voldoet aan het bepaalde bij of krachtens het Besluit universele dienstverlening 2003 en die voorts wat betreft de aard en de inhoud van de verstrekte informatie aan degene die van de dienst gebruik maakt niet meer biedt dan op grond van artikel 4, tweede lid, van dat besluit wordt verlangd | 3 | Nee |
+|   | 119 | Geharmoniseerde Europese korte nummers |   |   |
+|   |   |   |   |   |
+| 12... | 12... | Geharmoniseerde nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk |   |   |
+| 1200 |   | Toegang tot klantenservice voor alle categorieën klanten | 4 | Nee |
+| 1201 1202 1203 1204 |   | Toegang tot klantenservice voor een door de aanbieder te bepalen categorie klanten | 4 | Nee |
+|   | 1205 t/m 1232 |   |   |   |
+| 1233 |   | Toegang tot de elektronische postbus die direct verbonden is met de aansluiting van de abonnee | 4 | Nee |
+| 1234 |   | Voicedialing (kiezen door middel van spraakherkenning) | 4 | Nee |
+|   | 1235 t/m 1243 |   |   |   |
+| 1244 |   | Handelingen en instellingen bij telefonie gebaseerd op vooruitbetaling | 4 | Nee |
+|   | 1245 t/m 1299 |   |   |   |
+|   |   |   |   |   |
+| 13... | 13... | Nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk |   |   |
+| 1300 t/m 1309 |   | Nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk | 4 | Nee |
+| 131 |   | Geharmoniseerd nummer voorafgaand aan een telefoonnummer voor blokkering van nummeridentificatie bij een oproep naar dat telefoonnummer | 3 | Nee |
+| 132 |   | Geharmoniseerd nummer voorafgaand aan een telefoonnummer voor deblokkering van nummeridentificatie bij een oproep naar dat telefoonnummer | 3 | Nee |
+| 1330 t/m 1399 |   | Nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk | 4 | Nee |
+|   |   |   |   |   |
+| 14... | 14... | Geharmoniseerde nummers voor diensten met een bijzonder maatschappelijk belang |   |   |
+|   | 1400 t/m 1487 |   |   |   |
+| 1488 |   | Toegang tot de politiehulpdienst, met uitzondering van de hulpdienst die toegankelijk is via het Europees alarmnummer 112 | 4 | Nee |
+|   | 1489 t/m 1499 |   |   |   |
+|   |   |   |   |   |
+|   | 15 |   |   |   |
+|   |   |   |   |   |
+| 16 |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 4 | Nee |
+|   | 17 |   |   |   |
+|   | 18 |   |   |   |
+|   | 19 | Geharmoniseerde Europese korte nummers |   |   |
+|   | 2 | Gebruik wordt uitgefaseerd |   |   |
+|   | 3 | Gebruik wordt uitgefaseerd |   |   |
+|   | 4 | Gebruik wordt uitgefaseerd |   |   |
+|   | 5 | Gebruik wordt uitgefaseerd |   |   |
+|   | 6 | Gebruik wordt uitgefaseerd |   |   |
+|   | 7 | Gebruik wordt uitgefaseerd |   |   |
+|   | 8 | Gebruik wordt uitgefaseerd |   |   |
+|   | 9 | Gebruik wordt uitgefaseerd |   |   |
+
 ## Bijlage 2
 
 Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2001-12-08&g=2001-12-08)
+## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19)
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -567,8 +957,14 @@ Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 | 0909-8 | 8 | 8 | 11 | 8 | 8 | 11 | 8 | 11 | 8 | 11 |
 | 0909-9 | 11 | 11 | 8 | 8 | 11 | 8 | 8 | 8 | 8 | 11 |
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2001-12-08&g=2001-12-08)
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2001-12-08&g=2001-12-08) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+
+##### Artikel 1a
+
+In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken.
+
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-05-19&g=2004-05-19)
 
 Vervallen.
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2001-12-08&g=2001-12-08) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-05-19&g=2004-05-19) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
