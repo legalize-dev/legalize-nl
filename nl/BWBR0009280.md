@@ -4,7 +4,7 @@ identifier: "BWBR0009280"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2001-04-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009280"
 soort: "AMvB"
@@ -106,7 +106,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 ##### Artikel 3. Aangewezen registraties
 
-1. Als registraties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=2&z=2001-04-01&g=2001-04-01) worden aangewezen de registratie als:
+1. Als registraties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=2&z=2003-08-01&g=2003-08-01) worden aangewezen de registratie als:
 
 - a. duurzame gezamenlijke huishouding op grond van:
 
@@ -152,7 +152,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 - 12. de ZW;
 
-- c. duurzame gemeenschappelijke huishouding op grond van de vierde afdeling van de zevende titel van boek 7A van het Burgerlijk Wetboek;
+- c. duurzame gemeenschappelijke huishouding op grond van de [onderafdeling 3 van afdeling 5 van titel 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&paragraaf=Onderafdeling_3);
 
 - d. gemeenschappelijke huishouding op grond van:
 
@@ -166,7 +166,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 ##### Artikel 4. Bijzondere bepalingen in verband met de ABW, AOW, CSV, IOAW, IOAZ, TW, WAJONG, WAO, WAZ, WVG en ZW
 
-Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ABW, artikel 1, derde tot en met zevende lid, van de AOW, artikel 1, vierde tot en met achtste lid, van de CSV, artikel 3, tweede tot en met zesde lid, van de IOAW, artikel 3, tweede tot en met zesde lid, van de IOAZ, artikel 1, derde tot en met zevende lid, van de TW, artikel derde tot en met zevende lid, van de WAJONG, artikel 1, derde tot en met zevende lid, van de WAO, artikel 1, derde tot en met zevende lid, van de WAZ, artikel 1, derde tot en met zevende lid, van de WVG en artikel 1, derde tot en met zevende lid, van de ZW wordt een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2001-04-01&g=2001-04-01) in aanmerking genomen indien deze:
+Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ABW, artikel 1, derde tot en met zevende lid, van de AOW, artikel 1, vierde tot en met achtste lid, van de CSV, artikel 3, tweede tot en met zesde lid, van de IOAW, artikel 3, tweede tot en met zesde lid, van de IOAZ, artikel 1, derde tot en met zevende lid, van de TW, artikel derde tot en met zevende lid, van de WAJONG, artikel 1, derde tot en met zevende lid, van de WAO, artikel 1, derde tot en met zevende lid, van de WAZ, artikel 1, derde tot en met zevende lid, van de WVG en artikel 1, derde tot en met zevende lid, van de ZW wordt een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2003-08-01&g=2003-08-01) in aanmerking genomen indien deze:
 
 - a. bij de aanvraag van bijstand, uitkering of voorziening bestaat;
 
@@ -176,7 +176,7 @@ Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ABW, artik
 
 ##### Artikel 5. Bijzondere bepaling in verband met de ANW
 
-Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ANW wordt voor de vaststelling van het recht op nabestaandenuitkering een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2001-04-01&g=2001-04-01) in aanmerking genomen indien deze:
+Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ANW wordt voor de vaststelling van het recht op nabestaandenuitkering een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2003-08-01&g=2003-08-01) in aanmerking genomen indien deze:
 
 - a. bestaat op de dag van overlijden van degene met wie een gezamenlijke huishouding wordt gevoerd dan wel in de periode van twee jaar voorafgaande aan deze dag op enig moment heeft bestaan;
 
