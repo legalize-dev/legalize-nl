@@ -4,7 +4,7 @@ identifier: "BWBR0004582"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-13"
-last_updated: "2002-01-01"
+last_updated: "2004-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004582"
 soort: "AMvB"
@@ -71,13 +71,13 @@ De aan te wijzen rechtspersoon moet aan de volgende eisen voldoen:
 
 ##### Artikel 3
 
-1. Onze Minister kan de op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2002-01-01&g=2002-01-01) gedane aanwijzing intrekken indien de aangewezen rechtspersoon naar zijn oordeel niet langer voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=2&z=2002-01-01&g=2002-01-01) genoemde eisen.
+1. Onze Minister kan de op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2004-06-01&g=2004-06-01) gedane aanwijzing intrekken indien de aangewezen rechtspersoon naar zijn oordeel niet langer voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=2&z=2004-06-01&g=2004-06-01) genoemde eisen.
 
-2. De in het eerste lid bedoelde intrekking vindt plaats onder gelijktijdige voorziening door Onze Minister in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde taak.
+2. De in het eerste lid bedoelde intrekking vindt plaats onder gelijktijdige voorziening door Onze Minister in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2004-06-01&g=2004-06-01) bedoelde taak.
 
 ##### Artikel 4
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde rechtspersoon verricht zijn taak onder de naam Bureau voorlichting interlandelijke adoptie (hierna te noemen: Bureau).
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2004-06-01&g=2004-06-01) bedoelde rechtspersoon verricht zijn taak onder de naam Bureau voorlichting interlandelijke adoptie (hierna te noemen: Bureau).
 
 ##### Artikel 5
 
@@ -85,9 +85,9 @@ Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de 
 
 ##### Artikel 6
 
-1. Behoudens het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2002-01-01&g=2002-01-01), wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder d, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders.
+1. Behoudens het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2004-06-01&g=2004-06-01), wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders.
 
-2. Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 385,71.
+2. Het bedrag van de in het eerste lid genoemde bijdrage wordt vastgesteld op € 900,–.
 
 3. Het Bureau int de in het eerste lid bedoelde bijdragen.
 
@@ -105,7 +105,7 @@ Het Bureau zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgend
 
 ##### Artikel 9
 
-Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2002-01-01&g=2002-01-01), kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van het Bureau.
+Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2004-06-01&g=2004-06-01), kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van het Bureau.
 
 ##### Artikel 10
 
@@ -113,7 +113,7 @@ Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten
 
 2. Het Bureau zendt jaarlijks binnen vier maanden na afloop van het boekjaar aan Onze Minister een balans en een exploitatierekening alsmede een verslag van zijn werkzaamheden over het afgelopen boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-3. Na ontvangst van de bescheiden als bedoeld in het tweede lid, wordt, indien subsidie was verleend, de subsidie vastgesteld overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2002-01-01&g=2002-01-01), en met inachtneming van de aanpassingen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=9&z=2002-01-01&g=2002-01-01). Subsidiebaten mogen tot een door Onze Minister vast te stellen maximum worden gereserveerd door opneming als risicofonds op de balans. De in het fonds opgenomen subsidiebaten dienen te worden bestemd ter bekostiging van de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2002-01-01&g=2002-01-01) omschreven taak.
+3. Na ontvangst van de bescheiden als bedoeld in het tweede lid, wordt, indien subsidie was verleend, de subsidie vastgesteld overeenkomstig [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2004-06-01&g=2004-06-01), en met inachtneming van de aanpassingen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=9&z=2004-06-01&g=2004-06-01). Subsidiebaten mogen tot een door Onze Minister vast te stellen maximum worden gereserveerd door opneming als risicofonds op de balans. De in het fonds opgenomen subsidiebaten dienen te worden bestemd ter bekostiging van de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2004-06-01&g=2004-06-01) omschreven taak.
 
 4. Indien blijkt dat voorschotten zijn besteed in strijd met de bepalingen van dit besluit, wordt de subsidie, bedoeld in het derde lid, verminderd met het desbetreffende bedrag.
 
