@@ -82,9 +82,3 @@ Deze regeling treedt in werking met ingang van 1 september 1988.
 Deze regeling kan worden aangehaald als: Vergoedingsregeling tuchtcollege loodsen.
 
 Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.
-
-##### Artikel 6a
-
-Deze regeling berust mede op [artikel 32, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=32).
-
-Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.
