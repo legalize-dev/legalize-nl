@@ -4,7 +4,7 @@ identifier: "BWBR0007982"
 country: "nl"
 rank: "wet"
 publication_date: "2021-02-22"
-last_updated: "1999-02-17"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007982"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=5&z=1999-02-17&g=1999-02-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=6&z=1999-02-17&g=1999-02-17), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=7&z=1999-02-17&g=1999-02-17), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=1999-02-17&g=1999-02-17), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=1999-02-17&g=1999-02-17), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=10&z=1999-02-17&g=1999-02-17) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=5&z=2004-05-01&g=2004-05-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=6&z=2004-05-01&g=2004-05-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=7&z=2004-05-01&g=2004-05-01), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=2004-05-01&g=2004-05-01), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=2004-05-01&g=2004-05-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=10&z=2004-05-01&g=2004-05-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij het in het eerste lid bedoelde besluit in werking gestelde bepalingen.
 
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Zo spoedig mogelijk na het moment waarop bepalingen uit [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&z=1999-02-17&g=1999-02-17) buiten werking zijn gesteld, dan wel het moment waarop de werking van deze bepalingen van rechtswege is geëindigd, wordt van Onzentwege aan de beide kamers der Staten-Generaal mededeling gedaan van hetgeen is verricht ingevolge de bevoegdheden die in die bepalingen zijn gegeven.
+Zo spoedig mogelijk na het moment waarop bepalingen uit [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&z=2004-05-01&g=2004-05-01) buiten werking zijn gesteld, dan wel het moment waarop de werking van deze bepalingen van rechtswege is geëindigd, wordt van Onzentwege aan de beide kamers der Staten-Generaal mededeling gedaan van hetgeen is verricht ingevolge de bevoegdheden die in die bepalingen zijn gegeven.
 
 ##### Artikel 3
 
@@ -146,7 +146,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 16
 
-1. De burgemeester is bevoegd alle plaatsen, ook tegen de wil van de rechthebbende, te betreden dan wel door ambtenaren van politie of buitengewone opsporingsambtenaren te doen betreden en aldaar onderzoek of huiszoeking te verrichten of door die ambtenaren te doen verrichten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
+1. De burgemeester is bevoegd alle plaatsen, ook tegen de wil van de rechthebbende, te betreden dan wel door ambtenaren van politie of buitengewone opsporingsambtenaren te doen betreden en aldaar onderzoek of een doorzoeking te verrichten of door die ambtenaren te doen verrichten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
 
 2. De ambtenaren, bedoeld in het eerste lid, zijn bevoegd zich bij het betreden door andere personen te doen vergezellen.
 
@@ -200,7 +200,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 26
 
-1. Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=18&z=1999-02-17&g=1999-02-17).
+1. Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=18&z=2004-05-01&g=2004-05-01).
 
 2. Onze Minister van Veiligheid en Justitie is bevoegd in spoedeisende gevallen regels te geven waarbij wordt afgeweken van de regels, bedoeld in het eerste lid, of deze buiten werking worden gesteld. De door Onze Minister gegeven regels worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de Staatscourant.
 
@@ -222,17 +222,17 @@ Onze Minister van Binnenlandse Zaken is bevoegd tot toepassing van bestuursdwang
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
 
-- a. hij die in strijd handelt met een verbod als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=12&z=1999-02-17&g=1999-02-17);
+- a. hij die in strijd handelt met een verbod als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=12&z=2004-05-01&g=2004-05-01);
 
-- b. hij die in strijd handelt met een beperking, bevel of verbod als bedoeld in [de artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=1999-02-17&g=1999-02-17), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=1999-02-17&g=1999-02-17);
+- b. hij die in strijd handelt met een beperking, bevel of verbod als bedoeld in [de artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=2004-05-01&g=2004-05-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=2004-05-01&g=2004-05-01);
 
-- c. hij die in strijd handelt met een beperking of een verbod als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=17&z=1999-02-17&g=1999-02-17);
+- c. hij die in strijd handelt met een beperking of een verbod als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=17&z=2004-05-01&g=2004-05-01);
 
-- d. hij die in strijd handelt met een bepaling of een verbod als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=13&z=1999-02-17&g=1999-02-17);
+- d. hij die in strijd handelt met een bepaling of een verbod als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=13&z=2004-05-01&g=2004-05-01);
 
-- e. hij die in strijd handelt met een bepaling of een verbod als bedoeld in [het eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=11&z=1999-02-17&g=1999-02-17), of een voorwaarde als bedoeld in het tweede lid van dat artikel, niet nakomt.
+- e. hij die in strijd handelt met een bepaling of een verbod als bedoeld in [het eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=11&z=2004-05-01&g=2004-05-01), of een voorwaarde als bedoeld in het tweede lid van dat artikel, niet nakomt.
 
-2. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk in strijd handelt met een bevel of verbod als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=1999-02-17&g=1999-02-17).
+2. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk in strijd handelt met een bevel of verbod als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=2004-05-01&g=2004-05-01).
 
 3. De feiten, in het eerste lid strafbaar gesteld, worden beschouwd als overtredingen, die in het tweede lid strafbaar gesteld, als misdrijven.
 
@@ -258,7 +258,7 @@ De Wet buitengewone bevoegdheden burgerlijk gezag (**Stb**. 1952, 361) wordt ing
 
 ##### Artikel 35
 
-Deze wet treedt, met uitzondering van [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=5&z=1999-02-17&g=1999-02-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=6&z=1999-02-17&g=1999-02-17), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=7&z=1999-02-17&g=1999-02-17), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=1999-02-17&g=1999-02-17), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=1999-02-17&g=1999-02-17), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=10&z=1999-02-17&g=1999-02-17), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=14&z=1999-02-17&g=1999-02-17), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=15&z=1999-02-17&g=1999-02-17), [16, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=16&z=1999-02-17&g=1999-02-17), [17, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=17&z=1999-02-17&g=1999-02-17), [18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=18&z=1999-02-17&g=1999-02-17), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=26&z=1999-02-17&g=1999-02-17), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=27&z=1999-02-17&g=1999-02-17) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=28&z=1999-02-17&g=1999-02-17) in werking op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt, met uitzondering van [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=5&z=2004-05-01&g=2004-05-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=6&z=2004-05-01&g=2004-05-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=7&z=2004-05-01&g=2004-05-01), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=8&z=2004-05-01&g=2004-05-01), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=9&z=2004-05-01&g=2004-05-01), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=10&z=2004-05-01&g=2004-05-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=14&z=2004-05-01&g=2004-05-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=15&z=2004-05-01&g=2004-05-01), [16, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=16&z=2004-05-01&g=2004-05-01), [17, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=17&z=2004-05-01&g=2004-05-01), [18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=18&z=2004-05-01&g=2004-05-01), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=26&z=2004-05-01&g=2004-05-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=27&z=2004-05-01&g=2004-05-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&hoofdstuk=II&artikel=28&z=2004-05-01&g=2004-05-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 36
 
