@@ -4,7 +4,7 @@ identifier: "BWBR0002078"
 country: "nl"
 rank: "kb"
 publication_date: "2002-10-09"
-last_updated: "1953-04-13"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002078"
 soort: "KB"
@@ -44,7 +44,7 @@ Er wordt ingesteld het "Kruis voor Recht en Vrijheid" waaraan gespen kunnen word
 
 ##### Artikel 2
 
-Het Kruis voor Recht en Vrijheid wordt door of namens Onze betrokken Minister toegekend aan militairen van de Koninklijke Marine, van de Koninklijke Landmacht en van de Luchtmacht, die deelgenomen hebben aan, door Ons aan te wijzen, Krijgsbedrijven.
+Het Kruis voor Recht en Vrijheid wordt door of namens Onze Minister van Defensie toegekend aan militairen van de krijgsmacht die deelgenomen hebben aan krijgsbedrijven ten behoeve van de verdediging en ter bescherming van de belangen van het Koninkrijk of ten behoeve van de handhaving en de bevordering van de internationale rechtsorde, voorzover deze krijgsbedrijven bij koninklijk besluit zijn aangewezen.
 
 ##### Artikel 3
 
@@ -64,7 +64,7 @@ Het is aan hen, die gerechtigd zijn tot het dragen van het Kruis voor Recht en V
 
 ##### Artikel 4
 
-Aan burgerpersonen, Nederlander of Nederlands onderdaan zijnde, die zich bij de krijgsbedrijven bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=1953-04-13&g=1953-04-13) in militaire zin verdienstelijk hebben gemaakt, kan het Kruis voor Recht en Vrijheid worden toegekend.
+Aan burgerpersonen, Nederlander of Nederlands onderdaan zijnde, die zich bij de krijgsbedrijven bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=2002-10-09&g=2002-10-09) in militaire zin verdienstelijk hebben gemaakt, kan het Kruis voor Recht en Vrijheid worden toegekend.
 
 ##### Artikel 5
 
@@ -84,11 +84,11 @@ Voorstellen tot het ontnemen van een door Ons verleend Kruis voor Recht en Vrijh
 
 ##### Artikel 8
 
-Als krijgsbedrijven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=1953-04-13&g=1953-04-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=1953-04-13&g=1953-04-13) bedoeld, worden voorshands aangewezen de krijgsbedrijven welke in het jaar 1950 zijn aangevangen op het schiereiland **Korea**.
+Als krijgsbedrijven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=2&z=2002-10-09&g=2002-10-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=2002-10-09&g=2002-10-09) bedoeld, worden voorshands aangewezen de krijgsbedrijven welke in het jaar 1950 zijn aangevangen op het schiereiland **Korea**.
 
 ##### Artikel 8a
 
-Degenen, die reeds gerechtigd zijn tot het dragen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=1953-04-13&g=1953-04-13) bedoelde Kruis met de daarbij behorende gesp en na een herhaalde uitzending opnieuw aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=8&z=1953-04-13&g=1953-04-13) genoemde krijgsbedrijven hebben deelgenomen, wordt, ter vervanging van de reeds ontvangen gesp, een gesp toegekend met een daarop aangebracht cijfer, vermeldende het aantal malen dat aan bedoelde krijgsbedrijven is deelgenomen. De op het lint te dragen ster zal eveneens dit cijfer bevatten.
+Degenen, die reeds gerechtigd zijn tot het dragen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=3&z=2002-10-09&g=2002-10-09) bedoelde Kruis met de daarbij behorende gesp en na een herhaalde uitzending opnieuw aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002078&artikel=8&z=2002-10-09&g=2002-10-09) genoemde krijgsbedrijven hebben deelgenomen, wordt, ter vervanging van de reeds ontvangen gesp, een gesp toegekend met een daarop aangebracht cijfer, vermeldende het aantal malen dat aan bedoelde krijgsbedrijven is deelgenomen. De op het lint te dragen ster zal eveneens dit cijfer bevatten.
 
 ##### Artikel 9
 
