@@ -4,7 +4,7 @@ identifier: "BWBR0012459"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-07-16"
-last_updated: "2001-06-22"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012459"
 soort: "AMvB"
@@ -60,15 +60,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2001-06-22&g=2001-06-22) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2001-06-22&g=2001-06-22) is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.
+1. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.
 
-2. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2001-06-22&g=2001-06-22) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2001-06-22&g=2001-06-22) is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.
+2. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.
 
 ##### Artikel 3
 
-1. De subsidie bedraagt in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2001-06-22&g=2001-06-22), bedoelde geval het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2001-06-22&g=2001-06-22) van dit besluit genoemde bedrag.
+1. De subsidie bedraagt in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2002-12-31&g=2002-12-31), bedoelde geval het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) van dit besluit genoemde bedrag.
 
-2. De subsidie bedraagt in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2001-06-22&g=2001-06-22), bedoeld geval het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2001-06-22&g=2001-06-22) van dit besluit genoemde bedrag.
+2. De subsidie bedraagt in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2002-12-31&g=2002-12-31), bedoeld geval het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit genoemde bedrag.
 
 #### § 2. De subsidieverlening
 
@@ -100,7 +100,7 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt wordt door Onze Minister ten hoogste eenmaal per kalenderjaar een voorschot verstrekt.
 
-2. Het voorschot is het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2001-06-22&g=2001-06-22) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2001-06-22&g=2001-06-22) van dit besluit als voorschot is vermeld.
+2. Het voorschot is het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit als voorschot is vermeld.
 
 #### § 5. De subsidievaststelling
 
@@ -112,7 +112,7 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 ##### Artikel 8
 
-Tot 1 januari 2002 gelden voor de toepassing van de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=3&z=2001-06-22&g=2001-06-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=4&artikel=6&z=2001-06-22&g=2001-06-22) de bedragen genoemd in de[bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1a&z=2001-06-22&g=2001-06-22) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2a&z=2001-06-22&g=2001-06-22) van dit besluit.
+Tot 1 januari 2002 gelden voor de toepassing van de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=3&z=2002-12-31&g=2002-12-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=4&artikel=6&z=2002-12-31&g=2002-12-31) de bedragen genoemd in de[bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1a&z=2002-12-31&g=2002-12-31) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2a&z=2002-12-31&g=2002-12-31) van dit besluit.
 
 ##### Artikel 9
 
@@ -122,35 +122,36 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit subsidies niet-fysieke stadseconomie grote steden.
 
-## Bijlage 1. Euro's (bedragen ∗ € 1000,–)
+## Bijlage 1. Euro's (bedragen * € 1000,–)
 
-|   | Subsidiebedrag | Voorschot 2000 | Voorschot 2001 | Voorschot 2002 | Voorschot 2003 | Voorschot 2004 | Voorschot 2005 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Amsterdam | 11610,638363 | 989,618643 | 1057,276215 | 2220,977125 | 3222,580557 | 2959,099216 | 1161,086153 |
-| Den Haag | 6785,438647 | 578,348558 | 617,888697 | 1297,973644 | 1883,326300 | 1729,343698 | 678,556843 |
-| Rotterdam | 8795,937810 | 749,711093 | 800,966829 | 1682,558428 | 2441,348907 | 2241,741830 | 879,610722 |
-| Utrecht | 3719,425131 | 317,020691 | 338,694545 | 711,481850 | 1032,341824 | 947,936545 | 371,949677 |
-| Almelo | 402,100014 | 34,272507 | 36,615626 | 76,916957 | 111,604521 | 102,479627 | 40,210776 |
-| Arnhem | 1156,037541 | 98,533458 | 105,269926 | 221,136251 | 320,862999 | 294,628926 | 115,605981 |
-| Breda | 1256,562544 | 107,101585 | 114,423833 | 240,365490 | 348,764130 | 320,248833 | 125,658675 |
-| Deventer | 502,625018 | 42,840634 | 45,769533 | 96,146196 | 139,505652 | 128,099533 | 50,263470 |
-| Dordrecht | 753,937527 | 64,260951 | 68,654300 | 144,219294 | 209,258478 | 192,149300 | 75,395205 |
-| Eindhoven | 1457,612552 | 124,237838 | 132,731646 | 278,823968 | 404,566390 | 371,488646 | 145,764062 |
-| Enschede | 954,987534 | 81,397204 | 86,962113 | 182,677772 | 265,060738 | 243,389113 | 95,500593 |
-| Groningen | 1859,712566 | 158,510345 | 169,347273 | 355,740925 | 516,170912 | 473,968273 | 185,974838 |
-| Haarlem | 1407,350050 | 119,953775 | 128,154693 | 269,209348 | 390,615825 | 358,678693 | 140,737715 |
-| Heerlen | 653,412523 | 55,692824 | 59,500393 | 124,990054 | 181,357347 | 166,529393 | 65,342511 |
-| Helmond | 402,100014 | 34,272507 | 36,615626 | 76,916957 | 111,604521 | 102,479627 | 40,210776 |
-| Hengelo | 502,625018 | 42,840634 | 45,769533 | 96,146196 | 139,505652 | 128,099533 | 50,263470 |
-| Hertogenbosch | 1156,037541 | 98,533458 | 105,269926 | 221,136251 | 320,862999 | 294,628926 | 115,605981 |
-| Leeuwarden | 703,675025 | 59,976888 | 64,077346 | 134,604674 | 195,307913 | 179,339346 | 70,368858 |
-| Leiden | 904,725032 | 77,113141 | 82,385160 | 173,063153 | 251,110173 | 230,579160 | 90,474246 |
-| Maastricht | 1055,512537 | 89,965331 | 96,116019 | 201,907011 | 292,961869 | 269,009020 | 105,553287 |
-| Nijmegen | 1256,562544 | 107,101585 | 114,423833 | 240,365490 | 348,764130 | 320,248833 | 125,658675 |
-| Schiedam | 603,150021 | 51,408761 | 54,923440 | 115,375435 | 167,406782 | 153,719440 | 60,316164 |
-| Tilburg | 1306,825046 | 111,385648 | 119,000786 | 249,980109 | 362,714695 | 333,058786 | 130,685022 |
-| Venlo | 452,362516 | 38,556571 | 41,192580 | 86,531576 | 125,555087 | 115,289580 | 45,237123 |
-| Zwolle | 603,150021 | 51,408761 | 54,923440 | 115,375435 | 167,406782 | 153,719440 | 60,316164 |
+| Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) | Euro's (bedragen *1000,-) |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Subsidiebedrag | Voorschot 2000 | Voorschot 2001 | Voorschot 2002 | Voorschot 2003 | Voorschot 2004 |
+| Amsterdam | 11610,638363 | 989,618643 | 1057,276215 | 3382,063278 | 3222,580557 | 2959,099216 |
+| Den Haag | 6785,438647 | 578,348558 | 617,888697 | 1976,530487 | 1883,326300 | 1729,343698 |
+| Rotterdam | 8795,937810 | 749,711093 | 800,966829 | 2562,169150 | 2441,348907 | 2241,741830 |
+| Utrecht | 3719,425131 | 317,020691 | 338,694545 | 1083,431527 | 1032,341824 | 947,936545 |
+| Almelo | 402,100014 | 34,272507 | 36,615626 | 117,127733 | 111,604521 | 102,479627 |
+| Arnhem | 1156,037541 | 98,533458 | 105,269926 | 336,742232 | 320,862999 | 294,628926 |
+| Breda | 1256,562544 | 107,101585 | 114,423833 | 366,024165 | 348,764130 | 320,248833 |
+| Deventer | 502,625018 | 42,840634 | 45,769533 | 146,409666 | 139,505652 | 128,099533 |
+| Dordrecht | 753,937527 | 64,260951 | 68,654300 | 219,614499 | 209,258478 | 192,149300 |
+| Eindhoven | 1457,612552 | 124,237838 | 132,731646 | 278,588030 | 404,566390 | 371,488646 |
+| Enschede | 954,987534 | 81,397204 | 86,962113 | 278,178365 | 265,060738 | 243,389113 |
+| Groningen | 1859,712566 | 158,510345 | 169,347273 | 541,715763 | 516,170912 | 473,968273 |
+| Haarlem | 1407,350050 | 119,953775 | 128,154693 | 409,947063 | 390,615825 | 358,678693 |
+| Heerlen | 653,412523 | 55,692824 | 59,500393 | 190,332565 | 181,357347 | 166,529393 |
+| Helmond | 402,100014 | 34,272507 | 36,615626 | 117,127733 | 111,604521 | 102,479627 |
+| Hengelo | 502,625018 | 42,840634 | 45,769533 | 146,409666 | 139,505652 | 128,099533 |
+| Hertogenbosch | 1156,037541 | 98,533458 | 105,269926 | 336,742232 | 320,862999 | 294,628926 |
+| Leeuwarden | 703,675025 | 59,976888 | 64,077346 | 204,973532 | 195,307913 | 179,339346 |
+| Leiden | 904,725032 | 77,113141 | 82,385160 | 263,537399 | 251,110173 | 230,579160 |
+| Maastricht | 1055,512537 | 89,965331 | 96,116019 | 307,460298 | 292,961869 | 269,009020 |
+| Nijmegen | 1256,562544 | 107,101585 | 114,423833 | 366,024165 | 348,764130 | 320,248833 |
+| Schiedam | 603,150021 | 51,408761 | 54,923440 | 175,691599 | 167,406782 | 153,719440 |
+| Tilburg | 1306,825046 | 111,385648 | 119,000786 | 380,665131 | 362,714695 | 333,058786 |
+| Venlo | 452,362516 | 38,556571 | 41,192580 | 131,768690 | 125,555087 | 115,289580 |
+| Zwolle | 603,150021 | 51,408761 | 54,923440 | 175,691599 | 167,406782 | 153,719440 |
 
 ## Bijlage 2. Euro's (bedragen * € 1000,–)
 
