@@ -4,7 +4,7 @@ identifier: "BWBR0008703"
 country: "nl"
 rank: "wet"
 publication_date: "2004-06-23"
-last_updated: "1997-12-31"
+last_updated: "2004-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008703"
 soort: "wet"
@@ -82,19 +82,13 @@ Deze algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaa
 
 2. De rijksbijdrage voor de huisvestingskosten, bedoeld in het eerste lid, omvat ten minste een vergoeding waaruit kunnen worden bestreden:
 
-- a. de huurpenningen voor een gebouw, die door het instellingsbestuur worden betaald als verplichting voortvloeiend uit een huurovereenkomst die door het instellingsbestuur is gesloten en waarvoor door Onze Minister door middel van een goedkeuring toestemming is verleend; deze vergoeding van de huurpenningen wordt verleend tot de bedragen, perioden en condities zoals in de goedkeuring vermeld en, indien een instelling op grond van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=1997-12-31&g=1997-12-31) een bedrag heeft ontvangen, verminderd met de normatieve rente-opbrengsten over dat bedrag, en
+- a. de huurpenningen voor een gebouw, die door het instellingsbestuur worden betaald als verplichting voortvloeiend uit een huurovereenkomst die door het instellingsbestuur is gesloten en waarvoor door Onze Minister door middel van een goedkeuring toestemming is verleend; deze vergoeding van de huurpenningen wordt verleend tot de bedragen, perioden en condities zoals in de goedkeuring vermeld en, indien een instelling op grond van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=2004-06-23&g=2004-06-23) een bedrag heeft ontvangen, verminderd met de normatieve rente-opbrengsten over dat bedrag, en
 
-- b. de normatieve uitgaven voor rente en aflossing ten gevolge van het bedrag dat door het instellingsbestuur is betaald op grond van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=1997-12-31&g=1997-12-31), voor een periode van maximaal 30 jaar.
+- b. de normatieve uitgaven voor rente en aflossing ten gevolge van het bedrag dat door het instellingsbestuur is betaald op grond van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=2004-06-23&g=2004-06-23), voor een periode van maximaal 30 jaar.
 
 ##### ARTIKEL IV
 
-1. Met betrekking tot de voorziening in de huisvesting wordt als een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) beschouwd een op 31 december 1996 bestaande scholengemeenschap waarin tot een school zijn verenigd:
-
-- a. een school voor voorbereidend wetenschappelijk onderwijs, voor hoger en middelbaar algemeen voortgezet onderwijs of voor voorbereidend beroepsonderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), en
-
-- b. een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1).
-
-2. [Hoofdstuk 2, titel 8, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=2) is van overeenkomstige toepassing op scholen als bedoeld in het eerste lid, onderdeel **a**.
+Vervallen
 
 ##### ARTIKEL V
 
@@ -102,6 +96,6 @@ Onze Minister van Onderwijs, Cultuur en Wetenschappen stelt ten laste van de Rij
 
 ##### ARTIKEL VI
 
-Deze wet treedt in werking met ingang van 1 juli 1997, met uitzondering van [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=I&z=1997-12-31&g=1997-12-31), voor zover het betreft artikel 2.8.1, en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=V&z=1997-12-31&g=1997-12-31), laatste volzin, die gelijktijdig in werking treden op 31 december 1997 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een ander tijdstip, gelegen in 1997, kan worden vastgesteld, en met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=1997-12-31&g=1997-12-31) dat in werking treedt op 31 december 1998 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een eerder tijdstip kan worden vastgesteld.
+Deze wet treedt in werking met ingang van 1 juli 1997, met uitzondering van [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=I&z=2004-06-23&g=2004-06-23), voor zover het betreft artikel 2.8.1, en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=V&z=2004-06-23&g=2004-06-23), laatste volzin, die gelijktijdig in werking treden op 31 december 1997 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een ander tijdstip, gelegen in 1997, kan worden vastgesteld, en met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008703&artikel=II&z=2004-06-23&g=2004-06-23) dat in werking treedt op 31 december 1998 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een eerder tijdstip kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
