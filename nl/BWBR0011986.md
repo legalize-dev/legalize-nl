@@ -4,7 +4,7 @@ identifier: "BWBR0011986"
 country: "nl"
 rank: "wet"
 publication_date: "2002-08-29"
-last_updated: "2002-01-01"
+last_updated: "2002-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011986"
 soort: "wet"
@@ -130,19 +130,17 @@ Ingeval de samenloop van wetten die in 2000 in het Staatsblad zijn of worden gep
 
 ##### Artikel XV
 
-1. Deze wet treedt in werking met ingang van 1 januari 2001 met uitzondering van [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=IX&z=2002-01-01&g=2002-01-01), behoudens de onderdelen B.o en B.7a, dat in werking treedt op 30 december 2000.
+1. Deze wet treedt in werking met ingang van 1 januari 2001 met uitzondering van [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=IX&z=2002-08-29&g=2002-08-29), behoudens de onderdelen B.o en B.7a, dat in werking treedt op 30 december 2000.
 
-2. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=X&z=2002-01-01&g=2002-01-01) werkt terug tot en met 1 september 2000, met uitzondering van onderdeel OA. Onderdeel OA van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=X&z=2002-01-01&g=2002-01-01) werkt terug tot en met 1 januari 2000.
+2. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=X&z=2002-08-29&g=2002-08-29) werkt terug tot en met 1 september 2000, met uitzondering van onderdeel OA. Onderdeel OA van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=X&z=2002-08-29&g=2002-08-29) werkt terug tot en met 1 januari 2000.
 
-3. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=XII&z=2002-01-01&g=2002-01-01) werkt terug tot en met 1 januari 2000.
+3. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=XII&z=2002-08-29&g=2002-08-29) werkt terug tot en met 1 januari 2000.
 
 4. Artikel 30a van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) is niet van toepassing bij het begin van het kalenderjaar 2001.
 
-5. In afwijking van het eerste lid treden artikel XIIIc, onderdelen A, B, Ba en C in werking op een bij koninklijk besluit te bepalen tijdstip.
+5. [Artikel VI, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=VI&z=2002-08-29&g=2002-08-29), vindt voor het eerst toepassing met ingang van boekjaren die aanvangen op of na 1 januari 2001.
 
-6. [Artikel VI, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=VI&z=2002-01-01&g=2002-01-01), vindt voor het eerst toepassing met ingang van boekjaren die aanvangen op of na 1 januari 2001.
-
-7. In afwijking van het eerste lid treden [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=I&z=2002-01-01&g=2002-01-01) BNa en BNb, in werking op een bij koninklijk besluit te bepalen tijdstip.
+6. In afwijking van het eerste lid treden [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0011986&artikel=I&z=2002-08-29&g=2002-08-29) BNa en BNb, in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XVI
 
