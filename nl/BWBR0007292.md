@@ -4,7 +4,7 @@ identifier: "BWBR0007292"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2002-07-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007292"
 soort: "wet"
@@ -52,11 +52,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze minister: Onze Minister van Justitie;
 
-- b. het Bureau: het Landelijk Bureau Inning Onderhoudsbijdragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01);
+- b. het Bureau: het Landelijk Bureau Inning Onderhoudsbijdragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01);
 
-- c. de raad: de raad van toezicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=1&artikel=3&z=2002-07-01&g=2002-07-01);
+- c. de raad: de raad van toezicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=1&artikel=3&z=2005-01-01&g=2005-01-01);
 
-- d. de directie: de directie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=1&artikel=3&z=2002-07-01&g=2002-07-01).
+- d. de directie: de directie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=1&artikel=3&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 2
 
@@ -68,7 +68,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. bij of krachtens [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) opgedragen taken ter zake van de inning van onderhoudsbijdragen voor minderjarigen en meerderjarigen die de leeftijd van eenentwintig jaar nog niet hebben bereikt;
 
-- b. bij of krachtens de [Wet op de jeugdhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0004608) opgedragen taken ter zake van de vaststelling en inning van ouderbijdragen; en
+- b. bij of krachtens de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) opgedragen taken ter zake van de vaststelling en inning van ouderbijdragen; en
 
 - c. bij andere wetten opgedragen taken.
 
@@ -166,13 +166,13 @@ In geval van schorsing of ontstentenis van een lid van de directie voorziet de r
 
 1. Aan de goedkeuring van de raad zijn onderworpen de besluiten van de directie met betrekking tot:
 
-- a. de reglementen, bedoeld in de[artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=3&paragraaf=1&artikel=13&z=2002-07-01&g=2002-07-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=16&z=2002-07-01&g=2002-07-01);
+- a. de reglementen, bedoeld in de[artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=3&paragraaf=1&artikel=13&z=2005-01-01&g=2005-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=16&z=2005-01-01&g=2005-01-01);
 
-- b. de begroting, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=17&z=2002-07-01&g=2002-07-01);
+- b. de begroting, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=17&z=2005-01-01&g=2005-01-01);
 
 - c. investeringen die een door de raad vast te stellen bedrag te boven gaan;
 
-- d. het verrichten van werkzaamheden als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01);
+- d. het verrichten van werkzaamheden als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01);
 
 - e. het aangaan of verbreken van duurzame samenwerking met een andere rechtspersoon, indien deze samenwerking of verbreking van ingrijpende betekenis is voor het Bureau;
 
@@ -212,9 +212,9 @@ De directie stelt bij reglement de hoofdlijnen vast van de organisatie van het B
 
 - c. andere baten, hoe ook genoemd.
 
-2. Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport verstrekken jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01).
+2. Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport verstrekken jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01).
 
-3. Onze minister verstrekt gedurende een bij algemene maatregel van bestuur te bepalen termijn jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01). Eveneens wordt jaarlijks aan het Bureau een subsidie verstrekt voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01).
+3. Onze minister verstrekt gedurende een bij algemene maatregel van bestuur te bepalen termijn jaarlijks aan het Bureau een subsidie voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01). Eveneens wordt jaarlijks aan het Bureau een subsidie verstrekt voor de kosten van de uitvoering van de taken, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01).
 
 4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op de subsidies, bedoeld in het tweede en derde lid.
 
@@ -234,7 +234,7 @@ De directie stelt bij reglement de hoofdlijnen vast van de organisatie van het B
 
 ##### Artikel 17
 
-De directie stelt tijdig voor de afloop van het boekjaar een financiële begroting vast voor het volgende boekjaar. De begroting is in overeenstemming met het meerjarenbeleidsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=18&z=2002-07-01&g=2002-07-01).
+De directie stelt tijdig voor de afloop van het boekjaar een financiële begroting vast voor het volgende boekjaar. De begroting is in overeenstemming met het meerjarenbeleidsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=18&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 18
 
@@ -244,7 +244,7 @@ De directie stelt tijdig voor de afloop van het boekjaar een financiële begroti
 
 - a. een overzicht van de door het Bureau te verrichten werkzaamheden ter uitvoering van de aan het Bureau bij of krachtens de wet opgedragen taken en een raming van de daarmee gemoeide kosten en opbrengsten;
 
-- b. een overzicht van de voorgenomen andere werkzaamheden van het Bureau, als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01), en een raming van de daarmee gemoeide kosten en opbrengsten.
+- b. een overzicht van de voorgenomen andere werkzaamheden van het Bureau, als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01), en een raming van de daarmee gemoeide kosten en opbrengsten.
 
 ##### Artikel 19
 
@@ -266,7 +266,7 @@ Het meerjarenbeleidsplan behoeft de goedkeuring van Onze minister die deze niet 
 
 3. De jaarrekening voldoet aan het bepaalde daaromtrent in [titel 9 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) met uitzondering van de [artikelen 392](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) en de bepalingen welke een in aandelen verdeeld kapitaal van de vennootschap veronderstellen. Het verslag van werkzaamheden omvat in ieder geval mededelingen omtrent het gevoerde beleid gedurende het boekjaar, alsmede omtrent de doelmatigheid en doeltreffendheid van de werkwijze van het Bureau.
 
-4. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad aangewezen accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) alsmede van een opgave van de gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor het Bureau, onder mededeling van de omvang van die gevolgen. Voorts gaat de jaarrekening vergezeld van een beoordeling omtrent de rechtmatigheid van de uitvoering van de bij of krachtens deze wet gestelde bepalingen, alsmede van de bij of krachtens het Burgerlijk Wetboek en de [Wet op de jeugdhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0004608) gestelde bepalingen, voor zover deze worden uitgevoerd door het Bureau. Bij de aanwijzing van de accountant wordt bedongen dat aan Onze minister of Onze Minister van Volksgezondheid, Welzijn en Sport op diens verzoek inzicht wordt geboden in de controlewerkzaamheden.
+4. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad aangewezen accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) alsmede van een opgave van de gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor het Bureau, onder mededeling van de omvang van die gevolgen. Voorts gaat de jaarrekening vergezeld van een beoordeling omtrent de rechtmatigheid van de uitvoering van de bij of krachtens deze wet gestelde bepalingen, alsmede van de bij of krachtens het Burgerlijk Wetboek en de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) gestelde bepalingen, voor zover deze worden uitgevoerd door het Bureau. Bij de aanwijzing van de accountant wordt bedongen dat aan Onze minister of Onze Minister van Volksgezondheid, Welzijn en Sport op diens verzoek inzicht wordt geboden in de controlewerkzaamheden.
 
 5. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop de beoordeling van de rechtmatigheid, bedoeld in het vierde lid, plaatsvindt.
 
@@ -286,11 +286,11 @@ Het meerjarenbeleidsplan behoeft de goedkeuring van Onze minister die deze niet 
 
 ##### Artikel 23
 
-De Gemeentelijke Sociale Diensten, de Informatie Beheer Groep, de inspecteur der rijksbelastingen, de Sociale verzekeringsbank, ziekenfondsen als bedoeld in de[Wet van 15 oktober 1964, **Stb.** 392, houdende regelen met betrekking tot de geneeskundige verzorging door middel van ziekenfondsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), de ambtenaren van de burgerlijke stand en de gemeentebesturen, voor zover het betreft de gemeentelijke basisadministraties persoonsgegevens, zijn verplicht aan het Bureau kosteloos alle inlichtingen te verstrekken ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01).
+De Gemeentelijke Sociale Diensten, de Informatie Beheer Groep, de inspecteur der rijksbelastingen, de Sociale verzekeringsbank, ziekenfondsen als bedoeld in de[Wet van 15 oktober 1964, **Stb.** 392, houdende regelen met betrekking tot de geneeskundige verzorging door middel van ziekenfondsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), de ambtenaren van de burgerlijke stand en de gemeentebesturen, voor zover het betreft de gemeentelijke basisadministraties persoonsgegevens, zijn verplicht aan het Bureau kosteloos alle inlichtingen te verstrekken ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 24
 
-Indien het Bureau zijn taken, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01), naar het oordeel van Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport verwaarloost, kunnen zij voorzieningen treffen. Onze minister doet hiervan terstond mededeling aan de Staten-Generaal.
+Indien het Bureau zijn taken, bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01), naar het oordeel van Onze minister en Onze Minister van Volksgezondheid, Welzijn en Sport verwaarloost, kunnen zij voorzieningen treffen. Onze minister doet hiervan terstond mededeling aan de Staten-Generaal.
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
@@ -346,23 +346,23 @@ Archiefbescheiden van de dependance Gouda van de raad voor de kinderbescherming 
 
 ##### Artikel 36
 
-1. De eerste benoeming van de leden van de directie geschiedt, in afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=2&artikel=4&z=2002-07-01&g=2002-07-01), door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
+1. De eerste benoeming van de leden van de directie geschiedt, in afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-2. Bij de eerste benoeming van de leden van de raad is [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=3&artikel=11&z=2002-07-01&g=2002-07-01), niet van toepassing.
+2. Bij de eerste benoeming van de leden van de raad is [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=3&artikel=11&z=2005-01-01&g=2005-01-01), niet van toepassing.
 
 ##### Artikel 37
 
-Tot het tijdstip waarop de reglementen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=3&paragraaf=1&artikel=13&z=2002-07-01&g=2002-07-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=16&z=2002-07-01&g=2002-07-01), in werking treden, blijven de voorschriften van kracht die ter zake golden onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding.
+Tot het tijdstip waarop de reglementen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=3&paragraaf=1&artikel=13&z=2005-01-01&g=2005-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=4&paragraaf=1&artikel=16&z=2005-01-01&g=2005-01-01), in werking treden, blijven de voorschriften van kracht die ter zake golden onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding.
 
 ##### Artikel 38
 
-1. In procedures waarin tot het tijdstip van inwerkingtreding van deze wet de raad voor de kinderbescherming op grond van de uitvoering van de taken, bedoeld in [artikel 2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01), optreedt, treedt het Landelijk Bureau Inning Onderhoudsbijdragen in zijn plaats.
+1. In procedures waarin tot het tijdstip van inwerkingtreding van deze wet de raad voor de kinderbescherming op grond van de uitvoering van de taken, bedoeld in [artikel 2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01), optreedt, treedt het Landelijk Bureau Inning Onderhoudsbijdragen in zijn plaats.
 
-2. In procedures waarin tot het tijdstip van inwerkingtreding van deze wet de Staat dan wel Onze Minister van Volksgezondheid, Welzijn en Sport op grond van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2002-07-01&g=2002-07-01), optreedt, treedt het Bureau in zijn plaats.
+2. In procedures waarin tot het tijdstip van inwerkingtreding van deze wet de Staat dan wel Onze Minister van Volksgezondheid, Welzijn en Sport op grond van de uitvoering van de taken, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=1&artikel=2&z=2005-01-01&g=2005-01-01), optreedt, treedt het Bureau in zijn plaats.
 
 3. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de dependance Gouda van de raad voor de kinderbescherming dan wel aan de daar gedetacheerde werkeenheid van het Ministerie van Volksgezondheid, Welzijn en Sport, treden de directie, onderscheidenlijk de raad van toezicht op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze minister onderscheidenlijk Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-Op gedragingen van voor het tijdstip van inwerkingtreding van deze wet die kunnen worden toegerekend aan de dependance Gouda van de raad voor de kinderbescherming dan wel aan de daar gedetacheerde werkeenheid van het Ministerie van Volksgezondheid, Welzijn en Sport, en waarover de Nationale ombudsman op het tijdstip van inwerkingtreding van deze wet nog geen verzoek als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=3&artikel=12&z=2002-07-01&g=2002-07-01) heeft bereikt, maar nog wel kan bereiken, is de eerste volzin eveneens van toepassing
+Op gedragingen van voor het tijdstip van inwerkingtreding van deze wet die kunnen worden toegerekend aan de dependance Gouda van de raad voor de kinderbescherming dan wel aan de daar gedetacheerde werkeenheid van het Ministerie van Volksgezondheid, Welzijn en Sport, en waarover de Nationale ombudsman op het tijdstip van inwerkingtreding van deze wet nog geen verzoek als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&hoofdstuk=2&paragraaf=3&artikel=12&z=2005-01-01&g=2005-01-01) heeft bereikt, maar nog wel kan bereiken, is de eerste volzin eveneens van toepassing
 
 ##### Artikel 39
 
