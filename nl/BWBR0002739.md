@@ -159,25 +159,3 @@ Onze Minister van Financiën bepaalt:
 2. Zij kan worden aangehaald als 'Registratiewet 1970'.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. De KNB zendt op een bij regeling van Onze Minister te bepalen wijze aan een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst een elektronisch afschrift van iedere ter registratie aangeboden akte als bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2013-01-01&g=2013-01-01), alsmede van het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2013-01-01&g=2013-01-01).
-
-2. De inspecteur of door Onze Minister aangewezen andere ambtenaren van de rijksbelastingdienst hebben inzage in het door de KNB gehouden register, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1&z=2013-01-01&g=2013-01-01), en in het repertorium, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7&z=2013-01-01&g=2013-01-01).
-
-##### Artikel 13a
-
-1. Op de taken, genoemd in deze wet en de daarop berustende bepalingen, van de KNB zijn de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) en [41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) van overeenkomstige toepassing.
-
-2. De kosten die de KNB maakt ten behoeve van de uitoefening van de in deze wet neergelegde taken komen, volgens bij regeling van Onze Minister te stellen regels, ten laste van Onze Minister.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7b
-
-1. De notaris zendt op verzoek van een door Onze Minister aangewezen ambtenaar van de rijksbelastingdienst, op een bij regeling van Onze Minister te bepalen wijze, een elektronische kopie van een aan een notariële akte gehecht stuk (annex) aan deze ambtenaar.
-
-2. De notaris kan op ieder moment eigener beweging een elektronische kopie van een annex als bedoeld in het eerste lid toezenden op de krachtens het eerste lid te bepalen wijze.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
