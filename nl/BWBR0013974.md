@@ -73,15 +73,3 @@ Dit besluit treedt in werking met ingang van de datum waarop het Scheldereglemen
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als 'Besluit vrijstelling loodsplicht Scheldereglement'.
-
-##### Artikel 2bis
-
-Onverminderd het bepaalde bij of krachtens artikel 11 van het Scheldereglement zijn voorts vrijgesteld van de verplichting, bedoeld in artikel 9, eerste lid, van het Scheldereglement:
-
-- 1°. zeeschepen met een lengte over alles tot en met 80 meter en een diepgang tot en met 5,5 meter, indien zij de monden van de Schelde vanaf de Magneboei, via het Oostgat, de Galgeput, de Sardijngeul en Vlissingen-Rede tot aan de havens van Vlissingen Oost bevaren;
-
-- 2°. zeeschepen met een lengte over alles tot en met 80 meter, indien zij de monden van de Schelde via een andere dan de onder 1° bedoelde scheepvaartweg bevaren.
-
-Het eerste lid is van overeenkomstige toepassing op zeeschepen met een Londonlengte tot en met 75 meter, maar met een lengte over alles van meer dan 80 meter.
-
-De vrijstelling, bedoeld in het eerste lid, geldt niet voor zeeschepen, gebouwd of geschikt gemaakt voor het vervoer in bulk van vloeibare lading van ontvlambare aard of gebezigd voor het vervoer van gas of chemicaliën in bulk, en geheel of gedeeltelijk daarmee geladen, dan wel leeg maar nog niet ontgast of ontdaan van gevaarlijke residuen, met uitzondering van schepen die ten anker liggen, als bedoeld in [artikel 2, eerste lid, onderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0013974&artikel=2&z=2004-02-01&g=2004-02-01).
