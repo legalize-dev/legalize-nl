@@ -304,37 +304,3 @@ Vervallen
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk III. Uitvoering van het Verdrag van Brussel
-
-### Hoofdstuk IV. Aanvullende bepalingen
-
-##### Artikel 17a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk V. Procesrecht
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. Onze Minister van Financiën kan, met inachtneming van de krachtens artikel 1, onderdeel b, van het Verdrag van Parijs door de Bestuurscommissie genomen besluiten, in Nederland gelegen kerninstallaties van de toepassing van dat verdrag uitsluiten, indien de geringe omvang van de betrokken risico’s in relatie tot de kosten van de verdragsverplichtingen dat naar zijn oordeel rechtvaardigen. Het besluit daartoe wordt genomen in overeenstemming met Onze Minister van Veiligheid en Justitie en Onze Minister van Economische Zaken.
-
-2. In een besluit op grond van het eerste lid kan worden bepaald dat de exploitant van de kerninstallatie aansprakelijk blijft voor schade waarop ten gevolge van dat besluit het Verdrag van Parijs niet meer van toepassing is. Aan het besluit kunnen tevens voorschriften worden verbonden met betrekking tot het bedrag en de vorm van die aansprakelijkheid, alsmede voorschriften met betrekking tot de wijze waarop daarvoor financiële zekerheid wordt gesteld.
-
-### Hoofdstuk III. Uitvoering van het Verdrag van Brussel
-
-### Hoofdstuk IV. Aanvullende bepalingen
-
-### Hoofdstuk V. Procesrecht
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
