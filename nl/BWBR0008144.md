@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-06-01"
+last_updated: "2003-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - b. het verrichten van testen en keuringen van voertuigen en voertuigonderdelen voor zover deze testen en keuringen weliswaar niet worden voorgeschreven voor de toelating of het gebruik van de voertuigen en voertuigonderdelen in Nederland doch waarom wordt verzocht ten behoeve van de toelating en het gebruik van deze voertuigen en voertuigonderdelen in andere landen;
 
-- c. het op verzoek verstrekken van een zwaar transportverklaring of een draagvermogensbrief ten behoeve van het op basis van [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) door gemeenten, provincies of de dienst verlenen van ontheffingen;
+- c. het op verzoek verstrekken van een zwaar transportverklaring, een draagvermogensbrief of een in het kader van de proef met langere of langere en zwaardere vrachtautocombinaties af te geven keuringscertificaat ten behoeve van het op basis van [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) door gemeenten, provincies of de dienst verlenen van ontheffingen;
 
 - d. het op verzoek van gemeenten en provincies bemiddelen bij het verlenen van ontheffingen als bedoeld in [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149);
 
@@ -63,13 +63,13 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - f. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel e bedoelde erkenningen;
 
-- g. het met inachtneming van het bepaalde in [artikel 4 q van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) vaststellen van de tarieven, bedoeld in artikel 70d, eerste lid, van die wet;
+- g. het met inachtneming van het bepaalde in [artikel 4 q van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) vaststellen van de tarieven, bedoeld in [artikel 70d, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70d);
 
-- h. het op verzoek verstrekken van een verklaring omtrent de verkrijging van kentekenplaten als bedoeld in artikel 9 e, eerste lid, onderdeel b, van de Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten;
+- h. het op verzoek verstrekken van een verklaring omtrent de verkrijging van kentekenplaten als bedoeld in [artikel 9 e, eerste lid, onderdeel b, van de Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&artikel=9e);
 
 - i. het verzamelen van gegevens en het verstrekken daarvan aan instellingen van volkenrechtelijke organisaties en aan de instanties van de lidstaten van volkenrechtelijke organisaties voor zover daartoe op grond van een besluit van die organisaties een verplichting bestaat;
 
-- j. het op verzoek aanwijzen van bromfietsen, niet zijnde brommobielen, of motorfietsen, bedoeld in artikel 60 van het Reglement Verkeersregels en Verkeerstekens 1990, die voldoen aan de eisen ten behoeve van een vrijstelling van de helmdraagplicht;
+- j. het op verzoek aanwijzen van bromfietsen, niet zijnde brommobielen, of motorfietsen, bedoeld in [artikel 60 van het Reglement Verkeersregels en Verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60), die voldoen aan de eisen ten behoeve van een vrijstelling van de helmdraagplicht;
 
 - k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten;
 
@@ -77,9 +77,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-06-01&g=2003-06-01), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2003-12-20), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-06-01&g=2003-06-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-12-20&g=2003-12-20) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
