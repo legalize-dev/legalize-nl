@@ -4,7 +4,7 @@ identifier: "BWBR0008041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2002-02-01"
+last_updated: "2003-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008041"
 soort: "ministeriele-regeling"
@@ -46,13 +46,17 @@ Voor omwisseling tegen een Nederlands rijbewijs komen in aanmerking de door de h
 
 - Chinees Taipei: B (personenauto)
 
-- Israël: B (personenauto) Japan: IB (non-professional-carrying drivers: private car & motorcycle)
+- Israël: B (personenauto)
+
+- Japan: IB (non-professional-carrying drivers: private car & motorcycle)
 
 - Jersey (Staten van: alle categoriëen
 
 - Man (Eiland): alle categoriëen
 
 - Monaco: alle categorieën
+
+- Republiek Korea : 1st class en 2nd class ordinary
 
 - Singapore: Class 2 (motorfiets met meer dan 400 cc) Class 3 (personenauto)
 
