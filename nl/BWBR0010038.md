@@ -4,7 +4,7 @@ identifier: "BWBR0010038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-01"
-last_updated: "2001-05-17"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010038"
 soort: "ministeriele-regeling"
@@ -45,17 +45,17 @@ In deze regeling wordt verstaan onder:
 
 - a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. informatienummer: nummer dat in een door de Minister van Verkeer en Waterstaat op grond van artikel 4.1 van de wet vastgesteld nummerplan is bestemd als gratis nummer, koopnummer of tariefnummer;
+- b. informatienummer: nummer dat in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan is bestemd als nummer voor een informatiedienst;
 
 - c. kort informatienummer: informatienummer bestaande uit minder dan 11 cijfers;
 
-- d. geharmoniseerd nummer: nummer in een door de Minister van Verkeer en Waterstaat op grond van artikel 4.1 van de wet vastgesteld nummerplan dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend.
+- d. geharmoniseerd nummer: nummer in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend.
 
-- e. f. carrierselectienummer: nummer, in een door de Minister van Verkeer en Waterstaat op grond van artikel 4.1 van de wet vastgesteld nummerplan, dat een gebruiker van de spraaktelefoon- of ISDN-dienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van gegevens gedeeltelijk door een ander te laten verzorgen dan degene die voor hem de telefoon- of ISDN-aansluiting verzorgt.
+- e. carrierselectienummer: nummer dat in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan is bestemd als nummer voor een carrierselectiedienst.
 
 ##### Artikel 2
 
-De volgende nummers in een door de Minister van Verkeer en Waterstaat op grond van artikel 4.1 van de wet vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in artikel 4.2, eerste lid, onder a en b, van de wet genoemde categorieën aanbieders:
+De volgende nummers in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in [artikel 4.2, eerste lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2) genoemde categorieën aanbieders:
 
 - a. geografische nummers;
 
@@ -63,9 +63,9 @@ De volgende nummers in een door de Minister van Verkeer en Waterstaat op grond v
 
 - c. nummers voor semafonie;
 
-- d. elektronische postbusnummers;
+- d. persoonlijke assistent-diensten;
 
-- e. persoonlijke nummers;
+- e. vervallen;
 
 - f. nummers voor virtual private networks;
 
