@@ -4,7 +4,7 @@ identifier: "BWBR0008659"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-07-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008659"
 soort: "wet"
@@ -54,9 +54,9 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - a. beperkt huursubsidiebericht: een schriftelijke kennisgeving van Onze Minister aan een huurder met gegevens over samenstelling van het huishouden, inkomen en vermogen;
 
-- b. burgemeester en wethouders: burgemeester en wethouders van de gemeente waar de woning gelegen is waarop de huursubsidie of de bijzondere bijdrage in de huurlasten, bedoeld in artikel 26b, betrekking heeft;
+- b. burgemeester en wethouders: burgemeester en wethouders van de gemeente waar de woning gelegen is waarop de huursubsidie of de bijzondere bijdrage in de huurlasten, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2003-08-01&g=2003-08-01), betrekking heeft;
 
-- c. huurcommissie: de huurcommissie, bedoeld in [artikel 2 van de Wet op de huurcommissies](https://wetten.overheid.nl/jci1.3:c:BWBR0003222&artikel=2);
+- c. huurcommissie: de huurcommissie, bedoeld in [artikel 21 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=21);
 
 - d. huurder: persoon die zijn hoofdverblijf heeft in:
 
@@ -66,7 +66,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - e. huurprijs: de prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning;
 
-- f. huursubsidie: een financiële bijdrage krachtens deze wet, met uitzondering van artikel 26b, ter tegemoetkoming in de kosten van het huren van een woning;
+- f. huursubsidie: een financiële bijdrage krachtens deze wet, met uitzondering van [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2003-08-01&g=2003-08-01), ter tegemoetkoming in de kosten van het huren van een woning;
 
 - g. huursubsidiebericht: een schriftelijke kennisgeving van Onze Minister aan een huurder met gegevens over samenstelling van het huishouden, huurprijs, inkomen, vermogen en op basis van die gegevens berekende huursubsidie;
 
@@ -80,7 +80,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - l. peiljaar: het kalenderjaar dat voorafgaat aan het subsidiejaar;
 
-- m. rekenhuur, rekeninkomen, rekenvermogen: de rekenhuur, het rekeninkomen, en het rekenvermogen, bedoeld in artikel 5, artikel 3 onderscheidenlijk artikel 4;
+- m. rekenhuur, rekeninkomen, rekenvermogen: de rekenhuur, het rekeninkomen, en het rekenvermogen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2003-08-01&g=2003-08-01), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2003-08-01&g=2003-08-01) onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2003-08-01&g=2003-08-01);
 
 - n. subsidiejaar: het tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar;
 
@@ -130,7 +130,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 5. Met loon uit tegenwoordige dienstbetrekking wordt gelijkgesteld:
 
-- a. loon genoten wegens tijdelijke arbeidsongeschiktheid, anders dan ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) behoudens uitkeringen in verband met bevalling, en de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- a. loon genoten wegens tijdelijke arbeidsongeschiktheid, anders dan ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) behoudens uitkeringen in verband met bevalling, en de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
 
 - b. loon in de vorm van uitkeringen ingevolge de Wet financiering loopbaanonderbreking en aanvullingen daarop door degene tot wie de belastingplichtige in dienstbetrekking staat.
 
@@ -180,7 +180,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 ##### Artikel 5
 
-1. In deze wet en de bepalingen die daarop berusten wordt verstaan onder rekenhuur: de huurprijs die de huurder op de peildatum per maand is verschuldigd, of, als dat lager is dan de huurprijs, een bedrag dat gelijk is aan de maximale huurprijsgrens, bedoeld in de krachtens [artikel 15, eerste lid, van de Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=15) daarover gestelde regels
+1. In deze wet en de bepalingen die daarop berusten wordt verstaan onder rekenhuur: de huurprijs die de huurder op de peildatum per maand is verschuldigd, of, als dat lager is dan de huurprijs, een bedrag dat gelijk is aan de maximale huurprijsgrens, bedoeld in de krachtens de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10), en [12, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) daarover gestelde regels
 
 - a. verminderd met het bedrag dat daarin is begrepen voor een bedrijfsruimte die tot de woning behoort,
 
@@ -296,7 +296,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 ##### Artikel 13
 
-1. Geen huursubsidie wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2003-07-01&g=2003-07-01), in mindering wordt gebracht:
+1. Geen huursubsidie wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2003-08-01&g=2003-08-01), in mindering wordt gebracht:
 
 - a. hoger is dan € 541,36 per 1 juli 2003: € 585,24per maand als de huurder of een van de medebewoners op de peildatum 23 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder of een medebewoner;
 
@@ -314,9 +314,9 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 3. Als huursubsidie wordt toegekend met toepassing van het tweede lid, ontvangt de huurder geen huursubsidie voor het deel van de rekenhuur dat ligt boven het maximum dat in het eerste lid is genoemd.
 
-4. Als huursubsidie wordt toegekend met toepassing van het tweede lid onder d, wordt gedurende het eerste jaar 67% toegekend van het bedrag dat wordt berekend op de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2003-07-01&g=2003-07-01) bedoelde wijze, en gedurende het tweede jaar 33% van het aldus berekende bedrag.
+4. Als huursubsidie wordt toegekend met toepassing van het tweede lid onder d, wordt gedurende het eerste jaar 67% toegekend van het bedrag dat wordt berekend op de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2003-08-01&g=2003-08-01) bedoelde wijze, en gedurende het tweede jaar 33% van het aldus berekende bedrag.
 
-5. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+5. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 #### § 4. Eisen aan de financiële positie
 
@@ -332,7 +332,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. € 19 625,99 [per 1 juli 2003: € 21.225bij een meerpersoonsouderenhuishouden.
 
-2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 15
 
@@ -346,7 +346,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. € 43 517,52 per 1 juli 2003: € 47.075bij een meerpersoonshuishouden of een meerpersoonsouderenhuishouden, als de huurder of een medebewoner op de laatste dag van het subsidiejaar 65 jaar of ouder is.
 
-2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 ### Hoofdstuk 3. De hoogte van de huursubsidie
 
@@ -358,7 +358,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 2. Voor de hoogte van de normhuur is het rekeninkomen bepalend. Met het oog hierop worden bij ministeriële regeling de inkomens in inkomensklassen verdeeld.
 
-3. De laagste inkomensklasse bevat de inkomens, gelijk aan of lager dan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01).
+3. De laagste inkomensklasse bevat de inkomens, gelijk aan of lager dan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01).
 
 4. De inkomens in een zelfde inkomensklasse, boven het minimum-inkomensijkpunt, mogen ten hoogste € 500 van elkaar verschillen.
 
@@ -384,7 +384,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - b. € 3,63 als op de peildatum sprake is van een meerpersoonsouderenhuishouden.
 
-4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 18
 
@@ -410,7 +410,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. € 4,54 als op de peildatum sprake is van een meerpersoonsouderenhuishouden.
 
-4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 19
 
@@ -430,7 +430,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - b. b. € 458,32 per 1 juli 2003: € 486,30 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
 
-3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-07-01&g=2003-07-01).
+3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2003-08-01&g=2003-08-01).
 
 #### § 3. Berekening van de huursubsidie
 
@@ -638,25 +638,25 @@ Vervallen
 
 1. Met ingang van 1 juli van elk jaar worden aangepast aan de huurprijsontwikkeling, zoals die naar redelijke verwachting in het subsidiejaar zal plaatsvinden:
 
-- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-07-01&g=2003-07-01), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
+- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-08-01&g=2003-08-01), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
 
-- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2003-07-01&g=2003-07-01), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2003-07-01&g=2003-07-01), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
+- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2003-08-01&g=2003-08-01), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2003-08-01&g=2003-08-01), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
 
 Hierbij wordt een correctie aangebracht naar de mate waarin de huurprijsontwikkeling in het voorafgaande subsidiejaar afweek van de verwachtingen waarvan werd uitgegaan bij de eerdere aanpassing van deze bedragen.
 
 2. De in het eerste lid onder **a** genoemde bedragen kunnen, in afwijking van de aanhef van het eerste lid, bij algemene maatregel van bestuur worden aangepast met het percentage waarmee het bedrag, bedoeld in [artikel 30, eerste lid, onder c, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=30) is aangepast.
 
-3. Bij ministeriële regeling worden elk jaar, met ingang van 1 juli, de bedragen genoemd in de [artikelen 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2003-07-01&g=2003-07-01) (maximale huurgrens), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2003-07-01&g=2003-07-01) (maximum-inkomensgrens), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=15&z=2003-07-01&g=2003-07-01) (maximum-vermogensgrens) aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het peiljaar, als in januari volgend op het peiljaar in de Staatscourant bekendgemaakt. De maximum-inkomensgrens kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+3. Bij ministeriële regeling worden elk jaar, met ingang van 1 juli, de bedragen genoemd in de [artikelen 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2003-08-01&g=2003-08-01) (maximale huurgrens), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2003-08-01&g=2003-08-01) (maximum-inkomensgrens), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=15&z=2003-08-01&g=2003-08-01) (maximum-vermogensgrens) aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het peiljaar, als in januari volgend op het peiljaar in de Staatscourant bekendgemaakt. De maximum-inkomensgrens kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-4. Bij regeling van Onze Minister wordt jaarlijks, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen die vanaf 1 juli krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01), als minimum-inkomensijkpunt zullen gelden.
+4. Bij regeling van Onze Minister wordt jaarlijks, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen die vanaf 1 juli krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01), als minimum-inkomensijkpunt zullen gelden.
 
-5. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, de hoogte van de bedragen, die krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-07-01&g=2003-07-01) als referentie-inkomensijkpunt zullen gelden, aangepast met hetzelfde percentage, waarmee de corresponderende bedragen in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01), (minimum-inkomensijkpunt) worden aangepast. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+5. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, de hoogte van de bedragen, die krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-08-01&g=2003-08-01) als referentie-inkomensijkpunt zullen gelden, aangepast met hetzelfde percentage, waarmee de corresponderende bedragen in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01), (minimum-inkomensijkpunt) worden aangepast. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
 6. De bedragen, bedoeld in het eerste en tweede lid, en de maximale huurgrens, bedoeld in het derde lid, worden naar boven afgerond op hele eurocenten. De maximum-inkomensgrens en de maximum-vermogensgrens, bedoeld in het derde lid, en de bedragen, bedoeld in het vierde en vijfde lid, worden naar boven afgerond op een veelvoud van € 25. Bij een volgende aanpassing van deze bedragen en grenzen wordt uitgegaan van de bedragen en grenzen zoals die waren, voordat zij werden afgerond.
 
 7. De minimum-inkomensijkpunten en de overeenkomstig het eerste tot en met zesde lid vastgestelde, vanaf 1 juli geldende, referentie-inkomensijkpunten, maximale huur-, inkomens-, vermogens-, kwaliteitskortings-, en aftoppingsgrenzen, alsmede de voor de verschillende inkomensklassen en typen huishouden geldende normhuren worden elk jaar uiterlijk op 1 mei in de **Staatscourant** bekendgemaakt.
 
-8. Bij algemene maatregel van bestuur kunnen de bedragen als vermeld in de [artikelen 3, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2003-07-01&g=2003-07-01), (inkomensvrijlating), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2003-07-01&g=2003-07-01), (vermogensvrijlating), [5, eerste lid onder b en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2003-07-01&g=2003-07-01) (garage-aftrek en maximum-servicekosten), [17, eerste lid onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-07-01&g=2003-07-01), (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid onder a en b, (verlaging van de normhuur bij minimum-inkomensijkpunt), [18, derde lid onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-07-01&g=2003-07-01) (verlaging van de normhuur bij referentie-inkomensijkpunt) en [21, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2003-07-01&g=2003-07-01), (kindertoeslag) hoger of lager worden gesteld.
+8. Bij algemene maatregel van bestuur kunnen de bedragen als vermeld in de [artikelen 3, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2003-08-01&g=2003-08-01), (inkomensvrijlating), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2003-08-01&g=2003-08-01), (vermogensvrijlating), [5, eerste lid onder b en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2003-08-01&g=2003-08-01) (garage-aftrek en maximum-servicekosten), [17, eerste lid onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2003-08-01&g=2003-08-01), (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid onder a en b, (verlaging van de normhuur bij minimum-inkomensijkpunt), [18, derde lid onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2003-08-01&g=2003-08-01) (verlaging van de normhuur bij referentie-inkomensijkpunt) en [21, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2003-08-01&g=2003-08-01), (kindertoeslag) hoger of lager worden gesteld.
 
 ### Hoofdstuk 6. Aanvraag, huursubsidiebericht, beperkt huursubsidiebericht, afhandeling en betaling
 
