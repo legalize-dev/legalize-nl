@@ -87,9 +87,3 @@ De krachtens de [artikelen 4 tot en met 9 van de Warenwet](https://wetten.overhe
 2. Dit besluit wordt aangehaald als: Warenwetbesluit Uitvoer van waren.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 1a
-
-Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met artikel 12 van [verordening (EG) 178/2002](32002R0178).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
