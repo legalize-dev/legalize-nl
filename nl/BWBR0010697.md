@@ -57,9 +57,3 @@ De regeling van de Minister van Justitie van 20 mei 1994, nr. 438145/594/MB, hou
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
