@@ -59,7 +59,3 @@ Dit besluit is vastgesteld met instemming van de raad voor rechtsbijstand te Den
 ##### Artikel 5
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt met terugwerkende kracht met ingang van 1 december 1998 in werking.
-
-##### Artikel 6
-
-Dit besluit wordt aangehaald als: Mandaatbesluit inzake beslissingen op bezwaar door het bestuur van de raad voor rechtsbijstand in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies.
