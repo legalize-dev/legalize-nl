@@ -72,11 +72,3 @@ Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bep
 ## Bijlage. als bedoeld in [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=1&z=1986-01-01&g=1986-01-01) van de rijkswet houdende vaststelling van een zeegrens tussen de Nederlandse Antillen en Aruba
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4
-
-Deze rijkswet wordt aangehaald als: Rijkswet vaststelling zeegrens tussen Aruba en Curaçao.
-
-## Bijlage. als bedoeld in [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=1&z=2010-10-10&g=2010-10-10) van de rijkswet houdende vaststelling van een zeegrens tussen de Nederlandse Antillen en Aruba
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
