@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2000-06-01"
+last_updated: "2003-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -50,434 +50,260 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling coderingen beperkingen rijbevoegdheid.
 
-## Bijlage behorende bij de Regeling coderingen beperkingen rijbevoegdheid
+## Bijlage
 
-01. Correctie van het gezichtsvermogen
+Geharmoniseerde communautaire codes
 
-01.01 Bril;
+01.01 Bril
 
-01.02 Kontaktlenzen;
+01.02 Contactlenzen
 
-01.03 Beschermend glas;
+01.03 Beschermend glas
 
-01.04 Ondoorschijnend glas;
+01.04 Ondoorschijnend glas of lens
 
-01.05 Ooglap;
+01.05 Ooglap
 
-01.06 Bril of kontaktlenzen.
+01.06 Bril of contactlenzen
 
-02. Gehoorprothese
+02.01 Gehoorprothese één oor
 
-02.01 Gehoorprothese één oor;
+02.02 Gehoorprothese beide oren
 
-02.02 Gehoorprothese beide oren.
+03.01 Prothese/orthese arm
 
-03. Prothese/orthese van het bewegingsapparaat
+03.02 Prothese/orthese been
 
-03.01 Prothese/orthese aan arm;
+05.01 Alleen rijden bij daglicht (vanaf een uur na zonsopgang tot een uur voor zonsondergang)
 
-03.02 Prothese/orthese aan been.
+05.02 Alleen rijden binnen een straal van … km vanaf de woonplaats van de rijbewijshouder of alleen binnen de stad/regio …
 
-04. Op vertoon van een geldig medisch attest.
+05.03 Alleen rijden zonder passagiers
 
-05. Beperkt gebruik om gezondheidsredenen
+05.04 Rijden met maximale snelheid van … km per uur
 
-05.01 Beperkt tot verkeersdeelname van 1 uur na zonsopgang tot 1 uur voor zonsondergang;
+05.05 Rijden alleen toegestaan in gezelschap van andere rijbewijshouder
 
-05.02 Beperkt tot verkeersdeelname binnen een straal van het gegeven aantal km rond de woonplaats of alleen in de de aangegeven plaats/landstreek;
+05.06 Rijden zonder aanhangwagen
 
-05.03 Beperkt tot het besturen zonder passagiers;
+05.07 Rijden op snelweg niet toegestaan
 
-05.04 Beperkt tot het rijden met een snelheid van niet meer dan het aangegeven aantal km per uur (km/h);
+05.08 Alcohol niet toegestaan
 
-05.05 Beperkt tot het besturen met een begeleider;
+10.01 Handschakeling
 
-05.06 Beperkt tot het besturen zonder aanhangwagen;
+10.02 Automatische schakeling
 
-05.07 Beperkt tot deze categorie.
+10.03 Elektronisch bediende schakeling
 
-10. Aangepaste versnellingsbak
+10.04 Aangepaste keuze/schakelhendel
 
-10.01 Handschakeling;
+10.05 Geen hulpversnellingsbak
 
-10.02 Automatische schakeling;
+15.01 Aangepast koppelingspedaal
 
-10.03 Electronisch gestuurde schakeling;
+15.02 Handkoppeling
 
-10.04 Aangepaste keuze handel;
+15.03 Automatische koppeling
 
-10.05 Hulpversnelling.
+15.04 Afscherming vóór/opklapbaar/uitneembaar koppelingspedaal
 
-15. Aangepaste koppeling
+20.01 Aangepast rempedaal
 
-15.01 Aangepast koppelingpedaal;
+20.02 Verbreed rempedaal
 
-15.02 Handkoppeling;
+20.03 Rempedaal geschikt voor bediening met linkervoet
 
-15.03 Automatische koppeling;
+20.04 Remslof
 
-15.04 Koppelingspedaal uitgenomen/opgeklapt.
+20.05 Kantelpedaal
 
-20. Aangepast remsysteem
+20.06 (Aangepaste) handbedrijfsrem
 
-20.01 Aangepast rempedaal;
+20.07 Maximale bedieningskracht bedrijfsrem...... N
 
-20.02 Verbreed rempedaal;
+20.08 Maximale bedieningskracht voor noodrem geïntegreerd in bedrijfsrem..... N
 
-20.03 Rempedaal geschikt voor bediening met de linkervoet;
+20.09 Aangepaste parkeerrem
 
-20.04 Remslof;
+20.10 Elektrisch bediende parkeerrem
 
-20.05 Remkantelpedaal;
+20.11 (Aangepaste) voetbediende parkeerrem
 
-20.06 Handbedrijfsrem;
+20.12 Afscherming vóór/opklapbaar/uitneembaar rempedaal
 
-20.07 Maximale bedieningskracht bedrijfsrem ....N;
+20.13 Knierem
 
-20.08 Met hulprem geïntegreerd in bedrijfsrem, max bedieningskracht ...N;
+20.14 Elektrisch bediende bedrijfsrem
 
-20.09 Aangepaste parkeerrem;
+25.01 Aangepast gaspedaal
 
-20.10 Parkeerrem met electrische bediening;
+25.02 Gasslof
 
-20.11 (Aangepaste) parkeerrem met voetbediening;
+25.03 Kantelgaspedaal
 
-20.12 Uitgenomen/opgeklapt rempedaal.
+25.04 Handgas
 
-25. Aangepast gasregelsysteem
+25.05 Kniegas
 
-25.01 Aangepast gaspedaal;
+25.06 Servo-acceleratiesysteem (elektronisch, pneumatisch, enz.)
 
-25.02 Gasslof;
+25.07 Gaspedaal links van rempedaal
 
-25.03 Gaskantelpedaal;
+25.08 Gaspedaal aan linkerkant
 
-25.04 Handgas;
+25.09 Afscherming vóór/opklapbaar/uitneembaar gaspedaal
 
-25.05 Kniegas;
+30.01 Parallelpedalen
 
-25.06 Servo gas;
+30.02 Gas- en rempedaal op (nagenoeg) gelijke hoogte
 
-25.07 Gaspedaal links van rempedaal;
+30.03 Gas-remschuif
 
-25.08 Gaspedaal links;
+30.04 Gas-remschuif met orthese
 
-25.09 Uitgenomen/opgeklapt gaspedaal.
+30.05 Opklapbare/uitneembare gas- en rempedalen
 
-30. Aangepaste/gecombineerde gas- en rem regelsystemen
+30.06 Vloerverhoging
 
-30.01 Met parallelpedalen;
+30.07 Afscherming .......... van het rempedaal
 
-30.02 Met pedalen op (nagenoeg) gelijke hoogte;
+30.08 Afscherming voor prothese ........... van het rempedaal
 
-30.03 Gas/remschuif;
+30.09 Afscherming vóór gas- en rempedalen
 
-30.04 Gas/remschuif met orthese;
+30.10 Hiel- of beenondersteuning
 
-30.05 Uitgenomen/opgeklapt(e) gas- en rempedaal of pedalen;
+30.11 Gas geven en remmen via elektrische bediening
 
-30.06 Met vloerverhoging;
+(verlichting, ruitenwisser, ruitensproeier, claxon, richtingaanwijzers, enz.)
 
-30.07 Met afscherming .... rempedaal;
+35.01 Bedieningsorganen bedienbaar zonder dat het rijgedrag nadelig wordt beïnvloed
 
-30.08 Met afscherming voor prothese .... rempedaal;
+35.02 Bedieningsorganen bedienbaar zonder het stuur en toebehoren los te laten (knop, gaffel, enz.)
 
-30.09 Met afscherming vóór gas- en rempedaal;
+35.03 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) met de linkerhand los te laten
 
-30.10 Met hiel/beensteun.
+35.04 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) met de rechterhand los te laten
 
-35. Aangepaste bediening van de verplichte inrichtingscomponenten (d.i. verlichting, ruitenwisser/ruitensproeier, hoorn, richtingaanwijzers, mistlamp e.d)
+35.05 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) en de gecombineerde gas- en remmechanismen los te laten
 
-35.01 Schakelaars bedienbaar zonder dat besturing en bediening van het voertuig nadelig kan worden beïnvloed;
+40.01 Standaard stuurbekrachtiging
 
-35.02 Schakelaars bedienbaar zonder het stuurwiel/hulpstuk (knop, gaffel enz.) los te laten;
+40.02 Versterkte stuurbekrachtiging
 
-35.03 Schakelaars bedienbaar zonder het stuurwiel/hulpstuk (knop, gaffel enz.) los te laten met de linkerhand;
+40.03 Stuurinrichting met back-upsysteem
 
-35.04 Schakelaars bedienbaar zonder het stuurwiel/hulpstuk (knop, gaffel enz.) los te laten met de rechterhand;
+40.04 Verlengde stuurkolom
 
-35.05 Schakelaars bedienbaar zonder het stuurwiel/hulpstuk (knop, gaffel enz.) en de gecombineerde gas/rem bediening los te laten.
+40.05 Aangepast stuurwiel (groter en/of dikker stuurwiel, kleinere diameter stuurwiel, enz.)
 
-40. Aangepaste stuurinrichting
+40.06 Kantelbaar stuurwiel
 
-40.01 Standaard stuurbekrachtiger;
+40.07 Verticaal stuurwiel
 
-40.02 Versterkte stuurbekrachtiger;
+40.08 Horizontaal stuurwiel
 
-40.03 Noodstuurinrichting;
+40.09 Voetstuur
 
-40.04 Verlengde stuurkolom;
+40.10 Aangepaste stuurinrichting (joystick, enz.)
 
-40.05 Aangepast stuurwiel (b.v. met vergrote/verdikte sectie van de stuuromtrek, stuurwiel met verkleinde diameter enz.);
+40.11 Stuurknop
 
-40.06 Kantelbaar stuurwiel;
+40.12 Handspalk
 
-40.07 Vertikaal stuurwiel;
+40.13 Polsspalk
 
-40.08 Horizontaal stuurwiel;
+42.01 Rechterbuitenspiegel
 
-40.09 Voetstuur;
+42.02 Rechterbuitenspiegel op voorspatbord
 
-40.10 Aangepaste stuurinrichting (joystick);
+42.03 Extra binnenspiegel om het verkeer van ............... waar te kunnen nemen
 
-40.11 Stuurknop;
+42.04 Panoramische binnenspiegel
 
-40.12 Handspalk;
+42.05 Dodehoekspiegel
 
-40.13 Polsspalk.
+42.06 Elektrisch bediende buitenspiegel(s)
 
-42. Aangepaste achteruitkijkspiegel(s)
+43.01 Bestuurdersstoel op een goede kijkhoogte en op normale afstand van het stuurwiel en de pedalen
 
-42.01 Rechterbuitenspiegel;
+43.02 Bestuurdersstoel aangepast aan lichaamsvorm
 
-42.02 Buitenspiegel op voorspatbord;
+43.03 Bestuurdersstoel met zijsteun voor goede zitstabiliteit
 
-42.03 Extra binnenspiegel waarmede het verkeer kan waargenomen van ....;
+43.04 Bestuurdersstoel met armleuningen .........
 
-42.04 Panoramische binnenspiegel;
+43.05 Verlengde stoelslede van bestuurdersstoel
 
-42.05 Dode-hoek-spiegel;
+43.06 Aangepaste veiligheidsgordel
 
-42.06 Electrisch verstelbare buitenspiegel.
+43.07 Vierpuntsveiligheidsgordel
 
-43. Aangepaste bestuurdersstoel
+44.01 Eén remelement voor alle remhandelingen
 
-43.01 Bestuurdersstoel op goede kijkhoogte en normale afstand van stuurwiel en pedalen;
+44.02 (Aangepaste) voorrem
 
-43.02 Bestuurdersstoel aangepast aan lichaamsvorm;
+44.03 (Aangepaste) achterrem
 
-43.03 Bestuurdersstoel met zijdelinge steun voor goede zitstabiliteit;
+44.04 (Aangepaste) gashendel
 
-43.04 Bestuurdersstoel met armsteun;
+44.05 (Aangepaste) handschakeling en handkoppeling
 
-43.05 Verlengde slede bestuurdersstoel;
+44.06 (Aangepaste) achteruitkijkspiegel .........
 
-43.06 Aangepaste autogordel;
+44.07 (Aangepaste) bedieningsorganen (richtingaanwijzers, remlichten, enz.)
 
-43.07 Autogordel type harnas.
+44.08 Zithoogte waarbij de bestuurder in zittende positie beide voeten tegelijk op de grond kan plaatsen
 
-44. Aanpassingen van het motorrijtuig op twee wielen
+Administratieve vermeldingen
 
-44.02 Aangepaste handrem;
+70. Ingewisseld voor rijbewijs nr. … afgegeven door … (voor een derde land: EU/VN-symbool, bijvoorbeeld 70.0123456789.NL)
 
-44.03 Aangepaste voetrem
+71. Duplicaat van rijbewijs nr. … (voor een derde land: EU/VN-symbool, bijvoorbeeld 71.987654321.HR)
 
-44.04 Aangepaste gasregeling;
+72. Alleen voertuigen van categorie A met een maximale cilinderinhoud van 125cc en een maximumvermogen van 11 kW (A1)
 
-44.05 Handschakeling en handkoppeling;
+73. Alleen drie- of vierwielige motorvoertuigen van categorie B (B1)
 
-44.06 Achteruitkijkspiegel;
+74. Alleen voertuigen van categorie C met een maximaal toegestane massa van 7 500 kg (C1)
 
-44.07 Richtingaanwijzers en stoplicht;
+75. Alleen voertuigen van categorie D met ten hoogste 16 zitplaatsen, die van de bestuurder niet meegerekend (D1)
 
-44.08 Zadelhoogte die toelaat dat de bestuurder in zitpositie beide voorvoeten gelijktijdig op de grond kan plaatsen.
+76. Alleen voertuigen van categorie C met een maximaal toegestane massa van 7 500 kg (C1), met een aanhangwagen waarvan de maximaal toegestane massa meer dan 750 kg bedraagt, mits de maximaal toegestane massa van het aldus gevormde samenstel ten hoogste 12 000 kg bedraagt en de maximaal toegestane massa van de aanhangwagen de ledige massa van het trekkende voertuig niet overschrijdt (C1+E)
 
-45. Alleen motorrijtuigen op twee wielen met zijspanwagen.
+77. Alleen voertuigen van categorie D met ten hoogste 16 zitplaatsen, die van de bestuurder niet meegerekend (D1), met een aanhangwagen waarvan de maximaal toegestane massa meer dan 750 kg bedraagt, mits
 
-50. Alleen met het motorrijtuig met het chassisnummer ....
+a) de maximaal toegestane massa van het aldus gevormde samenstel ten hoogste 12 000 kg bedraagt en de maximaal toegestane massa van de aanhangwagen de ledige massa van het trekkende voertuig niet overschrijdt en
 
-51. Alleen met het motorrijtuig met het kenteken.....
+b) de aanhangwagen niet wordt gebruikt om personen te vervoeren (D1+E)
 
-55. Gecombineerde aanpassingen van het motorrijtuig
+78. Alleen voertuigen met automatische schakeling ([Richtlijn 91/439/EEG](31991L0439), bijlage II, 8.1.1, tweede alinea)
 
-55.01: 15.03 + 30.07 + 90.01;
+79. (…) Alleen voertuigen conform de specificaties tussen haken, in het kader van de toepassing van artikel 10, lid 1, van de richtlijn:
 
-55.02: 15.03 + 30.08 + 90.01;
+90.01: links van
 
-55.03: 15.03 + 15.04;
+90.02: rechts van
 
-55.04: 15.03 + 15.04 + 30.07 + 90.01;
+90.03: links
 
-55.05: 15.03 + 15.04 + 30.08 + 90.01.
+90.04: rechts
 
-55.10: 15.03 + 20.03;
+90.05: hand
 
-55.11: 15.03 + 25.09 + 25.07;
+90.06: voet
 
-55.12: 15.03 + 25.09 + 25.07 + 30.07 + 90.02;
+90.07: bedienbaar
 
-55.13: 15.03 + 25.09 + 25.07 + 30.08 + 90.02;
+De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 
-55.14: 15.03 + 20.03 + 15.04;
+« , » wordt gebruikt als separator tussen codes; **voorbeeld: 01.06,05.02 Ede,10.02,20.01,25.01**;
 
-55.15: 15.03 + 25.09 + 25.07 + 15.04;
+« / » wordt gebruikt bij keuzemogelijkheid tussen twee (sub)codes of bij elkaar behoren de codes; **voorbeeld: 40.01/(50 12345678)**
 
-55.16: 15.03 + 25.09 + 25.07 + 15.04 + 30.07 + 90.02;
+« ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
 
-55.17: 15.03 + 25.09 + 25.07 + 15.04 + 30.08 + 90.02;
-
-55.18: 20.06 + 20.12.
-
-55.20: 15.03 + 20.04 + 90.03 + 25.05 + 90.03 + 30.05;
-
-55.21: 15.03 + 20.04 + 90.04 + 25.05 + 90.04 + 30.05;
-
-55.22: 15.03 + 20.06 + 20.12;
-
-55.23: 15.03 + 20.06 + 25.05 + 90.03 + 30.05;
-
-55.24: 15.03 + 20.06 + 25.05 + 90.04 + 30.05.
-
-55.30: 15.03 + 20.06 + 25.04 + 30.05;
-
-55.31: 10.02 + 20.06 + 25.04 + 30.05;
-
-55.32: 10.02 + 20.06 + 25.04 + 30.09;
-
-55.33: 10.02 + 20.06 + 25.04 + 30.05 + 40.01 + 20.07 + 20.08;
-
-55.34: 10.02 + 20.06 + 25.04 + 30.09 + 40.01 + 20.07 + 20.08;
-
-55.35: 10.02 + 20.06 + 25 04 + 30.05 + 40.01 + 50.03 + 20.07 + 20.08;
-
-55.36: 10.02 + 20.06 + 25.04 + 30.09 + 40.01 + 50.03 + 20.07 + 20.08.
-
-55.40: 10.02 + 40.11 + 90.03 + 35.02 + 20.08;
-
-55.41: 10.02 + 35.02 + 20.08;
-
-55.42: 10.02 + 40.01 + 35.02 + 20.08;
-
-55.43: 10.02 + 40.11 + 90.03 + 40.01 + 35.02 + 20.08.
-
-55.50: 10.02 + 35.02 + 20.08;
-
-55.51: 10.02 + 40.11 + 90.04 + 35.02 + 20.08;
-
-55.52: 10.02 + 40.01 + 35.02 + 20.08;
-
-55.53: 10.02 + 40.11 + 90.04 + 40.01 + 35.02 + 20.08.
-
-55.60: 10.02 + 40.01 + 20.08;
-
-55.61: 10.02 + 40.02 + 40.03 + 20.08.
-
-55.70: 40.09 + 60.
-
-56.01: 10.02 + 40.01 + 20.07 + 20.08;
-
-56.02: 10.02 + 40.02 + 40.03 + 20.07 + 20.08;
-
-56.03: 10.02 + 40.01 + 20.05 + 90.04 + 25.08 + 30.05 + 20.07 + 20.08;
-
-56.04: 10.02 + 40.02 + 40.03 + 20.05 + 90.04 + 25.08 + 30.05 + 20.07 + 20.08;
-
-56.05: 10.02 + 40.01 + 20.05 + 90.03 + 20.12 + 20.07 + 20.08;
-
-56.06: 10.02 + 40.02 + 40.03 + 20.05 + 90.03 + 20.12 + 20.07 + 20.08;
-
-56.07: 10.02 + 40.08 + 40.02 + 40.03 + 20.05 + 90.04 + 25.08 + 30.05 + 20.07 + 20.08;
-
-56.08: 10.02 + 40.08 + 40.02 + 40.03 + 20.05 + 90.03 + 20.12 + 20.07 + 20.08.
-
-56.10: 10.02 + 35.02 + 20.08;
-
-56.11: 10.02 + 35.02 + 20.08 + 30.07 + 90.01;
-
-56.12: 10.02 + 40.11 + 90.04 + 35.02 + 20.08;
-
-56.13: 10.02 + 40.11 + 90.04 + 35.02 + 20.08 + 30.07 + 90.01;
-
-56.14: 10.02 + 40.01 + 35.02 + 20.08;
-
-56.15: 10.02 + 40.01 + 35.02 + 20.08 + 30.07 + 90.01;
-
-56.16: 10.02 + 40.01 + 40.11 + 90.05 + 35.02 + 20.08;
-
-56.17: 10.02 + 40.01 + 40.11 + 90.04 + 35.02 + 20.08 + 30.07 + 90.01.
-
-56.20: 10.02 + 25.07 + 25.09 + 35.02 + 20.08;
-
-56.21: 10.02 + 25.07 + 25.09 + 35.02 + 20.08 + 30.07 + 90.02;
-
-56.22: 10.02 + 25.07 + 25.09 + 40.11 + 90.03 + 35.02 + 20.08;
-
-56.23: 10.02 + 25.07 + 25.09 + 40.11 + 90.03 + 35.02 + 20.08 + 30.07 + 90.02;
-
-56.24: 10.02 + 25.07 + 25 09 + 40.01 + 35.02 + 20.08;
-
-56.25: 10.02 + 25.07 + 25.09 + 40.01 + 35.02 + 20.08 + 30.07 + 90.02;
-
-56.26: 10.02 + 25.07 + 25.09 + 40.01 + 40.11 + 90.03 + 35.02 + 20.08;
-
-56.27: 10.02 + 25.07 + 25.09 + 40.01 + 40.11 + 90.03 + 35.02 + 20.08 + 30.07 + 90.02.
-
-56.30: 10.02 + 10.04 + 30.03 + 90.03 + 25.06 + 30.05 + 40.02 + 40.03 + 40.12 + 90.04 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.31: 10.02 + 10.03 + 30.03 + 90.03 + 25.06 + 30.05 + 40.02 + 40.03 + 40.12 + 90.04 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.32: 10.02 + 10.04 + 30.03 + 90.03 + 25.06 + 30.05 + 40.02 + 40.03 + 40.13 + 90.04 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.33: 10.02 + 10.03 + 30.03 + 90.03 + 25.06 + 30.05 + 40.02 + 40.03 + 40.13 + 90.04 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.34: 10.02 + 10.04 + 30.03 + 90.04 + 25.06 + 30.05 + 40.02 + 40.03 + 40.12 + 90.03 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.35: 10.02 + 10.03 + 30.03 + 90.04 + 25.06 + 30.05 + 40.02 + 40.03 + 40.12 + 90.03 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.36: 10.02 + 10.04 + 30.03 + 90.04 + 25.06 + 30.05 + 40.02 + 40.03 + 40.13 + 90.03 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04;
-
-56.37: 10.02 + 10.03 + 30.03 + 90.04 + 25.06 + 30.05 + 40.02 + 40.03 + 40.13 + 90.03 + 20.07 + 20.08 + 20.10 + 35.02 + 50.05 + 45.06 + 90.03 + 90.04.
-
-56.40: 10.02 + 10.04 + 20.09 + 30.01 + 40.01 + 40.05 + 50.01 + 30.06;
-
-56.41: 10.02 + 10.04 + 20.07 + 20.08 + 20.09 + 30.01 + 40.01 + 40.05 + 45.01 + 50.01 + 50.02 + 50.06 + 30.06.
-
-56.50: 15.04 + 15.02;
-
-56.51: 10.02 + 30.09 + 90.01;
-
-56.52: 15.04 + 15.02 + 30.09;
-
-56.53: 15.01 + 90.02 + 25.07;
-
-56.54: 15.01 + 20.06 + 25.04 + 30.05 + 35.05 + 40.01;
-
-56.55: 15.01 + 20.07;
-
-56.56: 15.01 + 90.04 + 25.07 + 20.07;
-
-56.57: 35.02 + 40.01 + 40.11 + 20.09 + 10.04;
-
-56.58: 35.02 + 40.01 + 40.11;
-
-56.59: 15.01 + 35.02 + 20.08.
-
-70. NL rijbewijs verkregen door omwisseling van rijbewijs nr ...... uit het land aangegeven door middel van de landen code.
-
-71. Vervangend rijbewijs (duplicaat) voor rijbewijs met de landencode en het nummer .....
-
-72. Alleen motorrijtuigen van de categorie A met een cylinderinhoud van niet meer dan 125 cc en een vermogen van niet meer dan 11 kW.
-
-73. Alleen driewielige of vierwielige motorrijtuigen van de categorie B waarvan de toegestane maximum massa niet meer bedraagt dan 550 kg.
-
-74. Alleen motorrijtuigen van de categorie C waarvan de toegestane maximum massa niet meer bedraagt dan 7.500 kg.
-
-75. Alleen motorrijtuigen van de categorie D ingericht voor het vervoer van niet meer dan 16 personen de bestuurder daaronder niet begrepen.
-
-76. Alleen motorrijtuigen van de categorie C, waarvan de toegestane maximum massa niet meer bedraagt dan 7.500 kg, met een aanhangwagen waarvan de toegestane maximum massa meer bedraagt dan 750 kg, mits de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen niet meer bedraagt dan 12.000 kg en de toegestane maximum massa van de aanhangwagen de ledige massa van het trekkende motorrijtuig niet overschrijdt.
-
-77. Alleen motorrijtuigen van de categorie D, ingericht voor het vervoer van niet meer dan 16 personen, de bestuurder daaronder niet begrepen, met een aanhangwagen waarvan de toegestane massa meer bedraagt dan 750 kg, mits de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen niet meer bedraagt dan 12.000 kg en de toegestane maximum massa van de aanhangwagen de ledige massa van het trekkend motorrijtuig niet overschrijdt, en de aanhangwagen niet wordt gebruikt voor het vervoer van personen.
-
-78. Alleen motorrijtuigen met automatische versnellingbak.
-
-79. Alleen motorrijtuigen die voldoen aan de op het rijbewijs aangegeven beperkingen (aangegeven toegestane maximale massa/ingericht voor het vervoer van niet meer dan het aantal aangegeven personen, de bestuurder daaronder niet begrepen/andere aangegeven specificaties.
-
-90. Bijkomstige codes
-
-90.01: links van;
-
-90.02: rechts van;
-
-90.03: links;
-
-90.04: rechts;
-
-90.05: hand;
-
-90.06: voet;
-
-90.07: bedienbaar.
-
-100 Alleen tijdens privé gebruik
+100 Alleen tijdens privé gebruik.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
