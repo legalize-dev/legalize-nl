@@ -4,7 +4,7 @@ identifier: "BWBR0011144"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-25"
-last_updated: "2000-02-23"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011144"
 soort: "KB"
@@ -48,7 +48,7 @@ Er is een Herinneringsmedaille voor Humanitaire hulpverlening bij Rampen.
 
 ##### Artikel 2
 
-De herinneringsmedaille wordt toegekend aan hen die van overheidswege in militair verband zijn uitgezonden en die ter plaatse van een door de Minister van Defensie aangewezen rampgebied daadwerkelijk aan de hulpverlening hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
+De herinneringsmedaille wordt toegekend aan hen die deel uitmakend van of tezamen met de krijgsmacht ter plaatse van een door de Minister van Defensie aangewezen rampgebied daadwerkelijk aan de hulpverlening hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
 
 ##### Artikel 3
 
@@ -86,7 +86,7 @@ Bij de uitreiking van de herinneringsmedaille dan wel van later toegekende gespe
 
 ##### Artikel 9
 
-De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2000-02-23&g=2000-02-23) bedoelde versierselen komen ten laste van het Rijk.
+De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2002-10-09&g=2002-10-09) bedoelde versierselen komen ten laste van het Rijk.
 
 ##### Artikel 10
 
