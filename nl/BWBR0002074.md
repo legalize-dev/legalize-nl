@@ -101,9 +101,3 @@ Bevat wijzigingen in andere regelgeving.
 Deze wet kan worden aangehaald als "Wet bescherming staatsgeheimen".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Va
-
-Deze wet is mede van toepassing op Bonaire, Sint Eustatius en Saba, met dien verstande dat de schriftelijke machtiging, bedoeld in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=V&z=2010-10-10&g=2010-10-10), wordt verleend door de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
