@@ -85,9 +85,3 @@ Deze wet kan worden aangehaald als: Algemene termijnenwet.
 2. Zij kan voor termijnen, gesteld in door Ons, door plaatsing op een daartoe door Ons aangehouden lijst, aangewezen wetten en algemene maatregelen van bestuur, op door Ons te bepalen eerdere tijdstippen in werking treden.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
