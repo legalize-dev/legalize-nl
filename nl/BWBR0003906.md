@@ -350,21 +350,3 @@ De Wet van 30 oktober 1930 tot regeling van het toegepast natuurwetenschappelijk
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 21a
-
-Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet de raad van bestuur daarvan terstond mededeling aan Onze minister onder vermelding van de oorzaak van de verschillen.
-
-### Hoofdstuk 6. Inlichtingen, verslaglegging en controle
-
-##### Artikel 26a
-
-Bij ministeriële regeling kunnen, de raad van bestuur gehoord, nadere voorschriften worden vastgesteld voor de inrichting van de begroting, het jaarverslag en de jaarrekening.
-
-### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging en taakverwaarlozingsregeling
-
-### Hoofdstuk 8. Overige onderwerpen
-
-### Hoofdstuk 10. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
