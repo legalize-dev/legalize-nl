@@ -119,15 +119,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Justitie van 26 maart 2003, nr. 5217867/03/6;
-
-Gelet op de [artikelen 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [74c, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), [37 van de Wet op de Economische Delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16), [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=25), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59), [73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73), en [145 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145), [1g](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=12), [14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=14), [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54), [87 van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=87), [5, derde lid van de Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=5), en [13, derde lid van de Landbouw-kwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13);
-
-De Raad van State gehoord (advies van 21 juli 2003, nr. W03.03.0116/I);
-
-Gezien het nader rapport van Onze Minister van Justitie van 29 oktober 2003, nr. 5247506/03/6;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
