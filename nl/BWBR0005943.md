@@ -557,15 +557,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit kan worden aangehaald als: Nederlands-Antilliaans Zeebrievenbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 43a
-
-1. Zeeschepen die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen stonden ingeschreven in het openbaar rompbevrachtingsregister, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10), van het Nederlands-Antilliaans Zeebrievenbesluit zoals dat op dat tijdstip luidde, verkrijgen de hoedanigheid van Curaçaos zeeschip als bedoeld in artikel 4, eerste lid.
-
-2. Het openbaar rompbevrachtingsregister van de Nederlandse Antillen wordt op het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen het openbaar rompbevrachtingsregister van Curaçao, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=4&artikel=5&z=2010-10-10&g=2010-10-10).
-
-3. Zeebrieven, voorlopige zeebrieven en buitengewone zeebrieven, afgegeven op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=14&z=2010-10-10&g=2010-10-10), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=15&z=2010-10-10&g=2010-10-10), of [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=6&artikel=20&z=2010-10-10&g=2010-10-10), of [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&paragraaf=7&artikel=21&z=2010-10-10&g=2010-10-10), van het Nederlands-Antilliaans Zeebrievenbesluit, zoals dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen luidde, gelden als Curaçaose zeebrieven, afgegeven op grond van voornoemde artikelen, zoals die luiden na inwerkingtreding van voornoemde rijkswet.
-
-#### § 17. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
