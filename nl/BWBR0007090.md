@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-02-01"
+last_updated: "2004-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een kentekenbewijs, bevattende de enkele letter A, E, H, K, L, N, P, S, T, V, W of X en twee groepen van twee cijfers (kentekenbewijs voor weging en onderzoek): model 1.1;
 
-- b. een kentekenbewijs dat is afgegeven voor een voertuig dat door de Dienst Wegverkeer is gekeurd ingevolge artikel 26 van de wet, in afwachting van de verkrijging van een driedelig kentekenbewijs (voorlopig kentekenbewijs): model 2.1;
+- b. een kentekenbewijs dat is afgegeven voor een voertuig dat door de Dienst Wegverkeer is gekeurd ingevolge [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), in afwachting van de verkrijging van een tweedelig kentekenbewijs (voorlopig kentekenbewijs): model 2.1;
 
 - c. een kentekenbewijs, bevattende de enkele letter Z en twee groepen van twee cijfers (zevendaags kentekenbewijs): model 3.1;
 
@@ -62,7 +62,17 @@ In deze regeling wordt verstaan onder:
 
 - g. een bedrijfsvoorraad deel II: model 11.1;
 
-- h. een overschrijvingsbewijs: model 13.1.
+- h. een overschrijvingsbewijs: model 13.1;
+
+- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
+
+- j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers: model 15.1;
+
+- k. een bedrijfsvoorraad deel I B: model 16.1;
+
+- l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;
+
+- m. een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), tevens uitvoerverklaring: model 18.1.
 
 2. Voorts worden de volgende, in de bijlage van dit besluit opgenomen, modellen vastgesteld:
 
@@ -70,15 +80,25 @@ In deze regeling wordt verstaan onder:
 
 - b. een vrijwaringsbewijs, af te geven door een erkend bedrijf: model B.1;
 
-- c. Vervallen
+- c. een vrijwaringsbewijs, na 30 mei 2004 af te geven door de Dienst Wegverkeer: model A.2;
 
 - d. een ingevolge [artikel 39, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=39) afgegeven ontvangstbewijs: model D.1;
 
-- e. een verklaring, bedoeld in de [artikelen 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), en [33, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) (uitvoerverklaring): model E.1.
+- e. een ingevolge [artikel 39, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=39) na 30 mei 2004 afgegeven ontvangstbewijs: model D.2;
 
-##### Artikel 3
+- f. een verklaring, bedoeld in de [artikelen 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), en [33, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) (uitvoerverklaring): model E.1.
 
-Vervallen
+##### Artikel 4. Aanwijzing instantie
+
+1. De aanvrager van een kentekenbewijs dient, overeenkomstig het bepaalde in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), persoonlijk te verschijnen bij:
+
+- a. een daartoe aangewezen vestiging van de Dienst Wegverkeer;
+
+- b. een daartoe aangewezen postvestiging van Postkantoren BV., of,
+
+- c. een erkend bedrijf, bedoeld in [artikel 46, tweede lid, onderdeel f, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46).
+
+2. De erkenninghouder of diens gemachtigde, bedoeld in [artikel 50, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), verschijnt bij de in het eerste lid, onderdeel a of b, bedoelde instantie.
 
 ##### Artikel 4. Aanwijzing instantie
 
@@ -100,9 +120,9 @@ Als documenten, als bedoeld in [artikel 27, negende lid, van het Kentekenregleme
 
 - b. een ingevulde en ondertekende verklaring van een door de Dienst Wegverkeer vastgesteld model.
 
-##### Artikel 6. Overleggen overschrijvingsbewijs bij uitvoer
+##### Artikel 6. Overleggen bescheiden bij uitvoer
 
-Onverminderd [artikel 33, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33), dient, ingeval een voertuig voorgoed buiten Nederland wordt gebracht, het overschrijvingsbewijs bij de Dienst Wegverkeer te worden overgelegd:
+Onverminderd [artikel 33, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33), dient, ingeval een voertuig voorgoed buiten Nederland wordt gebracht, het na 30 mei 2004 afgegeven deel II dan wel het overschrijvingsbewijs bij de Dienst Wegverkeer te worden overgelegd:
 
 - a. indien een ander dan degene aan wie het kentekenbewijs is afgegeven de in [artikel 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) bedoelde verklaring overlegt, en
 
@@ -142,7 +162,7 @@ Onverminderd [artikel 33, eerste lid, van het Kentekenreglement](https://wetten.
 
 - d. het gebruik als museumvoertuig.
 
-4. De in het tweede en derde lid bedoelde melding geschiedt door toezending van de aanwezige delen van het kentekenbewijs aan de Dienst Wegverkeer, met dien verstande dat het deel I niet behoeft te worden toegezonden. Tevens dient een verklaring van een door de Dienst Wegverkeer vastgesteld model te worden meegezonden waaruit blijkt dat het voertuig voorgoed buiten gebruik wordt gesteld, respectievelijk bestemd is om als voertuig buiten de weg te worden gebruikt, zulks onder aanduiding van de bestemming.
+4. De in het tweede en derde lid bedoelde melding geschiedt door toezending van de aanwezige delen van het kentekenbewijs aan de Dienst Wegverkeer, met dien verstande dat het deel I A dan wel het deel I niet behoeft te worden toegezonden. Tevens dient een verklaring van een door de Dienst Wegverkeer vastgesteld model te worden meegezonden waaruit blijkt dat het voertuig voorgoed buiten gebruik wordt gesteld, respectievelijk bestemd is om als voertuig buiten de weg te worden gebruikt, zulks onder aanduiding van de bestemming.
 
 5. Indien een voertuig voorgoed buiten Nederland wordt gebracht door een ander dan een erkend bedrijf en niet kan worden voldaan aan de verplichting de betrokken kentekenplaten in te leveren omdat deze zijn vermist, verklaart de Dienst Wegverkeer het bij het voertuig behorende kentekenbewijs ongeldig, mits op de door de aanvrager ondertekende uitvoerverklaring wordt aangegeven dat een of twee betrokken kentekenplaten zijn vermist.
 
@@ -216,7 +236,7 @@ Model 6.1 Deel I van een kentekenbewijs, bevattende de lettergroep BN of GN en t
 
 Vervallen.
 
-Model 7.1 Deel I van een driedelig kentekenbewijs voor een personenauto
+Model 7.1 Deel I van het driedelig kentekenbewijs voor een personenauto
 
 Vervallen.
 
@@ -246,23 +266,51 @@ Voorzijde (kleur: wit)
 
 Achterzijde kleur: overwegend groen
 
-Model 14.1 Registratiebewijs
+Model 14.1
 
-Vervallen.
+**Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken**
 
-Model 15.1 Bijzonder registratiebewijs
+**Voorzijde (kleur: wit en grijs)**
 
-Vervallen.
+**Achterzijde (kleur: overwegend groen)**
 
-Model 16.1 Eendaags registratiebewijs
+Model 15.1
 
-Vervallen.
+**Deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers**
 
-Model 17.1. Voorlopig registratiebewijs
+**Voorzijde (kleur: wit)**
 
-Vervallen.
+**Achterzijde (kleur: overwegend groen)**
+
+Model 16.1
+
+**Bedrijfsvoorraad deel I B**
+
+**Voorzijde (kleur: wit)**
+
+**Achterzijde (kleur: rose)**
+
+Model 17.1.
+
+**Deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs**
+
+**Voorzijde (kleur: wit)**
+
+**Achterzijde (kleur: overwegend groen)**
+
+Model 18.1
+
+**Deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, zesde lid, van het Kentekenreglement, tevens uitvoerverklaring**
 
 Model A.1 Vrijwaringsbewijs, af te geven door de Dienst Wegverkeer
+
+Model A.2
+
+**Vrijwaringsbewijs, na 30 mei 2004 af te geven door de Dienst Wegverkeer**
+
+**Voorzijde (kleur: wit)**
+
+**Achterzijde (kleur: wit)**
 
 Model B.1 Vrijwaringsbewijs, af te geven door een erkend bedrijf
 
@@ -274,12 +322,24 @@ Vervallen.
 
 Model D.1 Ingevolge artikel 39, derde lid, van het Kentekenreglement afgegeven ontvangstbewijs
 
+Model D.2
+
+**Ontvangstbewijs, na 30 mei 2004 af te geven ingevolge artikel 39, derde lid, van het Kentekenreglement**
+
+**Voorzijde (kleur: wit)**
+
+**Achterzijde (kleur: wit)**
+
 Model E.1 Uitvoerverklaring
 
-Kleur: wit
+**Kleur: wit**
 
 Aan de uitvoerverklaring is een blad gehecht met een vertaling van de tekst van de uitvoerverklaring in de volgende talen: Engels, Duits en Frans.
 
 Aan de uitvoerverklaring is tevens een groene en een gele doorslag gehecht, welke zijn bestemd voor de geregistreerde eigenaar/houder respectievelijk voor de Dienst Wegverkeer.
 
 Indien op de uitvoerverklaring een uitvoerkenteken is ingevuld, dient de verklaring tevens als uitvoerkentekenbewijs.
+
+##### Artikel 3. Overleggen kentekenbewijs bij keuring na schade
+
+Bij een keuring als bedoeld in [artikel 106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=106), dient, indien het een driedelig kentekenbewijs betreft dan wel een kentekenbewijs dat bestaat uit een deel I, een deel I B en een overschrijvingsbewijs, het gehele kentekenbewijs te worden overgelegd.
