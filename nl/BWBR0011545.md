@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2002-03-15"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -48,9 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-##### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepalingen
 
-In dit besluit wordt verstaan onder wet: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+1. In dit besluit wordt verstaan onder:
+
+**aflosfase**: aflosfase, bedoeld in [artikel 6.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), en
+
+**wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2003-01-01&g=2003-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 ##### Artikel 2. Gecorrigeerde belastbare minimumloon
 
@@ -118,7 +124,7 @@ Op het normbedrag voor de particuliere ziektekostenverzekering, bedoeld in [arti
 
 - a. indien een overheveling van verstrekkingen naar de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) in het kader van de stelselwijziging zorgsector heeft plaatsgevonden, wordt door Onze Minister het normbedrag daaraan aangepast, en
 
-- b. het normbedrag, of indien onderdeel a is toegepast, het door toepassing van onderdeel a gewijzigde normbedrag, wordt per 1 januari van ieder kalenderjaar door Onze Minister overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2002-03-15&g=2002-03-15), aangepast.
+- b. het normbedrag, of indien onderdeel a is toegepast, het door toepassing van onderdeel a gewijzigde normbedrag, wordt per 1 januari van ieder kalenderjaar door Onze Minister overeenkomstig [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2003-01-01&g=2003-01-01), aangepast.
 
 ### Hoofdstuk 3. Weigerachtige of onvindbare ouders
 
@@ -138,7 +144,7 @@ Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de 
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. De IB-Groep stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
@@ -146,29 +152,29 @@ Aanspraak op aanvullende beurs als bedoeld in [artikel 3.14, eerste lid, van de 
 
 ##### Artikel 8. Uit ouderlijk gezag ontzet of ontheven
 
-Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), dient een afschrift van de beschikking van de rechtbank.
+Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), dient een afschrift van de beschikking van de rechtbank.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
+Van geen contact met de ouder als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
+Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-1. Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt de IB-Groep in een geval als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
+1. Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt de IB-Groep in een geval als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
 
 2. Indien de verblijfplaats van een ouder wordt achterhaald, vraagt de IB-Groep bij die ouder of bij de belastingdienst de gegevens op over het belastbare inkomen.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2002-03-15&g=2002-03-15), ontvangt, komt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2003-01-01&g=2003-01-01), ontvangt, komt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de ontvangen alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage gesteld vanaf de datum dat het verzoek bij de rechtbank is ingediend.
 
-### Hoofdstuk 4. Uitbetaling en verrekening
+### Hoofdstuk 3a. Kwijtschelding aanvullende beurs
 
 ##### Artikel 13. Uitbetaling
 
@@ -190,7 +196,7 @@ Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, onderd
 
 ##### Artikel 15. Verrekening voorschot lesgeld
 
-Ten aanzien van degenen die lesgeld zijn verschuldigd op grond van [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3), wordt het voorschot, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=4&artikel=14&z=2002-03-15&g=2002-03-15), niet uitbetaald maar verrekend met de verplichting tot het betalen van lesgeld.
+Ten aanzien van degenen die lesgeld zijn verschuldigd op grond van [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3), wordt het voorschot, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=4&artikel=14&z=2003-01-01&g=2003-01-01), niet uitbetaald maar verrekend met de verplichting tot het betalen van lesgeld.
 
 ### Hoofdstuk 5. Verstrekken van inlichtingen
 
@@ -290,9 +296,9 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2003-01-01&g=2003-01-01)
 
-1. Voorzover het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht, bedoeld in [artikel 6.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.11), wordt vastgesteld, het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld of het jaar waarvoor de draagkracht wordt vastgesteld een aan het kalenderjaar 2001 voorafgaand kalenderjaar is, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15) onder gecorrigeerde belastbare minimumloon verstaan:
+1. Voorzover het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht, bedoeld in [artikel 6.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.11), wordt vastgesteld, het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld of het jaar waarvoor de draagkracht wordt vastgesteld een aan het kalenderjaar 2001 voorafgaand kalenderjaar is, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2003-01-01&g=2003-01-01) onder gecorrigeerde belastbare minimumloon verstaan:
 
 - a. de som van:
 
@@ -419,6 +425,64 @@ Dit besluit treedt in werking op 1 september 2000.
 ##### Artikel 55. Citeertitel
 
 Dit besluit wordt aangehaald als «Besluit studiefinanciering 2000».
+
+## Bijlage. behorend bij het koninklijk besluit van 5 augustus 2000 (Stb. 329)
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 12a. Reikwijdte partnerbegrip
+
+1. In aanvulling op het begrip partner, genoemd in [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1), is in dit hoofdstuk slechts sprake van partner van de debiteur indien in het eerste jaar van de aflosfase het huwelijk, het geregistreerd partnerschap of de gezamenlijke huishouding een tijdvak van meer dan 6 maanden omvat.
+
+2. Voor de toepassing van dit besluit is van een gezamenlijke huishouding slechts sprake in de gevallen genoemd in [artikel 1.1, tweede lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1).
+
+##### Artikel 12b. Gehele kwijtschelding voor debiteur zonder partner
+
+Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het gecorrigeerd verzamelinkomen van de debiteur zonder partner in het eerste jaar van de aflosfase gelijk is aan of lager is dan 1,5 maal het gecorrigeerde belastbare minimumloon.
+
+##### Artikel 12c. Gedeeltelijke kwijtschelding voor debiteur zonder partner
+
+1. Gedeeltelijke kwijtschelding van de aanvullende beurs kan plaatsvinden indien het gecorrigeerd verzamelinkomen van de debiteur zonder partner in het eerste jaar van de aflosfase hoger is dan 1,5 maal het gecorrigeerde belastbare minimumloon en lager is dan 2 maal het gecorrigeerde belastbare minimumloon.
+
+2. De hoogte van de kwijtschelding tussen 1,5 en 2 maal het gecorrigeerde belastbare minimumloon neemt in evenredigheid af tot nihil naarmate het gecorrigeerde verzamelinkomen hoger is.
+
+##### Artikel 12d. Gehele kwijtschelding voor debiteur met partner
+
+Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het gecorrigeerd verzamelinkomen van de debiteur en diens partner in het eerste jaar van de aflosfase gelijk is aan of lager is dan 2 maal het gecorrigeerde belastbare minimumloon.
+
+##### Artikel 12e. Gedeeltelijke kwijtschelding voor debiteur met partner
+
+1. Gedeeltelijke kwijtschelding van de aanvullende beurs kan plaatsvinden indien het gecorrigeerd verzamelinkomen van de debiteur en diens partner in het eerste jaar van de aflosfase hoger is dan 2 maal het gecorrigeerde belastbare minimumloon en lager is dan 2,5 maal het gecorrigeerde belastbare minimumloon.
+
+2. De hoogte van de kwijtschelding tussen 2 en 2,5 maal het gecorrigeerde belastbare minimumloon neemt in evenredigheid af tot nihil naarmate het gecorrigeerde verzamelinkomen hoger is.
+
+##### Artikel 12f. Aanvraag en tijdstip kwijtschelding
+
+1. De IB-Groep neemt een aanvraag die wordt ingediend voor 1 november van het tweede jaar van de aflosfase, niet eerder dan op die datum in behandeling, waarbij 1 november geldt als datum van indiening.
+
+2. De IB-Groep besluit binnen 8 weken na de indiening van een aanvraag van een debiteur om kwijtschelding van de aanvullende beurs.
+
+3. De IB-Groep neemt een aanvraag die wordt ingediend na het einde van de diplomatermijn, genoemd in [artikel 5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.5), niet in behandeling.
+
+4. Het kwijt te schelden bedrag wordt aan de aanvrager uitbetaald indien verrekening niet mogelijk is.
+
+### Hoofdstuk 4. Uitbetaling en verrekening
+
+### Hoofdstuk 5. Verstrekken van inlichtingen
+
+### Hoofdstuk 6. Aanpassing van bedragen
+
+### Hoofdstuk 7. Omzetting tempobeurs
+
+### Hoofdstuk 8
+
+### Hoofdstuk 9. Overgangsbepalingen
+
+### Hoofdstuk 10. Wijzigingen in andere besluiten
+
+### Hoofdstuk 11. Slotbepalingen
 
 ## Bijlage. behorend bij het koninklijk besluit van 5 augustus 2000 (Stb. 329)
 
