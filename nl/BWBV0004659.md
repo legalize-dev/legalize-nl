@@ -243,37 +243,3 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorize
 DONE at Tokyo on the fourteenth day of September One Thousand Nine Hundred and Sixty-three in three authentic texts drawn up in the English, French and Spanish languages.
 
 This Convention shall be deposited with the International Civil Aviation Organization with which, in accordance with Article 19, it shall remain open for signature and the said Organization shall send certified copies thereof to all States Members of the United Nations or of any Specialized Agency.
-
-##### Artikel 3 bis
-
-Indien een Verdragsluitende Staat die uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=3&z=2021-05-01&g=2021-05-01) zijn rechtsmacht uitoefent ervan in kennis is gesteld of op andere wijze heeft vernomen dat één of meer Verdragsluitende Staten een onderzoek, vervolging of gerechtelijke procedure hebben ingesteld ter zake van dezelfde strafbare feiten of handelingen, treedt die Verdragsluitende Staat, naargelang van toepassing, in overleg met deze andere Verdragsluitende Staten teneinde hun maatregelen af te stemmen. De verplichtingen in dit artikel laten de verplichtingen van een Verdragsluitende Staat uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=V&artikel=13&z=2021-05-01&g=2021-05-01) onverlet.
-
-### Hoofdstuk III. Bevoegdheden van de gezagvoerder van het luchtvaartuig
-
-### Hoofdstuk IV. Onwettige overmeestering van luchtvaartuigen
-
-### Hoofdstuk V. Bevoegdheden en verplichtingen van staten
-
-##### Artikel 15 bis
-
-1. Elke Verdragsluitende Staat wordt aangemoedigd de maatregelen te nemen die nodig kunnen zijn om een passende strafrechtelijke, bestuursrechtelijke of andere gerechtelijke procedure in te stellen tegen een persoon die een strafbaar feit of een handeling zoals bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=I&artikel=1&z=2021-05-01&g=2021-05-01), begaat, met name:
-
-- a. een fysieke aanval of de dreiging met een dergelijke aanval gericht tegen een lid van de bemanning; of
-
-- b. de weigering gehoor te geven aan een rechtmatig bevel van of namens de gezagvoerder van het luchtvaartuig teneinde de veiligheid van het luchtvaartuig of van de personen of goederen aan boord te beschermen.
-
-2. Geen enkele bepaling van dit Verdrag tast het recht van een Verdragsluitende Staat aan om passende maatregelen in zijn nationale wetgeving op te nemen of te handhaven om weerspannige en verstorende handelingen aan boord te bestraffen.
-
-### Hoofdstuk VI. Verdere bepalingen
-
-##### Artikel 18 bis
-
-Geen enkele bepaling in dit Verdrag vormt een beletsel voor het recht uit hoofde van het nationale recht schadevergoeding te vorderen van een persoon die het luchtvaartuig heeft moeten verlaten ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=8&z=2021-05-01&g=2021-05-01) of is overgedragen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=9&z=2021-05-01&g=2021-05-01).
-
-### Hoofdstuk VII. Slotbepalingen
-
-IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Convention.
-
-DONE at Tokyo on the fourteenth day of September One Thousand Nine Hundred and Sixty-three in three authentic texts drawn up in the English, French and Spanish languages.
-
-This Convention shall be deposited with the International Civil Aviation Organization with which, in accordance with Article 19, it shall remain open for signature and the said Organization shall send certified copies thereof to all States Members of the United Nations or of any Specialized Agency.
