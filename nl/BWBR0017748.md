@@ -4,7 +4,7 @@ identifier: "BWBR0017748"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2003-01-01"
+last_updated: "2004-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017748"
 soort: "wet"
@@ -51,7 +51,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet loonbelasting 1964.
 
 ##### Artikel IVa
 
@@ -143,7 +143,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Coördinatiewet Sociale Verzekering.
 
 ##### Artikel XXI
 
@@ -159,7 +159,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 11, eerste lid, onderdeel p, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) zoals dit onderdeel luidde op 27 augustus 2004 vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
+
+[Artikel 6, eerste lid, onderdeel y, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6), zoals dit onderdeel luidde op 27 augustus 2004, vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
 
 ##### Artikel XXV
 
