@@ -4,7 +4,7 @@ identifier: "BWBR0009255"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009255"
 soort: "AMvB"
@@ -210,7 +210,7 @@ Vervallen
 
 ##### Artikel 26
 
-Het in artikel 21 bedoelde kostuum voor de substituut-griffier bij de Hoge Raad is gelijk aan het kostuum dat in artikel 22 is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
+Het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=21&z=2004-07-01&g=2004-07-01) bedoelde kostuum voor de substituut-griffier van de Hoge Raad is gelijk aan het kostuum dat in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=22&z=2004-07-01&g=2004-07-01) is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
 
 ### hoofdstuk Vierde. Het kostuum van de advocaten en de procureurs
 
