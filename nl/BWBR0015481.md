@@ -269,27 +269,3 @@ Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-1. Bij ministeriële regeling kan bij wege van experiment, in het belang van het streven naar marktwerking op het gebied van de werkzaamheden van tolken en vertalers, voor een periode van maximaal drie jaren in dier voege worden afgeweken van de [artikelen 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=4&z=2005-03-01&g=2005-03-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=5&z=2005-03-01&g=2005-03-01) dat de daarin genoemde tarieven als maximumtarieven gelden.
-
-2. Indien toepassing wordt gegeven aan het eerste lid, wordt in ieder geval bepaald:
-
-- a. in welke arrondissementen de experimenten plaatsvinden;
-
-- b. gedurende welke periode de experimenten plaatsvinden en vanaf welk moment deze periode aanvangt;
-
-- c. welke regels daarbij in acht worden genomen; en
-
-- d. de wijze waarop tot de vaststelling wordt gekomen of de experimenten zodanig geslaagd zijn, dat de voorschriften waarvan bij wege van deze experimenten is afgeweken, zouden moeten worden gewijzigd.
-
-#### § 3. Vergoedingen voor reis- en verblijfkosten
-
-#### § 4. Vergoedingen voor afschriften, uittreksels, inlichtingen en het uitbrengen van exploiten
-
-#### § 5. Diverse bepalingen; buitengewone kosten, niet voorziene kosten en omzetbelasting
-
-#### § 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
