@@ -4,7 +4,7 @@ identifier: "BWBR0002099"
 country: "nl"
 rank: "wet"
 publication_date: "2013-10-01"
-last_updated: "2000-10-01"
+last_updated: "2003-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002099"
 soort: "wet"
@@ -50,37 +50,31 @@ De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WE
 
 1. De bepalingen van deze wet zijn van toepassing op de misdrijven, in geval van oorlog begaan of eerst in geval van oorlog strafbaar, welke zijn omschreven in:
 
-- 1°. een der [Titels I](onbekend) en [II van het Tweede Boek van het Wetboek van Strafrecht](onbekend);
+- 1°. een der [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=I) en [II van het Tweede Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=II);
 
 - 2°. het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869);
 
-- 3°. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2000-10-01&g=2000-10-01)-[9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01) van deze wet;
+- 3°. de [artikelen 4 tot en met 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2003-10-01&g=2003-10-01);
 
-- 4°. de [artikelen 1 en 2 van de Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453&artikel=1);
+- 4°. de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als in dit artikel bedoeld.
 
-- 5°. de [artikelen 1 en 2 van de Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409&artikel=1).
-
-- 6°. de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als in dit artikel bedoeld.
-
-2. In geval van een gewapend conflict, dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale orde en veiligheid, zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2000-10-01&g=2000-10-01)-[9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01) van overeenkomstige toepassing en kunnen Wij bij algemene maatregel van bestuur bepalen, dat de overige bepalingen van deze wet geheel of ten dele van toepassing zullen zijn.
+2. In geval van een gewapend conflict, dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale orde en veiligheid, zijn de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2003-10-01&g=2003-10-01) van overeenkomstige toepassing en kunnen Wij bij algemene maatregel van bestuur bepalen, dat de overige bepalingen van deze wet geheel of ten dele van toepassing zullen zijn.
 
 3. Onder oorlog wordt begrepen burgeroorlog.
 
 ##### Artikel 2
 
-Voor zover in deze wet niet anders is bepaald, vinden ten aanzien van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01) bedoelde misdrijven de bepalingen van het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) en die ter uitvoering daarvan alsmede, behoudens de uitzonderingen bij dat Wetboek vastgesteld, de bepalingen van het gemene strafrecht toepassing, met dien verstande, dat waar in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) of in de bepalingen ter uitvoering daarvan gesproken wordt van de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), of van in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen, daaronder worden begrepen de bij deze wet aangewezen gerechten onderscheidenlijk de personen vallende onder de rechtsmacht van deze gerechten.
+Voor zover in deze wet niet anders is bepaald, vinden ten aanzien van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01) bedoelde misdrijven de bepalingen van het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) en die ter uitvoering daarvan alsmede, behoudens de uitzonderingen bij dat Wetboek vastgesteld, de bepalingen van het gemene strafrecht toepassing, met dien verstande, dat waar in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) of in de bepalingen ter uitvoering daarvan gesproken wordt van de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), of van in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen, daaronder worden begrepen de bij deze wet aangewezen gerechten onderscheidenlijk de personen vallende onder de rechtsmacht van deze gerechten.
 
 ##### Artikel 3
 
 Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) bepaalde is de Nederlandse strafwet toepasselijk:
 
-- 1°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2000-10-01&g=2000-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01);
+- 1°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2003-10-01&g=2003-10-01)-[7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=7&z=2003-10-01&g=2003-10-01), indien dit feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlands rechtspersoon of indien enig Nederlands belang daardoor is of kon worden geschaad;
 
-- 2°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2000-10-01&g=2000-10-01)-[7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=7&z=2000-10-01&g=2000-10-01) van deze wet dan wel in de [artikelen 1 en 2 van de Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453&artikel=1), indien dit feit is gepleegd tegen of met betrekking tot een Nederlander of een Nederlands rechtspersoon of indien enig Nederlands belang daardoor is of kon worden geschaad;
+- 2°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, omschreven in een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als hiervoor onder 1°. bedoeld;
 
-- 3°. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, omschreven in een der [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) en [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het strafbare feit of het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als hiervoor onder 1°. en 2°. bedoeld;
-
-- 4°. op de Nederlander, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01) bedoeld.
+- 3°. op de Nederlander, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01) bedoeld.
 
 ##### Artikel 4
 
@@ -106,59 +100,31 @@ Hij die in geval van oorlog opzettelijk gebruik maakt of dreigt te maken van mac
 
 ##### Artikel 8
 
-1. Hij die zich schuldig maakt aan schending van de wetten en gebruiken van de oorlog, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
-
-2. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd:
-
-- 1°. indien van het feit de dood of zwaar lichamelijk letsel van een ander te duchten is;
-
-- 2°. indien het feit een onmenselijke behandeling inhoudt;
-
-- 3°. indien het feit inhoudt het een ander dwingen iets te doen, niet te doen of te dulden;
-
-- 4°. indien het feit plundering inhoudt.
-
-3. Levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren, of geldboete van de vijfde categorie wordt opgelegd:
-
-- 1°. indien het feit de dood of zwaar lichamelijk letsel van een ander tengevolge heeft dan wel verkrachting inhoudt;
-
-- 2°. indien het feit inhoudt geweldpleging met verenigde krachten tegen een of meer personen dan wel geweldpleging tegen een dode, zieke of gewonde;
-
-- 3°. indien het feit inhoudt het met verenigde krachten vernielen, beschadigen, onbruikbaar maken of wegmaken van enig goed, dat geheel of ten dele aan een ander toebehoort;
-
-- 4°. indien het feit, in het voorgaande lid bedoeld onder 3° of 4°, wordt gepleegd met verenigde krachten;
-
-- 5°. indien het feit uiting is van een politiek van stelselmatige terreur of wederrechtelijk optreden tegen de gehele bevolking of een bepaalde groep daarvan;
-
-- 6°. indien het feit inhoudt een schending van een gegeven belofte, of een schending van een met de tegenpartij als zodanig gesloten overeenkomst;
-
-- 7°. indien het feit inhoudt misbruik van een door de wetten en gebruiken van de oorlog beschermde vlag of teken dan wel van de militaire onderscheidingstekenen of de uniform van de tegenpartij.
+Vervallen
 
 ##### Artikel 9
 
-Met gelijke straf als gesteld op de in het voorgaande artikel bedoelde feiten wordt gestraft hij die opzettelijk toelaat, dat een aan hem ondergeschikte een zodanig feit begaat.
+Vervallen
 
 ##### Artikel 10
 
-1. Ten aanzien van de feiten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2000-10-01&g=2000-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01), zijn de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=42) en [43 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=43) niet van toepassing.
-
-2. Ten aanzien van de feiten, bedoeld in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2000-10-01&g=2000-10-01), en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01) omschreven feiten, voor zover die met de eerstgenoemde verband houden, zijn de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) en [76 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) niet van toepassing.
+Vervallen
 
 ##### Artikel 10a
 
-Bij veroordeling tot een gevangenisstraf van tenminste een jaar wegens een der in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2000-10-01&g=2000-10-01)-[9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01) bedoelde feiten kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
+Bij veroordeling tot een gevangenisstraf van tenminste een jaar wegens een der in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2003-10-01&g=2003-10-01) bedoelde feiten kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
 ##### Artikel 11
 
-De bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2000-10-01&g=2000-10-01)-[9](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=9&z=2000-10-01&g=2000-10-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
+De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2003-10-01&g=2003-10-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
 
 ##### Artikel 12
 
-1. Van de misdrijven, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01) bedoeld, door wie ook begaan, nemen, behoudens het bepaalde in het tweede lid, kennis de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), de Hoge Raad daaronder begrepen, op de wijze als in die wet bepaald.
+1. Van de misdrijven, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01) bedoeld, door wie ook begaan, nemen, behoudens het bepaalde in het tweede lid, kennis de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), de Hoge Raad daaronder begrepen, op de wijze als in die wet bepaald.
 
-2. Indien de vervolging van een misdrijf als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01) bedoeld plaats vindt na een vijandelijke bezetting van het grondgebied van het rijk in Europa of van een gedeelte daarvan, nemen bijzondere rechtbanken en het Bijzondere Hooggerechtshof van deze misdrijven kennis met uitzondering van de misdrijven, door militairen begaan, bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01)., of omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) of [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2000-10-01&g=2000-10-01).
+2. Indien de vervolging van een misdrijf als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01) bedoeld plaats vindt na een vijandelijke bezetting van het grondgebied van het rijk in Europa of van een gedeelte daarvan, nemen bijzondere rechtbanken en het Bijzondere Hooggerechtshof van deze misdrijven kennis met uitzondering van de misdrijven, door militairen begaan, bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01)., of omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189) of [416-417**bis** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), indien het misdrijf, waarvan in die artikelen gesproken wordt, is een misdrijf als bedoeld in [artikel 1, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2003-10-01&g=2003-10-01).
 
-3. Wij kunnen bij algemene maatregel van bestuur voorzieningen treffen omtrent de overgang van zaken naar de bijzondere gerechten alsmede omtrent de voorbereiding van de vervolging voor de tijd, dat deze gerechten nog niet zijn ingesteld.
+3. Wij kunnen bij algemene maatregel van bestuur voorzieningen treffen omtrent de overgang van zaken naar de bijzondere gerechten alsmede omtrent de voorbereiding van de vervolging voor de tijd, dat deze gerechten nog niet zijn ingesteld. Daarbij kan tevens worden bepaald dat de bijzondere gerechten mede kennisnemen van misdrijven, omschreven in de [Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252).
 
 4. Wij behouden Ons voor bij algemene maatregel van bestuur te bepalen, dat wegens de geringe omvang of duur der bezetting het bepaalde in het tweede lid buiten toepassing zal blijven.
 
@@ -180,7 +146,7 @@ De bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=
 
 ##### Artikel 15
 
-1. Tot de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=14&z=2000-10-01&g=2000-10-01) genoemde betrekkingen met uitzondering van die van militair lid en plaatsvervangend militair lid zijn benoembaar:
+1. Tot de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=14&z=2003-10-01&g=2003-10-01) genoemde betrekkingen met uitzondering van die van militair lid en plaatsvervangend militair lid zijn benoembaar:
 
 - 1°. bij het Bijzondere Hooggerechtshof zij die benoembaar zijn onderscheidenlijk tot raadsheer in, advocaat-generaal bij of griffier of substituut-griffier van een gerechtshof;
 
@@ -208,11 +174,11 @@ De leden van de bijzondere colleges ontvangen een bezoldiging, die bij de bijzon
 
 1. Tegen de vonnissen der bijzondere rechtbanken staat geen hoger beroep open.
 
-2. Tegen deze vonnissen kan beroep in cassatie op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=19&z=2000-10-01&g=2000-10-01) worden ingesteld bij het Bijzondere Hooggerechtshof.
+2. Tegen deze vonnissen kan beroep in cassatie op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=19&z=2003-10-01&g=2003-10-01) worden ingesteld bij het Bijzondere Hooggerechtshof.
 
 ##### Artikel 19
 
-Onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=34&z=2000-10-01&g=2000-10-01) vernietigt het Bijzondere Hooggerechtshof de vonnissen der bijzondere rechtbanken:
+Onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=34&z=2003-10-01&g=2003-10-01) vernietigt het Bijzondere Hooggerechtshof de vonnissen der bijzondere rechtbanken:
 
 - 1°. wegens het verzuim van vormen, voorgeschreven op straffe van nietigheid, met dien verstande, dat een zodanig verzuim geen grond tot vernietiging behoeft te geven, indien redelijkerwijze moet worden aangenomen, dat de verdachte door het verzuim in zijn belangen niet is geschaad;
 
@@ -222,7 +188,7 @@ Onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 20
 
-De bepalingen van de [wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en het beleid der justitie, met uitzondering van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2000-10-01&g=2000-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=15&z=2000-10-01&g=2000-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=17&z=2000-10-01&g=2000-10-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=18&z=2000-10-01&g=2000-10-01), en de ter uitvoering van die wet gegeven regelingen zijn met betrekking tot de bijzondere colleges van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat ten aanzien van de bijzondere rechtbanken de bepalingen met betrekking tot de arrondissements-rechtbanken en ten aanzien van het Bijzondere Hooggerechtshof de bepalingen betreffende de Hoge Raad van overeenkomstige toepassing zijn, behoudens dat ten aanzien van het Bijzondere Hooggerechtshof aanbevelingen - voor vacatures waarin na de instelling moet worden voorzien - geschieden op de wijze als voor de gerechtshoven voorgeschreven.
+De bepalingen van de [wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en het beleid der justitie, met uitzondering van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2003-10-01&g=2003-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=15&z=2003-10-01&g=2003-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=17&z=2003-10-01&g=2003-10-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=18&z=2003-10-01&g=2003-10-01), en de ter uitvoering van die wet gegeven regelingen zijn met betrekking tot de bijzondere colleges van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat ten aanzien van de bijzondere rechtbanken de bepalingen met betrekking tot de arrondissements-rechtbanken en ten aanzien van het Bijzondere Hooggerechtshof de bepalingen betreffende de Hoge Raad van overeenkomstige toepassing zijn, behoudens dat ten aanzien van het Bijzondere Hooggerechtshof aanbevelingen - voor vacatures waarin na de instelling moet worden voorzien - geschieden op de wijze als voor de gerechtshoven voorgeschreven.
 
 ##### Artikel 21
 
@@ -276,13 +242,13 @@ Indien de rechter oordeelt, dat de zaak niet voor vereenvoudigde gerechtelijke a
 
 1. De beschikking behelst de naam van de rechter, de dag waarop de beschikking is genomen, en voor zover mogelijk naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.
 
-2. De beschikking bevat voorts de beslissing op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=26&z=2000-10-01&g=2000-10-01) genomen. In geval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbare feit volgens de wettelijke omschrijving ter zake waarvan de straf is opgelegd, met vermelding omstreeks welke tijd en waar ter plaatse het is begaan.
+2. De beschikking bevat voorts de beslissing op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=26&z=2003-10-01&g=2003-10-01) genomen. In geval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbare feit volgens de wettelijke omschrijving ter zake waarvan de straf is opgelegd, met vermelding omstreeks welke tijd en waar ter plaatse het is begaan.
 
 ##### Artikel 29
 
 1. De rechter doet de beschikking met de stukken onverwijld toekomen aan het openbaar ministerie.
 
-2. De beschikking wordt aan de verdachte in persoon betekend, tenzij zij is genomen en aan de verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de rechter van de uitreiking een acte op. Bij de uitreiking of betekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2000-10-01&g=2000-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=31&z=2000-10-01&g=2000-10-01).
+2. De beschikking wordt aan de verdachte in persoon betekend, tenzij zij is genomen en aan de verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de rechter van de uitreiking een acte op. Bij de uitreiking of betekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2003-10-01&g=2003-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=31&z=2003-10-01&g=2003-10-01).
 
 ##### Artikel 30
 
@@ -300,7 +266,7 @@ Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid o
 
 2. De beschikking vervalt eveneens, indien zij niet binnen drie maanden na haar dagtekening in afschrift uitgereikt of betekend is.
 
-3. Wanneer de termijn, in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2000-10-01&g=2000-10-01) genoemd, is verstreken zonder dat een verklaring van bezwaar is afgelegd, of zoveel eerder als zowel door het openbaar ministerie als door de verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van de bijzondere rechtbank, waartegen geen gewoon rechtsmiddel openstaat.
+3. Wanneer de termijn, in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2003-10-01&g=2003-10-01) genoemd, is verstreken zonder dat een verklaring van bezwaar is afgelegd, of zoveel eerder als zowel door het openbaar ministerie als door de verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van de bijzondere rechtbank, waartegen geen gewoon rechtsmiddel openstaat.
 
 ##### Artikel 33
 
@@ -314,7 +280,7 @@ Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid o
 
 ##### Artikel 34
 
-Indien een onderzoek als in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=33&z=2000-10-01&g=2000-10-01), bedoeld, mede leidt tot het oordeel, dat de verdachte niet strafbaar is, kan het Bijzondere Hooggerechtshof de verdachte van rechtsvervolging ontslaan.
+Indien een onderzoek als in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=33&z=2003-10-01&g=2003-10-01), bedoeld, mede leidt tot het oordeel, dat de verdachte niet strafbaar is, kan het Bijzondere Hooggerechtshof de verdachte van rechtsvervolging ontslaan.
 
 ##### Artikel 35
 
