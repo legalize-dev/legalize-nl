@@ -4,7 +4,7 @@ identifier: "BWBR0017882"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-24"
-last_updated: "2004-12-15"
+last_updated: "2005-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017882"
 soort: "ministeriele-regeling"
@@ -49,13 +49,13 @@ Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
 
 ##### Artikel 2
 
-1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2004-12-15).
+1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2005-01-14).
 
 2. De algemeen directeur is gemachtigd ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter, ten behoeve van het vertegenwoordigen van de minister in administratiefrechtelijke procedures bij de administratieve rechter en tot het afdoen van alle stukken die daarop betrekking hebben.
 
 ##### Artikel 3
 
-De algemeen directeur kan zijn bevoegdheid bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2004-12-15) ondermandateren en ter zake van zijn bevoegdheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=2&z=2005-01-14&g=2004-12-15) machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur kan zijn bevoegdheid bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2005-01-14) ondermandateren en ter zake van zijn bevoegdheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=2&z=2005-01-14&g=2005-01-14) machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
