@@ -150,35 +150,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2001.
 Deze regeling wordt aangehaald als ”Regeling tegemoetkoming onderwijsbijdrage en schoolkosten”.
 
 Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van deze plaatsing wordt melding gedaan in de Staatscourant.
-
-##### Artikel 2a.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
-
-1. Indien de Minister heeft besloten dat een studerende een uitreiziger is als bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
-
-2. Bij een aanvraag of wijziging in de studiefinanciering van een uitreiziger, controleert de Minister aan de hand van de gegevens uit de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), of de markering, bedoeld in het eerste lid, van toepassing is.
-
-3. De Minister verstrekt geen gegevens aan derden met betrekking tot de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), en de markering, bedoeld in het eerste lid.
-
-4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.22b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.22b van de wet.
-
-##### Artikel 2a.2. Gegevensuitwisseling met Inspectie SZW
-
-1. De Minister verstrekt gegevens als bedoeld in [artikel 9.5a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=9.5a), slechts op verzoek van de Inspectie SZW.
-
-2. In het verzoek, bedoeld in het eerste lid, duidt de Inspectie SZW de persoon waarop het verzoek betrekking heeft aan met het burgerservicenummer.
-
-3. De Minister verstrekt de benodigde gegevens via een beveiligde verbinding.
-
-4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
-
-##### Artikel 2a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging tegen verlies of onrechtmatige verwerking en hoe daarop wordt toegezien
-
-1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.22b), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
-
-2. De functionaris voor de gegevensbescherming, bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62), van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
-
-### Hoofdstuk 6. Overgangsbepaling
-
-### Hoofdstuk 7. Slotbepalingen
-
-Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van deze plaatsing wordt melding gedaan in de Staatscourant.
