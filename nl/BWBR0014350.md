@@ -149,17 +149,3 @@ Bij algemene maatregel van bestuur dan wel bij ministeriële regeling kunnen, zo
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen daarvan of leden van artikelen, bedoeld in onderdelen, verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel VIIa. Expertisebekostiging voor scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2)
-
-1. Het bevoegd gezag, dan wel de directe opvolger daarvan, waarvan op 31 juli 2003 een school behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) en een school voor voortgezet onderwijs uitging, welke school voor voortgezet onderwijs door dat bevoegd gezag per 1 augustus 2005 is opgeheven, ontvangt expertisebekostiging ten behoeve van de scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
-
-2. Het bevoegd gezag, dan wel de directe opvolger daarvan, waarvan op 31 juli 2003 een school voor voortgezet speciaal onderwijs behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2) uitging waarvoor ten behoeve van het in 1984 toegestane geïntegreerd VBO voor alle dove leerlingen aanvullende formatie voor vakonderwijs en taakrealisatie werd ontvangen, ontvangt expertisebekostiging ten behoeve van de scholen behorend tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
-
-3. Bij beschikking wordt door Onze Minister van Onderwijs, Cultuur en Wetenschap expertisebekostiging vastgesteld uitgaande van de bekostiging in het schooljaar 2002–2003 van de per 1 augustus 2005 door het in de eerste lid bedoelde bevoegde gezag opgeheven school voor het voortgezet onderwijs dan wel op basis van de aanvullende formatie bedoeld in het tweede lid in het schooljaar 2002–2003.
-
-4. Het bevoegd gezag van de school, bedoeld in [artikel 2, vierde lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), ten behoeve waarvan expertisebekostiging wordt vastgesteld, gebruikt de expertisebekostiging voor het voortgezet onderwijs.
-
-5. Het bevoegd gezag rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze Minister van Onderwijs, Cultuur en Wetenschap.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
