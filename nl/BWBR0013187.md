@@ -4,7 +4,7 @@ identifier: "BWBR0013187"
 country: "nl"
 rank: "wet"
 publication_date: "2004-03-01"
-last_updated: "2003-01-01"
+last_updated: "2004-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013187"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Artikel IV, onderdeel LA en M, lid 2 werken terug tot en met 1 januari 2001. Bij Stb. 2001/641 is in artikel VIII een bepaling betreffende de toepassing geformuleerd.
+
 ##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
@@ -64,7 +66,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-##### Artikel VI. Overgangsrecht in verband met [artikel I onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01)
+##### Artikel VI. Overgangsrecht in verband met [artikel I onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2004-03-01&g=2004-03-01)
 
 1. Met betrekking tot een onderneming die valt onder de werkingssfeer van [hoofdstuk 2, artikel I, onderdeel Dd, eerste lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend):
 
@@ -92,22 +94,22 @@ Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening 
 
 1. Deze wet treedt in werking met ingang van 1 januari 2002.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2004-03-01&g=2004-03-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdelen A](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) tot en met IA, onderdeel J, derde lid, en onderdelen L en M, [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=II&z=2003-01-01&g=2003-01-01), en [artikel IV, onderdeel B, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=VI&z=2003-01-01&g=2003-01-01) (overgangsbepaling in verband met [artikel I, onderdeel F)](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
+3. In afwijking van het eerste lid treden [artikel I, onderdelen A](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2004-03-01&g=2004-03-01) tot en met IA, onderdeel J, derde lid, en onderdelen L en M, [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=II&z=2004-03-01&g=2004-03-01), en [artikel IV, onderdeel B, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=VI&z=2004-03-01&g=2004-03-01) (overgangsbepaling in verband met [artikel I, onderdeel F)](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2004-03-01&g=2004-03-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
 
-4. [Artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) IB en L, vindt toepassing nadat artikel 10.1 van de Wet IB 2001 bij het begin van het kalenderjaar 2002 is toegepast.
+4. [Artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2004-03-01&g=2004-03-01) IB en L, vindt toepassing nadat artikel 10.1 van de Wet IB 2001 bij het begin van het kalenderjaar 2002 is toegepast.
 
-5. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=III&z=2003-01-01&g=2003-01-01), [artikel IV, onderdeel D, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), E, F, G, tweede lid, GA en H, met betrekking tot het daarin opgenomen onderdeel d van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op leningen die zijn aangegaan na 31 december 2001.
+5. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=III&z=2004-03-01&g=2004-03-01), [artikel IV, onderdeel D, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01), E, F, G, tweede lid, GA en H, met betrekking tot het daarin opgenomen onderdeel d van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op leningen die zijn aangegaan na 31 december 2001.
 
-6. De wijzigingen ingevolge [artikel IV, onderdeel G, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), en H, met betrekking tot het daarin opgenomen onderdeel c van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op vervreemdingen van deelnemingen na 31 december 2001.
+6. De wijzigingen ingevolge [artikel IV, onderdeel G, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01), en H, met betrekking tot het daarin opgenomen onderdeel c van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op vervreemdingen van deelnemingen na 31 december 2001.
 
-7. [Artikel IV, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01) LA en M, tweede lid, werkt terug tot en met 1 januari 2001.
+7. [Artikel IV, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01) LA en M, tweede lid, werkt terug tot en met 1 januari 2001.
 
-8. [Artikel IV, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2002.
+8. [Artikel IV, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01), vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2002.
 
-9. De wijzigingen ingevolge [artikel IV, onderdeel P, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), vinden op verzoek van de belastingplichtige toepassing met ingang van 1 januari 2001.
+9. De wijzigingen ingevolge [artikel IV, onderdeel P, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2004-03-01&g=2004-03-01), vinden op verzoek van de belastingplichtige toepassing met ingang van 1 januari 2001.
 
-10. De wijzigingen ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=V&z=2003-01-01&g=2003-01-01) vinden voor het eerst toepassing met betrekking tot besluiten tot het verstrekken van inlichtingen die worden genomen na 31 december 2001.
+10. De wijzigingen ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=V&z=2004-03-01&g=2004-03-01) vinden voor het eerst toepassing met betrekking tot besluiten tot het verstrekken van inlichtingen die worden genomen na 31 december 2001.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
