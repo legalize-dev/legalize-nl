@@ -4,7 +4,7 @@ identifier: "BWBR0007246"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2016-10-07"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007246"
 soort: "rijksKB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder wet: de [Rijksoctrooiwet 1995](https://wette
 
 ##### Artikel 2
 
-Het bureau stelt, met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01), de inrichting van het octrooiregister vast.
+Het bureau stelt, met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2003-01-01&g=2003-01-01), de inrichting van het octrooiregister vast.
 
 ##### Artikel 3
 
@@ -98,7 +98,7 @@ De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octroo
 
 - a. feiten, waarvan ingevolge de wet ambtshalve aantekening moet geschieden;
 
-- b. de indiening van andere dan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=4&z=2002-01-01&g=2002-01-01) bedoelde stukken, alsmede andere dan de onder **a** bedoelde feiten, waarvan de aantekening naar het oordeel van het bureau nodig is voor een duidelijk overzicht van al hetgeen geschiedt ten aanzien van aanvragen om octrooi en octrooien.
+- b. de indiening van andere dan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=4&z=2003-01-01&g=2003-01-01) bedoelde stukken, alsmede andere dan de onder **a** bedoelde feiten, waarvan de aantekening naar het oordeel van het bureau nodig is voor een duidelijk overzicht van al hetgeen geschiedt ten aanzien van aanvragen om octrooi en octrooien.
 
 2. De aantekening geschiedt door vermelding van de aard en de datum van het feit alsmede, indien het de aantekening van de indiening van een stuk betreft, van de aard van dat stuk.
 
@@ -106,11 +106,11 @@ De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octroo
 
 ##### Artikel 6
 
-1. Het bedrag dat krachtens [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23), van de wet bij de indiening van een verzoekschrift tot herstel in de vorige toestand moet worden betaald is € 161.
+1. Het bedrag dat krachtens [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23) bij de indiening van een verzoekschrift tot herstel in de vorige toestand moet worden betaald is € 161.
 
-2. Het bedrag, dat krachtens [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24), van de wet bij de indiening van een aanvrage om octrooi moet zijn betaald, is € 90.
+2. Het bedrag, dat krachtens [artikel 24, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24) bij de indiening van een aanvrage om octrooi moet zijn betaald, is € 90.
 
-3. Het bedrag dat krachtens de [artikelen 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=32), en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=37), van de wet, bij de indiening van een in die artikelen bedoeld verzoekschrift moet worden betaald is, indien het betreft:
+3. Het bedrag dat krachtens de [artikelen 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=32), en [37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=37), bij de indiening van een in die artikelen bedoeld verzoekschrift moet worden betaald is, indien het betreft:
 
 een verzoekschrift tot het instellen van een onderzoek naar de stand van de techniek, niet zijnde een nieuwheidsonderzoek van internationaal type: € 340;
 
@@ -120,33 +120,33 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een nieuwheidso
 
 5. De in het derde lid genoemde bedragen behoeven niet te worden betaald voor een verzoekschrift tot het instellen van een onderzoek naar de stand van de techniek, indien bij het verzoekschrift het resultaat wordt overgelegd van een reeds eerder door het Europees Octrooibureau of het bureau op een overeenkomstige octrooiaanvrage ingesteld overeenkomstig onderzoek naar de stand van techniek.
 
-6. Het bedrag dat krachtens [artikel 52, eerste, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52), van de wet moet worden betaald ter zake van de indiening van de vertaling in het Nederlands van een Europees octrooischrift of, indien het Europees octrooi in oppositie is gewijzigd, van een nieuw Europees octrooischrift, onderscheidenlijk van een verbeterde vertaling van een Europees octrooischrift of een nieuw Europees octrooischrift, is € 25.
+6. Het bedrag dat krachtens [artikel 52, eerste, zesde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) moet worden betaald ter zake van de indiening van de vertaling in het Nederlands van een Europees octrooischrift of, indien het Europees octrooi in oppositie is gewijzigd, van een nieuw Europees octrooischrift, onderscheidenlijk van een verbeterde vertaling van een Europees octrooischrift of een nieuw Europees octrooischrift, is € 25.
 
-7. Het bedrag dat krachtens [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61), van de wet ter zake van een octrooi onderscheidenlijk een Europees octrooi elk jaar moet worden betaald, is:
+7. Het bedrag dat krachtens [artikel 61, eerste of tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61), ter zake van een octrooi onderscheidenlijk een Europees octrooi elk jaar moet worden betaald, is:
 
-| de eerste maal | € 222 |
+| de eerste maal | € 242 |
 | --- | --- |
-| de tweede maal | € 256 |
-| de derde maal | € 292 |
-| de vierde maal | € 324 |
-| de vijfde maal | € 358 |
-| de zesde maal | € 406 |
-| de zevende maal | € 451 |
-| de achtste maal | € 496 |
-| de negende maal | € 533 |
-| de tiende maal | € 567 |
-| de elfde maal | € 601 |
-| de twaalfde maal | € 648 |
-| de dertiende maal | € 739 |
-| de veertiende maal | € 787 |
-| de vijftiende maal | € 821 |
-| de zestiende maal | € 855 |
-| de zeventiende maal | € 903 |
-| de achttiende en volgende malen | € 937. |
+| de tweede maal | € 279 |
+| de derde maal | € 318 |
+| de vierde maal | € 353 |
+| de vijfde maal | € 390 |
+| de zesde maal | € 443 |
+| de zevende maal | € 492 |
+| de achtste maal | € 541 |
+| de negende maal | € 581 |
+| de tiende maal | € 624 |
+| de elfde maal | € 667 |
+| de twaalfde maal | € 726 |
+| de dertiende maal | € 835 |
+| de veertiende maal | € 897 |
+| de vijftiende maal | € 944 |
+| de zestiende maal | € 992 |
+| de zeventiende maal | € 1 057 |
+| de achttiende en volgende malen | € 1 106 |
 
-8. De verhoging welke krachtens [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61), van de wet verschuldigd is bij betaling na de vervaldag is gelijk aan 50 procent van het overeenkomstig het zevende lid voor dat jaar te betalen bedrag.
+8. De verhoging welke krachtens [artikel 61, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61) verschuldigd is bij betaling na de vervaldag is gelijk aan 50 procent van het overeenkomstig het zevende lid voor dat jaar te betalen bedrag.
 
-9. De vergoeding die krachtens [artikel 84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=84), van de wet voor het in dat artikel bedoelde advies verschuldigd is, bedraagt € 340.
+9. De vergoeding die krachtens [artikel 84, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=84), voor het in dat artikel bedoelde advies verschuldigd is, bedraagt € 340.
 
 ##### Artikel 7
 
@@ -280,7 +280,7 @@ Een aanvrage om octrooi en de daarbij behorende beschrijving zijn bij voorkeur i
 
 ##### Artikel 15
 
-1. Aan het bureau aangeboden stukken betreffende een aanvrage om octrooi of een octrooi, niet zijnde stukken als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&z=2002-01-01&g=2002-01-01), worden in tweevoud ingediend en zijn voorzien van een opschrift, dat de naam en de woonplaats van de aanvrager dan wel de octrooihouder en het volgnummer van de aanvrage of het octrooi bevat.
+1. Aan het bureau aangeboden stukken betreffende een aanvrage om octrooi of een octrooi, niet zijnde stukken als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&z=2003-01-01&g=2003-01-01), worden in tweevoud ingediend en zijn voorzien van een opschrift, dat de naam en de woonplaats van de aanvrager dan wel de octrooihouder en het volgnummer van de aanvrage of het octrooi bevat.
 
 2. De in het eerste lid bedoelde stukken zijn duidelijk leesbaar en, behoudens de in [artikel 9, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=9) bedoelde stukken, in de Nederlandse taal gesteld of van een desverlangd gewaarmerkte Nederlandse vertaling voorzien. Het bureau is bevoegd op verzoek al dan niet tijdelijk ontheffing te verlenen van het voorschrift betreffende een Nederlandse vertaling.
 
@@ -306,11 +306,11 @@ De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachti
 
 2. Bij de aanvrage worden overgelegd:
 
-- a. een verklaring, inhoudende dat de aanvrager onherroepelijk toestemming verleent tot het overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2002-01-01&g=2002-01-01) verstrekken van monsters van de door hem gedeponeerde cultuur van het micro-organisme;
+- a. een verklaring, inhoudende dat de aanvrager onherroepelijk toestemming verleent tot het overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2003-01-01&g=2003-01-01) verstrekken van monsters van de door hem gedeponeerde cultuur van het micro-organisme;
 
 - b. een afschrift van het door de instelling, waarbij de cultuur van het micro-organisme is gedeponeerd, afgegeven ontvangstbewijs;
 
-- c. een afschrift van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=19&z=2002-01-01&g=2002-01-01) bedoelde verklaring.
+- c. een afschrift van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=19&z=2003-01-01&g=2003-01-01) bedoelde verklaring.
 
 3. Het in het eerste lid, onder **b**, bedoelde nummer en het in het tweede lid, onder **b**, bedoelde afschrift kunnen ook worden verstrekt binnen een termijn van een maand na het indienen van de aanvrage.
 
@@ -324,9 +324,9 @@ De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachti
 
 2. Voor een aanwijzing als bedoeld in het eerste lid, onder **b**, is vereist dat de desbetreffende instelling in staat en bereid is:
 
-- a. culturen van micro-organismen onder afgifte van een ontvangstbewijs in bewaring te nemen en, onder het treffen van de nodige maatregelen voor het behoud van hun eigenschappen en de veiligheid, in overeenstemming met [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=20&z=2002-01-01&g=2002-01-01), op te slaan;
+- a. culturen van micro-organismen onder afgifte van een ontvangstbewijs in bewaring te nemen en, onder het treffen van de nodige maatregelen voor het behoud van hun eigenschappen en de veiligheid, in overeenstemming met [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=20&z=2003-01-01&g=2003-01-01), op te slaan;
 
-- b. in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2002-01-01&g=2002-01-01) monsters te verstrekken van gedeponeerde culturen van micro-organismen;
+- b. in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2003-01-01&g=2003-01-01) monsters te verstrekken van gedeponeerde culturen van micro-organismen;
 
 - c. onverminderd het onder **a** en **b** bepaalde, gedeponeerde culturen van micro-organismen beschikbaar te houden en beschikbaar te stellen door daarvan monsters te verstrekken, gedurende een tijdvak van ten minste vijf jaar na het tijdstip waarop het laatste verzoek om verstrekking van een monster van de desbetreffende cultuur door de instelling werd ontvangen, en in ieder geval gedurende een tijdvak van ten minste 30 jaar na de datum van depot.
 
@@ -348,15 +348,15 @@ Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overh
 
 ##### Artikel 20
 
-1. De cultuur van een micro-organisme, die is gedeponeerd overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25), dient vanaf de dag van indiening van de desbetreffende aanvrage om octrooi beschikbaar te zijn voor het verstrekken van monsters overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2002-01-01&g=2002-01-01), tot de datum waarop vaststaat dat op die aanvrage geen octrooi verleend wordt, dan wel tot de datum waarop het op die aanvrage verleende octrooi zijn kracht verliest.
+1. De cultuur van een micro-organisme, die is gedeponeerd overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25), dient vanaf de dag van indiening van de desbetreffende aanvrage om octrooi beschikbaar te zijn voor het verstrekken van monsters overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2003-01-01&g=2003-01-01), tot de datum waarop vaststaat dat op die aanvrage geen octrooi verleend wordt, dan wel tot de datum waarop het op die aanvrage verleende octrooi zijn kracht verliest.
 
-2. Indien de cultuur van een micro-organisme ophoudt beschikbaar te zijn bij de instelling waarbij de cultuur is opgeslagen, omdat het micro-organisme niet meer levensvatbaar is of de instelling om andere redenen niet in staat is monsters van die cultuur af te geven en de cultuur niet is overgedragen aan een andere instelling als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2002-01-01&g=2002-01-01), waarbij zij toegankelijk blijft, wordt zij niettemin aangemerkt als beschikbaar te zijn gebleven, indien, binnen een termijn van drie maanden na de datum waarop de instelling of het bureau het niet meer beschikbaar zijn van de cultuur ter kennis heeft gebracht van de bewaargever daarvan, een nieuw depot van een cultuur van het desbetreffende micro-organisme wordt verricht en een afschrift van het door de betrokken instelling afgegeven ontvangstbewijs van het nieuwe depot, met aanduiding van het nummer van de octrooiaanvrage of van het octrooi, aan het bureau is toegezonden.
+2. Indien de cultuur van een micro-organisme ophoudt beschikbaar te zijn bij de instelling waarbij de cultuur is opgeslagen, omdat het micro-organisme niet meer levensvatbaar is of de instelling om andere redenen niet in staat is monsters van die cultuur af te geven en de cultuur niet is overgedragen aan een andere instelling als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2003-01-01&g=2003-01-01), waarbij zij toegankelijk blijft, wordt zij niettemin aangemerkt als beschikbaar te zijn gebleven, indien, binnen een termijn van drie maanden na de datum waarop de instelling of het bureau het niet meer beschikbaar zijn van de cultuur ter kennis heeft gebracht van de bewaargever daarvan, een nieuw depot van een cultuur van het desbetreffende micro-organisme wordt verricht en een afschrift van het door de betrokken instelling afgegeven ontvangstbewijs van het nieuwe depot, met aanduiding van het nummer van de octrooiaanvrage of van het octrooi, aan het bureau is toegezonden.
 
-3. Het tweede lid is van overeenkomstige toepassing, indien de instelling waarbij de cultuur is opgeslagen de uitoefening van haar functies ten aanzien van gedeponeerde culturen van micro-organismen heeft gestaakt of niet meer voldoet aan de omschrijving in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2002-01-01&g=2002-01-01), met dien verstande dat de in het tweede lid bedoelde termijn van drie maanden begint op de datum waarop dat feit is vermeld in het in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2002-01-01&g=2002-01-01), bedoelde blad.
+3. Het tweede lid is van overeenkomstige toepassing, indien de instelling waarbij de cultuur is opgeslagen de uitoefening van haar functies ten aanzien van gedeponeerde culturen van micro-organismen heeft gestaakt of niet meer voldoet aan de omschrijving in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2003-01-01&g=2003-01-01), met dien verstande dat de in het tweede lid bedoelde termijn van drie maanden begint op de datum waarop dat feit is vermeld in het in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2003-01-01&g=2003-01-01), bedoelde blad.
 
 4. Ieder nieuw depot als bedoeld in het tweede lid gaat vergezeld van een door de bewaargever ondertekende verklaring dat de opnieuw gedeponeerde cultuur van het micro-organisme gelijk is aan de oorspronkelijk gedeponeerde.
 
-5. Indien zich een feit als bedoeld in het derde lid voordoet, doet het bureau hiervan zo spoedig mogelijk mededeling in het in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2002-01-01&g=2002-01-01), bedoelde blad.
+5. Indien zich een feit als bedoeld in het derde lid voordoet, doet het bureau hiervan zo spoedig mogelijk mededeling in het in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2003-01-01&g=2003-01-01), bedoelde blad.
 
 ##### Artikel 21
 
@@ -382,7 +382,7 @@ Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overh
 
 ##### Artikel 22
 
-Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2002-01-01&g=2002-01-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=20&z=2002-01-01&g=2002-01-01), is geschied overeenkomstig het in [artikel 18, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2002-01-01&g=2002-01-01), bedoelde verdrag, zijn in geval van strijdigheid van de bepalingen van deze paragraaf met dat verdrag, de bepalingen van dat verdrag doorslaggevend.
+Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2003-01-01&g=2003-01-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=20&z=2003-01-01&g=2003-01-01), is geschied overeenkomstig het in [artikel 18, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2003-01-01&g=2003-01-01), bedoelde verdrag, zijn in geval van strijdigheid van de bepalingen van deze paragraaf met dat verdrag, de bepalingen van dat verdrag doorslaggevend.
 
 #### § 7. Europese octrooien
 
@@ -394,7 +394,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 3. Het ingevolge [artikel 52, eerste onderscheidenlijk zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) verschuldigde bedrag moet worden betaald voor afloop van de in het eerste onderscheidenlijk tweede lid bedoelde termijn van drie maanden.
 
-4. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&artikel=11&z=2002-01-01&g=2002-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&artikel=12&z=2002-01-01&g=2002-01-01) zijn van overeenkomstige toepassing op de in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) bedoelde vertalingen van Europese octrooischriften en nieuwe Europese octrooischriften en op de verbeterde vertalingen daarvan. Op elke bladzijde van deze vertalingen wordt het publikatienummer van de Europese octrooiaanvrage, die tot verlening van het Europees octrooi geleid heeft, vermeld.
+4. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&artikel=11&z=2003-01-01&g=2003-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&artikel=12&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op de in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) bedoelde vertalingen van Europese octrooischriften en nieuwe Europese octrooischriften en op de verbeterde vertalingen daarvan. Op elke bladzijde van deze vertalingen wordt het publikatienummer van de Europese octrooiaanvrage, die tot verlening van het Europees octrooi geleid heeft, vermeld.
 
 5. De waarmerking van de vertaling geschiedt in de vorm van een verklaring, dat de vertaling naar beste weten van de octrooigemachtigde volledig en getrouw is. Deze verklaring dient door de betrokken octrooigemachtigde te zijn ondertekend.
 
@@ -422,7 +422,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 ##### Artikel 25
 
-1. De uitgifte van een octrooischrift krachtens [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33), en [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=36) geschiedt met vermelding van de datum van de inschrijving van de aanvrage om octrooi in het octrooiregister, van de dagtekening van het octrooi en het nummer waaronder van de verlening daarvan aantekening in het octrooiregister is gedaan, van de termijn gedurende welke het octrooi van kracht blijft alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01) van dit besluit bedoelde gegevens en, in voorkomend geval, van het resultaat van het onderzoek naar de stand van de techniek.
+1. De uitgifte van een octrooischrift krachtens [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33), en [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=36) geschiedt met vermelding van de datum van de inschrijving van de aanvrage om octrooi in het octrooiregister, van de dagtekening van het octrooi en het nummer waaronder van de verlening daarvan aantekening in het octrooiregister is gedaan, van de termijn gedurende welke het octrooi van kracht blijft alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2003-01-01&g=2003-01-01) van dit besluit bedoelde gegevens en, in voorkomend geval, van het resultaat van het onderzoek naar de stand van de techniek.
 
 2. Aan het bureau voor de industriële eigendom in de Nederlandse Antillen wordt zo spoedig mogelijk een exemplaar van de in het eerste lid bedoelde stukken toegezonden.
 
@@ -434,7 +434,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 - b. uit het octrooiregister gewaarmerkte uittreksels verstrekt tegen betaling van een bedrag van € 9 voor iedere aanvrage om octrooi of octrooi, waarop het verlangde uittreksel betrekking heeft;
 
-- c. afschriften van in het octrooiregister ingeschreven stukken verstrekt tegen betaling van een door het bureau voor elk voor verstrekking in aanmerking komend afschrift te bepalen en in het in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2002-01-01&g=2002-01-01), genoemde Bijblad bekend te maken bedrag van ten hoogste € 1 per bladzijde.
+- c. afschriften van in het octrooiregister ingeschreven stukken verstrekt tegen betaling van een door het bureau voor elk voor verstrekking in aanmerking komend afschrift te bepalen en in het in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2003-01-01&g=2003-01-01), genoemde Bijblad bekend te maken bedrag van ten hoogste € 1 per bladzijde.
 
 2. Op verzoek worden aan daarop rechthebbenden bewijzen van het recht van voorrang, berustend op een in Nederland ingediende aanvrage om octrooi, verstrekt tegen betaling van een bedrag van € 9 per bewijs.
 
@@ -478,7 +478,7 @@ Het bedrag dat bij het indienen van de aanvrage om een certificaat moet worden b
 
 ##### Artikel 31
 
-Het bedrag dat elk jaar moet worden betaald voor de instandhouding van een certificaat is gelijk aan het bedrag dat volgens [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01), voor het basisoctrooi betaald zou moeten worden indien dit octrooi nog van kracht zou zijn. [Artikel 6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=2&artikel=6&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+Het bedrag dat elk jaar moet worden betaald voor de instandhouding van een certificaat is gelijk aan het bedrag dat volgens [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=2&artikel=6&z=2003-01-01&g=2003-01-01), voor het basisoctrooi betaald zou moeten worden indien dit octrooi nog van kracht zou zijn. [Artikel 6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=2&artikel=6&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Slotbepalingen
 
