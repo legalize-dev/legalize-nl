@@ -4,7 +4,7 @@ identifier: "BWBR0005730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2002-05-29"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005730"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Alvorens tot het treffen van een regeling wordt besloten, worden de volgende sta
 
 - c. onderzocht wordt of de gekozen doelstellingen kunnen worden bereikt door middel van het zelfregulerend vermogen in de betrokken sector of sectoren dan wel daarvoor overheidsinterventie noodzakelijk is;
 
-- d. indien overheidsinterventie noodzakelijk is, wordt onderzocht of de gekozen doelstellingen kunnen worden bereikt door aanpassing of beter gebruik van bestaande instrumenten dan wel, indien dit niet mogelijk blijkt, welke andere andere mogelijkheden daartoe bestaan;
+- d. indien overheidsinterventie noodzakelijk is, wordt onderzocht of de gekozen doelstellingen kunnen worden bereikt door aanpassing of beter gebruik van bestaande instrumenten dan wel, indien dit niet mogelijk blijkt, welke andere mogelijkheden daartoe bestaan;
 
 - e. de diverse mogelijkheden worden zorgvuldig tegen elkaar afgewogen.
 
@@ -106,9 +106,7 @@ Bij de afweging van verschillende mogelijkheden tot overheidsinterventie om een 
 
 ##### Aanwijzing 10
 
-1. Gestreefd wordt naar duidelijkheid en eenvoud van regelingen en naar een bestendig karakter daarvan.
-
-2. Indien een regeling bij wijze van experiment dient te worden ingevoerd, wordt het tijdelijk karakter in de regeling tot uitdrukking gebracht.
+Gestreefd wordt naar duidelijkheid en eenvoud van regelingen en naar een bestendig karakter daarvan.
 
 ##### Aanwijzing 11
 
@@ -172,7 +170,7 @@ Algemeen verbindende voorschriften worden vanwege het Rijk niet op andere wijze 
 
 - c. ministeriële regeling of
 
-- d. regeling van een zelfstandig bestuursorgaan met inachtneming van [aanwijzing 124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124f&z=2002-05-29&g=2002-05-29).
+- d. regeling van een zelfstandig bestuursorgaan met inachtneming van [aanwijzing 124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124f&z=2005-01-01&g=2005-01-01).
 
 ##### Aanwijzing 21
 
@@ -270,7 +268,7 @@ In een hogere regeling wordt in beginsel niet toegestaan dat deze bij lagere reg
 
 2. In uitzonderlijke situaties kan een algemene maatregel van bestuur reeds worden vastgesteld nadat het wetsvoorstel dat aan de algemene maatregel van bestuur ten grondslag ligt door de Tweede Kamer is aanvaard.
 
-3. Voor de inwerkingtredingsbepaling van een algemene maatregel van bestuur als bedoeld in het tweede lid, wordt het in [aanwijzing 180, eerste lid, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.15&aanwijzing=180&z=2002-05-29&g=2002-05-29), bedoelde model gebruikt.
+3. Voor de inwerkingtredingsbepaling van een algemene maatregel van bestuur als bedoeld in het tweede lid, wordt het in [aanwijzing 180, eerste lid, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.15&aanwijzing=180&z=2005-01-01&g=2005-01-01), bedoelde model gebruikt.
 
 4. Deze aanwijzing is van overeenkomstige toepassing op het vaststellen van een ministeriële regeling.
 
@@ -318,21 +316,17 @@ Met toepassing van voorwaardelijke delegatie wordt grote terughoudendheid betrac
 
 ##### Aanwijzing 43
 
-1. Voor voorwaardelijke delegatie wordt het volgende model gebruikt:
+Voor voorwaardelijke delegatie wordt het volgende model gebruikt:
 
 Een krachtens artikel ... vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp/de inwerkingtreding van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-2. In geval van voorwaardelijke delegatie wordt voor de regeling van de inwerkingtreding in de betrokken algemene maatregel van bestuur het volgende model gebruikt:
-
-**Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip (of andere formule als bedoeld in aanwijzing 180, eerste lid, onder B of C). Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de beide kamers der Staten-Generaal, en evenmin indien binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in dit besluit geregelde onderwerp/de inwerkingtreding van dit besluit bij wet wordt geregeld.**
-
 ##### Aanwijzing 43a
 
-1. Voor een mededeling of overlegging aan de beide kamers der Staten-Generaal als bedoeld in de [aanwijzingen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=37&z=2002-05-29&g=2002-05-29) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=43&z=2002-05-29&g=2002-05-29) wordt een zodanig tijdstip gekozen dat ten minste drie vierde deel van de in die aanwijzingen bedoelde termijn buiten een reces van de kamers valt.
+1. Voor een mededeling of overlegging aan de beide kamers der Staten-Generaal als bedoeld in de [aanwijzingen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=37&z=2005-01-01&g=2005-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=43&z=2005-01-01&g=2005-01-01) wordt een zodanig tijdstip gekozen dat ten minste drie vierde deel van de in die aanwijzingen bedoelde termijn buiten een reces van de kamers valt.
 
 2. Indien het eerste lid niet in acht genomen kan worden, wordt dit bij de mededeling of overlegging uitdrukkelijk en gemotiveerd vermeld.
 
-3. Indien bij een mededeling of overlegging als bedoeld in [aanwijzing 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=37&z=2002-05-29&g=2002-05-29) het eerste lid niet in acht kan worden genomen, wordt bovendien zo mogelijk een na het reces liggende datum genoemd vóór welke de kamers hun zienswijze kenbaar kunnen maken.
+3. Indien bij een mededeling of overlegging als bedoeld in [aanwijzing 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.4&aanwijzing=37&z=2005-01-01&g=2005-01-01) het eerste lid niet in acht kan worden genomen, wordt bovendien zo mogelijk een na het reces liggende datum genoemd vóór welke de kamers hun zienswijze kenbaar kunnen maken.
 
 4. Indien een verlenging van de termijn als bedoeld in het derde lid naar het oordeel van de betrokken minister niet mogelijk is, wordt dat uitdrukkelijk en gemotiveerd vermeld.
 
@@ -404,11 +398,11 @@ Voor de terminologie van een uitvoeringsregeling wordt aangesloten bij die van d
 
 ##### Aanwijzing 56
 
-1. Voor de terminologie in nationale regelingen wordt in beginsel aangesloten bij die van verwante communautaire en internationale regelingen.
+1. Voor de terminologie in nationale regelingen wordt in beginsel aangesloten bij die van verwante EU- en internationale regelingen.
 
 2. Hiervan kan worden afgeweken, indien:
 
-- a. de terminologie van de communautaire of internationale regelingen niet voldoende is gepreciseerd,
+- a. de terminologie van de EU- of internationale regelingen niet voldoende is gepreciseerd,
 
 - b. daardoor beter wordt aangesloten bij elders in nationale regelingen gehanteerde terminologie, of
 
@@ -432,7 +426,7 @@ Vreemde woorden of woorden die van vreemde talen zijn afgeleid, worden vermeden,
 
 Voorbeeld bij eerste lid: "verloskundige" in plaats van "vroedvrouw", "degene die" in plaats van "hij die".
 
-Toelichting bij eerste lid: In het bijzonder moet rekening worden gehouden met [aanwijzing 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=3&paragraaf=3.1&aanwijzing=54&z=2002-05-29&g=2002-05-29).
+Toelichting bij eerste lid: In het bijzonder moet rekening worden gehouden met [aanwijzing 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=3&paragraaf=3.1&aanwijzing=54&z=2005-01-01&g=2005-01-01).
 
 Toelichting bij tweede lid: Formuleringen als "werknemer/werkneemster", "werknemer(-ster)" of "hij/zij die" worden dus niet gebruikt.
 
@@ -462,7 +456,7 @@ Volzinnen of zinsneden worden niet tussen haakjes geplaatst.
 
 Het einde van een periode of reeks wordt aangeduid met de uitdrukking "**tot en met**".
 
-Voorbeeld: De [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=1&aanwijzing=5&z=2002-05-29&g=2002-05-29) zijn van overeenkomstige toepassing.
+Voorbeeld: De [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=1&aanwijzing=5&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing.
 
 ##### Aanwijzing 66
 
@@ -506,29 +500,35 @@ Voor meeteenheden worden de wettelijk vastgestelde aanduidingen gebruikt.
 
 ##### Aanwijzing 72a
 
-1. Indien uit een regeling rechten of verplichtingen van niet-financiële aard voortvloeien voor twee meerderjarigen die, anders dan als elkaars echtgenoot, met elkaar een nauwe persoonlijke betrekking onderhouden, worden zij aangeduid als: levensgezel.
+1. Indien uit een regeling rechten of verplichtingen van niet-financiële aard voortvloeien voor twee meerderjarigen die, anders dan als elkaars echtgenoot of geregistreerde partner, met elkaar een nauwe persoonlijke betrekking onderhouden, worden zij aangeduid als: levensgezel.
 
-2. Indien uit een regeling rechten of verplichtingen van financiële aard voortvloeien voor twee meerderjarigen die, anders dan als elkaars echtgenoot, een gezamenlijke huishouding voeren, worden zij aangeduid als: ongehuwd samenlevende.
+2. Indien uit een regeling rechten of verplichtingen van financiële aard voortvloeien voor twee meerderjarigen die, anders dan als elkaars echtgenoot of geregistreerde partner, een gezamenlijke huishouding voeren, worden zij aangeduid als: ongehuwd samenlevende.
 
 3. In een regeling als bedoeld in het tweede lid worden enkele begripsbepalingen opgenomen, waarvoor zoveel mogelijk het volgende model wordt gebruikt:
 
 - 1. In deze wet (dit besluit/deze regeling) (en de daarop berustende bepalingen) wordt verstaan onder ongehuwd samenlevende: de ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert (met uitzondering van bloedverwanten in de eerste graad).
 
-- 2. In het eerste lid wordt mede verstaan onder ongehuwd: duurzaam gescheiden levend van zijn echtgenoot.
+- 2. In het eerste lid wordt mede verstaan onder ongehuwd:
+
+- a. zonder geregistreerde partner;
+
+- b. duurzaam gescheiden levend van zijn echtgenoot.
 
 - 3. In het eerste lid wordt verstaan onder het voeren van een gezamenlijke huishouding de situatie waarin de betrokkenen hun hoofdverblijf hebben in dezelfde woning, en
 
-- a. zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins, of
+- a. zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins;
 
-- b. zij met elkaar gehuwd zijn geweest, of
+- b. zij met elkaar gehuwd zijn geweest;
 
-- c. zij eerder met elkaar ongehuwd samenlevend zijn geweest, of
+- c. zij elkaars geregistreerde partner zijn geweest;
 
-- d. de man het kind van de vrouw heeft erkend.
+- d. zij eerder met elkaar ongehuwd samenlevend zijn geweest, of
 
-- (4. Voor de toepassing van artikel ...../de artikelen ..... wordt een persoon eerst aangemerkt als ongehuwd samenlevende, indien hij gedurende ..... (aantal weken, maanden of jaren) een gezamenlijke huishouding heeft gevoerd.)
+- e. de man het kind van de vrouw heeft erkend.
 
-- (5. Voor de toepassing van artikel ..../de artikelen ..../deze wet (dit besluit/deze regeling) wordt een ongehuwd samenlevende gelijkgesteld met een echtgenoot.)
+- (4. Voor de toepassing van artikel .../de artikelen ... wordt een persoon eerst aangemerkt als ongehuwd samenlevende, indien hij gedurende ... (aantal weken, maanden of jaren) een gezamenlijke huishouding heeft gevoerd.)
+
+- (5. Voor de toepassing van artikel .../de artikelen .../deze wet (dit besluit/deze regeling) wordt een ongehuwd samenlevende gelijkgesteld met een echtgenoot of een geregistreerde partner.)
 
 #### § 3.2. Aanduiding van ministers en staatssecretarissen
 
@@ -550,7 +550,7 @@ Voorbeeld: Onze (de) Minister voor Ontwikkelingssamenwerking.
 
 ##### Aanwijzing 76
 
-De minister die de aangelegenheden betreffende de Nederlandse Antillen en Aruba behartigt, wordt aangeduid als "**Onze (de) Minister voor Nederlands-Antilliaanse en Arubaanse Zaken**".
+Vervallen
 
 ##### Aanwijzing 77
 
@@ -565,6 +565,8 @@ De minister die de aangelegenheden betreffende de Nederlandse Antillen en Aruba 
 1. Verwijzing naar andere bepalingen wordt vermeden, indien de toegankelijkheid van de regeling daardoor onnodig wordt geschaad.
 
 2. Verwijzing naar bepalingen die zelf een verwijzing inhouden en verwijzing naar latere bepalingen van de regeling worden bij voorkeur vermeden.
+
+3. In een regeling wordt niet verwezen naar een met name genoemde lagere regeling.
 
 ##### Aanwijzing 79
 
@@ -656,7 +658,7 @@ Een regeling zonder citeertitel wordt aangehaald overeenkomstig het volgende mod
 
 2. Bij verdragen met een citeertitel of daarmee vergelijkbare aanduiding kunnen datum en plaats van totstandkoming en het nummer van het **Tractatenblad** worden weggelaten.
 
-Voorbeelden bij tweede lid: Verdrag tot oprichting van de Europese Economische Gemeenschap, Verdrag tot instelling van de Benelux Economische Unie.
+Voorbeelden bij tweede lid: Verdrag tot oprichting van de Europese Gemeenschap, Verdrag tot instelling van de Benelux Economische Unie.
 
 ##### Aanwijzing 88a
 
@@ -690,11 +692,13 @@ Stb. ....; Stcrt. ...; Trb. ...
 
 ##### Aanwijzing 91
 
-1. Voor het **Publicatieblad van de Europese Gemeenschappen** wordt de afkorting **PbEG** gebezigd. Bij aanduiding van een nummer van het Publicatieblad gaat aan het nummer vooraf de aanduiding " **L**" (Legislatio) of "**C**" (Communicatio).
+1. Voor het **Publicatieblad van de Europese Unie** wordt de afkorting **PbEU** gebezigd. Bij aanduiding van een nummer van het Publicatieblad gaat aan het nummer vooraf de aanduiding " **L**" (Legislatio) of "**C**" (Communicatio).
 
 2. Indien het jaartal van het Publicatieblad in de aanduiding van de regeling zelf voorkomt, wordt dit in de aanduiding van de vindplaats weggelaten.
 
-Voorbeelden: **PbEG** 1987, L 54; **PbEG** L 379.
+Voorbeelden: **PbEU** 2003, L 54; **PbEU** L 379.
+
+Tot 1 februari 2003 werd het Publicatieblad aangeduid als ‘Publicatieblad van de Europese Gemeenschappen’. Indien naar nummers van vóór 1 februari 2003 wordt verwezen, wordt de afkorting PbEG gebezigd.
 
 ##### Aanwijzing 92
 
@@ -752,7 +756,7 @@ Een regeling is opgebouwd uit de volgende elementen:
 
 1. Het lichaam van een regeling wordt vervat in een of meer artikelen.
 
-2. De artikelen worden doorlopend genummerd met Arabische cijfers.
+2. De artikelen worden doorlopend genummerd met Arabische cijfers. In een omvangrijke regeling kunnen de artikelen per hoofdstuk worden genummerd, onder vermelding van het hoofdstuknummer voor het artikelnummer.
 
 3. Bestaat een regeling uit één artikel, dan wordt daarboven de aanduiding "**Enig artikel**" geplaatst.
 
@@ -780,7 +784,7 @@ De hierna genoemde bepalingen van een regeling worden in voorkomende gevallen in
 
 ##### Aanwijzing 98
 
-1. De in [aanwijzing 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=3&paragraaf=3.5&aanwijzing=97&z=2002-05-29&g=2002-05-29) bedoelde onderdelen van een regeling worden voorzien van een opschrift, waarin de inhoud van het onderdeel beknopt wordt aangeduid.
+1. De in [aanwijzing 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=3&paragraaf=3.5&aanwijzing=97&z=2005-01-01&g=2005-01-01) bedoelde onderdelen van een regeling worden voorzien van een opschrift, waarin de inhoud van het onderdeel beknopt wordt aangeduid.
 
 2. Artikelen worden slechts van een opschrift voorzien, indien dit voor de toegankelijkheid van de regeling noodzakelijk is.
 
@@ -930,7 +934,7 @@ De uitdrukking "**Gelezen**" wordt gebruikt bij verwijzing naar een ingediend ve
 
 ##### Aanwijzing 114
 
-1. De uitdrukking "**Gelet op**" verwijst naar de hogere regeling waarop de regelgevende bevoegdheid berust en in voorkomend geval naar de internationale of communautaire regeling ter uitvoering waarvan de regeling strekt.
+1. De uitdrukking "**Gelet op**" verwijst naar de hogere regeling waarop de regelgevende bevoegdheid berust en in voorkomend geval naar de internationale of EU-regeling ter uitvoering waarvan de regeling strekt.
 
 2. Bij uitvoering van een bepaling van een algemene maatregel van bestuur wordt alleen naar deze bepaling verwezen en niet tevens naar de wetsbepaling waarop de algemene maatregel van bestuur steunt.
 
@@ -988,7 +992,7 @@ Veelvuldige herhaling in een regeling van omvangrijke omschrijvingen wordt verme
 
 4. In een begripsbepaling worden geen aanhalingstekens gebruikt.
 
-#### § 4.5. Adviescolleges en interdepartementale commissies
+#### § 4.4. Begripsbepalingen
 
 ##### Aanwijzing 123a
 
@@ -1004,7 +1008,7 @@ In een regeling wordt niet voorzien in de verplichting advies te vragen over alg
 
 Bij de opneming in een regeling van bepalingen over een interdepartementale commissie worden de [Aanwijzingen inzake interdepartementale commissies](onbekend) in acht genomen.
 
-#### § 4.5a. Zelfstandige bestuursorganen
+#### § 4.5. Adviescolleges en interdepartementale commissies
 
 ##### Aanwijzing 124a
 
@@ -1020,7 +1024,7 @@ Onder zelfstandig bestuursorgaan wordt verstaan: bestuursorgaan op het niveau va
 
 - b. er voldoende waarborgen zijn dat de bestuurstaak onafhankelijk van de overige bestaande en toekomstige werkzaamheden van die organisatie kan worden uitgeoefend.
 
-3. In gevallen als bedoeld in het tweede lid, zijn uitsluitend de [aanwijzingen 124a](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124a&z=2002-05-29&g=2002-05-29), [124c](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124c&z=2002-05-29&g=2002-05-29), [124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124d&z=2002-05-29&g=2002-05-29), [124e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124e&z=2002-05-29&g=2002-05-29), [124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124f&z=2002-05-29&g=2002-05-29), [124g](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124g&z=2002-05-29&g=2002-05-29), [124i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124i&z=2002-05-29&g=2002-05-29), [124l, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124l&z=2002-05-29&g=2002-05-29), [124m](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124m&z=2002-05-29&g=2002-05-29), [124n, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124n&z=2002-05-29&g=2002-05-29), [124s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124s&z=2002-05-29&g=2002-05-29), [124t](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124t&z=2002-05-29&g=2002-05-29), [124x](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124x&z=2002-05-29&g=2002-05-29) en [124ij](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124ij&z=2002-05-29&g=2002-05-29) van toepassing.
+3. In gevallen als bedoeld in het tweede lid, zijn uitsluitend de [aanwijzingen 124a](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124a&z=2005-01-01&g=2005-01-01), [124c](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124c&z=2005-01-01&g=2005-01-01), [124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124d&z=2005-01-01&g=2005-01-01), [124e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124e&z=2005-01-01&g=2005-01-01), [124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124f&z=2005-01-01&g=2005-01-01), [124g](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124g&z=2005-01-01&g=2005-01-01), [124i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124i&z=2005-01-01&g=2005-01-01), [124l, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124l&z=2005-01-01&g=2005-01-01), [124m](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124m&z=2005-01-01&g=2005-01-01), [124n, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124n&z=2005-01-01&g=2005-01-01), [124s, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124s&z=2005-01-01&g=2005-01-01), [124t](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124t&z=2005-01-01&g=2005-01-01), [124x](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124x&z=2005-01-01&g=2005-01-01) en [124ij](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124ij&z=2005-01-01&g=2005-01-01) van toepassing.
 
 4. Uit de memorie van toelichting blijkt waarom wordt voorgesteld de privaatrechtelijke organisatie niet op andere wijze bij de bestuurstaak te betrekken.
 
@@ -1088,7 +1092,7 @@ Bij of in bijzondere gevallen krachtens de wet wordt een nauwkeurige omschrijvin
 
 2. In het bestuur worden geen aan een minister ondergeschikte ambtenaren benoemd.
 
-3. In een geval als bedoeld in [aanwijzing 124c, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124c&z=2002-05-29&g=2002-05-29), worden personen afkomstig van maatschappelijke organisaties in het bestuur benoemd, indien dat bijzonder aangewezen is in verband met de aard van de bestuurstaak.
+3. In een geval als bedoeld in [aanwijzing 124c, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124c&z=2005-01-01&g=2005-01-01), worden personen afkomstig van maatschappelijke organisaties in het bestuur benoemd, indien dat bijzonder aangewezen is in verband met de aard van de bestuurstaak.
 
 4. Deze aanwijzing is van overeenkomstige toepassing indien er naast het bestuur andere organen worden ingesteld.
 
@@ -1132,7 +1136,7 @@ In de wet wordt in beginsel een taakverwaarlozingsregeling opgenomen.
 
 1. In de instellingswet van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de rechtspersoon de Staat der Nederlanden wordt de wijze van bekostiging geregeld.
 
-2. Indien bekostiging niet uitsluitend geschiedt door heffingen en tarieven verdient het aanbeveling om [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing te verklaren. In dat geval kunnen de [aanwijzingen 124o](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124o&z=2002-05-29&g=2002-05-29) en [124p](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124p&z=2002-05-29&g=2002-05-29) buiten beschouwing blijven. Zo nodig worden bepaalde artikelen van die titel uitdrukkelijk uitgezonderd.
+2. Indien bekostiging niet uitsluitend geschiedt door heffingen en tarieven verdient het aanbeveling om [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing te verklaren. In dat geval kunnen de [aanwijzingen 124o](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124o&z=2005-01-01&g=2005-01-01) en [124p](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124p&z=2005-01-01&g=2005-01-01) buiten beschouwing blijven. Zo nodig worden bepaalde artikelen van die titel uitdrukkelijk uitgezonderd.
 
 3. Uit de memorie van toelichting blijkt hoe een zelfstandig bestuursorgaan ten behoeve van de door hem te verrichten bestuurstaken zal worden bekostigd.
 
@@ -1222,13 +1226,13 @@ Archiefbescheiden van ..... (naam dienstonderdeel) betreffende zaken die op de d
 
 - 1. In wettelijke procedures en rechtsgedingen, waarbij .....(naam dienstonderdeel) is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet .....(naam dienst waarvan het zelfstandig bestuursorgaan deel uitmaakt, dan wel zelfstandig bestuursorgaan) in de plaats van de Staat dan wel Onze Minister.
 
-- 2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan (naam dienstonderdeel), treedt .....(naam zelfstandig bestuursorgaan) op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister.
+- 2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan (naam dienstonderdeel), treedt .....(naam zelfstandig bestuursorgaan) op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister.
 
 ##### Aanwijzing 124x
 
-1. Over een ontwerp voor een regeling als bedoeld in [aanwijzing 124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124d&z=2002-05-29&g=2002-05-29) en een voornemen daartoe wordt in een vroegtijdig stadium overleg gepleegd met de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën.
+1. Over een ontwerp voor een regeling als bedoeld in [aanwijzing 124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.5a&aanwijzing=124d&z=2005-01-01&g=2005-01-01) en een voornemen daartoe wordt in een vroegtijdig stadium overleg gepleegd met de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën.
 
-2. Ingevolge [artikel 63 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=63) wordt hierover tevens overleg gevoerd met de Algemene Rekenkamer.
+2. Ingevolge [artikel 96 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=96) wordt hierover tevens overleg gevoerd met de Algemene Rekenkamer.
 
 ##### Aanwijzing 124ij
 
@@ -1312,7 +1316,7 @@ Voor het opnemen van een hardheidsclausule wordt het volgende model als uitgangs
 
 Indien de toepassing van een hardheidsclausule voor bepaalde gevallen voldoende is uitgekristalliseerd en daardoor een bestendig karakter heeft gekregen, wordt dit bestendige beleid in een algemeen verbindend voorschrift neergelegd.
 
-#### § 4.8. Toezicht en opsporing
+#### § 4.6B. Overgang van rechten krachten publiekrecht
 
 ##### Aanwijzing 132
 
@@ -1454,9 +1458,11 @@ In een bijzondere regeling wordt buiten de gevallen waarin een beroepsregeling r
 
 3. Naast de bestaande gerechten worden geen nieuwe organen met administratieve rechtspraak belast.
 
-##### Aanwijzing 151
+##### Aanwijzing 221
 
-Vervallen
+1. Bij de voordracht tot een voorstel van wet of een algemene maatregel van bestuur "mede namens" andere bewindspersonen wordt de memorie of de nota van toelichting bij voorkeur alleen door de eerstverantwoordelijke bewindspersoon ondertekend.
+
+2). De medebetrokkenheid van een of meer andere bewindspersonen wordt in dat geval in de toelichting tot uitdrukking gebracht.
 
 ##### Aanwijzing 152
 
@@ -1470,9 +1476,9 @@ Voor het openstellen van beroep bij het College van Beroep voor het bedrijfsleve
 
 2. In dat geval wordt tevens bepaald dat daarbij ook de voorafgaande besluiten kunnen worden betrokken.
 
-##### Aanwijzing 154
+##### Aanwijzing 224
 
-Vervallen
+Indien het voornemen bestaat in een regeling een omvangrijke wijziging aan te brengen, wordt overwogen de regeling in te trekken en een nieuwe regeling vast te stellen.
 
 ##### Aanwijzing 155
 
@@ -1490,11 +1496,11 @@ Tegen besluiten van bestuursorganen wordt, tenzij daarvoor een bijzondere reden 
 
 Achtereenvolgend administratief beroep wordt niet opengesteld.
 
-##### Aanwijzing 158
+##### Aanwijzing 228
 
-Vervallen
+Bij wijziging van een regeling kunnen bestaande bepalingen strekkende tot wijziging van andere regelingen en andere uitgewerkte bepalingen van die regeling worden geschrapt.
 
-##### Aanwijzing 159
+##### Aanwijzing 151
 
 Vervallen
 
@@ -1582,7 +1588,7 @@ In geval van nieuwe regels voor procedures en bevoegdheden van organen ter zake 
 
 Voorbeeld: zie [artikel 172 Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=172).
 
-#### § 4.15. Inwerkingtreding
+#### § 4.14. Overgangsrecht
 
 ##### Aanwijzing 172
 
@@ -1630,9 +1636,11 @@ Een koninklijk besluit tot vaststelling van de datum van inwerkingtreding van ee
 
 - B. **Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.**
 
-2. Het eerste lid is van overeenkomstige toepassing op algemene maatregelen van bestuur. Voor de inwerkingtredingsdatum van een algemene maatregel van bestuur kan in normale gevallen tevens het volgende model worden gebruikt:
+2. Het eerste lid is van overeenkomstige toepassing op algemene maatregelen van bestuur. Voor de inwerkingtredingsdatum van een algemene maatregel van bestuur kunnen in normale gevallen tevens de volgende modellen worden gebruikt:
 
-Dit besluit treedt in werking met ingang van 1 september 1989.
+- A. Dit besluit treedt in werking met ingang van 1 september 1989.
+
+- B. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Aanwijzing 179
 
@@ -1648,7 +1656,7 @@ Voor de inwerkingtredingsbepaling van ministeriële regelingen en overige algeme
 
 1. Indien dat noodzakelijk is, kan in bijzondere gevallen voor de inwerkingtredingsbepaling van een wet of een algemene maatregel van bestuur ook een van de volgende modellen worden gebruikt:
 
-**A**. **Deze wet/Dit besluit treedt in werking ... (als aanwijzing 178)** met uitzondering van de artikelen (hoofdstukken) ..., die in werking treden ... (als [aanwijzing 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.15&aanwijzing=178&z=2002-05-29&g=2002-05-29)).
+**A**. **Deze wet/Dit besluit treedt in werking ... (als aanwijzing 178)** met uitzondering van de artikelen (hoofdstukken) ..., die in werking treden ... (als [aanwijzing 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.15&aanwijzing=178&z=2005-01-01&g=2005-01-01)).
 
 **B**. Deze wet/Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de artikelen (hoofdstukken) ... in werking treden.
 
@@ -1750,11 +1758,11 @@ Een bij ministeriële regeling vastgesteld algemeen verbindend voorschrift kan b
 
 ##### Aanwijzing 189
 
-Op andere dan bij wet, algemene maatregel van bestuur of ministeriële regeling vanwege het Rijk vastgestelde algemeen verbindende voorschriften zijn de [aanwijzingen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=187&z=2002-05-29&g=2002-05-29) en [188](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=188&z=2002-05-29&g=2002-05-29) van overeenkomstige toepassing.
+Op andere dan bij wet, algemene maatregel van bestuur of ministeriële regeling vanwege het Rijk vastgestelde algemeen verbindende voorschriften zijn de [aanwijzingen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=187&z=2005-01-01&g=2005-01-01) en [188](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=188&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
 
 ##### Aanwijzing 190
 
-Indien in een regeling normen die niet van publiekrechtelijke aard zijn van toepassing worden verklaard, wordt, tenzij de kenbaarheid van deze normen voor alle betrokkenen voldoende verzekerd is, bekendmaking van de normen in de **Staatscourant** voorgeschreven. De [aanwijzingen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=187&z=2002-05-29&g=2002-05-29) en [188](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=188&z=2002-05-29&g=2002-05-29) zijn van overeenkomstige toepassing.
+Indien in een regeling normen die niet van publiekrechtelijke aard zijn van toepassing worden verklaard, wordt, tenzij de kenbaarheid van deze normen voor alle betrokkenen voldoende verzekerd is, bekendmaking van de normen in de **Staatscourant** voorgeschreven. De [aanwijzingen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=187&z=2005-01-01&g=2005-01-01) en [188](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.18&aanwijzing=188&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing.
 
 ##### Aanwijzing 191
 
@@ -1798,9 +1806,13 @@ Voor het slotformulier van een koninklijk (rijks)besluit van regelende aard, nie
 
 ##### Aanwijzing 196
 
-Voor het slotformulier van een ministeriële regeling wordt, indien bekendmaking in de **Staatscourant** geschiedt, het volgende model gebruikt:
+1. Voor het slotformulier van een ministeriële regeling wordt, indien bekendmaking in de **Staatscourant** geschiedt, het volgende model gebruikt:
 
 **Deze regeling zal (met de toelichting) in de Staatscourant** worden geplaatst.
+
+2. Indien sprake is van een ministeriële rijksregeling, wordt het volgende model gebruikt:
+
+Deze regeling zal (met de toelichting) in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
 ##### Aanwijzing 197
 
@@ -1822,7 +1834,7 @@ Deze regeling zal in de **Staatscourant** worden geplaatst met uitzondering van 
 
 ##### Aanwijzing 200
 
-De [aanwijzingen 196 tot en met 199](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.19&aanwijzing=196&z=2002-05-29&g=2002-05-29) zijn van overeenkomstige toepassing op andere regelingen dan wetten, algemene maatregelen van bestuur en ministeriële regelingen.
+De [aanwijzingen 196 tot en met 199](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=4&paragraaf=4.19&aanwijzing=196&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing op andere regelingen dan wetten, algemene maatregelen van bestuur en ministeriële regelingen.
 
 #### § 4.20. Ondertekening
 
@@ -1832,7 +1844,7 @@ De [aanwijzingen 196 tot en met 199](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 2. Een regeling wordt slechts ondertekend door de bewindspersoon of bewindspersonen die belast is of zijn met de behartiging van een belang dat de betrokken regeling beoogt te dienen.
 
-3. Indien de uitvoering van de regeling geheel of in belangrijke mate geschiedt door ambtenaren die onder een andere dan een in het eerste lid bedoelde bewindspersoon ressorteren, wordt medeondertekening door die andere bewindspersoon overwogen. Hetzelfde geldt indien de regeling deel gaat uitmaken van een regeling die onder een andere bewindspersoon ressorteert.
+3. Indien de uitvoering van de regeling geheel of in belangrijke mate geschiedt door ambtenaren die ressorteren onder een andere bewindspersoon dan de ondertekenaar of ondertekenaars krachtens het tweede lid, wordt medeondertekening door die andere bewindspersoon overwogen. Hetzelfde geldt indien de regeling deel gaat uitmaken van een regeling die onder een andere bewindspersoon ressorteert.
 
 4. Een coördinerende minister kan in gevallen waarin hij niet primair verantwoordelijk is voor de regeling, medeondertekenen, indien die regeling in betekenende mate raakt aan het beleidsterrein waarvoor de coördinerende verantwoordelijkheid geldt.
 
@@ -1870,11 +1882,11 @@ De Minister-President tekent als "**De Minister-President, Minister van Algemene
 
 ##### Aanwijzing 207
 
-In zaken waarbij de Minister voor Nederlands-Antilliaanse en Arubaanse Zaken is betrokken, tekent die minister als zodanig.
+Vervallen
 
 ##### Aanwijzing 208
 
-Een minister die een andere minister bij tijdelijke afwezigheid vervangt, tekent als "**De Minister van ......, a.i.,**".
+Een minister die een andere minister bij tijdelijke afwezigheid vervangt, tekent als "**De Minister van ...... a.i.,**".
 
 ##### Aanwijzing 208a
 
@@ -1920,7 +1932,7 @@ De toelichting bevat een verantwoording van de regeling. Daarbij komen, voor zov
 
 - f. de wijze waarop recht is gedaan aan het primaat van de wetgever, alsmede een motivering van de keuze van de overheidslaag waaraan bevoegdheden zijn toegedeeld;
 
-- g. de verhouding tot andere wetgeving en tot bestaande en komende internationale en communautaire regelingen.
+- g. de verhouding tot andere wetgeving en tot bestaande en komende internationale en EU-regelingen.
 
 ##### Aanwijzing 213
 
@@ -1950,11 +1962,11 @@ De toelichting wordt niet gebruikt voor het stellen van nadere regels.
 
 ##### Aanwijzing 216
 
-1. Indien een wetsvoorstel leidt tot financiële gevolgen voor lagere openbare lichamen, wordt dit aangegeven in een afzonderlijk onderdeel van de memorie van toelichting. Daarbij wordt onder meer ingegaan op de uitvoering van [artikel 105, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=105), onderscheidenlijk [artikel 108, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108).
+1. Indien een wetsvoorstel leidt tot financiële gevolgen voor decentrale overheden, wordt dit aangegeven in een afzonderlijk onderdeel van de memorie van toelichting. Daarbij wordt onder meer ingegaan op de uitvoering van [artikel 105, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=105), onderscheidenlijk [artikel 108, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108) en [artikel 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=2).
 
 2. Tevens wordt aangegeven via welke bekostigingswijze de in het eerste lid bedoelde financiële gevolgen kunnen worden opgevangen.
 
-3. Indien een algemene maatregel van bestuur of een ministeriële regeling leidt tot financiële gevolgen voor lagere openbare lichamen, wordt daaraan zo nodig in de nota van toelichting, onderscheidenlijk in de toelichting aandacht geschonken.
+3. Indien een algemene maatregel van bestuur of een ministeriële regeling leidt tot financiële gevolgen voor decentrale overheden, wordt daaraan zo nodig in de nota van toelichting, onderscheidenlijk in de toelichting aandacht geschonken.
 
 ##### Aanwijzing 217
 
@@ -2052,15 +2064,9 @@ Bij wijziging van een regeling wordt de formule "**laatstelijk gewijzigd bij ...
 
 Bij wijziging van een bepaling wordt ten minste een gehele lees- of begripseenheid vervangen door een nieuwe lees- of begripseenheid.
 
-##### Aanwijzing 232
+##### Aanwijzing 154
 
-Het beëindigen van de gelding van een gehele regeling wordt aangeduid met het werkwoord "**intrekken**", het schrappen van een artikel of ander onderdeel van een regeling met het werkwoord " **vervallen**"
-
-Voorbeelden:
-
-- -. De Wet rampenplannen wordt ingetrokken.
-
-- -. Artikel 25, tweede lid, vervalt.
+Vervallen
 
 ##### Aanwijzing 233
 
@@ -2086,6 +2092,8 @@ Voorbeelden:
 
 2. Indien een nieuwe regeling tevens strekt tot wijziging van bestaande regelingen, worden ook de wijzigingsbepalingen genummerd met Arabische cijfers.
 
+3. In een omvangrijke aanpassings- of invoeringsregeling waarin regelingen van verschillende ministeries worden gewijzigd, kan voor een andere nummering worden gekozen.
+
 ##### Aanwijzing 235
 
 1. In een wijzigingsregeling en in slotbepalingen van een nieuwe regeling wordt voor iedere te wijzigen regeling een artikel gebruikt.
@@ -2104,15 +2112,13 @@ Het [Besluit Raad voor de Kunst 1977](onbekend) wordt als volgt gewijzigd:
 
 - B. De artikelen 5 en 6 vervallen.
 
-##### Aanwijzing 236
+##### Aanwijzing 158
 
-1. De nummering van bij wijziging ingevoegde artikelen geschiedt door toevoeging aan bestaande artikelnummers van **a**, **b** enzovoort.
+Vervallen
 
-2. Een eenmaal aangevangen wijze van nummering wordt voortgezet.
+##### Aanwijzing 159
 
-##### Aanwijzing 237
-
-Bij wijziging van regelingen waarvan de leden van de artikelen niet zijn genummerd, kan alsnog nummering plaatsvinden, maar alleen indien de leden van alle artikelen van een hoofdstuk, titel, afdeling of paragraaf worden genummerd.
+Vervallen
 
 ##### Aanwijzing 238
 
@@ -2148,6 +2154,8 @@ Bij wijziging van regelingen waarvan de leden van de artikelen niet zijn genumme
 
 Het tweede lid alsmede de aanduiding ’1.’ voor het eerste lid vervallen.
 
+7. Indien een lid of onderdeel in één wijzigingsregeling zowel wordt gewijzigd als vernummerd of anders geletterd, wordt dat lid of onderdeel ten behoeve van die wijziging aangeduid met de nieuwe nummering onderscheidenlijk lettering, met toevoeging van de vermelding ‘(nieuw)’.
+
 ##### Aanwijzing 239
 
 In een overgangsbepaling ter zake van een wijziging van een voorschrift wordt verwezen naar het gewijzigde voorschrift en niet naar de wijzigingsbepaling.
@@ -2176,9 +2184,9 @@ Intrekking van een regeling brengt mee dat de op die regeling gebaseerde uitvoer
 
 ##### Aanwijzing 244
 
-Uitgewerkte regelingen worden niet ingetrokken.
+1. Een regeling die terstond is uitgewerkt nadat zij in werking is getreden, wordt niet ingetrokken.
 
-Voorbeeld: de wetten inzake overdracht van beheer en onderhoud van waterstaatswerken.
+2. Evenmin wordt in een dergelijke regeling voorzien in het vervallen van de regeling.
 
 ##### Aanwijzing 245
 
@@ -2190,31 +2198,23 @@ Voorbeeld: de wetten inzake overdracht van beheer en onderhoud van waterstaatswe
 
 ##### Aanwijzing 246
 
-1. Indien bij een wijziging of bij achtereenvolgende wijzigingen een belangrijk of omvangrijk gedeelte van een regeling wordt gewijzigd, verdient het aanbeveling een integrale tekst van de regeling in haar gewijzigde vorm te publiceren.
+1. Na wijziging van een regeling wordt geen integrale tekst van die regeling in het Staatsblad of de Staatscourant geplaatst.
 
-2. Indien publicatie van de integrale tekst gewenst is, wordt daartoe een bepaling opgenomen in de wijzigingsregeling. Deze bepaling luidt in geval van een gewijzigde (rijks)wet of algemene maatregel van (rijks)bestuur overeenkomstig het volgende model:
+2. In afwijking van het eerste lid kan een integrale tekst worden geplaatst, indien het gewenst is tevens tot vernummering van de gehele gewijzigde regeling over te gaan, of de tekst van de gewijzigde regeling die in oude spelling is geformuleerd, over te brengen naar de geldende spelling. In die gevallen wordt daartoe een bepaling opgenomen in de wijzigingsregeling. Deze bepaling luidt overeenkomstig het volgende model:
 
-**De tekst van ...... (aanduiding van de regeling) wordt in het Staatsblad** (, het **Publicatieblad van de Nederlandse Antillen** en het **Afkondigingsblad van Aruba**) geplaatst.
+De tekst van ...... (aanduiding van de betrokken wet, algemene maatregel van bestuur of ministeriële regeling) wordt in het Staatsblad/de Staatscourant geplaatst.
 
-3. Deze bepaling luidt in geval van een gewijzigde ministeriële regeling overeenkomstig het volgende model:
+3. Ingeval van vernummering wordt aan het model, bedoeld in het tweede lid, toegevoegd:
 
-**De tekst van ...... (aanduiding van de regeling) wordt in de Staatscourant** geplaatst.
+Voor de plaatsing in het Staatsblad/de Staatscourant stelt Onze/de Minister (van ……) de nummering van de artikelen (, hoofdstukken en paragrafen) van …… (aanduiding van de betrokken regeling) opnieuw vast en brengt hij de in deze wet/dit besluit/deze regeling voorkomende aanhalingen van de artikelen (, hoofdstukken en paragrafen) met de nieuwe nummering in overeenstemming.
 
-4. Indien het gewenst is tevens tot vernummering van een gewijzigde (rijks)wet of algemene maatregel van (rijks)bestuur over te gaan, wordt aan het model, bedoeld in het tweede lid, toegevoegd:
+4. Ingeval van overbrenging in de geldende spelling wordt aan het model, bedoeld in het tweede lid, toegevoegd:
 
-**Voor de plaatsing in het Staatsblad** stelt Onze Minister (van ......) de nummering van de artikelen (, hoofdstukken en paragrafen) van ...... (aanduiding van de regeling) opnieuw vast en brengt hij de in deze wet/dit besluit voorkomende aanhalingen van de artikelen (, hoofdstukken en paragrafen) met de nieuwe nummering in overeenstemming.
+Voor de plaatsing in het Staatsblad/de Staatscourant wordt de tekst door Onze/de Minister (van ……) overgebracht in de geldende spelling.
 
 ##### Aanwijzing 247
 
-1. Publicatie van de integrale tekst van een gewijzigde regeling die in oude spelling is geformuleerd, geschiedt in de geldende spelling.
-
-2. In geval van een (rijks)wet of algemene maatregel van (rijks)bestuur wordt dit bepaald overeenkomstig het volgende model:
-
-**De tekst van ...... (aanduiding van de regeling) wordt in het Staatsblad** (, het **Publicatieblad van de Nederlandse Antillen** en het **Afkondigingsblad van Aruba**) geplaatst. Voor de plaatsing in het **Staatsblad** wordt deze door Onze Minister (van ......) overgebracht in de geldende spelling.
-
-3. In geval van een ministeriële regeling wordt dit bepaald overeenkomstig het volgende model:
-
-**De tekst van ...... (aanduiding van de regeling) wordt overgebracht in de geldende spelling en in de Staatscourant** geplaatst.
+Vervallen
 
 #### § 5.4. Wijziging van wetsvoorstellen
 
@@ -2222,7 +2222,7 @@ Voorbeeld: de wetten inzake overdracht van beheer en onderhoud van waterstaatswe
 
 1. Door de regering gewenste veranderingen in door haar ingediende voorstellen van wet krijgen de vorm van een nota van wijziging.
 
-2. Het opstellen van een nota van wijziging geschiedt overeenkomstig de [aanwijzingen 231 tot en met 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=5&paragraaf=5.1&aanwijzing=231&z=2002-05-29&g=2002-05-29) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=5&paragraaf=5.1&aanwijzing=236&z=2002-05-29&g=2002-05-29).
+2. Het opstellen van een nota van wijziging geschiedt overeenkomstig de [aanwijzingen 231 tot en met 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=5&paragraaf=5.1&aanwijzing=231&z=2005-01-01&g=2005-01-01) en [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=5&paragraaf=5.1&aanwijzing=236&z=2005-01-01&g=2005-01-01).
 
 3). In het opschrift worden een tweede, derde en volgende nota van wijziging als zodanig aangeduid.
 
@@ -2254,7 +2254,7 @@ Gelet op artikel ... (bepaling overeenkomstig het in het eerste lid gegeven voor
 
 **Enig artikel**
 
-**Overeenkomstig de bij dit besluit behorende bijlage wordt de nummering van de artikelen (, hoofdstukken en paragrafen) van de ... (citeertitel van de wet) opnieuw vastgesteld en worden de in die wet voorkomende aanhalingen van de artikelen (, hoofstukken en paragrafen) met de nieuwe nummering in overeenstemming gebracht.**
+**Overeenkomstig de bij dit besluit behorende bijlage wordt de nummering van de artikelen (, hoofdstukken en paragrafen) van de ... (citeertitel van de wet) opnieuw vastgesteld en worden de in die wet voorkomende aanhalingen van de artikelen (, hoofdstukken en paragrafen) met de nieuwe nummering in overeenstemming gebracht.**
 
 ##### Aanwijzing 252
 
@@ -2288,25 +2288,25 @@ Artikel I
 
 - b. ontwerpen van algemene maatregelen van bestuur;
 
-- c. ingrijpende nota’s van wijziging op een wetsvoorstel.
+- c. ingrijpende nota’s van wijziging op een wetsvoorstel;
+
+- d. een voorstel van wet of ontwerp van een algemene maatregel van bestuur en het nader rapport daarbij, ingeval het advies van de Raad van State daarop ingrijpende kritiek op inhoud of vormgeving bevat.
 
 2. Wegens de verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor het beheer van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) werkt het Ministerie van Justitie bij de constitutionele toetsing van wetgeving samen met het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 3. Wegens de verantwoordelijkheid van de Minister van Buitenlandse Zaken voor de eenheid van de uitleg van het internationale en Europese recht werkt het Ministerie van Justitie bij de internationaalrechtelijke en Europeesrechtelijke toetsing van wetgeving samen met het Ministerie van Buitenlandse Zaken.
 
+4. Het voorleggen, bedoeld in het eerste lid, geschiedt dusdanig tijdig, dat er voldoende ruimte is voor reëel overleg over alternatieve mogelijkheden, indien de Directie Wetgeving dat noodzakelijk acht.
+
 ##### Aanwijzing 255
 
-1. Het voorleggen als bedoeld in [aanwijzing 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.1&aanwijzing=254&z=2002-05-29&g=2002-05-29) geschiedt dusdanig tijdig, dat er voldoende ruimte is voor reëel overleg over alternatieve mogelijkheden, indien de Directie Wetgeving dat noodzakelijk acht.
-
-2. Bij omvangrijke of ingrijpende regelingen en bij regelingen die substantiële gevolgen hebben voor de belasting van het bestuurlijk of justitieel apparaat, wordt reeds in een vroeg stadium van de voorbereiding met de Directie Wetgeving contact opgenomen. Het contact wordt zo tijdig opgenomen, dat ook de opzet van de voorgenomen regeling nog zonder veel vertraging kan worden aangepast.
+Vervallen
 
 ##### Aanwijzing 256
 
-Ontwerp-regelingen worden in daarvoor in aanmerking komende gevallen, zo nodig door tussenkomst van het Ministerie van Justitie, tevens getoetst door:
+1. In de toelichting bij ontwerpregelingen worden door het eerstverantwoordelijke ministerie in daarvoor in aanmerking komende gevallen de gevolgen van de regeling voor het bedrijfsleven, het milieu en de uitvoerbaarheid en handhaafbaarheid gekwantificeerd.
 
-- a. het Ministerie van Economische Zaken op de gevolgen voor het bedrijfsleven, tenzij de betrokken tak van bedrijvigheid specifiek tot de zorg van een ander ministerie behoort;
-
-- b. het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties op de gevolgen voor lagere publiekrechtelijke lichamen.
+2. De wijze waarop de genoemde aspecten in de toelichting bij de regeling zijn weergegeven, wordt getoetst door de Ministeries van Economische Zaken, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Justitie.
 
 ##### Aanwijzing 257
 
@@ -2322,7 +2322,7 @@ Bij de voorbereiding van regelingen worden de onderdelen van andere ministeries 
 
 ##### Aanwijzing 260
 
-1. Bij de voorbereiding van regelingen die koninkrijksaangelegenheden betreffen, vindt overleg plaats met de kabinetten van de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba. Het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken wordt van contacten met de kabinetten van de Gevolmachtigde Ministers op de hoogte gehouden.
+1. Bij de voorbereiding van regelingen die koninkrijksaangelegenheden betreffen, vindt overleg plaats met de kabinetten van de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties wordt van contacten met de kabinetten van de Gevolmachtigde Ministers op de hoogte gehouden.
 
 2. Het eerste lid is eveneens van toepassing bij de voorbereiding van regelingen ten aanzien waarvan concordantie is voorgeschreven.
 
@@ -2330,17 +2330,17 @@ Bij de voorbereiding van regelingen worden de onderdelen van andere ministeries 
 
 Bij de aanhangigmaking van een wetsvoorstel of een ontwerp voor een algemene maatregel van bestuur bij de ministerraad worden de [Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden](https://wetten.overheid.nl/jci1.3:c:BWBR0005471) in acht genomen.
 
-#### § 6.1 a. Notificatie
+#### § 6.1. Voorbereiding en behandeling in de ministerraad
 
 ##### Aanwijzing 261a
 
-1. Bij de voorbereiding van regelingen beziet het voor de regeling eerstverantwoordelijke ministerie steeds of communautaire of andere internationale verplichtingen ertoe noodzaken het ontwerp van de regeling te notificeren aan een instelling van de Europese Unie of van een andere internationale organisatie.
+1. Bij de voorbereiding van regelingen beziet het voor de regeling eerstverantwoordelijke ministerie steeds of EU- of andere internationale verplichtingen ertoe noodzaken het ontwerp van de regeling te notificeren aan een instelling van de Europese Unie of van een andere internationale organisatie.
 
 2. Bij de bepaling van het tijdstip van vaststelling van de regeling wordt in voorkomend geval de voorgeschreven standstillperiode in acht genomen dan wel stilzwijgende of uitdrukkelijke goedkeuring van de desbetreffende instelling afgewacht.
 
 ##### Aanwijzing 261b
 
-1. Indien in een regeling voorschriften worden vastgesteld die ingevolge een communautaire of andere internationale verplichting in ontwerp zijn genotificeerd aan een instelling van de Europese Unie of van een andere internationale organisatie, wordt dat vermeld in het algemeen deel van de toelichting bij die regeling, onder verwijzing naar de desbetreffende communautaire of internationale verplichting.
+1. Indien in een regeling voorschriften worden vastgesteld die ingevolge een EU- of andere internationale verplichting in ontwerp zijn genotificeerd aan een instelling van de Europese Unie of van een andere internationale organisatie, wordt dat vermeld in het algemeen deel van de toelichting bij die regeling, onder verwijzing naar de desbetreffende EU- of internationale verplichting.
 
 2. Voor de vermelding wordt het volgende model als uitgangspunt genomen:
 
@@ -2402,7 +2402,7 @@ Van de adviezen die met het aanhangig maken van het voorstel van wet bij de Raad
 
 ##### Aanwijzing 270
 
-Bij de rechtstreekse toezending van stukken aan de Raad van State als bedoeld in [aanwijzing 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=269&z=2002-05-29&g=2002-05-29) wordt in een begeleidend memo de behandelend wetgevingsambtenaar vermeld, bij wie ambtenaren van de Raad van State desgewenst inlichtingen kunnen inwinnen. Voor dit memo wordt het volgende model gevolgd:
+Bij de rechtstreekse toezending van stukken aan de Raad van State als bedoeld in [aanwijzing 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=269&z=2005-01-01&g=2005-01-01) wordt in een begeleidend memo de behandelend wetgevingsambtenaar vermeld, bij wie ambtenaren van de Raad van State desgewenst inlichtingen kunnen inwinnen. Voor dit memo wordt het volgende model gevolgd:
 
 ##### Aanwijzing 271
 
@@ -2434,7 +2434,7 @@ Bij de rechtstreekse toezending van stukken aan de Raad van State als bedoeld in
 
 Het vragen van een spoedbehandeling wordt zoveel mogelijk beperkt tot gevallen waarin:
 
-- a. een implementatietermijn van internationale of communautaire regelgeving is of dreigt te worden overschreden;
+- a. een implementatietermijn van internationale of EU-regelgeving is of dreigt te worden overschreden;
 
 - b. een andere fatale termijn is of dreigt te worden overschreden;
 
@@ -2476,7 +2476,7 @@ Voor het nader rapport inzake een voorstel van wet wordt het volgende model gevo
 
 **Blijkens de mededeling van de Directeur van Uw kabinet van …, nr. …, machtigde Uwe Majesteit de Raad van State (van het Koninkrijk) zijn advies inzake het bovenvermelde voorstel van (rijks)wet rechtstreeks aan mij te doen toekomen. Dit advies, gedateerd …, nr. …, bied ik U hierbij aan.**
 
-**De Raad van State (van het Koninkrijk) kan zich met het voorstel van wet verenigen (of: bespreking van de bezwaren of opmerkingen). Ik moge U (, mede namens/in overeenstemming met/na overleg met mijn ambtsgenoot van …,) verzoeken het hierbij gevoegde (gewijzigde) voorstel van (rijks)wet en de (gewijzigde) memorie van toelichting aan de Tweede Kamer der Staten-Generaal (, de Staten van de Nederlandse Antillen en de Staten van Aruba) te zenden.**
+**Het voorstel geeft de Raad van State (van het Koninkrijk) geen aanleiding tot het maken van inhoudelijke opmerkingen (of: bespreking van de bezwaren of opmerkingen). Ik moge U (, mede namens/in overeenstemming met/na overleg met mijn ambtsgenoot van …,) verzoeken het hierbij gevoegde (gewijzigde) voorstel van (rijks)wet en de (gewijzigde) memorie van toelichting aan de Tweede Kamer der Staten-Generaal (, de Staten van de Nederlandse Antillen en de Staten van Aruba) te zenden.**
 
 **De Minister van …**
 
@@ -2486,9 +2486,9 @@ In het nader rapport aan de Koningin inzake een voorstel van wet wordt een gehel
 
 ##### Aanwijzing 275
 
-1. Indien op grond van [artikel 25**a**, vierde lid, onderdeel **b**, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=25a) publicatie van het advies van de Raad van State inzake een voorstel van wet achterwege blijft, wordt aan het begin van de memorie van toelichting in de marge de volgende zin opgenomen:
+1. Indien op grond van [artikel 25a, vierde lid, onderdeel b, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=25a) publicatie van het advies van de Raad van State inzake een voorstel van wet achterwege blijft, wordt aan het begin van de memorie van toelichting in de marge de volgende zin opgenomen:
 
-**Het advies van de Raad van State (van het Koninkrijk) wordt niet openbaar gemaakt, omdat het zonder meer instemmend luidt/uitsluitend opmerkingen van redactionele aard bevat (artikel 25a**, vierde lid, onderdeel **b**, van de [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367)).
+**Het advies van de Raad van State (van het Koninkrijk) wordt niet openbaar gemaakt, omdat het zonder meer instemmend luidt/uitsluitend opmerkingen van redactionele aard bevat**([artikel 25a, vierde lid, onderdeel b, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=25a)).
 
 ##### Aanwijzing 276
 
@@ -2510,7 +2510,7 @@ Daartoe gemachtigd door de ministerraad (van het Koninkrijk) moge ik U (, mede n
 
 2. Indien in een ingediend wetsvoorstel door de regering ingrijpende wijzigingen worden aangebracht, wordt de Raad van State over deze wijzigingen gehoord, tenzij dringende redenen zich daartegen verzetten.
 
-3). De [aanwijzingen 262 tot en met 276](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=262&z=2002-05-29&g=2002-05-29) zijn van overeenkomstige toepassing op de advisering door de Raad van State over een nota van wijziging.
+3). De [aanwijzingen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=262&z=2005-01-01&g=2005-01-01), [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=263&z=2005-01-01&g=2005-01-01), [265 tot en met 272a](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=265&z=2005-01-01&g=2005-01-01) en [274 tot en met 276a](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=274&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing op de advisering door de Raad van State over een nota van wijziging.
 
 ##### Aanwijzing 278
 
@@ -2518,9 +2518,9 @@ Over een bij amendement voorgestelde ingrijpende wijziging van een wetsvoorstel 
 
 ##### Aanwijzing 279
 
-1. De [aanwijzingen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=262&z=2002-05-29&g=2002-05-29), [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=263&z=2002-05-29&g=2002-05-29), [265 tot en met 272](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=265&z=2002-05-29&g=2002-05-29) en [274](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=274&z=2002-05-29&g=2002-05-29), [276](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=276&z=2002-05-29&g=2002-05-29) en [277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=277&z=2002-05-29&g=2002-05-29), zijn van overeenkomstige toepassing op de advisering door de Raad van State over ontwerpen van algemene maatregel van bestuur.
+1. De [aanwijzingen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=262&z=2005-01-01&g=2005-01-01), [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=263&z=2005-01-01&g=2005-01-01), [265 tot en met 272](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=265&z=2005-01-01&g=2005-01-01) en [274](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=274&z=2005-01-01&g=2005-01-01), [276](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=276&z=2005-01-01&g=2005-01-01) en [277, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=277&z=2005-01-01&g=2005-01-01), zijn van overeenkomstige toepassing op de advisering door de Raad van State over ontwerpen van algemene maatregel van bestuur.
 
-2. [Aanwijzing 275](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=275&z=2002-05-29&g=2002-05-29) is van overeenkomstige toepassing op de publicatie van het advies van de Raad van State bij een ontwerp van een algemene maatregel van bestuur, met dien verstande dat de daar genoemde zin in de marge van de laatste bladzijde van het besluit wordt opgenomen.
+2. [Aanwijzing 275](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=275&z=2005-01-01&g=2005-01-01) is van overeenkomstige toepassing op de publicatie van het advies van de Raad van State bij een ontwerp van een algemene maatregel van bestuur, met dien verstande dat de daar genoemde zin in de marge van de laatste bladzijde van het besluit wordt opgenomen.
 
 ##### Aanwijzing 280
 
@@ -2550,7 +2550,7 @@ Voor het nader rapport inzake het ontwerp van een algemene maatregel van bestuur
 
 **Blijkens de mededeling van de Directeur van Uw kabinet van ..., nr. ...., machtigde Uwe Majesteit de Raad van State (van het Koninkrijk) zijn advies inzake het bovenvermelde ontwerp van een algemene maatregel van (rijks)bestuur rechtstreeks aan mij te doen toekomen. Dit advies, gedateerd ..., nr. ..., bied ik U hierbij aan.**
 
-**De Raad van State (van het Koninkrijk) kan zich met het ontwerp verenigen (of: bespreking van de bezwaren of opmerkingen). Ik moge U hierbij (, mede namens/in overeenstemming met/na overleg met mijn ambtgenoot van ...,) het (gewijzigde) ontwerp-besluit en de (gewijzigde) nota van toelichting (wederom) doen toekomen en U verzoeken overeenkomstig dit ontwerp te besluiten.**
+**Het ontwerp geeft de Raad van State (van het Koninkrijk) geen aanleiding tot het maken van inhoudelijke opmerkingen (of: bespreking van de bezwaren of opmerkingen). Ik moge U hierbij (, mede namens/in overeenstemming met/na overleg met mijn ambtgenoot van ...,) het (gewijzigde) ontwerp-besluit en de (gewijzigde) nota van toelichting (wederom) doen toekomen en U verzoeken overeenkomstig dit ontwerp te besluiten.**
 
 **De Minister van ...**
 
@@ -2606,11 +2606,15 @@ Aan het Kabinet der Koningin worden met het oog op de bekrachtiging van een alge
 
 ##### Aanwijzing 284
 
-Het Kabinet der Koningin stelt een departementale contactambtenaar telefonisch op de hoogte van het tijdstip van indiening van een voorstel van wet. Met het oog daarop wordt, tenzij een vaste contactambtenaar is aangewezen, bij het nader rapport een begeleidend memo aan het Kabinet der Koningin gevoegd waarvoor het volgende model wordt gevolgd:
+1. Het Kabinet der Koningin stelt een departementale contactambtenaar telefonisch op de hoogte van het tijdstip van indiening van een voorstel van wet. Met het oog daarop wordt, tenzij een vaste contactambtenaar is aangewezen, bij het nader rapport een begeleidend memorandum aan het Kabinet der Koningin gevoegd waarvoor het volgende model wordt gevolgd:
+
+2. Indien om praktische redenen wordt afgezien van toezending van een stuk als bedoeld in [aanwijzing 283, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.3&aanwijzing=283&z=2005-01-01&g=2005-01-01), wordt aan het memorandum de volgende passage toegevoegd:
+
+Uit praktisch oogpunt is afgezien van het opstellen van een stuk waarin de teksten zijn opgenomen van die gedeelten uit het aan de Raad van State voorgelegde wetsvoorstel met memorie van toelichting die na voorlegging aan de Raad zijn gewijzigd. In plaats daarvan dient de gehele oorspronkelijke tekst ter inzage te worden gelegd bij het Centraal Informatiepunt van de Tweede Kamer.
 
 ##### Aanwijzing 285
 
-Door het ministerie van de eerste ondertekenaar van een wetsvoorstel wordt ervoor zorg gedragen dat op of kort na het moment van indiening van een voorstel, 35 afschriften daarvan bij de griffie van de Tweede Kamer worden bezorgd. In een begeleidend memo wordt de contactambtenaar vermeld. Voor dit memo wordt het volgende model gevolgd:
+De verplichting tot het toezenden van afschriften geldt niet indien het betrokken ministerie alle stukken (dus niet alleen wetgevingsstukken, maar ook nota's, brieven et cetera) op dezelfde dag waarop zij aan de Tweede Kamer worden gestuurd, tevens per e-mail aan de Tweede Kamer toezenden (zie het Draaiboek voor de wetgeving, nr. 47). Van stukken die niet elektronisch worden verzonden, dienen nog wel afschriften te worden toegezonden met overeenkomstige toepassing van de in deze aanwijzing opgenomen modelbrief. Voor dit memo wordt het volgende model gevolgd:
 
 ##### Aanwijzing 286
 
@@ -2644,7 +2648,7 @@ Voor overleg over de nummering van Kamerstukken en de vraag of (bijlagen bij) do
 
 ##### Aanwijzing 291
 
-De in [aanwijzing 268](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=268&z=2002-05-29&g=2002-05-29) bedoelde adviezen over voorstellen van wet worden aan de Tweede Kamer toegezonden.
+De in [aanwijzing 268](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.2&aanwijzing=268&z=2005-01-01&g=2005-01-01) bedoelde adviezen over voorstellen van wet worden aan de Tweede Kamer toegezonden.
 
 ##### Aanwijzing 292
 
@@ -2732,19 +2736,21 @@ Voor de brief aan de Koningin waarbij een minister een ontwerp van een koninklij
 
 ##### Aanwijzing 304
 
-Onder verdrag wordt verstaan: iedere op schrift gestelde overeenkomst die volgens volkenrechtelijke criteria voor de staat verbindend is.
+1. Onder verdrag wordt verstaan: iedere op schrift gestelde overeenkomst die volgens volkenrechtelijke criteria voor de staat verbindend is.
+
+2. In verdragen wordt het Koninkrijk der Nederlanden als zodanig aangeduid als partij bij het verdrag.
 
 ##### Aanwijzing 305
 
 1. De regeringen van de Nederlandse Antillen en Aruba worden in een zo vroeg mogelijk stadium betrokken bij de totstandbrenging van verdragen die deze landen kunnen raken en bij de ter zake te volgen procedures.
 
-2. De Afdeling Verdragen van de Dienst Juridische Zaken van het Ministerie van Buitenlandse Zaken onderhoudt de contacten hierover met de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba.
+2. De Afdeling Verdragen van de Directie Juridische Zaken van het Ministerie van Buitenlandse Zaken onderhoudt de contacten hierover met de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba.
 
 ##### Aanwijzing 306
 
-1. Over de voorbereiding en goedkeuring van verdragen, over het tot uitdrukking brengen van instemming door een verdrag gebonden te worden en over het voornemen een verdrag op te zeggen of al dan niet te verlengen, wordt met het oog op de coördinatie ter verzekering van een consistent verdragsbeleid in een zo vroeg mogelijk stadium contact gezocht met de Afdeling Verdragen van de Dienst Juridische Zaken.
+1. Over de voorbereiding en goedkeuring van verdragen, over het tot uitdrukking brengen van instemming door een verdrag gebonden te worden en over het voornemen een verdrag op te zeggen of al dan niet te verlengen, wordt met het oog op de coördinatie ter verzekering van een consistent verdragsbeleid in een zo vroeg mogelijk stadium contact gezocht met de Afdeling Verdragen van de Directie Juridische Zaken.
 
-2. In gevallen dat het initiatief met betrekking tot verdragen bij het Ministerie van Buitenlandse Zaken ligt, zoekt de Afdeling Verdragen van de Dienst Juridische Zaken op haar beurt in een zo vroeg mogelijk stadium daarover contact met eventuele andere betrokken ministeries.
+2. In gevallen dat het initiatief met betrekking tot verdragen bij het Ministerie van Buitenlandse Zaken ligt, zoekt de Afdeling Verdragen van de Directie Juridische Zaken op haar beurt in een zo vroeg mogelijk stadium daarover contact met eventuele andere betrokken ministeries.
 
 3. Over de voorbereiding en goedkeuring van verdragen, over het tot uitdrukking brengen van instemming door een verdrag gebonden te worden en over het voornemen een verdrag op te zeggen of al dan niet te verlengen, wordt eveneens contact gezocht met de onderdelen van andere ministeries die bemoeienis hebben met het onderwerp waarop het verdrag of een onderdeel daarvan betrekking heeft of met onderwerpen die door het verdrag worden geraakt.
 
@@ -2752,11 +2758,13 @@ Onder verdrag wordt verstaan: iedere op schrift gestelde overeenkomst die volgen
 
 1. Bij de voorbereiding van en de onderhandelingen over een verdrag wordt tijdig en zorgvuldig aandacht besteed aan de gevolgen voor de nationale wetgeving.
 
-2. De onderhandelingsdelegaties nemen in hun verslag datgene op wat van belang is voor de implementatie en voor de parlementaire goedkeuring.
+2. Zij die deelnemen aan de voorbereiding van of de onderhandelingen over een verdrag dragen er zorg voor dat de centrale wetgevingsafdelingen van de betrokken ministeries daarbij in een zo vroeg mogelijk stadium worden ingeschakeld.
+
+3. De onderhandelingsdelegaties nemen in hun verslag datgene op wat van belang is voor de implementatie en voor de parlementaire goedkeuring.
 
 ##### Aanwijzing 308
 
-De opstelling van de authentieke Nederlandse tekst van een verdrag of van de Nederlandse vertaling geschiedt door of onder verantwoordelijkheid van de Afdeling Verdragen van de Dienst Juridische Zaken.
+De opstelling van de authentieke Nederlandse tekst van een verdrag of van de Nederlandse vertaling geschiedt door of onder verantwoordelijkheid van de Afdeling Verdragen van de Directie Juridische Zaken.
 
 #### § 7.2. Voorbereiding en implementatie van besluiten van volkenrechtelijke organisaties
 
@@ -2804,7 +2812,7 @@ Voor een voorstel van (rijks)wet tot goedkeuring van een verdrag wordt het volge
 
 **Zo is het, dat Wij, de Raad van State (van het Koninkrijk) gehoord, en met gemeen overleg der Staten-Generaal, (de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde), hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:**
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=1&aanwijzing=1&z=2002-05-29&g=2002-05-29)
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=1&aanwijzing=1&z=2005-01-01&g=2005-01-01)
 
 **Het op … te … tot stand gekomen verdrag …, waarvan de … tekst (en de vertaling in het Nederlands) is (zijn) geplaatst in Tractatenblad …, wordt goedgekeurd voor Nederland / voor de Nederlandse Antillen/voor Aruba / voor het gehele Koninkrijk.**
 
@@ -2844,15 +2852,15 @@ Artikel 2 (3)
 
 ##### Aanwijzing 315
 
-Originele ondertekende exemplaren van bilaterale verdragen en gewaarmerkte afschriften van multilaterale verdragen dienen aan de Afdeling Verdragen van de Dienst Juridische Zaken te worden gezonden ter deponering in het archief der verdragen, dat door het Ministerie van Buitenlandse Zaken wordt beheerd.
+Originele ondertekende exemplaren van bilaterale verdragen en gewaarmerkte afschriften van multilaterale verdragen dienen aan de Afdeling Verdragen van de Directie Juridische Zaken te worden gezonden ter deponering in het archief der verdragen, dat door het Ministerie van Buitenlandse Zaken wordt beheerd.
 
 ##### Aanwijzing 316
 
-Teksten van besluiten van volkenrechtelijke organisaties en verdragsrechtelijke gegevens worden met het oog op de bekendmaking aan de Afdeling Verdragen van de Dienst Juridische Zaken toegezonden.
+Teksten van besluiten van volkenrechtelijke organisaties en verdragsrechtelijke gegevens worden met het oog op de bekendmaking aan de Afdeling Verdragen van de Directie Juridische Zaken toegezonden.
 
 ##### Aanwijzing 317
 
-Wanneer een verdrag is ondertekend, wordt overleg gevoerd met de Afdeling Verdragen van de Dienst Juridische Zaken over toezending van de tekst aan het parlement.
+Wanneer een verdrag is ondertekend, wordt overleg gevoerd met de Afdeling Verdragen van de Directie Juridische Zaken over toezending van de tekst aan het parlement.
 
 #### § 7.6. Advisering door de Raad van State
 
@@ -2936,7 +2944,7 @@ Indien ten aanzien van een ter stilzwijgende goedkeuring aan de Staten-Generaal 
 
 ##### Aanwijzing 322
 
-Indien zich in het in [aanwijzing 321](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=7&paragraaf=7.6&aanwijzing=321&z=2002-05-29&g=2002-05-29) bedoelde geval geen nieuwe omstandigheden hebben voorgedaan, wordt in de memorie van toelichting geen extra toelichting gegeven en wordt daarvoor het volgende model gevolgd:
+Indien zich in het in [aanwijzing 321](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=7&paragraaf=7.6&aanwijzing=321&z=2005-01-01&g=2005-01-01) bedoelde geval geen nieuwe omstandigheden hebben voorgedaan, wordt in de memorie van toelichting geen extra toelichting gegeven en wordt daarvoor het volgende model gevolgd:
 
 **Op ... (datum) gaven … (aantal) leden van de (Eerste)(Tweede) Kamer der Staten-Generaal, overeenkomstig artikel 5, eerste lid, van de Rijkswet goedkeuring en bekendmaking verdragen, de wens te kennen dat het op . . . te . . . tot stand gekomen Verdrag …, overgelegd aan de beide kamers der Staten-Generaal (en de Staten van de Nederlandse Antillen/Aruba) bij brieven van ..., Kamerstukken …, aan de uitdrukkelijke goedkeuring van de Staten-Generaal zal worden onderworpen. Het onderhavige voorstel van (rijks)wet strekt daartoe.**
 
@@ -2952,7 +2960,7 @@ Voor het nader rapport inzake stilzwijgende goedkeuring van een verdrag wordt he
 
 **Verdrag ... (vermelding van de naam van het verdrag met plaats en datum van sluiting)**
 
-**Blijkens de mededeling van de Directeur van Uw kabinet van ..., nr. ..., machtigde Uwe Majesteit de Raad van State (van het Koninkrijk) zijn advies inzake het bovenvermelde verdrag rechtstreeks aan mij te doen toekomen. Dit advies, gedateerd ..., nr. ..., bied ik U hierbij aan. De Raad van State (van het Koninkrijk) kan zich met het verdrag verenigen (of: bespreking van de bezwaren of opmerkingen).**
+**Blijkens de mededeling van de Directeur van Uw kabinet van ..., nr. ..., machtigde Uwe Majesteit de Raad van State (van het Koninkrijk) zijn advies inzake het bovenvermelde verdrag rechtstreeks aan mij te doen toekomen. Dit advies, gedateerd ..., nr. ..., bied ik U hierbij aan. Het verdrag geeft de Raad van State (van het Koninkrijk) geen aanleiding tot het maken van inhoudelijke opmerkingen (of: bespreking van de bezwaren of opmerkingen).**
 
 **Ik moge U (, mede namens/in overeenstemming met/na overleg met mijn ambtgenoot van ...,) verzoeken de Minister van Buitenlandse Zaken te machtigen gevolg te geven aan zijn voornemen het verdrag vergezeld van de (gewijzigde) toelichtende nota ter stilzwijgende goedkeuring over te leggen aan de Eerste en aan de Tweede Kamer der Staten-Generaal (en tevens over te leggen aan de Staten van de Nederlandse Antillen/Aruba).**
 
@@ -2976,7 +2984,7 @@ Aan het Kabinet der Koningin worden met het oog op de verkrijging van de machtig
 
 ##### Aanwijzing 325
 
-Aan het Kabinet van de Koningin worden met het oog op de indiening van een wetsvoorstel tot goedkeuring van een verdrag de stukken gezonden, bedoeld in [aanwijzing 283](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.3&aanwijzing=283&z=2002-05-29&g=2002-05-29), en voorts een exemplaar van het **Tractatenblad** met de tekst van het verdrag.
+Aan het Kabinet van de Koningin worden met het oog op de indiening van een wetsvoorstel tot goedkeuring van een verdrag de stukken gezonden, bedoeld in [aanwijzing 283](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=6&paragraaf=6.3&aanwijzing=283&z=2005-01-01&g=2005-01-01), en voorts een exemplaar van het **Tractatenblad** met de tekst van het verdrag.
 
 ##### Aanwijzing 326
 
@@ -3004,7 +3012,7 @@ Aan het Kabinet van de Koningin worden met het oog op de indiening van een wetsv
 
 ##### Aanwijzing 327
 
-Voordat de Minister van Buitenlandse Zaken, na verkregen parlementaire goedkeuring, de binding van het Koninkrijk aan een verdrag tot stand doet brengen, vergewist de Afdeling Verdragen van de Dienst Juridische Zaken zich ervan bij de medebetrokken ministeries en in voorkomend geval bij de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba dat er geen bezwaar bestaat tegen de totstandbrenging van de binding.
+Voordat de Minister van Buitenlandse Zaken, na verkregen parlementaire goedkeuring, de binding van het Koninkrijk aan een verdrag tot stand doet brengen, vergewist de Afdeling Verdragen van de Directie Juridische Zaken zich ervan bij de medebetrokken ministeries en in voorkomend geval bij de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba dat er geen bezwaar bestaat tegen de totstandbrenging van de binding.
 
 ##### Aanwijzing 327a
 
@@ -3022,23 +3030,25 @@ In dit hoofdstuk wordt verstaan onder implementatie: de uitvoering van een binde
 
 ##### Aanwijzing 329
 
-Bij de voorbereiding van communautaire regelgeving worden in acht genomen:
+Bij de voorbereiding van EU-regelgeving worden in acht genomen:
 
-- a. de in [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.1&z=2002-05-29&g=2002-05-29) opgenomen aanwijzingen inzake het gebruik van regelgeving;
+- a. de in [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.1&z=2005-01-01&g=2005-01-01) opgenomen aanwijzingen inzake het gebruik van regelgeving;
 
-- b. het interinstitutioneel akkoord van het Europees Parlement, de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen van 22 december 1998, nr. 1999/C73/01, betreffende de gemeenschappelijke richtsnoeren voor de redactionele kwaliteit van communautaire wetgeving (PbEG 1999, C 73).
+- b. het interinstitutioneel akkoord van het Europees Parlement, de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen van 22 december 1998, nr. 1999/C73/01, betreffende de gemeenschappelijke richtsnoeren voor de redactionele kwaliteit van EU-wetgeving (PbEG 1999, C 73;
+
+- c. de Aanwijzingen voor EG-notificatiebepalingen (Stcrt. 2000, 107).
 
 ##### Aanwijzing 330
 
-1. Zij die deelnemen aan de voorbereiding van of de onderhandelingen over communautaire regelgeving dragen er zorg voor dat de centrale wetgevingsafdelingen van de betrokken ministeries daarbij worden ingeschakeld.
+1. Zij die deelnemen aan de voorbereiding van of de onderhandelingen over EU-regelgeving dragen er zorg voor dat de centrale wetgevingsafdelingen van de betrokken ministeries daarbij worden ingeschakeld.
 
-2. De inschakeling vindt plaats in een zo vroeg mogelijk stadium, voor zover het EG-richtlijnen en EG-verordeningen betreft uiterlijk bij de invulling van het in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2002-05-29&g=2002-05-29) bedoelde formulier.
+2. De inschakeling vindt plaats in een zo vroeg mogelijk stadium, doch uiterlijk bij de invulling van het in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2005-01-01&g=2005-01-01) bedoelde formulier.
 
 ##### Aanwijzing 331
 
-1. Met betrekking tot elk aan Nederland toegezonden voorstel van de Commissie van de Europese Gemeenschappen voor een EG-richtlijn of EG-verordening vult het eerstverantwoordelijke ministerie op verzoek van de Werkgroep beoordeling nieuwe Commissievoorstellen het daarvoor bestemde formulier in.
+1. Met betrekking tot een aan Nederland toegezonden voorstel voor een EU-regeling vult het eerstverantwoordelijke ministerie op verzoek van de Werkgroep beoordeling nieuwe Commissievoorstellen het daarvoor bestemde formulier in.
 
-2. Indien meer ministeries bij de uitvoering van de richtlijn of verordening zijn betrokken, geschiedt de invulling in overeenstemming met die ministeries.
+2. Indien meer ministeries bij de uitvoering van de EU-regeling zijn betrokken, geschiedt de invulling in overeenstemming met die ministeries.
 
 3. De invulling geschiedt door of in overeenstemming met de centrale wetgevingsafdeling van het voor de implementatie eerst verantwoordelijke ministerie.
 
@@ -3046,35 +3056,41 @@ Bij de voorbereiding van communautaire regelgeving worden in acht genomen:
 
 ##### Aanwijzing 332
 
-Ten aanzien van de in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2002-05-29&g=2002-05-29) bedoelde voorstellen die naar het oordeel van de betrokken ministers substantiële consequenties zullen hebben voor het nationale recht, zendt de Minister van Buitenlandse Zaken maandelijks aan de Staten-Generaal de volgende gegevens zoals deze door het eerst verantwoordelijke ministerie zijn ingevuld op het in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2002-05-29&g=2002-05-29) bedoelde formulier:
+Ten aanzien van de in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2005-01-01&g=2005-01-01) bedoelde voorstellen die naar het oordeel van de betrokken ministers substantiële consequenties zullen hebben voor het nationale recht, zendt de Minister van Buitenlandse Zaken maandelijks aan de Staten-Generaal de volgende gegevens zoals deze door het eerst verantwoordelijke ministerie zijn ingevuld op het in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2005-01-01&g=2005-01-01) bedoelde formulier:
 
 - a. korte inhoud en doelstelling van het voorstel;
 
 - b. consequenties voor het nationale recht;
 
-- c. eventuele consequenties voor lagere openbare lichamen.
+- c. eventuele consequenties voor decentrale overheden.
 
 ##### Aanwijzing 333
 
-Bij nieuwe voorstellen van de Commissie van de Europese Gemeenschappen voor communautaire regelgeving wordt door de meest betrokken minister steeds bezien of er aanleiding is om ten behoeve van de bepaling van het Nederlandse standpunt adviescolleges en representatieve organisaties van belanghebbenden te raadplegen die de regering zou horen indien het regeringsvoorstellen betrof.
+Bij nieuwe voorstellen als bedoeld in [aanwijzing 331](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2005-01-01&g=2005-01-01) voor Directie regelgeving wordt door de meest betrokken minister steeds bezien of er aanleiding is om ten behoeve van de bepaling van het Nederlandse standpunt adviescolleges en representatieve organisaties van belanghebbenden te raadplegen die de regering zou horen indien het regeringsvoorstellen betrof.
 
 #### § 8.3. Procedures bij implementatie
 
 ##### Aanwijzing 334
 
-1. Indien een door de Raad van de Europese Unie vast te stellen richtlijn of verordening onderworpen is aan de procedure van artikel 251 of 252 EG en naar verwachting implementatie behoeft, legt het eerst verantwoordelijke ministerie binnen een maand nadat de Raad het gemeenschappelijk standpunt heeft vastgesteld een implementatieplan voor aan het implementatieoverleg.
+1. Indien uit een voorstel voor een EU-regeling blijkt dat binnen een in dat besluit voor te schrijven termijn implementatie nodig zal zijn, dient het eerstverantwoordelijke ministerie binnen twee maanden na bekendmaking door de Raad van de Europese Unie van het gemeenschappelijk standpunt of, indien geen gemeenschappelijk standpunt wordt vastgesteld, binnen twee maanden na bekendmaking van het besluit, een implementatieplan in bij de ICER-I. [Aanwijzing 331, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
 
-2. Het opstellen van het implementatieplan geschiedt aan de hand van een door het implementatieoverleg vastgesteld model. [Aanwijzing 331, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.2&aanwijzing=331&z=2002-05-29&g=2002-05-29), is van overeenkomstige toepassing.
+2. In een implementatieplan wordt zo gedetailleerd mogelijk aangegeven op welke wijze het betrokken besluit zal worden geïmplementeerd.
+
+3. Indien een gemeenschappelijk standpunt wordt vastgesteld waarbij de kans groot is dat het uiteindelijke besluit op voor de wijze van implementatie wezenlijke punten af zal wijken, bevat het implementatieplan in afwijking van het tweede lid ten aanzien van die punten de motivering van die inschatting en zo mogelijk een omschrijving op hoofdlijnen van de mogelijke alternatieven.
 
 ##### Aanwijzing 335
 
-Wanneer een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen tot stand is gekomen dat binnen een in dat besluit voorgeschreven termijn implementatie behoeft door middel van een wet respectievelijk een algemene maatregel van bestuur, wordt het voorstel daartoe in beginsel binnen een maand na de aanvang van die termijn bij de ministerraad aanhangig gemaakt.
+1. Indien voor implementatie van een EU-regeling een algemene maatregel van bestuur nodig is, wordt het ontwerp daarvoor ten minste negen maanden voor afloop van de implementatietermijn aan de ministerraad voorgelegd.
+
+2. Indien voor implementatie van een EU-regeling een wet nodig is, wordt een voorstel daarvoor ten minste 18 maanden voor afloop van de implementatietermijn aan de ministerraad voorgelegd.
+
+3. In afwijking van het eerste of het tweede lid wordt het ontwerp respectievelijk het voorstel zo snel mogelijk doch uiterlijk twee maanden na vaststelling van de EU-regeling aan de ministerraad voorgelegd, indien de implementatietermijn bij vaststelling korter is dan negen respectievelijk 18 maanden. Alsdan is [aanwijzing 334](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=8&paragraaf=8.3&aanwijzing=334&z=2005-01-01&g=2005-01-01) niet van toepassing.
 
 ##### Aanwijzing 336
 
 In beginsel wordt over het ontwerp van een implementatieregeling geen advies gevraagd of extern overleg gevoerd en wordt een zodanig ontwerp niet voorgepubliceerd, ter inzage gelegd of anderszins extern bekendgemaakt.
 
-#### § 8.4. Algemene uitgangspunten bij implementatie
+#### § 8.1. Begripsbepaling
 
 ##### Aanwijzing 337
 
@@ -3086,7 +3102,7 @@ Bij implementatie wordt zoveel mogelijk aangesloten bij instrumenten waarin de b
 
 ##### Aanwijzing 339
 
-Bij de afweging op welk niveau van regeling de implementatie dient plaats te vinden, komt, onverminderd de [aanwijzingen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.2&aanwijzing=23&z=2002-05-29&g=2002-05-29) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.2&aanwijzing=24&z=2002-05-29&g=2002-05-29), delegatie van regelgevende bevoegdheid eerder in aanmerking naarmate:
+Bij de afweging op welk niveau van regeling de implementatie dient plaats te vinden, komt, onverminderd de [aanwijzingen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.2&aanwijzing=23&z=2005-01-01&g=2005-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.2&aanwijzing=24&z=2005-01-01&g=2005-01-01), delegatie van regelgevende bevoegdheid eerder in aanmerking naarmate:
 
 - a. het te implementeren besluit de Nederlandse wetgever bij de uitvoering minder ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard;
 
@@ -3108,7 +3124,7 @@ Bij implementatie van een EG-verordening wordt steeds bezien of ontheffingsbepal
 
 ##### Aanwijzing 340b
 
-In nationale regelingen worden de instellingen, de besluiten en de lid-staten van de Europese Unie alsmede hun grondgebied als volgt aangeduid:
+1. In nationale regelingen worden de instellingen, de besluiten en de lid-staten van de Europese Unie alsmede hun grondgebied als volgt aangeduid:
 
 - a. de Raad van de Europese Unie;
 
@@ -3122,7 +3138,13 @@ In nationale regelingen worden de instellingen, de besluiten en de lid-staten va
 
 - f. lid-staten van de Europese Unie;
 
-- g. gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is.
+- g. gebieden waarop het [Verdrag betreffende de Europese Unie](onbekend) van toepassing is.
+
+2. Indien het EU-besluit tevens geldt voor de Europese Economische Ruimte (EER), worden in afwijking van het eerste lid, onder f en g, de betrokken staten respectievelijk hun grondgebied aangeduid als:
+
+- a. de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
+
+- b. de gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is.
 
 #### § 8.5. Vormgeving van regelingen met communautaire aspecten
 
@@ -3150,9 +3172,9 @@ Het verwijzen naar bepalingen van een communautair besluit zoals die met inbegri
 
 ##### Aanwijzing 344
 
-In de toelichting van een implementatieregeling wordt zo nauwkeurig mogelijk aangegeven hoe het desbetreffende communautaire besluit in de regeling is geïmplementeerd.
+De toelichting bij een implementatieregeling bevat een transponeringstabel waaruit blijkt of en hoe de afzonderlijke bepalingen van de EU-regeling zijn geïmplementeerd.
 
-#### § 8.6. Kennisgeving van (ontwerp-)implementatieregelingen aan de Commissie van de Europese Gemeenschappen
+#### § 8.4. Algemene uitgangspunten bij implementatie
 
 ##### Aanwijzing 345
 
@@ -3178,7 +3200,7 @@ Vervallen
 
 **Hierbij verzoek ik U een brief met de navolgende inhoud en bijlagen door te geleiden naar het Secretariaat-Generaal van de Commissie van de Europese Gemeenschappen.**
 
-**"Ter uitvoering van artikel ... van de verordening (EG) nr. .../richtlijn nr. .../.../EG van de Raad van de Europese Unie/het Europees Parlement en de Raad van de Europese Unie/de Commissie van de Europese Gemeenschappen van ... tot/betreffende ... (PbEG** L ...), deelt de Nederlandse regering U mede dat genoemde richtlijn/verordening volledig/gedeeltelijk is geïmplementeerd door middel van ..., gepubliceerd in ....
+**"Ter uitvoering van artikel ... van de verordening (EG) nr. .../richtlijn nr. .../.../EG van de Raad van de Europese Unie/het Europees Parlement en de Raad van de Europese Unie/de Commissie van de Europese Gemeenschappen van ... tot/betreffende ... (PbEU** L ...), deelt de Nederlandse regering U mede dat genoemde richtlijn/verordening volledig/gedeeltelijk is geïmplementeerd door middel van ..., gepubliceerd in ....
 
 **Een afschrift van de officiële publicatie van de desbetreffende regeling(en) (alsmede een transponeringstabel) is (zijn) bijgevoegd. Met de regeling(en) is naar de mening van de Nederlandse regering de betrokken verordening/richtlijn volledig/wat betreft de artikelen ... geïmplementeerd.".**
 
@@ -3194,4 +3216,240 @@ Indien een besluit van de Raad van de Europese Unie, van het Europees Parlement 
 
 - b. de bestaande nationale regelingen die reeds aan het te implementeren besluit voldoen;
 
-- c. de implementatietermijn.
+- c. de datum met ingang waarvan de te implementeren regeling in de Nederlandse rechtsorde van toepassing is.
+
+##### Aanwijzing 10a
+
+1. Indien het noodzakelijk is de mogelijkheid te bieden dat in een lagere regeling bij wijze van experiment van een hogere wordt afgeweken, wordt in de hogere regeling bepaald op welke onderdelen van de hogere regeling de mogelijkheid tot afwijking betrekking heeft. In de lagere regeling wordt vermeld van welke onderdelen van de hogere regeling wordt afgeweken.
+
+2. Van een wet in formele zin wordt slechts afgeweken bij algemene maatregel van bestuur. Voor zover de experimenteerregeling nadere gedetailleerde uitwerking behoeft, kan de delegatiegrondslag met inachtneming van [aanwijzing 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005730&hoofdstuk=2&paragraaf=2.3&aanwijzing=26&z=2005-01-01&g=2005-01-01) voorzien in subdelegatie.
+
+##### Aanwijzing 10b
+
+1. De wettelijke regeling die de grondslag biedt voor een experimentele regeling of een experiment bepaalt de maximale geldingsduur van de op basis daarvan vast te stellen experimentele regelingen of uit te voeren experimenten.
+
+2. In de toelichting bij een experimentele regeling wordt aangegeven hoe evaluatie van de regeling plaatsvindt. Indien een experimentele regeling een evaluatiebepaling bevat wordt het volgende model als uitgangspunt genomen:
+
+‘Onze Minister van ... zendt (in overeenstemming met Onze Minister van ...) drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in artikel .../dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, alsmede een standpunt inzake de voortzetting van die maatregel/dit besluit, anders dan als experiment.’
+
+#### § 2.2. Algemeen verbindende voorschriften
+
+#### § 2.3. Delegatie en mandaat van regelgevende bevoegdheid
+
+#### § 2.4. Parlementaire betrokkenheid bij gedelegeerde regelgeving
+
+#### § 2.5. Beleidsregels
+
+#### § 2.6. Harmonisatie
+
+### Hoofdstuk 3. Algemene aspecten van vormgeving
+
+#### § 3.1. Algemene terminologische punten
+
+##### Aanwijzing 71a
+
+Voor de aanduiding van bedragen in euro’s wordt het euroteken ‘€’ gebruikt.
+
+#### § 3.2. Aanduiding van ministers en staatssecretarissen
+
+#### § 3.3. Aanhaling en verwijzing
+
+##### Aanwijzing 92a
+
+1. Indien een regeling verwijst naar normen die niet in de Nederlandse taal zijn gesteld en op overtreding van die normen een strafrechtelijke of bestraffende bestuursrechtelijke sanctie is gesteld, worden die normen in het Nederlands vertaald.
+
+2. De vertaling wordt in de Staatscourant geplaatst. Indien de vertaalde normen slechts van belang zijn voor een kleine groep personen of de kenbaarheid van de vertaling op een andere wijze voldoende is verzekerd voor alle belanghebbenden, kan de vertaling worden gepubliceerd in een ander van overheidswege verkrijgbaar gesteld publicatieblad of door middel van terinzagelegging. Van deze wijze van publicatie wordt mededeling gedaan in de Staatscourant.
+
+3. Het tweede lid is niet van toepassing op normen die worden vertaald krachtens de [Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799).
+
+#### § 3.4. Hoofdletters
+
+#### § 3.5. Indeling
+
+### Hoofdstuk 4. Bijzondere bestanddelen van regelingen
+
+#### § 4.1. Opschrift
+
+#### § 4.2. Aanhef
+
+#### § 4.3. Considerans
+
+#### § 4.5a. Zelfstandige bestuursorganen
+
+#### § 4.6. Toekenning van bestuursbevoegdheden
+
+#### § 4.6a. Koppeling van overheidsprestaties aan juiste inschrijving in GBA
+
+##### Aanwijzing 130c
+
+Indien een publiekrechtelijke regeling voorziet in het ontstaan van enigerlei recht dat zich naar zijn aard leent voor overgang op anderen, wordt die overgang óf uitgesloten óf geregeld.
+
+#### § 4.7. Hardheidsclausules
+
+#### § 4.7A. Wederzijdse erkenning van goederen, keuringen en diensten
+
+##### Aanwijzing 131c
+
+1. Voor zover een regeling, die niet strekt tot implementatie van EU-regelgeving, eisen stelt aan goederen, keuringen of diensten, wordt tevens een clausule van wederzijdse erkenning opgenomen.
+
+2. Voor een clausule van wederzijdse erkenning worden de volgende modellen als uitgangspunt genomen:
+
+(Goederen)
+
+Met ..... (aanduiding van de desbetreffende goederen) als bedoeld in deze wet/dit besluit/deze regeling worden gelijkgesteld (desbetreffende goederen) die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+
+(Keuringen)
+
+Met een ..... (aanduiding van het desbetreffende document) als bedoeld in deze wet/dit besluit/deze regeling wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.
+
+(Diensten)
+
+Met de beroepseisen ter zake van…..(aanduiding van de desbetreffende dienst) als bedoeld in deze wet/dit besluit/deze regeling worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+
+#### § 4.8. Toezicht en opsporing
+
+#### § 4.9. Sancties
+
+#### § 4.10. Bestuursrechtelijke rechtsbescherming
+
+#### § 4.11. Informatievoorziening
+
+#### § 4.12. Doorberekening van toelatings- en handhavingskosten
+
+#### § 4.13. Evaluatiebepaling
+
+#### § 4.15. Inwerkingtreding
+
+#### § 4.16. Tijdelijke regelingen
+
+#### § 4.17. Citeertitel
+
+#### § 4.18. Bekendmaking
+
+#### § 4.19. Slotformulier
+
+#### § 4.20. Ondertekening
+
+#### § 4.21. Toelichting
+
+### Hoofdstuk 5. Wijziging en intrekking van regelingen
+
+#### § 5.1. Wijziging van regelingen
+
+##### Aanwijzing 229
+
+Bij complexe wijzigingsvoorstellen wordt ter verduidelijking van de voorgestelde wijzigingen in een wet of algemene maatregel van bestuur, een vergelijkend overzicht van de te wijzigen bepalingen en de voorgestelde bepalingen aan de Raad van State, respectievelijk aan de Tweede en Eerste Kamer gezonden.
+
+##### Aanwijzing 232
+
+Het beëindigen van de gelding van een gehele regeling wordt aangeduid met het werkwoord "**intrekken**", het schrappen van een artikel of ander onderdeel van een regeling met het werkwoord " **vervallen**"
+
+Voorbeelden:
+
+- -. De Wet rampenplannen wordt ingetrokken.
+
+- -. Artikel 25, tweede lid, vervalt.
+
+##### Aanwijzing 236
+
+1. De nummering van bij wijziging ingevoegde artikelen geschiedt door toevoeging aan bestaande artikelnummers van **a**, **b** enzovoort.
+
+2. Een eenmaal aangevangen wijze van nummering wordt voortgezet.
+
+##### Aanwijzing 237
+
+Bij wijziging van regelingen waarvan de leden van de artikelen niet zijn genummerd, kan alsnog nummering plaatsvinden, maar alleen indien de leden van alle artikelen van een hoofdstuk, titel, afdeling of paragraaf worden genummerd.
+
+#### § 5.2. Intrekken en vervallen van regelingen
+
+#### § 5.3. Publicatie van tekst van gewijzigde regelingen
+
+#### § 5.4. Wijziging van wetsvoorstellen
+
+##### Aanwijzing 248a
+
+Een nota van wijziging met inhoudelijke betekenis die tijdens de schriftelijke behandeling van een wetsvoorstel wordt ingediend, wordt ter toetsing voorgelegd aan het Ministerie van Justitie.
+
+### Hoofdstuk 6. Procedures
+
+##### Aanwijzing 256a
+
+1. In de toelichting bij ontwerpregelingen worden door het eerstverantwoordelijke ministerie in daarvoor in aanmerking komende gevallen de gevolgen van de regeling voor decentrale overheden uiteengezet.
+
+2. De wijze waarop dit aspect is verantwoord in de toelichting bij de regeling wordt getoetst door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+
+##### Aanwijzing 258
+
+Vervallen
+
+#### § 6.1 a. Notificatie
+
+#### § 6.2. Advisering door de Raad van State
+
+##### Aanwijzing 277a
+
+Voor de brief aan de Koningin waarbij een minister een ontwerp van een nota van wijziging aanbiedt met het verzoek die bij de Raad van State aanhangig te maken (voordracht), wordt het volgende model gevolgd:
+
+Aan de Koningin
+
+Ontwerp van een nota van wijziging bij het voorstel van (rijks)wet ... (vermelding van het opschrift)
+
+Daartoe gemachtigd door de ministerraad (van het Koninkrijk) bied ik Uwe Majesteit (, mede namens/in overeenstemming met/na overleg met mijn ambtgenoot van ...,) het bovenvermelde ontwerp van een nota van wijziging aan. Het ontwerp is voorzien van een toelichting.
+
+Ik moge U verzoeken het ontwerp aan de Raad van State (van het Koninkrijk) ter advisering voor te leggen en de Raad te machtigen zijn advies rechtstreeks aan mij te doen toekomen (en afschrift van het advies toe te zenden aan mijn bovenvermelde ambtgenoot).
+
+De Minister van .....
+
+##### Aanwijzing 277b
+
+Voor het nader rapport inzake een aan de Raad van State voorgelegde nota van wijziging wordt het volgende model gevolgd:
+
+Aan de Koningin
+
+Nader rapport inzake het ontwerp van een nota van wijziging bij het voorstel van (rijks)wet ... (vermelding van het opschrift)
+
+Blijkens de mededeling van de Directeur van Uw kabinet van ..., nr. ..., machtigde Uwe Majesteit de Raad van State (van het Koninkrijk) zijn advies inzake het bovenvermelde ontwerp rechtstreeks aan mij te doen toekomen. Dit advies, gedateerd ..., nr. ..., bied ik U hierbij aan.
+
+Het ontwerp geeft de Raad van State (van het Koninkrijk) geen aanleiding tot het maken van inhoudelijke opmerkingen (of: bespreking van de bezwaren of opmerkingen).
+
+Ik moge U (, mede namens/in overeenstemming met/na overleg met mijn ambtgenoot van ...,) verzoeken in te stemmen met toezending van de (gewijzigde) nota van wijziging aan de Tweede Kamer der Staten-Generaal (, de Staten van de Nederlandse Antillen en de Staten van Aruba).
+
+De Minister van .....
+
+#### § 6.2a. Bekrachtiging van algemene maatregelen van bestuur
+
+#### § 6.3. Parlementaire behandeling van regeringsvoorstellen van wet
+
+#### § 6.4. Behandeling van initiatiefvoorstellen van wet
+
+#### § 6.5. Koninklijke besluiten waarover de Raad van State niet wordt gehoord
+
+### Hoofdstuk 7. Verdragen
+
+#### § 7.1. Voorbereiding van verdragen
+
+#### § 7.2. Voorbereiding en implementatie van besluiten van volkenrechtelijke organisaties
+
+#### § 7.3. Voorbereiding van wetgeving inzake goedkeuring en implementatie
+
+#### § 7.4. Behandeling in de ministerraad
+
+#### § 7.5. Bewaring en bekendmaking
+
+#### § 7.6. Advisering door de Raad van State
+
+#### § 7.7. Parlementaire goedkeuring en totstandbrenging van de binding
+
+### Hoofdstuk 8. Voorbereiding en implementatie van EU-regelgeving
+
+#### § 8.2. Voorbereiding van EU-regelgeving
+
+#### § 8.3. Procedures bij implementatie
+
+##### Aanwijzing 337a
+
+Bepalingen uit EU-regelingen die verplichten tot feitelijk handelen, worden niet geïmplementeerd.
+
+#### § 8.5. Vormgeving van regelingen met EU-aspecten
+
+#### § 8.6. Kennisgeving van (ontwerp-)implementatieregelingen aan de Commissie van de Europese Gemeenschappen
