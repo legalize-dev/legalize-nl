@@ -4,7 +4,7 @@ identifier: "BWBR0007788"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007788"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Er is een Fonds economische structuurversterking, hierna te noemen: het fonds.
 
-2. Het fonds is een begrotingsfonds als bedoeld in [artikel 2, eerste lid, van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=2).
+2. Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=9).
 
 3. Onze Ministers van Economische Zaken en van Financiën beheren de begroting van het fonds.
 
@@ -64,7 +64,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. andere door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën voor het fonds te bestemmen inkomsten van de staat voortvloeiend uit of verbandhoudend met de aanleg of de exploitatie van de Betuweroute en de HSL-Zuid;
 
-- e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen.
+- e. andere voor het fonds te bestemmen ontvangsten uit de winning van koolwaterstoffen;
+
+- f. het bedrag dat overeenkomt met de annuïteiten op basis van de opbrengsten van de hierna te noemen geveilde rechten, met een looptijd die overeenkomt met de voorziene looptijd van die rechten:
+
+- 1°. de verlening van het recht om bepaalde etherfrequenties te gebruiken, alsmede de verlening van het recht op het gebruik van analoge en digitale radio- en televisiefrequenties;
+
+- 2°. de verlening in het jaar 2000 van het recht om UMTS-frequenties te gebruiken.
 
 2. Opbrengsten als bedoeld in het eerste lid, onder b, zijn:
 
@@ -72,9 +78,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de opbrengsten van vervreemding van staatsdeelnemingen,
 
-- c. de opbrengsten van de verlening van het recht om bepaalde etherfrequenties te gebruiken, alsmede de opbrengst van de verlening van het recht op het gebruik van analoge en digitale radio- en televisiefrequenties,
-
-- d. andere nader aan te wijzen ontvangsten uit het vervreemden van materiële en immateriële activa en rechten van de staat.
+- c. andere nader aan te wijzen ontvangsten uit het vervreemden van materiële en immateriële activa en rechten van de staat.
 
 3. Onder ontvangsten als bedoeld in het tweede lid worden niet verstaan:
 
@@ -82,17 +86,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de opbrengst van de verkoop van de aandelen in Netherlands Car b.v.;
 
-- c. de opbrengst van de verkoop van Roccade Informatica Groep n.v. voor zover deze het bedrag van € 181 512 086,44 niet overstijgt.
+- c. de opbrengst van de verkoop van Roccade Informatica Groep n.v. voor zover deze het bedrag van € 181 512 086,44 niet overstijgt;
 
-4. Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op 10-jaars staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.
+- d. de opbrengst van de verkoop van aandelen die zijn verkregen bij wijze van dividend.
 
-5. Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het tweede lid, onder b, worden de dividendinkomsten die genoten zouden worden indien de vervreemding niet zou hebben plaatsgevonden afgetrokken.
+4. Bij de berekening van de te besparen rentelasten, bedoeld in het eerste lid, onder b, wordt uitgegaan van het rendement op langlopende staatsobligaties op de dag waarop de opbrengst wordt bijgeschreven op een rekening van het Rijk.
+
+5. Bij de berekening van de te besparen rentelasten ten gevolge van het in mindering brengen op de staatsschuld van een opbrengst als bedoeld in het tweede lid, onder b, worden afgetrokken de dividendinkomsten die genoten zouden worden indien de vervreemding of ontvangst niet zou hebben plaatsgevonden.
 
 6. Indien opbrengsten als bedoeld in het eerste lid, onder e, als tijdelijke voorziening in het fonds zijn gestort in verband met vertraging in de in het eerste lid, onder b, bedoelde ontvangsten, kunnen deze bedragen op de in het eerste lid, onder b, bedoelde ontvangsten door Onze Minister van Economische Zaken in overeenstemming met Onze Minister van Financiën in mindering worden gebracht.
 
 ##### Artikel 3
 
-1. Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in [artikel 1 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=1) ten behoeve van de financiering van:
+1. Ten laste van het fonds kunnen bijdragen worden toegekend aan andere begrotingen van het Rijk als bedoeld in [artikel 1, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=1) ten behoeve van de financiering van:
 
 - a. investeringsprojecten van nationaal belang waarmee beoogd wordt de economische structuur te versterken, voorzover betrekking hebbend op:
 
@@ -116,9 +122,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.
 
-3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2002-01-01&g=2002-01-01).
+3. Ten laste van het fonds kunnen in de begroting niet meer uitgaven worden geraamd dan het totaal van de geraamde ontvangsten, inclusief het gerealiseerde batig saldo van het fonds van het voorafgaande jaar, verminderd met 10 procent van de bij de ontwerp-begroting voor dat jaar geraamde ontvangsten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2002-09-01&g=2002-09-01).
 
-4. In afwijking van artikel 4, tweede lid, en artikel 65, tweede lid, aanhef en onder **a**, van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.
+4. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=2), en [artikel 52, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=52) worden de begroting en de financiële verantwoording van het fonds uitsluitend op kasbasis gepresenteerd.
 
 ##### Artikel 5
 
