@@ -139,31 +139,3 @@ Dit besluit treedt in werking op 1 augustus 2001.
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Nationaliteit voor [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4): gedeeltelijke gelijksteling
-
-1. Voor personen met de nationaliteit van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel van Zwitserland anders dan werknemers, of zelfstandigen, of personen die deze status hebben behouden, en hun familieleden, die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van [Richtlijn 2004/38/EG](32004L0038), hebben verworven, betreft de gelijkstelling, op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs.
-
-2. De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag genoemd in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), en voorzover het een leerling betreft als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.2), een bedrag ter grootte van eentwaalfde deel van het bedrag, bedoeld in [artikel 5, tweede lid van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5). Het laatstgenoemde bedrag wordt niet uitbetaald maar verrekend met de aan de IB-Groep verschuldigde onderwijsbijdrage. Voorzover blijkt dat de onderwijsbijdrage reeds aan de IB-Groep is betaald, wordt het bedrag door de IB-Groep terugbetaald binnen 8 weken na het besluit, bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
-
-3. In afwijking van [artikel 4.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.10), kan een aanvraag op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.
-
-4. De tegemoetkoming wordt toegekend in één bedrag per schooljaar. Indien de aanspraak gedurende een schooljaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per schooljaar maal het aantal resterende maanden van dat schooljaar.
-
-### Hoofdstuk 2. Overgangsrecht
-
-### Hoofdstuk 3. Wijzigingen in andere besluiten
-
-### Hoofdstuk 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01)
-
-[Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
-
-### Hoofdstuk 3. Wijzigingen in andere besluiten
-
-### Hoofdstuk 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
