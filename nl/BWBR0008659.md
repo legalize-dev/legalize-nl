@@ -4,7 +4,7 @@ identifier: "BWBR0008659"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2004-01-01"
+last_updated: "2004-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008659"
 soort: "wet"
@@ -52,9 +52,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
-- a. beperkt huursubsidiebericht: een schriftelijke kennisgeving van Onze Minister aan een huurder met gegevens over samenstelling van het huishouden, inkomen en vermogen;
+- a. beperkt huursubsidiebericht: een schriftelijke kennisgeving van Onze Minister aan een huurder met gegevens over:
 
-- b. burgemeester en wethouders: burgemeester en wethouders van de gemeente waar de woning gelegen is waarop de huursubsidie of de bijzondere bijdrage in de huurlasten, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-01-01&g=2004-01-01), betrekking heeft;
+- 1º. samenstelling van het huishouden, inkomen en vermogen;
+
+- 2º. samenstelling van het huishouden en huurprijs, of
+
+- 3º. samenstelling van het huishouden.
+
+- b. burgemeester en wethouders: burgemeester en wethouders van de gemeente waar de woning gelegen is waarop de huursubsidie of de bijzondere bijdrage in de huurlasten, bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), betrekking heeft;
 
 - c. huurcommissie: de huurcommissie, bedoeld in [artikel 21 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=21);
 
@@ -66,7 +72,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - e. huurprijs: de prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning;
 
-- f. huursubsidie: een financiële bijdrage krachtens deze wet, met uitzondering van [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-01-01&g=2004-01-01), ter tegemoetkoming in de kosten van het huren van een woning;
+- f. huursubsidie: een financiële bijdrage krachtens deze wet, met uitzondering van [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), ter tegemoetkoming in de kosten van het huren van een woning;
 
 - g. huursubsidiebericht: een schriftelijke kennisgeving van Onze Minister aan een huurder met gegevens over samenstelling van het huishouden, huurprijs, inkomen, vermogen en op basis van die gegevens berekende huursubsidie;
 
@@ -76,21 +82,25 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - j. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- k. peildatum: de eerste dag van het subsidietijdvak;
+- k. peildatum:
+
+- 1º. als de huurder een aanvraag als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), heeft ingediend: de eerste dag van de kalendermaand volgend op die waarin die aanvraag is ingediend;
+
+- 2º. als, in andere gevallen dan bedoeld onder 1°, aan de huurder een beperkt huursubsidiebericht of huursubsidiebericht is toegezonden: de eerste dag van het subsidietijdvak;
 
 - l. peiljaar: het kalenderjaar dat voorafgaat aan het subsidiejaar;
 
-- m. rekenhuur, rekeninkomen, rekenvermogen: de rekenhuur, het rekeninkomen, en het rekenvermogen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-01-01&g=2004-01-01), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01) onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-01-01&g=2004-01-01);
+- m. rekenhuur, rekeninkomen, rekenvermogen: de rekenhuur, het rekeninkomen, en het rekenvermogen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-03-26&g=2004-03-26), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-03-26&g=2004-03-26) onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-03-26&g=2004-03-26);
 
 - n. subsidiejaar: het tijdvak dat loopt van 1 juli tot en met 30 juni van het daaropvolgende jaar;
 
 - o. subsidietijdvak:
 
-- 1°. het subsidiejaar, als degene die huursubsidie aanvraagt of een huursubsidiebericht of beperkt huursubsidiebericht ontvangt op of voor de aanvang van dit jaar huurder van de desbetreffende woning is geworden;
+- 1º. het subsidiejaar, als de huurder in het daaraan voorafgaande subsidiejaar huursubsidie heeft ontvangen dan wel in de maand juni voorafgaand aan dat subsidiejaar een aanvraag als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), heeft ingediend;
 
-- 2°. de resterende volle kalendermaanden van het subsidiejaar, als degene die huursubsidie aanvraagt of een huursubsidiebericht of beperkt huursubsidiebericht ontvangt gedurende dat jaar huurder van de desbetreffende woning is geworden;
+- 2º. de resterende volle kalendermaanden van het subsidiejaar, als de huurder in een andere maand dan de maand juni een aanvraag als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), heeft ingediend.
 
-- p. woonwagen: een woonwagen als bedoeld in [artikel 1, eerste lid onder **e**, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), zonder eigen aandrijving.
+- p. woonwagen: een woonwagen als bedoeld in [artikel 1, eerste lid onder e, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), zonder eigen aandrijving.
 
 ##### Artikel 1a
 
@@ -176,7 +186,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 2. Bij de bepaling van het gezamenlijk vermogen wordt het vermogen van een inwonend kind of pleegkind van de huurder of een medebewoner, dat op de peildatum jonger dan 23 jaar is, slechts in beschouwing genomen voor zover het meer dan € 925 bedraagt.
 
-3. Onder vermogen wordt verstaan: de gemiddelde rendementsgrondslag, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), met dien verstande dat die grondslag wordt bepaald zonder rekening te houden met de vrijstelling kapitaalverzekeringen voor kinderen, bedoeld in [artikel 5.12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.12), de vrijstelling maatschappelijke beleggingen, bedoeld in [afdeling 5.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3) en de vrijstelling beleggingen in durfkapitaal, bedoeld in [afdeling 5.3a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3).
+3. Onder vermogen wordt verstaan: de gemiddelde rendementsgrondslag, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), met dien verstande dat die grondslag wordt bepaald zonder rekening te houden met de vrijstelling maatschappelijke beleggingen, bedoeld in [afdeling 5.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3) en de vrijstelling beleggingen in durfkapitaal, bedoeld in [afdeling 5.3a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3).
 
 ##### Artikel 5
 
@@ -190,7 +200,7 @@ In deze wet en de bepalingen die daarop berusten wordt verstaan onder:
 
 - d. in geval van huur van een woonwagen vermeerderd met het bedrag dat verschuldigd is voor de huur van de standplaats, verminderd met het bedrag dat daarin is begrepen voor een bedrijfsruimte.
 
-2. Bij de toepassing van het eerste lid kan het in de aanhef van dat lid laatstbedoelde bedrag slechts in plaats van de verschuldigde huurprijs in aanmerking worden genomen nadat de huurcommissie, dan wel de voorzitter van de huurcommissie, aan Onze Minister of aan de huurder advies heeft uitgebracht, dan wel een verklaring heeft verstrekt, over de redelijk te achten huurprijs.
+2. Bij de toepassing van het eerste lid kan het in de aanhef van dat lid laatstbedoelde bedrag slechts in plaats van de verschuldigde huurprijs in aanmerking worden genomen nadat de huurcommissie, dan wel de voorzitter van de huurcommissie, aan Onze Minister en aan de huurder advies heeft uitgebracht, dan wel een verklaring heeft verstrekt, over de redelijk te achten huurprijs. Bij algemene maatregel van bestuur kunnen omtrent die verklaring nadere regels worden gesteld.
 
 3. Als servicekosten als bedoeld in het eerste lid, onder c, worden uitsluitend in aanmerking genomen:
 
@@ -240,7 +250,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 ##### Artikel 10
 
-1. Huursubsidie wordt slechts toegekend:
+Huursubsidie wordt slechts toegekend:
 
 - a. als de huurder:
 
@@ -248,19 +258,13 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - 2°. vreemdeling is en rechtmatig verblijf houdt als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), of
 
-- 3°. vreemdeling is en, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8, onder g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en
+- 3°. vreemdeling is en, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig verblijf houdt als bedoeld in [artikel 8, onder g of h, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en huursubsidie heeft ontvangen over het subsidietijdvak waarin hij voor het laatst rechtmatig verblijf hield, en
 
 - b. als degenen die op de peildatum medebewoner van de woning zijn:
 
 - 1°. de Nederlandse nationaliteit bezitten of op grond van een wettelijke bepaling als Nederlander worden behandeld, of
 
 - 2°. vreemdeling zijn en rechtmatig verblijf houden als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
-
-2. In de gevallen, bedoeld in het eerste lid, onder a, 3°, wordt huursubsidie bovendien slechts toegekend, als aan de huurder huursubsidie is of wordt toegekend voor:
-
-- a. het subsidietijdvak waarin hij voor het laatst rechtmatig verblijf hield, indien dat tijdvak eindigt op 30 juni 1999 of eerder, dan wel
-
-- b. het subsidietijdvak waarin hij en degenen die op de peildatum medebewoner van de woning zijn voor het laatst rechtmatig verblijf hielden, indien dat tijdvak eindigt na 30 juni 1999.
 
 #### § 3. Eisen aan de woning
 
@@ -270,9 +274,9 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - a. een zelfstandige woonruimte of een onvrije etage is, of
 
-- b. een onzelfstandige woonruimte is, welke deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is.
+- b. een onzelfstandige woonruimte is, welke deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van en aan de huurder verhuurd door een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is.
 
-2. Het eerste lid onder **b** vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door Onze Minister is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit artikel 13 voortvloeit.
+2. Het eerste lid onder b vindt slechts toepassing als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die door Onze Minister is aangewezen. Bij algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld, waarbij een lagere maximale rekenhuur kan worden vastgesteld dan uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26) voortvloeit.
 
 3. Geen huursubsidie wordt toegekend voor de huur van een woonschip.
 
@@ -284,23 +288,23 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 ##### Artikel 12
 
-1. Geen huursubsidie wordt toegekend als de huurder van een woning naar het oordeel van Onze Minister, op het tijdstip dat de huur ingaat, het gebruik had kunnen krijgen of behouden van een andere woning die beter past bij zijn economische en persoonlijke omstandigheden.
+1. Geen huursubsidie wordt toegekend als de huurder van een woning met een rekenhuur boven de aftoppingsgrenzen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2004-03-26&g=2004-03-26), naar het oordeel van Onze Minister, op het tijdstip dat de huur ingaat, het gebruik had kunnen krijgen of behouden van een andere woning die beter past bij zijn economische en persoonlijke omstandigheden.
 
-2. Het eerste lid kan slechts worden toegepast nadat burgemeester en wethouders door Onze Minister in de gelegenheid zijn gesteld advies uit te brengen. Bij algemene maatregel van bestuur kan nader worden bepaald:
-
-- a. in welke gevallen een zodanig advies in ieder geval moet worden uitgebracht, ook zonder dat daartoe een verzoek is gedaan en
-
-- b. op welke wijze burgemeester en wethouders aan hun adviestaak uitvoering geven.
+2. Alvorens Onze Minister tot toepassing van het eerste lid overgaat, stelt hij burgemeester en wethouders in de gelegenheid om binnen vier weken een advies daarover uit te brengen. Op verzoek van burgemeester en wethouders wordt die termijn met ten hoogste vier weken verlengd.
 
 3. Onze Minister volgt in zijn besluit het advies van burgemeester en wethouders, behoudens de mogelijkheid tot afwijking van een voor de huurder negatief advies in uitzonderlijke gevallen.
 
 ##### Artikel 13
 
-1. Geen huursubsidie wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-01-01&g=2004-01-01), in mindering wordt gebracht:
+1. Geen huursubsidie wordt toegekend als de rekenhuur, vermeerderd met het bedrag dat daarop eventueel krachtens [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-03-26&g=2004-03-26), in mindering wordt gebracht:
 
-- a. hoger is dan € 541,36 per 1 juli 2003: € 585,24per maand als de huurder of een van de medebewoners op de peildatum 23 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder of een medebewoner;
+- a. hoger is dan EUR 565,44 per maand als:
 
-- b. hoger is dan € 298,59 per 1 juli 2003: € 317,03per maand in andere gevallen dan bedoeld onder a.
+- 1°. de huurder of een van de medebewoners op de peildatum 23 jaar of ouder is, dan wel de woning deelt met een kind of pleegkind van de huurder of een medebewoner of
+
+- 2°. de huurder of de medebewoner, ten behoeve van wie in en rond de woning voorzieningen zijn aangebracht die noodzakelijk zijn in verband met een handicap van die huurder of die medebewoner, op de peildatum 18 jaar of ouder is of
+
+- b. hoger is dan EUR 307,49 per maand in andere gevallen dan bedoeld onder a.
 
 2. Het eerste lid is niet van toepassing:
 
@@ -308,15 +312,11 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - b. als de woning geschikt en bestemd is voor de huisvesting van een huishouden van ten minste acht personen, en het huishouden van de huurder uit ten minste acht personen bestaat;
 
-- c. na overschrijding van het bedrag, bedoeld in het eerste lid, onder a, als over de maand juni die onmiddellijk voorafging aan die overschrijding huursubsidie is toegekend;
-
-- d. gedurende twee jaar na overschrijding van het bedrag, bedoeld in het eerste lid, onder b, als over de maand juni die onmiddellijk voorafging aan die overschrijding huursubsidie is toegekend.
+- c. na overschrijding van de bedragen, genoemd in het eerste lid, als over de maand juni die onmiddellijk voorafging aan die overschrijding huursubsidie is toegekend.
 
 3. Als huursubsidie wordt toegekend met toepassing van het tweede lid, ontvangt de huurder geen huursubsidie voor het deel van de rekenhuur dat ligt boven het maximum dat in het eerste lid is genoemd.
 
-4. Als huursubsidie wordt toegekend met toepassing van het tweede lid onder d, wordt gedurende het eerste jaar 67% toegekend van het bedrag dat wordt berekend op de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2004-01-01&g=2004-01-01) bedoelde wijze, en gedurende het tweede jaar 33% van het aldus berekende bedrag.
-
-5. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+4. De in het eerste lid, onder a en b, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 #### § 4. Eisen aan de financiële positie
 
@@ -332,7 +332,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. € 19 625,99 [per 1 juli 2003: € 21.225bij een meerpersoonsouderenhuishouden.
 
-2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 15
 
@@ -340,13 +340,13 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - a. € 18 378,10 per 1 juli 2003: € 19.875bij een eenpersoonshuishouden, als de huurder op de laatste dag van het subsidiejaar jonger is dan 65 jaar;
 
-- b. € 35 200 bij een meerpersoonshuishouden, als de huurder en de medebewoners op de laatste dag van het subsidiejaar jonger zijn dan 65 jaar;
+- b. het bedrag, genoemd in [artikel 5.5, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), zoals dit luidt in het peiljaar, bij een meerpersoonshuishouden, als de huurder en de medebewoners op de laatste dag van het subsidiejaar jonger zijn dan 65 jaar;
 
 - c. € 31 424,28 per 1 juli 2003: € 34.000bij een eenpersoonshuishouden of een eenpersoonsouderenhuishouden als de huurder op de laatste dag van het subsidiejaar 65 jaar of ouder is;
 
 - d. € 43 517,52 per 1 juli 2003: € 47.075bij een meerpersoonshuishouden of een meerpersoonsouderenhuishouden, als de huurder of een medebewoner op de laatste dag van het subsidiejaar 65 jaar of ouder is.
 
-2. De in het eerste lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+2. De in het eerste lid, onder a, c en d, genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 ### Hoofdstuk 3. De hoogte van de huursubsidie
 
@@ -358,7 +358,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 2. Voor de hoogte van de normhuur is het rekeninkomen bepalend. Met het oog hierop worden bij ministeriële regeling de inkomens in inkomensklassen verdeeld.
 
-3. De laagste inkomensklasse bevat de inkomens, gelijk aan of lager dan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01).
+3. De laagste inkomensklasse bevat de inkomens, gelijk aan of lager dan het minimum-inkomensijkpunt, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26).
 
 4. De inkomens in een zelfde inkomensklasse, boven het minimum-inkomensijkpunt, mogen ten hoogste € 500 van elkaar verschillen.
 
@@ -376,7 +376,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. voor een meerpersoonsouderenhuishouden: twee maal het bedrag, bedoeld in [artikel 9, tiende lid onder b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met de vakantietoeslag, bedoeld in [artikel 29, negende lid onder a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), en verder vermeerderd met € 1050.
 
-2. Bij het minimum-inkomensijkpunt behoort een normhuur van € 166,08 per 1 juli 2002: € 170,95.
+2. Bij het minimum-inkomensijkpunt behoort een normhuur van € 166,08 per 26 maart 2004 en terugwerkend tot 1 juli 2003: € 176,43.
 
 3. De normhuur, bedoeld in het tweede lid, wordt verlaagd met:
 
@@ -384,7 +384,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - b. € 3,63 als op de peildatum sprake is van een meerpersoonsouderenhuishouden.
 
-4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+4. Het in het tweede lid genoemde bedrag wordt met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 18
 
@@ -398,7 +398,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. voor een meerpersoonsouderenhuishouden: € 18 922,64 per 1 juli 2003: € 20 775.
 
-2. Bij het referentie-inkomensijkpunt behoort een normhuur van € 337,61 per 1 juli 2002: € 347,61.
+2. Bij het referentie-inkomensijkpunt behoort een normhuur van € 337,61 per 26 maart 2004 en terugwerkend tot 1 juli 2003: € 358,74.
 
 3. De normhuur, bedoeld in het tweede lid, wordt verlaagd met:
 
@@ -410,7 +410,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - d. € 4,54 als op de peildatum sprake is van een meerpersoonsouderenhuishouden.
 
-4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+4. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 19
 
@@ -430,7 +430,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - b. b. € 458,32 per 1 juli 2003: € 486,30 per maand als het huishouden van de huurder, afgezien van eventuele onderhuurders en personen die tot diens huishouden behoren, uit drie of meer personen bestaat.
 
-3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-01-01&g=2004-01-01).
+3. De in het eerste en tweede lid genoemde bedragen worden met ingang van 1 juli van elk jaar aangepast overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26).
 
 #### § 3. Berekening van de huursubsidie
 
@@ -450,13 +450,7 @@ Huursubsidie wordt slechts toegekend aan een huurder die op de peildatum meerder
 
 - 3°. als de huurder een woning bewoont of betrekt waarin aanpassingen zijn aangebracht in en rond de woning, die noodzakelijk zijn in verband met een handicap van de huurder of een medebewoner.
 
-- d. het overeenkomstig de voorgaande onderdelen berekende bedrag wordt, indien dit meer dan € 0 bedraagt, verhoogd met:
-
-- 1°. € 14,52 per maand als de huurder de woning op de peildatum deelt met één of twee kinderen of pleegkinderen, jonger dan 18 jaar, van hemzelf of van een van de medebewoners;
-
-- 2°. € 19,51 per maand als de huurder de woning op de peildatum deelt met drie of meer kinderen of pleegkinderen, jonger dan 18 jaar, van hemzelf of van een van de medebewoners.
-
-2. In afwijking van het eerste lid, onderdelen **a** en **b**, wordt, als de normhuur op of boven de kwaliteitskortingsgrens ligt, het deel van de rekenhuur boven de normhuur tot aan de aftoppingsgrens voor 75 procent gesubsidieerd.
+2. In afwijking van het eerste lid, onderdelen a en b, wordt, als de normhuur op of boven de kwaliteitskortingsgrens ligt, het deel van de rekenhuur boven de normhuur tot aan de aftoppingsgrens voor 75 procent gesubsidieerd.
 
 3. Het toe te kennen bedrag wordt afgerond op hele eurocenten.
 
@@ -466,7 +460,7 @@ Geen huursubsidie wordt toegekend als deze minder dan € 4 per maand zou bedrag
 
 ##### Artikel 22a
 
-Als een aanvraag om toekenning van huursubsidie drie maanden of langer na de peildatum wordt ingediend, wordt geen huursubsidie toegekend voor de kalendermaand waarin de peildatum valt, de kalendermaand waarin die aanvraag wordt ingediend en de tussenliggende kalendermaanden.
+Vervallen
 
 ### Hoofdstuk 4. Wijzigingen van omstandigheden, hardheidsbepaling
 
@@ -498,15 +492,17 @@ Vervallen
 
 1. Onze Minister kan ambtshalve of op verzoek van de huurder, als in een bepaald geval de onverkorte toepassing van de desbetreffende bepalingen, gelet op het belang dat deze wet beoogt te beschermen, tot een onbillijkheid van overwegende aard zou leiden:
 
-- a. bij de toepassing van de artikelen 2, 3, eerste lid, en 4, eerste lid, bepaalde medebewoners buiten beschouwing laten;
+- a. bij de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-03-26&g=2004-03-26), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-03-26&g=2004-03-26), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-03-26&g=2004-03-26), bepaalde medebewoners buiten beschouwing laten;
 
-- b. bij de toepassing van de artikelen 3, derde lid, of 4, derde lid, bepaalde inkomsten of vermogensbestanddelen geheel of gedeeltelijk buiten beschouwing laten;
+- b. bij de toepassing van de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-03-26&g=2004-03-26), of [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-03-26&g=2004-03-26), bepaalde inkomsten of vermogensbestanddelen geheel of gedeeltelijk buiten beschouwing laten;
 
-- c. het in artikel 8 gestelde meerderjarigheidsvereiste buiten toepassing laten.
+- c. het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-03-26&g=2004-03-26) gestelde meerderjarigheidsvereiste buiten toepassing laten.
 
 2. Een daling van het inkomen ten opzichte van het peiljaar, of een daling van het vermogen na het peiljaar, kan niet leiden tot toepassing van het eerste lid.
 
 3. Een verzoek als bedoeld in de aanhef van het eerste lid wordt ingediend binnen zes maanden na het einde van het subsidietijdvak waarop de aanvraag tot toekenning van huursubsidie, het huursubsidiebericht of het beperkt huursubsidiebericht betrekking heeft.
+
+4. Onze Minister beslist op een verzoek binnen vijftien maanden na de datum van indiening van dat verzoek of na de aanvulling daarvan, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=29&z=2004-03-26&g=2004-03-26).
 
 ### Hoofdstuk 4A. Bijzondere bijdrage in de huurlasten
 
@@ -516,11 +512,17 @@ Vervallen
 
 - a. actueel inkomen: het gezamenlijk inkomen van de huurder en de medebewoners, dat wordt berekend door het netto inkomen over de eerste kalendermaand van het desbetreffende bijdragetijdvak te herrekenen naar een gecorrigeerd verzamelinkomen over het peiljaar;
 
-- b. bijzondere bijdrage in de huurlasten: bijzondere bijdrage als bedoeld in artikel 26b;
+- b. bijzondere bijdrage in de huurlasten: bijzondere bijdrage als bedoeld in [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26);
 
-- c. bijdragetijdvak: het tijdvak waarvoor telkens een bijzondere bijdrage in de huurlasten kan worden toegekend.
+- c. bijdragetijdvak: het tijdvak waarvoor telkens een bijzondere bijdrage in de huurlasten kan worden toegekend;
 
-2. Artikel 3, tweede, derde en vierde lid, is van overeenkomstige toepassing op de bepaling van het actueel inkomen.
+- d. toetsdatum:
+
+- 1º. als de huurder een aanvraag als bedoeld in [artikel 26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), binnen drie maanden na de inkomensdaling heeft ingediend: de eerste dag van een kalendermaand als de inkomensdaling per die datum heeft plaatsgevonden of de eerste dag van de kalendermaand die volgt op de inkomensdaling in andere gevallen;
+
+- 2º. als de huurder een aanvraag als bedoeld in [artikel 26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), niet binnen drie maanden na de inkomensdaling heeft ingediend: de eerste dag van een kalendermaand als de aanvraag op die datum is ingediend of de eerste dag van de kalendermaand die volgt op de indiening van de aanvraag in andere gevallen.
+
+2. [Artikel 3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-03-26&g=2004-03-26), is van overeenkomstige toepassing op de bepaling van het actueel inkomen, met dien verstande dat in het tweede lid van dat artikel voor «peildatum» wordt gelezen: toetsdatum.
 
 3. Bij ministeriële regeling worden nadere regels gesteld omtrent de wijze waarop de herrekening plaatsvindt die is bedoeld in het eerste lid, onder a. Bij of krachtens algemene maatregel van bestuur kunnen ook overigens regels worden gesteld omtrent de bepaling van het actueel inkomen.
 
@@ -528,13 +530,19 @@ Vervallen
 
 ##### Artikel 26b
 
-1. Indien voor het einde van het subsidietijdvak blijkt dat het rekeninkomen 20 procent hoger is dan het actueel inkomen, kennen burgemeester en wethouders op aanvraag aan een huurder een bijzondere bijdrage toe ter tegemoetkoming in de kosten van het huren van een woning.
+1. Indien voor het einde van het subsidietijdvak blijkt dat het actueel inkomen ten minste 20 procent lager ligt dan het rekeninkomen, kennen burgemeester en wethouders op aanvraag aan een huurder een bijzondere bijdrage toe ter tegemoetkoming in de kosten van het huren van een woning.
 
-2. De hoogte van de bijzondere bijdrage in de huurlasten wordt bepaald door, op de wijze die is bedoeld in artikel 21, het bedrag te berekenen van de huursubsidie dat behoort bij het actueel inkomen, en dit bedrag te verminderen met het bedrag van de huursubsidie dat behoort bij het rekeninkomen.
+2. De hoogte van de bijzondere bijdrage in de huurlasten wordt bepaald door, op de wijze die is bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2004-03-26&g=2004-03-26), het bedrag te berekenen van de huursubsidie dat behoort bij het actueel inkomen, en dit bedrag te verminderen met het bedrag van de huursubsidie dat behoort bij het rekeninkomen.
 
-3. De artikelen 7, tweede en derde lid, 8 tot en met 11 en 15 tot en met 22 zijn van overeenkomstige toepassing. Artikel 13 is van overeenkomstige toepassing, met dien verstande dat in het tweede lid, onderdelen c en d, van dat artikel voor «over de maand juni» wordt gelezen: over de maand. Artikel 14 is eveneens van overeenkomstige toepassing, met dien verstande dat voor «rekeninkomen» wordt gelezen: actueel inkomen.
+3. De [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=1&artikel=7&z=2004-03-26&g=2004-03-26), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-03-26&g=2004-03-26), en [13 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-4. Voor de toepassing van het begrip «subsidietijdvak», genoemd in het eerste lid, wordt de huurder geacht tevens huursubsidie te hebben aangevraagd.
+- a. indien de huurder geen aanvraag als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), heeft ingediend dan wel geen beperkt huursubsidiebericht of een huursubsidiebericht heeft ontvangen, in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-03-26&g=2004-03-26), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=9&z=2004-03-26&g=2004-03-26), [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=10&z=2004-03-26&g=2004-03-26), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=11&z=2004-03-26&g=2004-03-26), en [13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26), voor «peildatum» telkenmale wordt gelezen: toetsdatum;.
+
+- b. in [artikel 13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26), voor «over de maand juni» wordt gelezen: over de maand;
+
+- c. in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2004-03-26&g=2004-03-26) voor «rekeninkomen» wordt gelezen: actueel inkomen.
+
+4. Voor de toepassing van het begrip «subsidietijdvak», genoemd in het eerste lid, wordt de huurder geacht tevens huursubsidie te hebben aangevraagd op dezelfde dag als waarop hij een aanvraag als bedoeld in het eerste lid heeft ingediend, dan wel een beperkt huursubsidiebericht of een huursubsidiebericht te hebben ontvangen.
 
 5. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste lid.
 
@@ -564,15 +572,13 @@ Vervallen
 
 6. De bijzondere bijdrage in de huurlasten wordt steeds over een tijdvak van ten hoogste drie maanden uitbetaald, na afloop van dat tijdvak, onder verrekening van de betaalde voorschotten.
 
-7. De artikelen 23, 24, eerste lid, onder a, en tweede lid, 28, eerste lid, eerste en tweede volzin, tweede en derde lid, 29, eerste en tweede lid, 31, tweede lid, 32, 33 tot en met 35, en 48 zijn van overeenkomstige toepassing, met dien verstande dat:
+7. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=23&z=2004-03-26&g=2004-03-26), [24, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=24&z=2004-03-26&g=2004-03-26), [28, eerste lid, eerste en tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), [29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=29&z=2004-03-26&g=2004-03-26), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=31&z=2004-03-26&g=2004-03-26), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=32&z=2004-03-26&g=2004-03-26), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=35&z=2004-03-26&g=2004-03-26) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=9&artikel=48&z=2004-03-26&g=2004-03-26) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-- a. In artikel 23, eerste lid, voor «met ingang van de eerste dag van de kalendermaand waarover geen huur is verschuldigd» en in artikel 24, eerste lid, onder a, voor «met ingang van de eerste dag van de kalendermaand waarover de gewijzigde huurprijs is verschuldigd» steeds wordt gelezen: met ingang van het eerstvolgende bijdragetijdvak;
+- a. In [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=23&z=2004-03-26&g=2004-03-26), voor «met ingang van de eerste dag van de kalendermaand waarover geen huur is verschuldigd» en in [artikel 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=24&z=2004-03-26&g=2004-03-26), voor «met ingang van de eerste dag van de kalendermaand waarover de gewijzigde huurprijs is verschuldigd» steeds wordt gelezen: met ingang van het eerstvolgende bijdragetijdvak;
 
-- b. burgemeester en wethouders, en niet Onze Minister, de bevoegdheden hebben die zijn genoemd in de artikelen 24, tweede lid, 28, tweede lid onder b, en 35;
+- b. burgemeester en wethouders, in plaats van Onze Minister, de bevoegdheden en taken hebben die zijn genoemd in de [artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=24&z=2004-03-26&g=2004-03-26), [28, eerste lid, eerste en tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), [29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=29&z=2004-03-26&g=2004-03-26), en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=35&z=2004-03-26&g=2004-03-26);
 
-- c. aan burgemeester en wethouders en aan de daartoe door hen aangewezen ambtenaren, en niet aan Onze Minister en aan de daartoe door hem aangewezen ambtenaren, de informatie wordt verstrekt die is bedoeld in artikel 33, eerste lid;
-
-- d. in artikel 34, eerste lid, voor «bij de aanvraag» steeds wordt gelezen: bij de aanvragen, gedurende het subsidietijdvak, die een huurder heeft gedaan tot toekenning van een bijzondere bijdrage in de huurlasten.
+- c. aan burgemeester en wethouders en aan de daartoe door hen aangewezen ambtenaren, in plaats van aan Onze Minister en aan de daartoe door hem aangewezen ambtenaren, de informatie wordt verstrekt die is bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 26d
 
@@ -620,13 +626,17 @@ Vervallen
 
 ##### Artikel 26g
 
-1. Onze Minister past artikel 26, eerste lid, toe overeenkomstig het bepaalde in artikel 26b, eerste en tweede lid, in gevallen waarin, hoewel het inkomen is gedaald ten opzichte van het peiljaar, geen bijzondere bijdrage in de huurlasten wordt toegekend omdat:
+1. Onze Minister past [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2004-03-26&g=2004-03-26), toe overeenkomstig het bepaalde in [artikel 26b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), in gevallen waarin, hoewel het inkomen is gedaald ten opzichte van het peiljaar, geen bijzondere bijdrage in de huurlasten wordt toegekend omdat:
 
-- a. niet is voldaan aan het meerderjarigheidsvereiste dat is gesteld in artikel 8 juncto artikel 26b, derde lid, of
+- a. niet is voldaan aan het meerderjarigheidsvereiste dat is gesteld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-03-26&g=2004-03-26) juncto [artikel 26b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26), of
 
-- b. het rekenvermogen hoger is dan het relevante bedrag, genoemd in artikel 15, juncto artikel 26b, derde lid.
+- b. het rekenvermogen hoger is dan het relevante bedrag, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=15&z=2004-03-26&g=2004-03-26), juncto [artikel 26b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26b&z=2004-03-26&g=2004-03-26).
 
-2. Een verzoek om toepassing te geven aan het eerste lid wordt ingediend binnen zes maanden na het einde van het tijdvak, bedoeld in artikel 26a, eerste lid, onder c, waarop de aanvraag tot toekenning van een bijzondere bijdrage in de huurlasten betrekking heeft.
+2. Een verzoek om toepassing te geven aan het eerste lid wordt bij burgemeester en wethouders ingediend binnen zes maanden na het einde van het tijdvak, bedoeld in [artikel 26a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26a&z=2004-03-26&g=2004-03-26), waarop de aanvraag tot toekenning van een bijzondere bijdrage in de huurlasten betrekking heeft.
+
+3. Burgemeester en wethouders zenden een volledig verzoek binnen drie maanden na de datum van ontvangst door aan Onze Minister, met daarop een advies over de afhandeling.
+
+4. [Artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2004-03-26&g=2004-03-26), is van overeenkomstige toepassing, met dien verstande dat voor «binnen vijftien maanden na de datum van indiening van dat verzoek» wordt gelezen: binnen vijftien maanden na de datum van indiening bij burgemeester en wethouders.
 
 ### Hoofdstuk 5. Aanpassing van bedragen
 
@@ -634,67 +644,55 @@ Vervallen
 
 1. Met ingang van 1 juli van elk jaar worden aangepast aan de huurprijsontwikkeling, zoals die naar redelijke verwachting in het subsidiejaar zal plaatsvinden:
 
-- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-01-01&g=2004-01-01), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
+- a. de bedragen die zijn genoemd in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26), (bij minimum-inkomensijkpunt behorende normhuur) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-03-26&g=2004-03-26), (bij referentie-inkomensijkpunt behorende normhuur), bij algemene maatregel van bestuur, en
 
-- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-01-01&g=2004-01-01), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2004-01-01&g=2004-01-01), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
+- b. de bedragen die zijn genoemd in de [artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26), (maximale huurgrens) en [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=2&artikel=20&z=2004-03-26&g=2004-03-26), (kwaliteitskortings- en aftoppingsgrens), bij ministeriële regeling.
 
 Hierbij wordt een correctie aangebracht naar de mate waarin de huurprijsontwikkeling in het voorafgaande subsidiejaar afweek van de verwachtingen waarvan werd uitgegaan bij de eerdere aanpassing van deze bedragen.
 
-2. De in het eerste lid onder **a** genoemde bedragen kunnen, in afwijking van de aanhef van het eerste lid, bij algemene maatregel van bestuur worden aangepast met het percentage waarmee het bedrag, bedoeld in [artikel 21, onder c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21) is aangepast.
+2. De in het eerste lid onder a genoemde bedragen kunnen, in afwijking van de aanhef van het eerste lid, bij algemene maatregel van bestuur worden aangepast met het percentage waarmee het bedrag, bedoeld in [artikel 21, onder c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21) is aangepast. Indien de bedragen, bedoeld in het eerste lid, onder a, met ingang van 1 juli van enig jaar zijn aangepast op de wijze, bedoeld in het eerste lid, aanhef, en met ingang van 1 juli van het daaropvolgende jaar worden aangepast op de wijze, bedoeld in de eerste volzin, wordt toepassing gegeven aan het eerste lid, tweede volzin.
 
-3. Bij ministeriële regeling worden elk jaar, met ingang van 1 juli, de bedragen genoemd in de [artikelen 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-01-01&g=2004-01-01) (maximale huurgrens), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2004-01-01&g=2004-01-01) (maximum-inkomensgrens), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=15&z=2004-01-01&g=2004-01-01) (maximum-vermogensgrens) aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het peiljaar, als in januari volgend op het peiljaar in de Staatscourant bekendgemaakt. De maximum-inkomensgrens kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+3. Bij ministeriële regeling worden elk jaar, met ingang van 1 juli, de bedragen genoemd in de [artikelen 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=13&z=2004-03-26&g=2004-03-26) (maximale huurgrens), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=14&z=2004-03-26&g=2004-03-26) (maximum-inkomensgrens), en [15, eerste lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=4&artikel=15&z=2004-03-26&g=2004-03-26), (maximum-vermogensgrens) aangepast aan de ontwikkeling van de consumentenprijzen (alle huishoudens) in het peiljaar, als in januari volgend op het peiljaar in de Staatscourant bekendgemaakt. De maximum-inkomensgrens kan, naast de aanpassing daarvan volgens de eerste volzin, worden aangepast ter voorkoming van onbedoelde gevolgen van maatregelen met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-4. Bij regeling van Onze Minister wordt jaarlijks, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen die vanaf 1 juli krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01), als minimum-inkomensijkpunt zullen gelden.
+4. Bij regeling van Onze Minister wordt jaarlijks, na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid, de hoogte vastgesteld van de bedragen die vanaf 1 juli krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26), als minimum-inkomensijkpunt zullen gelden.
 
-5. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, de hoogte van de bedragen, die krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-01-01&g=2004-01-01) als referentie-inkomensijkpunt zullen gelden, aangepast met hetzelfde percentage, waarmee de corresponderende bedragen in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01), (minimum-inkomensijkpunt) worden aangepast. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
+5. Bij ministeriële regeling wordt elk jaar, met ingang van 1 juli, de hoogte van de bedragen, die krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-03-26&g=2004-03-26) als referentie-inkomensijkpunt zullen gelden, aangepast met hetzelfde percentage, waarmee de corresponderende bedragen in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26), (minimum-inkomensijkpunt) worden aangepast. Van dit percentage kan worden afgeweken, voor zover de wijziging van de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26), bedoelde jaarinkomens onbedoeld afwijkt van de wijziging welke naar verwachting plaats zal vinden met betrekking tot de inkomens boven het minimum-inkomensijkpunt.
 
-6. De bedragen, bedoeld in het eerste en tweede lid, en de maximale huurgrens, bedoeld in het derde lid, worden naar boven afgerond op hele eurocenten. De maximum-inkomensgrens en de maximum-vermogensgrens, bedoeld in het derde lid, en de bedragen, bedoeld in het vierde en vijfde lid, worden naar boven afgerond op een veelvoud van € 25. Bij een volgende aanpassing van deze bedragen en grenzen wordt uitgegaan van de bedragen en grenzen zoals die waren, voordat zij werden afgerond.
+6. De bedragen, bedoeld in het eerste en tweede lid, en de maximale huurgrens, bedoeld in het derde lid, worden naar boven afgerond op hele eurocenten. De maximum-inkomensgrens en de maximum-vermogensgrens, bedoeld in het derde lid, en de bedragen, bedoeld in het vierde en vijfde lid, worden naar boven afgerond op een veelvoud van € 25. Bij een volgende aanpassing van de grenzen en de bedragen, bedoeld in de tweede volzin, wordt uitgegaan van de grenzen en de bedragen zoals die waren, voordat zij werden afgerond.
 
 7. De minimum-inkomensijkpunten en de overeenkomstig het eerste tot en met zesde lid vastgestelde, vanaf 1 juli geldende, referentie-inkomensijkpunten, maximale huur-, inkomens-, vermogens-, kwaliteitskortings-, en aftoppingsgrenzen, alsmede de voor de verschillende inkomensklassen en typen huishouden geldende normhuren worden elk jaar uiterlijk op 1 mei in de **Staatscourant** bekendgemaakt.
 
-8. Bij algemene maatregel van bestuur kunnen de bedragen als vermeld in de [artikelen 3, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01), (inkomensvrijlating), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-01-01&g=2004-01-01), (vermogensvrijlating), [5, eerste lid onder b en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-01-01&g=2004-01-01) (garage-aftrek en maximum-servicekosten), [17, eerste lid onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-01-01&g=2004-01-01), (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid onder a en b, (verlaging van de normhuur bij minimum-inkomensijkpunt), [18, derde lid onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-01-01&g=2004-01-01) (verlaging van de normhuur bij referentie-inkomensijkpunt) en [21, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=3&artikel=21&z=2004-01-01&g=2004-01-01), (kindertoeslag) hoger of lager worden gesteld.
+8. Bij algemene maatregel van bestuur kunnen de bedragen, genoemd in de [artikelen 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=3&z=2004-03-26&g=2004-03-26) (inkomensvrijlating), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-03-26&g=2004-03-26) (vermogensvrijlating), [5, eerste lid, onder b, en derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-03-26&g=2004-03-26) (garage-aftrek en maximum-servicekosten), [17, eerste lid, onder c en d (ouderentoeslag bij minimum-inkomensijkpunt), en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=17&z=2004-03-26&g=2004-03-26) (verlaging van de normhuur bij minimum-inkomensijkpunt), en [18, derde lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=3&paragraaf=1&artikel=18&z=2004-03-26&g=2004-03-26) (verlaging van de normhuur bij referentie-inkomensijkpunt), hoger of lager worden gesteld.
 
 ### Hoofdstuk 6. Aanvraag, huursubsidiebericht, beperkt huursubsidiebericht, afhandeling en betaling
 
 ##### Artikel 28
 
-1. Een aanvraag tot toekenning van huursubsidie wordt gedaan door de huurder, door middel van een volledig ingevuld formulier, dat wordt vastgesteld door Onze Minister. Burgemeester en wethouders stellen het formulier verkrijgbaar. De aanvraag wordt ingediend bij burgemeester en wethouders.
+1. Een aanvraag om toekenning van huursubsidie wordt gedaan door de huurder, door middel van een volledig ingevuld en ondertekend formulier, dat wordt vastgesteld door Onze Minister. Onze Minister stelt het formulier verkrijgbaar. De aanvraag wordt ingediend bij Onze Minister.
 
-2. Bij de aanvraag wordt een verklaring gevoegd van elk van de medebewoners, inhoudende:
-
-- a. dat de op het aanvraagformulier vermelde, hen betreffende, gegevens inzake inkomen en vermogen juist zijn, en
-
-- b. dat er mee wordt ingestemd dat de inspecteur der rijksbelastingen of Onze Minister terzake van deze gegevens inlichtingen inwint bij, en informatie verschaft aan, de huurder, zo daartoe bij de toepassing van de artikelen 34 tot en met 36 aanleiding mocht zijn.
-
-3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de aanvullende gegevens en bescheiden die door de aanvrager, of een aanvrager die behoort tot een bepaalde categorie, bij de aanvraag worden verstrekt.
+2. Bij de aanvraag verklaart elk van de medebewoners dat hij er mee instemt dat de inspecteur der rijksbelastingen of Onze Minister terzake van de hen betreffende gegevens inzake inkomen en vermogen inlichtingen inwint bij, en informatie verschaft aan, de huurder, zo daartoe bij de toepassing van de [artikelen 1a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1a&z=2004-03-26&g=2004-03-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=35&z=2004-03-26&g=2004-03-26) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2004-03-26&g=2004-03-26) aanleiding mocht zijn.
 
 ##### Artikel 29
 
-1. Burgemeester en wethouders onderzoeken de juistheid en volledigheid van de bij de aanvraag verstrekte gegevens en bescheiden. Tevens onderzoeken zij of de personen die in de aanvraag als bewoners van de woning worden vermeld, als zodanig staan ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, en of in die administratie geen andere personen als bewoner van de woning staan ingeschreven. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.
+1. Onze Minister onderzoekt de juistheid en volledigheid van de bij de aanvraag verstrekte gegevens en bescheiden. Tevens onderzoekt Onze Minister of de personen die in de aanvraag als bewoners van de woning worden vermeld, als zodanig staan ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, en of in die administratie geen andere personen als bewoner van de woning staan ingeschreven. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.
 
-2. Als de aanvrager het aanvraagformulier niet volledig heeft ingevuld, of niet alle krachtens artikel 28, derde lid, vereiste aanvullende gegevens en bescheiden heeft verstrekt, en de wel verstrekte gegevens onvoldoende zijn voor de beoordeling van de aanvraag, geven burgemeester en wethouders de aanvrager ten minste vier weken de gelegenheid de aanvraag aan te vullen.
+2. Als de aanvrager het aanvraagformulier, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), niet volledig of niet juist heeft ingevuld of niet heeft ondertekend, of de verstrekte gegevens onvoldoende zijn voor de beoordeling van de aanvraag, geeft Onze Minister de aanvrager ten minste vier weken de gelegenheid de aanvraag aan te vullen.
 
-3. Burgemeester en wethouders zenden een volledige aanvraag binnen drie maanden na de datum van ontvangst door aan Onze Minister, met daarop een advies over de afhandeling.
+3. Onze Minister beslist met betrekking tot het aan de huurder toezenden van een huursubsidiebericht of een beperkt huursubsidiebericht, na een daartoe ingesteld onderzoek, mede op basis van de door de huurder onder toepassing van het tweede lid overgelegde gegevens.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een verzoek als bedoeld in de artikelen 26, eerste lid, en 26g, tweede lid.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een verzoek als bedoeld in de [artikelen 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4&artikel=26&z=2004-03-26&g=2004-03-26), en [26g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26g&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 30
 
-1. Als de bij een aanvraag verstrekte gegevens onvoldoende zijn voor de beoordeling van de aanvraag, stelt Onze Minister de aanvraag buiten behandeling. Dit besluit wordt zo spoedig mogelijk aan de aanvrager bekend gemaakt. [Artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) is hierbij niet van toepassing.
-
-2. In andere gevallen dan die, bedoeld in het eerste lid, beslist Onze Minister op een aanvraag binnen 15 maanden na de datum van indiening bij burgemeester en wethouders.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een verzoek als bedoeld in de artikelen 26, eerste lid, en 26g, tweede lid.
+Indien de gegevens, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=29&z=2004-03-26&g=2004-03-26), na het verstrijken van de in dat artikellid genoemde termijn door de huurder worden ingediend, wordt geen huursubsidie toegekend voor de kalendermaand waarin de datum van de aanvraag, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), valt, de kalendermaand waarin die gegevens worden ingediend en de tussenliggende kalendermaanden.
 
 ##### Artikel 30a
 
-1. Onze Minister zendt uiterlijk 1 juli van elk jaar aan de huurders:
+1. Onze Minister zendt over een subsidietijdvak een door hem vastgesteld huursubsidiebericht of beperkt huursubsidiebericht:
 
-- a. die over het subsidietijdvak dat loopt tot en met 30 juni 2001 een aanvraag om toekenning van huursubsidie hebben ingediend of een huursubsidiebericht hebben ontvangen, waarna uiterlijk 1 april 2001 positief is beschikt, en
+- a. aan de huurders die een aanvraag om toekenning van huursubsidie hebben ingediend en waarvan Onze Minister de gegevens, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=5&z=2004-03-26&g=2004-03-26), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2004-03-26&g=2004-03-26), en [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30b&z=2004-03-26&g=2004-03-26), heeft ontvangen, binnen vier weken na ontvangst van die gegevens, en
 
-- b. die een woning als bedoeld in artikel 11, eerste lid, onder a, huren van een verhuurder die op verzoek Onze Minister heeft gemachtigd de huurprijsgegevens te gebruiken in de zin van artikel 30b, tweede lid, dan wel die het bedrag aan huursubsidie rechtstreeks ontvangen van Onze Minister,
-
-een door Onze Minister vastgesteld huursubsidiebericht of beperkt huursubsidiebericht. De artikelen 22a en 28 tot en met 30 zijn in dat geval niet van toepassing.
+- b. aan de huurders die over het subsidietijdvak voorafgaand aan het in de aanhef genoemde subsidietijdvak een huursubsidiebericht of een beperkt huursubsidiebericht hebben ontvangen, waarna in eerstgenoemd tijdvak positief is beschikt, uiterlijk 1 juli van elk jaar.
 
 2. Tegen een huursubsidiebericht of een beperkt huursubsidiebericht kan geen bezwaar worden gemaakt of beroep worden ingesteld.
 
@@ -712,21 +710,23 @@ een door Onze Minister vastgesteld huursubsidiebericht of beperkt huursubsidiebe
 
 ##### Artikel 30aa
 
-1. Indien een huurder een beperkt huursubsidiebericht ontvangt, zendt hij de gegevens betreffende de huurprijs van de woning binnen vier weken na de verzenddatum van dat bericht aan Onze Minister.
+1. Indien een huurder een beperkt huursubsidiebericht ontvangt, zendt hij de ontbrekende gegevens binnen vier weken na de verzenddatum van dat bericht aan Onze Minister.
 
 2. Indien de huurder niet voldoet aan het eerste lid, stelt Onze Minister ambtshalve een termijn van ten hoogste vier weken vanaf de verzenddatum van de kennisgeving, binnen welke alsnog aan dat lid kan worden voldaan.
 
-3. Onze Minister beslist, na een daartoe ingesteld onderzoek, mede op basis van de inlichtingen, verstrekt ingevolge artikel 33, eerste lid, en mede op basis van de door de huurder onder toepassing van het eerste of tweede lid overgelegde gegevens.
+3. Onze Minister beslist, na een daartoe ingesteld onderzoek, mede op basis van de inlichtingen, verstrekt ingevolge [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26), en mede op basis van de door de huurder onder toepassing van het eerste of tweede lid overgelegde gegevens.
 
-4. Nadat de huurder heeft voldaan aan het eerste of tweede lid, beslist Onze Minister, indien de peildatum is gelegen op of na het verstrijken van de in het eerste en tweede lid verstreken termijn, binnen acht weken na die peildatum. Nadat de huurder heeft voldaan aan het eerste of tweede lid, beslist Onze Minister, indien de peildatum is gelegen voor het verstrijken van de in het eerste en tweede lid genoemde termijn, binnen acht weken na het verstrijken van die termijn.
+4. Nadat de huurder heeft voldaan aan het eerste of tweede lid, beslist Onze Minister, indien de peildatum is gelegen op of na het verstrijken van de in het eerste en tweede lid genoemde termijn, binnen acht weken na die peildatum. Nadat de huurder heeft voldaan aan het eerste of tweede lid, beslist Onze Minister, indien de peildatum is gelegen voor het verstrijken van de in het eerste en tweede lid genoemde termijn, binnen acht weken na het verstrijken van die termijn.
+
+5. Indien de huurder niet heeft voldaan aan het tweede lid, beslist Onze Minister binnen acht weken na het verstrijken van de in dat lid bedoelde termijn.
 
 ##### Artikel 30ab
 
-1. Indien de gegevens, bedoeld in artikel 30aa, eerste lid, na het verstrijken van de termijn, bedoeld in artikel 30aa, tweede lid, door de huurder worden ingediend, wordt geen huursubsidie toegekend voor de kalendermaand waarin de peildatum valt, de kalendermaand waarin die gegevens worden ingediend en de tussenliggende kalendermaanden.
+1. Indien de gegevens, bedoeld in [artikel 30aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30aa&z=2004-03-26&g=2004-03-26), na het verstrijken van de termijn, bedoeld in [artikel 30aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30aa&z=2004-03-26&g=2004-03-26), door de huurder worden ingediend, wordt geen huursubsidie toegekend voor de kalendermaand waarin de peildatum valt, de kalendermaand waarin die gegevens worden ingediend en de tussenliggende kalendermaanden.
 
-2. Artikel 30aa, derde lid, is van overeenkomstige toepassing.
+2. [Artikel 30aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30aa&z=2004-03-26&g=2004-03-26), is van overeenkomstige toepassing.
 
-3. Onze Minister beslist binnen acht weken nadat de huurder de gegevens, bedoeld in het eerste lid, heeft ingediend.
+3. Onze Minister beslist binnen acht weken nadat de huurder de gegevens, bedoeld in het eerste lid, heeft ingediend. Indien de huurder die gegevens volledig indient voordat Onze Minister toepassing heeft gegeven aan [artikel 30aa, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30aa&z=2004-03-26&g=2004-03-26), blijft dat lid buiten toepassing.
 
 ##### Artikel 30b
 
@@ -734,33 +734,45 @@ een door Onze Minister vastgesteld huursubsidiebericht of beperkt huursubsidiebe
 
 - a. het college van burgemeester en wethouders van een gemeente, voor zover het de in de gemeentelijke basisadministratie persoonsgegevens van die gemeente opgenomen gegevens betreft omtrent het woonadres van de huurder en de overige op dat adres als ingezetene ingeschreven personen;
 
-- b. Onze Minister van Financiën, voor zover het gegevens betreft inzake het inkomen van de huurder en de medebewoners, die worden verwerkt door de Rijksbelastingdienst, en
+- b. Onze Minister van Financiën, voor zover het gegevens betreft inzake het inkomen en het vermogen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=2&artikel=4&z=2004-03-26&g=2004-03-26), van de huurder en de medebewoners, die worden verwerkt door de Rijksbelastingdienst, en
 
-- c. de toegelaten instellingen, bedoeld in [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), voor zover het gegevens betreft inzake de huurprijs van de woning.
+- c. de verhuurders, voor zover het gegevens betreft inzake de huurprijs van de woning.
 
 2. Onze Minister verzamelt en analyseert de gegevens, bedoeld in het eerste lid, uitsluitend ten behoeve van het huursubsidiebericht of beperkt huursubsidiebericht.
 
-3. Het huursubsidiebericht omvat uitsluitend de gegevens, verstrekt krachtens het eerste lid, gegevens inzake het vermogen van de huurder en de medebewoners en de op basis van die gegevens berekende huursubsidie.
+3. Het huursubsidiebericht omvat uitsluitend de gegevens, verstrekt krachtens het eerste lid, en de op basis van die gegevens berekende huursubsidie.
 
-4. Het beperkt huursubsidiebericht omvat uitsluitend de gegevens, verstrekt krachtens het eerste lid, onder a en b, en gegevens inzake het vermogen van de huurder en de medebewoners.
+4. Het beperkt huursubsidiebericht omvat:
+
+- a. indien het een beperkt huursubsidiebericht is als bedoeld in [artikel 1, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2004-03-26&g=2004-03-26): uitsluitend de gegevens, verstrekt krachtens het eerste lid, onder a en b;
+
+- b. indien het een beperkt huursubsidiebericht is als bedoeld in [artikel 1, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2004-03-26&g=2004-03-26): uitsluitend de gegevens, verstrekt krachtens het eerste lid, onder a en c, of
+
+- c. indien het een beperkt huursubsidiebericht is als bedoeld in [artikel 1, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=1&paragraaf=1&artikel=1&z=2004-03-26&g=2004-03-26): uitsluitend de gegevens, verstrekt krachtens het eerste lid, onder a.
 
 ##### Artikel 30c
 
-Indien voor 15 juni van enig jaar blijkt dat de in artikel 30b, eerste lid, onder a en b, bedoelde gegevens ten behoeve van het huursubsidiebericht of het beperkt huursubsidiebericht niet door de in dat artikellid genoemde organen kunnen worden verstrekt, zendt Onze Minister aan de huurders, bedoeld in artikel 30a, eerste lid, een aanvraagformulier als bedoeld in artikel 28, eerste lid. De artikelen 22a, 28, met uitzondering van de tweede volzin van het eerste lid, 29 en 30 zijn in dat geval van overeenkomstige toepassing.
+1. Burgemeester en wethouders bevorderen dat binnen hun gemeente een of meer voorzieningen tot stand komen die de dienstverlening, voortvloeiende uit de uitvoering van deze wet, welke ten goede komt aan de huurders, verbeteren.
+
+2. Onze Minister verstrekt de gegevens, bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30b&z=2004-03-26&g=2004-03-26), uitsluitend ten behoeve van de voorzieningen, bedoeld in het eerste lid.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de taken en van de inrichting van de voorzieningen, bedoeld in het eerste lid.
 
 ##### Artikel 30d
 
-Onze Minister voert ten behoeve van een getrouwe weergave van de uitvoering en een effectief uitvoeringsproces, alsmede omtrent de verzonden huursubsidieberichten of beperkte huursubsidieberichten een zodanige administratie dat de juiste, volledige en tijdige vastlegging is gewaarborgd van de gegevens en bescheiden die verband houden met de toepassing van de artikelen 30a, 30aa, 30ab, 30b en 30c.
+Onze Minister voert ten behoeve van een getrouwe weergave van de uitvoering en een effectief uitvoeringsproces, alsmede omtrent de verzonden huursubsidieberichten of beperkte huursubsidieberichten een zodanige administratie dat de juiste, volledige en tijdige vastlegging is gewaarborgd van de gegevens en bescheiden die verband houden met de toepassing van de [artikelen 28 tot en met 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26).
 
 ##### Artikel 31
 
-1. De huursubsidie wordt steeds over een tijdvak van ten hoogste drie maanden uitbetaald, na afloop van dat tijdvak.
+1. De huursubsidie wordt maandelijks uitbetaald.
 
 2. Uitbetaling geschiedt door overmaking op een door de huurder opgegeven bank- of girorekening.
 
-3. Met instemming van de aanvrager of de huurder, bedoeld in artikel 30a, eerste lid, met uitzondering van de huurder die het bedrag aan huursubsidie rechtstreeks ontvangt van Onze Minister “Onze Minister” moet zijn “Onze Minister,”en de verhuurder, respectievelijk de gemeente, kan Onze Minister de huursubsidie, zo nodig in de vorm van een voorschot, uitbetalen aan de verhuurder van de woning, respectievelijk aan de gemeente waarin de aanvrager zijn woonplaats heeft. Een gegeven instemming kan niet worden herroepen. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gevallen waarin en de wijze waarop zodanige betaling plaatsvindt.
+3. Onze Minister kan aan de huurder, voordat op een aanvraag als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), een huursubsidiebericht of een beperkt huursubsidiebericht is beschikt, de huursubsidie zo nodig in de vorm van een voorschot uitbetalen.
 
-4. Als de huursubsidie aan een verhuurder of gemeente wordt uitbetaald, kan Onze Minister aan die verhuurder of gemeente een vergoeding toekennen overeenkomstig een door Onze Minister vastgesteld tarief.
+4. Onze Minister kan, na een daartoe ingesteld onderzoek, de ten onrechte of te veel onder toepassing van het derde lid uitbetaalde voorschotten van de huurder terugvorderen of verrekenen met aanspraken op huursubsidie van de huurder. Onze Minister stelt de hoogte van het terug te vorderen of te verrekenen voorschot en de wijze van terugvordering of verrekening vast.
+
+5. Op verzoek of met instemming van de huurder kan Onze Minister de huursubsidie uitbetalen aan de verhuurder van de woning; de verhuurder verleent hieraan zijn medewerking. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gevallen waarin en de wijze waarop zodanige betaling plaatsvindt.
 
 ##### Artikel 32
 
@@ -778,9 +790,7 @@ Onze Minister voert ten behoeve van een getrouwe weergave van de uitvoering en e
 
 ##### Artikel 34
 
-1. De inspecteur der rijksbelastingen onderzoekt de juistheid van de bij de aanvraag verstrekte gegevens inzake het vermogen van de huurder en van de medebewoners. Als de inspecteur vaststelt dat het vermogen van de huurder of van een medebewoner afwijkt van het bij de aanvraag opgegeven vermogen, en dat ten gevolge hiervan de krachtens artikel 15 toepasselijke vermogensgrens zou worden overschreden, stelt hij het rekenvermogen vast bij voor bezwaar vatbare beschikking, en maakt hij deze bekend aan degene aan wie de huursubsidie werd toegekend, en aan Onze Minister.
-
-2. Ten aanzien van het onderzoek en de vaststelling, bedoeld in het eerste lid, zijn de artikelen 2, 3 en 4 en de hoofdstukken V en VIII, met uitzondering van de [artikelen 47**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53),[54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) en [66, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 35
 
@@ -792,29 +802,29 @@ Onze Minister kan de uitbetaling van de huursubsidie geheel of gedeeltelijk opsc
 
 - a. in afwijking van deze wet of de daarop berustende bepalingen, of
 
-- b. als gevolg van het niet naleven van de artikelen 30a, vierde lid, of 33, tweede lid.
+- b. als gevolg van het niet naleven van de [artikelen 30a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30a&z=2004-03-26&g=2004-03-26), of [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26).
 
 2. Aan een besluit als bedoeld in het eerste lid kan terugwerkende kracht worden verleend over ten hoogste vijf subsidietijdvakken, voorafgaande aan het lopende subsidietijdvak:
 
 - a. als de door de huurder of de medebewoners verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat een ander besluit zou zijn genomen indien de juiste of volledige gegevens bij Onze Minister bekend zouden zijn geweest,
 
-- b. als de artikelen 30a, vierde lid, of 33, tweede lid, niet worden nageleefd, of.
+- b. als de [artikelen 30a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30a&z=2004-03-26&g=2004-03-26), of [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26), niet worden nageleefd, of.
 
 - c. als de huurder redelijkerwijs had kunnen begrijpen dat de huursubsidie ten onrechte of tot een te hoog bedrag is verleend.
 
 3. Als het eerste lid toepassing vindt kan de ten onrechte of te veel uitbetaalde huursubsidie van de huurder worden teruggevorderd, of worden verrekend met aanspraken op huursubsidie van de huurder. Onze Minister stelt de hoogte van het terug te vorderen of te verrekenen bedrag en de wijze van terugvordering of verrekening vast.
 
-4. Onze Minister kan, als de herziening haar grond vindt in het feit dat het aanvraagformulier niet naar waarheid is ingevuld, dan wel de artikelen 30a, vierde lid, of 33 niet zijn nageleefd, het terug te vorderen bedrag verhogen met 25 procent, met dien verstande dat deze verhoging niet meer mag bedragen dan € 225 per subsidietijdvak waarover ten onrechte huursubsidie werd genoten. De verhoging kan worden betrokken bij een verrekening als bedoeld in het derde lid.
+4. Onze Minister kan, als de herziening haar grond vindt in het feit dat het aanvraagformulier, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=28&z=2004-03-26&g=2004-03-26), niet naar waarheid is ingevuld, dan wel de [artikelen 30a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=30a&z=2004-03-26&g=2004-03-26), of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=33&z=2004-03-26&g=2004-03-26) niet zijn nageleefd, het terug te vorderen bedrag verhogen met 25 procent, met dien verstande dat deze verhoging niet meer mag bedragen dan € 225 per subsidietijdvak waarover ten onrechte huursubsidie werd genoten. De verhoging kan worden betrokken bij een verrekening als bedoeld in het derde lid.
 
 ##### Artikel 37
 
-1. Een krachtens artikel 26f, vijfde lid, teruggevorderd voorschot en een bedrag als bedoeld in artikel 36, derde en vierde lid, wordt ingevorderd door Onze Minister.
+1. Een krachtens de [artikelen 26f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26f&z=2004-03-26&g=2004-03-26), en [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=6&artikel=31&z=2004-03-26&g=2004-03-26), teruggevorderd voorschot en een bedrag als bedoeld in [artikel 36, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=7&artikel=36&z=2004-03-26&g=2004-03-26), wordt ingevorderd door Onze Minister.
 
 2. Onze Minister zendt een aanmaning om binnen een vastgestelde termijn van ten minste vier weken na dagtekening van de aanmaning de voorschotten terug te betalen, of het verschuldigde bedrag te voldoen, indien:
 
 - a. burgemeester en wethouders in gebreke blijven de door hen ontvangen voorschotten terug te betalen binnen de daarvoor gestelde termijn of
 
-- b. de huurder in gebreke blijft het door hem verschuldigde bedrag te voldoen binnen de daarvoor gestelde termijn.
+- b. de huurder in gebreke blijft het door hem ontvangen voorschot terug te betalen en het door hem verschuldigde bedrag te voldoen binnen de daarvoor gestelde termijn.
 
 3. De invordering van de voorschotten of het verschuldigde bedrag, vermeerderd met de kosten van aanmaning en invordering, kan zonder rechterlijke tussenkomst geschieden bij dwangbevel, indien:
 
@@ -832,7 +842,7 @@ Onze Minister kan de uitbetaling van de huursubsidie geheel of gedeeltelijk opsc
 
 8. De kosten van aanmaning en verdere invordering worden berekend op de voet van de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645). De [artikelen 6 en 7 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=6) zijn van overeenkomstige toepassing.
 
-### Hoofdstuk 8. Beheersing van de huurlasten en huursubsidie-uitgaven
+### Hoofdstuk 8. Beperking huursubsidietoekenning boven de aftoppingsgrens
 
 #### § 1. Beperking huursubsidietoekenning boven de aftoppingsgrens
 
@@ -862,45 +872,23 @@ Het verschuldigd zijn van de financiële bijdrage, alsmede de hoogte daarvan, wo
 
 ##### Artikel 41
 
-1. Onze Minister stelt telkenjare, voor 1 mei, de huursubsidie-uitgavennorm vast voor het daaropvolgende subsidiejaar.
-
-2. De huursubsidie-uitgavennorm geeft weer hoe het totaal van de uitgaven, bedoeld in artikel 42, eerste lid, zich in dat subsidiejaar dient te verhouden tot het totaal van die uitgaven in het laatste subsidiejaar dat is geëindigd, uitgaande van een gelijkblijvend aantal huurders waaraan huursubsidie wordt toegekend.
-
-3. De huursubsidie-uitgavennorm wordt in de **Staatscourant** bekendgemaakt.
-
-4. Onze Minister maakt de uit de huursubsidie-uitgavennorm voortvloeiende verplichtingen voor een gemeente uiterlijk 1 januari van het betreffende subsidiejaar bekend aan die gemeente.
+Vervallen
 
 ##### Artikel 42
 
-1. Burgemeester en wethouders en de in de gemeente werkzame verhuurders dragen er aan bij dat de ontwikkeling van de uitgaven, voortvloeiend uit de uitvoering van deze wet, die ten goede komen aan de huurders van woningen, de huursubsidie-uitgavennorm landelijk niet overschrijdt.
-
-2. Burgemeester en wethouders en in die gemeente werkzame verhuurders, dan wel in die gemeente werkzame verhuurders onderling, kunnen afspraken maken omtrent het gezamenlijk voldoen aan de huursubsidie-uitgavennorm door de betrokken verhuurders. Als de afspraken worden gemaakt door verhuurders onderling, delen zij uiterlijk 15 september aan burgemeester en wethouders mee welke verhuurders dat subsidiejaar aan de afspraken deelnemen. Uiterlijk 1 oktober delen burgemeester en wethouders aan Onze Minister mee welke verhuurders dat subsidiejaar aan de afspraken deelnemen.
+Vervallen
 
 ##### Artikel 43
 
-1. Als Onze Minister constateert dat over enig subsidiejaar de huursubsidie-uitgavennorm, bedoeld in artikel 41, eerste lid, landelijk wordt overschreden, stelt hij een nader onderzoek in, bij welke gemeenten deze overschrijding zich in het bijzonder heeft voorgedaan.
-
-2. Als Onze Minister constateert dat, in het geval, bedoeld in het eerste lid, in een gemeente over enig subsidiejaar de huursubsidie-uitgavennorm is overschreden, stelt hij een nader onderzoek in, bij welke verhuurders deze overschrijding zich in het bijzonder heeft voorgedaan. Bij dit onderzoek worden slechts de verhuurders betrokken die:
-
-- a. op de eerste dag van het betrokken subsidiejaar in de betrokken gemeente 25 of meer woningen beheerden ten aanzien waarvan huursubsidie werd toegekend, en
-
-- b. voorzover genoemd in een mededeling als bedoeld in artikel 42, tweede lid: als groep de huursubsidie-uitgavennorm overschrijden.
+Vervallen
 
 ##### Artikel 44
 
-1. De verhuurder, bedoeld in artikel 43, tweede lid, die met betrekking tot de door hem in de gemeente verhuurde woningen waarvoor huursubsidie werd toegekend de huursubsidie-uitgavennorm, bedoeld in artikel 41, eerste lid, heeft overschreden, is aan het Rijk een financiële bijdrage verschuldigd, gelijk aan het bedrag der overschrijding. Daarbij is bepalend het aantal gevallen dat bij Onze Minister bekend is op 1 januari na afloop van het subsidiejaar.
-
-2. Bij algemene maatregel van bestuur:
-
-- a. kunnen gevallen worden aangewezen waarin, in afwijking van het eerste lid, geen of een lagere financiële bijdrage verschuldigd is;
-
-- b. kunnen regels worden gesteld omtrent de te volgen procedure en de te verstrekken gegevens om in aanmerking te komen voor geen of een lagere financiële bijdrage, en
-
-- c. kunnen nadere regels worden gesteld over de berekening van de verschuldigde financiële bijdrage.
+Vervallen
 
 ##### Artikel 45
 
-Het verschuldigd zijn van de financiële bijdrage, alsmede de hoogte daarvan, worden bij beschikking door Onze Minister vastgesteld, uiterlijk vijf jaren na afloop van het subsidiejaar waarop de bijdrage betrekking heeft.
+Vervallen
 
 ### Hoofdstuk 9. Bestuurlijke informatieverschaffing, administratie, toezicht op de naleving en experimenten
 
@@ -914,17 +902,17 @@ Burgemeester en wethouders verstrekken desgevraagd aan Onze Minister de gegevens
 
 ##### Artikel 48
 
-In de administratie over de uitvoering van deze wet wordt het sociaal-fiscaal nummer opgenomen waaronder een aanvrager van huursubsidie, een huurder aan wie een huursubsidiebericht of beperkt huursubsidiebericht wordt toegezonden en de medebewoners zijn geregistreerd bij de rijksbelastingdienst. Bij de verstrekking van gegevens over de uitvoering van deze wet wordt gebruik gemaakt van dit sociaal-fiscaalnummer.
+In de administratie over de uitvoering van deze wet wordt het sociaal-fiscaal nummer opgenomen waaronder een aanvrager van huursubsidie, een huurder aan wie een huursubsidiebericht of beperkt huursubsidiebericht wordt toegezonden en de medebewoners zijn geregistreerd bij de rijksbelastingdienst. Bij de verstrekking van gegevens over de uitvoering van deze wet wordt gebruik gemaakt van dit sociaal-fiscaalnummer. Onder sociaal-fiscaalnummer wordt verstaan: het nummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2).
 
 ##### Artikel 48a
 
 1. Burgemeester en wethouders voeren ten behoeve van een getrouwe weergave van de uitvoering en een effectief uitvoeringsproces een zodanige administratie dat de juiste, volledige en tijdige vastlegging zijn gewaarborgd van de gegevens en bescheiden die verband houden met:
 
-- a. de besluiten over aanvragen, onderzoeken, toekenningen, vorderingen en verplichtingen en de hieruit voortvloeiende betalingen en ontvangsten, genomen en gedaan ingevolge hoofdstuk 4A;
+- a. de besluiten over aanvragen, onderzoeken, toekenningen, vorderingen en verplichtingen en de hieruit voortvloeiende betalingen en ontvangsten, genomen en gedaan ingevolge [hoofdstuk 4A](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&z=2004-03-26&g=2004-03-26);
 
-- b. de onderzoeken die worden verricht ingevolge de artikelen 26c, zevende lid, aanhef, en 29, eerste lid, en
+- b. de onderzoeken die worden verricht ingevolge [artikel 26c, zevende lid, aanhef, juncto onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A&artikel=26c&z=2004-03-26&g=2004-03-26);
 
-- c. de toepassing van de artikelen 12, tweede lid, 38 en 42.
+- c. de toepassing van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=2&paragraaf=3&artikel=12&z=2004-03-26&g=2004-03-26), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=8&artikel=38&z=2004-03-26&g=2004-03-26).
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het eerste lid.
 
@@ -942,7 +930,7 @@ In de administratie over de uitvoering van deze wet wordt het sociaal-fiscaal nu
 
 ##### Artikel 50
 
-De voordracht voor een algemene maatregel van bestuur krachtens artikel 27, eerste lid, onder a, en tweede lid, wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
+De voordracht voor een algemene maatregel van bestuur krachtens [artikel 27, eerste lid, onder a, en tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=5&artikel=27&z=2004-03-26&g=2004-03-26), wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging acht weken zijn verstreken.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -986,29 +974,7 @@ Indien artikel I, onder B en C, van het bij koninklijke boodschap van 26 juni 19
 
 ##### Artikel 56a
 
-Voorzover de aanvraag om toekenning van huursubsidie, het huursubsidiebericht of het beperkt huursubsidiebericht betrekking heeft op een subsidiejaar dat eindigt voor 1 juli 2002, wordt:
-
-- a. voor de toepassing van artikel 3, derde lid, onderdeel a, onder het gecorrigeerde verzamelinkomen verstaan het belastbare inkomen, bedoeld in de Wet op de inkomstenbelasting 1964, over het peiljaar;
-
-- b. voor de toepassing van artikel 3, derde lid, onderdeel b, onder het aldaar genoemde loon verstaan het loon, bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), over het peiljaar, verminderd met het krachtens [artikel 17, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=17), aftrekbare percentage of bedrag;
-
-- c. voor de toepassing van artikel 4, eerste lid, onder rekenvermogen verstaan het gezamenlijk vermogen van de huurder en de medebewoners op 1 januari 2000;
-
-- d. voor de toepassing van artikel 4, derde lid, onder vermogen verstaan het vermogen, bedoeld in hoofdstuk II, met uitzondering van artikel 5, van de Wet op de vermogensbelasting 1964, met dien verstande dat bij algemene maatregel van bestuur:
-
-- 1°. waarderingsgrondslagen kunnen worden vastgesteld met betrekking tot motorrijtuigen, en
-
-- 2°. regels kunnen worden vastgesteld met betrekking tot de waardering van een aandeel in een vermogen waarover huurder of medebewoners konden beschikken;
-
-- e. voor de toepassing van artikel 15, eerste lid, onderdeel b, voor «€ 35 200» gelezen: € 27 090,68;
-
-- f. voor de toepassing van artikel 26, tweede lid, voor «een daling van het vermogen na het peiljaar» gelezen: een daling van het vermogen na 1 januari 2000.
-
-- g. voor de toepassing van artikel 26a, eerste lid, onderdeel a, onder een gecorrigeerd verzamelinkomen verstaan: een belastbaar inkomen;
-
-- h. voor de toepassing van artikel 27, derde lid, onder inkomens verstaan belastbare inkomens, en
-
-- i. voor de toepassing van artikel 27, vijfde lid, onder jaarinkomens en onder inkomens verstaan belastbare inkomens.
+Vervallen
 
 ##### Artikel 57
 
@@ -1043,5 +1009,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 ##### Artikel 56b
 
 In afwijking van artikel 13, eerste lid, onderdeel a, aanhef, onderscheidenlijk onderdeel b, van de Huursubsidiewet, zoals die luidden na het tijdstip van inwerkingtreding van [artikel I, onderdeel EA, van de wet van 26 januari 2004 tot wijziging van de Huursubsidiewet en enkele andere wetten (introductie van een nieuwe procedure voor huurders die een aanvraag om toekenning van huursubsidie indienen)](https://wetten.overheid.nl/jci1.3:c:BWBR0016332&artikel=I) (Stb. 61), luiden de daarin genoemde bedragen voor het tijdvak dat loopt van 1 juli 2003 tot en met 30 juni 2004: € 585,24 onderscheidenlijk € 317,03.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 9. Bestuurlijke informatievoorziening, administratie, toezicht op de naleving, gemeentelijk woonlastenfonds en experimenten
+
+### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
