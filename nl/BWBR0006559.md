@@ -107,19 +107,3 @@ De op het model van het politielegitimatiebewijs aangegeven gegevens worden inge
 Het politielegitimatiebewijs van de korpschef wordt ondertekend door de korpschef en de korpsbeheerder. Het politielegitimatiebewijs van de overige ambtenaren van politie, bedoeld in artikel 1, wordt ondertekend door de ambtenaar en de korpschef of een door deze aangewezen ambtenaar.
 
 Het politielegitimatiebewijs wordt gelamineerd met een door het Korps landelijke politiediensten te verstrekken pouche waarin een kinegram met het politielogo is verwerkt. Het kinegram wordt geplaatst op de pasfoto. Het politielegitimatiebewijs wordt gelamineerd op 115 °C.
-
-##### Artikel 8a
-
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30).
-
-## Bijlage 2
-
-Het politielegitimatiebewijs wordt als volgt geprepareerd:
-
-Het politielegitimatiebewijs wordt voorzien van een zwart/wit pasfoto van de ambtenaar. Het formaat van de pasfoto is 25 bij 32 millimeter. De foto wordt van het vooraanzicht van het gelaat genomen.
-
-De op het model van het politielegitimatiebewijs aangegeven gegevens worden ingevuld.
-
-Het politielegitimatiebewijs van de korpschef wordt ondertekend door de korpschef en de korpsbeheerder. Het politielegitimatiebewijs van de overige ambtenaren van politie, bedoeld in artikel 1, wordt ondertekend door de ambtenaar en de korpschef of een door deze aangewezen ambtenaar.
-
-Het politielegitimatiebewijs wordt gelamineerd met een door het Korps landelijke politiediensten te verstrekken pouche waarin een kinegram met het politielogo is verwerkt. Het kinegram wordt geplaatst op de pasfoto. Het politielegitimatiebewijs wordt gelamineerd op 115 °C.
