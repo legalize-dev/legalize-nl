@@ -173,35 +173,3 @@ Deze wet kan worden aangehaald onder den titel "Distributiewet 1939".
 7. Het besluit, bedoeld in het tweede, vierde en vijfde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 10a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 10b
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 10c
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 2. Van de distributiekringen
-
-#### § 3. Straf- en slotbepalingen
-
-##### Artikel 22c
-
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1&artikel=4&z=2005-03-16&g=2005-03-16) en [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&paragraaf=1a&artikel=10a&z=2005-03-16&g=2005-03-16) gezamenlijk of afzonderlijk in werking worden gesteld.
-
-2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
-
-3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
-
-4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
-
-5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
-
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het Staatsblad.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
