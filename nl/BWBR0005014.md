@@ -61,9 +61,3 @@ Hebben goedgevonden en verstaan:
 Dit besluit treedt in werking op het tijdstip, waarop Boek 8 van het Burgerlijk Wetboek in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 2a
-
-De rekeneenheid, genoemd in dit besluit, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen die in dit besluit zijn uitgedrukt in rekeneenheden, worden omgerekend in euro’s naar de koers van de dag van betaling, danwel, in geval van een gerechtelijke procedure, naar de koers van de dag van de uitspraak. De waarde in euro’s, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
