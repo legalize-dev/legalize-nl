@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2002-07-01"
+last_updated: "2002-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -113,7 +113,7 @@ De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bes
 
 - 2. Arrondissement 's-Gravenhage: Alkemade, Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, De Lier, Delft, Gouda, 's-Gravenhage, 's-Gravenzande, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Liemeer, Lisse, Maasland, Monster, Moordrecht, Naaldwijk, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnsburg, Rijnwoude, Rijswijk, Sassenheim, Schipluiden, Schoonhoven, Ter Aar, Valkenburg (Z.-H.), Vlist, Voorhout, Voorschoten, Waddinxveen, Warmond, Wassenaar, Wateringen, Zevenhuizen-Moerkappelle, Zoetermeer, Zoeterwoude.
 
-- 3. Arrondissement Middelburg: Axel, Borsele, Goes, Hontenisse, Hulst, Kapelle, Middelburg, Noord-Beveland, Oostburg, Reimerswaal, Sas van Gent, Schouwen-Duiveland, Sluis-Aardenburg, Terneuzen, Tholen, Veere, Vlissingen.
+- 3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.
 
 - 4. Arrondissement Rotterdam: Albrandswaard, Barendrecht, Bergschenhoek, Berkel en Rodenrijs, Bernisse, Bleiswijk, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Rozenburg, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.
 
