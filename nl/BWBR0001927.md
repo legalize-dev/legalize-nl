@@ -4,7 +4,7 @@ identifier: "BWBR0001927"
 country: "nl"
 rank: "kb"
 publication_date: "2002-12-25"
-last_updated: "1994-12-07"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001927"
 soort: "KB"
@@ -78,28 +78,16 @@ Den inverzekeringgestelde kan worden vergund zich met zoodanigen arbeid bezig te
 
 1. Overigens geschiedt de behandeling van den inverzekeringgestelde in het algemeen in dier voege, dat hij aan geene andere beperkingen wordt onderworpen dan die voor het doel zijner opsluiting of in het belang der orde volstrekt noodzakelijk zijn.
 
-2. Behoudens het reeds in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=3&z=1994-12-07&g=1994-12-07) daaromtrent bepaalde, kan ook alleen zoodanige volstrekte noodzakelijkheid grond opleveren voor de weigering van eene vergunning als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=2&z=1994-12-07&g=1994-12-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=3&z=1994-12-07&g=1994-12-07) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=4&z=1994-12-07&g=1994-12-07).
+2. Behoudens het reeds in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=3&z=2002-12-25&g=2002-12-25) daaromtrent bepaalde, kan ook alleen zoodanige volstrekte noodzakelijkheid grond opleveren voor de weigering van eene vergunning als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=2&z=2002-12-25&g=2002-12-25), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=3&z=2002-12-25&g=2002-12-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=4&z=2002-12-25&g=2002-12-25).
 
 ##### Artikel 6
 
-1. Ten aanzien van de in verzekering of in voorloopige hechtenis gestelde personen kunnen door de onderscheidenlijk in artikelen 222 en 225 van de Invoeringswet Strafvordering bedoelde autoriteiten op den daarbij aangewezen voet de maatregelen worden bevolen, die deze in het belang van het onderzoek noodzakelijk achten.
-
-2. Als zoodanige maatregelen kunnen onder meer worden bevolen:
-
-- a. het verbod, behoudens het bepaalde in [artikel 50 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=50), om van bepaalde personen of in het algemeen bezoek te ontvangen of om met bepaalde personen of in het algemeen brieven te wisselen;
-
-- b. het afscheren, knippen of laten groeien van den baard of van het hoofdhaar;
-
-- c. het photographeeren, al dan niet in bepaalde standen;
-
-- d. het nemen van vingerafdrukken en lichaamsmaten;
-
-- e. het tijdelijk doen aantrekken van eene bepaalde kleeding.
+Vervallen
 
 ##### Artikel 7
 
 1. Dit besluit geldt niet voor inverzekeringstelling of voorloopige hechtenis ten uitvoer gelegd in een huis van bewaring.
 
-2. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=1&z=1994-12-07&g=1994-12-07) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=5&z=1994-12-07&g=1994-12-07) gelden niet voor inverzekeringstelling ingevolge [artikel 490, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=490).
+2. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=1&z=2002-12-25&g=2002-12-25) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001927&artikel=5&z=2002-12-25&g=2002-12-25) gelden niet voor inverzekeringstelling ingevolge [artikel 490, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=490).
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en in afschrift zal worden gezonden aan den Raad van State.
