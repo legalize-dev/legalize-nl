@@ -4,7 +4,7 @@ identifier: "BWBR0013798"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-16"
-last_updated: "2002-10-18"
+last_updated: "2003-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013798"
 soort: "wet"
@@ -94,7 +94,7 @@ Er is een Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 
 ##### Artikel 10
 
-Het Bureau heeft voorts tot taak bestuursorganen desgevraagd te informeren omtrent de in deze wet en in andere algemeen verbindende voorschriften neergelegde weigerings- en intrekkingsgronden inzake subsidies en vergunningen.
+Het Bureau heeft voorts tot taak bestuursorganen desgevraagd te informeren omtrent de in deze wet en in andere algemeen verbindende voorschriften neergelegde weigerings- en intrekkingsgronden inzake subsidies, vergunningen en ontheffingen.
 
 ##### Artikel 11
 
