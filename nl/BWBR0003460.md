@@ -4,7 +4,7 @@ identifier: "BWBR0003460"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2019-09-14"
-last_updated: "1993-07-01"
+last_updated: "2003-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003460"
 soort: "rijksKB"
@@ -54,7 +54,9 @@ Hebben goedgevonden en verstaan:
 
 - c. de eed af te nemen, die de voogd, toeziende voogd, curator of toeziende curator volgens de wet moet afleggen;
 
-- d. volmachten op te maken.
+- d. volmachten op te maken;
+
+- e. het overeenkomstig [artikel 5c van de Wet conflictenrecht namen](https://wetten.overheid.nl/jci1.3:c:BWBR0004580&artikel=5c) in ontvangst nemen, beoordelen en opmaken van een verklaring houdende naamskeuze als bedoeld in [artikel 5b, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004580&artikel=5b).
 
 2. Deze bevoegdheden worden niet uitgeoefend in een staat, welks regering tegen de uitoefening bezwaar heeft.
 
