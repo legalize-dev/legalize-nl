@@ -4,7 +4,7 @@ identifier: "BWBR0003763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003763"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als wissellaadbakken, bedoeld in [artikel 2, onder c, van het Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=2), worden aangemerkt containers die:
+Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=1a), worden aangemerkt containers die:
 
 - a. niet stapelbaar zijn en niet toegerust zijn met bovenhoekstukken en tevens
 
@@ -57,7 +57,7 @@ Als wissellaadbakken, bedoeld in [artikel 2, onder c, van het Besluit containers
 
 ##### Artikel 3
 
-De beproevingen, bedoeld in [artikel 8, eerste lid, van het Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2002-01-01&g=2002-01-01) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=10&z=2002-01-01&g=2002-01-01).
+De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01).
 
 ##### Artikel 4
 
@@ -170,7 +170,7 @@ een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met
 
 ##### Artikel 11
 
-Ten aanzien van containers is artikel 4, eerste lid, van de wet niet van toepassing.
+Vervallen
 
 ##### Artikel 12
 
@@ -184,7 +184,7 @@ Het merk van goedkeuring van een container bestaat in een plaat van duurzaam cor
 
 - 2º. de maand en het jaar van fabricage,
 
-- 3º. het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) en dat nummer niet bekend is, het identificatienummer dat de keuringsinstantie aan de container heeft toegekend,
+- 3º. het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) en dat nummer niet bekend is, het identificatienummer dat de aangewezen instelling aan de container heeft toegekend,
 
 - 4º. de maximaal toelaatbare massa van de container tezamen met zijn lading, in kg en lbs (kg-lb),
 
@@ -196,7 +196,7 @@ Het merk van goedkeuring van een container bestaat in een plaat van duurzaam cor
 
 - 8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede
 
-- 9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=11) voor de eerste maal moet worden onderzocht,
+- 9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=11) voor de eerste maal moet worden onderzocht,
 
 ##### Artikel 13
 
@@ -212,13 +212,13 @@ Fabrikanten van en handelaren in containers zijn bevoegd om containers die gehee
 
 - 3º. de namen en adressen van degenen aan wie de containers worden afgeleverd;
 
-- c. alvorens wordt aangevangen met de vervaardiging van een nieuwe serie containers overeenkomstig het goedgekeurde monster of de goedgekeurde monsters, daarvan aan de keuringsinstantie kennis wordt gegeven;
+- c. alvorens wordt aangevangen met de vervaardiging van een nieuwe serie containers overeenkomstig het goedgekeurde monster of de goedgekeurde monsters, daarvan aan de aangewezen instelling kennis wordt gegeven;
 
-- d. in het ontwerp of de specificatie van het goedgekeurde monster of de goedgekeurde monsters geen wijziging wordt aangebracht dan nadat daarmede de instemming van de keuringsinstantie is verkregen;
+- d. in het ontwerp of de specificatie van het goedgekeurde monster of de goedgekeurde monsters geen wijziging wordt aangebracht dan nadat daarmede de instemming van de aangewezen instelling is verkregen;
 
 - e. in de onderneming een controleregeling getroffen is om te waarborgen dat de containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen en
 
-- f. de keuringsinstantie in de gelegenheid wordt gesteld om tijdens de vervaardiging van de containers door onderzoekingen of beproevingen te controleren of die containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen.
+- f. de aangewezen instelling in de gelegenheid wordt gesteld om tijdens de vervaardiging van de containers door onderzoekingen of beproevingen te controleren of die containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen.
 
 ##### Artikel 14
 
@@ -228,7 +228,7 @@ Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die 
 
 ##### Artikel 15
 
-Voor de keuring van containers mag de vergoeding ten hoogste € 160 exclusief BTW per uur bedragen, daarbij de reis-, verblijf- of andere met de keuring verband houdende kosten niet inbegrepen.
+Vervallen
 
 ### Hoofdstuk V. Aanwijzing ambtenaren
 
@@ -244,7 +244,7 @@ Vervallen
 
 ##### Artikel 18
 
-Het merk van afkeuring van een container bestaat in een metalen plaat waarop duidelijk en onuitwisbaar vermeld is: CONTAINER AFGEKEURD. Het merk van afkeuring wordt door middel van stevig metaaldraad en een loodzegel aan de container bevestigd.
+Vervallen
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -252,4 +252,42 @@ Het merk van afkeuring van een container bestaat in een metalen plaat waarop dui
 
 1. Deze regeling wordt in de Nederlandse Staatscourant geplaatst.
 
-2. Zij treedt in werking op het tijdstip waarop het [Besluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) in werking treedt, met uitzondering van [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=III&artikel=12&z=2002-01-01&g=2002-01-01), 9°, dat in werking treedt met ingang van 1 januari 1987.
+2. Zij treedt in werking op het tijdstip waarop het [Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) in werking treedt, met uitzondering van [artikel 12, onder b, 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=III&artikel=12&z=2003-09-01&g=2003-09-01), dat in werking treedt met ingang van 1 januari 1987.
+
+##### Artikel 2a
+
+In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbekend), worden door de aangewezen instelling ten minste de volgende onderwerpen behandeld:
+
+- a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;
+
+- b. wijzigingen in de op het werkveld van de instelling betrekking hebbende accreditaties, reglementen en procedures;
+
+- c. wijzigingen in de op het werkveld van de instelling betrekking hebbende taakverdeling;
+
+- d. wijzigingen in de bestuurssamenstelling;
+
+- e. wijzigingen in de statuten of het huishoudelijk reglement;
+
+- f. aan derden uitbestede werkzaamheden;
+
+- g. structurele knelpunten op het werkveld van de instelling die zich in de uitvoeringspraktijk hebben voorgedaan;
+
+- h. het gevoerde overleg en de samenwerking op het werkveld met andere instellingen;
+
+- i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
+
+- j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;
+
+- k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.
+
+### Hoofdstuk II. Keuring
+
+### Hoofdstuk III. Merk van goedkeuring
+
+### Hoofdstuk IV. Keuringstarief
+
+### Hoofdstuk V. Aanwijzing ambtenaren
+
+### Hoofdstuk VI. Merk van afkeuring
+
+### Hoofdstuk VII. Slotbepalingen
