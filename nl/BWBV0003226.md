@@ -167,39 +167,3 @@ De regelen van internationaal recht met betrekking tot vaste platforms gelegen o
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.
 
 DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
-
-##### Artikel 2bis
-
-Aan een strafbaar feit in de zin van dit Protocol maakt zich schuldig hij die wederrechtelijk en opzettelijk, indien het doel van de gedraging door haar aard of context is een bevolking te intimideren of een regering of internationale organisatie te dwingen tot het verrichten of zich onthouden van enige handeling:
-
-- a. tegen, op of vanaf een vast platform een explosief, radioactief materiaal of een biologisch, chemisch of nucleair wapen doet vrijkomen op een wijze die leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of
-
-- b. van een vast platform olie, vloeibaar gemaakt aardgas of een andere schadelijke of gevaarlijke stof doet vrijkomen waarop sub a niet van toepassing is en wel in een zodanige hoeveelheid of concentratie dat dit leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of
-
-- c. al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving dreigt met het plegen van een strafbaar feit zoals voorzien in sub a of b.
-
-##### Artikel 2ter
-
-Aan een strafbaar feit in de zin van dit Protocol maakt zich tevens schuldig hij die:
-
-- a. wederrechtelijk en opzettelijk een ander verwondt of doodt in verband met het plegen van een van de strafbare feiten omschreven in artikel 2, eerste lid, of in artikel 2**bis**; of
-
-- b. poogt een strafbaar feit te plegen omschreven in artikel 2, eerste lid, artikel 2**bis**, sub a of b, of sub a van dit artikel; of
-
-- c. als medeplichtige deelneemt aan een strafbaar feit omschreven in artikel 2, artikel 2**bis** of sub a of b van dit artikel; of
-
-- d. het plegen van een strafbaar feit omschreven in artikel 2, artikel 2**bis** of sub a of b van dit artikel organiseert of anderen opdracht geeft een van deze strafbare feiten te plegen; of
-
-- e. bijdraagt tot het plegen van een of meer van de strafbare feiten omschreven in artikel 2, artikel 2**bis** of sub a of b van dit artikel, door een groep personen die opzettelijk, met een gemeenschappelijk doel handelt en:
-
-- i. hetzij met het oog op de bevordering van de criminele activiteit of het criminele doel van de groep, wanneer een dergelijke activiteit of het doel het plegen van een strafbaar feit inhoudt zoals omschreven in artikel 2 of 2**bis**;
-
-- ii. hetzij met de wetenschap van het doel van de groep een strafbaar feit te plegen zoals omschreven in artikel 2 of 2**bis**.
-
-##### Artikel 4bis. Slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005
-
-De slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005 zijn de artikelen 8 tot en met 13 van het Protocol van 2005 bij het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat. Verwijzingen in dit Protocol naar Staten-Partijen verwijzen naar Staten die Partij zijn bij het Protocol van 2005.
-
-IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol.
-
-DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
