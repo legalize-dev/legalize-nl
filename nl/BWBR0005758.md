@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2004-11-26"
+last_updated: "2004-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Dit besluit berust mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2004-11-26&g=2004-11-26) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2004-12-15&g=2004-12-15) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met artikel 1, eerste lid, artikel 2, derde lid, artikel 4, tweede en derde lid, en artikel 4 bis, van [verordening (EG) 466/2001](32001R0466).
 
@@ -98,7 +98,7 @@ Dit besluit berust mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c
 
 3. Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, ter uitvoering van [Richtlijn nr. 93/43/EEG](31993L0043) van de Raad van de Europese Gemeenschappen van 14 juni 1993 inzake levensmiddelenhygiëne (PbEG L 175) nadere regels inzake het eerste en tweede lid.
 
-4. Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, en met inachtneming van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=7&z=2004-11-26&g=2004-11-26), van de in het derde lid genoemde richtlijn, nadere regels stellen inzake het eerste en tweede lid, voor zover die betrekking hebben op:
+4. Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, en met inachtneming van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=7&z=2004-12-15&g=2004-12-15), van de in het derde lid genoemde richtlijn, nadere regels stellen inzake het eerste en tweede lid, voor zover die betrekking hebben op:
 
 - a. de inrichting en het gebruik van bedrijfsruimten of bereidplaatsen;
 
@@ -248,9 +248,9 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2004-11-26&g=2004-11-26), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2004-12-15&g=2004-12-15), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
-#### § 5. Bewaring en vervoer
+#### § 4. Verontreinigingen
 
 ##### Artikel 14
 
@@ -302,7 +302,7 @@ is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://
 
 - d. de ongekoelde bewaring of opslag leidt niet tot een uit microbiologisch oogpunt onveiliger waar.
 
-#### § 6. Verpakking
+#### § 5. Bewaring en vervoer
 
 ##### Artikel 16
 
@@ -320,13 +320,13 @@ is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://
 
 2. De vermeldingen, bedoeld in het eerste lid, mogen worden aangebracht in een code, die zodanig moet zijn dat onjuist gebruik ter zake bij de bereiding wordt voorkomen.
 
-#### § 7. Slotbepalingen
+#### § 6. Verpakking
 
 ##### Artikel 18
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2004-11-26&g=2004-11-26), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2004-12-15&g=2004-12-15), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
 
 - a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
@@ -356,9 +356,9 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2004-11-26&g=2004-11-26), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2004-11-26&g=2004-11-26) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2004-11-26&g=2004-11-26) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2004-12-15&g=2004-12-15), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2004-12-15&g=2004-12-15) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2004-12-15&g=2004-12-15) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2004-11-26&g=2004-11-26), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2004-12-15&g=2004-12-15), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
 4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -427,6 +427,16 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 #### § 5. Bewaring en vervoer
 
 #### § 6. Verpakking
+
+#### § 7. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 2a
+
+De Voedsel en Waren Autoriteit is wat betreft levensmiddelen de bevoegde autoriteit, bedoeld in [verordening (EG) 178/2002](32002R0178).
+
+#### § 3. Bereiding
 
 #### § 7. Slotbepalingen
 
