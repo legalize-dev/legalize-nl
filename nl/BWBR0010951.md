@@ -1,0 +1,85 @@
+---
+title: "Protocol inzake het onderzoek naar de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba"
+identifier: "BWBR0010951"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2000-02-01"
+last_updated: "2000-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010951"
+soort: "ministeriele-regeling-BES"
+stam_id: "4278553"
+version_id: "6042162"
+internal_id: "C6245561"
+label_id: "4257134"
+dtd_version: "2.0"
+original_entry_into_force: "2000-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010951/2000-02-01/0"
+intitule_bron: "Stcrt.1999-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-09"
+intitule_published: "1999-12-20"
+intitule_in_force: "1999-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-245"
+original_signed_date: "1999-12-09"
+original_published_date: "1999-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-02-01"
+jci_1_3: "jci1.3:c:BWBR0010951&z=2000-02-01&g=2000-02-01"
+jci_1_0: "1.0:c:BWBR0010951&g=2000-02-01"
+citeertitel_status: "officieel"
+signed_date: "1999-12-09"
+entry_into_force: "2000-02-01"
+---
+# Protocol inzake het onderzoek naar de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba
+
+overwegende:
+
+dat het gewenst is door een commissie van advies onderzoek te doen verrichten naar de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba;
+
+dat op grond van artikel 110, derde lid, van de Eilandenregeling Nederlandse Antillen, de begroting van deze eilandgebieden een zodanige omvang dient te hebben, dat zij in staat zijn hun bestuursapparaat normaal te doen functioneren en die voorzieningen te treffen, die, gezien de behoefte en de voorzieningen in het eilandgebied Curaçao, redelijk zijn te achten;
+
+gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
+
+Besluiten:
+
+##### Artikel 1. **Instelling**
+
+Er is een commissie van advies inzake de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba, in dit besluit aangeduid als de commissie.
+
+##### Artikel 2. **Samenstelling en ondersteuning**
+
+1. De commissie bestaat uit drie personen. De voorzitter wordt aangewezen door de minister-president van de Nederlandse Antillen en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties gezamenlijk. Één lid wordt aangewezen door de minister-president van de Nederlandse Antillen, één lid wordt aangewezen door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties.
+
+2. De commissie beschikt over een secretaris. De secretaris wordt aangewezen door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met de minister-president van de Nederlandse Antillen.
+
+3. De regering van Aruba kan desgewenst een waarnemer bij de commissie benoemen.
+
+##### Artikel 3. **Opdracht**
+
+1. De commissie onderzoekt de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba. Zij maakt daarbij in ieder geval onderscheid tussen kosten die een gevolg zijn van niet door de eilandgebieden zelf genomen besluiten, kosten die een gevolg zijn van het moeten onderhouden van voorzieningen die de financiële draagkracht van de desbetreffende eilandgebieden te boven gaan, en kosten die een gevolg zijn van hun eigen beleid.
+
+2. De commissie vormt zich tevens een oordeel over de mate waarin de eilandgebieden door het verwerven van eigen inkomsten zelf kunnen voorzien in de door hen te maken kosten.
+
+3. De commissie neemt bij haar onderzoek het in artikel 110, derde lid, van de Eilandenregeling Nederlandse Antillen, bepaalde ten aanzien van het voorzieningenniveau tot uitgangspunt en betrekt bij haar advies de resultaten van het onderzoek, uitgevoerd door de Financiële Commissie Solidariteitsfonds die is ingesteld door de Regering van de Nederlandse Antillen.
+
+##### Artikel 4. **Werkwijze**
+
+1. De commissie heeft de bevoegdheid informatie te vragen van een ieder die betrokken is bij de financiën van Bonaire, Sint Eustatius en Saba, en inzage te vragen in alle relevante documenten.
+
+2. De commissie brengt haar advies voor 1 maart 2000 uit aan de minister-president van de Nederlandse Antillen en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, die op basis daarvan, mede in overleg met de Regering van Aruba, afspraken maken over verdere stappen ten aanzien van de vormgeving van de toekomstige financiële steunverlening aan de eilandgebieden Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 5. **Vergoeding van kosten**
+
+1. De kosten die zijn verbonden aan de werkzaamheden van de commissie, worden voor gelijke delen gedragen door de Nederlandse Antillen en Nederland.
+
+2. De kosten worden geheel voldaan door Nederland, waarna het door de Nederlandse Antillen te betalen deel bij dat land zal worden gedeclareerd.
+
+3. Voor zover de kosten door Nederland worden gedragen, worden zij ten laste gebracht van Hoofdstuk VII van de Rijksbegroting.
+
+4. De honorering en de vergoeding van reis-, verblijf- en andere kosten, gemaakt door de voorzitter en de leden van de commissie geschiedt op voet van het Vergoedingsbesluit adviescolleges (Stb. 1996, 583). De vergoeding van de reis-, verblijf- en andere kosten, gemaakt door de secretaris, geschiedt op voet van de ter zake geldende regelingen voor rijksambtenaren.
+
+##### Artikel 6. **Slotbepaling**
+
+Het besluit wordt geplaatst in de Staatscourant en in de Curaçaosche Courant.
