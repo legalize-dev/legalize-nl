@@ -135,21 +135,3 @@ De artikelen I, onderdeel F, II, onderdelen E en F, III en IV van de rijkswet va
 Dit besluit wordt aangehaald als: Besluit Kapittel voor de civiele orden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
-
-##### Artikel 1a
-
-Het Kapittel heeft tevens tot taak:
-
-- a. Onze Minister wie het aangaat te adviseren over het verlenen van de Erepenning voor Menslievend Hulpbetoon;
-
-- b. voorlichting te geven over de werking van het decoratiestelsel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
-
-##### Artikel 3a
-
-1. Ten aanzien van de ambtenaren van de Kanselarij der Nederlandse orden en de secretaris gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
-
-2. Op verzoek van de Kanselarij der Nederlandse orden kunnen in de collectieve arbeidsovereenkomst, bedoeld in het eerste lid, andere arbeidsvoorwaarden voor de ambtenaren van de Kanselarij der Nederlandse orden worden opgenomen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
