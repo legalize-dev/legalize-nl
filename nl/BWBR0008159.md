@@ -271,17 +271,3 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 Deze wet wordt aangehaald als: Kaderwet adviescolleges.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-De archiefbescheiden van een adviescollege als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=5&z=2022-07-01&g=2022-07-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=2&artikel=6&z=2022-07-01&g=2022-07-01), worden na zijn opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van Onze Minister.
-
-### HOOFDSTUK 4. ADVISERING EN STANDPUNTBEPALING
-
-### HOOFDSTUK 5. BEGROTING EN PROGRAMMERING
-
-### HOOFDSTUK 6. VERSLAGLEGGING EN EVALUATIE
-
-### HOOFDSTUK 7. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
