@@ -107,13 +107,3 @@ Van de registratieplicht zijn uitgezonderd:
 2. Het kan worden aangehaald als Registratiebesluit Wet milieugevaarlijke stoffen.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-De administratieplichtige houdt een administratie bij van de hoeveelheden van de stoffen of preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld.
-
-##### Artikel 4a
-
-Dit besluit berust op [artikel 9.2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.4).
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
