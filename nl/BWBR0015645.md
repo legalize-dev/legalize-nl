@@ -4,7 +4,7 @@ identifier: "BWBR0015645"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-07-11"
-last_updated: "2003-10-09"
+last_updated: "2003-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015645"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ In deze regeling wordt verstaan onder aanvraag, aanvrager, apparaat, energieprem
 
 ##### Artikel II
 
-1. De [Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481) wordt ingetrokken met ingang van 16 oktober 2003, met dien verstande dat de [artikelen 1 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=1) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=12) en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&bijlage=1) en [2 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&bijlage=2) van toepassing blijven ten aanzien van:
+1. De [Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481) wordt ingetrokken met ingang van 16 oktober 2003, met dien verstande dat de [artikelen 1 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=1) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=12) en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&bijlage=1) en[2 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&bijlage=2) van toepassing blijven ten aanzien van:
 
 - a. een vóór 16 oktober 2003 ingediende aanvraag ten aanzien van een apparaat of voorziening, terzake waarvan de koopovereenkomst eveneens vóór 16 oktober 2003 is gesloten, indien eerst op of na die datum een beslissing op die aanvraag onherroepelijk wordt;
 
-- b. een op of na 16 oktober 2003 ingediende aanvraag ten aanzien van een apparaat of voorziening, terzake waarvan de koopovereenkomst is gesloten in de periode van dertien weken voorafgaand aan die datum, met dien verstande dat zowel de betreffende levering als het indienen van die aanvraag in zoverre in afwijking van [artikel 8, eerste lid, van de Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=8), zoals deze luidde op 15 oktober 2003, vóór 16 januari 2004 moeten hebben plaatsgehad.
+- b. een op of na 16 oktober 2003 ingediende aanvraag ten aanzien van een apparaat of voorziening, terzake waarvan de koopovereenkomst vóór genoemde datum is gesloten, met dien verstande dat zowel de betreffende levering als het indienen van die aanvraag in zoverre in afwijking van [artikel 8, eerste lid, van de Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=8), zoals deze luidde op 15 oktober 2003, vóór 16 januari 2004 moeten hebben plaatsgehad.
 
 2. In gevallen als bedoeld in het eerste lid, aanhef en onder b, waarin de levering en het indienen van de aanvraag niet vóór 16 januari 2004 hebben kunnen plaatsvinden als gevolg van omstandigheden die in redelijkheid niet aan de aanvrager zijn toe te rekenen, kan de minister in bijzondere gevallen aanvragen die door particuliere aanvragers in de periode van dertien weken beginnend op genoemde datum zijn ingediend toewijzen en energiepremies uitkeren voorzover het niet toewijzen zal leiden tot een onbillijkheid van overwegende aard.
 
