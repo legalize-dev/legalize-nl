@@ -279,9 +279,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als tweede taal.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 24*. Omhangbepaling
-
-Dit besluit berust op [artikel 2.72, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
