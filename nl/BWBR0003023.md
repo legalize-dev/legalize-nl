@@ -61,9 +61,3 @@ De rente als bedoeld in [artikel 25, vierde lid, van de Wet aansprakelijkheid ol
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot 8 december 1975.
 
 Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan een afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-##### Artikel 5
-
-Dit besluit wordt aangehaald als: Besluit tariefstelling certificaat verplichte verzekering of andere financiële zekerheid voor zeeschepen.
-
-Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan een afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
