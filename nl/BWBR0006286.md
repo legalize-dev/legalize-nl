@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2002-07-01"
+last_updated: "2002-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -51,9 +51,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2002-07-01&g=2002-07-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering, een eindejaarsuitkering en een tegemoetkoming in ziektekosten.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2002-07-17&g=2002-07-17), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering, een eindejaarsuitkering en een tegemoetkoming in ziektekosten.
 
-2. Bij algemene maatregel van bestuur worden regels gesteld betreffende de vergoeding van verhuis- en verblijfkosten, reis- en verblijfkosten, telefoonkosten en kosten die aan de uitoefening van het ambt van minister of staatssecretaris zijn verbonden en die voor eigen rekening komen.
+2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
+
+- a. de voorzieningen die aan de ministers en staatssecretarissen ter beschikking worden gesteld en noodzakelijk zijn voor de vervulling van hun ambt;
+
+- b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening van de ministers en staatssecretarissen komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.
+
+3. Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing en verblijf, beveiliging, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.
 
 ##### Artikel 3
 
@@ -61,9 +67,7 @@ Na het overlijden van een minister of staatssecretaris wordt op de voet van de r
 
 ##### Artikel 4
 
-1. Na de inwerkingtreding van deze wet berusten het koninklijk besluit van 22 september 1977, houdende regeling van de vergoeding aan ambtenaren van kosten verbonden aan het gebruik van de privé-telefoonaansluiting voor dienstdoeleinden (**Stb.** 527) en het Reisbesluit 1971 mede op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-07-01&g=2002-07-01), van deze wet.
-
-2. Na de inwerkingtreding van deze wet berusten het [Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het koninklijk besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden (**Stb.** 255) op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-07-01&g=2002-07-01), van deze wet.
+Vervallen
 
 ##### Artikel 5
 
