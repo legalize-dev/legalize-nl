@@ -629,11 +629,3 @@ De op het tijdstip van inwerkingtreding van deze wet geldende algemene maatregel
 Deze wet wordt aangehaald als: Kaderwet dienstplicht.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 70a. Uitzondering in te schrijven vrouwen
-
-[Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&hoofdstuk=1&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), is niet van toepassing op de vrouwelijke persoon die 17 jaar of ouder is op het tijdstip van inwerkingtreding van de wet van 3 oktober 2018 tot wijziging van de Kaderwet dienstplicht en van de Wet gewetensbezwaren militaire dienst in verband met het van toepassing worden van de dienstplicht op vrouwen (Stb. 160).
-
-#### Paragraaf 4. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
