@@ -4,7 +4,7 @@ identifier: "BWBV0001487"
 country: "nl"
 rank: "verdrag"
 publication_date: "2005-01-08"
-last_updated: "1998-06-18"
+last_updated: "2005-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001487"
 soort: "verdrag"
@@ -92,7 +92,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 - 4. „Dit Verdrag": het Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties.
 
-- 5. „De depositaris": de depositaris van dit Verdrag zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=16&z=1998-06-18&g=1998-06-18).
+- 5. „De depositaris": de depositaris van dit Verdrag zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=16&z=2005-01-08&g=2005-01-08).
 
 - 6. „Ramp": een ernstige verstoring van het functioneren van een maatschappij, waarbij een wezenlijk en algemeen gevaar ontstaat voor het menselijk leven, de gezondheid, eigendommen of de leefomgeving, ongeacht of deze verstoring wordt veroorzaakt door een ongeval, een natuurverschijnsel of menselijke activiteiten, en ongeacht of deze verstoring plotseling ontstaat of het gevolg is van gecompliceerde en langdurige processen.
 
@@ -116,9 +116,9 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 ##### Artikel 2. Coördinatie
 
-1. De Coördinator van de Verenigde Naties voor Rampenhulp is de uitvoerende coördinator voor dit Verdrag en kwijt zich van de verantwoordelijkheden van de uitvoerende coördinator als omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=3&z=1998-06-18&g=1998-06-18), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=1998-06-18&g=1998-06-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=6&z=1998-06-18&g=1998-06-18), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=7&z=1998-06-18&g=1998-06-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=8&z=1998-06-18&g=1998-06-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=1998-06-18&g=1998-06-18).
+1. De Coördinator van de Verenigde Naties voor Rampenhulp is de uitvoerende coördinator voor dit Verdrag en kwijt zich van de verantwoordelijkheden van de uitvoerende coördinator als omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=3&z=2005-01-08&g=2005-01-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=2005-01-08&g=2005-01-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=6&z=2005-01-08&g=2005-01-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=7&z=2005-01-08&g=2005-01-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=8&z=2005-01-08&g=2005-01-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=2005-01-08&g=2005-01-08).
 
-2. De uitvoerende coördinator verzoekt om de medewerking van andere bevoegde organisaties van de Verenigde Naties, in het bijzonder de Internationale Telecommunicatie Unie, teneinde hem bij te staan bij het verwezenlijken van de doelstellingen van dit Verdrag en, in het bijzonder, van de verantwoordelijkheden als omschreven in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=8&z=1998-06-18&g=1998-06-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=1998-06-18&g=1998-06-18), en de nodige technische ondersteuning te verlenen die strookt met de doelstellingen van de desbetreffende organisaties.
+2. De uitvoerende coördinator verzoekt om de medewerking van andere bevoegde organisaties van de Verenigde Naties, in het bijzonder de Internationale Telecommunicatie Unie, teneinde hem bij te staan bij het verwezenlijken van de doelstellingen van dit Verdrag en, in het bijzonder, van de verantwoordelijkheden als omschreven in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=8&z=2005-01-08&g=2005-01-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=2005-01-08&g=2005-01-08), en de nodige technische ondersteuning te verlenen die strookt met de doelstellingen van de desbetreffende organisaties.
 
 3. De verantwoordelijkheden van de uitvoerende coördinator ingevolge dit Verdrag beperken zich tot coördinerende activiteiten met een internationaal karakter.
 
@@ -154,7 +154,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 1. Een Staat die Partij is die bijstand op het gebied van telecommunicatie voor rampenmitigatie en noodhulp behoeft, kan elk van de Staten die Partij zijn daarom verzoeken, hetzij rechtstreeks hetzij door tussenkomst van de uitvoerende coördinator. Indien het verzoek wordt gedaan door tussenkomst van de uitvoerende coördinator, verspreidt de uitvoerende coördinator deze informatie onmiddellijk onder alle andere betrokken Staten die Partij zijn. Indien het verzoek rechtstreeks aan een andere Staat die Partij is wordt gedaan, stelt de verzoekende Staat die Partij is de uitvoerende coördinator zo spoedig mogelijk hiervan in kennis.
 
-2. Een Staat die Partij is die om bijstand op het gebied van telecommunicatie verzoekt, omschrijft de reikwijdte en de aard van de benodigde bijstand en de ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=5&z=1998-06-18&g=1998-06-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=1998-06-18&g=1998-06-18) van dit Verdrag genomen maatregelen, en verschaft, indien mogelijk, de Staat die Partij is waaraan het verzoek is gericht en/of de uitvoerende coördinator alle overige informatie die noodzakelijk is om vast te stellen in hoeverre de betreffende Staat aan het verzoek kan voldoen.
+2. Een Staat die Partij is die om bijstand op het gebied van telecommunicatie verzoekt, omschrijft de reikwijdte en de aard van de benodigde bijstand en de ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=5&z=2005-01-08&g=2005-01-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=2005-01-08&g=2005-01-08) van dit Verdrag genomen maatregelen, en verschaft, indien mogelijk, de Staat die Partij is waaraan het verzoek is gericht en/of de uitvoerende coördinator alle overige informatie die noodzakelijk is om vast te stellen in hoeverre de betreffende Staat aan het verzoek kan voldoen.
 
 3. Elke Staat die Partij is waaraan hetzij rechtstreeks hetzij door tussenkomst van de uitvoerende coördinator een verzoek om bijstand op het gebied van telecommunicatie wordt gericht, besluit onverwijld of hij de bijstand waarom wordt verzocht, hetzij rechtstreeks hetzij anderszins, zal verlenen en bepaalt de reikwijdte en de eventueel aan de bijstand verbonden voorwaarden, beperkingen en kosten, en doet de verzoekende Staat die Partij is daarvan mededeling.
 
@@ -244,7 +244,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 - a. de verzoekende Staat die Partij is heeft ingestemd met de bijstand op het gebied van telecommunicatie voor rampenmitigatie en noodhulp, en deze niet heeft beëindigd;
 
-- b. het orgaan anders dan een Staat of de intergouvernementele organisatie die de bijstand op het gebied van telecommunicatie verleent, de verzoekende Staat die Partij is heeft laten weten dit artikel en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=1998-06-18&g=1998-06-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=5&z=1998-06-18&g=1998-06-18) te eerbiedigen; en
+- b. het orgaan anders dan een Staat of de intergouvernementele organisatie die de bijstand op het gebied van telecommunicatie verleent, de verzoekende Staat die Partij is heeft laten weten dit artikel en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=2005-01-08&g=2005-01-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=5&z=2005-01-08&g=2005-01-08) te eerbiedigen; en
 
 - c. de toepassing van dit artikel niet onverenigbaar is met enige andere overeenkomst inzake de betrekkingen tussen de verzoekende Staat die Partij is en het orgaan anders dan een Staat of de intergouvernementele organisatie die de bijstand op het gebied van telecommunicatie verleent.
 
@@ -328,7 +328,7 @@ Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die P
 
 4. Ingeval de respectieve Staten die Partij zijn en partij zijn bij het geschil verzoeken om onderwerping van het geschil aan bindende arbitrage, en het geschil ter beslissing voorleggen aan het Internationale Gerechtshof, heeft voorlegging aan het Internationale Gerechtshof voorrang.
 
-5. In geval van een geschil betreffende de verlening van bijstand op het gebied van telecommunicatie ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=1998-06-18&g=1998-06-18), dat rijst tussen een Staat die Partij is die verzoekt om bijstand op het gebied van telecommunicatie en een orgaan anders dan een Staat of een intergouvernementele organisatie waarvan de zetel of de vestiging is gelegen buiten het grondgebied van de desbetreffende Staat die Partij is, kan de vordering van het orgaan anders dan een Staat of de intergouvernementele organisatie rechtstreeks worden gesteund door de Staat die Partij is waarin de zetel of de vestiging van het orgaan anders dan een Staat of de intergouvernementele organisatie is gelegen, als zijnde een vordering van een Staat tegen een Staat ingevolge dit artikel, mits die steun niet onverenigbaar is met enige andere overeenkomst tussen de Staat die Partij is en het orgaan anders dan een Staat of de intergouvernementele organisatie die zijn betrokken bij het geschil.
+5. In geval van een geschil betreffende de verlening van bijstand op het gebied van telecommunicatie ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=2005-01-08&g=2005-01-08), dat rijst tussen een Staat die Partij is die verzoekt om bijstand op het gebied van telecommunicatie en een orgaan anders dan een Staat of een intergouvernementele organisatie waarvan de zetel of de vestiging is gelegen buiten het grondgebied van de desbetreffende Staat die Partij is, kan de vordering van het orgaan anders dan een Staat of de intergouvernementele organisatie rechtstreeks worden gesteund door de Staat die Partij is waarin de zetel of de vestiging van het orgaan anders dan een Staat of de intergouvernementele organisatie is gelegen, als zijnde een vordering van een Staat tegen een Staat ingevolge dit artikel, mits die steun niet onverenigbaar is met enige andere overeenkomst tussen de Staat die Partij is en het orgaan anders dan een Staat of de intergouvernementele organisatie die zijn betrokken bij het geschil.
 
 6. Op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot, dit Verdrag kan een Staat verklaren zich niet gebonden te achten aan één of beide procedures voor beslechting van geschillen, als bedoeld in het derde lid. De andere Staten die Partij zijn zijn niet gebonden aan een procedure voor beslechting van geschillen, als bedoeld in het derde lid, ten opzichte van een Staat die Partij is waarvoor een dergelijke verklaring geldt.
 
