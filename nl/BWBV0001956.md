@@ -174,23 +174,3 @@ DONE at Washington, in duplicate, on this 2nd day of December, 1994.
 **For the Government of the United States of America:**
 
 (sd.) JAMES R. TARRANT
-
-##### Article I bis
-
-For the purpose of this Agreement, the implementing authorities shall be:
-
-- a). for the Government of the United States of America: U.S. Customs and Border Protection (CBP) and the U.S. Department of Health and Human Services (HHS) (collectively referred to as the "U.S. inspection agencies");
-
-- b). for the Government of the Kingdom of the Netherlands: The Minister of Aruba in charge of Transportation or any authority nominated by the said Minister.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective Governments, have signed the present Agreement.
-
-DONE at Washington, in duplicate, on this 2nd day of December, 1994.
-
-**For the Government of the Kingdom of the Netherlands:**
-
-(sd.) G. F. CROES
-
-**For the Government of the United States of America:**
-
-(sd.) JAMES R. TARRANT
