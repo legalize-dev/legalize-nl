@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2004-09-01"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -6626,7 +6626,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 20557 | Seroxat suspensie 2mg/ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| PAROXETINE-20-MG-TABLET | PAROXETINE-20-MG-TABLET | 0,767608 per stuk |
+| PAROXETINE-20-MG-TABLET | PAROXETINE-20-MG-TABLET | 0,798269 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20861/14668 | Deroxat tablet filmomhuld 20mg |   |
 | 26951=14668 | Paroxetine a tablet filmomhuld 20mg |   |
