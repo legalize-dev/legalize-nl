@@ -4,7 +4,7 @@ identifier: "BWBR0012091"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012091"
 soort: "wet"
@@ -104,9 +104,9 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
 
-##### Artikel XVI. Wijziging [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) per 2004
+##### Artikel XVI. Wijziging [Wet op de (re)integratie arbeidsgehandicapten](onbekend) per 2004
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
+Vervallen
 
 ##### Artikel XVII. [Wet premieregime bij marginale arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0008510)
 
