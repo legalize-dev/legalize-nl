@@ -4,7 +4,7 @@ identifier: "BWBR0004257"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2001-09-01"
+last_updated: "2002-08-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004257"
 soort: "wet"
@@ -68,7 +68,7 @@ Gratie kan worden verleend
 
 - b. het gerecht dat een bezwaar, hem voorgelegd ingevolge [artikel 35 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=35), ongegrond heeft verklaard.
 
-3. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43) in Nederland is gelast, wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het in genoemd artikel bedoelde gerecht.
+3. Omtrent verzoekschriften om vermindering of kwijtschelding van straffen bij rechterlijke beslissing van een buitenlandse rechter opgelegd, waarvan de tenuitvoerlegging met toepassing van [artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43) in Nederland is gelast, dan wel van gevangenisstraffen die door het Internationaal Strafhof zijn opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=64)of [65 van de Uitvoeringswet Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBR0013796&artikel=65), wordt door Onze Minister, voordat daarop wordt beschikt, het advies ingewonnen van het in genoemd [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43) bedoelde gerecht.
 
 4. De drie voorgaande leden blijven buiten toepassing indien het verzoekschrift is voorafgegaan door een eerder verzoekschrift om gratie van dezelfde straf of maatregel, waarop ingevolge deze wet of de [Gratieregeling 1976](https://wetten.overheid.nl/jci1.3:c:BWBR0003042) binnen één jaar voor de indiening van het tweede verzoekschrift is beschikt, tenzij in het latere verzoekschrift een nieuwe omstandigheid is aangevoerd.
 
@@ -108,9 +108,9 @@ Het gerecht zendt zijn advies, met daarbij gevoegd het verslag van het openbaar 
 
 - a. het rechterlijk advies afwijzend luidt, dan wel
 
-- b. de inwinning van het rechterlijk advies op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2001-09-01&g=2001-09-01), achterwege is gebleven.
+- b. de inwinning van het rechterlijk advies op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2002-08-08&g=2002-08-08), achterwege is gebleven.
 
-2. Het eerste lid, aanhef en onder **a**, blijft buiten toepassing indien het verzoekschrift een of meer vrijheidsstraffen betreft met een gezamenlijke duur van zes jaar of langer dan wel indien het rechterlijk advies niet met eenparigheid van stemmen is vastgesteld. Het bepaalde in het eerste lid blijft tevens buiten toepassing indien overeenkomstig [artikel 10, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=10&z=2001-09-01&g=2001-09-01), het gevoelen van een andere Minister is ingewonnen, en deze blijk geeft van een van Onze Minister afwijkend gevoelen over de op het verzoekschrift te nemen beslissing.
+2. Het eerste lid, aanhef en onder **a**, blijft buiten toepassing indien het verzoekschrift een of meer vrijheidsstraffen betreft met een gezamenlijke duur van zes jaar of langer dan wel indien het rechterlijk advies niet met eenparigheid van stemmen is vastgesteld. Het bepaalde in het eerste lid blijft tevens buiten toepassing indien overeenkomstig [artikel 10, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=10&z=2002-08-08&g=2002-08-08), het gevoelen van een andere Minister is ingewonnen, en deze blijk geeft van een van Onze Minister afwijkend gevoelen over de op het verzoekschrift te nemen beslissing.
 
 ##### Artikel 9
 
@@ -118,15 +118,15 @@ Onze Minister zendt de verzoekschriften die niet overeenkomstig het eerste lid v
 
 ##### Artikel 10
 
-Indien Wij of Onze Minister het wenselijk achten dat enige andere Minister wordt gehoord voordat op het verzoekschrift wordt beschikt, wint Onze Minister diens gevoelen in. Onverminderd het bepaalde in het [eerste lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=8&z=2001-09-01&g=2001-09-01), wordt de ambtsbrief van die Minister bij de aan Ons toe te zenden stukken gevoegd ofwel wordt door Onze Minister en die Minister aan Ons een gemeenschappelijke voordracht gedaan.
+Indien Wij of Onze Minister het wenselijk achten dat enige andere Minister wordt gehoord voordat op het verzoekschrift wordt beschikt, wint Onze Minister diens gevoelen in. Onverminderd het bepaalde in het [eerste lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=8&z=2002-08-08&g=2002-08-08), wordt de ambtsbrief van die Minister bij de aan Ons toe te zenden stukken gevoegd ofwel wordt door Onze Minister en die Minister aan Ons een gemeenschappelijke voordracht gedaan.
 
 ##### Artikel 11
 
-Indien Wij of Onze Minister dit wenselijk achten wordt, behalve het advies van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2001-09-01&g=2001-09-01) aangewezen gerecht, ook het advies ingewonnen van de Hoge Raad der Nederlanden. Dit advies wordt bij de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=9&z=2001-09-01&g=2001-09-01) bedoelde stukken gevoegd.
+Indien Wij of Onze Minister dit wenselijk achten wordt, behalve het advies van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2002-08-08&g=2002-08-08) aangewezen gerecht, ook het advies ingewonnen van de Hoge Raad der Nederlanden. Dit advies wordt bij de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=9&z=2002-08-08&g=2002-08-08) bedoelde stukken gevoegd.
 
 ##### Artikel 12
 
-Naar aanleiding van een verzoekschrift om gratie kan zowel Onze Minister als het gerecht en het openbaar ministerie omtrent degene aan wie de straf of maatregel waarop het verzoek betrekking heeft is opgelegd inlichtingen inwinnen bij de daarvoor in aanmerking komende autoriteiten, instellingen of personen. Indien de ontvangen inlichtingen daartoe naar het oordeel van Onze Minister aanleiding geven, kan hij nader advies inwinnen van het gerecht dat de straf of maatregel heeft opgelegd, of van het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2001-09-01&g=2001-09-01), bedoelde gerecht.
+Naar aanleiding van een verzoekschrift om gratie kan zowel Onze Minister als het gerecht en het openbaar ministerie omtrent degene aan wie de straf of maatregel waarop het verzoek betrekking heeft is opgelegd inlichtingen inwinnen bij de daarvoor in aanmerking komende autoriteiten, instellingen of personen. Indien de ontvangen inlichtingen daartoe naar het oordeel van Onze Minister aanleiding geven, kan hij nader advies inwinnen van het gerecht dat de straf of maatregel heeft opgelegd, of van het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2002-08-08&g=2002-08-08), bedoelde gerecht.
 
 ##### Artikel 13
 
@@ -136,15 +136,15 @@ Naar aanleiding van een verzoekschrift om gratie kan zowel Onze Minister als het
 
 3. Een andere voorwaarde kan zijn de betaling van een bepaalde geldsom aan de Staat. Mede kan de voorwaarde worden gesteld, dat de veroordeelde de door het strafbare feit veroorzaakte schade geheel of voor een bepaald gedeelte zal vergoeden.
 
-4. Bij de toepassing van het derde lid bepaalt Onze Minister de plaats waar en de termijn waarbinnen de geldsom moet worden betaald, onderscheidenlijk de schade moet worden vergoed. Hij kan betaling in termijnen toestaan. Hij kan de gestelde termijn of termijnen verlengen met dien verstande dat de totale tijdsduur een tijdvak van twee jaren niet mag overschrijden. De termijn of eerste termijn vangt aan zodra de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2001-09-01&g=2001-09-01), bedoelde betekening is geschied.
+4. Bij de toepassing van het derde lid bepaalt Onze Minister de plaats waar en de termijn waarbinnen de geldsom moet worden betaald, onderscheidenlijk de schade moet worden vergoed. Hij kan betaling in termijnen toestaan. Hij kan de gestelde termijn of termijnen verlengen met dien verstande dat de totale tijdsduur een tijdvak van twee jaren niet mag overschrijden. De termijn of eerste termijn vangt aan zodra de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2002-08-08&g=2002-08-08), bedoelde betekening is geschied.
 
 5. Voor zover dit bij het besluit waarbij gratie is verleend is bepaald, houdt het openbaar ministerie, onderscheidenlijk - indien het vonnis is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen - de raad voor de kinderbescherming, toezicht op de naleving van de gestelde voorwaarden.
 
 ##### Artikel 14
 
-1. Tenzij geen andere voorwaarden zijn gesteld dan die bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2001-09-01&g=2001-09-01), zijn de voorwaarden van kracht tot het tijdstip waarop een door Onze Minister te bepalen proeftijd verstrijkt. De proeftijd bedraagt ten hoogste twee jaren. Onze Minister kan deze proeftijd verkorten of verlengen.
+1. Tenzij geen andere voorwaarden zijn gesteld dan die bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2002-08-08&g=2002-08-08), zijn de voorwaarden van kracht tot het tijdstip waarop een door Onze Minister te bepalen proeftijd verstrijkt. De proeftijd bedraagt ten hoogste twee jaren. Onze Minister kan deze proeftijd verkorten of verlengen.
 
-2. De proeftijd gaat in zodra de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2001-09-01&g=2001-09-01), bedoelde betekening is geschied. Hij loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen.
+2. De proeftijd gaat in zodra de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2002-08-08&g=2002-08-08), bedoelde betekening is geschied. Hij loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen.
 
 ##### Artikel 15
 
@@ -160,11 +160,11 @@ Bij koninklijk besluit kunnen, op voorstel van Onze Minister, de voorwaarden ged
 
 1. Indien de voorwaarden niet worden nageleefd, kan het koninklijk besluit waarbij gratie is verleend bij koninklijk besluit worden herroepen. Deze herroeping vindt niet plaats dan nadat de veroordeelde, alsmede, zo de veroordeling is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen, degenen die het gezag over hem uitoefenen, zo enigszins mogelijk door of vanwege het openbaar ministerie zijn gehoord en het van dat verhoor opgemaakte proces-verbaal aan Ons is overgelegd.
 
-2. De verleende gratie kan worden herroepen tot uiterlijk drie maanden na het einde van de proeftijd of tot uiterlijk vier maanden na het verstrijken van de krachtens [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2001-09-01&g=2001-09-01), gestelde termijn of laatste termijn.
+2. De verleende gratie kan worden herroepen tot uiterlijk drie maanden na het einde van de proeftijd of tot uiterlijk vier maanden na het verstrijken van de krachtens [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2002-08-08&g=2002-08-08), gestelde termijn of laatste termijn.
 
 Niettemin kan, indien de veroordeelde terzake van een voor het einde van de proeftijd begaan strafbaar feit is vervolgd en onherroepelijk is strafbaar verklaard, alsnog terzake van het begaan van dat feit binnen drie maanden, nadat de strafbaarverklaring onherroepelijk is geworden, tot herroeping van de verleende gratie worden besloten.
 
-3. Indien de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2001-09-01&g=2001-09-01), bedoelde voorwaarde slechts gedeeltelijk is nageleefd kan in geval van herroeping naar bevind van omstandigheden worden bepaald dat een deel van de straf zal worden tenuitvoergelegd.
+3. Indien de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2002-08-08&g=2002-08-08), bedoelde voorwaarde slechts gedeeltelijk is nageleefd kan in geval van herroeping naar bevind van omstandigheden worden bepaald dat een deel van de straf zal worden tenuitvoergelegd.
 
 4. In geval van herroeping wordt de geldsom teruggegeven, die ter voldoening aan een bij het herroepen besluit gestelde voorwaarde aan de Staat was betaald. Indien gedeeltelijke betaling heeft plaats gehad, kan nochtans bij de herroeping worden bepaald dat het gestorte bedrag niet wordt teruggeven, onder vermindering van de duur van de te ondergane vrijheidsstraf naar evenredigheid.
 
@@ -174,7 +174,7 @@ Niettemin kan, indien de veroordeelde terzake van een voor het einde van de proe
 
 2. Wanneer het verzoek wordt afgewezen stelt Onze Minister degene aan wie de straf of maatregel werd opgelegd en de verzoeker, zo deze een ander is, daarvan onder opgaaf van redenen in kennis.
 
-3. Wanneer gratie is verleend onder voorwaarden, wordt de inhoud van die voorwaarden aan de veroordeelde in persoon betekend en aan degene die met het verlenen van hulp en steun is belast schriftelijk medegedeeld. De inhoud van voorwaarden, gesteld ingevolge [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2001-09-01&g=2001-09-01), wordt tevens schriftelijk medegedeeld aan degene die zorg draagt voor de begeleiding van de tewerkgestelde veroordeelde.
+3. Wanneer gratie is verleend onder voorwaarden, wordt de inhoud van die voorwaarden aan de veroordeelde in persoon betekend en aan degene die met het verlenen van hulp en steun is belast schriftelijk medegedeeld. De inhoud van voorwaarden, gesteld ingevolge [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2002-08-08&g=2002-08-08), wordt tevens schriftelijk medegedeeld aan degene die zorg draagt voor de begeleiding van de tewerkgestelde veroordeelde.
 
 Indien de voorwaardelijke gratieverlening een veroordeling betreft welke is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen, wordt de inhoud van de voorwaarden tevens ter kennis gebracht van degenen die het gezag over de veroordeelde uitoefenen alsmede van de raad voor de kinderbescherming. Van iedere aanvulling, wijziging of opheffing van de voorwaarden, dan wel van de herroeping van een koninklijk besluit waarbij gratie is verleend, wordt eveneens op deze wijze kennis gegeven.
 
@@ -190,13 +190,13 @@ zendt Onze Minister tevens een kennisgeving aan de bevoegde autoriteit van die v
 
 ##### Artikel 19
 
-1. Indien bijzondere omstandigheden Onze Minister aanleiding geven om, zonder dat een daartoe strekkend verzoekschrift is ingediend, een voorstel tot gratieverlening in overweging te nemen, wordt het advies ingewonnen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2001-09-01&g=2001-09-01) aangewezen gerecht. Tenzij, met Onze machtiging, Onze Minister anders bepaalt, zijn de artikelen 4 tot en met 7 en 9 tot en met 12 bij het inwinnen van het advies van toepassing.
+1. Indien bijzondere omstandigheden Onze Minister aanleiding geven om, zonder dat een daartoe strekkend verzoekschrift is ingediend, een voorstel tot gratieverlening in overweging te nemen, wordt het advies ingewonnen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=3&z=2002-08-08&g=2002-08-08) aangewezen gerecht. Tenzij, met Onze machtiging, Onze Minister anders bepaalt, zijn de artikelen 4 tot en met 7 en 9 tot en met 12 bij het inwinnen van het advies van toepassing.
 
-2. Wanneer in zodanig geval gratie wordt verleend, zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2001-09-01&g=2001-09-01) tot en met [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=17&z=2001-09-01&g=2001-09-01) en [18, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2001-09-01&g=2001-09-01), van toepassing.
+2. Wanneer in zodanig geval gratie wordt verleend, zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13&z=2002-08-08&g=2002-08-08) tot en met [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=17&z=2002-08-08&g=2002-08-08) en [18, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=18&z=2002-08-08&g=2002-08-08), van toepassing.
 
 ##### Artikel 20
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=2&z=2001-09-01&g=2001-09-01) tot en met [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19&z=2001-09-01&g=2001-09-01) blijven van toepassing, indien een straf of maatregel bij wege van gratie is verminderd of veranderd en daarvan alsnog vermindering of kwijtschelding wordt verzocht.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=2&z=2002-08-08&g=2002-08-08) tot en met [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19&z=2002-08-08&g=2002-08-08) blijven van toepassing, indien een straf of maatregel bij wege van gratie is verminderd of veranderd en daarvan alsnog vermindering of kwijtschelding wordt verzocht.
 
 ##### Artikel 21
 
