@@ -4,7 +4,7 @@ identifier: "BWBR0013817"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013817"
 soort: "wet"
@@ -150,15 +150,15 @@ Het recht op bijdrage ontstaat op het tijdstip waarop de omzetbelasting aan het 
 
 ##### Artikel 8
 
-Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2003-01-01&g=2003-01-01).
+Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 9
 
-1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2003-01-01&g=2003-01-01), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
+1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2005-01-01&g=2005-01-01), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
 
 2. Voor het einde van de maand volgend op het tijdvak waarin het recht op bijdrage is ontstaan, dan wel een eerder verstrekte of nog te verstrekken bijdrage geheel of gedeeltelijk verschuldigd is geworden, wordt daarvan opgave gedaan. De inspecteur kan bij beschikking afwijken van de opgave.
 
-3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2003-01-01&g=2003-01-01), over de minimale hoogte van de bijdrage.
+3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2005-01-01&g=2005-01-01), over de minimale hoogte van de bijdrage.
 
 4. Indien uiterlijk vijf jaren na het einde van het kalenderjaar blijkt dat bijdrage over dat jaar is verstrekt tot een hoger of lager bedrag dan waarop het publiekrechtelijk lichaam of regionaal openbaar lichaam op grond van deze wet recht heeft, stelt de inspecteur de hoogte van de bijdrage over het desbetreffende kalenderjaar vast bij beschikking en wordt het verschil met de over dat kalenderjaar verstrekte bijdrage uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting en de daarover berekende heffingsrente. Voor de toepassing van dit lid wordt rente berekend op grond van het vijfde lid beschouwd als bijdrage.
 
@@ -166,7 +166,7 @@ Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen 
 
 6. Hetgeen voor de omzetbelasting onherroepelijk komt vast te staan, geldt mede ten aanzien van de toepassing van deze wet.
 
-7. In afwijking in zoverre van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6),[7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) is, met betrekking tot het bezwaar tegen een op de voet van het tweede, het derde lid of het vierde lid genomen beschikking, met betrekking tot beroep ter zake van een uitspraak op het desbetreffende bezwaar, alsmede met betrekking tot beroep in cassatie ter zake van de desbetreffende rechterlijke uitspraak, [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
+7. Op het bezwaar, beroep, hoger beroep of beroep in cassatie tegen een op de voet van het tweede, derde of vierde lid gegeven beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
 8. De [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [48 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48) en [67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) en [de artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34) en [34a van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=34a) zijn van overeenkomstige toepassing.
 
