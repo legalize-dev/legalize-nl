@@ -4,7 +4,7 @@ identifier: "BWBR0014324"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-04-02"
-last_updated: "2002-01-01"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014324"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2002-12-24"
 
 ##### Artikel I
 
-Wijzigt het Bekostigingsbesluit WPO.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -46,7 +46,7 @@ Wijzigt het Formatiebesluit WPO.
 
 ##### Artikel III
 
-Wijzigt het Besluit trekkende bevolking WPO.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -62,7 +62,7 @@ Wijzigt het Inrichtingsbesluit W.V.O.
 
 ##### Artikel VII
 
-[Artikel 14, zesde lid, van het Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=14) zoals dat luidde op 31 december 2001, blijft van toepassing op de tijdvakken waarvoor het gelding had, en op de op die tijdvakken betrekking hebbende geschillen inzake de toepassing van [artikel 14, zesde lid, van het Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=14).
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
