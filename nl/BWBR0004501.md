@@ -105,9 +105,3 @@ Onze Minister stelt regels omtrent de methoden volgens welke het gehalte aan pol
 2. Het kan worden aangehaald als Besluit organisch-halogeengehalte van brandstoffen.
 
 Lasten en bevelen dat dit besluit met daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 4a
-
-Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
-
-Lasten en bevelen dat dit besluit met daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
