@@ -4,7 +4,7 @@ identifier: "BWBR0002410"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "1998-01-01"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002410"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2005-03-16&g=2005-03-16) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -69,31 +69,19 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-Zolang voor Nederland of een gedeelte daarvan, op grond van [artikel 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, worden de in deze wet aan Onze Minister toegekende bevoegdheden en de hem opgedragen taak uitgeoefend, onderscheidenlijk uitgevoerd door Onze Ministers van Verkeer en Waterstaat en van Defensie gezamenlijk. Voor de toepassing van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=4&z=1998-01-01&g=1998-01-01), en [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=5&z=1998-01-01&g=1998-01-01), wordt alsdan onder "Onze Minister" verstaan Onze voornoemde Ministers gezamenlijk.
+1. De in deze wet aan Onze Minister toegekende bevoegdheden worden ter zake van de uitvoering van de militaire taak uitgeoefend door Onze Minister en Onze Minister van Defensie gezamenlijk.
+
+2. Indien bij toepassing van het eerste lid geen overeenstemming bestaat omtrent de uitoefening van bevoegdheden ten behoeve van de uitvoering van de militaire taak, beslist Onze Minister van Defensie.
+
+3. Indien krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=14&z=2005-03-16&g=2005-03-16), een vergoeding wordt toegekend vanwege de uitoefening van bevoegdheden ter uitvoering van de militaire taak, dan komt deze voor rekening van Onze Minister van Defensie.
 
 ##### Artikel 4
 
-1. Wij stellen een Centrale Havencommissie in zodra en voor zolang de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) in werking zijn; Wij kunnen de commissie eerder instellen en langer handhaven.
-
-2. De Centrale Havencommissie heeft tot taak Onze Minister en het College, bedoeld in het volgende artikel, desgevraagd of eigener beweging van advies te dienen omtrent de uitvoering van deze wet.
-
-3. De commissie is samengesteld onder meer uit vertegenwoordigers van Onze andere Ministers, betrokken bij de aanvoer, doorvoer of afvoer van personen of goederen of de opslag van goederen.
-
-4. De voorzitter van de commissie wordt door Ons benoemd, de overige leden door Onze Ministers, die het aangaat.
+Vervallen
 
 ##### Artikel 5
 
-1. Wij stellen een College van Bewindvoering Havens in zodra en voor zolang de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) in werking zijn; Wij kunnen het College eerder instellen en langer handhaven.
-
-2. Het College is onder verantwoordelijkheid van Onze Minister belast met de zorg voor een doelmatig gebruik van de havens.
-
-3. Het College bestaat uit twee vertegenwoordigers van Onze Minister van Verkeer en Waterstaat en twee vertegenwoordigers van Onze Minister van Defensie; de leden van het College worden door Ons benoemd op voordracht van de Ministers, die het aangaat.
-
-4. Het College beslist in aangelegenheden, die Onze andere Ministers mede aangaan, slechts na overleg met de door dezen aan te wijzen ambtenaren, tenzij de vereiste spoed dit niet gedoogt. In laatstbedoeld geval stelt het College die ambtenaren terstond van de genomen beslissing in kennis.
-
-5. Indien gedurende de tijd dat voor Nederland of een gedeelte daarvan, op grond van [artikel 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, in het College geen eenstemmigheid bestaat omtrent een aangelegenheid betreffende het gebruik van de havens ten behoeve van de militaire verdediging, beslissen de vertegenwoordigers van Onze Minister van Defensie.
-
-6. Wij kunnen bij algemene maatregel van bestuur nadere regelen stellen met betrekking tot de taak en de werkwijze van het College.
+Vervallen
 
 ##### Artikel 6
 
@@ -101,7 +89,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van een aanwijzing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01).
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2005-03-16&g=2005-03-16) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+3. Zo nodig oefent de toezichthouder de in de [artikelen 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) genoemde bevoegdheden uit met behulp van de sterke arm.
+
+4. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2005-03-16&g=2005-03-16) opgelegde verplichtingen.
 
 ##### Artikel 8
 
@@ -109,41 +103,35 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9
 
-Onze Minister kan havendistricten instellen.
+Vervallen
 
 ##### Artikel 10
 
-1. Onze Ministers van Verkeer en Waterstaat en van Defensie benoemen voor elk havendistrict een Districtshavencommissaris.
-
-2. In havendistricten kan Onze Minister van zijn bevoegdheden bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=1998-01-01&g=1998-01-01) machtiging verlenen aan de Districtshavencommissaris.
-
-3. Onze Ministers, genoemd in het eerste lid, kunnen voor door hen aan te geven gebieden Locale Havencommissarissen benoemen; het bepaalde in het tweede lid is van overeenkomstige toepassing.
-
-4. De Districtshavencommissaris handelt volgens de aanwijzingen van het College, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=5&z=1998-01-01&g=1998-01-01); de Locale Havencommissaris handelt volgens de aanwijzingen van de Districtshavencommissaris dan wel, bij ontstentenis van deze of indien het College zulks bepaalt, naar de aanwijzingen van het College.
+Vervallen
 
 ##### Artikel 11
 
-Onze Minister kan in elk havendistrict één of meer havenraden instellen; hij stelt nadere regelen betreffende de samenstelling, de taak en de werkwijze der havenraden en benoemt derzelver voorzitter en overige leden. In een havenraad hebben vertegenwoordigers zitting van de autoriteiten, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01), en van het bedrijfsleven, betrokken bij het gebruik der havens.
+Vervallen
 
 ##### Artikel 12
 
-De in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) bedoelde autoriteiten, lichamen en personen, alsmede kapiteins van schepen en bestuurders van vervoermiddelen te land zijn verplicht aan Onze Minister, de Districtshavencommissaris, de Locale Havencommissaris of andere, daartoe door Onze Minister schriftelijk gemachtigde personen, de inlichtingen te verstrekken, welke door dezen voor de uitvoering van deze wet van hen worden verlangd en tot het verschaffen waarvan zij feitelijk in staat zijn.
+De in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16) bedoelde autoriteiten, lichamen en personen, alsmede kapiteins van schepen en bestuurders van vervoermiddelen te land zijn verplicht aan Onze Minister de inlichtingen te verstrekken, welke door dezen voor de uitvoering van deze wet van hen worden verlangd en tot het verschaffen waarvan zij feitelijk in staat zijn.
 
 ##### Artikel 13
 
-1. Hij, aan wie door een ander diensten zijn verleend ingevolge een aanwijzing, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01), is aan die ander een vergoeding verschuldigd naar de voor soortgelijke diensten ter plaatse rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de tarieven en voorwaarden, vastgesteld door het College, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=5&z=1998-01-01&g=1998-01-01).
+1. Hij, aan wie door een ander diensten zijn verleend ingevolge een aanwijzing, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16), is aan die ander een vergoeding verschuldigd naar de voor soortgelijke diensten ter plaatse rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de tarieven en voorwaarden, vastgesteld door Onze Minister.
 
-2. Het College kan voorschriften vaststellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
-
-3. Bij de vaststelling van tarieven en voorwaarden als bedoeld in het eerste en tweede lid neemt het College de voor buitengewone omstandigheden geldende prijsbeheersingsvoorschriften in acht.
+2. Onze Minister kan bij ministeriële regeling regels stellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
 
 ##### Artikel 14
 
-1. Bij algemene maatregel van bestuur regelen Wij de vergoeding van buitengewone kosten, door de betrokkene gemaakt bij het gevolg geven aan aanwijzingen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01).
+1. Onze Minister kan aan degene aan wie een aanwijzing is gegeven krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16), een naar billijkheid te bepalen vergoeding toekennen ter zake van buitengewone kosten door betrokkene gemaakt vanwege de naleving van de aanwijzing.
 
-2. Bij algemene maatregel van bestuur regelen Wij de uitkering alsmede de vergoeding wegens genees- en heelkundige behandeling in daarbij te bepalen gevallen terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid of overlijden als gevolg van het opvolgen of de medewerking aan het opvolgen van aanwijzingen krachtens [artikel 6 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01), indien en voor zover niet uit anderen hoofde aanspraak op een dergelijke uitkering of vergoeding bestaat.
+2. Bij algemene maatregel van bestuur kunnen op voordracht van Onze Minister regels worden gesteld ter zake van de toepassing van het eerste lid.
 
-3. Tegen een beslissing terzake van een vergoeding of een uitkering als bedoeld in het eerste of tweede lid, kan de belanghebbende in beroep komen bij een door Ons te benoemen commissie; bij algemene maatregel van bestuur regelen Wij de samenstelling en de werkwijze der commissie.
+3. Bij algemene maatregel van bestuur regelen Wij de uitkering alsmede de vergoeding wegens genees- en heelkundige behandeling in daarbij te bepalen gevallen terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid of overlijden als gevolg van het opvolgen of de medewerking aan het opvolgen van aanwijzingen krachtens [artikel 6 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16), indien en voor zover niet uit anderen hoofde aanspraak op een dergelijke uitkering of vergoeding bestaat.
+
+4. Tegen een beslissing terzake van een vergoeding of een uitkering als bedoeld in het eerste of derde lid, kan de belanghebbende in beroep komen bij een door Ons te benoemen commissie; bij algemene maatregel van bestuur regelen Wij de samenstelling en de werkwijze der commissie.
 
 ##### Artikel 15
 
@@ -151,13 +139,13 @@ Vervallen
 
 ##### Artikel 16
 
-1. Overtreding van het bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=1998-01-01&g=1998-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=12&z=1998-01-01&g=1998-01-01) bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
+1. Overtreding van het bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2005-03-16&g=2005-03-16) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=12&z=2005-03-16&g=2005-03-16) bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Het feit is een overtreding.
 
 ##### Artikel 17
 
-1. Opzettelijke overtreding van het bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=1998-01-01&g=1998-01-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
+1. Opzettelijke overtreding van het bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
 2. Het feit is een misdrijf.
 
@@ -177,27 +165,29 @@ Vervallen
 
 ##### Artikel 20
 
-1. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=1998-01-01&g=1998-01-01) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+1. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2005-03-16&g=2005-03-16) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
-2. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=1998-01-01&g=1998-01-01) bedoelde ambtenaren zijn bevoegd inzage te vorderen van gegevens en bescheiden. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is van overeenkomstige toepassing.
+2. De in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2005-03-16&g=2005-03-16) bedoelde ambtenaren zijn bevoegd inzage te vorderen van gegevens en bescheiden. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is van overeenkomstige toepassing.
 
 ##### Artikel 21
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=1998-01-01&g=1998-01-01) bedoelde ambtenaren.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=19&z=2005-03-16&g=2005-03-16) bedoelde ambtenaren.
 
 2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ##### Artikel 22
 
-Voorzolang de verbinding tussen enig gebied en Onze Minister en het College, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=5&z=1998-01-01&g=1998-01-01), tengevolge van oorlogsomstandigheden verbroken is wordt aldaar de bevoegdheid, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=7&z=1998-01-01&g=1998-01-01), die tot het benoemen van de leden van de havenraad, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=11&z=1998-01-01&g=1998-01-01), en de bevoegdheid tot vaststelling van tarieven en voorwaarden, omschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=13&z=1998-01-01&g=1998-01-01), uitgeoefend door de Districtshavencommissaris of bij gebreke van deze door de Locale Havencommissaris.
+1. Op voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie worden bij algemene maatregel van bestuur de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6&z=2005-03-16&g=2005-03-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=7&z=2005-03-16&g=2005-03-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8&z=2005-03-16&g=2005-03-16), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=13&z=2005-03-16&g=2005-03-16) omschreven bevoegdheden uitoefenen namens Onze Ministers van Verkeer en Waterstaat en van Defensie.
+
+2. Een algemeen mandaat als bedoeld in het eerste lid wordt niet voor onbepaalde tijd gegeven. Zij bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd en de periode waarin het mandaat geldt.
+
+3. Een mandaat voor een bepaald geval als bedoeld in het eerste lid bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd, de periode waarin het mandaat geldt en het geval waarin de bevoegdheid kan worden uitgeoefend.
 
 ##### Artikel 23
 
-Een bij of krachtens deze wet opgelegde verplichting is opgeheven voor zover het voldoen hieraan zou medebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd
+1. Een bij of krachtens deze wet opgelegde verplichting vervalt van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak.
 
-- a. in het belang van de militaire verdediging, of
-
-- b. in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking.
+2. Een bij of krachtens deze wet opgelegde verplichting die niet voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak, vervalt eveneens van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd in het belang van de bestrijding van een ramp, een zwaar ongeval of van een verstoring van de openbare orde of van ernstige vrees voor het ontstaan daarvan.
 
 ##### Artikel 24
 
