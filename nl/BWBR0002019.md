@@ -79,13 +79,3 @@ Eerepenning voor menschlievend hulpbetoon.
 Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad,** waarin het is geplaatst.
 
 Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
-
-##### Artikel 4a
-
-Een voordracht tot toekenning van een erepenning wordt gedaan door:
-
-- Onze Minister van Defensie, indien de menslievende daad is verricht door een militair dan wel door een burgerambtenaar in dienst van het Ministerie van Defensie;
-
-- Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in andere gevallen dan bedoeld onder a.
-
-Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
