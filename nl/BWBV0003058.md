@@ -182,13 +182,3 @@ GEDAAN te 's-Gravenhage op 26 September 1991, in twee exemplaren in de Nederland
 **Voor de Republiek Oostenrijk**
 
 (w.g.) Dr. HEINRICH PFUSTERSCHMID-HARDTENSTEIN
-
-GEDAAN te 's-Gravenhage op 26 September 1991, in twee exemplaren in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
-
-**Voor het Koninkrijk der Nederlanden**
-
-(w.g.) P. DANKERT
-
-**Voor de Republiek Oostenrijk**
-
-(w.g.) Dr. HEINRICH PFUSTERSCHMID-HARDTENSTEIN
