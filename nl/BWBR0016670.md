@@ -65,9 +65,3 @@ De voorzitter, de leden en de plaatsvervangende leden van de centrale commissie 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7
-
-Deze regeling wordt aangehaald als: Vergoedingenregeling centrale commissie medisch-wetenschappelijk onderzoek.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
