@@ -4,7 +4,7 @@ identifier: "BWBR0003830"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-10-02"
-last_updated: "1985-09-14"
+last_updated: "2002-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003830"
 soort: "AMvB"
@@ -46,19 +46,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Vrijstelling
 
-1. De in [artikel 2, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=2) (**Stb.** 1971, 406), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een minderjarige als leerling van een school is ingeschreven indien en zolang
-
-- a. zij het schippersbedrijf uitoefenen en de minderjarige bij hen aan boord woont, of
-
-- b. zij gedurende de maanden maart tot en met oktober als kermisexploitant of als circusmedewerker een trekkend bestaan leiden en de minderjarige met hen meereist.
-
-2. De vrijstelling, bedoeld in het eerste lid onderdeel **a**, eindigt na afloop van het schooljaar waarin de minderjarige de leeftijd van 7 jaar heeft bereikt.
+De in [artikel 2 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=2) bedoelde personen zijn vrijgesteld van de verplichting om te zorgen dat een minderjarige als leerling van een school is ingeschreven indien en zolang zij gedurende de maanden maart tot en met oktober als kermisexploitant of als circusmedewerker een trekkend bestaan leiden en de minderjarige met hen meereist.
 
 ##### Artikel 2. Opschorting van de vrijstelling
 
-1. De vrijstelling, bedoeld in [artikel 1, eerste lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003830&artikel=1&z=1985-09-14&g=1985-09-14), geldt niet indien de afstand tussen de ligplaats van het schip waar de minderjarige aan boord woont en een school voor ligplaatsonderwijs aan varende kinderen, als bedoeld in het [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833), minder bedraagt dan 5 kilometer, gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg.
-
-2. De vrijstelling, bedoeld in [artikel 1, eerste lid onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003830&artikel=1&z=1985-09-14&g=1985-09-14), geldt niet indien de afstand tussen de standplaats waar de minderjarige verblijft en de standplaats van een rijdende school voor kinderen van kermisexploitanten of van circusmedewerkers, als bedoeld in het [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833), die voor de minderjarige toegankelijk is, minder bedraagt dan 5 kilometer, gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg.
+De vrijstelling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003830&artikel=1&z=2002-10-02&g=2002-10-02), geldt niet indien de afstand tussen de standplaats waar de minderjarige verblijft en de standplaats van een rijdende school voor kinderen van kermisexploitanten of van circusmedewerkers, bedoeld in het [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833), die voor de minderjarige toegankelijk is, minder bedraagt dan 5 kilometer, gemeten langs de kortste voor de leerling voldoende begaanbare en veilige weg.
 
 ##### Artikel 3. Inwerkingtreding, citeertitel
 
