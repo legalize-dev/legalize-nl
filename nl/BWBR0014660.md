@@ -65,5 +65,3 @@ Indien het totaal van de aanschaffings- of voortbrengingskosten dan wel de kostp
 2. Dit besluit kan worden aangehaald als: Uitvoeringsbesluit BTW-compensatiefonds.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
