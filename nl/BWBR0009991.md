@@ -4,7 +4,7 @@ identifier: "BWBR0009991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-24"
-last_updated: "1998-12-15"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009991"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Als beheerders van de alarmnummers voor publieke diensten, bedoeld in [artikel 1
 
 ##### Artikel 2
 
-Als publieke diensten belast met hulpverleningstaken, bedoeld in [artikel 11.10, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), worden aangewezen de gemeentelijke en regionale brandweerkorpsen, de ambulancediensten aan wie krachtens de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend voor het verrichten van ambulancevervoer, de regionale politiekorpsen en het Korps landelijke politiediensten.
+Als publieke diensten belast met hulpverleningstaken, bedoeld in [artikel 11.10, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10), worden aangewezen de gemeentelijke en regionale brandweerkorpsen, de ambulancediensten aan wie krachtens de [Wet Ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757) vergunning is verleend voor het verrichten van ambulancevervoer, de regionale politiekorpsen en het Korps landelijke politiediensten.
 
 ##### Artikel 3
 
