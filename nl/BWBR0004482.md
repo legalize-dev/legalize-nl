@@ -4,7 +4,7 @@ identifier: "BWBR0004482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-04-01"
+last_updated: "2003-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004482"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en
 
-P bedraagt: voor werknemers, jonger dan 65 jaar: 55,59% en voor werknemers van 65 jaar en ouder: 19,10%.
+P bedraagt: voor werknemers, jonger dan 65 jaar: 56,25% en voor werknemers van 65 jaar en ouder: 19,48%.
 
 5. De loonbelasting en premie voor de volksverzekeringen over loon waarover geen premie ingevolge de Ziekenfondswet is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt:
 
@@ -128,7 +128,7 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid en verminderd met het bedrag aan heffingskorting waarmee rekening is gehouden bij de toepassing van het vierde lid, en
 
-R bedraagt: voor werknemers, jonger dan 65 jaar: 49,03% en voor werknemers van 65 jaar en ouder: 17,65%.
+R bedraagt: voor werknemers, jonger dan 65 jaar: 49,59% en voor werknemers van 65 jaar en ouder: 17,99%.
 
 6. Voor de toepassing van het tweede, vierde en vijfde lid wordt de werknemer die in het kalenderjaar de leeftijd van 65 jaar heeft bereikt, geacht die leeftijd te hebben bereikt op de eerste dag van de kalendermaand waarin hij die leeftijd werkelijk heeft bereikt.
 
