@@ -102,17 +102,3 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 Deze regeling wordt aangehaald als: Regeling kabelvliegers en kleine ballons.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8
-
-Deze regeling berust op [artikel 1a, derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a).
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 4 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4).
-
-##### Artikel 1b. Kruisende koersen
-
-1. De kabelvlieger, kleine kabelballon en onbemande vrije ballon verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonen en luchtschepen.
-
-2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
