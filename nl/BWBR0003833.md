@@ -4,7 +4,7 @@ identifier: "BWBR0003833"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2003-06-18"
+last_updated: "2004-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003833"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 **wet**: [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2003-06-18&g=2003-06-18) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2003-06-18&g=2003-06-18), tenzij het tegendeel blijkt;
+**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2003-06-18&g=2004-08-01) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2003-06-18&g=2004-08-01), tenzij het tegendeel blijkt;
 
 **schooljaar**: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald.
 
@@ -70,7 +70,7 @@ leerling met een niet-Nederlandse culturele achtergrond: leerling:
 
 ##### Artikel A 2. Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
 
-1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2003-06-18&g=2003-06-18).
+1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2003-06-18&g=2004-08-01).
 
 2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10), behoudens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13) bedoelde algemene maatregel van bestuur, [29 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [40 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40), [50 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=50), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=67), [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [126 tot en met 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [173, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=173), [175, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178), [182 tot en met 184a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=182), [186](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=186) en [187 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) zijn van overeenkomstige toepassing. Voorts zijn het [Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136) en het [Besluit kerndoelen primair onderwijs 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009666) van overeenkomstige toepassing.
 
@@ -138,7 +138,7 @@ Vervallen
 
 ##### Artikel B 10. Toelatingsleeftijd, duur onderwijs
 
-1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2003-06-18&g=2003-06-18) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
+1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2003-06-18&g=2004-08-01) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
 
 2. De leerlingen verlaten de school, bedoeld in het eerste lid, in elk geval na afloop van het schooljaar waarin zij de leeftijd van 14 jaar hebben bereikt.
 
@@ -232,13 +232,13 @@ De kosten van materiële instandhouding die voor vergoeding uit 's Rijks kas in 
 
 De formatie, bedoeld in onderdeel **a**, is redelijkerwijs voldoende voor het leiden en beheren van de school, voor het geven van onderwijs aan de school en voor de overige werkzaamheden die verband houden met het onderwijs aan de school.
 
-2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer formatie toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2003-06-18&g=2003-06-18) wordt vastgesteld.
+2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer formatie toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2003-06-18&g=2004-08-01) wordt vastgesteld.
 
 ##### Artikel B 16b. Formatiebudget; formatierekeneenheden
 
-1. De totale omvang van de formatie, bedoeld in [artikel B 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2003-06-18&g=2003-06-18), die voor een school wordt vastgesteld, is het formatiebudget. Indien krachtens [artikel B 16j](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16j&z=2003-06-18&g=2003-06-18) kan worden voorzien in formatie voor speciale doeleinden, maakt deze formatie uitsluitend deel uit van het formatiebudget indien de desbetreffende formatierekeneenheden worden besteed voor die speciale doeleinden. Het formatiebudget wordt in de vorm van formatierekeneenheden aan het bevoegd gezag van een school toegekend.
+1. De totale omvang van de formatie, bedoeld in [artikel B 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2003-06-18&g=2004-08-01), die voor een school wordt vastgesteld, is het formatiebudget. Indien krachtens [artikel B 16j](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16j&z=2003-06-18&g=2004-08-01) kan worden voorzien in formatie voor speciale doeleinden, maakt deze formatie uitsluitend deel uit van het formatiebudget indien de desbetreffende formatierekeneenheden worden besteed voor die speciale doeleinden. Het formatiebudget wordt in de vorm van formatierekeneenheden aan het bevoegd gezag van een school toegekend.
 
-2. De omvang van het formatiebudget wordt bepaald door de som van de aantallen formatierekeneenheden zoals voor een school berekend op grond van de [artikelen B 16d tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16d&z=2003-06-18&g=2003-06-18).
+2. De omvang van het formatiebudget wordt bepaald door de som van de aantallen formatierekeneenheden zoals voor een school berekend op grond van de [artikelen B 16d tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16d&z=2003-06-18&g=2004-08-01).
 
 ##### Artikel B 16c. Formatie reguliere taken van de school
 
@@ -256,7 +256,7 @@ De formatie voor de vervulling van de reguliere taken van de school, bedoeld in 
 
 ##### Artikel B 16d. Opbouw normatieve formatie
 
-De normatieve formatie van een school, bedoeld in [artikel B 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16c&z=2003-06-18&g=2003-06-18) onderdeel **a**, omvat de basisformatie, de formatie voor vakonderwijs, en de formatie voor de schoolleiding.
+De normatieve formatie van een school, bedoeld in [artikel B 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16c&z=2003-06-18&g=2004-08-01) onderdeel **a**, omvat de basisformatie, de formatie voor vakonderwijs, en de formatie voor de schoolleiding.
 
 ##### Artikel B 16e. Berekening basisformatie
 
@@ -287,9 +287,9 @@ De opslag in verband met rechtspositionele aanspraken van personeel bij verminde
 
 ##### Artikel B 16i. Opslag vanwege herbezetting i.v.m. arbeidsduurverkorting en i.v.m. toepassing regeling bevordering arbeidsparticipatie ouderen
 
-1. De aantallen formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2003-06-18&g=2003-06-18), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
+1. De aantallen formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2003-06-18&g=2004-08-01), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
 
-2. Het aantal formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2003-06-18&g=2003-06-18) en verhoogd op grond van het eerste lid, wordt tevens verhoogd met het aantal formatierekeneenheden dat behoort bij het gedeelte van de betrekkingsomvang dat kan worden herbezet in verband met toepassing van de regeling bevordering arbeidsparticipatie ouderen, bedoeld in [titel 16 van hoofdstuk 1 van het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&titeldeel=16). Het eerste lid, tweede en derde volzin, is van toepassing.
+2. Het aantal formatierekeneenheden, berekend op grond van [artikel B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16m&z=2003-06-18&g=2004-08-01) en verhoogd op grond van het eerste lid, wordt tevens verhoogd met het aantal formatierekeneenheden dat behoort bij het gedeelte van de betrekkingsomvang dat kan worden herbezet in verband met toepassing van de regeling bevordering arbeidsparticipatie ouderen, bedoeld in [titel 16 van hoofdstuk 1 van het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&titeldeel=16). Het eerste lid, tweede en derde volzin, is van toepassing.
 
 ##### Artikel B 16i.1. Opslag vanwege herbezetting i.v.m. uitbreiding arbeidsduurverkorting
 
@@ -377,7 +377,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 
 ##### Artikel B 20. Vergoeding door Rijk van uitgaven personeel
 
-1. Met inachtneming van de [artikelen B 16a tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2003-06-18&g=2003-06-18) van dit besluit, vergoedt het Rijk aan het bevoegd gezag van een bijzondere school:
+1. Met inachtneming van de [artikelen B 16a tot en met B 16m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16a&z=2003-06-18&g=2004-08-01) van dit besluit, vergoedt het Rijk aan het bevoegd gezag van een bijzondere school:
 
 - a. de uitgaven voor het personeel dat is aangesteld ten laste van het formatiebudget, en
 
@@ -525,7 +525,7 @@ Vervallen
 
 ##### Artikel C 14a. Weigeringsgronden
 
-1. Onze Minister weigert inwilliging van het in [artikel C 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3&artikel=C_14&z=2003-06-18&g=2003-06-18), bedoelde verzoek, in voorkomende gevallen na overleg met de desbetreffende gemeente, indien hij van oordeel is dat:
+1. Onze Minister weigert inwilliging van het in [artikel C 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3&artikel=C_14&z=2003-06-18&g=2004-08-01), bedoelde verzoek, in voorkomende gevallen na overleg met de desbetreffende gemeente, indien hij van oordeel is dat:
 
 - a. de gewenste voorziening geen voorziening is in de zin van [artikel 92 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92),
 
@@ -541,7 +541,7 @@ Vervallen
 
 3. Alvorens Onze Minister een besluit neemt dat afwijkt van hetgeen in het verzoek is aangegeven, pleegt hij overleg met het bevoegd gezag.
 
-4. [Artikel C 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=2&artikel=C_13&z=2003-06-18&g=2003-06-18), is van overeenkomstige toepassing.
+4. [Artikel C 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=2&artikel=C_13&z=2003-06-18&g=2004-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel C 14b. Onderhoudsplicht; verbod tot vervreemding en bezwaring
 
@@ -563,9 +563,9 @@ Artikel 106 van de wet is van overeenkomstige toepassing, met dien verstande dat
 
 ##### Artikel C 15a. Vergoeding materiële instandhouding van een school gehuisvest in een gebouw
 
-De grondslag voor de vergoeding van de in [artikel C 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3A&artikel=C_15&z=2003-06-18&g=2003-06-18) bedoelde kosten zijn:
+De grondslag voor de vergoeding van de in [artikel C 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3A&artikel=C_15&z=2003-06-18&g=2004-08-01) bedoelde kosten zijn:
 
-- a. het normatief bepaalde aantal te huisvesten groepen leerlingen dat gelijk wordt gesteld aan het aantal formatieplaatsen berekend overeenkomstig [artikel C 15f](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15f&z=2003-06-18&g=2003-06-18), met dien verstande dat wordt gerekend met het aantal leerlingen bepaald overeenkomstig onderdeel b, en
+- a. het normatief bepaalde aantal te huisvesten groepen leerlingen dat gelijk wordt gesteld aan het aantal formatieplaatsen berekend overeenkomstig [artikel C 15f](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15f&z=2003-06-18&g=2004-08-01), met dien verstande dat wordt gerekend met het aantal leerlingen bepaald overeenkomstig onderdeel b, en
 
 - b. het rekenkundig afgeronde gemiddelde van de hoogste dagtellingen van het aantal leerlingen van de maand september van het tweede jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt tot en metde maand april van het jaar voorafgaande aan het jaar waarover de vergoeding plaatsvindt.
 
@@ -605,7 +605,7 @@ De formatie, bedoeld in onderdeel **a**, is redelijkerwijs voldoende voor het le
 
 ##### Artikel C 15d. Formatie reguliere taken van de school
 
-De formatie voor de vervulling van reguliere taken van de school, bedoeld in [artikel C 15**b**, eerste lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3A&artikel=C_15&z=2003-06-18&g=2003-06-18), bestaat uit:
+De formatie voor de vervulling van reguliere taken van de school, bedoeld in [artikel C 15**b**, eerste lid onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=3A&artikel=C_15&z=2003-06-18&g=2004-08-01), bestaat uit:
 
 - a. de normatieve formatie,
 
@@ -640,9 +640,9 @@ De opslag in verband met rechtspositionele aanspraken van personeel bij verminde
 
 ##### Artikel C 15i. Opslag vanwege herbezetting i.v.m. arbeidsduurverkorting en i.v.m. toepassing regeling bevordering arbeidsparticipatie ouderen
 
-1. De aantallen formatierekeneenheden, berekend op grond van [artikel C 15m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15m&z=2003-06-18&g=2003-06-18), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
+1. De aantallen formatierekeneenheden, berekend op grond van [artikel C 15m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15m&z=2003-06-18&g=2004-08-01), worden verhoogd met 8,11% vanwege herbezetting in verband met arbeidsduurverkorting. De uitkomst wordt afgerond op een geheel getal. Bij de afronding worden de decimalen verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5, en worden de decimalen verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.
 
-2. Het aantal formatierekeneenheden, berekend op grond van [artikel C 15m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15m&z=2003-06-18&g=2003-06-18) en verhoogd op grond van het eerste lid, wordt tevens verhoogd met het aantal formatierekeneenheden dat behoort bij het gedeelte van de betrekkingsomvang dat kan worden herbezet in verband met toepassing van de regeling bevordering arbeidsparticipatie ouderen, bedoeld in [titel 16 van hoofdstuk 1 van het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&titeldeel=16). Het eerste lid, tweede en derde volzin, is van toepassing.
+2. Het aantal formatierekeneenheden, berekend op grond van [artikel C 15m](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15m&z=2003-06-18&g=2004-08-01) en verhoogd op grond van het eerste lid, wordt tevens verhoogd met het aantal formatierekeneenheden dat behoort bij het gedeelte van de betrekkingsomvang dat kan worden herbezet in verband met toepassing van de regeling bevordering arbeidsparticipatie ouderen, bedoeld in [titel 16 van hoofdstuk 1 van het Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0015136&titeldeel=16). Het eerste lid, tweede en derde volzin, is van toepassing.
 
 ##### Artikel C 15i.1. Opslag vanwege herbezetting i.v.m. uitbreiding arbeidsduurverkorting
 
@@ -714,7 +714,7 @@ Vervallen
 
 ##### Artikel C 18. Vergoeding door Rijk van uitgaven personeel
 
-1. Met inachtneming van de [artikelen C 15**b** tot en met C 15**m**](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15b&z=2003-06-18&g=2003-06-18) van dit besluit vergoedt het Rijk aan het bevoegd gezag van de openbare en bijzondere scholen:
+1. Met inachtneming van de [artikelen C 15**b** tot en met C 15**m**](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=4A&artikel=C_15b&z=2003-06-18&g=2004-08-01) van dit besluit vergoedt het Rijk aan het bevoegd gezag van de openbare en bijzondere scholen:
 
 - a. de uitgaven voor het personeel dat is aangesteld ten laste van het formatiebudget, en
 
@@ -728,9 +728,9 @@ Vervallen
 
 De [artikelen 140 tot en met 147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=140) zijn van overeenkomstige toepassing met dien verstande dat:
 
-- a. in [artikel 144, eerste lid onderdeel d 1° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144) “[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)" wordt gelezen als [artikel C18, eerste lid, onderdeel a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=5&artikel=C_18&z=2003-06-18&g=2003-06-18), en
+- a. in [artikel 144, eerste lid onderdeel d 1° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144) “[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)" wordt gelezen als [artikel C18, eerste lid, onderdeel a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=5&artikel=C_18&z=2003-06-18&g=2004-08-01), en
 
-- b. in [artikel 144, eerste lid onderdeel d 2° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144) "[artikel 104, eerste lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=104)" wordt gelezen als [artikel C18, eerste lid, onderdeel b van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=5&artikel=C_18&z=2003-06-18&g=2003-06-18).
+- b. in [artikel 144, eerste lid onderdeel d 2° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144) "[artikel 104, eerste lid onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=104)" wordt gelezen als [artikel C18, eerste lid, onderdeel b van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=5&paragraaf=5&artikel=C_18&z=2003-06-18&g=2004-08-01).
 
 ##### Artikel C 18b. Besteding vergoeding personeel en overschrijdingsbedragen
 
