@@ -1,0 +1,68 @@
+---
+title: "Wet van 12 september 2002 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen"
+identifier: "BWBR0014020"
+country: "nl"
+rank: "wet"
+publication_date: "2005-03-01"
+last_updated: "2002-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014020"
+soort: "wet"
+stam_id: "3231913"
+version_id: "4983342"
+internal_id: "C5021061"
+label_id: "3203604"
+dtd_version: "2.0"
+original_entry_into_force: "2002-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014020/2005-03-01/0"
+intitule_bron: "Stb.2002-493"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-09-12"
+intitule_published: "2002-10-03"
+intitule_in_force: "2002-11-21"
+intitule_status: "goed"
+original_publication: "Stb.2002-493"
+original_signed_date: "2002-09-12"
+original_published_date: "2002-10-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "28067"
+original_url_id: "stb-2002-493"
+entry_into_force_date: "2002-11-30"
+jci_1_3: "jci1.3:c:BWBR0014020&z=2005-03-01&g=2005-03-01"
+jci_1_0: "1.0:c:BWBR0014020&g=2005-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen)"
+signed_date: "2002-09-12"
+entry_into_force: "2002-11-30"
+---
+# Wet van 12 september 2002 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen
+
+##### Artikel I
+
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+##### Artikel II
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel III
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel IV
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel V
+
+Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het met het oog op de verbetering van de kwaliteit en de vergroting van de transparantie en doelmatigheid van het kunstonderwijs wenselijk is regels te stellen met betrekking tot de ondersteuning van de herstructurering van de opleidingen op het gebied van de kunst, de lerarenopleidingen op het gebied van de kunst en de voortgezette kunstopleidingen;
+
+dat daartoe op een aantal onderdelen de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) dient te worden gewijzigd;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
