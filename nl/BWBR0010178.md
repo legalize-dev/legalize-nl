@@ -135,11 +135,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Kaderwet subsidies Ministerie van Buitenlandse Zaken.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01), van deze wet.
-
-2. Het bij of krachtens de [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194) bepaalde blijft van toepassing op subsidies die zijn verstrekt krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2014-01-01&g=2014-01-01) in samenhang met [artikel 2, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
