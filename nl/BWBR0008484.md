@@ -78,7 +78,3 @@ Vervallen
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7
-
-[Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2006-10-01&g=2006-10-01), zoals dat luidde op de dag voor inwerkingtreding van artikel IX onderdeel A, van de regeling van 4 september tot wijziging van enige ministeriële regelingen in verband met de inwerkingtreding van de Wet wijziging WW-stelsel (Stcrt. 182) blijft van toepassing met betrekking tot een recht op uitkering waarvan de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dat onderdeel.
