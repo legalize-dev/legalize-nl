@@ -4,7 +4,7 @@ identifier: "BWBR0009521"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-05-02"
-last_updated: "1998-04-24"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009521"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 - a. de nummerhouder neemt het bij dit besluit bepaalde alsmede de geldende aanbevelingen van de International Telecommunication Union (ITU-T) in acht;
 
-- b. de nummerhouder is verplicht het nummer te gebruiken voor een netwerkpunt in het transitdomein van het nationale telefoonverkeer, ten behoeve van een signaleringskoppeling voor openbare telefonie tussen het netwerkpunt waarvoor het nummer is aangevraagd, en één of meer andere netwerkpunten in het transitdomein van het nationale telefoonverkeer.
+- b. de nummerhouder is verplicht het nummer te gebruiken voor een netwerkpunt in het transitdomein van het nationale telefoonverkeer, ten behoeve van een signaleringskoppeling voor openbare elektronische communicatiedienst tussen het netwerkpunt waarvoor het nummer is aangevraagd, en één of meer andere netwerkpunten in het transitdomein van het nationale telefoonverkeer.
 
 - c. de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling.
 
@@ -69,17 +69,11 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 ##### Artikel 5
 
-1. Indien een aanvraag om toekenning van een nummer strijdig is met dit besluit en de Minister van Verkeer en Waterstaat het voornemen heeft dit besluit zodanig te wijzigen dat inwilliging van de aanvraag alsdan mogelijk wordt, wordt de aanvraag vooruitlopend op de wijziging van dit besluit in behandeling genomen.
-
-2. Bij de toekenning van nummers kan het college, indien dit in bijzondere gevallen naar het oordeel van het college gerechtvaardigd is, afwijken van [artikel 4, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=4&z=1998-04-24&g=1998-04-24).
+Vervallen
 
 ##### Artikel 6
 
-1. Indien nummers voor het tijdstip van de inwerkingtreding van dit besluit in gebruik waren bij een aanbieder van openbare telecommunicatiediensten, en indien deze de nummers wenst te behouden, dient deze binnen twee maanden na het tijdstip van inwerkingtreding van dit besluit een aanvraag in op grond van de gestelde regels in het [Besluit aanvraagprocedure nummers](https://wetten.overheid.nl/jci1.3:c:BWBR0008157) en de Regeling administratieve procedure nummers.
-
-2. De aanbieder van openbare telecommunicatiediensten blijft gerechtigd tot het gebruik van deze nummers totdat op de aanvraag door het college, is beslist, of - indien een aanvraag als bedoeld in het eerste lid met betrekking tot in gebruik zijnde nummers niet tijdig is ingediend - tot twee maanden na het tijdstip van inwerkingtreding van dit besluit.
-
-3. Aanvragen worden niet eerder afgehandeld dan acht weken na het tijdstip van inwerkingtreden van dit besluit.
+Vervallen
 
 ##### Artikel 7
 
@@ -89,7 +83,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Nummerplan transitnetwerk signaleringspuntcodes.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=2&z=1998-04-24&g=1998-04-24), van het Nummerplan transitnetwerk signaleringspuntcodes
+## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=2&z=2004-05-19&g=2004-05-19), van het Nummerplan transitnetwerk signaleringspuntcodes
 
 | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** |
 | --- | --- | --- | --- | --- | --- |
