@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2003-08-01"
+last_updated: "2004-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -66,43 +66,49 @@ Vervallen
 
 ##### Artikel 3
 
-1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt kan op voet van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=6&paragraaf=2&artikel=11&z=2003-08-01&g=2003-08-01), van de wet, slechts door Onze Minister worden aangewezen indien:
+1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), kan op voet van [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), slechts door Onze Minister worden aangewezen indien:
 
-- a. de woonruimte geschikt en bestemd is voor begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom is van een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is, en
+- a. de desbetreffende woonruimten geschikt en bestemd zijn voor:
 
-- b. de woonruimte zodanig is verdeeld dat, indien een huishouden over drie of meer kamers beschikt dan het aantal personen waaruit dat huishouden bestaat, dit naar het oordeel van Onze Minister aanvaardbaar is in verband met een goede volkshuisvesting.
+- 1°. begeleid wonen, of een daarmee vergelijkbare woonvorm, of
 
-2. Onze Minister kan de aanwijzing intrekken indien:
+- 2°. groepswonen door ouderen, of een daarmee vergelijkbare woonvorm;
 
-- a. niet langer is voldaan aan het eerste lid;
+- b. de desbetreffende huurovereenkomst naar haar aard niet van korte duur is;
 
-- b. de rekenhuur anders dan door middel van huursubsidie wordt gesubsidieerd, of
+- c. de rekenhuur niet anders dan door middel van huursubsidie wordt gesubsidieerd, en
 
-- c. de aanwijzing naar zijn oordeel redelijkerwijs niet geacht kan worden een doel binnen de volkshuisvesting te dienen.
+- d. de desbetreffende woonruimten zodanig zijn verdeeld dat elke huurder over minimaal één privé-vertrek beschikt.
 
-3. De aanwijzing van een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt die is verhuurd ten behoeve van begeleid wonen of een daarmee vergelijkbare woonvorm, kan voorts worden ingetrokken indien:
+2. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt, bedoeld in het eerste lid, onderdeel a, onder 1°, kan voorts slechts worden aangewezen indien:
 
-- a. het begeleid wonen of de daarmee vergelijkbare woonvorm niet gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;
+- a. de desbetreffende woonruimten bestemd zijn voor huurders die zonder zorg of begeleiding niet zelfstandig kunnen wonen;
 
-- b. het geen kleinschalig project betreft, of
+- b. het begeleid wonen of de daarmee vergelijkbare woonvorm gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;
 
-- c. de begeleiding niet plaatsvindt door een instantie voor lichamelijke, psychiatrische of maatschappelijke hulpverlening die, naar het oordeel van Onze Minister na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, voldoende deskundig is.
+- c. de zorg of begeleiding plaatsvindt door een op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) toegelaten zorginstelling of een andere deskundige, erkende hulpverleningsinstantie;
 
-4. De aanwijzing van een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt die is verhuurd ten behoeve van groepswonen door ouderen of een daarmee vergelijkbare woonvorm, kan voorts worden ingetrokken indien:
+- d. er een gescheiden huur- en zorgovereenkomst is, en
 
-- a. niet alle huurders van de desbetreffende wooneenheden zijn genoemd in één overeenkomst van huur en verhuur, of
+- e. de desbetreffende woonruimten niet bestemd zijn om uitsluitend te worden bewoond door minderjarige huurders.
 
-- b. in de desbetreffende wooneenheden niet ten minste drie huishoudens zijn gehuisvest.
+3. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt, bedoeld in het eerste lid, onderdeel a, onder 2°, kan voorts slechts worden aangewezen indien:
 
-5. De aanwijzing van een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt die is verhuurd ten behoeve van groepswonen door ouderen, kan voorts worden ingetrokken indien niet ten minste 80 procent van de huurders van de desbetreffende onzelfstandige woonruimte op de peildatum 65 jaar of ouder is.
+- a. alle huurders van de desbetreffende woonruimten zijn genoemd in één overeenkomst van huur en verhuur;
 
-### Hoofdstuk 4. Bij de aanvraag te verstrekken bescheiden
+- b. in de desbetreffende woonruimten ten minste drie huishoudens zijn gehuisvest, en
+
+- c. ten minste 80 procent van de huurders van de desbetreffende woonruimten op de peildatum 65 jaar of ouder is.
+
+4. Onze Minister kan de aanwijzing intrekken indien niet langer wordt voldaan aan het eerste, tweede of derde lid.
+
+### Hoofdstuk 4. Verklaring van de voorzitter van de huurcommissie
 
 ##### Artikel 4
 
-1. Bij de aanvraag wordt een verklaring van de voorzitter van de huurcommissie verstrekt als de aanvraag betrekking heeft op een woning:
+1. Onze Minister verzoekt aan de voorzitter van de huurcommissie van het ressort waarin de woning is gelegen een verklaring af te geven die betrekking heeft op een woning:
 
-- a. waarvoor de huurder voor de eerste keer een aanvraag doet tot toekenning van huursubsidie, en
+- a. waarvoor de huurder een aanvraag doet tot toekenning van huursubsidie, en
 
 - b. die:
 
@@ -114,33 +120,17 @@ Vervallen
 
 ##### Artikel 5
 
-De verklaring van de voorzitter van de huurcommissie wordt als volgt verkregen:
-
-- a. de huurder vult het aanvraagformulier volledig in dat door Onze Minister is vastgesteld en door burgemeester en wethouders verkrijgbaar is gesteld, en
-
-- b. de huurder dient dit aanvraagformulier vervolgens in bij de voorzitter van de huurcommissie van het ressort waarin de woning is gelegen.
+Vervallen
 
 ##### Artikel 6
 
-1. De voorzitter van de huurcommissie vermeldt op de verklaring de hoogte van de huurprijs en of deze redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels.
-
-2. Het eerste lid is niet van toepassing in een geval als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13).
-
-3. De verklaring van de voorzitter van de huurcommissie bevat voorts de volgende gegevens:
-
-- a. of de aanvraag een woning betreft waarvoor huursubsidie kan worden toegekend;
-
-- b. of tot de woning een garage behoort;
-
-- c. of tot de woning een bedrijfsruimte behoort;
-
-- d. of servicekosten zijn verschuldigd die voor de bepaling van het recht op en de hoogte van de huursubsidie in aanmerking worden genomen.
+De voorzitter van de huurcommissie vermeldt op de verklaring de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van de huurcommissie van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
 
 ### HOOFDSTUK 5. INFORMATIEPLICHT
 
 ##### Artikel 7
 
-1. Als de personen en de instanties, bedoeld in artikel 46 van de wet, die kosteloos gegevens en afschriften van stukken verstrekken aan burgemeester en wethouders en Onze Minister worden aangewezen:
+1. Als de personen en de instanties, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=46), die kosteloos gegevens en afschriften van stukken verstrekken aan Onze Minister worden aangewezen:
 
 - a. toegelaten instellingen als bedoeld in [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70);
 
@@ -152,9 +142,9 @@ De verklaring van de voorzitter van de huurcommissie wordt als volgt verkregen:
 
 - e. ziektekostenverzekeraars, ziekenfondsen, uitvoerende organen van publiekrechtelijke ziektekostenregelingen voor ambtenaren, en
 
-- f. indicatieorganen als bedoeld in [artikel 9**a** van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a).
+- f. burgemeester en wethouders.
 
-2. Voor de uitvoering van [hoofdstuk 4A van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&hoofdstuk=4A) worden als personen en instanties die kosteloos aan burgemeester en wethouders gegevens en afschriften van stukken verstrekken, bovendien aangewezen:
+2. Als de personen en de instanties, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=46), die kosteloos gegevens en afschriften van stukken verstrekken aan burgemeester en wethouders worden aangewezen:
 
 - a. burgemeester en wethouders van andere gemeenten;
 
@@ -168,7 +158,9 @@ De verklaring van de voorzitter van de huurcommissie wordt als volgt verkregen:
 
 - f. de uitvoeringsinstellingen, bedoeld in artikel 41, derde lid, van de Organisatiewet sociale verzekeringen 1997;
 
-- g. de sectorraden, bedoeld in artikel 56 van de Organisatiewet sociale verzekeringen 1997.
+- g. de sectorraden, bedoeld in artikel 56 van de Organisatiewet sociale verzekeringen 1997 en
+
+- h. indicatieorganen als bedoeld in [artikel 9a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a).
 
 3. Als de persoonsgegevens, bedoeld in het eerste en tweede lid, van medische aard zijn, vindt de verstrekking daarvan slechts plaats voor zover door degene op wie die gegevens betrekking hebben, schriftelijke toestemming is verleend.
 
