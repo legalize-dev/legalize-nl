@@ -182,35 +182,3 @@ Vervallen
 Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 1. Rechtbanken en gerechtshoven
-
-#### § 2. Arrondissementen
-
-##### Artikel 13
-
-Het arrondissement Zeeland-West-Brabant omvat het grondgebied van de provincie Zeeland alsmede van de gemeenten Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem en Zundert.
-
-#### § 3. Ressorten
-
-#### § 4. Slotbepalingen
-
-##### Artikel 18
-
-Indien een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) leidt tot een wijziging van het grondgebied van een arrondissement of ressort, heeft die wijziging geen gevolgen voor de rechterlijke bevoegdheid in zaken die op de datum van herindeling bij een rechtbank of gerechtshof aanhangig zijn.
-
-##### Artikel 19
-
-Deze wet wordt aangehaald als: Wet op de rechterlijke indeling.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-Het arrondissement Gelderland omvat het grondgebied van de provincie Gelderland.
-
-#### § 3. Ressorten
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
