@@ -4,7 +4,7 @@ identifier: "BWBR0008852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-05-19"
-last_updated: "2002-01-01"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008852"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ De in deze regeling genoemde informatie die tussen de minister en het college wo
 
 ##### Artikel 3. Reactie minister op verzoeken van het college tot initiëring of wijziging van regelgeving
 
-De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek van het college tot initiëring of wijziging van de regelgeving op het gebied van telecommunicatie en post.
+De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek van het college tot initiëring of wijziging van de regelgeving op het gebied van elektronische communicatie en post.
 
 ### Hoofdstuk II. Informatie wederzijds te verstrekken ten behoeve van de taakuitoefening van beide partijen
 
@@ -125,7 +125,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 1. Ter kennisneming biedt de minister het college zo spoedig mogelijk na het beschikbaar komen daarvan, voor zover op het gebied van dan wel relevant voor de taakuitoefening door het college, de volgende informatie aan:
 
-- a. besluiten over of vastgestelde versies van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=II&artikel=4&z=2002-01-01&g=2002-01-01), genoemde voornemens;
+- a. besluiten over of vastgestelde versies van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=II&artikel=4&z=2004-05-19&g=2004-05-19), genoemde voornemens;
 
 - b. (andere) brieven of nota’s aan de kamers der Staten- Generaal, voor zover deze niet aangemerkt zijn als vertrouwelijke stukken;
 
@@ -133,7 +133,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - d. internationale afspraken over internationale regelgeving en verslagen van internationaal overleg;
 
-- e. verslagen van relevante overleggremia, waaronder in ieder geval het Overlegorgaan Post en Telecommunicatie, het Periodiek Telecommunicatie Overleg (PTO), het Nationaal nummeroverleg (NNO), het overlegorgaan KPN voor post en telecommuni-catie en van relevant interdepartementaal overleg.
+- e. verslagen van relevante overleggremia, waaronder in ieder geval het Overlegplatform Post en Telecommunicatie (OPT), het Nationaal Nummeroverleg (NNO) en relevant interdepartementaal overleg.
 
 2. De minister draagt er zorg voor dat het college wordt geïnformeerd over relevante ontwikkelingen en aanschrijvingen op niveau van de rijksoverheid aangaande de bedrijfsvoering.
 
@@ -163,25 +163,25 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - b. De totale bezoldiging, inclusief pensioenafdracht van, en andere uitkeringen aan de vaste leden van het college, alsmede vergoedingen aan de geassocieerde leden van het college;
 
-- c. Kosten (personeel en materieel) en opbrengsten per (markt)categorie, waarbij de volgende (markt)categorieën worden onderscheiden: De kosten van bezwaar en beroep alsmede de kosten van advisering aan de minister op grond van deze regeling worden hierbij afzonderlijk in beeld gebracht;
+- c. Kosten (personeel en materieel) en opbrengsten per (markt)categorie, waarbij de volgende (markt)categorieën worden onderscheiden: De kosten van bezwaar en beroep alsmede de kosten van advisering aan de minister op grond van deze regeling worden hierbij afzonderlijk in beeld gebracht.
 
-- 1º. openbare telecommunicatienetwerken,
+- 1°. openbare elektronische communicatienetwerken;
 
-- 2º. huurlijnen,
+- 2°. openbare elektronische communicatiediensten;
 
-- 3º. omroepnetwerken,
+- 3°. systemen voor voorwaardelijke toegang;
 
-- 4º. openbare telecommunicatiediensten,
+- 4°. toegang tot het programma-aanbod;
 
-- 5º. systemen voor voorwaardelijke toegang,
+- 5°. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.7);
 
-- 6º. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.7),
+- 6°. vergunningen als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2);
 
-- 7º. vergunningen als bedoeld in de [artikelen 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2),
+- 7°. nummers;
 
-- 8º. nummers,
+- 8°. diensten van certificatiedienstverleners;
 
-- 9º. concessie post en geregistreerde postkoeriers.
+- 9°. concessie post en geregistreerde postkoeriers.
 
 - d. Doorlooptijden van aanvragen van machtigingen, vergunningen, nummers en registraties;
 
@@ -189,11 +189,11 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - f. Aantal en aard van de klachten over functioneren van OPTA;
 
-- g. Aantal ingediende bezwaar- en beroepschriften, aantal interconnectiegeschillen, aantal klachten op grond van de [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) alsmede het aantal beroep- en bezwaarschriften op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de resultaten daarvan.
+- g. Aantal ingediende bezwaar- en beroepschriften, aantal geschillen, aantal klachten op grond van de [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) alsmede het aantal beroep- en bezwaarschriften op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de resultaten daarvan.
 
 ##### Artikel 10. De begroting en meerjarenraming
 
-1. In het kader van de V&W- beleids- en begrotingscyclus wordt jaarlijks voor 1 november ter goedkeuring aan de minister voorgelegd een document waarin de begroting, de meerjarenraming en een hierop gebaseerd tarievenstelsel zijn geïntegreerd.
+1. Jaarlijks wordt voor 1 november ter goedkeuring aan de minister voorgelegd een document waarin de begroting, de meerjarenraming en een hierop gebaseerd tarievenstelsel zijn geïntegreerd.
 
 2. De begroting en de meerjarenraming bedoeld in [artikel 11, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=11), verschaffen inzicht in de keuzes die het college maakt ten aanzien van zijn uitvoeringsbeleid, de onderbouwing en de consequenties van de gemaakte keuzes, alsmede de financiële vertaling daarvan in de begroting en de meerjarencijfers.
 
@@ -227,7 +227,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - d. de kapitaaluitgaven en - ontvangsten;
 
-- e. de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2002-01-01&g=2002-01-01);
+- e. de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19);
 
 - f. een toelichting op de onderdelen a tot en met e.
 
@@ -235,7 +235,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 ##### Artikel 11. Tarievenvoorstel
 
-1. Het college doet jaarlijks bij het indienen van de begroting en de meerjarenraming of zonodig bij de halfjaarrapportage een voorstel voor tarieven en tariefwijzigingen aan de minister, vergezeld van een toelichting die aansluit op het Tarievenbeleid Verkeer en Waterstaat.
+1. Het college doet jaarlijks bij het indienen van de begroting en de meerjarenraming of zonodig bij de halfjaarrapportage een voorstel voor tarieven en tariefwijzigingen aan de minister, vergezeld van een toelichting.
 
 2. In deze toelichting wordt ingegaan op:
 
@@ -267,7 +267,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 3. In het jaarverslag wordt het oordeel over de situatie van de informatiebeveiliging vermeld, alsmede op welke wijze en door wie dit oordeel tot stand is gekomen.
 
-4. In het jaarverslag worden de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2002-01-01&g=2002-01-01) opgenomen.
+4. In het jaarverslag worden de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19) opgenomen.
 
 5. In het jaarverslag wordt informatie verstrekt over het gehanteerde functiewaarderingssysteem.
 
@@ -275,19 +275,19 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 7. Het jaarverslag mag niet in strijd zijn met de jaarrekening.
 
-8. Uiterlijk met ingang van het tweede verslagjaar bevat het jaarverslag tevens een globale beschrijving van de ontwikkelingen op de post- en telecommunicatiemarkt.
+8. Uiterlijk met ingang van het tweede verslagjaar bevat het jaarverslag tevens een globale beschrijving van de ontwikkelingen op de postmarkt en de elektronische communicatiemarkt.
 
-9. Bij het opstellen van de jaarrekening, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=20), zijn de artikelen 361, 362, eerste tot en met vijfde lid, 362, zevende lid, 363 tot en met 390 en 392 van Boek 2 BW van overeenkomstige toepassing; voor ’de algemene vergadering van leden of aandeelhouders’ of ’de algemene vergadering’ of ’de leden’ of ’de aandeelhouders’ moet worden gelezen: ’Onze Minister’; voor ’het bestuur’ of ’bestuurders’ moet worden gelezen: ’het college’ respectievelijk ’de vaste leden van het college’.
+9. Bij het opstellen van de jaarrekening, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=20), zijn de [artikelen 361](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), [362, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362), [362, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362), [363 tot en met 390](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=363) en [392 van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) van overeenkomstige toepassing; voor ’de algemene vergadering van leden of aandeelhouders’ of ’de algemene vergadering’ of ’de leden’ of ’de aandeelhouders’ moet worden gelezen: ’Onze Minister’; voor ’het bestuur’ of ’bestuurders’ moet worden gelezen: ’het college’ respectievelijk ’de vaste leden van het college’.
 
 10. Het college dient in plaats van de winst- en verliesrekening een exploitatierekening in; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zoveel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.
 
-11. In artikel 367, eerste lid, onderdeel f, en in artikel 370, eerste lid, onderdeel e, van Boek 2 BW, dient voor ’leden of houders van aandelen op naam’ gelezen te worden : ’de Staat.’
+11. In [artikel 367, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=367), en in [artikel 370, eerste lid, onderdeel e, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=370), dient voor ’leden of houders van aandelen op naam’ gelezen te worden : ’de Staat.’
 
 ##### Artikel 13. Halfjaarreportage
 
-1. Het college dient binnen drie weken na 1 juli van het uitvoeringsjaar bij de minister een rapportage in waarin worden opgenomen de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2002-01-01&g=2002-01-01) die gevolgen hebben voor de begroting, voorzover er sprake is van significante afwijkingen van de begroting, alsmede een eventueel aangepaste prognose.
+1. Het college dient binnen drie weken na 1 juli van het uitvoeringsjaar bij de minister een rapportage in waarin worden opgenomen de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19) die gevolgen hebben voor de begroting, voorzover er sprake is van significante afwijkingen van de begroting, alsmede een eventueel aangepaste prognose.
 
-2. Van een significante afwijking als bedoeld in het eerste lid is sprake bij een afwijking vanaf 10% per kengetal, als bedoeld in [artikel 9, tweede lid, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2002-01-01&g=2002-01-01), en bij een afwijking vanaf 25 %, als bedoeld in [artikel 9, eerste lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2002-01-01&g=2002-01-01). Indien afwijkingen genoemd in dit lid geldelijke bedragen betreffen, geldt tevens als minimum een afwijking van € 50.000 in ontvangsten of uitgaven per marktcategorie.
+2. Van een significante afwijking als bedoeld in het eerste lid is sprake bij een afwijking vanaf 10% per kengetal, als bedoeld in [artikel 9, tweede lid, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19), en bij een afwijking vanaf 25 %, als bedoeld in [artikel 9, eerste lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19). Indien afwijkingen genoemd in dit lid geldelijke bedragen betreffen, geldt tevens als minimum een afwijking van € 50.000 in ontvangsten of uitgaven per marktcategorie.
 
 ##### Artikel 14. Vierjaarlijkse Evaluatie
 
@@ -309,11 +309,11 @@ Het college informeert de minister tenminste éénmaal per jaar over de wijze wa
 
 ##### Artikel 17. Wederzijdse informatieverstrekking uitvoering besluiten volkenrechtelijke organisaties en notificaties
 
-De minister en het college informeren elkaar over de uitvoering van besluiten van organen van de Europese Unie of van een andere volkenrechtelijke organisatie betreffende notificaties op het terrein van post en telecommunicatie.
+De minister en het college informeren elkaar over de uitvoering van besluiten van organen van de Europese Unie of van een andere volkenrechtelijke organisatie betreffende notificaties op het terrein van post en elektronische communicatie.
 
-##### Artikel 18. Review van de accountantscontrole door de Accountantsdienst
+##### Artikel 18. Review van de accountantscontrole door de Auditdienst
 
-1. De minister informeert het college tijdig over zijn besluit een review van de accountantscontrole te laten uitvoeren door de Accountantsdienst van het departement of door een andere accountant.
+1. De minister informeert het college tijdig over zijn besluit een review van de accountantscontrole te laten uitvoeren door de Auditdienst van het departement of door een andere accountant.
 
 2. Dit besluit wordt vergezeld van een toelichting waaruit de aanleiding blijkt, alsmede de procedure die zal worden gevolgd en de informatie die het college ten behoeve van dit onderzoek beschikbaar dient te stellen.
 
