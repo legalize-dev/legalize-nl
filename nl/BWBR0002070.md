@@ -4,7 +4,7 @@ identifier: "BWBR0002070"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-18"
-last_updated: "2002-10-09"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002070"
 soort: "KB"
@@ -46,7 +46,7 @@ Aan alle militairen beneden de rang van tweede-luitenant, die behoren tot het **
 
 ##### Artikel 2
 
-1. Voor de toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles worden voorts vereist, zodanig goed gedrag en zodanig goede plichtsbetrachting gedurende de diensttijd, als onder eerlijke en trouwe dienst behoort te worden verstaan.
+1. Voor de toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) bedoelde medailles worden voorts vereist, zodanig goed gedrag en zodanig goede plichtsbetrachting gedurende de diensttijd, als onder eerlijke en trouwe dienst behoort te worden verstaan.
 
 2. Is de toekenning van een medaille, in verband met berispelijk gedrag of onvoldoende plichtsbetrachting van de betrokken militair, uitgesteld tot een later tijdstip dan waarop het recht daarop op normale wijze zou zijn verkregen, dan behoeft de toekenning van een medaille (medailles), waarop eventueel nog recht bestaat, niet evenredig later plaats te hebben.
 
@@ -64,15 +64,15 @@ De medailles worden uitgereikt op een wijze, waaruit de waardering voor de bewez
 
 1. Bij toekenning van de zilveren en de gouden medaille mogen respectievelijk de eerder toegekende bronzen en zilveren medaille niet meer worden gedragen.
 
-2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2002-10-09&g=2002-10-09) blijven de toegekende medailles het eigendom van de begiftigde.
+2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2003-05-23&g=2003-05-23) blijven de toegekende medailles het eigendom van de begiftigde.
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
 ##### Artikel 6
 
-1. Bij toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles wordt aan de begiftigde tevens een brevet uitgereikt, waaruit de toekenning blijkt.
+1. Bij toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) bedoelde medailles wordt aan de begiftigde tevens een brevet uitgereikt, waaruit de toekenning blijkt.
 
-2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2002-10-09&g=2002-10-09) blijven de uitgereikte brevetten zijn eigendom.
+2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2003-05-23&g=2003-05-23) blijven de uitgereikte brevetten zijn eigendom.
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
@@ -86,21 +86,13 @@ Na ontslag uit de militaire dienst blijft de begiftigde gerechtigd tot het drage
 
 ##### Artikel 9
 
-1. Het berekenen van de diensttijd tot het verkrijgen van de in [artikel 1 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles geschiedt, behoudens het bepaalde in de leden 2 tot en met 4 van dit artikel, op overeenkomstige wijze als het berekenen van de diensttijd tot het verkrijgen van pensioen krachtens het bepaalde in:
+1. Het berekenen van de diensttijd tot het verkrijgen van de in [artikel 1 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) bedoelde medailles geschiedt, behoudens de leden 2 tot en met 4 van dit artikel, overeenkomstig het berekenen van de diensttijd tot het verkrijgen van pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake voor pensioen geldige diensttijd, met dien verstande dat:
 
-artikel A 3;
+- a. voor de militair die tussen 31 december 1985 en 1 juli 1986 binnen de keerkringen, in arctische of antarctische gebieden was geplaatst, de duur van die plaatsing na 31 december 1985 dubbel telt;
 
-artikel D 1, eerste lid, sub **a**, ten 1e, 2e en 4e;
+- b. die diensttijdbepalingen ter zake van dubbeltelling wegens krijgsverrichtingen, ongeoorloofde afwezigheid, alsmede de rekenmethode aan de hand van kalenderjaren, kalendermaanden, dagen en oefenuren niet van toepassing zijn.
 
-artikel D 1, eerste lid, sub **c**, ten 1e, 2e, 3e en 4e;
-
-artikel D 1, tweede lid onder **b**;
-
-artikel D 3, eerste lid, met dien verstande dat voor de militair die tussen 31 december 1985 en 1 juli 1986 binnen de keerkringen, in arctische of antarctische gebieden was geplaatst, de duur van die plaatsing na 31 december 1985 dubbeltelt;
-
-artikel D 4 en artikel D 5, vijfde lid, alsmede artikel D 6 van de Algemene militaire pensioenwet, met dien verstande, dat het gestelde in de derde volzin van het eerste lid van laatstgenoemd artikel buiten toepassing blijft.
-
-Met betrekking tot de vaststelling van de in [artikel 1, onder **b**, respectievelijk onder **c** van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) genoemde diensttijd worden evenwel ten hoogste zes, respectievelijk negen jaren dubbel geteld.
+Met betrekking tot de vaststelling van de in [artikel 1, onder **b**, respectievelijk onder **c** van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) genoemde diensttijd worden evenwel ten hoogste zes, respectievelijk negen jaren dubbel geteld.
 
 2. Mede komt in aanmerking de tijd: **a**. welke op **wachtgeld** is doorgebracht door een - terzake van opheffing van de betrekking van de militair, of ter zake van verandering in de organisatie van de tak van dienst, waartoe de militair behoort - eervol ontslagen beroepsmilitair van de Koninklijke Landmacht, van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, **b**. welke op **pensioen** is doorgebracht door een - terzake van het verbreken van zijn dienstverband tijdens de vijandelijke bezetting van Nederlands grondgebied - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van twee-luitenant, die als zodanig is herplaatst, een en ander met inachtneming van de [Wet van 8 maart 1956 (**Stb.** 132)](https://wetten.overheid.nl/jci1.3:c:BWBR0002206), voorzover deze van toepassing is.
 
@@ -108,11 +100,11 @@ Met betrekking tot de vaststelling van de in [artikel 1, onder **b**, respectiev
 
 4. De tijd doorgebracht als vrijwilliger met z.g. kort dienstverband of als militieplichtige bij het voormalig Koninklijk Nederlands Indonesisch Leger, dan wel als schutterplichtige bij de voormalige troepenmacht (c.q. landmacht) in SURINAME en/of in CURAÇAO (c.q. NEDERLANDSE ANTILLEN) wordt - indien deze tijd niet reeds wordt vergolden op grond van het bepaalde in lid 1 van dit artikel - medegeteld op de in lid 1 van dit artikel aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
 
-5. De tijd doorgebracht als reservist als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) wordt – indien deze tijd niet reeds wordt vergolden op grond van het eerste lid – meegeteld op de in het eerste lid aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
+5. De tijd doorgebracht als reservist als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) wordt – indien deze tijd niet reeds wordt vergolden op grond van het eerste lid – meegeteld op de in het eerste lid aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
 
 ##### Artikel 10
 
-1. De op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) toegekende of laatstelijk toegekende medailles, alsmede het daarbij uitgereikte brevet, worden verbeurd:
+1. De op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2003-05-23&g=2003-05-23) toegekende of laatstelijk toegekende medailles, alsmede het daarbij uitgereikte brevet, worden verbeurd:
 
 a. door niet-eervol ontslag uit de militaire dienst;
 
