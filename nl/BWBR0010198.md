@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2004-10-21"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,17 +49,17 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-10-21&g=2004-10-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-10-21&g=2004-10-21), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-12-24&g=2004-12-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2004-12-24&g=2004-12-24), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-10-21&g=2004-10-21) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-10-21&g=2004-10-21), vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-12-24&g=2004-12-24) worden de netnummergebieden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2004-12-24&g=2004-12-24), vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-10-21&g=2004-10-21) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2004-12-24&g=2004-12-24) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906 en 0909 vastgesteld.
 
 ##### Artikel 4
 
@@ -506,7 +506,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 8.. |   |   |
 |   | 9.. | ander gebruik wordt uitgefaseerd |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -779,7 +779,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 | 0656... t/m 0659... |   | Semafonie; wordt uitgefaseerd. Vanaf 1 januari 2006 mobiele telefonie | 10 | Nee |
 | 066 |   | Semafonie | 10 | Nee |
 | 0670... t/m 0675... |   | Videotex en toegang tot datadiensten op andere netwerken | 6, 101De nummers hebben 6 cijfers behalve de nummers die beginnen met 067-281, 067-284 en 067-364 welke uit 10 cijfers bestaan. | Nee |
-| 06760... |   | Toegang tot internet, dat wil zeggen toegang tot het openbaar toegankelijk deel van op het Internet Protocol gebaseerde netwerken en diensten | 10 | Nee |
+| 06760... |   | Toegang tot op het Internet Protocol gebaseerde netwerken en diensten | 10 | Nee |
 |   | 06761... t/m 06769... |   |   |   |
 | 0677... t/m 0679... |   | Videotex en toegang tot datadiensten op andere netwerken | 6 | Nee |
 |   | 068 |   |   |   |
@@ -852,6 +852,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 | 1... | 1... | Speciale diensten |   |   |
 | 10... |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 5 | Nee |
 |   | 106... |   | 5 |   |
+|   | 110 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 111 | Geharmoniseerde Europese korte nummers |   |   |
 | 112 |   | Europees alarmnummer | 3 | Nee |
 |   | 113 | Geharmoniseerde Europese korte nummers |   |   |
@@ -859,7 +860,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 |   | 115 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 116 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 117 | Geharmoniseerde Europese korte nummers |   |   |
-| 118 |   | Abonnee-informatiedienst die voldoet aan het bepaalde bij of krachtens het Besluit universele dienstverlening 2003 en die voorts wat betreft de aard en de inhoud van de verstrekte informatie aan degene die van de dienst gebruik maakt niet meer biedt dan op grond van artikel 4, tweede lid, van dat besluit wordt verlangd | 3 | Nee |
+| 118 |   | Algemene abonnee-informatiedienst die voldoet aan het bepaalde bij of krachtens het Besluit universele dienstverlening en eindgebruikersbelangen en voorts wat betreft de aard en de inhoud van de verstrekte informatie aan degene die gebruik maakt van de dienst uitsluitend de bij de abonnees in gebruik zijnde nummers uit dit nummerplan biedt | 3 | Nee |
 |   | 119 | Geharmoniseerde Europese korte nummers |   |   |
 |   |   |   |   |   |
 | 12... | 12... | Geharmoniseerde nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk |   |   |
@@ -902,7 +903,7 @@ Dit besluit wordt aangehaald als: [Nummerplan telefoon- en ISDN-diensten](https:
 
 Ligt ter inzage bij het college, Babylon kantorencomplex B, te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21)
+## Bijlage 3. als bedoeld in [artikel 3, onder c, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24)
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -961,10 +962,10 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 ##### Artikel 1a
 
-In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken.
+In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-10-21&g=2004-10-21)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2004-12-24&g=2004-12-24)
 
 Vervallen.
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-10-21&g=2004-10-21) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2004-12-24&g=2004-12-24) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
