@@ -4,7 +4,7 @@ identifier: "BWBR0007003"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2001-12-15"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007003"
 soort: "wet"
@@ -70,17 +70,21 @@ Vervallen
 
 ##### Artikel VIII
 
+Vervallen.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
+
+Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-1. Zij die voldoen aan de vereisten van de bepalingen, gewijzigd in de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2001-12-15&g=2001-12-15), IV, [V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2001-12-15&g=2001-12-15), en VI tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=IX&z=2001-12-15&g=2001-12-15), zoals deze bepalingen luidden voor de inwerkingtreding van die artikelen, blijven benoembaar in de functies waarop deze bepalingen van toepassing of van overeenkomstige toepassing waren.
+1. Zij die voldoen aan de vereisten van de bepalingen, gewijzigd in de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2005-03-01&g=2005-03-01), IV, [V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2005-03-01&g=2005-03-01), en VI tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=IX&z=2005-03-01&g=2005-03-01), zoals deze bepalingen luidden voor de inwerkingtreding van die artikelen, blijven benoembaar in de functies waarop deze bepalingen van toepassing of van overeenkomstige toepassing waren.
 
-2. Het eerste lid is van overeenkomstige toepassing op [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2001-12-15&g=2001-12-15).
+2. Het eerste lid is van overeenkomstige toepassing op [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2005-03-01&g=2005-03-01).
 
 ##### Artikel XI
 
@@ -112,15 +116,15 @@ Bevat wijzigingen in andere regelgeving.
 
 2. De volgende bepalingen werken terug tot en met de hierna vermelde tijdstippen:
 
-- a. de onderdelen A, BB, CC, HH, II, EEE, QQQ, SSS, VVV en XXX van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2001-12-15&g=2001-12-15) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=II&z=2001-12-15&g=2001-12-15), welke onderdelen en welk artikel terugwerken tot en met 31 juli 1993 voor wat betreft het hoger beroepsonderwijs en voor het overige tot en met 31 augustus 1993;
+- a. de onderdelen A, BB, CC, HH, II, EEE, QQQ, SSS, VVV en XXX van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2005-03-01&g=2005-03-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=II&z=2005-03-01&g=2005-03-01), welke onderdelen en welk artikel terugwerken tot en met 31 juli 1993 voor wat betreft het hoger beroepsonderwijs en voor het overige tot en met 31 augustus 1993;
 
-- b. de onderdelen FFF, HHH, LLL en NNN, [onder 1, van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2001-12-15&g=2001-12-15), welke onderdelen terugwerken tot en met 31 juli 1993;
+- b. de onderdelen FFF, HHH, LLL en NNN, [onder 1, van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2005-03-01&g=2005-03-01), welke onderdelen terugwerken tot en met 31 juli 1993;
 
-- c. onderdeel PPP van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2001-12-15&g=2001-12-15) en de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=XI&z=2001-12-15&g=2001-12-15) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=XIV&z=2001-12-15&g=2001-12-15), welke onderdeel en welke artikelen terugwerken tot en met 31 augustus 1993.
+- c. onderdeel PPP van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2005-03-01&g=2005-03-01) en de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=XI&z=2005-03-01&g=2005-03-01) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=XIV&z=2005-03-01&g=2005-03-01), welke onderdeel en welke artikelen terugwerken tot en met 31 augustus 1993.
 
-- d. de onderdelen O, JJ, onder 3 en 4, KK, onder 1, ten 2° en ten 7°, en onder 2, TTT, UUU, YYY van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2001-12-15&g=2001-12-15), welke onderdelen terugwerken tot en met 1 januari 1994.
+- d. de onderdelen O, JJ, onder 3 en 4, KK, onder 1, ten 2° en ten 7°, en onder 2, TTT, UUU, YYY van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=I&z=2005-03-01&g=2005-03-01), welke onderdelen terugwerken tot en met 1 januari 1994.
 
-3. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2001-12-15&g=2001-12-15) tot en met [X](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=X&z=2001-12-15&g=2001-12-15) in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2005-03-01&g=2005-03-01) tot en met [X](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=X&z=2005-03-01&g=2005-03-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XVIII
 
