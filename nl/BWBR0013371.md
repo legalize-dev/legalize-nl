@@ -161,9 +161,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 Dit besluit wordt aangehaald als: Besluit rijksbijdragen bijstands- en bestrijdingskosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
