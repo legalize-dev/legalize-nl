@@ -4,7 +4,7 @@ identifier: "BWBR0014020"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2002-11-30"
+last_updated: "2002-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014020"
 soort: "wet"
@@ -43,11 +43,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel IV
 
@@ -55,7 +55,9 @@ Wijzigt deze wet.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt wat betreft [artikel I, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0014020&artikel=I&z=2002-12-01&g=2002-12-01), terug tot en met 19 juni 2002 en wat betreft [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0014020&artikel=I&z=2002-12-01&g=2002-12-01) Ta, terug tot en met 1 september 2002.
+
+2. Deze wet heeft voor het eerst betrekking op het studiejaar dat in het in het eerste lid bedoelde besluit wordt vermeld.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
