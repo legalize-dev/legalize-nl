@@ -133,11 +133,3 @@ Het besluit van 14 december 1973, **Stb.** 627, wordt ingetrokken.
 Dit besluit treedt in werking met ingang van 1 januari 1987.
 
 Lasten en bevelen, dat dit besluit, met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 5a
-
-1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die als sekswerker persoonlijk arbeid verricht, tenzij wordt voldaan aan bij ministeriële regeling te stellen regels.
-
-2. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt verstaan onder sekswerker: de persoon die tegen betaling seksuele handelingen met of voor een ander verricht.
-
-Lasten en bevelen, dat dit besluit, met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
