@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-05-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -189,7 +189,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 - q. de openbaarmaking van de krachtens onderdeel o geregistreerde nevenwerkzaamheden van militaire ambtenaren die een functie vervullen waarvoor ter bescherming van de integriteit van de openbare dienst openbaarmaking van de nevenwerkzaamheden noodzakelijk is;
 
-- r. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is en de bescherming van de militaire ambtenaar tijdens en na het volgen van die procedure;
+- r. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is;
 
 - s. overige rechten en verplichtingen;
 
@@ -211,7 +211,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
 
-4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2003-05-01&g=2003-05-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 12, eerste lid, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12&z=2005-01-01&g=2005-01-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 12b
 
