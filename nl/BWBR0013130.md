@@ -1,0 +1,81 @@
+---
+title: "Besluit van 10 december 2001, houdende nadere regels met betrekking tot de uitoefening van rechtspositionele bevoegdheden ten aanzien van gerechtsambtenaren en ambtenaren van het bureau van de Raad voor de rechtspraak door het gerechtsbestuur en de Raad voor de rechtspraak (Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak)"
+identifier: "BWBR0013130"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013130"
+soort: "AMvB"
+stam_id: "1641223"
+version_id: "21815782"
+internal_id: "C31308891"
+label_id: "1594514"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013130/2020-01-01/0"
+intitule_bron: "Stb.2001-617"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-10"
+intitule_published: "2001-12-20"
+intitule_in_force: "2001-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2014-438"
+original_signed_date: "2014-11-13"
+original_published_date: "2014-11-21"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2014-438"
+entry_into_force_date: "2014-11-13"
+jci_1_3: "jci1.3:c:BWBR0013130&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0013130&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak"
+signed_date: "2014-11-13"
+entry_into_force: "2014-11-13"
+---
+# Besluit van 10 december 2001, houdende nadere regels met betrekking tot de uitoefening van rechtspositionele bevoegdheden ten aanzien van gerechtsambtenaren en ambtenaren van het bureau van de Raad voor de rechtspraak door het gerechtsbestuur en de Raad voor de rechtspraak (Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak)
+
+Op de voordracht van Onze Minister van Justitie van 19 november 2001, Directie Wetgeving, nr. 5134468/01/6;
+
+Gelet op de [artikelen 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=25), en [89, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=89);
+
+De Raad van State gehoord (advies van 28 november 2001, nr. W03.01.0617/I);
+
+Gezien het nader rapport van Onze Minister van Justitie van 6 december 2001, nr. 5137771/01/6;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+1. Ten aanzien van de gerechtsambtenaren, uitgezonderd de directeur bedrijfsvoering, worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door het bestuur van het gerecht, met dien verstande dat de bevoegdheden in de [artikelen 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), en [99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) worden uitgeoefend met inachtneming van het tweede en derde lid.
+
+2. Het bestuur van een gerecht stelt de Raad voor de rechtspraak in de gelegenheid om advies uit te brengen inzake een ten aanzien van een gerechtsambtenaar, niet zijnde de directeur bedrijfsvoering, voorgenomen besluit tot schadeloosstelling, kostenvergoeding of verlening van een geldelijke tegemoetkoming als bedoeld in [artikel 69, eerste lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), in het geval de schadeloosstelling, kostenvergoeding of geldelijke tegemoetkoming op jaarbasis meer dan € 5000 bedraagt. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van het gerecht een afschrift van het vervolgens genomen besluit aan de Raad voor de rechtspraak.
+
+3. Het bestuur van een gerecht dat voornemens is om een gerechtsambtenaar, niet zijnde de directeur bedrijfsvoering, op basis van [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) ontslag te verlenen, stelt de Raad voor de rechtspraak in de gelegenheid om daarover advies uit te brengen. Indien de Raad voor de rechtspraak advies heeft uitgebracht, zendt het bestuur van het gerecht een afschrift van het vervolgens op grond van [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) genomen besluit aan de Raad voor de rechtspraak.
+
+4. In afwijking van het eerste lid worden de in de op de Ambtenarenwet berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, alsmede de in artikel 4 van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985 aan het bevoegd gezag toegekende bevoegdheid, ten aanzien van de gerechtsambtenaren, uitgezonderd de directeur bedrijfsvoering, uitgeoefend door de Raad voor de rechtspraak.
+
+##### Artikel 2
+
+Ten aanzien van de tot het bureau van de Raad voor de rechtspraak behorende ambtenaren worden de bevoegdheden in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen, uitgezonderd de aan Ons, Onze Minister-President, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën toegekende bevoegdheden, uitgeoefend door de Raad voor de rechtspraak.
+
+##### Artikel 3
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a
+
+1. [Hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) is van overeenkomstige toepassing op iedere wijziging van de organisatiestructuur, de omvang of de taakinhoud van een tot de rechterlijke macht behorend gerecht, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak, het bureau van de Raad voor de rechtspraak, het parket bij de Hoge Raad, een tot het openbaar ministerie behorend parket, een onder de Raad voor de rechtspraak of het College van procureurs-generaal ressorterende dienst, of een onderdeel daarvan, niet zijnde de rijksrecherche, waaraan personele consequenties zijn verbonden.
+
+2. Indien de bepalingen van [hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) worden toegepast op een rechtbank, een gerechtshof, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak of het bureau van de Raad voor de rechtspraak, dient voor Onze Minister telkens te worden gelezen: het gerechtsbestuur of de Raad voor de rechtspraak.
+
+3. Voor de toepassing van [hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) is van overtolligheid eveneens sprake indien binnen het te reorganiseren tot de rechterlijke macht behorend gerecht, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak, het bureau van de Raad voor de rechtspraak, het parket bij de Hoge Raad, een tot het openbaar ministerie behorend parket, een onder de Raad voor de rechtspraak of het College van procureurs-generaal ressorterende dienst, of een onderdeel daarvan, niet zijnde de rijksrecherche, meer ambtenaren een vergelijkbare of uitwisselbare functie vervullen en het totale aantal van die functies zodanig wordt verminderd dat onvoldoende van die functies voor de betrokken ambtenaren resteren.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
