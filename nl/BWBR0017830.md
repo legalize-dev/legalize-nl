@@ -4,7 +4,7 @@ identifier: "BWBR0017830"
 country: "nl"
 rank: "wet"
 publication_date: "2018-05-01"
-last_updated: "2005-03-01"
+last_updated: "2005-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017830"
 soort: "wet"
@@ -48,7 +48,7 @@ entry_into_force: "2005-03-01"
 
 ##### Artikel 5.1
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de expertisecentra.
 
 ##### Artikel 5.2
 
@@ -60,7 +60,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5.3
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het primair onderwijs.
 
 ##### Artikel 5.4
 
@@ -230,7 +230,7 @@ Onder het met goed afleggen van een tentamen wordt mede begrepen de verlening va
 
 ##### Artikel 8.2
 
-Voor de toepassing van de artikelen, genoemd in [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=8&artikel=8.1&z=2005-03-01&g=2005-03-01), wordt met degene aan wie door een universiteit of de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht is verleend en tevens de graad Master op het gebied van het recht is verleend, gelijkgesteld degene:
+Voor de toepassing van de artikelen, genoemd in [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=8&artikel=8.1&z=2005-03-02&g=2005-03-02), wordt met degene aan wie door een universiteit of de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht is verleend en tevens de graad Master op het gebied van het recht is verleend, gelijkgesteld degene:
 
 - a. die in het bezit is van een bewijs van inschrijving voor het studiejaar 2002–2003 of het studiejaar 2003–2004 voor een masteropleiding op het gebied van het recht, en
 
@@ -240,7 +240,7 @@ Voor de toepassing van de artikelen, genoemd in [artikel 8.1, tweede lid](https:
 
 ##### Artikel 9.1
 
-Dit onderdeel is nog niet inwerking getreden
+De tekst van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=19) en van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) wordt in het Staatsblad geplaatst.
 
 ##### Artikel 9.2
 
@@ -248,13 +248,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Het in het eerste lid bedoelde koninklijk besluit kan erin voorzien dat de volgende artikelen terugwerken tot en met het daarbij vermelde tijdstip:
 
-- a. [artikel 5.2, onderdeel Ka, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-01&g=2005-03-01), tot en met 19 juni 2002,
+- a. [artikel 5.2, onderdeel Ka, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-02&g=2005-03-02), tot en met 19 juni 2002,
 
-- b. [artikel 5.2, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-01&g=2005-03-01), tot en met 1 september 2002,
+- b. [artikel 5.2, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-02&g=2005-03-02), tot en met 1 september 2002,
 
-- c. [artikel 5.2, onderdeel Z](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-01&g=2005-03-01), tot en met 1 september 2002, en
+- c. [artikel 5.2, onderdeel Z](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-02&g=2005-03-02), tot en met 1 september 2002, en
 
-- d. [artikel 5.2, onderdeel Zb](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-01&g=2005-03-01), tot en met 1 september 2002.
+- d. [artikel 5.2, onderdeel Zb](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2005-03-02&g=2005-03-02), tot en met 1 september 2002.
 
 ##### Artikel 9.3
 
