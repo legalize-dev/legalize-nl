@@ -97,9 +97,3 @@ De in artikel 11, eerste lid, van de Cassatieregeling voor de Nederlandse Antill
 2. Op het zelfde tijdstip treden in werking de Cassatieregeling voor de Nederlandse Antillen (**Stb.** 1961, 212) en de Rijkswet van 18 december 1963, houdende wijziging van de Cassatieregeling voor de Nederlandse Antillen (**Stb.** 1963, 546).
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad**, in het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Besluit termijnen Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad**, in het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
