@@ -4,7 +4,7 @@ identifier: "BWBR0009027"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2003-01-01"
+last_updated: "2003-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009027"
 soort: "AMvB"
@@ -146,9 +146,9 @@ Hebben goedgevonden en verstaan:
 
 - c. het staand net: 101 mm
 
-2. Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 6 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.
+2. Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 20 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel aan de bovenzijde van de fuik. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.
 
-3. Het is verboden te vissen met een vistuig, waarvoor een minimummaaswijdte is vastgesteld, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
+3. Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
 
 ##### Artikel 5
 
@@ -170,7 +170,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden te vissen van 1 april tot en met 31 mei met:
 
-- a. de hengel, voor zover geaasd met slachtproducten, worm, een levend of dood visje, een stukje vis of enig kunstaas met uitzondering van kunstvliegen met een afmeting van ten hoogste 2,5 cm;
+- a. de hengel, voor zover geaasd met slachtproducten, worm, een dood visje, een stukje vis of enig kunstaas met uitzondering van kunstvliegen met een afmeting van ten hoogste 2,5 cm;
 
 - b. de visfuik;
 
@@ -194,7 +194,7 @@ Hebben goedgevonden en verstaan:
 
 - b. voor het vissen met de peur, de ankerkuil, het aalkistje, het aalhoekwant, de aaldogger en het kruisnet;
 
-- c. voor zover het betreft het te water hebben van de in [artikel 2, onderdelen d tot en met i en m](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=1997-12-17&g=2003-01-01) genoemde vistuigen;
+- c. voor zover het betreft het te water hebben van de in [artikel 2, onderdelen d tot en met i en m](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2003-09-26&g=2003-09-26) genoemde vistuigen;
 
 - d. voor het vissen met de aalzegen in andere wateren dan het IJsselmeer.
 
@@ -222,9 +222,9 @@ Hebben goedgevonden en verstaan:
 
 2. Het verbod geldt niet voor zover wordt gevist met ten hoogste twee hengels en:
 
-- a. baars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid baars van ten hoogste 30 stuks te behouden;
+- a. baars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid baars van ten hoogste 30 stuks voor eigen gebruik te behouden;
 
-- b. snoekbaars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid snoekbaars van ten hoogste vijf stuks te behouden.
+- b. snoekbaars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid snoekbaars van ten hoogste vijf stuks voor eigen gebruik te behouden.
 
 3. Het is verboden op of in de onmiddellijke nabijheid van het IJsselmeer een hoeveelheid van meer dan 30 stuks baars dan wel vijf stuks snoekbaars voorhanden of in voorraad te hebben dan wel te vervoeren, indien niet kan worden aangetoond dat deze overeenkomstig het bepaalde bij dit artikel is gevangen.
 
@@ -244,13 +244,15 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien:
 
-- a. het gebruik daarvan in het betrokken water ingevolge het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=1997-12-17&g=2003-01-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=9&z=1997-12-17&g=2003-01-01) verboden is;
+- a. het gebruik daarvan in het betrokken water ingevolge het bepaalde in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2003-09-26&g=2003-09-26) verboden is;
 
 - b. men niet bevoegd is daarmee te vissen;
 
 - c. men niet gerechtigd is in het betrokken water daarmee te vissen.
 
-2. Het verbod geldt niet, indien het vistuig zodanig verpakt of in zodanige toestand is, dat dadelijk gebruik daarvan niet mogelijk is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet, indien het vistuig zodanig verpakt of in zodanige toestand is, dat dadelijk gebruik daarvan niet mogelijk is.
+
+3. Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=1) te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.
 
 ##### Artikel 11
 
