@@ -214,23 +214,3 @@ Deze wet wordt aangehaald als: Wet documentatie vennootschappen.
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-1. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst verstrekken op zijn verzoek aan Onze Minister de gegevens die deze behoeft ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01).
-
-2. De gegevensverstrekking ingevolge het eerste lid geschiedt kosteloos.
-
-#### Paragraaf 2. Bronnen van de registratie
-
-#### Paragraaf 3. De inhoud van de registratie
-
-#### Paragraaf 4. Het verstrekken van gegevens uit de registratie
-
-#### Paragraaf 5. Het verwijderen van gegevens uit de registratie
-
-#### Paragraaf 6. Wijzigingen in andere regelingen
-
-#### Paragraaf 7. Slotbepalingen
-
-Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
