@@ -102,13 +102,3 @@ Vervallen
 2. Deze wet kan worden aangehaald als: Kostenwet invordering rijksbelastingen.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8
-
-1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in artikel 2, het eerste, het tweede en het vijfde bedrag, genoemd in artikel 3, eerste lid, de bedragen, genoemd in artikel 3, tweede tot en met vierde lid, en de bedragen, genoemd in artikel 4, bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
-
-2. De correctiefactor is de verhouding van het gemiddelde van de indexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de indexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
-
-3. De indexcijfers zijn de cijfers uit de «CAO-lonen per uur inclusief bijzondere beloning, CAO-sector Overheid» van het Centraal Bureau voor de Statistiek. De gemiddelde indexcijfers worden berekend uit de indexcijfers vermeld in het nummer van het Statistisch bulletin, waarin het indexcijfer van de zevende respectievelijk negentiende aan het kalenderjaar voorafgaande maand voor het eerst, al dan niet voorlopig, wordt gepubliceerd.
-
-4. Indien de basis voor de indexcijfers wijzigt, wordt bij ministeriële regeling aangegeven op welke wijze wordt overgegaan op de nieuwe reeks indexcijfers.
