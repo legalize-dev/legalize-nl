@@ -4,7 +4,7 @@ identifier: "BWBR0004666"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-11-26"
-last_updated: "1997-06-21"
+last_updated: "2004-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004666"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ Met de opsporing van strafbare feiten, bedoeld in [artikel 32 van de Scheepvaart
 
 - 11. (hoofd/medewerker)nautische zaken;
 
-- Van het Directoraat-Generaal Goederenvervoer:
+- Van de Inspectie Verkeer en Waterstaat:
 
-- ambtenaren van de Scheepvaartinspectie.
+- ambtenaren van de divisie Scheepvaart.
 
 ##### Artikel 2
 
