@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2003-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a), de [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)“de 16” moet zijn “16”., [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26a), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
+1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), de [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26a), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
 
 2. Deze regeling verstaat onder:
 
@@ -66,11 +66,11 @@ De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullinge
 
 ##### Artikel 1b
 
-1. De afdrachtvermindering scholing, de afdrachtvermindering kinderopvang en de arbo-afdrachtvermindering kunnen indien de over een tijdvak af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen op de voet van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=3) tot nihil is verminderd, voor het gedeelte dat nog niet is verrekend in mindering worden gebracht op de over de volgende tijdvakken af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen. Bij toepassing van de vorige volzin wordt de af te dragen loonbelasting dan wel de af te dragen loonbelasting en premie voor de volksverzekeringen over het eerstvolgende tijdvak telkens tot nihil verminderd alvorens de nog niet verrekende afdrachtvermindering naar een volgend tijdvak wordt doorgeschoven.
+1. De afdrachtvermindering kinderopvang en de arbo-afdrachtvermindering kunnen indien de over een tijdvak af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen op de voet van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=3) tot nihil is verminderd, voor het gedeelte dat nog niet is verrekend in mindering worden gebracht op de over de volgende tijdvakken af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen. Bij toepassing van de vorige volzin wordt de af te dragen loonbelasting dan wel de af te dragen loonbelasting en premie voor de volksverzekeringen over het eerstvolgende tijdvak telkens tot nihil verminderd alvorens de nog niet verrekende afdrachtvermindering naar een volgend tijdvak wordt doorgeschoven.
 
 2. Het doorschuiven van de nog niet verrekende afdrachtvermindering naar volgende tijdvakken op de voet van het eerste lid, is alleen mogelijk:
 
-- a. ten aanzien van de afdrachtvermindering scholing en de afdrachtvermindering kinderopvang: voorzover de kosten van scholing dan wel kinderopvang waarover de afdrachtvermindering is berekend, betrekking hebben op deze tijdvakken;
+- a. ten aanzien van de afdrachtvermindering kinderopvang: voorzover de kosten van kinderopvang waarover de afdrachtvermindering is berekend, betrekking hebben op deze tijdvakken;
 
 - b. ten aanzien van de arbo-afdrachtvermindering: voorzover deze tijdvakken zijn gelegen binnen een periode van 36 maanden na de aanvang van het kalenderjaar waarin de afdrachtvermindering ter zake van de aanschaffing, verbetering of voortbrenging van het desbetreffende arbo-bedrijfsmiddel zonder toepassing van het eerste lid zou zijn genoten.
 
@@ -82,7 +82,7 @@ De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullinge
 
 2. Met betrekking tot de werknemer wiens loon mede omvat de waarde van regelmatig bij de betaling van het loon verstrekte vakantiebonnen, vakantietoeslagbonnen of van daarmee overeenkomende aanspraken, worden de op grond van het eerste lid bepaalde tijdvakbedragen van de afdrachtvermindering lage lonen, de afdrachtvermindering onderwijs en het maximum van de afdrachtvermindering betaald ouderschapsverlof vermenigvuldigd:
 
-- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:229;
+- a. ingeval op jaarbasis aanspraken worden verleend voor 20 of meer vakantiedagen: met de factor 260:231;
 
 - b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen: met defactor 260 : 245.
 
@@ -92,7 +92,7 @@ De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullinge
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=II&artikel=5&z=2003-01-01&g=2003-01-01) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend)achterwege.
+Voor de toepassing van [artikel 5, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend)achterwege.
 
 ##### Artikel 4
 
@@ -112,17 +112,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van | doch niet de leeftijd van |
+| indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 4 801 |
-| 16 jaren | 17 jaren: | € 5 521 |
-| 17 jaren | 18 jaren: | € 6 321 |
-| 18 jaren | 19 jaren: | € 7 282 |
-| 19 jaren | 20 jaren: | € 8 402 |
-| 20 jaren | 21 jaren: | € 9 842 |
-| 21 jaren | 22 jaren: | € 11 602 |
-| 22 jaren | 23 jaren: | € 13 602 |
-| 23 jaren: |   | € 15 993 |
+| 15 jaren | 16 jaren: | € 4.861 |
+| 16 jaren | 17 jaren: | € 5.590 |
+| 17 jaren | 18 jaren: | € 6.400 |
+| 18 jaren | 19 jaren: | € 7.373 |
+| 19 jaren | 20 jaren: | € 8.506 |
+| 20 jaren | 21 jaren: | € 9.965 |
+| 21 jaren | 22 jaren: | € 11.747 |
+| 22 jaren | 23 jaren: | € 13.772 |
+| 23 jaren |   | € 16.197 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -338,9 +338,9 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 ##### Artikel 12b
 
-1. Voor de toepassing van [artikel 15a, eerste lid, vierde volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden als vormen van scholing die zijn gericht op het op startkwalificatieniveau brengen, aangewezen de in [artikel 12aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2003-01-01&g=2003-01-01), bedoelde opleidingen.
+1. Voor de toepassing van [artikel 15a, eerste lid, vierde volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden als vormen van scholing die zijn gericht op het op startkwalificatieniveau brengen, aangewezen de in [artikel 12aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2004-01-01&g=2004-01-01), bedoelde opleidingen.
 
-2. [Artikel 12aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
+2. [Artikel 12aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 3. Indirect van rijkswege of in samenhang daarmee van derden ontvangen bijdragen als bedoeld in [artikel 15a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden slechts erkend als zijnde van rijkswege verstrekt voorzover zij blijken uit een door de bijdragende instantie afgegeven verklaring. De verklaring moet zijn ondertekend door het bestuur van de bijdragende instantie en bevat het bedrag van de tegemoetkoming alsmede het deel daarvan dat van rijkswege is verstrekt. Het deel dat van rijkswege is verstrekt wordt bepaald naar de verhouding in het voorafgaande kalenderjaar waarin het totaal van de door de bijdragende instantie verstrekte tegemoetkomingen verminderd met het totaal van de bijdragen van alle inhoudingsplichtigen aan die instantie staat tot het totaal van de verstrekte tegemoetkomingen. De verklaring is voorzien van een cijfermatige, controleerbare onderbouwing van de op grond van de vorige volzin berekende verhouding.
 
@@ -504,13 +504,11 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip
 
 1. De inhoudingsplichtige mag, in afwijking van [artikel 21, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), ter berekening van de S&O-afdrachtvermindering in plaats van het loon dat in een kalenderjaar is genoten ter zake van S&O-werk, in aanmerking nemen het vereenvoudigde S&O-loon.
 
-2. Het vereenvoudigde S&O-loon is het door de werknemer die S&O-werk verricht in het kalenderjaar genoten loon uit tegenwoordige dienstbetrekking vermenigvuldigd met het aantal uren dat door deze werknemer gedurende dat jaar is besteed aan S&O-werk en gedeeld door 1750, met dien verstande dat het vereenvoudigde S&O-loon niet meer bedraagt dan het loon uit tegenwoordige dienstbetrekking van de werknemer.
+2. Het vereenvoudigde S&O-loon is het door de werknemer die S&O-werk verricht in het kalenderjaar genoten loon uit tegenwoordige dienstbetrekking vermenigvuldigd met het aantal uren dat door deze werknemer gedurende dat jaar is besteed aan S&O-werk en gedeeld door het totaal aantal gewerkte uren van die werknemer in dat jaar, met dien verstande dat het vereenvoudigde S&O-loon niet meer bedraagt dan het loon uit tegenwoordige dienstbetrekking van de werknemer.
 
-3. Voor de toepassing van dit artikel wordt met loon uit tegenwoordige dienstbetrekking gelijkgesteld het loon dat wordt genoten wegens tijdelijke arbeidsongeschiktheid anders dan ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) behoudens uitkeringen in verband met bevalling, en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. Voorts worden als van de inhoudingsplichtige genoten loon uit tegenwoordige dienstbetrekking aangemerkt de uitkeringen ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) waarmee bij de berekening van de belasting rekening wordt gehouden krachtens artikel 40, eerste lid, van de Uitvoeringsregeling loonbelasting 1990.
+3. Voor de toepassing van dit artikel wordt met loon uit tegenwoordige dienstbetrekking gelijkgesteld het loon dat wordt genoten wegens tijdelijke arbeidsongeschiktheid anders dan ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) behoudens uitkeringen in verband met bevalling, en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. Voorts worden als van de inhoudingsplichtige genoten loon uit tegenwoordige dienstbetrekking aangemerkt de uitkeringen ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) waarmee bij de berekening van de belasting rekening wordt gehouden krachtens [artikel 89 Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=89).
 
-4. Indien de overeengekomen arbeidstijd minder bedraagt dan achtendertig uren per week, onderscheidenlijk niet het gehele kalenderjaar betreft, wordt het in het tweede lid genoemde aantal van 1750 evenredig verminderd. Evenredige vermindering vindt ook plaats voor de periode waarin de werknemer arbeidsongeschikt is en de inhoudingsplichtige terzake geen loon uit tegenwoordige dienstbetrekking verstrekt.
-
-5. Toepassing van het vereenvoudigde S&O-loon is slechts mogelijk indien dit met betrekking tot alle werknemers die S&O-werk verrichten, plaatsvindt.
+4. Toepassing van het vereenvoudigde S&O-loon is slechts mogelijk indien dit met betrekking tot alle werknemers die S&O-werk verrichten, plaatsvindt.
 
 ##### Artikel 22a
 
@@ -536,7 +534,7 @@ Vervallen
 
 - e. per werknemer het aantal uren dat deze heeft besteed aan het S&O-werk;
 
-- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2003-01-01&g=2003-01-01), bedoelde vereenvoudigde S&O-loon;
+- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2004-01-01&g=2004-01-01), bedoelde vereenvoudigde S&O-loon;
 
 - g. de berekening van de S&O-afdrachtvermindering.
 
