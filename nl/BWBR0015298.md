@@ -4,7 +4,7 @@ identifier: "BWBR0015298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-06-28"
-last_updated: "2003-01-01"
+last_updated: "2003-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015298"
 soort: "ministeriele-regeling"
@@ -94,15 +94,15 @@ Subsidie wordt op aanvraag verleend.
 
 1. De subsidieaanvraag voor het boekjaar 2003 wordt ingediend vóór 1 augustus 2003.
 
-2. Indien afspraken als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01), van het Convenant zijn gemaakt, dient Stichting AAP binnen zes weken een subsidieaanvraag voor een subsidie voor meerdere boekjaren in.
+2. Indien afspraken als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28), van het Convenant zijn gemaakt, dient Stichting AAP binnen zes weken een subsidieaanvraag voor een subsidie voor meerdere boekjaren in.
 
 #### Paragraaf 3. Subsidieverlening
 
 ##### Artikel 6. Subsidieverlening voor meerdere boekjaren
 
-1. Een subsidie voor meerdere boekjaren wordt uitsluitend verleend nadat aan de voorwaarden gesteld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01), van het Convenant is voldaan.
+1. Een subsidie voor meerdere boekjaren wordt uitsluitend verleend nadat aan de voorwaarden gesteld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28), van het Convenant is voldaan.
 
-2. Het aantal boekjaren waarvoor subsidie wordt verleend, hangt af van de beschikbare middelen in relatie tot de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01), van het Convenant opgenomen tabel als verhoogd of verlaagd op grond van het bepaalde in de leden zes tot en met acht van dat artikel.
+2. Het aantal boekjaren waarvoor subsidie wordt verleend, hangt af van de beschikbare middelen in relatie tot de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28), van het Convenant opgenomen tabel als verhoogd of verlaagd op grond van het bepaalde in de leden zes tot en met acht van dat artikel.
 
 ##### Artikel 7. Tijdvak subsidieverlening
 
@@ -110,9 +110,9 @@ Subsidie wordt op aanvraag verleend.
 
 2. Subsidie voor de investeringskosten van de huisvesting te Almere wordt verleend voor de periode vanaf 1 januari 2003 tot en met 31 december 2033.
 
-3. Subsidie voor de exploitatiekosten van de huisvesting, verzorging en behandeling van de te Almere gehuisveste chimpansees wordt verleend met ingang van de datum van de eerste eigendomsoverdracht als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=1&z=2003-06-28&g=2003-01-01), van het Convenant voor een periode van 28 jaar.
+3. Subsidie voor de exploitatiekosten van de huisvesting, verzorging en behandeling van de te Almere gehuisveste chimpansees wordt verleend met ingang van de datum van de eerste eigendomsoverdracht als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=1&z=2003-06-28&g=2003-06-28), van het Convenant voor een periode van 28 jaar.
 
-4. Subsidie voor de exploitatiekosten van de huisvesting, verzorging en behandeling van de te Relleu (Spanje) gehuisveste chimpansees wordt verleend met ingang van de datum van de eerste eigendomsoverdracht als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=1&z=2003-06-28&g=2003-01-01), van het Convenant voor een periode van 29 jaar.
+4. Subsidie voor de exploitatiekosten van de huisvesting, verzorging en behandeling van de te Relleu (Spanje) gehuisveste chimpansees wordt verleend met ingang van de datum van de eerste eigendomsoverdracht als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=1&z=2003-06-28&g=2003-06-28), van het Convenant voor een periode van 29 jaar.
 
 5. In afwijking van het in het eerste, tweede, derde en vierde lid bepaalde, eindigt het tijdvak van subsidieverlening indien:
 
@@ -122,7 +122,7 @@ Subsidie wordt op aanvraag verleend.
 
 ##### Artikel 8. Niet vervullen begrotingsvoorwaarde
 
-In het gevallen van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid,van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), wordt het op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01) verleende subsidiebedrag verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
+In het gevallen van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid,van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), wordt het op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28) verleende subsidiebedrag verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
 
 #### Paragraaf 4. Verplichtingen subsidieontvanger
 
@@ -154,9 +154,9 @@ Bij subsidieverlening voor meerdere boekjaren verstrekt Stichting AAP binnen zes
 
 ##### Artikel 13. Voorschotten
 
-1. Het op grond van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01), verleende subsidiebedrag wordt als voorschot verstrekt, te weten voor elk jaar in 12 gelijke maandtermijnen steeds ad 1/12 deel van het jaarsubsidiebedrag.
+1. Het op grond van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28), verleende subsidiebedrag wordt als voorschot verstrekt, te weten voor elk jaar in 12 gelijke maandtermijnen steeds ad 1/12 deel van het jaarsubsidiebedrag.
 
-2. Bij subsidieverlening voor meerdere boekjaren verstrekt de minister het op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-01-01), verleende subsidiebedrag in een keer als voorschot.
+2. Bij subsidieverlening voor meerdere boekjaren verstrekt de minister het op grond van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015298&paragraaf=1&artikel=3&z=2003-06-28&g=2003-06-28), verleende subsidiebedrag in een keer als voorschot.
 
 #### Paragraaf 7. Slotbepalingen
 
