@@ -4,7 +4,7 @@ identifier: "BWBR0013614"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-14"
-last_updated: "2002-07-17"
+last_updated: "2005-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013614"
 soort: "wet"
@@ -63,7 +63,7 @@ Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 1. Het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) geldt ten aanzien van sponsoring en de bestaande sponsoring van op mondiaal niveau georganiseerde evenementen of activiteiten eerst met ingang van 31 juli 2002 en ten aanzien van de geschreven pers eerst met ingang van 1 januari 2003.
 
-2. Onze Minister kan aan een organisator van een auto- of motorrace in het kader van bestaande, op mondiaal niveau georganiseerde, evenementen of activiteiten, die voor 10 april 1999 schriftelijk een contractuele verplichting is aangegaan, welke onder het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) valt, ontheffing verlenen van dat verbod tot een daarbij aan te geven tijdstip, doch uiterlijk tot en met 2006, en onder daarbij te stellen voorschriften en beperkingen.
+2. Onze Minister kan aan een organisator van een auto- of motorrace in het kader van bestaande, op mondiaal niveau georganiseerde, evenementen of activiteiten, die voor 10 april 1999 schriftelijk een contractuele verplichting is aangegaan, welke onder het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) valt, ontheffing verlenen van dat verbod tot een daarbij aan te geven tijdstip, doch uiterlijk tot en met 30 juli 2005, en onder daarbij te stellen voorschriften en beperkingen.
 
 ##### Artikel VI
 
