@@ -1,0 +1,469 @@
+---
+title: "Wet van 26 maart 1998, houdende nieuwe bepalingen inzake De Nederlandsche Bank N.V. in verband met het Verdrag tot oprichting van de Europese Gemeenschap (Bankwet 1998)"
+identifier: "BWBR0009508"
+country: "nl"
+rank: "wet"
+publication_date: "2026-03-25"
+last_updated: "2002-01-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009508"
+soort: "wet"
+stam_id: "801363"
+version_id: "29257122"
+internal_id: "C41657321"
+label_id: "776664"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009508/2026-03-25/0"
+intitule_bron: "Stb.1998-200"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-26"
+intitule_published: "1998-04-09"
+intitule_in_force: "1998-04-28"
+intitule_status: "goed"
+original_publication: "Stb.2023-57"
+original_signed_date: "2022-12-07"
+original_published_date: "2023-02-21"
+original_effect: "structuurwijziging"
+original_dossier: "36131"
+original_url_id: "stb-2023-57"
+entry_into_force_date: "2022-12-07"
+entry_into_force_dossier: "36131"
+jci_1_3: "jci1.3:c:BWBR0009508&z=2026-03-25&g=2026-03-25"
+jci_1_0: "1.0:c:BWBR0009508&g=2026-03-25"
+citeertitel_status: "officieel"
+short_title: "Bankwet 1998"
+signed_date: "2022-12-07"
+entry_into_force: "2022-12-07"
+---
+# Wet van 26 maart 1998, houdende nieuwe bepalingen inzake De Nederlandsche Bank N.V. in verband met het Verdrag tot oprichting van de Europese Gemeenschap (Bankwet 1998)
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de doelstellingen, taken en werkzaamheden van De Nederlandsche Bank N.V. opnieuw te regelen in verband met het Verdrag tot oprichting van de Europese Gemeenschap en de in dat Verdrag voorziene oprichting van een Europees Stelsel van Centrale Banken waarvan De Nederlandsche Bank N.V. met betrekking tot de taken en plichten die bij het Verdrag aan dat Stelsel zijn opgedragen een integrerend onderdeel vormt;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+### Hoofdstuk I. Begripsbepalingen
+
+##### Artikel 1
+
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. de Bank: De Nederlandsche Bank N.V.;
+
+- b. Onze Minister: Onze Minister van Financiën;
+
+- c. het Verdrag: het Verdrag tot oprichting van de Europese Gemeenschap;
+
+- d. de Europese Centrale Bank: de Europese Centrale Bank, bedoeld in [artikel 4A van het Verdrag](onbekend);
+
+- e. het Europees Stelsel van Centrale Banken: het Europees Stelsel van Centrale Banken, bedoeld in [artikel 4A van het Verdrag](onbekend);
+
+- f. de Statuten van het Europees Stelsel van Centrale Banken: de Statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, bedoeld in [artikel 4A van het Verdrag](onbekend).
+
+2. De Bank vormt een integrerend onderdeel van het Europees Stelsel van Centrale Banken met betrekking tot de taken en plichten die het Verdrag aan dat Stelsel opdraagt.
+
+### Hoofdstuk II. Doelstellingen, taken en werkzaamheden van de Bank
+
+#### § 1. Doelstellingen en taken
+
+##### Artikel 2
+
+1. Ter uitvoering van het Verdrag heeft de Bank als doelstelling het handhaven van prijsstabiliteit.
+
+2. Ter uitvoering van het Verdrag ondersteunt de Bank, onverminderd het doel van prijsstabiliteit, het algemene economische beleid in de Europese Gemeenschap teneinde bij te dragen tot de verwezenlijking van de in [artikel 2 van het Verdrag](onbekend) omschreven doelstellingen van de Gemeenschap.
+
+3. De Bank handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in [artikel 3 A van het Verdrag](onbekend).
+
+4. De Bank heeft voorts als doelstelling het uitvoeren van taken, anders dan die bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28), voorzover deze haar bij of krachtens de wet zijn opgedragen.
+
+##### Artikel 3
+
+1. Ter uitvoering van het [Verdrag](onbekend) draagt de Bank in het kader van het Europees Stelsel van Centrale Banken bij aan de vervulling van de volgende taken
+
+- a. het bepalen van het monetaire beleid en het ten uitvoer leggen van dat beleid;
+
+- b. het verrichten van valutamarktoperaties in overeenstemming met [artikel 109 van het Verdrag](onbekend);
+
+- c. het aanhouden en beheren van de officiële externe reserves;
+
+- d. het verzorgen van de geldsomloop voorzover deze uit bankbiljetten bestaat;
+
+- e. het bevorderen van de goede werking van het betalingsverkeer.
+
+2. Ter uitvoering van het Verdrag draagt de Bank in het kader van het Europees Stelsel van Centrale Banken bij tot een goede beleidsvoering van de bevoegde autoriteiten ten aanzien van het bedrijfseconomisch toezicht op kredietinstellingen en de stabiliteit van het financiële stelsel.
+
+3. Ter uitvoering van het Verdrag is het de Bank toegestaan bij de uitoefening van haar taken en plichten ingevolge het eerste en tweede lid instructies te vragen aan en te aanvaarden van uitsluitend de Europese Centrale Bank.
+
+##### Artikel 4
+
+1. De Bank heeft tot taak het uitoefenen van toezicht op financiële instellingen op de voet van de daarvoor geldende wettelijke regelingen.
+
+2. De Bank heeft tot taak het bevorderen van de goede werking van het betalingsverkeer.
+
+3. De Bank heeft tot taak het verzamelen van statistische gegevens en het vervaardigen van statistieken op de voet van de daarvoor geldende wettelijke regelingen.
+
+4. De Bank kan, na toestemming bij koninklijk besluit, in het algemeen belang andere taken uitvoeren dan de in deze wet genoemde.
+
+#### § 2. Werkzaamheden
+
+##### Artikel 5
+
+De Bank is bevoegd die werkzaamheden te verrichten die nodig zijn ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2002-01-28&g=2002-01-28) genoemde taken, waaronder met name de werkzaamheden die in deze paragraaf zijn genoemd. De Bank verricht deze werkzaamheden in overeenstemming met het Verdrag.
+
+##### Artikel 6
+
+De Bank is bevoegd tot het uitgeven van bankbiljetten.
+
+##### Artikel 7
+
+De Bank is bevoegd de Europese Centrale Bank bij te staan bij het verzamelen van gegevens op de voet van artikel 5 van de Statuten van het Europees Stelsel van Centrale Banken.
+
+##### Artikel 8
+
+1. De Bank is bevoegd tot het verrichten van transacties in de financiële markten, daaronder het ontvangen van gelden in rekening-courant van rekeninghouders, het in bewaring nemen van effecten en andere voorwerpen van waarde en het verrichten van krediettransacties voorzover deze gedekt zijn door toereikend onderpand.
+
+2. Op verzoek van Onze Minister verricht de Bank de in het eerste lid bedoelde werkzaamheden ten behoeve van de Staat en ten behoeve van instellingen die bij wet of bij koninklijk besluit in het leven zijn geroepen.
+
+3. Op verzoek van Onze Minister en in afwijking van het eerste lid verstrekt de Bank aan de Staat, telkens wanneer Onze Minister dit nodig acht voor de ordelijke afwikkeling van betalingen ten laste van de Staat, kredieten in rekening-courant, zonder onderpand en tegen een, tussen Onze Minister en de Bank overeen te komen rentevergoeding. De Staat is verplicht deze kredieten af te lossen op de dag waarop zij zijn verstrekt.
+
+##### Artikel 9
+
+De Bank kan na toestemming bij koninklijk besluit:
+
+- a. deelnemingen houden in het kapitaal van rechtspersonen, van instellingen en van organisaties waarin haar deelname in het kapitaal bij of krachtens het Verdrag of bij wet niet reeds is geregeld;
+
+- b. deelnemen aan de werkzaamheden van rechtspersonen, van instellingen en van organisaties waarin haar deelname in de werkzaamheden bij of krachtens het Verdrag of bij wet niet reeds is geregeld;
+
+- c. in het algemeen belang andere werkzaamheden verrichten dan bedoeld in deze paragraaf.
+
+### Hoofdstuk III. Bepalingen betreffende de vennootschap
+
+##### Artikel 10
+
+[Artikel 153 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=153) is niet van toepassing op de Bank.
+
+##### Artikel 11
+
+Bepalingen van[boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) die bij toepassing op de Bank strijdigheid opleveren met het Verdrag of de Statuten van het Europees Stelsel van Centrale Banken zijn niet van toepassing op de Bank. Met het oog op de uitvoering van [artikel 108 van het Verdrag](onbekend) worden deze bepalingen bij algemene maatregel van bestuur aangewezen.
+
+##### Artikel 12
+
+1. De directie van de Bank is belast met het besturen van de Bank. De directie bestaat uit een president en tenminste drie en ten hoogste vijf directeuren.
+
+2. De president en de directeuren worden telkens voor een periode van 7 jaar bij koninklijk besluit benoemd. Voor elke benoeming wordt in een gemeenschappelijke vergadering van de directie en de raad van commissarissen een aanbevelingslijst van drie personen opgemaakt.
+
+3. De president en de directeuren kunnen slechts uit hun functie worden geschorst of ontheven indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of op ernstige wijze zijn tekortgeschoten.
+
+4. Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.
+
+##### Artikel 13
+
+1. De raad van commissarissen bestaat uit tenminste negen en ten hoogste twaalf leden.
+
+2. Eén lid van de raad van commissarissen wordt van overheidswege benoemd, telkens voor een periode van vier jaar.
+
+3. De voorzitter alsmede de overige leden van de raad van commissarissen worden telkens voor een periode van vier jaar benoemd door de aandeelhouders uit een voordracht van drie personen voor elke te vervullen plaats, opgemaakt door de raad van commissarissen. Bij afwezigheid van de voorzitter wordt het voorzitterschap bekleed door een daartoe door de vergadering aangewezen lid.
+
+4. De raad van commissarissen ziet toe op het beheer van de Bank en stelt de jaarrekening vast. De vastgestelde jaarrekening behoeft de goedkeuring van de aandeelhouders.
+
+##### Artikel 14
+
+1. Ten behoeve van Onze Minister kan degene die ingevolge artikel 13, tweede lid, tot lid van de raad van commissarissen is benoemd op verzoek van Onze Minister of uit eigen beweging en met inachtneming van [artikel 107 van het Verdrag](onbekend) bij de directie van de Bank gegevens en inlichtingen inwinnen over de wijze waarop de Bank haar taken uitvoert. Hij kan op verzoek van Onze Minister of uit eigen beweging en met inachtneming van [artikel 107 van het Verdrag](onbekend) zijn bevindingen aan Onze Minister kenbaar maken.
+
+2. De directie van de Bank is gehouden de in het eerste lid bedoelde persoon telkens op diens aanvraag al die gegevens en inlichtingen te verstrekken, welke hij tot behoorlijke uitoefening van zijn taak als bedoeld in het eerste lid, nodig acht, met uitzondering van gegevens en inlichtingen die ingevolge het Verdrag of de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2002-01-28&g=2002-01-28) bedoelde wettelijke regelingen geheim zijn.
+
+##### Artikel 15
+
+1. Er is een bankraad, bestaande uit tenminste elf en ten hoogste dertien leden, te weten:
+
+- a. het in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28) bedoelde lid van de raad van commissarissen;
+
+- b. één door de raad van commissarissen uit hun midden aan te wijzen lid;
+
+- c. ten minste negen en ten hoogste elf leden die steeds voor vier jaar worden benoemd door de bankraad.
+
+2. De benoeming van leden, bedoeld in het eerste lid onder c, geschiedt uit een aanbevelingslijst van tenminste twee personen voor elke te vervullen plaats, op te maken door de directie van de Bank, waarbij wordt gestreefd naar representatie van de verschillende maatschappelijke geledingen.
+
+3. De bankraad benoemt uit zijn midden een voorzitter. Bij afwezigheid van de voorzitter wordt het voorzitterschap bekleed door een daartoe door de vergadering aangewezen lid. Het secretariaat wordt vervuld door de Bank.
+
+4. De directie van de Bank en de thesaurier-generaal of zijn plaatsvervanger wonen de vergaderingen van de bankraad bij en kunnen deelnemen aan de beraadslagingen.
+
+5. De president van de Bank brengt aan de bankraad verslag uit over de algemene economische en financiële ontwikkeling en bespreekt met de bankraad de door de Bank gevoerde politiek. Daarnaast wordt beraadslaagd over de onderwerpen, welke door één of meer leden ter tafel worden gebracht in verband met de doelstellingen, taken en werkzaamheden van de Bank.
+
+##### Artikel 16
+
+1. De Bank stelt, met inachtneming van het Verdrag en na overleg met Onze Minister, interne richtlijnen vast voor het beheer van effecten, geldswaardige papieren en de goud- en deviezenvoorraad die niet is overgedragen aan de Europese Centrale Bank overeenkomstig artikel 30 van de Statuten van het Europees Stelsel van Centrale Banken, daarbij op gepaste wijze rekening houdend met de belangen van de Staat.
+
+2. De Bank is bevoegd, met toestemming van Onze Minister, reserves na winstvaststelling te vormen. Stortingen in en onttrekkingen aan deze reserves behoeven de toestemming van Onze Minister.
+
+##### Artikel 17
+
+1. De [artikelen 2:363, zesde lid](onbekend), [2:380](onbekend), [2:383, tweede lid, tweede zin](onbekend), met uitzondering van de openstaande bedragen, alsmede de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=3) en [4 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=4) zijn niet van toepassing op de Bank. De Bank mag, mede ter bepaling van het resultaat, de waardering van de beleggingen, effecten en valuta doen berusten op grondslagen die afwijken van het bepaalde in [artikel 2:384, eerste lid, tweede zin, of tweede lid, tweede zin, van het Burgerlijk Wetboek](onbekend), voorzover dit in overeenstemming is met hetgeen in [afdeling 14 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) daaromtrent is bepaald.
+
+2. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af, voorzover die afwijking naar het oordeel van de raad van commissarissen noodzakelijk is voor de verwezenlijking van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28) bedoelde doelstellingen.
+
+3. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af voor zover die afwijking noodzakelijk is om uitvoering te kunnen geven aan instructies, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28). De Bank stelt de raad van commissarissen onverwijld van de afwijking in kennis.
+
+### Hoofdstuk IV. Inlichtingen en geheimhouding
+
+##### Artikel 18
+
+1. Onze Minister is, met inachtneming van [artikel 107 van het Verdrag](onbekend), bevoegd de Bank met betrekking tot de taken en werkzaamheden ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), bedoelde doelstelling, gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn ter bepaling van het financieel-economisch beleid van de regering.
+
+2. De Bank is, met inachtneming van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, verplicht aan Onze Minister de in het eerste lid bedoelde gegevens en inlichtingen te verstrekken.
+
+##### Artikel 19
+
+Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), kan de president van de Bank, met inachtneming van [artikel 107 van het Verdrag](onbekend) en van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, door elk der beide kamers der Staten-Generaal op hun verzoek worden gehoord.
+
+##### Artikel 20
+
+Voor zover deze wet strekt ter uitvoering van de handelingen ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), bedoelde doelstelling, is het aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen die hij bij die taakuitvoering heeft verkregen verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+##### Artikel 21
+
+Wijzigt de Wet toezicht kredietwezen 1992.
+
+##### Artikel 22
+
+Wijzigt de Noodwet financieel verkeer.
+
+##### Artikel 23
+
+Wijzigt de Muntwet 1987.
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+##### Artikel 24
+
+1. Tot het tijdstip dat de Europese Centrale Bank en het Europees Stelsel van Centrale Banken worden opgericht overeenkomstig [artikel 109 L, eerste lid, van het Verdrag](onbekend), gelden de volgende leden.
+
+2. In de gevallen, waarin Onze Minister zulks ter coördinatie van de monetaire en financiële politiek van de Regering en de politiek van de Bank noodzakelijk acht, geeft hij, de bankraad gehoord, aan de directie de ter bereiking van dat doel nodige aanwijzingen. Behoudens het bepaalde in het volgende lid, is de directie gehouden die aanwijzingen op te volgen.
+
+3. De directie kan tegen het opvolgen van een aanwijzing als in het tweede lid bedoeld bezwaar maken. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een bezwaarschrift drie dagen. De [artikelen 7:2 tot en met 7:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:2) zijn niet van toepassing. Onze Minister beslist op het bezwaar in overeenstemming met het gevoelen van de ministerraad.
+
+4. Indien de beslissing van Onze Minister overeenkomstig het derde lid ertoe leidt dat de aanwijzingen zullen worden opgevolgd, wordt, indien het landsbelang zich hiertegen naar het oordeel van de ministerraad niet verzet, van het bezwaar van de directie en de beslissing van Onze Minister mededeling gedaan in de Staatscourant.
+
+5. Het in het eerste lid bedoelde tijdstip wordt door Onze Minister in de Staatscourant bekend gemaakt.
+
+##### Artikel 25
+
+Wijzigt de Algemene wet bestuursrecht.
+
+##### Artikel 26
+
+Wijzigt deze wet.
+
+##### Artikel 27
+
+1. Vervallen.
+
+2. De [artikelen 229i-k van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=229i)zijn niet van toepassing op bankbiljetten.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de verwisseling, intrekking en aftekening van bankbiljetten door de Bank, en de door de Bank aan het publiek te verstrekken informatie hieromtrent.
+
+4. Dit artikel of een onderdeel ervan vervalt op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 28
+
+Na inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2002-01-28&g=2002-01-28) van deze wet berusten de koninklijk besluiten die op grond van artikel 23, leden 1 en 2, van de Bankwet 1948 van kracht zijn, op [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2002-01-28&g=2002-01-28), van deze wet.
+
+##### Artikel 29
+
+1. De benoeming voor de eerste maal van de leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), geschiedt door de aandeelhouders binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de commissarissen, benoemd overeenkomstig artikel 27 van de Bankwet 1948, af.
+
+2. De voor de eerste maal benoemde leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), hebben, in afwijking van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), zitting voor de tijd van één tot vier jaren volgens een door de raad van commissarissen op te stellen rooster.
+
+##### Artikel 30
+
+1. De benoeming voor de eerste maal van de leden van de bankraad, bedoeld in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=15&z=2002-01-28&g=2002-01-28), geschiedt door de Bank binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de leden van de bankraad, benoemd overeenkomstig artikel 32 van de Bankwet 1948, af.
+
+2. De overeenkomstig het eerste lid benoemde leden hebben zitting voor de tijd van één tot vier jaren, volgens een door de bankraad op te stellen rooster.
+
+##### Artikel 31
+
+Na de inwerkingtreding van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2002-01-28&g=2002-01-28) van deze Wet berusten de koninklijke besluiten die op grond van artikel 21 van de Bankwet 1948 van kracht zijn, op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2002-01-28&g=2002-01-28) van deze wet.
+
+##### Artikel 32
+
+De Bankwet 1948 wordt ingetrokken.
+
+##### Artikel 33
+
+De wet van 11 januari 1956 houdende bepalingen ter uitvoering van artikel 17 van de Bankwet 1948, wordt ingetrokken.
+
+##### Artikel 34
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 35
+
+Deze wet wordt aangehaald als: Bankwet 1998.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van artikel 6, eerste lid, van verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG L 181).
+
+2. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van artikel 6, eerste lid, van verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG L 181).
+
+3. Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
+
+4. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de bevoegdheden, bedoeld in het eerste en tweede lid.
+
+5. Met het toezicht op de naleving van de verplichtingen gesteld in de verordening, genoemd in het eerste en tweede lid, zijn belast de bij besluit van de Bank aangewezen personen.
+
+6. Van een besluit als bedoeld in het vijfde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+### Hoofdstuk III. Bepalingen betreffende de vennootschap
+
+##### Artikel 12a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk IV. Inlichtingen en geheimhouding
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9a
+
+1. Kredietinstellingen, betalingsdienstverleners en economische operatoren als bedoeld in artikel 6, eerste lid, van de verordening valsemunterij controleren alle ontvangen eurobankbiljetten op hun geschiktheid voor circulatie alvorens deze biljetten weer in omloop te brengen.
+
+2. De geschiktheidscontrole van eurobankbiljetten wordt uitgevoerd volgens de daartoe door de Europese Centrale Bank vastgestelde procedures.
+
+3. Eurobankbiljetten die ongeschikt zijn voor circulatie, worden door de in het eerste lid bedoelde instellingen ingeleverd bij de Bank.
+
+4. De Bank vergoedt de nominale waarde van de op grond van het derde lid ingeleverde eurobankbiljetten.
+
+##### Artikel 9b
+
+1. Met het toezicht op de naleving van [artikel 9a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIa&artikel=9a&z=2014-01-01&g=2014-01-01), en, voor zover dat artikel betrekking heeft op eurobankbiljetten, artikel 6, eerste lid, van de verordening valsemunterij zijn belast de bij besluit van de Bank aangewezen personen.
+
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+##### Artikel 9c
+
+1. De Bank is bevoegd tot oplegging van een last onder dwangsom ter handhaving van:
+
+- a. [artikel 9a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIa&artikel=9a&z=2014-01-01&g=2014-01-01);
+
+- b. artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artikel betrekking heeft op eurobankbiljetten;
+
+- c. [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+
+2. De Bank is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen.
+
+3. Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
+
+4. Indien tegen een besluit tot oplegging van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.
+
+### Hoofdstuk III. Bepalingen betreffende de vennootschap
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9d
+
+1. De Bank is bevoegd ten behoeve van de in [artikel 4, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), bedoelde taken of ter voldoening aan informatieverzoeken van bij algemene maatregel van bestuur aangewezen internationale organisaties gebruik te maken van gegevens, niet zijnde persoonsgegevens in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), uit registraties die:
+
+- a. in verband met de uitvoering van een wettelijke taak worden bijgehouden bij instellingen en diensten van het Rijk of bij zelfstandige bestuursorganen op het niveau van de centrale overheid;
+
+- b. worden bijgehouden door bij algemene maatregel van bestuur aangewezen rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen of geheel of gedeeltelijk, direct of indirect, worden bekostigd uit middelen van de Staat of uit de opbrengst van bij of krachtens de wet ingestelde heffingen.
+
+2. Voor zover de in het eerste lid bedoelde verwerving niet de benodigde gegevens oplevert, is de Bank bevoegd om bij algemene maatregel van bestuur te bepalen gegevens, niet zijnde persoonsgegevens in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), op te vragen bij in die maatregel aangewezen categorieën van ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen.
+
+3. De in het eerste lid, onderdeel a, bedoelde instellingen, diensten en zelfstandige bestuursorganen, de in onderdeel b van dat lid bedoelde rechtspersonen en de in het tweede lid bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen verstrekken de in die leden bedoelde gegevens op verzoek van de Bank binnen een bij algemene maatregel van bestuur te bepalen termijn. Daarbij kan geen beroep worden gedaan op geheimhoudingsverplichtingen, tenzij deze verplichtingen gebaseerd zijn op internationale regelgeving.
+
+4. De in het derde lid bedoelde verstrekking van gegevens geschiedt kosteloos, tenzij bij algemene maatregel van bestuur anders wordt bepaald. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de soort kosten en de hoogte van de kosten die bij de Bank in rekening mogen worden gebracht.
+
+##### Artikel 9e
+
+1. De door de Bank op grond van [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIb&artikel=9d&z=2015-01-01&g=2015-01-01) ontvangen gegevens worden, behoudens het tweede lid, uitsluitend gebruikt voor statistische doeleinden en economische analyses.
+
+2. Het organisatieonderdeel van de Bank dat is belast met de in [artikel 4, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), bedoelde taak kan de in het eerste lid bedoelde gegevens verstrekken aan organisatieonderdelen van de Bank die belast zijn met een andere taak, voor zover die gegevens, al dan niet rechtstreeks, afkomstig zijn van financiële instellingen waarop de Bank toezicht uitoefent op de voet van de daarvoor geldende wettelijke regelingen.
+
+3. De in het eerste lid bedoelde gegevens worden slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijke onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon kunnen worden ontleend.
+
+##### Artikel 9f
+
+In afwijking van [artikel 9e](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIb&artikel=9e&z=2015-01-01&g=2015-01-01) verstrekt de Bank gegevens aan de in [artikel 9d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIb&artikel=9d&z=2015-01-01&g=2015-01-01), bedoelde internationale organisaties ter voldoening aan hun informatieverzoeken, met inachtneming van het geheimhoudingsregime dat ingevolge bindende EU-rechtshandelingen op de desbetreffende gegevens van toepassing is.
+
+##### Artikel 9g
+
+1. De Bank is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 9d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIb&artikel=9d&z=2015-01-01&g=2015-01-01), indien de in het eerste lid, onderdeel b, van dat artikel bedoelde rechtspersonen en de in het tweede lid van dat artikel bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen de in die artikelleden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+
+2. De Bank is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van [artikel 9d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIb&artikel=9d&z=2015-01-01&g=2015-01-01). [Artikel 9c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=IIa&artikel=9c&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 10.000 bedraagt.
+
+### Hoofdstuk III. Bepalingen betreffende de vennootschap
+
+### Hoofdstuk IV. Inlichtingen en geheimhouding
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+De Bank neemt bij de uitoefening van haar taak, bedoeld in [artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2015-11-26&g=2015-11-26), tot uitgangspunt dat een beroep op de publieke middelen wordt vermeden. Indien met het oog op de afwikkelingsdoelstellingen, bedoeld in artikel 14 van de verordening gemeenschappelijk afwikkelingsmechanisme, een beroep op buitengewone openbare financiële steun onvermijdelijk is, wordt dat beroep beperkt tot hetgeen noodzakelijk is ter verwezenlijking van die doelstellingen.
+
+#### § 2. Werkzaamheden
+
+### Hoofdstuk IIa. Echtheids- en geschiktheidscontrole van eurobankbiljetten
+
+### Hoofdstuk IIb. Verwerving, gebruik en verstrekking van gegevens
+
+##### Artikel 12b
+
+1. Eén van de directeuren is belast met de uitvoering van de taak, bedoeld in [artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2015-11-26&g=2015-11-26). Deze directeur is niet tevens belast met de uitoefening van de taken, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-11-26&g=2015-11-26) en 4, eerste lid, onderdeel a, voor zover het betreft het toezicht op banken, en onderdeel c.
+
+2. Ter zake van besluitvorming in de directie waarbij de taak, bedoeld in [artikel 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2015-11-26&g=2015-11-26), wordt uitgeoefend, worden aan de directeur, bedoeld in het eerste lid, evenveel stemmen toegekend als aan de overige leden van de directie tezamen. Bij staking van de stemmen, beslist de stem van de directeur, bedoeld in het eerste lid.
+
+3. Het tweede lid is niet van toepassing op besluitvorming waarbij toepassing wordt gegeven aan de [artikelen 3A:9 tot en met 3A:11 van de Wet op het financieel toezicht](onbekend) en aan de artikelen 8 tot en met 11 van de verordening gemeenschappelijk afwikkelingsmechanisme.
+
+### Hoofdstuk IV. Inlichtingen en geheimhouding
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9h
+
+1. De Bank voert, onder de naam Financieel Stabiliteitscomité, periodiek overleg met vertegenwoordigers van de Stichting Autoriteit Financiële Markten en Onze Minister over macro-economische en financiële ontwikkelingen met als doel om risico’s voor de stabiliteit van het financiële stelsel te signaleren en mogelijke oplossingsrichtingen ter mitigatie van die risico’s aan te dragen. De Bank kan, in overeenstemming met de Stichting Autoriteit Financiële Markten, dienaangaande aanbevelingen doen.
+
+2. De deelnemers komen ten minste tweemaal per jaar bijeen onder voorzitterschap van de president van de Bank. De Bank brengt van deze bijeenkomsten en van aanbevelingen verslag uit aan Onze Minister. Onze Minister zendt afschriften van deze verslagen aan de beide kamers der Staten-Generaal.
+
+3. Het Centraal Planbureau woont als externe deskundige de bijeenkomsten van het overleg bij.
+
+4. De deelnemers regelen de verdere werkwijze van het overleg.
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12c
+
+1. Een beoordeling of sprake is van het falen of waarschijnlijk falen van een entiteit waarop [deel 3A van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3a) van toepassing is, kan in de directie ter besluitvorming worden ingebracht door de directeur verantwoordelijk voor het toezicht op de bewuste entiteit, of door de directeur, bedoeld in [artikel 12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12b&z=2025-01-01&g=2025-01-01). Artikel 12b, tweede lid, is niet van toepassing.
+
+2. Indien de directie bij besluitvorming als bedoeld in het eerste lid niet vaststelt dat sprake is van falen of waarschijnlijk falen, terwijl de directeur, bedoeld in [artikel 12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12b&z=2025-01-01&g=2025-01-01), van oordeel is dat daarvan wel sprake is, kan deze directeur het besluit opnieuw in stemming brengen. Artikel 12b, tweede lid, is van toepassing.
+
+### Hoofdstuk IV. Inlichtingen en geheimhouding
+
+### Hoofdstuk V. Wijziging van andere wetten
+
+### Hoofdstuk VI. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
