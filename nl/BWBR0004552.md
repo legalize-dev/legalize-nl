@@ -503,29 +503,3 @@ De in de IMO-Code voor gas- of chemicaliëntankers (IMO International Maritime O
 De niet in de IMO-Code voor gas of chemicaliëntankers genoemde stoffen zijn door twee asterisken gekenmerkt.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-#### Vaarvoorschriften
-
-##### Artikel 14a. Veiligheidszones
-
-1. Veiligheidszones worden niet bevaren.
-
-2. Het eerste lid is niet van toepassing op schepen die voor de verzorging van installaties of inrichtingen zijn ingezet.
-
-##### Artikel 21a. Snelle schepen
-
-De bevoegde autoriteit kan voorwaarden stellen voor het bevaren van de Eemsmonding met snelle schepen.
-
-#### Voorschriften voor stilliggen
-
-#### Overige bepalingen
-
-## Bijlage 1
-
-Raadpleeg voor deze bijlage Stb. 1989/237 en Stb. 2002/299.
-
-## Bijlage 2. Stoffenlijst van de te melden goederen bij het vervoer waarvan de schepen bijzondere gevaren opleveren (artikel 21, eerste lid, en artikel 29, tweede lid)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
