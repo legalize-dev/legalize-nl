@@ -4,7 +4,7 @@ identifier: "BWBR0013746"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-01-01"
-last_updated: "2002-08-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013746"
 soort: "AMvB"
@@ -58,9 +58,9 @@ Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.
 
 [Artikel 21 van het Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&artikel=21), zoals dat artikel komt te luiden op het tijdstip van inwerkingtreding van dit besluit, vindt geen toepassing ten aanzien van:
 
-- a. examens en herexamens, waarvan de datum is bepaald voor de datum van inwerkingtreding van [artikel II, onderdelen L, M en N, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013746&artikel=II&z=2002-08-01&g=2002-08-01), en,
+- a. examens en herexamens, waarvan de datum is bepaald voor de datum van inwerkingtreding van [artikel II, onderdelen L, M en N, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013746&artikel=II&z=2003-01-01&g=2003-01-01), en,
 
-- b. examens en herexamens waarvan de datum wordt bepaald gedurende zes maanden na de datum van inwerkingtreding van [artikel II, onderdelen L, M en N, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013746&artikel=II&z=2002-08-01&g=2002-08-01).
+- b. examens en herexamens waarvan de datum wordt bepaald gedurende zes maanden na de datum van inwerkingtreding van [artikel II, onderdelen L, M en N, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013746&artikel=II&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel IV
 
