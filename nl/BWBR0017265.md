@@ -4,7 +4,7 @@ identifier: "BWBR0017265"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2004-10-20"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017265"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel IV
 
@@ -73,33 +73,45 @@ Met betrekking tot de eerste planperiode, welke loopt van 1 januari 2005 tot en 
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 16.35, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.35) is niet van toepassing op broeikasgasemissierechten die:
+
+- a. zijn ingeleverd ter voldoening aan het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.37), met betrekking tot de eerste planperiode, welke loopt van 1 januari 2005 tot en met 31 december 2007, en
+
+- b. door het bestuur van de emissieautoriteit zijn ingetrokken.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01), en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.1), [2.3 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.10) en [2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.16c) in [onderdeel C van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01) van het onderhavige wetsvoorstel, nadat dat tot wet is verheven, later in werking treden dan het tijdstip waarop [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01), van dit wetvoorstel, nadat dat tot wet is verheven, in werking treedt, geldt tot het tijdstip van inwerkingtreding van onderdeel B en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.1), [2.3 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.10) en [2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.16c) in [onderdeel C van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01) van dit wetsvoorstel het volgende:
+
+- a. in de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en de daarop gebaseerde regelingen wordt in plaats van «emissieautoriteit» telkens gelezen: emissieautoriteit in oprichting, en in plaats van «het bestuur van de emissieautoriteit» telkens: de directeur van de emissieautoriteit in oprichting;
+
+- b. de emissieautoriteit in oprichting, onderscheidenlijk de directeur van de emissieautoriteit in oprichting, zijn bij de uitvoering van de taken en de uitoefening van de bevoegdheden die aan de emissieautoriteit, onderscheidenlijk aan het bestuur van de emissieautoriteit, bij of krachtens de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) zijn opgedragen, werkzaam onder verantwoordelijkheid van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+
+2. In het geval, bedoeld in het eerste lid, worden de taken en bevoegdheden, bedoeld in het eerste lid, onder b, die zijn uitgevoerd onderscheidenlijk uitgeoefend door de emissieautoriteit in oprichting onderscheidenlijk de directeur van de emissieautoriteit in oprichting, met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01), en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.1), [2.3 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.10) en [2.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.16c) in [onderdeel C van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01) van het onderhavige wetsvoorstel, nadat dat tot wet is verheven, aangemerkt als taken onderscheidenlijk bevoegdheden die zijn uitgevoerd onderscheidenlijk uitgeoefend door de emissieautoriteit onderscheidenlijk het bestuur van de emissieautoriteit.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitvoering Verdrag van Aarhus(28 835).
 
 ##### Artikel XI
 
-1. Indien [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2004-10-20&g=2004-10-20), eerder in werking treedt dan de [Wet uniforme openbare voorbereidingsprocedure Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0013374), geldt tot het tijdstip waarop die wet in werking treedt, het volgende:
+1. Indien [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=I&z=2005-01-01&g=2005-01-01), eerder in werking treedt dan de [Wet uniforme openbare voorbereidingsprocedure Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0013374), geldt tot het tijdstip waarop die wet in werking treedt, het volgende:
 
 - a. [Afdeling 7.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.1) is niet van toepassing op besluiten die op grond van [hoofdstuk 16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16) zijn genomen en die zijn voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
 
 - b. Beroep als bedoeld in [artikel 20.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=20.1) tegen besluiten als bedoeld in onderdeel a kan worden ingesteld door een belanghebbende. Geen beroep als bedoeld in de eerste volzin kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in [artikel 3:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) naar voren heeft gebracht.
 
-2. Indien [artikel V, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=V&z=2004-10-20&g=2004-10-20), eerder in werking treedt dan de [Wet uniforme openbare voorbereidingsprocedure Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0013374), wordt tot het tijdstip waarop die wet in werking treedt in [artikel V, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=V&z=2004-10-20&g=2004-10-20), in plaats van «[artikel 3:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16)» gelezen: de [artikelen 3:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), en [3:13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13).
+2. Indien [artikel V, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=V&z=2005-01-01&g=2005-01-01), eerder in werking treedt dan de [Wet uniforme openbare voorbereidingsprocedure Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0013374), wordt tot het tijdstip waarop die wet in werking treedt in [artikel V, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017265&artikel=V&z=2005-01-01&g=2005-01-01), in plaats van «[artikel 3:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16)» gelezen: de [artikelen 3:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), en [3:13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13).
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien een aanvraag om een vergunning als bedoeld in [artikel 16.5, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5) wordt ingediend vóór de inwerkingtreding van deze wet, wordt die aanvraag aangemerkt als een aanvraag om een vergunning als bedoeld in [artikel 16.5, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), zoals dat artikel komt te luiden na de inwerkingtreding van deze wet.
+
+2. Indien de voorbereiding als bedoeld in [artikel 16.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.7) heeft plaatsgevonden vóór de inwerkingtreding van deze wet, wordt die voorbereiding aangemerkt als een voorbereiding als bedoeld in [artikel 16.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.7), zoals dat artikel komt te luiden na de inwerkingtreding van deze wet.
 
 ##### Artikel XIII
 
