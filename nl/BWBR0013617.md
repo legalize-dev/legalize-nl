@@ -4,7 +4,7 @@ identifier: "BWBR0013617"
 country: "nl"
 rank: "wet"
 publication_date: "2007-03-14"
-last_updated: "2002-06-01"
+last_updated: "2002-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013617"
 soort: "wet"
@@ -43,11 +43,11 @@ Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wegenverkeerswet 1994.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rijonderricht motorrijtuigen 1993.
 
 ##### Artikel IV
 
@@ -63,7 +63,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
