@@ -4,7 +4,7 @@ identifier: "BWBR0002019"
 country: "nl"
 rank: "kb"
 publication_date: "2013-11-30"
-last_updated: "1959-09-24"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002019"
 soort: "KB"
@@ -72,10 +72,20 @@ Eerepenning voor menschlievend hulpbetoon.
 
 1. In bijzondere gevallen, te Onzer beoordeeling, kan de Eerepenning voor menschlievend hulpbetoon tijdelijk of blijvend worden ontnomen aan hen, die zich dit eereteeken niet langer waardig toonen.
 
-2. Voorstellen tot het ontnemen van een verleende eerepenning kunnen aan Ons worden gedaan door Onzen Minister van Binnenlandsche Zaken.
+2. Een voordracht tot het ontnemen van een verleende erepenning wordt gedaan door Onze Minister die het aangaat.
 
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad,** waarin het is geplaatst.
+
+Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
+
+##### Artikel 4a
+
+Een voordracht tot toekenning van een erepenning wordt gedaan door:
+
+- Onze Minister van Defensie, indien de menslievende daad is verricht door een militair dan wel door een burgerambtenaar in dienst van het Ministerie van Defensie;
+
+- Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in andere gevallen dan bedoeld onder a.
 
 Onze Minister van Binnenlandsche Zaken is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselarij der Nederlandsche Orden.
