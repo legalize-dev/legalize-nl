@@ -285,23 +285,3 @@ Vervallen
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10b
-
-In het belang van de visserij is Onze Minister bevoegd regelen te stellen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2012-10-01&g=2012-10-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
-
-2. Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
