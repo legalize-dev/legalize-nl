@@ -4,7 +4,7 @@ identifier: "BWBR0001947"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2004-10-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001947"
 soort: "wet"
@@ -55,75 +55,69 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 2
 
-1. Titel III is niet van toepassing op:
+1. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&z=2005-01-01&g=2005-01-01) is niet van toepassing op:
 
-- a. ministers en staatssecretarissen,
+- –. ministers en staatssecretarissen;
 
-- b. de commissarissen van de Koning,
+- –. de commissarissen van de Koning;
 
-- c. krachtens de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of de wet voor hun leven benoemde ambtenaren,
+- –. krachtens de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of de wet voor hun leven benoemde ambtenaren;
 
-- d. de Nationale ombudsman en de substituut-ombudsmannen,
+- –. de Nationale ombudsman en de substituut-ombudsmannen;
 
-- e. notarissen en gerechtsdeurwaarders,
+- –. notarissen en gerechtsdeurwaarders;
 
-- f. de leden en de plaatsvervangende leden van de pachtkamers van de rechtbanken alsmede de raden en de plaatsvervangende raden in de pachtkamer van het gerechtshof te Arnhem,
+- –. de voorzitter, de leden, de plaatsvervangende leden en de buitengewone leden van het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51);
 
-- g. de raden en de plaatsvervangende raden in het gerechtshof te 's-Gravenhage, bedoeld in [artikel 61 van de Zaaizaad- en Plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=61),
+- –. de leden van dagelijkse besturen van waterschappen, met uitzondering van de voorzitters;
 
-- h. de raden en de plaatsvervangende raden in de ondernemingskamer van het gerechtshof te Amsterdam, bedoeld in [artikel 66 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66),
+- –. de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad, de voorzitters en de plaatsvervangende voorzitters van de produkt-, de hoofdbedrijf- en de bedrijfschappen en de leden van de besturen van deze lichamen, alsmede degenen die deel uitmaken van organen van lichamen als bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110);
 
-- i. de raden en de plaatsvervangende raden in de bijzondere kamer van het gerechtshof te Arnhem, bedoeld in [artikel 67 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67),
+- –. het personeel in dienst van de Sociaal-Economische Raad, de produkt-, de hoofdbedrijf- en de bedrijfschappen en de lichamen, bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110);
 
-- j. de voorzitter, de leden, de plaatsvervangende leden en de buitengewone leden van het College bescherming persoonsgegevens als bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51),
+- –. de leden van de Raden van bestuur en de Raden van advies van de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- k. de leden van dagelijkse besturen van waterschappen, met uitzondering van de voorzitters,
+- –. de voorzitter en de plaatsvervangende voorzitter van het Nederlands Instituut van Registeraccountants, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) ingestelde colleges;
 
-- l. de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad, de voorzitters en de plaatsvervangende voorzitters van de produkt-, de hoofdbedrijf- en de bedrijfschappen en de leden van de besturen van deze lichamen, alsmede degenen die deel uitmaken van organen van lichamen als bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110),
+- –. de voorzitter, de ondervoorzitter en de andere leden van het bestuur van de Organisatie ter verbetering van de binnenvisserij;
 
-- m. het personeel in dienst van de Sociaal-Economische Raad, de produkt-, de hoofdbedrijf- en de bedrijfschappen en de lichamen, bedoeld in [artikel 110 van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=110),
+- –. de voorzitter en de leden van het College voor zorgverzekeringen, bedoeld in [artikel 1a van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1a) en van het College van toezicht op de zorgverzekeringen, bedoeld in [artikel 1u van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1u), en het personeel van bedoelde colleges;
 
-- n. de leden van de Raden van bestuur en de Raden van advies van de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- –. de voorzitter en de leden van het College bouw ziekenhuisvoorzieningen en van het College sanering ziekenhuisvoorzieningen, bedoeld in de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753), en het personeel van de bedoelde colleges;
 
-- o. vervallen;
+- –. de voorzitter en de plaatsvervangende voorzitter van de Nederlandse Orde van Accountants-Administratieconsulenten, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) ingestelde colleges;
 
-- p. de voorzitter en de plaatsvervangende voorzitter van het Nederlands Instituut van Registeraccountants, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) ingestelde colleges,
+- –. de voorzitter en de leden van het College tarieven gezondheidszorg, bedoeld in de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356), en het personeel van het bedoelde college;
 
-- q. de voorzitter, de ondervoorzitter en de andere leden van het bestuur van de Organisatie ter verbetering van de binnenvisserij,
+- –. militaire ambtenaren;
 
-- r. de voorzitter en de leden van het College voor zorgverzekeringen, genoemd in artikel 1a van de Ziekenfondswet en van het College van toezicht op de zorgverzekeringen, genoemd in [artikel 1u van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1u), en het personeel van bedoelde colleges;
+- –. onbezoldigde ambtenaren, behorende tot het personeel van de buitenlandse dienst;
 
-- s. de voorzitter en de leden van het College bouw ziekenhuisvoorzieningen en van het College sanering ziekenhuisvoorzieningen, bedoeld in de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753), en het personeel van de bedoelde colleges;
+- –. de leden van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502);
 
-- t. de voorzitter en de plaatsvervangende voorzitter van de Nederlandse Orde van Accountants-Administratieconsulenten, de leden van het bestuur van dit lichaam en de leden van de andere bij of krachtens de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) ingestelde colleges,
+- –. de leden van een adviescollege als bedoeld in de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), niet zijnde een adviescollege als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=3);
 
-- u. de voorzitter en de leden van het College tarieven gezondheidszorg, bedoeld in de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356), en het personeel van het bedoelde college;
+- –. de voorzitter en de andere leden van het bestuur van het Bureau Financieel Toezicht, bedoeld in [artikel 110, eerste lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
 
-- v. militaire ambtenaren,
+- –. de voorzitter en de plaatsvervangend voorzitter van de Koninklijke Notariële Beroepsorganisatie, de andere leden van het bestuur van dit lichaam en de leden van het bestuur van de ringen en hun plaatsvervangers;
 
-- w. onbezoldigde ambtenaren, behorende tot het personeel van de buitenlandse dienst,
+- –. de voorzitter en plaatsvervangend voorzitter van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders en de andere leden van het bestuur van dit lichaam;
 
-- x. vervallen;
+- –. de voorzitter en de leden van de commissie van toezicht, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409);
 
-- y. de leden van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502),
+- –. wethouders;
 
-- z. de leden van een adviescollege als bedoeld in de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), niet zijnde een adviescollege als bedoeld in artikel 3 van die wet,
+- –. de leden van de KNMI-raad, bedoeld in [artikel 11 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=11);
 
-- aa. de voorzitter en de andere leden van het bestuur van het Bureau Financieel Toezicht, bedoeld in [artikel 110, eerste lid van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110),
+- –. de leden en de plaatsvervangende leden van de Raad voor werk en inkomen, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- bb. de voorzitter en de plaatsvervangend voorzitter van de Koninklijke Notariële Beroepsorganisatie, de andere leden van het bestuur van dit lichaam en de leden van het bestuur van de ringen en hun plaatsvervangers;
+- –. het lid van het Centraal Bestuur voor de Arbeidsvoorziening, bedoeld in de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367);
 
-- cc. de voorzitter en plaatsvervangend voorzitter van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders en de andere leden van het bestuur van dit lichaam.
+- –. de deskundige leden, bedoeld in de [artikelen 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=67), [69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69), en [70, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70) en hun plaatsvervangers;
 
-- dd. de voorzitter en de leden van de commissie van toezicht, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409).
+- –. gedeputeerden.
 
-- cc. wethouders.
-
-- ee. de leden van de KNMI-raad, bedoeld in [artikel 11 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=11).
-
-- gg. gedeputeerden.
-
-2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2004-10-01&g=2004-10-01), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2004-10-01&g=2004-10-01), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2004-10-01&g=2004-10-01), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2004-10-01&g=2004-10-01), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2004-10-01&g=2004-10-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2004-10-01&g=2004-10-01) zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in[artikel 2, eerste lid, onder f, g, h, i en j, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), en de rechterlijke ambtenaren in opleiding, bedoeld in [artikel 145 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145).
+2. De [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01), [125bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125bis&z=2005-01-01&g=2005-01-01), [125a](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2005-01-01&g=2005-01-01), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125c&z=2005-01-01&g=2005-01-01), [125d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125d&z=2005-01-01&g=2005-01-01), [125f](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125f&z=2005-01-01&g=2005-01-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2005-01-01&g=2005-01-01) zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in de [artikelen 1, onder b, onderdelen 4° tot en met 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), en [145 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145).
 
 ##### Artikel 3
 
@@ -637,7 +631,7 @@ Vervallen
 
 1. Met de door de Staat of de openbare lichamen verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan hen zelf verschuldigd is.
 
-2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2004-10-01&g=2004-10-01).
+2. Verrekening kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2005-01-01&g=2005-01-01).
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in [artikel 475**d** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
 
@@ -651,7 +645,7 @@ Vervallen
 
 ##### Artikel 119
 
-Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2004-10-01&g=2004-10-01), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2004-10-01&g=2004-10-01), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2005-01-01&g=2005-01-01), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2005-01-01&g=2005-01-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 120
 
@@ -729,7 +723,7 @@ De bepalingen van deze titel vinden overeenkomstige toepassing op de bezoldiging
 
 ##### Artikel 125bis
 
-Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel **p**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01), alsmede hun plaatsvervangers verboden:
+Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel **p**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01), alsmede hun plaatsvervangers verboden:
 
 - a. hetgeen zij als zodanig te weten zijn gekomen verder bekend te maken dan voor de uitoefening van hun functie wordt gevorderd;
 
@@ -749,7 +743,7 @@ Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [a
 
 3. De ambtenaar is verplicht tot geheimhouding van hetgeen hem in verband met zijn functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.
 
-4. De ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 125, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+4. De ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in [artikel 125, eerste lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01), zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
 
 ##### Artikel 125b
 
@@ -791,7 +785,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 ##### Artikel 126
 
-1. Indien het bevoegd gezag eener provincie nalatig blijft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) uitvoering te geven, of wel, ingeval Wij aanvulling, wijziging of intrekking van gegeven uitvoeringsvoorschriften gewenscht achten, zoodanige aanvulling, wijziging of intrekking ondanks daartoe strekkende aanmaning binnen een te stellen termijn van ten minste drie maanden niet tot stand brengt, zijn Wij bevoegd Gedeputeerde Staten uit te noodigen het noodzakelijk besluit vast te stellen. Blijven ook Gedeputeerde Staten in gebreke, of, ingeval aan hen in de reglementen der waterschappen, veenschappen en veenpolders het geven van uitvoering aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) is opgedragen, blijven zij daarin nalatig of brengen zij de door Ons gewenschte aanvulling, wijziging of intrekking niet tot stand in voege en binnen een termijn als vorenomschreven, zoo geschiedt de vaststelling door Ons. Een ingevolge dit lid vastgesteld besluit wordt geacht van het bevoegd gezag afkomstig te zijn. De afkondiging geschiedt binnen veertien dagen, nadat het besluit door het bevoegd gezag is ontvangen; in het gebruikelijke formulier van afkondiging worden daarbij de noodzakelijke wijzigingen aangebracht.
+1. Indien het bevoegd gezag eener provincie nalatig blijft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) uitvoering te geven, of wel, ingeval Wij aanvulling, wijziging of intrekking van gegeven uitvoeringsvoorschriften gewenscht achten, zoodanige aanvulling, wijziging of intrekking ondanks daartoe strekkende aanmaning binnen een te stellen termijn van ten minste drie maanden niet tot stand brengt, zijn Wij bevoegd Gedeputeerde Staten uit te noodigen het noodzakelijk besluit vast te stellen. Blijven ook Gedeputeerde Staten in gebreke, of, ingeval aan hen in de reglementen der waterschappen het geven van uitvoering aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) is opgedragen, blijven zij daarin nalatig of brengen zij de door Ons gewenschte aanvulling, wijziging of intrekking niet tot stand in voege en binnen een termijn als vorenomschreven, zoo geschiedt de vaststelling door Ons. Een ingevolge dit lid vastgesteld besluit wordt geacht van het bevoegd gezag afkomstig te zijn. De afkondiging geschiedt binnen veertien dagen, nadat het besluit door het bevoegd gezag is ontvangen; in het gebruikelijke formulier van afkondiging worden daarbij de noodzakelijke wijzigingen aangebracht.
 
 2. Voordat wordt overgegaan tot de in het eerste lid bedoelde aanmaning tot aanvulling, wijziging of intrekking van gegeven uitvoeringsvoorschriften wordt de Raad van State gehoord. [Artikel 18**a** van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=18a) is van overeenkomstige toepassing.
 
@@ -803,7 +797,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 - a. voor de voorschriften, vast te stellen door het bevoegde gezag der gemeenten, met dien verstande dat voor Gedeputeerde Staten, burgemeester en wethouders, en voor de commissaris van de Koning, de burgemeester in de plaats treden en dat in plaats van [artikel 266 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=266), [artikel 273 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=273) (**Stb.** 1992, 96) wordt gelezen.
 
-- b. voor de voorschriften vast te stellen door het bevoegd gezag der waterschappen, veenschappen en veenpolders, met dien verstande, dat voor zoover de uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) geheel of gedeeltelijk aan de besturen der instellingen zelf is overgelaten, de uitnoodiging wordt gericht tot het door Ons aangewezen gezag of een door Ons benoemden bijzonderen commissaris.
+- b. voor de voorschriften vast te stellen door het bevoegd gezag der waterschappen, met dien verstande, dat voor zoover de uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) geheel of gedeeltelijk aan de besturen der instellingen zelf is overgelaten, de uitnoodiging wordt gericht tot het door Ons aangewezen gezag of een door Ons benoemden bijzonderen commissaris.
 
 ##### Artikel 127
 
@@ -835,17 +829,17 @@ Vervallen
 
 ##### Artikel 133
 
-1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) moet aan dit artikel uitvoering zijn gegeven.
+1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) moet aan dit artikel uitvoering zijn gegeven.
 
-2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2004-10-01&g=2004-10-01) te zijn gegeven.
+2. De door het bevoegd gezag der provinciën, gemeenten, waterschappen, veenschappen en veenpolders op het oogenblik van de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) vastgestelde voorschriften, die betreffen onderwerpen in dat artikel vermeld, blijven bij die invoering van kracht en worden geacht tot uitvoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2005-01-01&g=2005-01-01) te zijn gegeven.
 
 #### § 2. Slotbepalingen
 
 ##### Artikel 134
 
-1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2004-10-01&g=2004-10-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2005-01-01&g=2005-01-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
-2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2004-10-01&g=2004-10-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2004-10-01&g=2004-10-01) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2004-10-01&g=2004-10-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
+2. Omtrent dezelfde onderwerpen worden door het bevoegd gezag der provinciën, gemeenten en waterschappen, bepalingen vastgesteld, indien door of vanwege die lichamen indienstneming op arbeidsovereenkomst naar burgerlijk recht plaatsheeft. De [artikelen 125**a** tot en met 125**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2005-01-01&g=2005-01-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=126&z=2005-01-01&g=2005-01-01) en [133, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=133&z=2005-01-01&g=2005-01-01) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
 3. Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
