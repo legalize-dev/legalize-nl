@@ -4,7 +4,7 @@ identifier: "BWBR0010009"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2002-07-10"
+last_updated: "2005-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010009"
 soort: "AMvB"
@@ -52,9 +52,7 @@ Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
 - a. de Inspectie voor de Gezondheidszorg: op het gebied van de beroepen en instellingen op het terrein van de gezondheidszorg, de gezondheidszorgstatistiek, de bestrijding en voorkoming van ziekten en bevordering van de gezondheid, de geestelijke volksgezondheid, de geneesmiddelen, verdovende middelen daaronder begrepen, de bloedvoorziening en de medische hulpmiddelen;
 
-- b. de Inspectie van de Volksgezondheid, belast met het toezicht op de hygiëne van het milieu: op het gebied van de hygiëne van het biologische, chemische en fysische milieu van de mens;
-
-- c. de Voedsel en Waren Autoriteit: op het gebied van andere dan de onder a genoemde waren en hun keuring, de destructie, het onderzoek van dieren en gewassen en hun omgeving ter voorkoming van besmetting met organismen, stoffen of straling, waaraan bij het omgaan met dieren of bij het nuttigen van producten van dierlijke of plantaardige oorsprong gevaar voor de volksgezondheid kan zijn verbonden.
+- b. de Voedsel en Waren Autoriteit: op het gebied van andere dan de onder a genoemde waren en hun keuring, de destructie, het onderzoek van dieren en gewassen en hun omgeving ter voorkoming van besmetting met organismen, stoffen of straling, waaraan bij het omgaan met dieren of bij het nuttigen van producten van dierlijke of plantaardige oorsprong gevaar voor de volksgezondheid kan zijn verbonden.
 
 ##### Artikel 2
 
