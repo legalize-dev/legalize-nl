@@ -273,27 +273,3 @@ Overtreding van een der [artikelen 7, eerste lid](https://wetten.overheid.nl/jci
 Deze regeling wordt aangehaald als: Regeling grondafhandeling luchtvaartterreinen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 8a.1, vierde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
-
-#### Verrichten van zelfafhandelingsdiensten
-
-#### Verlenen van grondafhandelingsdiensten
-
-#### Zelfafhandelingsdiensten en grondafhandelingsdiensten
-
-#### Overleg
-
-#### Centrale voorzieningen
-
-#### Beperkingen
-
-#### Verbodsbepalingen
-
-#### Overige bepalingen
-
-#### Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
