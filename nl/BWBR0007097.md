@@ -80,7 +80,3 @@ Deze regeling wordt aangehaald als:
 Regeling verwijderen van voorwerpen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 10, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=10).
