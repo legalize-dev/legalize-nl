@@ -4,7 +4,7 @@ identifier: "BWBR0015814"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-12-10"
-last_updated: "2003-01-01"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015814"
 soort: "AMvB"
@@ -45,7 +45,7 @@ Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Inkomstenbesluit militairen.
 
 ##### Artikel IV
 
@@ -70,15 +70,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX. Slotbepalingen
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Defensie van 13 augustus 2003, nr. P/2003004550;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) alsmede [artikel 12 van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-De Raad van State gehoord (advies van 25 september 2003, nr. W07.03.0342/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 24 oktober 2003, nr. P/2003006977;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
