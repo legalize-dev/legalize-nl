@@ -269,21 +269,3 @@ Dit Verdrag kan door iedere Verdragsluitende Partij worden opgezegd door een sch
 In witness whereof the undersigned plenipotentiaries have signed the present Agreement.
 
 Done in Paris this 11th day of May, 1955, in French and in English, both texts being equally authoritative, in a single copy which shall be deposited in the Archives of the Government of Belgium which will transmit a certified copy to each of the signatory States.
-
-## TITEL I. — ALGEMEEN
-
-## TITEL II. — DE ORGANISATIE
-
-## TITEL III. — PERMANENTE VERTEGENWOORDIGERS BIJ DE ORGANISATIE
-
-## TITEL IV. — VERTEGENWOORDIGERS BIJ DE RAAD EN BIJ ZIJN HULPORGANEN
-
-## TITEL V. — VERTEGENWOORDIGERS BIJ DE VERGADERING
-
-## TITEL VI. — INTERNATIONALE STAF EN DESKUNDIGEN UITGEZONDEN VOOR DE ORGANISATIE
-
-## TITEL VII. — BESLECHTING VAN GESCHILLEN
-
-## TITEL VIII. — AANVULLENDE VERDRAGEN
-
-## TITEL IX. — SLOTBEPALINGEN
