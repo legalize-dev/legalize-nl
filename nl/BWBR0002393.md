@@ -4,7 +4,7 @@ identifier: "BWBR0002393"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2004-07-01"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002393"
 soort: "wet"
@@ -59,7 +59,7 @@ De toepasselijkheid van deze wet wordt beperkt door de in het volkenrecht erkend
 
 ##### Artikel 3
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 3 **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3a&z=2004-07-01&g=2004-07-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 3 **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3a&z=2005-03-16&g=2005-03-16) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -105,7 +105,7 @@ In beschikkingen tot vordering van een recht tot gebruik van een zaak wordt de i
 
 - a. aan de eigenaar, de beperkt gerechtigde, de pachter, de huurder, de huurkoper en degene die beslag heeft gelegd, voor zover zij bekend zijn;
 
-- b. bij toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=6&z=2004-07-01&g=2004-07-01) aan ieder der krachtens dat artikel aangewezen personen;
+- b. bij toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=6&z=2005-03-16&g=2005-03-16) aan ieder der krachtens dat artikel aangewezen personen;
 
 - c. aan degene, in wiens feitelijke macht de zaak wordt aangetroffen.
 
@@ -139,13 +139,13 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 1. Zodra als gevolg van een vordering het eigendomsrecht is overgegaan of een recht tot gebruik is ontstaan, wordt daarvan door Onze Minister, die de vordering heeft gedaan, zo spoedig mogelijk een bewijsstuk opgemaakt.
 
-2. Het bewijsstuk verwijst naar de vorderingsbeschikking en bevat zo nodig de gegevens vereist met betrekking tot de inschrijving van stukken in de betrokken openbare registers, voor zover deze niet in de beschikking staan. Indien de feitelijke mogelijkheid tot uitoefening van het gevorderde recht is verschaft met toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=10&z=2004-07-01&g=2004-07-01), wordt hiervan in het bewijsstuk melding gemaakt.
+2. Het bewijsstuk verwijst naar de vorderingsbeschikking en bevat zo nodig de gegevens vereist met betrekking tot de inschrijving van stukken in de betrokken openbare registers, voor zover deze niet in de beschikking staan. Indien de feitelijke mogelijkheid tot uitoefening van het gevorderde recht is verschaft met toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=10&z=2005-03-16&g=2005-03-16), wordt hiervan in het bewijsstuk melding gemaakt.
 
 3. Een exemplaar van het bewijsstuk, mede ondertekend door degene, te wiens behoeve de vordering is geschied, wordt, zo mogelijk, verstrekt aan ieder dergenen, aan wie een exemplaar van de vorderingsbeschikking is verstrekt. Van bewijsstukken, die niet door Onze Minister van Economische Zaken zijn opgemaakt, wordt aan deze afschrift gezonden.
 
 ##### Artikel 14
 
-1. Ingeval een registergoed of een recht waarvan de overdracht slechts na inschrijving in openbare registers tegen derden werkt, is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de vorderingsbeschikking en het krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=13&z=2004-07-01&g=2004-07-01) opgemaakte bewijsstuk zo spoedig mogelijk in de betrokken openbare registers inschrijven.
+1. Ingeval een registergoed of een recht waarvan de overdracht slechts na inschrijving in openbare registers tegen derden werkt, is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de vorderingsbeschikking en het krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=13&z=2005-03-16&g=2005-03-16) opgemaakte bewijsstuk zo spoedig mogelijk in de betrokken openbare registers inschrijven.
 
 2. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
 
@@ -175,7 +175,7 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 ##### Artikel 18
 
-1. Het bedrag van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2004-07-01&g=2004-07-01) bedoelde schadeloosstelling wordt door de rechter vastgesteld op verzoek van de rechthebbende, van degene, te wiens behoeve de vordering is geschied of van Onze Minister, die de vordering heeft gedaan. Het geding wordt door de verzoeker aanhangig gemaakt bij een in drievoud ingediend verzoekschrift, waarin de namen en adressen van de overige in dit lid bedoelde partijen zijn vermeld, alsmede het bedrag van de schadeloosstelling, waarvan vaststelling wordt verlangd.
+1. Het bedrag van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2005-03-16&g=2005-03-16) bedoelde schadeloosstelling wordt door de rechter vastgesteld op verzoek van de rechthebbende, van degene, te wiens behoeve de vordering is geschied of van Onze Minister, die de vordering heeft gedaan. Het geding wordt door de verzoeker aanhangig gemaakt bij een in drievoud ingediend verzoekschrift, waarin de namen en adressen van de overige in dit lid bedoelde partijen zijn vermeld, alsmede het bedrag van de schadeloosstelling, waarvan vaststelling wordt verlangd.
 
 2. Indien het verzoekschrift aan de kantonrechter is gericht, bepaalt deze de dag en het uur waarop de zaak ter terechtzitting zal dienen; indien het aan de rechtbank is gericht, bepaalt de rechtbank de dag waarop de zaak ter rolle zal worden uitgeroepen. Bedoelde dag zal niet later mogen worden gesteld dan drie weken na die, waarop het verzoekschrift ter griffie is ontvangen.
 
@@ -189,7 +189,7 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 ##### Artikel 19
 
-1. Degene, die als gevolg van een vordering het eigendomsrecht op een zaak of een beperkt recht, waaraan een zaak is onderworpen, heeft verkregen, mag die zaak of dat recht, zo de betrokken zaak onroerend is, binnen tien en anders binnen drie jaren daarna niet vervreemden alvorens die zaak of dat recht aan degene, die deze zaak of dat recht door de vordering heeft verloren, te koop te hebben aangeboden tegen een prijs, te bepalen in onderling overleg, dan wel bij gebreke van overeenstemming door de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2004-07-01&g=2004-07-01) bedoelde rechter.
+1. Degene, die als gevolg van een vordering het eigendomsrecht op een zaak of een beperkt recht, waaraan een zaak is onderworpen, heeft verkregen, mag die zaak of dat recht, zo de betrokken zaak onroerend is, binnen tien en anders binnen drie jaren daarna niet vervreemden alvorens die zaak of dat recht aan degene, die deze zaak of dat recht door de vordering heeft verloren, te koop te hebben aangeboden tegen een prijs, te bepalen in onderling overleg, dan wel bij gebreke van overeenstemming door de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2005-03-16&g=2005-03-16) bedoelde rechter.
 
 2. Niet inachtneming van het eerste lid tast de geldigheid van de vervreemding niet aan.
 
@@ -201,13 +201,13 @@ Ingeval een recht tot gebruik van een zaak is gevorderd, ontstaat dit recht voor
 
 2. Hij kan een als gevolg van een vordering ontstaan recht tot gebruik van een zaak zonder inachtneming van enige termijn beëindigen, indien gebleken is, dat degene, voor wie het recht is ontstaan, en de eigenaar van de zaak daartegen geen bedenkingen hebben.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4&z=2004-07-01&g=2004-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4&z=2005-03-16&g=2005-03-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8&z=2005-03-16&g=2005-03-16) zijn van overeenkomstige toepassing.
 
 4. De bekendmaking van de beschikking geschiedt door toezending of uitreiking aan degene wiens recht wordt beëindigd; tegelijkertijd of zo spoedig mogelijk daarna wordt van de beschikking door middel van toezending of uitreiking mededeling gedaan aan de eigenaar van de zaak.
 
 ##### Artikel 21
 
-Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat nog bestaat bij het vervallen van de bevoegdheid, krachtens welke die vordering is gedaan, blijft bestaan tot zes maanden nadat vorenbedoelde bevoegdheid is vervallen, tenzij het eerder een einde neemt door het verstrijken van de termijn, waaraan zijn duur in de vorderingsbeschikking was gebonden of als gevolg van toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=20&z=2004-07-01&g=2004-07-01).
+Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat nog bestaat bij het vervallen van de bevoegdheid, krachtens welke die vordering is gedaan, blijft bestaan tot zes maanden nadat vorenbedoelde bevoegdheid is vervallen, tenzij het eerder een einde neemt door het verstrijken van de termijn, waaraan zijn duur in de vorderingsbeschikking was gebonden of als gevolg van toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=20&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 22
 
@@ -217,9 +217,9 @@ Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat no
 
 ##### Artikel 23
 
-1. Zolang niet een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2004-07-01&g=2004-07-01), vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Defensie de bevoegdheid worden verleend in het belang van de militaire verdediging, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.
+1. Zolang niet een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2005-03-16&g=2005-03-16), vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Defensie de bevoegdheid worden verleend in het belang van de uitvoering van de militaire taak, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.
 
-2. Zolang niet een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2004-07-01&g=2004-07-01), vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in [hoofdstuk V van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&hoofdstuk=V), van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.
+2. Zolang niet een krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2005-03-16&g=2005-03-16), vastgesteld besluit in werking is, kan bij koninklijk besluit aan Onze Minister van Binnenlandse Zaken de bevoegdheid worden verleend in het belang van de bestrijding van rampen en zware ongevallen in buitengewone omstandigheden als bedoeld in [hoofdstuk V van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&hoofdstuk=V), van de beperking van de onmiddellijke gevolgen daarvan, ten behoeve van de Staat of van andere met de behartiging van openbare belangen belaste lichamen het eigendomsrecht op of een recht tot gebruik van een of meer bij Ons besluit aangewezen onroerende zaken te vorderen.
 
 3. Wij nemen Ons besluit als bedoeld in het eerste of tweede lid, de Raad van State gehoord.
 
@@ -231,29 +231,29 @@ Een als gevolg van een vordering ontstaan recht tot gebruik van een zaak, dat no
 
 7. De vorderingsbeschikking vermeldt het koninklijk besluit, waarbij de bevoegdheid tot het doen der vordering is verleend.
 
-8. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4&z=2004-07-01&g=2004-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=7&z=2004-07-01&g=2004-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8&z=2004-07-01&g=2004-07-01), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=9&z=2004-07-01&g=2004-07-01), [15-20](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=20&z=2004-07-01&g=2004-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2004-07-01&g=2004-07-01) zijn van toepassing.
+8. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4&z=2005-03-16&g=2005-03-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=7&z=2005-03-16&g=2005-03-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8&z=2005-03-16&g=2005-03-16), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=9&z=2005-03-16&g=2005-03-16), [15-20](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=20&z=2005-03-16&g=2005-03-16) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2005-03-16&g=2005-03-16) zijn van toepassing.
 
-9. Met betrekking tot het bepaalde in de [artikelen 23-27](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) blijft [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=1&z=2004-07-01&g=2004-07-01), buiten toepassing.
+9. Met betrekking tot het bepaalde in de [artikelen 23-27](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) blijft [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=1&z=2005-03-16&g=2005-03-16), buiten toepassing.
 
 ##### Artikel 24
 
-In krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) vastgestelde vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op het tijdstip, waarop het gevorderde recht op de zaak zal overgaan of ontstaan, aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van dat recht te verschaffen.
+In krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) vastgestelde vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op het tijdstip, waarop het gevorderde recht op de zaak zal overgaan of ontstaan, aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van dat recht te verschaffen.
 
 ##### Artikel 25
 
-1. In geval krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) het eigendomsrecht op een onroerende zaak is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de beschikking zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2).
+1. In geval krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) het eigendomsrecht op een onroerende zaak is gevorderd, doet Onze Minister, die de vordering heeft gedaan, de beschikking zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2).
 
-2. Door de inschrijving van de beschikking gaat het eigendomsrecht op de zaak over op degene, te wiens behoeve de vordering is geschied. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=11&z=2004-07-01&g=2004-07-01), is van toepassing.
+2. Door de inschrijving van de beschikking gaat het eigendomsrecht op de zaak over op degene, te wiens behoeve de vordering is geschied. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=11&z=2005-03-16&g=2005-03-16), is van toepassing.
 
 ##### Artikel 26
 
-Ingeval krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) een recht tot gebruik van een onroerende zaak is gevorderd, ontstaat dit recht voor degene, te wiens behoeve de vordering is geschied, op het daarvoor in de vorderingsbeschikking te bepalen tijdstip.
+Ingeval krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) een recht tot gebruik van een onroerende zaak is gevorderd, ontstaat dit recht voor degene, te wiens behoeve de vordering is geschied, op het daarvoor in de vorderingsbeschikking te bepalen tijdstip.
 
 ##### Artikel 27
 
-1. Onze Minister die krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) een vordering heeft gedaan, is bevoegd tot toepassing van bestuursdwang ter handhaving van de vordering.
+1. Onze Minister die krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) een vordering heeft gedaan, is bevoegd tot toepassing van bestuursdwang ter handhaving van de vordering.
 
-2. Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) kan worden gegeven door Onze Minister die de vordering krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) heeft gedaan.
+2. Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) kan worden gegeven door Onze Minister die de vordering krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) heeft gedaan.
 
 ##### Artikel 28
 
@@ -261,7 +261,7 @@ Dit artikel is niet gepubliceerd.
 
 ##### Artikel 29
 
-1. Onze Ministers, aan wie krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2004-07-01&g=2004-07-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2004-07-01&g=2004-07-01) vorderingsbevoegdheid is verleend, kunnen van een ieder inlichtingen en inzage van zakelijke gegevens en bescheiden vorderen, voor zover zij die voor een goede uitvoering van deze wet nodig achten.
+1. Onze Ministers, aan wie krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3&z=2005-03-16&g=2005-03-16) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=23&z=2005-03-16&g=2005-03-16) vorderingsbevoegdheid is verleend, kunnen van een ieder inlichtingen en inzage van zakelijke gegevens en bescheiden vorderen, voor zover zij die voor een goede uitvoering van deze wet nodig achten.
 
 2. Zij kunnen de uitoefening van de in het eerste lid bedoelde bevoegdheden, opdragen aan daartoe schriftelijk door hen aangewezen personen.
 
@@ -271,21 +271,17 @@ Dit artikel is niet gepubliceerd.
 
 ##### Artikel 31
 
-1. Een bij of krachtens deze wet opgelegde verplichting is opgeheven voor zover het voldoen hieraan zou medebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd
+1. Een bij of krachtens deze wet opgelegde verplichting vervalt van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak.
 
-- a. in het belang van de militaire verdediging, of
-
-- b. in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking.
-
-2. Een bij of krachtens deze wet in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking opgelegde verplichting is opgeheven voor zover het voldoen hieraan zou medebrengen dat niet kan worden voldaan aan een bij of krachtens deze wet in het belang van de militaire verdediging opgelegde verplichting.
+2. Een bij of krachtens deze wet opgelegde verplichting die niet voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak, vervalt eveneens van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd in het belang van de bestrijding van een ramp, een zwaar ongeval of van een verstoring van de openbare orde of van ernstige vrees voor het ontstaan daarvan.
 
 ##### Artikel 32
 
-1. Hij die opzettelijk niet voldoet aan een hem bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=6&z=2004-07-01&g=2004-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2004-07-01&g=2004-07-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=24&z=2004-07-01&g=2004-07-01) opgelegde verplichting, dan wel opzettelijk bewerkt, dat aan zodanige, een ander opgelegde verplichting niet wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+1. Hij die opzettelijk niet voldoet aan een hem bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=6&z=2005-03-16&g=2005-03-16), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2005-03-16&g=2005-03-16) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=24&z=2005-03-16&g=2005-03-16) opgelegde verplichting, dan wel opzettelijk bewerkt, dat aan zodanige, een ander opgelegde verplichting niet wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. Hij aan wiens schuld te wijten is, dat aan een verplichting als in het vorige lid bedoeld niet wordt voldaan, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
-3. Hij die de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=29&z=2004-07-01&g=2004-07-01) van hem verlangde inlichtingen niet, niet volledig of niet naar waarheid verstrekt of niet inzage verleent van de zakelijke gegevens en bescheiden, waarvan krachtens dat artikel inzage is gevorderd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
+3. Hij die de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=29&z=2005-03-16&g=2005-03-16) van hem verlangde inlichtingen niet, niet volledig of niet naar waarheid verstrekt of niet inzage verleent van de zakelijke gegevens en bescheiden, waarvan krachtens dat artikel inzage is gevorderd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 4. De in het eerste lid strafbaar gestelde feiten zijn misdrijven, de in het tweede en derde lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -313,17 +309,17 @@ Vervallen
 
 ##### Artikel 36
 
-Ten aanzien van op grond van de Algemene Vorderingswet 1939 en het Algemeen Vorderingsbesluit 1940 gedane vorderingen blijft het bij en krachtens de artikelen 10 en 11 van die wet onderscheidenlijk de artikelen 9, 10 en 11 van dat besluit bepaalde van toepassing, behoudens dat met overeenkomstige toepassing van [artikel 17 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2004-07-01&g=2004-07-01) de rechter in de plaats treedt van de krachtens die regelingen ingestelde commissies.
+Ten aanzien van op grond van de Algemene Vorderingswet 1939 en het Algemeen Vorderingsbesluit 1940 gedane vorderingen blijft het bij en krachtens de artikelen 10 en 11 van die wet onderscheidenlijk de artikelen 9, 10 en 11 van dat besluit bepaalde van toepassing, behoudens dat met overeenkomstige toepassing van [artikel 17 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=17&z=2005-03-16&g=2005-03-16) de rechter in de plaats treedt van de krachtens die regelingen ingestelde commissies.
 
 ##### Artikel 37
 
 1. Een recht tot gebruik van een zaak of vermogensrecht, ontstaan als gevolg van een op grond van de Algemene Vorderingswet 1939 of het Algemeen Vorderingsbesluit 1940 gedane vordering en nog bestaande bij het in werking treden van deze wet, blijft bestaan tot het tijdstip, waarop het krachtens de wettelijke regeling, op grond waarvan de vordering is gedaan, een einde zou hebben genomen, of, indien geen zodanig tijdstip is bepaald, tot zes maanden na het in werking treden van deze wet. Onze Minister, wie het rechtstreeks aangaat, kan laatstbedoelde termijn eenmaal met ten hoogste zes maanden verlengen.
 
-2. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2004-07-01&g=2004-07-01) is van overeenkomstige toepassing.
+2. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=22&z=2005-03-16&g=2005-03-16) is van overeenkomstige toepassing.
 
 ##### Artikel 38
 
-Deze wet kan worden aangehaald als Vorderingswet, met vermelding van het jaar harer totstandkoming.
+Deze wet wordt aangehaald als: Vorderingswet.
 
 ##### Artikel 39
 
