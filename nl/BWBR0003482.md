@@ -4,7 +4,7 @@ identifier: "BWBR0003482"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-07-04"
+last_updated: "2002-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003482"
 soort: "AMvB"
@@ -456,13 +456,17 @@ Indien het onder bijzondere omstandigheden onmogelijk is gebleken de militair ti
 
 4. Aan de militair die een functie is toegewezen waaraan een hogere rang is verbonden dan de rang die hij bekleedt, wordt op de datum van ingang van functievervulling die hogere rang toegekend. Het toekennen van die rang kan tevens, voor een korte periode van voorbereiding, daaraan voorafgaand geschieden.
 
-5. In afwijking van het vierde lid kan aan de militair in bijzondere gevallen tijdelijk een hogere rang worden toegekend dan die welke hij bekleedt, indien het gewenste optreden van de betrokken militair daartoe noodzaakt en het optreden een wezenlijk onderdeel vormt van zijn functie. Wanneer de reden tot het toekennen van deze hogere rang vervalt, keert hij van rechtswege terug tot de rang of klasse die hij daarvoor bekleedde. Indien een militair die een rang tijdelijk bekleedt, overlijdt, wordt hij geacht die tijdelijke rang effectief bekleed te hebben op het tijdstip van zijn overlijden.
+5. In afwijking van het vierde lid kan aan de militair in bijzondere gevallen tijdelijk een hogere rang worden toegekend dan die welke hij bekleedt, indien het gewenste optreden van de betrokken militair daartoe noodzaakt en het optreden een wezenlijk onderdeel vormt van zijn functie. Wanneer de reden tot het toekennen van deze hogere rang vervalt, keert hij van rechtswege terug tot de rang of klasse die hij daarvoor bekleedde.
 
-6. De navolgende bevorderingen kunnen geschieden in afwijking van het gestelde in het vierde lid:
+6. In afwijking van het vierde lid kan, indien de militair een functie wordt toegewezen in het kader van een vredesoperatie als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=2&z=2002-09-13&g=2002-09-13), de bij de functie behorende rang tijdelijk, voor de duur van de functievervulling, worden toegekend indien de militair niet voldoet aan de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=22&z=2002-09-13&g=2002-09-13) bedoelde eisen.
+
+7. De navolgende bevorderingen kunnen geschieden in afwijking van het gestelde in het vierde lid:
 
 - a. bij de zeemacht: de bevorderingen in de stand van matroos, en de bevordering van luitenant ter zee der 3e klasse tot luitenant ter zee der 2e klasse;
 
 - b. bij de landmacht, de luchtmacht en de marechaussee: de bevordering van korporaal tot korporaal der 1e klasse, de bevordering van marechaussee tot marechaussee der 1e klasse, de bevordering van sergeant tot sergeant der 1e klasse, alsmede de bevordering van tweede-luitenant tot eerste-luitenant.
+
+8. Indien een militair die een rang tijdelijk bekleedt, overlijdt, wordt hij geacht die tijdelijke rang effectief bekleed te hebben op het tijdstip van zijn overlijden.
 
 ##### Artikel 28. Bevordering tijdens opleiding
 
@@ -820,7 +824,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - l. piket: een periode waarin de militair, zo nodig naast het verrichten van de bedongen werkzaamheden of diensten, consignatie wordt opgelegd waarbij de militair verplicht is om in verband met zijn bereikbaarheid op de werkplek aanwezig te zijn;
 
-- m. oefening: elk door defensiepersoneel onder oorlogsnabootsende omstandigheden in praktijk brengen van onderwezen bekwaamheden teneinde aldus de bedrevenheid in het uitvoeren van oorlogstaken te verkrijgen of te onderhouden.
+- m. oefening: elk door defensiepersoneel in de praktijk brengen van onderwezen bekwaamheden teneinde aldus de bedrevenheid in het uitvoeren van aan de krijgsmacht opgedragen operationele taken te verwerven, te vergroten of te onderhouden.
 
 ##### Artikel 54b. Vaststelling werk- en rusttijden
 
@@ -1424,7 +1428,9 @@ Indien de overschrijding van de arbeidsduur, bedoeld in artikel 54b, vierde lid,
 
 - b. inschepings- en ontschepingsverlof;
 
-- c. buitengewoon verlof
+- c. buitengewoon verlof;
+
+- d. buitengewoon verlof in het kader van arbeid en zorg.
 
 ##### Artikel 62. Bevoegdheid tot het verlenen van verlof
 
@@ -1432,31 +1438,35 @@ Verlof wordt verleend door de commandant van de militair tenzij in dit hoofdstuk
 
 ##### Artikel 63. Verlenen van verlof
 
-1. Het verlof waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al of niet op zijn aanvraag verleend.
+1. Het verlof, bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-09-13&g=2002-09-13), waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al dan niet op zijn aanvraag verleend.
 
-2. Verlof op aanvraag wordt, onder vermelding van de redenen, niet verleend voor zover de belangen van de dienst dit, naar het oordeel van degene die bevoegd is het verlof te verlenen, vorderen.
+2. Verlof op aanvraag als bedoeld in het eerste lid, wordt, onder vermelding van de redenen, niet verleend voor zover de belangen van de dienst dit, naar het oordeel van degene die bevoegd is het verlof te verlenen, vorderen.
+
+3. Het verlof, bedoeld in [artikel 61, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-09-13&g=2002-09-13), wordt na melding door de militair verleend met inachtneming van de Wet arbeid en zorg en de bepalingen in paragraaf 4b van dit hoofdstuk.
 
 ##### Artikel 64. Dagen die niet als verlof worden aangemerkt
 
-1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of artikel 86, aanhef en onder b van dit besluit wordt genoten.
+1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-09-13&g=2002-09-13) wordt genoten.
 
-2. De dagen waarop een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof of extra verlof aanspraak zou hebben kunnen maken op buitengewoon verlof als bedoeld in artikel 85, worden - met inachtneming van het tweede lid van dat artikel - aangemerkt als buitengewoon verlof en niet als vakantieverlof, inschepings- of ontschepingsverlof of extra verlof, mits hij degene die het verlof heeft verleend, zo spoedig mogelijk van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
+2. Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-09-13&g=2002-09-13) of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-09-13&g=2002-09-13), wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend aangemerkt, maar, met inachtneming van [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-09-13&g=2002-09-13), onderscheidenlijk [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-09-13&g=2002-09-13) als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij degene die het verlof heeft verleend, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
 
-##### Artikel 65. Intrekken van verleend verlof
+##### Artikel 65. Intrekken of beëindiging van verleend of aangevangen verlof
 
-1. Verleend verlof kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
+1. Verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-09-13&g=2002-09-13), kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
 
-2. Een dag waarop een militair door een maatregel als bedoeld in het vorige lid slechts voor een gedeelte verlof heeft genoten, wordt niet aangemerkt als een verlofdag.
+2. Een dag waarop een militair door een maatregel als bedoeld in het eerste lid slechts voor een gedeelte verlof heeft genoten, wordt niet aangemerkt als een verlofdag.
 
-3. Voorts kan verleend verlof geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
+3. Voorts kan verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-09-13&g=2002-09-13), geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
+
+4. Buitengewoon verlof in het kader van arbeid en zorg eindigt met inachtneming van [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-09-13&g=2002-09-13).
 
 ##### Artikel 66. Verlof buiten het land van plaatsing
 
 De militair die voornemens is een verlof door te brengen buiten het land waar hij is geplaatst kan om redenen van operationele aard door degene die tot het verlenen van het verlof bevoegd is, worden verplicht hem van dat voornemen tijdig schriftelijk mededeling te doen onder vermelding van het land of de landen die hij tijdens zijn verlof zal bezoeken.
 
-##### Artikel 67. Vergoeding van schade ten gevolge van het niet doorgaan van verlof
+##### Artikel 67. Vergoeding van schade ten gevolge van het niet doorgaan of beëindigen van verlof
 
-1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens artikel 65, eerste lid, of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
+1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-09-13&g=2002-09-13), als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-09-13&g=2002-09-13), of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
 
 2. Aan de militair die met het oog op de besteding van een verlof waarop hij aanspraak kan doen gelden maar dat hem nog niet is verleend, met schriftelijke instemming van degene die tot het verlenen van het verlof bevoegd is, bepaalde voorzieningen heeft getroffen en:
 
@@ -1516,21 +1526,25 @@ Indien een berekening van een vakantieverlof ingevolge de artikelen 69, 70, 71, 
 
 ##### Artikel 70. Verandering van het aantal uren vakantieverlof
 
-1. Het vakantieverlof waarop een militair der zeemacht ingevolge artikel 68 of 69 aanspraak maakt, wordt naar evenredigheid verminderd indien hij een aaneengesloten periode van langer dan een maand geen dienst verricht.
+1. Over kalendermaanden gedurende de welke de militair der zeemacht in het geheel geen dienst verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair der zeemacht gedeeltelijk dienst verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk dienst verricht.
 
-2. Vermindering als bedoeld in het vorige lid vindt niet plaats:
+2. Het eerste lid is niet van toepassing:
 
 - a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
 
-- b. in geval gedurende een periode, korter dan een jaar, geen dienst is verricht wegens zwangerschap en bevalling dan wel wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten;
+- b. in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
 
-- c. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is daartoe aanleiding aanwezig acht.
+- c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;
 
-3. Het vakantieverlof waarop een militair der zeemacht ingevolge artikel 68 of 69 aanspraak maakt
+- d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in artikel 87**a** is verleend;
+3. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2002-09-13&g=2002-09-13) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2002-09-13&g=2002-09-13) aanspraak maakt:
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of artikel 86, aanhef en onder b, is verleend.
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2002-09-13&g=2002-09-13), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87b&z=2002-09-13&g=2002-09-13), is verleend;
+
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-09-13&g=2002-09-13), is verleend.
+
+4. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2002-09-13&g=2002-09-13) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2002-09-13&g=2002-09-13) aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
 
 ##### Artikel 71. Niet verleend vakantieverlof
 
@@ -1590,23 +1604,27 @@ Vervallen
 
 ##### Artikel 75. Verandering van het aantal uren vakantieverlof
 
-1. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge artikel 73 of 74 aanspraak maakt, wordt naar evenredigheid verminderd indien hij een aaneengesloten periode van langer dan een maand geen dienst verricht.
+1. Over kalendermaanden gedurende de welke de militair van de landmacht, de luchtmacht of de marechaussee in het geheel geen dienst verricht, heeft hij geen aanspraak op vakantieverlof. Over kalendermaanden gedurende de welke de militair van de landmacht, de luchtmacht of de marechaussee gedeeltelijk dienst verricht, heeft hij slechts aanspraak op vakantieverlof naar evenredigheid van het gedeelte van de werktijd waarop hij feitelijk dienst verricht.
 
-2. Vermindering als bedoeld in het vorige lid vindt niet plaats:
+2. Het eerste lid is niet van toepassing:
 
 - a. in geval geen dienst is verricht wegens verleend verlof, niet zijnde buitengewoon verlof;
 
-- b. in geval gedurende een periode, korter dan een jaar, geen dienst is verricht wegens zwangerschap en bevalling dan wel wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten;
+- b. in geval geen dienst is verricht wegens zwangerschaps- en bevallingsverlof, als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1);
 
-- c. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is daartoe aanleiding aanwezig acht.
+- c. in geval gedurende een periode, korter dan 52 weken geen dienst is verricht wegens ziekte die niet aan schuld of nalatigheid van de militair is te wijten, waarbij een hervatting gedurende dertig kalenderdagen of minder geen nieuwe periode van 52 weken inluidt;
 
-3. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge artikel 73 of 74 aanspraak maakt
+- d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in artikel 87**a** is verleend;
+3. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-09-13&g=2002-09-13) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-09-13&g=2002-09-13) aanspraak maakt:
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931 of](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) artikel 86, aanhef en onder b, is verleend.
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2002-09-13&g=2002-09-13), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87d&z=2002-09-13&g=2002-09-13), is verleend;
 
-4. Voor de militair van de landmacht, de luchtmacht of de marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge artikel 73 of 74 aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-09-13&g=2002-09-13), is verleend.
+
+4. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-09-13&g=2002-09-13) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-09-13&g=2002-09-13) aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
+
+5. Voor de militair van de landmacht, de luchtmacht of de marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-09-13&g=2002-09-13) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-09-13&g=2002-09-13) aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
 
 ##### Artikel 76. Verlenen van vakantieverlof
 
@@ -1616,7 +1634,7 @@ Vervallen
 
 - b. niet op zijn aanvraag, voor zover naar het oordeel van degene die het verlof verleent, de belangen van de dienst dat vorderen.
 
-2. Aan de militair wordt in elk kalenderjaar ten minste 120 uren vakantieverlof verleend, waarvan ten minste 80 uren aaneengesloten.
+2. Aan de militair dient in elk kalenderjaar ten minste 120 uren vakantieverlof te worden verleend, waarvan ten minste 80 uren aaneengesloten of tot in evenredigheid lagere getallen indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531).
 
 ##### Artikel 77. Vakantieverlof op aanvraag
 
@@ -1652,7 +1670,7 @@ Vervallen
 
 ##### Artikel 80. Niet verleend vakantieverlof
 
-1. Niet verleend vakantieverlof, waaronder eventueel van vorige jaren overgeboekt vakantieverlof, wordt overgeboekt naar het volgende kalenderjaar tot een maximum van 80 uren.
+1. Niet verleend vakantieverlof, waaronder eventueel van vorige jaren overgeboekt vakantieverlof, wordt overgeboekt naar het volgende kalenderjaar tot een maximum van 80 uren of tot een evenredig lager getal indien de militair buitengewoon verlof in verband met deeltijdarbeid is verleend op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531).
 
 2. Uitsluitend indien operationele omstandigheden het tot het verlof verlenen bevoegd gezag hebben verhinderd vakantieverlof te verlenen of, naar het oordeel van het tot het verlof verlenen bevoegd gezag, gewichtige persoonlijke omstandigheden de militair hebben verhinderd het vakantieverlof te genieten, kan worden afgeweken van het overeenkomstig het eerste lid maximaal naar het volgend kalenderjaar over te boeken vakantieverlof.
 
@@ -1720,41 +1738,27 @@ Vervallen
 
 1. Aan de militair wordt op zijn aanvraag buitengewoon verlof met behoud van militaire inkomsten verleend:
 
-- a. tot het voldoen aan een wettelijke verplichting of tot het uitoefenen van het kiesrecht, tenzij hij daaraan op zodanige wijze uitvoering kan geven dat het verlenen van verlof niet noodzakelijk is;
+- a. tot het bijwonen van vergaderingen van organen van het georganiseerd overleg militairen;
 
-- b. tot het bijwonen van vergaderingen van organen van het georganiseerd overleg militairen;
+- b. voor het verrichten van werkzaamheden ten behoeve van verenigingen van militairen, die aangesloten zijn bij een tot het overleg toegelaten centrale van overheidspersoneel als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=4), zulks volgens bij ministeriële regeling te stellen regels.
 
-- c. voor het verrichten van werkzaamheden ten behoeve van verenigingen van militairen, die aangesloten zijn bij een tot het overleg toegelaten centrale van overheidspersoneel als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=4), zulks volgens bij ministeriële regeling te stellen regels.
+- c. tot het verkrijgen van woonruimte, indien de plaats waar hij in de regel zijn dienst verricht, verandert: voor ten hoogste twee werkdagen ingeval het land van plaatsing niet verandert, en voor ten hoogste vier werkdagen indien het land van plaatsing wel verandert, welke dagen desgewenst in halve dagen kunnen worden verleend;
 
-- d. tot het verkrijgen van woonruimte, indien de plaats waar hij in de regel zijn dienst verricht, verandert: voor ten hoogste twee werkdagen ingeval het land van plaatsing niet verandert, en voor ten hoogste vier werkdagen indien het land van plaatsing wel verandert, welke dagen desgewenst in halve dagen kunnen worden verleend;
+- d. bij verhuizing, indien de plaats waar hij in de regel zijn dienst verricht, verandert: voor ten hoogste vier werkdagen, indien de militair een eigen huishouding voert, of voor ten hoogste twee werkdagen, indien zulks niet het geval is;
 
-- e. bij verhuizing, indien de plaats waar hij in de regel zijn dienst verricht, verandert: voor ten hoogste vier werkdagen, indien de militair een eigen huishouding voert, of voor ten hoogste twee werkdagen, indien zulks niet het geval is;
+- e. bij zijn ondertrouw: voor één werkdag, indien de ondertrouw op zulk een dag valt;
 
-- f. bij zijn ondertrouw: voor één werkdag, indien de ondertrouw op zulk een dag valt;
+- f. bij zijn huwelijk: voor vier werkdagen, met dien verstande dat de militair dat verlof desgewenst kan opnemen gedeeltelijk ten tijde van de voltrekking van het huwelijk en gedeeltelijk ten tijde van de godsdienstige plechtigheden die verband houden met het huwelijk;
 
-- g. bij zijn huwelijk: voor vier werkdagen, met dien verstande dat de militair dat verlof desgewenst kan opnemen gedeeltelijk ten tijde van de voltrekking van het huwelijk en gedeeltelijk ten tijde van de godsdienstige plechtigheden die verband houden met het huwelijk;
+- g. bij het huwelijk van bloed- of aanverwanten in de eerste graad, van stief- of pleegouders, dan wel van stief- of pleegkinderen: voor één werkdag, indien het huwelijk wordt voltrokken in de woonplaats van de militair, en voor ten hoogste twee werkdagen, indien het huwelijk buiten die plaats wordt voltrokken;
 
-- h. bij het huwelijk van bloed- of aanverwanten in de eerste graad, van stief- of pleegouders, dan wel van stief- of pleegkinderen: voor één werkdag, indien het huwelijk wordt voltrokken in de woonplaats van de militair, en voor ten hoogste twee werkdagen, indien het huwelijk buiten die plaats wordt voltrokken;
+- h. bij de toekenning van een diensttijdgratificatie wegens het volbrengen van een diensttijd van 25 of 35 jaren, en bij zijn vijfentwintig- en veertigjarig huwelijksjubilieum: voor één werkdag, indien de datum van de gebeurtenis op zulk een dag valt of op zulk een dag wordt gevierd;
 
-- i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen;
+- i. tot het bijwonen van het vijfentwintig-, het veertig-, het vijftig- en het zestigjarig huwelijksjubileum van zijn ouders, stief-, pleeg-, schoon- of grootouders: voor één werkdag, indien het jubileum op zulk een dag valt of op zulk een dag wordt gevierd;
 
-- j. bij overlijden van personen, genoemd onder i.: vanaf het overlijden tot en met de dag van de begrafenis of de crematie en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten;
+- j. tot het deelnemen aan een bezinningsbijeenkomst, georganiseerd door of met medewerking van een dienst van de geestelijke verzorging bij de krijgsmacht: eenmaal per kalenderjaar voor ten hoogste twee werkdagen;
 
-- k. bij overlijden van: met dien verstande dat indien de militair is belast met de regeling van de begrafenis of de crematie of van de nalatenschap dan wel van beide, het verlof voor ten hoogste vier werkdagen kan worden verleend en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten;
-
-- 1°. bloed- of aanverwanten in de tweede graad, dan wel van pleegbroers of -zusters: voor ten hoogste twee werkdagen;
-
-- 2°. bloed- of aanverwanten in de derde of vierde graad: voor één werkdag,
-
-- l. bij bevalling van zijn echtgenote: voor twee werkdagen;
-
-- m. bij de toekenning van een diensttijdgratificatie wegens het volbrengen van een diensttijd van 25 of 35 jaren, en bij zijn vijfentwintig- en veertigjarig huwelijksjubilieum: voor één werkdag, indien de datum van de gebeurtenis op zulk een dag valt of op zulk een dag wordt gevierd;
-
-- n. tot het bijwonen van het vijfentwintig-, het veertig-, het vijftig- en het zestigjarig huwelijksjubileum van zijn ouders, stief-, pleeg-, schoon- of grootouders: voor één werkdag, indien het jubileum op zulk een dag valt of op zulk een dag wordt gevierd;
-
-- o. tot het deelnemen aan een bezinningsbijeenkomst, georganiseerd door of met medewerking van een dienst van de geestelijke verzorging bij de krijgsmacht: eenmaal per kalenderjaar voor ten hoogste twee werkdagen;
-
-- p. voor het afleggen van bezoeken of het voldoen aan oproepingen, verband houdende met het zoeken van een werkkring: gedurende de laatste zes maanden van zijn verblijf in werkelijke dienst voor in totaal ten hoogste vier werkdagen;
+- k. voor het afleggen van bezoeken of het voldoen aan oproepingen, verband houdende met het zoeken van een werkkring: gedurende de laatste zes maanden van zijn verblijf in werkelijke dienst voor in totaal ten hoogste vier werkdagen;
 
 2. Buitengewoon verlof als bedoeld in het eerste lid wordt niet verleend en verleend verlof wordt ingetrokken, indien het niet zal of kan worden gebruikt voor het doel waarvoor het is bestemd.
 
@@ -1778,47 +1782,39 @@ In andere gevallen dan die, genoemd in artikel 85, kan aan de militair op zijn a
 
 5. Het verlof, bedoeld in de vorige leden, gaat niet eerder in dan na aanvaarding van dat verlof met de daaraan verbonden voorwaarden door de militair.
 
-##### Artikel 87a. Buitengewoon verlof in verband met ouderschap
+##### Artikel 87a. Buitengewoon verlof bij calamiteiten en zeer bijzondere persoonlijke omstandigheden
 
-1. De in Nederland werkzame militair die als ouder in een familierechtelijke betrekking staat tot een kind heeft, indien hij ten minste één jaar in werkelijke dienst is, aanspraak op verlof. Indien de in Nederland werkzame militair met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan, bestaat, indien hij ten minste één jaar in werkelijke dienst is, er ten aanzien van ieder van die kinderen aanspraak op verlof.
+1. Onverminderd [artikel 4:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:1) wordt aan de militair buitengewoon verlof met behoud van militaire inkomsten verleend:
 
-2. De in Nederland werkzame militair die blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als een kind en duurzaam de verzorging en opvoeding van dat kind als eigen kind op zich heeft genomen, heeft, indien hij ten minste één jaar in werkelijke dienst is, eveneens aanspraak op verlof. Indien de in Nederland werkzame militair met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, bestaat, indien hij ten minste één jaar in werkelijke dienst is, er ten aanzien van ieder van die kinderen aanspraak op verlof. In alle andere gevallen waarin de in de eerste volzin gestelde voorwaarden ten aanzien van meer dan één kind met ingang van hetzelfde tijdstip worden vervuld, bestaat slechts aanspraak op één keer verlof.
+- bij plotselinge ziekte van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad of wanneer een andere noodsituatie, waarvoor de militair onverwijld een voorziening moet treffen, ontstaat: voor de duur benodigd voor de eerste opvang en het treffen van verdere voorzieningen, maar voor ten hoogste één werkdag per zich voordoende situatie;
 
-3. Geen aanspraak op verlof bestaat over tijdvakken gelegen na de datum waarop het kind de leeftijd van acht jaren heeft bereikt.
+- bij de bevalling van zijn echtgenote of de persoon met wie de militair ongehuwd samenwoont;
 
-4. Het verlof strekt zich uit over een aaneengesloten periode van maximaal zes maanden en bedraagt ten hoogste de helft van de voor de militair geldende arbeidsduur per week.
+- bij overlijden en lijkbezorging van de echtgenote of echtgenoot van de militair, de persoon met wie de militair ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad: vanaf het overlijden tot en met de dag van de begrafenis of de crematie en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten;
 
-5. Het verlof wordt aan de militair verleend met behoud van 75% van zijn inkomsten.
+- bij overlijden van:
 
-6. De militair kan door de bevelhebber worden verplicht tot terugbetaling van de tijdens het verlof genoten inkomsten wanneer hem tijdens de verlofperiode of binnen één jaar na afloop van het verlof ontslag wordt verleend op zijn aanvraag dan wel niet op zijn aanvraag op grond van aan de militair te wijten omstandigheden of, wanneer hij is aangesteld voor bepaalde tijd, ter zake van het eindigen van de tijd waarvoor de aanstelling is geschied. De verplichting tot terugbetaling wordt beperkt tot een bedrag dat evenredig is aan het aantal maanden dat ontbreekt aan de periode van één jaar. Indien het ontslag verband houdt met een aanstelling als burgerlijk ambtenaar bij het Ministerie van Defensie of indiensttreding bij een andere overheidssector bestaat geen verplichting tot terugbetaling.
+- bloed- of aanverwanten in de 2e graad, dan wel van pleegbroers of -zusters: voor ten hoogste 2 werkdagen;
 
-7. In afwijking van de eerste volzin van het vierde lid kan de militair de commandant verzoeken om het verlof op een andere wijze aaneengesloten te genieten, mits daardoor het maximale aantal verlofuren dat over een aaneengesloten periode van zes maanden aan de militair kan worden verleend, niet wordt overschreden. De commandant stemt in met dit verzoek tenzij gewichtige redenen van dienstbelang zich daartegen verzetten.
+- bloed- of aanverwanten in de 3e of 4e graad of een van zijn huisgenoten: voor 1 werkdag,
 
-8. De militair meldt het voornemen om verlof te nemen ten minste zes maanden voor het tijdstip van ingang van het verlof schriftelijk aan de commandant onder opgave van:
+met dien verstande dat indien de militair is belast met de regeling van de begrafenis, de crematie of van de nalatenschap dan wel van beide, het verlof voor ten hoogste 4 werkdagen kan worden verleend en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten.
 
-- a. de aaneengesloten periode van het verlof;
+2. De militair meldt vooraf aan de commandant dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de militair het opnemen van het verlof zo spoedig mogelijk aan de commandant onder opgave van de reden.
 
-- b. het aantal uren verlof per week;
+3. Het verlof, bedoeld in het eerste lid, vangt niet aan of eindigt in ieder geval zodra de commandant aan hem kenbaar maakt dat tegen het opnemen van het verlof onderscheidenlijk de voortzetting daarvan een zodanig zwaarwegend dienstbelang bestaat, dat het belang van de militair daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.
 
-- c. de spreiding van deze verlofuren over de week.
+4. Van een zwaarwegend dienstbelang als bedoeld in het derde lid, is in ieder geval sprake bij het varen, het vliegen en oefeningen en de direct daarmee samenhangende werkzaamheden als mede de daadwerkelijke inzet van de krijgsmacht en de voorbereiding daarop.
 
-De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de (vermoedelijke) datum van de bevalling, van het (vermoedelijke) einde van het bevallingsverlof of van de (vermoedelijke) aanvang van de verzorging.
-
-9. De commandant kan na overleg met de militair, de spreiding van de uren over de week op grond van gewichtige redenen van dienstbelang wijzigen en wel tot vier weken vóór het door de militair opgegeven tijdstip van ingang van het verlof.
-
-10. De commandant is gehouden in te stemmen met een verzoek van de militair het verlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden, tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten. De commandant behoeft aan dat aanvraag niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na indiening van het aanvraag. In het geval dat het verlof met toepassing van de eerste volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, vervalt de aanspraak op het overige deel van dat verlof.
-
-11. De commandant kan bepalen dat de aanspraak op buitengewoon verlof in verband met ouderschap op grond van gewichtige redenen van dienstbelang wordt opgeschort.
-
-12. Het gestelde in de artikelen 63, 64, 65 en 67 is niet van toepassing op de militair die ouderschapsverlof geniet.
+5. De commandant kan achteraf van de militair verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens een van de redenen, genoemd in het eerste lid.
 
 #### § 5. Bijzondere bepalingen
 
 ##### Artikel 88. Verlofverlening aan militairen, werkzaam in continu- of ploegendienst
 
-1. Voor de toepassing van dit hoofdstuk wordt, ingeval het betreft buitengewoon verlof anders dan van lange duur of extra verlof, toekomend aan een militair die werkzaamheden en/of diensten in continu- of ploegendienst verricht, onder werkdag verstaan elke tijdseenheid van ten hoogste vierentwintig uur gedurende welke de militair volgens het voor hem geldende rooster zodanige werkzaamheden en/of diensten moet verrichten.
+1. Voor de toepassing van dit hoofdstuk wordt, ingeval het betreft buitengewoon verlof anders dan van lange duur of buitengewoon verlof in het kader van arbeid en zorg, toekomend aan een militair die werkzaamheden en/of diensten in continu- of ploegendienst verricht, onder werkdag verstaan elke tijdseenheid van ten hoogste vierentwintig uur gedurende welke de militair volgens het voor hem geldende rooster zodanige werkzaamheden en/of diensten moet verrichten.
 
-2. Indien aan de in het vorige lid bedoelde militair met toepassing van artikel 85 of 86 buitengewoon verlof wordt verleend, kan daarbij:
+2. Indien aan de in het eerste lid bedoelde militair met toepassing van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-09-13&g=2002-09-13), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-09-13&g=2002-09-13) of [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-09-13&g=2002-09-13) buitengewoon verlof onderscheidenlijk buitengewoon verlof in het kader van arbeid en zorg wordt verleend kan daarbij:
 
 - a. overschrijding plaatsvinden van het met toepassing van het vorige lid vastgestelde aantal tijdseenheden buitengewoon verlof, indien zulks nodig is ter verwezenlijking van het met het buitengewoon verlof beoogde doel;
 
@@ -2130,7 +2126,7 @@ Vervallen
 
 4. Indien de gewezen militair binnen een tijdvak van vier weken, nadat de volgens het tweede en derde lid geregelde doorbetaling van zijn laatstelijk genoten bezoldiging in verband met zijn herstel is gestaakt, wederom wegens ziekte of een gebrek ongeschikt wordt voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht, wordt de nieuw opgetreden ongeschiktheid als een voortzetting van de vorige ongeschiktheid beschouwd en wordt de doorbetaling van de laatstelijk genoten bezoldiging hervat. Voor het bepalen van het tijdstip, waarop de in het tweede en derde lid bedoelde termijnen zijn verstreken, worden perioden van in die leden bedoelde ongeschiktheid welke elkaar met een onderbreking van minder dan vier weken zijn opgevolgd, samengeteld.
 
-- a. Het tweede, derde en vierde lid zijn eveneens van toepassing op de gewezen vrouwelijke militair die na afloop van de periode waarin zij aanspraak heeft op een uitkering ingevolge artikel 3 van de wet Regels betreffende de aanspraak op zwangerschaps- en bevallingsverlof van overheids- en onderwijspersoneel (Stb. 1991, 347) nog wegens ziekte arbeidsongeschikt is voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht.
+- a. Het tweede, derde en vierde lid zijn eveneens van toepassing op de gewezen vrouwelijke militair die na afloop van de periode gedurende welke zij in verband met zwangerschap of bevalling aanspraak heeft op een uitkering op basis van [hoofdstuk 3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3) nog wegens ziekte arbeidsongeschikt is voor het verrichten van naar aard en omvang soortgelijke arbeid als die welke als militair werd verricht.
 
 - b. De in het derde lid bedoelde termijn van een jaar vangt aan op de dag na die van de bevalling.
 
@@ -2516,7 +2512,7 @@ Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](h
 
 1. Aan de militair wordt langer durend zorgverlof met behoud van militaire inkomsten verleend voor hulpverlening aan een tijdelijk ernstig hulpbehoevende of stervende echtgenote, echtgenoot of persoon met wie de militair ongehuwd samenwoont, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen.
 
-2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=87a&z=2002-09-13&g=2002-07-04 jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-09-13&g=2002-07-04), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=87a&z=2002-09-13&g=2002-07-04 jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-09-13&g=2002-07-04), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
+2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-09-13&g=2002-09-13), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-09-13&g=2002-09-13), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
 
 ##### Artikel 87d. Ouderschapsverlof
 
@@ -2556,7 +2552,25 @@ De tijdstippen van ingang en einde van het ouderschapsverlof kunnen afhankelijk 
 
 11. De commandant kan bepalen dat de aanspraak op ouderschapsverlof op grond van gewichtige redenen van dienstbelang wordt opgeschort.
 
-12. Het gestelde in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=63&z=2002-09-13&g=2002-07-04), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2002-09-13&g=2002-07-04), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-09-13&g=2002-07-04) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2002-09-13&g=2002-07-04) is niet van toepassing op de militair die ouderschapsverlof geniet.
+12. Het gestelde in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=63&z=2002-09-13&g=2002-09-13), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2002-09-13&g=2002-09-13), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-09-13&g=2002-09-13) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2002-09-13&g=2002-09-13) is niet van toepassing op de militair die ouderschapsverlof geniet.
+
+#### § 5. Bijzondere bepalingen
+
+### Hoofdstuk 9. Aanspraken en verplichtingen in verband met de gezondheidszorg
+
+##### Artikel 105
+
+Vervallen
+
+### Hoofdstuk 10. Andere voorzieningen van materiële aard
+
+### Hoofdstuk 11. Andere rechten en verplichtingen
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
+
+#### Paragraaf 4b. Buitengewoon verlof in het kader van arbeid en zorg
 
 #### § 5. Bijzondere bepalingen
 
