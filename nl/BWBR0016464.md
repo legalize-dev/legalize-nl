@@ -4,7 +4,7 @@ identifier: "BWBR0016464"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-03-14"
-last_updated: "2003-12-01"
+last_updated: "2004-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016464"
 soort: "ministeriele-regeling"
@@ -72,11 +72,11 @@ Er is een Commissie van Onafhankelijke Deskundigen ten aanzien van de Evaluatie 
 
 ##### Artikel 4
 
-De Commissie rapporteert haar bevindingen omtrent de werkzaamheden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=3&z=2004-03-14&g=2003-12-01), rechtstreeks aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+De Commissie rapporteert haar bevindingen omtrent de werkzaamheden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=3&z=2004-03-14&g=2004-03-14), rechtstreeks aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ##### Artikel 5
 
-De Commissie bepaalt zelf haar werkwijze, met inachtneming van het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=3&z=2004-03-14&g=2003-12-01) en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=6&z=2004-03-14&g=2003-12-01).
+De Commissie bepaalt zelf haar werkwijze, met inachtneming van het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=3&z=2004-03-14&g=2004-03-14) en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016464&artikel=6&z=2004-03-14&g=2004-03-14).
 
 ##### Artikel 6
 
