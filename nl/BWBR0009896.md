@@ -91,15 +91,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van de uitgifte 
 Dit besluit wordt aangehaald als: Besluit bestuursorganen WNo en Wob.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1b
-
-Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) zijn uitgezonderd: regionale commissies voor de toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3), voor zover het betreft beoordelingen op grond van [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=8).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
