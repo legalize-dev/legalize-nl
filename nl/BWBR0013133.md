@@ -4,7 +4,7 @@ identifier: "BWBR0013133"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-15"
-last_updated: "2003-11-19"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013133"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De buitengriffier, bedoeld in [artikel 14, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14) legt de eed of belofte af ten overstaan van het bestuur van het gerecht. Bij het afleggen van de eed of belofte is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
+1. Bij het afleggen van de eed of belofte door de buitengriffier bedoeld in [artikel 14, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
 
 2. Na het afleggen van de eed of belofte, bedoeld in het eerste lid, wordt het formulier ondertekend door de buitengriffier en de getuige en het bestuur die bij de beëdiging aanwezig waren.
 
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De waarnemend griffier, bedoeld in [artikel 73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73) legt de eed of belofte af ten overstaan van de president van de Hoge Raad. Bij het afleggen van de eed of belofte is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
+1. Bij het afleggen van de eed of belofte door de waarnemend griffier bedoeld in [artikel 73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73), is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
 
 2. Na het afleggen van de eed of belofte door de waarnemend griffier, wordt het formulier ondertekend door de waarnemend griffier en de president en de getuige die bij de beëdiging aanwezig waren.
 
@@ -86,7 +86,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers.
 
-## Bijlage. bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2003-11-19&g=2003-11-19), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2003-11-19&g=2003-11-19), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
+## Bijlage. bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2004-07-01&g=2004-07-01), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2004-07-01&g=2004-07-01), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
 
 **Formulier voor het afleggen van de eed of belofte**
 
