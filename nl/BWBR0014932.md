@@ -109,13 +109,3 @@ De in dit besluit bedoelde zaken en diensten ten behoeve van het krachtens de hu
 De administratiekosten van het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders, alsmede die van de overige in dit besluit bedoelde zaken en diensten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### 2. Elektriciteit, gas en water
-
-### 3. Roerende zaken
-
-De krachtens de huurovereenkomst mede ter beschikking gestelde roerende zaken in het woonruimtegedeelte van het gehuurde dan wel in de gemeenschappelijke gedeelten, waaronder in elk geval:
-
-### 4. Kleine herstellingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
