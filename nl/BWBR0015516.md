@@ -102,5 +102,3 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit tarieven in 
 ## Bijlage 4
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
