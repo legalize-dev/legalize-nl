@@ -4,7 +4,7 @@ identifier: "BWBR0006856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-11-21"
-last_updated: "2001-03-15"
+last_updated: "2003-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006856"
 soort: "ministeriele-regeling"
@@ -56,21 +56,25 @@ De adviescommissie Fuwa heeft tot taak:
 
 1. De adviescommissie Fuwa is als volgt samengesteld:
 
-- a. mevrouw J.D. de Zwarte, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (voorzitter);
+- a. mevrouw A.M. Salomon, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (voorzitter);
 
-- b. de heer J.K. Sweers, Algemeen Christelijke Politiebond;
+- b. de heer F. Diepenbach, Nederlands Politie Instituut;
 
-- c. de heer R.J.J. Lucardie, politieregio Gooi- en Vechtstreek;
+- c. de heer J. A. Eringaard, Nederlandse Politiebond;
 
-- d. de heer S.J. Rathman, politieregio Noord-Holland Noord;
+- d. de heer S.J. Rathman, regionaal politiekorps Noord-Holland Noord;
 
-- e. de heer J. Valk, politieregio Utrecht;
+- e. de heer N.Th.P. Remkes, regionaal politiekorps Twente;
 
 - f. de heer A.G. van Santen, Korps Landelijke Politiediensten;
 
-- g. de heer J.W. van de Pol, Nederlandse Politiebond.
+- g. de heer J.K. Sweers, Algemeen Christelijke Politiebond;
 
-2. Indien de adviescommissie Fuwa dat wenselijk oordeelt kunnen deskundigen voor vergaderingen van de adviescommissie Fuwa worden uitgenodigd.
+- h. de heer J. Valk, regionaal politiekorps Utrecht; allen leden.
+
+2. Aan de commissie is toegevoegd een secretaris, mevrouw A. de Neyn van Hoogwerff-de Geus.
+
+3. Indien de adviescommissie Fuwa dat wenselijk oordeelt kunnen deskundigen voor vergaderingen van de adviescommissie Fuwa worden uitgenodigd.
 
 ##### Artikel 4
 
