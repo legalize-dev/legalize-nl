@@ -4,7 +4,7 @@ identifier: "BWBR0003237"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-07-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003237"
 soort: "AMvB"
@@ -72,33 +72,33 @@ Vervallen
 
 1. De in [artikel 15, eerste lid, van de Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=15) bedoelde beoordeling door de huurcommissie van de kwaliteit van woonruimte vindt plaats:
 
-- a. voor woonruimte, welke een zelfstandige woning vormt, overeenkomstig het in [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting.
+- a. voor woonruimte, welke een zelfstandige woning vormt, overeenkomstig het in [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting.
 
-- b. voor een woonwagen of een standplaats overeenkomstig het in [bijlage I, onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting;
+- b. voor een woonwagen of een standplaats overeenkomstig het in [bijlage I, onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van dit besluit vervatte waarderingsstelsel en de daarbij gegeven toelichting;
 
-- c. voor woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het in [bijlage I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van dit besluit vervatte waarderingsstelsel en de bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), gegeven toelichting voorzover deze mede op [bijlage I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van toepassing is.
+- c. voor woonruimte, welke niet een zelfstandige woning vormt, overeenkomstig het in [bijlage I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van dit besluit vervatte waarderingsstelsel en de bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), gegeven toelichting voorzover deze mede op [bijlage I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van toepassing is.
 
 2. De huurcommissie kan, indien de aard van de woonruimte daartoe aanleiding geeft, de kwaliteit van woonruimte beoordelen in afwijking van het in het eerste lid bepaalde.
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=III&z=2002-07-01&g=2002-07-01) van dit besluit vervatte schema.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=III&z=2003-01-01&g=2003-01-01) van dit besluit vervatte schema.
 
-2. Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge artikel 17, vijfde lid in verbinding met het tweede lid, of artikel 18, tweede lid, van de Huurprijzenwet woonruimte neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01) van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld:
+2. Bij de beoordeling van de redelijkheid van de in rekening te brengen huurprijs ingevolge artikel 17, vijfde lid in verbinding met het tweede lid, of artikel 18, tweede lid, van de Huurprijzenwet woonruimte neemt de huurcommissie in aanmerking of zich met betrekking tot de woonruimte een of meer van de omstandigheden, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01) van dit besluit, voordoen. Daarbij wordt door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld:
 
-- a. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit: 20% van de maximale huurprijsgrens;
+- a. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit: 20% van de maximale huurprijsgrens;
 
-- b. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit: 30% van de maximale huurprijsgrens;
+- b. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie B](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit: 30% van de maximale huurprijsgrens;
 
-- c. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit: 40% van de maximale huurprijsgrens.
+- c. indien zich een omstandigheid voordoet als bedoeld in [bijlage II, onder 1, categorie C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit: 40% van de maximale huurprijsgrens.
 
 3. Teneinde huurder en verhuurder inzicht te bieden in het beleid van de huurcommissie inzake de in het tweede lid bedoelde categorieën en de daarbij behorende verlaging van de in rekening te brengen huurprijs die de huurcommissie doorgaans redelijk zal achten, stelt de secretaris van iedere huurcommissie op basis van door de huurcommissie geformuleerde beleidsuitgangspunten een geschrift op, genaamd gebrekenboek. Het gebrekenboek is openbaar en ligt bij het secretariaat ter inzage.
 
-4. In het gebrekenboek, bedoeld in het derde lid, wordt voor ieder van de in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit bedoelde omstandigheden aangegeven welke de door de betrokken huurcommissie ten laagste uit te spreken in rekening te brengen huurprijs zal zijn.
+4. In het gebrekenboek, bedoeld in het derde lid, wordt voor ieder van de in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit bedoelde omstandigheden aangegeven welke de door de betrokken huurcommissie ten laagste uit te spreken in rekening te brengen huurprijs zal zijn.
 
-5. Indien de huurcommissie de in [bijlage II, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit beschreven categorieën heeft onderverdeeld naar de mate van de ernst waarin de bewoonbaarheid naar haar oordeel wordt geschaad, is het vierde lid op die onderverdeling van overeenkomstige toepassing.
+5. Indien de huurcommissie de in [bijlage II, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit beschreven categorieën heeft onderverdeeld naar de mate van de ernst waarin de bewoonbaarheid naar haar oordeel wordt geschaad, is het vierde lid op die onderverdeling van overeenkomstige toepassing.
 
-6. Indien zich tegelijkertijd twee of meer omstandigheden voordoen als bedoeld in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2002-07-01&g=2002-07-01), van dit besluit wordt voor de toepassing van het tweede lid door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld de huurprijs, behorend bij de omstandigheid waarvan door de huurcommissie in het gebrekenboek de laagste in rekening te brengen huurprijs is aangegeven.
+6. Indien zich tegelijkertijd twee of meer omstandigheden voordoen als bedoeld in [bijlage II, onder 1, categorieën A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=II&z=2003-01-01&g=2003-01-01), van dit besluit wordt voor de toepassing van het tweede lid door de huurcommissie ten laagste als de in rekening te brengen huurprijs die zij redelijk acht, vermeld de huurprijs, behorend bij de omstandigheid waarvan door de huurcommissie in het gebrekenboek de laagste in rekening te brengen huurprijs is aangegeven.
 
 ##### Artikel 7
 
@@ -114,7 +114,7 @@ Vervallen
 
 ##### Artikel 8a
 
-Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder **d**, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) (**Stb.** 638) en indien woonruimte behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder **g**, van die wet, in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed, beoordeelt de huurcommissie de redelijkheid van een wijziging van de huurprijs of de redelijkheid van een huurprijs als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=10), eerste lid, [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=17), tweede lid, en [18, tweede lid van de Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=18), met inachtneming van de door de verhuurder voor de instandhouding van de monumentale waarde gemaakte kosten. Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5&z=2002-07-01&g=2002-07-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2002-07-01&g=2002-07-01), is niet van toepassing.
+Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder **d**, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) (**Stb.** 638) en indien woonruimte behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder **g**, van die wet, in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed, beoordeelt de huurcommissie de redelijkheid van een wijziging van de huurprijs of de redelijkheid van een huurprijs als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=10), eerste lid, [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=17), tweede lid, en [18, tweede lid van de Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=18), met inachtneming van de door de verhuurder voor de instandhouding van de monumentale waarde gemaakte kosten. Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5&z=2003-01-01&g=2003-01-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=6&z=2003-01-01&g=2003-01-01), is niet van toepassing.
 
 ##### Artikel 9
 
@@ -132,7 +132,7 @@ Vervallen
 
 1. Bij ministeriële regeling worden de maximale huurprijsgrenzen vastgesteld.
 
-2. Bij ministeriële regeling worden elk jaar op 1 juli de in de linkerkolom van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=III&z=2002-07-01&g=2002-07-01) opgenomen schema genoemde percentages geïndexeerd met het inflatiepercentage, met dien verstande dat de geïndexeerde percentages naar boven worden afgerond indien het eerste cijfer achter de komma 5 of meer bedraagt, en naar beneden worden afgerond indien het eerste cijfer achter de komma minder dan 5 bedraagt.
+2. Bij ministeriële regeling worden elk jaar op 1 juli de in de linkerkolom van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=III&z=2003-01-01&g=2003-01-01) opgenomen schema genoemde percentages geïndexeerd met het inflatiepercentage, met dien verstande dat de geïndexeerde percentages naar boven worden afgerond indien het eerste cijfer achter de komma 5 of meer bedraagt, en naar beneden worden afgerond indien het eerste cijfer achter de komma minder dan 5 bedraagt.
 
 ##### Artikel 13
 
@@ -148,7 +148,7 @@ Onze Minister kan nadere voorschriften geven omtrent de uitvoering van dit beslu
 
 ### A. Het waarderingsstelsel voor woonruimte welke een zelfstandige woning vormt
 
-### Toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), het waarderingsstelsel voor woonruimte welke een zelfstandige woning vormt
+### Toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), het waarderingsstelsel voor woonruimte welke een zelfstandige woning vormt
 
 ### Inleiding
 
@@ -266,7 +266,7 @@ Indien het sanitair en/of de afwerking van de bad- of doucheruimte een kwaliteit
 
 ### 6a. Voorzieningen als bedoeld in artikel 10, eerste lid, onder a of b, van de Huurprijzenwet woonruimte (woonvoorzieningen voor gehandicapten)
 
-Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in artikel 5, derde lid, van de Wet voorzieningen gehandicapten ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1&z=2002-07-01&g=2002-07-01), van genoemde wet, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent).
+Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in artikel 5, derde lid, van de Wet voorzieningen gehandicapten ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1&z=2003-01-01&g=2003-01-01), van genoemde wet, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent).
 
 ### 7. Veroudering
 
@@ -390,7 +390,7 @@ of met sanitair: 63 punten
 
 Aanbouw extra slaapvoorziening : 11 punten
 
-Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van keuken en sanitair extra punten worden toegekend (zie toelichting bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01)). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 10, eerste lid, onder a of b, van de Huurprijzenwet woonruimte.
+Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van keuken en sanitair extra punten worden toegekend (zie toelichting bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01)). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 10, eerste lid, onder a of b, van de Huurprijzenwet woonruimte.
 
 ### B. Standplaatsen:
 
@@ -406,7 +406,7 @@ Standplaatsen vanaf 170 m2 met berging en sanitair : 53 punten
 
 of met berging maar zonder sanitair: 37 punten
 
-Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van sanitair extra kwaliteitspunten worden toegekend (zie toelichting bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01),). Bij standplaatsen, groter dan 200 m2, kunnen voor het aspect privé buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend (zie toelichting, onder I, punt 7). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 10, eerste lid, onder a of b, van de Huurprijzenwet woonruimte.
+Boven de aangegeven puntentotalen kunnen voor extra kwaliteit van sanitair extra kwaliteitspunten worden toegekend (zie toelichting bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01),). Bij standplaatsen, groter dan 200 m2, kunnen voor het aspect privé buitenruimte ten hoogste 10 extra kwaliteitspunten worden toegekend (zie toelichting, onder I, punt 7). Boven de aangegeven puntentotalen kunnen tevens extra punten worden toegekend voor woonvoorzieningen ten behoeve van een gehandicapte, als bedoeld in artikel 10, eerste lid, onder a of b, van de Huurprijzenwet woonruimte.
 
 ### II. Woonomgeving:
 
@@ -420,7 +420,7 @@ Ten hoogste 6,7 punten af te trekken van de basiswaardering van de woonwagen en 
 
 Ten hoogste 40 punten af te trekken van de basiswaardering van de standplaats.
 
-### Toelichting behorende bij [bijlage I, onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), het waarderingsstelsel voor woonwagens en standplaatsen
+### Toelichting behorende bij [bijlage I, onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), het waarderingsstelsel voor woonwagens en standplaatsen
 
 ### Inleiding
 
@@ -444,7 +444,7 @@ In de samenvatting van deze toelichting is de onderbouwing van de basiswaarderin
 
 ### 1. Oppervlakte van vertrekken (alleen voor wagens): 1 punt per m2.
 
-De maten en de puntenaantallen zijn, zoals hiervoor reeds is vermeld, gerelateerd aan de standaardafmetingen van de zogenaamde VROM-huurwagens. Meting van de oppervlakte geschiedt met inachtneming van de richtlijnen die zijn neergelegd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01) van dit besluit. De standaardlengten bij wagens zijn 9,1 m, 11,1 m, 13 m en 15 m bij een standaardbreedte van 3,5 m.
+De maten en de puntenaantallen zijn, zoals hiervoor reeds is vermeld, gerelateerd aan de standaardafmetingen van de zogenaamde VROM-huurwagens. Meting van de oppervlakte geschiedt met inachtneming van de richtlijnen die zijn neergelegd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01) van dit besluit. De standaardlengten bij wagens zijn 9,1 m, 11,1 m, 13 m en 15 m bij een standaardbreedte van 3,5 m.
 
 Dit geeft afgerond het volgende resultaat:
 
@@ -520,7 +520,7 @@ Standplaatsen met een oppervlakte, groter dan 170m2: 15 punten voor de privé-bu
 
 ### II. Woonomgeving: bijtelling van maximaal 25 punten
 
-Vanwege de woonomgeving kunnen maximaal 25 punten worden toegekend. Deze toekenning van punten is alleen bij de waardering van de standplaats van toepassing. Het verdient aanbeveling de kwaliteit van de ligging en de woonomgeving te beoordelen op de aspecten, die in de tabel a opgenomen in de toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van dit besluit zijn genoemd. Aan de gekozen aspecten, dient een zodanig gewicht te worden gegeven dat het maximaal aantal te behalen punten bij waardering van de gekozen aspecten steeds 25 is. In de lijst van aspecten zijn tevens maatstaven opgenomen voor het beoordelen van de aspecten. In een aantal gevallen wordt de loopafstand als maatstaf aanbevolen. Een overzicht van wat als regel als loopafstand wordt gehanteerd, is in tabel b opgenomen in de toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2002-07-01&g=2002-07-01), van dit besluit.
+Vanwege de woonomgeving kunnen maximaal 25 punten worden toegekend. Deze toekenning van punten is alleen bij de waardering van de standplaats van toepassing. Het verdient aanbeveling de kwaliteit van de ligging en de woonomgeving te beoordelen op de aspecten, die in de tabel a opgenomen in de toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van dit besluit zijn genoemd. Aan de gekozen aspecten, dient een zodanig gewicht te worden gegeven dat het maximaal aantal te behalen punten bij waardering van de gekozen aspecten steeds 25 is. In de lijst van aspecten zijn tevens maatstaven opgenomen voor het beoordelen van de aspecten. In een aantal gevallen wordt de loopafstand als maatstaf aanbevolen. Een overzicht van wat als regel als loopafstand wordt gehanteerd, is in tabel b opgenomen in de toelichting behorende bij [bijlage I, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&bijlage=I&z=2003-01-01&g=2003-01-01), van dit besluit.
 
 ### III. Veroudering: maximale aftrek woonwagens 6,7 punten, maximale aftrek standplaatsen 6,7 punten
 
@@ -546,17 +546,17 @@ Vervallen
 
 ### Categorie A. Zeer ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
-1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar riool, als bedoeld in [artikel 91 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=91), of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen.
+1. Er is geen aansluiting van de woonruimte welke een zelfstandige woning vormt, op het openbaar riool, als bedoeld in [paragraaf 3.8.2 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.8.2), of op een alternatief verwerkingssysteem voor huishoudelijke afvalstoffen.
 
-2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofd woonvertrek, het slaapvertrek of de badruimte, als bedoeld in de [artikelen 92 tot en met 94 van het Bouwbesluit](onbekend).
+2. Er is geen mogelijkheid tot toevoer van verse lucht en afvoer van binnenlucht van de toiletruimte, het vertrek waarin de kookgelegenheid zich bevindt, het hoofd woonvertrek, het slaapvertrek of de badruimte, als bedoeld in de [paragrafen 3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.10.2), [3.12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.12.2), [3.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.13.2) en [3.14.2 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.14.2).
 
-3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in [artikel 98 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=98).
+3. Er is geen daglichttoetreding in het hoofdwoon- of slaapvertrek, als bedoeld in [paragraaf 3.20.2 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.20.2).
 
 4.
 
 5.
 
-6. Er is in de woonruimte welke een zelfstandige woning vormt, niet een aanrecht en opstelplaats voor een kooktoestel, als bedoeld in [artikel 103 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=103), waarvan de aanrecht is voorzien van een spoelbak die is aangesloten op de voorziening voor afvalwater en faecaliën, en van een kraan die is aangesloten op de drinkwatervoorziening.
+6. Er is in de woonruimte welke een zelfstandige woning vormt niet een opstelplaats voor een aanrecht en een opstelplaats voor een kooktoestel als bedoeld in [paragraaf 4.15.2 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=4.15.2), voorzien van een aanrecht met een spoelbak die is aangesloten op de voorziening voor afvoer van afvalwater en fecaliën en van een kraan die is aangesloten op de drinkwatervoorziening.
 
 7. De toegang tot de woonruimte welke een zelfstandige woning vormt, of de toegang van een op de gemeenschappelijke ruimte uitkomend vertrek van de woonruimte welke niet een zelfstandige woning vormt, is niet afsluitbaar.
 
@@ -564,9 +564,9 @@ Vervallen
 
 ### Categorie B. Ernstige gebreken aan en tekortkomingen ten aanzien van de woonruimte
 
-1. Op de woonruimte rust een aanschrijving tot het treffen van voorzieningen op grond van [artikel 14, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=14), voorzover de aan de aanschrijving ten grondslag liggende gebreken of tekortkomingen het woongenot van de gehuurde woonruimte ernstig schaden, aan welke aanschrijving nog niet is voldaan.
+1. Op de woonruimte rust een aanschrijving tot het treffen van voorzieningen op grond van [artikel 14, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=14), voorzover de aan de aanschrijving ten grondslag liggende gebreken of tekortkomingen het woongenot van de gehuurde woonruimte ernstig schaden, aan welke aanschrijving nog niet is voldaan.
 
-2. Op de woonruimte welke een zelfstandige woning vormt, rust een aanschrijving tot het treffen van verbeteringen op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=15), of van ingrepen als bedoeld in [artikel 15a, eerste lid, van de Woningwet](onbekend), voorzover deze verbeteringen dan wel ingrepen nog niet zijn aangebracht.
+2. Op de woonruimte welke een zelfstandige woning vormt, rust een aanschrijving tot het treffen van verbeteringen op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=15), of van ingrepen als bedoeld in [artikel 15a, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=15a), voorzover deze verbeteringen dan wel ingrepen nog niet zijn aangebracht.
 
 3. In keuken, woon- of slaapvertrekken is als gevolg van de bouwkundige staat van de woonruimte sprake van condensatie, doorslaand of optrekkend vocht, waardoor zich zodanige schimmelvorming of houtrot in balken of vloerdelen voordoet, dat de bruikbaarheid van deze vertrekken ernstig is aangetast.
 
@@ -588,7 +588,7 @@ De woonruimte vertoont een gebrek dat of een tekortkoming die:
 
 ### 2. Aanvullende bepalingen met betrekking tot woonwagens en standplaatsen
 
-De combinatie huurwoonwagen op een huurstandplaats wordt – in afwijking van artikel 1 van het besluit – voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning». De [artikelen 161](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=161), [162 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=162), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=166) en [169 tot en met 171 van het Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005321&artikel=169) zijn van toepassing op de omstandigheden, genoemd de punten 1, 2, 3, 4, 5 en 6 van onderdeel 1, categorie A. Dit geldt ook als er sprake is van de combinatie eigen woonwagen op een huurstandplaats, voorzover dit betreft de punten 1, 4 en 5 van onderdeel 1, categorie A. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt. Onderhoudsgebreken of tekortkomingen, als bedoeld in punt 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen nimmer van invloed zijn op de huurprijs van de standplaats.
+De combinatie huurwoonwagen op een huurstandplaats wordt – in afwijking van artikel 1 van het besluit – voor wat betreft het voorzieningenniveau als bedoeld onder 1, categorie A, aangemerkt als zelfstandige «woning». [De paragrafen 3.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.8.2), [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.10.2), [3.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.13.2), [3.14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.14.2), [3.17.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.17.2), [3.20.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=3.20.2), [4.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=4.7.2), [4.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=4.8.2) en [4.15.2 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&paragraaf=4.15.2) zijn van overeenkomstige toepassing op de omstandigheden genoemd in de punten 1 tot en met 6 van onderdeel 1, onder categorie A. Dit geldt ook als er sprake is van de combinatie eigen woonwagen op een huurstandplaats, voorzover dit betreft de punten 1, 4 en 5 van onderdeel 1, categorie A. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt. Onderhoudsgebreken of tekortkomingen, als bedoeld in punt 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen nimmer van invloed zijn op de huurprijs van de standplaats.
 
 ## Bijlage III. bij het Besluit huurprijzen woonruimte
 
