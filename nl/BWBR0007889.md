@@ -4,7 +4,7 @@ identifier: "BWBR0007889"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-02-25"
-last_updated: "1997-05-23"
+last_updated: "2005-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007889"
 soort: "ministeriele-regeling"
@@ -84,11 +84,9 @@ Als leden van de begeleidingsgroep worden aangewezen:
 
 - 8. twee vertegenwoordigers uit de regio Twente
 
-- 9. de inspecteur ruimtelijke ordening regio Oost
+- 9. de directeur Landbouw, Natuur en Openluchtrecreatie directie Oost
 
-- 10. de directeur Landbouw, Natuur en Openluchtrecreatie directie Oost
-
-- 11. een vertegenwoordiger van het Directoraat-Generaal Personenvervoer.
+- 10. een vertegenwoordiger van het Directoraat-Generaal Personenvervoer.
 
 Verder zullen aan de vergaderingen van de begeleidingsgroep deelnemen:
 
