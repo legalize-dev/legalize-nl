@@ -381,25 +381,3 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 
 DONE at London this twenty-third day of June 1969.
-
-##### Voorschrift 8. Toepassing
-
-De Verdragsluitende Regeringen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in dit Verdrag.
-
-##### Voorschrift 9. Verificatie van de naleving
-
-1. Elke Verdragsluitende Regering wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van dit Verdrag te verifiëren.
-
-2. De Secretaris-Generaal van de Organisatie is verantwoordelijk voor de uitvoering van het auditprogramma, op basis van de door de Organisatie opgestelde richtlijnen.
-
-3. Elke Verdragsluitende Regering is verantwoordelijk voor het faciliteren van de uitvoering van de audit en de implementatie van een actieprogramma teneinde een vervolg te geven aan de bevindingen, op basis van de door de Organisatie opgestelde richtlijnen.
-
-4. De audit van alle Verdragsluitende Regeringen:
-
-- .1. is gebaseerd op een door de Secretaris-Generaal van de Organisatie ontwikkeld algemeen schema, rekening houdend met de door de Organisatie opgestelde richtlijnen; en
-
-- .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
-
-IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
-
-DONE at London this twenty-third day of June 1969.
