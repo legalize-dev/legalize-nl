@@ -162,37 +162,3 @@ Deze regeling treedt in werking op 1 januari 1999.
 De Geweldsinstructie gestichtspersoneel van 25 mei 1966, nr. GW 12, met de bijbehorende handleiding van 30 juni 1966, van de Directie Gevangeniswezen/ Bureau Beveiliging, de besluiten van 31 mei 1985, nr.195/ P385, van de Directie Gevangeniswezen, Staf. J.Z., tot wijziging van de Geweldsinstructie gestichtspersoneel, en het besluit van 19 maart 1991, nr. 47988/91 DJ, van de Dir. D&J, worden ingetrokken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. Het gebruik van pepperspray is slechts geoorloofd voorzover dit noodzakelijk is ter aanhouding van een gedetineerde indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
-
-2. Pepperspray wordt tegen een persoon per geval ten hoogste twee maal voor ten hoogste enkele seconden gebruikt op een afstand van ten minste een meter.
-
-3. Pepperspray mag niet worden gebruikt tegen:
-
-- a. gedetineerden die zichtbaar jonger dan 12 of ouder dan 65 jaar zijn;
-
-- b. gedetineerde vrouwen die zichtbaar zwanger zijn;
-
-- c. gedetineerden voor wie dit gebruik als gevolg van zichtbare ademshalings- of andere ernstige gezondheidsstoornis onevenredig schadelijk kan zijn;
-
-- d. groepen personen.
-
-4. Pepperspray mag niet worden gebruikt in de nabijheid van baby’s.
-
-5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer met een verhoogd veiligheidsrisico, van een blinderingsmiddel voorzien.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
