@@ -228,21 +228,3 @@ In afwijking van [artikel 28 van het Warenwetbesluit Etikettering van levensmidd
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Warenwetregeling gedehydrateerde melk 2003.
-
-##### Artikel 3a
-
-Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=2&z=2007-11-10&g=2007-11-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=3&z=2007-11-10&g=2007-11-10) mag het eiwitgehalte van melk worden gewijzigd tot een minimumgehalte van 34 gewichtsprocenten (uitgedrukt in vetvrije droge stof) door toevoeging of verwijdering van uitsluitend:
-
-- a. melkretentaat;
-
-- b. melkpermeaat; of
-
-- c. lactose;
-
-mits de verhouding tussen wei-eiwit en caseïne in de gewijzigde melk niet wordt veranderd.
-
-#### § 3. aanduiding
-
-#### § 4. vermeldingen
-
-#### § 5. slotbepalingen
