@@ -4,7 +4,7 @@ identifier: "BWBR0017748"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2004-08-27"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017748"
 soort: "wet"
@@ -51,7 +51,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Wijzigt de Wet loonbelasting 1964.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa
 
@@ -83,7 +83,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
@@ -143,11 +143,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Wijzigt de Coördinatiewet Sociale Verzekering.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2004.
 
 ##### Artikel XXII
 
@@ -159,9 +159,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-[Artikel 11, eerste lid, onderdeel p, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) zoals dit onderdeel luidde op 27 augustus 2004 vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
-
-[Artikel 6, eerste lid, onderdeel y, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6), zoals dit onderdeel luidde op 27 augustus 2004, vóór 17.00 uur, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór het genoemde tijdstip in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
@@ -217,8 +215,36 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van 1 januari 2005, met dien verstande dat [artikel I, onderdelen A, H, M, Q, R, S, T, U](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=I&z=2004-12-31&g=2004-12-31) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=V&z=2004-12-31&g=2004-12-31), en [artikel IV, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2004-12-31&g=2004-12-31), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2005 is toegepast.
+
+2. In afwijking in zoverre van het eerste lid werkt [artikel XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XI&z=2004-12-31&g=2004-12-31), tweede lid, terug tot en met 1 januari 2003.
+
+3. In afwijking in zoverre van het eerste lid werken de [artikelen IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2004-12-31&g=2004-12-31), [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XX&z=2004-12-31&g=2004-12-31) en [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXIV&z=2004-12-31&g=2004-12-31) terug tot en met 27 augustus 2004, 17.00 uur.
+
+4. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXI&z=2004-12-31&g=2004-12-31), in werking op 31 december 2004.
+
+5. In afwijking van het eerste lid treedt [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=VI&z=2004-12-31&g=2004-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat deze bepaling terugwerkt tot en met 1 januari 2005.
+
+6. In afwijking van het eerste lid treedt [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+7. In afwijking in zoverre van het eerste lid treedt [artikel XXXIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXXIa&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2005.
+
+8. In afwijking van het eerste lid treedt [artikel XII, onderdeel B, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XII&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 juli 2005.
+
+9. In afwijking van het eerste lid treedt [artikel XIXb, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXb&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 januari 2006.
+
+10. In afwijking van het eerste lid treedt [artikel X, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=X&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 januari 2007.
+
+11. In afwijking van het eerste lid treden de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIII&z=2004-12-31&g=2004-12-31), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVII&z=2004-12-31&g=2004-12-31) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVIII&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2005.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2005 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele overige maatregelen te treffen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
