@@ -4,7 +4,7 @@ identifier: "BWBR0011379"
 country: "nl"
 rank: "kb"
 publication_date: "2003-11-21"
-last_updated: "2000-06-01"
+last_updated: "2003-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011379"
 soort: "KB"
@@ -44,7 +44,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De verantwoordelijkheid voor de uitvoering van het toezicht op de naleving van vergunningen op grond van [artikel 15 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) en op de naleving van de regels op grond van [artikel 21 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21) alsmede taken die met die vergunningverlening verwant zijn gaan over van Onze Minister van Sociale Zaken en Werkgelegenheid naar Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+1. Van Onze Minister van Sociale Zaken en Werkgelegenheid naar Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gaan over:
+
+- a. de verantwoordelijkheid voor de uitvoering van het toezicht op de naleving van hetgeen bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) is bepaald en bevolen met betrekking tot inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, en met betrekking tot de tot eenzelfde onderneming of instelling behorende installaties die daarmee technische, organisatorische of functionele bindingen hebben en in de onmiddellijke nabijheid daarvan zijn gelegen en met betrekking tot welke installaties een vergunning krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) is verleend;
+
+- b. taken die met de vergunningverlening op grond van [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verwant zijn.
 
 2. De Kernfysische Dienst van het ministerie van Sociale Zaken en Werkgelegenheid wordt overgeplaatst naar het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
