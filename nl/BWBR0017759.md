@@ -87,35 +87,3 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling internationale
 bijstandsverlening bij de heffing van belastingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=2) worden met een lidstaat gelijkgesteld:
-
-- a. Aruba;
-
-- b. de Britse Maagdeneilanden;
-
-- c. het Eiland Man;
-
-- d. Guernsey;
-
-- e. Jersey;
-
-- f. Montserrat;
-
-- g. de Nederlandse Antillen.
-
-### Hoofdstuk 2. Bijstand bij heffing
-
-#### Paragraaf 1. Notificatie van stukken
-
-#### Paragraaf 2. Gelijktijdig onderzoek
-
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
