@@ -207,9 +207,3 @@ Vervallen
 De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, krachtens enige andere wet genomen ten behoeve van de militaire verdediging.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15
-
-Deze wet wordt aangehaald als: Wet beschikbaarheid goederen.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
