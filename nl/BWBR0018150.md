@@ -110,5 +110,3 @@ A. De indicatieve tarieven, bedoeld in [artikel 2, tweede lid](https://wetten.ov
 B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
