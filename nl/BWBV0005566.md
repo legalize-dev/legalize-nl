@@ -217,9 +217,3 @@ De Raad geeft aan het Agentschap de inlichtingen door, welke hij heeft ontvangen
 In witness whereof, the above-mentioned Plenipotentiaries have signed the present Protocol, being one of the Protocols listed in Article I of the Protocol Modifying and Completing the Treaty, and have affixed thereto their seals.
 
 Done at Paris this twenty-third day of October 1954, in two texts, in the English and French languages, each text being equally authoritative, in a single copy, which shall remain deposited in the archives of the Belgian Government and of which certified copies shall be transmitted by that Government to each of the other Signatories.
-
-## Deel I. - Statuut
-
-## Deel II. - Functies
-
-## Deel III. - Omvang der wapenvoorraden
