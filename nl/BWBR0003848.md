@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "1999-11-19"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -54,25 +54,25 @@ wet: [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549
 
 **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
-school: een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder a, b, c, f, g, h, j, k, m of n](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet, dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=III&artikel=9&z=1999-11-19&g=1999-11-19), van de wet, tenzij het tegendeel blijkt;
+school: een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder a, b, c, f, g, h, j, k, m of n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 9, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=9), tenzij het tegendeel blijkt;
 
-instelling: instelling als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=III&artikel=8&z=1999-11-19&g=1999-11-19), van de wet;
+instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8);
 
 **bevoegd gezag** voor wat betreft:
 
 - a. een openbare school: het college van burgemeester en wethouders voor zover de raad niet anders bepaalt, en, indien de raad dit wenselijk oordeelt, met inachtneming van door hem te stellen regelen, dan wel het krachtens een gemeenschappelijke regeling bevoegde orgaan;
 
-- b. een bijzondere school: de rechtspersoon bedoeld in artikel 44 van de wet;
+- b. een bijzondere school: de rechtspersoon bedoeld in [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=44);
 
 **ouders:** ouders, voogden of verzorgers;
 
 **schooljaar:** het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
-**afdelingen:** de afdelingen bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=III&artikel=8&z=1999-11-19&g=1999-11-19), van de wet, tenzij het tegendeel blijkt;
+**afdelingen:** de afdelingen bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
 
-**meervoudig gehandicapte kinderen:** kinderen die, naast een handicap als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet, een niet als gevolg daarvan te beschouwen andere handicap als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet hebben;
+**meervoudig gehandicapte kinderen:** kinderen met combinaties van handicaps als bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2);
 
-**stage:** de stage bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=VI&artikel=17&z=1999-11-19&g=1999-11-19) van de wet;
+**stage:** de stage bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17);
 
 **stagegever:** de rechtspersoon of de natuurlijke persoon bij wie de stage wordt doorlopen;
 
@@ -80,17 +80,17 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid](https://wetten.ove
 
 **stagebegeleider:** degene die is belast met de begeleiding van de leerling en werkzaam is bij de stagegever;
 
-**symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op voortgezet speciaal onderwijs, onderwijs ontvangt onderscheidenlijk ontvangen op een school voor voortgezet onderwijs;
+**symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs, onderwijs ontvangt onderscheidenlijk ontvangen op een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
 
-**ambulante begeleiding**: de begeleiding door een aan een school, niet zijnde een instelling, verbonden leraar van een of meer leerlingen van een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een school als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) die zonder deze begeleiding zou onderscheidenlijk zouden zijn aangewezen op het onderwijs dat de school verzorgt, alsmede de ondersteuning van een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een school voor voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) bij de opvang van zodanige leerlingen door een leraar, orthopedagoog, psycholoog of logopedist van de school;
+**ambulante begeleiding**: de begeleiding, bedoeld in [artikel 8a, derde lid onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8a);
 
-**teldatum:** een van de data, bedoeld in artikel 93**b** van de wet.
+**teldatum:** een van de data, bedoeld in [artikel 93**b** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=93).
 
 ## Titel II. Afdelingen
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2003-08-01&g=2003-08-01) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap, met dien verstande dat een van de handicaps de handicap is op grond waarvan zij tot de school waaraan de afdeling is verbonden, kunnen worden toegelaten.
 
@@ -180,7 +180,7 @@ Vervallen
 
 ##### Artikel 11. Symbiose
 
-Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan de school of inrichting voor voortgezet onderwijs gedurende ten minste 180 minuten per week onderwijs.
+Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs gedurende ten minste 180 minuten per week onderwijs.
 
 ##### Artikel 12. Symbiose-overeenkomst
 
@@ -190,15 +190,15 @@ Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan
 
 - a. de termijn waarvoor de overeenkomst is aangegaan;
 
-- b. de vakken waarin de leerling, dan wel de leerlingen van de school onderwijs zullen ontvangen op de school of inrichting voor voortgezet onderwijs;
+- b. de vakken waarin de leerling, dan wel de leerlingen van de school onderwijs zullen ontvangen op de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs;
 
-- c. het aantal lesuren per week dat per vak als bedoeld in [onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=IV&artikel=12&z=1999-11-19&g=1999-11-19), ten minste zal kunnen worden geboden;
+- c. het aantal lesuren per week dat per vak als bedoeld in onderdeel b, ten minste zal kunnen worden geboden;
 
 - d. de afspraken welke worden gemaakt inzake de aanwezigheid bij de lessen van een leraar van de school;
 
-- e. of en zo ja, welk bedrag voor door de leerling, dan wel de leerlingen van de school verbruikte materialen jaarlijks aan het bevoegd gezag van de school of inrichting voor voortgezet onderwijs zal worden betaald;
+- e. of en zo ja, welk bedrag voor door de leerling, dan wel de leerlingen van de school verbruikte materialen jaarlijks aan het bevoegd gezag van de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs zal worden betaald;
 
-- f. of en zo ja, welk bedrag voor het gebruik van de lokalen van de school of inrichting voor voortgezet onderwijs jaarlijks aan het bevoegd gezag van die school of inrichting zal worden betaald.
+- f. of en zo ja, welk bedrag voor het gebruik van de lokalen van de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs jaarlijks aan het bevoegd gezag van die school of inrichting zal worden betaald.
 
 ##### Artikel 13. Omvang groep leerlingen bij symbiose
 
@@ -208,31 +208,15 @@ Vervallen
 
 ##### Artikel 14. Ambulante begeleiding met betrekking tot het onderwijs als bedoeld in artikel 2, tweede lid onderdeel a tot en met c, f en n, van de wet
 
-1. Ambulante begeleiding van leerlingen afkomstig van scholen of afdelingen waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**en**n**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet of leerlingen die zonder ambulante begeleiding voor het eerst op dit onderwijs zouden zijn aangewezen, kan plaatsvinden onder de voorschriften en gedurende de perioden genoemd in het tweede tot en met het achtste lid.
-
-2. Ambulante begeleiding kan uitsluitend worden gegeven aan leerlingen die deze blijkens een advies van de commissie behoeven en onderwijs volgen op een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een school voor voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) dan wel een opleiding volgen als bedoeld in [artikel 7.2.2., eerste lid, onder a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
-
-3. Behoudens het bepaalde in het vierde lid komen leerlingen als bedoeld in het eerste lid, in zoverre het onderwijs bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19)en **n**, van de wet betreft, gedurende ten hoogste 5 aaneengesloten jaren direct volgend op hun overplaatsing naar een basisschool of een speciale school voor basisonderwijs, dan wel rechtstreekse plaatsing in dit onderwijs, voor ambulante begeleiding in aanmerking.
-
-4. De leerlingen bedoeld in het derde lid, die op een basisschool of een speciale school voor basisonderwijs gedurende meer dan 3 jaar ambulant zijn begeleid en aansluitend aan de periode van ambulante begeleiding voortgezet onderwijs of voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) volgen, komen nog gedurende 2 aaneengesloten jaren direct volgend op hun overplaatsing naar het voortgezet onderwijs of het voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) voor ambulante begeleiding in aanmerking.
-
-5. Leerlingen afkomstig van een school of afdeling waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19) en **n**, van de wet, komen gedurende ten hoogste 3 aaneengesloten jaren direct volgend op hun overplaatsing vanuit het speciaal onderwijs of het voortgezet speciaal onderwijs naar het voortgezet onderwijs of het voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) bedoeld in het tweede lid, voor ambulante begeleiding in aanmerking.
-
-6. Behoudens het bepaalde in het zevende lid komen leerlingen als bedoeld in het eerste lid, in zoverre het onderwijs als bedoeld in [artikel 2, tweede lid onderdeel **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet betreft, gedurende ten hoogste 2 aaneengesloten jaren direct volgend op hun overplaatsing naar een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs, of een school voor voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend), dan wel rechtstreekse plaatsing op een zodanige school, voor ambulante begeleiding in aanmerking.
-
-7. De leerlingen bedoeld in het zesde lid, die op een basisschool of een speciale school voor basisonderwijs gedurende meer dan 1 jaar ambulant zijn begeleid en aansluitend aan de periode van ambulante begeleiding voorgezet onderwijs of voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) volgen, komen nog gedurende 1 jaar direct volgend op hun overplaatsing naar het voortgezet onderwijs of het voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) voor ambulante begeleiding in aanmerking.
-
-8. Indien nodig in het onderwijskundig belang van een leerling, kan Onze Minister op verzoek van het bevoegd gezag ontheffing verlenen van het bepaalde in het eerste tot en met het zevende lid.
+Vervallen
 
 ##### Artikel 15. Partieel en tijdelijk meetellen van leerlingen met betrekking tot het onderwijs bedoeld in artikel 2, tweede lid, onderdeel h tot en met m, van de wet
 
-1. Leerlingen die ten minste 1 jaar speciaal onderwijs hebben gevolgd op een school of afdeling waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel h, j, k en m](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet en die op grond van een advies van de commissie waarin ambulante begeleiding als voorwaarde wordt gesteld, zijn ingeschreven bij een basisschool of een speciale school voor basisonderwijs, tellen op de eerstvolgende teldatum na die inschrijving voor ¼ mee bij het bepalen van de formatie, bedoeld in artikel 93**a** van de wet.
-
-2. Leerlingen die ten minste 1 jaar voortgezet speciaal onderwijs hebben gevolgd op een school waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **h** tot en met **m**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=1999-11-19&g=1999-11-19), van de wet en die op grond van een advies van de commissie waarin ambulante begeleiding als voorwaarde wordt gesteld, zijn ingeschreven bij een school voor voortgezet onderwijs of voor voortgezet speciaal onderwijs als bedoeld in [deel II van de Wet op het voortgezet onderwijs](onbekend) dan wel een opleiding als bedoeld in [artikel 7.2.2., eerste lid, onder a en b, van de Wet educatie beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), tweede lid,“beroepsonderwijs, tweede lid,” moet zijn “beroepsonderwijs,”. tellen op de eerstvolgende teldatum na die inschrijving voor ¼ mee bij het bepalen van de formatie, bedoeld in artikel 93**a** van de wet.
+Vervallen
 
 ##### Artikel 16. Ambulante begeleiding met betrekking tot het onderwijs als bedoeld in artikel 2, tweede lid onderdeel h tot en met m en o, van de wet
 
-De leerlingen bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=V&artikel=15&z=1999-11-19&g=1999-11-19), komen gedurende ten hoogste 1 jaar direct volgend op hun in dat artikel bedoelde inschrijving voor ambulante begeleiding in aanmerking.
+Vervallen
 
 ## Titel VI
 
