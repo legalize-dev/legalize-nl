@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -68,15 +68,15 @@ Hebben goedgevonden en verstaan:
 
 1. De kosten van de Waarderingskamer komen ten laste van de afnemers. Het Rijk betaalt 25 percent, de gemeenten 50 percent en de waterschappen 25 percent.
 
-2. De kosten van de waardering komen ten laste van de afnemers. Het Rijk betaalt 30 percent van de kosten, de waterschappen 30 percent van de kosten voor zover betrekking hebbend op de gebieden die volgens de provinciale verordeningen, bedoeld in [artikel 2, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=2) in waterschapsverband gelegen zijn en de gemeenten het restant.
+2. De kosten van de waardering komen ten laste van de afnemers. Het Rijk betaalt 40 percent van de kosten, de waterschappen 15 percent van de kosten voorzover betrekking hebbend op de gebieden die volgens de provinciale verordeningen, bedoeld in [artikel 2, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=2), in waterschapsverband gelegen zijn en de gemeenten het restant.
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2002-01-01&g=2002-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2003-01-01&g=2003-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2003-01-01&g=2003-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-1. Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-01-01), worden verstaan de kosten verbonden aan:
+1. Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2003-01-01&g=2003-01-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het opstellen van het bij de Waarderingskamer in te dienen plan van aanpak voor de waardering;
 
@@ -88,7 +88,7 @@ Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](http
 
 - 5°. het behandelen van bezwaar- en beroepschriften tegen de beschikkingen, bedoeld in de artikelen 22, 25, 26, 27 en 28 van de wet.
 
-2. Als bedrag van de kosten van de waardering komt voor verrekening in aanmerking € 12 Per 01-01-2002: € 13.per kalenderjaar per object waarover gegevens als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=8&z=2002-01-01&g=2002-01-01) moeten worden geleverd, mits over dit object in het kalenderjaar verwerkbare gegevens zijn geleverd dan wel over dit object de gegevens in de administratie van de afnemer reeds beschikbaar zijn en op grond van de bij het begin van het kalenderjaar geldende regelgeving geen aanvullende levering van gegevens behoeft plaats te vinden.
+2. Als bedrag van de kosten van de waardering komt voor verrekening in aanmerking € 12 Per 01-01-2002: € 13.per kalenderjaar per object waarover gegevens als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=8&z=2003-01-01&g=2003-01-01) moeten worden geleverd, mits over dit object in het kalenderjaar verwerkbare gegevens zijn geleverd dan wel over dit object de gegevens in de administratie van de afnemer reeds beschikbaar zijn en op grond van de bij het begin van het kalenderjaar geldende regelgeving geen aanvullende levering van gegevens behoeft plaats te vinden.
 
 3. De geleverde gegevens worden verwerkbaar geacht indien de gegevens zijn geleverd conform de op het moment van de levering geldende regelgeving. Binnen vier weken na de levering van de gegevens bericht de afnemer het college van burgemeester en wethouders omtrent de verwerkbaarheid van die gegevens. Indien de afnemer niet binnen vier weken bericht, worden de gegevens vier weken na de levering verwerkbaar geacht.
 
@@ -96,29 +96,21 @@ Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](http
 
 ##### Artikel 4a
 
-Indien gedurende een tijdvak van vier achtereenvolgende kalenderjaren (waarderingskostentijdvak) het totaal van de in redelijkheid gemaakte kosten van de waardering meer dan 2,5 percent hoger is dan het totaal van de over het desbetreffende waarderingskostentijdvak in rekening gebrachte bedragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), komt het verschil tussen het totaal van de in redelijkheid gemaakte waarderingskosten en het totaal van de in rekening gebrachte bedragen ten laste van de afnemers, mits is voldaan aan de volgende voorwaarden:
-
-- a. het totaal van de in redelijkheid gemaakte kosten van de waardering wordt berekend volgens het rekenmodel dat Onze Minister na overleg met de Waarderingskamer bij ministeriële regeling vaststelt en
-
-- b. deze berekening is geaccordeerd door de Waarderingskamer die beoordeelt of het college van burgemeester en wethouders de kosten van de waardering redelijkerwijs heeft moeten maken.
+Vervallen
 
 ##### Artikel 5
 
-1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=12&z=2002-01-01&g=2002-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
+1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=12&z=2003-01-01&g=2003-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
 
 2. De afnemers voldoen hun aandeel in de begrote kosten binnen vier weken.
 
-3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=13&z=2002-01-01&g=2002-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
+3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=13&z=2003-01-01&g=2003-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
 
 ##### Artikel 6
 
-1. Het college van burgemeester en wethouders brengt aan de afnemers hun aandeel in het bedrag, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), in rekening.
+1. Het college van burgemeester en wethouders brengt aan de afnemers hun aandeel in het bedrag, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2003-01-01&g=2003-01-01), in rekening.
 
-2. De afnemers voldoen de in het eerste lid bedoelde rekening binnen vier weken nadat zij hebben bericht dat de geleverde gegevens verwerkbaar zijn dan wel binnen vier weken nadat [artikel 4, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), toepassing heeft gevonden.
-
-3. De afnemers voldoen hun aandeel in het verschil, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4a&z=2002-01-01&g=2002-01-01), met inachtneming van de berekende wettelijke rente over het waarderingskostentijdvak, binnen vier weken nadat zij de door de Waarderingskamer geaccordeerde berekening en de berekening van de wettelijke rente hebben ontvangen van het college van burgemeester en wethouders.
-
-4. Voor de berekening van de wettelijke rente, bedoeld in het derde lid, wordt het verschil over enig kalenderjaar tussen het totaal van de in redelijkheid gemaakte kosten van de waardering en het totaal van de bedragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), die in rekening zijn gebracht of in rekening hadden kunnen worden gebracht op 1 juli van dat kalenderjaar rentedragend. De berekende wettelijke rente is het saldo van over het waarderingskostentijdvak aan de afnemers in rekening te brengen wettelijke rente en aan de afnemers te vergoeden wettelijke rente.
+2. De afnemers voldoen de in het eerste lid bedoelde rekening binnen vier weken nadat zij hebben bericht dat de geleverde gegevens verwerkbaar zijn dan wel binnen vier weken nadat [artikel 4, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2003-01-01&g=2003-01-01), toepassing heeft gevonden.
 
 ### Hoofdstuk 3. Gegevensbeheer
 
@@ -128,7 +120,7 @@ Ten behoeve van de heffing van belastingen door de afnemers worden met betrekkin
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01), van de wet bedoelde gemeenteambtenaar levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-01-01) bedoelde gegevens aan de afnemers.
+1. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2003-01-01&g=2003-01-01), van de wet bedoelde gemeenteambtenaar levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2003-01-01&g=2003-01-01) bedoelde gegevens aan de afnemers.
 
 2. De levering van gegevens aan de afnemers vindt plaats:
 
@@ -136,7 +128,7 @@ Ten behoeve van de heffing van belastingen door de afnemers worden met betrekkin
 
 - b. ter zake van een beschikking als bedoeld in de artikelen 27, 28 en 29 van de wet: binnen vier weken na de vaststelling van de beschikking, met dien verstande dat gegevens betreffende een beschikking die is verminderd krachtens een beslissing op een bezwaarschrift of een rechterlijke uitspraak, worden geleverd binnen twee weken nadat die uitspraak onherroepelijk is komen vast te staan.
 
-3. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01), van de wet bedoelde gemeenteambtenaar stelt de afnemers binnen vier weken op de hoogte van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en de invordering van hun belastingen.
+3. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2003-01-01&g=2003-01-01), van de wet bedoelde gemeenteambtenaar stelt de afnemers binnen vier weken op de hoogte van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en de invordering van hun belastingen.
 
 ##### Artikel 9
 
@@ -163,6 +155,8 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegeve
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+– Voor ieder WOZ-object:
 
 – Voor ieder WOZ-object:
 
@@ -393,6 +387,30 @@ Volledig postadres van subject voorzover noodzakelijk bestaande uit:
 (92.20) bijgewerkt tot en met maand
 
 (92.30) datum vorige aanlevering
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2a
+
+1. De in artikel 2, tweede lid, vermelde jaarlijkse vergoeding van het Rijk en de waterschappen ter zake van de kosten van de waardering wordt aan de individuele gemeenten uitbetaald. Bij ministeriële regeling worden regels gesteld omtrent de wijze van verdeling over de individuele gemeenten van deze vergoeding en omtrent de tijdstippen van uitbetaling van deze vergoeding aan een individuele gemeente.
+
+2. Bij de verdeling van de vergoeding over de individuele gemeenten wordt rekening gehouden met:
+
+- a. een basisbedrag voor elke gemeente;
+
+- b. een vergoeding per object, waarbij onderscheid wordt gemaakt naar woningen, niet-woningen en adressen in buitengebieden;
+
+- c. een inhouding van een bedrag voor de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.
+
+3. Bij de bepaling van de tijdstippen van uitbetaling van de vergoeding aan een individuele gemeente wordt rekening gehouden met de mate waarin door de desbetreffende gemeente is voldaan aan de verplichting tot het leveren van verwerkbare gegevens.
+
+### Hoofdstuk 3. Gegevensbeheer
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
 
 (93.30) aard leveringsbestand
 
