@@ -4,7 +4,7 @@ identifier: "BWBR0007179"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-01-01"
-last_updated: "1998-01-01"
+last_updated: "2003-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007179"
 soort: "AMvB"
@@ -56,39 +56,23 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De instructie bevat richtlijnen voor het plan van aanpak dat door de colleges van burgemeester en wethouders wordt ingediend bij de Waarderingskamer alvorens met de waardebepaling wordt begonnen. Het plan van aanpak verschaft in ieder geval informatie over:
-
-- 1°. het aantal en de soort van de te waarderen objecten, alsmede een indicatie van de totale waarde;
-
-- 2°. het aantal taxateurs en de mate waarin zij voldoen aan de vakbekwaamheidseisen;
-
-- 3°. de beschikbare objectgegevens;
-
-- 4°. de beschikbare marktgegevens;
-
-- 5°. het referentiemateriaal;
-
-- 6°. de toe te passen taxatiemethoden;
-
-- 7°. de periode waarin de taxatiewerkzaamheden zullen plaatsvinden; en
-
-- 8°. de wijze waarop door het college van burgemeester en wethouders een kwaliteitscontrole wordt toegepast.
+De instructie bevat richtlijnen voor het rapporteren door de colleges van burgemeester en wethouders aan de Waarderingskamer over de stand van zaken, de planning en de voortgang van de werkzaamheden in het kader van de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119), alsmede over de kwaliteit van die werkzaamheden.
 
 ##### Artikel 4
 
-De instructie bevat richtlijnen voor het verzamelen, analyseren en registreren van marktinformatie die ten grondslag ligt aan de waardebepaling.
+De instructie bevat richtlijnen voor het verzamelen, analyseren en registreren van objectgegevens en marktgegevens die ten grondslag liggen aan de waardebepaling.
 
 ##### Artikel 5
 
-De instructie bevat richtlijnen voor de toepassing van de te hanteren taxatiemethoden en een uitwerking van die methoden, alsmede voor de eisen waaraan de referentiestelsels per toe te passen methode moeten voldoen.
+De instructie bevat richtlijnen voor de toepassing van de te hanteren taxatiemethoden en een uitwerking van die methoden.
 
 ##### Artikel 6
 
-De instructie bevat richtlijnen voor de onderbouwing van de taxatie ten behoeve van belanghebbenden in de vorm van een model-taxatieverslag. Het taxatieverslag bevat ten minste de objectaanduiding, de waarderelevante objectgegevens, de motivering van de individuele afwijking ten opzichte van de referentie-objecten en de getaxeerde waarde.
+De instructie bevat richtlijnen voor de onderbouwing van de taxatie ten behoeve van belanghebbenden in de vorm van een model-taxatieverslag. Het taxatieverslag bevat ten minste de objectaanduiding, de waarderelevante objectgegevens, de motivering van de individuele afwijking ten opzichte van de relevante marktgegevens en de getaxeerde waarde.
 
 ##### Artikel 7
 
-De instructie bevat richtlijnen voor het uitvoeren van kwaliteitsanalyses door de colleges van burgemeester en wethouders en richtlijnen voor het rapporteren over deze analyses aan de Waarderingskamer.
+De instructie bevat richtlijnen voor het uitvoeren van kwaliteitscontroles door de colleges van burgemeester en wethouders.
 
 ##### Artikel 8
 
