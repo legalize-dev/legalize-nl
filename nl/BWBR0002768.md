@@ -4,7 +4,7 @@ identifier: "BWBR0002768"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-02-06"
-last_updated: "1993-03-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002768"
 soort: "AMvB"
@@ -52,21 +52,21 @@ Hebben goedgevonden en verstaan:
 
 2. Onze in het eerste lid bedoelde Ministers zijn:
 
-- a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Economische Zaken;
+- a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
 - b. in gevallen, waarin de geheimhouding is vereist in het belang van de landsverdediging: Onze Minister van Defensie;
 
 - c. in gevallen, waarin de geheimhouding is vereist in het belang van de internationale rechtsorde of ter voldoening aan internationale overeenkomsten of besluiten van volkenrechtelijke organisaties: Onze Minister van Buitenlandse Zaken;
 
-- d. in gevallen, waarin de geheimhouding is vereist in het belang van de veiligheid van de staat en het een civiele aangelegenheid betreft: Onze Minister van Binnenlandse Zaken;
+- d. in gevallen, waarin de geheimhouding is vereist in het belang van de veiligheid van de staat en het een civiele aangelegenheid betreft: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - e. in gevallen, waarin de geheimhouding is vereist in het belang van of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor het verkeer, het vervoer, de telecommunicatie, de waterstaat, de meteorologie, dan de oceanografie of een ander gebied van de geofysica: Onze Minister van Verkeer en Waterstaat;
 
-- f. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze niet ressorteren onder Onze Minister van Landbouw, Natuurbeheer en Visserij: Onze Minister van Onderwijs en Wetenschappen;
+- f. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze niet ressorteren onder Onze Minister van Landbouw, Natuurbeheer en Visserij: Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
 - g. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze ressorteren onder Onze Minister van Landbouw, Natuurbeheer en Visserij: Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-- h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Sociale Zaken en Werkgelegenheid en van Welzijn, Volksgezondheid en Cultuur.
+- h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport.
 
 3. Een verplichting tot geheimhouding als in het eerste lid, onder **a**, bedoeld kan slechts worden opgelegd en gegevens, hulpmiddelen, materialen, onderzoekingen en werkmethoden kunnen slechts ingevolge het eerste lid, onder **a** of **b**, worden aangewezen, indien dit in het belang van de staat wordt geboden.
 
@@ -80,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 - a. terreinen, gebouwen en ruimten, waar de betrokken gegevens, hulpmiddelen of materialen worden bewaard of gebruikt of waar de betrokken onderzoekingen worden verricht of de betrokken werkmethoden worden toegepast, op doelmatige wijze worden beveiligd;
 
-- b. werkzaamheden, waarbij gebruik wordt gemaakt van de betrokken gegevens, hulpmiddelen of materialen of waarbij de betrokken werkmethoden worden toegepast, dan wel werkzaamheden bij het verrichten van de betrokken onderzoekingen uitsluitend worden verricht door personen, die naar het oordeel van Onze Minister van Binnenlandse Zaken geacht kunnen worden de verplichting met betrekking tot de geheimhouding naar behoren te vervullen;
+- b. werkzaamheden, waarbij gebruik wordt gemaakt van de betrokken gegevens, hulpmiddelen of materialen of waarbij de betrokken werkmethoden worden toegepast, dan wel werkzaamheden bij het verrichten van de betrokken onderzoekingen uitsluitend worden verricht door personen, die naar het oordeel van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties geacht kunnen worden de verplichting met betrekking tot de geheimhouding naar behoren te vervullen;
 
 - c. van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden alleen kennis wordt genomen door personen, die rechtstreeks bij werkzaamheden als onder **b** bedoeld zijn betrokken en slechts in die mate als voor een goede uitvoering van die werkzaamheden nodig is;
 
@@ -90,11 +90,11 @@ Hebben goedgevonden en verstaan:
 
 - a. aan Onze Ministers door hen aangegeven inlichtingen worden verstrekt betreffende de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden;
 
-- b. Onze Ministers en, ingeval deze volgens het vierde lid niet daartoe behoort, Onze Minister van Binnenlandse Zaken onverwijld worden ingelicht, indien ernstige inbreuken op de naleving van de ter verzekering van de geheimhouding getroffen maatregelen, dan wel spionage worden vermoed of ontdekt;
+- b. Onze Ministers en, ingeval deze volgens het vierde lid niet daartoe behoort, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld worden ingelicht, indien ernstige inbreuken op de naleving van de ter verzekering van de geheimhouding getroffen maatregelen, dan wel spionage worden vermoed of ontdekt;
 
 - c. een aan de betrokken onderneming of instelling verbonden functionaris wordt aangewezen, speciaal belast met het treffen van maatregelen ter verzekering van de geheimhouding en met het toezicht op de naleving daarvan.
 
-4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=1993-03-01&g=1993-03-01), hebben aangewezen.
+4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2003-01-01&g=2003-01-01), hebben aangewezen.
 
 ##### Artikel 3
 
