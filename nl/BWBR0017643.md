@@ -4,7 +4,7 @@ identifier: "BWBR0017643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2004-07-01"
+last_updated: "2004-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017643"
 soort: "ministeriele-regeling"
@@ -69,7 +69,7 @@ Dit beleidskader bevat:
 
 ##### Artikel 3. Subsidievoorwaarden
 
-De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subsidiebedrag uitsluitend wordt aangewend voor het doel waarvoor de subsidie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=1&z=2004-12-25&g=2004-07-01) is verleend.
+De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subsidiebedrag uitsluitend wordt aangewend voor het doel waarvoor de subsidie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=1&z=2004-12-25&g=2004-12-25) is verleend.
 
 ##### Artikel 4. Jaarlijkse subsidietoekenning
 
@@ -103,11 +103,11 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 ##### Artikel 8. Subsidievaststelling
 
-1. Indien in de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-07-01), wordt aangetoond dat de subsidie is aangewend voor het doel waarvoor deze is verleend, wordt de subsidie definitief vastgesteld.
+1. Indien in de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-12-25), wordt aangetoond dat de subsidie is aangewend voor het doel waarvoor deze is verleend, wordt de subsidie definitief vastgesteld.
 
 2. De subsidie bedraagt nooit meer dan de werkelijke kosten die voor de te subsidiëren activiteiten zijn gemaakt.
 
-3. De beschikking tot vaststelling van de subsidie wordt gegeven binnen drie maanden na ontvangst van de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-07-01).
+3. De beschikking tot vaststelling van de subsidie wordt gegeven binnen drie maanden na ontvangst van de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-12-25).
 
 4. De subsidie kan geheel of gedeeltelijk worden teruggevorderd, indien:
 
@@ -115,7 +115,7 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 - b. de Stichting Platform Bèta/techniek heeft gehandeld in strijd met de aan de subsidie verbonden voorwaarden.
 
-5. Indien de subsidie lager wordt vastgesteld dan het bedrag dat eerder betaalbaar is gesteld, wordt het teveel bevoorschotte bedrag door de Stichting toegevoegd aan de egalisatiereserve, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=11&z=2004-12-25&g=2004-07-01).
+5. Indien de subsidie lager wordt vastgesteld dan het bedrag dat eerder betaalbaar is gesteld, wordt het teveel bevoorschotte bedrag door de Stichting toegevoegd aan de egalisatiereserve, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=11&z=2004-12-25&g=2004-12-25).
 
 ##### Artikel 9. Beëindiging of herziening van de subsidierelatie
 
