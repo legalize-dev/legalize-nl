@@ -4,7 +4,7 @@ identifier: "BWBR0017557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2003-11-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017557"
 soort: "ministeriele-regeling"
@@ -41,14 +41,8 @@ Wijzigt de Arbeidsomstandighedenregeling.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Het tijdstip, bedoeld in [Artikel II, elfde lid, aanhef en onderdeel c, van de regeling van 25 oktober 1999 tot wijziging van de Arbeidsomstandighedenregeling in verband met de vaststelling van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010792&artikel=II) (Stcrt. 208), wordt vastgesteld op 1 januari 2004.
 
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 1.5e, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e);
-
-Besluit:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
