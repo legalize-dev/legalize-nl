@@ -4,7 +4,7 @@ identifier: "BWBR0016208"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2003-04-01"
+last_updated: "2003-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016208"
 soort: "wet"
@@ -67,7 +67,7 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel IX
 
