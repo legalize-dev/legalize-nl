@@ -4,7 +4,7 @@ identifier: "BWBR0005120"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-09-13"
-last_updated: "1995-06-09"
+last_updated: "2002-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005120"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. militair ambtenaar: de militair ambtenaar in de zin van [artikel 1 van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
 
-- c. dienstplichtige: de dienstplichtige in de zin van [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005120&artikel=1&z=1995-06-09&g=1995-06-09), ten 1° en 2° van de Wet rechtstoestand dienstplichtigen;
+- c. dienstplichtige: de dienstplichtige in de zin van [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005120&artikel=1&z=2002-09-13&g=2002-09-13), ten 1° en 2° van de Wet rechtstoestand dienstplichtigen;
 
 - d. klager: de militair ambtenaar bedoeld in [artikel 9, eerste lid van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9) dan wel de dienstplichtige als bedoeld in artikel 4**b**, eerste lid van de Wet rechtstoestand dienstplichtigen;
 
@@ -109,5 +109,11 @@ Dit besluit treedt tegelijkertijd in werking met de Wet van 29 augustus 1991 (**
 ##### Artikel 7. Citeertitel
 
 Dit besluit kan worden aangehaald als "Besluit klachtrecht militairen".
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 6a. Grondslag
+
+Dit besluit berust op [artikel 9, vierde lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=9).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
