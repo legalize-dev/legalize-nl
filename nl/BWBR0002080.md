@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2002-08-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -137,9 +137,9 @@ De rechtsgebieden van de tot het ressort 's-Hertogenbosch behorende rechtbanken 
 
 - 2. Arrondissement 's-Hertogenbosch: Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Budel, Cuijk, Deurne, Eersel, Eindhoven, Geldrop, Gemert-Bakel, Gerwen en Nederwetten, Grave, Haaren, Heeze-Leende, Helmond, 's-Hertogenbosch, Heusden, Laarbeek, Landerd, Lith, Maasdonk, Mierlo, Mill en Sint Hubert, Nuenen, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre.
 
-- 3. Arrondissement Maastricht: Beek, Brunssum, Eijsden, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Margraten, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Susteren, Vaals, Valkenburg aan de Geul, Voerendaal.
+- 3. Arrondissement Maastricht: Beek, Brunssum, Eijsden, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Margraten, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
 
-- 4. Arrondissement Roermond: Ambt Montfort, Arcen en Velden, Beesel, Bergen (L.), Echt, Gennep, Haelen, Heel, Helden, Heythuysen, Horst aan de Maas, Hunsel, Kessel, Maasbracht, Maasbree, Meerlo-Wanssum, Meijel, Mook en Middelaar, Nederweert, Roerdalen, Roermond, Roggel, Sevenum, Swalmen, Thorn, Venlo, Venray, Weert.
+- 4. Arrondissement Roermond: Ambt Montfort, Arcen en Velden, Beesel, Bergen (L.), Echt-Susteren, Gennep, Haelen, Heel, Helden, Heythuysen, Horst aan de Maas, Hunsel, Kessel, Maasbracht, Maasbree, Meerlo-Wanssum, Meijel, Mook en Middelaar, Nederweert, Roerdalen, Roermond, Roggel, Sevenum, Swalmen, Thorn, Venlo, Venray, Weert.
 
 ##### Artikel 10
 
