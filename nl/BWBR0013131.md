@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2002-12-18"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -58,13 +58,13 @@ Hebben goedgevonden en verstaan:
 
 5. Het bruto maandsalaris behorende bij de functie van sectorvoorzitter van een rechtbank is gelijk aan het maximum bruto maandsalaris behorende bij de ambten die in [artikel 7, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 7 zijn ingedeeld.
 
-6. Voor de directeuren bedrijfsvoering bij de gerechtshoven te Amsterdam en 's-Gravenhage, de directeuren bedrijfsvoering bij de rechtbanken te Amsterdam, Arnhem, Breda, 's-Gravenhage, Groningen, Haarlem, 's-Hertogenbosch, Leeuwarden, Maastricht, Rotterdam, Utrecht, Zutphen en Zwolle, en de directeur bedrijfsvoering bij de Centrale Raad van Beroep geldt salarisschaal 15 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+6. Voor de directeuren bedrijfsvoering bij de gerechtshoven te Amsterdam en 's-Gravenhage, de directeuren bedrijfsvoering bij de rechtbanken te Amsterdam, Arnhem, Breda, 's-Gravenhage, Groningen, Haarlem, 's-Hertogenbosch, Leeuwarden, Maastricht, Rotterdam, Utrecht, Zutphen en Zwolle, en de directeur bedrijfsvoering bij de Centrale Raad van Beroep geldt salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-7. Voor de directeuren bedrijfsvoering bij de andere gerechtshoven, de andere rechtbanken en het College van Beroep voor het bedrijfsleven geldt salarisschaal 14 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+7. Voor de directeuren bedrijfsvoering bij de andere gerechtshoven, de andere rechtbanken en het College van Beroep voor het bedrijfsleven geldt salarisschaal 15 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 8. Voor de rechterlijk ambtenaar met rechtspraak belast die onderscheidenlijk het lid met rechtspraak belast dat is aangesteld voor het vervullen van een gedeeltelijke taak, bedraagt het salaris behorende bij een in het eerste tot en met vijfde lid genoemde functie, een met zijn taak overeenkomend deel van het voor die functie ingevolge het eerste tot en met vijfde lid geldende salaris.
 
-9. Het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) is, met uitzondering van de [artikelen 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=1), [5, tweede, derde en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5a), [7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8), en [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=24), van overeenkomstige toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
+9. Het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) is, met uitzondering van de [artikelen 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=1), [5, tweede, derde en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5a), [7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8), en [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=24), van overeenkomstige toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
 ##### Artikel 2
 
@@ -86,7 +86,7 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de directeuren bedrijfsvoering uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2002-12-18&g=2002-12-18), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2003-11-19&g=2003-11-19), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
@@ -128,7 +128,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2002-12-18&g=2002-12-18) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2003-11-19&g=2003-11-19) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
 
 ##### Artikel 9b
 
