@@ -4,7 +4,7 @@ identifier: "BWBR0013504"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-12-12"
-last_updated: "2002-03-17"
+last_updated: "2004-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013504"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Wijzigt de Subsidieregeling arbeidsomstandigheden
 
 ##### Artikel II
 
-Het subsidieplafond als bedoeld in artikel 8, eerste lid, van de Subsidieregeling arbeidsomstandigheden voor het jaar 2002 wordt vastgesteld op € 5.500.000,-.
+Vervallen
 
 ##### Artikel III
 
-Het subsidieplafond als bedoeld in artikel 9, eerste lid, van de Subsidieregeling convenanten arbeidsomstandigheden voor het jaar 2002 wordt vastgesteld op € 31.765.000,-.
+Vervallen
 
 ##### Artikel IV
 
