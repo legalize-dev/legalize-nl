@@ -257,23 +257,3 @@ Een wijziging van de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014) en v
 Deze regeling wordt aangehaald als: Regeling geluidemissie buitenmaterieel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 3a
-
-1. Het is verboden materieel voor gebruik buitenshuis in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van materieel voor gebruik buitenshuis, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
-
-3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
-
-##### Artikel 18a
-
-1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt aanbieden van materieel voor gebruik buitenshuis, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van materieel voor gebruik buitenshuis, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
