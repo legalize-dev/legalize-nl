@@ -4,7 +4,7 @@ identifier: "BWBR0017085"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "2004-07-01"
+last_updated: "2004-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017085"
 soort: "AMvB"
@@ -49,11 +49,11 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt wat de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017085&artikel=1&z=2004-08-20&g=2004-08-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017085&artikel=2&z=2004-08-20&g=2004-08-20) betreft terug tot en met het tijdstip waarop [artikel I, onderdeel Q, van de Veegwet modernisering rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0016728&artikel=I) in werking is getreden.
 
 Op de voordracht van Onze Minister van Justitie van 2 juli 2004, nr. 5295112/04/6;
 
