@@ -313,11 +313,3 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 Deze wet kan worden aangehaald als: Wet aansprakelijkheid olietankschepen. Zij treedt voor wat betreft de [artikelen 4-7](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=II&artikel=4&z=1999-02-17&g=1999-02-17) en [9-29](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=III&artikel=9&z=1999-02-17&g=1999-02-17) in werking op een door Ons nader te bepalen tijdstip. De [artikelen 1-3](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=I&artikel=1&z=1999-02-17&g=1999-02-17) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&hoofdstuk=II&artikel=8&z=1999-02-17&g=1999-02-17) zijn slechts van toepassing ten aanzien van aansprakelijkheid uit een voorval dat na de dag van inwerkingtreding van deze wet heeft plaats gevonden.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 27a
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.
-
-### Hoofdstuk VI. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
