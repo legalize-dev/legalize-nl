@@ -57,13 +57,3 @@ Als personen, bedoeld in [artikel 6, tweede lid, van de Politiewet 1993](https:/
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot en met 1 april 1994.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 3
-
-Dit besluit berust op [artikel 4, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
-
-##### Artikel 4
-
-Dit besluit wordt aangehaald als: Besluit aanwijzing van de personen, bedoeld in artikel 4, tweede lid, van de Politiewet 2012.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
