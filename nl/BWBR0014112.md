@@ -4,7 +4,7 @@ identifier: "BWBR0014112"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-09-01"
-last_updated: "2003-01-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014112"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Het NEN is bevoegd om voor wat betreft [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=I&z=2003-01-01&g=2003-01-01) namens de Minister van Volksgezondheid, Welzijn en Sport en voor wat betreft [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=II&z=2003-01-01&g=2003-01-01) namens de Minister van Sociale Zaken en Werkgelegenheid ter uitvoering van EG-richtlijnen en de implementatieregelingen daarvan geharmoniseerde normen aan te wijzen en de referenties daarvan in de Staatscourant bekend te maken.
+Het NEN is bevoegd om voor wat betreft [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=I&z=2003-09-01&g=2003-09-01) namens de Minister van Volksgezondheid, Welzijn en Sport en voor wat betreft [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=II&z=2003-09-01&g=2003-09-01) namens de Minister van Sociale Zaken en Werkgelegenheid ter uitvoering van EG-richtlijnen en de implementatieregelingen daarvan geharmoniseerde normen aan te wijzen en de referenties daarvan in de Staatscourant bekend te maken.
 
 ##### Artikel 3
 
@@ -57,7 +57,7 @@ Het NEN is bevoegd om voor wat betreft [bijlage I](https://wetten.overheid.nl/jc
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt voor wat betreft [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=I&z=2003-01-01&g=2003-01-01) terug tot en met 28 november 1998 en voor wat betreft [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=II&z=2003-01-01&g=2003-01-01) tot en met 2 augustus 1999.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt voor wat betreft [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=I&z=2003-09-01&g=2003-09-01) terug tot en met 28 november 1998 en voor wat betreft [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0014112&bijlage=II&z=2003-09-01&g=2003-09-01) tot en met 2 augustus 1999.
 
 ## Bijlage I
 
@@ -94,20 +94,20 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 | --- | --- |
 |   |   |
 | **1. Drukvaten van eenvoudige vorm** |   |
-| [Richtlijn nr. 87/404/EEG](31987L0404) van de Raad van de Europese Gemeenschappen van 25 juni 1987 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake drukvaten van eenvoudige vorm (PbEG L 220), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 93/68/EEG](31993L0068) van de Raad van de Europese Gemeenschappen van 22 juli 1993 (PbEG L 220) | [Besluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627) |
+| [Richtlijn nr. 87/404/EEG](31987L0404) van de Raad van de Europese Gemeenschappen van 25 juni 1987 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake drukvaten van eenvoudige vorm (PbEG L 220), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 93/68/EEG](31993L0068) van de Raad van de Europese Gemeenschappen van 22 juli 1993 (PbEG L 220) | [Warenwetbesluit drukvaten van eenvoudige vorm](https://wetten.overheid.nl/jci1.3:c:BWBR0005627) |
 |   |   |
-| **2. Explosieveilig materieel** | [Besluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497) |
+| **2. Explosieveilig materieel** | [Warenwetbesluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497) |
 | [Richtlijn nr. 94/9/EG](31994L0009) van het Europees Parlement en de Raad van de Europese Unie van 23 maart 1994 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende apparaten en beveiligingssystemen bedoeld voor gebruik op plaatsen waar ontploffingsgevaar kan heersen (PbEG L 100) |   |
 |   |   |
 | **3. Liften** |   |
-| [Richtlijn nr. 95/16/EG](31995L0016) van het Europees Parlement en de Raad van de Europese Unie van 29 juni 1995 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende liften (PbEG L 213) | [Besluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212) |
+| [Richtlijn nr. 95/16/EG](31995L0016) van het Europees Parlement en de Raad van de Europese Unie van 29 juni 1995 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende liften (PbEG L 213) | [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212) |
 | **4. Drukapparatuur** |   |
-| [Richtlijn nr. 97/23/EG](31997L0023) van het Europees Parlement en de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wet- gevingen der lidstaten betreffende druk- apparatuur (PbEG L 181) | [Besluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586) |
+| [Richtlijn nr. 97/23/EG](31997L0023) van het Europees Parlement en de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wet- gevingen der lidstaten betreffende druk- apparatuur (PbEG L 181) | [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586) |
 |   |   |
 | **5. Persoonlijke beschermingsmiddelen** |   |
-| [Richtlijn nr. 89/686/EEG](31989L0686) van de Raad van de Europese Gemeenschappen van 21 december 1989 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende persoonlijke beschermingsmiddelen (PbEG L 399), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 96/58/EG](31996L0058) van het Europees Parlement en de Raad van de Europese Unie van 3 september 1996 (PbEG L 236) | [Besluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006095) |
+| [Richtlijn nr. 89/686/EEG](31989L0686) van de Raad van de Europese Gemeenschappen van 21 december 1989 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende persoonlijke beschermingsmiddelen (PbEG L 399), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 96/58/EG](31996L0058) van het Europees Parlement en de Raad van de Europese Unie van 3 september 1996 (PbEG L 236) | [Warenwetbesluit persoonlijke beschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005570) |
 |   |   |
 | **6. Machines** |   |
-| [Richtlijn nr. 98/37/EG](31998L0037) van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende machines (PbEG L 207), zoals deze is gewijzigd bij [richtlijn nr. 98/79/EG](31998L0079) van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 1998 (PbEG L 331) | [Besluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005884) |
+| [Richtlijn nr. 98/37/EG](31998L0037) van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten betreffende machines (PbEG L 207), zoals deze is gewijzigd bij [richtlijn nr. 98/79/EG](31998L0079) van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 1998 (PbEG L 331) | [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577) |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
