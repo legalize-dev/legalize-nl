@@ -373,17 +373,3 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 Deze wet kan worden aangehaald als: Wet Landelijk Bureau Inning Onderhoudsbijdragen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 3. Organisatie
-
-### Hoofdstuk 4. Financieel beheer en verslaglegging
-
-#### § 2. De jaarrekening en het jaarverslag
-
-### Hoofdstuk 5. Inlichtingen
-
-### Hoofdstuk 6. Wijziging van andere wetten
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
