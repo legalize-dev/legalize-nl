@@ -4,7 +4,7 @@ identifier: "BWBR0011462"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2000-10-11"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011462"
 soort: "wet"
@@ -53,17 +53,11 @@ Wijzigt de Algemene bijstandswet.
 
 ##### Artikel III
 
-1. De kunstenaar, bedoeld in [artikel 47, van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=47) die niet binnen twaalf maanden als bedoeld in eerste lid, onder b, van dat artikel een aanvraag heeft ingediend of wiens aanvraag is afgewezen, uitsluitend vanwege het ontbreken in de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) van een regeling voor het verlenen van uitkering aan kunstenaars die over vermogen beschikken in de door hem en zijn gezin in eigendom bewoonde woning, kan binnen zes maanden na de inwerkingtreding van deze wet alsnog een aanvraag voor uitkering op grond van [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) indienen.
-
-2. [Artikel 47, eerste lid, onder a en c en het tweede lid van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=47) zijn van toepassing, met dien verstande dat:
-
-- a. onder het eerste jaar als bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=47), wordt verstaan: het eerste jaar na de inwerkingtreding van deze wet;
-
-- b. voor de kunstenaar, bedoeld in het eerste lid, de bedragen, genoemd in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=47), door Onze Minister, op de in [artikel 12 van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=12) voorgeschreven wijze, hoger worden vastgesteld, voorzover de ontwikkeling van het netto minimumloon en de netto aanspraak op minimumvakantiebijslag, gerekend vanaf 1 juli 1999 daartoe aanleiding geeft.
+Vervallen
 
 ##### Artikel IV
 
-Onze Minister herziet met ingang van de datum van inwerkingtreding van deze wet de in [artikel 4, onderdeel a, van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=4) genoemde bedragen, op de in [artikel 12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=12) voorgeschreven wijze, voorzover de ontwikkeling van het netto minimumloon en de netto aanspraak op minimumvakantiebijslag, gerekend vanaf 1 januari 2000 daartoe aanleiding geeft.
+Vervallen
 
 ##### Artikel V
 
