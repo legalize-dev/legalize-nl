@@ -4,7 +4,7 @@ identifier: "BWBR0006043"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2002-03-01"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006043"
 soort: "AMvB"
@@ -58,15 +58,15 @@ In dit besluit wordt verstaan onder:
 
 - e. betrokkene;
 
-- 1°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), met uitzondering van hem op wie [hoofdstuk VI](onbekend) van dat reglement niet van toepassing was, aan wie wegens blijvende ongeschiktheid voor het vervullen van zijn betrekking ontslag is verleend met dadelijk ingaand recht op invaliditeitspensioen;
+- 1°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), met uitzondering van hem op wie [hoofdstuk VI van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&hoofdstuk=4) niet van toepassing was, aan wie wegens blijvende ongeschiktheid voor het vervullen van zijn betrekking ontslag is verleend met dadelijk ingaand recht op invaliditeitspensioen;
 
-- 2°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), die op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) van dat reglement aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan het hem verleende ontslag geen aanspraak op wachtgeld kon ontlenen.
+- 2°. de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), die op grond van [artikel 62 van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan het hem verleende ontslag geen aanspraak op wachtgeld kon ontlenen.
 
 - 3°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit wiens arbeidsovereenkomst met dadelijk ingaand recht op invaliditeitspensioen is beëindigd door opzegging wegens ongeschiktheid uit hoofde van ziekten of gebreken voor het vervullen van zijn betrekking, tenzij hij ter zake van het vervullen van die betrekking werknemer was in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
 - 4°. de gewezen werknemer in burgerlijke openbare dienst bij het Ministerie van Defensie in de zin van het Arbeidsovereenkomstenbesluit, die op grond van artikel 32**c** van dat besluit aanspraak heeft op een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en aan de beëindiging der arbeidsovereenkomst geen aanspraak op wachtgeld kon ontlenen;
 
-een en ander met uitzondering van degene die ingevolge [artikel A1, tweede lid onder **a, b,** of **d**, van de Algemene militaire pensioenwet](onbekend) wordt begrepen onder militair, beroepsmilitair of reservist.
+een en ander met uitzondering van degene die ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen wordt begrepen onder militair, beroepsmilitair of reservist.
 
 ##### Artikel 2
 
@@ -154,11 +154,11 @@ Onze Minister kan regels stellen ter voorkoming of beperking van samenloop van u
 
 ##### Artikel 11a
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de[artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=10&z=1998-12-23&g=2002-03-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=11&z=1998-12-23&g=2002-03-01) kan mandaat worden verleend aan de directeur-generaal personeel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de[artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=10&z=2003-05-23&g=2003-05-23) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=11&z=2003-05-23&g=2003-05-23) kan mandaat worden verleend aan de directeur-generaal personeel en materieel van het Ministerie van Defensie.
 
 ##### Artikel 12
 
-1. Een betrokkene als bedoeld in [artikel 1, onder **e**, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=1998-12-23&g=2002-03-01), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
+1. Een betrokkene als bedoeld in [artikel 1, onder **e**, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=2003-05-23&g=2003-05-23), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
 
 2. [Artikel 3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) is van overeenkomstige toepassing.
 
