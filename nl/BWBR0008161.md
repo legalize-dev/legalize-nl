@@ -77,11 +77,3 @@ Wijzigt deze wet.
 Deze wet treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### ARTIKEL Va
-
-1. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0008161&artikel=V&z=2026-01-01&g=2026-01-01) van deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-2. Waar in deze wet wordt gesproken over aanstelling wordt tevens aanstelling van ambtenaren als bedoeld in de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) begrepen.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
