@@ -4,7 +4,7 @@ identifier: "BWBR0013200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-01"
-last_updated: "2003-12-18"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013200"
 soort: "ministeriele-regeling"
@@ -82,27 +82,25 @@ Besluiten:
 
 5. De korpsbeheerder draagt er voor zorg dat de ambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een ambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door de korpsbeheerder ingenomen.
 
-6. In afwijking van het vijfde lid, draagt de korpsbeheerder er voor zorg dat de ambtenaar wiens vuurwapen is ingenomen, tijdens de uitoefening van de dienst ook niet beschikt over de geweldsmiddelen in het gebruik waarvan hij wel is geoefend, totdat in een individueel plan van aanpak met deze ambtenaar afspraken zijn gemaakt over zijn verantwoorde inzet zonder het vuurwapen.
-
 ##### Artikel 3
 
-1. De korpsbeheerder biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing. De korpsbeheerder onderscheidenlijk de direct toezichthouder draagt zorg voor de inhoud en organisatie van de training en voor de organisatie van de toetsing.
+1. De korpsbeheerder biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing.
 
-2. De ambtenaar neemt jaarlijks deel aan ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing.
+2. Vervallen.
 
 3. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door de korpsbeheerder daartoe aangewezen toetser.
 
 ##### Artikel 4
 
-Indien een ambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde perioden, een van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de korpsbeheerder.
+Indien een ambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01) bedoelde perioden, een van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de korpsbeheerder.
 
 ##### Artikel 5
 
-1. De korpsbeheerder draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen.
+1. De korpsbeheerder draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01) bedoelde toetsen.
 
-2. Het regionale college publiceert jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen.
+2. Het regionale college publiceert jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01) bedoelde toetsen.
 
-3. Het regionale college verstrekt jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
+3. Het regionale college verstrekt jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
@@ -112,9 +110,9 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2002 en vervalt met ingang van 1 januari 2005. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2001, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2002.
 
-2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18), treedt met ingang van 1 januari 2003 in werking.
+2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01), treedt met ingang van 1 januari 2003 in werking.
 
-3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2003-12-18&g=2003-12-18), vervallen met ingang van 1 januari 2004.
+3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2004-01-01&g=2004-01-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2004-01-01&g=2004-01-01), vervallen met ingang van 1 januari 2004.
 
 ##### Artikel 8
 
