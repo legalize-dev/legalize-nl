@@ -4,7 +4,7 @@ identifier: "BWBR0016332"
 country: "nl"
 rank: "wet"
 publication_date: "2004-03-26"
-last_updated: "2002-07-01"
+last_updated: "2004-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016332"
 soort: "wet"
@@ -88,7 +88,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In het besluit kan worden bepaald dat de verschillende artikelen of onderdelen daarvan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor die artikelen of onderdelen verschillend kan worden vastgesteld. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
