@@ -4,7 +4,7 @@ identifier: "BWBR0006667"
 country: "nl"
 rank: "wet"
 publication_date: "2002-06-12"
-last_updated: "1994-08-01"
+last_updated: "2002-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006667"
 soort: "wet"
@@ -48,7 +48,9 @@ Adeldom wordt verleend bij koninklijk besluit. De verlening kan uitsluitend gesc
 
 1. De verlening van adeldom geschiedt door verheffing, inlijving of erkenning.
 
-2. Verheffing in de adel bij koninklijk besluit kan uitsluitend plaatsvinden ten aanzien van leden van het koninklijk huis.
+2. Verheffing in de adel bij koninklijk besluit kan uitsluitend plaatsvinden ten aanzien van leden van het koninklijk huis en van voormalige leden daarvan binnen drie maanden na verlies van het lidmaatschap van het koninklijk huis.
+
+De verlening van de titels «Prins (Prinses) der Nederlanden» en «Prins (Prinses) van Oranje-Nassau» wordt bij of krachtens de [Wet lidmaatschap koninklijk huis](https://wetten.overheid.nl/jci1.3:c:BWBR0013729) bepaald.
 
 3. Inlijving in de Nederlandse adel kan slechts plaatsvinden ten aanzien van personen wier geslacht behoort tot de wettelijk erkende adel van een staat met een vergelijkbaar adelsstatuut en die het verzoek tot inlijving hebben gedaan.
 
