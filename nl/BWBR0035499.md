@@ -1,0 +1,40 @@
+---
+title: "Beleidsregels ontheffing verbod op werktijdverkorting 2004"
+identifier: "BWBR0035499"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-10-18"
+last_updated: "2004-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035499"
+soort: "beleidsregel"
+stam_id: "12782943"
+version_id: "21702012"
+internal_id: "C31143231"
+label_id: "12752584"
+dtd_version: "2.0"
+original_entry_into_force: "2004-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035499/2004-10-18/0"
+intitule_bron: "Stcrt.2004-199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-08"
+intitule_published: "2004-10-15"
+intitule_in_force: "2004-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-199"
+original_signed_date: "2004-10-08"
+original_published_date: "2004-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-199-p13-SC67058"
+entry_into_force_date: "2004-10-18"
+jci_1_3: "jci1.3:c:BWBR0035499&z=2004-10-18&g=2004-10-18"
+jci_1_0: "1.0:c:BWBR0035499&g=2004-10-18"
+citeertitel_status: "redactioneel"
+signed_date: "2004-10-08"
+entry_into_force: "2004-10-18"
+---
+# Beleidsregels ontheffing verbod op werktijdverkorting 2004
+
+Op verzoek van de werkgever wordt een ontheffing verleend als bedoeld in [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8), voor de bij die ontheffing aan te wijzen werknemers of groepen van werknemers, indien gedurende ten minste 2 kalenderweken en gedurende ten hoogste 24 kalenderweken, ten minste 20% van de aan de werkgever ter beschikking staande arbeidscapaciteit niet kan of naar verwachting niet zal kunnen worden benut, vanwege een vermindering in bedrijvigheid door buitengewone omstandigheden die in redelijkheid niet tot het normale ondernemersrisico kunnen worden gerekend. Een ontheffing wordt verleend voor een periode van ten hoogste 6 weken en kan op verzoek van de werkgever drie maal worden verlengd, telkens voor een periode van ten hoogste 6 weken.
+
+Geen ontheffing wordt verleend:
