@@ -62,11 +62,3 @@ Sectorwerkgever van het personeel dat werkzaam is in de sector Beroepsonderwijs 
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
-
-##### Artikel 5a
-
-Sectorwerkgever van het personeel dat werkzaam is in de sector primair onderwijs: de vereniging PO-raad.
-
-##### Artikel 5b
-
-Sectorwerkgever van het personeel dat werkzaam is in de sector voortgezet onderwijs: de vereniging VO-raad.
