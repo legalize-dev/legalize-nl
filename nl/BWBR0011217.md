@@ -4,7 +4,7 @@ identifier: "BWBR0011217"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2000-04-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011217"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder de commissie: de klachtencommissie, bedoeld 
 
 1. De commissie bestaat uit vijf leden, waaronder de voorzitter.
 
-2. Er kunnen plaatsvervangende leden worden benoemd. Op hen zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=4&z=2000-04-01&g=2000-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=5&z=2000-04-01&g=2000-04-01) van overeenkomstige toepassing.
+2. Er kunnen plaatsvervangende leden worden benoemd. Op hen zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=4&z=2000-04-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011217&artikel=5&z=2000-04-01&g=2005-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
