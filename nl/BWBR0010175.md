@@ -4,7 +4,7 @@ identifier: "BWBR0010175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2004-09-13"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010175"
 soort: "ministeriele-regeling"
@@ -149,31 +149,19 @@ Ten minste eenmaal per week stelt de inrichtingsarts of een aan de inrichting ve
 
 ##### Artikel 11. Uitzonderingen
 
-Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10a&z=2004-09-13&g=2004-09-13), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10b&z=2004-09-13&g=2004-09-13) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10c&z=2004-09-13&g=2004-09-13) niet van toepassing op verblijfsruimten waarin een gedetineerde tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van gedetineerden.
+Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10a&z=2005-01-01&g=2005-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10b&z=2005-01-01&g=2005-01-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10c&z=2005-01-01&g=2005-01-01) niet van toepassing op verblijfsruimten waarin een gedetineerde tijdelijk wordt ondergebracht of op ruimten die worden gebruikt voor onderzoek van gedetineerden.
 
 ##### Artikel 11a. Experiment Amerswiel
 
-1. Er is een experiment Amerswiel te Heerhugowaard dat loopt van 1 januari 2001 tot 1 januari 2005. Het experiment wordt tussentijds en aan het einde van de aangegeven periode geëvalueerd.
-
-2. De Minister van Justitie wijst de inrichting of afdeling aan waar het experiment plaatsvindt.
-
-3. De inrichting Amerswiel bestaat uit huizen. In een huis bevinden zich verblijfsruimten voor persoonlijk gebruik, een gezamenlijke keuken, huiskamer en ruimten met toilet en douche al dan niet voor gezamenlijk gebruik.
-
-4. Op het experiment Amerswiel zijn de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2004-09-13&g=2004-09-13), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=4&artikel=12&z=2004-09-13&g=2004-09-13) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=5&artikel=13&z=2004-09-13&g=2004-09-13) niet van toepassing.
-
-5. De huizen zijn voorzien van een van buitenaf afsluitbare deur en in elke verblijfsruimte bevindt zich een beveiligd raam. Elke verblijfsruimte is voorzien van een deur die slechts van buitenaf kan worden afgesloten.
-
-6. De huizen, verblijfsruimten en gezamenlijke ruimten zijn zodanig uitgevoerd en ingericht dat zij de individuele gedetineerde voldoende ruimte, daglicht, verwarming en ventilatie bieden.
-
-7. De huizen zijn voorzien van een intercom of bel waarmee ten allen tijde een ambtenaar of medewerker van de inrichting kan worden opgeroepen. In het huis is een radio- en tv aansluitpunt aanwezig.
+Vervallen
 
 #### § 4. Bijzondere bepalingen voor verblijfsruimten
 
 ##### Artikel 12. Verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen
 
-1. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2004-09-13&g=2004-09-13) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2004-09-13&g=2004-09-13), niet van toepassing, terwijl op verblijfsruimten in beperkt beveiligde inrichtingen ook het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2004-09-13&g=2004-09-13) en op verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2004-09-13&g=2004-09-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2004-09-13&g=2004-09-13) niet van toepassing is.
+1. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), niet van toepassing, terwijl op verblijfsruimten in beperkt beveiligde inrichtingen ook het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01) en op verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) niet van toepassing is.
 
-2. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen, bestemd voor de onderbrenging van meer dan één gedetineerde, is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2004-09-13&g=2004-09-13) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2004-09-13&g=2004-09-13), niet van toepassing, terwijl op dergelijke verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2004-09-13&g=2004-09-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2004-09-13&g=2004-09-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2004-09-13&g=2004-09-13) niet van toepassing is.
+2. Op verblijfsruimten in beperkt beveiligde en zeer beperkt beveiligde inrichtingen, bestemd voor de onderbrenging van meer dan één gedetineerde, is het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), niet van toepassing, terwijl op dergelijke verblijfsruimten in zeer beperkt beveiligde inrichtingen ook het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01) niet van toepassing is.
 
 3. De in het eerste en tweede lid genoemde verblijfsruimten zijn zodanig uitgevoerd en ingericht dat zij de individuele gedetineerde voldoende ruimte, daglicht, verwarming en ventilatie bieden.
 
@@ -183,7 +171,7 @@ Deze regeling is, met uitzondering van de [artikelen 10a](https://wetten.overhei
 
 ##### Artikel 13. Overgangsbepaling
 
-Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2004-09-13&g=2004-09-13), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2004-09-13&g=2004-09-13), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2004-09-13&g=2004-09-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2004-09-13&g=2004-09-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2004-09-13&g=2004-09-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2004-09-13&g=2004-09-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2004-09-13&g=2004-09-13) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2004-09-13&g=2004-09-13), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2004-09-13&g=2004-09-13).
+Verblijfsruimten bestemd voor één of twee gedetineerden, genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&z=2005-01-01&g=2005-01-01), in inrichtingen waarvan de bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen gesteld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=1&artikel=2&z=2005-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=5&z=2005-01-01&g=2005-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=6&z=2005-01-01&g=2005-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=10&z=2005-01-01&g=2005-01-01), en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010175&paragraaf=2&artikel=9&z=2005-01-01&g=2005-01-01).
 
 #### § 6. Slotbepalingen
 
