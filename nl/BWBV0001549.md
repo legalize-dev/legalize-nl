@@ -169,23 +169,3 @@ De bezoldiging van elke scheidsman wordt betaald door de partij die hem heeft be
 IN WITNESS WHEREOF, the Bank and each of the prospective donors, each acting through its authorized representative, have signed this Agreement.
 
 DONE at Washington, District of Columbia, on February 11, 1992, in a single original, whose English, French, Portuguese and Spanish texts are equally authentic, which shall be deposited in the archives of the Bank which shall transmit a duly certified copy to each of the prospective donors listed in Schedule A of the Fund Agreement.
-
-##### Artikel I. Samenstelling van het scheidsgerecht
-
-Vervallen
-
-##### Artikel II. Inleiding van de procedure
-
-Vervallen
-
-##### Artikel III. Bijeenkomst van het scheidsgerecht
-
-Vervallen
-
-##### Artikel IV. Procedure
-
-Vervallen
-
-##### Artikel V. Kosten
-
-Vervallen
