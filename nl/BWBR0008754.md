@@ -4,7 +4,7 @@ identifier: "BWBR0008754"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2001-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008754"
 soort: "wet"
@@ -61,7 +61,9 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in:
 
 - e. het sociale zekerheidsbeleid;
 
-- f. het emancipatiebeleid.
+- f. het emancipatiebeleid;
+
+- g. kinderopvangbeleid.
 
 ##### Artikel 3
 
@@ -91,7 +93,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in:
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2001-01-01&g=2001-01-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2005-01-01&g=2005-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -123,7 +125,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verle
 
 ##### Artikel 9
 
-Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2001-01-01&g=2001-01-01), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
+Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2005-01-01&g=2005-01-01), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
 
 ##### Artikel 10
 
