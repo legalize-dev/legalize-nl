@@ -315,27 +315,3 @@ Deze wet wordt aangehaald als: Beroepswet.
 ### C
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-De Centrale Raad van Beroep vormt en bezet op voorstel van de president grote kamers. Deze bestaan uit vijf leden, van wie een als voorzitter optreedt.
-
-## Titel II. Slotbepalingen
-
-## Bijlage. bij de Beroepswet
-
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-De leden met rechtspraak belast worden voor de overeenkomstige toepassing van [artikel 54a van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54a) gelijkgesteld met een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
-
-## Titel II. Slotbepalingen
-
-## Bijlage. bij de Beroepswet
-
-Vervallen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
