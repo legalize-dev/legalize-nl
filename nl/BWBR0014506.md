@@ -4,7 +4,7 @@ identifier: "BWBR0014506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014506"
 soort: "ministeriele-regeling"
@@ -86,13 +86,13 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 1. De Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst, bijgestaan door een managementteam (het managementteam Belastingdienst).
 
-2. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), staan elk onder leiding van een managementteam met een voorzitter.
+2. De organisatieonderdelen, genoemd in [artikel 3, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), staan elk onder leiding van een managementteam met een voorzitter.
 
 ### Hoofdstuk 2. Aanwijzing van functionarissen.
 
 ##### Artikel 5
 
-De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
 
 ##### Artikel 6
 
@@ -102,17 +102,17 @@ De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdel
 
 ##### Artikel 7
 
-De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen zijn gezamenlijk directeur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen zijn gezamenlijk directeur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
 
 ##### Artikel 8
 
-De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De voorzitters kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.
+De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De voorzitters kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.
 
 ##### Artikel 9
 
-1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen en de voorzitter van het managementteam van de B/CA zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84) (contactambtenaar).
+1. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen en de voorzitter van het managementteam van de B/CA zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84) (contactambtenaar).
 
-2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen zijn inspecteur bevoegd tot het geven van een machtiging, als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), voor het binnentreden in een woning die zich bevindt in of op een uit zee binnenkomend of ter zee uitgaand vervoermiddel.
+2. De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen zijn inspecteur bevoegd tot het geven van een machtiging, als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), voor het binnentreden in een woning die zich bevindt in of op een uit zee binnenkomend of ter zee uitgaand vervoermiddel.
 
 ##### Artikel 10
 
@@ -124,19 +124,19 @@ De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdel
 
 ##### Artikel 11
 
-1. De woonplaats van een natuurlijk persoon dan wel de vestigingsplaats van een lichaam of een entiteit bepaalt, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon, het lichaam of de entiteit ressorteert, tenzij in dit hoofdstuk dan wel op grond van het vierde lid anders is bepaald.
+1. De woonplaats van een natuurlijk persoon dan wel de vestigingsplaats van een lichaam of een entiteit bepaalt, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), onder welke inspecteur of ontvanger de natuurlijk persoon, het lichaam of de entiteit ressorteert, tenzij in dit hoofdstuk dan wel op grond van het vierde lid anders is bepaald.
 
-2. Voor het verrichten van rechtshandelingen op grond van wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2) met betrekking tot goederen die zich onder douanetoezicht bevinden of onder douanetoezicht geplaatst moeten worden, bepaalt de plaats waar de goederen zich bevinden, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), onder welke inspecteur een belanghebbende ressorteert, tenzij in dit hoofdstuk of op grond van het vierde lid anders is bepaald dan wel door de inspecteur is toegestaan dat het eerste lid van toepassing is.
+2. Voor het verrichten van rechtshandelingen op grond van wettelijke bepalingen in de zin van [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2) met betrekking tot goederen die zich onder douanetoezicht bevinden of onder douanetoezicht geplaatst moeten worden, bepaalt de plaats waar de goederen zich bevinden, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), onder welke inspecteur een belanghebbende ressorteert, tenzij in dit hoofdstuk of op grond van het vierde lid anders is bepaald dan wel door de inspecteur is toegestaan dat het eerste lid van toepassing is.
 
-3. De voorzitter van een managementteam van een in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemd organisatieonderdeel kan voor de toepassing van deze regeling namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2003-01-01&g=2003-01-01), bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met één of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
+3. De voorzitter van een managementteam van een in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemd organisatieonderdeel kan voor de toepassing van deze regeling namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2003-01-01&g=2003-03-15), bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met één of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.
 
-4. De voorzitter van een managementteam als bedoeld in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), kan in daartoe aanleiding gevende gevallen namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2003-01-01&g=2003-01-01), van het bepaalde in dit hoofdstuk afwijken.
+4. De voorzitter van een managementteam als bedoeld in [artikel 3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), kan in daartoe aanleiding gevende gevallen namens de directeur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=2&artikel=7&z=2003-01-01&g=2003-03-15), van het bepaalde in dit hoofdstuk afwijken.
 
 5. De woonplaats van een natuurlijk persoon en de vestigingsplaats van een lichaam of een entiteit worden naar de omstandigheden beoordeeld.
 
 ##### Artikel 12
 
-1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), ten aanzien van een niet tot een entiteit behorend natuurlijk persoon of lichaam die of dat buiten Nederland woont of is gevestigd, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
+1. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), ten aanzien van een niet tot een entiteit behorend natuurlijk persoon of lichaam die of dat buiten Nederland woont of is gevestigd, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
 2. Met betrekking tot de teruggave van dividendbelasting, ingehouden op dividenden uitgekeerd aan een inwoner van Aruba of de Nederlandse Antillen of aan een inwoner van landen waarmee Nederland een belastingverdrag heeft gesloten, ressorteert de natuurlijk persoon of het lichaam onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
@@ -144,7 +144,7 @@ De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdel
 
 1. Met betrekking tot de heffing en invordering van rijksbelastingen ressorteert de natuurlijk persoon, het lichaam of de entiteit die als hoofdactiviteit het bedrijf van olieraffinaderij uitoefent, alsmede de natuurlijk persoon, het lichaam of de entiteit die gespecialiseerd is in het verrichten van werkzaamheden ten behoeve van olieraffinaderijen, onder de voorzitter van het managementteam van de Belastingdienst/Rijnmond.
 
-2. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), ressorteert de natuurlijk persoon, het lichaam of de entiteit die:
+2. Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), ressorteert de natuurlijk persoon, het lichaam of de entiteit die:
 
 - 1°. als hoofdactiviteit het bank- en effectenbedrijf of het bedrijf van verzekeringsmaatschappij uitoefent, onder de voorzitter van het managementteam van de Belastingdienst/Amsterdam;
 
@@ -162,7 +162,7 @@ De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdel
 
 ##### Artikel 14
 
-1. Met betrekking tot de heffing en invordering van het recht van successie en het recht van schenking bepaalt de woonplaats of de vestigingsplaats van de erflater onderscheidenlijk de schenker, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
+1. Met betrekking tot de heffing en invordering van het recht van successie en het recht van schenking bepaalt de woonplaats of de vestigingsplaats van de erflater onderscheidenlijk de schenker, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
 
 2. Met betrekking tot de heffing en invordering van het recht van successie ressorteert de natuurlijk persoon of het lichaam, indien de erflater ten tijde van zijn overlijden geen woonplaats binnen Nederland had, onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
@@ -174,9 +174,9 @@ De voorzitters van de managementteams van de in [artikel 3, eerste lid, onderdel
 
 ##### Artikel 15
 
-1. Met betrekking tot de heffing en invordering van de overdrachtsbelasting bepaalt de woonplaats of de vestigingsplaats van de verkrijger, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
+1. Met betrekking tot de heffing en invordering van de overdrachtsbelasting bepaalt de woonplaats of de vestigingsplaats van de verkrijger, met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), onder welke inspecteur of ontvanger de natuurlijk persoon of het lichaam ressorteert.
 
-2. Indien een aangifte overdrachtsbelasting wordt gedaan door middel van een akte, bepaalt de woonplaats of vestigingsplaats van de notaris, in afwijking van het eerste lid en met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), onder welke ontvanger de notaris ressorteert.
+2. Indien een aangifte overdrachtsbelasting wordt gedaan door middel van een akte, bepaalt de woonplaats of vestigingsplaats van de notaris, in afwijking van het eerste lid en met inachtneming van de indeling opgenomen in de bijlage bij deze regeling en in samenhang met de taakverdeling, omschreven in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), onder welke ontvanger de notaris ressorteert.
 
 3. Met betrekking tot de heffing en invordering van de kapitaalsbelasting ressorteert het lichaam, indien het lichaam geen vestigingsplaats heeft binnen Nederland, onder de voorzitter van het managementteam van de Belastingdienst/Limburg.
 
@@ -278,7 +278,7 @@ Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Al
 
 - g. de Vertegenwoordiger van de Hoge Commissaris der Verenigde Naties voor Vluchtelingen te Den Haag.
 
-3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), bedoelde rijksbelastingen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden:
+3. De volgende instellingen ressorteren voor de heffing en invordering van omzetbelasting en van de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), bedoelde rijksbelastingen onder de voorzitter van het managementteam van de Belastingdienst/Haaglanden:
 
 - a. diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-onderdelen gevestigd, dan wel gelegerd in andere lidstaten van de Europese Unie, alsmede de daaraan verbonden personeelsleden;
 
@@ -292,7 +292,7 @@ Met betrekking tot de uitvoering van de Landinrichtingswet, de Reconstructiewet 
 
 ##### Artikel 22
 
-Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), ten aanzien van een natuurlijk persoon waarop artikel 27 van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen van toepassing is en een tot een entiteit behorende natuurlijk persoon voor de toepassing van genoemd artikel, ressorteert de natuurlijk persoon onder de voorzitter van het managementteam van de Belastingdienst/Zuidwest.
+Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), ten aanzien van een natuurlijk persoon waarop artikel 27 van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen van toepassing is en een tot een entiteit behorende natuurlijk persoon voor de toepassing van genoemd artikel, ressorteert de natuurlijk persoon onder de voorzitter van het managementteam van de Belastingdienst/Zuidwest.
 
 ##### Artikel 23
 
@@ -302,7 +302,7 @@ Met betrekking tot de heffing en invordering van rijksbelastingen, andere dan be
 
 ##### Artikel 24
 
-Het op aangifte voldoen van de belasting van personenauto's en motorrijtuigen alsmede, in voorkomend geval, van de omzetbelasting als bedoeld in [artikel 17h, tweede lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) kan geschieden bij iedere voorzitter van het managementteam van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-01-01), genoemde organisatieonderdelen.
+Het op aangifte voldoen van de belasting van personenauto's en motorrijtuigen alsmede, in voorkomend geval, van de omzetbelasting als bedoeld in [artikel 17h, tweede lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17h) kan geschieden bij iedere voorzitter van het managementteam van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&hoofdstuk=1&artikel=3&z=2003-01-01&g=2003-03-15), genoemde organisatieonderdelen.
 
 ##### Artikel 25
 
