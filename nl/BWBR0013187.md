@@ -4,7 +4,7 @@ identifier: "BWBR0013187"
 country: "nl"
 rank: "wet"
 publication_date: "2004-03-01"
-last_updated: "2002-07-16"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013187"
 soort: "wet"
@@ -64,15 +64,15 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-##### Artikel VI. Overgangsrecht in verband met [artikel I onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2002-07-16&g=2002-07-16)
+##### Artikel VI. Overgangsrecht in verband met [artikel I onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01)
 
 1. Met betrekking tot een onderneming die valt onder de werkingssfeer van [hoofdstuk 2, artikel I, onderdeel Dd, eerste lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend):
 
-- a. wordt voor investeringen in films waarvan de voortbrengingskosten in belangrijke mate zijn gemaakt in het kalenderjaar 2001 het in [artikel 3.42b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) genoemde percentage van de filminvesteringsaftrek, vervangen door 25 en de verklaring, bedoeld in [artikel 3.42b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) geacht te zijn verstrekt;
+- a. wordt voor investeringen in films waarvan de voortbrengingskosten in belangrijke mate zijn gemaakt in de periode van 1 januari 2001 tot 16 juli 2002 het in [artikel 3.42b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) genoemde percentage van de filminvesteringsaftrek, vervangen door 25 en de verklaring, bedoeld in [artikel 3.42b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) geacht te zijn verstrekt;
 
 - b. vindt voor desinvesteringen van investeringen waarvoor 25 percent filminvesteringsaftrek is genoten, [artikel 3.47a, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a) geen toepassing.
 
-2. Indien in het kalenderjaar 2001 door een participant in een samenwerkingsverband als omschreven in [hoofdstuk 2, artikel I, onderdeel Dd, tweede lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) kleinschaligheidsinvesteringsaftrek als bedoeld in [artikel 3.41 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) is genoten met betrekking tot investeringen in films waarvan de voortbrengingskosten niet in belangrijke mate zijn gemaakt in dat kalenderjaar, wordt deze kleinschaligheidsinvesteringsaftrek voor de toepassing van [artikel 3.47a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a) aangemerkt als filminvesteringsaftrek als bedoeld in [artikel 3.42b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b). Het bedrag van de desinvesteringsbijtelling, bedoeld in [artikel 3.47a van de laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a), kan in dat geval niet meer belopen dan het totaal van de bedragen die terzake van de investering als kleinschaligheidsinvesteringsaftrek en filminvesteringsaftrek in aanmerking zijn genomen.
+2. Indien in de periode van 1 januari 2001 tot 16 juli 2002 door een participant in een samenwerkingsverband als omschreven in [hoofdstuk 2, artikel I, onderdeel Dd, tweede lid, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) kleinschaligheidsinvesteringsaftrek als bedoeld in [artikel 3.41 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) is genoten met betrekking tot investeringen in films waarvan de voortbrengingskosten niet in belangrijke mate zijn gemaakt in die periode, wordt deze kleinschaligheidsinvesteringsaftrek voor de toepassing van [artikel 3.47a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a) aangemerkt als filminvesteringsaftrek als bedoeld in [artikel 3.42b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b). Het bedrag van de desinvesteringsbijtelling, bedoeld in [artikel 3.47a van de laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a), kan in dat geval niet meer belopen dan het totaal van de bedragen die terzake van de investering als kleinschaligheidsinvesteringsaftrek en filminvesteringsaftrek in aanmerking zijn genomen.
 
 ##### Artikel VII. Overgangsrecht inkomstenbelasting
 
@@ -92,22 +92,22 @@ Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening 
 
 1. Deze wet treedt in werking met ingang van 1 januari 2002.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2002-07-16&g=2002-07-16), in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdelen A](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2002-07-16&g=2002-07-16) tot en met IA, onderdeel J, derde lid, en onderdelen L en M, [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=II&z=2002-07-16&g=2002-07-16), en [artikel IV, onderdeel B, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=VI&z=2002-07-16&g=2002-07-16) (overgangsbepaling in verband met [artikel I, onderdeel F)](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2002-07-16&g=2002-07-16) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
+3. In afwijking van het eerste lid treden [artikel I, onderdelen A](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) tot en met IA, onderdeel J, derde lid, en onderdelen L en M, [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=II&z=2003-01-01&g=2003-01-01), en [artikel IV, onderdeel B, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=VI&z=2003-01-01&g=2003-01-01) (overgangsbepaling in verband met [artikel I, onderdeel F)](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
 
-4. [Artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2002-07-16&g=2002-07-16) IB en L, vindt toepassing nadat artikel 10.1 van de Wet IB 2001 bij het begin van het kalenderjaar 2002 is toegepast.
+4. [Artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=I&z=2003-01-01&g=2003-01-01) IB en L, vindt toepassing nadat artikel 10.1 van de Wet IB 2001 bij het begin van het kalenderjaar 2002 is toegepast.
 
-5. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=III&z=2002-07-16&g=2002-07-16), [artikel IV, onderdeel D, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16), E, F, G, tweede lid, GA en H, met betrekking tot het daarin opgenomen onderdeel d van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op leningen die zijn aangegaan na 31 december 2001.
+5. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=III&z=2003-01-01&g=2003-01-01), [artikel IV, onderdeel D, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), E, F, G, tweede lid, GA en H, met betrekking tot het daarin opgenomen onderdeel d van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op leningen die zijn aangegaan na 31 december 2001.
 
-6. De wijzigingen ingevolge [artikel IV, onderdeel G, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16), en H, met betrekking tot het daarin opgenomen onderdeel c van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op vervreemdingen van deelnemingen na 31 december 2001.
+6. De wijzigingen ingevolge [artikel IV, onderdeel G, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), en H, met betrekking tot het daarin opgenomen onderdeel c van [artikel 13d, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), zijn voor het eerst van toepassing op vervreemdingen van deelnemingen na 31 december 2001.
 
-7. [Artikel IV, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16) LA en M, tweede lid, werkt terug tot en met 1 januari 2001.
+7. [Artikel IV, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01) LA en M, tweede lid, werkt terug tot en met 1 januari 2001.
 
-8. [Artikel IV, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16), vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2002.
+8. [Artikel IV, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2002.
 
-9. De wijzigingen ingevolge [artikel IV, onderdeel P, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2002-07-16&g=2002-07-16), vinden op verzoek van de belastingplichtige toepassing met ingang van 1 januari 2001.
+9. De wijzigingen ingevolge [artikel IV, onderdeel P, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=IV&z=2003-01-01&g=2003-01-01), vinden op verzoek van de belastingplichtige toepassing met ingang van 1 januari 2001.
 
-10. De wijzigingen ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=V&z=2002-07-16&g=2002-07-16) vinden voor het eerst toepassing met betrekking tot besluiten tot het verstrekken van inlichtingen die worden genomen na 31 december 2001.
+10. De wijzigingen ingevolge [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0013187&artikel=V&z=2003-01-01&g=2003-01-01) vinden voor het eerst toepassing met betrekking tot besluiten tot het verstrekken van inlichtingen die worden genomen na 31 december 2001.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
