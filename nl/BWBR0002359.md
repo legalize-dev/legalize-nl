@@ -197,15 +197,3 @@ Vervallen
 Deze wet kan worden aangehaald als: Wet op de kansspelbelasting.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a
-
-1. In de gevallen waarin [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, moet de belasting op aangifte worden voldaan.
-
-2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2008-10-03&g=2008-10-03).
-
-### Hoofdstuk VI. Strafbepaling
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
