@@ -404,31 +404,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet sociale werkvoorziening.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.
-
-### Hoofdstuk 7. Overgangsbepalingen
-
-### Hoofdstuk 8
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-In afwijking van [artikel 7:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:11), wordt bij de toepassing van de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2011-01-01&g=2011-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2011-01-01&g=2011-01-01) gebruikgemaakt van de gegevens in de bijlage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2011-01-01&g=2011-01-01), en de informatie, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), waarvan Onze Minister kennis heeft op 15 augustus voor zover het betreft artikel 8, tweede lid, en 30 september voor zover het betreft artikel 9 van het tweede jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen.
-
-### Hoofdstuk 5. De indicatie en het aanbod
-
-### Hoofdstuk 6. Toezicht en informatie
-
-### Hoofdstuk 7. Overgangsbepalingen
-
-### Hoofdstuk 8
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
