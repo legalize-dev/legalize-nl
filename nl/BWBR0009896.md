@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2001-01-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 10 juli 1998, nr. W01.98.0149);
 Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zaken, van 8 september 1998, 98M007702, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 Hebben goedgevonden en verstaan:
+
+Werkt terug tot en met 30 juni 1998
 
 ##### Artikel 1
 
