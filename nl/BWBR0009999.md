@@ -4,7 +4,7 @@ identifier: "BWBR0009999"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-01-24"
-last_updated: "2001-06-15"
+last_updated: "2003-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009999"
 soort: "AMvB"
@@ -62,7 +62,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. de opsporingsambtenaar belast met de uitvoering van een bijzondere last,
 
-- 2°. het hoofd van de Binnenlandse Veiligheidsdienst.
+- 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst,
+
+- 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst.
 
 ##### Artikel 2
 
