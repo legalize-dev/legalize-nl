@@ -4,7 +4,7 @@ identifier: "BWBR0011056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2002-06-07"
+last_updated: "2004-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011056"
 soort: "ministeriele-regeling"
@@ -104,33 +104,31 @@ Bij de begroting t+1 wordt een prognose van de baten en lasten voor het jaar t v
 
 ##### Paragraaf 10. Huisvestingskosten
 
-1. De huisvestingskosten worden getoetst aan de hand van een jaarlijks door Sanquin op te stellen en bij de begroting te voegen middellange termijn huisvestingsplan (huisvestingsplan) voor de jaren t+1 tot en met t+5.
+1. De in de begroting van de bloedbanken onder de rubriek ‘Huisvestingskosten’ opgenomen post ‘Huren’ en de in de rubriek ‘Afschrijvingen’ verantwoorde post ‘Gebouwen en Terreinen’ worden getoetst aan een jaarlijks door Sanquin op te stellen en bij de begroting te voegen middellange termijn huisvestingsplan (huisvestingsplan).
 
-2. De Minister vraagt over het huisvestingsplan advies aan het College voor ziekenhuisvoorzieningen.
+2. Het huisvestingsplan dient:
 
-3. Het huisvestingsplan dient ten opzichte van jaar t inzicht te geven in de voorgenomen toekomstige huisvesting.
+- –. te passen binnen het Ministerieel Plan Bloedvoorziening;
 
-4. Bij het opstellen van het huisvestingsplan dient uitgegaan te worden van de afzonderlijke huisvestingsinitiatieven per divisie uitgezet in de tijd. Na het gereedkomen van deze nieuw- verbouwinitiatieven dan wel na het aangaan van huurovereenkomsten dient voor de betreffende divisie het spreidingsplan ruimtelijk te zijn geïmplementeerd.
+- –. de kosten van de bestaande huisvesting weer te geven;
 
-5. De in het huisvestingsplan vermelde bedragen en de daaraan gerelateerde investeringen zijn voor het jaar t+1, voor zover deze geen betrekking hebben op de exploitatiegevolgen voortvloeiende uit ver/nieuwbouw en huursituaties ten behoeve van de bloedbankdivisies, definitief en voor de jaren t+2 tot en met t+5 indicatief.
+- –. voor de jaren t+1 tot en met jaar t+5 inzicht te geven in de voorgenomen toekomstige huisvesting van hoofdvestigingen, solitaire donorcentra en afname posten. De financiële gevolgen dienen daarbij te worden aangegeven;
 
-6. Voor de donorcentra en hoofdvestigingen dient inzicht te worden verschaft inzake de financiële gevolgen voortvloeiende uit huurstijgingen, wijzingen in gehuurde objecten, afschrijvingen van in eigendom zijnde gebouwen, afschrijvingen van investeringen in gehuurde gebouwen, te realiseren nieuwbouwinitiatieven en het vervreemden van gebouwen in eigendom.
+- –. het voornemen tot het vervreemden van registergoederen in eigendom te vermelden.
 
-7. Bij het huisvestingsplan dient een overzicht te worden gevoegd van in gebruik zijnde dan wel in jaar t+1 in gebruik te nemen vaste afnameposten.
+3. Het huisvestingsplan dient, gelijktijdig met de indiening van de begroting bij de Minister, in tweevoud bij het College bouw ziekenhuisvoorzieningen (College bouw) ter beoordeling te worden voorgelegd. Het College bouw brengt binnen 6 weken na ontvangst van het huisvestingsplan daarover advies uit aan de Minister van VWS. Van dit advies ontvangt Sanquin een afschrift.
 
-8. Tot daadwerkelijke start van de in het huisvestingsplan opgenomen bouwinitiatieven kan worden overgegaan nadat de Minister, op basis van het definitief ontwerp van deze plannen, een uitspraak heeft gedaan over de aanvaardbare hoogte van de uit die initiatieven voortvloeiende exploitatiegevolgen. Vanaf het moment van ingebruikname van de betreffende bouw worden deze exploitatiegevolgen in de begroting opgenomen.
+4. Tot daadwerkelijke start van een nieuwbouwinitiatief van een hoofdvestiging kan worden overgegaan nadat de Minister van VWS, op basis van het definitief ontwerp en aan de hand van een door het College bouw aan de Minister van VWS daarover uitgebracht advies, een uitspraak heeft gedaan over de aanvaardbare hoogte van de uit dat initiatief voortvloeiende exploitatiegevolgen. De betreffende bescheiden dienen daartoe door Sanquin rechtstreeks bij het College bouw te worden ingediend.
 
-9. Voor een bouwinitiatief dat in jaar t+1 in gebruik kan worden genomen en waarvoor door de Minister nog geen uitspraak is gedaan over de aanvaardbaarheid van de exploitatiegevolgen, zal in de begroting van jaar t+1 een tijdelijke toeslag, gebaseerd op de ter zake in het huisvestingsplan gereserveerde exploitatiegevolgen, kunnen worden opgenomen. In jaar t+2 zal een verrekening van het verschil tussen de door de Minister vastgestelde exploitatiegevolgen en de geraamde tijdelijke toeslag plaatsvinden.
+Het College bouw adviseert de Minister van VWS binnen vier maanden na ontvangst van bedoelde bescheiden. Van dit advies ontvangt Sanquin een afschrift.
 
-10. Indien in de huisvesting voor jaar t+1 ten behoeve van donorcentra wordt voorzien door middel van huur, al dan niet gepaard gaande met aanpassingen, dient voor wat betreft de maximaal te huren oppervlakte uitgegaan te worden van de m² zoals opgenomen in het standaard programma van eisen voor donorcentra. Voor aanpassingen geldt een maximum te investeren bedrag van € 726,05 per m². Over de beoordelingstermijn in relatie tot de huuroptie zullen afspraken worden gemaakt.
+5. De in het huisvestingsplan opgenomen voornemens tot (ver)bouw of huur van solitaire donorcentra, afname posten en de verbouw van hoofdvestigingen kunnen, indien in de door de Minister van VWS goedgekeurde begroting de daaruit voortvloeiende exploitatiekosten zijn opgenomen, worden geëffectueerd. De Minister van VWS kan in voorkomende gevallen beslissen dat, voordat een dergelijk bouwplan worden gerealiseerd, het College bouw van dat aangegeven initiatief het definitief ontwerp beoordeelt. In deze situatie is de goedkeuringsprocedure zoals aangeven in het vierde lid van overeenkomstige toepassing.
 
-11. Indien in de huisvesting in jaar t+1 ten behoeve van de hoofdvestigingen wordt voorzien door middel van huur, al dan niet gepaard gaande met aanpassingen, kan nadat de Minister zich heeft uitgesproken over de aanvaardbaarheid van de huursom tot het sluiten van de huurovereenkomst worden overgegaan. De aanvraag tot goedkeuring dient voorzien te zijn van ruimtelijke inrichtingstekeningen van het te huren object. Indien sprake is van het bouwkundig en technisch aanpassen van het te huren object dient tevens het definitief ontwerp van die aanpassingen bij de aanvraag tot goedkeuring te worden gevoegd.
+6. Binnen 10 jaar na ingebruikname of ingrijpende renovatie van een hoofdvestiging of solitair donorcentrum (d.w.z. 50% of meer van het bestaande bouwvolume) is aan bouw geen behoefte tenzij een dergelijk bouwinitiatief noodzakelijk is vanwege ingrijpende functiewijzigingen ten opzichte van de bestaande functies of in geval van noodsituaties.
 
-12. Het vermelde omtrent het in de begroting opnemen van mutaties in de huisvestingskosten ten gevolge van bouw is overeenkomstig op huursituaties van toepassing.
+7. Bij verkoop van registergoederen dient het College sanering ziekenhuisvoorzieningen (College sanering) te worden betrokken.
 
-13. Over de aanvaardbaarheid van de exploitatiegevolgen zal door de Minister, op basis van het definitief ontwerp en ingeval sprake is van huur het huurcontract voorzien van ruimtelijke inrichtingstekeningen en eventueel aangevuld met het definitief ontwerp van aanpassingen, advies worden gevraagd aan het College voor ziekenhuisvoorzieningen. De betreffende bescheiden dienen daartoe door Sanquin rechtstreeks bij het College voor ziekenhuisvoorzieningen te worden ingediend. Het College voor ziekenhuisvoorzieningen adviseert de Minister binnen vier maanden na ontvangst van bedoelde bescheiden. Tijdens de beoordelingsperiode kan overleg plaatsvinden. Op verzoek van één der partijen bij dat overleg zal het departement aan het overleg deelnemen.
-
-14. De in de begroting opgenomen en niet aan de donorcentra, hoofdvestigingen, afnameposten en het Centraal Bureau toe te rekenen huisvestingskosten dienen gedekt te worden uit de baten van activiteiten van de divisie CLB.
+8. De in de begroting opgenomen en niet aan hoofdvestigingen, solitaire donorcentra, afnameposten en het Centraal Bureau toe te rekenen huisvestingskosten dienen gedekt te worden uit de baten van activiteiten van het CLB.
 
 ##### Paragraaf 11. Saneringskosten
 
@@ -156,15 +154,15 @@ De kosten van het centraal bureau dienen toegerekend te worden aan de divisies v
 
 5. Huisvestingskosten
 
-De wijze waarop de bouwbehoefte dient te worden bepaald is aangegeven in annex I. De resultaten van de inventarisatie van de bouwbehoefte dienen gespecificeerd naar de diverse aandachtsgebieden als bijlage bij het huisvestingsplan te worden gevoegd. Ter bepaling van de ruimtelijke behoefte ingeval van nieuw- en verbouw dan wel huur eventueel in combinatie met aanpassingen van donorcentra en hoofdvestigingen dient uitgegaan te worden van een standaard programma van eisen. Voor het te hanteren standaard programma van eisen wordt verwezen naar annex II.
+- a. Bij het opstellen van het huisvestingsplan t+1 dient voor investeringen in terreinen en gebouwen, voor zover het nieuwbouw betreft, uitgegaan te worden van de investeringsbedragen bedragen per m2 zoals die door het College bouw in de advisering over het huisvestingsplan van jaar t zijn aangegeven.
 
-Voor investeringen in terreinen en gebouwen dient rekening te worden gehouden met de jaarlijks door de minister vast te stellen maximaal aanvaardbare investeringskosten per m2 ten behoeve donorcentra en hoofdvestigingen.
+- b. De maximum oppervlakte van hoofdvestigingen, solitaire donorcentra en donorcentra geïntegreerd in een hoofdvestiging zijn gebaseerd op standaard programma’s van eisen. De Minister van VWS zal deze standaard programma’s van eisen in de brief waarmee de begroting voor het jaar 2005 wordt goedgekeurd vastleggen. Eventuele mutaties daarop worden, na advisering daarover door het College bouw, door de Minister van VWS in de brief waarin hij zich uitspreekt over de begroting van enig jaar vastgesteld. Tot de goedgekeurde begroting voor het jaar 2005 gelden de m2 en oppervlakte specificaties zoals die waren opgenomen in Annex II.
 
-Voor de verrekening van opgetreden loon- en prijsstijgingen liggende tussen het prijspeil van de goedgekeurde investeringsraming en het prijspeil van de opdrachten zijn maximaal de prijsbijstellingen aanvaardbaar berekend op basis van de bouwkosten indexcijfers voor de gezondheidszorg (Bouwkostennota College voor ziekenhuisvoorzieningen).
+- c. Voor de verrekening van opgetreden loon- en prijsontwikkelingen zijn maximaal de prijsbijstellingen aanvaardbaar berekend op basis van de Bouwkosten indexcijfers voor de gezondheidszorg zoals gepubliceerd in de bouwkostennota die het College bouw jaarlijks uitbrengt.
 
-Voor jaarlijkse instandhoudingsinvesteringen ten behoeve van de bloedbankdivisies kan bij de begrotingsopstelling rekening worden gehouden met een jaarlijks door de minister vast te stellen investeringsbedrag per m2. Indien sprake is van huursituaties waarbij de financiële gevolgen van jaarlijkse instandhoudinginvesteringen zijn opgenomen in de huur blijft de vergoeding achterwege.
+- d. Voor jaarlijkse instandhoudingsinvesteringen dient bij de begrotingsopstelling per m2 uitgegaan te worden van 0,8% per m2 van de investeringskosten per m2 zoals op basis van het eerste lid zijn berekend. Voor huursituaties, waarbij de financiële gevolgen van jaarlijkse instandhoudingsinvesteringen in de huur zijn opgenomen, blijft de reservering achterwege.
 
-Voor de verkoop van onroerende zaken is de inschakeling van de Commissie Sanering Ziekenhuisvoorzieningen noodzakelijk. Financiële consequenties voortvloeiende uit de verkoop van onroerende zaken worden betrokken bij de begrotingsbeoordeling en goedkeuring. Het door de Commissie Sanering Ziekenhuisvoorzieningen akkoord bevonden transactie resultaat is daarbij uitgangspunt.
+- e. Financiële consequenties voortvloeiende uit de verkoop van register goederen worden betrokken bij de begrotingsbeoordeling en goedkeuring. Het door het College sanering akkoord bevonden transactieresultaat is daarbij uitgangspunt.
 
 6. Marktactiviteiten
 
@@ -229,5 +227,7 @@ Prioritering bouwbehoefte. Uitgangspunt dient daarbij in ieder geval te zijn dat
 Het huisvestingsplan dient per jaar geactualiseerd te worden. Het eerst komende jaar op basis van uitgewerkte plannen. De investeringskosten en exploitatiegevolgen zijn ’definitief’. De volgende jaren op basis van de resultaten van de inventarisatie en zijn ’indicatief’.
 
 ### Annex II. Standaard programma van eisen (hoofdstuk 1, paragraaf 12, onderdeel 5)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
