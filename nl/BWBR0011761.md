@@ -4,7 +4,7 @@ identifier: "BWBR0011761"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-03-20"
-last_updated: "2001-01-18"
+last_updated: "2004-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011761"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. [richtlijn 1999/94/EG](31999L0094): [richtlijn nr. 1999/94/EG](31999L0094) van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12);
 
-- e. personenauto: een motorvoertuig van categorie M1, zoals gedefinieerd in bijlage II bij [richtlijn 70/156/EEG](31970L0156), dat onder [richtlijn 80/1268/EEG](31980L1268) valt, met uitzondering van voertuigen die onder [richtlijn 92/61/EEG](31992L0061) vallen en voertuigen voor speciale doelen als omschreven in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2001-01-18&g=2001-01-18), tweede streepje, van [richtlijn 70/156/EEG](31970L0156);
+- e. personenauto: een motorvoertuig van categorie M1, zoals gedefinieerd in bijlage II bij [richtlijn 70/156/EEG](31970L0156), dat onder [richtlijn 80/1268/EEG](31980L1268) valt, met uitzondering van voertuigen die onder [richtlijn 92/61/EEG](31992L0061) vallen en voertuigen voor speciale doelen als omschreven in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2004-04-09&g=2004-04-09), tweede streepje, van [richtlijn 70/156/EEG](31970L0156);
 
 - f. nieuwe personenauto: een personenauto die nog niet eerder is verkocht aan een persoon voor een ander doel dan verkoop of levering aan een derde;
 
@@ -88,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - s. relatieve energiezuinigheid: de mate waarin een personenauto meer of minder CO2 uitstoot dan de referentiewaarde voor de desbetreffende auto;
 
-- t. referentiewaarde: de uitkomst van de formule opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), [onderdeel 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), voor personenauto's met benzine als brandstof, respectievelijk in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), [onderdeel 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), voor personenauto's met diesel als brandstof;
+- t. referentiewaarde: de uitkomst van de formule opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), [onderdeel 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), voor personenauto's met benzine als brandstof, respectievelijk in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), [onderdeel 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), voor personenauto's met diesel als brandstof;
 
 - u. regressieformules: de formules met behulp waarvan de relatieve energiezuinigheid van personenauto's kan worden berekend;
 
@@ -100,11 +100,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over de voor het desbetreffende kalenderjaar geldende energie-etiketten voor deze personenauto's, die voldoen aan de reisen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=1&z=2001-01-18&g=2001-01-18) bij dit besluit.
+1. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over de voor het desbetreffende kalenderjaar geldende energie-etiketten voor deze personenauto's, die voldoen aan de reisen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=1&z=2004-04-09&g=2004-04-09) bij dit besluit.
 
-2. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, met het oog op de naleving van [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=6&z=2001-01-18&g=2001-01-18), beschikken over voldoende voor het desbetreffende kalenderjaar geldende brandstofverbruiksgidsen.
+2. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, met het oog op de naleving van [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=6&z=2004-04-09&g=2004-04-09), beschikken over voldoende voor het desbetreffende kalenderjaar geldende brandstofverbruiksgidsen.
 
-3. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over een poster of een display met informatie omtrent het energiegebruik van alle nieuwe personenauto's van de leverancier die door de handelaar zijn uitgestald of te koop of ter leasing worden aangeboden, welke voldoet aan de eisen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=2&z=2001-01-18&g=2001-01-18) bij dit besluit.
+3. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over een poster of een display met informatie omtrent het energiegebruik van alle nieuwe personenauto's van de leverancier die door de handelaar zijn uitgestald of te koop of ter leasing worden aangeboden, welke voldoet aan de eisen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=2&z=2004-04-09&g=2004-04-09) bij dit besluit.
 
 4. De leverancier stelt de energie-etiketten en posters of displays tegen ten hoogste de kostprijs ter beschikking. De leverancier stelt de brandstofverbruiksgidsen kosteloos ter beschikking.
 
@@ -120,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Reclamemateriaal inzake nieuwe personenauto's bevat informatie omtrent het energiegebruik van de modellen personenauto's waarop deze reclame betrekking heeft. Deze informatie voldoet aan de eisen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=3&z=2001-01-18&g=2001-01-18) bij dit besluit.
+1. Reclamemateriaal inzake nieuwe personenauto's bevat informatie omtrent het energiegebruik van de modellen personenauto's waarop deze reclame betrekking heeft. Deze informatie voldoet aan de eisen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=3&z=2004-04-09&g=2004-04-09) bij dit besluit.
 
 2. De leverancier draagt ervoor zorg dat de handelaren op verzoek beschikken over de informatie, bedoeld in het eerste lid, die betrekking heeft op de modellen personenauto's van de leverancier die door de handelaar zijn uitgestald of te koop of ter leasing worden aangeboden.
 
@@ -130,19 +130,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De leverancier draagt zorg voor de juistheid van de informatie, bedoeld in de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2001-01-18&g=2001-01-18), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2001-01-18&g=2001-01-18).
+1. De leverancier draagt zorg voor de juistheid van de informatie, bedoeld in de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2004-04-09&g=2004-04-09), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2004-04-09&g=2004-04-09).
 
-2. Onverminderd het eerste lid, draagt degene die opdracht geeft tot het vervaardigen van reclamemateriaal zorg voor de juistheid van de informatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2001-01-18&g=2001-01-18).
+2. Onverminderd het eerste lid, draagt degene die opdracht geeft tot het vervaardigen van reclamemateriaal zorg voor de juistheid van de informatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2004-04-09&g=2004-04-09).
 
 ##### Artikel 6
 
 1. Het is een handelaar verboden om een nieuwe personenauto op een verkooppunt ten verkoop of ter leasing tentoon te stellen of aan het publiek te presenteren zonder dat:
 
-- a. duidelijk zichtbaar op of in de onmiddellijke nabijheid van de auto een voor de desbetreffende auto van toepassing zijnd energie-etiket als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2001-01-18&g=2001-01-18), is aangebracht,
+- a. duidelijk zichtbaar op of in de onmiddellijke nabijheid van de auto een voor de desbetreffende auto van toepassing zijnd energie-etiket als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2004-04-09&g=2004-04-09), is aangebracht,
 
 - b. de consument op het verkooppunt op verzoek een gratis brandstofverbruiksgids kan verkrijgen en
 
-- c. op het verkooppunt duidelijk zichtbaar voor elk merk van daar te koop of ter leasing aangeboden of gepresenteerde nieuwe personenauto's een poster of display met informatie omtrent het energiegebruik als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2001-01-18&g=2001-01-18), aanwezig is.
+- c. op het verkooppunt duidelijk zichtbaar voor elk merk van daar te koop of ter leasing aangeboden of gepresenteerde nieuwe personenauto's een poster of display met informatie omtrent het energiegebruik als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2004-04-09&g=2004-04-09), aanwezig is.
 
 2. Het is een handelaar verboden een nieuwe personenauto ten verkoop of ter leasing tentoon te stellen of aan het publiek te presenteren, terwijl op de etiketten en posters of displays of in de brandstofverbruiksgids merktekens, symbolen of opschriften zijn aangebracht betreffende het energiegebruik, die niet in overeenstemming zijn met dit besluit, indien dit bij potentiële gebruikers van nieuwe personenauto's verwarring kan wekken.
 
@@ -164,7 +164,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. hij deze gegevens binnen een maand na toevoeging aan de RDW verstrekt en
 
-- b. de groepering van dat model door toevoeging van die variant of uitvoering aan het model niet zodanig wijzigt, dat het model een hoger officieel brandstofverbruik of een hogere officiële specifieke CO2-uitstoot krijgt, of dat het model een zodanig andere relatieve energiezuinigheid, berekend overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), krijgt dat het model tot een andere energie-efficiëntieklasse gaat behoren.
+- b. de groepering van dat model door toevoeging van die variant of uitvoering aan het model niet zodanig wijzigt, dat het model een hoger officieel brandstofverbruik of een hogere officiële specifieke CO2-uitstoot krijgt, of dat het model een zodanig andere relatieve energiezuinigheid, berekend overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), krijgt dat het model tot een andere energie-efficiëntieklasse gaat behoren.
 
 4. De benamingen van modellen nieuwe personenauto's als bedoeld in het eerste en tweede lid zijn zodanig dat daaruit de verschillen tussen de diverse modellen kunnen worden opgemaakt.
 
@@ -172,7 +172,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8
 
-1. De RDW stelt ieder jaar vóór 1 september de constanten vast voor de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18) opgenomen regressieformules, alsmede de daarbij behorende waarden van de gemiddelde CO2-uitstoot voor personenauto's met benzine als brandstof en voor personenauto's met diesel als brandstof, welke gelden voor het eerstvolgende kalenderjaar.
+1. De RDW stelt ieder jaar vóór 1 september de constanten vast voor de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09) opgenomen regressieformules, alsmede de daarbij behorende waarden van de gemiddelde CO2-uitstoot voor personenauto's met benzine als brandstof en voor personenauto's met diesel als brandstof, welke gelden voor het eerstvolgende kalenderjaar.
 
 2. De constanten en waarden, bedoeld in het eerste lid, worden jaarlijks vóór 1 september door de RDW bekendgemaakt in de Staatscourant.
 
@@ -184,15 +184,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 10
 
-1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=3&z=2001-01-18&g=2001-01-18), stelt de RDW in 2000 de brandstofverbruiksgids samen vóór 30 december.
+1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=3&z=2004-04-09&g=2004-04-09), stelt de RDW in 2000 de brandstofverbruiksgids samen vóór 30 december.
 
-2. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2001-01-18&g=2001-01-18), verstrekt de leverancier de in dat lid bedoelde gegevens in 2000 binnen één maand na de bekendmaking, bedoeld in het derde lid van dit artikel, maar in ieder geval vóór 25 november aan de RDW.
+2. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2004-04-09&g=2004-04-09), verstrekt de leverancier de in dat lid bedoelde gegevens in 2000 binnen één maand na de bekendmaking, bedoeld in het derde lid van dit artikel, maar in ieder geval vóór 25 november aan de RDW.
 
-3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8&z=2001-01-18&g=2001-01-18) stelt de RDW in 2000 de in dat artikel bedoelde constanten en waarden vast vóór 8 november en maakt hij deze voor die datum bekend in de Staatscourant.
+3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8&z=2004-04-09&g=2004-04-09) stelt de RDW in 2000 de in dat artikel bedoelde constanten en waarden vast vóór 8 november en maakt hij deze voor die datum bekend in de Staatscourant.
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van 18 januari 2001, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=1&z=2001-01-18&g=2001-01-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=3&z=2001-01-18&g=2001-01-18), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2001-01-18&g=2001-01-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8&z=2001-01-18&g=2001-01-18), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=9&z=2001-01-18&g=2001-01-18), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=10&z=2001-01-18&g=2001-01-18) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), [onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
+Dit besluit treedt in werking met ingang van 18 januari 2001, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=1&z=2004-04-09&g=2004-04-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=3&z=2004-04-09&g=2004-04-09), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2004-04-09&g=2004-04-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8&z=2004-04-09&g=2004-04-09), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=9&z=2004-04-09&g=2004-04-09), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=10&z=2004-04-09&g=2004-04-09) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), [onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
 
 ##### Artikel 12
 
@@ -200,7 +200,7 @@ Dit besluit wordt aangehaald als: Besluit etikettering energiegebruik personenau
 
 ## Bijlage 1. bij het Besluit etikettering energiegebruik personenauto's
 
-Het energie-etiket, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2001-01-18&g=2001-01-18), voldoet aan de volgende vereisten.
+Het energie-etiket, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2004-04-09&g=2004-04-09), voldoet aan de volgende vereisten.
 
 Het etiket heeft de volgende vorm.
 
@@ -216,7 +216,7 @@ Ten aanzien van de op het etiket te vermelden informatie geldt het volgende.
 
 - V. Officieel brandstofverbruik, uitgedrukt in «1 liter op km», tot één decimaal nauwkeurig voor benzine, LPG of diesel, of «1 m3 op km» voor aardgas.
 
-- VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2001-01-18&g=2001-01-18). Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl. Voor personenauto's waarvan de test van [richtlijn 80/1268/EG](31980L1268) uitsluitend met LPG of aardgas als brandstof is uitgevoerd, wordt de pijl waarmee de energie-efficiëntieklasse wordt aangegeven, niet afgebeeld. In een dergelijk geval behoeven de pijlen met de energie-efficiëntieklassen A tot en met E hiertegenover evenmin te worden afgebeeld.
+- VI. De energie-efficiëntieklasse op basis van de relatieve energiezuinigheid, bepaald overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2004-04-09&g=2004-04-09). Deze klasse wordt vermeld op hetzelfde niveau als de van toepassing zijnde pijl. Voor personenauto's waarvan de test van [richtlijn 80/1268/EG](31980L1268) uitsluitend met LPG of aardgas als brandstof is uitgevoerd, wordt de pijl waarmee de energie-efficiëntieklasse wordt aangegeven, niet afgebeeld. In een dergelijk geval behoeven de pijlen met de energie-efficiëntieklassen A tot en met E hiertegenover evenmin te worden afgebeeld.
 
 - VII. Officiële specifieke CO2-uitstoot, uitgedrukt in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
 
@@ -250,31 +250,37 @@ Alle tekst wordt in zwart afgedrukt. De achtergrond is wit.
 
 ## Bijlage 2. bij het Besluit etikettering energiegebruik personenauto's
 
-De poster en het display, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2001-01-18&g=2001-01-18), voldoen aan de volgende vereisten.
+De poster en het display, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2004-04-09&g=2004-04-09), voldoen aan de volgende vereisten.
 
-1. De minimale afmeting is 70 cm x 50 cm.
+- 1. De minimale afmeting is 70 cm x 50 cm.
 
-2. De informatie op de poster of het display is gemakkelijk leesbaar en gesteld in de Nederlandse taal.
+- 2. De informatie op de poster of het display is gemakkelijk leesbaar en gesteld in de Nederlandse taal.
 
-3. De modellen personenauto's worden gegroepeerd per brandstoftype.
+- 3. Indien het een display met een elektronisch scherm betreft, is dit scherm ten minste 25 cm x 32 cm (17") groot. De informatie op het elektronische scherm kan worden vertoond door gebruik te maken van scroll-technieken.
 
-4. Voor elk brandstoftype worden de modellen gerangschikt in volgorde van toenemende CO2-uitstoot, waarbij het model met het laagste officiële brandstofverbruik bovenaan komt te staan.
+- 4. De modellen personenauto's worden gegroepeerd per brandstoftype.
 
-5. Voor elk model personenauto op de lijst wordt aangegeven:
+- 5. Voor elk brandstoftype worden de modellen gerangschikt in volgorde van toenemende CO2-uitstoot, waarbij het model met het laagste officiële brandstofverbruik bovenaan komt te staan.
 
-- a. het merk en de benaming van het model met inachtneming van het bepaalde in artikel 7 van het besluit;
+- 6. Voor elk model personenauto op de lijst wordt aangegeven:
+
+- a. het merk en de benaming van het model met inachtneming van het bepaalde in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2004-04-09&g=2004-04-09);
 
 - b. het in cijfers uitgedrukte, tot op één decimaal nauwkeurig aangegeven, officiële brandstofverbruik, uitgedrukt in liters per 100 kilometer en kilometers per liter voor benzine, LPG of diesel, of in m3 per 100 kilometer en kilometers per m3 voor aardgas;
 
 - c. de in cijfers uitgedrukte officiële specifieke CO2-uitstoot in gram per kilometer, afgerond op het dichtstbijzijnde gehele cijfer.
 
-6. Op de poster staan de teksten:
+- 7. Op de poster of het display staan de teksten:
 
 - a. «Een gids betreffende het brandstofverbruik en de CO2-uitstoot met gegevens voor alle nieuwe modellen personenauto's is gratis verkrijgbaar op elk verkooppunt.»;
 
 - b. «Naast de brandstofefficiëntie van een auto zijn ook het rijgedrag en andere, niet-technische factoren bepalend voor het brandstofverbruik en de CO2-uitstoot van een auto. CO2 is het broeikasgas dat bij de wereldwijde klimaatverandering de belangrijkste rol speelt.»
 
-7. De poster wordt ten minste iedere zes maanden bijgewerkt. In de tussenliggende periode worden nieuwe auto's onder aan de lijst toegevoegd.
+- 8. Indien het een display met een elektronisch scherm betreft, zijn de teksten, genoemd in onderdeel 7, permanent zichtbaar op het scherm.
+
+- 9. De poster of het display wordt ten minste iedere zes maanden bijgewerkt. Indien het een display met een elektronisch scherm betreft, wordt de informatie ten minste elke drie maanden bijgewerkt.
+
+- 10. Indien de poster of het display permanent vervangen wordt door een display met een elektronisch scherm wordt het elektronische scherm zodanig gepresenteerd dat daarmee op zijn minst even sterk de aandacht van de consument wordt getrokken als met een poster of display zonder elektronisch scherm het geval zou zijn geweest.
 
 ## Bijlage 3. bij het Besluit etikettering energiegebruik personenauto's
 
