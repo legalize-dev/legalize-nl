@@ -4,7 +4,7 @@ identifier: "BWBR0010732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-28"
-last_updated: "2001-01-01"
+last_updated: "2003-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010732"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De Minister van Justitie verleent mandaat aan de raad voor rechtsbijstand te Den Bosch van de bevoegdheid om beslissingen te nemen op bezwaarschriften die worden ingediend tegen op grond van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het Tijdelijk [besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226) door de raad Den Bosch namens de Minister van Justitie genomen subsidiebeschikkingen.
+De Minister van Justitie verleent mandaat aan de raad voor rechtsbijstand te Den Bosch van de bevoegdheid om beslissingen te nemen op bezwaarschriften die worden ingediend tegen op grond van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het [Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226) door de raad Den Bosch namens de Minister van Justitie genomen subsidiebeschikkingen.
 
 ##### Artikel 2
 
@@ -50,7 +50,7 @@ De raad voor rechtsbijstand te Den Bosch wordt toegestaan van het aan hem verlee
 
 ##### Artikel 3
 
-De raad voor rechtsbijstand te Den Bosch en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010732&artikel=2&z=1998-12-01&g=2001-01-01) bedoelde functionarissen zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures, voortvloeiend uit de toepassing van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het Tijdelijk besluit subsidie bewindvoerder schuldsanering. Zij zijn tevens gemachtigd tot het instellen van rechtsmiddelen.
+De raad voor rechtsbijstand te Den Bosch en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010732&artikel=2&z=2003-07-27&g=2003-07-27) bedoelde functionarissen zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures, voortvloeiend uit de toepassing van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het Tijdelijk besluit subsidie bewindvoerder schuldsanering. Zij zijn tevens gemachtigd tot het instellen van rechtsmiddelen.
 
 ##### Artikel 4
 
