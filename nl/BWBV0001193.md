@@ -4,7 +4,7 @@ identifier: "BWBV0001193"
 country: "nl"
 rank: "verdrag"
 publication_date: "2020-06-07"
-last_updated: "1999-10-31"
+last_updated: "2005-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001193"
 soort: "verdrag"
@@ -2675,6 +2675,1524 @@ Beide Staten die Partij zijn bij dit Verdrag dienen het Technisch Secretariaat t
 ##### 5 bis
 
 Voor hoeveelheden van 5 milligram of minder geldt voor de chemische stof van Lijst I saxitoxine niet de in paragraaf 5 genoemde termijn van kennisgeving indien de overdracht plaatsvindt voor medische of diagnostische doeleinden. In die gevallen vindt de kennisgeving plaats voorafgaand aan de overdracht.
+
+##### 6
+
+Elke Staat die Partij is bij dit Verdrag dient een gedetailleerde jaaropgave te doen van de overdrachten gedurende het voorgaande jaar. De opgave dient uiterlijk 90 dagen na het einde van het jaar te worden ingediend en dient voor elke stof van Lijst 1 die is overgedragen de volgende informatie te omvatten:
+
+- a. de chemische benaming, de structuurformule en het registratienummer van de **Chemical Abstracts Service**, indien toegekend;
+
+- b. de hoeveelheid die is verkregen van of overgedragen aan andere Staten die Partij zijn bij dit Verdrag. Per overdracht dienen de hoeveelheid, de ontvanger en het doel te worden vermeld.
+
+#### C. PRODUKTIE
+
+#### **Algemene beginselen voor produktie**
+
+##### 7
+
+Elke Staat die Partij is bij dit Verdrag dient tijdens de produktie ingevolge de paragrafen 8 tot en met 12 de hoogste prioriteit toe te kennen aan het waarborgen van de veiligheid van personen en aan de bescherming van het milieu. Elke Staat die Partij is bij dit Verdrag dient die produktie te doen plaatsvinden in overeenstemming met zijn nationale veiligheids- en emissienormen.
+
+#### **Afzonderlijke kleinschalige inrichting**
+
+##### 8
+
+Elke Staat die Partij is bij dit Verdrag die stoffen van Lijst 1 produceert voor onderzoeksdoeleinden, medische of farmaceutische doeleinden of beschermingsdoeleinden, dient de produktie te doen plaatsvinden in een afzonderlijke kleine, door de Staat die Partij is bij dit Verdrag goedgekeurde, inrichting, behoudens het in de paragrafen 10, 11 en 12 bepaalde.
+
+##### 9
+
+De produktie in een afzonderlijke kleinschalige inrichting dient plaats te vinden in reactievaten in produktielijnen die zich niet lenen voor continubedrijf. Het volume van zo'n reactievat mag niet groter zijn dan 100 liter en het totale volume van alle reactievaten met een volume van meer dan 5 liter mag niet groter zijn dan 500 liter.
+
+#### **Andere inrichtingen**
+
+##### 10
+
+De produktie van stoffen van Lijst 1 in totale hoeveelheden van ten hoogste 10 kg per jaar mag voor beschermingsdoeleinden plaatsvinden in één inrichting buiten een afzonderlijke kleinschalige inrichting. Deze inrichting dient door de Staat die Partij is bij dit Verdrag te worden goedgekeurd.
+
+##### 11
+
+De produktie van stoffen van Lijst 1 in hoeveelheden van meer dan 100 g per jaar mag voor onderzoeksdoeleinden of medische dan wel farmaceutische doeleinden plaatsvinden buiten een afzonderlijke kleinschalige inrichting in totale hoeveelheden van ten hoogste 10 kg per jaar per inrichting. Deze inrichtingen dienen door de Staat die Partij is bij dit Verdrag te worden goedgekeurd.
+
+##### 12
+
+Het synthetiseren van stoffen voor onderzoeksdoeleinden of medische dan wel farmaceutische doeleinden, doch niet voor beschermingsdoeleinden, kan plaatsvinden in laboratoria in totale hoeveelheden onder de 100 g per jaar per inrichting. Voor deze inrichtingen geldt geen enkele verplichting met betrekking het doen van opgaven en het verifiëren als genoemd in de Titels D en E.
+
+#### D. OPGAVEN
+
+#### **Afzonderlijke kleinschalige inrichting**
+
+##### 13
+
+Elke Staat die Partij is bij dit Verdrag die voornemens is een afzonderlijke kleinschalige inrichting in gebruik te nemen, dient aan het Technisch Secretariaat de exacte ligging mede te delen en een gedetailleerde technische beschrijving van de inrichting te verstrekken, met inbegrip van een inventarislijst van de apparatuur en gedetailleerde schema's. Voor bestaande inrichtingen dient deze eerste opgave uiterlijk 30 dagen nadat dit Verdrag voor de Staat die Partij is bij dit Verdrag in werking is getreden te worden gedaan. Eerste opgaven betreffende nieuwe inrichtingen dienen ten minste 180 dagen voor de ingebruikneming te worden verstrekt.
+
+##### 14
+
+Elke Staat die Partij is bij dit Verdrag dient van tevoren kennisgeving te doen aan het Technisch Secretariaat van geplande veranderingen ten opzichte van de eerste opgave. De kennisgeving dient ten minste 180 dagen voordat de veranderingen plaatsvinden te worden gedaan.
+
+##### 15
+
+Een Staat die Partij is bij dit Verdrag die stoffen van Lijst 1 produceert in een afzonderlijke kleinschalige inrichting dient een gedetailleerde jaaropgave te doen betreffende de activiteiten van de inrichting in het voorgaande jaar. De opgave dient uiterlijk 90 dagen na het einde van dat jaar te worden verstrekt en dient te omvatten:
+
+- a. een aanduiding van de aard van de inrichting:
+
+- b. voor elke stof van Lijst 1 die in de inrichting is geproduceerd, verkregen, verbruikt of opgeslagen, de volgende informatie:
+
+- i. de chemische benaming, de structuurformule en het registratienummer van de **Chemical Abstracts Service**, indien toegekend;
+
+- ii. de toegepaste methoden en geproduceerde hoeveelheden;
+
+- iii. de benaming en de hoeveelheid van de voorlopers als genoemd in de Lijsten 1, 2 of 3 die voor de produktie van stoffen van Lijst 1 zijn gebruikt;
+
+- iv. de hoeveelheid die in de inrichting is verbruikt en de doeleinden van het verbruik;
+
+- v. de hoeveelheid die is ontvangen van of overgebracht naar andere inrichtingen in de Staat die Partij is bij dit Verdrag. Voor elke zending dienen de hoeveelheid, de ontvanger en de doeleinden te worden vermeld;
+
+- vi. de maximale hoeveelheid die op enig tijdstip gedurende het jaar was opgeslagen; en
+
+- vii. de hoeveelheid die aan het einde van het jaar was opgeslagen; en
+
+- c. informatie over veranderingen in de inrichtingen gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting, met inbegrip van inventarislijsten van apparatuur en gedetailleerde schema's.
+
+##### 16
+
+. Elke Staat die Partij is bij dit Verdrag die stoffen van Lijst 1 produceert in een afzonderlijke kleinschalige inrichting dient een gedetailleerde jaaropgave te doen betreffende de geplande activiteiten en de verwachte produktie in de inrichting in het komende jaar. De opgave dient ten minste 90 dagen vóór het begin van dat jaar te worden ingediend en dient te omvatten:
+
+- a. een aanduiding van de aard van de inrichting;
+
+- b. voor elke stof van Lijst 1 die naar verwachting in de inrichting zal worden geproduceerd, verbruikt of opgeslagen, de volgende informatie:
+
+- i. de chemische benaming, de structuurformule en het registratienummer van de **Chemical Abstracts Service**, indien toegekend;
+
+- ii. de hoeveelheid die naar verwachting zal worden geproduceerd en de doeleinden van de produktie; en
+
+- c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting, met inbegrip van inventarislijsten van apparatuur en gedetailleerde schema's.
+
+#### **Andere inrichtingen als bedoeld in de paragrafen 10 en 11**
+
+##### 17
+
+Voor elke inrichting dient een Staat die Partij is bij dit Verdrag het Technisch Secretariaat de naam, de ligging en een gedetailleerde technische beschrijving van de inrichting te verstrekken, of van het desbetreffende deel of de desbetreffende delen waarom het Technische Secretariaat verzoekt. De inrichting die stoffen van Lijst 1 produceert dient in het bijzonder te worden aangeduid. Voor bestaande inrichtingen dient deze eerste opgave uiterlijk 30 dagen nadat dit Verdrag voor de Staat die Partij is bij dit Verdrag in werking is getreden te worden verstrekt. Eerste opgaven betreffende nieuwe inrichtingen dienen ten minste 180 dagen vóór de ingebruikneming te worden verstrekt.
+
+##### 18
+
+Elke Staat die Partij is bij dit Verdrag dient het Technisch Secretariaat van tevoren in kennis te stellen van voorgenomen veranderingen ten opzichte van de eerste opgave. Deze kennisgeving dient ten minste 180 dagen voordat de veranderingen zullen plaatsvinden te worden ingediend.
+
+##### 19
+
+Elke Staat die Partij is bij dit Verdrag dient voor elke inrichting een gedetailleerde jaaropgave te doen betreffende de activiteiten van de inrichting in het voorgaande jaar, De opgave dient uiterlijk 90 dagen na het einde van dat jaar te worden verstrekt en dient te omvatten:
+
+- a. een aanduiding van de aard van de inrichting;
+
+- b. voor elke stof van Lijst 1 de volgende informatie:
+
+- i. de chemische benaming, de structuurformule en het registratienummer van de **Chemical Abstracts Service**, indien toegekend;
+
+- ii. de geproduceerde hoeveelheid en, in geval van produktie voor beschermingsdoeleinden, de toegepaste methoden;
+
+- iii. de benaming en de hoeveelheid van de voorlopers als genoemd in de Lijsten 1, 2 of 3 die voor de produktie van stoffen van Lijst 1 zijn gebruikt;
+
+- iv. de hoeveelheid die in de inrichting is verbruikt en de doeleinden van het verbruik;
+
+- v. de hoeveel die is overgedragen aan andere inrichtingen binnen de Staat die Partij is bij dit Verdrag. Voor elke overdracht dienen de hoeveelheid, de ontvanger en de doeleinden te worden vermeld;
+
+- vi. de grootste hoeveelheid die op enig tijdstip gedurende het jaar was opgeslagen; en
+
+- vii. de hoeveelheid die aan het einde van het jaar was opgeslagen; en
+
+- c. informatie over veranderingen in de inrichting of de desbetreffende delen daarvan gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.
+
+##### 20
+
+Elke Staat die Partij is bij dit Verdrag dient voor elke inrichting een gedetailleerde jaaropgave te doen betreffende de geplande activiteiten en de verwachte produktie in de inrichting in het komende jaar. De opgave dient ten minste 90 dagen vóór het begin van dat jaar te worden ingediend en dient te omvatten:
+
+- a. een aanduiding van de aard van de inrichting;
+
+- b. voor elke stof van Lijst 1 de volgende informatie:
+
+- i. de chemische benaming, de structuurformule en het registratienummer van de Chemical Abstracts Service, indien toegekend;
+
+- ii. de hoeveelheid die naar verwachting zal worden geproduceerd, de tijdvakken waarin de produktie naar verwachting zal plaatsvinden en de doeleinden van de produktie; en
+
+- c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.
+
+#### E. VERIFICATIE
+
+#### **Afzonderlijke kleinschalige inrichting**
+
+##### 21
+
+Verificatie-activiteiten in de afzonderlijke kleinschalige inrichting hebben tot doel te verifiëren dat de hoeveelheden van geproduceerde stoffen van Lijst 1 juist worden opgegeven en, in het bijzonder, dat de totale hoeveelheid daarvan niet groter is dan 1 ton.
+
+##### 22
+
+De inrichting is onderworpen aan systematische verificatie door middel van inspectie ter plaatse en controle met behulp van ter plaatse opgestelde instrumenten.
+
+##### 23
+
+Het aantal, de intensiteit, de duur, de tijdstippen en de wijze van de inspecties voor een bepaalde inrichting dienen te zijn gebaseerd op het risico dat de desbetreffende stoffen, de kenmerken van de inrichting en de aard van de aldaar verrichte activiteiten vormen voor voorwerp en doel van het Verdrag. Passende richtlijnen zullen worden bestudeerd en goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter i.
+
+##### 24
+
+De eerste inspectie heeft tot doel de met betrekking tot de inrichting verstrekte informatie te verifiëren, met inbegrip van verificatie van de beperkingen voor reactievaten als bedoeld in paragraaf 9.
+
+##### 25
+
+Uiterlijk 180 dagen nadat dit Verdrag voor een Staat die Partij is bij dit Verdrag in werking is getreden dient deze met de Organisatie een inrichtingsakkoord te sluiten, op basis van het modelakkoord, dat gedetailleerde inspectieprocedures voor de inrichting regelt.
+
+##### 26
+
+Elke Staat die Partij is bij dit Verdrag die voornemens is een afzonderlijke kleinschalige inrichting op te zetten nadat dit Verdrag voor die Staat in werking is getreden, dient voordat hij deze in gebruik neemt met de Organisatie een inrichtingsakkoord te sluiten, op basis van het modelakkoord, dat gedetailleerde inspectieprocedures voor de inrichting regelt.
+
+##### 27
+
+Een model voor de akkoorden zal worden bestudeerd en goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter i.
+
+#### **Andere inrichtingen als bedoeld in de paragrafen 10 en 11**
+
+##### 28
+
+De verificatie van de activiteiten in een inrichting als bedoeld in de paragrafen 10 en 11 heeft tot doel te verifiëren dat:
+
+- a. de inrichting niet wordt gebruikt voor de produktie van stoffen van Lijst 1, uitgezonderd de opgegeven stoffen;
+
+- b. de geproduceerde, be-/verwerkte of verbruikte hoeveelheden stoffen van Lijst 1 juist zijn opgegeven en in overeenstemming zijn met de behoeften voor het opgegeven doel; en
+
+- c. de stof van Lijst 1 niet een andere bestemming krijgt of niet voor andere doeleinden wordt gebruikt.
+
+##### 29
+
+De inrichting is onderworpen aan systematische verificatie door middel van inspectie ter plaatse en controle met behulp van ter plaatse opgestelde instrumenten.
+
+##### 30
+
+Het aantal, de intensiteit, de duur, de tijdstippen en de wijze van de inspecties voor een bepaalde inrichting dienen te zijn gebaseerd op het risico dat de hoeveelheden van de geproduceerde stoffen, de kenmerken van de inrichting en de aard van de aldaar verrichte activiteiten vormen voor voorwerp en doel van het Verdrag. Passende richtlijnen zullen worden bestudeerd en goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter i.
+
+##### 31
+
+Uiterlijk 180 dagen nadat dit Verdrag voor een Staat die Partij is bij dit Verdrag in werking is getreden dient deze met de Organisatie inrichtingsakkoorden te sluiten, op basis van het modelakkoord, dat gedetailleerde inspectieprocedures voor elke inrichting regelt.
+
+##### 32
+
+Elke Staat die Partij is bij dit Verdrag die voornemens is een zodanige inrichting op te zetten nadat dit Verdrag voor die Staat in werking is getreden, dient voordat hij deze in gebruik neemt met de Organisatie een inrichtingsakkoord te sluiten.
+
+### AFDELING VII. Ingevolge dit Verdrag niet verboden activiteiten in overeenstemming met artikel VI
+
+#### A. OPGAVEN
+
+#### **Opgaven van totale nationale gegevens**
+
+##### 1
+
+De door elke Staat die Partij is bij dit Verdrag ingevolge artikel VI, zevende en achtste lid, te verstrekken eerste opgave en jaaropgaven dienen de totale nationale gegevens over het voorgaande kalenderjaar te omvatten betreffende de geproduceerde, be-/ verwerkte, verbruikte, ingevoerde en uitgevoerde hoeveelheden van elke stof van Lijst 2, met vermelding van de in- en uitgevoerde hoeveelheden voor elk betrokken land.
+
+##### 2
+
+Elke Staat die Partij is bij dit Verdrag dient te verstrekken:
+
+- a. de eerste opgave ingevolge paragraaf 1 uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden; en, met ingang van het volgende kalenderjaar,
+
+- b. jaaropgaven uiterlijk 90 dagen na het einde van het voorgaande kalenderjaar.
+
+#### **Opgaven van fabriekscomplexen die stoffen van Lijst 2 produceren, be-/verwerken of verbruiken**
+
+##### 3
+
+Een eerste opgave en jaaropgaven zijn vereist voor alle fabriekscomplexen die één of meer fabrieken omvatten die in één van de drie voorgaande kalenderjaren hebben geproduceerd, be-/verwerkt of verbruikt, dan wel in het komende kalenderjaar naar verwachting zullen produceren, be-/verwerken of verbruiken meer dan:
+
+- a. 1 kg van een stof die in Lijst 2, deel A, met een „*" is aangeduid;
+
+- b. 100 kg van een andere in Lijst 2, deel A, vermelde stof; of
+
+- c. 1 ton van een in Lijst 2, deel B, vermelde stof.
+
+##### 4
+
+Elke Staat die Partij is bij dit Verdrag dient te verstrekken:
+
+- a. de eerste opgave ingevolge paragraaf 3 uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden; en, met ingang van het volgende kalenderjaar,
+
+- b. jaaropgaven betreffende activiteiten in het verleden uiterlijk 90 dagen na het einde van het voorgaande kalenderjaar;
+
+- c. jaaropgaven betreffende verwachte activiteiten uiterlijk 60 dagen voor het begin van het volgende kalenderjaar. Elke activiteit die extra wordt gepland na het verstrekken van de jaaropgave dient uiterlijk vijf dagen voordat die activiteit begint te worden opgegeven.
+
+##### 5
+
+Opgaven ingevolge paragraaf 3 zijn in het algemeen niet vereist voor mengsels met een laag gehalte van een stof van Lijst 2. Zij zijn slechts vereist, in overeenstemming met de richtlijnen, ingeval het gemak waarmee de stof van Lijst 2 uit het mengsel kan worden teruggewonnen alsmede de totale hoeveelheid daarvan worden geacht een risico te vormen voor voorwerp en doel van dit Verdrag. Deze richtlijnen zullen worden bestudeerd en goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter i.
+
+##### 6
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen te omvatten:
+
+- a. de naam van het fabriekscomplex en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging en het adres; en
+
+- c. het aantal fabrieken binnen het fabriekscomplex die zijn opgegeven ingevolge Afdeling VIII van deze Bijlage.
+
+##### 7
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen voor elke binnen het fabriekscomplex gelegen fabriek die onder paragraaf 3 valt, de volgende informatie te omvatten:
+
+- a. de naam van de fabriek en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging binnen het fabriekscomplex onder vermelding van het eventuele nummer van het gebouw of bouwwerk;
+
+- c. de voornaamste activiteiten ervan;
+
+- d. informatie waaruit blijkt of de fabriek:
+
+- i. de opgegeven stof(fen) van Lijst 2 produceert, be-/verwerkt of verbruikt;
+
+- ii. speciaal bedoeld is voor die activiteiten of voor verscheidene doeleinden geschikt is; en
+
+- iii. andere activiteiten verricht met betrekking tot de opgegeven stof(fen) van Lijst 2 en, zo ja, welke (b.v. opslag); en
+
+- e. de produktiecapaciteit van de fabriek voor elke opgegeven stof van Lijst 2.
+
+##### 8
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen tevens de volgende informatie te omvatten betreffende elke stof van Lijst 2 boven de drempelwaarde:
+
+- a. de chemische benaming, de door de inrichting gehanteerde gangbare naam of handelsnaam, de structuurformule en het registratienummer van de Chemical Abstracts Service, indien toegekend;
+
+- b. bij de eerste opgave: de totale door het fabriekscomplex geproduceerde, be-/verwerkte, verbruikte, ingevoerde en uitgevoerde hoeveelheid in elk van de drie voorgaande kalenderjaren;
+
+- c. bij de jaaropgave betreffende activiteiten in het verleden: de totale door het fabriekscomplex geproduceerde, be-/verwerkte, verbruikte, ingevoerde en uitgevoerde hoeveelheid in het voorgaande kalenderjaar;
+
+- d. bij de opgave betreffende verwachte activiteiten: de verwachte totale door het fabriekscomplex te produceren, be-/verwerken of verbruiken hoeveelheid in het volgende kalenderjaar, met inbegrip van de verwachte tijdvakken van produktie, be-/verwerking of verbruik; en
+
+- e. de doeleinden waarvoor de stof werd of zal worden geproduceerd, be-/verwerkt of verbruikt:
+
+- i. be-/verwerking en verbruik ter plaatse, onder vermelding van de soorten produkten;
+
+- ii. verkoop of overdracht binnen het grondgebied of naar enige andere plaats onder de rechtsmacht of het toezicht van de Staat die Partij is bij dit Verdrag, onder vermelding of het een andere industrie, handelaar of andere bestemming betreft en, indien mogelijk, onder vermelding van de soorten eindprodukten;
+
+- iii. rechtstreekse uitvoer, onder vermelding van de betrokken Staten; of
+
+- iv. andere doeleinden, onder vermelding van deze andere bestemmingen.
+
+#### **Opgaven betreffende de produktie van stoffen van Lijst 2 in het verleden ten behoeve van chemische wapens**
+
+##### 9
+
+Elke Staat die Partij is bij dit Verdrag dient uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden alle fabriekscomplexen op te geven die fabrieken omvatten die op enig tijdstip sinds 1 januari 1946 een stof van Lijst 2 produceerden ten behoeve van chemische wapens.
+
+##### 10
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 9 dienen te omvatten:
+
+- a. de naam van het fabriekscomplex en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging en het adres;
+
+- c. voor elke binnen het fabriekscomplex gelegen fabriek die onder paragraaf 9 valt, dezelfde informatie als bedoeld in paragraaf 7, letters a tot en met e; en
+
+- d. Voor elke ten behoeve van chemische wapens geproduceerde stof van Lijst 2:
+
+- i. de chemische benaming, de door het fabriekscomplex gehanteerde gangbare naam of handelsnaam ten behoeve van de produktie van chemische wapens, de structuurformule en het registratienummer van de **Chemical Abstracts Service,** indien toegekend;
+
+- ii. de data waarop de stof werd geproduceerd en de geproduceerde hoeveelheid; en
+
+- iii. de plaats waar de stof is afgeleverd en het aldaar geproduceerde eindprodukt, indien bekend.
+
+#### **Toezending informatie aan Staten die Partij zijn bij dit Verdrag**
+
+##### 11
+
+Een lijst van ingevolge deze Titel opgegeven fabriekscomplexen, te zamen met de ingevolge de paragrafen 6,7, letters a, c en d, onder i en iii, 8, letter a, en 10 verstrekte informatie, wordt op verzoek door het Technisch Secretariaat aan de Staten die Partij zijn bij dit Verdrag toegezonden.
+
+#### B. VERIFICATIE
+
+#### **Algemeen**
+
+##### 12
+
+De in artikel VI, vierde lid, bedoelde verificatie dient te geschieden door middel van inspectie ter plaatse op de opgegeven fabriekscomplexen die één of meer fabrieken omvatten die gedurende één van de drie voorgaande kalenderjaren hebben geproduceerd, be-/verwerkt of verbruikt, dan wel in het komende kalenderjaar naar verwachting zullen produceren, be-/verwerken of verbruiken meer dan:
+
+- a. 10 kg van een stof die in Lijst 2, deel A, met een „*" is aangeduid;
+
+- b. 1 ton van een andere in Lijst 2, deel A, vermelde stof; of
+
+- c. 10 ton van een in Lijst 2, deel B, vermelde stof.
+
+##### 13
+
+Het programma en de begroting van de Organisatie die moeten worden goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter a, dienen een afzonderlijk programma en een afzonderlijke begroting te omvatten voor de verificatie ingevolge deze Titel. Bij de toewijzing van de beschikbaar gestelde middelen voor verificatie ingevolge artikel VI dient het Technisch Secretariaat gedurende de eerste drie jaar na de inwerkingtreding van dit Verdrag voorrang te geven aan eerste inspecties van ingevolge Titel A opgegeven fabriekscomplexen. De toewijzing dient daarna te worden getoetst aan de hand van de opgedane ervaring.
+
+##### 14
+
+Het Technisch Secretariaat verricht eerste inspecties en vervolginspecties in overeenstemming met de paragrafen 15 tot en met 22.
+
+#### **Doel van de inspecties**
+
+##### 15
+
+Inspecties hebben in het algemeen tot doel te verifiëren dat de activiteiten in overeenstemming zijn met de verplichtingen ingevolge dit Verdrag en stroken met de in de opgaven te verstrekken informatie. Inspecties van ingevolge Titel A opgegeven fabriekscomplexen hebben in het bijzonder tot doel te verifiëren:
+
+- a. dat er geen stof van Lijst 1 aanwezig is en dat er met name geen produktie van die stoffen plaatsvindt, tenzij in overeenstemming met Afdeling VI van deze Bijlage;
+
+- b. dat deze stroken met de opgaven van produktie-, be-/verwerkings- en verbruiksniveaus van stoffen van Lijst 2; en
+
+- c. dat stoffen van Lijst 2 niet worden aangewend voor ingevolge dit Verdrag verboden activiteiten.
+
+#### **Eerste inspecties**
+
+##### 16
+
+Elk ingevolge paragraaf 12 te inspecteren fabriekscomplex dient zo spoedig mogelijk, doch bij voorkeur uiterlijk drie jaar na de inwerkingtreding van dit Verdrag, een eerste inspectie te ondergaan. Na deze termijn opgegeven fabriekscomplexen dienen uiterlijk een jaar nadat de produktie, de be-/verwerking of het verbruik voor de eerste maal is opgegeven een eerste inspectie te ondergaan. Het kiezen van de fabriekscomplexen voor de eerste inspectie door het Technisch Secretariaat dient op zodanige wijze te geschieden, dat het onmogelijk is precies te voorspellen wanneer het fabriekscomplex zal worden geïnspecteerd.
+
+##### 17
+
+Tijdens de eerste inspectie dient een ontwerp-inrichtingsakkoord te worden opgesteld, tenzij de geïnspecteerde Staat die Partij is bij dit Verdrag en het Technisch Secretariaat overeenkomen dat dit niet nodig is.
+
+##### 18
+
+Met het oog op de frequentie en de intensiteit van de vervolginspecties dienen de inspecteurs gedurende de eerste inspectie te beoordelen in hoeverre de desbetreffende stoffen, de kenmerken van het fabriekscomplex en de aard van de aldaar verrichte activiteiten een risico vormen voor voorwerp en doel van dit Verdrag, rekening houdend met, onder meer, de volgende criteria:
+
+- a. de toxiciteit van de in de lijsten opgenomen stoffen en de eventuele daarmee geproduceerde eindprodukten;
+
+- b. de hoeveelheid van de in de lijsten opgenomen stoffen die doorgaans op de geïnspecteerde plaats zijn opgeslagen;
+
+- c. de hoeveelheid voorlopers van de in de lijsten opgenomen stoffen die doorgaans op de geïnspecteerde plaats zijn opgeslagen;
+
+- d. de produktiecapaciteit van fabrieken van Lijst 2; en
+
+- e. de geschiktheid en de converteerbaarheid van de geïnspecteerde plaats, ten einde aldaar te kunnen overgaan tot produktie, opslag en laden van giftige stoffen.
+
+#### **Inspecties**
+
+##### 19
+
+Na het ondergaan van de eerste inspectie dient elk overeenkomstig paragraaf 12 te inspecteren fabriekscomplex te worden onderworpen aan vervolginspecties.
+
+##### 20
+
+Wanneer het Technisch Secretariaat bepaalde fabriekscomplexen kiest voor inspectie en besluit over de frequentie en intensiteit van de inspecties, dient het aandacht te schenken aan het risico dat de desbetreffende stof, de kenmerken van het fabriekscomplex en de aard van de aldaar verrichte activiteiten vormen voor voorwerp en doel van het Verdrag, rekening houdend met het desbetreffende inrichtingsakkoord en de resultaten van de eerste inspectie en de vervolginspecties.
+
+##### 21
+
+Het Technisch Secretariaat dient een bepaald te inspecteren fabriekscomplex zodanig te kiezen, dat het onmogelijk is precies te voorspellen wanneer het zal worden geïnspecteerd.
+
+##### 22
+
+Een fabriekscomplex mag niet meer dan twee inspecties per kalenderjaar ondergaan ingevolge de bepalingen van deze Titel. Dit vormt evenwel geen beletsel voor inspecties ingevolge artikel IX.
+
+#### **Inspectieprocedures**
+
+##### 23
+
+Naast overeengekomen richtlijnen, andere relevante bepalingen van deze Bijlage en de Vertrouwelijkheidsbijlage, zijn de paragrafen 24 tot en met 30 hieronder van toepassing.
+
+##### 24
+
+Uiterlijk 90 dagen na afloop van de eerste inspectie dient een inrichtingsakkoord voor het opgegeven fabriekscomplex te worden gesloten tussen de geïnspecteerde Staat die Partij is bij dit Verdrag en de Organisatie, tenzij de geïnspecteerde Staat die Partij is bij dit Verdrag en het Technisch Secretariaat overeenkomen dat dit niet nodig is. Het moet zijn gebaseerd op een modelakkoord en dient het houden van inspecties op het opgegeven fabrieksterrein te regelen. In het akkoord dienen de frequentie en de intensiteit van de inspecties te worden vermeld, alsook gedetailleerde inspectieprocedures in overeenstemming met de paragrafen 25 tot en met 29.
+
+##### 25
+
+De inspecties dienen zich te richten op de opgegeven fabrieken) van Lijst 2 binnen het opgegeven fabriekscomplex. Indien het inspectieteam verzoekt om toegang tot andere delen van het fabrieksterrein, dient toegang tot deze ruimten te worden verleend in overeenstemming met de verplichting om opheldering te geven overeenkomstig Afdeling II, paragraaf 51, van deze Bijlage en in overeenstemming met het inrichtingsakkoord, of bij gebreke van een inrichtingsakkoord, in overeenstemming met de regels inzake gereguleerde toegang als bedoeld in Afdeling X, Titel C, van deze Bijlage.
+
+##### 26
+
+Er dient inzage in de boeken te worden verleend, indien van toepassing, ten einde de zekerheid te bieden dat de opgegeven stof geen andere bestemming heeft gekregen en dat de produktie in overeenstemming met de opgaven heeft plaatsgevonden.
+
+##### 27
+
+Er dient te worden overgegaan tot monsterneming en analysering om te kunnen bevestigen dat er geen in de lijsten opgenomen stoffen aanwezig zijn die niet zijn opgegeven.
+
+##### 28
+
+Ruimten die kunnen worden geïnspecteerd zijn onder andere:
+
+- a. ruimten waar uitgangsstoffen (reagentia) worden afgeleverd of opgeslagen;
+
+- b. ruimten waar reagentia worden gemanipuleerd alvorens deze aan de reactievaten toe te voegen;
+
+- c. aanvoerleidingen, indien van toepassing, van de in de letter a of b genoemde ruimten naar de reactievaten, te zamen met de bijbehorende afsluiters, stromingsmeters, enz.;
+
+- d. de buitenkant van de reactievaten en de bijbehorende uitrusting;
+
+- e. de leidingen van de reactievaten naar ruimten voor opslag voor lange of korte termijn of naar de apparatuur voor verdere be-/verwerking van de opgegeven stoffen van Lijst 2;
+
+- f. besturingsapparatuur die verband houdt met de in de letters a tot en met e genoemde voorwerpen;
+
+- g. apparatuur en ruimten voor de behandeling van afval en afvalwater;
+
+- h. apparatuur en ruimten voor het afvoeren van stoffen die niet aan de specificatie voldoen.
+
+##### 29
+
+De inspectieperiode mag niet langer duren dan 96 uur; tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag kunnen evenwel verlengingen worden overeengekomen.
+
+#### **Kennisgeving van de inspectie**
+
+##### 30
+
+Een Staat die Partij is bij dit Verdrag dient ten minste 48 uur vóór de aankomst van het inspectieteam op het te inspecteren fabriekscomplex door het Technisch Secretariaat van de inspectie in kennis te worden gesteld.
+
+#### C. OVERDRACHTEN AAN STATEN DIE GEEN PARTIJ ZIJN BIJ DIT VERDRAG
+
+##### 31
+
+Stoffen van Lijst 2 mogen alleen worden overdragen aan of ontvangen van Staten die Partij zijn bij dit Verdrag. Deze verplichting gaat drie jaar na de inwerkingtreding van dit Verdrag in.
+
+##### 32
+
+Gedurende dit overgangstijdvak van drie jaar dient elke Staat die Partij is bij dit Verdrag de hieronder omschreven eindgebruikersverklaring te verlangen voor overdrachten van stoffen van Lijst 2 aan Staten die geen Partij zijn bij dit Verdrag. Voor die overdrachten dient elke Staat die Partij is bij dit Verdrag de nodige maatregelen te nemen om te verzekeren dat de overgedragen stoffen uitsluitend worden gebruikt voor ingevolge dit Verdrag niet verboden doeleinden. De Staat die Partij is bij dit Verdrag dient van de ontvangende Staat onder meer een certificaat te verlangen waarin met betrekking tot de overgedragen stoffen wordt vermeld:
+
+- a. dat zij uitsluitend zullen worden gebruikt voor ingevolge dit Verdrag niet verboden doeleinden;
+
+- b. dat zij niet nogmaals zullen worden overgedragen;
+
+- c. de typen en hoeveelheden ervan;
+
+- d. het eindgebruik ervan; en
+
+- e. de naam en het adres van de eindgebruiker(s).
+
+### AFDELING VIII. Ingevolge dit Verdrag niet verboden activiteiten in overeenstemming met artikel VI
+
+#### A. OPGAVEN
+
+#### **Opgaven van totale nationale gegevens**
+
+##### 1
+
+De door elke Staat die Partij is bij dit Verdrag ingevolge artikel VI, zevende en achtste lid, te verstrekken eerste opgave en jaaropgaven dienen de totale nationale gegevens over het voorgaande kalenderjaar te omvatten betreffende de geproduceerde, ingevoerde en uitgevoerde hoeveelheden van elke stof van Lijst 3, met vermelding van de in- en uitgevoerde hoeveelheden voor elk betrokken land.
+
+##### 2
+
+Elke Staat die Partij is bij dit Verdrag dient te verstrekken:
+
+- a. de eerste opgave ingevolge paragraaf 1 uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden; en, met ingang van het volgende kalenderjaar,
+
+- b. jaaropgaven uiterlijk 90 dagen na het einde van het voorgaande kalenderjaar.
+
+#### **Opgaven van fabriekscomplexen die stoffen van Lijst 3 produceren**
+
+##### 3
+
+Een eerste opgave en jaaropgaven zijn vereist voor alle fabriekscomplexen die een of meer fabrieken omvatten die in het voorgaande kalenderjaar meer dan 30 ton van een stof van Lijst 3 hebben geproduceerd, dan wel in het komende kalenderjaar naar verwachting meer dan 30 ton van een stof van Lijst 3 zullen produceren.
+
+##### 4
+
+Elke Staat die Partij is bij dit Verdrag dient te verstrekken:
+
+- a. de eerste opgave ingevolge paragraaf 3 uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden ; en, met ingang van het volgende kalenderjaar,
+
+- b. jaaropgaven betreffende activiteiten in het verleden uiterlijk 90 dagen na het einde van het voorgaande kalenderjaar;
+
+- c. jaaropgaven betreffende verwachte activiteiten uiterlijk 60 dagen voor het begin van het volgende kalenderjaar. Elke activiteit die extra wordt gepland na het verstrekken van de jaaropgave dient uiterlijk vijf dagen voordat die activiteit begint te worden opgegeven.
+
+##### 5
+
+Opgaven ingevolge paragraaf 3 zijn in het algemeen niet vereist voor mengsels met een laag gehalte van een stof van Lijst 3. Zij zijn slechts vereist, in overeenstemming met de richtlijnen, ingeval het gemak waarmee de stof van Lijst 3 uit het mengsel kan worden teruggewonnen alsmede de totale hoeveelheid daarvan worden geacht een risico te vormen voor doel en voorwerp van dit Verdrag. Deze richtlijnen zullen worden bestudeerd en goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter i.
+
+##### 6
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen te omvatten:
+
+- a. de naam van het fabriekscomplex en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging en het adres; en
+
+- c. het aantal fabrieken binnen het fabriekscomplex die zijn opgegeven ingevolge Afdeling VII van deze Bijlage.
+
+##### 7
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen voor elke binnen het fabriekscomplex gelegen fabriek die onder paragraaf 3 valt, de volgende informatie te omvatten:
+
+- a. de naam van de fabriek en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging binnen het fabriekscomplex onder vermelding van het eventuele nummer van het gebouw of bouwwerk;
+
+- c. de voornaamste activiteiten ervan.
+
+##### 8
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 3 dienen tevens de volgende informatie te omvatten betreffende elke stof van Lijst 3 boven de drempelwaarde:
+
+- a. de chemische benaming, de door de inrichting gehanteerde gangbare naam of handelsnaam, de structuurformule en het registratienummer van de **Chemical Abstracts Service,** indien toegekend;
+
+- b. de hoeveelheid, bij benadering, van de produktie van de chemische stof in het voorgaande kalenderjaar, of, in geval van opgaven van verwachte activiteiten, de verwachte produktie voor het volgende kalenderjaar, uitgedrukt in de volgende waarden: 30 tot 200 ton, 200 tot 1000 ton, 1000 tot 10.000 ton, 10.000 tot 100.000 ton en 100.000 ton of meer; en
+
+- c. de doeleinden waarvoor de stof werd of zal worden geproduceerd.
+
+#### **Opgaven betreffende de produktie van stoffen van Lijst 3 in het verleden ten behoeve van chemische wapens**
+
+##### 9
+
+Elke Staat die Partij is bij dit Verdrag dient uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden alle fabriekscomplexen op te geven die fabrieken omvatten die op enig tijdstip sinds 1 januari 1946 een stof van Lijst 3 produceerden ten behoeve van chemische wapens.
+
+##### 10
+
+Opgaven van een fabriekscomplex ingevolge paragraaf 9 dienen te omvatten:
+
+- a. de naam van het fabriekscomplex en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging en het adres;
+
+- c. voor elke binnen het fabriekscomplex gelegen fabriek die onder paragraaf 9 valt, dezelfde informatie als bedoeld in paragraaf 7, letters a tot en met c; en
+
+- d. voor elke ten behoeve van chemische wapens geproduceerde stof van Lijst 3:
+
+- i. de chemische benaming, de door het fabriekscomplex gehanteerde gangbare naam of handelsnaam ten behoeve van de produktie van chemische wapens, de structuurformule en het registratienummer van de **Chemical Abstracts Service,** indien toegekend;
+
+- ii. de data waarop de stof werd geproduceerd en de geproduceerde hoeveelheid; en
+
+- iii. de plaats waar de stof is afgeleverd en het aldaar geproduceerde eindprodukt, indien bekend.
+
+#### **Toezending informatie aan Staten die Partij zijn bij dit Verdrag**
+
+##### 11
+
+Een lijst van ingevolge deze Titel opgegeven fabriekscomplexen, te zamen met de ingevolge de paragrafen 6, 7, letters a en c, 8, letter a, en 10 verstrekte informatie, wordt op verzoek door het Technisch Secretariaat aan de Staten die Partij zijn bij dit Verdrag toegezonden.
+
+#### B. VERIFICATIE
+
+#### **Algemeen**
+
+##### 12
+
+De in artikel VI, vijfde lid, bedoelde verificatie dient te geschieden door middel van inspectie ter plaatse op de opgegeven fabriekscomplexen die gedurende het voorgaande kalenderjaar in totaal meer dan 200 ton van een stof van Lijst 3 boven de drempelwaarde van 30 ton hebben geproduceerd, dan wel in het komende kalenderjaar naar verwachting zullen produceren.
+
+##### 13
+
+Het programma en de begroting van de Organisatie die moeten worden goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter a, dienen een afzonderlijk programma en een afzonderlijke begroting te omvatten voor de verificatie ingevolge deze Titel, rekening houdend met Afdeling VII, paragraaf 13, van deze Bijlage.
+
+##### 14
+
+De keuze van de fabriekscomplexen door het Technisch Secretariaat voor inspectie ingevolge deze Titel dient op willekeurige basis te geschieden met gebruikmaking van passende methoden, zoals de toepassing van speciale computerprogrammatuur, waarbij het zich laat leiden door de volgende factoren:
+
+- a. een eerlijke geografische spreiding van de inspecties; en
+
+- b. de informatie betreffende de opgegeven fabriekscomplexen waarover het Technisch Secretariaat beschikt met betrekking tot de desbetreffende stof, de kenmerken van het fabriekscomplex en de aard van de aldaar verrichte activiteiten.
+
+##### 15
+
+Een fabriekscomplex mag niet meer dan twee inspecties per kalenderjaar ondergaan ingevolge de bepalingen van deze Titel. Dit vormt evenwel geen beletsel voor inspecties ingevolge artikel IX.
+
+##### 16
+
+Bij de keuze van de fabriekscomplexen voor inspectie ingevolge deze Titel dient het Technisch Secretariaat de volgende beperking in acht te nemen voor het gecombineerde aantal inspecties dat een Staat die Partij is bij dit Verdrag per kalenderjaar moet ondergaan ingevolge deze Afdeling en Afdeling IX van deze Bijlage: het gecombineerde aantal inspecties mag niet groter zijn dan drie plus 5 procent van het totale aantal fabriekscomplexen dat door een Staat die Partij is bij dit Verdrag is opgegeven ingevolge deze Afdeling en Afdeling IX van deze Bijlage, dan wel 20 inspecties, naar gelang van welk aantal het kleinst is.
+
+#### **Doel van de inspecties**
+
+##### 17
+
+De inspecties op ingevolge Titel A opgegeven fabriekscomplexen hebben in het algemeen tot doel te verifiëren dat de activiteiten in overeenstemming zijn met de in de opgaven te verstrekken informatie. De inspecties hebben in het bijzonder tot doel te verifiëren dat er geen stof van Lijst 1 aanwezig is en dat er met name geen produktie van die stoffen plaatsvindt, tenzij in overeenstemming met Afdeling VI van deze Bijlage.
+
+#### **Inspectieprocedures**
+
+##### 18
+
+Naast overeengekomen richtlijnen, andere relevante bepalingen van deze Bijlage en de Vertrouwelijkheidsbijlage, zijn de paragrafen 19 tot en met 25 hieronder van toepassing.
+
+##### 19
+
+Er is geen inrichtingsakkoord vereist, tenzij de geïnspecteerde Staat die Partij is bij dit Verdrag dit verlangt.
+
+##### 20
+
+De inspecties dienen zich te richten op de opgegeven fabriek(en) van Lijst 3 binnen het opgegeven fabriekscomplex. Indien het inspectieteam in overeenstemming met Afdeling II, paragraaf 51, van deze Bijlage verzoekt om toegang tot andere delen van het fabrieksterrein ter opheldering van onduidelijkheden, dient de omvang van die toegang tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag te worden overeengekomen.
+
+##### 21
+
+Het inspectieteam dient inzage te krijgen in boeken ingeval het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag overeenkomen dat zulks bijdraagt tot verwezenlijking van de doelstellingen van de inspectie.
+
+##### 22
+
+Er kan worden overgegaan tot monsterneming en analysering ter plaatse om te kunnen bevestigen dat er geen in de lijsten opgenomen stoffen aanwezig zijn die niet zijn opgegeven. In geval van onopgeloste onduidelijkheden kunnen de monsters worden geanalyseerd op een hiertoe aangewezen laboratorium elders, mits de geïnspecteerde Staat die Partij is bij dit Verdrag daarmee instemt.
+
+##### 23
+
+Ruimten die kunnen worden geïnspecteerd zijn onder andere:
+
+- a. ruimten waar voorlopers (reagentia) worden afgeleverd of opgeslagen;
+
+- b. ruimten waar reagentia worden gemanipuleerd alvorens deze aan de reactievaten toe te voegen;
+
+- c. aanvoerleidingen, indien van toepassing, van de in de letter a of b genoemde ruimten naar de reactievaten, te zamen met de bijbehorende afsluiters, stromingsmeters, enz.;
+
+- d. de buitenkant van de reactievaten en de bijbehorende uitrusting;
+
+- e. de leidingen van de reactievaten naar ruimten voor opslag voor lange of korte termijn of naar de apparatuur voor verdere be-/verwerking van de opgegeven stoffen van Lijst 3;
+
+- f. besturingsapparatuur die verband houdt met de in de letters a tot en met e genoemde voorwerpen;
+
+- g. apparatuur en ruimten voor de behandeling van afval en afvalwater;
+
+- h. apparatuur en ruimten voor het afvoeren van stoffen die niet aan de specificatie voldoen.
+
+##### 24
+
+De inspectieperiode mag niet langer duren dan 24 uur; tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag kunnen evenwel verlengingen worden overeengekomen.
+
+#### **Kennisgeving van de inspectie**
+
+##### 25
+
+Een Staat die Partij is bij dit Verdrag dient ten minste 120 uur vóór de aankomst van het inspectieteam op het te inspecteren fabriekscomplex door het Technisch Secretariaat van de inspectie in kennis te worden gesteld.
+
+#### C. OVERDRACHTEN AAN STATEN DIE GEEN PARTIJ ZIJN BIJ DIT VERDRAG
+
+##### 26
+
+Wanneer stoffen van Lijst 3 worden overgedragen aan Staten die geen Partij zijn bij dit Verdrag, dient elke Staat die Partij is bij dit Verdrag de noodzakelijke maatregelen te nemen om te verzekeren dat de overgedragen stoffen uitsluitend worden gebruikt voor ingevolge dit Verdrag niet verboden doeleinden. De Staat die Partij is bij dit Verdrag dient van de ontvangende Staat onder meer een certificaat te verlangen waarin met betrekking tot de overgedragen stoffen wordt vermeld:
+
+- a. dat zij uitsluitend zullen worden gebruikt voor ingevolge dit Verdrag niet verboden doeleinden;
+
+- b. dat zij niet nogmaals zullen worden overgedragen;
+
+- c. de typen en hoeveelheden ervan;
+
+- d. het eindgebruik ervan; en
+
+- e. de naam en het adres van de eindgebruiker(s).
+
+##### 27
+
+Vijfjaar na de inwerkingtreding van dit Verdrag zal de Conferentie nagaan of het noodzakelijk andere maatregelen vast te stellen met betrekking tot overdrachten van stoffen van Lijst 3 aan Staten die geen Partij zijn bij dit Verdrag.
+
+### AFDELING IX. Ingevolge dit Verdrag niet verboden activiteiten in overeenstemming met artikel VI
+
+#### A. OPGAVEN
+
+#### **Lijst van andere inrichtingen voor de produktie van stoffen**
+
+##### 1
+
+De door elke Staat die Partij is bij dit Verdrag ingevolge artikel VI, zevende lid, te verstrekken eerste opgave dient een lijst te omvatten van alle fabriekscomplexen die:
+
+- a. in het voorgaande kalenderjaar door middel van synthese meer dan 200 ton niet in de lijsten opgenomen onderscheiden organische stoffen hebben geproduceerd; of
+
+- b. één of meer fabrieken omvatten die in het voorgaande kalenderjaar door middel van synthese meer dan 30 ton van een niet in de lijsten opgenomen onderscheiden organische stof hebben geproduceerd die de elementen fosfor, zwavel of fluor bevat (hierna te noemen „PSF-fabrieken" en „PSF-stof").
+
+##### 2
+
+De ingevolge paragraaf 1 in te dienen lijst van andere inrichtingen voor de produktie van stoffen dient geen fabriekscomplexen te omvatten die uitsluitend explosieven of koolwaterstoffen produceerden.
+
+##### 3
+
+Elke Staat die Partij is bij dit Verdrag dient zijn ingevolge paragraaf 1 in te dienen lijst van andere inrichtingen voor de produktie van stoffen te verstrekken als onderdeel van zijn eerste opgaven, zulks uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden. Elke Staat die Partij is bij dit Verdrag dient jaarlijks uiterlijk 90 dagen na het begin van elk volgende jaar de informatie te verstrekken die nodig is om de lijst bij te werken.
+
+##### 4
+
+De ingevolge paragraaf 1 in te dienen lijst van andere inrichtingen voor de produktie van stoffen dient de volgende informatie betreffende elk fabriekscomplex te omvatten:
+
+- a. de naam van het fabriekscomplex en de naam van de eigenaar, vennootschap of onderneming die het in bedrijf houdt;
+
+- b. de exacte ligging van het fabriekscomplex en het adres;
+
+- c. de voornaamste activiteiten ervan; en
+
+- d. het aantal, bij benadering, van de fabrieken binnen het fabriekscomplex die de in paragraaf 1 genoemde stoffen produceren.
+
+##### 5
+
+Met betrekking tot de ingevolge paragraaf 1, letter a, op te geven fabriekscomplexen dient de lijst tevens informatie te omvatten over de totale hoeveelheid, bij benadering, van de produkie van niet opgegeven onderscheiden organische stoffen in het voorgaande kalenderjaar, uitgedrukt in de volgende waarden: tot 1000 ton, 1000 tot 10.000 ton en 10.000 ton of meer.
+
+##### 6
+
+Met betrekking tot de ingevolge paragraaf 1, letter b, op te geven fabriekscomplexen dient de lijst tevens het aantal PSF-fabrieken binnen het fabriekscomplex aan te geven en informatie te omvatten over de hoeveelheid, bij benadering, van de PSF-stoffen die in het voorgaande kalenderjaar door elke PSF-fabriek zijn geproduceerd, uitgedrukt in de volgende waarden: tot 200 ton, 200 tot 1000 ton, 1000 tot 10.000 ton en 10.000 ton of meer.
+
+#### **Bijstand van het Technisch Secretariaat**
+
+##### 7
+
+Indien een Staat die Partij is bij dit Verdrag het om administratieve redenen noodzakelijk acht bijstand te vragen bij de samenstelling van zijn lijst van inrichtingen voor de produktie van stoffen ingevolge paragraaf 1, kan hij het Technisch Secretariaat verzoeken deze bijstand te verlenen. Vragen aangaande de volledigheid van de lijst dienen dan te worden opgelost door middel van overleg tussen de Staat die Partij is bij dit Verdrag en het Technisch Secretariaat.
+
+#### **Toezending informatie aan de Staten die Partij zijn bij dit Verdrag**
+
+##### 8
+
+De ingevolge paragraaf 1 ingediende lijsten van inrichtingen voor de produktie van stoffen, te zamen met de ingevolge paragraaf 4 verstrekte informatie, worden op verzoek door het Technisch Secretariaat aan de Staten die Partij zijn bij dit Verdrag toegezonden.
+
+#### B. VERIFICATIE
+
+#### **Algemeen**
+
+##### 9
+
+Behoudens de bepalingen van Titel C, dient de in artikel VI, zesde lid, bedoelde verificatie te geschieden door middel van inspectie ter plaatse in:
+
+- a. de overeenkomstig paragraaf 1, letter a, opgegeven fabriekscomplexen; en
+
+- b. de overeenkomstig paragraaf 1, letter b, opgegeven fabriekscomplexen die één of meer PSF-fabrieken omvatten die in het voorgaande kalenderjaar meer dan 200 ton van een PSF-stof produceerden.
+
+##### 10
+
+Het programma en de begroting van de Organisatie die moeten worden goedgekeurd door de Conferentie overeenkomstig artikel VIII, lid 21, letter a, dienen een afzonderlijk programma en een afzonderlijke begroting te omvatten voor de verificatie ingevolge deze Titel nadat een aanvang is gemaakt met de uitvoering hiervan.
+
+##### 11
+
+De keuze van de fabriekscomplexen door het Technisch Secretariaat voor inspectie ingevolge deze Titel dient op willekeurige basis te geschieden met gebruikmaking van passende methoden, zoals de toepassing van speciale computerprogrammatuur, waarbij het zich laat leiden door de volgende factoren:
+
+- a. een eerlijke geografische spreiding van de inspecties; en
+
+- b. de informatie betreffende de opgegeven fabriekscomplexen waarover het Technisch Secretariaat beschikt met betrekking tot de kenmerken van het fabriekscomplex en de aard van de aldaar verrichte activiteiten; en
+
+- c. voorstellen van de Staten die Partij zijn bij dit Verdrag op een in overeenstemming met paragraaf 25 overeen te komen grondslag.
+
+##### 12
+
+Een fabriekscomplex mag niet meer dan twee inspecties per jaar ondergaan ingevolge de bepalingen van deze Titel. Dit vormt evenwel geen beletsel voor inspecties ingevolge artikel IX.
+
+##### 13
+
+Bij de keuze van de fabriekscomplexen voor inspectie ingevolge deze Titel dient het Technisch Secretariaat de volgende beperking in acht te nemen voor het gecombineerde aantal inspecties dat een Staat die Partij is bij dit Verdrag per kalenderjaar moet ondergaan ingevolge deze Afdeling en Afdeling VIII van deze Bijlage: het gecombineerde aantal inspecties mag niet groter zijn dan drie plus 5 procent van het totale aantal fabriekscomplexen dat door een Staat die Partij is bij dit Verdrag is opgegeven ingevolge deze Afdeling en Afdeling VIII van deze Bijlage, dan wel 20 inspecties, naar gelang van welk aantal het kleinst is.
+
+#### **Doel van de inspecties**
+
+##### 14
+
+De inspecties op ingevolge Titel A opgegeven fabriekscomplexen hebben in het algemeen tot doel te verifiëren dat de activiteiten in overeenstemming zijn met de in de opgaven te verstrekken informatie. De inspecties hebben in het bijzonder tot doel te verifiëren dat er geen chemische stof van Lijst 1 aanwezig is en dat er met name geen produktie van die stoffen plaatsvindt, tenzij in overeenstemming met Afdeling VI van deze Bijlage.
+
+#### **Inspectieprocedures**
+
+##### 15
+
+Naast overeengekomen richtlijnen, andere relevante bepalingen van deze Bijlage en de Vertrouwelijkheidsbijlage, zijn de paragrafen 16 tot en met 20 hieronder van toepassing.
+
+##### 16
+
+Er is geen inrichtingsakkoord vereist, tenzij de geïnspecteerde Staat die Partij is bij dit Verdrag dit verlangt.
+
+##### 17
+
+De inspectie in een voor inspectie gekozen fabriekscomplex dient zich te richten op de fabriek(en) die de in paragraaf 1 genoemde stoffen produceert (produceren), in het bijzonder de ingevolge paragraaf 1, letter b, opgegeven PSF-fabrieken. De geïnspecteerde Staat die Partij is bij dit Verdrag heeft het recht de toegang tot deze fabrieken te reguleren in overeenstemming met de regels inzake gereguleerde toegang als genoemd in Afdeling X, Titel C, van deze Bijlage. Indien het inspectieteam in overeenstemming met Afdeling II, paragraaf 51, van deze Bijlage verzoekt om toegang tot andere delen van het fabriekscomplex ter opheldering van onduidelijkheden, dient de omvang van die toegang tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag te worden overeengekomen.
+
+##### 18
+
+Het inspectieteam dient inzage te krijgen in boeken ingeval het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag overeenkomen dat zulks bijdraagt tot verwezenlijking van de doelstellingen van de inspectie.
+
+##### 19
+
+Er kan worden overgegaan tot monsterneming en analysering ter plaatse om te kunnen bevestigen dat er geen in de lijsten opgenomen stoffen aanwezig zijn die niet zijn opgegeven. In geval van onopgeloste onduidelijkheden kunnen de monsters worden geanalyseerd op een hiertoe aangewezen laboratorium elders, mits de geïnspecteerde Staat die Partij is bij dit Verdrag daarmee instemt.
+
+##### 20
+
+De inspectieperiode mag niet langer duren dan 24 uur; tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag kunnen evenwel verlengingen worden overeengekomen.
+
+#### **Kennisgeving van de inspectie**
+
+##### 21
+
+Een Staat die Partij is bij dit Verdrag dient ten minste 120 uur vóór de aankomst van het inspectieteam op het te inspecteren fabriekscomplex door het Technisch Secretariaat van de inspectie in kennis te worden gesteld.
+
+#### C. UITVOERING EN TOETSING VAN TITEL B
+
+#### Uitvoering
+
+##### 22
+
+De uitvoering van Titel B dient aan het begin van het vierde jaar na de inwerkingtreding van dit Verdrag aan te vangen, tenzij de Conferentie op haar gewone vergadering in het derde jaar na de inwerkingtreding van dit Verdrag anders besluit.
+
+##### 23
+
+De Directeur-Generaal stelt voor de gewone vergadering van de Conferentie in het derde jaar na de inwerkingtreding van dit Verdrag een rapport op waarin hij verslag doet van de ervaring die het Technisch Secretariaat heeft opgedaan bij de uitvoering van de bepalingen van de Afdelingen VII en VIII van deze Bijlage alsook van Titel A van deze Afdeling.
+
+##### 24
+
+Op haar gewone vergadering in het derde jaar na de inwerkingtreding van dit Verdrag kan de Conferentie op basis van het rapport van de Directeur-Generaal ook besluiten over de verdeling van de voor verificatie ingevolge Titel B beschikbare middelen tussen PSF-fabrieken en andere inrichtingen voor de produktie van stoffen. Anders wordt deze verdeling overgelaten aan het Technisch Secretariaat en toegevoegd aan de in paragraaf 11 bedoelde factoren.
+
+##### 25
+
+Op haar gewone vergadering in het derde jaar na de inwerkingtreding van dit Verdrag besluit de Conferentie, op grond van een advies van de Uitvoerende Raad, op welke basis (bijvoorbeeld regionaal) voorstellen van Staten die Partij zijn bij dit Verdrag moeten worden ingediend om mede in aanmerking te kunnen worden genomen bij de in paragraaf 11 bedoelde keuze.
+
+#### Toetsing
+
+##### 26
+
+Op de eerste bijzondere vergadering van de Conferentie, bijeengeroepen overeenkomstig artikel VIII, lid 22, worden de bepalingen van deze Afdeling van de Verificatiebijlage opnieuw bestudeerd in het licht van een allesomvattende toetsing van het gehele verificatieregime voor de chemische industrie (artikel VI, Afdelingen VII tot en met IX van deze Bijlage) op basis van de opgedane ervaring. De Conferentie doet dan aanbevelingen ten einde de doelmatigheid van het verificatieregime te verbeteren.
+
+### AFDELING X. Uitdagingsinspecties ingevolge artikel IX
+
+#### A. DE AANWIJZING EN KEUZE VAN INSPECTEURS EN INSPECTIE-ASSISTENTEN
+
+##### 1
+
+Uitdagingsinspecties ingevolge artikel IX mogen slechts worden verricht door speciaal daartoe aangewezen inspecteurs en inspectieassistenten. Ten einde inspecteurs en inspectie-assistenten voor uitdagingsinspecties ingevolge artikel IX te kunnen aanwijzen, stelt de Directeur-Generaal een lijst van voorgedragen inspecteurs en inspectie-assistenten op, door dezen te kiezen uit inspecteurs en inspectieassistenten ten behoeve van routine-inspecties. Deze lijst dient een voldoende aantal inspecteurs en inspectie-assistenten te omvatten die beschikken over de nodige kwalificaties, ervaring, vaardigheid en opleiding, opdat een flexibele keuze van de inspecteurs mogelijk is, rekening houdend met hun beschikbaarheid en de nodige roulering. Tevens dient rekening te worden gehouden met het belang van een selectie van de inspecteurs en inspectie-assistenten op een zo breed mogelijke geografische basis. De aanwijzing van de inspecteurs en inspectie-assistenten dient te geschieden volgens de in Afdeling II, Titel A, van deze Bijlage omschreven procedures.
+
+##### 2
+
+De Directeur-Generaal bepaalt de grootte van het inspectieteam en kiest de leden ervan, rekening houdend met de omstandigheden van een bepaald verzoek. De grootte van het inspectieteam dient beperkt te blijven tot het minimum dat noodzakelijk is voor een goede uitvoering van het inspectiemandaat. Een onderdaan van de verzoekende Staat die Partij is bij dit Verdrag of van de geïnspecteerde Staat die Partij is bij dit Verdrag mag geen lid van het inspectieteam zijn.
+
+#### B. AAN DE INSPECTIE VOORAFGAANDE ACTIVITEITEN
+
+##### 3
+
+Alvorens het verzoek om een uitdagingsinspectie in te dienen kan de Staat die Partij is bij dit Verdrag de Directeur-Generaal verzoeken te doen bevestigen dat het Technisch Secretariaat in staat is onmiddellijk actie te ondernemen naar aanleiding van het verzoek. Indien de Directeur-Generaal deze bevestiging niet onmiddellijk kan geven, dient hij zulks zo spoedig mogelijk alsnog te doen, daarbij de volgorde van de verzoeken om bevestiging in acht nemend. Hij dient de Staat die Partij is bij dit Verdrag tevens in te lichten over het tijdstip waarop onmiddellijk actie zou kunnen worden ondernomen. Mocht de Directeur-Generaal tot de slotsom komen dat tijdig optreden naar aanleiding van verzoeken niet langer mogelijk is, dan kan hij de Uitvoerende Raad verzoeken passende maatregelen te treffen om een en ander in de toekomst beter te doen verlopen.
+
+#### **Kennisgeving**
+
+##### 4
+
+Het tot de Uitvoerende Raad en de Directeur-Generaal te richten verzoek om een uitdagingsinspectie dient ten minste de volgende informatie te bevatten:
+
+- a. de te inspecteren Staat die Partij is bij dit Verdrag en, indien van toepassing, de Gaststaat;
+
+- b. het te gebruiken punt van binnenkomst;
+
+- c. de omvang en de aard van de inspectieplaats;
+
+- d. de bezorgdheid met betrekking tot de mogelijke niet-naleving van dit Verdrag onder vermelding van de desbetreffende bepalingen van dit Verdrag waarover bezorgdheid is ontstaan, en de aard en de omstandigheden van de mogelijke niet-naleving, alsmede alle daarvoor in aanmerking komende informatie op grond waarvan de bezorgdheid is ontstaan; en
+
+- e. de naam van de waarnemer van de verzoekende Staat die Partij is bij dit Verdrag.
+
+De verzoekende Staat die Partij is bij dit Verdrag kan alle bijkomende informatie verstrekken die hij noodzakelijk acht.
+
+##### 5
+
+De Directeur-Generaal geeft de verzoekende Staat die Partij is bij dit Verdrag binnen een uur een bevestiging van de ontvangst van het verzoek.
+
+##### 6
+
+De verzoekende Staat die Partij is bij dit Verdrag dient de Directeur-Generaal tijdig in kennis te stellen van de ligging van de inspectieplaats, ten einde de Directeur-Generaal in staat te stellen deze informatie ten minste 12 uur vóór de geplande aankomst van het inspectieteam op het punt van binnenkomst mede te delen aan de geïnspecteerde Staat die Partij is bij dit Verdrag.
+
+##### 7
+
+De inspectieplaats dient door de verzoekende Staat die Partij is bij dit Verdrag zo nauwkeurig mogelijk te worden aangeduid aan de hand van een plattegrond, onder vermelding van een referentiepunt met geografische coördinaten, zo mogelijk tot op de seconde nauwkeurig. Indien mogelijk dient de verzoekende Staat die Partij is bij dit Verdrag ook een landkaart te verstrekken waarop de inspectieplaats globaal is aangeduid, alsook een tekening waarop zo precies mogelijk de verlangde omtrek van de te inspecteren plaats is aangegeven.
+
+##### 8
+
+De verlangde omtrek:
+
+- a. dient op een afstand van ten minste 10 meter van gebouwen of andere bouwwerken te lopen;
+
+- b. mag bestaande veiligheidsomheiningen niet snijden; en
+
+- c. dient ten minste 10 meter buiten bestaande veiligheidsomheiningen te lopen die de verzoekende Staat die Partij is bij dit Verdrag binnen de verlangde omtrek wenst te doen vallen.
+
+##### 9
+
+Indien de verlangde omtrek niet aan de voorschriften van paragraaf 8 voldoet, dient deze opnieuw door het inspectieteam te worden vastgesteld in overeenstemming met die bepaling.
+
+##### 10
+
+De Directeur-Generaal stelt de Uitvoerende Raad ten minste 12 uur vóór de geplande aankomst van het inspectieteam op het punt van binnenkomst in kennis van de ligging van de inspectieplaats als bedoeld in paragraaf 7.
+
+##### 11
+
+Gelijktijdig met de kennisgeving aan de Uitvoerende Raad overeenkomstig paragraaf 10 zendt de Directeur-Generaal het verzoek om inspectie toe aan de geïnspecteerde Staat die Partij is bij dit Verdrag, onder vermelding van de ligging van de inspectieplaats als bedoeld in paragraaf 7. Deze kennisgeving omvat tevens de informatie genoemd in Afdeling II, paragraaf 32, van deze Bijlage.
+
+##### 12
+
+Na aankomst van het inspectieteam op het punt van binnenkomst dient de geïnspecteerde Staat die Partij is bij dit Verdrag door het inspectieteam in kennis te worden gesteld van het inspectiemandaat.
+
+#### **Binnenkomst op het grondgebied van de geïnspecteerde Staat die Partij is bij dit Verdrag of de Gaststaat**
+
+##### 13
+
+De Directeur-Generaal zendt zo spoedig mogelijk na de ontvangst van een verzoek om inspectie een inspectieteam in overeenstemming met artikel IX, dertiende tot en met achttiende lid. Het inspectieteam dient binnen de kortst mogelijke tijd op het in het verzoek vermelde punt van binnenkomst aan te komen, in overeenstemming met de bepalingen van de paragrafen 10 en 11.
+
+##### 14
+
+Indien de verlangde omtrek aanvaardbaar is voor de geïnspecteerde Staat die Partij is bij dit Verdrag, dient deze zo spoedig mogelijk, doch in geen geval later dan 24 uur na de aankomst van het inspectieteam op het punt van binnenkomst, tot definitieve omtrek te worden verklaard. De geïnspecteerde Staat die Partij is bij dit Verdrag dient het inspectieteam te vervoeren naar de definitieve omtrek van de inspectieplaats. Indien de geïnspecteerde Staat die Partij is bij dit Verdrag zulks noodzakelijk acht, kan dit vervoer maximaal 12 uur vóór het verstrijken van de in deze paragraaf voor de aanwijzing van de definitieve omtrek gestelde termijn beginnen. Het vervoer dient in elk geval uiterlijk 36 uur na de aankomst van het inspectieteam op het punt van binnenkomst te zijn beëindigd.
+
+##### 15
+
+Voor alle opgegeven inrichtingen gelden de in de letters a en b omschreven procedures. (Voor de toepassing van deze Afdeling wordt onder „opgegeven inrichting" verstaan alle inrichtingen die zijn opgegeven ingevolge de artikelen III, IV en V. Met betrekking tot artikel VI wordt onder „opgegeven inrichting" slechts verstaan inrichtingen die zijn opgegeven ingevolge Afdeling VI van deze Bijlage, alsmede opgegeven fabrieken als vermeld in opgaven ingevolge Afdeling VII, paragrafen 7 en 10, letter c, en Afdeling VIII, paragrafen 7 en 10, letter c, van deze Bijlage.)
+
+- a. Indien de verlangde omtrek binnen de opgegeven omtrek valt, of daarmee overeenkomt, wordt de opgegeven omtrek als de definitieve omtrek beschouwd. De definitieve omtrek kan echter, met instemming van de geïnspecteerde Staat die Partij is bij dit Verdrag, worden verkleind ten einde deze te doen overeenstemmen met de door de verzoekende Staat die Partij is bij dit Verdrag verlangde omtrek.
+
+- b. De geïnspecteerde Staat die Partij is bij dit Verdrag dient het inspectieteam zo spoedig mogelijk, doch in elk geval uiterlijk 24 uur na aankomst op het punt van binnenkomst, te vervoeren naar de definitieve omtrek.
+
+#### **Alternatieve vaststelling van de definitieve omtrek**
+
+##### 16
+
+Indien de geïnspecteerde Staat die Partij is bij dit Verdrag de verlangde omtrek niet kan aanvaarden, stelt deze op het punt van binnenkomst zo spoedig mogelijk een alternatieve omtrek voor, doch in geen geval later dan 24 uur na de aankomst van het inspectieteam op het punt van binnenkomst. In geval van verschillen van mening gaan de geïnspecteerde Staat die Partij is bij dit Verdrag en het inspectieteam onderhandelingen aan met het doel overeenstemming te bereiken omtrent een definitieve omtrek.
+
+##### 17
+
+De alternatieve omtrek dient zo nauwkeurig mogelijk te worden aangeduid in overeenstemming met paragraaf 8. Daarin dient de gehele verlangde omtrek te zijn begrepen en er dient normaal gesproken een nauw verband te bestaan tussen eerstbedoelde en laatstbedoelde omtrek, natuurlijke kenmerken van het terrein en niet-natuurlijke grenzen in aanmerking genomen. De omtrek dient normaliter dicht bij de veiligheidsomheining te lopen, indien deze aanwezig is. De geïnspecteerde Staat die Partij is bij dit Verdrag dient ernaar te streven bedoeld verband tussen de omtrekken vast te stellen aan de hand van een combinatie van ten minste twee van de volgende mogelijkheden:
+
+- a. een alternatieve omtrek die een gebied omgrenst dat niet wezenlijk groter is dan dat van de verlangde omtrek;
+
+- b. een alternatieve omtrek die op een korte, gelijke afstand van de verlangde omtrek loopt;
+
+- c. ten minste een gedeelte van de verlangde omtrek is zichtbaar vanaf de alternatieve omtrek.
+
+##### 18
+
+Indien de alternatieve omtrek aanvaardbaar is voor het inspectieteam, wordt deze de definitieve omtrek en wordt het inspectieteam van het punt van binnenkomst naar die omtrek vervoerd. Indien de geïnspecteerde Staat die Partij is bij dit Verdrag zulks noodzakelijk acht, kan dit vervoer maximaal 12 uur na het verstrijken van de in paragraaf 16 voor het voorstellen van een alternatieve omtrek gestelde termijn beginnen. Het vervoer dient in elk geval uiterlijk 36 na de aankomst van het inspectieteam op het punt van binnenkomst te zijn beëindigd.
+
+##### 19
+
+Indien geen definitieve omtrek wordt overeengekomen, dienen de onderhandelingen over de omtrek zo spoedig mogelijk te worden afgerond; zij mogen in geen geval langer duren dan 24 uur na de aankomst van het inspectieteam op het punt van binnenkomst. Indien geen overeenstemming wordt bereikt, dient de geïnspecteerde Staat die Partij is bij dit Verdrag het inspectieteam te vervoeren naar een plaats bij de alternatieve omtrek. Indien de geïnspecteerde Staat die Partij is bij dit Verdrag zulks noodzakelijk acht, kan dit vervoer maximaal 12 uur vóór het verstrijken van de in paragraaf 16 voor het voorstellen van een alternatieve omtrek gestelde termijn beginnen. Het vervoer dient in elk geval uiterlijk 36 uur na de aankomst van het inspectieteam op het punt van binnenkomst te zijn beëindigd.
+
+##### 20
+
+Zodra het inspectieteam op de desbetreffende plaats is aangekomen dient de geïnspecteerde Staat die Partij is bij dit Verdrag het team onmiddellijk toegang te verlenen tot de alternatieve omtrek, ten einde de onderhandelingen over en het bereiken van overeenstemming omtrent de definitieve omtrek, alsook de toegang tot het gebied binnen de definitieve omtrek, te vergemakkelijken.
+
+##### 21
+
+Indien geen overeenstemming wordt bereikt binnen 72 uur na de aankomst van het inspectieteam op de desbetreffende plaats, wordt de alternatieve omtrek tot definitieve omtrek verklaard.
+
+#### **Verificatie van de plaats**
+
+##### 22
+
+Ten einde te kunnen vaststellen dat de inspectieplaats waarnaar het inspectieteam is vervoerd, overeenstemt met de door de verzoekende Staat die Partij is bij dit Verdrag genoemde inspectieplaats, heeft het inspectieteam het recht goedgekeurde plaatsbepalingsapparatuur te gebruiken en deze te doen opstellen overeenkomstig zijn aanwijzingen. Het inspectieteam mag de plaats waar het zich bevindt verifiëren aan de hand van plaatselijke herkenningstekenen die het afleidt van kaarten. De geïnspecteerde Staat die Partij is bij dit Verdrag dient het inspectieteam hierbij te helpen.
+
+#### **Beveiliging van de inspectieplaats, controle van de uitgangen**
+
+##### 23
+
+Uiterlijk 12 uur na de aankomst van het inspectieteam op het punt van binnenkomst dient de geïnspecteerde Staat die Partij is bij dit Verdrag te beginnen met het verzamelen van feitelijke gegevens betreffende al het uitgaande verkeer van alle middelen van vervoer te land, te water en in de lucht op alle punten waar dit verkeer de verlangde omtrek verlaat. De Staat die Partij is bij dit Verdrag dient deze gegevens aan het inspectieteam te verstrekken zodra dit aankomt bij de alternatieve of de definitieve omtrek, naar gelang van waar dit het eerst aankomt.
+
+##### 24
+
+Aan deze verplichting kan worden voldaan door feitelijke gegevens te verzamelen met behulp van logboeken, foto's, video-opnamen of gegevens afkomstig van uitrusting die de aanwezigheid van stoffen aantoont, welke door het inspectieteam ter beschikking zijn gesteld om het uitgaande verkeer te bewaken. De geïnspecteerde Staat die Partij is bij dit Verdrag kan daarentegen ook aan deze verplichting voldoen door één of meer leden van het inspectieteam toe te staan zelfstandig logboeken bij te houden, foto's of video-opnamen te maken van het uitgaand verkeer, dan wel uitrusting te gebruiken die de aanwezigheid van stoffen aantoont, alsmede alle andere tussen de geïnspecteerde Staat die Partij is bij dit Verdrag en het inspectieteam overeen te komen taken te verrichten.
+
+##### 25
+
+Na de aankomst van het inspectieteam bij de alternatieve of de definitieve omtrek, naar gelang van waar dit het eerst aankomt, dient de beveiliging van de inspectieplaats, d.w.z. de procedures ter controle van de uitgangen, te beginnen.
+
+##### 26
+
+Deze procedures bestaan onder andere in: het identificeren van de uitgaande voertuigen, het bijhouden van logboeken en het maken van foto's en video-opnamen van de uitgangen en het uitgaande verkeer door het inspectieteam. Het inspectieteam heeft het recht om onder begeleiding naar elk ander gedeelte van de omtrek te gaan om zich ervan te vergewissen dat daar geen sprake is van ander uitgaand verkeer.
+
+##### 27
+
+Aanvullende procedures ter controle van de uitgangen, als overeengekomen door het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag, kunnen onder andere omvatten:
+
+- a. het gebruik van sensoren;
+
+- b. willekeurig gekozen toegang;
+
+- c. het analyseren van monsters.
+
+##### 28
+
+Alle activiteiten ter beveiliging van de inspectieplaats en controle van de uitgangen dienen plaats te vinden in een buiten de omtrek gelegen strook met een breedte van ten hoogste 50 meter.
+
+##### 29
+
+Het inspectieteam heeft het recht de voertuigen die de inspectieplaats verlaten te inspecteren overeenkomstig de regels inzake gereguleerde toegang. De geïnspecteerde Staat die Partij is bij dit Verdrag dient alles wat redelijkerwijs mogelijk is in het werk te stellen om ten overstaan van het inspectieteam aan te tonen dat een voertuig dat is onderworpen aan inspectie en waartoe het inspectieteam geen onbelemmerde toegang verkrijgt, niet wordt gebruikt voor doeleinden die verband houden met de in het verzoek om inspectie vermelde bezorgdheid over de mogelijke niet-naleving van dit Verdrag.
+
+##### 30
+
+Binnenkomende personeelsleden en voertuigen en uitgaande personeelsleden en voertuigen voor personenvervoer zijn niet onderworpen aan inspectie.
+
+##### 31
+
+De toepassing van de hierboven beschreven procedures kan voortduren zolang de inspectie duurt, maar zij mag de normale werking van de inrichting niet onredelijk belemmeren of vertragen.
+
+#### **Briefing vóór de inspectie en inspectieplan**
+
+##### 32
+
+Ter vergemakkelijking van het opstellen van een inspectieplan geeft de geïnspecteerde Staat die Partij is bij dit Verdrag het inspectieteam, voordat dit wordt toegelaten, een briefing inzake veiligheid en logistiek.
+
+##### 33
+
+De aan de inspectie voorafgaande briefing dient te worden gehouden in overeenstemming met Afdeling II, paragraaf 37, van deze Bijlage. In de loop van deze briefing vóór de inspectie kan de geïnspecteerde Staat die Partij is bij dit Verdrag het inspectieteam wijzen op de apparatuur, de documenten of ruimten die hij beschouwt als gevoelig en waarvan hij meent dat zij geen verband houden met het doel van de uitdagingsinspectie. Bovendien dient voor de inspectieplaats verantwoordelijk personeel het inspectieteam voor te lichten over de indeling en de andere relevante kenmerken van die plaats. Aan het inspectieteam dient een kaart of een op schaal vervaardigde tekening te worden verstrekt waarop alle bouwwerken en belangrijke geografische bijzonderheden zijn aangegeven. Het inspectieteam dient tevens te worden voorgelicht over de beschikbaarheid van personeel en dossiers in de inrichting.
+
+##### 34
+
+Na de aan de inspectie voorafgaande briefing stelt het inspectieteam op basis van de informatie waarover het beschikt en die het van toepassing acht, een eerste inspectieplan op, waarin de door het inspectieteam te verrichten activiteiten zijn aangegeven, onder vermelding van de afzonderlijke ruimten ter plaatse waartoe het team toegang wenst te verkrijgen. In het inspectieplan dient ook te worden vermeld of het inspectieteam zal worden onderverdeeld in subgroepen. Het inspectieplan dient ter beschikking te worden gesteld aan de vertegenwoordigers van de geïnspecteerde Staat die Partij is bij dit Verdrag en de inspectieplaats. De uitvoering daarvan dient in overeenstemming te zijn met de bepalingen van Titel C, met inbegrip van de bepalingen inzake toegang en activiteiten.
+
+#### **Activiteiten bij de omtrek**
+
+##### 35
+
+Na de aankomst van het inspectieteam bij de definitieve of alternatieve omtrek, naar gelang van waar dit het eerst aankomt, heeft het team het recht onmiddellijk te beginnen met de bij de omtrek te verrichten activiteiten in overeenstemming met de in deze Titel uiteengezette procedures, en deze activiteiten voort te zetten tot het einde van de uitdagingsinspectie.
+
+##### 36
+
+Bij de verrichting van de activiteiten bij de omtrek heeft het inspectieteam het recht:
+
+- a. controle-instrumenten te gebruiken in overeenstemming met Afdeling II, paragrafen 27 tot en met 30, van deze Bijlage;
+
+- b. monsters van stoflagen, lucht- en bodemmonsters en monsters van het afvalwater te nemen; en
+
+- c. alle bijkomende activiteiten te verrichten als overeengekomen tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag.
+
+##### 37
+
+De activiteiten van het inspectieteam bij de omtrek kunnen worden verricht binnen een strook van 50 meter breed buiten de omtrek. Indien de geïnspecteerde Staat die Partij is bij dit Verdrag daarmee instemt, kan het inspectieteam ook toegang verkrijgen tot alle gebouwen of bouwwerken binnen die strook. Alle controle-instrumenten dienen naar binnen te zijn gericht. Bij opgegeven inrichtingen kan de strook, naar goeddunken van de geïnspecteerde Staat die Partij is bij dit Verdrag, aan de binnenzijde, de buitenzijde of aan weerszijden van de opgegeven omtrek lopen.
+
+#### C. HET HOUDEN VAN INSPECTIES
+
+#### **Algemene regels**
+
+##### 38
+
+De geïnspecteerde Staat die Partij is bij dit Verdrag dient toegang te verlenen binnen de verlangde omtrek alsook binnen de definitieve omtrek, indien deze daarvan afwijkt. Over de omvang en de aard van de toegang tot (een) bepaalde plaats(en) binnen deze omtrekken dient te worden onderhandeld tussen het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag overeenkomstig de regels inzake gereguleerde toegang.
+
+##### 39
+
+De geïnspecteerde Staat die Partij is bij dit Verdrag dient binnen de verlangde omtrek zo spoedig mogelijk toegang te verlenen, doch in elk geval niet later dan 108 uur na de aankomst van het inspectieteam op het punt van binnenkomst, ten einde opheldering te geven met betrekking tot de in het verzoek om inspectie vermelde bezorgdheid omtrent de mogelijke niet-naleving van dit Verdrag.
+
+##### 40
+
+Op verzoek van het inspectieteam kan de geïnspecteerde Staat die Partij is bij dit Verdrag toegang tot de inspectieplaats verlenen vanuit de lucht.
+
+##### 41
+
+Ten einde te voldoen aan het voorschrift toegang te verlenen als bepaald in paragraaf 38 is de geïnspecteerde Staat die Partij is bij dit Verdrag verplicht in de hoogst mogelijk mate toegang te verlenen, daarbij eventuele constitutionele verplichtingen met betrekking tot eigendomsrechten of huiszoekingen en inbeslagnemingen in aanmerking nemend. De geïnspecteerde Staat die Partij is bij dit Verdrag heeft het recht, overeenkomstig de regels inzake gereguleerde toegang, de maatregelen te nemen die noodzakelijk zijn om de nationale veiligheid te beschermen. Op de bepalingen van deze paragraaf mag door de geïnspecteerde Staat die Partij is bij dit Verdrag geen beroep worden gedaan om zich te onttrekken aan zijn verplichtingen zich te onthouden van ingevolge dit Verdrag verboden activiteiten.
+
+##### 42
+
+Indien de geïnspecteerde Staat die Partij is bij dit Verdrag geen onbelemmerde toegang verleent tot plaatsen, activiteiten of informatie, is hij verplicht alles wat redelijkerwijs mogelijk is in het werk te stellen om andere mogelijkheden te bieden om opheldering te verkrijgen met betrekking tot de bezorgdheid omtrent de niet-naleving van het Verdrag die de aanleiding vormde tot de uitdagingsinspectie.
+
+##### 43
+
+Na aankomst bij de definitieve omtrek van ingevolge de artikelen IV, V en VI opgegeven inrichtingen dient in aansluiting op de aan de inspectie voorafgaande briefing en de bespreking van het inspectieplan, welke tot het noodzakelijke minimum beperkt dienen te blijven en in elk geval niet langer dan drie uur mogen duren, toegang te worden verleend.
+
+##### 44
+
+Bij de uitvoering van de uitdagingsinspectie in overeenstemming met het verzoek om inspectie mag het inspectieteam slechts methoden gebruiken die noodzakelijk zijn om voldoende relevante feiten aan te dragen om opheldering te verkrijgen over de bezorgdheid omtrent de mogelijke niet-naleving van de bepalingen van dit Verdrag, en dient het zich te onthouden van niet-relevante activiteiten. Het inspectieteam mag feiten en bewijsstukken verzamelen die verband houden met de mogelijke niet-naleving van de bepalingen van dit Verdrag door de geïnspecteerde Staat die Partij is bij dit Verdrag, maar het mag geen informatie en bewijsstukken zoeken die daarmee duidelijk geen verband houden, tenzij de geïnspecteerde Staat die Partij is bij dit Verdrag het team uitdrukkelijk verzoekt zulks wel te doen. Verzameld materiaal dat vervolgens niet relevant wordt geacht, mag niet worden behouden.
+
+##### 45
+
+Het inspectieteam dient zich te laten leiden door het principe dat de uitdagingsinspectie dient te worden uitgevoerd op de minst mogelijke hinder veroorzakende wijze die verenigbaar is met een doeltreffende en tijdige vervulling van zijn opdracht. Waar mogelijk dient het team te beginnen met de aanvaardbaar geachte procedures die de minst mogelijke hinder veroorzaken, en slechts over te gaan tot meer ingrijpende procedures wanneer het zulks noodzakelijk acht.
+
+#### **Gereguleerde toegang**
+
+##### 46
+
+Het inspectieteam dient voorgestelde wijzigingen van het inspectieplan en door de geïnspecteerde Staat die Partij is bij dit Verdrag gedane voorstellen in overweging te nemen, ongeacht in welk stadium van de inspectie en de daaraan voorafgaande briefing, met het oog op de bescherming van gevoelige apparatuur, informatie of ruimten die geen verband houden met chemische wapens.
+
+##### 47
+
+De geïnspecteerde Staat die Partij is bij dit Verdrag wijst de in- en uitgangen op de omtrek aan waarvan gebruik moet worden gemaakt in verband met de toegang. Het inspectieteam en de geïnspecteerde Staat die Partij is bij dit Verdrag dienen te onderhandelen over: de omvang van de toegang tot (een) bepaalde plaats(en) binnen de definitieve omtrek en de verlangde omtrek als bedoeld in paragraaf 48, de concrete door het inspectieteam te verrichten inspectie-activiteiten, met inbegrip van monsterneming, het verrichten van bepaalde activiteiten door de geïnspecteerde Staat die Partij is bij dit Verdrag en het verstrekken van bepaalde informatie door de geïnspecteerde Staat die Partij is bij dit Verdrag.
+
+##### 48
+
+In overeenstemming met de desbetreffende bepalingen van de Vertrouwelijkheidsbijlage heeft de geïnspecteerde Staat die Partij is bij dit Verdrag het recht maatregelen te nemen ter bescherming van gevoelige installaties en ter voorkoming van onthulling van vertrouwelijke informatie en gegevens die geen verband houden met chemische wapens. Deze maatregelen kunnen onder andere omvatten:
+
+- a. het verwijderen van gevoelige stukken uit de kantoorruimten;
+
+- b. het afdekken van gevoelige opgehangen/opgestelde voorwerpen, voorraden en apparatuur;
+
+- c. het afdekken van gevoelige delen van de uitrusting, zoals computersystemen of elektronische systemen;
+
+- d. het afmelden uit computersystemen of het uitschakelen van beeldweergavetoestellen;
+
+- e. het opleggen van beperkingen voor het analyseren van monsters ter vaststelling van de aanwezigheid van de in de Lijsten 1, 2 en 3 genoemde stoffen of de desbetreffende ontledingsprodukten;
+
+- f. willekeurig kiezen van toegang waarbij de inspecteurs wordt verzocht een bepaald aantal of percentage gebouwen te kiezen die zij zullen inspecteren; ditzelfde principe kan ook worden toegepast op het inwendige van gevoelige gebouwen;
+
+- g. in uitzonderlijke gevallen slechts enkele inspecteurs toegang verlenen tot bepaalde delen van de inspectieplaats.
+
+##### 49
+
+De geïnspecteerde Staat die Partij is bij dit Verdrag dient alles wat redelijkerwijs mogelijk is in het werk te stellen om ten overstaan van het inspectieteam aan te tonen dat een object, gebouw, bouwwerk, houder of voertuig waartoe het inspectieteam geen onbelemmerde toegang heeft gehad, of dat is beschermd in overeenstemming met paragraaf 48, niet wordt gebruikt voor doeleinden die verband houden met de in het verzoek om inspectie vermelde mogelijke niet-naleving van dit Verdrag.
+
+##### 50
+
+Dit kan onder andere geschieden door middel van het gedeeltelijk verwijderen van een afdekking of beschermingskap, naar goeddunken van de geïnspecteerde Staat die Partij is bij dit Verdrag, door middel van een visuele inspectie van het inwendige van een afgesloten ruimte vanaf de ingang, of op enige andere wijze.
+
+##### 51
+
+In geval van ingevolge de artikelen IV, V en VI opgegeven inrichtingen is het volgende van toepassing:
+
+- a. in inrichtingen waarvoor inrichtingsakkoorden bestaan, geldt dat de toegang en de activiteiten binnen de definitieve omtrek onbelemmerd zijn binnen de in de akkoorden vastgestelde grenzen;
+
+- b. in inrichtingen waarvoor geen inrichtingsakkoorden bestaan, dient over de toegang en de activiteiten te worden onderhandeld op grond van de desbetreffende ingevolge dit Verdrag vastgestelde algemene richtlijnen inzake inspectie;
+
+- c. toegang anders dan die welke is toegestaan voor inspecties ingevolge de artikelen IV, V en VI dient te worden gereguleerd in overeenstemming met de procedures van deze Titel.
+
+##### 52
+
+In geval van ingevolge artikel III, eerste lid, letter d, opgegeven inrichtingen is het volgende van toepassing: indien de geïnspecteerde Staat die Partij is bij dit Verdrag, met inachtneming van de procedures van de paragrafen 47 en 48, geen onbelemmerde toegang heeft verleend tot ruimten of bouwwerken die geen verband houden met chemische wapens, dient hij alles wat redelijkerwijs mogelijk is in het werk te stellen om ten overstaan van het inspectieteam aan te tonen dat die ruimten of bouwwerken niet worden gebruikt voor doeleinden die verband houden met de in het verzoek om inspectie vermelde bezorgdheid omtrent de niet-naleving van het Verdrag.
+
+#### **Waarnemer**
+
+##### 53
+
+In overeenstemming met de bepalingen van artikel IX, twaalfde lid, inzake de deelneming van een waarnemer aan de uitdagingsinspectie dient de verzoekende Staat die Partij is bij dit Verdrag zich in verbinding te stellen met het Technisch Secretariaat om de aankomst van de waarnemer zodanig te coördineren, dat deze aankomt op hetzelfde punt van binnenkomst als het inspectieteam, zulks binnen een redelijke termijn na de aankomst van het inspectieteam.
+
+##### 54
+
+De waarnemer heeft het recht gedurende de gehele inspectieperiode contact te onderhouden met de in de geïnspecteerde Staat die Partij is bij dit Verdrag of de Gaststaat gevestigde ambassade van de verzoekende Staat die Partij is bij dit Verdrag, of ingeval daar geen ambassade is, met de verzoekende Staat die Partij is bij dit Verdrag zelf. De geïnspecteerde Staat die Partij is bij dit Verdrag dient de waarnemer communicatiemiddelen ter beschikking te stellen.
+
+##### 55
+
+De waarnemer heeft het recht zich naar de alternatieve of de definitieve omtrek van de inspectieplaats te begeven, waar het inspectieteam het eerst aankomt, en de door de geïnspecteerde Staat die Partij is bij dit Verdrag verleende toegang tot de inspectieplaats te verkrijgen. De waarnemer heeft het recht aanbevelingen te doen aan het inspectieteam, die het inspectieteam in aanmerking dient te nemen voor zover het team dat passend acht. Gedurende de gehele inspectie dient het inspectieteam de waarnemer op de hoogte te houden van de uitvoering van de inspectie en van de bevindingen.
+
+##### 56
+
+Gedurende de gehele verblijfsperiode dient de geïnspecteerde Staat die Partij is bij dit Verdrag de waarnemer de nodige voorzieningen ter beschikking te stellen ofte doen stellen, zoals communicatiemiddelen, tolkdiensten, vervoer, werkruimte, onderdak, maaltijden en medische verzorging. Alle kosten in verband met het verblijf van de waarnemer op het grondgebied van de geïnspecteerde Staat die Partij is bij dit Verdrag of de Gaststaat worden gedragen door de verzoekende Staat die Partij is bij dit Verdrag.
+
+#### **Duur van de inspectie**
+
+##### 57
+
+De inspectieperiode mag niet langer duren dan 84 uur, tenzij deze met instemming van de geïnspecteerde Staat die Partij is bij dit Verdrag wordt verlengd.
+
+#### D. ACTIVITEITEN NA DE INSPECTIE
+
+#### **Vertrek**
+
+##### 58
+
+58. Na afloop van de na de inspectie op de inspectieplaats te verrichten procedures dienen het inspectieteam en de waarnemer van de verzoekende Staat die Partij is bij dit Verdrag zich zo spoedig mogelijk naar het punt van vertrek te begeven en het grondgebied van de geïnspecteerde Staat die Partij is bij dit Verdrag binnen de kortst mogelijk tijd te verlaten.
+
+#### **Verslagen**
+
+##### 59
+
+In het inspectieverslag dient een algemeen overzicht te worden gegeven van de door het inspectieteam verrichte activiteiten en de concrete bevindingen van het inspectieteam, in het bijzonder met betrekking tot de in het verzoek om de uitdagingsinspectie vermelde bezorgdheid omtrent de mogelijke niet-naleving van dit Verdrag; het verslag dient zich te beperken tot informatie die rechtstreeks verband houdt met dit Verdrag. Het verslag dient tevens een beoordeling door het inspectieteam te omvatten van de mate en de aard van de aan de inspecteurs verleende toegang en medewerking, daarbij aangevend in hoeverre zulks hen in staat stelde het inspectiemandaat uit te voeren. Gedetailleerde informatie betreffende de in het verzoek om de uitdagingsinspectie vermelde bezorgdheid omtrent de mogelijke niet-naleving van dit Verdrag dient als bijlage bij het eindverslag te worden ingediend en bij het Technisch Secretariaat te worden bewaard met passende waarborgen voor de bescherming van gevoelige informatie.
+
+##### 60
+
+Het inspectieteam dient uiterlijk 72 uur na zijn terugkeer op zijn standplaats een voorlopig inspectieverslag over te leggen aan de Directeur-Generaal, zulks met inachtneming van onder andere paragraaf 17 van de Vertrouwelijkheidsbijlage. De Directeur-Generaal doet het voorlopige inspectieverslag onverwijld toekomen aan de verzoekende Staat die Partij is bij dit Verdrag, de geïnspecteerde Staat die Partij is bij dit Verdrag en de Uitvoerende Raad.
+
+##### 61
+
+Uiterlijk 20 dagen na afloop van de uitdagingsinspectie dient aan de geïnspecteerde Staat die Partij is bij dit Verdrag een concept van het eindverslag van de inspectie ter beschikking te worden gesteld. De geïnspecteerde Staat die Partij is bij dit Verdrag heeft het recht alle niet met chemische wapens verband houdende informatie en gegevens aan te geven die naar zijn mening, vanwege het vertrouwelijk karakter ervan, niet buiten het Technisch Secretariaat zouden mogen worden verspreid. Het Technisch Secretariaat neemt de door de geïnspecteerde Staat die Partij is bij dit Verdrag voorgestelde wijzigingen op het concept van het eindverslag van de inspectie in overweging en keurt deze, zo mogelijk, naar eigen goeddunken goed. Het eindverslag dient vervolgens uiterlijk 30 dagen na afloop van de uitdagingsinspectie te worden voorgelegd aan de Directeur-Generaal ter verspreiding en overweging in overeenstemming met artikel IX, leden 21 tot en met 25.
+
+### AFDELING XI. Onderzoeken in geval van vermeend gebruik van chemische wapens
+
+#### A. ALGEMEEN
+
+##### 1
+
+Onderzoeken naar vermeend gebruik van chemische wapens of vermeend gebruik van oproerbestrijdingsmiddelen als wijze van oorlogvoering, ingesteld ingevolge artikel IX of X, dienen te worden verricht in overeenstemming met deze Bijlage en de gedetailleerde door de Directeur-Generaal vast te stellen procedures.
+
+##### 2
+
+De volgende aanvullende bepalingen hebben betrekking op speciale procedures die vereist zijn in geval van vermeend gebruik van chemische wapens.
+
+#### B. ACTIVITEITEN VÓÓR DE INSPECTIE
+
+#### **Verzoek om een onderzoek**
+
+##### 3
+
+Het verzoek om een onderzoek naar vermeend gebruik van chemische wapens, dat dient te worden ingediend bij de Directeur-Generaal, dient, voor zover mogelijk, de volgende informatie te bevatten:
+
+- a. De Staat die Partij is bij dit Verdrag op wiens grondgebied het gebruik van chemische wapens zou hebben plaatsgevonden;
+
+- b. het punt van binnenkomst of een voorstel voor andere veilige toegangswegen;
+
+- c. de ligging en kenmerken van de gebieden waar chemische wapens zouden zijn gebruikt;
+
+- d. wanneer de chemische wapens zouden zijn gebruikt;
+
+- e. de typen van de chemische wapens die vermoedelijk zijn gebruikt;
+
+- f. de mate van het vermeende gebruik;
+
+- g. de eigenschappen van de mogelijke giftige stoffen; h. de effecten voor mensen, dieren en planten;
+
+- i. verzoeken om specifieke bijstand, indien van toepassing.
+
+##### 4
+
+De Staat die Partij is bij dit Verdrag die om een onderzoek heeft verzocht, kan te allen tijde alle aanvullende informatie indienen die hij noodzakelijk acht.
+
+#### **Kennisgeving**
+
+##### 5
+
+De Directeur-Generaal geeft de verzoekende Staat die Partij is bij dit Verdrag onmiddellijk een bevestiging van de ontvangst van zijn verzoek en stelt de Uitvoerende Raad en alle Staten die Partij zijn bij dit Verdrag van het verzoek in kennis.
+
+##### 6
+
+Indien van toepassing doet de Directeur-Generaal kennisgeving aan de Staat die Partij is bij dit Verdrag op wiens grondgebied om een onderzoek is verzocht. De Directeur-Generaal doet tevens kennisgeving aan andere Staten die Partij zijn bij dit Verdrag indien tijdens het onderzoek toegang tot hun grondgebied vereist is.
+
+#### **Aanwijzing van het inspectieteam**
+
+##### 7
+
+De Directeur-Generaal stelt een lijst op van gekwalificeerde deskundigen wier bekwaamheid op een bepaald vakgebied nodig zou kunnen zijn bij een onderzoek naar vermeend gebruik van chemische wapens, en werkt deze lijst voortdurend bij. Deze lijst wordt uiterlijk 30 dagen na de inwerkingtreding van dit Verdrag en na iedere verandering in de lijst schriftelijk bekendgemaakt aan elke Staat die Partij is bij dit Verdrag. Elke in deze lijst opgenomen gekwalificeerde deskundige wordt geacht te zijn aangewezen, tenzij een Staat die Partij is bij dit Verdrag uiterlijk 30 dagen na ontvangst van de lijst schriftelijk te kennen geeft deze niet te aanvaarden.
+
+##### 8
+
+De Directeur-Generaal kiest de leider en de leden van een inspectieteam uit de inspecteurs en inspectie-assistenten die reeds zijn aangewezen voor uitdagingsinspecties, rekening houdend met de omstandigheden en de specifieke aard van een bepaald verzoek. Daarnaast kunnen leden van het inspectieteam worden gekozen uit de lijst van gekwalificeerde deskundigen wanneer, naar het oordeel van de Directeur-Generaal, de voor de goede verrichting van een bepaald onderzoek vereiste vakbekwaamheid niet aanwezig is onder de reeds aangewezen inspecteurs.
+
+##### 9
+
+Bij de briefing van het inspectieteam deelt de Directeur-Generaal alle aanvullende informatie mede die is verstrekt door de verzoekende Staat die Partij is bij dit Verdrag, of afkomstig is uit enige andere bron, ten einde te verzekeren dat de inspectie op de meeste doeltreffende en spoedige wijze kan worden verricht.
+
+#### **Zenden van het inspectieteam**
+
+##### 10
+
+Onmiddellijk na de ontvangst van een verzoek om een onderzoek naar vermeend gebruik van chemische wapens verzoekt de Directeur-Generaal, door middel van contacten met de desbetreffende Staten die Partij zijn bij dit Verdrag, om regelingen voor de veilige ontvangst van het team, en bevestigt hij deze.
+
+##### 11
+
+De Directeur-Generaal zendt het team zo spoedig mogelijk, de veiligheid van het team hierbij in aanmerking nemend.
+
+##### 12
+
+Indien het inspectieteam niet binnen 24 uur na de ontvangst van het verzoek is gezonden, stelt de Directeur-Generaal de Uitvoerende Raad en de betrokken Staten die Partij zijn bij dit Verdrag in kennis van de redenen voor de vertraging.
+
+#### **Briefings**
+
+##### 13
+
+Het inspectieteam heeft het recht te worden gebrieft door vertegenwoordigers van de geïnspecteerde Staat die Partij is bij dit Verdrag, zulks na aankomst en op enig tijdstip gedurende de inspectie.
+
+##### 14
+
+Voor de aanvang van de inspectie dient het inspectieteam een inspectieplan op te stellen dat, onder andere, als basis dient voor de logistieke regelingen en veiligheidsvoorzieningen. Het inspectieplan dient wanneer nodig te worden bijgewerkt.
+
+#### C. VERRICHTING VAN DE INSPECTIES
+
+#### **Toegang**
+
+##### 15
+
+Het inspectieteam heeft recht op toegang tot alle gebieden die door het vermeende gebruik van chemische wapens zouden zijn getroffen. Het heeft ook recht op toegang tot ziekenhuizen, vluchtelingenkampen en andere plaatsen die het relevant acht om het vermeende gebruik van chemische wapens doeltreffend te kunnen onderzoeken. Voor bedoelde toegang dient het inspectieteam overleg te plegen met de geïnspecteerde Staat die Partij is bij dit Verdrag.
+
+#### **Monsterneming**
+
+##### 16
+
+Het inspectieteam heeft het recht monsters te verzamelen van de typen en in de hoeveelheden die het noodzakelijk acht. Indien het inspectieteam zulks noodzakelijk acht, en indien het hierom verzoekt, dient de geïnspecteerde Staat die Partij is bij dit Verdrag bijstand te verlenen bij het verzamelen van de monsters onder leiding van inspecteurs of inspectie-assistenten. De geïnspecteerde Staat die Partij is bij dit Verdrag dient ook toe te stemmen in en medewerking te verlenen bij het verzamelen van daarvoor in aanmerking komende controlemonsters uit gebieden in de nabijheid van de plaats van het vermeende gebruik, en uit andere gebieden, voor zover het inspectieteam zulks verlangt.
+
+##### 17
+
+Monsters die van belang zijn voor het onderzoek naar vermeend gebruik zijn onder andere giftige stoffen, munitie en andere inzetmiddelen, resten van munitie en andere inzetmiddelen, milieumonsters (lucht, bodem, flora, water, sneeuw, enz.) en biomedische monsters afkomstig van mens en dier (bloed, urine, faecaliën, weefsel, enz).
+
+##### 18
+
+Indien geen extra monsters kunnen worden genomen en de analyse geschiedt in laboratoria elders, dient elk overgebleven monster na afloop van de analyse te worden geretourneerd aan de geïnspecteerde Staat die Partij is bij dit Verdrag, indien hierom wordt verzocht.
+
+#### **Uitbreiding van de inspectieplaats**
+
+##### 19
+
+Indien het inspectieteam het gedurende een inspectie noodzakelijk acht het onderzoek uit te breiden tot een aangrenzende Staat die Partij is bij dit Verdrag, deelt de Directeur-Generaal die Staat die Partij is bij dit Verdrag mede dat toegang tot zijn grondgebied noodzakelijk is en verzoekt hij om regelingen voor de veilige ontvangst van het team en bevestigt hij deze.
+
+#### **Verlenging van de duur van de inspectie**
+
+##### 20
+
+Indien het inspectieteam van oordeel is dat de veilige toegang tot een bepaald gebied dat van belang is voor het onderzoek niet mogelijk is, dient de verzoekende Staat die Partij is bij dit Verdrag daarvan onmiddellijk in kennis te worden gesteld. Indien nodig dient de inspectieperiode te worden verlengd totdat veilige toegang kan worden geboden en het inspectieteam zijn opdracht heeft volbracht.
+
+#### **Vraaggesprekken**
+
+##### 21
+
+Het inspectieteam heeft het recht vraaggesprekken te houden met personen die kunnen zijn getroffen door het vermeende gebruik van chemische wapens en hen te onderzoeken. Het heeft tevens het recht vraaggesprekken te houden met ooggetuigen van het vermeende gebruik van chemische wapens en met medisch personeel en anderen die degenen die kunnen zijn getroffen door het vermeende gebruik van chemische wapens hebben behandeld of contact met hen hebben gehad. Het inspectieteam dient inzage te krijgen in anamneses, indien beschikbaar, en toestemming te krijgen om aanwezig te zijn bij lijkschouwingen, indien van toepassing, van personen die kunnen zijn getroffen door het vermeende gebruik van chemische wapens.
+
+#### D. VERSLAGEN
+
+#### **Procedures**
+
+##### 22
+
+Het inspectieteam dient uiterlijk 24 uur na aankomst op het grondgebied van de geïnspecteerde Staat die Partij is bij dit Verdrag een verslag van de toestand te doen toekomen aan de Directeur-Generaal. Voorts dient het gedurende het gehele onderzoek zorg te dragen voor de voortgangsrapportage, indien noodzakelijk.
+
+##### 23
+
+Het inspectieteam dient uiterlijk72 uur na zijn terugkeer op zijn standplaats een voorlopig verslag in te dienen bij de Directeur-Generaal. Het eindverslag dient uiterlijk 30 dagen na terugkeer op de standplaats te worden ingediend bij de Directeur-Generaal. De Directeur-Generaal doet het voorlopige verslag en het eindverslag onverwijld toekomen aan de Uitvoerende Raad en aan alle Staten die Partij zijn bij dit Verdrag.
+
+#### **Inhoud**
+
+##### 24
+
+In het verslag inzake de toestand dient de eventuele dringende behoefte aan bijstand en alle andere informatie te worden vermeld. In de voortgangsrapportage dient melding te worden gemaakt van alle verdere behoefte aan bijstand die aan het licht treedt in de loop van het onderzoek.
+
+##### 25
+
+Het eindverslag dient een overzicht te geven van de concrete bevindingen van de inspectie, in het bijzonder met betrekking tot het vermeende gebruik als genoemd in het verzoek. Bovendien dient een verslag van een onderzoek naar een vermeend gebruik een beschrijving van het onderzoeksproces te omvatten, waarin de verschillende fasen worden doorlopen, onder vermelding van met name:
+
+- a. de plaatsen en tijdstippen van de monsterneming en analysering ter plaatse; en
+
+- b. bewijsmateriaal, zoals verslagen van vraaggesprekken, de resultaten van medische onderzoeken en wetenschappelijke analyses en door het inspectieteam bestudeerde stukken.
+
+##### 26
+
+Indien het inspectieteam, onder andere door het aantreffen van onzuiverheden en andere stoffen tijdens de laboratoriumanalyse van de genomen monsters, in de loop van het onderzoek informatie verzamelt die kan bijdragen tot het opsporen van de herkomst van eventueel gebruikte chemische wapens, dient die informatie in het verslag te worden opgenomen.
+
+#### E. STATEN DIE GEEN PARTIJ ZIJN BIJ DIT VERDRAG
+
+##### 27
+
+In geval van vermeend gebruik van chemische wapens dat een Staat betreft die geen Partij is bij dit Verdrag, dan wel een grondgebied dat niet onder het toezicht van een Staat die Partij is bij dit Verdrag valt, werkt de Organisatie nauw samen met de Secretaris-Generaal van de Verenigde Naties. Indien daarom wordt verzocht, stelt de Organisatie haar middelen ter beschikking van de Secretaris-Generaal van de Verenigde Naties.
+
+#### A. ALGEMENE BEGINSELEN VOOR HET OMGAAN MET VERTROUWELIJKE INFORMATIE
+
+##### 1
+
+De verplichting tot het beschermen van vertrouwelijke informatie geldt voor de verificatie van zowel civiele als militaire activiteiten en inrichtingen. Ingevolge de in artikel VIII uiteengezette algemene verplichtingen zal de Organisatie:
+
+- a. slechts het minimum aan informatie en gegevens verlangen die zij nodig heeft voor de tijdige en doelmatige uitvoering van haar verantwoordelijkheden krachtens dit Verdrag;
+
+- b. de nodige maatregelen nemen om te verzekeren dat inspecteurs en overige medewerkers van het Technisch Secretariaat voldoen aan de hoogste normen wat betreft doelmatigheid, bekwaamheid en integriteit;
+
+- c. overeenkomsten en regelingen ontwikkelen voor de toepassing van de bepalingen van dit Verdrag, en zo nauwkeurig mogelijk de informatie omschrijven waartoe aan de Organisatie toegang wordt verleend door een Staat die Partij is bij dit Verdrag.
+
+##### 2
+
+De Directeur-Generaal draagt de hoogste verantwoordelijkheid voor het verzekeren van de bescherming van vertrouwelijke informatie. De Directeur-Generaal stelt strenge regels vast voor het omgaan met vertrouwelijke informatie door het Technisch Secretariaat, en neemt daarbij de volgende richtlijnen in acht:
+
+- a. Informatie wordt als vertrouwelijk beschouwd indien:
+
+- i. die informatie als zodanig bestempeld is door de Staat die Partij is bij dit Verdrag waarvan zij werd verkregen en waarop zij betrekking heeft;
+
+- ii. naar het oordeel van de Directeur-Generaal redelijkerwijs kan worden verwacht dat de ongeoorloofde onthulling van die informatie schade zou toebrengen aan de Staat die Partij is bij dit Verdrag waarop zij betrekking heeft, of aan de mechanismen voor de toepassing van dit Verdrag.
+
+- b. Alle door het Technisch Secretariaat verkregen gegevens en documenten worden door het desbetreffende onderdeel van het Technisch Secretariaat nagezien op de aanwezigheid daarin van vertrouwelijke informatie. De Staten die Partij zijn bij dit Verdrag worden geregeld voorzien van de gegevens die zij nodig hebben om zich te verzekeren van de naleving van dit Verdrag door de andere Staten die Partij zijn bij dit Verdrag. Deze gegevens omvatten:
+
+- i. de eerste en jaarlijkse verslagen en opgaven die door de Staten die Partij zijn bij dit Verdrag worden verstrekt ingevolge de artikelen III, IV, V en VI, in overeenstemming met de in de Verificatiebijlage uiteengezette bepalingen;
+
+- ii. algemene verslagen inzake de resultaten en de doeltreffendheid van verificatie-activiteiten; en
+
+- iii. informatie die dient te worden verstrekt aan alle Staten die Partij zijn bij dit Verdrag in overeenstemming met de bepalingen van dit Verdrag;
+
+- c. Informatie die door de Organisatie wordt verkregen in verband met de toepassing van dit Verdrag mag niet worden gepubliceerd of op andere wijze worden vrijgegeven, behalve als volgt:
+
+- i. Algemene informatie over de toepassing van dit Verdrag kan worden gebundeld en openbaar worden gemaakt in overeenstemming met de besluiten van de Conferentie of de Uitvoerende Raad;
+
+- ii. Informatie kan worden vrijgegeven met de uitdrukkelijke instemming van de Staat die Partij is bij dit Verdrag waarop die informatie betrekking heeft;
+
+- iii. Informatie die als vertrouwelijk is gerubriceerd, wordt door de Organisatie uitsluitend vrijgegeven volgens procedures die verzekeren dat het vrijgeven van de informatie alleen geschiedt in strikte overeenstemming met hetgeen voor de toepassing van dit Verdrag noodzakelijk is. Deze procedures zullen worden bestudeerd en goedgekeurd door de Conferentie ingevolge Artikel VIII, lid 21, letter i;
+
+- d. Het niveau van gevoeligheid van vertrouwelijke gegevens of documenten wordt vastgesteld op basis van criteria die eenvormig dienen te worden toegepast opdat passende behandeling en bescherming ervan wordt verzekerd. Hiertoe wordt een rubriceringssysteem ingevoerd dat, voortbouwend op het desbetreffende werk dat tijdens de voorbereiding van dit Verdrag is aangevangen, voorziet in duidelijke criteria die moeten verzekeren dat de informatie in passende vertrouwelijkheidsklassen wordt ingedeeld en dat het vertrouwelijke karakter van die informatie behouden blijft zolang dit gerechtvaardigd is. Het rubriceringssysteem moet enerzijds met de nodige flexibiliteit worden toegepast en anderzijds de rechten beschermen van de Staten die Partij zijn bij dit Verdrag die vertrouwelijke informatie verstrekken. Een rubriceringssysteem zal worden bestudeerd en goedgekeurd door de Conferentie ingevolge artikel VIII, lid 21, letter i;
+
+- e. Vertrouwelijke informatie wordt op veilige wijze opgeslagen in het kantoor van de Organisatie. Sommige gegevens of documenten kunnen ook worden opgeslagen bij de Nationale Autoriteit van een Staat die Partij is bij dit Verdrag. Gevoelige informatie, met inbegrip van onder andere foto's, plattegronden en andere documenten die slechts vereist zijn voor de inspectie van een bepaalde inrichting, kan achter slot en grendel in die inrichting worden bewaard;
+
+- f. Voor zover niet strijdig met de doeltreffende toepassing van de verificatiebepalingen van dit Verdrag wordt informatie door het Technisch Secretariaat behandeld en opgeslagen in een zodanige vorm dat het niet mogelijk is de inrichting waarop de informatie betrekking heeft, onmiddellijk te herkennen;
+
+- g. De hoeveelheid vertrouwelijke informatie die uit een inrichting wordt meegenomen wordt beperkt tot het minimum dat noodzakelijk is voor de tijdige en doeltreffende toepassing van de verificatiebepalingen van dit Verdrag; en
+
+- h. De toegang tot vertrouwelijke informatie wordt geregeld in overeenstemming met de rubricering ervan. De verspreiding van vertrouwelijke informatie binnen de Organisatie geschiedt strikt op basis van de noodzaak van kennisneming ervan.
+
+##### 3
+
+De Directeur-Generaal brengt jaarlijks verslag uit aan de Conferentie over de uitvoering van alle regelingen voor de wijze waarop het Technisch Secretariaat omgaat met vertrouwelijke informatie.
+
+##### 4
+
+Elke Staat die Partij is bij dit Verdrag dient de informatie die hij van de Organisatie ontvangt te behandelen overeenkomstig het voor die informatie vastgestelde niveau van vertrouwelijkheid. Op verzoek dient een Staat die Partij is bij dit Verdrag bijzonderheden te verstrekken over de wijze waarop wordt omgegaan met de door de Organisatie aan die Staat verstrekte informatie.
+
+#### B. AANSTELLING EN HANDELWIJZE VAN MEDEWERKERS VAN HET TECHNISCH SECRETARIAAT
+
+##### 5
+
+De voorwaarden voor het aanstellen van personeel dienen van dien aard te zijn dat verzekerd wordt dat de door de Directeur-Generaal in overeenstemming met Titel A vastgestelde procedures worden gevolgd wat betreft de toegang tot en met omgaan met vertrouwelijke informatie.
+
+##### 6
+
+Voor iedere functie binnen het Technisch Secretariaat dient een formele functieomschrijving te worden opgesteld, waarin wordt omschreven of en in welke mate toegang tot vertrouwelijke informatie in die functie noodzakelijk is.
+
+##### 7
+
+De Directeur-Generaal, de inspecteurs en de andere medewerkers mogen geen vertrouwelijke informatie onthullen waarvan zij kennis nemen in de verrichting van hun officiële taken aan onbevoegden, zelfs niet na beëindiging van hun functies. Zij mogen aan geen enkele Staat, organisatie of persoon buiten het Technisch Secretariaat informatie doorgeven waartoe zij toegang hebben in verband met hun activiteiten met betrekking tot een Staat die Partij is bij dit Verdrag.
+
+##### 8
+
+In de uitoefening van hun functie mogen inspecteurs slechts verzoeken om de informatie en gegevens die zij nodig hebben voor de vervulling van hun mandaat. Zij mogen geen dossiers bijhouden van informatie die incidenteel wordt verzameld en geen verband houdt met de verificatie van de naleving van dit Verdrag.
+
+##### 9
+
+De medewerkers dienen individuele geheimhoudingsovereenkomsten aan te gaan met het Technisch Secretariaat voor de duur van hun aanstelling plus een tijdvak van vijf jaar na de beëindiging daarvan.
+
+##### 10
+
+Ter vermijding van ongewenste onthulling worden inspecteurs en medewerkers op passende wijze geïnstrueerd over en gewezen op beveiligingsoverwegingen en de mogelijke sancties die hun zouden worden opgelegd in geval van ongewenste onthulling.
+
+##### 11
+
+Ten minste 30 dagen voordat aan een medewerker toestemming wordt verleend voor toegang tot vertrouwelijke informatie die betrekking heeft op activiteiten op het grondgebied van of op een andere plaats onder de rechtsmacht of het toezicht van een Staat die Partij is bij dit Verdrag, dient die Staat in kennis te worden gesteld van de voorgenomen verlening van toegang. Wat inspecteurs betreft, wordt aan dit vereiste geacht te zijn voldaan met de kennisgeving van een voorgenomen aanwijzing.
+
+##### 12
+
+Bij de evaluatie van het functioneren van inspecteurs en andere medewerkers van het Technisch Secretariaat dient in het bijzonder te worden gelet op de staat van dienst van de medewerker ten aanzien van de bescherming van vertrouwelijke informatie.
+
+#### C. MAATREGELEN TER BESCHERMING VAN GEVOELIGE INSTALLATIES EN TER VOORKOMING VAN DE ONTHULLING VAN VERTROUWELIJKE GEGEVENS IN DE LOOP VAN VERIFICATIE-ACTIVITEITEN TER PLAATSE
+
+##### 13
+
+De Staten die Partij zijn bij dit Verdrag kunnen alle maatregelen nemen die zij noodzakelijk achten ter bescherming van de vertrouwelijkheid, mits zij voldoen aan hun verplichtingen betreffende het aantonen van de naleving van het Verdrag in overeenstemming met de desbetreffende artikelen en de Verificatiebijlage. Een Staat die Partij is bij dit Verdrag die een inspectie ondergaat, kan aan het inspectieteam de uitrusting, de documentatie of de ruimten aanwijzen die hij beschouwt als gevoelig en niet relevant voor de doeleinden van de inspectie.
+
+##### 14
+
+De inspectieteams dienen zich te laten leiden door het beginsel dat inspecties ter plaatse worden verricht op de minst mogelijke hinder veroorzakende wijze die verenigbaar is met de doeltreffende en tijdige voltooiing van de missie. Zij dienen voorstellen in overweging te nemen die door de Staat die Partij is bij dit Verdrag die een inspectie ondergaat, in ieder stadium van de inspectie kunnen worden gedaan om te verzekeren dat gevoelige uitrusting of informatie die geen verband houdt met chemische wapens, wordt beschermd.
+
+##### 15
+
+De inspectieteams dienen zich strikt te houden aan de bepalingen betreffende de verrichting van inspecties in de desbetreffende artikelen en Bijlagen. Zij dienen alle procedures die zijn ontwikkeld ter bescherming van gevoelige installaties en ter voorkoming van de onthulling van vertrouwelijke gegevens, ten volle te eerbiedigen.
+
+##### 16
+
+Bij het uitwerken van regelingen en inrichtingsakkoorden dient voldoende rekening te worden gehouden met de plicht vertrouwelijke informatie te beschermen. Overeenkomsten inzake inspectieprocedures voor afzonderlijke inrichtingen dienen mede specifieke en gedetailleerde regelingen te omvatten betreffende de vaststelling van de ruimten in de inrichting waartoe de inspecteurs toegang krijgen, de opslag van vertrouwelijke informatie ter plaatse, de reikwijdte van de inspectiewerkzaamheden in de overeengekomen gebieden, het nemen van monsters en de analyse ervan, de toegang tot dossiers en het gebruik van instrumenten en van apparatuur voor constante controle.
+
+##### 17
+
+Het na iedere inspectie op te stellen verslag dient enkel feiten te bevatten die verband houden met de naleving van dit Verdrag. Het verslag dient te worden behandeld in overeenstemming met de door de Organisatie vastgestelde regels voor het omgaan met vertrouwelijke informatie. Indien nodig mag de in het verslag vervatte informatie in minder gevoelige vormen worden verwerkt voordat zij wordt verspreid buiten het Technisch Secretariaat en wordt doorgegeven aan de geïnspecteerde Staat die Partij is bij dit Verdrag.
+
+#### D. PROCEDURES IN GEVAL VAN SCHENDING OF VERMEENDE SCHENDING VAN DE VERTROUWELIJKHEID
+
+##### 18
+
+De Directeur-Generaal stelt de nodige procedures vast die moeten worden gevolgd in geval van schending of vermeende schending van de vertrouwelijkheid, rekening houdend met de door de Conferentie ingevolge artikel VIII, lid 21, letter i, te bestuderen en goed te keuren aanbevelingen.
+
+##### 19
+
+De Directeur-Generaal ziet toe op de toepassing van afzonderlijke geheimhoudingsovereenkomsten. De Directeur-Generaal stelt onmiddellijk een onderzoek in indien naar zijn oordeel voldoende factoren erop duiden dat de verplichtingen betreffende het beschermen van vertrouwelijke informatie zijn geschonden. De Directeur-Generaal stelt ook onmiddellijk een onderzoek in indien een Staat die Partij is bij dit Verdrag beweert dat er sprake is van een schending van de vertrouwelijkheid.
+
+##### 20
+
+De Directeur-Generaal legt passende strafmaatregelen en disciplinaire maatregelen op aan medewerkers die hun verplichtingen tot het beschermen van vertrouwelijke informatie hebben geschonden. In geval van ernstige schending kan door de Directeur-Generaal afstand worden gedaan van de immuniteit van rechtsmacht.
+
+##### 21
+
+De Staten die Partij zijn bij dit Verdrag verlenen, voor zover mogelijk, hun medewerking en steun aan de Directeur-Generaal bij het onderzoeken van schendingen of vermeende schendingen van de vertrouwelijkheid en bij het treffen van passende maatregelen indien een schending is vastgesteld.
+
+##### 22
+
+De Organisatie wordt niet aansprakelijk geacht voor schendingen van de vertrouwelijkheid door medewerkers van het Technisch Secretariaat.
+
+##### 23
+
+Bij schendingen waarbij zowel een Staat die Partij is bij dit Verdrag als de Organisatie betrokken zijn, wordt de zaak beoordeeld door een „Commissie voor de regeling van geschillen met betrekking tot vertrouwelijkheid", die wordt ingesteld als ondergeschikt orgaan van de Conferentie. Voorschriften betreffende haar samenstelling en werkwijze zullen door de Conferentie tijdens haar eerste vergadering worden aangenomen.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.
+
+DONE at Paris on 13 January 1993.
+
+##### 72 bis
+
+Indien een Staat dit Verdrag bekrachtigt of ertoe toetreedt na de termijn van zes jaar voor conversie als vervat in paragraaf 72, stelt de Raad, tijdens haar tweede daaropvolgende reguliere zitting, een uiterste termijn vast voor het indienen van een verzoek tot conversie van een inrichting voor de productie van chemische wapens voor ingevolge dit Verdrag niet verboden doeleinden. Bij haar besluit een dergelijk verzoek goed te keuren, ingevolge paragraaf 75, stelt de Conferentie een zo kort mogelijke termijn vast voor de voltooiing van de conversie. De conversie wordt zo spoedig mogelijk voltooid, doch in geen geval later dan zes jaar nadat het Verdrag door de Staat die Partij is bij dit Verdrag in werking is getreden. Tenzij gewijzigd in deze paragraaf, blijven alle bepalingen van Deel D van deze Afdeling van deze Bijlage van toepassing.
+
+#### **Besluiten van de Uitvoerende Raad en de Conferentie**
+
+#### **Gedetailleerde conversieplannen**
+
+#### **Beoordeling van de gedetailleerde plannen**
+
+### AFDELING VI. Ingevolge dit Verdrag niet verboden activiteiten in overeenstemming met artikel VI
+
+#### A. ALGEMENE BEPALINGEN
+
+##### 1
+
+Een Staat die Partij is bij dit Verdrag mag stoffen van Lijst 1 niet produceren, verkrijgen, in bezit houden of gebruiken buiten de grondgebieden van de Staten die Partij zijn bij dit Verdrag en mag die stoffen niet overdragen aan iemand buiten zijn grondgebied, behalve aan een andere Staat die Partij is bij dit Verdrag.
+
+##### 2
+
+Een Staat die Partij is bij dit Verdrag mag stoffen van Lijst 1 niet produceren, verkrijgen, in bezit houden, overdragen of gebruiken, tenzij:
+
+- a. de stoffen worden gebruikt voor onderzoeksdoeleinden, voor medische of farmaceutische doeleinden of beschermingsdoeleinden; en
+
+- b. de soorten en hoeveelheden stoffen strikt beperkt blijven tot de soorten en hoeveelheden die voor die doeleinden te rechtvaardigen zijn; en
+
+- c. de totale hoeveelheid van die stoffen die voor die doeleinden wordt gebruikt telkens gelijk is aan, of kleiner is dan, 1 ton; en
+
+- d. de totale hoeveelheid die een Staat die Partij is bij dit Verdrag per jaar voor die doeleinden verwerft door middel van produktie, onttrekking aan voorraden van chemische wapens en overdracht, gelijk is aan, of kleiner is dan, 1 ton.
+
+#### B. OVERDRACHTEN
+
+##### 3
+
+Een Staat die Partij is bij dit Verdrag mag stoffen van Lijst 1 slechts buiten zijn grondgebied brengen om deze over te dragen aan een andere Staat die Partij is bij dit Verdrag, zulks voor onderzoeksdoeleinden, medische of farmaceutische doeleinden of beschermingsdoeleinden overeenkomstig paragraaf 2.
+
+##### 4
+
+Overgedragen stoffen mogen niet verder worden overgedragen aan een derde Staat.
+
+##### 5
+
+Beide Staten die Partij zijn bij dit Verdrag dienen het Technisch Secretariaat ten minste 30 dagen van tevoren van een onderlinge overdracht in kennis te stellen.
 
 ##### 6
 
