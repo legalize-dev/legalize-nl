@@ -4,7 +4,7 @@ identifier: "BWBR0016226"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-05-14"
-last_updated: "2004-01-01"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016226"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waa
 
 ##### Artikel VIII
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2004, met uitzondering van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0016226&artikel=V&z=2004-01-01&g=2004-01-01) dat in werking treedt met ingang van 1 februari 2004.
+1. Deze regeling treedt in werking met ingang van 1 januari 2004, met uitzondering van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0016226&artikel=V&z=2004-01-31&g=2004-01-31) dat in werking treedt met ingang van 1 februari 2004.
 
 2. Deze regeling wordt aangehaald als: Bijstellingsregeling 2004.
 
