@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2003-04-03"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-04-03&g=2003-04-03),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-08-01&g=2003-08-01),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-04-03&g=2003-04-03) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-08-01&g=2003-08-01) vastgesteld bedrag,
 
 **cursusgeldperiode**: periode die gelijk is aan de duur van de opleiding met een maximum van een cursusjaar,
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 **schooljaar**: tijdvak van 1 augustus tot en met 31 juli daaropvolgend,
 
-**teldatum**: bij of krachtens deel I van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld,
+**teldatum**: bij of krachtens de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld,
 
 **wet**: [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188).
 
@@ -152,7 +152,7 @@ Voor een leerling die na 31 december van een schooljaar wordt ingeschreven aan e
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-04-03&g=2003-04-03), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-08-01&g=2003-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -178,9 +178,9 @@ De dagscholen verstrekken de IB-Groep gegevens omtrent de inschrijving op een bi
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2003-04-03&g=2003-04-03) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2003-08-01&g=2003-08-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2003-04-03&g=2003-04-03) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2003-08-01&g=2003-08-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -196,11 +196,11 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2003-04-03&g=2003-04-03) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2003-08-01&g=2003-08-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursusgeldperiode, en uiterlijk voor het einde van die periode.
 
-4. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2003-04-03&g=2003-04-03).
+4. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -208,7 +208,7 @@ Voor een cursist die in de loop van de cursusgeldperiode wordt ingeschreven, wor
 
 ##### Artikel 13. Geen cursusgeld verschuldigd
 
-Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusgeldperiode de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-04-03&g=2003-04-03).
+Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusgeldperiode de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 14. Terugbetaling cursusgeld
 
@@ -242,7 +242,7 @@ Geen cursusgeld is verschuldigd indien de cursist bij de aanvang van de cursusge
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-04-03&g=2003-04-03) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2003-08-01&g=2003-08-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
