@@ -4,7 +4,7 @@ identifier: "BWBR0011404"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "2000-06-21"
+last_updated: "2004-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011404"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Tabakswet.
 
 ##### ARTIKEL III
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt binnen vier jaar na de inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0011404&artikel=I&z=2000-06-21&g=2000-06-21), aan de Staten- Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 1, onderdeel yy](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1), en [hoofdstuk IVA van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&hoofdstuk=IVA) en de op dat hoofdstuk berustende bepalingen.
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vier jaar na de inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0011404&artikel=I&z=2004-02-13&g=2004-02-13), aan de Staten- Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 1, onderdeel yy](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1), en [hoofdstuk IVA van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&hoofdstuk=IVA) en de op dat hoofdstuk berustende bepalingen.
 
 ##### ARTIKEL IV
 
