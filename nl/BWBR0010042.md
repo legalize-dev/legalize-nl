@@ -79,13 +79,3 @@ Dit onderdeel is nog niet inwerking getreden
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=I&z=1998-12-23&g=1998-12-23), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=II&z=1998-12-23&g=1998-12-23) voor wat betreft [hoofdstuk IVA, paragraaf 4, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&hoofdstuk=IVA) in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IIa
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel VIIa
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
