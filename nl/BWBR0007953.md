@@ -217,9 +217,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Vrijstellingenbesluit Winkeltijdenwet.
 
 Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2004-01-01&g=2004-01-01) en van een restaurant als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2004-01-01&g=2004-01-01), wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2004-01-01&g=2004-01-01) alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2004-01-01&g=2004-01-01).
-
-Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
