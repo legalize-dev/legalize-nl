@@ -447,29 +447,3 @@ FAIT en deux textes originaux en langue française à La Haye, le 18 novembre 19
 **L'autorité compétente capverdienne,**
 
 (s.) SILVINO MANUEL DA LUZ
-
-#### Uitkeringen
-
-#### Financiële bepalingen
-
-### Hoofdstuk 2. Invaliditeit, ouderdom en overlijden (pensioenen)
-
-#### Betaalbaarstelling van de uitkeringen
-
-### Hoofdstuk 3. Werkloosheid
-
-### Hoofdstuk 4. Gezinsbijslagen
-
-## TITEL III. Diverse bepalingen
-
-FAIT en deux textes originaux en langue française à La Haye, le 18 novembre 1981.
-
-**Les autorités compétentes néerlandaises,**
-
-(s.) M.H.M.F. GARDENIERS-BERENDSEN
-
-(s.) C. I. DALES
-
-**L'autorité compétente capverdienne,**
-
-(s.) SILVINO MANUEL DA LUZ
