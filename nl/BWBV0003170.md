@@ -341,27 +341,3 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 TEN BLIJKE WAARVAN de hiertoe naar behoren gevolmachtigde ondergetekenden dit Verdrag hebben ondertekend.
 
 ONDERTEKEND te Luxemburg op 29 juni 2000 in de Duitse, Engelse, Franse en Nederlandse taal, waarvan de vier teksten gelijkelijk authentiek zijn, en waarvan één origineel dient te worden nedergelegd bij de Regering van het Groothertogdom Luxemburg, die een gewaarmerkt afschrift hiervan dient te sturen aan iedere verdragsluitende en toegetreden Partij.
-
-##### Artikel 8a
-
-1. Toegang voor Partijen en derde partijen voor opvraging van gegevens die reeds uit hoofde van EU-wetgeving of een bilaterale of multilaterale overeenkomst anders dan dit Verdrag zijn opgeslagen is beperkt tot de uit hoofde van die wetgeving of die overeenkomst verantwoordelijke autoriteiten.
-
-2. Deze autoriteiten worden geacht verantwoordelijk te zijn voor het correct functioneren en -gebruik van EUCARIS.
-
-3. Technische maatregelen in de vorm van zelfstandige vraag- en antwoordberichten en specifieke functies voor de uitwisseling van gegevens voor de verschillende toepassingen dienen te waarborgen dat de autoriteiten van de Partijen en derde partijen uitsluitend toegang krijgen tot gegevens waartoe zij bevoegd zijn uit hoofde van de desbetreffende EU-wetgeving of de relevante bilaterale of multilaterale overeenkomst.
-
-### HOOFDSTUK IV. BESCHERMING VAN GEGEVENS
-
-### HOOFDSTUK V. BEVEILIGING VAN HET EUROPEES VOERTUIG- EN RIJBEWIJSINFORMATIESYSTEEM
-
-### HOOFDSTUK VI. TOEZICHT OP GEGEVENSBESCHERMING
-
-### HOOFDSTUK VII. ORGANISATIE
-
-### HOOFDSTUK VIII. VERANTWOORDELIJKHEID EN AANSPRAKELIJKHEID
-
-### HOOFDSTUK IX. SLOTBEPALINGEN
-
-TEN BLIJKE WAARVAN de hiertoe naar behoren gevolmachtigde ondergetekenden dit Verdrag hebben ondertekend.
-
-ONDERTEKEND te Luxemburg op 29 juni 2000 in de Duitse, Engelse, Franse en Nederlandse taal, waarvan de vier teksten gelijkelijk authentiek zijn, en waarvan één origineel dient te worden nedergelegd bij de Regering van het Groothertogdom Luxemburg, die een gewaarmerkt afschrift hiervan dient te sturen aan iedere verdragsluitende en toegetreden Partij.
