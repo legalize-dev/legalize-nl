@@ -4,7 +4,7 @@ identifier: "BWBR0006860"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-15"
-last_updated: "2000-02-02"
+last_updated: "2002-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006860"
 soort: "AMvB"
@@ -50,11 +50,11 @@ Bij koninklijk besluit worden benoemd, bevorderd, geschorst en ontslagen de plaa
 
 ##### Artikel 2
 
-1. De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de ambtenaren die deel uitmaken van de leiding van het Korps landelijke politiediensten geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie, de Raad voor het Korps landelijke politiediensten gehoord.
+De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de ambtenaren die deel uitmaken van de leiding van het Korps landelijke politiediensten geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie, het hoofd van het landelijk parket en de Raad voor het Korps landelijke politiediensten gehoord.
 
 ##### Artikel 3
 
-1. De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de ambtenaren die geen deel uitmaken van de leiding van een regionaal politiekorps, onderscheidenlijk van het Korps landelijke politiediensten geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie.
+1. De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de ambtenaren die geen deel uitmaken van de leiding van een regionaal politiekorps, onderscheidenlijk van het Korps landelijke politiediensten geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. De voordracht van het koninklijk besluit tot benoeming, bevordering, schorsing en ontslag van de bijzondere ambtenaren van politie geschiedt door Onze Minister van Justitie in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
