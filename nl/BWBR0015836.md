@@ -4,7 +4,7 @@ identifier: "BWBR0015836"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-07-01"
-last_updated: "2003-11-19"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015836"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Wijzigt het Besluit financiering rechtspraak.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit nevenvestigings- en nevenzittingsplaatsen.
 
 ##### Artikel VI
 
@@ -62,11 +62,11 @@ Wijzigt het Besluit opleiding rechterlijke ambtenaren.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit orde van dienst gerechten.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit privaatrechtelijke rechtshandelingen 1996.
 
 ##### Artikel IX
 
@@ -82,7 +82,7 @@ Wijzigt het Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren (bov
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.
 
 ##### Artikel XIII
 
@@ -98,7 +98,7 @@ Wijzigt het Tramwegreglement.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Transactiebesluit milieudelicten.
 
 ##### Artikel XVII
 
@@ -106,7 +106,7 @@ Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Vreemdelingenbesluit 2000.
 
 ##### Artikel XIX
 
