@@ -4,7 +4,7 @@ identifier: "BWBR0013580"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-07-01"
-last_updated: "2001-11-05"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013580"
 soort: "AMvB"
@@ -38,19 +38,19 @@ entry_into_force: "2002-07-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit huurprijzen woonruimte.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit huurprijzen woonruimte.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit huurprijzen woonruimte.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit beheer sociale-huursector.
 
 ##### Artikel V
 
@@ -58,23 +58,23 @@ Wijzigt het Besluit beheer sociale-huursector.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+De instellingen, toegelaten krachtens [artikel 70 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), die op het tijdstip waarop dit besluit in werking treedt bestaan, brengen hun statuten voor 1 juli 2003 in overeenstemming met dit besluit. Zij leggen de daarvoor noodzakelijke wijzigingen van de statuten ter goedkeuring voor aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=9) en [10 van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=10) zijn van toepassing.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt een algemene maatregel van bestuur op voet van de artikelen 43, eerste lid, onderdeel c, en 44, tweede lid, van de Woningwet, houdende voorschriften omtrent het bouwen waarvoor het vereiste van een bouwvergunning in de zin van die wet niet geldt, en omtrent het bouwen waarvoor een lichte bouwvergunning in de zin van die wet vereist is.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit op de stads- en dorpsvernieuwing.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit woninggebonden subsidies 1995.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 juli 2002, met dien verstande dat de artikelen V en IX, onderdeel B, terugwerken tot en met respectievelijk 5 november 2001 en 1 januari 2001.
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 februari 2002, nr. MJZ2002016018, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
