@@ -4,7 +4,7 @@ identifier: "BWBR0003252"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003252"
 soort: "AMvB"
@@ -78,13 +78,13 @@ De controle-instelling is gehouden bij de vaststelling van haar tuchtreglement h
 
 ##### Artikel 5
 
-1. De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de vereisten voor benoeming tot rechter in een arrondissementsrechtbank.
+1. De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de vereisten voor benoeming tot rechter in een rechtbank.
 
-2. Ingeval van toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01), is het bepaalde in het voorgaande lid slechts in zoverre van toepassing op de tuchtgerechten, dat ter zitting hetzij de voorzitter, hetzij de fungerend secretaris aan de in dat lid genoemde vereisten moeten voldoen.
+2. Ingeval van toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2003-11-19&g=2003-11-19), is het bepaalde in het voorgaande lid slechts in zoverre van toepassing op de tuchtgerechten, dat ter zitting hetzij de voorzitter, hetzij de fungerend secretaris aan de in dat lid genoemde vereisten moeten voldoen.
 
 ##### Artikel 6
 
-1. De controle-instelling regelt de bevoegdheid van het tuchtgerecht te oordelen over de overtredingen, door aangeslotenen begaan, van het bij en krachtens een landbouwkwaliteitsbesluit bepaalde, alsmede de bevoegdheid ter zake daarvan maatregelen op te leggen. Indien [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01), toepassing vindt, bepaalt het tuchtreglement dat een belanghebbende tegen een beschikking administratief beroep kan instellen bij het centraal tuchtgerecht.
+1. De controle-instelling regelt de bevoegdheid van het tuchtgerecht te oordelen over de overtredingen, door aangeslotenen begaan, van het bij en krachtens een landbouwkwaliteitsbesluit bepaalde, alsmede de bevoegdheid ter zake daarvan maatregelen op te leggen. Indien [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2003-11-19&g=2003-11-19), toepassing vindt, bepaalt het tuchtreglement dat een belanghebbende tegen een beschikking administratief beroep kan instellen bij het centraal tuchtgerecht.
 
 2. Het tuchtreglement houdt een voorziening in voor het in [artikel 18, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=18) (**Stb.** 1971, 371) bedoelde overleg.
 
@@ -122,7 +122,7 @@ Een belanghebbende kan tegen een besluit tot ontslag, onderscheidenlijk tot het 
 
 ##### Artikel 12
 
-Afschrift van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2002-01-01&g=2002-01-01) bedoelde verklaring en van de daarbij behorende stukken wordt, ook al wordt de zaak ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2002-01-01&g=2002-01-01), niet aanhangig gemaakt, gezonden aan de Officier van Justitie bij de rechtbank van het arrondissement waar de overtreding werd gepleegd, tenzij de Officier van Justitie heeft laten weten dat daarvan kan worden afgezien.
+Afschrift van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2003-11-19&g=2003-11-19) bedoelde verklaring en van de daarbij behorende stukken wordt, ook al wordt de zaak ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2003-11-19&g=2003-11-19), niet aanhangig gemaakt, gezonden aan de Officier van Justitie bij de rechtbank van het arrondissement waar de overtreding werd gepleegd, tenzij de Officier van Justitie heeft laten weten dat daarvan kan worden afgezien.
 
 ##### Artikel 13
 
@@ -130,13 +130,13 @@ Afschrift van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003252
 
 2. De aangeslotene en degene die de zaak aanhangig heeft gemaakt kunnen binnen een termijn van ten hoogste vier weken na dagtekening van de tuchtbeschikking van de voorzitter bij aangetekende brief aan het tuchtgerecht mondelinge behandeling verzoeken. In dat geval wordt de tuchtbeschikking als niet gegeven beschouwd, waarna de zaak verder overeenkomstig de volgende artikelen wordt behandeld.
 
-3. Een beroep als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=19&z=2002-01-01&g=2002-01-01) staat tegen een beschikking van de voorzitter niet open.
+3. Een beroep als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=19&z=2003-11-19&g=2003-11-19) staat tegen een beschikking van de voorzitter niet open.
 
 ##### Artikel 14
 
-1. De aangeslotene wordt, onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=13&z=2002-01-01&g=2002-01-01), binnen een termijn van ten hoogste acht weken, nadat de zaak bij het tuchtgerecht aanhangig is gemaakt, bij aangetekende brief opgeroepen om op door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt ten minste twee weken voor de dag der zitting aan hem toegezonden en vermeldt de plaats van de zitting.
+1. De aangeslotene wordt, onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=13&z=2003-11-19&g=2003-11-19), binnen een termijn van ten hoogste acht weken, nadat de zaak bij het tuchtgerecht aanhangig is gemaakt, bij aangetekende brief opgeroepen om op door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt ten minste twee weken voor de dag der zitting aan hem toegezonden en vermeldt de plaats van de zitting.
 
-2. De oproeping gaat vergezeld van een afschrift van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2002-01-01&g=2002-01-01) bedoelde verklaring en van alle op de zaak betrekking hebbende stukken.
+2. De oproeping gaat vergezeld van een afschrift van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=11&z=2003-11-19&g=2003-11-19) bedoelde verklaring en van alle op de zaak betrekking hebbende stukken.
 
 3. De oproeping houdt in:
 
@@ -156,7 +156,7 @@ Tegen de aangeslotene, die ter zitting niet is verschenen of, ingeval zijn perso
 
 2. Indien bij schorsing geen tijdstip voor hervatting van de behandeling is bepaald, doet de secretaris zo spoedig mogelijk aan de aangeslotene en aan degene, die de zaak aanhangig heeft gemaakt, mededeling van het daarvoor op zo kort mogelijke termijn vastgestelde tijdstip. Het tijdstip van hervatting kan niet liggen binnen 6 dagen na de datum van die mededeling.
 
-3. De in het tweede lid bedoelde mededeling gaat vergezeld van een afschrift van alle op de zaak betrekking hebbende stukken, voor zover niet reeds toegezonden ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=14&z=2002-01-01&g=2002-01-01).
+3. De in het tweede lid bedoelde mededeling gaat vergezeld van een afschrift van alle op de zaak betrekking hebbende stukken, voor zover niet reeds toegezonden ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=14&z=2003-11-19&g=2003-11-19).
 
 ##### Artikel 17
 
@@ -182,19 +182,19 @@ Tegen de aangeslotene, die ter zitting niet is verschenen of, ingeval zijn perso
 
 ##### Artikel 19
 
-Indien [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01), niet van toepassing is, wordt bij de bekendmaking van de tuchtbeschikking, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=18&z=2002-01-01&g=2002-01-01), tevens vermeld dat daartegen voorziening als bedoeld in [Titel IV van de Wet tuchtrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002145&titeldeel=IV) openstaat.
+Indien [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2003-11-19&g=2003-11-19), niet van toepassing is, wordt bij de bekendmaking van de tuchtbeschikking, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=18&z=2003-11-19&g=2003-11-19), tevens vermeld dat daartegen voorziening als bedoeld in [Titel IV van de Wet tuchtrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002145&titeldeel=IV) openstaat.
 
 ##### Artikel 20
 
-Ingeval van toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2002-01-01&g=2002-01-01), kunnen degene, die de zaak aanhangig heeft gemaakt, en de aangeslotene overeenkomen de zaak rechtstreeks aanhangig te maken bij het centraal tuchtgerecht. Alsdan is het bepaalde in deze paragraaf op de behandeling voor het centraal tuchtgerecht van overeenkomstige toepassing.
+Ingeval van toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=1&artikel=3&z=2003-11-19&g=2003-11-19), kunnen degene, die de zaak aanhangig heeft gemaakt, en de aangeslotene overeenkomen de zaak rechtstreeks aanhangig te maken bij het centraal tuchtgerecht. Alsdan is het bepaalde in deze paragraaf op de behandeling voor het centraal tuchtgerecht van overeenkomstige toepassing.
 
 #### § 4. Bijzondere bepalingen ten aanzien van de rechtsgang van het tuchtrechtelijk geding in tweede aanleg
 
 ##### Artikel 21
 
-1. De secretaris van het centraal tuchtgerecht zendt bericht van het ingestelde beroep aan de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=12&z=2002-01-01&g=2002-01-01) bedoelde Officier van Justitie, tenzij deze heeft laten weten dat daarvan kan worden afgezien.
+1. De secretaris van het centraal tuchtgerecht zendt bericht van het ingestelde beroep aan de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=12&z=2003-11-19&g=2003-11-19) bedoelde Officier van Justitie, tenzij deze heeft laten weten dat daarvan kan worden afgezien.
 
-2. Partijen worden binnen een termijn van ten hoogste acht weken, nadat de zaak bij het centraal tuchtgerecht aanhangig is gemaakt, bij aangetekende brief opgeroepen om op door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt ten minste twee weken voor de dag der zitting aan hen toegezonden. Het bepaalde in de [artikelen 14, tweede en derde lid, tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=14&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing voor de behandeling van het beroep op het centraal tuchtgerecht.
+2. Partijen worden binnen een termijn van ten hoogste acht weken, nadat de zaak bij het centraal tuchtgerecht aanhangig is gemaakt, bij aangetekende brief opgeroepen om op door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt ten minste twee weken voor de dag der zitting aan hen toegezonden. Het bepaalde in de [artikelen 14, tweede en derde lid, tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&paragraaf=3&artikel=14&z=2003-11-19&g=2003-11-19) is van overeenkomstige toepassing voor de behandeling van het beroep op het centraal tuchtgerecht.
 
 ##### Artikel 22
 
