@@ -117,9 +117,3 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na dagtekening 
 Deze beleidsregel wordt aangehaald als: Beleidsregel voor het plaatsen van windturbines op, in of over rijkswaterstaatswerken.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze beleidsregel berust mede op de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) en [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
