@@ -4,7 +4,7 @@ identifier: "BWBR0013782"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2011-01-01"
-last_updated: "2003-04-01"
+last_updated: "2003-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013782"
 soort: "rijksKB"
@@ -60,15 +60,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de behandeling van een verklaring van optie is in Nederland een bedrag van 110 euro verschuldigd, in de Nederlandse Antillen een bedrag van 185 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 185 Arubaanse florin.
+1. Voor de behandeling van een verklaring van optie is in Nederland een bedrag van 128 euro verschuldigd, in de Nederlandse Antillen een bedrag van 215 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 215 Arubaanse florin.
 
 2. In geval van gelijktijdige verklaringen van optie van twee met elkaar gehuwde personen, van twee geregistreerde partners of van twee ongehuwden die in een duurzame relatie anders dan het huwelijk of geregistreerd partnerschap samenleven, wordt het in het eerste lid genoemde bedrag verhoogd in Nederland met een bedrag van 91 euro, in de Nederlandse Antillen met een bedrag van 153 Nederlands-Antilliaanse gulden en in Aruba met een bedrag van 153 Arubaanse florin.
 
 ##### Artikel 3
 
-1. Voor de behandeling van het verzoek tot naturalisatie is in Nederland een bedrag van 272 euro verschuldigd, in de Nederlandse Antillen een bedrag van 457 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 457 Arubaanse florin.
+1. Voor de behandeling van het verzoek tot naturalisatie is in Nederland een bedrag van 336 euro verschuldigd, in de Nederlandse Antillen een bedrag van 564 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 564 Arubaanse florin.
 
-2. Voor de behandeling van het verzoek tot naturalisatie is in geval van min- en onvermogen van de aanvrager in Nederland een bedrag van 159 euro verschuldigd, in de Nederlandse Antillen een bedrag van 267 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 267 Arubaanse florin. Onze Minister regelt voor elk der landen van het Koninkrijk de gevallen waarin sprake is van min- en onvermogen en de wijze waarop deze toestand kan worden bewezen.
+2. Voor de behandeling van het verzoek tot naturalisatie is in geval van min- en onvermogen van de aanvrager in Nederland een bedrag van 223 euro verschuldigd, in de Nederlandse Antillen een bedrag van 374 Nederlands-Antilliaanse gulden en in Aruba een bedrag van 374 Arubaanse florin. Onze Minister regelt voor elk der landen van het Koninkrijk de gevallen waarin sprake is van min- en onvermogen en de wijze waarop deze toestand kan worden bewezen.
 
 3. In geval van gelijktijdige verzoeken tot naturalisatie van twee met elkaar gehuwde personen, van twee geregistreerde partners of van twee ongehuwden die in een duurzame relatie anders dan het huwelijk of geregistreerd partnerschap samenleven, wordt het in het eerste en tweede lid genoemde bedrag in Nederland verhoogd met een bedrag van 91 euro, in de Nederlandse Antillen met een bedrag van 153 Nederlands-Antilliaanse gulden en in Aruba met een bedrag van 153 Arubaanse florin.
 
@@ -96,31 +96,31 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in Nederland, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-04-01&g=2003-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), voldaan aan de burgemeester van de gemeente waar de betrokkene zijn verklaring van optie aflegt of verzoek tot naturalisatie indient.
+1. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in Nederland, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-06-01&g=2003-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), voldaan aan de burgemeester van de gemeente waar de betrokkene zijn verklaring van optie aflegt of verzoek tot naturalisatie indient.
 
-2. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in de Nederlandse Antillen, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-04-01&g=2003-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), voldaan aan de regering van de Nederlandse Antillen.
+2. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in de Nederlandse Antillen, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-06-01&g=2003-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), voldaan aan de regering van de Nederlandse Antillen.
 
-3. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in Aruba, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-04-01&g=2003-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), voldaan aan de Gouverneur van Aruba.
+3. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in Aruba, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-06-01&g=2003-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), voldaan aan de Gouverneur van Aruba.
 
-4. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend buiten het Koninkrijk, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-04-01&g=2003-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), voldaan bij het daartoe door Onze Minister van Buitenlandse Zaken aangewezen hoofd van de diplomatieke of consulaire post.
+4. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend buiten het Koninkrijk, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-06-01&g=2003-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), voldaan bij het daartoe door Onze Minister van Buitenlandse Zaken aangewezen hoofd van de diplomatieke of consulaire post.
 
 5. Het verschuldigde bedrag wordt ineens voldaan.
 
 ##### Artikel 6
 
-Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode van zes weken na de ontvangst van de verklaring van optie of het verzoek tot naturalisatie, dan wordt de verklaring of het verzoek buiten behandeling gesteld. Indien wordt verzocht om ontheffing van de verplichting tot betaling als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-04-01&g=2003-04-01), wordt deze termijn opgeschort tot de dag waarop op deze verklaring of dit verzoek is beslist.
+Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode van zes weken na de ontvangst van de verklaring van optie of het verzoek tot naturalisatie, dan wordt de verklaring of het verzoek buiten behandeling gesteld. Indien wordt verzocht om ontheffing van de verplichting tot betaling als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-06-01&g=2003-06-01), wordt deze termijn opgeschort tot de dag waarop op deze verklaring of dit verzoek is beslist.
 
 ##### Artikel 7
 
 1. De burgemeester, de regering van de Nederlandse Antillen en de Gouverneur van Aruba, behouden de wegens de verklaring van optie ontvangen gelden ter vergoeding van de gemaakte kosten. Het hoofd van de diplomatieke of consulaire post draagt de gelden, bedoeld in de eerste zin, af aan de Minister van Buitenlandse Zaken op de door deze daartoe bepaalde wijze en tijdstippen.
 
-2. Met betrekking tot de verklaringen van optie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-04-01&g=2003-04-01), kan Onze Minister de burgemeester, de regering van de Nederlandse Antillen, de Gouverneur van Aruba of het hoofd van de diplomatieke of consulaire post op hun verzoek een vergoeding toekennen. Het hoofd van de diplomatieke of consulaire post dient het verzoek om een vergoeding in door tussenkomst van Onze Minister van Buitenlandse Zaken.
+2. Met betrekking tot de verklaringen van optie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-06-01&g=2003-06-01), kan Onze Minister de burgemeester, de regering van de Nederlandse Antillen, de Gouverneur van Aruba of het hoofd van de diplomatieke of consulaire post op hun verzoek een vergoeding toekennen. Het hoofd van de diplomatieke of consulaire post dient het verzoek om een vergoeding in door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
 ##### Artikel 8
 
 1. De burgemeester, de regering van de Nederlandse Antillen en de Gouverneur van Aruba, dragen de wegens de verzoeken tot naturalisatie ontvangen gelden onder aftrek van het bedrag, genoemd in het tweede lid, op de door Onze Minister daartoe bepaalde wijze en tijdstippen aan Onze Minister af. Het hoofd van de diplomatieke of consulaire post draagt de gelden, bedoeld in de eerste zin, op de door Onze Minister daartoe bepaalde wijze en tijdstippen af aan Onze Minister door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
-2. De afdrachtplichtige ontvangt voor verzoeken tot naturalisatie als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), een vergoeding van 110 euro, 185 Nederlands-Antilliaanse gulden dan wel 185 Arubaanse florin. Voor verzoeken tot naturalisatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01), ontvangt de afdrachtplichtige een vergoeding van 201 euro, 338 Nederlands-Antilliaanse gulden dan wel 338 Arubaanse florin. Met betrekking tot de verzoeken, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-04-01&g=2003-04-01), vindt geen vergoeding plaats. Met betrekking tot de verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-04-01&g=2003-04-01), kan Onze Minister de afdrachtplichtige op zijn verzoek een vergoeding toekennen. Het hoofd van de diplomatieke of consulaire post dient een verzoek om een vergoeding in door tussenkomst van Onze Minister van Buitenlandse Zaken.
+2. De afdrachtplichtige ontvangt voor verzoeken tot naturalisatie als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), een vergoeding van 128 euro, 215 Nederlands-Antilliaanse gulden dan wel 215 Arubaanse florin. Voor verzoeken tot naturalisatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01), ontvangt de afdrachtplichtige een vergoeding van 219 euro, 368 Nederlands-Antilliaanse gulden dan wel 368 Arubaanse florin. Met betrekking tot de verzoeken, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-06-01&g=2003-06-01), vindt geen vergoeding plaats. Met betrekking tot de verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2003-06-01&g=2003-06-01), kan Onze Minister de afdrachtplichtige op zijn verzoek een vergoeding toekennen. Het hoofd van de diplomatieke of consulaire post dient een verzoek om een vergoeding in door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
 3. De afdracht, bedoeld in het eerste lid, geschiedt onder overlegging van een lijst met de namen van de personen, die een verzoek tot naturalisatie hebben ingediend.
 
@@ -128,7 +128,7 @@ Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode va
 
 ##### Artikel 9
 
-1. De bedragen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-04-01&g=2003-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-04-01&g=2003-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=8&z=2003-04-01&g=2003-04-01), worden jaarlijks per 1 januari gewijzigd met een door Onze Minister vast te stellen percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer van de cao-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 september van enig jaar en voor de eerste maal, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
+1. De bedragen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2003-06-01&g=2003-06-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2003-06-01&g=2003-06-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=8&z=2003-06-01&g=2003-06-01), worden jaarlijks per 1 januari gewijzigd met een door Onze Minister vast te stellen percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer van de cao-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 september van enig jaar en voor de eerste maal, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
 
 2. Het wijzigingspercentage wordt afgerond op tienden van een procent. Daarbij vindt, indien van het in het eerste lid bedoelde procentuele verschil het tweede of een volgend cijfer achter de komma vijf of hoger bedraagt, voor wat betreft die cijfers afronding naar boven plaats.
 
