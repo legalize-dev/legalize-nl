@@ -4,7 +4,7 @@ identifier: "BWBR0014449"
 country: "nl"
 rank: "wet"
 publication_date: "2003-01-01"
-last_updated: "2002-07-01"
+last_updated: "2002-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014449"
 soort: "wet"
@@ -44,7 +44,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
