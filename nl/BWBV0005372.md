@@ -247,19 +247,3 @@ De „Minister of Labour and National Insurance for Northern Ireland”,
 De „Chairman, Isle of Man Board of Social Services”,
 
 (w.g.) J. C. NIVISON
-
-## TITEL I. Begripsbepalingen
-
-## TITEL II. Algemene bepalingen
-
-## TITEL III. Ziekengeld-, moederschaps- en werkloosheidsuitkeringen
-
-## TITEL IV. Invaliditeitsrenten
-
-## TITEL V. Ouderdoms-, weduwen- en wezenrenten
-
-## TITEL VI. Bedrijfsongevallen en beroepsziekten
-
-## TITEL VII. Betaling van uitkeringen
-
-## TITEL VIII. Diverse bepalingen
