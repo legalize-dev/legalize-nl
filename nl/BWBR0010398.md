@@ -161,15 +161,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 7](https://wetten.
 Dit besluit wordt aangehaald als: Besluit ondernemingsplan notaris.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Paragraaf 4. De kosten van de advisering
-
-##### Artikel 11a
-
-1. De kosten van de advisering door de Commissie worden op basis van de integrale kostprijs berekend. Bij de berekening worden bedrijfseconomisch aanvaarde uitgangspunten in acht genomen. De kosten worden door het secretariaat van de Commissie in rekening gebracht.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de berekening van de kosten en kunnen de aan de verzoeker in rekening te brengen kosten worden vastgesteld.
-
-#### Paragraaf 5. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
