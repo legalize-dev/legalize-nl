@@ -9515,7 +9515,3 @@ EU/1/97/030/079 Insuline insuman comb 25 opt inj 100ie/ml wwsp 3ml
 | 14241/4296 | Clopixol tablet 25mg | Clopixol tablet 25mg |
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-### Maximum prijzen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
