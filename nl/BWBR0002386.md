@@ -536,19 +536,3 @@ Deze wet kan worden aangehaald als "Wet gewetensbezwaren militaire dienst".
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 52a
-
-1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft hij die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2003-09-01&g=2003-09-01), op hem rustende verplichtingen.
-
-2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft hij die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2003-09-01&g=2003-09-01), op hem rustende verplichtingen.
-
-##### Artikel 55b
-
-1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2003-09-01&g=2003-09-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2003-09-01&g=2003-09-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2003-09-01&g=2003-09-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2003-09-01&g=2003-09-01), strafbaar gestelde feiten zijn misdrijven.
-
-2. De in de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2003-09-01&g=2003-09-01), en [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2003-09-01&g=2003-09-01), strafbaar gestelde feiten zijn overtredingen.
-
-### Hoofdstuk VII. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
