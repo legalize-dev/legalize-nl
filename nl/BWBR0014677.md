@@ -4,7 +4,7 @@ identifier: "BWBR0014677"
 country: "nl"
 rank: "wet"
 publication_date: "2003-02-19"
-last_updated: "2002-03-07"
+last_updated: "2003-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014677"
 soort: "wet"
@@ -42,8 +42,6 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het in verband met de inwerkingtreding van de [Wet dualisering gemeentebestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013462) wenselijk is enkele wetten aan te passen en in die wet enkele verbeteringen aan te brengen;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt niet terug ten aanzien van de gemeenten Bemmel, Bergen, Dalfsen, Denekamp, Echt-Susteren, Hardenberg, Hof van Twente, Hulst, Kesteren, Olst-Wijhe, Oss, Overbetuwe, Raalte, Rijssen, Sittard-Geleen, Sluis, Steenwijk, Terneuzen, Venlo, Zwartewaterland en Zwijndrecht.
 
 ##### Artikel I
 
