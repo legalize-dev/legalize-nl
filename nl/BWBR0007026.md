@@ -4,7 +4,7 @@ identifier: "BWBR0007026"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-01-01"
-last_updated: "1997-01-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007026"
 soort: "rijksKB"
@@ -108,7 +108,7 @@ Het Kapittel stelt, onder goedkeuring van Onze Minister, een instructie vast ove
 
 ##### Artikel 8
 
-Het Kapittel verricht zijn werkzaamheden binnen het raam van de middelen welke hem jaarlijks ingevolge de desbetreffende begrotingswet ter beschikking worden gesteld, overeenkomstig de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075).
+Het Kapittel verricht zijn werkzaamheden binnen het raam van de middelen welke hem jaarlijks ingevolge de desbetreffende begrotingswet ter beschikking worden gesteld, overeenkomstig de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891).
 
 ##### Artikel 9
 
@@ -124,7 +124,7 @@ Het Kapittel verricht zijn werkzaamheden binnen het raam van de middelen welke h
 
 ##### Artikel 11
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007026&artikel=3&z=1997-01-01&g=1997-01-01) kan de secretaris voor de eerste maal nadat dit besluit in werking is getreden worden benoemd zonder dat het Kapittel is gehoord.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007026&artikel=3&z=2002-09-01&g=2002-09-01) kan de secretaris voor de eerste maal nadat dit besluit in werking is getreden worden benoemd zonder dat het Kapittel is gehoord.
 
 ##### Artikel 12
 
