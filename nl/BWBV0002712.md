@@ -622,31 +622,3 @@ DONE at Oslo this 12th day of January 1990, in duplicate, in the Netherlands, No
 **For the Government of the Kingdom of Norway**
 
 (sd.) JAN FLATLA
-
-##### IA. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=II&artikel=4&z=2013-11-30&g=2013-11-30)
-
-1. Het is wel verstaan dat een persoon (niet zijnde een natuurlijke persoon) die een subject is in de zin van de belastingwetten (als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=2&z=2013-11-30&g=2013-11-30) van deze Overeenkomst) van een van de Staten, wordt geacht aan belasting te zijn onderworpen in die Staat, zelfs als alle bestanddelen van het inkomen die aan die persoon kunnen worden toegerekend van belastingheffing zijn vrijgesteld omdat die persoon voldoet aan alle in de nationale belastingwet voor de vrijstelling gestelde vereisten.
-
-2. Niettegenstaande de bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=II&artikel=4&z=2013-11-30&g=2013-11-30) van de Overeenkomst en de vorenstaande bepalingen van dit artikel, stellen de bevoegde autoriteiten van de Staten in onderling overleg vast in hoeverre een inwoner van een van de Staten die is onderworpen aan een begunstigend regime, niet gerechtigd is tot de voordelen van deze Overeenkomst. Een lichaam dat wordt behandeld als een „vrijgestelde beleggingsinstelling” als bedoeld in de Nederlandse Wet op de vennootschapsbelasting 1969 is niet gerechtigd tot de voordelen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=10&z=2013-11-30&g=2013-11-30), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=11&z=2013-11-30&g=2013-11-30), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=12&z=2013-11-30&g=2013-11-30), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=13&z=2013-11-30&g=2013-11-30), en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=21&z=2013-11-30&g=2013-11-30), van de Overeenkomst en de daarmee verband houdende artikelen van het Protocol bij de Overeenkomst.
-
-##### IB. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30)
-
-Indien vragen rijzen over de toepassing van de bepalingen van deze Overeenkomst met betrekking tot bestanddelen van het inkomen, winst of voordelen verkregen door of door tussenkomst van een persoon die fiscaal transparant is ingevolge de wetgeving van een van de Staten, stellen de bevoegde autoriteiten van de Staten in onderling overleg vast hoe dubbele belasting of dubbele vrijstelling van die bestanddelen van het inkomen, winst of voordelen wordt vermeden.
-
-##### XIV. Ad [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30)
-
-1. De bepalingen van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30) zijn van overeenkomstige toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de wetgeving van een van de Staten door de autoriteiten van die Staat die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
-
-2. Alle informatie die uit hoofde van het eerste lid juncto [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30) van deze Overeenkomst wordt ontvangen, wordt uitsluitend gebruikt ten behoeve van de vaststelling en heffing van de bijdragen en de vaststelling en toewijzing van de voordelen uit hoofde van de inkomensgerelateerde voorschriften bedoeld in het eerste lid.
-
-IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at Oslo this 12th day of January 1990, in duplicate, in the Netherlands, Norwegian and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Norwegian texts, the English text shall prevail.
-
-**For the Government of the Kingdom of the Netherlands**
-
-(sd.) VAN GEEN
-
-**For the Government of the Kingdom of Norway**
-
-(sd.) JAN FLATLA
