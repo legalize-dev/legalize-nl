@@ -4,7 +4,7 @@ identifier: "BWBR0013235"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-07-23"
-last_updated: "2001-08-01"
+last_updated: "2002-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013235"
 soort: "AMvB"
@@ -56,7 +56,9 @@ In afwijking van de [artikelen C15b tot en met C15m van het Besluit trekkende be
 
 ##### Artikel IV. Overgangsrecht overdracht gebouwen, terreinen en roerende zaken scholen gehuisvest in een gebouw, die voor 1 januari 1997 zijn gerealiseerd
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met betrekking tot de huisvestingsvoorzieningen die voor 1 januari 1997 zijn gerealiseerd, blijft ten aanzien van de school en de nevenvestigingen die zijn gehuisvest in een gebouw, [artikel C 21 van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_21) zoals dat luidde voor die datum van toepassing. Daarbij wordt in voorkomende gevallen in overleg tussen de gemeente en het bevoegd gezag rekening gehouden met de na 1 januari 1997 gerealiseerde huisvestingsvoorzieningen.
+
+2. Op huisvestingsvoorzieningen die op of na 1 januari 1997 zijn gerealiseerd met betrekking tot een gebouw of terrein als bedoeld in het eerste lid, is [artikel C 21 van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_21) zoals dat artikel luidde na die datum van toepassing. Daarbij wordt in voorkomende gevallen in het overleg tussen het Rijk en het bevoegd gezag rekening gehouden met de voor 1 januari 1997 gerealiseerde huisvestingsvoorzieningen.
 
 ##### Artikel V. Overgangsbepaling leerlingtelling per 1 oktober
 
@@ -64,15 +66,19 @@ In afwijking van [artikel C 15l van het Besluit trekkende bevolking WPO](https:/
 
 ##### Artikel VI. Overgangsbepaling beëindiging van de bekostiging
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van de [artikelen C 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_19), en [C 20, eerste lid, van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_20) wordt de bekostiging van een bijzondere school beëindigd dan wel wordt door de gemeenteraad besloten tot opheffing van een openbare school indien gedurende twee achtereenvolgende schooljaren, dan wel in het eerste en het derde schooljaar van een periode van drie schooljaren op de teldatum 1 oktober het aantal leerlingen minder heeft bedragen dan 10.
 
 ##### Artikel VII. Wijziging besluit vrijstelling leerplicht trekkende bevolking
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vrijstelling leerplicht trekkende bevolking.
 
 ##### Artikel VIII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. Dit besluit wordt aan de Tweede Kamer der Staten-Generaal overgelegd. Het treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in dit besluit geregelde onderwerp bij de wet wordt geregeld.
+
+3. In het besluit tot inwerkingtreding, bedoeld in het eerste lid, wordt bepaald dat artikel I, onderdelen C tot en met G, I tot en met K, en O, vierde tot en met achtste en tiende tot en met dertiende lid, alsmede de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=II&z=2002-10-02&g=2002-10-02), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=III&z=2002-10-02&g=2002-10-02) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=V&z=2002-10-02&g=2002-10-02) terugwerken tot en met 1 augustus 2001.
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, drs. K. Y. I. J. Adelmund, van 18 september 2001, nr. WJZ/2001/36999(2557), directie Wetgeving en Juridische Zaken;
 
