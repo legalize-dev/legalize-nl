@@ -4,7 +4,7 @@ identifier: "BWBR0013916"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-11-01"
-last_updated: "2002-07-01"
+last_updated: "2002-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013916"
 soort: "AMvB"
@@ -159,8 +159,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIII
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
