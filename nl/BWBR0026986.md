@@ -4,7 +4,7 @@ identifier: "BWBR0026986"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2001-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026986"
 soort: "wet"
@@ -78,7 +78,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VIII
 
