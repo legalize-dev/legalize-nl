@@ -193,35 +193,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 Deze regeling wordt aangehaald als: Uitvoeringsregeling willekeurige afschrijving 2001.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Paragraaf 4. Investeringen op het continentaal plat
-
-#### Paragraaf 5. Film
-
-#### Paragraaf 6. Nieuwe gebouwen in aangewezen gemeenten
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. De verklaring van de Minister van Infrastructuur en Waterstaat, bedoeld in [artikel 3.31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de investering.
-
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01).
-
-3. De belastingplichtige overlegt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Infrastructuur en Waterstaat daarom verzoekt, vergunningen, certificaten of andere voor het verstrekken van de verklaring benodigde informatie.
-
-##### Artikel 5b
-
-1. De Minister van Infrastructuur en Waterstaat kan de in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=5a&z=2025-01-01&g=2025-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de door of namens de belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Infrastructuur en Waterstaat bekend was of redelijkerwijs bekend had kunnen zijn, kunnen geen grond opleveren voor wijziging of intrekking van een verklaring.
-
-2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
-
-### Hoofdstuk 4. Andere aangewezen bedrijfsmiddelen
-
-#### Paragraaf 1. Investeringen door startende ondernemers
-
-#### Paragraaf 2. Zeeschepen
-
-#### Paragraaf 3. Investeringen in het belang van de bevordering van de economische ontwikkeling
