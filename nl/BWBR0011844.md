@@ -4,7 +4,7 @@ identifier: "BWBR0011844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-11-04"
-last_updated: "2003-11-30"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011844"
 soort: "ministeriele-regeling"
@@ -72,7 +72,9 @@ Het subsidieplafond voor de subsidiëring van de uitvoering van jaarprogramma's 
 
 - a. € 4.084.022,00, voor de periode van 1999 tot en met 2002 voor programma's ter verbetering van de kennisinfrastructuur met betrekking tot ondergrondse logistieke systemen;
 
-- b. € 22.286.639,00, voor de periode van 2000 tot en met 2003.
+- b. € 22.286.639,00, voor de periode van 2000 tot en met 2003;
+
+- c. € 1.200.000,00 voor de periode van 2004 tot en met 2007 waarvan per jaar maximaal € 300.000.
 
 ##### Artikel 4. Subsidiepercentages
 
@@ -106,11 +108,13 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 2. Bij de aanvraag, bedoeld in het eerste lid, worden een jaarprogramma en een jaarbegroting gevoegd.
 
-3. Uit de bescheiden, genoemd in het tweede lid, blijkt dat aan [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=2&z=2003-11-30&g=2003-11-30), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=4&z=2003-11-30&g=2003-11-30) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2003-11-30&g=2003-11-30) wordt voldaan.
+3. Uit de bescheiden, genoemd in het tweede lid, blijkt dat aan [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=2&z=2004-11-04&g=2004-11-04), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=4&z=2004-11-04&g=2004-11-04) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2004-11-04&g=2004-11-04) wordt voldaan.
 
 4. In afwijking van het eerste lid wordt een aanvraag voor subsidie voor het jaar 2000 uiterlijk 1 juli 2000 ingediend.
 
 5. In afwijking van het eerste lid wordt een aanvraag voor subsidie voor het jaar 2001 uiterlijk 31 december 2000 ingediend.
+
+6. In afwijking van het eerste lid worden de aanvragen voor subsidie voor zowel 2004 als 2005 uiterlijk 1 december 2004 ingediend.
 
 ##### Artikel 7. Vereisten inzake het jaarprogramma
 
@@ -156,15 +160,15 @@ Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuurs
 
 ##### Artikel 8. Vaststelling van het bedrag van de subsidieverlening
 
-1. Binnen zes weken nadat het bestuur de gegevens, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=6&z=2003-11-30&g=2003-11-30) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2003-11-30&g=2003-11-30), heeft overgelegd, beoordeelt de minister het jaarprogramma.
+1. Binnen zes weken nadat het bestuur de gegevens, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=6&z=2004-11-04&g=2004-11-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2004-11-04&g=2004-11-04), heeft overgelegd, beoordeelt de minister het jaarprogramma.
 
 2. Indien de beoordeling leidt tot de bevinding dat het jaarprogramma in overeenstemming is met de vereisten van deze regeling, geeft de minister een beschikking tot subsidieverlening.
 
 3. Een subsidie die betrekking heeft op een deelprogramma dat een langere looptijd heeft dan het kalenderjaar waarvoor de subsidie is verzocht, wordt verleend onder de voorwaarde dat voor de resterende periode voldoende gelden ter beschikking worden gesteld door het bedrijfsleven en onder het voorbehoud van goedkeuring van de begroting van het Ministerie van Verkeer en Waterstaat.
 
-4. Op een daartoe strekkend verzoek kan de minister de beschikking tot subsidieverlening, bedoeld in het tweede lid, tijdens het kalenderjaar waarop deze betrekking heeft, wijzigen tot maximaal het subsidieplafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=3&z=2003-11-30&g=2003-11-30), is bereikt. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=6&z=2003-11-30&g=2003-11-30) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2003-11-30&g=2003-11-30) zijn van overeenkomstige toepassing.
+4. Op een daartoe strekkend verzoek kan de minister de beschikking tot subsidieverlening, bedoeld in het tweede lid, tijdens het kalenderjaar waarop deze betrekking heeft, wijzigen tot maximaal het subsidieplafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=3&z=2004-11-04&g=2004-11-04), is bereikt. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=6&z=2004-11-04&g=2004-11-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=7&z=2004-11-04&g=2004-11-04) zijn van overeenkomstige toepassing.
 
-5. Indien het bestuur een melding als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=10&z=2003-11-30&g=2003-11-30), maakt, wijzigt de minister binnen 6 weken de beschikking, bedoeld in het tweede lid.
+5. Indien het bestuur een melding als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=10&z=2004-11-04&g=2004-11-04), maakt, wijzigt de minister binnen 6 weken de beschikking, bedoeld in het tweede lid.
 
 ##### Artikel 9. Voorschotten
 
@@ -216,7 +220,7 @@ De minister stelt binnen acht weken nadat het bestuur een aanvraag tot vaststell
 
 ##### Artikel 14. Overgangsbepalingen
 
-1. Na de inwerkingtreding van deze regeling berusten op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=2&z=2003-11-30&g=2003-11-30), van deze regeling:
+1. Na de inwerkingtreding van deze regeling berusten op [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011844&artikel=2&z=2004-11-04&g=2004-11-04), van deze regeling:
 
 - a. subsidies in of voor 1999 verstrekt aan het Centrum voor Transporttechnologie en het bureau Intelligente transportsystemen Nederland, en
 
