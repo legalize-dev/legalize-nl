@@ -145,13 +145,3 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 Ligt ter inzage ligt bij de directie Juridische Zaken van de Immigratie- en Naturalisatiedienst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1
-
-Ligt ter inzage ligt bij de directie Juridische Zaken van de Immigratie- en Naturalisatiedienst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 11
-
-Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022
