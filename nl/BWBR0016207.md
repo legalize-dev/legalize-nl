@@ -4,7 +4,7 @@ identifier: "BWBR0016207"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016207"
 soort: "wet"
@@ -107,7 +107,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Goedkeuringswet Verdrag tussen Nederland en België tot het vermijden van dubbele belastingen en voorkomen van het ontgaan van belasting inzake belastingen naar inkomen en vermogen.
 
 ##### Artikel XIX
 
