@@ -143,9 +143,3 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
