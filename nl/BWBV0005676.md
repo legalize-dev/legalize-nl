@@ -4,7 +4,7 @@ identifier: "BWBV0005676"
 country: "nl"
 rank: "verdrag"
 publication_date: "1998-03-01"
-last_updated: "1993-01-01"
+last_updated: "1998-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005676"
 soort: "verdrag"
@@ -163,57 +163,17 @@ Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op 
 
 ##### Artikel 9
 
-§ 1. In Nederland, in België en in Luxemburg wordt, met inachtneming van artikel 80, tweede lid, van het Verdrag tot instelling van de Benelux Economische Unie, gewijzigd bij Protocol van 26 januari 1976, van de aldaar vervaardigde of ingevoerde gegiste dranken van druiven, krenten of rozijnen, per hectoliter geheven:
-
-- a). in Nederland en in België: een accijns van f 33,76 of F 600 en een complementaire accijns van f 49 of F 871;
-
-- b). in Luxemburg: een accijns van F 600.
-
-§ 2. Indien de in § 1 bedoelde dranken, bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 12 volumepercenten, wordt in de drie landen de accijns vermeerderd met een aanvullende accijns, welke per hectoliter, voor elk 1/10 volumepercent boven 12 volumepercenten, als volgt wordt vastgesteld:
-
-- a). f 0,75 of F 13,30, indien zij een alcoholgehalte hebben van niet meer dan 15 volumepercenten;
-
-- b). f 1,18 of F 21, indien zij een alcoholgehalte hebben van meer dan 15 volumepercenten.
+Vervallen
 
 ##### Artikel 9bis
 
-§ 1. In Nederland, in België en in Luxemburg wordt van de aldaar vervaardigde of ingevoerde gegiste dranken van andere vruchten dan druiven, krenten of rozijnen evenals van de andere aldaar vervaardigde of ingevoerde gegiste dranken die door de bevoegde Ministers, op voorstel van de Commissie voor douane en belastingen, daarmede zijn gelijkgesteld, per hectoliter geheven:
-
-- a). in Nederland en in België: een accijns van f 33,76 of F 600 en een complementaire accijns van f 49 of F 871;
-
-- b). in Luxemburg: een accijns van F 600.
-
-§ 2. Indien de in § 1 bedoelde dranken, bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 12 volumepercenten, wordt de accijns vermeerderd met een aanvullende accijns van f 0,75 of F 13,30 per hectoliter voor elk 1/10 volumepercent boven 12 volumepercenten.
-
-§ 3. De bevoegde Ministers kunnen, op voorstel van de Commissie voor douane en belastingen, voor de door hen aan te wijzen dranken en onder de nodige door hen te stellen voorwaarden, gehele of gedeeltelijke vrijstelling van de in de §§ 1 en 2 bedoelde accijnzen verlenen.
+Vervallen
 
 #### Mousserende gegiste dranken
 
 ##### Artikel 10
 
-§ 1. In Nederland, in België en in Luxemburg wordt van gegiste dranken welke aldaar mousserend worden gemaakt of vanzelf mousserend worden en van ingevoerde mousserende gegiste dranken - met uitzondering van bier en van dranken waarop de accijns van artikel 3 of artikel 4 van toepassing is - per hectoliter geheven:
-
-- a). dranken, welke bij een temperatuur van 20 graden Celsius, een lcoholgehalte hebben van niet meer dan 6 volumepercenten:
-
-- -. in Nederland en in België: een accijns van f 8,44 of F 150 en een complementaire accijns van f 1,91 of F 34;
-
-- -. in Luxemburg: een accijns van F 150;
-
-- b). dranken, welke bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 6 volumepercenten:
-
-- 1). vervaardigd van druiven, krenten of rozijnen:
-
-- -. in Nederland en in België: een accijns van f 84,39 of F 1.500 en een complementaire accijns van f 122,49 of F 2.178;
-
-- -. in Luxemburg: een accijns van F 1.500:
-
-- 2). andere
-
-- -. in Nederland en in België: een accijns van f 42,19 of F 750 en een complementaire accijns van f 9,53 of F 169;
-
-- -. in Luxemburg: een accijns van F 750.
-
-§ 2. Van mousserende gegiste dranken worden, benevens de bij § 1 bedoelde accijnzen, ook de bij artikel 9 of bij artikel 9bis bedoelde accijnzen geheven.
+Vervallen
 
 ##### Artikel 10bis
 
