@@ -4,7 +4,7 @@ identifier: "BWBR0003821"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2004-04-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003821"
 soort: "wet"
@@ -81,13 +81,13 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3. Voorwaarden erkenning
 
-Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van deze wet en van de algemene maatregel van bestuur, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=9&z=2004-04-01&g=2004-04-01). Daar waar de erkenning betrekking heeft op een instelling die mede landbouwonderwijs verzorgt, handelt Onze Minister in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit.
+Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van deze wet en van de algemene maatregel van bestuur, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=9&z=2004-09-01&g=2004-09-01). Daar waar de erkenning betrekking heeft op een instelling die mede landbouwonderwijs verzorgt, handelt Onze Minister in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 4. Verzoek om erkenning; gegevens
 
 1. Een verzoek om erkenning wordt ingediend door het bevoegd gezag van de instelling.
 
-2. Het verzoek gaat vergezeld van gegevens omtrent het aantal en de aard der cursussen en het aantal cursisten, alsmede van een opgave van auteurs en/of docenten onder vermelding van hun onderwijsbevoegdheid bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=7&z=2004-04-01&g=2004-04-01), en een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=8&z=2004-04-01&g=2004-04-01) bedoelde verklaring omtrent het gedrag van de leden van de directie van de instelling, en voor zover de instelling eigen examens verzorgt en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=12&z=2004-04-01&g=2004-04-01) van toepassing is, de examenreglementen bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=12&z=2004-04-01&g=2004-04-01).
+2. Het verzoek gaat vergezeld van gegevens omtrent het aantal en de aard der cursussen en het aantal cursisten, alsmede van een opgave van auteurs en/of docenten onder vermelding van hun onderwijsbevoegdheid bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=7&z=2004-09-01&g=2004-09-01), en een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=8&z=2004-09-01&g=2004-09-01) bedoelde verklaring omtrent het gedrag van de leden van de directie van de instelling, en voor zover de instelling eigen examens verzorgt en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=12&z=2004-09-01&g=2004-09-01) van toepassing is, de examenreglementen bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=12&z=2004-09-01&g=2004-09-01).
 
 3. Het bevoegd gezag van de te erkennen instelling is desgevraagd verplicht Onze Minister nadere inlichtingen te verstrekken.
 
@@ -95,7 +95,7 @@ Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van
 
 ##### Artikel 5. Beslissing op het verzoek
 
-Na ontvangst van het verzoek om erkenning en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=4&z=2004-04-01&g=2004-04-01), bedoelde bijlagen wordt binnen 1 jaar na ontvangst hiervan, daarop een beslissing genomen.
+Na ontvangst van het verzoek om erkenning en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=4&z=2004-09-01&g=2004-09-01), bedoelde bijlagen wordt binnen 1 jaar na ontvangst hiervan, daarop een beslissing genomen.
 
 ## Titel III. Voorwaarden voor de erkende instelling
 
@@ -115,7 +115,7 @@ Na ontvangst van het verzoek om erkenning en de in [artikel 4, tweede lid](https
 
 ##### Artikel 8. Verklaring omtrent het gedrag
 
-De leden van de directie van de instellingen zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
+De leden van de directie van de instellingen zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
 ##### Artikel 9. Kwaliteit van de cursus
 
@@ -289,7 +289,7 @@ Vervallen
 
 ##### Artikel 27. Overgangsbepaling inzake erkenning
 
-In afwijking van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2004-04-01&g=2004-04-01) geldt voor verzoeken die zijn ingediend binnen 1 jaar na de inwerkingtreding van de wet, dat binnen 2 jaar na inwerkingtreding van de wet een beslissing wordt genomen.
+In afwijking van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2004-09-01&g=2004-09-01) geldt voor verzoeken die zijn ingediend binnen 1 jaar na de inwerkingtreding van de wet, dat binnen 2 jaar na inwerkingtreding van de wet een beslissing wordt genomen.
 
 ##### Artikel 28. Intrekking Weiso
 
@@ -305,7 +305,7 @@ Deze wet kan worden aangehaald als "Wet op de erkende onderwijsinstellingen".
 
 ##### Artikel 30. Inwerkingtreding
 
-1. Deze wet treedt in werking op een bij Koninklijk besluit te bepalen tijdstip, met dien verstande dat de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2004-04-01&g=2004-04-01) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=VII&artikel=28&z=2004-04-01&g=2004-04-01), een jaar na dat tijdstip in werking treden.
+1. Deze wet treedt in werking op een bij Koninklijk besluit te bepalen tijdstip, met dien verstande dat de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2004-09-01&g=2004-09-01) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=VII&artikel=28&z=2004-09-01&g=2004-09-01), een jaar na dat tijdstip in werking treden.
 
 2. Bevat wijzigingen in andere regelgeving.
 
