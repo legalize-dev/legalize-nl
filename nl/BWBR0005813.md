@@ -4,7 +4,7 @@ identifier: "BWBR0005813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005813"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan artikel 3, vijfde lid, 4, tweede lid, 6, derde lid, 8, 9, negende lid, 10, tweede lid, 17, derde lid, en 34 van de Wet op de belasting van personenauto's en motorrijwielen 1992.
+1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
 
 2. Deze regeling verstaat onder:
 
-wet: Wet op de belasting van personenauto's en motorrijwielen 1992; belasting: belasting van personenauto's en motorrijwielen.
+wet: [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806); belasting: belasting van personenauto's en motorrijwielen.
 
 ##### Artikel 2
 
@@ -117,37 +117,7 @@ Ingeval de eenheid van de Belastingdienst waar aangifte moet worden gedaan ter z
 
 ##### Artikel 7
 
-1. Niet tot de catalogusprijs, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) behoren uitsluitend de volgende voorzieningen:
-
-| **a** | **voor personenauto's** | **tegen een bedrag van** |
-| --- | --- | --- |
-|   |   |   |
-| 1° | hoofdbeschermingsysteem bij zijaanrijdingen | € 485 |
-| 2° | automatisch bandenspanningcontrolesysteem | € 350 |
-| 3° | whiplash beschermingsysteem | € 225 per stoel |
-| 4° | standkachel | € 675 |
-| 5° | navigatiesysteem | € 1250 |
-|   |   |   |
-| **b** | **voor motorrijwielen** | **tegen een bedrag van** |
-|   |   |   |
-| 1° | antiblokkeersysteem | € 1125 |
-| 2° | remsysteem met automatische verdeling van de remkracht over de wielen | € 900 |
-| 3° | automatisch uitschakelsysteem bij stationaire motor | € 350 |
-| 4° | hellinghoek-sensor | € 275 |
-|   |   |   |
-| **c** | **voor personenauto's en motorrijwielen** | **tegen een bedrag van** |
-|   |   |   |
-| 1° | aardgasinstallatie | werkelijke waarde |
-| 2° | LPG-installatie | werkelijke waarde |
-| 3° | boordcomputer met brandstofverbruikindicator | € 150 |
-| 4° | cruisecontrol | € 225 |
-| 5° | econometer | € 50 |
-
-2. De niet tot de catalogusprijs te rekenen waarde van de in het eerste lid, onder 7°, 8° en 9°, genoemde instrumenten wordt gesteld op onderscheidenlijk € 45, € 318 en € 318.
-
-3. Voor de toepassing van het eerste lid wordt verstaan onder:
-
-hoofdbeschermingsysteem bij zijaanrijdingen: airbagsysteem zich bevindend in de dakrand aan weerszijden van het interieur, dat is bestemd om de inzittenden ter hoogte van de zijkant van het hoofd tegen letsel te beschermen, met name bij een zijdelingse aanrijding; automatisch bandenspanningcontrolesysteem: elektronisch instrument dat door middel van een indicatie op het dashboard aangeeft of één van de banden een onjuiste spanning heeft; whiplash beschermingsysteem: actief systeem werkend op de hoofdsteunen van de voorstoelen, dat is bestemd om in geval van een aanrijding bestuurder of passagier van het motorrijtuig tegen nekletsel te beschermen; standkachel: voorziening die met behulp van opgeslagen warmte of een kachelvoorziening het koelsysteem van een motorrijtuig op temperatuur houdt of brengt terwijl de motor niet in bedrijf is, met als doel het op temperatuur houden of brengen van het interieur en het verkorten van de opwarmperiode van de motor; navigatiesysteem: elektronisch systeem dat de bestuurder van een motorrijtuig door gesproken aanwijzingen en aanwijzingen via een display informatie geeft over de te rijden route naar een van tevoren ingebrachte bestemming, daarbij gebruik makend van het Global Positioning System en dat niet handmatig is te programmeren tijdens het rijden; antiblokkeersysteem: elektronisch systeem dat door actief ingrijpen op de afzonderlijke wielen het blokkeren van de wielen van het motorrijwiel tijdens het remmen voorkomt; remsysteem met automatische verdeling van de remkracht over de wielen: voorziening die door middel van een mechanische of elektronische constructie bij het bedienen van de handrem of de voetrem van het motorrijwiel automatisch de remkracht over de voorrem en de achterrem verdeelt; automatisch uitschakelsysteem bij stationaire motor: systeem dat na een korte periode stationairloop bij stilstand automatisch de motor van het motorrijwiel uitschakelt om hem volautomatisch weer te starten bij het wegrijden; hellinghoek-sensor: systeem dat indien het motorrijwiel een bepaalde kantelhoek overschrijdt automatisch de brandstoftoevoer uitschakelt; boordcomputer met brandstofverbruikindicator: boordcomputer met een digitaal dan wel analoog afleesinstrument dat het momentane brandstofverbruik aangeeft tijdens de rit, dan wel tijdens een door de bestuurder aan te geven langer interval; cruisecontrol: elektronisch instrument met als functie het automatisch bereiken of aanhouden van een in te stellen snelheid; econometer: een digitaal dan wel analoog instrument dat continu aangeeft in hoeverre men zuinig of onzuinig rijdt door middel van een optische indicatie.
+Vervallen
 
 ##### Artikel 8
 
