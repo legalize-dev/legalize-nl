@@ -174,19 +174,3 @@ Bij en krachtens algemene maatregel van bestuur kunnen nadere bepalingen worden 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19
-
-Deze wet wordt aangehaald als: Uitvoeringswet internationale kinderontvoering.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-## Titel 4. Internationale samenwerking van gerechten
-
-##### Artikel 16a
-
-[Artikel 24 van de Uitvoeringswet internationale kinderbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&artikel=24) is van overeenkomstige toepassing in gevallen die door de verordening worden bestreken.
-
-## Titel 5. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
