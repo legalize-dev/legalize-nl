@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2002-03-15"
+last_updated: "2004-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -68,9 +68,9 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ##### Artikel 3. Nationaliteit voor hoofdstukken 4 en 5 van de wet
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15), verleend is onder de beperking:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2004-05-07&g=2004-05-07) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2004-05-07&g=2004-05-07), verleend is onder de beperking:
 
-- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15),
+- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2004-05-07&g=2004-05-07),
 
 - b. verblijf als alleenstaande minderjarige vreemdeling of als gevolg daarvan voortgezet verblijf, of
 
@@ -96,13 +96,11 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 2. Onze Minister past de bedragen, genoemd in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.5), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10) en [10.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7) per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de consumentenprijs over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-3. Als indexcijfer van de CAO-lonen wordt gehanteerd de reeks CAO-lonen per maand inclusief bijzondere beloningen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en bekendgemaakt in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.
-
-4. Als indexcijfer van de consumentenprijs wordt gehanteerd de reeks werknemersgezinnen met een laag inkomen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en bekendgemaakt in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.
+3. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2002-03-15&g=2002-03-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2002-03-15&g=2002-03-15)
+##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2004-05-07&g=2004-05-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2004-05-07&g=2004-05-07)
 
 Degenen die op 31 juli 2001 op grond van het [Besluit tegemoetkoming studiekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0008149) rechtmatig tegemoetkoming ontvingen, voldoen aan de nationaliteitseis, bedoeld in [artikel 2.2, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2).
 
