@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2003-06-30"
+last_updated: "2004-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -54,11 +54,11 @@ Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de W
 
 - a. de Nederlandse Omroep Stichting, genoemd in [artikel 16 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=16), voor zover belast met andere werkzaamheden dan welke voortvloeien uit onderscheidenlijk verband houden met de coördinatie van de programma's van de instellingen die zendtijd hebben gekregen voor landelijke omroep, onderscheidenlijk met het indelen van de zendtijd van de instellingen die zendtijd hebben verkregen voor de landelijke omroep;
 
-- b. De Nederlandsche Bank NV, voor zover belast met de werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken op grond van [artikel 26 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=26) vanaf het tijdstip van inwerkingtreding van de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508) tot 1 januari 1999 respectievelijk de [artikelen 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=2), en [3 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=3) in de periode vanaf 1 januari 1999, en haar taken en bevoegdheden ingevolge [artikel 4, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=4);
+- b. De Nederlandsche Bank N.V., voor zover belast met de werkzaamheden die voortvloeien uit dan wel verband houden met haar taken op grond van de [artikelen 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=2), en [3 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=3), en haar taken en bevoegdheden ingevolge [artikel 4, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=4);
 
-- c. de Verzekeringskamer, voor zover belast met werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830)en de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143);
+- c. de Pensioen- & Verzekeringskamer, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006670), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830) en de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143);
 
-- d. de Stichting toezicht effectenverkeer, voor zover belast met werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657).
+- d. de Stichting Autoriteit Financiële Markten, voor zover belast met werkzaamheden die voortvloeien uit dan wel verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) en de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509).
 
 ##### Artikel 2
 
