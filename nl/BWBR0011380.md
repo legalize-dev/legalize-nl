@@ -4,7 +4,7 @@ identifier: "BWBR0011380"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-12-29"
-last_updated: "2002-10-02"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011380"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Het Huisvestingsbesluit WVO/WCBO wordt ingetrokken.
 
 ##### Artikel VII. Overgangsbepaling huisvestingskosten en vergoeding materiële instandhouding scholen gehuisvest in een gebouw
 
-1. Met betrekking tot huisvestingsvoorzieningen die voor 1 januari 1997 zijn gerealiseerd, verstrekt het Rijk ten aanzien van scholen gehuisvest in een gebouw zoals bedoeld in [titel C van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C), aan de gemeente de vergoeding voor de kosten voor de huisvesting die op grond van de regelgeving zoals die voor die datum gold, nog is verschuldigd, met dien verstande dat tevens een vergoeding wordt verstrekt voor onroerende zaakbelasting op basis van de vergoeding voor het jaar 1996, aangepast aan de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning.
+1. Vervallen.
 
 2. In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_16a) zoals gewijzigd bij dit besluit, dient het bevoegd gezag van een school als bedoeld in het eerste lid voor 1 juli 2001 een verklaring van een accountant omtrent de rechtmatigheid van de uitgaven over de jaren 1997 tot en met 2000 in bij de Minister van Onderwijs, Cultuur en Wetenschappen.
 
@@ -94,11 +94,11 @@ In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https:/
 
 ##### Artikel XI. Inwerkingtreding
 
-1. Dit besluit treedt met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2002-10-02&g=2002-10-02) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2002-10-02&g=2002-10-02) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2002-10-02&g=2002-10-02) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. Dit besluit treedt met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2004-12-29&g=2004-12-29) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2004-12-29&g=2004-12-29) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. [Artikel III, onderdelen D, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=III&z=2002-10-02&g=2002-10-02), E en F, werkt terug tot en met 1 januari 1997, met dien verstande dat tot 1 augustus 1998
+2. [Artikel III, onderdelen D, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=III&z=2004-12-29&g=2004-12-29), E en F, werkt terug tot en met 1 januari 1997, met dien verstande dat tot 1 augustus 1998
 
-- a. in het opschrift en de [aanhef van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=III&z=2002-10-02&g=2002-10-02) voor «[Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)» wordt gelezen: Bekostigingsbesluit ISOVSO/OISOVSO,
+- a. in het opschrift en de [aanhef van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=III&z=2004-12-29&g=2004-12-29) voor «[Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)» wordt gelezen: Bekostigingsbesluit ISOVSO/OISOVSO,
 
 - b. in onderdeel D, vierde lid, voor «artikel 90 van de wet» wordt gelezen: [artikel 74 van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=74),
 
@@ -106,30 +106,30 @@ In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https:/
 
 - d. de onderdelen D, tweede, derde en vierde lid, E en F tevens betrekking hebben op het voortgezet speciaal onderwijs voor kinderen met leer- en opvoedingsmoeilijkheden en moeilijk lerende kinderen.
 
-3. [Artikel IV, onderdelen D, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IV&z=2002-10-02&g=2002-10-02), E en F, werken terug tot en met 1 augustus 1998.
+3. [Artikel IV, onderdelen D, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IV&z=2004-12-29&g=2004-12-29), E en F, werken terug tot en met 1 augustus 1998.
 
-4. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=V&z=2002-10-02&g=2002-10-02) werkt terug tot en met 1 juli 1997.
+4. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=V&z=2004-12-29&g=2004-12-29) werkt terug tot en met 1 juli 1997.
 
-5. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2002-10-02&g=2002-10-02) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2002-10-02&g=2002-10-02) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2002-10-02&g=2002-10-02) treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet vastgesteld dan nadat 4 weken zijn verstreken na de overlegging van het onderhavige besluit aan de Tweede Kamer der Staten-Generaal en gedurende die termijn niet door of namens de Kamer de wens te kennen wordt gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld.
+5. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2004-12-29&g=2004-12-29) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2004-12-29&g=2004-12-29) treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet vastgesteld dan nadat 4 weken zijn verstreken na de overlegging van het onderhavige besluit aan de Tweede Kamer der Staten-Generaal en gedurende die termijn niet door of namens de Kamer de wens te kennen wordt gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld.
 
-6. [Artikel I, onderdelen H tot en met L, M](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), voor zover het betreft de artikelen C 16 en C 16a, N, O en Q, vijfde tot en met twaalfde lid, [artikel II, onderdelen D, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2002-10-02&g=2002-10-02), E, tweede lid, G, tweede en derde lid, en J en de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2002-10-02&g=2002-10-02) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII&z=2002-10-02&g=2002-10-02), werken terug tot en met 1 januari 1997, met dien verstande dat tot 1 augustus 1998
+6. [Artikel I, onderdelen H tot en met L, M](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), voor zover het betreft de artikelen C 16 en C 16a, N, O en Q, vijfde tot en met twaalfde lid, [artikel II, onderdelen D, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29), E, tweede lid, G, tweede en derde lid, en J en de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2004-12-29&g=2004-12-29) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII&z=2004-12-29&g=2004-12-29), werken terug tot en met 1 januari 1997, met dien verstande dat tot 1 augustus 1998
 
-- a. in het opschrift en de [aanhef van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02) voor «[Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)» wordt gelezen: [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833),
+- a. in het opschrift en de [aanhef van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29) voor «[Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)» wordt gelezen: [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833),
 
-- b. in [artikel I, onderdeel I, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), voor «de artikelen 113, 114, 116, 119, 134, eerste, derde, zevende en achtste lid, en 135 van de wet» wordt gelezen: de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=95), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96), [100, eerste, vierde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=100), en [101 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=101),
+- b. in [artikel I, onderdeel I, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), voor «de artikelen 113, 114, 116, 119, 134, eerste, derde, zevende en achtste lid, en 135 van de wet» wordt gelezen: de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=95), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96), [100, eerste, vierde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=100), en [101 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=101),
 
-- c. in [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), voor «[Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)» telkens wordt gelezen: [Bekostigingsbesluit WBO/OWBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862),
+- c. in [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), voor «[Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)» telkens wordt gelezen: [Bekostigingsbesluit WBO/OWBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862),
 
-- d. in [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2002-10-02&g=2002-10-02), voor «: artikel 144» telkens wordt gelezen «: artikel 105d» en voor «van de wet.» telkens wordt gelezen: van de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).,
+- d. in [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), voor «: artikel 144» telkens wordt gelezen «: artikel 105d» en voor «van de wet.» telkens wordt gelezen: van de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).,
 
-- e. in het opschrift en de [aanhef van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2002-10-02&g=2002-10-02) voor «[Besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190)» wordt gelezen: [Besluit oude eigendoms- en huurscholen WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190),
+- e. in het opschrift en de [aanhef van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29) voor «[Besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190)» wordt gelezen: [Besluit oude eigendoms- en huurscholen WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190),
 
-- f. in [artikel II, onderdeel D, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2002-10-02&g=2002-10-02), voor «artikel 92 van de wet» wordt gelezen: [artikel 66 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), en
+- f. in [artikel II, onderdeel D, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29), voor «artikel 92 van de wet» wordt gelezen: [artikel 66 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), en
 
-- g. in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII&z=2002-10-02&g=2002-10-02) voor «[Besluit trekkende bevolking WP0](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)» wordt gelezen: [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833).
+- g. in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VII&z=2004-12-29&g=2004-12-29) voor «[Besluit trekkende bevolking WP0](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)» wordt gelezen: [Besluit trekkende bevolking WBO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833).
 
-7. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VIII&z=2002-10-02&g=2002-10-02) werkt terug tot en met 1 januari 1998.
+7. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VIII&z=2004-12-29&g=2004-12-29) werkt terug tot en met 1 januari 1998.
 
-8. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2002-10-02&g=2002-10-02) werkt terug tot en met 1 januari 1999.
+8. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2004-12-29&g=2004-12-29) werkt terug tot en met 1 januari 1999.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
