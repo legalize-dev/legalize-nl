@@ -84,9 +84,3 @@ Deze regeling treedt in werking met ingang van 15 december 1998.
 Deze regeling wordt aangehaald als: Regeling beperking toekenning nummers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De volgende nummers in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in [artikel 4.2, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2) genoemde categorieën aanvragers: nummers voor toegang tot ondernemingen en instellingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
