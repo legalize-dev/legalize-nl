@@ -4,7 +4,7 @@ identifier: "BWBR0003052"
 country: "nl"
 rank: "wet"
 publication_date: "2017-03-01"
-last_updated: "2003-04-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003052"
 soort: "wet"
@@ -53,9 +53,9 @@ De behandeling als Nederlander komt ook toe aan het niet- Nederlandse kind van e
 
 ##### Artikel 3
 
-1. Onze Minister van Justitie kan, op een daartoe gedaan verzoek, door een aan de verzoeker af te geven verklaring de toepassing van deze wet uitbreiden tot andere dan de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2003-04-01&g=2003-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2003-04-01&g=2003-04-01) bedoelde Molukkers, welke met dezen nauwe maatschappelijke banden hebben, die zich vóór 1 oktober 1965 in Nederland hebben gevestigd en aldaar ten tijde van het verzoek woonplaats of werkelijk verblijf hebben.
+1. Onze Minister van Justitie kan, op een daartoe gedaan verzoek, door een aan de verzoeker af te geven verklaring de toepassing van deze wet uitbreiden tot andere dan de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2005-01-01&g=2005-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2005-01-01&g=2005-01-01) bedoelde Molukkers, welke met dezen nauwe maatschappelijke banden hebben, die zich vóór 1 oktober 1965 in Nederland hebben gevestigd en aldaar ten tijde van het verzoek woonplaats of werkelijk verblijf hebben.
 
-2. Op de kinderen van Molukkers aan wie de in het voorgaande lid bedoelde verklaring is afgegeven is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2003-04-01&g=2003-04-01) van overeenkomstige toepassing, indien zij op het tijdstip van de indiening van het verzoek in Nederland woonplaats of werkelijk verblijf hebben.
+2. Op de kinderen van Molukkers aan wie de in het voorgaande lid bedoelde verklaring is afgegeven is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing, indien zij op het tijdstip van de indiening van het verzoek in Nederland woonplaats of werkelijk verblijf hebben.
 
 ##### Artikel 4
 
@@ -67,7 +67,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Ten aanzien van de verkrijging en het verlies van de behandeling als Nederlander zijn de artikelen [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5), [6, eerste lid, onderdeel c en d, tweede tot en met vijfde lid alsmede het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), [15A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), [16A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28), alsmede van de artikelen [II](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) en [V van de Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) van 21 december 2000, Stb. 618 (Stb. 1984, 628) van overeenkomstige toepassing.
+1. Ten aanzien van de verkrijging en het verlies van de behandeling als Nederlander zijn de artikelen [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5),[5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5b), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=5c), [6, eerste lid, onderdeel c en d, tweede tot en met vijfde lid alsmede het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15), [15A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15A), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16), [16A](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=16A), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=27), [28 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=28), alsmede van de artikelen [II](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=III), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IV) en [V van de Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V) van 21 december 2000, Stb. 618 van overeenkomstige toepassing.
 
 2. Het niet-Nederlandse kind dat niet de behandeling als Nederlander geniet en dat na de inwerkingtreding van deze wet doch vóór de inwerkingtreding van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) (**Stb.** 1984, 628) is geboren uit een vrouw die ten tijde van de geboorte van het kind de behandeling als Nederlander genoot dan wel deze op een later tijdstip heeft verkregen, verkrijgt de behandeling als Nederlander te rekenen van de geboorte, dan wel het tijdstip waarop de moeder de behandeling als Nederlander heeft verkregen.
 
@@ -75,15 +75,15 @@ Vervallen
 
 ##### Artikel 7
 
-1. Aan degene op wie deze wet van toepassing is of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2003-04-01&g=2003-04-01) van toepassing is verklaard wordt op zijn verzoek door de burgemeester van zijn woonplaats of van zijn werkelijke verblijfplaats dan wel, indien de verzoeker buiten Nederland woont, door de burgemeester van de gemeente waar hij laatstelijk woonplaats of werkelijk verblijf heeft gehad, een verklaring afgegeven dat hij overeenkomstig de bepalingen van deze wet als Nederlander wordt behandeld.
+1. Aan degene op wie deze wet van toepassing is of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2005-01-01&g=2005-01-01) van toepassing is verklaard wordt op zijn verzoek door de burgemeester van zijn woonplaats of van zijn werkelijke verblijfplaats dan wel, indien de verzoeker buiten Nederland woont, door de burgemeester van de gemeente waar hij laatstelijk woonplaats of werkelijk verblijf heeft gehad, een verklaring afgegeven dat hij overeenkomstig de bepalingen van deze wet als Nederlander wordt behandeld.
 
 2. Weigert de burgemeester een verklaring af te geven, dan kan de verzoeker daartegen beroep instellen bij Onze Minister.
 
 ##### Artikel 8
 
-1. De niet-Nederlandse vrouw of man die sedert ten minste drie jaren de echtgenoot is van een persoon als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2003-04-01&g=2003-04-01) of 2, verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan een autoriteit als bedoeld in [artikel 21 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21).
+1. De niet-Nederlandse vrouw of man die sedert ten minste drie jaren de echtgenoot is van een persoon als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2005-01-01&g=2005-01-01) of 2, verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan een autoriteit als bedoeld in [artikel 21 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21).
 
-2. De niet-Nederlandse vrouw of man, die de echtgenote of echtgenoot is van een persoon aan wie de behandeling als Nederlander wordt verleend krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2003-04-01&g=2003-04-01) verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan de burgemeester van haar of zijn woonplaats.
+2. De niet-Nederlandse vrouw of man, die de echtgenote of echtgenoot is van een persoon aan wie de behandeling als Nederlander wordt verleend krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2005-01-01&g=2005-01-01) verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan de burgemeester van haar of zijn woonplaats.
 
 ##### Artikel 9
 
