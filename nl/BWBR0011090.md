@@ -74,5 +74,3 @@ Het CAM beheert de bescheiden betreffende zijn werkzaamheden overeenkomstig de w
 Deze regeling, waarvan afschrift wordt verzonden aan de Algemene Rekenkamer, treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1999.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
