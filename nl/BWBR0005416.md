@@ -4,7 +4,7 @@ identifier: "BWBR0005416"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-21"
-last_updated: "2002-10-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005416"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder het aantal inwoners van een gemeente: het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
 
-2. Voor de vaststelling van het inwonertal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=8&z=2002-10-01&g=2002-10-01), geldt als peildatum 1 januari van het jaar voorafgaand aan het jaar van de verkiezing van de raad. Het Centraal Bureau voor de Statistiek kan op schriftelijk verzoek van een gemeentebestuur het inwonertal per de eerste dag van de vierde maand voorafgaande aan de maand van de kandidaatstelling vaststellen, indien aannemelijk is dat een in dat artikel genoemd inwonertal op genoemde datum is overschreden. In dat geval geldt dit tijdstip als peildatum.
+2. Voor de vaststelling van het inwonertal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=8&z=2003-01-01&g=2003-01-01), geldt als peildatum 1 januari van het jaar voorafgaand aan het jaar van de verkiezing van de raad. Het Centraal Bureau voor de Statistiek kan op schriftelijk verzoek van een gemeentebestuur het inwonertal per de eerste dag van de vierde maand voorafgaande aan de maand van de kandidaatstelling vaststellen, indien aannemelijk is dat een in dat artikel genoemd inwonertal op genoemde datum is overschreden. In dat geval geldt dit tijdstip als peildatum.
 
 ##### Artikel 2
 
@@ -73,7 +73,7 @@ In deze wet wordt verstaan onder:
 
 - c. college: het college van burgemeester en wethouders;
 
-- d. rekenkamer: een rekenkamer als bedoeld in hoofdstuk IVa .
+- d. rekenkamer: een rekenkamer als bedoeld in [hoofdstuk IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&z=2003-01-01&g=2003-01-01) .
 
 ## Titel II. De inrichting en samenstelling van het gemeentebestuur
 
@@ -147,7 +147,7 @@ De burgemeester is voorzitter van de raad.
 
 ##### Artikel 11
 
-Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van de raad hij die na de laatstgehouden periodieke verkiezing van de leden van de raad wegens handelen in strijd met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01) van het lidmaatschap van de raad is vervallen verklaard.
+Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van de raad hij die na de laatstgehouden periodieke verkiezing van de leden van de raad wegens handelen in strijd met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-01-01&g=2003-01-01) van het lidmaatschap van de raad is vervallen verklaard.
 
 ##### Artikel 12
 
@@ -191,7 +191,7 @@ Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot li
 
 2. In afwijking van het eerste lid, aanhef en onder k, kan een lid van de raad tevens wethouder zijn van de gemeente waar hij lid van de raad is gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2002-10-01&g=2002-10-01), aftreden, of
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2003-01-01&g=2003-01-01), aftreden, of
 
 - b. aanvangt op de dag van zijn benoeming tot wethouder en eindigt op de dag waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van de raad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.
 
@@ -269,7 +269,7 @@ De raad vergadert na de periodieke verkiezing van zijn leden voor de eerste maal
 
 1. De burgemeester roept de leden schriftelijk tot de vergadering op.
 
-2. Tegelijkertijd met de oproeping brengt de burgemeester dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=25&z=2002-10-01&g=2002-10-01), bedoelde stukken worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
+2. Tegelijkertijd met de oproeping brengt de burgemeester dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=25&z=2003-01-01&g=2003-01-01), bedoelde stukken worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
 
 ##### Artikel 20
 
@@ -355,7 +355,7 @@ De leden van de raad stemmen zonder last.
 
 - a. ingeval opnieuw wordt gestemd over een voorstel of over een benoeming, voordracht of aanbeveling van een of meer personen ten aanzien van wie in een vorige vergadering een stemming op grond van dat lid niet geldig was;
 
-- b. in een vergadering als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2002-10-01&g=2002-10-01), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2002-10-01&g=2002-10-01), niet geopende vergadering aan de orde waren gesteld.
+- b. in een vergadering als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2003-01-01&g=2003-01-01), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2003-01-01&g=2003-01-01), niet geopende vergadering aan de orde waren gesteld.
 
 ##### Artikel 30
 
@@ -421,7 +421,7 @@ De leden van de raad stemmen zonder last.
 
 ##### Artikel 36a
 
-1. Voor het wethouderschap gelden de vereisten voor het lidmaatschap van de raad, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2002-10-01&g=2002-10-01), met dien verstande dat in [artikel 10, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2002-10-01&g=2002-10-01), voor «de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad» gelezen wordt: de dag waarop zij tot wethouder worden benoemd.
+1. Voor het wethouderschap gelden de vereisten voor het lidmaatschap van de raad, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2003-01-01&g=2003-01-01), met dien verstande dat in [artikel 10, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2003-01-01&g=2003-01-01), voor «de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad» gelezen wordt: de dag waarop zij tot wethouder worden benoemd.
 
 2. De raad kan voor de duur van ten hoogste een jaar ontheffing verlenen van het vereiste van ingezetenschap.
 
@@ -467,7 +467,7 @@ De leden van de raad stemmen zonder last.
 
 2. In afwijking van het eerste lid, aanhef en onder j, kan een wethouder tevens lid zijn van de raad van de gemeente waar hij wethouder is gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2002-10-01&g=2002-10-01), aftreden, of
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2003-01-01&g=2003-01-01), aftreden, of
 
 - b. aanvangt op de dag van zijn benoeming tot wethouder en eindigt op de dag waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van de raad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.
 
@@ -485,7 +485,7 @@ De benoeming van wethouders na de verkiezing van de leden van de raad vindt plaa
 
 ##### Artikel 38
 
-In het geval van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=37&z=2002-10-01&g=2002-10-01) gaat de benoeming van degene die zijn benoeming tot wethouder heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2002-10-01&g=2002-10-01) bepaalde aantal wethouders zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
+In het geval van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=37&z=2003-01-01&g=2003-01-01) gaat de benoeming van degene die zijn benoeming tot wethouder heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2003-01-01&g=2003-01-01) bepaalde aantal wethouders zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
 
 ##### Artikel 39
 
@@ -519,19 +519,19 @@ Zo waarlijk helpe mij God almachtig!»
 
 2. Een wethouder meldt zijn voornemen tot aanvaarding van een nevenfunctie aan de raad.
 
-3. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=12&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing op de wethouders.
+3. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=12&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing op de wethouders.
 
 ##### Artikel 41c
 
-1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing op de wethouders.
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op de wethouders.
 
 2. De raad stelt voor de wethouders een gedragscode vast.
 
 ##### Artikel 42
 
-1. Na de verkiezing van de leden van de raad treden de wethouders af op het moment dat de raad ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2002-10-01&g=2002-10-01) bepaalde aantal wethouders heeft benoemd en deze benoemingen zijn aangenomen.
+1. Na de verkiezing van de leden van de raad treden de wethouders af op het moment dat de raad ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2003-01-01&g=2003-01-01) bepaalde aantal wethouders heeft benoemd en deze benoemingen zijn aangenomen.
 
-2. Indien zoveel wethouders hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2002-10-01&g=2002-10-01) bepaalde aantal wethouders in functie is, treedt de burgemeester in de plaats van het college totdat dit wel het geval is.
+2. Indien zoveel wethouders hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2003-01-01&g=2003-01-01) bepaalde aantal wethouders in functie is, treedt de burgemeester in de plaats van het college totdat dit wel het geval is.
 
 ##### Artikel 43
 
@@ -557,7 +557,7 @@ Vervallen
 
 ##### Artikel 46
 
-1. Indien degene wiens benoeming tot wethouder is ingegaan, een functie bekleedt als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2002-10-01&g=2002-10-01) van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
+1. Indien degene wiens benoeming tot wethouder is ingegaan, een functie bekleedt als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2003-01-01&g=2003-01-01) van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
 
 2. De raad verleent hem ontslag indien hij dit nalaat.
 
@@ -567,9 +567,9 @@ Vervallen
 
 ##### Artikel 47
 
-1. Indien een wethouder een functie gaat bekleden als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2002-10-01&g=2002-10-01) van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan de raad.
+1. Indien een wethouder een functie gaat bekleden als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2003-01-01&g=2003-01-01) van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan de raad.
 
-2. [Artikel 46, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=46&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing.
+2. [Artikel 46, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=46&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 48
 
@@ -633,7 +633,7 @@ De leden van het college en andere personen die deelnemen aan de beraadslaging k
 
 ##### Artikel 58
 
-De [artikelen 28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=28&z=2002-10-01&g=2002-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=29&z=2002-10-01&g=2002-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=30&z=2002-10-01&g=2002-10-01) zijn ten aanzien van de vergaderingen van het college van overeenkomstige toepassing.
+De [artikelen 28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=28&z=2003-01-01&g=2003-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=29&z=2003-01-01&g=2003-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=30&z=2003-01-01&g=2003-01-01) zijn ten aanzien van de vergaderingen van het college van overeenkomstige toepassing.
 
 ##### Artikel 59
 
@@ -659,7 +659,7 @@ De [artikelen 28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3
 
 4. De vertrouwenscommissie verschaft zich door tussenkomst van de commissaris de door haar nodig geachte informatie over de kandidaten. Bestuursorganen zijn verplicht de gevraagde informatie te verstrekken. De vertrouwenscommissie brengt verslag uit van haar bevindingen aan de raad en aan de commissaris.
 
-5. De raad zendt Onze Minister binnen vier maanden nadat de gelegenheid tot sollicitatie voor de functie is gegeven, of, indien in overeenstemming met de in [artikel 61e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61e&z=2002-10-01&g=2002-10-01) genoemde eisen een raadplegend referendum ten behoeve van de aanbeveling inzake de benoeming is gehouden, binnen een maand nadat het raadplegend referendum is gehouden, een aanbeveling inzake de benoeming. Deze aanbeveling omvat twee personen. In bijzondere, door de raad te motiveren gevallen, kan worden volstaan met een aanbeveling waarop één persoon vermeld staat.
+5. De raad zendt Onze Minister binnen vier maanden nadat de gelegenheid tot sollicitatie voor de functie is gegeven, of, indien in overeenstemming met de in [artikel 61e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61e&z=2003-01-01&g=2003-01-01) genoemde eisen een raadplegend referendum ten behoeve van de aanbeveling inzake de benoeming is gehouden, binnen een maand nadat het raadplegend referendum is gehouden, een aanbeveling inzake de benoeming. Deze aanbeveling omvat twee personen. In bijzondere, door de raad te motiveren gevallen, kan worden volstaan met een aanbeveling waarop één persoon vermeld staat.
 
 6. Onze Minister volgt in zijn voordracht in beginsel de aanbeveling, met inbegrip van de daarop gehanteerde volgorde, tenzij zwaarwegende gronden aanleiding tot afwijking geven. Een afwijking wordt gemotiveerd.
 
@@ -693,21 +693,21 @@ De [artikelen 28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 61c
 
-1. De beraadslagingen, bedoeld in de [artikelen 61, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2002-10-01&g=2002-10-01), [61a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2002-10-01&g=2002-10-01), en [61b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2002-10-01&g=2002-10-01), vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
+1. De beraadslagingen, bedoeld in de [artikelen 61, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2003-01-01&g=2003-01-01), [61a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2003-01-01&g=2003-01-01), en [61b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2003-01-01&g=2003-01-01), vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
 
 2. Ten aanzien van de beraadslagingen en de stukken die aan de raad worden gezonden dan wel die door de raad aan Onze Minister worden gezonden geldt een geheimhoudingsplicht.
 
-3. De aanbevelingen van de raad, bedoeld in [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2002-10-01&g=2002-10-01), [artikel 61a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2002-10-01&g=2002-10-01), en [artikel 61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2002-10-01&g=2002-10-01), zijn openbaar.
+3. De aanbevelingen van de raad, bedoeld in [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2003-01-01&g=2003-01-01), [artikel 61a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2003-01-01&g=2003-01-01), en [artikel 61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2003-01-01&g=2003-01-01), zijn openbaar.
 
 ##### Artikel 61d
 
-1. De commissaris verricht de werkzaamheden, genoemd in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2002-10-01&g=2002-10-01), [61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2002-10-01&g=2002-10-01) en [61b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2002-10-01&g=2002-10-01), volgens een door de regering gegeven ambtsinstructie.
+1. De commissaris verricht de werkzaamheden, genoemd in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2003-01-01&g=2003-01-01), [61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2003-01-01&g=2003-01-01) en [61b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2003-01-01&g=2003-01-01), volgens een door de regering gegeven ambtsinstructie.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de bij benoeming, herbenoeming en ontslag van de burgemeester te volgen procedure.
 
 ##### Artikel 61e
 
-De raad betrekt de uitslag van het in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2002-10-01&g=2002-10-01), bedoelde referendum bij de vaststelling van zijn aanbeveling inzake de benoeming, indien het referendum overeenkomstig de volgende eisen is gehouden:
+De raad betrekt de uitslag van het in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2003-01-01&g=2003-01-01), bedoelde referendum bij de vaststelling van zijn aanbeveling inzake de benoeming, indien het referendum overeenkomstig de volgende eisen is gehouden:
 
 - a. Gerechtigd tot deelname aan het referendum zijn zij die kiesgerechtigd zijn voor de verkiezing van de leden van de raad en op de dag waarop het referendum gehouden wordt de leeftijd van achttien jaar hebben bereikt.
 
@@ -805,7 +805,7 @@ Zo waarlijk helpe mij God Almachtig!"
 
 ##### Artikel 69
 
-1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing op de burgemeester met dien verstande dat de ontheffing, bedoeld in het tweede lid van dat artikel, wordt verleend door de commissaris van de Koning.
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op de burgemeester met dien verstande dat de ontheffing, bedoeld in het tweede lid van dat artikel, wordt verleend door de commissaris van de Koning.
 
 2. De raad stelt voor de burgemeester een gedragscode vast.
 
@@ -817,7 +817,7 @@ Het ambt van burgemeester ontheft van alle bij of krachtens de wet opgelegde ver
 
 1. De burgemeester heeft zijn werkelijke woonplaats in de gemeente of, indien hij burgemeester is van meer dan een gemeente, in een van die gemeenten.
 
-2. De commissaris van de Koning kan ontheffing verlenen van het in het eerste lid bepaalde, indien het belang van de gemeente zich daartegen niet verzet. Hij wint het gevoelen van de raad, onderscheidenlijk de raden in.
+2. De raad kan voor ten hoogste een jaar ontheffing verlenen van de verplichting om de werkelijke woonplaats in de gemeente te hebben.
 
 ##### Artikel 72
 
@@ -869,9 +869,9 @@ Bij koninklijk besluit wordt bepaald, welke de onderscheidingstekenen van de bur
 
 ##### Artikel 78
 
-1. Indien de commissaris van de Koning het in het belang van de gemeente nodig oordeelt, voorziet hij in afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=77&z=2002-10-01&g=2002-10-01) in de waarneming. Alvorens daartoe over te gaan hoort hij de raad, tenzij gewichtige redenen zich daartegen verzetten.
+1. Indien de commissaris van de Koning het in het belang van de gemeente nodig oordeelt, voorziet hij in afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=77&z=2003-01-01&g=2003-01-01) in de waarneming. Alvorens daartoe over te gaan hoort hij de raad, tenzij gewichtige redenen zich daartegen verzetten.
 
-2. Hij die door de commissaris met de waarneming van het ambt van burgemeester is belast, legt in handen van de commissaris een overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=65&z=2002-10-01&g=2002-10-01) luidende eed (verklaring en belofte) af.
+2. Hij die door de commissaris met de waarneming van het ambt van burgemeester is belast, legt in handen van de commissaris een overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=65&z=2003-01-01&g=2003-01-01) luidende eed (verklaring en belofte) af.
 
 ##### Artikel 79
 
@@ -879,7 +879,7 @@ De toekenning van een vergoeding ten laste van de gemeente aan degene die met de
 
 ##### Artikel 80
 
-Ten aanzien van degene die met de waarneming van het ambt van burgemeester is belast, zijn de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=68&z=2002-10-01&g=2002-10-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=69&z=2002-10-01&g=2002-10-01) van overeenkomstige toepassing.
+Ten aanzien van degene die met de waarneming van het ambt van burgemeester is belast, zijn de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=68&z=2003-01-01&g=2003-01-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=69&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 81
 
@@ -887,9 +887,9 @@ Ten aanzien van degene die met de waarneming van het ambt van burgemeester is be
 
 2. De burgemeester laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
 
-### Hoofdstuk V. De commissies
+### Hoofdstuk IVa. De rekenkamer
 
-#### Paragraaf 1. Commissies
+#### Paragraaf 1. De gemeentelijke rekenkamer
 
 ##### Artikel 82
 
@@ -901,7 +901,7 @@ Ten aanzien van degene die met de waarneming van het ambt van burgemeester is be
 
 4. Een lid van de raad is voorzitter van een raadscommissie.
 
-5. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2002-10-01&g=2002-10-01), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=21&z=2002-10-01&g=2002-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2002-10-01&g=2002-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een vergadering van een raadscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2002-10-01&g=2002-10-01), voor «de burgemeester» wordt gelezen «de voorzitter van een raadscommissie» en in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=21&z=2002-10-01&g=2002-10-01), voor «Een wethouder» wordt gelezen «De burgemeester of een wethouder».
+5. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-01-01&g=2003-01-01), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=21&z=2003-01-01&g=2003-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-01-01&g=2003-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een vergadering van een raadscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-01-01&g=2003-01-01), voor «de burgemeester» wordt gelezen «de voorzitter van een raadscommissie» en in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=21&z=2003-01-01&g=2003-01-01), voor «Een wethouder» wordt gelezen «De burgemeester of een wethouder».
 
 ##### Artikel 83
 
@@ -909,21 +909,21 @@ Ten aanzien van degene die met de waarneming van het ambt van burgemeester is be
 
 2. De burgemeester en de wethouders zijn geen lid van een door de raad ingestelde bestuurscommissie. Leden van de raad zijn geen lid van een door het college of de burgemeester ingestelde bestuurscommissie.
 
-3. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een besluit tot instelling van een bestuurscommissie.
+3. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een besluit tot instelling van een bestuurscommissie.
 
-4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2002-10-01&g=2002-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2002-10-01&g=2002-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door de raad ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2002-10-01&g=2002-10-01), voor «de burgemeester» wordt gelezen: de voorzitter van een bestuurscommissie.
+4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-01-01&g=2003-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-01-01&g=2003-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door de raad ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-01-01&g=2003-01-01), voor «de burgemeester» wordt gelezen: de voorzitter van een bestuurscommissie.
 
 5. Voor zover zulks in verband met de aard en omvang van de overgedragen bevoegdheden nodig is, regelt het college of de burgemeester de openbaarheid van vergaderingen van een door hem ingestelde bestuurscommissie.
 
 ##### Artikel 84
 
-1. De raad, het college of de burgemeester kan andere commissies dan bedoeld in de [artikelen 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=82&z=2002-10-01&g=2002-10-01), en [83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2002-10-01&g=2002-10-01), instellen.
+1. De raad, het college of de burgemeester kan andere commissies dan bedoeld in de [artikelen 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=82&z=2003-01-01&g=2003-01-01), en [83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2003-01-01&g=2003-01-01), instellen.
 
-2. [Artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing op een andere commissie.
+2. [Artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op een andere commissie.
 
 3. De raad, het college onderscheidenlijk de burgemeester regelt ten aanzien van een door hem ingestelde andere commissie de openbaarheid van de vergaderingen.
 
-4. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
+4. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
 
 ##### Artikel 85
 
@@ -957,13 +957,13 @@ Ten aanzien van degene die met de waarneming van het ambt van burgemeester is be
 
 6. In de verordening wordt de verkiezing van de leden van de deelraad zoveel mogelijk geregeld overeenkomstig de bepalingen van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) voor de verkiezing van de leden van de gemeenteraad. De [artikelen Z 1 tot en met Z 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Z_1) zijn op de verkiezing van overeenkomstige toepassing.
 
-7. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op de verordening.
+7. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op de verordening.
 
 ##### Artikel 87a
 
 1. De raad, het college of de burgemeester kan besluiten en andere, niet-schriftelijke, beslissingen gericht op enig rechtsgevolg van een deelraad, een dagelijks bestuur van een deelgemeente, onderscheidenlijk een voorzitter van het dagelijks bestuur, vernietigen. De raad kan zijn bevoegdheid tot schorsing overdragen aan het college. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen van een deelraad of een dagelijks bestuur gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2.](onbekend) en [10.2.3. van de Algemene wet bestuursrecht](onbekend) van overeenkomstige toepassing.
 
-2. De in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2002-10-01&g=2002-10-01), bedoelde verordening bevat een regeling over het overig toezicht op de uitoefening van de bevoegdheden door een deelraad of het dagelijks bestuur van een deelgemeente. Dit overig toezicht kan de goedkeuring van de raad of het college bevatten van beslissingen van een deelraad, onderscheidenlijk dagelijks bestuur. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van niet-schriftelijke beslissingen gericht op enig rechtsgevolg is [afdeling 10.2.1. van de Algemene wet bestuursrecht](onbekend) van overeenkomstige toepassing.
+2. De in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2003-01-01&g=2003-01-01), bedoelde verordening bevat een regeling over het overig toezicht op de uitoefening van de bevoegdheden door een deelraad of het dagelijks bestuur van een deelgemeente. Dit overig toezicht kan de goedkeuring van de raad of het college bevatten van beslissingen van een deelraad, onderscheidenlijk dagelijks bestuur. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van niet-schriftelijke beslissingen gericht op enig rechtsgevolg is [afdeling 10.2.1. van de Algemene wet bestuursrecht](onbekend) van overeenkomstige toepassing.
 
 ##### Artikel 88
 
@@ -1013,7 +1013,7 @@ Om lid te kunnen zijn van een deelraad is vereist dat men ingezetene is van het 
 
 - d. ambtenaar werkzaam voor een school voor openbaar onderwijs.
 
-3. In de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2002-10-01&g=2002-10-01), bedoelde verordening kan worden bepaald dat in afwijking van het eerste lid, aanhef en onder n, een lid van een deelraad tevens lid van het dagelijks bestuur van de betrokken deelgemeente kan zijn vanaf de dag van de stemming voor de verkiezing van de leden van de deelraad tot uiterlijk zes weken na de eerste vergadering van de deelraad in nieuwe samenstelling na de periodieke verkiezing van zijn leden.
+3. In de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2003-01-01&g=2003-01-01), bedoelde verordening kan worden bepaald dat in afwijking van het eerste lid, aanhef en onder n, een lid van een deelraad tevens lid van het dagelijks bestuur van de betrokken deelgemeente kan zijn vanaf de dag van de stemming voor de verkiezing van de leden van de deelraad tot uiterlijk zes weken na de eerste vergadering van de deelraad in nieuwe samenstelling na de periodieke verkiezing van zijn leden.
 
 ##### Artikel 90
 
@@ -1059,19 +1059,19 @@ Om lid te kunnen zijn van een deelraad is vereist dat men ingezetene is van het 
 
 - d. ambtenaar werkzaam voor een school voor openbaar onderwijs.
 
-3. In de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2002-10-01&g=2002-10-01), bedoelde verordening kan worden bepaald dat in afwijking van het eerste lid, aanhef en onder n, een lid van het dagelijks bestuur van een deelgemeente tevens lid van de deelraad van de betrokken deelgemeente kan zijn vanaf de dag van de stemming voor de verkiezing van de leden van de deelraad tot uiterlijk zes weken na de eerste vergadering van de deelraad in nieuwe samenstelling na de periodieke verkiezing van zijn leden.
+3. In de in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=87&z=2003-01-01&g=2003-01-01), bedoelde verordening kan worden bepaald dat in afwijking van het eerste lid, aanhef en onder n, een lid van het dagelijks bestuur van een deelgemeente tevens lid van de deelraad van de betrokken deelgemeente kan zijn vanaf de dag van de stemming voor de verkiezing van de leden van de deelraad tot uiterlijk zes weken na de eerste vergadering van de deelraad in nieuwe samenstelling na de periodieke verkiezing van zijn leden.
 
-4. [Artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36a&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing op de leden van het dagelijks bestuur van een deelgemeente.
+4. [Artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36a&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing op de leden van het dagelijks bestuur van een deelgemeente.
 
 ##### Artikel 91
 
-De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=14&z=2002-10-01&g=2002-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2002-10-01&g=2002-10-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=49&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op de leden van het deelgemeentebestuur.
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=14&z=2003-01-01&g=2003-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-01-01&g=2003-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-01-01&g=2003-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=49&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op de leden van het deelgemeentebestuur.
 
 ##### Artikel 92
 
-1. Een deelraad brengt dag, tijdstip en plaats van zijn vergadering ter openbare kennis. De agenda en de daarbij horende voorstellen, met uitzondering van de in [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2002-10-01&g=2002-10-01), bedoelde stukken, worden gelijktijdig met de oproeping voor de vergadering en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
+1. Een deelraad brengt dag, tijdstip en plaats van zijn vergadering ter openbare kennis. De agenda en de daarbij horende voorstellen, met uitzondering van de in [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2003-01-01&g=2003-01-01), bedoelde stukken, worden gelijktijdig met de oproeping voor de vergadering en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
 
-2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2002-10-01&g=2002-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=24&z=2002-10-01&g=2002-10-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een vergadering van een deelraad.
+2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-01-01&g=2003-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=24&z=2003-01-01&g=2003-01-01) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een vergadering van een deelraad.
 
 ##### Artikel 93
 
@@ -1081,7 +1081,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+### Hoofdstuk IVb. De rekenkamerfunctie
 
 ##### Artikel 95
 
@@ -1089,7 +1089,7 @@ Vervallen
 
 2. De raad kan bij verordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van de raad.
 
-3. Het eerste en tweede lid zijn niet van toepassing op een lid van de raad dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=13&z=2002-10-01&g=2002-10-01), tevens wethouder is.
+3. Het eerste en tweede lid zijn niet van toepassing op een lid van de raad dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=13&z=2003-01-01&g=2003-01-01), tevens wethouder is.
 
 4. De verordeningen, bedoeld in het eerste en tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
 
@@ -1101,7 +1101,7 @@ Vervallen
 
 - b. van reis- en verblijfskosten in verband met reizen binnen de gemeente.
 
-2. In bijzondere gevallen kan de raad bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=84&z=2002-10-01&g=2002-10-01) een vaste vergoeding voor hun werkzaamheden ontvangen.
+2. In bijzondere gevallen kan de raad bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=84&z=2003-01-01&g=2003-01-01) een vaste vergoeding voor hun werkzaamheden ontvangen.
 
 3. De raad kan bij verordening bepalen dat de leden van een deelraad een vaste vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten ontvangen.
 
@@ -1111,11 +1111,11 @@ Vervallen
 
 ##### Artikel 97
 
-Aan de leden van de raad en de personen genoemd in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VI&artikel=96&z=2002-10-01&g=2002-10-01), vindt vergoeding van reis- en verblijfkosten, gemaakt in verband met reizen buiten het grondgebied van de gemeente ter uitvoering van een beslissing van het gemeentebestuur, slechts plaats overeenkomstig door de raad bij verordening vastgestelde regels.
+Aan de leden van de raad en de personen genoemd in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VI&artikel=96&z=2003-01-01&g=2003-01-01), vindt vergoeding van reis- en verblijfkosten, gemaakt in verband met reizen buiten het grondgebied van de gemeente ter uitvoering van een beslissing van het gemeentebestuur, slechts plaats overeenkomstig door de raad bij verordening vastgestelde regels.
 
 ##### Artikel 98
 
-De verordeningen bedoeld in de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VI&artikel=95&z=2002-10-01&g=2002-10-01) worden aan gedeputeerde staten gezonden.
+De verordeningen bedoeld in de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VI&artikel=95&z=2003-01-01&g=2003-01-01) worden aan gedeputeerde staten gezonden.
 
 ##### Artikel 99
 
@@ -1127,41 +1127,41 @@ De verordeningen bedoeld in de [artikelen 95 tot en met 97](https://wetten.overh
 
 ##### Artikel 100
 
-In iedere gemeente is een secretaris.
+In iedere gemeente is een secretaris en een griffier.
 
 ##### Artikel 101
 
-1. De secretaris wordt door de raad benoemd. Voorafgaand aan de benoeming maakt het college van burgemeester en wethouders een aanbeveling van twee personen op. De raad kan de secretaris schorsen en ontslaan.
-
-2. Het college van burgemeester en wethouders kan in spoedeisende gevallen tot schorsing overgaan. Het college doet daarvan terstond mededeling aan de raad. De schorsing vervalt, wanneer de raad haar niet in zijn eerstvolgende vergadering bekrachtigt.
+Artikel 15, eerste en tweede lid, is van overeenkomstige toepassing op de secretaris en de griffier.
 
 ##### Artikel 102
 
-De secretaris mag geen handelingen verrichten als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01), Het [tweede lid van artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing.
+Het college benoemt de secretaris. Hij is tevens bevoegd de secretaris te schorsen en te ontslaan.
 
 ##### Artikel 103
 
-1. De secretaris staat de raad, het college van burgemeester en wethouders en de burgemeester alsmede de door hen ingestelde commissies bij de uitoefening van hun taak terzijde.
+1. De secretaris staat het college, de burgemeester en de door hen ingestelde commissies bij de uitoefening van hun taak terzijde.
 
-2. De raad stelt in een instructie nadere regels vast betreffende de taak en de bevoegdheid van de secretaris.
+2. Het college stelt in een instructie nadere regels over de taak en de bevoegdheden van de secretaris.
 
 ##### Artikel 104
 
-De secretaris is in de vergadering van de raad en van het college van burgemeester en wethouders aanwezig.
+De secretaris is in de vergadering van het college aanwezig.
 
 ##### Artikel 105
 
-1. De stukken die van de raad en van het college van burgemeester en wethouders uitgaan, worden door de secretaris medeondertekend.
+1. De stukken die van het college uitgaan, worden door de secretaris medeondertekend.
 
-2. Het eerste lid is niet van toepassing indien de ondertekening van stukken die van het college van burgemeester en wethouders uitgaan ingevolge [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=75&z=2002-10-01&g=2002-10-01), aan de secretaris of een andere gemeenteambtenaar is opgedragen.
+2. Het eerste lid is niet van toepassing indien de ondertekening van stukken die van het college uitgaan ingevolge artikel 75, tweede lid, aan de secretaris of een andere gemeenteambtenaar is opgedragen.
 
 ##### Artikel 106
 
-De raad regelt de vervanging van de secretaris.
+1. Het college regelt de vervanging van de secretaris.
+
+2. De artikelen 101 tot en met 105 zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
 
 ##### Artikel 107
 
-Ten aanzien van degene die de secretaris vervangt is [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&artikel=102&z=2002-10-01&g=2002-10-01) van overeenkomstige toepassing.
+De raad benoemt de griffier. Hij is tevens bevoegd de griffier te schorsen en te ontslaan.
 
 ## Titel III. De bevoegdheid van het gemeentebestuur
 
@@ -1175,7 +1175,7 @@ Ten aanzien van degene die de secretaris vervangt is [artikel 102](https://wette
 
 2. Regeling en bestuur kunnen van het gemeentebestuur worden gevorderd bij of krachtens een andere dan deze wet ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het gemeentebestuur en het aan het gemeentebestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet of krachtens de wet bij provinciale verordening is toegekend.
 
-3. Onverminderd het bepaalde in de [artikelen 110, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), [119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=119&z=2002-10-01&g=2002-10-01) en [120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=120&z=2002-10-01&g=2002-10-01), worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken gemeenten blijven, door het Rijk aan hen vergoed.
+3. Onverminderd het bepaalde in de [artikelen 110, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), [119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=119&z=2003-01-01&g=2003-01-01) en [120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=120&z=2003-01-01&g=2003-01-01), worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken gemeenten blijven, door het Rijk aan hen vergoed.
 
 ##### Artikel 109
 
@@ -1197,29 +1197,29 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen gemeenten
 
 5. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van de voorgeschreven procedure wordt van een gemeentebestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de gemeente worden gecompenseerd.
 
-6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01).
+6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 111
 
-1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
+1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
 
 - a. dit noodzakelijk is uit een oogpunt van afstemming tussen gemeentelijk beleid en het beleid van de betrokken provincie of het Rijk, of
 
 - b. de ontwikkeling van beleid op een nieuw beleidsterrein dit noodzakelijk maakt.
 
-2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
+2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
 
 - a. het gemeentebestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
 
 - b. de bestuurslasten niet in redelijke verhouding staan tot de te verwachten baten of een aanzienlijk beslag leggen op de voor het betrokken beleidsterrein beschikbare middelen;
 
-- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), of de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01), mogelijk is;
+- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), of de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01), mogelijk is;
 
 - d. het bevorderen van de samenhang in het gemeentelijk beleid door onderlinge afstemming van onderdelen daarvan onmogelijk wordt;
 
 - e. het uitsluitend dient tot het verkrijgen van informatie.
 
-3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
+3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
 
 #### § 2. Verhouding tot de provincie en het Rijk
 
@@ -1359,7 +1359,7 @@ Vervallen
 
 ##### Artikel 135
 
-1. In geval van toepassing van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2002-10-01&g=2002-10-01) kunnen gedeputeerde staten, onderscheidenlijk de commissaris van de Koning bestuursdwang toepassen namens het gemeentebestuur en ten laste van de gemeente.
+1. In geval van toepassing van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2003-01-01&g=2003-01-01) kunnen gedeputeerde staten, onderscheidenlijk de commissaris van de Koning bestuursdwang toepassen namens het gemeentebestuur en ten laste van de gemeente.
 
 2. De gemeente heeft in dat geval voor het bedrag van de te haren laste gebrachte kosten verhaal op de overtreder.
 
@@ -1393,7 +1393,7 @@ Besluiten van het gemeentebestuur die algemeen verbindende voorschriften inhoude
 
 ##### Artikel 141
 
-Een ieder kan op zijn verzoek een afschrift verkrijgen van de besluiten van het gemeentebestuur die ingevolge [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) ter inzage liggen.
+Een ieder kan op zijn verzoek een afschrift verkrijgen van de besluiten van het gemeentebestuur die ingevolge [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) ter inzage liggen.
 
 ##### Artikel 142
 
@@ -1401,11 +1401,11 @@ De bekendgemaakte besluiten treden in werking met ingang van de achtste dag na d
 
 ##### Artikel 143
 
-Een besluit als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01) op overtreding waarvan straf is gesteld, wordt na de bekendmaking medegedeeld aan het parket van het arrondissement waarin de gemeente is gelegen.
+Een besluit als bedoeld in [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01) op overtreding waarvan straf is gesteld, wordt na de bekendmaking medegedeeld aan het parket van het arrondissement waarin de gemeente is gelegen.
 
 ##### Artikel 144
 
-Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschriften inhouden, is het bepaalde in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=142&z=2002-10-01&g=2002-10-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=143&z=2002-10-01&g=2002-10-01) van overeenkomstige toepassing, met dien verstande dat de mededeling aan het arrondissementsparket geschiedt binnen een week.
+Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschriften inhouden, is het bepaalde in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=142&z=2003-01-01&g=2003-01-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=143&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing, met dien verstande dat de mededeling aan het arrondissementsparket geschiedt binnen een week.
 
 #### § 6. Termijnen
 
@@ -1423,7 +1423,7 @@ Vervallen
 
 1. Gemeentelijke verordeningen worden door de raad vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door de raad krachtens de wet aan het college van burgemeester en wethouders of de burgemeester is toegekend.
 
-2. De overige bevoegdheden, bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2002-10-01&g=2002-10-01), berusten bij de raad voorzover deze niet bij of krachtens de wet aan het college van burgemeester en wethouders of de burgemeester zijn toegekend.
+2. De overige bevoegdheden, bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-01-01&g=2003-01-01), berusten bij de raad voorzover deze niet bij of krachtens de wet aan het college van burgemeester en wethouders of de burgemeester zijn toegekend.
 
 ##### Artikel 147a
 
@@ -1437,7 +1437,7 @@ Vervallen
 
 1. Een lid van de raad kan een voorstel tot wijziging van een voor de vergadering van de raad geagendeerde ontwerp-verordening of ontwerp-beslissing indienen.
 
-2. Het [tweede lid van artikel 147a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=147a&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing.
+2. Het [tweede lid van artikel 147a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=147a&z=2003-01-01&g=2003-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 148
 
@@ -1487,9 +1487,9 @@ Vervallen
 
 ##### Artikel 154
 
-1. De raad kan op overtreding van zijn verordeningen en van die van organen waaraan ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2002-10-01&g=2002-10-01) verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.
+1. De raad kan op overtreding van zijn verordeningen en van die van organen waaraan ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2003-01-01&g=2003-01-01) verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.
 
-2. Op de krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2002-10-01&g=2002-10-01) is“is” moet zijn “zijn”. de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181) en [182 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182) (Stb. 1935, 554) van overeenkomstige toepassing.
+2. Op de krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2003-01-01&g=2003-01-01) is“is” moet zijn “zijn”. de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181) en [182 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182) (Stb. 1935, 554) van overeenkomstige toepassing.
 
 3. De gedragingen die zijn omschreven in de bijlage, bedoeld in [artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=2) (**Stb.** 1989, 300), zijn niet strafbaar, tenzij daarbij letsel aan personen is ontstaan of schade aan zaken is toegebracht.
 
@@ -1501,7 +1501,7 @@ Vervallen
 
 2. De burgemeester oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
 
-- a. jegens personen die een door de raad bij verordening vastgesteld en daartoe aangewezen specifiek voorschrift dat strekt tot handhaving van de openbare orde of beperking van gevaar in omstandigheden als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2002-10-01&g=2002-10-01), groepsgewijs niet naleven, en
+- a. jegens personen die een door de raad bij verordening vastgesteld en daartoe aangewezen specifiek voorschrift dat strekt tot handhaving van de openbare orde of beperking van gevaar in omstandigheden als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2003-01-01&g=2003-01-01), groepsgewijs niet naleven, en
 
 - b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
 
@@ -1539,7 +1539,7 @@ Vervallen
 
 1. Een lid van de raad kan het college of de burgemeester mondeling of schriftelijk vragen stellen.
 
-2. Een lid van de raad kan de raad verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2002-10-01&g=2002-10-01), om het college of de burgemeester hierover inlichtingen te vragen. De raad stelt hierover nadere regels.
+2. Een lid van de raad kan de raad verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-01-01&g=2003-01-01), om het college of de burgemeester hierover inlichtingen te vragen. De raad stelt hierover nadere regels.
 
 ##### Artikel 155a
 
@@ -1549,27 +1549,27 @@ Vervallen
 
 3. Het onderzoek wordt uitgevoerd door een door de raad in te stellen onderzoekscommissie. De commissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de raad.
 
-4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2002-10-01&g=2002-10-01), [82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=82&z=2002-10-01&g=2002-10-01), en [86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2002-10-01&g=2002-10-01), zijn van overeenkomstige toepassing op de onderzoekscommissie.
+4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-01-01&g=2003-01-01), [82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=82&z=2003-01-01&g=2003-01-01), en [86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=86&z=2003-01-01&g=2003-01-01), zijn van overeenkomstige toepassing op de onderzoekscommissie.
 
 5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
 
 6. De bevoegdheden en werkzaamheden van een onderzoekscommissie worden niet geschorst door het aftreden van de raad.
 
-7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek zijn de [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) van overeenkomstige toepassing.
+7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek zijn de [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 8. Alvorens de raad besluit tot een onderzoek, stelt hij bij verordening nadere regels met betrekking tot deze onderzoeken. In elk geval worden daarin regels opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de commissie.
 
 ##### Artikel 155b
 
-1. Leden en gewezen leden van de raad, de burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van de deelraad, leden en gewezen leden van het dagelijks bestuur van een deelgemeente, leden en gewezen leden van een door de raad, het college of de burgemeester ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2002-10-01&g=2002-10-01) nodig is.
+1. Leden en gewezen leden van de raad, de burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van de deelraad, leden en gewezen leden van het dagelijks bestuur van een deelgemeente, leden en gewezen leden van een door de raad, het college of de burgemeester ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2003-01-01&g=2003-01-01) nodig is.
 
 2. Indien een vordering als bedoeld in het eerste lid betrekking heeft op bescheiden die afkomstig zijn van een instelling van de Europese Unie of van het Rijk en kennisneming van die bescheiden door de onderzoekscommissie het belang van de Europese Unie of de Staat kan schaden, wordt niet dan met toestemming van Onze Minister aan de vordering voldaan.
 
-3. Ambtenaren, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2002-10-01&g=2002-10-01) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
+3. Ambtenaren, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2003-01-01&g=2003-01-01) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
 
 ##### Artikel 155c
 
-1. Personen als bedoeld in [artikel 155b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2002-10-01&g=2002-10-01), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
+1. Personen als bedoeld in [artikel 155b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2003-01-01&g=2003-01-01), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
 
 2. Een getuige of deskundige die door de onderzoekscommissie wordt gehoord, kan niet tevens lid zijn van de onderzoekscommissie.
 
@@ -1609,31 +1609,31 @@ Het college neemt de door de raad geraamde kosten voor een onderzoek in een bepa
 
 2. De raad kan in ieder geval niet overdragen de bevoegdheid tot:
 
-- a. de instelling van een onderzoek, bedoeld in [artikel 155a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2002-10-01&g=2002-10-01).
+- a. de instelling van een onderzoek, bedoeld in [artikel 155a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2003-01-01&g=2003-01-01).
 
-- b. de vaststelling of wijziging van de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2002-10-01&g=2002-10-01);
+- b. de vaststelling of wijziging van de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2003-01-01&g=2003-01-01);
 
-- c. de vaststelling van de jaarrekening, bedoeld in [artikel 198](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2002-10-01&g=2002-10-01);
+- c. de vaststelling van de jaarrekening, bedoeld in [artikel 198](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2003-01-01&g=2003-01-01);
 
 - d. het stellen van straf op overtreding van de gemeentelijke verordeningen;
 
-- e. de vaststelling van de verordening, bedoeld in [artikel 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2002-10-01&g=2002-10-01);
+- e. de vaststelling van de verordening, bedoeld in [artikel 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2003-01-01&g=2003-01-01);
 
-- f. de vaststelling van de verordening, bedoeld in [artikel 213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2002-10-01&g=2002-10-01);
+- f. de vaststelling van de verordening, bedoeld in [artikel 213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2003-01-01&g=2003-01-01);
 
-- g. de aanwijzing van een of meer accountants, bedoeld in [artikel 213, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2002-10-01&g=2002-10-01);
+- g. de aanwijzing van een of meer accountants, bedoeld in [artikel 213, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2003-01-01&g=2003-01-01);
 
-- h. de heffing van andere belastingen dan de belastingen, genoemd in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2002-10-01&g=2002-10-01), de precariobelasting, de rechten, genoemd in [artikel 229](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01), de rechten waarvan de heffing geschiedt krachtens andere wetten dan deze wet en de heffing, bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33).
+- h. de heffing van andere belastingen dan de belastingen, genoemd in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2003-01-01&g=2003-01-01), de precariobelasting, de rechten, genoemd in [artikel 229](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01), de rechten waarvan de heffing geschiedt krachtens andere wetten dan deze wet en de heffing, bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33).
 
 3. De bevoegdheid tot het vaststellen van verordeningen, door strafbepaling of bestuursdwang te handhaven, kan de raad slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hem in zijn verordeningen aangewezen onderwerpen.
 
-4. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
+4. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
 
 5. Het tweede lid, aanhef en onder d, en het derde lid zijn niet van toepassing op een deelraad.
 
 ##### Artikel 157
 
-1. De voorschriften met betrekking tot de bevoegdheid van de raad, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2002-10-01&g=2002-10-01) overgedragen bevoegdheden van overeenkomstige toepassing.
+1. De voorschriften met betrekking tot de bevoegdheid van de raad, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2003-01-01&g=2003-01-01) overgedragen bevoegdheden van overeenkomstige toepassing.
 
 2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
 
@@ -1697,7 +1697,7 @@ Vervallen
 
 1. Het college kan aan een door hem ingestelde bestuurscommissie en aan het dagelijks bestuur van een deelgemeente bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
 
-2. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
+2. De [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
 
 3. Het college neemt geen besluit op grond van het eerste lid dan nadat de raad een ontwerp-besluit is toegezonden en in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het college te brengen.
 
@@ -1707,7 +1707,7 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 ##### Artikel 167
 
-1. De voorschriften met betrekking tot de bevoegdheid van het college, de uitoefening daarvan en het toezicht daarop, zijn ten aanzien van de ingevolge [artikel 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=165&z=2002-10-01&g=2002-10-01) overgedragen bevoegdheden van overeenkomstige toepassing.
+1. De voorschriften met betrekking tot de bevoegdheid van het college, de uitoefening daarvan en het toezicht daarop, zijn ten aanzien van de ingevolge [artikel 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=165&z=2003-01-01&g=2003-01-01) overgedragen bevoegdheden van overeenkomstige toepassing.
 
 2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
 
@@ -1727,7 +1727,7 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 3. Zij geven de raad mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
 
-4. Zij geven de raad vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 160, eerste lid, onder e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=160&z=2002-10-01&g=2002-10-01), indien de raad daarom verzoekt of indien de uitoefening ingrijpende gevolgen kan hebben voor de gemeente. In het laatste geval neemt het college geen besluit dan nadat de raad zijn wensen en bedenkingen terzake ter kennis van het college heeft kunnen brengen.
+4. Zij geven de raad vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 160, eerste lid, onder e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=160&z=2003-01-01&g=2003-01-01), indien de raad daarom verzoekt of indien de uitoefening ingrijpende gevolgen kan hebben voor de gemeente. In het laatste geval neemt het college geen besluit dan nadat de raad zijn wensen en bedenkingen terzake ter kennis van het college heeft kunnen brengen.
 
 ### Hoofdstuk XI. De bevoegdheid van de burgemeester
 
@@ -1745,7 +1745,7 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 - e. een zorgvuldige behandeling van klachten door het gemeentebestuur.
 
-2. De burgemeester brengt tegelijk met de in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01) bedoelde stukken een burgerjaarverslag uit, waarin hij in ieder geval rapporteert over:
+2. De burgemeester brengt tegelijk met de in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01) bedoelde stukken een burgerjaarverslag uit, waarin hij in ieder geval rapporteert over:
 
 - a. de kwaliteit van de gemeentelijke dienstverlening;
 
@@ -1803,7 +1803,7 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 ##### Artikel 176
 
-1. Wanneer een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2002-10-01&g=2002-10-01), zich voordoet, kan de burgemeester algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.
+1. Wanneer een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2003-01-01&g=2003-01-01), zich voordoet, kan de burgemeester algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.
 
 2. De burgemeester brengt de voorschriften zo spoedig mogelijk ter kennis van de raad, van de commissaris van de Koning en van de officier van justitie, hoofd van het arrondissementsparket.
 
@@ -1815,7 +1815,7 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 6. De commissaris kan de werking van de voorschriften opschorten zolang zij niet bekrachtigd zijn. Het opschorten stuit onmiddellijk de werking van de voorschriften.
 
-7. Zodra een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2002-10-01&g=2002-10-01), zich niet langer voordoet, trekt de burgemeester de voorschriften in. Het tweede lid is van overeenkomstige toepassing.
+7. Zodra een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2003-01-01&g=2003-01-01), zich niet langer voordoet, trekt de burgemeester de voorschriften in. Het tweede lid is van overeenkomstige toepassing.
 
 ##### Artikel 176a
 
@@ -1823,31 +1823,31 @@ Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen 
 
 2. De burgemeester oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
 
-- a. jegens personen die door hem daartoe aangewezen specifieke onderdelen van een bevel als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2002-10-01&g=2002-10-01) of van een algemeen verbindend voorschrift als bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176&z=2002-10-01&g=2002-10-01), groepsgewijs niet naleven, en
+- a. jegens personen die door hem daartoe aangewezen specifieke onderdelen van een bevel als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2003-01-01&g=2003-01-01) of van een algemeen verbindend voorschrift als bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176&z=2003-01-01&g=2003-01-01), groepsgewijs niet naleven, en
 
 - b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
 
-3. [Artikel 154a, derde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing.
+3. [Artikel 154a, derde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 177
 
 1. De burgemeester kan een in de gemeente dienstdoende ambtenaar van politie machtigen in zijn naam besluiten te nemen of andere handelingen te verrichten.
 
-2. Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de [artikelen 151b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2002-10-01&g=2002-10-01), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2002-10-01&g=2002-10-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2002-10-01&g=2002-10-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=173&z=2002-10-01&g=2002-10-01), [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=174&z=2002-10-01&g=2002-10-01), [174a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=174a&z=2002-10-01&g=2002-10-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2002-10-01&g=2002-10-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176&z=2002-10-01&g=2002-10-01) en [176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176a&z=2002-10-01&g=2002-10-01) en tot uitvoering van beslissingen van de raad.
+2. Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de [artikelen 151b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2003-01-01&g=2003-01-01), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2003-01-01&g=2003-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2003-01-01&g=2003-01-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=173&z=2003-01-01&g=2003-01-01), [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=174&z=2003-01-01&g=2003-01-01), [174a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=174a&z=2003-01-01&g=2003-01-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2003-01-01&g=2003-01-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176&z=2003-01-01&g=2003-01-01) en [176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176a&z=2003-01-01&g=2003-01-01) en tot uitvoering van beslissingen van de raad.
 
 ##### Artikel 178
 
 1. De burgemeester kan aan een door hem ingestelde bestuurscommissie en aan de voorzitter van het dagelijks bestuur van een deelgemeente bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
 
-2. De bevoegdheden, bedoeld in de [artikelen 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2002-10-01&g=2002-10-01) en [172 tot en met 176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2002-10-01&g=2002-10-01), kunnen in ieder geval niet worden overgedragen.
+2. De bevoegdheden, bedoeld in de [artikelen 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2003-01-01&g=2003-01-01) en [172 tot en met 176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2003-01-01&g=2003-01-01), kunnen in ieder geval niet worden overgedragen.
 
-3. Ten aanzien van een besluit dat wordt genomen op grond van het eerste lid zijn de [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2002-10-01&g=2002-10-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2002-10-01&g=2002-10-01) van overeenkomstige toepassing.
+3. Ten aanzien van een besluit dat wordt genomen op grond van het eerste lid zijn de [artikelen 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=140&z=2003-01-01&g=2003-01-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=141&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 4. De burgemeester neemt geen besluit op grond van het eerste lid dan nadat de raad een ontwerp-besluit is toegezonden en in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van de burgemeester te brengen.
 
 ##### Artikel 179
 
-De voorschriften met betrekking tot de bevoegdheid van de burgemeester, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=178&z=2002-10-01&g=2002-10-01) overgedragen bevoegdheden van overeenkomstige toepassing.
+De voorschriften met betrekking tot de bevoegdheid van de burgemeester, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=178&z=2003-01-01&g=2003-01-01) overgedragen bevoegdheden van overeenkomstige toepassing.
 
 ##### Artikel 180
 
@@ -1867,19 +1867,43 @@ Vervallen
 
 ##### Artikel 182
 
-Vervallen
+1. De rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door het gemeentebestuur gevoerde bestuur. Een door de rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door het gemeentebestuur gevoerde bestuur bevat geen controle van de jaarrekening als bedoeld in artikel 213, tweede lid.
+
+2. Op verzoek van de raad kan de rekenkamer een onderzoek instellen.
 
 ##### Artikel 183
 
-Vervallen
+1. De rekenkamer is bevoegd alle documenten die berusten bij het gemeentebestuur te onderzoeken voor zover zij dat ter vervulling van haar taak nodig acht.
+
+2. Het gemeentebestuur verstrekt desgevraagd alle inlichtingen die de rekenkamer ter vervulling van haar taak nodig acht.
+
+3. Indien de zorg voor een administratie aan een derde is uitbesteed, is het eerste lid van overeenkomstige toepassing op de administratie van de betrokken derde dan wel van degene die de administratie in opdracht van die derde voert.
 
 ##### Artikel 184
 
-Vervallen
+1. De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode:
+
+- a. openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen, waaraan de gemeente deelneemt, over de jaren dat de gemeente deelneemt in de regeling;
+
+- b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de gemeente meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de gemeente meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;
+
+- c. andere privaatrechtelijke rechtspersonen waaraan de gemeente of een derde voor rekening en risico van de gemeente rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.
+
+2. De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het gemeentebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.
+
+3. De rekenkamer kan, indien de documenten, bedoeld in het tweede lid, daartoe aanleiding geven, bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen. De rekenkamer stelt de raad en het college van haar voornemen een dergelijk onderzoek in te stellen in kennis.
 
 ##### Artikel 185
 
-Vervallen
+1. De rekenkamer legt haar bevindingen en haar oordeel vast in rapporten, met dien verstande dat hierin niet worden opgenomen gegevens en bevindingen die naar hun aard vertrouwelijk zijn.
+
+2. De rekenkamer deelt aan de raad, het college en, indien van toepassing, aan de betrokken rechtspersoon of het betrokken gemeenschappelijk orgaan, de opmerkingen en bedenkingen mee die zij naar aanleiding van haar bevindingen van belang acht. Aan de raad of het college kan zij ter zake voorstellen doen.
+
+3. De rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar.
+
+4. De rekenkamer zendt een afschrift van haar rapporten en haar verslag aan de raad en het college. Indien zij met toepassing van artikel 184 een onderzoek heeft ingesteld, zendt de rekenkamer tevens een afschrift van het rapport aan de betrokken rechtspersoon of het betrokken openbaar lichaam.
+
+5. De rapporten en de verslagen van de rekenkamer zijn openbaar.
 
 ##### Artikel 186
 
@@ -1905,13 +1929,13 @@ Vervallen
 
 3. De raad ziet erop toe dat de begroting in evenwicht is. Hiervan kan hij afwijken indien aannemelijk is dat het evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.
 
-4. Behoudens het bepaalde in de [artikelen 208](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=208&z=2002-10-01&g=2002-10-01) en [209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2002-10-01&g=2002-10-01) kunnen ten laste van de gemeente slechts uitgaven worden gedaan tot de bedragen die hiervoor op de begroting zijn gebracht.
+4. Behoudens het bepaalde in de [artikelen 208](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=208&z=2003-01-01&g=2003-01-01) en [209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2003-01-01&g=2003-01-01) kunnen ten laste van de gemeente slechts uitgaven worden gedaan tot de bedragen die hiervoor op de begroting zijn gebracht.
 
 5. Het begrotingsjaar is het kalenderjaar.
 
 ##### Artikel 190
 
-1. Het college biedt jaarlijks, tijdig voor de in [artikel 191, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2002-10-01&g=2002-10-01), bedoelde vaststelling, de raad een ontwerp aan voor de begroting met toelichting van de gemeente en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
+1. Het college biedt jaarlijks, tijdig voor de in [artikel 191, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2003-01-01&g=2003-01-01), bedoelde vaststelling, de raad een ontwerp aan voor de begroting met toelichting van de gemeente en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
 2. De ontwerp-begroting en de overige in het eerste lid bedoelde stukken liggen, zodra zij aan de raad zijn aangeboden, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven.
 
@@ -1921,13 +1945,13 @@ Vervallen
 
 1. De raad stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
-2. Het college zendt de door de raad vastgestelde begroting vergezeld van de in [artikel 190, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), bedoelde stukken, binnen twee weken na de vaststelling, doch in ieder geval vóór 15 november van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten.
+2. Het college zendt de door de raad vastgestelde begroting vergezeld van de in [artikel 190, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), bedoelde stukken, binnen twee weken na de vaststelling, doch in ieder geval vóór 15 november van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten.
 
 ##### Artikel 192
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
-2. De [artikelen 190, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), en [191, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2002-10-01&g=2002-10-01), alsmede, behoudens in gevallen van dringende spoed, het bepaalde in [artikel 190, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), zijn van overeenkomstige toepassing.
+2. De [artikelen 190, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), en [191, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2003-01-01&g=2003-01-01), alsmede, behoudens in gevallen van dringende spoed, het bepaalde in [artikel 190, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 193
 
@@ -1959,7 +1983,7 @@ Vervallen
 
 1. Het college legt aan de raad over elk begrotingsjaar verantwoording af over het door hem gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
 
-2. Het college voegt daarbij de accountantsverklaring, bedoeld in [artikel 213, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2002-10-01&g=2002-10-01), het verslag van bevindingen, bedoeld in [artikel 213, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2002-10-01&g=2002-10-01), en de verslagen, bedoeld in [artikel 213a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2002-10-01&g=2002-10-01).
+2. Het college voegt daarbij de accountantsverklaring, bedoeld in [artikel 213, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2003-01-01&g=2003-01-01), het verslag van bevindingen, bedoeld in [artikel 213, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2003-01-01&g=2003-01-01), en de verslagen, bedoeld in [artikel 213a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2003-01-01&g=2003-01-01).
 
 3. De in het eerste en tweede lid bedoelde stukken liggen, zodra zij aan de raad zijn overgelegd, voor een ieder ter inzage en zijn algemeenverkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. De raad beraadslaagt over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
 
@@ -1979,11 +2003,11 @@ Behoudens later in rechte gebleken onregelmatigheden, ontlast de vaststelling va
 
 ##### Artikel 200
 
-Het college zendt de vastgestelde jaarrekening, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval voor 15 juli van het jaar, volgend op het begrotingsjaar, aan gedeputeerde staten. Het college voegt daarbij, indien van toepassing, het besluit van de raad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 198, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2002-10-01&g=2002-10-01).
+Het college zendt de vastgestelde jaarrekening, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval voor 15 juli van het jaar, volgend op het begrotingsjaar, aan gedeputeerde staten. Het college voegt daarbij, indien van toepassing, het besluit van de raad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 198, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 201
 
-Indien de raad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het college de jaarrekening, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan gedeputeerde staten.
+Indien de raad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het college de jaarrekening, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan gedeputeerde staten.
 
 ##### Artikel 202
 
@@ -1993,15 +2017,15 @@ Vervallen
 
 ##### Artikel 203
 
-1. De begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2002-10-01&g=2002-10-01), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van gedeputeerde staten, indien naar hun oordeel de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2002-10-01&g=2002-10-01), niet in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2002-10-01&g=2002-10-01), niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Gedeputeerde staten doen hiervan vóór de aanvang van het begrotingsjaar mededeling aan het gemeentebestuur.
+1. De begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2003-01-01&g=2003-01-01), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van gedeputeerde staten, indien naar hun oordeel de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2003-01-01&g=2003-01-01), niet in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2003-01-01&g=2003-01-01), niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Gedeputeerde staten doen hiervan vóór de aanvang van het begrotingsjaar mededeling aan het gemeentebestuur.
 
-2. Gedeputeerde staten kunnen bepalen dat de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2002-10-01&g=2002-10-01), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen hun goedkeuring behoeven, indien:
+2. Gedeputeerde staten kunnen bepalen dat de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2003-01-01&g=2003-01-01), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen hun goedkeuring behoeven, indien:
 
 - a. de jaarrekening van het tweede aan het begrotingsjaar voorafgaande jaar niet in evenwicht is, of
 
-- b. de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2002-10-01&g=2002-10-01), niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2002-10-01&g=2002-10-01), of
+- b. de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2003-01-01&g=2003-01-01), niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2003-01-01&g=2003-01-01), of
 
-- c. de jaarrekening, bedoeld in [artikel 197, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 200, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=200&z=2002-10-01&g=2002-10-01).
+- c. de jaarrekening, bedoeld in [artikel 197, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 200, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=200&z=2003-01-01&g=2003-01-01).
 
 3. Gedeputeerde staten maken een besluit als bedoeld in het tweede lid vóór de aanvang van het begrotingsjaar aan het gemeentebestuur bekend.
 
@@ -2013,7 +2037,7 @@ Vervallen
 
 ##### Artikel 205
 
-1. Gedeputeerde staten stellen Onze Minister uiterlijk een maand na de aanvang van het begrotingsjaar schriftelijk en gemotiveerd in kennis van de mededelingen en besluiten, bedoeld in [artikel 203, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2002-10-01&g=2002-10-01).
+1. Gedeputeerde staten stellen Onze Minister uiterlijk een maand na de aanvang van het begrotingsjaar schriftelijk en gemotiveerd in kennis van de mededelingen en besluiten, bedoeld in [artikel 203, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2003-01-01&g=2003-01-01).
 
 2. Gedeputeerde staten maken bij de aanvang van het desbetreffende begrotingsjaar door publicatie in de **Staatscourant** bekend van welke gemeenten de begrotingen en begrotingswijzigingen hun goedkeuring behoeven.
 
@@ -2047,7 +2071,7 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 210
 
-1. Indien de raad [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2002-10-01&g=2002-10-01) heeft toegepast en gedeputeerde staten hun goedkeuring aan de desbetreffende begroting of begrotingswijziging onthouden, kunnen zij binnen een maand nadat hun besluit onherroepelijk is geworden, de leden van de raad die hun stem vóór het in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2002-10-01&g=2002-10-01) bedoelde besluit hebben uitgebracht, ieder voor een gelijk deel, persoonlijk voor deze uitgaaf aansprakelijk stellen tegenover de gemeente.
+1. Indien de raad [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2003-01-01&g=2003-01-01) heeft toegepast en gedeputeerde staten hun goedkeuring aan de desbetreffende begroting of begrotingswijziging onthouden, kunnen zij binnen een maand nadat hun besluit onherroepelijk is geworden, de leden van de raad die hun stem vóór het in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2003-01-01&g=2003-01-01) bedoelde besluit hebben uitgebracht, ieder voor een gelijk deel, persoonlijk voor deze uitgaaf aansprakelijk stellen tegenover de gemeente.
 
 2. De werking van het besluit tot aansprakelijkstelling wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
@@ -2055,7 +2079,7 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 211
 
-Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2002-10-01&g=2002-10-01), is onderworpen aan goedkeuring, kunnen gedeputeerde staten bepalen dat door hen aan te wijzen beslissingen van het gemeentebestuur die financiële gevolgen voor de gemeente hebben of kunnen hebben, door het college binnen twee weken aan gedeputeerde staten worden toegezonden.
+Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2003-01-01&g=2003-01-01), is onderworpen aan goedkeuring, kunnen gedeputeerde staten bepalen dat door hen aan te wijzen beslissingen van het gemeentebestuur die financiële gevolgen voor de gemeente hebben of kunnen hebben, door het college binnen twee weken aan gedeputeerde staten worden toegezonden.
 
 ### Hoofdstuk XIV. De administratie en de controle
 
@@ -2067,7 +2091,7 @@ Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede li
 
 - a. regels voor waardering en afschrijving van activa;
 
-- b. grondslagen voor de berekening van de door het gemeentebestuur in rekening te brengen prijzen en van tarieven voor rechten als bedoeld in [artikel 229b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229b&z=2002-10-01&g=2002-10-01), alsmede, voor zover deze wordt geheven, voor de heffing bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33);
+- b. grondslagen voor de berekening van de door het gemeentebestuur in rekening te brengen prijzen en van tarieven voor rechten als bedoeld in [artikel 229b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229b&z=2003-01-01&g=2003-01-01), alsmede, voor zover deze wordt geheven, voor de heffing bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33);
 
 - c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie, alsmede inzake de administratieve organisatie van de financieringsfunctie, daaronder begrepen taken en bevoegdheden, de verantwoordingsrelaties en de bijbehorende informatievoorziening.
 
@@ -2075,7 +2099,7 @@ Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede li
 
 1. De raad stelt bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening dient te waarborgen dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
 
-2. De raad wijst een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2002-10-01&g=2002-10-01) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van de bevindingen.
+2. De raad wijst een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2003-01-01&g=2003-01-01) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van de bevindingen.
 
 3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
 
@@ -2083,7 +2107,7 @@ Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede li
 
 - b. de baten en lasten, alsmede de balansmutaties rechtmatig tot stand zijn gekomen en
 
-- c. de jaarrekening is opgesteld in overeenstemming met de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 186](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XII&artikel=186&z=2002-10-01&g=2002-10-01).
+- c. de jaarrekening is opgesteld in overeenstemming met de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 186](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XII&artikel=186&z=2003-01-01&g=2003-01-01).
 
 4. Het verslag van de bevindingen bevat in ieder geval bevindingen over:
 
@@ -2107,11 +2131,11 @@ Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede li
 
 ##### Artikel 214
 
-Het college zendt de verordeningen, bedoeld in de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2002-10-01&g=2002-10-01), [213](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2002-10-01&g=2002-10-01) en [213a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2002-10-01&g=2002-10-01), binnen twee weken na vaststelling door de raad aan gedeputeerde staten.
+Het college zendt de verordeningen, bedoeld in de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2003-01-01&g=2003-01-01), [213](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2003-01-01&g=2003-01-01) en [213a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2003-01-01&g=2003-01-01), binnen twee weken na vaststelling door de raad aan gedeputeerde staten.
 
 ##### Artikel 215
 
-Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2002-10-01&g=2002-10-01).
+Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2003-01-01&g=2003-01-01).
 
 ### Hoofdstuk XV. De gemeentelijke belastingen
 
@@ -2139,9 +2163,9 @@ Vervallen
 
 ##### Artikel 219
 
-1. Behalve de gemeentelijke belastingen waarvan de heffing krachtens andere wetten dan deze geschiedt, worden geen andere belastingen geheven dan die bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2002-10-01&g=2002-10-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2002-10-01&g=2002-10-01).
+1. Behalve de gemeentelijke belastingen waarvan de heffing krachtens andere wetten dan deze geschiedt, worden geen andere belastingen geheven dan die bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2003-01-01&g=2003-01-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2003-01-01&g=2003-01-01).
 
-2. Behoudens het bepaalde in andere wetten dan deze en in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2002-10-01&g=2002-10-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2002-10-01&g=2002-10-01) kunnen de gemeentelijke belastingen worden geheven naar in de belastingverordening te bepalen heffingsmaatstaven, met dien verstande dat het bedrag van een gemeentelijke belasting niet afhankelijk mag worden gesteld van het inkomen, de winst of het vermogen.
+2. Behoudens het bepaalde in andere wetten dan deze en in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2003-01-01&g=2003-01-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2003-01-01&g=2003-01-01) kunnen de gemeentelijke belastingen worden geheven naar in de belastingverordening te bepalen heffingsmaatstaven, met dien verstande dat het bedrag van een gemeentelijke belasting niet afhankelijk mag worden gesteld van het inkomen, de winst of het vermogen.
 
 #### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
 
@@ -2159,23 +2183,23 @@ Met betrekking tot de onroerende-zaakbelastingen wordt als onroerende zaak aange
 
 ##### Artikel 220b
 
-1. Voor de toepassing van [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), wordt:
+1. Voor de toepassing van [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), wordt:
 
-- a. gebruik door de leden van een huishouden aangemerkt als gebruik door een door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden;
+- a. gebruik door de leden van een huishouden aangemerkt als gebruik door een door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden;
 
 - b. gebruik door degene aan wie een deel van een onroerende zaak in gebruik is gegeven, aangemerkt als gebruik door degene die dat deel in gebruik heeft gegeven; degene die het deel in gebruik heeft gegeven is bevoegd de belasting als zodanig te verhalen op degene aan wie dat deel in gebruik is gegeven;
 
 - c. het ter beschikking stellen van een onroerende zaak voor volgtijdig gebruik aangemerkt als gebruik door degene die die onroerende zaak ter beschikking heeft gesteld; degene die de onroerende zaak ter beschikking heeft gesteld is bevoegd de belasting als zodanig te verhalen op degene aan wie die zaak ter beschikking is gesteld.
 
-2. Voor de toepassing van [artikel 220, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), wordt als genothebbende krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de kadastrale registratie is vermeld, tenzij blijkt dat hij op dat tijdstip geen genothebbende krachtens eigendom, bezit of beperkt recht is.
+2. Voor de toepassing van [artikel 220, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), wordt als genothebbende krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de kadastrale registratie is vermeld, tenzij blijkt dat hij op dat tijdstip geen genothebbende krachtens eigendom, bezit of beperkt recht is.
 
 ##### Artikel 220c
 
-De heffingsmaatstaf voor de onroerende-zaakbelastingen is de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor de onroerende zaak vastgestelde waarde voor het tijdvak waarbinnen het in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01) bedoelde kalenderjaar valt.
+De heffingsmaatstaf voor de onroerende-zaakbelastingen is de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor de onroerende zaak vastgestelde waarde voor het tijdvak waarbinnen het in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01) bedoelde kalenderjaar valt.
 
 ##### Artikel 220d
 
-1. In afwijking in zoverre van [artikel 220**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2002-10-01&g=2002-10-01) wordt bij de bepaling van de heffingsmaatstaf voor de onroerende-zaakbelastingen buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in dat artikel bedoelde waarde, de waarde van:
+1. In afwijking in zoverre van [artikel 220**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2003-01-01&g=2003-01-01) wordt bij de bepaling van de heffingsmaatstaf voor de onroerende-zaakbelastingen buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in dat artikel bedoelde waarde, de waarde van:
 
 - a. ten behoeve van de land- of bosbouw bedrijfsmatig geëxploiteerde cultuurgrond, daaronder mede begrepen de open grond, alsmede de ondergrond van glasopstanden, die bedrijfsmatig aangewend wordt voor de kweek of teelt van gewassen, zonder daarbij de ondergrond als voedingsbodem te gebruiken;
 
@@ -2221,11 +2245,11 @@ Vervallen
 
 - c. tijdvak: een tijdvak als bedoeld in [artikel 22, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22);
 
-- d. vastgestelde waarde: de heffingsmaatstaf, bedoeld in [de artikelen 220c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2002-10-01&g=2002-10-01) en [220d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2002-10-01&g=2002-10-01);
+- d. vastgestelde waarde: de heffingsmaatstaf, bedoeld in [de artikelen 220c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2003-01-01&g=2003-01-01) en [220d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2003-01-01&g=2003-01-01);
 
-- e. waarde: de heffingsmaatstaf, bedoeld in [artikel 220d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2002-10-01&g=2002-10-01);
+- e. waarde: de heffingsmaatstaf, bedoeld in [artikel 220d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2003-01-01&g=2003-01-01);
 
-- f. percentage terzake van het kalenderjaar 2000: het percentage berekend volgens de formule: waarbij A voorstelt: de som van de tarieven ter zake van de onroerende-zaakbelastingen, ingevolge [artikel 220, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), zoals vastgesteld ter zake van het kalenderjaar 2000 voor niet-woningen; B voorstelt: de som van de tarieven ter zake van de onroerende-zaakbelastingen, ingevolge [artikel 220, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), zoals vastgesteld ter zake van het kalenderjaar 2000 voor woningen;
+- f. percentage terzake van het kalenderjaar 2000: het percentage berekend volgens de formule: waarbij A voorstelt: de som van de tarieven ter zake van de onroerende-zaakbelastingen, ingevolge [artikel 220, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), zoals vastgesteld ter zake van het kalenderjaar 2000 voor niet-woningen; B voorstelt: de som van de tarieven ter zake van de onroerende-zaakbelastingen, ingevolge [artikel 220, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), zoals vastgesteld ter zake van het kalenderjaar 2000 voor woningen;
 
 | 100 x | A |
 | --- | --- |
@@ -2243,7 +2267,7 @@ Vervallen
 
 ##### Artikel 220g
 
-Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), bedoelde belasting voor onroerende zaken die in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in [artikel 220, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), bedoelde belasting voor die onroerende zaken. Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), bedoelde belasting voor onroerende zaken die niet in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in [artikel 220, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), bedoelde belasting voor die onroerende zaken.
+Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), bedoelde belasting voor onroerende zaken die in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in [artikel 220, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), bedoelde belasting voor die onroerende zaken. Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), bedoelde belasting voor onroerende zaken die niet in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in [artikel 220, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), bedoelde belasting voor die onroerende zaken.
 
 ##### Artikel 220h
 
@@ -2275,7 +2299,7 @@ Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/j
 
 - b. een belasting van degenen die bij het begin van het kalenderjaar van de ruimten het genot hebben krachtens eigendom, bezit of beperkt recht.
 
-2. Bij de toepassing van het eerste lid zijn de [artikelen 220b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220b&z=2002-10-01&g=2002-10-01), [220d tot en met 220i](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2002-10-01&g=2002-10-01)alsmede het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), [19, eerste lid, onderdelen b en c, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=19), en [22, derde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22) van overeenkomstige toepassing.
+2. Bij de toepassing van het eerste lid zijn de [artikelen 220b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220b&z=2003-01-01&g=2003-01-01), [220d tot en met 220i](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2003-01-01&g=2003-01-01)alsmede het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), [19, eerste lid, onderdelen b en c, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=19), en [22, derde lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22) van overeenkomstige toepassing.
 
 3. Het tarief van de in het eerste lid genoemde belastingen is gelijk aan het binnen de gemeente geldende tarief voor de onroerende-zaakbelastingen.
 
@@ -2283,7 +2307,7 @@ Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/j
 
 1. Ter zake van de in een bepaald gedeelte van de gemeente gelegen onroerende zaak die gebaat is door voorzieningen die tot stand worden of zijn gebracht door of met medewerking van het gemeentebestuur, kan van degenen die van die onroerende zaak het genot hebben krachtens eigendom, bezit of beperkt recht, een baatbelasting worden geheven, waarbij de aan de voorzieningen verbonden lasten geheel of gedeeltelijk worden omgeslagen. Indien de aan de voorzieningen verbonden lasten ter zake van een onroerende zaak krachtens overeenkomst zijn of worden voldaan, wordt de baatbelasting ter zake van die onroerende zaak niet geheven.
 
-2. Voordat met het treffen van voorzieningen wordt aangevangen, wordt door de raad besloten in welke mate de aan die voorzieningen verbonden lasten door middel van een baatbelasting zullen worden verhaald. Een besluit als bedoeld in de eerste volzin bevat een aanduiding van het gebied waarbinnen de gebate onroerende zaak is gelegen. Het besluit wordt bekend gemaakt overeenkomstig [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2002-10-01&g=2002-10-01).
+2. Voordat met het treffen van voorzieningen wordt aangevangen, wordt door de raad besloten in welke mate de aan die voorzieningen verbonden lasten door middel van een baatbelasting zullen worden verhaald. Een besluit als bedoeld in de eerste volzin bevat een aanduiding van het gebied waarbinnen de gebate onroerende zaak is gelegen. Het besluit wordt bekend gemaakt overeenkomstig [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=139&z=2003-01-01&g=2003-01-01).
 
 3. Of een onroerende zaak is gebaat wordt beoordeeld naar de toestand op een in de belastingverordening te bepalen tijdstip, dat is gelegen uiterlijk een jaar nadat de voorzieningen geheel zijn voltooid.
 
@@ -2337,7 +2361,7 @@ Het tarief van de in [artikel 220, onderdeel **b**](https://wetten.overheid.nl/j
 
 2. De belasting wordt geheven naar het aantal honden dat wordt gehouden.
 
-3. Voor de toepassing van het eerste lid wordt het houden van een hond door een lid van een huishouden aangemerkt als het houden van een hond door een door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden.
+3. Voor de toepassing van het eerste lid wordt het houden van een hond door een lid van een huishouden aangemerkt als het houden van een hond door een door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden.
 
 ##### Artikel 227
 
@@ -2361,31 +2385,35 @@ Ter zake van het hebben van voorwerpen onder, op of boven voor de openbare diens
 
 - c. het geven van vermakelijkheden waarbij gebruik wordt gemaakt van door of met medewerking van het gemeentebestuur tot stand gebrachte of in stand gehouden voorzieningen of waarbij een bijzondere voorziening in de vorm van toezicht of anderszins van de zijde van het gemeentebestuur getroffen wordt.
 
-2. Voor de toepassing van deze paragraaf en de [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=1&z=2002-10-01&g=2002-10-01) en [vierde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&z=2002-10-01&g=2002-10-01) worden de in het eerste lid bedoelde rechten aangemerkt als gemeentelijke belastingen.
+2. Voor de toepassing van deze paragraaf en de [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=1&z=2003-01-01&g=2003-01-01) en [vierde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&z=2003-01-01&g=2003-01-01) worden de in het eerste lid bedoelde rechten aangemerkt als gemeentelijke belastingen.
 
 ##### Artikel 229a
 
-De rechten, bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01), kunnen worden geheven door de gemeente die het gebruik van de bezittingen, werken of inrichtingen toestaat of de diensten verleent, ongeacht of het belastbare feit zich binnen of buiten het grondgebied van de gemeente voordoet.
+De rechten, bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01), kunnen worden geheven door de gemeente die het gebruik van de bezittingen, werken of inrichtingen toestaat of de diensten verleent, ongeacht of het belastbare feit zich binnen of buiten het grondgebied van de gemeente voordoet.
 
 ##### Artikel 229b
 
-1. In verordeningen op grond waarvan rechten als bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01), worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
+1. In verordeningen op grond waarvan rechten als bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01), worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
 
-2. Onder de in het eerste lid bedoelde lasten worden mede verstaan bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa.
+2. Onder de in het eerste lid bedoelde lasten worden mede verstaan:
+
+- a. bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa;
+
+- b. de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) recht geeft op een bijdrage uit het fonds.
 
 ##### Artikel 229c
 
-Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2002-10-01&g=2002-10-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2002-10-01&g=2002-10-01), nadere regels worden gegeven.
+Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2003-01-01&g=2003-01-01) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2003-01-01&g=2003-01-01), nadere regels worden gegeven.
 
 ##### Artikel 229d
 
 1. De raad kan bepalen dat voor diegenen die bij het begin van het kalenderjaar belastingplichtig zijn voor:
 
-- a. de belasting, bedoeld in [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), of [artikel 221, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=221&z=2002-10-01&g=2002-10-01), steeds voorzover het betreft zaken die geheel of gedeeltelijk tot woning dienen;
+- a. de belasting, bedoeld in [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), of [artikel 221, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=221&z=2003-01-01&g=2003-01-01), steeds voorzover het betreft zaken die geheel of gedeeltelijk tot woning dienen;
 
-- b. een recht op grond van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01), ter zake van het gebruik van de riolering voor de afvoer van huishoudelijk afvalwater;
+- b. een recht op grond van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01), ter zake van het gebruik van de riolering voor de afvoer van huishoudelijk afvalwater;
 
-- c. een recht op grond van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01), dan wel een heffing als bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33) ter zake van het periodiek inzamelen van huishoudelijke afvalstoffen;
+- c. een recht op grond van [artikel 229, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01), dan wel een heffing als bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33) ter zake van het periodiek inzamelen van huishoudelijke afvalstoffen;
 
 het belastingbedrag ter zake van de belastingen, bedoeld in onderdeel a, of de belastingen, bedoeld in de onderdelen b en c, wordt verminderd met ten hoogste € 45,38.
 
@@ -2421,29 +2449,29 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 232
 
-1. Het college kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) voor de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar een andere gemeenteambtenaar in de plaats treedt.
+1. Het college kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) voor de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar een andere gemeenteambtenaar in de plaats treedt.
 
 2. De colleges van twee of meer gemeenten kunnen met betrekking tot een of meer gemeentelijke belastingen bepalen dat ambtenaren van een van die gemeenten worden aangewezen als:
 
-- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
+- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
 
-- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
+- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
 
-- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaren van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
+- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaren van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
 
-- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van die gemeenten, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
+- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van die gemeenten, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
 
 3. Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van de gemeente waarvan de ambtenaar, belast met de invordering van gemeentelijke belastingen op grond van het tweede lid, onderdeel **b**, wordt aangewezen.
 
 4. Indien voor de heffing of de invordering van gemeentelijke belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam wordt aangewezen als:
 
-- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
+- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
 
-- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
+- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
 
-- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaren van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
+- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaren van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
 
-- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
+- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
 
 5. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.
 
@@ -2455,7 +2483,7 @@ Gemeentelijke belastingen kunnen worden geheven bij wege van aanslag, bij wege v
 
 1. Indien de gemeentelijke belastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan daarnaast bepalen dat het college omtrent de uitvoering van een en ander nadere regels geeft.
 
-2. De op andere wijze geheven belastingen worden voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en [artikel 229d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2002-10-01&g=2002-10-01) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
+2. De op andere wijze geheven belastingen worden voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en [artikel 229d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2003-01-01&g=2003-01-01) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
 
 - a. de aanslag, de voorlopige aanslag, de navorderingsaanslag: het gevorderde, onderscheidenlijk het voorlopig gevorderde, het nagevorderde bedrag;
 
@@ -2465,13 +2493,13 @@ Gemeentelijke belastingen kunnen worden geheven bij wege van aanslag, bij wege v
 
 ##### Artikel 234
 
-1. De belasting, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2002-10-01&g=2002-10-01), wordt geheven bij wege van voldoening op aangifte dan wel op andere wijze.
+1. De belasting, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2003-01-01&g=2003-01-01), wordt geheven bij wege van voldoening op aangifte dan wel op andere wijze.
 
 2. Als voldoening op aangifte wordt uitsluitend aangemerkt:
 
 - a. het bij de aanvang van het parkeren in werking stellen van een parkeermeter of een parkeerautomaat op de daartoe bestemde wijze en met inachtneming van de door het college gestelde voorschriften;
 
-- b. indien ingevolge [artikel 235, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=235&z=2002-10-01&g=2002-10-01), een wielklem is aangebracht, de voldoening op aangifte op de door het college bepaalde wijze.
+- b. indien ingevolge [artikel 235, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=235&z=2003-01-01&g=2003-01-01), een wielklem is aangebracht, de voldoening op aangifte op de door het college bepaalde wijze.
 
 3. Ten aanzien van de in het tweede lid, onder **a**, bedoelde voldoening op aangifte is bezwaar op grond van [artikel 24 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24) niet mogelijk.
 
@@ -2497,7 +2525,7 @@ Vervallen
 
 ##### Artikel 235
 
-1. Bij de belastingverordening, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2002-10-01&g=2002-10-01), kan worden bepaald dat terstond nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel terstond nadat het aanslagbiljet, overeenkomstig [artikel 234, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=234&z=2002-10-01&g=2002-10-01), aan het voertuig is aangebracht, de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar bevoegd is tot zekerheid van de betaling van de naheffingsaanslag, bedoeld in [artikel 234, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=234&z=2002-10-01&g=2002-10-01), aan het voertuig een mechanisch hulpmiddel, hierna te noemen: wielklem, te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden.
+1. Bij de belastingverordening, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2003-01-01&g=2003-01-01), kan worden bepaald dat terstond nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel terstond nadat het aanslagbiljet, overeenkomstig [artikel 234, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=234&z=2003-01-01&g=2003-01-01), aan het voertuig is aangebracht, de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar bevoegd is tot zekerheid van de betaling van de naheffingsaanslag, bedoeld in [artikel 234, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=234&z=2003-01-01&g=2003-01-01), aan het voertuig een mechanisch hulpmiddel, hierna te noemen: wielklem, te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden.
 
 2. Bij de belastingverordening dan wel krachtens de belastingverordening in de daarin aangewezen gevallen door het college worden de terreinen of weggedeelten aangewezen waar de wielklem wordt toegepast.
 
@@ -2505,15 +2533,15 @@ Vervallen
 
 4. De wielklem wordt niet verwijderd dan nadat de naheffingsaanslag alsmede de kosten van het aanbrengen en van het verwijderen van de wielklem zijn voldaan. Na deze voldoening vindt de verwijdering van de wielklem zo spoedig mogelijk plaats.
 
-5. Na afloop van een in de belastingverordening te bepalen termijn, die ten minste 24 uren bedraagt na aanbrenging van de wielklem, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar bevoegd het voertuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Ter zake van de in de eerste volzin bedoelde overbrenging en bewaring wordt procesverbaal opgemaakt en worden kosten in rekening gebracht.
+5. Na afloop van een in de belastingverordening te bepalen termijn, die ten minste 24 uren bedraagt na aanbrenging van de wielklem, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar bevoegd het voertuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Ter zake van de in de eerste volzin bedoelde overbrenging en bewaring wordt procesverbaal opgemaakt en worden kosten in rekening gebracht.
 
-6. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar draagt er zorg voor dat in een daartoe aangelegd register aantekening wordt gemaakt van de gevallen waarin de in het vijfde lid bedoelde bevoegdheid wordt uitgeoefend.
+6. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar draagt er zorg voor dat in een daartoe aangelegd register aantekening wordt gemaakt van de gevallen waarin de in het vijfde lid bedoelde bevoegdheid wordt uitgeoefend.
 
-7. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar draagt zorg voor de bewaring van de ingevolge het vijfde lid in bewaring gestelde voertuigen.
+7. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar draagt zorg voor de bewaring van de ingevolge het vijfde lid in bewaring gestelde voertuigen.
 
-8. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar geeft het voertuig terug aan de rechthebbende, nadat de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring zijn voldaan.
+8. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar geeft het voertuig terug aan de rechthebbende, nadat de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring zijn voldaan.
 
-9. Wanneer het voertuig binnen 48 uren na het in bewaring stellen niet is afgehaald, geeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar zo mogelijk binnen zeven dagen van de overbrenging en bewaring kennis:
+9. Wanneer het voertuig binnen 48 uren na het in bewaring stellen niet is afgehaald, geeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar zo mogelijk binnen zeven dagen van de overbrenging en bewaring kennis:
 
 - a. indien het voertuig een motorrijtuig is, dat een kenteken voert als bedoeld in [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), aan degene aan wie dat kenteken is opgegeven;
 
@@ -2523,13 +2551,13 @@ Vervallen
 
 10. De kosten van opsporing van degene aan wie de kennisgeving wordt gezonden en die van het doen van de kennisgeving worden voor de toepassing van dit artikel gerekend tot de kosten van overbrenging en bewaring.
 
-11. Wanneer het voertuig binnen drie maanden na het in bewaring stellen niet is afgehaald, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar bevoegd het te verkopen of, indien verkoop naar hun oordeel niet mogelijk is, het voertuig om niet aan een derde in eigendom over te dragen of te laten vernietigen. Gelijke bevoegdheid heeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar ook binnen die termijn, zodra het gezamenlijke bedrag van de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring, vermeerderd met de voor de verkoop, de eigendomsoverdracht om niet of de vernietiging geraamde kosten, in verhouding tot de waarde van het voertuig naar zijn mening onevenredig hoog zou worden. Verkoop, eigendomsoverdracht om niet of vernietiging vindt niet plaats binnen twee weken nadat de kennisgeving als bedoeld in het negende lid is uitgegaan. Voor de toepassing van de volgende leden worden de kosten van verkoop, eigendomsoverdracht om niet of vernietiging gerekend tot de kosten van overbrenging en bewaring.
+11. Wanneer het voertuig binnen drie maanden na het in bewaring stellen niet is afgehaald, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar bevoegd het te verkopen of, indien verkoop naar hun oordeel niet mogelijk is, het voertuig om niet aan een derde in eigendom over te dragen of te laten vernietigen. Gelijke bevoegdheid heeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar ook binnen die termijn, zodra het gezamenlijke bedrag van de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring, vermeerderd met de voor de verkoop, de eigendomsoverdracht om niet of de vernietiging geraamde kosten, in verhouding tot de waarde van het voertuig naar zijn mening onevenredig hoog zou worden. Verkoop, eigendomsoverdracht om niet of vernietiging vindt niet plaats binnen twee weken nadat de kennisgeving als bedoeld in het negende lid is uitgegaan. Voor de toepassing van de volgende leden worden de kosten van verkoop, eigendomsoverdracht om niet of vernietiging gerekend tot de kosten van overbrenging en bewaring.
 
 12. Gedurende drie jaren na het tijdstip van de verkoop heeft degene, die op dat tijdstip eigenaar was, recht op de opbrengst van het voertuig, met dien verstande dat eerst de kosten van het aanbrengen en verwijderen van de wielklem en van het overbrengen en bewaren van het voertuig en vervolgens de naheffingsaanslag met die opbrengst worden verrekend. Na het verstrijken van die termijn vervalt het eventueel batige saldo aan de gemeente.
 
 13. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van berekening van de kosten van het aanbrengen en verwijderen van de wielklem en van het overbrengen en bewaren van het voertuig. In de belastingverordening wordt bepaald tot welke bedragen de kosten in rekening worden gebracht.
 
-14. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar stelt het bedrag van de in rekening te brengen kosten vast bij voor bezwaar vatbare beschikking.
+14. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar stelt het bedrag van de in rekening te brengen kosten vast bij voor bezwaar vatbare beschikking.
 
 15. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de overbrenging, bewaring, verkoop, eigendomsoverdracht om niet en vernietiging, het inrichten en aanhouden van het in het zesde lid bedoelde register, alsmede omtrent hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
 
@@ -2537,7 +2565,7 @@ Vervallen
 
 ##### Artikel 236
 
-Bij de heffing van gemeentelijke belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van gemeentelijke belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) buiten toepassing.
+Bij de heffing van gemeentelijke belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van gemeentelijke belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) buiten toepassing.
 
 ##### Artikel 237
 
@@ -2545,13 +2573,13 @@ Bij de heffing van gemeentelijke belastingen blijven de [artikelen 2, vierde lid
 
 2. Het doen van aangifte, bedoeld in [artikel 8 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.
 
-3. In afwijking in zoverre van de vorige leden kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:
+3. In afwijking in zoverre van de vorige leden kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:
 
-- a. worden de door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar gevraagde bescheiden overgelegd;
+- a. worden de door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar gevraagde bescheiden overgelegd;
 
-- b. kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.
+- b. kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.
 
-4. Indien het derde lid toepassing vindt, kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar voor de termijnen, genoemd in [artikel 9, eerste lid en derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) of voor de kortere termijn, bedoeld in [artikel 238, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=238&z=2002-10-01&g=2002-10-01), kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) niet van toepassing.
+4. Indien het derde lid toepassing vindt, kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar voor de termijnen, genoemd in [artikel 9, eerste lid en derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) of voor de kortere termijn, bedoeld in [artikel 238, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=238&z=2003-01-01&g=2003-01-01), kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) niet van toepassing.
 
 5. Bij de belastingverordening kan van het eerste en tweede lid worden afgeweken.
 
@@ -2563,7 +2591,7 @@ Bij de heffing van gemeentelijke belastingen blijven de [artikelen 2, vierde lid
 
 ##### Artikel 239
 
-1. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
+1. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
 
 2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
@@ -2573,15 +2601,15 @@ Vervallen
 
 ##### Artikel 241
 
-Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de onroerende-zaakbelastingen als tegen een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing van de onroerende-zaakbelastingen als voor de vaststelling van de waarde op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&z=2002-10-01&g=2002-10-01), de termijn waarbinnen de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking in zoverre van [artikel 25, eerste lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), op het tijdstip waarop de op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&z=2002-10-01&g=2002-10-01) gegeven beschikking onherroepelijk is komen vast te staan.
+Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de onroerende-zaakbelastingen als tegen een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing van de onroerende-zaakbelastingen als voor de vaststelling van de waarde op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&z=2003-01-01&g=2003-01-01), de termijn waarbinnen de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking in zoverre van [artikel 25, eerste lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), op het tijdstip waarop de op de voet van genoemd [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&z=2003-01-01&g=2003-01-01) gegeven beschikking onherroepelijk is komen vast te staan.
 
 ##### Artikel 242
 
-1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf, kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of is toegezonden, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar.
+1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf, kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of is toegezonden, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar.
 
 2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
-3. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar beslist op de aanvraag bij voor bezwaar vatbare beschikking.
+3. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar beslist op de aanvraag bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 243
 
@@ -2589,7 +2617,7 @@ In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Ministe
 
 ##### Artikel 244
 
-Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar ook een in de belastingverordening voorziene vrijstelling ambtshalve verlenen.
+Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar ook een in de belastingverordening voorziene vrijstelling ambtshalve verlenen.
 
 ##### Artikel 245
 
@@ -2619,7 +2647,7 @@ Vervallen
 
 ##### Artikel 249
 
-Bij de invordering van gemeentelijke belastingen blijven van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) buiten toepassing de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5),, [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2002-10-01&g=2002-10-01)[21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21)[59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69). Bij de invordering van gemeentelijke belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7), en [8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) buiten toepassing.
+Bij de invordering van gemeentelijke belastingen blijven van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) buiten toepassing de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21)[59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69). Bij de invordering van gemeentelijke belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7), en [8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) buiten toepassing.
 
 ##### Artikel 250
 
@@ -2641,7 +2669,7 @@ Vervallen
 
 ##### Artikel 252
 
-De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van gemeentelijke belastingen op de voet van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) gestelde termijn, dan wel de krachtens [artikel 250, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=250&z=2002-10-01&g=2002-10-01), gestelde termijn nog niet is verstreken.
+De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van gemeentelijke belastingen op de voet van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) gestelde termijn, dan wel de krachtens [artikel 250, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=250&z=2003-01-01&g=2003-01-01), gestelde termijn nog niet is verstreken.
 
 ##### Artikel 253
 
@@ -2661,7 +2689,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](https://wetten.o
 
 ##### Artikel 255
 
-1. De in [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde kwijtschelding wordt met betrekking tot gemeentelijke belastingen verleend door de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2002-10-01&g=2002-10-01), bedoelde gemeenteambtenaar.
+1. De in [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde kwijtschelding wordt met betrekking tot gemeentelijke belastingen verleend door de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2003-01-01&g=2003-01-01), bedoelde gemeenteambtenaar.
 
 2. Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.
 
@@ -2673,9 +2701,9 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](https://wetten.o
 
 ##### Artikel 255a
 
-1. De raad kan bepalen dat indien ter zake van de in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2002-10-01&g=2002-10-01), bedoelde belastingen, het op de voet van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=255&z=2002-10-01&g=2002-10-01) kwijt te schelden bedrag lager is dan het bedrag dat zou zijn kwijtgescholden indien de vermindering, bedoeld in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2002-10-01&g=2002-10-01), niet was toegepast, het verschil tussen die bedragen door de gemeenteambtenaar belast met de invordering van gemeentelijke belastingen bij een voor administratief beroep bij het college vatbare beschikking wordt vastgesteld en aan degene die om kwijtschelding verzoekt wordt uitbetaald.
+1. De raad kan bepalen dat indien ter zake van de in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2003-01-01&g=2003-01-01), bedoelde belastingen, het op de voet van [artikel 255](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=255&z=2003-01-01&g=2003-01-01) kwijt te schelden bedrag lager is dan het bedrag dat zou zijn kwijtgescholden indien de vermindering, bedoeld in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2003-01-01&g=2003-01-01), niet was toegepast, het verschil tussen die bedragen door de gemeenteambtenaar belast met de invordering van gemeentelijke belastingen bij een voor administratief beroep bij het college vatbare beschikking wordt vastgesteld en aan degene die om kwijtschelding verzoekt wordt uitbetaald.
 
-2. De raad kan het eerste lid ook van toepassing verklaren als het bedrag van de vermindering, bedoeld in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2002-10-01&g=2002-10-01), is verdisconteerd in de tarieven van de in dat artikellid, onderdelen b en c, bedoelde belastingen.
+2. De raad kan het eerste lid ook van toepassing verklaren als het bedrag van de vermindering, bedoeld in [artikel 229d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229d&z=2003-01-01&g=2003-01-01), is verdisconteerd in de tarieven van de in dat artikellid, onderdelen b en c, bedoelde belastingen.
 
 ##### Artikel 256
 
@@ -2683,7 +2711,7 @@ Indien ter zake van een gemeentelijke belasting exploot moet worden gedaan, een 
 
 ##### Artikel 257
 
-Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01), nadere, zo nodig afwijkende, regels worden gegeven inzake de heffing en de invordering, alsmede inzake alle gemeentelijke belastingen andere in het kader van deze paragraaf passende nadere regels ter aanvulling van de in deze paragraaf geregelde onderwerpen.
+Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01), nadere, zo nodig afwijkende, regels worden gegeven inzake de heffing en de invordering, alsmede inzake alle gemeentelijke belastingen andere in het kader van deze paragraaf passende nadere regels ter aanvulling van de in deze paragraaf geregelde onderwerpen.
 
 ##### Artikel 258
 
@@ -2805,7 +2833,7 @@ Het gemeentebestuur neemt opnieuw een besluit omtrent het onderwerp van het vern
 
 ##### Artikel 281a
 
-1. In afwijking van [artikel 8:4, onderdeel **a**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 268, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=268&z=2002-10-01&g=2002-10-01), dan wel tegen een vernietigingsbesluit als bedoeld in de [artikelen 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2002-10-01&g=2002-10-01), en [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=84&z=2002-10-01&g=2002-10-01), beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State;[artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing
+1. In afwijking van [artikel 8:4, onderdeel **a**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 268, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=268&z=2003-01-01&g=2003-01-01), dan wel tegen een vernietigingsbesluit als bedoeld in de [artikelen 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=83&z=2003-01-01&g=2003-01-01), en [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=1&artikel=84&z=2003-01-01&g=2003-01-01), beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State;[artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing
 
 2. In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:2) kan geen beroep worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.
 
@@ -2855,19 +2883,19 @@ De gemeentewet (**Stb.** 1931, 89) wordt ingetrokken.
 
 2. Besluiten als bedoeld in het eerste lid die algemeen verbindende voorschriften bevatten waarvan de inhoud in strijd is met deze wet, worden binnen twee jaar na de datum van inwerkingtreding van deze wet daarmee in overeenstemming gebracht of ingetrokken. De besluiten, of onderdelen daarvan, die bij het verstrijken van de in de vorige volzin genoemde termijn niet met deze wet in overeenstemming zijn gebracht of zijn ingetrokken, zijn van rechtswege vervallen.
 
-3. Besluiten van gedeputeerde staten, bedoeld in [artikel 100, eerste lid van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&artikel=100&z=2002-10-01&g=2002-10-01) vervallen van rechtswege op de dag waarop deze wet in werking treedt.
+3. Besluiten van gedeputeerde staten, bedoeld in [artikel 100, eerste lid van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2003-01-01&g=2003-01-01) vervallen van rechtswege op de dag waarop deze wet in werking treedt.
 
-4. Niettemin blijven gedeputeerde staten na de inwerkingtreding van deze wet bevoegd de jaarwedde van wethouders over de periode voorafgaand aan de inwerkingtreding van deze wet vast te stellen overeenkomstig [artikel 100, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&artikel=100&z=2002-10-01&g=2002-10-01).
+4. Niettemin blijven gedeputeerde staten na de inwerkingtreding van deze wet bevoegd de jaarwedde van wethouders over de periode voorafgaand aan de inwerkingtreding van deze wet vast te stellen overeenkomstig [artikel 100, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2003-01-01&g=2003-01-01).
 
-5. Het derde en het vierde lid zijn van overeenkomstige toepassing op jaarwedden van gemeentesecretarissen, bedoeld in [artikel 111, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2002-10-01&g=2002-10-01).
+5. Het derde en het vierde lid zijn van overeenkomstige toepassing op jaarwedden van gemeentesecretarissen, bedoeld in [artikel 111, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 291
 
-Ten aanzien van de bij de inwerkingtreding van deze wet zitting hebbende leden van de raad en wethouders zijn tot hun aftreden de [artikelen, 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2002-10-01&g=2002-10-01), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=45&z=2002-10-01&g=2002-10-01) slechts van toepassing voor zover de gemeentewet ter zake eveneens een verbod inhield.
+Ten aanzien van de bij de inwerkingtreding van deze wet zitting hebbende leden van de raad en wethouders zijn tot hun aftreden de [artikelen, 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-01-01&g=2003-01-01), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=45&z=2003-01-01&g=2003-01-01) slechts van toepassing voor zover de gemeentewet ter zake eveneens een verbod inhield.
 
 ##### Artikel 292
 
-In afwijking van [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=89&z=2002-10-01&g=2002-10-01), is [artikel 13, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=13&z=2002-10-01&g=2002-10-01), met betrekking tot bij de inwerkingtreding van deze wet bestaande commissies eerst van overeenkomstige toepassing ten aanzien van leden die zijn benoemd verklaard na de tweede verkiezing van de commissie die na de inwerkingtreding van deze wet wordt gehouden.
+In afwijking van [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&paragraaf=2&artikel=89&z=2003-01-01&g=2003-01-01), is [artikel 13, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=13&z=2003-01-01&g=2003-01-01), met betrekking tot bij de inwerkingtreding van deze wet bestaande commissies eerst van overeenkomstige toepassing ten aanzien van leden die zijn benoemd verklaard na de tweede verkiezing van de commissie die na de inwerkingtreding van deze wet wordt gehouden.
 
 ##### Artikel 293
 
@@ -2883,7 +2911,7 @@ Aanwijzingen als bedoeld in artikel 2, tweede lid, van de gemeentewet, blijven v
 
 ##### Artikel 296
 
-De [artikelen 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2002-10-01&g=2002-10-01), en [66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=66&z=2002-10-01&g=2002-10-01), treden in werking op de dag van het eerste periodieke aftreden van de wethouders na de inwerkingtreding van deze wet.
+De [artikelen 44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2003-01-01&g=2003-01-01), en [66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=66&z=2003-01-01&g=2003-01-01), treden in werking op de dag van het eerste periodieke aftreden van de wethouders na de inwerkingtreding van deze wet.
 
 ##### Artikel 297
 
@@ -2891,15 +2919,15 @@ Verzoeken tot ontheffing en om toestemming als bedoeld in de artikelen 81 en 82 
 
 ##### Artikel 298
 
-Ten aanzien van degenen die op de dag van inwerkingtreding van deze wet het ambt van burgemeester vervullen is tot het eerste periodieke aftreden van de wethouders na de inwerkingtreding van deze wet [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=68&z=2002-10-01&g=2002-10-01) slechts van toepassing voor zover de gemeentewet ter zake een verbod inhield.
+Ten aanzien van degenen die op de dag van inwerkingtreding van deze wet het ambt van burgemeester vervullen is tot het eerste periodieke aftreden van de wethouders na de inwerkingtreding van deze wet [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=68&z=2003-01-01&g=2003-01-01) slechts van toepassing voor zover de gemeentewet ter zake een verbod inhield.
 
 ##### Artikel 299
 
-1. Ten aanzien van verplichtingen als bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), die gelden op de dag voor die van de inwerkingtreding van deze wet, vangt de termijn, bedoeld in [artikel 110, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), aan op de dag na die van de inwerkingtreding.
+1. Ten aanzien van verplichtingen als bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), die gelden op de dag voor die van de inwerkingtreding van deze wet, vangt de termijn, bedoeld in [artikel 110, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), aan op de dag na die van de inwerkingtreding.
 
-2. [Artikel 110, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), is niet van toepassing op verplichtingen als bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), die zijn genoemd in de bijlage, behorende bij deze wet.
+2. [Artikel 110, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), is niet van toepassing op verplichtingen als bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), die zijn genoemd in de bijlage, behorende bij deze wet.
 
-3. Ten aanzien van voorschriften als bedoeld in [artikel 110, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2002-10-01&g=2002-10-01), die gelden op de dag voor die van de inwerkingtreding van deze wet, vangt de termijn genoemd in dat lid, aan op de dag na die van de inwerkingtreding.
+3. Ten aanzien van voorschriften als bedoeld in [artikel 110, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2003-01-01&g=2003-01-01), die gelden op de dag voor die van de inwerkingtreding van deze wet, vangt de termijn genoemd in dat lid, aan op de dag na die van de inwerkingtreding.
 
 ##### Artikel 299a
 
@@ -2911,7 +2939,7 @@ Vervallen
 
 ##### Artikel 300
 
-[Artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=153&z=2002-10-01&g=2002-10-01) is niet van toepassing op beroepschriften die zijn ingediend voor de inwerkingtreding van deze wet.
+[Artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=153&z=2003-01-01&g=2003-01-01) is niet van toepassing op beroepschriften die zijn ingediend voor de inwerkingtreding van deze wet.
 
 ##### Artikel 300a
 
@@ -2923,7 +2951,7 @@ Vervallen
 
 ##### Artikel 301
 
-De in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=150&z=2002-10-01&g=2002-10-01) bedoelde verordening wordt vastgesteld binnen een jaar na de dag van inwerkingtreding van deze wet.
+De in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=150&z=2003-01-01&g=2003-01-01) bedoelde verordening wordt vastgesteld binnen een jaar na de dag van inwerkingtreding van deze wet.
 
 ##### Artikel 302
 
@@ -2935,21 +2963,21 @@ Voor bij koninklijk besluit aan te wijzen begrotingsjaren blijven de artikelen 2
 
 ##### Artikel 304
 
-1. Onverminderd het bepaalde in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2002-10-01&g=2002-10-01), blijven besluiten inzake gemeentelijke belastingverordeningen als bedoeld in [artikel 216 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=1&artikel=216&z=2002-10-01&g=2002-10-01), van toepassing met betrekking tot de heffing over voordien aangevangen belastingjaren of zich voordien voorgedaan hebbende belastbare feiten.
+1. Onverminderd het bepaalde in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2003-01-01&g=2003-01-01), blijven besluiten inzake gemeentelijke belastingverordeningen als bedoeld in [artikel 216 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=1&artikel=216&z=2003-01-01&g=2003-01-01), van toepassing met betrekking tot de heffing over voordien aangevangen belastingjaren of zich voordien voorgedaan hebbende belastbare feiten.
 
-2. In afwijking van het bepaalde in [290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2002-10-01&g=2002-10-01), vervallen de besluiten inzake gemeentelijke belastingverordeningen, bedoeld in de artikelen 273a en 274 van de gemeentewet, bij het verstrijken van de termijn die daarvoor in de desbetreffende belastingverordening is gesteld. Het eerste lid is hierbij van overeenkomstige toepassing.
+2. In afwijking van het bepaalde in [290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2003-01-01&g=2003-01-01), vervallen de besluiten inzake gemeentelijke belastingverordeningen, bedoeld in de artikelen 273a en 274 van de gemeentewet, bij het verstrijken van de termijn die daarvoor in de desbetreffende belastingverordening is gesteld. Het eerste lid is hierbij van overeenkomstige toepassing.
 
-3. In afwijking van het bepaalde in [290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2002-10-01&g=2002-10-01), vervallen besluiten inzake gemeentelijke belastingverordeningen als bedoeld in artikel 280 van de gemeentewet, zoals deze luidde voor de inwerkingtreding van de Wet van 24 december 1970 tot wijziging van de bepalingen inzake gemeentelijke en provinciale belastingen (Stb. 608), waarvan de heffing tot een bepaalde termijn is beperkt en waarvoor de mogelijkheid tot afkoop is gegeven, bij het verstrijken van de termijn die daarvoor in de desbetreffende belastingverordening is gesteld. Het eerste lid is hierbij van overeenkomstige toepassing.
+3. In afwijking van het bepaalde in [290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2003-01-01&g=2003-01-01), vervallen besluiten inzake gemeentelijke belastingverordeningen als bedoeld in artikel 280 van de gemeentewet, zoals deze luidde voor de inwerkingtreding van de Wet van 24 december 1970 tot wijziging van de bepalingen inzake gemeentelijke en provinciale belastingen (Stb. 608), waarvan de heffing tot een bepaalde termijn is beperkt en waarvoor de mogelijkheid tot afkoop is gegeven, bij het verstrijken van de termijn die daarvoor in de desbetreffende belastingverordening is gesteld. Het eerste lid is hierbij van overeenkomstige toepassing.
 
-4. Gemeentelijke verordeningen betreffende onroerende-zaakbelastingen, bedoeld in artikel 273, eerste lid, onder a en b, van de gemeentewet, moeten uiterlijk met ingang van 1 januari 1994 zijn aangepast aan [artikel 220, achtste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2002-10-01&g=2002-10-01).
+4. Gemeentelijke verordeningen betreffende onroerende-zaakbelastingen, bedoeld in artikel 273, eerste lid, onder a en b, van de gemeentewet, moeten uiterlijk met ingang van 1 januari 1994 zijn aangepast aan [artikel 220, achtste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2003-01-01&g=2003-01-01).
 
-5. Gemeentelijke verordeningen betreffende leges of rechten, bedoeld in artikel 277, eerste lid, onder a, b 1e, b 2e of b 4e, van de gemeentewet, moeten uiterlijk met ingang van 1 januari 1994 zijn aangepast aan [artikel 229 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2002-10-01&g=2002-10-01). Voor zover de in de vorige volzin bedoelde verordeningen voor 1 januari 1994 nog niet zijn aangepast aan deze wet, blijft tot dat tijdstip artikel 279 van de gemeentewet van toepassing, zoals dit luidde voor de wijziging van de gemeentewet bij de Wet van 3 juli 1989 (**Stb.** 302).
+5. Gemeentelijke verordeningen betreffende leges of rechten, bedoeld in artikel 277, eerste lid, onder a, b 1e, b 2e of b 4e, van de gemeentewet, moeten uiterlijk met ingang van 1 januari 1994 zijn aangepast aan [artikel 229 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2003-01-01&g=2003-01-01). Voor zover de in de vorige volzin bedoelde verordeningen voor 1 januari 1994 nog niet zijn aangepast aan deze wet, blijft tot dat tijdstip artikel 279 van de gemeentewet van toepassing, zoals dit luidde voor de wijziging van de gemeentewet bij de Wet van 3 juli 1989 (**Stb.** 302).
 
 ##### Artikel 305
 
-1. Met betrekking tot besluiten als bedoeld in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2002-10-01&g=2002-10-01), en [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=304&z=2002-10-01&g=2002-10-01), blijven titel VI van de tweede afdeling, eerste en tweede hoofdstuk van de gemeentewet, alsmede de op die hoofdstukken berustende uitvoeringsvoorschriften van kracht gedurende de in die artikelen bedoelde termijn.
+1. Met betrekking tot besluiten als bedoeld in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=290&z=2003-01-01&g=2003-01-01), en [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=304&z=2003-01-01&g=2003-01-01), blijven titel VI van de tweede afdeling, eerste en tweede hoofdstuk van de gemeentewet, alsmede de op die hoofdstukken berustende uitvoeringsvoorschriften van kracht gedurende de in die artikelen bedoelde termijn.
 
-2. Met betrekking tot besluiten als bedoeld in [artikel 304, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=304&z=2002-10-01&g=2002-10-01), blijven de bepalingen uit de gemeentewet zoals deze luidde voor de inwerkingtreding van de Wet van 24 december 1970 (**Stb.** 608) van kracht gedurende de in dat artikel bedoelde termijn.
+2. Met betrekking tot besluiten als bedoeld in [artikel 304, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=304&z=2003-01-01&g=2003-01-01), blijven de bepalingen uit de gemeentewet zoals deze luidde voor de inwerkingtreding van de Wet van 24 december 1970 (**Stb.** 608) van kracht gedurende de in dat artikel bedoelde termijn.
 
 ##### Artikel 305a
 
@@ -2957,7 +2985,7 @@ Vervallen
 
 ##### Artikel 306
 
-De [artikelen 262 tot en met 266](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVI&artikel=262&z=2002-10-01&g=2002-10-01) zijn niet van toepassing op aan voorafgaand toezicht onderworpen besluiten die zijn genomen voor de inwerkingtreding van deze wet. Ten aanzien van die besluiten blijven de op de dag voor de inwerkingtreding van deze wet geldende wettelijke bepalingen van kracht.
+De [artikelen 262 tot en met 266](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVI&artikel=262&z=2003-01-01&g=2003-01-01) zijn niet van toepassing op aan voorafgaand toezicht onderworpen besluiten die zijn genomen voor de inwerkingtreding van deze wet. Ten aanzien van die besluiten blijven de op de dag voor de inwerkingtreding van deze wet geldende wettelijke bepalingen van kracht.
 
 ##### Artikel 307
 
@@ -3019,7 +3047,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ## Titel IV. De financiën van de gemeente
 
-### Hoofdstuk XII. Algemene bepalingen
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
 
 ### Hoofdstuk XIII. De begroting en de jaarrekening
 
@@ -3060,6 +3088,300 @@ Wet Waterhuishouding (TK, 1986-1987, 17 367, nr. 8)
 ### Ministerie van Onderwijs en Wetenschappen
 
 Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2002-10-01&g=2002-10-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765), [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=7)
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 81a
+
+1. De raad kan een rekenkamer instellen.
+
+2. Indien de raad een rekenkamer instelt, zijn de navolgende artikelen van dit hoofdstuk alsmede hoofdstuk XIa van toepassing.
+
+3. Indien de raad geen rekenkamer instelt, is hoofdstuk IVb van toepassing.
+
+##### Artikel 81b
+
+De raad stelt het aantal leden van de rekenkamer vast.
+
+##### Artikel 81c
+
+1. De raad benoemt de leden van de rekenkamer voor de duur van zes jaar.
+
+2. Indien de rekenkamer uit twee of meer leden bestaat, benoemt de raad uit de leden de voorzitter.
+
+3. De raad kan plaatsvervangende leden benoemen. Indien de rekenkamer uitéé n lid bestaat, benoemt de raad in ieder geval een plaatsvervangend lid. Deze paragraaf is op plaatsvervangende leden van overeenkomstige toepassing.
+
+4. De raad kan een lid herbenoemen.
+
+5. Voorafgaand aan de benoemingen, bedoeld in het eerste tot en met het vierde lid, pleegt de raad overleg met de rekenkamer.
+
+6. Een lid van de rekenkamer wordt door de raad ontslagen:
+
+- a. op eigen verzoek;
+
+- b. bij de aanvaarding van een functie die onverenigbaar is met het lidmaatschap;
+
+- c. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- d. indien hij bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld;
+
+- e. indien hij naar het oordeel van de raad ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
+
+7. Een lid van de rekenkamer kan door de raad worden ontslagen:
+
+- a. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
+
+- b. indien hij handelt in strijd met artikel 81h.
+
+##### Artikel 81d
+
+1. De raad stelt een lid van de rekenkamer op non-activiteit indien:
+
+- a. hij zich in voorlopige hechtenis bevindt;
+
+- b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
+
+2. De raad kan een lid van de rekenkamer op non-activiteit stellen, indien tegen hem een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden vermeld in artikel 81c, zesde lid, onder a, en zevende lid, onder a, zouden kunnen leiden.
+
+3. De raad beëindigt de non-activiteit zodra de grond voor de maatregel is vervallen, met dien verstande dat in een geval als bedoeld in het tweede lid de non-activiteit in ieder geval eindigt na zes maanden. In dat geval kan de raad de maatregel telkens voor ten hoogste drie maanden verlengen.
+
+##### Artikel 81e
+
+Artikel 12 is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+##### Artikel 81f
+
+1. Een lid van de rekenkamer is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. lid van gedeputeerde staten;
+
+- i. griffier der staten;
+
+- j. lid van de raad;
+
+- k. burgemeester van de betrokken gemeente;
+
+- l. wethouder van de betrokken gemeente;
+
+- m. lid van een deelraad van de betrokken gemeente;
+
+- n. lid van het dagelijks bestuur van een deelgemeente van de betrokken gemeente;
+
+- o. lid van een commissie van de betrokken gemeente;
+
+- p. ambtenaar, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt;
+
+- q. ambtenaar, door of vanwege het Rijk of de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
+
+- r. functionaris die krachtens de wet of een algemene maatregel van bestuur het gemeentebestuur van advies dient.
+
+2. In afwijking van het eerste lid, aanhef en onder p, kan een lid van de rekenkamer tevens zijn:
+
+- a. ambtenaar van de burgerlijke stand;
+
+- b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht;
+
+- c. ambtenaar werkzaam voor een school voor openbaar onderwijs.
+
+##### Artikel 81g
+
+Alvorens hun functie te kunnen uitoefenen, leggen de leden van de rekenkamer in de vergadering van de raad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+
+«Ik zweer (verklaar) dat ik, om tot lid van de rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de rekenkamer naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God almachtig!»
+
+(«Dat verklaar en beloof ik!»)
+
+##### Artikel 81h
+
+Artikel 15, eerste en tweede lid, is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+##### Artikel 81i
+
+1. De rekenkamer stelt een reglement van orde voor haar werkzaamheden vast en, indien zij uit twee of meer personen bestaat, tevens voor haar vergaderingen.
+
+2. De rekenkamer zendt het reglement ter kennisneming aan de raad en maakt het bekend op de in artikel 139, tweede lid, bedoelde wijze.
+
+##### Artikel 81j
+
+1. De raad stelt, na overleg met de rekenkamer, de rekenkamer de nodige middelen ter beschikking voor een goede uitoefening van haar werkzaamheden.
+
+2. Op voordracht van de voorzitter of het enige lid van de rekenkamer benoemt het college zoveel ambtenaren van de rekenkamer als nodig zijn voor een goede uitoefening van haar werkzaamheden.
+
+3. De ambtenaren die werkzaamheden verrichten voor de rekenkamer, verrichten niet tevens werkzaamheden voor een ander orgaan van de gemeente.
+
+4. De ambtenaren die werkzaamheden verrichten voor de rekenkamer, zijn ter zake van die werkzaamheden uitsluitend verantwoording schuldig aan de rekenkamer.
+
+##### Artikel 81k
+
+De leden van de rekenkamer ontvangen een bij verordening van de raad vastgestelde vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+##### Artikel 81l
+
+1. In afwijking van artikel 81a kan de raad met de raad of de raden van een of meer andere gemeenten met toepassing van de artikelen 1 en 8, tweede lid, van de Wet gemeenschappelijke regelingen een gemeenschappelijke rekenkamer instellen. De artikelen 10, tweede en derde lid, 10a, 11, 15, 16, 17, 20, derde lid, 21, 22, 23, 30 en 33 van die wet zijn niet van toepassing.
+
+2. Ten aanzien van het vaststellen van de begroting en de rekening zijn van overeenkomstige toepassing de regels welke bij of krachtens de wet zijn gesteld voor het toezicht daarop, zoals die gelden voor de deelnemende gemeenten afzonderlijk.
+
+##### Artikel 81m
+
+1. De artikelen 81b tot en met 81f, 81h, 81i en 81j, eerste, derde en vierde lid, zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de artikelen 81b tot en met 81d, 81i, tweede lid, en 81j, eerste lid, voor «de raad» telkens wordt gelezen: de raden van de deelnemende gemeenten gezamenlijk.
+
+2. Artikel 81g is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «de raad» wordt gelezen: de raad van de gemeente die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, is aangewezen.
+
+##### Artikel 81n
+
+In de regeling waarbij de gemeenschappelijke rekenkamer wordt ingesteld, worden ten minste regels gesteld over:
+
+- a. de benoeming, op voordracht van de voorzitter of het enige lid van de rekenkamer, van de ambtenaren die nodig zijn voor een goede uitoefening van de werkzaamheden van de rekenkamer;
+
+- b. de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en de tegemoetkoming in de kosten.
+
+##### Artikel 81o
+
+1. Als geen rekenkamer is ingesteld als bedoeld in [hoofdstuk IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&z=2003-01-01&g=2003-01-01), stelt de raad bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.
+
+2. De [artikelen 182](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XIa&artikel=182&z=2003-01-01&g=2003-01-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XIa&artikel=185&z=2003-01-01&g=2003-01-01) zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.
+
+3. Op personen die de rekenkamerfunctie uitoefenen, is [artikel 81f, behoudens het eerste lid, onder j en o](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81f&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
+
+### Hoofdstuk V. De commissies
+
+#### Paragraaf 1. Commissies
+
+#### Paragraaf 2. Deelgemeenten
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. De secretaris
+
+#### Paragraaf 3. De griffier
+
+##### Artikel 107a
+
+1. De griffier staat de raad en de door de raad ingestelde commissies bij de uitoefening van hun taak terzijde.
+
+2. De raad stelt in een instructie nadere regels over de taak en de bevoegdheden van de griffier.
+
+##### Artikel 107b
+
+De griffier is in de vergadering van de raad aanwezig.
+
+##### Artikel 107c
+
+De stukken die van de raad uitgaan, worden door de griffier medeondertekend.
+
+##### Artikel 107d
+
+1. De raad regelt de vervanging van de griffier.
+
+2. De artikelen 101 en 107 tot en met 107c zijn van overeenkomstige toepassing op degene die de griffier vervangt.
+
+##### Artikel 107e
+
+1. De raad kan regels stellen over de organisatie van de griffie.
+
+2. De raad is bevoegd de op de griffie werkzame ambtenaren te benoemen, te schorsen en te ontslaan.
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2003-01-01&g=2003-01-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+Wet Waterhuishouding (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Onderwijs en Wetenschappen
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2003-01-01&g=2003-01-01), die voorkomen in de volgende wetten:
 
 ### Ministerie van Binnenlandse Zaken
 
