@@ -118,7 +118,3 @@ Besluit:
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
-
-##### Artikel 4a. Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
-
-Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening, bedoeld in artikel [48b van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=48b), is [artikel 3, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016980&artikel=3&z=2008-01-01&g=2007-01-01), van overeenkomstige toepassing.
