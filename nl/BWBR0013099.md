@@ -4,7 +4,7 @@ identifier: "BWBR0013099"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2004-07-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013099"
 soort: "wet"
@@ -169,7 +169,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 1. Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-2. Degenen die ingevolge [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0013099&artikel=X&z=2004-07-01&g=2004-07-01) zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris en de daarbij behorende onkostenvergoeding voor zolang zij:
+2. Degenen die ingevolge [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0013099&artikel=X&z=2005-01-01&g=2005-01-01) zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris en de daarbij behorende onkostenvergoeding voor zolang zij:
 
 - a. zijn benoemd als coördinerend vice-president senior van dat gerecht; of
 
@@ -198,8 +198,6 @@ Het archief van een kantongerecht wordt van rechtswege overgedragen aan de recht
 ##### Artikel XVIII
 
 Wijzigt de Wet op de rechterlijke organisatie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
