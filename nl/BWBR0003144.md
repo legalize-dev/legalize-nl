@@ -4,7 +4,7 @@ identifier: "BWBR0003144"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2003-02-05"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003144"
 soort: "AMvB"
@@ -58,7 +58,7 @@ ondernemer: degene te wiens naam het vissersvaartuig in het visserijregister, be
 
 motorvermogen: maximaal continue vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW, dat de hoofdmotor of hoofdmotoren zonder overbelasting gedurende onbeperkte tijdsduur kan onderscheidenlijk kunnen leveren, hetwelk is vastgelegd in een door de fabrikant ten behoeve van de hoofdmotor of hoofdmotoren afgegeven:
 
-- a. afnameprotocol, dat door de Scheepvaartinspectie of door een bij besluit van de Staatssecretaris van Verkeer en Waterstaat van 12 september 1972 (**Stb.** 512) aangewezen particulier onderzoekingsbureau is medeondertekend, of
+- a. afnameprotocol, dat door de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat of door een bij besluit van de Staatssecretaris van Verkeer en Waterstaat van 12 september 1972 (**Stb.** 512) aangewezen particulier onderzoekingsbureau is medeondertekend, of
 
 - b. verklaring inzake het maximaal continue-vermogen voor zover het in onderdeel **a** genoemde afnameprotocol alleen het afgestelde motorvermogen vermeldt;
 
@@ -96,7 +96,7 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2003-02-05&g=2003-02-05), bedoelde regelen kunnen betrekking hebben op:
+1. De in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), bedoelde regelen kunnen betrekking hebben op:
 
 - a. het instellen van gesloten gebieden;
 
@@ -116,11 +116,11 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 - i. het uitzaaien of uitzetten van schelpdieren van de krachtens [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1) aangewezen soorten.
 
-2. Indien de in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2003-02-05&g=2003-02-05), bedoelde regelen een verbod tot het verrichten van bepaalde handelingen inhouden, kan worden bepaald, dat het verbod niet geldt voor degene, die voorzien is van een vergunning van Onze Minister.
+2. Indien de in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), bedoelde regelen een verbod tot het verrichten van bepaalde handelingen inhouden, kan worden bepaald, dat het verbod niet geldt voor degene, die voorzien is van een vergunning van Onze Minister.
 
 3. Aan een vergunning, als bedoeld in het vorige lid, kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend. Zij kan worden ingetrokken.
 
-4. Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2003-02-05&g=2003-02-05), niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.
+4. Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01), niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.
 
 ##### Artikel 5
 
@@ -156,7 +156,7 @@ Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medew
 
 - a. het in de licentie vermelde motorvermogen hoger is dan 1471 kW en de licentie voor dat gedeelte niet meer geldig is op grond van artikel 7**a**, aanhef en onderdeel **b**, van de Beschikking visserijlicentie (**Stcrt.** 1984, 253), voor zover dat gedeelte vóór 25 februari 1987 door aankoop is verkregen, ten hoogste tot het aankoopbedrag daarvan;
 
-- b. de ondernemer als rechtstreeks gevolg van het verbod van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2003-02-05&g=2003-02-05) een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
+- b. de ondernemer als rechtstreeks gevolg van het verbod van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2004-11-01&g=2004-11-01) een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
 
 - 1°. de kiel op 25 september 1987 nog niet is gelegd of
 
