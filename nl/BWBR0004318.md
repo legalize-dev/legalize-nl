@@ -204,15 +204,3 @@ Deze wet kan worden aangehaald als:
 Wet openbare manifestaties.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Paragraaf VI. Bonaire, Sint Eustatius en Saba
-
-##### Artikel 12
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat telkens wordt gelezen voor:
-
-- a. gemeenteraad: eilandraad;
-
-- b. burgemeester: gezaghebber.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
