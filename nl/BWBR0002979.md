@@ -208,13 +208,3 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 Deze wet kan worden aangehaald als "Wet schadefonds geweldsmisdrijven".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-1. Een ieder die in Nederland zijn gewone verblijfplaats heeft en die na 1 januari 2006 in een andere Lid-Staat van de Europese Unie slachtoffer is geworden van een opzettelijk gepleegd geweldsmisdrijf, kan een verzoek om een uitkering door de desbetreffende Lid-Staat indienen bij het fonds.
-
-2. Het fonds zendt een verzoek tot uitkering zo spoedig mogelijk door aan de bevoegde instantie van de desbetreffende Lid-Staat.
-
-3. Bij algemene maatregel van bestuur worden regels gesteld omtrent het indienen van een verzoek om uitkering en de procedure van afhandeling daarvan.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
