@@ -4,7 +4,7 @@ identifier: "BWBR0010577"
 country: "nl"
 rank: "wet"
 publication_date: "2003-05-23"
-last_updated: "2000-04-03"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010577"
 soort: "wet"
@@ -80,6 +80,8 @@ die is ingediend voor de datum van inwerkingtreding van de desbetreffende bepali
 2. Ten aanzien van ambtshalve te nemen besluiten krachtens de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) waarvan het ontwerp ter inzage is gelegd voor de datum van inwerkingtreding van de desbetreffende bepalingen van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
 
 3. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen ingevolge [artikel 2a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=2a), [4a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=4a), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=9), of [36e, vierde lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=36e), zoals die bepalingen luidden voor de inwerkingtreding van deze wet, tegen een besluit dat voor die datum is bekendgemaakt, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
+
+4. Voor de toepassing van [artikel 24 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=24) gelden de onderdelen van een planologische kernbeslissing, een streekplan of een structuurplan, die zijn aan te merken als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), als een concrete beleidsbeslissing, wanneer het ontwerp van een dergelijk plan voor 3 april 2000 ter inzage is gelegd.
 
 ##### Artikel VII
 
