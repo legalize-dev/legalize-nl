@@ -4,7 +4,7 @@ identifier: "BWBR0017750"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2004-01-01"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017750"
 soort: "wet"
@@ -43,15 +43,15 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel V
 
@@ -59,7 +59,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VII
 
@@ -67,7 +67,7 @@ Wijzigt de Wijzigingswet van enkele belastingwetten (herstel van enige onjuisthe
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2004.
 
 ##### Artikel VIIIa
 
@@ -75,4 +75,20 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+2. [Artikel I, onderdelen A, D, E, L en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=I&z=2005-03-01&g=2005-03-01), werkt terug tot en met 1 januari 2001.
+
+3. [Artikel V, onderdelen E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=V&z=2005-03-01&g=2005-03-01) werkt terug tot en met 1 januari 2003.
+
+4. [Artikel I, onderdelen C, K, N, O, en P](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=I&z=2005-03-01&g=2005-03-01), [artikel V, onderdelen H, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=V&z=2005-03-01&g=2005-03-01), en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=VII&z=2005-03-01&g=2005-03-01) en [artikel VIIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=VIIIa&z=2005-03-01&g=2005-03-01) werken terug tot en met 1 januari 2004.
+
+5. [Artikel I, onderdelen B en M](https://wetten.overheid.nl/jci1.3:c:BWBR0017750&artikel=I&z=2005-03-01&g=2005-03-01), werkt terug tot en met 1 januari 2005.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten bijstellingen alsmede technische en redactionele verbeteringen aan te brengen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
