@@ -4,7 +4,7 @@ identifier: "BWBR0007657"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2002-09-01"
+last_updated: "2003-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007657"
 soort: "wet"
@@ -128,7 +128,7 @@ De omstandigheid dat de koper van effecten zich bij de koop heeft verbonden tot 
 
 2. Het eerste lid is niet van toepassing indien:
 
-- a. de aan te bieden effecten zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs, of aannemelijk is dat zij daartoe spoedig zullen worden toegelaten;
+- a. de aan te bieden effecten zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs, of aannemelijk is dat zij daartoe spoedig zullen worden toegelaten;
 
 - b. ter zake van een aanbod een prospectus algemeen verkrijgbaar is dat voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels, mits daarnaar in elke schriftelijke bekendmaking van het aanbod wordt verwezen;
 
@@ -146,13 +146,13 @@ De omstandigheid dat de koper van effecten zich bij de koop heeft verbonden tot 
 
 ##### Artikel 4
 
-1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15).
 
 2. Aan een vrijstelling en aan een ontheffing kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
 ##### Artikel 5
 
-1. Instellingen te wier laste in of vanuit Nederland buiten een besloten kring effecten zijn uitgegeven, zonder dat daartoe effecten behoren die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs, stellen omtrent hun bedrijf informatie algemeen verkrijgbaar, voor zover deze verplichting niet reeds voortvloeit uit boek 2 van het Burgerlijk Wetboek. Deze informatie alsmede de wijze van verkrijgbaarstelling ervan dienen te voldoen aan bij of krachtens algemene maatregel van bestuur te stellen regels en heeft betrekking op periodieke verslaggeving inzake de financiële positie van de uitgevende instelling alsmede op feiten omtrent de uitgevende instelling waarvan een aanzienlijke invloed op de koers van de effecten van de uitgevende instelling kan uitgaan.
+1. Instellingen te wier laste in of vanuit Nederland buiten een besloten kring effecten zijn uitgegeven, zonder dat daartoe effecten behoren die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs, stellen omtrent hun bedrijf informatie algemeen verkrijgbaar, voor zover deze verplichting niet reeds voortvloeit uit boek 2 van het Burgerlijk Wetboek. Deze informatie alsmede de wijze van verkrijgbaarstelling ervan dienen te voldoen aan bij of krachtens algemene maatregel van bestuur te stellen regels en heeft betrekking op periodieke verslaggeving inzake de financiële positie van de uitgevende instelling alsmede op feiten omtrent de uitgevende instelling waarvan een aanzienlijke invloed op de koers van de effecten van de uitgevende instelling kan uitgaan.
 
 2. Onze Minister kan van de op grond van het eerste lid gestelde regels vrijstelling of, op verzoek, ontheffing verlenen.
 
@@ -162,7 +162,7 @@ De omstandigheid dat de koper van effecten zich bij de koop heeft verbonden tot 
 
 ##### Artikel 6
 
-1. Indien Onze Minister vaststelt dat een instelling te wier laste effecten zijn uitgegeven die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs zich niet houdt of heeft gehouden aan de regels van de effectenbeurs waaraan die instelling in verband met die toelating is onderworpen, vestigt hij daarop de aandacht van de houder van die effectenbeurs. Zonodig doet Onze Minister deze mededeling vergezeld gaan van dan wel volgen door een aanwijzing met betrekking tot een door deze jegens de instelling te volgen gedragslijn met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
+1. Indien Onze Minister vaststelt dat een instelling te wier laste effecten zijn uitgegeven die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs zich niet houdt of heeft gehouden aan de regels van de effectenbeurs waaraan die instelling in verband met die toelating is onderworpen, vestigt hij daarop de aandacht van de houder van die effectenbeurs. Zonodig doet Onze Minister deze mededeling vergezeld gaan van dan wel volgen door een aanwijzing met betrekking tot een door deze jegens de instelling te volgen gedragslijn met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
 2. De houder van de effectenbeurs volgt de in het eerste lid bedoelde aanwijzing op binnen een door Onze Minister te bepalen termijn.
 
@@ -170,7 +170,7 @@ De omstandigheid dat de koper van effecten zich bij de koop heeft verbonden tot 
 
 ##### Artikel 6a
 
-1. Het is verboden een openbaar bod te doen op effecten die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs of geregeld worden verhandeld in Nederland.
+1. Het is verboden een openbaar bod te doen op effecten die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs of geregeld worden verhandeld in Nederland.
 
 2. Het eerste lid is niet van toepassing indien terzake van het openbaar bod een biedingsbericht algemeen verkrijgbaar is dat voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels, mits daarnaar in elke bekendmaking van het openbaar bod wordt verwezen.
 
@@ -186,7 +186,7 @@ Indien de bieder zijn openbaar bod gestand heeft gedaan, is het hem gedurende ee
 
 ##### Artikel 6c
 
-1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), en [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), en [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2003-01-15&g=2003-01-15).
 
 2. Aan een vrijstelling en aan een ontheffing kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
@@ -260,9 +260,9 @@ Indien de bieder zijn openbaar bod gestand heeft gedaan, is het hem gedurende ee
 
 ##### Artikel 8
 
-1. Indien een andere lid-staat de richtlijn beleggingsdiensten of de richtlijn kapitaaltoereikendheid niet of onvolledig heeft uitgevoerd, kan Onze Minister bepalen dat [artikel 7, tweede lid, aanhef en onder i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), niet van toepassing is op effecteninstellingen die in die andere lid-staat zijn gevestigd.
+1. Indien een andere lid-staat de richtlijn beleggingsdiensten of de richtlijn kapitaaltoereikendheid niet of onvolledig heeft uitgevoerd, kan Onze Minister bepalen dat [artikel 7, tweede lid, aanhef en onder i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), niet van toepassing is op effecteninstellingen die in die andere lid-staat zijn gevestigd.
 
-2. Met ingang van het tijdstip waarop de maatregel, bedoeld in het eerste lid, ten aanzien van een lid-staat wordt ingetrokken, wordt ten aanzien van een in die lid-staat gevestigde effecteninstelling die op dat moment het beroep of bedrijf van effecteninstelling door middel van een bijkantoor of door middel van het verrichten van diensten in Nederland uitoefent en die daarvoor een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), heeft verkregen, geacht te zijn voldaan aan [artikel 7, tweede lid, onderdeel i, onder 2° en 3°, onderscheidenlijk onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01). De aan de effecteninstelling verleende vergunning vervalt op dat tijdstip van rechtswege.
+2. Met ingang van het tijdstip waarop de maatregel, bedoeld in het eerste lid, ten aanzien van een lid-staat wordt ingetrokken, wordt ten aanzien van een in die lid-staat gevestigde effecteninstelling die op dat moment het beroep of bedrijf van effecteninstelling door middel van een bijkantoor of door middel van het verrichten van diensten in Nederland uitoefent en die daarvoor een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), heeft verkregen, geacht te zijn voldaan aan [artikel 7, tweede lid, onderdeel i, onder 2° en 3°, onderscheidenlijk onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15). De aan de effecteninstelling verleende vergunning vervalt op dat tijdstip van rechtswege.
 
 ##### Artikel 9
 
@@ -270,7 +270,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. Onze Minister kan vrijstelling verlenen van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan vrijstelling verlenen van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15).
 
 2. Aan een vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
@@ -278,7 +278,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Een effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend, houdt zich aan bij of krachtens algemene maatregel van bestuur te stellen regels ten aanzien van:
+1. Een effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend, houdt zich aan bij of krachtens algemene maatregel van bestuur te stellen regels ten aanzien van:
 
 - a. deskundigheid en betrouwbaarheid;
 
@@ -296,11 +296,11 @@ Vervallen
 
 3. Onze Minister kan, op verzoek, bepalen dat een effecteninstelling niet behoeft te voldoen aan alle in het eerste lid bedoelde regels indien de aanvrager aantoont dat daaraan redelijkerwijs niet volledig kan worden voldaan en dat de doeleinden die deze wet beoogt te bereiken anderszins voldoende zijn bereikt. Onze Minister kan een besluit als bedoeld in de vorige volzin wijzigen of intrekken indien naar zijn oordeel de omstandigheden waaronder het besluit is genomen zodanig zijn gewijzigd dat het besluit in strijd is met het belang van een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
-4. het ‘”het” moet zijn “Het”.eerste en derde lid zijn van overeenkomstige toepassing op een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01).
+4. het ‘”het” moet zijn “Het”.eerste en derde lid zijn van overeenkomstige toepassing op een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 11a
 
-1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend, legt binnen zes maanden na afloop van het boekjaar een jaarrekening als bedoeld in artikel 361, eerste lid, van boek 2 van het Burgerlijk Wetboek over aan Onze Minister.
+1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend, legt binnen zes maanden na afloop van het boekjaar een jaarrekening als bedoeld in artikel 361, eerste lid, van boek 2 van het Burgerlijk Wetboek over aan Onze Minister.
 
 2. De effecteninstelling doet de jaarrekening, bedoeld in het eerste lid, vergezeld gaan van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Deze accountant staat niet in dienstbetrekking tot de betrokken effecteninstelling.
 
@@ -318,11 +318,11 @@ Vervallen
 
 5. De accountant die op grond van het derde of vierde lid tot een melding aan Onze Minister is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat, gelet op alle feiten en omstandigheden, in redelijkheid niet tot melding had mogen worden overgegaan.
 
-6. Het derde tot en met vijfde lid zijn van overeenkomstige toepassing op een niet in Nederland gevestigde effecteninstelling die op grond van de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), een jaarrekening overlegt die is onderzocht door een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+6. Het derde tot en met vijfde lid zijn van overeenkomstige toepassing op een niet in Nederland gevestigde effecteninstelling die op grond van de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), een jaarrekening overlegt die is onderzocht door een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 ##### Artikel 12
 
-1. Indien Onze Minister vaststelt dat een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), de in Nederland op de instelling van toepassing zijnde regels betreffende het toezicht niet of niet volledig naleeft, vestigt hij daarop de aandacht van die instelling.
+1. Indien Onze Minister vaststelt dat een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), de in Nederland op de instelling van toepassing zijnde regels betreffende het toezicht niet of niet volledig naleeft, vestigt hij daarop de aandacht van die instelling.
 
 2. Zonodig doet Onze Minister de mededeling, bedoeld in het eerste lid, vergezeld gaan van dan wel volgen door een aanwijzing om binnen een door hem te bepalen termijn ten aanzien van met name aan te geven punten een bepaalde gedragslijn te volgen.
 
@@ -334,7 +334,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend en die voornemens is met betrekking tot een of meer van de in deel B van de bijlage bij de richtlijn beleggingsdiensten genoemde instrumenten het beroep of bedrijf van effecteninstelling uit te oefenen door middel van een bijkantoor in een andere lid-staat, dient daartoe bij Onze Minister een aanvraag in. Het is de effecteninstelling verboden om aan haar voornemen gevolg te geven voordat zij van de toezichthoudende autoriteit van de lid-staat, bedoeld in het tweede lid, onder **a**, een mededeling heeft ontvangen die ertoe strekt dat met de werkzaamheden kan worden aangevangen dan wel, indien die mededeling uitblijft, er twee maanden zijn verstreken nadat de bekendmaking, bedoeld in het derde lid, door de effecteninstelling werd ontvangen.
+1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend en die voornemens is met betrekking tot een of meer van de in deel B van de bijlage bij de richtlijn beleggingsdiensten genoemde instrumenten het beroep of bedrijf van effecteninstelling uit te oefenen door middel van een bijkantoor in een andere lid-staat, dient daartoe bij Onze Minister een aanvraag in. Het is de effecteninstelling verboden om aan haar voornemen gevolg te geven voordat zij van de toezichthoudende autoriteit van de lid-staat, bedoeld in het tweede lid, onder **a**, een mededeling heeft ontvangen die ertoe strekt dat met de werkzaamheden kan worden aangevangen dan wel, indien die mededeling uitblijft, er twee maanden zijn verstreken nadat de bekendmaking, bedoeld in het derde lid, door de effecteninstelling werd ontvangen.
 
 2. De aanvraag, bedoeld in het eerste lid, geschiedt onder opgave van:
 
@@ -348,11 +348,11 @@ Vervallen
 
 3. Onze Minister doet binnen drie maanden na ontvangst van de aanvraag, bedoeld in het eerste lid, aan de toezichthoudende autoriteit van de lid-staat, bedoeld in het tweede lid, onder **a**, mededeling van de gegevens, bedoeld in het tweede lid, onder **b** tot en met **d**, alsmede van gegevens omtrent de toepasselijkheid van een garantieregeling op de verplichtingen van het bijkantoor. Onze Minister maakt deze mededeling aan de effecteninstelling bekend.
 
-4. Indien Onze Minister van oordeel is dat de effecteninstelling, gelet op de werkzaamheden die zij door middel van het bijkantoor voornemens is te verrichten, redelijkerwijs niet zal kunnen voldoen aan de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), of indien de effecteninstelling is uitgezonderd van het toepassingsgebied van de richtlijn beleggingsdiensten, laat hij de in het derde lid bedoelde mededeling achterwege. Onze Minister maakt dit besluit binnen drie maanden na ontvangst van de aanvraag, bedoeld in het eerste lid, aan de effecteninstelling bekend.
+4. Indien Onze Minister van oordeel is dat de effecteninstelling, gelet op de werkzaamheden die zij door middel van het bijkantoor voornemens is te verrichten, redelijkerwijs niet zal kunnen voldoen aan de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), of indien de effecteninstelling is uitgezonderd van het toepassingsgebied van de richtlijn beleggingsdiensten, laat hij de in het derde lid bedoelde mededeling achterwege. Onze Minister maakt dit besluit binnen drie maanden na ontvangst van de aanvraag, bedoeld in het eerste lid, aan de effecteninstelling bekend.
 
 5. Indien zich een wijziging voordoet van de gegevens, bedoeld in het tweede lid, onder **b** tot en met **d**, of van de gegevens omtrent de toepasselijkheid van een garantieregeling, bedoeld in het derde lid, of indien het voornemen bestaat om het verrichten van werkzaamheden door middel van het bijkantoor te staken, stelt de effecteninstelling Onze Minister en de toezichthoudende autoriteit van de lid-staat, bedoeld in het tweede lid, onder **a**, daarvan ten minste een maand voor de wijziging ingaat onderscheidenlijk het voornemen wordt uitgevoerd, schriftelijk in kennis.
 
-6. Indien Onze Minister van oordeel is dat de effecteninstelling, gelet op de werkzaamheden die zij door middel van het bijkantoor verricht, redelijkerwijs niet langer zal kunnen voldoen aan de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), kan hij de effecteninstelling een aanwijzing geven om binnen een door hem te bepalen termijn ten aanzien van met name aan te geven punten een bepaalde gedragslijn te volgen.
+6. Indien Onze Minister van oordeel is dat de effecteninstelling, gelet op de werkzaamheden die zij door middel van het bijkantoor verricht, redelijkerwijs niet langer zal kunnen voldoen aan de regels, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), kan hij de effecteninstelling een aanwijzing geven om binnen een door hem te bepalen termijn ten aanzien van met name aan te geven punten een bepaalde gedragslijn te volgen.
 
 7. Indien Onze Minister niet binnen de door hem in de aanwijzing bepaalde termijn een hem bevredigend antwoord van de effecteninstelling heeft ontvangen of indien naar zijn oordeel niet of onvoldoende aan de door hem gegeven aanwijzing gevolg is gegeven, trekt hij de mededeling, bedoeld in het derde lid, in. Onze Minister maakt deze intrekking aan de effecteninstelling bekend.
 
@@ -360,7 +360,7 @@ Vervallen
 
 ##### Artikel 14
 
-1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend en die voornemens is met betrekking tot een of meer van de in deel B van de bijlage bij de richtlijn beleggingsdiensten genoemde instrumenten het beroep of bedrijf van effecteninstelling uit te oefenen, anders dan door middel van een bijkantoor, in een andere lid-staat, dient daartoe bij Onze Minister een aanvraag in. Het is de effecteninstelling verboden om aan haar voornemen gevolg te geven zolang de bekendmaking, bedoeld in het derde lid, niet is gedaan.
+1. Een in Nederland gevestigde effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend en die voornemens is met betrekking tot een of meer van de in deel B van de bijlage bij de richtlijn beleggingsdiensten genoemde instrumenten het beroep of bedrijf van effecteninstelling uit te oefenen, anders dan door middel van een bijkantoor, in een andere lid-staat, dient daartoe bij Onze Minister een aanvraag in. Het is de effecteninstelling verboden om aan haar voornemen gevolg te geven zolang de bekendmaking, bedoeld in het derde lid, niet is gedaan.
 
 2. De aanvraag, bedoeld in het eerste lid, geschiedt onder opgave van:
 
@@ -378,13 +378,13 @@ Vervallen
 
 2. Zonodig doet Onze Minister de mededeling, bedoeld in het eerste lid, vergezeld gaan van dan wel volgen door een aanwijzing om binnen een door hem te bepalen termijn ten aanzien van met name aan te geven punten een bepaalde gedragslijn te volgen.
 
-3. Indien Onze Minister niet binnen de door hem in de aanwijzing bepaalde termijn een hem bevredigend antwoord van de effecteninstelling heeft ontvangen of indien naar zijn oordeel niet of onvoldoende aan de door hem gegeven aanwijzing gevolg is gegeven, trekt Onze Minister de mededeling, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2002-09-01&g=2002-09-01), of [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=14&z=2002-09-01&g=2002-09-01), in. Onze Minister maakt deze intrekking aan de effecteninstelling bekend.
+3. Indien Onze Minister niet binnen de door hem in de aanwijzing bepaalde termijn een hem bevredigend antwoord van de effecteninstelling heeft ontvangen of indien naar zijn oordeel niet of onvoldoende aan de door hem gegeven aanwijzing gevolg is gegeven, trekt Onze Minister de mededeling, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2003-01-15&g=2003-01-15), of [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=14&z=2003-01-15&g=2003-01-15), in. Onze Minister maakt deze intrekking aan de effecteninstelling bekend.
 
 #### § 3. Gekwalificeerde deelnemingen in effecteninstellingen
 
 ##### Artikel 16
 
-1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar, een gekwalificeerde deelneming te houden, te verwerven of te vergroten in een effecteninstelling waaraan een vergunning is verleend op grond van [artikel 7, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen in een instelling als hiervoor bedoeld.
+1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar, een gekwalificeerde deelneming te houden, te verwerven of te vergroten in een effecteninstelling waaraan een vergunning is verleend op grond van [artikel 7, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen in een instelling als hiervoor bedoeld.
 
 2. Het eerste lid is niet van toepassing op een handeling als bedoeld in het eerste lid waarvoor ingevolge de Wet toezicht kredietwezen 1992 een verklaring van geen bezwaar is verleend.
 
@@ -410,7 +410,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. De houder van een verklaring van geen bezwaar die is verleend op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), waarvan tenminste één dochtermaatschappij een effecteninstelling is waaraan een vergunning is verleend als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), houdt zich aan bij of krachtens algemene maatregel van bestuur te stellen regels om te voorkomen dat de handeling waarvoor de verklaring van geen bezwaar is verleend, zou leiden of zou kunnen leiden tot een invloed op de betrokken effecteninstelling die in strijd is met een gezonde of prudente bedrijfsvoering van die instelling.
+1. De houder van een verklaring van geen bezwaar die is verleend op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), waarvan tenminste één dochtermaatschappij een effecteninstelling is waaraan een vergunning is verleend als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), houdt zich aan bij of krachtens algemene maatregel van bestuur te stellen regels om te voorkomen dat de handeling waarvoor de verklaring van geen bezwaar is verleend, zou leiden of zou kunnen leiden tot een invloed op de betrokken effecteninstelling die in strijd is met een gezonde of prudente bedrijfsvoering van die instelling.
 
 2. De regels, die voor onderscheiden groepen houders verschillend kunnen zijn, kunnen uitsluitend betrekking hebben op financiële waarborgen, op te verstrekken gegevens en inlichtingen alsmede op de vorm waarin die gegevens en inlichtingen dienen te worden verstrekt. Artikel 16, tiende lid, is van overeenkomstige toepassing.
 
@@ -418,7 +418,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Onze Minister kan vrijstelling verlenen van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan vrijstelling verlenen van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15).
 
 2. Aan een vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een gezonde of prudente bedrijfsvoering van de betrokken effecteninstelling.
 
@@ -426,7 +426,7 @@ Vervallen
 
 ##### Artikel 19
 
-1. Onze Minister kan een op grond van [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01) verleende ontheffing en een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), slechts intrekken:
+1. Onze Minister kan een op grond van [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15) verleende ontheffing en een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), slechts intrekken:
 
 - a. op verzoek van de houder;
 
@@ -446,13 +446,13 @@ Vervallen
 
 - e. indien de houder niet meer voldoet aan bij of krachtens deze wet gestelde regels of beperkingen of gegeven voorschriften.
 
-2. Indien Onze Minister vaststelt dat een kredietinstelling of financiële instelling als bedoeld in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2002-09-01&g=2002-09-01), niet voldoet aan de in het tweede en derde lid van dat artikel bedoelde verplichting, kan Onze Minister bepalen dat [artikel 7, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), niet van toepassing is ten aanzien van die instelling.
+2. Indien Onze Minister vaststelt dat een kredietinstelling of financiële instelling als bedoeld in [artikel 28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2003-01-15&g=2003-01-15), niet voldoet aan de in het tweede en derde lid van dat artikel bedoelde verplichting, kan Onze Minister bepalen dat [artikel 7, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), niet van toepassing is ten aanzien van die instelling.
 
 3. Degene wiens ontheffing of vergunning is ingetrokken, wikkelt binnen een door Onze Minister te stellen termijn alle lopende overeenkomsten af die door deze zijn aangegaan voordat de intrekking aan hem werd bekendgemaakt. Onze Minister kan deze termijn verlengen. Hij kan een ander met de afwikkeling belasten, die aan hem verantwoording schuldig is.
 
 ##### Artikel 20
 
-Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01) verleende verklaring van geen bezwaar slechts wijzigen of intrekken dan wel daaraan nadere beperkingen stellen of nadere voorschriften verbinden:
+Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15) verleende verklaring van geen bezwaar slechts wijzigen of intrekken dan wel daaraan nadere beperkingen stellen of nadere voorschriften verbinden:
 
 - a. op verzoek van de houder;
 
@@ -462,7 +462,7 @@ Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.
 
 - d. indien de houder niet meer als een houder van de gekwalificeerde deelneming kan worden aangemerkt;
 
-- e. indien de houder niet alsnog binnen de termijn, bedoeld in [artikel 16, achtste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), alle bij de verklaring van geen bezwaar gestelde beperkingen in acht neemt;
+- e. indien de houder niet alsnog binnen de termijn, bedoeld in [artikel 16, achtste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), alle bij de verklaring van geen bezwaar gestelde beperkingen in acht neemt;
 
 - f. indien de houder niet meer voldoet aan bij of krachtens deze wet gestelde regels of beperkingen of gegeven voorschriften.
 
@@ -470,7 +470,7 @@ Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 21
 
-1. Onze Minister houdt een register waarin zijn opgenomen de effecteninstellingen die ingevolge een vergunning of ingevolge [artikel 7, tweede lid, aanhef en onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), als effectenbemiddelaar of vermogensbeheerder hun diensten mogen aanbieden of verrichten alsmede de aan de desbetreffende vergunning of vrijstelling gestelde beperkingen of verbonden voorschriften. In het register zijn tevens opgenomen de effecteninstellingen die ingevolge een vrijstelling als effectenbemiddelaar of vermogensbeheerder hun diensten mogen aanbieden of verrichten alsmede de aan de desbetreffende vrijstelling gestelde beperkingen of verbonden voorschriften, indien zij ingevolge een voorschrift dat aan die vrijstelling is verbonden Onze Minister in kennis hebben gesteld van hun voornemen om de desbetreffende effectendiensten aan te bieden of te verrichten (2e nota van wijziging).
+1. Onze Minister houdt een register waarin zijn opgenomen de effecteninstellingen die ingevolge een vergunning of ingevolge [artikel 7, tweede lid, aanhef en onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), als effectenbemiddelaar of vermogensbeheerder hun diensten mogen aanbieden of verrichten alsmede de aan de desbetreffende vergunning of vrijstelling gestelde beperkingen of verbonden voorschriften. In het register zijn tevens opgenomen de effecteninstellingen die ingevolge een vrijstelling als effectenbemiddelaar of vermogensbeheerder hun diensten mogen aanbieden of verrichten alsmede de aan de desbetreffende vrijstelling gestelde beperkingen of verbonden voorschriften, indien zij ingevolge een voorschrift dat aan die vrijstelling is verbonden Onze Minister in kennis hebben gesteld van hun voornemen om de desbetreffende effectendiensten aan te bieden of te verrichten (2e nota van wijziging).
 
 2. De inschrijving van een effecteninstelling waarvan de vergunning is ingetrokken dan wel waarop niet langer een vrijstelling van toepassing is, wordt doorgehaald.
 
@@ -482,13 +482,13 @@ Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.
 
 6. Het is een effecteninstelling als bedoeld in het eerste lid, tweede volzin, die niet in het register is ingeschreven, verboden om als effectenbemiddelaar of vermogensbeheerder diensten aan te bieden of te verrichten.
 
-### Hoofdstuk VI. Effectenbeurzen
+### Hoofdstuk V. Register
 
 ##### Artikel 22
 
 1. Het houden van een effectenbeurs is niet toegestaan dan na verkregen erkenning van Onze Minister.
 
-2. De erkenning wordt verleend indien de houder van de effectenbeurs aantoont dat hij in Nederland is gevestigd en het houden van de effectenbeurs, de voor die effectenbeurs te hanteren regels, hun toepassing en de controle op de naleving van die regels zullen voldoen aan hetgeen nodig is met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten. Met het oog op de verlening van de erkenning toetst Onze Minister ten minste de deskundigheid van de personen die het dagelijks beleid van de houder bepalen, de betrouwbaarheid van de personen die het beleid van de houder bepalen of mede bepalen, de financiële waarborgen, het afwikkelingssysteem, en de toepassing van de voor de effectenbeurs geldende regels op de instellingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2002-09-01&g=2002-09-01), op effecteninstellingen die zullen worden toegelaten tot deze beurs en op dochterondernemingen.
+2. De erkenning wordt verleend indien de houder van de effectenbeurs aantoont dat hij in Nederland is gevestigd en het houden van de effectenbeurs, de voor die effectenbeurs te hanteren regels, hun toepassing en de controle op de naleving van die regels zullen voldoen aan hetgeen nodig is met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten. Met het oog op de verlening van de erkenning toetst Onze Minister ten minste de deskundigheid van de personen die het dagelijks beleid van de houder bepalen, de betrouwbaarheid van de personen die het beleid van de houder bepalen of mede bepalen, de financiële waarborgen, het afwikkelingssysteem, en de toepassing van de voor de effectenbeurs geldende regels op de instellingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2003-01-15&g=2003-01-15), op effecteninstellingen die zullen worden toegelaten tot deze beurs en op dochterondernemingen.
 
 3. Aan een erkenning kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
@@ -498,33 +498,33 @@ Onze Minister kan een op grond van [artikel 16](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 23
 
-Van iedere wijziging in de regels, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), of in de controle op de naleving daarvan stelt de houder van de op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs Onze Minister vooraf in kennis.
+Van iedere wijziging in de regels, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), of in de controle op de naleving daarvan stelt de houder van de op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs Onze Minister vooraf in kennis.
 
 ##### Artikel 24
 
-1. De houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs draagt er zorg voor dat de voor de effectenbeurs geldende regels kunnen worden toegepast op de instellingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2002-09-01&g=2002-09-01), en op de effecteninstellingen die zijn toegelaten tot deze beurs.
+1. De houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs draagt er zorg voor dat de voor de effectenbeurs geldende regels kunnen worden toegepast op de instellingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2003-01-15&g=2003-01-15), en op de effecteninstellingen die zijn toegelaten tot deze beurs.
 
-2. Onze Minister kan met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs:
+2. Onze Minister kan met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs:
 
 - a. voorschriften geven met betrekking tot de voor die effectenbeurs te hanteren regels, hun toepassing of de controle op de naleving van die regels;
 
-- b. een aanwijzing geven met betrekking tot een door deze jegens een effecteninstelling die zich naar het oordeel van Onze Minister niet houdt aan de regels bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), te volgen gedragslijn.
+- b. een aanwijzing geven met betrekking tot een door deze jegens een effecteninstelling die zich naar het oordeel van Onze Minister niet houdt aan de regels bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), te volgen gedragslijn.
 
 3. De houder van de effectenbeurs volgt de in het tweede lid bedoelde voorschriften en aanwijzing op binnen een door Onze Minister te bepalen termijn.
 
 ##### Artikel 25
 
-1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan vrijstelling of, op verzoek, ontheffing verlenen van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15).
 
 2. Aan een vrijstelling en aan een ontheffing kunnen beperkingen worden gesteld en voorschriften worden verbonden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
 ##### Artikel 26
 
-Onze Minister kan een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) of een ontheffing als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01) intrekken indien voor het houden van de desbetreffende effectenbeurs onvoldoende waarborgen worden geboden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten of indien de effectenbeurs niet of niet genoegzaam de bij of krachtens deze wet gestelde regels of gegeven voorschriften naleeft, gestelde beperkingen in acht neemt of gegeven aanwijzingen opvolgt.
+Onze Minister kan een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) of een ontheffing als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15) intrekken indien voor het houden van de desbetreffende effectenbeurs onvoldoende waarborgen worden geboden met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten of indien de effectenbeurs niet of niet genoegzaam de bij of krachtens deze wet gestelde regels of gegeven voorschriften naleeft, gestelde beperkingen in acht neemt of gegeven aanwijzingen opvolgt.
 
 ##### Artikel 26A
 
-1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar, een gekwalificeerde deelneming te houden, te verwerven of te vergroten in een houder van een effectenbeurs aan wie op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) een erkenning is verleend, waarbij in afwijking van [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=I&artikel=1&z=2002-09-01&g=2002-09-01), een percentage geldt van meer dan 10 procent, dan wel enige zeggenschap verbonden aan deze gekwalificeerde deelneming uit te oefenen in een houder van een effectenbeurs als hiervoor bedoeld.
+1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar, een gekwalificeerde deelneming te houden, te verwerven of te vergroten in een houder van een effectenbeurs aan wie op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) een erkenning is verleend, waarbij in afwijking van [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=I&artikel=1&z=2003-01-15&g=2003-01-15), een percentage geldt van meer dan 10 procent, dan wel enige zeggenschap verbonden aan deze gekwalificeerde deelneming uit te oefenen in een houder van een effectenbeurs als hiervoor bedoeld.
 
 2. Onze Minister verleent, op verzoek, een verklaring van geen bezwaar voor een handeling als bedoeld in het eerste lid, tenzij
 
@@ -562,9 +562,9 @@ Onze Minister kan een erkenning als bedoeld in [artikel 22](https://wetten.overh
 
 ##### Artikel 27
 
-1. De houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs houdt de voor die effectenbeurs geldende regels in overeenstemming met richtlijnen inzake het effectenverkeer van de Raad van de Europese Unie dan wel van het Europees Parlement en de Raad van de Europese Unie gezamenlijk.
+1. De houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs houdt de voor die effectenbeurs geldende regels in overeenstemming met richtlijnen inzake het effectenverkeer van de Raad van de Europese Unie dan wel van het Europees Parlement en de Raad van de Europese Unie gezamenlijk.
 
-2. Onze Minister kan aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs voorschriften geven ter uitvoering van de in het eerste lid bedoelde richtlijnen.
+2. Onze Minister kan aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs voorschriften geven ter uitvoering van de in het eerste lid bedoelde richtlijnen.
 
 3. De houder van de effectenbeurs, bedoeld in het tweede lid, volgt de in het tweede lid bedoelde voorschriften op binnen een door Onze Minister te bepalen termijn.
 
@@ -572,7 +572,7 @@ Onze Minister kan een erkenning als bedoeld in [artikel 22](https://wetten.overh
 
 ##### Artikel 28
 
-1. Indien Onze Minister vaststelt dat een instelling te wier laste effecten zijn uitgegeven, een bieder, bestuurder, commissaris of functionaris, bedoeld in [artikel 6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), of een effecteninstelling, niet zijnde een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), de bij of krachtens [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01), [6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2002-09-01&g=2002-09-01), onderscheidenlijk [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), gestelde regels niet naleeft, vestigt hij daarop de aandacht van de betrokkene.
+1. Indien Onze Minister vaststelt dat een instelling te wier laste effecten zijn uitgegeven, een bieder, bestuurder, commissaris of functionaris, bedoeld in [artikel 6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), of een effecteninstelling, niet zijnde een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), de bij of krachtens [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15) tot en met [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15), [6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2003-01-15&g=2003-01-15), onderscheidenlijk [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), gestelde regels niet naleeft, vestigt hij daarop de aandacht van de betrokkene.
 
 2. Zonodig doet Onze Minister de mededeling, bedoeld in het eerste lid, vergezeld gaan van dan wel volgen door een aanwijzing om ten aanzien van met name aan te geven punten een bepaalde gedragslijn te volgen met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten.
 
@@ -604,13 +604,13 @@ Onze Minister kan een erkenning als bedoeld in [artikel 22](https://wetten.overh
 
 ##### Artikel 28a
 
-1. Onze Minister pleegt overleg met representatieve organisaties van in Nederland gevestigde effecteninstellingen over de invoering van één of meer regelingen omtrent een garantie voor nader te bepalen vorderingen van beleggers in verband met beleggingsverrichtingen, tot een nader te bepalen maximum, op in Nederland gevestigde effecteninstellingen waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend, alsmede op kredietinstellingen en financiële instellingen waaraan het ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005792) onderscheidenlijk [artikel 45 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=45) is toegestaan diensten ter zake van effectenbemiddeling of vermogensbeheer aan te bieden of te verrichten, tegen het risico dat een zodanige instelling haar verplichtingen met betrekking tot die vorderingen niet nakomt.
+1. Onze Minister pleegt overleg met representatieve organisaties van in Nederland gevestigde effecteninstellingen over de invoering van één of meer regelingen omtrent een garantie voor nader te bepalen vorderingen van beleggers in verband met beleggingsverrichtingen, tot een nader te bepalen maximum, op in Nederland gevestigde effecteninstellingen waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend, alsmede op kredietinstellingen en financiële instellingen waaraan het ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005792) onderscheidenlijk [artikel 45 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=45) is toegestaan diensten ter zake van effectenbemiddeling of vermogensbeheer aan te bieden of te verrichten, tegen het risico dat een zodanige instelling haar verplichtingen met betrekking tot die vorderingen niet nakomt.
 
 2. Indien het overleg, bedoeld in het eerste lid, leidt tot overeenstemming tussen Onze Minister en de betrokken representatieve organisaties, kan bij koninklijk besluit worden bepaald dat de instellingen, bedoeld in het eerste lid, verplicht zijn aan de uitvoering van een samenstel van regelingen mee te werken.
 
-3. Onze Minister kan besluiten dat een effecteninstelling die niet in een Lid-Staat is gevestigd en waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend onderscheidenlijk een kredietinstelling of een financiële instelling, waaraan het ingevolge [artikel 38 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is toegestaan in Nederland diensten ter zake van effectenbemiddeling of vermogensbeheer aan te bieden of te verrichten, verplicht is aan de uitvoering van een van de op hem toepasselijke regelingen, bedoeld in het eerste lid, mee te werken indien Onze Minister van oordeel is dat op vorderingen in verband met beleggingsverrichtingen op die onderneming of instelling geen beleggerscompensatieregeling van toepassing is waarvan de dekking gelijkwaardig is aan de dekking, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), van [richtlijn nr. 97/9/EG](31997L0009) van het Europees Parlement en de Raad van de Europese Unie van 3 maart 1997 inzake de beleggerscompensatiestelsels (PbEG L 84).
+3. Onze Minister kan besluiten dat een effecteninstelling die niet in een Lid-Staat is gevestigd en waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend onderscheidenlijk een kredietinstelling of een financiële instelling, waaraan het ingevolge [artikel 38 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) is toegestaan in Nederland diensten ter zake van effectenbemiddeling of vermogensbeheer aan te bieden of te verrichten, verplicht is aan de uitvoering van een van de op hem toepasselijke regelingen, bedoeld in het eerste lid, mee te werken indien Onze Minister van oordeel is dat op vorderingen in verband met beleggingsverrichtingen op die onderneming of instelling geen beleggerscompensatieregeling van toepassing is waarvan de dekking gelijkwaardig is aan de dekking, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), van [richtlijn nr. 97/9/EG](31997L0009) van het Europees Parlement en de Raad van de Europese Unie van 3 maart 1997 inzake de beleggerscompensatiestelsels (PbEG L 84).
 
-4. Indien het overleg, bedoeld in het eerste lid, niet binnen een door Onze Minister te bepalen termijn leidt tot overeenstemming dan wel indien de regeling of het samenstel van regelingen waaromtrent overeenstemming is bereikt, niet de instemming heeft van Onze Minister, kan bij koninklijk besluit een regeling als bedoeld in het eerste lid worden ingevoerd, nadat de in het eerste lid bedoelde organisaties van effecteninstellingen alsmede, indien van toepassing, de rechtspersoon, waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) de in het eerste lid bedoelde bevoegdheid is overgedragen, in de gelegenheid zijn gesteld hun gevoelen omtrent de inhoud van de in te voeren regeling kenbaar te maken.
+4. Indien het overleg, bedoeld in het eerste lid, niet binnen een door Onze Minister te bepalen termijn leidt tot overeenstemming dan wel indien de regeling of het samenstel van regelingen waaromtrent overeenstemming is bereikt, niet de instemming heeft van Onze Minister, kan bij koninklijk besluit een regeling als bedoeld in het eerste lid worden ingevoerd, nadat de in het eerste lid bedoelde organisaties van effecteninstellingen alsmede, indien van toepassing, de rechtspersoon, waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) de in het eerste lid bedoelde bevoegdheid is overgedragen, in de gelegenheid zijn gesteld hun gevoelen omtrent de inhoud van de in te voeren regeling kenbaar te maken.
 
 5. Na inwerkingtreding van een koninklijk besluit als bedoeld in het vierde lid wordt zo spoedig mogelijk, maar uiterlijk binnen acht weken, een voorstel van wet tot goedkeuring van het koninklijk besluit aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien één van de Kamers der Staten-Generaal tot het niet-aannemen van het voorstel besluit, wordt zo spoedig mogelijk bij koninklijk besluit een nieuwe regeling als bedoeld in het eerste lid ingevoerd. Het vierde lid en de eerste twee volzinnen van dit lid zijn op het in de vorige volzin bedoelde koninklijk besluit van overeenkomstige toepassing.
 
@@ -628,15 +628,15 @@ Indien een accountant naar het oordeel van Onze Minister niet of niet meer de no
 
 - a. instellingen te wier laste buiten een besloten kring effecten zijn uitgegeven;
 
-- b. aanvragers van een ontheffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01);
+- b. aanvragers van een ontheffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15);
 
-- c. aanvragers van een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01);
+- c. aanvragers van een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15);
 
 - d. effecteninstellingen;
 
-- e. aanvragers van een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01);
+- e. aanvragers van een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15);
 
-- f. de bewaarder van zakelijke gegevens en bescheiden van een organisatie waarvan de leden toegang hadden tot een effectenbeurs waarvan de houder een erkenning had als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01);
+- f. de bewaarder van zakelijke gegevens en bescheiden van een organisatie waarvan de leden toegang hadden tot een effectenbeurs waarvan de houder een erkenning had als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15);
 
 - g. degenen die deel uitmaken van een groep waartoe een effecteninstelling behoort;
 
@@ -644,13 +644,13 @@ Indien een accountant naar het oordeel van Onze Minister niet of niet meer de no
 
 - i. aanvragers van een verklaring van geen bezwaar;
 
-- j. degenen op wie een vrijstelling als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2002-09-01&g=2002-09-01) van toepassing is;
+- j. degenen op wie een vrijstelling als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2003-01-15&g=2003-01-15) van toepassing is;
 
 - k. houders van een effectenbeurs;
 
-- l. aanvragers van een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01);
+- l. aanvragers van een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15);
 
-- m. aanvragers van een ontheffing als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01);
+- m. aanvragers van een ontheffing als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15);
 
 - n. bieders,alle inlichtingen inwinnen of doen inwinnen, die redelijkerwijs nodig zijn voor de juiste uitoefening van de taken en bevoegdheden die hij op grond van deze wet heeft en teneinde na te gaan of de wettelijke bepalingen worden nageleefd.
 
@@ -658,13 +658,13 @@ Indien een accountant naar het oordeel van Onze Minister niet of niet meer de no
 
 ##### Artikel 30
 
-Indien een effecteninstelling die is toegelaten tot een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs, ingevolge de op grond van dat artikel te hanteren regels verplicht is ter medewerking aan de controle op de nakoming van die regels persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) te verstrekken, behoeft de effecteninstelling voor deze verstrekking niet de toestemming van degene op wie de persoonsgegevens betrekking hebben.
+Indien een effecteninstelling die is toegelaten tot een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs, ingevolge de op grond van dat artikel te hanteren regels verplicht is ter medewerking aan de controle op de nakoming van die regels persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) te verstrekken, behoeft de effecteninstelling voor deze verstrekking niet de toestemming van degene op wie de persoonsgegevens betrekking hebben.
 
 ##### Artikel 31
 
-1. Gegevens en inlichtingen die ingevolge het bij of krachtens deze wet bepaalde omtrent afzonderlijke ondernemingen of instellingen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in [de artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2002-09-01&g=2002-09-01), of [33**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33a&z=2002-09-01&g=2002-09-01), zijn ontvangen, worden niet gepubliceerd en zijn geheim.
+1. Gegevens en inlichtingen die ingevolge het bij of krachtens deze wet bepaalde omtrent afzonderlijke ondernemingen of instellingen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in [de artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2003-01-15&g=2003-01-15), of [33**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33a&z=2003-01-15&g=2003-01-15), zijn ontvangen, worden niet gepubliceerd en zijn geheim.
 
-2. Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen, ingevolge deze wet verstrekt of van een instantie als bedoeld in [de artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2002-09-01&g=2002-09-01), of [33**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33a&z=2002-09-01&g=2002-09-01), ontvangen, of van gegevens of inlichtingen, bij het onderzoek van zakelijke gegevens en bescheiden verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
+2. Het is aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen, ingevolge deze wet verstrekt of van een instantie als bedoeld in [de artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2003-01-15&g=2003-01-15), of [33**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33a&z=2003-01-15&g=2003-01-15), ontvangen, of van gegevens of inlichtingen, bij het onderzoek van zakelijke gegevens en bescheiden verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
 
 3. Het eerste en tweede lid laten, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het Wetboek van Strafvordering die betrekking hebben op het als getuige of deskundige in strafzaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak.
 
@@ -672,29 +672,29 @@ Indien een effecteninstelling die is toegelaten tot een op grond van [artikel 22
 
 5. In afwijking van het eerste en tweede lid kan Onze Minister met gebruikmaking van gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, mededelingen doen mits deze niet kunnen worden herleid tot afzonderlijke ondernemingen of instellingen.
 
-6. In afwijking van het eerste, tweede en vijfde lid kan Onze Minister gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak verstrekken aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs met het oog op de controle op de naleving van de voor die effectenbeurs te hanteren regels. Op de aldus verstrekte gegevens of inlichtingen zijn het eerste en tweede lid van overeenkomstige toepassing.
+6. In afwijking van het eerste, tweede en vijfde lid kan Onze Minister gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak verstrekken aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs met het oog op de controle op de naleving van de voor die effectenbeurs te hanteren regels. Op de aldus verstrekte gegevens of inlichtingen zijn het eerste en tweede lid van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten kan Onze Minister, voor zover nodig in afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), ter openbare kennis brengen:
+Met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten kan Onze Minister, voor zover nodig in afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), ter openbare kennis brengen:
 
 - a. zijn weigering om een aangevraagde vergunning of ontheffing te verlenen wanneer deze weigering niet meer in beroep kan worden getroffen;
 
-- b. het feit dat degene die bij uitgifte effecten aanbiedt en op wie naar zijn oordeel het verbod, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01), van toepassing is, niet over een ontheffing beschikt;
+- b. het feit dat degene die bij uitgifte effecten aanbiedt en op wie naar zijn oordeel het verbod, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15), van toepassing is, niet over een ontheffing beschikt;
 
-- c. het feit dat een effecteninstelling waarop naar zijn oordeel het verbod, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van toepassing is, niet over een vergunning beschikt;
+- c. het feit dat een effecteninstelling waarop naar zijn oordeel het verbod, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van toepassing is, niet over een vergunning beschikt;
 
-- d. het feit dat degene waarop een vrijstelling als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2002-09-01&g=2002-09-01) van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
+- d. het feit dat degene waarop een vrijstelling als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2003-01-15&g=2003-01-15) van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
 
-- e. het feit dat de houder van een effectenbeurs waarop naar zijn oordeel het verbod, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), van toepassing is, niet over een erkenning of ontheffing beschikt; of
+- e. het feit dat de houder van een effectenbeurs waarop naar zijn oordeel het verbod, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), van toepassing is, niet over een erkenning of ontheffing beschikt; of
 
-- f. het feit dat de houder van een effectenbeurs waarop een vrijstelling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01) van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
+- f. het feit dat de houder van een effectenbeurs waarop een vrijstelling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15) van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
 
-- g. zijn aanwijzing als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2002-09-01&g=2002-09-01), terzake van het niet naleven van de regels gesteld bij of krachtens [de artikelen 6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2002-09-01&g=2002-09-01).
+- g. zijn aanwijzing als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2003-01-15&g=2003-01-15), terzake van het niet naleven van de regels gesteld bij of krachtens [de artikelen 6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 33
 
-1. Onze Minister kan, in afwijking van [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn, tenzij:
+1. Onze Minister kan, in afwijking van [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn, tenzij:
 
 - a. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
 
@@ -708,9 +708,11 @@ Met het oog op een adequate functionering van de effectenmarkten of de positie v
 
 - f. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
 
-2. Indien een buitenlandse instantie als bedoeld in het eerste lid aan degene die de gegevens of inlichtingen op grond van dat lid heeft verstrekt, verzoekt om die gegevens of inlichtingen te mogen gebruiken voor een ander doel dan waarvoor zij zijn verstrekt, mag dat verzoek slechts worden ingewilligd:
+2. Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een buitenlandse overheidsinstantie dan wel van een buitenlandse van overheidswege aangewezen instantie, die is belast met het toezicht op financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn, verstrekt Onze Minister deze niet aan een Nederlandse of buitenlandse instantie als bedoeld in het eerste lid, tenzij de buitenlandse instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
 
-- a. voor zover het beoogde gebruik niet in strijd is met het eerste lid; dan wel
+3. Indien een buitenlandse instantie als bedoeld in het eerste lid aan degene die de gegevens of inlichtingen op grond van dat lid heeft verstrekt, verzoekt om die gegevens of inlichtingen te mogen gebruiken voor een ander doel dan waarvoor zij zijn verstrekt, mag dat verzoek slechts worden ingewilligd:
+
+- a. voor zover het beoogde gebruik niet in strijd is met het eerste of tweede lid; dan wel
 
 - b. voor zover die buitenlandse instantie op een andere wijze dan in deze wet voorzien vanuit Nederland met inachtneming van de daarvoor geldende procedures voor dat andere doel de beschikking over die gegevens of inlichtingen zou kunnen verkrijgen; alsmede
 
@@ -718,7 +720,7 @@ Met het oog op een adequate functionering van de effectenmarkten of de positie v
 
 ##### Artikel 33a
 
-1. Onze Minister kan, in afwijking van [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan een rechter-commissaris voor zover die belast is met het toezicht uit hoofde van artikel 64 van de Faillissementswet op de curator die betrokken is bij het beheer en de vereffening van de failliete boedel van een effecteninstelling.
+1. Onze Minister kan, in afwijking van [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan een rechter-commissaris voor zover die belast is met het toezicht uit hoofde van artikel 64 van de Faillissementswet op de curator die betrokken is bij het beheer en de vereffening van de failliete boedel van een effecteninstelling.
 
 2. Onze Minister verstrekt geen gegevens of inlichtingen als bedoeld in het eerste lid:
 
@@ -726,31 +728,31 @@ Met het oog op een adequate functionering van de effectenmarkten of de positie v
 
 - b. indien de gegevens of inlichtingen zijn verkregen van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn, en deze instanties niet instemmen met het verstrekken van de gegevens of inlichtingen.
 
-3. [Artikel 31, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), is van overeenkomstige toepassing met betrekking tot de op grond van het eerste lid verstrekte gegevens.
+3. [Artikel 31, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), is van overeenkomstige toepassing met betrekking tot de op grond van het eerste lid verstrekte gegevens.
 
 ##### Artikel 33b
 
 1. Onze Minister werkt samen met de autoriteiten die ingevolge de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) onderscheidenlijk de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), belast zijn met het toezicht op beleggingsinstellingen, kredietinstellingen, natura-uitvaartverzekeraars onderscheidenlijk verzekeraars, met het oog op het tot stand brengen van gelijkgerichte regelgeving en beleid ter zake van bij ministeriële regeling aan te wijzen onderwerpen die zowel het toezicht ingevolge deze wet als het toezicht ingevolge een van de eerdergenoemde wetten betreffen.
 
-2. Onze Minister voert het toezicht ingevolge deze wet, voor zover het betrekking heeft op de onderwerpen, bedoeld in het eerste lid, uit met inachtneming van daartoe met de overige in het eerste lid bedoelde autoriteiten te sluiten overeenkomsten. Deze overeenkomsten bevatten afspraken over coördinatie en afstemming van regelgeving en beleid, en in voorkomende gevallen over uitvoering van toezicht. Indien ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden die Onze Minister op grond van deze wet heeft zijn overgedragen aan een rechtspersoon, draagt deze rechtspersoon er zorg voor dat hij of een van de overige in het eerste lid bedoelde autoriteiten een afschrift van de gesloten overeenkomsten zendt aan Onze Minister.
+2. Onze Minister voert het toezicht ingevolge deze wet, voor zover het betrekking heeft op de onderwerpen, bedoeld in het eerste lid, uit met inachtneming van daartoe met de overige in het eerste lid bedoelde autoriteiten te sluiten overeenkomsten. Deze overeenkomsten bevatten afspraken over coördinatie en afstemming van regelgeving en beleid, en in voorkomende gevallen over uitvoering van toezicht. Indien ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden die Onze Minister op grond van deze wet heeft zijn overgedragen aan een rechtspersoon, draagt deze rechtspersoon er zorg voor dat hij of een van de overige in het eerste lid bedoelde autoriteiten een afschrift van de gesloten overeenkomsten zendt aan Onze Minister.
 
 3. Binnen zes maanden na afloop van elk kalenderjaar draagt Onze Minister in samenwerking met de overige in het eerste lid bedoelde autoriteiten zorg voor een gezamenlijk verslag dat openbaar wordt gemaakt en waarin melding wordt gemaakt van de wijze waarop uitvoering is gegeven aan het eerste en tweede lid.
 
 ##### Artikel 34
 
-1. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen werkt, voor zover noodzakelijk ten behoeve van de uitoefening van het toezicht op effecteninstellingen die deel uitmaken van een groep, samen met de autoriteiten die ingevolge de Wet toezicht kredietwezen 1992, de Wet toezicht verzekeringsbedrijf 1993, de Wet toezicht natura-uitvaartverzekeringsbedrijf en de Wet toezicht beleggingsinstellingen belast zijn met het toezicht op kredietinstellingen, verzekeraars onderscheidenlijk beleggingsinstellingen die tot diezelfde groep behoren.
+1. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen werkt, voor zover noodzakelijk ten behoeve van de uitoefening van het toezicht op effecteninstellingen die deel uitmaken van een groep, samen met de autoriteiten die ingevolge de Wet toezicht kredietwezen 1992, de Wet toezicht verzekeringsbedrijf 1993, de Wet toezicht natura-uitvaartverzekeringsbedrijf en de Wet toezicht beleggingsinstellingen belast zijn met het toezicht op kredietinstellingen, verzekeraars onderscheidenlijk beleggingsinstellingen die tot diezelfde groep behoren.
 
-2. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen pleegt in de gevallen, bedoeld in het eerste lid, waar nodig overleg met een autoriteit als bedoeld in het eerste lid.
+2. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen pleegt in de gevallen, bedoeld in het eerste lid, waar nodig overleg met een autoriteit als bedoeld in het eerste lid.
 
-3. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen werkt in de gevallen, bedoeld in het eerste lid, waar nodig samen op basis van een of meer daartoe met een autoriteit als bedoeld in het eerste lid overeen te komen regelingen. Deze regelingen betreffen in elk geval afspraken over het stellen van gemeenschappelijke regels, het coördineren van werkzaamheden uit hoofde van ieders uitoefening van het toezicht en het uitwisselen van gegevens en inlichtingen.
+3. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen werkt in de gevallen, bedoeld in het eerste lid, waar nodig samen op basis van een of meer daartoe met een autoriteit als bedoeld in het eerste lid overeen te komen regelingen. Deze regelingen betreffen in elk geval afspraken over het stellen van gemeenschappelijke regels, het coördineren van werkzaamheden uit hoofde van ieders uitoefening van het toezicht en het uitwisselen van gegevens en inlichtingen.
 
-4. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen, verstrekt aan een autoriteit als bedoeld in het eerste lid dan wel een autoriteit die is belast met de uitvoering van de [Wet inzake de geldtransactiekantoren](onbekend) de gegevens of inlichtingen die hij verkregen heeft bij de vervulling van de hem bij of krachtens deze wet opgedragen taak en die betrekking hebben op de deskundigheid en betrouwbaarheid van personen als bedoeld in de algemene maatregel van bestuur ter uitvoering van [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), voor zover Onze Minister dan wel de rechtspersoon van oordeel is dat deze gegevens of inlichtingen van belang zijn of zouden kunnen zijn voor het toezicht dat door die andere autoriteit wordt uitgeoefend.
+4. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen, verstrekt aan een autoriteit als bedoeld in het eerste lid dan wel een autoriteit die is belast met de uitvoering van de [Wet inzake de geldtransactiekantoren](onbekend) de gegevens of inlichtingen die hij verkregen heeft bij de vervulling van de hem bij of krachtens deze wet opgedragen taak en die betrekking hebben op de deskundigheid en betrouwbaarheid van personen als bedoeld in de algemene maatregel van bestuur ter uitvoering van [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), voor zover Onze Minister dan wel de rechtspersoon van oordeel is dat deze gegevens of inlichtingen van belang zijn of zouden kunnen zijn voor het toezicht dat door die andere autoriteit wordt uitgeoefend.
 
-5. De verplichting, bedoeld in het vierde lid, geldt niet in het geval de gegevens of inlichtingen zijn verkregen van een buitenlandse instantie als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2002-09-01&g=2002-09-01).
+5. De verplichting, bedoeld in het vierde lid, geldt niet in het geval de gegevens of inlichtingen zijn verkregen van een buitenlandse instantie als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 35
 
-Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen, werkt bij de uitoefening van het toezicht samen met de betrokken toezichthoudende autoriteiten van de andere lid-staten. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen, pleegt daartoe in voorkomende gevallen overleg met deze autoriteiten.
+Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen, werkt bij de uitoefening van het toezicht samen met de betrokken toezichthoudende autoriteiten van de andere lid-staten. Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen, pleegt daartoe in voorkomende gevallen overleg met deze autoriteiten.
 
 ##### Artikel 36
 
@@ -762,9 +764,9 @@ Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://w
 
 ##### Artikel 37
 
-1. Onze Minister kan toestaan dat een functionaris van een buitenlandse instantie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2002-09-01&g=2002-09-01), deelneemt aan de uitvoering van een onderzoek als bedoeld in dat lid.
+1. Onze Minister kan toestaan dat een functionaris van een buitenlandse instantie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2003-01-15&g=2003-01-15), deelneemt aan de uitvoering van een onderzoek als bedoeld in dat lid.
 
-2. De verplichting, bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2002-09-01&g=2002-09-01), geldt eveneens jegens de in het eerste lid bedoelde functionaris.
+2. De verplichting, bedoeld in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2003-01-15&g=2003-01-15), geldt eveneens jegens de in het eerste lid bedoelde functionaris.
 
 3. De in het eerste lid bedoelde functionaris volgt de aanwijzingen op van de persoon die met de uitvoering van het onderzoek is belast.
 
@@ -800,7 +802,7 @@ Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://w
 
 ##### Artikel 40
 
-1. Taken en bevoegdheden die Onze Minister op grond van deze wet heeft, kunnen, met uitzondering van de taken en bevoegdheden, bedoeld in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=8&z=2002-09-01&g=2002-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2002-09-01&g=2002-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2002-09-01&g=2002-09-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26&z=2002-09-01&g=2002-09-01), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2002-09-01&g=2002-09-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=27&z=2002-09-01&g=2002-09-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=41&z=2002-09-01&g=2002-09-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=42&z=2002-09-01&g=2002-09-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XI&artikel=45&z=2002-09-01&g=2002-09-01), [46b, derde lid, onder c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2002-09-01&g=2002-09-01), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46d&z=2002-09-01&g=2002-09-01), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIA&artikel=48a&z=2002-09-01&g=2002-09-01), [48b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48b&z=2002-09-01&g=2002-09-01), [48c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2002-09-01&g=2002-09-01), en [48m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48m&z=2002-09-01&g=2002-09-01), en met uitzondering van het verlenen van een vrijstelling als bedoeld in [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2002-09-01&g=2002-09-01), bij algemene maatregel van bestuur worden overgedragen aan een of meer rechtspersonen. Alsdan gelden de verplichtingen op grond van deze wet jegens Onze Minister als verplichtingen jegens de desbetreffende rechtspersoon of rechtspersonen.
+1. Taken en bevoegdheden die Onze Minister op grond van deze wet heeft, kunnen, met uitzondering van de taken en bevoegdheden, bedoeld in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=8&z=2003-01-15&g=2003-01-15), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2003-01-15&g=2003-01-15), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2003-01-15&g=2003-01-15), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26&z=2003-01-15&g=2003-01-15), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2003-01-15&g=2003-01-15), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=27&z=2003-01-15&g=2003-01-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=41&z=2003-01-15&g=2003-01-15), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=42&z=2003-01-15&g=2003-01-15), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XI&artikel=45&z=2003-01-15&g=2003-01-15), [46b, derde lid, onder c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2003-01-15&g=2003-01-15), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46d&z=2003-01-15&g=2003-01-15), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIA&artikel=48a&z=2003-01-15&g=2003-01-15), [48b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48b&z=2003-01-15&g=2003-01-15), [48c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2003-01-15&g=2003-01-15), en [48m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48m&z=2003-01-15&g=2003-01-15), en met uitzondering van het verlenen van een vrijstelling als bedoeld in [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2003-01-15&g=2003-01-15), bij algemene maatregel van bestuur worden overgedragen aan een of meer rechtspersonen. Alsdan gelden de verplichtingen op grond van deze wet jegens Onze Minister als verplichtingen jegens de desbetreffende rechtspersoon of rechtspersonen.
 
 2. Een overdracht als bedoeld in het eerste lid vindt slechts plaats indien de betrokken rechtspersoon aan de volgende vereisten voldoet:
 
@@ -818,15 +820,15 @@ Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://w
 
 6. Indien ingevolge het eerste lid taken en bevoegdheden zijn overgedragen aan een of meer rechtspersonen, kan of kunnen deze worden gehoord alvorens:
 
-- a. een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) wordt verleend of ingetrokken;
+- a. een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) wordt verleend of ingetrokken;
 
-- b. voorschriften als bedoeld in [de artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2002-09-01&g=2002-09-01), en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=27&z=2002-09-01&g=2002-09-01), worden gegeven;
+- b. voorschriften als bedoeld in [de artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2003-01-15&g=2003-01-15), en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=27&z=2003-01-15&g=2003-01-15), worden gegeven;
 
-- c. een ontheffing als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01) wordt verleend of ingetrokken;
+- c. een ontheffing als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15) wordt verleend of ingetrokken;
 
-- d. een verklaring van geen bezwaar als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2002-09-01&g=2002-09-01) wordt verleend, gewijzigd of ingetrokken;
+- d. een verklaring van geen bezwaar als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2003-01-15&g=2003-01-15) wordt verleend, gewijzigd of ingetrokken;
 
-- e. een termijn als bedoeld in [artikel 45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XI&artikel=45&z=2002-09-01&g=2002-09-01), wordt bepaald.
+- e. een termijn als bedoeld in [artikel 45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XI&artikel=45&z=2003-01-15&g=2003-01-15), wordt bepaald.
 
 7. De rechtspersoon aan wie een advies als bedoeld in het zesde lid wordt gevraagd, is verplicht dit advies uit te brengen.
 
@@ -834,27 +836,27 @@ Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://w
 
 ##### Artikel 41
 
-1. Het is een rechtspersoon als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01), verboden zijn statuten te wijzigen zonder voorafgaande toestemming van Onze Minister. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
+1. Het is een rechtspersoon als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15), verboden zijn statuten te wijzigen zonder voorafgaande toestemming van Onze Minister. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
 
-2. Onze Minister kan een toestemming als bedoeld in het eerste lid weigeren indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01).
+2. Onze Minister kan een toestemming als bedoeld in het eerste lid weigeren indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 42
 
-Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen, kan de kosten die worden gemaakt voor de uitvoering van die taken en de uitoefening van die bevoegdheden volgens door Onze Minister te stellen regels in rekening brengen bij houders van effectenbeurzen, bij instellingen te wier laste effecten zijn uitgegeven die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs, bij bieders, bij aanvragers van een ontheffing als bedoeld in [artikel 6a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), of [artikel 6c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2002-09-01&g=2002-09-01), bij effecteninstellingen, bij aanvragers van een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), bij aanvragers van een ontheffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01), bij aanvragers van een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01), bij aanvragers van een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), bij aanvragers van een ontheffing als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2002-09-01&g=2002-09-01), bij aanvragers van een verklaring van geen bezwaar als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), alsmede bij houders van een verklaring van geen bezwaar die is verleend op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01).
+Onze Minister dan wel een rechtspersoon waaraan ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen, kan de kosten die worden gemaakt voor de uitvoering van die taken en de uitoefening van die bevoegdheden volgens door Onze Minister te stellen regels in rekening brengen bij houders van effectenbeurzen, bij instellingen te wier laste effecten zijn uitgegeven die zijn toegelaten tot de notering aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs, bij bieders, bij aanvragers van een ontheffing als bedoeld in [artikel 6a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), of [artikel 6c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2003-01-15&g=2003-01-15), bij effecteninstellingen, bij aanvragers van een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), bij aanvragers van een ontheffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15), bij aanvragers van een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15), bij aanvragers van een erkenning als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), bij aanvragers van een ontheffing als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2003-01-15&g=2003-01-15), bij aanvragers van een verklaring van geen bezwaar als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), alsmede bij houders van een verklaring van geen bezwaar die is verleend op grond van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15).
 
-### Hoofdstuk X. Beroep
+### Hoofdstuk IX. Overdracht van toezicht
 
 ##### Artikel 43
 
-Tegen een besluit van een houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs omtrent de toelating van effecten tot, of het doen vervallen van effecten uit de notering aan die effectenbeurs, staat voor belanghebbenden administratief beroep open bij Onze Minister, tenzij dit besluit strekt tot uitvoering van een aanwijzing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2002-09-01&g=2002-09-01).
+Tegen een besluit van een houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs omtrent de toelating van effecten tot, of het doen vervallen van effecten uit de notering aan die effectenbeurs, staat voor belanghebbenden administratief beroep open bij Onze Minister, tenzij dit besluit strekt tot uitvoering van een aanwijzing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 44
 
 1. In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.
 
-2. Op een besluit op grond van deze wet terzake van de regels, gesteld bij of krachtens hoofdstuk II A, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2002-09-01&g=2002-09-01), is [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
+2. Op een besluit op grond van deze wet terzake van de regels, gesteld bij of krachtens hoofdstuk II A, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2003-01-15&g=2003-01-15), is [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
 
-3. In afwijking van het eerste lid is voor beroepen tegen besluiten terzake van de regels, gesteld bij of krachtens Hoofdstuk IIA, met uitzondering van besluiten tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2002-09-01&g=2002-09-01), het College van Beroep voor het bedrijfsleven bevoegd.
+3. In afwijking van het eerste lid is voor beroepen tegen besluiten terzake van de regels, gesteld bij of krachtens Hoofdstuk IIA, met uitzondering van besluiten tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2003-01-15&g=2003-01-15), het College van Beroep voor het bedrijfsleven bevoegd.
 
 ### Hoofdstuk XI. Betrekkingen met derde landen
 
@@ -862,17 +864,17 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 1. Onze Minister kan, mede ter uitvoering van besluiten die zijn genomen ingevolge de bepalingen betreffende de betrekkingen met derde landen in de richtlijn beleggingsdiensten, bepalen dat:
 
-- a. in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), de behandeling van aanvragen voor een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), die zijn ingediend door dochtermaatschappijen van ondernemingen of instellingen die niet in een lid-staat zijn gevestigd, voor een bepaalde termijn wordt opgeschort, dan wel dat dergelijke aanvragen slechts tot een door Onze Minister te bepalen aantal worden gehonoreerd;
+- a. in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), de behandeling van aanvragen voor een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), die zijn ingediend door dochtermaatschappijen van ondernemingen of instellingen die niet in een lid-staat zijn gevestigd, voor een bepaalde termijn wordt opgeschort, dan wel dat dergelijke aanvragen slechts tot een door Onze Minister te bepalen aantal worden gehonoreerd;
 
-- b. in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), de behandeling van aanvragen voor een verklaring van geen bezwaar als bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), die zijn ingediend door ondernemingen of instellingen die niet in een lid-staat zijn gevestigd, voor een bepaalde termijn wordt opgeschort, met overeenkomstige opschorting van de termijn, bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), dan wel dat dergelijk aanvragen slechts tot een door Onze Minister te bepalen aantal worden gehonoreerd; en
+- b. in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), de behandeling van aanvragen voor een verklaring van geen bezwaar als bedoeld in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), die zijn ingediend door ondernemingen of instellingen die niet in een lid-staat zijn gevestigd, voor een bepaalde termijn wordt opgeschort, met overeenkomstige opschorting van de termijn, bedoeld in [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), dan wel dat dergelijk aanvragen slechts tot een door Onze Minister te bepalen aantal worden gehonoreerd; en
 
-- c. in afwijking van [artikel 7, tweede lid, aanhef en onder i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van toepassing is op effecteninstellingen die zijn gevestigd in een staat, niet zijnde een lid-staat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die dochtermaatschappij zijn van ondernemingen of instellingen die niet in een lid-staat zijn gevestigd.
+- c. in afwijking van [artikel 7, tweede lid, aanhef en onder i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van toepassing is op effecteninstellingen die zijn gevestigd in een staat, niet zijnde een lid-staat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die dochtermaatschappij zijn van ondernemingen of instellingen die niet in een lid-staat zijn gevestigd.
 
 2. Het eerste lid is niet van toepassing indien de bedoelde dochtermaatschappijen of gekwalificeerde deelnemingen tevens dochtermaatschappijen onderscheidenlijk gekwalificeerde deelnemingen zijn van een onderneming of instelling die in een lid-staat is gevestigd en die een voor het als effectenbemiddelaar of vermogensbeheerder aanbieden of verrichten van diensten benodigde vergunning heeft verkregen.
 
-3. Onze Minister kan bepalen dat, in afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), vergunningen voor bijkantoren in Nederland van effecteninstellingen die niet in een lid-staat zijn gevestigd niet dan wel slechts onder het stellen van beperkingen of het verbinden van voorschriften worden verleend.
+3. Onze Minister kan bepalen dat, in afwijking van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), vergunningen voor bijkantoren in Nederland van effecteninstellingen die niet in een lid-staat zijn gevestigd niet dan wel slechts onder het stellen van beperkingen of het verbinden van voorschriften worden verleend.
 
-4. Indien een bijkantoor in Nederland van een effecteninstelling die niet in een lid-staat is gevestigd en die een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), heeft verkregen onder het stellen van beperkingen dan wel het verbinden van voorschriften als bedoeld in het derde lid, een handeling verricht zonder dat alle bij de vergunning gestelde beperkingen onderscheidenlijk alle aan de vergunning verbonden voorschriften zijn nagekomen, maakt de effecteninstelling binnen een door Onze Minister te bepalen termijn de verrichte handeling ongedaan of voldoet zij alsnog aan de niet nagekomen beperkingen onderscheidenlijk vervult zij alsnog de niet nagekomen voorschriften.
+4. Indien een bijkantoor in Nederland van een effecteninstelling die niet in een lid-staat is gevestigd en die een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), heeft verkregen onder het stellen van beperkingen dan wel het verbinden van voorschriften als bedoeld in het derde lid, een handeling verricht zonder dat alle bij de vergunning gestelde beperkingen onderscheidenlijk alle aan de vergunning verbonden voorschriften zijn nagekomen, maakt de effecteninstelling binnen een door Onze Minister te bepalen termijn de verrichte handeling ongedaan of voldoet zij alsnog aan de niet nagekomen beperkingen onderscheidenlijk vervult zij alsnog de niet nagekomen voorschriften.
 
 ### Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
 
@@ -880,7 +882,7 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 1. Het is een ieder verboden om, beschikkende over voorwetenschap, in of vanuit Nederland een transactie te verrichten of te bewerkstelligen in:
 
-- a. effecten die zijn genoteerd aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01) erkende effectenbeurs dan wel aan een buiten Nederland gevestigde en van overheidswege toegelaten effectenbeurs of effecten waarvan aannemelijk is dat deze spoedig aan een zodanige beurs zullen worden genoteerd; of
+- a. effecten die zijn genoteerd aan een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15) erkende effectenbeurs dan wel aan een buiten Nederland gevestigde en van overheidswege toegelaten effectenbeurs of effecten waarvan aannemelijk is dat deze spoedig aan een zodanige beurs zullen worden genoteerd; of
 
 - b. effecten waarvan de waarde mede wordt bepaald door de waarde van onder a bedoelde effecten.
 
@@ -904,7 +906,7 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 ##### Artikel 46a
 
-1. Het is een ieder die beschikt over voorwetenschap omtrent een rechtspersoon, vennootschap of instelling als bedoeld in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), of omtrent de handel in effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), die op die rechtspersoon, vennootschap of instelling betrekking hebben, verboden om, anders dan in de normale uitoefening van zijn werk, beroep of functie:
+1. Het is een ieder die beschikt over voorwetenschap omtrent een rechtspersoon, vennootschap of instelling als bedoeld in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), of omtrent de handel in effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), die op die rechtspersoon, vennootschap of instelling betrekking hebben, verboden om, anders dan in de normale uitoefening van zijn werk, beroep of functie:
 
 - a. deze voorwetenschap aan een derde mee te delen, of
 
@@ -916,7 +918,7 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 ##### Artikel 46b
 
-1. Een instelling die effecten als bedoeld in [artikel 46, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), heeft uitgegeven of zal uitgeven, doet onverwijld melding van door haar, anders dan ter bediening van derden, verrichte of bewerkstelligde transacties in op haar betrekking hebbende effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), aan Onze Minister dan wel, indien ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01) taken en bevoegdheden zijn overgedragen aan een rechtspersoon, aan die rechtspersoon.
+1. Een instelling die effecten als bedoeld in [artikel 46, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), heeft uitgegeven of zal uitgeven, doet onverwijld melding van door haar, anders dan ter bediening van derden, verrichte of bewerkstelligde transacties in op haar betrekking hebbende effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), aan Onze Minister dan wel, indien ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15) taken en bevoegdheden zijn overgedragen aan een rechtspersoon, aan die rechtspersoon.
 
 2. Het eerste lid is niet van toepassing op een vennootschap als bedoeld in [artikel 76a van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=76a).
 
@@ -938,7 +940,7 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 ##### Artikel 46c
 
-1. Een melding als bedoeld in [artikel 46b, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2002-09-01&g=2002-09-01), wordt door Onze Minister opgenomen in een register. Onze Minister houdt het register voor een ieder ter inzage.
+1. Een melding als bedoeld in [artikel 46b, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2003-01-15&g=2003-01-15), wordt door Onze Minister opgenomen in een register. Onze Minister houdt het register voor een ieder ter inzage.
 
 2. Indien Onze Minister vermoedt dat een melding is gedaan die onjuist is, kan hij terzake een onderzoek instellen of doen instellen.
 
@@ -952,7 +954,7 @@ Tegen een besluit van een houder van een op grond van [artikel 22](https://wette
 
 ##### Artikel 46d
 
-Een instelling die effecten als bedoeld in [artikel 46, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), heeft uitgegeven of zal uitgeven, stelt een reglement vast waarin regels worden gesteld ten aanzien van het bezit van en transacties in op haar betrekking hebbende effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), door haar werknemers en de personen, bedoeld in [artikel 46b, derde lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2002-09-01&g=2002-09-01). Het reglement voldoet aan bij ministeriële regeling te stellen regels.
+Een instelling die effecten als bedoeld in [artikel 46, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), heeft uitgegeven of zal uitgeven, stelt een reglement vast waarin regels worden gesteld ten aanzien van het bezit van en transacties in op haar betrekking hebbende effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), door haar werknemers en de personen, bedoeld in [artikel 46b, derde lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2003-01-15&g=2003-01-15). Het reglement voldoet aan bij ministeriële regeling te stellen regels.
 
 ##### Artikel 47
 
@@ -960,21 +962,21 @@ Het is een ieder die effecten uitgeeft of belast is met, of zijn medewerking ver
 
 ##### Artikel 48
 
-Overtreding van de verbodsbepalingen van [de artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=47&z=2002-09-01&g=2002-09-01) is een misdrijf.
+Overtreding van de verbodsbepalingen van [de artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=47&z=2003-01-15&g=2003-01-15) is een misdrijf.
 
 ### Hoofdstuk XIIA. Onderzoek door onze minister
 
 ##### Artikel 48a
 
-1. Onze Minister is bevoegd aan een rechtspersoon waaraan ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01), taken en bevoegdheden zijn overgedragen de gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de rechtspersoon deze wet uitvoert of heeft uitgevoerd, indien dat ter wille van het bedrijfseconomisch toezicht nodig blijkt.
+1. Onze Minister is bevoegd aan een rechtspersoon waaraan ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15), taken en bevoegdheden zijn overgedragen de gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de rechtspersoon deze wet uitvoert of heeft uitgevoerd, indien dat ter wille van het bedrijfseconomisch toezicht nodig blijkt.
 
-2. De rechtspersoon, bedoeld in het eerste lid, is verplicht aan Onze Minister de in het eerste lid bedoelde gegevens of inlichtingen te verstrekken. Indien Onze Minister de rechtspersoon vraagt bepaalde gegevens of inlichtingen te verstrekken die onder [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), vallen, is de rechtspersoon niet verplicht deze gegevens of inlichtingen te verstrekken, indien:
+2. De rechtspersoon, bedoeld in het eerste lid, is verplicht aan Onze Minister de in het eerste lid bedoelde gegevens of inlichtingen te verstrekken. Indien Onze Minister de rechtspersoon vraagt bepaalde gegevens of inlichtingen te verstrekken die onder [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), vallen, is de rechtspersoon niet verplicht deze gegevens of inlichtingen te verstrekken, indien:
 
-- a. deze betrekking hebben op of herleidbaar zijn tot een afzonderlijke rechtspersoon, vennootschap of natuurlijke persoon, met uitzondering van gegevens of inlichtingen die betrekking hebben op of herleidbaar zijn tot een afzonderlijke effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), is verleend of waarvan die vergunning is ingetrokken of vervallen, en waaraan surséance van betaling is verleend of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden;
+- a. deze betrekking hebben op of herleidbaar zijn tot een afzonderlijke rechtspersoon, vennootschap of natuurlijke persoon, met uitzondering van gegevens of inlichtingen die betrekking hebben op of herleidbaar zijn tot een afzonderlijke effecteninstelling waaraan een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), is verleend of waarvan die vergunning is ingetrokken of vervallen, en waaraan surséance van betaling is verleend of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden;
 
 - b. deze betrekking hebben op ondernemingen of instellingen die betrokken zijn of zijn geweest bij een poging een effecteninstelling in staat te stellen haar bedrijf voort te zetten; of
 
-- c. deze zijn ontvangen van een instantie als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2002-09-01&g=2002-09-01), of zijn verkregen naar aanleiding van een verificatie bij een in een andere staat gelegen bijkantoor van een in Nederland gevestigde effecteninstelling, tenzij de uitdrukkelijke instemming is verkregen van die instantie onderscheidenlijk van de toezichthoudende autoriteit van de staat waar de verificatie ter plaatse is verricht.
+- c. deze zijn ontvangen van een instantie als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2003-01-15&g=2003-01-15), of zijn verkregen naar aanleiding van een verificatie bij een in een andere staat gelegen bijkantoor van een in Nederland gevestigde effecteninstelling, tenzij de uitdrukkelijke instemming is verkregen van die instantie onderscheidenlijk van de toezichthoudende autoriteit van de staat waar de verificatie ter plaatse is verricht.
 
 3. Onze Minister is bevoegd een derde op te dragen de gegevens of inlichtingen die hem ingevolge het tweede lid zijn verstrekt te onderzoeken en aan hem verslag uit te brengen. Tevens kan Onze Minister de derde die in zijn opdracht handelt, machtigen namens hem gegevens of inlichtingen in te winnen, in welk geval het eerste en tweede lid van overeenkomstige toepassing zijn.
 
@@ -990,7 +992,7 @@ Overtreding van de verbodsbepalingen van [de artikelen 46](https://wetten.overhe
 
 ##### Artikel 48b
 
-1. Onze Minister kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens [de artikelen 3, tweede lid, onder b en c,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2002-09-01&g=2002-09-01), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2002-09-01&g=2002-09-01), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2002-09-01&g=2002-09-01), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2002-09-01&g=2002-09-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), [11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2002-09-01&g=2002-09-01), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2002-09-01&g=2002-09-01), [13, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2002-09-01&g=2002-09-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2002-09-01&g=2002-09-01), [16, eerste, derde, zevende, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2002-09-01&g=2002-09-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2002-09-01&g=2002-09-01), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2002-09-01&g=2002-09-01), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2002-09-01&g=2002-09-01), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2002-09-01&g=2002-09-01), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2002-09-01&g=2002-09-01), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2002-09-01&g=2002-09-01), [28, derde en zesde lid, onder a, 28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2002-09-01&g=2002-09-01), [29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29&z=2002-09-01&g=2002-09-01), [36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2002-09-01&g=2002-09-01), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens [de artikelen 3, tweede lid, onder b en c,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2003-01-15&g=2003-01-15), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2003-01-15&g=2003-01-15), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2003-01-15&g=2003-01-15), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2003-01-15&g=2003-01-15), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), [11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2003-01-15&g=2003-01-15), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2003-01-15&g=2003-01-15), [13, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2003-01-15&g=2003-01-15), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2003-01-15&g=2003-01-15), [16, eerste, derde, zevende, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2003-01-15&g=2003-01-15), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2003-01-15&g=2003-01-15), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2003-01-15&g=2003-01-15), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2003-01-15&g=2003-01-15), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2003-01-15&g=2003-01-15), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2003-01-15&g=2003-01-15), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2003-01-15&g=2003-01-15), [28, derde en zesde lid, onder a, 28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2003-01-15&g=2003-01-15), [29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29&z=2003-01-15&g=2003-01-15), [36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2003-01-15&g=2003-01-15), en [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2003-01-15&g=2003-01-15).
 
 2. De [artikelen 5:32, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), en [5:33 tot en met 5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:33) zijn van toepassing.
 
@@ -998,9 +1000,9 @@ Overtreding van de verbodsbepalingen van [de artikelen 46](https://wetten.overhe
 
 ##### Artikel 48c
 
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens [de artikelen 3, eerste en tweede lid, onder b en c,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2002-09-01&g=2002-09-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2002-09-01&g=2002-09-01), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2002-09-01&g=2002-09-01), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2002-09-01&g=2002-09-01), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2002-09-01&g=2002-09-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), [11a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2002-09-01&g=2002-09-01), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2002-09-01&g=2002-09-01), [13, eerste, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2002-09-01&g=2002-09-01), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=14&z=2002-09-01&g=2002-09-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2002-09-01&g=2002-09-01), [16, eerste, derde, zevende, achtste en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2002-09-01&g=2002-09-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2002-09-01&g=2002-09-01), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2002-09-01&g=2002-09-01), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2002-09-01&g=2002-09-01), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2002-09-01&g=2002-09-01), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2002-09-01&g=2002-09-01), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26&z=2002-09-01&g=2002-09-01), [28, derde en zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2002-09-01&g=2002-09-01), [28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2002-09-01&g=2002-09-01), [29, vijfde lid, 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29&z=2002-09-01&g=2002-09-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2002-09-01&g=2002-09-01), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2002-09-01&g=2002-09-01), [46a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46a&z=2002-09-01&g=2002-09-01), [46b, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2002-09-01&g=2002-09-01), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46d&z=2002-09-01&g=2002-09-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=47&z=2002-09-01&g=2002-09-01).
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens [de artikelen 3, eerste en tweede lid, onder b en c,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2003-01-15&g=2003-01-15), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2003-01-15&g=2003-01-15), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2003-01-15&g=2003-01-15), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2003-01-15&g=2003-01-15), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2003-01-15&g=2003-01-15), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), [11a, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2003-01-15&g=2003-01-15), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2003-01-15&g=2003-01-15), [13, eerste, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2003-01-15&g=2003-01-15), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=14&z=2003-01-15&g=2003-01-15), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2003-01-15&g=2003-01-15), [16, eerste, derde, zevende, achtste en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2003-01-15&g=2003-01-15), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2003-01-15&g=2003-01-15), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2003-01-15&g=2003-01-15), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2003-01-15&g=2003-01-15), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2003-01-15&g=2003-01-15), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2003-01-15&g=2003-01-15), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26&z=2003-01-15&g=2003-01-15), [28, derde en zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2003-01-15&g=2003-01-15), [28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2003-01-15&g=2003-01-15), [29, vijfde lid, 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29&z=2003-01-15&g=2003-01-15), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2003-01-15&g=2003-01-15), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2003-01-15&g=2003-01-15), [46a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46a&z=2003-01-15&g=2003-01-15), [46b, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2003-01-15&g=2003-01-15), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46d&z=2003-01-15&g=2003-01-15) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=47&z=2003-01-15&g=2003-01-15).
 
-2. De bestuurlijke boete komt toe aan de staat. Voor zover Onze Minister met toepassing van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2002-09-01&g=2002-09-01), de bevoegdheid tot het opleggen van een bestuurlijke boete heeft overgedragen aan een rechtspersoon, komt de boete toe aan die rechtspersoon.
+2. De bestuurlijke boete komt toe aan de staat. Voor zover Onze Minister met toepassing van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2003-01-15&g=2003-01-15), de bevoegdheid tot het opleggen van een bestuurlijke boete heeft overgedragen aan een rechtspersoon, komt de boete toe aan die rechtspersoon.
 
 3. Onze Minister, in overeenstemming met Onze Minister van Justitie, kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
@@ -1014,7 +1016,7 @@ Overtreding van de verbodsbepalingen van [de artikelen 46](https://wetten.overhe
 
 4. Onze Minister kan het bedrag van de boete lager stellen dan in debijlage is bepaald, indien het bedrag van de boete in een bepaald geval op grond van bijzondere omstandigheden onevenredig hoog is.
 
-5. Voor overtreding van voorschriften, gesteld bij of krachtens een algemene maatregel van bestuur op grond van de [artikelen 3, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2002-09-01&g=2002-09-01), [5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2002-09-01&g=2002-09-01), [6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2002-09-01&g=2002-09-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2002-09-01&g=2002-09-01), of 17, eerste lid, wordt het bedrag van de boete bepaald op de wijze als voorzien in die algemene maatregel van bestuur. Het eerste tot en met vierde lid is van overeenkomstige toepassing.
+5. Voor overtreding van voorschriften, gesteld bij of krachtens een algemene maatregel van bestuur op grond van de [artikelen 3, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2003-01-15&g=2003-01-15), [5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2003-01-15&g=2003-01-15), [6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2003-01-15&g=2003-01-15), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2003-01-15&g=2003-01-15), of 17, eerste lid, wordt het bedrag van de boete bepaald op de wijze als voorzien in die algemene maatregel van bestuur. Het eerste tot en met vierde lid is van overeenkomstige toepassing.
 
 ##### Artikel 48e
 
@@ -1024,7 +1026,7 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 
 1. Indien Onze Minister voornemens is een boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
 
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt Onze Minister de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in debijlage of de algemene maatregel van bestuur, bedoeld in [artikel 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48d&z=2002-09-01&g=2002-09-01), is aangewezen.
+2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt Onze Minister de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in debijlage of de algemene maatregel van bestuur, bedoeld in [artikel 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48d&z=2003-01-15&g=2003-01-15), is aangewezen.
 
 ##### Artikel 48g
 
@@ -1036,19 +1038,19 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 
 - b. het bedrag van de boete en de gegevens op basis waarvan dit bedrag is bepaald; en
 
-- c. de termijn, bedoeld in [artikel 48i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48i&z=2002-09-01&g=2002-09-01), waarbinnen de boete moet worden betaald.
+- c. de termijn, bedoeld in [artikel 48i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48i&z=2003-01-15&g=2003-01-15), waarbinnen de boete moet worden betaald.
 
 ##### Artikel 48h
 
 1. De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
-2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2002-09-01&g=2002-09-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
+2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2003-01-15&g=2003-01-15), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
 
 ##### Artikel 48i
 
 1. De boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
 
-2. De boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2002-09-01&g=2002-09-01), is aangewezen.
+2. De boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2003-01-15&g=2003-01-15), is aangewezen.
 
 3. Indien de boete niet tijdig is betaald, stuurt Onze Minister schriftelijk een aanmaning om binnen twee weken de boete, verhoogd met de kosten van de aanmaning, alsnog te betalen. De aanmaning bevat de aanzegging, dat de boete, voor zover deze niet binnen de gestelde termijn wordt betaald, overeenkomstig het derde lid zal worden ingevorderd.
 
@@ -1066,7 +1068,7 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 
 1. De bevoegdheid een boete op te leggen vervalt indien ter zake van de overtreding een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
 
-2. Het recht tot strafvervolging met betrekking tot een overtreding als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2002-09-01&g=2002-09-01) vervalt, indien Onze Minister ter zake van die overtreding reeds een boete heeft opgelegd.
+2. Het recht tot strafvervolging met betrekking tot een overtreding als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2003-01-15&g=2003-01-15) vervalt, indien Onze Minister ter zake van die overtreding reeds een boete heeft opgelegd.
 
 ##### Artikel 48k
 
@@ -1080,7 +1082,7 @@ De werkzaamheden in verband met het opleggen van een dwangsom of van een boete w
 
 ##### Artikel 48m
 
-1. Met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten, kan Onze Minister, onverminderd [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2002-09-01&g=2002-09-01), het feit ter zake waarvan de last onder dwangsom of de bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.
+1. Met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten, kan Onze Minister, onverminderd [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2003-01-15&g=2003-01-15), het feit ter zake waarvan de last onder dwangsom of de bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
@@ -1130,27 +1132,27 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 59
 
-Van de verlening of intrekking van een vrijstelling, vergunning, erkenning of ontheffing en van het van kracht worden van het verbod, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2002-09-01&g=2002-09-01), wordt door de zorg van Onze Minister mededeling gedaan in de **Staatscourant**.
+Van de verlening of intrekking van een vrijstelling, vergunning, erkenning of ontheffing en van het van kracht worden van het verbod, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2003-01-15&g=2003-01-15), wordt door de zorg van Onze Minister mededeling gedaan in de **Staatscourant**.
 
 ##### Artikel 60
 
-1. Effectenbemiddelaars of vermogensbeheerders waarop op het tijdstip van inwerkingtreding van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van deze wet [artikel 8](onbekend) onderscheidenlijk [artikel 12 van de Wet toezicht effectenverkeer](onbekend)van toepassing is, worden geacht op dat tijdstip een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), te hebben verkregen.
+1. Effectenbemiddelaars of vermogensbeheerders waarop op het tijdstip van inwerkingtreding van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van deze wet [artikel 8](onbekend) onderscheidenlijk [artikel 12 van de Wet toezicht effectenverkeer](onbekend)van toepassing is, worden geacht op dat tijdstip een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), te hebben verkregen.
 
-2. Effectenbemiddelaars of vermogensbeheerders die op het tijdstip van inwerkingtreding van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van deze wet een vergunning als bedoeld in [artikel 6, eerste lid](onbekend), onderscheidenlijk [artikel 10, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, worden geacht op dat tijdstip een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van deze wet te hebben verkregen.
+2. Effectenbemiddelaars of vermogensbeheerders die op het tijdstip van inwerkingtreding van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van deze wet een vergunning als bedoeld in [artikel 6, eerste lid](onbekend), onderscheidenlijk [artikel 10, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, worden geacht op dat tijdstip een vergunning als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van deze wet te hebben verkregen.
 
 ##### Artikel 61
 
-Ten aanzien van effectenbemiddelaars of vermogensbeheerders die zijn gevestigd in een andere lid-staat, niet zijnde een lid-staat ten aanzien waarvan Onze Minister een maatregel als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=8&z=2002-09-01&g=2002-09-01), heeft genomen, en die op het tijdstip van inwerkingtreding van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01), van deze wet een vergunning als bedoeld in [artikel 6, eerste lid](onbekend), onderscheidenlijk [artikel 10, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, wordt geacht te zijn voldaan aan [artikel 7, tweede lid, onderdeel **i**, onder 2° en 3°, onderscheidenlijk onderdeel **j**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2002-09-01&g=2002-09-01).
+Ten aanzien van effectenbemiddelaars of vermogensbeheerders die zijn gevestigd in een andere lid-staat, niet zijnde een lid-staat ten aanzien waarvan Onze Minister een maatregel als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=8&z=2003-01-15&g=2003-01-15), heeft genomen, en die op het tijdstip van inwerkingtreding van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15), van deze wet een vergunning als bedoeld in [artikel 6, eerste lid](onbekend), onderscheidenlijk [artikel 10, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, wordt geacht te zijn voldaan aan [artikel 7, tweede lid, onderdeel **i**, onder 2° en 3°, onderscheidenlijk onderdeel **j**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2003-01-15&g=2003-01-15).
 
 ##### Artikel 62
 
-1. [Artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), blijft buiten toepassing tot de eerste dag van de derde kalendermaand na de datum van inwerkingtreding van dat artikellid.
+1. [Artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), blijft buiten toepassing tot de eerste dag van de derde kalendermaand na de datum van inwerkingtreding van dat artikellid.
 
-2. Met ingang van de in het eerste lid bedoelde dag geldt [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2002-09-01&g=2002-09-01), niet ten aanzien van degene die in de aan die dag voorafgaande periode bij Onze Minister een aanvraag heeft ingediend voor een verklaring van geen bezwaar en tot de tweede dag nadat Onze Minister zijn besluit inzake die aanvraag heeft verzonden.
+2. Met ingang van de in het eerste lid bedoelde dag geldt [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2003-01-15&g=2003-01-15), niet ten aanzien van degene die in de aan die dag voorafgaande periode bij Onze Minister een aanvraag heeft ingediend voor een verklaring van geen bezwaar en tot de tweede dag nadat Onze Minister zijn besluit inzake die aanvraag heeft verzonden.
 
 ##### Artikel 63
 
-Houders van een effectenbeurs die op het tijdstip van inwerkingtreding van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), van deze wet een erkenning als bedoeld in [artikel 16, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, worden geacht op dat tijdstip een erkenning als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2002-09-01&g=2002-09-01), van deze wet te hebben verkregen.
+Houders van een effectenbeurs die op het tijdstip van inwerkingtreding van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), van deze wet een erkenning als bedoeld in [artikel 16, eerste lid, van de Wet toezicht effectenverkeer](onbekend) bezitten, worden geacht op dat tijdstip een erkenning als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2003-01-15&g=2003-01-15), van deze wet te hebben verkregen.
 
 ##### Artikel 64
 
@@ -1182,21 +1184,83 @@ Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van 
 
 **Categorie I:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van minder dan € 136 100; Factor: 1;
 
-**Categorie II:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van ten minste € 136 100 maar minder dan € 272 300; Factor: 2;
+Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van inwerkingtreding van Hoofdstuk XII Bvan deze wet, zijn de boetebedragen vastgesteld als volgt:
 
 **Categorie III:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van ten minste € 272 300 maar minder dan € 453 800; Factor: 3;
+
+1. Indien een boete wordt opgelegd voor het overtreden van een bepaling als genoemd in tabel 11In tabel 1 zijn die bepalingen genoemd die zich uitsluitend richten tot vergunninghoudende effecteninstellingen c.q. erkende effectenbeurzen (natuurlijke personen, rechtspersonen en vennootschappen). In tabel 2 zijn die bepalingen opgesomd die zich in beginsel tot een ieder (al dan niet instellingen/beurzen) richten., is bij de vaststelling van de hoogte van deze boete de volgende categorie-indeling naar eigen vermogen van toepassing met de daarbij behorende factor2Onder eigen vermogen wordt in dit verband verstaan:–ingeval van rechtspersonen en vennootschappen zonder rechtspersoonlijkheid, voor zover dezen een jaarrekening opstellen: het eigen vermogen zoals dat blijkt uit de jaarrekening;–in geval van vennootschappen zonder rechtspersoonlijkheid, voor zover dezen geen jaarrekening opstellen: het privévermogen van de gezamenlijke vennoten, zoals dat blijkt uit hun laatste aangifte voor de vermogensbelasting; en–in geval van natuurlijke personen (eenmanszaken): het privévermogen zoals dat blijkt uit zijn laatste aangifte voor de vermogensbelasting.:
+
+**Categorie-indeling normgeadresseerden**
+
+**Categorie I:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van minder dan € 136 100; Factor: 1;
+
+**Categorie II:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van ten minste € 136 100 maar minder dan € 272 300; Factor: 2;
+
+### Artikel 3
 
 **Categorie IV:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van ten minste € 453 800 maar minder dan € 4 538 000; Factor: 4;
 
 **Categorie V:** natuurlijke personen, rechtspersonen en vennootschapppen met een eigen vermogen van ten minste € 4 538 000; Factor: 5.
 
-2. De boete wordt vastgesteld door het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=I&artikel=1&z=2002-09-01&g=2002-09-01), te vermenigvuldigen met de factor behorende bij de categorie naar eigen vermogen, bedoeld in het eerste lid.
+2. De boete wordt vastgesteld door het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=I&artikel=1&z=2003-01-15&g=2003-01-15), te vermenigvuldigen met de factor behorende bij de categorie naar eigen vermogen, bedoeld in het eerste lid.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 15a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 15b
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 3. Gekwalificeerde deelnemingen in effecteninstellingen
+
+### Hoofdstuk IV. Intrekkingsbepalingen
+
+### Hoofdstuk VI. Effectenbeurzen
+
+### Hoofdstuk VII. Bijzondere bepalingen
+
+##### Artikel 28c
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk VIII. Controle, uitvoering en samenwerking
+
+##### Artikel 29a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk X. Beroep
+
+### Hoofdstuk XI. Betrekkingen met derde landen
+
+### Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
+
+### Hoofdstuk XIIA. Onderzoek door onze minister
+
+### Hoofdstuk XII B. Dwangsom en bestuurlijke boete
+
+### Hoofdstuk XIIC. Openbaarmaking van overtredingen
+
+### Hoofdstuk XIII. Wijziging van andere wetten
+
+### Hoofdstuk XIV. Slotbepalingen
+
+## Bijlage. bedoeld in artikel 48d, eerste lid, van de Wet toezicht effectenverkeer 1995
+
+### Artikel 1
+
+### Artikel 2
+
+**Categorie III:** natuurlijke personen, rechtspersonen en vennootschappen met een eigen vermogen van ten minste € 272 300 maar minder dan € 453 800; Factor: 3;
 
 3. Indien de gegevens omtrent het eigen vermogen niet aan Onze Minister beschikbaar zijn gesteld, kan Onze Minister aan degene aan wie de boete wordt opgelegd verzoeken deze gegevens binnen een door hem te stellen termijn te verstrekken. Indien de betrokkene niet binnen de gestelde termijn voldoet aan dit verzoek, is bij de vaststelling van de hoogte van de boete categorie V van toepassing.
 
 ### Artikel 3
 
-Op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2002-09-01&g=2002-09-01), behoeft de betrokkene niet in de gelegenheid te worden gesteld om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, indien het een overtreding betreft waarvoor tariefnummer 1 of 2 is vastgesteld.
+Op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2003-01-15&g=2003-01-15), behoeft de betrokkene niet in de gelegenheid te worden gesteld om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, indien het een overtreding betreft waarvoor tariefnummer 1 of 2 is vastgesteld.
 
 **Tabel 1**
 
