@@ -4,7 +4,7 @@ identifier: "BWBR0018612"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-13"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018612"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-1. De maatstaf minderheden, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018612&bijlage=2&z=2006-01-13&g=2003-01-01) bij dit besluit onder nummer 12, treedt in werking met ingang van 1 januari 2006.
+1. De maatstaf minderheden, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018612&bijlage=2&z=2006-01-13&g=2005-01-01) bij dit besluit onder nummer 12, treedt in werking met ingang van 1 januari 2006.
 
 2. Tot dat tijdstip worden voor de vreemdelingen die op grond van asiel verblijf houden de aantallen gehanteerd zoals vastgesteld per 1 januari 2001.
 
