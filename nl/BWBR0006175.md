@@ -132,9 +132,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling standaard luchtverkeerscircuits.
 
 ## Bijlage
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 7, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7).
-
-## Bijlage
