@@ -4,7 +4,7 @@ identifier: "BWBR0018238"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2004-11-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018238"
 soort: "AMvB"
@@ -163,7 +163,7 @@ Wijzigt het Bekostigingsbesluit inburgering nieuwkomers.
 
 ##### Artikel 32
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten.
 
 ##### Artikel 33
 
@@ -171,7 +171,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 34
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister kan aan één of meer rechtspersonen subsidies verstrekken voor activiteiten die passen in het Grotestedenbeleid.
+
+2. Bij regeling van Onze Minister worden regels gegeven voor de verstrekking van de subsidies, bedoeld in het eerste lid.
 
 ##### Artikel 35
 
