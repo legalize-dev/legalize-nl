@@ -4,7 +4,7 @@ identifier: "BWBR0002008"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002008"
 soort: "KB"
@@ -48,7 +48,7 @@ Ten aanzien van de rechtspleging in zaken, waarvan krachtens het [Besluit op de 
 
 - 1°. hetgeen daarin omtrent de rechtbank, derzelver voorzitter, de rechters, den rechter-commissaris, den officier van justitie en den griffier bij de rechtbank is bepaald, ten deze geldt voor het Bijzondere Gerechtshof, deszelfs voorzitter en leden, den raadsheer-commissaris, den procureur-fiscaal en den griffier bij dat Hof;
 
-- 2°. hetgeen daarin omtrent den Hoogen Raad, deszelfs voorzitter en leden, den procureur-generaal en den griffier bij den Hoogen Raad is bepaald, ten deze geldt voor den Bijzonderen Raad van Cassatie, deszelfs voorzitter en leden, den procureur-fiscaal en den griffier bij dien Bijzonderen Raad;
+- 2°. hetgeen daarin omtrent den Hoogen Raad, deszelfs voorzitter en leden, den procureur-generaal en den griffier van de Hoge Raad is bepaald, ten deze geldt voor den Bijzonderen Raad van Cassatie, deszelfs voorzitter en leden, den procureur-fiscaal en den griffier bij dien Bijzonderen Raad;
 
 - 3°. hetgeen daarin met betrekking tot de kantonrechter van de rechtbank of het gerechtshof en de leden der rechterlijke macht bij een dezer gerechten is bepaald, ten deze buiten toepassing blijft, voor zoover uit eenige bepaling van dit besluit niet het tegendeel volgt.
 
@@ -72,7 +72,7 @@ De berichten, in [artikel 11, eerste lid, van het Wetboek van Strafvordering](ht
 
 ##### Artikel 5
 
-1. Een beklag, als in [artikel 12, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12) bedoeld, kan worden gedaan bij het Bijzondere Gerechtshof, bij hetwelk de vervolging zal behooren plaats te vinden. Indien in het geval, in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=3&z=2002-01-01&g=2002-01-01) van dit besluit vermeld, een vervolging nog niet is aangevangen, kan het beklag worden gedaan bij het Bijzondere Gerechtshof, door den voorzitter van den Bijzonderen Raad van Cassatie op verzoek van den belanghebbende daarvoor aan te wijzen.
+1. Een beklag, als in [artikel 12, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12) bedoeld, kan worden gedaan bij het Bijzondere Gerechtshof, bij hetwelk de vervolging zal behooren plaats te vinden. Indien in het geval, in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=3&z=2003-11-19&g=2003-11-19) van dit besluit vermeld, een vervolging nog niet is aangevangen, kan het beklag worden gedaan bij het Bijzondere Gerechtshof, door den voorzitter van den Bijzonderen Raad van Cassatie op verzoek van den belanghebbende daarvoor aan te wijzen.
 
 2. Het in den tweeden zin van het eerste lid en in het tweede en derde lid van [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12) ten aanzien van het gerechtshof, deszelfs leden en den procureur-generaal bepaalde is voor het Bijzondere Gerechtshof, deszelfs leden en den procureur-fiscaal bij dat Hof van overeenkomstige toepassing.
 
@@ -174,7 +174,7 @@ Met de opsporing der strafbare feiten, waarop de bepalingen van het [Besluit Bui
 
 ##### Artikel 23
 
-De opsporingsambtenaren hebben te allen tijde vrijen toegang tot alle plaatsen, waar redelijkerwijs vermoed kan worden, dat een misdrijf, waarop de bepalingen van het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing zijn, wordt begaan. De artikelen [120](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=120)-[123](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=123) van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) zijn, met inachtneming van het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=19&z=2002-01-01&g=2002-01-01) van dit besluit van overeenkomstige toepassing.
+De opsporingsambtenaren hebben te allen tijde vrijen toegang tot alle plaatsen, waar redelijkerwijs vermoed kan worden, dat een misdrijf, waarop de bepalingen van het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing zijn, wordt begaan. De artikelen [120](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=120)-[123](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=123) van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) zijn, met inachtneming van het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=19&z=2003-11-19&g=2003-11-19) van dit besluit van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -182,7 +182,7 @@ De bevelen, in [artikel 148, tweede lid, van het Wetboek van Strafvordering](htt
 
 ##### Artikel 25
 
-De officier van justitie heeft gelijke verplichtingen en bevoegdheden als bij de [artikelen 152](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=152), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=153), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=155), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=156) en [158 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=158) aan de hulpofficieren van justitie zijn opgelegd en toegekend. Het bepaalde in [artikel 12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=12&z=2002-01-01&g=2002-01-01), van dit besluit is te dien aanzien van overeenkomstige toepassing.
+De officier van justitie heeft gelijke verplichtingen en bevoegdheden als bij de [artikelen 152](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=152), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=153), [155](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=155), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=156) en [158 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=158) aan de hulpofficieren van justitie zijn opgelegd en toegekend. Het bepaalde in [artikel 12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=12&z=2003-11-19&g=2003-11-19), van dit besluit is te dien aanzien van overeenkomstige toepassing.
 
 ##### Artikel 26
 
@@ -200,13 +200,13 @@ Opdrachten en bevelen, als in [artikel 177, eerste lid, van het Wetboek van Stra
 
 ##### Artikel 29
 
-1. In afwijking van het bepaalde in de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=194) en [201, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=201) is in de gevallen, waarin de daar bedoelde handelingen moeten geschieden buiten het rechtsgebied van het Bijzondere Gerechtshof, het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=18&z=2002-01-01&g=2002-01-01) van dit besluit van overeenkomstige toepassing.
+1. In afwijking van het bepaalde in de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=194) en [201, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=201) is in de gevallen, waarin de daar bedoelde handelingen moeten geschieden buiten het rechtsgebied van het Bijzondere Gerechtshof, het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=18&z=2003-11-19&g=2003-11-19) van dit besluit van overeenkomstige toepassing.
 
 2. In het in [artikel 223, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=223), van dat Wetboek bedoelde geval staat den getuige met inachtneming overigens der daar gestelde bepalingen tegen de beschikking van het Bijzondere Gerechtshof beroep in cassatie open.
 
 ##### Artikel 30
 
-Indien het instellen of voortzetten der vervolging ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=5&z=2002-01-01&g=2002-01-01) van dit besluit door het Bijzondere Gerechtshof is bevolen, vindt de mededeeling, in [artikel 237, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=237) genoemd, of eene kennisgeving van niet verdere vervolging, waaraan een zoodanige mededeeling niet is voorafgegaan, niet plaats, dan nadat het Bijzondere Gerechtshof daarin heeft bewilligd.
+Indien het instellen of voortzetten der vervolging ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=5&z=2003-11-19&g=2003-11-19) van dit besluit door het Bijzondere Gerechtshof is bevolen, vindt de mededeeling, in [artikel 237, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=237) genoemd, of eene kennisgeving van niet verdere vervolging, waaraan een zoodanige mededeeling niet is voorafgegaan, niet plaats, dan nadat het Bijzondere Gerechtshof daarin heeft bewilligd.
 
 ##### Artikel 31
 
@@ -372,13 +372,13 @@ Indien naar het aanvankelijk oordeel van den procureur-fiscaal in een zaak als h
 
 1. De beschikking behelst den naam van den raadsheer, den dag, waarop de beschikking is genomen, en voor zoover mogelijk naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van den verdachte.
 
-2. De beschikking bevat voorts de beslissing, op grond van [artikel 44d](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44d&z=2002-01-01&g=2002-01-01) genomen. Ingeval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbaar feit volgens de wettelijke omschrijving, ter zake waarvan de straf is opgelegd, met vermelding omstreeks welken tijd en waar ter plaatse het is begaan.
+2. De beschikking bevat voorts de beslissing, op grond van [artikel 44d](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44d&z=2003-11-19&g=2003-11-19) genomen. Ingeval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbaar feit volgens de wettelijke omschrijving, ter zake waarvan de straf is opgelegd, met vermelding omstreeks welken tijd en waar ter plaatse het is begaan.
 
 ##### Artikel 44g
 
 1. De raadsheer doet de beschikking met de stukken onverwijld toekomen aan den procureur-fiscaal.
 
-2. De beschikking wordt aan den verdachte in persoon beteekend, tenzij zij is genomen en aan den verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de raadsheer van de uitreiking een acte op. Bij de uitreiking of beteekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de [artikelen 44h](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44h&z=2002-01-01&g=2002-01-01) en [44i](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44i&z=2002-01-01&g=2002-01-01).
+2. De beschikking wordt aan den verdachte in persoon beteekend, tenzij zij is genomen en aan den verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de raadsheer van de uitreiking een acte op. Bij de uitreiking of beteekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de [artikelen 44h](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44h&z=2003-11-19&g=2003-11-19) en [44i](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44i&z=2003-11-19&g=2003-11-19).
 
 ##### Artikel 44h
 
@@ -396,7 +396,7 @@ De procureur-fiscaal en de verdachte kunnen afstand doen van de bevoegdheid om e
 
 2. De beschikking vervalt eveneens, indien zij niet binnen drie maanden na haar dagteekening in afschrift uitgereikt of beteekend is kunnen worden.
 
-3. Wanneer de termijn, genoemd in [artikel 44h](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44h&z=2002-01-01&g=2002-01-01), is verstreken, zonder dat een verklaring van bezwaar is afgelegd of zooveel eerder als zoowel door den procureur-fiscaal als den verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van het Bijzondere Gerechtshof, waartegen geen gewoon rechtsmiddel openstaat.
+3. Wanneer de termijn, genoemd in [artikel 44h](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=44h&z=2003-11-19&g=2003-11-19), is verstreken, zonder dat een verklaring van bezwaar is afgelegd of zooveel eerder als zoowel door den procureur-fiscaal als den verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van het Bijzondere Gerechtshof, waartegen geen gewoon rechtsmiddel openstaat.
 
 #### Zesde Hoofdstuk Tenuitvoerlegging en kosten
 
@@ -420,7 +420,7 @@ De persoon, die tot de doodstraf is veroordeeld, wordt, zoodra die veroordeeling
 
 ##### Artikel 49
 
-Ten aanzien van de kosten in zaken, waarvan de kennisneming aan de Bijzondere Gerechtshoven of den Bijzonderen Raad van Cassatie behoort, zijn mede van overeenkomstige toepassing, met inachtneming van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2002-01-01&g=2002-01-01) van dit besluit [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2002-01-01&g=2002-01-01)., [2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2002-01-01&g=2002-01-01). en 3°. gestelde, de bepalingen der wet van 18 April 1874 (**Staatsblad** N°. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de voorschriften tot uitvoering daarvan.
+Ten aanzien van de kosten in zaken, waarvan de kennisneming aan de Bijzondere Gerechtshoven of den Bijzonderen Raad van Cassatie behoort, zijn mede van overeenkomstige toepassing, met inachtneming van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2003-11-19&g=2003-11-19) van dit besluit [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2003-11-19&g=2003-11-19)., [2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002008&artikel=1&z=2003-11-19&g=2003-11-19). en 3°. gestelde, de bepalingen der wet van 18 April 1874 (**Staatsblad** N°. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de voorschriften tot uitvoering daarvan.
 
 #### Slotbepaling
 
