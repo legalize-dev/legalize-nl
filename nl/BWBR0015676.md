@@ -4,7 +4,7 @@ identifier: "BWBR0015676"
 country: "nl"
 rank: "wet"
 publication_date: "2003-12-01"
-last_updated: "2002-04-01"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015676"
 soort: "wet"
@@ -59,7 +59,27 @@ Wijzigt de [Wijzigingswet Wet rechtspositie rechterlijke ambtenaren](https://wet
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en werkt terug als volgt:
+
+- a. wat [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 november 2000;
+
+- b. wat [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 januari 2001;
+
+- c. wat [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 april 2001;
+
+- d. wat [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 november 2001;
+
+- e. wat [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01) , betreft: tot en met 1 januari 2002;
+
+- f. wat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 juli 2002;
+
+- g. wat [artikel I, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 december 2002;
+
+- h. wat [artikel I, onderdeel Fb](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01) betreft: tot en met 1 mei 2003;
+
+- i. wat [artikel I, onderdelen G tot en met N](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 april 2002;
+
+- j. wat de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=II&z=2003-12-01&g=2003-12-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0015676&artikel=III&z=2003-12-01&g=2003-12-01) betreft: tot en met 1 augustus 2000.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
