@@ -4,7 +4,7 @@ identifier: "BWBR0003378"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "1998-06-01"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003378"
 soort: "wet"
@@ -59,17 +59,17 @@ Deze wet verstaat onder:
 
 - 1°. een zeeschip dat Nederlands is op grond van [artikel 311 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311), [artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681&artikel=5) of [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), dan wel
 
-- 2°. een binnenschip dat voldoet aan tenminste een der in het eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek gestelde voorwaarden;
+- 2°. een binnenschip dat voldoet aan tenminste een der in het [eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) gestelde voorwaarden;
 
-- g. "Scheepsmetingsdienst": de Scheepsmetingsdienst, ingesteld bij Koninklijk besluit van 12 september 1978, **Stcrt.** 196;
+- g. inspecteur-generaal: inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
 - h. "het ondernemen van een reis": het buitengaats brengen van een schip als bedoeld in [artikel 1, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1);
 
 - i. "Internationale Meetbrief (1969)": de meetbrief, door het Hoofd van de Scheepsmetingsdienst dan wel door de administratie van een andere Staat, aangesloten bij het Verdrag, afgegeven overeenkomstig de bepalingen van het Verdrag;
 
-- j. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder **i**, vermeldende de bruto- en netto-tonnage van een schip, door het Hoofd van de Scheepsmetingsdienst afgegeven ten behoeve van een schip;
+- j. "bijzondere meetbrief": de meetbrief, anders dan bedoeld onder **i**, vermeldende de bruto- en netto-tonnage van een schip, door de inspecteur-generaal afgegeven ten behoeve van een schip;
 
-- k. "voorlopige meetbrief": de meetbrief, anders dan bedoeld onder **i** en **j**, voor een tijdsduur van ten hoogste zes maanden door het Hoofd van de Scheepsmetingsdienst afgegeven ten behoeve van een Nederlands schip;
+- k. "voorlopige meetbrief": de meetbrief, anders dan bedoeld onder **i** en **j**, voor een tijdsduur van ten hoogste zes maanden door de inspecteur-generaal afgegeven ten behoeve van een Nederlands schip;
 
 - l. "nieuw schip": een schip waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium van aanbouw bevindt op of na de datum van inwerkingtreding van het Verdrag;
 
@@ -99,95 +99,95 @@ De bepalingen van deze paragraaf zijn van toepassing op alle Nederlandse schepen
 
 - 1e. nieuwe schepen;
 
-- 2e. bestaande schepen, die veranderingen of wijzigingen ondergaan of hebben ondergaan welke door het Hoofd van de Scheepsmetingsdienst worden geacht een aanzienlijke afwijking te vormen van hun bestaande bruto-tonnage;
+- 2e. bestaande schepen, die veranderingen of wijzigingen ondergaan of hebben ondergaan welke door de inspecteur-generaal worden geacht een aanzienlijke afwijking te vormen van hun bestaande bruto-tonnage;
 
 - 3e. bestaande schepen, indien de eigenaar of de rompbevrachter zulks verlangt, in welk geval de tonnages van deze schepen na deze afgifte niet meer kunnen worden vastgesteld overeenkomstig de bepalingen die door de Scheepsmetingsdienst werden toegepast vóór de datum van inwerkingtreding van het Verdrag;
 
 - 4e. alle bestaande schepen, twaalf jaar na de datum van inwerkingtreding van het Verdrag, met dien verstande dat deze schepen, met uitzondering van de onder 2e en 3e bedoelde, hun alsdan bestaande tonnages behouden voor de toepassing van de daarmee verband houdende bepalingen van andere bestaande internationale verdragen.
 
-- b. een bijzondere meetbrief, afgegeven door het Hoofd van de Scheepsmetingsdienst ingevolge de bepalingen van de Meetbrievenwet 1948 ten behoeve van alle bestaande schepen, niet vallende onder 2e, 3e en 4e van het eerste lid, onder a.
+- b. een bijzondere meetbrief, afgegeven door de inspecteur-generaal ingevolge de bepalingen van de Meetbrievenwet 1948 ten behoeve van alle bestaande schepen, niet vallende onder 2e, 3e en 4e van het eerste lid, onder a.
 
-- c. voor nieuwe schepen met een lengte van minder dan 24 meter een bijzondere meetbrief, afgegeven door het Hoofd van de Scheepsmetingsdienst ingevolge de bepalingen van deze wet, met uitzondering van pleziervaartuigen, welke uitsluitend als zodanig worden gebezigd, voor zover zij geen passagiers tegen vergoeding vervoeren, tenzij de eigenaar of de rompbevrachter een bijzondere meetbrief verlangt;
+- c. voor nieuwe schepen met een lengte van minder dan 24 meter een bijzondere meetbrief, afgegeven door de inspecteur-generaal ingevolge de bepalingen van deze wet, met uitzondering van pleziervaartuigen, welke uitsluitend als zodanig worden gebezigd, voor zover zij geen passagiers tegen vergoeding vervoeren, tenzij de eigenaar of de rompbevrachter een bijzondere meetbrief verlangt;
 
 - d. voor schepen die hebben gevaren onder de vlag van een andere Staat een voorlopige meetbrief, welke door het Hoofd van de Scheepsmetingsdienst kan worden afgegeven voordat de tonnages zijn vastgesteld.
 
-2. De meetbrieven bedoeld in het eerste lid worden op verzoek van de eigenaar of de rompbevrachter afgegeven door het Hoofd van de Scheepsmetingsdienst tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
+2. De meetbrieven bedoeld in het eerste lid worden op verzoek van de eigenaar of de rompbevrachter afgegeven door de inspecteur-generaal tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
 
 #### § B. Bepalingen met betrekking tot Nederlandse schepen waarop het Verdrag van toepassing is
 
 ##### Artikel 5
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder **a**, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=1998-06-01&g=1998-06-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen als bedoeld in [artikel 4, eerste lid, onder **a**, 1e, 2e, 3e en 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2004-11-01&g=2004-11-01).
 
 ##### Artikel 6
 
-1. Voor de afgifte van een Internationale Meetbrief (1969) stelt het Hoofd van de Scheepsmetingsdienst de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
+1. Voor de afgifte van een Internationale Meetbrief (1969) stelt de inspecteur-generaal de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
 
-2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan het Hoofd van de Scheepsmetingsdienst de tonnnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
+2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan de inspecteur-generaal de tonnnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
 3. De bijzondere meetbrieven, bedoeld in het tweede lid van dit artikel, dienen een verklaring te bevatten inhoudende overeenkomstig welke bepalingen de tonnages van het schip, waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
 ##### Artikel 7
 
-1. Indien de aanvrager van een meetbrief, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=1998-06-01&g=1998-06-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan het Hoofd van de Scheepsmetingsdienst een nieuwe vaststelling verzoeken.
+1. Indien de aanvrager van een meetbrief, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2004-11-01&g=2004-11-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan de inspecteur-generaal een nieuwe vaststelling verzoeken.
 
-2. Het Hoofd van genoemde dienst wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
+2. De inspecteur-generaal wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
 
 ##### Artikel 8
 
-Het Hoofd van de Scheepsmetingsdienst kan, in afwijking van het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=1998-06-01&g=1998-06-01), een Staat, aangesloten bij het Verdrag, verzoeken de bruto- en netto-tonnage van een schip vast te stellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) af te geven.
+De inspecteur-generaal kan, in afwijking van het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=6&z=2004-11-01&g=2004-11-01), een Staat, aangesloten bij het Verdrag, verzoeken de bruto- en netto-tonnage van een schip vast te stellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) af te geven.
 
 ##### Artikel 9
 
-1. Een Internationale Meetbrief (1969) verliest zijn geldigheid en wordt door het Hoofd van de Scheepsmetingsdienst ingetrokken indien zodanige wijzigingen hebben plaatsgevonden in de inrichting, de bouw, de capaciteit, het benutten van ruimten, het totale aantal passagiers dat het schip volgens zijn veiligheidscertificaat voor passagiersschepen mag vervoeren, het vastgestelde vrijboord of de toegestane diepgang, dat daaruit noodzakelijkerwijs een vermeerdering van de bruto- of netto-tonnage voortvloeit.
+1. Een Internationale Meetbrief (1969) verliest zijn geldigheid en wordt door de inspecteur-generaal ingetrokken indien zodanige wijzigingen hebben plaatsgevonden in de inrichting, de bouw, de capaciteit, het benutten van ruimten, het totale aantal passagiers dat het schip volgens zijn veiligheidscertificaat voor passagiersschepen mag vervoeren, het vastgestelde vrijboord of de toegestane diepgang, dat daaruit noodzakelijkerwijs een vermeerdering van de bruto- of netto-tonnage voortvloeit.
 
-2. Een door het Hoofd van de Scheepsmetingsdienst ten behoeve van een schip afgegeven Internationale Meetbrief (1969) verliest zijn geldigheid indien zulk een schip de vlag van een andere Staat gaat voeren, behoudens het bepaalde in het derde en het vijfde lid.
+2. Een door de inspecteur-generaal ten behoeve van een schip afgegeven Internationale Meetbrief (1969) verliest zijn geldigheid indien zulk een schip de vlag van een andere Staat gaat voeren, behoudens het bepaalde in het derde en het vijfde lid.
 
 3. Indien een schip de vlag van een andere Staat, aangesloten bij het Verdrag, gaat voeren, blijft de Internationale Meetbrief (1969) van kracht voor een periode van ten hoogste twaalf weken of wel tot het tijdstip waarop die andere Staat een andere Internationale Meetbrief (1969) ter vervanging uitgeeft, al naar gelang welk tijdstip eerder valt.
 
-4. Het Hoofd van de Scheepsmetingsdienst doet zo spoedig mogelijk, nadat het schip de vlag van de andere Staat is gaan voeren, aan die andere Staat een afschrift toekomen van de op het tijdstip van de verandering van de vlag door het schip gevoerde meetbrief en een afschrift van de hierop betrekking hebbende berekening van de tonnage.
+4. De inspecteur-generaal doet zo spoedig mogelijk, nadat het schip de vlag van de andere Staat is gaan voeren, aan die andere Staat een afschrift toekomen van de op het tijdstip van de verandering van de vlag door het schip gevoerde meetbrief en een afschrift van de hierop betrekking hebbende berekening van de tonnage.
 
-5. Indien een schip, de vlag voerende van een andere Staat, aangesloten bij het Verdrag, een Nederlands schip wordt, blijft de Internationale Meetbrief (1969) van kracht voor een periode van ten hoogste twaalf weken ofwel tot het tijdstip waarop het Hoofd van de Scheepsmetingsdienst een Internationale Meetbrief (1969) ter vervanging uitgeeft, al naar gelang welk tijdstip eerder valt.
+5. Indien een schip, de vlag voerende van een andere Staat, aangesloten bij het Verdrag, een Nederlands schip wordt, blijft de Internationale Meetbrief (1969) van kracht voor een periode van ten hoogste twaalf weken ofwel tot het tijdstip waarop de inspecteur-generaal een Internationale Meetbrief (1969) ter vervanging uitgeeft, al naar gelang welk tijdstip eerder valt.
 
 #### § C. Bepalingen met betrekking tot Nederlandse schepen waarop het Verdrag niet van toepassing is
 
 ##### Artikel 10
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=1998-06-01&g=1998-06-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2004-11-01&g=2004-11-01).
 
 ##### Artikel 11
 
-1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=1998-06-01&g=1998-06-01), ten behoeve van een bestaand schip, kan het Hoofd van de Scheepsmetingsdienst tot het tijdstip, twaalf jaar na de datum van de inwerkingtreding van het Verdrag, de tonnages vaststellen overeenkomstig de bepalingen, die door de Scheepsmetingsdienst werden toegepast voor de datum van de inwerkingtreding van het Verdrag.
+1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2004-11-01&g=2004-11-01), ten behoeve van een bestaand schip, kan de inspecteur-generaal tot het tijdstip, twaalf jaar na de datum van de inwerkingtreding van het Verdrag, de tonnages vaststellen overeenkomstig de bepalingen, die door de Scheepsmetingsdienst werden toegepast voor de datum van de inwerkingtreding van het Verdrag.
 
-2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan het Hoofd van de Scheepsmetingsdienst de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
+2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan de inspecteur-generaal de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
 3. De bijzondere meetbrieven, bedoeld in het tweede lid van dit artikel, dienen een verklaring te bevatten inhoudende overeenkomstig welke bepalingen de tonnages van het schip, waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
 ##### Artikel 12
 
-1. Indien de aanvrager van een meetbrief, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=C&artikel=11&z=1998-06-01&g=1998-06-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan het Hoofd van de Scheepsmetingsdienst een nieuwe vaststelling verzoeken.
+1. Indien de aanvrager van een meetbrief, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=C&artikel=11&z=2004-11-01&g=2004-11-01), van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief, niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan de inspecteur-generaal een nieuwe vaststelling verzoeken.
 
-2. Het Hoofd van genoemde dienst wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
+2. De inspecteur-generaal wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
 
 #### § D. Bepalingen met betrekking tot Nederlandse schepen met een lengte van minder dan 24 meter
 
 ##### Artikel 13
 
-De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=1998-06-01&g=1998-06-01).
+De bepalingen van deze paragraaf zijn van toepassing op Nederlandse schepen, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2004-11-01&g=2004-11-01).
 
 ##### Artikel 14
 
-1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=1998-06-01&g=1998-06-01), stelt het Hoofd van de Scheepsmetingsdienst de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
+1. Voor de afgifte van een bijzondere meetbrief, als bedoeld in [artikel 4, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=A&artikel=4&z=2004-11-01&g=2004-11-01), stelt de inspecteur-generaal de tonnages vast volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften.
 
-2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan het Hoofd van de Scheepsmetingsdienst de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
+2. Voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, kan de inspecteur-generaal de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
 3. De bijzondere meetbrieven, bedoeld in het tweede lid van dit artikel, dienen een verklaring te bevatten inhoudende overeenkomstig welke bepalingen de tonnages van het schip waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
 ##### Artikel 15
 
-1. Indien de aanvrager van een meetbrief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=D&artikel=14&z=1998-06-01&g=1998-06-01) van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan het Hoofd van de Scheepsmetingsdienst een nieuwe vaststelling verzoeken.
+1. Indien de aanvrager van een meetbrief als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=D&artikel=14&z=2004-11-01&g=2004-11-01) van mening is, dat de vaststelling van de bruto- en netto-tonnage opgenomen in de meetbrief niet juist is, kan hij binnen twee weken na afgifte van de meetbrief aan de inspecteur-generaal een nieuwe vaststelling verzoeken.
 
-2. Het Hoofd van genoemde dienst wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
+2. De inspecteur-generaal wijst twee ambtenaren, die niet aan de eerste vaststelling hebben deelgenomen, aan om de tweede vaststelling te verrichten. Blijkt de mening van de aanvrager alsdan juist te zijn, dan is de aanvrager voor de tweede vaststelling geen kosten verschuldigd.
 
 ### Hoofdstuk III. Bepalingen met betrekking tot schepen, andere dan Nederlandse schepen
 
@@ -199,7 +199,7 @@ De bepalingen van deze paragraaf zijn uitsluitend van toepassing op schepen, and
 
 ##### Artikel 17
 
-1. Op verzoek van een Staat, aangesloten bij het Verdrag, kan het Hoofd van de Scheepsmetingsdienst de bruto- en netto-tonnage van een schip vaststellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) afgeven, zulks tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
+1. Op verzoek van een Staat, aangesloten bij het Verdrag, kan de inspecteur-generaal de bruto- en netto-tonnage van een schip vaststellen en ten behoeve van dit schip overeenkomstig het Verdrag een Internationale Meetbrief (1969) afgeven, zulks tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
 
 2. Een afschrift van de in het eerste lid bedoelde meetbrief alsmede een afschrift van de berekeningen van de tonnages zullen zo spoedig mogelijk aan de Staat, die de vaststelling en afgifte heeft verzocht, worden toegezonden.
 
@@ -209,11 +209,11 @@ De bepalingen van deze paragraaf zijn uitsluitend van toepassing op schepen, and
 
 ##### Artikel 18
 
-De Internationale Meetbrief (1969), afgegeven door een andere Staat, aangesloten bij het Verdrag, wordt, behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=9&z=1998-06-01&g=1998-06-01), door Nederland erkend en voor alle doelstellingen, waarop het Verdrag betrekking heeft, door Nederland geacht dezelfde geldigheid te bezitten als de door het Hoofd van de Scheepsmetingsdienst afgegeven meetbrieven.
+De Internationale Meetbrief (1969), afgegeven door een andere Staat, aangesloten bij het Verdrag, wordt, behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=II&paragraaf=B&artikel=9&z=2004-11-01&g=2004-11-01), door Nederland erkend en voor alle doelstellingen, waarop het Verdrag betrekking heeft, door Nederland geacht dezelfde geldigheid te bezitten als de door de inspecteur-generaal afgegeven meetbrieven.
 
 ##### Artikel 19
 
-1. Op verzoek van een Staat, aangesloten bij het Verdrag, kan, voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, het Hoofd van de Scheepsmetingsdienst de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
+1. Op verzoek van een Staat, aangesloten bij het Verdrag, kan, voor de afgifte van een bijzondere meetbrief, speciaal ingericht ten gebruike voor de vaart door het Suezkanaal of het Panamakanaal, de inspecteur-generaal de tonnages vaststellen overeenkomstig de metingsvoorschriften voor de betreffende kanalen.
 
 2. De bijzondere meetbrieven, bedoeld in het eerste lid van dit artikel, dienen een verklaring te bevatten, inhoudende overeenkomstig welke bepalingen de tonnages van het schip, waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
@@ -225,15 +225,15 @@ De bepalingen van deze paragraaf zijn uitsluitend van toepassing op schepen, and
 
 ##### Artikel 21
 
-1. Op verzoek van een Staat, kan het Hoofd van de Scheepsmetingsdienst ten behoeve van een schip, geen Nederlands schip zijnde, een bijzondere meetbrief afgeven, zulks tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
+1. Op verzoek van een Staat, kan de inspecteur-generaal ten behoeve van een schip, geen Nederlands schip zijnde, een bijzondere meetbrief afgeven, zulks tegen betaling van de kosten, berekend volgens een door Onze Minister vast te stellen tarief.
 
-2. Op de bijzondere meetbrief, afgegeven ingevolge het eerste lid van dit artikel, is het bepaalde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=A&artikel=17&z=1998-06-01&g=1998-06-01), van overeenkomstige toepassing.
+2. Op de bijzondere meetbrief, afgegeven ingevolge het eerste lid van dit artikel, is het bepaalde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=A&artikel=17&z=2004-11-01&g=2004-11-01), van overeenkomstige toepassing.
 
 3. De bijzondere meetbrief, bedoeld in het eerste lid van dit artikel, dient een verklaring te bevatten, inhoudende overeenkomstig welke bepalingen de tonnages van het schip, waarvoor de meetbrief is afgegeven, zijn vastgesteld.
 
 ##### Artikel 22
 
-Bijzondere meetbrieven, afgegeven ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=B&artikel=21&z=1998-06-01&g=1998-06-01), kunnen voor een bepaalde termijn of onder beperkingen worden afgegeven.
+Bijzondere meetbrieven, afgegeven ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=III&paragraaf=B&artikel=21&z=2004-11-01&g=2004-11-01), kunnen voor een bepaalde termijn of onder beperkingen worden afgegeven.
 
 ### Hoofdstuk IV. Nadere regelingen
 
@@ -257,23 +257,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gege
 
 - c. Internationale Meetbrieven, afgegeven ingevolge het Verdrag van Oslo 1947, tot twaalf jaar na de datum van inwerkingtreding van het Verdrag;
 
-- d. door het Hoofd van de Scheepsmetingsdienst afgegeven of aanvaarde meetbrieven.
+- d. door de inspecteur-generaal afgegeven of aanvaarde meetbrieven.
 
 ##### Artikel 25
 
-1. Met het toezicht op de naleving van de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=1998-06-01&g=1998-06-01), bedoelde verplichting zijn belast de ambtenaren van de Scheepsmetingsdienst.
+1. Met het toezicht op de naleving van de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2004-11-01&g=2004-11-01), bedoelde verplichting zijn belast de ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat.
 
 2. De toezichthouder oefent zijn bevoegdheden slechts uit ten aanzien van een schip, ongeacht welke vlag het voert, dat zich in een Nederlandse haven bevindt.
 
 3. De uitoefening van het toezicht op de naleving mag in geen geval vertraging voor het schip meebrengen.
 
-4. Indien blijkt, dat de voornaamste kenmerken van het schip afwijken van die vermeld op de Internationale Meetbrief (1969), in dier voege, dat dit tot een vermeerdering van de bruto- of netto-tonnage leidt, wordt de Staat wiens vlag het schip voert hiervan door het Hoofd van de Scheepsmetingsdienst onmiddellijk in kennis gesteld.
+4. Indien blijkt, dat de voornaamste kenmerken van het schip afwijken van die vermeld op de Internationale Meetbrief (1969), in dier voege, dat dit tot een vermeerdering van de bruto- of netto-tonnage leidt, wordt de Staat wiens vlag het schip voert hiervan door de inspecteur-generaal onmiddellijk in kennis gesteld.
 
 5. Indien niet is voldaan aan de in [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) bedoelde verplichting, verlenen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, geen expeditie.
 
 ##### Artikel 26
 
-1. Elk schip, ongeacht welke vlag het voert, dat zich bevindt in een Nederlandse haven en niet is voorzien van een meetbrief als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=1998-06-01&g=1998-06-01), is verplicht te voldoen aan een vordering van de ambtenaren van de Scheepsmetingsdienst tot vaststelling van de bruto- en netto-tonnage van het schip.
+1. Elk schip, ongeacht welke vlag het voert, dat zich bevindt in een Nederlandse haven en niet is voorzien van een meetbrief als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=24&z=2004-11-01&g=2004-11-01), is verplicht te voldoen aan een vordering van de ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat tot vaststelling van de bruto- en netto-tonnage van het schip.
 
 2. Zolang de in het eerste lid bedoelde vaststelling niet heeft plaatsgevonden, verlenen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, geen expeditie.
 
@@ -283,11 +283,11 @@ De kapitein van een Nederlands schip, die daarmee een reis onderneemt zonder dat
 
 ##### Artikel 28
 
-De kapitein van een Nederlands schip, dat niet voldoet aan een der verplichtingen, vermeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=25&z=1998-06-01&g=1998-06-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=26&z=1998-06-01&g=1998-06-01), wordt gestraft met geldboete van de derde categorie.
+De kapitein van een Nederlands schip, dat niet voldoet aan een der verplichtingen, vermeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=25&z=2004-11-01&g=2004-11-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=V&artikel=26&z=2004-11-01&g=2004-11-01), wordt gestraft met geldboete van de derde categorie.
 
 ##### Artikel 29
 
-Overtreding van de voorschriften ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=IV&artikel=23&z=1998-06-01&g=1998-06-01) bij of krachtens algemene maatregel van bestuur vastgesteld, wordt, voor zover uitdrukkelijk als strafbaar feit aangemerkt, gestraft met geldboete van de tweede categorie.
+Overtreding van de voorschriften ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&hoofdstuk=IV&artikel=23&z=2004-11-01&g=2004-11-01) bij of krachtens algemene maatregel van bestuur vastgesteld, wordt, voor zover uitdrukkelijk als strafbaar feit aangemerkt, gestraft met geldboete van de tweede categorie.
 
 ##### Artikel 30
 
@@ -299,13 +299,11 @@ Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, zij
 
 - a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen ambtenaren;
 
-- b. de ambtenaren van de Scheepsmetingsdienst;
+- b. de ambtenaren van de divisie Scheepvaart van de Inspectie Verkeer en Waterstaat;
 
-- c. de ambtenaren van de Scheepvaartinspectie;
+- c. de Nederlandse diplomatieke en consulaire ambtenaren;
 
-- d. de Nederlandse diplomatieke en consulaire ambtenaren;
-
-- e. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
+- d. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
 
 ### Hoofdstuk VI. Overgangs- en Slotbepalingen
 
