@@ -207,17 +207,3 @@ Het Besluit Rijksgebouwendienst wordt ingetrokken.
 2. Dit besluit wordt aangehaald als: Besluit Rijksgebouwendienst 1999.
 
 Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.
-
-### Afdeling 5. Het Rijkshuisvestingsberaad
-
-##### Artikel 15a
-
-1. Er is een Rijkshuisvestingsberaad.
-
-2. Het Rijkshuisvestingsberaad overlegt over rijkshuisvestingsaangelegenheden en adviseert Onze Minister over deze aangelegenheden.
-
-3. Onze Minister geeft, in overeenstemming met het gevoelen van de ministerraad, nadere regels omtrent de taken en bevoegdheden van het Rijkshuisvestingsberaad alsmede regels omtrent de samenstelling, inrichting, en werkwijze van het Rijkshuisvestingsberaad.
-
-### HOOFDSTUK 4. Slotbepalingen
-
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de kamers der Staten-Generaal en aan de Algemene Rekenkamer.
