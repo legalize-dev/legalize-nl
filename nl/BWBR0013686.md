@@ -4,7 +4,7 @@ identifier: "BWBR0013686"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-06"
-last_updated: "2003-12-11"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013686"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister verstrekt op aanvraag subsidie aan een bewoner van een woning in de Kenniswijk voor de kosten van een aansluiting van die woning in de Kenniswijk, welke aansluiting voldoet aan de specificaties, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2003-12-11&g=2003-12-11), en voor de kosten van het gebruik van die aansluiting en voor de kosten van ten minste een elektronische dienst die met behulp van die aansluiting wordt geleverd.
+1. De minister verstrekt op aanvraag subsidie aan een bewoner van een woning in de Kenniswijk voor de kosten van een aansluiting van die woning in de Kenniswijk, welke aansluiting voldoet aan de specificaties, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2004-05-19&g=2004-05-19), en voor de kosten van het gebruik van die aansluiting en voor de kosten van ten minste een elektronische dienst die met behulp van die aansluiting wordt geleverd.
 
 2. Per zelfstandige woning of per samenstelling van onzelfstandige woningen in de Kenniswijk wordt voor ten hoogste één aansluiting subsidie verstrekt.
 
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De aansluiting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2003-12-11&g=2003-12-11), omvat ten minste een zich in de woning van de aanvrager bevindend netwerkaansluitpunt dat een verbinding, die aan de gangbare technische specificaties voldoet, mogelijk maakt tussen een netwerk en de apparatuur van de aanvrager,
+De aansluiting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2004-05-19&g=2004-05-19), omvat ten minste een zich in de woning van de aanvrager bevindend netwerkaansluitpunt dat een verbinding, die aan de gangbare technische specificaties voldoet, mogelijk maakt tussen een netwerk en de apparatuur van de aanvrager,
 
 - a. met een continu beschikbare doorvoercapaciteit van ten minste 10Mbit/s symmetrisch tot aan het eerste concentratiepunt binnen het netwerk,
 
 - b. waarmee gedurende ten minste 90% van de door de gebruiker voor elektronische diensten gebruikte tijd een transparante verbinding beschikbaar is van 10Mbit/s symmetrisch naar en van een internationaal uitwisselingspunt, en
 
-- c. waarmee toegang mogelijk is tot internet en door middel van internet te leveren en te verrichten openbare telecommunicatiediensten, als bedoeld in [artikel 1.1, onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en andere digitale diensten.
+- c. waarmee toegang mogelijk is tot internet en door middel van internet te leveren en te verrichten openbare elektronische communicatiediensten, als bedoeld in [artikel 1.1, onderdeel g, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en andere digitale diensten.
 
 ##### Artikel 4
 
@@ -70,7 +70,7 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 - a. de eenmalige kosten van de ingebruikstelling van de aansluiting tot ten hoogste € 500, en
 
-- b. de kosten van het gebruik van de aansluiting en een elektronische dienst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2003-12-11&g=2003-12-11), gedurende twaalf maanden na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), tot ten hoogste € 300.
+- b. de kosten van het gebruik van de aansluiting en een elektronische dienst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2004-05-19&g=2004-05-19), gedurende twaalf maanden na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), tot ten hoogste € 300.
 
 ##### Artikel 6
 
@@ -78,19 +78,19 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 2. Op de aanvragen wordt beslist in volgorde van ontvangst van de aanvragen.
 
-3. Indien van de ontvangen aanvragen de volgorde van ontvangst niet kan worden vastgesteld, wordt beslist in volgorde van de datum waarop de overeenkomst als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), is gesloten.
+3. Indien van de ontvangen aanvragen de volgorde van ontvangst niet kan worden vastgesteld, wordt beslist in volgorde van de datum waarop de overeenkomst als bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), is gesloten.
 
 4. Indien toepassing van het derde lid niet mogelijk is of geen uitsluitsel geeft, beslist het lot.
 
 ##### Artikel 7
 
-1. De aansluiting bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2003-12-11&g=2003-12-11) wordt tot stand gebracht en in gebruik genomen in de periode van 1 september 2002 tot en met 31 december 2004.
+1. De aansluiting bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2004-05-19&g=2004-05-19) wordt tot stand gebracht en in gebruik genomen in de periode van 1 september 2002 tot en met 31 december 2004.
 
 2. De aanvraag tot subsidieverlening wordt ingediend in de periode van 1 september 2002 tot en met 1 maart 2005 door indiening bij de vestiging van LASER te Diemen, van een ingevuld en ondertekend aanvraagformulier, waarvan het model door de minister wordt vastgesteld.
 
 3. De aanvraag gaat vergezeld van:
 
-- a. één of meerdere overeenkomsten van de subsidieaanvrager met een aanbieder van een aansluiting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2003-12-11&g=2003-12-11), en met een aanbieder van een of meer openbare telecommunicatiediensten als bedoeld in artikel 1.1. [onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), waaruit ten minste blijkt : 1o dat de aanbieder van de aansluiting verplicht is de aansluiting overeenkomstig de eisen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2003-12-11&g=2003-12-11) te leveren, voor de duur van tenminste één jaar, te rekenen na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), en 2o de hoogte van de door de aanvrager te maken kosten voor de ingebruikstelling en het gebruik van de aansluiting gedurende de periode van twaalf maanden na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), gespecificeerd naar de kostensoorten, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2003-12-11&g=2003-12-11);
+- a. één of meerdere overeenkomsten van de subsidieaanvrager met een aanbieder van een aansluiting als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2004-05-19&g=2004-05-19), en met een aanbieder van een of meer openbare elektronische communicatiediensten als bedoeld in [artikel 1.1. onderdeel g, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), waaruit ten minste blijkt : 1o dat de aanbieder van de aansluiting verplicht is de aansluiting overeenkomstig de eisen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2004-05-19&g=2004-05-19) te leveren, voor de duur van tenminste één jaar, te rekenen na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), en 2o de hoogte van de door de aanvrager te maken kosten voor de ingebruikstelling en het gebruik van de aansluiting gedurende de periode van twaalf maanden na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), gespecificeerd naar de kostensoorten, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2004-05-19&g=2004-05-19);
 
 - b. gegevens waaruit blijkt dat de aanvrager de bewoner is van de woning in de Kenniswijk voor de aansluiting waarvan de subsidie wordt aangevraagd.
 
@@ -98,7 +98,7 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 ##### Artikel 8
 
-De minister besluit over verlening van de subsidie binnen twaalf weken na de datum waarop de aanvraag en alle bescheiden, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), zijn ontvangen.
+De minister besluit over verlening van de subsidie binnen twaalf weken na de datum waarop de aanvraag en alle bescheiden, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), zijn ontvangen.
 
 ##### Artikel 9
 
@@ -106,19 +106,19 @@ De minister besluit over verlening van de subsidie binnen twaalf weken na de dat
 
 2. De aanvraag voor de subsidievaststelling gaat vergezeld van een verklaring die door de aanbieder van de aansluiting, of namens hem door de installateur die de aansluiting heeft aangelegd, en de aanvrager is ondertekend en waaruit blijkt dat de aansluiting op een daarbij vermelde datum tot stand is gebracht en in gebruik is genomen.
 
-3. In afwijking van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), kan volstaan worden met het indienen van een aanvraag voor subsidievaststelling indien de aanvrager beschikt over de in het tweede lid bedoelde verklaring.
+3. In afwijking van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), kan volstaan worden met het indienen van een aanvraag voor subsidievaststelling indien de aanvrager beschikt over de in het tweede lid bedoelde verklaring.
 
-4. [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), is van toepassing op de aanvraag voor subsidievaststelling, bedoeld in het derde lid.
+4. [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), is van toepassing op de aanvraag voor subsidievaststelling, bedoeld in het derde lid.
 
 5. De aanvraag voor subsidievaststelling, bedoeld in het derde lid, wordt ingediend in de periode van 1 september 2002 tot en met 1 maart 2005.
 
 ##### Artikel 10
 
-1. De subsidieontvanger draagt er zorg voor dat de aansluiting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2003-12-11&g=2003-12-11), voor een periode van ten minste één jaar na de datum bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), in stand blijft en gebruikt wordt.
+1. De subsidieontvanger draagt er zorg voor dat de aansluiting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2004-05-19&g=2004-05-19), voor een periode van ten minste één jaar na de datum bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), in stand blijft en gebruikt wordt.
 
-2. Indien een van de overeenkomsten bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), wordt beëindigd, is de subsidieontvanger verplicht de minister binnen twee maanden na de datum van beëindiging hiervan in kennis te stellen.
+2. Indien een van de overeenkomsten bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), wordt beëindigd, is de subsidieontvanger verplicht de minister binnen twee maanden na de datum van beëindiging hiervan in kennis te stellen.
 
-3. De bedragen genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2003-12-11&g=2003-12-11) worden niet teruggevorderd indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), wordt beëindigd in verband met:
+3. De bedragen genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2004-05-19&g=2004-05-19) worden niet teruggevorderd indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), wordt beëindigd in verband met:
 
 - a. overlijden van de bewoner, of
 
@@ -128,9 +128,9 @@ De minister besluit over verlening van de subsidie binnen twaalf weken na de dat
 
 - d. om andere redenen die naar het oordeel van de minister de aanvrager in redelijkheid niet kunnen worden verweten.
 
-4. Indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), wordt beëindigd in verband met verhuizing om andere redenen dan die genoemd in het derde lid, de onderdelen b tot en met d, wordt een evenredig deel van het bedrag genoemd in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2003-12-11&g=2003-12-11), teruggevorderd.
+4. Indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), wordt beëindigd in verband met verhuizing om andere redenen dan die genoemd in het derde lid, de onderdelen b tot en met d, wordt een evenredig deel van het bedrag genoemd in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2004-05-19&g=2004-05-19), teruggevorderd.
 
-5. De bedragen genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2003-12-11&g=2003-12-11) worden teruggevorderd indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2003-12-11&g=2003-12-11), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2003-12-11&g=2003-12-11), wordt beëindigd om andere redenen dan genoemd in het derde of vierde lid.
+5. De bedragen genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2004-05-19&g=2004-05-19) worden teruggevorderd indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2004-05-19&g=2004-05-19), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2004-05-19&g=2004-05-19), wordt beëindigd om andere redenen dan genoemd in het derde of vierde lid.
 
 ##### Artikel 11
 
@@ -140,7 +140,7 @@ De minister besluit over verlening van de subsidie binnen twaalf weken na de dat
 
 ##### Artikel 12
 
-De aanvrager komt niet in aanmerking voor subsidie, indien de kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2003-12-11&g=2003-12-11), met toepassing van een andere regeling door de lokale, nationale of internationale overheid of overheidsorganisaties zijn gesubsidieerd.
+De aanvrager komt niet in aanmerking voor subsidie, indien de kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2004-05-19&g=2004-05-19), met toepassing van een andere regeling door de lokale, nationale of internationale overheid of overheidsorganisaties zijn gesubsidieerd.
 
 ##### Artikel 13
 
