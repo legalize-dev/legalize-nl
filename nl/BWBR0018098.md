@@ -4,7 +4,7 @@ identifier: "BWBR0018098"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-03-18"
-last_updated: "2004-12-20"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018098"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de minister: de Minister voor Vreemdelingenzaken en Integratie;
 
-- b. het interventieteam: het interventieteam relationele druk en geweld, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=2&z=2005-03-18&g=2004-12-20);
+- b. het interventieteam: het interventieteam relationele druk en geweld, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=2&z=2005-03-18&g=2005-03-18);
 
 - c. de drie andere interventieteams: het interventieteam veiligheid en jeugd; het interventieteam toegankelijkheid en het interventieteam interetnische spanningen;
 
@@ -117,7 +117,7 @@ Het interventieteam wordt organisatorisch, financieel en inhoudelijk bij de werk
 
 1. Het interventieteam brengt tweemaal, te weten uiterlijk 1 januari 2006 en 1 januari 2007, over de voorliggende periode aan de minister een inhoudelijk verslag uit over de uitvoering van de werkzaamheden. Deze rapportages worden samen met die van de drie andere interventieteams door FORUM aangeboden.
 
-2. FORUM brengt uiterlijk 1 april 2007 een financieel verslag uit over de besteding van het bedrag, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2004-12-20). FORUM maakt per activiteit, zoals aangegeven in het Plan van Aanpak Interventieteams, inzichtelijk welke uitgaven zijn gedaan.
+2. FORUM brengt uiterlijk 1 april 2007 een financieel verslag uit over de besteding van het bedrag, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2005-03-18). FORUM maakt per activiteit, zoals aangegeven in het Plan van Aanpak Interventieteams, inzichtelijk welke uitgaven zijn gedaan.
 
 ##### Artikel 8
 
@@ -125,7 +125,7 @@ Het interventieteam wordt organisatorisch, financieel en inhoudelijk bij de werk
 
 2. De leden van het interventieteam hebben in overeenstemming met het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) recht op vergoeding wegens reis- en verblijfskosten.
 
-3. Vacatiegelden en de reis- en verblijfskosten worden uitbetaald door FORUM op basis van de begroting, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2004-12-20).
+3. Vacatiegelden en de reis- en verblijfskosten worden uitbetaald door FORUM op basis van de begroting, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2005-03-18).
 
 ##### Artikel 9
 
