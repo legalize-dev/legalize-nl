@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-05-08"
+last_updated: "2002-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -59,7 +59,7 @@ Hebben goedgevonden en verstaan:
 
 1. Ter vaststelling van de hoeveelheid onttrokken grondwater en van de hoeveelheid geïnfiltreerd water is de houder van een inrichting gehouden deze hoeveelheden te meten met behulp van watermeters.
 
-2. Het eerste lid is niet van toepassing in die gevallen waarin met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=3&z=2002-05-08&g=2002-05-08) geen verplichting bestaat tot het voeren van een administratie.
+2. Het eerste lid is niet van toepassing in die gevallen waarin met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=3&z=2002-10-01&g=2002-10-01) geen verplichting bestaat tot het voeren van een administratie.
 
 3. De watermeters, bedoeld in het eerste lid, zijn zodanig nauwkeurig dat het meetresultaat in enige maand niet meer dan vijf procent afwijkt van de werkelijk onttrokken hoeveelheid grondwater dan wel van de werkelijk geïnfiltreerde hoeveelheid water.
 
@@ -81,7 +81,7 @@ Hebben goedgevonden en verstaan:
 
 3. Onder nader te stellen voorwaarden verleent de inspecteur ter zake van een onttrekking van grondwater als bedoeld in [artikel 8, onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=8), op verzoek van de houder van een inrichting, ontheffing van de in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11) opgenomen verplichting tot het voeren van een administratie, indien gelet op de pompcapaciteit van de inrichting en de samenstelling en omvang van het bedrijf het uitgesloten kan worden geacht dat per jaar meer dan 20 000 kubieke meters grondwater zal worden onttrokken.
 
-4. Met betrekking tot het verzoek, bedoeld in het tweede en derde lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-05-08&g=2002-05-08), van overeenkomstige toepassing.
+4. Met betrekking tot het verzoek, bedoeld in het tweede en derde lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-10-01&g=2002-10-01), van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -89,7 +89,7 @@ Hebben goedgevonden en verstaan:
 
 2. De vergunning, bedoeld in het eerste lid, wordt aangevraagd bij de inspecteur voordat het eerste tijdvak waarover teruggaaf wordt gevraagd, is aangevangen.
 
-3. Op de aanvraag voor de vergunning is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-05-08&g=2002-05-08), van overeenkomstige toepassing.
+3. Op de aanvraag voor de vergunning is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-10-01&g=2002-10-01), van overeenkomstige toepassing.
 
 4. Het tijdvak waarover de teruggaaf wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
 
@@ -141,15 +141,15 @@ Voor de toepassing van [artikel 12, tweede lid, van de wet](https://wetten.overh
 
 ##### Artikel 5a
 
-Het tarief, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), voor afvalstoffen met een volumieke massa van meer dan 1100 kilogram per kubieke meter vindt slechts toepassing indien aan de [artikelen 5b tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5b&z=2002-05-08&g=2002-05-08) wordt voldaan.
+Het tarief, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), voor afvalstoffen met een volumieke massa van meer dan 1100 kilogram per kubieke meter vindt slechts toepassing indien aan de [artikelen 5b tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5b&z=2002-10-01&g=2002-10-01) wordt voldaan.
 
 ##### Artikel 5b
 
-Voor de toepassing van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-05-08&g=2002-05-08) worden de afvalstoffen niet geperst aangeleverd.
+Voor de toepassing van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-10-01&g=2002-10-01) worden de afvalstoffen niet geperst aangeleverd.
 
 ##### Artikel 5c
 
-1. De afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-05-08&g=2002-05-08), worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meters bekend is.
+1. De afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-10-01&g=2002-10-01), worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meters bekend is.
 
 2. De inhoud van een container, van de laadbak van een kipwagen of van het laadruim van een vaartuig wordt tot op één decimaal nauwkeurig berekend in kubieke meters door de aan de binnenzijde gemeten lengte van de container, de laadbak onderscheidenlijk het laadruim te vermenigvuldigen met de breedte en de hoogte ervan, met dien verstande dat indien de lengte, de breedte of de hoogte niet overal gelijk is, steeds de grootste maat in aanmerking wordt genomen.
 
@@ -167,19 +167,19 @@ Voor de toepassing van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007
 
 ##### Artikel 5d
 
-1. De aanbieder van de afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-05-08&g=2002-05-08), overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en registratienummer.
+1. De aanbieder van de afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-10-01&g=2002-10-01), overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en registratienummer.
 
 2. De aanbieder van afvalstoffen in big bags stelt voorafgaand aan de aanvoer van de afvalstoffen de houder van de inrichting in kennis van de aanvoer van afvalstoffen in big bags en geeft daarbij aan het aantal big bags en de inhoud per big bag.
 
 ##### Artikel 5e
 
-Voor de bepaling van het verschuldigde tarief van de afvalstoffenbelasting over de aangevoerde afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-05-08&g=2002-05-08), wordt te allen tijde de inhoud toegepast die op de plaat, bedoeld in [artikel 5c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5c&z=2002-05-08&g=2002-05-08), is vermeld, onderscheidenlijk die welke op de voet van [artikel 5c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5c&z=2002-05-08&g=2002-05-08), op de big bag is aangebracht.
+Voor de bepaling van het verschuldigde tarief van de afvalstoffenbelasting over de aangevoerde afvalstoffen, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5a&z=2002-10-01&g=2002-10-01), wordt te allen tijde de inhoud toegepast die op de plaat, bedoeld in [artikel 5c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5c&z=2002-10-01&g=2002-10-01), is vermeld, onderscheidenlijk die welke op de voet van [artikel 5c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=III&artikel=5c&z=2002-10-01&g=2002-10-01), op de big bag is aangebracht.
 
 ##### Artikel 6
 
 1. De teruggaaf van de belasting, bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18a), onderscheidenlijk [18b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), wordt uitsluitend verleend aan degene die beschikt over een door de inspecteur afgegeven vergunning, waarin nadere voorwaarden kunnen worden gesteld ter vaststelling van de betrokken hoeveelheid ontinktingsresidu onderscheidenlijk de betrokken hoeveelheid stoffen, preparaten of andere producten ter zake waarvan teruggaaf wordt gevraagd.
 
-2. Met betrekking tot de aanvraag van de vergunning, bedoeld in het eerste lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-05-08&g=2002-05-08), van overeenkomstige toepassing.
+2. Met betrekking tot de aanvraag van de vergunning, bedoeld in het eerste lid is [artikel 2, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-10-01&g=2002-10-01), van overeenkomstige toepassing.
 
 3. Het tijdvak waarover de teruggaaf wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
 
@@ -193,13 +193,13 @@ Voor de toepassing van [artikel 18c, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 6b
 
-1. Het verzoek, bedoeld in [artikel 27, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), wordt uiterlijk ingediend op de laatste dag voor de aanvang van het eerste tijdvak waarop het verzoek betrekking heeft.
+1. Het verzoek, bedoeld in [artikel 27, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), wordt uiterlijk ingediend op de laatste dag voor de aanvang van het eerste tijdvak waarop het verzoek betrekking heeft.
 
-2. Op het verzoek is [artikel 2, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-05-08&g=2002-05-08), van overeenkomstige toepassing.
+2. Op het verzoek is [artikel 2, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-10-01&g=2002-10-01), van overeenkomstige toepassing.
 
 3. De beschikking wordt gegeven onder de voorwaarde dat in de administratie van elke partij kolen de energie-inhoud en het koolstofgehalte wordt vastgelegd.
 
-4. De inspecteur kan de beschikking, bedoeld in [artikel 27, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), intrekken bij voor bezwaar vatbare beschikking indien de administratie niet langer voldoet aan het derde lid.
+4. De inspecteur kan de beschikking, bedoeld in [artikel 27, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), intrekken bij voor bezwaar vatbare beschikking indien de administratie niet langer voldoet aan het derde lid.
 
 5. In het geval waarin de beschikking op grond van het vierde lid is ingetrokken, kan een hernieuwd verzoek pas vijf jaren na die intrekking worden ingewilligd.
 
@@ -243,7 +243,7 @@ Voor de toepassing van [artikel 18c, eerste lid, van de wet](https://wetten.over
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de brandstoffen waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6c&z=2002-05-08&g=2002-05-08), is van overeenkomstige toepassing op de teruggaaf bedoeld in [artikel 28a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28a).
+4. [Artikel 6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6c&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing op de teruggaaf bedoeld in [artikel 28a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28a).
 
 ##### Artikel 8
 
@@ -305,7 +305,7 @@ In de gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorsch
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8b&z=2002-05-08&g=2002-05-08), is van overeenkomstige toepassing.
+4. [Artikel 8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8b&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8d
 
@@ -321,17 +321,17 @@ Voor de toepassing van [artikel 36**m**, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 8f
 
-1. [Artikel 8**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-05-08&g=2002-05-08) is van overeenkomstige toepassing op gassen die afkomstig zijn uit de omzetting van biomassa en die na opwerking tot aardgaskwaliteit worden geleverd aan het Nederlandse distributienet.
+1. [Artikel 8**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing op gassen die afkomstig zijn uit de omzetting van biomassa en die na opwerking tot aardgaskwaliteit worden geleverd aan het Nederlandse distributienet.
 
 2. De administratie van een installatie waarin biomassa op de in [artikel 36**o**, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36o)bedoelde wijze wordt verwerkt, dient te voldoen aan bij ministeriële regeling te stellen voorwaarden.
 
-3. [Artikel 8e](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-05-08&g=2002-05-08) is van overeenkomstige toepassing op warmte, bedoeld in [artikel 36o, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36o).
+3. [Artikel 8e](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-10-01&g=2002-10-01) is van overeenkomstige toepassing op warmte, bedoeld in [artikel 36o, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36o).
 
 ##### Artikel 8g
 
 1. De vermindering van belasting, bedoeld in [artikel 36r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36r), wordt verleend indien de belastingplichtige beschikt over een verklaring van de afvalverbrandingsinstallatie die de elektriciteit heeft opgewekt dat de elektriciteit door haar is opgewekt en dat zij ter zake van die elektriciteit het in het tweede lid van dat artikel bedoelde bedrag heeft ontvangen.
 
-2. [Artikel 8e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-05-08&g=2002-05-08), is van toepassing
+2. [Artikel 8e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-10-01&g=2002-10-01), is van toepassing
 
 ##### Artikel 8h
 
@@ -349,7 +349,7 @@ Voor de toepassing van [artikel 36**m**, eerste lid, van de wet](https://wetten.
 
 - c. een verklaring van degene die de elektriciteit heeft opgewekt, waaruit blijkt dat de installatie voldoet aan de rendementseis van [artikel 36a, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a).
 
-2. [Artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-05-08&g=2002-05-08), is van overeenkomstige toepassing met betrekking tot de in het eerste lid, onderdeel a, bedoelde verklaring.
+2. [Artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8e&z=2002-10-01&g=2002-10-01), is van overeenkomstige toepassing met betrekking tot de in het eerste lid, onderdeel a, bedoelde verklaring.
 
 ##### Artikel 8ia
 
@@ -359,7 +359,7 @@ Voor de toepassing van [artikel 36t van de wet](https://wetten.overheid.nl/jci1.
 
 1. Voor de toepassing van [artikel 36t, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36t) wordt verstaan onder installatie voor warmtekrachtkoppeling: een installatie waarin een andere brandstof dan aardgas wordt verstookt voor de gecombineerde opwekking van warmte en kracht met een totaal energetisch rendement van minimaal 60%, gebaseerd op de calorische onderwaarde van die brandstof. Onder het totaal energetisch rendement wordt verstaan de som van het rendement van de elektriciteitsopwekking en tweederde deel van het rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van die brandstof.
 
-2. De [artikelen 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7b&z=2002-05-08&g=2002-05-08) en [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8i&z=2002-05-08&g=2002-05-08) zijn van overeenkomstige toepassing indien voor een installatie voor warmtekrachtkoppeling een andere brandstof wordt gebruikt dan aardgas.
+2. De [artikelen 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7b&z=2002-10-01&g=2002-10-01) en [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IVA&artikel=8i&z=2002-10-01&g=2002-10-01) zijn van overeenkomstige toepassing indien voor een installatie voor warmtekrachtkoppeling een andere brandstof wordt gebruikt dan aardgas.
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
@@ -369,7 +369,7 @@ Voor de toepassing van de vrijstellingen, bedoeld in [artikel 8, onderdelen **b*
 
 ##### Artikel 10
 
-1. Indien op het tijdstip van inwerkingtreding van de wet nog niet wordt voldaan aan de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-05-08&g=2002-05-08), kan de inspecteur hiervoor op verzoek uitstel verlenen onder nader te stellen voorwaarden.
+1. Indien op het tijdstip van inwerkingtreding van de wet nog niet wordt voldaan aan de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2002-10-01&g=2002-10-01), kan de inspecteur hiervoor op verzoek uitstel verlenen onder nader te stellen voorwaarden.
 
 2. Het in het eerste lid bedoelde uitstel bedraagt maximaal een jaar vanaf de datum van inwerkingtreding van de wet.
 
