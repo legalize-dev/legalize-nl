@@ -103,11 +103,3 @@ Dit besluit wordt aangehaald als: Besluit beperkingen burgerluchtverkeer Waddenz
 ## Bijlage
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust op [artikel 5.10, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10).
-
-## Bijlage
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
