@@ -4,7 +4,7 @@ identifier: "BWBR0013798"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-16"
-last_updated: "2004-05-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013798"
 soort: "wet"
@@ -54,11 +54,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. aanbestedende dienst: de Staat, een provincie, een gemeente, een waterschap, een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), een politieregio, een openbaar lichaam voor beroep en bedrijf dan wel een ander openbaar lichaam als bedoeld in [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134), of een zelfstandig bestuursorgaan als bedoeld in het tweede lid;
 
-- b. advies: het advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-05-01&g=2004-05-01);
+- b. advies: het advies, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-09-01&g=2004-09-01);
 
 - c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikking terzake van een vergunning of ontheffing als bedoeld in:
 
-- 1°. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=7&z=2004-05-01&g=2004-05-01);
+- 1°. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=7&z=2004-09-01&g=2004-09-01);
 
 - 2°. [artikel 3 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3);
 
@@ -76,7 +76,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. betrokkene: de aanvrager van een beschikking, de subsidie-ontvanger, de vergunninghouder, de gegadigde, de partij aan wie een overheidsopdracht is gegund, of de onderaannemer;
 
-- f. Bureau: het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2004-05-01&g=2004-05-01);
+- f. Bureau: het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2004-09-01&g=2004-09-01);
 
 - g. gegadigde: degene die zich heeft gemeld voor een aanbestedingsprocedure teneinde een aanbieding te doen, of heeft ingeschreven op een aanbestedingsprocedure dan wel in onderhandeling is getreden met een aanbestedende dienst;
 
@@ -286,7 +286,7 @@ Onze Ministers brengen jaarlijks voor 1 mei aan beide kamers der Staten-Generaal
 
 ##### Artikel 27
 
-1. De volgende bestuursorganen verstrekken, voorzover het persoonsgegevens betreft voor de verwerking waarvan zij de verantwoordelijke zijn in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) dan wel de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of de [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798), het Bureau desgevraagd alle persoonsgegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in artikel 9:
+1. De volgende bestuursorganen verstrekken, voorzover het persoonsgegevens betreft voor de verwerking waarvan zij de verantwoordelijke zijn in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) dan wel de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of de [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798), het Bureau desgevraagd alle persoonsgegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-09-01&g=2004-09-01):
 
 - a. Onze Minister van Financiën, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door:
 
@@ -344,7 +344,7 @@ Onze Ministers brengen jaarlijks voor 1 mei aan beide kamers der Staten-Generaal
 
 ##### Artikel 43
 
-De bepalingen van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=5&z=2004-05-01&g=2004-05-01) genoemde wetten, zoals zij luiden na de inwerkingtreding van deze wet, zijn niet van toepassing op de aanvraag van een beschikking die voor die datum is ingediend, onderscheidenlijk de aanbestedingsprocedure of onderhandeling waarmee voor die datum een aanvang is gemaakt.
+De bepalingen van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=5&z=2004-09-01&g=2004-09-01) genoemde wetten, zoals zij luiden na de inwerkingtreding van deze wet, zijn niet van toepassing op de aanvraag van een beschikking die voor die datum is ingediend, onderscheidenlijk de aanbestedingsprocedure of onderhandeling waarmee voor die datum een aanvang is gemaakt.
 
 ##### Artikel 44
 
@@ -428,15 +428,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 4
 
-1. Indien toepassing wordt gegeven aan [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=30&z=2004-05-01&g=2004-05-01), wordt de weigering van de betrokkene, niet zijnde de partij aan wie een overheidsopdracht is gegund of de onderaannemer, om een formulier als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=30&z=2004-05-01&g=2004-05-01), volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01).
+1. Indien toepassing wordt gegeven aan [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=30&z=2004-09-01&g=2004-09-01), wordt de weigering van de betrokkene, niet zijnde de partij aan wie een overheidsopdracht is gegund of de onderaannemer, om een formulier als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=30&z=2004-09-01&g=2004-09-01), volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01).
 
-2. Het eerste lid is van overeenkomstige toepassing, indien de betrokkene, niet zijnde de gegadigde, de partij aan wie een overheidsopdracht is gegund of de onderaannemer, weigert aanvullende gegevens te verschaffen in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2004-05-01&g=2004-05-01).
+2. Het eerste lid is van overeenkomstige toepassing, indien de betrokkene, niet zijnde de gegadigde, de partij aan wie een overheidsopdracht is gegund of de onderaannemer, weigert aanvullende gegevens te verschaffen in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2004-09-01&g=2004-09-01).
 
 ### Hoofdstuk 2. Aanbestedingen, subsidies en vergunningen
 
 ##### Artikel 5
 
-1. Een gegadigde voor een overheidsopdracht waarop de richtlijnen, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-05-01&g=2004-05-01), niet van toepassing zijn en die wordt gegund binnen de krachtens het tweede lid aangewezen sector, kan van de gunning van die opdracht worden uitgesloten met inachtneming van de criteria voor de kwalitatieve selectie in de zin van de richtlijnen, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-05-01&g=2004-05-01).
+1. Een gegadigde voor een overheidsopdracht waarop de richtlijnen, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-09-01&g=2004-09-01), niet van toepassing zijn en die wordt gegund binnen de krachtens het tweede lid aangewezen sector, kan van de gunning van die opdracht worden uitgesloten met inachtneming van de criteria voor de kwalitatieve selectie in de zin van de richtlijnen, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-09-01&g=2004-09-01).
 
 2. Op voordracht van Onze Ministers, gedaan in overeenstemming met Onze Ministers wie het mede aangaat, worden bij algemene maatregel van bestuur de sectoren aangewezen ten aanzien waarvan het wenselijk is dat, voordat een beslissing wordt genomen inzake de gunning van een overheidsopdracht of de ontbinding van een overeenkomst met de partij aan wie een overheidsopdracht is gegund, door het Bureau een advies kan worden uitgebracht. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -444,21 +444,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. voordat een beslissing wordt genomen inzake de gunning van een overheidsopdracht die valt binnen een krachtens het tweede lid aangewezen sector;
 
-- b. in het geval die dienst bij overeenkomst heeft bedongen dat de overeenkomst ontbonden wordt, indien zich een van de situaties, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-05-01&g=2004-05-01), voordoet en de bij overeenkomst verstrekte overheidsopdracht binnen een krachtens het tweede lid aangewezen sector valt, alvorens zich op die ontbindende voorwaarde te beroepen;
+- b. in het geval die dienst bij overeenkomst heeft bedongen dat de overeenkomst ontbonden wordt, indien zich een van de situaties, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2004-09-01&g=2004-09-01), voordoet en de bij overeenkomst verstrekte overheidsopdracht binnen een krachtens het tweede lid aangewezen sector valt, alvorens zich op die ontbindende voorwaarde te beroepen;
 
 - c. ten aanzien van een onderaannemer, uitsluitend met het oog op diens acceptatie als zodanig, indien de aanbestedende dienst in het bestek als voorwaarde heeft gesteld dat onderaannemers niet zonder toestemming van die dienst worden gecontracteerd en in het kader van die voorwaarde zich het recht heeft voorbehouden aan het Bureau een advies te vragen.
 
 ##### Artikel 6
 
-1. Een subsidie aan een rechtspersoon of aan een natuurlijke persoon kan worden geweigerd dan wel worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01), indien dit in de desbetreffende subsidieregeling is bepaald.
+1. Een subsidie aan een rechtspersoon of aan een natuurlijke persoon kan worden geweigerd dan wel worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01), indien dit in de desbetreffende subsidieregeling is bepaald.
 
 2. Voordat een beslissing als bedoeld in het eerste lid wordt genomen, kan het bestuursorgaan dat tot die beslissing bevoegd is, het Bureau om een advies vragen.
 
-3. Een subsidieregeling waarin is bepaald dat [artikel 3 van deze we](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01)t van toepassing is en die niet bij wet of algemene maatregel van bestuur is geregeld, behoeft de goedkeuring van Onze Ministers, welke goedkeuring slechts kan worden onthouden wegens strijd met het recht of wegens onevenredigheid tussen enerzijds het belang dat moet worden gehecht aan de desbetreffende subsidie of subsidies en anderzijds de inbreuk op de persoonlijke levenssfeer ten gevolge van het aanvragen van een advies.
+3. Een subsidieregeling waarin is bepaald dat [artikel 3 van deze we](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01)t van toepassing is en die niet bij wet of algemene maatregel van bestuur is geregeld, behoeft de goedkeuring van Onze Ministers, welke goedkeuring slechts kan worden onthouden wegens strijd met het recht of wegens onevenredigheid tussen enerzijds het belang dat moet worden gehecht aan de desbetreffende subsidie of subsidies en anderzijds de inbreuk op de persoonlijke levenssfeer ten gevolge van het aanvragen van een advies.
 
 ##### Artikel 7
 
-1. Een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting, kan door het gemeentebestuur, voorzover het een krachtens het tweede lid aangewezen inrichting betreft, worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01).
+1. Een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting, kan door het gemeentebestuur, voorzover het een krachtens het tweede lid aangewezen inrichting betreft, worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01).
 
 2. Op voordracht van Onze Ministers worden bij algemene maatregel van bestuur inrichtingen aangewezen ten aanzien waarvan het wenselijk is dat, voordat een beslissing als bedoeld in het eerste lid wordt genomen, door het Bureau een advies kan worden uitgebracht. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -492,7 +492,7 @@ De officier van justitie die beschikt over gegevens die er op duiden dat een bet
 
 - a. de aanvrager, dan wel de subsidie-ontvanger of vergunninghouder, uitsluitend voorzover dit noodzakelijk is ter motivering van de door deze gevraagde beschikking, onderscheidenlijk van de beschikking tot intrekking van de subsidie of vergunning;
 
-- b. de gegadigde of de partij aan wie een overheidsopdracht is gegund, uitsluitend voorzover dit noodzakelijk is ter motivering van de weigering van de gunning van de overheidsopdracht of van de toestemming als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2004-05-01&g=2004-05-01), onderscheidenlijk van de beslissing tot ontbinding van de overeenkomst inzake die overheidsopdracht;
+- b. de gegadigde of de partij aan wie een overheidsopdracht is gegund, uitsluitend voorzover dit noodzakelijk is ter motivering van de weigering van de gunning van de overheidsopdracht of van de toestemming als bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2004-09-01&g=2004-09-01), onderscheidenlijk van de beslissing tot ontbinding van de overeenkomst inzake die overheidsopdracht;
 
 - c. de derde die in de motivering, bedoeld in de onderdelen a en b, wordt vermeld, uitsluitend voorzover de in die motivering opgenomen gegevens hem betreffen;
 
@@ -504,7 +504,7 @@ De officier van justitie die beschikt over gegevens die er op duiden dat een bet
 
 - g. de rechter.
 
-3. Indien de betrokkene gebruik wenst te maken van de in [artikel 33, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2004-05-01&g=2004-05-01), bedoelde mogelijkheid om zijn zienswijze kenbaar te maken, wordt hem door het bestuursorgaan, onderscheidenlijk de aanbestedende dienst, de gelegenheid geboden het advies in te zien.
+3. Indien de betrokkene gebruik wenst te maken van de in [artikel 33, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2004-09-01&g=2004-09-01), bedoelde mogelijkheid om zijn zienswijze kenbaar te maken, wordt hem door het bestuursorgaan, onderscheidenlijk de aanbestedende dienst, de gelegenheid geboden het advies in te zien.
 
 4. Indien de betrokkene een beschikking dan wel de intrekking van een subsidie of vergunning, onderscheidenlijk de weigering van een overheidsopdracht of de ontbinding van een overeenkomst inzake een dergelijke opdracht, in rechte aanvecht, is hij bevoegd de in het eerste lid bedoelde gegevens bekend te maken aan de rechter.
 
@@ -516,7 +516,7 @@ Het bestuursorgaan dat of de aanbestedende dienst die een advies ontvangt, kan d
 
 ##### Artikel 30
 
-1. In de formulieren die dienen voor het aanvragen van een beschikking of die worden gebruikt in het kader van een aanbesteding, worden vragen opgenomen die erop gericht zijn het Bureau in staat te stellen het onderzoek naar feiten en omstandigheden als bedoeld in [artikel 3, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01), uit te voeren.
+1. In de formulieren die dienen voor het aanvragen van een beschikking of die worden gebruikt in het kader van een aanbesteding, worden vragen opgenomen die erop gericht zijn het Bureau in staat te stellen het onderzoek naar feiten en omstandigheden als bedoeld in [artikel 3, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01), uit te voeren.
 
 2. De in het eerste lid bedoelde vragen omvatten in ieder geval die naar:
 
@@ -546,7 +546,7 @@ Het bestuursorgaan dat of de aanbestedende dienst die een advies ontvangt, kan d
 
 ##### Artikel 31
 
-Indien het bestuursorgaan een advies aanvraagt, wordt de wettelijke termijn waarbinnen de beschikking dient te worden gegeven, opgeschort voor de duur van de periode die begint met de dag waarop het advies is aangevraagd en eindigt met de dag waarop dat advies is ontvangen, met dien verstande dat deze opschorting niet langer duurt dan de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2004-05-01&g=2004-05-01), bedoelde termijn, vermeerderd met de duur van de eenmalige verlenging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2004-05-01&g=2004-05-01).
+Indien het bestuursorgaan een advies aanvraagt, wordt de wettelijke termijn waarbinnen de beschikking dient te worden gegeven, opgeschort voor de duur van de periode die begint met de dag waarop het advies is aangevraagd en eindigt met de dag waarop dat advies is ontvangen, met dien verstande dat deze opschorting niet langer duurt dan de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2004-09-01&g=2004-09-01), bedoelde termijn, vermeerderd met de duur van de eenmalige verlenging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2004-09-01&g=2004-09-01).
 
 ##### Artikel 32
 
@@ -554,11 +554,11 @@ Het bestuursorgaan, onderscheidenlijk de aanbestedende dienst, informeert de bet
 
 ##### Artikel 33
 
-1. Voordat een bestuursorgaan een voor de betrokkene negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01), dan wel op grond van feiten of omstandigheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-05-01&g=2004-05-01), stelt het de betrokkene in de gelegenheid zijn zienswijze naar voren te brengen.
+1. Voordat een bestuursorgaan een voor de betrokkene negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01), dan wel op grond van feiten of omstandigheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2004-09-01&g=2004-09-01), stelt het de betrokkene in de gelegenheid zijn zienswijze naar voren te brengen.
 
 2. Indien een bestuursorgaan een beschikking geeft, is in elk geval de persoon die in de beschikking wordt genoemd tot een belanghebbende in de zin van [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8).
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de aanbestedende dienst die een besluit neemt terzake van de gunning van een overheidsopdracht, onderscheidenlijk inzake de toestemming, bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2004-05-01&g=2004-05-01), of de ontbinding van de overeenkomst met de partij aan wie de overheidsopdracht is gegund.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de aanbestedende dienst die een besluit neemt terzake van de gunning van een overheidsopdracht, onderscheidenlijk inzake de toestemming, bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2&artikel=5&z=2004-09-01&g=2004-09-01), of de ontbinding van de overeenkomst met de partij aan wie de overheidsopdracht is gegund.
 
 4. Voor de toepassing van het eerste en derde lid zijn de [artikelen 4:9 tot en met 4:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:10) van overeenkomstige toepassing.
 
