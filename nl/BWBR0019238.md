@@ -4,7 +4,7 @@ identifier: "BWBR0019238"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-02-12"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019238"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel VIII. [Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 ##### Artikel IX. [Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506)
 
