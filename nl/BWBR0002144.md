@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2002-07-17"
+last_updated: "2002-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -76,9 +76,9 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 ##### Artikel 4
 
-Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=2&z=2002-07-17&g=2002-07-17), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2002-07-17&g=2002-07-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=9&z=2002-07-17&g=2002-07-17), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=20&z=2002-07-17&g=2002-07-17) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=21&z=2002-07-17&g=2002-07-17), van overeenkomstige toepassing op het College, met dien verstande dat:
+Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=2&z=2002-07-19&g=2002-07-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2002-07-19&g=2002-07-19), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=9&z=2002-07-19&g=2002-07-19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=20&z=2002-07-19&g=2002-07-19) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=21&z=2002-07-19&g=2002-07-19), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2002-07-17&g=2002-07-17);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2002-07-19&g=2002-07-19);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van lid van het bestuur vast te stellen salarishoogte;
 
@@ -94,7 +94,7 @@ Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 5
 
-1. Op de leden met rechtspraak belast is het bepaalde bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), met uitzondering van het bepaalde bij en krachtens de artikelen 1b, 1g en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=10&z=2002-07-17&g=2002-07-17) en het krachtens artikel 54, eerste lid, ter aanvulling hiervan bepaalde, van overeenkomstige toepassing, met dien verstande dat:
+1. Op de leden met rechtspraak belast is het bepaalde bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), met uitzondering van het bepaalde bij en krachtens de artikelen 1b, 1g en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=10&z=2002-07-19&g=2002-07-19) en het krachtens artikel 54, eerste lid, ter aanvulling hiervan bepaalde, van overeenkomstige toepassing, met dien verstande dat:
 
 a. wat hun bezoldiging, onkostenvergoeding en benoeming betreft de coördinerend vice-presidenten, de vice-presidenten, de raadsheren en de raadsheren-plaatsvervangers worden gelijkgesteld met diezelfde ambten bij een gerechtshof;
 
@@ -258,7 +258,7 @@ Vervallen
 
 1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven.[Artikel 24, eerste lid, tweede en derde volzin, tweede en zesde lid](onbekend), is van overeenkomstige toepassing.
 
-2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2002-07-17&g=2002-07-17), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2002-07-19&g=2002-07-19), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -290,7 +290,7 @@ Het College bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 29
 
-In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2002-07-17&g=2002-07-17), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2002-07-19&g=2002-07-19), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 30
 
@@ -318,9 +318,9 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 6. De [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=56),[59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=59), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=94), en [96, eerste lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96).
 
-7. de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657);
-
 7. De [artikelen 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=11), en [16 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=16).
+
+7. de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657);
 
 7. [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969)
 
@@ -330,13 +330,13 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 10. de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509);
 
-11. de [Wet inzake de wisselkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0007125);
+11. de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816);
 
 12. de [Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008369); en
 
-12. De[Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089).
-
 13. de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547).
+
+12. De[Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089).
 
 13. De Wet betreffende verplichte deelneming in een bedrijfspensioenfonds.
 
