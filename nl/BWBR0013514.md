@@ -157,13 +157,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet houde
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 9a
-
-1. Op verzoek van een logistiek dienstverlener zet Onze Minister van Infrastructuur en Waterstaat een aan die dienstverlener afgegeven E-erkenning om naar een D-erkenning.
-
-2. Een verzoek als bedoeld in het eerste lid kan tot 1 juli 2023 worden ingediend bij Onze Minister van Infrastructuur en Waterstaat.
-
-3. Met ingang van 1 juli 2023 wordt een D-erkenning aangevraagd overeenkomstig de krachtens het derde lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2023-06-13&g=2023-06-13) vastgestelde regeling.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
