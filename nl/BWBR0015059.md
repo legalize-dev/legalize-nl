@@ -170,15 +170,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 3a. Waarderingskamer
-
-### Hoofdstuk 4. Basisregistratie waarde onroerende zaken.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
