@@ -4,7 +4,7 @@ identifier: "BWBV0006498"
 country: "nl"
 rank: "verdrag"
 publication_date: "1994-02-24"
-last_updated: "1989-01-01"
+last_updated: "1994-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006498"
 soort: "verdrag"
@@ -95,11 +95,9 @@ Voor de toepassing van de Verordening, de Toepassingsverordening en dit Akkoord 
 
 ##### Artikel 4
 
-Voor de toepassing van artikel 18 van de Verordening worden voor het verkrijgen van het recht op verstrekkingen krachtens de Belgische wettelijke regeling als Nederlandse tijdvakken van verzekering meegerekend:
+Voor de toekenning van het recht op verstrekkingen krachtens de Belgische wettelijke regeling dient de persoon die om aansluiting of inschrijving vraagt, zo nodig aan te tonen dat hij op enig moment in de zes maanden die aan het verwerven van de hoedanigheid van gerechtigde voorafgaan, rechthebbende was, hetzij krachtens de Ziekenfondswet, hetzij krachtens de Algemene Wet Bijzondere Ziektekosten.
 
-- a). alle tijdvakken van rechtstreeks verplichte verzekering ingevolge de Ziekenfondswet;
-
-- b). bij gebreke van verzekeringstijdvakken bedoeld onder a) alle tijdvakken van verplichte verzekering ingevolge de Ziektewet.
+Voor het behoud van het recht op verstrekkingen wordt rekening gehouden met de tijdvakken waarover recht bestond, hetzij krachtens de Ziekenfondswet, hetzij krachtens de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel 5
 
@@ -133,11 +131,11 @@ De in België wonende of verblijvende werknemers, op wie de Nederlandse wettelij
 
 1. In afwijking van het bepaalde in artikel 93 van de Toepassingsverordening worden:
 
-- a). de krachtens artikel 19, leden 1 en 2, van de Verordening aan in Nederland wonende grensarbeiders en hun gezinsleden verleende verstrekkingen ingevolge de Ziekenfondswet en de ingevolge de Algemene Wet Bijzondere Ziektekosten verleende verstrekkingen, voor zover voor het verlenen van laatstbedoelde verstrekkingen geen machtiging van het orgaan van de woonplaats vereist is, vergoed op basis van een vast bedrag gebaseerd op de landelijk gemiddelde jaarlijkse kosten per hoofd. Voor de toepassing van dit onderdeel wordt de hulp door of vanwege een Regionale Instelling voor Ambulante Geestelijke Gezondheidszorg beschouwd als een verstrekking ingevolge de Algemene Wet Bijzondere Ziektekosten, waarvoor geen machtiging van het orgaan van de woonplaats is vereist;
+- a). de krachtens artikel 19, leden 1 en 2, van de Verordening aan in Nederland wonende grensarbeiders en hun gezinsleden ingevolge de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten verleende verstrekkingen, voor zover laatstbedoelde verstrekkingen niet zijn vermeld in de bij dit Akkoord behorende bijlage, door het bevoegde Belgische orgaan vergoed op basis van een vast bedrag gebaseerd op de landelijk gemiddelde jaarlijkse kosten per hoofd;
 
 - b). de krachtens artikel 19, leden 1 en 2 van de Verordening aan in België wonende grensarbeiders en hun gezinsleden verleende verstrekkingen door het bevoegde Nederlandse orgaan vergoed op basis van een vast bedrag gebaseerd op de landelijk gemiddelde jaarlijkse kosten per hoofd;
 
-- c). de krachtens artikel 19, leden 1 en 2, van de Verordening aan in Nederland wonende schepelingen en hun gezinsleden verleende verstrekkingen ingevolge de Ziekenfondswet en de ingevolge de Algemene Wet Bijzondere Ziektekosten verleende verstrekkingen voor zover voor het verlenen van laatstbedoelde verstrekkingen geen machtiging van het orgaan van de woonplaats vereist is, door het bevoegde Belgische orgaan vergoed op basis van een vast bedrag, gebaseerd op de gemiddelde jaarlijkse kosten per hoofd voor schepelingen voor de schepeling zelf en 80% van de landelijk gemiddelde jaarlijkse kosten per hoofd voor de gezinsleden. Voor de toepassing van dit onderdeel wordt de hulp door of vanwege een Regionale Instelling voor Ambulante Geestelijke Gezondheidszorg beschouwd als een verstrekking ingevolge de Algemene Wet Bijzondere Ziektekosten, waarvoor geen machtiging van het orgaan van de woonplaats is vereist;
+- c). de krachtens artikel 19, leden 1 en 2, van de Verordening aan in Nederland wonende schepelingen en hun gezinsleden ingevolge de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten verleende verstrekkingen, voor zover laatstbedoelde verstrekkingen niet zijn vermeld in de bij dit Akkoord behorende bijlage, door het bevoegde Belgische orgaan vergoed op basis van een vast bedrag gebaseerd op de gemiddelde jaarlijkse kosten per hoofd voor schepelingen voor de schepeling zelf en 80% van de gemiddelde jaarlijkse kosten per hoofd voor de gezinsleden;
 
 - d). de krachtens artikel 19, leden 1 en 2, van de Verordening aan in België wonende schepelingen en hun gezinsleden verleende verstrekkingen door het bevoegde Nederlandse orgaan vergoed op basis van een vast bedrag, gebaseerd op de gemiddelde jaarlijkse kosten per hoofd voor schepelingen voor de schepeling zelf en 80% van de landelijk gemiddelde jaarlijkse kosten per hoofd voor de gezinsleden;
 
@@ -147,7 +145,7 @@ De in België wonende of verblijvende werknemers, op wie de Nederlandse wettelij
 
 - g). de krachtens artikel 29, lid 1, van de Verordening aan in België wonende gezinsleden van in Nederland wonende rechthebbenden op een pensioen of rente verleende verstrekkingen, door het bevoegde Nederlandse orgaan vergoed op basis van een vast bedrag, gebaseerd op 80% van de landelijk gemiddelde jaarlijkse kosten per gezin.
 
-2. Onverminderd het bepaalde in [artikel 17, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006498&titeldeel=IV&artikel=17&z=1994-02-24&g=1989-01-01), worden ten aanzien van de grensarbeiders zelf ten behoeve van de berekening van de vaste bedragen
+2. Onverminderd het bepaalde in [artikel 17, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006498&titeldeel=IV&artikel=17&z=1994-02-24&g=1994-02-24), worden ten aanzien van de grensarbeiders zelf ten behoeve van de berekening van de vaste bedragen
 
 - -. de in lid 1, sub a) bedoelde gemiddelde kosten per hoofd ingevolge de Ziekenfondswet slechts verminderd met 0,54% wegens de in deze kosten begrepen uitgaven terzake van beroepsziekten;
 
