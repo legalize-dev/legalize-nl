@@ -4,7 +4,7 @@ identifier: "BWBR0016608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-01"
-last_updated: "2004-09-11"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016608"
 soort: "ministeriele-regeling"
@@ -59,9 +59,9 @@ De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&ar
 
 ##### Artikel 3
 
-1. De aanvraag voor een vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars en een melding van een verandering van de gegevens, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), wordt gedaan met de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2004-09-11&g=2004-09-11) bij deze regeling opgenomen formulieren.
+1. De aanvraag voor een vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars en een melding van een verandering van de gegevens, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), wordt gedaan met de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2005-01-01&g=2005-01-01) bij deze regeling opgenomen formulieren.
 
-2. De aanvraag om een vergunning als bedoeld in [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=9) wordt gedaan met het daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=2&z=2004-09-11&g=2004-09-11) bij deze regeling opgenomen formulier.
+2. De aanvraag om een vergunning als bedoeld in [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=9) wordt gedaan met het daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=2&z=2005-01-01&g=2005-01-01) bij deze regeling opgenomen formulier.
 
 ##### Artikel 4
 
@@ -75,7 +75,7 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 ##### Artikel 5
 
-1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2004-09-11&g=2004-09-11), worden bij de aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), of [artikel 10.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55):
+1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2005-01-01&g=2005-01-01), worden bij de aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), of [artikel 10.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55):
 
 - a. ten aanzien van betrouwbaarheid: een niet ouder dan drie maanden zijnde verklaring omtrent het gedrag afgegeven overeenkomstig de bepalingen van de [Wet op de justitiële documentatie en de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195);
 
@@ -91,15 +91,13 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 - c. ten aanzien van vakbekwaamheid: een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de aanvrager vakbekwaam is op het gebied van afvalstoffen.
 
-3. In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager, ter voldoening aan criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2004-09-11&g=2004-09-11), de volgende gegevens verstrekken:
+3. In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager, ter voldoening aan criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2005-01-01&g=2005-01-01), de volgende gegevens verstrekken:
 
 - a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 5, eerste, respectievelijk derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5);
 
 - b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in [verordening (EEG) nr. 881/92](31992R0881) van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);
 
-- c. een afschrift van de vergunning, bedoeld in [artikel 29a, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29a) en een veiligheidsattest als bedoeld in [artikel 29c, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29c);
-
-- d. een erkenning als spoorwegonderneming door de Minister van Verkeer en Waterstaat en een veiligheidsattest als bedoeld in [artikel 29c, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29c).
+- c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=28) en een veiligheidsattest als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32).
 
 4. In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager een afschrift verstrekken van de vergunning, bedoeld in [artikel 11, eerste lid, van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=11).
 
@@ -111,13 +109,13 @@ De vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handel
 
 - b. de vermelding is geschied op grond van onjuiste gegevens;
 
-- c. niet meer wordt voldaan aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2004-09-11&g=2004-09-11).
+- c. niet meer wordt voldaan aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 7
 
-1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2004-09-11&g=2004-09-11), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van deze regeling worden volstaan met het overleggen van de gegevens, bedoeld in [artikel 5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2004-09-11&g=2004-09-11), of [artikel 5, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2004-09-11&g=2004-09-11).
+1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2005-01-01&g=2005-01-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van deze regeling worden volstaan met het overleggen van de gegevens, bedoeld in [artikel 5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2005-01-01&g=2005-01-01), of [artikel 5, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2005-01-01&g=2005-01-01).
 
-2. Indien de aanvrager op het tijdstip, bedoeld in het eerste lid, niet de gegevens, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2004-09-11&g=2004-09-11), of [artikel 5, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2004-09-11&g=2004-09-11), heeft overgelegd, vervalt de vermelding op de lijst van inzamelaars dan wel op de lijst van vervoerders, handelaars en bemiddelaars.
+2. Indien de aanvrager op het tijdstip, bedoeld in het eerste lid, niet de gegevens, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2005-01-01&g=2005-01-01), of [artikel 5, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2005-01-01&g=2005-01-01), heeft overgelegd, vervalt de vermelding op de lijst van inzamelaars dan wel op de lijst van vervoerders, handelaars en bemiddelaars.
 
 ##### Artikel 8
 
@@ -147,4 +145,4 @@ Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en
 
 Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2004-09-11&g=2004-09-11), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8 te Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2005-01-01&g=2005-01-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8 te Den Haag.
