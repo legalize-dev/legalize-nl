@@ -1,0 +1,130 @@
+---
+title: "Wet van 13 oktober 2004, houdende bepalingen in verband met de fusie van De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer"
+identifier: "BWBR0017317"
+country: "nl"
+rank: "wet"
+publication_date: "2007-01-01"
+last_updated: "2004-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017317"
+soort: "wet"
+stam_id: "6244763"
+version_id: "10924842"
+internal_id: "C14809421"
+label_id: "6233784"
+original_entry_into_force: "2004-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017317/2007-01-01/0"
+intitule_bron: "Stb.2004-556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-13"
+intitule_published: "2004-10-29"
+intitule_in_force: "2004-10-29"
+intitule_status: "goed"
+original_publication: "Stb.2004-556"
+original_signed_date: "2004-10-13"
+original_published_date: "2004-10-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "29411"
+original_url_id: "stb-2004-556"
+entry_into_force_date: "2004-10-30"
+entry_into_force_dossier: "29411"
+jci_1_3: "jci1.3:c:BWBR0017317&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0017317&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer"
+signed_date: "2004-10-13"
+entry_into_force: "2004-10-30"
+---
+# Wet van 13 oktober 2004, houdende bepalingen in verband met de fusie van De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in verband met de hervorming van het toezicht op de financiële marktsector wenselijk is dat De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer fuseren tot: De Nederlandsche Bank N.V.;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+1. De Nederlandsche Bank N.V., gevestigd te Amsterdam, en de Stichting Pensioen- & Verzekeringskamer, gevestigd te Apeldoorn, fuseren. Alle vermogensbestanddelen van de Stichting Pensioen- & Verzekeringskamer gaan onder algemene titel over op De Nederlandsche Bank N.V. zonder dat een besluit, akte of mededeling is vereist. De Stichting Pensioen- & Verzekeringskamer houdt op te bestaan.
+
+2. De Nederlandsche Bank N.V. doet de fusie, binnen acht dagen na inwerkingtreding van deze wet, inschrijven in de handelsregisters waar zijzelf en de Stichting Pensioen- & Verzekeringskamer staan ingeschreven.
+
+3. De Nederlandsche Bank N.V. doet binnen een maand na inwerkingtreding van deze wet opgave van de fusie aan de beheerders van andere openbare registers dan het handelsregister waarin de overgang van rechten of de fusie kan worden ingeschreven. De opgave vermeldt met betrekking tot elk van de fuserende rechtspersonen rechtsvorm, naam, adres en woonplaats, alsmede wie de verkrijgende rechtspersoon is en de dag waarop de fusie van kracht is geworden. De bewaarders van de openbare registers gaan na deze opgave over tot verandering van de tenaamstelling.
+
+4. Ter zake van de overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
+
+##### Artikel 2
+
+De Nederlandsche Bank N.V. oefent alle taken en bevoegdheden uit die bij of krachtens enige wet aan de Pensioen- & Verzekeringskamer zijn toegekend.
+
+##### Artikel 3
+
+1. In civielrechtelijke en bestuursrechtelijke gedingen waarin de Stichting Pensioen- & Verzekeringskamer onderscheidenlijk de Pensioen- & Verzekeringskamer partij of belanghebbende is, treedt De Nederlandsche Bank N.V. in haar plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
+
+2. Bij de Pensioen- & Verzekeringskamer aanhangige bezwaarschriften worden, in de stand waarin zij zich bevinden, verder behandeld en afgedaan door De Nederlandsche Bank N.V.
+
+3. Beroep waarvoor de termijn voor de Pensioen- & Verzekeringskamer is aangevangen staat voor De Nederlandsche Bank N.V. open gedurende het resterende gedeelte van de beroepstermijn.
+
+4. Indien er op het tijdstip van inwerkingtreding van deze wet nog civiele rechtszaken aanhangig zijn bij de rechtbank Zutphen waarbij de Stichting Pensioen- & Verzekeringskamer partij is, wordt er uitspraak gedaan door deze rechtbank.
+
+##### Artikel 4
+
+1. Een besluit dat door de Pensioen- & Verzekeringskamer is genomen, geldt als een besluit van De Nederlandsche Bank N.V.
+
+2. Een tot de Pensioen- & Verzekeringskamer gericht verzoek om een besluit te nemen, waarop nog niet is beslist, wordt beschouwd te zijn gericht tot De Nederlandsche Bank N.V.
+
+##### Artikel 5
+
+1. De rechten en verplichtingen van de Stichting Pensioen- & Verzekeringskamer die voortvloeien uit de arbeidsovereenkomsten met haar werknemers, daaronder begrepen die welke voortvloeien uit een toezegging omtrent pensioen als bedoeld in [artikel 2 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=2), gaan over op De Nederlandsche Bank N.V.
+
+2. De geldigheid van de rechten en verplichtingen die voortvloeien uit arbeidsovereenkomsten tussen de Stichting Pensioen & Verzekeringskamer en de leden van haar bestuur is beperkt tot de duur van hun benoeming in dat bestuur.
+
+##### Artikel 6
+
+De Nederlandsche Bank N.V. zendt jaarlijks voor 1 november een begroting voor het volgende jaar voor haar werkzaamheden uit hoofde van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143), de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) en de [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756) aan Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid. De begroting behoeft de instemming van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
+
+##### Artikel 7
+
+1. De Nederlandsche Bank N.V. legt jaarlijks aan Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid voor 1 mei een financiële verantwoording over, die vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verantwoording behoeft de instemming van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
+
+2. De Nederlandsche Bank N.V. stelt de in het eerste lid bedoelde stukken algemeen verkrijgbaar.
+
+3. Onze Minister kan in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid regels stellen voor de inrichting van de begroting, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017317&artikel=6&z=2004-10-30&g=2004-10-30), en de financiële verantwoording.
+
+##### Artikel 8
+
+Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid zenden in 2006 en vervolgens telkens na vijf jaar aan de Staten-Generaal een gezamenlijk verslag over de doeltreffendheid en doelmatigheid van het functioneren van de De Nederlandsche Bank N.V. ten aanzien van haar werkzaamheden uit hoofde van de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830), de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143), de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) en de [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756).
+
+##### Artikel 9
+
+Wijzigt de Bankwet 1998.
+
+##### Artikel 10
+
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
+
+##### Artikel 11
+
+Wijzigt de Pensioen- en spaarfondsenwet.
+
+##### Artikel 12
+
+Wet toezicht natura-uitvaartverzekeringsbedrijf.
+
+##### Artikel 13
+
+Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
+
+##### Artikel 14
+
+Wijzigt de Comptabiliteitswet 2001.
+
+##### Artikel 15
+
+Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+##### Artikel 16
+
+Deze wet kan worden aangehaald als: Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
