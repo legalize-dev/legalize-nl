@@ -4,7 +4,7 @@ identifier: "BWBR0008644"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2000-04-30"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008644"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Als bevoegde autoriteit bedoeld in het [Scheepvaartreglement territoriale zee](h
 
 - a. voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
 
-- b. voor het aanloopgebied Rotterdam: de havenmeester van de gemeente Rotterdam;
+- b. voor het aanloopgebied Rotterdam: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;
 
 - c. voor het aanloopgebied Scheveningen: de Stadsbeheermanager van het Stadsdeel Scheveningen van de Dienst Stadsbeheer van de gemeente Den Haag;
 
@@ -74,9 +74,9 @@ Als bevoegde autoriteit bedoeld in het [Scheepvaartreglement territoriale zee](h
 
 - e. voor wat betreft het Kanaal van Gent naar Terneuzen en de zijkanalen F en G, voor zover het betreft de vaarweg en de zijkanalen waar de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer is opgedragen aan het Directoraat-Generaal Goederenvervoer: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
 
-- f. voor wat betreft Dordrecht: de havenmeester van de gemeente Rotterdam en tevens de havenmeester van de gemeentelijke havendienst van de gemeente Dordrecht;
+- f. voor wat betreft Dordrecht: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V. en tevens de havenmeester van de gemeentelijke havendienst van de gemeente Dordrecht;
 
-- g. voor wat betreft Moerdijk: de havenmeester van de gemeente Rotterdam en tevens de directie van het havenschap;
+- g. voor wat betreft Moerdijk: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V. en tevens de directie van het havenschap;
 
 - h. voor wat betreft de Noordzeesluizen en de Rijksoverlaadplaats voor ontploffingsgevaarlijke stoffen te Buitenhuizen: de hoofdingenieur-directeur in de directie Noord-Holland van het Directoraat-Generaal Rijkswaterstaat;
 
