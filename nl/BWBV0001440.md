@@ -566,29 +566,3 @@ DONE at Chisinau this 3rd day of July 2000, in duplicate, in the Netherlands, Mo
 **For the Republic of Moldova**
 
 (sd.) TABACARU
-
-### HOOFDSTUK VII. SLOTBEPALINGEN
-
-##### Artikel 32. Beëindiging
-
-Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Verdragsluitende Staten kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar dat volgt op de periode van vijf jaar na de datum waarop het Verdrag in werking treedt, kennis te geven van de beëindiging.
-
-In dat geval houdt dit Verdrag op van toepassing te zijn:
-
-- a. met betrekking tot belastingen die aan de bron zijn ingehouden, op inkomsten die op of na 1 januari van het kalenderjaar dat volgt op het jaar waarin de kennisgeving is gedaan;
-
-- b. met betrekking tot andere belastingen naar het inkomen en het vermogen, op belastingen die worden geheven over enig belastingjaar of -tijdvak dat begint op of na 1 januari van het kalenderjaar dat volgt op het jaar waarin de kennisgeving is gedaan.
-
-Bij de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Republiek Moldavië gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at Chisinau this 3rd day of July 2000, in duplicate, in the Netherlands, Moldovan and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Moldovan texts, the English text shall prevail.
-
-**For the Kingdom of the Netherlands**
-
-(sd.) J. J. VAN AARTSEN
-
-**For the Republic of Moldova**
-
-(sd.) TABACARU
