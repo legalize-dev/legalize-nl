@@ -483,13 +483,3 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 ##### Artikel 27
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
-
-## DEEL I. Algemeen
-
-## DEEL II. Ontwerpen van en toezicht op de verblijven van de bemanning
-
-## DEEL III. Voorschriften betreffende de verblijven van de bemanning
-
-## DEEL IV. Toepassing van het Verdrag op bestaande schepen.
-
-## DEEL V. Slotbepalingen
