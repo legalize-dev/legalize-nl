@@ -4,7 +4,7 @@ identifier: "BWBR0010256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-27"
-last_updated: "2002-12-07"
+last_updated: "2004-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010256"
 soort: "ministeriele-regeling"
@@ -263,6 +263,8 @@ het Nederlands Centrum voor Preventie (NCP)
 
 het Nederlands Centrum voor Preventie (NCP).
 
+3. De toepassing van dit artikel wordt opgeschort tot 1 januari 2005.
+
 ##### Artikel 22. (informeren politie)
 
 Zodra door een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in artikel 3, onder b, van de wet, een aanvang wordt gemaakt met nieuwe beveiligingswerkzaamheden stelt deze beveiligingsorganisatie de korpschef van de regio waar zich de objecten bevinden, die door de alarmcentrale worden beveiligd, of, indien de objecten die door de alarmcentrale worden beveiligd zich bevinden op een luchtvaartterrein, de commandant,op de hoogte van:
@@ -337,13 +339,13 @@ Deze kosten worden voldaan aan de korpschef of commandant die op grond van artik
 
 ##### Artikel 28. (alarmapparatuur)
 
-1. Artikel 21 van deze regeling, is niet van toepassing op alarmapparatuur die op het moment van inwerkingtreding van de wet is geïnstalleerd.
+1. [Artikel 21 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=21&z=2004-03-10&g=2004-03-10), is niet van toepassing op alarmapparatuur die op het moment van inwerkingtreding van de wet is geïnstalleerd.
 
-2. Dit artikel vervalt vijf jaar na het tijdstip van inwerkingtreding van dit artikel.
+2. Dit artikel vervalt op 1 januari 2005.
 
 ##### Artikel 28a
 
-In afwijking van het bepaalde in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2002-12-07&g=2002-12-07) en 2 kan tot 1 januari 2003 nog een beroep worden gedaan op de volgende tekst:
+In afwijking van het bepaalde in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10) en 2 kan tot 1 januari 2003 nog een beroep worden gedaan op de volgende tekst:
 
 Een beveiligingsorganisatie belast uitsluitend een persoon met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld diploma Algemeen Beveiligingsmedewerker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo.
 
@@ -369,11 +371,11 @@ Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt.
 
 Deze regeling kan worden aangehaald als: Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
-## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2002-12-07&g=2002-12-07) RPB)
+## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-03-10&g=2004-03-10) RPB)
 
 ### **Model en afmetingen**
 
-[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2002-12-07&g=2002-12-07) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2002-12-07&g=2002-12-07), bedoelde embleem.
+[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2004-03-10&g=2004-03-10) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-03-10&g=2004-03-10), bedoelde embleem.
 
 ### **Plaats op het uniform**
 
@@ -407,19 +409,19 @@ Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkle
 
 ## Bijlage 1A. Embleem uniform (art. 12 RPB)
 
-## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2002-12-07&g=2002-12-07) RPB)
+## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2004-03-10&g=2004-03-10) RPB)
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2002-12-07&g=2002-12-07).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2002-12-07&g=2002-12-07).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
 
 - Blauw legitimatiebewijs, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperkte vergunning.
 
-- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2002-12-07&g=2002-12-07).
+- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2004-03-10&g=2004-03-10).
 
 - Legitimatiebewijs voor buitengewoon opsporingsambtenaren, zoals vastgesteld door de minister op grond van het [Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013), bestemd voor een buitengewoon opsporingsambtenaar die behoort tot een particuliere beveiligingsorganisatie, dan wel een onderdeel daarvan, die door de minister is aangewezen als een categorie of eenheid als bedoeld in [art. 142, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) ([art. 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5))
 
-- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2002-12-07&g=2002-12-07).
+- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
 
 ## Bijlage 2A. Grijs legitimatiebewijs voor- en achterzijde
 
@@ -433,7 +435,7 @@ Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkle
 
 ## Bijlage 3. wordt niet gepubliceerd
 
-## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2002-12-07&g=2002-12-07) RPB).
+## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2004-03-10&g=2004-03-10) RPB).
 
 Naam + adres beveiligingsorganisatie:
 
@@ -501,7 +503,7 @@ Het aanmelden van de personen die de beveiligingswerkzaamheden ongeuniformeerd g
 
 - de instantie die het legitimatiebewijs heeft afgestempeld
 
-[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2002-12-07&g=2002-12-07) wordt niet gepubliceerd.
+[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2004-03-10&g=2004-03-10) wordt niet gepubliceerd.
 
 ## Bijlage 5. wordt niet gepubliceerd
 
