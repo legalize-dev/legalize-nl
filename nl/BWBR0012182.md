@@ -4,7 +4,7 @@ identifier: "BWBR0012182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-18"
-last_updated: "2003-06-21"
+last_updated: "2004-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012182"
 soort: "ministeriele-regeling"
@@ -44,33 +44,67 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. besluit: [Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0012169);
+
+- b. kleine motorfamilie: kleine motorfamilie als bedoeld in artikel 2, eenentwintigste gedachtestreepje, van [richtlijn 97/68](31997L0068);
+
+- c. kleine fabrikant: kleine fabrikant als bedoeld in artikel 2, tweeëntwintigste gedachtestreepje, van [richtlijn 97/68](31997L0068);
+
+- d. klasse SH:1: klasse SH:1 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- e. klasse SH:2: klasse SH:2 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- f. klasse SH:3: klasse SH:3 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- g. klasse SN:1: klasse SN:1 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- h. klasse SN:2: klasse SN:2 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- i. klasse SN:3: klasse SN:3 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068);
+
+- j. klasse SN:4: klasse SN:4 als bedoeld in artikel 9bis, eerste lid, van [richtlijn 97/68](31997L0068).
+
 ##### Artikel 2
 
 De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=1) van het besluit.
 
 ##### Artikel 3
 
-De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2003-06-21&g=2003-06-21), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2003-06-21&g=2003-06-21), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
+De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2004-12-02&g=2004-12-02), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2004-12-02&g=2004-12-02), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
 
 ##### Artikel 4
 
-Voor een motor of een trekker als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=2), van het besluit die in Nederland nog niet in het verkeer is gebracht, houdt de goedkeuring, bedoeld in [artikel 2, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=2), van het besluit, op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
+Voor een motor of een trekker als bedoeld in [artikel 2, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=2) die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in [artikel 2, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=2), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
 
-- a. indien het vermogen van een motor of trekker groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- a. indien het vermogen van een motor of trekker groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- b. indien het vermogen van een motor of trekker groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- b. indien het vermogen van een motor of trekker groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- c. indien het vermogen van een motor of trekker groter dan of gelijk is aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068).
+- c. indien het vermogen van een motor of trekker groter dan of gelijk is aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068).
 
 ##### Artikel 5
 
-Voor een motor als bedoeld in [artikel 3, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3) die in Nederland nog niet in het verkeer is gebracht, houdt de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
+1. Voor een motor als bedoeld in [artikel 3, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3) die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn:
 
-- a. indien het vermogen van een motor groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- a. indien het vermogen van een motor groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- b. indien het vermogen van een motor groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+- b. indien het vermogen van een motor groter dan of gelijk is aan 75 kW doch kleiner is dan 130 kW: met ingang van 1 juli 2003, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
 
-- c. indien het vermogen van een motor groter dan of gelijk aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.3 van bijlage I van [richtlijn 97/68](31997L0068).
+- c. indien het vermogen van een motor groter dan of gelijk aan 37 kW doch kleiner is dan 75 kW: met ingang van 1 januari 2004, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van [richtlijn 97/68](31997L0068);
+
+- d. indien het een benzinemotor met elektrische ontsteking van de klassen SN:1 of SN:2 betreft: met ingang van 1 februari 2005, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.2.2 van bijlage I van [richtlijn 97/68](31997L0068);
+
+- e. indien het een benzinemotor met elektrische ontsteking van de klasse SN:4 betreft: met ingang van 1 februari 2007, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.2.2 van bijlage I van [richtlijn 97/68](31997L0068);
+
+- f. indien het een benzinemotor met elektrische ontsteking van de klassen SH:1, SH:2 of SN:3 betreft: met ingang van 1 februari 2008, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.2.2 van bijlage I van [richtlijn 97/68](31997L0068);
+
+- g. indien het een benzinemotor met elektrische ontsteking van de klasse SH:3 betreft: met ingang van 1 februari 2009, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van [richtlijn 97/68](31997L0068) en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.2.2.2 van bijlage I van [richtlijn 97/68](31997L0068).
+
+2. In afwijking van het eerste lid houdt voor benzinemotoren met elektrische ontsteking van een kleine fabrikant van motoren als bedoeld in het eerste lid, onder d tot en met g, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.
+
+3. Voor kleine motorfamilies waarbij de betrokken motorfamilies een verschillende cilinderinhoud hebben, is het eerste lid eerst van toepassing op het moment dat er meer dan 25.000 benzinemotoren met elektrische ontsteking in de handel zijn gebracht.
+
+4. In afwijking van het eerste lid houdt voor de benzinemotoren met elektrische ontsteking, bedoeld in artikel 9bis, zevende lid, van [richtlijn 97/86](31997L0086), de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.
 
 ##### Artikel 6
 
@@ -106,7 +140,7 @@ Degene aan wie de typekeuring is verleend:
 
 1. Nadat een typegoedkeuring is verleend, wordt ten minste éénmaal per jaar onderzocht of nog wordt voldaan aan [richtlijn 97/68](31997L0068).
 
-2. Indien het kwaliteitsniveau ontoereikend blijkt te zijn of indien het noodzakelijk is de specificaties voor de emissie van verontreinigende stoffen, bedoeld in punt 4.2 van bijlage I van [richtlijn 97/68](31997L0068), te controleren wordt de procedure van punt 5.3.2 van bijlage I van [richtlijn 97/68](31997L0068) gevolgd.
+2. Indien het kwaliteitsniveau ontoereikend blijkt te zijn of indien het noodzakelijk is de specificaties voor de emissie van verontreinigende stoffen, bedoeld in punt 4.1.2 van bijlage I van [richtlijn 97/68](31997L0068), te controleren wordt de procedure van punt 5.3.2 van bijlage I van [richtlijn 97/68](31997L0068) gevolgd.
 
 3. Indien bij de steekproef, als bedoeld in punt 5.3.2 van bijlage I, wordt vastgesteld dat een motor of trekker niet overeenstemt met het type waarvoor de goedkeuring is verleend wordt door de functionaris van de keuringsinstantie terzake een rapport opgesteld waarvan de fabrikant een afschrift ontvangt.
 
@@ -119,5 +153,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Een wijziging van [richtlijn 97/68](31997L0068) gaat voor de toepassing van artikel 1, onderdelen b tot en met j, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
