@@ -4,7 +4,7 @@ identifier: "BWBR0014322"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-08"
-last_updated: "2002-12-01"
+last_updated: "2004-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014322"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ De militair in werkelijke dienst wordt ter gelegenheid van de opkomst gevaccinee
 
 1. De vaccinaties tegen difterie, tetanus en poliomyelitis (DTP), tegen tyfus en tegen bof, mazelen en rode hond (BMR) geschieden door middel van een enkelvoudige inenting, de vaccinatie tegen hepatitis A en B door middel van een serie van drie inentingen.
 
-2. In afwijking van het eerste lid geschiedt de vaccinatie tegen difterie, tetanus en poliomyelitis (DTP) door middel van de volledige serie van drie DTP-inentingen indien de betrokken militair aannemelijk maakt nooit door middel van een zodanige serie te zijn ingeënt.
+2. In afwijking van het eerste lid geschiedt de vaccinatie tegen difterie, tetanus en poliomyelitis (DTP) door middel van de volledige serie van drie DTP-inentingen indien de betrokken militair aannemelijk maakt nooit door middel van een zodanige serie te zijn ingeënt. Bij een verwonding met gevaar voor tetanusinfectie vindt tevens toediening van tetanus-immunoglobuline plaats.
 
 3. De vaccinatie tegen bof, mazelen en rode hond (BMR) geschiedt bij vrouwen slechts indien ze niet zwanger zijn. Als er sprake is van zwangerschap dan wel van onzekerheid hierover, wordt de vaccinatie uitgesteld tot na de zwangerschap respectievelijk totdat de mogelijkheid van een bestaande zwangerschap is uitgesloten.
 
@@ -66,11 +66,13 @@ De militair in werkelijke dienst wordt ter gelegenheid van de opkomst gevaccinee
 
 Revaccinatie vindt plaats tegen:
 
-- a. difterie, tetanus en poliomyelitis (DTP): telkens na tien jaar, met dien verstande dat:
+- a. difterie, tetanus en poliomyelitis (DTP): telkens na tien jaar, met dien verstande dat bij een verwonding met gevaar voor tetanusinfectie:
 
-- 1º. bij een verwonding met gevaar voor tetanusinfectie meer dan een jaar na de laatste vaccinatie tussentijdse toediening van een enkele dosis tetanusvaccin plaatsvindt;
+- 1°. bij een volledig gevaccineerde militair tussentijdse toediening van een dosis tetanusvaccin plaatsvindt indien de laatste vaccinatie meer dan tien jaar geleden werd gegeven;
 
-- 2º. bij een verwonding met gevaar voor tetanusinfectie meer dan tien jaar na de laatste vaccinatie tussentijdse toediening van zowel de volledige serie van drie DTP-inentingen als van een dosis menselijke antitetanus immuunglobuline plaatsvindt;
+- 2°. bij een militair met een onvolledige vaccinatiestatus de immunisatie wordt afgerond door toediening van de volledige serie van drie DTP-inentingen alsmede toediening van tetanus-immunoglobuline;
+
+- 3°. bij een immuun-gecompromitteerde militair toediening van de volledige serie van drie DTP-inentingen alsmede toediening van tetanus-immunoglobuline plaatsvindt;
 
 - b. tyfus: telkens na drie jaar.
 
@@ -100,7 +102,7 @@ Revaccinatie vindt plaats tegen:
 
 1. De vaccinaties tegen gele koorts, tegen meningitis en tegen influenza geschieden door middel van enkelvoudige inentingen, die tegen hondsdolheid, tegen meningo encephalitis en tegen Japanse encephalitis door middel van series van drie inentingen.
 
-2. Bij militairen van wie bekend is dat zij in het kader van de vervulling van de militaire dienst zullen vertrekken naar een gebied als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2002-12-01&g=2002-12-01), geschieden de vaccinaties - met uitzondering van de laatste FSME-inenting - tijdens de voorbereidingstijd voor het vertrek, indien de voorbereidingstijd voor vertrek gelijk is aan of langer is dan drie weken. Bij militairen voor wie een kortere voorbereidingstijd geldt, start het vaccinatieprogramma zo spoedig mogelijk na het bekend worden van de verplichting om te vertrekken naar een gebied als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2002-12-01&g=2002-12-01).
+2. Bij militairen van wie bekend is dat zij in het kader van de vervulling van de militaire dienst zullen vertrekken naar een gebied als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2004-07-11&g=2004-07-11), geschieden de vaccinaties - met uitzondering van de laatste FSME-inenting - tijdens de voorbereidingstijd voor het vertrek, indien de voorbereidingstijd voor vertrek gelijk is aan of langer is dan drie weken. Bij militairen voor wie een kortere voorbereidingstijd geldt, start het vaccinatieprogramma zo spoedig mogelijk na het bekend worden van de verplichting om te vertrekken naar een gebied als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2004-07-11&g=2004-07-11).
 
 3. Bij militairen die behoren tot een eenheid die binnen 48 uur moet kunnen worden uitgezonden, start het vaccinatieprogramma zo spoedig mogelijk na de plaatsing in de eenheid.
 
@@ -120,7 +122,7 @@ Revaccinatie vindt plaats tegen:
 
 - f. Japanse encephalitis: telkens na twee jaar.
 
-2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2002-12-01&g=2002-12-01), is van toepassing.
+2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014322&paragraaf=2&artikel=4&z=2004-07-11&g=2004-07-11), is van toepassing.
 
 #### § 3. Geldige eerdere vaccinaties
 
