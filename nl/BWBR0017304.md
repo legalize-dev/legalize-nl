@@ -4,7 +4,7 @@ identifier: "BWBR0017304"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-12-24"
-last_updated: "2004-11-26"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017304"
 soort: "AMvB"
@@ -51,7 +51,7 @@ Wijzigt het Warenwetbesluit kosmetische produkten.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel III
 
@@ -65,8 +65,8 @@ mogen ook na de inwerkingtreding van dit besluit nog worden verhandeld.
 
 ##### Artikel IV
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=I&z=2004-11-26&g=2004-11-26) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=III&z=2004-11-26&g=2004-11-26) treden in werking met ingang van 26 november 2004.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=I&z=2004-12-24&g=2004-12-24) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=III&z=2004-12-24&g=2004-12-24) treden in werking met ingang van 26 november 2004.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=II&z=2004-11-26&g=2004-11-26) treedt in werking acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=II&z=2004-12-24&g=2004-12-24) treedt in werking acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
