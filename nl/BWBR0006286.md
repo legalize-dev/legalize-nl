@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2002-01-01"
+last_updated: "2002-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van ministers wordt bepaald op € 8 806,51 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 8 261,07 per maand.
+1. De bezoldiging van ministers wordt bepaald op € 9 123,71 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 8 558,29 per maand.
 
 2. Indien de bezoldiging van het burgerlijk rijkspersoneel wordt gewijzigd en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt bij algemene maatregel van bestuur met ingang van de datum, waarop die wijziging ingaat, de bezoldiging van ministers en staatssecretarissen dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de in het eerste lid genoemde bedragen.
 
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2002-01-01&g=2002-01-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering, een eindejaarsuitkering en een tegemoetkoming in ziektekosten.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2002-06-01&g=2002-06-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering, een eindejaarsuitkering en een tegemoetkoming in ziektekosten.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld betreffende de vergoeding van verhuis- en verblijfkosten, reis- en verblijfkosten, telefoonkosten en kosten die aan de uitoefening van het ambt van minister of staatssecretaris zijn verbonden en die voor eigen rekening komen.
 
@@ -61,9 +61,9 @@ Na het overlijden van een minister of staatssecretaris wordt op de voet van de r
 
 ##### Artikel 4
 
-1. Na de inwerkingtreding van deze wet berusten het koninklijk besluit van 22 september 1977, houdende regeling van de vergoeding aan ambtenaren van kosten verbonden aan het gebruik van de privé-telefoonaansluiting voor dienstdoeleinden (**Stb.** 527) en het Reisbesluit 1971 mede op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-01-01&g=2002-01-01), van deze wet.
+1. Na de inwerkingtreding van deze wet berusten het koninklijk besluit van 22 september 1977, houdende regeling van de vergoeding aan ambtenaren van kosten verbonden aan het gebruik van de privé-telefoonaansluiting voor dienstdoeleinden (**Stb.** 527) en het Reisbesluit 1971 mede op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-06-01&g=2002-06-01), van deze wet.
 
-2. Na de inwerkingtreding van deze wet berusten het [Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het koninklijk besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden (**Stb.** 255) op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-01-01&g=2002-01-01), van deze wet.
+2. Na de inwerkingtreding van deze wet berusten het [Verhuis- en verblijfkostenbesluit Ministers en Staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0002556) en het koninklijk besluit van 15 mei 1992, houdende vergoeding voor ministers en staatssecretarissen voor de kosten die aan de vervulling van het ambt zijn verbonden (**Stb.** 255) op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2002-06-01&g=2002-06-01), van deze wet.
 
 ##### Artikel 5
 
