@@ -4,7 +4,7 @@ identifier: "BWBR0013026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-12-05"
-last_updated: "2001-11-30"
+last_updated: "2004-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013026"
 soort: "ministeriele-regeling"
@@ -92,13 +92,15 @@ Het gemeentebestuur geeft ten aanzien van de maatregelen en de daarmee te behale
 
 1. Het gemeentebestuur brengt uiterlijk 1 oktober 2003, aan de minister verslag uit over de voortgang van de uitvoering van het meerjarig plan van aanpak in de voorafgaande periode, de mate waarin de in het meerjarig plan van aanpak gedefinieerde resultaten zijn behaald en de door het gemeentebestuur geconstateerde knelpunten bij de uitvoering van het meerjarig plan van aanpak.
 
-2. Het gemeentebestuur brengt uiterlijk 1 oktober 2005 aan de minister eindverslag uit over de uitvoering van het meerjarig plan van aanpak en de behaalde resultaten.
+2. Het gemeentebestuur brengt uiterlijk 1 april 2006 aan de minister eindverslag uit over de uitvoering van het meerjarig plan van aanpak en de behaalde resultaten.
+
+3. Indien wordt deelgenomen aan het door de minister geïnitieerde onderzoek ‘Preventiebeleid 2001–2004’, blijft in afwijking van het voorgaande lid het uitbrengen aan de minister van het eindverslag over de uitvoering van het meerjarige plan van aanpak en de behaalde resultaten achterwege.
 
 ##### Artikel 8
 
-1. Het gemeentebestuur brengt uiterlijk 1 oktober 2005 aan de minister financieel verslag uit over de besteding van de bijdrage, bedoeld in artikel 2, eerste en tweede lid. Het financieel verslag is voorzien van een accountantsverklaring.
+1. Het gemeentebestuur brengt uiterlijk 1 april 2006 aan de minister financieel verslag uit over de besteding van de bijdrage, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013026&artikel=2&z=2004-12-05&g=2004-12-05). Het financieel verslag is voorzien van een accountantsverklaring.
 
-2. Het financieel verslag, bedoeld in het eerste lid, kan deel uitmaken van de rekening, bedoeld in artikel 197, derde lid, van de Gemeentewet. Het verslag is voorzien van de accountantsverklaring, bedoeld in artikel 213, tweede lid, van de Gemeentewet.
+2. Het financieel verslag, bedoeld in het eerste lid, kan deel uitmaken van de rekening, bedoeld in [artikel 197, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=197). Het verslag is voorzien van de accountantsverklaring, bedoeld in [artikel 213, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
 ##### Artikel 9
 
