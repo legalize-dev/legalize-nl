@@ -4,7 +4,7 @@ identifier: "BWBR0003482"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-11-29"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003482"
 soort: "AMvB"
@@ -120,7 +120,7 @@ De commandant draagt er zorg voor dat een of meer exemplaren van dit besluit en 
 
 ##### Artikel 3a. Mandaatverlening
 
-De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de hoofdstukken 7, 8, 10 en 11, kan door Onze Minister worden gemandateerd aan de directeur-generaal personeel van het ministerie van Defensie.
+De bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=7&z=2003-05-23&g=2003-05-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&z=2003-05-23&g=2003-05-23), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=10&z=2003-05-23&g=2003-05-23) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=11&z=2003-05-23&g=2003-05-23), kan door Onze Minister worden gemandateerd aan de directeur-generaal personeel en materieel van het ministerie van Defensie.
 
 ### Hoofdstuk 2. Aanstelling
 
@@ -458,7 +458,7 @@ Indien het onder bijzondere omstandigheden onmogelijk is gebleken de militair ti
 
 5. In afwijking van het vierde lid kan aan de militair in bijzondere gevallen tijdelijk een hogere rang worden toegekend dan die welke hij bekleedt, indien het gewenste optreden van de betrokken militair daartoe noodzaakt en het optreden een wezenlijk onderdeel vormt van zijn functie. Wanneer de reden tot het toekennen van deze hogere rang vervalt, keert hij van rechtswege terug tot de rang of klasse die hij daarvoor bekleedde.
 
-6. In afwijking van het vierde lid kan, indien de militair een functie wordt toegewezen in het kader van een vredesoperatie als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=2&z=2002-11-29&g=2002-11-29), de bij de functie behorende rang tijdelijk, voor de duur van de functievervulling, worden toegekend indien de militair niet voldoet aan de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=22&z=2002-11-29&g=2002-11-29) bedoelde eisen.
+6. In afwijking van het vierde lid kan, indien de militair een functie wordt toegewezen in het kader van een vredesoperatie als bedoeld in [artikel 2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=1&artikel=2&z=2003-05-23&g=2003-05-23), de bij de functie behorende rang tijdelijk, voor de duur van de functievervulling, worden toegekend indien de militair niet voldoet aan de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=4&artikel=22&z=2003-05-23&g=2003-05-23) bedoelde eisen.
 
 7. De navolgende bevorderingen kunnen geschieden in afwijking van het gestelde in het vierde lid:
 
@@ -730,7 +730,7 @@ Ontslag om de reden, genoemd in artikel 39, tweede lid onder **f**, wordt pas ve
 
 ##### Artikel 45. Ontslag wegens onvoldoende waarborg voor getrouwe plichtsvervulling
 
-1. Ontslag om de reden als bedoeld in [artikel 12g, derde lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12g), kan slechts plaatsvinden met medewerking van Onze Minister-President dan wel, indien het de militair met een officiersrang betreft, op voordracht van Onze Minister-President en Onze Minister. Daaraan voorafgaand wordt het advies ingewonnen van een commissie, bestaande uit vijf leden en vijf plaatsvervangende leden.
+1. Ontslag om de reden als bedoeld in [artikel 12g, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12g), kan slechts plaatsvinden met medewerking van Onze Minister-President dan wel, indien het de militair met een officiersrang betreft, op voordracht van Onze Minister-President en Onze Minister. Daaraan voorafgaand wordt het advies ingewonnen van een commissie, bestaande uit vijf leden en vijf plaatsvervangende leden.
 
 2. De leden en de plaatsvervangende leden van de commissie, bedoeld in het eerste lid worden bij koninklijk besluit benoemd op voordracht van Onze Minister-President en van Onze Minister. De taak, samenstelling en werkwijze van de commissie worden bij de instelling geregeld.
 
@@ -766,13 +766,23 @@ Ontslag dat is verleend om een andere reden dan genoemd in artikel 39, tweede li
 
 ##### Artikel 50. Ontslagbrief
 
-Aan de militair aan wie ontslag wordt verleend, wordt een ontslagbrief uitgereikt, waarin wordt vermeld met toepassing van welke der in artikel 39 bedoelde ontslaggronden het ontslag wordt verleend, alsmede de datum van ingang van dat ontslag. Indien het ontslag bij koninklijk besluit is verleend, wordt bij wijze van ontslagbrief een afschrift van of een uittreksel uit het besluit uitgereikt.
+Vervallen
 
 ##### Artikel 51. Getuigschrift
 
 1. Aan de militair aan wie ontslag wordt verleend nadat hij ten minste één jaar in werkelijke dienst is geweest, wordt op zijn verzoek de bevelhebber een getuigschrift uitgereikt.
 
-2. Het getuigschrift, bedoeld in het eerste lid, vermeldt de duur van de dienstverhouding en de aard van de verrichte werkzaamheden, alsmede, doch alleen op verzoek van de militair, de wijze waarop hij die werkzaamheden heeft verricht.
+2. Het getuigschrift vermeldt:
+
+- a. de begindatum en einddatum van de dienstverhouding, alsmede de arbeidsduur per week;
+
+- b. de aard van de verrichte werkzaamheden;
+
+- c. de wijze waarop de militair zijn werkzaamheden heeft verricht;
+
+- d. de grond waarop aan de militair ontslag is verleend.
+
+3. De in lid 2, onderdelen c en d, genoemde gegevens worden slechts op verzoek van de militair in het getuigschrift vermeld.
 
 ##### Artikel 52
 
@@ -1438,27 +1448,27 @@ Verlof wordt verleend door de commandant van de militair tenzij in dit hoofdstuk
 
 ##### Artikel 63. Verlenen van verlof
 
-1. Het verlof, bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-11-29&g=2002-11-29), waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al dan niet op zijn aanvraag verleend.
+1. Het verlof, bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2003-05-23&g=2003-05-23), waarop de militair ingevolge dit hoofdstuk aanspraak heeft, wordt hem al dan niet op zijn aanvraag verleend.
 
 2. Verlof op aanvraag als bedoeld in het eerste lid, wordt, onder vermelding van de redenen, niet verleend voor zover de belangen van de dienst dit, naar het oordeel van degene die bevoegd is het verlof te verlenen, vorderen.
 
-3. Het verlof, bedoeld in [artikel 61, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-11-29&g=2002-11-29), wordt na melding door de militair verleend met inachtneming van de Wet arbeid en zorg en de bepalingen in paragraaf 4b van dit hoofdstuk.
+3. Het verlof, bedoeld in [artikel 61, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2003-05-23&g=2003-05-23), wordt na melding door de militair verleend met inachtneming van de Wet arbeid en zorg en de bepalingen in paragraaf 4b van dit hoofdstuk.
 
 ##### Artikel 64. Dagen die niet als verlof worden aangemerkt
 
-1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-11-29&g=2002-11-29) wordt genoten.
+1. De dagen gedurende welke een militair, ware hij niet met verlof geweest, verhinderd zou zijn geweest dienst te verrichten wegens ziekte of een ongeval, worden niet aangemerkt als verlof mits hij degene die het verlof heeft verleend, naar regels bij ministeriële regeling te stellen, zo spoedig mogelijk van die ziekte of dat ongeval in kennis heeft gesteld. Het voorgaande vindt geen toepassing voor de dagen waarop buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2003-05-23&g=2003-05-23) wordt genoten.
 
-2. Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-11-29&g=2002-11-29) of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-11-29&g=2002-11-29), wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend aangemerkt, maar, met inachtneming van [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-11-29&g=2002-11-29), onderscheidenlijk [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-11-29&g=2002-11-29) als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij degene die het verlof heeft verleend, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
+2. Wanneer een militair tijdens een hem verleend vakantieverlof, inschepings- of ontschepingsverlof aanspraak kan maken op buitengewoon verlof als bedoeld in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2003-05-23&g=2003-05-23) of buitengewoon verlof in het kader van arbeid en zorg als bedoeld in [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2003-05-23&g=2003-05-23), wordt het vakantieverlof, inschepings- of ontschepingsverlof als niet verleend aangemerkt, maar, met inachtneming van [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2003-05-23&g=2003-05-23), onderscheidenlijk [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2003-05-23&g=2003-05-23) als buitengewoon verlof dan wel buitengewoon verlof in het kader van arbeid en zorg aangemerkt, mits hij degene die het verlof heeft verleend, tijdig van de reden voor dat buitengewoon verlof in kennis heeft gesteld.
 
 ##### Artikel 65. Intrekken of beëindiging van verleend of aangevangen verlof
 
-1. Verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-11-29&g=2002-11-29), kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
+1. Verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2003-05-23&g=2003-05-23), kan geheel of gedeeltelijk worden ingetrokken, indien de belangen van de dienst zulks naar het oordeel van degene die het verlof heeft verleend, uitdrukkelijk vorderen.
 
 2. Een dag waarop een militair door een maatregel als bedoeld in het eerste lid slechts voor een gedeelte verlof heeft genoten, wordt niet aangemerkt als een verlofdag.
 
-3. Voorts kan verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2002-11-29&g=2002-11-29), geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
+3. Voorts kan verleend verlof als bedoeld in [artikel 61, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=61&z=2003-05-23&g=2003-05-23), geheel of gedeeltelijk worden ingetrokken op aanvraag van de betrokken militair, indien naar het oordeel van degene die het verlof heeft verleend, de belangen van de dienst zich daartegen niet verzetten.
 
-4. Buitengewoon verlof in het kader van arbeid en zorg eindigt met inachtneming van [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-11-29&g=2002-11-29).
+4. Buitengewoon verlof in het kader van arbeid en zorg eindigt met inachtneming van [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2003-05-23&g=2003-05-23).
 
 ##### Artikel 66. Verlof buiten het land van plaatsing
 
@@ -1466,7 +1476,7 @@ De militair die voornemens is een verlof door te brengen buiten het land waar hi
 
 ##### Artikel 67. Vergoeding van schade ten gevolge van het niet doorgaan of beëindigen van verlof
 
-1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-11-29&g=2002-11-29), als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-11-29&g=2002-11-29), of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
+1. De militair aan wie een verlof is verleend en die geldelijke schade lijdt als gevolg van het geheel of gedeeltelijk intrekken van dat verlof krachtens [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2003-05-23&g=2003-05-23), als gevolg van het geheel of gedeeltelijk beëindigen van dat verlof krachtens [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2003-05-23&g=2003-05-23), of als gevolg van een verbod als bedoeld in [artikel 12e van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12e), heeft aanspraak op vergoeding van die schade, voor zover hij die redelijkerwijs niet heeft kunnen voorkomen.
 
 2. Aan de militair die met het oog op de besteding van een verlof waarop hij aanspraak kan doen gelden maar dat hem nog niet is verleend, met schriftelijke instemming van degene die tot het verlenen van het verlof bevoegd is, bepaalde voorzieningen heeft getroffen en:
 
@@ -1538,13 +1548,13 @@ Indien een berekening van een vakantieverlof ingevolge de artikelen 69, 70, 71, 
 
 - d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-3. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2002-11-29&g=2002-11-29) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2002-11-29&g=2002-11-29) aanspraak maakt:
+3. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2003-05-23&g=2003-05-23) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2003-05-23&g=2003-05-23) aanspraak maakt:
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2002-11-29&g=2002-11-29), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87b&z=2002-11-29&g=2002-11-29), is verleend;
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2003-05-23&g=2003-05-23), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87b&z=2003-05-23&g=2003-05-23), is verleend;
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-11-29&g=2002-11-29), is verleend.
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2003-05-23&g=2003-05-23), is verleend.
 
-4. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2002-11-29&g=2002-11-29) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2002-11-29&g=2002-11-29) aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
+4. Het vakantieverlof waarop een militair der zeemacht ingevolge [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=68&z=2003-05-23&g=2003-05-23) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=2&artikel=69&z=2003-05-23&g=2003-05-23) aanspraak maakt wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
 
 ##### Artikel 71. Niet verleend vakantieverlof
 
@@ -1616,15 +1626,15 @@ Vervallen
 
 - d. in andere gevallen, indien degene die tot het verlenen van het verlof bevoegd is, daartoe aanleiding aanwezig acht.
 
-3. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-11-29&g=2002-11-29) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-11-29&g=2002-11-29) aanspraak maakt:
+3. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2003-05-23&g=2003-05-23) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2003-05-23&g=2003-05-23) aanspraak maakt:
 
-- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2002-11-29&g=2002-11-29), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87d&z=2002-11-29&g=2002-11-29), is verleend;
+- a. wordt verminderd naar evenredigheid van de tijd gedurende welke hem langer durend zorgverlof als bedoeld in [artikel 87c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87c&z=2003-05-23&g=2003-05-23), of ouderschapsverlof als bedoeld in [artikel 87d](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87d&z=2003-05-23&g=2003-05-23), is verleend;
 
-- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-11-29&g=2002-11-29), is verleend.
+- b. kan, naar regels bij ministeriële regeling te stellen, worden verminderd naar evenredigheid van de tijd gedurende welke hem buitengewoon verlof als bedoeld in [artikel 12c, tweede lid, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12c) of [artikel 86, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2003-05-23&g=2003-05-23), is verleend.
 
-4. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-11-29&g=2002-11-29) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-11-29&g=2002-11-29) aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
+4. Het vakantieverlof waarop een militair van de landmacht, de luchtmacht of de marechaussee ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2003-05-23&g=2003-05-23) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2003-05-23&g=2003-05-23) aanspraak maakt, wordt naar evenredigheid verminderd indien hem op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) buitengewoon verlof in verband met deeltijdarbeid wordt verleend. In geval van vermeerdering van de arbeidsduur op grond van het [Besluit aanpassing arbeidsduur militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0011531) wordt de in de vorige volzin genoemde verminderde aanspraak op vakantieverlof naar evenredigheid vermeerderd.
 
-5. Voor de militair van de landmacht, de luchtmacht of de marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2002-11-29&g=2002-11-29) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2002-11-29&g=2002-11-29) aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
+5. Voor de militair van de landmacht, de luchtmacht of de marechaussee aan wie ten hoogste veertien dagen voor het tijdstip waarop hij in werkelijke dienst komt, ontslag is verleend uit een andere overheidsbetrekking, wordt het aantal uren vakantieverlof waarop ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=73&z=2003-05-23&g=2003-05-23) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=3&artikel=74&z=2003-05-23&g=2003-05-23) aanspraak bestaat vermeerderd met zoveel uren vakantieverlof als hij uit hoofde van die vorige betrekking over het lopende kalenderjaar nog tegoed had.
 
 ##### Artikel 76. Verlenen van vakantieverlof
 
@@ -1814,7 +1824,7 @@ met dien verstande dat indien de militair is belast met de regeling van de begra
 
 1. Voor de toepassing van dit hoofdstuk wordt, ingeval het betreft buitengewoon verlof anders dan van lange duur of buitengewoon verlof in het kader van arbeid en zorg, toekomend aan een militair die werkzaamheden en/of diensten in continu- of ploegendienst verricht, onder werkdag verstaan elke tijdseenheid van ten hoogste vierentwintig uur gedurende welke de militair volgens het voor hem geldende rooster zodanige werkzaamheden en/of diensten moet verrichten.
 
-2. Indien aan de in het eerste lid bedoelde militair met toepassing van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2002-11-29&g=2002-11-29), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2002-11-29&g=2002-11-29) of [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2002-11-29&g=2002-11-29) buitengewoon verlof onderscheidenlijk buitengewoon verlof in het kader van arbeid en zorg wordt verleend kan daarbij:
+2. Indien aan de in het eerste lid bedoelde militair met toepassing van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=85&z=2003-05-23&g=2003-05-23), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4a&artikel=86&z=2003-05-23&g=2003-05-23) of [paragraaf 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&z=2003-05-23&g=2003-05-23) buitengewoon verlof onderscheidenlijk buitengewoon verlof in het kader van arbeid en zorg wordt verleend kan daarbij:
 
 - a. overschrijding plaatsvinden van het met toepassing van het vorige lid vastgestelde aantal tijdseenheden buitengewoon verlof, indien zulks nodig is ter verwezenlijking van het met het buitengewoon verlof beoogde doel;
 
@@ -2200,7 +2210,7 @@ naar regels bij ministeriële regeling te stellen, aanspraak op een uitkering zo
 
 - d. uitkeringen wegens een particuliere verzekering ter zake van de geldelijke gevolgen van arbeidsongeschiktheid;
 
-- e. inkomsten op grond van een militaire pensioenwet met uitzondering van een bedrag, gelijk aan dat van het invaliditeitspensioen ingevolge artikel E 4 van de Algemene militaire pensioenwet, alsmede van de bijzondere invaliditeitsverhoging ingevolge de artikelen E 8 en E 9 van die pensioenwet of ingevolge een daarmede overeenkomende bepaling in de vroegere militaire pensioenwetten, die in die wet zijn genoemd.
+- e. inkomsten ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen met uitzondering van een bedrag, gelijk aan dat van het invaliditeitspensioen, alsmede van de bijzondere invaliditeitsverhoging ingevolge die bepalingen.
 
 4. Onze Minister kan in naar zijn oordeel bijzondere gevallen:
 
@@ -2266,33 +2276,35 @@ Vervallen
 
 Vervallen
 
-##### Artikel 131. Beoordelingen
+##### Artikel 131. Functioneringsgesprek
 
-1. De militair in werkelijke dienst wordt in beginsel eenmaal per 2 jaren beoordeeld omtrent de wijze waarop hij zijn functie heeft vervuld en omtrent zijn gedrag in relatie tot die functie. Indien een militair naast de uit zijn functie voortvloeiende werkzaamheden andere opgedragen werkzaamheden of diensten heeft verricht, wordt hij tevens beoordeeld omtrent de wijze waarop hij die werkzaamheden of diensten heeft verricht en omtrent zijn gedrag in relatie tot die werkzaamheden of diensten. De militair kan op grond van een bijzonder belang om een beoordeling verzoeken.
+1. Aan de wijze van functievervulling van de militair in werkelijke dienst en aan zijn gedrag in relatie tot zijn functie wordt ten minste een keer per jaar aandacht besteed door middel van het houden van een functioneringsgesprek. Indien een militair naast de uit zijn functie voortvloeiende werkzaamheden andere opgedragen werkzaamheden of diensten heeft verricht, wordt tevens aan de wijze waarop hij die werkzaamheden of diensten heeft verricht en aan zijn gedrag in relatie tot die werkzaamheden of diensten aandacht besteed.
 
-2. Bij het opmaken van een beoordeling van een militair in werkelijke dienst, behorende tot een groep militairen waarbij zulks naar door de bevelhebber gegeven voorwaarden in verband met het functietoewijzingsbeleid voor die groep noodzakelijk is, wordt tevens een verwachting opgesteld inzake zijn toekomstmogelijkheden.
+2. Aan het functioneringsgesprek wordt deelgenomen door de militair en diens functionele chef.
 
-3. De beoordeling wordt in beginsel opgemaakt door een eerste en een tweede beoordelaar. Als eerste beoordelaar moet optreden de functionele chef van de te beoordelen militair. De tweede beoordelaar is in beginsel de commandant van de beoordeelde.
+3. Op verzoek van een van de deelnemers aan het functioneringsgesprek en met instemming van beide deelnemers kunnen een of meer andere personen aan het gesprek deelnemen.
 
-4. De commandant kan bepalen dat bij het uitbrengen van een beoordeling, gelet op de vereiste deskundigheid, een personeelsbeoordelingsadviseur aan de beoordelaar wordt toegevoegd. Tevens wordt de beoordelaar op zijn verzoek of op het verzoek van de te beoordelen militair door een personeelsbeoordelingsadviseur bijgestaan.
+4. Het functioneringsgesprek is ten minste gericht op de navolgende onderdelen:
 
-5. Een beoordelingstijdvak omvat ten minste 6 maanden en ten hoogste 2 jaren. Om een beoordeling te kunnen opmaken bedraagt de dienstverhouding tussen de eerste beoordelaar en de te beoordelen militair minimaal 6 maanden.
+- a. het functioneren van de militair in de omgeving waarin hij zijn functie vervult, alsmede de functionele relatie tussen de militair en de functionele chef met betrekking tot de functie-uitoefening van de militair over de achterliggende periode. Hierbij komen in elk geval de volgende aspecten aan de orde:
 
-6. Bij de beoordeling van de militair:
+- -. de verhouding tussen de getoonde kennis en de vaardigheden, en de gestelde functie-eisen;
 
-- a. wordt met de beoordeelde militair zijn beoordeling besproken;
+- -. de vorderingen en de gedragingen;
 
-- b. krijgt de beoordeelde militair een afschrift van zijn beoordeling uitgereikt;
+- -. de toetsing of en in hoeverre is voldaan aan eerder gemaakte afspraken;
 
-- c. krijgt hij de gelegenheid zijn bedenkingen tegen één of meer waarderingen of omschrijvingen uit de omtrent hem opgemaakte beoordeling binnen 2 weken schriftelijk bij de tweede beoordelaar kenbaar te maken.
+- b. afspraken en aandachtspunten met betrekking tot de toekomstige functievervulling;
 
-7. Nadat de beoordeling en in voorkomend geval de opgestelde toekomstverwachting door de commandant is vastgesteld, worden aan de beoordeelde afschriften verstrekt.
+- c. de persoonlijke ontwikkeling in relatie tot de mogelijke loopbaanwensen van de militair en de algemene loopbaanpatronen;
 
-8. De bevelhebber kan op grond van doelmatigheidsoverwegingen ten aanzien van een individuele militair of door hem aan te wijzen groepen van militairen bepalen dat het bij of krachtens het eerste tot en met het zevende lid bepaalde geheel of gedeeltelijk buiten toepassing blijft. In voorkomend geval kan de militiar om een beoordeling verzoeken.
+- d. indien de militair de leeftijd van 50 jaar heeft bereikt: de relatie tussen leeftijd en belastbaarheid en functievervulling.
 
-9. In gevallen dat een verwachting als bedoeld in het tweede lid wordt opgesteld, is het zesde lid van overeenkomstige toepassing.
+5. a. De functionele chef legt een samenvatting van de inhoud van het gesprek alsmede de gemaakte afspraken en besproken aandachtspunten in het functioneringsgesprekformulier vast. Het formulier wordt voor een correcte weergave daarvan door de functionele chef en de militair ondertekend. De functionele chef verstrekt de militair een afschrift van het functioneringsgesprekformulier.
 
-10. De bevelhebber stelt de beoordelingsschaal en -lijst vast volgens welke de militair wordt beoordeeld.
+b. De afspraken en aandachtspunten worden opgelegd in het personeelsdossier van de betrokkene.
+
+6. Onze Minister stelt beleidsregels ten aanzien van het houden van functioneringsgesprekken alsmede het functioneringsgesprekformulier, waarin ten minste de in het vierde lid genoemde onderdelen zijn opgenomen.
 
 ##### Artikel 132. Herhaald veiligheidsonderzoek
 
@@ -2470,7 +2482,7 @@ Vervallen
 
 ##### Artikel 163. Citeertitel
 
-Dit besluit kan worden aangehaald als "Algemeen militair ambtenarenreglement", afgekort AMAR.
+Dit besluit wordt aangehaald als "Algemeen militair ambtenarenreglement", afgekort AMAR.
 
 ##### Artikel 164. Inwerkingtreding
 
@@ -2512,7 +2524,7 @@ Het kort durend zorgverlof, bedoeld in [hoofdstuk 5 van de Wet arbeid en zorg](h
 
 1. Aan de militair wordt langer durend zorgverlof met behoud van militaire inkomsten verleend voor hulpverlening aan een tijdelijk ernstig hulpbehoevende of stervende echtgenote, echtgenoot of persoon met wie de militair ongehuwd samenwoont, ouders, stief-, pleeg- of schoonouders, eigen of aangehuwde kinderen, stief- of pleegkinderen.
 
-2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-11-29&g=2002-11-29), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2002-11-29&g=2002-11-29), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
+2. Voor de toepassing van dit artikel is [artikel 87a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2003-05-23&g=2003-05-23), tweede tot en met vijfde lid, van overeenkomstige toepassing, waarbij de militair bij de melding, bedoeld in [artikel 87a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=4b&artikel=87a&z=2003-05-23&g=2003-05-23), ook de omvang, de wijze van opneming en zo mogelijk de vermoedelijke duur van het verlof aangeeft.
 
 ##### Artikel 87d. Ouderschapsverlof
 
@@ -2552,7 +2564,7 @@ De tijdstippen van ingang en einde van het ouderschapsverlof kunnen afhankelijk 
 
 11. De commandant kan bepalen dat de aanspraak op ouderschapsverlof op grond van gewichtige redenen van dienstbelang wordt opgeschort.
 
-12. Het gestelde in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=63&z=2002-11-29&g=2002-11-29), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2002-11-29&g=2002-11-29), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2002-11-29&g=2002-11-29) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2002-11-29&g=2002-11-29) is niet van toepassing op de militair die ouderschapsverlof geniet.
+12. Het gestelde in de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=63&z=2003-05-23&g=2003-05-23), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=64&z=2003-05-23&g=2003-05-23), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=65&z=2003-05-23&g=2003-05-23) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&hoofdstuk=8&paragraaf=1&artikel=67&z=2003-05-23&g=2003-05-23) is niet van toepassing op de militair die ouderschapsverlof geniet.
 
 #### § 5. Bijzondere bepalingen
 
@@ -2597,3 +2609,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3. De bijdrage, als bedoeld in het tweede lid, eindigt met ingang van de dag waarop de militair ontslag wordt verleend.
 
 4. Wanneer sprake is van een ontslag op grond van artikel 39, tweede lid, onder d, van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan, of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.
+
+##### Artikel 131a. Beoordeling
+
+1. Indien de commandant of de militair in werkelijke dienst dit wenselijk vindt, wordt een beoordeling opgemaakt. De militair dient daartoe een aanvraag in bij de commandant.
+
+2. De bevelhebber kan opdracht geven tot het opmaken van een beoordeling.
+
+3. De militair wordt beoordeeld omtrent de wijze waarop hij zijn functie heeft vervuld en omtrent zijn gedrag in relatie tot die functie, gedurende het beoordelingstijdvak. Indien een militair naast de uit zijn functie voortvloeiende werkzaamheden andere opgedragen werkzaamheden of diensten heeft verricht, wordt hij tevens omtrent de wijze waarop hij die werkzaamheden of diensten heeft verricht en omtrent zijn gedrag in relatie tot die werkzaamheden of diensten beoordeeld. De beoordeling is gebaseerd op concrete handelingen, resultaten en gedragingen van de te beoordelen militair.
+
+4. Bij het opmaken van een beoordeling kan een toekomstverwachting worden opgemaakt.
+
+5. Het beoordelingstijdvak omvat een periode van ten minste zes maanden en ten hoogste twee jaren. Per kalenderjaar kan maximaal één beoordeling worden opgemaakt.
+
+6. De beoordeling wordt opgemaakt door een eerste en in beginsel een tweede beoordelaar. Als eerste beoordelaar treedt op de functionele chef van de militair. De tweede beoordelaar is de commandant van de militair dan wel een door de commandant aangewezen functionaris. In het geval de commandant is opgetreden als eerste beoordelaar, treedt in beginsel als tweede beoordelaar op de functionele chef van de commandant.
+
+7. Gelet op de vereiste deskundigheid kan bij het uitbrengen van een beoordeling een personeelsbeoordelingsadviseur aan de beoordelaar worden toegevoegd.
+
+8. Na het opmaken van de beoordeling van de militair:
+
+- a. wordt met de militair zijn beoordeling besproken;
+
+- b. krijgt de militair een afschrift van zijn beoordeling uitgereikt;
+
+- c. krijgt hij de gelegenheid zijn bedenkingen tegen de omtrent hem opgemaakte beoordeling binnen 2 weken schriftelijk bij de tweede beoordelaar kenbaar te maken, tenzij er geen tweede beoordelaar is; indien er geen tweede beoordelaar is, worden de bedenkingen kenbaar gemaakt bij de eerste beoordelaar.
+
+9. Nadat de beoordeling door de tweede beoordelaar is vastgesteld, wordt aan de militair een afschrift verstrekt. Deze bepaling is van overeenkomstige toepassing indien er sprake is van één beoordelaar.
+
+10. Onze Minister stelt beleidsregels ten aanzien van het opmaken en vaststellen van beoordelingen alsmede het beoordelingsformulier volgens welke de militair wordt beoordeeld.
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
