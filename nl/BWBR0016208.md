@@ -4,7 +4,7 @@ identifier: "BWBR0016208"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016208"
 soort: "wet"
@@ -63,7 +63,7 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel VIII
 
@@ -79,19 +79,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XV
 
