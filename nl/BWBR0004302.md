@@ -4,7 +4,7 @@ identifier: "BWBR0004302"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-12"
-last_updated: "2002-11-07"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004302"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. bijlage: de bijlage bij deze wet;
 
-- d. overtreding: een handeling als omschreven in de bijlage, welke in strijd is met het bepaalde bij of krachtens de artikelen [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2002-11-07&g=2002-11-07), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2002-11-07&g=2002-11-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2002-11-07&g=2002-11-07), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2002-11-07&g=2002-11-07), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2002-11-07&g=2002-11-07), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11&z=2002-11-07&g=2002-11-07), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11a&z=2002-11-07&g=2002-11-07) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=18&z=2002-11-07&g=2002-11-07);
+- d. overtreding: een handeling als omschreven in de bijlage, welke in strijd is met het bepaalde bij of krachtens de artikelen [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2003-01-01&g=2003-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2003-01-01&g=2003-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2003-01-01&g=2003-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2003-01-01&g=2003-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2003-01-01&g=2003-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11&z=2003-01-01&g=2003-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11a&z=2003-01-01&g=2003-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=18&z=2003-01-01&g=2003-01-01);
 
 - e. boete: de bestuurlijke sanctie bestaande in de verplichting aan de staat een bepaalde geldsom te betalen.
 
@@ -79,7 +79,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten te verstrekken of daartoe aanwezig te hebben, indien die producten niet aan de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2002-11-07&g=2002-11-07) gestelde eisen voldoen.
+1. Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten te verstrekken of daartoe aanwezig te hebben, indien die producten niet aan de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2003-01-01&g=2003-01-01) gestelde eisen voldoen.
 
 2. Het eerste lid is niet van toepassing indien aannemelijk wordt gemaakt dat het produkt voor uitvoer is bestemd of is bestemd om te worden vernietigd dan wel in overeenstemming te worden gebracht met de daaraan gestelde eisen.
 
@@ -97,7 +97,7 @@ Het is verboden tabaksproducten, bestemd voor oraal gebruik anders dan roken of 
 
 ##### Artikel 5
 
-1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2002-11-07&g=2002-11-07) is elke vorm van reclame en sponsoring verboden.
+1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=4&z=2003-01-01&g=2003-01-01) is elke vorm van reclame en sponsoring verboden.
 
 2. Het eerste lid geldt niet, indien een naam die reeds te goeder trouw wordt gebruikt voor zowel tabaksproducten als andere producten of diensten welke door een zelfde onderneming of door verschillende ondernemingen in de handel zijn gebracht of worden aangeboden, voor reclame voor die andere producten of diensten wordt gebruikt en die naam gebruikt wordt in een duidelijk andere presentatievorm dan die waarin hij voor het tabaksproduct wordt gebruikt, met uitsluiting van enig ander onderscheidend teken dat reeds voor een tabaksproduct gebruikt wordt.
 
@@ -135,7 +135,11 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 8
 
-Tegen een beschikking inzake een verklaring als bedoeld in [artikel 5, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07), kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+1. Het is verboden bedrijfsmatig of anders dan om niet tabaksproducten te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt. Onder verstrekken wordt eveneens begrepen het verstrekken van een tabaksproduct aan een persoon van wie is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt, welk tabaksproduct echter kennelijk bestemd is voor een persoon van wie niet is vastgesteld dat deze de leeftijd van 16 jaar heeft bereikt.
+
+2. De vaststelling, bedoeld in het eerste lid, blijft achterwege, indien het een persoon betreft die onmiskenbaar de leeftijd van 16 jaar heeft bereikt. De vaststelling geschiedt aan de hand van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), dan wel een bij of krachtens algemene maatregel van bestuur aangewezen document.
+
+3. Op plaatsen waar bedrijfsmatig of anders dan om niet tabaksproducten aan particulieren plegen te worden verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven dat aan personen jonger dan 16 jaar geen tabaksproducten worden verstrekt. Onze Minister kan daaromtrent nadere regels stellen en een model voorschrijven.
 
 #### § 4. Verstrekking aan particulieren
 
@@ -145,7 +149,7 @@ Tegen een beschikking inzake een verklaring als bedoeld in [artikel 5, tweede li
 
 2. Het is verboden bedrijfsmatig of anders dan om niet sigaretten aan particulieren te verstrekken of met dat doel aanwezig te hebben anders dan in een gesloten verpakking, die niet zonder kenbare beschadiging kan worden geopend.
 
-3. Dit lid is nog niet in werking getreden.
+3. Het is verboden sigaretten in een verpakking van minder dan negentien stuks, behoudens uitzonderingen bij ministeriële regeling, in de handel te brengen of daartoe aanwezig te hebben.
 
 4. Bij algemene maatregel van bestuur kunnen methoden voor het bedrijfsmatig of anders dan om niet verstrekken van tabaksproducten aan particulieren zonder ter hand stelling door tussenkomst van een verstrekkende persoon worden verboden. Op het verbod kunnen, overeenkomstig bij algemene maatregel van bestuur gestelde regelen, beperkingen worden aangebracht.
 
@@ -159,15 +163,15 @@ Tegen een beschikking inzake een verklaring als bedoeld in [artikel 5, tweede li
 
 ##### Artikel 11
 
-1. Bij algemene maatregel van bestuur kan aan degenen die - anders dan in een hoedanigheid als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07) - het beheer hebben over gebouwen of inrichtingen voor gezondheidszorg, welzijn, maatschappelijke dienstverlening, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die gebouwen of inrichtingen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, de verplichting worden opgelegd tot het treffen van maatregelen als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07).
+1. Bij algemene maatregel van bestuur kan aan degenen die - anders dan in een hoedanigheid als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01) - het beheer hebben over gebouwen of inrichtingen voor gezondheidszorg, welzijn, maatschappelijke dienstverlening, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die gebouwen of inrichtingen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, de verplichting worden opgelegd tot het treffen van maatregelen als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01).
 
-2. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07), is van overeenkomstige toepassing.
+2. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 #### § 5. Rookverboden
 
 ##### Artikel 12
 
-De voordracht voor een algemene maatregel van bestuur krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2002-11-07&g=2002-11-07), [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2002-11-07&g=2002-11-07), en [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11a&z=2002-11-07&g=2002-11-07), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een algemene maatregel van bestuur krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2003-01-01&g=2003-01-01), [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2003-01-01&g=2003-01-01), en [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11a&z=2003-01-01&g=2003-01-01), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 13
 
@@ -215,25 +219,25 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a
 
-1. Het is verboden voor een tabaksproduct een naam, een merk, een symbool of enig ander onderscheidend teken van een ander product of van een andere dienst te gebruiken, tenzij dit tabaksproduct reeds vóór de datum van inwerkingtreding van het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07), bedoelde verbod onder die naam, dat merk of symbool, dan wel met dat onderscheidende teken, in de handel was.
+1. Het is verboden voor een tabaksproduct een naam, een merk, een symbool of enig ander onderscheidend teken van een ander product of van een andere dienst te gebruiken, tenzij dit tabaksproduct reeds vóór de datum van inwerkingtreding van het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01), bedoelde verbod onder die naam, dat merk of symbool, dan wel met dat onderscheidende teken, in de handel was.
 
-2. Het is verboden voor producten of diensten, die na de datum van inwerkingtreding van het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07), bedoelde verbod op de markt worden gebracht, een naam, merk, symbool of een ander onderscheidend teken te gebruiken dat eerder al voor een tabaksproduct werd gebruikt, tenzij de naam, het merk, het symbool of het andere onderscheidende teken van het product of de dienst in een duidelijk andere vorm dan die van het tabaksproduct wordt gepresenteerd.
+2. Het is verboden voor producten of diensten, die na de datum van inwerkingtreding van het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01), bedoelde verbod op de markt worden gebracht, een naam, merk, symbool of een ander onderscheidend teken te gebruiken dat eerder al voor een tabaksproduct werd gebruikt, tenzij de naam, het merk, het symbool of het andere onderscheidende teken van het product of de dienst in een duidelijk andere vorm dan die van het tabaksproduct wordt gepresenteerd.
 
 ##### Artikel 5b
 
-1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2002-11-07&g=2002-11-07), onrechtmatig worden verklaard.
+1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2003-01-01&g=2003-01-01), onrechtmatig worden verklaard.
 
 2. De vordering kan worden ingesteld tegen degene die verantwoordelijk is voor de reclame of sponsoring.
 
 3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid, die tot doel hebben de preventie van roken, het stoppen met roken of de behartiging van de belangen van jongeren, consumenten of niet-rokers.
 
-4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
+4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
 
 ##### Artikel 5c
 
-1. De rechtbank te Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2002-11-07&g=2002-11-07).
+1. De rechtbank te Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2003-01-01&g=2003-01-01).
 
-2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2002-11-07&g=2002-11-07) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
+2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2003-01-01&g=2003-01-01) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
 
 3. Op vordering van de eiser kan aan de uitspraak worden verbonden:
 
@@ -243,7 +247,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
 
-4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2002-11-07&g=2002-11-07) wordt weggenomen.
+4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2003-01-01&g=2003-01-01) wordt weggenomen.
 
 5. Geschillen ter zake van de tenuitvoerlegging van de in het derde lid bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door de rechtbank te Rotterdam beslist.
 
@@ -257,7 +261,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Nederlandse luchtvaartmaatschappijen zijn verplicht zodanige maatregelen te treffen dat passagiers aan boord van hun vliegtuigen tijdens het gebruik voor de burgerluchtvaart op vluchten van en naar op Nederlands grondgebied gelegen luchthavens in staat worden gesteld hun reis te volbrengen zonder daarbij hinder of overlast van roken te ondervinden.
 
-4. Diegenen die – anders dan in een hoedanigheid als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11&z=2002-11-07&g=2002-11-07) – het beheer hebben over voor het publiek toegankelijke gebouwen, voor zover die gebouwen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, zijn verplicht tot het treffen van maatregelen als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2002-11-07&g=2002-11-07).
+4. Diegenen die – anders dan in een hoedanigheid als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=11&z=2003-01-01&g=2003-01-01) – het beheer hebben over voor het publiek toegankelijke gebouwen, voor zover die gebouwen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, zijn verplicht tot het treffen van maatregelen als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2003-01-01&g=2003-01-01).
 
 5. Bij algemene maatregel van bestuur kunnen op de in dit artikel bedoelde verplichtingen beperkingen worden aangebracht. Zo kan worden bepaald dat de verplichtingen, bedoeld in het eerste lid, niet gelden voor bij die maatregel aangewezen:
 
@@ -277,13 +281,13 @@ Daarbij kunnen nadere regels worden gesteld.
 
 2. De hoogte van de boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste:
 
-- a. f 1 000 000,– bedraagt wegens overtreding van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2002-11-07&g=2002-11-07), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten;
+- a. f 1 000 000,– bedraagt wegens overtreding van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2003-01-01&g=2003-01-01), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten;
 
 - b. f 10 000,– bedraagt in andere dan de onder a bedoelde gevallen.
 
 3. Onze Minister kan de boete lager stellen dan in de bijlage is bepaald, indien het bedrag van de boete in een bepaald geval op grond van bijzondere omstandigheden onevenredig hoog moet worden geacht.
 
-4. De werkzaamheden in verband met de uitvoering van het eerste lid worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11f&z=2002-11-07&g=2002-11-07) bedoelde rapport en het daaraan voorafgaande onderzoek.
+4. De werkzaamheden in verband met de uitvoering van het eerste lid worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11f&z=2003-01-01&g=2003-01-01) bedoelde rapport en het daaraan voorafgaande onderzoek.
 
 5. De bevoegdheid tot het opleggen van een boete vervalt, indien ter zake van de overtreding op grond waarvan de boete kan worden opgelegd een strafvervolging tegen de overtreder is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvervolging is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
 
@@ -307,7 +311,7 @@ Degene jegens wie een handeling is verricht, waaraan hij in redelijkheid de gevo
 
 ##### Artikel 11e
 
-1. Indien Onze Minister voornemens is een boete op te leggen, geeft hij de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2002-11-07&g=2002-11-07), eerste lid, daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
+1. Indien Onze Minister voornemens is een boete op te leggen, geeft hij de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2003-01-01&g=2003-01-01), eerste lid, daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
 
 2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt Onze Minister de persoon in de gelegenheid om binnen een redelijke termijn naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
 
@@ -317,7 +321,7 @@ Degene jegens wie een handeling is verricht, waaraan hij in redelijkheid de gevo
 
 ##### Artikel 11f
 
-1. Indien een krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=13&z=2002-11-07&g=2002-11-07) aangewezen ambtenaar vaststelt dat een in de bijlage omschreven overtreding is begaan, maakt hij daarvan een rapport op.
+1. Indien een krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=13&z=2003-01-01&g=2003-01-01) aangewezen ambtenaar vaststelt dat een in de bijlage omschreven overtreding is begaan, maakt hij daarvan een rapport op.
 
 2. Het rapport vermeldt in ieder geval:
 
@@ -327,13 +331,13 @@ Degene jegens wie een handeling is verricht, waaraan hij in redelijkheid de gevo
 
 - c. de feiten en omstandigheden op grond waarvan is vastgesteld dat een overtreding is begaan;
 
-- d. de verklaring van degene als bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11d&z=2002-11-07&g=2002-11-07), indien afgelegd.
+- d. de verklaring van degene als bedoeld in [artikel 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11d&z=2003-01-01&g=2003-01-01), indien afgelegd.
 
 3. Het rapport wordt toegezonden aan Onze Minister.
 
 4. Een afschrift van het rapport wordt toegezonden of uitgereikt aan de overtreder.
 
-5. Op verzoek van de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2002-11-07&g=2002-11-07), eerste lid, die het rapport wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van het rapport aan die persoon wordt medegedeeld in een voor hem begrijpelijke taal.
+5. Op verzoek van de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2003-01-01&g=2003-01-01), eerste lid, die het rapport wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van het rapport aan die persoon wordt medegedeeld in een voor hem begrijpelijke taal.
 
 ##### Artikel 11g
 
@@ -343,15 +347,15 @@ Degene jegens wie een handeling is verricht, waaraan hij in redelijkheid de gevo
 
 - a. de overtreding, onder verwijzing naar het desbetreffende wettelijke voorschrift en de omschrijving in de bijlage;
 
-- b. de in [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11f&z=2002-11-07&g=2002-11-07), tweede lid, onder b en c, bedoelde gegevens;
+- b. de in [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11f&z=2003-01-01&g=2003-01-01), tweede lid, onder b en c, bedoelde gegevens;
 
 - c. de hoogte van de boete en de termijn waarbinnen zij moet worden betaald.
 
-3. Op verzoek van de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2002-11-07&g=2002-11-07), eerste lid, die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van de beschikking aan die persoon wordt medegedeeld in een voor hem begrijpelijke taal.
+3. Op verzoek van de persoon, bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2003-01-01&g=2003-01-01), eerste lid, die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van de beschikking aan die persoon wordt medegedeeld in een voor hem begrijpelijke taal.
 
 ##### Artikel 11h
 
-De werking van een beschikking als bedoeld in [artikel 11g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11g&z=2002-11-07&g=2002-11-07) wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van een beschikking als bedoeld in [artikel 11g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11g&z=2003-01-01&g=2003-01-01) wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 11i
 
@@ -383,7 +387,7 @@ De werking van een beschikking als bedoeld in [artikel 11g](https://wetten.overh
 
 ## Bijlage. bij de Tabakswet
 
-Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2002-11-07&g=2002-11-07) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=1&artikel=1&z=2002-11-07&g=2002-11-07)
+Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2003-01-01&g=2003-01-01) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01)
 
 De overtredingen zijn ingedeeld in drie categorieën, te weten A, B en C.
 
@@ -393,7 +397,7 @@ Onder categorie A vallen de overtredingen door fabrikanten, groothandelaren en i
 
 ### Categorie A
 
-Overtredingen door fabrikanten, groothandelaren en importeurs van tabaksproducten van de verboden neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-11-07&g=2002-11-07) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2002-11-07&g=2002-11-07) worden bestraft met een boete van € 45000, bij herhaling binnen een jaar een boete van € 135000, bij een tweede herhaling binnen drie jaar na de eerste overtreding een boete van € 225000 en bij een derde herhaling binnen vijf jaar na de eerste overtreding een boete van € 450000. Andere overtredingen behorend tot categorie A, door eigenaren en exploitanten van tabaksverkooppunten of -speciaalzaken, door fabrikanten, groothandelaren en importeurs van tabaksproducten, alsmede overtredingen behorend tot categorie A door eigenaren en exploitanten van tabaksautomaten worden bestraft met een maximumboete van € 4500.
+Overtredingen door fabrikanten, groothandelaren en importeurs van tabaksproducten van de verboden neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2003-01-01&g=2003-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2003-01-01&g=2003-01-01) worden bestraft met een boete van € 45000, bij herhaling binnen een jaar een boete van € 135000, bij een tweede herhaling binnen drie jaar na de eerste overtreding een boete van € 225000 en bij een derde herhaling binnen vijf jaar na de eerste overtreding een boete van € 450000. Andere overtredingen behorend tot categorie A, door eigenaren en exploitanten van tabaksverkooppunten of -speciaalzaken, door fabrikanten, groothandelaren en importeurs van tabaksproducten, alsmede overtredingen behorend tot categorie A door eigenaren en exploitanten van tabaksautomaten worden bestraft met een maximumboete van € 4500.
 
 [Artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2002-07-17&g=2002-07-17):
 
