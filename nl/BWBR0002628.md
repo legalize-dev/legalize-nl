@@ -4,7 +4,7 @@ identifier: "BWBR0002628"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2002-09-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002628"
 soort: "wet"
@@ -56,13 +56,13 @@ Deze wet verstaat onder:
 
 - 3. een andere dagschool die, wat de inrichting van het onderwijs en de bevoegdheden van de leraren betreft, overeenkomt met een van de onder 1 genoemde scholen;
 
-- 4. een andere krachtens [artikel 1**a**, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1a&z=2002-09-01&g=2002-09-01), voor de toepassing van deze wet als school aangewezen onderwijsinstelling;
+- 4. een andere krachtens [artikel 1**a**, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1a&z=2003-08-01&g=2003-08-01), voor de toepassing van deze wet als school aangewezen onderwijsinstelling;
 
 - c. "instelling":
 
 - 1. een instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- 2. een andere krachtens [artikel 1**a**, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1a&z=2002-09-01&g=2002-09-01), voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;
+- 2. een andere krachtens [artikel 1**a**, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1a&z=2003-08-01&g=2003-08-01), voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;
 
 - d. "hoofd":
 
@@ -70,15 +70,15 @@ Deze wet verstaat onder:
 
 - 2. hij die met de leiding van de instelling is belast;
 
-- e. "de ambtenaar": de ambtenaar, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=16&z=2002-09-01&g=2002-09-01).
+- e. "de ambtenaar": de ambtenaar, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=16&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 1a. Aanwijzing scholen en instellingen
 
 1. Bij ministeriële regeling dan wel bij beschikking van Onze minister kunnen:
 
-- a. onderwijsinstellingen dan wel groepen daarvan worden aangewezen als school bedoeld in [artikel 1, onderdeel b onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1&z=2002-09-01&g=2002-09-01), en
+- a. onderwijsinstellingen dan wel groepen daarvan worden aangewezen als school bedoeld in [artikel 1, onderdeel b onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1&z=2003-08-01&g=2003-08-01), en
 
-- b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel groepen daarvan worden aangewezen als instelling bedoeld in [artikel 1, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1&z=2002-09-01&g=2002-09-01).
+- b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel groepen daarvan worden aangewezen als instelling bedoeld in [artikel 1, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=1&artikel=1&z=2003-08-01&g=2003-08-01).
 
 Aan de aanwijzing kunnen voorwaarden worden verbonden.
 
@@ -86,7 +86,7 @@ Aan de aanwijzing kunnen voorwaarden worden verbonden.
 
 ##### Artikel 1b. Meerderjarige leerplichtigen
 
-Indien een leerplichtige jongere meerderjarig is rusten de verplichtingen en bevoegdheden die in deze wet zijn toebedeeld aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen op de jongere zelf.
+Indien een leerplichtige jongere meerderjarig is rusten de verplichtingen en bevoegdheden die in deze wet zijn toebedeeld aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen op de jongere zelf.
 
 ##### Artikel 1c. Verstrekking gegevens van de jongere
 
@@ -102,7 +102,7 @@ Binnen dertien weken na de datum waarop een jongere de leeftijd van drie jaar en
 
 3. De jongere die de leeftijd van 12 jaren heeft bereikt, is verplicht overeenkomstig de bepalingen van deze wet de school waaraan hij als leerling is ingeschreven, geregeld te bezoeken, onverminderd het bepaalde in het eerste lid.
 
-4. Tot het tijdstip, bedoeld in [artikel XIa, eerste, tweede, derde, onderscheidenlijk vierde lid, van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIa), kan, in afwijking van de tweede volzin van het eerste lid, inschrijving van een jongere als leerling van een school plaatsvinden zonder overlegging van het onderwijsnummer en, indien de in het eerste lid bedoelde personen aannemelijk maken dat zij geen sociaal-fiscaalnummer van de jongere kunnen overleggen, eveneens zonder overlegging van het sociaal-fiscaalnummer. Tot dat tijdstip is de derde volzin van het eerste lid uitsluitend van toepassing met betrekking tot het sociaal-fiscaalnummer.
+4. Tot het tijdstip, bedoeld in [artikel XIa, eerste, tweede, onderscheidenlijk derde lid, van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIa), kan, in afwijking van de tweede volzin van het eerste lid, inschrijving van een jongere als leerling van een school plaatsvinden zonder overlegging van het onderwijsnummer en, indien de in het eerste lid bedoelde personen aannemelijk maken dat zij geen sociaal-fiscaalnummer van de jongere kunnen overleggen, eveneens zonder overlegging van het sociaal-fiscaalnummer. Tot dat tijdstip is de derde volzin van het eerste lid uitsluitend van toepassing met betrekking tot het sociaal-fiscaalnummer.
 
 5. Het eerste lid, tweede en derde volzin, en het vierde lid zijn ten aanzien van scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) van toepassing met ingang van het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II), onderscheidenlijk [artikel III, van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III).
 
@@ -118,7 +118,7 @@ Binnen dertien weken na de datum waarop een jongere de leeftijd van drie jaar en
 
 ##### Artikel 3a. Vervangende leerplicht
 
-1. Indien het betreft een jongere die tenminste de leeftijd van 14 jaar heeft bereikt en waarvan naar hun oordeel is komen vast te staan, dat hij niet geschikt is volledig dagonderwijs aan een school te volgen, kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen, in overeenstemming met het bevoegd gezag van de school, toestaan dat gedurende een bepaald schooljaar, voor zover nodig, in afwijking van het bepaalde in de [artikelen 11**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), [11**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11c), [11**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11d) en [11**e** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11e) de jongere aan de school een programma volgt, dat naast algemeen vormend onderwijs en op het beroep gericht onderwijs tevens praktijktijd bevat, bestaande uit arbeid van lichte aard, te verrichten naast en in samenhang met het onderwijs.
+1. Indien het betreft een jongere die tenminste de leeftijd van 14 jaar heeft bereikt en waarvan naar hun oordeel is komen vast te staan, dat hij niet geschikt is volledig dagonderwijs aan een school te volgen, kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen, in overeenstemming met het bevoegd gezag van de school, toestaan dat gedurende een bepaald schooljaar, voor zover nodig, in afwijking van het bepaalde in de [artikelen 11**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), [11**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11c), [11**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11d) en [11**e** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11e) de jongere aan de school een programma volgt, dat naast algemeen vormend onderwijs en op het beroep gericht onderwijs tevens praktijktijd bevat, bestaande uit arbeid van lichte aard, te verrichten naast en in samenhang met het onderwijs.
 
 2. Het verzoek, bedoeld in het eerste lid, gaat vergezeld van een plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de school en dat tenminste bevat een beschrijving van de onderwijsdoelen en van de praktijktijd.
 
@@ -128,15 +128,15 @@ Binnen dertien weken na de datum waarop een jongere de leeftijd van drie jaar en
 
 - b. het hoofd van de school waar de jongere staat ingeschreven.
 
-4. Burgemeester en wethouders besluiten binnen 4 weken na ontvangst van het verzoek, bedoeld in het eerste lid, en zenden binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen.
+4. Burgemeester en wethouders besluiten binnen 4 weken na ontvangst van het verzoek, bedoeld in het eerste lid, en zenden binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen.
 
-5. Indien de jongere nog steeds niet geschikt is volledig dagonderwijs als bedoeld in het eerste lid aan een school te volgen, kunnen de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen burgemeester en wethouders ten minste acht weken voor het verstrijken van de periode waarvoor toestemming is verleend, verzoeken de toestemming voor het daaropvolgend schooljaar te verlengen. Het verzoek gaat vergezeld van een verklaring van het hoofd van de school waar de jongere is ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 11a tot en met 11**d** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), te ontraden is, alsmede dat voortzetting van het programma bijdraagt aan de ontwikkeling van de jongere. Het tweede en derde lid zijn van toepassing.
+5. Indien de jongere nog steeds niet geschikt is volledig dagonderwijs als bedoeld in het eerste lid aan een school te volgen, kunnen de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen burgemeester en wethouders ten minste acht weken voor het verstrijken van de periode waarvoor toestemming is verleend, verzoeken de toestemming voor het daaropvolgend schooljaar te verlengen. Het verzoek gaat vergezeld van een verklaring van het hoofd van de school waar de jongere is ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 11a tot en met 11**d** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), te ontraden is, alsmede dat voortzetting van het programma bijdraagt aan de ontwikkeling van de jongere. Het tweede en derde lid zijn van toepassing.
 
 ##### Artikel 3b. Vervangende leerplicht laatste schooljaar
 
-1. Op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in [artikel 3, eerste lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2002-09-01&g=2002-09-01), wordt vervangen door de inschrijving als leerling van een instelling als bedoeld in [paragraaf 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&z=2002-09-01&g=2002-09-01).
+1. Op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in [artikel 3, eerste lid, onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2003-08-01&g=2003-08-01), wordt vervangen door de inschrijving als leerling van een instelling als bedoeld in [paragraaf 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&z=2003-08-01&g=2003-08-01).
 
-2. Het verzoek, bedoeld in het eerste lid, gaat vergezeld van plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de instelling waar de jongere ingeschreven wenst te worden. Het begeleidingsprogramma bevat ten minste een beschrijving van de onderwijs- en vormingsdoelen, waaronder algemeen vormend onderwijs en op het beroep gericht onderwijs, alsmede de wijze waarop arbeid van lichte aard zal worden verricht, naast het volgen van onderwijs aan een instelling als bedoeld in [paragraaf 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&z=2002-09-01&g=2002-09-01) doch niet in samenhang met het onderwijs. Indien het betreft een jongere, die ten tijde van de indiening van het verzoek een programma als bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3a&z=2002-09-01&g=2002-09-01), volgt, gaat het verzoek tevens vergezeld van een verklaring van het hoofd van de school waar de jongere is ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 11**a** tot en met 11**d** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), dan wel een voortgezette toepassing van [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3a&z=2002-09-01&g=2002-09-01), te ontraden is.
+2. Het verzoek, bedoeld in het eerste lid, gaat vergezeld van plan van aanpak dat voorziet in een begeleidingsprogramma ten behoeve van de jongere dat is opgesteld door de instelling waar de jongere ingeschreven wenst te worden. Het begeleidingsprogramma bevat ten minste een beschrijving van de onderwijs- en vormingsdoelen, waaronder algemeen vormend onderwijs en op het beroep gericht onderwijs, alsmede de wijze waarop arbeid van lichte aard zal worden verricht, naast het volgen van onderwijs aan een instelling als bedoeld in [paragraaf 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&z=2003-08-01&g=2003-08-01) doch niet in samenhang met het onderwijs. Indien het betreft een jongere, die ten tijde van de indiening van het verzoek een programma als bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3a&z=2003-08-01&g=2003-08-01), volgt, gaat het verzoek tevens vergezeld van een verklaring van het hoofd van de school waar de jongere is ingeschreven, waarin een overzicht is gegeven van de wijze waarop uitvoering is gegeven aan het programma en waaruit blijkt dat een terugkeer van de jongere naar het onderwijs, bedoeld in de [artikelen 11**a** tot en met 11**d** van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), dan wel een voortgezette toepassing van [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3a&z=2003-08-01&g=2003-08-01), te ontraden is.
 
 3. Alvorens burgemeester en wethouder besluiten op het verzoek, bedoeld in het eerste lid, horen burgemeester en wethouder in elk geval:
 
@@ -146,7 +146,7 @@ Binnen dertien weken na de datum waarop een jongere de leeftijd van drie jaar en
 
 - c. de instellingen van maatschappelijke zorg die reeds bij de begeleiding van de jongere betrokken zijn.
 
-4. Burgemeester en wethouders besluiten binnen 4 weken na ontvangst van het verzoek, bedoeld in het eerste lid, en zenden binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen.
+4. Burgemeester en wethouders besluiten binnen 4 weken na ontvangst van het verzoek, bedoeld in het eerste lid, en zenden binnen 2 weken na het nemen van het besluit daarvan afschrift aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen.
 
 ##### Artikel 4. Begin en einde van de verplichting tot geregeld schoolbezoek
 
@@ -158,29 +158,29 @@ Binnen dertien weken na de datum waarop een jongere de leeftijd van drie jaar en
 
 ##### Artikel 4a. Verantwoordelijke personen
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen zijn verplicht te zorgen, dat de jongere overeenkomstig de bepalingen van deze paragraaf is ingeschreven als leerling van een instelling en deze instelling na inschrijving geregeld bezoekt, indien:
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen zijn verplicht te zorgen, dat de jongere overeenkomstig de bepalingen van deze paragraaf is ingeschreven als leerling van een instelling en deze instelling na inschrijving geregeld bezoekt, indien:
 
-- a. ten aanzien van de jongere de leerplicht, bedoeld in [§ 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&z=2002-09-01&g=2002-09-01), is geëindigd, en
+- a. ten aanzien van de jongere de leerplicht, bedoeld in [§ 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&z=2003-08-01&g=2003-08-01), is geëindigd, en
 
 - b. de jongere geen volledig dagonderwijs volgt.
 
-Bij de inschrijving wordt een van overheidswege verstrekt document of een bewijs van uitschrijving van een andere school overgelegd waarop de gegevens van de jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer of bij gebreke daarvan zo mogelijk zijn onderwijsnummer zijn vermeld. Indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen bij de inschrijving aannemelijk hebben gemaakt dat zij geen sociaal-fiscaalnummer of onderwijsnummer van de jongere kunnen overleggen, leggen zij het sociaal-fiscaalnummer of onderwijsnummer van de jongere over aan de school zodra zij daarvan kennis hebben verkregen.
+Bij de inschrijving wordt een van overheidswege verstrekt document of een bewijs van uitschrijving van een andere school overgelegd waarop de gegevens van de jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer of bij gebreke daarvan zo mogelijk zijn onderwijsnummer zijn vermeld. Indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen bij de inschrijving aannemelijk hebben gemaakt dat zij geen sociaal-fiscaalnummer of onderwijsnummer van de jongere kunnen overleggen, leggen zij het sociaal-fiscaalnummer of onderwijsnummer van de jongere over aan de school zodra zij daarvan kennis hebben verkregen.
 
-2. Tot het tijdstip, bedoeld in [artikel XIa, vijfde lid, van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIa), kan, in afwijking van de tweede volzin van het eerste lid, inschrijving van een jongere als deelnemer aan een instelling plaatsvinden zonder overlegging van het onderwijsnummer en, indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen aannemelijk maken dat zij geen sociaal-fiscaalnummer van de jongere kunnen overleggen, eveneens zonder overlegging van het sociaal-fiscaalnummer. Tot dat tijdstip is de derde volzin van het eerste lid uitsluitend van toepassing met betrekking tot het sociaal-fiscaalnummer.
+2. Tot het tijdstip, bedoeld in [artikel XIa, vijfde lid, van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIa), kan, in afwijking van de tweede volzin van het eerste lid, inschrijving van een jongere als deelnemer aan een instelling plaatsvinden zonder overlegging van het onderwijsnummer en, indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen aannemelijk maken dat zij geen sociaal-fiscaalnummer van de jongere kunnen overleggen, eveneens zonder overlegging van het sociaal-fiscaalnummer. Tot dat tijdstip is de derde volzin van het eerste lid uitsluitend van toepassing met betrekking tot het sociaal-fiscaalnummer.
 
 3. Het eerste lid, tweede en derde volzin, en het tweede lid zijn van toepassing met ingang van het tijdstip van inwerkingtreding van [artikel IV van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 681)](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV).
 
 ##### Artikel 4b. Begin en einde van de verplichting tot inschrijving
 
-1. De in het vorige artikel bedoelde verplichting vangt aan op het in [artikel 3, eerste lid onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2002-09-01&g=2002-09-01), bedoelde tijdstip en eindigt op de laatste dag van het schooljaar.
+1. De in het vorige artikel bedoelde verplichting vangt aan op het in [artikel 3, eerste lid onder **a** of **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2003-08-01&g=2003-08-01), bedoelde tijdstip en eindigt op de laatste dag van het schooljaar.
 
-2. Indien de jongere ten aanzien van wie de leerplicht, bedoeld in [§ 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&z=2002-09-01&g=2002-09-01), is geëindigd, gedurende enige tijd volledig dagonderwijs volgt, wordt deze tijd in mindering gebracht op het in het vorige lid bedoelde tijdvak.
+2. Indien de jongere ten aanzien van wie de leerplicht, bedoeld in [§ 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&z=2003-08-01&g=2003-08-01), is geëindigd, gedurende enige tijd volledig dagonderwijs volgt, wordt deze tijd in mindering gebracht op het in het vorige lid bedoelde tijdvak.
 
 ##### Artikel 4c. Begin en einde van de verplichting tot geregeld schoolbezoek
 
 1. De jongere die als leerling van een instelling is ingeschreven is verplicht gedurende twee dagen per week het onderwijs geregeld te volgen. Indien de jongere een overeenkomst als bedoeld in [artikel 7.2.8 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8) heeft gesloten geldt de verplichting bedoeld in de eerste volzin voor één dag per week.
 
-2. De verplichting het onderwijs geregeld te volgen begint op de dag, waarop de jongere na inschrijving op die instelling kan plaatsnemen, en eindigt tegelijk met de verplichting van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen om te zorgen, dat de jongere als leerling van een instelling is ingeschreven.
+2. De verplichting het onderwijs geregeld te volgen begint op de dag, waarop de jongere na inschrijving op die instelling kan plaatsnemen, en eindigt tegelijk met de verplichting van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen om te zorgen, dat de jongere als leerling van een instelling is ingeschreven.
 
 3. Het onderwijs wordt geregeld gevolgd, zolang geen les of praktijktijd wordt verzuimd.
 
@@ -190,7 +190,7 @@ Bij de inschrijving wordt een van overheidswege verstrekt document of een bewijs
 
 ##### Artikel 5. Gronden voor vrijstelling van inschrijving
 
-De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een jongere als leerling van een school onderscheidenlijk een instelling is ingeschreven, zolang
+De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een jongere als leerling van een school onderscheidenlijk een instelling is ingeschreven, zolang
 
 - a. de jongere op lichamelijke of psychische gronden niet geschikt is om tot een school onderscheidenlijk een instelling te worden toegelaten;
 
@@ -200,7 +200,7 @@ De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&pa
 
 ##### Artikel 5a. Trekkend bestaan
 
-De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een jongere als leerling van een school is ingeschreven, zolang zij een bij algemene maatregel van bestuur te omschrijven trekkend bestaan leiden waarbij de jongere hen vergezelt. De algemene maatregel van bestuur kan bijzondere regelen bevatten betreffende de vrijstelling in verband met:
+De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen zijn vrijgesteld van de verplichting om te zorgen, dat een jongere als leerling van een school is ingeschreven, zolang zij een bij algemene maatregel van bestuur te omschrijven trekkend bestaan leiden waarbij de jongere hen vergezelt. De algemene maatregel van bestuur kan bijzondere regelen bevatten betreffende de vrijstelling in verband met:
 
 - a. de leeftijd van de jongere waarop de verplichting ingaat om te zorgen dat een jongere als leerling van een school is ingeschreven;
 
@@ -208,7 +208,7 @@ De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&pa
 
 ##### Artikel 6. Kennisgeving
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen kunnen zich slechts beroepen op vrijstelling, indien zij aan burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, hebben kennis gegeven, voor welke jongere en op welke grond zij daarop aanspraak menen te mogen maken.
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen kunnen zich slechts beroepen op vrijstelling, indien zij aan burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, hebben kennis gegeven, voor welke jongere en op welke grond zij daarop aanspraak menen te mogen maken.
 
 2. Deze kennisgeving moet worden ingediend:
 
@@ -216,37 +216,37 @@ De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&pa
 
 - b. zolang nadien aanspraak op vrijstelling wordt gemaakt, elk jaar opnieuw voor 1 juli.
 
-3. Het tweede lid onder **b** is niet van toepassing, indien uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=7&z=2002-09-01&g=2002-09-01) bedoelde verklaring blijkt, dat de jongere nooit geschikt zal zijn een school onderscheidenlijk een instelling te bezoeken.
+3. Het tweede lid onder **b** is niet van toepassing, indien uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=7&z=2003-08-01&g=2003-08-01) bedoelde verklaring blijkt, dat de jongere nooit geschikt zal zijn een school onderscheidenlijk een instelling te bezoeken.
 
 ##### Artikel 7. Lichamelijke of psychische ongeschiktheid
 
-Een beroep op vrijstelling op grond van [artikel 5 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01) kan slechts worden gedaan, indien bij de kennisgeving een verklaring van een door burgemeester en wethouders van de gemeente, waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, aangewezen arts - niet zijnde de behandelende arts - of van een door hen aangewezen academisch gevormde of daarmede bij ministeriële regeling gelijkgestelde pedagoog of psycholoog is overgelegd, waaruit blijkt, dat deze de jongere niet geschikt achten om tot een school onderscheidenlijk een instelling te worden toegelaten. Deze verklaring mag niet ouder zijn dan drie maanden.
+Een beroep op vrijstelling op grond van [artikel 5 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01) kan slechts worden gedaan, indien bij de kennisgeving een verklaring van een door burgemeester en wethouders van de gemeente, waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, aangewezen arts - niet zijnde de behandelende arts - of van een door hen aangewezen academisch gevormde of daarmede bij ministeriële regeling gelijkgestelde pedagoog of psycholoog is overgelegd, waaruit blijkt, dat deze de jongere niet geschikt achten om tot een school onderscheidenlijk een instelling te worden toegelaten. Deze verklaring mag niet ouder zijn dan drie maanden.
 
 ##### Artikel 8. Bedenkingen tegen richting van school
 
-1. Een beroep op vrijstelling op grond van [artikel 5 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01) kan slechts worden gedaan, indien de kennisgeving de verklaring bevat, dat tegen de richting van het onderwijs op alle binnen redelijke afstand van de woning - of, bij het ontbreken van een vaste verblijfplaats, op alle binnen Nederland - gelegen scholen onderscheidenlijk instellingen waarop de jongere geplaatst zou kunnen worden, overwegende bedenkingen bestaan.
+1. Een beroep op vrijstelling op grond van [artikel 5 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01) kan slechts worden gedaan, indien de kennisgeving de verklaring bevat, dat tegen de richting van het onderwijs op alle binnen redelijke afstand van de woning - of, bij het ontbreken van een vaste verblijfplaats, op alle binnen Nederland - gelegen scholen onderscheidenlijk instellingen waarop de jongere geplaatst zou kunnen worden, overwegende bedenkingen bestaan.
 
 2. Deze verklaring is niet geldig, indien de jongere in het jaar, voorafgaande aan de dagtekening van de kennisgeving, geplaatst is geweest op een school onderscheidenlijk een instelling van de richting waartegen bedenkingen worden geuit.
 
 ##### Artikel 9. Bezoeken van school in buitenland
 
-Een beroep op vrijstelling op grond van [artikel 5 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01) kan slechts worden gedaan, indien bij de kennisgeving een verklaring is overgelegd van het hoofd van de inrichting van onderwijs waaruit blijkt, dat de jongere als leerling van deze inrichting is ingeschreven en haar geregeld bezoekt.
+Een beroep op vrijstelling op grond van [artikel 5 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01) kan slechts worden gedaan, indien bij de kennisgeving een verklaring is overgelegd van het hoofd van de inrichting van onderwijs waaruit blijkt, dat de jongere als leerling van deze inrichting is ingeschreven en haar geregeld bezoekt.
 
 ##### Artikel 10. Afschrijving
 
-Op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen wordt een jongere binnen de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2002-09-01&g=2002-09-01), en [artikel 4**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4b&z=2002-09-01&g=2002-09-01), omschreven tijdvakken door het hoofd slechts van de lijst der leerlingen afgevoerd
+Op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen wordt een jongere binnen de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=3&z=2003-08-01&g=2003-08-01), en [artikel 4**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4b&z=2003-08-01&g=2003-08-01), omschreven tijdvakken door het hoofd slechts van de lijst der leerlingen afgevoerd
 
 - a. wegens inschrijving van de jongere op een andere school;
 
-- b. voorzover het betreft het in [artikel 4**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4b&z=2002-09-01&g=2002-09-01), omschreven tijdvak: wegens het volgen van volledig dagonderwijs;
+- b. voorzover het betreft het in [artikel 4**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4b&z=2003-08-01&g=2003-08-01), omschreven tijdvak: wegens het volgen van volledig dagonderwijs;
 
-- c. wegens vrijstelling op een der gronden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01), nadat aan het hoofd gebleken is, dat aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2002-09-01&g=2002-09-01) is voldaan;
+- c. wegens vrijstelling op een der gronden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01), nadat aan het hoofd gebleken is, dat aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2003-08-01&g=2003-08-01) is voldaan;
 
-- d. wegens de vrijstelling, bedoeld in [artikel 5**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5a&z=2002-09-01&g=2002-09-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=15&z=2002-09-01&g=2002-09-01).
+- d. wegens de vrijstelling, bedoeld in [artikel 5**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5a&z=2003-08-01&g=2003-08-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=15&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel 11. Gronden voor vrijstelling van geregeld schoolbezoek
 
-De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen zijn vrijgesteld van de verplichting te zorgen dat de jongere de school waarop hij is ingeschreven, geregeld bezoekt, en de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt alsmede de partieel leerplichtige jongere zijn vrijgesteld van de verplichting de school of de instelling geregeld te bezoeken, indien
+De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen zijn vrijgesteld van de verplichting te zorgen dat de jongere de school waarop hij is ingeschreven, geregeld bezoekt, en de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt alsmede de partieel leerplichtige jongere zijn vrijgesteld van de verplichting de school of de instelling geregeld te bezoeken, indien
 
 - a. de school onderscheidenlijk de instelling is gesloten of het onderwijs is geschorst;
 
@@ -258,15 +258,15 @@ De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&pa
 
 - e. de jongere wegens vervulling van plichten voortvloeiend uit godsdienst of levensovertuiging verhinderd is de school onderscheidenlijk de instelling te bezoeken;
 
-- f. de jongere vanwege de specifieke aard van het beroep van één van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen slechts buiten de schoolvakanties met hen op vakantie kan gaan;
+- f. de jongere vanwege de specifieke aard van het beroep van één van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen slechts buiten de schoolvakanties met hen op vakantie kan gaan;
 
 - g. de jongere door andere gewichtige omstandigheden verhinderd is de school onderscheidenlijk de instelling te bezoeken.
 
 ##### Artikel 11a. Leeftijd leerling
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen zijn met betrekking tot de jongere die nog niet de leeftijd van zes jaar heeft bereikt, voor ten hoogste 5 uren per week vrijgesteld van de verplichting om te zorgen dat deze de school waarop hij is ingeschreven, geregeld bezoekt. Van een beroep op deze vrijstelling wordt mededeling gedaan aan het hoofd.
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen zijn met betrekking tot de jongere die nog niet de leeftijd van zes jaar heeft bereikt, voor ten hoogste 5 uren per week vrijgesteld van de verplichting om te zorgen dat deze de school waarop hij is ingeschreven, geregeld bezoekt. Van een beroep op deze vrijstelling wordt mededeling gedaan aan het hoofd.
 
-2. Naast de vrijstelling bedoeld in het eerste lid, kan het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen ten behoeve van de jongere bedoeld in het eerste lid, tot ten hoogste 5 uren per week vrijstelling verlenen van de verplichting om te zorgen dat deze de school waarop hij is ingeschreven, geregeld bezoekt.
+2. Naast de vrijstelling bedoeld in het eerste lid, kan het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen ten behoeve van de jongere bedoeld in het eerste lid, tot ten hoogste 5 uren per week vrijstelling verlenen van de verplichting om te zorgen dat deze de school waarop hij is ingeschreven, geregeld bezoekt.
 
 ##### Artikel 12. Ziekte van leerling
 
@@ -278,17 +278,17 @@ Een beroep op vrijstelling wegens vervulling van plichten voortvloeiend uit gods
 
 ##### Artikel 13a. Vakantie
 
-1. Een beroep op vrijstelling wegens vakantie van de jongere, bedoeld in [artikel 11, onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2002-09-01&g=2002-09-01), kan slechts worden gedaan indien het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen verlof heeft verleend dat de jongere voor de duur van het verlof de school onderscheidenlijk de instelling niet bezoekt.
+1. Een beroep op vrijstelling wegens vakantie van de jongere, bedoeld in [artikel 11, onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2003-08-01&g=2003-08-01), kan slechts worden gedaan indien het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen verlof heeft verleend dat de jongere voor de duur van het verlof de school onderscheidenlijk de instelling niet bezoekt.
 
 2. Verlof als bedoeld in het eerste lid kan door het hoofd slechts eenmaal voor ten hoogste tien dagen per schooljaar worden verleend en kan geen betrekking hebben op de eerste twee lesweken van het schooljaar. Het verlof bedoeld in de eerste volzin kan aan partieel leerplichtigen slechts tot een evenredig deel van het genoemde aantal dagen worden verleend.
 
 ##### Artikel 13b. Kennisgeving bij beroep op vrijstelling
 
-Een beroep op vrijstelling wegens ziekte van de jongere, wegens vervulling van plichten voortvloeiend uit godsdienst of levensovertuiging wordt gedaan door middel van kennisgeving aan het hoofd door de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen, tenzij de leerplichtige jongere of de partieel leerplichtige jongere niet meer woonachtig is bij deze personen, in welk geval de kennisgeving wordt gedaan door de jongere zelf.
+Een beroep op vrijstelling wegens ziekte van de jongere, wegens vervulling van plichten voortvloeiend uit godsdienst of levensovertuiging wordt gedaan door middel van kennisgeving aan het hoofd door de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen, tenzij de leerplichtige jongere of de partieel leerplichtige jongere niet meer woonachtig is bij deze personen, in welk geval de kennisgeving wordt gedaan door de jongere zelf.
 
 ##### Artikel 14. Andere gewichtige omstandigheden
 
-1. Een beroep op vrijstelling wegens andere gewichtige omstandigheden bedoeld in [artikel 11 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2002-09-01&g=2002-09-01) kan slechts worden gedaan, indien het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen, indien het de leerplicht betreft, en op verzoek van de jongere, indien het de partiële leerplicht betreft, verlof heeft verleend, dat de jongere de school onderscheidenlijk de instelling tijdelijk niet bezoekt.
+1. Een beroep op vrijstelling wegens andere gewichtige omstandigheden bedoeld in [artikel 11 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2003-08-01&g=2003-08-01) kan slechts worden gedaan, indien het hoofd op verzoek van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen, indien het de leerplicht betreft, en op verzoek van de jongere, indien het de partiële leerplicht betreft, verlof heeft verleend, dat de jongere de school onderscheidenlijk de instelling tijdelijk niet bezoekt.
 
 2. Indien geen verlof is gevraagd, kan het hoofd alsnog verlof verlenen, indien hem binnen twee dagen na het ontstaan van de verhindering de redenen daarvan worden medegedeeld.
 
@@ -296,7 +296,7 @@ Een beroep op vrijstelling wegens ziekte van de jongere, wegens vervulling van p
 
 ##### Artikel 15. Vrijstelling wegens het volgen van ander onderwijs
 
-In andere gevallen dan genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01) kunnen burgemeester en wethouders op grond van bijzondere omstandigheden vrijstelling verlenen van de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2002-09-01&g=2002-09-01) opgelegde verplichtingen, indien wordt aangetoond, dat de jongere op andere wijze voldoende onderwijs geniet.
+In andere gevallen dan genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01) kunnen burgemeester en wethouders op grond van bijzondere omstandigheden vrijstelling verlenen van de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2003-08-01&g=2003-08-01) opgelegde verplichtingen, indien wordt aangetoond, dat de jongere op andere wijze voldoende onderwijs geniet.
 
 #### § 4. Toezicht op de naleving van de wet
 
@@ -310,7 +310,7 @@ In andere gevallen dan genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:
 
 4. Burgemeester en wethouders stellen een instructie vast voor deze ambtenaren, die ten minste bevat:
 
-- a. de wijze waarop de ambtenaren aan de in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=14&z=2002-09-01&g=2002-09-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=22&z=2002-09-01&g=2002-09-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=23&z=2002-09-01&g=2002-09-01) bedoelde taken uitvoering geven;
+- a. de wijze waarop de ambtenaren aan de in de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=14&z=2003-08-01&g=2003-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=22&z=2003-08-01&g=2003-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=23&z=2003-08-01&g=2003-08-01) bedoelde taken uitvoering geven;
 
 - b. de wijze waarop de gevallen van schoolverzuim die ter kennis van de gemeente worden gebracht, worden behandeld;
 
@@ -326,7 +326,7 @@ Gemeenschappelijke regelingen betreffende het toezicht op de naleving van deze w
 
 1. De hoofden geven aan burgemeester en wethouders binnen zeven dagen kennis van de in- en afschrijving van leerlingen ten aanzien van wie deze wet van toepassing is. Een beslissing tot verwijdering van een leerling wordt terstond gemeld.
 
-2. Het hoofd van een instelling geeft aan burgemeester en wethouders zodra hij daarvan in kennis is gesteld, bericht van een door de jongere gesloten leerovereenkomst als bedoeld in [artikel 4**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4c&z=2002-09-01&g=2002-09-01).
+2. Het hoofd van een instelling geeft aan burgemeester en wethouders zodra hij daarvan in kennis is gesteld, bericht van een door de jongere gesloten leerovereenkomst als bedoeld in [artikel 4**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4c&z=2003-08-01&g=2003-08-01).
 
 3. De hoofden geven aan burgemeester en wethouders en aan de ambtenaar alle inlichtingen die deze in verband met de uitvoering van deze wet verlangen.
 
@@ -350,13 +350,13 @@ Vervallen
 
 ##### Artikel 22. Onderzoek door leerplichtambtenaar
 
-1. Indien blijkt, dat een leerplichtige of partieel leerplichtige jongere niet als leerling is ingeschreven, zonder dat een grond voor vrijstelling aanwezig is, of indien een kennisgeving is ontvangen, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2002-09-01&g=2002-09-01), stelt de ambtenaar vanwege burgemeester en wethouders een onderzoek in. Hij hoort de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen en tracht hen ertoe te bewegen hun verplichtingen na te komen.
+1. Indien blijkt, dat een leerplichtige of partieel leerplichtige jongere niet als leerling is ingeschreven, zonder dat een grond voor vrijstelling aanwezig is, of indien een kennisgeving is ontvangen, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2003-08-01&g=2003-08-01), stelt de ambtenaar vanwege burgemeester en wethouders een onderzoek in. Hij hoort de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen en tracht hen ertoe te bewegen hun verplichtingen na te komen.
 
-2. Blijkt aan de ambtenaar dat de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen weigeren de jongere als leerling van een school onderscheidenlijk een instelling te laten inschrijven, zonder dat zij op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2002-09-01&g=2002-09-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5a&z=2002-09-01&g=2002-09-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=15&z=2002-09-01&g=2002-09-01) van deze verplichting zijn vrijgesteld, of dat zij niet zorgen, dat de leerplichtige jongere de school geregeld bezoekt, zonder dat zij op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2002-09-01&g=2002-09-01) van deze verplichting zijn vrijgesteld, dan zendt hij proces-verbaal van zijn bevindingen aan de officier van justitie.
+2. Blijkt aan de ambtenaar dat de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen weigeren de jongere als leerling van een school onderscheidenlijk een instelling te laten inschrijven, zonder dat zij op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5&z=2003-08-01&g=2003-08-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=5a&z=2003-08-01&g=2003-08-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=15&z=2003-08-01&g=2003-08-01) van deze verplichting zijn vrijgesteld, of dat zij niet zorgen, dat de leerplichtige jongere de school geregeld bezoekt, zonder dat zij op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2003-08-01&g=2003-08-01) van deze verplichting zijn vrijgesteld, dan zendt hij proces-verbaal van zijn bevindingen aan de officier van justitie.
 
-3. Blijkt aan de ambtenaar, dat de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt of de partieel leerplichtige jongere het onderwijs aan de school of aan de instelling niet geregeld volgt zonder dat de jongere op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2002-09-01&g=2002-09-01) van deze verplichting is vrijgesteld, dan hoort hij de jongere en tracht hem ertoe te bewegen zijn verplichtingen na te komen. Indien blijkt dat de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt, of de partieel leerplichtige jongere, weigert deze verplichtingen na te komen, zendt de ambtenaar proces-verbaal van zijn bevindingen aan de officier van justitie.
+3. Blijkt aan de ambtenaar, dat de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt of de partieel leerplichtige jongere het onderwijs aan de school of aan de instelling niet geregeld volgt zonder dat de jongere op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=11&z=2003-08-01&g=2003-08-01) van deze verplichting is vrijgesteld, dan hoort hij de jongere en tracht hem ertoe te bewegen zijn verplichtingen na te komen. Indien blijkt dat de leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt, of de partieel leerplichtige jongere, weigert deze verplichtingen na te komen, zendt de ambtenaar proces-verbaal van zijn bevindingen aan de officier van justitie.
 
-4. Indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen reeds eerder zijn veroordeeld wegens het niet nakomen van de verplichtingen, opgelegd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), of [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2002-09-01&g=2002-09-01), zendt de ambtenaar een afschrift van het proces-verbaal aan de raad voor de kinderbescherming.
+4. Indien de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen reeds eerder zijn veroordeeld wegens het niet nakomen van de verplichtingen, opgelegd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), of [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2003-08-01&g=2003-08-01), zendt de ambtenaar een afschrift van het proces-verbaal aan de raad voor de kinderbescherming.
 
 ##### Artikel 23. Overtreding arbeidsverbod
 
@@ -378,7 +378,7 @@ Ambtenaren, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een j
 
 ##### Artikel 26. Strafbedreiging verantwoordelijke personen
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), bedoelde personen die de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2002-09-01&g=2002-09-01), of [artikel 4**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2002-09-01&g=2002-09-01) opgelegde verplichtingen niet nakomen, worden gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), bedoelde personen die de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2&artikel=2&z=2003-08-01&g=2003-08-01), of [artikel 4**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=2a&artikel=4a&z=2003-08-01&g=2003-08-01) opgelegde verplichtingen niet nakomen, worden gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 2. De leerplichtige jongere die de leeftijd van 12 jaren heeft bereikt of de partieel leerplichtige jongere, die de verplichting tot geregeld volgen van het onderwijs niet nakomt, wordt gestraft met een hoofdstraf als genoemd in [artikel 77h, eerste lid, onderdeel b, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h), met dien verstande dat de geldboete een geldboete van de tweede categorie is.
 
@@ -386,9 +386,9 @@ Ambtenaren, aangesteld voor de uitvoering van de politietaak, zijn bevoegd een j
 
 Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft het hoofd dat:
 
-- a. in strijd handelt met [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=13a&z=2002-09-01&g=2002-09-01), of [artikel 14, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=14&z=2002-09-01&g=2002-09-01),
+- a. in strijd handelt met [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=13a&z=2003-08-01&g=2003-08-01), of [artikel 14, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=14&z=2003-08-01&g=2003-08-01),
 
-- b. niet voldoet aan een der verplichtingen, opgelegd in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2002-09-01&g=2002-09-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2002-09-01&g=2002-09-01), of
+- b. niet voldoet aan een der verplichtingen, opgelegd in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2003-08-01&g=2003-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2003-08-01&g=2003-08-01), of
 
 - c. bij de uitvoering van deze wet onjuiste of onvolledige inlichtingen verstrekt.
 
@@ -400,9 +400,9 @@ De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 ##### Artikel 29. Nadere voorschriften
 
-1. Bij ministeriële regeling worden nadere voorschriften gegeven voor de uitvoering van deze wet en worden de modellen vastgesteld van de kennisgevingen en mededelingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2002-09-01&g=2002-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2002-09-01&g=2002-09-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2002-09-01&g=2002-09-01) en [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2002-09-01&g=2002-09-01). Bij deze regeling kan tevens worden bepaald dat de in [artikel 25, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2002-09-01&g=2002-09-01), bedoelde opgave niet wordt gedaan aan Onze minister maar aan het Centraal Bureau voor de Statistiek.
+1. Bij ministeriële regeling worden nadere voorschriften gegeven voor de uitvoering van deze wet en worden de modellen vastgesteld van de kennisgevingen en mededelingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2003-08-01&g=2003-08-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2003-08-01&g=2003-08-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2003-08-01&g=2003-08-01) en [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2003-08-01&g=2003-08-01). Bij deze regeling kan tevens worden bepaald dat de in [artikel 25, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2003-08-01&g=2003-08-01), bedoelde opgave niet wordt gedaan aan Onze minister maar aan het Centraal Bureau voor de Statistiek.
 
-2. De formulieren van de kennisgevingen en mededelingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2002-09-01&g=2002-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2002-09-01&g=2002-09-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2002-09-01&g=2002-09-01) zijn voor de belanghebbenden kosteloos ter gemeentesecretarie verkrijgbaar. De formulieren voor de opgaven van gegevens ten behoeve van statistisch onderzoek als bedoeld in [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2002-09-01&g=2002-09-01), worden door het Rijk verstrekt.
+2. De formulieren van de kennisgevingen en mededelingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=3&artikel=6&z=2003-08-01&g=2003-08-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=18&z=2003-08-01&g=2003-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=21&z=2003-08-01&g=2003-08-01) zijn voor de belanghebbenden kosteloos ter gemeentesecretarie verkrijgbaar. De formulieren voor de opgaven van gegevens ten behoeve van statistisch onderzoek als bedoeld in [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&paragraaf=4&artikel=25&z=2003-08-01&g=2003-08-01), worden door het Rijk verstrekt.
 
 ##### Artikel 30. Citeertitel
 
