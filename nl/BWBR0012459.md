@@ -4,7 +4,7 @@ identifier: "BWBR0012459"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-07-16"
-last_updated: "2002-12-31"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012459"
 soort: "AMvB"
@@ -60,15 +60,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.
+1. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.
 
-2. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.
+2. Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2003-07-16&g=2003-07-16) van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.
 
 ##### Artikel 3
 
-1. De subsidie bedraagt in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2002-12-31&g=2002-12-31), bedoelde geval het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) van dit besluit genoemde bedrag.
+1. De subsidie bedraagt in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2003-07-16&g=2003-07-16), bedoelde geval het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) van dit besluit genoemde bedrag.
 
-2. De subsidie bedraagt in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2002-12-31&g=2002-12-31), bedoeld geval het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit genoemde bedrag.
+2. De subsidie bedraagt in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=2&z=2003-07-16&g=2003-07-16), bedoeld geval het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2003-07-16&g=2003-07-16) van dit besluit genoemde bedrag.
 
 #### § 2. De subsidieverlening
 
@@ -100,19 +100,19 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt wordt door Onze Minister ten hoogste eenmaal per kalenderjaar een voorschot verstrekt.
 
-2. Het voorschot is het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2002-12-31&g=2002-12-31) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2002-12-31&g=2002-12-31) van dit besluit als voorschot is vermeld.
+2. Het voorschot is het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1&z=2003-07-16&g=2003-07-16) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2&z=2003-07-16&g=2003-07-16) van dit besluit als voorschot is vermeld.
 
 #### § 5. De subsidievaststelling
 
 ##### Artikel 7
 
-Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken. Indien de beschikking niet binnen dertien weken kan worden gegeven, stelt Onze Minister de subsidie-ontvanger daarvan in kennis en noemt hij daarbij een redelijke termijn waarop de beschikking tegemoet kan worden gezien.
+Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
 #### § 6. Overgangs- en slotbepalingen
 
 ##### Artikel 8
 
-Tot 1 januari 2002 gelden voor de toepassing van de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=3&z=2002-12-31&g=2002-12-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=4&artikel=6&z=2002-12-31&g=2002-12-31) de bedragen genoemd in de[bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1a&z=2002-12-31&g=2002-12-31) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2a&z=2002-12-31&g=2002-12-31) van dit besluit.
+Tot 1 januari 2002 gelden voor de toepassing van de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=1&artikel=3&z=2003-07-16&g=2003-07-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&paragraaf=4&artikel=6&z=2003-07-16&g=2003-07-16) de bedragen genoemd in de[bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=1a&z=2003-07-16&g=2003-07-16) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012459&bijlage=2a&z=2003-07-16&g=2003-07-16) van dit besluit.
 
 ##### Artikel 9
 
