@@ -1,0 +1,160 @@
+---
+title: "Beschikking Staatsloterij"
+identifier: "BWBR0005544"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2001-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005544"
+soort: "ministeriele-regeling"
+stam_id: "4338573"
+version_id: "15155832"
+internal_id: "C20659791"
+label_id: "4317264"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005544/2022-01-01/0"
+intitule_bron: "Stcrt.1992-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-15"
+intitule_published: "1992-06-26"
+intitule_in_force: "1992-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-28"
+original_signed_date: "2008-01-25"
+original_published_date: "2008-02-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-28-p7-SC84411"
+entry_into_force_date: "2008-02-01"
+jci_1_3: "jci1.3:c:BWBR0005544&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0005544&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2008-01-25"
+entry_into_force: "2008-02-01"
+---
+# Beschikking Staatsloterij
+
+Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) en [artikel 10 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=10):
+
+Besluit:
+
+##### Artikel 1
+
+In deze beschikking wordt verstaan onder:
+
+##### Artikel 2
+
+Aan de Stichting Exploitatie Nederlandse Staatsloterij wordt voor onbepaalde duur vergunning verleend tot het organiseren van de staatsloterij.
+
+##### Artikel 3
+
+1. De staatsloterij wordt georganiseerd met inachtneming van de statuten en reglementen van de stichting.
+
+2. De stichting stelt reglementen op, die in ieder geval bepalingen behelzen inzake de deelnamevoorwaarden, de prijzenschema's, de prijzenreserves en de voorschriften en vergoedingen voor de verkooppunten.
+
+3. De reglementen van de stichting, alsmede wijziging daarvan en van de statuten van de stichting, behoeven de voorafgaande goedkeuring van de minister, gehoord het college.
+
+##### Artikel 4
+
+De stichting houdt ten minste tien maal de staatsloterij per jaar, waarbij de perioden tussen de loterijen zodanig gekozen worden dat de loterijen redelijk verspreid over het jaar plaatsvinden.
+
+##### Artikel 5
+
+Er kunnen deelloten worden uitgegeven die recht geven op deelname aan een staatsloterij, elk aanspraak gevend op een evenredig deel van de daarop gevallen prijs.
+
+##### Artikel 6
+
+De prijs van een geheel lot bedraagt ten hoogste € 27,20. De prijs van deelloten wordt naar evenredigheid berekend.
+
+##### Artikel 7
+
+De staatsloterij is ingericht overeenkomstig het bepaalde in [artikel 8, tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8). Een staatsloterij mag worden uitgetrokken in meerdere trekkingen echter slechts onder die voorwaarde dat het aangekochte staatslot voor de deelnemers aan de staatsloterij recht geeft op deelname in alle trekkingen.
+
+##### Artikel 8
+
+De trekking van de winnende getallen geschiedt per staatsloterij na afloop van de verkoopperiode van de desbetreffende loterij. De trekking van de getallen geschiedt bij elke staatsloterij in het openbaar onder toezicht en verantwoordelijkheid van een notaris. De notaris constateert telkens bij procesverbaal het verloop van de trekking.
+
+##### Artikel 9
+
+De stichting draagt zorg voor de bewaking van de kwaliteit van haar organisatie en produkt met name met het oog op voorkoming van fraude, diefstal en vervreemding. De stichting is gehouden in verband hiermee in haar overeenkomst met de lotenverkopers daartoe strekkende bepalingen op te nemen. De stichting is verplicht om op eerste verzoek van de minister mee te werken aan een in opdracht van de minister door een daartoe geëigende organisatie te houden onderzoek. De stichting is verplicht mee te werken aan een onderzoek door de Algemene Rekenkamer of door het college.
+
+##### Artikel 10
+
+1. De stichting zorgt voor een doelmatige en doeltreffende administratie en exploitatie van de staatsloterij echter met dien verstande dat geen afbreuk wordt gedaan aan het goede imago van het produkt ‘staatsloterij’.
+
+2. De stichting doet binnen een maand na het einde van elk kwartaal aan de minister en aan de Minister van Justitie, alsmede aan het college schriftelijk verslag van de exploitatie van de staatsloterij betreffende dat kwartaal.
+
+##### Artikel 11
+
+De stichting is verantwoordelijk voor de naleving van de in deze beschikking gegeven voorschriften. Zij is eveneens verantwoordelijk voor de naleving van deze voorschriften door de organisaties en personen die op enigerlei wijze bij de administratie en exploitatie van de staatsloterij zijn betrokken. Zij neemt daartoe de nodige maatregelen.
+
+##### Artikel 12
+
+1. De stichting draagt zorg voor een goed regionaal verspreid verkoopnet dat voor zover het gaat om het verkoopgebied in Nederland toegankelijk moet zijn voor groepen uit alle lagen van de bevolking.
+
+2. De stichting draagt er zorg voor dat aan wervings- en reclame-activiteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de door de stichting georganiseerde kansspelen.
+
+3. De stichting neemt bij haar wervings- en reclame-activiteiten de haar door de minister gegeven aanwijzingen, gehoord het college, in acht.
+
+##### Artikel 13
+
+De verkoopperioden en de tijdstippen van de trekkingen worden gepubliceerd.
+
+##### Artikel 14
+
+De uitslag van de trekking wordt direct na de laatste trekking van die loterij bekendgemaakt en wel tenminste in één landelijk dagblad en zo mogelijk door middel van een telecommunicatiesysteem.
+
+##### Artikel 15
+
+De prijzen zijn op afgifte van het lot of deellot betaalbaar gedurende een jaar na de trekking waarbij het lot of deellot als winnend lot of deellot is aangewezen:
+
+- a. ten kantore van de niet van on-line verkoopapparatuur voorziene lotenverkopers voor zover het gaat om prijzen tot en met € 113,- per lot;
+
+- b. ten kantore van de on-line verkoopapparatuur voorziene lotenverkopers voor zover het gaat om prijzen tot en met € 454,- per lot;
+
+- c. ten kantore van de stichting voor prijzen boven € 454,- per lot.
+
+##### Artikel 16
+
+De stichting is gehouden zodanig maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars in de staatsloterij te allen tijde is gewaarborgd.
+
+##### Artikel 17
+
+Aan ten minste 33% van de uitgegeven loten wordt, overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=4&z=2001-12-01&g=2001-12-01), 5, 6 en 7, een prijs toegekend.
+
+##### Artikel 18
+
+1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek.
+
+2. De stichting verleent aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek.
+
+3. De stichting voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek kan worden afgegeven.
+
+4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de minister en aan de Minister van Justitie, alsmede aan het college.
+
+##### Artikel 19
+
+1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
+
+2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
+
+##### Artikel 20
+
+Jaarlijks stelt de Minister van Financiën het afdrachtpercentage voor de Staatsloterij vast, welk percentage ten minste 15% van de nominale waarde van de verkochte loten bedraagt.
+
+##### Artikel 21
+
+1. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting. Alvorens de Minister van Financiën tot benoeming overgaat, voert hij daarover overleg met de minister.
+
+2. De raad van commissarissen van de stichting benoemt het bestuur. Deze benoeming behoeft de voorafgaande goedkeuring van de Minister van Financiën. Alvorens de Minister van Financiën zijn goedkeuring verleent, voert hij overleg over de voorgenomen benoeming met de minister.
+
+##### Artikel 22
+
+De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen twee weken na vaststelling, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
+
+##### Artikel 23
+
+1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
+
+2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
