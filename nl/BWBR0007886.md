@@ -4,7 +4,7 @@ identifier: "BWBR0007886"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2002-07-01"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007886"
 soort: "wet"
@@ -65,11 +65,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 3
 
-1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen of garanties in herverzekering nemen die een verzekeringsbedrijf met ondernemers heeft afgesloten onderscheidenlijk aan deze ondernemers heeft afgegeven ter dekking van aan het handels- en dienstenverkeer met landen buiten Nederland verbonden risico's.
+1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen of garanties in herverzekering nemen die een verzekeraar met ondernemers heeft afgesloten onderscheidenlijk aan deze ondernemers heeft afgegeven ter dekking van aan het handels- en dienstenverkeer met landen buiten Nederland verbonden risico's.
 
-2. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen in herverzekering nemen die een verzekeringsbedrijf heeft afgesloten ter dekking van niet-commerciële risico's verbonden aan investeringen in door Onze Minister, in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Buitenlandse Zaken, aangewezen landen.
+2. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister verzekeringen in herverzekering nemen die een verzekeraar heeft afgesloten ter dekking van niet-commerciële risico's verbonden aan investeringen in door Onze Minister, in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Buitenlandse Zaken, aangewezen landen.
 
-3. Een verzekeringsbedrijf, bedoeld in het eerste en tweede lid, dient te beschikken over een vergunning als bedoeld in [artikel 11 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=11) en overigens te voldoen aan nader door Onze minister in overeenstemming met Onze Minister van Economische Zaken te stellen regels.
+3. Een verzekeraar als bedoeld in het eerste en tweede lid, beschikt over een vergunning als bedoeld in [artikel 24 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=24) en voldoet overigens aan nader door Onze Minister in overeenstemming met Onze Minister van Economische Zaken te stellen regels. Een verzekeraar als bedoeld in [artikel 20, aanhef en onder c, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=20) wordt gelijkgesteld aan een verzekeraar die beschikt over een vergunning als bedoeld in [artikel 24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=24).
 
 ##### Artikel 4
 
@@ -89,7 +89,7 @@ Onze Minister kan aan een naamloze of besloten vennootschap waarvan de Staat in 
 
 ##### Artikel 6
 
-Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2002-07-01&g=2002-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2002-07-01&g=2002-07-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
+Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2003-12-01&g=2003-12-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2003-12-01&g=2003-12-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
 
 ##### Artikel 7
 
