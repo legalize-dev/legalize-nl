@@ -4,7 +4,7 @@ identifier: "BWBR0009994"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2002-01-01"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009994"
 soort: "AMvB"
@@ -50,45 +50,55 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. gratis nummer: nummer ten behoeve van een openbare telecommunicatiedienst, welke dienst bestaat uit het verzorgen van de overdracht van signalen tussen een aanbieder van informatie en een gebruiker van die informatie waartoe die gebruiker zonder betaling toegang heeft;
+- a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. bijzonder gratis nummer: gratis nummer dat bestemd is voor het afwikkelen van veel oproepen in een korte tijd;
+- b. geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan dat krachtens zijn bestemming gebruikt mag worden voor de ontvangst van gesprekken en waarvan een deel van de cijferstructuur een geografische betekenis heeft;
 
-- c. koopnummer of tariefnummer: nummer ten behoeve van een openbare telecommunicatiedienst, welke dienst bestaat uit het verzorgen van de overdracht van signalen tussen een aanbieder van informatie en een gebruiker van die informatie waartoe die gebruiker tegen betaling toegang heeft;
+- c. niet-geografisch nummer: nummer uit een door Onze Minister krachtens [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan dat krachtens zijn bestemming gebruikt mag worden voor de ontvangst van gesprekken, anders dan een nummer waarvan een deel van de cijferstructuur een geografische betekenis heeft;
 
-- d. geografisch nummer: nummer dat bestemd is voor geografisch bepaalde bestemmingen.
+- d. geografisch gebonden dienst: een vaste openbare elektronische communicatiedienst waarbij gebruik wordt gemaakt van een geografisch nummer;
+
+- e. niet-geografisch gebonden dienst: een openbare elektronische communicatiedienst waarbij gebruik wordt gemaakt van een niet-geografisch nummer.
 
 ##### Artikel 2
 
-Een aanbieder van een openbare telecommunicatiedienst waarbij gebruik wordt gemaakt van gratis nummers, niet zijnde de bijzondere gratis nummers, is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde gratis nummer te blijven gebruiken, indien hij er voor kiest deze dienst van een andere aanbieder van een openbare telecommunicatiedienst af te nemen.
+Een aanbieder van een geografisch gebonden dienst is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde geografische nummer te blijven gebruiken, indien diegene ervoor kiest om binnen hetzelfde netnummergebied:
+
+- a. de geografisch gebonden dienst af te nemen van een andere aanbieder, of
+
+- b. van hem de geografisch gebonden dienst af te nemen vanaf een andere locatie of tegen andere contractuele voorwaarden.
 
 ##### Artikel 3
 
-Een aanbieder van een openbare telecommunicatiedienst waarbij gebruik wordt gemaakt van bijzondere gratis nummers is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde bijzondere gratis nummer te blijven gebruiken, indien hij er voor kiest deze dienst van een andere aanbieder van een openbare telecommunicatiedienst af te nemen.
+Een aanbieder van een niet-geografisch gebonden dienst is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde niet-geografische nummer te blijven gebruiken, indien diegene ervoor kiest om:
+
+- a. de niet-geografisch gebonden dienst af te nemen van een andere aanbieder, of
+
+- b. van hem de niet-geografisch gebonden dienst af te nemen tegen andere contractuele voorwaarden.
 
 ##### Artikel 4
 
-Een aanbieder van een openbare telecommunicatiedienst waarbij gebruik wordt gemaakt van koopnummers of tariefnummers is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde koopnummer of tariefnummer te blijven gebruiken, indien hij er voor kiest deze dienst van een andere aanbieder van een openbare telecommunicatiedienst af te nemen.
+Vervallen
 
 ##### Artikel 5
 
-Een aanbieder van een vaste openbare telefoondienst waarbij gebruik wordt gemaakt van geografische nummers is verplicht degene die zijn dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde geografische nummer te blijven gebruiken, indien hij er voor kiest deze dienst vanaf dezelfde locatie van een andere aanbieder van een vaste openbare telefoondienst af te nemen.
+Vervallen
 
 ##### Artikel 6
 
-Een aanbieder van een mobiele openbare telefoondienst waarbij gebruik wordt gemaakt van nummers bestemd voor digitale mobiele netwerken is verplicht degene die deze dienst afneemt, de mogelijkheid te bieden het bij hem in gebruik zijnde nummer te blijven gebruiken, indien hij ervoor kiest deze dienst van een andere aanbieder van een mobiele openbare telefoondienst af te nemen.
+Vervallen
 
 ##### Artikel 7
 
-1. Een aanbieder van een dienst als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2002-01-01&g=2002-01-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2002-01-01&g=2002-01-01) mag ter zake van de naleving van de in die artikelen bedoelde verplichtingen van degene die die dienst voortaan van een andere aanbieder wenst af te nemen geen vergoeding verlangen.
+1. Een aanbieder van een geografisch gebonden dienst als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2004-05-19&g=2004-05-19), of van een niet-geografisch gebonden dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19), mag ter zake van de naleving van de in die artikelen bedoelde verplichtingen van degene die zijn nummer wil blijven gebruiken geen vergoeding verlangen.
 
-2. Van degene die, met een beroep op het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2002-01-01&g=2002-01-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2002-01-01&g=2002-01-01) bepaalde, met behoud van het gebruik van het reeds bij hem in gebruik zijnde nummer de in die artikelen bedoelde diensten voortaan van een andere aanbieder afneemt, mag door die aanbieder een eenmalige vergoeding worden verlangd. Deze vergoeding mag echter slechts strekken tot vergoeding van de eenmalige administratieve kosten van de realisatie van het nummerbehoud en niet meer bedragen dan € 9.
+2. Van degene die, met een beroep op [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2004-05-19&g=2004-05-19), of op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19), met behoud van het gebruik van het reeds bij hem in gebruik zijnde nummer de in die artikelen bedoelde diensten voortaan van een andere aanbieder afneemt, mag door die aanbieder ter dekking van de administratieve kosten van de realisatie van het nummerbehoud een eenmalige vergoeding van ten hoogste € 10,00 worden verlangd.
 
-3. Het in het tweede lid genoemde bedrag kan bij ministeriële regeling worden gewijzigd voorzover het prijsindexcijfer van de gezinsconsumptie daartoe aanleiding geeft.
+3. Het in het tweede lid genoemde bedrag kan bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer van de gezinsconsumptie daartoe aanleiding geeft.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2002-01-01&g=2002-01-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2002-01-01&g=2002-01-01) die in werking treden met ingang van 1 januari 1999.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2004-05-19&g=2004-05-19) die in werking treden met ingang van 1 januari 1999.
 
 ##### Artikel 9
 
