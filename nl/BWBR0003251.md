@@ -193,11 +193,3 @@ Deze wet kan worden aangehaald als Wet schadeloosstelling, uitkering en pensioen
 2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003251&artikel=12&z=2002-01-01&g=2002-01-01) treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Deze wet is niet van toepassing op de leden van het Europees Parlement die volledig vallen onder de werking van het Statuut van de leden van het Europees Parlement (besluit nr. 2005/684/EG van het Europees Parlement van 28 september 2005, PbEU L 262).
-
-2. Het eerste lid geldt niet zover het betreft de door die leden op grond van deze wet opgebouwde pensioenaanspraken.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
