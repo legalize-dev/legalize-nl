@@ -216,15 +216,3 @@ De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke k
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 15a
-
-Een afwijzende beslissing op grond van artikel 5, artikel 9, tweede lid, en artikel 12, eerste lid, onder a, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
-
-### Hoofdstuk III. Rogatoire commissies door de Nederlandse rechter opgedragen
-
-### Hoofdstuk IV. Uitvoering van de artikelen 8 en 17 van het verdrag
-
-### Slotbepaling
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
