@@ -4,7 +4,7 @@ identifier: "BWBR0003235"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2004-07-01"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003235"
 soort: "wet"
@@ -63,11 +63,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Ingeval overeenkomstig hoofdstuk IV van de Overeenkomst maatregelen in werking worden gesteld, kan door Ons met toepassing van het bepaalde in [artikel 24, tweede, zesde en zevende lid, van de Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) worden bepaald, dat de in het tweede lid van dat artikel bedoelde artikelen van die wet in werking treden ten aanzien van aardolieprodukten.
+1. Ingeval overeenkomstig hoofdstuk IV van de Overeenkomst maatregelen in werking worden gesteld, kan door Ons met toepassing van het bepaalde in [artikel 24, tweede, zesde en zevende lid, van de Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) worden bepaald, dat de in het tweede lid van dat artikel bedoelde artikelen van die wet in werking treden ten aanzien van aardolieprodukten.
 
-2. [Artikel 24, derde lid, van de Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) is niet van toepassing ten aanzien van een besluit, genomen overeenkomstig het eerste lid.
+2. [Artikel 24, derde lid, van de Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) is niet van toepassing ten aanzien van een besluit, genomen overeenkomstig het eerste lid.
 
-3. Indien overeenkomstig het bepaalde in het eerste lid de in [artikel 24, tweede lid, van de Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) bedoelde artikelen in werking zijn getreden, kunnen met gebruikmaking van de bij die wet verleende bevoegdheden de maatregelen ter beperking van de vraag naar aardolieprodukten, bedoeld in hoofdstuk IV van de Overeenkomst, worden genomen.
+3. Indien overeenkomstig het bepaalde in het eerste lid de in [artikel 24, tweede lid, van de Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=24) bedoelde artikelen in werking zijn getreden, kunnen met gebruikmaking van de bij die wet verleende bevoegdheden de maatregelen ter beperking van de vraag naar aardolieprodukten, bedoeld in hoofdstuk IV van de Overeenkomst, worden genomen.
 
 4. Het in de voorgaande leden bepaalde is van overeenkomstige toepassing ingeval een verplichting tot beperking van de vraag naar aardolieprodukten voor Nederland voortvloeit uit een besluit van een orgaan van de Europese Gemeenschappen of een besluit van een ingevolge de Overeenkomst ingesteld orgaan.
 
@@ -95,41 +95,41 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Onze Minister kan een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), al dan niet op verzoek van degene tot wie die opdracht is gericht, wijzigen of intrekken.
+Onze Minister kan een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), al dan niet op verzoek van degene tot wie die opdracht is gericht, wijzigen of intrekken.
 
 ##### Artikel 5
 
-1. Indien in een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), een natuurlijke persoon of een rechtspersoon is aangewezen, aan wie geleverd moet worden, is de Staat mede aansprakelijk voor de nakoming van de financiële verplichtingen, die voor de aangewezen natuurlijke persoon of rechtspersoon tegenover degene, tot wie de opdracht is gericht, voortvloeien uit de opgedragen levering.
+1. Indien in een opdracht als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), een natuurlijke persoon of een rechtspersoon is aangewezen, aan wie geleverd moet worden, is de Staat mede aansprakelijk voor de nakoming van de financiële verplichtingen, die voor de aangewezen natuurlijke persoon of rechtspersoon tegenover degene, tot wie de opdracht is gericht, voortvloeien uit de opgedragen levering.
 
 2. In de overige gevallen kan Onze Minister op met redenen omkleed verzoek van degene, tot wie een opdracht is gericht, verklaren, dat de Staat medeaansprakelijk is voor de nakoming van de financiële verplichtingen, die voor degene, aan wie de verzoeker zal leveren, tegenover deze voortvloeien uit de opgedragen levering, indien naar zijn oordeel onvoldoende zekerheid bestaat, dat deze verplichtingen zullen worden nagekomen.
 
 ##### Artikel 6
 
-1. Onze Minister kan in een geval als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), indien zulks naar zijn oordeel ter verwezenlijking van een van de in dat artikellid vermelde doeleinden is vereist, het eigendomsrecht op aardolieprodukten vorderen.
+1. Onze Minister kan in een geval als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), indien zulks naar zijn oordeel ter verwezenlijking van een van de in dat artikellid vermelde doeleinden is vereist, het eigendomsrecht op aardolieprodukten vorderen.
 
 2. De vordering geschiedt ten behoeve van de Staat, dan wel een andere rechtspersoon of een natuurlijke persoon.
 
 3. In vorderingsbeschikkingen kan aan daarbij aangewezen personen de verplichting worden opgelegd, om, voor zover hun dat feitelijk en rechtens mogelijk is, op de daarbij aangegeven plaats en tijd aan degene, te wiens behoeve de vordering geschiedt, de feitelijke mogelijkheid tot uitoefening van het gevorderde recht te verschaffen.
 
-4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8), [9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=13), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=16) en [31, eerste lid, van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=31) (**Stb.** 587) zijn van overeenkomstige toepassing.
+4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=8), [9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=13), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=16) en [31, eerste lid, van de Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=31) zijn van overeenkomstige toepassing.
 
 5. De schadeloosstelling wordt vastgesteld met toepassing van hetgeen bij of ter uitvoering van de Overeenkomst is bepaald met betrekking tot de prijs voor toebedeelde aardolieprodukten.
 
 6. De vaststelling van het bedrag van de schadeloosstelling, te betalen aan rechthebbenden met wie daarover geen overeenstemming is bereikt of die niet aan het overleg hebben deelgenomen, geschiedt door de rechtbank te Rotterdam.
 
-7. [Artikel 18 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=18) is van overeenkomstige toepassing.
+7. [Artikel 18 van de Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=18) is van overeenkomstige toepassing.
 
 ##### Artikel 7
 
-Terstond nadat de Staat het eigendomsrecht op aardolieprodukten, welke met het oog op de nakoming van een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), zijn gevorderd, heeft verkregen, neemt Onze Minister de nodige maatregelen ten einde aan die verplichting te voldoen.
+Terstond nadat de Staat het eigendomsrecht op aardolieprodukten, welke met het oog op de nakoming van een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), zijn gevorderd, heeft verkregen, neemt Onze Minister de nodige maatregelen ten einde aan die verplichting te voldoen.
 
 ##### Artikel 8
 
-Ingeval een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), wordt ingetrokken of vervalt, dan wel hoofdstuk III van de Overeenkomst buiten werking is gesteld, blijven de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01), gegeven opdrachten, alsmede de daarmede in verband staande bevoegdheden en verplichtingen ingevolge deze wet van kracht, behoudens voor zover Onze Minister, al dan niet op verzoek van degene, tot wie een opdracht is gericht, anders bepaalt.
+Ingeval een op Nederland rustende verplichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), wordt ingetrokken of vervalt, dan wel hoofdstuk III van de Overeenkomst buiten werking is gesteld, blijven de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16), gegeven opdrachten, alsmede de daarmede in verband staande bevoegdheden en verplichtingen ingevolge deze wet van kracht, behoudens voor zover Onze Minister, al dan niet op verzoek van degene, tot wie een opdracht is gericht, anders bepaalt.
 
 ##### Artikel 9
 
-Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2004-07-01&g=2004-07-01) bepaalde is van overeenkomstige toepassing ingeval een verplichting tot toebedeling van aardolieprodukten aan één of meer andere Lid-Staten van de Europese Gemeenschappen voor Nederland voortvloeit uit een besluit van een orgaan van de Europese Gemeenschappen of een besluit van een ingevolge de Overeenkomst ingesteld orgaan.
+Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&artikel=3&z=2005-03-16&g=2005-03-16) bepaalde is van overeenkomstige toepassing ingeval een verplichting tot toebedeling van aardolieprodukten aan één of meer andere Lid-Staten van de Europese Gemeenschappen voor Nederland voortvloeit uit een besluit van een orgaan van de Europese Gemeenschappen of een besluit van een ingevolge de Overeenkomst ingesteld orgaan.
 
 #### § 4. Informatieplicht
 
@@ -185,15 +185,15 @@ Het in de [artikelen 3-8](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragr
 
 ##### Artikel 11
 
-1. Onze Minister kan van het krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2004-07-01&g=2004-07-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
+1. Onze Minister kan van het krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2005-03-16&g=2005-03-16) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
 
 ##### Artikel 12
 
-1. Onze Minister is bevoegd de gegevens en stukken, die door hem op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2004-07-01&g=2004-07-01) of enige andere wettelijke regeling zijn verkregen, ter beschikking te stellen van het Secretariaat bedoeld in artikel 59 van de Overeenkomst, voor zover zulks ter voldoening aan artikel 27, 32 of 33 van de Overeenkomst is vereist.
+1. Onze Minister is bevoegd de gegevens en stukken, die door hem op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2005-03-16&g=2005-03-16) of enige andere wettelijke regeling zijn verkregen, ter beschikking te stellen van het Secretariaat bedoeld in artikel 59 van de Overeenkomst, voor zover zulks ter voldoening aan artikel 27, 32 of 33 van de Overeenkomst is vereist.
 
-2. Onze Minister is voorts bevoegd de gegevens of stukken, de beschikbaarheid of voorwaarden van beschikbaarheid van aardolieprodukten betreffende, die door hem op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2004-07-01&g=2004-07-01) of enige andere wettelijke regeling zijn verkregen, ter beschikking te stellen van enig ander volkenrechtelijk orgaan, voor zover zulks ter voldoening aan een op Nederland rustende verplichting ingevolge een andere internationale overeenkomst of een besluit van een volkenrechtelijke organisatie is vereist.
+2. Onze Minister is voorts bevoegd de gegevens of stukken, de beschikbaarheid of voorwaarden van beschikbaarheid van aardolieprodukten betreffende, die door hem op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=10&z=2005-03-16&g=2005-03-16) of enige andere wettelijke regeling zijn verkregen, ter beschikking te stellen van enig ander volkenrechtelijk orgaan, voor zover zulks ter voldoening aan een op Nederland rustende verplichting ingevolge een andere internationale overeenkomst of een besluit van een volkenrechtelijke organisatie is vereist.
 
 #### § 5. Beroep
 
@@ -213,7 +213,7 @@ Vervallen
 
 ##### Artikel 16
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de bij besluit van Onze Minister aangewezen ambtenaren die zijn belast met de uitvoering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&z=2004-07-01&g=2004-07-01) van deze wet.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de bij besluit van Onze Minister aangewezen ambtenaren die zijn belast met de uitvoering van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=3&z=2005-03-16&g=2005-03-16) van deze wet.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
@@ -241,7 +241,7 @@ Vervallen
 
 ##### Artikel 22
 
-Buiten de gevallen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=12&z=2004-07-01&g=2004-07-01), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op afzonderlijke natuurlijke personen of rechtspersonen, dan wel daaruit gevolgtrekkingen ten aanzien van zodanige personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
+Buiten de gevallen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003235&paragraaf=4&artikel=12&z=2005-03-16&g=2005-03-16), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op afzonderlijke natuurlijke personen of rechtspersonen, dan wel daaruit gevolgtrekkingen ten aanzien van zodanige personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
 
 ##### Artikel 23
 
