@@ -69,15 +69,3 @@ De verklaringen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c
 Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 9
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3
-
-Deze regeling wordt aangehaald als: Regeling vaststelling modellen Wet bopz.
-
-## Bijlage 9
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
