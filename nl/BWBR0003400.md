@@ -4,7 +4,7 @@ identifier: "BWBR0003400"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "1997-11-15"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003400"
 soort: "wet"
@@ -63,11 +63,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde worden verstaan on
 
 1. De uit het Verdrag voortvloeiende verplichting tot betaling van bijdragen aan het Fonds heeft de kracht van een verbintenis naar burgerlijk recht.
 
-2. Tot de kennisneming in eerste aanleg van vorderingen van het Fonds tot betaling van bijdragen is in Nederland bij uitsluiting bevoegd de arrondissementsrechtbank te Rotterdam.
+2. Tot de kennisneming in eerste aanleg van vorderingen van het Fonds tot betaling van bijdragen is in Nederland bij uitsluiting bevoegd de rechtbank te Rotterdam.
 
 ##### Artikel 3
 
-1. Tot de kennisneming in eerste aanleg van vorderingen tegen het Fonds op grond van artikel 4 van het Verdrag, is in Nederland bij uitsluiting bevoegd de arrondissementsrechtbank te Rotterdam.
+1. Tot de kennisneming in eerste aanleg van vorderingen tegen het Fonds op grond van artikel 4 van het Verdrag, is in Nederland bij uitsluiting bevoegd de rechtbank te Rotterdam.
 
 2. Het Fonds kan, zonder dat het daartoe een belang behoeft te stellen, zich voegen of tussenkomen in elk geding, dat op grond van het Aansprakelijkheidsverdrag tegen de eigenaar van een schip of tegen diens garant wordt gevoerd.
 
@@ -97,7 +97,7 @@ Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder **b*
 
 ##### Artikel 7
 
-1. Onze Minister kan van de in [het eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=1997-11-15&g=1997-11-15) bedoelde personen inzage vorderen van boeken en andere zakelijke bescheiden en daarvan afschrift nemen, een en ander voor zover dat redelijkerwijs voor de bepaling van de aan de Directeur van het Fonds te verstrekken gegevens nodig is.
+1. Onze Minister kan van de in [het eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2004-07-01&g=2004-07-01) bedoelde personen inzage vorderen van boeken en andere zakelijke bescheiden en daarvan afschrift nemen, een en ander voor zover dat redelijkerwijs voor de bepaling van de aan de Directeur van het Fonds te verstrekken gegevens nodig is.
 
 2. Hij wijst schriftelijk de personen aan, die met het inzien van de boeken en bescheiden zijn belast.
 
@@ -105,19 +105,19 @@ Onder "geassocieerde personen" als bedoeld in artikel 10, tweede lid, onder **b*
 
 ##### Artikel 8
 
-1. Een ieder is verplicht aan de krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=7&z=1997-11-15&g=1997-11-15), aangewezen personen alle medewerking te verlenen, welke redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
+1. Een ieder is verplicht aan de krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=7&z=2004-07-01&g=2004-07-01), aangewezen personen alle medewerking te verlenen, welke redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
 
 2. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
 ##### Artikel 9
 
-Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=1997-11-15&g=1997-11-15), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen, dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
+Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2004-07-01&g=2004-07-01), wordt informatie, verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen, dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
 
 #### § 4. Beroep
 
 ##### Artikel 10
 
-Tegen een besluit als bedoeld in [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=1997-11-15&g=1997-11-15), kan een belanghebbende beroep instellen bij het College.
+Tegen een besluit als bedoeld in [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2004-07-01&g=2004-07-01), kan een belanghebbende beroep instellen bij het College.
 
 ##### Artikel 11
 
