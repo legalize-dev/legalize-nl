@@ -98,7 +98,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling storing radioverbinding tijdens een gecontroleerde vlucht.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 22 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=22).
