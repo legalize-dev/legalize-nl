@@ -172,11 +172,3 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 ## Bijlage 3
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=1) en [Hoofdstuk 4 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=4).
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
