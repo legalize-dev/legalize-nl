@@ -4,7 +4,7 @@ identifier: "BWBR0011985"
 country: "nl"
 rank: "wet"
 publication_date: "2003-01-01"
-last_updated: "2001-12-29"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011985"
 soort: "wet"
@@ -228,15 +228,15 @@ Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelastin
 
 1. Deze wet treedt in werking met ingang van 1 januari 2001.
 
-2. In afwijking van het eerste lid treden [artikel I, onderdelen E, I, R, S, en T](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=I&z=2001-12-29&g=2001-12-29) en artikel XVIC in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treden [artikel I, onderdelen E, R, S, en T](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=I&z=2003-01-01&g=2003-01-01) en artikel XVIC in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 3. Vervallen.
 
-4. In afwijking van het eerste lid treedt [artikel XI, onderdelen C, F.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2001-12-29&g=2001-12-29) en de in onderdeel O opgenomen afdeling 12 van hoofdstuk Va van de Wet belastingen op milieugrondslag in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt terug tot en met 1 januari 2000.
+4. In afwijking van het eerste lid treedt [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2003-01-01&g=2003-01-01) in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt terug tot en met 1 januari 2000.
 
-5. In afwijking van het eerste lid treedt [artikel XI, onderdelen F.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2001-12-29&g=2001-12-29), I, K.2, N, de in onderdeel O opgenomen [afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](onbekend), en onderdeel P, in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt terug tot en met 1 januari 2001.
+5. In afwijking van het eerste lid treedt [artikel XI, onderdelen F.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2003-01-01&g=2003-01-01), I, K.2, N, de in onderdeel O opgenomen [afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=13), en onderdeel P, in werking op een bij koninklijk besluit vast te stellen tijdstip en werkt terug tot en met 1 januari 2001.
 
-6. [Artikel XI, onderdelen B.1, K en N.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2001-12-29&g=2001-12-29), vinden toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2001 is toegepast, met dien verstande dat per 1 januari 2001 de aanpassing op grond van [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) van de in de artikelen 18, tweede lid, 36o, tweede en vierde lid, en 36r, tweede lid, van die wet vermelde bedragen, geen toepassing vindt.
+6. [Artikel XI, onderdelen B.1, K en N.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011985&artikel=XI&z=2003-01-01&g=2003-01-01), vinden toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2001 is toegepast, met dien verstande dat per 1 januari 2001 de aanpassing op grond van [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) van de in de artikelen 18, tweede lid, 36o, tweede en vierde lid, en 36r, tweede lid, van die wet vermelde bedragen, geen toepassing vindt.
 
 7. Bij het begin van het kalenderjaar 2001 vinden de [artikelen 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) en [10.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.4) geen toepassing.
 
