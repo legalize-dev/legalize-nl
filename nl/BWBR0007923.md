@@ -1,0 +1,315 @@
+---
+title: "Mandaatregeling VWS"
+identifier: "BWBR0007923"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2003-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007923"
+soort: "ministeriele-regeling"
+stam_id: "4939673"
+version_id: "7997062"
+internal_id: "C9921121"
+label_id: "4917684"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007923/2026-01-01/0"
+intitule_bron: "Stcrt.1996-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-29"
+intitule_published: "1996-03-26"
+intitule_in_force: "1996-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-61"
+original_signed_date: "1996-02-29"
+original_published_date: "1996-03-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-03-01"
+jci_1_3: "jci1.3:c:BWBR0007923&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007923&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "1996-02-29"
+entry_into_force: "1996-03-01"
+---
+# Mandaatregeling VWS
+
+Besluit:
+
+#### Hoofdstuk 1. Definities en reikwijdte
+
+##### Artikel 1. Definities
+
+In deze regeling wordt verstaan onder:
+
+- a. Minister: de Minister van Volksgezondheid, Welzijn en Sport;
+
+- b. mandaat: de bevoegdheid om in naam van de Minister besluiten te nemen;
+
+- c. gemandateerde: degene aan wie mandaat is verleend;
+
+- d. mandaatgever: degene die mandaat verleent;
+
+- e. machtiging: de bevoegdheid om in naam van de Minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+
+##### Artikel 1a. Personeelsaangelegenheden
+
+Deze regeling is niet van toepassing op mandaat met betrekking tot personeelsaangelegenheden.
+
+##### Artikel 1b. Machtiging
+
+Hetgeen in deze regeling is bepaald met betrekking tot mandaat is, behoudens [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1a&z=2003-03-16&g=2003-03-16), van overeenkomstige toepassing op machtiging.
+
+#### Hoofdstuk 2. Algemene bepalingen
+
+##### Artikel 2. Uitoefening bevoegdheid door mandaatgever
+
+1. De mandaatgever blijft bevoegd de gemandateerde bevoegdheid uit te oefenen.
+
+2. De mandaatgever kan het mandaat te allen tijde beëindigen.
+
+##### Artikel 3. Aanwijzigingen en inlichtingen
+
+1. De mandaatgever kan ter zake van de uitoefening van de gemandateerde bevoegdheid zowel algemene als bijzondere aanwijzingen geven.
+
+2. De gemandateerde verschaft de mandaatgever op diens verzoek inlichtingen over de uitoefening van de bevoegdheid.
+
+##### Artikel 4. Toerekening aan mandaatgever
+
+Een door de gemandateerde binnen de grenzen van zijn bevoegdheid genomen besluit geldt als een besluit van de mandaatgever.
+
+##### Artikel 5. Beperking uitoefening mandaat
+
+De gemandateerde oefent de gemandateerde bevoegdheid niet uit, indien de aard of de inhoud van een stuk een zodanig gewicht heeft dat door de mandaatgever of een hiërarchisch hogergeplaatste behoort te worden ondertekend.
+
+##### Artikel 6. Vermelden mandaatgever
+
+Een krachtens mandaat genomen besluit vermeldt namens welk bewindspersoon het besluit is genomen.
+
+##### Artikel 7. Vervanging
+
+Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van een ondermandaat.
+
+#### Hoofdstuk 3. Verlening algemeen mandaat
+
+##### Artikel 8. De Secretaris-Generaal
+
+De Secretaris-Generaal heeft mandaat ten aanzien van alle stukken met uitsluiting van de stukken die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2003-03-16&g=2003-03-16) door de Minister dienen te worden ondertekend.
+
+##### Artikel 9. De plaatsvervangend Secretaris-Generaal
+
+De plaatsvervangend Secretaris-Generaal heeft mandaat ten aanzien van dezelfde stukken als de Secretaris-Generaal, voor zover die behoren tot zijn werkterrein.
+
+##### 10. Andere functionarissen
+
+De volgende functionarissen hebben mandaat ten aanzien van stukken die tot hun werkterrein behoren:
+
+- a. de Directeuren-Generaal en de Directeuren van een beleidsdirectie, stafeenheid of een facilitaire eenheid van het kernministerie;
+
+- b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu;
+
+- c. de Directeur van het Nederlands Vaccin Instituut;
+
+- d. de Inspecteur-Generaal voor de Gezondheidszorg;
+
+- e. de Hoofdinspecteur Jeugdhulpverlening en Jeugdbescherming;
+
+- f. de Directeur-Generaal van de Voedsel en Waren Autoriteit, de Algemeen Directeur van de Keuringsdienst van Waren, onderdeel van de Voedsel en Waren Autoriteit en de Directeur van de Rijksdienst voor de keuring van Vee en Vlees, onderdeel van de Voedsel en Waren Autoriteit;
+
+- g. de Directeur van het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg;
+
+- h. de Directeur van het agentschap College ter beoordeling van de Geneesmiddelen;
+
+- i. de Directeur van het Sociaal Cultureel Planbureau;
+
+- j. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met i, ressorterende organisatie-eenheden.
+
+#### Hoofdstuk 4. Beperkingen algemeen mandaat
+
+##### Artikel 11. Minister
+
+1. De stukken gericht aan:
+
+- a. de Koningin,
+
+- b. de Eerste en Tweede Kamer der Staten-Generaal,
+
+- c. de Ministerraad of daaruit gevormde vaste colleges,
+
+- d. de Raad van State,
+
+- e. de Algemene Rekenkamer, worden ondertekend door de Minister.
+
+2. Ten aanzien van de in het eerste lid, onder d en e, genoemde colleges geldt het in de aanhef van het eerste lid gestelde niet voor zover het gaat om administratiefrechtelijke procedures onderscheidenlijk stukken van ondergeschikt beleidsmatig of politiek belang.
+
+3. Voorts worden de volgende stukken door de Minister ondertekend:
+
+- a. stukken, inhoudende vaststelling van algemeen verbindende voorschriften;
+
+- b. stukken, inhoudende een aankondiging van uitbreiding van de rijksbemoeienis op het terrein van volksgezondheid, welzijn of sport of een aankondiging van wijzigingen van het beleid;
+
+- c. besluiten, waaruit belangrijke politieke of bestuurlijke gevolgen kunnen voortvloeien;
+
+- d. besluiten op een beroepschrift;
+
+- e. besluiten, inhoudende de vernietiging van of de onthouding van de goedkeuring aan een besluit van een ander bestuursorgaan;
+
+- f. stukken, inhoudende aanwijzingen aan een ander bestuursorgaan op grond van een wettelijk voorschrift.
+
+##### Artikel 12. Secretaris-Generaal
+
+In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2003-03-16&g=2003-03-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken:
+
+- a. bestemd voor de Nationale ombudsman;
+
+- b. behelzende geheel of gedeeltelijke afwijzende beslissingen in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
+
+##### Artikel 13. Beleidsregels en circulaires
+
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10, eerste lid, onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16), ieder mandaat onderscheidenlijk machtiging ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
+
+- a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;
+
+- b. het verzoeken om medewerking;
+
+- c. het vragen om inlichtingen.
+
+##### Artikel 14
+
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in [artikel 10, eerste lid, onder b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) ieder voor zijn eigen werkterrein, machtiging ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter en ten aanzien van het verlenen van machtigingen ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter.
+
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) hebben de Secretaris-Generaal en het hoofd van de centrale directie Wetgeving en Juridische Zaken het mandaat ten aanzien van alle overige stukken die betrekking hebben op administratiefrechtelijke procedures.
+
+3. In afwijking van het tweede lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.
+
+4. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures, zijn de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&artikel=16&z=2003-03-16&g=2003-03-16), voor zover het de goedkeuring van de Secretaris-Generaal betreft, en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=6&artikel=17&z=2003-03-16&g=2003-03-16) niet van toepassing.
+
+##### Artikel 15. [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
+
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16) heeft de Directeur Voorlichting en Communicatie mandaat ten aanzien van stukken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), niet inhoudende geheel of gedeeltelijk afwijzende besluiten.
+
+#### Hoofdstuk 5. Ondermandaat
+
+##### Artikel 16. Ondermandaat
+
+1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de directeur van een facilitaire eenheid. In een dergelijk geval kan de betrokken directeur van de facilitaire eenheid op zijn beurt die bevoegdheid verlenen aan een ondergeschikte.
+
+2. De directeuren van facilitaire eenheden kunnen aan andere ondergeschikten dan hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in [artikel 10, onder a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2003-03-16&g=2003-03-16).
+
+3. De functionarissen, bedoeld in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=14&z=2003-03-16&g=2003-03-16), zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.
+
+4. Ondermandaat kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
+
+5. Elk ondermandaat wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.
+
+6. Op ondermandaat zijn de bepalingen van deze regeling van overeenkomstige toepassing.
+
+#### Hoofdstuk 5a. Bijzonder ondermandaat
+
+##### Artikel 16a. Bijzonder ondermandaat
+
+Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&artikel=11&z=2003-03-16&g=2003-03-16), kan de Secretaris-Generaal, in het kader van een bepaald project en andere bijzondere gevallen, naast of in plaats van de in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&z=2003-03-16&g=2003-03-16), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=4&z=2003-03-16&g=2003-03-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=5&z=2003-03-16&g=2003-03-16) bedoelde functionarissen, aan anderen de bevoegdheid verlenen om in naam van de Minister besluiten te nemen.
+
+#### Hoofdstuk 6. Mandaatregister
+
+##### Artikel 17
+
+1. De Directeur Bestuursondersteuning houdt een centraal register bij van alle gemandateerden en van de inhoud van hun mandaat
+
+2. Bij beëindiging of wijziging van een mandaat wordt een kopie van het besluit tot beëindiging c.q. wijziging toegezonden aan de Directeur Bestuursondersteuning.
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+##### Artikel 18. Overgangsbepaling
+
+1. Mandaten verleend vóór het tijdstip van het inwerkingtreden van deze regeling vervallen met ingang van het inwerkingtreden van deze regeling.
+
+2. In afwijking van het eerste lid blijven mandaten die verleend zijn aan functionarissen die niet behoren tot een beleidsdirectie, stafeenheid of een facilitaire eenheid, gehandhaafd voor zover niet in strijd met dit besluit.
+
+3. Een kopie van een mandaat als bedoeld in het tweede lid wordt binnen één maand, nadat deze regeling in werking is getreden, toegezonden aan de Secretaris-Generaal.
+
+##### Artikel 19. Intrekking
+
+De regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 31 januari 1984, kenmerk CDJBZ-46, wordt ingetrokken.
+
+##### Artikel 20. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 maart 1996.
+
+##### Artikel 21. Citeertitel
+
+Deze regeling wordt aangehaald als: Mandaatregeling VWS.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 15a
+
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2016-01-01&g=2016-01-01) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2016-01-01&g=2016-01-01) hebben de Inspecteur-Generaal en de Hoofdinspecteurs van de Inspectie voor de Gezondheidszorg ieder mandaat voor:
+
+- a. het opleggen van een last onder dwangsom als bedoeld in [artikel 29, tweede lid van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=29) en [artikel 39, tweede lid, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&artikel=39);
+
+- b. het geven van een schriftelijke aanwijzing als bedoeld in [artikel 27 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=27).
+
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2016-01-01&g=2016-01-01) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2016-01-01&g=2016-01-01) hebben de onder de Hoofdinspecteurs van de Inspectie voor de Gezondheidszorg ressorterende functionarissen ieder machtiging tot het aanzeggen van een voornemen tot het opleggen van een last onder dwangsom en het aanzeggen van het voornemen tot het geven van een schriftelijke aanwijzing als bedoeld in het eerste lid.
+
+#### Hoofdstuk 5. Ondermandaat
+
+#### Hoofdstuk 5a. Bijzonder ondermandaat
+
+#### Hoofdstuk 6. Mandaatregister
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 15b
+
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2017-07-15&g=2017-07-15) juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2017-07-15&g=2017-07-15) heeft de Hoofdinspecteur Jeugdzorg mandaat voor:
+
+- a. het opleggen van een last onder dwangsom als bedoeld in [artikel 9.5, derde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.5);
+
+- b. het geven van een schriftelijke aanwijzing als bedoeld in [artikel 9.3, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.3).
+
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2017-07-15&g=2017-07-15)juncto [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=1&artikel=1b&z=2017-07-15&g=2017-07-15)hebben de onder de Hoofdinspecteur Jeugdzorg ressorterende functionarissen ieder machtiging tot het aanzeggen van een voornemen tot opleggen van een last onder dwangsom en het aanzeggen van het voornemen tot het geven van een schriftelijke aanwijzing als bedoeld in het eerste lid.
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 15b
+
+Vervallen
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 15c
+
+De Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu heeft mandaat tot het nemen van besluiten tot openbaarmaking van onderzoeksresultaten, publiekssamenvattingen en persberichten op grond van [artikel 8, eerste lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8).
+
+##### Artikel 13a
+
+1. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2022-06-04&g=2022-06-04) heeft de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit mandaat ten aanzien van het vaststellen van beleidsregels, met uitzondering van beleidsregels omtrent de uitleg van wettelijke voorschriften.
+
+2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2022-06-04&g=2022-06-04) hebben de functionarissen genoemd in [artikel 10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2022-06-04&g=2022-06-04), ieder mandaat ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor:
+
+- a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;
+
+- b. het verzoeken om medewerking; en
+
+- c. het vragen om inlichtingen.
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+Het mandaat, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=8&z=2025-03-01&g=2025-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=9&z=2025-03-01&g=2025-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&hoofdstuk=3&artikel=10&z=2025-03-01&g=2025-03-01), hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de directeuren van het kernministerie alleen binnen de aan hen toegewezen budgetten.
+
+#### Hoofdstuk 4. Beperkingen algemeen mandaat
+
+#### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Dit besluit zal in de Staatscourant worden geplaatst.
