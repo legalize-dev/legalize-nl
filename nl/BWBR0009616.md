@@ -4,7 +4,7 @@ identifier: "BWBR0009616"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2002-01-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009616"
 soort: "wet"
@@ -50,19 +50,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. de Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
+- a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
+- b. arbeidsbemiddeling: dienstverlening in de uitoefening van beroep of bedrijf ten behoeve van een werkgever, een werkzoekende, dan wel beiden, inhoudende het behulpzaam zijn bij het zoeken van arbeidskrachten onderscheidenlijk arbeidsgelegenheid, waarbij de totstandkoming van een arbeidsovereenkomst naar burgerlijk recht dan wel een aanstelling tot ambtenaar wordt beoogd;
 
-- c. arbeidsbemiddeling: dienstverlening in de uitoefening van beroep of bedrijf ten behoeve van een werkgever, een werkzoekende, dan wel beiden, inhoudende het behulpzaam zijn bij het zoeken van arbeidskrachten onderscheidenlijk arbeidsgelegenheid, waarbij de totstandkoming van een arbeidsovereenkomst naar burgerlijk recht dan wel een aanstelling tot ambtenaar wordt beoogd;
+- c. ter beschikking stellen van arbeidskrachten: het tegen vergoeding ter beschikking stellen van arbeidskrachten aan een ander voor het onder diens toezicht en leiding, anders dan krachtens een met deze gesloten arbeidsovereenkomst, verrichten van arbeid;
 
-- d. ter beschikking stellen van arbeidskrachten: het tegen vergoeding ter beschikking stellen van arbeidskrachten aan een ander voor het onder diens toezicht of leiding, anders dan krachtens een met deze gesloten arbeidsovereenkomst, verrichten van arbeid;
+- d. onderneming: de onderneming, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747).
 
-- e. onderneming: de onderneming, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747).
+2. In afwijking van het eerste lid, onderdeel b, wordt onder arbeidsbemiddeling niet verstaan: het openbaar maken van gegevens betreffende werkzoekenden of arbeidsplaatsen door middel van drukpers, radio, televisie of een ander communicatiemedium.
 
-2. In afwijking van het eerste lid, onderdeel d, wordt onder arbeidsbemiddeling niet verstaan: het openbaar maken van gegevens betreffende werkzoekenden of arbeidsplaatsen door middel van drukpers, radio, televisie of een ander communicatiemedium.
-
-3. In afwijking van het eerste lid, onderdeel e, wordt onder ter beschikking stellen van arbeidskrachten niet verstaan:
+3. In afwijking van het eerste lid, onderdeel c, wordt onder ter beschikking stellen van arbeidskrachten niet verstaan:
 
 - a. het ten behoeve van een geleverde zaak of tot stand gebracht werk ter beschikking stellen van arbeidskrachten;
 
@@ -70,47 +68,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. het ter beschikking stellen van arbeidskrachten voor het verrichten van arbeid in een onderneming, die door dezelfde ondernemer in stand wordt gehouden als die de arbeidskrachten ter beschikking stelt.
 
-4. Met arbeidsbemiddeling wordt gelijkgesteld de dienstverlening met het doel de totstandkoming van overeenkomsten tot het verrichten van arbeid, niet zijnde arbeidsovereenkomsten, te bevorderen ten behoeve van beroepsbeoefenaars op het gebied van kunsten, amusement en beroepssport.
-
 ### Hoofdstuk 2. Arbeidsbemiddeling
 
 ##### Artikel 2. Vergunning voor niet-openbare arbeidsbemiddeling
 
-1. Het is slechts toegestaan met vergunning van de Centrale organisatie werk en inkomen arbeidsbemiddeling te verlenen.
+Vervallen
 
-2. Het eerste lid geldt niet voor zover arbeidsbemiddeling ingevolge de wet wordt verleend.
+##### Artikel 3. Verplichtingen arbeidsbemiddeling
 
-##### Artikel 3. Verplichtingen vergunninghouder
+1. Bij het verrichten van arbeidsbemiddeling wordt geen tegenprestatie van de werkzoekende bedongen.
 
-1. De vergunninghouder bedingt voor de verleende arbeidsbemiddeling geen tegenprestatie van de werkzoekende.
+2. Degene die arbeidsbemiddeling verricht en bekend is of redelijkerwijs bekend kan zijn, dat in een bedrijf of onderneming, of een gedeelte daarvan, een werkstaking, uitsluiting of bedrijfsbezetting bestaat, bemiddelt niet in het plaatsen van werkzoekenden in dat bedrijf of die onderneming, of het gedeelte daarvan, waar de werkstaking, uitsluiting of bedrijfsbezetting heerst.
 
-2. Voor zover aan hem bekend is of redelijkerwijs bekend kan zijn, dat in een bedrijf of onderneming, of een gedeelte daarvan, een werkstaking, uitsluiting of bedrijfsbezetting bestaat, verleent de vergunninghouder geen bemiddeling tot het plaatsen van werkzoekenden in dat bedrijf of die onderneming, of wel dat gedeelte daarvan, waar de werkstaking, uitsluiting of bedrijfsbezetting heerst.
+3. Bij algemene maatregel van bestuur kunnen in afwijking van het eerste lid regels gesteld worden met betrekking tot bepaalde categorieën werkzoekenden of werkgevers.
 
-3. De vergunninghouder verleent aan alle personen die tot de categorieën behoren, die hij bemiddelt, zijn diensten gelijkelijk.
+##### Artikel 4. Regels voor bepaalde categorieën werkzoekenden en werkgevers
 
-##### Artikel 4. Vergunning voor bepaalde categorieën
-
-Bij algemene maatregel van bestuur kunnen regels worden gesteld voor de vergunning tot arbeidsbemiddeling, bedoeld in dit hoofdstuk, van bepaalde categorieën van werkzoekenden of werkgevers. Deze regels hebben in ieder geval betrekking op arbeidsbemiddeling als bedoeld in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01).
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor arbeidsbemiddeling van bepaalde categorieën van werkzoekenden of werkgevers.
 
 ##### Artikel 5. Beschikkingsbevoegdheid
 
-1. De Centrale organisatie werk en inkomen beslist over het verlenen van de vergunning.
-
-2. De Centrale organisatie werk en inkomen stelt regels vast omtrent de voorschriften die aan de vergunninghouder worden opgelegd.
-
-3. De regels, bedoeld in het tweede lid, betreffen in elk geval de administratie die de vergunninghouder voert en de gegevens, die hij minstens eenmaal per jaar verstrekt aan de Centrale organisatie werk en inkomen ten behoeve van een doelmatig toezicht op de naleving van dit hoofdstuk.
+Vervallen
 
 ##### Artikel 6. Weigering vergunning
 
-De Centrale organisatie werk en inkomen weigert slechts de vergunning, indien gegronde vrees bestaat dat [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=3&z=2002-01-01&g=2002-01-01) en de regels, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=5&z=2002-01-01&g=2002-01-01), zullen worden overtreden of dat anderszins het belang van goede verhoudingen op de arbeidsmarkt of het belang van de betrokken arbeidskrachten zal worden geschaad.
+Vervallen
 
 ##### Artikel 7. Intrekking vergunning
 
-De Centrale organisatie werk en inkomen kan de vergunning intrekken, indien:
-
-- a. de verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste gegevens bekend waren geweest;
-
-- b. de vergunninghouder in strijd handelt met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=3&z=2002-01-01&g=2002-01-01) of met de regels, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=5&z=2002-01-01&g=2002-01-01), of anderszins schade toebrengt aan het belang van goede verhoudingen op de arbeidsmarkt of de belangen van de betrokken arbeidskrachten, hetzij indien gegronde vrees bestaat voor zodanig handelen.
+Vervallen
 
 ### Hoofdstuk 3. Ter beschikking stellen van arbeidskrachten
 
@@ -152,9 +138,9 @@ Degene die arbeidskrachten ter beschikking stelt verschaft aan degene die ter be
 
 De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. Zij beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-##### Artikel 15. Onderzoek op terrein ter beschikking stellen van arbeidskrachten
+##### Artikel 15. Onderzoek op terrein van het ter beschikking stellen van arbeidskrachten en arbeidsbemiddeling
 
-Indien uit onderzoek naar de naleving van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2002-01-01&g=2002-01-01) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers kan worden afgeleid.
+Indien uit onderzoek naar de naleving van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2003-09-01&g=2003-09-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=3&z=2003-09-01&g=2003-09-01) blijkt, dat niet aan de daar genoemde artikelen wordt voldaan, doet Onze Minister hiervan mededeling aan de betrokken arbeidskracht of werkzoekende, voor zover het zijn aanspraken betreft, aan de betrokken werkgever, aan degene die de arbeidsbemiddeling heeft verricht, aan de ondernemingsraad of personeelsvertegenwoordiging en aan de daarvoor naar zijn oordeel in aanmerking komende organisaties van werkgevers en werknemers. De mededeling aan de ondernemingsraad of personeelsvertegenwoordiging en aan organisaties van werkgevers en werknemers bevat geen gegevens waaruit de identiteit van de in het onderzoek betrokken werknemers of werkzoekenden kan worden afgeleid.
 
 ### Hoofdstuk 5. Wijziging van andere wetten
 
@@ -184,11 +170,11 @@ Vervallen
 
 ##### Artikel 21. Publicatie regels
 
-Regelingen van de Centrale organisatie werk en inkomen op grond van deze wet worden in de Staatscourant geplaatst.
+Vervallen
 
 ##### Artikel 22. Overgang
 
-De vergunningen op grond van [Afdeling 2 van hoofdstuk III, paragraaf 3, van de Arbeidsvoorzieningswet](onbekend), zoals die bepalingen voor de datum van inwerkingtreding van deze wet luidden, die na de datum van inwerkingtreding van deze wet voortduren worden met ingang van de datum van inwerkingtreding van deze wet aangemerkt als vergunningen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&z=2002-01-01&g=2002-01-01) van deze wet.
+Vervallen
 
 ##### Artikel 23. Evaluatie
 
@@ -200,7 +186,7 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 25. Tijdelijke werking voor arbeidsbemiddeling in culturele en sportsector
 
-[Artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01), en de [tweede volzin van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01) vervallen op een bij koninklijk besluit te bepalen tijdstip.
+Vervallen
 
 ##### Artikel 26. Citeertitel
 
