@@ -1,0 +1,141 @@
+---
+title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië inzake de regeling van bepaalde Nederlandse financiële vorderingen"
+identifier: "BWBV0004707"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-11-21"
+last_updated: "1961-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004707"
+soort: "verdrag"
+stam_id: "10004275593"
+version_id: "10004464012"
+internal_id: "C10006997791"
+label_id: "10004260984"
+dtd_version: "2.0"
+original_entry_into_force: "1961-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004707/1961-11-21/0"
+intitule_bron: "Trb.1961-39"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-05-03"
+intitule_in_force: "1961-12-27"
+intitule_status: "goed"
+original_publication: "Trb.1961-39"
+original_published_date: "1961-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-39"
+entry_into_force_date: "1961-11-21"
+jci_1_3: "jci1.3:c:BWBV0004707&z=1961-11-21&g=1961-11-21"
+jci_1_0: "1.0:c:BWBV0004707&g=1961-11-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-11-21"
+---
+# Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië inzake de regeling van bepaalde Nederlandse financiële vorderingen
+
+De Regering van het Koninkrijk der Nederlanden en de Regering van de Federale Volksrepubliek Zuidslavië, verlangend een definitieve regeling te treffen voor de obligaties van de buitenlandse overheidsleningen van Servië en Zuidslavië van vóór de oorlog die het eigendom zijn van Nederlandse houders, daarbij rekening houdende met de betalings- en transfercapaciteit van Zuidslavië, hebben omtrent de volgende bepalingen overeenstemming bereikt:
+
+##### Artikel 1
+
+De Zuidslavische Regering zal als globale en forfaitaire regeling van de erkende Servische en Zuidslavische obligaties van vóór de oorlog, waarvan de benaming en de nominale waarde zijn aangegeven in artikel 2, aan de Vereeniging voor den Effectenhandel te Amsterdam, die door de Nederlandse Regering is belast met de technische uitvoering van deze Overeenkomst, het bedrag van 275.000 gulden betalen.
+
+Het in de voorgaande alinea genoemde bedrag zal worden gestort in vier jaarlijkse aflossingen volgens onderstaande tabel:
+
+| Nr. der aflossing | Datum | Bedrag in guldens |
+| --- | --- | --- |
+| 1 | 30 juni 1960 | 70.000,- |
+| 2 | 30 juni 1961 | 70.000,- |
+| 3 | 30 juni 1962 | 70.000,- |
+| 4 | 30 juni 1963 | 65.000,- |
+
+##### Artikel 2
+
+De stortingen voorzien in artikel 1 zullen worden aangewend voor de regeling der rechten uit de obligaties van Servische en Zuidslavische overheidsleningen, die op de datum van ondertekening van deze Overeenkomst het eigendom zijn van natuurlijke personen en rechtspersonen van Nederlandse nationaliteit en die door de houders overeenkomstig het bepaalde in de artikelen 4 en 5 zijn gedeponeerd.
+
+De nominale bedragen der aangegeven obligaties, die in Nederland in omloop zijn, worden voorlopig geschat op
+
+| **1e categorie** |   |   |
+| --- | --- | --- |
+| Voor de leningen: | Servië 4 % 1895 |   |
+|   | Servië 5 % 1902 |   |
+|   | Servië 4,5 % 1906 |   |
+|   | Servië 4,5 % 1909 |   |
+|   | Servië 5 % 1913 |   |
+|   | Servië 4,5 % Ouprava fondova 1910 |   |
+|   | Servië 4,5 % Ouprava fondova 1911 |   |
+|   | van het Servische Rode Kruis 1907 |   |
+| 3 000 000 frs or germinal. |   |   |
+| **2e categorie** |   |   |
+| Voor de leningen (obligaties en deelcertificaten): | Voor de leningen (obligaties en deelcertificaten): |   |
+|   | Zuidslavië 7 % 1931 |   |
+|   | Zuidslavië 5 % Funding 1933/1937 |   |
+| 1 300 000 frs or Poincaré. | 1 300 000 frs or Poincaré. |   |
+
+##### Artikel 3
+
+De verdeling van het in artikel 1 genoemde bedrag tussen de betrokken Nederlandse houders brengt geen enkele verantwoordelijkheid mede voor de Zuidslavische Regering.
+
+##### Artikel 4
+
+Teneinde te kunnen overgaan tot de toepassing van de bepalingen van deze Overeenkomst zal de Vereeniging voor den Effectenhandel, door de Nederlandse Regering belast met de technische uitvoering daarvan, bij één of meer door die Vereeniging aan te wijzen financiële instellingen alle obligaties die onder deze Overeenkomst vallen, doen deponeren. Deze stukken zullen worden gegroepeerd en in bewaargeving blijven tot de datum van levering voorzien in artikel 8.
+
+Als algemene regel, afgezien van als zodanig erkende uitzonderingen, zullen de obligaties moeten zijn voorzien van de niet door vroegere overeenkomsten geregelde coupons, evenals van de talons en premiebewijzen behorend bij deze obligaties.
+
+##### Artikel 5
+
+De toetreding van de houders tot de bij deze Overeenkomst vastgestelde forfaitaire regeling dient te geschieden vóór afloop van het tijdvak van twaalf maanden na de inwerkingtreding van deze Overeenkomst door het deponeren van hun stukken overeenkomstig het bepaalde in artikel 4, waarbij deze deponering geldt als aanvaarding van alle bepalingen van deze Overeenkomst.
+
+##### Artikel 6
+
+Bij de afloop van het tijdvak voorzien in artikel 5 zal de Vereeniging voor den Effectenhandel aan de Zuidslavische Regering genummerde lijsten overhandigen van de obligaties die tijdens dit tijdvak zijn gedeponeerd. Deze lijsten zullen bovendien aangeven het aantal en het totale nominale bedrag van de desbetreffende obligaties volgens de leningen en de categorieën genoemd in artikel 2 van deze Overeenkomst.
+
+##### Artikel 7
+
+Indien volgens de in artikel 6 bedoelde gegevens de nominale waarde van de voor toetreding aangemelde stukken het desbetreffende in artikel 2 aangegeven bedrag niet bereikt of dit overschrijdt, zullen het forfaitaire bedrag genoemd in artikel 1 alsmede de nog te betalen jaarlijkse aflossingen overeenkomstig worden verlaagd of verhoogd.
+
+##### Artikel 8
+
+Binnen twaalf maanden na de volledige betaling van het in deze Overeenkomst vastgestelde forfaitaire bedrag aan de houders, doet de Vereeniging voor den Effectenhandel alle volgens de voorwaarden van deze Overeenkomst geregelde stukken door tussenkomst van de Nederlandse Regering aan de Zuidslavische Regering toekomen.
+
+##### Artikel 9
+
+De Nederlandse Regering verbindt zich, aanspraken van houders die de bij deze Overeenkomst vastgestelde regeling niet mochten aanvaarden, niet meer te ondersteunen.
+
+De betaling van het in deze Overeenkomst genoemde forfaitaire bedrag zal wat betreft de stukken (hoofdsom en rente inbegrepen) waarvoor de houders de bij deze Overeenkomst vastgestelde regeling hebben aanvaard, bevrijdende werking hebben voor de Zuidslavische Regering, zowel tegenover de houders als tegenover de Nederlandse Regering.
+
+De houders van obligaties die de in deze Overeenkomst vervatte regeling hebben aanvaard zullen tegenover de Zuidslavische Regering op generlei wijze enig uit deze stukken voortvloeiend recht geldend kunnen maken.
+
+##### Artikel 10
+
+Alle kosten en provisies geheven of nog te heffen bij de uitvoering van deze Overeenkomst zijn begrepen in het in artikel 1 vastgestelde forfaitaire bedrag.
+
+##### Artikel 11
+
+De Nederlandse Regering en de Zuidslavische Regering zullen elkaar wederzijds alle nodige inlichtingen verschaffen voor de uitvoering van deze Overeenkomst.
+
+##### Artikel 12
+
+Elk geschil betreffende de uitlegging of de toepassing van deze Overeenkomst zal in gemeenschappelijk overleg tussen de beide Regeringen worden geregeld.
+
+##### Artikel 13
+
+Wat het Koninkrijk der Nederlanden betreft, zal de Overeenkomst op het gehele Koninkrijk van toepassing zijn.
+
+##### Artikel 14
+
+Deze Overeenkomst zal worden bekrachtigd.
+
+De uitwisseling van de akten van bekrachtiging zal zo spoedig mogelijk plaatsvinden te Belgrado.
+
+De Overeenkomst zal in werking treden op de dag van deze uitwisseling.
+
+EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
+
+FAIT à La Haye, en double exemplaire, en langue française, le 9 février 1961.
+
+**Pour le Gouvernement du Royaume des Pays-Bas**
+
+(s.) J. LUNS
+
+**Pour le Gouvernement de la République Populaire Fédérative de Yougoslavie**
+
+(s.) DRAŠKOVIĆ
