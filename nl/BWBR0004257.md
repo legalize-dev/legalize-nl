@@ -229,9 +229,3 @@ Bevat wijzigingen in andere regelgeving.
 Deze Wet kan worden aangehaald als "Gratiewet".
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 26a
-
-Een verzoekschrift om gratie dat voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend bij de griffie van het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba en waarover op dat tijdstip nog niet is beslist, wordt geacht te zijn ingediend bij het Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en wordt met inachtneming van de bepalingen van deze wet afgehandeld.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
