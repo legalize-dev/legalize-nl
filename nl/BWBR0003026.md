@@ -146,23 +146,3 @@ Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in ee
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden op grond van veranderingen in de omstandigheden als bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=685) of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.
-
-2. Het eerste lid is niet van toepassing indien een arbeidsovereenkomst wordt beëindigd ten gevolge van het faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
-
-#### § 3. Gevolgen van niet-naleving meldingsplicht
-
-##### Artikel 7a
-
-Voor de toepassing van deze wet wordt de werkgever geacht aan de verplichting tot raadpleging van een belanghebbende vereniging van werknemers te hebben voldaan indien deze vereniging:
-
-- a. geen gevolg geeft aan een schriftelijke uitnodiging daartoe van de werkgever, mits die uitnodiging ten minste twee weken voor de datum van het overleg door de vereniging is ontvangen; of
-
-- b. schriftelijk heeft aangegeven af te zien van raadpleging.
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
