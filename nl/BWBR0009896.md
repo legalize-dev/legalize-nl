@@ -1,0 +1,105 @@
+---
+title: "Besluit van 11 september 1998, houdende uitzondering respectievelijk aanwijzing van bestuursorganen als bedoeld in de Wet Nationale ombudsman en de Wet openbaarheid van bestuur (Besluit bestuursorganen WNo en Wob)"
+identifier: "BWBR0009896"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-05-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009896"
+soort: "AMvB"
+stam_id: "925143"
+version_id: "20817522"
+internal_id: "C29896151"
+label_id: "896964"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009896/2022-05-01/0"
+intitule_bron: "Stb.1998-580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-09-11"
+intitule_published: "1998-10-13"
+intitule_in_force: "1998-10-13"
+intitule_status: "goed"
+original_publication: "Stb.2013-404"
+original_signed_date: "2013-10-09"
+original_published_date: "2013-10-22"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2013-404"
+entry_into_force_date: "2013-10-09"
+jci_1_3: "jci1.3:c:BWBR0009896&z=2022-05-01&g=2022-05-01"
+jci_1_0: "1.0:c:BWBR0009896&g=2022-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bestuursorganen WNo"
+signed_date: "2013-10-09"
+entry_into_force: "2013-10-09"
+---
+# Besluit van 11 september 1998, houdende uitzondering respectievelijk aanwijzing van bestuursorganen als bedoeld in de Wet Nationale ombudsman en de Wet openbaarheid van bestuur (Besluit bestuursorganen WNo en Wob)
+
+Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 15 april 1998, 98M003527, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken, mr. J. Kohnstamm;
+
+Gelet op [artikel 1a, eerste lid, onderdeel e, en tweede lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) onderscheidenlijk [artikel 1a, eerste lid, onderdeel d, en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a);
+
+De Raad van State gehoord (advies van 10 juli 1998, nr. W01.98.0149);
+
+Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zaken, van 8 september 1998, 98M007702, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) onderscheidenlijk [artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a), zijn uitgezonderd:
+
+- a. de Nederlandse Omroep Stichting, genoemd in [artikel 16 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=16), voor zover belast met andere werkzaamheden dan welke voortvloeien uit onderscheidenlijk verband houden met de coördinatie van de programma's van de instellingen die zendtijd hebben gekregen voor landelijke omroep, onderscheidenlijk met het indelen van de zendtijd van de instellingen die zendtijd hebben verkregen voor de landelijke omroep;
+
+- b. De Nederlandsche Bank NV, voor zover belast met de werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken op grond van [artikel 26 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=26) vanaf het tijdstip van inwerkingtreding van de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508) tot 1 januari 1999 respectievelijk de [artikelen 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=2), en [3 van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=3) in de periode vanaf 1 januari 1999, en haar taken en bevoegdheden ingevolge [artikel 4, eerste lid, van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=4);
+
+- c. de Verzekeringskamer, voor zover belast met werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), de [Pensioen- en Spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092), de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830)en de [Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0002143);
+
+- d. de Stichting toezicht effectenverkeer, voor zover belast met werkzaamheden die voortvloeien uit onderscheidenlijk verband houden met haar taken en bevoegdheden ingevolge de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657).
+
+##### Artikel 2
+
+Als bestuursorgaan als bedoeld in [artikel 1a, tweede lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a)onderscheidenlijk [artikel 1a, tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a), zijn aangewezen de bestuursorganen van:
+
+- a. de Koninklijke Nederlandse Akademie van Wetenschappen, genoemd in [artikel 1.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
+
+- b. de Open Universiteit, genoemd in [artikel 1.3 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3);
+
+- c. Openbare universiteiten als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
+
+- d. Openbare hoge scholen als bedoeld in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
+
+- e. de Koninklijke Bibliotheek, genoemd in [artikel 1.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5);
+
+- f. landelijke organen als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
+
+- g. de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO, genoemd in [artikel 3 van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=3);
+
+- h. de Centrale commissie vaststelling examenopgaven en beoordelingsnormen, genoemd in het Besluit Instelling Centrale commissie vaststelling examenopgaven en beoordelingsnormen;
+
+- i. het Rijksinstituut voor Oorlogsdocumentatie, genoemd in het koninklijk besluit van 28 juli 1979 (Stb. 426);
+
+- j. de Nederlandse organisatie voor wetenschappelijk onderzoek, genoemd in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2).
+
+##### Artikel 3
+
+Dit besluit treedt in werking met ingang van de dag na de datum van de uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 30 juni 1998.
+
+##### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit bestuursorganen WNo en Wob.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1b
+
+Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) zijn uitgezonderd: regionale commissies voor de toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3), voor zover het betreft beoordelingen op grond van [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=8).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
