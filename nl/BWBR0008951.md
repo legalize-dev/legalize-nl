@@ -4,7 +4,7 @@ identifier: "BWBR0008951"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-01"
-last_updated: "2004-04-01"
+last_updated: "2004-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008951"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 - c. indien de geslachtsnaam van de verzoeker bestaat uit een geslachtsnaam en een reeds op grond van het eerste lid toegevoegde geslachtsnaam.
 
-#### Wijziging van de geslachtsnaam van een minderjarige in die van zijn verzorger of van de overige tot hetzelfde gezin behorende minderjarige kinderen
+#### Wijziging van de geslachtsnaam van een minderjarige
 
 ##### Artikel 3
 
@@ -126,9 +126,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3a
 
-1. Op verzoek van de wettelijk vertegenwoordiger wordt de geslachtsnaam van een minderjarig kind gewijzigd opdat deze geslachtsnaam dezelfde zal zijn als die van de overige tot hetzelfde gezin behorende minderjarige kinderen van dezelfde ouders, indien als gevolg van de toepassing van regels van internationaal privaatrecht verschil in geslachtsnaam tussen de kinderen is ontstaan.
+1. Op verzoek van de wettelijk vertegenwoordiger wordt de geslachtsnaam van een minderjarig kind gewijzigd:
 
-2. [Artikel 3, vierde lid, onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01), is van overeenkomstige toepassing.
+- a. in dezelfde geslachtsnaam als die van de overige tot hetzelfde gezin behorende minderjarige kinderen van dezelfde ouders, indien als gevolg van de toepassing van regels van internationaal privaatrecht verschil in geslachtsnaam tussen de kinderen is ontstaan; of
+
+- b. in de geslachtsnaam naar het recht van een staat waarvan het kind de nationaliteit bezit, indien het kind naast de Nederlandse nationaliteit een andere nationaliteit bezit, een en ander met inachtneming van de [artikelen 12, eerste lid](onbekend), en [17 van het Verdrag tot oprichting van de Europese Gemeenschap](onbekend) en, waar mogelijk, van de gelijkheid van geslachtsnaam van minderjarige kinderen van dezelfde ouders die tot hetzelfde gezin behoren.
+
+2. [Artikel 3, vierde lid, onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09), is van overeenkomstige toepassing.
 
 3. Ten behoeve van kinderen van dezelfde ouders die tot hetzelfde gezin behoren, kunnen op grond van dit artikel slechts gelijkluidende verzoeken om geslachtsnaamswijziging worden ingewilligd.
 
@@ -138,11 +142,11 @@ Hebben goedgevonden en verstaan:
 
 1. Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd:
 
-- a. in een geslachtsnaam als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01), indien de verzorging en opvoeding enige tijd gedurende de minderjarigheid hebben geduurd.
+- a. in een geslachtsnaam als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09), indien de verzorging en opvoeding enige tijd gedurende de minderjarigheid hebben geduurd.
 
-- b. in zijn oorspronkelijke geslachtsnaam, indien de geslachtsnaam gedurende de minderjarigheid op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01) of op grond van [artikel 253t, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t) was gewijzigd.
+- b. in zijn oorspronkelijke geslachtsnaam, indien de geslachtsnaam gedurende de minderjarigheid op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09) of op grond van [artikel 253t, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t) was gewijzigd.
 
-2. Het verzoek, bedoeld in het eerste lid, onder **a**, wordt afgewezen indien de levensgezel bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01), of de persoon, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01), weigert in te stemmen met de verzochte naamswijziging.
+2. Het verzoek, bedoeld in het eerste lid, onder **a**, wordt afgewezen indien de levensgezel bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09), of de persoon, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09), weigert in te stemmen met de verzochte naamswijziging.
 
 3. De geslachtsnaam kan op grond van dit artikel slechts eenmaal worden gewijzigd.
 
@@ -166,17 +170,17 @@ Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artike
 
 ##### Artikel 7
 
-1. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een minderjarige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01) worden gehoord, althans worden daartoe behoorlijk opgeroepen:
+1. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een minderjarige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09) worden gehoord, althans worden daartoe behoorlijk opgeroepen:
 
 - a. de ouders van het kind;
 
 - b. degene aan wie het kind de geslachtsnaam, waarvan wijziging is verzocht, rechtstreeks ontleent;
 
-- c. de in [artikel 3, eerste lid, onder b en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-04-01&g=2004-04-01), bedoelde personen; als mede
+- c. de in [artikel 3, eerste lid, onder b en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2004-06-09&g=2004-06-09), bedoelde personen; als mede
 
 - d. de minderjarige van twaalf jaren of ouder.
 
-2. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een meerderjarige als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=1&z=2004-04-01&g=2004-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=4&z=2004-04-01&g=2004-04-01), of toevoeging van een geslachtsnaam worden gehoord, althans daartoe behoorlijk opgeroepen:
+2. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een meerderjarige als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=1&z=2004-06-09&g=2004-06-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=4&z=2004-06-09&g=2004-06-09), of toevoeging van een geslachtsnaam worden gehoord, althans daartoe behoorlijk opgeroepen:
 
 - a. degene aan wie de meerderjarige de geslachtsnaam waarvan wijziging is verzocht of waaraan toevoeging wordt verzocht, rechtstreeks ontleent;
 
