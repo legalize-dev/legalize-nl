@@ -4,7 +4,7 @@ identifier: "BWBR0001937"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2002-07-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001937"
 soort: "wet"
@@ -42,7 +42,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 1. Onder collectieve arbeidsovereenkomst wordt verstaan de overeenkomst, aangegaan door een of meer werkgevers of een of meer verenigingen met volledige rechtsbevoegdheid van werkgevers en een of meer verenigingen met volledige rechtsbevoegdheid van werknemers, waarbij voornamelijk of uitsluitend worden geregeld arbeidsvoorwaarden, bij arbeidsovereenkomsten in acht te nemen.
 
-2. Zij kan ook betreffen aannemingen van werk en overeenkomsten tot het verrichten van enkele diensten. Hetgeen in deze wet omtrent arbeidsovereenkomsten, werkgevers en werknemers is bepaald, vindt dan overeenkomstige toepassing.
+2. Zij kan ook betreffen aannemingen van werk en overeenkomsten van opdracht. Hetgeen in deze wet omtrent arbeidsovereenkomsten, werkgevers en werknemers is bepaald, vindt dan overeenkomstige toepassing.
 
 3. Nietig is het beding, waarbij een werkgever verplicht wordt arbeiders van een bepaald ras of met een bepaalde godsdienst, levensbeschouwelijke of politieke overtuiging of leden van een bepaalde vereniging in dienst te nemen of waarbij hij zich verplicht, te weigeren hen in dienst te nemen.
 
@@ -116,8 +116,6 @@ Wanneer bij de collectieve arbeidsovereenkomst niet anders is bepaald, is de wer
 
 3. In afwijking van het eerste en het tweede lid zijn op rechten en verplichtingen van de werkgever die voortvloeien uit een bepaling in een collectieve arbeidsovereenkomst, die betrekking heeft op een pensioenvoorziening als bedoeld in [artikel 1, eerste lid, onder a, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), dan wel op een spaarregeling als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=3), de [artikelen 663](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) en [664 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=664) van toepassing.
 
-4. Het tweede lid is van overeenkomstige toepassing op de rechten en verplichtingen welke voortvloeien uit een collectieve arbeidsovereenkomst en krachtens fusie zijn overgegaan op de verkrijgende rechtspersoon.
-
 ##### Artikel 15
 
 Eene vereeniging, welke eene collectieve arbeidsovereenkomst heeft aangegaan, kan, indien eene der andere partijen bij die overeenkomst of een der leden van dezen handelt in strijd met eene harer of zijner verplichtingen, vergoeding vorderen niet alleen voor de schade, welke zij zelve dientengevolge lijdt, doch ook voor die, welke hare leden lijden.
@@ -166,7 +164,7 @@ De gevolgen van eene collectieve arbeidsovereenkomst, van kracht bij de inwerkin
 
 ##### Artikel 26
 
-Ten aanzien van vereenigingen, welke op het tijdstip van de inwerkingtreding dezer wet partij zijn of in de twee daaraan voorafgaande jaren partij geweest zijn bij eene collectieve arbeidsovereenkomst, vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=2&z=2002-07-01&g=2002-07-01) eerst twee jaren na die inwerkingtreding toepassing.
+Ten aanzien van vereenigingen, welke op het tijdstip van de inwerkingtreding dezer wet partij zijn of in de twee daaraan voorafgaande jaren partij geweest zijn bij eene collectieve arbeidsovereenkomst, vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=2&z=2004-05-01&g=2004-05-01) eerst twee jaren na die inwerkingtreding toepassing.
 
 ##### Artikel 27
 
