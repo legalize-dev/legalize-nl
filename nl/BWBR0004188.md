@@ -245,15 +245,3 @@ Vervallen
 Deze wet kan worden aangehaald als "Les- en cursusgeldwet".
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5b. Verstrekken van gegevens aan minister
-
-De Informatie Beheer Groep kan aan onze minister ten behoeve van de bekostiging van instellingen gegevens verstrekken over het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2006-08-01&g=2006-08-01), bedoelde bewijs voor zover het personen betreft die zijn opgenomen in het basisregister onderwijs.
-
-### Hoofdstuk III. Cursusgeld
-
-### Hoofdstuk IV. Bijzondere bepalingen
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
