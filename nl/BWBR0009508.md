@@ -4,7 +4,7 @@ identifier: "BWBR0009508"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-25"
-last_updated: "2002-01-28"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009508"
 soort: "wet"
@@ -76,7 +76,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De Bank handelt in overeenstemming met het beginsel van een open markteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in [artikel 3 A van het Verdrag](onbekend).
 
-4. De Bank heeft voorts als doelstelling het uitvoeren van taken, anders dan die bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28), voorzover deze haar bij of krachtens de wet zijn opgedragen.
+4. De Bank heeft voorts als doelstelling het uitvoeren van taken, anders dan die bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-10-30&g=2004-10-30), voorzover deze haar bij of krachtens de wet zijn opgedragen.
 
 ##### Artikel 3
 
@@ -110,7 +110,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 5
 
-De Bank is bevoegd die werkzaamheden te verrichten die nodig zijn ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2002-01-28&g=2002-01-28) genoemde taken, waaronder met name de werkzaamheden die in deze paragraaf zijn genoemd. De Bank verricht deze werkzaamheden in overeenstemming met het Verdrag.
+De Bank is bevoegd die werkzaamheden te verrichten die nodig zijn ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-10-30&g=2004-10-30) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-10-30&g=2004-10-30) genoemde taken, waaronder met name de werkzaamheden die in deze paragraaf zijn genoemd. De Bank verricht deze werkzaamheden in overeenstemming met het Verdrag.
 
 ##### Artikel 6
 
@@ -156,7 +156,9 @@ Bepalingen van[boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci
 
 3. De president en de directeuren kunnen slechts uit hun functie worden geschorst of ontheven indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of op ernstige wijze zijn tekortgeschoten.
 
-4. Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.
+4. Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-10-30&g=2004-10-30), neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.
+
+5. De salarissen en de toezeggingen omtrent het pensioen alsmede regelingen omtrent vergoeding van onkosten van de president en de directeuren worden vastgesteld door de raad van commissarissen en goedgekeurd door Onze Minister.
 
 ##### Artikel 13
 
@@ -172,13 +174,13 @@ Bepalingen van[boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci
 
 1. Ten behoeve van Onze Minister kan degene die ingevolge artikel 13, tweede lid, tot lid van de raad van commissarissen is benoemd op verzoek van Onze Minister of uit eigen beweging en met inachtneming van [artikel 107 van het Verdrag](onbekend) bij de directie van de Bank gegevens en inlichtingen inwinnen over de wijze waarop de Bank haar taken uitvoert. Hij kan op verzoek van Onze Minister of uit eigen beweging en met inachtneming van [artikel 107 van het Verdrag](onbekend) zijn bevindingen aan Onze Minister kenbaar maken.
 
-2. De directie van de Bank is gehouden de in het eerste lid bedoelde persoon telkens op diens aanvraag al die gegevens en inlichtingen te verstrekken, welke hij tot behoorlijke uitoefening van zijn taak als bedoeld in het eerste lid, nodig acht, met uitzondering van gegevens en inlichtingen die ingevolge het Verdrag of de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2002-01-28&g=2002-01-28) bedoelde wettelijke regelingen geheim zijn.
+2. De directie van de Bank is gehouden de in het eerste lid bedoelde persoon telkens op diens aanvraag al die gegevens en inlichtingen te verstrekken, welke hij tot behoorlijke uitoefening van zijn taak als bedoeld in het eerste lid, nodig acht, met uitzondering van gegevens en inlichtingen die ingevolge het Verdrag of de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-10-30&g=2004-10-30) bedoelde wettelijke regelingen geheim zijn.
 
 ##### Artikel 15
 
 1. Er is een bankraad, bestaande uit tenminste elf en ten hoogste dertien leden, te weten:
 
-- a. het in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28) bedoelde lid van de raad van commissarissen;
+- a. het in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2004-10-30&g=2004-10-30) bedoelde lid van de raad van commissarissen;
 
 - b. één door de raad van commissarissen uit hun midden aan te wijzen lid;
 
@@ -202,25 +204,25 @@ Bepalingen van[boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci
 
 1. De [artikelen 2:363, zesde lid](onbekend), [2:380](onbekend), [2:383, tweede lid, tweede zin](onbekend), met uitzondering van de openstaande bedragen, alsmede de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=3) en [4 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=4) zijn niet van toepassing op de Bank. De Bank mag, mede ter bepaling van het resultaat, de waardering van de beleggingen, effecten en valuta doen berusten op grondslagen die afwijken van het bepaalde in [artikel 2:384, eerste lid, tweede zin, of tweede lid, tweede zin, van het Burgerlijk Wetboek](onbekend), voorzover dit in overeenstemming is met hetgeen in [afdeling 14 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) daaromtrent is bepaald.
 
-2. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af, voorzover die afwijking naar het oordeel van de raad van commissarissen noodzakelijk is voor de verwezenlijking van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28) bedoelde doelstellingen.
+2. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af, voorzover die afwijking naar het oordeel van de raad van commissarissen noodzakelijk is voor de verwezenlijking van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-10-30&g=2004-10-30) bedoelde doelstellingen.
 
-3. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af voor zover die afwijking noodzakelijk is om uitvoering te kunnen geven aan instructies, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2002-01-28&g=2002-01-28). De Bank stelt de raad van commissarissen onverwijld van de afwijking in kennis.
+3. Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) wijkt de Bank bovendien af voor zover die afwijking noodzakelijk is om uitvoering te kunnen geven aan instructies, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-10-30&g=2004-10-30). De Bank stelt de raad van commissarissen onverwijld van de afwijking in kennis.
 
 ### Hoofdstuk IV. Inlichtingen en geheimhouding
 
 ##### Artikel 18
 
-1. Onze Minister is, met inachtneming van [artikel 107 van het Verdrag](onbekend), bevoegd de Bank met betrekking tot de taken en werkzaamheden ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), bedoelde doelstelling, gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn ter bepaling van het financieel-economisch beleid van de regering.
+1. Onze Minister is, met inachtneming van [artikel 107 van het Verdrag](onbekend), bevoegd de Bank met betrekking tot de taken en werkzaamheden ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-10-30&g=2004-10-30), bedoelde doelstelling, gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn ter bepaling van het financieel-economisch beleid van de regering.
 
 2. De Bank is, met inachtneming van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, verplicht aan Onze Minister de in het eerste lid bedoelde gegevens en inlichtingen te verstrekken.
 
 ##### Artikel 19
 
-Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), kan de president van de Bank, met inachtneming van [artikel 107 van het Verdrag](onbekend) en van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, door elk der beide kamers der Staten-Generaal op hun verzoek worden gehoord.
+Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-10-30&g=2004-10-30), kan de president van de Bank, met inachtneming van [artikel 107 van het Verdrag](onbekend) en van artikel 10.4 en artikel 38 van de Statuten van het Europees Stelsel van Centrale Banken, door elk der beide kamers der Staten-Generaal op hun verzoek worden gehoord.
 
 ##### Artikel 20
 
-Voor zover deze wet strekt ter uitvoering van de handelingen ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2002-01-28&g=2002-01-28), bedoelde doelstelling, is het aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen die hij bij die taakuitvoering heeft verkregen verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
+Voor zover deze wet strekt ter uitvoering van de handelingen ter verwezenlijking van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-10-30&g=2004-10-30), bedoelde doelstelling, is het aan een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen die hij bij die taakuitvoering heeft verkregen verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
 
 ### Hoofdstuk V. Wijziging van andere wetten
 
@@ -270,23 +272,23 @@ Wijzigt deze wet.
 
 ##### Artikel 28
 
-Na inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2002-01-28&g=2002-01-28) van deze wet berusten de koninklijk besluiten die op grond van artikel 23, leden 1 en 2, van de Bankwet 1948 van kracht zijn, op [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2002-01-28&g=2002-01-28), van deze wet.
+Na inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2004-10-30&g=2004-10-30) van deze wet berusten de koninklijk besluiten die op grond van artikel 23, leden 1 en 2, van de Bankwet 1948 van kracht zijn, op [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=12&z=2004-10-30&g=2004-10-30), van deze wet.
 
 ##### Artikel 29
 
-1. De benoeming voor de eerste maal van de leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), geschiedt door de aandeelhouders binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de commissarissen, benoemd overeenkomstig artikel 27 van de Bankwet 1948, af.
+1. De benoeming voor de eerste maal van de leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2004-10-30&g=2004-10-30), geschiedt door de aandeelhouders binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de commissarissen, benoemd overeenkomstig artikel 27 van de Bankwet 1948, af.
 
-2. De voor de eerste maal benoemde leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), hebben, in afwijking van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2002-01-28&g=2002-01-28), zitting voor de tijd van één tot vier jaren volgens een door de raad van commissarissen op te stellen rooster.
+2. De voor de eerste maal benoemde leden van de raad van commissarissen, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2004-10-30&g=2004-10-30), hebben, in afwijking van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=13&z=2004-10-30&g=2004-10-30), zitting voor de tijd van één tot vier jaren volgens een door de raad van commissarissen op te stellen rooster.
 
 ##### Artikel 30
 
-1. De benoeming voor de eerste maal van de leden van de bankraad, bedoeld in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=15&z=2002-01-28&g=2002-01-28), geschiedt door de Bank binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de leden van de bankraad, benoemd overeenkomstig artikel 32 van de Bankwet 1948, af.
+1. De benoeming voor de eerste maal van de leden van de bankraad, bedoeld in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=III&artikel=15&z=2004-10-30&g=2004-10-30), geschiedt door de Bank binnen 8 weken na inwerkingtreding van deze wet. Op dat tijdstip treden de leden van de bankraad, benoemd overeenkomstig artikel 32 van de Bankwet 1948, af.
 
 2. De overeenkomstig het eerste lid benoemde leden hebben zitting voor de tijd van één tot vier jaren, volgens een door de bankraad op te stellen rooster.
 
 ##### Artikel 31
 
-Na de inwerkingtreding van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2002-01-28&g=2002-01-28) van deze Wet berusten de koninklijke besluiten die op grond van artikel 21 van de Bankwet 1948 van kracht zijn, op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2002-01-28&g=2002-01-28) van deze wet.
+Na de inwerkingtreding van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2004-10-30&g=2004-10-30) van deze Wet berusten de koninklijke besluiten die op grond van artikel 21 van de Bankwet 1948 van kracht zijn, op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&hoofdstuk=II&paragraaf=2&artikel=9&z=2004-10-30&g=2004-10-30) van deze wet.
 
 ##### Artikel 32
 
