@@ -4,7 +4,7 @@ identifier: "BWBR0002999"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002999"
 soort: "AMvB"
@@ -46,11 +46,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 58,99 per dag.
+Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 90,76 per dag.
 
 ##### Artikel 2
 
-Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 45,38.
+Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 90,76 per dag.
 
 ##### Artikel 3
 
