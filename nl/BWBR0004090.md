@@ -4,7 +4,7 @@ identifier: "BWBR0004090"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2002-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004090"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de topsporter die 
 
 ##### Artikel 5
 
-1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die, anders dan bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2002-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4&z=2002-01-01&g=2002-01-01) en [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4a&z=2002-01-01&g=2002-01-01), persoonlijk arbeid verricht op doorgaans ten minste twee dagen per week.
+1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die, anders dan bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2005-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4&z=2002-01-01&g=2005-01-01) en [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4a&z=2002-01-01&g=2005-01-01), persoonlijk arbeid verricht op doorgaans ten minste twee dagen per week.
 
 2. De arbeidsverhouding, bedoeld in het eerste lid, wordt niet als dienstbetrekking beschouwd, indien:
 
@@ -92,15 +92,15 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de topsporter die 
 
 - b. de persoon, werkzaam in de arbeidsverhouding, behoort tot een groep personen, aangewezen door Onze Minister.
 
-3. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2002-01-01), is van toepassing op de arbeidsverhouding, bedoeld in het eerste lid, met dien verstande dat in plaats van het bruto-inkomen per maand het bruto-inkomen per week en in plaats van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=8&z=2002-01-01&g=2002-01-01), het minimumloon, bedoeld in [artikel 8, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), in aanmerking wordt genomen.
+3. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2005-01-01), is van toepassing op de arbeidsverhouding, bedoeld in het eerste lid, met dien verstande dat in plaats van het bruto-inkomen per maand het bruto-inkomen per week en in plaats van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=8&z=2002-01-01&g=2005-01-01), het minimumloon, bedoeld in [artikel 8, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), in aanmerking wordt genomen.
 
 ##### Artikel 6
 
-Als werkgever wordt beschouwd in de gevallen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2002-01-01), de natuurlijke persoon op wie of het lichaam waarop de verplichting rust het loon te betalen.
+Als werkgever wordt beschouwd in de gevallen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2005-01-01), de natuurlijke persoon op wie of het lichaam waarop de verplichting rust het loon te betalen.
 
 ##### Artikel 7
 
-Onder bruto-inkomen, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2002-01-01), wordt verstaan het loon in de zin van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
+Onder bruto-inkomen, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2002-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2005-01-01), wordt verstaan het loon in de zin van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
 ##### Artikel 8
 
@@ -122,7 +122,7 @@ Onder bruto-inkomen, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1
 
 ##### Artikel 9
 
-Tussen Onze Minister en Onze Minister van Financiën dient overeenstemming te bestaan omtrent het aanwijzen van een groep personen of van gevallen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=2&z=2002-01-01&g=2002-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2002-01-01) en omtrent het stellen van regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=8&z=2002-01-01&g=2002-01-01).
+Tussen Onze Minister en Onze Minister van Financiën dient overeenstemming te bestaan omtrent het aanwijzen van een groep personen of van gevallen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=2&z=2002-01-01&g=2005-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2002-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2002-01-01&g=2005-01-01) en omtrent het stellen van regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=8&z=2002-01-01&g=2005-01-01).
 
 ##### Artikel 10
 
