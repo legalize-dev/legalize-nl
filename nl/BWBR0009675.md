@@ -1,0 +1,237 @@
+---
+title: "Besluit van 8 juni 1998, houdende het Warenwetbesluit Vlees, gehakt en vleesproducten"
+identifier: "BWBR0009675"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2001-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009675"
+soort: "AMvB"
+stam_id: "811973"
+version_id: "1176022"
+internal_id: "C1176021"
+label_id: "786504"
+dtd_version: "2.0"
+original_entry_into_force: "1999-09-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009675/2026-01-01/0"
+intitule_bron: "Stb.1998-351"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-08"
+intitule_published: "1998-06-23"
+intitule_in_force: "1998-06-23"
+intitule_status: "goed"
+original_publication: "Stb.1999-385"
+original_signed_date: "1999-08-20"
+original_published_date: "1999-09-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1999-385"
+entry_into_force_date: "1999-09-17"
+jci_1_3: "jci1.3:c:BWBR0009675&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0009675&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Vlees, gehakt en vleesproducten"
+signed_date: "1999-08-20"
+entry_into_force: "1999-09-17"
+---
+# Besluit van 8 juni 1998, houdende het Warenwetbesluit Vlees, gehakt en vleesproducten
+
+Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 oktober 1997, nr. GZB/VVB/975553, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
+
+Gelet op beschikking nr. 97/534/EG van de Commissie van 30 juli 1997 houdende verbod, in verband met overdraagbare spongiforme encefalopathieën, op het gebruik van risicomateriaal (PbEG L 216), op artikel 11, eerste lid, van de Wijzigingswet 1988 Warenwet, alsmede op [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=4), [artikel 8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=8), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=12) en [artikel 14 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=14);
+
+De Raad van State gehoord (advies van 18 december 1997, no. W13.97.0642);
+
+Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 juni 1998 met nummer GZB/VVB/982331, uitgebracht in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
+
+Hebben goedgevonden en verstaan:
+
+#### § 1:. algemene bepalingen
+
+##### Artikel 1
+
+1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **slachtdier:** runderen (de soorten Bubalus bubalis en Bison bison daaronder begrepen), varkens, schapen, geiten en eenhoevigen en niet-gedomesticeerde landzoogdieren, niet zijnde lagomorfen, die in gevangenschap zijn gekweekt, gehouden en geslacht;
+
+- b. **vlees:** alle voor menselijke consumptie geschikte delen van als landbouwhuisdier gehouden slachtdieren;
+
+- c. **separatorvlees:** vlees dat machinaal is afgescheiden van beenderen met daaraan vastzittend vlees;
+
+- d. **gehakt vlees:** vlees dat in kleine stukken is gehakt of door een gehaktmolen is gehaald;
+
+- e. **kruiderijen:** zout voor menselijke consumptie, mosterd, specerijen en aromatische extracten daarvan, aromatische kruiden en aromatische extracten daarvan;
+
+- f. **vleesbereiding:** vlees waaraan eet- of drinkwaren, kruiderijen of levensmiddelenadditieven zijn toegevoegd, of dat een behandeling heeft ondergaan in een mate die niet volstaat om de inwendige celstructuur van het vlees te veranderen zodat de kenmerken van vers vlees niet zijn verdwenen;
+
+- g. **gehakt:** al dan niet toebereide vleesbereiding, niet zijnde separatorvlees, afkomstig van één of meer slachtdieren, die:
+
+- –. door hakken, malen of op andere wijze min of meer sterk verkleind is; zodanig kneedbaar is dat het tot verschillende vormen te bewerken is; en
+
+- –. geen vleesvreemd eiwit bevat;
+
+- h. **vleesproduct:** product bereid van of met zodanig behandeld vlees dat, aan de hand van het snijvlak van de hartdoorsnijding, de verdwijning van de kenmerken van vers vlees kan worden geconstateerd, met uitzondering van vlees dat alleen een koudebehandeling heeft ondergaan, gehakt vlees en vleesbereidingen;
+
+- i. **zetmeelgehalte:** gehalte aan watervrij zetmeel;
+
+- j. **procentueel gehalte aan organisch niet-vet:** het percentage dat wordt verkregen door het percentage 100 te verminderen met het procentuele water-, vet-, zetmeel- en asgehalte van de waar;
+
+- k. **Federgetal:** het quotiënt van het procentuele watergehalte en het procentuele gehalte aan organisch niet-vet van de waar;
+
+- l. **startercultuur:** reincultuur van één type micro-organisme of een mengsel van meer dan één type micro-organismen, beide bedoeld om een fermentatieproces te sturen en te versnellen;
+
+- m. **%:** massaprocent;
+
+- n. **richtlijn 97/4/EG:** [richtlijn nr. 97/4/EG](31997L0004) van het Europees Parlement en de Raad van de Europese Unie van 27 januari 1997 (PbEG L 43) houdende wijziging van [richtlijn 79/112/EEG](31979L0112) betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake etikettering en presentatie van levensmiddelen alsmede inzake de daarvoor gemaakte reclame;
+
+- o. **richtlijn 94/65/EG:** [richtlijn nr. 94/65/EG](31994L0065) van de Raad van de Europese Unie van 14 december 1994 tot vaststelling van voorschriften voor de productie en het in de handel brengen van gehakt vlees en vleesbereidingen (PbEG L 368);
+
+- p. **wildezwijnenvlees**: spiervlees afkomstig van varkens die niet in gevangenschap zijn gekweekt, niet in gevangenschap zijn gehouden en niet in gevangenschap zijn geslacht.
+
+2. De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van [artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
+
+3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in [artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
+
+4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2001-06-20&g=2001-06-20) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+
+##### Artikel 2
+
+1. Het is verboden vlees, wildezwijnenvlees, separatorvlees, gehakt vlees, vleesbereidingen, gehakt, en vleesproducten, te bereiden of te verhandelen die niet voldoen aan de bij of krachtens dit besluit met betrekking tot hun samenstelling gestelde eisen.
+
+2. Het is verboden vleesbereidingen en gehakt vlees te bereiden, te behandelen, te bewerken, of te verwerken anders dan met inachtneming van de krachtens dit besluit gestelde voorschriften.
+
+3. Het is verboden vleesbereidingen en gehakt vlees te bereiden, te behandelen, te bewerken, of te verwerken anders dan in werkplaatsen die krachtens dit besluit zijn erkend.
+
+4. Het is verboden vleesbereidingen en gehakt vlees te verhandelen, niet zijnde verhandeling aan de eindverbruiker, anders dan in een verpakking die voldoet aan de krachtens dit besluit gestelde eisen.
+
+5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
+
+6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2001-06-20&g=2001-06-20).
+
+#### § 2a:. implementatie [richtlijn 94/65/EG](31994L0065) – voorschriften inzake de productie en het in de handel brengen van vleesbereidingen en gehakt vlees
+
+##### Artikel 2a
+
+1. Vleesbereidingen en gehakt vlees worden op hygiënische wijze bereid, behandeld, bewerkt, verwerkt en verhandeld, en voorzien van passende etikettering.
+
+2. Onze Minister stelt ter uitvoering van [richtlijn 94/65/EG](31994L0065) bij ministeriële regeling nadere regels vast inzake het eerste lid, met dien verstande dat daarbij gebruik wordt gemaakt van de mogelijkheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2001-06-20&g=2001-06-20), [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2001-06-20&g=2001-06-20), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20), van [richtlijn 94/65/EG](31994L0065). De afwijking, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=5&z=2001-06-20&g=2001-06-20), eerste alinea, van [richtlijn 94/65/EG](31994L0065), zal uitsluitend gelden voor werkplaatsen die:
+
+- a. per week niet meer dan 7,5 ton vleesbereidingen produceren; of
+
+- b. op grond van [artikel 10 van het Besluit produktie en handel vers vlees](https://wetten.overheid.nl/jci1.3:c:BWBR0006294&artikel=10) zijn erkend en per week niet meer dan 5 ton vleesbereidingen produceren.
+
+#### § 2b:. aanvullende voorschriften inzake bereiding en samenstelling
+
+##### Artikel 3
+
+Bij de bereiding van eetwaren wordt geen gebruik gemaakt van:
+
+- a. fijnverdeelde beenderen;
+
+- b. fijnverdeeld kraakbeen;
+
+- c. uit beenderen of uit kraakbeen bereide producten, met uitzondering van gelatine of bouillon;
+
+- d. darmen die ten gevolge van een bewerking kleurstoffen en andere stoffen dan die, eigen aan vlees of vleesproducten, aan de waar kunnen afgeven;
+
+- e. bloed en daarvan afgeleide producten waaraan andere levensmiddelenadditieven zijn toegevoegd dan die welke ter zake zijn toegelaten krachtens het [Warenwetbesluit Levensmiddelenadditieven](https://wetten.overheid.nl/jci1.3:c:BWBR0005456) onder de daarbij vermelde voorwaarden;
+
+- f. schildklierweefsel.
+
+##### Artikel 3a
+
+Separatorvlees van:
+
+- a. kopbeenderen en poten onder het kniegewricht of onder het spronggewricht van andere slachtdieren dan runderen, schapen en geiten;
+
+- b. runderen, schapen en geiten; of
+
+- c. varkensstaarten;
+
+wordt niet bereid, verhandeld of verwerkt in eet- of drinkwaren.
+
+##### Artikel 3b
+
+Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zijn “.” .
+
+##### Artikel 4
+
+Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2001-06-20&g=2001-06-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2001-06-20&g=2001-06-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2001-06-20&g=2001-06-20),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2001-06-20&g=2001-06-20) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2001-06-20&g=2001-06-20) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+
+##### Artikel 5
+
+1. Het Federgetal van gehakt, en van een andere eetwaar met ten minste 80% vlees, is ten hoogste 4,0.
+
+2. Het eerste lid is niet van toepassing indien de daar bedoelde waar:
+
+- a. zich bevindt in azijn, in een waterige keukenzoutoplossing, of in een andere waterige oplossing; of
+
+- b. bereid is met gelei.
+
+3. Het eerste lid is niet van toepassing op een als **bloedworst, balkenbrij, bakleverworst, hoofdkaas, beuling, preskop** of **zure zult** aangeduide eetwaar.
+
+4. In afwijking van het eerste lid mag gehakt, of een andere eetwaar met ten minste 80% vlees, een hoger Federgetal dan 4,0 hebben, voor zover de aanduiding van die waar vergezeld gaat van beschrijvende vermeldingen waardoor de consument in staat is die waar te onderscheiden van een in het eerste lid bedoelde waar met een Federgetal van ten hoogste 4,0.
+
+#### § 3:. gereserveerde aanduidingen
+
+##### Artikel 6
+
+De aanduiding **vlees** mag uitsluitend worden gebezigd voor vlees, niet zijnde bloed, voor zover die aanduiding vergezeld gaat van de naam van het soort slachtdier waarvan het vlees afkomstig is.
+
+##### Artikel 7
+
+De aanduiding **gehakt** mag uitsluitend worden gebezigd voor gehakt met een vetgehalte van ten hoogste 35%, voor zover die aanduiding vergezeld gaat van:
+
+- –. de naam van het soort slachtdier; of
+
+- –. in volgorde van afnemend gewicht, de namen van de soorten slachtdieren; waarvan het vlees afkomstig is.
+
+##### Artikel 8
+
+De aanduiding **half om half** mag uitsluitend worden gebezigd voor gehakt dat voor de ene helft van runderen en voor de andere helft van varkens afkomstig is, waarbij in de onderlinge verhouding een afwijking van 10% absoluut is toegestaan.
+
+##### Artikel 9
+
+De aanduiding **tartaar** mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 10%.
+
+##### Artikel 10
+
+De aanduiding **gehakte biefstuk** mag uitsluitend worden gebezigd voor gehakt dat afkomstig is van runderen, met een vetgehalte van ten hoogste 6%.
+
+##### Artikel 11
+
+Vervallen
+
+#### § 4:. vermeldingen
+
+##### Artikel 12
+
+De vermelding **mager** of **magere** mag worden gebezigd bij:
+
+- a. vlees en vleesproducten, uitsluitend voorzover het vetgehalte van de waar ten hoogste 20% bedraagt;
+
+- b. gehakt van mager vlees, uitsluitend voorzover het vetgehalte van de waar ten hoogste 7% bedraagt.
+
+#### § 5:. slotbepalingen
+
+##### Artikel 13
+
+1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische, fysische, chemische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
+
+2. Onze Minister kan nadere regels vaststellen inzake het eerste lid.
+
+##### Artikel 14
+
+Het Vlees- en vleeswarenbesluit (Warenwet) 1987 wordt ingetrokken.
+
+##### Artikel 15
+
+1. Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat voorverpakte eetwaren die zijn aangeduid op de voet van artikel 6, tweede lid, van het Vlees- en vleeswarenbesluit (Warenwet) 1987 zoals dat luidde onmiddellijk vóór 1 juli 1998, nog verhandeld mogen worden tot 14 februari 2000.
+
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2001-06-20&g=2001-06-20) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
+
+##### Artikel 16
+
+Dit besluit wordt aangehaald als: Warenwetbesluit Vlees, gehakt en vleesproducten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
