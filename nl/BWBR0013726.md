@@ -56,9 +56,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling vervangt de besluiten van de Minister van Buitenlandse Zaken van 21 maart 2000/nr. [DJZ/IR-148/00](https://wetten.overheid.nl/jci1.3:c:BWBR0011243) (Stcrt. 2000, 62) en van 28 januari 1999/nr. DJZ/CR-572/98 (Stcrt. 1999, 99).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Na het verstrijken van de geldigheidsduur van de [Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311) wordt de vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=1&z=2021-04-08&g=2021-01-01) en [artikel 2, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=2&z=2021-04-08&g=2021-01-01), voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
