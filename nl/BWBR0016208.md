@@ -4,7 +4,7 @@ identifier: "BWBR0016208"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2004-03-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016208"
 soort: "wet"
@@ -95,7 +95,7 @@ Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XVI. Overgangsrecht inkomstenbelasting
 
@@ -105,19 +105,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2004-03-01&g=2004-03-01) en [artikel II, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=II&z=2004-03-01&g=2004-03-01), werken terug tot en met 1 januari 2001.
+2. [Artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2005-01-01&g=2005-01-01) en [artikel II, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=II&z=2005-01-01&g=2005-01-01), werken terug tot en met 1 januari 2001.
 
-3. [Artikel IV, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2004-03-01&g=2004-03-01), werkt terug tot en met 1 januari 2002.
+3. [Artikel IV, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2005-01-01&g=2005-01-01), werkt terug tot en met 1 januari 2002.
 
-4. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2004-03-01&g=2004-03-01), [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=II&z=2004-03-01&g=2004-03-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=III&z=2004-03-01&g=2004-03-01), [artikel IV, onderdelen D tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2004-03-01&g=2004-03-01), [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=V&z=2004-03-01&g=2004-03-01) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VI&z=2004-03-01&g=2004-03-01) werken terug tot en met 1 januari 2003.
+4. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2005-01-01&g=2005-01-01), [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=II&z=2005-01-01&g=2005-01-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=III&z=2005-01-01&g=2005-01-01), [artikel IV, onderdelen D tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2005-01-01&g=2005-01-01), [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=V&z=2005-01-01&g=2005-01-01) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VI&z=2005-01-01&g=2005-01-01) werken terug tot en met 1 januari 2003.
 
-5. [Artikel VII, onderdeel A eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VII&z=2004-03-01&g=2004-03-01) en de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XI&z=2004-03-01&g=2004-03-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XII&z=2004-03-01&g=2004-03-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XIII&z=2004-03-01&g=2004-03-01) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XIV&z=2004-03-01&g=2004-03-01), werken terug tot en met 1 april 2003.
+5. [Artikel VII, onderdeel A eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VII&z=2005-01-01&g=2005-01-01) en de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XI&z=2005-01-01&g=2005-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XII&z=2005-01-01&g=2005-01-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XIII&z=2005-01-01&g=2005-01-01) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XIV&z=2005-01-01&g=2005-01-01), werken terug tot en met 1 april 2003.
 
-6. [Artikel VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VIII&z=2004-03-01&g=2004-03-01), werkt terug tot en met 4 september 2003.
+6. [Artikel VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=VIII&z=2005-01-01&g=2005-01-01), werkt terug tot en met 4 september 2003.
 
-7. [Artikel I, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2004-03-01&g=2004-03-01), en [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XVI&z=2004-03-01&g=2004-03-01), werken terug tot en met 1 januari 2004.
+7. [Artikel I, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2005-01-01&g=2005-01-01), en [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XVI&z=2005-01-01&g=2005-01-01), werken terug tot en met 1 januari 2004.
 
-8. [Artikel I, onderdelen B, C, D, E, F, G, H](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2004-03-01&g=2004-03-01), [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2004-03-01&g=2004-03-01), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XV&z=2004-03-01&g=2004-03-01) treden in werking met ingang van 1 januari 2005.
+8. [Artikel I, onderdelen B, C, D, E, F, G, H](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=I&z=2005-01-01&g=2005-01-01), [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=IV&z=2005-01-01&g=2005-01-01), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0016208&artikel=XV&z=2005-01-01&g=2005-01-01) treden in werking met ingang van 1 januari 2005.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
