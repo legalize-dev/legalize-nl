@@ -4,7 +4,7 @@ identifier: "BWBR0011259"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-09-01"
-last_updated: "2000-04-21"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011259"
 soort: "AMvB"
@@ -52,8 +52,8 @@ Wijzigt het Besluit veiligheid attractie- en speeltoestellen.
 
 ##### ARTIKEL II
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0011259&artikel=I&z=2000-04-21&g=2000-04-21), dat voor voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit, in werking treedt met ingang van de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van voornoemd Staatsblad.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0011259&artikel=I&z=2003-09-01&g=2003-09-01), dat voor voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit, in werking treedt met ingang van de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van voornoemd Staatsblad.
 
-De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=6), [7 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=7),[8 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=8), en [14 eerste lid, van het Besluit veiligheid attractie- en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=14) zijn niet van toepassing op voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit.
+De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=6), [7 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=7), [8 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=8), en [14 eerste lid, van het Warenwetbesluit attractie en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=14) zijn niet van toepassing op voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
