@@ -4,7 +4,7 @@ identifier: "BWBR0011136"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011136"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als categorieën van personen, bedoeld in de [artikelen 19b, vierde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19b), [19a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19a), en [47b, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=47b), [7b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7b), en [21b, vierde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=21b), [6b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6b), en [20a, vierde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=20a), [19, achtste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [32c, derde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32c), [13, derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13), [6, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=6), [6, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=6), en [5, derde lid, van de Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344&artikel=5), worden aangewezen degenen, die:
+Als categorieën van personen, bedoeld in de [artikelen 19b, vierde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19b), [19a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19a), en [47b, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=47b), [7b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7b), en [21b, vierde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=21b), [6b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6b), en [20a, vierde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=20a), [19, achtste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [32c, derde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32c), [13, derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13), [6, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=6), [6, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=6), en [10, derde lid, van de Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=10), worden aangewezen degenen, die:
 
 - a. deelnemen aan een penitentiair programma als bedoeld in [artikel 4, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4);
 
@@ -72,6 +72,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-Dit besluit berust mede op [artikel 13, derde lid, van de Wet werk en bijstand](onbekend).
+Dit besluit berust mede op [artikel 13, derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13) en [artikel 10, derde lid, van de Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=10).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
