@@ -79,9 +79,3 @@ Het Antilliaanse en Arubaanse lid dienen hun vaste woonplaats te hebben binnen N
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 7
-
-Dit besluit wordt aangehaald als: Besluit staatsraden voor Aruba, Curaçao en Sint Maarten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
