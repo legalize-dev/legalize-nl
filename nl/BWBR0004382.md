@@ -4,7 +4,7 @@ identifier: "BWBR0004382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-01-24"
-last_updated: "1994-06-22"
+last_updated: "2004-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004382"
 soort: "ministeriele-regeling"
@@ -71,12 +71,6 @@ De registerloods moet vermijden enige verplichting aan te gaan die zijn vrijheid
 - 3. Indien ten aanzien van de registerloods binnen een periode van 360 aaneengesloten dagen ten minste twee keer is opgetreden krachtens het tweede lid kan het bestuur van de regionale loodsencorporatie, in het geval er op grond van feiten of omstandigheden met betrekking tot de registerloods een redelijk vermoeden bestaat dat de registerloods het verbod als omschreven in het eerste lid zal kunnen overtreden, bepalen dat de registerloods zijn diensten niet mag verlenen totdat naar het oordeel van het bestuur is gebleken dat de grond voor dat redelijk vermoeden heeft opgehouden te bestaan.
 
 - 4. Bij de toepassing van het derde lid is het bestuur verplicht een deskundige te raadplegen.
-
-- 1. De registerloods mag zijn medewerking niet verlenen bij het doorvaren van een schip, dat nog niet op een gebruikelijke plaats is ingeklaard, tenzij de daartoe bevoegde autoriteit hiertoe toestemming heeft verleend of weeromstandigheden, dan wel bijzondere omstandigheden hiertoe dwingen.
-
-- 2. De registerloods mag geen schip naar zee loodsen, dat niet is uitgeklaard, tenzij door de kapitein een deugdelijk bewijs van de dienst der invoerrechten en accijnzen kan worden overgelegd ten bewijze dat geen uitklaring is vereist.
-
-- 3. De registerloods dient het voor hem bestemde gedeelte van het uitklaringsbewijs in ontvangst te nemen.
 
 - 1. De registerloods dient in geval van een scheepsramp als bedoeld in artikel 10, derde lid, van het Loodsplichtbesluit (Stb. 1988, 397), waarbij hij betrokken is geweest het bestuur van de regionale loodsencorporatie, waartoe hij behoort, een schriftelijke verklaring inzake het gebeurde en zijn beroepsuitoefening daarbij te doen toekomen en desgevraagd nader toe te lichten.
 
