@@ -4,7 +4,7 @@ identifier: "BWBR0014450"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-07-01"
-last_updated: "2003-02-01"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014450"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Wijzigt het Besluit verplicht bodemonderzoek bedrijfsterreinen.
 
 ##### Artikel IV
 
-1. Gedurende een jaar na inwerkingtreding van [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2003-02-01&g=2003-02-01), blijft KIWA Inspecties BV, gevestigd te Rijswijk, gerechtigd de in het [Besluit tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006423) onderscheidenlijk het [Besluit opslaan in ondergrondse tanks 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009747) voorgeschreven inspecties uit te voeren met toepassing van het bepaalde bij en krachtens dit besluit, zoals dit luidde voor bedoeld tijdstip.
+1. Gedurende een jaar na inwerkingtreding van [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2004-07-01&g=2004-07-01), blijft KIWA Inspecties BV, gevestigd te Rijswijk, gerechtigd de in het [Besluit tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006423) onderscheidenlijk het [Besluit opslaan in ondergrondse tanks 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009747) voorgeschreven inspecties uit te voeren met toepassing van het bepaalde bij en krachtens dit besluit, zoals dit luidde voor bedoeld tijdstip.
 
 2. Een met toepassing van het eerste lid uitgevoerde inspectie wordt voor de toepassing van het [Besluit tankstations milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0006423) gelijkgesteld met een inspectie, uitgevoerd volgens het bepaalde bij en krachtens dat besluit.
 
@@ -68,11 +68,11 @@ Wijzigt het Besluit verplicht bodemonderzoek bedrijfsterreinen.
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van:
 
-- a. de [onderdelen C, E en H van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2003-02-01&g=2003-02-01), die in werking treden van ingang van 1 juli van het daarna volgende kalenderjaar;
+- a. de [onderdelen C, E en H van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2004-07-01&g=2004-07-01), die in werking treden van ingang van 1 juli van het daarna volgende kalenderjaar;
 
-- b. [onderdeel I van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2003-02-01&g=2003-02-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
+- b. [onderdeel I van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2004-07-01&g=2004-07-01), dat op een bij koninklijk besluit te bepalen tijdstip in werking treedt.
 
-## Bijlage bij Besluit van tot wijziging van het Besluit tankstations milieubeheer, het Besluit opslaan in ondergrondse tanks 1998 en het Besluit verplicht bodemonderzoek bedrijfsterreinen (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen), als bedoeld in [Artikel I, onder F, onderdeel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2003-02-01&g=2003-02-01)
+## Bijlage bij Besluit van tot wijziging van het Besluit tankstations milieubeheer, het Besluit opslaan in ondergrondse tanks 1998 en het Besluit verplicht bodemonderzoek bedrijfsterreinen (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen), als bedoeld in [Artikel I, onder F, onderdeel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014450&artikel=I&z=2004-07-01&g=2004-07-01)
 
 4. Afleverinstallaties voor motorbrandstoffen
 
