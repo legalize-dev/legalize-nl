@@ -4,7 +4,7 @@ identifier: "BWBR0001995"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "1998-01-01"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001995"
 soort: "wet"
@@ -72,17 +72,17 @@ Deze wet verstaat onder:
 
 ##### Artikel 3
 
-1. Alvorens tot een vordering, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=1998-01-01&g=1998-01-01), wordt besloten, zal Onze daartoe aangewezen Minister overleg plegen met den betrokken persoon of het betrokken lichaam.
+1. Alvorens tot een vordering, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=2005-03-16&g=2005-03-16), wordt besloten, zal Onze daartoe aangewezen Minister overleg plegen met den betrokken persoon of het betrokken lichaam.
 
 2. Wanneer zoodanig overleg zou moeten plaats hebben met een groep van personen of lichamen, die eenzelfde beroep, bedrijf of werkzaamheid uitoefenen of bij wie met betrekking tot de te vorderen medewerking overeenkomstige belangen aanwezig zijn, kan de Minister het overleg plegen met enkele dier personen of lichamen, door hem aan te wijzen. De aanwijzing geschiedt bij voorkeur, nadat de beroeps- of bedrijfsorganisaties der betrokkenen terzake zijn gehoord.
 
 ##### Artikel 4
 
-Indien op grond van het overleg, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=3&z=1998-01-01&g=1998-01-01), vrijwillige medewerking wordt toegezegd, kan een vordering achterwege blijven.
+Indien op grond van het overleg, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=3&z=2005-03-16&g=2005-03-16), vrijwillige medewerking wordt toegezegd, kan een vordering achterwege blijven.
 
 ##### Artikel 5
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=1998-01-01&g=1998-01-01) bedoelde medewerking kan uitsluitend bestaan in:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=2005-03-16&g=2005-03-16) bedoelde medewerking kan uitsluitend bestaan in:
 
 - a. het verstrekken van zoodanige opgaven en inlichtingen, als met het oog op de in dat artikel bedoelde voorbereiding door den betrokken Minister noodzakelijk worden geacht;
 
@@ -110,7 +110,7 @@ Indien op grond van het overleg, bedoeld in [artikel 3](https://wetten.overheid.
 
 ##### Artikel 7
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=1998-01-01&g=1998-01-01) zijn belast de ambtenaren en personen, aangewezen bij besluit van Onze Minister, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=1998-01-01&g=1998-01-01).
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=2005-03-16&g=2005-03-16) zijn belast de ambtenaren en personen, aangewezen bij besluit van Onze Minister, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=2&z=2005-03-16&g=2005-03-16).
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
@@ -138,11 +138,11 @@ Vervallen
 
 2. Hij aan wiens schuld te wijten is, dat aan een vordering tot medewerking of aan de daaruit voortvloeiende verplichtingen niet wordt voldaan, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-3. Hij die opzettelijk een toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=1998-01-01&g=1998-01-01), niet verleent, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige medewerking niet wordt verleend, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+3. Hij die opzettelijk een toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=2005-03-16&g=2005-03-16), niet verleent, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige medewerking niet wordt verleend, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-4. Hij aan wiens schuld te wijten is, dat een toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=1998-01-01&g=1998-01-01), niet wordt verleend, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+4. Hij aan wiens schuld te wijten is, dat een toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=2005-03-16&g=2005-03-16), niet wordt verleend, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-5. Hij die - door zijn ambt, beroep of werkzaamheid betrokken bij de voldoening aan een vordering tot medewerking, aan een ander gedaan, of bij de verleening van door een ander toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=1998-01-01&g=1998-01-01), - iets doet of nalaat, waardoor het voldoen aan die vordering of aan de daaruit voortvloeiende verplichtingen, dan wel het verleenen van die medewerking in gevaar wordt gebracht, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+5. Hij die - door zijn ambt, beroep of werkzaamheid betrokken bij de voldoening aan een vordering tot medewerking, aan een ander gedaan, of bij de verleening van door een ander toegezegde vrijwillige medewerking, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001995&artikel=4&z=2005-03-16&g=2005-03-16), - iets doet of nalaat, waardoor het voldoen aan die vordering of aan de daaruit voortvloeiende verplichtingen, dan wel het verleenen van die medewerking in gevaar wordt gebracht, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
 ##### Artikel 12a
 
@@ -168,7 +168,7 @@ Vervallen
 
 ##### Artikel 16
 
-Vorderingen, gedaan uit krachte van de Wet economische verdedigingsvoorbereiding 1938, en vrijwillige medewerking, overeenkomstig die wet toegezegd worden geacht te zijn gedaan, onderscheidenlijk toegezegd uit kracht van en overeenkomstig deze wet.
+Vervallen
 
 ##### Artikel 17
 
@@ -176,6 +176,6 @@ Deze wet treedt in werking met ingang van 1 Juli 1939.
 
 ##### Artikel 18
 
-Deze wet kan worden aangehaald onder den titel "Wet medewerking verdedigingsvoorbereiding 1939".
+Deze wet wordt aangehaald als: Wet medewerking verdedigingsvoorbereiding.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
