@@ -55,9 +55,3 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit wordt aangehaald als: Besluit aanwijzing verdragen Wet havenstaatcontrole.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
