@@ -4,7 +4,7 @@ identifier: "BWBR0014330"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-11-01"
-last_updated: "2004-08-31"
+last_updated: "2004-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014330"
 soort: "AMvB"
@@ -68,13 +68,25 @@ In dit besluit wordt verstaan onder:
 
 - 2°. een vlieghoogte niet van toepassing is in het luchtruim boven de Nederlandse territoriale zee en boven de Noordzee buiten de territoriale zee;
 
-- g. **Schiphol TMA en Schiphol CTR**: de begrippen zoals deze zijn bepaald op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2) en [5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5).
+- g. **Schiphol TMA en Schiphol CTR**: de begrippen zoals deze zijn bepaald op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2) en [5 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5);
+
+- h. **exploitatiebeperkingen:** met de geluidssituatie samenhangende maatregelen waarbij de toegang van civiele subsonische straalvliegtuigen tot een luchthaven wordt beperkt of teruggebracht en welke onder meer gericht kunnen zijn op de uitdienstneming van marginaal conforme vliegtuigen op de luchthaven;
+
+- i. **partiële exploitatiebeperkingen**: exploitatiebeperkingen die het gebruik van civiele subsonische straalvliegtuigen in bepaalde tijdsperiodes beperken;
+
+- j. **ICAO Bijlage 16**: de op grond van het op 7 december 1944, te Chicago gesloten Verdrag inzake de Burgerluchtvaart (Trb.1973, 109) door de Internationale Burgerluchtvaartorganisatie vastgestelde Annex 16 (Environmental Protection) , boekdeel I, deel II, Hoofdstuk 3, derde uitgave (juli 1993);
+
+- k. **EPNdB**: de eenheid van effectief waargenomen geluid zoals gedefinieerd in ICAO Bijlage 16;
+
+- l. **civiele subsonische vliegtuigen**: civiele subsonische straalvliegtuigen met een gecertificeerde maximum-startmassa van 34.000 kg of meer of met een gecertificeerde maximumcapaciteit voor het betrokken vliegtuigtype van meer dan 19 stoelen, de uitsluitend voor de bemanning bestemde stoelen niet meegerekend;
+
+- m. **marginaal conforme vliegtuigen**: civiele subsonische straalvliegtuigen die voldoen aan de geluidsnormen, zoals vastgesteld in ICAO Bijlage 16, met een cumulatieve marge van niet meer dan 5 EPNdB, waarbij de cumulatieve marge de in EPNdB uitgedrukte waarde is die wordt verkregen door het bij elkaar optellen van de individuele marges, zijnde de verschillen tussen het gecertificeerde geluidsniveau en het maximaal toegestane geluidsniveau, op elk van de drie referentiegeluidsmeetpunten zoals omschreven in ICAO Bijlage 16.
 
 ### Hoofdstuk 2. De luchtverkeerwegen
 
 ##### Artikel 2.1
 
-De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-08-31&g=2004-08-31) bij dit besluit als zodanig afgebakende delen van het luchtruim.
+De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-09-03&g=2004-09-03) bij dit besluit als zodanig afgebakende delen van het luchtruim.
 
 ### Hoofdstuk 3. De regels
 
@@ -82,7 +94,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.1.1
 
-1. Bij het vertrek van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen die voor het desbetreffende tijdvak, voor een vertrek van de desbetreffende baan, zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-08-31&g=2004-08-31) bij dit besluit.
+1. Bij het vertrek van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen die voor het desbetreffende tijdvak, voor een vertrek van de desbetreffende baan, zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-09-03&g=2004-09-03) bij dit besluit.
 
 2. Bij het vertrek van een straalvliegtuig van de luchthaven en na het verlaten van de Schiphol TMA draagt de gezagvoerder er zorg voor dat de vlieghoogte van het vliegtuig blijft op of boven vliegniveau 60.
 
@@ -92,7 +104,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.1.2
 
-1. Bij de nadering van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen voor zover voor het desbetreffende tijdvak, voor een nadering van de desbetreffende baan luchtverkeerwegen zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-08-31&g=2004-08-31) bij dit besluit.
+1. Bij de nadering van een straalvliegtuig van de luchthaven draagt de gezagvoerder er zorg voor dat het vliegtuig blijft binnen één van de luchtverkeerwegen voor zover voor het desbetreffende tijdvak, voor een nadering van de desbetreffende baan luchtverkeerwegen zijn aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1&z=2004-09-03&g=2004-09-03) bij dit besluit.
 
 2. Het eerste lid is niet van toepassing bij de nadering van de luchthaven van een straalvliegtuig dat afkomstig is van de luchthaven Lelystad, Valkenburg of Rotterdam.
 
@@ -112,7 +124,7 @@ De luchtverkeerwegen zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.1.3
 
-1. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg dan wel op of boven een hoogte als bedoeld in de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2004-08-31&g=2004-08-31) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2004-08-31&g=2004-08-31).
+1. De LVNL geeft luchtverkeersleiding die ertoe strekt dat het straalvliegtuig blijft binnen een luchtverkeerweg dan wel op of boven een hoogte als bedoeld in de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2004-09-03&g=2004-09-03) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2004-09-03&g=2004-09-03).
 
 2. De LVNL kan indien dit naar haar oordeel noodzakelijk is in verband met een veilige en doelmatige afwikkeling van het luchthavenluchtverkeer, luchtverkeersleiding geven die leidt tot afwijking van het eerste lid.
 
@@ -202,13 +214,13 @@ De gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en het maximum
 
 2. Het totale volume van de geluidbelasting bedraagt niet meer dan 63,46 dB(A).
 
-3. De geluidbelasting in een punt dat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2004-08-31&g=2004-08-31) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
+3. De geluidbelasting in een punt dat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2004-09-03&g=2004-09-03) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
 
 4. Indien in een gebruiksjaar de geluidbelasting in een punt meer bedraagt dan de in het derde lid bedoelde waarde, wordt een nieuwe waarde berekend op basis van de meteorologische omstandigheden zoals die zich in het gebruiksjaar hebben voorgedaan. In dat geval treedt voor dat gebruiksjaar voor de in het derde lid bedoelde waarde in de plaats de laagste van de volgende waarden:
 
 - a. de berekende nieuwe waarde;
 
-- b. de waarde die bij het punt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2004-08-31&g=2004-08-31) bij dit besluit tussen haken is vermeld.
+- b. de waarde die bij het punt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2&z=2004-09-03&g=2004-09-03) bij dit besluit tussen haken is vermeld.
 
 ##### Artikel 4.2.2
 
@@ -216,21 +228,21 @@ De gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en het maximum
 
 2. Het totale volume van de geluidbelasting bedraagt niet meer dan 54,44 dB(A).
 
-3. De geluidbelasting in een punt dat is aangewezen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2004-08-31&g=2004-08-31) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
+3. De geluidbelasting in een punt dat is aangewezen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2004-09-03&g=2004-09-03) bij dit besluit bedraagt niet meer dan de bij dat punt aangegeven waarde.
 
 4. Indien in een gebruiksjaar de geluidbelasting in een punt meer bedraagt dan de in het derde lid bedoelde waarde, wordt een nieuwe waarde berekend op basis van de meteorologische omstandigheden zoals die zich in het gebruiksjaar hebben voorgedaan. In dat geval treedt voor dat gebruiksjaar voor de in het derde lid bedoelde waarde in de plaats de laagste van de volgende waarden:
 
 - a. de berekende nieuwe waarde;
 
-- b. de waarde die bij het punt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2004-08-31&g=2004-08-31) bij dit besluit tussen haken is vermeld.
+- b. de waarde die bij het punt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3&z=2004-09-03&g=2004-09-03) bij dit besluit tussen haken is vermeld.
 
 ##### Artikel 4.2.3
 
 1. De geluidbelasting uitgedrukt in Lden of Lnight, wordt bepaald overeenkomstig de definitie van deze begrippen in bijlage I van [Richtlijn nr. 2002/49/EG](32002L0049) van het Europees Parlement en de Raad van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (Pb L 189 van 18 juli 2002).
 
-2. De in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-08-31&g=2004-08-31) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-08-31&g=2004-08-31) bedoelde geluidbelastingen worden bepaald overeenkomstig het rapport van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2001-372.
+2. De in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-09-03&g=2004-09-03) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-09-03&g=2004-09-03) bedoelde geluidbelastingen worden bepaald overeenkomstig het rapport van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2001-372.
 
-3. De in de [artikelen 4.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-08-31&g=2004-08-31), en [4.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-08-31&g=2004-08-31), bedoelde nieuwe waarden worden berekend overeenkomstig de rapporten van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2003-539 en aanvulling NLR-CR-065, met dien verstande dat een herberekening plaatsvindt overeenkomstig hoofdstuk 9 van het rapport, bedoeld in het tweede lid.
+3. De in de [artikelen 4.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-09-03&g=2004-09-03), en [4.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-09-03&g=2004-09-03), bedoelde nieuwe waarden worden berekend overeenkomstig de rapporten van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR-CR-2003-539 en aanvulling NLR-CR-065, met dien verstande dat een herberekening plaatsvindt overeenkomstig hoofdstuk 9 van het rapport, bedoeld in het tweede lid.
 
 #### § 4.3. Grenswaarden voor de uitstoot van stoffen die lokale luchtverontreiniging veroorzaken
 
@@ -252,13 +264,13 @@ De gemiddelde ongevalskans per vliegtuigbeweging per gebruiksjaar en het maximum
 
 ##### Artikel 4.3.2
 
-De uitstoot wordt bepaald overeenkomstig de emissieberekeningsmethodiek zoals beschreven in het rapport van het TNO-MEP – R2003/313. Het maximum startgewicht wordt bepaald overeenkomstig het in [artikel 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2004-08-31&g=2004-08-31) genoemde rapport.
+De uitstoot wordt bepaald overeenkomstig de emissieberekeningsmethodiek zoals beschreven in het rapport van het TNO-MEP – R2003/313. Het maximum startgewicht wordt bepaald overeenkomstig het in [artikel 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2004-09-03&g=2004-09-03) genoemde rapport.
 
 ### Hoofdstuk 4A. Regels en procedures met betrekking tot de invoering van geluidgerelateerde exploitatiebeperkingen
 
 ##### Artikel 5.1
 
-Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-08-31&g=2004-08-31), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren.
+Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-09-03&g=2004-09-03), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren.
 
 ##### Artikel 5.2
 
@@ -272,7 +284,7 @@ Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1
 
 - b. deze waarden bij elkaar op te tellen;
 
-- c. de in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2004-08-31&g=2004-08-31) genoemde grenswaarde met deze som te vermenigvuldigen.
+- c. de in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2004-09-03&g=2004-09-03) genoemde grenswaarde met deze som te vermenigvuldigen.
 
 4. De grenswaarden voor de geluidbelasting in het eerste gebruiksjaar worden gevonden door:
 
@@ -282,9 +294,9 @@ Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1
 
 - c. van deze som de logaritme te nemen en die te vermenigvuldigen met – 10;
 
-- d. de in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-08-31&g=2004-08-31) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-08-31&g=2004-08-31) bedoelde grenswaarden te verminderen met dat produkt.
+- d. de in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.1&z=2004-09-03&g=2004-09-03) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2004-09-03&g=2004-09-03) bedoelde grenswaarden te verminderen met dat produkt.
 
-5. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-08-31&g=2004-08-31), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren en vervolgens:
+5. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-09-03&g=2004-09-03), in het eerste gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het eerste gebruiksjaar van toepassing waren en vervolgens:
 
 - a. voor iedere dag in het eerste gebruiksjaar de waarde te nemen die voortvloeit uit de na dit artikel opgenomen tabel;
 
@@ -292,7 +304,7 @@ Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1
 
 - c. de bepaalde hoeveelheid met deze som te vermenigvuldigen.
 
-6. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-08-31&g=2004-08-31), in het tweede gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het tweede gebruiksjaar van toepassing waren.
+6. Bij de toepassing van [artikel 4.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2004-09-03&g=2004-09-03), in het tweede gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het tweede gebruiksjaar van toepassing waren.
 
 **Dagwaarden eerste gebruiksjaar**
 
@@ -336,6 +348,96 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 5. Overgangsbepaling
 
 ### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage 3
+
+Raadpleeg voor de kaarten het gedrukte Staatsblad 2004/425.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4A.1
+
+De exploitant van de luchthaven en de inspecteur-generaal nemen bij het toepassen van exploitatiebeperkingen de voorschriften uit de [artikelen 4A.2 tot en met 4A.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.2&z=2004-09-03&g=2004-09-03) in acht.
+
+##### Artikel 4A.2
+
+1. De exploitatiebeperkingen worden vastgelegd op basis van het geluidsniveau van het vliegtuig zoals vastgesteld volgens de certificeringsprocedure van ICAO Bijlage 16.
+
+2. De exploitatiebeperkingen mogen niet restrictiever zijn dan noodzakelijk om de voor de luchthaven vastgestelde grenswaarden voor de geluidbelasting te halen.
+
+3. Bij het overwegen van exploitatiebeperkingen wordt rekening gehouden met de verwachte kosten en baten van de ter beschikking staande maatregelen en met de specifieke kenmerken van de luchthaven Schiphol.
+
+##### Artikel 4A.3
+
+1. Bij de besluitvorming over het opleggen van exploitatiebeperkingen wordt rekening gehouden met de in de Bijlage II van [richtlijn nr. 2002/30/EG](32002L0030) van het Europees Parlement en de Raad van de Europese Unie van 26 maart 2002 betreffende de vaststelling van regels en procedures met betrekking tot de invoering van geluidgerelateerde exploitatiebeperkingen op luchthavens in de Gemeenschap (PbEG L85) gespecificeerde informatie, voor zover dat voor de betrokken exploitatiebeperkingen en de kenmerken van de luchthaven passend en mogelijk is.
+
+2. Aan het eerste lid is in elk geval voldaan indien sprake is van een luchthavenproject dat is onderworpen aan een milieueffectbeoordeling als bedoeld in het [Besluit milieu-effectrapportage 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006788), mits daarbij zoveel mogelijk rekening is gehouden met de specifieke informatie, bedoeld in het eerste lid.
+
+##### Artikel 4A.4
+
+1. Indien na de toepassing van [artikel 4A.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.3&z=2004-09-03&g=2004-09-03), blijkt dat op de uitdienstneming van marginaal conforme vliegtuigen gerichte exploitatiebeperkingen moeten worden ingevoerd, gelden in plaats van de procedure van artikel 9 van [Verordening (EEG) nr. 2408/92](31992R2408) van de Raad van 23 juli 1992 betreffende de toegang van communautaire luchtvaartmaatschappijen tot intracommunautaire luchtroutes (PbEG L240), de volgende regels ten aanzien van de luchthaven:
+
+- a. gedurende zes maanden na het besluit tot invoering van de exploitatiebeperking worden op de luchthaven geen door marginaal conforme vliegtuigen te verrichten diensten toegestaan, boven die welke in de overeenkomstige periode van het vorige jaar werden verricht;
+
+- b. minimaal zes maanden daarna kan van elke exploitant van luchtvaartuigen worden verlangd dat hij het aantal vliegbewegingen met marginaal conforme vliegtuigen uit zijn vloot vermindert in een jaarlijks tempo van maximaal 20% van het aanvankelijke totale aantal van deze vliegbewegingen.
+
+2. Voor tot de in het eerste lid bedoelde uitdienstneming wordt besloten, wordt eerst de toepassing van partiële exploitatiebeperkingen overwogen.
+
+##### Artikel 4A.5
+
+[Artikel 4A.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.3&z=2004-09-03&g=2004-09-03) is niet van toepassing op:
+
+- a. exploitatiebeperkingen waartoe reeds was besloten vóór of op 28 maart 2002;
+
+- b. niet-wezenlijke technische wijzigingen in partiële exploitatiebeperkingen die geen significant kosteneffect hebben voor de luchtvaartondernemingen op de luchthaven en na 28 maart 2002 zijn aangebracht.
+
+##### Artikel 4A.6
+
+[Artikel 4A.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2004-09-03&g=2004-09-03) is tot en met 27 maart 2012 niet van toepassing op marginaal conforme vliegtuigen die zijn ingeschreven in ontwikkelingslanden mits het vliegtuigen betreft:
+
+- a. waaraan een geluidscertificering is verleend op grond van de normen van ICAO Bijlage 16;
+
+- b. die tussen 1 januari 1996 en 31 december 2001 op de luchthaven vlogen, en
+
+- c. die gedurende de in onderdeel b bedoelde periode voorkwamen in het register van het betrokken ontwikkelingsland en bij voortduring door een in dat land gevestigde natuurlijke of rechtspersoon worden geëxploiteerd.
+
+##### Artikel 4A.7
+
+1. De exploitant van de luchthaven en de inspecteur-generaal leggen een ontwerpmaatregel tot invoering van een exploitatiebeperking gedurende zes weken ter inzage. Voorafgaand aan de terinzagelegging wordt in één of meer dag-, nieuws- of huis-aan-huis-bladen of op een andere geschikte wijze kennis gegeven van de ontwerpmaatregel. Belanghebbenden kunnen gedurende de termijn waarbinnen de ontwerpmaatregel ter inzage ligt naar keuze schriftelijk of mondeling hun zienswijze over deze maatregel naar voren brengen.
+
+2. De exploitant van de luchthaven en de inspecteur-generaal dragen er zorg voor dat alle belanghebbenden openbaar en gemotiveerd in kennis worden gesteld van nieuwe exploitatiebeperkingen:
+
+- a. zes maanden voor de inwerkingtreding van de in [artikel 4A.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2004-09-03&g=2004-09-03), bedoelde maatregelen;
+
+- b. één jaar voor de inwerkingtreding van de in [artikel 4A.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.4&z=2004-09-03&g=2004-09-03), bedoelde maatregelen;
+
+- c. twee maanden voor de conferentie waarop het dienstrooster voor de desbetreffende periode wordt vastgesteld.
+
+3. De exploitant van de luchthaven stelt de inspecteur-generaal onverwijld in kennis van elke nieuwe exploitatiebeperking.
+
+##### Artikel 4A.8
+
+Onze Minister van Verkeer en Waterstaat kan vrijstelling verlenen voor afzonderlijke operaties met marginaal conforme vliegtuigen die op grond van de bepalingen van dit hoofdstuk niet mogelijk zijn, mits de vrijstelling is beperkt tot:
+
+- a. vliegtuigen waarvan de afzonderlijke operaties dermate uitzonderlijk zijn dat het onredelijk zou zijn een tijdelijke vrijstelling niet te verlenen;
+
+- b. vliegtuigen die niet-commerciële vluchten verrichten met het oog op wijzigings-, reparatie- of onderhoudswerkzaamheden.
+
+##### Artikel 4A.9
+
+De [artikelen 4A.2 tot en met 4A.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&hoofdstuk=4A&artikel=4A.2&z=2004-09-03&g=2004-09-03), zijn van overeenkomstige toepassing op Onze Minister van Verkeer en Waterstaat, voor zover deze ter uitvoering van [artikel 11.15 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.15) exploitatiebeperkingen toepast.
+
+### Hoofdstuk 5. Overgangsbepaling
+
+### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage 1
+
+Raadpleeg voor de kaarten, behalve kaart 19/21, de afzonderlijke bijlage van Stcrt. 2002/16, die op het kantoor van de Staatscourant ter inzage ligt. Raadpleeg voor kaart 19/21 het gedrukte Staatsblad 2004/425.
+
+## Bijlage 2
+
+Raadpleeg voor de kaarten het gedrukte Staatsblad 2004/425.
 
 ## Bijlage 3
 
