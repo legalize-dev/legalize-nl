@@ -205,13 +205,3 @@ Dit besluit wordt aangehaald als: Besluit administratiefrechtelijke handhaving v
 Dit besluit treedt in werking met ingang van 1 april 1994. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 1994, treedt het in werking met ingang van de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 11b
-
-De kosten van het verhaal van een administratieve sanctie worden op gelijke voet als de administratieve sanctie verhaald op degene aan wie deze sanctie is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten. De kosten van verhaal, voor zover zij niet betreffen de invorderingskosten, worden berekend overeenkomstig de bij het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638) vastgestelde tarieven. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
-
-#### § 6. Bijstand
-
-#### § 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
