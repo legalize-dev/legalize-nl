@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2004-01-31"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), de [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26a), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
+1. Deze regeling geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16b), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=32) en [33 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=33).
 
 2. Deze regeling verstaat onder:
 
@@ -66,15 +66,7 @@ De inhoudingsplichtige rekent tot het loon voor de door hem betaalde aanvullinge
 
 ##### Artikel 1b
 
-1. De afdrachtvermindering kinderopvang en de arbo-afdrachtvermindering kunnen indien de over een tijdvak af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen op de voet van [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=3) tot nihil is verminderd, voor het gedeelte dat nog niet is verrekend in mindering worden gebracht op de over de volgende tijdvakken af te dragen loonbelasting dan wel af te dragen loonbelasting en premie voor de volksverzekeringen. Bij toepassing van de vorige volzin wordt de af te dragen loonbelasting dan wel de af te dragen loonbelasting en premie voor de volksverzekeringen over het eerstvolgende tijdvak telkens tot nihil verminderd alvorens de nog niet verrekende afdrachtvermindering naar een volgend tijdvak wordt doorgeschoven.
-
-2. Het doorschuiven van de nog niet verrekende afdrachtvermindering naar volgende tijdvakken op de voet van het eerste lid, is alleen mogelijk:
-
-- a. ten aanzien van de afdrachtvermindering kinderopvang: voorzover de kosten van kinderopvang waarover de afdrachtvermindering is berekend, betrekking hebben op deze tijdvakken;
-
-- b. ten aanzien van de arbo-afdrachtvermindering: voorzover deze tijdvakken zijn gelegen binnen een periode van 36 maanden na de aanvang van het kalenderjaar waarin de afdrachtvermindering ter zake van de aanschaffing, verbetering of voortbrenging van het desbetreffende arbo-bedrijfsmiddel zonder toepassing van het eerste lid zou zijn genoten.
-
-3. Indien ten aanzien van de arbo-afdrachtvermindering het eerste lid toepassing vindt, wordt daarmee voor de bepaling van de termijn genoemd in [artikel 26a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26a) geen rekening gehouden.
+Vervallen
 
 ##### Artikel 2
 
@@ -344,53 +336,23 @@ Vervallen
 
 ##### Artikel 12c
 
-De in [artikel 16, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16) bedoelde regelingen zijn de regelingen die voldoen aan overeenkomstige eisen als gesteld in het Tijdelijk besluit kwaliteitsregels kinderopvang
+Vervallen
 
 ##### Artikel 13
 
-Voor de toepassing van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16) wordt met een werknemer gelijkgesteld degene die een opleiding volgt of bij de inhoudingsplichtge vakbekwaamheid verwerft en van wie redelijkerwijs vast staat dat hij in aansluiting daarop werknemer wordt.
+Vervallen
 
 ##### Artikel 14
 
-Voor de toepassing van [artikel 16, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16) worden de volgende kosten aangemerkt als aan de kinderopvang toe te rekenen kosten:
-
-- a. de arbeidskosten van degenen die zich direct bezighouden met de kinderopvang;
-
-- b. inrichtingskosten van ruimten die uitsluitend worden gebruikt voor de kinderopvang;
-
-- c. bouwkundige voorzieningen, uitsluitend met het oog op de kinderopvang;
-
-- d. schoonmaakkosten die direct verband houden met de kinderopvang;
-
-- e. kosten van voeding en drank voor zover deze worden verstrekt aan de desbetreffende kinderen;
-
-- f. kosten van spelmateriaal voor zover dit uitsluitend wordt gebruikt bij de kinderopvang;
-
-- g. medische kosten en kosten van luiers en dergelijke in verband met de kinderopvang;
-
-- h. kosten van administratie die direct verband houdt met de kinderopvang;
-
-- i. kosten van verzekering die direct verband houdt met de kinderopvang.
+Vervallen
 
 ##### Artikel 14a
 
-1. Ingeval de inhoudingsplichtige niet zelf de kinderopvang verricht, is de afdrachtvermindering kinderopvang slechts van toepassing indien hij beschikt over gedagtekende facturen waarbij een afschrift is gevoegd van de vergunning of de verklaring die door de gemeente aan de instelling of de natuurlijke persoon die de kinderopvang verricht is afgegeven inhoudende dat de instelling of de natuurlijke persoon voldoet aan door de gemeente gestelde regels met betrekking tot de kwaliteit, en in welke facturen op duidelijke en overzichtelijke wijze is vermeld:
-
-- a. de instelling jegens welke of de natuurlijke persoon jegens wie de inhoudingsplichtige de uitgaven voor kinderopvang heeft gedaan;
-
-- b. de instelling of de natuurlijke persoon die de kinderopvang verricht indien deze een andere is dan bedoeld in onderdeel a;
-
-- c. naam en leeftijd van de kinderen voor wie kinderopvang pleegt te worden genoten;
-
-- d. de perioden waarin en het aantal uren gedurende welke of het aantal dagen waarop gedurende meer dan vijf uur onderscheidenlijk vijf uur of minder, dan wel in de vorm van buitenschoolse opvang onderscheidenlijk naschoolse opvang per kind kinderopvang pleegt te worden genoten;
-
-- e. het adres waar de kinderopvang pleegt plaats te vinden. Voorts dient de werknemer een afschrift van de overeenkomst met de instelling of de natuurlijke persoon die de kinderopvang verzorgt aan de inhoudingsplichtige te overhandigen, in welke overeenkomst is opgenomen het adres waar de kinderopvang pleegt plaats te vinden.
-
-2. De inhoudingsplichtige bewaart de in het eerste lid bedoelde facturen en afschriften bij de loonadministratie.
+Vervallen
 
 ##### Artikel 14b
 
-Indirect van rijkswege of in samenhang daarmee van derden ontvangen bijdragen als bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=16) worden slechts erkend als zijnde van rijkswege verstrekt voorzover zij blijken uit een door de bijdragende instantie afgegeven verklaring. De verklaring moet zijn ondertekend door het bestuur van de bijdragende instantie en bevat het bedrag van de tegemoetkoming alsmede het deel daarvan dat van rijkswege is verstrekt. Het deel dat van rijkswege is verstrekt wordt bepaald naar de verhouding in het voorafgaande kalenderjaar waarin het totaal van de door de bijdragende instantie verstrekte tegemoetkomingen verminderd met het totaal van de bijdragen van alle inhoudingsplichtigen aan die instantie staat tot het totaal van de verstrekte tegemoetkomingen. De verklaring is voorzien van een cijfermatige, controleerbare onderbouwing van de op grond van de vorige volzin berekende verhouding.
+Vervallen
 
 ### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
 
@@ -466,15 +428,7 @@ Vervallen
 
 ##### Artikel 20
 
-Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip
-
-- a. in het kader van een onderneming voornamelijk op zee geëxploiteerd: indien het in de kalendermaand waarin het inhoudingstijdstip valt grotendeels op zee wordt geëxploiteerd;
-
-- b. gebezigd voor het verrichten van sleep- en hulpwerkzaamheden aan zeeschepen: indien
-
-- 1°. uit de beschrijving van het zeeschip als bedoeld in [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=5), dan wel [artikel 5a, onderdeel c, van de Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=5a) in de zeebrief blijkt dat het schip bestemd is voor sleep- en hulpverleningswerkzaamheden op zee en
-
-- 2°. het schip in het bezit is van een geldig certificaat van deugdelijkheid als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3).
+Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip in het kader van een onderneming grotendeels op zee geëxploiteerd indien het in de kalendermaand waarin het inhoudingstijdstip valt grotendeels op zee wordt geëxploiteerd.
 
 ##### Artikel 21
 
@@ -518,7 +472,7 @@ Vervallen
 
 - e. per werknemer het aantal uren dat deze heeft besteed aan het S&O-werk;
 
-- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2004-01-31&g=2004-01-31), bedoelde vereenvoudigde S&O-loon;
+- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2005-01-01&g=2005-01-01), bedoelde vereenvoudigde S&O-loon;
 
 - g. de berekening van de S&O-afdrachtvermindering.
 
@@ -534,13 +488,7 @@ Vervallen
 
 ##### Artikel 25a
 
-1. De aangegane verplichtingen dan wel de gemaakte voortbrengingskosten ter zake van arbo-bedrijfsmiddelen als bedoeld in de bijlage II bij de Arbeidsomstandighedenregeling worden aangemeld binnen drie maanden. De in de vorige volzin bedoelde termijn van drie maanden vangt aan:
-
-- a. met betrekking tot verplichtingen: bij het aangaan van de verplichting;
-
-- b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwartaal volgend op dat waarin de kosten zijn gemaakt dan wel, ingeval het bedrijfsmiddel ter zake waarvan de voortbrengingskosten zijn gemaakt in het kalenderkwartaal in gebruik is genomen, bij de ingebruikneming van het bedrijfsmiddel.
-
-2. De aanmelding van de aangegane verplichtingen of de gemaakte voortbrengingskosten geschiedt overeenkomstig de wijze als aangegeven in het door de inspecteur uitgereikte of toegezonden aanmeldingsformulier.
+Vervallen
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
@@ -567,3 +515,7 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in d
 ### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
+
+##### Artikel 26b
+
+Met betrekking tot het op 31 december 2004 nog niet verrekende gedeelte van de arbo-afdrachtvermindering blijft artikel 1b, zoals dat luidde op 31 december 2004, ook na die datum nog van toepassing.
