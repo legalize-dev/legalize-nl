@@ -115,27 +115,3 @@ de ....................
 Krachtens de wet zijn de buitengriffier en de waarnemend griffier verplicht tot geheimhouding van hetgeen in de raadkamer over aanhangige zaken is geuit. Daarbij zijn zij verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### **Formulier voor het afleggen van de eed of belofte door een buitengriffier of waarnemend griffier**
-
-Ik zweer/beloof dat ik gegevens waarover ik als buitengriffier/waarnemend griffier de beschikking krijg en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden, behoudens voor zover enig wettelijk voorschrift mij tot mededeling verplicht of uit mijn taak als buitengriffier/waarnemend griffier de noodzaak tot mededeling voortvloeit, geheim zal houden.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-Op ......................., werd te ........................
-
-ten overstaan van (1) ..............................., en
-
-in tegenwoordigheid van (2) ........................
-
-door (3) ..................................
-
-de bovenvermelde eed/belofte afgelegd.
-
-(1) .............................
-
-(2) .............................
-
-(3) .............................
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
