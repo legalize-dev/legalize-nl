@@ -221,23 +221,3 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 Dit besluit wordt aangehaald als: Besluit afwijkende regels beperking export uitkeringen.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet voor de verzekerde die werkzaamheden in het algemeen belang verricht, of zijn in hetzelfde land wonende gezinslid.
-
-### Hoofdstuk 3. Recht op uitkering op de Nederlandse Antillen
-
-##### Artikel 9a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde op de Nederlandse Antillen woont.
-
-### Hoofdstuk 4. Recht op uitkering op Aruba
-
-##### Artikel 15a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde op Aruba woont.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
