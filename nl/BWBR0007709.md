@@ -127,9 +127,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Overdrachtsbesluit Wet toezicht effectenverkeer 1995.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-De Autoriteit Financiële Markten raadpleegt de Bank in het kader van de aanvraag van een vergunning als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7) over de vraag of de aanvrager voldoet aan de bij en krachtens de wet gestelde regels ten aanzien van de financiële waarborgen, alsmede de bedrijfsvoering en informatieverstrekking, voor zover noodzakelijk voor het toezicht op financiële waarborgen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
