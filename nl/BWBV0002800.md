@@ -1,0 +1,40 @@
+---
+title: "Regionaal Akkoord inzake het gebruik van de 87,5 - 108 MHz Band voor FM radio omroep"
+identifier: "BWBV0002800"
+country: "nl"
+rank: "verdrag"
+publication_date: "1987-07-01"
+last_updated: "1987-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002800"
+soort: "verdrag"
+stam_id: "10003121533"
+version_id: "10003125652"
+internal_id: "C10006978821"
+label_id: "10003107654"
+dtd_version: "2.0"
+original_entry_into_force: "1987-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002800/1987-07-01/0"
+intitule_bron: "Trb.1987-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-02-22"
+intitule_published: "1987-08-11"
+intitule_in_force: "1987-08-11"
+intitule_status: "goed"
+original_publication: "Trb.1987-125"
+original_signed_date: "1988-02-22"
+original_published_date: "1987-08-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-125"
+entry_into_force_date: "1987-07-01"
+jci_1_3: "jci1.3:c:BWBV0002800&z=1987-07-01&g=1987-07-01"
+jci_1_0: "1.0:c:BWBV0002800&g=1987-07-01"
+citeertitel_status: "officieel"
+signed_date: "1988-02-22"
+entry_into_force: "1987-07-01"
+---
+# Regionaal Akkoord inzake het gebruik van de 87,5 - 108 MHz Band voor FM radio omroep
+
+IN WITNESS WHEREOF, the undersigned delegates of the Members of the Union mentioned above have, on behalf of the competent authorities of their respective countries, signed this Agreement in a single copy in the Arabic, English, French, Russian and Spanish languages; in case of dispute, the French text shall be authentic. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified true copy to each Member of the Union in the planning area.
+
+DONE at Geneva, 7 December 1984
