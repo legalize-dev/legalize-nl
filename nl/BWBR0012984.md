@@ -4,7 +4,7 @@ identifier: "BWBR0012984"
 country: "nl"
 rank: "wet"
 publication_date: "2018-11-17"
-last_updated: "2001-12-14"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012984"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt de Warenwet.
 
 ##### Artikel III
 
-[Artikel 30a van de Vleeskeuringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001896&artikel=30a), zoals dat luidde onmiddellijk vóór de inwerkingtreding van deze wet, is nog gedurende vier jaren na de inwerkingtreding van de wet van toepassing op algemene maatregelen van bestuur die reeds van kracht waren bij de inwerkingtreding van deze wet.
+[Artikel 30a van de Vleeskeuringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001896&artikel=30a), zoals dat luidde onmiddellijk vóór de inwerkingtreding van deze wet, is nog gedurende acht jaren na de inwerkingtreding van de wet van toepassing op algemene maatregelen van bestuur die reeds van kracht waren bij de inwerkingtreding van deze wet.
 
 ##### Artikel IV
 
