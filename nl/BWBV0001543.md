@@ -415,29 +415,3 @@ GEDAAN te Middelburg, op 11 januari 1995, in drie originele exemplaren,
 **Voor de Vlaamse Regering,**
 
 (w.g.) J. SAUWENS
-
-##### Artikel 22a
-
-De gezagvoerder van een zeeschip dat geen Scheldevaarder is, is gehouden loodsgeld te betalen overeenkomstig de geldende nationale wettelijke voorschriften.
-
-### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
-
-### HOOFDSTUK VII. GEMEENSCHAPPELIJK TOEZICHT
-
-### HOOFDSTUK VIII. VASTSTELLING, BEKENDMAKING EN INWERKINGTREDING VAN VOORSCHRIFTEN
-
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
-
-GEDAAN te Middelburg, op 11 januari 1995, in drie originele exemplaren,
-
-**Voor de Regering van het Koninkrijk der Nederlanden,**
-
-(w.g.) A. JORRITSMA-LEBBINK
-
-**Voor de Regering van het Koninkrijk België,**
-
-(w.g.) CHR. VERDONCK
-
-**Voor de Vlaamse Regering,**
-
-(w.g.) J. SAUWENS
