@@ -4,7 +4,7 @@ identifier: "BWBR0007376"
 country: "nl"
 rank: "wet"
 publication_date: "2024-06-19"
-last_updated: "2004-02-13"
+last_updated: "2005-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007376"
 soort: "wet"
@@ -65,11 +65,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4°. reprodukties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde archiefbescheiden of welke op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=7&z=2004-02-13&g=2004-02-13) zijn vervaardigd;
+- 4°. reprodukties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde archiefbescheiden of welke op grond van het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=7&z=2005-02-14&g=2005-02-14) zijn vervaardigd;
 
 - d. zorgdrager: degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden;
 
-- e. archiefruimte: een ruimte, bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2004-02-13&g=2004-02-13) of [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2004-02-13&g=2004-02-13);
+- e. archiefruimte: een ruimte, bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2005-02-14&g=2005-02-14) of [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2005-02-14&g=2005-02-14);
 
 - f. archiefbewaarplaats: een bij of krachtens deze wet voor de blijvende bewaring van archiefbescheiden aangewezen bewaarplaats.
 
@@ -81,11 +81,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden onder 
 
 Het verbod persoonsgegevens te verwerken, bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), geldt niet voor verwerkingen die verband houden met:
 
-- a. de vervanging van archiefbescheiden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=7&z=2004-02-13&g=2004-02-13);
+- a. de vervanging van archiefbescheiden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=7&z=2005-02-14&g=2005-02-14);
 
-- b. de overbrenging van archiefbescheiden naar een archiefbewaarplaats, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2004-02-13&g=2004-02-13) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2004-02-13&g=2004-02-13);
+- b. de overbrenging van archiefbescheiden naar een archiefbewaarplaats, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2005-02-14&g=2005-02-14) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2005-02-14&g=2005-02-14);
 
-- c. de opneming van archiefbescheiden als bedoeld in [artikel 1, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2004-02-13&g=2004-02-13), in een archiefbewaarplaats, of;
+- c. de opneming van archiefbescheiden als bedoeld in [artikel 1, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2005-02-14&g=2005-02-14), in een archiefbewaarplaats, of;
 
 - d. het beheer van archiefbescheiden die in een archiefbewaarplaats berusten, met uitzondering van het ter raadpleging of gebruik beschikbaar stellen van zodanige archiefbescheiden.
 
@@ -123,7 +123,7 @@ Tot vernietiging van in een rijksarchiefbewaarplaats berustende archiefbescheide
 
 ##### Artikel 7
 
-De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, teneinde de aldus vervangen bescheiden te vernietigen. Voor de vervanging van archiefbescheiden die niet als te vernietigen worden aangemerkt in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2004-02-13&g=2004-02-13) bedoelde lijsten, is een machtiging vereist van Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats is aangewezen, van gedeputeerde staten. Deze machtiging houdt tevens een machtiging tot vernietiging in.
+De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, teneinde de aldus vervangen bescheiden te vernietigen. Voor de vervanging van archiefbescheiden die niet als te vernietigen worden aangemerkt in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2005-02-14&g=2005-02-14) bedoelde lijsten, is een machtiging vereist van Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats is aangewezen, van gedeputeerde staten. Deze machtiging houdt tevens een machtiging tot vernietiging in.
 
 ##### Artikel 8
 
@@ -139,7 +139,7 @@ De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, tenei
 
 ##### Artikel 9
 
-1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het ontwerpen van lijsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2004-02-13&g=2004-02-13) alsmede omtrent de vervanging en vervreemding van archiefbescheiden.
+1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het ontwerpen van lijsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2005-02-14&g=2005-02-14) alsmede omtrent de vervanging en vervreemding van archiefbescheiden.
 
 2. Onze Minister-President kan regels stellen op grond waarvan in geval van buitengewone omstandigheden kan worden afgeweken van hetgeen in deze wet is bepaald met betrekking tot de vernietiging van archiefbescheiden.
 
@@ -171,11 +171,11 @@ Indien archiefbescheiden ten onrechte berusten onder een ander overheidsorgaan d
 
 ##### Artikel 14
 
-De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2004-02-13&g=2004-02-13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=16&z=2004-02-13&g=2004-02-13) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=17&z=2004-02-13&g=2004-02-13), openbaar. Ieder is, behoudens de beperkingen die voortvloeien uit het in die artikelen bepaalde, bevoegd die archiefbescheiden kosteloos te raadplegen en daarvan of daaruit afbeeldingen, afschriften, uittreksels en bewerkingen te maken of op zijn kosten te doen maken.
+De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=16&z=2005-02-14&g=2005-02-14) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=17&z=2005-02-14&g=2005-02-14), openbaar. Ieder is, behoudens de beperkingen die voortvloeien uit het in die artikelen bepaalde, bevoegd die archiefbescheiden kosteloos te raadplegen en daarvan of daaruit afbeeldingen, afschriften, uittreksels en bewerkingen te maken of op zijn kosten te doen maken.
 
 ##### Artikel 15
 
-1. Bij de overbrenging van de in [artikel 1, onder **c** 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2004-02-13&g=2004-02-13), bedoelde archiefbescheiden kan de zorgdrager, na advies van de beheerder van de archiefbewaarplaats, slechts beperkingen aan de openbaarheid stellen voor een bepaalde termijn en met het oog op:
+1. Bij de overbrenging van de in [artikel 1, onder **c** 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2005-02-14&g=2005-02-14), bedoelde archiefbescheiden kan de zorgdrager, na advies van de beheerder van de archiefbewaarplaats, slechts beperkingen aan de openbaarheid stellen voor een bepaalde termijn en met het oog op:
 
 - a. de eerbiediging van de persoonlijke levenssfeer;
 
@@ -197,7 +197,7 @@ De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het
 
 ##### Artikel 16
 
-1. De openbaarheid van de in [artikel 1, onder **c** 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2004-02-13&g=2004-02-13), bedoelde archiefbescheiden kan worden beperkt bij de desbetreffende overeenkomsten en beschikkingen.
+1. De openbaarheid van de in [artikel 1, onder **c** 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2005-02-14&g=2005-02-14), bedoelde archiefbescheiden kan worden beperkt bij de desbetreffende overeenkomsten en beschikkingen.
 
 2. Indien deze archiefbescheiden uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten, kan de zorgdrager beperkingen aan de openbaarheid stellen. Het in artikel 15 bepaalde is van overeenkomstige toepassing.
 
@@ -209,7 +209,7 @@ De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het
 
 3. Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek tot raadpleging of gebruik vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.
 
-4. Indien de aard of de mate van raadpleging of gebruik van archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reprodukties, niet zijnde archiefbescheiden als bedoeld in [artikel 1, onder **c** 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2004-02-13&g=2004-02-13), ter beschikking worden gesteld.
+4. Indien de aard of de mate van raadpleging of gebruik van archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reprodukties, niet zijnde archiefbescheiden als bedoeld in [artikel 1, onder **c** 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=I&artikel=1&z=2005-02-14&g=2005-02-14), ter beschikking worden gesteld.
 
 ##### Artikel 18
 
@@ -227,7 +227,7 @@ De archiefbescheiden die in een archiefbewaarplaats berusten zijn, behoudens het
 
 ##### Artikel 19
 
-De zorgdrager stelt, indien de kosten, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=14&z=2004-02-13&g=2004-02-13) en [18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=18&z=2004-02-13&g=2004-02-13), in rekening worden gebracht, regels omtrent die kosten.
+De zorgdrager stelt, indien de kosten, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=14&z=2005-02-14&g=2005-02-14) en [18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=18&z=2005-02-14&g=2005-02-14), in rekening worden gebracht, regels omtrent die kosten.
 
 ##### Artikel 20
 
@@ -257,7 +257,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 24
 
-1. Onze minister is bevoegd overheidsorganen als bedoeld in de [artikelen 23, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2004-02-13&g=2004-02-13), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2004-02-13&g=2004-02-13), er op te wijzen dat zij dienen te voldoen aan het bepaalde bij of krachtens deze wet.
+1. Onze minister is bevoegd overheidsorganen als bedoeld in de [artikelen 23, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2005-02-14&g=2005-02-14), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2005-02-14&g=2005-02-14), er op te wijzen dat zij dienen te voldoen aan het bepaalde bij of krachtens deze wet.
 
 2. Onze minister is bevoegd tot toepassing van bestuursdwang in geval een overheidsorgaan een aanwijzing als bedoeld in het eerste lid niet opvolgt.
 
@@ -277,17 +277,17 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 25a
 
-1. Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2004-02-13&g=2004-02-13), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2004-02-13&g=2004-02-13), zijn belast de bij besluit van Onze minister als hoofdinspecteur en inspecteurs aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de [artikelen 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2005-02-14&g=2005-02-14), en [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2005-02-14&g=2005-02-14), zijn belast de bij besluit van Onze minister als hoofdinspecteur en inspecteurs aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de **Staatscourant**.
 
 3. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-4. Indien een toezichthouder met toepassing van [artikel 5:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) een ruimte betreedt waarin de in de [artikelen 23, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2004-02-13&g=2004-02-13), dan wel [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2004-02-13&g=2004-02-13), bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.
+4. Indien een toezichthouder met toepassing van [artikel 5:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) een ruimte betreedt waarin de in de [artikelen 23, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=23&z=2005-02-14&g=2005-02-14), dan wel [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2005-02-14&g=2005-02-14), bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.
 
 ##### Artikel 25b
 
-1. De hoofdinspecteur, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=25a&z=2004-02-13&g=2004-02-13), doet aan het overheidsorgaan mededeling van de bevindingen van het toezicht en van de voorzieningen die naar zijn oordeel dienen te worden getroffen.
+1. De hoofdinspecteur, bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=III&artikel=25a&z=2005-02-14&g=2005-02-14), doet aan het overheidsorgaan mededeling van de bevindingen van het toezicht en van de voorzieningen die naar zijn oordeel dienen te worden getroffen.
 
 2. Hij brengt jaarlijks voor 1 juli aan Onze minister schriftelijk verslag uit van de bevindingen van het toezicht gedurende het afgelopen kalenderjaar. Onze minister legt dit verslag, vergezeld van zijn standpunt, over aan de Staten-Generaal.
 
@@ -295,7 +295,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 1. Te 's-Gravenhage is gevestigd de algemene rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden der overheidsorganen, waarvan de functies zich over het gehele rijk uitstrekken of hebben uitgestrekt. De algemene rijksarchivaris is daarvan de beheerder.
 
-2. In de hoofdplaats van elke provincie is gevestigd een rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden van de provinciale organen. Voorts is de rijksarchiefbewaarplaats in de hoofdplaats van een provincie bestemd voor de bewaring van de archiefbescheiden van de in die provincie gevestigde organen van het rijk, van de voormalige provinciale en departementale besturen en van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2004-02-13&g=2004-02-13), bedoelde overheidsorganen, waarvan de functies zich niet over het gehele rijk uitstrekken of hebben uitgestrekt. Een rijksarchivaris, die in het bezit dient te zijn van een diploma archivistiek, is daarvan de beheerder.
+2. In de hoofdplaats van elke provincie is gevestigd een rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden van de provinciale organen. Voorts is de rijksarchiefbewaarplaats in de hoofdplaats van een provincie bestemd voor de bewaring van de archiefbescheiden van de in die provincie gevestigde organen van het rijk, van de voormalige provinciale en departementale besturen en van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VII&artikel=41&z=2005-02-14&g=2005-02-14), bedoelde overheidsorganen, waarvan de functies zich niet over het gehele rijk uitstrekken of hebben uitgestrekt. Een rijksarchivaris, die in het bezit dient te zijn van een diploma archivistiek, is daarvan de beheerder.
 
 3. Bij koninklijk besluit kunnen andere rijksarchiefbewaarplaatsen worden aangewezen of gevestigd dan de in het eerste en tweede lid bedoelde.
 
@@ -317,7 +317,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 28
 
-1. Ten aanzien van het beheer van de archiefbescheiden, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=27&z=2004-02-13&g=2004-02-13), is, onder de bevelen van gedeputeerde staten, met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de provinciale inspecteur. Met betrekking tot dit toezicht op de naleving stellen provinciale staten een verordening vast.
+1. Ten aanzien van het beheer van de archiefbescheiden, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=27&z=2005-02-14&g=2005-02-14), is, onder de bevelen van gedeputeerde staten, met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de provinciale inspecteur. Met betrekking tot dit toezicht op de naleving stellen provinciale staten een verordening vast.
 
 2. De provinciale inspecteur, die in het bezit dient te zijn van een diploma archivistiek, wordt door provinciale staten benoemd, geschorst en ontslagen.
 
@@ -341,7 +341,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 31
 
-Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2004-02-13&g=2004-02-13), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2004-02-13&g=2004-02-13), over te brengen archiefbescheiden van de gemeentelijke organen wijst de gemeenteraad een gemeentelijke archiefbewaarplaats aan.
+Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2005-02-14&g=2005-02-14), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2005-02-14&g=2005-02-14), over te brengen archiefbescheiden van de gemeentelijke organen wijst de gemeenteraad een gemeentelijke archiefbewaarplaats aan.
 
 ##### Artikel 32
 
@@ -353,7 +353,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 33
 
-1. Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan burgemeester en wethouders in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=30&z=2004-02-13&g=2004-02-13), opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=28&z=2004-02-13&g=2004-02-13) genoemde provinciale inspecteur.
+1. Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan burgemeester en wethouders in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=30&z=2005-02-14&g=2005-02-14), opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=28&z=2005-02-14&g=2005-02-14) genoemde provinciale inspecteur.
 
 2. Burgemeester en wethouders onderwerpen de plannen betreffende bouw, verbouwing, inrichting of verandering van inrichting van een archiefbewaarplaats of tot ingebruikneming van gebouwen of gedeelten van gebouwen als archiefbewaarplaats, aan de goedkeuring van gedeputeerde staten. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
 
@@ -361,7 +361,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 34
 
-1. Gedeputeerde staten zijn bevoegd tot toepassing van bestuursdwang ingeval burgemeester en wethouders niet aan de in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=30&z=2004-02-13&g=2004-02-13), genoemde verplichting voldoen.
+1. Gedeputeerde staten zijn bevoegd tot toepassing van bestuursdwang ingeval burgemeester en wethouders niet aan de in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=30&z=2005-02-14&g=2005-02-14), genoemde verplichting voldoen.
 
 2. Gedeputeerde staten maken van hun bevoegdheid, genoemd in het eerste lid, geen gebruik dan na overleg met de betrokken overheidsorganen.
 
@@ -379,7 +379,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 36
 
-Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2004-02-13&g=2004-02-13), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2004-02-13&g=2004-02-13), over te brengen archiefbescheiden van de organen van het waterschap wijst het bestuur een archiefbewaarplaats aan.
+Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=12&z=2005-02-14&g=2005-02-14), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2005-02-14&g=2005-02-14), over te brengen archiefbescheiden van de organen van het waterschap wijst het bestuur een archiefbewaarplaats aan.
 
 ##### Artikel 37
 
@@ -391,7 +391,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 38
 
-1. Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan het dagelijks bestuur in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VI&artikel=35&z=2004-02-13&g=2004-02-13), opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=28&z=2004-02-13&g=2004-02-13) genoemde provinciale inspecteur.
+1. Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan het dagelijks bestuur in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VI&artikel=35&z=2005-02-14&g=2005-02-14), opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IV&artikel=28&z=2005-02-14&g=2005-02-14) genoemde provinciale inspecteur.
 
 2. Het dagelijks bestuur onderwerpt de plannen betreffende bouw, verbouwing, inrichting of verandering van inrichting van een archiefbewaarplaats of tot ingebruikneming van gebouwen of gedeelten van gebouwen als archiefbewaarplaats, aan de goedkeuring van gedeputeerde staten. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
 
@@ -399,7 +399,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 39
 
-1. Gedeputeerde staten zijn bevoegd tot toepassing van bestuursdwang in geval het dagelijks bestuur niet aan de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VI&artikel=35&z=2004-02-13&g=2004-02-13), genoemde verplichting voldoet.
+1. Gedeputeerde staten zijn bevoegd tot toepassing van bestuursdwang in geval het dagelijks bestuur niet aan de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=VI&artikel=35&z=2005-02-14&g=2005-02-14), genoemde verplichting voldoet.
 
 2. Gedeputeerde staten maken van hun bevoegdheid, genoemd in het eerste lid, geen gebruik dan na overleg met de betrokken overheidsorganen.
 
@@ -429,7 +429,7 @@ Voor de bewaring van de op grond van [artikel 12, eerste lid](https://wetten.ove
 
 ##### Artikel 42
 
-1. Hij die aan de bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=11&z=2004-02-13&g=2004-02-13), gestelde verplichting niet voldoet, wordt gestraft met geldboete van de tweede categorie.
+1. Hij die aan de bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=11&z=2005-02-14&g=2005-02-14), gestelde verplichting niet voldoet, wordt gestraft met geldboete van de tweede categorie.
 
 2. Het feit is een overtreding.
 
@@ -453,19 +453,19 @@ De onder de overheidsorganen berustende archiefbescheiden die op het moment van 
 
 2. De op grond van de koninklijke besluiten van 19 april 1929 (**Stb.** 171), 31 mei 1929 (**Stb.** 269), 6 juli 1929 ( **Stb.** 381) en 24 november 1932 (**Stb.** 560) tussen het Rijk en de gemeenten getroffen regelingen met betrekking tot de inbewaringgeving van de in die besluiten bedoelde archiefbescheiden blijven gehandhaafd, totdat deze regelingen zijn vervangen door een regeling tot de vervreemding van die archiefbescheiden.
 
-3. De ingevolge de in het tweede lid genoemde koninklijke besluiten naar een rijksarchiefbewaarplaats overgebrachte archiefbescheiden worden, op verzoek van de desbetreffende gemeente tot vervreemding van die archiefbescheiden, aan die gemeente overgedragen, indien zij dientengevolge komen te berusten in een ingevolge [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=33&z=2004-02-13&g=2004-02-13), goedgekeurde archiefbewaarplaats, beheerd door een gemeentearchivaris die is benoemd overeenkomstig het in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=32&z=2004-02-13&g=2004-02-13), bepaalde.
+3. De ingevolge de in het tweede lid genoemde koninklijke besluiten naar een rijksarchiefbewaarplaats overgebrachte archiefbescheiden worden, op verzoek van de desbetreffende gemeente tot vervreemding van die archiefbescheiden, aan die gemeente overgedragen, indien zij dientengevolge komen te berusten in een ingevolge [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=33&z=2005-02-14&g=2005-02-14), goedgekeurde archiefbewaarplaats, beheerd door een gemeentearchivaris die is benoemd overeenkomstig het in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=V&artikel=32&z=2005-02-14&g=2005-02-14), bepaalde.
 
 ##### Artikel 47
 
-Andere dan de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IX&artikel=46&z=2004-02-13&g=2004-02-13) bedoelde inbewaringgevingen blijven in stand tot het moment dat zij na overleg tussen de betrokken overheidslichamen zijn beëindigd.
+Andere dan de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=IX&artikel=46&z=2005-02-14&g=2005-02-14) bedoelde inbewaringgevingen blijven in stand tot het moment dat zij na overleg tussen de betrokken overheidslichamen zijn beëindigd.
 
 ##### Artikel 48
 
-De ingevolge [artikel 3 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=3) (**Stb.** 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2004-02-13&g=2004-02-13) van deze wet vastgestelde selectielijsten.
+De ingevolge [artikel 3 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=3) (**Stb.** 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=5&z=2005-02-14&g=2005-02-14) van deze wet vastgestelde selectielijsten.
 
 ##### Artikel 49
 
-De machtigingen, verleend op grond van [artikel 20 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=20), zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2004-02-13&g=2004-02-13), van deze wet bepaalde.
+De machtigingen, verleend op grond van [artikel 20 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=20), zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=13&z=2005-02-14&g=2005-02-14), van deze wet bepaalde.
 
 ##### Artikel 50
 
@@ -618,5 +618,31 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 87
 
 Deze wet kan worden aangehaald als Archiefwet met vermelding van het jaartal van het **Staatsblad** waarin zij zal worden geplaatst.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 15a
+
+1. [Artikel 15, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a) is neergelegd.
+
+2. Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a) is neergelegd, laat de zorgdrager, in afwijking van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), de ingevolge [artikel 15, eerste lid, aanhef en onder c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.
+
+3. In afwijking van [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), worden geen beperkingen aan de openbaarheid gesteld voorzover in de archiefbescheiden neergelegde milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a) betrekking heeft op emissies in het milieu.
+
+4. Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie die betrekking heeft op emissies in het milieu is neergelegd, laat de zorgdrager in afwijking van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden, de ingevolge [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&hoofdstuk=II&artikel=15&z=2005-02-14&g=2005-02-14), aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.
+
+### Hoofdstuk III. Archiefbescheiden van het rijk
+
+### Hoofdstuk IV. Archiefbescheiden van provincies
+
+### Hoofdstuk V. Archiefbescheiden van gemeenten
+
+### Hoofdstuk VI. Archiefbescheiden van waterschappen
+
+### Hoofdstuk VII. Archiefbescheiden van andere overheidsorganen
+
+### Hoofdstuk VIII. Strafbepaling
+
+### Hoofdstuk IX. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
