@@ -4,7 +4,7 @@ identifier: "BWBR0013747"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "2002-10-01"
+last_updated: "2003-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013747"
 soort: "wet"
@@ -78,6 +78,6 @@ De tekst van de Wet op het onderwijstoezicht wordt in het Staatsblad geplaatst. 
 
 ##### Artikel VI. Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij artikel I, onderdelen H, voor wat betreft artikel 6.3, en O, kan terugwerken tot en met 12 september 2002 en artikel I, onderdeel O, eerst van toepassing kan zijn op opleidingen die starten met ingang van het studiejaar 2004–2005.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
