@@ -4,7 +4,7 @@ identifier: "BWBR0016771"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-06-15"
-last_updated: "2004-01-01"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016771"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ entry_into_force: "2004-06-15"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Paspoortuitvoeringsregeling Nederland 2001.
 
 ##### Artikel II
 
