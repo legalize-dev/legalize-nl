@@ -4,7 +4,7 @@ identifier: "BWBR0022636"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022636"
 soort: "wet"
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VIa
 
