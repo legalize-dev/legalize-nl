@@ -4,7 +4,7 @@ identifier: "BWBR0008277"
 country: "nl"
 rank: "wet"
 publication_date: "2026-04-01"
-last_updated: "2004-04-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008277"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder:
 
-- a. vertrouwensfunctie: een functie die krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-04-01&g=2004-04-01), als zodanig is aangewezen;
+- a. vertrouwensfunctie: een functie die krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-09-01&g=2004-09-01), als zodanig is aangewezen;
 
 - b. verklaring: een verklaring dat uit het oogpunt van de nationale veiligheid geen bezwaar bestaat tegen vervulling van een bepaalde vertrouwensfunctie door een bepaalde persoon;
 
@@ -66,7 +66,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie, dan wel indien het een functie betreft die als vertrouwensfunctie moet worden aangemerkt in verband met de daarmee samenhangende noodzaak om toegang te hebben tot militaire installaties, treden, voor de toepassing van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-04-01&g=2004-04-01) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2004-04-01&g=2004-04-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=16&z=2004-04-01&g=2004-04-01), Onze Minister van Defensie en de Militaire Inlichtingen- en Veiligheidsdienst in de plaats van respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Algemene Inlichtingen- en Veiligheidsdienst.
+Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie, dan wel indien het een functie betreft die als vertrouwensfunctie moet worden aangemerkt in verband met de daarmee samenhangende noodzaak om toegang te hebben tot militaire installaties, treden, voor de toepassing van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-09-01&g=2004-09-01) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2004-09-01&g=2004-09-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=16&z=2004-09-01&g=2004-09-01), Onze Minister van Defensie en de Militaire Inlichtingen- en Veiligheidsdienst in de plaats van respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Algemene Inlichtingen- en Veiligheidsdienst.
 
 ##### Artikel 3
 
@@ -94,7 +94,7 @@ Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie,
 
 ##### Artikel 6
 
-In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-04-01&g=2004-04-01) en 5 beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring.
+In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-09-01&g=2004-09-01) en 5 beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring.
 
 ##### Artikel 7
 
@@ -102,7 +102,7 @@ In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. Het veiligheidsonderzoek omvat het instellen van een onderzoek naar gegevens die uit het oogpunt van de nationale veiligheid van belang zijn voor de vervulling van de desbetreffende vertrouwensfunctie. Hierbij wordt uitsluitend gelet op gegevens betreffende:
 
-- a. de justitiële gegevens die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194);
+- a. de justitiële gegevens die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194);
 
 - b. deelneming of steunverlening aan activiteiten die de nationale veiligheid kunnen schaden;
 
@@ -132,7 +132,7 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 ##### Artikel 12
 
-1. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-04-01&g=2004-04-01), is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5).
+1. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-09-01&g=2004-09-01), is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5).
 
 2. In de gevallen, bedoeld in het eerste lid, wordt het veiligheidsonderzoek niet eerder ingesteld dan twaalf weken voordat de betrokkene dient op te komen voor het vervullen van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5). Van het instellen van een veiligheidsonderzoek wordt vooraf mededeling gedaan aan de betrokkene.
 
@@ -146,7 +146,7 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 4. Het veiligheidsonderzoek omvat het instellen van een onderzoek naar gegevens die uit het oogpunt van de nationale veiligheid of de veiligheid of andere gewichtige belangen van de verzoekende mogendheid of volkenrechtelijke organisatie van belang zijn. Hierbij wordt uitsluitend gelet op gegevens betreffende:
 
-- a. de justitiële gegevens die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194);
+- a. de justitiële gegevens die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194);
 
 - b. deelneming of steunverlening aan activiteiten die de nationale veiligheid of de veiligheid of andere gewichtige belangen van de verzoekende mogendheid of volkenrechtelijke organisatie kunnen schaden;
 
@@ -160,19 +160,19 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 ##### Artikel 14
 
-1. Hij die niet of niet tijdig voldoet aan een verplichting als bedoeld in een van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-04-01&g=2004-04-01), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-04-01&g=2004-04-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5&z=2004-04-01&g=2004-04-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2004-04-01&g=2004-04-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Hij die niet of niet tijdig voldoet aan een verplichting als bedoeld in een van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-09-01&g=2004-09-01), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-09-01&g=2004-09-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5&z=2004-09-01&g=2004-09-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2004-09-01&g=2004-09-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 15
 
-Functies die vóór de inwerkingtreding van deze wet als vertrouwensfunctie zijn aangewezen, worden gelijkgesteld met op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-04-01&g=2004-04-01) aangewezen vertrouwensfuncties.
+Functies die vóór de inwerkingtreding van deze wet als vertrouwensfunctie zijn aangewezen, worden gelijkgesteld met op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2004-09-01&g=2004-09-01) aangewezen vertrouwensfuncties.
 
 ##### Artikel 16
 
-1. Een persoon die op het tijdstip van inwerkingtreding van deze wet belast is met een vertrouwensfunctie, wordt gelijkgesteld met een persoon ten aanzien van wie op dat tijdstip een verklaring als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-04-01&g=2004-04-01), en 6 is afgegeven.
+1. Een persoon die op het tijdstip van inwerkingtreding van deze wet belast is met een vertrouwensfunctie, wordt gelijkgesteld met een persoon ten aanzien van wie op dat tijdstip een verklaring als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2004-09-01&g=2004-09-01), en 6 is afgegeven.
 
-2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9&z=2004-04-01&g=2004-04-01) is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gedurende vijf jaren na het tijdstip van inwerkingtreding van deze wet ten aanzien van een persoon als bedoeld in het eerste lid tevens bevoegd een hernieuwd veiligheidsonderzoek te doen instellen, indien sinds het laatste ten aanzien van die persoon ingestelde veiligheidsonderzoek een termijn van vijf jaren is verstreken.
+2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9&z=2004-09-01&g=2004-09-01) is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gedurende vijf jaren na het tijdstip van inwerkingtreding van deze wet ten aanzien van een persoon als bedoeld in het eerste lid tevens bevoegd een hernieuwd veiligheidsonderzoek te doen instellen, indien sinds het laatste ten aanzien van die persoon ingestelde veiligheidsonderzoek een termijn van vijf jaren is verstreken.
 
 ##### Artikel 17
 
