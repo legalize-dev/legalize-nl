@@ -4,7 +4,7 @@ identifier: "BWBR0004670"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1994-01-01"
+last_updated: "2002-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004670"
 soort: "rijkswet"
@@ -67,13 +67,13 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien bij koninklijk besluit in de bezoldiging van het burgerlijk rijkspersoneel een wijziging wordt aangebracht en wordt bepaald dat deze wijziging een algemeen karakter draagt, wordt met ingang van de datum waarop die wijziging ingaat, in de pensioenen en uitkeringen, toegekend krachtens deze rijkswet, bij koninklijk besluit een overeenkomstige wijziging aangebracht door middel van aanpassing van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=1994-01-01).
+1. Indien bij koninklijk besluit in de bezoldiging van het burgerlijk rijkspersoneel een wijziging wordt aangebracht en wordt bepaald dat deze wijziging een algemeen karakter draagt, wordt met ingang van de datum waarop die wijziging ingaat, in de pensioenen en uitkeringen, toegekend krachtens deze rijkswet, bij koninklijk besluit een overeenkomstige wijziging aangebracht door middel van aanpassing van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=2002-01-01).
 
-2. De berekeningsgrondslag, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=1994-01-01), wordt halfjaarlijks, per 1 januari en per 1 juli, bij koninklijk besluit aangepast aan de ontwikkelingen betreffende het verschil in koopkracht ten opzichte van Nederland.
+2. De berekeningsgrondslag, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=2002-01-01), wordt halfjaarlijks, per 1 januari en per 1 juli, bij koninklijk besluit aangepast aan de ontwikkelingen betreffende het verschil in koopkracht ten opzichte van Nederland.
 
 ##### Artikel 4
 
-Bij algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld met betrekking tot het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=1994-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=3&z=1994-01-01&g=1994-01-01). Bij deze regelen kunnen die artikelen worden aangevuld.
+Bij algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld met betrekking tot het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=2002-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=3&z=1994-01-01&g=2002-01-01). Bij deze regelen kunnen die artikelen worden aangevuld.
 
 #### Uitkering gewezen gouverneur
 
@@ -87,7 +87,7 @@ Bij algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld met
 
 ##### Artikel 6
 
-1. De uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=1994-01-01), bedraagt gedurende de eerste twaalf maanden van het uitkeringstijdvak 80% en gedurende de overige maanden 50% van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=1994-01-01).
+1. De uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=2002-01-01), bedraagt gedurende de eerste twaalf maanden van het uitkeringstijdvak 80% en gedurende de overige maanden 50% van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=2002-01-01).
 
 2. Voor zover de som van de uitkering en nieuwe inkomsten uit of in verband met arbeid 75% van de in het eerste lid bedoelde berekeningsgrondslag overtreft, wordt dat meerdere in mindering gebracht op de uitkering. De in de vorige volzin bedoelde vermindering bedraagt ten hoogste 50% van de daar bedoelde nieuwe inkomsten.
 
@@ -101,7 +101,7 @@ De gewezen Gouverneur krijgt recht op ouderdomspensioen met ingang van de dag wa
 
 ##### Artikel 8
 
-1. Het pensioen als bedoed in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=7&z=1994-01-01&g=1994-01-01) bedraagt voor elk van de eerste zes dienstjaren als Gouverneur 3,5% en voor elk overig dienstjaar als Gouverneur 1,75% van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=1994-01-01).
+1. Het pensioen als bedoed in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=7&z=1994-01-01&g=2002-01-01) bedraagt voor elk van de eerste zes dienstjaren als Gouverneur 3,5% en voor elk overig dienstjaar als Gouverneur 1,75% van de berekeningsgrondslag, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=1994-01-01&g=2002-01-01).
 
 2. Onze Minister kan nadere regelen stellen ter uitvoering van het bepaalde in het eerste lid.
 
@@ -117,7 +117,7 @@ De gewezen Gouverneur krijgt recht op ouderdomspensioen met ingang van de dag wa
 
 1. Recht op weduwnaarspensioen heeft de invalide weduwnaar van een Gouverneur, gewezen Gouverneur of gepensioneerd Gouverneur, indien zijn echtgenote ten tijde van haar overlijden kostwinster voor hem was.
 
-2. [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=1994-01-01&g=1994-01-01), is ten aanzien van de weduwnaar van overeenkomstige toepassing.
+2. [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=1994-01-01&g=2002-01-01), is ten aanzien van de weduwnaar van overeenkomstige toepassing.
 
 3. Onze Minister kan nadere regelen stellen ter uitvoering van het bepaalde in het eerste lid.
 
@@ -145,7 +145,7 @@ Recht op bijzonder weduwenpensioen heeft de vrouw met wie een overleden Gouverne
 
 ##### Artikel 13
 
-1. Indien een Gouverneur, gewezen Gouverneur of gepensioneerd Gouverneur naar het oordeel van Onze Minister is vermist, zijn de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=1994-01-01&g=1994-01-01) van overeenkomstige toepassing.
+1. Indien een Gouverneur, gewezen Gouverneur of gepensioneerd Gouverneur naar het oordeel van Onze Minister is vermist, zijn de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=1994-01-01&g=2002-01-01) van overeenkomstige toepassing.
 
 2. Het tijdelijke pensioen gaat van rechtswege over in een voortdurend pensioen, zodra het overlijden van de vermiste vaststaat.
 
@@ -157,7 +157,7 @@ Recht op bijzonder weduwenpensioen heeft de vrouw met wie een overleden Gouverne
 
 2. Indien de weduwe of weduwnaar van een Gouverneur hertrouwt, wordt het pensioen opnieuw vastgesteld met toepassing van de eerste volzin van het eerste lid, met dien verstande dat voor de berekening van het ouderdomspensioen, waarvan het weduwenpensioen is afgeleid, de onvoltooide diensttijd niet in aanmerking wordt genomen.
 
-3. Het bedrag van het weduwenpensioen ingevolge de voorgaande leden wordt verminderd met het bedrag van het bijzonder weduwenpensioen, toegekend ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=1994-01-01&g=1994-01-01).
+3. Het bedrag van het weduwenpensioen ingevolge de voorgaande leden wordt verminderd met het bedrag van het bijzonder weduwenpensioen, toegekend ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=1994-01-01&g=2002-01-01).
 
 ##### Artikel 15
 
@@ -195,7 +195,7 @@ Het bijzonder weduwenpensioen bedraagt 72% van het ouderdomspensioen, waarop de 
 
 1. Indien een wees die reeds recht op een wezenpensioen heeft, hetzij krachtens deze rijkswet, hetzij krachtens een andere regeling, daarna eveneens recht op enig ander wezenpensioen verkrijgt, hetzij krachtens deze rijkswet, hetzij krachtens een andere regeling, wordt voor de berekening van de eigen pensioenen waarvan die wezenpensioenen zijn afgeleid of geacht moeten worden te zijn afgeleid, samenlopende tijd slechts meegeteld bij de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
-2. [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=19&z=1994-01-01&g=1994-01-01), is van overeenkomstige toepassing.
+2. [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=19&z=1994-01-01&g=2002-01-01), is van overeenkomstige toepassing.
 
 #### Verval van pensioen en uitkering
 
@@ -217,11 +217,11 @@ Het recht of het uitzicht op pensioen wordt bij koninklijk besluit, Onze ministe
 
 ##### Artikel 23
 
-[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=1994-01-01&g=1994-01-01) is van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=1994-01-01).
+[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=1994-01-01&g=2002-01-01) is van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=2002-01-01).
 
 ##### Artikel 24
 
-In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van de Nederlandse Antillen alsmede de Raad van State van het Koninkrijk gehoord, een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=1994-01-01&g=1994-01-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=23&z=1994-01-01&g=1994-01-01) vervallen recht of uitzicht op pensioen of uitkering geheel of gedeeltelijk worden hersteld.
+In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van de Nederlandse Antillen alsmede de Raad van State van het Koninkrijk gehoord, een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=1994-01-01&g=2002-01-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=23&z=1994-01-01&g=2002-01-01) vervallen recht of uitzicht op pensioen of uitkering geheel of gedeeltelijk worden hersteld.
 
 #### Ingang en einde van pensioen en uitkering
 
@@ -243,13 +243,13 @@ In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van d
 
 ##### Artikel 27
 
-De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=25&z=1994-01-01&g=1994-01-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=1994-01-01&g=1994-01-01), zijn van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=1994-01-01).
+De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=25&z=1994-01-01&g=2002-01-01), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=1994-01-01&g=2002-01-01), zijn van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=1994-01-01&g=2002-01-01).
 
 ##### Artikel 28
 
 1. Zo spoedig mogelijk na het overlijden van een gewezen Gouverneur kent Onze Minister aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, een uitkering toe ten bedrage van de uitkering over een tijdvak van acht weken die de gewezen Gouverneur op de dag van overlijden genoot. Laat de overledene geen weduwe of weduwnaar na als bedoeld in de vorige volzin, dan geschiedt de uitkering ten behoeve van de kinderen, geadopteerde kinderen of pleegkinderen van de overledene die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd of gehuwd geweest zijn.
 
-2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gewezen Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=1994-01-01&g=1994-01-01).
+2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gewezen Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=1994-01-01&g=2002-01-01).
 
 3. Indien de overledene geen betrekkingen als bedoeld in het eerste lid nalaat, kan Onze Minister het daar bedoelde bedrag geheel of ten dele bestemmen voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap voor de betaling van die kosten ontoereikend is.
 
@@ -259,15 +259,15 @@ De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&ar
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van een weduwnaar van een gepensioneerd Gouverneur.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing in geval van vermissing van een gepensioneerd Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=1994-01-01&g=1994-01-01).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing in geval van vermissing van een gepensioneerd Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=1994-01-01&g=2002-01-01).
 
 4. Indien de overledene geen betrekking als bedoeld in het eerste of tweede lid nalaat, kan Onze Minister het daar bedoelde bedrag geheel of ten dele bestemmen voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap voor de betaling van die kosten ontoereikend is.
 
 ##### Artikel 30
 
-1. Indien meer pensioen of uitkering is betaald dan overeenstemt met de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=1994-01-01&g=1994-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=27&z=1994-01-01&g=1994-01-01), wordt het teveel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met de uitkering krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=1994-01-01&g=1994-01-01) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=1994-01-01&g=1994-01-01).
+1. Indien meer pensioen of uitkering is betaald dan overeenstemt met de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=1994-01-01&g=2002-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=27&z=1994-01-01&g=2002-01-01), wordt het teveel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met de uitkering krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=1994-01-01&g=2002-01-01) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=1994-01-01&g=2002-01-01).
 
-2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=1994-01-01&g=1994-01-01) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=1994-01-01&g=1994-01-01) is betaald worden teruggevorderd.
+2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=1994-01-01&g=2002-01-01) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=1994-01-01&g=2002-01-01) is betaald worden teruggevorderd.
 
 #### Administratieve bepalingen
 
@@ -313,7 +313,7 @@ Tegen een besluit op grond van deze rijkswet kan een belanghebbende beroep inste
 
 1. Een herzieningsbeschikking werkt terug tot het tijdstip van inwerkingtreding van de herziene beschikking, tenzij de herzieningsbeschikking anders bepaalt.
 
-2. Indien een beschikking als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=1994-01-01&g=1994-01-01) is genomen binnen vier maanden na de dagtekening van de herziene of herstelde beschikking, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten als bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=1994-01-01&g=1994-01-01), is Onze Minister bevoegd tot terugvordering of verrekening van de te veel betaalde bedragen.
+2. Indien een beschikking als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=1994-01-01&g=2002-01-01) is genomen binnen vier maanden na de dagtekening van de herziene of herstelde beschikking, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten als bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=1994-01-01&g=2002-01-01), is Onze Minister bevoegd tot terugvordering of verrekening van de te veel betaalde bedragen.
 
 3. Terugvordering of verrekening van teveel betaalde bedragen vindt, behoudens het tweede lid, slechts plaats indien belanghebbende redelijkerwijs had moeten begrijpen dat hem teveel werd uitbetaald, onderscheidenlijk indien belanghebbende heeft nagelaten Onze Minister kennis te geven van een wijziging in de feiten, hoewel dit redelijkerwijs van hem mocht worden verwacht.
 
@@ -329,19 +329,19 @@ Behoudens het bepaalde in de volgende artikelen worden op het tijdstip van inwer
 
 ##### Artikel 39
 
-Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=40&z=1994-01-01&g=1994-01-01) worden alle pensioenen die voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=1994-01-01&g=1994-01-01) genoemde koninklijke besluiten zijn toegekend, geacht krachtens deze rijkswet te zijn toegekend.
+Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=40&z=1994-01-01&g=2002-01-01) worden alle pensioenen die voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=1994-01-01&g=2002-01-01) genoemde koninklijke besluiten zijn toegekend, geacht krachtens deze rijkswet te zijn toegekend.
 
 ##### Artikel 40
 
-1. De voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=1994-01-01&g=1994-01-01) genoemde koninklijke besluiten verworven rechten en uitzichten blijven gehandhaafd.
+1. De voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=1994-01-01&g=2002-01-01) genoemde koninklijke besluiten verworven rechten en uitzichten blijven gehandhaafd.
 
 2. Het bepaalde in het eerste lid geldt voor de Gouverneurs die voor het tijdstip van inwerkingtreding van deze rijkswet, doch na 1 januari 1962 als zodanig bij koninklijk besluit zijn benoemd op grond van [artikel 1, tweede lid, van het Reglement voor de Gouverneur van de Nederlandse Antillen](onbekend), onderscheidenlijk artikel 1, tweede lid, van het Reglement voor de Gouverneur van Suriname, alsmede voor hun nagelaten betrekkingen.
 
-3. Onverminderd het bepaalde in het eerste lid zijn de [artikelen 31 tot en met 37 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31&z=1994-01-01&g=1994-01-01) van toepassing op de belanghebbenden als bedoeld in het tweede lid.
+3. Onverminderd het bepaalde in het eerste lid zijn de [artikelen 31 tot en met 37 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31&z=1994-01-01&g=2002-01-01) van toepassing op de belanghebbenden als bedoeld in het tweede lid.
 
 ##### Artikel 41
 
-De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=34&z=1994-01-01&g=1994-01-01) zijn van toepassing met betrekking tot aanspraken, ontleend aan het koninklijk besluit van 8 juni 1953, nr. 22.
+De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=34&z=1994-01-01&g=2002-01-01) zijn van toepassing met betrekking tot aanspraken, ontleend aan het koninklijk besluit van 8 juni 1953, nr. 22.
 
 #### Slotbepaling
 
