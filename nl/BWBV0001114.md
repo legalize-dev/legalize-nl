@@ -209,15 +209,3 @@ GEDAAN in tweevoud te Warschau op 7 september 1992 in de Nederlandse, de Poolse 
 **Voor de Regering van de Republiek Polen**
 
 (w.g.) OSIATYŃSKI
-
-##### 1
-
-Vervallen
-
-##### 2
-
-Vervallen
-
-##### 3
-
-Vervallen
