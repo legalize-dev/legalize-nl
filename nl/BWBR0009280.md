@@ -197,9 +197,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de artikelen XVII tot
 Dit besluit wordt aangehaald als: Besluit aanwijzing registraties gezamenlijke huishouding 1998.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a. Wijziging wettelijke grondslag
-
-Dit besluit berust mede op [artikel 3, vijfde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
