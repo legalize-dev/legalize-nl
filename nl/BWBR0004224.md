@@ -249,9 +249,3 @@ Voor bescherming ingevolge deze wet komen in aanmerking:
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18a
-
-De rechter kan op vordering van de houder van het uitsluitend recht gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
