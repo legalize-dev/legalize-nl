@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2003-08-01"
+last_updated: "2004-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -90,7 +90,7 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2003-08-01&g=2003-08-01) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2003-08-01&g=2004-08-01) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap, met dien verstande dat een van de handicaps de handicap is op grond waarvan zij tot de school waaraan de afdeling is verbonden, kunnen worden toegelaten.
 
