@@ -4,7 +4,7 @@ identifier: "BWBR0005222"
 country: "nl"
 rank: "kb"
 publication_date: "2004-07-09"
-last_updated: "1991-10-01"
+last_updated: "2004-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005222"
 soort: "KB"
@@ -42,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 1. In afwijking van het bepaalde in [artikel 1, eerste lid, onder **d**, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1) worden voor de toepassing van afdeling 2A van deze wet met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, als exploitant aangemerkt de hierna genoemde rechtspersonen:
 
-- a. Stichting Vliegveld Welschap,
+- a. Eindhoven Airport NV,
 
 - b. N.V. Luchthaven Twente,
 
