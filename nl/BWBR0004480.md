@@ -4,7 +4,7 @@ identifier: "BWBR0004480"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-01-01"
-last_updated: "2003-08-03"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004480"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Als ambtenaar belast met het toezicht op de naleving van het bepaalde bij of kra
 
 - b. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. de ambtenaren van het agentschap LASER van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+- c. De ambtenaren van de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
