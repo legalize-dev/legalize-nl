@@ -4,7 +4,7 @@ identifier: "BWBR0013692"
 country: "nl"
 rank: "wet"
 publication_date: "2002-09-01"
-last_updated: "2000-01-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013692"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2002-09-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Fonds economische structuurversterking
 
 ##### Artikel II
 
@@ -50,7 +50,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt terug:
+
+- a. wat betreft [artikel I, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=I&z=2002-09-01&g=2002-09-01), tot en met 1 januari 2001;
+
+- b. wat betreft [artikel I, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=I&z=2002-09-01&g=2002-09-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013692&artikel=II&z=2002-09-01&g=2002-09-01), tot en met 1 januari 2000.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
