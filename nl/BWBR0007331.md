@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2003-07-02"
+last_updated: "2004-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -130,67 +130,49 @@ Besluit:
 
 - 6. van km 951.000 tot km 960.600;
 
-- 7. van km 964.000 tot km 970.800;
+- 7. van km 962.400 tot km 970.800;
 
-- 8. van km 971.800 tot km 976.400;
-
-- 9. van km 977.400 tot km 984.100;
-
-- 10. van km 985.100 tot km 988.000;
+- 8. van km 971.800 tot km 989.100;
 
 - o. de Boven-Rijn;
 
 - p. de Waal;
 
-- q. de Boven-Merwede: van km 952.500 tot km 960.000;
+- q. de Boven-Merwede; van km 952.500 tot km 962.000;
 
-- r. de Beneden-Merwede: van km 962.000 tot km 975.000;
+- r. de Beneden-Merwede;
 
-- s. de Nieuwe Merwede:
+- s. de Nieuwe Merwede;
 
-- 1. van km 963.300 tot km 970.000;
+- t. de Amer:
 
-- 2. van km 972.000 tot km 980.000.
+- 1. van km 250.900 tot km 252.400;
 
-- t. de Amer: van km 257.000 tot km 262.500;
+- 2. van km 254.000 tot km 262.500;
 
-- u. de Dordtsche Kil: van km 982.000 tot 988.000;
+- u. de Dordtsche Kil;
 
-- v. de Oude Maas:
+- v. de Oude Maas: vanaf km 976.200;
 
-- 1. van km 982.000 tot km 994.500;
+- w. het Spui: van km 995.300 tot km 1010.000;
 
-- 2. van km 996.000 tot km 1002.000;
+- x. de Noord;
 
-- w. het Spui:
-
-- 1. van km 999.000 tot km 1002.000;
-
-- 2. van km 1004.000 tot km 1007.000;
-
-- x. de Noord: van km 977.000 tot km 984.000;
-
-- y. de Hollandsche IJssel:
-
-- 1). van km 6.000 tot km 13.000;
-
-- 2). van km 14.000 tot km 17.000;
+- y. de Hollandsche IJssel: van km 3.425 tot km 19.800;
 
 - z. de Nieuwe Maas, met uitzondering van het gedeelte tussen km 989.000 en km 990.000;
 
 - aa. de Nieuwe Waterweg;
 
-- ab. Het Hollandsch Diep, met uitzondering van:
-
-- 1. het water gelegen tussen de rood-wit aanvullende markering en de noordoever, vanaf de zuid-westelijke uitloop van de Dordtsche Kil via de kop van de haven van Strijen Sas naar de noordelijke brugpijler van de beweegbare doorvaartopening van de Haringvlietbrug;
-
-- 2. het gebied dat aan de westzijde wordt begrensd door de lijn die de tonnen HD 42-HD 45 verbindt en aan de oostzijde door km. 982.000.
+- ab. Het Hollandsch Diep, met uitzondering van het water gelegen tussen de rood-wit aanvullende markering en de noordoever;
 
 - ac. het Haringvliet:
 
-- 1). het gebied binnen de lijn welke de volgende markeringen verbindt: DG 1, DG 3, DG 5, DG 7, DG 9, DG 11, HV 1/A2, HV 3, HV 5, HV 7, HV 9, HV 11, HV 13, HV 15, HV 17, HV 19, de westelijke havendam van de Buitenhaven van Middelharnis, HV 16, HV 14, HV 10, HV 8a/DvdH 1, HV 8, HV 6, HV 4, HV 2b, HV 2a, HV 2, DG 14, DG 12, DG 10, DG 8, DG 6, HD F, HD E, HD D, HD C, HD B, HD A, DG 4, DG 2, DG 1.
+- 1. het gebied binnen de lijn welke de volgende markeringen verbindt: DG 1, DG 3, DG 5, DG 7, DG 9, DG 11, HV 1/A2, HV 3, HV 2, DG 14, DG 12, DG 10, DG 8, DG 6, HD F, HD E, HD D, HD C, HD B, HD A, DG 4, DG 2, DG 1;
 
-- 2). het gebied binnen de lijn die het zuidelijke landhoofd van de Haringvlietbrug verbindt met de tonnen HV 57, HV 55, HV 56, VG 13, VG 20 tot aan het noordelijke landhoofd van de Haringvlietbrug.
+- 2. het gebied binnen de lijn welke de volgende markeringen verbindt: HV 7, HV 9, HV 11, HV 13, HV 15, HV 17, HV 19, de westelijke havendam van de Buitenhaven van Middelharnis, HV 16, HV 14, HV 10, HV 8a/DvdH 1, HV 8, HV 6, HV 4, HV 7;
+
+- 3. het gebied binnen de lijn die het zuidelijke landhoofd van de Haringvlietbrug verbindt met de tonnen HV 57, HV 55, HV 56, VG 13, VG 20 tot aan het noordelijke landhoofd van de Haringvlietbrug.
 
 - ad. het Volkerak: het gebied ten westen van Dintelmond begrensd door de lijnen: vanaf het gele drijfbaken 1 km west van het groene havenlicht van de haven Dintelsas langs de lichtboeien NV 9, NV 7, NV 5 naar paal ’VK’, vandaar in de richting ZZO naar het gele drijfbaken aan de rand van het verboden gebied ten westen van de Karolinageul, vandaar in de richting ONO naar het gele drijfbaken aan de oever op ca. 820 m ten Zuidwesten van eerdergenoemd groen havenlicht, vandaar in de richting NW naar eerstgenoemde gele drijfbaken;
 
@@ -267,6 +249,8 @@ Besluit:
 - 1. van km 1.600 tot km 3.060;
 
 - 2. van km 3.750 tot km 4.750;
+
+- am. de Afgedamde Maas.
 
 2. 2. Het gestelde in het eerste lid is niet van toepassing:
 
@@ -360,7 +344,7 @@ Besluit:
 
 - 7. van km 951.000 tot km 960.600;
 
-- 8. van km 964.000 tot km 970.800;
+- 8. van km 962.400 tot km 970.800;
 
 - 9. van km 971.800 tot km 976.400;
 
@@ -400,9 +384,11 @@ Besluit:
 
 - r. het Haringvliet:
 
-- 1). het gebied binnen de lijn welke de volgende markeringen verbindt: DG 1, DG 3, DG 5, DG 7, DG 9, DG 11, HV 1/A2, HV 3, HV 5, HV 7, HV 9, HV 11, HV 13, HV 15, HV 17, HV 19, de westelijke havendam van de Buitenhaven van Middelharnis, HV 16, HV 14, HV 10, HV 8a/DvdH 1, HV 8, HV 6, HV 4, HV 2b, HV 2a, HV 2, DG 14, DG 12, DG 10, DG 8, DG 6, HD F, HD E, HD D, HD C, HD B, HD A, DG 4, DG 2, DG 1.
+- 1. het gebied binnen de lijn welke de volgende markeringen verbindt: DG 1, DG 3, DG 5, DG 7, DG 9, DG 11, HV 1/A2, HV 3, HV 2, DG 14, DG 12, DG 10, DG 8, DG 6, HD F, HD E, HD D, HD C, HD B, HD A, DG 4, DG 2, DG 1.
 
-- 2). het gebied binnen de lijn die het zuidelijke landhoofd van de Haringvlietbrug verbindt met de tonnen HV 57, HV 55, HV 56, VG 13, VG 20 tot aan het noordelijke landhoofd van de Haringvlietbrug.
+- 2. het gebied binnen de lijn welke de volgende markeringen verbindt: HV 7, HV 9, HV 11, HV 13, HV 15, HV 17, HV 19, de westelijke havendam van de Buitenhaven van Middelharnis, HV 16, HV 14, HV 10, HV 8a/DvdH 1, HV 8, HV 6, HV 4, HV 7.
+
+- 3. het gebied binnen de lijn die het zuidelijke landhoofd van de Haringvlietbrug verbindt met de tonnen HV 57, HV 55, HV 56, VG 13, VG 20 tot aan het noordelijke landhoofd van de Haringvlietbrug.
 
 - s. het Volkerak: het gebied ten westen van Dintelmond, begrensd door de lijnen: vanaf het gele drijfbaken 1 km west van het groene havenlicht van de haven Dintelsas langs de lichtboeien NV 9, NV 7, NV 5 naar paal ’VK’, vandaar in de richting ZZO naar het gele drijfbaken aan de rand van het verboden gebied ten westen van de Karolinageul, vandaar in de richting ONO naar het gele drijfbaken aan de oever op ca. 820 m ten Zuidwesten van eerdergenoemd groen havenlicht, vandaar in de richting NW naar eerstgenoemde gele drijfbaken;
 
@@ -508,8 +494,10 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - a. de Oude Maas vanaf km 998.000;
 
-- b. de Nieuwe Maas vanaf km 991.700;
+- b. de Nieuwe Maas vanaf km 989.000;
 
-- c. de Nieuwe Waterweg.
+- c. de Nieuwe Waterweg;
 
-2. Op de in het eerste lid genoemde vaarweggedeeltes en de Nieuwe Waterweg is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2003-07-02&g=2003-07-02), niet van toepassing.
+- d. de Noord.
+
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2004-07-16&g=2004-07-16), van overeenkomstige toepassing.
