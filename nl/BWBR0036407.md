@@ -91,9 +91,3 @@ Voorstellen tot het ontnemen van het Kruis van Verdienste, verleend door den Bev
 Wij behouden Ons het recht voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036407&artikel=8&z=1946-07-01&g=1946-07-01) aan den Bevelhebber der Nederlandsche Strijdkrachten gegeven bevoegdheid te allen tijde in te trekken.
 
 Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a*
-
-Ingaande 1 januari 2017 moet een verzoek om toekenning van het Kruis van Verdienste zijn ingediend binnen tien jaar na het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036407&artikel=2&z=2015-07-01&g=2015-07-01) genoemde optreden.
-
-Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
