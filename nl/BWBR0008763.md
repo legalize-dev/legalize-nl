@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2001-07-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt kan op voet van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=6&paragraaf=2&artikel=11&z=2001-07-01&g=2001-07-01), van de wet, slechts door Onze Minister worden aangewezen indien:
+1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt kan op voet van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=6&paragraaf=2&artikel=11&z=2001-07-01&g=2002-07-01), van de wet, slechts door Onze Minister worden aangewezen indien:
 
 - a. de woonruimte geschikt en bestemd is voor begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom is van een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is, en
 
