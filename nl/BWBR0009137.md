@@ -95,13 +95,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.
-
-##### Artikel 7a
-
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30).
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die bij de bibliotheek van het Ministerie van Binnenlandse Zaken ter inzage wordt gelegd.
