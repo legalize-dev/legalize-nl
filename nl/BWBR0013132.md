@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2004-09-01"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-09-01&g=2004-09-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-12-22&g=2004-12-22).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -88,6 +88,8 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 3. Een rechterlijk ambtenaar met rechtspraak belast heeft, indien hij dit wenst, niet langer dan vier achtereenvolgende jaren zitting in dezelfde sector.
 
+4. Het derde lid is niet van toepassing, indien een rechterlijk ambtenaar wordt herplaatst in het kader van een reorganisatie als bedoeld in [hoofdstuk 4A van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a).
+
 #### § 4. De griffie
 
 ##### Artikel 7
@@ -110,7 +112,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2004-09-01&g=2004-09-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2004-12-22&g=2004-12-22), ten behoeve van de betekening.
 
 2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -284,7 +286,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-09-01&g=2004-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2004-09-01&g=2004-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2004-09-01&g=2004-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2004-09-01&g=2004-09-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-12-22&g=2004-12-22), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2004-12-22&g=2004-12-22), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2004-12-22&g=2004-12-22) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2004-12-22&g=2004-12-22), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
