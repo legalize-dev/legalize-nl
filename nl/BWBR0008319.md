@@ -109,9 +109,3 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de Rijkscommissie 
 Deze regeling treedt in werking met ingang van 1 januari 1997.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10
-
-Deze regeling wordt aangehaald als: Regeling Rijkscommissie voor export.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
