@@ -65,7 +65,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 Deze regeling wordt aangehaald als regeling opsporingsbijstand Koninklijke marechaussee.
 
 Deze regeling zal worden gepubliceerd in het Staatscourant en het Algemeen Politieblad.
-
-##### Artikel 2a
-
-Deze regeling berust op [artikel 57, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57).
