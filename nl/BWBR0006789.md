@@ -56,7 +56,3 @@ Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 ## Bijlage 2
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
-
-## Bijlage 3
-
-Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
