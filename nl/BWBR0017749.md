@@ -4,7 +4,7 @@ identifier: "BWBR0017749"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017749"
 soort: "wet"
@@ -141,19 +141,19 @@ C. **Overgangsrecht** Algemene wet inzake rijksbelastingen
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwe](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16)t treedt deze wet in werking met ingang van 1 januari 2005, met dien verstande dat:
 
-- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-01-01&g=2005-01-01), en [artikel IV, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2005-01-01&g=2005-01-01), terugwerken tot en met 1 januari 2003;
+- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-03-18&g=2005-03-18), en [artikel IV, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2005-03-18&g=2005-03-18), terugwerken tot en met 1 januari 2003;
 
-- b. [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-01-01&g=2005-01-01), en [artikel X, onderdelen A, B, D, en E](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=X&z=2005-01-01&g=2005-01-01), terugwerken tot en met 11 maart 2004;
+- b. [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-03-18&g=2005-03-18), en [artikel X, onderdelen A, B, D, en E](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=X&z=2005-03-18&g=2005-03-18), terugwerken tot en met 11 maart 2004;
 
-- c. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=II&z=2005-01-01&g=2005-01-01) terugwerkt tot en met 1 januari 2004.
+- c. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=II&z=2005-03-18&g=2005-03-18) terugwerkt tot en met 1 januari 2004.
 
-2. In afwijking van het eerste lid treedt [artikel VIII, onderdelen A, eerste lid, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2005-01-01&g=2005-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
+2. In afwijking van het eerste lid treedt [artikel VIII, onderdelen A, eerste lid, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2005-03-18&g=2005-03-18), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. indien het Staatsblad waarin dat besluit wordt geplaatst voor 1 januari 2005 wordt uitgegeven en in dat besluit wordt bepaald dat de inwerkingtreding van de genoemde onderdelen plaatsvindt met ingang van 1 januari 2005, [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2005-01-01&g=2005-01-01) vervalt;
+- a. indien het Staatsblad waarin dat besluit wordt geplaatst voor 1 januari 2005 wordt uitgegeven en in dat besluit wordt bepaald dat de inwerkingtreding van de genoemde onderdelen plaatsvindt met ingang van 1 januari 2005, [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2005-03-18&g=2005-03-18) vervalt;
 
 - b. indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat de genoemde onderdelen terugwerken tot en met 1 januari 2005.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-01-01&g=2005-01-01), [artikel IV, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2005-01-01&g=2005-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XII&z=2005-01-01&g=2005-01-01), en [artikel XVIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XVIII&z=2005-01-01&g=2005-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2005-03-18&g=2005-03-18), [artikel IV, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2005-03-18&g=2005-03-18), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XII&z=2005-03-18&g=2005-03-18), en [artikel XVIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XVIII&z=2005-03-18&g=2005-03-18), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
