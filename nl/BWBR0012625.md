@@ -4,7 +4,7 @@ identifier: "BWBR0012625"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2001-10-01"
+last_updated: "2004-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012625"
 soort: "ministeriele-regeling"
@@ -56,6 +56,8 @@ Besluit:
 
 2. Op de gehandicaptenparkeerkaart wordt met een hoofdletter B aangegeven of het een gehandicapte bestuurder betreft en een hoofdletter P of het een gehandicapte passagier betreft. Een combinatie van beide is mogelijk. Een gehandicaptenparkeerkaart, bestemd voor een instelling als bedoeld in het eerste lid, onderdeel e, wordt aangeduid met een hoofdletter I.
 
+3. De afgifte van de gehandicaptenparkeerkaart geschiedt niet elektronisch.
+
 #### Paragraaf 2. Geneeskundig onderzoek
 
 ##### Artikel 2
@@ -64,11 +66,11 @@ Besluit:
 
 2. Een geneeskundig onderzoek kan achterwege worden gelaten, indien:
 
-- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2001-10-01&g=2001-10-01) omschreven criteria;
+- a. aan de aanvrager eerder een gehandicaptenparkeerkaart is verstrekt en de keurende instantie van oordeel is dat de aanvrager nog steeds voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2004-09-10&g=2004-09-10) omschreven criteria;
 
 - b. op grond van [artikel 49, derde lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) een gehandicaptenparkeerkaart wordt verstrekt in verband met een kortstondig verblijf.
 
-3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2001-10-01&g=2001-10-01).
+3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2004-09-10&g=2004-09-10).
 
 ##### Artikel 3
 
