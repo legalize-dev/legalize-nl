@@ -4,7 +4,7 @@ identifier: "BWBR0013478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2002-07-01"
+last_updated: "2003-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013478"
 soort: "ministeriele-regeling"
@@ -53,7 +53,9 @@ Als ambtenaren, bedoeld in [artikel 73, eerste lid, onderdeel a, van de Luchtvaa
 
 - e. de ambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht en opsporing;
 
-- f. de ambtenaren van de Dienst Luchtvaartpolitie van het Korps Landelijke Politiediensten.
+- f. de ambtenaren van de Dienst Luchtvaartpolitie van het Korps Landelijke Politiediensten;
+
+- g. de ambtenaren van de Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, die zijn belast met het toezicht op de uitvoering door de LVNL van de op [artikel 5.34a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.34a) gebaseerde regels inzake kwaliteits- en veiligheidszorg.
 
 ##### Artikel 2
 
@@ -67,7 +69,7 @@ Als personen, bedoeld in [artikel 102, eerste lid, van de Regeling Toezicht Luch
 
 ##### Artikel 3
 
-Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2002-07-01&g=2002-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2002-07-01&g=2002-07-01) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2003-10-16&g=2003-10-16) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2003-10-16&g=2003-10-16) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
 
 ##### Artikel 4
 
