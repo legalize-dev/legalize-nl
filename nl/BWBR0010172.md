@@ -168,37 +168,3 @@ De Loonregeling strafgevangenissen, huizen van bewaring en rijkswerkinrichtingen
 Deze regeling wordt aangehaald als: Regeling arbeidsloon gedetineerde.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid geldt niet:
-
-- a. gedurende de eerste twee weken van de detentie;
-
-- b. gedurende de eerste acht weken van de detentie ten aanzien van:
-
-- 1°. een al dan niet onherroepelijk veroordeelde die is aangehouden nadat hij zich heeft onttrokken aan de tenuitvoerlegging van de gevangenisstraf of de voorlopige hechtenis;
-
-- 2°. een veroordeelde die is aangehouden nadat ten aanzien van hem de tenuitvoerlegging van een voorwaardelijk opgelegde vrijheidsstraf is gelast;
-
-- 3°. een persoon die is aangehouden nadat hij zich heeft onttrokken aan de vervangende hechtenis bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24c) juncto [artikel 36f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), aan de gijzeling bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) of aan gijzeling als bedoeld in de [artikelen 6:4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:20) of [6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25).
-
-- 4°. een tot vrijheidsstraf veroordeelde die niet gedetineerd is op het moment waarop de rechterlijke uitspraak onherroepelijk wordt en die geen gehoor heeft gegeven aan een oproep tot het ondergaan van zijn vrijheidsstraf;
-
-- 5°. een veroordeelde die is aangehouden nadat zijn voorwaardelijke invrijheidstelling is herroepen.
-
-- c. ten opzichte van een gedetineerde die is geplaatst in een Justitieel Medisch Centrum, als bedoeld in [artikel 19 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=19).
-
-2. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid vervalt ten aanzien van een gedetineerde die vanwege zijn gedrag tijdens de arbeid op grond van een besluit van de directeur structureel is uitgesloten van toegang tot arbeid. In het besluit bepaalt de directeur de duur van de uitsluiting.
-
-#### § 2. Beloning van arbeid in de inrichting
-
-#### § 2a. Beloning voor extramurale arbeid
-
-#### § 3. Loonvervangende financiële tegemoetkomingen
-
-#### § 4. Uitzonderingsbepalingen
-
-#### § 5. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
