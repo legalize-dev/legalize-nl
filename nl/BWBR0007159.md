@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2003-07-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=17), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27a), [28, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [28a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28a), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29), [36a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7a), [7b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
+1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=17), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8aa, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8aa), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -230,7 +230,7 @@ De vrijstelling, bedoeld in artikel 17, eerste lid, onderdeel b, van de wet, is 
 
 - b. het gewicht per partij afval;
 
-- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2003-07-01&g=2003-07-01).
+- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2004-01-01&g=2004-01-01).
 
 2. In afwijking in zoverre van het eerste lid, is de administratie van de houder van een inrichting waar baggerspecie ter verwijdering wordt afgegeven zodanig ingericht dat daarin per partij op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
 
@@ -284,19 +284,15 @@ De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld 
 
 ##### Artikel 7
 
-1. De herleiding van feitelijke hoeveelheden van minerale oliën tot hoeveelheden bij een temperatuur van 15° C geschiedt op de voet van artikel 14 van de Uitvoeringsregeling accijns.
-
-2. De vaststelling van het loodgehalte van ongelode lichte olie en gelode lichte olie geschiedt op de voet van artikel 12 van de Uitvoeringsregeling accijns.
-
-3. Het researchoktaangetal van ongelode en gelode lichte olie wordt vastgesteld volgens de norm (NEN)-ISO 5164 (RON). Interpretatie van de resultaten geschiedt volgens de norm ISO 4259.
+Vervallen
 
 ##### Artikel 7a
 
-Voor de toepassing van artikel 24, tweede lid, van de wet dient uit de administratie van de belastingplichtige, bedoeld in artikel 24, eerste lid, van de wet, te blijken hoeveel aardgas aan hem is geleverd.
+Vervallen
 
 ##### Artikel 7b
 
-De verklaring, bedoeld in artikel 6c, eerste lid, van het besluit, wordt ondertekend en bevat ten minste:
+De verklaring, bedoeld in [artikel 6c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=6c), wordt ondertekend en bevat ten minste:
 
 - a. de dagtekening;
 
@@ -304,31 +300,15 @@ De verklaring, bedoeld in artikel 6c, eerste lid, van het besluit, wordt onderte
 
 - c. naam en adres van de leverancier;
 
-- d. de hoeveelheid en de soort brandstoffen waarvoor vrijstelling wordt verleend;
+- d. de hoeveelheid kolen waarvoor vrijstelling wordt verleend;
 
 - e. het kalenderjaar waarop de verklaring betrekking heeft.
 
 ##### Artikel 8
 
-1.
+1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
-De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in de artikelen 28 en 28a van de wet, is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
-
-2. In het verzoek om teruggaaf, bedoeld in artikel 28a, eerste lid, van de wet, worden de volgende gegevens vermeld:
-
-- a. het tijdvak waarover teruggaaf wordt verzocht;
-
-- b. naam en adres van de verbruiker;
-
-- c. naam en adres van de leveranciers;
-
-- d. de hoeveelheid aardgas waarvoor teruggaaf wordt verzocht per leverancier;
-
-- e. de periode van levering van het aardgas;
-
-- f. het bedrag aan belasting dat wordt teruggevraagd.
-
-3. In het verzoek om teruggaaf, bedoeld in artikel 28a, tweede lid, van de wet, worden de volgende gegevens vermeld:
+2. In het verzoek om teruggaaf, bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), worden de volgende gegevens vermeld:
 
 - a. het tijdvak waarover teruggaaf wordt verzocht;
 
@@ -336,13 +316,13 @@ De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld 
 
 - c. naam en adres van de leverancier;
 
-- d. de hoeveelheid en de soort brandstoffen waarvoor teruggaaf wordt verzocht;
+- d. de hoeveelheid kolen waarvoor teruggaaf wordt verzocht;
 
-- e. de periode van levering van de brandstoffen;
+- e. de periode van levering van de kolen;
 
 - f. het bedrag aan belasting dat wordt teruggevraagd.
 
-### Hoofdstuk IVa. Regulerende energiebelasting
+### Hoofdstuk IVa. Energiebelasting
 
 ##### Artikel 8a
 
@@ -356,33 +336,21 @@ De herleiding van feitelijke hoeveelheden halfzware olie en gasolie tot hoeveelh
 
 ##### Artikel 8b
 
-1.
+1. Voor de toepassing van [artikel 36j, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j) wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.
 
-Voor de toepassing van artikel 36c, vierde lid, van de wet wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.
-
-2.
-
-Toepassing van het eerste lid kan achterwege blijven indien een gedeelte van een maand in aanmerking wordt genomen naar evenredigheid van het aantal dagen.
-
-3.
-
-De voor de toepassing van artikel 36c, vierde lid, van de wet gehanteerde methode wordt eveneens gebruikt voor de toepassing van artikel 36j, derde lid, van de wet.
+2. Toepassing van het eerste lid kan achterwege blijven indien een gedeelte van een maand in aanmerking wordt genomen naar evenredigheid van het aantal dagen.
 
 ##### Artikel 8c
 
-Vervallen.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 36e, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e) is artikel 8j van overeenkomstige toepassing.
 
 ##### Artikel 8d
 
-1.
+1. Uit de administratie van de belastingplichtige, bedoeld in [artikel 36e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e), dient te blijken hoe de voorschotbedragen, bedoeld in [artikel 36h, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), kunnen worden herleid naar hoeveelheden aardgas, overige gassen en elektriciteit en hoe het voorschotbedrag is opgebouwd.
 
-Uit de administratie van de belastingplichtige, bedoeld in artikel 36e, tweede lid, van de wet, dient te blijken hoe de voorschotbedragen, bedoeld in artikel 36h, derde lid, onderdeel a, van de wet, kunnen worden herleid naar hoeveelheden aardgas en elektriciteit en hoe het voorschotbedrag is opgebouwd.
+2. Voor de toepassing van [artikel 36e, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e) dient uit de administratie van de belastingplichtige, bedoeld in [artikel 36e, derde en negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e), te blijken hoeveel aardgas, overige gassen en elektriciteit aan hem is geleverd.
 
-2. Voor de toepassing van artikel 36e, vijfde lid, van de wet dient uit de administratie van de belastingplichtige, bedoeld in artikel 36e, derde en vierde lid, van de wet, te blijken hoeveel aardgas en elektriciteit aan hem is geleverd.
-
-3.
-
-Indien de verrekening, bedoeld in artikel 36h, vijfde lid, van de wet, leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
+3. Indien de verrekening, bedoeld in [artikel 36h, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
 ##### Artikel 8e
 
@@ -426,7 +394,17 @@ Bij het verzoek om teruggaaf worden de aankoopfacturen overgelegd van de in het 
 
 2. De in het eerste lid bedoelde verklaring heeft betrekking op al het per aansluiting in het kalenderjaar door de leverancier aan de tuinbouwer te leveren aardgas; indien slechts een deel van dat aardgas wordt gebruikt voor het in het eerste lid vermelde doel, wordt dit in de verklaring vermeld en wordt de omvang van dit doel vermeld.
 
-3. De verklaring, bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8a), van het besluit, wordt ondertekend en bevat ten minste:
+3. De verklaring, bedoeld in [artikel 8ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8ab&z=2004-01-01&g=2004-01-01), van het besluit wordt ondertekend en bevat ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van de verbruiker;
+
+- c. naam en adres van de leverancier;
+
+- d. het kalenderjaar waarop de verklaring betrekking heeft.
+
+4. De verklaring, bedoeld in [artikel 8ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8ab&z=2004-01-01&g=2004-01-01), van het besluit, wordt ondertekend en bevat ten minste:
 
 - a. naam en adres van de leverancier;
 
@@ -434,9 +412,9 @@ Bij het verzoek om teruggaaf worden de aankoopfacturen overgelegd van de in het 
 
 - c. het tijdvak waarop de verklaring betrekking heeft;
 
-- d. de hoeveelheid elektriciteit waarop de groencertificaten, die de belastingplichtige in het tijdvak heeft gebruikt voor de toepassing van [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), betrekking hebben.
+- d. de hoeveelheid elektriciteit waarop de garanties van oorsprong, die de belastingplichtige in het tijdvak heeft gebruikt voor de toepassing van [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), betrekking hebben.
 
-4. Ter zake van de levering van elektriciteit, bedoeld in [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), vindt het aldaar bedoelde schijventarief slechts toepassing indien de leverancier ter zake van die levering een contract kan overleggen waarin zijn vermeld:
+5. Ter zake van de levering van elektriciteit, bedoeld in [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), vindt het aldaar bedoelde schijventarief slechts toepassing indien de leverancier ter zake van die levering een contract kan overleggen waarin zijn vermeld:
 
 - a. de dagtekening;
 
@@ -448,9 +426,7 @@ Bij het verzoek om teruggaaf worden de aankoopfacturen overgelegd van de in het 
 
 - e. de hoeveelheid en de prijs van de te leveren elektriciteit, bedoeld in [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i).
 
-5.
-
-Het vierde lid is van overeenkomstige toepassing op het schijventarief, bedoeld in [artikel 36i, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), ter zake van de levering van stortgas, rioolwaterzuiveringsgas of biogas.
+6. Het vierde lid is van overeenkomstige toepassing op het schijventarief, bedoeld in [artikel 36i, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), ter zake van de levering van stortgas, rioolwaterzuiveringsgas of biogas.
 
 ##### Artikel 8g
 
@@ -458,7 +434,7 @@ Vervallen.
 
 ##### Artikel 8h
 
-De verklaring, bedoeld in artikel 8b, eerste lid, van het besluit, wordt ondertekend en bevat ten minste:
+De verklaring, bedoeld in [artikel 8b, eerste, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8b), wordt ondertekend en bevat ten minste:
 
 - a. de dagtekening;
 
@@ -498,7 +474,7 @@ De verklaring, bedoeld in artikel 8b, eerste lid, van het besluit, wordt onderte
 
 - e. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
 
-4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2003-07-01&g=2003-07-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
+4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2004-01-01&g=2004-01-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
 
 5. In het verzoek om teruggaaf, bedoeld in [artikel 36l, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
@@ -518,9 +494,9 @@ De verklaring, bedoeld in artikel 8b, eerste lid, van het besluit, wordt onderte
 
 ##### Artikel 8j
 
-De administratie van de belastingplichtige, bedoeld in artikel 36e, tweede lid, van de wet, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
+De administratie van de belastingplichtige, bedoeld in [artikel 36e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36e), dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
 
-- a. de hoeveelheden aardgas en elektriciteit die zijn geleverd;
+- a. de hoeveelheden aardgas, overige gassen en elektriciteit die zijn geleverd;
 
 - b. de belasting begrepen in voorschotnota's en voorschotbedragen;
 
@@ -528,35 +504,33 @@ De administratie van de belastingplichtige, bedoeld in artikel 36e, tweede lid, 
 
 - d. de belasting begrepen in facturen;
 
-- e. het aantal aansluitingen voor aardgas en elektriciteit;
+- e. het aantal aansluitingen voor aardgas, overige gassen en elektriciteit;
 
 - f. de periode van aansluiting;
 
 - g. het aantal malen dat de belastingvermindering is toegepast;
 
-- h. het aantal malen dat de bovengrenzen zijn toegepast;
+- h. de evenredige toedeling van belastingverminderingen bij afwijkende verbruiksperioden;
 
-- i. de evenredige toedeling van bovengrenzen en belastingverminderingen bij afwijkende verbruiksperioden;
+- i. het eigen verbruik;
 
-- j. het eigen verbruik;
+- j. de contracten ten aanzien van de onbemeterde aansluitingen;
 
-- k. de contracten ten aanzien van de onbemeterde aansluitingen;
+- k. de toepassing van de in [artikel 36c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c) bedoelde uitzondering ter zake van leveringen van elektriciteit aan degene die op zijn beurt leveringen via een aansluiting aan de verbruiker verricht;.
 
-- l. de toepassing van de regeling, bedoeld in artikel 36c, achtste lid, van de wet;
+- l. de toepassing van het schijventarief, bedoeld in [artikel 36i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i);
 
-- m. de toepassing van het schijventarief, bedoeld in artikel 36i, vierde lid, van de wet;
+- m. de toepassing van de vrijstellingen, bedoeld in [artikel 36k, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k);
 
-- n. de toepassing van de vrijstelling, bedoeld in artikel 36k, eerste lid, van de wet;
+- n. de toepassing van het schijventarief, bedoeld in [artikel 36i, eerste lid, onderdelen d en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i);
 
-- o. de toepassing van het schijventarief, bedoeld in artikel 36i, eerste lid, onderdelen d en e, van de wet;
+- o. de toepassing van het schijventarief, bedoeld in [artikel 36i, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i);
 
-- p. de toepassing van het schijventarief, bedoeld in artikel 36i, zesde lid, van de wet;
-
-- q. de toepassing van het schijventarief, bedoeld in artikel 36i, zevende lid, van de wet.
+- p. de toepassing van het schijventarief, bedoeld in [artikel 36i, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i).
 
 ##### Artikel 8ja
 
-De teruggaafregeling, bedoeld in artikel 361, zevende lid, van de wet, is eveneens van toepassing met betrekking tot aardgas en elektriciteit, gebruikt in onroerende zaken die hoofdzakelijk in gebruik zijn bij een instelling als bedoeld in artikel 361, elfde lid, van de wet, mits
+1. De teruggaafregeling, bedoeld in [artikel 36l, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), is eveneens van toepassing met betrekking tot aardgas en elektriciteit, gebruikt in onroerende zaken die hoofdzakelijk in gebruik zijn bij een instelling als bedoeld in [artikel 36l, elfde lid, eerste en derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), mits
 
 - a. de instelling beschikt over notarieel verleden statuten waaruit de doelstelling blijkt en deze desgevraagd worden overgelegd;
 
@@ -566,13 +540,19 @@ De teruggaafregeling, bedoeld in artikel 361, zevende lid, van de wet, is evenee
 
 - d. de instelling verklaart dat zij niet of slechts in beperkte mate werkzaam is op het gebied van sport, gezondheidszorg of onderwijs;
 
-- e. de instelling verklaart dat zij niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld.
+- e. de instelling verklaart dat zij niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld;
+
+alsmede, indien het een instelling als bedoeld in [artikel 36l, elfde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), betreft:
+
+- f. de werkzaamheden van de instelling nagenoeg geheel worden verricht door natuurlijke personen om niet of naar een loon dat in belangrijke mate lager is dan hetgeen in het economische verkeer gebruikelijk is.
+
+2. Een statuut als bedoeld in [artikel 2, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) wordt gelijkgesteld met notarieel verleden statuten als bedoeld in het eerste lid, aanhef en onderdeel a, indien dit statuut schriftelijk is vastgelegd.
 
 ##### Artikel 8jb
 
-1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in artikel 36l, twaalfde lid van de wet, is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
+1. De administratie van degene die verzoekt om teruggaaf van belasting als bedoeld in [artikel 36l, twaalfde, dertiende of veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
-2. In het verzoek om teruggaaf, bedoeld in artikel 36l, twaalfde lid, van de wet, worden de volgende gegevens vermeld:
+2. In het verzoek om teruggaaf, bedoeld in [artikel 36l, twaalfde, dertiende of veertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
 - a. het tijdvak waarover teruggaaf wordt verzocht;
 
@@ -580,9 +560,9 @@ De teruggaafregeling, bedoeld in artikel 361, zevende lid, van de wet, is evenee
 
 - c. naam en adres van de leveranciers;
 
-- d. de hoeveelheid aardgas waarvoor teruggaaf wordt verzocht per leverancier;
+- d. de hoeveelheid en het soort product waarvoor teruggaaf wordt verzocht per leverancier;
 
-- e. de periode van levering van het aardgas;
+- e. de periode van levering van het product;
 
 - f. het bedrag aan belasting dat wordt teruggevraagd.
 
@@ -608,7 +588,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2003-07-01&g=2003-07-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2004-01-01&g=2004-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -651,3 +631,27 @@ Deze regeling treedt in werking met ingang van de datum waarop de bepalingen van
 Deze regeling wordt aangehaald als:
 
 [Uitvoeringsregeling belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007159).
+
+##### Artikel 8ab
+
+1. De in [artikel 36c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c) bedoelde uitzondering ter zake van leveringen van elektriciteit aan degene die op zijn beurt leveringen via een aansluiting aan de verbruiker verricht, is van toepassing indien degene aan wie die elektriciteit wordt geleverd een verklaring heeft overgelegd aan de leverancier dat hij leveringen via een aansluiting aan de verbruiker verricht.
+
+2. De verklaring, bedoeld in het eerste lid, wordt ondertekend en bevat ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van degene die op zijn beurt leveringen via een aansluiting aan de verbruiker verricht;
+
+- c. naam en adres van de leverancier;
+
+- d. de hoeveelheid elektriciteit waarop de uitzondering betrekking heeft;
+
+- e. het kalenderjaar waarop de verklaring betrekking heeft.
+
+3. Degene aan wie met toepassing van de uitzondering, bedoeld in [artikel 36c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c) elektriciteit wordt geleverd, dient:
+
+- a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de heffing van de energiebelasting van belang zijnde bedrijfshandelingen;
+
+- b. met behulp van elektriciteitsmeters de hoeveelheid elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 36c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c).
+
+### Hoofdstuk V. Slotbepalingen
