@@ -4,7 +4,7 @@ identifier: "BWBR0013337"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-10-15"
-last_updated: "2002-01-01"
+last_updated: "2003-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013337"
 soort: "AMvB"
@@ -48,16 +48,22 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De materialen waaruit de bijzondere munten met de hoedanigheid van wettig betaalmiddel zijn vervaardigd, de gewichten en afmetingen, luiden als volgt:
+De materialen waaruit de bijzondere munten met de hoedanigheid van wettig betaalmiddel worden vervaardigd, de gewichten en afmetingen, worden als volgt vastgesteld:
 
-| Muntsoort | Metaal | Gehalte nominaal | tolerantie + of – %punt | Gewicht nominaal gram | tolerantie + of – % | Middellijn nominaal | tolerantie + of – millimeter |
+| Muntsoort | Metaal | Gehalte |   | Gewicht |   | Middellijn |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | nominaal | tolerantie | nominaal | tolerantie | nominaal | tolerantie |
+|   |   |   | + of – |   | + of – |   | + of – |
+|   |   | % | %-punt | gram | % |   | millimeter |
+| vijftig-euromunt | goud | Au 90,0 | 0,5 | 13,44 | 0,7 | 27 | 0,10 |
+| twintig-euromunt | goud | Au 90,0 | 0,5 | 8,5 | 0,7 | 25 | 0,10 |
 | tien-euromunt | zilver | Ag 92,5 | 0,5 | 17,8 | 0,7 | 33 | 0,10 |
 |   | goud | Au 90,0 | 0,5 | 6,72 | 0,7 | 22,5 | 0,10 |
+| vijf-euromunt | zilver | Ag 92,5 | 0,5 | 11,9 | 0,7 | 29 | 0,10 |
 
 ##### Artikel 2
 
-De bijzondere munten, genoemd in [artikel 2 van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2), hebben in Nederland de hoedanigheid van wettig betaalmiddel tot een bedrag van € 500 voor tien-euromunten.
+De bijzondere munten, bedoeld in [artikel 2 van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2), hebben in Nederland de hoedanigheid van wettig betaalmiddel tot een bedrag van € 2 500 voor vijftig-euromunten, € 1 000 voor twintig-euromunten, € 500 voor tien-euromunten en € 250 voor vijf-euromunten.
 
 ##### Artikel 3
 
