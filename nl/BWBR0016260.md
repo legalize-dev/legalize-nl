@@ -4,7 +4,7 @@ identifier: "BWBR0016260"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2003-01-01"
+last_updated: "2004-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016260"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2004-02-04&g=2003-01-01);
+- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2004-02-04&g=2004-02-04);
 
 - c. risicobeoordelingsprocedure: het onderwerpen van nieuwe drugs aan een risicobeoordeling volgens vastgelegde criteria en werkwijze.
 
