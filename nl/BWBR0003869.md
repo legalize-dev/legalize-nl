@@ -173,9 +173,3 @@ De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overh
 Deze algemene maatregel van rijksbestuur treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
-
-##### Artikel 6a
-
-Dit besluit wordt aangehaald als: Besluit uitbreiding territoriale zee van het Caribische deel van het Koninkrijk.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
