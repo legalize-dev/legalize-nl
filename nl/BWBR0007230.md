@@ -1,0 +1,455 @@
+---
+title: "Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
+identifier: "BWBR0007230"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007230"
+soort: "AMvB"
+stam_id: "997403"
+version_id: "19780112"
+internal_id: "C27779811"
+label_id: "966534"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007230/2026-01-01/0"
+intitule_bron: "Stb.1995-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-04"
+intitule_published: "1995-02-14"
+intitule_in_force: "1995-02-14"
+intitule_status: "goed"
+original_publication: "Stb.2012-557"
+original_signed_date: "2012-11-06"
+original_published_date: "2012-11-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-557"
+entry_into_force_date: "2012-11-06"
+jci_1_3: "jci1.3:c:BWBR0007230&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007230&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
+signed_date: "2012-11-06"
+entry_into_force: "2012-11-06"
+---
+# Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
+
+Op de voordracht van de Staatssecretaris van Financiën van 23 november 1994, nr. WV 94/508 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken Van de Vondervoort;
+
+Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3) en [39 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39);
+
+De Raad van State gehoord (advies van 16 januari 1995, nr. W 06.94.0709);
+
+Gezien het nader rapport van de Staatssecretaris van Financiën van 2 februari 1995, nr. WV 95/40U, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken Van de Vondervoort;
+
+Hebben goedgevonden en verstaan:
+
+### Hoofdstuk 1. Definities
+
+##### Artikel 1
+
+1. Dit besluit geeft uitvoering aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3) en [39 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39).
+
+2. In dit besluit wordt verstaan onder:
+
+- a. wet: [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119);
+
+- b. waardering: waardebepaling en waardevaststelling van onroerende zaken op de voet van de wet;
+
+- c. afnemers: de overheden die gebruik maken van de ingevolge de wet vastgestelde waarden ten behoeve van de heffing van belastingen;
+
+- d. Onze Minister: de Minister van Financiën.
+
+### Hoofdstuk 2. Kostenverrekening
+
+##### Artikel 2
+
+1. De kosten van de Waarderingskamer komen ten laste van de afnemers. Het Rijk betaalt 25 percent, de gemeenten 50 percent en de waterschappen 25 percent.
+
+2. De kosten van de waardering komen ten laste van de afnemers. Het Rijk betaalt 30 percent van de kosten, de waterschappen 30 percent van de kosten voor zover betrekking hebbend op de gebieden die volgens de provinciale verordeningen, bedoeld in [artikel 2, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=2) in waterschapsverband gelegen zijn en de gemeenten het restant.
+
+##### Artikel 3
+
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2002-01-01&g=2002-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+
+##### Artikel 4
+
+1. Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2002-01-01&g=2002-01-01), worden verstaan de kosten verbonden aan:
+
+- 1°. het opstellen van het bij de Waarderingskamer in te dienen plan van aanpak voor de waardering;
+
+- 2°. het verzamelen van gegevens ten behoeve van de waardebepaling alsmede aan het bijhouden daarvan;
+
+- 3°. het uitvoeren van de waardebepaling;
+
+- 4°. het opmaken en verzenden van de beschikkingen, bedoeld in de artikelen 22, 25, 26, 27, 28 en 29 van de wet;
+
+- 5°. het behandelen van bezwaar- en beroepschriften tegen de beschikkingen, bedoeld in de artikelen 22, 25, 26, 27 en 28 van de wet.
+
+2. Als bedrag van de kosten van de waardering komt voor verrekening in aanmerking € 12 Per 01-01-2002: € 13.per kalenderjaar per object waarover gegevens als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=8&z=2002-01-01&g=2002-01-01) moeten worden geleverd, mits over dit object in het kalenderjaar verwerkbare gegevens zijn geleverd dan wel over dit object de gegevens in de administratie van de afnemer reeds beschikbaar zijn en op grond van de bij het begin van het kalenderjaar geldende regelgeving geen aanvullende levering van gegevens behoeft plaats te vinden.
+
+3. De geleverde gegevens worden verwerkbaar geacht indien de gegevens zijn geleverd conform de op het moment van de levering geldende regelgeving. Binnen vier weken na de levering van de gegevens bericht de afnemer het college van burgemeester en wethouders omtrent de verwerkbaarheid van die gegevens. Indien de afnemer niet binnen vier weken bericht, worden de gegevens vier weken na de levering verwerkbaar geacht.
+
+4. Het bedrag, genoemd in het tweede lid, wordt jaarlijks bij ministeriële regeling aangepast. Daartoe wordt het bedrag, zoals dat zou hebben geluid als het niet rekenkundig zou zijn afgerond op hele euro’s doch op centen, geïndexeerd met de prijsmutatie van de totale overheidsconsumptie voor het tweede, aan het kalenderjaar waarop de aanpassing ziet, voorafgaande kalenderjaar zoals die door het Centraal Planbureau in het Centraal Economisch Plan is gepubliceerd. Het aldus berekende bedrag wordt rekenkundig afgerond op hele euro’s.
+
+##### Artikel 4a
+
+Indien gedurende een tijdvak van vier achtereenvolgende kalenderjaren (waarderingskostentijdvak) het totaal van de in redelijkheid gemaakte kosten van de waardering meer dan 2,5 percent hoger is dan het totaal van de over het desbetreffende waarderingskostentijdvak in rekening gebrachte bedragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), komt het verschil tussen het totaal van de in redelijkheid gemaakte waarderingskosten en het totaal van de in rekening gebrachte bedragen ten laste van de afnemers, mits is voldaan aan de volgende voorwaarden:
+
+- a. het totaal van de in redelijkheid gemaakte kosten van de waardering wordt berekend volgens het rekenmodel dat Onze Minister na overleg met de Waarderingskamer bij ministeriële regeling vaststelt en
+
+- b. deze berekening is geaccordeerd door de Waarderingskamer die beoordeelt of het college van burgemeester en wethouders de kosten van de waardering redelijkerwijs heeft moeten maken.
+
+##### Artikel 5
+
+1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=12&z=2002-01-01&g=2002-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
+
+2. De afnemers voldoen hun aandeel in de begrote kosten binnen vier weken.
+
+3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=13&z=2002-01-01&g=2002-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
+
+##### Artikel 6
+
+1. Het college van burgemeester en wethouders brengt aan de afnemers hun aandeel in het bedrag, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), in rekening.
+
+2. De afnemers voldoen de in het eerste lid bedoelde rekening binnen vier weken nadat zij hebben bericht dat de geleverde gegevens verwerkbaar zijn dan wel binnen vier weken nadat [artikel 4, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), toepassing heeft gevonden.
+
+3. De afnemers voldoen hun aandeel in het verschil, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4a&z=2002-01-01&g=2002-01-01), met inachtneming van de berekende wettelijke rente over het waarderingskostentijdvak, binnen vier weken nadat zij de door de Waarderingskamer geaccordeerde berekening en de berekening van de wettelijke rente hebben ontvangen van het college van burgemeester en wethouders.
+
+4. Voor de berekening van de wettelijke rente, bedoeld in het derde lid, wordt het verschil over enig kalenderjaar tussen het totaal van de in redelijkheid gemaakte kosten van de waardering en het totaal van de bedragen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=4&z=2002-01-01&g=2002-01-01), die in rekening zijn gebracht of in rekening hadden kunnen worden gebracht op 1 juli van dat kalenderjaar rentedragend. De berekende wettelijke rente is het saldo van over het waarderingskostentijdvak aan de afnemers in rekening te brengen wettelijke rente en aan de afnemers te vergoeden wettelijke rente.
+
+### Hoofdstuk 3. Gegevensbeheer
+
+##### Artikel 7
+
+Ten behoeve van de heffing van belastingen door de afnemers worden met betrekking tot onroerende zaken die ten minste een van de afnemers betrekt in de heffing van een belasting naar een waardemaatstaf, door het college van burgemeester en wethouders ten minste de in de bijlage vermelde gegevens geregistreerd.
+
+##### Artikel 8
+
+1. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01), van de wet bedoelde gemeenteambtenaar levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2002-01-01&g=2002-01-01) bedoelde gegevens aan de afnemers.
+
+2. De levering van gegevens aan de afnemers vindt plaats:
+
+- a. ter zake van een beschikking als bedoeld in de artikelen 22, 25, 26 van de wet: binnen acht weken na de aanvang van het eerste kalenderjaar waarvoor die beschikking geldt;
+
+- b. ter zake van een beschikking als bedoeld in de artikelen 27, 28 en 29 van de wet: binnen vier weken na de vaststelling van de beschikking, met dien verstande dat gegevens betreffende een beschikking die is verminderd krachtens een beslissing op een bezwaarschrift of een rechterlijke uitspraak, worden geleverd binnen twee weken nadat die uitspraak onherroepelijk is komen vast te staan.
+
+3. Het college van burgemeester en wethouders of de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=1&artikel=1&z=2002-01-01&g=2002-01-01), van de wet bedoelde gemeenteambtenaar stelt de afnemers binnen vier weken op de hoogte van feiten of omstandigheden met betrekking tot een beschikking, die voor de afnemers van belang zijn in het kader van de heffing en de invordering van hun belastingen.
+
+##### Artikel 9
+
+Onze Minister stelt in overleg met de Waarderingskamer een standaard-uitwisselingsformaat voor de levering van gegevens vast.
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+##### Artikel 10
+
+Vervallen
+
+##### Artikel 11
+
+Vervallen
+
+##### Artikel 12
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995.
+
+##### Artikel 13
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+– Voor ieder WOZ-object:
+
+(01.01) uniek WOZ-objectnummer
+
+Unieke adressering voorzover noodzakelijk bestaande uit:
+
+(10.20) woonplaatsnaam
+
+(11.10) straatnaam
+
+(11.20) huisnummer
+
+(11.30) huisletter
+
+(11.40) huisnummertoevoeging
+
+(11.50) aanduiding bij huisnummer
+
+(11.60) postcode
+
+(11.70) lokatieomschrijving
+
+(12.20) gebruikscode
+
+(14.10) code gebouwd/ongebouwd
+
+(15.10) vastgestelde waarde
+
+(15.20) waardepeildatum
+
+(15.30) bijzondere-waarderingscode
+
+(15.40) aanduiding valutasoort
+
+(15.50) code blokkeren
+
+Indien het WOZ-object door middel van een sluimerend WOZ-object geen onderdeel gemaakt is van een complex (anders wordt dit gegeven geregistreerd en geleverd voor het sluimerend WOZ-object):
+
+(12.10) grondoppervlakte
+
+Indien het WOZ-object bij het gegeven «(14.10) code gebouwd/ongebouwd» is gemerkt als «gedeeltelijk gebouwd, gedeeltelijk ongebouwd»:
+
+(14.20) meegetaxeerde oppervlakte gebouwd
+
+(14.30) aandeel waarde gebouwd
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Per WOZ-object dat door middel van een sluimerend WOZ-object geen onderdeel gemaakt is van een complex, voor ieder kadastraal object dat betrokken is bij dat WOZ-object (anders worden deze gegevens geregistreerd en geleverd voor het sluimerend WOZ-object):
+
+(01.01) uniek WOZ-objectnummer
+
+(51.10) kadastrale gemeentecode
+
+(51.20) sectie
+
+(51.30) perceelnummer
+
+(51.40) perceel-index-letter
+
+(51.50) perceel-index-nummer
+
+(52.10) toegekende oppervlakte
+
+Indien het WOZ-object bij het gegeven «(14.10) code gebouwd/ongebouwd» is gemerkt als «gedeeltelijk gebouwd, gedeeltelijk ongebouwd»:
+
+(52.20) meegetaxeerde oppervlakte gebouwd per kadastraal object
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Voor ieder WOZ-object dat doorsneden wordt door een waterschapsgrens, per waterschap waarin het WOZ-object gelegen is:
+
+(01.01) uniek WOZ-objectnummer
+
+(15.10) vastgestelde waarde
+
+(71.10) code afnemer
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Per WOZ-object voor ieder subject te wiens aanzien een beschikking is genomen met betrekking tot dat WOZ-object:
+
+(01.01) uniek WOZ-objectnummer
+
+(01.20) SoFi-nummer
+
+(01.21) aanvulling SoFi-nummer
+
+(41.10) aanduiding eigenaar/gebruiker
+
+(41.30) c.s.-code
+
+Indien subject een natuurlijk persoon is:
+
+(01.10) A-nummer natuurlijk persoon
+
+Indien subject de eigenaar is:
+
+(41.20) zakelijk-rechtcode
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Voor ieder subject dat als belanghebbende een beschikking heeft ontvangen:
+
+(01.20) SoFi-nummer
+
+(01.21) aanvulling SoFi-nummer
+
+Indien subject een natuurlijk persoon is:
+
+(01.10) A-nummer natuurlijk persoon
+
+(02.11) voorletters
+
+(02.30) voorvoegsels
+
+(04.05) aanduiding naamgebruik
+
+(03.10) geboortedatum natuurlijk persoon
+
+Indien subject een niet-natuurlijk persoon is:
+
+(01.30) Handelsregisternummer
+
+(02.40) geslachtsnaam/statutaire naam
+
+Indien tenaamstelling bij natuurlijk persoon anders luidt dan de geslachtsnaam:
+
+(02.31) voorvoegsels behorend bij partnernaam
+
+(02.41) partnernaam/bedrijfsnaam verkort
+
+Indien tenaamstelling bij niet-natuurlijk persoon anders luidt dan de statutaire naam:
+
+(02.41) partnernaam/bedrijfsnaam verkort
+
+Indien natuurlijk persoon overleden is:
+
+(08.10) datum overlijden natuurlijk persoon
+
+(08.11) status subject
+
+(10.10) functie adres
+
+Volledig postadres van subject voorzover noodzakelijk bestaande uit:
+
+(11.10) straatnaam
+
+(11.20) huisnummer
+
+(11.30) huisletter
+
+(11.40) huisnummertoevoeging
+
+(11.50) aanduiding bij huisnummer
+
+(11.60) postcode
+
+(11.70) lokatieomschrijving
+
+(10.20) woonplaatsnaam
+
+(13.10) landnaam
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Voor iedere genomen WOZ-beschikking en voor iedere wijziging van de status van een genomen beschikking:
+
+(01.01) uniek WOZ-objectnummer
+
+(01.10) A-nummer natuurlijk persoon
+
+(01.20) SoFi-nummer
+
+(01.21) aanvulling SoFi-nummer
+
+(15.20) waardepeildatum
+
+(22.10) code status beschikking
+
+(22.20) datum status
+
+(81.10) mutatiecode
+
+(81.20) ingangsdatum
+
+(81.30) einddatum
+
+– Voor iedere levering van gegevens aan een afnemer:
+
+(09.10) gemeentecode
+
+(09.11) gemeentenaam
+
+(71.10) code afnemer
+
+(91.10) contactpersoon
+
+(91.20) telefoonnummer contactpersoon
+
+(91.30) softwareleverancier
+
+(91.40) versie Stuf-WOZ
+
+(92.10) aanmaakdatum
+
+(92.20) bijgewerkt tot en met maand
+
+(92.30) datum vorige aanlevering
+
+(93.30) aard leveringsbestand
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2a
+
+1. De in artikel 2, tweede lid, vermelde jaarlijkse vergoeding van het Rijk en de waterschappen ter zake van de kosten van de waardering wordt aan de individuele gemeenten uitbetaald. Bij ministeriële regeling worden regels gesteld omtrent de wijze van verdeling over de individuele gemeenten van deze vergoeding en omtrent de tijdstippen van uitbetaling van deze vergoeding aan een individuele gemeente.
+
+2. Bij de verdeling van de vergoeding over de individuele gemeenten wordt rekening gehouden met:
+
+- a. een basisbedrag voor elke gemeente;
+
+- b. een vergoeding per object, waarbij onderscheid wordt gemaakt naar woningen, niet-woningen en adressen in buitengebieden;
+
+- c. een inhouding van een bedrag voor de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.
+
+3. Bij de bepaling van de tijdstippen van uitbetaling van de vergoeding aan een individuele gemeente wordt rekening gehouden met de mate waarin door de desbetreffende gemeente is voldaan aan de verplichting tot het leveren van verwerkbare gegevens.
+
+### Hoofdstuk 3. Gegevensbeheer
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(93.30) aard leveringsbestand
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(93.30) aard leveringsbestand
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 9a
+
+1. De Dienst beheert de landelijke voorziening WOZ in overleg met de afnemers.
+
+2. Het overleg met de afnemers vindt plaats in de Waarderingskamer.
+
+### Hoofdstuk 4. Gegevensverstrekking
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(92.30) datum vorige aanlevering
+
+(93.30) aard leveringsbestand
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
