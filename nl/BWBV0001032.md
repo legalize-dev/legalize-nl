@@ -262,9 +262,3 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het
 2. De beëindiging van dit Verdrag door de Regering van het Koninkrijk der Nederlanden kan worden beperkt tot één van de samenstellende delen van het Koninkrijk.
 
 GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.
-
-##### Artikel 10 bis. Gevoelige informatie in een verzoek
-
-Indien de verzoekende Staat overweegt bijzonder gevoelige informatie over te leggen ter ondersteuning van zijn uitleveringsverzoek, kan hij de aangezochte Staat raadplegen om na te gaan in hoeverre de informatie door de aangezochte Staat kan worden beschermd. Indien de aangezochte Staat de informatie niet overeenkomstig de wensen van de verzoekende Staat kan beschermen, bepaalt de verzoekende Staat of de informatie desondanks wordt overgelegd.
-
-GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.
