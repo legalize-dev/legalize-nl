@@ -402,37 +402,3 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, normbladen en fiches die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
-
-## Bijlage 1
-
-Vervallen
-
-## Bijlage 2
-
-Vervallen
-
-## Bijlage 3
-
-Vervallen
-
-## Bijlage 4
-
-Vervallen
-
-## Bijlage 5
-
-Vervallen
-
-## Bijlage 6
-
-Vervallen
-
-## Bijlage 7
-
-Vervallen
-
-## Bijlage 8
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, normbladen en fiches die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
