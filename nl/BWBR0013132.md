@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2004-07-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -48,23 +48,23 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Paragraaf 1. Definitiebepaling
+#### § 1. Definitiebepaling
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder «bestuur van een gerecht»: de Hoge Raad, het bestuur van een rechtbank dan wel het bestuur van een gerechtshof.
 
-#### Paragraaf 2. Zittingen
+#### § 2. Zittingen
 
 ##### Artikel 2
 
-1. De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de zittingen aanvangen, worden door het bestuur van een gerecht vastgesteld bij reglement.
-
-2. Het reglement wordt gepubliceerd in de Staatscourant.
+De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de zittingen aanvangen, worden door het bestuur van een gerecht vastgesteld bij reglement. Voor burgerlijke zaken die met een dagvaarding worden ingeleid, worden in dat reglement de dag en het uur van de rolbehandeling opgenomen.
 
 ##### Artikel 3
 
-De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak danwel de organisatie van het gerecht, buitengewone zittingen worden gehouden.
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-09-01&g=2004-09-01).
+
+2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
 ##### Artikel 4
 
@@ -74,93 +74,87 @@ De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelv
 
 ##### Artikel 5
 
-De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer is belast met de handhaving van de orde tijdens de zittingen. Hij is bevoegd aan de procespartijen, advocaten, procureurs, gemachtigden en in persoon procederende partijen, die optreden in zaken in zijn kamer aanhangig, inlichtingen te vragen naar aanleiding van de processtukken en de mondelinge voordrachten.
+1. Iedere rechterlijke ambtenaar met rechtspraak belast is bevoegd aan de procespartijen, advocaten, procureurs en gemachtigden die optreden in zaken in zijn kamer aanhangig, inlichtingen te vragen naar aanleiding van de processtukken en de mondelinge voordrachten.
 
-#### Paragraaf 3. Indeling kamers
+2. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer is belast met de handhaving van de orde tijdens de zittingen.
+
+#### § 3. Indeling kamers
 
 ##### Artikel 6
 
-1. De leden van een kamer zijn bevoegd, na kennisgeving aan het bestuur onderscheidenlijk de president van de Hoge Raad, zich te laten vervangen door een lid van een andere kamer, tenzij de gang van zaken binnen laatstgenoemde kamer zich daartegen verzet.
+1. Het bestuur onderscheidenlijk de president van de Hoge Raad stelt vast hoe de voorzitter van een meervoudige kamer, bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=6), en [75, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75) wordt aangewezen.
 
-2. Een rechterlijk ambtenaar met rechtspraak belast heeft, indien hij dit wenst, niet langer dan vier achtereenvolgende jaren zitting in dezelfde sector.
+2. De leden van een kamer kunnen zich met instemming van het bestuur onderscheidenlijk de president van de Hoge Raad laten vervangen door een andere rechterlijke ambtenaar met rechtspraak belast, tenzij de goede gang van zaken binnen het gerecht zich daartegen verzet.
 
-#### Paragraaf 4. De griffie
+3. Een rechterlijk ambtenaar met rechtspraak belast heeft, indien hij dit wenst, niet langer dan vier achtereenvolgende jaren zitting in dezelfde sector.
+
+#### § 4. De griffie
 
 ##### Artikel 7
 
 1. Het bestuur van een gerecht draagt zorg voor de bewaring van de aan de griffie toegezonden of ter griffie neergelegde stukken en geldbedragen.
 
-2. Het bestuur van een gerecht draagt er zorg voor dat binnen vierentwintig uur aan het openbaar ministerie kennis wordt gegeven van de ontvangst van processtukken in strafzaken die ingevolge de wet aan de griffie moeten worden toegezonden of ter griffie moeten worden neergelegd.
+2. Het bestuur van een gerecht draagt er zorg voor dat binnen een dag aan het openbaar ministerie kennis wordt gegeven van de ontvangst van processtukken in strafzaken die ingevolge de wet aan de griffie moeten worden toegezonden of ter griffie moeten worden neergelegd.
 
 ##### Artikel 8
 
-1. Processtukken en, buiten de gevallen bij de wet bepaald, bevelschriften en in raadkamer genomen beschikkingen in strafzaken worden verzonden in minuut.
+1. De arresten of vonnissen, in strafzaken gewezen, worden binnen het Rijk betekend.
 
-2. Onder processtukken worden niet verstaan:
-
-- a. de vonnissen en arresten gewezen in de openbare terechtzitting;
-
-- b. de processen-verbaal van hetgeen is voorgevallen op de terechtzitting;
-
-- c. de aantekeningen of verklaringen die in krachtens de wet te houden openbare registers worden ingeschreven.
-
-##### Artikel 9
-
-1. De arresten of vonnissen, in strafzaken gewezen, worden binnen het Rijk op de minuut betekend.
-
-2. Indien de betekening of tenuitvoerlegging geschiedt binnen het Rijk worden op de minuut ten uitvoer gelegd en betekend:
+2. Indien de betekening of tenuitvoerlegging geschiedt binnen het Rijk worden ten uitvoer gelegd en betekend:
 
 - a. beschikkingen in raadkamer genomen;
 
 - b. bevelen tot voorlopige aanhouding, gevangenhouding, gevangenneming en medebrenging.
 
-3. De minuten worden afgegeven aan degenen die met de uitvoering zijn belast.
+3. De stukken, bedoeld in het eerste en tweede lid, worden afgegeven aan degenen die met de uitvoering zijn belast.
+
+##### Artikel 9
+
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2004-09-01&g=2004-09-01), ten behoeve van de betekening.
+
+2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
 ##### Artikel 10
 
-1. De ambtenaren van het openbaar ministerie kunnen de minuten van alle uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken ten behoeve van de betekening.
+1. De openingstijden van de griffie worden, met inachtneming van het tweede lid, door het bestuur van een gerecht vastgesteld bij reglement.
 
-2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken in minuut per dienstbrief of op een andere veilige wijze.
+2. De griffie is in de hoofdplaats, de nevenvestigingsplaats en de nevenzittingsplaats op de dagen waarop terechtzittingen worden gehouden ten behoeve van de bij die zittingen betrokken procespartijen en hun advocaten en gemachtigden tenminste een kwartier voor de aanvang van een zitting en een kwartier na afloop daarvan geopend.
+
+3. Bij de behandeling van zaken in een nevenzittingsplaats buiten het rechtsgebied treedt de griffie van het gerecht binnen wiens rechtsgebied de nevenzittingsplaats is gelegen op als griffie van de hoofdplaats als bedoeld in de [artikelen 41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), en [59, zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59). De besturen van de betrokken gerechten dragen er zorg voor dat de griffie, de griffierwerkzaamheden en de administratie van zaken van het gerecht op de nevenzittingsplaats gescheiden en als zodanig herkenbaar worden uitgevoerd van de griffie, de griffierwerkzaamheden en administratie van zaken van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen.
 
 ##### Artikel 11
-
-1. De griffie is in de hoofdplaats, de nevenvestigingsplaats en de nevenzittingsplaats:
-
-- a. op de dagen waarop terechtzittingen worden gehouden tenminste een half uur voor de aanvang daarvan geopend;
-
-- b. op zaterdagen geopend, mits op een dergelijke dag zittingen worden gehouden;
-
-- c. op zondagen en dagen die bij of krachtens de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) zijn aangemerkt als algemeen erkende feestdagen gesloten, tenzij op een dergelijke dag een zitting wordt gehouden.
-
-2. Bij de behandeling van zaken in een nevenzittingsplaats buiten het rechtsgebied treedt de griffie van het gerecht binnen wiens rechtsgebied de nevenzittingsplaats is gelegen op als griffie van de hoofdplaats als bedoeld in de [artikelen 41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), en [59, zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59). De besturen van de betrokken gerechten dragen er zorg voor dat de griffie, de griffierwerkzaamheden en de administratie van zaken van het gerecht op de nevenzittingsplaats gescheiden en als zodanig herkenbaar worden uitgevoerd van de griffie, de griffierwerkzaamheden en administratie van zaken van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen.
-
-##### Artikel 12
 
 Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffierswerkzaamheden in ieder geval uit:
 
 - a. het bijwonen van terechtzittingen en verhoren;
 
-- b. het bijwonen van andere dan de onder a genoemde bijeenkomsten, tenzij de voorzitter van de betrokken kamer of degene die zitting heeft in een enkelvoudige kamer anders beslist;
+- b. het maken van aantekeningen, en
 
-- c. het maken van aantekeningen zoals vereist door de wet of door een rechterlijk ambtenaar met rechtspraak belast, en
+- c. het bieden van ondersteuning aan een rechterlijk ambtenaar met rechtspraak belast in al diens ambtsverrichtingen.
 
-- d. het bieden van ondersteuning aan een rechterlijk ambtenaar met rechtspraak belast in al diens ambtsverrichtingen.
+##### Artikel 12
+
+1. Indien door feitelijke omstandigheden van tijdelijke aard het niet mogelijk is dat griffierswerkzaamheden worden uitgevoerd in de hoofdplaats, de nevenvestigingsplaats of de nevenzittingsplaats, kan het bestuur van een gerecht bepalen dat voor de duur van die omstandigheden griffierswerkzaamheden elders worden verricht.
+
+2. Het besluit wordt gepubliceerd in de Staatscourant.
 
 #### Paragraaf 5. Verdeling zaken
 
 ##### Artikel 13
 
-1. Het bestuur van een gerecht draagt er zorg voor dat een algemene rol wordt gehouden voor burgerlijke zaken waarop alle zaken worden ingeschreven:
+1. Het bestuur van een gerecht draagt zorg voor een deugdelijke administratie van de bij het gerecht aanhangige zaken, met dien verstande dat deze administratie tenminste voldoet aan de volgende eisen:
 
-- a. in de volgorde waarin zij worden aangebracht,
+- a. de rol deel uitmaakt van de administratie en dat inschrijving ter rolle gebeurt door inschrijving in de administratie;
 
-- b. met de namen van de partijen, de advocaten, de gemachtigden en de procureurs,
+- b. zaken worden ingeschreven in de volgorde waarin zij worden aangebracht;
 
-- c. onder toekenning van een afzonderlijk nummer, en
+- c. elke zaak een afzonderlijk nummer wordt toegekend;
 
-- d. voorzien van een korte aantekening van al hetgeen in de zaak voorvalt.
+- d. bij elke zaak tenminste worden vermeld de namen van de partijen en, indien van toepassing, van de advocaten, procureurs of gemachtigden, en
 
-2. Indien binnen de gerechten meerdere kamers zijn gevormd voor de behandeling van burgerlijke zaken, krijgt elke kamer een afzonderlijke rol. De zaken worden in dat geval onverwijld aangebracht bij de kamer die daartoe is aangewezen in het bestuursreglement, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=19&z=2004-07-01&g=2004-07-01), en in het geval van de Hoge Raad in het reglement, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75).
+- e. bij elke zaak aantekening wordt gehouden van het verloop van de procedure en van hetgeen verder dienstig wordt geacht.
+
+2. Een kamer kan, met instemming van het bestuur van het gerecht, bij haar aanhangige zaken verwijzen naar een andere kamer van gelijk getal binnen dezelfde sector.
 
 ##### Artikel 14
 
@@ -170,45 +164,63 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 ##### Artikel 15
 
-1. Het bestuur van een gerecht draagt er zorg voor dat voor elke zitting een uittreksel van de rol beschikbaar is, die de zaken vermeldt die moeten worden opgeroepen.
+1. Het bestuur van een gerecht draagt er zorg voor dat tijdig voor elke openbare zitting een overzicht van de te behandelen zaken beschikbaar is, onder vermelding van:
 
-2. Indien de zaken gereed zijn voor voordracht, gebeurt dit in de volgorde waarin zij op de rol voorkomen.
+- a. de zaken die ter zitting zullen worden behandeld, en
 
-3. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
+- b. de namen van de behandelende rechterlijke ambtenaren met rechtspraak belast.
+
+2. In afwijking van het eerste lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkt overzicht ter beschikking stellen.
+
+3. Indien de zaken gereed zijn voor voordracht, gebeurt dit in de volgorde waarin zij op de rol voorkomen.
+
+4. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
 
 ##### Artikel 16
 
-Indien een zaak niet tijdens een zitting kan worden afgedaan, wordt de behandeling op een andere dag voortgezet, waarbij de oorspronkelijke volgorde van de zaken gehandhaafd blijft.
+1. Een vonnis, arrest of beschikking in burgerlijke zaken wordt uitgesproken door:
+
+- a. de voorzitter of een lid van de meervoudige kamer die dit vonnis of arrest heeft gewezen of de beschikking heeft gegeven;
+
+- b. het lid van de enkelvoudige kamer dat dit vonnis of arrest heeft gewezen of de beschikking heeft gegeven, of
+
+- c. de rolrechter onderscheidenlijk de rolraadsheer.
+
+2. Een vonnis, arrest of beschikking in strafzaken wordt zo mogelijk uitgesproken door de voorzitter of één der rechterlijke ambtenaren met rechtspraak belast die over de zaak hebben geoordeeld.
+
+3. Een uitspraak in bestuursrechtelijke zaken en in belastingzaken wordt zo mogelijk door de voorzitter of één der rechterlijke ambtenaren met rechtspraak belast die over de zaak hebben geoordeeld ter zitting meegedeeld.
+
+4. Wanneer een rechterlijk ambtenaar met rechtspraak belast of griffier buiten staat is een uitspraak of een proces-verbaal te ondertekenen wordt daarvan in het betreffende stuk melding gemaakt.
 
 ##### Artikel 17
 
-Indien tegen een bij verstek gewezen vonnis of arrest in verzet wordt gekomen, herneemt de zaak haar oude plaats op de rol, tenzij de voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer een dag vaststelt waarop het verzet wordt behandeld.
+In strafzaken waarin de stukken ingevolge de wet aan de griffie moeten worden toegezonden of ter griffie ter inzage moeten worden neergelegd, worden door het bestuur van een gerecht bij reglement de tijden vastgesteld waarop inzage in de stukken kan worden verkregen door de ambtenaren van het openbaar ministerie of van het parket bij de Hoge Raad, de verdachten, de raadslieden van de verdachten, de benadeelde partijen in strafzaken en hun advocaten en gemachtigden.
 
 ##### Artikel 18
 
-Het bestuur van een rechtbank of een gerechtshof draagt er zorg voor dat een afzonderlijke rol wordt gehouden voor de zaken die door de voorzieningenrechter in kort geding worden behandeld.
+Voor andere zaken dan strafzaken waarin recht op inzage van stukken bestaat, worden door het bestuur van een gerecht de tijden en de wijze waarop inzage kan plaatsvinden, vastgesteld bij reglement.
 
 ##### Artikel 19
 
-Het bestuur van een gerecht draagt er zorg voor dat een rol wordt gehouden voor strafzaken waarop alle zaken die op de openbare terechtzitting worden behandeld, worden ingeschreven, overeenkomstig de [onderdelen van a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2004-07-01&g=2004-07-01).
+1. Indien een verdachte of een raadsman van een verdachte ingevolge de wet bevoegd is kennis te nemen van de processtukken wordt hem daartoe de gelegenheid geboden hetzij ter griffie hetzij, indien de verdachte rechtens van zijn vrijheid is beroofd, daar waar hij zich bevindt hetzij elders.
+
+2. Indien door feitelijke omstandigheden van tijdelijke aard het niet mogelijk is dat aan – al dan niet rechtens van hun vrijheid beroofde – verdachten of hun raadslieden als bedoeld in het eerste lid, ter griffie gelegenheid wordt geboden kennis te nemen van processtukken kan het bestuur van een gerecht bepalen dat voor de duur van die omstandigheden elders gelegenheid wordt geboden tot kennisneming van processtukken.
+
+3. Het besluit wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 20
 
-Het bestuur van een gerechtshof draagt er zorg voor dat een rol wordt gehouden voor belastingzaken waarop alle zaken worden ingeschreven, overeenkomstig de [onderdelen a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2004-07-01&g=2004-07-01).
+1. Indien dat noodzakelijk wordt geacht door:
 
-#### Paragraaf 6. Inzage stukken
+- a. de rechter-commissaris tijdens het gerechtelijk vooronderzoek,
 
-##### Artikel 21
+- b. een ambtenaar van het openbaar ministerie tijdens het overige voorbereidend onderzoek,
 
-In strafzaken waarin de stukken ingevolge de wet aan de griffie moeten worden toegezonden of ter griffie ter inzage moeten worden neergelegd, bepaalt het bestuur van een gerecht de tijden waarop inzage in de stukken kan worden verkregen door de rechterlijke ambtenaren met rechtspraak belast, de ambtenaren van het openbaar ministerie of van het parket bij de Hoge Raad en de raadslieden van de verdachten.
+- c. de voorzitter van de kamer dan wel degene die zitting heeft in een enkelvoudige kamer door wie de zaak wordt behandeld van het tijdstip af, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33),
 
-##### Artikel 22
+wordt de kennisneming onder toezicht gehouden.
 
-Indien een verdachte of een raadsman van een verdachte ingevolge de wet bevoegd is kennis te nemen van de processtukken wordt hem daartoe de gelegenheid geboden hetzij ter griffie hetzij, indien de verdachte rechtens van zijn vrijheid is beroofd, daar waar hij zich bevindt hetzij elders.
-
-##### Artikel 23
-
-1. De mogelijkheid tot kennisneming wordt aldus geboden:
+2. De mogelijkheid tot kennisneming wordt aldus geboden:
 
 - a. van de stukken wordt het origineel dan wel een afschrift voorgelegd;
 
@@ -216,45 +228,41 @@ Indien een verdachte of een raadsman van een verdachte ingevolge de wet bevoegd 
 
 - c. aan de verdachte die rechtens van zijn vrijheid is beroofd, worden desgewenst de voor het maken van de aantekeningen vereiste middelen ter beschikking gesteld.
 
-2. De kennisneming wordt indien noodzakelijk onder toezicht gehouden.
+#### Paragraaf 6. Inzage stukken
+
+##### Artikel 21
+
+1. Aan de raadslieden van verdachten in strafzaken worden zo spoedig als mogelijk is afschriften toegezonden van processtukken waarvan de kennisneming wettelijk is toegestaan.
+
+2. Op verzoek van de verdachte of diens raadslieden worden zo spoedig als mogelijk is afschriften van processtukken waarvan de kennisneming wettelijk is toegestaan, aan hen verstrekt. Voor meer dan eenmalige verstrekking als bedoeld in dit lid kan van de verzoeker een vergoeding worden gevraagd met toepassing van [artikel 2, tweede lid, van het Besluit tarieven openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005869&artikel=2).
+
+3. De verzending, bedoeld in het eerste lid, en de verstrekking, bedoeld in het tweede lid, vindt plaats door degene onder wie de processtukken zich bevinden.
+
+##### Artikel 22
+
+1. De ambtenaren van het openbaar ministerie werkzaam bij de arrondissementsparketten en bij de ressortsparketten zenden een afschrift van een in kracht van gewijsde gegane uitspraak van een rechtbank of gerechtshof in burgerlijke zaken en belastingzaken naar de procureur-generaal bij de Hoge Raad, indien deze uitspraak naar hun mening in aanmerking komt voor cassatie in het belang der wet.
+
+2. De inzending van de afschriften, bedoeld in het eerste lid, wordt met redenen omkleed.
+
+##### Artikel 23
+
+1. De ambtenaren van het openbaar ministerie zenden een afschrift van een in kracht van gewijsde gegane uitspraak in strafzaken van een rechtbank of gerechtshof van de plaats van vestiging van hun arrondissementsparket onderscheidenlijk ressortsparket, naar de procureur-generaal bij de Hoge Raad, indien deze uitspraak naar hun mening onder zijn aandacht moet worden gebracht wegens het algemeen belang of een andere reden.
+
+2. De inzending van de afschriften, bedoeld in het eerste lid wordt met redenen omkleed.
 
 ##### Artikel 24
 
-Indien noodzakelijk geschiedt de kennisneming onder verantwoordelijkheid van:
-
-- a. de rechter-commissaris tijdens het gerechtelijk vooronderzoek;
-
-- b. leden van het openbaar ministerie tijdens het overige voorbereidend onderzoek;
-
-- c. de voorzitter van de kamer dan wel degene die zitting heeft in een enkelvoudige kamer door wie de zaak wordt behandeld van het tijdstip af, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33).
+De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen geen deel aan de beraadslagingen in de raadkamer over het opmaken van een beschikking, vonnis of arrest.
 
 ##### Artikel 25
 
-Op hun verzoek worden afschriften van processtukken waarvan de kennisneming wettelijk is toegestaan, zo spoedig als mogelijk is verstrekt aan de verdachte of diens raadsman, zonder dat daardoor het onderzoek vertraging ondervindt.
+1. De griffier van de Hoge Raad draagt zorg voor de bij de Hoge Raad in behandeling zijnde stukken.
+
+2. Bij afwezigheid van de griffier treedt op een substituut-griffier dan wel, bij afwezigheid van een substituut-griffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
 
 #### Paragraaf 7. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
 ##### Artikel 26
-
-Het nemen van een conclusie op de daarvoor vastgestelde dag door ambtenaren van het openbaar ministerie of de procureur-generaal bij de Hoge Raad, kan slechts eenmaal worden uitgesteld.
-
-##### Artikel 27
-
-1. De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen geen deel aan de beraadslagingen in de raadkamer over het opmaken van een beschikking, vonnis of arrest.
-
-2. De ambtenaren van het openbaar ministerie en van het parket bij de Hoge Raad zijn bevoegd om in de registers van de gerechten hun requisitoiren in te schrijven indien zij dat noodzakelijk achten.
-
-### Hoofdstuk 2. Hoge Raad
-
-#### Paragraaf 1. De griffier en de gerechtsvergadering
-
-##### Artikel 28
-
-1. De griffier van de Hoge Raad is het hoofd van de griffie en draagt zorg voor de boekerij en de bij de Hoge Raad in behandeling zijnde stukken.
-
-2. Bij afwezigheid van de griffier treedt als hoofd van de griffie op een substituut-griffier dan wel, bij afwezigheid van een substituutgriffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
-
-##### Artikel 29
 
 1. De in [artikel 72, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=72), genoemde rechterlijke ambtenaren met rechtspraak belast en de griffier vormen tezamen de gerechtsvergadering van de Hoge Raad.
 
@@ -262,21 +270,37 @@ Het nemen van een conclusie op de daarvoor vastgestelde dag door ambtenaren van 
 
 3. Het bijeenroepen geschiedt door een schriftelijke kennisgeving van de president. Hij doet dit ten minste zeven dagen voorafgaand aan de bijeenkomst.
 
-4. De bij de Hoge Raad werkzame gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
+4. De bij de Hoge Raad werkzame gerechtsauditeurs, substituut-griffiers en gerechtsambtenaren en de bij het parket van de Hoge Raad werkzame rechterlijke ambtenaren en gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
+
+##### Artikel 27
+
+1. In de gedingen, bedoeld in [artikel 76 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=76), zal een lid van de bij het reglement van inwendige dienst, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75), aangewezen kamer tot commissaris worden benoemd, en wordt tevens de behandeling aan die kamer opgedragen, met uitzondering van de behandeling op de openbare terechtzitting.
+
+2. De behandeling op de openbare terechtzitting vindt plaats door een andere, eveneens bij het reglement van inwendige dienst aangewezen, kamer dan de kamer, bedoeld in het eerste lid.
+
+### Hoofdstuk 2. Hoge Raad
+
+#### Paragraaf 1. De griffier en de gerechtsvergadering
+
+##### Artikel 28
+
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-09-01&g=2004-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2004-09-01&g=2004-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2004-09-01&g=2004-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2004-09-01&g=2004-09-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+
+2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
+
+##### Artikel 29
+
+Het Reglement I wordt ingetrokken.
 
 #### Paragraaf 2. Behandeling bijzondere zaken
 
 ##### Artikel 30
 
-1. In de gedingen, bedoeld in [artikel 76 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=76), zal een lid van de bij het reglement van inwendige dienst, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75), aangewezen kamer tot commissaris worden benoemd, en wordt tevens de behandeling aan die kamer opgedragen, met uitzondering van de behandeling op de openbare terechtzitting.
-
-2. De behandeling op de openbare terechtzitting vindt plaats door een andere, eveneens bij het reglement van orde aangewezen, kamer dan de kamer, bedoeld in het eerste lid.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 31
 
-1. De ambtenaren van het openbaar ministerie werkzaam bij de ressortsparketten en bij de arrondissementsparketten zenden een afschrift van een in kracht van gewijsde gegaan vonnis, arrest of uitspraak van een rechtbank of gerechtshof in burgerlijke zaken en belastingzaken naar de procureur-generaal bij de Hoge Raad, indien dit naar hun mening in aanmerking komt voor cassatie in het belang der wet.
-
-2. De inzending van de afschriften, bedoeld in het eerste lid, wordt met redenen omkleed.
+Dit besluit wordt aangehaald als: Besluit orde van dienst gerechten.
 
 ##### Artikel 32
 
@@ -322,7 +346,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Griffierswerkzaamheden voor strafzaken van het gerechtshof te Amsterdam worden met ingang van 13 oktober 2003 tijdelijk mede verricht te Amstelveen.
 
-#### Paragraaf 5. Verdeling zaken
+#### § 5. Administratie van aanhangige zaken
 
 #### Paragraaf 6. Inzage stukken
 
@@ -339,5 +363,19 @@ Kennisneming van processtukken van strafzaken van het gerechtshof te Amsterdam d
 #### Paragraaf 2. Behandeling bijzondere zaken
 
 ### Hoofdstuk 3. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 6. Inzage stukken
+
+##### Artikel 19a
+
+Kennisneming van processtukken van strafzaken van het gerechtshof te Amsterdam door een verdachte die niet rechtens van zijn vrijheid is beroofd of diens raadsman, vindt met ingang van 13 oktober 2003 tijdelijk plaats in Amstelveen.
+
+### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
+
+### Hoofdstuk 3. Hoge Raad
+
+### Hoofdstuk 4. Overige bepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
