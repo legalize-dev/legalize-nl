@@ -1,0 +1,611 @@
+---
+title: "Besluit van 23 december 1983 tot vaststelling van modelschema's voor de inrichting van jaarrekeningen"
+identifier: "BWBR0003648"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-11-01"
+last_updated: "1995-08-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003648"
+soort: "AMvB"
+stam_id: "718283"
+version_id: "1047402"
+internal_id: "C1047401"
+label_id: "696294"
+dtd_version: "2.0"
+original_entry_into_force: "1984-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003648/2015-11-01/0"
+intitule_bron: "Stb.1983-666"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-12-23"
+intitule_in_force: "1983-12-21"
+intitule_status: "goed"
+original_publication: "Stb.1983-666"
+original_signed_date: "1983-12-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1984-01-01"
+jci_1_3: "jci1.3:c:BWBR0003648&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0003648&g=2015-11-01"
+citeertitel_status: "officieel"
+short_title: "Besluit modellen jaarrekening"
+signed_date: "1983-12-23"
+entry_into_force: "1984-01-01"
+---
+# Besluit van 23 december 1983 tot vaststelling van modelschema's voor de inrichting van jaarrekeningen
+
+Op de voordracht van Onze Minister van Justitie van 10 november 1983, nr. 615/683;
+
+Overwegende dat ter uitvoering van de vierde richtlijn van de Raad van Europese Gemeenschappen inzake het vennootschapsrecht modellen moeten worden vastgesteld voor de inrichting van jaarrekeningen;
+
+Gelet op [artikel 363 lid 6 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=363);
+
+De Raad van State gehoord, advies van 21 december 1983, nr. W03.83.0578/05.3.52;
+
+Gezien het nader rapport van Onze Minister van Justitie van 22 december 1983, nr. 678/683; Stafafdeling Wetgeving Privaatrecht;
+
+Hebben goedgevonden en verstaan:
+
+Datum inwerking treding 1 januari 1984
+
+##### Artikel 1
+
+1. De balans van een naamloze of besloten vennootschap moet zijn ingericht overeenkomstig model A of model B, de winst- en verliesrekening overeenkomstig een der modellen E-H. Deze modellen zijn als bijlage bij dit besluit gevoegd.
+
+2. Is [artikel 396 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) van toepassing, dan kan de vennootschap voor de balans ook model C of model D kiezen en voor de winst- en verliesrekening model I of model J. Deze modellen zijn bij dit besluit gevoegd.
+
+##### Artikel 2
+
+Vennootschappen waarop [artikel 396 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) van toepassing is, zijn verplicht voor het exemplaar van de jaarrekening of van de balans met toelichting dat ten kantore van het handelsregister wordt neergelegd, papier te gebruiken van bladformaat A4 waarvan de rugzijde ongebruikt blijft en waarop de balans op één bladzijde wordt gesteld evenals in voorkomend geval de winst- en verliesrekening. Zij mogen bij gebruik van model D de gezamenlijke actiefposten en de gezamenlijke passiefposten onder elkaar plaatsen.
+
+##### Artikel 3
+
+De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. Zo veel mogelijk worden daarnaast de bedragen voor het voorafgaande boekjaar gegeven. Boven de kolommen wordt in de balans de balansdatum en in de winst- en verliesrekening het boekjaar vermeld waarop zij betrekking hebben.
+
+##### Artikel 4
+
+1. De aanduiding van het gekozen model mag worden weggelaten; het lettertype is vrij.
+
+2. De letters en cijfers voor de posten mogen worden weggelaten of vervangen.
+
+3. Posten zonder bedrag worden weggelaten, tenzij een bedrag voor het voorafgaande jaar moet worden vermeld. De aanwezigheid van een post in een model laat de bevoegdheid open geen bedrag in te vullen, wanneer de wet dat toestaat.
+
+##### Artikel 5
+
+1. Van de benamingen Vaste activa, Vlottende activa, Kortlopende schulden, Langlopende schulden, Voorzieningen en Eigen vermogen mag niet worden afgeweken.
+
+2. Andere benamingen mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
+
+3. De uitkomsten van tussentellingen mogen worden ingevoegd en benoemd.
+
+4. Tussentellingen en eindtellingen in de modellen die niet worden genoemd in de [artikelen 364 tot en met 377 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=364) of, voor zover het betreft banken dan wel, voor zover het betreft verzekeringsmaatschappijen, in de [artikelen 429 tot en met 440 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=429), in het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) mogen onbenoemd blijven. Opeenvolgende tussentellingen die onderling niet verschillen wegens het ontbreken van tussenliggende posten, mogen worden samengevoegd.
+
+##### Artikel 6
+
+1. De volgorde van de posten is die van het gekozen model. De post "aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen" mag ook aan alle financiële baten en lasten vooraf gaan.
+
+2. Participatiemaatschappijen mogen de volgorde van de posten wijzigen in overeenstemming met het gebruik in hun bedrijfstak.
+
+3. Onder participatiemaatschappij wordt in dit artikel verstaan een rechtspersoon of vennootschap waarvan de werkzaamheid is beperkt tot uitsluitend of nagenoeg uitsluitend het deelnemen in andere rechtspersonen of vennootschappen zonder zich in te laten met de bedrijfsvoering daarvan, tenzij door het uitoefenen van aandeelhoudersrechten.
+
+##### Artikel 7
+
+1. Aan de posten van de modellen mag een uitsplitsing worden toegevoegd; zij mogen door een uitsplitsing worden vervangen.
+
+2. Posten mogen worden ingevoegd, voor zover hun inhoud niet wordt gedekt door een in het gekozen model vermelde post die niet als "overige" is aangeduid.
+
+3. De in de [artikelen 377 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) en [437 lid 5 onder **c** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=437) en lid 9 lid 1 onder **c** van het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=10&z=1995-08-30&g=1995-08-30).
+
+4. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.
+
+##### Artikel 8
+
+1. Elke ononderbroken reeks met arabische cijfers genummerde posten in een model kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de balans, met herhaling van de som.
+
+2. Elke ononderbroken reeks niet met hoofdletters gedrukte posten in de winst- en verliesrekening kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som.
+
+3. Voor zover dit artikel wordt toegepast, worden de reeksen in de toelichting opgenomen in de volgorde van het gekozen model.
+
+##### Artikel 9
+
+Wanneer een bedrag onder meer dan een post zou kunnen worden opgenomen, moet in de toelichting worden vermeld onder welke andere post of posten het bedrag kon worden opgenomen, hoe groot het bedrag is en waarop het betrekking heeft, een en ander indien het in [artikel 362 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) bedoelde inzicht daardoor wordt gediend.
+
+##### Artikel 10
+
+1. In een geconsolideerde jaarrekening mogen alle benamingen worden aangepast om het groepskarakter aan te geven.
+
+2. In een geconsolideerde balans wordt het aandeel van derden in groepsmaatschappijen afzonderlijk als onderdeel van het groepsvermogen opgenomen. Overigens is onderverdeling van het eigen vermogen in een geconsolideerde jaarrekening niet vereist.
+
+3. In een geconsolideerde winst- en verliesrekening wordt het aandeel van derden in het geconsolideerde resultaat na belastingen afzonderlijk gegeven; indien het gesplitst wordt gegeven, moet dit geschieden na het resultaat uit gewone bedrijfsuitoefening na belastingen en na het buitengewone resultaat na belastingen.
+
+##### Artikel 11
+
+Bovenaan de balans wordt aangegeven of daarin de bestemming van het resultaat is verwerkt. Is de bestemming van het resultaat niet verwerkt, dan moet op de balans het resultaat na belastingen afzonderlijk worden vermeld als laatste post van het eigen vermogen.
+
+##### Artikel 12
+
+1. In de modellen A, B, C en D mag de post "overlopende activa" ook na de liquide middelen zelfstandig worden opgenomen.
+
+2. In de modellen B en D mag de post "overlopende passiva" ook na de schulden en in de modellen A en C na de voorzieningen zelfstandig worden opgenomen.
+
+3. In de toelichting en in de modellen B en R mogen de uitsplitsing van de kortlopende en die van de langlopende schulden gezamenlijk worden gegeven, mits de onderverdeling weer uit de toelichting blijkt.
+
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+1. In model F mogen de posten Som der kosten en Netto-omzetresultaat achterwege blijven.
+
+2. In de modellen G, H, I en J mag van de kolomindeling worden afgeweken.
+
+##### Artikel 15
+
+Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar van de jaarrekening zijn gesteld, mag op andere exemplaren daarvan worden volstaan met vermelding van de namen der ondertekenaren. Indien een handtekening op het oorspronkelijke exemplaar ontbreekt, wordt de reden daarvan op de andere exemplaren vermeld.
+
+##### Artikel 16
+
+1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=1995-08-30&g=1995-08-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30) van toepassing.
+
+2. De balans van een bank moet zijn ingericht overeenkomstig model K, de winst- en verliesrekening overeenkomstig de modellen L of M. Deze modellen zijn als bijlage bij dit besluit gevoegd.
+
+3. De van hoofdletters voorziene posten van model K en de met hoofdletters gedrukte posten van de modellen L en M worden vermeld, ook als deze in het geheel van de jaarrekening van te verwaarlozen betekenis zijn voor het wettelijk vereiste inzicht.
+
+4. Hypotheekbanken nemen op de balans onder de activa in plaats van de post "vorderingen op klanten" een tweetal posten op, die onderscheidenlijk luiden: vorderingen op klanten uit hypothecaire leningen en overige vorderingen op klanten. Onder de passiva nemen deze banken in plaats van de post "Schuldbewijzen" een tweetal posten op, die onderscheidenlijk luiden: pandbrieven en overige schuldbewijzen. Zij mogen de post "Kasmiddelen" samenvoegen met de post "Vorderingen op kredietinstellingen", tenzij de omvang van de kasmiddelen van betekenis is op het geheel van de activa.
+
+5. De benamingen gebruikt in de modellen K, L en M mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
+
+6. Aan de posten van deze modellen mag een uitsplitsing worden toegevoegd.
+
+7. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen onderscheidenlijk groepsmaatschappijen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaarde deelnemingen.
+
+8. Het aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen, wordt opgenomen onder de opbrengsten uit deelnemingen onderscheidenlijk groepsmaatschappijen en wordt in de toelichting vermeld.
+
+9. Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen L en M kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.
+
+##### Artikel 16a
+
+1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=1995-08-30&g=1995-08-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30) van toepassing.
+
+2. De balans van een verzekeringsmaatschappij moet zijn ingericht overeenkomstig model N, de winst- en verliesrekening overeenkomstig model O. Voor de technische rekening schadeverzekering mag model P worden gebruikt, indien de beleggingen rechtstreeks aan het schadeverzekeringsbedrijf kunnen worden toegewezen. Deze modellen zijn als bijlage bij dit besluit gevoegd.
+
+3. De benamingen gebruikt in de modellen N, O en P mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
+
+4. Aan de posten van de modellen mag een uitsplitsing worden toegevoegd.
+
+5. Indien in de technische rekening levensverzekering van de bruto premies koopsommen uit winstdeling deel uitmaken, wordt het bedrag daarvan afzonderlijk in de toelichting vermeld.
+
+6. Het aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen, wordt opgenomen onder de opbrengsten uit deelnemingen en wordt in de toelichting vermeld.
+
+7. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.
+
+8. In de geconsolideerde jaarrekening van een verzekeringsmaatschappij mogen alle opbrengsten van beleggingen in de niet-technische rekening worden opgenomen. In model O vervallen dan in de technische rekeningen de posten opbrengsten uit beleggingen en beleggingslasten alsmede de posten niet-gerealiseerde winst op beleggingen en niet-gerealiseerd verlies op beleggingen. In plaats van de post opbrengsten uit beleggingen treedt de post toegerekende opbrengst van beleggingen.
+
+9. Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen O en P kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.
+
+##### Artikel 16b
+
+1. Op beleggingsmaatschappijen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=1995-08-30&g=1995-08-30) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=1995-08-30&g=1995-08-30), [5, leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=1995-08-30&g=1995-08-30), [7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=1995-08-30&g=1995-08-30), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=1995-08-30&g=1995-08-30) van toepassing.
+
+2. De balans van een beleggingsmaatschappij moet zijn gericht overeenkomstig model Q of R, de winst- en verliesrekening overeenkomstig model S. Deze modellen zijn als bijlage bij dit besluit gevoegd.
+
+3. Indien een beleggingsmaatschappij de tweede zin van [artikel 401, lid 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=401) toepast, neemt zij buiten de telling van de winst- en verliesrekening een post op onder de benaming "wijziging in de reserves uit hoofde van koersverschillen".
+
+4. Een beleggingsmaatschappij die in onroerend goed belegt, mag in de winst- en verliesrekening, ten einde inzicht te verschaffen in het exploitatieresultaat met betrekking tot het onroerend goed, de afschrijvingen op beleggingen in onroerend goed alsmede de op deze beleggingen betrekking hebbende overige lasten en kosten onmiddellijk onder de opbrengsten uit beleggingen in terreinen en gebouwen opnemen.
+
+5. De benamingen gebruikt in de modellen Q, R en S mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
+
+6. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, worden deze afzonderlijk en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.
+
+##### Artikel 17
+
+Dit besluit kan worden aangehaald als "Besluit modellen jaarrekening".
+
+##### Artikel 18
+
+1. Dit besluit treedt in werking met ingang van de dag waarop titel 8 van boek 2 van het Burgerlijk Wetboek kracht van wet verkrijgt.
+
+2. Het is van toepassing op jaarrekeningen waarop titel 8 van boek 2 van het Burgerlijk Wetboek van toepassing is.
+
+## Model A
+
+Balans per
+
+### A. Vaste activa
+
+### B. Vlottende activa
+
+### C. Kortlopende schulden (ten hoogste 1 jaar)
+
+### D. Uitkomst van vlottende activa min kortlopende schulden
+
+### E. Uitkomst van activa min kortlopende schulden
+
+### F. Langlopende schulden (nog voor meer dan een jaar)
+
+### G. Voorzieningen
+
+### H. Eigen vermogen
+
+## Model B
+
+## Model C
+
+Balans per
+
+### A. Vaste activa
+
+### B. Vlottende activa
+
+### C. Kortlopende schulden (ten hoogste 1 jaar) en overlopende passiva
+
+### D. Uitkomst vlottende activa min kortlopende schulden
+
+### E. Uitkomst activa min kortlopende schulden
+
+### F. Langlopende schulden (nog voor meer dan een jaar)
+
+### G. Voorzieningen
+
+### H. Eigen vermogen
+
+## Model D
+
+## Model E
+
+Winst- en verliesrekening over
+
+**Netto-omzet**
+
+wijziging in voorraden gereed produkt en onderhanden werk
+
+geactiveerde produktie voor het eigen bedrijf
+
+overige bedrijfsopbrengsten
+
+**Som der bedrijfsopbrengsten**
+
+kosten van grond- en hulpstoffen
+
+kosten uitbesteed werk en andere externe kosten
+
+lonen en salarissen
+
+sociale lasten
+
+afschrijvingen op immateriële en materiële vaste activa
+
+overige waardeveranderingen van immateriële en materiële vaste activa
+
+bijzondere waardevermindering van vlottende activa
+
+overige bedrijfskosten
+
+**Som der bedrijfslasten**
+
+opbrengst van vorderingen die tot de vaste activa behoren en van effecten
+
+andere rentebaten en soortgelijke opbrengsten
+
+waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten
+
+rentelasten en soortgelijke kosten
+
+**Resultaat uit gewone bedrijfsuitoefening voor belastingen**
+
+belastingen resultaat uit gewone bedrijfsuitoefening
+
+aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen
+
+**Resultaat uit gewone bedrijfsuitoefening na belastingen**
+
+buitengewone baten
+
+buitengewone lasten
+
+belastingen buitengewoon resultaat
+
+**Buitengewoon resultaat na belastingen**
+
+**Resultaat na belastingen**
+
+## Model F
+
+Winst- en verliesrekening over
+
+**Netto-omzet**
+
+kostprijs van de omzet
+
+**Bruto-omzetresultaat**
+
+verkoopkosten
+
+algemene beheerkosten
+
+Som der kosten
+
+**Netto-omzetresultaat**
+
+overige bedrijfsopbrengsten
+
+opbrengst van vorderingen die tot de vaste activa behoren en van effecten
+
+andere rentebaten en soortgelijke opbrengsten
+
+waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten
+
+rentelasten en soortgelijke kosten **Resultaat uit gewone bedrijfsuitoefening voor belastingen**
+
+belastingen resultaat uit gewone bedrijfsuitoefening
+
+aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen
+
+**Resultaat uit gewone bedrijfsuitoefening na belastingen**
+
+buitengewone baten
+
+buitengewone lasten
+
+belastingen buitengewoon resultaat
+
+**Buitengewoon resultaat na belastingen**
+
+**Resultaat na belastingen**
+
+## Model G
+
+Winst- en verliesrekening over
+
+## Model H
+
+Winst- en verliesrekening over
+
+## Model I
+
+Winst- en verliesrekening over
+
+## Model J
+
+Winst- en verliesrekening over
+
+## Model K
+
+Balans per
+
+- A. Voorwaardelijke schulden
+
+- 1. uit hoofde van verdisconteerde wissels
+
+- 2. uit hoofde van garanties e.d.
+
+- 3. uit hoofde van onherroepelijke accreditieven
+
+- 4. overige
+
+- B. Onherroepelijke toezeggingen
+
+- 1. verplichtingen uit cessie en retrocessie
+
+- 2. overige
+
+## Model L
+
+WINST- EN VERLIESREKING OVER
+
+RENTE EN SOORTGELIJKE BATEN
+
+- 1. rente van obligaties en andere vastrentende waardepapieren
+
+- 2. overige
+
+RENTE EN SOORTGELIJKE LASTEN
+
+OPBRENGSTEN UIT EFFECTEN EN DEELNEMINGEN
+
+- 1. opbrengsten uit aandelen en andere niet-vastrentende waardepapieren
+
+- 2. opbrengsten uit groepsmaatschappijen
+
+- 3. opbrengsten uit overige deelnemingen
+
+ONTVANGEN PROVISIE
+
+BETAALDE PROVISIE
+
+RESULTAAT UIT FINANCIELE TRANSACTIES
+
+OVERIGE BEDRIJFSOPBRENGSTEN
+
+SOM DER BEDRIJFSOPBRENGSTEN
+
+PERSONEELS- EN ANDERE BEHEERSKOSTEN
+
+AFSCHRIJVINGEN EN WAARDEVERANDERINGEN OP IMMATERIELE EN MATERIELE VASTE ACTIVA
+
+OVERIGE BEDRIJFSLASTEN
+
+WAARDEVERMINDERINGEN VAN VORDERINGEN EN VOORZIENINGEN VOOR ONDER DE BALANS OPGENOMEN VERPLICHTINGEN
+
+VRIJVAL WAARDEVERMINDERINGEN VAN VORDERINGEN EN VOORZIENINGEN VOOR ONDER DE BALANS OPGENOMEN VERPLICHTINGEN
+
+WAARDEVERMINDERINGEN VAN DE TOT DE VASTE ACTIVA BEHORENDE EFFECTEN EN DEELNEMINGEN
+
+VRIJVAL WAARDEVERMINDERINGEN VAN DE TOT DE VASTE ACTIVA BEHORENDE EFFECTEN EN DEELNEMINGEN
+
+SOM DER BEDRIJFSLASTEN
+
+RESULTAAT UIT GEWONE BEDRIJFSUITOEFENING VOOR BELASTINGEN
+
+BELASTINGEN RESULTAAT GEWONE BEDRIJFSUITOEFENING
+
+RESULTAAT UIT GEWONE BEDRIJFSUITOEFENING NA BELASTINGEN
+
+BUITENGEWONE BATEN
+
+BUITENGEWONE LASTEN
+
+BELASTINGEN BUITENGEWOON RESULTAAT
+
+BUITENGEWOON RESULTAAT NA BELASTINGEN
+
+RESULTAAT NA BELASTINGEN
+
+## Model M
+
+Winst- en verliesrekening over
+
+## Model N
+
+## Model O
+
+## Model P
+
+## Model Q
+
+Balans per
+
+| A | Beleggingen | Beleggingen | Beleggingen | Beleggingen |
+| --- | --- | --- | --- | --- |
+|   | **I** | **Terreinen en gebouwen** | **Terreinen en gebouwen** | **Terreinen en gebouwen** |
+|   |   | 1. | in eigen gebruik | in eigen gebruik |
+|   |   | 2. | overige terreinen en gebouwen | overige terreinen en gebouwen |
+|   | **II** | **Beleggingen in groepsmaatschappijen en deelnemingen** | **Beleggingen in groepsmaatschappijen en deelnemingen** | **Beleggingen in groepsmaatschappijen en deelnemingen** |
+|   |   | 1. | deelnemingen in groepsmaatschappijen | deelnemingen in groepsmaatschappijen |
+|   |   | 2. | obligaties uitgegeven door en vorderingen op groepsmaatschappijen | obligaties uitgegeven door en vorderingen op groepsmaatschappijen |
+|   |   | 3. | andere deelnemingen | andere deelnemingen |
+|   |   | 4. | obligaties uitgegeven door en vorderingen op participanten en maatschappijen waarin wordt deelgenomen | obligaties uitgegeven door en vorderingen op participanten en maatschappijen waarin wordt deelgenomen |
+|   | **III** | **Overige financiële beleggingen** | **Overige financiële beleggingen** | **Overige financiële beleggingen** |
+|   |   | 1. | aandelen, deelnemingsbewijzen en andere niet-vastrentende waardepapieren | aandelen, deelnemingsbewijzen en andere niet-vastrentende waardepapieren |
+|   |   | 2. | obligaties en andere vastrentende waardepapieren | obligaties en andere vastrentende waardepapieren |
+|   |   | 3. | vorderingen uit hypothecaire leningen | vorderingen uit hypothecaire leningen |
+|   |   | 4. | vorderingen uit andere leningen | vorderingen uit andere leningen |
+|   |   | 5. | deposito’s bij kredietinstellingen | deposito’s bij kredietinstellingen |
+|   |   | 6. | andere financiële beleggingen | andere financiële beleggingen |
+|   | **IV** | **Som der beleggingen** | **Som der beleggingen** | **Som der beleggingen** |
+|   |   |   |   |   |
+| B | Vorderingen | Vorderingen | Vorderingen | Vorderingen |
+|   | **I** | **Uit hoofde van effectentransacties op** | **Uit hoofde van effectentransacties op** | **Uit hoofde van effectentransacties op** |
+|   |   | 1.1. | commissionairs | commissionairs |
+|   |   | 1.2. | anderen | anderen |
+|   | **II** | **Overige vorderingen** | **Overige vorderingen** | **Overige vorderingen** |
+|   | **III** | **Overlopende activa** | **Overlopende activa** | **Overlopende activa** |
+|   |   |   |   |   |
+| C | Overige activa | Overige activa | Overige activa | Overige activa |
+|   | **I** | **Vaste activa** | **Vaste activa** | **Vaste activa** |
+|   |   | 1. | immateriële vaste activa | immateriële vaste activa |
+|   |   |   | 1.1. | kosten van oprichting en van uitgifte van aandelen |
+|   |   |   | 1.2. | kosten van onderzoek en ontwikkeling |
+|   |   |   | 1.3. | concessies, vergunningen en intellectuele eigendom |
+|   |   |   | 1.4. | goodwill |
+|   |   |   | 1.5. | vooruitbetaald op immateriële vaste activa |
+|   |   | 2. | materiële vaste activa | materiële vaste activa |
+|   |   | 3. | financiële vaste activa | financiële vaste activa |
+|   | **II** | **Liquide middelen** | **Liquide middelen** | **Liquide middelen** |
+|   | **III** | **Andere activa** | **Andere activa** | **Andere activa** |
+|   |   |   |   |   |
+| D | Kortlopende schulden (ten hoogste 1 jaar) | Kortlopende schulden (ten hoogste 1 jaar) | Kortlopende schulden (ten hoogste 1 jaar) | Kortlopende schulden (ten hoogste 1 jaar) |
+|   |   | 1. | uit hoofde van effectentransacties aan | uit hoofde van effectentransacties aan |
+|   |   |   | 1.1. | commissionairs |
+|   |   |   | 1.2. | anderen |
+|   |   | 2. | converteerbare leningen | converteerbare leningen |
+|   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
+|   |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
+|   |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
+|   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
+|   |   | 8. | belastingen en premies sociale verzekeringen | belastingen en premies sociale verzekeringen |
+|   |   | 9. | schulden ter zake van pensioenen | schulden ter zake van pensioenen |
+|   |   | 10. | overige schulden | overige schulden |
+|   |   | 11. | overlopende passiva | overlopende passiva |
+|   |   |   |   |   |
+| E | Uitkomst van vorderingen en overige activa min kortlopende schulden | Uitkomst van vorderingen en overige activa min kortlopende schulden | Uitkomst van vorderingen en overige activa min kortlopende schulden | Uitkomst van vorderingen en overige activa min kortlopende schulden |
+|   |   |   |   |   |
+| F | Uitkomst van activa min kortlopende schulden | Uitkomst van activa min kortlopende schulden | Uitkomst van activa min kortlopende schulden | Uitkomst van activa min kortlopende schulden |
+|   |   |   |   |   |
+| G | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) |
+|   |   | 1. | uit hoofde van effectentransacties aan | uit hoofde van effectentransacties aan |
+|   |   |   | 1.1. | commissionairs |
+|   |   |   | 1.2. | anderen |
+|   |   | 2. | converteerbare leningen | converteerbare leningen |
+|   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
+|   |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
+|   |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
+|   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
+|   |   | 8. | belastingen en premies sociale verzekeringen | belastingen en premies sociale verzekeringen |
+|   |   | 9. | schulden ter zake van pensioenen | schulden ter zake van pensioenen |
+|   |   | 10. | overige schulden | overige schulden |
+|   |   | 11. | overlopende passiva | overlopende passiva |
+|   |   |   |   |   |
+| H | Voorzieningen | Voorzieningen | Voorzieningen | Voorzieningen |
+|   |   | 1. | voor pensioenen | voor pensioenen |
+|   |   | 2. | voor belastingen | voor belastingen |
+|   |   | 3. | overige | overige |
+|   |   |   |   |   |
+| I | Achtergestelde schulden | Achtergestelde schulden | Achtergestelde schulden | Achtergestelde schulden |
+|   |   |   |   |   |
+| J | Eigen vermogen | Eigen vermogen | Eigen vermogen | Eigen vermogen |
+|   | **I** | **Geplaatst kapitaal** | **Geplaatst kapitaal** | **Geplaatst kapitaal** |
+|   | **II** | **Agio** | **Agio** | **Agio** |
+|   | **III** | **Herwaarderingsreserve** | **Herwaarderingsreserve** | **Herwaarderingsreserve** |
+|   | **IV** | **Wettelijke en statutaire reserves** | **Wettelijke en statutaire reserves** | **Wettelijke en statutaire reserves** |
+|   | **V** | **Koersverschillenreserve** | **Koersverschillenreserve** | **Koersverschillenreserve** |
+|   | **VI** | **Overige reserves** | **Overige reserves** | **Overige reserves** |
+|   | **VII** | **Onverdeelde winst** | **Onverdeelde winst** | **Onverdeelde winst** |
+
+## Model R
+
+Balans per
+
+| Actief | Actief | Actief | Actief | Actief | Passief | Passief | Passief | Passief |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A | Beleggingen | Beleggingen | Beleggingen | Beleggingen | A | Eigen vermogen | Eigen vermogen | Eigen vermogen |
+|   | **I** | **Terreinen en gebouwen** | **Terreinen en gebouwen** | **Terreinen en gebouwen** |   | **I** | **geplaatst kapitaal** | **geplaatst kapitaal** |
+|   |   | 1. | in eigen gebruik | in eigen gebruik |   | **II** | **agio** | **agio** |
+|   |   | 2. | overige terreinen en gebouwen | overige terreinen en gebouwen |   | **III** | **herwaarderingsreserve** | **herwaarderingsreserve** |
+|   |   |   |   |   |   | **IV** | **wettelijke en statutaire reserves** | **wettelijke en statutaire reserves** |
+|   | **II** | **Beleggingen in groepsmaatschappijen en deelnemingen** | **Beleggingen in groepsmaatschappijen en deelnemingen** | **Beleggingen in groepsmaatschappijen en deelnemingen** |   | **V** | **koersverschillenreserve** | **koersverschillenreserve** |
+|   |   | 1. | deelnemingen in groepsmaatschappijen | deelnemingen in groepsmaatschappijen |   | **VI** | **overige reserves** | **overige reserves** |
+|   |   | 2. | obligaties uitgegeven door en vorderingen op groepsmaatschappijen | obligaties uitgegeven door en vorderingen op groepsmaatschappijen |   | **VII** | **onverdeelde winst** | **onverdeelde winst** |
+|   |   | 3. | andere deelnemingen | andere deelnemingen | B | Achtergestelde schulden | Achtergestelde schulden | Achtergestelde schulden |
+|   |   | 4. | obligaties uitgegeven door en vorderingen op participanten en maatschappijen waarin wordt deelgenomen | obligaties uitgegeven door en vorderingen op participanten en maatschappijen waarin wordt deelgenomen | C | Voorzieningen | Voorzieningen | Voorzieningen |
+|   |   |   |   |   |   | 1. | voor pensioenen | voor pensioenen |
+|   | **III** | **Overige financiële beleggingen** | **Overige financiële beleggingen** | **Overige financiële beleggingen** |   | 2. | voor belastingen | voor belastingen |
+|   |   | 1. | aandelen, deelnemingsbewijzen en andere niet-vast- | aandelen, deelnemingsbewijzen en andere niet-vast- |   | 3. | overige | overige |
+|   |   |   | rentende waardepapieren | rentende waardepapieren |   |   |   |   |
+|   |   | 2. | obligaties en andere vastrentende waardepapieren | obligaties en andere vastrentende waardepapieren | D | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) |
+|   |   | 3. | vorderingen uit hypothecaire leningen | vorderingen uit hypothecaire leningen |   | 1. | uit hoofde van effectentransacties aan | uit hoofde van effectentransacties aan |
+|   |   | 4. | vorderingen uit andere leningen | vorderingen uit andere leningen |   |   | 1.1. | commissionairs |
+|   |   | 5. | deposito’s bij kredietinstellingen | deposito’s bij kredietinstellingen |   |   | 1.2. | anderen |
+|   |   | 6. | andere financiële beleggingen | andere financiële beleggingen |   | 2. | converteerbare leningen | converteerbare leningen |
+|   |   |   |   |   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
+| B | Vorderingen | Vorderingen | Vorderingen | Vorderingen |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   | **I** | **uit hoofde van effectentransacties op** | **uit hoofde van effectentransacties op** | **uit hoofde van effectentransacties op** |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
+|   |   | 1. | commissionairs | commissionairs |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
+|   |   | 2. | anderen | anderen |   | 7. | schulden aan participanten en aan maatschappijen waarin | schulden aan participanten en aan maatschappijen waarin |
+|   | **II** | **Overige vorderingen** | **Overige vorderingen** | **Overige vorderingen** |   |   | wordt deelgenomen | wordt deelgenomen |
+|   | **III** | **Overlopende activa** | **Overlopende activa** | **Overlopende activa** |   | 8. | belastingen en premies sociale verzekeringen | belastingen en premies sociale verzekeringen |
+|   |   |   |   |   |   | 9. | schulden ter zake van pensioenen | schulden ter zake van pensioenen |
+| C | Overige activa | Overige activa | Overige activa | Overige activa |   | 10. | overige schulden | overige schulden |
+|   | **I** | **Vaste activa** | **Vaste activa** | **Vaste activa** |   | 11. | overlopende passiva | overlopende passiva |
+|   |   | 1. | immateriële vaste activa | immateriële vaste activa |   |   |   |   |
+|   |   |   | 1.1. | kosten van oprichting en van uitgifte van aandelen | E | Kortlopende schulden | Kortlopende schulden | Kortlopende schulden |
+|   |   |   | 1.2. | kosten van onderzoek en ontwikkeling |   |   | (ten hoogste 1 jaar) | (ten hoogste 1 jaar) |
+|   |   |   | 1.3. | concessies, vergunningen en intellectuele |   | 1. | uit hoofde van effectentransacties aan | uit hoofde van effectentransacties aan |
+|   |   |   |   | eigendom |   |   | 1.1. | commissionairs |
+|   |   |   | 1.4. | goodwill |   |   | 1.2. | anderen |
+|   |   |   | 1.5. | vooruitbetaald op immateriële vaste activa |   | 2. | converteerbare leningen |   |
+|   |   | 2. | materiële vaste activa | materiële vaste activa |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
+|   |   | 3. | financiële vaste activa | financiële vaste activa |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   | **II** | **Liquide middelen** | **Liquide middelen** | **Liquide middelen** |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
+|   | **III** | **Andere activa** | **Andere activa** | **Andere activa** |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
+|   |   |   |   |   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
+|   |   |   |   |   |   | 8. | belastingen en premies sociale verzekeringen | belastingen en premies sociale verzekeringen |
+|   |   |   |   |   |   | 9. | schulden ter zake van pensioenen | schulden ter zake van pensioenen |
+|   |   |   |   |   |   | 10. | overige schulden | overige schulden |
+|   |   |   |   |   |   | 11. | overlopende passiva | overlopende passiva |
+
+## Model S
+
+Lasten en bevelen dat dit besluit met de bijlagen en bijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
