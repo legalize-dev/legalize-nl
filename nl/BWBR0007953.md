@@ -4,7 +4,7 @@ identifier: "BWBR0007953"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-04"
-last_updated: "2004-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007953"
 soort: "AMvB"
@@ -72,9 +72,9 @@ De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzie
 
 ##### Artikel 4. (stations)
 
-1. De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van winkels in stationsgebouwen van de N.V. Nederlandse Spoorwegen.
+1. De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van winkels in een station als bedoeld in [artikel 26, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26).
 
-2. De in artikel 2, tweede lid, van de wet vervatte verboden gelden niet ten aanzien van het te koop aanbieden of verkopen van bloemen en planten in stationsgebouwen van de N.V. Nederlandse Spoorwegen dan wel op een afstand van ten hoogste honderd meter daarvan.
+2. De in artikel 2, tweede lid, van de wet vervatte verboden gelden niet ten aanzien van het te koop aanbieden of verkopen van bloemen en planten in een station als bedoeld in [artikel 26, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26) dan wel op een afstand van ten hoogste honderd meter daarvan.
 
 3. Burgemeester en wethouders kunnen op daartoe strekkend verzoek ontheffing verlenen van de in artikel 2, eerste lid, van de wet vervatte verboden, voor zover deze betrekking hebben op de zondag en de feestdagen, ten behoeve van winkels, gericht op reizigers, in een gebouw ten behoeve van een knooppunt van openbaar vervoer.
 
@@ -216,6 +216,6 @@ Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad 
 
 ##### Artikel 7a
 
-De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2004-01-01&g=2004-01-01) en van een restaurant als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2004-01-01&g=2004-01-01), wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2004-01-01&g=2004-01-01) alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2004-01-01&g=2004-01-01).
+De in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2) vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2005-01-01&g=2005-01-01) en van een restaurant als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2005-01-01&g=2005-01-01), wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=6&z=2005-01-01&g=2005-01-01) alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007953&artikel=7&z=2005-01-01&g=2005-01-01).
 
 Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
