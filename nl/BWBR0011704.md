@@ -4,7 +4,7 @@ identifier: "BWBR0011704"
 country: "nl"
 rank: "wet"
 publication_date: "2008-09-24"
-last_updated: "2003-03-16"
+last_updated: "2003-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011704"
 soort: "wet"
@@ -58,11 +58,11 @@ Wijzigt de Wet luchtvaart.
 
 ##### Artikel III
 
-1. De behandeling van aanvragen om erkenningen, aanwijzingen of ontheffingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-03-16&g=2003-03-16), welke voor het tijdstip van inwerkingtreding van deze wet zijn ingediend, geschiedt overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
+1. De behandeling van aanvragen om erkenningen, aanwijzingen of ontheffingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-06-20&g=2003-06-20), welke voor het tijdstip van inwerkingtreding van deze wet zijn ingediend, geschiedt overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
 
-2. De procedure van schorsing of intrekking of tot beëindiging van de schorsing van erkenningen of aanwijzingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-03-16&g=2003-03-16), welke voor het tijdstip van inwerkingtreding van deze wet is aangevangen, wordt afgehandeld overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
+2. De procedure van schorsing of intrekking of tot beëindiging van de schorsing van erkenningen of aanwijzingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-06-20&g=2003-06-20), welke voor het tijdstip van inwerkingtreding van deze wet is aangevangen, wordt afgehandeld overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
 
-3. Beroepen terzake van erkenningen of aanwijzingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-03-16&g=2003-03-16), welke op het tijdstip van inwerkingtreding van deze wet in behandeling zijn, worden behandeld overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
+3. Beroepen terzake van erkenningen of aanwijzingen als bedoeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=II&z=2003-06-20&g=2003-06-20), welke op het tijdstip van inwerkingtreding van deze wet in behandeling zijn, worden behandeld overeenkomstig het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidde.
 
 4. De in het eerste, tweede of derde lid bedoelde erkenningen of verrichte aanwijzingen worden aangemerkt als erkenningen, respectievelijk erkende opleidingen als bedoeld in [artikel 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55), respectievelijk [artikel 6.56](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.56).
 
