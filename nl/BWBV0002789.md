@@ -363,21 +363,3 @@ De Secretaris-Generaal van de Raad van Europa dient de Lidstaten van de Raad van
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
 DONE at Strasbourg, this 18th day of March 1986, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Communities and to any State invited to accede to this Convention.
-
-## DEEL XII. Slotbepalingen
-
-##### Artikel 38
-
-De Secretaris-Generaal van de Raad van Europa dient de Lidstaten van de Raad van Europa, de Europese Gemeenschappen en iedere Staat die is toegetreden tot deze Overeenkomst in kennis te stellen van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. iedere datum van inwerkingtreding van deze Overeenkomst in overeenstemming met de artikelen 32, 33 en 35;
-
-- d. iedere andere handeling, kennisgeving of mededeling betrekking hebbend op deze Overeenkomst.
-
-IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
-
-DONE at Strasbourg, this 18th day of March 1986, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Communities and to any State invited to accede to this Convention.
