@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2004-01-01"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -338,23 +338,7 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 ##### Artikel 12b
 
-1. Voor de toepassing van [artikel 15a, eerste lid, vierde volzin van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden als vormen van scholing die zijn gericht op het op startkwalificatieniveau brengen, aangewezen de in [artikel 12aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2004-01-01&g=2004-01-01), bedoelde opleidingen.
-
-2. [Artikel 12aa, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=IV&artikel=12aa&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
-
-3. Indirect van rijkswege of in samenhang daarmee van derden ontvangen bijdragen als bedoeld in [artikel 15a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden slechts erkend als zijnde van rijkswege verstrekt voorzover zij blijken uit een door de bijdragende instantie afgegeven verklaring. De verklaring moet zijn ondertekend door het bestuur van de bijdragende instantie en bevat het bedrag van de tegemoetkoming alsmede het deel daarvan dat van rijkswege is verstrekt. Het deel dat van rijkswege is verstrekt wordt bepaald naar de verhouding in het voorafgaande kalenderjaar waarin het totaal van de door de bijdragende instantie verstrekte tegemoetkomingen verminderd met het totaal van de bijdragen van alle inhoudingsplichtigen aan die instantie staat tot het totaal van de verstrekte tegemoetkomingen. De verklaring is voorzien van een cijfermatige, controleerbare onderbouwing van de op grond van de vorige volzin berekende verhouding.
-
-4. Voor de toepassing van [artikel 15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) worden als kosten die zijn toe te rekenen aan door de inhoudingsplichtige zelf verzorgde scholing van bij de inhoudingsplichtige werkzame personen aangemerkt:
-
-- a. de arbeidskosten van personen voorzover deze zich bezighouden met het geven van zodanige scholing;
-
-- b. kosten en lasten van gebouwen of ruimten in gebouwen die hoofdzakelijk worden gebruikt voor zodanige scholing;
-
-- c. kosten en lasten van studiemateriaal en apparatuur welke hoofdzakelijk worden gebruikt bij zodanige scholing.
-
-5. Voor de toepassing van [artikel 15a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=15a) wordt het gedeelte van de in een kalenderjaar aan een fonds ingevolge een collectieve arbeidsovereenkomst verschuldigde bijdrage dat wordt benut voor scholing, berekend overeenkomstig het percentage dat de kosten en lasten van het fonds voor scholing in het voorafgaande kalenderjaar uitmaken van de totale kosten en lasten alsmede reserveringen van het fonds in dat jaar, met dien verstande dat kosten en lasten van het fonds die rechtstreeks worden doorbelast aan derden, buiten aanmerking blijven.
-
-6. Het in het zesde lid bedoelde percentage wordt gesteld op het voor het desbetreffende fonds door de directeur-generaal Belastingdienst in de Staatscourant bekendgemaakte percentage dan wel op het door de inhoudingsplichtige aannemelijk gemaakte percentage.
+Vervallen
 
 ### Hoofdstuk V. Afdrachtvermindering kinderopvang
 
@@ -534,7 +518,7 @@ Vervallen
 
 - e. per werknemer het aantal uren dat deze heeft besteed aan het S&O-werk;
 
-- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2004-01-01&g=2004-01-01), bedoelde vereenvoudigde S&O-loon;
+- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2004-01-31&g=2004-01-31), bedoelde vereenvoudigde S&O-loon;
 
 - g. de berekening van de S&O-afdrachtvermindering.
 
