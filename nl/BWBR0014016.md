@@ -108,9 +108,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 Dit besluit wordt aangehaald als: Instellingsbesluit Landmachtmedaille.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 11a
-
-De Landmachtmedaille kan op diens verzoek tevens worden toegekend aan de militair van de Koninklijke Marine, de Koninklijke Luchtmacht en van de Koninklijke Marechaussee, die op of na 18 januari 1985 in werkelijke dienst is of was en die voldoet aan de voorwaarden, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014016&artikel=3&z=2018-07-01&g=2018-07-01), voor zover de toelagen zijn genoten in verband met diens inzet bij een eenheid der landmacht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
