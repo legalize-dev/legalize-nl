@@ -4,7 +4,7 @@ identifier: "BWBR0008995"
 country: "nl"
 rank: "wet"
 publication_date: "2005-01-01"
-last_updated: "2002-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008995"
 soort: "wet"
@@ -93,9 +93,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 8, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=8) worden bij de verdeling van het provinciefonds voor de eerste maal de verdeelmaatstaven gehanteerd die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2002-01-01&g=2002-01-01) bij deze wet. Op de hantering van de maatstaven zijn de bepalingen van dit hoofdstuk van toepassing. Bij regeling van Onze Ministers kunnen nadere voorschriften worden gegeven omtrent de toepassing van de in dit hoofdstuk en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2002-01-01&g=2002-01-01) gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
+1. In afwijking van [artikel 8, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=8) worden bij de verdeling van het provinciefonds voor de eerste maal de verdeelmaatstaven gehanteerd die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2005-01-01&g=2005-01-01) bij deze wet. Op de hantering van de maatstaven zijn de bepalingen van dit hoofdstuk van toepassing. Bij regeling van Onze Ministers kunnen nadere voorschriften worden gegeven omtrent de toepassing van de in dit hoofdstuk en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2005-01-01&g=2005-01-01) gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
 
-2. In afwijking van [artikel 9, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) gelden voor de maatstaven, bedoeld in het eerste lid, voor het eerste uitkeringsjaar na de inwerkingtreding van deze wet de bedragen per eenheid die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=2&z=2002-01-01&g=2002-01-01) bij deze wet. Onze Ministers kunnen deze bedragen aanpassen in verband met wijzigingen ten aanzien van het fonds over de jaren 1997 en 1998, die door middel van wijzigingen in de bedragen per eenheid over de provincies verdeeld behoren te worden. [Artikel 9, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) blijft buiten toepassing bij de vaststelling van de bedragen per eenheid voor bedoelde maatstaven.
+2. In afwijking van [artikel 9, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) gelden voor de maatstaven, bedoeld in het eerste lid, voor het eerste uitkeringsjaar na de inwerkingtreding van deze wet de bedragen per eenheid die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=2&z=2005-01-01&g=2005-01-01) bij deze wet. Onze Ministers kunnen deze bedragen aanpassen in verband met wijzigingen ten aanzien van het fonds over de jaren 1997 en 1998, die door middel van wijzigingen in de bedragen per eenheid over de provincies verdeeld behoren te worden. [Artikel 9, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) blijft buiten toepassing bij de vaststelling van de bedragen per eenheid voor bedoelde maatstaven.
 
 #### Paragraaf 2.2. De vaststelling van het aantal eenheden
 
@@ -133,9 +133,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 12
 
-1. De algemene uitkering over de jaren 1998 tot en met 2000, zoals deze voor een provincie wordt vastgesteld overeenkomstig [hoofdstuk 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2), wordt vermeerderd of verminderd met een bedrag overeenkomstig de kolommen 1 tot en met 3 in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=3&z=2002-01-01&g=2002-01-01) bij deze wet is gevoegd.
+1. De algemene uitkering over de jaren 1998 tot en met 2000, zoals deze voor een provincie wordt vastgesteld overeenkomstig [hoofdstuk 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2), wordt vermeerderd of verminderd met een bedrag overeenkomstig de kolommen 1 tot en met 3 in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=3&z=2005-01-01&g=2005-01-01) bij deze wet is gevoegd.
 
-2. De algemene uitkering over de jaren 2001 en volgende, zoals deze voor een provincie wordt vastgesteld overeenkomstig [hoofdstuk 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2), wordt vermeerderd of verminderd met een bedrag overeenkomstig kolom 4 in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=3&z=2002-01-01&g=2002-01-01) bij deze wet is gevoegd.
+2. De algemene uitkering over de jaren 2001 en volgende, zoals deze voor een provincie wordt vastgesteld overeenkomstig [hoofdstuk 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2), wordt vermeerderd of verminderd met een bedrag overeenkomstig kolom 4 in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=3&z=2005-01-01&g=2005-01-01) bij deze wet is gevoegd.
 
 3. De bedragen, bedoeld in het eerste en tweede lid, worden vermenigvuldigd met het quotiënt van de uitkeringsfactor over het uitkeringsjaar en de uitkeringsfactor over het jaar 1998. De uitkeringsfactor is het quotiënt van het voor de algemene uitkering beschikbare bedrag en de som van de uitkeringsbases.
 
@@ -188,7 +188,7 @@ De tekst van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c
 | 8 | Elektriciteitsverbruik | 779,51 |
 | 9 | Vast bedrag | 10.632.223,94 |
 
-## BIJLAGE 3. Overgangsmaatregelen in verband met de herverdeling (bijlage bij artikel 12)
+## BIJLAGE 3. Overgangsmaatregelen in verband met de herverdeling (bijlage bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&hoofdstuk=III&paragraaf=3.1&artikel=12&z=2005-01-01&g=2005-01-01))
 
 |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- |
@@ -197,7 +197,7 @@ De tekst van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c
 |   | 1998 | 1999 | 2000 | 2001 en volgende | 2001 en volgende |
 |   |   |   |   | (guldens) | (euro's) |
 | Groningen | 8 117 432 | 6 851 651 | 5 585 870 | 4 320 090 | 1 960 371 |
-| Friesland | 4 222 289 | 2 907 350 | 1 592 410 | 277 471 | 125 911 |
+| Fryslân | 4 222 289 | 2 907 350 | 1 592 410 | 277 471 | 125 911 |
 | Drenthe | 7 688 098 | 5 969 923 | 4 251 748 | 2 533 572 | 1 149 685 |
 | Overijssel | – 1 231 682 | – 2 139 213 | – 3 046 744 | – 3 954 275 | – 1 794 372 |
 | Gelderland | – 10 343 350 | – 7 696 388 | – 5 049 426 | – 2 402 464 | – 1 090 191 |
