@@ -4,7 +4,7 @@ identifier: "BWBR0008951"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-01"
-last_updated: "2001-03-02"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008951"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Gezien het nader rapport van de Staatsecretaris van Justitie van 30 september 19
 
 Hebben goedgevonden en verstaan:
 
-#### Wijziging van onwelvoeglijke of bespottelijke namen, veelCaret voorkomende namen, namen van vreemde herkomst en onjuist gespelde namen
+#### Gronden voor wijziging van geslachtsnamen, algemeen
 
 ##### Artikel 1
 
@@ -58,9 +58,19 @@ Hebben goedgevonden en verstaan:
 
 - c. de naam niet-Nederlands is en toebehoort aan personen die door naturalisatie of door het doen van een kennisgeving de Nederlandse nationaliteit hebben verkregen, of aan hun afstammelingen in rechte lijn; ten tijde van de naturalisatie of de kennisgeving dient de in [artikel 12, tweede lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=12) genoemde grond tot wijziging te hebben bestaan;
 
-- d. de verzoeker aantoont dat de naam in de akten van de burgerlijke stand sinds de invoering daarvan (1810–1838) onjuist is gespeld en in de volgens de verzoeker juiste spelling sindsdien is gevoerd.
+- d. de verzoeker aantoont dat de naam in de akten van de burgerlijke stand sinds de invoering daarvan (1810–1838) onjuist is gespeld en in de volgens de verzoeker juiste spelling sindsdien is gevoerd;
+
+- e. de naam Nederlands is en verzoeker aantoont dat hij dan wel een van zijn bloedverwanten in de opgaande lijn voordien een daarmee overeenstemmende Friese naam had en het verzoek gericht is op de verkrijging van de desbetreffende Friese naam in de huidige Friese spelling of
+
+- f. de Friese naam is weergegeven in de Nederlandse spelling en het verzoek gericht is op de verkrijging van de desbetreffende Friese naam in de huidige Friese spelling.
 
 2. De wijziging op grond van het eerste lid, onder **a**, **b** of **c**, geschiedt bij voorkeur door omzetting van enkele letters of door toevoeging van een voor- of achtervoegsel; is dat niet mogelijk, dan geschiedt wijziging door het kiezen van een andere geslachtsnaam. De andere geslachtsnaam is die van een ouder of een geslachtsnaam die nog niet in Nederland voorkomt en die Nederlands klinkt. Wijziging geschiedt niet door toevoeging van een naam.
+
+3. Een verzoek op grond van het eerste lid, onder e, wordt afgewezen:
+
+- a. indien de verzoeker de Nederlandse naam, dan wel de Friese naam in de Nederlandse spelling, op zijn verzoek heeft verkregen dan wel met de verkrijging ervan heeft ingestemd;
+
+- b. indien het verzoek een minderjarige van twaalf jaren of ouder betreft en deze weigert in te stemmen met de verzochte naamswijziging.
 
 #### Toevoeging van een naam
 
@@ -78,7 +88,9 @@ Hebben goedgevonden en verstaan:
 
 - a. indien de verzoeker van adel is; of
 
-- b. de drager van de naam waarvan de toevoeging wordt verzocht tot een adellijk geslacht behoort.
+- b. de drager van de naam waarvan de toevoeging wordt verzocht tot een adellijk geslacht behoort;
+
+- c. indien de geslachtsnaam van de verzoeker bestaat uit een geslachtsnaam en een reeds op grond van het eerste lid toegevoegde geslachtsnaam.
 
 #### Wijziging van de geslachtsnaam van een minderjarige in die van zijn verzorger of van de overige tot hetzelfde gezin behorende minderjarige kinderen
 
@@ -130,9 +142,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd:
+1. Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd:
 
-- a. in de geslachtsnaam van de ouder wiens naam hij niet heeft, indien hij op de voet van artikel 5, tweede, derde, vierde, vijfde of zesde lid, van Boek 1 van het Burgerlijk Wetboek zijn geslachtsnaam heeft gekregen of indien hij op grond van artikel IV van de Wet houdende wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek de naam van zijn moeder heeft gekregen;
+- a. in de geslachtsnaam van de ouder dan wel van diens echtgenoot of geregistreerde partner die op grond van [artikel 253sa](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253sa), eerste lid, van rechtswege het gezamenlijk gezag over hem heeft uitgeoefend, en wiens naam hij niet heeft, indien hij op de voet van [artikel 5, tweede, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=5), dan wel van [artikel 253sa, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253sa) zijn geslachtsnaam heeft gekregen of indien hij op grond van [artikel IV van de Wet houdende wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0008632&artikel=IV) en in verband daarmede van enige andere artikelen van dit Wetboek de naam van zijn moeder heeft gekregen;
 
 - b. in de geslachtsnaam van de ouder in wiens geslachtsnaamswijziging hij niet heeft gedeeld omdat hij ten tijde van de wijziging meerderjarig was;
 
@@ -148,19 +160,19 @@ Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artike
 
 ##### Artikel 7
 
-1. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een minderjarige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2001-03-02&g=2001-03-02) worden gehoord, althans worden daartoe behoorlijk opgeroepen:
+1. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een minderjarige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2003-01-01&g=2003-01-01) worden gehoord, althans worden daartoe behoorlijk opgeroepen:
 
 - a. de ouders van het kind;
 
 - b. degene aan wie het kind de geslachtsnaam, waarvan wijziging is verzocht, rechtstreeks ontleent;
 
-- c. de in [artikel 3, eerste lid, onder b en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2001-03-02&g=2001-03-02), bedoelde personen; als mede
+- c. de in [artikel 3, eerste lid, onder b en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2003-01-01&g=2003-01-01), bedoelde personen; als mede
 
 - d. de minderjarige van twaalf jaren of ouder.
 
 2. De raad voor de kinderbescherming kan op verzoek adviseren omtrent een verzoek als bedoeld in het eerste lid. De raad adviseert in elk geval, indien één van de ouders van het kind bezwaar maakt tegen de verzochte naamswijziging.
 
-3. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een meerderjarige als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=1&z=2001-03-02&g=2001-03-02) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=4&z=2001-03-02&g=2001-03-02), of toevoeging van een geslachtsnaam worden gehoord, althans daartoe behoorlijk opgeroepen:
+3. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een meerderjarige als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=1&z=2003-01-01&g=2003-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=4&z=2003-01-01&g=2003-01-01), of toevoeging van een geslachtsnaam worden gehoord, althans daartoe behoorlijk opgeroepen:
 
 - a. degene aan wie de meerderjarige de geslachtsnaam waarvan wijziging is verzocht of waaraan toevoeging wordt verzocht, rechtstreeks ontleent;
 
@@ -181,5 +193,11 @@ Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artike
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 januari 1998.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Besluit geslachtsnaamswijziging.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
