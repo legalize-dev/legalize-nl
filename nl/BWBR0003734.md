@@ -1,0 +1,159 @@
+---
+title: "Wet van 28 november 1984, houdende regelen op het gebied van de prijzen van goederen en diensten in buitengewone omstandigheden"
+identifier: "BWBR0003734"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "1997-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003734"
+soort: "wet"
+stam_id: "1737553"
+version_id: "2575872"
+internal_id: "C2575871"
+label_id: "1692524"
+dtd_version: "2.0"
+original_entry_into_force: "1984-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003734/2019-01-01/0"
+intitule_bron: "Stb.1984-575"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-11-28"
+intitule_status: "goed"
+original_publication: "Stb.1984-575"
+original_signed_date: "1984-11-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "9585"
+entry_into_force_date: "1984-12-21"
+entry_into_force_dossier: "9585"
+jci_1_3: "jci1.3:c:BWBR0003734&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0003734&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Prijzennoodwet"
+signed_date: "1984-11-28"
+entry_into_force: "1984-12-21"
+---
+# Wet van 28 november 1984, houdende regelen op het gebied van de prijzen van goederen en diensten in buitengewone omstandigheden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te openen tot het stellen van regelen op het gebied van de prijzen van goederen en diensten in geval van buitengewone omstandigheden;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
+
+goederen: roerende of onroerende zaken of vermogensrechten;
+
+diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst;
+
+Onze Minister: Onze Minister van Economische Zaken;
+
+College: het College van Beroep voor het bedrijfsleven.
+
+2. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder prijzen niet verstaan de vergoedingen voor diensten op het gebied van het bankwezen, in de ruimste zin, en van de geld- en kapitaalmarkt, voor zover zij het karakter van een rentevergoeding dragen.
+
+##### Artikel 2
+
+De bij deze wet aan Onze Minister van Economische Zaken verleende bevoegdheden worden door deze uitgeoefend in overeenstemming met Onze Minister, wie het mede aangaat.
+
+##### Artikel 3
+
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=1997-05-01&g=1997-05-01) tot en met [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=15&z=1997-05-01&g=1997-05-01) in werking worden gesteld.
+
+2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
+
+3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
+
+4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
+
+5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
+
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 7
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 8
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 9
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 10
+
+Vervallen
+
+##### Artikel 11
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 12
+
+Vervallen
+
+##### Artikel 13
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 14
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 15
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 16
+
+1. Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die, zolang de verbinding tussen Onze Minister en enig gebied verbroken is, in dat gebied met inachtneming van de bij die maatregel gestelde regelen de bevoegdheden uitoefenen, welke krachtens deze wet, de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Noodwet voedselvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002392) (**Stb.** 1962, 566), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) (**Stb.** 1957, 342) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) (**Stb.** 1962, 295) aan Onze Minister toekomen. Ons besluit wordt mede in de **Staatscourant** bekendgemaakt.
+
+2. Bij die maatregel worden tevens de autoriteiten aangewezen, die, zolang de verbinding tussen een Onzer andere bij de uitvoering van deze wet, de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) of de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) betrokken Ministers, niet zijnde Onze Minister-President of Onze Minister van Landbouw en Visserij, en enig gebied verbroken is, in dat gebied met inachtneming van de bij die maatregel gestelde regelen de bevoegdheden uitoefenen, welke krachtens deze wet, de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) aan Onze betrokken Minister toekomen.
+
+##### Artikel 17
+
+Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College.
+
+##### Artikel 18
+
+Vervallen
+
+##### Artikel 19
+
+Vervallen
+
+##### Artikel 20
+
+Informatie, verkregen op grond van deze wet, wordt, voor zover die betrekking heeft op afzonderlijke natuurlijke personen of rechtspersonen, dan wel daaruit gevolgtrekkingen ten aanzien van zodanige personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van een of meer bepalingen van deze wet.
+
+##### Artikel 21
+
+Bevat wijzigingen in andere regelgeving.
+
+##### Artikel 22
+
+Bevat wijzigingen in andere regelgeving.
+
+##### Artikel 23
+
+1. Deze wet kan worden aangehaald als: Prijzennoodwet.
+
+2. Met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=1997-05-01&g=1997-05-01)-[15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=15&z=1997-05-01&g=1997-05-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
