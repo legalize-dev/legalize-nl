@@ -4,7 +4,7 @@ identifier: "BWBR0016418"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-01-29"
-last_updated: "2004-03-03"
+last_updated: "2005-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016418"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Bij de verantwoording door gemeenten van de uitkeringen gedaan op grond van de Regeling uitbreiding kinderopvang en buitenschoolse opvang gebruikt de gemeente de verantwoordingsformulieren vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2004-03-03&g=2004-03-03), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2004-03-03&g=2004-03-03), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2004-03-03&g=2004-03-03), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2004-03-03&g=2004-03-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2004-03-03&g=2004-03-03) bij deze regeling.
+Bij de verantwoording door gemeenten van de uitkeringen gedaan op grond van de Regeling uitbreiding kinderopvang en buitenschoolse opvang gebruikt de gemeente de verantwoordingsformulieren vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2005-01-29&g=2005-01-29), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2005-01-29&g=2005-01-29), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2005-01-29&g=2005-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2005-01-29&g=2005-01-29) bij deze regeling.
 
 ##### Artikel 2
 
@@ -53,15 +53,17 @@ Deze regeling wordt aangehaald als: Regeling verantwoordingsformulieren Regeling
 
 ## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2004-03-03&g=2004-03-03)
 
-## Bijlage 1a. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2004-03-03&g=2004-03-03)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2005-01-29&g=2005-01-29)
 
-## Bijlage 1b. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2004-03-03&g=2004-03-03)
+## Bijlage 1a. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2005-01-29&g=2005-01-29)
+
+### Toelichting bij het verantwoordingsformulier van de Regeling kinderopvang en buitenschoolse opvang (Rkb)
 
 ### Toelichting bij het verantwoordingsformulier van de Regeling kinderopvang en buitenschoolse opvang (Rkb)
 
 ### **1. Inleiding**
 
-### **1.1 Algemeen**
+Dit document is de toelichting bij het officiële verantwoordingsformulier behorende bij de specifieke uitkering Regeling uitbreiding kinderopvang en buitenschoolse opvang (verder Rkb). De toelichting bestaat uit twee delen: een inhoudelijk deel (hoofdstuk 2 t/m 6) en een technisch deel, de invulinstructie (hoofdstuk 7 en 8).
 
 Dit document is de toelichting bij het officiële verantwoordingsformulier behorende bij de specifieke uitkering Regeling uitbreiding kinderopvang en buitenschoolse opvang (verder Rkb). De toelichting bestaat uit twee delen: een inhoudelijk deel (hoofdstuk 2 t/m 6) en een technisch deel, de invulinstructie (hoofdstuk 7 en 8).
 
@@ -71,15 +73,15 @@ Gemeenten die in 2001, 2002, 2003 of 2004 zijn heringedeeld of samengevoegd, ont
 
 U dient zich er van te vergewissen dat de aantallen die u invult ook de definitieve aantallen zijn die voor dat meetmoment relevant zijn. De ingevulde aantallen per meetmoment vormen namelijk de basis van uw declaratie en de berekeningsgrondslag waarop uw toegekende uitkering zal worden vastgesteld. U kunt met dit document tevens verlenging aanvragen voor de Extra taakstelling 2003 (zie code 702).
 
-Leest u voordat u het verantwoordingsdocument invult, de gehele toelichting door.
-
 ### **1.2 Rekentool**
 
 Op de website van het ministerie van SZW (www.szw.nl/gemeenteloket) en van de VNG (www.vng.nl) treft u een rekentool aan. Deze rekentool berekent voor u of er op basis van de door u gerealiseerde opvangplaatsen al dan niet voorschotten worden teruggevorderd. U hoeft dus niet zelf de berekening bij de verschillende meetmomenten en deeluitkeringen van de Rkb te maken. De rekentool is slechts een hulpmiddel en kan niet gebruikt worden om uw verantwoording in te dienen.
 
-Bij het gebruik van de rekentool klikt u uw gemeentenaam in en de bij het Rijk bekende gegevens verschijnen vanzelf in de blauwe vakken. Uw aantallen opvangplaatsen vult u in, in de geel gekleurde vakken. U moet bij enkele vakken een keuze maken en deze aanklikken. Vervolgens kunt u op het tabblad ‘subsidieberekening’ in één oogopslag zien wat de hoogte zal zijn van het vast te stellen subsidiebedrag voor uw gemeente, uitgaande van een goedkeurende accountantverklaring bij uw verantwoordingsformulier. U kunt aan deze rekentool geen rechten ontlenen. Voor een uitgebreide gebruikerstoelichting bij de rekentool, zie hoofdstuk 8.
+Op de website van het ministerie van SZW (www.szw.nl/gemeenteloket) en van de VNG (www.vng.nl) treft u een rekentool aan. Deze rekentool berekent voor u of er op basis van de door u gerealiseerde opvangplaatsen al dan niet voorschotten worden teruggevorderd. U hoeft dus niet zelf de berekening bij de verschillende meetmomenten en deeluitkeringen van de Rkb te maken. De rekentool is slechts een hulpmiddel en kan niet gebruikt worden om uw verantwoording in te dienen.
 
 ### **1.3 Accountant**
+
+De door u opgegeven uitbreidingsaantallen op het verantwoordingsformulier, dienen zodra het verleende subsidiebedrag boven de € 125.000 uitkomt1Zie bijlage 1 bij brief van 27 november 2003, AV/KO/2003/86746, onder kolom Maximaal subsidie per 31-12-2003. door uw accountant gecontroleerd te worden (overeenkomstig het Bekostigingsbesluit). U kunt alleen gebruik maken van de bijgevoegde standaard accountantsverklaring (zie hoofdstuk 9).
 
 De door u opgegeven uitbreidingsaantallen op het verantwoordingsformulier, dienen zodra het verleende subsidiebedrag boven de € 125.000 uitkomt1Zie bijlage 1 bij brief van 27 november 2003, AV/KO/2003/86746, onder kolom Maximaal subsidie per 31-12-2003. door uw accountant gecontroleerd te worden (overeenkomstig het Bekostigingsbesluit). U kunt alleen gebruik maken van de bijgevoegde standaard accountantsverklaring (zie hoofdstuk 9).
 
@@ -87,25 +89,25 @@ De accountant zal de controle uitvoeren conform bijgevoegd controle- en rapporta
 
 Met deze twee documenten wordt duidelijk welke achterliggende stukken men kan gebruiken om de verantwoorde aantallen opvangplaatsen te controleren en u kunt controleren of uw administratie compleet is/de benodigde achterliggende stukken bevat.
 
-Accountantsverklaringen van binnen uw gemeentegrenzen opererende kinderopvanginstellingen en gastouderbureaus zullen de controle vergemakkelijken. Bereidt u uw instellingen daarom voor deze gegevens, indien van toepassing, ter beschikking te stellen.
-
 ### **1.4 Indiening**
+
+U dient uiterlijk 10 maanden ([art. 50 Bekostigingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=50)) na afloop van de Rkb, dus vóór 1 november 2004 het door de accountant gewaarmerkte verantwoordingsdocument inclusief de ondertekende accountantsverklaring in te dienen bij:
 
 U dient uiterlijk 10 maanden ([art. 50 Bekostigingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=50)) na afloop van de Rkb, dus vóór 1 november 2004 het door de accountant gewaarmerkte verantwoordingsdocument inclusief de ondertekende accountantsverklaring in te dienen bij:
 
 U kunt bij het indienen van uw verantwoording uitsluitend gebruik maken van de originele formulieren die door het ministerie aan u zijn verstrekt. Het gebruik van kopieën of zelf ontworpen formulieren is niet toegestaan. Ook gefaxte formulieren kunnen niet worden verwerkt. U kunt de originele verantwoordingsdocumenten herkennen aan de gekleurde horizontale balk in het SZW-logo.
 
-De minister zal uiterlijk zes maanden na ontvangst van de verantwoordingsformulieren en de accountantsverklaring(en) een beschikking tot vaststelling van de uitkering afgeven.
+### **2. Toelichting per code en meetmoment**
 
 ### **2. Toelichting per code en meetmoment**
 
-### **2.1 Algemeen**
+U vult per meetmoment de aantallen in exploitatie zijnde opvangplaatsen (conform de voorwaarden van de Rkb) binnen uw gemeente in.
 
 U vult per meetmoment de aantallen in exploitatie zijnde opvangplaatsen (conform de voorwaarden van de Rkb) binnen uw gemeente in.
 
-De aantallen in exploitatie zijnde opvangplaatsen per meetmoment kunnen zowel een beginmeting als een eindmeting (zelfs tussenmeting) vertegenwoordigen bij verschillende deeluitkeringen waar de Rkb uit bestaat. Zo vertegenwoordigt de eindstand voor de bonusuitkering op meetmoment 31 december 2002 tevens de beginstand voor de uitgekeerde instandhoudingsbijdrage over 2003. In hoofdstuk 4 kunt u lezen welke ‘deeluitkeringen’ te onderscheiden zijn binnen de Rkb.
-
 ### **2.2 Onderscheid dagopvang en buitenschoolse opvang**
+
+Hoewel de uitkering bestaat uit een bedrag per gerealiseerde opvangplaats, ongeacht of het een hele dagopvangplaats betreft of opvangplaats in de buitenschoolse opvang, wordt u verzocht uw in exploitatie zijnde opvangplaatsen op te splitsen in dagopvang (HDO) of buitenschoolse opvang (BSO). Reden hiervoor is dat de nulmeting voor HDO plaatsvindt op moment 31-12-1998 en voor BSO op 31-12-1996.
 
 Hoewel de uitkering bestaat uit een bedrag per gerealiseerde opvangplaats, ongeacht of het een hele dagopvangplaats betreft of opvangplaats in de buitenschoolse opvang, wordt u verzocht uw in exploitatie zijnde opvangplaatsen op te splitsen in dagopvang (HDO) of buitenschoolse opvang (BSO). Reden hiervoor is dat de nulmeting voor HDO plaatsvindt op moment 31-12-1998 en voor BSO op 31-12-1996.
 
@@ -115,9 +117,9 @@ Bij langdurige contracten gastouderopvang of als het gastouderbureau het ondersc
 
 Een voorbeeld: **Er wordt een contract gastouderopvang afgesloten in 1998 voor een kind van 2 jaar. Dit contract is nog steeds van kracht op het moment van de afrekening (31-12-2003). In feite is dit contract begonnen als dagopvang en is inmiddels buitenschoolse opvang. Mocht dit niet administratief zijn aangepast dan kunt u uitgaan van een contract voor dagopvang.**
 
-Hieronder volgt een toelichting op het verantwoordingsformulier met betrekking tot de relevante meetmomenten en de opsomming per code.
-
 ### **2.3 Toelichting bij de meetmomenten voor BSO**
+
+De kolommen in de tabel met deze aanduiding geven het aantal in exploitatie zijnde opvangplaatsen weer met het bijbehorende aantal uren opvang (zie ook het overzicht in hoofdstuk 5). Dus u vult hier het aantal in exploitatie zijnde opvangplaatsen in dat u voor de betreffende soort opvang heeft gerealiseerd met een opvangaanbod van bijvoorbeeld tussen de 1050 en 1650 uur per jaar. Of met een opvangaanbod van meer dan 1650 uren per jaar etc. De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO.
 
 De kolommen in de tabel met deze aanduiding geven het aantal in exploitatie zijnde opvangplaatsen weer met het bijbehorende aantal uren opvang (zie ook het overzicht in hoofdstuk 5). Dus u vult hier het aantal in exploitatie zijnde opvangplaatsen in dat u voor de betreffende soort opvang heeft gerealiseerd met een opvangaanbod van bijvoorbeeld tussen de 1050 en 1650 uur per jaar. Of met een opvangaanbod van meer dan 1650 uren per jaar etc. De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO.
 
@@ -195,9 +197,9 @@ Voor BSO in een kindercentrum noteert u de stand (aantal in exploitatie zijnde o
 
 Deze datum fungeert als tweede meetmoment voor de instandhoudingsbijdrage (de opvangplaatsen waarvoor een instandhoudingsbijdrage is verstrekt, moeten eind 2003 nog in stand zijn). Daarnaast fungeert deze datum als einddatum voor de extra taakstelling over 2003, ook als gemeenten gebruik willen maken van de mogelijkheid om een deel van deze plaatsen in 2004 te realiseren (zie ook code **702**). Verder is dit de einddatum van de gewone uitkering (waarover men tot uiterlijk eind 2003 mocht doen).
 
-Voor BSO in een kindercentrum noteert u de stand (aantal in exploitatie zijnde opvangplaatsen) op 31 december 2003. Voor gastouderopvang BSO neemt u het gemiddelde van het aantal koppelingen op 31 augustus 2003, 31 oktober 2003 en 31 december 2003. U hoeft de omrekening met de verschillende vermenigvuldigingsfactoren niet te maken en het aantal koppelingen **niet** te vermenigvuldigen met de factor 0,43: dat wordt op het ministerie gedaan. De omrekening met de factoren wordt in de rekentool onder subsidieberekening automatisch gedaan.
-
 ### **2.4 Toelichting bij de meetmomenten voor HDO**
+
+De kolommen in de tabel met deze aanduiding geven het aantal in exploitatie zijnde opvangplaatsen weer met het bijbehorende aantal uren opvang (zie ook het overzicht in hoofdstuk 5). Dus u vult hier het aantal opvangplaatsen in dat u voor de betreffende soort opvang heeft gerealiseerd met een opvangaanbod van bijvoorbeeld tussen de 2160 en 2850 uur per jaar. Of met een opvangaanbod van meer dan 6120 uren per jaar etc. De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO.
 
 De kolommen in de tabel met deze aanduiding geven het aantal in exploitatie zijnde opvangplaatsen weer met het bijbehorende aantal uren opvang (zie ook het overzicht in hoofdstuk 5). Dus u vult hier het aantal opvangplaatsen in dat u voor de betreffende soort opvang heeft gerealiseerd met een opvangaanbod van bijvoorbeeld tussen de 2160 en 2850 uur per jaar. Of met een opvangaanbod van meer dan 6120 uren per jaar etc. De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO.
 
@@ -279,11 +281,11 @@ Een voorbeeld: **Uw extra taakstelling voor 2003 bestaat uit 12 opvangplaatsen. 
 
 Indien u aangeeft dat er in 2004 nog opvangplaatsen zullen worden gerealiseerd, dan zullen deze op een later tijdstip verantwoord en gecontroleerd moeten worden (binnen 10 maanden na 31-12-2004). Hiervoor ontvangt u in dat geval vanzelf het benodigde verantwoordingsdocument.
 
-Vergeet niet het verantwoordingsformulier door Burgemeester en Wethouders te laten ondertekenen.
+### **3. Achtergrond informatie bij de Rkb**
 
 ### **3. Achtergrond informatie bij de Rkb**
 
-### **3.1 Algemeen**
+De Regeling uitbreiding Kinderopvang en Buitenschoolse opvang (Rkb) heeft als doel gemeenten te ondersteunen bij de verdubbeling (landelijk) van de capaciteit aan kinderopvang tussen 1996 en 2003 (in totaal 82.140 opvangplaatsen).
 
 De Regeling uitbreiding Kinderopvang en Buitenschoolse opvang (Rkb) heeft als doel gemeenten te ondersteunen bij de verdubbeling (landelijk) van de capaciteit aan kinderopvang tussen 1996 en 2003 (in totaal 82.140 opvangplaatsen).
 
@@ -303,11 +305,9 @@ Er zijn zes uitkeringen te onderscheiden. Deze verschillende uitkeringen hebben 
 
 Behalve door indexeringen en de verschillende uitkeringen, is de hoogte van de uitkering beïnvloed als gevolg van verzoeken uit de Tweede Kamer. Zo is vastgesteld dat opvangplaatsen met een verruimde openstelling (die meer dan 1650 uur (BSO) en 2160 uur (HDO) opvang bieden, meer waard zijn en met een factor tussen de 1,2 en 3,5 (zie ook hoofdstuk 5) vermenigvuldigd mogen worden. Om te voorkomen dat hierdoor het aantal opvangplaatsen zou afnemen zijn er nog 1100 extra opvangplaatsen beschikbaar gesteld. Deze zijn gelijktijdig met een herverdelingsronde toegekend (zie opnieuw de verleningsbeschikking van 8 december 2000).
 
-Tevens zijn er extra middelen beschikbaar gesteld voor toegenomen kosten voor inspectie en toezicht. Logischerwijs leidt uitbreiding van de kinderopvangcapaciteit tot meer gebruik en grotere afname van (uren) toezicht. Aangezien eerder geconstateerd was, dat veel gemeenten al achterliepen met hun toezichtstaak, is besloten hiervoor een bedrag beschikbaar te stellen dat is uitgekeerd op basis van de taakstelling, maar dat niet zal worden teruggevorderd ook al zijn niet alle opvangplaatsen uit de taakstelling gerealiseerd. Vandaar dat voor deze uitkering ook geen invulhokje is opgenomen in het verantwoordingsformulier.
-
 ### **4. Voorwaarden bij de verschillende uitkeringen**
 
-### **4.1 Algemeen**
+### **4. Voorwaarden bij de verschillende uitkeringen**
 
 Hieronder worden de zes aparte uitkeringen die te onderscheiden zijn binnen de Rkb beschreven. De relevante bedragen en meetmomenten voor die uitkering worden weergegeven en de consequenties bij het niet behalen van de benodigde uitbreiding. Zo kunt u voor uw gemeente een inschatting maken van te verwachten terugvorderingen. Let op: de meetmomenten per jaareinde zoals opgenomen in het verantwoordingsformulier zijn voor de gastouderopvang samengesteld uit meerdere peildata. Zie voor de precieze data hoofdstuk 2.
 
@@ -315,31 +315,33 @@ Hieronder worden de zes aparte uitkeringen die te onderscheiden zijn binnen de R
 
 In 2000 hebben gemeenten aanvragen ingediend voor een extra bijdrage voor buitenschoolse opvangplaatsen die al in 1997 of in 1998 waren gerealiseerd. Voor elke gerealiseerde opvangplaats BSO in 1997, kon een extra bedrag van maximaal € 2949 ontvangen worden. Voor elke gerealiseerde opvangplaats BSO in 1998 was een bedrag van maximaal € 680 beschikbaar. Door het hoge aantal aanvragen zijn de vastgestelde bedragen naar beneden bijgesteld en vastgesteld op € 1237, respectievelijk € 412 (zie tevens het bevoorschottingsschema zoals opgenomen in de toelichting van de Wijziging van de Rkb van 21 november 2003 in bijlage II).
 
-De volgende meetmomenten zijn bij deze uitkering van belang:
+In 2000 hebben gemeenten aanvragen ingediend voor een extra bijdrage voor buitenschoolse opvangplaatsen die al in 1997 of in 1998 waren gerealiseerd. Voor elke gerealiseerde opvangplaats BSO in 1997, kon een extra bedrag van maximaal € 2949 ontvangen worden. Voor elke gerealiseerde opvangplaats BSO in 1998 was een bedrag van maximaal € 680 beschikbaar. Door het hoge aantal aanvragen zijn de vastgestelde bedragen naar beneden bijgesteld en vastgesteld op € 1237, respectievelijk € 412 (zie tevens het bevoorschottingsschema zoals opgenomen in de toelichting van de Wijziging van de Rkb van 21 november 2003 in bijlage II).
 
-Indien het aantal gerealiseerde opvangplaatsen op 31 december 2002 tenminste gelijk is of groter is dan het totale aantal gerealiseerde opvangplaatsen in 1997 en 1998, dan is voldaan aan de voorwaarden voor deze uitkering. Indien het aantal gerealiseerde opvangplaatsen minder is dan het totaal aantal gerealiseerde opvangplaatsen in 1997 en 1998, dan wordt eerst het bedrag van € 412 per te weinig in stand gehouden BSO-plaats teruggevorderd. Vervolgens wordt het bedrag van € 1237 per te weinig in stand gehouden BSO-plaats teruggevorderd.
+De volgende meetmomenten zijn bij deze uitkering van belang:
 
 ### **4.3 De bonusuitkering versnelde uitbreiding 2001**
 
 Ter versnelling van de uitbreiding kon voor een aantal opvangplaatsen een bedrag worden aangevraagd, maximaal € 2950, voor elke gerealiseerde opvangplaats die vanaf 31 december 2001 de helft te boven komt van de taakstelling. Door de grote toeloop van aanvragen is het bedrag per gerealiseerde opvangplaats vastgesteld op € 1942 (zie tevens de bijlage bevoorschottingsschema).
 
-Tweede voorwaarde voor deze bonusuitkering is dat op 31 december 2002 tenminste 90% van de totale taakstelling moet zijn gerealiseerd. Voor deze uitkering zijn de volgende meetmomenten van belang:
+Ter versnelling van de uitbreiding kon voor een aantal opvangplaatsen een bedrag worden aangevraagd, maximaal € 2950, voor elke gerealiseerde opvangplaats die vanaf 31 december 2001 de helft te boven komt van de taakstelling. Door de grote toeloop van aanvragen is het bedrag per gerealiseerde opvangplaats vastgesteld op € 1942 (zie tevens de bijlage bevoorschottingsschema).
 
-Het uitgangspunt bij de 50% eis, is de toegekende taakstelling, nog voordat de herverdelingsronde had plaatsgevonden. Bij de 90% eis wordt uitgegaan van de taakstelling na de herverdeling. Indien de 50% eis op 31 december 2001 niet wordt gehaald, dan wordt het hele bonusbedrag teruggevorderd (dus het bedrag bovenop het ‘reguliere’ bedrag per opvangplaats). Dit geldt ook in het geval dat de 50% eis wel wordt gehaald, maar de 90% eis (per 31 december 2002) niet.
+Tweede voorwaarde voor deze bonusuitkering is dat op 31 december 2002 tenminste 90% van de totale taakstelling moet zijn gerealiseerd. Voor deze uitkering zijn de volgende meetmomenten van belang:
 
 ### **4.4 De gewone uitkering tot en met 2002**
 
 Hiermee wordt de reguliere uitkering bedoeld, op basis van de toegekende taakstelling en het bedrag per opvangplaats dat daarbij hoort, zonder rekening te houden met de bonus- of overige uitkeringen. Benodigde meetmomenten voor vaststelling zijn:
 
-Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2002 en de nulmetingen, is het aantal gerealiseerde opvangplaatsen en dit moet tenminste gelijk zijn aan (of meer dan) de taakstelling. In dat geval wordt de uitkering vastgesteld op basis van de toegekende taakstelling. De hoogte van het bedrag per gerealiseerde opvangplaats bedraagt per december 2003 € 5939,22. Elke te weinig gerealiseerde opvangplaats wordt met dit bedrag teruggevorderd.
+Hiermee wordt de reguliere uitkering bedoeld, op basis van de toegekende taakstelling en het bedrag per opvangplaats dat daarbij hoort, zonder rekening te houden met de bonus- of overige uitkeringen. Benodigde meetmomenten voor vaststelling zijn:
 
 ### **4.5 De gewone uitkering tot en met 2003**
 
 Zoals bekend is de Rkb verlengd van 31 december 2002 naar 31 december 2003. Dit heeft als gevolg dat gemeenten die dat wensen een jaar langer mogen doen over het realiseren van hun taakstelling. Hiervoor zijn de relevante meetmomenten:
 
-De hoogte van het bedrag per opvangplaats is eveneens € 5939,22. Gemeenten die hun uitkering op deze datum laten vaststellen komen in aanmerking voor een instandhoudingsbijdrage (zie 4.6). Op aanvraag kon men ook in aanmerking komen voor een extra taakstelling voor extra te realiseren opvangplaatsen (zie 4.7).
+Zoals bekend is de Rkb verlengd van 31 december 2002 naar 31 december 2003. Dit heeft als gevolg dat gemeenten die dat wensen een jaar langer mogen doen over het realiseren van hun taakstelling. Hiervoor zijn de relevante meetmomenten:
 
 ### **4.6 De instandhoudingsbijdrage 2003**
+
+Met het verlengen van de Rkb naar 2003 werd van gemeenten verwacht dat ze de gerealiseerde opvangplaatsen ook een jaar langer in stand zouden houden. Hiervoor is een instandhoudingsbijdrage van € 1768,60 per gerealiseerde opvangplaats beschikbaar gesteld. Dit bedrag is 100% bevoorschot op basis van de taakstelling van iedere gemeente.
 
 Met het verlengen van de Rkb naar 2003 werd van gemeenten verwacht dat ze de gerealiseerde opvangplaatsen ook een jaar langer in stand zouden houden. Hiervoor is een instandhoudingsbijdrage van € 1768,60 per gerealiseerde opvangplaats beschikbaar gesteld. Dit bedrag is 100% bevoorschot op basis van de taakstelling van iedere gemeente.
 
@@ -347,9 +349,9 @@ Voorwaarde is dat de taakstelling wel volledig is gerealiseerd per 31 december 2
 
 De relevante meetmomenten voor deze uitkering zijn aldus:
 
-Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2002 en de nulmeting is het aantal gerealiseerde opvangplaatsen en dat moet gelijk of groter zijn dan de toegekende taakstelling. Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2003 en de nulmeting is het aantal gerealiseerde opvangplaatsen en dat aantal moet eveneens groter of gelijk zijn aan de taakstelling.
-
 ### **4.7 De extra bijdrage 2003 (extra taakstelling)**
+
+Ten tijde van de verlenging van de Rkb in 2003, zijn eveneens middelen beschikbaar gekomen voor een extra uitbreiding van in totaal maximaal 10.000 extra opvangplaatsen.
 
 Ten tijde van de verlenging van de Rkb in 2003, zijn eveneens middelen beschikbaar gekomen voor een extra uitbreiding van in totaal maximaal 10.000 extra opvangplaatsen.
 
@@ -359,19 +361,19 @@ Voor deze uitkering zijn de volgende meetmomenten van belang:
 
 Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen per 31 december 2003 en het aantal in exploitatie zijnde opvangplaatsen per 31 december 2002 is het aantal gerealiseerde opvangplaatsen in 2003. Ervan uitgaande dat eerst de gewone (eerste) taakstelling in 2003 wordt gerealiseerd (die opvangplaatsen zijn tenslotte meer geld waard) wordt pas daarna de eventuele meeruitbreidingen toegeschreven aan de ‘extra taakstelling’, in casu de taakstelling over 2003 betreffende de 10.000 extra opvangplaatsen.
 
-Dus: het verschil tussen het aantal in exploitatie zijnde opvangplaatsen per 31 december 2003 en het aantal in exploitatie zijnde opvangplaatsen per 31 december 2002 (oftewel het aantal gerealiseerde opvangplaatsen in dit jaar) na aftrek van de taakstelling, moet groter zijn dan of gelijk zijn aan de extra taakstelling. Indien de groei kleiner is dan wordt dit verschil teruggevorderd.
-
 ### **4.8 Extra middelen Inspectie en toezicht**
+
+Deze middelen maken geen deel uit van de zes deeluitkeringen Rkb, omdat er geen voorwaarden aan verbonden zijn.
 
 Deze middelen maken geen deel uit van de zes deeluitkeringen Rkb, omdat er geen voorwaarden aan verbonden zijn.
 
 Deze uitkering is wel per toegekende opvangplaats verstrekt: € 71,59 per opvangplaats voor de reguliere taakstelling en € 24,40 per opvangplaats uit de extra taakstelling 2003.
 
-Met het uitbreiden van de capaciteit zullen gemeenten ook meer inspecties moeten laten uitvoeren en toezicht uitoefenen op een groter contigent opvangplaatsen. Deze middelen mogen ook met terugwerkende kracht worden ingezet, dus voor het opvullen van reeds ontstane tekorten op het toezicht. Mede daarom wordt deze uitkering, hoewel berekend en bevoorschot per opvangplaats, niet teruggevorderd (conform besluit van 8 oktober 2002, Stcrt. 196) en vastgesteld op hetgeen verleend is.
+### **5. Voldoen aan de voorwaarden en controle**
 
 ### **5. Voldoen aan de voorwaarden en controle**
 
-### **5.1 Algemeen**
+In de voorgaande hoofdstukken zijn naast de toelichting op het verantwoordingsformulier (hoofdstuk 2) de Rkb beschreven (hoofdstuk 3) en wat de voorwaarden voor de verschillende uitkeringen zijn (hoofdstuk 4).
 
 In de voorgaande hoofdstukken zijn naast de toelichting op het verantwoordingsformulier (hoofdstuk 2) de Rkb beschreven (hoofdstuk 3) en wat de voorwaarden voor de verschillende uitkeringen zijn (hoofdstuk 4).
 
@@ -379,33 +381,33 @@ Hieronder zal worden aangegeven met welke achterliggende stukken kan worden onde
 
 In de volgende paragrafen wordt onder andere een opsomming gegeven van de achterliggende stukken die de realisatie van de uitbreiding van de capaciteit onderbouwen. Bij zijn controle dient de accountant rekening te houden met de bewijskracht van deze stukken. Indien gebruik wordt gemaakt van de gecontroleerde jaarrekening van een kindercentrum dient de accountant (indien materieel of noodzakelijk voor zijn oordeel bij de verantwoording) een review uit te voeren bij de accountant van de betreffende instelling. Indien de accountant gebruik maakt van stukken van een kindercentrum dan dient hij via eigen werkzaamheden de betrouwbaarheid van deze gegevens te beoordelen.
 
-Er is pas sprake van een gerealiseerde opvangplaats conform de Rkb als er met deze in exploitatie zijnde opvangplaats een toename is ten opzichte van de nulmeting (artikel 2, derde en vierde lid) én als het kindercentrum gesubsidieerd wordt of als er tussen de gemeente en het kindercentrum een overeenkomst tot het leveren van opvangplaatsen is (artikel 1, onder j).
-
 ### **5.2 De toetsingseisen**
+
+De gerealiseerde opvangplaatsen dienen aan een aantal (rechtmatigheids) eisen te voldoen. De accountant zal de aantallen in exploitatie zijnde opvangplaatsen die worden ingevuld op het verantwoordingsformulier aan deze eisen toetsen. Het is verstandig uw administratie zo veel mogelijk hier op in te richten.
 
 De gerealiseerde opvangplaatsen dienen aan een aantal (rechtmatigheids) eisen te voldoen. De accountant zal de aantallen in exploitatie zijnde opvangplaatsen die worden ingevuld op het verantwoordingsformulier aan deze eisen toetsen. Het is verstandig uw administratie zo veel mogelijk hier op in te richten.
 
 In de volgende paragrafen wordt een groot aantal stukken opgesomd die kunnen dienen ter onderbouwing van de realisatie van de uitbreiding van de capaciteit (die moet voldoen aan de in deze paragraaf genoemde toetsingseisen). Het is daarom belangrijk dat de gemeente over de stukken beschikt (ook van de kindercentra en gastouderbureau’s) en dat deze stukken ordelijk en controleerbaar zijn geadministreerd en gearchiveerd. De accountant kan vervolgens bij zijn controle gebruik maken van (combinaties van) al deze stukken. Het kan zijn dat de accountant een onderzoek wenst in te stellen bij de kindercentra of de gastouderbureau’s. Bereid hen voor om indien nodig inzage te geven in hun administratie en te voldoen aan het verzoek om stukken op te leveren.
 
-De accountant zal toetsen of de op het verantwoordingsformulier opgegeven aantallen in exploitatie zijnde opvangplaatsen en koppelingen, voldoen aan de eisen (aan alle onderstaande eisen moet zijn voldaan). De accountant zal o.a. het volgende moeten vaststellen:
-
 ### **5.2.1 BSO en HDO**
+
+Het spreekt voor zich dat de opgegeven opvangplaatsen geëxploiteerd worden door kindercentra en of gastouderbureau’s (artikel 2, vijfde lid van de Rkb) en dus minimaal voldoen aan het gestelde in het [Tijdelijk besluit kwaliteitsregels kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0007668).
 
 Het spreekt voor zich dat de opgegeven opvangplaatsen geëxploiteerd worden door kindercentra en of gastouderbureau’s (artikel 2, vijfde lid van de Rkb) en dus minimaal voldoen aan het gestelde in het [Tijdelijk besluit kwaliteitsregels kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0007668).
 
 Er is sprake van een (gerealiseerde) opvangplaats BSO indien het aanbod op jaarbasis voor buitenschoolse opvang tenminste 1050 uur betreft. Er is sprake van een (gerealiseerde) opvangplaats HDO indien het aanbod voor dagopvang tenminste 2160 uur betreft (artikel1, onder j). Dit betekent dat bij het tellen van het aantal gerealiseerde opvangplaatsen geteld wordt op basis van capaciteit.
 
-Bij het vaststellen van de soort opvang kan de accountant gebruik maken van vergunningen, inspectierapporten, brochures van de instelling, jaarrekeningen van de instelling etc.
-
 ### **5.2.2 Meetmomenten**
+
+De accountant zal moeten vaststellen dat de bij de verschillende meetmomenten of peildata opgegeven aantallen opvangplaatsen ook op die datum zijn gerealiseerd.
 
 De accountant zal moeten vaststellen dat de bij de verschillende meetmomenten of peildata opgegeven aantallen opvangplaatsen ook op die datum zijn gerealiseerd.
 
 Bij de opgave om in aanmerking te komen voor de extra rijksbijdrage BSO 97/98 is het ook van belang vast te stellen dat er geen sprake is van verschuiving in de tijdstippen van realisatie (artikel 2, lid 1, 2, 3, 6, 9,10). Dit geldt ook voor de overige meetmomenten.
 
-De accountant zal voor de vaststelling van de in exploitatie zijnde aantallen per peildatum (meetmoment) gebruik kunnen maken van vergunningen, inspectierapporten, (gecontroleerde) jaarrekeningen van de instelling, raadsbesluiten, besluiten van B&W, subsidiebeschikkingen etc.
-
 ### **5.2.3 Urencriteria**
+
+Een gerealiseerde opvangplaats kan ook bestaan uit een in exploitatie zijnde opvangplaats met verruimde openingstijden (artikel 2, lid 7, 8 en 11). Hieronder staat bij het maximaal uren opvang per jaar per opvangsoort de omrekenfactor vermeld, waarmee het aantal in exploitatie zijnde opvangplaatsen vermenigvuldigd mag worden (dit wordt in de rekentool automatisch gedaan).
 
 Een gerealiseerde opvangplaats kan ook bestaan uit een in exploitatie zijnde opvangplaats met verruimde openingstijden (artikel 2, lid 7, 8 en 11). Hieronder staat bij het maximaal uren opvang per jaar per opvangsoort de omrekenfactor vermeld, waarmee het aantal in exploitatie zijnde opvangplaatsen vermenigvuldigd mag worden (dit wordt in de rekentool automatisch gedaan).
 
@@ -419,9 +421,9 @@ Het aantonen van verruimde openingstijden kan bijvoorbeeld door de vermelding in
 
 Naast vergunningen kunnen inspectierapporten of verslagen van de toezichthoudende instantie, brochures van de instelling, geschreven uren door het personeel of loonstaten, een bron zijn voor de vaststelling van het aantal opvangplaatsen met verruimde openingstijden (flexibele opvang).
 
-Gecontroleerde jaarrekeningen waaruit deze afwijkende uren zijn op te maken (bijvoorbeeld door de inzet van personeel en fte’s) kunnen eveneens dienen om het aantal gerealiseerde opvangplaatsen te tellen. Ook hier kunnen besluiten van gemeenteraad en/of B&W een bijdrage leveren bij het aantonen dat in de betreffende gemeente kinderopvang met flexibele openingstijden wordt nagestreefd.
-
 ### **5.2.4 In exploitatie zijn/capaciteit**
+
+Conform artikel 2, derde lid van de Rkb moet een opvangplaats in exploitatie zijn. Wanneer is een opvangplaats in exploitatie?
 
 Conform artikel 2, derde lid van de Rkb moet een opvangplaats in exploitatie zijn. Wanneer is een opvangplaats in exploitatie?
 
@@ -445,9 +447,9 @@ In een circulaire van 28 maart 2002 (DJB/KO-2261421) is ‘gerealiseerde kindpla
 
 Uit de administratie van de gemeente zal een en ander moeten blijken. Met de vergunningafgifte aan ieder kindercentrum (artikel 1 onder f, g en h) wordt voldaan aan de eis van voldoende personeel en aan de (overige) eisen van het [Tijdelijk besluit kwaliteitsregels kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0007668). Indien de vergunning (of een daaraan gelijkgestelde verklaring conform het [Tijdelijk besluit kwaliteitsregels kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0007668)) tevens het aantal in exploitatie zijnde of gerealiseerde opvangplaatsen noemt, is de uitbreiding van opvangplaatsen voldoende onderbouwd. Naast de vergunningen kunnen inspectierapporten of verslagen van de toezichthoudende instantie, bouwvergunningen of bouwtekeningen een bron zijn van het aantal in exploitatie zijnde opvangplaatsen. Gecontroleerde jaarrekeningen en/of stukken van de instelling, zoals jaarverslagen en prestatiegegevens kunnen tevens dienen om het aantal gerealiseerde opvangplaatsen te onderbouwen.
 
-In het verantwoordingsformulier dienen die in exploitatie zijnde opvangplaatsen door de gemeente opgenomen te worden, waarvan de achterliggende stukken, zoals vergunningen, inspectierapporten, subsidiebeschikkingen, gecontroleerde jaarrekeningen en/of jaarstukken zowel van de gemeente als van de instelling etc, ter onderbouwing voor de capaciteit en het in exploitatie zijn, aanwezig zijn.
-
 ### **5.2.5 Financiële relatie**
+
+In het geval van het verkrijgen van een subsidie of het afsluiten van een overeenkomst wordt de term financiële relatie gebruikt. In de toelichting van het nulmetingsformulier uit 2000 staat:
 
 In het geval van het verkrijgen van een subsidie of het afsluiten van een overeenkomst wordt de term financiële relatie gebruikt. In de toelichting van het nulmetingsformulier uit 2000 staat:
 
@@ -473,9 +475,9 @@ Bij het aantonen van een financiële relatie kan gebruik worden gemaakt van cont
 
 Zoals beschreven in hoofdstuk 2, bij de aanpassingen van de nulmeting (codes 201b en 301b), kan er gaandeweg de Rkb-periode alsnog een subsidie worden verstrekt of een overeenkomst worden gesloten met kindercentra in een gemeente, waar ten tijde van de nulmeting géén financiële relatie mee bestond. De uitbreidingsplaatsen van deze kindercentra kunnen worden meegeteld. In dat geval moet het aantal opvangplaatsen dat al aanwezig was ten tijde van de nulmeting, alsnog worden vastgesteld en door de accountant worden gecontroleerd.
 
-Bij deze aanpassingen op de (nul)metingen was er geen financiële relatie, echter de accountant dient vast te stellen dat aan de voorwaarden, zoals beschreven onder 5.2.4 (capaciteit, in exploitatie) en aan de overige voorwaarden is voldaan.
-
 ### **5.2.6 Tellen van koppelingen gastouderopvang**
+
+Voor de vaststelling van het aantal gerealiseerde opvangplaatsen bij gastouderopvang, telt u het aantal koppelingen. Elke afgesloten overeenkomst geldt als een koppeling (artikel 1, onder i), ook als er meerdere kinderen op de overeenkomst zijn vastgelegd.
 
 Voor de vaststelling van het aantal gerealiseerde opvangplaatsen bij gastouderopvang, telt u het aantal koppelingen. Elke afgesloten overeenkomst geldt als een koppeling (artikel 1, onder i), ook als er meerdere kinderen op de overeenkomst zijn vastgelegd.
 
@@ -487,9 +489,9 @@ Voor de geldigheid van een koppeling (dus om deze mee te mogen tellen voor de Rk
 
 Voor uw gemeente betekent dit dat voor het achterhalen van het aantal koppelingen binnen uw gemeente, het voor de hand ligt, dat u een beroep doet op het gastouderbureau in uw of andere (omliggende) gemeenten. U zult hier dus zelf actie voor moeten ondernemen en dit op inzichtelijke wijze opnemen in de gemeentelijke administratie. Houdt u rekening met de verschillende peildata die gelden bij het tellen van de koppelingen. Deze zijn gebaseerd op het gemiddelde van drie meetmomenten in een jaar en deze meetmomenten zijn niet bij elke uitkering hetzelfde. Zie ook hoofdstuk 2 en hoofdstuk 4.
 
-De controle van het aantal koppelingen is omslachtig. Het kan voorkomen dat uw accountant enkele steekproeven wenst te nemen bij het gastouderbureau waar u mee werkt. Bereid uw gastouderbureau voor om indien nodig inzage in hun administratie en afgesloten contracten te verlenen.
-
 ### **5.2.7 Opvang in andere gemeenten**
+
+De Rkb staat toe dat u uitbreiding van opvangplaatsen realiseert in een andere gemeente3Deze situatie kan zich ook voordien als gevolg van grenscorrecties die zich mogelijk hebben voorgedaan, gedurende de Rkb-periode (bijvoorbeeld Leidschendam-Voorburg, Den Haag, Rijswijk). (bijvoorbeeld buurgemeente). Ook voor dergelijke gerealiseerde opvangplaatsen blijven de normale voorwaarden van kracht: u zult dus naast een capaciteitsuitbreiding ten opzichte van de nulmeting ook een financiële relatie met deze kindercentra moeten hebben. Ten behoeve van de controle is het raadzaam dergelijke in exploitatie zijnde opvangplaatsen goed af te stemmen en vast te leggen met de betreffende buurgemeente.
 
 De Rkb staat toe dat u uitbreiding van opvangplaatsen realiseert in een andere gemeente3Deze situatie kan zich ook voordien als gevolg van grenscorrecties die zich mogelijk hebben voorgedaan, gedurende de Rkb-periode (bijvoorbeeld Leidschendam-Voorburg, Den Haag, Rijswijk). (bijvoorbeeld buurgemeente). Ook voor dergelijke gerealiseerde opvangplaatsen blijven de normale voorwaarden van kracht: u zult dus naast een capaciteitsuitbreiding ten opzichte van de nulmeting ook een financiële relatie met deze kindercentra moeten hebben. Ten behoeve van de controle is het raadzaam dergelijke in exploitatie zijnde opvangplaatsen goed af te stemmen en vast te leggen met de betreffende buurgemeente.
 
@@ -521,11 +523,11 @@ De accountant dient naast de hierboven genoemde zaken, tevens vast te stellen da
 
 Een andere vorm van samenwerking kan voorkomen bij samenwerkende regio’s of via mandatering van bestuursorganen. Van belang is dat in dat geval het juiste besluit is genomen en nog van kracht is (mandaatbesluit).
 
-De accountant zal bij de controle mogelijkerwijs zowel uit uw gemeentelijke administratie als bij uw buurgemeente of gemandateerde bestuursorgaan controles wensen uit te voeren. Het is raadzaam hier afspraken over te maken.
+### **6. Vaststellen uitkering**
 
 ### **6. Vaststellen uitkering**
 
-### **6.1 Algemeen**
+In hoofdstuk 5 is uiteengezet op welke wijze een onderbouwing met relevante stukken kan worden gegeven waaruit blijkt dat aan de voorwaarden van de Rkb is voldaan. Hieronder volgt de beleidslijn die gevolgd gaat worden bij de vaststelling van uw subsidie (uitkering).
 
 In hoofdstuk 5 is uiteengezet op welke wijze een onderbouwing met relevante stukken kan worden gegeven waaruit blijkt dat aan de voorwaarden van de Rkb is voldaan. Hieronder volgt de beleidslijn die gevolgd gaat worden bij de vaststelling van uw subsidie (uitkering).
 
@@ -555,17 +557,17 @@ Met name het registeren en tellen van de koppelingen (zijnde het gemiddelde van 
 
 De toegepaste correcties op de aantallen zoals opgegeven op het verantwoordingsformulier hebben pas gevolgen voor de gemeente als de correcties leiden tot minder gerealiseerde opvangplaatsen op bepaalde meetmomenten, dan waarvoor voorschotten zijn verstrekt.
 
-Indien correcties op de aantallen leiden tot verrekening van verstrekte voorschotten, dan zal hierbij geen wettelijke rente worden berekend.
+### **7. Technische invulinstructie**
 
 ### **7. Technische invulinstructie**
 
-### **7.1 Inleiding**
+De verantwoordingsdocumenten voor de Rkb worden automatisch verwerkt door middel van OCR (scanning). Dit stelt een aantal eisen aan de wijze waarop u deze documenten kunt indienen. Doel van deze invulinstructie is de geautomatiseerde verwerking van de verantwoordingsdocumenten zo voorspoedig mogelijk te laten verlopen en het aantal onjuist of niet volledig ingevulde formulieren te beperken.
 
 De verantwoordingsdocumenten voor de Rkb worden automatisch verwerkt door middel van OCR (scanning). Dit stelt een aantal eisen aan de wijze waarop u deze documenten kunt indienen. Doel van deze invulinstructie is de geautomatiseerde verwerking van de verantwoordingsdocumenten zo voorspoedig mogelijk te laten verlopen en het aantal onjuist of niet volledig ingevulde formulieren te beperken.
 
-U kunt deze invulinstructie gebruiken bij het invullen van de diverse verantwoordingsdocumenten. Deze invulinstructie is van zuiver technische aard en gaat inhoudelijk niet op de verantwoordingsdocumenten in.
-
 ### **7.2 Algemeen**
+
+U kunt bij het indienen van uw verantwoording uitsluitend gebruik maken van de originele formulieren die door het ministerie aan u zijn verstrekt. Het gebruik van kopieën of zelf ontworpen formulieren is niet toegestaan. Ook gefaxte formulieren kunnen niet worden verwerkt. U kunt de originele verantwoordingsdocumenten herkennen aan de gekleurde horizontale balk in het SZW-logo.
 
 U kunt bij het indienen van uw verantwoording uitsluitend gebruik maken van de originele formulieren die door het ministerie aan u zijn verstrekt. Het gebruik van kopieën of zelf ontworpen formulieren is niet toegestaan. Ook gefaxte formulieren kunnen niet worden verwerkt. U kunt de originele verantwoordingsdocumenten herkennen aan de gekleurde horizontale balk in het SZW-logo.
 
@@ -581,9 +583,9 @@ Het gebruik van punten op de verantwoordingsdocumenten is niet toegestaan. Op de
 
 Bij aantallen kunt u afronden tot maximaal één cijfer achter de komma.
 
-Als u op een bepaald veld niets wilt verantwoorden laat u het desbetreffende veld leeg. Dus geen nullen of strepen invullen.
-
 ### **7.3 In te dienen documenten per gemeente**
+
+De uitvoering van de Rkb is als gevolg van afspraken in het Strategisch Akkoord (Balkenende-I) overgedragen van het ministerie van VWS naar het ministerie van SZW. Direct gevolg hiervan is dat de vaststelling van de verleende subsidies vanaf 1996 ook bij SZW is belegd. De verantwoording die u indient heeft dan ook betrekking op alle in het kader van de Rkb verleende subsidies over de periode 1996 tot en met 2003. Dit betekent dat u ook de voorschotten die u van VWS heeft ontvangen, moet verantwoorden bij SZW.
 
 De uitvoering van de Rkb is als gevolg van afspraken in het Strategisch Akkoord (Balkenende-I) overgedragen van het ministerie van VWS naar het ministerie van SZW. Direct gevolg hiervan is dat de vaststelling van de verleende subsidies vanaf 1996 ook bij SZW is belegd. De verantwoording die u indient heeft dan ook betrekking op alle in het kader van de Rkb verleende subsidies over de periode 1996 tot en met 2003. Dit betekent dat u ook de voorschotten die u van VWS heeft ontvangen, moet verantwoorden bij SZW.
 
@@ -609,17 +611,17 @@ Deze gemeenten dienen over de periode 1996 tot en met 2003 voor iedere (voormali
 
 Voor de gemeenten Dinkelland, Olst-Wijhe, Twenterand, Steenwijkerland en Lingewaard geldt dat er zowel sprake is van Situatie B als van Situatie C.
 
-Voor de gemeenten Rijssen-Holten en Neder-Betuwe geldt dat er zowel sprake is van Situatie B als van Situatie D. Beide uitzonderingssituaties zijn dan ook van toepassing op deze gemeenten.
+### **8. Gebruik van de rekentool**
 
 ### **8. Gebruik van de rekentool**
 
-### **8.1 Doel van de Rkb-rekentool**
+De Rkb-tool heeft uitsluitend de bedoeling om gemeenten inzicht te geven op wel bedrag aan subsidie ze aanspraak willen maken. De Rkb-tool kan op geen enkele wijze worden gebruikt voor het indienen van een verantwoording bij het ministerie. U kunt aan de bedragen in de Rkb-tool geen rechten ontlenen.
 
 De Rkb-tool heeft uitsluitend de bedoeling om gemeenten inzicht te geven op wel bedrag aan subsidie ze aanspraak willen maken. De Rkb-tool kan op geen enkele wijze worden gebruikt voor het indienen van een verantwoording bij het ministerie. U kunt aan de bedragen in de Rkb-tool geen rechten ontlenen.
 
-Uit de in te dienen (papieren) verantwoording kan de gemeente niet direct afleiden op welk bedrag aan subsidie aanspraak wordt gemaakt. Om dit toch enigszins inzichtelijk te maken, stelt het ministerie een rekentool beschikbaar. Deze rekentool kunt u downloaden van het Gemeenteloket (www.gemeenteloket.minszw.nl). De rekentool is gebouwd met Microsoft Excel 2002. Oudere versies van Excel, of andere rekenprogramma’s worden niet ondersteund. Door het invullen van de gegevens die u ook op het verantwoordingsdocument heeft ingevuld, kunt u eenvoudig zien op welk bedrag aan subsidie u aanspraak maakt.
-
 ### **8.2 Gebruik van de Rkb-rekentool**
+
+De Rkb-rekentool bestaat uit diverse werkbladen. U kunt deze werkbladen benaderen door op de gewenste gekleurde tab onderaan het scherm te klikken. U kunt naar de niet-zichtbare werkbladen navigeren door op de driehoekige pijltjes linksonder in het scherm te klikken. Achter ieder tabblad zit een ander werkblad. Als u de Rkb-rekentool voor de eerste maal opent, bevindt u zich in het werkblad met de naam ‘Welkom’. Hieronder wordt de inhoud van de diverse werkbladen kort weergegeven.
 
 De Rkb-rekentool bestaat uit diverse werkbladen. U kunt deze werkbladen benaderen door op de gewenste gekleurde tab onderaan het scherm te klikken. U kunt naar de niet-zichtbare werkbladen navigeren door op de driehoekige pijltjes linksonder in het scherm te klikken. Achter ieder tabblad zit een ander werkblad. Als u de Rkb-rekentool voor de eerste maal opent, bevindt u zich in het werkblad met de naam ‘Welkom’. Hieronder wordt de inhoud van de diverse werkbladen kort weergegeven.
 
@@ -628,8 +630,6 @@ Op dit werkblad vult u de benodigde gegevens in voor de berekening van de subsid
 Op dit werkblad kunt u zien op welk subsidiebedrag u aanspraak maakt per soort uitkering in het kader van de Rkb. Tevens kunt u zien welk bedrag aan subsidie er nog verrekend dient te worden met het Rijk. U kunt op dit werkblad niets wijzigen. U kunt uitsluitend de berekening raadplegen. Dit werkblad heeft een groene tab.
 
 Deze werkbladen laten per afzonderlijke subsidie zien op welk bedrag u aanspraak maakt en hoe dit bedrag tot stand komt. Hiervoor wordt gebruik gemaakt van de gegevens op de invulformulieren. U kunt op deze werkbladen niets wijzigen. U kunt uitsluitend de berekeningen raadplegen. Deze werkbladen hebben een blauwe tab.
-
-Als u kiest voor de afrekening per oude gemeente dient u op deze werkbladen de gele velden in te vullen. Deze aanvullende informatie is nodig voor het berekenen van de juiste Bonusuitkering 2001. Deze werkbladen hebben een paarse tab.
 
 ### **8.3 Vragen over de Rkb-rekentool**
 
@@ -641,7 +641,9 @@ Indien u vragen heeft over de werking van de Rkb-rekentool kunt u deze per e-mai
 
 ### **Controle- en rappotageprotocol behorend bij de regeling uitbreiding kinderopvang en Buitenschoolse opvang 1996/1998–2003**
 
-### **Inleiding**
+### **Controle- en rappotageprotocol behorend bij de regeling uitbreiding kinderopvang en Buitenschoolse opvang 1996/1998–2003**
+
+De Regeling uitbreiding kinderopvang en buitenschoolse opvang (Rkb) heeft als doel gemeenten te ondersteunen bij de verdubbeling (landelijk) van de capaciteit aan kinderopvang tussen 1996 en 2003 (in totaal 82.140 opvangplaatsen).
 
 De Regeling uitbreiding kinderopvang en buitenschoolse opvang (Rkb) heeft als doel gemeenten te ondersteunen bij de verdubbeling (landelijk) van de capaciteit aan kinderopvang tussen 1996 en 2003 (in totaal 82.140 opvangplaatsen).
 
@@ -661,15 +663,15 @@ De gemeente geeft de aantallen in exploitatie zijnde opvangplaatsen in de period
 
 De bij de gemeente fungerende accountant geeft door middel van een accountantsverklaring een oordeel over de getrouwheid van de door de gemeente op het verantwoordingsformulier opgegeven aantallen en over de rechtmatigheid van de wetsuitvoering. Indien de accountantsverklaring niet goedkeurend is, dan dient de accountant de materiële tekortkomingen op een vervolgblad bij de accountantsverklaring toe te lichten. Een uitgebreidere toelichting wordt gegeven in het rapport van bevindingen (zie onderdeel I.2.5. Het rapport van bevindingen).
 
-In 2000 zijn er accountantsverklaringen bij de nulmetingen en tussenmetingen verstrekt. Door de departementale accountantsdienst zijn op de nulmeting in 2001 en 2002 reviews verricht met het doel inzicht te verkrijgen of bij de accountantscontrole voldoende uitgegaan is van de informatiebehoefte van het Ministerie van Sociale Zaken en Werkgelegenheid (SZW) en voor het verder stroomlijnen van de ‘eindmeting en tussenmetingen’ voor de Rkb. In het controleprotocol en de inhoudelijke toelichting bij het verantwoordingsdocument Rkb (hoofdstuk 2 t/m 5) zijn de aandachtspunten voor de accountantscontrole voortkomend uit de nulmeting opgenomen.
-
 ### **I. Algemene uitgangspunten**
 
-### **I.1 Het accountantsonderzoek**
+### **I. Algemene uitgangspunten**
 
 Het onderzoek door de accountant omvat:
 
 ### **I.2 Het verantwoordingsformulier, de accountantsverklaring en het rapport van bevindingen**
+
+De gemeente vult de aantallen in exploitatie zijnde opvangplaatsen en koppelingen gastouderopvang op verschillende meetmomenten in op het verantwoordingsformulier (artikel 6), welke uitgangspunt is voor de controle door de accountant. Het onderzoek door de accountant omvat de controle op de aantallen (juistheid, volledigheid, tijdigheid en rechtmatigheid) van de in exploitatie zijnde opvangplaatsen, zoals door de gemeente ingevuld op het verantwoordingsformulier, code 101–130 bij herindeling en code 201–304.
 
 De gemeente vult de aantallen in exploitatie zijnde opvangplaatsen en koppelingen gastouderopvang op verschillende meetmomenten in op het verantwoordingsformulier (artikel 6), welke uitgangspunt is voor de controle door de accountant. Het onderzoek door de accountant omvat de controle op de aantallen (juistheid, volledigheid, tijdigheid en rechtmatigheid) van de in exploitatie zijnde opvangplaatsen, zoals door de gemeente ingevuld op het verantwoordingsformulier, code 101–130 bij herindeling en code 201–304.
 
@@ -705,9 +707,9 @@ Voor de toetspunten per onderdeel wordt verwezen naar II Verantwoordingsformulie
 
 Indien de toleranties worden overschreden, dient u de geëxtrapoleerde fouten of onzekerheden apart te rapporteren met vermelding van de oorzaken, gekwantificeerd (en geëxtrapoleerd) naar:
 
-Bovenstaande houdt in dat het ministerie in staat moet zijn de gekwantificeerde (en geëxtrapoleerde) fouten en onzekerheden te corrigeren op de aantallen in exploitatie zijnde opvangplaatsen en koppelingen zoals verantwoord in de vakjes op het verantwoordingsformulier (bij de codes 201 t/m 304) en de eventueel ingevulde bijlagen (bij de codes 101 t/m 130).
-
 ### **II. Het verantwoordingsformulier**
+
+– Vaststellen dat de verantwoorde aantallen opvangplaatsen en aantallen koppelingen op het verantwoordingsformulier (code 201a tot en met 304) voldoen aan de gestelde urencriteria (zie onder III Aandachtspuntenlijst toetsingseisen 1 en 3).
 
 – Vaststellen dat de verantwoorde aantallen opvangplaatsen en aantallen koppelingen op het verantwoordingsformulier (code 201a tot en met 304) voldoen aan de gestelde urencriteria (zie onder III Aandachtspuntenlijst toetsingseisen 1 en 3).
 
@@ -731,9 +733,9 @@ Indien de gemeente in 2001 of 2002 is samengevoegd, dient bij code 202a en 203a 
 
 – Vaststellen dat bij de aantallen koppelingen gastouderopvang per jaareinde het gemiddelde van de peildata juist is berekend (zie onder III Aandachtspuntenlijst toetsingseis 2).
 
-Indien op het verantwoordingsformulier bij ‘Afrekening bonusuitkering bij herindeling’ gekozen is voor code 402, zijn de bijlagen (code 101a–130) ingevuld. De op de bijlagen verantwoorde in exploitatie zijnde opvangplaatsen en koppelingen dienen op overeenkomstige wijze gecontroleerd te worden. Dit houdt in dat met betrekking tot de op de bijlagen verantwoorde in exploitatie zijnde opvangplaatsen en koppelingen vastgesteld dient te worden dat aan bovenstaande voorwaarden is voldaan, voorzover van toepassing zijn de bijlagen.
-
 ### **III. Aandachtspuntenlijst Regeling uitbreiding Kinderopvang en Buitenschoolse opvang**
+
+Naast bovengenoemde eisen gesteld aan het verantwoordingsformulier (zie onderdeel II), welke de accountant dient te toetsen, wordt onderstaand de eisen beschreven waaraan de op het verantwoordingsformulier verantwoorde aantallen moeten voldoen.
 
 Naast bovengenoemde eisen gesteld aan het verantwoordingsformulier (zie onderdeel II), welke de accountant dient te toetsen, wordt onderstaand de eisen beschreven waaraan de op het verantwoordingsformulier verantwoorde aantallen moeten voldoen.
 
@@ -751,6 +753,174 @@ In te dienen documenten per gemeente bij herindelingen/samenvoegingen of naamswi
 
 Uiteraard moet alleen een accountantsverklaring worden ingediend als het verleende voorschot groter is dan € 125.000. Bij overschrijding van de goedkeuringstoleranties dient ook een rapport van bevindingen te worden ingediend.
 
+### **IV Model Accountantsverklaring**
+
+De voorgeschreven tekst voor de accountantsverklaring is opgenomen in hoofdstuk 9 Bijlagen van de Toelichting bij het verantwoordingsformulier van de Rkb.
+
+## Bijlage 3. behorende bij artikel 1
+
+Deze regeling wordt met de toelichting en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2004-03-03&g=2004-03-03), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2004-03-03&g=2004-03-03), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2004-03-03&g=2004-03-03), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2004-03-03&g=2004-03-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2004-03-03&g=2004-03-03) in de Staatscourant geplaatst.
+
+##### Artikel 1a
+
+Bij de verantwoording door gemeenten van de uitkering gedaan op grond van [artikel 2, tweede lid, van de Regeling uitbreiding kinderopvang en buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=2) ten behoeve van de verlenging van de Extra taakstelling 2003, gebruikt de gemeente de verantwoordingsformulieren vastgesteld overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=4&z=2005-01-29&g=2005-01-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=5&z=2005-01-29&g=2005-01-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=6&z=2005-01-29&g=2005-01-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=7&z=2005-01-29&g=2005-01-29) bij deze regeling.
+
+## Bijlage 1b. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1&z=2005-01-29&g=2005-01-29)
+
+### **1.1 Algemeen**
+
+Leest u voordat u het verantwoordingsdocument invult, de gehele toelichting door.
+
+### **1.2 Rekentool**
+
+Bij het gebruik van de rekentool klikt u uw gemeentenaam in en de bij het Rijk bekende gegevens verschijnen vanzelf in de blauwe vakken. Uw aantallen opvangplaatsen vult u in, in de geel gekleurde vakken. U moet bij enkele vakken een keuze maken en deze aanklikken. Vervolgens kunt u op het tabblad ‘subsidieberekening’ in één oogopslag zien wat de hoogte zal zijn van het vast te stellen subsidiebedrag voor uw gemeente, uitgaande van een goedkeurende accountantverklaring bij uw verantwoordingsformulier. U kunt aan deze rekentool geen rechten ontlenen. Voor een uitgebreide gebruikerstoelichting bij de rekentool, zie hoofdstuk 8.
+
+### **1.3 Accountant**
+
+Accountantsverklaringen van binnen uw gemeentegrenzen opererende kinderopvanginstellingen en gastouderbureaus zullen de controle vergemakkelijken. Bereidt u uw instellingen daarom voor deze gegevens, indien van toepassing, ter beschikking te stellen.
+
+### **1.4 Indiening**
+
+De minister zal uiterlijk zes maanden na ontvangst van de verantwoordingsformulieren en de accountantsverklaring(en) een beschikking tot vaststelling van de uitkering afgeven.
+
+### **2.1 Algemeen**
+
+De aantallen in exploitatie zijnde opvangplaatsen per meetmoment kunnen zowel een beginmeting als een eindmeting (zelfs tussenmeting) vertegenwoordigen bij verschillende deeluitkeringen waar de Rkb uit bestaat. Zo vertegenwoordigt de eindstand voor de bonusuitkering op meetmoment 31 december 2002 tevens de beginstand voor de uitgekeerde instandhoudingsbijdrage over 2003. In hoofdstuk 4 kunt u lezen welke ‘deeluitkeringen’ te onderscheiden zijn binnen de Rkb.
+
+### **2.2 Onderscheid dagopvang en buitenschoolse opvang**
+
+Hieronder volgt een toelichting op het verantwoordingsformulier met betrekking tot de relevante meetmomenten en de opsomming per code.
+
+### **2.3 Toelichting bij de meetmomenten voor BSO**
+
+Voor BSO in een kindercentrum noteert u de stand (aantal in exploitatie zijnde opvangplaatsen) op 31 december 2003. Voor gastouderopvang BSO neemt u het gemiddelde van het aantal koppelingen op 31 augustus 2003, 31 oktober 2003 en 31 december 2003. U hoeft de omrekening met de verschillende vermenigvuldigingsfactoren niet te maken en het aantal koppelingen **niet** te vermenigvuldigen met de factor 0,43: dat wordt op het ministerie gedaan. De omrekening met de factoren wordt in de rekentool onder subsidieberekening automatisch gedaan.
+
+### **2.4 Toelichting bij de meetmomenten voor HDO**
+
+Vergeet niet het verantwoordingsformulier door Burgemeester en Wethouders te laten ondertekenen.
+
+### **3.1 Algemeen**
+
+Tevens zijn er extra middelen beschikbaar gesteld voor toegenomen kosten voor inspectie en toezicht. Logischerwijs leidt uitbreiding van de kinderopvangcapaciteit tot meer gebruik en grotere afname van (uren) toezicht. Aangezien eerder geconstateerd was, dat veel gemeenten al achterliepen met hun toezichtstaak, is besloten hiervoor een bedrag beschikbaar te stellen dat is uitgekeerd op basis van de taakstelling, maar dat niet zal worden teruggevorderd ook al zijn niet alle opvangplaatsen uit de taakstelling gerealiseerd. Vandaar dat voor deze uitkering ook geen invulhokje is opgenomen in het verantwoordingsformulier.
+
+### **4.1 Algemeen**
+
+Hieronder worden de zes aparte uitkeringen die te onderscheiden zijn binnen de Rkb beschreven. De relevante bedragen en meetmomenten voor die uitkering worden weergegeven en de consequenties bij het niet behalen van de benodigde uitbreiding. Zo kunt u voor uw gemeente een inschatting maken van te verwachten terugvorderingen. Let op: de meetmomenten per jaareinde zoals opgenomen in het verantwoordingsformulier zijn voor de gastouderopvang samengesteld uit meerdere peildata. Zie voor de precieze data hoofdstuk 2.
+
+### **4.2 De uitkering extra bijdrage BSO 1997/1998**
+
+Indien het aantal gerealiseerde opvangplaatsen op 31 december 2002 tenminste gelijk is of groter is dan het totale aantal gerealiseerde opvangplaatsen in 1997 en 1998, dan is voldaan aan de voorwaarden voor deze uitkering. Indien het aantal gerealiseerde opvangplaatsen minder is dan het totaal aantal gerealiseerde opvangplaatsen in 1997 en 1998, dan wordt eerst het bedrag van € 412 per te weinig in stand gehouden BSO-plaats teruggevorderd. Vervolgens wordt het bedrag van € 1237 per te weinig in stand gehouden BSO-plaats teruggevorderd.
+
+### **4.3 De bonusuitkering versnelde uitbreiding 2001**
+
+Het uitgangspunt bij de 50% eis, is de toegekende taakstelling, nog voordat de herverdelingsronde had plaatsgevonden. Bij de 90% eis wordt uitgegaan van de taakstelling na de herverdeling. Indien de 50% eis op 31 december 2001 niet wordt gehaald, dan wordt het hele bonusbedrag teruggevorderd (dus het bedrag bovenop het ‘reguliere’ bedrag per opvangplaats). Dit geldt ook in het geval dat de 50% eis wel wordt gehaald, maar de 90% eis (per 31 december 2002) niet.
+
+### **4.4 De gewone uitkering tot en met 2002**
+
+Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2002 en de nulmetingen, is het aantal gerealiseerde opvangplaatsen en dit moet tenminste gelijk zijn aan (of meer dan) de taakstelling. In dat geval wordt de uitkering vastgesteld op basis van de toegekende taakstelling. De hoogte van het bedrag per gerealiseerde opvangplaats bedraagt per december 2003 € 5939,22. Elke te weinig gerealiseerde opvangplaats wordt met dit bedrag teruggevorderd.
+
+### **4.5 De gewone uitkering tot en met 2003**
+
+De hoogte van het bedrag per opvangplaats is eveneens € 5939,22. Gemeenten die hun uitkering op deze datum laten vaststellen komen in aanmerking voor een instandhoudingsbijdrage (zie 4.6). Op aanvraag kon men ook in aanmerking komen voor een extra taakstelling voor extra te realiseren opvangplaatsen (zie 4.7).
+
+### **4.6 De instandhoudingsbijdrage 2003**
+
+Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2002 en de nulmeting is het aantal gerealiseerde opvangplaatsen en dat moet gelijk of groter zijn dan de toegekende taakstelling. Het verschil tussen het aantal in exploitatie zijnde opvangplaatsen op 31 december 2003 en de nulmeting is het aantal gerealiseerde opvangplaatsen en dat aantal moet eveneens groter of gelijk zijn aan de taakstelling.
+
+### **4.7 De extra bijdrage 2003 (extra taakstelling)**
+
+Dus: het verschil tussen het aantal in exploitatie zijnde opvangplaatsen per 31 december 2003 en het aantal in exploitatie zijnde opvangplaatsen per 31 december 2002 (oftewel het aantal gerealiseerde opvangplaatsen in dit jaar) na aftrek van de taakstelling, moet groter zijn dan of gelijk zijn aan de extra taakstelling. Indien de groei kleiner is dan wordt dit verschil teruggevorderd.
+
+### **4.8 Extra middelen Inspectie en toezicht**
+
+Met het uitbreiden van de capaciteit zullen gemeenten ook meer inspecties moeten laten uitvoeren en toezicht uitoefenen op een groter contigent opvangplaatsen. Deze middelen mogen ook met terugwerkende kracht worden ingezet, dus voor het opvullen van reeds ontstane tekorten op het toezicht. Mede daarom wordt deze uitkering, hoewel berekend en bevoorschot per opvangplaats, niet teruggevorderd (conform besluit van 8 oktober 2002, Stcrt. 196) en vastgesteld op hetgeen verleend is.
+
+### **5.1 Algemeen**
+
+Er is pas sprake van een gerealiseerde opvangplaats conform de Rkb als er met deze in exploitatie zijnde opvangplaats een toename is ten opzichte van de nulmeting (artikel 2, derde en vierde lid) én als het kindercentrum gesubsidieerd wordt of als er tussen de gemeente en het kindercentrum een overeenkomst tot het leveren van opvangplaatsen is (artikel 1, onder j).
+
+### **5.2 De toetsingseisen**
+
+De accountant zal toetsen of de op het verantwoordingsformulier opgegeven aantallen in exploitatie zijnde opvangplaatsen en koppelingen, voldoen aan de eisen (aan alle onderstaande eisen moet zijn voldaan). De accountant zal o.a. het volgende moeten vaststellen:
+
+### **5.2.1 BSO en HDO**
+
+Bij het vaststellen van de soort opvang kan de accountant gebruik maken van vergunningen, inspectierapporten, brochures van de instelling, jaarrekeningen van de instelling etc.
+
+### **5.2.2 Meetmomenten**
+
+De accountant zal voor de vaststelling van de in exploitatie zijnde aantallen per peildatum (meetmoment) gebruik kunnen maken van vergunningen, inspectierapporten, (gecontroleerde) jaarrekeningen van de instelling, raadsbesluiten, besluiten van B&W, subsidiebeschikkingen etc.
+
+### **5.2.3 Urencriteria**
+
+Gecontroleerde jaarrekeningen waaruit deze afwijkende uren zijn op te maken (bijvoorbeeld door de inzet van personeel en fte’s) kunnen eveneens dienen om het aantal gerealiseerde opvangplaatsen te tellen. Ook hier kunnen besluiten van gemeenteraad en/of B&W een bijdrage leveren bij het aantonen dat in de betreffende gemeente kinderopvang met flexibele openingstijden wordt nagestreefd.
+
+### **5.2.4 In exploitatie zijn/capaciteit**
+
+In het verantwoordingsformulier dienen die in exploitatie zijnde opvangplaatsen door de gemeente opgenomen te worden, waarvan de achterliggende stukken, zoals vergunningen, inspectierapporten, subsidiebeschikkingen, gecontroleerde jaarrekeningen en/of jaarstukken zowel van de gemeente als van de instelling etc, ter onderbouwing voor de capaciteit en het in exploitatie zijn, aanwezig zijn.
+
+### **5.2.5 Financiële relatie**
+
+Bij deze aanpassingen op de (nul)metingen was er geen financiële relatie, echter de accountant dient vast te stellen dat aan de voorwaarden, zoals beschreven onder 5.2.4 (capaciteit, in exploitatie) en aan de overige voorwaarden is voldaan.
+
+### **5.2.6 Tellen van koppelingen gastouderopvang**
+
+De controle van het aantal koppelingen is omslachtig. Het kan voorkomen dat uw accountant enkele steekproeven wenst te nemen bij het gastouderbureau waar u mee werkt. Bereid uw gastouderbureau voor om indien nodig inzage in hun administratie en afgesloten contracten te verlenen.
+
+### **5.2.7 Opvang in andere gemeenten**
+
+De accountant zal bij de controle mogelijkerwijs zowel uit uw gemeentelijke administratie als bij uw buurgemeente of gemandateerde bestuursorgaan controles wensen uit te voeren. Het is raadzaam hier afspraken over te maken.
+
+### **6.1 Algemeen**
+
+Indien correcties op de aantallen leiden tot verrekening van verstrekte voorschotten, dan zal hierbij geen wettelijke rente worden berekend.
+
+### **7.1 Inleiding**
+
+U kunt deze invulinstructie gebruiken bij het invullen van de diverse verantwoordingsdocumenten. Deze invulinstructie is van zuiver technische aard en gaat inhoudelijk niet op de verantwoordingsdocumenten in.
+
+### **7.2 Algemeen**
+
+Als u op een bepaald veld niets wilt verantwoorden laat u het desbetreffende veld leeg. Dus geen nullen of strepen invullen.
+
+### **7.3 In te dienen documenten per gemeente**
+
+Voor de gemeenten Rijssen-Holten en Neder-Betuwe geldt dat er zowel sprake is van Situatie B als van Situatie D. Beide uitzonderingssituaties zijn dan ook van toepassing op deze gemeenten.
+
+### **8.1 Doel van de Rkb-rekentool**
+
+Uit de in te dienen (papieren) verantwoording kan de gemeente niet direct afleiden op welk bedrag aan subsidie aanspraak wordt gemaakt. Om dit toch enigszins inzichtelijk te maken, stelt het ministerie een rekentool beschikbaar. Deze rekentool kunt u downloaden van het Gemeenteloket (www.gemeenteloket.minszw.nl). De rekentool is gebouwd met Microsoft Excel 2002. Oudere versies van Excel, of andere rekenprogramma’s worden niet ondersteund. Door het invullen van de gegevens die u ook op het verantwoordingsdocument heeft ingevuld, kunt u eenvoudig zien op welk bedrag aan subsidie u aanspraak maakt.
+
+### **8.2 Gebruik van de Rkb-rekentool**
+
+Als u kiest voor de afrekening per oude gemeente dient u op deze werkbladen de gele velden in te vullen. Deze aanvullende informatie is nodig voor het berekenen van de juiste Bonusuitkering 2001. Deze werkbladen hebben een paarse tab.
+
+### **8.3 Vragen over de Rkb-rekentool**
+
+Indien u vragen heeft over de werking van de Rkb-rekentool kunt u deze per e-mail stellen aan de helpdesk Bekostiging. Het adres hiervoor is helpdeskbekostiging@minszw.nl. Het verdient de aanbeveling om in dat geval de zo volledig mogelijk ingevulde Rkb-rekentool mee te zenden.
+
+### **9. Bijlagen**
+
+## Bijlage 2. behorende bij artikel 1
+
+### **Inleiding**
+
+In 2000 zijn er accountantsverklaringen bij de nulmetingen en tussenmetingen verstrekt. Door de departementale accountantsdienst zijn op de nulmeting in 2001 en 2002 reviews verricht met het doel inzicht te verkrijgen of bij de accountantscontrole voldoende uitgegaan is van de informatiebehoefte van het Ministerie van Sociale Zaken en Werkgelegenheid (SZW) en voor het verder stroomlijnen van de ‘eindmeting en tussenmetingen’ voor de Rkb. In het controleprotocol en de inhoudelijke toelichting bij het verantwoordingsdocument Rkb (hoofdstuk 2 t/m 5) zijn de aandachtspunten voor de accountantscontrole voortkomend uit de nulmeting opgenomen.
+
+### **I.1 Het accountantsonderzoek**
+
+Het onderzoek door de accountant omvat:
+
+### **I.2 Het verantwoordingsformulier, de accountantsverklaring en het rapport van bevindingen**
+
+Bovenstaande houdt in dat het ministerie in staat moet zijn de gekwantificeerde (en geëxtrapoleerde) fouten en onzekerheden te corrigeren op de aantallen in exploitatie zijnde opvangplaatsen en koppelingen zoals verantwoord in de vakjes op het verantwoordingsformulier (bij de codes 201 t/m 304) en de eventueel ingevulde bijlagen (bij de codes 101 t/m 130).
+
+### **II. Het verantwoordingsformulier**
+
+Indien op het verantwoordingsformulier bij ‘Afrekening bonusuitkering bij herindeling’ gekozen is voor code 402, zijn de bijlagen (code 101a–130) ingevuld. De op de bijlagen verantwoorde in exploitatie zijnde opvangplaatsen en koppelingen dienen op overeenkomstige wijze gecontroleerd te worden. Dit houdt in dat met betrekking tot de op de bijlagen verantwoorde in exploitatie zijnde opvangplaatsen en koppelingen vastgesteld dient te worden dat aan bovenstaande voorwaarden is voldaan, voorzover van toepassing zijn de bijlagen.
+
+### **III. Aandachtspuntenlijst Regeling uitbreiding Kinderopvang en Buitenschoolse opvang**
+
 In hoofdstuk 5 van de toelichting bij het verantwoordingsformulier van de Rkb zijn de aandachtspunten ten aanzien van de controle en de verduidelijking van de begrippen opgenomen. Hoofdstuk 2 van de toelichting bevat de invulinstructie van de verantwoording.
 
 ### **IV Model Accountantsverklaring**
@@ -759,4 +929,282 @@ De voorgeschreven tekst voor de accountantsverklaring is opgenomen in hoofdstuk 
 
 ## Bijlage 3. behorende bij artikel 1
 
-Deze regeling wordt met de toelichting en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2004-03-03&g=2004-03-03), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2004-03-03&g=2004-03-03), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2004-03-03&g=2004-03-03), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2004-03-03&g=2004-03-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2004-03-03&g=2004-03-03) in de Staatscourant geplaatst.
+## Bijlage 4. behorende bij [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1a&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb
+
+## Bijlage 5. behorende bij [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1a&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb
+
+### **Toelichting op het verantwoordingsformulier behorende bij de verlenging van de Extra taakstelling 2003 van de Regeling uitbreiding kinderopvang en buitenschoolse opvang (Rkb)**
+
+### **1. Inleiding**
+
+Dit document is de toelichting bij het officiële verantwoordingsformulier van de verlenging van de Extra taakstelling 2003, behorende bij [artikel 2, tweede lid, van de specifieke uitkering Regeling uitbreiding kinderopvang en buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=2) (verder Rkb).
+
+U kunt alleen met bijgevoegd en uniek verantwoordingsdocument vaststelling van uw subsidie in het kader van de verlenging van de Extra taakstelling 2003 aanvragen bij het ministerie van SZW.
+
+U dient zich er van te vergewissen dat de aantallen die u invult ook de definitieve aantallen zijn die voor dat meetmoment relevant zijn. De ingevulde aantallen per meetmoment vormen namelijk de basis van uw declaratie en de berekeningsgrondslag waarop uw toegekende uitkering zal worden vastgesteld.
+
+### **1.1. Accountant**
+
+Zodra het verleende subsidiebedrag voor de verlenging van de Extra taakstelling 2003 boven de € 125.000 uitkomt1Zie de vaststellingsbeschikking betreffende uw uitkering Rkb over 1996–2003., dienen de door u opgegeven aantallen opvangplaatsen op dit verantwoordingsformulier, gecontroleerd te worden, door uw accountant. U kunt alleen gebruik maken van de bijgevoegde standaard accountantsverklaring ([bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=6&z=2005-01-29&g=2005-01-29)).
+
+De accountant zal de controle uitvoeren conform bijgevoegd controle- en rapportageprotocol (zie [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=7&z=2005-01-29&g=2005-01-29)). Ook u wordt aangeraden goed kennis te nemen van dit protocol en het zo spoedig mogelijk aan uw accountant ter beschikking te stellen. Dit geldt ook voor de voorliggende toelichting.
+
+Er zal in deze toelichting veelvuldig verwezen worden naar [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb (de toelichting bij het verantwoordingsformulier).
+
+Beide documenten vermelden welke achterliggende stukken men kan gebruiken om de verantwoorde aantallen opvangplaatsen te controleren of om te controleren of uw administratie compleet is en de benodigde achterliggende stukken bevat.
+
+Accountantsverklaringen van binnen uw gemeentegrenzen opererende kinderopvanginstellingen en gastouderbureaus zullen de controle vergemakkelijken. Bereid uw instellingen daarom voor deze gegevens, indien van toepassing, ter beschikking te stellen.
+
+### **1.2. Indiening**
+
+Uiterlijk 10 maanden ([art. 50 Bekostigingsbesluit welzijnsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=50)) na afloop van de verlenging van dit deel van de Rkb, dus vóór 1 november 2005 moet het door de accountant gewaarmerkte verantwoordingsdocument ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=4&z=2005-01-29&g=2005-01-29)), inclusief de ondertekende accountantsverklaring, ontvangen zijn door:
+
+Ministerie van Sociale Zaken en Werkgelegenheid
+
+Directie GOB, afdeling BFO
+
+Postbus 90801
+
+2509 LV Den Haag
+
+Vergeet niet het verantwoordingsformulier door Burgemeester en Wethouders te laten ondertekenen.
+
+U kunt bij het indienen van uw verantwoording uitsluitend gebruik maken van de originele formulieren die door het ministerie aan u zijn verstrekt. Het gebruik van kopieën of zelf ontworpen formulieren is niet toegestaan. Ook gefaxte formulieren kunnen niet worden verwerkt. U kunt de originele verantwoordingsdocumenten herkennen aan de gekleurde horizontale balk in het SZW-logo.
+
+De Minister zal uiterlijk zes maanden na ontvangst van de verantwoordingsformulieren en de accountantsverklaring(en) een beschikking tot vaststelling van de uitkering afgeven.
+
+### **2. Toelichting bij het invullen**
+
+### **2.1. Algemeen**
+
+Bij de kolom **‘Stand per 31-12-2004’** vult u per code de aantallen in exploitatie zijnde opvangplaatsen (conform de voorwaarden van de Rkb) binnen uw gemeente in.
+
+Het spreekt voor zich dat de opgegeven opvangplaatsen geëxploiteerd worden door kindercentra en of gastouderbureaus ([artikel 2, vijfde lid, van de Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=2)) en dus minimaal voldoen aan het gestelde in het Tijdelijk besluit kwaliteitsregels kinderopvang.
+
+Er is sprake van een (gerealiseerde) opvangplaats BSO (buitenschoolse opvang) indien het aanbod op jaarbasis voor buitenschoolse opvang tenminste 1050 uur betreft. Er is sprake van een (gerealiseerde) opvangplaats HDO indien het aanbod voor dagopvang tenminste 2160 uur betreft (zie ook de [Rkb, artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=1)). Dit betekent dat bij het tellen van het **aantal gerealiseerde opvangplaatsen**, geteld wordt op basis van capaciteit.
+
+Bij het vaststellen van de **soort opvang** door uw accountant, kan men gebruik maken van vergunningen, inspectierapporten, brochures van de instelling, jaarrekeningen van de instelling etc.
+
+De accountant zal voor de vaststelling van de **in exploitatie** zijnde aantallen per code gebruik kunnen maken van vergunningen, inspectierapporten, (gecontroleerde) jaarrekeningen van de instelling, raadsbesluiten, besluiten van B&W, subsidiebeschikkingen etc.
+
+Voor de omschrijvingen van de begrippen ‘in exploitatie zijnde, urencriteria, financiële relatie, koppelingen gastouderopvang, koppelingen gastouderopvang, opvang in andere gemeenten’ wordt verwezen naar hoofdstuk 5 van de Toelichting bij het verantwoordingsformulier van de Rkb 1996–2003 ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb).
+
+Bij de kolom **‘Stand per 31-12-2003’** neemt u de aantallen over uit de vaststellingsbeschikking 1996–2003.
+
+### **2.2. Toelichting per code en meetmoment**
+
+Bij **onderdeel A, code 101**, neemt u het aantal over dat in de vaststellingsbeschikking voor 1996–2003 staat vermeld. Dit aantal vermenigvuldigt u met € 1841,65. Het resultaat hiervan is de rijksvergoeding, die u krachtens dezelfde vaststellingsbeschikking bij wijze van voorschot volledig uitgekeerd heeft gekregen.
+
+**Onderdeel B, code 201 tot en met 208**, bestaat uit drie kolommen: in de eerste kolom vermeldt u de stand per 31 december 2004, in de tweede kolom noteert u de stand per 31 december 2003 (neem hiervoor de aantallen over van de vaststellingsbeschikking 1996–2003) en in de derde kolom berekent u het verschil tussen kolom 1 en 2, na vermenigvuldiging met de bijbehorende factor.
+
+Onder **code 299** vermeldt u het totaal van de derde kolom.
+
+Bij **onderdeel C, code 999**, vult u het laagste aantal in dat staat vermeldt bij A (code 101) en B (code 299). Bij een negatief aantal vult u het getal 0 in.
+
+Dit laagste aantal vermenigvuldigt u met € 1841,65. Het resultaat van deze vermenigvuldiging staat voor uw rechtmatige rijksbijdrage.
+
+Bij **onderdeel D, code 901**, wordt gekeken of er een verschil is tussen het bevoorschotte deel van uw rijksbijdrage (het bedrag onder A) en uw rechtmatige rijksbijdrage (het bedrag onder C).
+
+Bij een positief verschil is dit het bedrag dat door het ministerie zal worden teruggevorderd. Indien het verschil negatief is, dient de bij code 901 een 0 ingevuld te worden.
+
+### **2.3. In 2004 samengevoegde/heringedeelde gemeenten**
+
+De heringedeelde gemeenten in 2004 (Westland, Midden-Delfland en Geldrop-Mierlo) vullen op het verantwoordingsdocument (dat op naam van de nieuwe gemeente wordt verstuurd) bij de kolom ‘31-12-2004’ de gerealiseerde aantallen in.
+
+Onder de kolom ‘31-12-2003’ vult men in de som van de aantallen uit de vaststellingsbeschikkingen 1996–2003 (op naam van de oude gemeenten).
+
+### **2.4. Verklaring van begrippen**
+
+Bij de codes met deze aanduiding (201, 202 en 203) vult u het aantal in exploitatie zijnde opvangplaatsen met het bijbehorende aantal uren opvang in (zie ook het overzicht in [hoofdstuk 5 van bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29): de toelichting op het verantwoordingsformulier 1996–2003).
+
+Dus u vult hier het aantal in exploitatie zijnde opvangplaatsen in, dat u voor de buitenschoolse opvang (BSO) heeft gerealiseerd met een opvangaanbod van bijvoorbeeld tussen de 1050 en 1650 uur per jaar. Of met een opvangaanbod van meer dan 1650 uren per jaar.
+
+De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO. Hiervoor dient u het gemiddelde te nemen van het aantal koppelingen op 31 augustus 2004, 31 oktober 2004 en 31 december 2004 (zie ook [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29), de toelichting op het verantwoordingsformulier Rkb, pag. 19). De omrekening met de verschillende vermenigvuldigingsfactoren doet u pas in de kolom: ‘Realisatie’.
+
+Bij deze codes met deze aanduiding (204, 205, 206, 207 en 208) vult u het aantal in exploitatie zijnde opvangplaatsen met het bijbehorende aantal uren opvang in (zie ook het overzicht in [hoofdstuk 5 van bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29): de toelichting op het verantwoordingsformulier 1996–2003).
+
+Dus u vult hier het aantal opvangplaatsen in met een opvangaanbod van bijvoorbeeld tussen de 2160 en 2850 uur per jaar. Of met een opvangaanbod van meer dan 6120 uren per jaar etc.
+
+De gastouderopvang koppelingen worden apart aangegeven in de kolom GOO. Hiervoor dient u het gemiddelde te nemen van het aantal koppelingen op 31 augustus 2004, 31 oktober 2004 en 31 december 2004 (zie ook [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29), de toelichting op het verantwoordingsformulier Rkb, pag. 19). De omrekening met de verschillende vermenigvuldigingsfactoren doet u pas in de kolom: ‘Realisatie’.
+
+### **3. Vaststelling**
+
+### **3.1. Algemeen**
+
+Hieronder volgt de beleidslijn die gevolgd gaat worden bij de vaststelling van uw subsidie (uitkering).
+
+Bij correct ingevulde verantwoordingen en/of verantwoordingen met een goedkeurende accountantsverklaring, wordt afhankelijk van het halen (realiseren) van de taakstelling het subsidiebedrag vastgesteld overeenkomstig de subsidieverlening. Indien er minder plaatsen zijn gerealiseerd dan vastgelegd in de taakstelling dan wordt dit mindere aantal gerealiseerde plaatsen teruggevorderd (conform [artikel 51 van het Bekostigingsbesluit welzijnsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=51)).
+
+Indien u een voorschot heeft ontvangen2Zie de vaststellingsbeschikking betreffende uw uitkering Rkb 1996–2003. van meer dan € 125.000 voor de verlenging van de Extra uitkering 2003, dan wordt overeenkomstig het controle- en rapportageprotocol van uw accountant verwacht, dat indien de in het verantwoordingsformulier aangetroffen fouten de 1% en/of de onzekerheden de 3% (van het totale aantal in exploitatie zijnde opvangplaatsen) overschrijden, de fouten en onzekerheden worden gerapporteerd.
+
+Als de fouten de 1% overschrijden en/of de onzekerheden de 3% overschrijden, kan dit leiden tot een afkeurende verklaring, een verklaring van oordeelonthouding of een verklaring met beperking.
+
+De accountant zal in het rapport van bevindingen vermelden om hoeveel opvangplaatsen het gaat en in welk toetspunt de oorzaak van de onzekerheden of fouten ligt. Indien de toleranties worden overschreden, dient de accountant de geëxtrapoleerde fouten of onzekerheden apart te rapporteren met vermelding van de oorzaken, gekwantificeerd (en geëxtrapoleerd) naar de toetspunten uit hoofdstuk 5 van de Toelichting bij het verantwoordingsformulier van de Rkb ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb).
+
+Bovenstaande houdt in dat het ministerie in staat moet zijn de gekwantificeerde fouten en onzekerheden te corrigeren op de aantallen in exploitatie zijnde opvangplaatsen zoals verantwoord in de vakjes op het verantwoordingsformulier (bij de codes 201 t/m 208).
+
+Afhankelijk van de aard van de fouten en onzekerheden in het rapport van bevindingen zal meer of minder coulance worden genomen, voordat tot correctie zal worden overgegaan. Deze correcties vloeien voort uit [artikel 51 van het Bekostigingsbesluit welzijnsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=51) en [artikel 4:46 van de AwB](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46).
+
+In geval van fouten zal 100% van het aantal foutieve opvangplaatsen of koppelingen welke zijn opgegeven door de accountant, gecorrigeerd worden op de aantallen zoals opgegeven op het verantwoordingsformulier.
+
+Indien niet met zekerheid vastgesteld kan worden dat er sprake is van een financiële relatie tussen de gemeente en het kindcentrum, dan zal 100% van het aantal onzekere opvangplaatsen of koppelingen gecorrigeerd worden op de aantallen zoals opgegeven op het verantwoordingsformulier.
+
+In geval van overige onzekerheden zal 50% van de geconstateerde onzekere opvangplaatsen of koppelingen worden gecorrigeerd op de aantallen zoals opgegeven op het verantwoordingsformulier.
+
+In feite betekenen bovenstaande correcties een zekere coulance bij bijna alle toetspunten. Dit is mede ingegeven door een review op de nulmeting, waaruit bleek dat de meest onzekerheden bij de eindmeting zullen ontstaan op het toetspunt koppelingen gastouderopvang.
+
+Voor deze coulance is gekozen om te voorkomen dat aangetroffen onzekerheden bij de gastouderopvang een te grote invloed hebben op de totale verantwoording, aangezien gastouderopvang slechts een klein deel uitmaakt van de totale gerealiseerde uitbreiding (landelijk ongeveer 5%) terwijl de registratie en administratie van gastouderopvang (koppelingen) een bewerkelijke en complexe opzet kent.
+
+Met name het registeren en tellen van de koppelingen (zijnde het gemiddelde van verschillende maanden) op de juiste peildata is een extra moeilijkheidsfactor bij het registreren van uitbreidingen bij deze vorm van kinderopvang, waarbij de gemeente ook nog afhankelijk is van (al dan niet beschikbare gegevens bij) het gastouderbureau.
+
+### **3.2. Terugvordering**
+
+De toegepaste correcties op de aantallen zoals opgegeven op het verantwoordingsformulier hebben pas gevolgen voor de gemeente als de correcties leiden tot minder gerealiseerde opvangplaatsen op bepaalde meetmomenten, dan waarvoor voorschotten zijn verstrekt.
+
+Indien de ingediende verantwoording of de correcties op de aantallen leiden tot verrekening van verstrekte voorschotten, dan zal hierbij geen wettelijke rente worden berekend.
+
+### **4. Technische invulinstructie**
+
+### **4.1. Inleiding**
+
+Het verantwoordingsdocument voor de verlenging van de Extra taakstelling van de Rkb wordt automatisch verwerkt door middel van OCR (scanning). Dit stelt een aantal eisen aan de wijze waarop u dit document kunt indienen. Doel van deze invulinstructie is de geautomatiseerde verwerking van de verantwoordingsdocumenten zo voorspoedig mogelijk te laten verlopen en het aantal onjuist of niet volledig ingevulde formulieren te beperken.
+
+U kunt deze invulinstructie gebruiken bij het invullen van de diverse verantwoordingsdocumenten. Deze invulinstructie is van zuiver technische aard en gaat inhoudelijk niet op de verantwoordingsdocumenten in.
+
+### **4.2. Algemeen**
+
+U kunt bij het indienen van uw verantwoording uitsluitend gebruik maken van het originele formulier dat door het ministerie aan u is verstrekt. Het gebruik van kopieën of zelf ontworpen formulieren is niet toegestaan. Ook gefaxte formulieren kunnen niet worden verwerkt. U kunt de originele verantwoordingsdocumenten herkennen aan de gekleurde horizontale balk in het SZW-logo.
+
+Het verantwoordingsdocument dient te worden ondertekend door het bevoegd gezag. In de regel is dit het College van Burgemeester en Wethouders (B&W). Bij de ondertekening kan geen sprake zijn van mandatering. Bij mandatering is namelijk sprake van een besluit dat wordt genomen in naam van een bestuursorgaan. Bij de ondertekening van de verantwoordingsdocumenten is echter geen sprake van het nemen van een besluit maar van het verrichten van een feitelijke handeling. Voor deze handelingen kan op grond van [art. 10:12 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) een machtiging voor ondertekening aan een ondergeschikte worden verleend. Voor ondertekening door een niet-ondergeschikte moet op grond van [titel 3 van boek 3 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=3) een machtiging zijn verleend.
+
+Uitsluitend in die gevallen dat het bevoegd gezag (B&W) een machtiging heeft afgegeven aan een ondergeschikte of aan een niet-ondergeschikte, is het de gemachtigde toegestaan de verantwoordingsdocumenten namens het bevoegd gezag te ondertekenen. Uit de ondertekening moet te allen tijde blijken namens wie het is ondertekend. Zie hiervoor [art. 10:10 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:10).
+
+U kunt de formulieren met zwarte of blauwe inkt in vullen. Ook het gebruik van een schrijfmachine of printer is toegestaan. U dient daarbij rekening te houden met het volgende:
+
+De in deze kolom opgenomen codes zijn bestemd voor verwerking door het ministerie. Deze zijn voor u uitsluitend van belang wanneer deze codes ook worden gebruikt als verwijzing naar elders op de verantwoordingsdocumenten.
+
+Het gebruik van punten op de verantwoordingsdocumenten is niet toegestaan. Op de documenten vermeldt u dan ook geen scheidingstekens bij de duizendtallen. Het gebruik van de komma is uitsluitend toegestaan als decimaalteken.
+
+Bij aantallen kunt u afronden tot maximaal één cijfer achter de komma.
+
+Als u op een bepaald veld niets wilt verantwoorden laat u het desbetreffende veld leeg. Dus geen nullen of strepen invullen.
+
+## Bijlage 6. behorende bij [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1a&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb
+
+## Bijlage 7. behorende bij [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&artikel=1a&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb
+
+### **Controle- en rapportageprotocol behorend bij de verlenging van de Extra taakstelling 2003 van de Regeling uitbreiding kinderopvang en buitenschoolse opvang (Rkb)**
+
+### **Inleiding**
+
+De [Regeling uitbreiding kinderopvang en buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0011626) (Rkb) heeft als doel gemeenten te ondersteunen bij de verdubbeling (landelijk) van de capaciteit aan kinderopvang tussen 1996 en 2003 (in totaal 82.140 opvangplaatsen). De [Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626) is een Ministeriële regeling vallend onder de [Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705) en het daarbij horende Bekostigingsbesluit. Op basis hiervan kunnen gemeenten een specifieke uitkering ontvangen om de uitbreiding van het aantal plaatsen kinderopvang te stimuleren. De gemeenten blijven gedurende de Rkb-periode verantwoordelijk voor algemeen kinderopvangbeleid (toezicht, kwaliteit, aanbod etc.).
+
+Over de toegekende Rkb-middelen dienen gemeenten verantwoording af te leggen aan het Rijk. De uitkering is op outputbasis verstrekt. Dit betekent dat er niet wordt afgerekend op werkelijk gemaakte kosten, maar dat er verantwoording wordt afgelegd, waaruit blijkt dat de activiteiten waarvoor de uitkering was bedoeld, zijn uitgevoerd.
+
+Voor de extra taakstelling 2003 is de regeling in 2004 verlengd. Dit houdt in dat gebruik gemaakt kan worden van de mogelijkheid om de realisatie van opvangplaatsen uit deze taakstelling nog in 2004 te bewerkstelligen. Bij de vaststelling van de [Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626) over de periode 1996–2003 diende aangegeven te worden dat van deze mogelijkheid gebruik gemaakt gaat worden. Bij de verantwoording van de [Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626) (in november 2004) zijn de gerealiseerde aantallen 2003 bepaald en is daarop afgerekend. Op het verantwoordingsformulier voor de Rkb is bij code 701 en 702 aangegeven of de extra taakstelling in 2003 wordt behaald. Zo niet, dan kon gekozen worden of deze in 2004 alsnog worden gerealiseerd. In het geval dat een gedeelte van de extra taakstelling niet in 2003 is gerealiseerd en bij code 702 niet is aangegeven dat dit alsnog in 2004 wordt gerealiseerd, is het niet gerealiseerde deel van de extra taakstelling 2003 teruggevorderd. Zie hiervoor ook de vaststellingbeschikking Rkb 1996–2003.
+
+In het geval gekozen is voor realisatie in 2004 van het niet gerealiseerde gedeelte van de extra taakstelling 2003, is een voorschot in 2004 verstrekt voor het niet gerealiseerde gedeelte van de extra taakstelling 2003, verder aangegeven als **restanttaakstelling**.
+
+Binnen 10 maanden na 31-12-2004 dient een verantwoordingsformulier verlenging Extra taakstelling 2003 ingevuld te worden, eventueel voorzien van een accountantsverklaring (indien het verleende voorschot over 2004 groter of gelijk is aan € 125.000). Op het verantwoordingformulier Rkb verlenging Extra taakstelling 2003 wordt het aantal plaatsen per 31-12-2004 aangegeven.
+
+### **Verantwoordingsdocument voor de verlenging van de Extra taakstelling 2003**
+
+Op basis van de aantallen per 31-12-2004 wordt de groei over 2004 ten opzichte van 2003 uitgerekend en vergeleken met de restanttaakstelling (op grond waarvan het voorschot voor 2004 is verleend, zoals aangegeven in de vaststellingsbeschikking Rkb 1996–2003).
+
+De groei over 2004 ten opzichte van de stand per 31 december 2003 is het aantal in 2004 gerealiseerde opvangplaatsen.
+
+Indien het in 2004 gerealiseerde aantal opvangplaatsen groter of gelijk is aan de restanttaakstelling, wordt de subsidie vastgesteld op het bedrag van het verleende voorschot.
+
+Indien het in 2004 gerealiseerde aantal opvangplaatsen kleiner is dan de restanttaakstelling wordt het subsidiebedrag berekend op de in 2004 realiseerde opvangplaatsen en wordt het verschil met het verleende voorschot teruggevorderd.
+
+Binnen 10 maanden na 31-12-2004 dienen de betreffende gemeenten een verantwoordingsformulier verlenging Extra taakstelling 2003 betreffende de restanttaakstelling in te leveren met de aantallen opvangplaatsen per 31 december 2004, eventueel voorzien van een accountantsverklaring (indien het verleende voorschot over 2004 groter of gelijk is aan € 125.000). In de accountantsverklaring en toelichting bij de verantwoording verlenging Extra taakstelling 2003 dient verwezen te worden naar het voorliggende controleprotocol en de toelichting bij het verantwoordingsformulier 1996–2003 ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb).
+
+Het controle- en rapportageprotocol heeft de volgende indeling:
+
+I. Algemene uitgangspunten
+
+II. Het verantwoordingsformulier verlenging Extra taakstelling 2003
+
+III. Aandachtspuntenlijst [Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626)
+
+IV. Model Accountantsverklaring
+
+### **I. Algemene uitgangspunten**
+
+### **I.1. Het accountantsonderzoek**
+
+Het onderzoek door de accountant omvat:
+
+### **I.2. Het verantwoordingsformulier verlenging Extra taakstelling 2003, de accountantsverklaring en het rapport van bevindingen**
+
+### **I.2.1. Het onderwerp van onderzoek**
+
+De gemeente vult de aantallen in exploitatie zijnde opvangplaatsen en koppelingen gastouderopvang ultimo 2003 en 2004 en de bedragen in op het verantwoordings-formulier verlenging Extra taakstelling 2003 ([artikel 6 van de Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=6)), welke uitgangspunt is voor de controle door de accountant.
+
+Het onderzoek door de accountant omvat de controle op de aantallen (juistheid, tijdigheid en rechtmatigheid) van de in exploitatie zijnde opvangplaatsen en de rekenkundige juistheid van de aantallen en bedragen, zoals door de gemeente ingevuld op het verantwoordingsformulier verlenging Extra taakstelling 2003 ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=4&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb).
+
+De controle richt zich op de vaststelling van de juistheid, tijdigheid en rechtmatigheid van de door de gemeente op het verantwoordingsformulier verlenging Extra taakstelling 2003 ingevulde aantallen en bedragen.
+
+Uitgangspunt bij het onderzoek zijn de normen zoals deze ontleend worden aan de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), de [Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705), het [Bekostigingsbesluit welzijnsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0007133), de [Rkb](https://wetten.overheid.nl/jci1.3:c:BWBR0011626), de uitgegeven circulaires, de Toelichting bij het verantwoordingsformulier van de Rkb ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb), de Toelichting op het verantwoordingsformulier van de verlenging van de Extra taakstelling 2003 ([bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=5&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren) en het voorliggende controleprotocol.
+
+### **I.2.2. De reikwijdte van de accountantsverklaring**
+
+De accountantsverklaring heeft betrekking op de tijdigheid en juistheid van de door de gemeente op het verantwoordingsformulier verlenging Extra taakstelling 2003 ingevulde aantallen in exploitatie zijnde opvangplaatsen BSO en HDO en koppelingen GOO, de rekenkundige juistheid van de bedragen, alsmede op de rechtmatigheid van de wetsuitvoering, zoals benoemd in de toelichting bij het verantwoordingsdocument Rkb, de Toelichting op het verantwoordingsformulier van de verlenging van de Extra taakstelling 2003 en de naar aanleiding van de regeling uitgebrachte circulaires.
+
+### **I.2.3. De te hanteren goedkeuringstoleranties**
+
+De goedkeuringstolerantie voor fouten bedraagt 1% over het totaal van de aantallen in exploitatie zijnde opvangplaatsen. De goedkeuringstolerantie voor onzekerheden bedraagt 3% over het totaal van de aantallen in exploitatie zijnde opvangplaatsen. Dit totaal is opgebouwd uit de volgende onderdelen (conform de codes op het verantwoordingsformulier verlenging Extra taakstelling 2003):
+
+Aantal opvangplaatsen = som van de totalen vermenigvuldigd met de factor.
+
+Fouten in de bedragen dienen omgerekend te worden naar in exploitatie zijnde opvangplaatsen.
+
+De aantallen in exploitatie zijnde opvangplaatsen zijn rechtmatig indien deze tot stand zijn gekomen in overeenstemming met de [Regeling uitbreiding kinderopvang en buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0011626) (Rkb) en met andere van toepassing zijnde wettelijke regelingen.
+
+### **I.2.4. De accountantsverklaring**
+
+De controle van de aantallen in exploitatie zijnde opvangplaatsen en koppelingen op verschillende meetpunten en de bedragen wordt afgesloten met een accountantsverklaring. De accountantsverklaring omvat een oordeel over de juistheid en tijdigheid van de aantallen, de rekenkundige juistheid van de bedragen en over de rechtmatigheid van de wetsuitvoering.
+
+Voor de verklaring moet gebruik gemaakt worden van het door het Ministerie voorgeschreven formulier (zie paragraaf IV; Model Accountantsverklaring). Het verantwoordingsformulier verlenging Extra taakstelling 2003 van de gemeente dient door de accountant gewaarmerkt te worden.
+
+Indien de verklaring een niet goedkeurende strekking heeft (bij overschrijding van de goedkeuringstoleranties), moet op het vervolgblad de motivering worden opgenomen. In het rapport van bevindingen wordt een uitgebreidere toelichting gegeven op de geconstateerde fouten of onzekerheden die tot een niet goedkeurende accountantsverklaring hebben geleid.
+
+### **I.2.5. Het rapport van bevindingen**
+
+In het rapport van bevindingen wordt (indien van toepassing) ingegaan op:
+
+De fouten en onzekerheden dienen geëxtrapoleerd te worden naar de massa, omgerekend te worden naar opvangplaatsen (zie de tabel onder paragraaf I.2.3) en vergeleken met de goedkeuringstoleranties.
+
+De rapportagetoleranties zijn gelijk aan de goedkeuringstoleranties.
+
+Voor de toetspunten per onderdeel wordt verwezen naar paragraaf II; Verantwoordingsformulier verlenging Extra taakstelling 2003 en paragraaf III; Aandachtspuntenlijst en naar hoofdstuk 5 van de Toelichting bij het verantwoordingsformulier van de Rkb ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb).
+
+Indien de toleranties worden overschreden, dient u de geëxtrapoleerde fouten of onzekerheden apart te rapporteren met vermelding van de oorzaken, gekwantificeerd (en geëxtrapoleerd) naar de toetspunten 1, 2, 3, 4a, 4b, 4c, 4d en 4e (zie toetsingseisen onder paragraaf III; aandachtpuntenlijst), alsmede de overige toetspunten (per toetspunt) onder paragraaf II; Het verantwoordingsformulier verlenging Extra taakstelling 2003.
+
+Bovenstaande houdt in dat het ministerie in staat moet zijn de gekwantificeerde (en geëxtrapoleerde) fouten en onzekerheden te corrigeren op de aantallen in exploitatie zijnde opvangplaatsen en koppelingen zoals verantwoord in de vakjes op het verantwoordingsformulier verlenging Extra taakstelling 2003 (bij de codes 201 t/m 208).
+
+### **II. Het verantwoordingsformulier verlenging Extra taakstelling 2003**
+
+### **III. Aandachtspuntenlijst Regeling uitbreiding kinderopvang en buitenschoolse opvang**
+
+### **Toetsingseisen**
+
+Naast bovengenoemde eisen gesteld aan het verantwoordingsformulier verlenging Extra taakstelling 2003 (zie onderdeel II), welke de accountant dient te toetsen, wordt onderstaand de eisen beschreven waaraan de op het verantwoordingsformulier verlenging Extra taakstelling 2003 verantwoorde aantallen ultimo 2004 moeten voldoen.
+
+De eisen waaraan de op het verantwoordingsformulier verlenging Extra taakstelling 2003 opgegeven aantallen in exploitatie zijnde opvangplaatsen en koppelingen ultimo 2004 moeten voldoen (aan alle onderstaande eisen moet zijn voldaan):
+
+Indien, bij gebrek aan vergunningen, afgegaan wordt op gegevens uit de jaarrekening van de betreffende kinderopvanginstelling, dient de accountant via eigen werkzaamheden de betrouwbaarheid van de gegevens te beoordelen, bijv. d.m.v. een review bij de accountant van de betreffende kinderopvanginstelling of door eigen onderzoek. Indien een review wordt uitgevoerd gelden de voorschriften uit de Richtlijn Accountantscontrole (nr. 600). De omvang van de reviews en eigen onderzoek is afhankelijk van de materialiteit van de op het verantwoordingsformulier verlenging Extra taakstelling 2003 verantwoorde aantallen ten opzichte van het totaal. Indien de aantallen op het verantwoordingsformulier verlenging Extra taakstelling 2003 materieel ontleend zijn aan jaarrekeningen van de kindercentra dient een review plaats te vinden. Indien er sprake is van vele kleine kindercentra dan dienen ook reviews te worden uitgevoerd.
+
+Van de accountant mag worden verwacht dat aan de van belang zijnde aspecten zodanige aandacht wordt gegeven dat er voldoende werkzaamheden zijn verricht om een oordeel te geven over de volledigheid, juistheid, tijdigheid en rechtmatigheid van de betreffende opgaven. Er dient in het dossier van de accountant op heldere wijze inzicht te worden gegeven omtrent de door de accountant uitgevoerde werkzaamheden en de wijze waarop de accountant tot het oordeel is gekomen.
+
+Heringedeelde gemeenten in 2004 (Westland, Midden-Delfland en Geldrop-Mierlo) dienen één verantwoording en een accountantsverklaring in voor de nieuwe gemeente. De aantallen opvangplaatsen bij onderdeel A ‘Maximaal te realiseren groei in 2004’ (code 101) en bij onderdeel B ‘Stand per 31-12-2003’ (code 201-208) dienen overeenkomen met het totaal van de aantallen vermeld in de afzonderlijke vaststellingsbeschikkingen Rkb 1996–2003 van de ‘oude’ gemeenten (die in 2003 niet meer bestaan).
+
+Uiteraard moet alleen een accountantsverklaring worden ingediend als het verleende voorschot over 2004 groter is dan € 125.000. Bij overschrijding van de goedkeuringstoleranties dient ook een rapport van bevindingen te worden ingediend.
+
+In hoofdstuk 5 van de toelichting ([bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29)) bij het verantwoordingsformulier van de Rkb zijn de aandachtspunten ten aanzien van de controle en de verduidelijking van de begrippen opgenomen. De invulinstructie voor het verantwoordingsformulier van de verlenging van de Extra taakstelling 2003 is verstrekt als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=5&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb.
+
+### **IV. Model Accountantsverklaring**
+
+De voorgeschreven tekst voor de accountantsverklaring is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=6&z=2005-01-29&g=2005-01-29) van de Regeling verantwoordingsformulieren Rkb.
+
+Deze regeling wordt met de toelichting en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2005-01-29&g=2005-01-29), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2005-01-29&g=2005-01-29), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2005-01-29&g=2005-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2005-01-29&g=2005-01-29) in de Staatscourant geplaatst.
