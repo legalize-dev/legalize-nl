@@ -4,7 +4,7 @@ identifier: "BWBR0002786"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002786"
 soort: "AMvB"
@@ -52,19 +52,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-De in artikel 5, onderdelen **a, d, f, g** en **h,** van de wet omschreven lichamen zijn van de belasting vrijgesteld.
+De in [artikel 5, eerste lid, onderdelen a, d, f, g en h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7) omschreven lichamen zijn van de belasting vrijgesteld.
 
 ##### Artikel 3
 
-Een in artikel 5, onderdeel **b,** van de wet omschreven lichaam is van de belasting vrijgesteld mits de werkzaamheden van het lichaam in overeenstemming zijn met het in voormelde onderdeel **b** aangegeven doel en bovendien de winst, behoudens een uitkering tot ten hoogste vijf percent per jaar over het gestorte kapitaal of over de inleggelden, uitsluitend kan worden aangewend ten bate van de verzekerden, een ingevolge het onderhavige artikel vrijgesteld lichaam, of een algemeen maatschappelijk belang.
+Een in [artikel 5, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam is van de belasting vrijgesteld mits de werkzaamheden van het lichaam in overeenstemming zijn met het in voormelde onderdeel b aangegeven doel en bovendien de winst, behoudens een uitkering tot ten hoogste vijf percent per jaar over het gestorte kapitaal of over de inleggelden, uitsluitend kan worden aangewend ten bate van de verzekerden, een ingevolge het onderhavige artikel vrijgesteld lichaam, of een algemeen maatschappelijk belang.
 
 ##### Artikel 4
 
-Een in artikel 5, onderdeel **c,** van de wet omschreven lichaam is van de belasting vrijgesteld mits het lichaam van publiekrechtelijke aard is, dan wel, indien dat niet het geval is, het lichaam, zo het winst behaalt, deze uitsluitend kan aanwenden ten bate van een ingevolge het onderhavige artikel vrijgesteld lichaam of een algemeen maatschappelijk belang.
+Een in [artikel 5, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam is van de belasting vrijgesteld mits het lichaam van publiekrechtelijke aard is, dan wel, indien dat niet het geval is, het lichaam, zo het winst behaalt, deze uitsluitend kan aanwenden ten bate van een ingevolge het onderhavige artikel vrijgesteld lichaam of een algemeen maatschappelijk belang.
 
 ##### Artikel 5
 
-Een in artikel 5, onderdeel **e,** van de wet omschreven lichaam dat werkzaam is op het gebied van de landbouw is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500 en voorts:
+Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de landbouw is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500 en voorts:
 
 - a. doel en feitelijke werkzaamheden bestaan in het exploiteren van bedrijfsmiddelen, het beschikbaar stellen van arbeidskrachten of het aankopen van landbouwbenodigdheden een en ander uitsluitend of nagenoeg uitsluitend ten behoeve van de aandeelhouders, leden, deelnemers of deelgerechtigden;
 
@@ -74,11 +74,11 @@ Een in artikel 5, onderdeel **e,** van de wet omschreven lichaam dat werkzaam is
 
 ##### Artikel 6
 
-Een in artikel 5, onderdeel **e,** van de wet omschreven lichaam dat werkzaam is op het gebied van de verzekering tegen schade op onderlinge grondslag is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500.
+Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de verzekering tegen schade op onderlinge grondslag is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500.
 
 ##### Artikel 7
 
-Een in artikel 5, onderdeel **e,** van de wet omschreven lichaam dat werkzaam is op het gebied van de verzorging van uitvaarten is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500 en voorts:
+Een in [artikel 5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) omschreven lichaam dat werkzaam is op het gebied van de verzorging van uitvaarten is van de belasting vrijgesteld mits, zo winst wordt behaald, deze in het jaar niet meer bedraagt dan € 7 500, dan wel in het jaar en de daaraan voorafgaande vier jaren te zamen niet meer bedraagt dan € 37 500 en voorts:
 
 - a. doel en feitelijke werkzaamheid bestaan in het verzorgen van uitvaarten uitsluitend of nagenoeg uitsluitend van de aandeelhouders, leden, deelnemers of deelgerechtigden en hun gezinsleden; en
 
@@ -86,7 +86,7 @@ Een in artikel 5, onderdeel **e,** van de wet omschreven lichaam dat werkzaam is
 
 ##### Artikel 7a
 
-Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2002-01-01&g=2002-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2002-01-01&g=2002-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2002-01-01&g=2002-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
+Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2004-01-01&g=2004-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2004-01-01&g=2004-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2004-01-01&g=2004-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
 
 ##### Artikel 7aa
 
