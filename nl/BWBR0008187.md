@@ -79,9 +79,3 @@ Dit besluit wordt aangehaald als: Nummerplan pakket- en circuitgeschakelde datad
 Dit besluit met bijbehorende toelichting wordt ter inzage gelegd bij het Ministerie van Verkeer en Waterstaat, Directie Toezicht Netwerken en Diensten.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-## Bijlage
-
-Ligt ter inzage bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
