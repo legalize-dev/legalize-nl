@@ -4,7 +4,7 @@ identifier: "BWBR0009067"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-04-01"
-last_updated: "2002-01-01"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009067"
 soort: "AMvB"
@@ -56,15 +56,15 @@ Onze Minister: Onze Minister van Justitie.
 
 ##### Artikel 2
 
-Aan een vergunning, krachtens artikel 3 van de wet verleend, worden - nevens het voorschrift bedoeld in artikel 5, lid 2, van de wet - in elk geval de navolgende voorschriften verbonden:
+Aan een vergunning, krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3) verleend, worden - nevens het voorschrift bedoeld in [artikel 5, lid 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) - in elk geval de navolgende voorschriften verbonden:
 
 - a. er mogen niet meer dan het in de vergunning genoemde aantal bewijzen van deelneming, uitsluitend tegen de daarin aangegeven inleg, worden uitgegeven.
 
-- b. De aan de deelnemers in uitzicht gestelde prijzen en premies, de eventueel voor rekening van de vergunninghouder te nemen kansspelbelasting en de overige onkosten mogen tezamen geen verdere uitgaven vorderen dan 40 percent van de nominale waarde der verkochte deelnemingsbewijzen, met dien verstande dat de prijzen en premies, daaronder begrepen door derden ter beschikking gestelde prijzen of premies, gerekend naar de gangbare verkoopwaarde daarvan, tezamen geen hogere waarde mogen hebben dan 40 percent van de nominale waarde der verkochte deelnemingsbewijzen.
+- b. De opbrengst van de door de vergunninghouder verkochte deelnemingsbewijzen wordt afgedragen aan bij of krachtens de vergunning aangewezen begunstigden. De afdracht bedraagt ten minste 50% van de nominale waarde van de verkochte deelnemingsbewijzen.
 
-- c. De netto-opbrengst moet geheel voor het in de vergunning omschreven doel worden aangewend. Onder de netto-opbrengst worden mede begrepen de rente-opbrengsten over de inleg.
+- c. De afdracht, bedoeld in onderdeel b, wordt geheel voor het in de vergunning omschreven doel aangewend.
 
-- d. Slechts noodzakelijke onkosten mogen worden gemaakt. Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt tot ten hoogste 10% van de nominale waarde der door hun bemiddeling geplaatste deelnemingsbewijzen.
+- d. Slechts noodzakelijke kosten mogen worden gemaakt. Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt tot ten hoogste 10% van de nominale waarde der door hun bemiddeling geplaatste deelnemingsbewijzen.
 
 - e. Als deelnemers mogen niet worden toegelaten personen die nog niet de leeftijd van achttien jaren hebben bereikt. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge de vorige volzin niet als deelnemer mocht worden toegelaten, wordt deze deelneming buiten aanmerking gelaten.
 
@@ -78,7 +78,7 @@ Aan een vergunning, krachtens artikel 3 van de wet verleend, worden - nevens het
 
 - 1°. een Accountant-Administratieconsulent, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 4 500, doch niet groter dan € 45 000;
 
-- 2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in artikel 36, derde lid, van die wet, indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.
+- 2°. een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36) bedoelde register een aantekening is geplaatst als bedoeld in [artikel 36, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), indien de prijzen en premies gezamenlijk een grotere waarde hebben dan € 45 000.
 
 ##### Artikel 3
 
@@ -108,7 +108,7 @@ De prijsbepaling voor wat betreft gelegenheden, waarvoor ingevolge artikel 3 van
 
 ##### Artikel 5
 
-1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2002-01-01&g=2002-01-01) de prijsbepaling dient te geschieden.
+1. Bij de prijsbepaling dient een methode te worden toegepast die enigerlei beïnvloeding van buitenaf uitsluit en waarbij het toevalskarakter is gewaarborgd, zulks ter beoordeling van degene te wiens overstaan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=4&z=2004-09-01&g=2004-09-01) de prijsbepaling dient te geschieden.
 
 2. Constateert degene, te wiens overstaan de prijsbepaling geschiedt, enige onregelmatigheid, dan verklaart hij, zo nodig, de gehele prijsbepaling ongeldig en doet hij onverwijld een nieuwe prijsbepaling plaats vinden.
 
