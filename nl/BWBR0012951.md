@@ -4,7 +4,7 @@ identifier: "BWBR0012951"
 country: "nl"
 rank: "wet"
 publication_date: "2004-05-01"
-last_updated: "2003-09-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012951"
 soort: "wet"
@@ -76,7 +76,7 @@ Wijzigt de Warenwet.
 
 - i. het [Besluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212);
 
-- j. de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 1996, nr. 96/02 732, houdende nadere regels ten aanzien van liften (Stcrt. 208);
+- j. de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 1996, nr. 96/02 732, houdende nadere regels ten aanzien van liften (Stcrt. 243);
 
 - k. het [Besluit veiligheid attractie- en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008223);
 
