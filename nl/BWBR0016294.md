@@ -4,7 +4,7 @@ identifier: "BWBR0016294"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-07-01"
-last_updated: "2004-01-01"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016294"
 soort: "AMvB"
@@ -51,7 +51,7 @@ Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ##### Artikel II
 
-Op 1 januari 2005 wordt het basisbedrag vermeerderd met een bedrag dat ontstaat door € 3,61 te vermenigvuldigen met de norm, bedoeld in [artikel 3, tweede lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3).
+Op 1 januari 2005 wordt het basisbedrag vermeerderd met een bedrag dat ontstaat door € 3,61per 1 juli 2004: € 3,66 te vermenigvuldigen met de norm, bedoeld in [artikel 3, tweede lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3).
 
 ##### Artikel III
 
