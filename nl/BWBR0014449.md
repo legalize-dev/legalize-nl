@@ -4,7 +4,7 @@ identifier: "BWBR0014449"
 country: "nl"
 rank: "wet"
 publication_date: "2003-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014449"
 soort: "wet"
@@ -48,7 +48,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel IV
 
