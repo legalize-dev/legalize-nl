@@ -4,7 +4,7 @@ identifier: "BWBR0014350"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2003-02-19"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014350"
 soort: "wet"
@@ -134,7 +134,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 ##### Artikel XIII. Verplicht advies
 
-Dit onderdeel is nog niet inwerking getreden
+Indien de ouders van een leerling als bedoeld in [artikel XII, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2003-08-01&g=2003-08-01), hun bezwaren kenbaar maken tegen een beslissing van het bevoegd gezag om die leerling niet toe te laten dan wel tegen de besteding van het leerlinggebonden budget, beslist het bevoegd gezag niet eerder op het bezwaar dan nadat het advies is uitgebracht door de commissie, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2003-08-01&g=2003-08-01).
 
 ##### Artikel XIV. Experiment Almere
 
