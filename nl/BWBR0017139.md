@@ -77,9 +77,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Scholingsregeling WW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2016-04-01&g=2016-04-01)
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
