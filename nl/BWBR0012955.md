@@ -1,0 +1,85 @@
+---
+title: "Besluit van 1 november 2001 tot vaststelling van de Vergoedingenregeling Commissie van deskundigen gerechtsdeurwaarders"
+identifier: "BWBR0012955"
+country: "nl"
+rank: "kb"
+publication_date: "2025-11-19"
+last_updated: "2002-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012955"
+soort: "KB"
+stam_id: "1691213"
+version_id: "2492442"
+internal_id: "C2492441"
+label_id: "1644454"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012955/2025-11-19/0"
+intitule_bron: "Stb.2002-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-01"
+intitule_published: "2002-02-14"
+intitule_in_force: "2002-02-14"
+intitule_status: "goed"
+original_publication: "Stb.2002-64"
+original_signed_date: "2001-11-01"
+original_published_date: "2002-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-64"
+entry_into_force_date: "2002-02-15"
+jci_1_3: "jci1.3:c:BWBR0012955&z=2025-11-19&g=2025-11-19"
+jci_1_0: "1.0:c:BWBR0012955&g=2025-11-19"
+citeertitel_status: "officieel"
+short_title: "Vergoedingenregeling Commissie van deskundigen gerechtsdeurwaarders"
+signed_date: "2001-11-01"
+entry_into_force: "2002-02-15"
+---
+# Besluit van 1 november 2001 tot vaststelling van de Vergoedingenregeling Commissie van deskundigen gerechtsdeurwaarders
+
+Op voordracht van de Staatssecretaris van Justitie van 25 oktober 2001, nr. 5127199/801;
+
+Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988 (Stb. 1988, 205)](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=3);
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder de Commissie: de commissie van deskundigen, bedoeld in artikel 6 van de Interim-beleidsregels vestiging gerechtsdeurwaarders en [artikel 6, tweede lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=6).
+
+##### Artikel 2
+
+De voorzitter en de leden van de Commissie ontvangen een vaste jaarlijkse vergoeding.
+
+##### Artikel 3
+
+De vergoeding van de voorzitter wordt vastgesteld op € 3403,35 (f 7500,–).
+
+##### Artikel 4
+
+De vergoeding van de leden wordt vastgesteld op € 2722,68 (f 6000,–).
+
+##### Artikel 5
+
+De vergoeding van de plaatsvervangend leden wordt na rato van deelname vastgesteld op een evenredig deel van de vergoeding van de leden.
+
+##### Artikel 6
+
+De voorzitter en de leden wordt, voor zover zij in 2000 deel uitmaakten van de commissie, eenmalig een bedrag van € 2268,90 (f 5000,–) toegekend voor het ontwikkelen en vaststellen van een beoordelingssysteem van de ondernemingsplannen van gerechtsdeurwaarders.
+
+##### Artikel 7
+
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=3&z=2002-02-15&g=2002-02-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=4&z=2002-02-15&g=2002-02-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012955&artikel=6&z=2002-02-15&g=2002-02-15), naar evenredigheid vastgesteld.
+
+##### Artikel 8
+
+De voorzitter en de leden hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+
+##### Artikel 9
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot 1 januari 2001.
+
+##### Artikel 10
+
+Deze regeling wordt aangehaald als: Vergoedingenregeling Commissie van deskundigen gerechtsdeurwaarders.
+
+Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.
