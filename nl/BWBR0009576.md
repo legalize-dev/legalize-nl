@@ -4,7 +4,7 @@ identifier: "BWBR0009576"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2001-04-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009576"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de toepassing van de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en de [Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8):
+1. Voor de toepassing van de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169) en de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344) wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8):
 
 - a. voor de beëindiging van dit verblijf een aanvraag heeft ingediend om voortgezette toelating, of
 
-- b. binnen de termijn, genoemd in [artikel 69, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69), of, buiten die termijn, in geval [artikel 6.11 van de Algemene wet bestuursrecht](onbekend) toepassing heeft gevonden, bezwaar heeft gemaakt of beroep heeft ingesteld tegen intrekking van de toelating in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+- b. binnen de termijn, genoemd in [artikel 69, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=69), of, buiten die termijn, in geval [artikel 6.11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:11) toepassing heeft gevonden, bezwaar heeft gemaakt of beroep heeft ingesteld tegen intrekking van de toelating in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De gelijkstelling, bedoeld in het eerste lid, eindigt zodra:
 
@@ -66,6 +66,6 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen Abw, Ioaw en Ioaz en Wvg.
+Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen Abw, Ioaw, Ioaz, Wvg en WIK.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
