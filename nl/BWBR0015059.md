@@ -4,7 +4,7 @@ identifier: "BWBR0015059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2003-05-09"
+last_updated: "2003-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015059"
 soort: "ministeriele-regeling"
@@ -41,10 +41,6 @@ Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artike
 
 Besluit:
 
-Werkt terug tot en met het tijdstip waarop het Koninklijk Besluit van 28 april 2003, Stb. 2003, 179, tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken, in verband met een nieuwe verdeelsystematiek van de kosten van de waardering in werking treedt.
-
-Werkt terug tot en met het tijdstip waarop het Koninklijk Besluit van 28 april 2003, Stb. 2003, 179, tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken, in verband met een nieuwe verdeelsystematiek van de kosten van de waardering in werking treedt.
-
 ### Hoofdstuk 1. Algemeen
 
 ##### Artikel 1. Reikwijdte
@@ -77,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Betaling aan Onze Minister door de individuele waterschappen
 
-De individuele waterschappen betalen aan Onze Minister uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2003-05-14&g=2003-05-09) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in artikel 2, tweede lid, van het besluit.
+De individuele waterschappen betalen aan Onze Minister uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2003-05-14&g=2003-05-14) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in artikel 2, tweede lid, van het besluit.
 
 ### Hoofdstuk 3. Verdeling vergoeding Rijk en waterschappen over de individuele gemeenten
 
@@ -119,7 +115,7 @@ A voorstelt: het volgens het eerste lid, onderdeel b, onder 1° en 2°, berekend
 
 ##### Artikel 6. Betaling
 
-1. Onze Minister verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2003-05-14&g=2003-05-09) berekende vergoeding voor die gemeente.
+1. Onze Minister verricht uiterlijk op 1 mei van het kalenderjaar de uitbetaling aan elke individuele gemeente van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=3&artikel=5&z=2003-05-14&g=2003-05-14) berekende vergoeding voor die gemeente.
 
 2. Indien een afnemer binnen een termijn van acht weken na de aanvang van het kalenderjaar niet of niet volledig beschikt over een gegevensbestand met verwerkbare gegevens van een gemeente naar de stand van 1 januari van dat kalenderjaar, vindt in afwijking van het eerste lid voor of op 1 mei van dat jaar geen volledige betaling plaats aan die gemeente indien deze afnemer Onze Minister binnen vier weken direct volgend op genoemde termijn van acht weken schriftelijk verzoekt, met afschrift van dit verzoek aan de Waarderingskamer en de gemeente, om de uitbetaling aan die gemeente gefaseerd te laten plaatsvinden. Bij dit verzoek geeft de desbetreffende afnemer aan hoe hoog het percentage van verwerkbare gegevens is van het gegevensbestand waarover hij beschikt.
 
