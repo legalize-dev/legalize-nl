@@ -78,9 +78,3 @@ Deze regeling treedt in werking met ingang van 1 februari 2000.
 Deze regeling wordt aangehaald als: Regeling opnemen vertrouwelijke communicatie politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 28 van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=28).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
