@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2003-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de artikelen 3, tweede lid, 7, tweede lid, 15, tweede en derde lid, en 37f van de Wet op de motorrijtuigenbelasting 1994, [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
 
 ##### Artikel 2
 
@@ -99,27 +99,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4a
 
-De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+1. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), wordt verstaan een bestelauto waarin constructies zijn aangebracht gericht op het vervoer van de gehandicapte in de cabine en het gelijktijdige vervoer van een niet-opvouwbare rolstoel. Onder dergelijke constructies worden met name verstaan constructies gericht op het met of vanuit een rolstoel kunnen plaatsnemen in en verlaten van de bestelauto, constructies voor het vastzetten van een rolstoel in de cabine op de plaats van een zitplaats, en constructies voor het vastzetten van een rolstoel zonder passagier in de laadruimte.
 
-2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
-
-3. De inspecteur verleent de vergunning bij beschikking.
-
-4. De inspecteur wijst de aanvraag af indien:
-
-- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
-
-- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
-
-5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
-
-6. De vergunning eindigt:
-
-- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
-
-- door opzegging door de aanvrager.
-
-7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+2. Onder een rolstoel wordt voor de toepassing van [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) mede verstaan een scootmobiel.
 
 ##### Artikel 5
 
@@ -162,6 +144,36 @@ XX is meer dan 31950 kilogram.
 1. Deze regeling treedt in werking met ingang van 1 april 1995.
 
 2. Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting 1994.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4b
+
+De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+
+2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
+
+3. De inspecteur verleent de vergunning bij beschikking.
+
+4. De inspecteur wijst de aanvraag af indien:
+
+- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
+
+- hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
+
+5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
+
+6. De vergunning eindigt:
+
+- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
+
+- door opzegging door de aanvrager.
+
+7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
 
 ## Bijlage
 
