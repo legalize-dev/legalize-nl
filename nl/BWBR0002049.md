@@ -4,7 +4,7 @@ identifier: "BWBR0002049"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-10-06"
-last_updated: "2000-01-01"
+last_updated: "2001-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002049"
 soort: "AMvB"
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01), wordt verminderd met:
+Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01), wordt verminderd met:
 
 - a. het door de Raad vast te stellen kapitaalsinteringsbestanddeel van periodieke uitkeringen, welke aan de gepensionneerde opkomen ingevolge een uit zijn vermogen afkomstige prestatie, berekend door vergelijking van de contante waarde van die uitkeringen aan het begin en het einde van het desbetreffende belastingjaar. Voorzoveel deze periodieke uitkeringen afkomstig zijn uit premiën voor lijfrente, welke de gepensionneerde heeft betaald in de belastingjaren, volgende op de datum van ingang van zijn buitengewoon pensioen, en welke bij het berekenen van zijn belastbaar inkomen in mindering zijn gebracht, wordt het kapitaalsinteringsbestanddeel niet van de verrekenbare inkomsten afgetrokken. Het in de vorige volzin bepaalde is niet van toepassing ten aanzien van premiën die betaald zijn over 1985 en volgende jaren;
 
@@ -92,7 +92,7 @@ Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.
 
 ##### Artikel 4
 
-1. Indien verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01), worden genoten krachtens erfrecht, dan wel uit door erfrecht verworven bezit, voorzover deze eerst na het tijdstip, hetwelk gediend heeft voor de vaststelling van de pensioensgrondslag, van bloed- en aanverwanten in de rechte lijn en in de tweede graad der zijdlinie zijn verworven, wordt wegens deze inkomsten van het buitengewoon pensioen niet meer in mindering gebracht dan zou zijn geschied, indien dit pensioen was berekend naar een grondslag, waarin deze inkomsten zijn begrepen.
+1. Indien verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01), worden genoten krachtens erfrecht, dan wel uit door erfrecht verworven bezit, voorzover deze eerst na het tijdstip, hetwelk gediend heeft voor de vaststelling van de pensioensgrondslag, van bloed- en aanverwanten in de rechte lijn en in de tweede graad der zijdlinie zijn verworven, wordt wegens deze inkomsten van het buitengewoon pensioen niet meer in mindering gebracht dan zou zijn geschied, indien dit pensioen was berekend naar een grondslag, waarin deze inkomsten zijn begrepen.
 
 2. Het in artikel 7, derde lid, der wet vastgestelde maximum geldt mede voor de pensioensgrondslag, bedoeld in het slot van het voorgaande lid.
 
@@ -100,11 +100,11 @@ Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.
 
 ##### Artikel 5
 
-Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2000-01-01&g=2000-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2000-01-01&g=2000-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2000-01-01&g=2000-01-01) worden op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01) bedoelde verrekenbare inkomsten in mindering gebracht de kosten, die naar het oordeel van de Raad noodzakelijk zijn om uit eigen onderneming of arbeid inkomsten te verwerven, tenzij deze kosten reeds bij het bepalen van het onzuivere inkomen in aanmerking zijn genomen.
+Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2000-01-01&g=2001-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2000-01-01&g=2001-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2000-01-01&g=2001-01-01) worden op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01) bedoelde verrekenbare inkomsten in mindering gebracht de kosten, die naar het oordeel van de Raad noodzakelijk zijn om uit eigen onderneming of arbeid inkomsten te verwerven, tenzij deze kosten reeds bij het bepalen van het onzuivere inkomen in aanmerking zijn genomen.
 
 ##### Artikel 6
 
-Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2000-01-01&g=2000-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2000-01-01&g=2000-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2000-01-01&g=2000-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=5&z=2000-01-01&g=2000-01-01) wordt op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01) bedoelde verrekenbare inkomsten in mindering gebracht de daarin begrepen kinderbijslag voor zover deze te boven gaat de kinderbijslag voor een gelijk aantal kinderen als waarvoor, bij de vaststelling van de pensioengrondslag met kinderbijslag is rekening gehouden.
+Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2000-01-01&g=2001-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2000-01-01&g=2001-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2000-01-01&g=2001-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=5&z=2000-01-01&g=2001-01-01) wordt op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01) bedoelde verrekenbare inkomsten in mindering gebracht de daarin begrepen kinderbijslag voor zover deze te boven gaat de kinderbijslag voor een gelijk aantal kinderen als waarvoor, bij de vaststelling van de pensioengrondslag met kinderbijslag is rekening gehouden.
 
 ##### Artikel 7
 
@@ -112,7 +112,7 @@ Vervallen
 
 ##### Artikel 8
 
-Zolang het bedrag der verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2000-01-01), niet bekend is, wordt dit bedrag door de Raad, met inachtneming voor zoveel mogelijk van bovenstaande bepalingen, voorlopig geschat.
+Zolang het bedrag der verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2000-01-01&g=2001-01-01), niet bekend is, wordt dit bedrag door de Raad, met inachtneming voor zoveel mogelijk van bovenstaande bepalingen, voorlopig geschat.
 
 ##### Artikel 9
 
