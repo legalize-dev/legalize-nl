@@ -255,27 +255,3 @@ Bevat wijzigingen in andere regelgeving.
 2. Met uitzondering van de [artikelen 6-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2000-03-08&g=2000-03-08) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 13
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.
-
-1. Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) of de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.
-
-##### Artikel 14
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.
-
-1. Indien het naar het oordeel van het dagelijks bestuur van een bedrijfslichaam in een der gevallen, genoemd in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=4&z=2015-01-01&g=2015-01-01), niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=88a), bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.
-
-2. Indien het naar het oordeel van de voorzitter van een bedrijfslichaam in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=88a), niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.
-
-3. Zo spoedig mogelijk legt het dagelijks bestuur, onderscheidenlijk de voorzitter aan het bestuur verantwoording af van hetgeen krachtens de vorige leden is verricht.
-
-### Hoofdstuk IV. Decentralisatie
-
-### Hoofdstuk V. Beroep
-
-### Hoofdstuk VI. Overige bepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
