@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2003-11-08"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -124,13 +124,15 @@ De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelv
 
 ##### Artikel 11
 
-De griffie is in de hoofdplaats, de nevenvestigingsplaats en de nevenzittingsplaats:
+1. De griffie is in de hoofdplaats, de nevenvestigingsplaats en de nevenzittingsplaats:
 
 - a. op de dagen waarop terechtzittingen worden gehouden tenminste een half uur voor de aanvang daarvan geopend;
 
 - b. op zaterdagen geopend, mits op een dergelijke dag zittingen worden gehouden;
 
 - c. op zondagen en dagen die bij of krachtens de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) zijn aangemerkt als algemeen erkende feestdagen gesloten, tenzij op een dergelijke dag een zitting wordt gehouden.
+
+2. Bij de behandeling van zaken in een nevenzittingsplaats buiten het rechtsgebied treedt de griffie van het gerecht binnen wiens rechtsgebied de nevenzittingsplaats is gelegen op als griffie van de hoofdplaats als bedoeld in de [artikelen 41, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=41), en [59, zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59). De besturen van de betrokken gerechten dragen er zorg voor dat de griffie, de griffierwerkzaamheden en de administratie van zaken van het gerecht op de nevenzittingsplaats gescheiden en als zodanig herkenbaar worden uitgevoerd van de griffie, de griffierwerkzaamheden en administratie van zaken van het gerecht binnen wiens rechtsgebied de zittingsplaats is gelegen.
 
 ##### Artikel 12
 
@@ -158,7 +160,7 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 - d. voorzien van een korte aantekening van al hetgeen in de zaak voorvalt.
 
-2. Indien binnen de gerechten meerdere kamers zijn gevormd voor de behandeling van burgerlijke zaken, krijgt elke kamer een afzonderlijke rol. De zaken worden in dat geval onverwijld aangebracht bij de kamer die daartoe is aangewezen in het bestuursreglement, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=19&z=2003-11-08&g=2003-11-08), en in het geval van de Hoge Raad in het reglement, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75).
+2. Indien binnen de gerechten meerdere kamers zijn gevormd voor de behandeling van burgerlijke zaken, krijgt elke kamer een afzonderlijke rol. De zaken worden in dat geval onverwijld aangebracht bij de kamer die daartoe is aangewezen in het bestuursreglement, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=19&z=2004-07-01&g=2004-07-01), en in het geval van de Hoge Raad in het reglement, bedoeld in [artikel 75, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=75).
 
 ##### Artikel 14
 
@@ -188,11 +190,11 @@ Het bestuur van een rechtbank of een gerechtshof draagt er zorg voor dat een afz
 
 ##### Artikel 19
 
-Het bestuur van een gerecht draagt er zorg voor dat een rol wordt gehouden voor strafzaken waarop alle zaken die op de openbare terechtzitting worden behandeld, worden ingeschreven, overeenkomstig de [onderdelen van a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2003-11-08&g=2003-11-08).
+Het bestuur van een gerecht draagt er zorg voor dat een rol wordt gehouden voor strafzaken waarop alle zaken die op de openbare terechtzitting worden behandeld, worden ingeschreven, overeenkomstig de [onderdelen van a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2004-07-01&g=2004-07-01).
 
 ##### Artikel 20
 
-Het bestuur van een gerechtshof draagt er zorg voor dat een rol wordt gehouden voor belastingzaken waarop alle zaken worden ingeschreven, overeenkomstig de [onderdelen a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2003-11-08&g=2003-11-08).
+Het bestuur van een gerechtshof draagt er zorg voor dat een rol wordt gehouden voor belastingzaken waarop alle zaken worden ingeschreven, overeenkomstig de [onderdelen a tot en met d van artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=5&artikel=13&z=2004-07-01&g=2004-07-01).
 
 #### Paragraaf 6. Inzage stukken
 
@@ -248,7 +250,7 @@ Het nemen van een conclusie op de daarvoor vastgestelde dag door ambtenaren van 
 
 ##### Artikel 28
 
-1. De griffier bij de Hoge Raad is het hoofd van de griffie en draagt zorg voor de boekerij en de bij de Hoge Raad in behandeling zijnde stukken.
+1. De griffier van de Hoge Raad is het hoofd van de griffie en draagt zorg voor de boekerij en de bij de Hoge Raad in behandeling zijnde stukken.
 
 2. Bij afwezigheid van de griffier treedt als hoofd van de griffie op een substituut-griffier dan wel, bij afwezigheid van een substituutgriffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
 
