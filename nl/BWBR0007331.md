@@ -501,15 +501,3 @@ De Regeling snelle motorboten Rijkswateren 1993 van 4 maart 1992, nr. RVR 117412
 Deze regeling treedt in werking met ingang van de tweede dag na plaatsing in de Staatscourant.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3
-
-1. Als vaarwegen of gedeelten daarvan, waar des nachts met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
-
-- a. de Oude Maas vanaf km 998.000;
-
-- b. de Nieuwe Maas vanaf km 991.700;
-
-- c. de Nieuwe Waterweg.
-
-2. Op de in het eerste lid genoemde vaarweggedeeltes en de Nieuwe Waterweg is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2003-07-02&g=2003-07-02), niet van toepassing.
