@@ -4,7 +4,7 @@ identifier: "BWBR0008657"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2004-08-01"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008657"
 soort: "wet"
@@ -248,13 +248,9 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 1. De arbeidsongeschiktheidsuitkering wordt herzien wanneer de jonggehandicapte, aan wie zij is toegekend, op grond van deze wet voor een hogere of lagere uitkering in aanmerking komt.
 
-2. Onverminderd hetgeen overigens in deze wet is bepaald ter zake van herziening of intrekking van de arbeidsongeschiktheidsuitkering, beziet het Uitvoeringsinstituut werknemersverzekeringen binnen een jaar na ingang van de arbeidsongeschiktheidsuitkering, niet zijnde een voortzetting als bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2004-08-01&g=2004-08-01), of er gronden aanwezig zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering.
+2. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van de arbeidsongeschiktheidsuitkering plaats met inachtneming van de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2004-10-01&g=2004-10-01).
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen kan, onder goedkeuring van Onze Minister, ten aanzien van bepaalde groepen arbeidsongeschikten bepalen dat geen tijdvak geldt dan wel een tijdvak zal gelden, dat afwijkt van het in het tweede lid genoemde tijdvak.
-
-4. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van de arbeidsongeschiktheidsuitkering plaats met inachtneming van de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2004-08-01&g=2004-08-01).
-
-5. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet herzien in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-08-01&g=2004-08-01), van overeenkomstige toepassing.
+3. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet herzien in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-10-01&g=2004-10-01), van overeenkomstige toepassing.
 
 ##### Artikel 12. Herziening bij minder dan 45% arbeidsongeschiktheid
 
@@ -330,11 +326,11 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 - c. met ingang van de eerste dag van de maand volgend op die waarin de jonggehandicapte buiten Nederland is gaan wonen.
 
-2. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet ingetrokken in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-08-01&g=2004-08-01), van overeenkomstige toepassing.
+2. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet ingetrokken in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-10-01&g=2004-10-01), van overeenkomstige toepassing.
 
-3. Indien de intrekking van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze intrekking niet eerder in dan een jaar na voltooiing van die scholing of opleiding. Indien de jonggehandicapte eerder inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-08-01&g=2004-08-01), tot uiterlijk het einde van dat jaar van overeenkomstige toepassing.
+3. Indien de intrekking van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze intrekking niet eerder in dan een jaar na voltooiing van die scholing of opleiding. Indien de jonggehandicapte eerder inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2004-10-01&g=2004-10-01), tot uiterlijk het einde van dat jaar van overeenkomstige toepassing.
 
-4. Het eerste lid, onderdeel c, is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=3&z=2004-08-01&g=2004-08-01), van toepassing is.
+4. Het eerste lid, onderdeel c, is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=3&z=2004-10-01&g=2004-10-01), van toepassing is.
 
 5. Het recht op arbeidsongeschiktheidsuitkering eindigt, indien de jonggehandicapte rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd.
 
@@ -382,11 +378,11 @@ Indien het recht op uitkering op grond van artikel 17, eerste lid, onderdeel c, 
 
 ##### Artikel 20a. Heropening van de uitkering na afloop vrijheidsontneming
 
-1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met artikel 17, vijfde lid, is geëindigd, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet recht op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is. Artikel 6, vijfde lid, is van overeenkomstige toepassing.
+1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2004-10-01&g=2004-10-01), is geëindigd, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet recht op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is. [Artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2004-10-01&g=2004-10-01), is van overeenkomstige toepassing.
 
 2. Aanspraak op heropening van de arbeidsongeschiktheidsuitkering heeft eveneens de jonggehandicapte, bedoeld in het eerste lid, die op de in dat lid bedoelde dag niet arbeidsongeschikt is, doch ten aanzien van wie dit wel het geval is binnen vier weken na afloop van dat tijdvak.
 
-3. De artikelen 6, vijfde lid, 29 en 30, eerste lid, zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
+3. De [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2004-10-01&g=2004-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=29&z=2004-10-01&g=2004-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=30&z=2004-10-01&g=2004-10-01) zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.
 
@@ -438,25 +434,19 @@ Vervallen
 
 ##### Artikel 28. Toekenning arbeidsongeschiktheidsuitkering
 
-1. Onverminderd hetgeen in deze wet ter zake van herziening of intrekking van de arbeidsongeschiktheidsuitkering is bepaald, wordt de arbeidsongeschiktheidsuitkering op aanvraag toegekend over tijdvakken van drie jaar.
+1. De arbeidsongeschiktheidsuitkering wordt op aanvraag toegekend.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen stelt de jonggehandicapte schriftelijk in kennis van de mogelijkheid van het doen van een aanvraag uiterlijk vier maanden voor de datum waarop:
+2. Het Uitvoeringsinstituut werknemersverzekeringen stelt de jonggehandicapte schriftelijk in kennis van de mogelijkheid van het doen van een aanvraag uiterlijk vier maanden voor de datum waarop het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2004-10-01&g=2004-10-01), genoemde tijdvak van 52 weken eindigt.
 
-- a. het in artikel 6, eerste lid, genoemde tijdvak van 52 weken eindigt;
+3. Het tweede lid is niet van toepassing, indien de jonggehandicapte de melding, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=27&z=2004-10-01&g=2004-10-01), niet of niet tijdig heeft gedaan. Indien de jonggehandicapte deze melding niet tijdig heeft gedaan, geldt de in het tweede lid bedoelde verplichting voor het Uitvoeringsinstituut werknemersverzekeringen uiterlijk drie maanden nadat de jonggehandicapte de melding heeft gedaan.
 
-- b. een tijdvak van drie jaar als bedoeld in het eerste lid verstrijkt.
+4. De jonggehandicapte die in aanmerking wenst te komen voor toekenning van de uitkering, doet zijn aanvraag binnen negen maanden na aanvang van zijn arbeidsongeschiktheid.
 
-3. Het tweede lid, onderdeel **a**, is niet van toepassing, indien de jonggehandicapte de melding, bedoeld in artikel 27, eerste lid, niet of niet tijdig heeft gedaan. Indien de jonggehandicapte deze melding niet tijdig heeft gedaan, geldt de in het tweede lid bedoelde verplichting voor het Uitvoeringsinstituut werknemersverzekeringen uiterlijk drie maanden nadat de jonggehandicapte de melding heeft gedaan.
-
-4. De jonggehandicapte die in aanmerking wenst te komen voor toekenning dan wel voortzetting van de uitkering, doet zijn aanvraag binnen negen maanden na aanvang van zijn arbeidsongeschiktheid, onderscheidenlijk uiterlijk drie maanden voor het verstrijken van een tijdvak als bedoeld in het eerste lid.
-
-5. Indien niet binnen de termijn ingevolge artikel 69a, eerste lid, een beschikking is gegeven op een tijdig ingediende aanvraag tot voortzetting van de arbeidsongeschiktheidsuitkering wordt de uitkering voortgezet tot het tijdstip waarop de beschikking op de aanvraag is bekendgemaakt.
+5. Onverminderd hetgeen in deze wet terzake van herziening of intrekking van de arbeidsongeschiktheidsuitkering is bepaald wordt ten aanzien van personen die na 1 juli 1949 zijn geboren, op een bij of krachtens algemene maatregel van bestuur bepaald tijdstip door het Uitvoeringsinstituut werknemersverzekeringen bezien of er in verband met wijziging van de mate van arbeidsongeschiktheid gronden zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering. Het tijdstip kan voor verschillende groepen van personen verschillend worden vastgesteld. Bij algemene maatregel van bestuur kan worden bepaald dat de eerste zin niet van toepassing is op bepaalde groepen van personen.
 
 6. Een aanvraag is tijdig ingediend, indien het Uitvoeringsinstituut werknemersverzekeringen de kennisgeving, bedoeld in het tweede lid, niet heeft gedaan dan wel indien bij een latere kennisgeving dan bedoeld in het tweede lid de aanvraag wordt ingediend binnen vier weken nadat deze kennisgeving is ontvangen.
 
-7. Het Uitvoeringsinstituut werknemersverzekeringen kan, onder goedkeuring van Onze Minister, ten aanzien van bepaalde groepen arbeidsongeschikten bepalen dat geen tijdvak geldt dan wel een tijdvak zal gelden dat afwijkt van het in het eerste lid genoemde tijdvak.
-
-8. Indien de toepassing van het vierde lid zou leiden tot kennelijke hardheid, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering ambtshalve toe te kennen of voort te zetten.
+7. Indien de toepassing van het vierde lid zou leiden tot kennelijke hardheid, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering ambtshalve toe te kennen.
 
 ##### Artikel 29. Ingangsdatum uitkering
 
@@ -468,9 +458,7 @@ Vervallen
 
 ##### Artikel 30. Herziening, heropening dan wel herleving op aanvraag of ambtshalve
 
-1. Herziening, heropening dan wel herleving van de arbeidsongeschiktheidsuitkering vindt op aanvraag of ambtshalve plaats.
-
-2. Herziening van de arbeidsongeschiktheidsuitkering vindt in elk geval ambtshalve plaats in geval van een beslissing op grond van artikel 11, tweede lid.
+Herziening, heropening dan wel herleving van de arbeidsongeschiktheidsuitkering vindt op aanvraag of ambtshalve plaats.
 
 ##### Artikel 31. Ingangsdatum herziening, heropening en herleving uitkering
 
@@ -514,9 +502,9 @@ Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, wo
 
 ##### Artikel 35. Voorschriften van medische of administratieve aard
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2004-08-01&g=2004-08-01), voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
+1. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01), voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2004-08-01&g=2004-08-01), zich laten registreren als werkzoekende bij de Centrale organisatie werk en inkomen.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2004-10-01&g=2004-10-01), zich laten registreren als werkzoekende bij de Centrale organisatie werk en inkomen.
 
 ##### Artikel 36. Controlevoorschriften
 
@@ -538,31 +526,31 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 ##### Artikel 38. Gevolgen niet-naleving voorschriften
 
-Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2004-08-01&g=2004-08-01), indien de jonggehandicapte:
+Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2004-10-01&g=2004-10-01), indien de jonggehandicapte:
 
-- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2004-08-01&g=2004-08-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij de Centrale organisatie werk en inkomen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
+- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2004-10-01&g=2004-10-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij de Centrale organisatie werk en inkomen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
 
 - b. zich niet, zolang als het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige te kennen heeft gegeven dit noodzakelijk te achten, onder geneeskundige behandeling stelt of indien hij de voorschriften van de behandelende arts niet opvolgt;
 
 - c. zich schuldig maakt aan gedragingen, waardoor zijn genezing wordt belemmerd of nalaat voldoende mee te werken om aanpassing aan zijn ziekte of gebrek te verkrijgen;
 
-- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2004-08-01&g=2004-08-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2004-08-01&g=2004-08-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
+- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2004-10-01&g=2004-10-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2004-10-01&g=2004-10-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
 
 - e. zijn arbeidsongeschiktheid opzettelijk heeft veroorzaakt;
 
-- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2004-08-01&g=2004-08-01);
+- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2004-10-01&g=2004-10-01);
 
 - g. zonder redelijke gronden niet meewerkt aan een scholing of opleiding die wenselijk wordt geacht voor zijn inschakeling in de arbeid.
 
 ##### Artikel 39. Afstemming maatregel op ernst gedraging
 
-1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2004-08-01&g=2004-08-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2004-08-01&g=2004-08-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2004-10-01&g=2004-10-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2004-10-01&g=2004-10-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2004-08-01&g=2004-08-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, of indien de jonggehandicapte zich niet houdt aan de voorschriften, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2004-08-01&g=2004-08-01), kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
+2. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2004-10-01&g=2004-10-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, of indien de jonggehandicapte zich niet houdt aan de voorschriften, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2004-10-01&g=2004-10-01), kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
 
 3. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van het opleggen van een maatregel af te zien.
 
-4. Het opleggen van een maatregel blijft achterwege, indien voor dezelfde gedraging een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2004-08-01&g=2004-08-01) wordt opgelegd.
+4. Het opleggen van een maatregel blijft achterwege, indien voor dezelfde gedraging een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2004-10-01&g=2004-10-01) wordt opgelegd.
 
 5. Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekking tot het eerste lid.
 
@@ -788,7 +776,7 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 ##### Artikel 57
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 55, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2004-08-01&g=2004-08-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2004-08-01&g=2004-08-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 55, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2004-10-01&g=2004-10-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2004-10-01&g=2004-10-01).
 
 ##### Artikel 58. Onvervreemdbaarheid van verstrekkingen
 
@@ -900,7 +888,7 @@ Bij een besluit op grond van deze wet dat betrekking heeft op het al dan niet be
 
 ##### Artikel 69a. Bijzondere beslistermijnen
 
-1. Een beschikking over de toekenning van een arbeidsongeschiktheidsuitkering, over voortzetting van een arbeidsongeschiktheidsuitkering als bedoeld in artikel 28, vierde lid, dan wel over herziening, intrekking of heropening van een arbeidsongeschiktheidsuitkering wordt gegeven binnen dertien weken na ontvangst van de aanvraag.
+1. Een beschikking over de toekenning van een arbeidsongeschiktheidsuitkering, dan wel over herziening, intrekking of heropening van een arbeidsongeschiktheidsuitkering wordt gegeven binnen dertien weken na ontvangst van de aanvraag.
 
 2. Indien in verband met het geven van een beschikking als bedoeld in het eerste lid advies is gevraagd aan een deskundige die niet onder verantwoordelijkheid van het Uitvoeringsinstituut werknemersverzekeringen werkzaam is en om die reden de beschikking niet binnen dertien weken gegeven kan worden, wordt die termijn verlengd met ten hoogste vier weken en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
 
@@ -948,7 +936,7 @@ Het recht tot strafvordering vervalt indien het Uitvoeringsinstituut werknemersv
 
 ##### Artikel 75. Overtredingen
 
-De in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=8&artikel=73&z=2004-08-01&g=2004-08-01) bedoelde strafbare feiten worden als overtredingen beschouwd.
+De in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=8&artikel=73&z=2004-10-01&g=2004-10-01) bedoelde strafbare feiten worden als overtredingen beschouwd.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
@@ -972,6 +960,6 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 76a. Overgangsrecht in verband met de Wet afschaffing verplichte herbeoordelingen arbeidsongeschiktheidswetten
 
-Dit onderdeel is nog niet inwerking getreden
+Arbeidsongeschiktheidsuitkeringen die zijn toegekend voor de inwerkingtreding van de Wet wijziging systematiek herbeoordelingen arbeidsongeschiktheidswetten worden geacht te zijn toegekend voor onbepaalde tijd.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
