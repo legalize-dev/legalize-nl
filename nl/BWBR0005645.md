@@ -4,7 +4,7 @@ identifier: "BWBR0005645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-01-16"
+last_updated: "2003-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005645"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder het aantal inwoners van een provincie: het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
 
-2. Voor de vaststelling van het inwonertal bedoeld in artikel 8, geldt als peildatum 1 januari van het jaar voorafgaande aan het jaar van de verkiezing van provinciale staten. Het Centraal Bureau voor de Statistiek kan op schriftelijk verzoek van een provinciaal bestuur het inwonertal per de eerste dag van de vierde maand voorafgaande aan de maand van kandidaatstelling vaststellen indien aannemelijk is dat een in dat artikel genoemd inwonertal op genoemde datum is overschreden. In dat geval geldt dit tijdstip als peildatum.
+2. Voor de vaststelling van het inwonertal bedoeld in artikel 8, geldt als peildatum 1 januari van het jaar voorafgaande aan het jaar van de verkiezing van provinciale staten. Het Centraal Bureau voor de Statistiek kan op schriftelijk verzoek van provinciale staten het inwonertal per de eerste dag van de vierde maand voorafgaande aan de maand van kandidaatstelling vaststellen indien aannemelijk is dat een in dat artikel genoemd inwonertal op genoemde datum is overschreden. In dat geval geldt dit tijdstip als peildatum.
 
 ##### Artikel 2
 
@@ -65,11 +65,9 @@ In deze wet wordt onder ambtenaar mede verstaan: degene die op arbeidsovereenkom
 
 In deze wet wordt verstaan onder:
 
-- a. provinciaal bestuur: ieder bevoegd orgaan van de provincie;
+- a. provinciebestuur: ieder bevoegd orgaan van de provincie;
 
-- b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-- c. commissie: een commissie als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-01-16&g=2003-01-16).
+- b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ## Titel II. De inrichting en samenstelling van het provinciebestuur
 
@@ -135,7 +133,7 @@ Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot li
 
 ##### Artikel 13
 
-1. Een lid van provinciale staten kan in ieder geval niet tevens zijn:
+1. Een lid van provinciale staten is niet tevens:
 
 - a. minister;
 
@@ -145,9 +143,25 @@ Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot li
 
 - d. lid van de Algemene Rekenkamer;
 
-- e. ambtenaar, door of vanwege het provinciaal bestuur aangesteld of daaraan ondergeschikt.
+- e. Nationale ombudsman;
 
-2. Het bepaalde in het eerste lid, onder **e**, is niet van toepassing op hen die als vrijwilliger dan wel uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verrichten.
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. gedeputeerde;
+
+- i. lid van de rekenkamer;
+
+- j. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt.
+
+2. In afwijking van het eerste lid, aanhef en onder h, kan een lid van provinciale staten tevens gedeputeerde zijn gedurende het tijdvak dat:
+
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2003-03-12&g=2003-03-12), aftreden, of
+
+- b. aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
+
+3. In afwijking van het eerste lid, aanhef en onder j, kan een lid van provinciale staten tevens zijn vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
 
 ##### Artikel 14
 
@@ -157,7 +171,7 @@ Alvorens hun functie te kunnen uitoefenen, leggen de leden van provinciale state
 
 Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
 
-Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van het provinciaal bestuur naar eer en geweten zal vervullen.
+Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van provinciale staten naar eer en geweten zal vervullen.
 
 Zo waarlijk helpe mij God Almachtig!"
 
@@ -167,9 +181,9 @@ Zo waarlijk helpe mij God Almachtig!"
 
 1. Een lid van provinciale staten mag niet:
 
-- a. als advocaat, procureur of adviseur in geschillen werkzaam zijn ten behoeve van de provincie of het provinciaal bestuur dan wel ten behoeve van de wederpartij van de provincie of het provinciaal bestuur;
+- a. als advocaat, procureur of adviseur in geschillen werkzaam zijn ten behoeve van de provincie of het provinciebestuur dan wel ten behoeve van de wederpartij van de provincie of het provinciebestuur;
 
-- b. als gemachtigde in geschillen werkzaam zijn ten behoeve van de wederpartij van de provincie of het provinciaal bestuur;
+- b. als gemachtigde in geschillen werkzaam zijn ten behoeve van de wederpartij van de provincie of het provinciebestuur;
 
 - c. als vertegenwoordiger of adviseur werkzaam zijn ten behoeve van derden tot het met de provincie aangaan van:
 
@@ -193,7 +207,9 @@ Zo waarlijk helpe mij God Almachtig!"
 
 - 7e. het onderhands huren of pachten van de provincie.
 
-2. Van het bepaalde in het eerste lid, onder **d**, kan Onze Minister ontheffing verlenen.
+2. Van het eerste lid, aanhef en onder **d**, kan Onze Minister ontheffing verlenen.
+
+3. Provinciale staten stellen voor hun leden een gedragscode vast.
 
 ##### Artikel 16
 
@@ -203,13 +219,11 @@ Provinciale staten stellen een reglement van orde voor hun vergaderingen en ande
 
 1. Provinciale staten vergaderen zo vaak als zij daartoe hebben besloten.
 
-2. Voorts vergaderen zij indien de commissaris van de Koning of gedeputeerde staten het nodig oordelen of indien ten minste een vijfde van het aantal leden waaruit provinciale staten bestaan schriftelijk, met opgave van redenen, daarom verzoekt.
+2. Voorts vergaderen zij indien de commissaris van de Koning het nodig oordeelt of indien ten minste een vijfde van het aantal leden waaruit provinciale staten bestaan schriftelijk, met opgave van redenen, daarom verzoekt.
 
 ##### Artikel 18
 
-1. Provinciale staten vergaderen na de periodieke verkiezing van hun leden voor de eerste maal in nieuwe samenstelling op de dag met ingang waarvan de leden van provinciale staten in oude samenstelling aftreden.
-
-2. In het geval, bedoeld in [artikel V15 van de Kieswet](onbekend) (**Stb.** 1989, 423), wordt de vergadering gehouden zo spoedig mogelijk nadat veertien dagen zijn verlopen na de onherroepelijke goedkeuring van de geloofsbrieven van meer dan de helft van de leden.
+Provinciale staten vergaderen na de periodieke verkiezing van hun leden voor de eerste maal in nieuwe samenstelling op de dag met ingang waarvan de leden van provinciale staten in oude samenstelling aftreden.
 
 ##### Artikel 19
 
@@ -227,11 +241,13 @@ Provinciale staten stellen een reglement van orde voor hun vergaderingen en ande
 
 ##### Artikel 21
 
-De commissaris van de Koning heeft het recht in de vergadering aan de beraadslaging deel te nemen.
+1. De commissaris van de Koning heeft het recht in de vergadering aan de beraadslaging deel te nemen.
+
+2. Een gedeputeerde kan al dan niet op zijn verzoek door provinciale staten worden uitgenodigd om in de vergadering aanwezig te zijn en aan de beraadslaging deel te nemen.
 
 ##### Artikel 22
 
-De leden van het provinciaal bestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in [artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) over hetgeen zij in de vergadering van provinciale staten hebben gezegd of aan provinciale staten schriftelijk hebben overgelegd.
+De leden van het provinciebestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in [artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) over hetgeen zij in de vergadering van provinciale staten hebben gezegd of aan provinciale staten schriftelijk hebben overgelegd.
 
 ##### Artikel 23
 
@@ -242,6 +258,8 @@ De leden van het provinciaal bestuur en andere personen die deelnemen aan de ber
 3. Provinciale staten beslissen vervolgens of met gesloten deuren zal worden vergaderd.
 
 4. Van een vergadering met gesloten deuren wordt een afzonderlijk verslag opgemaakt, dat niet openbaar wordt gemaakt tenzij provinciale staten anders beslissen.
+
+5. Provinciale staten maken de besluitenlijst van hun vergaderingen op de in de provincie gebruikelijke wijze openbaar. Provinciale staten laten openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=25&z=2003-03-12&g=2003-03-12) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
 
 ##### Artikel 24
 
@@ -259,7 +277,7 @@ In een besloten vergadering kan niet worden beraadslaagd of besloten over:
 
 1. Provinciale staten kunnen op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan provinciale staten worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat provinciale staten haar opheffen.
 
-2. Op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, kan de geheimhouding eveneens worden opgelegd door gedeputeerde staten, de commissaris van de Koning en een provinciale commissie, ieder ten aanzien van stukken die zij aan provinciale staten of aan leden van provinciale staten overleggen. Daarvan wordt op de stukken melding gemaakt.
+2. Op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), kan de geheimhouding eveneens worden opgelegd door gedeputeerde staten, de commissaris van de Koning en een commissie, ieder ten aanzien van stukken die zij aan provinciale staten of aan leden van provinciale staten overleggen. Daarvan wordt op de stukken melding gemaakt.
 
 3. De krachtens het tweede lid opgelegde verplichting tot geheimhouding met betrekking tot aan provinciale staten overgelegde stukken vervalt, indien de oplegging niet door provinciale staten in hun eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, wordt bekrachtigd.
 
@@ -331,7 +349,11 @@ De leden van provinciale staten stemmen zonder last.
 
 ##### Artikel 33
 
-Provinciale staten regelen op welke wijze ambtelijke bijstand wordt verleend aan de leden van provinciale staten.
+1. Provinciale staten en elk van hun leden hebben recht op ambtelijke bijstand.
+
+2. De in provinciale staten vertegenwoordigde groeperingen hebben recht op ondersteuning.
+
+3. Provinciale staten stellen met betrekking tot de ambtelijke bijstand en de ondersteuning van de in provinciale staten vertegenwoordigde groeperingen een verordening vast.
 
 ### Hoofdstuk III. Gedeputeerde staten
 
@@ -343,25 +365,21 @@ Provinciale staten regelen op welke wijze ambtelijke bijstand wordt verleend aan
 
 ##### Artikel 35
 
-1. Provinciale staten benoemen uit hun midden gedeputeerden, ten getale van tenminste drie en ten hoogste negen.
+1. Provinciale staten benoemen de gedeputeerden.
 
-2. De gedeputeerden, bedoeld in het eerste lid, vervullen een volledige betrekking. Provinciale staten kunnen evenwel besluiten dat een of meer van die betrekkingen in deeltijd worden uitgeoefend.
-
-3. Indien de tweede volzin van het tweede lid toepassing vindt, bedraagt, in afwijking van het eerste lid, het aantal gedeputeerden ten hoogste elf, met dien verstande dat de tijdsbestedingsnorm van de gedeputeerden gezamenlijk ten hoogste tien procent meer bedraagt dan de tijdsbestedingsnorm van de gedeputeerden gezamenlijk zou hebben bedragen indien de tweede volzin van het tweede lid geen toepassing had gevonden.
-
-4. Indien de tweede volzin van het tweede lid toepassing vindt, stellen provinciale staten bij de benoeming van de gedeputeerden de tijdsbestedingsnorm van elke gedeputeerde vast.
+2. De commissaris van de Koning wordt geïnformeerd over de uitkomsten van de college-onderhandelingen. Hij wordt alsdan in de gelegenheid gesteld zijn opvattingen over voorstellen ten behoeve van het collegeprogramma kenbaar te maken.
 
 ##### Artikel 36
 
-De benoeming van gedeputeerden na de verkiezing van de leden van provinciale staten vindt plaats in de eerste vergadering van provinciale staten in nieuwe samenstelling, bedoeld in artikel 18.
+De benoeming van gedeputeerden na de verkiezing van de leden van provinciale staten vindt plaats in een vergadering van provinciale staten in nieuwe samenstelling.
 
 ##### Artikel 37
 
-In het geval van artikel 36 gaat de benoeming van degene die zijn benoeming tot gedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van artikel 35 bepaalde aantal gedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
+In het geval van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=36&z=2003-03-12&g=2003-03-12) gaat de benoeming van degene die zijn benoeming tot gedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2003-03-12&g=2003-03-12) bepaalde aantal gedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
 
 ##### Artikel 38
 
-De benoeming ter vervulling van een plaats die tussentijds openvalt geschiedt zo spoedig mogelijk, doch, tenzij provinciale staten in een bijzonder geval anders beslissen, eerst nadat opengevallen plaatsen in provinciale staten zijn vervuld.
+De benoeming ter vervulling van een plaats die tussentijds openvalt geschiedt zo spoedig mogelijk, tenzij provinciale staten besluiten het aantal gedeputeerden te verminderen.
 
 ##### Artikel 39
 
@@ -373,9 +391,9 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 41
 
-1. De gedeputeerden treden af op het tijdstip van aftreden van de leden van provinciale staten.
+1. Na de verkiezing van de leden van provinciale staten treden de gedeputeerden af op het moment dat provinciale staten ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2003-03-12&g=2003-03-12) bepaalde aantal gedeputeerden heeft benoemd en deze benoemingen zijn aanvaard
 
-2. Vanaf het tijdstip van aftreden van de gedeputeerden tot het tijdstip waarop na de verkiezing van de leden van de nieuwe provinciale staten ten minste de helft van het met inachtneming van artikel 35 bepaalde aantal gedeputeerden de benoeming heeft aangenomen, treedt de commissaris van de Koning in de plaats van gedeputeerde staten.
+2. Indien zoveel gedeputeerden hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35a&z=2003-03-12&g=2003-03-12) bepaalde aantal gedeputeerden in functie is, treedt de commissaris van de Koning in de plaats van gedeputeerde staten totdat dit wel het geval is.
 
 ##### Artikel 42
 
@@ -397,19 +415,11 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 44
 
-1. Een gedeputeerde kan niet gelijktijdig met zijn functie de betrekking uitoefenen van:
-
-- a. voorzitter of lid van het bestuur van of ambtenaar in dienst van een in de provincie gelegen gemeente of waterschap;
-
-- b. ambtenaar in dienst van een bij gemeenschappelijke regeling ingesteld lichaam waarvan een orgaan aan toezicht van gedeputeerde staten is onderworpen;
-
-- c. ambtenaar door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie.
-
-2. Een gedeputeerde kan niet gelijktijdig met zijn functie een betrekking uitoefenen waarin hij door de wet of door een algemene maatregel van bestuur geroepen wordt het provinciaal bestuur van advies te dienen.
+Vervallen
 
 ##### Artikel 45
 
-1. Indien degene wiens benoeming tot gedeputeerde is ingegaan, een betrekking uitoefent als bedoeld in artikel 44, eerste en tweede lid, draagt hij er onverwijld zorg voor dat hij van de uitoefening van die betrekking wordt ontheven.
+1. Indien degene wiens benoeming tot gedeputeerde is ingegaan, een functie bekleedt als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2003-03-12&g=2003-03-12), eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
 
 2. Provinciale staten verlenen hem ontslag indien hij dit nalaat.
 
@@ -419,7 +429,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ##### Artikel 46
 
-1. Indien een gedeputeerde een betrekking gaat uitoefenen als bedoeld in artikel 44, eerste en tweede lid, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan provinciale staten.
+1. Indien een gedeputeerde niet langer voldoet aan de vereisten voor het ambt van gedeputeerde, bedoeld in [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35b&z=2003-03-12&g=2003-03-12), eerste en tweede lid, of een functie gaat bekleden als bedoeld in [artikel 35c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=35c&z=2003-03-12&g=2003-03-12), eerste lid, en het tweede of het derde lid van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan provinciale staten.
 
 2. Artikel 45, tweede, derde en vierde lid, is van overeenkomstige toepassing.
 
@@ -429,27 +439,19 @@ In zaken die aan de uitspraak van gedeputeerde staten zijn onderworpen mag een g
 
 ##### Artikel 48
 
-Schorsing in en tussentijds verlies van het lidmaatschap van provinciale staten brengt terstond schorsing in, onderscheidenlijk verlies van het ambt van gedeputeerde mede.
+Vervallen
 
 ##### Artikel 49
 
-Provinciale staten kunnen een of meer gedeputeerden ontslag verlenen, indien dezen het vertrouwen van provinciale staten niet meer bezitten. Op het ontslagbesluit zijn de[artikelen 4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) en[7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
+Indien een uitspraak van provinciale staten inhoudende de opzegging van hun vertrouwen in een gedeputeerde er niet toe leidt dat de betrokken gedeputeerde zijn ontslag indient, kunnen provinciale staten besluiten tot ontslag. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
 
 ##### Artikel 50
 
-1. Over een voorstel tot het verlenen van ontslag als bedoeld in artikel 49 wordt niet beraadslaagd of besloten, dan nadat provinciale staten ten minste twee weken en ten hoogste drie maanden tevoren hebben verklaard, dat de betrokken gedeputeerden het vertrouwen van provinciale staten niet meer bezitten.
-
-2. De oproeping tot de vergadering waarin over dat voorstel wordt beraadslaagd of besloten wordt ten minste achtenveertig uur voor de aanvang of zoveel eerder als provinciale staten hebben bepaald, bij de leden van provinciale staten bezorgd. Zij vermeldt het voorstel tot het verlenen van ontslag als bedoeld in artikel 49.
-
-3. Artikel 28 is niet van toepassing bij besluiten van provinciale staten ingevolge artikel 49 of ingevolge dit artikel.
+De rechter treedt niet in de beoordeling van de gronden waarop provinciale staten tot ontslag van een gedeputeerde hebben besloten.
 
 ##### Artikel 51
 
-1. Bij verhindering, ontstentenis of ontslag van een gedeputeerde, of indien een gedeputeerde met de waarneming van het ambt van commissaris van de Koning is belast, wordt hij zo nodig vervangen door een lid van provinciale staten, aan te wijzen door provinciale staten.
-
-2. De toekenning van een vergoeding ten laste van de provincie aan degene die met de waarneming van het ambt van gedeputeerde is belast, wordt geregeld bij of krachtens algemene maatregel van bestuur.
-
-3. Ten aanzien van degene die met de waarneming van het ambt van gedeputeerde is belast, zijn de artikelen 44 en 45 van overeenkomstige toepassing indien provinciale staten zulks voorafgaande aan of bij de aanwijzing, bedoeld in het eerste lid, hebben bepaald.
+Vervallen
 
 ##### Artikel 52
 
@@ -466,8 +468,6 @@ Gedeputeerde staten stellen een reglement van orde voor hun vergaderingen en and
 1. De vergaderingen van gedeputeerde staten worden met gesloten deuren gehouden, voor zover gedeputeerde staten niet anders hebben bepaald.
 
 2. Het reglement van orde voor de vergaderingen kan regels geven omtrent de openbaarheid van de vergaderingen van gedeputeerde staten.
-
-3. Ten aanzien van bepalingen in het reglement van orde die betrekking hebben op vergaderingen vindt artikel 144 geen toepassing.
 
 ##### Artikel 55
 
@@ -504,6 +504,8 @@ De artikelen 28, eerste tot en met derde lid, 29 en 30 zijn ten aanzien van de v
 1. Provinciale staten kunnen regelen van welke beslissingen van gedeputeerde staten aan de leden van provinciale staten kennisgeving wordt gedaan. Daarbij kunnen provinciale staten de gevallen bepalen waarin met terinzagelegging kan worden volstaan.
 
 2. Gedeputeerde staten laten de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
+
+3. Gedeputeerde staten maken de besluitenlijst van hun vergaderingen op de in de provincie gebruikelijke wijze openbaar. Zij laten de openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=55&z=2003-03-12&g=2003-03-12) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
 
 ### Hoofdstuk IV. De commissaris van de Koning
 
@@ -605,17 +607,55 @@ Zo waarlijk helpe mij God Almachtig!"
 
 ##### Artikel 67
 
-De commissaris kan niet tevens zijn:
+De commissaris is niet tevens:
 
-- a. lid van provinciale staten;
+- a. minister;
 
-- b. ambtenaar door of vanwege het provinciaal bestuur aangesteld of daaraan ondergeschikt;
+- b. staatssecretaris;
 
-- c. voorzitter of lid van het bestuur van een in de provincie gelegen gemeente of waterschap.
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. lid van provinciale staten;
+
+- h. gedeputeerde;
+
+- i. lid van de rekenkamer;
+
+- j. lid van de raad van een gemeente;
+
+- k. burgemeester;
+
+- l. wethouder;
+
+- m. lid van een deelraad;
+
+- n. lid van het dagelijks bestuur van een deelgemeente;
+
+- o. lid van de rekenkamer van een in de betrokken provincie gelegen gemeente;
+
+- p. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt;
+
+- q. ambtenaar, door of vanwege het gemeentebestuur van een in de provincie gelegen gemeente aangesteld of daaraan ondergeschikt;
+
+- r. voorzitter van, lid van het bestuur van of ambtenaar in dienst van een in de provincie gelegen waterschap;
+
+- s. ambtenaar in dienst van een bij gemeenschappelijke regeling ingesteld lichaam waarvan een orgaan aan toezicht van gedeputeerde staten is onderworpen;
+
+- t. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
+
+- u. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het provinciebestuur van advies te dienen.
 
 ##### Artikel 68
 
-Het bepaalde in artikel 15 is van overeenkomstige toepassing op de commissaris.
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-03-12&g=2003-03-12), is van overeenkomstige toepassing op de commissaris.
+
+2. Provinciale staten stellen voor de commissaris een gedragscode vast.
 
 ##### Artikel 69
 
@@ -659,21 +699,19 @@ De commissaris heeft zijn werkelijke woonplaats in de provincie.
 
 1. De stukken die van provinciale staten uitgaan, worden door de commissaris ondertekend.
 
-2. De stukken die van gedeputeerde staten uitgaan, worden door de commissaris ondertekend. Gedeputeerde staten kunnen hem toestaan de ondertekening op te dragen aan een ander lid van gedeputeerde staten, aan de griffier of aan een of meer andere provinciale ambtenaren.
+2. De stukken die van gedeputeerde staten uitgaan, worden door de commissaris ondertekend. Gedeputeerde staten kunnen hem toestaan de ondertekening op te dragen aan een ander lid van gedeputeerde staten, aan de commissaris of aan een of meer andere provinciale ambtenaren.
 
 ##### Artikel 75
 
-1. Bij verhindering of ontstentenis van de commissaris wordt zijn ambt waargenomen door een gedeputeerde, door gedeputeerde staten aan te wijzen. Van de aanwijzing doet de commissaris schriftelijk mededeling aan Onze Minister.
+1. Bij verhindering of ontstentenis van de commissaris wordt zijn ambt waargenomen door een door gedeputeerde staten aan te wijzen gedeputeerde. Van de aanwijzing doet de commissaris schriftelijk mededeling aan Onze Minister. Het voorzitterschap van provinciale staten wordt bij verhindering of ontstentenis van de commissaris waargenomen door het langstzittende lid van provinciale staten. Indien meer leden van provinciale staten even lang zitting hebben, dan vindt de waarneming van het voorzitterschap plaats door het oudste lid in jaren van hen. Provinciale staten kunnen een ander lid van provinciale staten met de waarneming van het voorzitterschap belasten.
 
-2. Bij verhindering of ontstentenis van alle gedeputeerden wordt het ambt waargenomen door het oudste lid in jaren van provinciale staten, tenzij provinciale staten een ander lid met de waarneming belasten.
-
-3. Bij verhindering of ontstentenis van de commissaris op de dag met ingang waarvan de zittende provinciale staten zijn afgetreden, zal het ambt worden waargenomen door een afgetreden gedeputeerde aan te wijzen door de afgetreden gedeputeerde staten of, bij ontstentenis van alle afgetreden gedeputeerden, door het oudste lid in jaren van de afgetreden provinciale staten, een en ander totdat in de waarneming overeenkomstig het eerste en tweede lid is voorzien.
+2. Bij verhindering of ontstentenis van alle gedeputeerden wordt het ambt van commissaris waargenomen door het langstzittende lid van provinciale staten. Indien meer leden van provinciale staten even lang zitting hebben, dan vindt de waarneming plaats door het oudste lid in jaren van hen. Provinciale staten kunnen een ander lid van provinciale staten met de waarneming belasten.
 
 ##### Artikel 76
 
-1. Indien de regering het in het belang van de provincie nodig oordeelt, voorziet zij in afwijking van artikel 75 in de waarneming. Alvorens daartoe over te gaan hoort zij provinciale staten, tenzij gewichtige redenen zich daartegen verzetten.
+1. Indien de regering het in het belang van de provincie nodig oordeelt, voorziet zij in afwijking van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=75&z=2003-03-12&g=2003-03-12) in de waarneming. Alvorens daartoe over te gaan hoort zij provinciale staten, tenzij gewichtige redenen zich daartegen verzetten.
 
-2. Hij die door de regering met de waarneming van het ambt van commissaris is belast, legt, indien hij geen lid van provinciale staten is, in handen van Onze Minister een overeenkomstig artikel 64 luidende eed (verklaring en belofte) af.
+2. Hij die door de regering met de waarneming van het ambt van commissaris is belast, legt in handen van Onze Minister een overeenkomstig artikel 64 luidende eed (verklaring en belofte) af.
 
 ##### Artikel 77
 
@@ -681,7 +719,7 @@ De toekenning van een vergoeding aan degene die met de waarneming van het ambt v
 
 ##### Artikel 78
 
-Ten aanzien van degene die met de waarneming van het ambt van commissaris is belast, is artikel 15 van overeenkomstige toepassing.
+Ten aanzien van degene die met de waarneming van het ambt van commissaris is belast, zijn de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=67&z=2003-03-12&g=2003-03-12) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=68&z=2003-03-12&g=2003-03-12) van overeenkomstige toepassing.
 
 ##### Artikel 79
 
@@ -693,79 +731,73 @@ Ten aanzien van degene die met de waarneming van het ambt van commissaris is bel
 
 ##### Artikel 80
 
-1. Provinciale staten kunnen commissies instellen.
+1. Provinciale staten kunnen statencommissies instellen die besluitvorming van provinciale staten kunnen voorbereiden en met gedeputeerde staten of de commissaris kunnen overleggen. Zij regelen daarbij de taken, de bevoegdheden, de samenstelling en de werkwijze, daaronder begrepen de wijze waarop de leden van provinciale staten inzage hebben in stukken waaromtrent door de commissie geheimhouding is opgelegd. Deze inzage kan slechts worden geweigerd voor zover zij in strijd is met het openbaar belang.
 
-2. Zij regelen de taken, de bevoegdheden, de samenstelling en de wijze waarop de leden van provinciale staten inzage hebben in stukken waaromtrent door de commissie geheimhouding is opgelegd. Deze inzage kan slechts worden geweigerd voor zover zij in strijd is met het openbaar belang.
+2. De commissaris en de gedeputeerden zijn geen lid van een statencommissie.
+
+3. Bij de samenstelling van een statencommissie zorgen provinciale staten, voor zover het de benoeming betreft van leden van provinciale staten, voor een evenwichtige vertegenwoordiging van de in provinciale staten vertegenwoordigde groeperingen.
+
+4. Een lid van provinciale staten is voorzitter van een statencommissie.
+
+5. De artikelen [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-03-12&g=2003-03-12), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=21&z=2003-03-12&g=2003-03-12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-03-12&g=2003-03-12) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op een vergadering van een statencommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-03-12&g=2003-03-12), voor «de commissaris» wordt gelezen «de voorzitter van een statencommissie», in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=21&z=2003-03-12&g=2003-03-12), voor «Een gedeputeerde» wordt gelezen «De commissaris of een gedeputeerde» en in [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-03-12&g=2003-03-12), voor «artikel 25» wordt gelezen «artikel 91».
 
 ##### Artikel 81
 
-1. Ten aanzien van een commissie waaraan bevoegdheden van provinciale staten worden overgedragen, regelen provinciale staten de verantwoording aan provinciale staten.
+1. Provinciale staten, onderscheidenlijk gedeputeerde staten, kunnen bestuurscommissies instellen die bevoegdheden uitoefenen die hun door provinciale staten, onderscheidenlijk gedeputeerde staten, zijn overgedragen. Zij regelen daarbij de taken, de bevoegdheden, de samenstelling en de werkwijze, daaronder begrepen de wijze waarop zij inzage hebben in de stukken waaromtrent door een bestuurscommissie geheimhouding is opgelegd. Deze inzage kan slechts worden geweigerd voor zover zij in strijd is met het openbaar belang.
 
-2. Besluiten en andere niet schriftelijke beslissingen gericht op enig rechtsgevolg van een commissie waaraan bevoegdheden van provinciale staten worden overgedragen, kunnen door provinciale staten worden vernietigd. Provinciale staten kunnen de bevoegdheid tot schorsing delegeren aan gedeputeerde staten. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing zijn de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing. Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelen provinciale staten het overige toezicht van provinciale staten op de uitoefening van de bevoegdheden door de commissie. Regeling van het overige toezicht kan mede goedkeuring omvatten van beslissingen van een commissie, als bedoeld in het eerste lid. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
+2. De commissaris en de gedeputeerden zijn geen lid van een door provinciale staten ingestelde bestuurscommissie. Leden van provinciale staten zijn geen lid van een door gedeputeerde staten ingestelde bestuurscommissie.
 
-3. Ten aanzien van de vergadering van een commissie als bedoeld in het eerste lid zijn, met inachtneming van door provinciale staten gestelde nadere regels, de artikelen 19, tweede lid, en 23 van overeenkomstige toepassing.
+3. De [artikelen 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=137&z=2003-03-12&g=2003-03-12) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=138&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op een besluit tot instelling van een bestuurscommissie.
+
+4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-03-12&g=2003-03-12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-03-12&g=2003-03-12) en [23, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=23&z=2003-03-12&g=2003-03-12), zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door provinciale staten ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-03-12&g=2003-03-12), voor «de commissaris» wordt gelezen: de voorzitter van een bestuurscommissie.
+
+5. Voor zover zulks in verband met de aard en omvang van de overgedragen bevoegdheden nodig is, regelen gedeputeerde staten de openbaarheid van vergaderingen van een door hen ingestelde bestuurscommissie.
 
 ##### Artikel 82
 
-1. Ten aanzien van een commissie waaraan bevoegdheden van gedeputeerde staten worden overgedragen, regelen provinciale staten de verantwoording aan provinciale staten.
+1. Provinciale staten of gedeputeerde staten kunnen andere commissies dan bedoeld in de [artikelen 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-03-12&g=2003-03-12), en [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2003-03-12&g=2003-03-12), instellen.
 
-2. Besluiten en andere niet schriftelijke beslissingen gericht op enig rechtsgevolg van een commissie waaraan bevoegdheden van gedeputeerde staten worden overgedragen, kunnen door gedeputeerde staten worden vernietigd. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing zijn de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing. Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelen provinciale staten, op voorstel van gedeputeerde staten, de openbaarheid van de vergaderingen en het overige toezicht van gedeputeerde staten, op de uitoefening van de bevoegdheden door de commissie. Regeling van het overige toezicht kan mede goedkeuring omvatten van beslissingen van een commissie, als bedoeld in het eerste lid. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
+2. [Artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=81&z=2003-03-12&g=2003-03-12), is op een andere commissie van overeenkomstige toepassing, met uitzondering van een commissie die is ingesteld om te adviseren over de beslissing op ingediende bezwaarschriften en een commissie belast met de behandeling van en de advisering over klachten.
 
-3. In een commissie waaraan de bevoegdheid van gedeputeerde staten, bedoeld in artikel 168, wordt overgedragen, wordt ten minste één lid van gedeputeerde staten tot lid benoemd.
+3. Provinciale staten of gedeputeerde staten regelen ten aanzien van een door hen ingestelde andere commissie de openbaarheid van de vergaderingen.
 
-4. Indien aan een commissie behalve bevoegdheden van gedeputeerde staten ook bevoegdheden van provinciale staten zijn overgedragen, zijn, met inachtneming van door provinciale staten gestelde nadere regels, ten aanzien van de vergadering van die commissie de artikelen 19, tweede lid, en 23 van overeenkomstige toepassing.
+4. De [artikelen 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=137&z=2003-03-12&g=2003-03-12) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=138&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
 
 ##### Artikel 83
 
-Ten aanzien van een commissie die is belast met het voorbereiden van door provinciale staten te nemen beslissingen op beroep- en bezwaarschriften, dan wel met het beslissen op beroepschriften, regelen provinciale staten tevens:
+1. Provinciale staten, onderscheidenlijk gedeputeerde staten, regelen ten aanzien van de door hen ingestelde bestuurscommissies de verantwoording aan provinciale staten, onderscheidenlijk gedeputeerde staten.
 
-- a. de openbaarheid van de vergaderingen;
+2. Provinciale staten, onderscheidenlijk gedeputeerde staten, kunnen besluiten en andere, niet-schriftelijke, beslissingen gericht op enig rechtsgevolg van een door provinciale staten, onderscheidenlijk gedeputeerde staten, ingestelde bestuurscommissie vernietigen. Provinciale staten kunnen hun bevoegdheid tot schorsing delegeren aan gedeputeerde staten. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
-- b. de voorbereiding, de uitvoering en de openbaarmaking van beslissingen van de commissie.
+3. Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelen provinciale staten onderscheidenlijk gedeputeerde staten het overige toezicht op de uitoefening van de bevoegdheden door een door hen ingestelde bestuurscommissie. Dit overige toezicht kan mede de goedkeuring omvatten van beslissingen van een bestuurscommissie. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
 
 ##### Artikel 84
 
-1. Het bepaalde in de artikelen 81, eerste lid, voor zover de regeling van de verantwoording aan provinciale staten betreft, en 82, eerste lid, voorzover de regeling van de verantwoording aan provinciale staten betreft, is niet van toepassing op een commissie als bedoeld in artikel 85.
-
-2. Artikel 24 is van overeenkomstige toepassing op de vergadering van een commissie als bedoeld in artikel 85. Indien wordt voorzien in de instelling van een dagelijks bestuur zijn de artikelen 49 en 50 van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 85
 
-1. De leden van een commissie waaraan de behartiging van de belangen van een deel van de provincie is opgedragen en waaraan met het oog daarop een zodanig samenstel van bevoegdheden van provinciale staten is overgedragen, dat zij als een algemeen vertegenwoordigend orgaan moet worden aangemerkt, worden rechtstreeks gekozen door de ingezetenen van dat deel van de provincie die kiesgerechtigd zijn voor de verkiezing van de leden van provinciale staten.
-
-2. Provinciale staten regelen de in het eerste lid bedoelde verkiezing zoveel mogelijk overeenkomstig de bepalingen van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) voor de verkiezing van de leden van provinciale staten. De [artikelen Z1](onbekend) tot en met [Z11 van de Kieswet](onbekend) zijn op de verkiezing van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 86
 
-Om lid te kunnen zijn van een commissie als bedoeld in artikel 85 is vereist dat men ingezetene is van het betreffende deel van de provincie en overigens voldoet aan de vereisten voor het lidmaatschap van provinciale staten.
+Vervallen
 
 ##### Artikel 87
 
-1. Een lid van een commissie als bedoeld in artikel 85 kan niet tevens zijn:
-
-- a. commissaris van de Koning;
-
-- b. lid van provinciale staten;
-
-- c. ambtenaar, door of vanwege de commissie aangesteld of daaraan ondergeschikt.
-
-2. Artikel 13 is van overeenkomstige toepassing, met dien verstande dat het bepaalde in artikel 13, eerste lid, onderdeel **e**, geen belemmering vormt voor een ambtenaar, aangesteld door of ondergeschikt aan een commissie als bedoeld in artikel 85, om lid te zijn van een andere in de provincie ingestelde commissie als bedoeld in artikel 85.
+Vervallen
 
 ##### Artikel 88
 
-Indien bij de instelling van een commissie als bedoeld in artikel 85 in een dagelijks bestuur wordt voorzien, kunnen provinciale staten tevens het dagelijks bestuur bevoegd verklaren de uitoefening van een of meer aan het dagelijks bestuur overgedragen bevoegdheden uit naam en onder verantwoordelijkheid van dit bestuur op te dragen aan een of meer leden van dit bestuur, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
+Vervallen
 
 ##### Artikel 89
 
-1. De instelling van vaste commissies van advies aan gedeputeerde staten of aan de commissaris van de Koning en de regeling van hun bevoegdheden en samenstelling geschieden door provinciale staten op voorstel van gedeputeerde staten onderscheidenlijk de commissaris van de Koning.
-
-2. Ten aanzien van een vergadering van een vaste commissie van advies aan gedeputeerde staten die tevens tot taak heeft gedeputeerde staten van advies te dienen bij de voorbereiding van de besluitvorming in provinciale staten, zijn, met inachtneming van door provinciale staten gestelde nadere regels, de artikelen 19, tweede lid, en 23 van overeenkomstige toepassing.
-
-3. Bij de samenstelling van een vaste commissie van advies aan gedeputeerde staten of aan de commissaris die tevens tot taak heeft gedeputeerde staten of de commissaris van advies te dienen bij de voorbereiding van de besluitvorming in provinciale staten, zorgen provinciale staten, voor zover het de benoeming in een dergelijke commissie betreft van leden van provinciale staten, voor een evenwichtige vertegenwoordiging van de in provinciale staten vertegenwoordigde groeperingen.
+Vervallen
 
 ##### Artikel 90
 
-Andere commissies van advies aan gedeputeerde staten of aan de commissaris van de Koning worden door gedeputeerde staten onderscheidenlijk de commissaris van de Koning ingesteld.
+Vervallen
 
 ##### Artikel 91
 
@@ -777,39 +809,31 @@ Andere commissies van advies aan gedeputeerde staten of aan de commissaris van d
 
 ##### Artikel 92
 
-1. De leden van een commissie en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in [artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) over hetgeen zij in de vergadering van de commissie hebben gezegd of aan deze schriftelijk hebben overgelegd.
-
-2. Indien een subcommissie is ingesteld is het bepaalde in het eerste lid van overeenkomstige toepassing.
+Vervallen
 
 ### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
 
 ##### Artikel 93
 
-1. De leden van provinciale staten die geen lid zijn van gedeputeerde staten genieten naar bij provinciale verordening te stellen regelen vergoeding van reis- en verblijfkosten voor het bijwonen van vergaderingen van provinciale staten en van commissies.
+1. De leden van provinciale staten ontvangen een bij verordening van provinciale staten vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.
 
-2. Aan de leden van provinciale staten die geen lid zijn van gedeputeerde staten vindt vergoeding van reis- en verblijfkosten, in andere gevallen dan die van het eerste lid, alleen plaats voor zover provinciale staten dat bepalen bij verordening. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vergoeding, bedoeld in het eerste en tweede lid.
+2. Provinciale staten kunnen bij verordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van provinciale staten.
 
-3. De leden van provinciale staten die geen lid zijn van gedeputeerde staten genieten een vergoeding voor hun werkzaamheden en een tegemoetkoming in de andere kosten dan bedoeld in het eerste en tweede lid. Deze vergoeding en tegemoetkoming worden op jaarbasis door provinciale staten bij verordening vastgesteld naar bij of krachtens algemene maatregel van bestuur te stellen regels.
+3. Het eerste en het tweede lid zijn niet van toepassing op een lid van provinciale staten dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=13&z=2003-03-12&g=2003-03-12), tevens gedeputeerde is.
 
-4. Met betrekking tot de in het derde lid bedoelde leden van provinciale staten kunnen provinciale staten voorts bij verordening regels stellen betreffende tegemoetkoming in of vergoeding van bijzondere kosten en betreffende andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van provinciale staten. De in de vorige volzin bedoelde verordening wordt vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen nadere regels.
+4. De verordeningen, bedoeld in het eerste en het tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
 
 ##### Artikel 94
 
-1. De leden van een commissie ontvangen voor zover provinciale staten het bepalen:
+1. De leden van een door provinciale staten of gedeputeerde staten ingestelde commissie ontvangen, voor zover zij geen lid zijn van provinciale staten of gedeputeerde staten, een bij provinciale verordening vast te stellen vergoeding:
 
-- a. een vergoeding voor het bijwonen van vergaderingen van de commissie en haar subcommissies, en
+- a. voor het bijwonen van vergaderingen van de commissie en
 
-- b. een vergoeding van reis- en verblijfkosten.
+- b. van reis- en verblijfskosten in verband met reizen binnen de provincie.
 
-Het bepaalde in dit lid is niet van toepassing op leden van een commissie die tevens lid van provinciale staten zijn en op ambtenaren die als zodanig tot lid van een commissie zijn benoemd.
+2. In bijzondere gevallen kunnen provinciale staten bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=82&z=2003-03-12&g=2003-03-12) een vaste vergoeding voor hun werkzaamheden ontvangen.
 
-2. In bijzondere gevallen kunnen provinciale staten bepalen dat de leden van het dagelijks bestuur van een commissie die geen lid zijn van gedeputeerde staten een vaste vergoeding voor hun werkzaamheden ontvangen.
-
-3. Provinciale staten kunnen bepalen dat de leden van een commissie als bedoeld in artikel 85 een vaste vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten ontvangen en dat de leden van het dagelijks bestuur van die commissie een bezoldiging genieten.
-
-4. De in het eerste, tweede en derde lid bedoelde vergoedingen en bezoldiging worden door provinciale staten bij verordening vastgesteld.
-
-5. Ten aanzien van de vergoeding bedoeld in het eerste lid, onderdeel **a**, en de bezoldiging bedoeld in het vierde lid, worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld. Ten aanzien van de overige vergoedingen bedoeld in dit artikel kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
+3. Ten aanzien van een vergoeding, bedoeld in het eerste lid, onder a, worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld. Ten aanzien van de overige vergoedingen, bedoeld in dit artikel, kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
 
 ##### Artikel 95
 
@@ -817,7 +841,7 @@ De verordeningen bedoeld in de artikelen 93 en 94 worden aan Onze Minister gezon
 
 ##### Artikel 96
 
-1. Buiten hetgeen hun bij of krachtens de wet is toegekend, ontvangen de leden van provinciale staten, van een commissie en van het dagelijks bestuur van een commissie als zodanig geen andere vergoedingen en tegemoetkomingen ten laste van de provincie.
+1. Buiten hetgeen hun bij of krachtens de wet is toegekend, ontvangen de leden van provinciale staten, en van een door provinciale staten of gedeputeerde staten ingestelde commissie als zodanig geen andere vergoedingen en tegemoetkomingen ten laste van de provincie.
 
 2. Voordelen ten laste van de provincie, anders dan in de vorm van vergoedingen en tegemoetkomingen, genieten zij slechts voor zover provinciale staten dit bij verordening bepalen. De verordening behoeft de goedkeuring van Onze Minister.
 
@@ -825,41 +849,43 @@ De verordeningen bedoeld in de artikelen 93 en 94 worden aan Onze Minister gezon
 
 ##### Artikel 97
 
-In iedere provincie is een griffier.
+1. In iedere provincie is een secretaris en een griffier.
+
+2. Een secretaris is niet tevens griffier.
 
 ##### Artikel 98
 
-1. De griffier wordt door provinciale staten benoemd. Voorafgaand aan de benoeming maken gedeputeerde staten een aanbeveling van twee personen op. Provinciale staten kunnen de griffier schorsen en ontslaan.
-
-2. Gedeputeerde staten kunnen in spoedeisende gevallen tot schorsing overgaan. Zij doen daarvan terstond mededeling aan provinciale staten. De schorsing vervalt, wanneer provinciale staten haar niet in hun eerstvolgende vergadering bekrachtigen.
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-03-12&g=2003-03-12), is van overeenkomstige toepassing op de secretaris en de griffier.
 
 ##### Artikel 99
 
-De griffier mag geen handelingen verrichten als bedoeld in artikel 15, eerste lid. Het tweede lid van artikel 15 is van overeenkomstige toepassing.
+Gedeputeerde staten benoemen de secretaris. Zij zijn tevens bevoegd de secretaris te schorsen en te ontslaan.
 
 ##### Artikel 100
 
-1. De griffier staat provinciale staten, gedeputeerde staten en de commissaris van de Koning alsmede de door hen ingestelde commissies bij de uitoefening van hun taak terzijde.
+1. De secretaris staat gedeputeerde staten, de commissaris van de Koning en de door gedeputeerde staten ingestelde commissies bij de uitoefening van hun taak terzijde.
 
-2. Provinciale staten stellen in een instructie nadere regels vast betreffende de taak en de bevoegdheid van de griffier.
+2. Gedeputeerde staten stellen in een instructie nadere regels over de taak en de bevoegdheden van de secretaris.
 
 ##### Artikel 101
 
-De griffier is in de vergadering van provinciale staten en van gedeputeerde staten aanwezig.
+De secretaris is in de vergadering van gedeputeerde staten aanwezig.
 
 ##### Artikel 102
 
-1. De stukken die van provinciale staten en van gedeputeerde staten uitgaan, worden door de griffier medeondertekend.
+1. De stukken die van gedeputeerde staten uitgaan, worden door de secretaris medeondertekend.
 
-2. Het eerste lid is niet van toepassing indien de ondertekening van stukken die van gedeputeerde staten uitgaan ingevolge artikel 74, tweede lid, aan de griffier of een andere provinciale ambtenaar is opgedragen.
+2. Het eerste lid is niet van toepassing indien de ondertekening van stukken die van gedeputeerde staten uitgaan ingevolge [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=74&z=2003-03-12&g=2003-03-12), aan de secretaris of een andere provinciale ambtenaar is opgedragen.
 
 ##### Artikel 103
 
-Provinciale staten regelen de vervanging van de griffier.
+1. Gedeputeerde staten regelen de vervanging van de secretaris.
+
+2. De [artikelen 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=97&z=2003-03-12&g=2003-03-12), en [98 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=98&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
 
 ##### Artikel 104
 
-Ten aanzien van degene die de griffier vervangt is artikel 99 van overeenkomstige toepassing.
+Provinciale staten benoemen de griffier. Zij zijn tevens bevoegd de griffier te schorsen en te ontslaan.
 
 ## Titel III. De bevoegdheid van het provinciaal bestuur
 
@@ -869,11 +895,11 @@ Ten aanzien van degene die de griffier vervangt is artikel 99 van overeenkomstig
 
 ##### Artikel 105
 
-1. De bevoegdheid tot regeling en bestuur inzake de huishouding van de provincie wordt aan het provinciaal bestuur overgelaten.
+1. De bevoegdheid tot regeling en bestuur inzake de huishouding van de provincie wordt aan het provinciebestuur overgelaten.
 
-2. Regeling en bestuur kunnen van het provinciaal bestuur worden gevorderd bij of krachtens een andere dan deze wet ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het provinciaal bestuur en het aan het provinciaal bestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.
+2. Regeling en bestuur kunnen van het provinciebestuur worden gevorderd bij of krachtens een andere dan deze wet ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het provinciebestuur en het aan het provinciebestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.
 
-3. Onverminderd het bepaalde in de artikelen 108, vijfde lid, en 117, vierde lid, worden de kosten verbonden aan de uitvoering van het tweede lid voor zover zij ten laste van de betrokken provincies blijven, door het Rijk aan hen vergoed.
+3. Onverminderd het bepaalde in de [artikelen 108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12), en [117, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=117&z=2003-03-12&g=2003-03-12), worden de kosten verbonden aan de uitvoering van het tweede lid voor zover zij ten laste van de betrokken provincies blijven, door het Rijk aan hen vergoed.
 
 ##### Artikel 106
 
@@ -881,7 +907,7 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen provincie
 
 ##### Artikel 107
 
-1. Het provinciaal bestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten of waterschappen overdragen aan de besturen van die gemeenten of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.
+1. Het provinciebestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten of waterschappen overdragen aan de besturen van die gemeenten of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.
 
 2. Een besluit als bedoeld in het eerste lid regelt de gevolgen van intrekking van het besluit.
 
@@ -889,87 +915,87 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen provincie
 
 4. Een besluit als bedoeld in het eerste lid wordt binnen een week toegezonden aan Onze Minister wie het aangaat.
 
-5. Ten aanzien van de bekendmaking van een besluit als bedoeld in het eerste lid zijn de artikelen 136 tot en met 138 van overeenkomstige toepassing.
+5. Ten aanzien van de bekendmaking van een besluit als bedoeld in het eerste lid zijn de [artikelen 136 tot en met 138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12) van overeenkomstige toepassing.
 
-6. De voorschriften met betrekking tot de bevoegdheid van het provinciaal bestuur, de uitoefening daarvan en het toezicht daarop, uitgezonderd die met betrekking tot vergaderingen, zijn ten aanzien van de ingevolge het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing.
+6. De voorschriften met betrekking tot de bevoegdheid van het provinciebestuur, de uitoefening daarvan en het toezicht daarop, uitgezonderd die met betrekking tot vergaderingen, zijn ten aanzien van de ingevolge het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing.
 
-7. Het provinciaal bestuur oefent geen toezicht uit en geeft geen voorschriften met betrekking tot de uitoefening van de ingevolge het eerste lid overgedragen bevoegdheden.
+7. Het provinciebestuur oefent geen toezicht uit en geeft geen voorschriften met betrekking tot de uitoefening van de ingevolge het eerste lid overgedragen bevoegdheden.
 
-8. Indien het verzoek van een gemeentebestuur of bestuur van een waterschap tot het nemen van een besluit als bedoeld in het eerste lid wordt afgewezen, wordt die afwijzing door het provinciaal bestuur met redenen omkleed.
+8. Indien het verzoek van een gemeentebestuur of bestuur van een waterschap tot het nemen van een besluit als bedoeld in het eerste lid wordt afgewezen, wordt die afwijzing door het provinciebestuur met redenen omkleed.
 
 ##### Artikel 108
 
 1. In dit artikel wordt verstaan onder:
 
-- a. plan: een beslissing die een samenhangend geheel van op elkaar afgestemde keuzes bevat omtrent door het provinciaal bestuur te nemen besluiten of te verrichten andere handelingen, ten einde een of meer doelstellingen te bereiken;
+- a. plan: een beslissing die een samenhangend geheel van op elkaar afgestemde keuzes bevat omtrent door het provinciebestuur te nemen besluiten of te verrichten andere handelingen, ten einde een of meer doelstellingen te bereiken;
 
-- b. beleidsverslag: een schriftelijke rapportage betreffende het door het provinciaal bestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.
+- b. beleidsverslag: een schriftelijke rapportage betreffende het door het provinciebestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.
 
-2. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het provinciaal bestuur slechts worden gevorderd in bij de wet te bepalen gevallen.
+2. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het provinciebestuur slechts worden gevorderd in bij de wet te bepalen gevallen.
 
 3. Een verplichting als bedoeld in het tweede lid geldt voor ten hoogste vier jaren tenzij de wet anders bepaalt.
 
-4. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het provinciebestuur worden gevraagd als onderdeel van de regeling van een tijdelijke specifieke uitkering als bedoeld in artikel 17 van de Financiële-verhoudingswet.
+4. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het provinciebestuur worden gevraagd als onderdeel van de regeling van een tijdelijke specifieke uitkering als bedoeld in [artikel 17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17).
 
-5. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt van een provinciaal bestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de provincie worden gecompenseerd.
+5. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt van een provinciebestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de provincie worden gecompenseerd.
 
-6. Dit artikel is niet van toepassing op de begroting, bedoeld in artikel 193, en op de jaarrekening en het jaarverslag, bedoeld in artikel 201.
+6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2003-03-12&g=2003-03-12).
 
 ##### Artikel 109
 
-1. Het vaststellen van een plan of een beleidsverslag als bedoeld in artikel 108 en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
+1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
 
 - a. dit noodzakelijk is uit een oogpunt van afstemming tussen provinciaal beleid en het beleid van het Rijk, of
 
 - b. de ontwikkeling van beleid op een nieuw beleidsterrein dit noodzakelijk maakt.
 
-2. Het vaststellen van een plan of een beleidsverslag als bedoeld in artikel 108 en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
+2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
 
-- a. het provinciaal bestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
+- a. het provinciebestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
 
 - b. de bestuurslasten niet in redelijke verhouding staan tot de te verwachten baten of een aanzienlijk beslag leggen op de voor het betrokken beleidsterrein beschikbare middelen;
 
-- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in artikel 193, of de jaarrekening en het jaarverslag, bedoeld in artikel 201, mogelijk is;
+- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), of de jaarrekening en het jaarverslag, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12), mogelijk is;
 
 - d. het bevorderen van de samenhang in het provinciaal beleid door onderlinge afstemming van onderdelen daarvan onmogelijk wordt;
 
 - e. het uitsluitend dient tot het verkrijgen van informatie.
 
-3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in artikel 108 en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens artikel 108 en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
+3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2003-03-12&g=2003-03-12) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
 
 #### § 2. Verhouding tot het Rijk
 
 ##### Artikel 110
 
-Onze Minister wie het aangaat doet het provinciaal bestuur desgevraagd mededeling van zijn standpunten en voornemens met betrekking tot aangelegenheden die voor de provincie van belang zijn, tenzij het openbaar belang zich daartegen verzet.
+Onze Minister wie het aangaat doet gedeputeerde staten desgevraagd mededeling van zijn standpunten en voornemens met betrekking tot aangelegenheden die voor de provincie van belang zijn, tenzij het openbaar belang zich daartegen verzet.
 
 ##### Artikel 111
 
-Onze Minister wie het aangaat biedt het provinciaal bestuur desgevraagd de gelegenheid tot het plegen van overleg met betrekking tot aangelegenheden die voor de provincie van belang zijn, tenzij het openbaar belang zich daartegen verzet.
+Onze Minister wie het aangaat biedt gedeputeerde staten desgevraagd de gelegenheid tot het plegen van overleg met betrekking tot aangelegenheden die voor de provincie van belang zijn, tenzij het openbaar belang zich daartegen verzet.
 
 ##### Artikel 112
 
-1. Onze Minister wie het aangaat stelt de betrokken provinciale besturen of een instantie die voor deze representatief kan worden geacht, zo nodig binnen een te stellen termijn, in de gelegenheid hun oordeel te geven omtrent voorstellen van wet, ontwerpen van algemene maatregel van bestuur, of ontwerpen van ministeriële regeling waarbij:
+1. Onze Minister wie het aangaat stelt de betrokken gedeputeerde staten of een instantie die voor hen representatief kan worden geacht, zo nodig binnen een te stellen termijn, in de gelegenheid hun oordeel te geven omtrent voorstellen van wet, ontwerpen van algemene maatregel van bestuur, of ontwerpen van ministeriële regeling waarbij:
 
-- a. van de provinciale besturen regeling of bestuur wordt gevorderd,
+- a. van de provinciebesturen regeling of bestuur wordt gevorderd,
 
 - b. in betekenende mate wijziging wordt gebracht in de taken en bevoegdheden van de provinciale besturen, of
 
 - c. de financiën van de provincies in betekenende mate zijn betrokken.
 
-2. Voorstellen als bedoeld in het eerste lid bevatten in de bijbehorende toelichting een weergave van de gevolgen voor de inrichting en werking van de provincies en een weergave van het in het eerste lid bedoelde oordeel van de betrokken provinciale besturen of representatieve instantie.
+2. Voorstellen als bedoeld in het eerste lid bevatten in de bijbehorende toelichting een weergave van de gevolgen voor de inrichting en werking van de provincies en een weergave van het in het eerste lid bedoelde oordeel van de betrokken gedeputeerde staten of representatieve instantie.
 
 3. Onze Minister wie het aangaat is niet verplicht vooraf het in het eerste lid bedoelde oordeel in te winnen indien zulks ten gevolge van dringende omstandigheden niet mogelijk is. In dat geval wordt het oordeel zo spoedig mogelijk ingewonnen en openbaar gemaakt.
 
 ##### Artikel 113
 
-1. Een wet waarbij van provinciale besturen regeling of bestuur wordt gevorderd of waarbij in betekenende mate wijziging wordt gebracht in taken en bevoegdheden van provinciale besturen, wijkt van het bepaalde in deze wet niet af dan wanneer dat bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
+1. Een wet waarbij van provinciebesturen regeling of bestuur wordt gevorderd of waarbij in betekenende mate wijziging wordt gebracht in taken en bevoegdheden van provinciebesturen, wijkt van het bepaalde in deze wet niet af dan wanneer dat bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
 2. Het voorstel voor een wet als bedoeld in het eerste lid bevat in de bijbehorende toelichting de gronden voor de voorgestelde afwijking.
 
 ##### Artikel 114
 
-1. Onze Minister is belast met de coördinatie van het rijksbeleid dat de provincies raakt. Hij bevordert voorts de beleidsvrijheid van het provinciaal bestuur.
+1. Onze Minister is belast met de coördinatie van het rijksbeleid dat de provincies raakt. Hij bevordert voorts de beleidsvrijheid van het provinciebestuur.
 
 2. Over maatregelen en voornemens die van betekenis zijn voor het rijksbeleid inzake de provincies treden Onze Ministers onder wier verantwoordelijkheid die maatregelen en voornemens tot stand komen in een vroegtijdig stadium in overleg met Onze Minister.
 
@@ -979,17 +1005,15 @@ Onze Minister wie het aangaat biedt het provinciaal bestuur desgevraagd de geleg
 
 1. Onze Minister bevordert de decentralisatie ten behoeve van de provincies.
 
-2. Onverminderd het bepaalde in [artikel 117, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=117) (**Stb.** 1992, 96), worden voorstellen van maatregelen waarbij bepaalde aangelegenheden tot rijksbeleid worden gerekend slechts gedaan indien het onderwerp van zorg niet op doelmatige en doeltreffende wijze door de provinciale besturen kan worden behartigd.
+2. Onverminderd het bepaalde in [artikel 117, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=117) (**Stb.** 1992, 96), worden voorstellen van maatregelen waarbij bepaalde aangelegenheden tot rijksbeleid worden gerekend slechts gedaan indien het onderwerp van zorg niet op doelmatige en doeltreffende wijze door de provinciebesturen kan worden behartigd.
 
 ##### Artikel 116
 
-1. Over al hetgeen de provincie betreft dient het provinciaal bestuur Onze Ministers desgevraagd van bericht en raad.
-
-2. Het dienen van bericht en raad geschiedt door gedeputeerde staten, tenzij het uitdrukkelijk van provinciale staten of van de commissaris van de Koning wordt verlangd.
+Over al hetgeen de provincie betreft dienen gedeputeerde staten Onze Ministers desgevraagd van bericht en raad, tenzij dit uitdrukkelijk van de commissaris van de Koning wordt verlangd.
 
 ##### Artikel 117
 
-1. Bij de wet of krachtens de wet bij algemene maatregel van bestuur worden de gevallen geregeld waarin het provinciaal bestuur verplicht is tot het verstrekken van systematische informatie aan Onze Minister wie het aangaat. Daarbij kan worden bepaald dat bij ministeriële regeling nadere voorschriften worden gegeven ten behoeve van de toepassing van de wet of de algemene maatregel van bestuur.
+1. Bij de wet of krachtens de wet bij algemene maatregel van bestuur worden de gevallen geregeld waarin gedeputeerde staten verplicht zijn tot het verstrekken van systematische informatie aan Onze Minister wie het aangaat. Daarbij kan worden bepaald dat bij ministeriële regeling nadere voorschriften worden gegeven ten behoeve van de toepassing van de wet of de algemene maatregel van bestuur.
 
 2. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Economische Zaken, na overleg met Onze Minister, kan worden bepaald dat in die maatregel te omschrijven gegevens ten behoeve van statistische doeleinden aan het Centraal Bureau voor de Statistiek worden verstrekt.
 
@@ -1007,29 +1031,29 @@ De bevoegdheid tot het maken van provinciale verordeningen blijft ten aanzien va
 
 De bepalingen van provinciale verordeningen in wier onderwerp door een wet of een algemene maatregel van bestuur wordt voorzien, zijn van rechtswege vervallen.
 
-#### § 2. Verhouding tot het Rijk
+#### § 1. Algemene bepalingen
 
 ##### Artikel 120
 
-Wanneer provinciale staten of, indien aan een commissie bevoegdheden van provinciale staten of van gedeputeerde staten zijn overgedragen, de commissie bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorzien gedeputeerde staten daarin.
+Wanneer provinciale staten of, indien aan een bestuurscommissie bevoegdheden van provinciale staten of van gedeputeerde staten zijn overgedragen, de commissie bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorzien gedeputeerde staten daarin.
 
 ##### Artikel 121
 
-1. Wanneer gedeputeerde staten of de commissaris van de Koning bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorziet Onze Minister daarin namens het provinciaal bestuur en ten laste van de provincie.
+1. Wanneer gedeputeerde staten of de commissaris van de Koning bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorziet Onze Minister daarin namens gedeputeerde staten of de commissaris van de Koning en ten laste van de provincie.
 
 2. Spoedeisende gevallen uitgezonderd, vindt het eerste lid geen toepassing dan nadat gedeputeerde staten, onderscheidenlijk de commissaris in de gelegenheid zijn gesteld binnen een door Onze Minister gestelde termijn alsnog de bij of krachtens een andere dan deze wet gevorderde beslissingen te nemen.
 
-#### § 4. Bestuursdwang
+#### § 2. De secretaris
 
 ##### Artikel 122
 
-1. Het provinciaal bestuur is bevoegd tot toepassing van bestuursdwang.
+1. Het provinciebestuur is bevoegd tot toepassing van bestuursdwang.
 
-2. De bevoegdheid tot toepassing van bestuursdwang wordt uitgeoefend door gedeputeerde staten, indien de toepassing van bestuursdwang dient tot handhaving van regels welke het provinciaal bestuur uitvoert.
+2. De bevoegdheid tot toepassing van bestuursdwang wordt uitgeoefend door gedeputeerde staten, indien de toepassing van bestuursdwang dient tot handhaving van regels welke het provinciebestuur uitvoert.
 
 3. De bevoegdheid tot toepassing van bestuursdwang wordt evenwel uitgeoefend door de commissaris van de Koning, indien de toepassing van bestuursdwang dient tot handhaving van regels welke hij uitvoert.
 
-4. Een commissie waaraan bevoegdheden van provinciale staten of gedeputeerde staten zijn overgedragen, bezit de bevoegdheid tot toepassing van bestuursdwang en de bevoegdheid tot het geven van een machtiging tot binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is overgedragen.
+4. Een bestuurscommissie waaraan bevoegdheden van provinciale staten of gedeputeerde staten zijn overgedragen, bezit de bevoegdheid tot toepassing van bestuursdwang en de bevoegdheid tot het geven van een machtiging tot binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is overgedragen.
 
 ##### Artikel 123
 
@@ -1069,7 +1093,7 @@ Vervallen
 
 ##### Artikel 132
 
-1. In geval van toepassing van artikel 121 kan Onze Minister bestuursdwang toepassen namens het provinciaal bestuur en ten laste van de provincie.
+1. In geval van toepassing van artikel 121 kan Onze Minister bestuursdwang toepassen namens het provinciebestuur en ten laste van de provincie.
 
 2. De provincie heeft in dat geval voor het bedrag van de te haren laste gebrachte kosten verhaal op de overtreder.
 
@@ -1087,11 +1111,11 @@ Vervallen
 
 Vervallen
 
-#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 1. Inleidende bepalingen
 
 ##### Artikel 136
 
-1. Besluiten van het provinciaal bestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt.
+1. Besluiten van het provinciebestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt.
 
 2. De bekendmaking geschiedt door plaatsing in het provinciaal blad, dat algemeen verkrijgbaar wordt gesteld.
 
@@ -1099,11 +1123,11 @@ Vervallen
 
 ##### Artikel 137
 
-Besluiten van het provinciaal bestuur die algemeen verbindende voorschriften inhouden, liggen voor een ieder kosteloos ter inzage op het provinciehuis of op een andere door provinciale staten te bepalen plaats.
+Besluiten van het provinciebestuur die algemeen verbindende voorschriften inhouden, liggen voor een ieder kosteloos ter inzage op het provinciehuis of op een andere door provinciale staten te bepalen plaats.
 
 ##### Artikel 138
 
-Een ieder kan op zijn verzoek een afschrift verkrijgen van de besluiten van het provinciaal bestuur die ingevolge artikel 137 ter inzage liggen.
+Een ieder kan op zijn verzoek een afschrift verkrijgen van de besluiten van het provinciebestuur die ingevolge artikel 137 ter inzage liggen.
 
 ##### Artikel 139
 
@@ -1113,7 +1137,7 @@ De bekendgemaakte besluiten treden in werking met ingang van de achtste dag na d
 
 Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschriften inhouden, is het bepaalde in de artikelen 136 en 139 van overeenkomstige toepassing.
 
-#### § 6. Termijnen
+#### § 2. Verhouding tot het Rijk
 
 ##### Artikel 141
 
@@ -1127,15 +1151,13 @@ Vervallen
 
 ##### Artikel 143
 
-1. Provinciale verordeningen worden door provinciale staten vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door provinciale staten krachtens de wet aan gedeputeerde staten of de commissaris van de Koning is toegekend.
+1. Provinciale verordeningen worden door provinciale staten vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door provinciale staten krachtens de wet aan gedeputeerde staten of de commissaris van de Koning is toegekend. Provinciale staten stellen geen verordening vast waarin algemeen verbindende voorschriften zijn opgenomen dan nadat zij gedeputeerde staten in de gelegenheid hebben gesteld hun wensen en bedenkingen ter kennis van provinciale staten te brengen.
 
 2. De overige bevoegdheden, bedoeld in artikel 105, berusten bij provinciale staten voor zover deze niet bij of krachtens de wet aan gedeputeerde staten of de commissaris van de Koning zijn toegekend.
 
 ##### Artikel 144
 
-1. Provinciale staten kunnen bij verordening beleidsregels vaststellen waarmee andere organen van de provincie rekening houden bij de uitoefening van bij of krachtens de wet verleende bevoegdheden.
-
-2. Ten aanzien van de bekendmaking van een verordening als bedoeld in het eerste lid, zijn de artikelen 136, 137 en 138 van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 145
 
@@ -1163,11 +1185,11 @@ Provinciale staten maken de verordeningen die zij in het belang van de provincie
 
 ##### Artikel 148
 
-Provinciale staten kunnen in hun verordeningen beroep op zich openstellen van krachtens deze verordeningen door gedeputeerde staten of de commissaris van de Koning genomen besluiten.
+Vervallen
 
 ##### Artikel 149
 
-Indien beroep op provinciale staten openstaat, geschiedt de voorbereiding van de beslissing van provinciale staten op het beroepschrift door een door provinciale staten te benoemen commissie. In deze commissie heeft geen lid van gedeputeerde staten zitting. Artikel 168 is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 150
 
@@ -1177,43 +1199,33 @@ Indien beroep op provinciale staten openstaat, geschiedt de voorbereiding van de
 
 ##### Artikel 151
 
-1. Provinciale staten besluiten slechts tot het oprichten van en deelnemen in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen indien dat bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
+1. Een lid van provinciale staten kan gedeputeerde staten of de commissaris van de Koning mondeling of schriftelijk vragen stellen.
 
-2. Het besluit behoeft de goedkeuring van Onze Minister.
-
-De goedkeuring kan slechts worden onthouden wegens:
-
-- a. strijd met het bepaalde in het eerste lid of anderszins strijd met het recht;
-
-- b. andere dringende redenen.
+2. Een lid van provinciale staten kan provinciale staten verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=19&z=2003-03-12&g=2003-03-12), om gedeputeerde staten of de commissaris van de Koning hierover inlichtingen te vragen. Provinciale staten stellen hierover nadere regels.
 
 ##### Artikel 152
 
-1. Provinciale staten kunnen aan gedeputeerde staten en aan een commissie als bedoeld in artikel 80 bevoegdheden van provinciale staten overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
+1. Provinciale staten kunnen aan gedeputeerde staten en aan een door hen ingestelde bestuurscommissie bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet
 
-2. Daarbij kan niet worden overgedragen de bevoegdheid tot:
+2. Provinciale staten kunnen in ieder geval niet overdragen de bevoegdheid tot:
 
-- a. de opheffing en instelling van waterschappen, de regeling van hun taken en inrichting, alsmede de samenstelling van hun besturen;
+- a. de instelling van een onderzoek als bedoeld in [artikel 151a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2003-03-12&g=2003-03-12);
 
-- b. het vaststellen of wijzigen van de begroting, bedoeld in artikel 193;
+- b. de vaststelling of wijziging van de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12);
 
-- c. het vaststellen van de jaarrekening als bedoeld in artikel 201;
+- c. de vaststelling van de jaarrekening, bedoeld in [artikel 202](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2003-03-12&g=2003-03-12);
 
-- d. het stellen van straf op overtreding van provinciale verordeningen;
+- d. het stellen van straf op overtreding van de provinciale verordeningen;
 
-- e. het vaststellen van regels met betrekking tot de organisatie van de administratie en het beheer van vermogenswaarden van de provincie, bedoeld in artikel 216;
+- e. de vaststelling van de verordeningen, bedoeld in de [artikelen 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2003-03-12&g=2003-03-12), [217, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12) en [217a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2003-03-12&g=2003-03-12);
 
-- f. het vaststellen van regels met betrekking tot de controle op de administratie en het beheer van vermogenswaarden van de provincie, bedoeld in artikel 217;
+- f. de aanwijzing van een of meer accountants, bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12);
 
-- g. het heffen van andere belastingen dan de rechten, bedoeld in artikel 221, onderdeel **b**, en de rechten waarvan de heffing krachtens andere wetten dan deze geschiedt.
+- g. de heffing van andere belastingen dan de rechten, bedoeld in [artikel 223, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=223&z=2003-03-12&g=2003-03-12), en de rechten waarvan de heffing krachtens andere wetten dan deze wet geschiedt.
 
-3. De bevoegdheid tot het maken van verordeningen, door strafbepaling of bestuursdwang te handhaven, kunnen provinciale staten slechts delegeren voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hen in hun verordeningen aangewezen onderwerpen.
+3. De bevoegdheid tot het vaststellen van verordeningen, door strafbepaling of bestuursdwang te handhaven, kunnen provinciale staten slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hen in hun verordeningen aangewezen onderwerpen.
 
-4. De bevoegdheid tot het houden van toezicht op een ander publiekrechtelijk lichaam kunnen provinciale staten slechts overdragen aan gedeputeerde staten.
-
-5. Ten aanzien van een besluit als bedoeld in het eerste lid zijn de artikelen 136, 137 en 138 van overeenkomstige toepassing.
-
-6. Het bepaalde in het tweede lid, onderdeel d, en het derde lid is niet van toepassing op een commissie als bedoeld in artikel 85.
+4. De [artikelen 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=137&z=2003-03-12&g=2003-03-12) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=138&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
 
 ##### Artikel 153
 
@@ -1223,7 +1235,7 @@ De goedkeuring kan slechts worden onthouden wegens:
 
 ##### Artikel 154
 
-Provinciale staten hebben het toezicht op alle waterstaatswerken, voor zover de wet het toezicht over bepaalde werken niet aan anderen heeft opgedragen. De eerste volzin is niet van toepassing op waterstaatswerken in beheer bij het Rijk.
+Vervallen
 
 ##### Artikel 155
 
@@ -1239,43 +1251,59 @@ Verordeningen, geheel of in hoofdzaak de waterstaat betreffende, worden gezonden
 
 ##### Artikel 157
 
-Provinciale staten stellen een verordening vast omtrent de ambtelijke organisatie in de provincie.
+Vervallen
 
 ### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
 
 ##### Artikel 158
 
-Het dagelijks bestuur van de provincie berust bij gedeputeerde staten voor zover niet bij of krachtens de wet de commissaris van de Koning hiermee is belast.
+1. Gedeputeerde staten zijn in ieder geval bevoegd:
+
+- a. het dagelijks bestuur van de provincie te voeren, voor zover niet bij of krachtens de wet provinciale staten of de commissaris van de Koning hiermee zijn belast;
+
+- b. beslissingen van provinciale staten voor te bereiden en uit te voeren, tenzij bij of krachtens de wet de commissaris hiermee is belast;
+
+- c. regels vast te stellen over de ambtelijke organisatie van de provincie, met uitzondering van de organisatie van de griffie;
+
+- d. ambtenaren, niet zijnde de griffier en de op de griffie werkzame ambtenaren, te benoemen, te schorsen en te ontslaan;
+
+- e. tot privaatrechtelijke rechtshandelingen van de provincie te besluiten;
+
+- f. te besluiten rechtsgedingen, bezwaarprocedures of administratief beroepsprocedures namens de provincie of het provinciebestuur te voeren, of handelingen ter voorbereiding daarop te verrichten, tenzij provinciale staten, voorzover het hen aangaat, in voorkomende gevallen anders beslissen;
+
+- g. toezicht te houden op waterstaatswerken, voor zover niet bij de wet het toezicht aan anderen is opgedragen of de waterstaatswerken in beheer zijn bij het Rijk;
+
+- h. ten aanzien van de voorbereiding van de civiele verdediging.
+
+2. Gedeputeerde staten besluiten slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang. Het besluit wordt niet genomen dan nadat provinciale staten een ontwerp-besluit is toegezonden en in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van gedeputeerde staten te brengen.
+
+3. Een besluit als bedoeld in het tweede lid behoeft de goedkeuring van Onze Minister. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
+
+4. Gedeputeerde staten nemen, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doen wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
 
 ##### Artikel 159
 
-Gedeputeerde staten zijn belast met de voorbereiding van alles waarover in de vergadering van provinciale staten zal worden beraadslaagd en besloten.
+Vervallen
 
 ##### Artikel 160
 
-Gedeputeerde staten zijn belast met de uitvoering van de beslissingen van provinciale staten, tenzij bij of krachtens de wet de commissaris van de Koning hiermee is belast.
+Vervallen
 
 ##### Artikel 161
 
-Onverminderd het bepaalde bij of krachtens andere wetten dragen gedeputeerde staten zorg dat de voorbereiding van de civiele verdediging door de provincie naar behoren geschiedt.
+Vervallen
 
 ##### Artikel 162
 
-1. Gedeputeerde staten nemen, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doen wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
-
-2. Gedeputeerde staten zijn bevoegd, tenzij provinciale staten daaromtrent in voorkomende gevallen een beslissing hebben genomen, tot het procederen in kort geding en tot voeging in strafzaken als bedoeld in [artikel 51a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a).
-
-3. Gedeputeerde staten zijn bevoegd, indien ingevolge wettelijk voorschrift aan de provincie of aan het provinciaal bestuur hetzij een recht van beroep hetzij een recht bezwaar te maken toekomt, spoedshalve beroep in te stellen of bezwaar in te brengen alsmede, voor zover de voorschriften dat toelaten, schorsing van het aangevochten besluit of een voorlopige voorziening ter zake te verzoeken.
-
-4. Het ingestelde beroep of het gemaakte bezwaar wordt ingetrokken, indien provinciale staten de beslissing van gedeputeerde staten tot het instellen van beroep of het maken van bezwaar niet hetzij in hun eerstvolgende vergadering, hetzij binnen drie maanden bekrachtigen.
+Vervallen
 
 ##### Artikel 163
 
-1. Provinciale staten kunnen, op voorstel van gedeputeerde staten, aan een commissie als bedoeld in artikel 80 bevoegdheden van gedeputeerde staten overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
+1. Gedeputeerde staten kunnen aan een door hen ingestelde bestuurscommissie bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
-2. De bevoegdheid tot het geven van een betalingsopdracht kan alleen uitdrukkelijk worden overgedragen.
+2. De [artikelen 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=137&z=2003-03-12&g=2003-03-12) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=138&z=2003-03-12&g=2003-03-12) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
 
-3. Ten aanzien van een besluit als bedoeld in het eerste lid zijn de artikelen 136, 137 en 138 van overeenkomstige toepassing.
+3. Gedeputeerde staten nemen geen besluit op grond van het eerste lid dan nadat provinciale staten een ontwerpbesluit is toegezonden en in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van gedeputeerde staten te brengen.
 
 ##### Artikel 164
 
@@ -1297,9 +1325,15 @@ Vervallen
 
 ##### Artikel 167
 
-1. De leden van gedeputeerde staten zijn, te zamen en ieder afzonderlijk, aan provinciale staten verantwoording verschuldigd voor het door hen gevoerde bestuur.
+1. Gedeputeerde staten en elk van hun leden afzonderlijk zijn aan provinciale staten verantwoording schuldig over het door hen gevoerde bestuur.
 
-2. Zij geven provinciale staten mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen waarvan het verstrekken niet in strijd is met het openbaar belang.
+2. Zij geven provinciale staten alle inlichtingen die provinciale staten voor de uitoefening van hun taak nodig hebben.
+
+3. Zij geven provinciale staten mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
+
+4. Zij geven provinciale staten vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 158, eerste lid, onder e, f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2003-03-12&g=2003-03-12), indien provinciale staten daarom verzoeken of indien de uitoefening ingrijpende gevolgen kan hebben voor de provincie. In het laatste geval nemen gedeputeerde staten geen besluit dan nadat provinciale staten hun wensen en bedenkingen terzake ter kennis van gedeputeerde staten hebben kunnen brengen.
+
+5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 158, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=X&artikel=158&z=2003-03-12&g=2003-03-12), geen uitstel kan leiden, geven zij in afwijking van het vierde lid provinciale staten zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
 
 ##### Artikel 168
 
@@ -1319,7 +1353,7 @@ Een door provinciale staten te maken verordening regelt de behandeling door gede
 
 ##### Artikel 170
 
-Artikel 169 is eveneens van toepassing in die gevallen waarvoor het provinciaal bestuur een behandeling op de voet van de verordening, bedoeld in artikel 168 heeft voorgeschreven.
+Artikel 169 is eveneens van toepassing in die gevallen waarvoor het provinciebestuur een behandeling op de voet van de verordening, bedoeld in artikel 168 heeft voorgeschreven.
 
 ##### Artikel 171
 
@@ -1365,7 +1399,25 @@ Gedeputeerde staten trachten alle geschillen tussen in hun provincie gevestigde 
 
 ##### Artikel 175
 
-De commissaris van de Koning bevordert een goede behartiging van de zaken van de provincie.
+1. De commissaris ziet toe op:
+
+- a. een tijdige voorbereiding, vaststelling en uitvoering van het provinciaal beleid en van de daaruit voortvloeiende besluiten, alsmede op een goede afstemming tussen degenen die bij de voorbereiding, vaststelling en uitvoering zijn betrokken;
+
+- b. een goede samenwerking van de provincie met andere provincies en andere overheden;
+
+- c. de kwaliteit van procedures op het vlak van burgerparticipatie;
+
+- d. een zorgvuldige behandeling van bezwaarschriften;
+
+- e. een zorgvuldige behandeling van klachten door het provinciebestuur.
+
+2. De commissaris brengt tegelijk met de in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2003-03-12&g=2003-03-12) bedoelde stukken een burgerjaarverslag uit, waarin hij in ieder geval rapporteert over:
+
+- a. de kwaliteit van de provinciale dienstverlening;
+
+- b. zijn bevindingen over het eerste lid, onder c.
+
+3. De commissaris bevordert overigens een goede behartiging van de provinciale aangelegenheden.
 
 ##### Artikel 176
 
@@ -1383,9 +1435,11 @@ Vervallen
 
 ##### Artikel 179
 
-1. De commissaris is aan provinciale staten verantwoording verschuldigd voor het door hem gevoerde bestuur.
+1. De commissaris is aan provinciale staten verantwoording schuldig over het door hem gevoerde bestuur.
 
-2. Hij geeft provinciale staten mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen waarvan het verstrekken niet in strijd is met het openbaar belang.
+2. Hij geeft provinciale staten alle inlichtingen die zij nodig hebben voor de uitoefening van hun taak.
+
+3. Hij geeft provinciale staten mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
 
 ##### Artikel 180
 
@@ -1399,13 +1453,13 @@ Indien een besluit van de burgemeester van een gemeente in zijn provincie naar h
 
 1. De commissaris is, volgens regels te stellen bij een door de regering gegeven ambtsinstructie, belast met:
 
-- a. het bevorderen van de samenwerking tussen de in de provincie werkzame rijksambtenaren onderling en met het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen;
+- a. het bevorderen van de samenwerking tussen de in de provincie werkzame rijksambtenaren onderling en met het provinciebestuur, de gemeentebesturen en de waterschapsbesturen;
 
 - b. het regelmatig bezoeken van de gemeenten in de provincie;
 
 - c. het uitbrengen van adviezen aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in artikel 116, eerste lid;
 
-- d. de coördinatie van de voorbereiding van de civiele verdediging door de in de provincie werkzame rijksambtenaren, het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen;
+- d. de coördinatie van de voorbereiding van de civiele verdediging door de in de provincie werkzame rijksambtenaren, het provinciebestuur, de gemeentebesturen en de waterschapsbesturen;
 
 - e. de bewaring en registratie van aan hem gerichte stukken, verband houdende met zijn ambtsinstructie.
 
@@ -1415,7 +1469,7 @@ Indien een besluit van de burgemeester van een gemeente in zijn provincie naar h
 
 4. Een krachtens het derde lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-5. De artikelen 79, 144 en 179 zijn niet van toepassing op de uitvoering van de ambtsinstructie.
+5. De [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IV&artikel=79&z=2003-03-12&g=2003-03-12) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XI&artikel=179&z=2003-03-12&g=2003-03-12) zijn niet van toepassing op de uitvoering van de ambtsinstructie.
 
 ## Titel IV. De financiën van de provincie
 
@@ -1423,19 +1477,43 @@ Indien een besluit van de burgemeester van een gemeente in zijn provincie naar h
 
 ##### Artikel 183
 
-Vervallen
+1. De rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door het provinciebestuur gevoerde bestuur. Een door de rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door het provinciebestuur gevoerde bestuur bevat geen controle van de jaarrekening als bedoeld in [artikel 217, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12).
+
+2. Op verzoek van provinciale staten kan de rekenkamer een onderzoek instellen
 
 ##### Artikel 184
 
-Vervallen
+1. De rekenkamer is bevoegd alle documenten die berusten bij het provinciebestuur te onderzoeken voor zover zij dat ter vervulling van haar taak nodig acht.
+
+2. Het provinciebestuur verstrekt desgevraagd alle inlichtingen die de rekenkamer ter vervulling van haar taak nodig acht.
+
+3. Indien de zorg voor de administratie aan een derde is uitbesteed, is het eerste lid van overeenkomstige toepassing op de administratie van de betrokken derde dan wel van degene die de administratie in opdracht van de derde voert.
 
 ##### Artikel 185
 
-Vervallen
+1. De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode:
+
+- a. openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen waaraan de provincie deelneemt, over de jaren dat de provincie deelneemt in de regeling;
+
+- b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;
+
+- c. andere privaatrechtelijke rechtspersonen waaraan de provincie of een derde voor rekening en risico van de provincie rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.
+
+2. De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het provinciebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.
+
+3. Indien de documenten, bedoeld in het tweede lid, daartoe aanleiding geven, kan de rekenkamer bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen. De rekenkamer stelt provinciale staten en gedeputeerde staten van haar voornemen een dergelijk onderzoek in te stellen in kennis.
 
 ##### Artikel 186
 
-Vervallen
+1. De rekenkamer legt haar bevindingen en haar oordeel vast in rapporten, met dien verstande dat hierin niet worden opgenomen gegevens en bevindingen die naar hun aard vertrouwelijk zijn.
+
+2. De rekenkamer deelt aan provinciale staten, aan gedeputeerde staten, en, indien van toepassing, aan de betrokken instelling, de opmerkingen en bedenkingen mee die zij naar aanleiding van haar bevindingen van belang acht. Aan provinciale staten of gedeputeerde staten kan zij ter zake voorstellen doen.
+
+3. De rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar.
+
+4. De rekenkamer zendt een afschrift van haar rapporten en haar verslag aan provinciale staten en gedeputeerde staten. Indien zij met toepassing van artikel 185 een onderzoek heeft ingesteld, zendt de rekenkamer tevens een afschrift van het rapport aan de betrokken instelling.
+
+5. De rapporten en de verslagen van de rekenkamer zijn openbaar.
 
 ##### Artikel 187
 
@@ -1459,11 +1537,7 @@ Aan de provincies kunnen slechts bij of krachtens de wet uitgaven worden opgeleg
 
 ##### Artikel 192
 
-De provinciale besturen zenden aan Onze Minister hun besluiten binnen twee weken na de vaststelling daarvan, betreffende:
-
-- a. het aangaan van geldleningen en rekening-courant-overeenkomsten;
-
-- b. het uitlenen van gelden en het waarborgen van geldelijke verplichtingen, door anderen aan te gaan.
+Vervallen
 
 ### Hoofdstuk XIII. De begroting en de jaarrekening
 
@@ -1519,7 +1593,7 @@ Verplichte uitgaven van de provincie zijn:
 
 ##### Artikel 199
 
-Onze Minister draagt zo nodig aan de bevoegde provinciale ambtenaar bedoeld in artikel 216, tweede lid, de betaling op ten laste van de provincie van hetgeen als verplichte uitgaaf op de begroting is gebracht.
+Onze Minister draagt zo nodig aan de bevoegde provinciale ambtenaar de betaling op ten laste van de provincie van hetgeen als verplichte uitgaaf op de begroting is gebracht.
 
 ##### Artikel 200
 
@@ -1529,59 +1603,53 @@ Vervallen
 
 ##### Artikel 201
 
-1. Gedeputeerde staten leggen aan provinciale staten over elk begrotingsjaar verantwoording af van het gevoerde financieel beheer onder overlegging van de jaarrekening en het jaarverslag.
+1. Gedeputeerde staten leggen aan provinciale staten over elk begrotingsjaar verantwoording af over het door hen gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
 
-2. Zij voegen daarbij een verslag als bedoeld in artikel 217, tweede lid.
+2. Gedeputeerde staten voegen daarbij de accountantsverklaring, bedoeld in [artikel 217, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12), het verslag van bevindingen, bedoeld in [artikel 217, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12), en de verslagen, bedoeld in [artikel 217a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2003-03-12&g=2003-03-12).
 
-3. De jaarrekening en de verslagen liggen, zodra zij aan provinciale staten zijn overgelegd, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. Provinciale staten beraadslagen over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
+3. De in het eerste en tweede lid bedoelde stukken liggen, zodra zij aan provinciale staten zijn overgelegd, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. Provinciale staten beraadslagen over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
 
 ##### Artikel 202
 
-1. Provinciale staten stellen de jaarrekening vast in het jaar volgend op het begrotingsjaar.
+1. Provinciale staten stellen de jaarrekening vast in het jaar volgend op het begrotingsjaar. De jaarrekening betreft alle baten en lasten van de provincie.
 
-2. Provinciale staten kunnen uitgaven die te kwader trouw zijn geboekt op een post waarmee zij niet overeenstemmen of die anderszins niet rechtmatig zijn gedaan, buiten de jaarrekening laten.
+2. Indien provinciale staten tot het oordeel komen dat uitgaven die in de jaarrekening zijn opgenomen niet rechtmatig zijn gedaan, wordt dit standpunt terstond ter kennis gebracht van gedeputeerde staten met vermelding van de gerezen bedenkingen.
 
-3. De leden van gedeputeerde staten nemen niet deel aan de stemmingen over besluiten als bedoeld in het eerste en tweede lid.
+3. Gedeputeerde staten zenden provinciale staten binnen twee maanden na ontvangst van het standpunt, bedoeld in het tweede lid, een voorstel voor een indemniteitsbesluit, vergezeld van een reactie op de bij provinciale staten gerezen bedenkingen.
+
+4. Indien gedeputeerde staten een voorstel voor een indemniteitsbesluit hebben gedaan, stellen provinciale staten de jaarrekening niet vast dan nadat zij hebben besloten over het voorstel.
 
 ##### Artikel 203
 
-Behoudens later in rechte gebleken onregelmatigheden, ontlast het besluit tot vaststelling van de jaarrekening de leden van gedeputeerde staten ten aanzien van het daarin verantwoorde financiële beheer.
+Behoudens later in rechte gebleken onregelmatigheden, ontlast de vaststelling van de jaarrekening de leden van gedeputeerde staten ten aanzien van het daarin verantwoorde financieel beheer.
 
 ##### Artikel 204
 
-1. Gedeputeerde staten zenden de door provinciale staten vastgestelde jaarrekening vergezeld van de in artikel 201 bedoelde verslagen binnen twee weken na vaststelling, doch in ieder geval vóór 15 september van het jaar volgend op het begrotingsjaar aan Onze Minister.
-
-2. Indien provinciale staten artikel 202, tweede lid, hebben toegepast, zenden gedeputeerde staten het desbetreffende besluit met de jaarrekening aan Onze Minister.
+Gedeputeerde staten zenden de vastgestelde jaarrekening, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2003-03-12&g=2003-03-12) bedoelde stukken, binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister. Gedeputeerde staten voegen daarbij, indien van toepassing, het besluit van provinciale staten over een voorstel voor een indemniteitsbesluit met de reactie van gedeputeerde staten, bedoeld in [artikel 202, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2003-03-12&g=2003-03-12).
 
 ##### Artikel 205
 
-1. Indien uitgaven niet in de vastgestelde jaarrekening zijn opgenomen, zijn de leden van gedeputeerde staten daarvoor, ieder voor een gelijk deel, persoonlijk aansprakelijk jegens de provincie, tenzij blijkt dat zij aan het besluit tot het doen van die uitgaven niet hebben meegewerkt.
-
-2. Gelijke aansprakelijkheid bestaat voor zover zij te kwader trouw hebben meegewerkt aan het niet of niet tijdig innen van vorderingen of andere aan de provincie toekomende gelden dan wel aan het overeenkomen van afstand van een vorderingsrecht waardoor de provincie schade heeft geleden.
-
-3. De provincie stelt, zo dikwijls daartoe volgens dit artikel termen zijn, zonder nadere beslissing van provinciale of gedeputeerde staten tot het voeren van een rechtsgeding, een rechtsvordering in tot betaling van de krachtens het eerste of tweede lid verschuldigde gelden. Provinciale staten wijzen iemand aan om de provincie in het rechtsgeding te vertegenwoordigen.
-
-4. Indien binnen een door Onze Minister gestelde termijn geen rechtsvordering is ingesteld, gaat Onze Minister namens en ten laste van de provincie daartoe over.
+Indien provinciale staten de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststellen, zenden gedeputeerde staten de jaarrekening, vergezeld van de overige in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2003-03-12&g=2003-03-12) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan Onze Minister.
 
 ##### Artikel 206
 
-Indien provinciale staten de jaarrekening, nadat deze door gedeputeerde staten overeenkomstig het bepaalde in artikel 201, eerste lid, aan provinciale staten is aangeboden, niet of niet naar behoren vaststellen, zenden gedeputeerde staten de jaarrekening vergezeld van de in artikel 201 bedoelde verslagen ter vaststelling aan Onze Minister.
+Vervallen
 
 #### § 3. Goedkeuring van de begroting
 
 ##### Artikel 207
 
-1. De begroting, bedoeld in artikel 193, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in artikel 193, niet in evenwicht is en blijkens de meerjarenraming, bedoeld in artikel 194, niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciaal bestuur.
+1. De begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), niet in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=194&z=2003-03-12&g=2003-03-12), niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciebestuur.
 
-2. Onze Minister kan bepalen dat de begroting, bedoeld in artikel 193, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen zijn goedkeuring behoeven, indien:
+2. Onze Minister kan bepalen dat de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen zijn goedkeuring behoeven, indien:
 
 - a. de jaarrekening van het tweede aan het begrotingsjaar voorafgaande jaar niet in evenwicht is, of
 
-- b. de begroting, bedoeld in artikel 193, niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 195, of
+- b. de begroting, bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=193&z=2003-03-12&g=2003-03-12), niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 195](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=195&z=2003-03-12&g=2003-03-12), of
 
-- c. de jaarrekening, bedoeld in artikel 202, eerste lid, van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 204, eerste lid.
+- c. de jaarrekening, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=202&z=2003-03-12&g=2003-03-12), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=204&z=2003-03-12&g=2003-03-12).
 
-3. Onze Minister maakt een besluit als bedoeld in het tweede lid voor de aanvang van het begrotingsjaar aan het provinciaal bestuur bekend.
+3. Onze Minister maakt een besluit als bedoeld in het tweede lid voor de aanvang van het begrotingsjaar aan het provinciebestuur bekend.
 
 4. De begroting behoeft geen goedkeuring indien Onze Minister geen mededeling doet als bedoeld in het eerste lid of geen besluit bekendmaakt als bedoeld in het tweede lid binnen de in het eerste respectievelijk derde lid genoemde termijn.
 
@@ -1605,15 +1673,15 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 212
 
-1. Indien de begroting of een besluit tot wijziging daarvan niet is goedgekeurd, behoeft het provinciaal bestuur tot het doen van uitgaven de toestemming van Onze Minister.
+1. Indien de begroting of een besluit tot wijziging daarvan niet is goedgekeurd, behoeft het provinciebestuur tot het doen van uitgaven de toestemming van Onze Minister.
 
-2. Een aanvraag van het provinciaal bestuur om toepassing van het eerste lid kan door Onze Minister slechts worden afgewezen wegens strijd met het recht of met het algemene financiële belang.
+2. Een aanvraag van het provinciebestuur om toepassing van het eerste lid kan door Onze Minister slechts worden afgewezen wegens strijd met het recht of met het algemene financiële belang.
 
 3. Onze Minister beslist op de aanvraag binnen twee maanden na de verzending van de aanvraag, bedoeld in het tweede lid. De toestemming wordt geacht te zijn verleend indien binnen deze termijn geen besluit aan het provinciale bestuur is verzonden.
 
 4. Onze Minister kan aan de toestemming voorschriften verbinden.
 
-5. Onze Minister kan bepalen voor welke posten en tot welk bedrag het provinciale bestuur de toestemming, bedoeld in het eerste lid, niet behoeft.
+5. Onze Minister kan bepalen voor welke posten en tot welk bedrag het provinciebestuur de toestemming, bedoeld in het eerste lid, niet behoeft.
 
 ##### Artikel 213
 
@@ -1631,37 +1699,55 @@ De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met h
 
 ##### Artikel 215
 
-Indien de begroting van een provincie ingevolge artikel 207, eerste of tweede lid, is onderworpen aan goedkeuring, kan Onze Minister bepalen dat door hem aan te wijzen beslissingen van het provinciaal bestuur die financiële gevolgen voor de provincie hebben of kunnen hebben, door het provinciaal bestuur binnen twee weken aan Onze Minister worden toegezonden.
+Indien de begroting van een provincie ingevolge [artikel 207, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=207&z=2003-03-12&g=2003-03-12), is onderworpen aan goedkeuring, kan Onze Minister bepalen dat door hem aan te wijzen beslissingen van het provinciebestuur die financiële gevolgen voor de provincie hebben of kunnen hebben, door gedeputeerde staten binnen twee weken aan Onze Minister worden toegezonden.
 
 ### Hoofdstuk XIV. De administratie en de controle
 
 ##### Artikel 216
 
-1. Provinciale staten stellen bij verordening regels vast met betrekking tot de organisatie van de administratie en van het beheer van vermogenswaarden van de provincie. Deze regels dienen te waarborgen dat aan de eisen van doelmatigheid en controle wordt voldaan.
+1. Provinciale staten stellen bij verordening de uitgangspunten voor het financiële beleid, alsmede de regels voor het financiële beheer en voor de inrichting van de financiële organisatie vast. De verordening waarborgt dat aan de eisen van rechtmatigheid, verantwoording en controle wordt voldaan.
 
-2. De administratie en het beheer, bedoeld in het eerste lid, worden verricht door de bij de in dat lid bedoelde regels aan te wijzen ambtenaren. Zij kunnen niet tevens griffier zijn.
+2. De verordening bevat in ieder geval:
 
-3. De regels, bedoeld in het eerste lid, voorzien in een financieringsstatuut, waarin in ieder geval regels zijn opgenomen ten aanzien van:
+- a. regels voor waardering en afschrijving van activa;
 
-- a. de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie;
+- b. grondslagen voor de berekening van door het provinciebestuur in rekening te brengen prijzen en tarieven voor rechten als bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=225&z=2003-03-12&g=2003-03-12);
 
-- b. de administratieve organisatie van de financieringsfunctie, waaronder begrepen taken en bevoegdheden, de verantwoordingsrelaties en de bijbehorende informatievoorziening.
+- c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie, alsmede inzake de administratieve organisatie van de financieringsfunctie, daaronder begrepen taken en bevoegdheden, de verantwoordingsrelaties en de bijbehorende informatievoorziening.
 
 ##### Artikel 217
 
-1. Provinciale staten stellen bij verordening regels vast met betrekking tot de controle op de administratie en op het beheer van vermogenswaarden van de provincie. Deze regels dienen onder meer te waarborgen dat de rechtmatigheid en de doelmatigheid van de administratie en het beheer worden getoetst.
+1. Provinciale staten stellen bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
 
-2. De regels, bedoeld in het eerste lid, voorzien in de aanwijzing van een of meer accountants als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met het onderzoek van de in artikel 201 bedoelde jaarrekening alsmede met het ter zake uitbrengen van een verslag, dat behalve de verklaring bij de jaarrekening bevindingen bevat over de vraag of de administratie en het beheer voldoen aan eisen van rechtmatigheid en doelmatigheid.
+2. Provinciale staten wijzen een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=201&z=2003-03-12&g=2003-03-12) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.
 
-3. Accountants als bedoeld in het tweede lid kunnen in provinciale dienst worden aangesteld. In dat geval worden zij door provinciale staten benoemd, geschorst en ontslagen. Artikel 98, tweede lid, is van overeenkomstige toepassing.
+3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
+
+- a. de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en de samenstelling van het vermogen;
+
+- b. de baten en lasten, alsmede de balansmutaties rechtmatig tot stand zijn gekomen en
+
+- c. de jaarrekening is opgesteld overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XII&artikel=190&z=2003-03-12&g=2003-03-12).
+
+4. Het verslag van bevindingen bevat in ieder geval bevindingen over:
+
+- a. de vraag of de inrichting van het financiële beheer en van de financiële organisatie een getrouwe en rechtmatige verantwoording mogelijk maken en
+
+- b. onrechtmatigheden in de jaarrekening.
+
+5. De accountant zendt de accountantsverklaring en het verslag van bevindingen aan provinciale staten en een afschrift daarvan aan gedeputeerde staten.
+
+6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de reikwijdte van en de verslaglegging omtrent de accountantscontrole, bedoeld in het tweede lid.
+
+7. Accountants als bedoeld in het tweede lid kunnen in provinciale dienst worden aangesteld en worden in dat geval door provinciale staten benoemd, geschorst en ontslagen.
 
 ##### Artikel 218
 
-Gedeputeerde staten zenden de verordeningen, bedoeld in de artikelen 216 en 217, binnen twee weken na vaststelling door provinciale staten aan Onze Minister.
+Gedeputeerde staten zenden de verordeningen, bedoeld in de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2003-03-12&g=2003-03-12), [217](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217&z=2003-03-12&g=2003-03-12) en [217a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=217a&z=2003-03-12&g=2003-03-12), binnen twee weken na vaststelling door provinciale staten aan Onze Minister.
 
 ##### Artikel 219
 
-Onze Minister kan te allen tijde een onderzoek instellen naar de wijze waarop de administratie en het beheer, bedoeld in artikel 216, eerste lid, worden gevoerd.
+Onze Minister kan te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 216, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=IV&hoofdstuk=XIV&artikel=216&z=2003-03-12&g=2003-03-12).
 
 ### Hoofdstuk XV. De provinciale belastingen
 
@@ -1725,7 +1811,7 @@ Ter zake van het hebben van voorwerpen onder, op of boven voor de openbare diens
 
 - a. het gebruik overeenkomstig de bestemming van voor de openbare dienst bestemde provinciale bezittingen of van de voor de openbare dienst bestemde werken of inrichtingen die bij de provincie in beheer of in onderhoud zijn;
 
-- b. het genot van door of vanwege het provinciaal bestuur verstrekte diensten.
+- b. het genot van door of vanwege het provinciebestuur verstrekte diensten.
 
 2. Voor de toepassing van dit hoofdstuk worden de in het eerste lid bedoelde rechten aangemerkt als provinciale belastingen.
 
@@ -2041,9 +2127,9 @@ Vervallen
 
 ##### Artikel 253
 
-1. Beslissingen van provinciale besturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet bepaalde gevallen.
+1. Beslissingen van provinciebesturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet bepaalde gevallen.
 
-2. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
+2. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn [artikel 259](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVII&artikel=259&z=2003-03-12&g=2003-03-12) alsmede [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
 
 ##### Artikel 254
 
@@ -2093,9 +2179,9 @@ Vervallen
 
 ##### Artikel 261
 
-1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het provinciaal bestuur kan bij koninklijk besluit worden vernietigd.
+1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het provinciebestuur kan bij koninklijk besluit worden vernietigd.
 
-2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing zijn de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](onbekend) van overeenkomstige toepassing.
+2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [artikelen 266 tot en met 274a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=V&hoofdstuk=XVIII&artikel=266&z=2003-03-12&g=2003-03-12) alsmede de [afdelingen 10.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
 ##### Artikel 262
 
@@ -2135,7 +2221,7 @@ Vervallen
 
 ##### Artikel 270
 
-Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het provinciaal bestuur openbaar kennis gegeven.
+Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het provinciebestuur openbaar kennis gegeven.
 
 ##### Artikel 271
 
@@ -2153,11 +2239,11 @@ Vervallen
 
 ##### Artikel 274
 
-Het provinciaal bestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden.
+Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden.
 
 ##### Artikel 274a
 
-1. In afwijking van [artikel 8:4, onderdeel **a**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 81, tweede lid, en 82, tweede lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. In afwijking van [artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 261, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel [83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=83&z=2003-03-12&g=2003-03-12), beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
 
 2. In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:2) kan geen beroep worden ingesteld tegen de weigering om de vernietiging van een besluit te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.
 
@@ -2309,31 +2395,109 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 35a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het aantal gedeputeerden bedraagt ten minste drie en ten hoogste zeven.
+
+2. Een gedeputeerde vervult een volledige functie.
+
+3. Provinciale staten kunnen besluiten dat een of meer van de gedeputeerden zijn functie in deeltijd vervult. In dat geval bedraagt het aantal gedeputeerden ten hoogste negen.
+
+4. Indien het derde lid toepassing vindt, stellen provinciale staten bij de benoeming van de gedeputeerden de tijdbestedingsnorm van elke gedeputeerde vast, met dien verstande dat de tijdbestedingsnorm van de gedeputeerden gezamenlijk in dat geval ten hoogste tien procent meer bedraagt dan de tijdbestedingsnorm van de gedeputeerden gezamenlijk zou hebben bedragen indien alle gedeputeerden een volledige functie zouden vervullen.
 
 ##### Artikel 35b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor het ambt van gedeputeerde gelden de vereisten voor het lidmaatschap van provinciale staten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=10&z=2003-03-12&g=2003-03-12).
+
+2. Provinciale staten kunnen voor de duur van ten hoogste een jaar ontheffing verlenen van het vereiste van ingezetenschap.
+
+3. Dezelfde persoon kan niet in meer dan één provincie gedeputeerde zijn.
 
 ##### Artikel 35c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een gedeputeerde is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. lid van provinciale staten;
+
+- i. lid van de rekenkamer;
+
+- j. lid van de raad van een gemeente;
+
+- k. burgemeester;
+
+- l. wethouder;
+
+- m. lid van een deelraad;
+
+- n. lid van het dagelijks bestuur van een deelgemeente;
+
+- o. lid van de rekenkamer van een in de betrokken provincie gelegen gemeente;
+
+- p. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt;
+
+- q. ambtenaar, door of vanwege het gemeentebestuur van een in de provincie gelegen gemeente aangesteld of daaraan ondergeschikt;
+
+- r. voorzitter van of lid van het bestuur van of ambtenaar in dienst van een in de provincie gelegen waterschap;
+
+- s. ambtenaar in dienst van een bij gemeenschappelijke regeling ingesteld lichaam waarvan een orgaan aan toezicht van gedeputeerde staten is onderworpen;
+
+- t. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
+
+- u. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het provinciebestuur van advies te dienen.
+
+2. In afwijking van het eerste lid, aanhef en onder h, kan een gedeputeerde tevens lid van provinciale staten zijn van de provincie waar hij gedeputeerde is gedurende het tijdvak dat:
+
+- a. aanvangt op de dag van de stemming van de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=III&artikel=41&z=2003-03-12&g=2003-03-12), aftreden, of
+
+- b. aanvangt op het tijdstip van zijn benoeming tot gedeputeerde en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van provinciale staten onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van provinciale staten met ingang van het tijdstip waarop hij zijn benoeming tot gedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
+
+3. In afwijking van het eerste lid, aanhef en onder p, kan een gedeputeerde tevens zijn vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
 
 ##### Artikel 40a
 
-Dit onderdeel is nog niet inwerking getreden
+Alvorens hun functie te kunnen uitoefenen leggen de gedeputeerden, in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+
+«Ik zweer (verklaar) dat ik, om tot gedeputeerde benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets uit dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als gedeputeerde naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)
 
 ##### Artikel 40b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een gedeputeerde vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt als gedeputeerde.
+
+2. Een gedeputeerde meldt zijn voornemen tot aanvaarding van een nevenfunctie aan provinciale staten.
+
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2003-03-12&g=2003-03-12) is van overeenkomstige toepassing op gedeputeerden.
 
 ##### Artikel 40c
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-03-12&g=2003-03-12), is van overeenkomstige toepassing op gedeputeerden.
+
+2. Provinciale staten stellen voor de gedeputeerden een gedragscode vast.
 
 ##### Artikel 53a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De commissaris van de Koning bevordert de eenheid van het beleid van gedeputeerde staten.
+
+2. De commissaris kan onderwerpen aan de agenda voor een vergadering van gedeputeerde staten toevoegen.
+
+3. De commissaris kan ten aanzien van geagendeerde onderwerpen een eigen voorstel aan gedeputeerde staten voorleggen.
 
 ### Hoofdstuk IV. De commissaris van de Koning
 
@@ -2347,7 +2511,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk V. De commissies
 
-### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
+### Hoofdstuk IVB. De rekenkamerfunctie
 
 ### Hoofdstuk VII. De griffier
 
@@ -2363,43 +2527,93 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
-#### § 6. Termijnen
+#### § 3. Bijzondere voorzieningen
 
 ### Hoofdstuk IX. De bevoegdheid van provinciale staten
 
 ##### Artikel 143a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een lid van provinciale staten kan een voorstel voor een verordening of een ander voorstel ter behandeling in provinciale staten indienen
+
+2. Provinciale staten regelen op welke wijze een voorstel voor een verordening wordt ingediend en behandeld.
+
+3. Provinciale staten regelen op welke wijze en onder welke voorwaarden een ander voorstel wordt ingediend en behandeld.
 
 ##### Artikel 143b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een lid van provinciale staten kan een voorstel tot wijziging van een voor de vergadering van provinciale staten geagendeerde ontwerp-verordening of ontwerp-beslissing indienen.
+
+2. Het tweede lid van artikel 143a is van overeenkomstige toepassing.
 
 ##### Artikel 151a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Provinciale staten kunnen op voorstel van een of meer van hun leden een onderzoek instellen naar het door gedeputeerde staten of de commissaris van de Koning gevoerde bestuur.
+
+2. Het besluit tot het instellen van een onderzoek omvat een omschrijving van het onderwerp van onderzoek alsmede een toelichting. Deze omschrijving kan hangende het onderzoek door provinciale staten worden gewijzigd.
+
+3. Het onderzoek wordt uitgevoerd door een door provinciale staten in te stellen onderzoekscommissie. De commissie heeft ten minste drie leden en bestaat uitsluitend uit leden van provinciale staten.
+
+4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=22&z=2003-03-12&g=2003-03-12), [80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-03-12&g=2003-03-12), en [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=91&z=2003-03-12&g=2003-03-12), zijn van overeenkomstige toepassing op een onderzoekscommissie.
+
+5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
+
+6. De bevoegdheden en werkzaamheden van een onderzoekscommissie worden niet geschorst door het aftreden van provinciale staten.
+
+7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van onderzoek zijn de [artikelen 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=137&z=2003-03-12&g=2003-03-12) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=138&z=2003-03-12&g=2003-03-12) van overeenkomstige toepassing.
+
+8. Alvorens provinciale staten besluiten tot een onderzoek, stellen zij bij verordening nadere regels met betrekking tot deze onderzoeken. In elk geval worden daarin regels opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de commissie.
 
 ##### Artikel 151b
 
-Dit onderdeel is nog niet inwerking getreden
+1. Leden en gewezen leden van provinciale staten, de commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van de door de provinciale staten ingestelde rekenkamer, leden en gewezen leden van een door provinciale staten of gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2003-03-12&g=2003-03-12) nodig is.
+
+2. Indien een vordering als bedoeld in het eerste lid betrekking heeft op bescheiden die afkomstig zijn van een instelling van de Europese Unie of van het Rijk en kennisneming van die bescheiden door de onderzoekscommissie het belang van de Europese Unie of van de Staat kan schaden, wordt niet dan met toestemming van Onze Minister aan de vordering voldaan.
+
+3. Ambtenaren, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 151a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151a&z=2003-03-12&g=2003-03-12) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
 
 ##### Artikel 151c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Personen als bedoeld in [artikel 151b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2003-03-12&g=2003-03-12), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
+
+2. Een getuige of deskundige die door de onderzoekscommissie wordt gehoord, is niet tevens lid van de onderzoekscommissie.
+
+3. De getuigen zijn verplicht getuigenis af te leggen.
+
+4. De deskundigen zijn verplicht hun diensten onpartijdig en naar beste weten als zodanig te verlenen
+
+5. De onderzoekscommissie kan besluiten dat getuigen uitsluitend worden verhoord na het afleggen van een eed of belofte. Zij leggen dan in de vergadering van de onderzoekscommissie, in handen van de voorzitter, de eed of belofte af dat zij de gehele waarheid en niets dan de waarheid zullen zeggen
+
+6. De getuigen en deskundigen worden in een openbare zitting van de onderzoekscommissie gehoord. Plaats en tijd van de openbare zitting worden door de voorzitter tijdig ter openbare kennis gebracht.
+
+7. De onderzoekscommissie kan om gewichtige redenen besluiten een verhoor of een gedeelte daarvan niet in het openbaar af te nemen. De leden en plaatsvervangende leden van de commissie bewaren geheimhouding over hetgeen hun tijdens een besloten zitting ter kennis komt.
+
+8. Een getuige is gerechtigd zich tijdens het verhoor te laten bijstaan. Om gewichtige redenen kan de commissie besluiten, dat een getuige zonder bijstand wordt gehoord.
+
+9. Verklaringen die zijn afgelegd voor de onderzoekscommissie kunnen, behalve in het geval van [artikel 207, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=207), niet als bewijs in rechte gelden.
 
 ##### Artikel 151d
 
-Dit onderdeel is nog niet inwerking getreden
+1. Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.
+
+2. De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.
+
+3. Op een beschikking als bedoeld in het eerste en het tweede lid is [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing.
 
 ##### Artikel 151e
 
-Dit onderdeel is nog niet inwerking getreden
+1. Niemand kan genoodzaakt worden aan de onderzoekscommissie geheimen te openbaren, voor zover daardoor onevenredige schade zou worden toegebracht aan het belang van de uitoefening van zijn beroep, dan wel aan het belang van zijn onderneming of de onderneming waarbij hij werkzaam is of is geweest.
+
+2. Zij die uit hoofde van hun ambt, beroep of betrekking tot geheimhouding verplicht zijn, kunnen zich verschonen getuigenis af te leggen, doch uitsluitend met betrekking tot hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd. Zij kunnen inzage, afschrift of kennisneming anderszins weigeren van bescheiden of gedeelten daarvan tot welke hun plicht tot geheimhouding zich uitstrekt.
+
+3. De commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van een door gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege gedeputeerde staten aangesteld of daaraan ondergeschikt, zijn niet verplicht aan [artikel 151b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2003-03-12&g=2003-03-12), en [artikel 151c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=IX&artikel=151c&z=2003-03-12&g=2003-03-12), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
+
+4. De onderzoekscommissie kan verlangen dat een beroep als bedoeld in het derde lid op strijd met het openbaar belang wordt bevestigd door gedeputeerde staten, of, voor zover de inlichtingen betrekking hebben op het door de commissaris van de Koning gevoerde bestuur, door de commissaris.
 
 ##### Artikel 151f
 
-Dit onderdeel is nog niet inwerking getreden
+Gedeputeerde staten nemen de door provinciale staten geraamde kosten voor een onderzoek in een bepaald jaar op in de ontwerp-begroting.
 
-### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
+### Hoofdstuk IX. De bevoegdheid van provinciale staten
 
 ### Hoofdstuk XI. De bevoegdheid van de commissaris van de Koning
 
@@ -2419,7 +2633,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 217a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Gedeputeerde staten verrichten periodiek onderzoek naar de doelmatigheid en de doeltreffendheid van het door hen gevoerde bestuur. Provinciale staten stellen bij verordening regels hierover.
+
+2. Gedeputeerde staten brengen schriftelijk verslag uit aan provinciale staten van de resultaten van het periodiek onderzoek.
+
+3. Gedeputeerde staten stellen de rekenkamer tijdig op de hoogte van de onderzoeken die zij doen instellen en zenden haar een afschrift van een verslag als bedoeld in het tweede lid.
 
 ### Hoofdstuk XV. De provinciale belastingen
 
@@ -2432,6 +2650,290 @@ Dit onderdeel is nog niet inwerking getreden
 ### Hoofdstuk XVI. Het Provinciefonds
 
 ## Titel V. AANVULLENDE BEPALINGEN INZAKE HET TOEZICHT OP HET PROVINCIAAL BESTUUR
+
+### Hoofdstuk XVII. Goedkeuring
+
+### Hoofdstuk XVIII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in artikel 291, tweede lid van de Provinciewet
+
+### Ministerie van Verkeer en Waterstaat
+
+### Ministerie van Landbouw, Natuurbeheer en Visserij
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Onderwijs en Wetenschappen
+
+### Ministerie van Binnenlandse Zaken
+
+Wet rampen en zware ongevallen, artikel 10
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 79a
+
+1. Provinciale staten kunnen een rekenkamer instellen.
+
+2. Indien provinciale staten een rekenkamer instellen, zijn de navolgende artikelen van dit hoofdstuk alsmede [hoofdstuk XIa](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XIA&z=2003-03-12&g=2003-03-12) van toepassing.
+
+3. Indien provinciale staten geen rekenkamer instellen is [hoofdstuk IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVB&z=2003-03-12&g=2003-03-12) van toepassing.
+
+##### Artikel 79b
+
+Provinciale staten stellen het aantal leden van de rekenkamer vast.
+
+##### Artikel 79c
+
+1. Provinciale staten benoemen de leden van de rekenkamer voor de duur van zes jaar.
+
+2. Indien de rekenkamer uit twee of meer leden bestaat, benoemen provinciale staten uit de leden de voorzitter.
+
+3. Provinciale staten kunnen plaatsvervangende leden benoemen. Indien de rekenkamer uit één lid bestaat, benoemen provinciale staten in ieder geval een plaatsvervangend lid. Deze paragraaf is op plaatsvervangende leden van overeenkomstige toepassing.
+
+4. Provinciale staten kunnen een lid herbenoemen.
+
+5. Voorafgaand aan de benoemingen, bedoeld in het eerste tot en met vierde lid, plegen provinciale staten overleg met de rekenkamer.
+
+6. Een lid van de rekenkamer wordt door provinciale staten ontslagen:
+
+- op eigen verzoek;
+
+- bij de aanvaarding van een functie die onverenigbaar is met het lidmaatschap;
+
+- indien hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- indien hij bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld;
+
+- indien hij naar het oordeel van provinciale staten ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
+
+7. Een lid van de rekenkamer kan door provinciale staten worden ontslagen:
+
+- indien hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
+
+- indien hij handelt in strijd met [artikel 79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2003-03-12&g=2003-03-12) juncto [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-03-12&g=2003-03-12).
+
+##### Artikel 79d
+
+1. Provinciale staten stellen een lid van de rekenkamer op non-activiteit indien:
+
+- hij zich in voorlopige hechtenis bevindt;
+
+- hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- hij onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
+
+2. Provinciale staten kunnen een lid van de rekenkamer op non-activiteit stellen, indien tegen hem een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 79c, zesde lid, onder a, en zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79c&z=2003-03-12&g=2003-03-12), zouden kunnen leiden.
+
+3. Provinciale staten beëindigen de non-activiteit zodra de grond voor de maatregel is vervallen, met dien verstande dat in een geval als bedoeld in het tweede lid de non-activiteit in ieder geval eindigt na zes maanden. In dat geval kunnen provinciale staten de maatregel telkens voor ten hoogste drie maanden verlengen.
+
+##### Artikel 79e
+
+[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=11&z=2003-03-12&g=2003-03-12) is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+##### Artikel 79f
+
+1. Een lid van de rekenkamer is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. lid van de provinciale staten;
+
+- h. commissaris van de Koning van de betrokken provincie;
+
+- i. gedeputeerde van de betrokken provincie;
+
+- j. burgemeester van een in de betrokken provincie gelegen gemeente;
+
+- k. wethouder van een in de betrokken provincie gelegen gemeente;
+
+- l. lid van een deelraad van een in de betrokken provincie gelegen deelgemeente;
+
+- m. lid van het dagelijks bestuur van een in de betrokken provincie gelegen deelgemeente;
+
+- n. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt;
+
+- o. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
+
+- p. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het provinciebestuur van advies te dienen.
+
+2. In afwijking van het eerste lid, aanhef en onder n, kan een lid van de rekenkamer tevens zijn vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
+
+##### Artikel 79g
+
+Alvorens hun functie uit te kunnen oefenen, leggen de leden van de rekenkamer in de vergadering van provinciale staten, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de rekenkamer naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!
+
+(«Dat verklaar en beloof ik!»)
+
+##### Artikel 79h
+
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=II&artikel=15&z=2003-03-12&g=2003-03-12), is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+##### Artikel 79i
+
+1. De rekenkamer stelt een reglement van orde voor haar werkzaamheden vast en, indien zij uit twee of meer leden bestaat, tevens voor haar vergaderingen.
+
+2. De rekenkamer zendt het reglement ter kennisneming aan provinciale staten en maakt het bekend op de wijze, bedoeld in [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=VIII&paragraaf=5&artikel=136&z=2003-03-12&g=2003-03-12).
+
+##### Artikel 79j
+
+1. Provinciale staten stellen, na overleg met de rekenkamer, de rekenkamer de nodige middelen ter beschikking voor een goede uitoefening van haar werkzaamheden.
+
+2. Op voordracht van de voorzitter of van het enige lid van de rekenkamer benoemen gedeputeerde staten zoveel ambtenaren van de rekenkamer als nodig zijn voor een goede uitoefening van haar werkzaamheden.
+
+3. De ambtenaren die werkzaamheden verrichten voor de rekenkamer, verrichten niet tevens werkzaamheden voor een ander orgaan van de provincie
+
+4. De ambtenaren, die werkzaamheden verrichten voor de rekenkamer, zijn ter zake van die werkzaamheden uitsluitend verantwoording schuldig aan de rekenkamer.
+
+##### Artikel 79k
+
+De leden van de rekenkamer ontvangen een bij verordening van provinciale staten vastgestelde vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.
+
+#### § 2. De gemeenschappelijke rekenkamer
+
+##### Artikel 79l
+
+In afwijking van [artikel 79a](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79a&z=2003-03-12&g=2003-03-12) kunnen provinciale staten met provinciale staten van een of meer andere provincies met toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=40) en [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=41), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), of met de raad of de raden van één of meer gemeenten, al dan niet met provinciale staten van één of meer andere provincies tezamen, met toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) een gemeenschappelijke rekenkamer instellen. De [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=43) en [54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=54) zijn niet van toepassing.
+
+##### Artikel 79m
+
+1. De [artikelen 79b tot en met 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2003-03-12&g=2003-03-12), [79h](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79h&z=2003-03-12&g=2003-03-12), [79i](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2003-03-12&g=2003-03-12), [79j, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2003-03-12&g=2003-03-12), zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de [artikelen 79b tot en met 79d](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79b&z=2003-03-12&g=2003-03-12), [79i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79i&z=2003-03-12&g=2003-03-12), en [79j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79j&z=2003-03-12&g=2003-03-12), voor «provinciale staten» telkens wordt gelezen «provinciale staten van de deelnemende provincies gezamenlijk» of, indien de rekenkamer mede is ingesteld door gemeenten, «provinciale staten en de raden van de deelnemende provincies en gemeenten gezamenlijk».
+
+2. [Artikel 79g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79g&z=2003-03-12&g=2003-03-12) is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «provinciale staten» wordt gelezen «provinciale staten van de provincie die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, zijn aangewezen» of, indien de rekenkamer mede is ingesteld door gemeenten, «provinciale staten van de provincie of de raad van de gemeente die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld zijn of is aangewezen».
+
+##### Artikel 79n
+
+Indien provinciale staten van één of meer provincies met de raad of raden van een of meer gemeenten een gemeenschappelijke rekenkamer instellen, is, onverminderd [artikel 79m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=2&artikel=79m&z=2003-03-12&g=2003-03-12), juncto [artikel 79f](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79f&z=2003-03-12&g=2003-03-12), een lid van de rekenkamer niet tevens:
+
+- a. burgemeester;
+
+- b. wethouder;
+
+- c. lid van de raad van een deelnemende gemeente;
+
+- d. lid van een deelraad van een deelnemende gemeente;
+
+- e. lid van het dagelijks bestuur van een deelraad van een deelnemende gemeente;
+
+- f. ambtenaar, door of vanwege het gemeentebestuur van een deelnemende gemeente aangesteld of daaraan ondergeschikt;
+
+- g. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op een deelnemende gemeente;
+
+- h. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het gemeentebestuur van een deelnemende gemeente van advies te dienen.
+
+##### Artikel 79o
+
+In de regeling waarbij de gemeenschappelijke rekenkamer wordt ingesteld, worden ten minste regels gesteld over:
+
+- de benoeming, op voordracht van de voorzitter of het enige lid van de rekenkamer, van de ambtenaren die nodig zijn voor een goede uitoefening van de werkzaamheden van de rekenkamer;
+
+- de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en de tegemoetkoming in de kosten.
+
+##### Artikel 79p
+
+1. Als geen rekenkamer is ingesteld als bedoeld in [hoofdstuk IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&z=2003-03-12&g=2003-03-12), stellen provinciale staten bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.
+
+2. De [artikelen 183](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XIA&artikel=183&z=2003-03-12&g=2003-03-12) en [186](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=III&hoofdstuk=XIA&artikel=186&z=2003-03-12&g=2003-03-12) zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.
+
+3. Op personen die de rekenkamerfunctie uitoefenen is [artikel 79f, behoudens het eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=IVA&paragraaf=1&artikel=79f&z=2003-03-12&g=2003-03-12), van overeenkomstige toepassing.
+
+### Hoofdstuk V. De commissies
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### § 3. De griffier
+
+##### Artikel 104a
+
+1. De griffier staat provinciale staten en de door hen ingestelde commissies bij de uitoefening van hun taak terzijde.
+
+2. Provinciale staten stellen in een instructie nadere regels over de taak en de bevoegdheden van de griffier.
+
+##### Artikel 104b
+
+De griffier is in de vergadering van provinciale staten aanwezig.
+
+##### Artikel 104c
+
+De stukken die van provinciale staten uitgaan, worden door de griffier medeondertekend.
+
+##### Artikel 104d
+
+1. Provinciale staten regelen de vervanging van de griffier.
+
+2. De artikelen 97, tweede lid, 98 en 104 tot en met 104c zijn van overeenkomstige toepassing op degene die de griffier vervangt.
+
+##### Artikel 104e
+
+1. Provinciale staten kunnen regels stellen over de organisatie van de griffie.
+
+2. Provinciale staten zijn bevoegd de op de griffie werkzame ambtenaren te benoemen, te schorsen en te ontslaan.
+
+## Titel III. De bevoegdheid van het provinciebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
+
+### Hoofdstuk XI. De bevoegdheid van de commissaris van de Koning
+
+### Hoofdstuk XIA. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de provincie
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### § 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De provinciale belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent enkele belastingen
+
+#### § 3. Heffing en invordering
+
+### Hoofdstuk XVI. Het Provinciefonds
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het provinciebestuur
 
 ### Hoofdstuk XVII. Goedkeuring
 
