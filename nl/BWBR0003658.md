@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2003-04-18"
+last_updated: "2003-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van specerijen en de in het [Warenwetbesluit Visserijproducten, slakken en kikkerbillen](https://wetten.overheid.nl/jci1.3:c:BWBR0007216) bedoelde waren, voor zover de producten uit beide productgroepen niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-04-18&g=2003-04-18) zijn genoemd, mag niet hoger zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van specerijen en de in het [Warenwetbesluit Visserijproducten, slakken en kikkerbillen](https://wetten.overheid.nl/jci1.3:c:BWBR0007216) bedoelde waren, voor zover de producten uit beide productgroepen niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-07-01&g=2003-07-01) zijn genoemd, mag niet hoger zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-04-18&g=2003-04-18) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-07-01&g=2003-07-01) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-04-18&g=2003-04-18), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-07-01&g=2003-07-01), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-04-18&g=2003-04-18) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2003-04-18&g=2003-04-18) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-07-01&g=2003-07-01) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2003-07-01&g=2003-07-01) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -597,7 +597,7 @@ Door vernummering vervallen.
 |   |   |   | aal | 0,1 |   |
 |   |   |   | vislever | 0,2 |   |
 |   |   |   | overige visserijproducten | 0,05 |   |
-|   |   |   | wild en gevogelte | 0,2 |   |
+|   |   |   | wild en gevogelte | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige dierlijke oliën en | 0,2 |   |
 |   |   |   | vetten |   |   |
 |   |   |   | overige | 0,01* |   |
@@ -623,7 +623,7 @@ Door vernummering vervallen.
 |   |   |   | hop | 20 |   |
 |   |   |   | varkensvlees, rundvlees, |   | 19) Zie de regeling voor residuen van diergeneesmiddelen op basis van Verordening (EEG) nr 2377/90 van de Raad van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L224). Voor zover producten hierin nog niet zijn geregeld, is het gestelde voor "overige dierlijke producten" van toepassing, of indien dit ontbreekt, voor "overige". |
 |   |   |   | schapenvlees |   |   |
-|   |   |   | melk |   |   |
+|   |   |   | melk |   | 19) Zie de regeling voor residuen van diergeneesmiddelen op basis van Verordening (EEG) nr 2377/90 van de Raad van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L224). Voor zover producten hierin nog niet zijn geregeld, is het gestelde voor "overige dierlijke producten" van toepassing, of indien dit ontbreekt, voor "overige". |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | amitrol | geen | amitrol | thee | 0,1* |   |
@@ -640,7 +640,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | aramiet | geen | aramiet | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,01* |   |
+|   |   |   | vlees | 0,01* | 1) in het vet |
 |   |   |   | overige | 0,01* |   |
 |   |   |   |   |   |   |
 | arseenverbindingen | geen | As | fruit | 0,1 |   |
@@ -656,13 +656,13 @@ Door vernummering vervallen.
 | azamethifos | geen | azamethifos | alle | 0,02* |   |
 |   |   |   |   |   |   |
 | azimsulfuron | geen | azimsulfuron | oliehoudende zaden | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |
-|   |   |   | thee | 0,1* |   |
-|   |   |   | hop | 0,1* |   |
-|   |   |   | overige | 0,02* |   |
+|   |   |   | thee | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |
+|   |   |   | hop | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |
+|   |   |   | overige | 0,02* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |
 |   |   |   |   |   |   |
 | azinfos-ethyl | geen | azinfos-ethyl | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | azinfos-methyl | geen | azinfos-methyl | citrusvruchten | 2 |   |
@@ -719,7 +719,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | barban | geen | barban | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | benalaxyl | geen | benalaxyl | tafel- en wijndruiven | 0,2 |   |
@@ -883,14 +883,14 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | captan | geen | captan | pitvruchten | 3 | 21) som van captan en folpet. |
-|   |   |   | steenvruchten | 2 |   |
-|   |   |   | besvruchten en klein fruit | 3 |   |
-|   |   |   | tomaten | 3 |   |
-|   |   |   | sla | 2 |   |
-|   |   |   | andijvie | 2 |   |
-|   |   |   | witlof | 2 |   |
-|   |   |   | prei | 2 |   |
-|   |   |   | peulgroenten (met peul) | 2 |   |
+|   |   |   | steenvruchten | 2 | 21) som van captan en folpet. |
+|   |   |   | besvruchten en klein fruit | 3 | 21) som van captan en folpet. |
+|   |   |   | tomaten | 3 | 21) som van captan en folpet. |
+|   |   |   | sla | 2 | 21) som van captan en folpet. |
+|   |   |   | andijvie | 2 | 21) som van captan en folpet. |
+|   |   |   | witlof | 2 | 21) som van captan en folpet. |
+|   |   |   | prei | 2 | 21) som van captan en folpet. |
+|   |   |   | peulgroenten (met peul) | 2 | 21) som van captan en folpet. |
 |   |   |   | rozijnen | 5 |   |
 |   |   |   | overige | 0,1* |   |
 |   |   |   |   |   |   |
@@ -918,7 +918,7 @@ Door vernummering vervallen.
 |   |   |   | aardappelen | 0,2 |   |
 |   |   |   | rijst | 1 |   |
 |   |   |   | overige granen | 0,5 |   |
-|   |   |   | vlees | 0,2 |   |
+|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | kippenvlees | 0,5 |   |
 |   |   |   | kippenhuid | 5 |   |
 |   |   |   | eieren | 0,5 |   |
@@ -1027,13 +1027,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | chloorbenside | geen | chloorbenside | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-| vlees |   |   |   | 0,05* |   |
+| vlees |   |   |   | 0,05* | 1) in het vet |
 |   |   |   | melk | 0,05* |   |
 |   |   |   | eieren | 0,05* |   |
 |   |   |   | overige | 0,01* |   |
 | chloorbenzilaat | geen | chloorbenzilaat | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,1* |   |
+|   |   |   | vlees | 0,1* | 1) in het vet |
 |   |   |   | melk | 0,1* |   |
 |   |   |   | eieren | 0,1* |   |
 |   |   |   | overige | 0,02* |   |
@@ -1050,18 +1050,18 @@ Door vernummering vervallen.
 | a) in plantaardige | geen | som van cis- en trans- | granen | 0,02 |   |
 | producten |   | chloordaan |   |   |   |
 |   |   |   | overige | 0,02* |   |
-| b) in dierlijke | oxychloordaan | som van cis- en trans- | vlees | 0,05 |   |
+| b) in dierlijke | oxychloordaan | som van cis- en trans- | vlees | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 | producten |   | chloordaan en |   |   |   |
 |   |   | oxychloordaan, |   |   |   |
 |   |   | uitgedrukt als |   |   |   |
 |   |   | chloordaan |   |   |   |
 |   |   |   |   |   |   |
-| melk |   |   |   | 0,002 |   |
-|   |   |   | eieren | 0,005 |   |
+| melk |   |   |   | 0,002 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | eieren | 0,005 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 0,05 |   |
 |   |   |   | vislever | 0,1 |   |
 |   |   |   | overige visserijproducten | 0,02 |   |
-|   |   |   | overige | 0,05 |   |
+|   |   |   | overige | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   |   |   |   |
 | chloordecon | geen | chloordecon | alle | 0,05* |   |
 |   |   |   |   |   |   |
@@ -1079,7 +1079,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | chloorfenson | geen | chloorfenson | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | melk | 0,05* |   |
 |   |   |   | eieren | 0,05* |   |
 |   |   |   | overige | 0,01* |   |
@@ -1093,7 +1093,7 @@ Door vernummering vervallen.
 |   |   |   | bleekselderij | 0,5 |   |
 |   |   |   | overige groenten | 0,1 |   |
 |   |   |   | thee | 0,2 |   |
-|   |   |   | vlees | 0,2 |   |
+|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | melk | 0,008 |   |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
@@ -1155,9 +1155,9 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
 |   |   |   | gerst | 0,2 |   |
-|   |   |   | pluimveevlees | 0,05* |   |
-|   |   |   | rundvlees | 2 |   |
-|   |   |   | schapenvlees | 0,2 |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |
+|   |   |   | rundvlees | 2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | schapenvlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | melk | 0,01* |   |
 |   |   |   | eieren | 0,01* |   |
 |   |   |   | overige | 0,05* |   |
@@ -1177,7 +1177,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
 |   |   |   | granen | 3 |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | melk | 0,01* |   |
 |   |   |   | eieren | 0,01* |   |
 |   |   |   | overige | 0,05* |   |
@@ -1242,7 +1242,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | chloroxuron | geen | chloroxuron | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | chlozolinaat | geen | chlozolinaat | thee | 0,1* | 2 |
@@ -1327,13 +1327,13 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,1* |   |
 |   |   |   | hop | 20 |   |
 |   |   |   | maïs | 0,05* |   |
-|   |   |   | vlees | 0,05 |   |
+|   |   |   | vlees | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
-| cyhalothrin | geen | cyhalothrin, | vlees (uitgezonderd | 0,5 |   |
+| cyhalothrin | geen | cyhalothrin, | vlees (uitgezonderd | 0,5 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   | inclusief andere | pluimveevlees) |   |   |
 |   |   | mengsels van | pluimveevlees | 0,02* |   |
-|   |   | samenstellende | melk | 0,05 |   |
+|   |   | samenstellende | melk | 0,05 | 2) HetHet maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
 |   |   | isomeren | eieren | 0,02* |   |
 |   |   | (som van de isomeren) |   |   |   |
 |   |   |   |   |   |   |
@@ -1448,9 +1448,9 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,5 |   |
 |   |   |   | hop | 30 |   |
 |   |   |   | gerst, haver | 0,2 |   |
-|   |   |   | pluimveevlees | 0,05* |   |
-|   |   |   | overig vlees | 0,2 |   |
-|   |   |   | melk | 0,02 |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |
+|   |   |   | overig vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,02 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | cyproconazool | geen | cyproconazool | alle | 0,05* |   |
@@ -1482,14 +1482,14 @@ Door vernummering vervallen.
 |   | TDE | p.p/\1\/-DDT, p.p /\1\/- |   |   |   |
 |   |   | DDE en p.p/\1\/-TDE, |   |   |   |
 |   |   | uitgedrukt als DDT |   |   |   |
-|   |   |   | cacaoproducten | 0,5 |   |
-|   |   |   | vlees | 1 |   |
-|   |   |   | melk | 0,04 |   |
-|   |   |   | eieren | 0,05 |   |
+|   |   |   | cacaoproducten | 0,5 | 1) in het vet |
+|   |   |   | vlees | 1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,04 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 1 |   |
 |   |   |   | vislever | 2 |   |
 |   |   |   | overige visserij-producten | 0,5 |   |
-|   |   |   | wild en gevogelte | 1 |   |
+|   |   |   | wild en gevogelte | 1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige dierlijke oliën en | 1 |   |
 |   |   |   | vetten |   |   |
 |   |   |   | overige | 0,05* |   |
@@ -1529,7 +1529,7 @@ Door vernummering vervallen.
 |   |   |   | meel | 0,1 |   |
 |   |   |   | volkorenmeel | 0,5 |   |
 |   |   |   | zemelen (onbewerkt) | 2 |   |
-|   |   |   | pluimveevlees | 0,05* |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | demeton (demeton-O en | demeton-sulfoxide en | demeton-sulfon (thiolo- | alle | 0,05* |   |
@@ -1583,8 +1583,8 @@ Door vernummering vervallen.
 |   |   |   | oliehoudende zaden | 0,05* |   |
 |   |   |   | thee | 0,05* |   |
 |   |   |   | hop | 0,05* |   |
-|   |   |   | varkensvlees | 0,7 |   |
-|   |   |   | pluimveevlees | 0,7 |   |
+|   |   |   | varkensvlees | 0,7 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | pluimveevlees | 0,7 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overig vlees | 0,05* |   |
 |   |   |   | melk | 0,01* |   |
 |   |   |   | eieren | 0,05* |   |
@@ -1627,7 +1627,7 @@ Door vernummering vervallen.
 | bis(4-ethyl- |   | ethyl-fenyl)ethaan |   |   |   |
 | fenyl)ethaan |   |   |   |   |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,01* |   |
+|   |   |   | vlees | 0,01* | 1) in het vet |
 |   |   |   | overige | 0,01* |   |
 |   |   |   |   |   |   |
 | 1,2-dichloorethaan | geen | 1,2-dichloorethaan | alle | 0,1* |   |
@@ -1697,11 +1697,11 @@ Door vernummering vervallen.
 |   |   |   | overige plantaardige | 0,02* |   |
 |   |   |   | producten |   |   |
 |   |   |   |   |   |   |
-| b) dierlijke producten | geen | som van p.p/\1\/-en | rund-, schapen- en | 0,5 |   |
+| b) dierlijke producten | geen | som van p.p/\1\/-en | rund-, schapen- en | 0,5 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   | o.p/\1\/-isomeren | geitenvlees |   |   |
-|   |   |   | pluimveevlees | 0,1 |   |
+|   |   |   | pluimveevlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overig vlees | 0,05* |   |
-|   |   |   | melk | 0,02 |   |
+|   |   |   | melk | 0,02 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
 |   |   |   | eieren | 0,05* |   |
 |   | 1,1-bis-(p- | 1,1-bis-(p- | lever van runderen, | 1 |   |
 |   | chloorfenyl)-2,2- | chloorfenyl)-2,2- | schapen en geiten |   |   |
@@ -1725,7 +1725,7 @@ Door vernummering vervallen.
 |   | aniline | methoxyfenoxy)-aniline |   |   |   |
 |   |   |   |   |   |   |
 | difenyl | geen | difenyl | citrusvruchten |   | 16) zie Warenregeling Gebruik van additieven met uit zondering kleurstoffen, zoetstoffen en meelverbeteraars in levensmiddelen |
-|   |   |   | marmelades |   |   |
+|   |   |   | marmelades |   | 16) zie Warenregeling Gebruik van additieven met uit zondering kleurstoffen, zoetstoffen en meelverbeteraars in levensmiddelen |
 |   |   |   | overige | 0,1* |   |
 |   |   |   |   |   |   |
 | difenylamine | geen | difenylamine | appelen | 5 |   |
@@ -1829,7 +1829,7 @@ Door vernummering vervallen.
 |   |   |   | tarwe | 0,1 |   |
 |   |   |   | gerst | 0,2 |   |
 |   |   |   | sorghum | 0,2 |   |
-|   |   |   | melk | 0,02 |   |
+|   |   |   | melk | 0,02 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | ditalimfos | geen | ditalimfos | alle | 0,02* |   |
@@ -1861,9 +1861,9 @@ Door vernummering vervallen.
 |   |   |   | (Cynorrhodom) |   |   |
 |   |   |   | olijven | 5 |   |
 |   |   |   | wortelen | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
-|   |   |   | knolselderij | 2 |   |
-|   |   |   | radijs | 2 |   |
-|   |   |   | schorseneren | 2 |   |
+|   |   |   | knolselderij | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
+|   |   |   | radijs | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
+|   |   |   | schorseneren | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
 |   |   |   | knoflook | 0,5 |   |
 |   |   |   | uien | 0,5 |   |
 |   |   |   | sjalotten | 0,5 |   |
@@ -1872,23 +1872,23 @@ Door vernummering vervallen.
 |   |   |   | komkommers | 1 | 11) waarvan maximaal 0,5 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
 |   |   |   | augurken | 2 |   |
 |   |   |   | courgettes | 2 |   |
-|   |   |   | Cucurbitaceae (met niet- | 2 |   |
+|   |   |   | Cucurbitaceae (met niet- | 2 | 11) waarvan maximaal 0,5 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
 |   |   |   | eetbare schil) |   |   |
 |   |   |   | suikermaïs | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
-|   |   |   | bloemkoolachtigen | 2 |   |
-|   |   |   | sluitkoolachtigen | 2 |   |
-|   |   |   | bladkoolachtigen | 2 |   |
+|   |   |   | bloemkoolachtigen | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
+|   |   |   | sluitkoolachtigen | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
+|   |   |   | bladkoolachtigen | 2 | 11) waarvan maximaal 0,5 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
 |   |   |   | koolrabi | 0,1* |   |
 |   |   |   | sla en dergelijke | 5 |   |
 |   |   |   | spinazie en dergelijke | 2 |   |
 |   |   |   | waterkers | 0,3 |   |
 |   |   |   | witlof | 2 |   |
 |   |   |   | kruiden | 5 |   |
-|   |   |   | bonen (met peul) | 2 |   |
+|   |   |   | bonen (met peul) | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
 |   |   |   | bonen (zonder peul) | 2 | 9a) waarvan maximaal 0,1 mg/kg afkomstig mag zijn van mancozeb, maneb, metriam, propineb en zineb. |
-|   |   |   | erwten (met peul) | 2 |   |
+|   |   |   | erwten (met peul) | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
 |   |   |   | erwten (zonder peul) | 2 |   |
-|   |   |   | bleekselderij | 2 |   |
+|   |   |   | bleekselderij | 2 | 8) met dien verstande, dat residuen afkomstig van mancozeb, maneb, metriam, propineb en zineb afwezig dienen te zijn (ondergrens analytische bepaling 0,05 mg/kg). |
 |   |   |   | prei | 3 |   |
 |   |   |   | kool- en raapzaad | 0,5 |   |
 |   |   |   | overige oliehoudende zaden | 0,1* |   |
@@ -1937,18 +1937,18 @@ Door vernummering vervallen.
 |   |   |   | overige oliehoudende zaden | 0,1* |   |
 |   |   |   | thee | 30 |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,1 |   |
-|   |   |   | melk | 0,004 |   |
+|   |   |   | vlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,004 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
 |   |   |   | eieren | 0,1* |   |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | endothal-natrium | geen | endothal-natrium | alle | 0,1* |   |
 |   |   |   |   |   |   |
 | endrin | geen | endrin | hop | 0,1* |   |
-|   |   |   | vlees | 0,05 |   |
-|   |   |   | melk 0 | 0,0008 |   |
-|   |   |   | eieren | 0,005 |   |
-|   |   |   | wild en gevogelte | 0,05 |   |
+|   |   |   | vlees | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk 0 | 0,0008 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,005 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | wild en gevogelte | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 0,05 |   |
 |   |   |   | vislever | 0,1 |   |
 |   |   |   | overige visserij-producten | 0,02 |   |
@@ -1971,9 +1971,9 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,05* |   |
 |   |   |   | gerst, haver | 0,2 |   |
 |   |   |   | rogge, tarwe en triticale | 0,05 |   |
-|   |   |   | vlees (behalve | 0,2 |   |
+|   |   |   | vlees (behalve | 0,2 | 1) in het vet |
 |   |   |   | slachtpluimvee) |   |   |
-|   |   |   | slachtpluimvee | 0,02* |   |
+|   |   |   | slachtpluimvee | 0,02* | 1) in het vet |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 |   |   | som van RS- en SR- | oliehoudende zaden | 0,05* |   |
@@ -1981,9 +1981,9 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,05* |   |
 |   |   |   | hop | 0,05* |   |
 |   |   |   | gerst, haver | 0,05 |   |
-|   |   |   | vlees (behalve | 0,05 |   |
+|   |   |   | vlees (behalve | 0,05 | 1) in het vet |
 |   |   |   | pluimveevlees) |   |   |
-|   |   |   | slachtpluimvee | 0,02* |   |
+|   |   |   | slachtpluimvee | 0,02* | 1) in het vet |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | etheenoxide | geen (voor de metaboliet | etheenoxide | specerijen | 0,1* |   |
@@ -2033,11 +2033,11 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | ethirimol | geen | ethirimol | pitvruchten | 0,1 | 15) afkomstig van gebruik van bupirimaat. |
-|   |   |   | aardbeien (andere dan | 0,1 |   |
+|   |   |   | aardbeien (andere dan | 0,1 | 15) afkomstig van gebruik van bupirimaat. |
 |   |   |   | bosaardbeien) |   |   |
-|   |   |   | tomaten | 0,2 |   |
-|   |   |   | overige vruchtgroenten | 0,1 |   |
-|   |   |   | overige | 0,05* |   |
+|   |   |   | tomaten | 0,2 | 15) afkomstig van gebruik van bupirimaat. |
+|   |   |   | overige vruchtgroenten | 0,1 | 15) afkomstig van gebruik van bupirimaat. |
+|   |   |   | overige | 0,05* | 15) afkomstig van gebruik van bupirimaat. |
 |   |   |   |   |   |   |
 | ethofumesaat | geen | ethofumesaat | alle | 0,05* |   |
 |   |   |   |   |   |   |
@@ -2109,7 +2109,7 @@ Door vernummering vervallen.
 |   |   |   | courgettes | 0,5 |   |
 |   |   |   | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | melk | 0,02* |   |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
@@ -2175,7 +2175,7 @@ Door vernummering vervallen.
 |   |   |   | pinda's | 0,05* |   |
 |   |   |   | aardappelen | 0,1 |   |
 |   |   |   | maïs | 0,1 |   |
-|   |   |   | vlees | 0,02* |   |
+|   |   |   | vlees | 0,02* | 1) in het vet |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | fenthion | fenthion-sulfoxide en | fenthion-sulfon | alle | 0,05* |   |
@@ -2252,11 +2252,11 @@ Door vernummering vervallen.
 | flurenol | geen | flurenol | alle | 0,05* |   |
 |   |   |   |   |   |   |
 | fluroxypyr | geen | fluroxypyr | thee | 0,1* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |
-|   |   |   | hop | 0,1* |   |
-|   |   |   | gerst, haver, rogge, tarwe | 0,1 |   |
+|   |   |   | hop | 0,1* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 |
+|   |   |   | gerst, haver, rogge, tarwe | 0,1 | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 |
 |   |   |   | en triticale |   |   |
-|   |   |   | nieren | 0,5 |   |
-|   |   |   | overige | 0,05* |   |
+|   |   |   | nieren | 0,5 | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 |
+|   |   |   | overige | 0,05* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 |
 |   |   |   |   |   |   |
 | flusilazol | geen | flusilazol | alle | 0,05* |   |
 |   |   |   |   |   |   |
@@ -2264,17 +2264,17 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | fluvalinaat | geen | fluvalinaat | alle | 0,05* |   |
 |   |   |   |   |   |   |
-| folpet | geen | folpet | pitvruchten | 3 |   |
-|   |   |   | steenvruchten | 2 |   |
-|   |   |   | wijndruiven | 10 |   |
-|   |   |   | overige besvruchten en | 3 |   |
+| folpet | geen | folpet | pitvruchten | 3 | 21) som van captan en folpet. |
+|   |   |   | steenvruchten | 2 | 21) som van captan en folpet. |
+|   |   |   | wijndruiven | 10 | 21) som van captan en folpet. |
+|   |   |   | overige besvruchten en | 3 | 21) som van captan en folpet. |
 |   |   |   | klein fruit |   |   |
-|   |   |   | tomaten | 3 |   |
-|   |   |   | sla | 2 |   |
-|   |   |   | andijvie | 2 |   |
-|   |   |   | witlof | 2 |   |
-|   |   |   | prei | 2 |   |
-|   |   |   | peulgroenten (met peul) | 2 |   |
+|   |   |   | tomaten | 3 | 21) som van captan en folpet. |
+|   |   |   | sla | 2 | 21) som van captan en folpet. |
+|   |   |   | andijvie | 2 | 21) som van captan en folpet. |
+|   |   |   | witlof | 2 | 21) som van captan en folpet. |
+|   |   |   | prei | 2 | 21) som van captan en folpet. |
+|   |   |   | peulgroenten (met peul) | 2 | 21) som van captan en folpet. |
 |   |   |   | overige | 0,1* |   |
 |   |   |   |   |   |   |
 | fonofos | geen | fonofos | uien | 0,3 |   |
@@ -2400,12 +2400,12 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | alfa-HCH | geen | alfa-HCH | thee | 0,2 | 5) som van alfa-HCH en bèta-HCH. |
-|   |   |   | granen | 0,02 |   |
-|   |   |   | cacaoproducten | 0,1 |   |
-|   |   |   | vlees | 0,2 |   |
-|   |   |   | melk | 0,004 |   |
-|   |   |   | eieren | 0,02 |   |
-|   |   |   | wild en gevogelte | 0,2 |   |
+|   |   |   | granen | 0,02 | 5) som van alfa-HCH en bèta-HCH. |
+|   |   |   | cacaoproducten | 0,1 | 1) in het vet |
+|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,004 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,02 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | wild en gevogelte | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 0,05 |   |
 |   |   |   | vislever | 0,1 |   |
 |   |   |   | overige visserij-producten | 0,02 |   |
@@ -2413,11 +2413,11 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | bèta-HCH | geen | bèta-HCH | thee | 0,2 |   |
 |   |   |   | granen | 0,02 |   |
-|   |   |   | cacaoproducten | 0,15 |   |
-|   |   |   | vlees | 0,1 |   |
-|   |   |   | melk | 0,003 |   |
-|   |   |   | eieren | 0,01 |   |
-|   |   |   | wild en gevogelte | 0,1 |   |
+|   |   |   | cacaoproducten | 0,15 | 1) in het vet |
+|   |   |   | vlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,003 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,01 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | wild en gevogelte | 0,1 | 1) in het vet |
 |   |   |   | aal | 0,05 |   |
 |   |   |   | vislever | 0,1 |   |
 |   |   |   | overige visserij-producten | 0,02 |   |
@@ -2428,10 +2428,10 @@ Door vernummering vervallen.
 | heptachloor | heptachloor-epoxyde | heptachloor | plantaardige oliën en | 0,02 |   |
 |   |   |   | vetten |   |   |
 |   |   |   | thee | 0,02* |   |
-|   |   |   | vlees | 0,2 |   |
-|   |   |   | melk | 0,004 |   |
-|   |   |   | eieren | 0,02 |   |
-|   |   |   | wild en gevogelte | 0,2 |   |
+|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,004 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,02 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | wild en gevogelte | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 0,05 |   |
 |   |   |   | vislever | 0,1 |   |
 |   |   |   | overige visserij-producten | 0,02 |   |
@@ -2457,10 +2457,10 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | hexachloorbenzeen | geen | hexachloorbenzeen | thee | 0,01* |   |
-|   |   |   | vlees | 0,2 |   |
-|   |   |   | melk | 0,01 |   |
-|   |   |   | eieren | 0,02 |   |
-|   |   |   | wild en gevogelte | 0,2 |   |
+|   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,01 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,02 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | wild en gevogelte | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | aal | 0,1 |   |
 |   |   |   | vislever | 0,2 |   |
 |   |   |   | overige visserij-producten | 0,05 |   |
@@ -2568,8 +2568,8 @@ Door vernummering vervallen.
 |   |   |   | gerst | 1 |   |
 |   |   |   | rijst | 3 |   |
 |   |   |   | vlees | 0,05* | 6) som van iprodion, procymidon en vinchlozolin en alle verbindingen die de 3,5-diclooraniline-groep bevatten , uitgedrukt in 3,5-dichlooraniline. |
-|   |   |   | melk | 0,05* |   |
-|   |   |   | eieren | 0,05* |   |
+|   |   |   | melk | 0,05* | 6) som van iprodion, procymidon en vinchlozolin en alle verbindingen die de 3,5-diclooraniline-groep bevatten , uitgedrukt in 3,5-dichlooraniline. |
+|   |   |   | eieren | 0,05* | 6) som van iprodion, procymidon en vinchlozolin en alle verbindingen die de 3,5-diclooraniline-groep bevatten , uitgedrukt in 3,5-dichlooraniline. |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | isocyanuurzuur | geen | isocyanuurzuur | alle | 1* |   |
@@ -2626,8 +2626,8 @@ Door vernummering vervallen.
 |   |   |   | overige plantaardige | 0,05* |   |
 |   |   |   | producten |   |   |
 | b) dierlijke producten | 490M1 | kresoxim-methyl | nieren | 0,05 | 20) de metabolieten van kresoxim-methyl zijn: 490M1: 2-methoxyimino-[2-(0-tolyl-oxymethyl)fenyl]azijnzuur 490M9: 2-[2-(4-hydroxy-2-methylfenoxymethyl)fenyl]-2-methoxyiminoazijnzuur |
-|   |   |   | overig vlees | 0,02* |   |
-|   | 490M9 | kresoxim-methyl | melk- en melkproducten | 0,02* |   |
+|   |   |   | overig vlees | 0,02* | 20) de metabolieten van kresoxim-methyl zijn: 490M1: 2-methoxyimino-[2-(0-tolyl-oxymethyl)fenyl]azijnzuur 490M9: 2-[2-(4-hydroxy-2-methylfenoxymethyl)fenyl]-2-methoxyiminoazijnzuur |
+|   | 490M9 | kresoxim-methyl | melk- en melkproducten | 0,02* | 20) de metabolieten van kresoxim-methyl zijn: 490M1: 2-methoxyimino-[2-(0-tolyl-oxymethyl)fenyl]azijnzuur 490M9: 2-[2-(4-hydroxy-2-methylfenoxymethyl)fenyl]-2-methoxyiminoazijnzuur |
 |   | geen | kresoxim-methyl | eieren | 0,02* |   |
 |   |   |   |   |   |   |
 | kwikverbindingen | geen | Hg |   |   | 18) zie Warenwetregeling Verontreinigingen in levensmiddelen |
@@ -2809,7 +2809,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | methoxychloor | geen | methoxychloor | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,01* |   |
+|   |   |   | vlees | 0,01* | 1) in het vet |
 |   |   |   | overige | 0,01* |   |
 |   |   |   |   |   |   |
 | methylbromide | geen (voor de metaboliet | methylbromide | noten | 0,1* |   |
@@ -2907,20 +2907,20 @@ Door vernummering vervallen.
 | neburon | 3,4-dichlooraniline | 3,4-dichlooraniline | zie 3,4-dichlooraniline |   |   |
 |   |   |   |   |   |   |
 | nereïstoxine | geen | nereïstoxine | kastanjes | 0,1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
-|   |   |   | tafel- en wijndruiven | 1 | c |
-|   |   |   | kaki's | 1 | c |
-|   |   |   | radijs | 1 | c |
-|   |   |   | suikermaïs | 0,1 | c |
-|   |   |   | sluitkoolachtigen | 0,2 | c |
-|   |   |   | Chinese kool | 2 | c |
-|   |   |   | aardappelen | 0,1 | c |
-|   |   |   | thee | 0,1* | c |
-|   |   |   | hop | 5 | c |
-|   |   |   | rijst | 0,1 | c |
-|   |   |   | gember | 0,1 | c |
-|   |   |   | overige | 0,05* | c |
-|   |   |   | overige | 0,05* | c |
-|   |   |   | overige | 0,05* | c |
+|   |   |   | tafel- en wijndruiven | 1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | kaki's | 1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | radijs | 1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | suikermaïs | 0,1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | sluitkoolachtigen | 0,2 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | Chinese kool | 2 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | aardappelen | 0,1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | thee | 0,1* | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | hop | 5 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | rijst | 0,1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | gember | 0,1 | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | overige | 0,05* | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | overige | 0,05* | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
+|   |   |   | overige | 0,05* | c 7)residuen afkomstig van : c = cartap, b = bensultap; t thiocyclamwaterstofoxolaat |
 |   |   |   |   |   |   |
 | nicosulfuron | geen | nicosulfuron | alle | 0,01* |   |
 |   |   |   |   |   |   |
@@ -3006,12 +3006,12 @@ Door vernummering vervallen.
 | permethrin | geen | permethrin (som van de | thee | 0,1* |   |
 |   |   | isomeren) |   |   |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,5 |   |
-|   |   |   | melk | 0,05 |   |
-|   |   |   | eieren | 0,05 |   |
+|   |   |   | vlees | 0,5 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,05 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,05 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
-| peroxide | geen | peroxide | alle | 1* |   |
+| peroxide | geen | peroxide | alle | 1* | 1) in het vet ; |
 |   |   |   |   |   |   |
 | piperonyl-butoxide | geen | piperonyl-butoxide | noten | 8 |   |
 |   |   |   | overig fruit | 3 |   |
@@ -3117,9 +3117,9 @@ Door vernummering vervallen.
 |   |   |   | andere oliehoudende zaden | 0,05* |   |
 |   |   |   | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
-|   |   |   | melk | 0,05* |   |
-|   |   |   | eieren | 0,05* |   |
+|   |   |   | vlees | 0,05* | 8) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,05* | 8) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | eieren | 0,05* | 8) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | profam | geen | profam | thee | 0,1* |   |
@@ -3182,9 +3182,9 @@ Door vernummering vervallen.
 |   |   |   | hop | 30 |   |
 |   |   |   | maïs | 0,1* |   |
 |   |   |   | sorghum | 5 |   |
-|   |   |   | vlees | 0,1 |   |
-|   |   |   | melk | 0,1 |   |
-|   |   |   | eieren | 0,1 |   |
+|   |   |   | vlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
+|   |   |   | melk | 0,1 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |
+|   |   |   | eieren | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |
 |   |   |   | overige | 0,05* |   |
 |   |   |   |   |   |   |
 | propazin | geen | propazin | alle | 0,05* |   |
@@ -3279,7 +3279,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | pyrazofos | geen | pyrazofos | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,02* |   |
+|   |   |   | vlees | 0,02* | 1) in het vet |
 |   |   |   | koemelk | 0,02* |   |
 |   |   |   | eieren en eiproducten | 0,1* |   |
 |   |   |   | overige | 0,05* |   |
@@ -3417,7 +3417,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |
 | tecnazeen | geen | tecnazeen | thee | 0,1* |   |
 |   |   |   | hop | 0,1* |   |
-|   |   |   | vlees | 0,05* |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |
 |   |   |   | overige 0 | ,05*2 |   |
 |   |   |   |   |   |   |
 | teflubenzuron | geen | teflubenzuron | pitvruchten | 0,5 |   |
@@ -3564,7 +3564,7 @@ Door vernummering vervallen.
 | triazofos | geen | triazofos | katoenzaad | 0,1 |   |
 |   |   |   | thee | 0,05* |   |
 |   |   |   | hop | 0,05* |   |
-|   |   |   | vlees | 0,02* |   |
+|   |   |   | vlees | 0,02* | 1) in het vet |
 |   |   |   | overige | 0,02* |   |
 |   |   |   |   |   |   |
 | trichlofenidine | geen | trichlofenidine | alle | 0,01* |   |
