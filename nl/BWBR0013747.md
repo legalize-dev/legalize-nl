@@ -4,7 +4,7 @@ identifier: "BWBR0013747"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "2002-08-01"
+last_updated: "2002-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013747"
 soort: "wet"
@@ -74,7 +74,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel V. Herplaatsing Wet op het onderwijstoezicht
 
-Dit onderdeel is nog niet inwerking getreden
+De tekst van de Wet op het onderwijstoezicht wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen en hoofdstukken opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen en hoofdstukken met de nieuwe nummering in overeenstemming.
 
 ##### Artikel VI. Inwerkingtreding
 
