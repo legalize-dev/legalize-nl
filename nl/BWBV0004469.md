@@ -115,7 +115,3 @@ Dit Protocol maakt een integrerend bestanddeel uit van het [Aanvullend Protocol]
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend.
 
 GEDAAN te Brussel, op 11 mei 1974, in drievoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
-
-### Rechtsbescherming
-
-### Slotbepalingen
