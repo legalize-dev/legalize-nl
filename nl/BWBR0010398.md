@@ -4,7 +4,7 @@ identifier: "BWBR0010398"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-08-01"
-last_updated: "1999-10-01"
+last_updated: "2004-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010398"
 soort: "AMvB"
@@ -120,7 +120,7 @@ Indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling
 
 ##### Artikel 7
 
-De Commissie adviseert over ondernemingsplannen in volgorde van ontvangst, met dien verstande dat indien de indiener krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=3&artikel=6&z=1999-10-01&g=1999-10-01) de gelegenheid heeft gehad het ondernemingsplan aan te vullen, de dag waarop het ondernemingsplan is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, als datum van ontvangst geldt voor de toepassing van deze bepaling alsmede voor de toepassing van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=3&artikel=8&z=1999-10-01&g=1999-10-01).
+De Commissie adviseert over ondernemingsplannen in volgorde van ontvangst, met dien verstande dat indien de indiener krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=3&artikel=6&z=2004-08-01&g=2004-08-01) de gelegenheid heeft gehad het ondernemingsplan aan te vullen, de dag waarop het ondernemingsplan is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, als datum van ontvangst geldt voor de toepassing van deze bepaling alsmede voor de toepassing van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=3&artikel=8&z=2004-08-01&g=2004-08-01).
 
 ##### Artikel 8
 
@@ -136,7 +136,7 @@ De Commissie geeft een negatief advies indien:
 
 - a. het ondernemingsplan niet voldoet aan [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=7);
 
-- b. de indiener van het plan niet voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=2&artikel=4&z=1999-10-01&g=1999-10-01);
+- b. de indiener van het plan niet voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010398&paragraaf=2&artikel=4&z=2004-08-01&g=2004-08-01);
 
 - c. de indiener van het plan onjuiste gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuist advies over het plan zou hebben geleid.
 
@@ -159,5 +159,17 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 7](https://wetten.
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit ondernemingsplan notaris.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### Paragraaf 4. De kosten van de advisering
+
+##### Artikel 11a
+
+1. De kosten van de advisering door de Commissie worden op basis van de integrale kostprijs berekend. Bij de berekening worden bedrijfseconomisch aanvaarde uitgangspunten in acht genomen. De kosten worden door het secretariaat van de Commissie in rekening gebracht.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de berekening van de kosten en kunnen de aan de verzoeker in rekening te brengen kosten worden vastgesteld.
+
+#### Paragraaf 5. Slot- en overgangsbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
