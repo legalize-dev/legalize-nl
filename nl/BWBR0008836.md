@@ -4,7 +4,7 @@ identifier: "BWBR0008836"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-23"
-last_updated: "2003-10-16"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008836"
 soort: "ministeriele-regeling"
@@ -58,19 +58,17 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 - a. de nummerhouder neemt het bij dit besluit bepaalde alsmede de geldende ITU-T aanbevelingen in acht;
 
-- b. de nummerhouder is verplicht het nummer te gebruiken voor een directe en internationale signaleringskoppeling ten behoeve van grensoverschrijdende openbare telefonie tussen het netwerkpunt in Nederland waarvoor het nummer is aangevraagd en minimaal één ander buitenlands netwerkpunt;
+- b. de nummerhouder is verplicht het nummer te gebruiken voor een directe en internationale signaleringskoppeling ten behoeve van grensoverschrijdende openbare elektronische communicatiediensten tussen het netwerkpunt in Nederland waarvoor het nummer is aangevraagd en minimaal één ander buitenlands netwerkpunt;
 
 - c. de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling.
 
 ##### Artikel 4
 
-Indien een aanvraag om toekenning van een nummer strijdig is met dit besluit en de Minister van Verkeer en Waterstaat het voornemen heeft dit besluit zodanig te wijzigen dat inwilliging van de aanvraag alsdan mogelijk wordt, wordt de aanvraag vooruitlopend op de wijziging van dit besluit in behandeling genomen.
+Vervallen
 
 ##### Artikel 5
 
-1. Met betrekking tot nummers die voor het tijdstip van de inwerkingtreding van dit nummerplan in gebruik waren bij de houder van de concessie en de houder van de concessie deze nummers wenst te behouden, dient deze binnen drie maanden na het tijdstip van inwerkingtreding van dit nummerplan een aanvraag in op grond van de gestelde regels in het [Besluit aanvraagprocedure nummers](https://wetten.overheid.nl/jci1.3:c:BWBR0008157) en de Regeling administratieve procedure nummers.
-
-2. De nummers blijven bij de houder van de concessie in gebruik totdat op de aanvraag door het college genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2) is beslist of – indien een aanvraag als bedoeld in het vorige lid met betrekking tot in gebruik zijnde nummers niet tijdig is ingediend – tot zes maanden na het tijdstip van inwerkingtreding van dit nummerplan.
+Vervallen
 
 ##### Artikel 6
 
@@ -80,9 +78,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcodes.
 
-Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij het Ministerie van Verkeer en Waterstaat, Directie Toezicht Netwerken en Diensten.
+Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommuncatie Autoriteit.
 
-## Bijlage. , als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2003-10-16&g=2003-10-16), van het Besluit nummerplan internationale signaleringspuntcodes
+## Bijlage. , als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2004-05-19&g=2004-05-19), van het Besluit nummerplan internationale signaleringspuntcodes
 
 | Beschikbaar voor toekenning of reservering | Bestemming van de nummers | Lengte van de nummers |
 | --- | --- | --- |
