@@ -215,31 +215,3 @@ Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwa
 2. Indien de arts gemoedsbezwaren koestert tegen het verrichten of doen verrichten van de behandeling, stelt hij de vrouw onverwijld nadat zij zich tot hem heeft gewend, daarvan in kennis.
 
 3. Het eerste lid ontheft een arts niet van de verplichting om desgevraagd en indien de vrouw daartoe toestemming heeft verleend inlichtingen omtrent de toestand van de vrouw te geven aan andere artsen.
-
-##### Artikel 19a
-
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met [artikel 11, tweede lid, laatste volzin, derde, vierde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=11&z=2010-05-29&g=2010-05-29).
-
-##### Artikel 20a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 14b
-
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichting.
-
-##### Artikel 6a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 11a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 18a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 20b
-
-Dit onderdeel is nog niet inwerking getreden
