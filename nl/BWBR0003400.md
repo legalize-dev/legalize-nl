@@ -142,9 +142,3 @@ Deze wet kan worden aangehaald als: Wet schadefonds olietankschepen.
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=2&artikel=2&z=2006-05-10&g=2006-05-10) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2006-05-10&g=2006-05-10), alsmede een mededeling als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003400&paragraaf=3&artikel=5&z=2006-05-10&g=2006-05-10), die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
