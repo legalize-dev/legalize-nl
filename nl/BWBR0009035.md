@@ -4,7 +4,7 @@ identifier: "BWBR0009035"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2001-06-08"
+last_updated: "2003-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009035"
 soort: "AMvB"
@@ -72,13 +72,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien Onze Minister van zijn bevoegdheid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2001-06-08&g=2001-06-08), gebruik maakt, wijst hij een coördinator aan voor een of meer luchtvaartterreinen.
+1. Indien Onze Minister van zijn bevoegdheid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2003-07-09&g=2003-07-09), gebruik maakt, wijst hij een coördinator aan voor een of meer luchtvaartterreinen.
 
-2. De krachtens het eerste lid aangewezen coördinator oefent zijn taak uit overeenkomstig artikel 4 van de verordening en is daarbij gebonden aan de door de burgerexploitant krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=5&z=2001-06-08&g=2001-06-08) vastgestelde capaciteit.
+2. De krachtens het eerste lid aangewezen coördinator oefent zijn taak uit overeenkomstig artikel 4 van de verordening en is daarbij gebonden aan de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=5&z=2003-07-09&g=2003-07-09) vastgestelde capaciteit.
 
 3. De door de burgerexploitant van een burgerluchtvaartterrein vastgestelde capaciteit is de capaciteit, die ten grondslag ligt aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de burgerexploitant adequate marges zijn opgenomen.
 
 4. Aan een aanwijzing als bedoeld in het eerste lid kunnen voorschriften of beperkingen worden verbonden.
+
+5. Het derde lid is niet van toepassing op de luchthaven Schiphol.
 
 ##### Artikel 4
 
@@ -90,11 +92,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-De burgerexploitant van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2001-06-08&g=2001-06-08) aangewezen burgerluchtvaartterrein of van het burgergedeelte van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2001-06-08&g=2001-06-08) aangewezen militair luchtvaartterrein is gehouden twee maal per jaar de capaciteit van het luchtvaartterrein ten behoeve van het burgerluchtverkeer vast te stellen.
+1. De burgerexploitant van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2003-07-09&g=2003-07-09) aangewezen burgerluchtvaartterrein of van het burgergedeelte van een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2003-07-09&g=2003-07-09) aangewezen militair luchtvaartterrein is gehouden twee maal per jaar de capaciteit van het luchtvaartterrein ten behoeve van het burgerluchtverkeer vast te stellen.
+
+2. Ten aanzien van de luchthaven Schiphol rust de in het eerste lid bedoelde verplichting op de in [artikel 8.18 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) bedoelde betrokkenen.
 
 ##### Artikel 6
 
-Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2001-06-08&g=2001-06-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2001-06-08&g=2001-06-08) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2001-06-08&g=2001-06-08) schorsen of intrekken:
+Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2003-07-09&g=2003-07-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2003-07-09&g=2003-07-09) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2003-07-09&g=2003-07-09) schorsen of intrekken:
 
 - a. indien de aangewezen natuurlijke persoon of rechtspersoon daarom verzoekt;
 
