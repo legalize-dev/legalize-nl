@@ -4,7 +4,7 @@ identifier: "BWBR0002416"
 country: "nl"
 rank: "wet"
 publication_date: "2024-04-01"
-last_updated: "2003-01-01"
+last_updated: "2005-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002416"
 soort: "wet"
@@ -50,9 +50,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. "Onze Minister": Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-- b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=45&z=2003-01-01&g=2003-01-01);
+- b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=45&z=2005-03-01&g=2005-03-01);
 
-- c. "de rechthebbende op het visrecht": de gerechtigde tot vissen uit welken hoofde ook, behalve de houder van een vergunning, als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2003-01-01&g=2003-01-01), of van een vergunning, als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01);
+- c. "de rechthebbende op het visrecht": de gerechtigde tot vissen uit welken hoofde ook, behalve de houder van een vergunning, als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2005-03-01&g=2005-03-01), of van een vergunning, als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01);
 
 - d. "bedrijfslichamen": lichamen als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66).
 
@@ -96,7 +96,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Tot uitvoering van het bepaalde krachtens de [artikelen 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2003-01-01&g=2003-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2003-01-01&g=2003-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2003-01-01&g=2003-01-01), kan bij of krachtens algemene maatregel van bestuur de medewerking worden gevorderd van het bestuur van een bedrijfslichaam.
+1. Tot uitvoering van het bepaalde krachtens de [artikelen 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2005-03-01&g=2005-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2005-03-01&g=2005-03-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2005-03-01&g=2005-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2005-03-01&g=2005-03-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2005-03-01&g=2005-03-01), kan bij of krachtens algemene maatregel van bestuur de medewerking worden gevorderd van het bestuur van een bedrijfslichaam.
 
 2. Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regelen bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.
 
@@ -124,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Vervallen.
 
-3. Voor de toepassing van het eerste lid wordt onder vis mede begrepen de vissen, schaal- en schelpdieren van andere dan de overeenkomstig het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), aangewezen soorten.
+3. Voor de toepassing van het eerste lid wordt onder vis mede begrepen de vissen, schaal- en schelpdieren van andere dan de overeenkomstig het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), aangewezen soorten.
 
 ##### Artikel 2c
 
@@ -156,7 +156,7 @@ Bij of krachtens algemene maatregel van bestuur worden regelen gesteld betreffen
 
 ##### Artikel 4
 
-1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit. Bij het stellen van zodanige regelen kan mede rekening worden gehouden met de belangen van de natuurbescherming.
+1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit. Bij het stellen van zodanige regelen kan mede rekening worden gehouden met de belangen van de natuurbescherming.
 
 2. Bij of krachtens een algemene maatregel van bestuur, als bedoeld in het eerste lid, kunnen mede voorschriften worden gegeven in het belang van de naleving van de aldaar bedoelde regelen.
 
@@ -184,7 +184,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. Het is verboden in een water, als bedoeld in [artikel 1, vierde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), te vissen voor zover een ander rechthebbende is op het visrecht van dat water.
+1. Het is verboden in een water, als bedoeld in [artikel 1, vierde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), te vissen voor zover een ander rechthebbende is op het visrecht van dat water.
 
 2. Het verbod van het eerste lid geldt niet:
 
@@ -198,13 +198,13 @@ Vervallen
 
 ##### Artikel 8
 
-1. Voor de geldigheid van een vergunning, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2003-01-01&g=2003-01-01), is vereist, dat deze in duidelijk leesbaar en niet door vegen uit te wissen schrift ten minste vermeldt: de naam, de voorletters en de woonplaats van de rechthebbende op het visrecht en van de houder, de geboortedatum van de houder, de omschrijving van het water en de visserij, waarvoor zij geldt, de dagtekening en de geldigheidsduur.
+1. Voor de geldigheid van een vergunning, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2005-03-01&g=2005-03-01), is vereist, dat deze in duidelijk leesbaar en niet door vegen uit te wissen schrift ten minste vermeldt: de naam, de voorletters en de woonplaats van de rechthebbende op het visrecht en van de houder, de geboortedatum van de houder, de omschrijving van het water en de visserij, waarvoor zij geldt, de dagtekening en de geldigheidsduur.
 
 2. De geldigheidsduur van een vergunning eindigt in ieder geval na verloop van drie jaren na de dagtekening der vergunning.
 
 ##### Artikel 9
 
-1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit.
+1. In het belang van de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit.
 
 2. Bij het stellen van regelen als bedoeld in het eerste lid, wordt mede rekening gehouden met de belangen van de natuurbescherming.
 
@@ -236,7 +236,7 @@ Vervallen
 
 - b. grote visakten, welke geldig zijn tot het vissen met alle vistuigen, voorzover het gebruik daarvan niet krachtens deze wet is verboden.
 
-3. Geen akte wordt uitgereikt aan hem, wie ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=57&z=2003-01-01&g=2003-01-01) de bevoegdheid om krachtens een akte te vissen is ontzegd, zolang de ontzegging duurt.
+3. Geen akte wordt uitgereikt aan hem, wie ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=57&z=2005-03-01&g=2005-03-01) de bevoegdheid om krachtens een akte te vissen is ontzegd, zolang de ontzegging duurt.
 
 4. De akten worden uitgegeven door de Organisatie ter verbetering van de binnenvisserij en zijn geldig voor de duur van één kalenderjaar.
 
@@ -252,7 +252,7 @@ Vervallen
 
 - c. voor hem, die in dienst van de houder van een grote visakte de visserij uitoefent in gezelschap van de houder of diens plaatsvervanger.
 
-8. De in het vorige lid onder **b** bedoelde vrijstelling geldt niet voor hem, wie ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=57&z=2003-01-01&g=2003-01-01) de bevoegdheid om krachtens een akte te vissen is ontzegd, voor de duur der ontzegging.
+8. De in het vorige lid onder **b** bedoelde vrijstelling geldt niet voor hem, wie ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=57&z=2005-03-01&g=2005-03-01) de bevoegdheid om krachtens een akte te vissen is ontzegd, voor de duur der ontzegging.
 
 9. Het verbod van het eerste lid geldt niet voor het vissen in een binnen een afgesloten erf gelegen viswater, dat geen voor het doorlaten van vis geschikte verbinding met andere wateren bezit.
 
@@ -284,7 +284,7 @@ Vervallen
 
 ##### Artikel 16
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het vissen in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), regelen worden gesteld:
+1. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het vissen in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), regelen worden gesteld:
 
 - a. in het belang van de visserij in die wateren, de doelmatigheid daaronder begrepen, of
 
@@ -300,11 +300,11 @@ Vervallen
 
 ##### Artikel 17
 
-1. Het is verboden zonder vergunning van Onze Minister vissen van andere dan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), aangewezen soorten uit te zetten in de in [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), bedoelde wateren, met uitzondering van de wateren, bedoeld in [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01). Bij een beslissing omtrent het verlenen van een vergunning wordt rekening gehouden met de belangen van de natuurbescherming en met het welzijn van vissen.
+1. Het is verboden zonder vergunning van Onze Minister vissen van andere dan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), aangewezen soorten uit te zetten in de in [artikel 1, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), bedoelde wateren, met uitzondering van de wateren, bedoeld in [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01). Bij een beslissing omtrent het verlenen van een vergunning wordt rekening gehouden met de belangen van de natuurbescherming en met het welzijn van vissen.
 
 2. Onze Minister kan aan een vergunning als bedoeld in het eerste lid voorschriften verbinden. De vergunning kan onder beperkingen worden verleend.
 
-3. Het is verboden in een water, op het visrecht waarvan een ander de rechthebbende is, vis uit te zetten, zonder in het bezit te zijn van een vergunning van de rechthebbende. Voor de toepassing van dit lid worden onder vis mede begrepen vissen van andere dan de overeenkomstig het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), aangewezen soorten.
+3. Het is verboden in een water, op het visrecht waarvan een ander de rechthebbende is, vis uit te zetten, zonder in het bezit te zijn van een vergunning van de rechthebbende. Voor de toepassing van dit lid worden onder vis mede begrepen vissen van andere dan de overeenkomstig het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), aangewezen soorten.
 
 4. Voor de geldigheid van een vergunning als bedoeld in het derde lid is vereist dat deze in duidelijk leesbaar en niet uit te wissen schrift ten minste vermeldt: de naam, de voorletters en de woonplaats van de rechthebbende op het visrecht en van de houder, de geboortedatum van de houder, de omschrijving van het water en de vissoort waarvoor zij geldt en de dagtekening.
 
@@ -324,7 +324,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. Het is verboden in een water, als bedoeld in [artikel 1, vierde lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2003-01-01&g=2003-01-01), te vissen voorzover een ander rechthebbende is op het visrecht van dat water.
+1. Het is verboden in een water, als bedoeld in [artikel 1, vierde lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=1&artikel=1&z=2005-03-01&g=2005-03-01), te vissen voorzover een ander rechthebbende is op het visrecht van dat water.
 
 2. Het verbod in het eerste lid geldt niet:
 
@@ -332,13 +332,13 @@ Vervallen
 
 - b. voor hem die de rechthebbende op het visrecht of de houder van de vergunning behulpzaam is bij het vissen met een vistuig, dat niet door één persoon kan worden bediend;
 
-- c. voor het vissen met niet meer dan één hengel, geaasd met door Onze Minister ingevolge [artikel 10, zevende lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01), aangewezen aas, in openbare vaarwateren voor zover deze niet in het belang van een doelmatige bevissing bij ministeriële regeling zijn uitgezonderd, zomede in andere wateren, voor zover deze op verzoek van de eigenaren van de grond daaronder bij ministeriële regeling zijn aangewezen;
+- c. voor het vissen met niet meer dan één hengel, geaasd met door Onze Minister ingevolge [artikel 10, zevende lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01), aangewezen aas, in openbare vaarwateren voor zover deze niet in het belang van een doelmatige bevissing bij ministeriële regeling zijn uitgezonderd, zomede in andere wateren, voor zover deze op verzoek van de eigenaren van de grond daaronder bij ministeriële regeling zijn aangewezen;
 
-- d. voor het vissen in een viswater, als bedoeld in [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01), dan wel in een viskwekerij, ten aanzien waarvan een ontheffing is verleend, als bedoeld in het tiende lid van dat artikel.
+- d. voor het vissen in een viswater, als bedoeld in [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01), dan wel in een viskwekerij, ten aanzien waarvan een ontheffing is verleend, als bedoeld in het tiende lid van dat artikel.
 
 ##### Artikel 22
 
-1. Vergunningen, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01), mogen slechts worden verleend met toestemming van de Kamer.
+1. Vergunningen, als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01), mogen slechts worden verleend met toestemming van de Kamer.
 
 2. Indien een doelmatig bevissen van het water, waarop de aanvrage tot het verkrijgen van toestemming betrekking heeft, dan wel van het complex van wateren, waartoe dat water behoort, door de voorgenomen uitreiking van vergunningen zou worden belemmerd, wijst de Kamer de aanvrage af, dan wel verbindt zij aan de toestemming voorschriften, met dien verstande dat deze voorschriften slechts kunnen betreffen het aantal vergunningen, dat ten hoogste mag worden uitgereikt, de aard van het vistuig, voor het gebruik waarvan uitsluitend vergunning mag worden verleend en de geldigheidsduur der vergunningen.
 
@@ -354,7 +354,7 @@ Vervallen
 
 - b. het verlenen van vergunningen voor het vissen in het IJsselmeer en andere bij ministeriële regeling aan te wijzen wateren of complexen van wateren;
 
-- c. het verlenen van vergunningen door een op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2003-01-01&g=2003-01-01) door Onze Minister aangewezen openbaar lichaam.
+- c. het verlenen van vergunningen door een op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2005-03-01&g=2005-03-01) door Onze Minister aangewezen openbaar lichaam.
 
 ##### Artikel 23
 
@@ -366,7 +366,7 @@ Vervallen
 
 2. Het bepaalde in het eerste lid, aanhef en onder **b**, geldt niet:
 
-- a. voor vergunningen, welke ingevolge het bepaalde in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2003-01-01&g=2003-01-01), zonder toestemming van de Kamer mogen worden verleend;
+- a. voor vergunningen, welke ingevolge het bepaalde in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2005-03-01&g=2005-03-01), zonder toestemming van de Kamer mogen worden verleend;
 
 - b. voor vergunningen uitgereikt door openbare lichamen.
 
@@ -384,7 +384,7 @@ Vervallen
 
 ##### Artikel 24
 
-De bepalingen van deze paragraaf gelden niet voor de visserij in het IJsselmeer, in wateren als bedoeld in [artikel 21, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01) en in andere bij ministeriële regeling aan te wijzen wateren of complexen van wateren.
+De bepalingen van deze paragraaf gelden niet voor de visserij in het IJsselmeer, in wateren als bedoeld in [artikel 21, tweede lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01) en in andere bij ministeriële regeling aan te wijzen wateren of complexen van wateren.
 
 ##### Artikel 25
 
@@ -400,7 +400,7 @@ De bepalingen van deze paragraaf gelden niet voor de visserij in het IJsselmeer,
 
 1. Overeenkomsten, als bedoeld in het vorige artikel, met inbegrip van die, welke ingevolge het bepaalde in het tweede lid van dat artikel schriftelijk zijn vastgelegd, behoeven de goedkeuring van de Kamer.
 
-2. Het bepaalde in het vorige lid geldt niet voor overeenkomsten, welke zijn aangegaan door een op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2003-01-01&g=2003-01-01) door Onze Minister aangewezen openbaar lichaam.
+2. Het bepaalde in het vorige lid geldt niet voor overeenkomsten, welke zijn aangegaan door een op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2005-03-01&g=2005-03-01) door Onze Minister aangewezen openbaar lichaam.
 
 ##### Artikel 27
 
@@ -418,7 +418,7 @@ Het is de huurder van visrecht verboden de visserij uit te oefenen in het water,
 
 - a. een doelmatig bevissen van het water, waarop de overeenkomst betrekking heeft, dan wel van het complex van wateren, waartoe dat water behoort, door de overeenkomst zou worden belemmerd;
 
-- b. de overeenkomst in strijd is met het bepaalde bij een ministeriële regeling, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2003-01-01&g=2003-01-01);
+- b. de overeenkomst in strijd is met het bepaalde bij een ministeriële regeling, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=35&z=2005-03-01&g=2005-03-01);
 
 - c. de prestaties, waartoe partijen zich hebben verbonden kennelijk onevenredig zijn;
 
@@ -432,7 +432,7 @@ Het is de huurder van visrecht verboden de visserij uit te oefenen in het water,
 
 ##### Artikel 30
 
-1. Indien de Kamer haar goedkeuring aan een overeenkomst van huur en verhuur van visrecht of aan een overeenkomst tot wijziging of aanvulling van zodanige overeenkomst zou moeten onthouden, wijzigt zij de overeenkomst op het punt of de punten, welke in verband met het bepaalde in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2003-01-01&g=2003-01-01), de goedkeuring verhinderen of verklaart zij haar nietig.
+1. Indien de Kamer haar goedkeuring aan een overeenkomst van huur en verhuur van visrecht of aan een overeenkomst tot wijziging of aanvulling van zodanige overeenkomst zou moeten onthouden, wijzigt zij de overeenkomst op het punt of de punten, welke in verband met het bepaalde in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2005-03-01&g=2005-03-01), de goedkeuring verhinderen of verklaart zij haar nietig.
 
 Uit een door de Kamer op de overeenkomst geplaatste aantekening moet blijken, dat de overeenkomst door de Kamer is gewijzigd.
 
@@ -442,7 +442,7 @@ Uit een door de Kamer op de overeenkomst geplaatste aantekening moet blijken, da
 
 1. Zij die voornemens zijn met elkaar een overeenkomst van huur en verhuur van visrecht dan wel een overeenkomst tot wijziging of aanvulling van zodanige overeenkomst aan te gaan, zijn bevoegd een ontwerp-overeenkomst ter goedkeuring aan de Kamer in te zenden.
 
-2. De Kamer beoordeelt de ontwerp-overeenkomst met toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2003-01-01&g=2003-01-01); zij kan haar goedkeuring afhankelijk stellen van wijzigingen, welke zij in verband met het bepaalde in dat artikel nodig oordeelt.
+2. De Kamer beoordeelt de ontwerp-overeenkomst met toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2005-03-01&g=2005-03-01); zij kan haar goedkeuring afhankelijk stellen van wijzigingen, welke zij in verband met het bepaalde in dat artikel nodig oordeelt.
 
 3. Indien binnen twee maanden, nadat de Kamer een ontwerp-overeenkomst heeft goedgekeurd, een overeenkomst wordt ingezonden, welke gelijk is aan de ontwerp-overeenkomst, zoals deze werd goedgekeurd, is de Kamer tot goedkeuring gehouden.
 
@@ -486,7 +486,7 @@ Dit verzoek wordt ten minste een half jaar vóór het einde van de lopende overe
 
 9. Indien de Kamer een niet overeenkomstig het bepaalde in het derde lid beperkt verzoek tot verlenging toewijst, kan zij, indien daartoe naar haar oordeel aanleiding bestaat, de prestatie van de huurder herzien.
 
-10. Indien de Kamer het verzoek geheel of onder beperkingen toewijst, kan zij de overeenkomst wijzigen of aan haar besluit voorschriften verbinden ter verzekering van de belangen van de verhuurder of van de bij de uitoefening van het visrecht betrokken visserijbelangen van derden. Alsdan is [artikel 30, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=30&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing.
+10. Indien de Kamer het verzoek geheel of onder beperkingen toewijst, kan zij de overeenkomst wijzigen of aan haar besluit voorschriften verbinden ter verzekering van de belangen van de verhuurder of van de bij de uitoefening van het visrecht betrokken visserijbelangen van derden. Alsdan is [artikel 30, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=30&z=2005-03-01&g=2005-03-01), van overeenkomstige toepassing.
 
 ##### Artikel 34
 
@@ -600,7 +600,15 @@ De voordrachten bevatten een dubbeltal voor ieder te benoemen lid.
 
 ##### Artikel 48
 
-De secretaris en de plaatsvervangende secretarissen moeten aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, hebben verkregen het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren, mits dit doctoraat of dit recht verkregen is op grond van het afleggen van een examen in het Nederlands burgerlijk recht, handelsrecht, staatsrecht en strafrecht.
+1. Voor benoeming tot secretaris of plaatsvervangende secretaris komt in aanmerking degene:
+
+- a. aan wie door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of
+
+- b. die aan een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, het doctoraat in de rechtsgeleerdheid of het recht om de titel meester te voeren heeft verkregen.
+
+2. De graden, het doctoraat of het recht, bedoeld in het eerste lid, moeten zijn verkregen op grond van het afleggen van een examen aan een opleiding in het wetenschappelijk onderwijs in het Nederlands burgerlijk recht, handelsrecht, staatsrecht en strafrecht.
+
+2a. Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onderdeel a, gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht. In die algemene maatregel van bestuur kan tevens worden bepaald dat van de exameneisen ten aanzien van bepaalde rechtsgebieden, genoemd in het tweede lid, kan worden afgeweken.
 
 ##### Artikel 49
 
@@ -612,7 +620,7 @@ De secretaris en de plaatsvervangende secretarissen moeten aan een universiteit 
 
 2. Onverminderd hetgeen elders is bepaald, kunnen de in het vorige lid genoemde personen worden ontslagen:
 
-- a. bij overtreding van het bepaalde in de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=50&z=2003-01-01&g=2003-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=51&z=2003-01-01&g=2003-01-01);
+- a. bij overtreding van het bepaalde in de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=50&z=2005-03-01&g=2005-03-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=51&z=2005-03-01&g=2005-03-01);
 
 - b. wanneer zij in staat van faillissement zijn verklaard ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij, surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.
 
@@ -622,7 +630,7 @@ De secretaris en de plaatsvervangende secretarissen moeten aan een universiteit 
 
 ##### Artikel 50
 
-1. De in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=49&z=2003-01-01&g=2003-01-01) bedoelde personen zijn verplicht het geheim te bewaren omtrent hetgeen hun als zodanig bekend wordt.
+1. De in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=49&z=2005-03-01&g=2005-03-01) bedoelde personen zijn verplicht het geheim te bewaren omtrent hetgeen hun als zodanig bekend wordt.
 
 2. Zij mogen zich noch direct noch indirect in enig bijzonder onderhoud of gesprek inlaten met partijen of derzelver raadslieden, noch enige bijzondere onderrichting, memorie of schrifturen aannemen over enige aangelegenheid, welke aanhangig is of waarvan zij weten of vermoeden, dat deze aanhangig zal worden bij de Kamer.
 
@@ -630,7 +638,7 @@ De secretaris en de plaatsvervangende secretarissen moeten aan een universiteit 
 
 ##### Artikel 51
 
-Het is aan de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=49&z=2003-01-01&g=2003-01-01) bedoelde personen verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij de Kamer of bij Ons aanhangig zijn, of waarvan zij weten of vermoeden, dat deze bij de Kamer of bij Ons aanhangig zullen worden.
+Het is aan de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=II&paragraaf=2&artikel=49&z=2005-03-01&g=2005-03-01) bedoelde personen verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij de Kamer of bij Ons aanhangig zijn, of waarvan zij weten of vermoeden, dat deze bij de Kamer of bij Ons aanhangig zullen worden.
 
 ##### Artikel 52
 
@@ -680,17 +688,17 @@ Vervallen
 
 ##### Artikel 56
 
-1. Overtreding van het bepaalde bij of krachtens de [artikelen 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2003-01-01&g=2003-01-01), [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2b&z=2003-01-01&g=2003-01-01), [2c, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2003-01-01&g=2003-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2003-01-01&g=2003-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01), en [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2003-01-01&g=2003-01-01), alsmede overtreding van het bepaalde bij of krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01), indien wordt gevist met één of meer hengels, dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens die artikelen verleende vergunningen, vrijstellingen, of ontheffingen, wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
+1. Overtreding van het bepaalde bij of krachtens de [artikelen 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2005-03-01&g=2005-03-01), [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2b&z=2005-03-01&g=2005-03-01), [2c, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2005-03-01&g=2005-03-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2005-03-01&g=2005-03-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01), en [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2005-03-01&g=2005-03-01), alsmede overtreding van het bepaalde bij of krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01), indien wordt gevist met één of meer hengels, dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens die artikelen verleende vergunningen, vrijstellingen, of ontheffingen, wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-2. Overtreding van het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2003-01-01&g=2003-01-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2003-01-01&g=2003-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=27&z=2003-01-01&g=2003-01-01) en [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=32&z=2003-01-01&g=2003-01-01), dan wel van de voorschriften, bedoeld in de [artikelen 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2003-01-01&g=2003-01-01), [22, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2003-01-01&g=2003-01-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2003-01-01&g=2003-01-01), en [33, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=33&z=2003-01-01&g=2003-01-01) wordt gestraft met hechtenis van ten hoogste een week of geldboete van de eerste categorie.
+2. Overtreding van het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2005-03-01&g=2005-03-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2005-03-01&g=2005-03-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=27&z=2005-03-01&g=2005-03-01) en [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=32&z=2005-03-01&g=2005-03-01), dan wel van de voorschriften, bedoeld in de [artikelen 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=17&z=2005-03-01&g=2005-03-01), [22, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=22&z=2005-03-01&g=2005-03-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=29&z=2005-03-01&g=2005-03-01), en [33, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=5&artikel=33&z=2005-03-01&g=2005-03-01) wordt gestraft met hechtenis van ten hoogste een week of geldboete van de eerste categorie.
 
-3. Overtreding van het bepaalde bij of krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01), dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens dat artikel verleende vergunningen of ontheffingen, wordt, indien wordt gevist anders dan met één of meer hengels, gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de vierde categorie.
+3. Overtreding van het bepaalde bij of krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01), dan wel van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens dat artikel verleende vergunningen of ontheffingen, wordt, indien wordt gevist anders dan met één of meer hengels, gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de vierde categorie.
 
 4. De in dit artikel strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 57
 
-1. Bij veroordeling wegens overtreding van het bepaalde bij of krachtens de [artikelen 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2003-01-01&g=2003-01-01), [2**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2003-01-01&g=2003-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2003-01-01&g=2003-01-01), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2003-01-01&g=2003-01-01), [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2003-01-01&g=2003-01-01), en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2003-01-01&g=2003-01-01), kan aan de veroordeelde de bevoegdheid om krachtens een akte te vissen voor ten hoogste drie jaren worden ontzegd.
+1. Bij veroordeling wegens overtreding van het bepaalde bij of krachtens de [artikelen 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2a&z=2005-03-01&g=2005-03-01), [2**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=I&paragraaf=3&artikel=2c&z=2005-03-01&g=2005-03-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=7&z=2005-03-01&g=2005-03-01), [9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=9&z=2005-03-01&g=2005-03-01), [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=3&artikel=16&z=2005-03-01&g=2005-03-01), en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=4&artikel=21&z=2005-03-01&g=2005-03-01), kan aan de veroordeelde de bevoegdheid om krachtens een akte te vissen voor ten hoogste drie jaren worden ontzegd.
 
 2. Bij toepassing van het eerste lid gaat de geldigheid van de akte, aan de veroordeelde afgegeven, verloren, zodra het vonnis voor tenuitvoerlegging vatbaar is geworden.
 
@@ -700,17 +708,17 @@ De betrokken officier van justitie doet daarvan onmiddellijk mededeling aan Onze
 
 De Nederlandse strafwet is mede van toepassing op een ieder die zich buiten Nederland,
 
-- a. binnen de visserijzone schuldig maakt aan de krachtens de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2003-01-01&g=2003-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01) strafbaar gestelde gedragingen;
+- a. binnen de visserijzone schuldig maakt aan de krachtens de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2005-03-01&g=2005-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=4&z=2005-03-01&g=2005-03-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=III&artikel=5&z=2005-03-01&g=2005-03-01) strafbaar gestelde gedragingen;
 
-- b. buiten de visserijzone schuldig maakt aan de krachtens [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2003-01-01&g=2003-01-01) strafbaar gestelde gedragingen, voorzover het betreft de overtreding van regelen gesteld ter uitvoering van besluiten van een regionale visserijorganisatie houdende beheers- en instandhoudingsmaatregelen genomen op grond van de op 4 augustus 1995 te New York tot stand gekomen Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en over grote afstanden trekkende visbestanden.
+- b. buiten de visserijzone schuldig maakt aan de krachtens [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IIA&artikel=3a&z=2005-03-01&g=2005-03-01) strafbaar gestelde gedragingen, voorzover het betreft de overtreding van regelen gesteld ter uitvoering van besluiten van een regionale visserijorganisatie houdende beheers- en instandhoudingsmaatregelen genomen op grond van de op 4 augustus 1995 te New York tot stand gekomen Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en over grote afstanden trekkende visbestanden.
 
 ##### Artikel 59
 
-Met het opsporen van de feiten, strafbaar gesteld bij de [artikelen 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=55&z=2003-01-01&g=2003-01-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=56&z=2003-01-01&g=2003-01-01) en [61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=61&z=2003-01-01&g=2003-01-01), zijn, behalve de bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane en de door Onze Minister aangewezen ambtenaren.
+Met het opsporen van de feiten, strafbaar gesteld bij de [artikelen 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=55&z=2005-03-01&g=2005-03-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=56&z=2005-03-01&g=2005-03-01) en [61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=61&z=2005-03-01&g=2005-03-01), zijn, behalve de bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane en de door Onze Minister aangewezen ambtenaren.
 
 ##### Artikel 60
 
-De in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=59&z=2003-01-01&g=2003-01-01) bedoelde ambtenaren hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
+De in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=VI&artikel=59&z=2005-03-01&g=2005-03-01) bedoelde ambtenaren hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.
 
 ##### Artikel 61
 
@@ -780,9 +788,9 @@ Vervallen
 
 ##### Artikel 74
 
-1. Bij algemene maatregel van bestuur worden bedragen vastgesteld welke verschuldigd zijn ter zake van het ingevolge deze wet uitreiken van bescheiden, andere dan die bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=6&z=2003-01-01&g=2003-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2003-01-01&g=2003-01-01).
+1. Bij algemene maatregel van bestuur worden bedragen vastgesteld welke verschuldigd zijn ter zake van het ingevolge deze wet uitreiken van bescheiden, andere dan die bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=6&z=2005-03-01&g=2005-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=10&z=2005-03-01&g=2005-03-01).
 
-2. Bij algemene maatregel van bestuur wordt bepaald dat leges ter zake van bemoeiingen met het ingevolge deze wet aanvragen of uitreiken van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=6&z=2003-01-01&g=2003-01-01) bedoelde consent niet hoger mogen zijn dan het daarbij vastgestelde bedrag.
+2. Bij algemene maatregel van bestuur wordt bepaald dat leges ter zake van bemoeiingen met het ingevolge deze wet aanvragen of uitreiken van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&hoofdstuk=IV&artikel=6&z=2005-03-01&g=2005-03-01) bedoelde consent niet hoger mogen zijn dan het daarbij vastgestelde bedrag.
 
 ##### Artikel 75
 
