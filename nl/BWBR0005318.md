@@ -4,7 +4,7 @@ identifier: "BWBR0005318"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "1996-12-24"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005318"
 soort: "wet"
@@ -54,18 +54,6 @@ Bevat wijzigingen in andere regelgeving.
 
 - A. De Wet Belastingherziening 1950 (**Stb.** K423) wordt ingetrokken.
 
-- B.
-
-- 1. Artikel 10 van de Wet Belastingherziening 1950, zoals dat luidt op 31 december 1991, blijft van kracht voor lichamen die op 31 december 1991 aan de in dat artikel genoemde voorwaarden voldoen met dien verstande dat het gestorte kapitaal onderscheidenlijk de inleggelden niet hoger worden gesteld dan het gestorte kapitaal onderscheidenlijk de inleggelden op 1 januari 1992 verminderd met de opbrengst van de sedert die datum vervreemde woningen.
-
-- 2. Het eerste lid is van toepassing tot het begin van het boekjaar waarin:
-
-- a. het gestorte kapitaal van het lichaam is, onderscheidenlijk de inleggelden van het lichaam zijn verhoogd;
-
-- b. door het lichaam één of meer woningen zijn verkregen;
-
-- c. één of meer aandelen onderscheidenlijk lidmaatschapsrechten in het lichaam zijn vervreemd.
-
 ##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
@@ -102,6 +90,6 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet treedt in werking met ingang van 1 januari 1992.
 
-2. [Artikel II, onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0005318&artikel=II&z=1996-12-24&g=1996-12-24), alsmede [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0005318&artikel=III&z=1996-12-24&g=1996-12-24) vinden voor het eerst toepassing met betrekking tot de heffing over het jaar dat aanvangt op of na 1 januari 1992.
+2. [Artikel II, onderdelen C en F](https://wetten.overheid.nl/jci1.3:c:BWBR0005318&artikel=II&z=2004-01-01&g=2004-01-01), alsmede [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0005318&artikel=III&z=2004-01-01&g=2004-01-01) vinden voor het eerst toepassing met betrekking tot de heffing over het jaar dat aanvangt op of na 1 januari 1992.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
