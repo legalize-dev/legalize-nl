@@ -4,7 +4,7 @@ identifier: "BWBR0018612"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-01-13"
-last_updated: "2001-01-01"
+last_updated: "2002-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018612"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2006-01-13"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit financiële verhouding 2001.
 
 ##### Artikel II
 
@@ -54,7 +54,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-1. De maatstaf minderheden, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018612&bijlage=2&z=2006-01-13&g=2001-01-01) bij dit besluit onder nummer 12, treedt in werking met ingang van 1 januari 2006.
+1. De maatstaf minderheden, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018612&bijlage=2&z=2006-01-13&g=2002-07-13) bij dit besluit onder nummer 12, treedt in werking met ingang van 1 januari 2006.
 
 2. Tot dat tijdstip worden voor de vreemdelingen die op grond van asiel verblijf houden de aantallen gehanteerd zoals vastgesteld per 1 januari 2001.
 
@@ -69,19 +69,3 @@ Dit onderdeel is nog niet inwerking getreden
 ## Bijlage 2
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 maart 2005, nr. 2005-0000045215, Directie Bestuurlijke en Financiële Organisatie, gedaan mede namens de Staatssecretaris van Financiën;
-
-Gelet op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=8), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13), en [22 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22);
-
-De Raad van State gehoord (advies van 9 juni 2005, nr. W04.05.0105/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2005, nr. 0000116097, directie Bestuurlijke en Financiële Organisatie, uitgebracht mede namens de Staatssecretaris van Financiën;
-
-Hebben goedgevonden en verstaan:
-
-## Bijlage 2
-
-Wijzigt het Besluit financiële verhouding 2001.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
