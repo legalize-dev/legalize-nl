@@ -4,7 +4,7 @@ identifier: "BWBR0011367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-01-29"
-last_updated: "2000-06-09"
+last_updated: "2004-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011367"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=2&z=2000-06-09&g=2000-06-09);
+- a. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=2&z=2004-01-29&g=2004-01-29);
 
 - b. **Minister:** Minister van Verkeer en Waterstaat;
 
-- c. **programma:** door de Minister vastgesteld Programma Transportpreventie (Staatscourant 2000, nr. 37);
+- c. **programma:** door de Minister vastgesteld Programma Transportbesparing;
 
 - d. **programmabeheerder:** het agentschap van het Ministerie van Economische Zaken ‘Senter’;
 
-- e. **subsidie:** subsidie in het kader van het Programma Transportpreventie.
+- e. **subsidie:** subsidie in het kader van het Programma Transportbesparing.
 
 ##### Artikel 2
 
-Er is een Commissie van Externe Deskundigen Subsidieprogramma Transportpreventie.
+Er is een Adviescommissie van het Programma Transportbesparing.
 
 ##### Artikel 3
 
@@ -104,7 +104,7 @@ Een ieder die betrokken is bij de werkzaamheden van het college en daarbij de be
 
 ##### Artikel 9
 
-De commissie biedt haar advies, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=3&z=2000-06-09&g=2000-06-09), binnen twee maanden na de datum tot welke aanvragen om subsidie ingediend kunnen worden, aan de minister aan.
+De commissie biedt haar advies, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011367&artikel=3&z=2004-01-29&g=2004-01-29), binnen twee maanden na de datum tot welke aanvragen om subsidie ingediend kunnen worden, aan de minister aan.
 
 ##### Artikel 10
 
