@@ -4,7 +4,7 @@ identifier: "BWBR0003968"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-07"
+last_updated: "2005-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003968"
 soort: "wet"
@@ -138,9 +138,9 @@ Het blijvend buitengewoon pensioen wordt toegekend, indien, hetzij bij eerste to
 
 1. Ingeval krachtens deze wet aanspraak op buitengewoon pensioen bestaat, stelt de Raad de pensioengrondslag vast, waarnaar het buitengewoon pensioen wordt berekend.
 
-- a. Indien de deelnemer aan het verzet voor het bereiken van de leeftijd, waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen, ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-07&g=2005-01-07), gedwongen werd of wordt zijn werkzaamheden in beroep of bedrijf te beëindigen of blijvend te verminderen, wordt de pensioengrondslag vastgesteld naar het inkomen uit arbeid, dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2005-01-07&g=2005-01-07), in Nederland, ware hij niet invalide geweest, zou hebben genoten uit het door hem uitgeoefende beroep of bedrijf, waarin hij voor het eerst ten gevolge van zijn invaliditeit zijn werkzaamheden moest beëindigen of blijvend verminderen;
+- a. Indien de deelnemer aan het verzet voor het bereiken van de leeftijd, waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen, ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-21&g=2005-01-21), gedwongen werd of wordt zijn werkzaamheden in beroep of bedrijf te beëindigen of blijvend te verminderen, wordt de pensioengrondslag vastgesteld naar het inkomen uit arbeid, dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2005-01-21&g=2005-01-21), in Nederland, ware hij niet invalide geweest, zou hebben genoten uit het door hem uitgeoefende beroep of bedrijf, waarin hij voor het eerst ten gevolge van zijn invaliditeit zijn werkzaamheden moest beëindigen of blijvend verminderen;
 
-- b. indien de deelnemer aan het verzet, bedoeld onder a, na het tot uiting komen van de invaliditeit ten gevolge waarvan hij zijn werkzaamheden in beroep of bedrijf heeft moeten beëindigen of blijvend verminderen, arbeid heeft aanvaard in een ander beroep of bedrijf, wordt, indien dat voor hem gunstiger is, de pensioengrondslag vastgesteld naar het inkomen dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2005-01-07&g=2005-01-07), in Nederland uit arbeid in laatstbedoeld beroep of bedrijf zou hebben genoten, indien hij deze werkzaamheden door of in verband met zijn invaliditeit niet had moeten beëindigen of blijvend verminderen;
+- b. indien de deelnemer aan het verzet, bedoeld onder a, na het tot uiting komen van de invaliditeit ten gevolge waarvan hij zijn werkzaamheden in beroep of bedrijf heeft moeten beëindigen of blijvend verminderen, arbeid heeft aanvaard in een ander beroep of bedrijf, wordt, indien dat voor hem gunstiger is, de pensioengrondslag vastgesteld naar het inkomen dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2005-01-21&g=2005-01-21), in Nederland uit arbeid in laatstbedoeld beroep of bedrijf zou hebben genoten, indien hij deze werkzaamheden door of in verband met zijn invaliditeit niet had moeten beëindigen of blijvend verminderen;
 
 - c. onder arbeid in een ander beroep of bedrijf, bedoeld onder b, wordt verstaan: arbeid, welke gedurende een aaneengesloten periode van tenminste drie jaar in de voor dat beroep of bedrijf gebruikelijke arbeidstijd is verricht;
 
@@ -152,26 +152,26 @@ Het blijvend buitengewoon pensioen wordt toegekend, indien, hetzij bij eerste to
 
 5. Bij door Onze Minister te stellen regelen wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, bedoeld in het tweede lid, moet worden verstaan.
 
-6. Indien de deelnemer aan het verzet vóór het tot uiting komen van zijn invaliditeit ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-07&g=2005-01-07), door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, en hij ten gevolge van die invaliditeit nimmer in staat is geweest door arbeid in beroep of bedrijf een inkomen te verwerven dat in overeenstemming was met het niveau van het gevolgde onderwijs, wordt de pensioengrondslag vastgesteld met inachtneming van door Onze Minister te stellen regelen.
+6. Indien de deelnemer aan het verzet vóór het tot uiting komen van zijn invaliditeit ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-21&g=2005-01-21), door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, en hij ten gevolge van die invaliditeit nimmer in staat is geweest door arbeid in beroep of bedrijf een inkomen te verwerven dat in overeenstemming was met het niveau van het gevolgde onderwijs, wordt de pensioengrondslag vastgesteld met inachtneming van door Onze Minister te stellen regelen.
 
-7. Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-07&g=2005-01-07), niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.
+7. Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2005-01-21&g=2005-01-21), niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.
 
 8. De pensioengrondslag bedraagt per 1 januari 1983 op jaarbasis:
 
-- a. tenminste € 20.900,76 voor een nabetaling over december 2003: € 26.575,20, en ten hoogste
+- a. tenminste € 20.925,84 voor een nabetaling over december 2004: € 21.201,73, en ten hoogste
 
 - b.
 
-| 100 % van de eerste | € 43.600,00 |
+| 100 % van de eerste | € 43.652,32 |
 | --- | --- |
-| 36,84% van de volgende | € 26.925,11 |
-| 30 % van de volgende | € 14.169,61 |
-| 20 % van de volgende | € 14.382,76 |
-| 10 % van de volgende | € 14.208,55 en |
-| 5 % van de volgende | € 28.327,74 |
+| 36,84% van de volgende | € 26.957,42 |
+| 30 % van de volgende | € 14.186,61 |
+| 20 % van de volgende | € 14.400,02 |
+| 10 % van de volgende | € 14.225,60 en |
+| 5 % van de volgende | € 28.361,73 |
 | van het overeenkomstig de voorgaande leden vastgestelde jaarinkomen. | van het overeenkomstig de voorgaande leden vastgestelde jaarinkomen. |
 
-voor een nabetaling over december 2003 achtereenvolgens: € 55.437,16; € 34.235,13; € 18.016,58; € 18.287,60; 18.066,09 en 36.018,57
+voor een nabetaling over december 2004 achtereenvolgens: € 44.227,84; € 27.312,83; € 14.373,65; € 14.589,87; € 14.413,15 en € 28.735,66
 
 #### § 4. De berekening van het buitengewoon pensioen
 
@@ -381,9 +381,9 @@ Vervallen
 
 1. Alvorens op een aanvraag om een buitengewoon pensioen dan wel een aanvraag erkend te worden als deelnemer aan het verzet wordt beslist, wordt een rapport opgesteld omtrent de omstandigheden waarop de aanvraag berust.
 
-2. Binnen vier maanden nadat de opdracht daartoe is ingekomen, wordt door de Stichting Pelita in de opstelling van het rapport voorzien, met dien verstande dat in de opstelling van het rapport binnen vier weken wordt voorzien, indien de aanvraag afkomstig is van een persoon als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2005-01-07&g=2005-01-07) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2005-01-07&g=2005-01-07) en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen, aanspraken op deze wet heeft doen gelden.
+2. Binnen vier maanden nadat de opdracht daartoe is ingekomen, wordt door de Stichting Pelita in de opstelling van het rapport voorzien, met dien verstande dat in de opstelling van het rapport binnen vier weken wordt voorzien, indien de aanvraag afkomstig is van een persoon als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2005-01-21&g=2005-01-21) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2005-01-21&g=2005-01-21) en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen, aanspraken op deze wet heeft doen gelden.
 
-3. De Stichting Pelita voegt binnen de in het tweede lid genoemde termijn van vier maanden aan het rapport een verklaring toe dat op grond van de daarin opgenomen gegevens naar haar oordeel de aanvrager of de overledene al dan niet kan worden aangemerkt als deelnemer aan het verzet in de zin van deze wet en dat een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2005-01-07&g=2005-01-07), al dan niet aanwezig is. Indien de aanvraag afkomstig is van een persoon, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2005-01-07&g=2005-01-07) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2005-01-07&g=2005-01-07), en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen aanspraken op deze wet heeft doen gelden, geeft de Stichting Pelita de verklaring, waaruit blijkt of ten aanzien van de aanvrager een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2005-01-07&g=2005-01-07), al dan niet aanwezig is, binnen de in het tweede lid gestelde termijn van vier weken af.
+3. De Stichting Pelita voegt binnen de in het tweede lid genoemde termijn van vier maanden aan het rapport een verklaring toe dat op grond van de daarin opgenomen gegevens naar haar oordeel de aanvrager of de overledene al dan niet kan worden aangemerkt als deelnemer aan het verzet in de zin van deze wet en dat een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2005-01-21&g=2005-01-21), al dan niet aanwezig is. Indien de aanvraag afkomstig is van een persoon, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2005-01-21&g=2005-01-21) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2005-01-21&g=2005-01-21), en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen aanspraken op deze wet heeft doen gelden, geeft de Stichting Pelita de verklaring, waaruit blijkt of ten aanzien van de aanvrager een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2005-01-21&g=2005-01-21), al dan niet aanwezig is, binnen de in het tweede lid gestelde termijn van vier weken af.
 
 4. Indien de Stichting Pelita niet tijdig in de rapportage en de verklaring voorziet, kan de Raad, met instemming van de betrokkene, besluiten op andere wijze de benodigde informatie in te winnen.
 
