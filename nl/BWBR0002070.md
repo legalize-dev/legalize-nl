@@ -4,7 +4,7 @@ identifier: "BWBR0002070"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-18"
-last_updated: "2001-06-01"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002070"
 soort: "KB"
@@ -42,11 +42,11 @@ Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat P
 
 ##### Artikel 1
 
-Aan alle militairen beneden de rang van tweede-luitenant, die behoren tot het **beroepspersoneel** der Koninklijke landmacht of der Koninklijke Luchtmacht, worden nà het volbrengen van een eerlijke en trouwe dienst, als hieronder nader aangeduid, de volgende onderscheidingen toegekend, te weten: **a**. na twaalf jaren dienst, een bronzen medaille, ter grootte van zevenentwintig millimeter in middellijn, waarop aan de voorzijde de Koninklijke mantel met een gekroonde W en aan de achterzijde 's Rijks wapen, rustende op militaire zinnebeelden, met het omschrift "Voor trouwe dienst" zullen gestempeld zijn. Het lint, van oranje moiré zijde, is 27 millimeter breed. De medaille wordt gedragen op het lint, dat in opgemaakte vorm 40 millimeter breed is; **b**. na **vier en twintig** jaren dienst, een **zilveren** medaille, van dezelfde grootte en op dezelfde stempel geslagen als de bronzen medaille, te dragen op een oranje lint, als voren; **c**. na **zes en dertig** jaren dienst, een **gouden** medaille, van dezelfde grootte en op dezelfde stempel geslagen als de bronzen medaille, te dragen op een oranje lint, als voren.
+Aan alle militairen beneden de rang van tweede-luitenant, die behoren tot het **beroepspersoneel** van de Koninklijke Landmacht, van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee, alsmede aan alle reservisten van die krijgsmachtdelen beneden de rang van tweede-luitenant, die krachtens een vrijwillige verbintenis verplicht zijn tot het verrichten van werkelijke dienst, worden nà het volbrengen van een eerlijke en trouwe dienst, als hieronder nader aangeduid, de volgende onderscheidingen toegekend, te weten: **a**. na twaalf jaren dienst, een bronzen medaille, ter grootte van zevenentwintig millimeter in middellijn, waarop aan de voorzijde de Koninklijke mantel met een gekroonde W en aan de achterzijde 's Rijks wapen, rustende op militaire zinnebeelden, met het omschrift "Voor trouwe dienst" zullen gestempeld zijn. Het lint, van oranje moiré zijde, is 27 millimeter breed. De medaille wordt gedragen op het lint, dat in opgemaakte vorm 40 millimeter breed is; **b**. na **vier en twintig** jaren dienst, een **zilveren** medaille, van dezelfde grootte en op dezelfde stempel geslagen als de bronzen medaille, te dragen op een oranje lint, als voren; **c**. na **zes en dertig** jaren dienst, een **gouden** medaille, van dezelfde grootte en op dezelfde stempel geslagen als de bronzen medaille, te dragen op een oranje lint, als voren.
 
 ##### Artikel 2
 
-1. Voor de toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=1987-03-28&g=2001-06-01) bedoelde medailles worden voorts vereist, zodanig goed gedrag en zodanig goede plichtsbetrachting gedurende de diensttijd, als onder eerlijke en trouwe dienst behoort te worden verstaan.
+1. Voor de toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles worden voorts vereist, zodanig goed gedrag en zodanig goede plichtsbetrachting gedurende de diensttijd, als onder eerlijke en trouwe dienst behoort te worden verstaan.
 
 2. Is de toekenning van een medaille, in verband met berispelijk gedrag of onvoldoende plichtsbetrachting van de betrokken militair, uitgesteld tot een later tijdstip dan waarop het recht daarop op normale wijze zou zijn verkregen, dan behoeft de toekenning van een medaille (medailles), waarop eventueel nog recht bestaat, niet evenredig later plaats te hebben.
 
@@ -64,21 +64,21 @@ De medailles worden uitgereikt op een wijze, waaruit de waardering voor de bewez
 
 1. Bij toekenning van de zilveren en de gouden medaille mogen respectievelijk de eerder toegekende bronzen en zilveren medaille niet meer worden gedragen.
 
-2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=1987-03-28&g=2001-06-01) blijven de toegekende medailles het eigendom van de begiftigde.
+2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2002-10-09&g=2002-10-09) blijven de toegekende medailles het eigendom van de begiftigde.
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
 ##### Artikel 6
 
-1. Bij toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=1987-03-28&g=2001-06-01) bedoelde medailles wordt aan de begiftigde tevens een brevet uitgereikt, waaruit de toekenning blijkt.
+1. Bij toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles wordt aan de begiftigde tevens een brevet uitgereikt, waaruit de toekenning blijkt.
 
-2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=1987-03-28&g=2001-06-01) blijven de uitgereikte brevetten zijn eigendom.
+2. Behoudens het bepaalde bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=10&z=2002-10-09&g=2002-10-09) blijven de uitgereikte brevetten zijn eigendom.
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
 ##### Artikel 7
 
-Het is de begiftige vergund de medaille in verkleinde vorm te dragen in alle gevallen, waarbij het dragen van de model medaille niet verplicht is.
+Het is de begiftigde vergund de medaille in verkleinde vorm te dragen in alle gevallen, waarbij het dragen van de model medaille niet verplicht is.
 
 ##### Artikel 8
 
@@ -86,7 +86,7 @@ Na ontslag uit de militaire dienst blijft de begiftigde gerechtigd tot het drage
 
 ##### Artikel 9
 
-1. Het berekenen van de diensttijd tot het verkrijgen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=1987-03-28&g=2001-06-01) van dit besluit bedoelde medailles geschiedt, behoudens het bepaalde in de leden 2 tot en met 4 van dit artikel, op overeenkomstige wijze als het berekenen van de diensttijd tot het verkrijgen van pensioen krachtens het bepaalde in:
+1. Het berekenen van de diensttijd tot het verkrijgen van de in [artikel 1 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) bedoelde medailles geschiedt, behoudens het bepaalde in de leden 2 tot en met 4 van dit artikel, op overeenkomstige wijze als het berekenen van de diensttijd tot het verkrijgen van pensioen krachtens het bepaalde in:
 
 artikel A 3;
 
@@ -100,17 +100,19 @@ artikel D 3, eerste lid, met dien verstande dat voor de militair die tussen 31 d
 
 artikel D 4 en artikel D 5, vijfde lid, alsmede artikel D 6 van de Algemene militaire pensioenwet, met dien verstande, dat het gestelde in de derde volzin van het eerste lid van laatstgenoemd artikel buiten toepassing blijft.
 
-Met betrekking tot de vaststelling van de in [artikel 1, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=1987-03-28&g=2001-06-01), respectievelijk onder **c** van dit besluit genoemde diensttijd worden evenwel ten hoogste zes, respectievelijk negen jaren dubbel geteld.
+Met betrekking tot de vaststelling van de in [artikel 1, onder **b**, respectievelijk onder **c** van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) genoemde diensttijd worden evenwel ten hoogste zes, respectievelijk negen jaren dubbel geteld.
 
-2. Mede komt in aanmerking de tijd: **a**. welke op **wachtgeld** is doorgebracht door een - terzake van opheffing van de betrekking van de militair, of ter zake van verandering in de organisatie van de tak van dienst, waartoe de militair behoort - eervol ontslagen beroepsmilitair der Koninklijke landmacht of de Koninklijke luchtmacht, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, **b**. welke op **pensioen** is doorgebracht door een - terzake van het verbreken van zijn dienstverband tijdens de vijandelijke bezetting van Nederlands grondgebied - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van twee-luitenant, die als zodanig is herplaatst, een en ander met inachtneming van de Wet van 8 maart 1956 (**Stb.** 132), voorzover deze van toepassing is.
+2. Mede komt in aanmerking de tijd: **a**. welke op **wachtgeld** is doorgebracht door een - terzake van opheffing van de betrekking van de militair, of ter zake van verandering in de organisatie van de tak van dienst, waartoe de militair behoort - eervol ontslagen beroepsmilitair van de Koninklijke Landmacht, van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, **b**. welke op **pensioen** is doorgebracht door een - terzake van het verbreken van zijn dienstverband tijdens de vijandelijke bezetting van Nederlands grondgebied - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van twee-luitenant, die als zodanig is herplaatst, een en ander met inachtneming van de [Wet van 8 maart 1956 (**Stb.** 132)](https://wetten.overheid.nl/jci1.3:c:BWBR0002206), voorzover deze van toepassing is.
 
 3. Voorts komt in aanmerking de **diensttijd**, welke een tijdens de vijandelijke bezetting van Nederlands grondgebied - terzake van overgang in een burgeroverheidsbetrekking - eervol ontslagen beroepsmilitair der Koninklijke landmacht, beneden de rang van tweede-luitenant, die als zodanig is herplaatst, na dat ontslag bij de Marechaussee, de Staatspolitie of de Rijkspolitie heeft volbracht.
 
 4. De tijd doorgebracht als vrijwilliger met z.g. kort dienstverband of als militieplichtige bij het voormalig Koninklijk Nederlands Indonesisch Leger, dan wel als schutterplichtige bij de voormalige troepenmacht (c.q. landmacht) in SURINAME en/of in CURAÇAO (c.q. NEDERLANDSE ANTILLEN) wordt - indien deze tijd niet reeds wordt vergolden op grond van het bepaalde in lid 1 van dit artikel - medegeteld op de in lid 1 van dit artikel aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
 
+5. De tijd doorgebracht als reservist als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) wordt – indien deze tijd niet reeds wordt vergolden op grond van het eerste lid – meegeteld op de in het eerste lid aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
+
 ##### Artikel 10
 
-1. De op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=1987-03-28&g=2001-06-01) toegekende of laatstelijk toegekende medailles, alsmede het daarbij uitgereikte brevet, worden verbeurd:
+1. De op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2002-10-09&g=2002-10-09) toegekende of laatstelijk toegekende medailles, alsmede het daarbij uitgereikte brevet, worden verbeurd:
 
 a. door niet-eervol ontslag uit de militaire dienst;
 
@@ -120,13 +122,13 @@ c. door onherroepelijke veroordeling ter zake van desertie;
 
 d. door verlaging, opgelegd als krijgstuchtelijke straf, dan wel bij rechterlijk gewijsde bevolen.
 
-2. De met een medaille begiftigde, die verkeert in één der gevallen in het voorgaande lid bedoeld, is **verplicht** de hem toegekende of laatstelijk toegekende medaille, alsmede het daarbij behorende brevet, naar door Onze Minister van Oorlog te stellen regelen, af te geven of toe te zenden aan een door genoemde Minister aan te wijzen autoriteit.
+2. De met een medaille begiftigde, die verkeert in één der gevallen in het voorgaande lid bedoeld, is **verplicht** de hem toegekende of laatstelijk toegekende medaille, alsmede het daarbij behorende brevet, naar door Onze Minister van Defensie te stellen regelen, af te geven of toe te zenden aan een door genoemde Minister aan te wijzen autoriteit.
 
 3. Bij het verbeuren van de medaille wordt het daarbij uitgereikte brevet vernietigd.
 
 ##### Artikel 11
 
-Aan hen, die op of nà 5 September 1944 zijn herplaatst als beroepsmilitair der Koninklijke landmacht beneden de rang van tweede-luitenant, doch vóór de inwerkingtreding van dit besluit wederom eervol uit de militaire dienst zijn ontslagen, kan, indien zij in verband met de wijze, waarop hun diensttijd volgens de bepalingen van het Koninklijk besluit van 18 Februari 1904, nr. 30, werd berekend, niet voor toekenning van een medaille in aanmerking zijn gekomen, alsnog een medaille als bedoeld in dit besluit, worden toegekend, indien zij daarvoor naar het oordeel van Onze Minister van Oorlog in aanmerking komen.
+Aan hen, die op of nà 5 September 1944 zijn herplaatst als beroepsmilitair der Koninklijke landmacht beneden de rang van tweede-luitenant, doch vóór de inwerkingtreding van dit besluit wederom eervol uit de militaire dienst zijn ontslagen, kan, indien zij in verband met de wijze, waarop hun diensttijd volgens de bepalingen van het Koninklijk besluit van 18 Februari 1904, nr. 30, werd berekend, niet voor toekenning van een medaille in aanmerking zijn gekomen, alsnog een medaille als bedoeld in dit besluit, worden toegekend, indien zij daarvoor naar het oordeel van Onze Minister van Defensie in aanmerking komen.
 
 ##### Artikel 12
 
