@@ -213,17 +213,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2006 wenselijk is maatregelen te treffen op het gebied van arbeidsmarkt- en inkomensbeleid, economische infrastructuur, mobiliteit en milieu, alsmede enkele overige maatregelen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Ia
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
