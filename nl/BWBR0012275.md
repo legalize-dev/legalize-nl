@@ -4,7 +4,7 @@ identifier: "BWBR0012275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-09-10"
-last_updated: "2001-03-01"
+last_updated: "2004-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012275"
 soort: "ministeriele-regeling"
@@ -69,6 +69,8 @@ Het bureau verkeershandhaving openbaar ministerie (BVOM) is een landelijke diens
 5. Het hoofd van het BVOM maakt schriftelijke afspraken met de directeur arrondissementale stafdienst in het arrondissement Utrecht over de door de arrondissementale stafdienst te verlenen facilitaire ondersteuning.
 
 6. Het hoofd van het BVOM maakt schriftelijke afspraken met het College van procureurs-generaal over de ter beschikking te stellen middelen en het leveren van de daaraan te koppelen prestaties van het BVOM.
+
+7. Het hoofd van het BVOM is verantwoordelijk voor de werkzaamheden die voortvloeien uit de portefeuille Voertuigcriminaliteit.
 
 ##### Artikel 3. (Publicatie)
 
