@@ -4,7 +4,7 @@ identifier: "BWBR0002800"
 country: "nl"
 rank: "wet"
 publication_date: "2004-07-01"
-last_updated: "2002-01-01"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002800"
 soort: "wet"
@@ -49,15 +49,15 @@ De autoriteit, bevoegd tot het toezenden of ontvangen van stukken of kennisgevin
 
 ##### Artikel 3
 
-Als Nederlandse gerechtelijke autoriteit, bedoeld in artikel 4, eerste lid, van de Overeenkomst wordt aangewezen de arrondissementsrechtbank, binnen welker rechtsgebied de akte, waarop de beslissing tot verbetering betrekking heeft, in de registers van de burgerlijke stand is opgenomen.
+Als Nederlandse gerechtelijke autoriteit, bedoeld in artikel 4, eerste lid, van de Overeenkomst wordt aangewezen de rechtbank, binnen welker rechtsgebied de akte, waarop de beslissing tot verbetering betrekking heeft, in de registers van de burgerlijke stand is opgenomen.
 
 ##### Artikel 4
 
-Indien bij beschikking van de arrondissementsrechtbank of bevel van het openbaar ministerie verbetering is gelast van fouten in akten van de burgerlijke stand overeenkomstig artikel 2 van de Overeenkomst, zendt de ambtenaar van de burgerlijke stand, nadat hij in het onder hem berustende register de verbetering heeft aangebracht, een afschrift van de beschikking of van het bevel en een afschrift van de door hem verbeterde akte aan Onze Minister van Justitie.
+Indien bij beschikking van de rechtbank of bevel van het openbaar ministerie verbetering is gelast van fouten in akten van de burgerlijke stand overeenkomstig artikel 2 van de Overeenkomst, zendt de ambtenaar van de burgerlijke stand, nadat hij in het onder hem berustende register de verbetering heeft aangebracht, een afschrift van de beschikking of van het bevel en een afschrift van de door hem verbeterde akte aan Onze Minister van Justitie.
 
 ##### Artikel 5
 
-Onze Minister van Justitie zendt, behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002800&artikel=8&z=2002-01-01&g=2002-01-01), het afschrift van de in een andere der Overeenkomstsluitende Staten op grond van artikel 2 van de Overeenkomst genomen beslissing tot verbetering van een akte van de burgerlijke stand en het afschrift van de verbeterde akte, zo nodig voorzien van door hem bezorgde vertalingen, aan de ambtenaar van de burgerlijke stand onder wie het register berust, waarin de verbetering moet worden aangebracht.
+Onze Minister van Justitie zendt, behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002800&artikel=8&z=2004-07-01&g=2004-07-01), het afschrift van de in een andere der Overeenkomstsluitende Staten op grond van artikel 2 van de Overeenkomst genomen beslissing tot verbetering van een akte van de burgerlijke stand en het afschrift van de verbeterde akte, zo nodig voorzien van door hem bezorgde vertalingen, aan de ambtenaar van de burgerlijke stand onder wie het register berust, waarin de verbetering moet worden aangebracht.
 
 ##### Artikel 6
 
@@ -73,7 +73,7 @@ Indien Onze Minister van oordeel is, dat de tenuitvoerlegging van de verbetering
 
 ##### Artikel 9
 
-1. Op het verzoek van het openbaar ministerie tot weigering van de tenuitvoerlegging beslist de arrondissementsrechtbank bij een met redenen omklede beschikking.
+1. Op het verzoek van het openbaar ministerie tot weigering van de tenuitvoerlegging beslist de rechtbank bij een met redenen omklede beschikking.
 
 2. De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt een afschrift van de beschikking, zodra deze in kracht van gewijsde is gegaan, aan Onze Minister van Justitie.
 
