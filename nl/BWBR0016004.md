@@ -85,9 +85,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 Deze regeling wordt aangehaald als: Vakantieregeling WW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Aanvulling wettelijke grondslag
-
-Deze regeling berust mede op [artikel 6, zesde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
