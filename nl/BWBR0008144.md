@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2002-09-07"
+last_updated: "2003-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -71,13 +71,15 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - j. het op verzoek aanwijzen van bromfietsen, niet zijnde brommobielen, of motorfietsen, bedoeld in artikel 60 van het Reglement Verkeersregels en Verkeerstekens 1990, die voldoen aan de eisen ten behoeve van een vrijstelling van de helmdraagplicht;
 
-- k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten.
+- k. het ter uitvoering van [richtlijn nr. 2000/30/EG](32000L0030) verrichten van het controle-onderdeel inspectie van de uitlaatemissie van de technische controle langs de weg van bedrijfsvoertuigen, het verzamelen van gegevens omtrent ernstige gebreken aan bedrijfsvoertuigen die in de andere lidstaten van de Europese Unie tot het verkeer zijn toegelaten en het verstrekken van deze gegevens aan de bevoegde instanties van de betrokken lidstaten;
+
+- l. het instandhouden en beheren van een het systeem voor de centrale landelijke registratie van gestolen fietsen.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2002-09-07&g=2002-09-07), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-06-01&g=2003-06-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2002-09-07&g=2002-09-07) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2003-06-01&g=2003-06-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
