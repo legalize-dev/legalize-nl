@@ -1,0 +1,129 @@
+---
+title: "Regeling procesgang eerste ziektejaar"
+identifier: "BWBR0013540"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2002-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013540"
+soort: "ministeriele-regeling"
+stam_id: "4080913"
+version_id: "29408902"
+internal_id: "C42047251"
+label_id: "4060864"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013540/2025-07-01/0"
+intitule_bron: "Stcrt.2002-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-25"
+intitule_published: "2002-03-26"
+intitule_in_force: "2002-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13931"
+original_signed_date: "2023-05-09"
+original_published_date: "2023-05-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-13931"
+entry_into_force_date: "2023-05-09"
+jci_1_3: "jci1.3:c:BWBR0013540&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0013540&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling procesgang eerste en tweede ziektejaar"
+signed_date: "2023-05-09"
+entry_into_force: "2023-05-09"
+---
+# Regeling procesgang eerste ziektejaar
+
+Gelet op [artikel 71a, tweede lid en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a),
+
+Besluit:
+
+##### Artikel 1. Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+##### Artikel 2. Gegevensverstrekking aan de arbodienst
+
+1. De werkgever verstrekt aan de arbodienst tijdig alle noodzakelijke gegevens met betrekking tot het ziekteverzuim van zijn werknemers, teneinde de dienst in staat te stellen de bijstand, bedoeld in [artikel 14, derde lid, onderdeel b, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) en in deze regeling, naar behoren te verrichten.
+
+2. De werkgever verlangt indien er naar de verwachting van de arbodienst sprake is van dreigend langdurig ziekteverzuim, binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid een oordeel van de arbodienst over het desbetreffende ziektegeval.
+
+3. De werkgever verlangt onverwijld een oordeel van de arbodienst als bedoeld in het tweede lid indien eerst na zes weken blijkt dat het ziekteverzuim naar de verwachting van de arbodienst langdurig dreigt te zijn.
+
+##### Artikel 3. Houden van aantekening
+
+Indien er op enig moment gedurende de ziekte van de werknemer naar de verwachting van de arbodienst sprake is van dreigend langdurig ziekteverzuim houdt de werkgever aantekening als bedoeld in [artikel 71a, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) en legt hij in ieder geval alle gegevens, documenten en correspondentie vast die betrekking hebben op het verloop van het ziekteverzuim, het aantal feitelijk gewerkte uren, en de op grond van deze regeling ondernomen activiteiten.
+
+##### Artikel 4. Het plan van aanpak
+
+1. Indien uit het oordeel van de arbodienst, bedoeld in [artikel 2, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2002-04-01&g=2002-04-01), blijkt dat er nog mogelijkheden zijn om de terugkeer naar arbeid van de werknemer te bevorderen, stelt de werkgever in overeenstemming met de werknemer, binnen twee weken na het oordeel een plan van aanpak op.
+
+2. Het plan van aanpak, bedoeld in het eerste lid, omvat in ieder geval:
+
+- a. de door de werkgever en de werknemer te ondernemen activiteiten gericht op inschakeling in de arbeid, de daarmee te bereiken doelstellingen en de termijnen waarbinnen die doelstellingen naar verwachting kunnen worden bereikt;
+
+- b. afspraken omtrent de momenten waarop de in het plan van aanpak overeengekomen activiteiten door de werkgever en de werknemer worden geëvalueerd, die evaluatie vindt periodiek plaats, en
+
+- c. aanwijzing van een persoon die de overeengekomen activiteiten begeleidt en het contact verzorgt tussen werknemer, werkgever en arbodienst.
+
+3. Het plan van aanpak wordt schriftelijk vastgelegd. De werkgever verstrekt hiervan onverwijld een afschrift aan de werknemer, de in het tweede lid, onderdeel c, bedoelde persoon en de arbodienst.
+
+4. De werkgever draagt er zorg voor dat de arbodienst de werknemer regelmatig hoort over het verloop van de ongeschiktheid tot het verrichten van arbeid en verlangt indien het verloop van de ongeschiktheid naar het oordeel van de arbodienst bijstelling van het plan van aanpak noodzakelijk maakt, hieromtrent onverwijld advies van de arbodienst aan zichzelf en de werknemer.
+
+5. Het plan van aanpak wordt bijgesteld indien de evaluatie van dat plan van aanpak of het in het vierde lid bedoeld advies van de arbodienst daartoe aanleiding geeft. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
+
+##### Artikel 5. Afwijken van termijnen
+
+Van de termijnen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2002-04-01&g=2002-04-01) en 4, kan door de werkgever en de werknemer gemotiveerd worden afgeweken.
+
+##### Artikel 6. Inhoud van het reïntegratieverslag
+
+Het reïntegratieverslag, bedoeld in [artikel 71a, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) bevat in ieder geval:
+
+- a. de noodzakelijke administratieve gegevens van de werknemer, werkgever en arbodienst;
+
+- b. gegevens omtrent de aard van het bedrijf van de werkgever;
+
+- c. gegevens omtrent de functie van de werknemer;
+
+- d. gegevens omtrent de bekwaamheden van de werknemer;
+
+- e. vermelding van de eerste dag van ongeschiktheid tot het verrichten van arbeid wegens ziekte;
+
+- f. het oordeel en het advies van de arbodienst, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2&z=2002-04-01&g=2002-04-01), respectievelijk [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2002-04-01&g=2002-04-01);
+
+- g. het door de werkgever en de werknemer overeengekomen plan van aanpak en de bijstellingen, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2002-04-01&g=2002-04-01);
+
+- h. de meest recente evaluatie van de voortgang en de uitvoering van de in het plan van aanpak gemaakte afspraken;
+
+- i. een actueel oordeel over de kwaliteit van de arbeidsrelatie door de werkgever en de arbodienst;
+
+- j. een actueel oordeel van de arbodienst over het verloop van de ongeschiktheid tot werken, de functionele beperkingen en mogelijkheden van de werknemer tot het verrichten van arbeid;
+
+- k. een actueel oordeel van de arbodienst en de werkgever over de aanwezigheid van passende arbeid bij de werkgever, en
+
+- l. een oordeel van de werknemer omtrent de op grond van de onderdelen a tot en met k opgenomen gegevens en oordelen.
+
+##### Artikel 7. Standaarden
+
+Het UWV is bevoegd voor de vastlegging van de in [artikel 6, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=6&z=2002-04-01&g=2002-04-01), bedoelde gegevens standaarden vast te stellen.
+
+##### Artikel 8. Inwerkingtreding
+
+Deze regeling treedt in werking op het tijdstip waarop de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063) in werking treedt.
+
+##### Artikel 9. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling procesgang eerste ziektejaar.
+
+##### Artikel 7a. Aanvullende deskundigheid
+
+Indien voor een goede uitvoering van deze regeling naar het oordeel van de bedrijfsarts of de arbodienst aanvullende deskundigheid is vereist, draagt de bedrijfsarts of de arbodienst zorg voor tijdige inschakeling daarvan.
+
+##### Artikel 7b. Overgangsrecht
+
+1. [Artikel 4, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=4&z=2023-07-01&g=2023-07-01), van deze regeling, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel A, van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 mei 2023 tot wijziging van de Regeling procesgang eerste en tweede ziektejaar en de Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever in verband met regels over de re-integratievisie en een enkele andere wijziging blijft van toepassing voor werknemers van wie de eerste ziektedag is gelegen voor 1 juli 2023, indien het plan van aanpak en de eerstejaarsevaluatie niet na deze datum zijn opgesteld of bijgesteld.
+
+2. Dit artikel vervalt met ingang van 1 juli 2025.
