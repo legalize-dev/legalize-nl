@@ -4,7 +4,7 @@ identifier: "BWBR0001962"
 country: "nl"
 rank: "kb"
 publication_date: "2002-07-10"
-last_updated: "2002-01-01"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001962"
 soort: "KB"
@@ -126,7 +126,7 @@ Vervallen
 
 2. Ter zake van de verrichtingen van den hulpstrandvonder wordt afzonderlijk beheerloon niet in rekening gebracht.
 
-3. Bovendien gelden de beperkingen gesteld bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=13&z=2002-01-01&g=2002-01-01) der Wet en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=20&z=2002-01-01&g=2002-01-01) van dit besluit.
+3. Bovendien gelden de beperkingen gesteld bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=13&z=2002-07-10&g=2002-07-10) der Wet en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=20&z=2002-07-10&g=2002-07-10) van dit besluit.
 
 ##### Artikel 10
 
@@ -142,7 +142,7 @@ De strandvonder verstrekt aan iederen belanghebbende op diens verzoek een voor e
 
 ##### Artikel 12
 
-1. Alvorens over te gaan tot den verkoop van zich onder zijn beheer bevindende drogerijen, chemicaliën of levensmiddelen, behoeft de strandvonder toestemming van den directeur van den keuringsdienst van waren, binnen welks gebied de gemeente, waar hij strandvonder is, gelegen is.
+1. Alvorens over te gaan tot den verkoop van zich onder zijn beheer bevindende drogerijen, chemicaliën of levensmiddelen, behoeft de strandvonder toestemming van de Voedsel en Waren Autoriteit.
 
 2. Uit deze toestemming blijkt of de zaken, al dan niet onder te stellen voorwaarden, voor verkoop in aanmerking komen.
 
@@ -160,9 +160,9 @@ De strandvonder verstrekt aan iederen belanghebbende op diens verzoek een voor e
 
 ##### Artikel 14
 
-1. Zaken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=12&z=2002-01-01&g=2002-01-01), welke niet voor verkoop in aanmerking komen, zoomede de zaken bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=13&z=2002-01-01&g=2002-01-01), voor welke geen toestemming tot verkoop wordt verkregen, worden door of op last van den strandvonder vernietigd, zoo noodig met medewerking van een deskundige.
+1. Zaken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=12&z=2002-07-10&g=2002-07-10), welke niet voor verkoop in aanmerking komen, zoomede de zaken bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=13&z=2002-07-10&g=2002-07-10), voor welke geen toestemming tot verkoop wordt verkregen, worden door of op last van den strandvonder vernietigd, zoo noodig met medewerking van een deskundige.
 
-2. Hetzelfde geschiedt met de op grond van het bepaalde in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=12&z=2002-01-01&g=2002-01-01), ongekeurd gebleven drogerijen, chemicaliën en levensmiddelen.
+2. Hetzelfde geschiedt met de op grond van het bepaalde in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=12&z=2002-07-10&g=2002-07-10), ongekeurd gebleven drogerijen, chemicaliën en levensmiddelen.
 
 ##### Artikel 15
 
@@ -188,7 +188,7 @@ In een geval als bedoeld bij het vorige artikel laat de strandvonder de leiding 
 
 ##### Artikel 20
 
-1. De strandvonder stelt de door de redders te zijner beschikking gestelde zaken, afkomstig van eene schipbreuk, als bedoeld bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=18&z=2002-01-01&g=2002-01-01), zijnerzijds onverwijld ter beschikking van den consulairen ambtenaar, mits deze de voldoening waarborgt van de ingevolge het Nederlandsche recht aan de redders, voorzoover niet behoorende tot de bemanning van het schip, verschuldigde hulploonen.
+1. De strandvonder stelt de door de redders te zijner beschikking gestelde zaken, afkomstig van eene schipbreuk, als bedoeld bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=18&z=2002-07-10&g=2002-07-10), zijnerzijds onverwijld ter beschikking van den consulairen ambtenaar, mits deze de voldoening waarborgt van de ingevolge het Nederlandsche recht aan de redders, voorzoover niet behoorende tot de bemanning van het schip, verschuldigde hulploonen.
 
 2. Neemt de consulaire ambtenaar het beheer ingevolge het vorige lid over, dan geniet de strandvonder geen beheerloon. Hij kan echter den consulairen ambtenaar de noodzakelijk gemaakte kosten in rekening brengen. Deze rekening behoeft de goedkeuring van Gedeputeerde Staten.
 
@@ -200,7 +200,7 @@ In een geval als bedoeld bij het vorige artikel laat de strandvonder de leiding 
 
 ##### Artikel 22
 
-1. De strandvonder zal het bepaalde bij de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=20&z=2002-01-01&g=2002-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=21&z=2002-01-01&g=2002-01-01) mede volgen, wanneer het op de Nederlandse kust schipbreuk lijdende schip behoort tot een vreemde Staat, met welke een verdrag geldt volgens hetwelk de zaken, indien deze niet aan de rechthebbenden worden afgegeven, ter beschikking van de consulaire ambtenaar worden gesteld.
+1. De strandvonder zal het bepaalde bij de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=20&z=2002-07-10&g=2002-07-10) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001962&artikel=21&z=2002-07-10&g=2002-07-10) mede volgen, wanneer het op de Nederlandse kust schipbreuk lijdende schip behoort tot een vreemde Staat, met welke een verdrag geldt volgens hetwelk de zaken, indien deze niet aan de rechthebbenden worden afgegeven, ter beschikking van de consulaire ambtenaar worden gesteld.
 
 2. Iedere strandvonder ontvangt jaarlijks van Onze Minister een lijst van de namen, adressen en ressorten van de in het vorige lid bedoelde hier te lande gevestigde consulaire ambtenaren.
 
