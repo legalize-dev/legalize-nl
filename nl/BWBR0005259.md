@@ -457,33 +457,3 @@ Het bepaalde in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c
 2. Dit besluit kan worden aangehaald als: Kadasterbesluit.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-### Hoofdstuk 2. Openbare registers voor registergoederen
-
-### Hoofdstuk 3. Bijwerking van de kadastrale registratie en de kadastrale kaarten
-
-## Titel 1. Algemene bepalingen omtrent bijwerking
-
-## Titel 2. Bijzondere bepalingen betreffende bijhouding
-
-## Titel 3. Splitsing en samenvoeging van percelen
-
-## Titel 4. Vernieuwing
-
-### Hoofdstuk 4. Wijze van bijhouding van de registratie voor schepen
-
-### Hoofdstuk 5. Wijze van bijhouding van de registratie voor luchtvaartuigen
-
-### Hoofdstuk 6. Verstrekken van inlichtingen
-
-### Hoofdstuk 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
-
-##### Artikel 37a
-
-1. De Dienst verstrekt op verzoek van personen als bedoeld in [artikel 42, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42), niet zijnde leden van het koninklijk huis, en van andere personen over wier veiligheid de politie op grond van die wet waakt gedurende een termijn van vijf jaar van die personen geen persoonsgegevens.
-
-2. De termijn, bedoeld in het eerste lid, wordt ten aanzien van personen als bedoeld in dat lid telkens verlengd met vijf jaar.
-
-3. In afwijking van het eerste lid verstrekt de Dienst aan bestuursorganen, deurwaarders en notarissen, van personen als bedoeld in het eerste lid de persoonsgegevens die zij nodig hebben voor het uitoefenen van hun wettelijke taken.
