@@ -4,7 +4,7 @@ identifier: "BWBR0002224"
 country: "nl"
 rank: "amvb"
 publication_date: "2002-09-13"
-last_updated: "1956-07-26"
+last_updated: "2002-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002224"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Het Koninklijk besluit van 6 Augustus 1910 (**Stb.** 247) wordt ingetrokken.
 | 18 korporaal | 18 korporaal der 1e klasse | 18 korporaal der 1e klasse |
 | 19 korporaal | 19 korporaal | 19 korporaal |
 | 20 matroos der 1e klasse | 20 soldaat der 1e klasse | 20 soldaat der 1e klasse |
-| matroos der 2e klasse | soldaat | soldaat |
-| matroos der 3e klasse |   |   |
+| matroos der 2e klasse | soldaat der 2e klasse (marechaussee der 3e klasse) | soldaat der 2e klasse |
+| matroos der 3e klasse | soldaat der 3e klasse (marechaussee der 4e klasse) | soldaat der 3e klasse |
 
 Onze Ministers van Oorlog en van Marine zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
