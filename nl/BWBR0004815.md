@@ -777,19 +777,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bi
 Deze wet kan worden aangehaald als: Wet op het consumentenkrediet.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 48a
-
-Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde zijn belast de bij ministeriële regeling aangewezen personen.
-
-### Hoofdstuk VI. Beroep
-
-### Hoofdstuk VII
-
-### Hoofdstuk VIII. Toezicht op de naleving
-
-### Hoofdstuk IX. Uitvoering van de wet
-
-### Hoofdstuk X. Straf-, overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
