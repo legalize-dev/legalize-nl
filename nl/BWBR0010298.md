@@ -67,9 +67,3 @@ De directeur van het GVB/A kan namens ondergetekende besluiten op een aanvraag t
 Dit besluit treedt in werking met ingang van de dag waarop het besluit bekend is gemaakt aan de directeur van het GVB/A.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat, Johan de Wittlaan 3-7, 2500 EX, te Den Haag, en zal in afschrift worden gezonden aan het College van burgemeester en wethouders van Amsterdam.
-
-##### Artikel 1a
-
-De directeur van GVB kan namens ondergetekende besluiten op een aanvraag tot het verlenen van een ontheffing als bedoeld in [artikel 14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat, Johan de Wittlaan 3-7, 2500 EX, te Den Haag, en zal in afschrift worden gezonden aan het College van burgemeester en wethouders van Amsterdam.
