@@ -4,7 +4,7 @@ identifier: "BWBR0013099"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2002-01-01"
+last_updated: "2004-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013099"
 soort: "wet"
@@ -97,7 +97,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 4. Voor de toepasselijkheid van het bij of krachtens de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde worden degenen die als coördinerend vice-president senior van een gerechtshof onderscheidenlijk een rechtbank zijn benoemd, aangemerkt als rechterlijk ambtenaar met rechtspraak belast, bedoeld in [artikel 1, onderdeel c, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), werkzaam bij een gerechtshof onderscheidenlijk een rechtbank.
 
-5. Voor de toepasselijkheid van het bij of krachtens de [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170) onderscheidenlijk de [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144) bepaalde wordt degene die als coördinerend vice-president senior van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is benoemd, aangemerkt als lid met rechtspraak belast, bedoeld in [artikel 2, tweede lid, van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=2) onderscheidenlijk [artikel 3, tweede lid, van de Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&artikel=3). Wat hun bezoldiging betreft worden de coördinerend vice-presidenten senior van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven gelijkgesteld met datzelfde ambt bij een gerechtshof.
+5. Voor de toepasselijkheid van het bij of krachtens de [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170) onderscheidenlijk de [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144) bepaalde wordt degene die als coördinerend vice-president senior van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is benoemd, aangemerkt als lid met rechtspraak belast, bedoeld in [artikel 2, tweede lid, van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=2) onderscheidenlijk [artikel 3, tweede lid, van de Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&artikel=3). Wat hun bezoldiging en onkostenvergoeding betreft worden de coördinerend vice-presidenten senior van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven gelijkgesteld met datzelfde ambt bij een gerechtshof.
 
 ##### Artikel XI
 
@@ -169,7 +169,11 @@ Wijzigt de Wet op de ondernemingsraden.
 
 1. Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-2. Degenen die zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris voor zolang zij als zodanig benoemd blijven.
+2. Degenen die ingevolge [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0013099&artikel=X&z=2004-07-01&g=2004-07-01) zijn benoemd als coördinerend vice-president senior van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven blijven in het genot van het bij die benoeming behorende salaris en de daarbij behorende onkostenvergoeding voor zolang zij:
+
+- a. zijn benoemd als coördinerend vice-president senior van dat gerecht; of
+
+- b. zijn benoemd in een rechtsprekend ambt bij een gerecht, mits zij met ingang van het tijdstip van die benoeming bij dat gerecht ook zijn benoemd als lid van het bestuur en de benoeming aansluit op een benoeming in een rechtsprekend ambt bij een ander gerecht waarvan zij met ingang van het tijdstip van die benoeming ook lid van het bestuur zijn geweest.
 
 ##### Artikel XV
 
