@@ -4,7 +4,7 @@ identifier: "BWBR0014447"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "2003-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014447"
 soort: "wet"
@@ -44,17 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het op 5 juni 2001 te Luxemburg tot s
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
 ##### Artikel 1
 
 Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II en briefwisseling, waarvan de Nederlandse en Franse tekst zijn geplaatst in Tractatenblad 2001, 136, wordt goedgekeurd voor Nederland.
 
 ##### Artikel 2
 
-1. In afwijking van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), vrijgesteld van inkomstenbelasting en loonbelasting.
+1. In afwijking van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2004-01-01&g=2004-01-01), vrijgesteld van inkomstenbelasting en loonbelasting.
 
 2. De in het eerste lid bedoelde inkomstenbestanddelen zijn inkomstenbestanddelen
 
-- a. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), van toepassing is;
+- a. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2004-01-01&g=2004-01-01), van toepassing is;
 
 - b. die een periodiek karakter dragen, en
 
@@ -62,7 +64,7 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 ##### Artikel 3
 
-1. In afwijking van de Wet op de loonbelasting 1964 en de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), ten hoogste 25% van het bedrag van die inkomstenbestanddelen.
+1. In afwijking van de Wet op de loonbelasting 1964 en de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2004-01-01&g=2004-01-01), ten hoogste 25% van het bedrag van die inkomstenbestanddelen.
 
 2. Het eerste lid is slechts van toepassing op inkomstenbestanddelen:
 
@@ -70,7 +72,7 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 - b. waarop op 5 juni 2001 reeds aanspraak bestond, en
 
-- c. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), van toepassing is.
+- c. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2004-01-01&g=2004-01-01), van toepassing is.
 
 3. Voor de toepassing van het eerste lid worden de aldaar bedoelde inkomstenbestanddelen geacht zoveel mogelijk te zijn belast tegen de hoogste tariefschijf die toepassing heeft gevonden.
 
