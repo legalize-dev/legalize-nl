@@ -1,0 +1,119 @@
+---
+title: "Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen"
+identifier: "BWBR0004321"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-12-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004321"
+soort: "AMvB"
+stam_id: "781023"
+version_id: "15340852"
+internal_id: "C20904261"
+label_id: "756904"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004321/2010-12-01/0"
+intitule_bron: "Stb.1988-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-04-28"
+intitule_status: "goed"
+original_publication: "Stb.2008-160"
+original_signed_date: "2008-04-29"
+original_published_date: "2008-05-15"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2008-160"
+entry_into_force_date: "2008-04-29"
+jci_1_3: "jci1.3:c:BWBR0004321&z=2010-12-01&g=2010-12-01"
+jci_1_0: "1.0:c:BWBR0004321&g=2010-12-01"
+citeertitel_status: "officieel"
+short_title: "Administratiebesluit milieugevaarlijke stoffen en preparaten"
+signed_date: "2008-04-29"
+entry_into_force: "2008-04-29"
+---
+# Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen
+
+Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 juni 1987, no. MJZ 2667007, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
+
+Gelet op [artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=32) (**Stb.** 1985, 639);
+
+De Raad van State gehoord (advies van 27 januari 1988, Nr. W08.87.0301);
+
+Gezien het nader rapport van Onze Minister van Volksgezondheid, Ruimtelijke Ordening en Milieubeheer van 21 april 1988, no. MJZ 2148044, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. de wet: de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) (**Stb.** 1985, 639);
+
+- b. vervaardigen: produceren van een stof of preparaat met het oogmerk deze, al dan niet verwerkt in een (ander) preparaat dan wel verwerkt of omgezet in een produkt, aan een ander ter beschikking te stellen;
+
+- c. registratieplichtige: ieder die beroepshalve stoffen of preparaten vervaardigt of in Nederland invoert.
+
+##### Artikel 2
+
+1. De registratieplichtige dient met betrekking tot stoffen en preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld, tevens te registreren:
+
+- a. de handelsnaam of, voor zover deze hem bekend zijn of redelijkerwijs bekend kunnen zijn, de handelsnamen;
+
+- b. de chemische naam;
+
+- c. naam en adres van de afnemers;
+
+- d. met betrekking tot preparaten: de chemische namen en de gewichtspercentages van de belangrijkste daarin aanwezige stoffen tot in totaal 95 gewichtsprocenten van het preparaat, alsmede, voor zover hij daarover beschikt of redelijkerwijs kan beschikken, de chemische namen van de stoffen die de resterende 5 gewichtsprocenten van een preparaat vormen.
+
+2. Het eerste lid, onder **d**, is niet van toepassing, indien degene die aan de registratieplichtige een preparaat of een of meer bestanddelen van een door de registratieplichtige vervaardigd preparaat ter beschikking heeft gesteld, de gegevens met betrekking tot de samenstelling daarvan niet heeft verstrekt in verband met de bescherming van bedrijfsgeheimen:
+
+- a. ingeval de registratieplichtige een preparaat in een hoeveelheid kleiner dan 1000 kg per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, of
+
+- b. ingeval de registratieplichtige een preparaat in een hoeveelheid van 1000 kg of meer per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, en de registratieplichtige aantoont dat de gegevens met betrekking tot de samenstelling van het preparaat onderscheidenlijk van de bestanddelen daarvan, met vermelding van de chemische naam volgens de nomenclatuur van de International Union of Pure and Applied Chemistry of met vermelding van het nummer waaronder deze bestanddelen in het register van de Chemical Abstracts Service of van de European inventory of existing commercial chemical substances (**PbEG** 1990 C 146A) zijn opgenomen, reeds zijn verstrekt aan Onze Minister of deze gegevens reeds ingevolge dit besluit worden geregistreerd.
+
+3. Indien de bestanddelen van het preparaat behoren tot een categorie, genoemd in artikel 34, tweede lid, van de wet, dient de registratieplichtige ten aanzien van wie het tweede lid van toepassing is, de bij het preparaat behorende benaming van het gevaar of de gevaren, het bijbehorende symbool of de symbolen en de verwijzing naar de bijzondere aan het gebruik van het preparaat verbonden gevaren, bedoeld in artikel 36 van de wet, te registreren.
+
+4. Het tweede lid geldt niet voor in het preparaat voorkomende nieuwe stoffen ten aanzien waarvan de registratieplichtige kennisgeving of melding dient te doen op grond van het bij of krachtens hoofdstuk 2 van de wet bepaalde.
+
+##### Artikel 3
+
+1. De registratieplichtige dient de gegevens, bedoeld in artikel 32, eerste lid van de wet, onderscheidenlijk in artikel 2, op zodanige wijze te registreren dat hij deze over de periode gedurende welke de bewaarplicht ingevolge het derde lid, dan wel ingevolge artikel 17 van de wet geldt, indien Onze Minister daarom verzoekt, binnen vier weken schriftelijk kan overleggen, gespecificeerd per stof onderscheidenlijk preparaat, per afnemer en per kalenderjaar.
+
+2. De registratieplichtige kan, in afwijking van het eerste lid, voor stoffen, al dan niet verwerkt in een preparaat, die zijn bestemd voor particuliere huishoudens of voor afnemers in het buitenland volstaan met een zodanige wijze van registreren van gegevens dat hij op verzoek van Onze Minister binnen vier weken schriftelijk opgave kan doen van de totale hoeveelheid die hij van een stof in een kalenderjaar aan elk van de genoemde categorieën van gebruikers ter beschikking heeft gesteld.
+
+3. De registratieplichtige dient de gegevens, bedoeld in het eerste, onderscheidenlijk het tweede lid, te bewaren gedurende ten minste 10 jaren vanaf het tijdstip van inwerkingtreding van dit besluit, voor zover hij deze op dat tijdstip reeds in zijn bezit heeft, dan wel gedurende ten minste 10 jaren vanaf het tijdstip waarop hij die gegevens krijgt.
+
+4. Indien toepassing wordt gegeven aan het tweede lid, dient de registratieplichtige tevens de namen en adressen van de afnemers van de stoffen en preparaten, bestemd voor de desbetreffende categorie van gebruikers, gedurende één jaar overeenkomstig het in het eerste lid bepaalde te bewaren.
+
+5. Met betrekking tot preparaten, ten aanzien waarvan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=1994-01-01&g=1994-01-01), van toepassing is, dient de registratieplichtige tevens te bewaren de namen en adressen van de leveranciers over de jaren waarvoor de bewaarplicht ingevolge het derde lid dan wel ingevolge artikel 17 van de wet geldt.
+
+##### Artikel 4
+
+Van de registratieplicht zijn uitgezonderd:
+
+- a. stoffen en preparaten die in Nederland worden ingevoerd en die niet in het vrije verkeer worden gebracht, tenzij zij binnen Nederlands grondgebied worden verwerkt of omgezet;
+
+- b. stoffen die in de procesinstallatie waarin zij ontstaan, worden omgezet in andere stoffen zonder dat daarbij tussentijdse opslag plaatsvindt;
+
+- c. bestrijdingsmiddelen die zijn toegelaten op grond van de [Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380) (**Stb.** 288);
+
+- d. sera en vaccins als bedoeld in de Wet op Sera en Vaccins (**Stb.** 1927, 91).
+
+##### Artikel 5
+
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. Het kan worden aangehaald als Registratiebesluit Wet milieugevaarlijke stoffen.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 1a
+
+De administratieplichtige houdt een administratie bij van de hoeveelheden van de stoffen of preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld.
+
+##### Artikel 4a
+
+Dit besluit berust op [artikel 9.2.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.4).
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
