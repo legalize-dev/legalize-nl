@@ -4,7 +4,7 @@ identifier: "BWBR0011136"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-01-01"
-last_updated: "2001-09-01"
+last_updated: "2003-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011136"
 soort: "AMvB"
@@ -56,7 +56,9 @@ Als categorieën van personen, bedoeld in de [artikelen 19b, vierde lid, van de 
 
 - c. deelnemen aan een scholings- en trainingsprogramma als bedoeld in [artikel 3, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3);
 
-- d. proefverlof genieten als bedoeld in [artikel 31, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=31).
+- d. proefverlof genieten als bedoeld in [artikel 31, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=31);
+
+- e. deelnemen aan een programma in de laatste fase van de maatregel tot plaatsing in een inrichting voor de opvang van verslaafden als bedoeld in [artikel 38m van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m).
 
 ##### Artikel 2
 
