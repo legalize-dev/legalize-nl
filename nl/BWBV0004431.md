@@ -4,7 +4,7 @@ identifier: "BWBV0004431"
 country: "nl"
 rank: "verdrag"
 publication_date: "1982-07-07"
-last_updated: "1982-01-01"
+last_updated: "1982-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004431"
 soort: "verdrag"
@@ -44,21 +44,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. De personen van Nederlandse nationaliteit genieten de waarborg van de in artikel 3, onder **b** tot en met **e** van de Belgische wet van 16 juni 1960 bedoelde uitkeringen, zoals die hun toekomen krachtens de wettelijke en reglementaire bepalingen, welke op 30 juni 1960 in Belgisch-Congo en Ruanda-Urundi van kracht waren.
-
-2. De uitkeringen, bedoeld in artikel 3, onder **b** en **d** van vorengenoemde wet, worden slechts verleend:
-
-- a). tot de leeftijd van 65 jaar, wat betreft mannelijke verzekerden en tot de leeftijd van 60 jaar wat betreft vrouwelijke verzekerden;
-
-- b). tot de leeftijd van 45 jaar, wat betreft weduwen, die geen kind hebben, dat in het genot is van een in artikel 3, onder **c** van vorengenoemde wet bedoelde wezentoelage, en voor onbepaalde tijd, wanneer de verzekerde overleden is gedurende een tijdvak van tewerkstelling of deelneming aan de verzekering.
-
-3. Vanaf de leeftijd van 65 jaar voor de mannelijke of vanaf de leeftijd van 60 jaar voor de vrouwelijke verzekerden worden de van de waarborg uitgesloten uitkeringen verleend, voor zover het totaal van deze uitkeringen en van die welke met toepassing van de Belgische wet van 16 juni 1960 aan vreemdelingen gewaarborgd worden, niet meer bedraagt dan het verschil tussen het bedrag van de uitkeringen die zouden zijn verleend, indien de gerechtigde de Belgische nationaliteit bezat, en een bedrag gelijk aan 1000 frank per jaar tewerkstelling, vakanties inbegrepen, dat bij de vaststelling van de duur van de tewerkstelling die recht op pensioen doet ontstaan, in aanmerking genomen is.
-
-Wanneer de verzekerde in België werkzaam geweest is, wordt het in de vorige alinea bedoelde bedrag van 1000 frank vermenigvuldigd met een breuk, waarvan de noemer gelijk is aan het verschil tussen enerzijds 45 voor mannen of 40 voor vrouwen, en anderzijds het aantal jaren tewerkstelling, vakanties inbegrepen, in Belgisch-Congo of Ruanda-Urundi, dat in aanmerking genomen is bij de vaststelling van de duur van de tewerkstelling die het recht op pensioen doet ontstaan, en waarvan de teller gelijk is aan het verschil tussen de noemer en het aantal jaren gedurende welke de verzekerde in België als bediende, arbeider of zelfstandige vóór de leeftijd van 65 jaar voor mannen of van 60 jaar voor vrouwen werkzaam geweest is.
-
-4. Behalve wanneer de verzekerde overleden is gedurende een tijdvak van tewerkstelling of deelneming aan de verzekering, worden de van de waarborg uitgesloten uitkeringen verleend aan de weduwe die 45 jaar of ouder is of die een kind heeft dat in het genot is van een wezentoelage, voor zover het totaal van deze uitkeringen en van die welke met toepassing van de Belgische wet van 16 juni 1960 aan vreemdelingen gewaarborgd worden, niet meer bedraagt dan het verschil tussen het bedrag van de uitkeringen, die zouden zijn verleend, indien de gerechtigde de Belgische nationaliteit bezat, en een bedrag gelijk aan 500 frank per jaar tewerkstelling, vakanties inbegrepen, dat bij de vaststelling van de duur van de tewerkstelling, die recht op ouderdomspensioen doet ontstaan, in aanmerking genomen is.
-
-Wanneer de verzekerde in België werkzaam geweest is, wordt het in de vorige alinea bedoelde bedrag van 500 frank vermenigvuldigd met een breuk, waarvan de noemer gelijk is aan het verschil tussen enerzijds het aantal jaren, verstreken tussen de datum van zijn twintigste verjaardag en die van zijn overlijden, met dien verstande dat dit aantal niet groter zal zijn dan 45, en anderzijds het aantal jaren tewerkstelling, vakanties inbegrepen, in Belgisch-Congo of Ruanda-Urundi, dat in aanmerking genomen zou zijn bij de vaststelling van de duur van de tewerkstelling die het recht op ouderdomspensioen doet ontstaan, en waarvan de teller gelijk is aan het verschil tussen de noemer en het aantal jaren gedurende welke de verzekerde in België als bediende, arbeider of zelfstandige vóór de leeftijd van 65 jaar werkzaam geweest is.
+Vervallen
 
 ##### Artikel 2
 
