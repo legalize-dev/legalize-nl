@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2002-11-15"
+last_updated: "2003-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -180,13 +180,13 @@ Besluit:
 
 - aa. de Nieuwe Waterweg;
 
-- ab. het Hollandsch Diep, met uitzondering van:
+- ab. Het Hollandsch Diep, met uitzondering van:
 
-- 1. een strook gelegen binnen een afstand van 100 meter uit de noordelijke oever tussen de haven te Strijensas en de Oude Haven te Numansdorp;
+- 1. het water gelegen tussen de rood-wit aanvullende markering en de noordoever, vanaf de zuid-westelijke uitloop van de Dordtsche Kil via de kop van de haven van Strijen Sas naar de noordelijke brugpijler van de beweegbare doorvaartopening van de Haringvlietbrug;
 
-- 2. een gebied dat aan de westzijde wordt begrensd door de lijn die de tonnen HD 42 en HD 45 verbindt en aan de oostzijde door km 982.000;
+- 2. het gebied dat aan de westzijde wordt begrensd door de lijn die de tonnen HD 42-HD 45 verbindt en aan de oostzijde door km. 982.000.
 
-- ac. ac. het Haringvliet:
+- ac. het Haringvliet:
 
 - 1). het gebied binnen de lijn welke de volgende markeringen verbindt: DG 1, DG 3, DG 5, DG 7, DG 9, DG 11, HV 1/A2, HV 3, HV 5, HV 7, HV 9, HV 11, HV 13, HV 15, HV 17, HV 19, de westelijke havendam van de Buitenhaven van Middelharnis, HV 16, HV 14, HV 10, HV 8a/DvdH 1, HV 8, HV 6, HV 4, HV 2b, HV 2a, HV 2, DG 14, DG 12, DG 10, DG 8, DG 6, HD F, HD E, HD D, HD C, HD B, HD A, DG 4, DG 2, DG 1.
 
@@ -300,7 +300,7 @@ Besluit:
 
 - d. de Gouwzee, het door gele betonning gemarkeerde gebied;
 
-- e. e. IJmeer, met uitzondering van:
+- e. IJmeer, met uitzondering van:
 
 - 1. de betonde vaargeulen;
 
@@ -392,11 +392,11 @@ Besluit:
 
 - p. vervallen;
 
-- q. het Hollands Diep, uitsluitend het gedeelte buiten het door de hoofdbetonning gemarkeerde vaarwater, met uitzondering van:
+- q. Het Hollandsch Diep, met uitzondering van:
 
-- 1. een strook gelegen binnen een afstand van 100 meter uit de noordelijke oever tussen de haven van Strijensas en de Oude Haven te Numansdorp;
+- 1. het water gelegen tussen de rood-wit aanvullende markering en de noordoever, vanaf de zuid-westelijke uitloop van de Dordtsche Kil via de kop van de haven van Strijen Sas naar de noordelijke brugpijler van de beweegbare doorvaartopening van de Haringvlietbrug;
 
-- 2. een gebied dat aan de westzijde wordt begrensd door de lijn die de tonnen HD 42 en HD 45 verbindt en aan de oostzijde door km 982.000;
+- 2. het gebied dat aan de westzijde wordt begrensd door de lijn die de tonnen HD 42-HD 45 verbindt en aan de oostzijde door km. 982.000.
 
 - r. het Haringvliet:
 
@@ -484,9 +484,9 @@ Besluit:
 
 - f. binnen 100 meter van havenmondingen.
 
-##### Artikel 3
+##### Artikel 4
 
-Vervallen
+Deze regeling kan worden aangehaald als: [Regeling snelle motorboten Rijkswateren 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007331).
 
 ##### Artikel 4
 
@@ -501,3 +501,15 @@ De Regeling snelle motorboten Rijkswateren 1993 van 4 maart 1992, nr. RVR 117412
 Deze regeling treedt in werking met ingang van de tweede dag na plaatsing in de Staatscourant.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3
+
+1. Als vaarwegen of gedeelten daarvan, waar des nachts met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
+
+- a. de Oude Maas vanaf km 998.000;
+
+- b. de Nieuwe Maas vanaf km 991.700;
+
+- c. de Nieuwe Waterweg.
+
+2. Op de in het eerste lid genoemde vaarweggedeeltes en de Nieuwe Waterweg is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2003-07-02&g=2003-07-02), niet van toepassing.
