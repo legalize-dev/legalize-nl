@@ -4,7 +4,7 @@ identifier: "BWBR0008498"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-09"
-last_updated: "2002-12-17"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008498"
 soort: "AMvB"
@@ -60,23 +60,23 @@ Artikel 4.8, tweede en zesde lid, treedt voor zover het de aanwezigheid van het 
 
 2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. bouwplaats: elke tijdelijke of mobiele arbeidsplaats waar civieltechnische werken of bouwwerken tot stand worden gebracht, waarvan een niet-uitputtende lijst is opgenomen in bijlage I bij de richtlijn, bedoeld in artikel 2.23, onder a;
+- a. bouwplaats: elke tijdelijke of mobiele arbeidsplaats waar civieltechnische werken of bouwwerken tot stand worden gebracht, waarvan een niet-uitputtende lijst is opgenomen in bijlage I bij de richtlijn, bedoeld in [artikel 2.23, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=1&artikel=2.23&z=2003-01-01&g=2003-01-01);
 
 - b. bouwwerk: een civieltechnisch werk of bouwwerk als bedoeld onder a;
 
-- c. opdrachtgever: de natuurlijke of rechtspersoon voor wiens rekening een bouwwerk tot stand wordt gebracht;
+- c. opdrachtgever: degene voor wiens rekening een bouwwerk tot stand wordt gebracht;
 
 - d. opdrachtgever-consument: de natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf, voor wiens rekening een bouwwerk tot stand wordt gebracht;
 
-- e. ontwerpende partij: de natuurlijke of rechtspersoon die zich jegens de opdrachtgever of de opdrachtgever-consument verbonden heeft om in het bouwproces de ontwerpende functie te vervullen;
+- e. ontwerpende partij: degene die zich jegens de opdrachtgever of de opdrachtgever-consument verbonden heeft om in het bouwproces de ontwerpende functie te vervullen;
 
-- f. uitvoerende partij: de natuurlijke of rechtspersoon die zich jegens de opdrachtgever of de opdrachtgever-consument verbonden heeft om in het bouwproces de uitvoerende functie te vervullen.
+- f. uitvoerende partij: degene die zich jegens de opdrachtgever of de opdrachtgever-consument verbonden heeft om in het bouwproces de uitvoerende functie te vervullen.
 
 3. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. arbeidsplaats in de winningsindustrie: iedere arbeidsplaats die direkt of indirekt verband houdt met de winningsindustrie in dagbouw;
+- a. arbeidsplaats in de winningsindustrie: iedere arbeidsplaats die direkt of indirekt verband houdt met de winningsindustrie in dagbouw, de ondergrondse winningsindustrie of de winningsindustrie die delfstoffen wint met behulp van boringen;
 
-- b. delfstoffen: een natuurlijke concentratie of afzetting op de bodem of onmiddellijk onder de oppervlakte daarvan van substanties van organische oorsprong, ertsen, of mineralen;
+- b. delfstoffen: een natuurlijke concentratie of afzetting van ertsen, mineralen of substanties van organische oorsprong in of op de bodem, in vaste, vloeibare of gasvormige toestand, met inbegrip van op de bodem of onmiddellijk onder de oppervlakte daarvan aanwezige schelpen, grind, zand en klei;
 
 - c. winningsindustrie in dagbouw: elke industrie die:
 
@@ -84,7 +84,31 @@ Artikel 4.8, tweede en zesde lid, treedt voor zover het de aanwezigheid van het 
 
 - 2°. prospectiewerkzaamheden verricht met het oog op de winning van delfstoffen in de open lucht, of
 
-- 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen.
+- 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen;
+
+- d. ondergrondse winningsindustrie: elke industrie die:
+
+- 1°. ondergronds delfstoffen wint anders dan door middel van boorgaten;
+
+- 2°. prospectiewerkzaamheden verricht met het oog op deze winning;
+
+- 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen, of
+
+- 4°. stoffen opslaat als bedoeld in [artikel 1, onder i, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1).
+
+- e. winningsindustrie die delfstoffen wint met behulp van boringen:elke industrie die:
+
+- 1°. delfstoffen wint door middel van boorgaten;
+
+- 2°. prospectiewerkzaamheden verricht met het oog op deze winning;
+
+- 3°. delfstoffen gereed maakt voor de verkoop, met uitzondering van werkzaamheden in verband met de verwerking van deze delfstoffen;
+
+- 4°. stoffen opslaat als bedoeld in [artikel 1, onder i, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), of
+
+- 5°. aardwarmte opspoort of wint als bedoeld in [artikel 1, onder g en h, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1).
+
+- f. mijnbouwinstallatie: een installatie als bedoeld in [artikel 1, onder o, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1).
 
 4. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -112,7 +136,7 @@ Artikel 4.8, tweede en zesde lid, treedt voor zover het de aanwezigheid van het 
 
 - d. thuiswerkgever:
 
-- 1°. de werkgever, bedoeld in [artikel 1, eerste lid, onder a, en tweede lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), voor zover hij een ander in een woning arbeid doet verrichten;
+- 1°. de werkgever, bedoeld in [artikel 1, eerste lid, onder **a**, en tweede lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), voor zover hij een ander in een woning arbeid doet verrichten;
 
 - 2°. de werkgever, bedoeld in [artikel 1, tweede lid, onderdeel a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), voor zover hij in het kader van de uitoefening van een beroep of bedrijf een ander krachtens een overeenkomst tot aanneming van werk of krachtens een overeenkomst van opdracht in een woning arbeid doet verrichten, tenzij die ander zelfstandig een beroep of bedrijf uitoefent waarin hij zich in de regel ook tegenover derden tot het verrichten van dergelijke arbeid verplicht;
 
@@ -138,9 +162,9 @@ Vervallen
 
 2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder bekostigde onderwijsinrichting:
 
-- a. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- a. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- b. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- b. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - c. een openbare of een geheel of gedeeltelijk uit de openbare kas bekostigde bijzondere school, cursus of inrichting als bedoeld in en onder de werking van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
@@ -166,9 +190,7 @@ Vervallen
 
 - a. een medezeggenschapsraad als bedoeld in de [Wet medezeggenschap onderwijs 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005746) of in [artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17);
 
-- b. de personeelsraad van de Open Universiteit, bedoeld in [artikel 11.19 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.19);
-
-- c. de studentenraad van de Open Universiteit, bedoeld in [artikel 11.23 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.23).
+- b. de studentenraad van de Open Universiteit, bedoeld in [artikel 11.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13).
 
 ##### Artikel 1.4. Definities justitiële inrichtingen
 
@@ -182,7 +204,7 @@ Vervallen
 
 - b. gedetineerden, verpleegden en jeugdigen: degenen, die krachtens rechterlijke uitspraak of beschikking of door het openbaar gezag rechtens van hun vrijheid zijn beroofd en verblijven in een justitiële inrichting met uitzondering van de in het Penitentiair Centrum Nieuwersluis gedetineerde militairen;
 
-- c. justitiële inrichting: een gevangenis of huis van bewaring als bedoeld in de Penitentiaire beginselenwet, een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) of een rijksinrichting als bedoeld in de [Wet op de jeugdhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0004608).
+- c. justitiële inrichting: een gevangenis of huis van bewaring als bedoeld in de Penitentiaire beginselenwet, een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) of een inrichting als bedoeld in de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756).
 
 2. Onder justitiële inrichting wordt mede verstaan: het vervoer van gedetineerden, verpleegden en jeugdigen van en naar de justitiële inrichting alsmede alle andere arbeid die justitieel personeel verricht met gedetineerden, verpleegden en jeugdigen buiten de justitiële inrichting.
 
@@ -250,7 +272,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.5d. Aanvraag om aanwijzing
 
-1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in [artikel 1.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1A&paragraaf=1&artikel=1.5a&z=2002-12-17&g=2002-12-17), dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
+1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in [artikel 1.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1A&paragraaf=1&artikel=1.5a&z=2003-01-01&g=2003-01-01), dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
 
 2. Een aanwijzing kan worden geweigerd dan wel worden ingetrokken indien niet of niet volledig is voldaan aan de bij de wet of bij of krachtens deze afdeling gestelde voorschriften.
 
@@ -266,11 +288,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Een certificaat kan worden geweigerd of onder voorschriften worden afgegeven of verlengd dan wel ingetrokken, indien is gebleken dat niet of niet volledig is voldaan aan bij of krachtens de wet met betrekking tot het certificaat gestelde eisen.
 
+5. Voorts kan een certificaat worden geweigerd dan wel ingetrokken indien de veiligheid of gezondheid van werknemers of derden door werkzaamheden die door het certificaat worden gereguleerd in gevaar wordt of kan worden gebracht.
+
 ### Afdeling 2. Samenwerking, overleg en ontslag- en benadelingsbescherming
 
 ##### Artikel 1.6. Definities samenwerking en overleg
 
-1. In afwijking van de wet, dit besluit en de daarop berustende bepalingen wordt voor de toepassing daarvan ten aanzien van arbeid verricht in bekostigde onderwijsinrichtingen als bedoeld in [artikel 1.3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2002-12-17&g=2002-12-17), voor «de ondernemingsraad» gelezen «de dienstcommissie», en wordt ten aanzien van arbeid verricht door defensiepersoneel, voor zover de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) niet van toepassing is, voor «de ondernemingsraad» gelezen «het overlegorgaan».
+1. In afwijking van de wet, dit besluit en de daarop berustende bepalingen wordt voor de toepassing daarvan ten aanzien van arbeid verricht in bekostigde onderwijsinrichtingen als bedoeld in [artikel 1.3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2003-01-01&g=2003-01-01), voor «de ondernemingsraad» gelezen «de dienstcommissie», en wordt ten aanzien van arbeid verricht door defensiepersoneel, voor zover de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) niet van toepassing is, voor «de ondernemingsraad» gelezen «het overlegorgaan».
 
 2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -308,15 +332,15 @@ Tenzij hierna anders is bepaald, zijn de wet en dit besluit van toepassing op we
 
 ##### Artikel 1.11. Samenwerking en overleg / Onderwijs-inrichtingen met een medezeggenschapsraad
 
-1. Voor bekostigde onderwijsinrichtingen als bedoeld in [artikel 1.3, tweede lid, onder a tot en met c, en onder e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2002-12-17&g=2002-12-17), komen de rechten, bedoeld in [artikel 12, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12), voor zover van toepassing, toe aan de leden van de medezeggenschapsraad.
+1. Voor bekostigde onderwijsinrichtingen als bedoeld in [artikel 1.3, tweede lid, onder a tot en met c, en onder e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2003-01-01&g=2003-01-01), komen de rechten, bedoeld in [artikel 12, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12), voor zover van toepassing, toe aan de leden van de medezeggenschapsraad.
 
 2. Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen treedt voor de toepassing van [artikel 12, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12) de medezeggenschapsraad in de plaats van de ondernemingsraad.
 
-3. Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen worden de in de wet en dit besluit toekomende rechten en bevoegdheden met inachtneming van [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=3&artikel=1.13&z=2002-12-17&g=2002-12-17), uitgeoefend door de leden van de medezeggenschapsraad of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling.
+3. Voor de in het eerste lid genoemde bekostigde onderwijsinrichtingen worden de in de wet en dit besluit toekomende rechten en bevoegdheden met inachtneming van [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=3&artikel=1.13&z=2003-01-01&g=2003-01-01), uitgeoefend door de leden van de medezeggenschapsraad of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling.
 
 ##### Artikel 1.12. Samenwerking en overleg / Universiteiten
 
-Voor de in [artikel 1.3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2002-12-17&g=2002-12-17), genoemde bekostigde onderwijsinrichting worden de in de wet en dit besluit toekomende rechten en bevoegdheden, met inachtneming van [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=3&artikel=1.13&z=2002-12-17&g=2002-12-17), uitgeoefend door de dienstcommissie, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling.
+Voor de in [artikel 1.3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=1&artikel=1.3&z=2003-01-01&g=2003-01-01), genoemde bekostigde onderwijsinrichting worden de in de wet en dit besluit toekomende rechten en bevoegdheden, met inachtneming van [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=3&artikel=1.13&z=2003-01-01&g=2003-01-01), uitgeoefend door de dienstcommissie, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of, indien het betreft aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel, door het overlegorgaan van het decentraal georganiseerd overleg respectievelijk van de instelling.
 
 ##### Artikel 1.13. Uitzonderingen arbobeleid en horen
 
@@ -396,9 +420,9 @@ Op arbeid verricht door werknemers in dienst van de N.V. Nederlandse Spoorwegen,
 
 Ten aanzien van arbeid verricht door het justitieel personeel in de justitiële inrichtingen geschiedt de toepassing van de wet met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens, waarvan de geheimhouding door het belang van de staat of van zijn bondgenoten wordt geboden.
 
-##### Artikel 1.24. Kennisneming inventarisatie en evaluatie
+##### Artikel 1.24. Kennisneming risico-inventarisatie en -evaluatie
 
-In afwijking van [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5) kan een gedetineerde, verpleegde of jeugdige kennisnemen van de inventarisatie en evaluatie, voor zover de orde of de veiligheid in de justitiële inrichting daardoor niet in gevaar wordt gebracht.
+In afwijking van [artikel 5, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5) kan een gedetineerde, verpleegde of jeugdige kennisnemen van de risico-inventarisatie en -evaluatie, voor zover de orde of de veiligheid in de justitiële inrichting daardoor niet in gevaar wordt gebracht.
 
 ##### Artikel 1.25. Samenwerking
 
@@ -430,7 +454,7 @@ De wet is niet van toepassing op arbeid verricht door defensiepersoneel:
 
 ##### Artikel 1.30. Partiële uitzondering [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en [16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16)
 
-[Artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en de op [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) gebaseerde [artikelen 1.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17) en [1.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.41&z=2002-12-17&g=2002-12-17), de [afdelingen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&z=2002-12-17&g=2002-12-17) en [6 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&z=2002-12-17&g=2002-12-17), de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&z=2002-12-17&g=2002-12-17), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&z=2002-12-17&g=2002-12-17), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&z=2002-12-17&g=2002-12-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&z=2002-12-17&g=2002-12-17) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2002-12-17&g=2002-12-17) en de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2002-12-17&g=2002-12-17) en[2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) van dit besluit zijn niet van toepassing:
+[Artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en de op [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) gebaseerde [artikelen 1.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01) en [1.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.41&z=2003-01-01&g=2003-01-01), de [afdelingen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&z=2003-01-01&g=2003-01-01) en [6 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&z=2003-01-01&g=2003-01-01), de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&z=2003-01-01&g=2003-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&z=2003-01-01&g=2003-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&z=2003-01-01&g=2003-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2003-01-01&g=2003-01-01) en de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2003-01-01&g=2003-01-01) en[2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) van dit besluit zijn niet van toepassing:
 
 - a. tijdens, direct voor en direct na oefeningen;
 
@@ -450,7 +474,7 @@ Voor zover [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) van toepass
 
 - b. dat wachtdiensten verricht, of
 
-- c. dat is ingezet ter verlening van de bijstand, bedoeld in [artikel 1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.29&z=2002-12-17&g=2002-12-17), onder **b**, aan de politie, van toepassing, voor zover een goede taakuitoefening door de toepassing van genoemd artikel niet wordt belemmerd.
+- c. dat is ingezet ter verlening van de bijstand, bedoeld in [artikel 1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.29&z=2003-01-01&g=2003-01-01), onder **b**, aan de politie, van toepassing, voor zover een goede taakuitoefening door de toepassing van genoemd artikel niet wordt belemmerd.
 
 ##### Artikel 1.32. Partiële uitzondering [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=13)
 
@@ -474,11 +498,11 @@ De[artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12) en 
 
 - a. indien oorlogsschepen varen en indien militaire luchtvaartuigen en bemande wapensystemen als zodanig in gebruik zijn;
 
-- b. in de gevallen, bedoeld in [artikel 1.30, onder b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.30&z=2002-12-17&g=2002-12-17).
+- b. in de gevallen, bedoeld in [artikel 1.30, onder b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.30&z=2003-01-01&g=2003-01-01).
 
 3. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) zijn van toepassing op het personeel van de Koninklijke Marechaussee, behoudens indien dit personeel daadwerkelijk bezig is met de uitvoering van de specifieke taken, die de Koninklijke Marechaussee in [artikel 6, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6) zijn opgedragen.
 
-4. In aanvulling op het derde lid, zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in [artikel 1.29, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.29&z=2002-12-17&g=2002-12-17), voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.
+4. In aanvulling op het derde lid, zijn de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) van toepassing op de arbeid verricht door personeel van de Koninklijke Marechaussee in geval van de verlening van bijstand, bedoeld in [artikel 1.29, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=7&artikel=1.29&z=2003-01-01&g=2003-01-01), voor zover door de toepassing van die artikelen een goede uitoefening van die bijstandsverlening niet wordt belemmerd.
 
 ##### Artikel 1.34. Uitzondering [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=29)
 
@@ -490,9 +514,9 @@ De[artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=12) en 
 
 In deze afdeling wordt verstaan onder richtlijn: [Richtlijn nr. 94/33/EEG](31994L0033) van de Raad van de Europese Unie van 22 juni 1994 betreffende de bescherming van jongeren op het werk (**PbEG** L 216).
 
-##### Artikel 1.36. Nadere voorschriften inventarisatie en evaluatie
+##### Artikel 1.36. Nadere voorschriften risico-inventarisatie en -evaluatie
 
-1. Indien in een bedrijf of inrichting een of meer jeugdige werknemers werkzaam zijn of plegen te zijn wordt in de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in het bijzonder aandacht besteed aan:
+1. Indien in een bedrijf of inrichting een of meer jeugdige werknemers werkzaam zijn of plegen te zijn wordt in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in het bijzonder aandacht besteed aan:
 
 - a. de leeftijd van de jeugdige werknemer;
 
@@ -508,21 +532,21 @@ In deze afdeling wordt verstaan onder richtlijn: [Richtlijn nr. 94/33/EEG](31994
 
 - g. het opleidingsniveau van de jeugdige werknemers en de aan hen te geven voorlichting.
 
-2. Voorts wordt in de inventarisatie en evaluatie bijzondere aandacht besteed aan de niet-volledige lijst van agentia, procédés en werkzaamheden, opgenomen in de bijlage bij de richtlijn.
+2. Voorts wordt in de risico-inventarisatie en -evaluatie bijzondere aandacht besteed aan de niet-volledige lijst van agentia, procédés en werkzaamheden, opgenomen in de bijlage bij de richtlijn.
 
 ##### Artikel 1.37. Deskundig toezicht
 
-1. Indien in een bedrijf of inrichting jeugdige werknemers arbeid verrichten, wordt op die arbeid adequaat deskundig toezicht uitgeoefend. De inhoud en de mate van het toezicht is afhankelijk van de uit de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), gebleken gevaren die kunnen ontstaan, indien deskundig toezicht ontbreekt.
+1. Indien in een bedrijf of inrichting jeugdige werknemers arbeid verrichten, wordt op die arbeid adequaat deskundig toezicht uitgeoefend. De inhoud en de mate van het toezicht is afhankelijk van de uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), gebleken gevaren die kunnen ontstaan, indien deskundig toezicht ontbreekt.
 
-2. Indien uit de inventarisatie en evaluatie, bedoeld in artikel 1.36, blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor ongevallen als gevolg van een gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden, mag die arbeid slechts worden verricht, indien het deskundig toezicht zodanig is georganiseerd dat die gevaren worden voorkomen. Indien dat niet mogelijk is, mag die arbeid niet door jeugdige werknemers worden verricht.
+2. Indien uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 1.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.36&z=2003-01-01&g=2003-01-01), blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor arbeidsongevallen als gevolg van een gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden, mag die arbeid slechts worden verricht, indien het deskundig toezicht zodanig is georganiseerd dat die gevaren worden voorkomen. Indien dat niet mogelijk is, mag die arbeid niet door jeugdige werknemers worden verricht.
 
 ##### Artikel 1.38. Arbeidsgezondheidskundig onderzoek
 
-In aanvulling op [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18) worden jeugdige werknemers in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan, zodra uit de inventarisatie en evaluatie, bedoeld in artikel 1.36, blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor ongevallen als gevolg van het gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden.
+In aanvulling op [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18) worden jeugdige werknemers in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan, zodra uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 1.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.36&z=2003-01-01&g=2003-01-01), blijkt, dat jeugdige werknemers arbeid moeten verrichten waaraan specifieke gevaren, met name voor arbeidsongevallen als gevolg van het gebrek aan werkervaring, het niet goed kunnen inschatten van gevaren en het niet voltooid zijn van de geestelijke en lichamelijke ontwikkeling van de jeugdige werknemer, zijn verbonden.
 
 ##### Artikel 1.39. Uitzonderingen leerlingen en studenten in onderwijsinrichtingen
 
-Deze afdeling en [paragraaf 4 van afdeling 5 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=4&z=2002-12-17&g=2002-12-17), [paragraaf 2 van afdeling 10 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&z=2002-12-17&g=2002-12-17), [paragraaf 3 van afdeling 6 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&z=2002-12-17&g=2002-12-17) en [paragraaf 2 van afdeling 6 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&z=2002-12-17&g=2002-12-17), zijn niet van toepassing op leerlingen en studenten in onderwijsinrichtingen.
+Deze afdeling en [paragraaf 4 van afdeling 5 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01), [paragraaf 2 van afdeling 10 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&z=2003-01-01&g=2003-01-01), [paragraaf 3 van afdeling 6 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&z=2003-01-01&g=2003-01-01) en [paragraaf 2 van afdeling 6 van hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&z=2003-01-01&g=2003-01-01), zijn niet van toepassing op leerlingen en studenten in onderwijsinrichtingen.
 
 ### Afdeling 9. Zwangere werknemers en werknemers tijdens de lactatie
 
@@ -530,9 +554,9 @@ Deze afdeling en [paragraaf 4 van afdeling 5 van hoofdstuk 3](https://wetten.ove
 
 In deze afdeling wordt verstaan onder richtlijn: [Richtlijn nr. 92/85/EEG](31992L0085) van de Raad van de Europese Gemeenschappen van 19 oktober 1992 betreffende maatregelen ter bevordering van de verbetering van de veiligheid en de gezondheid van werkneemsters tijdens de zwangerschap, na de bevalling en tijdens de lactatie (**PbEG** L 348).
 
-##### Artikel 1.41. Inventarisatie en evaluatie
+##### Artikel 1.41. Risico-inventarisatie en -evaluatie
 
-Indien in een bedrijf of inrichting een zwangere werknemer of een werknemer tijdens de lactatie werkzaam is of pleegt te zijn, wordt in de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in het bijzonder aandacht besteed aan de niet-limitatieve lijst van agentia, procédés en arbeidsomstandigheden, opgenomen in bijlage I bij de richtlijn
+Indien in een bedrijf of inrichting een zwangere werknemer of een werknemer tijdens de lactatie werkzaam is of pleegt te zijn, wordt in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in het bijzonder aandacht besteed aan de niet-limitatieve lijst van agentia, procédés en arbeidsomstandigheden, opgenomen in bijlage I bij de richtlijn
 
 ##### Artikel 1.42. Organisatie van de arbeid
 
@@ -560,17 +584,17 @@ Van de thuiswerkers zijn gegevens beschikbaar omtrent naam, adres en woonplaats 
 
 Het is niet toegestaan aan de thuiswerker een grotere hoeveelheid aan grondstoffen, halffabrikaten en gerede producten in voorraad te geven of te laten houden dan voor de arbeid strikt noodzakelijk is.
 
-##### Artikel 1.46. Melding van ongevallen
+##### Artikel 1.46. Melding van arbeidsongevallen
 
-Indien aan een thuiswerker in verband met het verrichten van arbeid een ongeval als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) overkomt, wordt door de thuiswerker hiervan onverwijld mededeling gedaan aan de thuiswerkgever.
+Indien aan een thuiswerker in verband met het verrichten van arbeid een arbeidsongeval als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) overkomt, wordt door de thuiswerker hiervan onverwijld mededeling gedaan aan de thuiswerkgever.
 
 ### Hoofdstuk 2. Arbozorg en organisatie van de arbeid
 
 ### Afdeling 1. Melding ongevallen en beroepsziekten
 
-##### Artikel 2.1. Gegevens ongevallen en beroepsziekten
+##### Artikel 2.1. Gegevens arbeidsongevallen en beroepsziekten
 
-Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens die bij de schriftelijke mededeling van een ongeval, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) en de mededeling van een beroepsziekte, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) worden verstrekt.
+Bij ministeriële regeling worden regels gesteld met betrekking tot de gegevens die bij de schriftelijke mededeling van een arbeidsongeval, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) en de mededeling van een beroepsziekte, bedoeld in [artikel 9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) worden verstrekt.
 
 ### Afdeling 2. Arbeidsveiligheidsrapportage
 
@@ -610,7 +634,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 2.2a. Toepasselijkheid
 
-Deze afdeling is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop [paragraaf 3 van het het Besluit risico's zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475&paragraaf=3) van toepassing is.
+Deze afdeling is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop [paragraaf 3 van het Besluit risico's zware omgevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475&paragraaf=3) van toepassing is en op arbeid verricht in de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.
 
 ##### Artikel 2.2b. Arbeidsveiligheidsrapporten
 
@@ -676,7 +700,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 2.4. Grenswaarden
 
-1. De in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2002-12-17&g=2002-12-17), bedoelde grenswaarde bedraagt:
+1. De in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2003-01-01&g=2003-01-01), bedoelde grenswaarde bedraagt:
 
 - a. voor brandbare stoffen: 10 000 kilogram;
 
@@ -684,11 +708,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 - c. voor ontplofbare stoffen: de hoeveelheid waarvan de explosie-energie equivalent is aan de explosie-energie van 1000 kilogram trinitrotolueen, waarbij de explosie-energie van trinitrotolueen wordt gesteld op 4 600 kilojoule per kilogram.
 
-2. Voor toxische stoffen worden de grenswaarden, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2002-12-17&g=2002-12-17), afgeleid op basis van de toxicologische gegevens en de fysische omstandigheid bij 25° C van de grenswaarde voor chloor, waarbij de grenswaarde voor chloor op 300 kilogram wordt gesteld. Bij deze afleiding wordt uitgegaan van een lethale concentratie 50 bij een blootstelling van de rat gedurende één uur aan de stof.
+2. Voor toxische stoffen worden de grenswaarden, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2003-01-01&g=2003-01-01), afgeleid op basis van de toxicologische gegevens en de fysische omstandigheid bij 25° C van de grenswaarde voor chloor, waarbij de grenswaarde voor chloor op 300 kilogram wordt gesteld. Bij deze afleiding wordt uitgegaan van een lethale concentratie 50 bij een blootstelling van de rat gedurende één uur aan de stof.
 
 ##### Artikel 2.5. Omstandigheidsfactoren
 
-De in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2002-12-17&g=2002-12-17), bedoelde omstandigheidsfactoren zijn:
+De in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.3&z=2003-01-01&g=2003-01-01), bedoelde omstandigheidsfactoren zijn:
 
 - a. voor een stof die zich bevindt in een installatie voor bewerking: 1;
 
@@ -732,7 +756,7 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.8. EG-verklaring inzake deskundigheid
 
-Indien op een of meer vakgebieden diploma's zijn vereist voor de afgifte van een certificaat van vakbekwaamheid als bedoeld in [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.7&z=2002-12-17&g=2002-12-17), wordt met die diploma's gelijkgesteld een door Onze Minister of een door Onze Minister aangewezen instelling op een van deze vakgebieden afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317).
+Indien op een of meer vakgebieden diploma's zijn vereist voor de afgifte van een certificaat van vakbekwaamheid als bedoeld in [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.7&z=2003-01-01&g=2003-01-01), wordt met die diploma's gelijkgesteld een door Onze Minister of een door Onze Minister aangewezen instelling op een van deze vakgebieden afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317).
 
 ##### Artikel 2.9. Functioneringseisen
 
@@ -756,7 +780,7 @@ Indien op een of meer vakgebieden diploma's zijn vereist voor de afgifte van een
 
 1. Een externe arbodienst bezit rechtspersoonlijkheid en heeft in hoofdzaak tot doel het vervullen van de taken, bedoeld in [artikel 14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
 
-2. Op elk van de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.7&z=2002-12-17&g=2002-12-17), genoemde vakgebieden is ten minste één deskundige werkzaam krachtens een arbeidsovereenkomst of publiekrechtelijke aanstelling voor onbepaalde tijd.
+2. Op elk van de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.7&z=2003-01-01&g=2003-01-01), genoemde vakgebieden is ten minste één deskundige werkzaam krachtens een arbeidsovereenkomst of publiekrechtelijke aanstelling voor onbepaalde tijd.
 
 ##### Artikel 2.11. Uitrustingseisen
 
@@ -826,7 +850,7 @@ Bij de organisatie van bedrijfshulpverlening wordt ten minste rekening gehouden 
 
 2. Zodanige organisatorische maatregelen worden genomen dat bij een ongeval of brand na aankomst van hulpverleningsorganisaties deze op adequate wijze kunnen worden bijgestaan.
 
-3. Onder alle omstandigheden en met inachtneming van [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.19&z=2002-12-17&g=2002-12-17) zijn bedrijfshulpverleners bereikbaar en beschikbaar om bij een ongeval of brand de bedrijfshulpverleningstaken te vervullen.
+3. Onder alle omstandigheden en met inachtneming van [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.19&z=2003-01-01&g=2003-01-01) zijn bedrijfshulpverleners bereikbaar en beschikbaar om bij een ongeval of brand de bedrijfshulpverleningstaken te vervullen.
 
 4. Indien de veiligheid of de gezondheid van andere werknemers in de nabije omgeving kunnen worden bedreigd, worden door de betrokken werkgevers op het gebied van de bedrijfshulpverlening zodanige organisatorische maatregelen genomen dat de betrokken bedrijfshulpverleners bij een ongeval of brand over en weer bijstand kunnen verlenen.
 
@@ -866,17 +890,17 @@ In deze afdeling wordt verstaan onder:
 
 - a. richtlijn: [Richtlijn nr. 92/57/EEG](31992L0057) van de Raad van de Europese Gemeenschappen van 24 juni 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid voor tijdelijke en mobiele bouwplaatsen (**PbEG** L 245);
 
-- b. coördinator voor de ontwerpfase: de natuurlijke of rechtspersoon die belast is met de in artikel 2.30 genoemde taken inzake veiligheid en gezondheid gedurende de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een bouwwerk;
+- b. coördinator voor de ontwerpfase: degene die belast is met de in [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2003-01-01&g=2003-01-01) genoemde taken inzake veiligheid en gezondheid gedurende de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een bouwwerk;
 
-- c. coördinator voor de uitvoeringsfase: de natuurlijke of rechtspersoon die belast is met de in artikel 2.34 genoemde taken inzake veiligheid en gezondheid gedurende de totstandbrenging van een bouwwerk.
+- c. coördinator voor de uitvoeringsfase: degene die belast is met de in [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01) genoemde taken inzake veiligheid en gezondheid gedurende de totstandbrenging van een bouwwerk.
 
 ##### Artikel 2.24. Aanwijzing
 
-Voor de toepassing van [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) worden aangewezen de opdrachtgever, de ontwerpende en de uitvoerende partij.
+Voor de toepassing van [artikel 16, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) worden aangewezen de opdrachtgever, de ontwerpende en de uitvoerende partij.
 
 ##### Artikel 2.25. Toepasselijkheid
 
-Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën in dagbouw als bedoeld in afdeling 6.
+Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën als bedoeld in de [afdelingen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&z=2003-01-01&g=2003-01-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&z=2003-01-01&g=2003-01-01).
 
 #### § 2. Algemene verplichtingen inzake bouwplaatsen en verplichtingen in verband met het ontwerp van een bouwwerk
 
@@ -892,7 +916,7 @@ Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën 
 
 ##### Artikel 2.27. Veiligheids- en gezondheidsplan
 
-1. Ten aanzien van een bouwwerk als bedoeld in bijlage II bij de richtlijn of een bouwwerk ten aanzien waarvan een kennisgeving als bedoeld in artikel 2.26 wordt gedaan, wordt een veiligheids- en gezondheidsplan opgesteld, waarin ten minste vermeld worden:
+1. Ten aanzien van een bouwwerk als bedoeld in bijlage II bij de richtlijn of een bouwwerk ten aanzien waarvan een kennisgeving als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.26&z=2003-01-01&g=2003-01-01) wordt gedaan, wordt een veiligheids- en gezondheidsplan opgesteld, waarin ten minste vermeld worden:
 
 - a. een beschrijving van het tot stand te brengen bouwwerk;
 
@@ -902,7 +926,7 @@ Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën 
 
 - d. de naam van de coördinator voor de uitvoeringsfase;
 
-- e. de inventarisatie en evaluatie van de gevaren overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
+- e. de risico-inventarisatie en -evaluatie van de gevaren overeenkomstig [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
 
 - f. de wijze waarop uitvoering wordt gegeven aan de samenwerking tussen werkgevers en in voorkomende gevallen zelfstandig werkenden op de bouwplaats, welke voorzieningen daarbij zullen worden getroffen en op welke wijze op die voorzieningen toezicht zal worden uitgeoefend;
 
@@ -920,15 +944,15 @@ Ten behoeve van een bouwplaats waar twee of meer werkgevers dan wel één werkge
 
 ##### Artikel 2.29. Algemene uitgangspunten inzake veiligheid en gezondheid bij het ontwerpen van een bouwwerk.
 
-In de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een bouwwerk worden bij de bouwkundige, technische of organisatorische keuzen in verband met de planning van de verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, alsmede bij de raming van de duur van deze onderdelen of fasen, de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), [5, eerste lid, met uitzondering van de derde volzin, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), en[8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=8) in acht genomen. Voor zover van toepassing wordt daarbij tevens rekening gehouden met veiligheids- en gezondheidsplannen als bedoeld in artikel 2.27, die gedurende de ontwerpfase met betrekking tot verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, zijn of worden opgesteld en met dossiers als bedoeld in artikel 2.30, onder **c** alsmede met de wijzigingen daarvan op grond van artikel 2.34, onder **g**.
+In de studie-, de ontwerp- en de uitwerkingsfase van het ontwerp van een bouwwerk worden bij de bouwkundige, technische of organisatorische keuzen in verband met de planning van de verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, alsmede bij de raming van de duur van deze onderdelen of fasen, de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), [5, eerste lid, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), en[8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=8) in acht genomen. Voor zover van toepassing wordt daarbij tevens rekening gehouden met veiligheids- en gezondheidsplannen als bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), die gedurende de ontwerpfase met betrekking tot verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, zijn of worden opgesteld en met dossiers als bedoeld in [artikel 2.30, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2003-01-01&g=2003-01-01) alsmede met de wijzigingen daarvan op grond van [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01), onder **g**.
 
 ##### Artikel 2.30. Coördinatietaken gedurende de ontwerpfase
 
 De coördinator voor de ontwerpfase heeft tot taak om:
 
-- a. de uitvoering van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.29&z=2002-12-17&g=2002-12-17) te coördineren;
+- a. de uitvoering van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.29&z=2003-01-01&g=2003-01-01) te coördineren;
 
-- b. te zorgen voor de opstelling van een veiligheids- en gezondheidsplan als bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17);
+- b. te zorgen voor de opstelling van een veiligheids- en gezondheidsplan als bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01);
 
 - c. een dossier samen te stellen, waarin de voor de veiligheid en gezondheid van werknemers van belang zijnde bouwkundige en technische kenmerken of kenmerken betreffende de inrichting of outillage van het bouwwerk zijn beschreven waarmee bij het verrichten van mogelijke latere werkzaamheden aan het bouwwerk rekening moet worden gehouden, dat is bestemd voor de eigenaar of beheerder van het bouwwerk dan wel degene die kan beslissen over de uitvoering van bedoelde werkzaamheden.
 
@@ -936,21 +960,21 @@ De coördinator voor de ontwerpfase heeft tot taak om:
 
 Overeenkomstig het bij of krachtens deze paragraaf bepaalde:
 
-- a. zorgt de opdrachtgever ervoor dat de bij of krachtens de [artikelen 2.26 tot en met 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.26&z=2002-12-17&g=2002-12-17) gestelde voorschriften worden nageleefd;
+- a. zorgt de opdrachtgever ervoor dat de bij of krachtens de [artikelen 2.26 tot en met 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.26&z=2003-01-01&g=2003-01-01) gestelde voorschriften worden nageleefd;
 
 - b. neemt de opdrachtgever zodanige maatregelen en richt hij de werkzaamheden zodanig in dat:
 
-- 1°. door de coördinator voor de ontwerpfase de taken worden uitgeoefend, bedoeld in [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2002-12-17&g=2002-12-17);
+- 1°. door de coördinator voor de ontwerpfase de taken worden uitgeoefend, bedoeld in [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2003-01-01&g=2003-01-01);
 
 - 2°. de coördinator voor de ontwerpfase zijn taken naar behoren kan vervullen;
 
-- c. zorgt de opdrachtgever ervoor dat het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17), deel uitmaakt van het bestek betreffende het bouwwerk.
+- c. zorgt de opdrachtgever ervoor dat het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), deel uitmaakt van het bestek betreffende het bouwwerk.
 
 ##### Artikel 2.32. Verplichtingen ontwerpende partij
 
-1. Ten aanzien van een opdrachtgever-consument zorgt de ontwerpende partij ervoor dat wordt voldaan aan [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2002-12-17&g=2002-12-17).
+1. Ten aanzien van een opdrachtgever-consument zorgt de ontwerpende partij ervoor dat wordt voldaan aan [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2003-01-01&g=2003-01-01).
 
-2. Indien twee of meer ontwerpende partijen zich ieder afzonderlijk jegens de opdrachtgever-consument hebben verbonden om een deel van het ontwerp van een bouwwerk tot stand te brengen, wordt in een schriftelijke overeenkomst tussen deze partijen vastgelegd door wie aan de verplichtingen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2002-12-17&g=2002-12-17), wordt voldaan.
+2. Indien twee of meer ontwerpende partijen zich ieder afzonderlijk jegens de opdrachtgever-consument hebben verbonden om een deel van het ontwerp van een bouwwerk tot stand te brengen, wordt in een schriftelijke overeenkomst tussen deze partijen vastgelegd door wie aan de verplichtingen, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2003-01-01&g=2003-01-01), wordt voldaan.
 
 #### § 3. Verplichtingen in verband met de totstandbrenging van een bouwwerk
 
@@ -962,43 +986,43 @@ Ten behoeve van een bouwplaats waar twee of meer werkgevers dan wel één werkge
 
 De coördinator voor de uitvoeringsfase heeft tot taak om:
 
-- a. de door werkgevers respectievelijk zelfstandig werkenden op grond van de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2002-12-17&g=2002-12-17) en [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.39&z=2002-12-17&g=2002-12-17) te nemen maatregelen bij de technische of organisatorische keuzen in verband met de planning van de verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, alsmede bij de raming van de duur van de uitvoering van deze onderdelen of fasen, te coördineren, opdat die werkgevers en, indien nodig ter bescherming van de veiligheid en gezondheid van de werknemers, zelfstandig werkenden op de bouwplaats, de betreffende maatregelen op samenhangende wijze toepassen;
+- a. de door werkgevers respectievelijk zelfstandig werkenden op grond van de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2003-01-01&g=2003-01-01) en [2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.39&z=2003-01-01&g=2003-01-01) te nemen maatregelen bij de technische of organisatorische keuzen in verband met de planning van de verschillende onderdelen van het bouwwerk of de fasen waarin het bouwwerk of de onderdelen daarvan tot stand worden gebracht, alsmede bij de raming van de duur van de uitvoering van deze onderdelen of fasen, te coördineren, opdat die werkgevers en, indien nodig ter bescherming van de veiligheid en gezondheid van de werknemers, zelfstandig werkenden op de bouwplaats, de betreffende maatregelen op samenhangende wijze toepassen;
 
-- b. de samenwerking tussen de werkgevers die tegelijkertijd of elkaar opvolgend arbeid doen verrichten te organiseren en te coördineren als bedoeld in [artikel 2.27, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17) en daarbij in voorkomende gevallen mede de op de bouwplaats werkzame zelfstandig werkenden te betrekken;
+- b. de samenwerking tussen de werkgevers die tegelijkertijd of elkaar opvolgend arbeid doen verrichten te organiseren en te coördineren als bedoeld in [artikel 2.27, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01) en daarbij in voorkomende gevallen mede de op de bouwplaats werkzame zelfstandig werkenden te betrekken;
 
-- c. het in [artikel 2.27, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17) bedoelde toezicht te coördineren;
+- c. het in [artikel 2.27, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01) bedoelde toezicht te coördineren;
 
 - d. de voorlichting van werknemers op de bouwplaats te coördineren;
 
 - e. de nodige maatregelen te nemen opdat alleen bevoegde personen de bouwplaats kunnen betreden;
 
-- f. ervoor te zorgen dat de gegevens, bedoeld in [artikel 2.27, eerste lid, onder b, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17), voor zover nodig, in het veiligheids- en gezondheidsplan worden vermeld;
+- f. ervoor te zorgen dat de gegevens, bedoeld in [artikel 2.27, eerste lid, onder b, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), voor zover nodig, in het veiligheids- en gezondheidsplan worden vermeld;
 
-- g. ervoor te zorgen dat het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17), en het dossier, bedoeld in [artikel 2.30, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2002-12-17&g=2002-12-17), worden aangepast indien de voortgang van het bouwwerk of de onderdelen daarvan daartoe aanleiding geven;
+- g. ervoor te zorgen dat het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), en het dossier, bedoeld in [artikel 2.30, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.30&z=2003-01-01&g=2003-01-01), worden aangepast indien de voortgang van het bouwwerk of de onderdelen daarvan daartoe aanleiding geven;
 
 - h. zo nodig aanwijzingen te geven indien werkgevers of zelfstandig werkenden naar zijn oordeel niet of in onvoldoende mate of op onjuiste wijze uitvoering geven aan een samenhangende toepassing van hun verplichtingen als bedoeld onder **a** en **b**.
 
 ##### Artikel 2.35. Verplichtingen opdrachtgever
 
-1. De opdrachtgever zorgt ervoor dat de verplichtingen, bedoeld in de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2002-12-17&g=2002-12-17) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2002-12-17&g=2002-12-17), zijn vastgelegd in een schriftelijke overeenkomst met de uitvoerende partij.
+1. De opdrachtgever zorgt ervoor dat de verplichtingen, bedoeld in de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2003-01-01&g=2003-01-01) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01), zijn vastgelegd in een schriftelijke overeenkomst met de uitvoerende partij.
 
-2. Indien twee of meer uitvoerende partijen zich ieder afzonderlijk jegens de opdrachtgever verbonden hebben om een deel van het bouwwerk tot stand te brengen, zorgt de opdrachtgever ervoor dat de verplichtingen, bedoeld in de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2002-12-17&g=2002-12-17) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2002-12-17&g=2002-12-17), zijn vastgelegd in een schriftelijke overeenkomst met een van die uitvoerende partijen.
+2. Indien twee of meer uitvoerende partijen zich ieder afzonderlijk jegens de opdrachtgever verbonden hebben om een deel van het bouwwerk tot stand te brengen, zorgt de opdrachtgever ervoor dat de verplichtingen, bedoeld in de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2003-01-01&g=2003-01-01) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01), zijn vastgelegd in een schriftelijke overeenkomst met een van die uitvoerende partijen.
 
 ##### Artikel 2.36. Verplichtingen ontwerpende partij
 
-1. Ten aanzien van een opdrachtgever-consument zorgt de ontwerpende partij ervoor dat wordt voldaan aan [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.35&z=2002-12-17&g=2002-12-17).
+1. Ten aanzien van een opdrachtgever-consument zorgt de ontwerpende partij ervoor dat wordt voldaan aan [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.35&z=2003-01-01&g=2003-01-01).
 
-2. [Artikel 2.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2002-12-17&g=2002-12-17), is van overeenkomstige toepassing.
+2. [Artikel 2.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 2.37. Verplichtingen uitvoerende partij
 
-1. Overeenkomstig de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2002-12-17&g=2002-12-17) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2002-12-17&g=2002-12-17):
+1. Overeenkomstig de [artikelen 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2003-01-01&g=2003-01-01) en [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01):
 
 - a. zorgt de uitvoerende partij ervoor dat een coördinator voor de uitvoeringsfase wordt aangesteld;
 
 - b. neemt de uitvoerende partij zodanige maatregelen en richt hij de werkzaamheden zodanig in dat:
 
-- 1°. door de coördinator voor de uitvoeringsfase de taken worden uitgeoefend, bedoeld in [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2002-12-17&g=2002-12-17);
+- 1°. door de coördinator voor de uitvoeringsfase de taken worden uitgeoefend, bedoeld in [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.34&z=2003-01-01&g=2003-01-01);
 
 - 2°. de coördinator voor de uitvoeringsfase zijn taken naar behoren kan vervullen.
 
@@ -1028,17 +1052,17 @@ De coördinator voor de uitvoeringsfase heeft tot taak om:
 
 - j. de wisselwerking met exploitatiewerkzaamheden op of in de nabijheid van de bouwplaats.
 
-2. De mede op grond van het eerste lid te nemen maatregelen voldoen in ieder geval aan de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&z=2002-12-17&g=2002-12-17) en [2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&z=2002-12-17&g=2002-12-17) van dit besluit.
+2. De mede op grond van het eerste lid te nemen maatregelen voldoen in ieder geval aan de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&z=2003-01-01&g=2003-01-01) en [2 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&z=2003-01-01&g=2003-01-01) van dit besluit.
 
-3. De werkgever is verplicht tot naleving van en medewerking aan het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17), voor zover en op de wijze als daarin ten aanzien van de door hem te verrichten of te doen verrichten werkzaamheden is bepaald en daarbij rekening te houden met de aanwijzingen van de coördinator voor de uitvoeringsfase.
+3. De werkgever is verplicht tot naleving van en medewerking aan het veiligheids- en gezondheidsplan, bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), voor zover en op de wijze als daarin ten aanzien van de door hem te verrichten of te doen verrichten werkzaamheden is bepaald en daarbij rekening te houden met de aanwijzingen van de coördinator voor de uitvoeringsfase.
 
-4. Voor zover de werkgever met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats zelf arbeid verricht, zijn ter bescherming van de veiligheid en de gezondheid van de werknemers op die bouwplaats [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=11), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2002-12-17&g=2002-12-17) en de [artikelen 8.1, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2002-12-17&g=2002-12-17), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.2&z=2002-12-17&g=2002-12-17) en [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.3&z=2002-12-17&g=2002-12-17) van dit besluit ten aanzien van hem van overeenkomstige toepassing.
+4. Voor zover de werkgever met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats zelf arbeid verricht, zijn ter bescherming van de veiligheid en de gezondheid van de werknemers op die bouwplaats [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=11), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2003-01-01&g=2003-01-01) en de [artikelen 8.1, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2003-01-01&g=2003-01-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.2&z=2003-01-01&g=2003-01-01) en [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.3&z=2003-01-01&g=2003-01-01) van dit besluit ten aanzien van hem van overeenkomstige toepassing.
 
 ##### Artikel 2.39. Verplichtingen zelfstandig werkende
 
-Ten aanzien van een zelfstandig werkende die met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats arbeid verricht, zijn ter bescherming van de veiligheid en de gezondheid van de werknemers op die bouwplaats de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=11) en [19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19), [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2002-12-17&g=2002-12-17), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2002-12-17&g=2002-12-17) en de [artikelen 8.1, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2002-12-17&g=2002-12-17), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.2&z=2002-12-17&g=2002-12-17) en [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.3&z=2002-12-17&g=2002-12-17) van dit besluit van overeenkomstige toepassing.
+Ten aanzien van een zelfstandig werkende die met betrekking tot de totstandbrenging van een bouwwerk op een bouwplaats arbeid verricht, zijn ter bescherming van de veiligheid en de gezondheid van de werknemers op die bouwplaats de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=11) en [19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19), [artikel 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2003-01-01&g=2003-01-01), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2003-01-01&g=2003-01-01) en de [artikelen 8.1, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2003-01-01&g=2003-01-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.2&z=2003-01-01&g=2003-01-01) en [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.3&z=2003-01-01&g=2003-01-01) van dit besluit van overeenkomstige toepassing.
 
-### Afdeling 6. Winningsindustrieën in dagbouw
+### Afdeling 6. Winningsindustriën in dagbouw, ondergronds of met behulp van boringen
 
 ##### Artikel 2.40. Toepasselijkheid
 
@@ -1052,31 +1076,37 @@ Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën 
 
 3. Op arbeidsplaatsen in de winningsindustrie worden met regelmatige tussenpozen de nodige veiligheidsoefeningen gehouden.
 
-4. Situaties die een ernstig gevaar vormen worden onverwijld gemeld aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+4. Situaties die een ernstig gevaar vormen worden onverwijld gemeld aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-5. Opdat in geval van nood onmiddellijk hulp-, vlucht-, evacuatie- en reddingsmaatregelen kunnen worden genomen, worden, in aanvulling op afdeling 4 van hoofdstuk 2, de nodige alarm- of andere communicatiesystemen ter beschikking gesteld.
+5. Op de arbeidsplaats wordt op een te begrijpen wijze gecommuniceerd.
 
-6. Indien op een arbeidsplaats in de winningsindustrie slechts één werknemer aanwezig is, beschikt deze over telecommunicatiemiddelen om zich met anderen in verbinding te kunnen stellen.
+6. Opdat in geval van nood onmiddellijk hulp-, vlucht-, evacuatie- en reddingsmaatregelen kunnen worden genomen, worden, in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01), de nodige alarm- of andere communicatiesystemen ter beschikking gesteld.
 
-##### Artikel 2.42. Samenwerking, veiligheids- en gezondheidsplan
+7. Indien op een arbeidsplaats in de winningsindustrie slechts één werknemer aanwezig is, beschikt deze over telecommunicatiemiddelen om zich met anderen in verbinding te kunnen stellen.
 
-1. Voor de toepassing van [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19) worden aangewezen de werkzaamheden verricht in de winningsindustrie in dagbouw.
+##### Artikel 2.42. Samenwerking, veiligheids- en gezondheidsdocument
 
-2. Voor de aanvang van het werk wordt een veiligheids- en gezondheidsplan opgesteld, waarin ten minste vermeld worden:
+1. Voor de toepassing van [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19) worden aangewezen de werkzaamheden verricht in de winningsindustrie in dagbouw, de ondergrondse winningsindustrie en de winningsindustrie die delfstoffen wint met behulp van boringen.
 
-- a. de inventarisatie en evaluatie van de gevaren, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
+2. Voor de aanvang van het werk wordt een veiligheids- en gezondheidsdocument opgesteld, waarin ten minste vermeld worden:
 
-- b. de maatregelen, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), waarbij met name aandacht is besteed aan de maatregelen die zijn of worden genomen om aan de voorschriften van deze afdeling en de afdelingen 1 en 3 van hoofdstuk 3 van dit besluit te voldoen;
+- a. de risico-inventarisatie en -evaluatie van de gevaren, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5);
 
-- c. de wijze waarop voldaan is aan [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19), indien op de arbeidsplaats in de winningsindustrie meerdere werkgevers arbeid doen verrichten;
+- b. de maatregelen, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), waarbij met name aandacht is besteed aan de maatregelen die zijn of worden genomen om aan de voorschriften van deze afdeling en de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&z=2003-01-01&g=2003-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&z=2003-01-01&g=2003-01-01) en [3a van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3A&z=2003-01-01&g=2003-01-01) van dit besluit te voldoen;
 
-- d. de gegevens waaruit blijkt dat het ontwerp, het gebruik en het onderhoud van de arbeidsplaats in de winningsindustrie alsmede de arbeidsmiddelen veilig zijn.
+- c. de maatregelen die zijn genomen om herhaling van ongevallen met ernstig letsel, dodelijke ongevallen of situaties als bedoeld in [artikel 2.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.41&z=2003-01-01&g=2003-01-01), te voorkomen;
 
-3. In aanvulling op het tweede lid, onder **c**, coördineert de werkgever die verantwoordelijk is voor de arbeidsplaats in de winningsindustrie, de uitvoering van alle maatregelen inzake veiligheid en gezondheid en geeft hij in het veiligheids- en gezondheidsplan het doel, de maatregelen en de wijze van uitvoering van deze coördinatie aan.
+- d. de wijze waarop voldaan is aan [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=19), indien op de arbeidsplaats in de winningsindustrie meerdere werkgevers arbeid doen verrichten;
 
-4. Het veiligheids- en gezondheidsplan wordt herzien bij iedere belangrijke wijziging, uitbreiding of verbouwing van de arbeidsplaats in de winningsindustrie.
+- e. de gegevens waaruit blijkt dat het ontwerp, het gebruik en het onderhoud van de arbeidsplaats in de winningsindustrie alsmede de arbeidsmiddelen veilig zijn.
 
-5. De werkzaamheden worden overeenkomstig het veiligheids- en gezondheidsplan uitgevoerd.
+3. In aanvulling op het tweede lid, onder **d**, coördineert de werkgever die verantwoordelijk is voor de arbeidsplaats in de winningsindustrie, de uitvoering van alle maatregelen inzake veiligheid en gezondheid en geeft hij in het veiligheids- en gezondheidsdocument het doel, de maatregelen en de wijze van uitvoering van deze coördinatie aan.
+
+4. Het veiligheids- en gezondheidsdocument wordt herzien bij iedere belangrijke wijziging, uitbreiding of verbouwing van de arbeidsplaats in de winningsindustrie.
+
+5. Een afschrift van het veiligheids- en gezondheidsdocument wordt gezonden aan de ondernemingsraad of personeelsvertegenwoordiging of bij het ontbreken daarvan, aan de belanghebbende werknemers.
+
+6. De werkzaamheden worden overeenkomstig het veiligheids- en gezondheidsdocument uitgevoerd.
 
 ### Afdeling 6A. Winningsindustrieën met behulp van boringen
 
@@ -1098,7 +1128,7 @@ De afdelingen 4 en 7 van dit hoofdstuk zijn niet van toepassing op arbeid verric
 
 ##### Artikel 2.45. Toepasselijkheid
 
-Op thuiswerk zijn de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&z=2002-12-17&g=2002-12-17) en [4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17) van overeenkomstige toepassing.
+Op thuiswerk zijn de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&z=2003-01-01&g=2003-01-01) en [4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Inrichting arbeidsplaatsen
 
@@ -1200,17 +1230,17 @@ In dit hoofdstuk wordt verstaan onder:
 
 5. De vluchtwegen en nooduitgangen die bij het uitvallen van de verlichting slecht zichtbaar zijn, zijn voorzien van een adequate noodverlichting.
 
-6. De vluchtwegen, de deuren en poorten op het traject van de vluchtwegen alsmede de nooduitgangen zijn gemarkeerd door signalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+6. De vluchtwegen, de deuren en poorten op het traject van de vluchtwegen alsmede de nooduitgangen zijn gemarkeerd door signalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 ##### Artikel 3.8. Brandmelding en brandbestrijding
 
-1. In aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17) zijn op arbeidsplaatsen, afhankelijk van de aard van de arbeid die daar wordt verricht, de daaraan verbonden gevaren en het maximum aantal werknemers en andere personen dat zich daar bevindt, voldoende passende brandbestrijdingsmiddelen aanwezig.
+1. In aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01) zijn op arbeidsplaatsen, afhankelijk van de aard van de arbeid die daar wordt verricht, de daaraan verbonden gevaren en het maximum aantal werknemers en andere personen dat zich daar bevindt, voldoende passende brandbestrijdingsmiddelen aanwezig.
 
 2. Indien nodig zijn, in aanvulling op het eerste lid, branddetectoren en alarmsystemen aanwezig.
 
 3. Niet-automatische brandbestrijdingsmiddelen zijn gemakkelijk bereikbaar en gemakkelijk te bedienen.
 
-4. Niet-automatische brandbestrijdingsmiddelen zijn voorzien van een signalering die voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde. De signalering is duurzaam en op de juiste plaats aangebracht.
+4. Niet-automatische brandbestrijdingsmiddelen zijn voorzien van een signalering die voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde. De signalering is duurzaam en op de juiste plaats aangebracht.
 
 ##### Artikel 3.9. Noodverlichting
 
@@ -1220,7 +1250,7 @@ Arbeidsplaatsen waar werknemers bij het uitvallen van het kunstlicht aan bijzond
 
 Op arbeidsplaatsen waar gevaar voor verdrinking bestaat wordt dit gevaar zoveel mogelijk voorkomen en zijn doelmatige middelen voor het redden van drenkelingen op een goed zichtbare plaats beschikbaar.
 
-#### § 4. Inrichtingseisen
+#### § 2. Algemene verplichtingen van de werkgever
 
 ##### Artikel 3.11. Vloeren, muren en plafonds van arbeidsplaatsen
 
@@ -1268,6 +1298,8 @@ Op arbeidsplaatsen waar gevaar voor verdrinking bestaat wordt dit gevaar zoveel 
 
 9. De in het achtste lid bedoelde doorgangen voor voetgangers zijn duidelijk zichtbaar gemarkeerd en vrij van obstakels.
 
+10. Kettingen of soortgelijke voorzieningen die worden gebruikt om te verhinderen dat een bepaalde ruimte wordt betreden, zijn goed zichtbaar en op doelmatige wijze voorzien van verbods- of waarschuwingsborden.
+
 ##### Artikel 3.14. Verbindingswegen
 
 1. De verbindingswegen op de arbeidsplaats zijn zodanig gelegen en ingericht dat zij op eenvoudige wijze, veilig en overeenkomstig hun bestemming, door voetgangers en voertuigen of transportmiddelen kunnen worden gebruikt.
@@ -1286,7 +1318,7 @@ Op arbeidsplaatsen waar gevaar voor verdrinking bestaat wordt dit gevaar zoveel 
 
 ##### Artikel 3.15. Markering gevaarlijke plaatsen
 
-1. De plaatsen waar valgevaar of gevaar voor vallende voorwerpen voorkomt of waar obstakels die niet verwijderd kunnen worden een gevaar voor de veiligheid vormen bij het verplaatsen van voertuigen of personen, worden duidelijk gemarkeerd door signalen die voldoen aan het bij of krachtens afdeling 2 van hoofdstuk 8 bepaalde.
+1. De plaatsen waar door de aard van het werk gevaar, met inbegrip van valgevaar of gevaar voor vallende voorwerpen voorkomt of waar obstakels die niet verwijderd kunnen worden een gevaar voor de veiligheid vormen bij het verplaatsen van voertuigen of personen, worden duidelijk gemarkeerd door signalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 2. Alleen werknemers die beroepshalve of uit hoofde van hun functie de in het eerste lid bedoelde plaatsen moeten betreden, worden daar toegelaten.
 
@@ -1312,7 +1344,7 @@ Het gevaar te worden getroffen door ongewild in beweging komende of vrijkomende 
 
 ##### Artikel 3.19. Afmetingen en luchtvolume van ruimten; bewegingsruimte op de arbeidsplaats
 
-1. De afmetingen en het luchtvolume van de arbeidsplaats zijn zodanig dat de werknemer zonder gevaar voor de veiligheid, de gezondheid of het welzijn zijn arbeid kan verrichten.
+1. De afmetingen en het luchtvolume van de arbeidsplaats zijn zodanig dat de werknemer zonder gevaar voor de veiligheid of de gezondheid zijn arbeid kan verrichten.
 
 2. De afmetingen van de arbeidsplaats zijn zodanig dat de werknemer bij het verrichten van zijn arbeid over voldoende bewegingsruimte beschikt.
 
@@ -1434,9 +1466,9 @@ Op een bouwplaats zijn naast de voorschriften van afdeling 1 tevens de voorschri
 
 ##### Artikel 3.34. Gevaar voor verstikking, bedwelming, vergiftiging, brand en explosie
 
-1. In zones waar gevaar voor verstikking, bedwelming of vergiftiging dan wel brand of explosie bestaat, zijn, overeenkomstig artikel 4.6, de benodigde maatregelen genomen om dat gevaar te voorkomen.
+1. In zones waar gevaar voor verstikking, bedwelming of vergiftiging dan wel brand of explosie bestaat, zijn, overeenkomstig [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2003-01-01&g=2003-01-01), de benodigde maatregelen genomen om dat gevaar te voorkomen.
 
-2. De in het eerste lid bedoelde maatregelen worden opgenomen in het veiligheids- en gezondheidsplan, bedoeld in artikel 2.42, tweede lid.
+2. De in het eerste lid bedoelde maatregelen worden opgenomen in het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 3.35. Reanimatie-apparatuur
 
@@ -1448,7 +1480,7 @@ Op een bouwplaats zijn naast de voorschriften van afdeling 1 tevens de voorschri
 
 ##### Artikel 3.36. Beperken en bestrijden van brand
 
-In aanvulling op afdeling 4 van hoofdstuk 2, worden de in die afdeling bedoelde maatregelen inzake het beperken en bestrijden van brand opgenomen in het veiligheids- en gezondheidsplan, bedoeld in artikel 2.42, tweede lid, van dit besluit.
+In aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01), worden de in die afdeling bedoelde maatregelen inzake het beperken en bestrijden van brand opgenomen in het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 3.37. Voorkomen instabiliteit
 
@@ -1468,7 +1500,7 @@ In benzinestations zijn naast de voorschriften van afdeling 1 tevens de voorschr
 
 - a. een inwerpgeldkluis;
 
-- b. een optische of akoestische alarminstallatie, tenzij het benzinestation is voorzien van een alarminstallatie als bedoeld in [artikel 3.40, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2002-12-17&g=2002-12-17);
+- b. een optische of akoestische alarminstallatie, tenzij het benzinestation is voorzien van een alarminstallatie als bedoeld in [artikel 3.40, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2003-01-01&g=2003-01-01);
 
 - c. een verlichtingsinstallatie welke gedurende ten minste vijftien minuten na sluiting van het benzinestation dat benzinestation blijft verlichten.
 
@@ -1494,7 +1526,7 @@ Voor benzinestations, waarvan de winkel tussen 21.00 uur en 06.00 uur geopend is
 
 ##### Artikel 3.41. Ontspanningsruimten, leerlingen en studenten
 
-[Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.20&z=2002-12-17&g=2002-12-17) is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen.
+[Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.20&z=2003-01-01&g=2003-01-01) is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen.
 
 #### § 2. Vervoer
 
@@ -1520,11 +1552,11 @@ Voor benzinestations, waarvan de winkel tussen 21.00 uur en 06.00 uur geopend is
 
 ##### Artikel 3.43. Kleedruimten en enige andere voorzieningen
 
-De [artikelen 3.20 tot en met 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.20&z=2002-12-17&g=2002-12-17) zijn niet van toepassing op arbeidsplaatsen in justitiële inrichtingen die vóór 1 september 1990 als zodanig in gebruik waren, voor zover de naleving daarvan redelijkerwijs niet kan worden gevergd.
+De [artikelen 3.20 tot en met 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.20&z=2003-01-01&g=2003-01-01) zijn niet van toepassing op arbeidsplaatsen in justitiële inrichtingen die vóór 1 september 1990 als zodanig in gebruik waren, voor zover de naleving daarvan redelijkerwijs niet kan worden gevergd.
 
 ##### Artikel 3.44. Vluchtwegen en nooduitgangen
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.6&z=2002-12-17&g=2002-12-17) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2002-12-17&g=2002-12-17) zijn van toepassing op arbeid verricht in de justitiële inrichting door justitieel personeel, gedetineerden of jeugdigen, voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de justitiële inrichting of het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming of andere beperkingen die krachtens enige wet door de daartoe bevoegde autoriteiten zijn opgelegd. Daarbij worden in ieder geval zodanige technische en organisatorische maatregelen getroffen dat het justitieel personeel, de gedetineerden of jeugdigen zich in veiligheid kunnen stellen.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.6&z=2003-01-01&g=2003-01-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2003-01-01&g=2003-01-01) zijn van toepassing op arbeid verricht in de justitiële inrichting door justitieel personeel, gedetineerden of jeugdigen, voor zover geen inbreuk wordt gemaakt op de orde, de veiligheid of de goede gang van zaken in de justitiële inrichting of het ongestoord verloop van de tenuitvoerlegging van de vrijheidsbeneming of andere beperkingen die krachtens enige wet door de daartoe bevoegde autoriteiten zijn opgelegd. Daarbij worden in ieder geval zodanige technische en organisatorische maatregelen getroffen dat het justitieel personeel, de gedetineerden of jeugdigen zich in veiligheid kunnen stellen.
 
 #### § 1. Onderwijs
 
@@ -1534,11 +1566,11 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor jeugdig
 
 ##### Artikel 3.46. Deskundig toezicht
 
-[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17), is van overeenkomstige toepassing op jeugdige werknemers die:
+[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op jeugdige werknemers die:
 
 - a. arbeid verrichten waarbij gevaar voor instorting bestaat;
 
-- b. arbeid verrichten aan, met of in de directe nabijheid van hoogspanningsinstallaties, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.1&z=2002-12-17&g=2002-12-17).
+- b. arbeid verrichten aan, met of in de directe nabijheid van hoogspanningsinstallaties, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=3.1&z=2003-01-01&g=2003-01-01).
 
 #### § 5. Zwangere werknemers en werknemers tijdens de lactatie
 
@@ -1562,27 +1594,27 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. gevaarlijke stoffen: stoffen, mengsels of oplossingen van stoffen waaraan werknemers bij de arbeid worden of kunnen worden blootgesteld die vanwege de eigenschappen van of de omstandigheden waaronder die stoffen, mengsels of oplossingen voorkomen gevaar voor de veiligheid of gezondheid dan wel hinder voor deze kunnen opleveren;
 
-- b. grenswaarde: voor zover bij of krachtens deze afdeling of de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2002-12-17&g=2002-12-17) niet anders is bepaald, de limiet van de concentratie of van het tijdgewogen gemiddelde van de concentratie voor een gevaarlijke stof in de lucht in de ademhalingszone van een werknemer gedurende een bij of krachtens deze afdeling of de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2002-12-17&g=2002-12-17) gespecificeerde referentieperiode;
+- b. grenswaarde: voor zover bij of krachtens deze afdeling of de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2003-01-01&g=2003-01-01) niet anders is bepaald, de limiet van de concentratie of van het tijdgewogen gemiddelde van de concentratie voor een gevaarlijke stof in de lucht in de ademhalingszone van een werknemer gedurende een bij of krachtens deze afdeling of de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2003-01-01&g=2003-01-01) gespecificeerde referentieperiode;
 
-- c. biologische grenswaarde: de limiet van de concentratie in het passende biologische medium van een gevaarlijke stof, de metabolieten daarvan of een indicator van het effect van de betreffende stof gedurende een krachtens [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), gespecificeerde referentieperiode.
+- c. biologische grenswaarde: de limiet van de concentratie in het passende biologische medium van een gevaarlijke stof, de metabolieten daarvan of een indicator van het effect van de betreffende stof gedurende een krachtens [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), gespecificeerde referentieperiode.
 
 ##### Artikel 4.1a. Toepasselijkheid
 
-1. De [artikelen 4.3a, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2002-12-17&g=2002-12-17), [4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), en [4.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10c&z=2002-12-17&g=2002-12-17) zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en op asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [afdeling 5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2002-12-17&g=2002-12-17).
+1. De [artikelen 4.3a, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2003-01-01&g=2003-01-01), [4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), en [4.10c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10c&z=2003-01-01&g=2003-01-01) zijn niet van toepassing op kankerverwekkende of mutagene stoffen en kankerverwekkende processen als bedoeld in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en op asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [afdeling 5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2003-01-01&g=2003-01-01).
 
-2. [Artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2002-12-17&g=2002-12-17) is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het [Besluit risico's zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475) of [afdeling 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&z=2002-12-17&g=2002-12-17) van toepassing is.
+2. [Artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01) is niet van toepassing op bedrijven, inrichtingen of delen daarvan waarop het [Besluit risico's zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475) of [afdeling 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&z=2003-01-01&g=2003-01-01) van toepassing is.
 
-3. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17) is niet van toepassing op:
+3. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01) is niet van toepassing op:
 
-- a. vluchtige organische stoffen en producten die deze stoffen bevatten als bedoeld in [afdeling 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&z=2002-12-17&g=2002-12-17), voor zover daarop de vervangingsplicht, bedoeld in [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2002-12-17&g=2002-12-17), van toepassing is;
+- a. vluchtige organische stoffen en producten die deze stoffen bevatten als bedoeld in [afdeling 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&z=2003-01-01&g=2003-01-01), voor zover daarop de vervangingsplicht, bedoeld in [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2003-01-01&g=2003-01-01), van toepassing is;
 
-- b. loodwit als bedoeld in [afdeling 7 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&z=2002-12-17&g=2002-12-17).
+- b. loodwit als bedoeld in [afdeling 7 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&z=2003-01-01&g=2003-01-01).
 
-4. Deze afdeling is, met inachtneming van het eerste lid, van overeenkomstige toepassing op arbeid waarbij werknemers kunnen worden blootgesteld aan een kankerverwekkend proces als bedoeld in [artikel 4.11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2002-12-17&g=2002-12-17).
+4. Deze afdeling is, met inachtneming van het eerste lid, van overeenkomstige toepassing op arbeid waarbij werknemers kunnen worden blootgesteld aan een kankerverwekkend proces als bedoeld in [artikel 4.11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2003-01-01&g=2003-01-01).
 
 #### § 2. Schriftelijke beoordeling en vastlegging van gegevens
 
-##### Artikel 4.2. Nadere voorschriften inventarisatie en evaluatie, beoordelen
+##### Artikel 4.2. Nadere voorschriften risico-inventarisatie en -evaluatie, beoordelen
 
 1. Indien werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, ongeacht of met deze stoffen daadwerkelijk arbeid wordt of zal worden verricht, worden, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), de aard, de mate en de duur van die blootstelling beoordeeld teneinde de gevaren of de hinder voor de werknemers te bepalen.
 
@@ -1598,17 +1630,17 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de toegepaste arbeidsprocédés en werkmethoden waarbij gevaarlijke stoffen zijn betrokken, waaronder begrepen de hoeveelheid gevaarlijke stoffen waaraan werknemers worden of kunnen worden blootgesteld;
 
-- c. de redelijkerwijs voorzienbare gebeurtenissen, bedoeld in [artikel 4.2a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2a&z=2002-12-17&g=2002-12-17);
+- c. de redelijkerwijs voorzienbare gebeurtenissen, bedoeld in [artikel 4.2a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2a&z=2003-01-01&g=2003-01-01);
 
-- d. voor zover van toepassing de grenswaarden die zijn vastgesteld bij of krachtens de [artikelen 4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2002-12-17&g=2002-12-17), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17) of [4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2002-12-17&g=2002-12-17);
+- d. voor zover van toepassing de grenswaarden die zijn vastgesteld bij of krachtens de [artikelen 4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2003-01-01&g=2003-01-01), [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01) of [4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2003-01-01&g=2003-01-01);
 
-- e. de preventieve maatregelen die zijn genomen ter naleving van de [artikelen 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2002-12-17&g=2002-12-17) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), of, indien van toepassing, de [artikelen 4.17 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17), [4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17) en[4.51;](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2002-12-17&g=2002-12-17)
+- e. de preventieve maatregelen die zijn genomen ter naleving van de [artikelen 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2003-01-01&g=2003-01-01) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), of, indien van toepassing, de [artikelen 4.17 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01), [4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01) en[4.51;](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01)
 
-- f. voor zover van toepassing, de resultaten van de arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2002-12-17&g=2002-12-17).
+- f. voor zover van toepassing, de resultaten van de arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2003-01-01&g=2003-01-01).
 
 6. Indien sprake is van verschillende gevaarlijke stoffen, wordt bij de beoordeling, bedoeld in het eerste lid, de mogelijke versterkende effecten betrokken die gevaarlijke stoffen op elkaar kunnen hebben.
 
-7. De beoordeling, bedoeld in het eerste lid, wordt regelmatig herzien, in ieder geval indien gewijzigde omstandigheden of de resultaten van de arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2002-12-17&g=2002-12-17), hiertoe aanleiding geven.
+7. De beoordeling, bedoeld in het eerste lid, wordt regelmatig herzien, in ieder geval indien gewijzigde omstandigheden of de resultaten van de arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2003-01-01&g=2003-01-01), hiertoe aanleiding geven.
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel. Deze regels kunnen betrekking hebben op:
 
@@ -1622,11 +1654,11 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de wijze waarop meetresultaten worden beoordeeld en geregistreerd.
 
-##### Artikel 4.2a. Nadere voorschriften inventarisatie en evaluatie, aanvullende registratie
+##### Artikel 4.2a. Nadere voorschriften risico-inventarisatie en -evaluatie, aanvullende registratie
 
-1. In aanvulling op [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17) worden met betrekking tot gevaarlijke stoffen die, gelet op de aard van de bedrijvigheid, met enige regelmaat aanwezig zijn of worden toegepast, in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), voorts de volgende gegevens opgenomen:
+1. In aanvulling op [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01) worden met betrekking tot gevaarlijke stoffen die, gelet op de aard van de bedrijvigheid, met enige regelmaat aanwezig zijn of worden toegepast, in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), voorts de volgende gegevens opgenomen:
 
-- a. de maatregelen die zijn genomen ter naleving van het bepaalde bij of krachtens deze afdeling, alsmede de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en [5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2002-12-17&g=2002-12-17);
+- a. de maatregelen die zijn genomen ter naleving van het bepaalde bij of krachtens deze afdeling, alsmede de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en [5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2003-01-01&g=2003-01-01);
 
 - b. de redelijkerwijs voorzienbare gebeurtenissen die kunnen leiden tot een aanzienlijke toename van de mate van blootstelling ook indien er maatregelen als bedoeld in onderdeel a zijn getroffen.
 
@@ -1678,7 +1710,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.4. Voorkomen van ongewilde gebeurtenissen
 
-1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), blijkt dat er ten aanzien van aanwezige gevaarlijke stoffen gevaren voor de veiligheid of de gezondheid van de werknemers bestaan, en deze stoffen niet kunnen worden vervangen overeenkomstig [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), of [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17), zijn zodanige voorzieningen getroffen dat het gevaar, dat zich met betrekking tot die stoffen een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.
+1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), blijkt dat er ten aanzien van aanwezige gevaarlijke stoffen gevaren voor de veiligheid of de gezondheid van de werknemers bestaan, en deze stoffen niet kunnen worden vervangen overeenkomstig [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), of [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01), zijn zodanige voorzieningen getroffen dat het gevaar, dat zich met betrekking tot die stoffen een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.
 
 2. Bij het verrichten van arbeid met of in aanwezigheid van stoffen als bedoeld in het eerste lid, zijn zodanige voorzieningen getroffen, dat het gevaar dat zich bij die arbeid een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.
 
@@ -1686,7 +1718,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 4. Voorts zijn zodanige voorzieningen getroffen dat in geval zich een ongewilde gebeurtenis als bedoeld in het eerste, respectievelijk het tweede lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.
 
-5. De voorzieningen, bedoeld in het eerste, tweede lid en vierde lid, zijn, voor zover van toepassing, in overeenstemming met het [Besluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497).
+5. De voorzieningen, bedoeld in het eerste, tweede en vierde lid, zijn, voor zover van toepassing, in overeenstemming met het [Besluit explosieveilig materieel](https://wetten.overheid.nl/jci1.3:c:BWBR0007497).
 
 6. In ruimten waarin arbeid als bedoeld in het tweede lid wordt uitgevoerd, zijn stoffen in geen grotere hoeveelheden aanwezig dan voor de bedrijfsvoering strikt noodzakelijk is.
 
@@ -1704,15 +1736,15 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.6. Gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie
 
-1. Indien kan worden vermoed dat werknemers bij verblijf in een ruimte kunnen worden blootgesteld aan stoffen in een zodanige mate dat daardoor gevaar bestaat voor verstikking, bedwelming of vergiftiging dan wel brand of explosie, mag een werknemer zich niet in die ruimte begeven voordat uit een adequaat onderzoek is gebleken of dat gevaar aanwezig is.
+1. Indien kan worden vermoed dat werknemers bij verblijf op een plaats of in een ruimte kunnen worden blootgesteld aan stoffen in een zodanige mate dat daardoor gevaar bestaat voor verstikking, bedwelming of vergiftiging dan wel brand of explosie, mag een werknemer zich niet op die plaats of in die ruimte begeven voordat uit een adequaat onderzoek is gebleken of dat gevaar aanwezig is.
 
-2. Indien uit het onderzoek, bedoeld in het eerste lid, blijkt dat het gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie aanwezig is, worden doeltreffende maatregelen genomen zodat de werknemers die ruimte zonder genoemde gevaren kunnen betreden.
+2. Indien uit het onderzoek, bedoeld in het eerste lid, blijkt dat het gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie aanwezig is, worden doeltreffende maatregelen genomen zodat de werknemers die plaats of die ruimte zonder genoemde gevaren kunnen betreden.
 
-3. Indien in een ruimte als bedoeld in het eerste lid, direct gevaar ontstaat, worden doeltreffende maatregelen genomen zodat de werknemers die deze ruimte hebben betreden, deze terstond kunnen verlaten. Indien dat niet mogelijk is en het toch noodzakelijk is om die ruimte te betreden, dan mag dit alleen indien arbeidsmiddelen worden gebruikt die het desbetreffende gevaar niet zelf kunnen veroorzaken alsmede persoonlijke beschermingsmiddelen beschikbaar worden gesteld en gebruikt. Zo nodig worden de werknemers die de ruimte moeten betreden, permanent van buitenaf geobserveerd.
+3. Indien op een plaats of in een ruimte als bedoeld in het eerste lid, direct gevaar ontstaat, worden doeltreffende maatregelen genomen zodat de werknemers die deze plaats of deze ruimte hebben betreden, deze terstond kunnen verlaten. Indien dat niet mogelijk is en het toch noodzakelijk is om die plaats of die ruimte te betreden, dan mag dit alleen indien arbeidsmiddelen worden gebruikt die het desbetreffende gevaar niet zelf kunnen veroorzaken alsmede persoonlijke beschermingsmiddelen beschikbaar worden gesteld en gebruikt. Zo nodig worden de werknemers die de plaats op of de ruimte moeten betreden, permanent van buitenaf geobserveerd.
 
 ##### Artikel 4.6a. Maatregelen bij ongewilde gebeurtenissen
 
-1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat, zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17) doeltreffende procedures opgesteld die in werking treden indien zich een ongewilde gebeurtenis als bedoeld in [artikel 4.4, eerste, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2002-12-17&g=2002-12-17) voordoet.
+1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat, zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01) doeltreffende procedures opgesteld die in werking treden indien zich een ongewilde gebeurtenis als bedoeld in [artikel 4.4, eerste, respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2003-01-01&g=2003-01-01) voordoet.
 
 2. De procedures, bedoeld in het eerste lid, worden opgenomen in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5).
 
@@ -1726,27 +1758,27 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 - c. betreden uitsluitend de werknemers of andere personen, belast met het uitvoeren van de noodzakelijke herstelwerkzaamheden, met gebruik van doeltreffende middelen en persoonlijke beschermingsmiddelen, de getroffen zone. Deze werknemers en andere personen zijn niet langer dan strikt noodzakelijk voor het herstel van de veilige toestand in de desbetreffende zone aanwezig;
 
-- d. zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17) doeltreffende waarschuwings- en andere communicatiesystemen beschikbaar ten behoeve van de signalering van een toegenomen risico voor de veiligheid en gezondheid en die voldoen aan het bepaalde bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17);
+- d. zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01) doeltreffende waarschuwings- en andere communicatiesystemen beschikbaar ten behoeve van de signalering van een toegenomen risico voor de veiligheid en gezondheid en die voldoen aan het bepaalde bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01);
 
 - e. voorkomen wordt dat anderen dan de personen, bedoeld in onderdeel c, de getroffen zone betreden.
 
-5. Indien zich een ongewilde gebeurtenis voordoet, wordt de ondernemingsraad of de personeelsvertegenwoordiging of worden, bij het ontbreken daarvan, de belanghebbende werknemers, zo spoedig mogelijk in kennis gesteld van de oorzaken van de ongewilde gebeurtenis, de hoogte van het blootstellingsniveau als bedoeld in [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), en van de maatregelen die worden genomen om de oorzaken weg te nemen en blootstelling zoveel mogelijk te voorkomen of te beperken.
+5. Indien zich een ongewilde gebeurtenis voordoet, wordt de ondernemingsraad of de personeelsvertegenwoordiging of worden, bij het ontbreken daarvan, de belanghebbende werknemers, zo spoedig mogelijk in kennis gesteld van de oorzaken van de ongewilde gebeurtenis, de hoogte van het blootstellingsniveau als bedoeld in [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), en van de maatregelen die worden genomen om de oorzaken weg te nemen en blootstelling zoveel mogelijk te voorkomen of te beperken.
 
-6. De werkgever zorgt ervoor dat bedrijfshulpverleners en hulpverleningsorganisaties als bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.16&z=2002-12-17&g=2002-12-17) alsmede de werknemers, andere personen en diensten als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), desgewenst kennis kunnen nemen van de maatregelen, bedoeld in het vierde lid.
+6. De werkgever zorgt ervoor dat bedrijfshulpverleners en hulpverleningsorganisaties als bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.16&z=2003-01-01&g=2003-01-01) alsmede de werknemers, andere personen en diensten als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), desgewenst kennis kunnen nemen van de maatregelen, bedoeld in het vierde lid.
 
 7. De informatie over de maatregelen, bedoeld in het zesde lid, omvat in ieder geval:
 
-- a. een beschrijving van de gevaren op grond van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17);
+- a. een beschrijving van de gevaren op grond van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01);
 
-- b. een beschrijving van de redelijkerwijs voorzienbare specifieke gevaren op grond van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), die kunnen ontstaan bij een ongewilde gebeurtenis;
+- b. een beschrijving van de redelijkerwijs voorzienbare specifieke gevaren op grond van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), die kunnen ontstaan bij een ongewilde gebeurtenis;
 
-- c. een beschrijving van de voorzieningen die zijn getroffen ter naleving van [artikel 4.4, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2002-12-17&g=2002-12-17);
+- c. een beschrijving van de voorzieningen die zijn getroffen ter naleving van [artikel 4.4, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2003-01-01&g=2003-01-01);
 
 - d. een omschrijving van de procedures, bedoeld in het eerste lid.
 
 ##### Artikel 4.7. Veiligheid aan, op of in tankschepen
 
-1. [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2002-12-17&g=2002-12-17) is niet van toepassing ten aanzien van de volgende werkzaamheden aan, op of in tankschepen van een bij ministeriële regeling aangewezen categorie;
+1. [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2003-01-01&g=2003-01-01) is niet van toepassing ten aanzien van de volgende werkzaamheden aan, op of in tankschepen van een bij ministeriële regeling aangewezen categorie;
 
 - a. het schoonmaken,
 
@@ -1766,13 +1798,15 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.8. Explosieve stoffen
 
-1. Arbeid waarbij explosieve stoffen worden gebruikt voor demolitie, zijnde het springen van objecten of materialen of voor onderhoud, wordt verricht volgens een vooraf opgesteld springplan dat een deugdelijke beschrijving bevat van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden.
+1. Arbeid waarbij explosieve stoffen worden gebruikt voor demolitie, zijnde het springen van objecten of materialen, of voor onderhoud, wordt verricht volgens een vooraf opgesteld springplan of bij de verkenning naar, opsporing of winning van delfstoffen, een vooraf opgesteld programma. De inhoud van het springplan of programma bevat een deugdelijke beschrijving van de uit te voeren werkzaamheden, de daaraan verbonden gevaren en de wijze waarop deze gevaren zoveel mogelijk voorkomen of beperkt zullen worden.
 
-2. De arbeid, bedoeld in het eerste lid, wordt verricht door of onder voortdurend toezicht van een persoon, die in het bezit is van een certificaat van vakbekwaamheid springmeester met betrekking tot de soort arbeid die wordt verricht, dat is afgegeven door Onze Minister of een certificerende instelling.
+2. Demolitie- en onderhoudswerkzaamheden als bedoeld in het eerste lid worden verricht door of onder voortdurend toezicht van een persoon die in het bezit is van een certificaat van vakbekwaamheid springmeester met betrekking tot de soort arbeid die wordt verricht dat is afgegeven door Onze Minister of een certificerende instelling.
 
-3. Het in het eerste respectievelijk tweede lid bedoelde springplan en certificaat van vakbekwaamheid springmeester of een afschrift daarvan zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+3. Werkzaamheden bestaande uit het springen van materialen ten behoeve van de opsporing of winning van delfstoffen als bedoeld in het eerste lid worden verricht door personen die in het bezit zijn van een getuigschrift van schietmeester dat is afgegeven door Onze Minister of een door Onze Minister daartoe aangewezen instelling.
 
-4. Ten aanzien van de in het eerste lid bedoelde werkzaamheden worden bij ministeriële regeling nadere regels gesteld.
+4. Het springplan of programma, bedoeld in het eerste lid, het certificaat van vakbekwaamheid springmeester, bedoeld in het tweede lid, dan wel het getuigschrift van schietmeester, bedoeld in het derde lid of een afschrift daarvan zijn op de arbeidsplaats beschikbaar en worden desgevraagd getoond aan de ambtenaren, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+
+5. Ten aanzien van de werkzaamheden, bedoeld in het eerste lid, worden bij ministeriële regeling nadere regels gesteld.
 
 ##### Artikel 4.8a. Professioneel vuurwerk
 
@@ -1792,13 +1826,13 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 2. Bij ministeriële regeling worden met betrekking tot in die regeling aangewezen stoffen biologische waarden vastgesteld betreffende de grens, waarboven de concentratie van die stoffen in het betreffende biologische medium waaraan werknemers in verband met de arbeid worden blootgesteld, niet uitgaat.
 
-3. Bij overschrijding van een waarde als bedoeld in het eerste of tweede lid, worden, met inachtneming van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), onverwijld doeltreffende maatregelen genomen om de concentratie terug te brengen tot beneden die waarde.
+3. Bij overschrijding van een waarde als bedoeld in het eerste of tweede lid, worden, met inachtneming van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), onverwijld doeltreffende maatregelen genomen om de concentratie terug te brengen tot beneden die waarde.
 
 4. Zolang de maatregelen, bedoeld in het derde lid, nog niet volledig ten uitvoer zijn gelegd of niet tot een doeltreffende bescherming leiden, wordt de arbeid alleen voortgezet, indien doeltreffende maatregelen zijn genomen om schade aan de gezondheid van de werknemers te voorkomen.
 
 ##### Artikel 4.9. Arbeidshygiënische strategie
 
-1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat dan wel dat er sprake is van hinder voor deze, zijn doeltreffende maatregelen genomen om te voorkomen dat de werknemers bij hun arbeid kunnen worden blootgesteld aan gevaarlijke stoffen in zodanige mate, dat hun veiligheid in gevaar kan worden gebracht, of dat schade kan worden toegebracht aan hun gezondheid of aan de werknemers hinder kan worden veroorzaakt.
+1. Voor zover uit de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), blijkt dat er gevaar voor de veiligheid of de gezondheid van de werknemers bestaat dan wel dat er sprake is van hinder voor deze, zijn doeltreffende maatregelen genomen om te voorkomen dat de werknemers bij hun arbeid kunnen worden blootgesteld aan gevaarlijke stoffen in zodanige mate, dat hun veiligheid in gevaar kan worden gebracht, of dat schade kan worden toegebracht aan hun gezondheid of aan de werknemers hinder kan worden veroorzaakt.
 
 2. Ter naleving van het eerste lid zijn zodanige technische of organisatorische maatregelen genomen, dat het gevaar voor blootstelling zoveel mogelijk bij de bron daarvan wordt voorkomen of teruggebracht tot een niveau waarop geen schade aan de gezondheid kan optreden of waarbij aan de werknemers zo weinig mogelijk hinder wordt veroorzaakt.
 
@@ -1818,7 +1852,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.10. Ventilatie
 
-1. Indien op grond van [artikel 4.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), verontreinigde lucht wordt afgevoerd, is gelijktijdig voldoende toevoer van niet-verontreinigde lucht gewaarborgd.
+1. Indien op grond van [artikel 4.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), verontreinigde lucht wordt afgevoerd, is gelijktijdig voldoende toevoer van niet-verontreinigde lucht gewaarborgd.
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot het eerste lid. Deze regels kunnen onder meer betrekking hebben op:
 
@@ -1834,7 +1868,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.10a. Onderzoek
 
-1. Iedere werknemer die voor de eerste keer wordt belast met werkzaamheden die blijkens de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), gevaren kunnen opleveren voor de veiligheid of gezondheid, wordt, in aanvulling op [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18), in de gelegenheid gesteld om vóór de aanvang van die werkzaamheden een arbeidsgezondheidskundig onderzoek te ondergaan.
+1. Iedere werknemer die voor de eerste keer wordt belast met werkzaamheden die blijkens de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), gevaren kunnen opleveren voor de veiligheid of gezondheid, wordt, in aanvulling op [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=18), in de gelegenheid gesteld om vóór de aanvang van die werkzaamheden een arbeidsgezondheidskundig onderzoek te ondergaan.
 
 2. Indien bij een werknemer een aandoening wordt geconstateerd die het gevolg zou kunnen zijn van blootstelling aan gevaarlijke stoffen, worden werknemers, die op soortgelijke wijze zijn blootgesteld, tussentijds in de gelegenheid gesteld een arbeidsgezondheidskundig onderzoek te ondergaan.
 
@@ -1844,7 +1878,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.10b. Onderzoek en biologische grenswaarden
 
-1. Iedere werknemer die wordt of kan worden blootgesteld aan gevaarlijke stoffen waarvoor een biologische grenswaarde als bedoeld in [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), is vastgesteld, wordt in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan:
+1. Iedere werknemer die wordt of kan worden blootgesteld aan gevaarlijke stoffen waarvoor een biologische grenswaarde als bedoeld in [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), is vastgesteld, wordt in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan:
 
 - a. vóór de aanvang van de blootstelling;
 
@@ -1852,7 +1886,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 - c. in een bij ministeriële regeling vastgestelde frequentie van onderzoek.
 
-2. Het onderzoek als bedoeld in het eerste lid omvat onder meer een onderzoek naar het gehalte van de betreffende stof in het bij de biologische grenswaarde, bedoeld in [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), vastgestelde biologische medium.
+2. Het onderzoek als bedoeld in het eerste lid omvat onder meer een onderzoek naar het gehalte van de betreffende stof in het bij de biologische grenswaarde, bedoeld in [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), vastgestelde biologische medium.
 
 3. Bij ministeriële regeling kan worden bepaald dat het onderzoek als bedoeld in het tweede lid, in de in deze regeling bepaalde gevallen wordt vervangen door een meting van andere biologische indicatoren.
 
@@ -1860,33 +1894,33 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 ##### Artikel 4.10c. Uitvoering en inhoud van onderzoek
 
-1. De arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2002-12-17&g=2002-12-17), vinden plaats met inachtneming van de praktische aanbevelingen, die op grond van artikel 12, tweede lid en bijlage II bij de [richtlijn 98/24/EG](31998L0024) van de Raad van de Europese Unie van 7 april 1998 (PbEG 1998, L 131) betreffende de bescherming van de gezondheid en de veiligheid van werknemers tegen risico's van chemische agentia op het werk (veertiende bijzondere richtlijn in de zin van artikel 16, lid 1, van [Richtlijn 89/391/EEG](31989L0391)), worden opgesteld.
+1. De arbeidsgezondheidskundige onderzoeken, bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2003-01-01&g=2003-01-01), vinden plaats met inachtneming van de praktische aanbevelingen, die op grond van artikel 12, tweede lid en bijlage II bij de [richtlijn 98/24/EG](31998L0024) van de Raad van de Europese Unie van 7 april 1998 (PbEG 1998, L 131) betreffende de bescherming van de gezondheid en de veiligheid van werknemers tegen risico's van chemische agentia op het werk (veertiende bijzondere richtlijn in de zin van artikel 16, lid 1, van [Richtlijn 89/391/EEG](31989L0391)), worden opgesteld.
 
 2. Aan de arbodienst worden alle gegevens ter beschikking gesteld die nodig zijn om de blootstelling van de werknemers aan gevaarlijke stoffen te kunnen beoordelen en te kunnen adviseren over de periodiciteit en inhoud van de arbeidsgezondheidskundige onderzoeken, bedoeld in het eerste lid, de te nemen preventieve maatregelen of persoonlijke beschermende maatregelen.
 
 ##### Artikel 4.10d. Dossiers en registratie
 
-1. De arbodienst houdt van iedere werknemer die een arbeidsgezondheidskundig onderzoek als bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2002-12-17&g=2002-12-17) heeft ondergaan, een persoonlijk medisch dossier bij.
+1. De arbodienst houdt van iedere werknemer die een arbeidsgezondheidskundig onderzoek als bedoeld in de [artikelen 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01) en [4.10b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2003-01-01&g=2003-01-01) heeft ondergaan, een persoonlijk medisch dossier bij.
 
 2. Iedere werknemer heeft recht op inzage in het hem betreffende medisch dossier.
 
 3. De resultaten van het arbeidsgezondheidskundig onderzoek worden, voorzien van een toelichting, in statistische, niet tot individuen herleidbare vorm ter kennis gebracht van de ondernemingsraad of de personeels-vertegenwoordiging of, bij het ontbreken daarvan, van de belanghebbende werknemers.
 
-4. De resultaten van het arbeidsgezondheidskundig onderzoek worden in passende vorm geregistreerd en voor iedere werknemer tot ten minste 40 jaar na beëindiging van diens blootstelling aan gevaarlijke stoffen bewaard, evenals de lijst van werknemers, bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2002-12-17&g=2002-12-17), en het register van blootgestelde werknemers, bedoeld in [artikel 4.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2002-12-17&g=2002-12-17).
+4. De resultaten van het arbeidsgezondheidskundig onderzoek worden in passende vorm geregistreerd en voor iedere werknemer tot ten minste 40 jaar na beëindiging van diens blootstelling aan gevaarlijke stoffen bewaard, evenals de lijst van werknemers, bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2003-01-01&g=2003-01-01), en het register van blootgestelde werknemers, bedoeld in [artikel 4.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2003-01-01&g=2003-01-01).
 
 5. In geval de werkzaamheden in het bedrijf of de inrichting van de werkgever gedurende de termijn van 40 jaar, bedoeld in het vierde lid, worden gestaakt, worden de in het vierde lid bedoelde documenten overgedragen aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
-#### § 6. Bijzondere bepalingen inzake voorlichting en onderricht
+#### § 1. Onderwijs
 
 ##### Artikel 4.10e. Voorlichting en onderricht
 
 1. Aan werknemers die arbeid verrichten waarbij gevaar bestaat voor blootstelling aan gevaarlijke stoffen wordt voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan:
 
-- a. de mogelijke gevaren voor de gezondheid die zijn verbonden aan het werken met gevaarlijke stoffen op grond van de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17);
+- a. de mogelijke gevaren voor de gezondheid die zijn verbonden aan het werken met gevaarlijke stoffen op grond van de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01);
 
-- b. de aard van de blootstelling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17);
+- b. de aard van de blootstelling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01);
 
-- c. de grenswaarden en de maatregelen bij overschrijding van deze waarden als bedoeld in de [artikelen 4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2002-12-17&g=2002-12-17) en [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17);
+- c. de grenswaarden en de maatregelen bij overschrijding van deze waarden als bedoeld in de [artikelen 4.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2003-01-01&g=2003-01-01) en [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01);
 
 - d. de te treffen voorzorgsmaatregelen om blootstelling te voorkomen of te beperken;
 
@@ -1900,7 +1934,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers kunnen worden b
 
 2. De werknemers kunnen kennis nemen van de informatie over de veiligheid en gezondheid die door de leverancier van een gevaarlijke stof wordt verstrekt, waaronder begrepen de verplichte informatie die bij of krachtens wettelijk voorschrift wordt verstrekt;
 
-3. De wijze van voorlichting en onderricht is afgestemd op de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17).
+3. De wijze van voorlichting en onderricht is afgestemd op de resultaten van de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01).
 
 4. De voorlichting en het onderricht worden geactualiseerd indien gewijzigde omstandigheden hiertoe aanleiding geven.
 
@@ -1932,13 +1966,13 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.12. Schakelbepaling
 
-Indien arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of kankerverwekkende processen, is naast [afdeling 1 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2002-12-17&g=2002-12-17), met inachtneming van [artikel 4.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.1a&z=2002-12-17&g=2002-12-17), tevens deze afdeling van toepassing.
+Indien arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of kankerverwekkende processen, is naast [afdeling 1 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2003-01-01&g=2003-01-01), met inachtneming van [artikel 4.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.1a&z=2003-01-01&g=2003-01-01), tevens deze afdeling van toepassing.
 
 #### § 2. Schriftelijke beoordeling en vastlegging van gegevens
 
-##### Artikel 4.13. Nadere voorschriften inventarisatie en evaluatie
+##### Artikel 4.13. Nadere voorschriften risico-inventarisatie en -evaluatie
 
-Indien arbeid wordt verricht waarbij werknemers als gevolg van hun werk worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of kankerverwekkende processen, worden met betrekking tot deze stoffen of processen die, gelet op de aard van de bedrijvigheid, met enige regelmaat aanwezig zijn of worden toegepast, in de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in ieder geval de volgende gegevens opgenomen:
+Indien arbeid wordt verricht waarbij werknemers als gevolg van hun werk worden of kunnen worden blootgesteld aan kankerverwekkende of mutagene stoffen of kankerverwekkende processen, worden met betrekking tot deze stoffen of processen die, gelet op de aard van de bedrijvigheid, met enige regelmaat aanwezig zijn of worden toegepast, in de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in ieder geval de volgende gegevens opgenomen:
 
 - a. met betrekking tot de identiteit:
 
@@ -1968,17 +2002,17 @@ Vervallen
 
 ##### Artikel 4.15. Lijst van werknemers
 
-1. Er wordt een lijst bijgehouden van werknemers die belast zijn met werkzaamheden die blijkens de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), gevaar opleveren voor de veiligheid en de gezondheid, onder vermelding van de blootstelling die zij hebben ondergaan voor zover hierover gegevens beschikbaar zijn.
+1. Er wordt een lijst bijgehouden van werknemers die belast zijn met werkzaamheden die blijkens de beoordeling, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), gevaar opleveren voor de veiligheid en de gezondheid, onder vermelding van de blootstelling die zij hebben ondergaan voor zover hierover gegevens beschikbaar zijn.
 
 2. Iedere werknemer heeft recht op inzage in de gegevens die in de lijst, bedoeld in het eerste lid, met betrekking tot hem zijn opgenomen.
 
-#### § 1. Definities en toepasselijkheid
+#### § 5. Zwangere werknemers en werknemers tijdens de lactatie
 
 ##### Artikel 4.16. Grenswaarden
 
 1. Bij ministeriële regeling worden regels gesteld met betrekking tot de grenswaarden waarboven het blootstellingsniveau of het gemiddelde blootstellingsniveau van kankerverwekkende of mutagene stoffen en stoffen die vrijkomen bij kankerverwekkende processen niet mag uitgaan.
 
-2. Bij overschrijding van een waarde als bedoeld in het eerste lid worden, met inachtneming van de [artikelen 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2002-12-17&g=2002-12-17), onverwijld doeltreffende maatregelen genomen om die concentratie terug te brengen tot beneden die waarde.
+2. Bij overschrijding van een waarde als bedoeld in het eerste lid worden, met inachtneming van de [artikelen 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01), onverwijld doeltreffende maatregelen genomen om die concentratie terug te brengen tot beneden die waarde.
 
 3. Zolang de maatregelen, bedoeld in het tweede lid, nog niet volledig ten uitvoer zijn gelegd of niet tot een doeltreffende bescherming leiden, mag de arbeid alleen worden voortgezet, indien doeltreffende maatregelen zijn genomen om schade aan de gezondheid van werknemers te voorkomen.
 
@@ -1988,7 +2022,7 @@ Zodanige technische en organisatorische maatregelen zijn genomen dat het gevaar 
 
 ##### Artikel 4.18. Voorkomen of beperken van blootstelling
 
-1. Voor zover uit de resultaten van de in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), bedoelde beoordeling blijkt dat er gevaar voor de gezondheid van de werknemers bestaat en dat het op doeltreffende wijze voorkomen van blootstelling door het nemen van maatregelen als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17) technisch niet uitvoerbaar is, wordt het gevaar van blootstelling, voor zover dit technisch uitvoerbaar is, bij de bron daarvan voorkomen of teruggebracht tot een niveau waarop geen schade aan de gezondheid kan optreden, met name door de productie en het gebruik van kankerverwekkende of mutagene stoffen of kankerverwekkende processen plaats te doen vinden in een gesloten systeem.
+1. Voor zover uit de resultaten van de in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), bedoelde beoordeling blijkt dat er gevaar voor de gezondheid van de werknemers bestaat en dat het op doeltreffende wijze voorkomen van blootstelling door het nemen van maatregelen als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01) technisch niet uitvoerbaar is, wordt het gevaar van blootstelling, voor zover dit technisch uitvoerbaar is, bij de bron daarvan voorkomen of teruggebracht tot een niveau waarop geen schade aan de gezondheid kan optreden, met name door de productie en het gebruik van kankerverwekkende of mutagene stoffen of kankerverwekkende processen plaats te doen vinden in een gesloten systeem.
 
 2. Indien het voorkomen van blootstelling of het terugbrengen van blootstelling tot een niveau waarop geen schade aan de gezondheid kan optreden als bedoeld in het eerste lid technisch niet uitvoerbaar is, worden kankerverwekkende of mutagene stoffen op doeltreffende wijze aan de bron verwijderd, onder meer door plaatselijke afvoer van de lucht, zo nodig aangevuld door algemene ventilatie, waarbij gelijktijdig voldoende toevoer van niet-verontreinigde lucht is gewaarborgd zonder dat hierbij gevaar ontstaat voor de volksgezondheid en het milieu.
 
@@ -2006,7 +2040,7 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers als gevolg van 
 
 - b. voorkomen wordt dat gevarenzones worden betreden door anderen dan de werknemers of andere personen die de zones in verband met hun arbeid moeten betreden;
 
-- c. gevarenzones worden gemarkeerd door middel van waarschuwings- en veiligheidssignalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde;
+- c. gevarenzones worden gemarkeerd door middel van waarschuwings- en veiligheidssignalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde;
 
 - d. gebruik wordt gemaakt van doeltreffende middelen voor veilig opslaan, hanteren en vervoeren van kankerverwekkende of mutagene stoffen door gebruik van hermetisch gesloten en duidelijk zichtbaar gekenmerkte houders, en
 
@@ -2016,11 +2050,11 @@ In alle gevallen waarin arbeid wordt verricht waarbij werknemers als gevolg van 
 
 1. Zones zijn ingericht waar de werknemers zonder gevaar voor blootstelling kunnen eten en drinken.
 
-2. Indien kans op blootstelling bestaat wordt aan werknemers werkkleding ter beschikking gesteld die voldoet aan [afdeling 1 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2002-12-17&g=2002-12-17) en die door de werknemers bij de arbeid steeds wordt gedragen.
+2. Indien kans op blootstelling bestaat wordt aan werknemers werkkleding ter beschikking gesteld die voldoet aan [afdeling 1 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2003-01-01&g=2003-01-01) en die door de werknemers bij de arbeid steeds wordt gedragen.
 
-3. In aanvulling op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.22&z=2002-12-17&g=2002-12-17) wordt de werkkleding op een andere plaats opgeborgen dan de overige kleding.
+3. In aanvulling op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.22&z=2003-01-01&g=2003-01-01) wordt de werkkleding op een andere plaats opgeborgen dan de overige kleding.
 
-4. In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2002-12-17&g=2002-12-17) zijn voor de werknemers doelmatige wasgelegenheden en doucheruimten beschikbaar.
+4. In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2003-01-01&g=2003-01-01) zijn voor de werknemers doelmatige wasgelegenheden en doucheruimten beschikbaar.
 
 5. Persoonlijke beschermingsmiddelen worden volgens instructie op de daartoe aangewezen plaats bewaard en na ieder gebruik gecontroleerd.
 
@@ -2036,9 +2070,9 @@ Vervallen
 
 ##### Artikel 4.23. Uitvoering en inhoud van onderzoek
 
-1. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), vindt plaats met inachtneming van de praktische aanbevelingen, opgenomen in bijlage II bij de richtlijn.
+1. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), vindt plaats met inachtneming van de praktische aanbevelingen, opgenomen in bijlage II bij de richtlijn.
 
-2. De arbodienst heeft recht op inzage in de in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2002-12-17&g=2002-12-17) bedoelde lijst van blootgestelde werknemers. Hem staan voorts alle gegevens ter beschikking die hij nodig heeft om de blootstelling van de werknemers aan kankerverwekkende of mutagene stoffen en kankerverwekkende processen te kunnen beoordelen en te kunnen adviseren over de periodiciteit en inhoud van het arbeidsgezondheidskundig onderzoek, bedoeld in het eerste lid, de te nemen preventieve maatregelen of persoonlijke beschermende maatregelen.
+2. De arbodienst heeft recht op inzage in de in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2003-01-01&g=2003-01-01) bedoelde lijst van blootgestelde werknemers. Hem staan voorts alle gegevens ter beschikking die hij nodig heeft om de blootstelling van de werknemers aan kankerverwekkende of mutagene stoffen en kankerverwekkende processen te kunnen beoordelen en te kunnen adviseren over de periodiciteit en inhoud van het arbeidsgezondheidskundig onderzoek, bedoeld in het eerste lid, de te nemen preventieve maatregelen of persoonlijke beschermende maatregelen.
 
 ##### Artikel 4.24. Dossiers en registratie
 
@@ -2108,7 +2142,7 @@ Vervallen
 
 3. Het eerste en het tweede lid zijn van overeenkomstige toepassing ten aanzien van tetrachloorkoolstof, pentachloorethaan en 1.1.2.2.-tetrachloorethaan alsmede ten aanzien van een product waarvan het gehalte aan een van de vorengenoemde stoffen meer dan 1 volume-procent bedraagt.
 
-4. Voor zover het gebruik van benzeen, van tetrachloorkoolstof, pentachloorethaan en 1.1.2.2.-tetrachloorethaan op grond van dit artikel is toegestaan, is daarop, met inachtneming van [artikel 4.12, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.12&z=2002-12-17&g=2002-12-17) van dit hoofdstuk van toepassing.
+4. Voor zover het gebruik van benzeen, van tetrachloorkoolstof, pentachloorethaan en 1.1.2.2.-tetrachloorethaan op grond van dit artikel is toegestaan, is daarop, met inachtneming van [artikel 4.12, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.12&z=2003-01-01&g=2003-01-01) van dit hoofdstuk van toepassing.
 
 ### Afdeling 5. Aanvullende voorschriften asbest
 
@@ -2142,17 +2176,17 @@ Vervallen
 
 ##### Artikel 4.37a. Schakelbepaling
 
-Indien arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan asbest of asbesthoudende producten, crocidoliet of crocidoliethoudende producten, zijn naast de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2002-12-17&g=2002-12-17) en 2 van dit hoofdstuk, met inachtneming van [artikel 4.37b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2002-12-17&g=2002-12-17), tevens deze afdeling van toepassing.
+Indien arbeid wordt verricht waarbij werknemers worden of kunnen worden blootgesteld aan asbest of asbesthoudende producten, crocidoliet of crocidoliethoudende producten, zijn naast de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2003-01-01&g=2003-01-01) en 2 van dit hoofdstuk, met inachtneming van [artikel 4.37b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2003-01-01&g=2003-01-01), tevens deze afdeling van toepassing.
 
 ##### Artikel 4.37b. Afwijkende bepalingen
 
-1. In afwijking van [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2002-12-17&g=2002-12-17) wordt [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2002-12-17&g=2002-12-17) toegepast.
+1. In afwijking van [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2003-01-01&g=2003-01-01) wordt [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2003-01-01&g=2003-01-01) toegepast.
 
-2. In afwijking van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2002-12-17&g=2002-12-17) wordt [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17) toegepast.
+2. In afwijking van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2003-01-01&g=2003-01-01) wordt [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01) toegepast.
 
-3. In afwijking van [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17) worden de [artikelen 4.38 tot en met 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2002-12-17&g=2002-12-17) toegepast.
+3. In afwijking van [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01) worden de [artikelen 4.38 tot en met 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2003-01-01&g=2003-01-01) toegepast.
 
-4. In afwijking van [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2002-12-17&g=2002-12-17), wordt [artikel 4.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2002-12-17&g=2002-12-17), toegepast.
+4. In afwijking van [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2003-01-01&g=2003-01-01), wordt [artikel 4.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01), toegepast.
 
 #### § 2. Verbodsbepalingen
 
@@ -2170,23 +2204,23 @@ Het is verboden asbest of asbesthoudende producten en crocidoliet of crocidoliet
 
 ##### Artikel 4.40. Uitzonderingen op het crocidolietverbod
 
-1. [Artikel 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17) geldt niet ten aanzien van:
+1. [Artikel 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01) geldt niet ten aanzien van:
 
 - a. het uitvoeren van laboratorium-onderzoek aan crocidoliet en crocidoliethoudende producten;
 
 - b. de opslag en verwerking van crocidoliethoudend afval.
 
-2. [Artikel 4.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17), geldt niet ten aanzien van:
+2. [Artikel 4.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01), geldt niet ten aanzien van:
 
 - a. het maken van aanboringen of het uitvoeren van reparatie- of onderhoudswerkzaamheden aan crocidoliet en crocidoliethoudende producten;
 
 - b. het slopen van gebouwen, constructies, apparaten, installaties en transportmiddelen waarin crocidoliet of crocidoliethoudende producten is respectievelijk zijn verwerkt en het verwijderen van crocidoliet of crocidoliethoudende producten hieruit.
 
-3. [Artikel 4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17), geldt niet ten aanzien van het in voorraad houden van crocidoliet en crocidoliethoudende producten ten behoeve van doorvoer naar een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
+3. [Artikel 4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01), geldt niet ten aanzien van het in voorraad houden van crocidoliet en crocidoliethoudende producten ten behoeve van doorvoer naar een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-4. Op de in het eerste lid, de in het tweede lid, onder **a**, en de in het derde lid omschreven werkzaamheden is [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&z=2002-12-17&g=2002-12-17) van deze afdeling van toepassing.
+4. Op de in het eerste lid, de in het tweede lid, onder **a**, en de in het derde lid omschreven werkzaamheden is [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&z=2003-01-01&g=2003-01-01) van deze afdeling van toepassing.
 
-5. Op de in het tweede lid, onder **b**, omschreven werkzaamheden is [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&z=2002-12-17&g=2002-12-17) van deze afdeling van toepassing.
+5. Op de in het tweede lid, onder **b**, omschreven werkzaamheden is [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&z=2003-01-01&g=2003-01-01) van deze afdeling van toepassing.
 
 ##### Artikel 4.41. Asbestverbod
 
@@ -2214,17 +2248,17 @@ Het is verboden asbest of asbesthoudende producten en crocidoliet of crocidoliet
 
 - d. het gebruiken, vullen en in voorraad houden van asbesthoudende cylinders voor de opslag van acetyleengas die vóór 1 juli 1993 in het verkeer zijn gebracht.
 
-2. [Artikel 4.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), geldt niet ten aanzien van:
+2. [Artikel 4.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), geldt niet ten aanzien van:
 
 - a. het maken van aanboringen of het uitvoeren van reparatie- of onderhoudswerkzaamheden aan asbest en asbesthoudende producten;
 
 - b. het slopen van gebouwen, constructies, apparaten, installaties en transportmiddelen waarin asbest of asbesthoudende producten is respectievelijk zijn verwerkt en het verwijderen van asbest of asbesthoudende producten hieruit.
 
-3. [Artikel 4.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), geldt niet ten aanzien van het ten behoeve van doorvoer naar een andere EER-lid-staat in voorraad houden van asbest en asbesthoudende producten.
+3. [Artikel 4.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), geldt niet ten aanzien van het ten behoeve van doorvoer naar een andere EER-lid-staat in voorraad houden van asbest en asbesthoudende producten.
 
-4. Op de in het eerste lid, het tweede lid, onder **a**, en het derde lid omschreven werkzaamheden zijn de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2002-12-17&g=2002-12-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2002-12-17&g=2002-12-17) van deze afdeling van toepassing.
+4. Op de in het eerste lid, het tweede lid, onder **a**, en het derde lid omschreven werkzaamheden zijn de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2003-01-01&g=2003-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01) van deze afdeling van toepassing.
 
-5. Op de in het tweede lid, onder **b**, omschreven werkzaamheden is [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&z=2002-12-17&g=2002-12-17) van deze afdeling van toepassing. Voor zover bij categorieën van werkzaamheden als bedoeld in de vorige volzin, het blootstellingsniveau het actieniveau, bedoeld in [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2002-12-17&g=2002-12-17), niet overschrijdt, worden bij ministeriële regeling die categorieën aangewezen, als werkzaamheden, waarop een of meer bepalingen van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&z=2002-12-17&g=2002-12-17) van deze afdeling niet van toepassing zijn, indien wordt voldaan aan bij die regeling gestelde voorschriften.
+5. Op de in het tweede lid, onder **b**, omschreven werkzaamheden is [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&z=2003-01-01&g=2003-01-01) van deze afdeling van toepassing. Voor zover bij categorieën van werkzaamheden als bedoeld in de vorige volzin, het blootstellingsniveau het actieniveau, bedoeld in [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2003-01-01&g=2003-01-01), niet overschrijdt, worden bij ministeriële regeling die categorieën aangewezen, als werkzaamheden, waarop een of meer bepalingen van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&z=2003-01-01&g=2003-01-01) van deze afdeling niet van toepassing zijn, indien wordt voldaan aan bij die regeling gestelde voorschriften.
 
 #### § 3. Voorschriften voor het werken met asbest en asbesthoudende producten
 
@@ -2234,7 +2268,7 @@ Vervallen
 
 ##### Artikel 4.44. Gevolgen beoordeling
 
-De voorschriften van deze paragraaf zijn van toepassing, indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), blijkt dat de concentratie van asbeststof in de lucht, waaraan werknemers in verband met de arbeid worden blootgesteld, lager is dan een van de volgende actieniveaus:
+De voorschriften van deze paragraaf zijn van toepassing, indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), blijkt dat de concentratie van asbeststof in de lucht, waaraan werknemers in verband met de arbeid worden blootgesteld, lager is dan een van de volgende actieniveaus:
 
 - a. 0,10 vezel per kubieke centimeter, berekend of gemeten over een referentieperiode van acht uur;
 
@@ -2260,7 +2294,7 @@ De voorschriften van deze paragraaf zijn van toepassing, indien uit de beoordeli
 
 2. Bij overschrijding van de in het eerste lid genoemde grenswaarde worden zo spoedig mogelijk doeltreffende maatregelen genomen om de concentratie terug te brengen tot beneden die waarde.
 
-3. Nadat de in het tweede lid bedoelde maatregelen zijn genomen wordt de concentratie gemeten overeenkomstig [artikel 4.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.50&z=2002-12-17&g=2002-12-17).
+3. Nadat de in het tweede lid bedoelde maatregelen zijn genomen wordt de concentratie gemeten overeenkomstig [artikel 4.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.50&z=2003-01-01&g=2003-01-01).
 
 4. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers wordt de gelegenheid gegeven een oordeel over de in het tweede lid bedoelde maatregelen kenbaar te maken. Hen wordt vervolgens kennis gegeven van de resultaten van de metingen.
 
@@ -2268,7 +2302,7 @@ De voorschriften van deze paragraaf zijn van toepassing, indien uit de beoordeli
 
 ##### Artikel 4.47. Gevallen waarin overschrijding grenswaarde kan worden verwacht
 
-1. Indien, gelet op de aard van de werkzaamheden, overschrijding van de in [artikel 4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), genoemde grenswaarde kan worden verwacht en technische maatregelen ter beperking van de blootstelling van de werknemers redelijkerwijs niet uitvoerbaar zijn, mag tot het verrichten van deze werkzaamheden slechts worden overgegaan, indien doeltreffende maatregelen zijn genomen ter bescherming van de betrokken werknemers.
+1. Indien, gelet op de aard van de werkzaamheden, overschrijding van de in [artikel 4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), genoemde grenswaarde kan worden verwacht en technische maatregelen ter beperking van de blootstelling van de werknemers redelijkerwijs niet uitvoerbaar zijn, mag tot het verrichten van deze werkzaamheden slechts worden overgegaan, indien doeltreffende maatregelen zijn genomen ter bescherming van de betrokken werknemers.
 
 2. De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, de belanghebbende werknemers wordt de gelegenheid gegeven een oordeel over de in het eerste lid bedoelde maatregelen kenbaar te maken.
 
@@ -2276,13 +2310,13 @@ De voorschriften van deze paragraaf zijn van toepassing, indien uit de beoordeli
 
 - a. het ter beschikking stellen van persoonlijke beschermingsmiddelen, waarbij de duur van het dragen daarvan tot het strikt noodzakelijke wordt beperkt;
 
-- b. het aanbrengen van waarschuwingsborden die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde, ter aanduiding dat een overschrijding van de in [artikel 4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), genoemde grenswaarde kan worden verwacht.
+- b. het aanbrengen van waarschuwingsborden die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde, ter aanduiding dat een overschrijding van de in [artikel 4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), genoemde grenswaarde kan worden verwacht.
 
 #### § 4. Aanvullende voorschriften voor het werken met asbest en asbesthoudende producten
 
 ##### Artikel 4.48. Schakelbepaling
 
-Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), blijkt dat de concentratie van asbeststof in de lucht waaraan werknemers in verband met de arbeid worden blootgesteld, gelijk is aan of hoger is dan de beide in [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2002-12-17&g=2002-12-17) genoemde actieniveaus, gelden naast de voorschriften van paragraaf 3, tevens de in deze paragraaf genoemde voorschriften.
+Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), blijkt dat de concentratie van asbeststof in de lucht waaraan werknemers in verband met de arbeid worden blootgesteld, gelijk is aan of hoger is dan de beide in [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2003-01-01&g=2003-01-01) genoemde actieniveaus, gelden naast de voorschriften van paragraaf 3, tevens de in deze paragraaf genoemde voorschriften.
 
 ##### Artikel 4.49. Melding
 
@@ -2298,9 +2332,9 @@ Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.o
 
 3. De op grond van het eerste en tweede lid gemelde gegevens worden ter kennis gebracht van de ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daarvan, van de belanghebbende werknemers.
 
-##### Artikel 4.50. Nadere voorschriften inventarisatie en evaluatie, meten
+##### Artikel 4.50. Nadere voorschriften risico-inventarisatie en -evaluatie, meten
 
-1. De concentratie van asbeststof in de lucht waaraan de werknemers in verband met de arbeid worden blootgesteld wordt, in het kader van de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), ten minste éénmaal in de drie maanden door middel van het nemen van monsters gemeten en voorts telkens wanneer zich een verandering in de werkmethoden en de omstandigheden van de blootstelling voordoet. Deze frequentie mag worden teruggebracht tot éénmaal per jaar, indien er geen verandering in de werkmethoden en de omstandigheden van de blootstelling heeft plaatsgevonden en uit de twee opeenvolgende voorafgaande metingen is gebleken dat de concentratie van asbeststof in de lucht niet meer bedroeg dan de helft van de in artikel 4.46 genoemde grenswaarde.
+1. De concentratie van asbeststof in de lucht waaraan de werknemers in verband met de arbeid worden blootgesteld wordt, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), ten minste éénmaal in de drie maanden door middel van het nemen van monsters gemeten en voorts telkens wanneer zich een verandering in de werkmethoden en de omstandigheden van de blootstelling voordoet. Deze frequentie mag worden teruggebracht tot éénmaal per jaar, indien er geen verandering in de werkmethoden en de omstandigheden van de blootstelling heeft plaatsgevonden en uit de twee opeenvolgende voorafgaande metingen is gebleken dat de concentratie van asbeststof in de lucht niet meer bedroeg dan de helft van de in [artikel 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01) genoemde grenswaarde.
 
 2. De metingen en monsterneming worden uitgevoerd volgens een bij ministeriële regeling vast te stellen methode of wel een andere methode, indien deze gelijkwaardige resultaten oplevert.
 
@@ -2328,13 +2362,13 @@ Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.o
 
 ##### Artikel 4.52. Arbeidsgezondheidskundig onderzoek
 
-1. Zolang de blootstelling aan asbeststof duurt, worden, in aanvulling op [artikel 4.10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), de betrokken werknemers ten minste éénmaal in de drie jaar opnieuw in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17) te ondergaan.
+1. Zolang de blootstelling aan asbeststof duurt, worden, in aanvulling op [artikel 4.10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), de betrokken werknemers ten minste éénmaal in de drie jaar opnieuw in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01) te ondergaan.
 
-2. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), omvat in ieder geval een specifiek onderzoek van de borstkas.
+2. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), omvat in ieder geval een specifiek onderzoek van de borstkas.
 
-3. Indien het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), daartoe aanleiding geeft, worden doeltreffende maatregelen genomen om schade voor de gezondheid van de betrokken werknemer door blootstelling aan asbeststof te voorkomen.
+3. Indien het resultaat van het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), daartoe aanleiding geeft, worden doeltreffende maatregelen genomen om schade voor de gezondheid van de betrokken werknemer door blootstelling aan asbeststof te voorkomen.
 
-4. Aan de arbodienst wordt inzage gegeven in de gegevens die in het register, bedoeld in [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2002-12-17&g=2002-12-17), zijn vermeld.
+4. Aan de arbodienst wordt inzage gegeven in de gegevens die in het register, bedoeld in [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2003-01-01&g=2003-01-01), zijn vermeld.
 
 ##### Artikel 4.53. Registratie
 
@@ -2348,7 +2382,7 @@ Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.o
 
 ##### Artikel 4.54. Slopen asbest en crocidoliet
 
-1. Op het slopen van gebouwen, constructies, apparaten, installaties en transportmiddelen waarin asbest of asbesthoudende producten dan wel crocidoliet of crocidoliethoudende producten is respectievelijk zijn verwerkt en bij het verwijderen van voornoemde stoffen of producten hieruit, zijn, met uitsluiting van de overige voorschriften van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2002-12-17&g=2002-12-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en de paragrafen 3 en 4 van deze afdeling, de [artikelen 4.3a, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2002-12-17&g=2002-12-17), [4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), [4.10d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10d&z=2002-12-17&g=2002-12-17), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2002-12-17&g=2002-12-17), [4.19, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2002-12-17&g=2002-12-17), [4.20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2002-12-17&g=2002-12-17), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.21&z=2002-12-17&g=2002-12-17), [4.45, eerste en tweede lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2002-12-17&g=2002-12-17), [4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2002-12-17&g=2002-12-17) en [4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2002-12-17&g=2002-12-17) van overeenkomstige toepassing alsmede de artikelen [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17) en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2002-12-17&g=2002-12-17), met dien verstande dat voor de toepassing van beide laatstgenoemde artikelen ten aanzien van crocidoliet de in [artikel 4.56, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2002-12-17&g=2002-12-17) genoemde grenswaarde geldt.
+1. Op het slopen van gebouwen, constructies, apparaten, installaties en transportmiddelen waarin asbest of asbesthoudende producten dan wel crocidoliet of crocidoliethoudende producten is respectievelijk zijn verwerkt en bij het verwijderen van voornoemde stoffen of producten hieruit, zijn, met uitsluiting van de overige voorschriften van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2003-01-01&g=2003-01-01) en [4 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01), de [artikelen 4.3a, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2003-01-01&g=2003-01-01), [4.6a, vierde lid, onder b, c en e, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01), [4.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), [4.10d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10d&z=2003-01-01&g=2003-01-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01), [4.19, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), [4.20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2003-01-01&g=2003-01-01), [4.45, eerste en tweede lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01), [4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2003-01-01&g=2003-01-01) en [4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing alsmede de artikelen [4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01) en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2003-01-01&g=2003-01-01), met dien verstande dat voor de toepassing van beide laatstgenoemde artikelen ten aanzien van crocidoliet de in [artikel 4.56, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2003-01-01&g=2003-01-01) genoemde grenswaarde geldt.
 
 2. Voordat met de in het eerste lid bedoelde werkzaamheden wordt begonnen zijn de locatie, de datum en het tijdstip waarop deze werkzaamheden zullen worden verricht, tijdig gemeld aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
@@ -2360,11 +2394,11 @@ Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.o
 
 ##### Artikel 4.55. Werkplan
 
-1. Het in artikel 4.54, derde lid, bedoelde werkplan bevat:
+1. Het in [artikel 4.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2003-01-01&g=2003-01-01), bedoelde werkplan bevat:
 
-- a. de maatregelen genoemd in artikel 4.47, derde lid, alsmede, voor zover zulks redelijkerwijs uitvoerbaar is, de maatregel om eerst asbest of asbesthoudende producten dan wel crocidoliet of crocidoliethoudende producten te verwijderen alvorens andere slooptechnieken toe te passen;
+- a. de maatregelen genoemd in [artikel 4.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2003-01-01&g=2003-01-01), alsmede, voor zover zulks redelijkerwijs uitvoerbaar is, de maatregel om eerst asbest of asbesthoudende producten dan wel crocidoliet of crocidoliethoudende producten te verwijderen alvorens andere slooptechnieken toe te passen;
 
-- b. de maatregelen, bedoeld in de artikelen 4.18, 4.19, aanhef en onder a, e en f, 4.20, eerste tot en met vierde lid, 4.21, 4.45, eerste en tweede lid, onder a, c en d, en 4.51;
+- b. de maatregelen, bedoeld in de [artikelen 4.3a, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2003-01-01&g=2003-01-01), [4.6a, vierde lid, onder b, c en e, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01), [4.19, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), [4.20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2003-01-01&g=2003-01-01), [4.45, eerste en tweede lid, onder a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01), en [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01);
 
 - c. de voorzieningen die worden getroffen om de plaats waar de werkzaamheden worden verricht af te schermen van de overige ruimten;
 
@@ -2382,13 +2416,13 @@ Indien uit de beoordeling, bedoeld in [artikel 4.2, eerste lid](https://wetten.o
 
 ##### Artikel 4.56. Crocidoliet
 
-1. Op het uitvoeren van laboratorium-onderzoek, het maken van aanboringen of het uitvoeren van reparatie- of onderhoudswerkzaamheden aan en het ten behoeve van doorvoer naar een andere EER-lid-staat in voorraad houden van crocidoliet en crocidoliethoudende producten alsmede op de opslag en verwerking van crocidoliethoudend afval zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2002-12-17&g=2002-12-17), de voorschriften van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2002-12-17&g=2002-12-17), met uitzondering van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2002-12-17&g=2002-12-17), van overeenkomstige toepassing, met dien verstande dat voor de toepassing van de [artikelen 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17) en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2002-12-17&g=2002-12-17) de in het tweede lid genoemde grenswaarde geldt.
+1. Op het uitvoeren van laboratorium-onderzoek, het maken van aanboringen of het uitvoeren van reparatie- of onderhoudswerkzaamheden aan en het ten behoeve van doorvoer naar een andere EER-lid-staat in voorraad houden van crocidoliet en crocidoliethoudende producten alsmede op de opslag en verwerking van crocidoliethoudend afval zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2003-01-01&g=2003-01-01), de voorschriften van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2003-01-01&g=2003-01-01), met uitzondering van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.44&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing, met dien verstande dat voor de toepassing van de [artikelen 4.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01) en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2003-01-01&g=2003-01-01) de in het tweede lid genoemde grenswaarde geldt.
 
 2. De concentratie van crocidolietstof in de lucht waaraan de werknemers in verband met de werkzaamheden, bedoeld in het eerste lid, worden blootgesteld mag de grenswaarde van 0,1 vezel per kubieke centimeter, vastgesteld, berekend of gemeten over een referentieperiode van acht uur, niet overschrijden.
 
-3. De bij de werkzaamheden vrijgekomen crocidoliethoudende materialen mogen niet worden opgeslagen tezamen met crocidolietvrije materialen en worden zo spoedig mogelijk verzameld en afgevoerd overeenkomstig [artikel 4.45, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17).
+3. De bij de werkzaamheden vrijgekomen crocidoliethoudende materialen mogen niet worden opgeslagen tezamen met crocidolietvrije materialen en worden zo spoedig mogelijk verzameld en afgevoerd overeenkomstig [artikel 4.45, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01).
 
-4. Indien bij het uitvoeren van de in het eerste lid omschreven werkzaamheden, crocidoliet of crocidoliethoudende producten wordt respectievelijk worden gesloopt of verwijderd, is naast deze paragraaf ook [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&z=2002-12-17&g=2002-12-17) van toepassing.
+4. Indien bij het uitvoeren van de in het eerste lid omschreven werkzaamheden, crocidoliet of crocidoliethoudende producten wordt respectievelijk worden gesloopt of verwijderd, is naast deze paragraaf ook [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&z=2003-01-01&g=2003-01-01) van toepassing.
 
 #### § 7. Bijzondere bepalingen inzake voorlichting en onderricht
 
@@ -2556,11 +2590,11 @@ Vervallen
 
 ##### Artikel 4.79. Schriftelijke voorlichting
 
-Aan werknemers die met loodhoudende materialen of producten schilderwerk verrichten, dat niet op grond van [artikel 4.78](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2002-12-17&g=2002-12-17) is verboden, wordt, in aanvulling op [artikel 4.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=6&artikel=4.10e&z=2002-12-17&g=2002-12-17), schriftelijk en adequaat voorlichtingsmateriaal verschaft over de bij die werkzaamheden in acht te nemen voorzorgsmaatregelen.
+Aan werknemers die met loodhoudende materialen of producten schilderwerk verrichten, dat niet op grond van [artikel 4.78](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2003-01-01&g=2003-01-01) is verboden, wordt, in aanvulling op [artikel 4.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=6&artikel=4.10e&z=2003-01-01&g=2003-01-01), schriftelijk en adequaat voorlichtingsmateriaal verschaft over de bij die werkzaamheden in acht te nemen voorzorgsmaatregelen.
 
 ##### Artikel 4.80. Wasgelegenheden en doucheruimten
 
-In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2002-12-17&g=2002-12-17), zijn voor de werknemers die werkzaamheden verrichten, bestaande uit het aanbrengen of verwijderen van loodhoudende materialen of producten, doelmatige wasgelegenheden en doucheruimten beschikbaar.
+In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2003-01-01&g=2003-01-01), zijn voor de werknemers die werkzaamheden verrichten, bestaande uit het aanbrengen of verwijderen van loodhoudende materialen of producten, doelmatige wasgelegenheden en doucheruimten beschikbaar.
 
 ##### Artikel 4.81. Uitzondering
 
@@ -2584,7 +2618,7 @@ Onder fosforlucifers wordt verstaan: lucifers waarin witte fosfor (CAS-nummer 12
 
 ##### Artikel 4.84. Biologisch agentia, celculturen en micro-organismen
 
-1. De [afdelingen 1 tot en met 8 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2002-12-17&g=2002-12-17) zijn niet van toepassing op biologische agentia.
+1. De [afdelingen 1 tot en met 8 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2003-01-01&g=2003-01-01) zijn niet van toepassing op biologische agentia.
 
 2. In deze afdeling wordt verstaan onder:
 
@@ -2610,23 +2644,23 @@ Onder fosforlucifers wordt verstaan: lucifers waarin witte fosfor (CAS-nummer 12
 
 #### § 2. Inventarisatie en evaluatie en gevolgen categorie-indeling
 
-##### Artikel 4.85. Nadere voorschriften inventarisatie en evaluatie
+##### Artikel 4.85. Nadere voorschriften risico-inventarisatie en -evaluatie
 
-Indien een werknemer gerede kans loopt aan een of meer specifiek bij zijn arbeid voorkomende of naar verwachting voorkomende biologische agentia te worden blootgesteld, wordt, in het kader van de in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5) bedoelde inventarisatie en evaluatie, de aard, de mate en de duur van de blootstelling beoordeeld teneinde het gevaar voor de werknemer te bepalen. Deze beoordeling geschiedt met inachtneming van met name:
+Indien een werknemer gerede kans loopt aan een of meer specifiek bij zijn arbeid voorkomende of naar verwachting voorkomende biologische agentia te worden blootgesteld, wordt, in het kader van de in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5) bedoelde risico-inventarisatie en -evaluatie, de aard, de mate en de duur van de blootstelling beoordeeld teneinde het gevaar voor de werknemer te bepalen. Deze beoordeling geschiedt met inachtneming van met name:
 
 - a. de categorie of categorieën,waarin de biologische agentia waaraan werknemers kunnen worden blootgesteld, zijn ingedeeld;
 
 - b. informatie over ziekten die werknemers kunnen oplopen of al hebben opgelopen als gevolg van blootstelling aan biologische agentia;
 
-- c. mogelijke allergene of vergiftigingseffecten die de werknemers als gevolg van blootstelling aan biologische agentia ondervinden of kunnen ondervinden;
+- c. mogelijke allergische of vergiftigingseffecten die de werknemers als gevolg van blootstelling aan biologische agentia ondervinden of kunnen ondervinden;
 
 - d. de resultaten van de arbeidsgezondheidskundige onderzoeken, bedoeld in artikel 4.91, alsmede de ziekten waarvan bekend is dat een werknemer hieraan lijdt en de medicijnen waarvan bekend is dat die door een werknemer worden gebruikt, een en ander in statistische, niet tot individuen herleidbare vorm.
 
 ##### Artikel 4.86. Gevolgen categorie-indeling
 
-1. Indien de arbeid gericht is op het werken met biologische agentia behorend tot categorie 2, 3 of 4 zijn de artikelen 4.87 tot en met 4.102 van toepassing .
+1. Indien de arbeid gericht is op het werken met biologische agentia behorend tot categorie 2, 3 of 4 zijn de artikelen [4.87 tot en met 4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2003-01-01&g=2003-01-01) van toepassing .
 
-2. Indien uit de resultaten van de inventarisatie en evaluatie, bedoeld in artikel 4.85, blijkt, dat werknemers bij het verrichten van andere arbeid dan die, bedoeld in het eerste lid, waaronder de in bijlage I bij de richtlijn genoemde werkzaamheden, een gerede kans lopen aan biologische agentia van categorie 2, 3 of 4 te worden blootgesteld, zijn de artikelen 4.87, 4.89, 4.91, 4.93, 4.95, 4.97, 4.98, 4.99, tweede lid, en 4.102 van toepassing.
+2. Indien uit de resultaten van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01), blijkt, dat werknemers bij het verrichten van andere arbeid dan die, bedoeld in het eerste lid, waaronder de in bijlage I bij de richtlijn genoemde werkzaamheden, een gerede kans lopen aan biologische agentia van categorie 2, 3 of 4 te worden blootgesteld, zijn de [artikelen 4.87](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2003-01-01&g=2003-01-01), [4.89](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.89&z=2003-01-01&g=2003-01-01), [4.91](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2003-01-01&g=2003-01-01), [4.93](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=5&artikel=4.93&z=2003-01-01&g=2003-01-01), [4.95](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.95&z=2003-01-01&g=2003-01-01), [4.97](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=7&artikel=4.97&z=2003-01-01&g=2003-01-01), [4.98](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=7&artikel=4.98&z=2003-01-01&g=2003-01-01), [4.99, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.99&z=2003-01-01&g=2003-01-01), en [4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=9&artikel=4.102&z=2003-01-01&g=2003-01-01) van toepassing.
 
 3. In alle, niet in het eerste en tweede lid bedoelde gevallen, wordt bij de arbeid de grootst mogelijke zorgvuldigheid, ordelijkheid en zindelijkheid in acht genomen en worden de noodzakelijke hygiënische voorzieningen getroffen.
 
@@ -2658,19 +2692,19 @@ Indien een werknemer gerede kans loopt aan een of meer specifiek bij zijn arbeid
 
 ##### Artikel 4.88. Veiligheidssignalering
 
-De plaatsen waar arbeid wordt verricht met biologische agentia worden duidelijk afgebakend en worden gemarkeerd met een signaal dat voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+De plaatsen waar arbeid wordt verricht met biologische agentia worden duidelijk afgebakend en worden gemarkeerd met een signaal dat voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 ##### Artikel 4.89. Hygiënische beschermingsmaatregelen
 
 1. Op plaatsen waar gevaar bestaat voor blootstelling aan biologische agentia mag niet worden gerookt noch mag daar voedsel of drank worden genuttigd.
 
-2. Werkkleding die voldoet aan [afdeling 1 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2002-12-17&g=2002-12-17) wordt aan de werknemers ter beschikking gesteld en wordt bij de arbeid gedragen.
+2. Werkkleding die voldoet aan [afdeling 1 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&z=2003-01-01&g=2003-01-01) wordt aan de werknemers ter beschikking gesteld en wordt bij de arbeid gedragen.
 
-3. In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2002-12-17&g=2002-12-17) zijn voor de werknemers doelmatige sanitaire voorzieningen beschikbaar met inbegrip van douches, oogdouches en huidantiseptica.
+3. In aanvulling op [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.23&z=2003-01-01&g=2003-01-01) zijn voor de werknemers doelmatige sanitaire voorzieningen beschikbaar met inbegrip van douches, oogdouches en huidantiseptica.
 
 4. Indien aan de werknemer persoonlijke beschermingsmiddelen worden verstrekt, worden deze op een daartoe aangewezen plaats bewaard en na ieder gebruik gecontroleerd en gereinigd.
 
-5. In aanvulling op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.22&z=2002-12-17&g=2002-12-17) worden de werkkleding en andere persoonlijke beschermingsmiddelen waarin of waarop zich biologische agentia bevinden of kunnen bevinden, op een andere plaats opgeborgen dan de overige kleding.
+5. In aanvulling op [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.22&z=2003-01-01&g=2003-01-01) worden de werkkleding en andere persoonlijke beschermingsmiddelen waarin of waarop zich biologische agentia bevinden of kunnen bevinden, op een andere plaats opgeborgen dan de overige kleding.
 
 6. De in het vijfde lid bedoelde werkkleding en andere persoonlijke beschermingsmiddelen worden uitsluitend buiten het bedrijf of de inrichting gebracht indien dit geschiedt met het doel deze te laten reinigen, ontsmetten of vernietigen.
 
@@ -2720,7 +2754,7 @@ De plaatsen waar arbeid wordt verricht met biologische agentia worden duidelijk 
 
 8. Iedere werknemer heeft recht op inzage in het hem betreffende medisch dossier.
 
-9. De resultaten van het in dit artikel bedoelde arbeidsgezondheidskundig onderzoek worden in passende vorm geregistreerd en ten minste tien jaar na de laatste blootstelling of mogelijke blootstelling bewaard. In gevallen als bedoeld in [artikel 4.90, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.90&z=2002-12-17&g=2002-12-17), worden de resultaten een navenant langere tijd doch niet meer dan veertig jaar bewaard.
+9. De resultaten van het in dit artikel bedoelde arbeidsgezondheidskundig onderzoek worden in passende vorm geregistreerd en ten minste tien jaar na de laatste blootstelling of mogelijke blootstelling bewaard. In gevallen als bedoeld in [artikel 4.90, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.90&z=2003-01-01&g=2003-01-01), worden de resultaten een navenant langere tijd doch niet meer dan veertig jaar bewaard.
 
 10. Iedere werknemer wordt geïnformeerd over de wijze waarop hij na beëindiging van de blootstelling in de gelegenheid wordt gesteld een arbeidsgezondheidskundig onderzoek te ondergaan.
 
@@ -2734,7 +2768,7 @@ De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daa
 
 1. Desgevraagd wordt de ondernemingsraad of de personeelsvertegenwoordiging, of worden, bij het ontbreken daarvan, de belanghebbende werknemers geïnformeerd over:
 
-- a. de wijze waarop de inventarisatie en evaluatie, bedoeld in artikel 4.85, tot stand is gekomen en over het resultaat daarvan;
+- a. de wijze waarop de risico-inventarisatie en -evaluatie, bedoeld in [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01), tot stand is gekomen en over het resultaat daarvan;
 
 - b. de werkzaamheden waarbij de werknemers aan biologische agentia worden of kunnen worden blootgesteld;
 
@@ -2742,7 +2776,7 @@ De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daa
 
 - d. de naam en de functie van de persoon die verantwoordelijk is voor de veiligheid en de gezondheid op het werk;
 
-- e. de genomen preventieve en beschermende maatregelen waaronder mede wordt verstaan de werkinstructie, bedoeld in artikel 4.87, vierde lid, de toegepaste arbeidsprocédés en werkmethoden.
+- e. de genomen preventieve en beschermende maatregelen waaronder mede wordt verstaan de werkinstructie, bedoeld in [artikel 4.87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2003-01-01&g=2003-01-01), de toegepaste arbeidsprocédés en werkmethoden.
 
 2. De ondernemingsraad of de personeelsvertegenwoordiging heeft of, bij het ontbreken daarvan, de belanghebbende werknemers hebben recht op inzage in de in dit artikel bedoelde informatie in statistische, niet tot individuen herleidbare vorm.
 
@@ -2758,7 +2792,7 @@ De ondernemingsraad of de personeelsvertegenwoordiging of, bij het ontbreken daa
 
 - b. de naam en de functie van de persoon die verantwoordelijk is voor de veiligheid en de gezondheid op het werk;
 
-- c. de resultaten van de in artikel 4.85 bedoelde inventarisatie en evaluatie;
+- c. de resultaten van de in [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01) bedoelde risico-inventarisatie en -evaluatie;
 
 - d. de categorie of categorieën en soort of soorten waartoe het biologische agens of de biologische agentia behoort respectievelijk behoren;
 
@@ -2776,13 +2810,13 @@ Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de 
 
 ##### Artikel 4.96. Overdracht gegevens
 
-In geval de werkgever de werkzaamheden beëindigt worden het in [artikel 4.90](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.90&z=2002-12-17&g=2002-12-17) bedoelde register en de resultaten van het in [artikel 4.91](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2002-12-17&g=2002-12-17) bedoelde arbeidsgezondheidskundig onderzoek, in geval deze bij de werkgever berusten, overgedragen aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+In geval de werkgever de werkzaamheden beëindigt worden het in [artikel 4.90](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.90&z=2003-01-01&g=2003-01-01) bedoelde register en de resultaten van het in [artikel 4.91](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2003-01-01&g=2003-01-01) bedoelde arbeidsgezondheidskundig onderzoek, in geval deze bij de werkgever berusten, overgedragen aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 #### § 5. De ondernemingsraad
 
 ##### Artikel 4.97. Gezondheidszorg en diergeneeskunde
 
-1. In aanvulling op artikel 4.85 wordt bij de inventarisatie en evaluatie van gevaren, verbonden aan andere dan diagnostische arbeid in de gezondheidszorg en in de diergeneeskunde, aandacht besteed aan:
+1. In aanvulling op [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01) wordt bij de risico-inventarisatie en -evaluatie van gevaren, verbonden aan andere dan microbiologisch diagnostische arbeid in de gezondheidszorg en in de diergeneeskunde, aandacht besteed aan:
 
 - a. de onzekerheid omtrent de aanwezigheid van biologische agentia en de daaraan verbonden gevaren bij patiënten of dieren en in monsters of materiaal van patiënten of dieren;
 
@@ -2802,25 +2836,25 @@ In isolatieafdelingen met patiënten of dieren die besmet zijn of mogelijkerwijs
 
 ##### Artikel 4.99. Beheersingsniveaus laboratoria en ruimten voor proefdieren
 
-1. In laboratoria en in ruimten waarin zich dieren bevinden die opzettelijk zijn besmet met biologische agentia van categorie 2, 3 of 4 dan wel dieren die drager zijn of mogelijk zouden kunnen zijn van biologische agentia van een van deze categorieën, worden, afhankelijk van de resultaten van de inventarisatie en evaluatie, bedoeld in artikel 4.85, ten minste respectievelijk de beheersingsniveaus 2, 3 en 4 van bijlage V bij de richtlijn in acht genomen.
+1. In laboratoria en in ruimten waarin zich dieren bevinden die opzettelijk zijn besmet met biologische agentia van categorie 2, 3 of 4 dan wel dieren die drager zijn of mogelijk zouden kunnen zijn van biologische agentia van een van deze categorieën, worden, afhankelijk van de resultaten van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.95&z=2003-01-01&g=2003-01-01), ten minste respectievelijk de beheersingsniveaus 2, 3 en 4 van bijlage V bij de richtlijn in acht genomen.
 
 2. Indien in de in het eerste lid bedoelde laboratoria arbeid wordt verricht met materiaal waarvan onzeker is of zich hierin biologische agentia van categorie 2, 3 of 4 bevinden en de arbeid niet is gericht op het werken met biologische agentia, wordt ten minste beheersingsniveau 2 van bijlage V bij de richtlijn in acht genomen.
 
 ##### Artikel 4.100. Beheersingsniveaus industriële procédés
 
-1. In geval biologische agentia van de categorie 2, 3 of 4 worden gebruikt in industriële procédés, worden, afhankelijk van de resultaten van de inventarisatie en evaluatie, bedoeld in artikel 4.85, ten minste respectievelijk de beheersingsniveaus 2, 3 en 4 van bijlage VI bij de richtlijn in acht genomen.
+1. In geval biologische agentia van de categorie 2, 3 of 4 worden gebruikt in industriële procédés, worden, afhankelijk van de resultaten van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01), ten minste respectievelijk de beheersingsniveaus 2, 3 en 4 van bijlage VI bij de richtlijn in acht genomen.
 
 2. Van industriële procédés, bedoeld in het eerste lid, is sprake indien de arbeid is gericht op het werken met biologische agentia van categorie 2, 3 of 4 in reactorvaten van tien liter of meer.
 
 ##### Artikel 4.101. Beheersingsniveau van niet in bijlage III bij de richtlijn genoemde biologische agentia
 
-Indien arbeid als bedoeld in deze paragraaf wordt verricht met biologische agentia die niet op grond van bijlage III bij de richtlijn in een van de in [artikel 4.84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=1&artikel=4.84&z=2002-12-17&g=2002-12-17), bedoelde categorieën zijn ingedeeld, maar waarvan wel aanwijzingen bestaan dat deze agentia naar verwachting dienen te worden ingedeeld in categorie 3 of 4, wordt ten minste beheersingsniveau 3 van bijlage V respectievelijk VI bij de richtlijn in acht genomen.
+Indien arbeid als bedoeld in deze paragraaf wordt verricht met biologische agentia die niet op grond van bijlage III bij de richtlijn in een van de in [artikel 4.84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=1&artikel=4.84&z=2003-01-01&g=2003-01-01), bedoelde categorieën zijn ingedeeld, maar waarvan wel aanwijzingen bestaan dat deze agentia naar verwachting dienen te worden ingedeeld in categorie 3 of 4, wordt ten minste beheersingsniveau 3 van bijlage V respectievelijk VI bij de richtlijn in acht genomen.
 
 #### § 7. Bijzondere bepalingen in verband met andere dan diagnostische arbeid in de gezondheidszorg en in de diergeneeskunde
 
 ##### Artikel 4.102. Voorlichting en onderricht
 
-Aan werknemers die arbeid verrichten als bedoeld in [artikel 4.86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2002-12-17&g=2002-12-17) wordt voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan:
+Aan werknemers die arbeid verrichten als bedoeld in [artikel 4.86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2003-01-01&g=2003-01-01) wordt voorlichting en onderricht gegeven, waarbij ten minste aandacht wordt besteed aan:
 
 - a. de mogelijke gevaren voor de gezondheid die zijn verbonden aan het werken met biologische agentia;
 
@@ -2838,11 +2872,11 @@ Aan werknemers die arbeid verrichten als bedoeld in [artikel 4.86, eerste en twe
 
 ##### Artikel 4.103. Uitzonderingen voor vervoermiddelen
 
-1. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3&z=2002-12-17&g=2002-12-17) is niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) van toepassing is.
+1. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3&z=2003-01-01&g=2003-01-01) is niet van toepassing voor zover de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) van toepassing is.
 
-2. [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2002-12-17&g=2002-12-17) is niet van toepassing op tankschepen die zich buiten Nederland bevinden.
+2. [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2003-01-01&g=2003-01-01) is niet van toepassing op tankschepen die zich buiten Nederland bevinden.
 
-3. De [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2002-12-17&g=2002-12-17), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2002-12-17&g=2002-12-17) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2002-12-17&g=2002-12-17)van dit hoofdstuk zijn niet van toepassing op arbeid met asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2002-12-17&g=2002-12-17), verricht in respectievelijk op een zeeschip dat zich buiten Nederland bevindt, tenzij dit redelijkerwijs kan worden gevergd.
+3. De [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&z=2003-01-01&g=2003-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&z=2003-01-01&g=2003-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&z=2003-01-01&g=2003-01-01)van dit hoofdstuk zijn niet van toepassing op arbeid met asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2003-01-01&g=2003-01-01), verricht in respectievelijk op een zeeschip dat zich buiten Nederland bevindt, tenzij dit redelijkerwijs kan worden gevergd.
 
 #### § 2. Jeugdigen
 
@@ -2858,13 +2892,13 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk, gelden voor jeugdi
 
 - b. gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling (R48).
 
-2. Jeugdige werknemers mogen geen arbeid verrichten met biologische agentia van categorie 3 of 4, bedoeld in [afdeling 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&z=2002-12-17&g=2002-12-17) van dit hoofdstuk.
+2. Jeugdige werknemers mogen geen arbeid verrichten met biologische agentia van categorie 3 of 4, bedoeld in [afdeling 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&z=2003-01-01&g=2003-01-01) van dit hoofdstuk.
 
 3. Voorts mogen jeugdige werknemers geen arbeid verrichten aan of met kuipen, bassins, leidingen of reservoirs waarin zich een of meer van de in het eerste of tweede lid bedoelde stoffen of biologische agentia bevinden.
 
 ##### Artikel 4.106. Deskundig toezicht bij arbeid met gevaarlijke stoffen
 
-[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17), is van overeenkomstige toepassing op jeugdige werknemers die:
+[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op jeugdige werknemers die:
 
 - a. arbeid verrichten met stoffen die voldoen aan de krachtens de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), derde lid, en [39 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39) vastgestelde criteria voor indeling:
 
@@ -2886,11 +2920,11 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor zwanger
 
 ##### Artikel 4.108. Arbeidsverboden lood en loodwit
 
-Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten met loodwit als bedoeld in [afdeling 7 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&z=2002-12-17&g=2002-12-17) alsmede met metallisch lood en zijn ionverbindingen waarvoor op grond van [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2002-12-17&g=2002-12-17), een biologische grenswaarde is vastgesteld.
+Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten met loodwit als bedoeld in [afdeling 7 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&z=2003-01-01&g=2003-01-01) alsmede met metallisch lood en zijn ionverbindingen waarvoor op grond van [artikel 4.8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.8b&z=2003-01-01&g=2003-01-01), een biologische grenswaarde is vastgesteld.
 
 ##### Artikel 4.109. Arbeidsverboden enkele biologische agentia
 
-Het is een zwangere werknemer verboden arbeid te verrichten met de biologische agentia Toxoplasma en Rubellavirus, bedoeld in [afdeling 9 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&z=2002-12-17&g=2002-12-17), tenzij is gebleken dat zij hiervoor immuun is.
+Het is een zwangere werknemer verboden arbeid te verrichten met de biologische agentia Toxoplasma en Rubellavirus, bedoeld in [afdeling 9 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&z=2003-01-01&g=2003-01-01), tenzij is gebleken dat zij hiervoor immuun is.
 
 #### § 4. Thuiswerkers
 
@@ -2932,15 +2966,15 @@ Thuiswerk met gevaarlijke stoffen is uitsluitend toegestaan met een of meer van 
 
 - b. stoffen die aan geen van de krachtens de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), derde lid, en [39 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39) vastgestelde criteria voor indeling voldoen, tenzij deze stoffen de bijzondere gevaarsaanduidingen dragen, genoemd in bijlage V, deel B, onderdeel 2° of 6° bij [richtlijn nr. 1999/45/EG](31999L0045) van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200).
 
-##### Artikel 4.111. Nadere voorschriften inventarisatie en evaluatie
+##### Artikel 4.111. Nadere voorschriften risico-inventarisatie en -evaluatie
 
-Met betrekking tot de in artikel 4.110, onder a, genoemde stoffen, met uitzondering van stoffen die uitsluitend voldoen aan de krachtens de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), en [39 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39) vastgestelde criteria voor indeling in de categorie «milieugevaarlijk», wordt in het kader van de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in ieder geval vastgesteld aan welke stoffen thuiswerkers worden of kunnen worden blootgesteld en wat de gevaren zijn die aan die stoffen zijn verbonden.
+Met betrekking tot de in [artikel 4.110, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2003-01-01&g=2003-01-01), genoemde stoffen, met uitzondering van stoffen die uitsluitend voldoen aan de krachtens de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), en [39 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39) vastgestelde criteria voor indeling in de categorie «milieugevaarlijk», wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), in ieder geval vastgesteld aan welke stoffen thuiswerkers worden of kunnen worden blootgesteld en wat de gevaren zijn die aan die stoffen zijn verbonden.
 
 ##### Artikel 4.112. Verpakking en etikettering
 
 1. Met betrekking tot de verpakking van een stof die gevaar voor de veiligheid en gezondheid kan opleveren alsmede met betrekking tot de sluiting van die verpakking, is [artikel 35, eerste tot en met derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=35) van overeenkomstige toepassing.
 
-2. Op de verpakking van een stof, bedoeld in het eerste lid, worden de aanduidingen welke voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, genoemd in [artikel 4.110, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2002-12-17&g=2002-12-17), ten behoeve van de aflevering van die stof bij of krachtens de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie «milieugevaarlijk».
+2. Op de verpakking van een stof, bedoeld in het eerste lid, worden de aanduidingen welke voor die stof op grond van het voldoen aan de criteria voor indeling in de categorieën, genoemd in [artikel 4.110, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2003-01-01&g=2003-01-01), ten behoeve van de aflevering van die stof bij of krachtens de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) zijn voorgeschreven, opvallend en goed leesbaar vermeld, met uitzondering van de aanduidingen die betrekking hebben op de categorie «milieugevaarlijk».
 
 ##### Artikel 4.113. Arbeidshygiënisch regime
 
@@ -2948,7 +2982,7 @@ Doeltreffende maatregelen zijn genomen om te voorkomen dat thuiswerkers bij hun 
 
 ##### Artikel 4.114. Brandbestrijdingsmiddelen
 
-Indien met brandgevaarlijke stoffen wordt gewerkt, zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17), aan de thuiswerker deugdelijke en doelmatige middelen voor het blussen of doven van een brand ter beschikking gesteld.
+Indien met brandgevaarlijke stoffen wordt gewerkt, zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01), aan de thuiswerker deugdelijke en doelmatige middelen voor het blussen of doven van een brand ter beschikking gesteld.
 
 ##### Artikel 4.115. Voorkomen, beperken van ongewilde gebeurtenissen
 
@@ -2956,7 +2990,7 @@ Indien met brandgevaarlijke stoffen wordt gewerkt, zijn in aanvulling op [afdeli
 
 2. Bij het verrichten van arbeid met stoffen als bedoeld in het eerste lid zijn zodanige voorzieningen getroffen, dat het gevaar, dat zich bij die arbeid een ongewilde gebeurtenis voordoet, zoveel mogelijk is vermeden.
 
-3. Voorts zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2002-12-17&g=2002-12-17) zodanige voorzieningen getroffen dat in geval zich een ongewilde gebeurtenis als bedoeld in het eerste respectievelijk het tweede lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.
+3. Voorts zijn in aanvulling op [afdeling 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&z=2003-01-01&g=2003-01-01) zodanige voorzieningen getroffen dat in geval zich een ongewilde gebeurtenis als bedoeld in het eerste respectievelijk het tweede lid voordoet, de gevolgen daarvan zoveel mogelijk worden beperkt.
 
 ### Hoofdstuk 5. Fysieke belasting
 
@@ -2970,11 +3004,11 @@ In deze afdeling wordt verstaan onder richtlijn: [Richtlijn nr. 90/269/EEG](3199
 
 De arbeid wordt zodanig georganiseerd, de arbeidsplaats wordt zodanig ingericht, een zodanige productieen werkmethode wordt toegepast of zodanige hulpmiddelen en persoonlijke beschermingsmiddelen, worden gebruikt, dat de fysieke belasting geen gevaren met zich kan brengen voor de veiligheid en de gezondheid van de werknemer.
 
-##### Artikel 5.3. Beperken gevaren en inventarisatie en evaluatie
+##### Artikel 5.3. Beperken gevaren en risico-inventarisatie en -evaluatie
 
-1. Voor zover de in artikel 5.2 bedoelde gevaren redelijkerwijs niet kunnen worden voorkomen, wordt de arbeid zodanig georganiseerd, wordt de arbeidsplaats zodanig ingericht, wordt een zodanige productie- en werkmethode toegepast en worden zodanige hulpmiddelen en persoonlijke beschermingsmiddelen, gebruikt, dat die gevaren zoveel als redelijkerwijs mogelijk is worden beperkt.
+1. Voor zover de in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.2&z=2003-01-01&g=2003-01-01) bedoelde gevaren redelijkerwijs niet kunnen worden voorkomen, wordt de arbeid zodanig georganiseerd, wordt de arbeidsplaats zodanig ingericht, wordt een zodanige productie- en werkmethode toegepast en worden zodanige hulpmiddelen en persoonlijke beschermingsmiddelen, gebruikt, dat die gevaren zoveel als redelijkerwijs mogelijk is worden beperkt.
 
-2. Bij de uitvoering van het eerste lid worden in het kader van de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), met inachtneming van bijlage I bij de richtlijn, de veiligheids- en gezondheidsaspecten van de fysieke belasting beoordeeld, waarbij met name gelet wordt op de kenmerken van de last, de vereiste lichamelijke inspanning, de kenmerken van de werkomgeving en de eisen van de taak.
+2. Bij de uitvoering van het eerste lid worden in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), met inachtneming van bijlage I bij de richtlijn, de veiligheids- en gezondheidsaspecten van de fysieke belasting beoordeeld, waarbij met name gelet wordt op de kenmerken van de last, de vereiste lichamelijke inspanning, de kenmerken van de werkomgeving en de eisen van de taak.
 
 ##### Artikel 5.4. Zitgelegenheid
 
@@ -3022,11 +3056,11 @@ In deze afdeling wordt verstaan onder:
 
 2. Voorts is deze afdeling niet van toepassing op arbeid waarbij een werknemer gewoonlijk minder dan twee uren per etmaal gebruik maakt van een beeldscherm.
 
-##### Artikel 5.9. Inventarisatie en evaluatie
+##### Artikel 5.9. Risico-inventarisatie en -evaluatie
 
-1. In de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), wordt specifiek aandacht besteed aan de gevaren voor het gezichtsvermogen en die van de fysieke en psychische belasting als gevolg van arbeid aan een beeldscherm.
+1. In de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), wordt specifiek aandacht besteed aan de gevaren voor het gezichtsvermogen en die van de fysieke en psychische belasting als gevolg van arbeid aan een beeldscherm.
 
-2. Op basis van de uitkomsten van de in het eerste lid bedoelde inventarisatie en evaluatie worden doeltreffende maatregelen genomen om de desbetreffende gevaren te ondervangen, rekening houdend met de gevolgen van die gevaren en de onderlinge samenhang daartussen.
+2. Op basis van de uitkomsten van de in het eerste lid bedoelde risico-inventarisatie en -evaluatie worden doeltreffende maatregelen genomen om de desbetreffende gevaren te ondervangen, rekening houdend met de gevolgen van die gevaren en de onderlinge samenhang daartussen.
 
 ##### Artikel 5.10. Dagindeling van de arbeid
 
@@ -3062,7 +3096,7 @@ Afdeling 2 van dit hoofdstuk is niet van toepassing op:
 
 ##### Artikel 5.14. Toepasselijkheid
 
-Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&z=2002-12-17&g=2002-12-17) en [2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&z=2002-12-17&g=2002-12-17) van overeenkomstige toepassing.
+Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&z=2003-01-01&g=2003-01-01) en [2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&z=2003-01-01&g=2003-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 5.15. Werkplekvoorzieningen
 
@@ -3092,6 +3126,10 @@ Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 3. Luchtverversingsinstallaties zijn voorzien van een controlesysteem dat storingen in de installatie signaleert voor zover dat noodzakelijk is voor de gezondheid van de werknemers.
 
+4. Het eerste lid is niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
+
+5. Een arbeidsplaats in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727) gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.
+
 ### Afdeling 2. Verlichting
 
 ##### Artikel 6.3. Daglicht en kunstlicht
@@ -3100,13 +3138,13 @@ Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 2. Het kunstlicht is zodanig aangebracht dat gevaar voor ongevallen is voorkomen.
 
-3. De voor kunstlicht gebruikte kleur mag de waarneming van de veiligheids- en gezondheidssignalering, bepaald bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17), niet wijzigen of beïnvloeden.
+3. De voor kunstlicht gebruikte kleur mag de waarneming van de veiligheids- en gezondheidssignalering, bepaald bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01), niet wijzigen of beïnvloeden.
 
 ##### Artikel 6.4. Daglicht
 
 1. In een uitwendige scheidingsconstructie van een besloten ruimte waar overdag door iemand gemiddeld meer dan twee uur arbeid wordt verricht, zijn doorzichtige lichtopeningen aangebracht waardoor daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen bedraagt ten minste 1/20 van het vloeroppervlak van die ruimte.
 
-2. De lichtopeningen mogen zich ook bevinden in de inwendige scheidingsconstructie van de besloten ruimte, voor zover die constructie niet de scheiding vormt met een andere besloten ruimte als bedoeld in het eerste lid of met een ruimte als bedoeld in [hoofdstuk 3, afdeling 1, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&z=2002-12-17&g=2002-12-17).
+2. De lichtopeningen mogen zich ook bevinden in de inwendige scheidingsconstructie van de besloten ruimte, voor zover die constructie niet de scheiding vormt met een andere besloten ruimte als bedoeld in het eerste lid of met een ruimte als bedoeld in [hoofdstuk 3, afdeling 1, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&z=2003-01-01&g=2003-01-01).
 
 3. Het eerste of tweede lid geldt niet indien daaraan redelijkerwijs niet kan worden voldaan. In dat geval wordt het vereiste minimum oppervlak aan lichtopeningen van 1/20 van het vloeroppervlak zo dicht mogelijk benaderd.
 
@@ -3116,7 +3154,7 @@ In een besloten ruimte waar arbeid wordt verricht kan rechtstreeks invallend zon
 
 ### Afdeling 1. Klimaat
 
-#### § 1. Algemeen
+#### § 3. Zwangere werknemers en werknemers tijdens de lactatie
 
 ##### Artikel 6.6. Definities
 
@@ -3130,9 +3168,9 @@ In deze afdeling wordt verstaan onder:
 
 #### § 2. Geluidsvoorschriften
 
-##### Artikel 6.7. Nadere voorschriften inventarisatie en evaluatie, beoordelen en meten
+##### Artikel 6.7. Nadere voorschriften risico-inventarisatie en -evaluatie, beoordelen en meten
 
-1. Op elke arbeidsplaats wordt in het kader van de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), het geluidsniveau beoordeeld en, indien nodig, gemeten teneinde te bepalen waar en in welke mate werknemers aan de in deze afdeling vastgestelde niveaus van schadelijk geluid kunnen worden blootgesteld.
+1. Op elke arbeidsplaats wordt in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), het geluidsniveau beoordeeld en, indien nodig, gemeten teneinde te bepalen waar en in welke mate werknemers aan de in deze afdeling vastgestelde niveaus van schadelijk geluid kunnen worden blootgesteld.
 
 2. De beoordeling en de meting zijn representatief voor de blootstelling aan geluid op de arbeidsplaats gedurende de dagelijkse arbeidstijd. De beoordeling en de meting worden, in aanvulling op [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), volgens een schriftelijk vastgelegd tijdschema periodiek herhaald en in ieder geval herzien, indien de omstandigheden zijn gewijzigd of er redenen zijn om aan te nemen dat de uitgevoerde beoordeling of meting onjuist is.
 
@@ -3166,7 +3204,7 @@ In deze afdeling wordt verstaan onder:
 
 10. Het ongevalsgevaar als gevolg van het gebruik van de persoonlijke beschermingsmiddelen wordt zoveel mogelijk door middel van doeltreffende maatregelen beperkt.
 
-11. De plaatsen waar overschrijding van ten minste een van de in het negende lid genoemde geluidsniveaus kan worden verwacht, zijn duidelijk afgebakend en gemarkeerd door signalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+11. De plaatsen waar overschrijding van ten minste een van de in het negende lid genoemde geluidsniveaus kan worden verwacht, zijn duidelijk afgebakend en gemarkeerd door signalen die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 12. Alleen werknemers die beroepshalve of uit hoofde van hun functie de in het elfde lid bedoelde plaatsen moeten betreden worden daar toegelaten.
 
@@ -3186,7 +3224,7 @@ In deze afdeling wordt verstaan onder:
 
 2. Zolang de blootstelling aan het in het eerste lid genoemde geluidsniveau duurt, worden de betrokken werknemers met tussenpozen van vier jaar of met kortere tussenpozen indien dit naar het oordeel van de arbodienst noodzakelijk is, opnieuw in de gelegenheid gesteld om een audiometrisch onderzoek te ondergaan.
 
-3. Aan de arbodienst wordt inzage gegeven in het register, bedoeld in [artikel 6.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.7&z=2002-12-17&g=2002-12-17).
+3. Aan de arbodienst wordt inzage gegeven in het register, bedoeld in [artikel 6.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.7&z=2003-01-01&g=2003-01-01).
 
 4. De arbodienst wordt de gelegenheid geboden om te adviseren over de te nemen preventieve of persoonlijke beschermende maatregelen.
 
@@ -3236,7 +3274,7 @@ Aan werknemers die arbeid verrichten waarbij overschrijding van het equivalente 
 
 2. Deze afdeling is mede van toepassing op de arbeid in of op een zeeschip die in rechtstreeks verband staat met de te verrichten arbeid onder overdruk.
 
-3. Op duikarbeid met Self-Contained Underwater Breathing Apparatus (SCUBA), bestaande uit de instructie van sportduikers tot een duikdiepte van maximaal 50 meter, met een decompressietijd van ten hoogste 20 minuten en met een partiële zuurstofdruk in het ademgas van maximaal 1,4.105 PA, zijn uitsluitend de [artikelen 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2002-12-17&g=2002-12-17) en [6.15, eerste lid, onder a en b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2002-12-17&g=2002-12-17), van toepassing.
+3. Op duikarbeid met Self-Contained Underwater Breathing Apparatus (SCUBA), bestaande uit de instructie van sportduikers tot een duikdiepte van maximaal 50 meter, met een decompressietijd van ten hoogste 20 minuten en met een partiële zuurstofdruk in het ademgas van maximaal 1,4.105 PA, zijn uitsluitend de [artikelen 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2003-01-01&g=2003-01-01) en [6.15, eerste lid, onder a en b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2003-01-01&g=2003-01-01), van toepassing.
 
 ##### Artikel 6.14. Geschiktheid
 
@@ -3254,15 +3292,15 @@ Duikarbeid, caissonarbeid en overige arbeid onder overdruk worden verricht door 
 
 - d. nabij de plaats waar de arbeid wordt verricht een adequate eerste-hulpuitrusting aanwezig.
 
-2. De in het eerste lid, onder **c**, bedoelde persoon kan terstond in contact treden met een arts, bekwaam in het behandelen van acute gevolgen voor de gezondheid als gevolg van het verrichten van duikarbeid, caissonarbeid en overige arbeid onder overdruk.
+2. De in het eerste lid, onder **c**, bedoelde persoon kan terstond in contact treden met een arts als bedoeld in [artikel 6.14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 6.16. Duikarbeid
 
 1. Duikarbeid wordt verricht door een of meer duikers die worden bijgestaan door een reserveduiker en een ploegleider.
 
-2. De reserveduiker verricht slechts duikarbeid bestaande uit het verlenen van hulp aan en het redden van in moeilijkheden geraakte duikers.
+2. De reserveduiker verricht slechts duikarbeid bestaande uit het verlenen van hulp aan en het redden van in moeilijkheden geraakte duikers. Bij het gebruik van een duikklok is de reserveduiker in de klok aanwezig.
 
-3. De ploegleider heeft, gelet op de te verrichten duikarbeid, voldoende kennis en ervaring om op die arbeid toezicht te houden.
+3. De ploegleider is in het bezit van een certificaat duikploegleider, dat is afgegeven door Onze Minister of een certificerende instelling.
 
 4. In afwijking van het eerste lid, mag de ploegleider tevens als reserveduiker optreden, indien duikarbeid wordt verricht in een vloeistof die in overwegende mate uit water bestaat met een maximaal bereikbare diepte van 9 meter en een maximale stroomsnelheid van 0,5 meter per seconde en waarbij geen voorzienbare kans bestaat dat de duikers in die vloeistof in moeilijkheden raken.
 
@@ -3270,29 +3308,55 @@ Duikarbeid, caissonarbeid en overige arbeid onder overdruk worden verricht door 
 
 6. De duikers en de reserveduiker zijn in het bezit van een certificaat duikarbeid met betrekking tot de soort arbeid die zij verrichten, dat is afgegeven door Onze Minister of een certificerende instelling.
 
-7. Indien duikarbeid wordt verricht is de persoon, bedoeld in artikel 6.15, eerste lid, onder c, in het bezit van een certificaat duikmedische begeleiding, dat is afgegeven door Onze Minister of een certificerende instelling.
+7. Indien duikarbeid wordt verricht is de persoon, bedoeld in [artikel 6.15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2003-01-01&g=2003-01-01), in het bezit van een certificaat duikmedische begeleiding, dat is afgegeven door Onze Minister of een certificerende instelling.
 
-8. Het certificaat duikarbeid en het certificaat duikmedische begeleiding, bedoeld in het zesde respectievelijk zevende lid, of afschriften daarvan zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
+8. Het certificaat duikploegleider, het certificaat duikarbeid en het certificaat duikmedische begeleiding, bedoeld in het derde respectievelijk het zesde en zevende lid, of afschriften daarvan zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 9. Het zesde lid is niet van toepassing op degene die in het kader van een opleiding tot duiker duikarbeid verricht, mits dit gebeurt onder toezicht van een persoon die in het bezit is van een certificaat als bedoeld in dat lid.
 
-10. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gelijkstelling van in het buitenland afgegeven certificaten duikarbeid of certificaten duikmedische begeleiding met de certificaten, bedoeld in het zesde respectievelijk zevende lid.
+10. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gelijkstelling van in het buitenland afgegeven certificaten duikploegleider, certificaten duikarbeid of certificaten duikmedische begeleiding met de certificaten, bedoeld in het derde respectievelijk zesde en zevende lid.
 
-##### Artikel 6.17. Duikcertificaat en certificaat duikmedische begeleiding
+##### Artikel 6.17. Melding duikarbeid
 
-Vervallen
+1. Duikarbeid die wordt verricht,
+
+- a. op een diepte groter dan 9 meter;
+
+- b. bij een stroomsnelheid groter dan 0,5 meter per seconde;
+
+- c. met voorgenomen decompressie;
+
+- d. met een ademgas anders dan lucht;
+
+- e. over een periode langer dan een week, of
+
+- f. ten behoeve van de ondergrondse winningsindustrie of de winningsindustrie die delfstoffen wint met behulp van boringen, wordt ten minste vijf werkdagen vóór de aanvang ervan schriftelijk gemeld bij een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) onder opgaaf van de plaats waar de arbeid zal worden verricht, het tijdstip waarop deze zal aanvangen, het vermoedelijke aantal betrokken werknemers en het aantal werknemers dat daadwerkelijk duikarbeid zal verrichten.
+
+2. Indien de periode tussen de opdracht tot het verrichten van duikarbeid als bedoeld in het eerste lid en de uitvoering ervan wegens het onvoorziene en spoedeisende karakter van de duikarbeid korter is dan vijf werkdagen, dan wordt de duikarbeid zo spoedig mogelijk bij de ambtenaar, bedoeld in het eerste lid, gemeld.
+
+3. De in het eerste lid bedoelde schriftelijke melding gaat in geval van duikarbeid ten behoeve van de ondergrondse winningsindustrie of de winningsindustrie die delfstoffen wint met behulp van boringen, vergezeld van informatie over de veiligheids- en gezondheidsrisico's van de duiklocatie.
+
+4. Het eerste lid is niet van toepassing op arbeid die in het kader van een opleiding tot duiker wordt verricht.
 
 ##### Artikel 6.18. Compressiekamer duikarbeid
 
-1. Bij de plaats waar duikarbeid in water wordt verricht op een diepte van meer dan 15 meter of in een andere vloeistof onder een druk van 11/2 maal 105 Pa boven de atmosferische druk, is een geschikte compressiekamer, voorzien van een personensluis, aanwezig. De compressiekamer, waarvan de inrichting afhankelijk is van het aantal duikers en de aard van de werkzaamheden, biedt ten minste plaats aan twee personen.
+1. Bij de plaats waar duikarbeid in water wordt verricht op een diepte van meer dan 15 m of in een andere vloeistof onder een hogere druk dan 1,5.105 Pa boven de atmosferische druk, is een geschikte compressiekamer, voorzien van een personen- en medicijnsluis, aanwezig.
 
-2. De compressiekamer wordt op de juiste wijze gebruikt.
+2. Onverminderd het eerste lid is bij de plaats waar duikarbeid wordt verricht een compressiekamer aanwezig indien de reistijd tussen de duiklocatie en de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan 2 uur bedraagt.
+
+3. De compressiekamer, bedoeld in het eerste lid:
+
+- a. heeft een omvang en een inrichting die zijn afgestemd op het aantal personen dat duikarbeid verricht en de aard van de werkzaamheden, en
+
+- b. biedt ten minste plaats aan twee personen.
+
+4. De compressiekamer wordt op de juiste wijze gebruikt.
 
 ##### Artikel 6.19. Caissonarbeid
 
 1. Caissonarbeid wordt door ten minste twee personen verricht.
 
-2. Ten minste 30 dagen vóór het verrichten van caissonarbeid wordt een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) hiervan schriftelijk in kennis gesteld, onder overlegging van een deugdelijk werkplan.
+2. Ten minste 30 dagen vóór het verrichten van caissonarbeid wordt een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24) hiervan schriftelijk in kennis gesteld, onder overlegging van een deugdelijk werkplan.
 
 3. Een caisson wordt gebouwd, geïnstalleerd, aangepast of gedemonteerd onder toezicht van een speciaal daarvoor aangewezen persoon.
 
@@ -3300,11 +3364,19 @@ Vervallen
 
 ##### Artikel 6.20. Compressiekamer caissonarbeid
 
-1. Bij de plaats waar caissonarbeid wordt verricht onder een druk van meer dan 11/2 maal 105 Pa boven de atmosferische druk, is een geschikte compressiekamer, voorzien van een personensluis, aanwezig. De compressiekamer, waarvan de inrichting afhankelijk is van het aantal personen dat caissonarbeid verricht en de aard van de werkzaamheden, biedt ten minste plaats aan twee personen.
+1. Bij de plaats waar caissonarbeid wordt verricht onder een hogere druk dan 1,5.105 Pa boven de atmosferische druk, is een geschikte compressiekamer, voorzien van een personen- en medicijnsluis, aanwezig.
 
-2. De compressiekamer wordt op de juiste wijze gebruikt.
+2. Onverminderd het eerste lid is bij de plaats waar caissonarbeid wordt verricht een compressiekamer aanwezig indien de reistijd tussen die plaats en de dichtstbijzijnde behandelfaciliteit met compressiekamer meer dan 2 uur bedraagt.
 
-### Afdeling 6. Bijzondere sectoren en bijzondere categorieën werknemers
+3. De compressiekamer, bedoeld in het eerste lid:
+
+- a. heeft een omvang en een inrichting die zijn afgestemd op het aantal personen dat caissonarbeid verricht en de aard van de werkzaamheden, en
+
+- b. biedt ten minste plaats aan twee personen.
+
+4. De compressiekamer wordt op de juiste wijze gebruikt.
+
+### Afdeling 2. Beeldschermwerk
 
 #### § 1. Vervoer
 
@@ -3352,17 +3424,17 @@ In deze paragraaf wordt onder equivalent geluidsniveau in dB(A) verstaan: het en
 
 ##### Artikel 6.25. Klimaat, daglicht en kunstlicht en luchtverversing
 
-De [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.1&z=2002-12-17&g=2002-12-17), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.2&z=2002-12-17&g=2002-12-17), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.3&z=2002-12-17&g=2002-12-17) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.4&z=2002-12-17&g=2002-12-17) zijn niet van toepassing op arbeidsplaatsen in justitiële inrichtingen die vóór 1 september 1990 als zodanig in gebruik waren, voor zover de naleving daarvan redelijkerwijs niet kan worden gevergd.
+De [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.1&z=2003-01-01&g=2003-01-01), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.2&z=2003-01-01&g=2003-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.3&z=2003-01-01&g=2003-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.4&z=2003-01-01&g=2003-01-01) zijn niet van toepassing op arbeidsplaatsen in justitiële inrichtingen die vóór 1 september 1990 als zodanig in gebruik waren, voor zover de naleving daarvan redelijkerwijs niet kan worden gevergd.
 
-#### § 3. Jeugdigen
+#### § 1. Vervoer
 
 ##### Artikel 6.26. Schakelbepaling
 
 In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor jeugdige werknemers tevens de in deze paragraaf genoemde voorschriften en verboden.
 
-##### Artikel 6.27. Arbeidsverboden werken onder overdruk en niet-ioniserende straling
+##### Artikel 6.27. Arbeidsverboden jeugdige werknemers
 
-1. Jeugdige werknemers mogen geen duikarbeid, caissonarbeid en overige arbeid onder overdruk, bedoeld in artikel 6.13, verrichten.
+1. Jeugdige werknemers mogen geen duikarbeid, caissonarbeid en overige arbeid onder overdruk, bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.13&z=2003-01-01&g=2003-01-01), verrichten.
 
 2. Jeugdige werknemers mogen geen arbeid verrichten met toestellen die schadelijke niet-ioniserende elektromagnetische straling kunnen uitzenden.
 
@@ -3378,7 +3450,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor zwanger
 
 ##### Artikel 6.29. Arbeidsverboden werken onder overdruk
 
-Het is een zwangere werknemer verboden duikarbeid, caissonarbeid en overige arbeid onder overdruk als bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.13&z=2002-12-17&g=2002-12-17) te verrichten.
+Het is een zwangere werknemer verboden duikarbeid, caissonarbeid en overige arbeid onder overdruk als bedoeld in [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.13&z=2003-01-01&g=2003-01-01) te verrichten.
 
 #### § 5. Thuiswerkers
 
@@ -3390,7 +3462,7 @@ Het is een zwangere werknemer verboden duikarbeid, caissonarbeid en overige arbe
 
 ### Hoofdstuk 7. Arbeidsmiddelen en specifieke werkzaamheden
 
-### Afdeling 6. Bijzondere sectoren en bijzondere categorieën werknemers
+### Afdeling 2. Verlichting
 
 ##### Artikel 7.1. Arbeidsmiddelen buiten gebruik
 
@@ -3398,7 +3470,7 @@ Dit hoofdstuk is niet van toepassing op arbeidsmiddelen die op een zodanige mani
 
 ##### Artikel 7.2. Arbeidsmiddelen met een CE-markering
 
-1. Een arbeidsmiddel wordt vermoed te voldoen aan de [artikelen 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2002-12-17&g=2002-12-17), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.7&z=2002-12-17&g=2002-12-17), [7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.10&z=2002-12-17&g=2002-12-17), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2002-12-17&g=2002-12-17), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.14&z=2002-12-17&g=2002-12-17), [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.15&z=2002-12-17&g=2002-12-17), [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.16&z=2002-12-17&g=2002-12-17), [7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2002-12-17&g=2002-12-17), [7.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2002-12-17&g=2002-12-17), met uitzondering van het vierde lid, en [7.18b, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2002-12-17&g=2002-12-17), indien het, overeenkomstig de daarvoor geldende EG-richtlijnen, is voorzien van een CE-markering, vergezeld van een EG-verklaring van overeenstemming, en het arbeidsmiddel overeenkomstig de daarbij behorende gebruiksvoorschriften wordt gebruikt.
+1. Een arbeidsmiddel wordt vermoed te voldoen aan de [artikelen 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2003-01-01&g=2003-01-01), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.7&z=2003-01-01&g=2003-01-01), [7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.10&z=2003-01-01&g=2003-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2003-01-01&g=2003-01-01), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.14&z=2003-01-01&g=2003-01-01), [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.15&z=2003-01-01&g=2003-01-01), [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.16&z=2003-01-01&g=2003-01-01), [7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2003-01-01&g=2003-01-01), [7.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2003-01-01&g=2003-01-01), met uitzondering van het vierde lid, en [7.18b, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2003-01-01&g=2003-01-01), indien het, overeenkomstig de daarvoor geldende EG-richtlijnen, is voorzien van een CE-markering, vergezeld van een EG-verklaring van overeenstemming, en het arbeidsmiddel overeenkomstig de daarbij behorende gebruiksvoorschriften wordt gebruikt.
 
 2. Indien een arbeidsmiddel slechts voor een of meer onderdelen is voorzien van een CE-markering, vergezeld van een EG-verklaring van overeenstemming, wordt slechts ten aanzien van dat onderdeel respectievelijk die onderdelen vermoed dat het arbeidsmiddel voldoet aan de in het eerste lid genoemde artikelen.
 
@@ -3406,11 +3478,11 @@ Dit hoofdstuk is niet van toepassing op arbeidsmiddelen die op een zodanige mani
 
 In dit hoofdstuk wordt verstaan onder keuring: een onderzoek of een beproeving.
 
-### Afdeling 2. Algemene voorschriften
+### Afdeling 3. Geluid
 
 ##### Artikel 7.3. Geschiktheid arbeidsmiddelen
 
-1. Bij de keuze van de arbeidsmiddelen die de werkgever overweegt ter beschikking te stellen, wordt rekening gehouden met de uit de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), gebleken specifieke kenmerken van de arbeid, met de omstandigheden waaronder deze wordt verricht, met de op de arbeidsplaats al bestaande gevaren en met de gevaren die daaraan zouden kunnen worden toegevoegd door het gebruik van de desbetreffende arbeidsmiddelen.
+1. Bij de keuze van de arbeidsmiddelen die de werkgever overweegt ter beschikking te stellen, wordt rekening gehouden met de uit de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), gebleken specifieke kenmerken van de arbeid, met de omstandigheden waaronder deze wordt verricht, met de op de arbeidsplaats al bestaande gevaren en met de gevaren die daaraan zouden kunnen worden toegevoegd door het gebruik van de desbetreffende arbeidsmiddelen.
 
 2. Om te voorkomen dat het gebruik van arbeidsmiddelen gevaren voor de veiligheid en gezondheid van de werknemers oplevert, worden de arbeidsmiddelen die op de arbeidsplaats ter beschikking van de werknemers worden gesteld, uitsluitend gebruikt voor het doel, op de wijze en op de plaats waarvoor zij zijn ingericht en bestemd.
 
@@ -3456,9 +3528,11 @@ In dit hoofdstuk wordt verstaan onder keuring: een onderzoek of een beproeving.
 
 - d. stoom- en damptoestellen waarop het [Stoombesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002108)van toepassing is.
 
-10. Het eerste en tweede lid zijn niet van toepassing op drukapparatuur, samenstellen en druksystemen waarop [artikel 12b van het Besluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=12b) van toepassing is.
+10. Dit lid is nog niet in werking getreden.
 
-11. Het derde lid is niet van toepassing op:
+11. Het eerste en tweede lid zijn niet van toepassing op drukapparatuur, samenstellen en druksystemen waarop [artikel 12b van het Besluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=12b) van toepassing is.
+
+12. Het derde lid is niet van toepassing op:
 
 - a. hijs- en hefgereedschap waarop artikel 7.20 van toepassing is;
 
@@ -3508,7 +3582,7 @@ Zoveel mogelijk wordt voorkomen dat werknemers in de onmiddellijke nabijheid kom
 
 ##### Artikel 7.10. Alarmsignalen
 
-Alarmsignalen van een arbeidsmiddel zijn gemakkelijk en duidelijk waarneembaar en als zodanig goed herkenbaar. Zij voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+Alarmsignalen van een arbeidsmiddel zijn gemakkelijk en duidelijk waarneembaar en als zodanig goed herkenbaar. Zij voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 ##### Artikel 7.11. Loskoppelen arbeidsmiddel
 
@@ -3526,7 +3600,7 @@ Alarmsignalen van een arbeidsmiddel zijn gemakkelijk en duidelijk waarneembaar e
 
 ##### Artikel 7.12. Schakelbepaling
 
-Op een arbeidsmiddel met een bedieningssysteem zijn naast de voorschriften van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2002-12-17&g=2002-12-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&z=2002-12-17&g=2002-12-17) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
+Op een arbeidsmiddel met een bedieningssysteem zijn naast de voorschriften van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&z=2003-01-01&g=2003-01-01) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
 
 ##### Artikel 7.13. Bedieningssystemen
 
@@ -3542,7 +3616,7 @@ Op een arbeidsmiddel met een bedieningssysteem zijn naast de voorschriften van d
 
 6. De plaats van het bedieningssysteem levert geen extra gevaren op voor de werknemers.
 
-7. Indien een arbeidsmiddel in werking kan worden gesteld of kan worden gestopt op een plaats van waar dat arbeidsmiddel niet geheel kan worden gezien, wordt, om de betrokken werknemers te beschermen, telkens tijdig voor het inwerkingstellen of stoppen van dat arbeidsmiddel een signaal gegeven dat voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+7. Indien een arbeidsmiddel in werking kan worden gesteld of kan worden gestopt op een plaats van waar dat arbeidsmiddel niet geheel kan worden gezien, wordt, om de betrokken werknemers te beschermen, telkens tijdig voor het inwerkingstellen of stoppen van dat arbeidsmiddel een signaal gegeven dat voldoet aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 ##### Artikel 7.14. In werking stellen van arbeidsmiddelen
 
@@ -3570,7 +3644,7 @@ Een arbeidsmiddel beschikt over een noodstopvoorziening, indien dit met het oog 
 
 ##### Artikel 7.17. Schakelbepaling
 
-Op de in deze afdeling genoemde specifieke arbeidsmiddelen en werkzaamheden zijn naast de voorschriften van de [afdelingen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2002-12-17&g=2002-12-17) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
+Op de in deze afdeling genoemde specifieke arbeidsmiddelen en werkzaamheden zijn naast de voorschriften van de [afdelingen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2003-01-01&g=2003-01-01) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
 
 #### § 2. Voorschriften voor mobiele arbeidsmiddelen
 
@@ -3608,7 +3682,7 @@ Op de in deze afdeling genoemde specifieke arbeidsmiddelen en werkzaamheden zijn
 
 ##### Artikel 7.17b. Uitrusting mobiele arbeidsmiddelen met eigen aandrijving
 
-1. In aanvulling op [artikel 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2002-12-17&g=2002-12-17) is dit artikel van toepassing op mobiele arbeidsmiddelen met eigen aandrijving waarvan de verplaatsing gevaren voor de werknemers kan opleveren.
+1. In aanvulling op [artikel 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2003-01-01&g=2003-01-01) is dit artikel van toepassing op mobiele arbeidsmiddelen met eigen aandrijving waarvan de verplaatsing gevaren voor de werknemers kan opleveren.
 
 2. Mobiele arbeidsmiddelen worden uitgerust met:
 
@@ -3624,7 +3698,7 @@ Op de in deze afdeling genoemde specifieke arbeidsmiddelen en werkzaamheden zijn
 
 - f. doeltreffende hulpmiddelen die een toereikend zicht voor de bestuurder mogelijk maken indien het directe gezichtsveld van hem ontoereikend is om de veiligheid van personen te waarborgen, en
 
-- g. deugdelijke voorzieningen waarmee signalen kunnen worden gegeven die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2002-12-17&g=2002-12-17) bepaalde.
+- g. deugdelijke voorzieningen waarmee signalen kunnen worden gegeven die voldoen aan het bij of krachtens [afdeling 2 van hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&z=2003-01-01&g=2003-01-01) bepaalde.
 
 3. Indien mobiele arbeidsmiddelen 's nachts of op donkere plaatsen worden gebruikt, zijn zij voorzien van een verlichtingsinstallatie die is aangepast aan het uit te voeren werk en die de werknemers voldoende veiligheid biedt.
 
@@ -3680,7 +3754,7 @@ Bij transport van werknemers over water worden doeltreffende maatregelen getroff
 
 ##### Artikel 7.18a. Hijs- en hefwerktuigen voor niet-geleide lasten
 
-1. In aanvulling op [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17) is dit artikel van toepassing op het gebruik van hijs- en hefwerktuigen die dienen voor het hijsen of heffen van niet-geleide lasten.
+1. In aanvulling op [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01) is dit artikel van toepassing op het gebruik van hijs- en hefwerktuigen die dienen voor het hijsen of heffen van niet-geleide lasten.
 
 2. Wanneer twee of meer hijs- of hefwerktuigen zodanig op een werkplek worden geïnstalleerd of gemonteerd dat hun werkgebieden elkaar overlappen, worden doeltreffende maatregelen genomen om botsingen tussen de lasten of delen van deze werktuigen te voorkomen.
 
@@ -3708,7 +3782,7 @@ Bij transport van werknemers over water worden doeltreffende maatregelen getroff
 
 ##### Artikel 7.18b. Hijs- en hefwerktuigen voor personen
 
-1. In aanvulling op de [artikelen 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17) en [7.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2002-12-17&g=2002-12-17) zijn hijs- en hefwerktuigen die zijn bestemd en ingericht voor het hijsen of heffen van personen, met zodanige voorzieningen uitgerust dat zoveel mogelijk wordt voorkomen dat:
+1. In aanvulling op de [artikelen 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01) en [7.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2003-01-01&g=2003-01-01) zijn hijs- en hefwerktuigen die zijn bestemd en ingericht voor het hijsen of heffen van personen, met zodanige voorzieningen uitgerust dat zoveel mogelijk wordt voorkomen dat:
 
 - a. het hijs- of hefplatform voor personen naar beneden valt,
 
@@ -3872,7 +3946,7 @@ Tijdens het laden en lossen van containers zijn deugdelijke middelen aanwezig di
 
 ##### Artikel 7.31. Schakelbepaling
 
-Op een bouwplaats zijn naast de voorschriften van de [afdelingen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2002-12-17&g=2002-12-17) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
+Op een bouwplaats zijn naast de voorschriften van de [afdelingen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2003-01-01&g=2003-01-01) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
 
 #### § 2a. Voorschriften voor arbeidsmiddelen voor het hijsen en heffen van lasten of personen
 
@@ -3938,7 +4012,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor jeugdig
 
 ##### Artikel 7.39. Deskundig toezicht
 
-[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17), is van overeenkomstige toepassing op jeugdige werknemers die:
+[Artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01), is van overeenkomstige toepassing op jeugdige werknemers die:
 
 - a. arbeid verrichten, bestaande in het besturen van trekkers en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen;
 
@@ -3952,7 +4026,7 @@ In aanvulling op het bepaalde bij of krachtens dit hoofdstuk gelden voor jeugdig
 
 ##### Artikel 7.40. Toepasselijkheid
 
-Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2002-12-17&g=2002-12-17), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&z=2002-12-17&g=2002-12-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&z=2002-12-17&g=2002-12-17) van dit hoofdstuk van overeenkomstige toepassing.
+Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2003-01-01&g=2003-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&z=2003-01-01&g=2003-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&z=2003-01-01&g=2003-01-01) van dit hoofdstuk van overeenkomstige toepassing.
 
 ##### Artikel 7.41. Arbeidsmiddelen
 
@@ -4000,13 +4074,13 @@ Op thuiswerk zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008
 
 ##### Artikel 8.2. Keuze persoonlijk beschermingsmiddel
 
-Alvorens een persoonlijk beschermingsmiddel te kiezen maakt de werkgever, in het kader van de inventarisatie en evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), een beoordeling van de uitrusting die hij voornemens is ter beschikking te stellen, teneinde na te gaan in hoeverre deze voldoet aan de in artikel 8.1, eerste, tweede en derde lid gestelde voorwaarden. Deze beoordeling omvat:
+Alvorens een persoonlijk beschermingsmiddel te kiezen maakt de werkgever, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), een beoordeling van de uitrusting die hij voornemens is ter beschikking te stellen, teneinde na te gaan in hoeverre deze voldoet aan de in artikel 8.1, eerste, tweede en derde lid gestelde voorwaarden. Deze beoordeling omvat:
 
-- a. een inventarisatie en evaluatie van de gevaren die niet met andere middelen vermeden kunnen worden;
+- a. een risico-inventarisatie en -evaluatie van de gevaren die niet met andere middelen vermeden kunnen worden;
 
 - b. een omschrijving van de kenmerken die de persoonlijke beschermingsmiddelen moeten bezitten om de onder **a** vermelde gevaren te kunnen ondervangen, rekening houdend met eventuele gevaarsbronnen die de persoonlijke beschermingsmiddelen zelf kunnen vormen;
 
-- c. een inventarisatie en evaluatie van de kenmerken van de betreffende persoonlijke beschermingsmiddelen die beschikbaar zijn, vergeleken met de onder **b** bedoelde kenmerken.
+- c. een risico-inventarisatie en -evaluatie van de kenmerken van de betreffende persoonlijke beschermingsmiddelen die beschikbaar zijn, vergeleken met de onder **b** bedoelde kenmerken.
 
 ##### Artikel 8.3. Beschikbaarheid en gebruik persoonlijke beschermingsmiddelen
 
@@ -4094,35 +4168,35 @@ De werkgever is verplicht tot naleving van de voorschriften en verboden welke bi
 
 De thuiswerkgever is verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 1: de [artikelen 1.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.44&z=2002-12-17&g=2002-12-17) en [1.45](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.45&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 1: de [artikelen 1.44](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.44&z=2003-01-01&g=2003-01-01) en [1.45](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.45&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 2: de [artikelen 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.14&z=2002-12-17&g=2002-12-17), en [2.16 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.16&z=2002-12-17&g=2002-12-17);
+- b. van hoofdstuk 2: de [artikelen 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=3&artikel=2.14&z=2003-01-01&g=2003-01-01), en [2.16 tot en met 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.16&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 4: de [artikelen 4.110 tot en met 4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2002-12-17&g=2002-12-17);
+- c. van hoofdstuk 4: de [artikelen 4.110 tot en met 4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2003-01-01&g=2003-01-01);
 
-- d. van hoofdstuk 5: de [artikelen 5.1 tot en met 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.1&z=2002-12-17&g=2002-12-17) en [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.15&z=2002-12-17&g=2002-12-17);
+- d. van hoofdstuk 5: de [artikelen 5.1 tot en met 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.1&z=2003-01-01&g=2003-01-01) en [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.15&z=2003-01-01&g=2003-01-01);
 
-- e. van hoofdstuk 6: [artikel 6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=5&artikel=6.30&z=2002-12-17&g=2002-12-17);
+- e. van hoofdstuk 6: [artikel 6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=5&artikel=6.30&z=2003-01-01&g=2003-01-01);
 
-- f. van hoofdstuk 7: de [artikelen 7.1 tot en met 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&artikel=7.1&z=2002-12-17&g=2002-12-17), met uitzondering van [7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4a&z=2002-12-17&g=2002-12-17) en[7.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11a&z=2002-12-17&g=2002-12-17), [7.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2002-12-17&g=2002-12-17) en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.42&z=2002-12-17&g=2002-12-17);
+- f. van hoofdstuk 7: de [artikelen 7.1 tot en met 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&artikel=7.1&z=2003-01-01&g=2003-01-01), met uitzondering van [7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4a&z=2003-01-01&g=2003-01-01) en[7.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11a&z=2003-01-01&g=2003-01-01), [7.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2003-01-01&g=2003-01-01) en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.42&z=2003-01-01&g=2003-01-01);
 
-- g. van hoofdstuk 8: de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2002-12-17&g=2002-12-17).
+- g. van hoofdstuk 8: de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.3. Verplichtingen van de werknemer
 
-1. Indien op grond van het bepaalde bij of krachtens dit besluit persoonlijke beschermingsmiddelen of hulpmiddelen aan de werknemer ter beschikking zijn gesteld, is de werknemer verplicht die persoonlijk beschermingsmiddelen en hulpmiddelen overeenkomstig de daarvoor geldende voorschriften te gebruiken en zindelijk te houden. De vorige volzin is niet van toepassing op de gevallen, bedoeld in [artikel 6.8, zevende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17).
+1. Indien op grond van het bepaalde bij of krachtens dit besluit persoonlijke beschermingsmiddelen of hulpmiddelen aan de werknemer ter beschikking zijn gesteld, is de werknemer verplicht die persoonlijke beschermingsmiddelen en hulpmiddelen overeenkomstig de daarvoor geldende voorschriften te gebruiken en zindelijk te houden. De vorige volzin is niet van toepassing op de gevallen, bedoeld in [artikel 6.8, zevende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01).
 
 2. Voorts is de werknemer verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 2: [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.22&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 2: [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.22&z=2003-01-01&g=2003-01-01) en [2.42g](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42g&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 3: [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2002-12-17&g=2002-12-17);
+- b. van hoofdstuk 3: [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 4: de [artikelen 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.2b&z=2002-12-17&g=2002-12-17), [4.4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2002-12-17&g=2002-12-17), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2002-12-17&g=2002-12-17), [4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2002-12-17&g=2002-12-17), [4.6a, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2002-12-17&g=2002-12-17), [4.7, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2002-12-17&g=2002-12-17), [4.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2002-12-17&g=2002-12-17), [4.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2002-12-17&g=2002-12-17), [4.19, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2002-12-17&g=2002-12-17), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2002-12-17&g=2002-12-17), [4.39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17), [4.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), [4.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17), [4.46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), [4.47 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2002-12-17&g=2002-12-17), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2002-12-17&g=2002-12-17), [4.54, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2002-12-17&g=2002-12-17), [4.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2002-12-17&g=2002-12-17), [4.58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2002-12-17&g=2002-12-17), [4.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17), [4.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2002-12-17&g=2002-12-17), [4.61, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2002-12-17&g=2002-12-17), [4.78](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2002-12-17&g=2002-12-17), [4.83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=8&artikel=4.83&z=2002-12-17&g=2002-12-17), [4.86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2002-12-17&g=2002-12-17), [4.87, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2002-12-17&g=2002-12-17), [4.89, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.89&z=2002-12-17&g=2002-12-17), [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.108&z=2002-12-17&g=2002-12-17) en [4.109](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.109&z=2002-12-17&g=2002-12-17), alsmede ten aanzien van arbeid met asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2002-12-17&g=2002-12-17), de [artikelen 4.19, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2002-12-17&g=2002-12-17), en [4.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2002-12-17&g=2002-12-17);
+- c. van hoofdstuk 4: de [artikelen 4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.2b&z=2003-01-01&g=2003-01-01), [4.4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2003-01-01&g=2003-01-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2003-01-01&g=2003-01-01), [4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2003-01-01&g=2003-01-01), [4.6a, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01), [4.7, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2003-01-01&g=2003-01-01), [4.8, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2003-01-01&g=2003-01-01), [4.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2003-01-01&g=2003-01-01), [4.19, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2003-01-01&g=2003-01-01), [4.39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01), [4.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), [4.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01), [4.46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), [4.47 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2003-01-01&g=2003-01-01), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01), [4.54, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2003-01-01&g=2003-01-01), [4.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2003-01-01&g=2003-01-01), [4.58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2003-01-01&g=2003-01-01), [4.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01), [4.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2003-01-01&g=2003-01-01), [4.61, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2003-01-01&g=2003-01-01), [4.78](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2003-01-01&g=2003-01-01), [4.83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=8&artikel=4.83&z=2003-01-01&g=2003-01-01), [4.86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2003-01-01&g=2003-01-01), [4.87, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2003-01-01&g=2003-01-01), [4.89, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.89&z=2003-01-01&g=2003-01-01), [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.108&z=2003-01-01&g=2003-01-01) en [4.109](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.109&z=2003-01-01&g=2003-01-01), alsmede ten aanzien van arbeid met asbest of asbesthoudende producten en crocidoliet of crocidoliethoudende producten als bedoeld in [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37&z=2003-01-01&g=2003-01-01), de [artikelen 4.19, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), en [4.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2003-01-01&g=2003-01-01);
 
-- d. van hoofdstuk 6: de [artikelen 6.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2002-12-17&g=2002-12-17), [6.15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2002-12-17&g=2002-12-17), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2002-12-17&g=2002-12-17), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2002-12-17&g=2002-12-17) en [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29&z=2002-12-17&g=2002-12-17);
+- d. van hoofdstuk 6: de [artikelen 6.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2003-01-01&g=2003-01-01), [6.14a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01), [6.15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2003-01-01&g=2003-01-01), [6.16, eerste tot en met derde lid en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), [6.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.18&z=2003-01-01&g=2003-01-01), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2003-01-01&g=2003-01-01), [6.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.20&z=2003-01-01&g=2003-01-01) en [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29&z=2003-01-01&g=2003-01-01);
 
-- e. van hoofdstuk 7: de [artikelen 7.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2002-12-17&g=2002-12-17), [7.13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2002-12-17&g=2002-12-17), [7.17c, tweede, derde, vierde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=1&artikel=7.17&z=2002-12-17&g=2002-12-17), [7.18, tweede, vijfde tot en met zevende lid, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17), wat betreft de toepassing van de vastgestelde procedures, bedoeld in dit lid, [7.18a, tweede lid, derde lid, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2002-12-17&g=2002-12-17), wat betreft de toepassing van de vastgestelde procedure, bedoeld in dit lid, en dertiende lid,[7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2002-12-17&g=2002-12-17), [7.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2002-12-17&g=2002-12-17), [7.22, eerste, tweede en derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.22&z=2002-12-17&g=2002-12-17), [7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2002-12-17&g=2002-12-17), [7.25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2002-12-17&g=2002-12-17), en [7.32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2002-12-17&g=2002-12-17).
+- e. van hoofdstuk 7: de [artikelen 7.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2003-01-01&g=2003-01-01), [7.13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2003-01-01&g=2003-01-01), [7.17c, tweede, derde, vierde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=1&artikel=7.17&z=2003-01-01&g=2003-01-01), [7.18, tweede, vijfde tot en met zevende lid, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01), wat betreft de toepassing van de vastgestelde procedures, bedoeld in dit lid, [7.18a, tweede lid, derde lid, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2003-01-01&g=2003-01-01), wat betreft de toepassing van de vastgestelde procedure, bedoeld in dit lid, en dertiende lid,[7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2003-01-01&g=2003-01-01), [7.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2003-01-01&g=2003-01-01), [7.22, eerste, tweede en derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.22&z=2003-01-01&g=2003-01-01), [7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2003-01-01&g=2003-01-01), [7.25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2003-01-01&g=2003-01-01), en [7.32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2003-01-01&g=2003-01-01).
 
 3. De in dit artikel genoemde verplichtingen voor werknemers zijn niet van toepassing op leerlingen en studenten in onderwijsinrichtingen.
 
@@ -4130,39 +4204,39 @@ De thuiswerkgever is verplicht tot naleving van de voorschriften en verboden wel
 
 De thuiswerker is verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 1: [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.46&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 1: [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.46&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 4: [artikel 4.110](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2002-12-17&g=2002-12-17).
+- b. van hoofdstuk 4: [artikel 4.110](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.5. Verplichtingen van zelfstandigen
 
 Een ieder die werkgever noch werknemer is, is verplicht tot naleving van de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 2: [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.39&z=2002-12-17&g=2002-12-17);
+- a. van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&z=2003-01-01&g=2003-01-01): [artikel 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.39&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 3: de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2002-12-17&g=2002-12-17), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2002-12-17&g=2002-12-17), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.16&z=2002-12-17&g=2002-12-17), [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.39&z=2002-12-17&g=2002-12-17) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2002-12-17&g=2002-12-17);
+- b. van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&z=2003-01-01&g=2003-01-01): de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2003-01-01&g=2003-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2003-01-01&g=2003-01-01), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.16&z=2003-01-01&g=2003-01-01), [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.39&z=2003-01-01&g=2003-01-01) en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 4: de [artikelen 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2002-12-17&g=2002-12-17), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2002-12-17&g=2002-12-17), [4.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2002-12-17&g=2002-12-17), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2002-12-17&g=2002-12-17), [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), [4.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17), [4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), [4.54](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2002-12-17&g=2002-12-17), [4.55](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.55&z=2002-12-17&g=2002-12-17), [4.56, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2002-12-17&g=2002-12-17), [4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2002-12-17&g=2002-12-17), [4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17), [4.60](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2002-12-17&g=2002-12-17), [4.61](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2002-12-17&g=2002-12-17), [4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2002-12-17&g=2002-12-17) en [9.15, onder a, sub 1° tot en met 4°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=3&paragraaf=1&artikel=9.15&z=2002-12-17&g=2002-12-17);
+- c. van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&z=2003-01-01&g=2003-01-01): de [artikelen 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2003-01-01&g=2003-01-01), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2003-01-01&g=2003-01-01), [4.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2003-01-01&g=2003-01-01), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2003-01-01&g=2003-01-01), [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), [4.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01), [4.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), [4.54](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2003-01-01&g=2003-01-01), [4.55](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.55&z=2003-01-01&g=2003-01-01), [4.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2003-01-01&g=2003-01-01), [4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2003-01-01&g=2003-01-01), [4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01), [4.60](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2003-01-01&g=2003-01-01), [4.61](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2003-01-01&g=2003-01-01), [4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2003-01-01&g=2003-01-01) en [9.15, onder a, sub 1° tot en met 4°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=3&paragraaf=1&artikel=9.15&z=2003-01-01&g=2003-01-01);
 
-- d. van hoofdstuk 6: de [artikelen 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2002-12-17&g=2002-12-17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.18&z=2002-12-17&g=2002-12-17), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2002-12-17&g=2002-12-17), en [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.20&z=2002-12-17&g=2002-12-17);
+- d. van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&z=2003-01-01&g=2003-01-01): de [artikelen 6.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01), 6.15a, [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.17&z=2003-01-01&g=2003-01-01), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.18&z=2003-01-01&g=2003-01-01), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2003-01-01&g=2003-01-01), en [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.20&z=2003-01-01&g=2003-01-01);
 
-- e. van hoofdstuk 7: [artikel 7.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2002-12-17&g=2002-12-17), voor zover het betreft landbouwtrekkers die 800 kg of meer wegen, en [artikel 7.32, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2002-12-17&g=2002-12-17).
+- e. van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&z=2003-01-01&g=2003-01-01): [artikel 7.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2003-01-01&g=2003-01-01), voor zover het betreft landbouwtrekkers die 800 kg of meer wegen, en [artikel 7.32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.6. Verplichtingen van de opdrachtgever
 
-De opdrachtgever is verplicht tot naleving van de voorschriften welke zijn opgenomen in de [artikelen 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2002-12-17&g=2002-12-17) en [2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.35&z=2002-12-17&g=2002-12-17).
+De opdrachtgever is verplicht tot naleving van de voorschriften welke zijn opgenomen in de [artikelen 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2003-01-01&g=2003-01-01) en [2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.35&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.7. Verplichtingen van de ontwerpende partij
 
-De ontwerpende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in de [artikelen 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2002-12-17&g=2002-12-17) en [2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.36&z=2002-12-17&g=2002-12-17).
+De ontwerpende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in de [artikelen 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2003-01-01&g=2003-01-01) en [2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.36&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.8. Verplichtingen van de uitvoerende partij
 
-De uitvoerende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in artikel [2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.37&z=2002-12-17&g=2002-12-17).
+De uitvoerende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in artikel [2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.37&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 9.9. Verplichtingen van de lifteigenaar of -beheerder
 
-De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschriften welke zijn opgenomen in [artikel 7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2002-12-17&g=2002-12-17).
+De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschriften welke zijn opgenomen in [artikel 7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2003-01-01&g=2003-01-01).
 
 ### Afdeling 2. Strafbare feiten en beboetbare feiten
 
@@ -4172,13 +4246,15 @@ De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschri
 
 1. Als een strafbaar feit wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften en verboden welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 2: de [artikelen 2.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2b&z=2002-12-17&g=2002-12-17), [2.2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2c&z=2002-12-17&g=2002-12-17), en [2.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2d&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 2: de [artikelen 2.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2b&z=2003-01-01&g=2003-01-01), [2.2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2c&z=2003-01-01&g=2003-01-01), [2.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=2&artikel=2.2d&z=2003-01-01&g=2003-01-01) en [2.42e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42e&z=2003-01-01&g=2003-01-01) en [2.42f, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42f&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 4: de [artikelen 4.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2002-12-17&g=2002-12-17), [4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2002-12-17&g=2002-12-17), [4.36, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=4&artikel=4.36&z=2002-12-17&g=2002-12-17), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2002-12-17&g=2002-12-17), [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2002-12-17&g=2002-12-17), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), [4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2002-12-17&g=2002-12-17), [4.59, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17), [4.60, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2002-12-17&g=2002-12-17), [4.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2002-12-17&g=2002-12-17), [4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2002-12-17&g=2002-12-17), [4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=8&artikel=4.83&z=2002-12-17&g=2002-12-17), [4.105](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&artikel=4.105&z=2002-12-17&g=2002-12-17), [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.108&z=2002-12-17&g=2002-12-17), [4.109](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.109&z=2002-12-17&g=2002-12-17) en [4.110](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2002-12-17&g=2002-12-17);
+- b. van hoofdstuk 3: [3.37v](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37v&z=2003-01-01&g=2003-01-01).
 
-- c. van hoofdstuk 6: de [artikelen 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&artikel=6.27&z=2002-12-17&g=2002-12-17) en [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29&z=2002-12-17&g=2002-12-17);
+- c. van hoofdstuk 4: de [artikelen 4.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2003-01-01&g=2003-01-01), [4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2003-01-01&g=2003-01-01), [4.36, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=4&artikel=4.36&z=2003-01-01&g=2003-01-01), [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.38&z=2003-01-01&g=2003-01-01), [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.39&z=2003-01-01&g=2003-01-01), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), [4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.58&z=2003-01-01&g=2003-01-01), [4.59, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01), [4.60, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2003-01-01&g=2003-01-01), [4.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2003-01-01&g=2003-01-01), [4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.78&z=2003-01-01&g=2003-01-01), [4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=8&artikel=4.83&z=2003-01-01&g=2003-01-01), [4.105](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&artikel=4.105&z=2003-01-01&g=2003-01-01), [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.108&z=2003-01-01&g=2003-01-01), [4.109](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=3&artikel=4.109&z=2003-01-01&g=2003-01-01) en [4.110](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.110&z=2003-01-01&g=2003-01-01);
 
-- d. van de Arbeidsomstandighedenregeling: artikel 4.18, eerste lid.
+- d. van hoofdstuk 6: de [artikelen 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&artikel=6.27&z=2003-01-01&g=2003-01-01) en [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29&z=2003-01-01&g=2003-01-01);
+
+- e. van de Arbeidsomstandighedenregeling: de [artikelen 4.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01) en [6.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29a&z=2003-01-01&g=2003-01-01).
 
 2. Voor zover van de artikelen, bedoeld in het eerste lid, ontheffing onder voorschriften is verleend, wordt de handeling of het nalaten in strijd met die voorschriften mede aangemerkt als een strafbaar feit.
 
@@ -4188,23 +4264,23 @@ De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschri
 
 1. Als beboetbaar feit ter zake waarvan een boete kan worden opgelegd van de eerste categorie, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 1: de [artikelen 1.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.36&z=2002-12-17&g=2002-12-17), [1.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17), [1.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.38&z=2002-12-17&g=2002-12-17), [1.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.41&z=2002-12-17&g=2002-12-17), [1.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.42&z=2002-12-17&g=2002-12-17) en [1.44 tot en met 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.44&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 1: de [artikelen 1.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.36&z=2003-01-01&g=2003-01-01), [1.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01), [1.38](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.38&z=2003-01-01&g=2003-01-01), [1.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.41&z=2003-01-01&g=2003-01-01), [1.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=9&artikel=1.42&z=2003-01-01&g=2003-01-01) en [1.44 tot en met 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=10&artikel=1.44&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 2: de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.17&z=2002-12-17&g=2002-12-17),[2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.18&z=2002-12-17&g=2002-12-17), [2.19, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.19&z=2002-12-17&g=2002-12-17), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.20&z=2002-12-17&g=2002-12-17), [2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.21&z=2002-12-17&g=2002-12-17), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.22&z=2002-12-17&g=2002-12-17), [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.26&z=2002-12-17&g=2002-12-17), [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2002-12-17&g=2002-12-17), [2.28 tot en met 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.28&z=2002-12-17&g=2002-12-17), [2.31, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2002-12-17&g=2002-12-17), [2.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2002-12-17&g=2002-12-17), [2.33 tot en met 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2002-12-17&g=2002-12-17), [2.37, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.37&z=2002-12-17&g=2002-12-17), [2.38, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2002-12-17&g=2002-12-17), [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.41&z=2002-12-17&g=2002-12-17), [2.42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2002-12-17&g=2002-12-17), en [2.43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=7&artikel=2.43&z=2002-12-17&g=2002-12-17);
+- b. van hoofdstuk 2: de [artikelen 3.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.1b&z=2003-01-01&g=2003-01-01)[2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.17&z=2003-01-01&g=2003-01-01),[2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.18&z=2003-01-01&g=2003-01-01), [2.19, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.19&z=2003-01-01&g=2003-01-01), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.20&z=2003-01-01&g=2003-01-01), [2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.21&z=2003-01-01&g=2003-01-01), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=4&artikel=2.22&z=2003-01-01&g=2003-01-01), [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.26&z=2003-01-01&g=2003-01-01), [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.27&z=2003-01-01&g=2003-01-01), [2.28 tot en met 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.28&z=2003-01-01&g=2003-01-01), [2.31, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.31&z=2003-01-01&g=2003-01-01), [2.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=2&artikel=2.32&z=2003-01-01&g=2003-01-01), [2.33 tot en met 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.33&z=2003-01-01&g=2003-01-01), [2.37, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.37&z=2003-01-01&g=2003-01-01), [2.38, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&paragraaf=3&artikel=2.38&z=2003-01-01&g=2003-01-01), [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.41&z=2003-01-01&g=2003-01-01), [2.42, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01), [2.42a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42a&z=2003-01-01&g=2003-01-01), [2.42b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42b&z=2003-01-01&g=2003-01-01), [2.42c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42c&z=2003-01-01&g=2003-01-01), [2.42g](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42g&z=2003-01-01&g=2003-01-01), [2.42h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42h&z=2003-01-01&g=2003-01-01) en [2.43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=7&artikel=2.43&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 3: de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.2&z=2002-12-17&g=2002-12-17), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2002-12-17&g=2002-12-17), [3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2002-12-17&g=2002-12-17), [3.7, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2002-12-17&g=2002-12-17), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.8&z=2002-12-17&g=2002-12-17), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.9&z=2002-12-17&g=2002-12-17), [3.11 tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.11&z=2002-12-17&g=2002-12-17), [3.18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.18&z=2002-12-17&g=2002-12-17), [3.19 tot en met 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.19&z=2002-12-17&g=2002-12-17), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.27&z=2002-12-17&g=2002-12-17), [3.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.28&z=2002-12-17&g=2002-12-17), [3.29, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.29&z=2002-12-17&g=2002-12-17), [3.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.31&z=2002-12-17&g=2002-12-17), [3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.33&z=2002-12-17&g=2002-12-17), [3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.34&z=2002-12-17&g=2002-12-17), [3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.35&z=2002-12-17&g=2002-12-17), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.36&z=2002-12-17&g=2002-12-17), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.37&z=2002-12-17&g=2002-12-17), [3.39, eerste lid, onderdelen a tot en met c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.39&z=2002-12-17&g=2002-12-17), [3.40, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2002-12-17&g=2002-12-17), en [3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&artikel=3.48&z=2002-12-17&g=2002-12-17);
+- c. van hoofdstuk 3: de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.2&z=2003-01-01&g=2003-01-01), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2003-01-01&g=2003-01-01), [3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2003-01-01&g=2003-01-01), [3.7, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2003-01-01&g=2003-01-01), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.8&z=2003-01-01&g=2003-01-01), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.9&z=2003-01-01&g=2003-01-01), [3.11 tot en met 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.11&z=2003-01-01&g=2003-01-01), [3.18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.18&z=2003-01-01&g=2003-01-01), [3.19 tot en met 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.19&z=2003-01-01&g=2003-01-01), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.27&z=2003-01-01&g=2003-01-01), [3.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.28&z=2003-01-01&g=2003-01-01), [3.29, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.29&z=2003-01-01&g=2003-01-01), [3.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.31&z=2003-01-01&g=2003-01-01), [3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.33&z=2003-01-01&g=2003-01-01), [3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.34&z=2003-01-01&g=2003-01-01), [3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.35&z=2003-01-01&g=2003-01-01), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.36&z=2003-01-01&g=2003-01-01), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3A&artikel=3.37&z=2003-01-01&g=2003-01-01), [3.37b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37b&z=2003-01-01&g=2003-01-01), [3.37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37f&z=2003-01-01&g=2003-01-01), [3.37i](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37i&z=2003-01-01&g=2003-01-01), [3.37l, eerste lid, onder b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37l&z=2003-01-01&g=2003-01-01), [3.37s, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37s&z=2003-01-01&g=2003-01-01), [3.37w, eerste lid, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37w&z=2003-01-01&g=2003-01-01), [3.37x](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37x&z=2003-01-01&g=2003-01-01), [3.39, eerste lid, onderdelen a tot en met c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.39&z=2003-01-01&g=2003-01-01), [3.40, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=4&artikel=3.40&z=2003-01-01&g=2003-01-01), en [3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&artikel=3.48&z=2003-01-01&g=2003-01-01);
 
-- d. van hoofdstuk 4: de [artikelen 4.2, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2002-12-17&g=2002-12-17), [4.2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2a&z=2002-12-17&g=2002-12-17), [4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.2b&z=2002-12-17&g=2002-12-17), [4.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3&z=2002-12-17&g=2002-12-17), [4.4, zesde, zevende lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2002-12-17&g=2002-12-17), [4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2002-12-17&g=2002-12-17), [4.6a, eerste, tweede, vierde lid, onder b, d en e, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2002-12-17&g=2002-12-17), [4.7, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2002-12-17&g=2002-12-17), [4.8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2002-12-17&g=2002-12-17), [4.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2002-12-17&g=2002-12-17), [4.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), [4.10a, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2002-12-17&g=2002-12-17), [4.10b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2002-12-17&g=2002-12-17), [4.10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10c&z=2002-12-17&g=2002-12-17), [4.10d, vierde en vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10d&z=2002-12-17&g=2002-12-17), [4.10e, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=6&artikel=4.10e&z=2002-12-17&g=2002-12-17), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.13&z=2002-12-17&g=2002-12-17), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2002-12-17&g=2002-12-17), [4.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2002-12-17&g=2002-12-17), [4.19, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2002-12-17&g=2002-12-17), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2002-12-17&g=2002-12-17), [4.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=4&artikel=4.23&z=2002-12-17&g=2002-12-17), [4.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.49&z=2002-12-17&g=2002-12-17), [4.50, eerste, tweede en vierde lid, en zevende tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.50&z=2002-12-17&g=2002-12-17), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2002-12-17&g=2002-12-17), [4.52, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2002-12-17&g=2002-12-17), [4.53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2002-12-17&g=2002-12-17), [4.54, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2002-12-17&g=2002-12-17), [4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&artikel=4.57&z=2002-12-17&g=2002-12-17), [4.60, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2002-12-17&g=2002-12-17), [4.79](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.79&z=2002-12-17&g=2002-12-17), [4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.80&z=2002-12-17&g=2002-12-17), [4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2002-12-17&g=2002-12-17), [4.86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2002-12-17&g=2002-12-17), [4.88 tot en met 4.90](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.88&z=2002-12-17&g=2002-12-17), [4.91, eerste tot en met derde lid, en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2002-12-17&g=2002-12-17), [4.94, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.94&z=2002-12-17&g=2002-12-17), [4.95 tot en met 4.97](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.95&z=2002-12-17&g=2002-12-17), [4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=9&artikel=4.102&z=2002-12-17&g=2002-12-17), [4.111](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.111&z=2002-12-17&g=2002-12-17), [4.112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.112&z=2002-12-17&g=2002-12-17), en [4.114](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.114&z=2002-12-17&g=2002-12-17);
+- d. van hoofdstuk 4: de [artikelen 4.2, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2&z=2003-01-01&g=2003-01-01), [4.2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=4.2a&z=2003-01-01&g=2003-01-01), [4.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.2b&z=2003-01-01&g=2003-01-01), [4.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3&z=2003-01-01&g=2003-01-01), [4.4, zesde, zevende lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2003-01-01&g=2003-01-01), [4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.5&z=2003-01-01&g=2003-01-01), [4.6a, eerste, tweede, vierde lid, onder b, d en e, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01), [4.7, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2003-01-01&g=2003-01-01), [4.8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8&z=2003-01-01&g=2003-01-01), [4.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2003-01-01&g=2003-01-01), [4.9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), [4.10a, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10a&z=2003-01-01&g=2003-01-01), [4.10b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10b&z=2003-01-01&g=2003-01-01), [4.10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10c&z=2003-01-01&g=2003-01-01), [4.10d, vierde en vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=5&artikel=4.10d&z=2003-01-01&g=2003-01-01), [4.10e, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=6&artikel=4.10e&z=2003-01-01&g=2003-01-01), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.13&z=2003-01-01&g=2003-01-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.15&z=2003-01-01&g=2003-01-01), [4.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01), [4.19, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.20&z=2003-01-01&g=2003-01-01), [4.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=4&artikel=4.23&z=2003-01-01&g=2003-01-01), [4.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.49&z=2003-01-01&g=2003-01-01), [4.50, eerste, tweede en vierde lid, en zevende tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.50&z=2003-01-01&g=2003-01-01), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.51&z=2003-01-01&g=2003-01-01), [4.52, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2003-01-01&g=2003-01-01), [4.53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.53&z=2003-01-01&g=2003-01-01), [4.54, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.54&z=2003-01-01&g=2003-01-01), [4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&artikel=4.57&z=2003-01-01&g=2003-01-01), [4.60, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.60&z=2003-01-01&g=2003-01-01), [4.79](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.79&z=2003-01-01&g=2003-01-01), [4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=7&artikel=4.80&z=2003-01-01&g=2003-01-01), [4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.85&z=2003-01-01&g=2003-01-01), [4.86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=2&artikel=4.86&z=2003-01-01&g=2003-01-01), [4.88 tot en met 4.90](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.88&z=2003-01-01&g=2003-01-01), [4.91, eerste tot en met derde lid, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2003-01-01&g=2003-01-01), [4.94, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.94&z=2003-01-01&g=2003-01-01), [4.95 tot en met 4.97](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=6&artikel=4.95&z=2003-01-01&g=2003-01-01), [4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=9&artikel=4.102&z=2003-01-01&g=2003-01-01), [4.111](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.111&z=2003-01-01&g=2003-01-01), [4.112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.112&z=2003-01-01&g=2003-01-01), en [4.114](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.114&z=2003-01-01&g=2003-01-01);
 
-- e. van hoofdstuk 5: de [artikelen 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.3&z=2002-12-17&g=2002-12-17), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.4&z=2002-12-17&g=2002-12-17), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.5&z=2002-12-17&g=2002-12-17), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.9&z=2002-12-17&g=2002-12-17), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.10&z=2002-12-17&g=2002-12-17), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.11&z=2002-12-17&g=2002-12-17) en [5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.15&z=2002-12-17&g=2002-12-17);
+- e. van hoofdstuk 5: de [artikelen 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.2&z=2003-01-01&g=2003-01-01)[5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.3&z=2003-01-01&g=2003-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.4&z=2003-01-01&g=2003-01-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.5&z=2003-01-01&g=2003-01-01), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.9&z=2003-01-01&g=2003-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.10&z=2003-01-01&g=2003-01-01), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=2&artikel=5.11&z=2003-01-01&g=2003-01-01) en [5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.15&z=2003-01-01&g=2003-01-01);
 
-- f. van hoofdstuk 6: de [artikelen 6.1 tot en met 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.1&z=2002-12-17&g=2002-12-17), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.4&z=2002-12-17&g=2002-12-17), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.5&z=2002-12-17&g=2002-12-17), [6.7, eerste tot en met derde lid, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.7&z=2002-12-17&g=2002-12-17), [6.8, vierde lid, en achtste tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), [6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.9&z=2002-12-17&g=2002-12-17), [6.10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.10&z=2002-12-17&g=2002-12-17), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.11&z=2002-12-17&g=2002-12-17), 6.12, vijfde lid, [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2002-12-17&g=2002-12-17), [6.15, eerste lid, onderdelen a en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2002-12-17&g=2002-12-17), [6.16, tweede, derde, en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2002-12-17&g=2002-12-17), [6.19, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2002-12-17&g=2002-12-17), [6.23, vierde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=1&artikel=6.23&z=2002-12-17&g=2002-12-17), en [6.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=5&artikel=6.30&z=2002-12-17&g=2002-12-17);
+- f. van hoofdstuk 6: de artikelen [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.1&z=2003-01-01&g=2003-01-01), [6.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.2&z=2003-01-01&g=2003-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.3&z=2003-01-01&g=2003-01-01), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.4&z=2003-01-01&g=2003-01-01), [6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.5&z=2003-01-01&g=2003-01-01), [6.7, eerste tot en met derde lid, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.7&z=2003-01-01&g=2003-01-01), [6.8, vierde lid, en achtste tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), [6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.9&z=2003-01-01&g=2003-01-01), [6.10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.10&z=2003-01-01&g=2003-01-01), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.11&z=2003-01-01&g=2003-01-01), [6.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=4&artikel=6.12&z=2003-01-01&g=2003-01-01), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14&z=2003-01-01&g=2003-01-01), [6.14a, eerste tot en met derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01), [6.15, eerste lid, onderdelen a en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2003-01-01&g=2003-01-01), [6.15a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15a&z=2003-01-01&g=2003-01-01), [6.16, derde, en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), [6.17, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.17&z=2003-01-01&g=2003-01-01), [6.19, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2003-01-01&g=2003-01-01), [6.20b, derde lid, onder b en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5A&artikel=6.20b&z=2003-01-01&g=2003-01-01), [6.23, vierde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=1&artikel=6.23&z=2003-01-01&g=2003-01-01), en [6.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=5&artikel=6.30&z=2003-01-01&g=2003-01-01);
 
-- g. van hoofdstuk 7: de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.3&z=2002-12-17&g=2002-12-17), [7.4a, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4a&z=2002-12-17&g=2002-12-17), [7.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2002-12-17&g=2002-12-17),[7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.6&z=2002-12-17&g=2002-12-17), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.8&z=2002-12-17&g=2002-12-17), [7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.10&z=2002-12-17&g=2002-12-17), [7.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11a&z=2002-12-17&g=2002-12-17), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2002-12-17&g=2002-12-17), [7.17a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2002-12-17&g=2002-12-17), [7.17b, tweede lid, onderdelen a, b en g, en derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2002-12-17&g=2002-12-17), [7.17c, eerste, vijfde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17c&z=2002-12-17&g=2002-12-17), [7.17d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17d&z=2002-12-17&g=2002-12-17), [7.18, eerste, derde, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17), [7.18a, vierde tot en met tiende lid, en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2002-12-17&g=2002-12-17), [7.18b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2002-12-17&g=2002-12-17), [7.19, eerste en tweede lid, vierde tot en met achtste lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.19&z=2002-12-17&g=2002-12-17), [7.20, tweede en derde lid, en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2002-12-17&g=2002-12-17), [7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2002-12-17&g=2002-12-17), [7.25, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2002-12-17&g=2002-12-17), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.27&z=2002-12-17&g=2002-12-17), [7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.28&z=2002-12-17&g=2002-12-17), [7.29, tweede tot en met achtste lid, en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.29&z=2002-12-17&g=2002-12-17), [7.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.30&z=2002-12-17&g=2002-12-17), [7.32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2002-12-17&g=2002-12-17), [7.34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.34&z=2002-12-17&g=2002-12-17), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.35&z=2002-12-17&g=2002-12-17), [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.36&z=2002-12-17&g=2002-12-17) en [7.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2002-12-17&g=2002-12-17);
+- g. van hoofdstuk 7: de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.3&z=2003-01-01&g=2003-01-01), [7.4a, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4a&z=2003-01-01&g=2003-01-01), [7.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2003-01-01&g=2003-01-01),[7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.6&z=2003-01-01&g=2003-01-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.8&z=2003-01-01&g=2003-01-01), [7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.10&z=2003-01-01&g=2003-01-01), [7.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11a&z=2003-01-01&g=2003-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.13&z=2003-01-01&g=2003-01-01), [7.17a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2003-01-01&g=2003-01-01), [7.17b, tweede lid, onderdelen a, b en g, en derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2003-01-01&g=2003-01-01), [7.17c, eerste, vijfde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17c&z=2003-01-01&g=2003-01-01), [7.17d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17d&z=2003-01-01&g=2003-01-01), [7.18, eerste, derde, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01), [7.18a, vierde tot en met tiende lid, en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2003-01-01&g=2003-01-01), [7.18b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2003-01-01&g=2003-01-01), [7.19, eerste en tweede lid, vierde tot en met achtste lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.19&z=2003-01-01&g=2003-01-01), [7.20, tweede en derde lid, en vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2003-01-01&g=2003-01-01), [7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2003-01-01&g=2003-01-01), [7.25, eerste tot en met vijfde lid, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2003-01-01&g=2003-01-01), [7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.27&z=2003-01-01&g=2003-01-01), [7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.28&z=2003-01-01&g=2003-01-01), [7.29, tweede tot en met achtste lid, en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.29&z=2003-01-01&g=2003-01-01), [7.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.30&z=2003-01-01&g=2003-01-01), [7.32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2003-01-01&g=2003-01-01), [7.34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.34&z=2003-01-01&g=2003-01-01), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.35&z=2003-01-01&g=2003-01-01), [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.36&z=2003-01-01&g=2003-01-01), [7.36b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5A&artikel=7.36b&z=2003-01-01&g=2003-01-01), [7.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2003-01-01&g=2003-01-01), en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.42&z=2003-01-01&g=2003-01-01);
 
-- h. van hoofdstuk 8: de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2002-12-17&g=2002-12-17) en [8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&artikel=8.4&z=2002-12-17&g=2002-12-17);
+- h. van hoofdstuk 8: de [artikelen 8.1 tot en met 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=1&artikel=8.1&z=2003-01-01&g=2003-01-01) en [8.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=8&afdeling=2&artikel=8.4&z=2003-01-01&g=2003-01-01);
 
-- i. van hoofdstuk 9: [artikel 9.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=4&paragraaf=3&artikel=9.36&z=2002-12-17&g=2002-12-17);
+- i. van hoofdstuk 9: [artikel 9.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=4&paragraaf=3&artikel=9.36&z=2003-01-01&g=2003-01-01);
 
 - j. van de Arbeidsomstandighedenregeling: de artikelen 4.4, vierde lid, 4.5, 4.9, derde lid, 4.13, 4.19, tweede lid, 4.20, tweede lid, 4.20a, 4.21b, eerste, derde, vierde en vijfde lid, 4.22 tot en met 4.26, 5.1 tot en met 5.3, 8.2, 8.3, 8.4, derde lid, 8.5 tot en met 8.11, 8.12, eerste en tweede lid, 8.13 tot en met 8.29.
 
@@ -4214,19 +4290,21 @@ De eigenaar of beheerder van een lift is verplicht tot naleving van de voorschri
 
 1. Als beboetbaar feit ter zake waarvan een boete kan worden opgelegd van de tweede categorie, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de volgende artikelen:
 
-- a. van hoofdstuk 1: [artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2002-12-17&g=2002-12-17);
+- a. van hoofdstuk 1: [artikel 1.37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=1&afdeling=8&artikel=1.37&z=2003-01-01&g=2003-01-01);
 
-- b. van hoofdstuk 3: de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.3&z=2002-12-17&g=2002-12-17), [3.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2002-12-17&g=2002-12-17), [3.5, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2002-12-17&g=2002-12-17), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.6&z=2002-12-17&g=2002-12-17), [3.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2002-12-17&g=2002-12-17), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.10&z=2002-12-17&g=2002-12-17), [3.16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.16&z=2002-12-17&g=2002-12-17), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.17&z=2002-12-17&g=2002-12-17), [3.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.18&z=2002-12-17&g=2002-12-17), [3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.28&z=2002-12-17&g=2002-12-17), [3.29, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.29&z=2002-12-17&g=2002-12-17), [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.30&z=2002-12-17&g=2002-12-17), [3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.31&z=2002-12-17&g=2002-12-17), [3.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.34&z=2002-12-17&g=2002-12-17), [3.35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.35&z=2002-12-17&g=2002-12-17), en [3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=4&artikel=3.46&z=2002-12-17&g=2002-12-17);
+- b. van hoofdstuk 2: [artikel 2.42, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01) en [2.42f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42f&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 4: de [artikelen 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2002-12-17&g=2002-12-17), [4.4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2002-12-17&g=2002-12-17), [4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2002-12-17&g=2002-12-17), [4.6a, derde en vierde lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2002-12-17&g=2002-12-17), [4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2002-12-17&g=2002-12-17), [4.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2002-12-17&g=2002-12-17), [4.8b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2002-12-17&g=2002-12-17), [4.9, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.10&z=2002-12-17&g=2002-12-17), [4.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2002-12-17&g=2002-12-17), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2002-12-17&g=2002-12-17), [4.18, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2002-12-17&g=2002-12-17), [4.19, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2002-12-17&g=2002-12-17), [4.36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=4&artikel=4.36&z=2002-12-17&g=2002-12-17), [4.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2002-12-17&g=2002-12-17), [4.46, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2002-12-17&g=2002-12-17), [4.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2002-12-17&g=2002-12-17), [4.52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2002-12-17&g=2002-12-17), [4.55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.55&z=2002-12-17&g=2002-12-17), [4.56, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2002-12-17&g=2002-12-17), [4.61, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2002-12-17&g=2002-12-17), [4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2002-12-17&g=2002-12-17), [4.87, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2002-12-17&g=2002-12-17), [4.91, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2002-12-17&g=2002-12-17), [4.98](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=7&artikel=4.98&z=2002-12-17&g=2002-12-17), [4.99](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.99&z=2002-12-17&g=2002-12-17), [4.100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.100&z=2002-12-17&g=2002-12-17), [4.101](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.101&z=2002-12-17&g=2002-12-17), [4.106](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&artikel=4.106&z=2002-12-17&g=2002-12-17), [4.113](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.113&z=2002-12-17&g=2002-12-17) en [4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.115&z=2002-12-17&g=2002-12-17);
+- c. Abusievelijk is door Stb. 2000/211 onderdeel a. i.p.v. c gewijzigd.van hoofdstuk 3: de [artikelen 3.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.1b&z=2003-01-01&g=2003-01-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.3&z=2003-01-01&g=2003-01-01), [3.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2003-01-01&g=2003-01-01), [3.5, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.5&z=2003-01-01&g=2003-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.6&z=2003-01-01&g=2003-01-01), [3.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2003-01-01&g=2003-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.10&z=2003-01-01&g=2003-01-01), [3.16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.16&z=2003-01-01&g=2003-01-01), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.17&z=2003-01-01&g=2003-01-01), [3.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.18&z=2003-01-01&g=2003-01-01), [3.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.28&z=2003-01-01&g=2003-01-01), [3.29, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.29&z=2003-01-01&g=2003-01-01), [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.30&z=2003-01-01&g=2003-01-01), [3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&artikel=3.31&z=2003-01-01&g=2003-01-01), [3.34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.34&z=2003-01-01&g=2003-01-01), [3.35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.35&z=2003-01-01&g=2003-01-01), [3.37c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37c&z=2003-01-01&g=2003-01-01), [3.37d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37d&z=2003-01-01&g=2003-01-01), [3.37e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37e&z=2003-01-01&g=2003-01-01), [3.37f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37f&z=2003-01-01&g=2003-01-01), [3.37g](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37g&z=2003-01-01&g=2003-01-01), [3.37h](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&artikel=3.37h&z=2003-01-01&g=2003-01-01), [3.37k](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37k&z=2003-01-01&g=2003-01-01), [3.37l, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37l&z=2003-01-01&g=2003-01-01), [3.37m](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37m&z=2003-01-01&g=2003-01-01), [3.37n](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37n&z=2003-01-01&g=2003-01-01), [3.37p](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37p&z=2003-01-01&g=2003-01-01), [3.37q, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37q&z=2003-01-01&g=2003-01-01), [3.37r](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37r&z=2003-01-01&g=2003-01-01), [3.37s, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37s&z=2003-01-01&g=2003-01-01), [3.37t](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37t&z=2003-01-01&g=2003-01-01), [3.37u](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37u&z=2003-01-01&g=2003-01-01), [3.37w, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37w&z=2003-01-01&g=2003-01-01), en [3.37y](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37y&z=2003-01-01&g=2003-01-01) en [3.46](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=4&artikel=3.46&z=2003-01-01&g=2003-01-01);
 
-- d. van hoofdstuk 5 : de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.2&z=2002-12-17&g=2002-12-17) en [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.3&z=2002-12-17&g=2002-12-17);
+- d. van hoofdstuk 4: de [artikelen 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.3a&z=2003-01-01&g=2003-01-01), [4.4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.4&z=2003-01-01&g=2003-01-01), [4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6&z=2003-01-01&g=2003-01-01), [4.6a, derde en vierde lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.6a&z=2003-01-01&g=2003-01-01), [4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.7&z=2003-01-01&g=2003-01-01), [4.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2003-01-01&g=2003-01-01), [4.8b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=3&artikel=4.8a&z=2003-01-01&g=2003-01-01), [4.9, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.10&z=2003-01-01&g=2003-01-01), [4.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.16&z=2003-01-01&g=2003-01-01), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.17&z=2003-01-01&g=2003-01-01), [4.18, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.18&z=2003-01-01&g=2003-01-01), [4.19, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=4.19&z=2003-01-01&g=2003-01-01), [4.36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=4&artikel=4.36&z=2003-01-01&g=2003-01-01), [4.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.45&z=2003-01-01&g=2003-01-01), [4.46, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.46&z=2003-01-01&g=2003-01-01), [4.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&artikel=4.47&z=2003-01-01&g=2003-01-01), [4.52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.52&z=2003-01-01&g=2003-01-01), [4.55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=5&artikel=4.55&z=2003-01-01&g=2003-01-01), [4.56, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=6&artikel=4.56&z=2003-01-01&g=2003-01-01), [4.61, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.61&z=2003-01-01&g=2003-01-01), [4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2003-01-01&g=2003-01-01), [4.87, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=3&artikel=4.87&z=2003-01-01&g=2003-01-01), [4.91, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=4&artikel=4.91&z=2003-01-01&g=2003-01-01), [4.98](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=7&artikel=4.98&z=2003-01-01&g=2003-01-01), [4.99](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.99&z=2003-01-01&g=2003-01-01), [4.100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.100&z=2003-01-01&g=2003-01-01), [4.101](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=9&paragraaf=8&artikel=4.101&z=2003-01-01&g=2003-01-01), [4.106](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=2&artikel=4.106&z=2003-01-01&g=2003-01-01), [4.113](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.113&z=2003-01-01&g=2003-01-01) en [4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=10&paragraaf=4&artikel=4.115&z=2003-01-01&g=2003-01-01);
 
-- e. van hoofdstuk 6: de [artikelen 6.8, eerste tot en met derde lid, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), [6.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.9&z=2002-12-17&g=2002-12-17), [6.12, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=4&artikel=6.12&z=2002-12-17&g=2002-12-17), [6.15, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2002-12-17&g=2002-12-17), [6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2002-12-17&g=2002-12-17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.18&z=2002-12-17&g=2002-12-17), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2002-12-17&g=2002-12-17), [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.20&z=2002-12-17&g=2002-12-17) en [6.23, eerste tot en met derde lid, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=1&artikel=6.23&z=2002-12-17&g=2002-12-17);
+- e. van hoofdstuk 5 : de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.2&z=2003-01-01&g=2003-01-01) en [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=5&afdeling=1&artikel=5.3&z=2003-01-01&g=2003-01-01);
 
-- f. van hoofdstuk 7: de [artikelen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2002-12-17&g=2002-12-17), [7.5, eerste tot en met derde lid, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2002-12-17&g=2002-12-17), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.7&z=2002-12-17&g=2002-12-17), [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.9&z=2002-12-17&g=2002-12-17), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11&z=2002-12-17&g=2002-12-17), [7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.14&z=2002-12-17&g=2002-12-17), [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.15&z=2002-12-17&g=2002-12-17), [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.16&z=2002-12-17&g=2002-12-17), [7.17a, eerste en tweede lid, en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2002-12-17&g=2002-12-17), [7.17b, tweede lid, onderdelen c, d, e en f, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2002-12-17&g=2002-12-17), [7.17c, tweede tot en met vierde lid, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17c&z=2002-12-17&g=2002-12-17), [7.18, tweede lid, en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17), [7.18a, tweede, derde, elfde en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2002-12-17&g=2002-12-17), [7.18b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2002-12-17&g=2002-12-17), [7.20, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2002-12-17&g=2002-12-17), [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2002-12-17&g=2002-12-17), [7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.22&z=2002-12-17&g=2002-12-17), [7.25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2002-12-17&g=2002-12-17), [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.26&z=2002-12-17&g=2002-12-17), [7.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.27&z=2002-12-17&g=2002-12-17), [7.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.33&z=2002-12-17&g=2002-12-17), [7.34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.34&z=2002-12-17&g=2002-12-17), [7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&artikel=7.39&z=2002-12-17&g=2002-12-17), [7.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2002-12-17&g=2002-12-17), en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.42&z=2002-12-17&g=2002-12-17);
+- f. van hoofdstuk 6: de [artikelen 6.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&artikel=6.2&z=2003-01-01&g=2003-01-01), [6.8, eerste tot en met derde lid, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), [6.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.9&z=2003-01-01&g=2003-01-01), [6.12, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=4&artikel=6.12&z=2003-01-01&g=2003-01-01), [6.15, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15&z=2003-01-01&g=2003-01-01), [6.15a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.15a&z=2003-01-01&g=2003-01-01), [6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), [6.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.18&z=2003-01-01&g=2003-01-01), [6.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.19&z=2003-01-01&g=2003-01-01), [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.20&z=2003-01-01&g=2003-01-01), [6.20b, eerste, tweede en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5A&artikel=6.20b&z=2003-01-01&g=2003-01-01), [6.20c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5A&artikel=6.20c&z=2003-01-01&g=2003-01-01), [6.20e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5B&artikel=6.20e&z=2003-01-01&g=2003-01-01) en [6.23, eerste tot en met derde lid, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=1&artikel=6.23&z=2003-01-01&g=2003-01-01);
 
-- g. van de Arbeidsomstandighedenregeling: de artikelen 4.3, 4.4, eerste tot en met derde lid, 4.6, eerste en tweede lid, 4.7, 4.9, eerste en tweede lid, 4.11, 4.12 en 4.30, zevende lid.
+- g. van hoofdstuk 7: de [artikelen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.4&z=2003-01-01&g=2003-01-01), [7.5, eerste tot en met derde lid, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.5&z=2003-01-01&g=2003-01-01), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.7&z=2003-01-01&g=2003-01-01), [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.9&z=2003-01-01&g=2003-01-01), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&artikel=7.11&z=2003-01-01&g=2003-01-01), [7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.14&z=2003-01-01&g=2003-01-01), [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.15&z=2003-01-01&g=2003-01-01), [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.16&z=2003-01-01&g=2003-01-01), [7.17a, eerste en tweede lid, en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2003-01-01&g=2003-01-01), [7.17b, tweede lid, onderdelen c, d, e en f, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2003-01-01&g=2003-01-01), [7.17c, tweede tot en met vierde lid, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17c&z=2003-01-01&g=2003-01-01), [7.18, tweede lid, en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01), [7.18a, tweede, derde, elfde en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18a&z=2003-01-01&g=2003-01-01), [7.18b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2003-01-01&g=2003-01-01), [7.20, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2003-01-01&g=2003-01-01), [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2003-01-01&g=2003-01-01), [7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.22&z=2003-01-01&g=2003-01-01), [7.25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.25&z=2003-01-01&g=2003-01-01), [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.26&z=2003-01-01&g=2003-01-01), [7.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.27&z=2003-01-01&g=2003-01-01), [7.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.33&z=2003-01-01&g=2003-01-01), [7.34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.34&z=2003-01-01&g=2003-01-01), [7.36b, eerste tot en met derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5A&artikel=7.36b&z=2003-01-01&g=2003-01-01), [7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&artikel=7.39&z=2003-01-01&g=2003-01-01), [7.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=3&artikel=7.41&z=2003-01-01&g=2003-01-01);
+
+- h. van de Arbeidsomstandighedenregeling: de artikelen 4.3, 4.4, eerste tot en met derde lid, 4.6, eerste en tweede lid, 4.7, 4.9, eerste en tweede lid, 4.11, 4.12 en 4.30, zevende lid.
 
 2. Voor zover van de artikelen, bedoeld in het eerste lid, ontheffing onder voorschriften is verleend, wordt de handeling of het nalaten in strijd met die voorschriften mede aangemerkt als beboetbaar feit ter zake waarvan een boete van de tweede categorie kan worden opgelegd.
 
@@ -4240,17 +4318,17 @@ Vervallen
 
 ##### Artikel 9.11. Vrijstelling of ontheffing asbestverbod
 
-1. Vrijstelling of ontheffing van [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), kan uitsluitend worden verleend in gevallen waarin het niet mogelijk is om andere, minder schadelijke of onschadelijke stoffen of producten te verwerken dan asbest of asbesthoudende producten.
+1. Vrijstelling of ontheffing van [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), kan uitsluitend worden verleend in gevallen waarin het niet mogelijk is om andere, minder schadelijke of onschadelijke stoffen of producten te verwerken dan asbest of asbesthoudende producten.
 
-2. Vrijstelling of ontheffing van [artikel 4.41, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), kan uitsluitend worden verleend in gevallen waarin een vrijstelling of een ontheffing van [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), wordt verleend.
+2. Vrijstelling of ontheffing van [artikel 4.41, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), kan uitsluitend worden verleend in gevallen waarin een vrijstelling of een ontheffing van [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), wordt verleend.
 
 ##### Artikel 9.12. Vrijstelling asbestverbod
 
-Op werkzaamheden waarvoor vrijstelling is verleend van [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2002-12-17&g=2002-12-17), de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2002-12-17&g=2002-12-17), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2002-12-17&g=2002-12-17) en [7 van afdeling 5 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&z=2002-12-17&g=2002-12-17) van toepassing.
+Op werkzaamheden waarvoor vrijstelling is verleend van [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2003-01-01&g=2003-01-01), de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01) en [7 van afdeling 5 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&z=2003-01-01&g=2003-01-01) van toepassing.
 
 ##### Artikel 9.13. Ontheffing asbestverbod
 
-1. Bij een verzoek om ontheffing van [artikel 4.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), worden in ieder geval de volgende gegevens overgelegd aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24):
+1. Bij een verzoek om ontheffing van [artikel 4.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), worden in ieder geval de volgende gegevens overgelegd aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24):
 
 - a. de soorten asbest of asbesthoudende producten alsmede de hoeveelheden van ieder van deze soorten of producten die zullen worden verwerkt en bewerkt;
 
@@ -4258,11 +4336,11 @@ Op werkzaamheden waarvoor vrijstelling is verleend van [artikel 4.41](https://we
 
 2. Indien het verzoek om ontheffing betrekking heeft op het verwerken en bewerken van asbest of asbesthoudende producten ten behoeve van het vervaardigen van bepaalde producten, wordt bij het verzoek tevens het gegeven overgelegd welke producten vervaardigd zullen worden.
 
-3. Op werkzaamheden waarvoor ontheffing is verleend van [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2002-12-17&g=2002-12-17), zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2002-12-17&g=2002-12-17), de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2002-12-17&g=2002-12-17), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2002-12-17&g=2002-12-17), met uitzondering van [artikel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.49&z=2002-12-17&g=2002-12-17), en [7 van afdeling 5 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&z=2002-12-17&g=2002-12-17) van toepassing.
+3. Op werkzaamheden waarvoor ontheffing is verleend van [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=2&artikel=4.41&z=2003-01-01&g=2003-01-01), zijn, met inachtneming van [artikel 4.37a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=1&artikel=4.37a&z=2003-01-01&g=2003-01-01), de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01), met uitzondering van [artikel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=4&artikel=4.49&z=2003-01-01&g=2003-01-01), en [7 van afdeling 5 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=5&paragraaf=7&z=2003-01-01&g=2003-01-01) van toepassing.
 
 ##### Artikel 9.14. Vrijstelling of ontheffing specifieke stoffenverbod
 
-Vrijstelling of ontheffing van het in [artikel 4.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17), vervatte verbod kan slechts verleend worden voor:
+Vrijstelling of ontheffing van het in [artikel 4.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01), vervatte verbod kan slechts verleend worden voor:
 
 - a. het gebruik van de stoffen voor onderzoek en proeven, met inbegrip van analyse;
 
@@ -4272,7 +4350,7 @@ Vrijstelling of ontheffing van het in [artikel 4.59, eerste lid](https://wetten.
 
 ##### Artikel 9.15. Vrijstelling specifieke stoffenverbod
 
-In gevallen waarin van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17) vervatte verboden vrijstelling is verleend worden:
+In gevallen waarin van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01) vervatte verboden vrijstelling is verleend worden:
 
 - a. indien het voornemen bestaat om een in de vrijstelling genoemde stof te vervaardigen, te gebruiken of in voorraad te houden, aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24)schriftelijk de volgende gegevens gemeld:
 
@@ -4298,35 +4376,35 @@ In gevallen waarin van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 9.16. Ontheffing specifieke stoffenverbod
 
-1. Bij een verzoek om ontheffing van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17) vervatte verboden wordt de reden van het verzoek gegeven en worden de in [artikel 9.15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=3&paragraaf=1&artikel=9.15&z=2002-12-17&g=2002-12-17), bedoelde gegevens overlegd.
+1. Bij een verzoek om ontheffing van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01) vervatte verboden wordt de reden van het verzoek gegeven en worden de in [artikel 9.15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=9&afdeling=3&paragraaf=1&artikel=9.15&z=2003-01-01&g=2003-01-01), bedoelde gegevens overlegd.
 
-2. In gevallen waarin van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2002-12-17&g=2002-12-17) vervatte verboden ontheffing is verleend, wordt de ondernemingsraad of de personeelsvertegenwoordiging of worden, bij het ontbreken daarvan, de belanghebbende werknemers, doeltreffend schriftelijk ingelicht over de gevaren voor de gezondheid en de veiligheid die aan de stof zijn verbonden en de werkzaamheden die daarmee zullen worden verricht alsmede over de maatregelen die ter voorkoming van die gevaren worden genomen.
+2. In gevallen waarin van de in [artikel 4.59](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6&artikel=4.59&z=2003-01-01&g=2003-01-01) vervatte verboden ontheffing is verleend, wordt de ondernemingsraad of de personeelsvertegenwoordiging of worden, bij het ontbreken daarvan, de belanghebbende werknemers, doeltreffend schriftelijk ingelicht over de gevaren voor de gezondheid en de veiligheid die aan de stof zijn verbonden en de werkzaamheden die daarmee zullen worden verricht alsmede over de maatregelen die ter voorkoming van die gevaren worden genomen.
 
 ##### Artikel 9.16a. Vrijstelling of ontheffing vervangingsplicht vluchtige organische stoffen
 
-1. Vrijstelling of ontheffing van [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2002-12-17&g=2002-12-17) kan uitsluitend worden verleend in gevallen waarin het technisch niet uitvoerbaar is om onschadelijke of minder schadelijke stoffen of producten te gebruiken dan vluchtige organische stoffen of producten die deze stoffen bevatten.
+1. Vrijstelling of ontheffing van [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2003-01-01&g=2003-01-01) kan uitsluitend worden verleend in gevallen waarin het technisch niet uitvoerbaar is om onschadelijke of minder schadelijke stoffen of producten te gebruiken dan vluchtige organische stoffen of producten die deze stoffen bevatten.
 
-2. Op werkzaamheden waarvoor vrijstelling of ontheffing is verleend van [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2002-12-17&g=2002-12-17), is, in afwijking van [artikel 4.1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.1a&z=2002-12-17&g=2002-12-17), [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2002-12-17&g=2002-12-17) van toepassing.
+2. Op werkzaamheden waarvoor vrijstelling of ontheffing is verleend van [artikel 4.62b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=6A&artikel=4.62b&z=2003-01-01&g=2003-01-01), is, in afwijking van [artikel 4.1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=4.1a&z=2003-01-01&g=2003-01-01), [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=4&afdeling=1&paragraaf=4&artikel=4.9&z=2003-01-01&g=2003-01-01) van toepassing.
 
 ##### Artikel 9.17. Vrijstelling of ontheffing geluidvoorschriften
 
-1. Vrijstelling of ontheffing van [artikel 6.8, zevende lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), kan uitsluitend worden verleend in gevallen waarin het redelijkerwijs niet mogelijk is om de blootstelling van werknemers te beperken tot het in [artikel 6.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), genoemde equivalente geluidsniveau en het technisch niet mogelijk is dat de persoonlijke beschermingsmiddelen een demping van het geluid bieden tot beneden het in [artikel 6.8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), genoemde equivalente geluidsniveau.
+1. Vrijstelling of ontheffing van [artikel 6.8, zevende lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), kan uitsluitend worden verleend in gevallen waarin het redelijkerwijs niet mogelijk is om de blootstelling van werknemers te beperken tot het in [artikel 6.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), genoemde equivalente geluidsniveau en het technisch niet mogelijk is dat de persoonlijke beschermingsmiddelen een demping van het geluid bieden tot beneden het in [artikel 6.8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), genoemde equivalente geluidsniveau.
 
 2. Aan een vrijstelling of ontheffing als bedoeld in het eerste lid, wordt in ieder geval het voorschrift verbonden dat de persoonlijke beschermingsmiddelen een demping bieden tot een zo laag mogelijk geluidsniveau.
 
-3. Vrijstelling of ontheffing van [artikel 6.8, zevende lid, eerste volzin, en negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2002-12-17&g=2002-12-17), kan uitsluitend worden verleend in gevallen waarin door werknemers bijzondere taken worden uitgevoerd en in verband met het uitvoeren van deze taken het gebruik van de persoonlijke beschermingsmiddelen een verzwaring van het totale gevaar voor de veiligheid en de gezondheid van de betrokken werknemers met zich brengt en dit gevaar redelijkerwijs niet door doeltreffende maatregelen kan worden beperkt.
+3. Vrijstelling of ontheffing van [artikel 6.8, zevende lid, eerste volzin, en negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), kan uitsluitend worden verleend in gevallen waarin door werknemers bijzondere taken worden uitgevoerd en in verband met het uitvoeren van deze taken het gebruik van de persoonlijke beschermingsmiddelen een verzwaring van het totale gevaar voor de veiligheid en de gezondheid van de betrokken werknemers met zich brengt en dit gevaar redelijkerwijs niet door doeltreffende maatregelen kan worden beperkt.
 
 4. Aan vrijstellingen of ontheffingen, bedoeld in dit artikel, worden voorschriften verbonden om de duur en de mate van de blootstelling van de betrokken werknemers aan schadelijk geluid zoveel mogelijk te beperken.
 
 ##### Artikel 9.18. Vrijstelling of ontheffing laden en lossen van schepen
 
-1. Vrijstelling of ontheffing van de [artikelen 7.24 tot en met 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2002-12-17&g=2002-12-17) kan uitsluitend worden verleend:
+1. Vrijstelling of ontheffing van de [artikelen 7.24 tot en met 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.24&z=2003-01-01&g=2003-01-01) kan uitsluitend worden verleend:
 
 - a. ten aanzien van plaatsen waar het verkeer onregelmatig is;
 
 - b. ten aanzien van binnenvaartuigen met een lengte van minder dan 55 meter, zeeschepen kleiner dan 500 GT of vissersvaartuigen als bedoeld in [artikel 1 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1).
 
-2. Vrijstelling of ontheffing van [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.29&z=2002-12-17&g=2002-12-17) kan uitsluitend worden verleend:
+2. Vrijstelling of ontheffing van [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=3&artikel=7.29&z=2003-01-01&g=2003-01-01) kan uitsluitend worden verleend:
 
 - a. ten aanzien van plaatsen waar het verkeer onregelmatig is;
 
@@ -4338,17 +4416,17 @@ Geen vrijstelling of ontheffing wordt verleend van de voorschriften en verboden,
 
 - a. van hoofdstuk 1: de artikelen van de afdelingen 8 en 9;
 
-- b. van hoofdstuk 2: de artikelen van de afdelingen 5 en 6;
+- b. van hoofdstuk 2: de artikelen van de [afdelingen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=5&z=2003-01-01&g=2003-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&z=2003-01-01&g=2003-01-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&z=2003-01-01&g=2003-01-01);
 
-- c. van hoofdstuk 3: de artikelen van de afdelingen 2 en 3 en de paragrafen 4 en 5 van afdeling 5;
+- c. van hoofdstuk 3: [artikel 3.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.1b&z=2003-01-01&g=2003-01-01), de artikelen van de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=2&z=2003-01-01&g=2003-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&z=2003-01-01&g=2003-01-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3A&z=2003-01-01&g=2003-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3B&z=2003-01-01&g=2003-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&z=2003-01-01&g=2003-01-01) en de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=4&z=2003-01-01&g=2003-01-01) en [5 van afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=5&paragraaf=5&z=2003-01-01&g=2003-01-01);
 
 - d. van hoofdstuk 4: de artikelen van afdeling 1, met uitzondering van de artikelen 4.3, 4.5, 4.7 en 4.8, de artikelen van de afdelingen 2, 3 en 4, de artikelen 4.38, 4.39, 4.40, vierde lid, 4.42, vierde lid, de artikelen van de paragrafen 3, 4, 6 en 7 van afdeling 5, de artikelen van de afdelingen 7, 8 en 9 en de artikelen van de paragrafen 2 en 3 van afdeling 10;
 
 - e. van hoofdstuk 5: de artikelen van de afdelingen 1 en 2 en artikel 5.14;
 
-- f. van hoofdstuk 6: de artikelen van de afdelingen 1 en 2, artikel 6.8, eerste tot en met zesde lid, zevende lid, tweede volzin, achtste lid, en elfde tot en met veertiende lid, en de artikelen van de paragrafen 3 en 4 van afdeling 6;
+- f. van hoofdstuk 6: de artikelen van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&z=2003-01-01&g=2003-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&z=2003-01-01&g=2003-01-01), [artikel 6.8, eerste tot en met zesde lid, zevende lid, tweede volzin, achtste lid, en elfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=3&paragraaf=2&artikel=6.8&z=2003-01-01&g=2003-01-01), [afdeling 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5A&z=2003-01-01&g=2003-01-01) en de artikelen van de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&z=2003-01-01&g=2003-01-01) en [4 van afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&z=2003-01-01&g=2003-01-01);
 
-- g. van hoofdstuk 7: de artikelen van de afdelingen 2, 3, 4, met uitzondering van de artikelen 7.17b, tweede lid, onder b, 7.19, eerste tot en met zesde lid, 7.20, zesde tot en met achtste lid, en 7.21 en de artikelen van de afdeling 5, met uitzondering van artikel 7.32 en paragraaf 2 van afdeling 6;
+- g. van hoofdstuk 7: de artikelen van de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=2&z=2003-01-01&g=2003-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&z=2003-01-01&g=2003-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&z=2003-01-01&g=2003-01-01), met uitzondering van de [artikelen 7.17b, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2003-01-01&g=2003-01-01), [7.19, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.19&z=2003-01-01&g=2003-01-01), [7.20, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.20&z=2003-01-01&g=2003-01-01), en [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.21&z=2003-01-01&g=2003-01-01) en de artikelen van de [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&z=2003-01-01&g=2003-01-01), met uitzondering van [artikel 7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5&paragraaf=2&artikel=7.32&z=2003-01-01&g=2003-01-01), [afdeling 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=5A&z=2003-01-01&g=2003-01-01) en [paragraaf 2 van afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&z=2003-01-01&g=2003-01-01);
 
 - h. van hoofdstuk 8: de artikelen van de afdelingen 1 en 2;
 
@@ -4378,7 +4456,7 @@ Vervallen
 
 - c. van hoofdstuk 4: de artikelen 4.5, eerste en tweede lid, 4.38 tot en met 4.42, 4.58, 4.59, 4.60, eerste en zevende lid, 4.61, tweede lid, 4.78, 4.83, 4.105, 4.108, 4.109 en 4.110;
 
-- d. van hoofdstuk 6: de artikelen 6.27 en 6.29;
+- d. van hoofdstuk 6: de artikelen [6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=3&artikel=6.27&z=2003-01-01&g=2003-01-01), [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29&z=2003-01-01&g=2003-01-01) en [6.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=6&paragraaf=4&artikel=6.29a&z=2003-01-01&g=2003-01-01).
 
 4. Bij het stellen van een eis aan een werkgever of werknemer, waarop zowel afdeling 2 als afdeling 4 of 6 van hoofdstuk 1 van toepassing is, wordt het ter zake in afdeling 4 of 6 bepaalde in acht genomen.
 
@@ -4528,13 +4606,13 @@ Afdeling 2 van hoofdstuk 2 is tot 1 januari 2002 niet van toepassing op arbeid v
 
 ##### Artikel 9.36
 
-1. Indien jeugdige werknemers arbeid verrichten bestaande in het op de openbare weg besturen van trekkers en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen, zijn zij in aanvulling op [artikel 7.39, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&artikel=7.39&z=2002-12-17&g=2002-12-17), in het bezit van een certificaat van vakbekwaamheid, dat is afgegeven door een door Onze Minister daartoe aangewezen instelling.
+1. Indien jeugdige werknemers arbeid verrichten bestaande in het op de openbare weg besturen van trekkers en het in rechtstreeks verband daarmee aan- of afkoppelen van aanhangwagens of werktuigen, zijn zij in aanvulling op [artikel 7.39, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=6&paragraaf=2&artikel=7.39&z=2003-01-01&g=2003-01-01), in het bezit van een certificaat van vakbekwaamheid, dat is afgegeven door een door Onze Minister daartoe aangewezen instelling.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9.36a. Arbeidsmiddelen
 
-De [artikelen 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2002-12-17&g=2002-12-17), [7.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2002-12-17&g=2002-12-17), met uitzondering van het tweede lid, onder b en g, [7.18, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2002-12-17&g=2002-12-17), en [7.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2002-12-17&g=2002-12-17) zijn tot 5 december 2002 niet van toepassing op de in deze bepalingen bedoelde arbeidsmiddelen, indien zij reeds op 5 december 1998 op de arbeidsplaats ter beschikking stonden van de werknemers.
+De [artikelen 7.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17a&z=2003-01-01&g=2003-01-01), [7.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2&artikel=7.17b&z=2003-01-01&g=2003-01-01), met uitzondering van het tweede lid, onder b en g, [7.18, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18&z=2003-01-01&g=2003-01-01), en [7.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2003-01-01&g=2003-01-01) zijn tot 5 december 2002 niet van toepassing op de in deze bepalingen bedoelde arbeidsmiddelen, indien zij reeds op 5 december 1998 op de arbeidsplaats ter beschikking stonden van de werknemers.
 
 ##### Artikel 9.37. Samenwerking, overleg en benadelingsbescherming in verband met overgangstermijn [Wet op de ondernemingsraden](onbekend)
 
@@ -4574,27 +4652,55 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.42d. Schakelbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Op een arbeidsplaats in de winningsindustrie die delfstoffen wint met behulp van boringen zijn naast de voorschriften van [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&z=2003-01-01&g=2003-01-01) van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.
 
 ##### Artikel 2.42e. Veiligheids- en gezondheidszorgsysteem
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor het uitvoeren van een zo goed mogelijk arbeidsomstandighedenbeleid, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), is een veiligheids- en gezondheidszorgsysteem aanwezig. Dit systeem omvat het geheel van beleid, organisatie, planning, uitvoering, monitoring, evaluatie, doorlichting en verbetering, dat wordt gehanteerd voor de beheersing van de veiligheid en de gezondheid.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
 ##### Artikel 2.42f. Veiligheids- en gezondheidsdocument
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onverminderd [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01) blijkt uit het veiligheids- en gezondheidsdocument dat alle nodige maatregelen zijn genomen om de veiligheid en de gezondheid van de werknemers zowel in normale situaties als in noodsituaties te beschermen. Hiertoe bevat het document het volgende:
+
+- a. een opgave van de aan de arbeidsplaats verbonden specifieke risicobronnen, met inbegrip van elke activiteit op die plaats, die ongevallen kunnen teweegbrengen met ernstige gevolgen voor de veiligheid en de gezondheid van de betrokken werknemers;
+
+- b. een evaluatie van de risico's van de in onderdeel a bedoelde specifieke bronnen;
+
+- c. het bewijs dat afdoende voorzorgsmaatregelen zijn genomen om de in onderdeel a bedoelde ongevallen te vermijden, de uitbreiding van ongevallen te beperken en de arbeidsplaats in noodsituaties op een doelmatige en beheerste wijze te kunnen evacueren;
+
+- d. het bewijs dat er een veiligheids- en gezondheidszorgsysteem als bedoeld in [artikel 2.42e](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6A&artikel=2.42e&z=2003-01-01&g=2003-01-01) gehanteerd wordt dat adequaat is om de voorschriften bij of krachtens dit besluit die betrekking hebben op de veiligheid en de bescherming van de gezondheid van de werknemers, zowel in gewone situaties als in noodsituaties na te leven.
+
+2. Bij de planning en tenuitvoerlegging van alle in [artikel 3.2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.2&z=2003-01-01&g=2003-01-01), bedoelde fasen worden de in het desbetreffende veiligheids- en gezondheidsdocument vermelde procedures en uitvoeringsbepalingen in acht genomen.
+
+3. De verschillende werkgevers die verantwoordelijk zijn voor de verschillende arbeidsplaatsen werken in voorkomend geval samen bij het opstellen van de veiligheids- en gezondheidsdocumenten, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01), en het voorbereiden van de maatregelen die nodig zijn om de veiligheid en de gezondheid van de werknemers te garanderen.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede en derde lid.
 
 ##### Artikel 2.42g. Veiligheidsoefeningen
 
-Dit onderdeel is nog niet inwerking getreden
+Op alle normaliter bemenste arbeidsplaatsen worden op gezette tijden veiligheidsoefeningen gehouden die erop gericht zijn:
+
+- a. werknemers aan wie in noodgevallen concrete taken worden opgedragen, waarbij noodapparatuur moet worden gebruikt, gehanteerd of bediend, hierin te trainen en na te gaan of zij bekwaam zijn die taken te vervullen;
+
+- b. alle bij de oefeningen gebruikte noodapparatuur te controleren, schoon te maken en zo nodig opnieuw op te laden of te vervangen en alle gebruikte draagbare apparatuur opnieuw naar de plaats te brengen waar zij zich normaliter bevindt;
+
+- c. na te gaan of de reddingsvaartuigen gebruiksklaar zijn.
 
 ##### Artikel 2.42h. Handelingen in noodgevallen
 
-Dit onderdeel is nog niet inwerking getreden
+1. De werknemers worden getraind in het uitvoeren van de handelingen die in noodgevallen moeten worden verricht.
+
+2. Op mijnbouwinstallaties waar werknemers langere tijd verblijven zijn bij helikopterbewegingen op het helikopterdek voldoende werknemers aanwezig die tot taak hebben bij noodgevallen in actie te komen. Deze werknemers zijn hiertoe voldoende getraind.
+
+3. In aanvulling op het eerste en tweede lid worden werknemers die werkzaam zijn op mijnbouwinstallaties ook getraind in het uitvoeren van de handelingen die op een specifieke arbeidsplaats moeten worden verricht. Deze handelingen worden voor de desbetreffende arbeidsplaats nader omschreven in het in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01) bedoelde veiligheids- en gezondheidsdocument.
+
+4. Werknemers die werkzaam zijn op mijnbouwinstallaties worden getraind in de toepassing van overlevingstechnieken, met inachtneming van de criteria die zijn vastgesteld in het in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01) bedoelde veiligheids- en gezondheidsdocument.
 
 ##### Artikel 2.42i. Raadpleging en deelneming werknemers
 
-Dit onderdeel is nog niet inwerking getreden
+Voor zover de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) niet van toepassing is, vindt raadpleging en deelneming van de werknemers plaats overeenkomstig artikel 11 van [richtlijn 89/391/EEG](31989L0391) van de Raad van de Europese Gemeenschappen van 12 juni 1989 betreffende de tenuitvoerlegging van maatregelen ter bevordering van de verbetering van de veiligheid en gezondheid van de werknemers op het werk (Pb EG L 183).
 
 ### Afdeling 7. Nachtarbeid
 
@@ -4618,7 +4724,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 4. Aanvullende voorschriften benzinestations
 
-### Afdeling 5. Bijzondere sectoren en bijzondere categorieën werknemers
+### Afdeling 3A. Aanvullende voorschriften winningsindustrieën in dagbouw
 
 #### § 2. Vervoer
 
@@ -4640,9 +4746,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 4. Grenswaarden en arbeidshygiënische strategie
 
-#### § 5. Arbeidsgezondheidskundig onderzoek
+#### § 2. Vervoer
 
-#### § 6. Bijzondere bepalingen inzake voorlichting en onderricht
+#### § 4. Jeugdigen
 
 ### Afdeling 2. Aanvullende voorschriften kankerverwekkende of mutagene stoffen en kankerverwekkende processen
 
@@ -4706,7 +4812,7 @@ Vervallen
 
 #### § 3. Zwangere werknemers en werknemers tijdens de lactatie
 
-#### § 4. Thuiswerkers
+#### § 3. Maatregelen met betrekking tot de blootstelling
 
 ### Hoofdstuk 5. Fysieke belasting
 
@@ -4730,11 +4836,31 @@ Vervallen
 
 ##### Artikel 6.14a. Arbeidsgezondheidskundig onderzoek
 
-Dit onderdeel is nog niet inwerking getreden
+1. Personen, die worden belast met het verrichten van duikarbeid, caissonarbeid en overige arbeid onder overdruk worden voor de aanvang van die arbeid onderworpen aan een arbeidsgezondheidskundig onderzoek, dat gericht is op de bijzondere gevaren voor de gezondheid, waaraan zij bij de uitoefening van die arbeid kunnen blootstaan.
+
+2. Na een periode van ten hoogste twaalf maanden na het onderzoek, bedoeld in het eerste lid, wordt het arbeidsgezondheidskundig onderzoek herhaald en vervolgens telkens met een tussenperiode van ten hoogste twaalf maanden sinds het voorafgaande onderzoek.
+
+3. Het arbeidsgezondheidskundig onderzoek, bedoeld in het eerste en tweede lid, wordt uitgevoerd door een arts, die in het bezit is van een certificaat duikerarts, dat is afgegeven door Onze Minister of een certificerende instelling.
+
+4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de uitvoering van het arbeidsgezondheidskundig onderzoek. Deze regels kunnen betrekking hebben op:
+
+- a. de gegevens, die bij het onderzoek worden overgelegd;
+
+- b. de wijze waarop het onderzoek wordt uitgevoerd;
+
+- c. de wijze van beoordeling van de geschiktheid of ongeschiktheid van personen voor het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk;
+
+- d. de wijze van registratie, verwerking en bewaring, alsmede de tijdsduur van bewaring van de uit het onderzoek verkregen gegevens.
+
+5. Een persoon verricht slechts duikarbeid, caissonarbeid of overige arbeid onder overdruk indien uit het arbeidsgezondheidskundig onderzoek blijkt, dat het verrichten van die arbeid op medische gronden toelaatbaar is. Indien uit de uitslag van het arbeidsgezondheidskundig onderzoek blijkt dat het verrichten van duikarbeid, caissonarbeid of overige arbeid onder overdruk slechts onder de daarin aangegeven beperkende voorschriften toelaatbaar is, worden deze voorschriften in acht genomen.
+
+6. Op verzoek van de werkgever of de onderzochte persoon wordt het in dit artikel bedoelde onderzoek één maal opnieuw uitgevoerd door een andere arts, die in het bezit is van een certificaat duikerarts als bedoeld in het derde lid. Het resultaat van het hernieuwde onderzoek treedt in de plaats van het daaraan voorafgaande.
 
 ##### Artikel 6.14b. Duikerarts
 
-Dit onderdeel is nog niet inwerking getreden
+1. In verband met de uitvoering van arbeidsgezondheidskundige onderzoeken als bedoeld in [artikel 6.14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01), kunnen voor de afgifte van het certificaat duikerarts, bedoeld in [artikel 6.14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01), bij ministeriële regeling verschillende vakbekwaamheids-, opleidings- of registratie-eisen worden gesteld.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gelijkstelling van in het buitenland afgegeven certificaten duikerarts met het certificaat duikerarts, bedoeld in [artikel 6.14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.14a&z=2003-01-01&g=2003-01-01).
 
 ##### Artikel 6.15a. Certificering onderhoudssysteem duik- en caissonmaterieel
 
@@ -4744,25 +4870,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6.20a. Schakelbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Op een arbeidsplaats in de ondergrondse winningsindustrie zijn naast de voorschriften van de [afdelingen 1 tot en met 5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
 
 ##### Artikel 6.20b. Ventilatie
 
-Dit onderdeel is nog niet inwerking getreden
+1. Alle normaal toegankelijke ondergrondse werkterreinen worden behoorlijk geventileerd. Door middel van een permanente ventilatie wordt, met een voldoende veiligheidsmarge, gezorgd voor een atmosfeer:
+
+- a. die gezond is;
+
+- b. waarin het explosiegevaar en het gevaar voor stofdeeltjes die ingeademd kunnen worden, onder controle wordt gehouden;
+
+- c. waarin de arbeidsomstandigheden tijdens de werktijd adequaat zijn, gelet op de gebruikte werkmethoden en de fysieke belasting van de werknemers.
+
+2. Indien de natuurlijke ventilatie niet aan het eerste lid voldoet wordt de hoofdventilatie door een of meer mechanische ventilatoren verzorgd. Er worden maatregelen getroffen om een constante en continue ventilatie te garanderen. De onderdruk van de hoofdventilatoren wordt voortdurend gecontroleerd. Er is een automatische alarmering voor het geval de hoofdventilatoren onverwacht uitvallen.
+
+3. De parameters van de ventilatie worden:
+
+- a. regelmatig gemeten; en
+
+- b. de resultaten hiervan worden geregistreerd.
+
+4. Er wordt een plattegrond gemaakt en regelmatig bijgewerkt met alle nuttige gegevens van het ventilatiesysteem. De plattegrond is op de arbeidsplaats aanwezig en wordt desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24).
 
 ##### Artikel 6.20c. Verlichting
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van de [artikelen 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.3&z=2003-01-01&g=2003-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=2&artikel=6.4&z=2003-01-01&g=2003-01-01) zijn de werkplekken voor zover mogelijk voorzien van voldoende kunstmatige verlichting voor de bescherming van de veiligheid en de gezondheid van de werknemers. De verlichtingsinstallaties zijn zodanig aangebracht dat het type verlichting geen ongevallenrisico voor de werknemers oplevert.
 
-### Afdeling 5B. Aanvullende voorschriften winningsindustrieën met behulp van boringen
+### Afdeling 1. Klimaat
 
 ##### Artikel 6.20d. Schakelbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Op een arbeidsplaats in de winningsindustrie die delfstoffen wint met behulp van boringen zijn naast de voorschriften van de [afdelingen 1 tot en met 5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=1&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
 
 ##### Artikel 6.20e. Verlichting
 
-Dit onderdeel is nog niet inwerking getreden
+Verlichtingsinstallaties zijn zodanig ontworpen dat operationele bedieningsruimten, vluchtwegen, inschepingszones en gevaarlijke zones gedurende de aanwezigheid van de werknemers verlicht zijn.
 
 #### § 1. Vervoer
 
@@ -4774,7 +4916,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6.29a. Werken in ondergrondse winningsindustrie
 
-Dit onderdeel is nog niet inwerking getreden
+Het is een zwangere werknemer en een werknemer tijdens de lactatie verboden arbeid te verrichten in de ondergrondse winningsindustrie.
 
 #### § 5. Thuiswerkers
 
@@ -4782,7 +4924,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6.31. Duikarbeid leerlingen en studenten
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 6.16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), is niet van toepassing op leerlingen respectievelijk studenten in onderwijsinrichtingen indien deze leerlingen respectievelijk studenten duikwerkzaamheden verrichten die:
+
+- a. in het kader van wetenschappelijk onderzoek zijn;
+
+- b. van lichte aard zijn, en
+
+- c. worden uitgevoerd door een duikploeg als bedoeld in [artikel 6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=6&afdeling=5&artikel=6.16&z=2003-01-01&g=2003-01-01), waarbij de leerling respectievelijk student functioneert als aanvullend lid van deze duikploeg.
+
+2. De leerlingen respectievelijk studenten zijn bij het uitvoeren van de duikwerkzaamheden, bedoeld in het eerste lid, in het bezit van een bij ministeriële regeling aan te wijzen sportduikbrevet.
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
 ### Hoofdstuk 7. Arbeidsmiddelen en specifieke werkzaamheden
 
@@ -4796,21 +4948,33 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 1. Afstemming
 
-#### § 2. Voorschriften voor mobiele arbeidsmiddelen
+#### § 4. Zwangere werknemers
 
 #### § 1. Afstemming
 
 #### § 2. Arbeidsmiddelen op de bouwplaats
 
-### Afdeling 5A. Aanvullende voorschriften winningsindustrieën in dagbouw, ondergronds of met behulp van boringen
+### Afdeling 4. Aanvullende voorschriften specifieke arbeidsmiddelen en werkzaamheden
 
 ##### Artikel 7.36a. Schakelbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+In de winningsindustrie in dagbouw, ondergronds of met behulp van boringen zijn naast de voorschriften van de [afdelingen 1 tot en met 4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=1&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
 
 ##### Artikel 7.36b. Arbeidsmiddelen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij de keuze, de installatie, de ingebruikneming, de werking en het onderhoud van werktuigbouwkundige en elektrotechnische apparatuur wordt rekening gehouden met de veiligheid en gezondheid van de werknemers.
+
+2. Wanneer de apparatuur zich bevindt in een zone waar brand- of explosiegevaar als gevolg van de ontbranding van gassen, dampen of vluchtige vloeistoffen bestaat of kan bestaan, is zij aangepast aan gebruik in een dergelijke zone. Indien nodig wordt zij voorzien van afdoende beschermingsmiddelen en systemen ter beveiliging bij defecten.
+
+3. De mechanische apparatuur en installaties bezitten de nodige sterkte, zijn vrij van zichtbare gebreken en geschikt voor het gebruik waarvoor zij zijn bestemd. De elektrotechnische apparatuur en installaties hebben de nodige kracht en vermogen voor het gebruik waarvoor zij zijn bestemd.
+
+4. Er wordt een doelmatig plan opgesteld voor het systematisch inspecteren, het onderhouden en, in voorkomend geval, het beproeven van de apparatuur en installaties. Onderhoud, inspectie en beproeving van enig onderdeel van de apparatuur en installaties wordt uitgevoerd door een daartoe aangewezen deskundig persoon. Er worden doelmatige inspectie- en beproevingsrapporten opgesteld en naar behoren bijgehouden.
+
+5. In aanvulling op [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=3&artikel=7.16&z=2003-01-01&g=2003-01-01) zijn hijs- en hefwerktuigen die in de winningsindustrie met behulp van boringen worden gebruikt, voorzien van een doelmatige inrichting, waardoor het dalen van de last te allen tijde kan worden stopgezet, zo nodig de snelheid van het dalen kan worden geregeld en onverhoeds dalen van de last wordt belet.
+
+6. In de winningsindustrie met behulp van boringen worden hijs- en hefwerktuigen als bedoeld in [artikel 7.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=7&afdeling=4&paragraaf=2a&artikel=7.18b&z=2003-01-01&g=2003-01-01) slechts gebruikt voor het verrichten van incidentele werkzaamheden van korte duur op boorinstallaties indien de noodzaak daartoe is gebleken.
+
+7. Bij ministeriële regeling kunnen ten aanzien van het veilig gebruik van de hijs- en hefwerktuigen, bedoeld in het zesde lid, nadere regels worden gesteld.
 
 ### Afdeling 6. Bijzondere sectoren en bijzondere categorieën werknemers
 
@@ -4832,7 +4996,495 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 9. Verplichtingen, strafbare feiten, beboetbare feiten, bestuursrechtelijke bepalingen en overgangs- en slotbepalingen
 
+### Afdeling 6. Bijzondere sectoren en bijzondere categorieën werknemers
+
+### Afdeling 3. Bestuursrechtelijke bepalingen
+
+#### § 1. Vrijstelling of ontheffing
+
+#### § 2. Eis tot naleving
+
+### Afdeling 4. Overgangs- en slotbepalingen
+
+#### § 1. Intrekking regelgeving
+
+#### § 2. Wijziging regelgeving
+
+#### § 2. Beboetbare feiten
+
+#### § 4. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2.42a. Werkvergunning
+
+1. Wanneer de veiligheid en de gezondheid van de werknemers dat vereisen, wordt een systeem van werkvergunningen toegepast voor de uitvoering van gevaarlijke werkzaamheden en voor de uitvoering van gewoonlijk ongevaarlijke werkzaamheden die in combinatie met andere werkzaamheden ernstige risico's met zich mee kunnen brengen.
+
+2. De werkvergunning wordt door een verantwoordelijke persoon gegeven voor de aanvang van de werkzaamheden en daarbij wordt aangegeven aan welke voorschriften moet worden voldaan en welke voorzorgsmaatregelen moeten worden genomen voor, tijdens en na de werkzaamheden.
+
+##### Artikel 2.42b. Personenregister
+
+Op doelmatige plaatsen is een register aanwezig waarin van degenen die werkzaamheden verrichten in de winningsindustrie in dagbouw, de ondergrondse winningsindustrie en de winningsindustrie met behulp van boringen zijn vermeld:
+
+- a. naam, voornamen, geslacht;
+
+- b. aard, nummer en een afschrift van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
+
+- c. gegevens en data betreffende indiensttreding en tewerkstelling;
+
+- d. de onderscheiden functies, waarin zij zijn tewerkgesteld en de data van tewerkstelling daarin;
+
+- e. data en aard van geneeskundige onderzoeken en geneeskundige verklaringen, voorzover deze op grond van dit besluit zijn vereist;
+
+- f. gegevens van certificaten, voorzover die voor het verrichten van de werkzaamheden op grond van dit besluit en het [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394) zijn vereist.
+
+##### Artikel 2.42c. Melding van ongevallen en bijna-ongevallen
+
+1. In aanvulling op [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) doet de werkgever tevens onverwijld mededeling aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24):
+
+- a. van alle belangrijke bij het verkeer of vervoer voorgekomen bijzondere gebeurtenissen die de veiligheid in gevaar hebben gebracht of hadden kunnen brengen;
+
+- b. wanneer de veiligheid op enigerlei wijze wordt bedreigd of personen zich in levensgevaar bevinden of bevonden hebben;
+
+- c. van alle bij het gebruik, het vervoer of de opslag van ontplofbare stoffen opgetreden voorvallen, die de veiligheid in gevaar hadden kunnen brengen of hebben gebracht.
+
+2. Eenmaal per maand wordt van alle ongevallen en andere voorvallen die de veiligheid in gevaar hebben gebracht of hadden kunnen brengen, opgave gedaan aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), voorzover er geen melding is gedaan als bedoeld in het eerste lid.
+
+### Afdeling 6A. Winningsindustrieën met behulp van boringen
+
+### Afdeling 7. Nachtarbeid
+
+### Afdeling 8. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 1. Vervoer
+
+#### § 2. Thuiswerkers
+
+### Hoofdstuk 3. Inrichting arbeidsplaatsen
+
+### Afdeling 1. Algemene voorschriften
+
+#### § 1. Definities en toepasselijkheid
+
+##### Artikel 3.1a. Toepasselijkheid
+
+De [artikelen 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.3&z=2003-01-01&g=2003-01-01),[3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.4&z=2003-01-01&g=2003-01-01), wat betreft het ontwerp en de inrichting van tot een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) behorende elektrische installaties, [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.6&z=2003-01-01&g=2003-01-01), [3.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2003-01-01&g=2003-01-01), [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.11&z=2003-01-01&g=2003-01-01), wat betreft het voorschrift dat vloeren van arbeidsplaatsen zoveel mogelijk vrij van gevaarlijke hellingen zijn en voorts zoveel mogelijk vast en stabiel, en derde lid, [3.18, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.18&z=2003-01-01&g=2003-01-01), en [3.24, eerste lid, en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.24&z=2003-01-01&g=2003-01-01), zijn niet van toepassing op arbeidsplaatsen in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
+
+##### Artikel 3.1b. Gebruiksvoorschrift
+
+Een arbeidsplaats in een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) wordt slechts gebruikt indien het gebouw voldoet aan de bij of krachtens het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727) gegeven voorschriften met betrekking tot de van toepassing zijnde gebruiksfunctie in de zin van dat besluit.
+
+#### § 3. Voorzieningen in noodsituaties
+
+#### § 4. Inrichtingseisen
+
+#### § 5. Ontspanningsruimten en andere voorzieningen
+
+### Afdeling 2. Aanvullende voorschriften bouwplaatsen
+
+### Afdeling 3. Aanvullende voorschriften winningsindustrieën in dagbouw, ondergronds of met behulp van boringen
+
+##### Artikel 3.36a. Schakelbepaling
+
+Op een arbeidsplaats in de winningsindustrie in dagbouw zijn naast de voorschriften van [afdeling 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
+
+### Afdeling 3B. Aanvullende voorschriften ondergrondse winningsindustrieën
+
+##### Artikel 3.37a. Schakelbepaling
+
+Op een arbeidsplaats in de ondergrondse winningsindustrie zijn naast de voorschriften van [afdeling 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
+
+##### Artikel 3.37b. Plattegronden en bewegwijzering
+
+1. Er worden plattegronden gemaakt en regelmatig bijgewerkt, waarop de galerijen en de ontginningswerkzaamheden en alle bekende factoren die van invloed kunnen zijn op de ontginning en de veiligheid daarvan zijn aangegeven op een schaal die een duidelijke voorstelling mogelijk maakt. De plattegronden zijn op de arbeidsplaats aanwezig en worden desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24). De plattegronden zijn gemakkelijk toegankelijk en worden zolang bewaard als met het oog op de veiligheid noodzakelijk is.
+
+2. In de galerijen is een bewegwijzering aangebracht, zodat de werknemers zich gemakkelijk kunnen oriënteren.
+
+##### Artikel 3.37c. Uitgangen
+
+1. Iedere ondergrondse ontginning staat via ten minste twee afzonderlijke uitgangen met de oppervlakte in verbinding. Deze uitgangen zijn degelijk geconstrueerd en gemakkelijk toegankelijk voor de werknemers die ondergrondse werkzaamheden verrichten.
+
+2. Wanneer voor het gebruik van deze uitgangen een bijzondere krachtsinspanning nodig is, zijn zij uitgerust met mechanische transportmiddelen voor de werknemers.
+
+##### Artikel 3.37d. Transportinstallaties
+
+1. Transportinstallaties worden zodanig aangelegd, gebruikt en onderhouden, dat de veiligheid en de gezondheid van de werknemers die ze besturen of gebruiken, of zich in de nabijheid daarvan ophouden, gewaarborgd is.
+
+2. Bij vervoer van werknemers met mechanische transportmiddelen wordt gezorgd voor passende voorzieningen en speciale schriftelijke instructies.
+
+##### Artikel 3.37e. Ondersteuning en stabiliteit
+
+1. Zo spoedig mogelijk na het delven worden er ondersteuningen aangebracht, tenzij dit vanwege de stabiliteit van het terrein niet noodzakelijk is voor de veiligheid van de werknemers. Deze ondersteuningen worden volgens schema's en schriftelijke instructies aangebracht.
+
+2. Alle voor werknemers toegankelijke werkplekken worden regelmatig op de stabiliteit van het terrein onderzocht.
+
+3. Bij het onderhoud van de ondersteuningen wordt rekening gehouden met de uitkomsten van het in het tweede lid bedoelde onderzoek.
+
+##### Artikel 3.37f. Instortingen en waterdoorbraken
+
+1. In zones waar zich instortingen of waterdoorbraken kunnen voordoen, wordt een winningsprogramma opgesteld en uitgevoerd dat zoveel mogelijk gericht is op een veilig werksysteem en op de bescherming van de werknemers.
+
+2. Er worden maatregelen genomen om de zones, bedoeld in het eerste lid, te kunnen herkennen, om de werknemers die in of in de nabijheid van die zones werken te beschermen en om de risico's te beheersen.
+
+##### Artikel 3.37g. Voorkoming van brand en temperatuurstijging
+
+1. Er worden maatregelen genomen om temperatuurstijgingen te voorkomen of vroegtijdig te signaleren.
+
+2. Het gebruik van brandbare materialen wordt tot het strikt noodzakelijke minimum beperkt.
+
+3. De te gebruiken hydraulische vloeistoffen zijn voorzover mogelijk moeilijk ontvlambaar en voldoen aan specificaties en beproevingsvoorwaarden betreffende de brandbaarheid ervan alsmede aan criteria betreffende de hygiëne. Indien de te gebruiken hydraulische vloeistoffen niet aan de in de eerste volzin gestelde eisen voldoen, worden aanvullende maatregelen genomen.
+
+##### Artikel 3.37h. Verlichting
+
+In aanvulling op [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.9&z=2003-01-01&g=2003-01-01) beschikt elke werknemer over een voor het werk geschikte lamp.
+
+##### Artikel 3.37i. Aanwezigheidscontrole
+
+Het werk wordt zodanig georganiseerd dat op ieder moment kan worden vastgesteld wie er ondergronds is.
+
+### Afdeling 3C. Aanvullende voorschriften winningsindustrieën met behulp van boringen
+
+##### Artikel 3.37j. Schakelbepaling
+
+Op een arbeidsplaats in de winningsindustrie die delfstoffen wint met behulp van boringen zijn naast de voorschriften van [afdeling 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&z=2003-01-01&g=2003-01-01) tevens de voorschriften van deze afdeling van toepassing.
+
+##### Artikel 3.37k. Vereisten inrichting mijnbouwinstallaties
+
+1. In aanvulling op de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.2&z=2003-01-01&g=2003-01-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=3.3&z=2003-01-01&g=2003-01-01) zijn mijnbouwinstallaties zodanig ontworpen, gebouwd, ingericht, bediend, gecontroleerd en onderhouden dat zij aan de te verwachten omgevingskrachten weerstand kunnen bieden. Zij dienen een constructie en stevigheid te hebben die zijn afgestemd op het gebruik dat ervan wordt gemaakt.
+
+2. Op mijnbouwinstallaties worden zo nodig brandbarrières aangebracht met het oog op de afscheiding van zones waar brandrisico bestaat.
+
+3. Op mijnbouwinstallaties is op een voldoende aantal doelmatig gekozen plaatsen goed drinkwater aanwezig.
+
+##### Artikel 3.37l. Verkeer en vervoer
+
+1. In aanvulling op [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=4&artikel=3.14&z=2003-01-01&g=2003-01-01) worden er:
+
+- a. doeltreffende maatregelen genomen ter verzekering van een veilig verkeer en vervoer op een mijnbouwinstallatie alsmede van een veilig op en van een mijnbouwinstallatie brengen van materieel, van materialen en van personen;
+
+- b. doeltreffende instructies gegeven ter verzekering van een veilig verkeer en vervoer op een mijnbouwinstallatie alsmede van een veilig op en van een mijnbouwinstallatie brengen van materieel, van materialen en van personen.
+
+2. Personen worden slechts door middel van een daartoe geëigend hulpmiddel op of van een mijnbouwinstallatie gebracht, indien zij met deze wijze van vervoer hebben ingestemd.
+
+3. In verband met het veilig gebruik van een helikopterdek op een mijnbouwinstallatie worden werknemers aangewezen, die belast zijn met het toezicht op dit gebruik van het helikopterdek en daartoe over de noodzakelijke vaardigheid en deskundigheid beschikken.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
+
+##### Artikel 3.37m. Onderhoud van veiligheidsapparatuur
+
+Doelmatige veiligheidsapparatuur staat steeds gebruiksklaar en wordt in goede staat gehouden. Bij het onderhoud daarvan wordt naar behoren rekening gehouden met de uitgeoefende activiteiten.
+
+##### Artikel 3.37n. Nooduitgangen
+
+1. Woon- en verblijfruimten op mijnbouwinstallaties hebben op elk niveau ten minste twee afzonderlijke nooduitgangen, die zo ver mogelijk van elkaar zijn gelegen en uitkomen in een veilige zone, een veilig verzamelpunt of een veilig evacuatiestation.
+
+2. Een machinekamer op een mijnbouwinstallatie heeft tenminste twee tegenover elkaar gelegen uitgangen met voldoende trap- of ladderverbindingen vanaf de vloer van die machinekamer.
+
+3. In afwijking van [artikel 3.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=3.7&z=2003-01-01&g=2003-01-01), zijn nooduitgangen op mijnbouwinstallaties voorzien van deuren die op eenvoudige wijze van binnenuit naar buiten toe zijn te openen of indien dit niet mogelijk is, van schuifdeuren.
+
+##### Artikel 3.37o. Gehandicapte werknemers
+
+Bij de inrichting van de arbeidsplaatsen op het continentaal plat, bedoeld in [artikel 1, onder c, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), wordt in voorkomend geval met gehandicapte werknemers rekening gehouden. Dit geldt met name voor deuren, verbindingswegen, trappen, doucheruimten, wasruimten, toiletten en werkplekken die door gehandicapte werknemers worden gebruikt.
+
+##### Artikel 3.37p. Gevarenzones
+
+1. Arbeidsplaatsen waar door de aard van het werk gevarenzones, met inbegrip van valgevaar of gevaar voor vallende voorwerpen, voorkomen, worden zoveel mogelijk uitgerust met voorzieningen die beletten dat werknemers deze zones zonder toestemming betreden.
+
+2. Er worden doeltreffende maatregelen getroffen om de werknemers die de gevarenzones mogen betreden te beschermen.
+
+##### Artikel 3.37q. Afstandsbediening in noodgevallen
+
+1. Indien de veiligheid en de gezondheid van de werknemers dat vereisen wordt bepaalde apparatuur in geval van nood vanaf geschikte locaties op afstand bediend.
+
+2. De apparatuur, bedoeld in het eerste lid, omvat systemen voor het isoleren en afblazen van putten, installaties en pijpleidingen.
+
+3. Ten behoeve van de afstandsbediening, bedoeld in het eerste lid, zijn er controleposten op geschikte locaties die in geval van nood kunnen worden gebruikt, indien nodig met inbegrip van controleposten op veilige verzamelpunten en in evacuatiestations.
+
+4. De apparatuur, bedoeld in het eerste lid, omvat tenminste systemen voor ventilatie, het in noodgevallen afsluiten van apparatuur die een ontbranding zou kunnen veroorzaken, het voorkomen van het ontsnappen van ontvlambare vloeistoffen en gassen, brandbeveiliging en putbewaking.
+
+##### Artikel 3.37r. Communicatiesystemen
+
+1. Indien de veiligheid en de gezondheid van de werknemers dat vereisen wordt iedere bemande arbeidsplaats uitgerust met:
+
+- a. een audiovisueel systeem waarmee een alarmmelding zo nodig kan worden doorgestuurd naar elk bemand deel van de arbeidsplaats;
+
+- b. een luidsprekersysteem, dat duidelijk kan worden gehoord in alle delen van de installatie waar zich vaak werknemers ophouden;
+
+- c. een systeem waarmee de verbinding met het vasteland en de hulpdiensten kan worden onderhouden.
+
+2. Op mijnbouwinstallaties blijven de systemen, bedoeld in het eerste lid, in geval van nood operationeel. Het luidsprekersysteem wordt aangevuld met communicatiesystemen die niet afhankelijk zijn van kwetsbare stroomvoorzieningsinstallaties.
+
+3. De voorzieningen voor het slaan van alarm zijn op doelmatige plaatsen aangebracht.
+
+4. Indien werknemers aanwezig zijn op arbeidsplaatsen die normaliter niet door werknemers bemand zijn, is er een doelmatig communicatiesysteem.
+
+##### Artikel 3.37s. Verzamelpunten en monsterrol
+
+1. Indien de veiligheid en de gezondheid van de werknemers dat vereisen worden er verzamelpunten vastgesteld, wordt een monsterrol bijgehouden en worden de hiervoor noodzakelijke maatregelen getroffen.
+
+2. Doelmatige maatregelen worden genomen om:
+
+- a. de evacuatiestations en de veilige verzamelpunten te beschermen tegen warmte en rook, en, zoveel mogelijk, tegen de gevolgen van explosies;
+
+- b. de vluchtroutes van en naar de evacuatiestations en verzamelpunten te allen tijde bruikbaar te laten blijven;
+
+- c. de evacuatiestations en de veilige verzamelpunten gemakkelijk bereikbaar te laten zijn vanuit de verblijfsaccommodatie en de werkruimten.
+
+3. De maatregelen, bedoeld in het tweede lid, zijn zodanig dat ze de werknemers lang genoeg bescherming bieden om, indien nodig, in alle veiligheid een evacuatie- en reddingsoperatie te kunnen organiseren en uitvoeren.
+
+4. Indien de veiligheid en de gezondheid van de werknemers dat vereisen, is een van de beschermde plaatsen, bedoeld in het eerste lid, voorzien van afstandbedieningssystemen voor noodgevallen als bedoeld in [artikel 3.37q](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37q&z=2003-01-01&g=2003-01-01) en van een communicatiesysteem als bedoeld in [artikel 3.37r, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3C&artikel=3.37r&z=2003-01-01&g=2003-01-01).
+
+5. Op een mijnbouwinstallatie wordt voor elk veilig verzamelpunt een lijst opgesteld, bijgehouden en ter plaatse aangeplakt met de namen van de werknemers voor wie dat verzamelpunt is bestemd.
+
+6. Een lijst met de namen van de werknemers die in geval van nood speciale taken hebben wordt opgesteld en bijgehouden en op doelmatige plaatsen aangeplakt. De namen van deze werknemers worden eveneens vermeld in de schriftelijke instructies, bedoeld in [artikel 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=3&artikel=3.33&z=2003-01-01&g=2003-01-01).
+
+##### Artikel 3.37t. Reddingsmiddelen
+
+1. Op een mijnbouwinstallatie zijn voor onmiddellijk gebruik voldoende geschikte middelen voor redding, evacuatie en voor directe ontsnapping in zee in noodgevallen beschikbaar.
+
+2. Als evacuatie van werknemers moet geschieden langs moeilijke vluchtwegen of via plaatsen waar de lucht niet of mogelijk niet ingeademd kan worden, staat zelfreddingsapparatuur voor onmiddellijk gebruik op de werkplek ter beschikking van de werknemers.
+
+3. Reddingsmiddelen als bedoeld in het eerste lid voldoen aan de volgende voorschriften:
+
+- a. ze zijn functioneel en zo nodig uitgerust met voorzieningen om lang genoeg te kunnen overleven;
+
+- b. er zijn er voldoende van om alle werknemers die zich in de installatie kunnen ophouden te kunnen evacueren;
+
+- c. het type is afgestemd op de arbeidsplaats;
+
+- d. ze zijn van betrouwbare materialen gemaakt, rekening houdend met de reddingsfunctie en de omstandigheden waarin ze eventueel zullen worden gebruikt of waarin ze gebruiksklaar worden gehouden; en
+
+- e. ze hebben een kleur die opvalt wanneer ze worden gebruikt en zijn uitgerust met voorzieningen waarmee de gebruiker de aandacht van de redders kan trekken.
+
+4. Het materiaal, dat nodig is in geval bij een ongeval vervoer per helikopter plaatsvindt, ligt gebruiksklaar opgeslagen in de onmiddellijke nabijheid van de helikopterlandingsplaats.
+
+##### Artikel 3.37u. Beveiliging noodsystemen
+
+Op mijnbouwinstallaties worden branddetectie- en brandbeschermingssystemen, inrichtingen voor brandblussing of branddoving en alarmsystemen afgeschermd tegen ongelukken en wel op zodanige wijze dat hun functies in noodgevallen operationeel blijven. Zo nodig worden dergelijke systemen in dubbele uitvoering aangebracht.
+
+##### Artikel 3.37v. Noodplan
+
+1. Er wordt een noodplan opgesteld voor het geval dat iemand overboord valt of de arbeidsplaats moet worden geëvacueerd.
+
+2. Het noodplan, dat is gebaseerd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01), voorziet in het gebruik van bijstandsboten en helicopters en bevat criteria voor de capaciteit en de reactietijd daarvan. De vereiste reactietijd wordt in het veiligheids- en gezondheidsdocument van elke installatie vermeld.
+
+3. De bijstandsboten zijn doelmatig ontworpen en uitgerust en voldoen aan de eisen in verband met evacuatie en redding.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste tot en met derde lid.
+
+##### Artikel 3.37w. Verblijfsaccommodatie
+
+1. In aanvulling op [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=3&afdeling=1&paragraaf=5&artikel=3.21&z=2003-01-01&g=2003-01-01) wordt, wanneer de aard, de omvang en de duur van de werkzaamheden op een mijnbouwinstallatie zulks vereisen, de nodige verblijfsaccommodatie ter beschikking gesteld.
+
+2. Leidingen die in geval van lekkage direct gevaar voor de gezondheid kunnen opleveren worden buiten de accommodatie en de hiermee in verbinding staande gangen gehouden. Deze accommodatie:
+
+- a. is afdoende beschermd tegen de gevolgen van explosies, binnendringen van rook en gas en het uitbreken en de verbreiding van brand, zoals omschreven in het veiligheids- en gezondheidsdocument, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&hoofdstuk=2&afdeling=6&artikel=2.42&z=2003-01-01&g=2003-01-01);
+
+- b. is beschermd tegen weersomstandigheden en tegen geluids- en stankhinder en ontwikkeling van rookgassen uit andere ruimten, welke gevaarlijk voor de gezondheid kunnen zijn;
+
+- c. staat niet in rechtstreekse verbinding met besloten ruimten, waarin machines, ketels, tanks, drukvaten en dergelijke zijn opgesteld;
+
+- d. is afgescheiden van elke werkplek en ligt buiten gevarenzones;
+
+- e. staat, voorzover het een slaapverblijf betreft, niet in rechtstreekse verbinding met ontspanningsruimten, noch met ruimten voor het bereiden en bewaren van voedsel.
+
+3. De verblijfsaccommodatie is voorzien van voldoende bedden of kooien, rekening houdend met het aantal werknemers dat naar verwachting in de installatie zal slapen. In een slaapverblijf bevinden zich ten hoogste twee slaapplaatsen.
+
+4. Elke verblijfsaccommodatie beschikt over voldoende plaats voor het opbergen van kleding en, indien daarin in de regel ten minste tien personen verblijven, een aparte was- en droogruimte.
+
+##### Artikel 3.37x. Kookgelegenheid
+
+Op een bemande mijnbouwinstallatie zijn voor het bereiden en bewaren van voedsel doelmatig ingerichte ruimten aanwezig, welke ruimten voor geen ander doel worden gebruikt.
+
+##### Artikel 3.37y. Veiligheid en stabiliteit
+
+Tijdens de plaatsing van een mijnbouwinstallatie worden alle noodzakelijke maatregelen genomen om de veiligheid en de gezondheid van de werknemers te waarborgen.
+
+### Afdeling 4. Aanvullende voorschriften benzinestations
+
+### Afdeling 5. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 3. Justitiële inrichtingen
+
+### Hoofdstuk 4. Gevaarlijke stoffen en biologische agentia
+
+### Afdeling 1. Gevaarlijke stoffen
+
+#### § 1. Definities en toepasselijkheid
+
+#### § 2. Schriftelijke beoordeling en vastlegging van gegevens
+
+#### § 3. Preventieve maatregelen en maatregelen bij ongewilde gebeurtenissen
+
+#### § 4. Grenswaarden en arbeidshygiënische strategie
+
+#### § 5. Arbeidsgezondheidskundig onderzoek
+
+#### § 6. Bijzondere bepalingen inzake voorlichting en onderricht
+
+### Afdeling 2. Aanvullende voorschriften kankerverwekkende of mutagene stoffen en kankerverwekkende processen
+
+#### § 1. Definities en toepasselijkheid
+
+#### § 2. Schriftelijke beoordeling en vastlegging van gegevens
+
+#### § 3. Grenswaarden en voorkomen of beperken van blootstelling
+
+#### § 4. Arbeidsgezondheidskundig onderzoek
+
+### Afdeling 3
+
+##### Artikel 4.32
+
+Vervallen
+
+##### Artikel 4.33
+
+Vervallen
+
+##### Artikel 4.34
+
+Vervallen
+
+### Afdeling 4. Benzeen en gechloreerde koolwaterstoffen
+
+### Afdeling 5. Aanvullende voorschriften asbest
+
+#### § 1. Definities en toepasselijkheid
+
+#### § 2. Verbodsbepalingen
+
+#### § 3. Voorschriften voor het werken met asbest en asbesthoudende producten
+
+#### § 4. Aanvullende voorschriften voor het werken met asbest en asbesthoudende producten
+
+#### § 5. Bijzondere bepalingen inzake het slopen van asbest, asbesthoudende producten, crocidoliet en crocidoliethoudende producten
+
+#### § 6. Bijzondere bepalingen inzake crocidoliet en crocidoliethoudende producten
+
+#### § 7. Bijzondere bepalingen inzake voorlichting en onderricht
+
+### Afdeling 6. Specifieke gezondheidsschadelijke stoffen
+
+### Afdeling 6A. Vluchtige organische stoffen
+
+### Afdeling 7. Loodwit
+
+### Afdeling 8. Fosforlucifers
+
+### Afdeling 9. Biologische agentia
+
+#### § 1. Definities en toepasselijkheid
+
+#### § 2. Risico-inventarisatie en -evaluatie en gevolgen categorie-indeling
+
+#### § 4. Arbeidsgezondheidskundig onderzoek
+
+#### § 5. De ondernemingsraad
+
+#### § 6. Toezicht
+
+#### § 7. Bijzondere bepalingen in verband met andere dan microbiologisch diagnostische arbeid in de gezondheidszorg en in de diergeneeskunde
+
+#### § 8. Speciale maatregelen in laboratoria, ruimten voor proefdieren en industriële procédés
+
+#### § 9. Bijzondere bepalingen inzake voorlichting en onderricht
+
+### Afdeling 10. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 1. Vervoer
+
+#### § 2. Jeugdigen
+
+#### § 4. Thuiswerkers
+
+### Hoofdstuk 5. Fysieke belasting
+
+### Afdeling 1. Fysieke belasting
+
+### Afdeling 3. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 2. Thuiswerkers
+
+### Hoofdstuk 6. Fysische factoren
+
+#### § 1. Algemeen
+
+#### § 2. Geluidsvoorschriften
+
+### Afdeling 4. Straling
+
+### Afdeling 5. Werken onder overdruk
+
+### Afdeling 5A. Aanvullende voorschriften ondergrondse winningsindustrieën
+
+### Afdeling 5B. Aanvullende voorschriften winningsindustrieën met behulp van boringen
+
+### Afdeling 6. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 1. Vervoer
+
+#### § 2. Justitiële inrichtingen
+
+#### § 3. Jeugdigen
+
+#### § 5. Thuiswerkers
+
+#### § 6. Onderwijs
+
+### Hoofdstuk 7. Arbeidsmiddelen en specifieke werkzaamheden
+
+### Afdeling 1. Toepasselijkheid en definitie
+
+### Afdeling 2. Algemene voorschriften
+
+### Afdeling 3. Arbeidsmiddelen met een bedieningssysteem
+
+#### § 1. Afstemming
+
+#### § 2. Voorschriften voor mobiele arbeidsmiddelen
+
+#### § 2a. Voorschriften voor arbeidsmiddelen voor het hijsen en heffen van lasten of personen
+
+#### § 3. Voorschriften bij het laden en lossen van schepen
+
+### Afdeling 5. Aanvullende voorschriften voor bouwplaatsen
+
+#### § 1. Afstemming
+
+#### § 2. Arbeidsmiddelen op de bouwplaats
+
+### Afdeling 5A. Aanvullende voorschriften winningsindustrieën in dagbouw, ondergronds of met behulp van boringen
+
+#### § 1. Vervoer
+
+#### § 2. Jeugdige werknemers
+
+#### § 3. Thuiswerkers
+
+### Hoofdstuk 8. Persoonlijke beschermingsmiddelen en veiligheids- en gezondheidssignalering
+
+### Afdeling 1. Persoonlijke beschermingsmiddelen
+
+### Afdeling 2. Veiligheids-en gezondheidssignalering
+
+### Afdeling 3
+
+### Afdeling 4. Bijzondere sectoren en bijzondere categorieën werknemers
+
+#### § 1
+
+#### § 2. Vervoer
+
+#### § 3. Thuiswerkers
+
+### Hoofdstuk 9. Verplichtingen, strafbare feiten, beboetbare feiten, bestuursrechtelijke bepalingen en overgangs- en slotbepalingen
+
 ### Afdeling 1. Verplichtingen van werkgever, thuiswerkgever, werknemer, thuiswerker, zelfstandige, opdrachtgever, ontwerpende partij, uitvoerende partij en lifteigenaar of -beheerder
+
+### Afdeling 2. Strafbare feiten en beboetbare feiten
+
+#### § 1. Strafbare feiten
 
 ### Afdeling 3. Bestuursrechtelijke bepalingen
 
