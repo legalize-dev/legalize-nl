@@ -151,9 +151,3 @@ Dit besluit treedt in werking met ingang van 1 juni 2001.
 Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille Vredesoperaties.
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
-
-##### Artikel 13a
-
-Per 1 juli 2016 berust het [Besluit gespen Herinneringsmedaille Vredesoperaties](https://wetten.overheid.nl/jci1.3:c:BWBR0012681) op het Besluit Herinneringsmedaille Internationale Missies.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
