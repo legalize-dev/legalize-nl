@@ -4,7 +4,7 @@ identifier: "BWBV0003833"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-05-21"
-last_updated: "2003-10-16"
+last_updated: "2005-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003833"
 soort: "verdrag"
@@ -66,9 +66,9 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 - e). „aanvoer van uit de zee voortkomende planten en dieren”: het tot binnen de grenzen van een Staat vervoeren van specimens van soorten die zijn gehaald uit zeegebied dat niet tot het rechtsgebied van een Staat behoort;
 
-- f). „wetenschappelijke autoriteit”: een overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IX&z=2003-10-16&g=2003-10-16) aangewezen nationale wetenschappelijke autoriteit;
+- f). „wetenschappelijke autoriteit”: een overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IX&z=2005-01-12&g=2005-01-12) aangewezen nationale wetenschappelijke autoriteit;
 
-- g). „administratieve instantie”: een overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IX&z=2003-10-16&g=2003-10-16) aangewezen nationale administratieve instantie;
+- g). „administratieve instantie”: een overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IX&z=2005-01-12&g=2005-01-12) aangewezen nationale administratieve instantie;
 
 - h). „partij”: een Staat ten aanzien van wie dit Verdrag in werking is getreden.
 
@@ -170,9 +170,9 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 ##### Artikel VI. Vergunningen en certificaten
 
-1. De krachtens de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) uitgereikte vergunningen en certificaten moeten in overeenstemming zijn met de bepalingen van dit artikel.
+1. De krachtens de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) uitgereikte vergunningen en certificaten moeten in overeenstemming zijn met de bepalingen van dit artikel.
 
-2. Een uitvoervergunning moet de inlichtingen bevatten zoals aangeduid in het model dat in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=IV&z=2003-10-16&g=2003-10-16) is weergegeven en is slechts gedurende een periode van zes maanden te rekenen van de datum van afgifte geldig voor de uitvoer.
+2. Een uitvoervergunning moet de inlichtingen bevatten zoals aangeduid in het model dat in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=IV&z=2005-01-12&g=2005-01-12) is weergegeven en is slechts gedurende een periode van zes maanden te rekenen van de datum van afgifte geldig voor de uitvoer.
 
 3. Elke vergunning of elk certificaat verwijst naar de titel van deze Overeenkomst en bevat de naam en het stempel van de administratieve instantie die de uitreiking heeft verricht en een door haar toegekend controlenummer.
 
@@ -186,11 +186,11 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 ##### Artikel VII. Uitzonderingen en andere bijzondere voorzieningen betreffende de handel
 
-1. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) zijn niet van toepassing op de doorvoer of overlading van specimens op het gebied van een Partij wanneer deze specimens onder douanecontrole blijven.
+1. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) zijn niet van toepassing op de doorvoer of overlading van specimens op het gebied van een Partij wanneer deze specimens onder douanecontrole blijven.
 
-2. Wanneer ten genoege van een administratieve instantie van de Staat van uitvoer of van wederuitvoer is aangetoond dat een specimen is verkregen voordat de bepalingen van dit Verdrag van toepassing waren op genoemd specimen, zijn de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) niet van toepassing op dit specimen, op voorwaarde dat genoemde administratieve instantie hiertoe een certificaat uitreikt.
+2. Wanneer ten genoege van een administratieve instantie van de Staat van uitvoer of van wederuitvoer is aangetoond dat een specimen is verkregen voordat de bepalingen van dit Verdrag van toepassing waren op genoemd specimen, zijn de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) niet van toepassing op dit specimen, op voorwaarde dat genoemde administratieve instantie hiertoe een certificaat uitreikt.
 
-3. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) zijn niet van toepassing op specimens die vallen onder persoonlijke bezittingen of huisraad. Deze uitzondering is evenwel niet van toepassing:
+3. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) zijn niet van toepassing op specimens die vallen onder persoonlijke bezittingen of huisraad. Deze uitzondering is evenwel niet van toepassing:
 
 - a). indien het gaat om specimens van een in Bijlage I opgenomen soort, wanneer deze door hun eigenaar zijn verkregen buiten de Staat waar hij permanent verblijf heeft en in die Staat worden ingevoerd; of
 
@@ -206,11 +206,11 @@ tenzij ten genoege van een administratieve instantie is aangetoond, dat deze spe
 
 4. De specimens van een in Bijlage I opgenomen diersoort die in gevangenschap voor commerciële doeleinden zijn gefokt, of van een in Bijlage I opgenomen plantesoort die kunstmatig voor commerciële doeleinden is gekweekt, worden beschouwd als specimens van in Bijlage II opgenomen soorten.
 
-5. Wanneer ten genoege van een administratieve instantie van de Staat van uitvoer is aangetoond dat een specimen van een diersoort in gevangenschap is gefokt of dat een specimen van een plantesoort kunstmatig is gekweekt of wanneer het een deel van een zodanig dier of een zodanige plant of een van de produkten daarvan betreft dan wordt een door die administratieve instantie hiertoe uitgereikt certificaat aanvaard in plaats van overeenkomstig de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) of [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) benodigde vergunningen en certificaten.
+5. Wanneer ten genoege van een administratieve instantie van de Staat van uitvoer is aangetoond dat een specimen van een diersoort in gevangenschap is gefokt of dat een specimen van een plantesoort kunstmatig is gekweekt of wanneer het een deel van een zodanig dier of een zodanige plant of een van de produkten daarvan betreft dan wordt een door die administratieve instantie hiertoe uitgereikt certificaat aanvaard in plaats van overeenkomstig de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) of [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) benodigde vergunningen en certificaten.
 
-6. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) zijn niet van toepassing op uitlening, schenking of uitwisseling voor niet-commerciële doeleinden tussen wetenschapsmensen en wetenschappelijke instituten die door een administratieve instantie van hun Staat zijn geregistreerd, van specimens uit herbaria, van andere geconserveerde, gedroogde of ingesloten specimens uit musea en van levende planten die een door een administratieve instantie uitgereikt of goedgekeurd merkteken dragen.
+6. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) zijn niet van toepassing op uitlening, schenking of uitwisseling voor niet-commerciële doeleinden tussen wetenschapsmensen en wetenschappelijke instituten die door een administratieve instantie van hun Staat zijn geregistreerd, van specimens uit herbaria, van andere geconserveerde, gedroogde of ingesloten specimens uit musea en van levende planten die een door een administratieve instantie uitgereikt of goedgekeurd merkteken dragen.
 
-7. Een administratieve instantie van elke Staat kan uitzonderingen op de verplichtingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) toestaan en machtiging verlenen om specimens die deel uitmaken van een reizende diergaarde, een circus, een menagerie, een plantententoonstelling of andere reizende tentoonstelling, zonder vergunning of certificaten te verplaatsen, op voorwaarde dat:
+7. Een administratieve instantie van elke Staat kan uitzonderingen op de verplichtingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) toestaan en machtiging verlenen om specimens die deel uitmaken van een reizende diergaarde, een circus, een menagerie, een plantententoonstelling of andere reizende tentoonstelling, zonder vergunning of certificaten te verplaatsen, op voorwaarde dat:
 
 - a). de exporteur of de importeur de volledige kenmerken van die specimens bij de administratieve instantie registreert;
 
@@ -284,7 +284,7 @@ In geval van uitvoer of wederuitvoer naar of van invoer uit een Staat die geen p
 
 - a). de nodige maatregelen nemen om het Secretariaat in staat te stellen zijn taken uit te voeren en financiële voorzieningen te treffen;
 
-- b). overeenkomstig [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2003-10-16&g=2003-10-16) voorstellen tot wijziging van Bijlagen I en II overwegen en aanvaarden;
+- b). overeenkomstig [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2005-01-12&g=2005-01-12) voorstellen tot wijziging van Bijlagen I en II overwegen en aanvaarden;
 
 - c). de voortgang bespreken ten aanzien van het herstel en behoud van de in Bijlage I, II en III opgenomen soorten;
 
@@ -314,7 +314,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 - a). het organiseren van de conferenties der Partijen en het verlenen van de daarbij behorende diensten;
 
-- b). het uitvoeren van de taken die op grond van de bepalingen van de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2003-10-16&g=2003-10-16) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XVI&z=2003-10-16&g=2003-10-16) van deze Overeenkomst aan het Secretariaat zijn toevertrouwd;
+- b). het uitvoeren van de taken die op grond van de bepalingen van de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2005-01-12&g=2005-01-12) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XVI&z=2005-01-12&g=2005-01-12) van deze Overeenkomst aan het Secretariaat zijn toevertrouwd;
 
 - c). het ondernemen van wetenschappelijke en technische studies overeenkomstig de door de Conferentie der Partijen vastgestelde programma's, welke een bijdrage leveren aan de toepassing van deze Overeenkomst met inbegrip van studies over de normen voor de gepaste wijze van gereedmaken voor verzending en vervoer van levende specimens en studies over de middelen ter identificatie van deze specimens;
 
@@ -352,7 +352,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 4. Een bij deze Overeenkomst Partij zijnde Staat die eveneens Partij is bij een ander verdrag, of een andere internationale overeenkomst welke van kracht is op het tijdstip van de inwerkingtreding van deze Overeenkomst en waarvan de bepalingen bescherming verlenen aan de in Bijlage II opgenomen mariene soorten, wordt ontheven van de verplichtingen die hem op grond van de bepalingen van deze Overeenkomst zijn opgelegd, wat betreft de handel in specimens van in Bijlage II opgenomen soorten die door in die Staat geregistreerde schepen en in overeenstemming met de bepalingen van dat andere verdrag of van die andere internationale overeenkomst, uit de zee zijn verkregen.
 
-5. Niettegenstaande de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2003-10-16&g=2003-10-16), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2003-10-16&g=2003-10-16) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2003-10-16&g=2003-10-16) is voor de uitvoer van een overeenkomstig het vierde lid van dit artikel verkregen specimen slechts een certificaat vereist van een administratieve instantie van de Staat waar dit specimen is aangevoerd, waarin wordt verklaard dat het specimen overeenkomstig de bepalingen van het andere desbetreffende verdrag, of de andere internationale overeenkomst, is verkregen.
+5. Niettegenstaande de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2005-01-12&g=2005-01-12), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2005-01-12&g=2005-01-12) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2005-01-12&g=2005-01-12) is voor de uitvoer van een overeenkomstig het vierde lid van dit artikel verkregen specimen slechts een certificaat vereist van een administratieve instantie van de Staat waar dit specimen is aangevoerd, waarin wordt verklaard dat het specimen overeenkomstig de bepalingen van het andere desbetreffende verdrag, of de andere internationale overeenkomst, is verkregen.
 
 6. De bepalingen van deze Overeenkomst laten onverlet de codificatie en de ontwikkeling van het zeerecht door de Conferentie der Verenigde Naties over het Zeerecht, bijeengeroepen op grond van Resolutie No. 2750 C (XXV) van de Algemene Vergadering van de Verenigde Naties, benevens de huidige of toekomstige eisen en juridische standpunten van elke Staat inzake het zeerecht en de aard en omvang van zijn rechtsmacht ten aanzien van het zeegebied langs zijn kust en de onder zijn vlag varende schepen.
 
@@ -396,7 +396,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 ##### Artikel XVI. Bijlage III en wijzigingen van deze Bijlage
 
-1. Elke Partij kan te allen tijde aan het Secretariaat een lijst voorleggen van soorten, waarvan hij verklaart dat hij hen, binnen de grenzen van zijn bevoegdheid, tot het onderwerp heeft gemaakt van een regeling ter verwezenlijking van de in het [derde lid van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=II&z=2003-10-16&g=2003-10-16) voorziene doeleinden. Bijlage III bevat de namen van de Partijen die de soort daarop hebben doen opnemen, de wetenschappelijke namen van die soorten en de delen der betreffende dieren en planten en de hieruit verkregen produkten welke uitdrukkelijk worden vermeld met betrekking tot de soort overeenkomstig het bepaalde in [letter b) van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=I&z=2003-10-16&g=2003-10-16).
+1. Elke Partij kan te allen tijde aan het Secretariaat een lijst voorleggen van soorten, waarvan hij verklaart dat hij hen, binnen de grenzen van zijn bevoegdheid, tot het onderwerp heeft gemaakt van een regeling ter verwezenlijking van de in het [derde lid van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=II&z=2005-01-12&g=2005-01-12) voorziene doeleinden. Bijlage III bevat de namen van de Partijen die de soort daarop hebben doen opnemen, de wetenschappelijke namen van die soorten en de delen der betreffende dieren en planten en de hieruit verkregen produkten welke uitdrukkelijk worden vermeld met betrekking tot de soort overeenkomstig het bepaalde in [letter b) van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=I&z=2005-01-12&g=2005-01-12).
 
 2. Elke ingevolge het bepaalde in het eerste lid van dit artikel voorgelegde lijst, wordt door het Secretariaat zo spoedig mogelijk na ontvangst aan de Partijen medegedeeld. De lijst wordt als een integrerend deel van Bijlage III van kracht 90 dagen na de datum van een dergelijke mededeling. Elke Partij kan, te allen tijde na ontvangst van deze lijst, door middel van een schriftelijke kennisgeving aan de depot-Regering, een voorbehoud ten aanzien van elke soort, elk deel van of elk produkt verkregen uit de betreffende dieren of planten, indienen en zolang dit voorbehoud niet is ingetrokken, wordt die Staat beschouwd als een Staat die geen Partij bij deze Overeenkomst is wat betreft de handel in de soort of het deel van of het verkregen produkt uit de betreffende dieren of planten.
 
@@ -438,7 +438,7 @@ Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van 
 
 ##### Artikel XXIII. Voorbehouden
 
-1. Ten aanzien van deze Overeenkomst kunnen geen algemene voorbehouden worden gemaakt. Overeenkomstig het bepaalde in dit artikel en in de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2003-10-16&g=2003-10-16) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XVI&z=2003-10-16&g=2003-10-16) kunnen slechts bijzondere voorbehouden worden gemaakt.
+1. Ten aanzien van deze Overeenkomst kunnen geen algemene voorbehouden worden gemaakt. Overeenkomstig het bepaalde in dit artikel en in de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2005-01-12&g=2005-01-12) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XVI&z=2005-01-12&g=2005-01-12) kunnen slechts bijzondere voorbehouden worden gemaakt.
 
 2. Elke Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, een bijzonder voorbehoud maken betreffende:
 
