@@ -103,11 +103,3 @@ Het aan andere Mogendheden ter berechting overleveren van personen, die verdacht
 2. Zij treedt in werking op een nader door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a
-
-1. De aanvraag tot overlevering betreffende een persoon die zich bevindt in de openbare lichamen Bonaire, Sint Eustatius en Saba die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend en waarover op dat tijdstip nog niet is beslist, wordt behandeld door het vanaf dat tijdstip bevoegde orgaan en afgehandeld met inachtneming van de bepalingen van deze wet.
-
-2. De persoon, bedoeld in het eerste lid, die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), met het oog op overlevering gedetineerd is, wordt beschouwd als iemand die krachtens deze wet in bewaring wordt gehouden of in verzekering is gesteld.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
