@@ -4,7 +4,7 @@ identifier: "BWBR0015645"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-07-11"
-last_updated: "2003-11-15"
+last_updated: "2004-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015645"
 soort: "ministeriele-regeling"
@@ -51,6 +51,8 @@ In deze regeling wordt verstaan onder aanvraag, aanvrager, apparaat, energieprem
 - b. een op of na 16 oktober 2003 ingediende aanvraag ten aanzien van een apparaat of voorziening, terzake waarvan de koopovereenkomst vóór genoemde datum is gesloten, met dien verstande dat zowel de betreffende levering als het indienen van die aanvraag in zoverre in afwijking van [artikel 8, eerste lid, van de Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=8), zoals deze luidde op 15 oktober 2003, vóór 16 januari 2004 moeten hebben plaatsgehad.
 
 2. In gevallen als bedoeld in het eerste lid, aanhef en onder b, waarin de levering en het indienen van de aanvraag niet vóór 16 januari 2004 hebben kunnen plaatsvinden als gevolg van omstandigheden die in redelijkheid niet aan de aanvrager zijn toe te rekenen, kan de minister in bijzondere gevallen aanvragen die door particuliere aanvragers in de periode van dertien weken beginnend op genoemde datum zijn ingediend toewijzen en energiepremies uitkeren voorzover het niet toewijzen zal leiden tot een onbillijkheid van overwegende aard.
+
+3. In afwijking van het eerste lid, aanhef en onder b, in samenhang met [artikel 9, derde lid, van de Tijdelijke regeling energiepremies 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=9), zoals deze luidde op 15 oktober 2003, kan de minister met ingang van 1 juli 2004 overgaan tot het uitkeren van energiepremies in de gevallen, bedoeld in [artikel 9, derde lid, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014481&artikel=9).
 
 ##### Artikel III
 
