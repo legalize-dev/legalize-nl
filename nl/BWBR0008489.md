@@ -4,7 +4,7 @@ identifier: "BWBR0008489"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-07-01"
-last_updated: "1997-11-19"
+last_updated: "2004-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008489"
 soort: "AMvB"
@@ -50,13 +50,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder preparaten: mengsels of oplossingen die bestaan uit twee of meer stoffen, welke in de zin van artikel 3 van de [Richtlijn 88/379/EEG](31988L0379) van de Raad van de Europese Gemeenschappen van 7 juni 1988, betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (**PbEG** L 187), als gevaarlijk worden beschouwd en tenminste één gevaarlijke stof in de [zin van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=2&z=1997-11-19&g=1997-11-19) van deze richtlijn bevatten.
+1. In dit besluit wordt verstaan onder preparaten:
 
-2. Dit besluit is niet van toepassing op de in artikel 1, derde lid van de in het eerste lid bedoelde richtlijn, genoemde produkten.
+- a. mengsels en oplossingen die bestaan uit twee of meer stoffen, welke in de zin van artikel 3 van [richtlijn nr. 99/45/EG](31999L0045) van het Europees Parlement en de Raad van 31 mei 1999, betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200), als gevaarlijk worden beschouwd en ten minste één gevaarlijke stof in de zin van artikel 2, tweede lid, onderdelen a tot en met n, van deze richtlijn bevatten;
+
+- b. biociden in de zin van de [Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380).
+
+2. Dit besluit is niet van toepassing op de in artikel 1, vijfde en zesde lid, van de richtlijn, bedoeld in het eerste lid, onder a, genoemde producten.
 
 ##### Artikel 2
 
-Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=1997-11-19&g=1997-11-19).
+Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2004-08-31&g=2004-08-31).
 
 ##### Artikel 3
 
@@ -72,9 +76,9 @@ Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](ht
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=1997-11-19&g=1997-11-19), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum vertrouwelijk worden behandeld.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2004-08-31&g=2004-08-31), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum vertrouwelijk worden behandeld.
 
-2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=1997-11-19&g=1997-11-19), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum uitsluitend worden gebruikt teneinde te kunnen reageren op medische verzoeken met het oog op preventie dan wel curatieve maatregelen ten aanzien van vergiftigingen.
+2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2004-08-31&g=2004-08-31), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum uitsluitend worden gebruikt teneinde te kunnen reageren op medische verzoeken met het oog op preventie dan wel curatieve maatregelen ten aanzien van vergiftigingen.
 
 ##### Artikel 5
 
