@@ -253,31 +253,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit kan worden aangehaald als "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie",
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 4c
-
-1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2007-07-04&g=2006-01-01) genoemde uitkering wordt, voor zover daarop recht bestaat, verminderd met het bedrag van het versterkt ouderdomspensioen vanaf het bereiken van de leeftijd van 60 jaar.
-
-2. Indien de op grond van [artikel 119 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=119) zoals dat op 31 december 2005 gold en [artikel 171a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=171a) ontslagen ambtenaar niet of niet tijdig het versterkt ouderdomspensioen bij het bereiken van de leeftijd van 60 jaar aanvraagt, en hem dit redelijkerwijs kan worden verweten, wordt, voor de periode waarin hij dientengevolge geen versterkt ouderdomspensioen ontvangt, voor de toepassing van dit artikel rekening gehouden met de uitkering die hij vanaf de ontslagdatum zou hebben genoten indien hij het voornoemde versterkt ouderdomspensioen wel tijdig zou hebben aangevraagd.
-
-3. Ingeval naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2007-07-04&g=2006-01-01) genoemde uitkering inkomsten uit of in verband met arbeid of bedrijf als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2007-07-04&g=2006-01-01) worden genoten, wordt op de uitkering in voorkomend geval boven de vermindering die reeds krachtens het eerste lid plaatsvindt, een vermindering toegepast. Deze vermindering is gelijk aan het bedrag waarmede de onverminderde uitkering krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2007-07-04&g=2006-01-01) vermeerder met het totaal bedrag van de inkomsten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2007-07-04&g=2006-01-01) tezamen de laatstelijk genoten bezoldiging te boven gaat.
-
-#### Inkomsten uit of in verband met arbeid of bedrijf
-
-#### Einde en verval van het recht op uitkering
-
-#### Aanspraak op toelage
-
-#### Vermindering en niet-uitbetaling van de uitkering
-
-#### Betaling
-
-#### Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 15a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
