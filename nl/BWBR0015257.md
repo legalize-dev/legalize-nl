@@ -4,7 +4,7 @@ identifier: "BWBR0015257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2003-06-29"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015257"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als personen bevoegd tot het stellen van magnetische scheepskompassen aan boord van schepen als bedoeld in artikel 2 van de Schepenwet, met inbegrip van vissersvaartuigen, worden aangewezen:
+Als personen bevoegd tot het stellen van magnetische kompassen aan boord van vissersvaartuigen worden aangewezen:
 
 - a. S.J. de Boer en S. van Wijngaarden, in dienst van Kelvin Hughes Observator B.V. te Rotterdam;
 
