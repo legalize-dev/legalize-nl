@@ -182,15 +182,3 @@ Niet opgenomen.
 Niet opgenomen.
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027604&bijlage=1&z=2005-01-01&g=2005-01-01).
-
-##### Artikel 9a
-
-De raadpleging van de kadastrale registratie voor luchtvaartuigen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
-
-### Hoofdstuk 5. Overige en slotbepalingen
-
-## Bijlage 3
-
-Niet opgenomen.
-
-Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027604&bijlage=1&z=2006-11-24&g=2006-11-24).
