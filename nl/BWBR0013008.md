@@ -4,7 +4,7 @@ identifier: "BWBR0013008"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013008"
 soort: "wet"
@@ -212,11 +212,11 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 3:10
 
-1. Een recht op uitkering als bedoeld in de [artikelen 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2002-01-01&g=2002-01-01), en [3:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:8&z=2002-01-01&g=2002-01-01), komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2002-01-01&g=2002-01-01).
+1. Een recht op uitkering als bedoeld in de [artikelen 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2004-01-01&g=2004-01-01), en [3:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:8&z=2004-01-01&g=2004-01-01), komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2004-01-01&g=2004-01-01).
 
-2. Een recht op uitkering als bedoeld in de [artikelen 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2002-01-01&g=2002-01-01), en [3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:9&z=2002-01-01&g=2002-01-01), komt mede toe aan de persoon die, op de eerste dag dat een kind feitelijk ter adoptie is opgenomen, korter dan tien weken geen werknemer of gelijkgestelde meer is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2002-01-01&g=2002-01-01).
+2. Een recht op uitkering als bedoeld in de [artikelen 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:7&z=2004-01-01&g=2004-01-01), en [3:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:9&z=2004-01-01&g=2004-01-01), komt mede toe aan de persoon die, op de eerste dag dat een kind feitelijk ter adoptie is opgenomen, korter dan tien weken geen werknemer of gelijkgestelde meer is als bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2004-01-01&g=2004-01-01).
 
-3. Het tweede lid is van overeenkomstige toepassing op de persoon die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&paragraaf=1&artikel=5:1&z=2002-01-01&g=2002-01-01).
+3. Het tweede lid is van overeenkomstige toepassing op de persoon die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&paragraaf=1&artikel=5:1&z=2004-01-01&g=2004-01-01).
 
 #### De aanvraag van uitkering via de werkgever
 
@@ -236,13 +236,13 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 3:12
 
-1. Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. [Artikel 3:11, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2002-01-01&g=2002-01-01), is van toepassing.
+1. Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. [Artikel 3:11, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2004-01-01&g=2004-01-01), is van toepassing.
 
-2. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2002-01-01&g=2002-01-01), is van toepassing.
+2. Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. [Artikel 3:11, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:11&z=2004-01-01&g=2004-01-01), is van toepassing.
 
 3. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van het eerste en tweede lid.
 
-4. Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2002-01-01&g=2002-01-01).
+4. Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van [artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2004-01-01&g=2004-01-01).
 
 #### De hoogte van de uitkering
 
@@ -250,9 +250,9 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 1. De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.
 
-2. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2002-01-01&g=2002-01-01), en de betrokkene, bedoeld in [artikel 3:10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2002-01-01&g=2002-01-01), vastgesteld overeenkomstig [artikel 15 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=15) en de daarop berustende bepalingen. [Artikel 9, eerste lid, tweede volzin, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) is van overeenkomstige toepassing.
+2. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2004-01-01&g=2004-01-01), en de betrokkene, bedoeld in [artikel 3:10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:10&z=2004-01-01&g=2004-01-01), vastgesteld overeenkomstig [artikel 15 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=15) en de daarop berustende bepalingen. [Artikel 9, eerste lid, tweede volzin, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) is van overeenkomstige toepassing.
 
-3. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2002-01-01&g=2002-01-01), vastgesteld overeenkomstig [artikel 68 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=68) en de regels op grond van [artikel 71, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=71).
+3. Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2004-01-01&g=2004-01-01), vastgesteld overeenkomstig [artikel 68 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=68) en de regels op grond van [artikel 71, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=71).
 
 #### De uitbetaling van de uitkering
 
@@ -300,17 +300,17 @@ De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten me
 
 - l. ter zake van de toepasselijkheid van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448): [artikel 89](onbekend).
 
-2. Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&z=2002-01-01&g=2002-01-01) en de op die artikelen berustende bepalingen van overeenkomstige toepassing:
+2. Met betrekking tot een uitkering op grond van deze paragraaf zijn de volgende artikelen van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&z=2004-01-01&g=2004-01-01) en de op die artikelen berustende bepalingen van overeenkomstige toepassing:
 
-- a. ter zake van terugvordering: [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=7:13&z=2002-01-01&g=2002-01-01);
+- a. ter zake van terugvordering: [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=7:13&z=2004-01-01&g=2004-01-01);
 
-- b. ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 7:14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=7:14&z=2002-01-01&g=2002-01-01);
+- b. ter zake van vervreemding, verpanding en volmacht tot ontvangst: [artikel 7:14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=2&artikel=7:14&z=2004-01-01&g=2004-01-01);
 
-- c. ter zake van boeten: de [artikelen 7:16 tot en met 7:22](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=4&artikel=7:16&z=2002-01-01&g=2002-01-01).
+- c. ter zake van boeten: de [artikelen 7:16 tot en met 7:22](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=4&artikel=7:16&z=2004-01-01&g=2004-01-01).
 
 3. De strafbepaling van artikel 107 van de Organisatiewet sociale verzekeringen 1997 is van overeenkomstige toepassing.
 
-4. In afwijking van het eerste lid, zijn op de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2002-01-01&g=2002-01-01), de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=43) en [56 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=56) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=55) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing. Op de werknemer en de gelijkgestelde, bedoeld in de eerste volzin, is [artikel 67 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=67) van overeenkomstige toepassing.
+4. In afwijking van het eerste lid, zijn op de werknemer en de gelijkgestelde, bedoeld in [artikel 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3:6&z=2004-01-01&g=2004-01-01), de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=43) en [56 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=56) niet van overeenkomstige toepassing en zijn van [artikel 55 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=55) alleen de eerste volzin van het eerste lid en het zevende lid van overeenkomstige toepassing. Op de werknemer en de gelijkgestelde, bedoeld in de eerste volzin, is [artikel 67 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=67) van overeenkomstige toepassing.
 
 5. [Artikel 35, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) is van overeenkomstige toepassing ongeacht of het recht op uitkering met ingang van de dag na het overlijden binnen een maand zou zijn geëindigd.
 
@@ -580,7 +580,7 @@ De werkgever kan achteraf van de werknemer verlangen dat hij aannemelijk maakt d
 
 ##### Artikel 4:7
 
-Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2002-01-01&g=2002-01-01), voor wat betreft de loonbetaling, en de [artikelen 4:2 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2002-01-01&g=2002-01-01) kan uitsluitend worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2002-01-01&g=2002-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
+Van [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2004-01-01&g=2004-01-01), voor wat betreft de loonbetaling, en de [artikelen 4:2 tot en met 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2004-01-01&g=2004-01-01) kan uitsluitend worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=4&paragraaf=4&artikel=4:6&z=2004-01-01&g=2004-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
 
 ### Hoofdstuk 5. Kortdurend zorgverlof
 
@@ -672,7 +672,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ##### Artikel 5:10
 
-Van dit hoofdstuk kan uitsluitend worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&paragraaf=4&artikel=5:9&z=2002-01-01&g=2002-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
+Van dit hoofdstuk kan uitsluitend worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging, met dien verstande dat de werknemer bij afwijking van [artikel 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=5&paragraaf=4&artikel=5:9&z=2004-01-01&g=2004-01-01) ten minste recht houdt op het wettelijke minimum aan vakantie-aanspraken.
 
 ### Hoofdstuk 6. Ouderschapsverlof
 
@@ -808,7 +808,7 @@ De afspraak over het begin en het einde van het verlof, en het aantal uren verlo
 
 - b. een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) ontvangt of een naar aard en strekking daarmee overeenkomende uitkering dan wel arbeidsgehandicapte is als bedoeld in [artikel 2 van de Wet op de (re) integratie van arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=2), of
 
-- c. algemene bijstand krachtens de[Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333) ontvangt, dan wel een uitkering krachtens de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) dan wel de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), of
+- c. algemene bijstand krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangt, dan wel een uitkering krachtens de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) dan wel de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), of
 
 - d. gedurende twee jaar voorafgaand aan de vervanging niet meer dan 50 dagen of 400 uur op jaarbasis arbeid heeft verricht.
 
@@ -1010,11 +1010,11 @@ De financiële tegemoetkoming eindigt met ingang van de eerste dag van de kalend
 
 ##### Artikel 7:16
 
-1. Indien de verlofganger de verplichting, bedoeld in [artikel 7:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2002-01-01&g=2002-01-01), of de werkgever de verplichting , bedoeld in [artikel 7:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2002-01-01&g=2002-01-01), niet of niet behoorlijk is nagekomen, legt het Uitvoeringsinstituut werknemersverzekeringen hem een boete op van ten hoogste € 2 269.
+1. Indien de verlofganger de verplichting, bedoeld in [artikel 7:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2004-01-01&g=2004-01-01), of de werkgever de verplichting , bedoeld in [artikel 7:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2004-01-01&g=2004-01-01), niet of niet behoorlijk is nagekomen, legt het Uitvoeringsinstituut werknemersverzekeringen hem een boete op van ten hoogste € 2 269.
 
 2. De hoogte van de boete wordt afgestemd op de ernst van de gedraging, de mate waarin de verlofganger of de werkgever de gedraging verweten kan worden en de omstandigheden waarin hij verkeert. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-3. Indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 7:15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2002-01-01&g=2002-01-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de financiële tegemoetkoming, kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verlofganger of de werkgever een zodanige waarschuwing is gegeven.
+3. Indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 7:15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7&afdeling=2&paragraaf=3&artikel=7:15&z=2004-01-01&g=2004-01-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de financiële tegemoetkoming, kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de verlofganger of de werkgever een zodanige waarschuwing is gegeven.
 
 4. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van het opleggen van een boete af te zien.
 
@@ -1064,11 +1064,11 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 ##### Artikel 7:22
 
-1. Het besluit waarbij een boete is opgelegd levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend). De titel heeft mede betrekking op de rente en kosten, bedoeld in het zesde lid.
+1. Het besluit waarbij een boete is opgelegd levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede). De titel heeft mede betrekking op de rente en kosten, bedoeld in het zesde lid.
 
 2. Indien degene aan wie een boete is opgelegd uitkering ontvangt op grond van deze wet, de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), wordt het besluit waarbij de boete is opgelegd tenuitvoergelegd door verrekening met die uitkering of toeslag.
 
-3. Indien degene aan wie een boete is opgelegd een uitkering ontvangt op grond van de .[Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344), betaalt de Sociale verzekeringsbank, onderscheidenlijk de betrokken gemeente het bedrag van die boete, zonder dat daarvoor een machtiging nodig is van hem, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen.
+3. Indien degene aan wie een boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344), betaalt de Sociale verzekeringsbank, onderscheidenlijk de betrokken gemeente het bedrag van die boete, zonder dat daarvoor een machtiging nodig is van hem, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 4. Indien degene aan wie een boete is opgelegd geen uitkering als bedoeld in het tweede of derde lid ontvangt, of meer ontvangt, dan wel ten aanzien van zodanige uitkering toepassing van het tweede of derde lid niet mogelijk is, wordt het besluit waarbij de boete is opgelegd bij gebreke van tijdige betaling met toepassing van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) op zijn kosten betekend en tenuitvoergelegd.
 
