@@ -667,29 +667,3 @@ DONE at Kiev this 24th day of October 1995, in duplicate, in the English, Nether
 **For Ukraine**
 
 **(sd.) P. K. HERMANTJOEK**
-
-##### Artikel 24a. Recht op voordelen
-
-1. Niettegenstaande de overige bepalingen van dit Verdrag, wordt een voordeel uit hoofde van dit Verdrag niet toegekend met betrekking tot een inkomens- of vermogensbestanddeel indien, alle relevante feiten en omstandigheden in aanmerking genomen, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dit voordeel een van de voornaamste redenen was voor een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat toekenning van dit voordeel onder deze omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de relevante bepalingen van dit Verdrag.
-
-2. Indien een persoon een voordeel uit hoofde van dit Verdrag wordt geweigerd ingevolge het eerste lid van dit artikel, dient de bevoegde autoriteit van de Verdragsluitende Staat die het voordeel anderszins zou hebben toegekend deze persoon desalniettemin te behandelen alsof deze recht heeft op dit voordeel of op andere voordelen ter zake van een specifiek bestanddeel van het inkomen of het vermogen, indien deze bevoegde autoriteit, op verzoek van deze persoon en na bestudering van de relevante feiten en omstandigheden, vaststelt dat deze voordelen zouden zijn verleend bij het ontbreken van de transactie of constructie bedoeld in het eerste lid van dit artikel.
-
-3. De bevoegde autoriteit van een Verdragsluitende Staat raadpleegt de bevoegde autoriteit van de andere Verdragsluitende Staat alvorens een voordeel uit hoofde van het eerste of tweede lid van dit artikel te weigeren.
-
-Ter zake van het tussen het Koninkrijk der Nederlanden en Oekraïne gesloten Verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontduiken en ontwijken van belasting, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-##### IA. Ad [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001259&artikel=5&z=2021-08-31&g=2021-08-31)
-
-Het is wel te verstaan dat de werkzaamheden als bedoeld in [artikel 5, vierde lid, letters e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001259&artikel=5&z=2021-08-31&g=2021-08-31), van het Verdrag, mede omvatten voorbereidende of hulpwerkzaamheden met betrekking tot het proces van het afsluiten (waaronder begrepen slechts de ondertekening) van overeenkomsten betreffende leningen, betreffende de levering van goederen of koopwaar of betreffende de verlening van technische diensten.
-
-IN WITNESS whereof the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at Kiev this 24th day of October 1995, in duplicate, in the English, Netherlands and the Ukrainian languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Ukrainian texts, the English text shall prevail.
-
-**For the Kingdom of the Netherlands**
-
-**(sd.) G. ZALM**
-
-**For Ukraine**
-
-**(sd.) P. K. HERMANTJOEK**
