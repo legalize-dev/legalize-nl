@@ -4,7 +4,7 @@ identifier: "BWBR0009525"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "1999-08-01"
+last_updated: "2002-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009525"
 soort: "wet"
@@ -108,19 +108,19 @@ Wijzigt de Wet medezeggenschap onderwijs 1992.
 
 ##### ARTIKEL VII. PLAATSING IN STAATSBLAD VAN WPO; KONINKLIJKE BESLUITEN EN MINISTERIËLE REGELINGEN OP BASIS VAN WPO
 
-1. De tekst van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, hoofdstukken, titels, afdelingen en paragrafen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) opnieuw vast en brengt hij de in die en deze wet voorkomende aanhalingen en de inhoudsopgave met de nieuwe nummering op grond van dit artikel en de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VIII&z=1999-08-01&g=1999-08-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=IX&z=1999-08-01&g=1999-08-01) in overeenstemming.
+1. De tekst van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, hoofdstukken, titels, afdelingen en paragrafen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) opnieuw vast en brengt hij de in die en deze wet voorkomende aanhalingen en de inhoudsopgave met de nieuwe nummering op grond van dit artikel en de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VIII&z=2002-07-03&g=2002-07-03) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=IX&z=2002-07-03&g=2002-07-03) in overeenstemming.
 
 2. De koninklijke besluiten en ministeriële regelingen die op grond van de [Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) tot stand zijn gekomen, gelden met ingang van 1 augustus 1998 als koninklijke besluiten onderscheidenlijk ministeriële regelingen, gebaseerd op de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
 ##### ARTIKEL VIII. PLAATSING IN STAATSBLAD VAN WEC; KONINKLIJKE BESLUITEN EN MINISTERIËLE REGELINGEN OP BASIS VAN WEC
 
-1. De tekst van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, titels, afdelingen en paragrafen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) opnieuw vast en brengt hij de in die en deze wet voorkomende aanhalingen en de inhoudsopgave met de nieuwe nummering op grond van dit artikel en de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VII&z=1999-08-01&g=1999-08-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=IX&z=1999-08-01&g=1999-08-01) in overeenstemming.
+1. De tekst van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, titels, afdelingen en paragrafen van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) opnieuw vast en brengt hij de in die en deze wet voorkomende aanhalingen en de inhoudsopgave met de nieuwe nummering op grond van dit artikel en de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VII&z=2002-07-03&g=2002-07-03) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=IX&z=2002-07-03&g=2002-07-03) in overeenstemming.
 
 2. De koninklijke besluiten en ministeriële regelingen die op grond van de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) tot stand zijn gekomen, gelden met ingang van 1 augustus 1998 als koninklijke besluiten onderscheidenlijk ministeriële regelingen, gebaseerd op de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
 ##### ARTIKEL IX. PLAATSING IN STAATSBLAD VAN WVO; KONINKLIJKE BESLUITEN EN MINISTERIËLE REGELINGEN OP BASIS VAN DEEL II VAN DE WVO
 
-1. De tekst van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, titels, afdelingen en paragrafen van deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) opnieuw vast en brengt hij de in dat deel en deze wet voorkomende aanhalingen met de nieuwe nummering op grond van dit artikel en de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VII&z=1999-08-01&g=1999-08-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VIII&z=1999-08-01&g=1999-08-01) in overeenstemming.
+1. De tekst van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen, titels, afdelingen en paragrafen van deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) opnieuw vast en brengt hij de in dat deel en deze wet voorkomende aanhalingen met de nieuwe nummering op grond van dit artikel en de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VII&z=2002-07-03&g=2002-07-03) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=VIII&z=2002-07-03&g=2002-07-03) in overeenstemming.
 
 2. De koninklijke besluiten en ministeriële regelingen die op grond van de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) tot stand zijn gekomen, gelden met ingang van 1 augustus 1998 als koninklijke besluiten onderscheidenlijk ministeriële regelingen, gebaseerd op deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
@@ -206,7 +206,7 @@ Wijzigt de Wet geluidhinder.
 
 ##### ARTIKEL XXIX. AARD BEPALINGEN
 
-De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.1&artikel=XXX&z=1999-08-01&g=1999-08-01) gegeven voorschriften, voor zover zij scholen betreffen, zijn regels voor het openbaar onderwijs en voorwaarden voor bekostiging van het bijzonder onderwijs.
+De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.1&artikel=XXX&z=2002-07-03&g=2002-07-03) gegeven voorschriften, voor zover zij scholen betreffen, zijn regels voor het openbaar onderwijs en voorwaarden voor bekostiging van het bijzonder onderwijs.
 
 ##### ARTIKEL XXX. TIJDELIJKE REGELING; GEVOLGEN INVOERING WET
 
@@ -218,7 +218,7 @@ De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/
 
 ##### ARTIKEL XXXI. INHOUDING VERGOEDING BIJ NIET-NAKOMING OVERGANGSBEPALINGEN
 
-1. Onze Minister van Onderwijs, Cultuur en Wetenschappen kan bepalen dat de vergoedingen geheel of gedeeltelijk worden ingehouden, indien het bevoegd gezag van een openbare school, onderscheidenlijk het bevoegd gezag van een bijzondere school, de bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.1&artikel=XXX&z=1999-08-01&g=1999-08-01) gegeven voorschriften, onderscheidenlijk gestelde bekostigingsvoorwaarden, niet nakomt.
+1. Onze Minister van Onderwijs, Cultuur en Wetenschappen kan bepalen dat de vergoedingen geheel of gedeeltelijk worden ingehouden, indien het bevoegd gezag van een openbare school, onderscheidenlijk het bevoegd gezag van een bijzondere school, de bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.1&artikel=XXX&z=2002-07-03&g=2002-07-03) gegeven voorschriften, onderscheidenlijk gestelde bekostigingsvoorwaarden, niet nakomt.
 
 2. Onze Minister van Onderwijs, Cultuur en Wetenschappen kent de vergoedingen wederom toe, indien blijkt dat de reden voor toepassing van het eerste lid is vervallen.
 
@@ -320,7 +320,7 @@ De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/
 
 ##### ARTIKEL XXXV. VOORTZETTING DIENSTVERBAND PERSONEEL LOM/MLK/IOBK/ZMLK PER 1 AUGUSTUS 1998
 
-1. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit eerstgenoemde school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden voor de speciale school voor basisonderwijs voor zover
+1. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit eerstgenoemde school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden voor de speciale school voor basisonderwijs voor zover
 
 - a. het dienstverband gezien de op 31 juli 1998 geldende rechten en verplichtingen op 1 augustus 1998 zou zijn gehandhaafd, en
 
@@ -332,19 +332,19 @@ De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/
 
 - 3°. binnen een afdeling voor speciaal onderwijs aan zeer moeilijk lerende kinderen van eerstgenoemde school of scholengemeenschap en met toepassing van de afvloeiingsregeling, bedoeld in [hoofdstuk I-G van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&hoofdstuk=I-G) met ingang van 1 augustus 1998 werkzaam zal zijn voor de speciale school voor basisonderwijs.
 
-2. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste lid, onderdeel c of d, juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag, wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit eerstgenoemde school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden aan de afdeling als bedoeld in [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXVII&z=1999-08-01&g=1999-08-01), voor zover
+2. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste lid, onderdeel c of d, juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag, wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit eerstgenoemde school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden aan de afdeling als bedoeld in [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXVII&z=2002-07-03&g=2002-07-03), voor zover
 
 - a. het dienstverband gezien de op 31 juli 1998 geldende rechten en verplichtingen op 1 augustus 1998 zou zijn gehandhaafd, en
 
 - b. het personeelslid op 31 juli 1998 werkzaam was binnen het voortgezet speciaal onderwijs van eerstgenoemde school of scholengemeenschap.
 
-3. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), waaraan een afdeling voor zeer moeilijk lerende kinderen is verbonden, en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag, wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit die school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden aan de afdeling als bedoeld in [artikel XXXIII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), voor zover
+3. Het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), waaraan een afdeling voor zeer moeilijk lerende kinderen is verbonden, en een personeelslid dat op 31 juli 1998 in dienst is bij dat bevoegd gezag, wordt met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs die uit die school of scholengemeenschap is ontstaan, ten behoeve van het verrichten van werkzaamheden aan de afdeling als bedoeld in [artikel XXXIII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), voor zover
 
 - a. het dienstverband gezien de op 31 juli 1998 geldende rechten en verplichtingen op 1 augustus 1998 zou zijn gehandhaafd, en
 
 - b. het personeelslid op 31 juli 1998 werkzaam was binnen eerstgenoemde afdeling.
 
-4. De voortzetting per 1 augustus 1998 van een dienstverband als bedoeld in de voorgaande leden geschiedt zoveel mogelijk met inachtneming van de rechten en verplichtingen die onder de werking van de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) per die datum in dat dienstverband zouden hebben gegolden en, voor wat betreft personeelsleden als bedoeld in het eerste lid, onverminderd de [artikelen XLI tot en met XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLI&z=1999-08-01&g=1999-08-01) en [artikel XLVII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVII&z=1999-08-01&g=1999-08-01).
+4. De voortzetting per 1 augustus 1998 van een dienstverband als bedoeld in de voorgaande leden geschiedt zoveel mogelijk met inachtneming van de rechten en verplichtingen die onder de werking van de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) per die datum in dat dienstverband zouden hebben gegolden en, voor wat betreft personeelsleden als bedoeld in het eerste lid, onverminderd de [artikelen XLI tot en met XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLI&z=2002-07-03&g=2002-07-03) en [artikel XLVII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVII&z=2002-07-03&g=2002-07-03).
 
 5. In afwijking van het eerste tot en met het derde lid wordt het dienstverband tussen het bevoegd gezag van een school of scholengemeenschap als bedoeld in die leden en de directeur van die school of scholengemeenschap met ingang van 1 augustus 1998 voortgezet door het bevoegd gezag van de speciale school voor basisonderwijs, ten behoeve van het verrichten van werkzaamheden aan zowel de speciale school voor basisonderwijs als de daaraan verbonden afdeling, voor zover het dienstverband, gezien de op 31 juli 1998 geldende rechten en verplichtingen, op 1 augustus 1998 zou zijn gehandhaafd.
 
@@ -352,13 +352,13 @@ De bij of krachtens de [artikelen XXX tot en met LV](https://wetten.overheid.nl/
 
 1. Met ingang van 1 augustus 1998 komt behoudens het gestelde in het tweede lid voor bekostiging op grond van deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) in aanmerking een school voor voortgezet speciaal onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden of moeilijk lerende kinderen.
 
-2. [Artikel XXXIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), is van overeenkomstige toepassing.
+2. [Artikel XXXIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), is van overeenkomstige toepassing.
 
 3. Het dienstverband met het personeel wordt voortgezet voor zover het gezien de op 31 juli 1998 geldende rechten en verplichtingen op 1 augustus 1998 zou zijn gehandhaafd.
 
 ##### ARTIKEL XXXVII. TIJDELIJKE VOORTZETTING BEKOSTIGING SOVSO-SCHOLEN LOM/MLK/IOBK ALS SPECIALE SCHOOL VOOR BASISONDERWIJS MET VSO-AFDELING
 
-1. Aan een speciale school voor basisonderwijs die is ontstaan uit een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel XXXIII, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), of een scholengemeenschap voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel XXXIII, eerste lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01) , is in de periode vanaf 1 augustus 1998 tot een bij koninklijk besluit te bepalen datum een afdeling voor voortgezet speciaal onderwijs voor kinderen met leer- en opvoedingsmoeilijkheden of moeilijk lerende kinderen verbonden die is ontstaan uit het voortgezet speciaal onderwijs van laatstgenoemde school.
+1. Aan een speciale school voor basisonderwijs die is ontstaan uit een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel XXXIII, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), of een scholengemeenschap voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel XXXIII, eerste lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03) , is in de periode vanaf 1 augustus 1998 tot een bij koninklijk besluit te bepalen datum een afdeling voor voortgezet speciaal onderwijs voor kinderen met leer- en opvoedingsmoeilijkheden of moeilijk lerende kinderen verbonden die is ontstaan uit het voortgezet speciaal onderwijs van laatstgenoemde school.
 
 2. Artikel XXXIII, derde lid, is van overeenkomstige toepassing.
 
@@ -378,7 +378,7 @@ Vervallen
 
 1. Een afdeling voor in hun ontwikkeling bedreigde kleuters die op 31 juli 1998 was verbonden aan een school voor speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs aan zeer moeilijk opvoedbare kinderen is tot een bij koninklijk besluit te bepalen datum verbonden aan die school.
 
-2. [Artikel XXXIII, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), [artikel XXXV, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=1999-08-01&g=1999-08-01), en [artikel XXXVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXVI&z=1999-08-01&g=1999-08-01), zijn van overeenkomstige toepassing.
+2. [Artikel XXXIII, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), [artikel XXXV, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=2002-07-03&g=2002-07-03), en [artikel XXXVI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXVI&z=2002-07-03&g=2002-07-03), zijn van overeenkomstige toepassing.
 
 3. Op de afdeling, bedoeld in het eerste lid, zijn de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de daarop gebaseerde algemeen verbindende voorschriften en terzake vastgestelde beleidsregels van toepassing, met dien verstande dat bedoelde algemeen verbindende voorschriften en beleidsregels bij algemene maatregel van bestuur onderscheidenlijk ministeriële regeling of beleidsregels kunnen worden aangepast.
 
@@ -390,13 +390,13 @@ Vervallen
 
 In deze paragraaf wordt verstaan onder:
 
-- a. personeelslid met een werkgelegenheidsgarantie: een personeelslid als bedoeld in [artikel XXXV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=1999-08-01&g=1999-08-01), van wie de functie op 31 juli 1998 was opgenomen in de formatie als bedoeld in [artikel I-P76, tweede lid, onder a van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P76), voorzolang en voorzover dat personeelslid zonder onderbreking in dienst is bij
+- a. personeelslid met een werkgelegenheidsgarantie: een personeelslid als bedoeld in [artikel XXXV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=2002-07-03&g=2002-07-03), van wie de functie op 31 juli 1998 was opgenomen in de formatie als bedoeld in [artikel I-P76, tweede lid, onder a van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P76), voorzolang en voorzover dat personeelslid zonder onderbreking in dienst is bij
 
-- 1°. het bevoegd gezag van een speciale school voor basisonderwijs als bedoeld in [artikel XXXV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=1999-08-01&g=1999-08-01), ten behoeve van het verrichten van werkzaamheden aan die school, of
+- 1°. het bevoegd gezag van een speciale school voor basisonderwijs als bedoeld in [artikel XXXV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXV&z=2002-07-03&g=2002-07-03), ten behoeve van het verrichten van werkzaamheden aan die school, of
 
-- 2°. het bevoegd gezag van een andere speciale school voor basisonderwijs waarbij dat personeelslid in aansluiting op het onder 1° bedoelde dienstverband wordt herplaatst in een functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01) ten behoeve van het verrichten van werkzaamheden aan die school;
+- 2°. het bevoegd gezag van een andere speciale school voor basisonderwijs waarbij dat personeelslid in aansluiting op het onder 1° bedoelde dienstverband wordt herplaatst in een functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03) ten behoeve van het verrichten van werkzaamheden aan die school;
 
-- b. samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel XXXII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.2&artikel=XXXII&z=1999-08-01&g=1999-08-01), dat is goedgekeurd door Onze Minister van Onderwijs, Cultuur en Wetenschappen;
+- b. samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel XXXII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.2&artikel=XXXII&z=2002-07-03&g=2002-07-03), dat is goedgekeurd door Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
 - c. zorgformatie voor de basisscholen: de formatie die aan het bevoegd gezag van alle scholen in een samenwerkingsverband dan wel, indien verschillende bevoegde gezagsorganen samenwerken in een samenwerkingsverband, de centrale dienst op grond van [artikel 96h, eerste of tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96h) is toegekend, verminderd met de WSNS-faciliteiten ad f 28,– per basisschoolleerling die in het schooljaar 1998–1999 ten behoeve van de basisscholen in het samenwerkingsverband zijn toegekend;
 
@@ -412,13 +412,13 @@ In deze paragraaf wordt verstaan onder:
 
 - b. de zorgformatie voor de speciale school of scholen voor basisonderwijs van het bevoegd gezag waarbij het betrokken personeelslid is benoemd, of
 
-- c. de overgangsformatie als bedoeld in de [artikelen XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01) en [XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=1999-08-01&g=1999-08-01).
+- c. de overgangsformatie als bedoeld in de [artikelen XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03) en [XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=2002-07-03&g=2002-07-03).
 
-2. In het schooljaar 1998–1999 vindt het eerste lid toepassing ten aanzien van de formatie, bedoeld in [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), die de in het eerste lid bedoelde school of scholen voor dat schooljaar is toegekend, exclusief de formatie waarop die school of scholen bij toepassing van [artikel 96b1, eerste lid, onder a en b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) aanspraak zouden hebben gemaakt.
+2. In het schooljaar 1998–1999 vindt het eerste lid toepassing ten aanzien van de formatie, bedoeld in [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), die de in het eerste lid bedoelde school of scholen voor dat schooljaar is toegekend, exclusief de formatie waarop die school of scholen bij toepassing van [artikel 96b1, eerste lid, onder a en b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) aanspraak zouden hebben gemaakt.
 
 3. Het eerste lid is niet van toepassing indien:
 
-- a. het betrokken personeelslid gelijktijdig wordt herplaatst in een functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01), of
+- a. het betrokken personeelslid gelijktijdig wordt herplaatst in een functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03), of
 
 - b. het betrokken personeelslid herplaatsing in een functie als bedoeld onder a weigert.
 
@@ -452,7 +452,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### ARTIKEL XLIII. SALARISGARANTIE PERSONEELSLID MET WERKGELEGENHEIDSGARANTIE EN VERGOEDING KOSTEN SALARISGARANTIE
 
-1. Een personeelslid met een werkgelegenheidsgarantie dat zowel op 31 juli 1996 als op 31 juli 1998 was benoemd bij het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), heeft bij herplaatsing in een nieuwe functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01) ten minste aanspraak op salariëring volgens het carrièrepatroon dat in de oude functie laatstelijk voor hem gold, alsmede op behoud van het uitzicht op de maximumschaal welke in die functie laatstelijk voor hem gold. De in de eerste volzin bedoelde aanspraak geldt niet voor zover de omvang van de nieuwe functie de omvang van de oude functie overschrijdt.
+1. Een personeelslid met een werkgelegenheidsgarantie dat zowel op 31 juli 1996 als op 31 juli 1998 was benoemd bij het bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel XXXIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), heeft bij herplaatsing in een nieuwe functie als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03) ten minste aanspraak op salariëring volgens het carrièrepatroon dat in de oude functie laatstelijk voor hem gold, alsmede op behoud van het uitzicht op de maximumschaal welke in die functie laatstelijk voor hem gold. De in de eerste volzin bedoelde aanspraak geldt niet voor zover de omvang van de nieuwe functie de omvang van de oude functie overschrijdt.
 
 2. Bij een herplaatsing als bedoeld in het eerste lid wordt het verbruik van formatierekeneenheden, bedoeld in [artikel I-P78 van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P78), voor het betrokken personeelslid gebaseerd op de maximumschaal en het carrièrepatroon behorende bij de oude functie, tenzij het verbruik behorende bij de nieuwe functie gelijk of hoger is.
 
@@ -464,7 +464,7 @@ In deze paragraaf wordt verstaan onder:
 
 - c. herplaatsing in een functie met hetzelfde verbruik van formatierekeneenheden als de oude functie niet mogelijk is,
 
-- d. de benoeming in de oude functie uitsluitend gecontinueerd had kunnen worden met behulp van formatierekeneenheden als bedoeld in [artikel XLIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=1999-08-01&g=1999-08-01), en
+- d. de benoeming in de oude functie uitsluitend gecontinueerd had kunnen worden met behulp van formatierekeneenheden als bedoeld in [artikel XLIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=2002-07-03&g=2002-07-03), en
 
 - e. is voldaan aan de in het vierde lid bedoelde regels, heeft het bevoegd gezag waarbij het personeelslid wordt herplaatst voor de duur van het dienstverband met dat personeelslid aanspraak op een vergoeding van rijkswege ter grootte van het verschil in verbruik van formatierekeneenheden tussen de oude en de nieuwe functie.
 
@@ -474,9 +474,9 @@ In deze paragraaf wordt verstaan onder:
 
 1. Indien het bevoegd gezag van een speciale school voor basisonderwijs in enig schooljaar over onvoldoende formatierekeneenheden beschikt om de dienstbetrekking in stand te houden met een personeelslid met een werkgelegenheidsgarantie, dan draagt het bevoegd gezag van alle scholen in een samenwerkingsverband, dan wel, indien verschillende bevoegde gezagsorganen samenwerken in het verband, het bestuur van de centrale dienst van het verband het equivalent van het tekort aan formatierekeneenheden over aan het bevoegd gezag van eerstgenoemde school.
 
-2. De verplichting, bedoeld in het eerste lid, heeft maximaal betrekking op de zorgformatie voor de basisscholen en de eventuele overgangsformatie, bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), waarop aanspraak bestaat in het desbetreffende schooljaar, vermeerderd met de eventuele overgangsformatie, bedoeld in [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=1999-08-01&g=1999-08-01), waarop aanspraak bestaat in het desbetreffende schooljaar of, indien niet is voldaan aan de voorwaarde, bedoeld in het tweede lid onder b, van dat artikel, aanspraak zou hebben bestaan indien daaraan wel zou zijn voldaan. [Artikel 96c1, zesde en zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1) is van overeenkomstige toepassing.
+2. De verplichting, bedoeld in het eerste lid, heeft maximaal betrekking op de zorgformatie voor de basisscholen en de eventuele overgangsformatie, bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), waarop aanspraak bestaat in het desbetreffende schooljaar, vermeerderd met de eventuele overgangsformatie, bedoeld in [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=2002-07-03&g=2002-07-03), waarop aanspraak bestaat in het desbetreffende schooljaar of, indien niet is voldaan aan de voorwaarde, bedoeld in het tweede lid onder b, van dat artikel, aanspraak zou hebben bestaan indien daaraan wel zou zijn voldaan. [Artikel 96c1, zesde en zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1) is van overeenkomstige toepassing.
 
-3. Indien het bevoegd gezag van alle scholen in een samenwerkingsverband, dan wel, indien verschillende bevoegde gezagsorganen samenwerken in het verband, het bestuur van de centrale dienst van het verband tevens formatie overdraagt op grond van [artikel 96c1, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1), dan wordt die formatie voor de toepassing van het tweede lid in mindering gebracht op de zorgformatie voor de basisscholen en de eventuele overgangsformatie, bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01). Indien de op grond van eerstgenoemd artikellid overgedragen formatie meer bedraagt dan de genoemde zorgformatie en eventuele overgangsformatie, dan blijft het meerdere voor de toepassing van het tweede lid buiten beschouwing. Indien de overdracht van formatie, bedoeld in de eerste volzin, plaatsvindt met toepassing van [artikel 96c1, vierde lid, tweede volzin, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1), dan wordt ter uitvoering van de eerste volzin uitgegaan van de formatie welke zonder die toepassing overgedragen had moeten worden.
+3. Indien het bevoegd gezag van alle scholen in een samenwerkingsverband, dan wel, indien verschillende bevoegde gezagsorganen samenwerken in het verband, het bestuur van de centrale dienst van het verband tevens formatie overdraagt op grond van [artikel 96c1, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1), dan wordt die formatie voor de toepassing van het tweede lid in mindering gebracht op de zorgformatie voor de basisscholen en de eventuele overgangsformatie, bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03). Indien de op grond van eerstgenoemd artikellid overgedragen formatie meer bedraagt dan de genoemde zorgformatie en eventuele overgangsformatie, dan blijft het meerdere voor de toepassing van het tweede lid buiten beschouwing. Indien de overdracht van formatie, bedoeld in de eerste volzin, plaatsvindt met toepassing van [artikel 96c1, vierde lid, tweede volzin, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1), dan wordt ter uitvoering van de eerste volzin uitgegaan van de formatie welke zonder die toepassing overgedragen had moeten worden.
 
 4. Het reglement, bedoeld in [artikel 13c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13c), bepaalt de wijze waarop de omvang wordt vastgesteld van het tekort, bedoeld in het eerste lid, respectievelijk van het aandeel van de onderscheiden basisscholen in de overdracht van formatierekeneenheden als bedoeld in dat lid.
 
@@ -500,7 +500,7 @@ In deze paragraaf wordt verstaan onder:
 
 4. Indien een speciale school voor basisonderwijs deelneemt in meer dan een samenwerkingsverband, dan wordt voor de toepassing van het tweede en derde lid de formatie welke die school op 31 juli 1998 ontving, toegerekend aan de samenwerkingsverbanden naar rato van het aantal basisschoolleerlingen van elk samenwerkingsverband.
 
-5. Voor de toepassing van de voorgaande leden worden de speciale scholen voor basisonderwijs in het schooljaar 1997–1998 aangemerkt als de scholen of scholengemeenschappen of delen daarvan, bedoeld in [artikel XXXIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=1999-08-01&g=1999-08-01), waaruit zij zijn ontstaan.
+5. Voor de toepassing van de voorgaande leden worden de speciale scholen voor basisonderwijs in het schooljaar 1997–1998 aangemerkt als de scholen of scholengemeenschappen of delen daarvan, bedoeld in [artikel XXXIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.3&artikel=XXXIII&z=2002-07-03&g=2002-07-03), waaruit zij zijn ontstaan.
 
 6. De [artikelen 13b, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13b), en [114b, zesde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=114b) zijn van overeenkomstige toepassing.
 
@@ -508,25 +508,25 @@ In deze paragraaf wordt verstaan onder:
 
 ##### ARTIKEL XLVI. AANVULLENDE OVERGANGSFORMATIE
 
-1. Onze Minister van Onderwijs, Cultuur en Wetenschappen kan, voor de eerste maal met ingang van 1 augustus 1999, op aanvraag van de bevoegde gezagsorganen van de gezamenlijke basisscholen in een samenwerkingsverband besluiten extra formatierekeneenheden toe te kennen aan het bevoegd gezag van alle scholen in een samenwerkingsverband, dan wel, indien verschillende bevoegde gezagsorganen samenwerken in het verband, het bestuur van de centrale dienst van het verband, voor zover de zorgformatie voor de basisscholen, vermeerderd met de overgangsformatie als bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), ontoereikend is om te voldoen aan de overdrachtsverplichting ingevolge [artikel XLIV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=1999-08-01&g=1999-08-01).
+1. Onze Minister van Onderwijs, Cultuur en Wetenschappen kan, voor de eerste maal met ingang van 1 augustus 1999, op aanvraag van de bevoegde gezagsorganen van de gezamenlijke basisscholen in een samenwerkingsverband besluiten extra formatierekeneenheden toe te kennen aan het bevoegd gezag van alle scholen in een samenwerkingsverband, dan wel, indien verschillende bevoegde gezagsorganen samenwerken in het verband, het bestuur van de centrale dienst van het verband, voor zover de zorgformatie voor de basisscholen, vermeerderd met de overgangsformatie als bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), ontoereikend is om te voldoen aan de overdrachtsverplichting ingevolge [artikel XLIV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=2002-07-03&g=2002-07-03).
 
 2. Een aanvraag als bedoeld in het eerste lid wordt slechts ingewilligd indien
 
-- a. het betrokken bevoegd gezag of het bestuur van de betrokken centrale dienst aanspraak maakt op overgangsformatie als bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), en
+- a. het betrokken bevoegd gezag of het bestuur van de betrokken centrale dienst aanspraak maakt op overgangsformatie als bedoeld in [artikel XLV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), en
 
-- b. het betrokken bevoegd gezag of de betrokken bevoegde gezagsorganen aantonen zich voldoende te hebben ingespannen om personeelsleden met een werkgelegenheidsgarantie te herplaatsen in functies als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01) aan basisscholen in het desbetreffende samenwerkingsverband.
+- b. het betrokken bevoegd gezag of de betrokken bevoegde gezagsorganen aantonen zich voldoende te hebben ingespannen om personeelsleden met een werkgelegenheidsgarantie te herplaatsen in functies als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03) aan basisscholen in het desbetreffende samenwerkingsverband.
 
-3. Een aanvraag als bedoeld in het eerste lid wordt niet ingewilligd voor zover dit verzoek betrekking heeft op de meerdere overgedragen formatie als bedoeld in [artikel XLIV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=1999-08-01&g=1999-08-01), tweede volzin.
+3. Een aanvraag als bedoeld in het eerste lid wordt niet ingewilligd voor zover dit verzoek betrekking heeft op de meerdere overgedragen formatie als bedoeld in [artikel XLIV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=2002-07-03&g=2002-07-03), tweede volzin.
 
 4. De [artikelen 13b, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13b), en [114b, zesde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=114b) zijn van overeenkomstige toepassing.
 
 ##### ARTIKEL XLVII. VERPLICHTINGEN PERSONEELSLID MET WERKGELEGENHEIDSGARANTIE
 
-1. Een personeelslid met een werkgelegenheidsgarantie, wiens dienstbetrekking uitsluitend in stand kan worden gehouden met behulp van formatierekeneenheden als bedoeld in [artikel XLIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=1999-08-01&g=1999-08-01), is verplicht andere hem door het bevoegd gezag opgedragen werkzaamheden te verrichten aan de eigen of een andere instelling in het samenwerkingsverband, die in het kader van de door hem vervulde functie passend zijn te achten, dan wel een functie te aanvaarden als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01) .
+1. Een personeelslid met een werkgelegenheidsgarantie, wiens dienstbetrekking uitsluitend in stand kan worden gehouden met behulp van formatierekeneenheden als bedoeld in [artikel XLIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=2002-07-03&g=2002-07-03), is verplicht andere hem door het bevoegd gezag opgedragen werkzaamheden te verrichten aan de eigen of een andere instelling in het samenwerkingsverband, die in het kader van de door hem vervulde functie passend zijn te achten, dan wel een functie te aanvaarden als bedoeld in [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03) .
 
-2. In het schooljaar 1998–1999 is het eerste lid van toepassing ten aanzien van een personeelslid met een werkgelegenheidsgarantie wiens dienstbetrekking uitsluitend in stand kan worden gehouden met formatierekeneenheden als bedoeld in [artikel LI, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=LI&z=1999-08-01&g=1999-08-01).
+2. In het schooljaar 1998–1999 is het eerste lid van toepassing ten aanzien van een personeelslid met een werkgelegenheidsgarantie wiens dienstbetrekking uitsluitend in stand kan worden gehouden met formatierekeneenheden als bedoeld in [artikel LI, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=LI&z=2002-07-03&g=2002-07-03).
 
-3. Het bevoegd gezag kan een personeelslid als bedoeld in het eerste lid, wiens dienstbetrekking uitsluitend in stand kan worden gehouden met behulp van extra formatierekeneenheden als bedoeld in [artikel XLVI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=1999-08-01&g=1999-08-01), tevens een scholingsplicht of een sollicitatieplicht opleggen. Op deze plichten zijn [artikel I-P84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P84), respectievelijk [artikel I-P86 van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P86) van overeenkomstige toepassing, met dien verstande dat die plichten maximaal kunnen strekken tot scholing voor of sollicitatie naar een functie als bedoeld in [artikel XLII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=1999-08-01&g=1999-08-01), bij het bevoegd gezag van een instelling in de sector Onderwijs en Wetenschappen.
+3. Het bevoegd gezag kan een personeelslid als bedoeld in het eerste lid, wiens dienstbetrekking uitsluitend in stand kan worden gehouden met behulp van extra formatierekeneenheden als bedoeld in [artikel XLVI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLVI&z=2002-07-03&g=2002-07-03), tevens een scholingsplicht of een sollicitatieplicht opleggen. Op deze plichten zijn [artikel I-P84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P84), respectievelijk [artikel I-P86 van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-P86) van overeenkomstige toepassing, met dien verstande dat die plichten maximaal kunnen strekken tot scholing voor of sollicitatie naar een functie als bedoeld in [artikel XLII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLII&z=2002-07-03&g=2002-07-03), bij het bevoegd gezag van een instelling in de sector Onderwijs en Wetenschappen.
 
 #### 2.5. OVERIGE BEPALINGEN
 
@@ -558,7 +558,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. in voorkomende gevallen het bedrag, bedoeld in het tweede lid.
 
-2. Indien in het schooljaar 1998–1999 in een samenwerkingsverband de som van de formatierekeneenheden op grond van de [artikelen 96b1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) en [96h van de Wet op primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96h) hoger zou zijn geweest dan de som van de op grond van [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), toegekende formatierekeneenheden en de in formatierekeneenheden uitgedrukte middelen bedoeld in het eerste lid, onder a, wordt aan de gezamenlijke basisscholen in dat verband een bedrag toegekend dat overeen komt met de geldswaarde van het verschil tussen beide sommen. Het Rijk verdeelt dit bedrag naar rato van het aantal leerlingen van elk van die basisscholen op 1 oktober 1997.
+2. Indien in het schooljaar 1998–1999 in een samenwerkingsverband de som van de formatierekeneenheden op grond van de [artikelen 96b1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) en [96h van de Wet op primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96h) hoger zou zijn geweest dan de som van de op grond van [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), toegekende formatierekeneenheden en de in formatierekeneenheden uitgedrukte middelen bedoeld in het eerste lid, onder a, wordt aan de gezamenlijke basisscholen in dat verband een bedrag toegekend dat overeen komt met de geldswaarde van het verschil tussen beide sommen. Het Rijk verdeelt dit bedrag naar rato van het aantal leerlingen van elk van die basisscholen op 1 oktober 1997.
 
 3. Indien een speciale school voor basisonderwijs deelneemt aan meer dan een samenwerkingsverband, dan wordt voor de toepassing van het tweede lid de formatie van die school toegerekend aan de samenwerkingsverbanden naar rato van het aantal basisschoolleerlingen van elk van die verbanden op 1 oktober 1997.
 
@@ -568,13 +568,19 @@ In deze paragraaf wordt verstaan onder:
 
 In het schooljaar 1998–1999 vindt [artikel 13b, tweede lid, onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13b) toepassing ten aanzien van
 
-- a. de bedragen die aan de basisscholen in een samenwerkingsverband op grond van [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=1999-08-01&g=1999-08-01) worden toegekend en
+- a. de bedragen die aan de basisscholen in een samenwerkingsverband op grond van [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=2002-07-03&g=2002-07-03) worden toegekend en
 
-- b. indien de formatie, bedoeld in [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01), die voor het schooljaar 1998–1999 wordt toegekend gelijk is aan de formatie die de desbetreffende speciale school voor basisonderwijs op 31 juli 1998 ontving, het in formatierekeneenheden uitgedrukte verschil met de formatie waarop die school in genoemd schooljaar op grond van het [Formatiebesluit ISOVSO 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005442) recht zou hebben gehad.
+- b. indien de formatie, bedoeld in [artikel XLV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03), die voor het schooljaar 1998–1999 wordt toegekend gelijk is aan de formatie die de desbetreffende speciale school voor basisonderwijs op 31 juli 1998 ontving, het in formatierekeneenheden uitgedrukte verschil met de formatie waarop die school in genoemd schooljaar op grond van het [Formatiebesluit ISOVSO 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005442) recht zou hebben gehad.
 
 ##### ARTIKEL LI-1. OVERGANGSREGELING PROGRAMMA'S VAN EISEN
 
-Voor de toepassing van [artikel 92, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92) begint op 1 januari 2000 een nieuwe periode van vijf jaar als bedoeld in dat lid.
+1. In afwijking van [artikel 92, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92):
+
+- a. gelden de bij ministeriële regeling van 29 september 1999 (Uitleg OCenW-regelingen 1999, nr. 24) vastgestelde programma's van eisen voor de basisscholen en de speciale scholen voor het basisonderwijs uitsluitend voor de jaren 2000 en 2001; en
+
+- b. begint op 1 januari 2002 een nieuwe periode van vijf jaar als bedoeld in dat lid.
+
+2. Met ingang van 1 januari 2002 gelden voor de periode, bedoeld in het eerste lid, onder b, de bij ministeriële regeling van 27 september 2001 (Uitleg OCenW-regelingen 2001, nr. 25) vastgestelde programma's van eisen basisonderwijs.
 
 ##### ARTIKEL LII. OVERGANGSREGELING OVERSCHRIJDINGSREGELING
 
@@ -602,25 +608,25 @@ Voor de toepassing van [artikel 92, eerste lid, van de Wet op het primair onderw
 
 - 1°. die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1998,
 
-- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1999, en
+- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1999, en
 
-- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 januari 2000,
+- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 januari 2000,
 
 - b. bezwaarschriften en beroepschriften die binnen de daarvoor geldende termijn zijn ingediend met betrekking tot
 
 - 1°. die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1998,
 
-- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 augustus 1999, en
+- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 augustus 1999, en
 
-- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 januari 2000,
+- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 januari 2000,
 
 - c. de afrekening van de vergoedingen op grond van
 
 - 1°. die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1998,
 
-- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1999, en
+- 2°. [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=L&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1999, en
 
-- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 januari 2000.
+- 3°. [artikel XLVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=XLVIII&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 januari 2000.
 
 2. De [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de daarop gebaseerde algemeen verbindende voorschriften en terzake vastgestelde beleidsregels zoals deze luidden op 31 juli 1998 blijven van toepassing op
 
@@ -628,25 +634,25 @@ Voor de toepassing van [artikel 92, eerste lid, van de Wet op het primair onderw
 
 - 1°. die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1998,
 
-- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1999, en
+- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1999, en
 
-- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 januari 2000,
+- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 januari 2000,
 
 - b. bezwaarschriften en beroepschriften die binnen de daarvoor geldende termijn zijn ingediend met betrekking tot
 
 - 1°. die wet, voorschriften of beleidsregels en betrekking hebben op de periode voor 1 augustus 1998,
 
-- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 augustus 1999, en
+- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 augustus 1999, en
 
-- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 januari 2000,
+- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels, voor zover deze betrekking hebben op de periode voor 1 januari 2000,
 
 - c. de afrekening van de vergoedingen op grond van
 
 - 1°. die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1998,
 
-- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1999, en
+- 2°. [artikel XLV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLV&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 augustus 1999, en
 
-- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=1999-08-01&g=1999-08-01) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 januari 2000.
+- 3°. [artikel IL](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.5&artikel=IL&z=2002-07-03&g=2002-07-03) juncto die wet, voorschriften of beleidsregels voor de periode voor 1 januari 2000.
 
 ##### ARTIKEL LV-1. OMZETTING REGIONALE VERWIJZINGSCOMMISSIES EN VASTSTELLING REGIO'S
 
@@ -682,18 +688,18 @@ Wijzigt deze wet.
 
 1. Deze wet treedt in werking met ingang van 1 augustus 1998, met uitzondering van
 
-- a. [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01), voor wat betreft [artikel 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13d), en [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.2&artikel=XXXII&z=1999-08-01&g=1999-08-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en
+- a. [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03), voor wat betreft [artikel 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13d), en [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.2&artikel=XXXII&z=2002-07-03&g=2002-07-03), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en
 
-- b. [artikel XLIV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=1999-08-01&g=1999-08-01), dat in werking treedt met ingang van 1 augustus 1999.
+- b. [artikel XLIV](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=2&paragraaf=2.4&artikel=XLIV&z=2002-07-03&g=2002-07-03), dat in werking treedt met ingang van 1 augustus 1999.
 
-2. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01) is voor wat betreft de datum 1 mei in [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13b), voor het eerst van toepassing op het schooljaar 1999–2000.
+2. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03) is voor wat betreft de datum 1 mei in [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13b), voor het eerst van toepassing op het schooljaar 1999–2000.
 
-3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01) is voor wat betreft [artikel 13c, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13c), voor het eerst van toepassing op de inzet van de formatie voor het schooljaar 1999–2000.
+3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03) is voor wat betreft [artikel 13c, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13c), voor het eerst van toepassing op de inzet van de formatie voor het schooljaar 1999–2000.
 
-4. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01) is voor wat betreft de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=94) voor het eerst van toepassing op de programma's van eisen voor het jaar 2000 en voor wat betreft [artikel 95b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=95b) op de overdracht van de vergoeding voor materiële instandhouding met betrekking tot het jaar 2000.
+4. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03) is voor wat betreft de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=94) voor het eerst van toepassing op de programma's van eisen voor het jaar 2000 en voor wat betreft [artikel 95b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=95b) op de overdracht van de vergoeding voor materiële instandhouding met betrekking tot het jaar 2000.
 
-5. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01) is voor wat betreft [artikel 96b1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) en [artikel 96h](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96h) voor het eerst van toepassing op de formatie voor het schooljaar 1999–2000.
+5. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03) is voor wat betreft [artikel 96b1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96b1) en [artikel 96h](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96h) voor het eerst van toepassing op de formatie voor het schooljaar 1999–2000.
 
-6. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=1999-08-01&g=1999-08-01) is voor wat betreft de [artikelen 96c1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1) en [96c2](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c2) voor het eerst van toepassing op de overdracht van formatierekeneenheden ten behoeve van het schooljaar 1999–2000.
+6. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&hoofdstuk=1&artikel=I&z=2002-07-03&g=2002-07-03) is voor wat betreft de [artikelen 96c1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c1) en [96c2](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96c2) voor het eerst van toepassing op de overdracht van formatierekeneenheden ten behoeve van het schooljaar 1999–2000.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
