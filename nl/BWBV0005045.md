@@ -439,17 +439,3 @@ Elke wijziging, welke in deze statuten wordt aangebracht, wordt medegedeeld aan 
 En foi de quoi, les représentants soussignés, après avoir communiqué leurs pleins pouvoirs, reconnus en bonne et due forme, ont signé la présente Convention.
 
 Fait à Berne, le 20 octobre 1955, en français, en allemand et en italien, en un seul exemplaire qui restera déposé aux archives du Gouvernement de la Suisse, lequel en communiquera copie certifiée conforme à tous les Gouvernements membres de la Conférence Européenne des Ministres des Transports.
-
-#### GARANTIE
-
-#### CONTROLE
-
-#### AFSLUITING VAN DE BOEKEN EN VERDELING VAN DE WINST
-
-#### LIQUIDATIE
-
-#### DIVERSE BEPALINGEN
-
-En foi de quoi, les représentants soussignés, après avoir communiqué leurs pleins pouvoirs, reconnus en bonne et due forme, ont signé la présente Convention.
-
-Fait à Berne, le 20 octobre 1955, en français, en allemand et en italien, en un seul exemplaire qui restera déposé aux archives du Gouvernement de la Suisse, lequel en communiquera copie certifiée conforme à tous les Gouvernements membres de la Conférence Européenne des Ministres des Transports.
