@@ -949,29 +949,3 @@ Voorzover de peildatum is gelegen voor 1 juli 2002, wordt:
 Deze wet wordt aangehaald als: Wet bevordering eigenwoningbezit.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a. Vereisten voor ewb na 10 jaar
-
-Op een toekenning van een eigenwoningbijdrage na het tweede vijfjaarstijdvak is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&hoofdstuk=2&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2007-01-01&g=2007-01-01) van overeenkomstige toepassing.
-
-#### § 4. Hardheid, overgang ewb bij verlies eigendom
-
-### Hoofdstuk 3. De hoogte van de eigenwoningbijdrage
-
-### Hoofdstuk 4. Vangnetregeling
-
-### Hoofdstuk 5. Het recht op de eigenwoningbijdrage na het derde vijfjaarstijdvak
-
-### Hoofdstuk 7. Aanvraag, toekenning en betaling
-
-### Hoofdstuk 8. Informatieplicht, verificatie, opschorting, herziening en terugvordering
-
-### Hoofdstuk 9. Bestuurlijke informatieverschaffing, toezicht op de naleving en voorlichting
-
-### Hoofdstuk 10. Wijziging andere wetten, overgangs- en slotbepalingen
-
-#### § 1. Wijziging andere wetten
-
-#### § 2. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
