@@ -156,9 +156,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 Deze regeling wordt aangehaald als: Klachtenregeling politietaken Koninklijke Marechaussee/krijgsmacht 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-Deze regeling berust op [artikel 69, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=69).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
