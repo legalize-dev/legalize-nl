@@ -4,7 +4,7 @@ identifier: "BWBR0003372"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2002-03-12"
+last_updated: "2003-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003372"
 soort: "wet"
@@ -43,7 +43,7 @@ entry_into_force: "2012-02-11"
 
 Deze wet verstaat onder:
 
-- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=2&z=2002-03-12&g=2002-03-12);
+- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=2&z=2003-06-30&g=2003-06-30);
 
 - b. ambtenaar: een ambtenaar, een gewezen ambtenaar, een persoon met wie door een bestuursorgaan een arbeidsovereenkomst is gesloten naar burgerlijk recht, ook na beëindiging van de arbeidsovereenkomst, een dienstplichtig militair, ook na het einde van de dienstplicht, alsmede andere personen werkzaam onder de verantwoordelijkheid van het bestuursorgaan, ook na het beëindigen van de werkzaamheden.
 
@@ -53,7 +53,7 @@ Deze wet verstaat onder:
 
 - a. Onze Ministers;
 
-- b. bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen, die overeenkomstig [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2002-03-12&g=2002-03-12) zijn aangewezen;
+- b. bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen, die overeenkomstig [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) zijn aangewezen;
 
 - c. bestuursorganen aan welke bij of krachtens wettelijk voorschrift een taak met betrekking tot de politie is opgedragen, voor zover het de uitoefening van die taak betreft;
 
@@ -61,9 +61,9 @@ Deze wet verstaat onder:
 
 - e. andere bestuursorganen, voor zover niet bij algemene maatregel van bestuur uitgezonderd.
 
-2. In afwijking van het eerste lid, onder e, is deze wet slechts van toepassing op bestuursorganen belast met onderwijs en onderzoek op het beleidsterrein van het Ministerie van Onderwijs, Cultuur en Wetenschappen, voor zover deze bij algemene maatregel van bestuur zijn aangewezen.
+2. Vervallen.
 
-3. In afwijking van het eerste lid is deze wet niet van toepassing op gedragingen van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502).
+3. In afwijking van het eerste lid is deze wet niet van toepassing op gedragingen van de Commissie gelijke behandeling, bedoeld in de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502) .
 
 4. Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.
 
@@ -81,7 +81,7 @@ Deze wet verstaat onder:
 
 ##### Artikel 1c
 
-1. De rechtspersoon waartoe het ingevolge [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2002-03-12&g=2002-03-12) aangewezen bestuursorgaan behoort, is een door Onze Minister van Binnenlandse Zaken vast te stellen vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan het beschikbaarstellen van de klachtvoorziening bij de Nationale ombudsman aan het desbetreffende bestuursorgaan.
+1. De rechtspersoon waartoe het ingevolge [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) aangewezen bestuursorgaan behoort, is een door Onze Minister van Binnenlandse Zaken vast te stellen vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan het beschikbaarstellen van de klachtvoorziening bij de Nationale ombudsman aan het desbetreffende bestuursorgaan.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent:
 
@@ -103,7 +103,7 @@ Deze wet verstaat onder:
 
 4. Indien de Tweede Kamer voornemens is de ombudsman opnieuw te benoemen, kan zij bepalen dat het tweede lid, tweede volzin, buiten toepassing blijft.
 
-5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=10&z=2002-03-12&g=2002-03-12), is van overeenkomstige toepassing.
+5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=10&z=2003-06-30&g=2003-06-30), is van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -135,7 +135,7 @@ Deze wet verstaat onder:
 
 - c. hij onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien tegen hem een gerechtelijk vooronderzoek ter zake van misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2002-03-12&g=2002-03-12) zouden kunnen leiden.
+2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien tegen hem een gerechtelijk vooronderzoek ter zake van misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder **b,**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2003-06-30&g=2003-06-30) zouden kunnen leiden.
 
 3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. De Tweede Kamer kan de maatregel echter telkens voor ten hoogste drie maanden verlengen.
 
@@ -183,11 +183,11 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 3. Indien de Tweede Kamer voornemens is een substituut-ombudsman opnieuw te benoemen, kan zij bepalen dat het eerste lid, tweede volzin, buiten toepassing blijft.
 
-4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2002-03-12&g=2002-03-12), [18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=18&z=2002-03-12&g=2002-03-12) en [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=27&z=2002-03-12&g=2002-03-12), zijn van overeenkomstig toepassing op een substituut-ombudsman.
+4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2003-06-30&g=2003-06-30), [18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=18&z=2003-06-30&g=2003-06-30) en [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=27&z=2003-06-30&g=2003-06-30), zijn van overeenkomstig toepassing op een substituut-ombudsman.
 
 5. De ombudsman regelt de werkzaamheden van een substituut-ombudsman.
 
-6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=25&z=2002-03-12&g=2002-03-12), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=26&z=2002-03-12&g=2002-03-12), [27, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=27&z=2002-03-12&g=2002-03-12), en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=28&z=2002-03-12&g=2002-03-12), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
+6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=25&z=2003-06-30&g=2003-06-30), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=26&z=2003-06-30&g=2003-06-30), [27, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=27&z=2003-06-30&g=2003-06-30), en [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=28&z=2003-06-30&g=2003-06-30), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
 
 ##### Artikel 10
 
@@ -195,15 +195,15 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 2. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de vervanging van de ombudsman. In dat geval eindigt de vervanging wanneer de ombudsman weer in staat is zijn ambt te vervullen of, indien de ombudsman op non-activiteit is gesteld, op het tijdstip dat de non-activiteit eindigt.
 
-3. Indien de ombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2002-03-12&g=2002-03-12) wordt ontslagen, blijven de substituut-ombudsmannen, in afwijking van het bepaalde in [artikel 9, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=9&z=2002-03-12&g=2002-03-12), in functie tot het tijdstip waarop een nieuwe ombudsman in functie is getreden. De Tweede Kamer voorziet in dat geval zo spoedig mogelijk in de waarneming van het ambt van ombudsman door een substituut-ombudsman.
+3. Indien de ombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2003-06-30&g=2003-06-30) wordt ontslagen, blijven de substituut-ombudsmannen, in afwijking van het bepaalde in [artikel 9, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=9&z=2003-06-30&g=2003-06-30), in functie tot het tijdstip waarop een nieuwe ombudsman in functie is getreden. De Tweede Kamer voorziet in dat geval zo spoedig mogelijk in de waarneming van het ambt van ombudsman door een substituut-ombudsman.
 
 4. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman.
 
 5. De waarneming eindigt van rechtswege op het tijdstip waarop een nieuwe ombudsman in functie is getreden.
 
-6. Op degene die krachtens het tweede of het vierde lid de ombudsman vervangt of het ambt van ombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=2&z=2002-03-12&g=2002-03-12), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2002-03-12&g=2002-03-12), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=6&z=2002-03-12&g=2002-03-12) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=9&z=2002-03-12&g=2002-03-12) van deze wet niet van toepassing.
+6. Op degene die krachtens het tweede of het vierde lid de ombudsman vervangt of het ambt van ombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=2&z=2003-06-30&g=2003-06-30), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=3&z=2003-06-30&g=2003-06-30), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=6&z=2003-06-30&g=2003-06-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=9&z=2003-06-30&g=2003-06-30) van deze wet niet van toepassing.
 
-7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=5&z=2002-03-12&g=2002-03-12), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld.
+7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=5&z=2003-06-30&g=2003-06-30), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld.
 
 ##### Artikel 11
 
@@ -233,7 +233,7 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 4. Indien het verzoekschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van de klacht noodzakelijk is, kan de Nationale ombudsman besluiten het verzoekschrift niet in behandeling te nemen, mits de verzoeker de gelegenheid heeft gehad binnen een door de ombudsman gestelde termijn het verzoekschrift met een vertaling aan te vullen.
 
-5. Tenzij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2002-03-12&g=2002-03-12) van toepassing is, is de ombudsman bevoegd en, tenzij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2002-03-12&g=2002-03-12) van toepassing is, ook verplicht aan een verzoek als bedoeld in het eerste lid gevolg te geven.
+5. Tenzij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2003-06-30&g=2003-06-30) van toepassing is, is de ombudsman bevoegd en, tenzij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2003-06-30&g=2003-06-30) van toepassing is, ook verplicht aan een verzoek als bedoeld in het eerste lid gevolg te geven.
 
 ##### Artikel 13
 
@@ -241,9 +241,9 @@ Indien naar het oordeel van de ombudsman ten aanzien van de in het verzoekschrif
 
 ##### Artikel 14
 
-De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), in te stellen of voort te zetten, indien:
+De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), in te stellen of voort te zetten, indien:
 
-- a. het verzoekschrift te laat is ingediend of niet voldoet aan de vereisten, vermeld in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12);
+- a. het verzoekschrift te laat is ingediend of niet voldoet aan de vereisten, vermeld in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30);
 
 - b. het verzoek kennelijk ongegrond is;
 
@@ -259,7 +259,7 @@ De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 12, eerste 
 
 - h. ten aanzien van de gedraging anders dan ingevolge een wettelijk geregelde administratiefrechtelijke voorziening door een rechterlijke instantie uitspraak is gedaan;
 
-- i. niet is voldaan aan het vereiste van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), tenzij van de verzoeker redelijkerwijs niet kan worden gevergd dat hij de uitkomst van de behandeling van de klacht door het bestuursorgaan verder afwacht;
+- i. niet is voldaan aan het vereiste van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), tenzij van de verzoeker redelijkerwijs niet kan worden gevergd dat hij de uitkomst van de behandeling van de klacht door het bestuursorgaan verder afwacht;
 
 - j. en zolang ten aanzien van een gedraging van het bestuursorgaan die nauw samenhangt met het onderwerp van het verzoekschrift een procedure aanhangig is bij een rechterlijke instantie, dan wel ingevolge een wettelijk geregelde administratiefrechtelijke voorziening bij een andere instantie;
 
@@ -267,11 +267,11 @@ De ombudsman is niet verplicht een onderzoek als bedoeld in [artikel 12, eerste 
 
 ##### Artikel 15
 
-Tenzij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2002-03-12&g=2002-03-12) van toepassing is, is de ombudsman bevoegd uit eigen beweging een onderzoek in te stellen naar de wijze waarop een bestuursorgaan zich in een bepaalde aangelegenheid heeft gedragen.
+Tenzij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2003-06-30&g=2003-06-30) van toepassing is, is de ombudsman bevoegd uit eigen beweging een onderzoek in te stellen naar de wijze waarop een bestuursorgaan zich in een bepaalde aangelegenheid heeft gedragen.
 
 ##### Artikel 16
 
-De ombudsman is niet bevoegd een onderzoek als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=15&z=2002-03-12&g=2002-03-12) in te stellen of voort te zetten:
+De ombudsman is niet bevoegd een onderzoek als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=15&z=2003-06-30&g=2003-06-30) in te stellen of voort te zetten:
 
 - a. indien de aangelegenheid behoort tot het algemeen regeringsbeleid, daaronder begrepen het algemeen beleid ter handhaving van de rechtsorde, of tot het algemeen beleid van het betrokken bestuursorgaan;
 
@@ -289,17 +289,17 @@ De ombudsman is niet bevoegd een onderzoek als bedoeld in [artikel 12, eerste li
 
 ##### Artikel 17
 
-1. Indien de ombudsman op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2002-03-12&g=2002-03-12) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2002-03-12&g=2002-03-12) geen gevolg geeft aan een verzoek tot het instellen van een onderzoek, dan wel het onderzoek niet voortzet, doet hij daarvan zo spoedig mogelijk schriftelijke mededeling aan de verzoeker onder vermelding van de redenen.
+1. Indien de ombudsman op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2003-06-30&g=2003-06-30) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=16&z=2003-06-30&g=2003-06-30) geen gevolg geeft aan een verzoek tot het instellen van een onderzoek, dan wel het onderzoek niet voortzet, doet hij daarvan zo spoedig mogelijk schriftelijke mededeling aan de verzoeker onder vermelding van de redenen.
 
-In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde mededeling tevens aan het betrokken bestuursorgaan en, in voorkomend geval, aan de betrokken ambtenaar. Met het oog op het bepaalde in het derde lid neemt hij daarbij [artikel 19, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2002-03-12&g=2002-03-12), van deze wet en het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), in acht.
+In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde mededeling tevens aan het betrokken bestuursorgaan en, in voorkomend geval, aan de betrokken ambtenaar. Met het oog op het bepaalde in het derde lid neemt hij daarbij [artikel 19, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30), van deze wet en het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), in acht.
 
-2. Indien de ombudsman op grond van [artikel 14, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2002-03-12&g=2002-03-12), geen gevolg geeft aan een verzoek tot onderzoek, dan wel het onderzoek niet voortzet, wijst hij verzoeker tevens op de mogelijkheid het betrokken bestuursorgaan, de betrokken instelling of dienst die, of het betrokken bedrijf dat onder verantwoordelijkheid van dat orgaan werkzaam is, dan wel de betrokken ambtenaar, alsnog van zijn grieven met betrekking tot de gedraging in kennis te stellen en in de gelegenheid te stellen zijn of haar zienswijze daarop te geven.
+2. Indien de ombudsman op grond van [artikel 14, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=14&z=2003-06-30&g=2003-06-30), geen gevolg geeft aan een verzoek tot onderzoek, dan wel het onderzoek niet voortzet, wijst hij verzoeker tevens op de mogelijkheid het betrokken bestuursorgaan, de betrokken instelling of dienst die, of het betrokken bedrijf dat onder verantwoordelijkheid van dat orgaan werkzaam is, dan wel de betrokken ambtenaar, alsnog van zijn grieven met betrekking tot de gedraging in kennis te stellen en in de gelegenheid te stellen zijn of haar zienswijze daarop te geven.
 
 3. De ombudsman geeft aan een ieder die daarom verzoekt, afschrift of uittreksel van de mededeling, bedoeld in het eerste lid. Met betrekking tot de daarvoor in rekening te brengen vergoedingen en met betrekking tot de kosteloze verstrekking is het bepaalde bij of krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
-1. De ombudsman stelt het bestuursorgaan en degene, op wiens gedraging het onderzoek betrekking heeft, alsmede in het geval, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), de verzoeker in de gelegenheid schriftelijk dan wel mondeling en al dan niet in elkaars tegenwoordigheid - een en ander ter beoordeling van de ombudsman - hun standpunt toe te lichten.
+1. De ombudsman stelt het bestuursorgaan en degene, op wiens gedraging het onderzoek betrekking heeft, alsmede in het geval, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), de verzoeker in de gelegenheid schriftelijk dan wel mondeling en al dan niet in elkaars tegenwoordigheid - een en ander ter beoordeling van de ombudsman - hun standpunt toe te lichten.
 
 2. De betrokkenen kunnen zich doen vertegenwoordigen of doen bijstaan door een raadsman. De ombudsman kan weigeren bepaalde personen die van het verlenen van rechtsgeleerde hulp hun beroep maken en niet advocaat of procureur zijn, als vertegenwoordiger toe te laten.
 
@@ -319,13 +319,13 @@ In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde m
 
 1. De ombudsman is bevoegd ten dienste van het onderzoek werkzaamheden aan deskundigen op te dragen. Hij is voorts bevoegd in het belang van het onderzoek deskundigen en tolken op te roepen. Zij die als deskundige of als tolk zijn opgeroepen, zijn verplicht voor de ombudsman te verschijnen en hun diensten als zodanig te verlenen.
 
-2. Op deskundigen, tevens ambtenaren, zijn [het derde, vierde en vijfde lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2002-03-12&g=2002-03-12) van overeenkomstige toepassing.
+2. Op deskundigen, tevens ambtenaren, zijn [het derde, vierde en vijfde lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30) van overeenkomstige toepassing.
 
 3. De tolken en deskundigen zijn verplicht tot geheimhouding van hetgeen hun ter zake van hun dienstverlening ter kennis komt.
 
 ##### Artikel 21
 
-1. Oproepingen ingevolge de[artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2002-03-12&g=2002-03-12) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=20&z=2002-03-12&g=2002-03-12) geschieden bij aangetekende brief.
+1. Oproepingen ingevolge de[artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=20&z=2003-06-30&g=2003-06-30) geschieden bij aangetekende brief.
 
 2. De ombudsman kan bevelen, dat personen die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht voor hem worden gebracht om aan hun verplichtingen te voldoen.
 
@@ -347,7 +347,7 @@ In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde m
 
 ##### Artikel 24
 
-1. Aan de ombudsman worden op diens schriftelijk verzoek ten behoeve van een onderzoek bescheiden, gebezigd bij de vervulling van de overheidstaak in de aangelegenheid waarop het onderzoek betrekking heeft, al dan niet in afschrift, overgelegd. [Artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2002-03-12&g=2002-03-12), is van overeenkomstige toepassing.
+1. Aan de ombudsman worden op diens schriftelijk verzoek ten behoeve van een onderzoek bescheiden, gebezigd bij de vervulling van de overheidstaak in de aangelegenheid waarop het onderzoek betrekking heeft, al dan niet in afschrift, overgelegd. [Artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30), is van overeenkomstige toepassing.
 
 2. De ombudsman kan, voor zover dit naar zijn oordeel ten behoeve van het onderzoek is vereist, zonder toestemming, met uitzondering van woningen, alle plaatsen betreden waar het bestuursorgaan, wiens gedraging onderzocht wordt, zijn taak verricht. Voor het betreden van woningen is toestemming van de bewoner vereist.
 
@@ -355,7 +355,7 @@ In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde m
 
 ##### Artikel 25
 
-1. De ombudsman deelt, alvorens het onderzoek te beëindigen, zijn bevindingen schriftelijk mede aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest, alsmede, in het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), bedoelde geval aan de verzoeker.
+1. De ombudsman deelt, alvorens het onderzoek te beëindigen, zijn bevindingen schriftelijk mede aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest, alsmede, in het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), bedoelde geval aan de verzoeker.
 
 2. De ombudsman stelt het bestuursorgaan, de ambtenaar en de verzoeker in de gelegenheid zich binnen een door hem te stellen termijn omtrent de bevindingen te uiten.
 
@@ -367,9 +367,9 @@ In het geval dat hij een onderzoek niet voortzet doet hij de hiervoor bedoelde m
 
 ##### Artikel 27
 
-1. Wanneer een onderzoek is afgesloten, stelt de ombudsman een rapport op, waarin hij zijn bevindingen en zijn oordeel weergeeft. Met het oog op het bepaalde in het vierde lid neemt hij daarbij [artikel 19, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2002-03-12&g=2002-03-12) van deze wet en het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), in acht.
+1. Wanneer een onderzoek is afgesloten, stelt de ombudsman een rapport op, waarin hij zijn bevindingen en zijn oordeel weergeeft. Met het oog op het bepaalde in het vierde lid neemt hij daarbij [artikel 19, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=19&z=2003-06-30&g=2003-06-30) van deze wet en het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), in acht.
 
-2. De ombudsman zendt zijn rapport aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest. Indien het onderzoek berustte op een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12), zendt hij zijn rapport tevens aan de verzoeker.
+2. De ombudsman zendt zijn rapport aan het betrokken bestuursorgaan en, in voorkomend geval, aan de ambtenaar wiens gedraging voorwerp van onderzoek is geweest. Indien het onderzoek berustte op een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30), zendt hij zijn rapport tevens aan de verzoeker.
 
 3. Zo hij daartoe aanleiding ziet, kan de ombudsman aan het betrokken orgaan zijn zienswijze over eventueel te nemen maatregelen bekendmaken.
 
@@ -393,15 +393,15 @@ De voordrachten voor door Ons te nemen besluiten ter uitvoering van deze wet wor
 
 ##### Artikel 30
 
-[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12) vindt geen toepassing ten aanzien van gedragingen van de bij ministerieel besluit aangewezen bestuursorganen, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2002-03-12&g=2002-03-12), die hebben plaatsgevonden voordat dat besluit in werking is getreden.
+[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30) vindt geen toepassing ten aanzien van gedragingen van de bij ministerieel besluit aangewezen bestuursorganen, bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30), die hebben plaatsgevonden voordat dat besluit in werking is getreden.
 
 ##### Artikel 30a
 
-Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2002-03-12&g=2002-03-12), dan wel na de beëindiging van een aanwijzing als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2002-03-12&g=2002-03-12) kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden:
+Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2003-06-30&g=2003-06-30), dan wel na de beëindiging van een aanwijzing als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden:
 
-- a. voordat het desbetreffende bestuursorgaan is uitgezonderd bij een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2002-03-12&g=2002-03-12), dan wel
+- a. voordat het desbetreffende bestuursorgaan is uitgezonderd bij een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a&z=2003-06-30&g=2003-06-30), dan wel
 
-- b. voordat de aanwijzing van het desbetreffende bestuursorgaan als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2002-03-12&g=2002-03-12) is beëindigd, een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2002-03-12&g=2002-03-12) bij de Nationale ombudsman worden ingediend.
+- b. voordat de aanwijzing van het desbetreffende bestuursorgaan als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1b&z=2003-06-30&g=2003-06-30) is beëindigd, een verzoekschrift als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=12&z=2003-06-30&g=2003-06-30) bij de Nationale ombudsman worden ingediend.
 
 ##### Artikel 31
 
