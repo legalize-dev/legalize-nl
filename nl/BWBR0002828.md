@@ -1,0 +1,278 @@
+---
+title: "Wet van 23 juni 1972, houdende regelen omtrent de vaarplicht in buitengewone omstandigheden"
+identifier: "BWBR0002828"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002828"
+soort: "wet"
+stam_id: "1782233"
+version_id: "2648172"
+internal_id: "C2648171"
+label_id: "1737984"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002828/2025-07-01/0"
+intitule_bron: "Stb.1972-445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-06-23"
+intitule_status: "goed"
+original_publication: "Stb.1997-580"
+original_signed_date: "1997-12-04"
+original_published_date: "1997-12-18"
+original_effect: "structuurwijziging"
+original_dossier: "25464"
+original_url_id: "stb-1997-580"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0002828&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002828&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Vaarplichtwet"
+signed_date: "1997-12-04"
+entry_into_force: "1998-01-01"
+---
+# Wet van 23 juni 1972, houdende regelen omtrent de vaarplicht in buitengewone omstandigheden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stellen betreffende de vaarplicht in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden alsmede enkele met dat onderwerp samenhangende bijzondere straf- en tuchtbepalingen vast te stellen, een en ander mede met het oog op bij Rijkswet gestelde algemene regelen betreffende de vaarplicht;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+Deze wet verstaat onder:
+
+- a. "Onze Minister": Onze Minister van Verkeer en Waterstaat;
+
+- b. "schip":
+
+- 1. een geen oorlogsschip zijnd zeeschip in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek alsmede een zodanig zeeschip in aanbouw, dan wel
+
+- 2. een vissersvaartuig als omschreven onder **c**, sub 2, van dit artikel;
+
+- c. "Nederlands schip":
+
+- 1. een Nederlands schip in de zin van de [artikelen 311](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311) en [312 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=312) of in de zin van de [Wet nationaliteit zeeschepen in rompbevrachting](https://wetten.overheid.nl/jci1.3:c:BWBR0005681) (**Stb.** 1992, 541), hetzij
+
+- 2. een Nederlands vissersvaartuig, dat bedrijfsmatig wordt gebruikt voor de zeevisserij, de kustvisserij of de visserij op het IJsselmeer, een en ander in de zin van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
+
+- d. "zeeman": de kapitein van een schip en ieder die krachtens overeenkomst gehouden is tot werk als schepeling aan boord van een schip;
+
+- e. "vaarplicht": de verplichting tot het verrichten van werkzaamheden aan boord of ten behoeve van Nederlandse schepen dan wel Surinaamse zeeschepen in de zin van de artikelen 3 en 5 van het Surinaamsch zeebrievenbesluit 1933, Nederlands Antilliaanse zeeschepen in de zin van de artikelen 3 en 5 van het Curaçaosch zeebrievenbesluit 1933 of in Suriname of de Nederlandse Antillen thuisbehorende zee- of kustvissersvaartuigen;
+
+- f. "vaarplichtige": hij, aan wie ingevolge [artikel 2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a&z=2002-01-01&g=2002-01-01) de vaarplicht is opgelegd, en die noch overeenkomstig het derde lid van artikel 3 van de vaarplicht is vrijgesteld noch daarvan ontslagen overeenkomstig het vierde lid van dat artikel.
+
+##### Artikel 2
+
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a&z=2002-01-01&g=2002-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=10&z=2002-01-01&g=2002-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=11&z=2002-01-01&g=2002-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=16&z=2002-01-01&g=2002-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=17&z=2002-01-01&g=2002-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=18&z=2002-01-01&g=2002-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=20&z=2002-01-01&g=2002-01-01) in werking worden gesteld.
+
+2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
+
+3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
+
+4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
+
+5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
+
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3
+
+1. De vaarplicht kan worden opgelegd aan alle Nederlanders, uitgezonderd Nederlanders, woonachtig in Suriname of de Nederlandse Antillen, en aan alle inwoners van Nederland, die:
+
+- 1°. zeeman zijn of
+
+- 2°. in een door Onze Minister vast te stellen tijdvak van ten hoogste tien jaren, voorafgaande aan de dag, dat de vaarplicht wordt opgelegd, ten minste zes maanden zeeman geweest zijn.
+
+2. Vaststelling van het in het eerste lid bedoelde tijdvak op langer dan drie jaren geschiedt in overeenstemming met Onze Minister van Sociale Zaken.
+
+3. Van de vaarplicht zijn vrijgesteld:
+
+- a. personen ouder dan zestig jaar, zeelieden jonger dan zestien jaar en gewezen zeelieden jonger dan achttien jaar;
+
+- b. zij die in werkelijke dienst zijn of zijn opgeroepen bij de krijgsmacht, zolang die werkelijke dienst duurt;
+
+- c. zij die ingevolge een overeenkomst met een andere mogendheid of met een volkenrechtelijke organisatie niet tot vaarplicht of andere verplichtingen van overeenkomstige aard gehouden zijn;
+
+- d. zij die een geestelijk ambt bekleden of tot zodanig ambt worden opgeleid;
+
+- e. de bij of krachtens algemene maatregel van bestuur nader aan te wijzen groepen van personen.
+
+4. De vaarplichtige kan door Onze Minister al dan niet voor een bepaalde termijn van de vaarplicht worden ontslagen; het ontslag van de vaarplicht kan te allen tijde worden ingetrokken of ongedaan gemaakt.
+
+5. De gevolgen, voortvloeiende uit het ontslag van de vaarplicht, worden geregeld bij algemene maatregel van bestuur.
+
+##### Artikel 4
+
+1. Onze Minister kan verbieden, dat vaarplichtigen het grondgebied van Nederland verlaten zonder zijnentwege verleende vergunning.
+
+2. De vergunning kan onder beperkingen worden verleend; aan de vergunning kunnen voorschriften worden verbonden.
+
+##### Artikel 5
+
+1. De vaarplichtige is gehouden iedere hem door Onze Minister gegeven aanwijzing omtrent de door hem te verrichten werkzaamheden, het zich daartoe gereed houden en het treffen van de daartoe vereiste voorbereidende maatregelen op te volgen.
+
+2. Bij de aanwijzing kan worden bepaald, in wiens dienst de werkzaamheden moeten worden verricht, alsmede de plaats waar en de tijd waarop de dienstbetrekking een aanvang neemt.
+
+3. Aan vaarplichtigen, die werkzaam zijn aan boord of ten behoeve van een Nederlands schip, kan Onze Minister bij algemene bekendmaking de aanwijzing geven, die werkzaamheden tot nader order te blijven voortzetten.
+
+4. De vaarplichtige, die een aanwijzing als bedoeld in het eerste lid heeft ontvangen, is, zolang die aanwijzing van kracht is, vrijgesteld van elke hem van overheidswege anders dan uit hoofde van deze wet opgelegde of op te leggen verplichting tot het verrichten van werkzaamheden, voorzover die werkzaamheden onverenigbaar zijn met het opvolgen van de aanwijzing.
+
+5. Van een aanwijzing anders dan die bedoeld in het derde lid wordt gelijktijdig mededeling gedaan aan de Centrale organisatie werk en inkomen.
+
+##### Artikel 6
+
+1. De vaarplichtige, die een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) heeft ontvangen, wordt, zodra de hem in deze aanwijzing genoemde dienstbetrekking is aangevangen, van rechtswege geacht een arbeidsovereenkomst met degene, in wiens dienst hij treedt, te hebben aangegaan; indien het dienst aan boord van een schip betreft volgens het bepaalde in het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838), indien het andere dienst betreft volgens het bepaalde in het Burgerlijk Wetboek.
+
+2. Voorzover de vaarplichtige op het tijdstip, waarop de hem ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) aangewezen dienst aanvangt, nog gebonden is aan een andere arbeidsovereenkomst, wordt deze overeenkomst voor de tijd, gedurende welke hij de aangewezen dienst heeft te vervullen, geschorst; de andere arbeidsovereenkomst wordt echter geacht beëindigd te zijn met ingang van de dag, waarop de hem aangewezen dienst aanvangt, indien het een arbeidsovereenkomst is voor het verrichten van arbeid aan boord van een schip:
+
+- a. gesloten voor één of meer reizen;
+
+- b. gesloten voor een bepaalde tijd en op de dag, waarop de aangewezen dienst eindigt, de tijd waarvoor de andere arbeidsovereenkomst was aangegaan, is verstreken.
+
+3. De in het eerste lid bedoelde arbeidsovereenkomst eindigt op het tijdstip, waarop de betrokkene ophoudt vaarplichtig te zijn of de aldaar bedoelde dienstbetrekking door een nadere aanwijzing vervalt.
+
+##### Artikel 7
+
+De algemene voorwaarden der dienstbetrekking, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=6&z=2002-01-01&g=2002-01-01), worden door Onze Minister vastgesteld in overeenstemming met Onze Minister van Sociale Zaken en na overleg met de naar zijn oordeel representatieve organisaties van werkgevers en werknemers. Indien het dienst betreft aan boord van een schip of daarmede gelijk te stellen dienst, zal in deze voorwaarden niet, dan voor zover noodzakelijk is, ten ongunste van de vaarplichtige worden afgeweken van de voorwaarden van de collectieve arbeidsovereenkomsten en de daarbij behorende reglementen en andere bijlagen, gesloten tussen werkgevers en werknemers ter koopvaardij en ter visserij en van de eventueel krachtens [artikel 5 of 6 van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=5) vastgestelde regelingen met betrekking tot arbeidsverhoudingen ter koopvaardij en ter visserij, van kracht voor de arbeid aan boord van Nederlandse schepen op het tijdstip, waarop de dienstbetrekking aanvangt. In de voorwaarden der dienstbetrekking kan worden afgeweken van de bepalingen van dwingend recht in het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838) of het Burgerlijk Wetboek.
+
+##### Artikel 8
+
+1. Bij algemene maatregel van bestuur worden regelen gesteld, welke aan de vaarplichtige, die een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) heeft ontvangen, gedurende de tijd, dat hem geen dienstbetrekking is aangewezen of deze nog niet is aangevangen, van overheidswege een behoorlijk levensonderhoud waarborgen, voorzover hij hierin niet zelf door passende arbeid kan voorzien of hem niet op andere wijze behoorlijk levensonderhoud is verzekerd.
+
+2. De uit het eerste lid voortvloeiende aanspraak kan door Onze Minister geheel of gedeeltelijk al dan niet voor een bepaalde tijd worden ontzegd aan de vaarplichtige,
+
+- a. die uit enige hoofde rechtens van zijn vrijheid is beroofd;
+
+- b. die op enigerlei wijze de verplichtingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=9&z=2002-01-01&g=2002-01-01) opzettelijk of door schuld niet nakomt.
+
+##### Artikel 9
+
+1. De vaarplichtige is, zolang een hem ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) gegeven aanwijzing van kracht is, verplicht de in het belang van zijn gezondheid door de door Onze Minister aangewezen geneeskundige gegeven voorschriften op te volgen en de door deze voor zijn herstel noodzakelijk geachte genees- of heelkundige behandeling te ondergaan. De verplichting geldt niet voor het ondergaan van een levensgevaarlijke operatie, voor het zich onderwerpen aan vaccinaties door diegenen die daartegen gewetensbezwaar hebben dan wel voorzover door Onze Minister is beslist, dat het niet opvolgen der voorschriften of het weigeren om de behandeling te ondergaan gerechtvaardigd is.
+
+2. De vaarplichtige, die opzettelijk of door schuld de in het eerste lid bedoelde verplichting niet nakomt, heeft geen aanspraak op loon of enige hem door de wet toegekende uitkering wegens ziekte, zolang hij om gezondheidsredenen geen dienst kan verrichten.
+
+3. Ter uitvoering van dit artikel worden persoonsgegevens betreffende de gezondheid als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) verwerkt. Onze Minister is de verantwoordelijke voor deze verwerking.
+
+##### Artikel 10
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 11
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 12
+
+1. Tegen een beslissing krachtens deze wet genomen door Onze Minister of een ander bestuursorgaan, kunnen belanghebbenden bezwaar maken onderscheidenlijk beroep instellen bij Onze Minister.
+
+2. Onze Minister beslist op het bezwaar- of beroepschrift na een bij algemene maatregel van bestuur in te stellen adviescommissie te hebben gehoord, waarin werkgevers en werknemers gelijkelijk zijn vertegenwoordigd. De algemene maatregel van bestuur regelt de benoeming, de samenstelling en de werkwijze van de commissie.
+
+3. Indien het bezwaar- of beroepschrift telegrafisch of per telex wordt ingediend, kan de ondertekening, in afwijking van [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), achterwege blijven.
+
+4. Onze Minister kan bepalen dat het bezwaar of beroep de werking van de beslissing schorst.
+
+##### Artikel 13
+
+1. Onze Minister doet een register samenstellen van de personen aan wie overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=3&z=2002-01-01&g=2002-01-01) de vaarplicht kan worden opgelegd.
+
+2. Een ieder is verplicht op eerste uitnodiging daartoe door Onze Minister alle voor de samenstelling van dit register gewenste inlichtingen naar waarheid te verschaffen en voor zover nodig desbetreffende bescheiden ter beschikking te stellen.
+
+##### Artikel 14
+
+1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft hij die een verplichting als omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) niet nakomt.
+
+2. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk het in het eerste lid bedoelde feit pleegt.
+
+##### Artikel 15
+
+Met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie wordt gestraft hij die opzettelijk een verbod, gesteld krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=4&z=2002-01-01&g=2002-01-01), overtreedt, of die opzettelijk een voorschrift als bedoeld in het tweede lid van dat artikel niet naleeft.
+
+##### Artikel 16
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 17
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 18
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 19
+
+Met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie wordt gestraft hij die een verplichting, als omschreven in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=13&z=2002-01-01&g=2002-01-01), niet nakomt.
+
+##### Artikel 20
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 21
+
+Met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie wordt gestraft de vaarplichtige aan wie overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=5&z=2002-01-01&g=2002-01-01) door Onze Minister de aanwijzing is gegeven, dienst te doen aan boord of ten behoeve van een schip en die:
+
+- a. zich zonder toestemming van de kapitein van boord verwijdert;
+
+- b. zich niet op het tijdstip, hem aangegeven door degene in wiens dienst hij is of door degene, die in de dienst boven hem is gesteld, aan boord bevindt;
+
+- c. anders dan buiten zijn schuld zijn dienst niet naar behoren vervult;
+
+- d. de orde aan boord verstoort;
+
+- e. zich aan boord bevindt onder zodanige invloed van alcoholhoudende drank of enig verdovend middel, dat hij zijn taak niet naar behoren kan vervullen.
+
+##### Artikel 22
+
+De feiten, strafbaar gesteld bij de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=14&z=2002-01-01&g=2002-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=15&z=2002-01-01&g=2002-01-01) tot en met [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=18&z=2002-01-01&g=2002-01-01) worden beschouwd als misdrijven. De feiten strafbaar gesteld bij de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=14&z=2002-01-01&g=2002-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=19&z=2002-01-01&g=2002-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=20&z=2002-01-01&g=2002-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=21&z=2002-01-01&g=2002-01-01) worden beschouwd als overtredingen.
+
+##### Artikel 23
+
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=14&z=2002-01-01&g=2002-01-01) tot en met [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=22&z=2002-01-01&g=2002-01-01) zijn van toepassing, ongeacht waar het feit plaatsvindt.
+
+##### Artikel 24
+
+Met de opsporing van de bij de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=14&z=2002-01-01&g=2002-01-01) tot en met [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=21&z=2002-01-01&g=2002-01-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast:
+
+- a. de officieren der Koninklijke Marine, behorende tot het korps zee-officieren en voorzover zij in werkelijke dienst zijn, de tot dit korps behorende officieren der Koninklijke Marine Reserve, alsmede de overige officieren der Koninklijke Marine, daartoe door Onze Minister van Defensie aangewezen;
+
+- b. de ambtenaren van de scheepvaartinspectie;
+
+- c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
+
+- d. de ambtenaren van de buitenlandse dienst;
+
+- e. de ambtenaren, daartoe door Onze Minister van Verkeer en Waterstaat aangewezen.
+
+Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) tot en met [182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=182) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+
+##### Artikel 25
+
+De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=24&z=2002-01-01&g=2002-01-01) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+
+##### Artikel 25a
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren, genoemd in [artikel 24, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=24&z=2002-01-01&g=2002-01-01).
+
+2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+
+##### Artikel 26
+
+Tenzij uitdrukkelijk het tegendeel is bepaald laat het bij of krachtens deze wet bepaalde het bij of krachtens andere wetten bepaalde onverlet indien en voorzover dit laatste niet onverenigbaar is met het bij of krachtens deze wet bepaalde.
+
+##### Artikel 27
+
+Deze wet kan worden aangehaald als "Vaarplichtwet".
+
+##### Artikel 28
+
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
