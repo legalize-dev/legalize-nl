@@ -4,7 +4,7 @@ identifier: "BWBR0009408"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "1999-12-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009408"
 soort: "wet"
@@ -65,7 +65,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.
 
-3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) (Stb. 1992, 611).
+3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2002-09-01&g=2002-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2002-09-01&g=2002-09-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2002-09-01&g=2002-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2002-09-01&g=2002-09-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2002-09-01&g=2002-09-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2002-09-01&g=2002-09-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2002-09-01&g=2002-09-01).
 
 ##### Artikel 2
 
@@ -205,9 +205,9 @@ Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat, alvo
 
 ##### Artikel 14
 
-1. Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste dertien leden.
+1. Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste veertien leden.
 
-2. De centrale commissie bestaat in elk geval uit een of meer artsen, en uit personen die deskundig zijn op het gebied van de farmacologie, de verpleegkunde, de gedragswetenschappen, de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon.
+2. De centrale commissie bestaat in elk geval uit een of meer artsen, en uit personen die deskundig zijn op het gebied van de embryologie, de farmacologie, de verpleegkunde, de gedragswetenschappen, de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon.
 
 3. Voor elk lid wordt een plaatsvervangend lid benoemd.
 
