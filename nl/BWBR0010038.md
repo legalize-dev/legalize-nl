@@ -4,7 +4,7 @@ identifier: "BWBR0010038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-01"
-last_updated: "2004-05-19"
+last_updated: "2004-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010038"
 soort: "ministeriele-regeling"
@@ -73,7 +73,11 @@ De volgende nummers in een door de Minister van Economische Zaken op grond van [
 
 ##### Artikel 3
 
-De toekenning van korte informatienummers, niet zijnde geharmoniseerde nummers, en viercijferige carrierselectienummers, kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen zes maanden wordt verwezenlijkt.
+1. De toekenning van korte informatienummers, niet zijnde geharmoniseerde nummers, en viercijferige carrierselectienummers, kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen zes maanden wordt verwezenlijkt.
+
+2.
+
+De toekenning van nummers voor toegang tot ondernemingen en instellingen kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen negen maanden wordt verwezenlijkt.
 
 ##### Artikel 4
 
@@ -82,5 +86,11 @@ Deze regeling treedt in werking met ingang van 15 december 1998.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling beperking toekenning nummers.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+De volgende nummers in een door de Minister van Economische Zaken op grond van [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) vastgesteld nummerplan kunnen slechts worden toegekend aan en gereserveerd worden voor de in [artikel 4.2, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2) genoemde categorieën aanvragers: nummers voor toegang tot ondernemingen en instellingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
