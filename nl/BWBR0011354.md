@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2004-01-01"
+last_updated: "2004-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -158,7 +158,7 @@ Wijzigt de Wet financiering volksverzekeringen.
 
 - b. in de overige gevallen: voor 2001 op € 9076, voor 2002 op € 7987, voor 2003 op € 6897, voor 2004 op € 5808 en voor 2005 op € 4719.
 
-- 2. De bedragen genoemd in het eerste lid, tweede volzin, onderdelen a en b, worden verminderd – maar niet verder dan tot €3630 – met de bedragen van de door de belastingplichtige eerder genoten stakingsvrijstelling volgens artikel 8, eerste lid, onderdeel d, van de Wet op de inkomstenbelasting 1964.
+- 2. De bedragen genoemd in het eerste lid, tweede volzin, onderdelen a en b, worden verminderd – maar niet verder dan tot € 3630 – met de bedragen van de door de belastingplichtige eerder genoten stakingsvrijstelling volgens artikel 8, eerste lid, onderdeel d, van de Wet op de inkomstenbelasting 1964.
 
 - 1. Voor de kalenderjaren 2001 tot en met 2005 geldt voor de ondernemer die winst behaalt met of bij het staken van een of meer gedeelten van een onderneming met betrekking waartoe hij vanaf 1 januari 2001 ondernemer is geweest en niet een gehele onderneming heeft gestaakt, de in het tweede lid bedoelde tijdelijke stakingsaftrek als stakingsaftrek in de zin van [artikel 3.79 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79).
 
@@ -344,13 +344,15 @@ Sa. Verlenging voor 2001 en 2002 van terugwentelingsperiode. Voor de kalenderjar
 
 U. Aangewezen periodieke uitkeringen en verstrekkingen. Uitkeringen ingevolge [artikel 81, tweede lid, onderdeel b, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81) die voortvloeien uit aanspraken op uitkeringen ingevolge artikel 59a van de Algemene Arbeidsongeschiktheidswet zoals die wet luidde op 31 december 1997, behoren tot de inkomsten in de vorm van aangewezen periodieke uitkeringen en verstrekkingen die worden ontvangen op grond van een publiekrechtelijke regeling.
 
-Ua. Negatieve persoonsgebonden aftrek. Voor de toepassing van [artikel 3.139 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.139) wordt:
+- 1. Voor de toepassing van [artikel 3.139 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.139) wordt:
 
 - a. onder onderhoudsverplichtingen die op grond van afdeling 6.2 in aanmerking zijn genomen mede begrepen periodieke uitkeringen en verstrekkingen die op grond van artikel 45, eerste lid, onderdelen c, d of e, van de Wet op de inkomstenbelasting 1964 en afkoopsommen die op grond van onderdeel h van dat artikel in aanmerking zijn genomen;
 
 - b. onder verliezen die op grond van afdeling 6.3 in aanmerking zijn genomen mede begrepen verliezen die op grond van artikel 45, eerste lid, onderdeel i, van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen;
 
-- c. onder uitgaven voor monumentenpanden die op grond van afdeling 6.8 in aanmerking zijn genomen mede begrepen kosten, lasten en afschrijvingen die op grond van artikel 42a, zevende lid, van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen.
+- c. onder uitgaven voor monumentenpanden die op grond van afdeling 6.8 in aanmerking zijn genomen mede begrepen kosten, lasten en afschrijvingen die op grond van artikel 35 of artikel 42a, zevende lid, van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen.
+
+- 2. Voor de toepassing van [artikel 3.139](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.139) wordt mede als negatieve persoonsgebonden aftrek van een belastingplichtige in aanmerking genomen hetgeen door hem is ontvangen aan door een gemeente toegekende subsidie ter zake van onderhoud aan een pand, niet zijnde een monumentenpand, voorzover de subsidie betrekking heeft op onderhoud waarvan de kosten en lasten als aftrekbare kosten in de zin van artikel 35 van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen.
 
 V. Tijdstip genieten. Voor de toepassing van [artikel 3.146, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.146) is [artikel 39 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39) van overeenkomstige toepassing.
 
@@ -416,7 +418,7 @@ V. Tijdstip genieten. Voor de toepassing van [artikel 3.146, tweede lid, van de 
 
 - 2. Indien een op 1 januari 2001 bestaande gerechtigdheid in de zin van [artikel 4.3, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.3), die niet werd aangemerkt als een tijdelijke gerechtigdheid als bedoeld in artikel 25, vijftiende lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) tot een aanmerkelijk belang behoort, wordt de verkrijgingsprijs gesteld op de waarde in het economische verkeer van die gerechtigdheid per 1 januari 2001.
 
-AD. Aflopend aanmerkelijk belang. De bepalingen van hoofdstuk II, afdeling 4 van de Wet op de inkomstenbelasting 1964, zoals die luidden op 31 december 1996, blijven van toepassing ten aanzien van de belastingplichtige met betrekking tot aandelen of winstbewijzen die voor hem een aanmerkelijk belang vormen in de zin van artikel 39 van de Wet op de inkomstenbelasting 1964 zoals dat luidde op die datum en welke aandelen of winstbewijzen nadien niet meer tot een aanmerkelijk belang behoorden op grond van artikel 20a van de Wet op de inkomstenbelasting 1964 respectievelijk de bepalingen van [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4). De in de vorige volzin bedoelde aandelen of winstbewijzen behoren voor de toepassing van [artikel 4.23 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.23) tot een aanmerkelijk belang op het moment van verkrijging. De desbetreffende winst uit aanmerkelijk belang wordt belast als inkomen uit aanmerkelijk belang. De inkomstenbelasting bedraagt 20%.
+AD. Vervallen.
 
 - 1. Aandelen of winstbewijzen als bedoeld in artikel 20a van de Wet op de inkomstenbelasting 1964 die op 31 december 2000 krachtens artikel 20d, derde lid, 20e, tweede lid, 20f, tweede lid, 68a, zesde lid, 68aa, zesde lid, 70d, of krachtens een voorwaarde gesteld ingevolge artikel 20g van die wet werden geacht tot een aanmerkelijk belang te behoren (fictief aanmerkelijk belang), worden voor de toepassing van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) ten aanzien van de belastingplichtige geacht tot een aanmerkelijk belang te behoren, zo zij daartoe niet reeds behoren ingevolge de bepalingen van [afdeling 4.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.3).
 
@@ -488,17 +490,19 @@ AG. Keuze voor afrekenen bij toepassing onderdeel AF. Voor de toepassing van de[
 
 AKab. Overgangsrecht eigenwoningregeling bij echtscheiding. Voor zover per 31 december 2000 een woning de belastingplichtige niet meer anders dan tijdelijk ter beschikking staat als hoofdverblijf, maar zijn gewezen partner wel, wordt de termijn als genoemd in [artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) geacht te zijn aangevangen op 1 januari 2001.
 
-AKac. Overgangsrecht meegefinancierde bouwrente. [Artikel 3.120, vierde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) is niet van toepassing op schulden die zijn aangegaan ter betaling van renten van schulden als bedoeld in het [eerste lid, onderdeel a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) voor zover:
+- 1. [Artikel 3.120, vierde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) is niet van toepassing op schulden die zijn aangegaan ter betaling van renten van schulden als bedoeld in het [eerste lid, onderdeel a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) voor zover:
 
 - a. deze renten van schulden betrekking hebben op de periode waarin de eigen woning in aanbouw is en
 
 - b. de woning op 1 januari 2001 ten aanzien van de belastingplichtige of personen die behoren tot zijn huishouden reeds een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
 
+- 2. [Artikel 3.120, vierde lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) is niet van toepassing op renten van op 31 december 2000 bestaande schulden die zijn aangegaan ter betaling van kosten die verband houden met het oversluiten van schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een woning die op 1 januari 2001 ten aanzien van de belastingplichtige of personen die behoren tot zijn huishouden een eigen woning is als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
+
 - 1. Voor de toepassing van [afdeling 3.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) wordt tot 1 januari 2031 met de eigendom van een gebouw of een gedeelte van een gebouw dat bestemd is tot woning gelijkgesteld de eigendom van de binnenkant van een woning, terwijl het casco en de ondergrond worden gehuurd, mits deze eigendom door de belastingplichtige voor 1 januari 2001 is verworven van de verhuurder en vanaf de verwerving het geheel hem anders dan tijdelijk als hoofdverblijf ter beschikking staat.
 
 - 2. Bij ministeriële regeling worden regels gesteld inzake de toepassing van [artikel 3112, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.112) in deze gevallen.
 
-AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter verwerving van een eigen woning wordt voor de toepassing van [artikel 3.120, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) geacht te zijn aangevangen op 1 januari 2001.
+AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter verwerving dan wel voor verbetering of onderhoud van een eigen woning wordt voor de toepassing van [artikel 3.120, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) geacht te zijn aangevangen op 1 januari 2001.
 
 - 1. Met betrekking tot de winst die ingevolge [artikel 28, tweede lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) in het jaar 2001 ter beschikking wordt gesteld van de aandeelhouders en houders van bewijzen van deelgerechtigdheid, blijven de bepalingen van hoofdstuk II, afdeling 3, van de Wet op de inkomstenbelasting 1964, zoals die luidden op 31 december 2000, van toepassing, voorzover deze winst is toe te rekenen aan de vervreemding van aandelen in een vennootschap – direct of indirect – aan die vennootschap of aan liquidatie van een vennootschap.
 
@@ -510,7 +514,7 @@ AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 decem
 
 - b. voor de levensverzekering ten minste vijftien jaar jaarlijks premies zijn voldaan waarbij de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste, of
 
-- c. de levensverzekering voldoet aan het bepaalde in artikel 76 van de Wet op de inkomstenbelasting 1964, waardoor de rente begrepen in een kapitaalsuitkering niet tot de inkomsten uit vermogen in de zin van die wet hoort, of
+- c. de levensverzekering voldoet aan het bepaalde in artikel 76 van de Wet op de inkomstenbelasting 1964, waardoor de rente begrepen in een kapitaalsuitkering niet tot de inkomsten uit vermogen in die zin van de wet hoort, of
 
 - d. sprake is van een overeenkomst van levensverzekering als bedoeld in [artikel 3.91, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), dan wel [artikel 3.92, tweede lid, onderdeel a, onder 2°, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
 
@@ -614,7 +618,7 @@ AQ. Geldleningen aan beginnende ondernemers; deelnemingen in partcipatiemaatscha
 
 - c. belastbare periodieke uitkeringen en verstrekkingen geniet.
 
-- 2. De tijdelijke verhoging van de algemene heffingskorting bedraagt {(Ba – LB)/Ba} x {Bb – 1,25 x (Bb – 0,1 x H)}, maar niet meer dan M, waarbij Ba voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning zonder rekening te houden met de heffingskorting voor de inkomstenbelasting; LB voorstelt: de loonbelasting die ingehouden zou zijn indien geen rekening zou zijn gehouden met de heffingskorting voor de loonbelasting; Bb voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting en vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting; H voorstelt: de heffingskorting voor de inkomstenbelasting zonder toepassing van de arbeidskorting, de kinderkorting, de aanvullende kinderkorting, de combinatiekorting, de aanvullende combinatiekorting, de tijdelijke verhoging van de algemene heffingskorting, de korting voor maatschappelijke beleggingen, de korting voor beleggingen in durfkapitaal, de toetrederskorting en de maximering van de gecombineerde heffingskorting op grond van [artikel 8.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8); en M voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting, en verminderd met het bedrag van de met de aanslag te verrekenen voorheffingen voorzover die betrekking hebben op het belastbare inkomen uit werk en woning. Indien de berekening van het deel van de berekeningsformule dat (Bb – 0,1 x H) voorstelt tot een negatief bedrag leidt, wordt dat bedrag op nihil gesteld.
+- 2. De tijdelijke verhoging van de algemene heffingskorting bedraagt {(Ba – LB)/Ba} x {Bb – 1,25 x (Bb – 0,1 x H)}, maar niet meer dan M, waarbij Ba voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning zonder rekening te houden met de heffingskorting voor de inkomstenbelasting; LB voorstelt: de loonbelasting die ingehouden zou zijn indien geen rekening zou zijn gehouden met de heffingskorting voor de loonbelasting; Bb voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting en vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting; H voorstelt: de heffingskorting voor de inkomstenbelasting zonder toepassing van de arbeidskorting, de kinderkorting, de aanvullende kinderkorting, de combinatiekorting, de aanvullende combinatiekorting, de tijdelijke verhoging van de algemene heffingskorting, de korting voor maatschappelijke beleggingen, de korting voor directe beleggingen in durfkapitaal en culturele beleggingen, de toetrederskorting en de maximering van de gecombineerde heffingskorting op grond van [artikel 8.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8); en M voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting, en verminderd met het bedrag van de met de aanslag te verrekenen voorheffingen voorzover die betrekking hebben op het belastbare inkomen uit werk en woning. Indien de berekening van het deel van de berekeningsformule dat (Bb – 0,1 x H) voorstelt tot een negatief bedrag leidt, wordt dat bedrag op nihil gesteld.
 
 - 3. Voor de belastingplichtige met een partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) die niet in aanmerking komt voor de tijdelijke verhoging van de algemene heffingskorting wordt, indien hij een belastbaar inkomen uit werk en woning heeft dat minder bedraagt dan het in de tweede volzin vermelde bedrag, bij de toepassing van het tweede lid voor de toepassing van de factoren Bb en M de verschuldigde belasting niet verminderd met de heffingskorting voor de inkomstenbelasting en wordt de factor 0,1 vervangen door 1. Het in de eerste volzin bedoeld bedrag bedraagt voor het kalenderjaar 2001 € 4395, voor het kalenderjaar 2002 € 5239, voor het kalenderjaar 2003 € 5582 en voor de kalenderjaren 2004 en 2005 € 5833.
 
@@ -748,9 +752,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-03-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-03-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
