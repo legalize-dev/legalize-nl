@@ -4,7 +4,7 @@ identifier: "BWBV0002895"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-08-21"
-last_updated: "1992-08-15"
+last_updated: "2005-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002895"
 soort: "verdrag"
@@ -160,7 +160,7 @@ De Groep kan verzoeken te worden aangewezen als een internationaal grondstoffeno
 
 ##### 15
 
-- a. Elk lid draagt bij aan een jaarlijke begroting die door de Groep wordt goedgekeurd in overeenstemming met de bepalingen van het interne reglement. De bijdragen van de leden zullen als volgt worden berekend: 50% van de begroting zal worden verdeeld in gelijke aandelen, 25% zal over de Lid-Staten worden verdeeld in verhouding tot ieders aandelen in de totale exporten en importen van kopererts en koperconcentraten, gemeten naar het gehalte aan kopermetaal en ongeraffineerde of geraffineerde koper, en de resterende 25% in verhouding naar het aandeel van iedere Lid-Staat in een totaal dat bestaat uit hetzij het totaal van de productie uit mijnbouw, hetzij het totaal van de consumptie van geraffineerd koper, al naar gelang welke hoeveelheid het grootst is. De berekening van deze aandelen geschiedt op grondslag van de laatste drie kalenderjaren waarvoor statistieken beschikbaar zijn.
+- a. Elk lid draagt bij aan een jaarlijkse begroting die door de Groep wordt goedgekeurd in overeenstemming met de bepalingen van het interne reglement. De bijdragen van de leden zullen als volgt worden berekend: 50 procent van de begroting zal worden verdeeld in gelijke aandelen, 25 procent zal over de Lid-Staten worden verdeeld in verhouding tot ieders aandelen in de totale exporten en importen van kopererts en koperconcentraten, gemeten naar het gehalte aan kopermetaal en ongeraffineerde of geraffineerde koper, en de resterende 25 procent in verhouding naar het aandeel van iedere Lid-Staat in een totaal dat bestaat uit hetzij het totaal van de productie uit mijnbouw, hetzij het totaal van de consumptie van geraffineerd koper, al naar gelang welke hoeveelheid het grootst is. De berekening van deze aandelen geschiedt op grondslag van de laatste drie kalenderjaren waarvoor statistieken beschikbaar zijn. Het door een individueel lid te betalen bedrag bedraagt ten hoogste 10% van het totaal van de begrote bijdragen. Het resterende deel wordt gelijkelijk verdeeld tussen de overige leden.
 
 - b. De Groep bepaalt de bijdrage van elk lid voor elk financieel jaar in een door de Groep te bepalen valuta en overeenkomstig de bepalingen van het interne reglement met betrekking tot de bijdragen. De betaling van de bijdrage vindt door elk lid plaats in overeenstemming met zijn grondwettelijke procedures.
 
