@@ -4,7 +4,7 @@ identifier: "BWBR0007823"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007823"
 soort: "AMvB"
@@ -96,9 +96,9 @@ De bewaarder geeft een voorwerp niet af dan tegen een bewijs, waarin de datum de
 
 ##### Artikel 4
 
-1. Op grond van [artikel 94 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) inbeslaggenomen geld wordt zo spoedig mogelijk op de postbankrekening van het gerecht bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01), gestort, tenzij de officier van justitie bepaalt, dat de bewaarder, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01), dit geld onder zich houdt.
+1. Op grond van [artikel 94 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) inbeslaggenomen geld wordt zo spoedig mogelijk op de postbankrekening van het gerecht bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02), gestort, tenzij de officier van justitie bepaalt, dat de bewaarder, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02), dit geld onder zich houdt.
 
-2. Mede of uitsluitend op grond van [artikel 94a Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) in beslag genomen geld wordt zo spoedig mogelijk op de postbankrekening van het gerecht bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01), gestort, tenzij de officier van justitie bepaalt, dat de bewaarder, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01), dit geld onder zich houdt.
+2. Mede of uitsluitend op grond van [artikel 94a Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) in beslag genomen geld wordt zo spoedig mogelijk op de postbankrekening van het gerecht bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02), gestort, tenzij de officier van justitie bepaalt, dat de bewaarder, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02), dit geld onder zich houdt.
 
 ##### Artikel 5
 
@@ -120,7 +120,7 @@ Voorwerpen die om bijzondere redenen niet kunnen worden opgeslagen in een onder 
 
 ##### Artikel 9
 
-Indien en voor zolang de opslag ingevolge het vorige artikel geschiedt in een ruimte in beheer bij een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01) genoemde bewaarder, wordt deze als de bewaarder der voorwerpen aangemerkt.
+Indien en voor zolang de opslag ingevolge het vorige artikel geschiedt in een ruimte in beheer bij een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02) genoemde bewaarder, wordt deze als de bewaarder der voorwerpen aangemerkt.
 
 ##### Artikel 10
 
@@ -128,9 +128,9 @@ Indien en voor zolang de opslag ingevolge het vorige artikel geschiedt in een ru
 
 - 1°. middelen als bedoeld in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2);
 
-- 2°. autowrakken, als bedoeld in [artikel 1.1, eerste lid, onder **f**, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
+- 2°. autowrakken als bedoeld in [artikel 1, onderdeel i, van het Inrichtingen- en vergunningenbesluit milieubeheer;](https://wetten.overheid.nl/jci1.3:c:BWBR0005829&artikel=1)
 
-- 3°. gevaarlijke afvalstoffen als bedoeld in [artikel 1.1, eerste lid, onder **f**, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
+- 3°. gevaarlijke afvalstoffen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
 
 - 4°. gevaarlijke stoffen en preparaten in de zin van artikel 2 van de Richtlijn van de Raad van Europese Gemeenschappen van 18 september 1979, 79/831/EEG (**Pb EG** 1979, L 259);
 
@@ -190,17 +190,17 @@ d°.waarover door de rechter een onherroepelijke beslissing tot bewaring ten beh
 
 e°.waarvan de bewaring ingevolge artikel 118, derde of vierde lid, wordt beëindigd.
 
-2. In afwijking van het bepaalde in het eerste en tweede lid draagt de griffier waardepapieren en geld als bedoeld in [artikel 1, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01), over aan de bewaarder, bedoeld in [artikel 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01).
+2. In afwijking van het bepaalde in het eerste en tweede lid draagt de griffier waardepapieren en geld als bedoeld in [artikel 1, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02), over aan de bewaarder, bedoeld in [artikel 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02).
 
-3. De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=11&z=2002-01-01&g=2002-01-01), bevoegd met betrekking tot voorwerpen, ten aanzien waarvan het niet mogelijk is gebleken de last tot teruggave uit te voeren omdat de rechthebbende geen aanspraak heeft gemaakt op afgifte, te handelen op dezelfde wijze als met betrekking tot verbeurd verklaarde voorwerpen.
+3. De bewaarders zijn na het verstrijken van de termijn bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=11&z=2002-07-02&g=2002-07-02), bevoegd met betrekking tot voorwerpen, ten aanzien waarvan het niet mogelijk is gebleken de last tot teruggave uit te voeren omdat de rechthebbende geen aanspraak heeft gemaakt op afgifte, te handelen op dezelfde wijze als met betrekking tot verbeurd verklaarde voorwerpen.
 
 ##### Artikel 13
 
-1. De opsporingsambtenaar die een inbeslaggenomen voorwerp bedoeld in [artikel 10, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=10&z=2002-01-01&g=2002-01-01) zich heeft, stelt zich onverwijld met het openbaar ministerie in verbinding, met het verzoek tot het verlenen van een machtiging tot vernietiging. De opsporingsambtenaar draagt tevens zorg voor de uitvoering van de machtiging tot vernietiging van middelen als bedoeld in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) op de wijze bepaald in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=15&z=2002-01-01&g=2002-01-01). [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=14&z=2002-01-01&g=2002-01-01) blijft buiten toepassing.
+1. De opsporingsambtenaar die een inbeslaggenomen voorwerp bedoeld in [artikel 10, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=10&z=2002-07-02&g=2002-07-02) zich heeft, stelt zich onverwijld met het openbaar ministerie in verbinding, met het verzoek tot het verlenen van een machtiging tot vernietiging. De opsporingsambtenaar draagt tevens zorg voor de uitvoering van de machtiging tot vernietiging van middelen als bedoeld in de [artikelen 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) op de wijze bepaald in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=15&z=2002-07-02&g=2002-07-02). [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=14&z=2002-07-02&g=2002-07-02) blijft buiten toepassing.
 
-2. Indien het betreft een voorwerp, inbeslaggenomen terzake van het bepaalde bij of krachtens een der in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=7&z=2002-01-01&g=2002-01-01), genoemde wetten, verzoekt de bewaarder of de opsporingsambtenaar, die het voorwerp onder zich heeft, terstond machtiging tot onverwijlde vernietiging, indien de daartoe te raadplegen ambtenaar van de Veterinaire Dienst dan wel de Plantenziektenkundige Dienst van mening is, dat zulks ter wering van besmettelijke dier- en plantenziekten is vereist.
+2. Indien het betreft een voorwerp, inbeslaggenomen terzake van het bepaalde bij of krachtens een der in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=7&z=2002-07-02&g=2002-07-02), genoemde wetten, verzoekt de bewaarder of de opsporingsambtenaar, die het voorwerp onder zich heeft, terstond machtiging tot onverwijlde vernietiging, indien de daartoe te raadplegen ambtenaar van de Veterinaire Dienst dan wel de Plantenziektenkundige Dienst van mening is, dat zulks ter wering van besmettelijke dier- en plantenziekten is vereist.
 
-3. Indien machtiging tot vernietiging of vervreemding is verleend aan de opsporingsambtenaar die het voorwerp onder zich heeft, stelt deze het voorwerp onverwijld ter beschikking van de daarvoor in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01) aangewezen bewaarder. Indien dit de griffier is, stelt de opsporingsambtenaar het voorwerp ter beschikking van het Hoofd van Domeinen Roerende Zaken.
+3. Indien machtiging tot vernietiging of vervreemding is verleend aan de opsporingsambtenaar die het voorwerp onder zich heeft, stelt deze het voorwerp onverwijld ter beschikking van de daarvoor in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02) aangewezen bewaarder. Indien dit de griffier is, stelt de opsporingsambtenaar het voorwerp ter beschikking van het Hoofd van Domeinen Roerende Zaken.
 
 ##### Artikel 14
 
@@ -212,7 +212,7 @@ e°.waarvan de bewaring ingevolge artikel 118, derde of vierde lid, wordt beëin
 
 ##### Artikel 15
 
-1. Aan een machtiging tot het vernietigen of prijsgeven van een voorwerp wordt zo spoedig mogelijk gevolg gegeven op de voor het betrokken voorwerp geschikte wijze, met dien verstande dat in het geval, bedoeld in het [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=7&z=2002-01-01&g=2002-01-01), aan een machtiging tot vernietiging gevolg wordt gegeven op de door het districtshoofd van de Veterinaire Dienst aan te geven wijze.
+1. Aan een machtiging tot het vernietigen of prijsgeven van een voorwerp wordt zo spoedig mogelijk gevolg gegeven op de voor het betrokken voorwerp geschikte wijze, met dien verstande dat in het geval, bedoeld in het [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=7&z=2002-07-02&g=2002-07-02), aan een machtiging tot vernietiging gevolg wordt gegeven op de door het districtshoofd van de Veterinaire Dienst aan te geven wijze.
 
 2. Middelen als bedoeld in [artikel 2 en 3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), worden pas vernietigd nadat daarvan een monster is genomen. De vernietiging van deze middelen geschiedt onder toezicht van een hulpofficier van justitie.
 
@@ -226,9 +226,9 @@ e°.waarvan de bewaring ingevolge artikel 118, derde of vierde lid, wordt beëin
 
 1. De bewaarders van voorwerpen die op grond van [artikel 94 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) zijn inbeslaggenomen die een machtiging tot vervreemding om baat hebben uitgevoerd, beheren deze opbrengst totdat aan het beslag een einde komt op grond van een last tot teruggave van het openbaar ministerie of een onherroepelijke rechterlijke beslissing, dan wel indien zodanige beslissing nog niet is genomen gedurende twee jaar te rekenen vanaf de datum van de inbeslagneming van het voorwerp.
 
-2. De bewaarders van op grond van [artikel 94 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) inbeslaggenomen voorwerpen die in bewaring zijn gegeven op grond van [artikel 118, tweede lid, van genoemd Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118) dragen na de uitvoering van een last tot vervreemding om baat de opbrengst over aan de bewaarder genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01).
+2. De bewaarders van op grond van [artikel 94 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94) inbeslaggenomen voorwerpen die in bewaring zijn gegeven op grond van [artikel 118, tweede lid, van genoemd Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=118) dragen na de uitvoering van een last tot vervreemding om baat de opbrengst over aan de bewaarder genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02).
 
-3. Indien het beslag mede of uitsluitend op grond van [artikel 94a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) is gelegd, dragen de bewaarders er zorg voor dat de opbrengst wordt overgedragen aan de in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-01-01&g=2002-01-01) , genoemde bewaarder.
+3. Indien het beslag mede of uitsluitend op grond van [artikel 94a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) is gelegd, dragen de bewaarders er zorg voor dat de opbrengst wordt overgedragen aan de in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1&z=2002-07-02&g=2002-07-02) , genoemde bewaarder.
 
 ##### Artikel 17
 
