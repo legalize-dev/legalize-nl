@@ -4,7 +4,7 @@ identifier: "BWBR0017750"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2003-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017750"
 soort: "wet"
@@ -63,7 +63,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet van enkele belastingwetten (herstel van enige onjuistheden).
 
 ##### Artikel VIII
 
@@ -71,7 +71,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 11, eerste lid, onderdeel p, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) zoals dit onderdeel luidde op 31 december 2003, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór de genoemde datum in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
 
 ##### Artikel IX
 
