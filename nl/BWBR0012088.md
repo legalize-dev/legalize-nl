@@ -1,0 +1,229 @@
+---
+title: "Wet van 21 december 2000, houdende regels met betrekking tot het beëindigen van de overeenkomst van samenwerking van de elektriciteitsproductiesector en tot het aandeelhouderschap van de netbeheerder van het landelijk hoogspanningsnet (Overgangswet elektriciteitsproductiesector)"
+identifier: "BWBR0012088"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012088"
+soort: "wet"
+stam_id: "2904993"
+version_id: "4474922"
+internal_id: "C4474921"
+label_id: "2853104"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012088/2013-01-01/0"
+intitule_bron: "Stb.2000-607"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-21"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2000-607"
+original_signed_date: "2000-12-21"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "27250"
+original_url_id: "stb-2000-607"
+entry_into_force_date: "2000-12-29"
+entry_into_force_dossier: "27250"
+jci_1_3: "jci1.3:c:BWBR0012088&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0012088&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Overgangswet elektriciteitsproductiesector"
+signed_date: "2000-12-21"
+entry_into_force: "2000-12-29"
+---
+# Wet van 21 december 2000, houdende regels met betrekking tot het beëindigen van de overeenkomst van samenwerking van de elektriciteitsproductiesector en tot het aandeelhouderschap van de netbeheerder van het landelijk hoogspanningsnet (Overgangswet elektriciteitsproductiesector)
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben dat het wenselijk is in verband met de liberalisering van de elektriciteitsproductie te voorzien in regels voor de verdeling van rechten en verplichtingen bij de beëindiging van de overeenkomst van samenwerking van de elektriciteitsproductiesector, voor de tegemoetkoming in de daarmee verband houdende kosten van die sector en voor de overgang van de meerderheid van de aandelen van de vennootschap die is aangewezen als netbeheerder van het landelijk hoogspanningsnet naar de Staat;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+#### Paragraaf 1. Algemeen
+
+##### Artikel 1
+
+1. In deze wet wordt verstaan onder productiebedrijf of aangewezen vennootschap: de rechtspersoon die vergunninghouder onderscheidenlijk aangewezen vennootschap als bedoeld in artikel 1 van de Elektriciteitswet 1989 was, of de rechtsopvolger daarvan.
+
+2. Onder de overige in deze wet gebruikte termen wordt verstaan hetgeen daaronder verstaan wordt in de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755).
+
+#### Paragraaf 2. Verdeling van rechten en verplichtingen
+
+##### Artikel 2
+
+1. De productiebedrijven zijn gezamenlijk aansprakelijk voor de kosten, bedoeld in het tweede lid, met inachtneming van de volgende onderlinge verdeling:
+
+- a. n.v. Elektriciteits-Produktiemaatschappij Oost- en Noord-Nederland: 29,5%;
+
+- b. n.v. Elektriciteits-Produktiemaatschappij Zuid-Nederland: 28,5%;
+
+- c. n.v. Electriciteitsbedrijf Zuid-Holland: 19,5%;
+
+- d. n.v. Energieproduktiebedrijf UNA: 22,5%.
+
+2. De kosten waarvoor de productiebedrijven gezamenlijk aansprakelijk zijn, betreffen:
+
+- a. de kosten die voortvloeien uit de exploitatie van de experimentele kolenvergassingsinstallatie Demkolec tot en met het tijdstip waarop die installatie wordt overgenomen;
+
+- b. de kosten die voortvloeien uit de aflossing van de lening die de n.v. Gemeenschappelijke Kernenergiecentrale Nederland heeft verstrekt aan de aangewezen vennootschap;
+
+- c. de kosten die voortvloeien uit de overeenkomsten tot invoer van gas en elektriciteit die de aangewezen vennootschap heeft gesloten, voor zover die nog van kracht zijn;
+
+- d. de kosten die zijn verbonden aan verplichtingen die voor het tijdstip van intrekking van de Elektriciteitswet 1989 door de aangewezen vennootschap zijn aangegaan met betrekking tot de aanleg van een verbinding voor het transport van elektriciteit tussen Nederland en Noorwegen;
+
+- e. de overige kosten die voortvloeien uit de vereffening van de rechten en verplichtingen van de aangewezen vennootschap als deze wordt ontbonden.
+
+3. Indien na de exploitatie van de installatie, bedoeld in het tweede lid, onderdeel a, de aflossing van de lening, bedoeld in het tweede lid, onderdeel b, de overdracht van de overeenkomsten, bedoeld in het tweede lid, onderdeel c, de nakoming van de verplichtingen, bedoeld in het tweede lid, onderdeel d, en de vereffening van de rechten en plichten van de aangewezen vennootschap, bedoeld in het tweede lid, onderdeel e, een batig saldo resulteert, zijn de productiebedrijven gerechtigd tot dat saldo met inachtneming van de in het eerste lid bepaalde verdeling.
+
+##### Artikel 3
+
+1. De aangewezen vennootschap heeft jegens elk van de productiebedrijven een vorderingsrecht tot betaling van hetgeen die bedrijven verschuldigd zijn, voor het deel van de totale kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01), waarvoor elk bedrijf aansprakelijk is.
+
+2. Betaling geschiedt binnen een termijn die zodanig wordt bepaald door de aangewezen vennootschap, dat die vennootschap tijdig kan voldoen aan haar betalingsverplichtingen met betrekking tot de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01), bedoelde productiemiddelen en overeenkomsten.
+
+##### Artikel 4
+
+De vorderingsrechten van de productiebedrijven uit hoofde van door hen met de aangewezen vennootschap gesloten overeenkomsten inzake de bouw van productiemiddelen vervallen.
+
+##### Artikel 5
+
+De productiebedrijven hebben naar rato van hun bijdrage in de kosten, bedoeld in [artikel 2, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01), jegens de aangewezen vennootschap recht op levering van de elektriciteit die door die installatie wordt geproduceerd, onderscheidenlijk op levering van de elektriciteit die of het gas dat ter uitvoering van die overeenkomsten aan die vennootschap wordt geleverd.
+
+#### Paragraaf 3. Tegemoetkoming in de kosten
+
+##### Artikel 6
+
+Vervallen
+
+##### Artikel 7
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 8
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 9
+
+1. Iedere afnemer, niet zijnde een beschermde afnemer, is naast hetgeen hij op grond van overeenkomst verschuldigd is aan de netbeheerder van het gebied waarin hij is gevestigd, aan die netbeheerder een bedrag van f 0,0117 per kWh verschuldigd, berekend over de totale hoeveelheid elektriciteit die die netbeheerder in de periode van 1 augustus 2000 tot en met 31 december 2000 getransporteerd heeft naar zijn aansluiting.
+
+2. Iedere beschermde afnemer is naast hetgeen hij op grond van overeenkomst verschuldigd is aan de vergunninghouder van het gebied waarin hij is gevestigd, aan die vergunninghouder een bedrag van f 0,0117 per kWh verschuldigd, berekend over de totale hoeveelheid elektriciteit die die vergunninghouder in de periode van 1 augustus 2000 tot en met 31 december 2000 aan hem geleverd heeft.
+
+3. Indien een afnemer aan een netbeheerder of een vergunninghouder over het jaar 2000 of een gedeelte daarvan reeds een voorschot betaald heeft om het bedrag, bedoeld in het eerste of het tweede lid, te voldoen, verrekent de netbeheerder of de vergunninghouder bij de eindafrekening over het jaar 2000 dit voorschot met het totaal aan hem verschuldigde bedrag.
+
+4. De opbrengst van de bedragen die afnemers op grond van het eerste of tweede lid verschuldigd zijn, wordt door de netbeheerders, onderscheidenlijk de vergunninghouders voor 1 juli 2001 afgedragen aan de aangewezen vennootschap.
+
+5. De aangewezen vennootschap doet Onze Minister opgave van de hoogte van de opbrengst, bedoeld in het vierde lid, en voegt daarbij een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van de opgave. Indien de totale opbrengst meer is dan f 400 000 000, draagt de aangewezen vennootschap het meerdere af aan Onze Minister, die dat bedrag bestemt voor de tegemoetkoming in de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2002-01-01&g=2002-01-01).
+
+#### Paragraaf 4. Verkrijging aandelen landelijk netbeheerder
+
+##### Artikel 10
+
+1. De Staat is gemachtigd aan de aangewezen vennootschap een redelijke prijs te betalen voor de aandelen in de vennootschap die is aangewezen als netbeheerder van het landelijk hoogspanningsnet.
+
+2. Het is anderen dan de Staat niet toegestaan aandelen te verkrijgen in de vennootschap die is aangewezen als netbeheerder van het landelijk hoogspanningsnet en het is de aangewezen vennootschap niet toegestaan op die aandelen rechten ten behoeve van anderen dan de Staat te vestigen, tenzij Onze Minister instemt met die verwerving of vestiging van rechten. Onze Minister verleent zijn instemming niet dan nadat vier weken zijn verstreken nadat zijn voornemen daartoe aan de beide kamers der Staten-Generaal is voorgelegd. Het verkrijgen van aandelen en het vestigen van rechten op aandelen in strijd met de eerste volzin zijn nietig.
+
+##### Artikel 11
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 5. Overige bepalingen
+
+##### Artikel 12
+
+1. Ten behoeve van de toepassing van het bepaalde bij of krachtens deze wet kan Onze Minister inzage nemen of door personen, door hem bij uitdrukkelijke en bijzondere volmacht aangewezen, doen nemen van zakelijke gegevens en bescheiden van een producent, een leverancier, een handelaar, een netbeheerder of een afnemer.
+
+2. [Artikel 5:17, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [artikel 78, tweede en derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=78) zijn van overeenkomstige toepassing op een verzoek om inzage van gegevens en bescheiden als bedoeld in het eerste lid.
+
+3. Onze Minister kan de rechtspersonen, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01), verzoeken bij de opgave, bedoeld in [artikel 8, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01), een verklaring te voegen van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) omtrent de getrouwheid van die opgave.
+
+##### Artikel 13
+
+1. De netbeheerder van het landelijk hoogspanningsnet wijst op aanvraag tot en met 31 maart 2005 ten hoogste 900 MW en van 1 april 2005 tot en met 31 maart 2009 ten hoogste 750 MW toe aan de aangewezen vennootschap voor het transport van elektriciteit, indien dit transport strekt ter uitvoering van de overeenkomsten, gesloten in 1989 en 1990 tussen de aangewezen vennootschap enerzijds en Electricité de France, Preussen Elektra A.G., onderscheidenlijk Vereinigte Elektrizitätswerke Westfalen A.G. anderzijds, zoals deze luidden op 1 augustus 1998 en voor zover deze overeenkomsten nog van kracht zijn.
+
+2. Een aanvraag om transportcapaciteit op grond van het eerste lid heeft betrekking op de toewijzing van capaciteit:
+
+- a. voor een periode van ten hoogste drie maanden en
+
+- b. voor ten hoogste de hoeveelheid uren die in de periode van 1 augustus 1999 tot en met 1 augustus 2000 in de overeenkomende periode van drie maanden door de netbeheerder van het landelijk hoogspanningsnet werden toegewezen voor de nakoming van de desbetreffende overeenkomst.
+
+3. De aangewezen vennootschap is aan de netbeheerder van het landelijk hoogspanningsnet voor iedere MW capaciteit die op grond van het eerste lid wordt toegewezen, een bedrag verschuldigd dat gelijk is aan het bedrag dat een afnemer verschuldigd is voor een MW capaciteit voor de uitvoering van een jaarcontract die aan hem wordt toegewezen door middel van het veilen van capaciteit dan wel het volgens een andere marktconforme methode toewijzen van capaciteit, bedoeld in [artikel 31, derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31). Indien geen capaciteit wordt toegewezen voor de uitvoering van een jaarcontract, is de aangewezen vennootschap een bedrag verschuldigd dat gelijk is aan het bedrag dat een afnemer verschuldigd is voor de uitvoering van een contract dat het meest vergelijkbaar is met de in het eerste lid bedoelde overeenkomsten. Het bedrag dat de netbeheerder van het landelijk hoogspanningsnet op grond van dit lid verkrijgt, wordt door hem benut bij het doen van een voorstel voor de tarieven die hij ten hoogste mag berekenen voor een aansluiting op het landelijk hoogspanningsnet, het transport van elektriciteit over dat net of het verrichten van de systeemdiensten, dan wel wordt door hem overeenkomstig de regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=8&z=2002-01-01&g=2002-01-01), aan Onze Minister afgedragen ten behoeve van de tegemoetkoming in de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=7&z=2002-01-01&g=2002-01-01).
+
+4. Indien de aangewezen vennootschap de overeenkomsten, bedoeld in het eerste lid, overdraagt aan een andere natuurlijke persoon of rechtspersoon die een aanvraag doet om toewijzing van transportcapaciteit, wijst de netbeheerder van het landelijk hoogspanningsnet de in het eerste lid bedoelde hoeveelheid capaciteit toe aan die andere natuurlijke persoon of rechtspersoon. Het tweede en derde lid zijn van overeenkomstige toepassing.
+
+5. De aangewezen vennootschap, dan wel de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, kan de hem toegewezen capaciteit vervreemden aan derden. Indien hij de hem toegewezen capaciteit gedurende een bepaalde periode niet zal gebruiken en hij deze niet heeft vervreemdt, meldt hij dat aan de netbeheerder van het landelijk hoogspanningsnet overeenkomstig de procedure die deze hanteert inzake capaciteit die is toegewezen maar die niet wordt gebruikt. Na deze melding vervalt de toewijzing van de desbetreffende capaciteit voor de aangegeven periode.
+
+6. Onze Minister kan de netbeheerder van het landelijk hoogspanningsnet opdragen de toewijzing van capaciteit voor het transport van elektriciteit op grond van het eerste lid aan de aangewezen vennootschap, dan wel de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, te beperken tot door hem te bepalen tijdstippen, hoeveelheden of overeenkomsten, indien dat nodig is in verband met de opvatting van de Commissie van de Europese Gemeenschappen dienaangaande.
+
+##### Artikel 14
+
+1. Het tarief dat door een vergunninghouder in de periode van 1 augustus 2000 tot en met 31 december 2000 in rekening wordt gebracht voor het leveren van elektriciteit, gas of warmte aan beschermde afnemers kan ter dekking van de in [artikel 10, tweede lid, van de Wet energiedistributie](https://wetten.overheid.nl/jci1.3:c:BWBR0008429&artikel=10) bedoelde kosten worden verhoogd met ten hoogste 5,04%.
+
+2. Indien een beschermde afnemer aan een vergunninghouder over het jaar 2000 of een gedeelte daarvan reeds een voorschot betaald heeft om de tariefsverhoging, bedoeld in het eerste lid, te voldoen, verrekent de vergunninghouder bij de eindafrekening over het jaar 2000 dit voorschot met de totale verschuldigde tariefsverhoging.
+
+##### Artikel 15
+
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroep tegen een besluit op grond van deze wet de rechtbank te Arnhem bevoegd.
+
+#### Paragraaf 6. Wijziging andere wetten
+
+##### Artikel 16
+
+Wijzigt de Elektriciteitswet 1998.
+
+##### Artikel 17
+
+Wijzigt de Wet op de economische delicten.
+
+##### Artikel 18
+
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+
+##### Artikel 19
+
+Wijzigt de Wet energiedistributie.
+
+##### Artikel 20
+
+Wijzigt de Gaswet.
+
+#### Paragraaf 7. Slotbepalingen
+
+##### Artikel 21
+
+1. De vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet brengt haar statuten in overeenstemming met de [artikelen 268 tot en met 274 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=268) en met [artikel 11a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a) uiterlijk met ingang van de eerste dag van de eerste kalendermaand na de inwerkingtreding van dit artikel.
+
+2. Nadat de termijn, bedoeld in het eerste lid, is verstreken zijn bepalingen in de statuten van de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet, die in strijd zijn met de in het eerste lid genoemde bepalingen, nietig en treden de [artikelen 268 tot en met 274 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=268) en met [artikel 11a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a) daarvoor in de plaats.
+
+##### Artikel 22
+
+1. Onze Minister stelt binnen vier weken na inwerkingtreding van dit artikel de vergoeding vast die een vergunninghouder op grond van [artikel 71 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=71) in 2001 verschuldigd is voor het leveren van elektriciteit, opgewekt met een waterkrachtcentrale met een vermogen van ten hoogste 2 MW, een installatie waarin biomassa zonder bijstook of bijmenging van kunststoffen thermisch wordt verwerkt onder omzetting in elektriciteit met een vermogen van ten hoogste 2 MW, dan wel een installatie voor de opwekking van elektriciteit door middel van windenergie of zonne-energie met een vermogen van ten hoogste 8 MW.
+
+2. De vergoeding, bedoeld in het eerste lid, is gelijk aan de vergoeding die een vergunninghouder op grond van [artikel 71 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=71) in 2001 verschuldigd is voor het leveren van elektriciteit, opgewekt met een warmtekrachtinstallatie.
+
+##### Artikel 23
+
+Onze Minister zendt vóór 31 december 2002 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 10 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2002-01-01&g=2002-01-01) en van [artikel 11a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a), waarbij in het bijzonder overwogen zal worden of en onder welke voorwaarden aandelen in de netbeheerder van het landelijk hoogspanningsnet door de Staat verkocht kunnen worden.
+
+##### Artikel 24
+
+Deze wet wordt aangehaald als: Overgangswet elektriciteitsproductiesector.
+
+##### Artikel 25
+
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=3&artikel=9&z=2002-01-01&g=2002-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=5&artikel=14&z=2002-01-01&g=2002-01-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 augustus 2000.
+
+3. De [artikelen 10, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=10&z=2002-01-01&g=2002-01-01) en [11a, derde, vierde, vijfde en achtste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=11a) vervallen met ingang van 1 januari 2003.
+
+4. [Artikel 69, tweede en derde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=69) vervalt met ingang van een bij koninklijk besluit te bepalen datum.
+
+5. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012088&paragraaf=4&artikel=11&z=2002-01-01&g=2002-01-01) vervalt drie jaar na haar tijdstip van inwerkingtreding.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
