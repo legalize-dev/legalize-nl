@@ -107,13 +107,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit plaatsen bestuurlijke ophouding.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op de [artikelen158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), en [180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180).
-
-#### Paragraaf 2. Eisen aan de plaats van ophouding
-
-#### Paragraaf 3. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
