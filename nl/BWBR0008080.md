@@ -1,0 +1,195 @@
+---
+title: "Besluit van 5 juni 1996, houdende vaststelling van nadere regels voor het vervoer van gevaarlijke stoffen"
+identifier: "BWBR0008080"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2002-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008080"
+soort: "AMvB"
+stam_id: "40823"
+version_id: "49862"
+internal_id: "C49861"
+label_id: "40634"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008080/2024-01-01/0"
+intitule_bron: "Stb.1996-297"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-05"
+intitule_published: "1996-06-20"
+intitule_in_force: "1996-06-20"
+intitule_status: "goed"
+original_publication: "Stb.1996-297"
+original_signed_date: "1996-06-05"
+original_published_date: "1996-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-297"
+entry_into_force_date: "1996-08-01"
+jci_1_3: "jci1.3:c:BWBR0008080&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0008080&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer gevaarlijke stoffen"
+signed_date: "1996-06-05"
+entry_into_force: "1996-08-01"
+---
+# Besluit van 5 juni 1996, houdende vaststelling van nadere regels voor het vervoer van gevaarlijke stoffen
+
+Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 1995, nr. G5/V525203, Directoraat-Generaal voor het Vervoer;
+
+Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=6), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=12) en [61 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=61);
+
+De Raad van State gehoord (advies van 15 januari 1996, nummer W09.95.0579);
+
+Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 24 mei 1996, nr. WJZ/V-622587, Directoraat-Generaal voor het Vervoer;
+
+Hebben goedgevonden en verstaan:
+
+#### § 1. Algemene bepalingen
+
+##### Artikel 1
+
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. wet: [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606);
+
+- b. ADR: Accord Européen relatif au transport international des marchandises dangereuses par route;
+
+- c. ADNR: Règlement pour le transport des matières dangereuses sur le Rhin;
+
+- d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses;
+
+- e. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen als bedoeld in [artikel 1, eerste lid, onderdeel **b**, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=1).
+
+##### Artikel 2
+
+1. Overeenkomstig het ADR, het ADNR, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) met daarbij aangewezen vervoermiddelen:
+
+- a. niet is toegestaan; of
+
+- b. is toegestaan mits daarbij gestelde regels in acht zijn genomen.
+
+2. Een regeling als bedoeld in het eerste lid kan aanvullende voorschriften bevatten.
+
+#### § 2. Bijzondere bepalingen
+
+##### Artikel 3
+
+Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen van een binnenwater gebruik wordt gemaakt van een vaartuig, zijn ten aanzien van dit vervoer uitsluitend van toepassing de bij of krachtens dit besluit met betrekking tot het vervoer van gevaarlijke stoffen over land gegeven voorschriften.
+
+##### Artikel 4
+
+1. Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) is toegestaan met alle vervoermiddelen, voor zover het betreft handelingen:
+
+- a. door ambtenaren, bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=34) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=44), voor zover verricht in de uitoefening van hun bij of krachtens de wet opgedragen taak met de desbetreffende gevaarlijke stoffen;
+
+- b. met ontplofbare stoffen en voorwerpen door ambtenaren die als zodanig bevoegd zijn tot het dragen van wapens, voor zover die ontplofbare stoffen en voorwerpen behoren tot hun uitrusting;
+
+- c. door ambtenaren van onder Onze Minister van Defensie ressorterende opruimingsdiensten van explosieven ten behoeve van het ruimen van ontplofbare stoffen en voorwerpen;
+
+- d. door personen die ingevolge de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) bevoegd zijn munitie voorhanden te hebben, met ten hoogste 2 000 stuks munitie of onderdelen van munitie voor geweren, revolvers en pistolen met een kaliber van ten hoogste 19,1 mm, onderscheidenlijk met ten hoogste 2 000 lege hulzen voorzien van een ontstekingsmiddel en ten hoogste één kilogram voor vulling van deze hulzen bestemd zwart of rookzwak buskruit;
+
+- e. met munitie behorend bij toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten, voor zover gebruikt ten behoeve van beroep of onderneming, in een hoeveelheid van ten hoogste 10 000 stuks munitie onderscheidenlijk drie kilogram ontplofbare stof;
+
+- f. door landbouwondernemers of hun personeel voor het vervoer van bestrijdingsmiddelen, voor zover daarover krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2002-03-01&g=2002-03-01) voorschriften zijn gegeven, tussen hun landbouwbedrijf en daarbij behorende landbouwgronden via de redelijkerwijs kortste of snelste route;
+
+- g. anders dan ten behoeve van beroep of onderneming, met gevaarlijke stoffen die geschikt en bestemd zijn voor eigen huishoudelijk gebruik, in hoeveelheden die daarmee redelijkerwijs in overeenstemming zijn; of
+
+- h. met verpakt of onverpakt consumentenvuurwerk als bedoeld in het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360), voor eigen gebruik, in een hoeveelheid van ten hoogste 10 kilogram per vervoermiddel.
+
+2. Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), is toegestaan, voor zover het betreft handelingen met:
+
+- a. munitie voor noodsignaalmiddelen als bedoeld in artikel 8 van het Besluit wapens en munitie; of
+
+- b. reddingmiddelen en voorzieningen als bedoeld in [bijlage XIA van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA);
+
+aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
+
+3. Bij ministeriële regeling kunnen gevaarlijke stoffen worden aangewezen ten aanzien waarvan handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), zijn toegestaan onder bij die regeling gegeven voorschriften en beperkingen, indien:
+
+- a. de gevaarzetting van die handelingen beperkt is; en
+
+- b. die voorschriften en beperkingen uitsluitend betreffen:
+
+- 1°. aangelegenheden als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2),
+
+- 2°. het vervoermiddel,
+
+- 3°. de vervoerde stoffen,
+
+- 4°. de bij het vervoer betrokken personen,
+
+- 5°. de wijze van vervoeren,
+
+- 6°. de verpakkingen, of
+
+- 7°. de melding voorafgaande aan het verrichten van een handeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&paragraaf=1&artikel=2&z=2002-03-01&g=2002-03-01).
+
+4. De in het eerste, tweede en derde lid bedoelde handelingen zijn uitsluitend toegestaan, indien op een wijze die in overeenstemming is met de gevaarzetting van de desbetreffende gevaarlijke stof:
+
+- a. de stof deugdelijk is verpakt of bewaard, en
+
+- b. de handelingen met de vereiste behoedzaamheid geschieden.
+
+5. Voor een deugdelijke verpakking of bewaring als bedoeld in het vierde lid wordt mede in aanmerking genomen of de verpakking en de sluiting:
+
+- a. behoorlijk zijn afgesloten en ongewild verlies van de inhoud tegengaan, behoudens, indien nodig, de aanwezigheid van ontluchtingsventielen of andersoortige veiligheidsvoorzieningen;
+
+- b. geschikt zijn voor de desbetreffende stof en vervaardigd van materiaal dat niet door de stof kan worden aangetast, noch hiermee een gevaarlijke reactie kan aangaan of een gevaarlijke verbinding kan vormen;
+
+- c. niet kunnen losraken; en
+
+- d. voldoende sterk en bestand zijn tegen normale behandeling en normale vervoersomstandigheden.
+
+##### Artikel 5
+
+1. Bij ministeriële regeling worden gevaarlijke stoffen aangewezen als gevaarlijke stoffen, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=12):
+
+- a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;
+
+- b. in nader te bepalen hoeveelheden.
+
+2. Tot de stoffen, bedoeld in het eerste lid, worden in ieder geval gerekend de gevaarlijke stoffen, bedoeld in [artikel 1, eerste lid, onderdeel **b** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=1):
+
+- a. onder 1°;
+
+- b. onder 2°, voor zover deze stoffen in het ADR als giftig worden aangemerkt;
+
+- c. onder 3°, 5°, 6°, 7°, 9° en 11°, voor zover deze stoffen in het ADR als zeer gevaarlijk worden aangemerkt.
+
+3. Bij ministeriële regeling kunnen voor het vervoer over de binnenwateren of over de spoorwegen gevaarlijke stoffen, in nader te bepalen gevallen, worden aangewezen als gevaarlijke stoffen, bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=12):
+
+- a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;
+
+- b. in nader te bepalen hoeveelheden.Het tweede lid is van overeenkomstige toepassing, met dien verstande dat voor ADR gelezen wordt: ADNR onderscheidenlijk RID.
+
+#### § 3. Overgangs- en slotbepalingen
+
+##### Artikel 6
+
+Vervallen
+
+##### Artikel 7
+
+1. Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen die zijn vastgesteld krachtens het Reglement Gevaarlijke Stoffen op dit besluit.
+
+2. Voor zover ministeriële regelingen als bedoeld in het eerste lid betrekking hebben op onderwerpen die tevens bij of krachtens de wet zijn geregeld, blijven deze buiten toepassing.
+
+##### Artikel 8
+
+Wijzigt het Algemeen Reglement Vervoer
+
+##### Artikel 9
+
+Wijzigt het Besluit verpakking en etikettering diergeneesCaret middelen
+
+##### Artikel 10
+
+De [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), met uitzondering van [artikel 57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=57), en dit besluit treden in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+
+##### Artikel 11
+
+Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
