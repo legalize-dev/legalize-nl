@@ -101,15 +101,3 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-Deze regeling berust op [artikel 3a van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) en [artikel 21 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7b
-
-Deze regeling berust op [artikel 26, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=26).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
