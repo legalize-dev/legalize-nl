@@ -74,19 +74,3 @@ Deze beschikking treedt in werking met ingang van 1 april 1980.
 Deze regeling wordt aangehaald als:
 
 Regeling tarieven Kamer voor de Binnenvisserij.
-
-#### Paragraaf 1. Tarieven Kamer voor de Binnenvisserij
-
-#### Paragraaf 2. Geldsom visakten
-
-##### Artikel 4a
-
-- 1. De geldsom voor de verkrijging van de grote visakte bedraagt voor 2005: € 47,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 45,37 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,13.
-
-- 2. De geldsom voor de verkrijging van de sportvisakte bedraagt voor 2005: € 9,50. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ad € 7,47 en een bijdrage verband houdende met de kosten van uitgifte van de akten ad € 2,03.
-
-#### Paragraaf 3. Slotbepalingen
-
-##### Artikel 4b
-
-Deze regeling berust op [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=10), en [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).
