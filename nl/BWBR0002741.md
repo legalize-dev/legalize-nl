@@ -4,7 +4,7 @@ identifier: "BWBR0002741"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "1990-05-01"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002741"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden g
 
 - c. een model voor een dagboek voor zeevissers- en kustvissersschepen.
 
-2. In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van het Hoofd van de Scheepvaartinspectie niet te veel verandert.
+2. In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat niet te veel verandert.
 
 ##### Artikel 4
 
@@ -76,7 +76,7 @@ De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermel
 
 ##### Artikel 6
 
-Het dagboek voor zeevissers- en kustvissersschepen mag worden gecombineerd met het radiotelefonie-dagboek als bedoeld in [artikel 161, vijfde lid, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=161), waarbij het bepaalde in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002741&artikel=3&z=1990-05-01&g=1990-05-01), van overeenkomstige toepassing is.
+Het dagboek voor zeevissers- en kustvissersschepen mag worden gecombineerd met het radiotelefonie-dagboek als bedoeld in [artikel 161, vijfde lid, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=161), waarbij het bepaalde in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002741&artikel=3&z=2004-11-01&g=2004-11-01), van overeenkomstige toepassing is.
 
 ##### Artikel 7
 
