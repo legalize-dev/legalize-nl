@@ -4,7 +4,7 @@ identifier: "BWBR0016771"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-06-15"
-last_updated: "2003-04-11"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016771"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Paspoortuitvoeringsregeling Buitenland 2001.
 
 ##### Artikel III
 
@@ -58,13 +58,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Handelend in overeenstemming met de Minister van Buitenlandse Zaken, de Minister van Justitie en de Minister van Defensie;
-
-Gelet op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), en [59 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
