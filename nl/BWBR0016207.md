@@ -4,7 +4,7 @@ identifier: "BWBR0016207"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "2003-01-01"
+last_updated: "2003-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016207"
 soort: "wet"
@@ -71,7 +71,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel X
 
