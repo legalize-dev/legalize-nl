@@ -4,7 +4,7 @@ identifier: "BWBR0006000"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2003-08-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006000"
 soort: "wet"
@@ -78,7 +78,7 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 2. Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.
 
-3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2003-08-01&g=2003-08-01) is hier niet van toepassing.
+3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2003-09-01&g=2003-09-01) is hier niet van toepassing.
 
 ##### Artikel 1576d
 
@@ -118,7 +118,7 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576i
 
-1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2003-08-01&g=2003-08-01).
+1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2003-09-01&g=2003-09-01).
 
 2. Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.
 
@@ -130,9 +130,9 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576j
 
-1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2003-08-01&g=2003-08-01), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2003-08-01&g=2003-08-01), en de bedingen betreffende voorbehoud en overgang van eigendom.
+1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2003-09-01&g=2003-09-01), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2003-09-01&g=2003-09-01), en de bedingen betreffende voorbehoud en overgang van eigendom.
 
-2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2003-08-01&g=2003-08-01), treden de overeenkomstige gegevens hiervoor in de plaats.
+2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2003-09-01&g=2003-09-01), treden de overeenkomstige gegevens hiervoor in de plaats.
 
 3. Ontbreekt eene akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan den kooper overgaat.
 
@@ -194,7 +194,7 @@ Indien bij ontbinding der overeenkomst de kooper recht mocht hebben op eenige te
 
 3. Bij herhaling van het in het eerste lid genoemde geval heeft de kooper het recht van inlossing alleen onder volledige betaling.
 
-4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2003-08-01&g=2003-08-01) aanleiding zouden geven.
+4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2003-09-01&g=2003-09-01) aanleiding zouden geven.
 
 5. Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.
 
@@ -426,7 +426,7 @@ Vervallen
 
 2. Onder bedrijfsruimte wordt verstaan een gebouwde onroerende zaak of een gedeelte daarvan, die krachtens overeenkomst van huur en verhuur is bestemd voor de uitoefening van een kleinhandelsbedrijf, van een restaurant- of cafébedrijf, van een afhaal- en besteldienst, of van een ambachtsbedrijf, een en ander indien in de verhuurde ruimte een voor het publiek toegankelijk lokaal voor rechtstreekse levering van roerende zaken of voor dienstverlening aanwezig is, dan wel krachtens zulk een overeenkomst is bestemd voor de uitoefening van een hotelbedrijf. Tot de bedrijfsruimte wordt ook gerekend de bij het een en ander behorende grond en de onzelfstandige woning. Als bedrijfsruimte wordt voorts aangemerkt een onroerende zaak die krachtens overeenkomst van huur en verhuur is bestemd voor uitoefening van een kampeerbedrijf. Bij algemene maatregel van bestuur kan het begrip kampeerbedrijf nader worden bepaald.
 
-3. De [artikelen 1606-1610](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1606&z=2003-08-01&g=2003-08-01), [1614-1616](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1614&z=2003-08-01&g=2003-08-01) en [1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Derde&artikel=1623&z=2003-08-01&g=2003-08-01) zijn niet van toepassing. [Artikel 1612](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1612&z=2003-08-01&g=2003-08-01) is niet van toepassing voor zover het de verhuurder toestaat te bedingen dat de huur wordt verbroken door verkoop van het verhuurde.
+3. De [artikelen 1606-1610](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1606&z=2003-09-01&g=2003-09-01), [1614-1616](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1614&z=2003-09-01&g=2003-09-01) en [1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Derde&artikel=1623&z=2003-09-01&g=2003-09-01) zijn niet van toepassing. [Artikel 1612](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1612&z=2003-09-01&g=2003-09-01) is niet van toepassing voor zover het de verhuurder toestaat te bedingen dat de huur wordt verbroken door verkoop van het verhuurde.
 
 ##### Artikel 1625
 
@@ -436,9 +436,9 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 1. De huurovereenkomst welke voor vijf jaar geldt, wordt na ommekomst van deze duur van rechtswege met vijf jaar verlengd. De overeenkomst die voor een langere termijn dan vijf jaar is aangegaan, wordt na ommekomst van die termijn van rechtswege verlengd met een tweede termijn die zoveel korter is dan vijf jaar als de eerste termijn langer is dan vijf jaar. Op de overeenkomst die voor tien jaar of langer is aangegaan, is dit artikel niet van toepassing.
 
-2. De in het vorige lid bedoelde verlenging van rechtswege vindt niet plaats als de overeenkomst met inachtneming van het in [artikel 1627, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-08-01&g=2003-08-01), bepaalde is opgezegd. Zij vindt evenwel ook na zodanige opzegging plaats, indien de vordering bedoeld in [artikel 1627**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-08-01&g=2003-08-01), wordt afgewezen.
+2. De in het vorige lid bedoelde verlenging van rechtswege vindt niet plaats als de overeenkomst met inachtneming van het in [artikel 1627, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-09-01&g=2003-09-01), bepaalde is opgezegd. Zij vindt evenwel ook na zodanige opzegging plaats, indien de vordering bedoeld in [artikel 1627**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-09-01&g=2003-09-01), wordt afgewezen.
 
-3. Wanneer tussen de partijen geen overeenstemming bestaat over wijziging van de huurprijs in verband met de verlenging, stelt de kantonrechter op vordering van de meest gerede partij de huurprijs nader vast, indien deze niet overeenstemt met die van vergelijkbare bedrijfsruimte ter plaatse. Bij de nadere vaststelling van de huurprijs let de rechter op het gemiddelde van de huurprijzen van vergelijkbare bedrijfsruimte ter plaatse welke zich hebben voorgedaan in een tijdvak van vijf jaren voorafgaande aan de dag van het instellen van de vordering. Iedere aldus in de vergelijking te betrekken huurprijs wordt herleid volgens de algemene ontwikkeling van het prijspeil sinds de dag waarop die huurprijs gold tot aan die van het instellen van de vordering. De rechter zal een vordering tot verhoging van de huurprijs evenwel afwijzen voor zover deze is gegrond op verbeteringen van het gehuurde, die door de huurder zijn aangebracht. De vordering kan worden ingesteld tot uiterlijk drie maanden na de verlenging, dan wel na het onherroepelijk worden van de beslissing tot afwijzing van de vordering bedoeld in [artikel 1627**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-08-01&g=2003-08-01), indien dat op een latere dag plaatsvindt.
+3. Wanneer tussen de partijen geen overeenstemming bestaat over wijziging van de huurprijs in verband met de verlenging, stelt de kantonrechter op vordering van de meest gerede partij de huurprijs nader vast, indien deze niet overeenstemt met die van vergelijkbare bedrijfsruimte ter plaatse. Bij de nadere vaststelling van de huurprijs let de rechter op het gemiddelde van de huurprijzen van vergelijkbare bedrijfsruimte ter plaatse welke zich hebben voorgedaan in een tijdvak van vijf jaren voorafgaande aan de dag van het instellen van de vordering. Iedere aldus in de vergelijking te betrekken huurprijs wordt herleid volgens de algemene ontwikkeling van het prijspeil sinds de dag waarop die huurprijs gold tot aan die van het instellen van de vordering. De rechter zal een vordering tot verhoging van de huurprijs evenwel afwijzen voor zover deze is gegrond op verbeteringen van het gehuurde, die door de huurder zijn aangebracht. De vordering kan worden ingesteld tot uiterlijk drie maanden na de verlenging, dan wel na het onherroepelijk worden van de beslissing tot afwijzing van de vordering bedoeld in [artikel 1627**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-09-01&g=2003-09-01), indien dat op een latere dag plaatsvindt.
 
 ##### Artikel 1627
 
@@ -448,11 +448,11 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 - a. de opzegging niet de gronden vermeldt die tot de opzegging hebben geleid;
 
-- b. de opzegging geschiedt op de grond vermeld in [artikel 1628, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628&z=2003-08-01&g=2003-08-01), door een verhuurder die rechtsopvolger van een vorige verhuurder is en niet is de echtgenoot, de geregistreerde partner, bloed- of aanverwant in de eerste graad of een pleegkind van die vorige verhuurder, binnen drie jaren nadat de rechtsopvolging schriftelijk ter kennis van de huurder is gebracht;
+- b. de opzegging geschiedt op de grond vermeld in [artikel 1628, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628&z=2003-09-01&g=2003-09-01), door een verhuurder die rechtsopvolger van een vorige verhuurder is en niet is de echtgenoot, de geregistreerde partner, bloed- of aanverwant in de eerste graad of een pleegkind van die vorige verhuurder, binnen drie jaren nadat de rechtsopvolging schriftelijk ter kennis van de huurder is gebracht;
 
 - c. bij de opzegging niet aan de huurder wordt gevraagd om binnen zes weken schriftelijk aan de verhuurder mede te delen of hij al dan niet toestemt in de beëindiging van de overeenkomst.
 
-3. Ieder der partijen kan reeds in de procedure tot beëindiging van de overeenkomst de nadere vaststelling van de huurprijs, als bedoeld in het derde lid van het vorige artikel, vorderen voor het geval de vordering bedoeld in [artikel 1627a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-08-01&g=2003-08-01), mocht worden afgewezen.
+3. Ieder der partijen kan reeds in de procedure tot beëindiging van de overeenkomst de nadere vaststelling van de huurprijs, als bedoeld in het derde lid van het vorige artikel, vorderen voor het geval de vordering bedoeld in [artikel 1627a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-09-01&g=2003-09-01), mocht worden afgewezen.
 
 4. De overeenkomst loopt, indien haar geldigheidsduur tijdens de procedure verstrijkt, in elk geval voort tot het tijdstip waarop onherroepelijk op de vordering is beslist. Indien de rechter de vordering toewijst, stelt hij tevens het tijdstip van de ontruiming vast. Het vonnis levert een voor tenuitvoerlegging vatbare titel op. Indien de rechter de vordering afwijst, wordt de termijn van de verlenging geacht te zijn ingegaan bij het verstrijken van de geldigheidsduur van de overeenkomst.
 
@@ -468,7 +468,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 1. De rechter kan de vordering slechts toewijzen, indien:
 
-- a. de verhuurder aannemelijk maakt dat hij of zijn echtgenoot, de geregistreerde partner, een bloed- of aanverwant in de eerste graad of een pleegkind als bedoeld in [artikel 1627, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-08-01&g=2003-08-01), het verhuurde persoonlijk in duurzaam gebruik wil nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01) en hij het verhuurde daartoe dringend nodig heeft; onder gebruik wordt vervreemding van de zaak niet begrepen;
+- a. de verhuurder aannemelijk maakt dat hij of zijn echtgenoot, de geregistreerde partner, een bloed- of aanverwant in de eerste graad of een pleegkind als bedoeld in [artikel 1627, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-09-01&g=2003-09-01), het verhuurde persoonlijk in duurzaam gebruik wil nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01) en hij het verhuurde daartoe dringend nodig heeft; onder gebruik wordt vervreemding van de zaak niet begrepen;
 
 - b. de bedrijfsvoering van de huurder niet is geweest zoals een goed huurder betaamt.
 
@@ -476,7 +476,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 ##### Artikel 1628a
 
-1. In geval van toewijzing van de vordering op de grond vermeld in [artikel 1628, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628&z=2003-08-01&g=2003-08-01), is de verhuurder jegens de huurder tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01), in werkelijkheid niet aanwezig is geweest. De verhuurder is eveneens jegens de huurder tot schadevergoeding gehouden, wanneer hij de overeenkomst heeft opgezegd op de grond, genoemd in het eerste lid van het vorige artikel onder **a**, en de huurder in de beëindiging van de overeenkomst heeft toegestemd, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01) in werkelijkheid niet aanwezig is geweest.
+1. In geval van toewijzing van de vordering op de grond vermeld in [artikel 1628, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628&z=2003-09-01&g=2003-09-01), is de verhuurder jegens de huurder tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01), in werkelijkheid niet aanwezig is geweest. De verhuurder is eveneens jegens de huurder tot schadevergoeding gehouden, wanneer hij de overeenkomst heeft opgezegd op de grond, genoemd in het eerste lid van het vorige artikel onder **a**, en de huurder in de beëindiging van de overeenkomst heeft toegestemd, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01) in werkelijkheid niet aanwezig is geweest.
 
 2. Behoudens tegenbewijs wordt die wil geacht niet aanwezig te zijn geweest, indien niet binnen één jaar na het einde van de huurovereenkomst het verhuurde door een persoon genoemd in het eerste lid van het vorige artikel onder **a** in duurzaam gebruik is genomen.
 
@@ -486,7 +486,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 ##### Artikel 1629
 
-1. Behoudens het bepaalde in dit en het volgende artikel, zijn de [artikelen 1625-1628**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-08-01&g=2003-08-01) van toepassing, al mocht ook door partijen anders zijn overeengekomen.
+1. Behoudens het bepaalde in dit en het volgende artikel, zijn de [artikelen 1625-1628**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-09-01&g=2003-09-01) van toepassing, al mocht ook door partijen anders zijn overeengekomen.
 
 2. Afwijkende bedingen in de huurovereenkomst, of in een overeenkomst tot wijziging van de huurovereenkomst, zijn slechts van kracht indien zij door de kantonrechter zijn goedgekeurd. Ieder der partijen kan de beslissing van de rechter verzoeken. Het verzoekschrift bevat de tekst van de goed te keuren bedingen alsmede een beknopte vermelding van de bijzondere omstandigheden die de goedkeuring wenselijk maken. De rechter verleent zijn goedkeuring alleen op grond van de bijzondere omstandigheden van het geval.
 
@@ -496,17 +496,17 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 ##### Artikel 1630
 
-1. Zonder goedkeuring van de rechter is geldig de overeenkomst voor een duur van twee jaar of korter. De [artikelen 1625-1629](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-08-01&g=2003-08-01) zijn op die overeenkomst niet van toepassing.
+1. Zonder goedkeuring van de rechter is geldig de overeenkomst voor een duur van twee jaar of korter. De [artikelen 1625-1629](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-09-01&g=2003-09-01) zijn op die overeenkomst niet van toepassing.
 
-2. Indien het genot aangevangen krachtens een overeenkomst als bedoeld in het eerste lid, langer dan twee jaar heeft geduurd, geldt van rechtswege een overeenkomst op de tussen partijen laatstelijk geldende voorwaarden, doch voor vijf jaar, waarop de reeds verstreken twee jaar in mindering komen. Op deze overeenkomst zijn de [artikelen 1625-1629](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-08-01&g=2003-08-01) van toepassing.
+2. Indien het genot aangevangen krachtens een overeenkomst als bedoeld in het eerste lid, langer dan twee jaar heeft geduurd, geldt van rechtswege een overeenkomst op de tussen partijen laatstelijk geldende voorwaarden, doch voor vijf jaar, waarop de reeds verstreken twee jaar in mindering komen. Op deze overeenkomst zijn de [artikelen 1625-1629](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-09-01&g=2003-09-01) van toepassing.
 
-3. Het in het tweede lid omschreven rechtsgevolg treedt niet in, indien partijen vóór het verstrijken van de termijn van twee jaar een andere overeenkomst sluiten, vallende onder [artikel 1625](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-08-01&g=2003-08-01), dan wel een daarvan afwijkende overeenkomst, mits de in [artikel 1629, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1629&z=2003-08-01&g=2003-08-01), bedoelde goedkeuring is verzocht vóór het verstrijken van de termijn van twee jaren. Indien de rechter afwijzend op het verzoek tot goedkeuring beslist, stelt hij tevens het tijdstip van de ontruiming vast. De beschikking levert een voor tenuitvoerlegging vatbare titel op.
+3. Het in het tweede lid omschreven rechtsgevolg treedt niet in, indien partijen vóór het verstrijken van de termijn van twee jaar een andere overeenkomst sluiten, vallende onder [artikel 1625](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-09-01&g=2003-09-01), dan wel een daarvan afwijkende overeenkomst, mits de in [artikel 1629, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1629&z=2003-09-01&g=2003-09-01), bedoelde goedkeuring is verzocht vóór het verstrijken van de termijn van twee jaren. Indien de rechter afwijzend op het verzoek tot goedkeuring beslist, stelt hij tevens het tijdstip van de ontruiming vast. De beschikking levert een voor tenuitvoerlegging vatbare titel op.
 
 4. Indien het intreden van het in het tweede lid omschreven rechtsgevolg daartoe aanleiding geeft, kan de huurprijs nader worden vastgesteld. Bij gebreke van overeenstemming geschiedt deze vaststelling door de kantonrechter op vordering van de meest gerede partij. Hij zal een vordering tot verhoging van de huurprijs evenwel afwijzen voor zover het is gegrond op verbeteringen van het gehuurde, die door de huurder zijn aangebracht. De vordering moet worden ingesteld uiterlijk drie maanden na het verstrijken van de termijn van twee jaar.
 
 ##### Artikel 1631
 
-1. De overeenkomst waarvan de oorspronkelijke ingevolge [artikel 1625](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-08-01&g=2003-08-01) geldende duur krachtens [artikel 1626](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1626&z=2003-08-01&g=2003-08-01) is verlengd, houdt niet van rechtswege op wanneer de termijn van de verlenging is verstreken. Zij kan door ieder der partijen tegen het einde van die termijn worden opgezegd. De opzegging kan slechts bij deurwaardersexploit of bij aangetekende brief geschieden. De termijn van opzegging bedraagt ten minste een jaar. Een opzegging die is gedaan op kortere termijn, geldt niettemin als ware zij gedaan met inachtneming van de voorgeschreven termijn.
+1. De overeenkomst waarvan de oorspronkelijke ingevolge [artikel 1625](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1625&z=2003-09-01&g=2003-09-01) geldende duur krachtens [artikel 1626](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1626&z=2003-09-01&g=2003-09-01) is verlengd, houdt niet van rechtswege op wanneer de termijn van de verlenging is verstreken. Zij kan door ieder der partijen tegen het einde van die termijn worden opgezegd. De opzegging kan slechts bij deurwaardersexploit of bij aangetekende brief geschieden. De termijn van opzegging bedraagt ten minste een jaar. Een opzegging die is gedaan op kortere termijn, geldt niettemin als ware zij gedaan met inachtneming van de voorgeschreven termijn.
 
 2. Een opzegging door de verhuurder is nietig, indien:
 
@@ -518,7 +518,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 - d. bij de opzegging niet aan de huurder wordt gevraagd om binnen zes weken schriftelijk aan de verhuurder mede te delen of hij al dan niet toestemt in de beëindiging van de overeenkomst.
 
-3. [Artikel 1627**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-08-01&g=2003-08-01) is van overeenkomstige toepassing. De rechter kan evenwel, indien het verweer van de huurder hem kennelijk ongegrond voorkomt, bepalen dat de overeenkomst in afwijking van het bepaalde in het eerste lid van dat artikel niet verder van kracht blijft en zijn toewijzend vonnis uitvoerbaar bij voorraad verklaren.
+3. [Artikel 1627**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627a&z=2003-09-01&g=2003-09-01) is van overeenkomstige toepassing. De rechter kan evenwel, indien het verweer van de huurder hem kennelijk ongegrond voorkomt, bepalen dat de overeenkomst in afwijking van het bepaalde in het eerste lid van dat artikel niet verder van kracht blijft en zijn toewijzend vonnis uitvoerbaar bij voorraad verklaren.
 
 4. Elk met de bepalingen van dit artikel strijdig beding is nietig.
 
@@ -530,7 +530,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 - 1°. indien de bedrijfsvoering van de huurder niet is geweest zoals een goed huurder betaamt;
 
-- 2°. indien de verhuurder aannemelijk maakt dat hij of zijn echtgenoot, de geregistreerde partner, een bloed- of aanverwant in de eerste graad of een pleegkind als bedoeld in [artikel 1627, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-08-01&g=2003-08-01), het verhuurde persoonlijk in duurzaam gebruik wil nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01) en hij het verhuurde daartoe dringend nodig heeft; onder gebruik wordt vervreemding van de zaak niet begrepen;
+- 2°. indien de verhuurder aannemelijk maakt dat hij of zijn echtgenoot, de geregistreerde partner, een bloed- of aanverwant in de eerste graad of een pleegkind als bedoeld in [artikel 1627, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1627&z=2003-09-01&g=2003-09-01), het verhuurde persoonlijk in duurzaam gebruik wil nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01) en hij het verhuurde daartoe dringend nodig heeft; onder gebruik wordt vervreemding van de zaak niet begrepen;
 
 - 3°. indien de verhuurder een krachtens een geldend bestemmingsplan op het verhuurde liggende bestemming wil verwezenlijken;
 
@@ -538,7 +538,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 3. Ingeval de verhuurder de overeenkomst heeft opgezegd op de grond dat één of meer der in het vorige lid, onder 2°, genoemde personen het gehuurde in gebruik willen nemen, kan de rechter in zijn beslissing tot toewijzing van de vordering op de grond vermeld in het eerste lid of in het vorige lid, onder 2°, een bedrag vaststellen dat de verhuurder aan de huurder moet betalen ter tegemoetkoming in diens verhuis- en inrichtingskosten. Alvorens een beslissing te geven waarin een bedrag als in de vorige zin bedoeld wordt vastgesteld, brengt de rechter zijn voornemen ter kennis van partijen en stelt hij een termijn binnen welke de verhuurder de bevoegdheid heeft de opzegging in te trekken. Indien de verhuurder van die bevoegdheid gebruik maakt, zal de rechter alleen een beslissing geven omtrent de proceskosten.
 
-4. In geval van toewijzing van de vordering op de grond vermeld in het tweede lid, onder 2°, is de verhuurder jegens de huurder tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01) in werkelijkheid niet aanwezig is geweest. De verhuurder is eveneens jegens de huurder tot schadevergoeding gehouden, wanneer hij de overeenkomst heeft opgezegd op de grond genoemd in het tweede lid, onder 2°, en de huurder in de beëindiging van de overeenkomst heeft toegestemd, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01) in werkelijkheid niet aanwezig is geweest. Indien de overeenkomst is opgezegd op de grond dat de in het tweede lid, onder 2°, genoemde personen het verhuurde persoonlijk in duurzaam gebruik willen nemen en de vordering is toegewezen op grond van het eerste lid, is de verhuurder tot schadevergoeding jegens de huurder gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen in werkelijkheid niet aanwezig is geweest. Het [tweede, derde en vierde lid van artikel 1628**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628a&z=2003-08-01&g=2003-08-01) zijn van overeenkomstige toepassing.
+4. In geval van toewijzing van de vordering op de grond vermeld in het tweede lid, onder 2°, is de verhuurder jegens de huurder tot schadevergoeding gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01) in werkelijkheid niet aanwezig is geweest. De verhuurder is eveneens jegens de huurder tot schadevergoeding gehouden, wanneer hij de overeenkomst heeft opgezegd op de grond genoemd in het tweede lid, onder 2°, en de huurder in de beëindiging van de overeenkomst heeft toegestemd, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen als bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01) in werkelijkheid niet aanwezig is geweest. Indien de overeenkomst is opgezegd op de grond dat de in het tweede lid, onder 2°, genoemde personen het verhuurde persoonlijk in duurzaam gebruik willen nemen en de vordering is toegewezen op grond van het eerste lid, is de verhuurder tot schadevergoeding jegens de huurder gehouden, indien de wil om het verhuurde persoonlijk in duurzaam gebruik te nemen in werkelijkheid niet aanwezig is geweest. Het [tweede, derde en vierde lid van artikel 1628**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1628a&z=2003-09-01&g=2003-09-01) zijn van overeenkomstige toepassing.
 
 5. In het geval bedoeld in het tweede lid, onder 4°, staat de rechter, alvorens over de vordering te beslissen, de huurder een termijn van ten hoogste een maand toe om alsnog het aanbod te aanvaarden.
 
@@ -552,13 +552,13 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 1. Indien de rechter de overeenkomst verlengd heeft, kan de verhuurder, tenzij de termijn van verlenging niet meer dan een jaar bedraagt, na opzegging van de overeenkomst wederom vorderen dat de rechter het tijdstip zal vaststellen waarop de overeenkomst zal eindigen. Deze vordering kan niet eerder dan zes maanden voor het einde van de termijn van verlenging worden ingesteld.
 
-2. De [artikelen 1631](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-08-01&g=2003-08-01) en [1631**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-08-01&g=2003-08-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 1631](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-09-01&g=2003-09-01) en [1631**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-09-01&g=2003-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 1631c
 
-1. Vindt geen opzegging krachtens het [eerste lid van artikel 1631](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-08-01&g=2003-08-01) plaats, dan loopt de overeenkomst voor onbepaalde tijd door, tenzij uit de overeenkomst een bepaalde tijd voortvloeit of partijen een bepaalde tijd overeenkomen.
+1. Vindt geen opzegging krachtens het [eerste lid van artikel 1631](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-09-01&g=2003-09-01) plaats, dan loopt de overeenkomst voor onbepaalde tijd door, tenzij uit de overeenkomst een bepaalde tijd voortvloeit of partijen een bepaalde tijd overeenkomen.
 
-2. [Artikel 1631**a**, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-08-01&g=2003-08-01), is van overeenkomstige toepassing.
+2. [Artikel 1631**a**, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-09-01&g=2003-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 1631d
 
@@ -566,7 +566,7 @@ De huurovereenkomst geldt voor vijf jaar of, als een langere bepaalde duur is ov
 
 2. De in het vorige artikel bedoelde overeenkomst voor bepaalde tijd en de overeenkomst die voor een bepaalde tijd van tien jaar of langer is aangegaan, houden niet van rechtswege op wanneer de bepaalde tijd is verstreken. Zij kunnen door ieder der partijen tegen het einde van de bepaalde tijd worden opgezegd. De opzegging moet geschieden bij deurwaardersexploit of bij aangetekende brief. De termijn van opzegging bedraagt ten minste een jaar. Een opzegging die is gedaan op kortere termijn, geldt niettemin als ware zij gedaan met inachtneming van de voorgeschreven termijn.
 
-3. De [artikelen 1631, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-08-01&g=2003-08-01), [1631a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-08-01&g=2003-08-01), [1631b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631b&z=2003-08-01&g=2003-08-01) en [1631c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631c&z=2003-08-01&g=2003-08-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 1631, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631&z=2003-09-01&g=2003-09-01), [1631a](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631a&z=2003-09-01&g=2003-09-01), [1631b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631b&z=2003-09-01&g=2003-09-01) en [1631c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1631c&z=2003-09-01&g=2003-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 1632
 
@@ -634,7 +634,7 @@ Indien de rechter ingevolge [artikel 299 van Boek 3](https://wetten.overheid.nl/
 
 4. Werken tot verwezenlijking van een bestemmingsplan strekkende tot reconstructie van een bebouwde kom, worden in elk geval geacht in het algemeen belang te zijn.
 
-5. Dit artikel is, behalve op bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-08-01&g=2003-08-01), ook van toepassing op een andere gebouwde onroerende zaak die voor de uitoefening van een bedrijf is verhuurd.
+5. Dit artikel is, behalve op bedrijfsruimte in de zin van [artikel 1624](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Vijfde&artikel=1624&z=2003-09-01&g=2003-09-01), ook van toepassing op een andere gebouwde onroerende zaak die voor de uitoefening van een bedrijf is verhuurd.
 
 ##### Artikel 1636b
 
@@ -1056,55 +1056,51 @@ Vervallen
 
 ##### Artikel 1639
 
-De aanneming van werk is de overeenkomst waarbij de ene partij, de aannemer, zich verbindt voor de andere partij, de aanbesteder, tegen een bepaalde prijs een bepaald werk van stoffelijke aard tot stand te brengen.
+Vervallen
 
 ##### Artikel 1640
 
-Bij aanneming van werk kan men overeenkomen dat de aannemer alleen arbeid verrigten, of wel dat hij ook de stof leveren zal.
+Vervallen
 
 ##### Artikel 1641
 
-Ingeval de aannemer de stof moet leveren, en het werk, op welke wijze ook, vergaat, alvorens het geleverd is, komt het verlies voor zijne rekening, ten ware de aanbesteder nalatig zij geweest om het werk te ontvangen.
+Vervallen
 
 ##### Artikel 1642
 
-Indien de aannemer alleen arbeid moet verrigten, en het werk vergaat, is hij slechts voor zijne schuld aansprakelijk.
+Vervallen
 
 ##### Artikel 1643
 
-Indien het werk, in het geval bij het voorgaande artikel vermeld, buiten eenig pligtverzuim van den aannemer is verloren gegaan, voordat de levering geschied is, en zonder dat de aanbesteder nalatig is geweest om het werk op te nemen en goed te keuren, heeft de aannemer geene aanspraak op den bedongen prijs, ten ware de zaak door een gebrek in de stof zelve verloren ware gegaan.
+Vervallen
 
 ##### Artikel 1644
 
-Indien een werk bij het stuk of bij de maat bearbeid wordt, kan hetzelve bij gedeelten worden opgenomen; die opneming wordt geacht geschied te zijn voor alle de betaalde gedeelten, wanneer de aanbesteder den aannemer telkens betaalt naar evenredigheid van hetgeen afgewerkt is.
+Vervallen
 
 ##### Artikel 1645
 
-Indien een gebouw, voor eenen bepaalden prijs aangenomen en afgemaakt, geheel of gedeeltelijk vergaat door een gebrek in de zamenstelling, of zelfs uit hoofde van de ongeschiktheid van den grond, zijn de bouwmeesters en aannemers daarvoor, gedurende tien jaren, aansprakelijk.
+Vervallen
 
 ##### Artikel 1646
 
-Indien een bouwmeester of aannemer op zich genomen heeft om een gebouw bij aanneming te maken, volgens een bestek, met den eigenaar van den grond beraamd en vastgesteld, kan hij geene vermeerdering van den prijs vorderen, noch onder voorwendsel van vermeerdering der arbeidsloonen of bouwstoffen, noch onder dat van gemaakte veranderingen of bijvoegselen die niet in het bestek begrepen zijn, indien die veranderingen of vergrootingen niet schriftelijk zijn ingewilligd, en over derzelver prijs met den eigenaar geene overeenkomst is getroffen.
+Vervallen
 
 ##### Artikel 1647
 
-De aanbesteder kan, des goedvindende, de aanneming opzeggen, ofschoon het werk reeds begonnen zij, mits hij den aannemer, wegens alle deszelfs gemaakte kosten, arbeid en winstderving, volkomen schadeloos stelle.
+Vervallen
 
 ##### Artikel 1648
 
-1. Aanneming van werk houdt op door den dood van den aannemer.
-
-2. Maar de aanbesteder is gehouden aan de erfgenamen van de aannemer, onderscheidenlijk aan diens echtgenoot of geregistreerde partner in het geval zijn nalatenschap overeenkomstig [artikel 13 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=13) wordt verdeeld, naar evenredigheid van den bij de overeenkomst bedongen prijs, te betalen de waarde van het gedane werk en die der in gereedheid gebragte bouwstoffen, mits dat werk of die bouwstoffen hem tot eenig nut kunnen verstrekken.
+Vervallen
 
 ##### Artikel 1650
 
-Metselaars, timmerlieden, smids en andere ambachtslieden, welke tot het zetten van een gebouw of het maken van eenig ander aangenomen werk gebezigd zijn, hebben geene regtsvordering tegen dengenen te wiens behoeve de werken gemaakt zijn, dan ten beloope van hetgene deze aan den aannemer schuldig is op het oogenblik waarop zij hunne regtsvordering aanleggen.
+Vervallen
 
 ##### Artikel 1651
 
-1. Metselaars, timmerlieden, smids en andere ambachtslieden, die zelven onmiddellijk en voor eenen bepaalden prijs een werk op zich nemen, zijn gehouden aan de regelen in deze afdeeling voorgeschreven.
-
-2. Zij zijn aannemers in het vak waarin zij werkzaam zijn.
+Vervallen
 
 ## titel Negende. Van maatschap
 
@@ -1140,7 +1136,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2003-08-01&g=2003-08-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2003-09-01&g=2003-09-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1665
 
@@ -1448,7 +1444,7 @@ Indien men is overeengekomen dat hij die een goed ter leen heeft ontvangen dit z
 
 ##### Artikel 1799
 
-De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2003-08-01&g=2003-08-01) is op verbruikleening toepasselijk.
+De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2003-09-01&g=2003-09-01) is op verbruikleening toepasselijk.
 
 ### afdeeling Derde. Van de verpligtingen des leeners
 
