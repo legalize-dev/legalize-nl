@@ -297,35 +297,3 @@ Formulier voor de melding van ontoereikendheid van havenontvangstvoorzieningen1D
 Wijzigt de Regeling communicatie en loodsaanvragen zeevaart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op de [artikelen 6c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6c).
-
-#### § 2. Aanwijzing richtlijn havenontvangstvoorzieningen
-
-#### § 3. Melding gegevens
-
-#### § 4. Rapportageverplichtingen
-
-#### § 5. Bepaling minimumpercentage kosten die indirect gefinancierd worden
-
-#### § 6. Inspectie van schepen
-
-#### § 7. Tarief kosten voor ontheffing
-
-#### § 8. Aanwijzing havens
-
-#### § 9. Aanwijzing rechtspersoon visserijsector
-
-#### § 10. Klachtenformulier
-
-#### § 11. Wijziging en intrekking van andere regelingen
-
-#### § 12. Invoerings- en slotbepalingen
-
-## Bijlage III
-
-Wijzigt de Regeling communicatie en loodsaanvragen zeevaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
