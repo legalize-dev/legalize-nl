@@ -4,7 +4,7 @@ identifier: "BWBR0010199"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-13"
-last_updated: "1999-01-24"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010199"
 soort: "ministeriele-regeling"
@@ -52,15 +52,11 @@ In dit besluit wordt verstaan onder:
 
 4. De nummers die behoren tot hetzelfde nummerblok hebben dezelfde lengte.
 
-5. De randapparaatnummers en de abonneenummers kunnen door de houders van de nummers als bedoeld in dit besluit zelf worden gekozen met dien verstande dat de totale lengte van de mobiele landencode, de mobiele netwerkcode en het randapparaatnummer of abonneenummer tezamen maximaal uit 15 cijfers kan bestaan.
+5. De randapparaatnummers en de IMSI-abonneenummers kunnen door de houders van de nummers als bedoeld in dit besluit zelf worden gekozen met dien verstande dat de totale lengte van de mobiele landencode, de mobiele netwerkcode en het randapparaatnummer of IMSI-abonneenummer tezamen maximaal uit 15 cijfers kan bestaan.
 
 ##### Artikel 3
 
-1. Indien nummers als bedoeld in dit besluit voor het tijdstip van de inwerkingtreding van dit nummerplan in gebruik waren bij een aanbieder van openbare telecommunicatienetwerken, en indien deze de nummers wenst te behouden, dient deze binnen acht weken na het tijdstip van inwerkingtreding van dit nummerplan een aanvraag in.
-
-2. De aanbieder van openbare telecommunicatienetwerken blijft gerechtigd tot het gebruik van deze nummers totdat op de aanvraag door het college, is beslist, of - indien een aanvraag als bedoeld in het vorige lid met betrekking tot in gebruik zijnde nummers niet tijdig is ingediend - tot acht weken na het tijdstip van inwerkingtreding van dit besluit.
-
-3. Aanvragen worden niet eerder afgehandeld dan acht weken na het tijdstip van inwerkingtreden van dit besluit.
+Vervallen
 
 ##### Artikel 4
 
@@ -72,18 +68,18 @@ Dit besluit wordt aangehaald als: Nummerplan voor identiteitsnummers ten behoeve
 
 Dit besluit met bijbehorende bijlage en toelichting zal in de Staatscourant worden geplaatst.
 
-## Bijlage,. bedoeld in [artikel 2, derde lid, van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)](https://wetten.overheid.nl/jci1.3:c:BWBR0010199&artikel=2&z=1999-01-24&g=1999-01-24)
+## Bijlage,. bedoeld in [artikel 2, derde lid, van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)](https://wetten.overheid.nl/jci1.3:c:BWBR0010199&artikel=2&z=2004-05-19&g=2004-05-19)
 
 | **Beschikbaar voor toekenning of reservering** | **Niet beschikbaar voor toekenning of reservering** |   |   |
 | --- | --- | --- | --- |
 | **Nummerblok** | **Nummerblok** | **Bestemming** | **Lengte van de nummers** |
-| 204 0.. |   | openbare telecommunicatienetwerken | 5 |
-| 204 1.. |   | openbare telecommunicatienetwerken | 5 |
-| 204 2.. |   | openbare telecommunicatienetwerken | 5 |
-| 204 3.. |   | openbare telecommunicatienetwerken | 5 dan wel 6 |
-| 204 4.. |   | openbare telecommunicatienetwerken | 5 dan wel 6 |
-| 204 5.. |   | openbare telecommunicatienetwerken | 5 dan wel 6 |
-| 204 6.. |   | openbare telecommunicatienetwerken | 5 |
-| 204 7.. |   | openbare telecommunicatienetwerken | 5 dan wel 6 |
-| 204 8.. |   | openbare telecommunicatienetwerken | 5 dan wel 6 |
+| 204 0.. |   | openbare elektronische communicatienetwerken | 5 |
+| 204 1.. |   | openbare elektronische communicatienetwerken | 5 |
+| 204 2.. |   | openbare elektronische communicatienetwerken | 5 |
+| 204 3.. |   | openbare elektronische communicatienetwerken | 5 dan wel 6 |
+| 204 4.. |   | openbare elektronische communicatienetwerken | 5 dan wel 6 |
+| 204 5.. |   | openbare elektronische communicatienetwerken | 5 dan wel 6 |
+| 204 6.. |   | openbare elektronische communicatienetwerken | 5 |
+| 204 7.. |   | openbare elektronische communicatienetwerken | 5 dan wel 6 |
+| 204 8.. |   | openbare elektronische communicatienetwerken | 5 dan wel 6 |
 |   | 204 9.. |   |   |
