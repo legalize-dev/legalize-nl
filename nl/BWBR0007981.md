@@ -4,7 +4,7 @@ identifier: "BWBR0007981"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2001-04-01"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007981"
 soort: "wet"
@@ -72,17 +72,17 @@ De beperkte noodtoestand en de algemene noodtoestand eindigen van rechtswege bij
 
 ##### Artikel 5
 
-1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2001-04-01&g=2001-04-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
+1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2002-09-01&g=2002-09-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
 
 2. Door de zorg van Onze Minister van Justitie wordt het besluit, bedoeld in het eerste lid, in ieder geval geplaatst in het **Staatsblad**.
 
-3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2001-04-01&g=2001-04-01), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
+3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2002-09-01&g=2002-09-01), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
 
 4. Het koninklijk besluit, bedoeld in het derde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
 ##### Artikel 6
 
-Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2001-04-01&g=2001-04-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2001-04-01&g=2001-04-01).
+Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2002-09-01&g=2002-09-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2002-09-01&g=2002-09-01).
 
 #### § 2. Inwerkingstelling en buitenwerkingstelling van noodwetgeving gedurende een uitzonderingstoestand
 
@@ -152,9 +152,9 @@ van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
 
-van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075):
+van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
 
-[artikel 74**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=74a);
+[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
 
 van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
 
@@ -306,9 +306,9 @@ van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 [de artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
 
-van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075):
+van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
 
-[artikel 74**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=74a);
+[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
 
 van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
 
