@@ -4,7 +4,7 @@ identifier: "BWBR0010393"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "1999-04-28"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010393"
 soort: "AMvB"
@@ -166,7 +166,7 @@ Uiterlijk vier weken na afloop van de eerste vier respectievelijk acht maanden v
 
 - b. het aanpassen of vervangen van de landelijke geautomatiseerde systemen in beheer bij de Stichting Integraal Rechtshulp-informatie Systeem, alsmede voor het aanpassen of vervangen van de daarbij behorende registratievoorschriften;
 
-- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=1999-04-28&g=1999-04-28).
+- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=1999-04-28&g=2003-01-01).
 
 ##### Artikel 15
 
@@ -198,7 +198,7 @@ Onze Minister kan, na overleg met de raad, de bevoorschotting van de raad verlag
 
 ##### Artikel 20
 
-Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=1999-04-28&g=1999-04-28) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
+Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=1999-04-28&g=2003-01-01) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
 
 ##### Artikel 21
 
@@ -207,5 +207,51 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Subsidiebesluit raden voor rechtsbijstand.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a
+
+Indien de liquiditeitsratio meer dan 0,5 bedraagt wordt het meerdere door Onze Minister betrokken bij de subsidieverlening voor het eerstvolgende kalenderjaar.
+
+##### Artikel 10b
+
+Alvorens een bedrag toe te voegen aan de egalisatiereserve, wordt op een door Onze Minister te bepalen wijze een bedrag toegevoegd aan de vervangingsreserve materiële vaste activa.
+
+### HOOFDSTUK 4. VASTSTELLING VAN DE SUBSIDIE
+
+### HOOFDSTUK 5. SLOTBEPALINGEN
+
+## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2003-09-10&g=2003-01-01)
+
+### **Model accountantsverklaring**
+
+### **Opdracht**
+
+Wij .............. (organisatie en naam noemen) hebben de jaarrekening .............. (jaartal), van de raad voor rechtsbijstand te .............. (plaats) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van de Raad voor rechtsbijstand. De Raad voor rechtsbijstand is tevens primair verantwoordelijk voor de naleving van wet- en regelgeving. Het is onze taak een accountantsverklaring inzake de jaarrekening te verstrekken.
+
+### **Werkzaamheden**
+
+Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
+
+• Dat de jaarrekening getrouw weergeeft zowel de baten als lasten over .............. (jaartal), als de activa en passiva per 31 december .............. (jaartal), en
+
+• Dat de in de jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met van toepassing zijnde wettelijke regelingen.
+
+Tevens hebben we nagegaan of de jaarrekening is opgesteld in overeenstemming met het Subsidiebesluit raden voor rechtsbijstand en het controleprotocol raden voor rechtsbijstand .............. (jaartal).
+
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het controleprotocol raden voor rechtsbijstand .......... (jaartal) van het Ministerie van Justitie. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen, dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving, die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen, die het bevoegd gezag van de instelling heeft gemaakt, alsmede een algehele evaluatie van het beeld van de jaarrekening.
+
+Wij zijn van mening, dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+
+### **Oordeel**
+
+Wij zijn van oordeel dat de jaarrekening .............. (jaartal) van .............. (naam instelling) voldoet aan de hierboven omschreven eisen.
+
+Tevens delen we mede dat het controleprotocol raden voor rechtsbijstand .............. (jaartal) is nageleefd.
+
+### **Overig**
+
+Wij hebben zoals voorgeschreven in het controleprotocol raden voor rechtsbijstand 2002 een separaat rapport aan de Raad voor Rechtsbijstand uitgebracht. Er zijn door ons in dit kader geen bijzonderheden geconstateerd, die hier behoeven te worden vermeld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
