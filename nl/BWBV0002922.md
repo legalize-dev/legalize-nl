@@ -333,13 +333,3 @@ Dit Verdrag is in een enkel oorspronkelijk exemplaar opgesteld in de Duitse, de 
 TEN BLIJKE WAARVAN de ondergetekenden, na overlegging van hun volmachten, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Straatsburg, de 4 november 1988
-
-### HOOFDSTUK I. Het recht op beperking
-
-### HOOFDSTUK II. Aansprakelijkheidsgrenzen
-
-### HOOFDSTUK III. Het Beperkingsfonds
-
-### HOOFDSTUK IV. Toepassingsgebied
-
-### HOOFDSTUK V. Slotbepalingen
