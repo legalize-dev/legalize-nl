@@ -4,7 +4,7 @@ identifier: "BWBR0004482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-07-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004482"
 soort: "ministeriele-regeling"
@@ -74,17 +74,17 @@ Vervallen
 
 - a. loon ter zake van het vervullen van een dienstbetrekking;
 
-- b. loon ter zake van arbeidsongeschiktheid dat niet uitsluitend bestaat uit uitkeringen ingevolge de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, gedurende ten hoogste twee jaren na de aanvang van de arbeidsongeschiktheid;
+- b. loon ter zake van arbeidsongeschiktheid dat niet uitsluitend bestaat uit uitkeringen ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), gedurende ten hoogste twee jaren na de aanvang van de arbeidsongeschiktheid;
 
-- c. loon genoten ingevolge de Wet arbeid en zorg en als aanvulling daarop door degene tot wie de desbetreffende werknemer in dienstbetrekking staat;
+- c. loon genoten ingevolge de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en als aanvulling daarop door degene tot wie de desbetreffende werknemer in dienstbetrekking staat;
 
-een en ander tenzij op dat loon de in artikel 2, onderdeel g, genoemde tabel van toepassing is.
+een en ander tenzij op dat loon de in [artikel 2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2004-01-01&g=2004-01-01), genoemde tabel van toepassing is.
 
-2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in artikel 2, onderdelen h en i, en in het eerste lid, onderdelen b en c.
+2. De groene tabellen zijn van toepassing op loon uit vroegere arbeid met uitzondering van loon als bedoeld in [artikel 2, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2004-01-01&g=2004-01-01), en in het eerste lid, onderdelen b en c.
 
 ##### Artikel 4
 
-Bij de in de artikelen 2 en 2a genoemde tabellen zijn voor zover nodig de berekeningsvoorschriften gevoegd aan de hand waarvan de inhoudingsplichtige uit die tabellen afleidt het bedrag van de verschuldigde belasting, het bedrag van de verschuldigde premie voor de volksverzekeringen, dan wel het gezamenlijke bedrag van de verschuldigde belasting en de verschuldigde premie voor de volksverzekeringen ten aanzien van:
+bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2004-01-01&g=2004-01-01) genoemde tabellen zijn voor zover nodig de berekeningsvoorschriften gevoegd aan de hand waarvan de inhoudingsplichtige uit die tabellen afleidt het bedrag van de verschuldigde belasting, het bedrag van de verschuldigde premie voor de volksverzekeringen, dan wel het gezamenlijke bedrag van de verschuldigde belasting en de verschuldigde premie voor de volksverzekeringen ten aanzien van:
 
 - a. degene van wie geen loonbelasting wordt ingehouden doch die wel premieplichtig is voor de volksverzekeringen;
 
@@ -104,13 +104,13 @@ Door vernummering vervallen.
 
 ##### Artikel 5
 
-1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in artikel 2, onderdeel h, van toepassing is, niet zijnde een uitkering op grond van het Besluit bijstandverlening zelfstandigen, de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
+1. Aan het eind van het kalenderjaar herrekent de inhoudingsplichtige die loon heeft verstrekt waarop de tabel bedoeld in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2&z=2004-01-01&g=2004-01-01), van toepassing is, niet zijnde een uitkering op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), de per werknemer over dat kalenderjaar verschuldigde loonbelasting en premie voor de volksverzekeringen met inachtneming van de volgende bepalingen.
 
-2. Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de leeftijd van 65 jaar nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer van 65 jaar en ouder rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de Algemene bijstandswet geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de aanvullende ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.
+2. Bij de in het eerste lid bedoelde herrekening wordt ten aanzien van de werknemer die de leeftijd van 65 jaar nog niet heeft bereikt rekening gehouden met de algemene heffingskorting. Bij die herrekening wordt ten aanzien van de werknemer van 65 jaar en ouder rekening gehouden met de algemene heffingskorting en de ouderenkorting en, als deze werknemer een uitkering ingevolge de Wet werk en inkomen geniet volgens de normen voor een alleenstaande of een alleenstaande ouder, bovendien met de aanvullende ouderenkorting. De heffingskortingen worden in aanmerking genomen naar rato van de periode waarover in het kalenderjaar loon van de inhoudingsplichtige is genoten.
 
-3. Het op de voet van het tweede lid bepaalde bedrag wordt verminderd met het bedrag van de in dat lid bedoelde heffingskortingen voor zover daarmee rekening is gehouden bij de inhouding van loonbelasting en premie voor de volksverzekeringen op ander loon over perioden in het kalenderjaar waarover een uitkering ingevolge de Algemene bijstandswet is genoten. Voor de toepassing van de vorige volzin wordt met betrekking tot beloningen die niet kunnen worden toegerekend aan een loontijdvak waarover geen bijstandsuitkering is genoten en waarop met toepassing van de in artikel 26 van de wet bedoelde tabel geen inhouding van loonbelasting en premie voor de volksverzekeringen plaatsvindt, geacht bij de bepaling van de loonbelasting en premie voor de volksverzekeringen rekening te zijn gehouden met een bedrag aan heffingskorting. De Belastingdienst verstrekt aan de inhoudingsplichtige een rekenvoorschrift aan de hand waarvan hij het in dit lid bedoelde bedrag aan heffingskorting kan bepalen.
+3. Het op de voet van het tweede lid bepaalde bedrag wordt verminderd met het bedrag van de in dat lid bedoelde heffingskortingen voor zover daarmee rekening is gehouden bij de inhouding van loonbelasting en premie voor de volksverzekeringen op ander loon over perioden in het kalenderjaar waarover een uitkering ingevolge de Wet werk en inkomen is genoten. Voor de toepassing van de vorige volzin wordt met betrekking tot beloningen die niet kunnen worden toegerekend aan een loontijdvak waarover geen bijstandsuitkering is genoten en waarop met toepassing van de in artikel 26 van de wet bedoelde tabel geen inhouding van loonbelasting en premie voor de volksverzekeringen plaatsvindt, geacht bij de bepaling van de loonbelasting en premie voor de volksverzekeringen rekening te zijn gehouden met een bedrag aan heffingskorting. De Belastingdienst verstrekt aan de inhoudingsplichtige een rekenvoorschrift aan de hand waarvan hij het in dit lid bedoelde bedrag aan heffingskorting kan bepalen.
 
-4. De loonbelasting en premie voor de volksverzekeringen over loon waarover premie ingevolge de Ziekenfondswet is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en werknemerspremie ingevolge de Ziekenfondswet en bedraagt:
+4. De loonbelasting en premie voor de volksverzekeringen over loon waarover premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en werknemerspremie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en bedraagt:
 
 (L - H) × P - H, waarbij
 
@@ -118,9 +118,9 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid, en
 
-P bedraagt: voor werknemers, jonger dan 65 jaar: 56,25% en voor werknemers van 65 jaar en ouder: 19,48%.
+P bedraagt: voor werknemers, jonger dan 65 jaar: 56,51% en voor werknemers van 65 jaar en ouder: 19,75%.
 
-5. De loonbelasting en premie voor de volksverzekeringen over loon waarover geen premie ingevolge de Ziekenfondswet is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt:
+5. De loonbelasting en premie voor de volksverzekeringen over loon waarover geen premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) is verschuldigd, wordt berekend over het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen loonbelasting en premie voor de volksverzekeringen en bedraagt:
 
 (L - H) × R - H, waarbij
 
@@ -128,7 +128,7 @@ L voorstelt: het loon waarover de loonbelasting en premie voor de volksverzekeri
 
 H voorstelt: het bedrag aan heffingskorting bepaald op de voet van het tweede lid, verminderd met het bedrag van de heffingskorting bepaald op de voet van het derde lid en verminderd met het bedrag aan heffingskorting waarmee rekening is gehouden bij de toepassing van het vierde lid, en
 
-R bedraagt: voor werknemers, jonger dan 65 jaar: 49,59% en voor werknemers van 65 jaar en ouder: 17,99%.
+R bedraagt: voor werknemers, jonger dan 65 jaar: 50,15% en voor werknemers van 65 jaar en ouder: 18,34%.
 
 6. Voor de toepassing van het tweede, vierde en vijfde lid wordt de werknemer die in het kalenderjaar de leeftijd van 65 jaar heeft bereikt, geacht die leeftijd te hebben bereikt op de eerste dag van de kalendermaand waarin hij die leeftijd werkelijk heeft bereikt.
 
@@ -154,7 +154,7 @@ Vervallen
 
 ##### Artikel 7
 
-De bij deze regeling behorende bijlagen A tot en met K liggen ter inzage op de Directie wetgeving directe belastingen van het ministerie van Financiën.
+De bij deze regeling behorende [bijlagen A tot en met L](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&bijlage=A&z=2004-01-01&g=2004-01-01) liggen ter inzage op de Directie wetgeving directe belastingen van het ministerie van Financiën.
 
 ##### Artikel 8
 
