@@ -50,7 +50,3 @@ Ten aanzien van de persoon, die recht heeft op een arbeidsongeschiktheidsuitkeri
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 1993.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3
-
-Deze regeling wordt aangehaald als: Regeling uitzondering toepassingstermijn anticumulatie arbeidsongeschiktheidswetten.
