@@ -4,7 +4,7 @@ identifier: "BWBR0011530"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2000-10-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011530"
 soort: "rijksKB"
@@ -52,29 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder:
-
-- a. bewaker: de met het uitvoeren van de bewakings- en beveiligingstaak belaste:
-
-- 1°. militair;
-
-- 2°. burgerambtenaar in dienst van het Ministerie van Defensie;
-
-- b. meerdere:
-
-- 1°. indien de bewakings- en beveiligingstaak alleen door militairen wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is;
-
-- 2°. indien de bewakings- en beveiligingstaak alleen door burgerambtenaren in dienst van het Ministerie van Defensie wordt uitgevoerd: de burgerambtenaar die de hoogste rang bezit dan wel bij gelijkheid in rang, de burgerambtenaar die de meeste ouderdom daarin bezit;
-
-- 3°. indien de bewakings- en beveiligingstaak door burgerambtenaren in dienst van het Ministerie van Defensie samen met militairen wordt uitgevoerd: degene die als zodanig is aangewezen;
-
-- c. geweld: elke dwangmatige kracht van meer dan geringe betekenis, uitgeoefend op personen of zaken;
-
-- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2000-10-01&g=2000-10-01);
-
-- e. gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
-
-2. Onder het gebruiken van geweld wordt mede verstaan het dreigen met geweld.
+Dit besluit berust op [artikel 3, derde lid, van de Rijkswet geweldgebruik bewakers militaire objecten](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=3).
 
 ##### Artikel 2
 
@@ -128,9 +106,9 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 8
 
-1. Van het gebruik van geweld, waaronder begrepen het geven van een waarschuwingsschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=5&z=2000-10-01&g=2000-10-01), de redenen die tot dat geweldgebruik hebben geleid en de daaruit voortvloeiende gevolgen wordt door de bewaker die geweld heeft gebruikt, dan wel, indien die bewaker onder leiding van een ter plaatse aanwezige meerdere optrad, door de meerdere, onverwijld een schriftelijk rapport opgemaakt.
+1. De bewaker die geweld heeft aangewend, waaronder begrepen het geven van een waarschuwingsschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=5&z=2003-09-01&g=2003-09-01), meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere.
 
-2. De bewaker dan wel de meerdere doet het rapport onverwijld toekomen aan de commandant of een voor de toepassing van dit artikel daarmee gelijk te stellen functionaris.
+2. De melding, bedoeld in het eerste lid, wordt door de meerdere terstond vastgelegd in een schriftelijk rapport. De meerdere doet het rapport onverwijld toekomen aan de commandant of een voor de toepassing van dit artikel daarmee gelijk te stellen functionaris.
 
 3. Deze brengt het rapport, zo nodig vergezeld van zijn kanttekeningen, onverwijld ter kennis van een brigadecommandant van de Koninklijke marechaussee.
 
@@ -138,7 +116,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 9
 
-1. Het gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2000-10-01&g=2000-10-01), is slechts geoorloofd:
+1. Het gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01), is slechts geoorloofd:
 
 - a. tegen een persoon indien redelijkerwijs mag worden aangenomen dat die persoon een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken dan wel ander levensbedreigend geweld tegen personen zal gebruiken;
 
@@ -148,7 +126,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 10
 
-Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2000-10-01&g=2000-10-01), wordt het volgende in acht genomen:
+Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01), wordt het volgende in acht genomen:
 
 - a. zwaar lichamelijk letsel of erger wordt zo veel mogelijk voorkomen;
 
@@ -158,7 +136,7 @@ Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](ht
 
 ##### Artikel 11
 
-De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=3&artikel=9&z=2000-10-01&g=2000-10-01) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
+De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=3&artikel=9&z=2003-09-01&g=2003-09-01) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
 
 #### Paragraaf 4. Handboeien
 
@@ -185,5 +163,41 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
+
+##### Artikel 1a
+
+1. In dit besluit wordt verstaan onder:
+
+- a. bewaker: de met het uitvoeren van de bewakings- en beveiligingstaak belaste:
+
+- 1°. militair;
+
+- 2°. burgerambtenaar in dienst van het Ministerie van Defensie;
+
+- b. meerdere:
+
+- 1°. indien de bewakings- en beveiligingstaak alleen door militairen behorend tot de krijgsmacht van het Koninkrijk wordt uitgevoerd: degene die ingevolge het bepaalde bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) de meerdere is;
+
+- 2°. indien de bewakings- en beveiligingstaak alleen door burgerambtenaren in dienst van het Ministerie van Defensie wordt uitgevoerd: de burgerambtenaar die de hoogste rang bezit dan wel bij gelijkheid in rang, de burgerambtenaar die de meeste ouderdom daarin bezit;
+
+- 3°. in andere gevallen dan bedoeld onder 1° of 2°: de militair, behorend tot de krijgsmacht van het Koninkrijk, onderscheidenlijk de burgerambtenaar, in dienst van het Ministerie van Defensie, die als zodanig is aangewezen;
+
+- c. geweld: elke dwangmatige kracht van meer dan geringe betekenis, uitgeoefend op personen of zaken;
+
+- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01);
+
+- e. gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
+
+2. Onder het gebruiken van geweld wordt mede verstaan het dreigen met geweld.
+
+#### Paragraaf 2. Algemene geweldsbepalingen
+
+#### Paragraaf 3. Vuurwapens
+
+#### Paragraaf 4. Handboeien
+
+#### Paragraaf 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
