@@ -4,7 +4,7 @@ identifier: "BWBR0002501"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2002-02-06"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002501"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Omschrijvingen
 
-1. Onverminderd het bepaalde in het derde lid van dit artikel en het bepaalde in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=107&z=2002-02-06&g=2002-02-06) van dit besluit, wordt voor de toepassing van dit besluit verstaan onder:
+1. Onverminderd het bepaalde in het derde lid van dit artikel en het bepaalde in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=107&z=2005-01-01&g=2005-01-01) van dit besluit, wordt voor de toepassing van dit besluit verstaan onder:
 
 **wet:** de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876);
 
@@ -88,9 +88,9 @@ Hebben goedgevonden en verstaan:
 
 **tankschip:** een vrachtschip dat is gebouwd of is aangepast voor het vervoer in bulk van vloeibare lading van ontvlambare aard;
 
-**chemicaliëntankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van vloeibare lading zoals vermeld in de opsomming van minimumeisen per stof, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2002-02-06&g=2002-02-06);
+**chemicaliëntankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van vloeibare lading zoals vermeld in de opsomming van minimumeisen per stof, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2005-01-01&g=2005-01-01);
 
-**gastankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van lading bestaande uit vloeibaar gemaakt gas of andere stoffen zoals vermeld in de opsomming van minimumeisen, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2002-02-06&g=2002-02-06);
+**gastankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van lading bestaande uit vloeibaar gemaakt gas of andere stoffen zoals vermeld in de opsomming van minimumeisen, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2005-01-01&g=2005-01-01);
 
 **combinatietankschip:** een schip ingericht voor het vervoer van afwisselend olie en stortladingen;
 
@@ -128,7 +128,7 @@ indien de grootte van een schip is vastgesteld volgens de bepalingen krachtens d
 
 **lastlijn:** de waterlijn bij de grootste geoorloofde inzinking in zeewater;
 
-**vrijboord:** de in het midscheepse vlak vertikaal gemeten afstand van de bovenkant van de deklijn, als aangegeven in [artikel 3 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06), tot de bovenkant van de van toepassing zijnde lijn van het uitwateringsmerk, als aangegeven in [artikel 5 van genoemde bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) ;
+**vrijboord:** de in het midscheepse vlak vertikaal gemeten afstand van de bovenkant van de deklijn, als aangegeven in [artikel 3 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01), tot de bovenkant van de van toepassing zijnde lijn van het uitwateringsmerk, als aangegeven in [artikel 5 van genoemde bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01) ;
 
 **indompelingsgrenslijn:** een lijn, gedacht op het scheepsboord, evenwijdig aan en op een afstand van 76 millimeter onder de aansnijding van de bovenzijde van het schottendek met dit boord;
 
@@ -178,13 +178,11 @@ De bepalingen van dit besluit zijn niet van toepassing op vissersvaartuigen.
 
 ##### Artikel 1b. Wederzijdse erkenning
 
-1. Met de bij of krachtens dit besluit vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
-
-2. Met de bij of krachtens dit besluit geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+Vervallen
 
 ##### Artikel 2. Scheepsidentificatienummer
 
-Een schip van 100 ton of meer is voorzien van een uniek scheepsidentificatienummer dat voldoet aan bij ministeriële regeling te stellen eisen.
+Vervallen
 
 ### Hoofdstuk II. Certificaten
 
@@ -196,7 +194,7 @@ Een schip van 100 ton of meer is voorzien van een uniek scheepsidentificatienumm
 
 - b. een passagiersschip of een schip van 500 ton of meer een veiligheidsmanagementcertificaat (safety management certificate) als bedoeld in de ISM-code aan boord heeft.
 
-2. De certificaten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06) zijn:
+2. De certificaten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01) zijn:
 
 - a. voor elk schip van 150 ton of meer, dat is gebouwd vóór 21 juli 1968, en voor elk schip dat is gebouwd op of na 21 juli 1968 en dat een lengte heeft van 24 meter of meer: een internationaal certificaat van uitwatering (international load line certificate);
 
@@ -206,19 +204,11 @@ Een schip van 100 ton of meer is voorzien van een uniek scheepsidentificatienumm
 
 ##### Artikel 4. Certificaten voor bepaalde schepen
 
-De certificaten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3) zijn voorts:
-
-- a. voor passagiersschepen: een internationaal veiligheidscertificaat voor passagiersschepen (passenger ship safety certificate) met bijbehorend uitrustingsrapport (record of equipment);
-
-- b. voor vrachtschepen van 500 ton of meer: een internationaal veiligheidscertificaat voor vrachtschepen (cargo ship safety certificate) met bijbehorend uitrustingsrapport (record of equipment);
-
-- c. voor vrachtschepen van 300 ton of meer, maar van minder dan 500 ton: een internationaal radioveiligheidscertificaat (cargo ship safety radio certificate) met bijbehorend uitrustingsrapport (record of equipment).
+Vervallen
 
 ##### Artikel 5. Aanvullende certificaten voor bijzondere schepen
 
-1. Een schip dat vanuit Nederland, de Nederlandse Antillen of Aruba paarden, rundvee, varkens, schapen of geiten vervoert, anders dan als deklading, dient voorts te beschikken over een nationaal dierenvervoercertificaat voor de te ondernemen reis.
-
-2. Bij ministeriële regeling kan worden bepaald dat hogesnelheidsvaartuigen, olietankschepen, gas- en chemicaliëntankschepen, bulkcarriers en andere categorieën schepen, bestemd of gebruikt voor het vervoer van bepaalde stoffen of voor bijzondere doeleinden, over bijzondere certificaten dienen te beschikken.
+Vervallen
 
 ### Hoofdstuk III. Onderzoeken en eisen
 
@@ -228,31 +218,17 @@ Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebure
 
 ##### Artikel 7. Klassebureau naar keuze
 
-1. Voordat een eerste onderzoek plaatsvindt voor de verlening van certificaten, andere dan die genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), kiest de eigenaar of de bouwer van een schip voor de regels van een bepaald klassebureau. Bij volgende onderzoeken worden de regels van dat klassebureau toegepast. Een schip voldoet met betrekking tot de romp, de machine- en elektrische installaties en de uitrusting aan de regels, gegeven door dat klassebureau, voorzover die regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
+1. Voordat een eerste onderzoek plaatsvindt voor de verlening van certificaten, andere dan die genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01), kiest de eigenaar of de bouwer van een schip voor de regels van een bepaald klassebureau. Bij volgende onderzoeken worden de regels van dat klassebureau toegepast. Een schip voldoet met betrekking tot de romp, de machine- en elektrische installaties en de uitrusting aan de regels, gegeven door dat klassebureau, voorzover die regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
 
-2. Voor de onderzoeken met betrekking tot de certificaten, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), kiest de eigenaar van een schip voor een klassebureau, dat een ander klassebureau kan zijn dan het klassebureau, gekozen op grond van het eerste lid.
+2. Vervallen.
 
 ##### Artikel 8. Onderzoeken
 
-1. De bedrijfsvoering van de eigenaar van een passagiersschip of van een schip van 500 ton of meer wordt in verband met het document, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), onderworpen aan de volgende onderzoeken:
+1. Vervallen.
 
-- a. een eerste onderzoek voor de verlening van het document,
+2. Vervallen.
 
-- b. een hernieuwd onderzoek voor de vernieuwing van het document,
-
-- c. jaarlijkse onderzoeken in de periode van drie maanden voor tot drie maanden na de datum van afgifte van het document.
-
-2. Een schip wordt in verband met het certificaat, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), onderworpen aan de volgende onderzoeken:
-
-- a. een eerste onderzoek voordat het schip in dienst wordt gesteld,
-
-- b. een hernieuwd onderzoek voor de vernieuwing van het certificaat,
-
-- c. een tussentijds onderzoek in de periode tussen 24 en 36 maanden na de datum van afgifte van het certificaat,
-
-- d. onderzoeken om bijzondere redenen.
-
-3. Een schip wordt in verband met de certificaten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=4&z=2002-02-06&g=2002-02-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2002-02-06&g=2002-02-06), onderworpen aan de volgende onderzoeken:
+3. Een schip wordt in verband met de certificaten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01), en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=4&z=2005-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2005-01-01&g=2005-01-01), onderworpen aan de volgende onderzoeken:
 
 - a. een eerste onderzoek voordat het schip in dienst wordt gesteld,
 
@@ -266,143 +242,49 @@ Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebure
 
 4. Een schip wordt tevens onderworpen aan een onderzoek van de romp, de machine- en elektrische installaties en de uitrusting volgens de regels van het gekozen klassebureau.
 
-5. Bij ministeriële regeling wordt het aanvullende uitgebreide inspectieprogramma vastgesteld waaraan de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2002-02-06&g=2002-02-06), bedoelde schepen zijn onderworpen.
-
 ##### Artikel 9. Conformiteitsdocument
 
-1. Voor de verkrijging van een conformiteitsdocument dient een scheepseigenaar te beschikken over een veiligheidsmanagementsysteem dat voldoet aan de eisen, gesteld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=VI&z=2002-02-06&g=2002-02-06). Een eerste onderzoek vindt plaats nadat het systeem ten minste gedurende drie maanden is toegepast in de bedrijfsorganisatie van de eigenaar alsmede aan boord van ten minste één schip van ieder type waarop het systeem betrekking heeft.
-
-2. Een voorlopig conformiteitsdocument met een geldigheidsduur van ten hoogste twaalf maanden wordt afgegeven ten behoeve van een nieuw gevestigde eigenaar dan wel een eigenaar die een nieuw scheepstype in gebruik neemt. Tijdens die periode vindt een eerste onderzoek als bedoeld in het eerste lid plaats. Het onderzoek is voltooid vóór de vervaldatum van het document.
-
-3. Jaarlijks wordt in de periode van drie maanden voor tot drie maanden na de datum van afgifte van het document de doelmatigheid van het veiligheidsmanagementsysteem onderzocht.
-
-4. In de periode van zes maanden voor de vervaldatum van het document vindt een hernieuwd onderzoek plaats naar het veiligheidsmanagementsysteem alvorens een nieuw document wordt afgegeven.
+Vervallen
 
 ##### Artikel 10. Veiligheidsmanagementcertificaat
 
-1. Voor de verkrijging van een veiligheidsmanagementcertificaat dient aan boord van het schip het veiligheidsmanagementsysteem van de eigenaar van het schip te worden toegepast. Een eerste onderzoek vindt plaats nadat het systeem gedurende ten minste drie maanden is toegepast.
-
-2. Een voorlopig veiligheidsmanagementcertificaat met een geldigheidsduur van ten hoogste zes maanden wordt afgegeven ten behoeve van een schip dat voor het eerst door de eigenaar in gebruik wordt genomen. Tijdens die periode vindt een eerste onderzoek als bedoeld in het eerste lid plaats. Het onderzoek is voltooid vóór de vervaldatum van het document.
-
-3. Bij een tussentijds onderzoek, dat plaatsvindt tussen 24 en 36 maanden na de datum van afgifte van het certificaat, wordt onderzocht of de bedrijfsvoering op het schip nog voldoet aan de eisen, gesteld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=VI&z=2002-02-06&g=2002-02-06). Van dit onderzoek wordt een aantekening geplaatst op het certificaat.
-
-4. Een veiligheidsmanagementcertificaat wordt slechts afgegeven indien een kopie van het conformiteitsdocument, geldig voor het desbetreffende type schip, aan boord is.
-
-5. In de periode van zes maanden voor de vervaldatum van het certificaat vindt een hernieuwd onderzoek plaats naar het veiligheidsmanagementsysteem alvorens een nieuw certificaat wordt afgegeven.
+Vervallen
 
 ##### Artikel 11. Certificaat van uitwatering
 
-1. Voor de verkrijging en voor de vernieuwing van een internationaal of een nationaal certificaat van uitwatering wordt een schip onderworpen aan een eerste, onderscheidenlijk een hernieuwd onderzoek, dat een volledige inspectie omvat van de constructie en de uitrusting voorzover hieraan bij of krachtens dit besluit eisen zijn gesteld ten aanzien van de uitwatering. Bij een eerste onderzoek wordt bovendien een vrijboordrapport opgemaakt. Het onderzoek is in het bijzonder gericht op de inrichting, het materiaal en de verbanddelen als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
-
-2. Bij het jaarlijkse onderzoek wordt onderzocht:
-
-- a. of er veranderingen in de romp of in de bovenbouw zijn aangebracht die van invloed zijn op de berekeningen tot vaststelling van de plaats van de uitwateringslijn,
-
-- b. of de onderdelen en de middelen voor de bescherming van openingen, de verschansing of het relingwerk, de waterloospoorten en de toegangen tot de verblijven van de bemanning in deugdelijke staat verkeren,
-
-- c. of de vrijboordmerken juist en onuitwisbaar zijn aangebracht, en
-
-- d. of de ingevolge [artikel 10 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) vereiste gegevens omtrent de stabiliteit aanwezig zijn. Van dit onderzoek wordt een aantekening geplaatst op het certificaat.
+Vervallen
 
 ##### Artikel 12. Certificaat van deugdelijkheid
 
-1. Een nationaal certificaat van deugdelijkheid wordt afgegeven nadat:
-
-- a. uit een hellingproef is gebleken dat het schip voldoet aan de eisen, bij of krachtens dit besluit gesteld ten aanzien van de stabiliteit,
-
-- b. de aan het schip verstrekte zeebrief en meetbrief zijn overgelegd, en
-
-- c. de overige certificaten die voor het schip zijn vereist, alsmede geldige certificaten voor de romp en de machine- en elektrische installaties, afgegeven door het klassebureau van het schip, zijn overgelegd dan wel, indien het een schip van minder dan 500 ton betreft, nadat uit een onderzoek is gebleken dat het schip voldoet aan de eisen, gesteld bij of krachtens dit besluit. Het document inzake de minimum voorgeschreven bemanningssamenstelling, bedoeld in [artikel 109, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=109&z=2002-02-06&g=2002-02-06), wordt als aanhangsel bij het certificaat van deugdelijkheid gevoegd. Voor vrachtschepen van minder dan 500 ton wordt bovendien een uitrustingsrapport bij het certificaat gevoegd.
-
-2. Indien er aanleiding is om in verband met de klassenotatie, de bouw, de toestand of de uitrusting van het schip beperkingen op te leggen betreffende het toe te kennen vaargebied, bepaalt het Hoofd van de Scheepvaartinspectie voor welk vaargebied of voor welke reizen het certificaat van deugdelijkheid geldig is.
-
-3. Bij het jaarlijkse onderzoek wordt onderzocht of het schip nog voldoet aan de eisen, gesteld bij of krachtens dit besluit. Van het onderzoek wordt een aantekening op het certificaat van deugdelijkheid geplaatst. Schepen van minder dan 500 ton worden bovendien gedurende elk tijdvak van vijf jaar tweemaal onderworpen aan een onderzoek van de buitenzijde van de romp, waarbij de periode tussen twee onderzoeken ten hoogste 36 maanden mag omvatten. Van dit onderzoek wordt een aantekening geplaatst op het certificaat van deugdelijkheid.
-
-4. Indien een schip wijzigingen heeft ondergaan die van invloed zijn op de voor het schip vastgestelde stabiliteitsgegevens, kan het Hoofd van de Scheepvaartinspectie verlangen dat het schip opnieuw aan een hellingproef wordt onderworpen.
-
-5. Voorts kan een schip aan een hellingproef worden onderworpen indien de nodige stabiliteitsgegevens niet kunnen worden overgelegd, of indien deze gegevens naar het oordeel van het Hoofd van de Scheepvaartinspectie onvoldoende betrouwbaar zijn.
-
-6. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van het bepaalde in het eerste lid, onder a, indien resultaten van een hellingproef beschikbaar zijn van een zusterschip en ten genoegen van het Hoofd wordt aangetoond dat hieraan betrouwbare gegevens kunnen worden ontleend over de stabiliteit van het schip waarvoor een certificaat van deugdelijkheid wordt aangevraagd.
-
-7. Het Hoofd van de Scheepvaartinspectie kan voorts ontheffing verlenen van het bepaalde in het eerste lid, onder a, ten behoeve van een schip dat speciaal is ontworpen voor het vervoer in bulk van vloeistoffen of erts, indien uit resultaten van een hellingproef met een gelijksoortig schip blijkt dat ten gevolge van de afmetingen en de inrichting van het schip de aanvangsstabiliteit in alle te verwachten beladingstoestanden voldoende zal zijn.
+Vervallen
 
 ##### Artikel 13. Veiligheidscertificaat voor passagiersschepen
 
-1. Voor de verkrijging van een veiligheidscertificaat voor passagiersschepen wordt een passagiersschip onderworpen aan een eerste onderzoek, dat een volledige inspectie omvat van de constructie van het schip, de machine-installaties en de uitrusting, met inbegrip van de gehele romp van het schip aan de buitenzijde en het in- en uitwendige van de ketels, overeenkomstig de eisen daaraan gesteld bij of krachtens dit besluit.
-
-2. Een hernieuwd onderzoek omvat een inspectie van de constructie van het schip, de machine-installaties en de uitrusting, met inbegrip van de gehele romp van het schip aan de buitenzijde, en de ketels en de drukvaten.
-
-3. Een passagiersschip wordt eenmaal per vijf jaar onderworpen aan een deadweight-onderzoek als bedoeld in [artikel 22, tweede lid, van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-4. Indien een passagiersschip tijdens een bepaalde reis minder personen aan boord heeft dan het in het veiligheidscertificaat vermelde maximum aantal, kan het Hoofd van de Scheepvaartinspectie een aanhangsel bij het certificaat afgeven, waarin het aantal reddingboten en andere reddingmiddelen wordt vermeld waarmee voor die bepaalde reis kan worden volstaan.
+Vervallen
 
 ##### Artikel 14. Veiligheidscertificaat voor vrachtschepen
 
-1. Voor de verkrijging en voor de vernieuwing van een veiligheidscertificaat voor vrachtschepen wordt een vrachtschip onderworpen aan een eerste, onderscheidenlijk een hernieuwd onderzoek, dat omvat de constructie, de machine-installaties en de uitrusting, de romp aan de buitenzijde, de radio-installaties met inbegrip van die, gebruikt in groepsreddingmiddelen, de reddingmiddelen en andere uitrusting, overeenkomstig de eisen, daaraan gesteld bij of krachtens dit besluit.
-
-2. Bij het jaarlijkse onderzoek worden onderzocht:
-
-- a. de constructie, de machine-installaties en de uitrusting,
-
-- b. de reddingmiddelen en de andere uitrusting van het schip, en
-
-- c. de radio-installaties, met inbegrip van die welke worden gebruikt in groepsreddingmiddelen.
-
-Van het onderzoek wordt een aantekening geplaatst op het certificaat.
-
-3. Ten aanzien van de in het tweede lid, onder a, genoemde onderdelen vindt een tussentijds onderzoek plaats, dat in de plaats treedt van ofwel het tweede ofwel het derde jaarlijkse onderzoek. Van dit tussentijdse onderzoek wordt een aantekening geplaatst op het certificaat.
-
-4. Ten aanzien van de in het tweede lid, onder b, genoemde onderdelen vindt een periodiek onderzoek plaats, dat in de plaats treedt van ofwel het tweede ofwel het derde jaarlijkse onderzoek. Van dit periodieke onderzoek wordt een aantekening geplaatst op het certificaat.
-
-5. De buitenzijde van de romp van een vrachtschip wordt gedurende elk tijdvak van vijf jaar tweemaal onderzocht, waarbij de periode tussen twee onderzoeken ten hoogste 36 maanden mag omvatten. Van dit onderzoek wordt een aantekening geplaatst op het certificaat.
+Vervallen
 
 ##### Artikel 15. Radioveiligheidscertificaat
 
-1. Voor de verkrijging van een radioveiligheidscertificaat wordt de radio-installatie van een vrachtschip, met inbegrip van die, gebruikt in groepsreddingmiddelen, onderworpen aan een volledige inspectie.
-
-2. Bij het periodieke onderzoek en bij het hernieuwde onderzoek wordt de radio-installatie, met inbegrip van die, gebruikt in groepsreddingmiddelen, onderworpen aan een inspectie. Van het periodiek onderzoek wordt een aantekening geplaatst op het certificaat.
+Vervallen
 
 ##### Artikel 16. Nationaal certificaat voor dierenvervoer
 
-Een nationaal certificaat voor dierenvervoer wordt afgegeven nadat uit een onderzoek is gebleken dat het schip voldoet aan de eisen, gesteld in [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XX&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 17. Certificaat van ontheffing
 
-Indien het Hoofd van de Scheepvaartinspectie ten behoeve van een schip ontheffing verleent van bij of krachtens dit besluit gestelde eisen, voegt hij aan het desbetreffende certificaat een certificaat van ontheffing toe. Van deze toevoeging wordt een aantekening geplaatst op het oorspronkelijke certificaat. De geldigheidsduur van een certificaat van ontheffing kan niet langer zijn dan de geldigheidsduur van het certificaat waarbij het behoort.
+Vervallen
 
 ##### Artikel 18. Uitvoering van de onderzoeken
 
-1. De onderzoeken in verband met een conformiteitsdocument en een veiligheidsmanagementcertificaat worden uitgevoerd door een klassebureau naar keuze van de eigenaar van het schip.
-
-2. Indien een schip bij een klassebureau is ondergebracht, dan worden, naast de onderzoeken van de romp en de machine- en elektrische installaties, ook de volgende onderzoeken door dat klassebureau uitgevoerd:
-
-- a. het eerste, het jaarlijkse en het hernieuwde onderzoek in verband met het certificaat van uitwatering,
-
-- b. het jaarlijkse onderzoek van de uitrusting en het eerste, het hernieuwde, het jaarlijkse en het tussentijdse onderzoek van de constructie van vrachtschepen en
-
-- c. het onderzoek van de constructie van passagiersschepen.
-
-3. In alle andere gevallen worden de onderzoeken uitgevoerd door ambtenaren van de Scheepvaartinspectie.
-
-4. Het Hoofd van de Scheepvaartinspectie kan, indien daartoe dringende redenen zijn, bepalen dat een onderzoek als bedoeld in het eerste of tweede lid niet wordt uitgevoerd door het desbetreffende klassebureau maar door de ambtenaren van de Scheepvaartinspectie.
-
-5. Het Hoofd van de Scheepvaartinspectie kan toestaan dat het periodiek onderzoek van de uitrusting en van de radio-installatie van een vrachtschip en de onderzoeken van de buitenzijde van de romp worden uitgevoerd door een klassebureau.
+Vervallen
 
 ##### Artikel 19. Aanvraag en afgifte van certificaten
 
-1. De aanvraag van certificaten geschiedt schriftelijk bij het Hoofd van de Scheepvaartinspectie.
-
-2. Bij de eerste aanvraag van een certificaat, niet zijnde een conformiteitsdocument of een veiligheidsmanagementcertificaat, worden overgelegd:
-
-- a. de voor de controle van de bouw en de inrichting van het schip noodzakelijke tekeningen,
-
-- b. indien voor het schip in een ander land certificaten zijn afgegeven: afschriften van deze certificaten,
-
-- c. indien het schip is ondergebracht bij een klassebureau: verklaringen van dat klassebureau betreffende de romp en de machine- en elektrische installaties.
-
-3. Bij de eerste aanvraag van een conformiteitsdocument of een veiligheidsmanagementcertificaat wordt een verklaring overgelegd van het desbetreffende klassebureau dat het eerste onderzoek naar het veiligheidsmanagementsysteem aan de wal en aan boord van het schip is voltooid.
-
-4. Het tijdvak van geldigheid, alsmede nadere voorschriften of beperkingen, verbonden aan het certificaat, worden bij de afgifte op het certificaat aangetekend.
+Vervallen
 
 ##### Artikel 20. Weigering van afgifte
 
@@ -416,7 +298,7 @@ Indien een op de Nederlandse Antillen of op Aruba ingediende aanvraag van een ce
 
 ##### Artikel 22. Vernieuwing van certificaten
 
-Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2002-02-06&g=2002-02-06), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot:
+Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2005-01-01&g=2005-01-01), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot:
 
 - a. indien het een veiligheidscertificaat voor een passagiersschip betreft: een datum niet later dan twaalf maanden na de vervaldatum van het bestaande certificaat;
 
@@ -424,41 +306,31 @@ Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwij
 
 ##### Artikel 23. Herstel van de geldigheid
 
-Indien de geldigheid van een certificaat is vervallen omdat een jaarlijks, een tussentijds of een periodiek onderzoek of een onderzoek van de romp aan de buitenzijde door omstandigheden die buiten de macht van de eigenaar of de kapitein van het schip zijn gelegen, niet binnen de daarvoor gestelde termijn heeft plaatsgevonden, kan het Hoofd van de Scheepvaartinspectie de geldigheid van het certificaat herstellen indien naar zijn mening bij een inspectie voldoende is gebleken dat het schip voldoet aan de desbetreffende eisen.
+Vervallen
 
 ##### Artikel 24. Vernieuwing van conformiteitsdocumenten en veiligheidsmanagementcertificaten
 
-1. Na de voltooiing van een hernieuwd onderzoek is een nieuw conformiteitsdocument of een nieuw veiligheidsmanagementcertificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2002-02-06&g=2002-02-06), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot een datum niet later dan vijf jaar na de vervaldatum van het bestaande document onderscheidenlijk certificaat.
-
-2. Wanneer een hernieuwd onderzoek voor een conformiteitsdocument of voor een veiligheidsmanagementcertificaat wordt voltooid na de vervaldatum van het bestaande document of certificaat, is het nieuwe document of certificaat geldig vanaf de datum van voltooiing van het onderzoek tot ten hoogste vijf jaar na de vervaldatum van het bestaande document of certificaat.
+Vervallen
 
 ##### Artikel 25. Verlenging geldigheidsduur certificaat
 
-Indien een hernieuwd onderzoek is voltooid en er geen nieuw certificaat kan worden afgegeven of aan het schip kan worden verstrekt voor de vervaldatum van het bestaande certificaat, kan degene die het onderzoek heeft uitgevoerd daarvan een aantekening plaatsen op het bestaande certificaat. In dat geval wordt het certificaat nog als geldig aangemerkt voor een tijdvak van ten hoogste vijf maanden na de vervaldatum.
+Vervallen
 
 ##### Artikel 26. Schip niet in een haven
 
-Indien een schip zich op het tijdstip waarop een certificaat zijn geldigheid verliest niet in een haven bevindt waar een onderzoek kan plaatsvinden, kan het Hoofd van de Scheepvaartinspectie de geldigheidsduur van het certificaat verlengen voor een tijdvak van ten hoogste drie maanden ten einde het schip in staat te stellen zijn reis naar de haven waar het zal worden onderzocht te voltooien. Het schip mag die haven niet verlaten zonder nieuw certificaat.
+Vervallen
 
 ##### Artikel 27. Korte reizen
 
-De geldigheid van een certificaat dat is afgegeven ten behoeve van een schip dat korte reizen maakt en waarvan de geldigheid niet reeds uit anderen hoofde is verlengd, kan door het Hoofd van de Scheepvaartinspectie voor ten hoogste een maand worden verlengd. Na de voltooiing van het hernieuwde onderzoek is het nieuwe certificaat geldig tot:
-
-- a. indien het een veiligheidscertificaat voor een passagiersschip betreft: een datum niet later dan twaalf maanden na de oorspronkelijke vervaldatum van het bestaande certificaat;
-
-- b. voor alle andere certificaten: een datum niet later dan vijf jaar na de oorspronkelijke vervaldatum van het bestaande certificaat.
+Vervallen
 
 ##### Artikel 28. Bijzondere omstandigheden
 
-Indien in verband met schade aan het schip een hernieuwd onderzoek heeft plaatsgevonden meer dan drie maanden voordat een certificaat zijn geldigheid verliest, kan het Hoofd van de Scheepvaartinspectie afwijken van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=22&z=2002-02-06&g=2002-02-06), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=26&z=2002-02-06&g=2002-02-06) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=27&z=2002-02-06&g=2002-02-06). In dat geval is het nieuwe certificaat geldig tot:
-
-- a. indien het een veiligheidscertificaat voor een passagiersschip betreft: een datum niet later dan twaalf maanden na de datum van voltooiing van het hernieuwde onderzoek;
-
-- b. voor alle andere certificaten: een datum niet later dan vijf jaar na de datum van voltooiing van het hernieuwde onderzoek.
+Vervallen
 
 ##### Artikel 29. Extra onderzoek
 
-Indien een jaarlijks, een tussentijds of een periodiek onderzoek is voltooid vóór de aanvang van het tijdvak waarin het dient plaats te vinden, worden er één of meer aanvullende jaarlijkse, tussentijdse of periodieke onderzoeken verricht op zodanig gekozen tijdstippen dat de maximum perioden tussen de voorgeschreven onderzoeken niet worden overschreden.
+Vervallen
 
 ##### Artikel 30. Vervallen van certificaten
 
@@ -466,17 +338,15 @@ Een certificaat van deugdelijkheid verliest zijn geldigheid indien het schip wor
 
 ##### Artikel 31. Handhaving van de toestand na onderzoek
 
-Nadat een onderzoek als bedoeld in de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=11&z=2002-02-06&g=2002-02-06) is beëindigd wordt de toestand van het schip, voorzover het onderworpen is geweest aan een onderzoek, gehandhaafd in overeenstemming met het bepaalde bij of krachtens dit besluit en in overeenstemming met de regels van het desbetreffende klassebureau. Zonder voorafgaande toestemming van het Hoofd van de Scheepvaartinspectie, onderscheidenlijk van het desbetreffende klassebureau indien dit het onderzoek heeft uitgevoerd, mag geen verandering in de toestand van het schip worden aangebracht, voorzover deze toestand aan het onderzoek was onderworpen.
+Vervallen
 
 ##### Artikel 32. Wijze van handelen bij schade
 
-1. Indien een schip schade heeft opgelopen of zich iets heeft voorgedaan waardoor het vermoeden rijst dat schade dan wel een gebrek is ontstaan waardoor de veiligheid van het schip dan wel de deugdelijkheid of de volledigheid van de reddingmiddelen of van de andere uitrusting kan zijn beïnvloed, licht de kapitein zo spoedig mogelijk de Scheepvaartinspectie in. Indien het bedoelde voorval betrekking heeft op de romp of de machine- en elektrische installaties en een klassebureau het onderzoek, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=7&z=2002-02-06&g=2002-02-06), heeft verricht, licht de kapitein tevens het desbetreffende klassebureau in. Indien het schip zich buiten het Koninkrijk bevindt, dienen tevens de bevoegde autoriteiten van de eerstvolgende haven te worden ingelicht, dan wel de autoriteiten van de haven waarin het schip zich bevindt.
-
-2. Indien het schip zich in een haven bevindt, mag de reis niet worden voortgezet voordat de kapitein van de Scheepvaartinspectie of van het desbetreffende klassebureau een verklaring heeft ontvangen, inhoudende dat eventuele herstellingen naar behoren zijn geschied of dat de reis zonder bezwaar voor de veiligheid van het schip kan worden voortgezet, voorzover de ter plaatse bevoegde autoriteiten zich niet tegen voortzetting van de reis verzetten.
+Vervallen
 
 ##### Artikel 33. Toepassing op niet werktuiglijk voortbewogen schepen
 
-De [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2002-02-06&g=2002-02-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=4&z=2002-02-06&g=2002-02-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2002-02-06&g=2002-02-06) zijn niet van toepassing op niet werktuiglijk voortbewogen schepen.
+Vervallen
 
 ##### Artikel 34. Toepassing op niet werktuiglijk voortbewogen schepen
 
@@ -486,7 +356,7 @@ Vervallen
 
 ##### Artikel 35. Keuring materialen
 
-Het voor de bouw van de scheepsromp en van de voornaamste werktuigen te bezigen materiaal, zomede dat, te gebruiken bij verbouwing, belangrijke herstelling of vernieuwing van vitale delen, moet voldoen aan en zijn gekeurd volgens de door een klassebureau gestelde eisen en zijn gekeurd op de wijze, als daarin is voorgeschreven.
+Vervallen
 
 ##### Artikel 36. Sterkte-eisen
 
@@ -498,207 +368,67 @@ Vervallen
 
 ##### Artikel 38. Waterdichtheid
 
-De huid en de wanden van waterdichte afdelingen, als schotten, dekken en de tanktop van een dubbele bodem, moeten deugdelijk waterdicht zijn afgewerkt. De huid en deze wanden moeten voldoende zijn verstijfd tegen de waterdruk die ter plaatse, ook in geval van nood, kan optreden.
+Vervallen
 
 ##### Artikel 39. Waterdichte indeling en stabiliteit in beschadigde toestand
 
-1. De waterdichte indeling moet zo doeltreffend zijn als redelijkerwijs, in verband met de eisen van het bedrijf, kan worden verlangd en moet tevens voldoen aan de voorschriften van [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-2. Onverminderd het bepaalde in het eerste lid moeten aan boord van een klein vaartuig ten minste de volgende waterdichte afdelingen aanwezig zijn:
-
-- a. voorpiek;
-
-- b. voortstuwingsruimte, indien het schip voorzien is van middelen tot voortstuwing; en
-
-- c. achterpiek.
-
-De begrenzingsschotten van deze afdelingen moeten waterdicht tot aan het vrijboorddek zijn opgetrokken. Indien het waterdicht optrekken van het achterpiekschot tot aan het vrijboorddek om praktische redenen niet mogelijk is, kan hiervan worden afgeweken. In dat geval moet door middel van een lekberekening worden aangetoond dat het achterpiekschot waterdicht is opgetrokken tot ten minste 200 mm boven de lastlijn bij volgelopen achterpiek. Deze lekberekening moet gebaseerd zijn op de operationele beladingstoestand, waarbij het kleine vaartuig is afgeladen tot het toegekende zomermerk.
-
-3. De stabiliteit van een schip in beschadigde toestand moet voldoen aan de voorschriften van [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 40. Waterdichte deuren, terugslagkleppen of afsluiters in pijpdoorvoeringen van waterdichte schotten; mangaten
 
-1. Terugslagkleppen of afsluiters in waterdichte schotten, die deel uitmaken van een pijpleidingsysteem, en waterdichte deuren moeten goed sluiten en voldoende sterk zijn en hun bewegings- en sluitingsinrichtingen moeten een goede werking te allen tijde kunnen waarborgen.
-
-2. Waterdichte deuren op een passagiersschip moeten voldoen aan de eisen gesteld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-3. Mangaten op ruimten voor berging van water en olie en op kofferdammen en droge tanks moeten, wanneer het schip ledig is, gemakkelijk bereikbaar zijn en naar behoren kunnen worden gesloten.
+Vervallen
 
 ##### Artikel 41. Soort en plaats van waterdichte deuren; wijze van bediening
 
-1. Aan boord van een passagiersschip moeten waterdichte deuren zowel wat soort en plaats betreft waar zij mogen zijn aangebracht, als de plaats en de wijze waarop zij beweegbaar moeten kunnen zijn, voldoen aan de eisen gesteld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-2. Aan boord van een schip, geen passagiersschip zijnde, moeten waterdichte deuren, met uitzondering van draaideuren, door middel van een handwiel of van een ronddraaiende kruk of een andere goedgekeurde inrichting die dezelfde veiligheid biedt, buiten de voortstuwingsruimte en op een toegankelijke plaats beweegbaar zijn van een dek dat boven de bovenste lastlijn is gelegen.
-
-Tunneldeuren moeten bovendien ter plaatse van de deur, aan beide zijden van het schot, door middel van een handwiel of van een ronddraaiende kruk of een andere goedgekeurde inrichting die dezelfde veiligheid biedt, kunnen worden bewogen.
-
-Schuifdeuren moeten zijn voorzien van standaanwijzers die op alle plaatsen waar de deur beweegbaar doch niet zichtbaar is, aangeven of de deur is geopend dan wel gesloten. Deze deuren, andere dan tunneldeuren, mogen slechts met toestemming van het Hoofd van de Scheepvaartinspectie zijn aangebracht.
-
-Waterdichte draaideuren mogen, onder door het Hoofd van de Scheepvaartinspectie te stellen voorwaarden, slechts worden aangebracht op het hoogste niveau dat mogelijk is.
-
-3. In afwijking van het bepaalde in het tweede lid moeten aan boord van een klein vaartuig, geen passagiersschip zijnde, waterdichte deuren in waterdichte schotten, als schuifdeuren zijn uitgevoerd. Deze deuren moeten hetzij met de hand, hetzij werktuiglijk en tevens met de hand beweegbaar zijn. De deuren moeten buiten de voortstuwingsruimte en op een toegankelijke plaats beweegbaar zijn van een dek dat boven de bovenste lastlijn is gelegen.
-
-De deuren moeten zijn voorzien van standaanwijzers die op alle plaatsen waar de deur beweegbaar doch niet zichtbaar is, aangeven of de deur is geopend dan wel gesloten.
-
-In een voorpiekschot zijn onder het vrijboorddek geen waterdichte deuren, mangaten of andere toegangsopeningen toegestaan.
-
-4. In afwijking van het gestelde in het derde lid mag, in die gevallen dat een bovendekse toegang, gezien de aard en inrichting van het kleine vaartuig, niet praktisch te verwezenlijken is, in het achterpiekschot een waterdichte draaideur worden aangebracht, teneinde een toegang tot de stuurmachineruimte te verkrijgen. Een dergelijke deur moet:
-
-- a. tijdens normaal bedrijf zijn gesloten;
-
-- b. zo hoog mogelijk in het schot zijn aangebracht;
-
-- c. zijn voorzien van een centrale knevelsluiting;
-
-- d. naar achteren te openen zijn; en
-
-- e. zijn voorzien van het opschrift: Onmiddellijk na gebruik sluiten.
+Vervallen
 
 ##### Artikel 42. Patrijspoorten, ramen en lichtranden
 
-1. Patrijspoorten en lichtranden moeten voldoen aan de eisen gesteld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) en – voorzover van toepassing – in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) en [V van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2002-02-06&g=2002-02-06).
-
-2. Alle patrijspoorten, ramen en lichtranden moeten overigens voldoen aan de door het Hoofd van de Scheepvaartinspectie gestelde eisen betreffende type en sterkte.
+Vervallen
 
 ##### Artikel 43. Vul- en luchtpijpen
 
-1. Op dubbele bodem- of andere tanks moeten luchtpijpen zijn aangebracht.
-
-- a. Luchtpijpen moeten in laadruimten en aan dek zodanig beschermd of zo sterk zijn, dat zij door verschuiven van lading niet kunnen worden beschadigd.
-
-- b. Luchtpijpen van tanks die, hetzij door het openen van een of meer kranen of afsluiters van buitenboord kunnen vollopen, hetzij door middel van een werktuiglijk gedreven pomp kunnen worden gevuld, alsmede alle luchtpijpen van dubbele bodemtanks en kofferdammen en van voorraad-, bezink- en dagtanks voor brandstofolie, moeten boven het vrijboorddek, op een passagiersschip tevens boven het schottendek, in de openlucht uitmonden en aldaar steeds toegankelijk zijn.
-
-- c. De luchtpijpen van brandstoftanks moeten bovendien op een naar het oordeel van het Hoofd van de Scheepvaartinspectie veilige plaats uitkomen en zijn voorzien van een doelmatige vlamkerende inrichting.
-
-- d. Het is toegestaan de luchtpijpen van die tanks waarvan de inhoud bij uitvloeien op het open dek gevaar kan opleveren of om andere redenen ongewenst is, naar een overvloeitank of een andere hiervoor geschikte voorraadtank te leiden. In dat geval dient de ontluchting van de overvloeitank boven het vrijboorddek, op een passagiersschip tevens boven het schottendek, in de openlucht uit te monden en aldaar steeds toegankelijk te zijn. De ontluchting van de overvloeitank dient zodanig te zijn bemeten, dat deze de maximum te verwachten toevoer zonder overmatige drukverhoging kan verwerken. De overvloeitank dient voldoende ruim bemeten te zijn. Een alarminrichting moet worden aangebracht welke alarmeert bij een vooraf bepaald niveau in tanks of wanneer de tanks overvloeien.
-
-3. De hoogte van de opening van luchtpijpen boven blootgestelde delen van het vrijboorddek of van het dek van een bovenbouw, zomede de afsluiting van die opening, moeten voldoen aan het bepaalde in [artikel 20 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
-
-4. Vulpijpen op drinkwatertanks moeten ten minste 15 cm boven het dek reiken.
+Vervallen
 
 ##### Artikel 43a. Voorzieningen voor peilen
 
-1. Tanks en andere ruimten die niet te allen tijde toegankelijk zijn, zijn uitgerust met een voorziening voor peilen.
-
-2. Als voorziening voor peilen worden aangemerkt:
-
-- a. peilinrichtingen ingericht voor aflezing op afstand, waarbij de aflezing van de diverse te peilen ruimten op een centrale plaats geschiedt,
-
-- b. peilinrichtingen in de vorm van peilglazen,
-
-- c. peilinrichtingen, geen peilglazen zijnde, ingericht voor aflezing aan of in de directe nabijheid van de te peilen ruimten, en
-
-- d. peilinrichtingen in de vorm van peilpijpen.
-
-3. Indien een peilinrichting als bedoeld in het tweede lid, onder a of c, wordt toegepast, is deze van een goedgekeurd type. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de constructie en aanleg van peilinrichtingen als bedoeld in het tweede lid, onder a.
-
-4. Indien een peilinrichting als bedoeld in het tweede lid, onder a, wordt toegepast, is de desbetreffende tank of ruimte tevens uitgerust met een voorziening voor de controle van het juiste vloeistofniveau.
-
-5. Het vierde lid is niet van toepassing op kleinere tanks, met inbegrip van sludge-, buffer- en lekolietanks, smeerolieaflooptanks, koelwater- en ketelwatertanks alsmede vullingen van laadruimten.
-
-6. De voorziening voor peilen op de vullingen van laadruimten bestaat uit een peilinrichting als bedoeld in het tweede lid, onder a, c of d.
-
-7. Indien een tankschip is uitgerust met een inertgassysteem, is de peilinrichting voor de ladingtanks van het gesloten type.
-
-8. De voorzieningen voor peilen van ladingtanks aan boord van gas- en chemicaliëntankschepen voldoen aan bij ministeriële regeling gestelde nadere regels.
-
-9. Waar peilpijpen worden toegepast, komen deze zo veel mogelijk op een veilige en toegankelijke plaats uit boven het vrijboorddek, op een passagiersschip tevens boven het schottendek. Waar redelijkerwijs niet aan deze eis kan worden voldaan, kan het Hoofd van de Scheepvaartinspectie toestaan dat kortere peilpijpen worden toegepast. Korte peilpijpen die onder het vrijboorddek of op een passagiersschip onder het schottendek uitkomen, zijn voorzien van een zelfsluitende kraan. Indien de tanks brandbare vloeistoffen bevatten, wordt tevens voldaan aan het bepaalde in [artikel 15, leden 2.6, 3 en 4, van bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
-
-10. Onder peilpijpen zijn stootplaatjes aangebracht.
-
-11. Indien peilpijpen door laadruimten worden gevoerd, zijn zij aldaar en aan dek zodanig beschermd of zodanig sterk dat zij door het verschuiven van lading niet kunnen worden beschadigd.
-
-12. Indien op drinkwatertanks peilpijpen zijn aangebracht, reiken deze ten minste 15 cm boven het dek.
+Vervallen
 
 ##### Artikel 44. Openingen in de huid, de dekken en de bovenbouw; luchtkokers
 
-1. Openingen in het scheepsboord, als toegangs-, laad- en kolenpoorten moeten door deugdelijke afsluitingsmiddelen van voldoende sterkte waterdicht kunnen worden gesloten.
-
-2. Openingen in de eindschotten van een gesloten bovenbouw en openingen in de aan weer en wind blootgestelde gedeelten van de dekken moeten op doeltreffende wijze door deugdelijke afsluitingsmiddelen tegen weer en wind kunnen worden afgesloten.
-
-3. Paalmasten en laadpalen, die als luchtkokers zijn ingericht alsmede niet afneembare luchtkokers moeten zijn voorzien van goed sluitende dempers die aan dek kunnen worden bewogen. Indien afneembare luchtkokers een zodanige diameter, lengte of gewicht hebben dat het afnemen hiervan bezwaarlijk is, kan het Hoofd van de Scheepvaartinspectie voorschrijven dat ook deze van goed sluitende dempers moeten zijn voorzien.
-
-Standaanwijzers die aangeven of de demper de doorgang openlaat dan wel afsluit, moeten aanwezig zijn.
-
-4. De in de vorige leden van dit artikel genoemde openingen en luchtkokers moeten bovendien voldoen aan de eisen gesteld in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
-
-Aan boord van een passagiersschip moeten de in het eerste en tweede lid van dit artikel genoemde openingen tevens voldoen aan de eisen gesteld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 45. Toegangen, uitgangen en liften
 
-- a. De toegangen naar de verblijven van de opvarenden moeten te allen tijde buiten ruimten voor machines – als bedoeld in [artikel 3, onder 20, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) – om, behoorlijk bereikbaar zijn. Daarbij dient rekening te worden gehouden met de eisen gesteld in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) van dit besluit.
-
-- b. Het gestelde onder a. van dit lid geldt eveneens ten aanzien van de plaatsen waar de schepelingen hun werk plegen te verrichten, tenzij deze plaatsen geheel in de ruimten voor machines zijn gelegen.
-
-2. Ruimten voor machines mogen niet in rechtstreekse verbinding staan met de verblijven voor passagiers en bemanning.
-
-3. In en vanuit alle voor passagiers en bemanning bestemde ruimten en ruimten waarin door de bemanning onder normale omstandigheden dienst wordt gedaan, alsmede in ruimten van bijzondere aard als bedoeld in [artikel 3, onder 18, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), in ro/ro laadruimten als bedoeld in [artikel 3, onder 14, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), en in iedere ruimte voor machines moeten de nodige voorzieningen voor ontsnapping zijn aangebracht om het inschepingsdek voor de reddingboten en reddingvlotten snel te kunnen bereiken. Daarbij dient, voorzover van toepassing, te zijn voldaan aan het bepaalde in de [artikelen 28 en 45 van bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
-
-- a. Aan boord van een passagiersschip moet de breedte van trappen, deuropeningen en gangen voldoen aan het bepaalde in [artikel 28a van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
-
-- b. Aan boord van een schip geen passagiersschip zijnde, moet de breedte van trappen, deuropeningen en gangen voldoen aan het bepaalde in [artikel 45a van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) .
-
-5. De constructieve brandbescherming van liftschachten dient, voorzover van toepassing, te voldoen aan het bepaalde in [artikel 29, derde lid, en artikel 46, eerste lid, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
-
-- a. Personenliften en roltrappen die aan boord zijn opgesteld moeten zijn voorzien van een certificaat. Zulk een certificaat wordt afgegeven, nadat bij een eerste of een hernieuwd onderzoek is gebleken dat aan de desbetreffende eisen, geldend bij of krachtens dit besluit, is voldaan.
-
-- b. Onderzoeken aan liften en roltrappen worden verricht door een keuringsinstantie, aangewezen krachtens [artikel 5, eerste lid, van de Wet op de gevaarlijke werktuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002087&artikel=5) of door een klassebureau.
-
-- c. Degene die het certificaat afgeeft, stelt daarbij vast voor welk tijdvak dit zal gelden, met dien verstande dat dit tijdvak niet langer mag zijn dan vijf jaar. Degene die het jaarlijks of het tussentijds onderzoek heeft verricht, plaats bij een gunstige uitslag van dit onderzoek een aantekening op het certificaat dat het onderzoek heeft plaatsgevonden.
-
-- d. Personenliften en roltrappen die niet voldoen aan het gestelde onder a, worden buiten gebruik gesteld.
+Vervallen
 
 ##### Artikel 46. Bescherming van de bemanning
 
-Ter bescherming van de bemanning moeten:
-
-- a. op alle aan weer en wind blootgestelde dekken, alsmede voor het gaan naar of het komen van hun verblijven, voortstuwingsruimten en alle andere gedeelten die nodig zijn voor de behandeling van het schip, voorzieningen zijn aangebracht in overeenstemming met het bepaalde in [artikel 25 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06);
-
-- b. waar nodig in verblijven, voortstuwingsruimten en alle andere gedeelten die nodig zijn voor de behandeling van het schip, deugdelijk relingwerk, handleiders of andere afdoende middelen zijn aangebracht.
+Vervallen
 
 ##### Artikel 47. Waterlozing
 
-Alle aan weer en wind blootgestelde dekken moeten zijn voorzien van voldoende inrichtingen om zo spoedig mogelijk van overkomend water te worden bevrijd. Deze inrichtingen moeten voldoen aan het bepaalde in [artikel 24 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 48. Afsluiting buitenboordsopeningen
 
-1. Buitenboordsin- en -uitlaatopeningen van pijpleidingen, behorende tot de werktuiglijke inrichting, moeten voldoen aan het bepaalde in [het tweede en vijfde lid van artikel 22 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
-
-2. Buitenboordsuitlaten, andere dan die bedoeld in het eerste lid van dit artikel, moeten voldoen aan het bepaalde in [het eerste, derde en vijfde lid van artikel 22 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) en, voorzover het een passagiersschip betreft, bovendien aan het bepaalde in artikel 17, achtste en negende lid, van bijlage II van dit besluit.
+Vervallen
 
 ##### Artikel 49. De brug van een schip
 
-1. Aan boord van elk schip moeten de inrichting en indeling van de brug, alsmede de plaatsing van de daarin opgestelde apparatuur, zodanig zijn dat een doelmatige en veilige navigatie mogelijk is.
-
-2. De plaats van de brug dient zodanig te zijn gekozen dat:
-
-- a. de roerganger vanaf de plaats waar het schip wordt bestuurd een vrij uitzicht over het voorschip heen heeft;
-
-- b. het uitzicht rondom voldoende is om veilig te kunnen manoeuvreren en navigeren;
-
-- c. de scheepszijden vanaf de brug waarneembaar zijn, tenzij de bedrijfsvoering zich hiertegen verzet. In dat geval kan het Hoofd van de Scheepvaartinspectie toestaan dat de brug niet over de gehele breedte van het schip doorloopt.
+Vervallen
 
 ##### Artikel 50. Stuurinrichtingen en roer
 
-De stuurinrichtingen en het roer moeten voldoen aan het bepaalde in [artikel 29 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) en, voorzover van toepassing, aan het bepaalde in [artikel 30 van die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 51. Anker- en meergerei
 
-1. De ankers moeten in voldoend aantal aanwezig en van voldoende gewicht en sterkte zijn. De ankerkettingen of ankertouwen moeten van voldoende lengte, gewicht en sterkte zijn, terwijl elk van de ankerkettingen uit de nodige, onderling verbonden, losneembare einden moet bestaan. Er moet een reserve anker- en kettingsluiting aan boord aanwezig zijn.
-
-2. Uit een certificaat, afgegeven na een onderzoek, dient te blijken dat de ankers en kettingen voldoen aan de regels die ter zake zijn opgesteld door een klassebureau.
-
-3. De ankerkettingen moeten zodanig aan het schip zijn bevestigd, dat zij buiten de kettingbak kunnen worden ontsloten.
-
-4. De voor een schip bestemde ankerkettingen mogen niet worden gebruikt voor het remmen tijdens het te water lopen van het schip.
-
-5. De ankerinrichting moet, wat bouw, plaatsing en vermogen betreft, zodanig zijn, dat de ankers gemakkelijk en snel kunnen worden bediend, terwijl een bijzondere borginrichting van de ankers aanwezig moet zijn, die het uitlopen ten gevolge van schok of stoot voorkomt.
-
-6. Al het aan boord aanwezige meergerei moet van voldoende sterkte zijn en moet geschikt zijn voor het beoogde gebruik.
+Vervallen
 
 ##### Artikel 52. Bescherming tegen brand
 
-Bij de constructie, de indeling en de inrichting van elk schip moeten voor de bescherming tegen brand de nodige voorzorgen zijn getroffen. Daartoe moet worden voldaan, voorzover van toepassing, aan het bepaalde in [bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 53
 
@@ -722,7 +452,7 @@ Vervallen
 
 ##### Artikel 57. Gebruik van vloeibare brandstof
 
-Met betrekking tot het gebruik van vloeibare brandstof voor voortstuwingswerktuigen en andere werktuigen dient te worden voldaan aan het bepaalde in, voorzover van toepassing, [artikel 15, eerste lid, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 58
 
@@ -730,9 +460,7 @@ Vervallen
 
 ##### Artikel 59. Lensinrichting
 
-1. Elk gedeelte van het schip, voorzover het Hoofd van de Scheepvaartinspectie het hiervoor vatbaar acht, en elke waterdichte afdeling die niet permanent is bestemd voor de berging van olie of water, moet onder alle omstandigheden die in de praktijk van een ramp kunnen voorkomen, hetzij het schip recht ligt dan wel slagzij heeft, door een lensinrichting kunnen worden lensgepompt. Aan boord van een werktuiglijk voortbewogen schip moet deze lensinrichting voldoen aan het bepaalde in [bijlage III van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=III&z=2002-02-06&g=2002-02-06). Aan boord van schepen, geen werktuiglijk voortbewogen schepen zijnde, moet de lensinrichting voldoen aan het door het Hoofd van de Scheepvaartinspectie te stellen eisen.
-
-2. Indien in een gedeelte van een schip door de aard van het bedrijf of om andere redenen ongewenste hoeveelheden water kunnen voorkomen, kan het Hoofd van de Scheepvaartinspectie bijzondere voorzieningen voorschrijven voor het lenzen van dit gedeelte.
+Vervallen
 
 ##### Artikel 60
 
@@ -744,7 +472,7 @@ Vervallen
 
 ##### Artikel 62. Elektrische installatie
 
-De elektrische installatie moet voldoen aan de eisen gesteld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) en [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) van dit besluit, voorzover van toepassing.
+Vervallen
 
 ##### Artikel 63
 
@@ -752,55 +480,33 @@ Vervallen
 
 ##### Artikel 63a. Bescherming tegen geluidhinder
 
-Aan boord van een schip moeten maatregelen worden getroffen om geluidhinder te beperken. In ruimten voor machines moet daartoe worden voldaan aan het bepaalde in [artikel 36 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) . In overige ruimten moet daartoe worden voldaan aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
+Aan boord van een schip moeten maatregelen worden getroffen om geluidhinder te beperken. In ruimten voor machines moet daartoe worden voldaan aan het bepaalde in [artikel 36 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2005-01-01&g=2005-01-01) . In overige ruimten moet daartoe worden voldaan aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
 
 ##### Artikel 64. Verblijven voor de bemanning
 
-1. De verblijven van de schepelingen moeten voldoen aan de eisen gesteld in het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985).
-
-2. De verblijven van de kapitein moeten ten minste voldoen aan de eisen als bedoeld in het eerste lid van dit artikel.
+Vervallen
 
 ##### Artikel 64a. Berging van voeding en drinkwater
 
-De berging van de voeding en het drinkwater moet voldoen aan de eisen gesteld in het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985).
+Vervallen
 
 ##### Artikel 65. Slijtage
 
-De samenstellende delen van de scheepsromp en van de werktuigen en inrichtingen, die van belang kunnen zijn voor de veiligheid van schip en opvarenden, mogen niet te veel zijn ingeteerd of versleten. Assen mogen niet op gevaarlijke wijze zijn verzakt.
+Vervallen
 
 ### Hoofdstuk V. Uitwatering, diepgang en stabiliteit
 
 ##### Artikel 66. Uitwaterings- en diepgangsmerken
 
-1. Het Hoofd van de Scheepvaartinspectie stelt voor alle schepen, met uitzondering van dokken en andere soortgelijke drijvende voorwerpen, het vrijboord vast voor reizen in de gebieden als omschreven in [hoofdstuk V van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06), zomede de vermindering voor zoetwater voor elk vrijboord.
-
-2. Het vrijboord en de vermindering voor zoetwater als bedoeld in het eerste lid van dit artikel worden vastgesteld in overeenstemming met de in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) gegeven voorschriften.
-
-3. Het Hoofd van de Scheepvaartinspectie kan een vrijboord toekennen dat groter is dan dat vastgesteld in overeenstemming met het bepaalde in het tweede lid van dit artikel.
-
-4. Het berekenen van het vrijboord en het aanbrengen van de uitwateringsmerken en deklijnen kan, mits onder toezicht vanwege het Hoofd van de Scheepvaartinspectie, door een klassebureau geschieden.
-
-5. De uitwateringsmerken en de deklijn moeten aan elke zijde van het schip zijn aangebracht op de wijze als in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) is omschreven.
-
-6. Op voor- en achterschip moeten diepgangsmerken zijn aangebracht, die het mogelijk maken zowel aan stuurboords- als aan bakboordszijde de diepgang vóór en achter af te lezen.
-
-7. Aan boord van een schip waarvoor een vrijboord is vastgesteld, moet een afschrift van het vrijboordrapport aanwezig zijn.
-
-8. Aan boord van schepen, met uitzondering van sleepboten, baggermaterieel, dokken en andere soortgelijke drijvende voorwerpen, moet een schaal van waterverplaatsing aanwezig zijn.
+Vervallen
 
 ##### Artikel 67. Houtvaart
 
-1. Indien een schip aan de in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06)gestelde bijzondere eisen voor dieper afladen voldoet, kan het Hoofd van de Scheepvaartinspectie overeenkomstig de mede in die bijlage aangegeven regelen een vermindering van vrijboord toestaan bij vervoer van deklasten hout. In dat geval moeten de lijnen van de houtvaartuitwatering (houtvaartmerken) aan elke zijde van het schip zijn aangebracht als in die bijlage is omschreven.
-
-2. Het laden tot het van toepassing zijnde uitwateringsmerk voor de houtvaart, als bedoeld in het voorgaande lid, is echter slechts toegestaan indien de kuilen op het vrijboorddek met hout zijn gevuld tot een hoogte, die ten minste gelijk is aan de standaardhoogte van de bovenbouw, geen verhoogd halfdek zijnde, vastgesteld in overeenstemming met het bepaalde in [artikel 33 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 67a. Stabiliteit
 
-1. Tezamen met de resultaten van de hellingproef als bedoeld in [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2002-02-06&g=2002-02-06), dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
-
-2. Aan de kapitein moeten voldoende nauwkeurige en betrouwbare gegevens betreffende de stabiliteit bij hellingen van het schip ter beschikking worden gesteld, opdat op een snelle en eenvoudige wijze de stabiliteit van het schip in verschillende bedrijfstoestanden kan worden beoordeeld. Indien het schip wijzigingen heeft ondergaan die van enige invloed zijn op de aan de kapitein afgegeven stabiliteitsgegevens, moeten hem gewijzigde gegevens ter beschikking worden gesteld.
-
-3. Aan de kapitein van een chemicaliëntanker of een gastanker moeten goedgekeurde gegevens ter beschikking worden gesteld die nodig zijn om in alle voorkomende bedrijfsomstandigheden voor een voldoende stabiliteit in onbeschadigde toestand te kunnen zorg dragen, opdat het schip elke beschadiging als door het Hoofd van de Scheepvaartinspectie aan te geven, kan doorstaan.
+1. Tezamen met de resultaten van de hellingproef als bedoeld in [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01), dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
 
 ### Hoofdstuk VI. Uitrusting
 
@@ -808,7 +514,7 @@ De samenstellende delen van de scheepsromp en van de werktuigen en inrichtingen,
 
 ##### Artikel 67b. Reddingmiddelen en -voorzieningen
 
-Aan boord van elk schip moeten de reddingmiddelen en -voorzieningen aanwezig zijn als voorgeschreven in [bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 68
 
@@ -890,79 +596,19 @@ Vervallen
 
 ##### Artikel 87. Voorzieningen voor overnemen loods
 
-1. Aan boord van een schip dat reizen maakt waarbij het waarschijnlijk is dat van een loods gebruik zal worden gemaakt, zijn deugdelijke voorzieningen aanwezig die de loods in staat stellen veilig aan en van boord te gaan.
-
-2. Deze voorzieningen zijn schoon, worden in goede staat gehouden en worden regelmatig nagezien.
-
-3. Het gereedmaken van de voorzieningen voor het overnemen van de loods en het aan en van boord gaan van een loods geschiedt onder toezicht van een verantwoordelijke officier van het schip die beschikt over middelen om met de brug te communiceren en die de loods via een veilige weg naar en vanaf de brug begeleidt. Scheepsgezellen, belast met het gereedmaken en bedienen van mechanische voorzieningen, worden onderricht in het werken hiermee. Deze voorzieningen worden voor gebruik getest.
-
-4. De voorzieningen zijn geschikt voor gebruik aan beide zijden van het schip.
-
-5. Op alle schepen waar de verticale afstand tussen het wateroppervlak en het punt van aan en van boord gaan meer dan 9 meter bedraagt en het de bedoeling is de loods aan boord te nemen of te ontschepen met gebruik van de valreep of een mechanische loodsladder, of op een andere even veilige en gemakkelijke wijze in combinatie met een loodsladder, zijn deze voorzieningen aan beide zijden aangebracht, tenzij zij zodanig verplaatsbaar zijn dat ze aan beide zijden kunnen worden gebruikt.
-
-6. Teneinde veilig en gemakkelijk aan en van boord te gaan is het schip voorzien van:
-
-- a. een loodsladder, die vanaf het wateroppervlak een klim vergt van ten minste 1,5 meter en ten hoogste 9 meter, en die zodanig veilig is opgehangen dat hij:
-
-- 1°. vrij hangt van alle mogelijke spuipijpen van het schip;
-
-- 2°. evenwijdig aan het vlak van kiel en stevens en, voorzover uitvoerbaar, binnen een kwart scheepslengte vanuit midscheeps hangt;
-
-- 3°. met alle treden stevig tegen de scheepshuid rust, met dien verstande dat waar speciale constructies zoals berghouten, verhinderen dat de treden van de loodsladder stevig tegen de scheepshuid rusten, maatregelen getroffen zijn om het aan of van boord gaan veilig te kunnen doen geschieden;
-
-- 4°. uit een enkele lengte bestaat en lang genoeg is om vanaf de inschepingsplaats aan boord het water te bereiken, rekening houdend met alle beladingstoestanden van het schip, met kop- en stuurlast en met slagzij naar de andere zijde van 15 graden, met dien verstande dat de bevestigingspunten, sluitingen en sjordraden ten minste even sterk zijn als de zijleiders; of
-
-- b. een valreep in combinatie met een loodsladder, of iedere andere gelijkwaardige en veilige oplossing, indien de afstand van het wateroppervlak tot de inschepingsplaats groter is dan 9 meter, met dien verstande dat de valreep naar het achterschip wijst, en als de valreep gebruikt wordt het onderste deel stevig tegen dat deel van de scheepshuid rust dat evenwijdig loopt met het vlak van kiel en stevens, en dat, voorzover uitvoerbaar, binnen een kwart scheepslengte vanuit midscheeps ligt en vrij is van mogelijke spuipijpen; of
-
-- c. een mechanische loodsladder, zodanig opgesteld dat hij evenwijdig aan het vlak van kiel en stevens en, voorzover uitvoerbaar, binnen een kwart scheepslengte vanuit midscheeps, vrij is van mogelijke spuipijpen.
-
-7. Er zijn voorzieningen aanwezig ten einde een ieder in staat te stellen op veilige, gemakkelijke en onbelemmerde wijze vanaf het boveneinde van de loodsladder, de valreep of elk ander middel aan dek te stappen of omgekeerd. Als het overstappen geschiedt door een opening in het hekwerk of de verschansing zijn handgrepen aangebracht. Als het overstappen geschiedt door middel van een verschansingstrap is deze stevig bevestigd aan het schip teneinde omvallen te voorkomen. Er zijn twee rechtopstaande houvasten aangebracht die nabij de onderzijde alsmede op een hoger gelegen punt stevig aan het schip bevestigd zijn.
-
-8. Zijdeuren in het schip die gebruikt worden voor het aan boord nemen of ontschepen van een loods, openen, voorzover redelijkerwijs uitvoerbaar, niet naar buiten toe.
-
-9. De mechanische loodsladder en bijbehorende uitrusting zijn van een goedgekeurd type en voldoen aan de volgende voorschriften:
-
-- a. de installatie is ontworpen om dienst te doen als een beweegbare ladder om iemand via de zijde van het schip aan of van boord te brengen of als een platform om een of meerdere personen via de zijde van het schip aan of van boord te brengen;
-
-- b. de installatie is zodanig ontworpen en gebouwd dat de loods veilig aan of van boord kan gaan, waaronder mede wordt begrepen een veilige toegang van de ladder naar het dek en omgekeerd, met dien verstande dat dit kan worden bereikt door middel van een platform voorzien van een hekwerk;
-
-- c. een doelmatige handbediening is aanwezig en voor gebruik gereed, teneinde de persoon of personen die vervoerd worden te kunnen laten zakken of ophalen in geval van een stroomstoring;
-
-- d. de hijsinrichting is stevig aan het schip bevestigd met dien verstande dat de hijsinrichting niet uitsluitend aan de verschansing van het schip bevestigd is en indien de hijsinrichting verplaatsbaar is, het schip aan elke zijde voorzien is van goede en sterke bevestigingspunten;
-
-- e. indien een berghout of stootrand is aangebracht op de plaats van de hijsinrichting, dan is die zodanig onderbroken, dat de loodsladder tegen de scheepshuid komt te rusten;
-
-- f. naast de hijsinrichting is een loodsladder zodanig voor onmiddellijk gebruik gereedgemaakt, dat op elk punt hierop kan worden overgestapt en de loodsladder lang genoeg is om vanaf de inschepingsplaats aan boord het water te bereiken;
-
-- g. de plaats op de scheepshuid waar de hijsinrichting wordt neergelaten is aangegeven;
-
-- h. een verplaatsbare hijsinrichting is op een beschermde plaats opgeborgen;
-
-- i. teneinde het gevaar van ijsafzetting te vermijden wordt bij koud weer de verplaatsbare hijsinrichting vlak voor gebruik gereedgemaakt.
-
-10. De volgende bijbehorende uitrusting is voor onmiddellijk gebruik gereed tijdens het overnemen van personen:
-
-- a. twee handleiders, stevig aan het schip bevestigd, met een diameter van ten minste 0,028 meter;
-
-- b. een reddingboei voorzien van een zelfontbrandend licht;
-
-- c. een hieuwlijn.
-
-11. Er is een doelmatige voorziening aanwezig om de overneemuitrusting buitenboord, de plaats aan dek waar iemand aan boord wordt genomen of ontscheept en de bediening van de mechanische loodsladder te verlichten.
-
-12. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de constructie van loodsladders.
+Vervallen
 
 ##### Artikel 88. Middelen voor het opsporen en bestrijden van brand
 
-Aan boord van elk schip moeten middelen voor het opsporen en bestrijden van brand aanwezig zijn volgens de in [bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) gegeven voorschriften.
+Vervallen
 
 ##### Artikel 89. Veiligheidslampen
 
-Aan boord van een schip moet ten minste één elektrische veiligheidslamp van een goedgekeurd type aanwezig zijn om te gebruiken in ruimten waar dampen die tot een ontploffing aanleiding kunnen geven, kunnen worden verwacht. Een elektrische veiligheidslamp moet voldoen aan het bepaalde in [artikel 45, lid 10.2, van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 89a. Beschermende uitrusting
 
-Aan boord van een schip moeten de nodige middelen aanwezig zijn ter persoonlijke bescherming van de schepelingen tegen letsel dat uit door hen te verrichten werkzaamheden zou kunnen voortvloeien.
+Vervallen
 
 ##### Artikel 90
 
@@ -978,13 +624,13 @@ Vervallen
 
 ##### Artikel 92a. Hefwerktuigen
 
-Uit een certificaat, afgegeven na een onderzoek, dient te blijken dat de hefwerktuigen die niet reeds krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) aan toezicht zijn onderworpen en die worden gebruikt voor bergings- en constructiewerkzaamheden, voldoen aan de regels die ter zake zijn opgesteld door een klassebureau.
+Vervallen
 
 ##### Artikel 93. Medische uitrusting aan boord
 
-1. Aan boord van een schip is de bij ministeriële regeling voorgeschreven medische uitrusting, bestaande uit geneesmiddelen, verplegingsartikelen en antidota, met de daarbij behorende controlelijsten en handleidingen, aanwezig volgens de voorschriften, vervat in [Bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVI&z=2002-02-06&g=2002-02-06).
+1. Aan boord van een schip is de bij ministeriële regeling voorgeschreven medische uitrusting, bestaande uit geneesmiddelen, verplegingsartikelen en antidota, met de daarbij behorende controlelijsten en handleidingen, aanwezig volgens de voorschriften, vervat in [Bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVI&z=2005-01-01&g=2005-01-01).
 
-2. De kapitein is verplicht zorg te dragen dat de medische uitrusting in goede staat verkeert, wordt aangevuld en zonodig wordt vernieuwd, zodra dit mogelijk is, in ieder geval bij voorrang tijdens de normale bevoorradingsprocedures. Hij kan het gebruik en het beheer van de medische uitrusting aan boord, onverminderd zijn eigen verantwoordelijkheid, overdragen aan een of meer schepelingen die voldoen aan de eisen, bedoeld in [artikel 117a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=117a&z=2002-02-06&g=2002-02-06).
+2. De kapitein is verplicht zorg te dragen dat de medische uitrusting in goede staat verkeert, wordt aangevuld en zonodig wordt vernieuwd, zodra dit mogelijk is, in ieder geval bij voorrang tijdens de normale bevoorradingsprocedures. Hij kan het gebruik en het beheer van de medische uitrusting aan boord, onverminderd zijn eigen verantwoordelijkheid, overdragen aan een of meer schepelingen die voldoen aan de eisen, bedoeld in [artikel 117a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=117a&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 93a. Wachtalarminstallatie
 
@@ -994,145 +640,47 @@ Aan boord van een schip, geen klein vaartuig zijnde, dat is voorzien van een aut
 
 ##### Artikel 94. Zeekaarten enzovoort
 
-1. Aan boord van elk schip moeten de voor de te ondernemen reis benodigde zeekaarten aanwezig zijn. Deze zeekaarten moeten van een voldoend grote schaal zijn om er behoorlijk op te kunnen navigeren.
-
-2. Aan boord van elk schip moeten voorts aanwezig zijn:
-
-- a. de voor de te ondernemen reis benodigde zeemansgidsen en lichtenlijsten;
-
-- b. de voor de te ondernemen reis benodigde stroomatlassen of -kaarten;
-
-- c. de nodige getijtafels en een zeemansalmanak van het lopende jaar;
-
-- d. hulpmiddelen voor zeevaartkundige berekeningen, indien het schip is uitgerust met een chronometer, voorgeschreven in [artikel 97, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=97&z=2002-02-06&g=2002-02-06);
-
-- e. een parallelliniaal of een stel van twee navigatiedriehoeken;
-
-- f. twee passers;
-
-- g. een betrouwbaar uurwerk.
-
-3. Zeekaarten en boekwerken moeten in goede staat verkeren en worden bijgehouden aan de hand van berichten aan zeevarenden. Zeekaarten en boekwerken, die door gebruik of anderszins onvoldoende leesbaar zijn geworden, dan wel vanwege de uitgevende instanties zijn vervallen verklaard, worden geacht niet in goede staat te verkeren.
+Vervallen
 
 ##### Artikel 95. Kompassen
 
-- a. Aan boord van een schip van minder dan 1600 ton, dat is gebouwd vóór 1 september 1984, en aan boord van een schip van minder dan 500 ton, dat is gebouwd op of na 1 september 1984, moeten ten minste twee vast opgestelde magnetische kompassen aanwezig zijn. Op één van deze kompassen, het standaardkompas, moet gepeild en op het andere, het stuurkompas, moet gestuurd kunnen worden. Van deze magnetische kompassen mag het stuurkompas worden vervangen door een gyrokompas, met dien verstande dat in een dergelijk geval op het standaardkompas tevens moet kunnen worden gestuurd.
-
-- b. In afwijking van het bepaalde onder a kan aan boord van een schip dat een door het Hoofd van de Scheepvaartinspectie vast te stellen gebied bevaart, worden volstaan met één vast opgesteld magnetisch standaardkompas, waarop zowel moet kunnen worden gepeild als gestuurd. Aan boord van een schip met een lengte over alles van minder dan 60 meter, behoeft op dit kompas niet te kunnen worden gepeild, indien een naar het oordeel van het Hoofd van de Scheepvaartinspectie gelijkwaardig elektronisch middel tot plaatsbepaling alsmede een radarinstallatie van goedgekeurd type aanwezig zijn.
-
-- c. Aan boord van een schip van 1600 ton of meer, dat is gebouwd vóór 1 september 1984, en aan boord van een schip van 500 ton of meer, dat is gebouwd op of na 1 september 1984, moet ten minste één vast opgesteld magnetisch standaardkompas aanwezig zijn waarop zowel moet kunnen worden gepeild als gestuurd. Tevens moet een gyrokompas aanwezig zijn, dat voldoet aan de volgende eisen:
-
-- (i). het gyro-moederkompas of een gyro-dochterkompas moet duidelijk afleesbaar zijn voor de roerganger vanaf de plaats waar gewoonlijk wordt gestuurd;
-
-- (ii). aan boord van een schip van 500 ton of meer moeten op de brug één of meerdere gyro-dochterkompassen aanwezig zijn, die zodanig moeten zijn opgesteld dat peilingen kunnen worden genomen over een boog van de horizon van, voorzover praktisch uitvoerbaar, 360 graden.
-
-- d. Op een schip met een noodstuurpositie moet een telefoon of ander communicatiemiddel, waarmee informatie over de voorliggende koers van het schip naar die positie kan worden doorgegeven, aanwezig zijn. In aanvulling daarop moeten aan bood van zulk een schip van 500 ton of meer en gebouwd op of na 1 februari 1992 bij de noodstuurpositie voorzieningen zijn getroffen waarmee het kompas waarop wordt gestuurd kan worden afgelezen.
-
-- a. De in het eerste lid voorgeschreven magnetische kompassen moeten geschikt zijn voor het doel waarvoor zij zijn bestemd en dienen in het vlak van kiel en stevens te zijn opgesteld. De opstellingsplaatsen van alle kompassen, met inbegrip van alle magnetische elementen ten behoeve van de navigatie, het sturen en de controle daarop, moeten doelmatig zijn en zodanig zijn gekozen, dat deze instrumenten, rekening houdend met het doel waarvoor zij worden gebruikt, geen onaanvaardbare storing ondervinden van in hun nabijheid geplaatste ijzermassa's en elektrische leidingen. Hiertoe moeten tijdig de aanwijzingen worden gevraagd van het Hoofd van de Scheepvaartinspectie. Deze aanwijzingen dienen eveneens te worden gevraagd indien aan schip of uitrusting wijzigingen worden aangebracht, die invloed kunnen hebben op de goede werking van deze magnetische kompassen.
-
-- b. Bij de aanleg van elektrische leidingen in de nabijheid van magnetische kompassen moet rekening worden gehouden met het daaromtrent bepaalde in [artikel 45d van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-- c. Ter plaatse van een magnetisch kompas waarop moet kunnen worden gepeild, dient een vrij uitzicht te zijn over een boog van de horizon van, voorzover uitvoerbaar, 360 graden, doch in ieder geval van niet minder dan 230 graden, gerekend van recht vooruit tot 25 graden achterlijker dan dwars aan elke zijde.
-
-- d. Er dient een doelmatige voorziening aanwezig te zijn voor communicatie tussen de plaats waar het magnetisch standaardkompas staat opgesteld en de plaats vanwaar gewoonlijk de navigatie wordt gevoerd.
-
-- a. De horizontale en verticale scheepsmagnetische storingsvelden ter plaatse van de magnetische kompassen en van de magnetische elementen moeten door een bevoegd persoon behoorlijk zijn gecompenseerd, onder afgifte van een foutentabel voor elk magnetisch kompas en een verklaring voor elk magnetisch element.
-
-- b. Bij elk magnetisch kompas dient een foutentabel aanwezig te zijn.
-
-- c. Telkenmale wanneer zich omstandigheden hebben voorgedaan die van invloed kunnen zijn op de gevonden fouten, dient hercompensatie plaats te vinden door een bevoegd persoon.
-
-- d. Telkenmale wanneer een ambtenaar van de Scheepvaartinspectie dit nodig oordeelt en in ieder geval eenmaal per jaar dienen de fouten van elk magnetisch kompas door een bevoegd persoon te worden geverifieerd, tenzij uit aantekeningen van de kapitein blijkt dat deze fouten op zee door waarnemingen geregeld worden geverifieerd en zij binnen redelijke grenzen blijven.
-
-- e. Indien de verificaties, bedoeld onder d, naar het oordeel van een ambtenaar van de Scheepvaartinspectie daartoe aanleiding geven, dient hercompensatie ten behoeve van het magnetisch kompas en tevens van elk magnetisch element door een bevoegd persoon plaats te vinden.
-
-- f. De aanwijzing van de onder a, c, d en e bedoelde bevoegde personen geschiedt door Onze Minister, die tevens nadere regels kan stellen met betrekking tot de werkzaamheden van die personen.
-
-4. Voor het magnetisch kompas, bedoeld onder c van het tweede lid, moet een peilinrichting aanwezig zijn. Aan boord van een schip van 1600 ton of meer moet tevens een peilinrichting aanwezig zijn voor het gyrokompas, bedoeld onder c van het eerste lid.
-
-5. De in dit artikel bedoelde magnetische kompassen en gyrokompassen moeten van een goedgekeurd type zijn.
+Vervallen
 
 ##### Artikel 95a. Radarinstallaties en automatische radar-plot-apparatuur
 
-1. Een schip van 500 ton of meer doch minder dan 10 000 ton, gebouwd op of na 1 september 1984, en een schip van 1600 ton of meer doch minder dan 10 000 ton, gebouwd vóór 1 september 1984, moeten zijn voorzien van ten minste één radarinstallatie.
-
-2. Vanaf 1 februari 1995 moeten een passagiersschip van minder dan 10 000 ton en een vrachtschip van 300 ton of meer doch minder dan 10 000 ton zijn voorzien van tenminste één radarinstallatie, welke moet kunnen werken in de 9 Ghz band.
-
-3. Een schip van 10 000 ton of meer moet zijn voorzien van ten minste twee radarinstallaties die in staat zijn onafhankelijk van elkaar te werken. Ten minste één van deze radarinstallaties moet vanaf 1 februari 1995 kunnen werken in de 9 Ghz band.
-
-4. Op de brug van een schip dat ingevolge één der voorgaande leden is voorzien van een radarinstallatie, moeten plotvoorzieningen aanwezig zijn. Op een schip van 1600 ton of meer, gebouwd op of na 1 september 1984, moeten deze voorzieningen ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
-
-5. Automatische radar-plot-apparatuur moet aanwezig zijn op een schip van 10 000 ton of meer, behalve op een schip, geen tankschip zijnde, van minder dan 15 000 ton dat gebouwd is vóór 1 september 1984. Het Hoofd van de Scheepvaartinspectie kan hiervan ontheffing verlenen, indien het naar zijn oordeel onredelijk of onnodig is dat deze apparatuur op een schip aanwezig is.
-
-6. De in dit artikel bedoelde radarinstallatie en automatische radar-plot-apparatuur moeten van een goedgekeurd type zijn.
+Vervallen
 
 ##### Artikel 96. Richtingzoekers
 
-1. Een schip van 1600 ton of meer, gebouwd op of na 1 september 1980, doch vóór 1 februari 1995, moet tot 1 februari 1999 zijn voorzien van radio-apparatuur bestemd voor het peilen recht vooruit («homing») op de radiotelefonie noodfrequentie.
-
-2. Een schip van 1600 ton of meer is voorzien van een richtingzoeker of van een ander elektronisch navigatiemiddel. De apparatuur is van een goedgekeurd type en wordt geplaatst ten genoegen van het Hoofd van de Scheepvaartinspectie.
+Vervallen
 
 ##### Artikel 97. Overige nautische instrumenten
 
-1. Behoudens aan boord van schepen die een door het Hoofd van de Scheepvaartinspectie vast te stellen beperkt gebied bevaren, moet aan boord van elk schip ten minste één hoekmeetinstrument aanwezig zijn, waarvan de fouten bekend zijn.
-
-2. Behoudens aan boord van schepen die een door het Hoofd van de Scheepvaartinspectie vast te stellen beperkt gebied bevaren, moet aan boord van elk schip ten minste één deugdelijke chronometer aanwezig zijn, waarvan stand en gang bekend zijn.
-
-3. Aan boord van elk schip moet ten minste één barometer aanwezig zijn.
-
-4. Aan boord van elk schip moet een deugdelijke kijker aanwezig zijn.
-
-5. Aan boord van elk schip moet een echolood aanwezig zijn.
-
-6. Behoudens aan boord van schepen die een door het Hoofd van de Scheepvaartinspectie vast te stellen beperkt gebied bevaren, moet aan boord van elk schip een log aanwezig zijn. Aan boord van schepen van 500 ton of meer, gebouwd op of na 1 september 1984, moet deze log de vaart en verheid aangeven. Aan boord van schepen die zijn uitgerust met automatische radar-plot-apparatuur als bedoeld in [artikel 95a, vijfde lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=95a&z=2002-02-06&g=2002-02-06), moet deze log de vaart en verheid door het water aangeven.
-
-7. Aan boord van een schip moet een roerstandaanwijzer, een tachometer voor elke schroef en bovendien, indien het schip is voorzien van verstelbare schroeven of schroeven met zijdelingse stuwkracht, een instrument dat de spoed en wijze van gebruik van die schroeven aangeeft, aanwezig zijn. Deze instrumenten moeten afleesbaar zijn vanaf de plaats waar de navigatie wordt gevoerd.
-
-8. Aan boord van een schip van 100 000 ton of meer, dat is gebouwd op of na 1 september 1984, moet een bochtaanwijzer aanwezig zijn.
-
-9. De instrumenten bedoeld in het zesde tot en met negende lid moeten van een goedgekeurd type zijn en voldoen aan de door het Hoofd van de Scheepvaartinspectie ter zake gestelde regels.
-
-10. Alle in het eerste, tweede en derde lid bedoelde nautische instrumenten moeten zijn voorzien van een fabriekscertificaat. De instrumenten, bedoeld in het zesde tot en met het negende lid, moeten van een goedgekeurd type zijn en voldoen aan de bij ministeriële regeling gestelde regels.
+Vervallen
 
 ##### Artikel 98. Handboek Opsporing en Redding op Zee (Mersar), lijst van reddingseinen, dagseinlamp, Internationaal Seinboek en seinvlaggen
 
-1. Aan boord van elk schip moet het Handboek Opsporing en Redding op Zee (Mersar), alsmede een door het Hoofd van de Scheepvaartinspectie vastgestelde lijst van reddingseinen aanwezig zijn. Dit handboek en deze lijst moeten steeds op de brug bij de hand zijn.
-
-2. Aan boord van een schip van 150 ton of meer moet een dagseinlamp van een goedgekeurd type aanwezig zijn. De dagseinlamp moet ook kunnen worden gevoed door de noodkrachtbron van het schip.
-
-3. Aan boord van een schip van 150 ton of meer moet het Internationaal Seinboek aanwezig zijn.
-
-4. Aan boord van een schip van 500 ton of meer moet een volledig stel seinvlaggen aanwezig zijn.
+Vervallen
 
 ##### Artikel 99. Toepassing op gesleept wordende schepen
 
-Het bepaalde in de [artikelen 94 tot en met 98 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=94&z=2002-02-06&g=2002-02-06) is niet van toepassing op een schip dat gesleept naar zijn bestemming wordt gebracht, met dien verstande dat, indien het schip is bemand, een lood met gemerkte lijn van voldoende lengte aan boord moet zijn en moet worden voldaan aan het bepaalde in [het tweede lid van artikel 98 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=98&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 #### § 4. Hulpmiddelen ter voorkoming van aanvaringen en strandingen
 
 ##### Artikel 100. Hulpmiddelen ingevolge aanvaringsreglementen
 
-1. Aan boord van elk schip moeten de middelen aanwezig zijn om te kunnen voldoen aan de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee. Deze middelen moeten, ook met betrekking tot de opstelling aan boord, voldoen aan de eisen gesteld in genoemde bepalingen.
-
-- a. De lantaarns voorgeschreven in de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee moeten uitsluitend zijn ingericht voor elektrisch licht.
-
-- b. Behoudens aan boord van een schip van minder dan 500 ton, geen passagiersschip of een schip ingericht voor het vervoer van gevaarlijke stoffen als lading zijnde, moet aan boord van een schip voor elk van de top- en boordlantaarns en voor de heklantaarn een reservelantaarn aanwezig zijn die op de voor het gebruik bestemde plaats vast is aangebracht.
-
-- a. De elektrische installatie ten behoeve van de lantaarns en de middelen tot het geven van geluidsseinen die zijn voorgeschreven in de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee, met inbegrip van de reservelantaarns als bedoeld onder b. van het tweede lid van dit artikel, moet voldoen aan de eisen gesteld in [artikel 45b of artikel 68 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-- b. Lantaarns die ingevolge de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee aan boord aanwezig zijn, met inbegrip van alle reservelantaarns, moeten van een goedgekeurd type zijn en voorzien van een fabriekscertificaat.
-
-4. Aan boord van elk schip dat de openbare wateren in Nederland, de Nederlandse Antillen of Aruba bevaart, die voor de scheepvaart open staan, moeten bovendien de hulpmiddelen aanwezig zijn, die nodig zijn om aan de voorschriften van de ter plaatse geldende reglementen te kunnen voldoen.
+Vervallen
 
 ##### Artikel 100a. Nood-sleepvoorzieningen op tankschepen
 
-Tankschepen van 20 000 ton of meer, met inbegrip van olie-, gas- en chemicaliëntankschepen, met een draagvermogen als bedoeld in [artikel 3, onder 19, van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) zijn zowel op het voorschip als op het achterschip voorzien van een nood-sleepvoorziening, die voldoet aan bij ministeriële regeling te stellen eisen.
+Vervallen
 
 #### § 5. Radio-inrichtingen
 
 ##### Artikel 101. Radio-inrichtingen
 
-Met inachtneming van de eisen die voortvloeien uit het Radioreglement, het Besluit radio-elektrische inrichtingen (Stb. 1988, 552) en uit op het gebied van de maritieme communicatie gesloten internationale verdragen waartoe het Koninkrijk is toegetreden, moet de radio-installatie en de radiocommunicatie aan boord van een schip voldoen aan het bepaalde in [bijlage V van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2002-02-06&g=2002-02-06), aan door Onze Minister te stellen veiligheidseisen, en tevens zijn voorzien van een door Onze Minister afgegeven verklaring van toelating.
+Vervallen
 
 ##### Artikel 102
 
@@ -1150,9 +698,7 @@ Vervallen
 
 ##### Artikel 105. niet-voorgeschreven uitrusting
 
-De eigenaar van een schip moet kennis geven aan het betrokken districtshoofd van de Scheepvaartinspectie indien het schip wordt uitgerust met niet in dit hoofdstuk voorgeschreven reddingmiddelen, veiligheidsmiddelen, hulpmiddelen ter voorkoming van aanvaring en bij de plaatsbepaling, en radio-inrichtingen.
-
-Voorzover het middelen of inrichtingen betreft die in dit besluit met name zijn genoemd, moeten zij voldoen aan alle daarvoor in dit besluit omschreven eisen en in deugdelijke toestand verkeren; voorzover zij niet met name zijn genoemd dienen zij naar het oordeel van het Hoofd van de Scheepvaartinspectie voor het doel geschikt te zijn en in deugdelijke toestand te verkeren.
+Vervallen
 
 ##### Artikel 106
 
@@ -1258,49 +804,19 @@ Vervallen
 
 ##### Artikel 121. Eisen voor passagiersruimten
 
-1. Aan boord van een passagiersschip moeten de voor passagiers bestemde ruimten voldoen aan de eisen gesteld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-2. Aan boord van een schip, geen passagiersschip zijnde, moeten de voor passagiers bestemde ruimten voldoen aan de in het eerste lid van dit artikel genoemde eisen. Het Hoofd van de Scheepvaartinspectie kan echter in bijzondere gevallen, rekening houdende met de aard van het schip, afwijking van deze eisen toestaan.
+Vervallen
 
 ##### Artikel 122. Ziekenverblijf, ziekenkooi
 
-1. Aan boord van een passagiersschip, ingericht voor het vervoer van 50 passagiers of meer, moet op reizen die meer dan drie etmalen duren, een ziekenverblijf aanwezig zijn.
-
-2. Aan boord van een passagiersschip dat ingevolge het bepaalde in het eerste lid van dit artikel niet van een ziekenverblijf behoeft te zijn voorzien, moet ten minste één afzonderlijke ziekenkooi zijn ingebouwd.
-
-Het ziekenverblijf en de ziekenkooi moeten voldoen aan de navolgende eisen:
-
-- a. het ziekenverblijf moet een afzonderlijk verblijf zijn;
-
-- b. het ziekenverblijf moet doelmatig zijn gelegen, zodat de patiënten gerieflijk zijn gehuisvest;
-
-- c. het ziekenverblijf moet zo groot zijn, dat de verpleging naar behoren kan geschieden. De patiënten moeten op gemakkelijke wijze in en uit het verblijf kunnen worden gebracht. De verlichting, ventilatie en verwarming moeten ten genoegen van het Hoofd van de Scheepvaartinspectie zijn;
-
-- d. in het ziekenverblijf moet voldoende wasgelegenheid met toebehoren en afvoer van vuil water zijn aangebracht. Indien aan boord een systeem van stromend koud en warm zoet water aanwezig is, moet de wasgelegenheid daarop zijn aangesloten;
-
-- e. indien het aantal passagiers dat verblijf houdt in hutten voor meer dan één persoon, niet meer dan 30 bedraagt, moet het ziekenverblijf zijn voorzien van ten minste één slaapplaats. Bedraagt het aantal meer dan 30, dan zijn twee slaapplaatsen vereist of zoveel meer als in verband met de omstandigheden van de reis door het Hoofd van de Scheepvaartinspectie wordt vastgesteld;
-
-- f. de slaapplaatsen mogen niet boven elkaar zijn aangebracht. Hun inrichting moet ten minste voldoen aan de eisen gesteld onder j, terwijl zij binnenwerks gemeten ten minste 2,00 m lang en 0,80 m breed moeten zijn. De inrichting van de slaapplaatsen moet voldoende waarborg bieden voor wering van ongedierte en een gemakkelijke, grondige schoonmaak mogelijk maken;
-
-- g. bij het ziekenverblijf moeten een privaat en een hiervan afgescheiden badgelegenheid voor uitsluitend gebruik van de patiënten beschikbaar zijn;
-
-- h. bij het ziekenverblijf moet een ruimte aanwezig zijn waar de genees- en verbandmiddelen en verplegingsartikelen worden opgeborgen en waar medicijnen kunnen worden bereid. Deze ruimte moet tevens als verbandkamer dienen of daarmede verbonden zijn;
-
-- i. het ziekenverblijf mag niet voor andere doeleinden dan het verplegen of behandelen van zieken en gewonden worden gebruikt;
-
-- j. de ziekenkooi als bedoeld in het tweede lid, moet op de daarvoor meest geschikte plaats zijn ingebouwd en zodanig zijn ingericht, dat de zieke er gemakkelijk kan worden ingebracht en uitgenomen, waartoe zo nodig de kooiplanken wegneembaar moeten zijn.
-
-4. Het in het eerste lid van dit artikel voorgeschreven ziekenverblijf met de daarbij behorende ruimte waar de genees- en verbandmiddelen en verplegingsartikelen worden opgeborgen en waar de medicijnen worden bereid, privaat en badgelegenheid kunnen worden samengevoegd met die voorgeschreven in het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985).
-
-5. Aan boord van elk passagiersschip moet gelegenheid zijn iemand die aan een ernstige of aan een besmettelijke ziekte lijdt, afgezonderd van alle anderen behoorlijk te verplegen.
+Vervallen
 
 ##### Artikel 123. Voeding en drinkwater
 
-Ten behoeve van de passagiers moet voldoende voeding en drinkwater aanwezig zijn, waarvan de hoedanigheid en de wijze van berging gelijk moeten zijn aan die, welke voor voeding en drinkwater ten behoeve van de schepelingen zijn voorgeschreven in het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985).
+Vervallen
 
 ##### Artikel 124. Vervoer van dekpassagiers
 
-Dekpassagiers mogen slechts worden vervoerd op reizen die korter dan 48 uur duren.
+Vervallen
 
 ##### Artikel 125
 
@@ -1314,25 +830,15 @@ Vervallen
 
 ##### Artikel 127. Algemene eisen
 
-1. Het beladen en het stuwen moeten voldoen aan de eisen van goed zeemanschap opdat de lading of een gedeelte daarvan niet levendig kan worden. Daarbij dient tevens te worden voldaan aan het bepaalde in [artikel 135 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=135&z=2002-02-06&g=2002-02-06).
-
-2. Een schip dat zonder lading of met weinig lading naar zee gaat, moet zo nodig voldoende, goed in het schip geplaatst en doelmatige ballast aan boord hebben. Ballast die zou kunnen overgaan, moet hiertegen op afdoende wijze zijn verzekerd. Ten aanzien van de stabiliteit dient hierbij rekening te worden gehouden met het bepaalde in het eerste lid van dit artikel.
+Vervallen
 
 ##### Artikel 128. Vervoer van gestort graan
 
-Het vervoer van gestort graan of zaad, waaronder mede begrepen rijst en peulvruchten, is alleen toegestaan indien het geschiedt met inachtneming van de voorschriften gesteld in [bijlage XIX van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIX&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 129. Steenkool, eierkolen, steenkoolbriketten, enz.
 
-1. Het vervoer van steenkool, eierkolen, steenkoolbriketten, enzovoort, is alleen toegestaan indien het geschiedt met inachtneming van de voorschriften gesteld in dit artikel en met inachtneming van de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
-
-2. De ruimte boven een lading steenkool, eierkolen of steenkoolbriketten moet deugdelijk kunnen worden geventileerd. Een luchtstroom door de lading moet worden vermeden.
-
-3. Elke ruimte waarin de in het eerste lid van dit artikel genoemde stoffen zijn geladen, moet zijn voorzien van een voldoend aantal, ten minste twee, luchtkokers, die gelijkelijk over het voor- en achtereinde van zulk een ruimte zijn verdeeld. Deze luchtkokers moeten een middellijn hebben van ten minste 0,30 m aan boord van een schip van 1000 ton of meer en van ten minste 0,20 m aan boord van een schip van minder dan 1000 ton. De luchtkokers moeten boven de vaste gedeelten van het schip uitsteken, zodat de vrije toe- en afvoer van lucht niet wordt belemmerd. De kokers moeten voldoende sterk zijn om weerstand te kunnen bieden tegen de kracht van overkomend water bij ongunstig weer. De luchtkokers moeten doelmatig zijn ingericht, zodat zij voldoende luchtafvoer kunnen bewerkstelligen. Bovendien moeten zij zijn voorzien van middelen om bij slecht weer binnendringen van water te kunnen voorkomen. Indien kunstmatige ventilatie wordt gebezigd, dient de inrichting daarvan zodanig te zijn dat de af te voeren gasmengsels de ventilatiemotoren niet kunnen bereiken. Het materiaal en de constructie van de ventilatoren moet zodanig zijn, dat het ontstaan van vonken onder alle omstandigheden wordt voorkomen.
-
-4. In de ruimten, beladen met de in het eerste lid van dit artikel bedoelde stoffen mag geen vuur aanwezig zijn. Behalve van een vast aangebrachte elektrische verlichting, waarvoor gebruik moet worden gemaakt van explosieveilige, drukvaste kamparmaturen, mag in genoemde ruimten voor de verlichting slechts gebruik worden gemaakt van veiligheidslampen die voldoen aan de eisen gesteld in [artikel 45, lid 10.2, van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06). Andere elektrische inrichtingen, behoudens de voor de hiervoor genoemde verlichting benodigde kabels, mogen in de bedoelde ruimten niet aanwezig zijn.
-
-5. Indien in een schip dat niet in het bijzonder voor het vervoer van steenkool is ingericht, eierkolen, nootjes of dergelijke steenkoolsoorten, die gemakkelijk kunnen overgaan, worden geladen, moet zonodig gevelingen zijn aangebracht.
+Vervallen
 
 ##### Artikel 130. Gevaarlijke stoffen
 
@@ -1366,129 +872,65 @@ Klasse 9. andere stoffen die gevaar kunnen opleveren.
 
 ##### Artikel 130a. Vervoer van gestorte gevaarlijke stoffen
 
-Het vervoer van gestorte gevaarlijke stoffen als bedoeld in [artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06) is alleen toegestaan indien het geschiedt met inachtneming van de voorschriften gesteld in [artikel 54 van bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06)en in de [artikelen 4 en 5 van bijlage XVII van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVII&z=2002-02-06&g=2002-02-06), alsmede met inachtneming van de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
+Vervallen
 
 ##### Artikel 130b. Vervoer van overige gestorte ladingen
 
-Het vervoer van gestorte ladingen, andere dan graan, kolen of gevaarlijke stoffen, als bedoeld in onderscheidenlijk [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=128&z=2002-02-06&g=2002-02-06), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=129&z=2002-02-06&g=2002-02-06) en [130a van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130a&z=2002-02-06&g=2002-02-06), die
-
-- –. gemakkelijk kunnen overgaan,
-
-- –. een grote dichtheid hebben,
-
-- –. geheel of gedeeltelijk vloeibaar kunnen worden gedurende de reis,
-
-- –. gevaren van chemische aard kunnen inhouden, of
-
-- –. andere gevaarlijke eigenschappen bezitten
-
-is alleen toegestaan indien het geschiedt met inachtneming van de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
+Vervallen
 
 ##### Artikel 130c. Nadere regels voor het vervoer van gestorte lading
 
-De nadere regels bedoeld in de [artikelen 129](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=129&z=2002-02-06&g=2002-02-06), [130a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130a&z=2002-02-06&g=2002-02-06) en [130b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130b&z=2002-02-06&g=2002-02-06) zijn vermeld in een door het Hoofd van de Scheepvaartinspectie samen te stellen« Handboek Gestorte Ladingen», waarin tevens is opgenomen een opsomming van de meest voorkomende gestorte ladingen en hun eigenschappen.
+Vervallen
 
 ##### Artikel 130d. Vervoer van verpakte gevaarlijke stoffen
 
-Het vervoer van verpakte gevaarlijke stoffen als bedoeld in [artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06) is alleen toegestaan indien het geschiedt met inachtneming van de voorschriften gesteld in [artikel 54 bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) en in [bijlage XVII van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVII&z=2002-02-06&g=2002-02-06)alsmede met inachtneming van de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
+Vervallen
 
 ##### Artikel 130e. Nadere regels voor het vervoer van verpakte gevaarlijke stoffen
 
-De nadere regels, bedoeld in [artikel 130d van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130d&z=2002-02-06&g=2002-02-06), zijn vermeld in een door het Hoofd van de Scheepvaartinspectie samen te stellen «Handboek Gevaarlijke Stoffen», waarin tevens is opgenomen een opsomming van de meest voorkomende verpakte gevaarlijke stoffen en hun eigenschappen.
+Vervallen
 
 ##### Artikel 130f. Gevaarlijke stoffen bestemd voor scheepsgebruik of behorend tot de scheepsuitrusting
 
-Het bepaalde in [artikel 130d van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130d&z=2002-02-06&g=2002-02-06) is niet van toepassing op het meevoeren van gevaarlijke stoffen bestemd voor eigen scheepsgebruik of behorend tot de eigen scheepsuitrusting.
+Vervallen
 
 ##### Artikel 130g. Vervoer in bulk van vloeibare ladingen met gevaarlijke eigenschappen
 
-1. Het vervoer in bulk van vloeibare ladingen, waaronder mede begrepen vloeibaar gemaakte gassen, met gevaarlijke eigenschappen is alleen toegestaan indien het geschiedt met inachtneming van de voorschriften gesteld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) en met inachtneming van door Onze Minister gestelde nadere regels, voorzover van toepassing. In het geval van vloeibare lading met brandgevaarlijke eigenschappen geldt dit voorschrift onverminderd het bepaalde in [bijlage IV, hoofdstuk D, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06).
-
-2. De in het eerste lid bedoelde nadere regels kunnen afwijken van het bepaalde in dit besluit, mits zodanige regels ten minste even doelmatig zijn en daarbij de door de Internationale Maritieme Organisatie (IMO) aanvaarde aanbevelingen en voorschriften ter zake in acht worden genomen.
+Vervallen
 
 ##### Artikel 130h. Antidota en zuurstofbeademingskoffer
 
-Wanneer aan boord van het vaartuig gevaarlijke stoffen worden meegevoerd, zijn tevens de bij ministeriële regeling voorgeschreven antidota en een zuurstofbeademingskoffer met onderhoudsset, met de daarbij behorende controlelijst en handleiding, aanwezig.
+Vervallen
 
 ##### Artikel 131. Kruitkamer
 
-1. De kruitkamer moet waterdicht zijn en kunnen worden afgesloten door een waterdichte deur met slot.
-
-2. De kruitkamer moet, door het verrichten van een eenvoudige handeling, door een vaste leiding met water kunnen worden gevuld en gevuld worden gehouden. De kruitkamer moet een inrichting ter ontluchting aan dek hebben, die van dubbel veiligheidsgaas moet zijn voorzien.
-
-3. De kruitkamer moet bovendien voldoen aan het bepaalde in het «Handboek Gevaarlijke Stoffen» genoemd in [artikel 130e van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130e&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 132. Deklasten
 
-1. Het dek ter plaatse waar deklast is gestuwd moet voldoende sterk zijn. De nodige middelen moeten aanwezig zijn om het overgaan van de deklast te beletten.
-
-2. De deklast mag niet zo zwaar zijn, dat de stabiliteit van het schip erdoor in gevaar wordt gebracht. Bij deklast die door het overnemen van water in gewicht toeneemt, moet met die gewichtstoename rekening worden gehouden.
-
-3. De deklast mag op generlei wijze de navigatie, de bediening van de redding- en brandblusmiddelen, lieren, peil- en temperatuurkokers, lenspompen en de toegang tot verblijven, enzovoort, belemmeren. Het licht van de navigatielantaarns mag niet worden onderschept.
-
-4. Indien de verschansing of reling van het schip niet hoog genoeg boven de deklast uitsteekt, moeten relingen of stutten met keertouwen worden aangebracht, zodat een veilig verkeer van de bemanning over de deklast is verzekerd.
-
-5. Indien de bovenzijde van de deklast niet vlak genoeg is om erover te kunnen lopen, moeten de nodige planken en handleiders worden aangebracht om de bemanning in staat te stellen de verschillende delen van het schip zonder gevaar te bereiken.
-
-6. Deklasten moeten zodanig zijn gestuwd, dat overgenomen water gemakkelijk door de waterloospoorten kan wegvloeien. Op een deklast cokes mogen geen werkboten of andere zware voorwerpen worden geplaatst.
-
-7. Het vervoer van een deklast hout voldoet bovendien aan de bij ministeriële regeling gestelde nadere regels.
+Vervallen
 
 ##### Artikel 133. Dieren
 
-1. Het vervoer van paarden, rundvee, varkens, schapen en geiten moet plaatsvinden in overeenstemming met de eisen gesteld in [bijlage XX van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XX&z=2002-02-06&g=2002-02-06)dan wel, indien de inscheping plaatsvindt in een haven buiten Nederland, de Nederlandse Antillen of Aruba alwaar plaatselijke voorschriften betreffende het vervoer van dieren gelden, in overeenstemming met die voorschriften.
-
-2. Indien de inscheping in een Nederlandse haven of in een haven van de Nederlandse Antillen of Aruba plaats heeft, moet de Scheepvaartinspectie tijdig vóór de inscheping worden gewaarschuwd.
+Vervallen
 
 ### Hoofdstuk X. Verplichtingen van de kapitein
 
 ##### Artikel 133a. Toegankelijk maken voor onderzoek
 
-De kapitein is verplicht aan degene die een onderzoek verricht, alle medewerking te verlenen die deze redelijkerwijs bij de uitoefening van zijn taak kan vorderen.
+Vervallen
 
 ##### Artikel 134. Uitwatering
 
-1. De kapitein is verplicht zorg te dragen dat bij het ondernemen van een reis en ook gedurende de reis het schip geen geringer vrijboord heeft dan blijkens het afgegeven «certificaat van uitwatering» is geoorloofd.
-
-2. De kapitein van een schip dat gedurende een reis een ander vaargebied als bedoeld in [Hoofdstuk V van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06) bereikt, is verplicht zorg te dragen, dat het schip geen geringer vrijboord heeft dan in dit vaargebied is toegelaten.
-
-3. a. De kapitein van een passagiersschip is verplicht zorg te dragen dat bij het ondernemen van een reis en ook gedurende de reis het schip geen geringer vrijboord heeft dan blijkens het afgegeven veiligheidscertificaat is geoorloofd.
-
-b. De kapitein van een chemicaliëntanker of een gastanker is verplicht zorg te dragen dat bij het ondernemen van een reis en ook gedurende de reis het schip geen geringer vrijboord heeft dan blijkens de goedgekeurde gegevens betreffende het doorstaan van een bepaalde aanvaring of stranding, geoorloofd is.
-
-4. Indien een schip op een rivier of in een binnenwater wordt beladen, is het de kapitein toegestaan dieper af te laden dan volgens het eerste en derde lid van dit artikel is geoorloofd en wel zoveel, als overeenkomt met het gewicht aan brandstof, enzovoort, dat wordt verbruikt tussen de plaats van vertrek en de plaats waar het schip buitengaats komt.
-
-5. De kapitein is verplicht zorg te dragen dat de uitwateringsmerken goed zichtbaar zijn en blijven.
+Vervallen
 
 ##### Artikel 135. Sterkte en stabiliteit
 
-1. De kapitein van een schip is verplicht zorg te dragen dat bij het ondernemen van een reis voldoende gegevens aan boord zijn om hem in staat te stellen het schip zodanig te beladen en te ballasten dat onaanvaardbare spanningen in de scheepsconstructie worden voorkomen.
-
-- a. De kapitein van een schip waarvoor de nodige door het Hoofd van de Scheepvaartinspectie goedgekeurde gegevens betreffende de stabiliteit van het schip in onbeschadigde toestand zijn vastgesteld, is verplicht zorg te dragen dat bij het ondernemen van een reis deze gegevens aan boord zijn.
-
-- b. De kapitein van een passagiersschip is bovendien verplicht zorg te dragen dat bij het ondernemen van een reis de gegevens, bedoeld in de [artikelen 22 en 23a van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06), aan boord zijn.
-
-- c. De kapitein van een chemicaliëntanker of een gastanker is bovendien verplicht zorg te dragen dat bij het ondernemen van een reis de gegevens, bedoeld in [artikel 67a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=V&artikel=67a&z=2002-02-06&g=2002-02-06), van dit besluit aan boord zijn.
-
-- a. De kapitein van een schip is verplicht zorg te dragen dat tijdens de reis de stabiliteit van het schip naar zijn oordeel voldoende is. Voor een schip als bedoeld in het tweede lid, onder a, van dit artikel moet tijdens de reis de stabiliteit van het schip in alle voorkomende bedrijfstoestanden ten minste voldoen aan door het Hoofd van de Scheepvaartinspectie vastgestelde criteria.
-
-- b. De kapitein van een passagiersschip is bovendien verplicht zorg te dragen dat tijdens de reis wordt voldaan aan het gestelde in de instructie, bedoeld in [artikel 23a van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06).
-
-4. Het Hoofd van de Scheepvaartinspectie kan voor schepen van een bepaald type of van een bepaalde grootte ontheffing verlenen van de in het eerste lid van dit artikel genoemde eis.
+Vervallen
 
 ##### Artikel 135a. Peilen
 
-1. De kapitein is verplicht gedurende de reis regelmatig peiling te doen nemen van kofferdammen en van vullingen en voorts van alle tanks, uitgezonderd ladingtanks aan boord van tankschepen, gas- en chemicaliëntankschepen.
-
-2. De kapitein is voorts verplicht ten minste eenmaal per vier maanden het navolgende te doen controleren:
-
-- a. de juiste aanwijzing van de peilinrichting die is ingericht voor aflezing op afstand;
-
-- b. de juiste aanwijzing van de peilinrichting, geen peilglas zijnde, die is ingericht voor aflezing aan of in de directe nabijheid van de te peilen ruimte;
-
-- c. de juiste werking van de inrichting die door alarmering aangeeft, dat het vloeistofniveau in een ruimte een ingestelde waarde heeft overschreden;
-
-- d. de juiste werking van de in [artikel 48, eerste lid, van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06) bedoelde alarminstallatie.
+Vervallen
 
 ##### Artikel 136
 
@@ -1496,43 +938,11 @@ Vervallen
 
 ##### Artikel 136a. Reddingmiddelen en -voorzieningen
 
-De kapitein van elk schip is verplicht zorg te dragen dat voor het ondernemen van een reis en gedurende reis:
-
-- a. alle reddingmiddelen en -voorzieningen als bedoeld in [artikel 67b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=1&artikel=67b&z=2002-02-06&g=2002-02-06) , zijn geplaatst, opgesteld dan wel geborgen zoals aangegeven op het aan boord aanwezige, goedgekeurde veiligheidsplan indien zulk een plan ingevolge het bepaalde in [artikel 138 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=138&z=2002-02-06&g=2002-02-06)is voorgeschreven;
-
-- b. alle reddingmiddelen en -voorzieningen steeds in goede staat verkeren en voor onmiddellijk gebruik gereed zijn, en voor het dagelijks toezicht hierop een of meer scheepsofficieren zijn aangewezen;
-
-- c. de uitrusting van de redding- en hulpverleningsboten steeds in goede staat verkeert en voor onmiddellijk gebruik gereed is, en in die boten geen andere zaken worden geborgen dan die tot de uitrusting behoren;
-
-- d. een gediplomeerd sloepsgast is belast met het bevel over elk groepsreddingmiddel, en voor elke reddingboot tevens een plaatsvervanger is aangewezen, dan wel, wanneer zulks door het Hoofd van de Scheepvaartinspectie is toegestaan, een persoon met ervaring in de behandeling en bediening van reddingvlotten is belast met het bevel over elk reddingvlot;
-
-- e. degene die met het bevel over een groepsreddingmiddel is belast en de plaatsvervanger beschikken over een lijst met namen van de hun toegewezen bemanning van het groepsreddingmiddel en toezien dat die bemanningsleden hun taken kennen;
-
-- f. voor elke motorreddingboot iemand is aangewezen die de motor kan bedienen en kleine herstellingen daaraan kan verrichten;
-
-- g. de handboeken voor opleiding ter zake van de reddingmiddelen en -voorzieningen, bedoeld in [artikel 18, lid 2, van bijlage XIA van dit besluit,](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06) aan boord zijn;
-
-- h. de instructies voor het onderhoud van de reddingmiddelen en -voorzieningen, bedoeld in [artikel 19, lid 3, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06), aan boord zijn en het onderhoud dienovereenkomstig wordt uitgevoerd;
-
-- i. de periodieke beproevingen, inspecties en keuringen van de reddingmiddelen en -voorzieningen worden uitgevoerd op een wijze als voorgeschreven in [artikel 19, lid 6 tot en met 9, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 136b. Aantal en persoonsgegevens opvarenden
 
-1. De kapitein van een passagiersschip draagt er zorg voor dat het aantal opvarenden van het schip voor het vertrek uit de haven wordt geteld en wordt medegedeeld aan hem en aan de passagiersregistratiebeambte van de eigenaar of aan een zich aan wal bevindend systeem van de eigenaar dat voor hetzelfde doel dient.
-
-2. Hij ziet er op toe dat het aantal opvarenden niet groter is dan het schip ingevolge het veiligheidscertificaat voor passagiersschepen mag vervoeren.
-
-3. De kapitein van een passagiersschip dat een reis maakt van meer dan 20 zeemijl vanaf de plaats van vertrek draagt er zorg voor dat voor het vertrek de volgende gegevens worden verzameld en uiterlijk 30 minuten na het vertrek worden doorgegeven aan de passagiersregistratiebeambte van de eigenaar of aan een zich aan wal bevindend systeem van de eigenaar dat hetzelfde doel dient:
-
-- a. de achternamen van de opvarenden,
-
-- b. de voornamen of de initialen,
-
-- c. het geslacht,
-
-- d. de leeftijdscategorie (volwassene, kind of zuigeling) waartoe de persoon behoort, dan wel leeftijd of geboortejaar,
-
-- e. door passagiers op eigen initiatief verstrekte informatie in verband met behoefte aan speciale zorg of bijstand in noodsituaties.
+Vervallen
 
 ##### Artikel 137
 
@@ -1540,33 +950,11 @@ Vervallen
 
 ##### Artikel 137a. Alarmrol en instructies voor noodgevallen
 
-De kapitein van elk schip is verplicht zorg te dragen dat voor het ondernemen van een reis:
-
-- a. een alarmrol als bedoeld in [artikel 8, lid 3, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06), is samengesteld en exemplaren daarvan zijn opgehangen op in het oog vallende plaatsen, waaronder begrepen de brug, de machinekamer en de bemanningsverblijven;
-
-- b. de alarmrol wordt herzien of vernieuwd wanneer een verandering in de samenstelling van de bemanning zulks noodzakelijk maakt;
-
-- c. instructies voor noodgevallen als bedoeld in [artikel 8, lid 4, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06), aanwezig zijn in de passagiershutten en -verblijven, alsmede op de verzamelplaatsen.
+Vervallen
 
 ##### Artikel 138. Veiligheidsplan, brandbeveiligingsplan of brandbeveiligingsboekje
 
-1. Aan boord van elk schip is een veiligheidsplan aanwezig.
-
-2. Het veiligheidsplan, bestaande uit een algemeen plan, geeft aan waar de diverse dekken, de verbindingen tussen de dekken onderling, de compartimenten en de toegangen tot deze compartimenten zich bevinden, en verschaft op duidelijke en overzichtelijke wijze informatie over de aanwezige brandblus-, redding- en veiligheidsmiddelen.
-
-3. Het veiligheidsplan is op toegankelijke en kenbare plaatsen opgehangen.
-
-4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud van het veiligheidsplan.
-
-5. De kapitein van een schip, geen passagiersschip zijnde, met een lengte als omschreven in artikel 2 van bijlage I van dit besluit van 24 m of meer, alsmede de kapitein van een passagiersschip is verplicht zorg te dragen dat:
-
-- 1°. de brandbeveiligingsplannen als voorgeschreven in [artikel 20 van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), permanent zijn opgehangen op de daarvoor in aanmerking komende plaatsen en zijn opgeborgen in de duidelijk gemerkte en weerbestendige bergplaats aan de buitenzijde van het dekhuis; of
-
-- 2°. wanneer ingevolge het bepaalde in [artikel 20 van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06) het gebruik van brandbeveiligingsboekjes is toegestaan door het Hoofd van de Scheepvaartinspectie, een exemplaar van zulk een boekje is uitgereikt aan iedere officier, een exemplaar op een toegankelijke plaats beschikbaar is en een exemplaar is opgeborgen in een duidelijk gemerkte en weerbestendige bergplaats aan de buitenzijde van het dekhuis.
-
-De kapitein is voorts verplicht de plannen en boekjes goed bij te houden door veranderingen zo spoedig mogelijk daarin te doen aantekenen. Bovendien is de kapitein verplicht zorg te dragen dat de instructies betreffende het onderhoud en de werking van alle uitrusting en installaties aan boord voor het alarmeren en ontdekken, voor het insluiten en voor de bestrijding van brand in één verzamelband zijn bijeengebracht, die onmiddellijk beschikbaar is op een toegankelijke plaats.
-
-6. Op een schip, geen passagiersschip zijnde, met een lengte als bedoeld in [artikel 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2002-02-06&g=2002-02-06)van 24 meter of meer, mag het veiligheidsplan, bedoeld in het eerste lid, met de brandbeveiligingsplannen, bedoeld in het vijfde lid, tot een gezamenlijk plan worden gecombineerd. In een dergelijk geval zorgt de kapitein ervoor dat een exemplaar van het veiligheidsplan is opgeborgen in een duidelijk gemerkte en weerbestendige bergplaats aan de buitenzijde van het dekhuis.
+Vervallen
 
 ##### Artikel 139
 
@@ -1574,213 +962,63 @@ Vervallen
 
 ##### Artikel 139a. Appèls, oefeningen en brandrondedienst
 
-1. De kapitein van een passagiersschip is verplicht zorg te dragen dat:
-
-- a. appèls van de passagiers, appèls van de bemanning, oefeningen« schip verlaten», oefeningen in het blussen van brand, oefeningen met de hulpverleningsboten, opleiding en instructie in het gebruik van de reddingmiddelen en oefeningen met reddingvlotten van het strijkbare type worden gehouden overeenkomstig het bepaalde in [artikel 18, leden 3 en 4, en artikel 25, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06);
-
-- b.
-
-- 1°. een doelmatige brandrondedienst wordt onderhouden om elk begin van brand zo spoedig mogelijk te kunnen ontdekken;
-
-- 2°. indien op een schip ruimten van bijzondere aard als bedoeld in [artikel 3, onderdeel 18, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), aanwezig zijn, deze ruimten eveneens in de brandrondedienst worden betrokken. Tenzij in bedoelde ruimten een vast aangebrachte brandontdekkingsinstallatie als bedoeld in [artikel 37, lid 1.4.1, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), is aangebracht, moet de brandrondedienst in bedoelde ruimten worden onderhouden door een permanent aanwezige brandwacht;
-
-- c. elk lid van de onder b genoemde brandrondedienst wordt geoefend, zodat deze op de hoogte is van de indeling van het schip en van de plaats en de werking van de uitrusting die hij eventueel zou moeten hanteren;
-
-- d. het schip te allen tijde, op zee zowel als in de haven, zo is bemand of uitgerust, dat zeker wordt gesteld dat een daarvoor verantwoording dragend bemanningslid elk eerste brandalarm onmiddellijk ontvangt.
-
-2. De kapitein van een vrachtschip is verplicht zorg te dragen dat appels van de passagiers, appels van de bemanning, oefeningen «schip verlaten», oefeningen in het blussen van brand, oefeningen met de hulpverleningsboten, opleiding en instructie in het gebruik van de reddingmiddelen en oefeningen met reddingvlotten van het strijkbare type worden gehouden overeenkomstig het bepaalde in [artikel 18, leden 3 en 4, van bijlage XIA van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA&z=2002-02-06&g=2002-02-06).
-
-3. De kapitein van een passagiersschip of een vrachtschip is verplicht zorg te dragen dat:
-
-- a. de oefeningen in het blussen van brand er op gericht zijn de leden van de bemanning vertrouwd te maken met de inrichting en de voorzieningen van het schip, met hun taak en met het gebruik van alle bij de oefening benodigde middelen;
-
-- b. tijdens de oefeningen in het blussen van brand alle brandbluspompen worden beproefd.
+Vervallen
 
 ##### Artikel 140. Voorzorgsmaatregelen tegen brand
 
-1. De kapitein van een schip is verplicht zorg te dragen dat:
-
-- a. alle brandontdekkingsmiddelen en -bestrijdingsmiddelen steeds in goede staat en voor onmiddellijk gebruik gereed zijn;
-
-- b. de brandslangen alleen worden gebruikt voor brandblusdoeleinden, voor het beproeven van de brandblusinrichting of bij oefeningen en inspecties;
-
-- c. de brandslangen telkenmale na verloop van ten hoogste zes maanden worden beproefd;
-
-- d. de periodieke controle en beproeving van draagbare en niet-draagbare brandblustoestellen, alsmede van vast aangebrachte brandblusinstallaties met inbegrip van de eventueel bij deze toestellen of installaties behorende gascilinders, geschiedt op een wijze als door het Hoofd van de Scheepvaartinspectie wordt voorgeschreven;
-
-- e. de voortstuwingsruimten, andere ruimten voor machines en de kombuizen behoorlijk worden schoongehouden en worden vrijgehouden van olieresten, lekolie, met olie doordrenkt poetskatoen en dergelijke verontreinigingen;
-
-- f. voor scheepsgebruik bestemde of tot de scheepsuitrusting behorende, stoffen of onderdelen met brandgevaarlijke eigenschappen zeevast worden opgeborgen op een veilige plaats, verwijderd van ruimten voor machines, kombuizen en plaatsen waar open vuur wordt gebezigd.
-
-2. De kapitein van een passagiersschip dat niet is voorzien van een afstandbediening van brandbluspompen, is verplicht zorg te dragen dat de hoofdbrandblusleiding voortdurend onder druk wordt gehouden.
-
-3. De kapitein van een vrachtschip, waarvoor de wachtbezetting van de machinekamer slechts uit één man bestaat dan wel waarvoor door het Hoofd van de Scheepvaartinspectie is aanvaard dat de machinekamer tijdelijk onbemand is, en dat niet is voorzien van een afstandbediening van brandbluspompen, is verplicht zorg te dragen dat de hoofdbrandblusleiding voortdurend onder druk wordt gehouden.
-
-4. De kapitein van een schip dat wordt gebezigd voor het vervoer van gevaarlijke stoffen als bedoeld in [artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06), en dat niet is voorzien van een afstandbediening van brandbluspompen, is verplicht zorg te dragen dat de hoofdbrandblusleiding voortdurend onder druk wordt gehouden.
-
-- a. De kapitein van een schip aan boord waarvan een of meer ruimten aanwezig zijn, bestemd voor het vervoer van motorrijtuigen waarvan de tank met brandstof voor eigen aandrijving is gevuld, is verplicht het voor deze ruimte bestemde mechanische ventilatiesysteem te allen tijde in werking te doen zijn, wanneer zich dergelijke voertuigen in die ruimten bevinden.
-
-- b. In afwijking van het bepaalde onder a van dit lid behoeft aan boord van een ro-ro-vrachtschip, waarvan de elektrische apparatuur en leidingen in gesloten ro/ro laadruimten van een type zijn dat geschikt is voor het gebruik in explosieve mengsels van benzine en lucht, het mechanische ventilatiesysteem van die laadruimten niet te allen tijde in werking te zijn, doch kan worden volstaan met dagelijks gedurende een beperkte periode – afhankelijk van de weersomstandigheden – te ventileren. In ieder geval dient dit te geschieden gedurende een redelijke periode vóór de lossing van de voertuigen. Alvorens de lossing kan aanvangen, moet worden aangetoond dat de betreffende ruimte gasvrij is.
+Vervallen
 
 ##### Artikel 141. Sluiten van waterdichte deuren, enzovoort
 
-De kapitein is verplicht zorg te dragen dat:
-
-- a. waterdichte deuren in schotten die tussendekslaadruimen van elkaar scheiden, en toegangs-, laad- en kolenpoorten in het scheepsboord, vóór het schip de haven of rede verlaat, zijn gesloten en gedurende de reis gesloten blijven;
-
-- b. de overige waterdichte deuren gedurende de reis zijn gesloten, tenzij deze noodzakelijkerwijze geopend moeten worden of blijven, zoals omschreven in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06);
-
-- c. indien zich in de voortstuwingsruimten wegneembare platen in waterdichte schotten bevinden, deze platen, vóór het schip de haven of rede verlaat, aangebracht en waterdicht verpakt zijn en op zee, behalve bij gebiedende noodzakelijkheid, niet worden verwijderd;
-
-- d. het openen en sluiten van patrijspoorten in een tussendek geschiedt in overeenstemming met het bepaalde in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06);
-
-- e. patrijspoorten die gedurende de reis niet bereikbaar zijn, vóór het schip de haven of rede verlaat, behoorlijk met hun blinden zijn gesloten;
-
-- f. de deksels en kleppen van stortkokers voor as, vuil en dergelijke, die niet in gebruik zijn en waarvan de binnenboordsopeningen geheel of gedeeltelijk beneden de indompelingsgrenslijn zijn gelegen, behoorlijk zijn gesloten.
+Vervallen
 
 ##### Artikel 142. Oefeningen met waterdichte deuren, enzovoort
 
-De kapitein van een passagiersschip is verplicht zorg te dragen dat:
-
-- a. oefeningen in het behandelen van waterdichte deuren, patrijspoorten, kleppen en afsluiters wekelijks plaats hebben en indien de reis langer dan een week duurt, bovendien, vóór het schip de haven of rede verlaat, een volledige oefening wordt gehouden;
-
-- b. alle werktuiglijk bewogen waterdichte deuren en alle waterdichte draaideuren in hoofddwarsschotten, die op zee uit hoofde van de behoeften van de dienst noodzakelijk geopend moeten blijven, éénmaal daags worden gesloten;
-
-- c. de waterdichte deuren en alle daarbij behorende bewegingsinrichtingen en standaanwijzers, alle afsluiters die moeten zijn gesloten om een afdeling waterdicht te maken, benevens alle afsluiters in dwarsscheepse overvloei-inrichtingen als bedoeld in [bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06), gedurende de reis geregeld, ten minste éénmaal per week, worden nagezien.
+Vervallen
 
 ##### Artikel 142a. Gebruik beschermende uitrusting
 
-De kapitein is verplicht zorg te dragen dat de schepelingen bekend zijn met het gebruik van de beschermende uitrusting als bedoeld in [artikel 89a van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=2&artikel=89a&z=2002-02-06&g=2002-02-06). Hij dient erop toe te zien dat deze uitrusting in daartoe in aanmerking komende omstandigheden wordt gebruikt.
+Vervallen
 
 ##### Artikel 143. Elektrische inrichtingen
 
-De kapitein is verplicht zodanige maatregelen te nemen dat:
-
-- a. in vochtige ruimten en in ruimten met ontploffingsgevaar geen werkzaamheden aan ongeïsoleerde delen van de elektrische installatie worden uitgevoerd, zolang deze onder spanning staan;
-
-- b. in ruimten met ontploffingsgevaar geen werkzaamheden geschieden, waarbij vonkvorming kan optreden en werkzaamheden aan machines, toestellen, transformatoren, schakel- en verdeelinrichtingen, lamparmaturen en leidingen met toebehoren slechts plaatsvinden, nadat het desbetreffende gedeelte der installatie spanningsloos is gemaakt;
-
-- c. in andere dan onder a genoemde ruimten slechts werkzaamheden aan blanke of daarmede gelijk te stellen onder spanning staande delen van de elektrische installatie worden uitgevoerd, indien voor de veiligheid en bedrijfszekerheid van het schip dringende redenen aanwezig zijn om deze onder spanning te verrichten, mits:
-
-- (i). alle zich in de nabijheid bevindende metalen delen deugdelijk tegen aanraking zijn beschermd;
-
-- (ii). de metalen delen van het bij de werkzaamheden benodigde gereedschap voorzover mogelijk deugdelijk zijn geïsoleerd;
-
-- (iii). zij die de werkzaamheden uitvoeren zich op een deugdelijk isolerende laag bevinden;
-
-- (iv). voorzover dit in verband met de plaats en de omstandigheden nodig is, duidelijk leesbare waarschuwingen zijn aangebracht om te voorkomen dat aan een niet met de werkzaamheden belaste persoon een ongeval overkomt;
-
-- d. werkzaamheden in de nabijheid van blanke of daarmede gelijk te stellen delen van de elektrische installatie slechts geschieden, indien deze spanningsloos zijn gemaakt, tenzij dit om bedrijfstechnische redenen niet mogelijk is, in welk geval alle maatregelen moeten zijn genomen, die een veilig verloop van de arbeid kunnen waarborgen;
-
-- e. bij voeding van het scheepsnet of een gedeelte daarvan vanaf de wal, geen spanningen en stroomsoorten en bij draaistroom bovendien geen frequenties en volgorden der fasen, waarvoor de elektrische installatie aan boord niet geschikt is, worden gebezigd;
-
-- f. dat isolatiefouten in de elektrische installatie zo spoedig mogelijk worden verholpen;
-
-- g. dat de noodkrachtbron en de tijdelijke noodkrachtbron, indien aanwezig, zomede de automatische inrichtingen van de noodinstallatie wekelijks worden beproefd;
-
-- h. dat de noodverlichting maandelijks wordt beproefd.
+Vervallen
 
 ##### Artikel 144. Besturing van het schip
 
-1. De kapitein van een schip, geen klein vaartuig zijnde, is met betrekking tot de stuurinrichting verplicht zorg te dragen dat:
-
-- a. binnen 12 uur vóór vertrek de stuurinrichting door de bemanning wordt gecontroleerd en beproefd;
-
-- b. bij de beproevingsprocedure als bedoeld onder a, voorzover van toepassing, de werking van de volgende onderdelen is begrepen:
-
-- (i). de hoofdstuurinrichting;
-
-- (ii). de hulpstuurinrichting;
-
-- (iii). de afstandbedieningssystemen;
-
-- (iv). de besturingsmogelijkheden op de brug;
-
-- (v). de noodkrachtvoorziening;
-
-- (vi). de roerstandaanwijzers, vergeleken met de werkelijke stand van het roer;
-
-- (vii). de alarmeringen voor het uitvallen van de bekrachtiging van de afstandbedieningssystemen;
-
-- (viii). de alarmeringen voor het uitvallen van de krachtwerktuigen van de stuurinrichting, en
-
-- (ix). de automatische voorzieningen waarmee een defect gedeelte van de stuurinrichting buiten bedrijf wordt gesteld en andere automatische uitrusting;
-
-- c. bij de onder a van dit lid bedoelde controles en beproevingen zijn inbegrepen:
-
-- (i). het bewegen van het roer over de volle uitslag zoals vereist voor de betreffende stuurinrichting,
-
-- (ii). een visuele inspectie van de stuurinrichting met de daaraan verbonden systemen, en
-
-- (iii). de werking van de communicatiemiddelen tussen de brug en de stuurmachinekamer;
-
-- d. eenvoudige gebruiksaanwijzingen met een blokdiagram waarop de overschakelingsprocedures zijn aangegeven voor de afstandbedieningssystemen en de krachtwerktuigen voor de stuurmachine, op de brug en in de stuurmachinekamer permanent zijn opgehangen;
-
-- e. alle officieren die betrokken zijn bij de behandeling of het onderhoud van de stuurinrichting, vertrouwd zijn met de werking van de stuursystemen en met de procedures om van het ene systeem over de schakelen op het andere.
-
-- f. in aanvulling op de geregelde controles en beproevingen als bedoeld onder a van dit lid, ten minste eenmaal in de drie maanden oefeningen plaatsvinden voor de besturing van het schip in gevallen waarbij één of meer onderdelen van het stuursysteem is (zijn) uitgevallen, ten einde hiermede ervaring op te doen. Bij deze oefeningen dienen te zijn inbegrepen de directe bediening in de stuurmachinekamer, de communicatieprocedure met de brug en – indien toepasselijk – het gebruik van vervangende krachtvoorzieningen;
-
-- g. de data waarop de controles en beproevingen als bedoeld onder a van dit lid, zijn gehouden en de data met de bijzonderheden van de oefeningen als omschreven onder f van dit lid, worden aangetekend in het scheepsdagboek;
-
-- h. de onderdelen voor de hulpstuurinrichting voor onmiddellijk gebruik gereed zijn opgeborgen.
-
-2. De kapitein van een schip is verplicht zorg te dragen dat in gebieden waar de navigatie bijzondere aandacht vergt, meer dan één krachtwerktuig van de stuurinrichting in bedrijf is, indien dergelijke werktuigen geschikt zijn om de stuurinrichting gelijktijdig te voeden.
-
-3. De kapitein van een schip, geen klein vaartuig zijnde, dat is uitgerust met een automatische stuurinrichting, is verplicht zorg te dragen dat:
-
-- a. in gebieden met een grote vaardichtheid, bij beperkt zicht en in alle andere voor de navigatie gevaarlijke situaties, waarin gebruik wordt gemaakt van de automatische stuurinrichting, de officier van de wacht onverwijld kan beschikken over de diensten van een bekwame roerganger die op ieder moment de besturing moet kunnen overnemen;
-
-- b. het overschakelen van automatische besturing op handbesturing en omgekeerd, geschiedt door of onder toezicht van een verantwoordelijk officier;
-
-- c. de handbesturing wordt beproefd nadat gedurende een langere tijd gebruik is gemaakt van de automatische stuurinrichting en voordat gebieden worden binnengevaren waar de navigatie bijzondere aandacht vergt.
-
-4. De kapitein van een klein vaartuig moet vóór vertrek de goede werking van de hoofd- en hulpstuurinrichting doen controleren, doch deze controle behoeft niet vaker dan éénmaal per week plaats te vinden, waarbij de data van de controle en eventuele bijzonderheden in het scheepsdagboek moeten worden aangetekend.
+Vervallen
 
 ##### Artikel 144a. Manoeuvreereigenschappen en stopwegen
 
-De kapitein van een schip is verplicht zorg te dragen dat op de brug de nodige gegevens beschikbaar zijn betreffende de manoeuvreereigenschappen en de stopweg bij voor het schip karakteristieke vaarsnelheden en diepgangen.
+Vervallen
 
 ##### Artikel 145. Gebruik van luiken en luikschilden
 
-De kapitein is verplicht zorg te dragen dat de luiken en luikschilden niet worden gebruikt voor doeleinden, waarvoor zij niet zijn bestemd.
+Vervallen
 
 ##### Artikel 146. Kompassen
 
-1. De kapitein is verplicht zorg te dragen dat de fouten van elk magnetisch kompas éénmaal per jaar door een bevoegd persoon als bedoeld in [artikel 95 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=95&z=2002-02-06&g=2002-02-06), worden geverifieerd, tenzij deze fouten in zee door waarnemingen geregeld worden geverifieerd en zij binnen redelijke grenzen blijven. Bovendien is de kapitein verplicht hercompensatie door een bevoegd persoon als bovenbedoeld te doen plaatsvinden, telkenmale wanneer zich omstandigheden hebben voorgedaan die van invloed kunnen zijn op de gevonden fouten.
-
-2. De kapitein is verplicht zorg te dragen dat bij elk magnetisch kompas een foutentabel aanwezig is.
+Vervallen
 
 ##### Artikel 147. Richtingzoekers
 
-1. De kapitein van een schip uitgerust met een richtingzoeker is verplicht zorg te dragen dat éénmaal per jaar de fouten van de richtingzoeker door een bevoegd persoon als bedoeld in [artikel 96 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VI&paragraaf=3&artikel=96&z=2002-02-06&g=2002-02-06), worden geverifieerd, tenzij deze fouten in zee door waarnemingen geregeld worden geverifieerd en zij binnen redelijke grenzen blijven. Bovendien is de kapitein verplicht verifiëring te doen plaats vinden, telkenmale wanneer in de positie van enige antenne, dan wel van enige constructie aan dek, veranderingen zijn aangebracht die de gevonden fouten van de richtingzoeker merkbaar zouden kunnen beïnvloeden.
-
-2. De kapitein is verplicht zorg te dragen dat de grafiek, aangevende de correctie die op de afgelezen peiling moet worden toegepast om de ware peiling ten opzichte van de kiellijn te verkrijgen, voor onmiddellijk gebruik bij de richtingzoeker aanwezig is.
-
-3. De kapitein is verplicht zorg te dragen dat gedurende het nemen van radiopeilingen de antennes van ontvangers, toebehorende aan opvarenden, zijn weggenomen.
+Vervallen
 
 ##### Artikel 148. Radiowachten
 
-De kapitein is verplicht zorg te dragen dat de radiowachten, bedoeld in [artikel 14 van bijlage V van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2002-02-06&g=2002-02-06), worden gehouden.
+Vervallen
 
 ##### Artikel 149. Elektronische navigatiemiddelen
 
-De kapitein is verplicht zorg te dragen dat door de stuurlieden regelmatig wordt geoefend met de elektronische navigatiemiddelen waarmede het schip is uitgerust.
+Vervallen
 
 ##### Artikel 150. Bemanning
 
-1. De kapitein van elk schip is verplicht zorg te dragen dat zijn schip is bemand in overeenstemming met het bepaalde in [hoofdstuk VII van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&z=2002-02-06&g=2002-02-06).
-
-2. De kapitein van elk schip is bovendien verplicht zorg te dragen dat de wachtbezetting aan boord geschiedt in overeenstemming met het bepaalde in de [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=113&z=2002-02-06&g=2002-02-06) en [114 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=114&z=2002-02-06&g=2002-02-06).
-
-3. De kapitein van een schip dat veilig in de haven gemeerd of ten anker ligt, is verplicht zorg te dragen dat een doeltreffende wacht wordt gehouden met het oog op de veiligheid.
-
-4. De kapitein van een schip dat gevaarlijke stoffen als bedoeld in [het eerste lid van artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06), in bulk vervoert – ongeacht of deze explosief, ontvlambaar of giftig zijn of kunnen zijn, dan wel de gezondheid bedreigen of kunnen bedreigen of het milieu verontreinigen of kunnen verontreinigen – dient te zorgen, aan dek en in de machinekamer, voor een doeltreffende wacht met het oog op de veiligheid. Daartoe dienen op ieder ogenblik één of meer gediplomeerde officieren snel beschikbaar te zijn, evenals scheepsgezellen, indien nodig, zelfs wanneer het schip veilig in de haven gemeerd of ten anker ligt.
-
-5. De kapitein van een schip dat gevaarlijke stoffen als bedoeld in [het eerste lid van artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06) anders dan in bulk vervoert – ongeacht of deze explosief, ontvlambaar of giftig zijn of kunnen zijn, dan wel de gezondheid bedreigen of kunnen bedreigen of het milieu verontreinigen of kunnen verontreinigen – dient bij het treffen van regelingen inzake een doeltreffende wacht met het oog op de veiligheid ten volle rekening te houden met de aard, hoeveelheid, verpakking en wijze van stuwen van de gevaarlijke stoffen en met alle bijzondere omstandigheden aan boord, zowel op zee als wanneer het schip veilig in de haven gemeerd of ten anker ligt.
+Vervallen
 
 ##### Artikel 150a. Voeding en drinkwater
 
-De kapitein is verplicht er op toe te zien dat de in het [Schepelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0001985) met betrekking tot de voeding en het drinkwater gestelde voorschriften, waarvan de zorg aan hem is opgedragen, in acht worden genomen.
+Vervallen
 
 ##### Artikel 151
 
@@ -1796,187 +1034,35 @@ Vervallen
 
 ##### Artikel 154. Vervoer van lading
 
-1. De kapitein is verplicht zorg te dragen dat ten aanzien van het vervoer van lading rekening wordt gehouden met de voorschriften gesteld in [hoofdstuk IX van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&z=2002-02-06&g=2002-02-06) en is voorts verplicht die maatregelen te treffen die in verband met de aard van de lading en de wijze van stuwen nodig zijn.
-
-2. De kapitein is verplicht zowel bij het openen der luiken als bij het betreden van die ruimten extra voorzorgsmaatregelen te treffen, indien stoffen zijn geladen die aanleiding kunnen geven tot het aanwezig zijn van ontplofbare, giftige of andere schadelijke dampen, dan wel stoffen die aanleiding kunnen geven tot zuurstofarmoede. Bij het gebruik van werktuigen voor het mechanisch verwerken van lading in een ruim, is de kapitein verplicht ervoor zorg te dragen dat zodanige maatregelen worden getroffen dat de veiligheid en de gezondheid van de in het ruim aanwezige personen zoveel doenlijk is gewaarborgd.
-
-3. De kapitein van een schip dat gevaarlijke stoffen als bedoeld in [artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06) vervoert, is verplicht zich voor het ondernemen van een reis ervan te vergewissen, dat de in [artikel 4, vijfde lid, van bijlage XVII van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVII&z=2002-02-06&g=2002-02-06) bedoelde speciale lijst of gedetailleerd stuwplan aan boord is.
-
-4. De kapitein van een schip dat wordt gebezigd voor het vervoer in bulk van vloeibare of gasvormige gevaarlijke stoffen, mag geen passagiers vervoeren en is voorts verplicht de ter zake geldende bedieningsvoorschriften en veiligheidsmaatregelen in acht te nemen.
-
-5. De kapitein van een schip dat is bestemd voor het afwisselend vervoer van olie en stortladingen is, tenzij de inrichting en de getroffen voorzieningen van zulk een schip ten genoegen van het Hoofd van de Scheepvaartinspectie zijn, verplicht zorg te dragen dat geen vaste stortladingen worden vervoerd wanneer niet alle ladingtanks, sloptanks daaronder begrepen, vrij van olie zijn en gasvrij zijn gemaakt.
-
-6. De kapitein van een tankschip dat is voorzien van een vast aangebracht inertgassysteem ter bescherming van de ladingtanks, is verplicht zorg te dragen dat bij overschrijding van het zuurstofgehalte van het inertgas van 8 percent, gemeten in de hoofdtoevoerleiding voor inertgas aan de afvoerzijde van de inertgas ventilatoren, onmiddellijk maatregelen worden genomen welke kunnen leiden tot het verbeteren van de kwaliteit van het inertgas. Tenzij de kwaliteit van het gas verbetert, is hij verplicht zorg te dragen dat alle handelingen met betrekking tot de ladingtanks worden opgeschort alsmede dat de afsluiter, bedoeld in [artikel 62, lid 10.8, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), wordt gesloten.
-
-7. De kapitein van een tankschip dat is gebouwd op of na 1 september 1984, is verplicht werkzaamheden in verband met het gasvrij maken van ladingtanks zodanig uit te voeren dat:
-
-- a. indien het schip is voorzien van een inertgassysteem, gassen uit de ladingtanks worden uitgedreven door middel van de voorzieningen, voorgeschreven in [artikel 62, lid 13, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06), tot de concentratie van koolwaterstoffen in de tanks is gereduceerd tot minder dan 2 volumepercenten, alvorens ontluchting dan wel het uitdrijven van gassen ter hoogte van het ladingtankdek plaatsvindt;
-
-- b. indien het schip niet is voorzien van een inertgassysteem, brandbare dampmengsels om te beginnen worden uitgedreven:
-
-- (i). door middel van de uitlaten voor ontluchting, voorgeschreven in [artikel 59, lid 1.9, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06); of
-
-- (ii). door middel van uitlaten voor ontluchting welke voldoen aan het bepaalde in [artikel 59, lid 2.2.3, van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06); of;
-
-- (iii). indien het schip gebouwd is op of na 1 februari 1992, door middel van uitlaten voor ontluchting, welke voldoen aan het bepaalde in [artikel 59, lid 2.2.2., van bijlage IV van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=IV&z=2002-02-06&g=2002-02-06);
-
-met dien verstande dat, wanneer de concentratie van brandbaar gas in de uitlaat is gereduceerd tot 30 percent of minder van de onderste explosiegrens, de ontluchting dan wel het uitdrijven van gassen daarna mag plaatsvinden ter hoogte van het ladingtankdek.
-
-8. De kapitein van een tankschip dat is gebouwd vóór 1 september 1984 is verplicht werkzaamheden in verband met het gasvrij maken van ladingtanks uit te voeren in overeenstemming met voor het Hoofd van de Scheepvaartinspectie aanvaardbare procedures.
+Vervallen
 
 ##### Artikel 155. Noodalarmering en noodseinen
 
-De kapitein is verplicht zorg te dragen dat ten aanzien van noodalarmering en noodseinen de volgende regelen in acht worden genomen:
-
-- a. slechts hij is bevoegd bevel te geven tot het gebruik van noodalarmering of noodseinen;
-
-- b. de noodalarmering en de daarop volgende uitzending van nood-, spoed- en veiligheidsberichten, alsmede het annuleren van deze berichten moeten geschieden op de wijze als aangegeven in het Radioreglement; en
-
-- c. het gebruik van enige noodalarmering of van enig noodsein anders dan om aan te geven dat een schip, luchtvaartuig of persoon in ernstig en dreigend gevaar verkeert en onmiddellijk hulp nodig heeft, evenals het gebruik van enige alarmering of enig sein dat met de noodalarmering of een noodsein kan worden verward, is verboden.
+Vervallen
 
 ##### Artikel 156. Verplichtingen en procedure aangaande noodberichten
 
-1. De kapitein van een zich op zee bevindend schip is verplicht, wanneer hij een melding, uit welke bron ook, ontvangt dat een schip of een vliegtuig of reddingmiddelen daarvan afkomstig, in nood is of zijn, met de meeste spoed de in nood verkerende personen te hulp te komen, hen zo mogelijk daaromtrent inlichtende. Indien hij niet in staat is of het, gezien de bijzondere omstandigheden van het geval, onredelijk of onnodig acht hen te hulp te komen, moet hij in het scheepsdagboek vermelden om welke reden hij de in nood verkerende personen niet te hulp is gekomen.
-
-2. De kapitein van een in nood verkerend schip heeft het recht, na voorzover dat mogelijk is de kapiteins van de schepen, die zijn oproep om hulp hebben beantwoord, te hebben geraadpleegd, één of meer van deze schepen, die hij het beste in staat acht hulp te verlenen, daartoe op te vorderen en het is de plicht van de kapitein van een opgevorderd schip daaraan te voldoen door met de meeste spoed het te hulp komen van de in nood verkerende personen voort te zetten.
-
-3. De kapitein van een schip is ontheven van de ingevolge het bepaalde in het eerste lid van dit artikel op hem rustende verplichting wanneer hij verneemt, dat één of meer schepen, doch niet het zijne, is of zijn opgevorderd en daaraan gevolg geeft of geven.
-
-4. De kapitein van een schip is ontheven van de ingevolge het bepaalde in het eerste lid van dit artikel op hem rustende verplichting en, indien zijn schip is opgevorderd, van de ingevolge het bepaalde in het tweede lid van dit artikel op hem rustende verplichting, indien hem door de in nood verkerende personen of door de kapitein van een ander schip, dat deze personen heeft bereikt, wordt medegedeeld dat hulpverlening niet langer nodig is.
+Vervallen
 
 ##### Artikel 157. Veiligheidsberichten
 
-1. De kapitein is verplicht, indien hij gevaarlijk ijs, een gevaarlijk wrak of een ander onmiddellijk gevaar voor de scheepvaart, of een tropische storm ontmoet, of luchttemperaturen onder het vriespunt gepaard gaande met stormwinden, die zware ijsafzetting op de bovenbouw veroorzaken, of stormen met windkracht 10 of hoger volgens de schaal van Beaufort, waarvoor geen stormwaarschuwing werd ontvangen, ondervindt, met alle hem ter beschikking staande middelen schepen in de omgeving en via het eerste punt aan de wal, waarmede hij verbinding kan krijgen ook de bevoegde autoriteiten, daarvan op de hoogte te brengen. De vorm waarin de inlichtingen worden gegeven, is niet bindend voorgeschreven. Zij mogen worden uitgezonden hetzij in verstaanbare taal – bij voorkeur Engels –, hetzij in code met gebruikmaking van het Internationaal Seinboek. Zij moeten worden uitgezonden aan alle in de omgeving zijnde schepen en voorts worden verzonden aan het eerste punt aan de wal, waarmede verbinding kan worden gemaakt, met verzoek voor overbrenging aan de bevoegde autoriteiten zorg te dragen.
-
-2. Berichten omtrent gevaren moeten de volgende inlichtingen bevatten:
-
-- a. IJs, wrakken en andere onmiddellijke gevaren voor de scheepvaart:
-
-- (i). de soort van het waargenomen ijs, wrak of gevaar;
-
-- (ii). de plaats van het ijs, wrak of gevaar toen dit het laatst werd waargenomen;
-
-- (iii). de datum en tijd (Gecoördineerde Wereldtijd-UTC) van de laatste waarneming.
-
-- b. Tropische stormen (orkanen in West-Indië, tyfonen in de Chinese Zee, cyclonen in de Indische Oceaan en stormen van soortgelijk karakter in andere streken):
-
-- (i). een mededeling, dat een tropische storm werd ontmoet. Deze verplichting dient ruim te worden opgevat en inlichtingen moeten worden verzonden telkens als de kapitein goede redenen heeft om aan te nemen dat een tropische storm zich ontwikkelt of in zijn nabijheid bestaat;
-
-- (ii). datum, tijd (Gecoördineerde Wereldtijd-UTC) en bestek van het schip op het moment van de waarneming;
-
-- (iii). in het bericht moeten zoveel mogelijk inlichtingen over het navolgende worden opgenomen:
-
-- (aa). barometerstand, bij voorkeur gecorrigeerd (met vermelding of de aflezing in millibaren, inches of millimeters is en of de aflezing al dan niet is gecorrigeerd);
-
-- (bb). tendens van de luchtdruk (verandering in de barometerstand gedurende de afgelopen drie uren);
-
-- (cc). ware windrichting;
-
-- (dd). windkracht (volgens de schaal van Beaufort);
-
-- (ee). toestand van de zee (vlak, kabbelend tot lichtgolvend, golvend, aanschietend, hoog);
-
-- (ff). deining (laag, matig hoog, hoog) en de ware richting van waar deze komt. Opgave van periode of lengte van de deining (kort, matig lang, lang) kan ook van belang zijn;
-
-- (gg). ware koers en vaart van het schip.
-
-- c. Latere waarnemingen. Wanneer de kapitein een tropische storm of andere gevaarlijke storm heeft gerapporteerd, is het gewenst, hoewel niet verplicht, dat zolang het schip onder invloed van de storm blijft, verdere waarnemingen om het uur worden verricht en verzonden en dat, wanneer dit niet mogelijk is, deze waarnemingen in elk geval met tussenpozen van niet langer dan drie uur worden verricht en verzonden.
-
-- d. Stormen met windkracht 10 of hoger volgens de schaal van Beaufort, waarvoor geen stormwaarschuwing werd ontvangen. Hiermede worden bedoeld andere stormen dan de tropische stormen genoemd onder b van dit lid. Bij het ontmoeten van zulk een storm dient het te verzenden bericht gegevens te bevatten overeenkomstig die, vermeld onder b van dit lid, evenwel met uitzondering van de bijzonderheden betreffende zee en deining.
-
-- e. Luchttemperaturen onder het vriespunt gepaard gaande met stormwinden, die zware ijsafzetting op de bovenbouw veroorzaken:
-
-- (i). datum en tijd (Gecoördineerde Wereldtijd-UTC);
-
-- (ii). temperatuur van de lucht;
-
-- (iii). temperatuur van het zeewater (indien mogelijk);
-
-- (iv). kracht en richting van de wind.
+Vervallen
 
 ##### Artikel 158. Routering van schepen
 
-1. Voor de toepassing van het bepaalde in dit artikel wordt onder routeringssysteem verstaan: elk systeem bestaande uit één of meer routes en/of routeringsmaatregelen, gericht op het verminderen van gevaar voor scheepsongevallen; het omvat verkeersscheidingsstelsels, vaarwegen voor tweerichtingsverkeer, aanbevolen koerslijnen, gebieden die dienen te worden gemeden, zones voor kustverkeer, rotondes, voorzorgsgebieden en diepwaterroutes.
-
-2. De kapitein is verplicht een passend gebruik te maken van de verkeersscheidingsstelsels als bedoeld in Voorschrift 10 van het besluit «Bepalingen ter voorkoming van aanvaringen op zee, 1972» (Stb. 773) en daarbij in het bijzonder de gedragsregels ten aanzien van het gebruik van deze verkeersscheidingsstelsels, vervat in genoemd Voorschrift, na te komen.
-
-3. De kapitein is voorts verplicht een passend gebruik te maken van de overige routeringssystemen die door de Internationale Maritieme Organisatie worden vastgesteld.
-
-- a. De kapitein van elk schip dat vaart in de buurt van de Grote Banken van Newfoundland, dient, voorzover dit uitvoerbaar is, de visgronden van Newfoundland benoorden 43° noorderbreedte te mijden en te varen buiten de gebieden waarvan bekend is of verondersteld wordt dat zij ten gevolge van ijs gevaarlijk zijn.
-
-- b. Indien ijs is gemeld op of nabij de koerslijn van zijn schip, is de kapitein verplicht des nachts een matige vaart te lopen of zijn koers zodanig te veranderen dat deze goed vrij van het gevaarlijke gebied loopt.
+Vervallen
 
 ##### Artikel 158a. Meldingssystemen
 
-De kapitein van een schip is verplicht te voldoen aan de bij ministeriële regeling gestelde voorschriften inzake meldingssystemen, vastgesteld overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie, en aan de bevoegde lokale autoriteit alle informatie te verstrekken die in overeenstemming met de voorschriften van een dergelijk systeem wordt verlangd.
+Vervallen
 
 ##### Artikel 159. Kennisgeven van averijen en ongevallen
 
-De kapitein van een schip, binnengekomen in een haven in Nederland, de Nederlandse Antillen of Aruba, is verplicht zo spoedig mogelijk, doch in elk geval binnen drie werkdagen na binnenkomst aan de Scheepvaartinspectie kennis te geven van op de afgelopen reis voorgekomen averijen en ongevallen. Het overleggen der dagboeken, onder schriftelijke verwijzing naar de aantekening omtrent de averij of het ongeval, wordt als zodanige kennisgeving beschouwd.
+Vervallen
 
 ##### Artikel 160. Dagboeken
 
-1. Behoudens hetgeen bij of krachtens de bepalingen van het voor Nederland, de Nederlandse Antillen, onderscheidenlijk Aruba geldende [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838) ten aanzien van het houden van scheeps- en machinedagboeken is voorgeschreven, is de kapitein verplicht in deze dagboeken aantekening te doen houden:
-
-- a. van de diepgang van het schip, telkenmale na het innemen van lading en van brandstoffen;
-
-- b. van het periodiek te water laten van reddingboten, hulpverleningsboten en reddingvlotten van het strijkbare type, alsmede van de toestand waarin deze reddingmiddelen zich bevinden;
-
-- c. van de maandelijkse inspectie van de reddingmiddelen en de reddingbootuitrusting, alsmede van de toestand waarin de uitrusting zich bevindt;
-
-- d. van de beproeving der brandslangen;
-
-- e. van de controles en beproevingen als bedoeld in [het eerste lid van artikel 144 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=144&z=2002-02-06&g=2002-02-06);
-
-- f.
-
-- 1°. van de regelmatig, gedurende de reis, te nemen peilingen, bedoeld in [artikel 135a, eerste lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=135a&z=2002-02-06&g=2002-02-06);
-
-- 2°. van de viermaandelijkse controle, bedoeld in [artikel 135a, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=135a&z=2002-02-06&g=2002-02-06);
-
-- g. van alle appèls, oefeningen «schip verlaten», oefeningen in het blussen van brand, oefeningen met de hulpverleningsboten, opleiding en instructie in het gebruik van de reddingmiddelen en oefeningen met reddingvlotten van het strijkbare type, alsmede, wanneer deze niet op de voorgeschreven tijden zijn gehouden, van de redenen waarom dit niet is geschied.
-
-- h. in voorkomende gevallen, van de redenen waarom hij, na het waarnemen of het ontvangen van een noodsein, heeft nagelaten de in nood verkerende personen te hulp te komen;
-
-- i. aan boord van een passagiersschip, van de tijdstippen van openen en sluiten van waterdichte deuren, patrijspoorten, toegangs-, laad- en kolenpoorten en andere openingen in het scheepsboord, dan wel het afnemen en aanbrengen van wegneembare platen, die volgens het bepaalde in [artikel 141 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=141&z=2002-02-06&g=2002-02-06) moeten zijn gesloten dan wel aangebracht;
-
-- j. aan boord van een passagiersschip, van alle oefeningen in het behandelen en alle inspecties van waterdichte deuren, patrijspoorten, kleppen en afsluiters en van de daarbij te voorschijn gekomen gebreken;
-
-- k. aan boord van een passagiersschip dat gevaarlijke stoffen als bedoeld in [artikel 130 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130&z=2002-02-06&g=2002-02-06) vervoert, van al hetgeen bij het laden, gedurende de reis en bij het lossen is gedaan om ongevallen als gevolg van de aanwezigheid van deze stoffen te voorkomen;
-
-- l. aan boord van een schip, dat een deklast hout vervoert, van de hoogte van de deklast en van de peilingen van de ballasttanks bij het begin van en gedurende de reis;
-
-- m. aan boord van een schip voorzien van een noodkrachtbron, van een tijdelijke noodkrachtbron en van automatische inrichtingen van de noodinstallatie, van de beproevingen daarvan;
-
-- n. aan boord van een schip voorzien van elektrische noodverlichting, van de beproeving daarvan;
-
-- o. van de controles en beproevingen als bedoeld in [het eerste lid, onder d, van artikel 140 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=140&z=2002-02-06&g=2002-02-06);
-
-- p.
-
-- 1°. van de persoon aangewezen voor afhandeling van de radioberichtgeving tijdens noodgevallen;
-
-- 2°. van het tijdstip, waarop bij het verlaten van de haven, de radiowacht begint en het tijdstip, waarop bij het binnenlopen van de haven, die wacht wordt beëindigd;
-
-- 3°. van de gegevens betreffende controle, onderhoud en het laden van de accumulatorbatterijen;
-
-- 4°. wekelijks van de bijzonderheden omtrent het beproeven van de verplicht aanwezige draagbare VHF radio-installaties;
-
-- 5°. wekelijks van de bijzonderheden omtrent het beproeven van de eventueel aanwezige vast aangebrachte VHF radio-installaties in reddingboten;
-
-- 6°. maandelijks van de bijzonderheden omtrent het beproeven van het verplicht aanwezige satellietnoodradiobaken en de radartransponders;
-
-- 7°. van bijzonderheden omtrent de radiorichtingzoeker;
-
-- 8°. van de berichtenwisseling met betrekking tot het nood-, spoed- en veiligheidsverkeer in samengevatte vorm;
-
-- 9°. van alle afwijkingen in de goede werking van de radio-installaties.
-
-2. De kapitein is verplicht zorg te dragen dat de wachtdoende stuurman en de wachtdoende scheepswerktuigkundige, alsmede de persoon belast met de radiowacht, het scheepsdagboek en het machinedagboek ook overigens op de juiste wijze bijhouden.
-
-3. De kapitein is verplicht de laatste data van inspecties, appèls en oefeningen als bedoeld in het eerste lid van dit artikel onder b, c, d, e, g, j, m, n en o bij het in gebruik nemen van een nieuw dagboek uit het vorige dagboek te doen overnemen.
-
-4. De kapitein van een schip binnengekomen in een haven in Nederland, de Nederlandse Antillen, of Aruba, is verplicht binnen drie dagen na binnenkomst en in ieder geval vóór het vertrek het scheepsdagboek aan de betrokken ambtenaar van de Scheepvaartinspectie ter inzage te zenden. Indien daartoe het verzoek wordt gedaan, moet het machinedagboek mede ter inzage worden gegeven. Blijft het schip langer dan één jaar buiten een haven als hierboven bedoeld, dan is de kapitein verplicht de scheepsdagboeken van de afgelopen reizen, telkenmale na verloop van ten hoogste één jaar, te zenden aan de Scheepvaartinspectie. Wordt het schip opgelegd in een haven buiten Nederland, de Nederlandse Antillen of Aruba, dan is de kapitein verplicht de scheepsdagboeken binnen acht dagen te zenden aan de Scheepvaartinspectie. Van de naleving van de in dit lid gegeven voorschriften kan de Scheepvaartinspectie vrijstelling verlenen, al dan niet onder bepaalde voorwaarden in verband met de korte duur van de reis of op grond van bijzondere omstandigheden. De kapitein ontvangt de ingezonden dagboeken zo spoedig mogelijk terug, voorzien van een gedagtekende en ondertekende verklaring, dat zij door een ambtenaar van de Scheepvaartinspectie zijn gecontroleerd.
+Vervallen
 
 ##### Artikel 161
 
@@ -1984,133 +1070,89 @@ Vervallen
 
 ##### Artikel 162. Loodsladders
 
-De kapitein draagt ervoor zorg dat de loodsladder schoon en in goede staat wordt gehouden en alleen wordt gebruikt voor het aan boord nemen of ontschepen van een loods, alsmede van havenautoriteiten bij aankomst in of vertrek uit een haven.
+Vervallen
 
 ##### Artikel 163. Verplichte boekwerken
 
-1. De kapitein is verplicht zorg te dragen dat aan boord aanwezig zijn:
-
-- a. de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876);
-
-- b. het Schepenbesluit 1965;
-
-- c. de door het Hoofd van de Scheepvaartinspectie uitgegeven bekendmakingen aan de scheepvaart;
-
-- d. de van kracht zijnde bepalingen ter voorkoming van aanvaringen op zee.
-
-- a. De kapitein van een schip dat verpakte gevaarlijke stoffen als bedoeld in [artikel 130d van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130d&z=2002-02-06&g=2002-02-06) als lading vervoert, is verplicht zorg te dragen dat het in [artikel 130e](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130e&z=2002-02-06&g=2002-02-06) vermelde «Handboek Gevaarlijke Stoffen», alsmede de in voornoemd Handboek vermelde «International Maritime Dangerous Goods Code», beide bijgewerkt in overeenstemming met de daarop verschenen aanvullingen, aan boord aanwezig zijn.
-
-- b. De kapitein van een schip dat gestorte ladingen als bedoeld in de [artikelen 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=128&z=2002-02-06&g=2002-02-06), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=129&z=2002-02-06&g=2002-02-06), [130a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130a&z=2002-02-06&g=2002-02-06) en [130b van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130b&z=2002-02-06&g=2002-02-06) vervoert, is verplicht zorg te dragen dat het in [artikel 130c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130c&z=2002-02-06&g=2002-02-06)vermelde «Handboek Gestorte Ladingen», bijgewerkt in overeenstemming met de daarop verschenen aanvullingen, aan boord aanwezig is.
-
-3. De kapitein van een tankschip is verplicht zorg te dragen dat een handboek aan boord aanwezig is, waarin de voor het betreffende schip geldende operationele veiligheids- en bedrijfsvoorschriften zijn opgenomen.
+Vervallen
 
 ### Hoofdstuk XI. Verplichtingen van de eigenaar
 
 ##### Artikel 164. Veiligheidsmanagementsysteem
 
-1. De eigenaar van een passagiersschip of van een schip van 500 ton of meer is verplicht een veiligheidsmanagementsysteem te ontwikkelen en toe te passen voor de bedrijfsvoering van de organisatie en van de schepen. Het veiligheidsmanagementsysteem dient te voldoen aan de eisen, gesteld in [bijlage VI bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=VI&z=2002-02-06&g=2002-02-06).
+Vervallen
 
 ##### Artikel 164a. Medewerking bij onderzoek
 
-De eigenaar is verplicht aan degene die een onderzoek verricht alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
+Vervallen
 
 ##### Artikel 165. Onderzoek van de romp aan de buitenzijde
 
-1. De eigenaar van een schip is verplicht zorg te dragen dat de romp van het schip aan de buitenzijde wordt onderzocht overeenkomstig het bepaalde in [artikel 12, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2002-02-06&g=2002-02-06), [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=13&z=2002-02-06&g=2002-02-06), en [artikel 14, vijfde lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=14&z=2002-02-06&g=2002-02-06).
-
-2. Telkens indien van een schip de romp aan de buitenzijde zal worden onderzocht of indien aan het schip of aan de werktuigen of installaties herstellingen of wijzigingen zullen plaatshebben, wordt hiervan door of vanwege de eigenaar tijdig aan de Scheepvaartinspectie en aan het desbetreffende klassebureau kennis gegeven ten einde de Scheepvaartinspectie en het klassebureau in de gelegenheid te stellen hierbij toezicht te houden.
+Vervallen
 
 ##### Artikel 166. Verschaffen nodige middelen
 
-De eigenaar van een schip is verplicht aan de kapitein de middelen te verschaffen, die deze, in verband met de uitvoering van de taak hem in dit besluit opgedragen, behoeft.
+Vervallen
 
 ##### Artikel 166a. Registratie van opvarenden
 
-1. De eigenaar van een passagiersschip zet een systeem op voor de registratie van passagiersgegevens, dat voldoet aan de volgende eisen:
-
-- a. **leesbaarheid:** de formattering van de gegevens moet zodanig zijn dat zij gemakkelijk leesbaar zijn;
-
-- b. **beschikbaarheid:** de vereiste gegevens moeten onmiddellijk beschikbaar zijn voor de aangewezen instanties waarvoor de in het systeem opgeslagen informatie van belang is;
-
-- c. **vlotte werking:** het systeem moet zo in elkaar zitten dat er geen onnodige vertraging ontstaat voor de passagiers die zich inschepen dan wel aan land gaan;
-
-- d. **beveiliging:** de gegevens moeten voldoende beveiligd zijn tegen het per ongeluk of onwettig vernietigen of verloren gaan en tegen wijziging, bekendmaking of toegang door onbevoegden.
-
-2. Het systeem behoeft de goedkeuring van het Hoofd van de Scheepvaartinspectie. De eigenaar draagt ervoor zorg dat de voorgeschreven gegevens te allen tijde onmiddellijk beschikbaar zijn om aan de aangewezen instantie te worden doorgegeven voor opsporings- en reddingsoperaties in een noodgeval of na een ongeluk. De persoonsgegevens die zijn verzameld overeenkomstig [artikel 136b](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=136b&z=2002-02-06&g=2002-02-06) en [166b](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XI&artikel=166b&z=2002-02-06&g=2002-02-06) mogen niet langer worden bewaard dan noodzakelijk is in verband met opsporings- en reddingsactiviteiten.
-
-3. De eigenaar van een passagiersschip stelt een passagiersregistratiebeambte aan.
+Vervallen
 
 ##### Artikel 166b
 
-De eigenaar van een passagiersschip draagt er zorg voor dat nadere gegevens over personen die hebben verklaard in noodsituaties speciale zorg of bijstand nodig te hebben, naar behoren worden geregistreerd en aan de kapitein worden doorgegeven voordat het passagiersschip vertrekt.
+Vervallen
 
 ### Hoofdstuk XII. Voorschriften met betrekking tot oorlog en oorlogsgevaar
 
 ##### Artikel 167. Permanente voorzieningen
 
-Teneinde in het belang van de veiligheid van schepen en hun opvarenden in tijden van oorlog of oorlogsgevaar de oorlogsuitrusting van schepen op eenvoudige wijze te kunnen aanbrengen, moeten de constructie en inrichting van schepen van meer dan 300 ton ten aanzien van de plaatsing van de defensieve uitrusting, de bergplaatsen van de bijbehorende munitie, de kanonniersaccommodatie, alsmede de inrichting voor de demagnetisering, voldoen aan de eisen, daartoe door het Hoofd van de Scheepvaartinspectie, in overeenstemming met de Chef van de Marinestaf, gesteld.
+Vervallen
 
 ##### Artikel 168. Marinebescheiden
 
-1. De kapitein is verplicht de hem vanwege de Chef van de Marinestaf ter hand te stellen bescheiden te aanvaarden, daarvan kennis te nemen en de daarbij gegeven aanwijzingen op te volgen.
-
-2. De kapitein is verplicht deze bescheiden op een doelmatige plaats te bewaren.
+Vervallen
 
 ##### Artikel 169. Oorlogsuitrusting
 
-1. In geval van oorlogsgevaar en gedurende een oorlog waarin het Koninkrijk der Nederlanden al of niet is betrokken, moet aan boord van alle schepen, daartoe aangewezen door het Hoofd van de Scheepvaartinspectie, in overeenstemming met de Chef van de Marinestaf, de vereiste oorlogsuitrusting worden aangebracht en in stand gehouden, overeenkomstig de daartoe door genoemd Hoofd, in overeenstemming met de Chef van de Marinestaf, gestelde eisen.
-
-2. De kapitein is verplicht de aanwijzingen op te volgen, die door het Hoofd van de Scheepvaartinspectie worden gegeven ter voorkoming van ongevallen, ten gevolge van na een oorlog nog aanwezige oorlogsgevaren.
+Vervallen
 
 ##### Artikel 170. Verplichtingen van de kapitein
 
-In geval van oorlogsgevaar en gedurende een oorlog, waarin het Koninkrijk der Nederlanden al of niet is betrokken, moeten de kapiteins van alle schepen die door het Hoofd van de Scheepvaartinspectie, in overeenstemming met de Chef van de Marinestaf, daartoe zijn aangewezen, voldoen aan de verplichtingen ten aanzien van de veiligheid en de constructie, door genoemd Hoofd in overeenstemming met de Chef van de Marinestaf aan hen opgelegd.
+Vervallen
 
 ##### Artikel 171. Geldigheidsduur
 
-De aanwijzingen en eisen, krachtens de [artikelen 169](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XII&artikel=169&z=2002-02-06&g=2002-02-06) en [170 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XII&artikel=170&z=2002-02-06&g=2002-02-06) gegeven en gesteld, treden na verloop van drie maanden buiten werking, tenzij zij inmiddels door Ons zijn goedgekeurd.
+Vervallen
 
 ### Hoofdstuk XIII. Aanvullende voorschriften
 
 ##### Artikel 172
 
-(vervallen)
+Vervallen
 
 ##### Artikel 173. Gevallen van overmacht
 
-1. Indien één of meer bepalingen van dit besluit op het ogenblik dat een reis wordt ondernomen niet op een schip van toepassing zijn, zullen zij, indien en voorzover het schip ten gevolge van slecht weer of ten gevolge van een ander geval van overmacht is genoodzaakt van de voorgenomen reis af te wijken, niet op dit schip van toepassing worden.
-
-2. Bij de beoordeling van de vraag of een bepaling van dit besluit al dan niet op een schip van toepassing is, wordt met personen die zich daar aan boord bevinden ten gevolge van overmacht of ten gevolge van een wettelijke verplichting van de kapitein om hetzij schipbreukelingen, hetzij andere personen over te voeren, geen rekening gehouden.
+Vervallen
 
 ##### Artikel 174. Aanvullende voorschriften
 
 1. In het belang van een goede uitvoering van dit besluit, kunnen door het Hoofd van de Scheepvaartinspectie nadere regels worden gegeven.
 
-2. Indien een voorziening of constructie ingevolge dit besluit of de bijbehorende bijlagen ten genoegen van het Hoofd van de Scheepvaartinspectie moet zijn, stelt deze geen verdergaande eisen dan:
-
-- a. bij de ten tijde van de beslissing bestaande stand van de techniek algemeen gebruikelijk zijn, of, gelet op een rendabele exploitatie van het schip, redelijkerwijs gevergd kunnen worden, of
-
-- b. met het oog op de veiligheid van het schip, de lading of de bemanning dringend noodzakelijk zijn.
-
-3. De ambtenaren als bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), kunnen in elk bijzonder geval, rekening houdende met de terzake door het Hoofd van de Scheepvaartinspectie gegeven algemene aanwijzingen, voorschriften geven ter bevordering van de juiste naleving van het bepaalde in dit besluit.
-
 ### Hoofdstuk XIIIA. Voorschriften met betrekking tot schepen die worden gebezigd voor doeleinden van bijzondere aard
 
 ##### Artikel 174a
 
-1. Met inachtneming van de door de Internationale Maritieme Organisatie (IMO) aanvaarde aanbevelingen ter zake, kan Onze Minister met betrekking tot de constructie, inrichting en uitrusting van een schip dat is gebouwd of geschikt gemaakt en wordt gebezigd voor doeleinden van bijzondere aard, regelen stellen die afwijken van het bepaalde in dit besluit, mits zodanige regelen ten minste even doelmatig zijn.
-
-2. Met inachtneming van de door de Internationale Maritieme Organisatie (IMO) aanvaarde aanbevelingen ter zake, kan Onze Minister nadere regelen stellen met betrekking tot installaties aan boord, welke samenhangen met de werkzaamheden van een schip dat is gebouwd of is geschikt gemaakt en wordt gebezigd voor doeleinden van bijzondere aard.
+Vervallen
 
 ##### Artikel 174b
 
-Bij ministeriële regeling kunnen ter uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen regels worden gesteld met betrekking tot eisen die aan passagiersschepen in het kader van de veilige exploitatie van geregelde diensten worden gesteld en met betrekking tot onderzoeken waaraan passagiersschepen in het kader van de veilige exploitatie van geregelde diensten worden onderworpen. Deze eisen en onderzoeken kunnen mede betrekking hebben op de bedrijfsvoering over die schepen.
+Vervallen
 
 ### Hoofdstuk XIV. Strafbepalingen
 
 ##### Artikel 175
 
-Overtreding van de [artikelen 136a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=136a&z=2002-02-06&g=2002-02-06), [136b](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=136b&z=2002-02-06&g=2002-02-06), [139a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=139a&z=2002-02-06&g=2002-02-06), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=140&z=2002-02-06&g=2002-02-06), [141](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=141&z=2002-02-06&g=2002-02-06), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=142&z=2002-02-06&g=2002-02-06), [150, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=150&z=2002-02-06&g=2002-02-06), [154](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=154&z=2002-02-06&g=2002-02-06), [158a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=158a&z=2002-02-06&g=2002-02-06), [160, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=X&artikel=160&z=2002-02-06&g=2002-02-06), [165](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XI&artikel=165&z=2002-02-06&g=2002-02-06), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XI&artikel=166&z=2002-02-06&g=2002-02-06), [166a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XI&artikel=166a&z=2002-02-06&g=2002-02-06) en [166b](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=XI&artikel=166b&z=2002-02-06&g=2002-02-06) is een strafbaar feit.
+Vervallen
 
 ##### Artikel 176
 
@@ -2144,21 +1186,13 @@ Vervallen
 
 ##### Artikel 182a. Constructie, inrichting en uitrusting
 
-1. Voor schepen gebouwd vóór 26 mei 1965, zijn de voorschriften van dit besluit met betrekking tot de constructie en inrichting, voor zover deze afwijken van die van het Schepenbesluit 1952, alleen van toepassing indien zulks praktisch uitvoerbaar en redelijk kan worden geacht.
-
-2. De uit het bepaalde in het eerste lid voortvloeiende veranderingen van de constructie en inrichting aan boord van bedoelde schepen moeten – in overleg met de ambtenaren van de Scheepvaartinspectie – worden uitgevoerd bij belangrijke reparaties en vernieuwingen aan het casco, bij ingrijpende veranderingen in de accommodatie, bij het vernieuwen van installaties en bij andere daartoe geëigende gelegenheden. Als regel mogen schepen als bedoeld in het eerste lid, door het ondergaan van een reparatie of een verandering niet in geringere mate aan de voorschriften van dit besluit voldoen dan zij vóór de reparatie of de verandering deden.
-
-3. Voor de in het eerste lid van dit artikel bedoelde schepen zijn de voorschriften van dit besluit met betrekking tot de uitrusting, voorzover deze afwijken van die van het Schepenbesluit 1952, van toepassing zoals hierna is aangegeven:
-
-- a. vervanging van in het Schepenbesluit 1952 verplicht gestelde uitrustingsartikelen door die van het in het Schepenbesluit 1965 voorgeschreven type, moet plaats vinden bij vernieuwing van de betreffende artikelen of wanneer deze grote reparaties vereisen;
-
-- b. de verdere aanpassing van in het Schepenbesluit 1952 verplicht gestelde uitrusting aan die welke is voorgeschreven in het Schepenbesluit 1965, dient – voorzover zulks praktisch uitvoerbaar en redelijk is – plaats te hebben in overleg met de ambtenaren van de Scheepvaartinspectie.
+Vervallen
 
 ### Hoofdstuk XVI. Slotbepalingen
 
 ##### Artikel 183
 
-Ministeriële regelingen vastgesteld krachtens dit besluit worden bekendgemaakt in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba.
+Vervallen
 
 ##### Artikel 184
 
@@ -2166,231 +1200,231 @@ Dit besluit kan worden aangehaald als «Schepenbesluit 1965». Het werkt terug t
 
 ## Bijlage I. Vaststelling van de uitwatering
 
-### Hoofdstuk I. Algemene bepalingen
+### Hoofdstuk VI. Bepalingen voor kleine vaartuigen
 
-### Artikel 1. Toepassing
+### Artikel 71. Toepasselijkheid
 
-1. Voor werktuiglijk voortbewogen schepen en voor lichters, sleepschepen en andere schepen zonder eigen voortstuwingsmiddelen wordt het vrijboord vastgesteld ingevolge het bepaalde in de artikelen 1 tot en met 40 van deze bijlage.
+De artikelen 72 tot en met 86 zijn uitsluitend van toepassing op kleine vaartuigen.
 
 2. Voor schepen die deklasten hout vervoeren, kan naast het vrijboord vastgesteld overeenkomstig het bepaalde in de artikelen 1 tot en met 40 van deze bijlage, een houtvaartvrijboord worden vastgesteld ingevolge het bepaalde in de artikelen 41 tot en met 45 van deze bijlage.
 
-3. Voor zeilschepen al dan niet voorzien van een werktuiglijke voortstuwing en sleepboten wordt het vrijboord vastgesteld ingevolge het bepaalde in de artikelen 1 tot en met 40 van deze bijlage.
+1. Deuren, die toegang geven tot de voortstuwingsruimte of tot de eerste of tweede laag van een bovenbouw of waterdicht dekhuis, moeten voldoen aan NEN-ISO-norm 6042, met dien verstande dat volstaan kan worden met het aanbrengen van vier knevels.
 
-Door het Hoofd van de Scheepvaartinspectie kan voor deze schepen een toeslag worden gegeven op het aldus bepaalde vrijboord.
+Luiken in positie 1 of 2, die toegang geven tot de eerste of tweede laag van een bovenbouw, waterdicht dekhuis of voortstuwingsruimte, moeten voldoen aan de ISO-norm 5778. Nastelbare scharnieren van voldoende sterkte mogen in de plaats gesteld worden van knevels.
 
-4. Voor houten schepen, voor composiet schepen, voor schepen vervaardigd van andere door het Hoofd van de Scheepvaartinspectie goedgekeurde materialen, of voor schepen waarvan de constructieve eigenschappen zodanig zijn dat toepassing van het bepaalde in de artikelen 1 tot en met 40 van deze bijlage onredelijk of onuitvoerbaar zou zijn, wordt het vrijboord door het Hoofd van de Scheepvaartinspectie vastgesteld.
+2. De in het eerste lid bedoelde deuren moeten blijvend en stevig aan het schot zijn bevestigd en zodanig zijn ingeraamd dat het gehele samenstel, indien de opening daardoor is afgesloten, even sterk is alsof geen opening in het schot aanwezig was.
 
 ### Artikel 2. Omschrijvingen
 
-1. **Lengte**
+3. Deuren en luiken van een ander materiaal dan staal, mogen slechts na toestemming van het Hoofd van de Scheepvaartinspectie worden toegepast.
 
 De lengte (L) is gelijk aan 96 procent van de lengte van de lastlijn op 85 percent van de kleinste holte naar de mal gemeten vanaf de bovenzijde van de kielplaat, dan wel gelijk aan de lengte van de voorzijde van de voorsteven tot aan de hartlijn van de roerkoning op deze lastlijn gemeten, indien deze laatste lengte groter is.
 
-Bij schepen die met stuurlast zijn ontworpen moet de lastlijn waarop deze lengte gemeten wordt, evenwijdig aan de constructiewaterlijn worden genomen.
+1. Drempels van toegangsdeuren in schachten of toegangskappen op de voortstuwingsruimten moeten een hoogte boven het dek hebben van ten minste 450 mm in positie 1 en van ten minste 300 mm in positie 2.
 
-Als de voorstevencontour boven de lastlijn op 85 percent van de kleinste holte naar de mal concaaf van vorm is, wordt aangenomen dat het voor gelegen eindpunt van de lengte en de voorzijde van de voorsteven samenvallen met de verticale projectie van het meest naar achteren gelegen punt van de voorstevencontour (boven die lastlijn) op die lastlijn.
+Indien toegangsluiken tot de voortstuwingsruimte niet zijn gelegen in een waterdicht dekhuis of gesloten bovenbouw, moet de luikhoofdhoogte boven het dek ten minste 450 mm bedragen in positie 1 en ten minste 300 mm in positie 2.
 
-Raadpleeg voor deze afbeelding Stb. 1997/745.
+2. Schachten van ventilatie-openingen, schoorstenen en luchtkokers op voortstuwingsruimte op blootgestelde plaatsen op het vrijboorddek of op het dek van een bovenbouw moeten zo hoog boven het dek worden opgetrokken als redelijk en uitvoerbaar is.
 
-2. **Loodlijnen**
+De ventilatie-openingen moeten zijn voorzien van voldoend sterke, vast aangebrachte afsluitmiddelen van staal of een ander gelijkwaardig materiaal die de openingen dicht tegen weer en wind kunnen afsluiten.
 
 De voorloodlijn (VLL) en de achterloodlijn (ALL) zijn de loodlijnen op het voorste en het achterste punt van de lengte (L).
 
-De voorloodlijn moet getroken worden door het snijpunt van de lastlijn waarop de lengte is gemeten en de voorzijde van de voorsteven.
+1. Mangaten en verzonken stortranden in positie 1 en 2 of in een bovenbouw, geen gesloten bovenbouw zijnde, moeten worden afgesloten door voldoende sterke deksels die een waterdichte afsluiting verzekeren.
 
-3. **Midscheeps**
+De deksels moeten blijvend zijn aangebracht, tenzij deze zijn bevestigd door zich op korte afstand van elkaar bevindende bouten.
 
-Midscheeps is gelegen op het midden van de lengte (L).
+2. Openingen in het vrijboorddek, geen laadopeningen, openingen boven voortstuwingsruimten, mangaten of verzonken stortranden zijnde, moeten zijn beschermd door een gesloten bovenbouw of door een waterdicht dekhuis of een toegangskap van gelijkwaardige sterkte en waterdichtheid. Dergelijke openingen in het blootgestelde dek van een bovenbouw of van een waterdicht dekhuis op het vrijboorddek, die toegang geven tot een ruimte onder het vrijboorddek of tot een ruimte in een gesloten bovenbouw, moeten zijn beschermd door een dekhuis of toegangskap van voldoende sterkte.
 
-4. **Breedte**
+Deuren in dergelijke dekhuizen, bovenbouwen of toegangskappen moeten een drempelhoogte hebben van ten minste 300 mm en moeten voldoen aan het bepaalde in artikel 72.
 
-Tenzij uitdrukkelijk anders is bepaald, is de breedte (B) de grootste breedte van het schip midscheeps gemeten op de buitenkant der spanten bij een schip met een metalen huid en op de buitenkant van de huid bij een schip met een huid van ander materiaal.
+3. Indien een dergelijke opening niet voorzien is van de in het tweede lid omschreven bescherming moet op die opening een luik zijn aangebracht dat voldoet aan het bepaalde in artikel 72. De drempel- of luikhoofdhoogte boven het dek moet ten minste 450 mm in positie 1 bedragen en ten minste 300 mm in positie 2. Indien een opening slechts wordt beschermd door een niet-waterdicht dekhuis moet een binnen dat dekhuis gelegen toegangsdeur of luik, een drempel respectievelijk luikhoofdhoogte te hebben van ten minste de hoogte van de drempel van de toegangsdeur van dat dekhuis, vermeerderd met 150 mm. Dit hoogteverschil moet evenwijdig aan de ontwerplastlijn worden gemeten. De drempelhoogte van de buitendeur van een dergelijk niet-waterdicht dekhuis mag niet meer dan 150 mm bedragen.
 
-5. **Holte naar de mal**
+4. Voor toegangen naar de voor- of achterpiek, welke op zee voor de normale bedrijfsuitoefening niet behoeven te worden betreden, en voor vluchtluiken is geen luikhoofd vereist.
 
 6. **Holte (D) voor de berekening van het vrijboord**
 
-7. **Volheidscoëfficient**
+1. Luchtkokers in positie 1 en 2 moeten zijn voorzien van sterk geconstrueerde schachten van staal of een ander gelijkwaardig materiaal, die deugdelijk aan het dek zijn verbonden.
 
-De volheidscoëfficient (Cb) wordt uitgedrukt
+Indien de schacht van de luchtkoker hoger is dan 900 millimeter moet hij extra zijn gesteund.
 
-door
+2. De schachten van luchtkokers die door een niet-waterdicht dekhuis worden gevoerd, moeten op het vrijboorddek sterk zijn geconstrueerd van staal of van een ander gelijkwaardig materiaal.
 
-waarin: V het volume naar de mal voorstelt (schroefasuitbouwsels niet meegerekend) bij een schip met een metalen huid, en de waterverplaatsing op buitenkant huid bij een schip met een huid van ander materiaal, beide bij een diepgang d 1 naar de mal;
+3. Schachten van luchtkokers moeten in positie 1 een hoogte van 900 mm en in positie 2 een hoogte van 760 mm boven het dek hebben.
 
-d1 is 85 percent van de kleinste holte naar de mal.
+4. Luchtkokers moeten waterdicht afsluitbaar zijn. Een uitvoering waarbij de inslag van water wordt voorkomen kan, afhankelijk van de plaats en de beschermde positie van de luchtkoker, worden aanvaard. Luchtkokers op de voortstuwingsruimte moeten te allen tijde zijn voorzien van brandkleppen die vanaf het open dek bedienbaar zijn. Een goedgekeurd, waterdicht afsluitmiddel kan in dit verband beschouwd worden als brandklep.
 
-8. **Vrijboord**
+5. Schachten van luchtkokers, welke op verhoogde dekken met een breedte kleiner dan 0,92 B op dekhuizen zijn aangebracht, behoeven niet hoger te zijn dan 150 mm, maar mogen nooit lager zijn dan 900 mm, gemeten vanaf het dek waarop het dekhuis of het verhoogde dek is aangebracht.
 
 Het toegekende vrijboord is de in het midscheepse vlak vertikaal gemeten afstand van de bovenkant van de deklijn, als aangegeven in artikel 3 van deze bijlage, tot de bovenkant van de van toepassing zijnde lijn van het uitwateringsmerk, als aangegeven in artikel 5 van deze bijlage.
 
-9. **Vrijboorddek**
+Luchtpijpen van tanks, die boven het bovenste doorlopende, blootgestelde dek uitsteken, moeten waterdicht afsluitbaar zijn. De blootgestelde delen van die pijpen moeten van voldoende sterkte zijn.
 
-Het vrijboorddek is in het algemeen het bovenste doorlopende dek dat is blootgesteld aan weer en wind en dat is voorzien van permanente middelen tot sluiting van alle openingen in de aan weer en wind blootgestelde gedeelten en waar beneden alle openingen in de zijden van het schip zijn voorzien van permanente middelen tot waterdichte afsluiting. Indien het vrijboorddek verspringt, wordt het laagste gedeelte van het blootgestelde dek en de voortzetting van dat gedeelte evenwijdig aan het verhoogde gedeelte, als vrijboorddek beschouwd.
+De openingen van deze luchtpijpen moeten zich bevinden op een afstand van:
 
-Behoudens goedkeuring door het Hoofd van de Scheepvaartinspectie kan op verzoek van de eigenaar een lager gelegen dek als vrijboorddek worden aangemerkt, mits dit dek vast aangebracht is, in langsscheepse richting ten minste doorlopend is tussen de voortstuwingsruimte en de piekschotten, en in dwarsscheepse richting een doorlopend dek is.
+Indien de luchtpijpen evenwel zijn voorzien van automatisch werkende afsluitmiddelen, wordt geen minimum hoogte vereist.
 
 Indien dit lager gelegen dek verspringt, wordt het laagste gedeelte van het dek en de voortzetting van dat gedeelte evenwijdig aan het verhoogde gedeelte, als vrijboorddek beschouwd.
 
-Indien een lager gelegen dek als vrijboorddek wordt aangenomen, wordt dat gedeelte van de romp dat zich boven het vrijboorddek uitstrekt, beschouwd als een bovenbouw voor zover het betreft de toepassing van de voorwaarden waaraan het schip moet voldoen voor het verkrijgen van een "certificaat van uitwatering" en de berekening van het vrijboord. Het vrijboord wordt ten opzichte van dit dek berekend.
+1. De door de scheepshuid gaande afvoerpijpen van ruimten onder het vrijboorddek of van ruimten in een gesloten bovenbouw of van waterdichte dekhuizen op het vrijboorddek, moeten zijn voorzien van doeltreffende middelen ter voorkoming van het binnendringen van water. Deze middelen tot afsluiting moeten bereikbaar zijn en voorzien zijn van een:
 
-10. **Bovenbouw**
+Indien de binnenboordsopening van een afvoerpijp gelegen is op 240 mm of minder boven de lastlijn bij zomeruitwatering, moeten de bovengenoemde afsluitmiddelen kunnen worden bediend vanaf het vrijboorddek. De plaats waar een rechtstreeks te borgen klep wordt bediend, moet gemakkelijk toegankelijk zijn en er moet aldaar een inrichting zijn aangebracht, die aanwijst of de klep open dan wel gesloten is.
 
-11. **Gladdekschip**
+2. Buitenboordsin- en uitlaatopeningen van pijpleidingen, behorende tot de werktuiglijke inrichting, moeten zijn voorzien van afsluiters of kranen, welke door middel van een flensverbinding aan de huid of aan een op de huid gebouwde stalen kast zijn aangebracht. Voor uitlaatopeningen mag in plaats van een afsluiter of een kraan gebruik worden gemaakt van een terugslagklep, mits deze in gesloten stand kan worden geborgd. Bedoelde afsluitmiddelen moeten gemakkelijk bereikbaar zijn, hetzij vanaf een te allen tijde toegankelijke plaats boven het vrijboorddek, hetzij ter plaatse, in welk laatste geval de bedieningsinrichting onder normale omstandigheden te allen tijde gemakkelijk bereikbaar moet zijn en zich boven de vloerplaten moet bevinden.
 
-Een gladdekschip is een schip zonder enige bovenbouw op het vrijboorddek.
+Afsluiters, kranen en terugslagkleppen moeten op de plaats waar zij kunnen worden bediend, zijn voorzien van een standaanwijzer.
 
-12. **Dicht tegen weer en wind**
+3. Spui- en afvoerpijpen van open dekken, vanuit niet-waterdichte ruimten boven het vrijboorddek en vanuit een kuip in het vrijboorddek, die op een afstand van meer dan 450 mm onder het vrijboorddek of minder dan 600 mm boven de lastlijn bij zomeruitwatering door de scheepshuid worden gevoerd, moeten zijn voorzien van een tegen de scheepshuid geplaatste terugslagklep. De terugslagklep behoeft echter niet geplaatst te worden als de wanddikte van de pijp ten minste overeenkomstig kolom III van de tabel in het zesde lid van dit artikel is.
 
-Dicht tegen weer en wind betekent dat onder alle omstandigheden die zich op zee kunnen voordoen geen water in het schip kan binnendringen.
+Als, in verband met de positie van de huiddoorvoering, geen terugslagklep vereist is, moet de wanddikte van de pijp ten minste overeenkomstig kolom II zijn.
 
 ### Artikel 3. Deklijn
 
-De deklijn is een horizontale lijn met een lengte van 300 millimeter en een dikte van 25 millimeter.
+4. Een niet-waterdicht dekhuis, waarvan de vloer niet lager gelegen is dan het vrijboorddek, behoeft niet te zijn voorzien van spuipijpen, indien aan het schip een windkrachtbeperking van Bf 5 is opgelegd en ten genoegen van het Hoofd van de Scheepvaartinspectie is aangetoond dat geen gevaarlijke toestand ontstaat, indien dit dekhuis tot de bovenzijde van de buitendeurdrempel met water is gevuld.
 
-Zij wordt midscheeps aan elke zijde van het schip aangebracht en haar bovenkant valt in het algemeen samen met de snijlijn van het doorgestrookte bovenvlak van het vrijboorddek met de buitenzijde van de huid (zie afbeelding 1).
+5. Alle terugslagkleppen, kranen, afsluiters en huidappendages die vereist zijn volgens dit artikel moeten van staal, brons of een ander door het Hoofd van de Scheepvaartinspectie goedgekeurd materiaal zijn vervaardigd; gewoon gietijzer of ander dergelijk materiaal is hiervoor niet toegestaan. Zij moeten zijn voorzien van een deksel dat tegen loswerken afdoende is beveiligd. Alle pijpleidingen moeten van staal of van een ander goedgekeurd materiaal zijn vervaardigd.
 
-De deklijn mag worden aangebracht met verwijzing naar een ander vast punt op het schip onder voorwaarde dat het vrijboord een overeenkomstige wijziging ondergaat. De plaats van dit punt en de aanduiding van het vrijboorddek moeten op het "certificaat van uitwatering" zijn vermeld.
+6. De uitvoering en de plaatsing van de voorzieningen betreffende spuipijpen, inlaat- en uitlaatopeningen moet aan de volgende eisen voldoen:
 
-Afbeelding 1
+7. Een watercloset met buitenboordsaansluitingen mag zijn geplaatst onder het vrijboorddek, mits:
 
-### Artikel 4. Uitwateringsmerk
+### Artikel 79. Waterloospoorten op kleine vaartuigen
 
-Het uitwateringsmerk moet bestaan uit een ring met een buitenmiddellijn van 300 millimeter en een dikte van 25 millimeter, gesneden door een horizontale lijn met een lengte van 450 millimeter en een dikte van 25 millimeter, waarvan de bovenkant door het middelpunt van de ring gaat.
+1. Indien op aan weer en wind blootgestelde gedeelten van vrijboord- en bovenbouwdekken een verschansing is aangebracht, moet voldoende gelegenheid tot lozing van water bestaan. De totale oppervlakte van de waterloospoorten in de verschansing op het vrijboorddek moet aan elke zijde ten minste gelijk zijn aan de oppervlakte verkregen uit de volgende formule:
 
-Het middelpunt van de ring moet midscheeps onder de deklijn worden geplaatst op een afstand gelijk aan het toegekende zomervrijboord, vertikaal gemeten vanaf de bovenkant van de deklijn (zie afbeelding 2).
+Oppervlakte in m² = 0,07 ∗ l
 
 ### Artikel 5. Lijnen die in samenhang met het uitwateringsmerk dienen te worden gebruikt
 
-1. De lijnen die de grootste toegelaten diepgang onder verschillende omstandigheden en voor verschillende vaargebieden en jaargetijden aanduiden, moeten horizontale lijnen zijn met een lengte van 230 millimeter en een dikte van 25 millimeter. Zij sluiten aan bij en staan loodrecht op een 25 mm dikke vertikale lijn, die 540 millimeter vóór het middelpunt van de ring is geplaatst. Tenzij uitdrukkelijk anders is bepaald, worden zij aan de voorzijde van deze vertikale lijn aangebracht (zie afbeelding 2).
+De totale oppervlakte van de waterloospoorten in de verschansing op een bovenbouwdek moet aan elke zijde ten minste gelijk zijn aan de helft van de oppervlakte verkregen uit bovenstaande formule.
 
-Afbeelding 2
+De uit de formule verkregen oppervlakte geldt voor een hoogte van de verschansing van 900 mm. Indien de gemiddelde hoogte van de verschansing kleiner is dan 900 mm, mag de vereiste oppervlakte van de waterloospoorten worden verkleind met 0,004 m² per meter lengte van de verschansing (l) voor elke 100 mm verschil in hoogte.
 
-2. De volgende lijnen kunnen voorkomen:
+Indien de gemiddelde hoogte van de verschansing groter is dan 900 mm moet de oppervlakte der waterloospoorten op analoge wijze worden vergroot.
 
-3. De lijnen die de grootste toegelaten diepgang bij het vervoer van deklasten hout onder verschillende omstandigheden en voor verschillende vaargebieden en jaargetijden aanduiden, moeten horizontale lijnen zijn met een lengte van 230 millimeter en een dikte van 25 millimeter.
+2. Op een vaartuig zonder zeeg moet het oppervlak van de waterloospoorten, bepaald volgens het eerste lid van dit artikel, met 50 percent worden vergroot.
 
-Zij sluiten aan bij en staan loodrecht op een 25 mm dikke vertikale lijn, die 540 millimeter achter het middelpunt van de ring is geplaatst.
+Indien de zeeg kleiner is dan de standaardzeeg moet het vereiste oppervlak der waterloospoorten door lineaire interpolatie worden vastgesteld.
 
-Tenzij uitdrukkelijk anders is bepaald, worden zij aan de achterzijde van deze vertikale lijn aangebracht (zie afbeelding 3).
+3. Op een vaartuig met een bovenbouw die aan één van de einden of aan beide einden open is, moeten de nodige voorzieningen worden getroffen voor lozing van water in deze bovenbouw.
 
-Afbeelding 3
+4. De onderkant van de waterloospoorten moet zo dicht mogelijk boven het dek liggen.
 
-4. De volgende lijnen kunnen voorkomen:
+De waterloospoorten moeten zodanig over de scheepslengte zijn verdeeld, dat een doelmatige lozing van water verzekerd is.
 
-5. Indien in verband met de kenmerkende eigenschappen of het gebruik van het schip of in verband met een beperking van het vaargebied één of meer van de in dit artikel genoemde uitwateringslijnen niet van toepassing zijn, kunnen deze vervallen.
+5. Waterloospoorten en dergelijke openingen in de verschansing moeten door rasterwerk of door staven met een onderlinge afstand van ongeveer 230 mm worden beschermd.
 
-6. Indien aan een schip een vrijboord wordt toegekend dat zoveel groter is dan het volgens deze bijlage berekende minimum vrijboord, dat het uitwateringsmerk op gelijke hoogte met of lager ligt dan de laagst gelegen uitwateringslijn, behorende bij dit minimum vrijboord, behoeft alleen de lijn voor zoetwateruitwatering op het schip te worden aangegeven.
+Indien kleppen zijn aangebracht, moet voor ruime speling worden gezorgd ten einde klemmen te vermijden. De scharnieren moeten van pennen van roestvrij materiaal zijn voorzien.
 
-7. Op zeilschepen behoeven alleen de lijnen voor zoetwateruitwatering en voor Noord-Atlantische winteruitwatering te worden aangegeven (zie afbeelding 4).
+Indien inrichtingen voor het vastzetten van deze kleppen zijn aangebracht moeten deze zijn goedgekeurd door het Hoofd van de Scheepvaartinspectie.
 
 Afbeelding 4
 
-8. Indien de lijn voor Noord-Atlantische winteruitwatering en de lijn voor winteruitwatering, staande op dezelfde vertikale lijn, samenvallen, moet deze lijn worden gemerkt met W.
+1. Dekhuizen voor het onderbrengen van de bemanning en passagiers moeten voldoende sterk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
-9. Extra uitwateringslijnen, zoals aangegeven in [artikel 13 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2002-02-06&g=2002-02-06), moeten loodrecht op de in het eerste lid van dit artikel genoemde vertikale lijn staan en aan de achterzijde van deze lijn zijn aangebracht.
+2. Op werkdekken moet een verschansing of relingwerk, bestaande uit scepters en roeden, met een hoogte van ten minste 900 mm zijn aangebracht.
 
 ### Artikel 6. Aanduiding van de dienst of het bureau belast met de berekening van het vrijboord
 
-1. Wanneer de berekening van het vrijboord uitsluitend door het Hoofd van de Scheepvaartinspectie heeft plaats gehad worden naast de ring en boven de middellijn links de letter S en rechts de letter I geplaatst.
+Op andere plaatsen, die voor de normale bedrijfsuitoefening niet of nauwelijks betreden worden, kan volstaan worden met handgrepen langs een opbouw en een voetrail.
 
-Deze letters moeten een hoogte van 115 millimeter hebben, terwijl de dikte der letters 15 millimeter en de breedte van de letter S ongeveer 75 millimeter moet bedragen.
+3. De hoogte van de opening onder de onderste roede van relingwerk mag niet groter zijn dan 230 mm.
 
-2. Indien de berekening van het vrijboord door een klassebureau heeft plaatsgehad, wordt de naam van het desbetreffende klassebureau aangeduid door naast de ring en hetzij boven hetzij boven en onder de middellijn te plaatsen letters.
+De onderlinge afstand der overige roeden mag niet groter zijn dan 380 mm. Op schepen waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaats is uitgevoerd, moeten de scepters van het relingwerk op het vlakke gedeelte van het dek zijn geplaatst.
 
-De aanduiding mag uit niet meer dan vier letters bestaan. Deze letters moeten een hoogte van 115 millimeter, een dikte van 15 millimeter en een breedte van ongeveer 75 millimeter hebben.
+4. Ter bescherming van de bemanning bij het gaan naar of het komen van hun verblijven, voortstuwingsruimten en alle andere gedeelten die nodig zijn voor de behandeling van het schip, moeten relingen, handleiders of andere afdoende middelen zijn aangebracht.
 
 ### Artikel 7. Bijzonderheden betreffende het aanbrengen van het merk
 
-De ring, lijnen en letters moeten in een witte of gele kleur op donkere ondergrond of in zwart op lichte ondergrond worden aangebracht.
+Indien op of onder dek geen veilig verkeer mogelijk is, dienen op de deklading relingwerk of staaldraden te zijn aangebracht voor een doelmatige bescherming van de bemanning.
 
-Zij moeten tevens permanent aan elke zijde van het schip zijn aangebracht op een door het Hoofd van de Scheepvaartinspectie goedgekeurde wijze.
+6. Alle voor passagiers opengestelde dekken moeten, waar nodig, zijn voorzien van een verschansing of relingwerk van ten minste 900 mm hoogte. Bij relingwerk moet de inrichting zodanig zijn, dat geen gevaar bestaat dat volwassen personen of kinderen door de openingen te water geraken. In een verschansing moeten ten aanzien van waterloospoorten soortgelijke voorzieningen worden getroffen.
 
 De merken moeten goed zichtbaar zijn en blijven.
 
 ### Artikel 8. Verificatie van de merken
 
-Het "certificaat van uitwatering" kan pas worden uitgereikt nadat is gebleken dat de merken juist en op de voorgeschreven wijze zijn aangebracht.
+**Schepen van het type A**
 
 ### Hoofdstuk II. Voorwaarden waaraan het schip moet voldoen voor het verkrijgen van een "certificaat van uitwatering"
 
 ### Artikel 9. Algemene voorwaarden
 
-De vaststelling van de uitwatering geschiedt onder de voorwaarde dat het schip voldoende sterk is gebouwd in verband met de bijbehorende diepgang. Bovendien moeten de nodige maatregelen zijn genomen om schip en bemanning mede in verband met de grootte van het toegekende vrijboord doeltreffend te beschermen. De bepalingen van dit hoofdstuk zijn geheel van toepassing op een schip indien aan dat schip een vrijboord wordt toegekend dat gelijk is aan het minimum vrijboord berekend volgens de bepalingen van deze bijlage.
+3. Elk schip dat niet voldoet aan het bepaalde in het tweede lid van dit artikel wordt beschouwd als een schip van het type B.
 
-Ten aanzien van een schip waarvoor op grond van haar algemene sterkte of om andere redenen een groter vrijboord wordt toegekend, kan het Hoofd van de Scheepvaartinspectie vermindering van de in dit hoofdstuk vermelde eisen toestaan, mits de bescherming van schip en bemanning naar verhouding doeltreffend is.
+4. Het minimum vrijboord van een schip van het type A of B mag niet kleiner zijn dan voorgeschreven in artikel 82 van deze bijlage.
 
 ### Artikel 10. Aan de kapitein te verstrekken gegevens
 
-1. Aan de kapitein van elk schip dienen voldoende door het Hoofd van de Scheepvaartinspectie goedgekeurde gegevens te worden verstrekt, die hem in staat stellen het schip zodanig te beladen en te ballasten dat onaanvaardbare spanningen in de scheepsconstructie worden voorkomen.
+5. Voor lichters, sleepschepen en andere schepen zonder eigen voortstuwingsmiddelen wordt het vrijboord vastgesteld ingevolge de bepalingen van deze bijlage, waarbij het volgende geldt:
 
 Door het Hoofd van de Scheepvaartinspectie kan evenwel voor schepen van een bepaald type of van een bepaalde grootte ontheffing van deze eis worden verleend.
 
-2. Aan de kapitein van elk schip dienen de gegevens ter beschikking te worden gesteld, die nodig zijn, om zich in alle voorkomende omstandigheden een oordeel te kunnen vormen betreffende de stabiliteit van het schip in onbeschadigde toestand.
+De grondslag voor het toe te kennen zomervrijboord is een basisvrijboord van 200 mm.
 
 De vorm waarin deze gegevens worden verstrekt moet door het Hoofd van de Scheepvaartinspectie zijn goedgekeurd.
 
 ### Artikel 11. Eindschotten van de bovenbouw
 
-Schotten aan de blootgestelde einden van gesloten bovenbouwen moeten voldoende sterk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
+570 ( 0,35 - E/L ) mm, waarin
 
 ### Artikel 12. Deuren
 
-1. Alle toegangsopeningen in de eindschotten van gesloten bovenbouwen moeten zijn voorzien van deuren van staal of een ander goedgekeurd materiaal.
+E: de in rekening te brengen lengte van de bovenbouw in meters volgens het bepaalde in artikel 35 van deze bijlage.
 
 De deuren moeten blijvend en stevig aan het schot zijn bevestigd, voldoende verstijfd en zodanig zijn ingeraamd, dat het gehele samenstel, indien de opening daardoor is gesloten, even sterk is alsof geen opening in het schot aanwezig was. De deuren moeten dicht tegen weer en wind kunnen worden afgesloten door middel van pakking en knevels of andere gelijkwaardige middelen.
 
-De afsluitinrichtingen van de deuren moeten blijvend aan het schot of aan de deuren zelf zijn bevestigd en deze moeten zodanig zijn uitgevoerd, dat de deuren aan beide zijden van het schot kunnen worden geopend en gesloten.
+Indien de volheidscoëfficiënt Cb groter is dan 0,68, moet het basisvrijboord volgens artikel 82 van deze bijlage, na de benodigde wijzigingen ingevolge het bepaalde in artikel 83 van deze bijlage worden vermenigvuldigd met de factor: (Cb + 0,68): 1,36.
 
 2. Tenzij uitdrukkelijk anders is bepaald moeten de drempels van de toegangsopeningen in de eindschotten van gesloten bovenbouwen ten minste 380 millimeter boven het dek reiken.
 
-3. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 72 van deze bijlage.
+1. De boeghoogte, waaronder wordt verstaan de vertikale afstand tussen de ontwerplastlijn bij zomeruitwatering en de bovenzijde van het blootgestelde dek in de zijde, gemeten op de voorloodlijn, mag niet minder zijn dan:
 
 ### Artikel 13. Positie van luikhoofden, deuropeningen en luchtkokers
 
-Voor luikhoofden, deuropeningen en luchtkokers worden de volgende posities onderscheiden:
+Bf = de voor het schip geldende windkrachtbeperking volgens de schaal van Beaufort met een maximum van 10, en L = de lengte in meters, doch met een minimum van 10 m en een maximum van 20 m.
 
-positie 1:
+2. Indien de boeghoogte overeenkomstig het bepaalde in het eerste lid van dit artikel wordt verkregen door toepassing van zeeg, moet deze zeeg zich vanaf de voorloodlijn over ten minste 15 percent van de scheepslengte uitstrekken.
 
-positie 2:
+Indien de boeghoogte wordt verkregen door het aanbrengen van een bovenbouw, moet de lengte van de bovenbouw vanaf de voorloodlijn ten minste 0,07L bedragen.
 
-elders op blootgestelde dekken van de bovenbouw.
+3. Voor schepen, waarvoor het bepaalde in het eerste en tweede lid van dit artikel in verband met bijzondere voorwaarden voor de vervulling van hun taak onredelijk of onuitvoerbaar is, kan het Hoofd van de Scheepvaartinspectie afwijkingen toestaan.
 
-### Artikel 14. Luikhoofden en andere hoofden
+### Artikel 86. Minimum vrijboord van een klein vaartuig
 
-1. De bouw en de waterdichte afsluiting van luikhoofden en andere hoofden in positie 1 en 2 moeten ten minste gelijkwaardig zijn aan hetgeen in de artikelen 15 en 16 van deze bijlage is voorgeschreven.
+1. **Zomervrijboord**
 
-2. De hoofden en de luiken van blootgestelde luikopeningen in dekken boven het dek van de bovenbouw moeten voldoen aan door het Hoofd van de Scheepvaartinspectie te stellen eisen.
+Het minimum vrijboord in het zomervaargebied is het vrijboord volgens artikel 82 van deze bijlage, echter na wijziging ingevolge:
 
 ### Artikel 15. Luikhoofden voorzien van wegneembare luiken en waterdicht afgesloten door middel van presennings en schalkinrichtingen
 
-**Luikhoofden**
+Voor een schip waarvan de luikhoofden in positie 1 zijn voorzien van luiken die niet voldoen aan het bepaalde in de artikelen 16 of 26 van deze bijlage, mag dit vrijboord in zout water niet minder zijn dan 150 mm.
 
-1. Onverminderd het bepaalde bij of krachtens de Stuwadoorswet moet de hoogte van luikhoofden in positie 1 ten minste 600 millimeter boven het dek bedragen en in positie 2 ten minste 450 millimeter.
+3.**Tropenvrijboord**
 
-De hoofden moeten deugdelijk zijn geconstrueerd.
+Het minimum vrijboord in het tropisch vaargebied is het vrijboord dat wordt verkregen door van het toegekende zomervrijboord 1/48 van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk, af te trekken.
 
-**Luiken**
+4. Het tropenvrijboord berekend overeenkomstig het bepaalde in het derde lid van dit artikel, echter zonder correctie voor de plaats van de deklijn zoals bepaald in artikel 32 van deze bijlage, mag in zout water niet minder zijn dan 50 mm.
 
-2. De breedte van elk draagvlak voor de luiken moet ten minste 65 millimeter bedragen.
+Voor een schip waarvan de luikhoofden in positie 1 zijn voorzien van luiken die niet voldoen aan het bepaalde in de artikelen 16 of 26 van deze bijlage mag dit vrijboord in zout water niet minder zijn dan 150 mm.
 
-3.
+5. **Wintervrijboord**
 
-4. Indien de luiken van staal zijn vervaardigd, moet de sterkte ervan worden berekend met behulp van een aangenomen belasting van niet minder dan 1,75 ton per vierkante meter voor luikhoofden in positie 1 en niet minder dan 1,30 ton per vierkante meter voor luikhoofden in positie 2. Het produkt van de aldus berekende maximum buigspanning en de factor 4,25 mag niet groter zijn dan de minimum treksterkte van het toegepaste materiaal.
+Het minimum vrijboord in het wintervaargebied is het vrijboord dat wordt verkregen door bij het toegekende zomervrijboord 1/48 van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk, op te tellen.
 
-De luiken moeten zodanig zijn ontworpen, dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0028 s, waarin s de overspanning van het luik is.
+6. **Wintervrijboord in de Noord-Atlantische Oceaan**
 
-5. De in het vierde lid van dit artikel bedoelde belasting mag voor luikhoofden in positie 1 voor een schip met een lengte van niet meer dan 24 meter worden verminderd tot 1,00 ton per vierkante meter; voor een schip met een lengte van 100 meter mag de belasting niet minder zijn dan 1,75 ton per vierkante meter.
+Het minimum vrijboord voor een klein vaartuig, dat gedurende het periodieke winterseizoen op enigerlei plaats in het vaargebied in de Noord-Atlantische Oceaan, zoals bedoeld in artikel 70 van deze bijlage, komt, is gelijk aan het toegekende wintervrijboord vermeerderd met 50 mm.
 
-Voor luikhoofden in positie 2 mogen de betreffende belastingen 0,75 onderscheidenlijk 1,30 ton per vierkante meter bedragen.
+7. **Vrijboord in zoet water**
 
-Op een schip met een lengte tussen 24 en 100 meter moeten de desbetreffende belastingen door lineaire interpolatie worden vastgesteld.
+Het minimum vrijboord in zoet water van een soortelijk gewicht van één is het vrijboord, verkregen door het toegekende vrijboord in zout water te verminderen met 0/40t centimeter, waarin:
 
-**Luikschilden**
+0 = het deplacement in zout water in tonnen bij de uitwatering in de zomer en
 
-6. Indien luikschilden van staal zijn vervaardigd, moet de sterkte ervan worden berekend met behulp van een aangenomen belasting van niet minder dan 1,75 ton per vierkante meter voor luikhoofden in positie 1 en niet minder dan 1,30 ton per vierkante meter voor luikhoofden in positie 2. Het produkt van de aldus berekende maximum buigspanning en de factor 5 mag niet groter zijn dan de minimum treksterkte van het toegepaste materiaal. De luikschilden moeten zodanig zijn ontworpen, dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0022 s, waarin s de overspanning van het schild is.
+t = het aantal tonnen, waarmede het deplacement per centimeter in zout water bij de uitwatering in de zomer toeneemt.
 
-Op een schip met een lengte van minder dan 100 meter mogen de aangenomen belastingen worden verminderd overeenkomstig het bepaalde in het vijfde lid van dit artikel.
+8. Indien het deplacement bij de uitwatering in de zomer niet met zekerheid kan worden vastgesteld, moet de aftrek 1/48 van de zomerdiepgang zijn, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk.
 
 **Pontonluiken**
 
@@ -2398,341 +1432,341 @@ Op een schip met een lengte van minder dan 100 meter mogen de aangenomen belasti
 
 De dikte van de beplating aan de bovenzijde van de pontonluiken moet ten minste één percent van de onderlinge afstand der verstijvingen zijn of 6 millimeter indien deze laatste dikte groter is.
 
-Op een schip met een lengte van minder dan 100 meter mogen de aangenomen belastingen worden verminderd overeenkomstig het bepaalde in het vijfde lid van dit artikel.
+1.1. Aan boord van een vrachtschip van minder dan 500 ton moet zijn voorzien in een elektrische noodkrachtbron die onafhankelijk is van de voortstuwingsinstallatie en van de elektrische hoofdinstallatie.
 
-**Gelijkwaardig materiaal**
+1.2. De elektrische noodkrachtbron, inclusief eventuele transformatoren, het noodschakelbord en het noodverlichtingsschakelbord moeten buiten de begrenzing van ruimten voor machines van categorie A en buiten de ruimten waarin de elektrische hoofdkrachtbron inclusief eventuele transformatoren of het hoofdschakelbord is geplaatst, zijn opgesteld. De voeding, de bediening en de verdeling van de elektrische noodkrachtbron mogen niet kunnen worden beïnvloed door een brand of ander ongeval in genoemd ruimten.
 
-8. In plaats van staal kan het gebruik van een gelijkwaardig materiaal voor het samenstellen van luiken en luikschilden worden toegestaan, mits ten genoegen van het Hoofd van de Scheepvaartinspectie wordt aangetoond dat ten minste een gelijkwaardige sterkte en stijfheid wordt verkregen.
+2. De elektrische noodkrachtbron mag of een generator of een accumulatorenbatterij zijn die aan de volgende voorwaarden moet voldoen:
 
-**Nesten voor schilden**
+3. Het beschikbare elektrische vermogen van de elektrische noodkrachtbron moet voldoende zijn om de stroom te kunnen leveren aan al die diensten welke in geval van nood belangrijk zijn voor de veiligheid, waarbij rekening moet worden gehouden met die diensten die gelijktijdig in bedrijf moeten kunnen zijn:
 
-9. Nesten voor schilden moeten deugdelijk zijn geconstrueerd en de breedte van het draagvlak moet ten minste 75 millimeter bedragen.
+4. De inrichting en de opstelling van de noodgenerator en zijn aandrijvend werktuig of de noodaccumulatorenbatterij alsmede het noodschakelbord moeten voldoen aan de eisen die worden gesteld in lid 5.1 tot en met 5.5 en lid 6 van artikel 43.
 
-De nesten moeten zodanig zijn uitgevoerd, dat de schilden daarin goed passen en zijn geborgd tegen uitlichten.
+5. Voorzieningen moeten zijn aangebracht voor het periodiek testen van de gehele noodinstallatie.
 
-Indien verschuifbare of verrolbare schilden worden toegepast, dienen deze zowel tegen uitlichten als tegen zijdelings verplaatsen te zijn geborgd.
+6. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 64.
 
 **Schalklippen**
 
 10. Schalklippen moeten een breedte hebben van ten minste 65 millimeter. Zij moeten op afstanden van niet meer dan 600 millimeter, van hart tot hart, aan de luikhoofden worden aangebracht. De schalklippen aan de einden van het luikhoofd mogen niet verder dan 150 millimeter van elke hoek zijn geplaatst.
 
-De schalklippen moeten voldoende sterk en van een goedgekeurd model zijn met een tapsheid ten opzichte van de luikhoofdplaat van 1 op 6.
+De artikelen 56 tot en met 71 zijn uitsluitend van toepassing op kleine vaartuigen.
 
 **Schalklatten en keggen**
 
-11. Schalklatten en keggen moeten deugdelijk en van voldoend sterke constructie zijn.
+1. De stabiliteit in onbeschadigde toestand moet in alle voorkomende bedrijfstoestanden toereikend zijn, opdat het schip de eindtoestand kan doorstaan na het lek worden van enig compartiment dat door waterdichte schotten is begrensd.
 
-De keggen moeten van daartoe geschikt hout volgens goedgekeurd model zijn vervaardigd met een tapsheid van 1 op 6. Aan het dunste einde moet de dikte ten minste 13 millimeter bedragen.
+2.1. Om aan te tonen dat voldaan wordt aan het bepaalde in het eerste lid moeten volledige berekeningen, in overeenstemming met het bepaalde in het derde, vierde en zesde lid aan het Hoofd van de Scheepvaartinspectie ter goedkeuring worden ingezonden.
 
-**Presennings**
+In deze berekening moeten de bijzondere kenmerken van het schip, zomede de inrichting en de vorm van de beschadigde afdelingen, in aanmerking worden genomen. Voorts moet worden aangenomen dat het schip in de voor de stabiliteit meest ongunstige bedrijfstoestand verkeert die kan voorkomen.
 
-12. Voor alle luikhoofden in positie 1 en 2 moeten ten minste twee van goedgekeurd materiaal vervaardigde presennings aanwezig zijn. Deze presennings moeten in goede toestand verkeren en ondoordringbaar zijn voor water.
+2.2. Wanneer wordt voorgesteld dekken, een dubbele huid of langsschotten aan te brengen, die het overvloeien van water in ernstige mate zouden belemmeren, moet de invloed hiervan op de berekeningen nauwkeurig worden nagegaan.
 
-**Sluitmiddelen**
+2.3. Ten aanzien van de vereiste stabiliteit van het schip na beschadiging, en nadat mogelijke vereffening door overvloeien heeft plaats gevonden, geldt het volgende:
 
-13. Alle luikhoofden in positie 1 en 2 moeten zijn voorzien van stalen sluitstrippen of andere doeltreffende middelen om elke sectie der luiken neer te drukken, nadat de presennings zijn aangebracht en geschalmd.
+3. Voor het maken van berekeningen voor lekstabiliteit moeten de volgende permeabiliteiten worden toegepast:
 
-Indien de luiken een lengte hebben van meer dan 1,50 meter moet ten minste nabij elk einde van de sectie der luiken een doeltreffend middel tot het neerdrukken van deze luiken zijn aangebracht.
+4. Als omvang van de beschadiging moet worden aangenomen:
 
 ### Artikel 16. Luikhoofden afgesloten door middel van luiken, voorzien van pakking en knevels, die dicht zijn tegen weer en wind
 
-**Luikhoofden**
+6. Ten aanzien van de toestand, waarin het schip zich bevindt na beschadiging en bij asymmetrisch vollopen nadat overvloeien heeft plaatsgevonden, geldt het volgende:
 
 1. In positie 1 en 2 moeten de luikhoofden, die tegen weer en wind zijn afgesloten door middel van luiken, voorzien van pakking en knevels, een hoogte boven het dek hebben volgens het bepaalde in het eerste lid van artikel 15 van deze bijlage.
 
-De hoofden mogen met een geringere hoogte worden uitgevoerd of geheel worden weggelaten, wanneer ten genoegen van het Hoofd van de Scheepvaartinspectie wordt aangetoond dat onder alle omstandigheden die zich op zee kunnen voordoen, de veiligheid van het schip niet wordt aangetast. Indien hoofden worden aangebracht moeten deze deugdelijk zijn geconstrueerd.
+1. Waterdichte schotten moeten waterdicht zijn opgetrokken tot het schottendek. Een voorpiek- of aanvaringsschot moet zijn aangebracht op een afstand van de voorloodlijn van niet minder dan 5 percent en niet meer dan 10 percent van de lengte van het schip.
 
-**Luiken**
+2. Wanneer een lange bovenbouw op het voorschip is aangebracht, moet het voorpiek- of aanvaringsschot doorlopen tot het dek boven het schottendek en aldaar dicht zijn tegen weer en wind. Deze voortzetting van het schot behoeft niet onmiddellijk boven het eronder geplaatste schot te worden aangebracht, mits het is geplaatst binnen de grenzen aangegeven in het eerste lid en het gedeelte van het dek dat de trapsgewijze verspringing vormt dicht is tegen weer en wind.
 
-2. Indien de luiken van staal zijn vervaardigd moet de sterkte ervan worden berekend met behulp van een aangenomen belasting van niet minder dan 1,75 ton per vierkante meter voor luikhoofden in positie 1 en niet minder dan 1,30 ton per vierkante meter voor luikhoofden in positie 2. Het produkt van de aldus berekende maximum buigspanning en de factor 4,25 mag niet groter zijn dan de minimum treksterkte van het toegepaste materiaal.
+3. Tevens moet een achterpiekschot en schotten die het voortstuwingsgedeelte als aangegeven in artikel 2 voor en achter afscheiden van de vracht- en passagiersruimten zijn aangebracht. Deze schotten dienen tot het schottendek waterdicht te zijn. Het achterpiekschot mag echter beneden het schottendek eindigen, mits daardoor de veiligheid van het schip, wat de waterdichte indeling betreft, niet wordt verminderd.
 
-De luiken moeten zodanig zijn ontworpen, dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0028 s, waarin s de overspanning van het luik is. De dikte van de beplating aan de bovenzijde van de luiken moet ten minste één percent van de onderlinge afstand der verstijvingen zijn of 6 millimeter indien deze laatste dikte groter is.
+4. De pakkingbus van een schroefaskoker moet in een waterdichte ruimte zijn geplaatst. De inhoud van deze ruimte moet zodanig zijn dat de indompelingsgrenslijn niet onder water komt, wanneer deze ruimte zou vollopen.
 
 Op een schip met een lengte van minder dan 100 meter mogen de aangenomen belastingen worden verminderd overeenkomstig het bepaalde in het vijfde lid van artikel 15 van deze bijlage.
 
-**Gelijkwaardig materiaal**
+1. Voor de toepassing van dit artikel hebben de begrippen "vrijboorddek", "lengte van het schip" en "voorloodlijn" dezelfde betekenis als omschreven in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01).
 
-3. In plaats van staal kan het gebruik van een gelijkwaardig materiaal voor de vervaardiging van de luiken worden toegestaan, mits ten genoegen van het Hoofd van de Scheepvaartinspectie wordt aangetoond dat ten minste eenzelfde sterkte en stijfheid wordt verkregen.
+2. Er moet een voorpiek- of aanvaringsschot worden aangebracht dat tot het vrijboorddek waterdicht is opgetrokken. Dit schot moet worden aangebracht op een afstand van de voorloodlijn van niet minder van 5 percent en niet meer dan 10 percent van de lengte van het schip.
 
-**Middelen ter verzekering van de dichtheid tegen weer en wind**
+3. Er moeten schotten zijn aangebracht die de voortstuwingsruimte aan de voorkant en de achterkant afscheiden van de accommodatieruimte en eventuele laadruimte. Deze schotten dienen tot het vrijboord waterdicht te zijn.
 
 4. De middelen ter verkrijging en handhaving van de afsluiting tegen weer en wind moeten zijn goedgekeurd door het Hoofd van de Scheepvaartinspectie. De uitvoering dient de zekerheid te geven dat de waterdichtheid gehandhaafd blijft onder alle omstandigheden die zich op zee kunnen voordoen. Voor dit doel moeten de luiken bij het onderzoek voordat het schip in dienst wordt gesteld, op waterdichtheid worden beproefd.
 
-Deze beproeving kan worden geëist bij het periodieke onderzoek, bij de jaarlijkse inspectie en zonodig met kortere tussenpozen.
+1. Elk schip moet, indien niet uitdrukkelijk anders is voorgeschreven, zijn voorzien van een hoofdstuurinrichting en van een hulpstuurinrichting welke ten genoegen van het Hoofd van de Scheepvaartinspectie moeten zijn. De hoofdstuurinrichting en de hulpstuurinrichting moeten zodanig zijn uitgevoerd dat een storing in één van beide inrichtingen de andere inrichting niet buiten werking kan stellen.
 
 ### Artikel 17. Openingen boven de voortstuwingsruimte
 
-1. Openingen boven de voortstuwingsruimte in positie 1 en 2 moeten rondom behoorlijk zijn versterkt en op doeltreffende wijze door stalen schachten van voldoende sterkte zijn omsloten. Indien deze schachten niet door andere constructies zijn beschermd, moet de sterkte aan bijzondere eisen voldoen.
+2.2. De ontwerpdruk voor de berekening van de afmetingen van pijpleidingen en andere onderdelen van de stuurinrichting welke aan inwendige hydraulische druk worden onderworpen, moet ten minste 1,25 maal de maximale werkdruk zijn welke verwacht kan worden onder de bedrijfsomstandigheden, zoals bepaald in lid 3.2, rekening houdend met de druk die in het lage druk gedeelte van het systeem aanwezig kan zijn. Bij het ontwerp van pijpleidingen en onderdelen moeten, indien het Hoofd van de Scheepvaartinspectie dit nodig oordeelt, vermoeidheidscriteria gehanteerd worden waarbij rekening moet worden gehouden met drukgolven tengevolge van dynamische belasting.
 
-Toegangsopeningen in zulke schachten moeten zijn voorzien van deuren die voldoen aan het bepaalde in het eerste lid van artikel 12 van deze bijlage.
+2.3. Ontlastkleppen moeten zijn aangebracht op elk gedeelte van het hydraulische systeem dat afgesloten kan worden en waarin druk opgebouwd kan worden door de krachtbron of door uitwendige krachten.
 
-De drempels van deze openingen moeten in positie 1 een hoogte van ten minste 600 millimeter en in positie 2 een hoogte van ten minste 380 millimeter boven het dek hebben. Alle overige openingen in zulke schachten moeten zijn voorzien van gelijkwaardige vast aangebrachte afsluitmiddelen.
+De afsteldruk van de ontlastkleppen mag de ontwerpdruk niet te boven gaan. De kleppen moeten voldoende ruim bemeten zijn en zodanig zijn aangebracht dat een ongewenste drukstijging boven de ontwerpdruk wordt voorkomen.
 
-2. Schachten van ventilatie openingen, schoorstenen en luchtkokers op voortstuwingsruimten op blootgestelde plaatsen op het vrijboorddek of op het dek van een bovenbouw moeten zo hoog boven het dek worden opgetrokken als redelijk en uitvoerbaar is.
+3.1. De hoofdstuurinrichting, het roer en de roerkoning moeten voldoende sterk zijn gebouwd en geschikt zijn om het schip bij maximum dienstsnelheid vooruit te kunnen besturen, hetgeen moet worden aangetoond.
 
-De ventilatie openingen moeten zijn voorzien van voldoend sterke vast aangebrachte afsluitmiddelen van staal of een ander goedgekeurd materiaal die de openingen dicht tegen weer en wind kunnen afsluiten.
+3.2. De hoofdstuurinrichting moet, wanneer het schip op de grootst toegestane diepgang in zeewater ligt, in staat zijn om bij de maximum dienstsnelheid vooruit het roer 35 graden uitslag aan één zijde te bewegen naar 35 graden uitslag aan de andere zijde.
 
-3. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 73 van deze bijlage.
+De tijdsduur benodigd voor het bewegen van het roer van 35 graden uitslag aan één zijde tot 30 graden uitslag aan de andere zijde, mag onder dezelfde omstandigheden niet meer dan 28 seconden bedragen.
 
 ### Artikel 18. Diverse openingen in het vrijboorddek en in het dek van een bovenbouw
 
-1. Mangaten en verzonken stortranden in positie 1 en 2 of in een bovenbouw, geen gesloten bovenbouw zijnde, moeten worden afgesloten door voldoend sterke deksels die een waterdichte afsluiting verzekeren.
+3.4. De hoofdstuurinrichting, het roer en de roerkoning moeten zodanig zijn ontworpen dat zij bij maximum snelheid achteruit niet kunnen worden beschadigd; deze ontwerpeis behoeft echter op de proeftocht niet te worden aangetoond bij maximum snelheid achteruit en maximum roeruitslag.
 
-De deksels moeten blijvend zijn aangebracht, tenzij deze zijn bevestigd door zich op korte afstand van elkaar bevindende bouten.
+4.1. De hulpstuurinrichting moet voldoende sterk zijn gebouwd en geschikt zijn om het schip te kunnen besturen bij een snelheid waarbij het nog manoeuvreerbaar is en voorts zijn ingericht om in noodgevallen snel in werking te kunnen worden gebracht.
 
-2. Openingen in het vrijboorddek, geen luikopeningen, openingen boven voortstuwingsruimten, mangaten of verzonken stortranden zijnde, moeten zijn beschermd door een gesloten bovenbouw of door een dekhuis of een toegangskap van gelijkwaardige sterkte en waterdichtheid. Dergelijke openingen in het blootgestelde dek van een bovenbouw of van een dekhuis op het vrijboorddek, die toegang geven tot een ruimte onder het vrijboorddek of tot een ruimte in een gesloten bovenbouw, moeten zijn beschermd door een dekhuis of een toegangskap van voldoende sterkte.
+4.2. De hulpstuurinrichting moet in staat zijn om het roer in niet meer dan 60 seconden van 15 graden uitslag aan één zijde te bewegen naar 15 graden uitslag aan de andere zijde. Daarbij dient het schip op de grootst toegestane diepgang in zeewater te liggen en een snelheid vooruit te hebben van óf de helft van de maximum dienstsnelheid óf van 7 mijl per uur, welke van de twee waarden het grootst is.
 
-Deuren in dergelijke dekhuizen of toegangskappen moeten voldoen aan het bepaalde in het eerste lid van artikel 12 van deze bijlage.
+4.3. De hulpstuurinrichting moet door een krachtwerktuig worden aangedreven indien dit nodig is om aan het bepaalde in lid 4.2 te kunnen voldoen.
 
-3. De drempels van deuropeningen in toegangskappen moeten in positie 1 ten minste 600 millimeter en in positie 2 ten minste 380 millimeter boven het dek reiken.
+5.1. De krachtwerktuigen voor de hoofdstuurinrichting en de hulpstuurinrichting moeten zodanig zijn uitgevoerd dat zij automatisch weer in werking treden, zodra de energievoorziening, na te zijn uitgevallen, weer is hersteld.
 
-4. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 74 van deze bijlage.
+5.2. De krachtwerktuigen voor de hoofdstuurinrichting en de hulpstuurinrichting moeten op de brug in werking kunnen worden gesteld. Het uitvallen van de energievoorziening van enig krachtwerktuig moet op de brug door middel van een hoorbaar en zichtbaar alarm worden aangegeven.
 
 ### Artikel 19. Luchtkokers
 
-1. Luchtkokers in positie 1 en 2 die in verbinding staan met ruimten onder het vrijboorddek of met een gesloten bovenbouw, moeten van sterk geconstrueerde schachten van staal of een ander goedgekeurd materiaal zijn voorzien, die deugdelijk aan het dek zijn verbonden.
+6.2. Stuurinrichtingen welke niet van het hydraulische type zijn, moeten zodanig zijn uitgevoerd dat zij gelijkwaardig zijn aan stuurinrichtingen als bedoeld in lid 6.1, zulks ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
-Indien de schacht van de luchtkoker hoger is dan 900 millimeter moet hij extra zijn gesteund.
+7.1. De hoofdstuurinrichting moet op de brug kunnen worden bediend.
 
-2. De schachten van luchtkokers die door een niet gesloten bovenbouw worden gevoerd, moeten op het vrijboorddek sterk zijn geconstrueerd van staal of van een ander goedgekeurd materiaal.
+7.2. Indien de hoofdstuurinrichting is uitgevoerd zoals aangegeven in het zesde lid moeten twee afstandbedieningssystemen aanwezig zijn, welke onafhankelijk van elkaar kunnen werken en vanaf de brug zijn te bedienen. Het is evenwel niet noodzakelijk dat elk systeem is voorzien van een afzonderlijk stuurwiel of stuurhandel.
 
-3. Schachten en luchtkokers die hoger zijn dan 4,50 meter in positie 1 en 2,30 meter in positie 2, behoeven niet van afsluitmiddelen te zijn voorzien, tenzij zulks wordt geëist door het Hoofd van de Scheepvaartinspectie.
+Indien in het afstandbedieningssysteem een hydraulische telemotor is opgenomen, behoeft een tweede onafhankelijk systeem niet te worden aangebracht.
 
-4. Behoudens het bepaalde in het derde lid van dit artikel moeten schachten van luchtkokers van doeltreffende middelen tot waterdichte afsluiting zijn voorzien. Op een schip met een lengte van 100 meter of minder moeten de schachten van luchtkokers zijn voorzien van vast aangebrachte afsluitmiddelen.
+7.3. De hulpstuurinrichting moet zijn voorzien van een afstandbedieningssysteem dat op de brug kan worden bediend.
 
-Op een schip met een lengte van meer dan 100 meter moeten deze afsluitmiddelen op gemakkelijk bereikbare plaatsen nabij de luchtkokers zijn opgeborgen.
+Dit systeem moet onafhankelijk zijn van het afstandbedieningssysteem voor de hoofdstuurinrichting.
 
-Schachten van luchtkokers moeten in positie 1 een hoogte van ten minste 900 millimeter en in positie 2 van tenminste 760 millimeter boven het dek hebben.
+Indien echter de hoofdstuurinrichting vanaf de brug met handkracht kan worden bediend, behoeft de hulpstuurinrichting niet te zijn voorzien van een afstandbediening. In dit geval moet de electrische afstandbediening voor de hoofdstuurinrichting, indien aanwezig, op de brug buiten werking kunnen worden gesteld.
 
-5. Het Hoofd van de Scheepvaartinspectie kan voor schachten van luchtkokers op blootgestelde plaatsen in afwijking van het bepaalde in het vierde lid van dit artikel een grotere hoogte voorschrijven.
+8. Elk afstandbedieningssysteem voor hoofdstuurinrichtingen en hulpstuurinrichtingen dat vanaf de brug kan worden bediend, moet aan de volgende eisen voldoen:
 
-6. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 75 van deze bijlage.
+9. De stand van het roer moet op de brug worden aangegeven indien het roer werktuiglijk wordt bewogen. De roerstandaanwijzing moet onafhankelijk zijn van het afstandbedieningssysteem.
 
 ### Artikel 20. Luchtpijpen
 
-1. Indien luchtpijpen van ballast- en andere tanks boven het vrijboorddek of het dek van een bovenbouw uitsteken, moeten de blootgestelde delen van die pijpen van voldoende sterkte zijn. De hoogte van de opening boven het dek moet op het vrijboorddek ten minste 760 millimeter en op het dek van de bovenbouw ten minste 450 millimeter bedragen.
+10.2. Elke expansietank opgenomen in het hydraulisch systeem van hydraulisch gedreven stuurinrichtingen, moet zijn voorzien van een laag niveau alarm dat zodanig is aangebracht dat zo vroeg mogelijk een olielekkage wordt gesignaleerd.
 
-Voor de afsluiting van de luchtpijpen moeten voldoende middelen aanwezig zijn. Deze middelen moeten aan de luchtpijpen zijn verbonden.
+Dit alarm moet zowel hoorbaar als zichtbaar zijn en zijn aangebracht op een zodanige plaats op de brug en nabij de plaats waar de voortstuwingswerktuigen worden bediend, dat het gemakkelijk kan worden waargenomen.
 
-Indien de hoogte van de luchtpijp een belemmering vormt voor de werkzaamheden aan boord, kan het Hoofd van de Scheepvaartinspectie een kleinere hoogte toestaan, mits de afsluitmiddelen en de overige omstandigheden dit rechtvaardigen.
+11.1. De stuurmachinekamer moet gemakkelijk toegankelijk en voor zover uitvoerbaar gescheiden zijn van ruimten voor machines.
 
-2. Met betrekking tot kleine vaartuigen geldt in plaats van het voorgaande lid artikel 76 van deze bijlage.
+11.2. Doelmatige voorzieningen moeten zijn getroffen om de toegankelijkheid voor het onderhoud aan de stuurinrichtingen en de bedieningssystemen in de stuurmachinekamer te waarborgen.
 
 ### Artikel 21. Laadpoorten en andere openingen van gelijke aard
 
-1. Openingen in het scheepsboord onder het vrijboorddek zoals laadpoorten en dergelijke, moeten zijn voorzien van waterdichte deuren die zodanig zijn uitgevoerd dat de waterdichtheid en de sterkte overeenkomen met die van de aangrenzende huidbeplating. Het aantal van deze openingen moet worden beperkt tot het minimum aantal dat verenigbaar is met de inrichting en de behandeling van het schip.
+12. Indien voorzien is in een automatische stuurinrichting, dient deze te voldoen aan door het Hoofd van de Scheepvaartinspectie te stellen regels.
 
 2. Tenzij het Hoofd van de Scheepvaartinspectie anders beslist mag het laagste punt van een opening zoals bedoeld in het eerste lid van dit artikel niet lager zijn gelegen dan een lijn die evenwijdig aan het vrijboorddek in de zijde op het scheepsboord is getrokken en die haar laagste punt heeft op een hoogte die overeenkomt met de bovenkant van de hoogst gelegen uitwateringslijn in zeewater.
 
 ### Artikel 22. Spuipijpen, inlaat- en uitlaatopeningen
 
-1. De door het scheepsboord gaande afvoerpijpen van ruimten onder het vrijboorddek of van ruimten in bovenbouwen en dekhuizen op het vrijboorddek, voorzien van deuren die voldoen aan het bepaalde in artikel 12 van deze bijlage, moeten zijn voorzien van doeltreffende middelen ter voorkoming van het binnendringen van water. Deze middelen tot afsluiting moeten bereikbaar zijn. In het algemeen moet elke afzonderlijke uitlaatopening zijn voorzien van een terugslagklep met een inrichting door middel waarvan de klep in gesloten toestand rechtstreeks vanaf een plaats boven het vrijboorddek kan worden geborgd. Indien de vertikale afstand van de lastlijn bij zomeruitwatering tot de binnenboordsopening van een afvoerpijp groter is dan 0,01 L, mag de uitlaatopening zijn voorzien van twee terugslagkleppen zonder bovengenoemde borginrichting, mits de bovenste klep gedurende de normale dienst toegankelijk is teneinde te worden nagezien. Behoudens goedkeuring door het Hoofd van de Scheepvaartinspectie mag, indien de vertikale afstand van de lastlijn bij zomeruitwatering tot de binnenboordsopening van een afvoerpijp groter is dan 0,02 L, de uitlaatopening zijn voorzien van een enkele terugslagklep zonder borginrichting. De plaats waar een rechtstreeks geborgde klep wordt bediend, moet gemakkelijk toegankelijk zijn en er moet aldaar een inrichting zijn aangebracht, die aanwijst of de klep open dan wel gesloten is.
+2. Elke motor van een elektrische of elektrisch-hydraulische stuurinrichting moet rechtstreeks vanaf het hoofdschakelbord, of een daarmee gelijk te stellen schakelbord, worden gevoed.
 
-2. In afwijking van het eerste lid zijn door het scheepsboord gaande afvoerpijpen uit waterdichte bovenbouwen die zijn ingericht voor het vervoer van lading toegestaan, indien het vrijboorddek in de zijde bij een dwarsscheepse helling van 5 graden niet wordt ondergedompeld. Indien dit niet het geval is wordt de afvoer binnenboord geleid in overeenstemming met de eisen gesteld bij of krachtens dit besluit.
+3. Elke motor moet zijn voorzien van een kortsluitbeveiliging. Indien een overbelastingsbeveiliging is aangebracht moet deze niet lager zijn ingesteld dan tweemaal de nominale stroomsterkte van de motor en moet verder zodanig zijn uitgevoerd dat deze bij de gebruikelijke aanloopstroom niet in werking treedt.
 
 3. Buitenboordsin- en -uitlaatopeningen van pijpleidingen, behorende tot de werktuiglijke inrichting, moeten zijn voorzien van afsluiters of kranen, welke door middel van een flensverbinding aan de huid of aan een op de huid gebouwde stalen kast zijn aangebracht. Voor uitlaatopeningen mag in plaats van een afsluiter of een kraan gebruik worden gemaakt van een terugslagklep, mits deze in gesloten stand kan worden geborgd. Bedoelde afsluitmiddelen moeten gemakkelijk bereikbaar zijn, hetzij vanaf een te allen tijde toegankelijke plaats boven het vrijboorddek, hetzij ter plaatse, in welk laatste geval de bedieningsinrichting onder normale omstandigheden te allen tijde gemakkelijk bereikbaar moet zijn en zich boven de vloerplaten moet bevinden.
 
-Afsluiters, kranen en terugslagkleppen moeten op de plaats waar zij kunnen worden bediend, zijn voorzien van een standaanwijzer.
+1. Hoofd- en hulpwerktuigen noodzakelijk voor de voortstuwing en de veiligheid van het schip moeten zijn voorzien van doelmatige middelen voor regeling en bediening hiervan.
 
-4. Spui- en afvoerpijpen die op een afstand van meer dan 450 millimeter onder het vrijboorddek of minder dan 600 millimeter boven de lastlijn bij zomeruitwatering, door het scheepsboord worden gevoerd, moeten ongeacht het niveau van de binnenboordsopening, zijn voorzien van een tegen het scheepsboord geplaatste terugslagklep.
+2. Indien afstandbediening van de voortstuwingsinstallatie op de brug is aangebracht en de ruimten voor de machines normaal bemand zijn, is het hiernavolgende van toepassing:
 
-Tenzij vereist ingevolge het bepaalde in het tweede lid van dit artikel, mag deze terugslagklep vervallen indien de wanddikte van de afvoerpijp voldoende groot is.
+3. Indien de voortstuwingswerktuigen en bijbehorende hulpwerktuigen alsmede de hoofdgeneratoren in meerdere of mindere mate zijn voorzien van een automatische of afstandbediening en tevens worden bewaakt vanuit een continu bemande centrale post, moet deze centrale post zodanig zijn ontworpen, uitgerust en geïnstalleerd dat de werking van de machine-installatie ten minste even veilig en doeltreffend is als wanneer deze installatie onder direct toezicht staat, rekening houdend met het bepaalde in artikel 46 tot en met 48 en 69, voorzover van toepassing. Bijzondere aandacht moet worden geschonken aan de beveiliging van zulke ruimten tegen brand en het vervuld raken.
 
-5. Spuipijpen vanuit bovenbouwen of dekhuizen die niet zijn voorzien van deuren die voldoen aan het bepaalde in artikel 12 van deze bijlage, moeten naar buitenboord worden gevoerd.
+4. Automatische systemen voor aanzetten, regeling en bediening moeten in het algemeen voorzieningen omvatten om de bediening van deze systemen met de hand over te kunnen nemen. Storing in enig gedeelte van zulke systemen mag het gebruik van voorzieningen voor handbediening niet verhinderen.
 
 6. Alle terugslagkleppen, kranen, afsluiters en huidappendages die vereist zijn volgens dit artikel moeten van staal, brons of een ander door het Hoofd van de Scheepvaartinspectie goedgekeurd materiaal zijn vervaardigd; gewoon gietijzer of ander dergelijk materiaal is hiervoor niet toegestaan. Zij moeten zijn voorzien van een deksel dat tegen loswerken afdoende is beveiligd. Alle pijpleidingen moeten van staal of van een ander goedgekeurd materiaal zijn vervaardigd.
 
-7. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 77 van deze bijlage.
+Vanaf de brug moet door middel van ten minste één communicatiemiddel op doeltreffende wijze orders kunnen worden gegeven naar de plaats in de machinekamer waar in geval van storing in de afstandbediening de voortstuwingsinstallatie moet kunnen worden bediend. Bedoelde orders moeten vanaf deze plaats ook kunnen worden beantwoord. Een communicatiemiddel is evenwel niet noodzakelijk, indien de afstandbediening geheel mechanisch is uitgevoerd.
 
-### Artikel 23. Patrijspoorten en vaste lichtranden
+### Artikel 63. Elektrische hoofdkrachtbronnen en verlichtingsinstallaties op kleine vaartuigen
 
-1. Patrijspoorten en vaste lichtranden in ruimten onder het vrijboorddek of in een gesloten bovenbouw, moeten aan de binnenzijde zijn voorzien van scharnierende blinden die deugdelijk en waterdicht kunnen worden gesloten.
+1.1. Er moet zijn voorzien in een elektrische hoofdkrachtbron van voldoende vermogen om alle diensten genoemd in onderdeel 1.1 van het eerste lid van artikel 40 te voeden.
 
-2. Het laagste punt van de dagopening van patrijspoorten en lichtranden mag niet lager zijn gelegen dan een lijn die evenwijdig aan het vrijboorddek in de zijde op het scheepsboord is getrokken en die haar laagste punt heeft op een hoogte boven de lastlijn bij zomeruitwatering (of zomeruitwatering voor houtvaart, indien toegekend), overeenkomend met 2,5 percent van de scheepsbreedte (B), dan wel 500 millimeter indien deze laatste hoogte groter is.
+Op vaartuigen met een voortstuwingsvermogen van niet meer dan 120 kW moet deze hoofdkrachtbron ten minste bestaan uit één generatoraggregaat. Op vaartuigen met een voortstuwingsvermogen van meer dan 120 kW moet deze hoofdkrachtbron ten minste bestaan uit twee generatoraggregaten.
 
-3. De patrijspoorten, vaste lichtranden en blinden moeten van deugdelijke en goedgekeurde constructie zijn.
+1.2. Indien ten minste twee generatoraggregaten zijn vereist, moet het vermogen van deze aggregaten zodanig zijn dat als één van de generatoraggregaten stopt, het nog mogelijk is de diensten die noodzakelijk zijn voor de normale bedrijfsvoering met betrekking tot de voortstuwing en de veiligheid te voeden. Minimum aanvaardbare toestanden van leefbaarheid moeten eveneens zijn verzekerd en ten minste bestaan uit voldoende diensten voor koken, verwarming, proviand-koelinstallatie, mechanische ventilatie, sanitair en drinkwater.
 
-4. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 78 van deze bijlage.
+1.3. De hoofdkrachtbron van het schip moet zodanig zijn ingericht dat de diensten genoemd in onderdeel 1.1 van het eerste lid van artikel 40 kunnen worden gehandhaafd, ongeacht het toerental en de draairichting van het voorstuwingswerktuig of de schroefas.
 
 ### Artikel 24. Waterloospoorten
 
 1. Indien ter plaatse van een kuil op aan weer en wind blootgestelde gedeelten van vrijboord- en bovenbouwdekken een verschansing is aangebracht, moet voldoende gelegenheid tot lozing van water bestaan.
 
-Behoudens het bepaalde in het tweede en derde lid van dit artikel moet het totale oppervlak (A) der waterloospoorten in elk scheepsboord voor elke kuil op het vrijboorddek, indien de zeeg van dit dek gelijk is aan of groter is dan de standaardzeeg, ten minste gelijk zijn aan de volgens één der onderstaande formules bepaalde waarde.
+1.1. Behoudens het bepaalde in het zevende lid moet elk schip zijn voorzien van een elektrische noodkrachtbron die onafhankelijk is van de voortstuwingsinstallatie en van de elektrische hoofdinstallatie.
 
-Het totale oppervlak der waterloospoorten in elk scheepsboord voor elke kuil op het dek van een bovenbouw moet ten minste de helft van het in één dezer formules gegeven oppervlak bedragen.
+1.2. De elektrische noodkrachtbron, inclusief eventuele transformatoren, en het noodschakelbord moeten buiten de machinekamer zijn opgesteld. De voeding, de bediening en de verdeling van de elektrische energie van de elektrische noodkrachtbron mogen niet kunnen worden beïnvloed door een brand of ander ongeval in de machinekamer.
 
-1 behoeft in geen geval groter genomen te worden dan 0,7 L.
+2. De elektrische noodkrachtbron mag of een generator of een accumulatorenbatterij zijn die aan de volgende voorwaarde moet voldoen:
 
-Indien de gemiddelde hoogte van de verschansing groter is dan 1,20 meter, moet voor elke 0,10 meter verschil in hoogte het vereiste oppervlak der waterloospoorten worden vergroot in reden van 0,004 vierkante meter per meter lengte van de kuil.
+3. Het beschikbare elektrische vermogen van de elektrische noodkrachtbron moet voldoende zijn om gedurende drie uur de stroom te kunnen leveren aan al die diensten welke in geval van nood belangrijk zijn voor de veiligheid, waarbij rekening moet worden gehouden met die diensten die gelijktijdig in bedrijf moeten kunnen zijn:
 
-Indien de gemiddelde hoogte van de verschansing kleiner is dan 0,90 meter, mag voor elke 0,10 meter verschil in hoogte het vereiste oppervlak der waterloospoorten worden verkleind in reden van 0,004 vierkante meter per meter lengte van de kuil.
+4. Het noodschakelbord moet bij normaal bedrijf via een koppelkabel die in het hoofdschakelbord doelmatig tegen overbelasting en kortsluiting moet zijn beveiligd, worden gevoed vanaf het hoofdschakelbord en automatisch worden ontkoppeld op het noodschakelbord bij het uitvallen van de elektrische hoofdvoeding.
 
-2. Op een schip zonder zeeg moet het oppervlak van de waterloospoorten, berekend volgens de in het eerste lid van dit artikel gegeven formules, met 50 percent worden vergroot.
+5. De noodgenerator en zijn aandrijvend werktuig, en elke noodaccumulatorbatterij moeten zodanig zijn ingericht en opgesteld dat hun goede werking bij hun nominaal vermogen is verzekerd bij elke slagzijhoek tot 22,5 graad of bij een trimhoek voor- of achterover tot 10 graden of bij enige combinatie van hellingshoeken binnen genoemde grenzen.
 
-Indien de zeeg kleiner is dan de standaardzeeg moet het vereiste oppervlak der waterloospoorten door lineaire interpolatie worden vastgesteld.
+6. Voorzieningen moeten zijn aangebracht voor het periodiek testen van de gehele noodinstallatie.
 
-3. Indien een schip voorzien van een trunk niet voldoet aan het bepaalde in het eerste lid onder **e** van artikel 36 van deze bijlage, of indien doorlopende of grotendeels doorlopende langshoofden en luikopeningen zijn aangebracht tussen delen van een onderbroken bovenbouw, moet de verhouding van het totale oppervlak van de waterloospoorten tot het oppervlak van de verschansing ten minste gelijk zijn aan die vermeld in onderstaande tabel:
+7. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op vaartuigen waarvan:
 
-Bij tussengelegen breedten wordt het vereiste totale oppervlak van de waterloospoorten door interpolatie bepaald.
+8. In alle gevallen kan de stroomvoorziening van de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01), overgeschakeld worden op de reservekrachtbron, zoals voorgeschreven in [artikel 15, tweede lid, van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01). De reservekrachtbron voldoet aan de eisen gesteld in [artikel 15 en artikel 17 van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01) en wordt alleen voor de in deze artikelen genoemde doeleinden en de stroomvoorziening van de noodverlichting bij de reddingvlotten gebruikt, indien dit volgens onderdeel 7.4 van toepassing is. De elektrische capaciteit van de reservekrachtbron is voldoende om gedurende ten minste 6 uur de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01), stroom te kunnen leveren. Voor de radio-uitrusting voor het vaargebied A1 (de VHF radiotelefonie-installatie) is met in achtneming van het voorgaande in dit lid de capaciteit van de reservekrachtbron niet minder dan 50 Ah bij 24 Volt. De reservekrachtbron wordt buiten de machinekamer in het bovenste deel van het schip opgesteld en mag niet worden beïnvloed door een calamiteit in de machinekamer. Op de brug is de laadstroom van de reservekrachtbron op een ampèremeter afleesbaar.
 
-4. Op een schip met bovenbouwen die aan één van de einden of aan beide einden open zijn, moeten de nodige voorzieningen worden getroffen voor lozing van water in deze bovenbouwen.
+9. Het laden van de reservekrachtbron geschiedt op de volgende wijze:
 
 5. De onderkanten van de waterloospoorten moeten zo dicht mogelijk boven het dek liggen.
 
-Tweederde van het voorgeschreven oppervlak der waterloospoorten moet in die helft van de kuil zijn aangebracht, die het dichtst bij het laagste punt van de zeeg is gelegen.
+Noodgeneratoraggregaten moeten geschikt zijn om vanuit hun koude toestand bij een temperatuur van 0°C direct te kunnen worden gestart. Indien dit niet mogelijk is of indien lagere temperaturen kunnen worden verwacht, dient aandacht te worden besteed aan een voorziening voor het onderhouden van de verwarming zodat directe start van de noodgeneratoraggregaten is verzekerd, zulks ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
 6. Waterloospoorten en dergelijke openingen in de verschansing moeten door rasterwerk of door staven met een onderlinge afstand van ongeveer 230 millimeter worden beschermd.
 
-Indien kleppen zijn aangebracht, moet voor ruime speling worden gezorgd teneinde klemmen te vermijden. De scharnieren moeten van pennen van roestvrij materiaal zijn voorzien.
+1.1. Onbeschermde metalen delen van elektrische machines of uitrustingen, die niet zijn bestemd om onder spanning te staan, doch ten gevolge van een defect onder spanning kunnen geraken, moeten zijn geaard, tenzij de machines of uitrustingen:
 
-Indien inrichtingen voor het vastzetten van deze kleppen zijn aangebracht moeten deze zijn goedgekeurd door het Hoofd van de Scheepvaartinspectie.
+1.2. Voor verplaatsbare elektrische uitrustingen die gedurende het gebruik in de hand worden gehouden gelden de volgende eisen:
 
-7. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 79 van deze bijlage.
+1.3. Alle elektrische toestellen moeten zo zijn geconstrueerd en geïnstalleerd dat zij geen letsel kunnen veroorzaken wanneer deze op de normale wijze worden behandeld of aangeraakt.
 
 ### Artikel 25. Bescherming van bemanning en passagiers
 
-1. Dekhuizen voor het onderbrengen van de bemanning moeten voldoende sterk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
+De zijkanten en de achterzijde en zonodig de voorzijde moeten doelmatig zijn beschermd. Aan de voorzijde van deze schakelborden mogen geen onbeschermde stroomvoerende delen zijn aangebracht waarvan de spanning ten opzichte van aarde hoger is dan de spanning welke door het Hoofd van de Scheepvaartinspectie aanvaardbaar wordt geacht.
 
-2. Een verschansing van goede constructie of deugdelijk relingwerk moet op alle blootgestelde gedeelten van vrijboord- en bovenbouwdekken zijn aangebracht.
+Waar nodig moeten aan voor- en achterzijde matten of roosters van niet-elektrisch-geleidend materiaal aanwezig zijn.
 
-De hoogte van de verschansing of het relingwerk boven het dek moet ten minste 1 meter bedragen. Indien deze hoogte een belemmering vormt voor de werkzaamheden aan boord, kan het Hoofd van de Scheepvaartinspectie een kleinere hoogte toestaan, mits in voldoende bescherming is voorzien.
+Aan de voorzijde van schakelborden moet een handgeleider zijn aangebracht.
 
-3. De hoogte van de opening onder de onderste roede van relingwerk mag niet groter zijn dan 230 millimeter.
+Bij een schakelbord van het open type moet deze handgeleider geïsoleerd zijn uitgevoerd.
 
-De onderlinge afstand der overige roeden mag niet groter zijn dan 380 millimeter. Op schepen waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaat is uitgevoerd, moeten de scepters van het relingwerk op het vlakke gedeelte van het dek zijn geplaatst.
+2.2. Indien de achterzijde van hoofd- en noodschakelborden open is, moet zich aan die zijde een goed toegankelijke vrije ruimte bevinden, die bij een totale lengte van 6 meter of meer van beide einden goed toegankelijk is. Langs de achterzijde moet een geïsoleerde handgeleider zijn aangebracht. De toegangen moeten door middel van doelmatig afsluitbare, naar buiten draaiende deuren of schuifdeuren kunnen worden afgesloten. Op de deuren moet aan de buitenzijde de nominale spanning en de stroomsoort zijn vermeld.
 
-4. Ter bescherming van de bemanning bij het gaan naar of het komen van hun verblijven, voortstuwingsruimten en alle andere gedeelten die nodig zijn voor de behandeling van het schip, moeten relingen, handleiders, loopbruggen, onderdeks gelegen gangen of andere afdoende middelen zijn aangebracht.
+2.3. Hoofd- en noodschakelborden moeten zijn voorzien van de nodige aanduidingen ten dienste van het bedrijf.
 
-5. Op elk schip moet deklading ter plaatse van openingen die toegang geven tot de verblijven, voortstuwingsruimten en andere ruimten die in verband met de werkzaamheden aan boord moeten worden gebruikt, zodanig zijn gestuwd, dat deze openingen behoorlijk kunnen worden bereikt, geopend en afgesloten tegen het binnendringen van water.
+3.1. Het schip mag niet als terugleider worden gebruikt voor enige installatie aan boord van een tankschip.
 
-Indien op of onder dek geen veilig verkeer mogelijk is, dienen op de deklading relingwerk of staaldraden te zijn aangebracht voor een doelmatige bescherming van de bemanning.
+3.2. Het bepaalde in lid 3.1 is niet van toepassing op het gebruik van onder door het Hoofd van de Scheepvaartinspectie goedgekeurde omstandigheden:
 
-6. Alle voor passagiers opengestelde dekken moeten, waar nodig, zijn voorzien van een verschansing of relingwerk van ten minste één meter hoogte. Bij relingwerk moet de inrichting zodanig zijn, dat geen gevaar bestaat dat volwassen personen of kinderen door de openingen te water geraken. In een verschansing moeten ten aanzien van waterloospoorten soortgelijke voorzieningen worden getroffen.
+3.3. Indien het schip als terugleider wordt gebruikt moeten alle eindgroepen, zijnde alle stroomkringen achter de laatste beveiliging, dubbelpolig zijn en de verbindingen met het casco moeten op toegankelijke plaatsen tot stand zijn gebracht en wel zodanig dat zij gemakkelijk kunnen worden gecontroleerd en losgemaakt voor het verrichten van isolatiemetingen. Het Hoofd van de Scheepvaartinspectie kan voor verdeelsystemen waarbij het schip als terugleider wordt gebruikt, aanvullende eisen stellen.
 
-7. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 80 van deze bijlage.
+4.1. Op een tankschip mag geen geaard verdeelsysteem worden gebruikt.
 
 ### Artikel 26. Bijzondere voorwaarden voor een schip van het type A
 
-**Schachten van voortstuwingsruimten**
+4.2. Indien een niet-geaard primair of secundair verdeelsysteem wordt gebruikt voor kracht, verwarming of verlichting, moet dit zijn voorzien van een middel voor de voortdurende controle van de isolatie-weerstand ten opzichte van aarde, dat een hoorbare of zichtbare aanwijzing geeft in geval van een te lage isolatieweerstand.
 
-1. Schachten van voortstuwingsruimten op een schip van het type A als bedoeld in artikel 27 van deze bijlage, moeten door een gesloten kampanje of brughuis van ten minste standaardhoogte ( artikel 33 van deze bijlage) of door een dekhuis van gelijke hoogte en overeenkomstige sterkte worden beschermd. Schachten van voortstuwingsruimten mogen blootgesteld zijn, indien er in deze schachten geen openingen zijn, die vanaf het vrijboorddek rechtstreeks toegang geven tot de voortstuwingsruimte.
+5.1. Behalve daar waar het Hoofd van de Scheepvaartinspectie in bijzondere omstandigheden zulks anders toestaat, moeten alle metalen omhulsels en afschermingen van kabels elektrisch ononderbroken zijn en zijn geaard.
 
-Een deur die voldoet aan het bepaalde in artikel 12 van deze bijlage, kan evenwel in een blootgestelde schacht worden toegestaan, mits deze deur toegang geeft tot een ruimte of een gang die van gelijke sterkte is als de schacht en die van de trap naar de voortstuwingsruimte is gescheiden door een tweede waterdichte deur van staal of van een ander goedgekeurd materiaal.
+5.2. Alle elektrische kabels en uitwendige bedradingen naar uitrustingen moeten ten minste van het brandvertragende type zijn en zo zijn aangebracht dat de oorspronkelijke brandvertragende eigenschappen niet worden aangetast. Indien bijzondere omstandigheden dit noodzakelijk maken, kan het Hoofd van de Scheepvaartinspectie het gebruik toestaan van speciale kabeltypen, zoals hoogfrequent kabels, die niet voldoen aan het voorafgaande.
 
-**Loopbruggen en toegangswegen**
+5.3. Indien kabels aangebracht in gevaarlijke ruimten, aanleiding zouden geven tot brand- en explosiegevaar bij een elektrische fout in die ruimte, moeten ten genoegen van het Hoofd van de Scheepvaartinspectie voorzorgsmaatregelen tegen deze gevaren zijn genomen.
 
-2. Op een schip van het type A moet tussen het kampanjedek en het dek van een midscheeps geplaatst brughuis een deugdelijke vaste en voldoend sterke loopbrug worden aangebracht op dezelfde hoogte boven het vrijboorddek als het dek van de bovenbouw, tenzij in afdoende gelijkwaardige verbindingen ter vervanging van de loopbrug, zoals bijv. onderdeks gelegen gangen, is voorzien.
+5.4. Elektrische kabels en bedradingen moeten zodanig zijn aangebracht, dat beschadiging door schavielen of anderszins wordt voorkomen.
 
-Op de overige plaatsen en op een schip van het type A waarop geen midscheeps geplaatst brughuis is aangebracht, moeten door het Hoofd van de Scheepvaartinspectie goedgekeurde voorzieningen aanwezig zijn ter bescherming van de bemanning bij het gaan naar of het komen van gedeelten die gebruikt worden voor de behandeling van het schip.
+5.5. De aansluitingen en aftakkingen van elke leiding moeten zodanig zijn uitgevoerd, dat de oorspronkelijke elektrische, mechanische, brandvertragende en waar nodig brandwerende eigenschappen van de leiding behouden blijven.
 
-3. Er moet een voldoend veilige verbinding zijn tussen de loopbrug en de verblijven, alsmede tussen de verblijven en de voortstuwingsruimten.
+6.1. Iedere afzonderlijke stroomkring moet tegen kortsluiting en tegen overbelasting zijn beveiligd, uitgezonderd de stroomkringen als bedoeld in de artikelen 59 en 60, of indien het Hoofd van de Scheepvaartinspectie bij uitzondering anders toestaat.
 
-**Luikhoofden**
+6.2. Voor iedere stroomkring moet ter plaatse van de beveiligingsinrichting de nominale waarde of juiste afstelling van de overbelastingsbeveiliging blijvend zijn aangegeven.
 
-4. Blootgestelde luikhoofden op het vrijboorddek, op het dek van de bak en op het dek van expansietrunks op een schip van het type A moeten door middel van deugdelijke deksels van staal of van een ander goedgekeurd materiaal waterdicht kunnen worden afgesloten.
+7. Verlichtingsarmaturen moeten zodanig zijn uitgevoerd, dat geen temperatuurstijging kan ontstaan, die schade aan de kabels en bedrading kan veroorzaken of waardoor omringend materiaal uitzonderlijk warm kan worden.
 
-**Waterlozing**
+8.1. Accumulatorenbatterijen moeten in een geschikte ruimte zijn ondergebracht. Afgescheiden ruimten die hoofdzakelijk voor hun plaatsing worden gebruikt, moeten deugdelijk zijn geconstrueerd en doelmatig worden geventileerd, een en ander ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
-5. Op een schip van het type A dat is voorzien van een verschansing, moet deze op het onbeschermde gedeelte van het aan weer en wind blootgestelde dek over ten minste haar halve lengte door relingwerk worden onderbroken of moeten even doeltreffende inrichtingen voor waterlozing zijn aangebracht. De bovenkant van de berghoutsgang moet zo laag mogelijk boven het dek zijn.
+8.2. In deze afgescheiden ruimten mogen geen elektrische of andere inrichtingen worden toegelaten die een ontstekingsbron zouden kunnen vormen voor brandbare dampen, tenzij dit ingevolge het bepaalde in het negende lid is toegestaan.
 
-6. Indien twee delen van de bovenbouw door een trunk zijn verbonden, moet ter weerszijden daarvan over de volle lengte van het aan weer en wind blootgestelde gedeelte van het vrijboorddek relingwerk zijn aangebracht.
+8.3. Accumulatorenbatterijen mogen niet in hutten zijn opgesteld. Het Hoofd van de Scheepvaartinspectie kan toestaan dat van dit voorschrift wordt afgeweken indien te zijnen genoegen hermetisch gesloten batterijen worden geïnstalleerd.
 
 ### Hoofdstuk III. Uitwatering van schepen
 
 ### Artikel 27
 
-**Scheepstypen**
+Deze elektrische veiligheidslamp moet:
 
-1. Voor de berekening van het minimum vrijboord worden de schepen onderscheiden in twee typen, nl. schepen van het type A en schepen van het type B.
+10. Verwarmingstoestellen, zoals kooktoestellen en dergelijke, moeten zodanig zijn ingericht, dat de verwarmingselementen zijn omgeven door een doelmatig beschuttend omhulsel. De toestellen moeten zeevast zijn geplaatst.
 
 **Schepen van het type A**
 
-2. Een schip van het type A is een schip dat:
+1.**Noodlenspompen**
 
-3. Indien een schip van het type A een lengte heeft van meer dan 150 meter en aan dat schip een vrijboord is toegekend dat minder is dan het vrijboord voor het schip beschouwd als zijnde van het type B, indien het tot de lastlijn bij zomeruitwatering (zomerlastlijn) is geladen, moet het lek worden van elke afdeling of afdelingen voortvloeiend uit de aannamen voor de schadeomvang zoals aangegeven in het twaalfde lid van dit artikel, bij een aangenomen permeabiliteit van 0,95, kunnen worden doorstaan en het schip moet daarbij blijven drijven in een aanvaardbaar geachte eindtoestand zoals aangegeven in het dertiende lid van dit artikel.
+Bij toepassing van een elektrisch gedreven noodlenspomp moet aan de volgende eisen zijn voldaan:
 
-Van een dergelijk schip moet ook de voortstuwingsruimte worden behandeld als een afdeling die lek kan worden, echter bij een aangenomen permeabiliteit van 0,85.
+2.**Elektrische aanzetinrichtingen voor voortstuwingsmotoren**
 
-4. Het minimum vrijboord van een schip van het type A mag niet kleiner zijn dan dat gebaseerd op tabel A in artikel 28 van deze bijlage.
+Aan boord van een motorschip voorzien van elektrische aanzetinrichtingen ten behoeve van de voortstuwingsmotor of -motoren, moet aan het volgende zijn voldaan:
 
-**Schepen van het type B**
+3.1.**Dekwerktuigen**
 
-5. Elk schip dat niet voldoet aan het bepaalde in het tweede en derde lid van dit artikel wordt beschouwd als een schip van het type B.
+Elektrisch gedreven dekwerktuigen ten behoeve van laad- en losinrichtingen van het schip moeten voldoen aan de eisen gesteld bij of krachtens de Stuwadoorswet.
 
-6. Voor een schip van het type B dat in positie 1 is voorzien van luikhoofden die slechts voldoen aan het bepaalde in het eerste tot en met zesde en achtste tot en met dertiende lid van artikel 15 van deze bijlage, moet het basisvrijboord volgens tabel B van artikel 28 van deze bijlage worden vergroot met de voor de desbetreffende scheepslengte geldende waarde volgens onderstaande tabel:
+3.2. Elektrisch gedreven dekwerktuigen andere dan die bedoeld in lid 3.1, moeten zodanig zijn ingericht dat:
 
-De vergroting van het basisvrijboord bij tussengelegen lengten wordt door interpolatie verkregen.
+4.1.**Plaatsing van schakelaars**
 
-Voor een schip dat een lengte heeft van meer dan 200 meter, wordt de vergroting van het basisvrijboord volgens door het Hoofd van de Scheepvaartinspectie nader vast te stellen regels bepaald.
+In elke elektrische installatie moeten de voor het bedrijf en voor het doelmatig en veilig verrichten van bedienings-, herstellings-, en onderhoudswerkzaamheden nodige schakelaars aanwezig zijn.
 
-7. Met inachtneming van het bepaalde in het achtste tot en met het dertiende lid van dit artikel moet het toe te kennen vrijboord van een schip van het type B, dat in positie 1 is voorzien van luikhoofden met luiken die voldoen aan het bepaalde in het zevende lid van artikel 15 of aan het bepaalde in artikel 16 van deze bijlage, zijn gebaseerd op tabel B van artikel 28 van deze bijlage.
+4.2. Motoren en bijbehorende aanloopinrichtingen moeten door middel van schakelaars volledig van het net kunnen worden gescheiden. Een zodanige schakelaar moet zich aan of in de nabijheid van de aanloopinrichting, indien aanwezig, bevinden. Indien de motor niet in de nabijheid van de aanloopinrichting is opgesteld of indien geen aanloopinrichting aanwezig is, moet nabij de motor een dergelijke scheidingschakelaar of gelijkwaardige inrichting zijn geplaatst, tenzij de schakelaar aan of bij de aanloopinrichting op deugdelijke en doelmatige wijze in de uitstand kan worden vergrendeld of een zodanige voorziening voor een andere voor het doel geschikte schakelaar is getroffen.
 
-8. Indien een schip van het type B een lengte heeft van meer dan 100 meter kan een vrijboord worden toegekend dat kleiner is dan dat volgens het zevende lid van dit artikel mits, afhankelijk van de mate van de toegestane vermindering van het vrijboord:
+4.3. De scheidingschakelaar of gelijkwaardige inrichting genoemd in lid 4.2 behoeft niet te zijn aangebracht indien er naar het oordeel van het Hoofd van de Scheepvaartinspectie geen gevaar aanwezig is voor letsel aan personen door bewegende delen gedurende het verrichten van herstellings- en onderhoudswerkzaamheden.
 
-9. Bij de berekening van het vrijboord van een schip van het type B dat voldoet aan het bepaalde in het achtste, elfde, twaalfde en dertiende lid van dit artikel, mag het basisvrijboord uit tabel B van artikel 28 van deze bijlage worden verminderd met ten hoogste 60 percent van het verschil tussen de voor de desbetreffende scheepslengte geldende waarden uit de tabellen B en A.
+4.4. Indien voor de bediening van motoren automatische schakelaars met afstandbediening worden toegepast, moeten zonodig maatregelen zijn genomen, die verhinderen dat ten gevolge van een aardsluiting in de hulpstroomketen de motoren onverwacht in beweging kunnen komen of ongewild in beweging kunnen blijven.
 
-10.
+4.5. Schakelaars voor stroomverbruikende toestellen, met uitzondering van lampen, moeten in de uit-stand het betreffende toestel volledig van het net scheiden.
 
-**Aanvangsbeladingstoestand**
+4.6. Schakelaars mogen niet zijn aangebracht in leidingen, die uit hoofde van het bedrijf met de aarde in verbinding zijn, tenzij deze door één handeling gelijktijdig met de overige bijbehorende leidingen kunnen worden uitgeschakeld.
 
-11. De aanvangsbeladingstoestand vóór lek worden moet als volgt worden bepaald:
+4.7. Indien een dieselmotor elektrisch op afstand kan worden gestart moet een schakelaar zijn aangebracht waarmede het elektrisch starten kan worden voorkomen. Een zodanige schakelaar moet op of in de nabijheid van de dieselmotor zijn geplaatst.
 
 **Aannamen voor de schadeomvang**
 
-12. De volgende uitgangspunten betreffende de aard van de aangenomen schade zijn van toepassing:
+1. De snelheid van het schip, de richting van de stuwkracht en, indien van toepassing, de spoed van de schroefbladen, moeten vanaf de brug onder alle bedrijfsomstandigheden, manoeuvreren inbegrepen, volledig geregeld kunnen worden.
 
-**Evenwichtstoestand**
+1.1. De afstandbediening moet kunnen plaatsvinden door middel van één bedieningsmechanisme voor elke onafhankelijke schroef, waarbij alle met de bediening verbonden functies geprogrammeerd moeten zijn met inbegrip, waar nodig, van middelen om overbelasting van het voortstuwingswerktuig te voorkomen.
 
-13. De evenwichtstoestand na lek worden wordt aanvaardbaar geacht mits:
+1.2. Het hoofdvoortstuwingswerktuig moet zijn voorzien van een noodstopinrichting op de brug, welke onafhankelijk moet zijn van de afstandbediening.
 
-**Schepen zonder eigen voortstuwingsmiddelen**
+2. Afstandbediening van voortstuwingswerktuigen mag slechts op één plaats tegelijk kunnen geschieden. Op zulk een bedieningsplaats kunnen daarmede verbonden onderstations worden toegestaan. Met uitzondering van een geheel mechanisch uitgevoerde afstandbediening, moet op elke bedieningsplaats op duidelijke wijze zijn aangegeven welke bedieningsplaats is ingeschakeld. Het omschakelen van de bediening tussen brug en de ruimten voor machines mag alleen op de manoeuvreerstand of op de centrale post mogelijk zijn. De hiervoor benodigde omschakelinrichting moet ten genoegen van het Hoofd van de Scheepvaartinspectie zijn en zo zijn uitgevoerd, dat het nimmer kan voorkomen dat door omschakeling van de bediening de stuwkracht een noemenswaardige verandering ondergaat.
 
-14. Voor lichters, sleepschepen en andere schepen zonder eigen voortstuwingsmiddelen wordt het vrijboord vastgesteld ingevolge de bepalingen van deze bijlage. Aan sleepschepen, die voldoen aan de bepalingen van het tweede en derde lid van dit artikel, kan een vrijboord van het type A worden toegekend:
+3. Het voortstuwingswerktuig moet ter plaatse bediend kunnen worden, ook bij storing in enig onderdeel van de afstandbediening.
 
-15. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 81 van deze bijlage.
+4. Het ontwerp van het afstandbedieningssysteem, met uitzondering van een geheel mechanisch uitgevoerde afstandbediening, moet zodanig zijn dat bij een storing een alarm wordt gegeven waarbij de ingestelde snelheid van het schip en de richting van de stuwkracht van de schroef moeten worden gehandhaafd totdat de plaatselijke bediening in bedrijf is genomen.
 
 ### Artikel 28. Vrijboordtabellen
 
-1. De grondslag voor het toe te kennen zomervrijboord voor een schip van het type A, is neergelegd in de volgende tabel:
+6. Het aantal keren waarop automatische, opeenvolgende, vergeefse startpogingen verricht kunnen worden, moet zodanig zijn begrensd dat voldoende aanzetluchtdruk aanwezig blijft.
 
-Het basisvrijboord bij tussengelegen lengten wordt door interpolatie verkregen.
-
-Voor een schip dat een lengte heeft van meer dan 365 meter, wordt het basisvrijboord volgens door het Hoofd van de Scheepvaartinspectie nader vast te stellen regels bepaald.
-
-2. De grondslag voor het toe te kennen zomervrijboord voor een schip van het type B, is neergelegd in de volgende tabel:
-
-Het basisvrijboord bij tussengelegen lengten wordt door interpolatie verkregen.
+Een alarm moet zijn aangebracht dat een lage aanzetluchtdruk aangeeft en dat is afgesteld op een druk waarbij aanzetten van het voortstuwingswerktuig nog mogelijk is.
 
 Voor een schip dat een lengte heeft van meer dan 365 meter, wordt het basisvrijboord volgens door het Hoofd van de Scheepvaartinspectie nader vast te stellen regels bepaald.
 
-3. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 82 van deze bijlage.
+1. Een alarminstallatie moet zijn aangebracht die elke storing welke aandacht vereist, aangeeft en bovendien aan het volgende voldoet:
+
+2.1. De alarminstallatie moet zijn aangesloten, hetzij rechtstreeks op een onafhankelijke spanningsbron, hetzij op het boordnet. In het laatste geval moet de uitvoering zodanig zijn, dat bij het wegvallen van de boordnetspanning automatisch op een onafhankelijke spanningsbron wordt overgeschakeld;
+
+2.2. Het aanwezig zijn van spanning voor de alarminstallatie moet zichtbaar zijn aangegeven op het alarmpaneel.
+
+3.1. De alarminstallatie moet in staat zijn tegelijkertijd meer dan één storing te kunnen aangeven en mag na acceptatie van enig alarmsignaal het doorkomen van een ander alarmsignaal niet verhinderen;
 
 ### Artikel 29. Toeslag op het basisvrijboord voor schepen met een lengte van minder dan 100 meter
 
-1. Voor een schip van het type B met een lengte tussen 24 en 100 meter, waarvan de in rekening te brengen lengte van de bovenbouw kleiner is dan 35 percent van de scheepslengte, moet het basisvrijboord uit de tabel worden vermeerderd met
+4. De hiervoor in aanmerking komende alarmen moeten vertraagd worden uitgevoerd. Het onnodig in werking komen van een alarm tijdens manoeuvreren moet worden voorkomen.
 
 waarin
 
-L = de scheepslengte in meters en
+1. De bijzondere voorzieningen voor werktuigen, ketels en elektrische installaties moeten ten genoegen van het Hoofd van de Scheepvaartinspectie zijn en zullen ten minste het navolgende moeten omvatten:
 
-E = de in rekening te brengen lengte van de bovenbouw in meters volgens het bepaalde in artikel 35 van deze bijlage.
+2. **Elektrische hoofdkrachtbron**
 
-2. Met betrekking tot kleine vaartuigen geldt artikel 83 van de bijlage.
+2.1. Wanneer elektrische energie noodzakelijk is om de voortstuwing en de besturing van het schip te handhaven, moeten doelmatige voorzieningen zijn getroffen teneinde de elektrische energielevering te waarborgen in het geval dat een in bedrijf zijnde generator uitvalt.
 
 ### Artikel 30. Correctie voor de volheidscoëfficient
 
-1. Indien de volheidscoëfficient Cb groter is dan 0,68, moet het basisvrijboord, verkregen uit de in artikel 28 van deze bijlage aangegeven tabellen, na de benodigde wijzigingen ingevolge het bepaalde in de artikelen 27 (achtste en tiende lid) en 29 van deze bijlage worden vermenigvuldigd met de factor
+3.1. Het regelsysteem moet zodanig zijn uitgevoerd dat de diensten nodig voor de werking van het hoofdvoortstuwingswerktuig en de hulpwerktuigen, door de noodzakelijke automatische voorzieningen zijn verzekerd.
 
-2. Met betrekking tot kleine vaartuigen geldt in plaats van het voorgaande lid artikel 84 van deze bijlage.
+3.2. Automatisch overschakelen moet door middel van een alarm worden aangegeven.
 
 ### Artikel 31. Wijziging voor de holte (D)
 
-1. Indien D groter is dan L/15, moet het vrijboord worden vermeerderd met (D - L/15) R millimeter, waarin R gelijk is aan L/0,48 voor een lengte (L) die kleiner is dan 120 meter, en gelijk aan 250 voor een lengte (L) gelijk aan of groter dan 120 meter.
+3.4.1. De brug moet zijn ingericht met een alarmpaneel, dat ten minste de volgende alarmen afzonderlijk aangeeft:
 
-2. Voor een schip met een gesloten bovenbouw die over ten minste 0,6 L het middengedeelte der lengte bedekt, met een volledige trunk of met een samenstel van gesloten bovenbouwen en een trunk, dat van voor tot achter doorloopt, wordt, indien D kleiner is dan L/15, het vrijboord in bovenvermelde mate verkleind.
+Tevens moet op de brug de alarmering zijn aangebracht met betrekking tot:
 
-3. Indien de hoogte van de bovenbouw of de trunk kleiner is dan de standaardhoogte, zoals aangegeven in artikel 33 van deze bijlage, zal de vermindering in de verhouding van de werkelijke hoogte tot de standaardhoogte worden verkleind.
+In aanvulling op het bepaalde in het vijfde lid van artikel 69 moeten de volgende instrumenten zijn aangebracht, welke aangeven:
 
 ### Artikel 32. Correctie voor de plaats van de deklijn
 
@@ -2748,295 +1782,295 @@ De standaardhoogte wordt bij tussengelegen lengten door interpolatie verkregen.
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel, dient voor de lengte van een bovenbouw (S) de som van de gemiddelde lengten van de delen van de bovenbouw die binnen de loodlijnen liggen, te worden genomen.
 
-2. Indien het eindschot van een gesloten bovenbouw in een geheel bol gebogen ronding buiten de aansnijding van het eindschot met de zijden van de bovenbouw uitsteekt, mag de lengte van de bovenbouw vermeerderd worden op basis van een gelijkwaardig vlak schot.
+1. Elk schip moet zijn uitgerust met brandbluspompen, hoofdbrandblusleidingen, brandkranen en brandslangen, welke moeten voldoen aan het bepaalde in dit artikel, voorzover van toepassing.
 
-Deze vermeerdering van de lengte dient twee derde te bedragen van de pijl van de ronding.
+2. **Capaciteit van brandbluspompen**
 
-De maximale waarde van de pijl die in rekening mag worden gebracht, is gelijk aan de helft van de breedte van de bovenbouw, gemeten ter plaatse van de aansnijding van het eindschot met de zijden van de bovenbouw.
+2.1. De voorgeschreven brandbluspompen moeten in staat zijn onder een druk als voorgeschreven in het vierde lid de navolgende hoeveelheid water voor brandblusdoeleinden te leveren:
 
 ### Artikel 35. In rekening te brengen lengte van de bovenbouw
 
-1. Behoudens het bepaalde in het tweede lid van dit artikel, is de in rekening te brengen lengte (E) van een gesloten bovenbouw van standaardhoogte gelijk aan de lengte S.
+Wanneer meer pompen zijn opgesteld dan het voorgeschreven minimum aantal, moet de capaciteit van die extra pompen ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
-2. Indien de zijbeplating van een gesloten bovenbouw van standaardhoogte op een volgens het bepaalde onder **a** in het tiende lid van artikel 2 van deze bijlage toegestane afstand vanaf de scheepsboorden naar binnen is geplaatst, wordt de in rekening te brengen lengte van die bovenbouw verminderd in de verhouding b/Bs
+3. **Inrichtingen voor brandbluspompen en hoofdbrandblusleidingen**
 
-waarin
+3.1. Een schip moet zijn voorzien van het navolgende aantal onafhankelijk aangedreven brandbluspompen:
 
-b = de breedte van de bovenbouw gemeten op de halve lengte, en
+3.2. Sanitaire, ballast, lens of algemene dienstpompen kunnen worden aanvaard als brandbluspompen, mits zij onder normale omstandigheden niet worden gebruikt voor het pompen van olie en, indien zij af en toe voor dit doel moeten worden gebezigd, doelmatige verwisselinrichtingen zijn aangebracht die ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
-Bs = de scheepsbreedte, gemeten op de halve lengte van de bovenbouw.
+3.3. De opstelling van zeewaterinlaten, brandbluspompen en krachtbronnen voor hun aandrijving moet zodanig zijn dat verzekerd is dat, aan boord van een passagiersschip, indien een brand in enige afdeling alle pompen buiten werking zou kunnen stellen, een verplaatsbare pomp aanwezig is met een capaciteit van ten minste 10 m3/uur. De aandrijving van de pomp, de opvoerhoogte, de wijze waarop de pomp water kan aanzuigen en de wijze waarop de pomp op de hoofdbrandblusleiding kan worden aangesloten, moeten ten genoegen van het Hoofd van de Scheepvaartinspectie zijn;
 
-Indien de bovenbouw over een gedeelte van haar lengte op bovengenoemde wijze naar binnen is geplaatst, wordt alleen de in rekening te brengen lengte van dit gedeelte verminderd.
+3.4. De inrichtingen voor het snel beschikbaar zijn van de watertoevoer moeten:
 
-3. Indien de hoogte van een gesloten bovenbouw geringer is dan de standaardhoogte, wordt de in rekening te brengen lengte van die bovenbouw evenredig met de verhouding van de werkelijke hoogte tot de standaardhoogte verminderd.
+3.5. Brandbluspompen moeten alle van ontlastkleppen zijn voorzien, indien zij in staat zijn een druk te leveren die de druk overtreft waarvoor de brandblusleidingen, brandkranen en brandslangen zijn ontworpen. Deze ontlastkleppen moeten op zodanige plaats zijn aangebracht en zodanig zijn afgesteld, dat een te hoge druk in enig deel van de hoofdbrandblusleiding wordt voorkomen.
 
-Indien de hoogte groter is dan de standaardhoogte, wordt geen groter lengte van de bovenbouw in rekening gebracht.
+3.6. Aan boord van tankschepen moet, ten behoeve van de bedrijfszekerheid van het hoofdbrandblussysteem in geval van brand of explosie, de hoofdbrandblusleiding van afsluiters zijn voorzien op een beschermde plaats aan de voorkant van de kampanje en op het tankdek.
 
-4.
+4. **Doorlaat van en druk in de hoofdbrandblusleiding**
 
-5. Bovenbouwen die niet gesloten zijn, worden niet in rekening gebracht.
+4.1. De doorlaat van de hoofdbrandblusleiding en van de aftakkingen daarvan moet voldoende zijn voor een doelmatige verwerking van de maximaal voorgeschreven opbrengst van twee gelijktijdig werkende brandbluspompen, met dien verstande dat op een schip waarop slechts één brandbluspomp aanwezig is, hogergenoemde doorlaat voldoende groot moet zijn om een hoeveelheid water te kunnen verwerken gelijk aan de voorgeschreven opbrengst van die pomp.
 
 ### Artikel 36. Trunk
 
-1. Een trunk of een soortgelijke constructie die zich niet tot de scheepsboorden uitstrekt, wordt in rekening gebracht, mits:
+4.3. De maximum druk aan enige brandkraan mag niet hoger zijn dan de druk waarbij ten genoegen van het Hoofd van de Scheepvaartinspectie kan worden aangetoond dat doelmatige beheersing van de brandslang nog mogelijk is.
 
-2. De in rekening te brengen lengte van een trunk is gelijk aan zijn volle lengte, verkleind in verhouding van zijn gemiddelde breedte tot B.
+5. **Aantal en plaats van de brandkranen**
 
-3. De standaardhoogte van een trunk is gelijk aan die van een bovenbouw, geen verhoogd halfdek zijnde.
+5.1. Aan boord van vrachtschepen moeten het aantal en de plaats van de brandkranen zodanig zijn dat elk deel van het schip dat gedurende de vaart onder normale omstandigheden toegankelijk is voor passagiers en bemanning, kan worden bereikt met één straal water, waarbij slechts gebruik mag worden gemaakt van één slanglengte.
 
-4. Indien de hoogte van een trunk geringer is dan de standaardhoogte, wordt de in rekening te brengen lengte van die trunk evenredig met de verhouding van de werkelijke hoogte tot de standaardhoogte verminderd. Indien de hoogte van de luikhoofden op het trunkdek geringer is dan vereist volgens het bepaalde in het eerste lid van artikel 15 van deze bijlage, moet een vermindering van de hoogte van de trunk in rekening worden gebracht, die overeenkomt met het verschil tussen de werkelijke hoogte en de voorgeschreven hoogte van de hoofden.
+5.2. Aan boord van passagiersschepen moeten het aantal en de plaats van de brandkranen zodanig zijn dat elk deel van het schip dat gedurende de vaart onder normale omstandigheden toegankelijk is voor passagiers en bemanning, kan worden bereikt met ten minste twee stralen water, niet afkomstig uit dezelfde brandkraan, waarbij voor een dezer stralen slechts één slanglengte mag worden gebruikt.
 
 ### Artikel 37. Aftrek voor bovenbouw en trunk
 
-1. Indien de totale in rekening te brengen lengte van bovenbouwen en trunks gelijk is aan L, bedraagt de aftrek van het vrijboord:
+6.1. De brandblusleidingen, brandkranen en afsluiters moeten zijn vervaardigd van materialen die voldoende hittebestendig zijn. De leidingen en brandkranen moeten zodanig zijn aangelegd en uitgevoerd dat de mogelijkheid van bevriezing wordt voorkomen. Brandblusleidingen en brandkranen moeten zodanig zijn geplaatst dat de brandslangen gemakkelijk daaraan kunnen worden gekoppeld. Op schepen die deklading kunnen vervoeren, moet de plaats van de brandkranen zodanig zijn, dat zij altijd gemakkelijk toegankelijk zijn en de leidingen moeten, zoveel als praktisch mogelijk, zodanig zijn aangelegd, dat het gevaar voor beschadiging door een dergelijke lading wordt vermeden. Tenzij bij elke brandkraan een bijbehorende brandslang met straalpijp aanwezig is, moet elke brandslang op elke brandkraan en elke straalpijp op elke brandslang kunnen worden aangesloten.
 
-350 millimeter voor een scheepslengte (L) van 24 meter,
+6.2. Elke aansluiting voor een brandslang moet zijn voorzien van een kraan of afsluiter, opdat elke brandslang kan worden aan- of afgekoppeld terwijl de brandbluspompen te werk staan.
 
-860 millimeter voor een lengte van 85 meter en
+6.3. Aan boord van passagiersschepen moeten afsluiters welke het gedeelte van de hoofdbrandblusleiding, dat binnen de ruimte voor machines is gelegen die de hoofdbrandbluspomp of -pompen bevat, kunnen afsluiten van het overige gedeelte van de hoofdbrandblusleiding, zijn aangebracht op een gemakkelijk bereikbare en beschermbare plaats buiten de ruimten voor machines. Aan boord van passagiersschepen moet de hoofdbrandblusleiding zodanig zijn ingericht dat, wanneer de bedoelde afsluiters zijn gesloten, alle brandkranen op het schip, met uitzondering van die welke in de bovenvermelde ruimte voor machines zijn gelegen, van water kunnen worden voorzien door de brandbluspomp welke niet in de bedoelde ruimte voor machines is opgesteld, door middel van pijpleidingen welke niet door die ruimte lopen.
 
-1070 millimeter voor een lengte van 122 meter of meer.
+6.4. Brandkranen en afsluiters moeten in rode kleur zijn geschilderd.
 
-Bij tussengelegen lengten wordt de aftrek door interpolatie verkregen.
+7. **Brandslangen**
 
-2. Indien de totale in rekening te brengen lengte kleiner is dan L, bedraagt de aftrek een percentage van de aftrek genoemd in het eerste lid van dit artikel. Dit percentage wordt bepaald met behulp van één der onderstaande tabellen:
+7.1. Brandslangen moeten zijn vervaardigd van goedgekeurd materiaal dat slijtage-, hitte-, ozon-, benzine- en oliebestendig is. Zij moeten voldoende lang zijn om met een waterstraal alle ruimten te kunnen bereiken waarvoor zij zijn bestemd; deze lengte mag echter niet meer dan 20 m bedragen. Elke brandslang moet zijn voorzien van een straalpijp en de nodige koppelingen. Slangen die in deze bijlage zijn aangeduid als "brandslangen", moeten tezamen met de benodigde onderdelen en gereedschappen gereed voor gebruik worden gehouden op opvallende plaatsen nabij de brandkranen of slangaansluitingen.
 
-Percentages bij tussengelegen lengten van de bovenbouw en trunks worden door interpolatie verkregen.
+7.2. De doorsnede van de brandslangen moet ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
-Tabel B Percentage van de aftrek voor schepen van het type B
+7.3. Aan boord van een passagiersschip moet voor elke brandkraan die ingevolge het bepaalde in het vijfde lid is voorgeschreven, ten minste één brandslang aanwezig zijn. Deze slangen mogen alleen worden gebruikt voor brandblusdoeleinden of voor het beproeven van de brandblusinrichting tijdens oefeningen of gedurende inspecties. Het Hoofd van de Scheepvaartinspectie kan een groter aantal brandslangen voorschrijven opdat, naar zijn oordeel, steeds voldoende brandslangen beschikbaar en bereikbaar zijn.
 
-Percentages bij tussengelegen lengten van de bovenbouw en trunks worden door interpolatie verkregen.
+7.4. Het aantal brandslangen, elk compleet met koppelingen en straalpijp, moet aan boord van een vrachtschip ten minste twee bedragen.
 
-3. Bij de toepassing van tabel B in het tweede lid van dit artikel dient het volgende in acht te worden genomen:
+7.5. Brandslangkasten, -haspels en dergelijke moeten in rode kleur zijn geschilderd.
 
 ### Artikel 38. Zeeg
 
-**Algemene bepalingen**
+8.1. Straalpijpen moeten van een goedgekeurd type zijn en moeten een standaard spuitopening hebben met een diameter van 12 mm, 16 mm of 19 mm, dan wel een doorlaat die hier nagenoeg mee overeenkomt.
 
-1. De zeeg wordt gemeten van het dek in de zijde tot een denkbeeldige lijn, die evenwijdig aan de kiel door de zeeglijn op het midden der lengte is getrokken.
+8.2. In ruimten voor accommodatie en dienstruimten behoeft de spuitopening van de straalpijpen niet groter te zijn dan 12 mm.
 
-2. Van een schip dat met stuurlast is ontworpen, moet de zeeg ten opzichte van de constructiewaterlijn worden gemeten.
+8.3. Aan boord van een passagiersschip moet in ruimten voor machines en op open dekken de diameter van de spuitopening van straalpijpen zodanig zijn, dat met twee stralen water bij de druk genoemd in het vierde lid, met de kleinste pomp een zo groot mogelijke hoeveelheid water kan worden geleverd.
 
-3. Van een gladdekschip en van een schip met een onderbroken bovenbouw wordt de zeeg van het vrijboorddek gemeten.
+8.3.1. Aan boord van een vrachtschip moet op open dekken de diameter van de spuitopening van straalpijpen zodanig zijn, dat met één straal water bij de druk genoemd in het vierde lid, met de kleinste pomp een zo groot mogelijke hoeveelheid water kan worden geleverd.
 
-4. Van een schip waarvan de bovenzijde van het scheepsboord een ongewone vorm heeft en waarbij een terugwijking of verspringing in die bovenzijde voorkomt, wordt de zeeg beschouwd in verband met de gelijkwaardige holte in het midden der lengte (zesde lid van artikel 2 van deze bijlage).
+8.4. Elke straalpijp moet zijn voorzien van een inrichting die het mogelijk maakt tijdens het blussen met een eenvoudige handbeweging te gaan van spuiten op sproeien en omgekeerd, zonder dat daarvoor de watertoevoer naar de straalpijp behoeft te worden onderbroken. Tevens moet de straalpijp voorzien zijn van een inrichting om de watertoevoer te onderbreken.
 
-5. Van een schip met een bovenbouw van standaardhoogte die zich over de gehele lengte van het vrijboorddek uitstrekt, wordt de zeeg van het dek van de bovenbouw gemeten.
+8.5. Op schepen gebouwd op of na 1 februari 1992 moet elke straalpijp zijn voorzien van een inrichting die een sproeihoek van ten minste 120 graden mogelijk maakt teneinde een waterscherm te kunnen verkrijgen dat voldoende bescherming biedt. Op schepen gebouwd vóór 1 februari 1992 moet aan het bepaalde van dit onderdeel worden voldaan, indien vervanging of vernieuwing van een straalpijp plaatsvindt.
 
-Indien de hoogte van de bovenbouw de standaardhoogte overtreft, wordt het kleinste verschil (Z) tussen de werkelijke hoogte en de standaardhoogte aan elke eindordinaat toegevoegd. De ordinaten op een zesde en een derde deel van de lengte vanaf de eindordinaten worden met 0,444 Z, onderscheidenlijk 0,111 Z vergroot.
+9. **Plaats en inrichting van waterpompen met bijbehoren voor andere brandblussystemen**
 
-6. Indien het dek van een gesloten bovenbouw ten minste dezelfde zeeg heeft als het blootgestelde vrijboorddek, wordt de zeeg van het gedeelte van het vrijboorddek binnen die bovenbouw niet in rekening gebracht.
+Pompen welke nodig zijn voor de watervoorziening van andere brandblussystemen die ingevolge de voorschriften van deze bijlage zijn vereist, en de krachtbronnen en bedieningsorganen van die pompen moeten buiten de ruimte of ruimten die door dergelijke systemen worden beschermd, zijn aangebracht en moeten zodanig zijn ingericht dat dergelijke systemen niet buiten werking kunnen worden gesteld door een brand in de ruimte of ruimten die zij moeten beschermen.
 
 7. Indien de zeeg van het dek van een gesloten bak of kampanje van standaardhoogte groter is dan de zeeg van het vrijboorddek, of indien een gesloten bak of kampanje een hoogte heeft die de standaardhoogte overtreft, wordt de zeeg van het vrijboorddek vergroot overeenkomstig het bepaalde in het twaalfde lid van dit artikel.
 
-**Standaardzeeg**
+1**. Algemeen**
 
-8. De ordinaten van de standaardzeeglijn worden in de volgende tabel aangegeven:
+1.1. Het gebruik van een blusstof die naar het oordeel van het Hoofd van de Scheepvaartinspectie, hetzij uit zichzelf, hetzij onder te verwachten gebruiksomstandigheden, zodanige hoeveelheden giftige gassen afgeeft, dat zulks schadelijk is voor de gezondheid, is aan boord niet toegestaan.
 
-L in meters
+1.2. De nodige aanvoerleidingen voor de toelating van de blusstof in de beschermde ruimten moeten zijn voorzien van bedieningsafsluiters die zodanig gemerkt moeten zijn dat daardoor duidelijk wordt aangegeven naar welke afdelingen de leidingen voeren. Doelmatige voorzieningen moeten zijn getroffen teneinde toelaten van blusstof in een afdeling door onachtzaamheid te voorkomen.
 
-**Meting van afwijkingen van de standaardzeeglijn**
+1.3. De leidingen voor de verdeling van de blusstof moeten zodanig zijn aangelegd en de blaasmonden zodanig zijn geplaatst dat een doelmatige verdeling van de blusstof is gewaarborgd.
 
-9. Indien de zeeglijn niet samenvalt met de standaardzeeglijn, worden de vier ordinaten van de voorste en van de achterste helft van iedere lijn vermenigvuldigd met de daarbij behorende factoren, zoals deze zijn aangegeven in de tabel in het achtste lid van dit artikel.
+1.4. Middelen moeten aanwezig zijn ter afsluiting van alle openingen waardoor lucht zou kunnen toetreden tot, dan wel blusstof zou kunnen ontsnappen uit een beschermde ruimte.
 
-Het verschil tussen de sommen van de onderscheidene produkten van de werkelijke zeeglijn en van de standaardzeeglijn in het voorschip en in het achterschip, gedeeld door 8, geeft het tekort of de overmaat aan van de zeeg in het voorschip en in het achterschip.
+1.5. Waar de hoeveelheid vrije lucht in luchtvaten in enige ruimte zodanig is, dat de doeltreffendheid van de vast aangebrachte brandblusinstallatie ernstig zou worden benvloed indien die hoeveelheid tijdens een brand in zulk een ruimte zou vrijkomen, moet een door het Hoofd van de Scheepvaartinspectie te bepalen extra hoeveelheid blusstof aanwezig zijn.
 
-Het rekenkundig gemiddelde van de overmaat of het tekort vóór en achter geeft dan de overmaat of het tekort aan van de zeeg.
+1.6. Middelen moeten aanwezig zijn die automatisch een hoorbare waarschuwing geven wanneer de blusstof zal worden toegelaten in enige ruimte waarin personeel normaal te werk gesteld is of waartoe het toegang heeft. Dit alarm moet tijdig in werking treden alvorens de blusstof wordt toegelaten.
 
-10. Indien de achterste helft van de zeeglijn hoger en de voorste helft lager is dan de standaard, wordt de overmaat achter niet in aanmerking genomen en slechts het tekort vóór in rekening gebracht.
+1.7. De bedieningsmiddelen van elke dergelijke vast aangebrachte brandblusinstallatie moeten gemakkelijk toegankelijk en eenvoudig te behandelen zijn. Zij moeten zijn gegroepeerd op een zo gering mogelijk aantal plaatsen die niet gemakkelijk onbereikbaar zullen worden door een brand in de beschermde ruimte. Op elke bedieningsplaats moeten duidelijke gebruiksaanwijzingen voor het systeem zijn aangebracht, welke tevens rekening houden met de persoonlijke veiligheid.
 
-11. Indien de voorste helft van de zeeglijn hoger en de achterste helft van de zeeglijn niet lager is dan 75 percent van de standaard, wordt de overmaat vóór in rekening gebracht.
+1.8. Brandblusinstallaties waarbij de blusstof automatisch uitstroomt zijn niet toegestaan, behoudens het bepaalde in lid 2.3.5, alsmede in het geval van plaatselijke, automatisch werkende eenheden als bedoeld in de leden 2.4 en 2.5.
 
-Indien het achterste deel lager is dan 50 percent van de standaard, wordt geen rekening gehouden met de overmaat van zeeg in het voorschip.
+1.9. Indien met de hoeveelheid beschikbare blusstof meer dan één ruimte moet kunnen worden beschermd, behoeft deze hoeveelheid blusstof niet groter te zijn dat de grootste hoeveelheid die vereist is voor enige, aldus beschermde ruimte.
 
-Indien de zeeg in het achterschip een waarde heeft tussen 50 percent en 75 percent van de standaard, kan een tussenliggende correctie voor de overmaat van zeeg in het voorschip worden toegestaan.
+1.10. Behoudens het bepaalde in de leden 2.3, 2.4 en 2.5, moeten drukhouders vereist voor de opslag van de blusstof anders dan stoom, buiten de beschermde ruimten zijn opgesteld in overeenstemming met het bepaalde in lid 1.13.
 
-12. Indien de zeeg vergroot mag worden in verband met de aanwezigheid van een gesloten bak of kampanje, moet de volgende formule worden gebruikt:
+1.11. Middelen moeten aanwezig zijn waarmee de bemanning op veilige wijze de hoeveelheid blusstof in de drukhouders kan controleren.
 
-waarin:
+1.12 Drukhouders voor de opslag van blusstof en de bijbehorende appendages dienen te voldoen aan de regels van het desbetreffende klassebureau of aan de voorschriften van het Stoomwezen B.V.
 
-s = de overmaat van zeeg, die moet worden afgetrokken van het tekort aan zeeg of moet worden opgeteld bij de overmaat van zeeg;
+1.13. Indien de blusstof is opgeslagen buiten de beschermde ruimte, moet deze zijn opgeslagen in een ruimte die, naar het oordeel van het Hoofd van de Scheepvaartinspectie, is gelegen op een veilige en gemakkelijk toegankelijke plaats. De bedoelde ruimte moet doeltreffend kunnen worden geventileerd ten genoegen van het Hoofd van de Scheepvaartinspectie. De toegang van deze ruimte moet bij voorkeur vanaf het open dek zijn en in elk geval onafhankelijk van de beschermde ruimten. Toegangsdeuren moeten naar buiten openen en de schotten en dekken, met inbegrip van deuren en andere afsluitmiddelen voor openingen daarin, die de begrenzingswanden tussen zulke ruimten en aangrenzende omsloten ruimten vormen, moeten gasdicht zijn. De brandwerendheid van de ruimte voor opslag van blusstof moet, ingeval van tankschepen, voldoen aan het bepaalde in artikel 58 en, ingeval van overige kleine vaartuigen, aan het bepaalde in artikel 70. Voor de toepassing van de tabellen voor brandwerendheid, behorend bij artikel 58, dienen ruimten voor de opslag van blusstof te worden beschouwd als controlestation;
 
-y = het verschil in millimeters tussen de werkelijke hoogte en de standaardhoogte van de bovenbouw gemeten op de loodlijnen;
+1.14. Reserve-onderdelen voor het systeem moeten in een naar het oordeel van het Hoofd van de Scheepvaartinspectie voldoende soort en hoeveelheid aan boord aanwezig zijn.
 
-L1 = de gemiddelde lengte in meters van de gesloten bak of kampanje met een maximum van 0,5 L;
+1.15. Een vast aangebrachte brandblusinstallatie met gas als blusstof dient overigens te voldoen aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
 
-L = de scheepslengte in meters, als bedoeld in het eerste lid van artikel 2 van deze bijlage.
+2. **Kooldioxide-brandblusinstallaties**
 
-Bovenstaande formule is gebaseerd op een kromme van parabolische vorm die aan de werkelijke zeeglijn van het vrijboorddek raakt en de eindordinaat snijdt in een punt dat op een afstand, gelijk aan de standaardhoogte van de bovenbouw, onder het dek van de bovenbouw ligt.
+2.1. In ruimten voor machines moet, indien kooldioxide als blusstof wordt gebruikt, de hoeveelheid mee te voeren kooldioxide zo groot zijn dat de beschikbare hoeveelheid vrij gas een volume heeft dat ten minste gelijk is aan de grootste van de volgende hoeveelheden:
 
-De afstand van het dek van de bovenbouw tot deze kromme mag op geen enkel punt kleiner zijn dan de standaardhoogte van de bovenbouw. De kromme moet worden gebruikt om de zeeglijn in het voorschip en het achterschip vast te stellen.
+Indien twee of meer ruimten voor machines niet volkomen van elkaar zijn gescheiden, moeten deze ruimten tezamen worden beschouwd als één afdeling.
 
-**Wijziging op grond van afwijkingen van de standaard zeeglijn**
+2.2. Voor de toepassing van het bepaalde in dit lid moet voor het volume van kooldioxide met 0,56 m3/kg worden gerekend.
 
-13. De wijziging van het vrijboord met het oog op de grootte van de zeeg is het tekort aan of de overmaat van zeeg (negende tot en met elfde lid van dit artikel), vermenigvuldigd met
+2.3. Voor ruimten voor machines moeten de vaste pijpleidingen van de installatie zodanig zijn uitgevoerd dat 85 percent van de voorgeschreven hoeveelheid gas binnen twee minuten in de betrokken ruimte kan worden toegelaten.
 
-waarin:
+2.4 Kooldioxide-brandblusinstallaties die zijn geïnstalleerd op of na 1 oktober 1994 voldoen aan de volgende voorschriften:
 
-S = de totale lengte van de gesloten bovenbouw.
+3. **Brandblusinstallaties met gehalogeniseerde koolwaterstoffen**
 
-**Vermeerdering voor tekort aan zeeg**
+3.1 Het gebruik van de gehalogeniseerde koolwaterstoffen halon 1301 en halon 1211 als blusstof in vast aangebrachte brandblusinstallaties is uitsluitend toegestaan:
 
-14. Indien de zeeg kleiner is dan de standaardzeeg, wordt de wijziging voor het tekort aan zeeg (dertiende lid van dit artikel) bij het vrijboord opgeteld.
+3.2. Indien gehalogeniseerde koolwaterstoffen worden gebruikt als blusstof in vast aangebrachte systemen waarmee de benodigde hoeveelheid blusstof in korte tijd in de beschermde ruimte wordt toegevoegd:
 
-**Aftrek voor overmaat van zeeg**
+3.3. Alleen voor ruimten voor machines welke door de installatie worden beschermd, mag de blusstof in zulke ruimten zijn opgeslagen; in zulk een geval mag uitsluitend Halon 1301 worden gebruikt. De afzonderlijke drukhouders moeten dan zodanig zijn opgesteld dat de gehele ruimte doelmatig is beschermd terwijl tevens aan de navolgende voorschriften moet zijn voldaan:
 
-15.
+3.4. Plaatselijke, vast aangebrachte automatisch werkende brandbluseenheden met Halon 1301 en 1211 als blusstof, welke zijn aangebracht in omsloten ruimten met een groot brandrisico binnen ruimten voor machines, kunnen worden aanvaard in aanvulling op en onafhankelijk van enige voorgeschreven vast aangebrachte brandblusinstallatie, mits aan de navolgende voorschriften is voldaan:
 
 ### Artikel 39. Kleinst toelaatbare boeghoogte ter plaatse van de voorloodlijn
 
 1. De boeghoogte, waaronder wordt verstaan de vertikale afstand tussen de ontwerplastlijn bij zomeruitwatering en de bovenzijde van het blootgestelde dek in de zijde, gemeten op de voorloodlijn, mag niet minder zijn dan
 
-millimeter voor een schip met een lengte van minder dan 250 meter en
+1. **Ruimten waarin oliegestookte ketels of oliestookinrichtingen zijn opgesteld**
 
-millimeter voor een schip met een lengte van 250 meter of meer en waarin:
+1.1. Ruimten voor machines van categorie A waarin oliegestookte ketels of oliestookinrichtingen zijn opgesteld, moeten zijn voorzien van één van de volgende vast aangebrachte brandblusinstallaties:
 
-L = de scheepslengte in meters en
+Indien de machinekamers en ketelruimen niet volkomen van elkaar zijn gescheiden, of wanneer brandstofolie van het ketelruim in de machinekamer kan vloeien, moeten de betrokken machine- en ketelruimen tezamen als één afdeling worden beschouwd.
 
-Cb = de volheidscoëfficient, die niet kleiner behoeft te worden genomen dan 0,68.
+1.2. Op elke stookplaats van elk ketelruim en in elke ruimte waarin een deel van de oliestookinrichting is ondergebracht, moeten ten minste twee draagbare schuimbrandblustoestellen of daaraan gelijkwaardige toestellen aanwezig zijn. In elk ketelruim moet ten minste één schuimbrandblustoestel van een goedgekeurd type met een inhoud van ten minste 135 l of een daaraan gelijkwaardig toestel aanwezig zijn. Deze toestellen moeten zijn voorzien van op haspels aangebrachte slangen die lang genoeg zijn om elk deel van het ketelruim te kunnen bereiken.
 
-2. Indien de boeghoogte overeenkomstig het bepaalde in het eerste lid van dit artikel wordt verkregen door toepassing van zeeg, moet deze zeeg zich vanaf de voorloodlijn over ten minste 15 percent van de scheepslengte uitstrekken.
+In het geval van ketels voor huishoudelijk gebruik met een vermogen van minder dan 175 kW kan voor het bepaalde in dit lid worden volstaan met ten minste een draagbaar schuimbrandblustoestel of een daaraan gelijkwaardig toestel.
 
-Indien de boeghoogte wordt verkregen door het aanbrengen van een bovenbouw, moet de lengte van deze bovenbouw vanaf de voorloodlijn tenminste 0,07 L bedragen.
+1.3. Op elke stookplaats moeten één of meer bakken, tezamen inhoudende 0,3 m3 zand, met soda doordrenkt zaagsel of andere goedgekeurde droge stoffen, benevens schoppen om deze stoffen te verspreiden, aanwezig zijn. Een goedgekeurd draagbaar brandblustoestel kan hiervoor in de plaats worden gesteld.
 
-De bovenbouw moet dan aan de volgende voorwaarden voldoen:
+1.4. Van een ketel met geforceerde trek moeten onder overdruk staande luchtkanalen, indien zich daarin lekolie kan verzamelen, zijn voorzien van een stoombrandblusinrichting.
 
-3. Voor schepen, waarvoor het bepaalde in het eerste en tweede lid van dit artikel in verband met bijzondere voorwaarden voor de vervulling van hun taak onredelijk of onuitvoerbaar is, kan het Hoofd van de Scheepvaartinspectie afwijkingen toestaan.
+2.**Ruimten waarin verbrandingsmotoren of gasturbines zijn opgesteld**
 
-4. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 85 van deze bijlage.
+Ruimten voor machines van categorie A waarin verbrandingsmotoren of gasturbines zijn opgesteld moeten zijn voorzien van:
 
 ### Artikel 40. Minimum vrijboord
 
-**Zomervrijboord**
+Indien naar het oordeel van het Hoofd van de Scheepvaartinspectie brandgevaar aanwezig is in ruimten voor machines ten aanzien waarvan geen bepaalde voorschriften omtrent brandblusmiddelen zijn gegeven in het eerste en het tweede lid moet in of dicht bij deze ruimten een zodanig aantal brandblustoestellen van een goedgekeurd type of andere brandblusmiddelen zijn opgesteld als door hem voldoende wordt geacht.
 
-1. Het minimum vrijboord in het zomervaargebied is het vrijboord dat uit de in artikel 28 van deze bijlage gegeven tabellen is afgeleid, na wijziging ingevolge het bepaalde in artikel 27 voor zover van toepassing, de artikelen 29, 30, 31, 32, 37 en 38, en, indien van toepassing, artikel 39 van deze bijlage.
+4. **Vast aangebrachte brandblusinrichtingen niet vereist in deze bijlage**
 
-2. Het vrijboord, berekend overeenkomstig het bepaalde in het eerste lid van dit artikel, echter zonder de correctie voor de plaats van de deklijn zoals bepaald in artikel 32 van deze bijlage, mag in zout water niet minder zijn dan 50 millimeter.
+Een vast aangebrachte brandblusinstallatie die niet in deze bijlage wordt voorgeschreven, moet ten genoegen van het Hoofd van de Scheepvaartinspectie zijn. Het bepaalde in artikel 105 van dit besluit is van overeenkomstige toepassing.
 
 Voor een schip waarvan de luikhoofden in positie 1 zijn voorzien van luiken die niet voldoen aan het bepaalde in de artikelen 15 (zevende lid), 16 of 26 van deze bijlage, mag dit vrijboord in zout water niet minder zijn dan 150 millimeter.
 
-**Tropenvrijboord**
+1. De bepalingen van dit artikel zijn van toepassing op ruimten voor machines van categorie A en, indien het Hoofd van de Scheepvaartinspectie dit wenselijk acht, ook op andere ruimten voor machines.
 
-3. Het minimum vrijboord in het tropisch vaargebied is het vrijboord dat wordt verkregen door van het toegekende zomervrijboord 1/48 van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk, af te trekken.
+2.1. Het aantal schijnlichten, deuren, ventilatoren, openingen in schoorstenen voor afzuigventilatie en andere openingen van ruimten voor machines, moet zijn beperkt tot het minimum dat verenigbaar is met de behoeften met betrekking tot ventilatie en de goede bedrijfsvoering van het schip.
 
-4. Het tropenvrijboord berekend overeenkomstig het bepaalde in het derde lid van dit artikel, echter zonder correctie voor de plaats van de deklijn zoals bepaald in artikel 32 van deze bijlage, mag in zout water niet minder zijn dan 50 millimeter.
+2.2. Schijnlichten moeten van staal zijn. Ramen, patrijspoorten of lichtranden mogen daarin niet zijn aangebracht. Geschikte voorzieningen moeten zijn getroffen voor de afvoer van rook uit de te beschermen ruimten in geval van brand.
 
-Voor een schip waarvan de luikhoofden in positie 1 zijn voorzien van luiken die niet voldoen aan het bepaalde in de artikelen 15 (zevende lid), 16 of 26 van deze bijlage mag dit vrijboord in zout water niet minder zijn dan 150 millimeter.
+2.3. Aan boord van passagiersschepen moeten deuren, andere dan mechanisch bewogen waterdichte deuren, bij brand in de ruimte voor machines doeltreffend kunnen worden gesloten. Dit sluiten dient te geschieden door middel van een mechanische sluitinrichting, dan wel door toepassing van zelfsluitende deuren die kunnen worden gesloten tegen een helling van 3½ graad in en die zijn voorzien van doeltreffende haken, voorzien van een op afstand te bedienen inrichting voor het vrijmaken daarvan.
 
-**Wintervrijboord**
+3. In schachten van ruimten voor machines mogen geen ramen, patrijspoorten of lichtranden zijn aangebracht. Dit sluit evenwel het gebruik van glas in wanden van controlekamers, die geheel binnen ruimten voor machines zijn gelegen, niet uit.
 
-5. Het minimum vrijboord in het wintervaargebied is het vrijboord dat wordt verkregen door bij het toegekende zomervrijboord 1/48 van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk, op te tellen.
+4. Bedieningsmiddelen moeten aanwezig zijn voor:
 
-**Wintervrijboord in de Noord-Atlantische Oceaan**
+5. De bedieningsmiddelen, vereist ingevolge het vierde lid van dit artikel en lid 2.5 van artikel 15 van deze bijlage, moeten buiten de betreffende ruimte zijn aangebracht, waar zij niet gemakkelijk onbereikbaar worden in geval van een brand in de ruimte welke zij bedienen.
 
-6. Het minimum vrijboord voor een schip met een lengte van niet meer dan 100 meter, dat gedurende het periodieke winterseizoen op enigerlei plaats in het vaargebied in de Noord-Atlantische Oceaan, zoals bedoeld in artikel 70 van deze bijlage, komt, is gelijk aan het toegekende wintervrijboord vermeerderd met 50 millimeter.
+Aan boord van passagiersschepen moeten dergelijke bedieningsmiddelen, alsmede de bedieningsmiddelen van alle voorgeschreven, vast aangebrachte brandblussystemen zijn aangebracht op één bedieningsplaats of gegroepeerd op zo weinig mogelijk plaatsen, dit ten genoegen van het Hoofd van de Scheepvaartinspectie. Een dergelijke plaats of dergelijke plaatsen moeten een veilige toegang hebben vanaf het open dek.
 
-Voor een schip met een lengte van meer dan 100 meter is het gelijk aan het toegekende wintervrijboord.
+6. Indien een ruimte voor machines van categorie A op een laag niveau toegankelijk is vanuit een aangrenzende schroefastunnel, moet in de schroefastunnel en nabij de waterdichte deur een lichte stalen brandwerende deur zijn aangebracht, die aan beide zijden geopend en gesloten moet kunnen worden.
 
-**Vrijboord in zoetwater**
+7. Voor tijdelijk onbemande machinekamers aan boord van vrachtschepen moet, ten genoegen van het Hoofd van de Scheepvaartinspectie, bijzondere aandacht worden gegeven aan de handhaving van de brandwerendheid van de ruimten voor machines, aan de plaats en de centrale opstelling van de bedieningsmiddelen van de brandblussystemen en aan de voorgeschreven middelen voor het stoppen van onder meer ventilatiesystemen en brandstofoliepompen. Het Hoofd van de Scheepvaartinspectie kan aanvullende brandblussystemen en andere brandblusuitrusting verlangen, zomede aanvullende ademhalingstoestellen voor tijdelijk onbemande machinekamers. Aan boord van passagiersschepen moet door zulke eisen zekergesteld zijn dat de veiligheid gelijkwaardig is aan die van machinekamers waar een normale wachtbezetting wordt onderhouden.
 
-7. Het minimum vrijboord in zoet water van een soortgelijk gewicht van één is het vrijboord, verkregen door het toegekende vrijboord in zout water te verminderen met ▵/40t centimeter,
+8. Een ventilatiesysteem van een ruimte voor machines van categorie A moet volledig gescheiden zijn van andere ventilatiesystemen. Een ventilatiesysteem van een ruimte voor machines anders dan van categorie A moet ten genoegen van het Hoofd van de Scheepvaartinspectie gescheiden zijn van andere ventilatiesystemen.
 
 waarin:
 
-▵ = het deplacement in zout water in tonnen bij de uitwatering in de zomer en
+Een klein vaartuig moet een brandweerbijl aan boord hebben.
 
 t = het aantal tonnen, waarmede het deplacement per centimeter in zout water bij de uitwatering in de zomer toeneemt.
 
-8. Indien het deplacement bij de uitwatering in de zomer niet met zekerheid kan worden vastgesteld, moet de aftrek 1/48 van de zomerdiepgang zijn, gemeten van de bovenkant van de kiel tot het middelpunt van de ring van het uitwateringsmerk.
+1. **Algemeen**
 
-9. Met betrekking tot kleine vaartuigen geldt in plaats van de voorgaande leden artikel 86 van deze bijlage.
+Wanden en plafonds van gangen en portalen moeten ten minste van klasse B-O zijn.
 
 ### Hoofdstuk IV. Uitwatering van schepen die deklasten hout vervoeren
 
 ### Artikel 41. Toepassing
 
-De artikelen 42 tot en met 45 van deze bijlage zijn uitsluitend van toepassing op schepen waarvoor een houtvaartvrijboord wordt vastgesteld.
+4. Bijzondere aandacht moet worden besteed aan de isolatie van stutten en andere lastdragende constructies van aluminium of van versterkte kunststof.
 
 ### Artikel 42. Omschrijvingen
 
-**Deklast hout**
+6. De bevestiging van wanden en plafonds van klasse B en C mogen bij brand niet worden aangetast.
 
-1. De uitdrukking "deklast hout" duidt een lading hout aan die op een niet overdekt gedeelte van een vrijboorddek of van een dek van de bovenbouw wordt vervoerd.
+7. **Schepen vervaardigd van staal**
 
-Houtpulp of dergelijke lading wordt niet als een deklast hout beschouwd.
+Schotten en dekken, die de scheiding vormen tussen de machinekamer en stuurhuis, dienstruimten of ruimten voor accommodatie moeten ten minste van klasse A-30 zijn.
 
-**Houtvaartuitwatering**
+8. Schotten en dekken, die de scheiding vormen tussen een ruimte voor de opslag van blusstof als bedoeld in artikel 66, en de machinekamer, stuurhuis, dienstruimten of ruimten voor accommodatie moeten ten minste van klasse A-30 zijn.
 
-2. Aangenomen mag worden dat een deklast hout aan het schip in zekere mate een aanvullend drijfvermogen geeft en een betere bescherming tegen de zee verleent. In verband hiermede kan aan een schip dat een deklast hout vervoert, een gereduceerde uitwatering worden toegekend indien het Hoofd van de Scheepvaartinspectie ervan overtuigd is dat de constructie van het schip voldoet aan de voorwaarden gesteld in artikel 43 van deze bijlage en dat de deklast hout voldoet aan hetgeen is voorgeschreven in artikel 44 van deze bijlage.
+9. **Schepen vervaardigd van aluminium of van versterkte kunststof**
 
-Deze uitwatering wordt vastgesteld volgens het bepaalde in artikel 45 van deze bijlage; de bijbehorende uitwateringslijnen worden aangebracht volgens het bepaalde in het derde en het vierde lid van artikel 5 van deze bijlage.
+De huid, schotten en dekken die de machinekamer omgeven moeten aan de zijde van de machinekamer van een zodanige isolatie zijn voorzien dat de temperatuur van de aluminium danwel van de versterkte kunststoffen constructie gedurende het eerste halfuur van de standaardbrandproef te eniger tijd niet meer dan:
 
 ### Artikel 43. Constructie van het schip
 
-**Bovenbouw**
+De isolatie op de huid moet zich uitstrekken van het dek tot ten minste 100 mm onder het niveau van de lastlijn behorende bij het ledige bedrijfsklare schip.
 
-1. Het schip moet zijn voorzien van een bak met een hoogte die ten minste gelijk is aan de standaardhoogte en met een lengte van ten minste 0,07 L. Indien de scheepslengte minder is dan 100 meter, moet het schip bovendien zijn voorzien van een kampagne van standaardhoogte of van een verhoogd halfdek.
+10. De huid, schotten en dekken die een ruimte voor de opslag van blusstof als bedoeld in artikel 66 omgeven, moeten aan de buitenzijde van die ruimte zijn geïsoleerd, overeenkomstig het bepaalde in het negende lid.
 
-Indien een verhoogd halfdek is aangebracht, moet achter op dit dek een dekhuis of een sterke stalen kap zijn geplaatst.
+11. Stutten of andere constructies ter ondersteuning van het dek van de machinekamer dienen, indien van aluminium of van versterkte kunststof, eveneens te worden geïsoleerd, overeenkomstig het bepaalde in het negende lid.
 
-De totale hoogte van het verhoogde halfdek en het dekhuis of de kap moet ten minste gelijk zijn aan de standaardhoogte van een kampagne.
+12. In onderdeks gelegen ruimten voor accommodatie en dienstruimten moet worden voorkomen dat bij brand de scheepsconstructie van aluminium of van versterkte kunststof direct wordt aangetast. Daartoe moeten beschietingen en plafonds zijn aangebracht van ten minste klasse C, met een minimum dikte van 10 mm, tenzij de scheepsconstructie is geïsoleerd.
 
 **Dubbele bodem**
 
-2. Het schip moet zijn voorzien van een dubbele bodem die zoveel mogelijk van het voorpiekschot tot het achterpiekschot doorloopt. Deze dubbele bodem moet zodanig zijn ingedeeld dat het optreden van een vrij vloeistofoppervlak over meer dan de halve scheepsbreedte steeds kan worden vermeden.
+1. Trappen en ladders moeten zodanig zijn aangebracht dat vanuit alle ruimten voor accommodatie en ruimten waarin door de bemanning onder normale omstandigheden dienst wordt gedaan, andere dan ruimten voor machines, het open dek en vervolgens de reddingmiddelen gemakkelijk kunnen worden bereikt. In het bijzonder moet aan de volgende algemene bepalingen zijn voldaan:
 
-**Verschansing**
+2. In ruimten voor machines van categorie A moet een voorziening voor ontsnapping, bestaande uit een stalen trap of stalen ladder, zijn aangebracht.
 
 3.
 
 ### Artikel 44. Stuwen
 
-Algemene bepalingen
+2. Het constructieve deel van alle trappen moet van staal zijn, tenzij het Hoofd van de Scheepvaartinspectie het gebruik van ander gelijkwaardig materiaal toestaat.
 
 1. Openingen in het aan weer en wind blootgestelde dek die door de deklast worden bedekt, moeten goed zijn gesloten en geschalkt. Luchtkokers en luchtpijpen moeten op doeltreffende wijze zijn beschermd.
 
-2. Een deklast hout moet zodanig worden gestuwd dat de kuilen tussen de delen van de bovenbouw over hun volle lengte met hout zijn gevuld. Indien zich op het achterschip geen bovenbouw bevindt, moet de deklast zich ten minste tot de achterzijde van het achterste luikhoofd uitstrekken. Dwarsscheeps moet de deklast zich zo dicht mogelijk tot elk boord uitstrekken; hierbij is het evenwel toelaatbaar dat de buitenzijde van de deklast zo ver naar binnen is geplaatst als noodzakelijk is vanwege relingwerk, verschansingssteunen, deklaststutten, enzovoort, onder voorwaarde dat de afstand van de buitenzijde van de deklast de gemiddelde waarde van tot elk boord niet groter is dan 4% van de scheepsbreedte (B). De deklast moet zo vast mogelijk zijn gestuwd. De hoogte van de deklast moet ten minste gelijk zijn aan de standaardhoogte van de bovenbouw, geen verhoogd halfdek zijnde.
+1. De brandwerendheid van deuren respectievelijk luiken moet gelijkwaardig zijn aan die van het schot of dek waarin zij zijn aangebracht.
 
-3. Op een schip dat zich in de winter in een periodiek wintervaargebied bevindt, mag de hoogte van de deklast boven het aan weer en wind blootgestelde dek een derde gedeelte van de grootste scheepsbreedte niet te boven gaan.
+2. Deuren aangebracht in begrenzingsschotten van de machinekamer, niet leidend naar het open dek, moeten zelfsluitend en redelijk gasdicht zijn.
 
-4. De deklast hout moet goed aaneengesloten zijn gestuwd en zeevast zijn gesjord.
+3. Deuren of toegangsluiken van de machinekamer, die leiden naar het open dek, moeten van staal zijn.
 
-De deklast mag op generlei wijze de navigatie, de bediening van de redding- en brandblusmiddelen, lieren, peil- en temperatuurkokers, lenspompen en de toegangen tot verblijven, enzovoort, belemmeren. Het licht van de navigatielantaarns mag niet worden onderschept.
+4. In gangwanden mogen ventilatie-openingen slechts zijn aangebracht in en onder de deuren van hutten en ruimten voor algemeen gebruik. De openingen mogen uitsluitend in de onderste helft van een deur zijn aangebracht en de totale oppervlakte van deze opening of openingen mag niet meer bedragen dan 0,05 m².
 
-**Deklaststutten**
+Indien een dergelijke opening in een deur is aangebracht, moet deze zijn voorzien van een rooster van onbrandbaar materiaal.
 
-5. Indien de aard van de deklast dit noodzakelijk maakt, moeten deklaststutten worden geplaatst. De stutten moeten van voldoende sterkte zijn waarbij rekening moet worden gehouden met de breedte van het schip, zij mogen evenwel niet sterker zijn dan de verschansing. De onderlinge afstand van de stutten moet worden bepaald naar de lengte en de aard van het vervoerde hout; deze afstand mag echter niet meer zijn dan 3 meter.
+5. Waterdichte deuren behoeven niet te zijn geïsoleerd.
 
 Voor het vastzetten van de stutten moeten sterke hoekstalen, metalen potten of gelijkwaardige inrichtingen zijn aangebracht.
 
-**Sjorrings**
+1. Ventilatiekanalen moeten zijn vervaardigd van onbrandbaar materiaal. Korte stukken van kanalen die over het algemeen niet langer zijn dan 2 m en waarvan de oppervlakte van de dwarsdoorsnede niet meer dan 0,02 m² bedraagt, behoeven echter niet onbrandbaar te zijn, mits aan de onderstaande voorwaarden is voldaan:
 
-6. Een deklast hout moet deugdelijk over de gehele lengte door onafhankelijk over de deklast geslagen sjorrings worden vastgelegd.
+3. Kanalen voor de ventilatie van ruimten voor machines van categorie A, van afzonderlijke kombuizen of van andere ruimten met gelijke brandgevaarlijkheid mogen niet door ruimten voor accommodatie, dienstruimten of controlestations lopen, tenzij deze kanalen:
 
-Voor de onderlinge afstand van de sjorrings geldt, afhankelijk van de ter plaatse van de sjorrings gemeten maximale hoogte van de deklast boven het aan weer en wind blootgestelde dek, het volgende:
+4. Kanalen voor ventilatie van ruimten voor accommodatie, dienstruimten of controlestations mogen niet door ruimten voor machines van categorie A, door afzonderlijke kombuizen of door andere ruimten met gelijke brandgevaarlijkheid lopen, tenzij de kanalen:
 
-Voor het bevestigen van de sjorrings moeten oogplaten stevig aan de berghoutsgang, de dekstringerplaat of op andere daartoe versterkte plaatsen zijn bevestigd. De afstand van de eerste oogplaat tot het eindschot van de bovenbouw mag niet meer dan 2 meter bedragen.
+5. Ventilatiekanalen, waarvan de oppervlakte van de dwarsdoorsnede meer dan 0,02 m² bedraagt, welke door schotten van klasse "B" gaan, moeten zijn voorzien van stalen van ommantelingskokers. De ommantelingskoker moet een dikte hebben van ten minste 1,5 mm en een lengte van ten minste 900 mm. De lengte van de ommantelingskoker moet zijn verdeeld in 450 mm aan iedere zijde van het schot. Een ommantelingskoker behoeft niet te worden aangebracht indien de betreffende kanalen over dezelfde lengte van staal met een dikte van ten minste 1,5 mm zijn vervaardigd.
 
-Indien zich aan het eind van de deklast geen schot bevindt, moeten op afstanden van 0,60 meter en 1,50 meter vanaf het eind van de deklast, oogplaten en sjorrings zijn aangebracht.
+6. Al het mogelijke dient te worden gedaan om te bereiken dat in controlestations die buiten ruimten voor machines zijn gelegen, ventilatie, zicht en afwezigheid van rook worden gehandhaafd, zodat in geval van brand de werktuigen en toestellen daarin gecontroleerd kunnen worden en op deugdelijke wijze blijven werken. Bijzondere voorzieningen behoeven niet te worden getroffen indien het controlestation gelegen is op, en uitgang verleend naar het open dek.
 
-**Stabiliteit**
+7. Indien kokers van afvoerkappen boven fornuizen door ruimten voor accommodatie of ruimten met brandbare materialen lopen, moeten zij zijn geconstrueerd als schotten van klasse "A". Elke zodanige afvoerkoker moet zijn uitgerust met:
 
-7. Gedurende de gehele reis dient zorg te worden gedragen voor een voldoende stabiliteit, waarbij rekening moet worden gehouden met het verbruik van brandstoffen en voorraden en met het toenemen van het gewicht van de deklast door het opnemen van water en de afzetting van ijs.
+8. De hoofdinlaten en -uitlaten van alle ventilatiesystemen moeten buiten de ruimte die wordt geventileerd, kunnen worden gesloten.
 
-**Bescherming van de bemanning, toegang tot de voortstuwingsruimte, enz.**
+9. Toestellen voor mechanische ventilatie van ruimten voor accommodatie, dienstruimten, controlestations en ruimten voor machines moeten van een gemakkelijk bereikbare plaats, buiten de ruimte die zij bedienen, kunnen worden gestopt. Deze plaats moet zodanig zijn gelegen dat die niet gemakkelijk onbereikbaar wordt in geval van brand in de ruimten die worden bediend. De inrichting waarmee de toestellen voor mechanische ventilatie van de ruimten voor machines kunnen worden gestopt, moet geheel gescheiden zijn van die, waarmee de ventilatie van andere ruimten kan worden gestopt.
 
 8. Als aanvulling op het bepaalde in het vijfde lid van artikel 25 van deze bijlage moeten lijnen op onderlinge afstanden van ten hoogste 330 millimeter boven elkaar worden bevestigd aan stevig geplaatste stutten van voldoende sterkte of er moet zijn voorzien in een deugdelijk relingwerk waarvan de roeden op ten hoogste dezelfde afstand uit elkaar zijn geplaatst.
 
-De hoogte van deze bescherming moet ten minste 1 meter boven de deklast bedragen. De bescherming moet aan iedere zijde van de deklast worden aangebracht.
+1. Alle blootgestelde oppervlakken in gangen, ingesloten ruimten voor trappen en ruimten voor passagiers moeten een laag vlamspreidend vermogen hebben.
 
-Bovendien moet worden voorzien in een handleider die bij voorkeur dient te bestaan uit een staaldraad met een spaninrichting.
+Plafonds in nachtverblijven en in het stuurhuis moeten eveneens een laag vlamspreidend vermogen hebben.
 
-De handleider moet zo dicht mogelijk bij de hartlijn van het schip worden aangebracht en met de spaninrichting worden strak getrokken
+2. Verven, vernissen en andere stoffen voor afwerking, gebruikt op blootgestelde inwendige oppervlakken, mogen geen, naar het oordeel van het Hoofd van de Scheepvaartinspectie onnodig, brandgevaar opleveren, en mogen geen overmatige hoeveelheden rook of andere giftige gassen of dampen kunnen voortbrengen.
 
-Alle lijnen en roeden moeten worden bevestigd aan stevige stutten die op zodanige afstand moeten worden geplaatst dat een overmatig doorzakken van de lijnen of de roeden wordt voorkomen.
+3. De onderste laag van dekbedekkingen, aangebracht in gangen, portalen en het stuurhuis moet van materiaal zijn dat niet gemakkelijk ontbrandt of aanleiding geeft tot vergiftigings- of explosiegevaar bij verhoogde temperaturen.
 
-Indien de bovenzijde van de deklast niet voldoende vlak is om erover te kunnen lopen, moeten onder of naast de zich bij de hartlijn van het schip bevindende handleider de nodige planken worden aangebracht.
+4. Alle isolatiematerialen, ook indien niet voorgeschreven uit hoofde van brandbescherming, dienen van onbrandbare kwaliteit te zijn.
 
 De totale breedte van het aldus gevormde looppad moet ten minste 600 millimeter bedragen en de planken moeten stevig aan de deklast worden verbonden.
 
-9. Indien de eisen van het achtste lid onuitvoerbaar zijn, worden ten genoegen van het Hoofd van de Scheepvaartinspectie andere voorzieningen getroffen.
+1. Een vast aangebrachte brandontdekkings- en brandalarminstallatie moet zijn aangebracht in:
 
-**Stuurinrichting**
+2. De installatie moet zodanig zijn uitgevoerd dat in geval van brand een hoorbaar en zichtbaar alarm in het stuurhuis wordt gegeven. Ook in eventuele nachtverblijven dient dit alarm hoorbaar te zijn. (∗)Verwezen wordt naar de aanbevelingen gepubliceerd door de Internationale Elektrotechnische Commissie en in het bijzonder Publicatie 92 - Elektrische Installaties aan boord van schepen.∗Met een veilige ruimte wordt bedoeld een ruimte waarin het toetreden van koolwaterstofdampen gevaren zou oproepen met betrekking tot brand of vergiftiging.∗Met een veilige ruimte wordt bedoeld een ruimte waarin het toetreden van koolwaterstofdampen gevaren zou oproepen met betrekking tot brand of vergiftiging.
 
 10. De stuurinrichting moet deugdelijk tegen beschadiging door de deklast zijn beschermd en, voor zover dit uitvoerbaar is, te allen tijde bereikbaar zijn.
 
@@ -3056,7 +2090,7 @@ Percentages bij tussengelegen lengten van de bovenbouw worden door interpolatie 
 
 5. Het toe te kennen houtvaart vrijboord in zoetwater wordt verkregen in overeenstemming met het bepaalde in het zevende lid van artikel 40 van deze bijlage en gebaseerd op het toegekende houtvaart vrijboord in de zomer of in overeenstemming met het bepaalde in het achtste lid van artikel 40 van deze bijlage, gebaseerd op de zomerdiepgang voor de houtvaart, gemeten van de bovenkant van de kiel tot de uitwateringslijn voor houtvaart in de zomer.
 
-### Artikel 46
+### Hoofdstuk D. Bepalingen voor kleine vaartuigen
 
 Vervallen.
 
@@ -3066,35 +2100,35 @@ Vervallen.
 
 ### Artikel 48
 
-Vervallen.
+Ten behoeve van de radiocommunicatie tussen de groepsreddingmiddelen onderling en het schip, alsmede tussen het schip en de hulpverleningsboot, moeten aan boord van schepen VHF radio-installaties die voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2005-01-01&g=2005-01-01), aan boord zijn. Het is niet noodzakelijk dat er voor ieder groepsreddingmiddel een afzonderlijke VHF radio-installatie is, maar er moeten op schepen van 300 ton of meer ten minste twee VHF radio-installaties aan boord zijn en op schepen van minder dan 300 ton ten minste één VHF radio-installatie.
 
 ### Artikel 49
 
-Vervallen.
+2.1. Noodsignalen
 
 ### Artikel 50
 
-Vervallen.
+2.2. Aan boord van elk schip moet een algemeen alarminstallatie zijn aangebracht, die voldoet aan het bepaalde in artikel 50. Het Hoofd van de Scheepvaartinspectie kan hiervan vrijstelling verlenen, indien de inrichting van het schip zodanig is dat het voorschrift kennelijk overbodig is.
 
-### Artikel 51
+### Artikel 56. Persoonlijke reddingmiddelen aan boord van kleine vaartuigen
 
-Vervallen.
+1. Reddingboeien
 
 ### Artikel 52
 
-Vervallen.
+1.2. Ten minste twee van de voorgeschreven reddingboeien moeten zijn voorzien van een zelfontbrandend licht dat voldoet aan het bepaalde in artikel 31, tweede lid. Op tankschepen moeten de zelfontbrandende lichten van een type met een elektrisch element zijn.
 
 ### Artikel 53
 
-Vervallen.
+2. Reddinggordels
 
 ### Artikel 54
 
-Vervallen.
+2.2. De reddinggordels moeten zo zijn opgeborgen dat ze gemakkelijk bereikbaar zijn en hun bergplaats moet duidelijk zijn aangegeven. Wanneer, vanwege de bijzondere indeling van het schip, de reddinggordels, voorgeschreven in lid 2.1, onbereikbaar kunnen worden, moeten andere maatregelen ten genoegen van het Hoofd van de Scheepvaartinspectie worden genomen, welke kunnen inhouden dat een groter aantal reddinggordels aan boord moet zijn.
 
 ### Artikel 55
 
-Vervallen.
+3.1. Voor elke opvarende die deel uitmaakt van de bemanning moet een overlevingspak van de juiste maat, dat voldoet aan het bepaalde in artikel 33, aan boord zijn.
 
 ### Artikel 56
 
@@ -3102,27 +2136,27 @@ Vervallen.
 
 ### Artikel 57
 
-Vervallen.
+2. Iedere oefening "schip verlaten" moet ten minste omvatten:
 
 ### Artikel 58
 
-Vervallen.
+4. Alle oefeningen "schip verlaten" en alle oefeningen in het blussen van brand moeten worden uitgevoerd alsof er daadwerkelijk sprake is van een noodsituatie.
 
 ### Artikel 59
 
-Vervallen.
+6. De data waarop appels en oefeningen worden gehouden, de bijzonderheden van oefeningen "schip verlaten" en van oefeningen in het blussen van brand moeten worden opgetekend in het scheepsjournaal.
 
 ### Artikel 60
 
-Vervallen.
+8. Voor de bemanningen van schepen die onder de Nederlandse kust opereren en die vanwege het bedrijf een jaarlijkse herhaling van de veiligheidscursus volgen, kunnen de oefeningen die in het eerste tot en met het zesde lid zijn genoemd achterwege blijven.
 
-### Artikel 61
+### Artikel 58. Groepsreddingmiddelen en hulpverleningsboten aan boord van passagiersschepen, zijnde een klein vaartuig
 
-Vervallen.
+1. Groepsreddingmiddelen
 
 ### Artikel 62
 
-Vervallen.
+1.2. Voor passagiersschepen geldt het volgende:
 
 ### Hoofdstuk V. Vaargebieden en seizoenen (zie afbeelding 5)
 
@@ -3130,17 +2164,17 @@ Vervallen.
 
 1. In de verschillende vaargebieden mag niet dieper worden afgeladen dan tot de bij het betreffende vaargebied behorende uitwateringslijn als genoemd in artikel 5 van deze bijlage.
 
-2. Een haven liggende op de grens tussen twee vaargebieden wordt beschouwd te liggen binnen het vaargebied vanwaar het schip komt of waarheen het vertrekt.
+1. Groepsreddingmiddelen
 
 ### Artikel 64. Noordelijke Periodieke Wintervaargebieden
 
-De volgende gebieden worden als Noordelijke Periodieke Wintervaargebieden beschouwd.
+1.2. Voor kleine vaartuigen, geen passagiersschepen zijnde, geldt het volgende:
 
-1. **In de Noord-Atlantische Oceaan**
+2. Hulpverleningsboten
 
-2. **In de Noordelijke Stille Oceaan**
+Vrachtschepen moeten ten minste één hulpverleningsboot aan boord hebben, die voldoet aan het bepaalde in artikel 47. Het Hoofd van de Scheepvaartinspectie kan, rekening houdend met het vrijboord en de manoeuvreerbaarheid van het schip, alsmede met de aanwezigheid van middelen om drenkelingen aan boord te halen, vaststellen dat van de hulpverleningsboot kan worden afgezien.
 
-Een gebied benoorden de lijn gevormd door de parallel van 50° Noorderbreedte van de oostkust van de USSR tot de westkust van Sachalin, vandaar de westkust van Sachalin tot het zuidelijke uiteinde van Kurilion, vandaar de loxodroom naar Wakkaina (Hokkaido), vandaar de oostkust en de zuidkust van Hokkaido tot 145° Oosterlengte, vandaar de meridiaan van 145° Oosterlengte tot 35° Noorderbreedte, vandaar de parallel van 35° Noorderbreedte tot 150° Westerlengte en vandaar de loxodroom naar het meest zuidelijke punt van Dall Island (Alaska).
+Indien het aantal bemanningsleden minder is dan vier, behoeft eveneens geen hulpverleningsboot aan boord aanwezig te zijn.
 
 Seizoenindeling:
 
@@ -3154,33 +2188,33 @@ Het volgende gebied wordt als Zuidelijk Periodiek Wintervaargebied beschouwd:
 
 Een gebied bezuiden de lijn gevormd door de loxodroom van de oostkust van Zuid-Amerika bij Kaap Tres Puntas naar een punt op 34° Zuiderbreedte en 50° Westerlengte, vandaar de parallel van 34° Zuiderbreedte tot 17° Oosterlengte, vandaar de loxodroom naar een punt op 35°10" Zuiderbreedte en 20° Oosterlengte, vandaar de loxodroom naar een punt op 34° Zuiderbreedte en 28° Oosterlengte, vandaar de loxodroom naar een punt op 35°30" Zuiderbreedte en 118° Oosterlengte, vandaar de loxodroom naar Kaap Grim aan de noordwestkust van Tasmanië, vandaar de noordkust en de oostkust van Tasmanië tot het meest zuidelijke punt van Bruny Island, vandaar de loxodroom naar Black Rock Point op Stewart Island, vandaar de loxodroom naar een punt op 47° Zuiderbreedte en 170° Oosterlengte, vandaar de loxodroom naar een punt op 33° Zuiderbreedte en 170° Westerlengte en van daar de parallel van 33° Zuiderbreedte tot het punt op 33° Zuiderbreedte en 79° Westerlengte, vandaar de loxodroom naar het punt op 41° Zuiderbreedte en 75° Westerlengte, vandaar de loxodroom naar de Punta Corona vuurtoren op Chiloe Island op 41°47' Zuiderbreedte en 73°53' Westerlengte, vandaar langs de noord-, oost- en zuidkust van Chiloe Island naar het punt op 43°20' Zuiderbreedte en 74°20' Westerlengte, en vandaar de meridiaan van 74°20' Westerlengte tot de parallel van 45°45' Zuiderbreedte met inbegrip van de binnenzone van de Chiloe vaargeulen van de meridiaan van 74°20' Westerlengte naar de westkust van Zuid-Amerika.
 
-Seizoenindeling:
+De medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingerichte kasten of ruimten bewaard.
 
 **Winter:** 16 april tot en met 15 oktober;
 
-**Zomer:** 16 oktober tot en met 15 april.
+1. De geneesmiddelen en antidota worden gescheiden van de verplegingsartikelen bewaard. Indien zij samen in één kist worden bewaard, zijn zij door een tussenschot gescheiden.
 
-Valparaiso wordt geacht op de grens van het zomergebied en het zuidelijk periodiek wintergebied te liggen.
+2. De morfinepreparaten die deel uitmaken van de medische uitrusting, worden bewaard in een afgesloten ruimte, waarvan de sleutel berust bij de kapitein of bij de schepeling aan wie de kapitein het gebruik en het beheer van de medische uitrusting heeft overgedragen.
 
-### Artikel 66. Periodieke Wintervaargebieden voor schepen met een lengte van 100 meter en kleiner
+### Artikel 3. Nummering, afschrift lijst, benamingen
 
-De volgende gebieden worden als periodieke wintervaargebieden beschouwd voor schepen met een lengte van 100 meter en kleiner. Voor schepen met een lengte van meer dan 100 meter worden deze gebieden echter als zomervaargebieden beschouwd.
+1. Op de verpakking van de bestanddelen van de medische uitrusting is, voor zover mogelijk, het nummer aangebracht dat is vermeld in de ministeriële regeling, bedoeld in artikel 93, eerste lid. Tevens is een afschrift van de controlelijsten bevestigd in de in artikel 1 van deze Bijlage bedoelde kisten, kasten of ruimten.
 
-1. **In de Atlantische Oceaan**
+2. Op de etiketten, aanwezig op de verpakking der middelen, zijn ten behoeve van in het buitenland te raadplegen deskundigen, zo veel mogelijk naast de Nederlandse, de Latijnse benamingen vermeld, overeenkomstig de nomenclatuur van de Wereld Gezondheids Organisatie.
 
 Een gebied begrensd door de meridiaan van 68°30" Westerlengte van de kust van de Verenigde Staten tot 40° Noorderbreedte, vandaar de loxodroom naar een punt op 36° Noorderbreedte en 73° Westerlengte, vandaar de parallel van 36° Noorderbreedte tot de kust van de Verenigde Staten en vandaar de oostkust van de Verenigde Staten.
 
-Seizoenindeling:
+De geneesmiddelen en de antidota worden geleverd door een apotheker, hetgeen moet blijken uit een merk op de verpakking.
 
 **Winter:** 1 november tot en met 31 maart;
 
-**Zomer:** 1 april tot en met 31 oktober.
+1. Indien er nog andere geneesmiddelen, verplegingsartikelen en antidota aan boord aanwezig zijn dan die zijn voorgeschreven bij de ministeriële regeling, bedoeld in artikel 93, eerste lid, van het Schepenbesluit 1965, zijn ten aanzien van deze aanvullende middelen de in deze Bijlage genoemde voorschriften van toepassing.
 
-2. **Oostzee**
+2. Indien er sprake is van een medisch spoedgeval waarvoor de noodzakelijke geneesmiddelen, verplegingsartikelen of antidota aan boord niet aanwezig zijn, is de kapitein verplicht zorg te dragen dat deze zo spoedig mogelijk ter beschikking worden gesteld.
 
 De Oostzee begrensd door de parallel van Kaap Skagen in het Skagerrak.
 
-Seizoenindeling:
+Ten behoeve van het gebruik van de medische uitrusting is aan boord een bijgehouden exemplaar van een bij ministeriële regeling aan te wijzen geneeskundig handboek.
 
 **Winter:** 1 november tot en met 31 maart;
 
@@ -9547,5 +8581,327 @@ Vervallen
 ## Bijlage XXIV
 
 Vervallen.
+
+Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publikatieblad van de Nederlandse Antillen** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
+
+### Artikel 72. Deuren en (toegangs-)luiken op kleine vaartuigen
+
+De deuren en toegangsluiken moeten dicht tegen weer en wind kunnen worden afgesloten. De afsluitinrichtingen van de deuren en luiken moeten blijvend aan het schot of aan de deuren of de luiken zelf zijn bevestigd en deze moeten zodanig zijn uitgevoerd, dat de deuren en de luiken, met uitzondering van vluchtluiken, aan beide zijden kunnen worden geopend en gesloten.
+
+### Artikel 73. Openingen boven de voortstuwingsruimte op kleine vaartuigen
+
+### Artikel 74. Diverse openingen in het vrijboorddek en in het dek van een bovenbouw of dekhuis op kleine vaartuigen
+
+### Artikel 75. Luchtkokers op kleine vaartuigen
+
+### Artikel 76. Luchtpijpen op kleine vaartuigen
+
+### Artikel 77. Spuipijpen, inlaat- en uitlaatopeningen op kleine vaartuigen
+
+Indien een terugslagklep geplaatst is, behoeft de wanddikte niet groter te zijn dan aangegeven in kolom I.
+
+waarin l: de lengte van de verschansing aan één zijde in meters is, welke niet groter behoeft te worden genomen dan 0,7 L.
+
+### Artikel 80. Bescherming van bemanning en passagiers op kleine vaartuigen
+
+Indien de bedrijfsomstandigheden dit noodzakelijk maken kan het Hoofd van de Scheepvaartinspectie een geringere hoogte toestaan of kan hij toestaan dat met geheel of gedeeltelijk wegneembaar relingwerk, bestaande uit scepters, staaldraad en spanschroeven of dergelijke, wordt volstaan.
+
+5. Op elk schip moet deklading ter plaatse van openingen die toegang geven tot de verblijven, voortstuwingsruimten en andere ruimten die in verband met de werkzaamheden aan boord moeten worden gebruikt, zodanig zijn gestuwd, dat deze openingen behoorlijk kunnen worden bereikt, geopend en afgesloten tegen het binnendringen van water.
+
+### Artikel 81. Typen kleine vaartuigen
+
+1. Kleine vaartuigen worden onderscheiden in twee typen, namelijk schepen van het type A en schepen van het type B.
+
+2. Een schip van het type A is een schip dat:
+
+**Schepen van het type B**
+
+**Schepen zonder eigen voortstuwing**
+
+### Artikel 82. Grondslag voor het aan kleine vaartuigen toe te kennen zomervrijboord
+
+### Artikel 83. Toeslag op het basisvrijboord voor kleine vaartuigen
+
+Voor een schip van het type B, waarvan de in rekening te brengen lengte van de bovenbouw kleiner is dan 35 percent van de scheepslengte, moet het basisvrijboord volgens artikel 82 van deze bijlage worden vermeerderd met:
+
+L: de scheepslengte in meters en
+
+### Artikel 84. Correctie voor de volheidscoëfficiënt van kleine vaartuigen
+
+### Artikel 85. Kleinst toelaatbare boeghoogte op een klein vaartuig ter plaatse van de voorloodlijn
+
+10 ∗ Bf ∗ L mm, waarin
+
+2. Het vrijboord, berekend overeenkomstig het bepaalde in het eerste lid van dit artikel, echter zonder de correctie voor de plaats van de deklijn zoals bepaald in artikel 32 van deze bijlage, mag in zout water niet minder zijn dan 50 mm.
+
+## Bijlage II. Constructie - waterdichte indeling en stabiliteit, inrichting van de machinekamer en elektrische installaties
+
+### Hoofdstuk D. Elektrische installaties
+
+### Artikel 43a. Elektrische noodkrachtbron aan boord van vrachtschepen van minder dan 500 ton
+
+### Hoofdstuk F. Bepalingen voor kleine vaartuigen
+
+### Artikel 55. Toepasselijkheid
+
+### Artikel 56. Stabiliteit van passagiersschepen, een klein vaartuig zijnde, in beschadigde toestand
+
+5. Asymmetrisch vollopen moet zoveel mogelijk worden beperkt als in overeenstemming is te brengen met een doelmatige indeling. Wanneer het noodzakelijk is om grote hellingshoeken te corrigeren, moeten middelen daartoe automatisch werken. De overvloei-inrichtingen, evenals de maximum slagzij die voor het overvloeien ontstaat, moeten ten genoegen van het Hoofd van de Scheepvaartinspectie zijn. Indien de overvloei-inrichtingen nodig zijn, mag de tijd die het overvloeien in beslag neemt niet meer zijn dan 15 minuten.
+
+### Artikel 57. Waterdichte schotten aan boord van passagiersschepen, een klein vaartuig zijnde
+
+### Artikel 58. Aanvaringsschotten aan boord van kleine vaartuigen, geen passagiersschip zijnde
+
+### Artikel 59. Stuurinrichting en roer op kleine vaartuigen
+
+2.1. Alle onderdelen van de stuurinrichting, het roer en de roerkoning moeten van een doelmatige en betrouwbare constructie zijn zulks ten genoegen van het Hoofd van de Scheepvaartinspectie. Bijzondere aandacht moet worden geschonken aan de geschiktheid en deugdelijkheid van ieder belangrijk onderdeel dat niet in duplo is uitgevoerd. Bij deze onderdelen moet op passende wijze gebruik worden gemaakt van antifrictielagers zoals kogellagers, rollagers of lagerbussen, welke voortdurend worden gesmeerd of voorzien moeten zijn van aansluitingen om deze te smeren.
+
+3.3. De hoofdstuurinrichting moet door een krachtwerktuig aangedreven worden indien dit nodig is om aan het bepaalde in lid 3.2 te kunnen voldoen en in ieder geval wanneer door het Hoofd van de Scheepvaartinspectie een roerkoning met een grotere middellijn dan 120 mm ter plaatse van de helmstok wordt voorgeschreven, waarbij een eventuele versterking in verband met het varen in ijs buiten beschouwing wordt gelaten.
+
+6.1. Indien de hoofdstuurinrichting met twee of meer identieke krachtwerktuigen is uitgevoerd behoeft een hulpstuurinrichting niet te zijn aangebracht, mits de hoofdstuurinrichting zodanig is uitgevoerd dat bij een enkelvoudige fout in het pijpleidingensysteem of aan een van de krachtwerktuigen, het defecte gedeelte zodanig buiten bedrijf kan worden gesteld dat de goede werking van de stuurinrichting kan worden gehandhaafd of snel kan worden hersteld.
+
+10.1. Deugdelijke voorzieningen moeten zijn aangebracht om de reinheid van de hydraulische vloeistof voor hydraulisch gedreven stuurinrichtingen te waarborgen, daarbij rekening houdend met het type en het ontwerp van het hydraulische systeem.
+
+Deze voorzieningen moeten tevens handleiders en roosters of andere slipvrije oppervlakken omvatten teneinde aanvaardbare werkomstandigheden te waarborgen in het geval van olielekkage.
+
+### Artikel 60. Aanvullende voorzieningen voor elektrische en elektrisch-hydraulische stuurinrichtingen opkleine vaartuigen
+
+1. Aan boord van elk schip moet het in bedrijf zijn van de motoren van elektrische en elektrisch-hydraulische stuurinrichtingen op de brug worden aangegeven.
+
+### Artikel 61. Bediening hoofd- en hulpwerktuigen, noodzakelijk voor de voortstuwing op kleine vaartuigen
+
+### Artikel 62. Communicatie tussen brug en machinekamer op kleine vaartuigen
+
+1.4. Indien transformatoren een essentieel onderdeel vormen van de volgens dit lid vereiste stroomvoorziening, moeten deze zodanig zijn ingericht dat dezelfde continuïteit van de stroomvoorziening als genoemd in dit lid verzekerd is.
+
+### Artikel 64. Elektrische noodkrachtbron aan boord van kleine vaartuigen
+
+### Artikel 65. Aanzetinrichtingen voor noodgeneratoraggregraten op kleine vaartuigen
+
+### Artikel 66. Voorzorgsmaatregelen tegen gevaren van elektrische oorsprong op kleine vaartuigen
+
+2.1. Hoofd- en noodschakelborden moeten zodanig zijn geplaatst en ingericht, dat zij zonder gevaar voor het aanwezige personeel gemakkelijk toegang geven tot de apparatuur en verdere uitrusting.
+
+Het Hoofd van de Scheepvaartinspectie kan bij uitzondering toestaan dat aan boord van een tankschip voor draaistroominstallaties met een lijnspanning van 3000 V of hoger het sterpunt wordt geaard, mits elke mogelijke resulterende stroom niet rechtstreeks door enige gevaarlijke ruimte kan vloeien.
+
+9.1. In alle ruimten waar brandbare gasmengsels zich zouden kunnen verzamelen, met inbegrip van die aan boord van tankschepen, in elke afgescheiden ruimte voornamelijk bestemd voor accumulatorenbatterijen, in verfhutten, opslagplaatsen voor acetyleen of soortgelijke ruimten, mogen geen elektrische inrichtingen zijn aangebracht tenzij het Hoofd van de Scheepvaartinspectie van oordeel is dat deze:
+
+9.2. In tanks en kofferdammen, alsmede voor tijdelijke verlichting van andere gevaarlijke ruimten, mag slechts gebruik worden gemaakt van een elektrische veiligheidslamp van een goedgekeurd type.
+
+### Artikel 67. Elektrotechnische voorzieningen voor werktuiglijke installaties op kleine vaartuigen
+
+### Artikel 69. Afstandbediening van voortstuwingswerktuigen vanaf de brug op kleine vaartuigen
+
+5. Op de brug moeten aanwijsinstrumenten zijn aangebracht voor:
+
+### Artikel 70. Alarminstallatie op kleine vaartuigen
+
+3.2. Een alarmtoestand moet gehandhaafd blijven totdat deze is geaccepteerd, terwijl de zichtbare aanduidingen van afzonderlijke alarmen zichtbaar moet blijven totdat de storing verholpen is, waarna het alarmsysteem automatisch moet terugkeren in de normale bedrijfstoestand.
+
+### Artikel 71. Bijzondere voorzieningen voor werktuigen, ketels en elektrische installaties op kleine vaartuigen
+
+3. **Automatisch regel- en alarmsysteem**
+
+3.3. Een alarmsysteem dat voldoet aan het bepaalde in artikel 70, moet zijn aangebracht voor alle belangrijke drukken, temperaturen, vloeistofniveaus en andere van belang zijnde parameters.
+
+3.4.2. Nabij de bedieningsplaats waar het voortstuwingswerktuig ter plaatse kan worden bediend, moeten ten minste de volgende instrumenten zijn aangebracht, welke aangeven:
+
+## Bijlage III. Lens- en ballastinrichtingen
+
+Vervallen
+
+## Bijlage IV. Bescherming tegen, opsporing en bestrijding van brand
+
+### Hoofdstuk E. Bepalingen voor kleine vaartuigen, geen tankschip zijnde
+
+### Artikel 64. Toepasselijkheid
+
+De artikelen 65 tot en met 76 zijn uitsluitend van toepassing op kleine vaartuigen, geen tankschip zijnde.
+
+### Artikel 65. Brandbluspompen, hoofdbrandblusleidingen, brandkranen en brandslangen aan boord van kleine vaartuigen
+
+2.2. Elke voorgeschreven brandbluspomp moet een capaciteit hebben van niet minder dan 80 percent van de vereiste totale capaciteit gedeeld door het minimum aantal vereiste brandbluspompen, doch in geen geval minder dan 10 m3/uur. Deze brandbluspompen moeten in staat zijn de hoofdbrandblusleiding onder de voorgeschreven voorwaarden van water te voorzien.
+
+4.2. Wanneer de in lid 4.1 genoemde opbrengst, geleverd door de aldaar genoemde pomp of pompen, wordt verwerkt door straalpijpen als omschreven in lid 8, gekoppeld aan slangen aangesloten op in elkaars nabijheid gelegen brandkranen, moet bij alle brandkranen ten minste een druk kunnen worden gehandhaafd van 0,20 N/mm2, met dien verstande dat aan boord van een klein vaartuig, niet zijnde een passagiersschip, deze druk moet kunnen worden gehandhaafd bij verwerking van de voorgeschreven opbrengst door één straalpijp als bovenbedoeld.
+
+6. **Brandblusleidingen en brandkranen**
+
+8. **Straalpijpen**
+
+### Artikel 66. Vast aangebrachte brandblusinstallatie met gas als blusstof aan boord van kleine vaartuigen
+
+3.5. Automatisch werkende brandbluseenheden zoals omschreven in lid 3.4, welke zijn aangebracht in ruimten voor machines boven uitrusting met een groot brandrisico, in aanvulling op en onafhankelijk van enige voorgeschreven, vast aangebrachte brandblusinstallatie, kunnen worden toegestaan, mits zij voldoen aan het bepaalde in de leden 3.4.3 tot en met 3.4.7, 3.4.9 en 3.4.10 alsmede aan de navolgende bepalingen:
+
+### Artikel 67. Brandblusvoorzieningen in ruimten voor machines op kleine vaartuigen
+
+3. **Brandblusinrichtingen in andere ruimten voor machines**
+
+### Artikel 68. Bijzondere voorzieningen in ruimten voor machines op kleine vaartuigen
+
+### Artikel 69. Brandweerbijl
+
+### Artikel 70. Constructie, brandwerendheid van schotten, dekken, wanden, beschietingen en plafonds
+
+2. Schotten en dekken die de scheiding vormen tussen het stuurhuis en ruimten voor accommodatie of dienstruimten moeten ten minste van klasse B-O zijn.
+
+3. Begrenzingswanden en dekken of plafonds van afzonderlijke kombuizen moeten ten minste van klasse B-O zijn.
+
+5. Op passagiersschepen moeten, onverminderd het gestelde in het eerste lid, de wanden, beschietingen en plafonds ten minste van klasse C zijn.
+
+boven de begintemperatuur uitstijgt. Indien wordt aangetoond dat de toe te passen versterkte kunststof bij aanmerkelijk hogere temperaturen dan 150° C wordt aangetast, kan van de onder b. genoemde temperatuur worden afgeweken.
+
+### Artikel 71. Voorzieningen voor ontsnapping op kleine vaartuigen
+
+### Artikel 72. Bescherming van trappen in ruimten voor accommodatie, dienstruimten en controlestations op kleine vaartuigen
+
+1. Trappen moeten zijn beschermd door schotten van klasse B-O. Indien de trap niet meer dan twee dekken bedient, kan worden volstaan met een bescherming op slechts één niveau.
+
+### Artikel 73. Deuren in brandwerende schotten en luiken in brandwerende dekken op kleine vaartuigen
+
+### Artikel 74. Ventilatiesystemen op kleine vaartuigen
+
+### Artikel 75. Beperking in het gebruik van brandbare materialen op kleine vaartuigen
+
+### Artikel 76. Brandontdekkings- en brandalarminstallaties aan boord van kleine vaartuigen
+
+## Bijlage IVa
+
+Vervallen
+
+## Bijlage V. Radio-communicatie
+
+Vervallen
+
+## Bijlage VI. INTERNATIONALE VEILIGHEIDSCODE VOOR DE SCHEEPVAART EN TER VOORKOMING VAN VERONTREINIGING (INTERNATIONAL SAFETY MANAGEMENT (ISM)-CODE)
+
+Vervallen
+
+## Bijlage VII
+
+Vervallen
+
+## Bijlage VIII
+
+Vervallen
+
+## Bijlage IX
+
+Vervallen
+
+## Bijlage X
+
+Vervallen
+
+## Bijlage XI
+
+Vervallen
+
+## Bijlage XIA. Reddingmiddelen en voorzieningen
+
+### Artikel 54. Toepasselijkheid
+
+De artikelen 55 tot en met 59 zijn uitsluitend van toepassing op kleine vaartuigen.
+
+### Artikel 55. Communicatie op kleine vaartuigen
+
+1. VHF radio-installaties
+
+Aan deze bepaling kan ook worden voldaan door toepassing van andere draagbare communicatie-apparaten die aan boord worden gebruikt, mits die apparaten voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2005-01-01&g=2005-01-01).
+
+Op of in de nabijheid van de brug moeten ten minste zes valschermsignalen aanwezig zijn, die voldoen aan het bepaalde in artikel 35.
+
+1.1. Aan boord van elk schip moeten ten minste drie reddingboeien aanwezig zijn die voldoen aan het bepaalde in artikel 31, eerste lid, en zij moeten:
+
+1.3. Op iedere reddingboei moet de naam en thuishaven van het schip waarop de boei is geplaatst, in blokletters zijn aangegeven.
+
+2.1. Voor elke opvarende moet een reddinggordel aan boord zijn die voldoet aan het bepaalde in artikel 32, eerste of tweede lid, en die is voorzien van een licht dat voldoet aan het bepaalde in artikel 32, derde lid. Bovendien moet:
+
+3. Overlevingspakken
+
+3.2. Een overlevingspak dat voldoet aan het bepaalde in artikel 33, mag worden meegeteld als reddinggordel bij de toepassing van het bepaalde in het tweede lid.
+
+### Artikel 57. Instructies voor noodgevallen aan boord van kleine vaartuigen
+
+1. Ieder bemanningslid moet ten minste eenmaal per vier maanden deelnemen aan een oefening "schip verlaten", alsmede aan een oefening in het blussen van brand.
+
+3. Iedere oefening in het blussen van brand omvat ten minste:
+
+5. Iedere oefening moet tevens worden gebruikt om instructie te geven ten aanzien van de taken van elk bemanningslid in geval van een noodsituatie. Deze instructie moet, naast de in het tweede lid genoemde onderwerpen, omvatten:
+
+7. Indien de inrichting en de afmetingen van het schip, het aantal bemanningsleden, de beschikbaarheid van het schip en bemanning het uitvoeren van oefeningen als hierboven genoemd onredelijk of onpraktisch maken, kunnen met bemanningsleden van andere soortgelijke schepen en aflosbemanningen gezamenlijk eenmaal per vier maanden de hierboven bedoelde oefeningen worden gehouden aan boord van een schip of in een daartoe ingerichte instelling aan de wal.
+
+1.1. Alle reddingvlotten die zijn voorgeschreven om het totale aantal opvarenden te ontschepen, moeten te water gelaten kunnen worden binnen een tijdbestek van 15 minuten, gerekend vanaf het tijdstip waarop het sein "schip verlaten" wordt gegeven.
+
+2. Hulpverleningsboot
+
+Passagiersschepen moeten ten minste één hulpverleningsboot aan boord hebben, die voldoet aan artikel 47. Het Hoofd van de Scheepvaartinspectie kan, rekening houdend met het vrijboord en de manoeuvreerbaarheid van het schip, alsmede met de aanwezigheid van middelen om drenkelingen aan boord te halen, vaststellen dat van de hulpverleningsboot kan worden afgezien.
+
+### Artikel 59. Groepsreddingmiddelen en hulpverleningsboten aan boord van een klein vaartuig, geen passagiersschip zijnde
+
+1.1. Alle reddingvlotten die zijn voorgeschreven om het totale aantal opvarenden te ontschepen moeten te water gelaten kunnen worden binnen een tijdsbestek van 10 minuten, gerekend vanaf het tijdstip waarop het sein "schip verlaten" wordt gegeven.
+
+## Bijlage XII
+
+Vervallen
+
+## Bijlage XIII
+
+Vervallen
+
+## Bijlage XIV
+
+Vervallen
+
+## Bijlage XV
+
+Vervallen
+
+## Bijlage XVI. Geneesmiddelen, verplegingsartikelen en antidota
+
+### Artikel 1. Bewaren van de medische uitrusting
+
+### Artikel 2. Gescheiden bewaren van geneesmiddelen en antidota, van verplegingsartikelen
+
+### Artikel 4. Levering van geneesmiddelen en antidota
+
+### Artikel 5. Aanvullende geneesmiddelen, verplegingsartikelen en antidota
+
+### Artikel 6. Geneeskundig handboek
+
+## Bijlage XVII. Vervoer van verpakte of gestorte gevaarlijke stoffen
+
+Vervallen
+
+## Bijlage XVIII
+
+Vervallen
+
+## Bijlage XIX. Vervoer van lading
+
+Vervallen
+
+## Bijlage XX. Vervoer van dieren
+
+Vervallen
+
+## Bijlage XXI. Reglement betreffende de verkrijging van het getuigschrift als geïntegreerd scheepsgezel
+
+Vervallen
+
+## Bijlage XXII. Reglement betreffende de verkrijging van het diploma als sloepsgast
+
+Vervallen
+
+## Bijlage XXIIA. Bemanningseisen voor tankschepen
+
+Vervallen
+
+## Bijlage XXIII. Reglement houdende de verkrijging van geneeskundige verklaringen betreffende het gezichtsorgaan en het gehoororgaan
+
+Vervallen
+
+## Bijlage XXIV
+
+Vervallen
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** en het **Publikatieblad van de Nederlandse Antillen** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
