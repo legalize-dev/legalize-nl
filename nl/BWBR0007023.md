@@ -4,7 +4,7 @@ identifier: "BWBR0007023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-10-17"
-last_updated: "2001-10-24"
+last_updated: "2004-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007023"
 soort: "ministeriele-regeling"
@@ -44,17 +44,19 @@ Besluit:
 
 ##### Artikel 1
 
-Ten aanzien van eet- en drinkwaren die in kantines van instellingen of in restaurants voor directe consumptie door de eindverbruiker voorhanden worden gehouden, wordt vrijstelling verleend van [artikel 15, eerste lid, onder b, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=15), voor zover het de temperatuur betreft waarbij de daar bedoelde eet- of drinkwaren ten hoogste in voorraad mogen worden gehouden, onder de navolgende voorwaarden:
+Ten aanzien van eet- en drinkwaren die in kantines van instellingen of in restaurants voor directe consumptie door de eindverbruiker voorhanden wordt gehouden, wordt vrijstelling verleend van [artikel 15, eerste lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=15), voor zover het de temperatuur betreft waarbij de daar bedoelde eet- of drinkwaren ten hoogste in voorraad mogen worden gehouden, onder de volgende voorschriften:
 
-- a. de desbetreffende waar wordt gedurende een eenmalige periode van ten hoogste twee uur aangeboden voor directe consumptie aan de eindverbruiker; en;
+- a. de desbetreffende waar wordt gedurende een eenmalige periode van ten hoogste twee uur aangeboden voor directe consumptie door de eindgebruiker;
 
-- b. de exploitant van de desbetreffende gelegenheid neemt ter zake een daartoe opgestelde procesbeschrijving in acht:
+- b. voor zover het een voorverpakte eet- of drinkwaar betreft, wordt de desbetreffende waar voorafgaand aan de onder a bedoelde periode van ten hoogste twee uur van een onuitwisbaar en als zodanig herkenbaar merkteken voorzien;
 
-- 1º. waarin ten minste is aangegeven op welke wijze de met het toezicht en de opsporing belaste ambtenaren achteraf kunnen vaststellen dat steeds voorwaarde a in acht is genomen; en
+- c. de exploitant van de desbetreffende gelegenheid neemt ter zake een daartoe opgestelde procesbeschrijving in acht:
 
-- 2º. die voldoet aan de bijlage;
+- 1°. waarin ten minste is aangegeven op welke wijze de met het toezicht of de opsporing belaste ambtenaren achteraf kunnen vaststellen dat steeds het van toepassing zijnde voorschrift, bedoeld onder a of b, in acht is genomen; en
 
-- c. de registratielijst, bedoeld in de bijlage, wordt door de onder b bedoelde exploitant gedurende ten minste één jaar bewaard in de onderneming en desgevraagd terstond ter beschikking gesteld van de met het toezicht en de opsporing belaste ambtenaar.
+- 2°. die voldoet aan de bijlage; en
+
+- d. de registratielijst, bedoeld in de bijlage, wordt door de onder c bedoelde exploitant gedurende ten minste één jaar bewaard in de onderneming en desgevraagd terstond ter beschikking gesteld van de met het toezicht of de opsporing belaste ambtenaar.
 
 ##### Artikel 2
 
@@ -68,9 +70,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2001-10-24&g=2001-10-24), 2°.
+Deze bijlage behoort bij [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2004-10-17&g=2004-10-17), 2°.
 
-In de procesbeschrijving, bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2001-10-24&g=2001-10-24), zijn de navolgende voorschriften vastgelegd:
+In de procesbeschrijving, bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2004-10-17&g=2004-10-17), zijn de navolgende voorschriften vastgelegd:
 
 - 1. Voor iedere eet- of drinkwaar waarop de procesbeschrijving betrekking heeft (verder te noemen: geborgde eet- of drinkwaar) wordt een registratielijst opgesteld, waarin de volgende gegevens worden vermeld: Deze registratielijst is tijdens de ongekoelde presentatie aanwezig in de directe nabijheid van de plaats waar de desbetreffende geborgde eet- of drinkwaar wordt aangeboden aan de eindverbruiker.
 
@@ -88,7 +90,7 @@ In de procesbeschrijving, bedoeld in [artikel 1, onder b](https://wetten.overhei
 
 - 1º. de waar is tijdens de ongekoelde presentatie ongeschikt geworden voor consumptie; of
 
-- 2º. de periode van twee uur, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2001-10-24&g=2001-10-24), is verstreken.
+- 2º. de periode van twee uur, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2004-10-17&g=2004-10-17), is verstreken.
 
 - 2. Bij iedere geborgde eet- of drinkwaar wordt tijdens de ongekoelde presentatie vermeld:
 
@@ -100,4 +102,4 @@ In de procesbeschrijving, bedoeld in [artikel 1, onder b](https://wetten.overhei
 
 - a. de waar tijdens de ongekoelde presentatie ongeschikt is geworden voor consumptie; of
 
-- b. de periode van ten hoogste twee uur, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2001-10-24&g=2001-10-24), verstreken is.
+- b. de periode van ten hoogste twee uur, bedoeld in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007023&artikel=1&z=2004-10-17&g=2004-10-17), verstreken is.
