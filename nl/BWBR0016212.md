@@ -79,11 +79,3 @@ De besluiten van 22 december 1840, nr. 44, en 14 december 1893, nr. 17, worden i
 Dit besluit treedt in werking met ingang van 1 januari 2004.
 
 Onze Minister-President, Minister van Algemene Zaken, is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a
-
-1. Ten aanzien van de ambtenaren van het Kabinet van de Koning gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
-
-2. Op verzoek van het Kabinet van de Koning kunnen in de collectieve arbeidsovereenkomst, bedoeld in het eerste lid, andere arbeidsvoorwaarden voor de ambtenaren van het Kabinet van de Koning worden opgenomen.
-
-Onze Minister-President, Minister van Algemene Zaken, is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
