@@ -4,7 +4,7 @@ identifier: "BWBR0008454"
 country: "nl"
 rank: "wet"
 publication_date: "2004-02-13"
-last_updated: "1997-07-01"
+last_updated: "2004-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008454"
 soort: "wet"
@@ -100,11 +100,11 @@ Eventuele naheffingsaanslagen terzake van omzetbelasting, opgelegd aan Koninklij
 
 ##### ARTIKEL X
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag van de doeltreffendheid en doelmatigheid van het functioneren van de Dienst omroepbijdragen.
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag van de doeltreffendheid en doelmatigheid van het functioneren van de Dienst omroepbijdragen.
 
 ##### ARTIKEL XI
 
-1. [Artikel I, onderdelen A, C, D, G en O](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=I&z=1997-07-01&g=1997-07-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=II&z=1997-07-01&g=1997-07-01) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. [Artikel I, onderdelen A, C, D, G en O](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=I&z=2004-02-13&g=2004-02-13), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008454&artikel=II&z=2004-02-13&g=2004-02-13) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
