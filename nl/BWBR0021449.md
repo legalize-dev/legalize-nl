@@ -74,19 +74,3 @@ Geen
 – Schaderegeling
 
 Geen
-
-– Schaderegeling
-
-Geen
-
-Geen
-
-Geen
-
-Geen
-
-Geen
-
-### Aard van de richtlijn
-
-### Basisdelict
