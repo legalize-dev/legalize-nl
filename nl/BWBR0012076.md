@@ -86,11 +86,3 @@ Deze regeling treedt in werking met ingang van de datum waarop de [Wet financier
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling uitzettingen en derivaten decentrale overheden.
-
-##### Artikel 2a
-
-1. Openbare lichamen gaan geen leningen aan met het enkele doel de aangetrokken gelden tegen een hoger rendement uit te zetten.
-
-2. Openbare lichamen zetten tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering uitsluitend uit bij de financiële onderneming waar deze leningen zijn aangegaan, onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05).
-
-3. Indien een openbaar lichaam een nettingovereenkomst heeft afgesloten met een financiële onderneming met betrekking tot het uitzetten van tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering als bedoeld in het tweede lid, is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05), niet van toepassing.
