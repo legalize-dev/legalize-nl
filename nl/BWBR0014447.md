@@ -4,7 +4,7 @@ identifier: "BWBR0014447"
 country: "nl"
 rank: "wet"
 publication_date: "2004-01-01"
-last_updated: "2002-12-14"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014447"
 soort: "wet"
@@ -50,11 +50,11 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 ##### Artikel 2
 
-1. In afwijking van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2002-12-14), vrijgesteld van inkomstenbelasting en loonbelasting.
+1. In afwijking van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de Wet op de loonbelasting 1964 zijn inkomstenbestanddelen als bedoeld in het tweede lid die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, gedurende de twee kalenderjaren na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), vrijgesteld van inkomstenbelasting en loonbelasting.
 
 2. De in het eerste lid bedoelde inkomstenbestanddelen zijn inkomstenbestanddelen
 
-- a. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2002-12-14), van toepassing is;
+- a. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), van toepassing is;
 
 - b. die een periodiek karakter dragen, en
 
@@ -62,7 +62,7 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 ##### Artikel 3
 
-1. In afwijking van de Wet op de loonbelasting 1964 en de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2002-12-14), ten hoogste 25% van het bedrag van die inkomstenbestanddelen.
+1. In afwijking van de Wet op de loonbelasting 1964 en de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) bedraagt de in Nederland verschuldigde loonbelasting en inkomstenbelasting over inkomstenbestanddelen als bedoeld in het tweede lid, die worden genoten door een natuurlijke persoon die sinds 5 juni 2001 onafgebroken inwoner van België is, vanaf het derde kalenderjaar tot en met het zevende kalenderjaar na de inwerkingtreding van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), ten hoogste 25% van het bedrag van die inkomstenbestanddelen.
 
 2. Het eerste lid is slechts van toepassing op inkomstenbestanddelen:
 
@@ -70,12 +70,24 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 
 - b. waarop op 5 juni 2001 reeds aanspraak bestond, en
 
-- c. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2002-12-14), van toepassing is.
+- c. waarop artikel 18, paragraaf 2, van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014447&artikel=1&z=2002-12-14&g=2003-01-01), van toepassing is.
 
 3. Voor de toepassing van het eerste lid worden de aldaar bedoelde inkomstenbestanddelen geacht zoveel mogelijk te zijn belast tegen de hoogste tariefschijf die toepassing heeft gevonden.
 
 ##### Artikel 4
 
 Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+1. Artikel 27, paragraaf 1 en 4, van het in artikel 1 bedoelde Verdrag zijn van overeenkomstige toepassing op natuurlijke personen die inwoner zijn van Nederland en uit België beloningen verkrijgen die ingevolge artikel 19, paragraaf 1, ter heffing aan België zijn toegewezen.
+
+2. Artikel 27, paragraaf 2 tot en met 4, van het in artikel 1 bedoelde Verdrag zijn van overeenkomstige toepassing op natuurlijke personen die inwoner zijn van Nederland en die beloningen verkrijgen die voor het tijdstip waarop de bepalingen van dat Verdrag van toepassing zijn, ingevolge de bepalingen van
+
+a. artikel 15, paragraaf 3, subparagraaf 1°, van de op 19 oktober 1970 te Brussel getekende Overeenkomst tussen de regering van het Koninkrijk België en de regering van het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting op het gebied van belastingen naar het inkomen en naar het vermogen en tot het vaststellen van enige andere regelen verband houdende met de belastingheffing, met Protocol, ter heffing aan Nederland waren toegewezen en die ingevolge de bepalingen van artikel 19, paragraaf 1, van het in artikel 1 bedoelde Verdrag ter heffing aan België zijn toegewezen;
+
+b. artikel 15, paragraaf 3, subparagraaf 2°, van de in onderdeel a bedoelde Overeenkomst ter heffing aan Nederland waren toegewezen en die ingevolge de bepalingen van artikel 15 van het in artikel 1 bedoelde Verdrag ter heffing aan België zijn toegewezen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
