@@ -134,17 +134,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 Dit besluit wordt aangehaald als: Beleidsregels incident management Rijkswaterstaat.
 
 Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.
-
-##### Artikel 5a. Uitgestelde en versnelde berging
-
-1. In dit artikel wordt verstaan onder:
-
-- a. uitgestelde berging: eerste berging waarbij de vrachtauto eerst van de rijbaan wordt verwijderd;
-
-- b. versnelde berging: eerste berging waarbij geen maatregelen ter voorkoming van schade aan de vrachtauto genomen worden.
-
-2. Uitgestelde of versnelde berging vindt plaats wanneer naar het oordeel van Rijkswaterstaat eerste berging de verkeersdoorstroming aanzienlijk zal kunnen belemmeren.
-
-3. Schade aan lading, vrachtauto, of wegmeubilair veroorzaakt door uitgestelde of versnelde berging komt voor rekening van Rijkswaterstaat mits deze schade naar het oordeel van de deskundige onvermijdelijk is.
-
-Dit besluit zal met de toelichting worden geplaatst in de Staatscourant.
