@@ -4,7 +4,7 @@ identifier: "BWBR0016943"
 country: "nl"
 rank: "wet"
 publication_date: "2004-11-01"
-last_updated: "2004-02-13"
+last_updated: "2004-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016943"
 soort: "wet"
@@ -38,11 +38,11 @@ entry_into_force: "2004-08-20"
 
 ##### Artikel I
 
-Wijzigt de Wet studiefinanciering 2000.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel III
 
