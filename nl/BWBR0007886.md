@@ -4,7 +4,7 @@ identifier: "BWBR0007886"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2001-01-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007886"
 soort: "wet"
@@ -61,7 +61,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 1. In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister subsidies in de vorm van een garanties verlenen in verband met door een kredietinstelling aan ondernemers te verstrekken financiële middelen.
 
-2. Een kredietinstelling, bedoeld in het eerste lid, dient te beschikken over een vergunning als bedoeld in [artikel 2 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=2) en overigens te voldoen aan nader door Onze Minister te stellen regels.
+2. Een kredietinstelling, bedoeld in het eerste lid, dient te beschikken over een vergunning als bedoeld in [artikel 6 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) en overigens te voldoen aan nader door Onze Minister te stellen regels.
 
 ##### Artikel 3
 
@@ -89,7 +89,7 @@ Onze Minister kan aan een naamloze of besloten vennootschap waarvan de Staat in 
 
 ##### Artikel 6
 
-Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2001-01-01&g=2001-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2001-01-01&g=2001-01-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
+Onze Minister stelt jaarlijks in overeenstemming met Onze Minister van Economische Zaken de bedragen vast tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=2&z=2002-07-01&g=2002-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3&z=2002-07-01&g=2002-07-01) en maakt deze bedragen bekend in de **Nederlandsche Staatscourant**.
 
 ##### Artikel 7
 
