@@ -4,7 +4,7 @@ identifier: "BWBR0013642"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2004-01-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013642"
 soort: "wet"
@@ -84,11 +84,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De Stichting verstrekt de bij haar berustende gegevens van de betrokken donor:
 
-- a. aan de huisarts van degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting, op zijn verzoek, voor zover het betreft de medische gegevens, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01);
+- a. aan de huisarts van degene die is verwekt door en ten gevolge van kunstmatige donorbevruchting, op zijn verzoek, voor zover het betreft de medische gegevens, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01);
 
-- b. aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van twaalf jaren heeft bereikt, op zijn verzoek, voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01);
+- b. aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van twaalf jaren heeft bereikt, op zijn verzoek, voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01);
 
-- c. aan de ouders of een van hen van het kind dat door en tengevolge van kunstmatige donorbevruchting is verwekt, op hun verzoek, indien het kind de leeftijd van twaalf jaren nog niet heeft bereikt en voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01).
+- c. aan de ouders of een van hen van het kind dat door en tengevolge van kunstmatige donorbevruchting is verwekt, op hun verzoek, indien het kind de leeftijd van twaalf jaren nog niet heeft bereikt en voor zover het betreft de gegevens, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01).
 
 2. De persoonsidentificerende gegevens van de donor worden aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van zestien jaren heeft bereikt, op zijn verzoek verstrekt, nadat de donor daarmee schriftelijk heeft ingestemd.
 
@@ -104,19 +104,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Bij algemene maatregel van bestuur wordt bepaald welke bescheiden een verzoek tot verstrekking van gegevens van de donor moeten vergezellen.
 
-#### § 3. De Stichting donorgegevens kunstmatige inseminatie
+#### § 3. De Stichting donorgegevens kunstmatige bevruchting
 
 ##### Artikel 4
 
 1. De Stichting heeft tot taak:
 
-- a. de gegevens, bedoeld in artikel 2, te bewaren en te beheren en deze op verzoek te verstrekken overeenkomstig de bepalingen bij of krachtens de wet gesteld; de Stichting stelt ter uitvoering van deze taak bij reglement regels, onverminderd het bepaalde in artikel 19 van de Wet persoonsregistraties;
+- a. de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), te bewaren en te beheren en deze op verzoek te verstrekken overeenkomstig de bepalingen bij of krachtens de wet gesteld; de Stichting stelt ter uitvoering van deze taak bij reglement regels;
 
-- b. bij reglement te bepalen op welke wijze en op welk moment de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01), aan de Stichting worden verstrekt en op welke wijze deze gegevens door de Stichting aan een persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01) worden verstrekt;
+- b. bij reglement te bepalen op welke wijze en op welk moment de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), aan de Stichting worden verstrekt en op welke wijze deze gegevens door de Stichting aan een persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01) worden verstrekt;
 
 - c. voorlichting te verschaffen, voor zover de onder a en b omschreven taken van de Stichting dat vereisen, alsmede zorg te dragen voor de begeleiding bij de verstrekking van deze gegevens.
 
-2. Degenen op wie de verplichtingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01), rusten, zijn verplicht de reglementen van de Stichting na te leven.
+2. Degenen op wie de verplichtingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), rusten, zijn verplicht de reglementen van de Stichting na te leven.
 
 ##### Artikel 5
 
@@ -124,7 +124,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De voorzitter en de leden van het bestuur worden door Onze Ministers benoemd en ontslagen. Drie van de leden worden benoemd uit degenen die kunstmatige bevruchting beroepsmatig toepassen of daarbij nauw betrokken zijn. Ten minste één van deze drie leden is tevens deskundig op psychosociaal terrein. Van de overige drie leden is er één jurist, één ethicus en één deskundig op paedagogisch terrein.
 
-3. De voorzitter en de leden van het bestuur ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten, een en ander overeenkomstig bij algemene maatregel van bestuur te stellen regels.
+3. De voorzitter en de leden van het bestuur ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten, een en ander overeenkomstig bij ministeriële regeling te stellen regels.
 
 ##### Artikel 6
 
@@ -134,7 +134,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-Degenen op wie een verplichting als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01) rust alsmede de meerderjarige verzoekers die een verzoek tot verstrekking van andere dan de medische gegevens, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01), indienen, zijn aan de Stichting per groep van gegevens die op één donor betrekking hebben onderscheidenlijk per verzoek tot verstrekking een bij reglement vast te stellen bedrag verschuldigd. De hoogte van deze bedragen is afgestemd op ten hoogste de kosten verbonden aan de uitoefening van de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-01-01&g=2004-01-01) aan de Stichting opgedragen taken.
+Degenen op wie een verplichting als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01) rust alsmede de meerderjarige verzoekers die een verzoek tot verstrekking van andere dan de medische gegevens, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), indienen, zijn aan de Stichting per groep van gegevens die op één donor betrekking hebben onderscheidenlijk per verzoek tot verstrekking een bij reglement vast te stellen bedrag verschuldigd. De hoogte van deze bedragen is afgestemd op ten hoogste de kosten verbonden aan de uitoefening van de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-05-01&g=2004-05-01) aan de Stichting opgedragen taken.
 
 ##### Artikel 8
 
@@ -154,7 +154,7 @@ De gemeentebesturen verschaffen de Stichting kosteloos alle inlichtingen en vers
 
 ##### Artikel 11
 
-1. Met een hechtenis van ten hoogste zes maanden of een boete van de derde categorie wordt gestraft degene die handelt in strijd met een verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01).
+1. Met een hechtenis van ten hoogste zes maanden of een boete van de derde categorie wordt gestraft degene die handelt in strijd met een verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01).
 
 2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 
@@ -162,21 +162,21 @@ De gemeentebesturen verschaffen de Stichting kosteloos alle inlichtingen en vers
 
 ##### Artikel 12
 
-1. De op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-01-01&g=2004-01-01) in werking treedt bij natuurlijke personen of rechtspersonen aanwezige gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01), worden op dat tijdstip aan de Stichting overdragen.
+1. De op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-05-01&g=2004-05-01) in werking treedt bij natuurlijke personen of rechtspersonen aanwezige gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), worden op dat tijdstip aan de Stichting overdragen.
 
 2. Tot de volledige inwerkingtreding van de wet kan de donor die voorafgaande aan de volledige inwerkingtreding daarvan zaadcellen of eicellen heeft afgestaan, tegenover de Stichting op schrift verklaren dat de op hem betrekking hebbende gegevens inzake geslachtsnaam, voornamen, geboortedatum en woonplaats niet worden verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders, indien een verzoek daartoe wordt gedaan.
 
 3. De in het tweede lid bedoelde gegevens omtrent een donor die een verklaring als bedoeld in het tweede lid niet heeft afgelegd worden niet verstrekt aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting of aan diens ouders dan met instemming van de donor.
 
-4. Medische gegevens worden verstrekt overeenkomstig [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01). Gegevens omtrent fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en omtrent persoonlijke kenmerken, worden verstrekt overeenkomstig de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-01-01&g=2004-01-01), en [3, eerste lid, onder b en c, en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01).
+4. Medische gegevens worden verstrekt overeenkomstig [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01). Gegevens omtrent fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en omtrent persoonlijke kenmerken, worden verstrekt overeenkomstig de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=2&z=2004-05-01&g=2004-05-01), en [3, eerste lid, onder b en c, en zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01).
 
 ##### Artikel 13
 
-Uiterlijk op de dag voor die waarop [artikel 4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-01-01&g=2004-01-01) in werking treedt, verlijden Onze Ministers een akte voor een notaris, waarbij de Stichting wordt opgericht.
+Uiterlijk op de dag voor die waarop [artikel 4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=3&artikel=4&z=2004-05-01&g=2004-05-01) in werking treedt, verlijden Onze Ministers een akte voor een notaris, waarbij de Stichting wordt opgericht.
 
 ##### Artikel 14
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan luiden met uitzondering van [artikel 3, tweede lid, tweede volzin, en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-01-01&g=2004-01-01), welke bepalingen in werking treden met ingang van de eerste kalendermaand na verloop van twee jaren na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan luiden met uitzondering van [artikel 3, tweede lid, tweede volzin, en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), welke bepalingen in werking treden met ingang van de eerste kalendermaand na verloop van twee jaren na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel 15
 
