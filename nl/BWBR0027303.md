@@ -4,7 +4,7 @@ identifier: "BWBR0027303"
 country: "nl"
 rank: "wet"
 publication_date: "2011-11-19"
-last_updated: "2001-08-15"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027303"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
 ##### Artikel II
 
