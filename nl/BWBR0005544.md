@@ -138,23 +138,3 @@ Aan ten minste 33% van de uitgegeven loten wordt, overeenkomstig het bepaalde in
 1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
 
 2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
-
-##### Artikel 20
-
-Jaarlijks stelt de Minister van Financiën het afdrachtpercentage voor de Staatsloterij vast, welk percentage ten minste 15% van de nominale waarde van de verkochte loten bedraagt.
-
-##### Artikel 21
-
-1. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting. Alvorens de Minister van Financiën tot benoeming overgaat, voert hij daarover overleg met de minister.
-
-2. De raad van commissarissen van de stichting benoemt het bestuur. Deze benoeming behoeft de voorafgaande goedkeuring van de Minister van Financiën. Alvorens de Minister van Financiën zijn goedkeuring verleent, voert hij overleg over de voorgenomen benoeming met de minister.
-
-##### Artikel 22
-
-De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen twee weken na vaststelling, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
-
-##### Artikel 23
-
-1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
-
-2. Deze beschikking kan worden aangehaald als: Beschikking Staatsloterij.
