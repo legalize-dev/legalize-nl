@@ -346,39 +346,3 @@ Onze Minister zendt binnen 3 jaar na de inwerkingtreding van deze wet, en vervol
 Deze wet wordt aangehaald als: Embryowet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-De commissie, bedoeld in [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=16), zendt aan de centrale commissie afschrift van elk ingevolge deze wet door haar gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, bij de centrale commissie melding van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=5&artikel=22&z=2013-09-27&g=2013-09-27), bedoelde mededeling.
-
-#### Paragraaf 2. Regels betreffende de zeggenschap over geslachtscellen en embryo's
-
-#### Paragraaf 3. Regels betreffende wetenschappelijk onderzoek met embryo's buiten het menselijk lichaam waarmee geen zwangerschap tot stand wordt gebracht
-
-#### Paragraaf 4. Regels betreffende wetenschappelijk onderzoek met embryo's buiten het menselijk lichaam waarmee wordt beoogd een zwangerschap tot stand te brengen
-
-#### Paragraaf 5. Regels betreffende wetenschappelijk onderzoek met foetussen
-
-#### Paragraaf 6. Verboden handelingen met geslachtscellen en embryo's
-
-#### Paragraaf 7. Strafbepalingen
-
-#### Paragraaf 8. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-Geslachtscellen of embryo’s die ten behoeve van eigen geneeskundig gebruik beschikbaar zijn of die ingevolge deze wet ter beschikking zijn gesteld, maar niet meer zullen worden gebruikt voor eigen geneeskundig gebruik of het doel dan wel de doelen waarvoor ze ter beschikking zijn gesteld, mogen worden gebruikt ten behoeve van kwaliteitsbewaking die direct verband houdt met de diagnostische processen of behandelprocessen in de fertiliteitszorg, voorafgaande aan de vernietiging, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013797&paragraaf=2&artikel=7&z=2020-10-01&g=2020-10-01).
-
-#### Paragraaf 3. Regels betreffende wetenschappelijk onderzoek met embryo's buiten het menselijk lichaam waarmee geen zwangerschap tot stand wordt gebracht
-
-#### Paragraaf 4. Regels betreffende wetenschappelijk onderzoek met embryo's buiten het menselijk lichaam waarmee wordt beoogd een zwangerschap tot stand te brengen
-
-#### Paragraaf 5. Regels betreffende wetenschappelijk onderzoek met foetussen
-
-#### Paragraaf 6. Verboden handelingen met geslachtscellen en embryo's
-
-#### Paragraaf 8. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
