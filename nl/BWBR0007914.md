@@ -4,7 +4,7 @@ identifier: "BWBR0007914"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2001-09-05"
+last_updated: "2004-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007914"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het eerste lid is, voor wat de uitzondering van de toepasselijkheid in het gemeentelijk ingedeelde deel van de territoriale zee betreft, niet van toepassing ten aanzien van:
 
-- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2001-09-05&g=2001-09-05);
+- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2004-10-29&g=2004-10-29);
 
 - b. een aanloopgebied.
 
@@ -80,17 +80,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. een sleepboot;
 
-- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2001-09-05&g=2001-09-05);
+- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2004-10-29&g=2004-10-29);
 
-- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2001-09-05&g=2001-09-05) omschreven aanloopgebieden;
+- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2004-10-29&g=2004-10-29) omschreven aanloopgebieden;
 
 - f. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;
 
-- g. een schip dat bepaalde schadelijke of gevaarlijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd:
+- g. [richtlijn nr. 2002/59/EG](32002L0059): [richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van [Richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG L 208);
 
-- –. een schadelijke stof als bedoeld in [artikel 1, onderdeel **e**, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1); of
+- h. een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van [richtlijn nr. 2002/59/EG](32002L0059);
 
-- –. een gevaarlijke stof als bedoeld in [artikel 130 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=130).
+- i. routeringssysteem: een systeem bestaande uit een of meer routes of routeringsmaatregelen, gericht op het verminderen van gevaar voor scheepsongevallen, met inbegrip van verkeersscheidingsstelsels, vaarwegen voor tweerichtingsverkeer, aanbevolen koerslijnen, gebieden die dienen te worden gemeden, zones voor kustverkeer, rotondes, voorzorgsgebieden en diepwaterroutes.
 
 #### Verantwoordelijkheid
 
@@ -116,19 +116,45 @@ Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden al
 
 ##### Artikel 5
 
-1. Een schip dat op weg is naar een in de Nederlandse territoriale zee gelegen ankerplaats of laad- of losinrichting, of naar een binnengaats gelegen Nederlandse scheepvaartweg, meldt zich bij het binnenvaren van een aanloopgebied en voor vertrek van een plaats gelegen binnen een dergelijk gebied.
+1. Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) van 300 of meer, vaart geen in Nederland gelegen haven, ankerplaats, of een in de Nederlandse territoriale zee gelegen laad- of losinrichting binnen, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.
 
-2. De in het eerste lid bedoelde melding geschiedt op het voor het desbetreffende aanloopgebied voorgeschreven marifoonkanaal.
+2. De in het eerste lid bedoelde melding geschiedt:
 
-3. Bij de in het eerste lid bedoelde melding, worden gegevens verstrekt met betrekking tot de positie van het schip, het tijdstip van aankomst of vertrek daarvan, alsmede gegevens met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.
+- a. door een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert:
 
-4. Een schip als bedoeld in het eerste lid, luistert in een aanloopgebied uit, en neemt, indien nodig, op het voorgeschreven marifoonkanaal aan ter plaatse gevoerde communicatie deel.
+- 1°. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was, bij die afvaart, of
 
-5. De in het eerste lid bedoelde meldplicht is niet van toepassing op een klein schip, behoudens wanneer het een klein schip betreft dat bepaalde schadelijke of gevaarlijke stoffen vervoert.
+- 2°. indien de bestemming bij de afvaart uit de haven van bevrachting nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is;
 
-6. De in het vierde lid bedoelde uitluister- en communicatieplicht is niet van toepassing op een klein schip, behoudens wanneer het een klein schip betreft dat bepaalde schadelijke of gevaarlijke stoffen vervoert, of wanneer het een klein schip betreft dat is uitgerust met een marifoon.
+- b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) van 300 of meer dat geen bepaalde gevaarlijke of schadelijke stoffen vervoert:
 
-7. Bij ministeriële regeling worden regels gesteld ten aanzien van de wijze van melden en ten aanzien van de te verstrekken gegevens met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.
+- 1°. ten minste vierentwintig uur voor aankomst, of
+
+- 2°. indien de bestemming bij de afvaart uit de vorige haven bekend was en de reisduur minder dan vierentwintig uur bedraagt, uiterlijk op het tijdstip waarop het schip de vorige haven verlaat, of
+
+- 3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is.
+
+3. Onverminderd het eerste lid, vaart een schip als bedoeld in dat lid, de Nederlandse territoriale zee niet binnen, tenzij de kapitein de bij ministeriële regeling vastgestelde gegevens heeft gemeld aan de bevoegde autoriteit van het aanloopgebied waarnaar het schip op weg is, op het voor het aanloopgebied voorgeschreven marifoonkanaal.
+
+4. De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip van een in de Nederlandse territoriale zee gelegen ankerplaats of laad- of losinrichting met een andere bestemming dan een in Nederland gelegen haven, ankerplaats, laad- of losinrichting of wachtplaats, aan de bevoegde autoriteit van het desbetreffende aanloopgebied de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.
+
+5. Een schip als bedoeld in het eerste lid, luistert in een aanloopgebied uit en neemt, indien nodig, op het voorgeschreven marifoonkanaal aan ter plaatse gevoerde communicatie deel.
+
+6. Het vijfde lid is van overeenkomstige toepassing op ieder schip dat is uitgerust met een marifoon.
+
+7. De bevoegde autoriteit kan ontheffing verlenen van de in het eerste en vierde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste lid, onderdelen a en b, van richtlijn nr. 2002/59/EG.
+
+8. De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het zevende lid.
+
+9. Het eerste en vierde lid zijn niet van toepassing op:
+
+- a. een oorlogsschip, een ander marineschip of een ander schip in eigendom of in dienst van de overheid dat voor niet-commerciële doeleinden wordt gebruikt;
+
+- b. een historisch schip of een replica daarvan, met inbegrip van een schip dat ontworpen is om traditionele vaardigheden en zeemanschap aan te moedigen en te bevorderen, dat als levend cultuurmonument volgens de traditionele beginselen van zeemanschap en techniek wordt bestuurd;
+
+- c. een vissersschip;
+
+- d. een pleziervaartuig met een lengte van minder dan 45 meter.
 
 #### Mededelingsplicht
 
@@ -146,7 +172,7 @@ Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld d
 
 - e. voorwerpen of stoffen heeft verloren of dreigt te verliezen, die het scheepvaartverkeer in gevaar kunnen brengen.
 
-#### Bijzonder transport
+#### Mededelingsplicht
 
 ##### Artikel 7. Bijzonder transport en werkzaamheden
 
@@ -156,31 +182,31 @@ Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld d
 
 3. Het verlenen of onthouden van toestemming als bedoeld in het tweede lid geschiedt in overeenstemming met de bevoegde autoriteit van het aanloopgebied waarin het bijzonder transport dan wel het schip door middel waarvan de werkzaamheden worden verricht vaart.
 
-#### Voor anker gaan
+#### Bijzonder transport
 
 ##### Artikel 8
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Bescherming van verkeerstekens
+#### Voor anker gaan
 
 ##### Artikel 9
 
 Een schip meert niet af aan een verkeersteken.
 
-#### Radarreflector
+#### Bescherming van verkeerstekens
 
 ##### Artikel 10
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Verkeersaanwijzingen
+#### Radarreflector
 
 ##### Artikel 11
 
 Verkeersaanwijzingen worden opgevolgd.
 
-#### Evenementen
+#### Verkeersaanwijzingen
 
 ##### Artikel 12
 
@@ -192,7 +218,7 @@ Verkeersaanwijzingen worden opgevolgd.
 
 4. Het verlenen of onthouden van toestemming als bedoeld in het derde lid geschiedt in overeenstemming met de bevoegde autoriteit van het aanloopgebied waarin de in het eerste lid bedoelde activiteit plaatsvindt.
 
-#### Toestemming laden, lossen en bunkeren
+#### Evenementen
 
 ##### Artikel 13
 
@@ -204,15 +230,7 @@ Een schip wordt niet geladen, gelost, of gebunkerd, tenzij daartoe door de bevoe
 
 ##### Artikel 14
 
-1. Een schip dat bepaalde schadelijke of gevaarlijke stoffen vervoert, vaart geen in Nederland gelegen haven, ankerplaats, of een in de Nederlandse territoriale zee gelegen laad- of losinrichting binnen, tenzij de kapitein, de exploitant of de agent,
-
-- –. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was, bij die afvaart, of
-
-- –. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was en de reis minder dan 24 uur zou gaan duren, minimaal 24 uur tevoren, of
-
-- –. indien de bestemming bij de afvaart uit de haven van bevrachting niet bekend was, zodra deze bekend was, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee, aan de bevoegde autoriteit van de eerste haven of ankerplaats van bestemming in Nederland, of aan de bevoegde autoriteit van de eerste in de Nederlandse territoriale zee gelegen laad- of losinrichting waarnaar het schip op weg is, de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading of de uit te voeren reis.
-
-2. Het eerste lid is niet van toepassing op een oorlogsschip of een ander schip van de overheid dat voor niet-commerciële doeleinden wordt gebruikt.
+Vervallen
 
 #### Paragraaf 4. Verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -220,7 +238,7 @@ Een schip wordt niet geladen, gelost, of gebunkerd, tenzij daartoe door de bevoe
 
 ##### Artikel 15
 
-De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2001-09-05&g=2001-09-05) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
+De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2004-10-29&g=2004-10-29) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
 
 #### Opvolgen van en rekening houden met verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -258,15 +276,13 @@ De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 18
 
-1. De kapitein van een schip dat bepaalde schadelijke of gevaarlijke stoffen vervoert, stelt een controlelijst van een door Onze Minister vast te stellen model ter beschikking van de bevoegde autoriteit, wanneer deze daarom verzoekt.
-
-2. Het eerste lid is niet van toepassing op een oorlogsschip of een ander schip van de overheid dat voor niet-commerciële doeleinden wordt gebruikt.
+Vervallen
 
 #### Aan toestemming te verbinden voorschriften
 
 ##### Artikel 19
 
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2001-09-05&g=2001-09-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2001-09-05&g=2001-09-05), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2001-09-05&g=2001-09-05), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2001-09-05&g=2001-09-05), kunnen voorschriften worden verbonden.
+Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), kunnen voorschriften worden verbonden.
 
 #### Paragraaf 6. Strafbepaling
 
@@ -274,7 +290,7 @@ Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https:
 
 ##### Artikel 20
 
-Overtreding van de bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=4&z=2001-09-05&g=2001-09-05), [5, eerste, tweede tot en met vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5&z=2001-09-05&g=2001-09-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=6&z=2001-09-05&g=2001-09-05), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2001-09-05&g=2001-09-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2001-09-05&g=2001-09-05), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=9&z=2001-09-05&g=2001-09-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=10&z=2001-09-05&g=2001-09-05), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=11&z=2001-09-05&g=2001-09-05), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2001-09-05&g=2001-09-05), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2001-09-05&g=2001-09-05), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=3&artikel=14&z=2001-09-05&g=2001-09-05), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=4&artikel=16&z=2001-09-05&g=2001-09-05), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=17&z=2001-09-05&g=2001-09-05), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=18&z=2001-09-05&g=2001-09-05), gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
+Overtreding van de bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=4&z=2004-10-29&g=2004-10-29), [5, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5&z=2004-10-29&g=2004-10-29), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5a&z=2004-10-29&g=2004-10-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=6&z=2004-10-29&g=2004-10-29), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=9&z=2004-10-29&g=2004-10-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=10&z=2004-10-29&g=2004-10-29), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=11&z=2004-10-29&g=2004-10-29), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=4&artikel=16&z=2004-10-29&g=2004-10-29), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=17&z=2004-10-29&g=2004-10-29), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=18&z=2004-10-29&g=2004-10-29), gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
 
 #### Paragraaf 7. Wijzigingen in andere besluiten
 
@@ -338,13 +354,13 @@ Het Besluit informatieverstrekking schepen met bepaalde stoffen wordt ingetrokke
 
 ##### Artikel 30
 
-Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2001-09-05&g=2001-09-05), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
+Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2004-10-29&g=2004-10-29), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
 
 #### Inwerkingtreding
 
 ##### Artikel 31
 
-De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2001-09-05&g=2001-09-05), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2001-09-05&g=2001-09-05), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2001-09-05&g=2001-09-05), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2001-09-05&g=2001-09-05), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2001-09-05&g=2001-09-05), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2001-09-05&g=2001-09-05), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2001-09-05&g=2001-09-05) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2004-10-29&g=2004-10-29), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2004-10-29&g=2004-10-29), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2004-10-29&g=2004-10-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2004-10-29&g=2004-10-29), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2004-10-29&g=2004-10-29), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2004-10-29&g=2004-10-29) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
 #### Citeertitel
 
@@ -352,7 +368,7 @@ De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&p
 
 Dit besluit wordt aangehaald als: Scheepvaartreglement territoriale zee.
 
-## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2001-09-05&g=2001-09-05), van het Scheepvaartreglement territoriale zee
+## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2004-10-29&g=2004-10-29), van het Scheepvaartreglement territoriale zee
 
 Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgende aanloopgebieden onderscheiden:
 
@@ -360,7 +376,7 @@ Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgen
 
 - b. het aanloopgebied Brandaris, gevormd door: het zeegat van Terschelling vanaf de ton W. Drawa, de lichtboei SM, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23'.38 NB, 05°11'.38 OL;
 
-- c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2001-09-05&g=2001-09-05), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
+- c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
 
 - d. het aanloopgebied **IJmuiden**, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°28'.00 NB, 04°32'.18 OL (referentiepunt), naar positie 52°16'.36 NB, 04°26'.18 OL, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39'.36. NB, 04°37'.00 OL;
 
@@ -368,9 +384,9 @@ Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgen
 
 - f. het aanloopgebied **Rotterdam**, gevormd door: het zeegebied in de aanloop van de Maasmond, ten noorden begrensd door de lijn vanuit de positie 100 m oostelijk van het havenlicht op de kop van de Noorderdam (51°59'.7 NB, 04°03'.0 OL) via de Indusbank-N boei (52°03'.0 NB, 04°03'.8 OL) naar de positie 52°10'.0 NB, 04°05'.3 OL en vandaar in de richting 280°, ten westen door de territoriale grens en ten zuiden door een lijn vanaf de positie 51°57'.7 NB, 04°00'.5 OL via lichteiland Goeree (51°55'.6 NB, 03°40'.2 OL) naar de territoriale grens;
 
-- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2001-09-05&g=2001-09-05), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
+- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2004-10-29&g=2004-10-29), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
 
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2001-09-05&g=2001-09-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2001-09-05&g=2001-09-05), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2001-09-05&g=2001-09-05), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2001-09-05&g=2001-09-05), kunnen voorschriften worden verbonden.
+Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2004-10-29&g=2004-10-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2004-10-29&g=2004-10-29), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2004-10-29&g=2004-10-29), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2004-10-29&g=2004-10-29), kunnen voorschriften worden verbonden.
 
 ## Bijlage 2. Verkeerstekens
 
@@ -501,3 +517,35 @@ De term omvat, naast de natuurlijke gevaren zoals zandbanken en rotsformaties, o
 7.2.5 De dubbele markering kan worden verwijderd indien de betrokken autoriteit van mening is dat de gegevens betreffende het nieuwe gevaar op voldoende wijze zijn bekendgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2a
+
+Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) gaat voor de toepassing van dit reglement gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+#### Verantwoordelijkheid
+
+#### Voorzorgsmaatregelen
+
+#### Paragraaf 2. Ordening van het scheepvaartverkeer
+
+#### Meld-, uitluister- en communicatieplicht
+
+##### Artikel 5a. Routerings- en meldingssystemen
+
+1. Bij ministeriële regeling kunnen voor in die regeling vermelde categorieën schepen in de Nederlandse territoriale zee, overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie, routeringssystemen en meldingssystemen worden vastgesteld.
+
+2. Degene die een schip voert maakt gebruik van de op grond van het eerste lid vastgestelde routeringssystemen en voldoet daarbij aan de voorschriften van de op grond van dat lid vastgestelde meldingssystemen.
+
+#### Toestemming laden, lossen en bunkeren
+
+#### Paragraaf 3. Tijdige melding als voorwaarde voor binnenvaren haven, ankerplaats, of laad- of losinrichting
+
+#### Paragraaf 4. Verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
+
+#### Vaststellen van verkeerstekens
+
+#### Opvolgen van en rekening houden met verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
+
+#### Paragraaf 5. Bijzondere bepalingen
+
+#### Regels voor een diepstekend schip
