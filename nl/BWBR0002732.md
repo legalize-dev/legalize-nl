@@ -137,7 +137,3 @@ Dit besluit kan worden aangehaald als: Reglement voor de ondernemingskamer.
 Het treedt gelijktijdig met artikel 72 van de wet op de Rechterlijke Organisatie en het Beleid der Justitie in werking.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaast, en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
-
-##### Artikel 2
-
-Dit besluit berust op [artikel 66, vijfde en zesde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66).
