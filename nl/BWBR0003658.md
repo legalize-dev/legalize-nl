@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2003-11-20"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van specerijen en de in het [Warenwetbesluit Visserijproducten, slakken en kikkerbillen](https://wetten.overheid.nl/jci1.3:c:BWBR0007216) bedoelde waren, voor zover de producten uit beide productgroepen niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-11-20&g=2003-11-20) zijn genoemd, mag niet hoger zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van specerijen en de in het [Warenwetbesluit Visserijproducten, slakken en kikkerbillen](https://wetten.overheid.nl/jci1.3:c:BWBR0007216) bedoelde waren, voor zover de producten uit beide productgroepen niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-01&g=2004-04-01) zijn genoemd, mag niet hoger zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-11-20&g=2003-11-20) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-01&g=2004-04-01) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-11-20&g=2003-11-20), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-01&g=2004-04-01), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2003-11-20&g=2003-11-20) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2003-11-20&g=2003-11-20) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2004-04-01&g=2004-04-01) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2004-04-01&g=2004-04-01) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -560,15 +560,15 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| acibenzolar-S- | geen | acibenzolar-S- | hazelnoten | 0,1* |   | 1 |
-| methyl |   | methyl | bananen | 0,1 |   | 1 |
-|   |   |   | mango's | 0,5 |   | 1 |
-|   |   |   | tomaten | 1 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,05* |   | 1 |
-|   |   |   | thee | 0,05* |   | 1 |
-|   |   |   | hop | 0,05* |   | 1 |
-|   |   |   | granen | 0,05* |   | 1 |
-|   |   |   | overige | 0,02* |   | 1 |
+| acibenzolar-S- | geen | acibenzolar-S- | hazelnoten | 0,1* |   |   |
+| methyl |   | methyl | bananen | 0,1 |   |   |
+|   |   |   | mango's | 0,5 |   |   |
+|   |   |   | tomaten | 1 |   |   |
+|   |   |   | oliehoudende zaden | 0,05* |   |   |
+|   |   |   | thee | 0,05* |   |   |
+|   |   |   | hop | 0,05* |   |   |
+|   |   |   | granen | 0,05* |   |   |
+|   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | acifluorfen | geen | acifluorfen | alle | 0,01* |   |   |
 |   |   |   |   |   |   |   |
@@ -610,6 +610,8 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | alloxydim-natrium | geen | alloxydim-natrium | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
+| ametryn | geen | ametryn | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | amidosulfuron | 3-(6-hydroxy-4-methoxy-pyrimidine-2-yl)-1-(N-methyl-N-methylsulfonyl-aminosulfonyl)-ureum | amidosulfuron | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | 2-aminobutaan | geen | 2-aminobutaan | alle | 0,1* |   |   |
@@ -624,11 +626,11 @@ Door vernummering vervallen.
 |   |   |   | melk |   | 19) |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| amitrol | geen | amitrol | olijven | 0,05 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,02* |   | 1 |
-|   |   |   | thee | 0,02* |   | 1 |
-|   |   |   | hop | 0,02* |   | 1 |
-|   |   |   | overige | 0,01* |   | 1 |
+| amitrol | geen | amitrol | olijven | 0,05 |   |   |
+|   |   |   | oliehoudende zaden | 0,02* |   |   |
+|   |   |   | thee | 0,02* |   |   |
+|   |   |   | hop | 0,02* |   |   |
+|   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
 | anilazin | geen | anilazin | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -693,24 +695,24 @@ Door vernummering vervallen.
 |   |   |   | noten | 0,1* |   |   |
 |   |   |   | tafel- en wijndruiven | 2 |   |   |
 |   |   |   | aardbeien (andere dan bosaardbeien) | 2 |   |   |
-|   |   |   | bramen | 3 |   | 3 |
-|   |   |   | frambozen | 3 |   | 3 |
+|   |   |   | bramen | 3 |   |   |
+|   |   |   | frambozen | 3 |   |   |
 |   |   |   | bananen | 2 |   |   |
 |   |   |   | wortelen | 0,2 |   |   |
-|   |   |   | knolselderij | 0,3 |   | 3 |
+|   |   |   | knolselderij | 0,3 |   |   |
 |   |   |   | mierikswortel | 0,2 |   |   |
 |   |   |   | pastmaken | 0,2 |   |   |
 |   |   |   | wortelpeterselie | 0,2 |   |   |
 |   |   |   | schorseneren | 0,2 |   |   |
-|   |   |   | bosuien | 2 |   | 3 |
+|   |   |   | bosuien | 2 |   |   |
 |   |   |   | tomaten | 2 |   |   |
 |   |   |   | pepers (paprika's) | 2 |   |   |
 |   |   |   | aubergines | 2 |   |   |
 |   |   |   | Cucurbitaceae (met eetbare schil) | 1 |   |   |
 |   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,5 |   |   |
-|   |   |   | bloemkool | 0,5 |   | 3 |
-|   |   |   | sluitkool | 0,3 |   | 3 |
-|   |   |   | koolrabi | 0,2 |   | 3 |
+|   |   |   | bloemkool | 0,5 |   |   |
+|   |   |   | sluitkool | 0,3 |   |   |
+|   |   |   | koolrabi | 0,2 |   |   |
 |   |   |   | sla en dergelijke | 3 |   |   |
 |   |   |   | witlof | 0,2 |   |   |
 |   |   |   | kruiden | 3 |   |   |
@@ -723,7 +725,7 @@ Door vernummering vervallen.
 |   |   |   | prei | 0,1 |   |   |
 |   |   |   | peulvruchten (droog) | 0,1 |   |   |
 |   |   |   | kool- en raapzaad | 0,5 |   |   |
-|   |   |   | sojabonen | 0,5 |   | 3 |
+|   |   |   | sojabonen | 0,5 |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 20 |   |   |
 |   |   |   | tarwe, rogge, gerst, haver en triticale | 0,3 |   |   |
@@ -831,13 +833,15 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | bromadiolon | geen | bromadiolon | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| bromide, anorganisch,incl. bromide afkomstig van organisch gebondenbroom | bromide-ion | bromide-ion | aardbeien | 20 |   |   |
+| bromide, anorganisch, afkomstig van organisch gebonden broom | bromide-ion | bromide-ion | hazelnoten | 50 |   | 1 |
+|   |   |   | aardbeien | 20 |   |   |
 |   |   |   | wortel- en knolgewassen | 50 |   |   |
 |   |   |   | koolrabi | 50 |   |   |
 |   |   |   | sla en dergelijke (behalve roodlof) | 50 |   |   |
 |   |   |   | spinazie, postelein, raapstelen | 50 |   |   |
 |   |   |   | waterkers | 50 |   |   |
 |   |   |   | overige groenten | 30 |   |   |
+|   |   |   | pinda's | 50 |   | 1 |
 |   |   |   | thee | 50 |   |   |
 |   |   |   | granen | 50 |   |   |
 |   |   |   | volkorenmeel | 50 |   |   |
@@ -893,7 +897,7 @@ Door vernummering vervallen.
 | captan | geen | captan | pitvruchten | 3 | 21) som van captan en folpet. |   |
 |   |   |   | steenvruchten | 2 | 21) som van captan en folpet. |   |
 |   |   |   | wijndruiven | 10 | 21) som van captan en folpet. | 7 |
-|   |   |   | overige besvruchten en | 3 | 21) som van captan en folpet. | 7 |
+|   |   |   | overige besvruchten en | 3 | 21) som van captan en folpet. |   |
 |   |   |   | klein fruit |   |   |   |
 |   |   |   | tomaten | 3 | 21) som van captan en folpet. |   |
 |   |   |   | sla | 2 | 21) som van captan en folpet. |   |
@@ -985,11 +989,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | cartap | nereïstoxine | nereïstoxine | zie nereïstoxine |   |   |   |
 |   |   |   |   |   |   |   |
+| carvon | geen | carvon | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | chinomethionaat | geen | chinomethionaat | fruit | 0,3 |   |   |
 |   |   |   | groenten | 0,3 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| chlofentezin | bestanddelen | som van | citrusvruchten | 0,5 |   | 2 |
+| chlofentezin | bestanddelen | som van | citrusvruchten | 0,5 |   |   |
 |   | die het deel | alle bestanddelen | noten | 0,05* |   |   |
 |   | 2-chloorbenzoyl | die het deel | pitvruchten | 0,5 |   |   |
 |   | bevatten | 2-chloorbenzoyl | pruimen | 0,2 |   |   |
@@ -1102,7 +1108,7 @@ Door vernummering vervallen.
 | chloormefos | geen | chloormefos | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | chloormequat | geen | chloormequat | noten | 0,1* |   |   |
-|   |   |   | peren | 0,3 | 14) Het maximumgehalte voor peren is een tijdelijk gehalte tot en met 31 juli 2006 op grond van eerder gebruik, waarvoor momenteel geen toelating meer bestaat. | 3 |
+|   |   |   | peren | 0,3 | 14) Het maximumgehalte voor peren is een tijdelijk gehalte tot en met 31 juli 2006 op grond van eerder gebruik, waarvoor momenteel geen toelating meer bestaat. |   |
 |   |   |   | olijven | 0,1* |   |   |
 |   |   |   | gekweekte paddestoelen | 10 |   |   |
 |   |   |   | oliehoudende zaden | 0,1* |   |   |
@@ -1231,15 +1237,17 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| cinidon-ethyl | geen | som van | oliehoudende zaden | 0 1* |   | 1 |
-|   |   | cinidon-ethyl | thee | 0,1* |   | 1 |
-|   |   | en | hop | 0,1* |   | 1 |
-|   |   | E-isomeer van | grane | 0,1* |   | 1 |
-|   |   | cinidon-ethyl | overige | 0,05* |   | 1 |
+| cinidon-ethyl | geen | som van | oliehoudende zaden | 0 1* |   |   |
+|   |   | cinidon-ethyl | thee | 0,1* |   |   |
+|   |   | en | hop | 0,1* |   |   |
+|   |   | E-isomeer van | grane | 0,1* |   |   |
+|   |   | cinidon-ethyl | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cinmethylin | geen | cinmethylin | alle | 0,1* |   |   |
 |   |   |   |   |   |   |   |
 | clodinafop-propargyl | clodinafop | clodinafop-propargyl | alle | 0,1* |   |   |
+|   |   |   |   |   |   |   |
+| clomazon | geen | clomazon | alle | 0,01* |   | 7 |
 |   |   |   |   |   |   |   |
 | clopyralid | geen | clopyralid | melk | 0,01* |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -1278,13 +1286,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | cycloaat | geen | cycloaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| cyclanilide | geen | cyclanilide | katoenzaad | 0,2 |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | vlees | 0,01* |   | 1 |
-|   |   |   | melk | 0,01* |   | 1 |
-|   |   |   | eieren | 0,01* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| cyclanilide | geen | cyclanilide | katoenzaad | 0,2 |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | vlees | 0,01* |   |   |
+|   |   |   | melk | 0,01* |   |   |
+|   |   |   | eieren | 0,01* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cycloxydim | geen | cycloxydim | uien | 1 |   |   |
 |   |   |   | tuinbonen | 2 |   |   |
@@ -1314,10 +1322,10 @@ Door vernummering vervallen.
 |   |   |   | vlees | 0,05 | 2) |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| cyhalofop-butyl | geen | som van | oliehoudende zaden | 0,05* |   | 1 |
-|   |   | cyhalofop-butyl | thee | 0,05* |   | 1 |
-|   |   | en vrije zuren van | hop | 0,05* |   | 1 |
-|   |   | cyhalofop-butyl | overige | 0,02* |   | 1 |
+| cyhalofop-butyl | geen | som van | oliehoudende zaden | 0,05* |   |   |
+|   |   | cyhalofop-butyl | thee | 0,05* |   |   |
+|   |   | en vrije zuren van | hop | 0,05* |   |   |
+|   |   | cyhalofop-butyl | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | cyhalothrin | geen | cyhalothrin, inclusief andere mengsels van samenstellende isomeren (som van de isomeren) | vlees (uitgezonderd pluimveevlees) | 0,5 | 2) |   |
 |   |   |   | pluimveevlees | 0,02* |   |   |
@@ -1325,9 +1333,9 @@ Door vernummering vervallen.
 |   |   |   | eieren | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | lambda-cyhalothrin | geen | lambda-cyhalothrin | grapefruits | 0,1 |   |   |
-|   |   |   | citroenen | 0,2 |   | 3 |
-|   |   |   | lemmetjes | 0,2 |   | 3 |
-|   |   |   | mandarijnen, clementines en soortgelijke kruisingen van citrusvruchten | 0,2 |   | 3 |
+|   |   |   | citroenen | 0,2 |   |   |
+|   |   |   | lemmetjes | 0,2 |   |   |
+|   |   |   | mandarijnen, clementines en soortgelijke kruisingen van citrusvruchten | 0,2 |   |   |
 |   |   |   | sinaasappelen | 0,1 |   |   |
 |   |   |   | pomelo's | 0,1 |   |   |
 |   |   |   | noten | 0,05* |   |   |
@@ -1342,17 +1350,17 @@ Door vernummering vervallen.
 |   |   |   | wilde besvruchten en wilde vruchten | 0,2 |   |   |
 |   |   |   | knolselderij | 0,1 |   |   |
 |   |   |   | radijs | 0,1 |   |   |
-|   |   |   | bosuien | 0,05 |   | 3 |
+|   |   |   | bosuien | 0,05 |   |   |
 |   |   |   | tomaten | 0,1 |   |   |
 |   |   |   | pepers (paprika's) | 0,1 |   |   |
 |   |   |   | aubergines | 0,5 |   |   |
 |   |   |   | Cucurbitaceae (met eetbare schil) | 0,1 |   |   |
 |   |   |   | Cucurbitaceae (met met-eetbare schil) | 0,05 |   |   |
-|   |   |   | suikermaïs | 0,05 |   | 3 |
+|   |   |   | suikermaïs | 0,05 |   |   |
 |   |   |   | bloemkoolachtigen | 0,1 |   |   |
 |   |   |   | spruitjes | 0,05 |   |   |
 |   |   |   | sluitkool | 0,2 |   |   |
-|   |   |   | bladkoolachtigen | 1 |   | 3 |
+|   |   |   | bladkoolachtigen | 1 |   |   |
 |   |   |   | sla en dergelijke | 1 |   |   |
 |   |   |   | spinazie | 0,5 |   |   |
 |   |   |   | kruiden | 1 |   |   |
@@ -1360,7 +1368,7 @@ Door vernummering vervallen.
 |   |   |   | erwten (met peul) | 0,2 |   |   |
 |   |   |   | erwten (zonder peul) | 0,2 |   |   |
 |   |   |   | bleekselderij | 0,3 |   |   |
-|   |   |   | prei | 0,3 |   | 3 |
+|   |   |   | prei | 0,3 |   |   |
 |   |   |   | wilde paddestoelen | 0,5 |   |   |
 |   |   |   | thee | 1 |   |   |
 |   |   |   | hop | 10 |   |   |
@@ -1417,6 +1425,8 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cyproconazool | geen | cyproconazool | alle | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| cyprodinil | geen | cyprodinil | alle | 0,05* |   | 8 |
 |   |   |   |   |   |   |   |
 | cyprofram | geen | cyprofram | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -1739,17 +1749,17 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| diquat | geen | diquat-ion | bonen (droog) | 0,2 |   | 1 |
-|   |   |   | erwten (droog) | 0,2 |   | 1 |
-|   |   |   | lijnzaad | 5 |   | 1 |
-|   |   |   | kool- en raapzaad | 0,5 |   | 1 |
-|   |   |   | overige oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | gerst | 10 |   | 1 |
-|   |   |   | maïs en gierst | 1 |   | 1 |
-|   |   |   | haver | 2 |   | 1 |
-|   |   |   | overige | 0,05* |   | 4 |
+| diquat | geen | diquat-ion | bonen (droog) | 0,2 |   |   |
+|   |   |   | erwten (droog) | 0,2 |   |   |
+|   |   |   | lijnzaad | 5 |   |   |
+|   |   |   | kool- en raapzaad | 0,5 |   |   |
+|   |   |   | overige oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | gerst | 10 |   |   |
+|   |   |   | maïs en gierst | 1 |   |   |
+|   |   |   | haver | 2 |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | disulfoton | disulfoton-sulfoxide en disulfoton-sulfon | som van disulfoton en disulfoton-sulfoxide en disulfoton-sulfon, uitgedrukt als disulfoton | thee | 0,05* |   |   |
 |   |   |   | hop | 0,05* |   |   |
@@ -1780,12 +1790,12 @@ Door vernummering vervallen.
 |   |   |   | olijven | 5 |   |   |
 |   |   |   | wortelen | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
 |   |   |   | knolselderij | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
-|   |   |   | radijs | 2 | 13) waarvan maximaal 2 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. | 3 |
+|   |   |   | radijs | 2 | 13) waarvan maximaal 2 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
 |   |   |   | schorseneren | 2 | 10) waarvan maximaal 0,2 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
 |   |   |   | knoflook | 0,5 |   |   |
 |   |   |   | uien | 0,5 |   |   |
 |   |   |   | sjalotten | 0,5 |   |   |
-|   |   |   | bosuien | 1 | 12) waarvan maximaal 1 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. | 3 |
+|   |   |   | bosuien | 1 | 12) waarvan maximaal 1 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
 |   |   |   | tomaten | 3 |   |   |
 |   |   |   | overige Solanaceae | 2 |   |   |
 |   |   |   | komkommers | 1 | 11) waarvan maximaal 0,5 mg/kg afkomstig mag zijn van mancozeb, maneb, metiram, propineb en zineb. |   |
@@ -1872,6 +1882,8 @@ Door vernummering vervallen.
 |   |   |   | overige visserij-producten | 0,02 |   |   |
 |   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
+| EPN | geen | EPN | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | epoxiconazool | geen | epoxiconazool | granen | 0,1 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -1957,14 +1969,14 @@ Door vernummering vervallen.
 |   |   |   | overige vruchtgroenten | 0,1 | 15) |   |
 |   |   |   | overige | 0,05* | 15) |   |
 |   |   |   |   |   |   |   |
-| ethofumesaat | 2,3-dihydro-3,3- | som van | rode bieten | 0,1 |   | 1 |
-|   | dimethyl-2-oxo- | ethofumesaat en | oliehoudende zaden | 0,1* |   | 1 |
-|   | benzofuraan-5-yl | 2,3-dihydro-3,3- | thee | 0,1* |   | 1 |
-|   | methaan sulfonaat | dimethyl-2-oxo- | hop | 0,1* |   | 1 |
-|   |   | benzofuraan-5-yl | vlees | 0,1* |   | 1 |
-|   |   | methaan sulfonaat, | melk | 0,1* |   | 1 |
-|   |   | ethofumesaat | eieren | 0,1* |   | 1 |
-|   |   | uitgedrukt als | overige | 0,05* |   | 1 |
+| ethofumesaat | 2,3-dihydro-3,3- | som van | rode bieten | 0,1 |   |   |
+|   | dimethyl-2-oxo- | ethofumesaat en | oliehoudende zaden | 0,1* |   |   |
+|   | benzofuraan-5-yl | 2,3-dihydro-3,3- | thee | 0,1* |   |   |
+|   | methaan sulfonaat | dimethyl-2-oxo- | hop | 0,1* |   |   |
+|   |   | benzofuraan-5-yl | vlees | 0,1* |   |   |
+|   |   | methaan sulfonaat, | melk | 0,1* |   |   |
+|   |   | ethofumesaat | eieren | 0,1* |   |   |
+|   |   | uitgedrukt als | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | ethoprofos | geen | ethoprofos | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
@@ -1983,21 +1995,21 @@ Door vernummering vervallen.
 | etrimfos | geen | etrimfos | prei | 0,1 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| famoxadone | geen | famoxadone | tafel- en wijndruiven | 2 |   | 1 |
-|   |   |   | tomaten | 0,2 |   | 1 |
-|   |   |   | aubergines | 0,2 |   | 1 |
-|   |   |   | komkommers | 0,2 |   | 1 |
-|   |   |   | courgettes | 0,2 |   | 1 |
-|   |   |   | meloenen | 0,3 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,05* |   | 1 |
-|   |   |   | thee | 0,05* |   | 1 |
-|   |   |   | hop | 0,05* |   | 1 |
-|   |   |   | gerst | 0,2 |   | 1 |
-|   |   |   | boekweit, gierst, haver, rogge, sorghum, triticale tarwe | 0,1 |   | 1 |
-|   |   |   | vlees | 0,05* |   | 1 |
-|   |   |   | melk | 0,05* |   | 1 |
-|   |   |   | eieren | 0,05* |   | 1 |
-|   |   |   | overige | 0,02* |   | 1 |
+| famoxadone | geen | famoxadone | tafel- en wijndruiven | 2 |   |   |
+|   |   |   | tomaten | 0,2 |   |   |
+|   |   |   | aubergines | 0,2 |   |   |
+|   |   |   | komkommers | 0,2 |   |   |
+|   |   |   | courgettes | 0,2 |   |   |
+|   |   |   | meloenen | 0,3 |   |   |
+|   |   |   | oliehoudende zaden | 0,05* |   |   |
+|   |   |   | thee | 0,05* |   |   |
+|   |   |   | hop | 0,05* |   |   |
+|   |   |   | gerst | 0,2 |   |   |
+|   |   |   | boekweit, gierst, haver, rogge, sorghum, triticale tarwe | 0,1 |   |   |
+|   |   |   | vlees | 0,05* |   |   |
+|   |   |   | melk | 0,05* |   |   |
+|   |   |   | eieren | 0,05* |   |   |
+|   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | fenamifos | fenamifos-sulfoxide en | fenamifos | sinaasappelen | 0,2 |   |   |
 |   | -sulfon |   |   |   |   |   |
@@ -2061,20 +2073,20 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | fenfuram | geen | fenfuram | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| fenhexamide | geen | fenhexamide | kersen | 5 |   | 1 |
-|   |   |   | pruimen | 2 |   | 1 |
-|   |   |   | tafel- en wijndruiven | 5 |   | 1 |
-|   |   |   | aardbeien (andere dan bosaardbeien) | 5 |   | 1 |
-|   |   |   | Rubussoorten (andere dan wilde vruchten) | 10 |   | 1 |
-|   |   |   | blauwe bosbessen | 5 |   | 1 |
-|   |   |   | aalbessen (rood, zwart en wit) | 5 |   | 1 |
-|   |   |   | kruisbessen (Cynorrhodom) | 5 |   | 1 |
-|   |   |   | kiwi's | 10 |   | 1 |
-|   |   |   | tomaten | 1 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| fenhexamide | geen | fenhexamide | kersen | 5 |   |   |
+|   |   |   | pruimen | 2 |   |   |
+|   |   |   | tafel- en wijndruiven | 5 |   |   |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 5 |   |   |
+|   |   |   | Rubussoorten (andere dan wilde vruchten) | 10 |   |   |
+|   |   |   | blauwe bosbessen | 5 |   |   |
+|   |   |   | aalbessen (rood, zwart en wit) | 5 |   |   |
+|   |   |   | kruisbessen (Cynorrhodom) | 5 |   |   |
+|   |   |   | kiwi's | 10 |   |   |
+|   |   |   | tomaten | 1 |   |   |
+|   |   |   | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fenitrothion | geen | fenitrothion | citrusvruchten | 2 |   |   |
 |   |   |   | overig fruit | 0,5 |   |   |
@@ -2152,10 +2164,10 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | fenthoaat | geen | fenthoaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| fentin | geen | fentin, | oliehoudende zaden | 0,1* |   | 1 |
+| fentin | geen | fentin, | oliehoudende zaden | 0,1* |   |   |
 |   |   | uitgedrukt als | thee | 0,1* |   |   |
-|   |   | trifenyl-kation | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 5 |
+|   |   | trifenyl-kation | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fentin-acetaat | geen | zie fentin | zie fentin |   |   |   |
 |   |   |   |   |   |   |   |
@@ -2178,11 +2190,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | ferbam | zie dithiocarbamaten | zie dithiocarbamaten | zie dithiocarbamaten |   |   |   |
 |   |   |   |   |   |   |   |
-| florasulam | geen | florasulam | noten | 0,1* |   | 1 |
-|   |   |   | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,01* |   | 1 |
+| fipronil | geen | fipronil | alle | 0,01* |   | 11 |
+|   |   |   |   |   |   |   |
+| florasulam | geen | florasulam | noten | 0,1* |   |   |
+|   |   |   | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
 | fluazifop-butyl | fluazifop | fluazifop-butyl | aardbeien (andere dan | 0,2 |   |   |
 |   |   |   | bosaardbeien) |   |   |   |
@@ -2211,12 +2225,14 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | fludioxonil | geen | fludioxonil | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
+| flufenoxuron | geen | flufenoxuron | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | flumetron | 3-trifluor-methylaniline | flumetron | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| flumioxazine | geen | flumioazine | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| flumioxazine | geen | flumioazine | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fluorchloridon | geen | fluorchloridon | wortelen | 0,1 |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -2344,7 +2360,8 @@ Door vernummering vervallen.
 |   |   | zuur A4 en -A7 |   |   |   |   |
 |   |   |   | overige | 0,1* |   |   |
 |   |   |   |   |   |   |   |
-| glufosinaat | geen | glufosinaat | aardappelen | 0,5 |   |   |
+| glufosinaat | geen | glufosinaat | aalbessen (rood, zwart en wit) | 0,5 |   | 2 |
+|   |   |   | aardappelen | 0,5 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | glyfosaat | geen | glyfosaat | olijven (voor olie- | 2 |   |   |
@@ -2445,17 +2462,17 @@ Door vernummering vervallen.
 |   |   |   | overige visserij-producten | 0,05 |   |   |
 |   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
-| hexaconazool | geen | hexaconazool | noten | 0,05* |   | 2 |
-|   |   |   | appelen | 0,1 |   | 2 |
-|   |   |   | peren | 0,1 |   | 2 |
-|   |   |   | tafel- en wijndruiven | 0,1 |   | 2 |
-|   |   |   | aardbeien (andere dan bosaardbeien) | 0,2 |   | 2 |
-|   |   |   | bananen | 0,1 |   | 2 |
-|   |   |   | tomaten | 0,1 |   | 2 |
+| hexaconazool | geen | hexaconazool | noten | 0,05* |   |   |
+|   |   |   | appelen | 0,1 |   |   |
+|   |   |   | peren | 0,1 |   |   |
+|   |   |   | tafel- en wijndruiven | 0,1 |   |   |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 0,2 |   |   |
+|   |   |   | bananen | 0,1 |   |   |
+|   |   |   | tomaten | 0,1 |   |   |
 |   |   |   | oliehoudende zaden | 0,05* |   |   |
 |   |   |   | thee | 0,05* |   |   |
 |   |   |   | hop | 0,05* |   |   |
-|   |   |   | gerst en haver | 0,1 |   | 2 |
+|   |   |   | gerst en haver | 0,1 |   |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | hexazinon | geen | hexazinon | alle | 0,1* |   |   |
@@ -2495,11 +2512,10 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | imazapyr | geen | imazapyr | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| imidacloprid | alle 6-chloor-nicotinezuur | imidacloprid | pitvruchten | 0,2 |   |   |
-|   | opleverende metabolieten |   |   |   |   |   |
-|   |   |   | Solanaceae | 0,5 |   |   |
-|   |   |   | Cucurbitaceae (met eetbare | 0,5 |   |   |
-|   |   |   | schil) |   |   |   |
+| imidacloprid | alle 6-chloor-nicotinezuur opleverende metabolieten | imidacloprid | pitvruchten | 0,2 |   |   |
+|   | alle 6-chloor-nicotinezuur opleverende metabolieten |   | Solanaceae (behalve tomaten) | 0,5 |   | 3 |
+|   |   |   | tomaten | 0,3 |   | 3 |
+|   |   |   | Cucurbitaceae (met eetbare schil) | 0,5 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | ioxynil | geen | ioxynil | alle | 0,05* |   |   |
@@ -2561,19 +2577,19 @@ Door vernummering vervallen.
 |   |   |   | eieren | 0,05* | 6) |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| iprovalicarb | geen | iprovalicarb | tafel- en wijndruiven | 2 |   | 1 |
-|   |   |   | tomaten | 1 |   | 1 |
-|   |   |   | komkommers | 0,1 |   | 1 |
-|   |   |   | augurken | 0,1 |   | 1 |
-|   |   |   | courgettes | 0,1 |   | 1 |
-|   |   |   | meloenen | 0,1 |   | 1 |
-|   |   |   | watermeloenen | 0,1 |   | 1 |
-|   |   |   | sla | 1 |   | 1 |
-|   |   |   | andijvie | 1 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| iprovalicarb | geen | iprovalicarb | tafel- en wijndruiven | 2 |   |   |
+|   |   |   | tomaten | 1 |   |   |
+|   |   |   | komkommers | 0,1 |   |   |
+|   |   |   | augurken | 0,1 |   |   |
+|   |   |   | courgettes | 0,1 |   |   |
+|   |   |   | meloenen | 0,1 |   |   |
+|   |   |   | watermeloenen | 0,1 |   |   |
+|   |   |   | sla | 1 |   |   |
+|   |   |   | andijvie | 1 |   |   |
+|   |   |   | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | isocyanuurzuur | geen | isocyanuurzuur | alle | 1* |   |   |
 
@@ -2589,9 +2605,9 @@ Door vernummering vervallen.
 |   |   |   | prei | 0,1 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| isoproturon | geen | isoproturon | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
+| isoproturon | geen | isoproturon | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | jodium | jodide | jodium | melk | 0,3 |   |   |
@@ -2613,7 +2629,7 @@ Door vernummering vervallen.
 | a) plantaardige producten | geen | kresoxim-methyl | noten | 0,1* |   |   |
 |   |   |   | pitvruchten | 0,2 |   |   |
 |   |   |   | tafel- en wijndruiven | 1 |   |   |
-|   |   |   | aardbeien (andere dan bosaardbeien) | 1 |   | 3 |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 1 |   |   |
 |   |   |   | aalbessen (rood, wit en zwart) | 1 |   |   |
 |   |   |   | kruisbessen (Cynorrhodom) | 1 |   |   |
 |   |   |   | olijven | 0,2 |   |   |
@@ -2684,7 +2700,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | menazon | geen | menazon | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
+| mepanipyrim | geen | mepanipyrim | aardbeien (andere dan bosaardbeien) | 2 |   | 9 |
+|   |   |   | overige | 0,1* |   | 9 |
+|   |   |   |   |   |   |   |
 | mepiquatchloride | geen | mepiquatchloride | alle | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| mepronil | geen | mepronil | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | metalaxyl | geen | metalaxyl | grapefruits | 0,5 |   |   |
 |   |   |   | sinaasappelen | 0,5 |   |   |
 |   |   |   | pomelo's | 0,5 |   |   |
@@ -2711,26 +2733,26 @@ Door vernummering vervallen.
 |   |   |   | hop | 10 |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| metalaxyl-M | geen | metalaxyl-M | citrusvruchten | 0,5 |   | 1 |
-|   |   | (voor metalaxyl, | tafel- en wijndruiven | 1 |   | 1 |
-|   |   | zie aldaar) | aardbeien (andere dan bosaardbeien) | 0,3 |   | 1 |
-|   |   |   | wortelen | 0,1 |   | 1 |
-|   |   |   | tomaten | 0,2 |   | 1 |
-|   |   |   | pepers (paprika's) | 0,5 |   | 1 |
-|   |   |   | komkommers | 0,5 |   | 1 |
-|   |   |   | meloenen | 0,05 |   | 1 |
-|   |   |   | watermeloenen | 0,05 |   | 1 |
-|   |   |   | broccoli | 0,05 |   | 1 |
-|   |   |   | bloemkool | 0,05 |   | 1 |
-|   |   |   | sluitkool | 0,05 |   | 1 |
-|   |   |   | boerenkool | 0,2 |   | 1 |
-|   |   |   | sla | 2 |   | 1 |
-|   |   |   | spinazie | 0,05 |   | 1 |
-|   |   |   | witlof | 0,3 |   | 1 |
-|   |   |   | oliehoudende zaden | 0,05* |   | 1 |
-|   |   |   | thee | 0,05* |   | 1 |
-|   |   |   | hop | 10 |   | 1 |
-|   |   |   | overige | 0,02* |   | 1 |
+| metalaxyl-M | geen | metalaxyl-M | citrusvruchten | 0,5 |   |   |
+|   |   | (voor metalaxyl, | tafel- en wijndruiven | 1 |   |   |
+|   |   | zie aldaar) | aardbeien (andere dan bosaardbeien) | 0,3 |   |   |
+|   |   |   | wortelen | 0,1 |   |   |
+|   |   |   | tomaten | 0,2 |   |   |
+|   |   |   | pepers (paprika's) | 0,5 |   |   |
+|   |   |   | komkommers | 0,5 |   |   |
+|   |   |   | meloenen | 0,05 |   |   |
+|   |   |   | watermeloenen | 0,05 |   |   |
+|   |   |   | broccoli | 0,05 |   |   |
+|   |   |   | bloemkool | 0,05 |   |   |
+|   |   |   | sluitkool | 0,05 |   |   |
+|   |   |   | boerenkool | 0,2 |   |   |
+|   |   |   | sla | 2 |   |   |
+|   |   |   | spinazie | 0,05 |   |   |
+|   |   |   | witlof | 0,3 |   |   |
+|   |   |   | oliehoudende zaden | 0,05* |   |   |
+|   |   |   | thee | 0,05* |   |   |
+|   |   |   | hop | 10 |   |   |
+|   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | metaldehyde | aceetaldehyde | metaldehyde | alle | 0,5* |   |   |
 |   |   |   |   |   |   |   |
@@ -2745,7 +2767,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | methacrifos | geen | methacrifos | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 1 |
+|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
 |   |   |   | melk | 0,01* |   |   |
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -2850,7 +2872,8 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | metobromuron | aniline | aniline | zie aniline |   |   |   |
 |   |   |   |   |   |   |   |
-| metolachloor | geen | metolachloor | alle | 0,05* |   |   |
+| metolachloor | geen | som van S- en R-isomeren | plantaardige producten | 0,05* |   | 4 |
+|   |   |   | dierlijke producten | 0,01* |   | 4 |
 |   |   |   |   |   |   |   |
 | metoxuron | 3-chloor-4-methoxy-aniline | metoxuron | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2920,7 +2943,7 @@ Door vernummering vervallen.
 |   |   |   | wortelen | 0,2 |   |   |
 |   |   |   | tomaten | 0,3 |   |   |
 |   |   |   | pepers (paprika's) | 0,5 |   |   |
-|   |   |   | aubergines | 0,3 |   | 2,6 |
+|   |   |   | aubergines | 0,3 |   |   |
 |   |   |   | Cucurbitaceae (met eetbare schil) | 0,1 |   |   |
 |   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,2 |   |   |
 |   |   |   | artisjokken | 0,5 |   |   |
@@ -3070,10 +3093,12 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | peroxide | geen | peroxide | alle | 1* | 1); 8) |   |
 |   |   |   |   |   |   |   |
-| picolinafen | geen | picolinafen | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| picolinafen | geen | picolinafen | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| picoxystrobine | geen | picoxystrobine | alle | 0,05* |   | 10 |
 |   |   |   |   |   |   |   |
 | piperonyl-butoxide | geen | piperonyl-butoxide | noten | 8 |   |   |
 |   |   |   | overig fruit | 3 |   |   |
@@ -3085,21 +3110,18 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | piproctanylium-bromide | tetrahydrogeranylpiperidine | piproctanylium-bromide | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| pirimicarb | desmethyl-pirimicarb | som van pirimicarb en | sinaasappelen | 0,5 |   |   |
-|   |   | desmethyl-pirimicarb |   |   |   |   |
+| pirimicarb | desmethyl-pirimicarb | som van pirimicarb en desmethyl-pirimicar | sinaasappelen | 0,5 |   |   |
+|   | desmethyl-pirimicarb | som van pirimicarb en desmethyl-pirimicar |   |   |   |   |
 |   |   |   | pitvruchten | 1 |   |   |
 |   |   |   | perziken | 0,5 |   |   |
 |   |   |   | pruimen | 0,5 |   |   |
-|   |   |   | aardbeien (andere dan | 0,5 |   |   |
-|   |   |   | bosaardbeien) |   |   |   |
-|   |   |   | frambozen | 0,5 |   |   |
-|   |   |   | blauwe bosbessen | 0,5 |   |   |
+|   |   |   | aardbeien (andere dan bosaardbeien) | 0,5 |   |   |
+|   |   |   | Rubussoorten (andere dan wilde vruchten) | 2 |   | 5 |
+|   |   |   | Ander klein fruit en besvruchten (voorzover niet wild) | 0,5 |   | 6 |
 |   |   |   | uien | 0,5 |   |   |
 |   |   |   | Solanaceae | 1 |   |   |
-|   |   |   | Cucurbitaceae (met eetbare | 1 |   |   |
-|   |   |   | schil) |   |   |   |
-|   |   |   | Cucurbitaceae (met niet- | 1 |   |   |
-|   |   |   | eetbare schil) |   |   |   |
+|   |   |   | Cucurbitaceae (met eetbare schil) | 1 |   |   |
+|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 1 |   |   |
 |   |   |   | bloemkoolachtigen | 1 |   |   |
 |   |   |   | sluitkoolachtigen | 1 |   |   |
 |   |   |   | bladkoolachtigen | 1 |   |   |
@@ -3157,7 +3179,7 @@ Door vernummering vervallen.
 |   |   |   | andere oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | rijst | 1 |   | 2 |
+|   |   |   | rijst | 1 |   |   |
 |   |   |   | gerst en haver | 1 |   |   |
 |   |   |   | rogge, tarwe en triticale | 0,5 |   |   |
 |   |   |   | rundervet | 0,2 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
@@ -3335,11 +3357,11 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | prosulfocarb | geen | prosulfocarb | alle | 0,01* |   |   |
 |   |   |   |   |   |   |   |
-| prosulfuron | geen | prosulfuron | peulvruchten (droog) | 0,05* |   | 1 |
-|   |   |   | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,02* |   | 1 |
+| prosulfuron | geen | prosulfuron | peulvruchten (droog) | 0,05* |   |   |
+|   |   |   | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | prothiofos | geen | prothiofos | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
@@ -3370,11 +3392,11 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | pyracarbolide | aniline | aniline | zie aniline |   |   |   |
 |   |   |   |   |   |   |   |
-| pyraflufen-ethyl | geen | pyraflufen-ethyl | noten | 0,1* |   | 1 |
-|   |   |   | oliehoudende zaden | 0,05* |   | 1 |
-|   |   |   | thee | 0,05* |   | 1 |
-|   |   |   | hop | 0,05* |   | 1 |
-|   |   |   | overige | 0,02* |   | 1 |
+| pyraflufen-ethyl | geen | pyraflufen-ethyl | noten | 0,1* |   |   |
+|   |   |   | oliehoudende zaden | 0,05* |   |   |
+|   |   |   | thee | 0,05* |   |   |
+|   |   |   | hop | 0,05* |   |   |
+|   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | pyrazofos | geen | pyrazofos | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
@@ -3439,6 +3461,8 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | quinmerac | geen | quinmerac | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
+| quinoxyfen | geen | quinoxyfen | alle | 0,05* |   | 10 |
+|   |   |   |   |   |   |   |
 | quintozeen |   |   |   |   |   |   |
 | a) plantaardige | pentachlooraniline | som van quintozeen en | pinda's | 0,05 |   |   |
 | producten |   | pentachlooraniline, |   |   |   |   |
@@ -3499,10 +3523,10 @@ Door vernummering vervallen.
 | sulcotrion | 2-chloor-4-methyl-sulfonyl- | 2-chloor-4-methyl- | alle | 0,05* |   |   |
 |   | benzoëzuur | sulfonyl-benzoëzuur |   |   |   |   |
 |   |   |   |   |   |   |   |
-| sulfosulfuron | geen | sulfosulfuron | oliehoudende zaden | 0,1* |   | 1 |
-|   |   |   | thee | 0,1* |   | 1 |
-|   |   |   | hop | 0,1* |   | 1 |
-|   |   |   | overige | 0,05* |   | 1 |
+| sulfosulfuron | geen | sulfosulfuron | oliehoudende zaden | 0,1* |   |   |
+|   |   |   | thee | 0,1* |   |   |
+|   |   |   | hop | 0,1* |   |   |
+|   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | sulfotep | geen | sulfotep | alle | 0,01* |   |   |
 |   |   |   |   |   |   |   |
@@ -3590,6 +3614,8 @@ Door vernummering vervallen.
 |   |   |   | melk |   | 19) |   |
 |   |   |   | overige dierlijke | 0,1* |   |   |
 |   |   |   | producten |   |   |   |
+|   |   |   |   |   |   |   |
+| thiametoxam | geen | thiametoxam | alle | 0,05* |   | 10 |
 |   |   |   |   |   |   |   |
 | thifensulfuron-methyl | geen | thifensulfuron-methyl | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
@@ -3685,6 +3711,8 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,05* |   |   |
 |   |   |   | vlees | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
 |   |   |   | overige | 0,02* |   |   |
+|   |   |   |   |   |   |   |
+| trifloxystrobine | geen | trifloxystrobine | alle | 0,05* |   | 10 |
 |   |   |   |   |   |   |   |
 | trichlofenidine | geen | trichlofenidine | alle | 0,01* |   |   |
 |   |   |   |   |   |   |   |
@@ -3822,21 +3850,27 @@ Door vernummering vervallen.
 
 Motief:
 
-- 1. Aanpassing aan richtlijn 2003/60/EG van 18 juni 2003 (PbEU L 155).
+- 1. Correctie in verband met in Nederland toegelaten toepassingen.
 
-- 2. Aanpassing aan richtlijn 2003/62/EG van 20 juni 2003 (PbEU L 154).
+- 2. Aanpassing maximumgehalte voor aalbessen.
 
-- 3. Aanpassing aan richtlijn 2003/69/EG van 11 juli 2003 (PbEU L 175).
+- 3. Aanpassing maximumgehalte voor tomaten.
 
-- 4. De maximumgehalten aan residuen van diquat in fruit en in groenten zijn op de ondergrens van de bepaling gezet.
+- 4. Andere formulering uitdrukking maximumgehalte en invoeging specifiek maximum-gehalte aan residuen in dierlijke producten.
 
-- 5. Het maximumgehalte van residuen van fentin in aardappelen is op de ondergrens van de bepaling gezet.
+- 5. Uitbreiding van toepassing tot de gehele groep Rubussoorten (anders dan wilde vruchten).
 
-- 6. Correctie: in richtlijn 2002/79/EG waren abusievelijk chilipepers en aubergines verwisseld.
+- 6. Uitbreiding van toepassing tot de gehele groep Ander klein fruit en besvruchten (voor zover niet wild).
 
-- 7. Bij de regeling van 28 maart 2001, GZB/VVB/2162966 (Stcrt. 64) is het maximumgehalte van folpet in wijndruiven gewijzigd (richtlijn 2000/57/EG, artikel 1).
+- 7. Nieuw middel, toepassing als onkruidbestrijdingsmiddel in de teelt van aardappelen.
 
-Na recente informatie bij de EU is gebleken, dat ook het maximumgehalte van captan in wijndruiven moest worden gewijzigd, omdat het maximumgehalte wordt uitgedrukt als som van captan en folpet.
+- 8. Nieuwe toepassing, als schimmelbestrijdingsmiddel in de teelt van appels en peren.
+
+- 9. Nieuw middel, toepassing als schimmelbestrijdingsmiddel in de teelt van aardbeien.
+
+- 10. Bestrijdingsmiddelen die niet in Nederland zijn toegelaten en waarvoor geen importtolerantie is vastgesteld. In verband met een effectieve controle zijn er maximumgehalten vastgesteld op de ondergrens van de bepaling.
+
+- 11. Bestrijdingsmiddel dat niet in Nederland is toegelaten en waarvoor geen importtolerantie is vastgesteld. In verband met een effectieve controle is een maximumgehalte vastgesteld op de ondergrens van de bepaling. Vanwege een lage ADI is een lage ondergrens vastgesteld.
 
 ## Bijlage IIA
 
