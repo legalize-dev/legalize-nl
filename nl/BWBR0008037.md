@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2003-09-30"
+last_updated: "2004-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -304,6 +304,8 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 
 « ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
 
-100 Alleen tijdens privé gebruik.
+100. Alleen tijdens privé-gebruik
+
+101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
