@@ -225,33 +225,3 @@ Dit besluit wordt aangehaald als: Archiefbesluit 1995.
 2. Dit besluit treedt op hetzelfde tijdstip in werking, met uitzondering van de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=11&z=2001-12-12&g=2001-12-12), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=12&z=2001-12-12&g=2001-12-12) en [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=IV&artikel=13&z=2001-12-12&g=2001-12-12), die in werking treden op een nader bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-##### Artikel 20a
-
-Een besluit tot aanwijzing dat is genomen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), of [artikel 3, tweede lid, van het Tijdelijk besluit opleidingen en diploma’s archivistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=3), geldt als een besluit op grond van [artikel 15, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=VI&artikel=15&z=2006-09-01&g=2006-09-01).
-
-##### Artikel 20b
-
-Degene die de hoedanigheid bezit van middelbaar of hoger archiefambtenaar, bedoeld in artikel 9 van de Archiefwet 1962, voldoet aan de benoembaarheidsvereisten, bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=28), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=32), en [37, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=37).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 3a
-
-1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
-
-2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
-
-### Hoofdstuk III. Overbrenging van archiefbescheiden
-
-### Hoofdstuk IV. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
-
-### Hoofdstuk V. Zorg voor de archiefbescheiden van het rijk en van de in artikel 41, eerste lid, van de wet bedoelde overheidsorganen, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats
-
-### Hoofdstuk VI. Opleiding tot en het verkrijgen van diploma’s in de archivistiek
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
