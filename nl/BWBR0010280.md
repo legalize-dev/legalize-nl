@@ -143,9 +143,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit personenchauffeurs defensie.
 
 Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 12a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-Lasten en bevelen dat dit besluit met de nota van toelichting in het Staatsblad zal worden geplaatst.
