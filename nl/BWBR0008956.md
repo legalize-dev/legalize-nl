@@ -4,7 +4,7 @@ identifier: "BWBR0008956"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-05-18"
-last_updated: "1998-03-04"
+last_updated: "2004-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008956"
 soort: "AMvB"
@@ -50,19 +50,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder routeringssysteem: een systeem bestaande uit een of meer routes of routeringsmaatregelen, gericht op het verminderen van gevaar voor scheepsongevallen, met inbegrip van verkeersscheidingsstelsels, vaarwegen voor tweerichtingsverkeer, aanbevolen koerslijnen, gebieden die dienen te worden gemeden, zones voor kustverkeer, rotondes, voorzorgsgebieden en diepwaterroutes.
 
-##### Artikel 2. Verplichtingen van de kapitein
+##### Artikel 2. Vaststelling en gebruik van systemen
 
-1. De kapitein is verplicht gebruik te maken van de bij ministeriële regeling, overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie vast te stellen routeringssystemen, voor in die regeling vermelde categorieën schepen in volle zee voor de Nederlandse kust.
+1. Bij ministeriële regeling kunnen voor in die regeling vermelde categorieën schepen in scheepvaartwegen in volle zee voor de Nederlandse kust, overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie, routeringssystemen en meldingssystemen worden vastgesteld.
 
-2. Dit lid is nog niet in werking.
+2. Degene die een schip voert maakt gebruik van de op grond van het eerste lid vastgestelde routeringssystemen en voldoet daarbij aan de voorschriften van de op grond van dat lid vastgestelde meldingssystemen.
 
 ##### Artikel 3. Strafbaarstelling
 
-Overtreding van de bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008956&artikel=2&z=1998-03-04&g=1998-03-04) gestelde regels is een strafbaar feit.
+Overtreding van de bij of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008956&artikel=2&z=2004-10-29&g=2004-10-29), gestelde regels is een strafbaar feit.
 
 ##### Artikel 4. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008956&artikel=2&z=1998-03-04&g=1998-03-04), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008956&artikel=2&z=2004-10-29&g=2004-10-29), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 5. Citeertitel
 
