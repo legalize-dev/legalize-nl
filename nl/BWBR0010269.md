@@ -149,21 +149,3 @@ Vervallen
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-De hoeveelheid benzo(a)pyreen is ten hoogste:
-
-- a. 2 µg/kg in voedingssupplementen, bedoeld in [artikel 1, eerste lid, onder b, van het Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&artikel=1), zonder kruidenpreparaten;
-
-- b. 10 µg/kg in kruidenpreparaten, bedoeld in [artikel 1, eerste lid, onder b, van het Warenwetbesluit Kruidenpreparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=1).
-
-##### Artikel 1a
-
-Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
-
-## Bijlage II
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
