@@ -323,7 +323,3 @@ Vervallen
 Vervallen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
-
-## Titel IIA. Ontwikkelingsperspectief
-
-## Titel VIII. Slotbepalingen
