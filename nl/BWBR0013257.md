@@ -106,9 +106,3 @@ Deze regeling wordt aangehaald als: Rechtspositieregeling lid Raad van bestuur U
 Deze regeling treedt in werking met ingang van 1 januari 2002.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Overgangsrecht zittende leden
-
-Op de beloning van een lid wiens benoeming heeft plaatsgevonden voor 1 juli 2015, blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013257&artikel=2&z=2015-07-01&g=2015-07-01) van deze regeling van toepassing, zoals dit luidde op 30 juni 2015, tot de datum met ingang waarvan dit lid wordt herbenoemd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
