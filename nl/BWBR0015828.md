@@ -197,13 +197,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 Deze regeling wordt aangehaald als: Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel.
 
 Deze regeling wordt gepubliceerd in de serie ministeriële publicaties waarvan mededeling zal worden gedaan in de Staatscourant.
-
-##### Artikel 13. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 januari 2004.
-
-##### Artikel 14. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel.
-
-Deze regeling wordt gepubliceerd in de serie ministeriële publicaties waarvan mededeling zal worden gedaan in de Staatscourant.
