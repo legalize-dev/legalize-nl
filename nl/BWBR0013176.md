@@ -121,15 +121,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet wordt aangehaald als: Uitvoeringswet EG-betekeningsverordening.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. De gerechtsdeurwaarder aan wie de gerechtelijke of buitengerechtelijke stukken ter betekening of kennisgeving worden verzonden, wordt aangewezen als de autoriteit waarbij verzendende instanties als bedoeld in artikel 3, eerste lid, van de verordening verzoeken kunnen indienen overeenkomstig artikel 7 van de verordening tot het achterhalen van het adres van de persoon aan wie betekening of kennisgeving in Nederland moet worden gedaan. De deurwaarder kan een voorschot in rekening brengen voor de kosten van de betekening, alvorens de bijstand te verlenen.
-
-2. Indien het de rechtstreekse betekening of kennisgeving van gerechtelijke stukken betreft overeenkomstig artikel 18 van de verordening wordt de rechtbank Den Haag aangewezen als de in het eerste lid bedoelde autoriteit.
-
-##### Artikel 5a
-
-Bij algemene maatregel van bestuur kunnen aanvullende voorwaarden worden gesteld waaronder elektronische betekening of kennisgeving per e-mail wordt aanvaard, een en ander als bedoeld in artikel 19, eerste lid, onder b, van de verordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
