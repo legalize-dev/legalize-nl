@@ -4,7 +4,7 @@ identifier: "BWBR0014602"
 country: "nl"
 rank: "wet"
 publication_date: "2012-10-01"
-last_updated: "2002-12-01"
+last_updated: "2003-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014602"
 soort: "wet"
@@ -39,11 +39,11 @@ entry_into_force: "2003-01-18"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ambtenarenwet.
 
 ##### Artikel III
 
@@ -53,75 +53,91 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De in [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) BBBB en CCCC, bedoelde verordeningen worden vastgesteld vóór de vaststelling van de begroting over het jaar 2004, doch uiterlijk op 15 november 2003.
+
+2. De in [artikel I, onderdelen L](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) en DDDD, bedoelde verordeningen, de in [artikel I, onderdelen F, R](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) en EE, bedoelde gedragscodes en de in [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) GGG en III, bedoelde regels worden vastgesteld binnen een jaar na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet.
+
+3. Provinciale staten kunnen besluiten de termijn, bedoeld in het tweede lid, voor de vaststelling van de in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) DDDD, bedoelde verordening en de in [artikel I, onderdelen F, R](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) en EE, bedoelde gedragscodes met ten hoogste een jaar te verlengen.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+De in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) JJ, bedoelde rekenkamer wordt ingesteld, onderscheidenlijk regels betreffende uitoefening van de rekenkamerfunctie worden vastgesteld, vóór 1 januari 2005.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+1. De in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) SS, bedoelde griffier wordt benoemd binnen een jaar na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet.
+
+2. Tot de datum waarop de griffier wordt benoemd, staat de secretaris provinciale staten en de door hen ingestelde commissies bij de uitoefening van hun taak terzijde en blijft de door provinciale staten vastgestelde instructie op de secretaris van toepassing.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. De in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) CCCC, bedoelde accountantsverklaring en het in dit onderdeel bedoelde verslag van bevindingen voldoen met ingang van het jaar 2004 aan de in of krachtens dit onderdeel gestelde eisen.
+
+2. Tot en met de jaarrekening over het jaar 2003 blijven de [artikelen 202 tot en met 206 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=202), zoals die luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet, van toepassing op de vaststelling van de jaarrekening.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+1. De ambtenaar die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet werkzaam is op basis van een aanstelling door provinciale staten, wordt met ingang van deze datum geacht te zijn aangesteld door gedeputeerde staten.
+
+2. De door provinciale staten op grond van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) vastgestelde voorschriften die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet gelden worden met ingang van deze datum geacht te zijn vastgesteld door gedeputeerde staten.
+
+3. Het eerste en tweede lid zijn niet van toepassing op de ambtenaar die door provinciale staten voorafgaande aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet is benoemd om hen met ingang van deze datum als griffier te ondersteunen dan wel om met ingang van deze datum op de griffie werkzaam te zijn.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Commissies die zijn ingesteld op grond van [artikel 80 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=80) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkintreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk twee jaar na deze datum blijven uitoefenen of, bij eerdere opheffing van de commissie, tot de datum van opheffing, met inachtneming van het bepaalde bij of krachtens [hoofdstuk V van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=V) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Commissies als bedoeld in [artikel 82 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=82), zoals dat luidt met ingang van de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet, voldoen uiterlijk twee jaar na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet aan de in [artikel 82 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=82) gestelde eisen.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 89 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=89) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet blijft van toepassing op vaste commissies van advies aan gedeputeerde staten of aan de commissaris van de Koning die zijn ingesteld voor deze datum, tot de dag van eerste samenkomst van de bij de periodieke verkiezing van 2003 gekozen leden van provinciale staten.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor zover bij of krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) bij of krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) gestelde regels van toepassing zijn verklaard, blijven de bij of krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) gestelde regels zoals die luidden onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet, van toepassing.
+
+2. Het eerste lid is niet van toepassing op de [artikelen 190 tot en met 219 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=190) en de krachtens deze artikelen vastgestelde regels.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Op besluiten van provinciale staten die zijn genomen op grond van [artikel 151 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=151), zoals dat luidde onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven de [artikelen 8, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=8), en [26 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=26), zoals deze artikelen luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0014602&artikel=I&z=2003-03-12&g=2003-03-12) van deze wet, van toepassing.
 
 ##### Artikel XVIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister zendt voor 1 januari 2006 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
+
+2. Indien het Staatsblad waarin het koninklijk besluit tot inwerkingtreding wordt geplaatst, wordt uitgegeven na 30 november 2002, wordt in dit koninklijk besluit bepaald dat artikel III in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het koninklijk besluit wordt geplaatst en terugwerkt tot en met 1 december 2002.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet dualisering provinciebestuur.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
