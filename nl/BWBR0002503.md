@@ -233,9 +233,3 @@ Ons besluit van 14 december 1964, **Stb.** 493, wordt ingetrokken.
 Dit besluit treedt in werking met ingang van 1 maart 1966, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2001-10-01&g=2001-10-01), het [vierde en vijfde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2001-10-01&g=2001-10-01), het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2001-10-01&g=2001-10-01) en het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2001-10-01&g=2001-10-01), welke in werking treden met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het besluit wordt geplaatst.
 
 Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 13
-
-Dit besluit wordt aangehaald als: Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen.
-
-Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
