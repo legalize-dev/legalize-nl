@@ -123,23 +123,3 @@ Het onderzoekslaboratorium vermeldt in een schriftelijk verslag van de meting te
 De ontdoener bewaart het schriftelijk verslag gedurende een periode van ten minste drie jaar nadat de meting is uitgevoerd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-De Regeling niet-reinigbaar straalgrit berust op [artikel 9 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=9).
-
-## Bijlage. bij artikel 3 van de Regeling niet-reinigbaar straalgrit
-
-### 1. Monstername en monstervoorbereiding
-
-Een onderzoekslaboratorium stelt het mengmonster samen.
-
-### 2. Bepalen samenstelling mengmonster
-
-Bij het vaststellen van de concentratie van stoffen, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009203&artikel=2&z=2013-01-01&g=2013-01-01), 11°, wordt gebruik gemaakt van de NEN 5735, uitgave juli 1995, met dien verstande dat voor "grond" wordt gelezen: straalgrit.
-
-### 3. Registratie meetgegevens
-
-De ontdoener bewaart het schriftelijk verslag gedurende een periode van ten minste drie jaar nadat de meting is uitgevoerd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
