@@ -243,39 +243,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 19a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van het in dit hoofdstuk bepaalde.
-
-##### Artikel 19b
-
-1. Voor de toepassing van:
-
-- –. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2012-10-10&g=2012-10-10), wordt in plaats van «[artikel 294, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294)» gelezen: artikel 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES.
-
-- –. [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2012-10-10&g=2012-10-10), wordt in plaats van «een regionale toetsingscommissie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2012-10-10&g=2012-10-10)» gelezen: een commissie als bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2012-10-10&g=2012-10-10).
-
-- –. [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=II&artikel=2&z=2012-10-10&g=2012-10-10), wordt in plaats van «[artikel 293, tweede lid, tweede volzin, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293)» gelezen: [artikel 306, tweede lid, tweede volzin van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306).
-
-- –. [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2012-10-10&g=2012-10-10), wordt in plaats van «[artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7)» gelezen: [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1).
-
-- –. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=8&z=2012-10-10&g=2012-10-10), vervalt: of de betrokken hulpverleners.
-
-- –. [artikel 9, tweede lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=4&artikel=9&z=2012-10-10&g=2012-10-10), wordt in plaats van «het College van procureurs-generaal» gelezen: de procureur-generaal.
-
-2. [Artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=I&artikel=1&z=2012-10-10&g=2012-10-10), is niet van toepassing.
-
-##### Artikel 19c
-
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=1&artikel=3&z=2012-10-10&g=2012-10-10), is er een door Onze Ministers aan te wijzen commissie, die bevoegd is de meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in artikel 306, tweede lid, onderscheidenlijk 307, tweede lid, tweede volzin, van het Wetboek van Strafrecht BES te toetsen.
-
-##### Artikel 19d
-
-Bij het overleg, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=III&paragraaf=6&artikel=13&z=2012-10-10&g=2012-10-10), is de voorzitter van de commissie, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&hoofdstuk=IIIa&artikel=19c&z=2012-10-10&g=2012-10-10), betrokken. Tevens zijn betrokken de procureur-generaal of een door hem aan te wijzen vertegenwoordiger en een vertegenwoordiger van de Inspectie voor de Volksgezondheid.
-
-### Hoofdstuk IV. Wijzigingen in andere wetten
-
-### Hoofdstuk V. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
