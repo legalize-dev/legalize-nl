@@ -4,7 +4,7 @@ identifier: "BWBR0010591"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "1999-07-21"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010591"
 soort: "wet"
@@ -54,7 +54,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. opvragen: het permanent of tijdelijk overbrengen van de inhoud van een databank of een deel daarvan op een andere drager, ongeacht op welke wijze en in welke vorm;
 
-- d. hergebruiken: elke vorm van het aan het publiek ter beschikking stellen van de inhoud van een databank of een deel daarvan door verspreiding van exemplaren, verhuur, on line transmissie of transmissie in een andere vorm.
+- d. hergebruiken: elke vorm van het aan het publiek ter beschikking stellen van de inhoud van een databank of een deel daarvan door verspreiding van exemplaren, verhuur, on line transmissie of transmissie in een andere vorm;
+
+- e. technische voorzieningen: technologie, inrichtingen of onderdelen die in het kader van hun normale werking dienen voor het voorkomen of beperken van handelingen ten aanzien van databanken, en door de producent van de databank of zijn rechtverkrijgende niet zijn toegestaan; technische voorzieningen worden geacht «doeltreffend» te zijn indien het opvragen en hergebruiken van een databank door de producent van de databank of zijn rechtverkrijgende wordt beheerst door middel van toegangscontrole of door toepassing van een beschermingsprocédé zoals encryptie, vervorming of andere transformatie van de databank of een kopieerbeveiliging die de beoogde bescherming bereikt;
+
+- f. informatie betreffende het beheer van rechten: alle door de producent van een databank en zijn rechtverkrijgenden verstrekte informatie welke verbonden is met een exemplaar van een databank of bij het hergebruiken van een databank bekend wordt gemaakt, die dient ter identificatie van de databank, of informatie betreffende de voorwaarden voor het gebruik van de databank, alsmede de cijfers of codes waarin die informatie is vervat.
 
 - 2. Het voor een beperkte tijd en zonder direct of indirect economisch of commercieel voordeel voor gebruik ter beschikking stellen door voor het publiek toegankelijke instellingen wordt niet als opvragen of hergebruiken beschouwd.
 
@@ -68,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 2. Het auteursrecht of andere rechten op de databank of op de in de databank opgenomen werken, gegevens of andere elementen blijven onverlet.
 
-- 3. Indien een exemplaar van een databank door of met toestemming van de producent of zijn rechtverkrijgende voor de eerste maal in het verkeer is gebracht in een van de lidstaten van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, vormt anderszins in het verkeer brengen in die staten van dat exemplaar geen inbreuk op het in het eerste lid bedoelde recht.
+- 3. Indien een exemplaar van een databank door of met toestemming van de producent of zijn rechtverkrijgende voor de eerste maal in het verkeer is gebracht door eigendomsoverdracht in een van de lidstaten van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, vormt anderszins in het verkeer brengen in die staten van dat exemplaar geen inbreuk op het in het eerste lid bedoelde recht.
 
 - 4. Het in het eerste lid bedoelde recht gaat over bij erfopvolging en is vatbaar voor gehele of gedeeltelijke overdracht. De levering vereist voor gehele of gedeeltelijke overdracht geschiedt door een daartoe bestemde akte.
 
@@ -85,6 +89,28 @@ De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek
 - b. opvragen ter illustratie bij onderwijs of voor wetenschappelijk onderzoek, met bronvermelding en voor zover door het niet-commerciële doel gerechtvaardigd;
 
 - c. opvragen of hergebruiken voor de openbare veiligheid of in het kader van een administratieve of rechterlijke procedure.
+
+- 1. Degene, die doeltreffende technische voorzieningen omzeilt en dat weet of redelijkerwijs behoort te weten, handelt onrechtmatig.
+
+- 2. Degene die diensten verricht of inrichtingen, producten of onderdelen vervaardigt, invoert, distribueert, verkoopt, verhuurt, adverteert of voor commerciële doeleinden bezit die: handelt onrechtmatig.
+
+- a). aangeboden, aangeprezen of in de handel gebracht worden met het doel om de beschermende werking van doeltreffende technische voorzieningen te omzeilen, of
+
+- b). slechts een commercieel beperkt doel of nut hebben anders dan het omzeilen van de beschermende werking van doeltreffende technische voorzieningen, of
+
+- c). vooral ontworpen, vervaardigd of aangepast worden met het doel het omzeilen van de beschermende werking van doeltreffende technische voorzieningen mogelijk of gemakkelijker te maken,
+
+- 3. Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5 de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. [Artikel 17d van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) is van overeenkomstige toepassing.
+
+Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische informatie betreffende het beheer van rechten verwijdert of wijzigt, of databanken waaruit op ongeoorloofde wijze dergelijke informatie is verwijderd of waarin op ongeoorloofde wijze dergelijke informatie is gewijzigd, verspreidt, ter verspreiding invoert, uitzendt of anderszins openbaar maakt, en weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot inbreuk op het databankenrecht, dan wel een dergelijke inbreuk mogelijk maakt, vergemakkelijkt of verbergt, handelt onrechtmatig.
+
+- 1. Inbreuk op het in artikel 5a, eerste en tweede lid, of artikel 5b bepaalde, geeft de bevoegdheid inrichtingen, producten en onderdelen als bedoeld in artikel 5a of databanken als bedoeld in artikel 5b als zijn eigendom op te eisen dan wel daarvan de vernietiging of onbruikbaarmaking te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de inrichtingen, producten en onderdelen, bedoeld in de eerste zin.
+
+- 2. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.
+
+- 3. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen door de eiser te betalen vergoeding.
+
+- 4. Tenzij anders is overeengekomen, heeft de licentienemer het recht de uit het eerste lid voortvloeiende bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.
 
 - 1. Het recht, bedoeld in artikel 2, eerste lid, ontstaat op het tijdstip waarop de productie van de databank is voltooid. Het vervalt door verloop van vijftien jaar na 1 januari van het jaar volgend op het tijdstip van voltooiing.
 
@@ -116,7 +142,7 @@ Wijzigt de Auteurswet 1912.
 
 - 2. Het recht, bedoeld in artikel 2, eerste lid, vervalt in dat geval op 1 januari 2014.
 
-B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=1999-07-21&g=1999-07-21) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
+B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=2004-09-01&g=2004-09-01) is ook van toepassing op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die vóór 1 januari 1998 gemaakt zijn, met dien verstande dat aan vóór die datum verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
 C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
