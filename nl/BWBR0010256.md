@@ -4,7 +4,7 @@ identifier: "BWBR0010256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-27"
-last_updated: "2004-03-10"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010256"
 soort: "ministeriele-regeling"
@@ -315,37 +315,37 @@ Deze kosten worden voldaan aan de korpschef of commandant die op grond van artik
 
 ##### Artikel 25. (overgangsregeling opleidingseis bestuursorganen)
 
-1. Artikel 6 van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de wet in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2004-04-01&g=2004-04-01) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
-2. Artikel 6 van deze regeling, is niet van toepassing op personen die op het moment van inwerkingtreding van de wet in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+2. Vervallen.
 
 3. Het tweede lid vervalt op 1 april 2004.
 
 ##### Artikel 26. (particulier rechercheur)
 
-1. Artikel 10 van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de wet te werk zijn gesteld door een recherchebureau.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2004-04-01&g=2004-04-01) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
 
-2. Artikel 10 van deze regeling, is niet van toepassing indien het personen betreft die op het moment van inwerkingtreding van de wet te werk zijn gesteld door een recherchebureau.
+2. Vervallen.
 
 3. Het tweede lid vervalt op 1 april 2004.
 
 ##### Artikel 27. (alarminstallateur)
 
-1. Artikel 11, eerste lid, van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de wet als alarminstallateur werkzaam zijn.
+1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2004-04-01&g=2004-04-01), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
 
-2. Artikel 11, eerste lid, van deze regeling, is niet van toepassing indien het personen betreft die op het moment van inwerkingtreding van de wet als alarminstallateur werkzaam zijn.
+2. Vervallen.
 
 3. Het tweede lid vervalt op 1 april 2004.
 
 ##### Artikel 28. (alarmapparatuur)
 
-1. [Artikel 21 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=21&z=2004-03-10&g=2004-03-10), is niet van toepassing op alarmapparatuur die op het moment van inwerkingtreding van de wet is geïnstalleerd.
+1. [Artikel 21 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=21&z=2004-04-01&g=2004-04-01), is niet van toepassing op alarmapparatuur die op het moment van inwerkingtreding van de wet is geïnstalleerd.
 
 2. Dit artikel vervalt op 1 januari 2005.
 
 ##### Artikel 28a
 
-In afwijking van het bepaalde in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10) en 2 kan tot 1 januari 2003 nog een beroep worden gedaan op de volgende tekst:
+In afwijking van het bepaalde in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-04-01&g=2004-04-01) en 2 kan tot 1 januari 2003 nog een beroep worden gedaan op de volgende tekst:
 
 Een beveiligingsorganisatie belast uitsluitend een persoon met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld diploma Algemeen Beveiligingsmedewerker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties en de Stichting Ecabo.
 
@@ -371,11 +371,11 @@ Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt.
 
 Deze regeling kan worden aangehaald als: Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
-## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-03-10&g=2004-03-10) RPB)
+## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-04-01&g=2004-04-01) RPB)
 
 ### **Model en afmetingen**
 
-[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2004-03-10&g=2004-03-10) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-03-10&g=2004-03-10), bedoelde embleem.
+[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2004-04-01&g=2004-04-01) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2004-04-01&g=2004-04-01), bedoelde embleem.
 
 ### **Plaats op het uniform**
 
@@ -409,19 +409,19 @@ Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkle
 
 ## Bijlage 1A. Embleem uniform (art. 12 RPB)
 
-## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2004-03-10&g=2004-03-10) RPB)
+## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2004-04-01&g=2004-04-01) RPB)
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-04-01&g=2004-04-01).
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-04-01&g=2004-04-01).
 
 - Blauw legitimatiebewijs, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperkte vergunning.
 
-- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2004-03-10&g=2004-03-10).
+- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2004-04-01&g=2004-04-01).
 
 - Legitimatiebewijs voor buitengewoon opsporingsambtenaren, zoals vastgesteld door de minister op grond van het [Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013), bestemd voor een buitengewoon opsporingsambtenaar die behoort tot een particuliere beveiligingsorganisatie, dan wel een onderdeel daarvan, die door de minister is aangewezen als een categorie of eenheid als bedoeld in [art. 142, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) ([art. 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5))
 
-- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-03-10&g=2004-03-10).
+- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2004-04-01&g=2004-04-01).
 
 ## Bijlage 2A. Grijs legitimatiebewijs voor- en achterzijde
 
@@ -435,7 +435,7 @@ Het volle vlak van het embleem alsmede de letters in het embleem, zijn zilverkle
 
 ## Bijlage 3. wordt niet gepubliceerd
 
-## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2004-03-10&g=2004-03-10) RPB).
+## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2004-04-01&g=2004-04-01) RPB).
 
 Naam + adres beveiligingsorganisatie:
 
@@ -503,7 +503,7 @@ Het aanmelden van de personen die de beveiligingswerkzaamheden ongeuniformeerd g
 
 - de instantie die het legitimatiebewijs heeft afgestempeld
 
-[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2004-03-10&g=2004-03-10) wordt niet gepubliceerd.
+[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2004-04-01&g=2004-04-01) wordt niet gepubliceerd.
 
 ## Bijlage 5. wordt niet gepubliceerd
 
