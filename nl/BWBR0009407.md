@@ -109,31 +109,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet inzake het merken van kneedspringstoffen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
-
-- a. in afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009407&artikel=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009407&artikel=4&z=2010-10-10&g=2010-10-10) de erkenning voor het mogen vervaardigen, opslaan, gebruiken, overbrengen of verhandelen van explosieven is verleend door de door Onze Minister van Justitie en de Minister van Economische Zaken aangewezen autoriteiten. Van dit besluit tot aanwijzing wordt mededeling gedaan in de Staatscourant;
-
-- b. in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009407&artikel=7&z=2010-10-10&g=2010-10-10):
-
-- 1°. met controle op de naleving van deze wet zijn belast:
-
-- –. de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren;
-
-- –. de door Onze Minister van Justitie, in overeenstemming met Onze andere Ministers, wie het aangaat, aangewezen ambtenaren;
-
-- –. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, en
-
-- 2°. de onder a bedoelde ambtenaren – voor zover dat redelijkerwijs voor de vervulling van voornoemde controlerende taak nodig is – bevoegd zijn:
-
-- –. inzage te vorderen van gegevens en bescheiden alsmede daarvan kopieën te maken;
-
-- –. elke plaats te betreden;
-
-- –. zaken te onderzoeken, aan opneming te onderwerpen en daarvan monsters te nemen en daartoe verpakkingen te openen;
-
-- –. vervoermiddelen en daarmee vervoerde lading te onderzoeken.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
