@@ -4,7 +4,7 @@ identifier: "BWBR0002673"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-08-01"
-last_updated: "1997-07-16"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002673"
 soort: "AMvB"
@@ -48,15 +48,11 @@ Hebben goedgevonden en verstaan:
 
 1. Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
-**wet:** de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) (**Stb.** 1963, 82);
+wet: [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402); register: register als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=13); Onze Minister: Onze Minister van Economische Zaken; hoofd: hoofd van de Belastingdienst/Douane centrale dienst voor in- en uitvoer; gehalte: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1); verrijkingsgraad: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1).
 
-**register:** het register, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=13);
+2. In dit besluit en de daarop berustende bepalingen wordt mede verstaan onder:
 
-**Onze Minister:** Onze Minister van Economische Zaken;
-
-**hoofd:** het hoofd van de Belastingdienst/Douane centrale dienst voor in- en uitvoer.
-
-2. [Artikel 2 van het Definitiebesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002666&artikel=2) (**Stb.** 1969, 358) is van toepassing.
+a. ertsen: andere stoffen dan splijtstoffen en ertsen waaruit splijtstoffen kunnen worden verkregen en die naar gewicht gerekend ten minste een tiende procent uranium of drie procent thorium bevatten; b voorhanden hebben: vervaardigen, bewerken, hanteren en opslaan.
 
 #### § 2. Het register
 
@@ -98,7 +94,7 @@ Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.o
 
 ##### Artikel 6
 
-Hij, die buiten de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=1997-07-16&g=1997-07-16) bedoelde gevallen krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning splijtstoffen voorhanden heeft, anders dan bij opslag in verband met het vervoer, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij het hoofd schriftelijk aangifte te doen van:
+Hij, die buiten de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=2003-01-01&g=2003-01-01) bedoelde gevallen krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning splijtstoffen voorhanden heeft, anders dan bij opslag in verband met het vervoer, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij het hoofd schriftelijk aangifte te doen van:
 
 - a. de hoeveelheid, de chemische en fysische toestand, de vorm, het gehalte en de verrijkingsgraad, alsmede de herkomst van de splijtstoffen, die hij in dat kalenderkwartaal heeft ontvangen, met vermelding van de doeleinden, waarvoor zij zijn bestemd;
 
@@ -118,13 +114,11 @@ Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.o
 
 ##### Artikel 8
 
-1. Hij, die buiten het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=5&artikel=7&z=1997-07-16&g=1997-07-16) bedoelde geval krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning ertsen voorhanden heeft, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij het hoofd schriftelijk aangifte te doen van:
+Hij, die buiten het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=5&artikel=7&z=2003-01-01&g=2003-01-01) bedoelde geval krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning ertsen voorhanden heeft, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij het hoofd schriftelijk aangifte te doen van:
 
 - a. de aard en hoeveelheid en het gemiddelde uranium- of thoriumgehalte, alsmede de herkomst van de ertsen, die hij in de loop van dat kalenderkwartaal heeft ontvangen, met vermelding van de doeleinden, waarvoor zij zijn bestemd;
 
 - b. de aard en hoeveelheid en het gemiddelde uranium- of thoriumgehalte van de ertsen, die hij op de laatste dag van dat kalenderkwartaal voorhanden heeft gehad.
-
-2. Het eerste lid is van overeenkomstige toepassing op degene, die anders dan krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning ertsen ten verkoop voorhanden heeft.
 
 ##### Artikel 9
 
@@ -138,11 +132,11 @@ Hij, die de aanwezigheid van ertsen in de bodem heeft vastgesteld in een zodanig
 
 ##### Artikel 10
 
-Onze Minister stelt nadere regelen ten aanzien van de wijze waarop de in de [artikelen 5-8](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=1997-07-16&g=1997-07-16) bedoelde aangiften dienen te geschieden.
+Onze Minister stelt nadere regelen ten aanzien van de wijze waarop de in de [artikelen 5-8](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=2003-01-01&g=2003-01-01) bedoelde aangiften dienen te geschieden.
 
 ##### Artikel 11
 
-Het niet nakomen van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=3&artikel=4&z=1997-07-16&g=1997-07-16), is een strafbaar feit.
+Het niet nakomen van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=3&artikel=4&z=2003-01-01&g=2003-01-01), is een strafbaar feit.
 
 #### § 7. Slotbepalingen
 
