@@ -4,7 +4,7 @@ identifier: "BWBR0013186"
 country: "nl"
 rank: "wet"
 publication_date: "2003-01-01"
-last_updated: "2002-07-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013186"
 soort: "wet"
@@ -43,6 +43,8 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2002 wenselijk is maatregelen te treffen inzake het arbeidsmarktbeleid, de bestrijding van de armoedeval alsmede het beloningsbeleid;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Artikelen I, onderdeel Ca, III, onderdeel Ga en VA werken gedeeltelijk terug tot en met 1 januari 2001.
 
 ### Hoofdstuk 1. Fiscale wetgeving
 
@@ -122,18 +124,18 @@ Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermind
 
 ##### Artikel X. Inwerkingtreding
 
-1. Deze wet treedt in werking met ingang van 1 januari 2002, met dien verstande dat [artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2002-07-01&g=2002-07-01), [artikel III, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2002-07-01&g=2002-07-01), en [artikel VA](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=2&artikel=VA&z=2002-07-01&g=2002-07-01) terugwerken tot en met 1 januari 2001.
+1. Deze wet treedt in werking met ingang van 1 januari 2002, met dien verstande dat [artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01), [artikel III, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2003-01-01&g=2003-01-01), en [artikel VA](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=2&artikel=VA&z=2003-01-01&g=2003-01-01) terugwerken tot en met 1 januari 2001.
 
-2. In afwijking van het eerste lid treden [artikel I, onderdeel J, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2002-07-01&g=2002-07-01), en [artikel II, onderdeel E, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=II&z=2002-07-01&g=2002-07-01), in werking met ingang van 1 april 2002.
+2. In afwijking van het eerste lid treden [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01), en [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=II&z=2003-01-01&g=2003-01-01), in werking met ingang van 1 april 2002.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdelen K, eerste lid en L](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2002-07-01&g=2002-07-01), in werking met ingang van 1 juli 2002.
+3. In afwijking van het eerste lid treden [artikel I, onderdelen K, eerste lid en L](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01), in werking met ingang van 1 juli 2002.
 
-4. In afwijking van het eerste lid treedt [artikel IA, onderdeel A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=IA&z=2002-07-01&g=2002-07-01), en [artikel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=IIA&z=2002-07-01&g=2002-07-01) in werking met ingang van 1 januari 2003.
+4. In afwijking van het eerste lid treedt [artikel IA, onderdeel A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=IA&z=2003-01-01&g=2003-01-01), en [artikel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=IIA&z=2003-01-01&g=2003-01-01) in werking met ingang van 1 januari 2003.
 
-5. In afwijking van het eerste lid treedt van het in [artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2002-07-01&g=2002-07-01), opgenomen [artikel 8.13, het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.13) in werking op een bij koninklijk besluit vast te stellen tijdstip.
+5. In afwijking van het eerste lid treedt van het in [artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01), opgenomen [artikel 8.13, het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.13) in werking op een bij koninklijk besluit vast te stellen tijdstip.
 
-6. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2002-07-01&g=2002-07-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=II&z=2002-07-01&g=2002-07-01) vinden toepassing nadat [afdeling 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=10.1) en [artikel 11, achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) bij het begin van het kalenderjaar 2002 zijn toegepast.
+6. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=I&z=2003-01-01&g=2003-01-01) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=II&z=2003-01-01&g=2003-01-01) vinden toepassing nadat [afdeling 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=10.1) en [artikel 11, achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) bij het begin van het kalenderjaar 2002 zijn toegepast.
 
-7. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2002-07-01&g=2002-07-01) vindt toepassing nadat de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30) en [30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a) bij het begin van het kalenderjaar 2002 zijn toegepast.
+7. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013186&hoofdstuk=1&artikel=III&z=2003-01-01&g=2003-01-01) vindt toepassing nadat de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30) en [30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30a) bij het begin van het kalenderjaar 2002 zijn toegepast.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
