@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2002-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -88,7 +88,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 1. De verhandelaar die een kruidenpreparaat met een bewering over de werking of eigenschappen daarvan voor de eerste keer in de handel brengt, beschikt over objectieve gegevens waaruit die werking of eigenschappen blijken.
 
-2. Dit lid is nog niet in werking getreden.
+2. De verhandelaar die een kruidenpreparaat met een bewering over de werking of eigenschappen daarvan op de datum van inwerkingtreding van dit besluit in de handel heeft, beschikt over objectieve gegevens waaruit die werking of eigenschappen blijken.
 
 3. De in het eerste en tweede lid bedoelde gegevens worden desgevraagd door de daar bedoelde verhandelaar ter beschikking gesteld van de ambtenaar die belast is met het toezicht op de naleving van dit besluit.
 
@@ -104,9 +104,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2002-01-01&g=2002-01-01) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2003-01-01&g=2003-01-01) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2002-01-01&g=2002-01-01), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2003-01-01&g=2003-01-01), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -114,7 +114,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2002-01-01&g=2002-01-01).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2003-01-01&g=2003-01-01).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
