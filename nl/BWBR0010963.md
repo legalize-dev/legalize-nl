@@ -162,25 +162,3 @@ Protocol afloop/afhandeling bijzonder voorval
 **Handtekening: Hoofd van de inrichting.**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 6.11, tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
-
-## Bijlage 2
-
-Protocol afloop/afhandeling bijzonder voorval
-
-- 1. 1. Briefnummer protocol melding bijzonder voorval:
-
-- 2. 2. Naam verpleegde:
-
-- 3. 3. Geef een beknopte beschrijving van de afloop en de afhandeling van het bijzondere voorval.
-
-**Plaats:**
-
-**Datum:**
-
-**Handtekening: Hoofd van de inrichting.**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
