@@ -176,33 +176,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet wordt aangehaald als: Wet op bijzondere medische verrichtingen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Specifieke verboden
-
-##### Artikel 6a
-
-1. Het uitvoeren van medische verrichtingen met toepassing van xenotransplantatie is verboden. Onder xenotransplantatie wordt verstaan het in- of aanbrengen van levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, in of aan het lichaam van een mens.
-
-2. Bij algemene maatregel van bestuur kan het begrip xenotransplantatie nader worden omschreven en kunnen verrichtingen waarbij naar heersend medisch inzicht onaanvaardbare risico's voor de patiënt en de volksgezondheid redelijkerwijs zijn uitgesloten, worden aangewezen waarop het in het eerste lid bedoelde verbod niet van toepassing is.
-
-### Hoofdstuk IV. Toezicht
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk IVa. Sancties
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichting.
-
-### Hoofdstuk V. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
