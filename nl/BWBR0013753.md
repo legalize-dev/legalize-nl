@@ -225,13 +225,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Voorzieningenbesluit ministers en staatssecretarissen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 15a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
