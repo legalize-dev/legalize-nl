@@ -4,7 +4,7 @@ identifier: "BWBR0002353"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-28"
-last_updated: "1998-01-01"
+last_updated: "2003-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002353"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Deze wet verstaat onder:
 
-goederen: roerende zaken in de zin van het Burgerlijk Wetboek;
+producten: roerende zaken in de zin van het Burgerlijk Wetboek;
 
 diensten: alle diensten, in de ruimste zin, met inbegrip van de verrichtingen, welke het voorwerp zijn van een verzekerings- of garantieovereenkomst, doch met uitzondering van die, welke het voorwerp zijn van een arbeidsovereenkomst;
 
@@ -57,9 +57,9 @@ College: het College van Beroep voor het bedrijfsleven.
 
 1. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad, indien er naar zijn oordeel als gevolg van een zich plotseling voordoende noodsituatie van de nationale economie, veroorzaakt door een of meer schoksgewijs optredende factoren, sprake is van een zodanig versnellende inflatie - of indien er aanwijsbare omstandigheden zijn, op grond waarvan hij kan vermoeden dat een dergelijke versnellende inflatie zal ontstaan -, dat het nemen van een zodanige maatregel is vereist:
 
-- a. voor goederen en diensten in het algemeen verbieden, voor zover het de binnenlandse markt betreft, het aanbieden, verkopen, verhuren, krachtens verkoop leveren of krachtens verhuur verschaffen van het genot van goederen, onderscheidenlijk het aanbieden of verrichten van diensten of het zich verbinden deze te verrichten, tegen hogere dan door hem aan te geven prijzen;
+- a. voor producten en diensten in het algemeen verbieden, voor zover het de binnenlandse markt betreft, het aanbieden, verkopen, verhuren, krachtens verkoop leveren of krachtens verhuur verschaffen van het genot van producten, onderscheidenlijk het aanbieden of verrichten van diensten of het zich verbinden deze te verrichten, tegen hogere dan door hem aan te geven prijzen;
 
-- b. voorschriften geven betreffende het voeren van een administratie, waaruit de vorming blijkt van de prijzen, die voor goederen of diensten, ten aanzien van welke het onder **a** bepaalde toepassing heeft gevonden, op de binnenlandse markt worden gevraagd, bedongen of in rekening gebracht.
+- b. voorschriften geven betreffende het voeren van een administratie, waaruit de vorming blijkt van de prijzen, die voor producten of diensten, ten aanzien van welke het onder **a** bepaalde toepassing heeft gevonden, op de binnenlandse markt worden gevraagd, bedongen of in rekening gebracht.
 
 2. Een regeling op grond van het eerste lid dient gepaard te gaan met de aankondiging van andere maatregelen welke in verband met het zich voordoen van de aldaar bedoelde noodsituatie vereist zijn en die ten doel hebben de inflatie te beperken.
 
@@ -73,9 +73,9 @@ Vervallen
 
 1. Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld betreffende:
 
-- a. het bekendmaken van de prijzen, waartegen goederen of diensten worden aangeboden;
+- a. het bekendmaken van de prijzen, waartegen producten of diensten worden aangeboden;
 
-- b. het in gevallen waarin prijzen worden bekendgemaakt, waartegen goederen worden aangeboden, tevens bekendmaken van de door omrekening van die prijzen verkregen geldbedragen per in die maatregel aangewezen standaardhoeveelheden van die goederen;
+- b. het bekendmaken van de prijzen per in die maatregel aangewezen meeteenheden, waartegen producten worden aangeboden;
 
 - c. het bekendmaken van de vergoedingen, die bij het bepalen van prijzen van diensten voor werkzaamheden per bij die maatregel aangewezen tijdsduur in rekening worden gebracht, en het bekendmaken van de geldbedragen, die bij het bepalen van prijzen van diensten voor materialen en onderdelen, te gebruiken bij het verrichten van die diensten, in rekening worden gebracht;
 
@@ -85,7 +85,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=1998-01-01&g=1998-01-01) of [2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=1998-01-01&g=1998-01-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
+1. Onze Minister kan van het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2003-06-11&g=2003-06-11) of [2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2003-06-11&g=2003-06-11) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
 2. De ontheffingen kunnen onder beperkingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.
 
@@ -135,9 +135,9 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 12
 
-1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=1998-01-01&g=1998-01-01), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=1998-01-01&g=1998-01-01) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
+1. Een gedraging in strijd met het krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2&z=2003-06-11&g=2003-06-11), of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=3&z=2003-06-11&g=2003-06-11) bepaalde is een misdrijf, wanneer zij opzettelijk geschiedt, en overigens een overtreding.
 
-2. Een gedraging in strijd met het bij of krachtens de [artikelen 2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=1998-01-01&g=1998-01-01), [6**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=6b&z=1998-01-01&g=1998-01-01) of - indien uitdrukkelijk aangeduid als strafbaar feit - 11 bepaalde, is een overtreding.
+2. Een gedraging in strijd met het bij of krachtens de [artikelen 2**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=2b&z=2003-06-11&g=2003-06-11), [6**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002353&artikel=6b&z=2003-06-11&g=2003-06-11) of - indien uitdrukkelijk aangeduid als strafbaar feit - 11 bepaalde, is een overtreding.
 
 ##### Artikel 13
 
