@@ -243,27 +243,3 @@ De voordracht tot wijziging van een algemene maatregel van bestuur als bedoeld i
 2. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1c
-
-Ingeval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646) en [647 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647) van overeenkomstige toepassing.
-
-##### Artikel 4a
-
-1. Het is niet toegelaten onderscheid te maken bij het lidmaatschap van of de betrokkenheid bij een werknemers- of werkgeversorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
-
-2. Iedere bepaling die in strijd is met het eerste lid is nietig.
-
-#### § 2. Gelijke beloning voor arbeid van gelijke waarde
-
-#### § 3. Gelijke behandeling wat betreft pensioenvoorzieningen
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 23a
-
-De [artikelen 1 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003299&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) van deze wet zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
