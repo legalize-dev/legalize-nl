@@ -4,7 +4,7 @@ identifier: "BWBV0001698"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-04-01"
-last_updated: "2003-09-03"
+last_updated: "2005-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001698"
 soort: "verdrag"
@@ -110,7 +110,7 @@ De Accreditatieorganisatie bestaat in ieder geval uit een Bestuur en een Adviesr
 
 1. Het Bestuur wordt geregeld door een Bestuursreglement. Het Bestuursreglement treft ten minste op de volgende punten een regeling:
 
-- a. het voorzien in een Dagelijks Bestuur, waarbij de benoeming van de leden, waaronder de voorzitter en de vice-voorzitter, overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=2&artikel=5&z=2003-09-03&g=2003-09-03), geschiedt,
+- a. het voorzien in een Dagelijks Bestuur, waarbij de benoeming van de leden, waaronder de voorzitter en de vice-voorzitter, overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=2&artikel=5&z=2005-02-01&g=2005-02-01), geschiedt,
 
 - b. het voorzien in een bureau,
 
@@ -206,7 +206,7 @@ Dit Verdrag is van toepassing op het Europese deel van het Koninkrijk der Nederl
 
 ##### 1
 
-Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2003-09-03&g=2003-09-03) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
+Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2005-02-01&g=2005-02-01) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
 
 ##### 2
 
