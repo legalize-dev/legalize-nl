@@ -326,21 +326,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatsc
 Deze regeling wordt aangehaald als: Regeling examinatoren voor luchtvarenden 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
-
-### Hoofdstuk 2. Geautoriseerde examinatoren
-
-#### § 2.1. Algemeen
-
-#### § 2.2. Afgifte en verlenging
-
-#### § 2.3. Aftekenbevoegdheid
-
-### Hoofdstuk 3. Senior-examinatoren
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
