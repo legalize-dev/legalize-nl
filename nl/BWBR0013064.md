@@ -135,31 +135,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Muntwet 2002.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. Beleggingsmunten zijn:
-
-- a. een gouden munt van tweehonderdvijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,093 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- b. een gouden munt van honderd-euro met een goudgehalte van 999,9 duizendste, een gewicht van 15,552 gram met een afwijking van ten hoogste 0,078 gram en een middellijn van 28,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- c. een gouden munt van vijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 7,776 gram met een afwijking van ten hoogste 0,062 gram en een middellijn van 22,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- d. een gouden munt van vijfentwintig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 3,110 gram met een afwijking van ten hoogste 0,037 gram en een middellijn van 16,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
-
-- e. een zilveren munt van tweeëneenhalve-euro met een zilvergehalte van 999 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,25 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter.
-
-2. De beeldenaar van de beleggingsmunten is op de voorzijde de beeltenis en de naam van de Koning (Koningin) met de woorden «Koning (Koningin) der Nederlanden» en op de keerzijde het Gekroond rijkswapen met daaronder de tekst «Nederland», de waardeaanduiding, het gehalte edelmetaal, het jaartal van uitgifte, het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
-
-3. De beleggingsmunten hebben een geribbelde rand.
-
-##### Artikel 6a
-
-1. De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.
-
-2. De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
-
-3. Het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester worden bij ministeriële regeling vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
