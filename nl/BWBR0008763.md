@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-07-01"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Huursubsidiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659);
 
-- b. verklaring van de voorzitter van de huurcommissie: verklaring als bedoeld in [artikel 3**a** van de Wet op de huurcommissies](https://wetten.overheid.nl/jci1.3:c:BWBR0003222&artikel=3a), omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte.
+- b. verklaring van de voorzitter van de huurcommissie: verklaring als bedoeld in [artikel 6, onder b, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=6), omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte.
 
 ### HOOFDSTUK 2. WAARDERINGSGRONDSLAG MOTORRIJTUIGEN
 
@@ -66,7 +66,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt kan op voet van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=6&paragraaf=2&artikel=11&z=2001-07-01&g=2002-07-01), van de wet, slechts door Onze Minister worden aangewezen indien:
+1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt kan op voet van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=6&paragraaf=2&artikel=11&z=2003-08-01&g=2003-08-01), van de wet, slechts door Onze Minister worden aangewezen indien:
 
 - a. de woonruimte geschikt en bestemd is voor begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom is van een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is, en
 
@@ -122,7 +122,7 @@ De verklaring van de voorzitter van de huurcommissie wordt als volgt verkregen:
 
 ##### Artikel 6
 
-1. De voorzitter van de huurcommissie vermeldt op de verklaring de hoogte van de huurprijs en of deze redelijk is, beoordeeld naar de bij of krachtens de [Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) gestelde regels.
+1. De voorzitter van de huurcommissie vermeldt op de verklaring de hoogte van de huurprijs en of deze redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels.
 
 2. Het eerste lid is niet van toepassing in een geval als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13).
 
