@@ -4,7 +4,7 @@ identifier: "BWBR0007746"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-08-15"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007746"
 soort: "wet"
@@ -70,9 +70,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. toetsloon: het in het desbetreffende hoofdstuk van deze wet opgenomen bedrag aan loon waarboven of waaronder de inhoudingsplichtige niet in aanmerking komt voor de in dat hoofdstuk voorziene afdrachtvermindering;
 
-- e. Vervallen.
+- e. kinderopvang: opvang van kinderen die jonger zijn dan 13 jaar welke voldoet aan de regels die krachtens [artikel 20 van de Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705&artikel=20) bij gemeentelijke verordening zijn gesteld met betrekking tot de kwaliteit van de opvang, of welke voldoet aan bij ministeriële regeling aan te wijzen buitenlandse regelingen die naar aard en strekking overeenkomen met de krachtens [artikel 20 van de Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705&artikel=20) bij gemeentelijke verordening gestelde regels;
 
-- f. scholing: cursussen alsmede opleidingen of studies voor een beroep als bedoeld in [artikel 3.48 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.48);.
+- f. vervallen;
 
 - g. ouderschapsverlof: het ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6);
 
@@ -114,7 +114,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - p. Vervallen.
 
-- q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2003-08-15&g=2003-08-15) aan een S&O-inhoudingsplichtige of een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk.
+- q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2004-01-01&g=2004-01-01) aan een S&O-inhoudingsplichtige of een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk.
 
 2. Voor de toepassing van het eerste lid, onderdeel c, wordt:
 
@@ -132,7 +132,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De in deze wet bedoelde ministeriële regelingen worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen bedoeld in:
 
-- a. de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2003-08-15&g=2003-08-15) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15) in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2004-01-01&g=2004-01-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01) in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - b. artikel 14 in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
@@ -156,11 +156,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. de afdrachtvermindering lage lonen;
 
-- b. Vervallen.
+- b. vervallen;
 
 - c. de afdrachtvermindering onderwijs;
 
-- d. de afdrachtvermindering scholing;
+- d. vervallen;
 
 - e. de afdrachtvermindering kinderopvang;
 
@@ -172,7 +172,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - i. de arbo-afdrachtvermindering.
 
-2. De afdrachtvermindering lage lonen, de afdrachtvermindering scholing, de afdrachtvermindering kinderopvang, de afdrachtvermindering betaald ouderschapsverlof en de S&O-afdrachtvermindering komen in mindering op de af te dragen loonbelasting. Uitsluitend voor de toepassing van de vorige volzin door de inhoudingsplichtige wordt af te dragen premie voor de volksverzekeringen gelijkgesteld met af te dragen loonbelasting.
+2. De afdrachtvermindering lage lonen, de afdrachtvermindering kinderopvang, de afdrachtvermindering betaald ouderschapsverlof en de S&O-afdrachtvermindering komen in mindering op de af te dragen loonbelasting. Uitsluitend voor de toepassing van de vorige volzin door de inhoudingsplichtige wordt af te dragen premie voor de volksverzekeringen gelijkgesteld met af te dragen loonbelasting.
 
 3. De afdrachtvermindering onderwijs, de afdrachtvermindering zeevaart en de arbo-afdrachtvermindering komen in mindering op de af te dragen loonbelasting en premie voor de volksverzekeringen.
 
@@ -184,31 +184,31 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 1. Met betrekking tot een werknemer met een volledige arbeidsduur bedraagt:
 
-- a. de afdrachtvermindering lage lonen per kalenderjaar: € 1687;
+- a. de afdrachtvermindering lage lonen per kalenderjaar: € 1093;
 
-- b. Vervallen.
+- b. vervallen;
 
-- c. de afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15), bedoelde werknemers: € 2485 per kalenderjaar. De afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15), bedoelde werknemer: € 1583 per kalenderjaar;
+- c. de afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), bedoelde werknemers: € 2 500 per kalenderjaar. De afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), bedoelde werknemer: € 1 500 per kalenderjaar;
 
-2. De afdrachtvermindering scholing beloopt een bedrag te bepalen op de voet van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VA&z=2003-08-15&g=2003-08-15).
+2. Vervallen.
 
-3. De afdrachtvermindering kinderopvang beloopt een bedrag te bepalen op de voet van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VI&z=2003-08-15&g=2003-08-15).
+3. De afdrachtvermindering kinderopvang beloopt een bedrag te bepalen op de voet van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VI&z=2004-01-01&g=2004-01-01).
 
-4. De afdrachtvermindering betaald ouderschapsverlof beloopt een bedrag te bepalen op de voet van [hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&z=2003-08-15&g=2003-08-15).
+4. De afdrachtvermindering betaald ouderschapsverlof beloopt een bedrag te bepalen op de voet van [hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&z=2004-01-01&g=2004-01-01).
 
-5. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2003-08-15&g=2003-08-15).
+5. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2004-01-01&g=2004-01-01).
 
-6. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2003-08-15&g=2003-08-15).
+6. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2004-01-01&g=2004-01-01).
 
-7. De arbo-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&z=2003-08-15&g=2003-08-15).
+7. De arbo-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&z=2004-01-01&g=2004-01-01).
 
-8. Ingeval de som van de afdrachtvermindering lage lonen en de afdrachtvermindering onderwijs op de voet van de vorige leden meer dan € 3363 bedraagt, wordt de afdrachtvermindering lage lonen zodanig verlaagd dat de bedoelde som € 3363 bedraagt.
+8. Ingeval de som van de afdrachtvermindering lage lonen en de afdrachtvermindering onderwijs op de voet van de vorige leden meer dan € 3405 bedraagt, wordt de afdrachtvermindering lage lonen zodanig verlaagd dat de bedoelde som € 3405 bedraagt.
 
 9. De in het eerste lid opgenomen bedragen, alsmede het toetsloon, worden naar tijdsgelang verdeeld over de loontijdvakken van het kalenderjaar. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de werknemer wiens dienstbetrekking niet gedurende het gehele kalenderjaar heeft bestaan.
 
 ##### Artikel 6
 
-1. De in [artikel 5, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2003-08-15&g=2003-08-15), opgenomen bedragen alsmede het toetsloon worden naar evenredigheid verminderd met betrekking tot:
+1. De in [artikel 5, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2004-01-01&g=2004-01-01), opgenomen bedragen alsmede het toetsloon worden naar evenredigheid verminderd met betrekking tot:
 
 - a. de werknemer met een overeengekomen arbeidsduur die korter is dan de volledige arbeidsduur;
 
@@ -224,7 +224,7 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 ##### Artikel 7
 
-De afdrachtvermindering lage lonen is van toepassing met betrekking tot de werknemer die de leeftijd heeft bereikt van 23 jaren en wiens loon in het desbetreffende loontijdvak niet meer bedraagt dan diens toetsloon voor dat tijdvak. Het toetsloon voor de afdrachtvermindering lage lonen bedraagt per kalenderjaar: € 17 576.
+De afdrachtvermindering lage lonen is van toepassing met betrekking tot de werknemer die de leeftijd heeft bereikt van 23 jaren en wiens loon in het desbetreffende loontijdvak niet meer bedraagt dan diens toetsloon voor dat tijdvak. Het toetsloon voor de afdrachtvermindering lage lonen bedraagt per kalenderjaar: € 17 806.
 
 ##### Artikel 7a
 
@@ -260,7 +260,7 @@ Vervallen
 
 ##### Artikel 13a
 
-In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2003-08-15&g=2003-08-15), wordt voor de toepassing van dit hoofdstuk het loon tevens verminderd met toeslagen die verband houden met ploegendiensten dan wel met onregelmatige diensten.
+In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01), wordt voor de toepassing van dit hoofdstuk het loon tevens verminderd met toeslagen die verband houden met ploegendiensten dan wel met onregelmatige diensten.
 
 ##### Artikel 14
 
@@ -280,23 +280,21 @@ In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl
 
 2. De in het eerste lid, onderdeel f, bedoelde persoon wordt voor de toepassing van deze wet en de krachtens deze wet uitgevaardigde regelingen, aangemerkt als werknemer met een volledige arbeidsduur.
 
-3. Het eerste lid, aanhef en onderdelen a en d, is niet van toepassing ingeval het loon van die werknemer die jonger is dan 25 jaar in het desbetreffende loontijdvak meer bedraagt dan diens toetsloon voor dat tijdvak. Het toetsloon voor de afdrachtvermindering onderwijs bedraagt € 20 533 per kalenderjaar.
+3. Het eerste lid, aanhef en onderdelen a en d, is niet van toepassing ingeval het loon van die werknemer die jonger is dan 25 jaar in het desbetreffende loontijdvak meer bedraagt dan diens toetsloon voor dat tijdvak. Het toetsloon voor de afdrachtvermindering onderwijs bedraagt € 20 793 per kalenderjaar.
 
-4. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdelen b en c, is met betrekking tot een werknemer gedurende ten hoogste 48 maanden van toepassing. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdeel d, is met betrekking tot een werknemer ten hoogste 24 maanden van toepassing. Indien [artikel 6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2003-08-15&g=2003-08-15), met betrekking tot een werknemer toepassing vindt, wordt de termijn van 48 maanden onderscheidenlijk 24 maanden met betrekking tot deze werknemer naar evenredigheid verlengd.
+4. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdelen b en c, is met betrekking tot een werknemer gedurende ten hoogste 48 maanden van toepassing. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdeel d, is met betrekking tot een werknemer ten hoogste 24 maanden van toepassing. Indien [artikel 6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2004-01-01&g=2004-01-01), met betrekking tot een werknemer toepassing vindt, wordt de termijn van 48 maanden onderscheidenlijk 24 maanden met betrekking tot deze werknemer naar evenredigheid verlengd.
 
 5. Het eerste lid, aanhef en onderdeel e, is niet van toepassing indien:
 
-- a. de werknemer op het tijdstip waarop deze de opleiding begint te volgen jonger is dan 23 jaar;
+- a. het loon van de werknemer in het desbetreffende loontijdvak meer bedraagt dan het in het derde lid, tweede volzin, genoemde toetsloon, of
 
-- b. het loon van de werknemer in het desbetreffende loontijdvak meer bedraagt dan het in het tweede lid, tweede volzin, genoemde toetsloon, of
-
-- c. de werkgever niet over een verklaring beschikt waarin de Centrale organisatie werk en inkomen verklaart dat de werknemer vóór indiensttreding een werkloze is.
+- b. de werkgever niet over een verklaring beschikt waarin de Centrale organisatie werk en inkomen verklaart dat de werknemer vóór indiensttreding een werkloze is.
 
 6. De inhoudingsplichtige bewaart een afschrift van de in het eerste lid, onderdelen a, b, c, d en f, bedoelde overeenkomst bij de loonadministratie.
 
 7. Bij ministeriële regeling kan worden bepaald welke gegevens de in het eerste lid, onderdelen a, b, c,d en f, bedoelde overeenkomsten ten minste dienen te bevatten voor de toepassing van deze wet alsmede welke partij of partijen de administratie voert onderscheidenlijk voeren die voortvloeit uit de overeenkomsten, bedoeld in het eerste lid, onderdeel d.
 
-8. De inhoudingsplichtige bewaart een afschrift van de in het vijfde lid, onderdeel c, bedoelde verklaring bij de loonadministratie.
+8. De inhoudingsplichtige bewaart een afschrift van de in het vijfde lid, onderdeel b, bedoelde verklaring bij de loonadministratie.
 
 ##### Artikel 15
 
@@ -306,33 +304,23 @@ Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenscha
 
 ##### Artikel 15a
 
-1. De afdrachtvermindering scholing is van toepassing met betrekking tot kosten van scholing van bij de inhoudingsplichtige werkzame personen indien of voorzover de inhoudingsplichtige niet is onderworpen aan de inkomstenbelasting of de vennootschapsbelasting en de kosten niet in die hoedanigheid zijn gemaakt. De afdrachtvermindering beloopt 12 percent van het bedrag dat de inhoudingsplichtige in het loontijdvak direct, dan wel indirect door middel van vergoedingen aan die personen, heeft betaald voor scholing, met dien verstande dat per kalenderjaar tot en met een bedrag van € 31 000 aan kosten de afdrachtvermindering 19 percent beloopt indien het totaal van de kosten in het kalenderjaar niet uitgaat boven € 129 000. De afdrachtvermindering wordt verhoogd met 7 percent van het bedrag dat de inhoudingsplichtige heeft betaald voor scholing die is gericht op het op een startkwalificatieniveau brengen van personen die dat niveau missen; bij ministeriële regeling wordt bepaald welke vormen van scholing zijn gericht op het op een startkwalificatieniveau brengen van personen die dat niveau missen. De afdrachtvermindering bedraagt ten hoogste € 794 115 per kalenderjaar.
-
-2. De in het eerste lid, tweede en derde volzin, bedoelde bedragen aan kosten worden verminderd met de door de inhoudingsplichtige van derden ontvangen of nog te ontvangen bedragen ter zake van scholing, met het bedrag dat door de in het eerste lid bedoelde personen ter zake van scholing aan de inhoudingsplichtige is vergoed en met het bedrag dat op voorschotten is terugbetaald. In afwijking van de eerste volzin worden door de inhoudingsplichtige direct of indirect van rijkswege of in samenhang daarmee van derden ontvangen bijdragen in de kosten van scholing niet in mindering gebracht op de in het eerste lid, tweede en derde volzin, bedoelde bedragen. Voor de situatie waarin indirect van rijkswege of in samenhang daarmee van derden een bijdrage wordt ontvangen kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de wijze waarop wordt bepaald welk deel daarvan van rijkswege is verstrekt.
-
-3. Onder kosten van scholing worden begrepen bijdragen aan een fonds dat zich geheel of nagenoeg geheel bezig houdt met de financiering van scholing en aanverwante activiteiten voorzover die bijdragen zijn verschuldigd ingevolge een collectieve arbeidsovereenkomst en door het fonds worden benut voor scholing. Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een goede uitvoering van de eerste volzin.
-
-4. Voor de toepassing van dit artikel wordt met betaald zijn van kosten gelijkgesteld het verrekend zijn of het rentedragend zijn geworden van die kosten dan wel het ter beschikking gesteld zijn van de betaling.
-
-5. De in het eerste lid vermelde percentages kunnen bij ministeriële regeling worden vervangen door andere. Uiterlijk binnen drie maanden na het tijdstip waarop deze ministeriële regeling in werking treedt, wordt een voorstel van wet tot goedkeuring van die regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers der Staten-Generaal tot het niet aannemen van het voorstel besluit, worden onverwijld bij ministeriële regeling de vervangen percentages met ingang van het tijdstip waarop laatstgenoemde regeling in werking treedt, vervangen door de percentages zoals die golden onmiddellijk vóór het in de eerste volzin bedoelde tijdstip.
-
-6. De in het eerste lid, tweede volzin, vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) worden vastgesteld ter vervanging van de in [artikel 3.48, derde lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.48) vermelde bedragen.
+Vervallen
 
 ### Hoofdstuk VI. Afdrachtvermindering kinderopvang
 
 ##### Artikel 16
 
-1. De afdrachtvermindering kinderopvang is van toepassing met betrekking tot kosten van opvang van kinderen en pleegkinderen die jonger dan 13 jaar zijn, van werknemers. De afdrachtvermindering beloopt 30 percent van het bedrag dat de inhoudingsplichtige ter zake van dergelijke opvang in het loontijdvak direct, dan wel indirect door middel van vergoedingen aan werknemers, heeft betaald voor kinderopvang waarvoor krachtens [artikel 20, eerste lid, van de Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705&artikel=20) bij gemeentelijke verordening regels zijn gesteld met betrekking tot de kwaliteit of die voldoet aan bij ministeriële regeling aan te wijzen buitenlandse regelingen die naar aard en strekking overeenkomen met de krachtens [artikel 20 van de Welzijnswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006705&artikel=20) bij gemeentelijke verordening gestelde regels. Voor zover de kinderopvang bij de werknemer thuis plaatsvindt, wordt het in de tweede volzin bedoelde bedrag tot ten hoogste € 9400 per kind per kalenderjaar in aanmerking genomen. Het in de tweede volzin bedoelde bedrag wordt verminderd met de door de inhoudingsplichtige ter zake van de kinderopvang van derden ontvangen of nog te ontvangen bedragen, met het bedrag dat door de werknemers ter zake van de kinderopvang aan de inhoudingsplichtige is vergoed en met het bedrag dat op voorschotten is terugbetaald.
+1. De afdrachtvermindering kinderopvang is van toepassing met betrekking tot kosten van kinderopvang van kinderen en pleegkinderen van werknemers. De afdrachtvermindering beloopt 50 percent van het bedrag dat de inhoudingsplichtige ter zake van kinderopvang in het loontijdvak direct, dan wel indirect door middel van vergoedingen aan werknemers, heeft betaald voor kinderopvang, voorzover dat bedrag per kalenderjaar niet meer bedraagt dan € 21 400, en 30 percent van dat bedrag voorzover dat bedrag per kalenderjaar meer bedraagt dan € 21 400. Voorzover de kinderopvang bij de werknemer thuis plaatsvindt, wordt als bedrag dat de inhoudingsplichtige ter zake van kinderopvang direct, dan wel indirect door middel van vergoedingen aan werknemers, heeft betaald voor kinderopvang, ten hoogste € 9626 per kind per kalenderjaar in aanmerking genomen. Het bedrag dat de inhoudingsplichtige ter zake van kinderopvang direct, dan wel indirect door middel van vergoedingen aan werknemers, heeft betaald voor kinderopvang wordt verminderd met de door de inhoudingsplichtige ter zake van de kinderopvang van derden ontvangen of nog te ontvangen bedragen, met het bedrag dat door de werknemers ter zake van de kinderopvang aan de inhoudingsplichtige is vergoed en met het bedrag dat op voorschotten is terugbetaald.
 
 2. Het eerste lid is van overeenkomstige toepassing ingeval de betaling door de inhoudingsplichtige geschiedt aan een fonds dat zich geheel of nagenoeg geheel bezig houdt met de financiering van kinderopvang, bedoeld in het eerste lid, voor zover de inhoudingsplichtige een collectieve arbeidsovereenkomst heeft die in zodanige betaling voorziet.
 
-3. Ingeval de inhoudingsplichtige zelf kinderopvang als bedoeld in het eerste lid verricht beloopt de afdrachtvermindering kinderopvang 30 percent van de daaraan toe te rekenen kosten, verminderd met de door de inhoudingsplichtige ter zake van de kinderopvang van derden ontvangen of nog te ontvangen bedragen en met het bedrag dat de werknemers ter zake van de kinderopvang in rekening wordt gebracht. Bij ministeriële regeling worden regels gesteld ter bepaling van de aan de kinderopvang toe te rekenen kosten.
+3. Ingeval de inhoudingsplichtige zelf kinderopvang als bedoeld in het eerste lid verricht beloopt de afdrachtvermindering kinderopvang 50 dan wel 30 percent van de daaraan toe te rekenen kosten, verminderd met de door de inhoudingsplichtige ter zake van de kinderopvang van derden ontvangen of nog te ontvangen bedragen en met het bedrag dat de werknemers ter zake van de kinderopvang in rekening wordt gebracht. Bij ministeriële regeling worden regels gesteld ter bepaling van de aan de kinderopvang toe te rekenen kosten.
 
 4. In afwijking van het eerste en het derde lid worden door de inhoudingsplichtige direct of indirect van rijkswege of in samenhang daarmee van derden ontvangen bijdragen in de kosten voor kinderopvang niet in mindering gebracht op de kosten waarover de afdrachtvermindering kinderopvang wordt berekend. Voor de situatie waarin indirect van rijkswege of in samenhang daarmee van derden een bijdrage wordt ontvangen kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de wijze waarop wordt bepaald welk deel daarvan van rijkswege is verstrekt.
 
 5. Voor de toepassing van het eerste en het tweede lid wordt met betaald zijn van kosten gelijkgesteld het verrekend zijn of het rentedragend zijn geworden van die kosten dan wel het ter beschikking gesteld zijn van de betaling.
 
-6. Het in het eerste lid vermelde bedrag wordt bij het begin van het kalenderjaar van rechtswege vervangen door het bedrag dat krachtens [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) wordt vastgesteld ter vervanging van de in [artikel 3.143 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.143) vermelde bedragen.
+6. Het in het eerste lid, derde volzin, vermelde bedrag wordt bij het begin van het kalenderjaar van rechtswege vervangen door het bedrag dat krachtens [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) wordt vastgesteld ter vervanging van de in [artikel 3.143 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.143) vermelde bedragen.
 
 ##### Artikel 16a
 
@@ -346,35 +334,35 @@ Onze minister kan, zo nodig onder voorwaarden, toestaan dat de toepassing van de
 
 De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waarop de werknemer op grond van [artikel 6:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) recht heeft. De afdrachtvermindering beloopt 50 percent van het doorbetaalde loon met een maximum per werknemer per kalenderjaar van
 
-| indien de werknemer de leeftijd heeft bereikt van | doch niet de leeftijd van | doch niet de leeftijd van |
+| indien de werknemer de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 3 361 |
-| 16 jaren | 17 jaren: | € 3 865 |
-| 17 jaren | 18 jaren: | € 4 425 |
-| 18 jaren | 19 jaren: | € 5 097 |
-| 19 jaren | 20 jaren: | € 5 881 |
-| 20 jaren | 21 jaren: | € 6 889 |
-| 21 jaren | 22 jaren: | € 8 121 |
-| 22 jaren | 23 jaren: | € 9 522 |
-| 23 jaren: |   | € 11 202 |
+| 15 jaren | 16 jaren: | € 3 403 |
+| 16 jaren | 17 jaren: | € 3 913 |
+| 17 jaren | 18 jaren: | € 4 480 |
+| 18 jaren | 19 jaren: | € 5 161 |
+| 19 jaren | 20 jaren: | € 5 955 |
+| 20 jaren | 21 jaren: | € 6 975 |
+| 21 jaren | 22 jaren: | € 8 223 |
+| 22 jaren | 23 jaren: | € 9 641 |
+| 23 jaren: |   | € 11 342 |
 
-[Artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2003-08-15&g=2003-08-15), is van overeenkomstige toepassing.
+[Artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 2. Het toetsloon voor de afdrachtvermindering betaald ouderschapsverlof bedraagt per kalenderjaar
 
-| indien de werknemer de leeftijd heeft bereikt van | doch niet de leeftijd van | doch niet de leeftijd van |
+| indien de werknemer de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 3 361 |
-| 16 jaren | 17 jaren: | € 3 865 |
-| 17 jaren | 18 jaren: | € 4 425 |
-| 18 jaren | 19 jaren: | € 5 097 |
-| 19 jaren | 20 jaren: | € 5 881 |
-| 20 jaren | 21 jaren: | € 6 889 |
-| 21 jaren | 22 jaren: | € 8 121 |
-| 22 jaren | 23 jaren: | € 9 522 |
-| 23 jaren: |   | € 11 202 |
+| 15 jaren | 16 jaren: | € 3 403 |
+| 16 jaren | 17 jaren: | € 3 913 |
+| 17 jaren | 18 jaren: | € 4 480 |
+| 18 jaren | 19 jaren: | € 5 161 |
+| 19 jaren | 20 jaren: | € 5 955 |
+| 20 jaren | 21 jaren: | € 6 975 |
+| 21 jaren | 22 jaren: | € 8 223 |
+| 22 jaren | 23 jaren: | € 9 641 |
+| 23 jaren: |   | € 11 342 |
 
-3. Op het toetsloon is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2003-08-15&g=2003-08-15) niet van toepassing. Het toetsloon en het maximum van de afdrachtvermindering worden naar evenredigheid verminderd met betrekking tot de werknemer wiens ouderschapsverlof een kortere duur heeft dan de volledige arbeidsduur in de zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2003-08-15&g=2003-08-15).
+3. Op het toetsloon is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2004-01-01&g=2004-01-01) niet van toepassing. Het toetsloon en het maximum van de afdrachtvermindering worden naar evenredigheid verminderd met betrekking tot de werknemer wiens ouderschapsverlof een kortere duur heeft dan de volledige arbeidsduur in de zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2004-01-01&g=2004-01-01).
 
 4. Volgens bij ministeriële regeling te stellen regels worden de afspraken tussen inhoudingsplichtige en werknemer met betrekking tot het opnemen van betaald ouderschapsverlof en de hoogte van het doorbetaalde loon per kind waarvoor ouderschapsverlof wordt opgenomen, schriftelijk vastgelegd en door beide partijen ondertekend. De inhoudingsplichtige bewaart een afschrift van deze overeenkomst bij de loonadministratie.
 
@@ -394,7 +382,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 - c. met betrekking tot de zeevarende die niet aan de loonbelasting is onderworpen en premieplichtig is voor de volksverzekeringen: 10 percent.
 
-3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2003-08-15&g=2003-08-15), niet van toepassing.
+3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01), niet van toepassing.
 
 4. De in het tweede lid vermelde percentages kunnen bij ministeriële regeling met ingang van een kalenderkwartaal worden vervangen door andere.
 
@@ -402,7 +390,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 ##### Artikel 18
 
-1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2003-08-15&g=2003-08-15), bedoelde loon en van het bedrag van de afdrachtvermindering zeevaart.
+1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2004-01-01&g=2004-01-01), bedoelde loon en van het bedrag van de afdrachtvermindering zeevaart.
 
 2. De inhoudingsplichtige bewaart en registreert met betrekking tot het schip of de schepen waarop een of meer zeevarenden werkzaam zijn met betrekking tot wie de afdrachtvermindering zeevaart wordt toegepast:
 
@@ -420,7 +408,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 ##### Artikel 19
 
-Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2003-08-15&g=2003-08-15) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
+Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2004-01-01&g=2004-01-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
 
 ##### Artikel 20
 
@@ -430,11 +418,11 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 21
 
-1. De S&O-afdrachtvermindering is van toepassing met betrekking tot werknemers die direct betrokken zijn bij werk dat bij S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk. De afdrachtvermindering beloopt 40 percent van het loon dat door die werknemers in het kalenderjaar is genoten ter zake van bedoeld speur- en ontwikkelingswerk voor zover dat loon in totaal niet meer bedraagt dan € 90 756, en 13 percent van dat loon voor zover dat in totaal meer bedraagt dan € 90 756. Als loon bedoeld in de vorige volzin wordt in totaal niet meer in aanmerking genomen dan het bedrag dat in de S&O-verklaring is aangemerkt als ten hoogste in aanmerking te nemen loon. De S&O-afdrachtvermindering bedraagt over een kalenderjaar maximaal € 7 941 154 per inhoudingsplichtige dan wel, ingeval de inhoudingsplichtige, beoordeeld naar de op het tijdstip waarop hij om de S&O-verklaring verzoekt bekende feiten en omstandigheden, bij de aanvang van het tijdvak waarop het verzoek betrekking heeft deel uitmaakt van een fiscale eenheid, per fiscale eenheid. In het laatste geval bedraagt de afdrachtvermindering per inhoudingsplichtige ten hoogste het in de S&O-verklaring aangegeven deel van het maximum van € 7 941 154.
+1. De S&O-afdrachtvermindering is van toepassing met betrekking tot werknemers die direct betrokken zijn bij werk dat bij S&O-verklaring is aangemerkt als speur- en ontwikkelingswerk. De afdrachtvermindering beloopt 42 percent van het loon dat door die werknemers in het kalenderjaar is genoten ter zake van bedoeld speur- en ontwikkelingswerk voor zover dat loon in totaal niet meer bedraagt dan € 110 000, en 14 percent van dat loon voor zover dat in totaal meer bedraagt dan € 110 000. Als loon bedoeld in de vorige volzin wordt in totaal niet meer in aanmerking genomen dan het bedrag dat in de S&O-verklaring is aangemerkt als ten hoogste in aanmerking te nemen loon. De S&O-afdrachtvermindering bedraagt over een kalenderjaar maximaal € 7 941 154 per inhoudingsplichtige dan wel, ingeval de inhoudingsplichtige, beoordeeld naar de op het tijdstip waarop hij om de S&O-verklaring verzoekt bekende feiten en omstandigheden, bij de aanvang van het tijdvak waarop het verzoek betrekking heeft deel uitmaakt van een fiscale eenheid, per fiscale eenheid. In het laatste geval bedraagt de afdrachtvermindering per inhoudingsplichtige ten hoogste het in de S&O-verklaring aangegeven deel van het maximum van € 7 941 154.
 
-2. Indien de inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven, wordt het in het eerste lid vermelde percentage van 40 vervangen door 60. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar
+2. Het in het eerste lid vermelde percentage van 42 wordt vervangen door 60 indien de inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van [artikel 10a, zevende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a), dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de [Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
 
-3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2003-08-15&g=2003-08-15), niet van toepassing.
+3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01), niet van toepassing.
 
 4. Bij wijze van voorlopige voorziening kan niet meer dan een tijdsevenredig gedeelte van het op de voet van het eerste lid ten hoogste te belopen bedrag aan S&O-afdrachtvermindering in mindering worden gebracht op de over de ten tijde van de dagtekening van de S&O-verklaring nog niet verstreken tijdvakken van het kalenderjaar af te dragen loonbelasting (voorlopige S&O-afdrachtvermindering). De voorlopige S&O-afdrachtvermindering kan de over het tijdvak af te dragen loonbelasting niet verder verminderen dan tot nihil.
 
@@ -442,7 +430,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 22
 
-1. De inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, doet binnen vier maanden na afloop van het kalenderjaar aangifte van het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2003-08-15&g=2003-08-15), bedoelde loon, van het bedrag van de S&O-afdrachtvermindering en van de over het kalenderjaar toegepaste voorlopige S&O-afdrachtverminderingen.
+1. De inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, doet binnen vier maanden na afloop van het kalenderjaar aangifte van het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2004-01-01&g=2004-01-01), bedoelde loon, van het bedrag van de S&O-afdrachtvermindering en van de over het kalenderjaar toegepaste voorlopige S&O-afdrachtverminderingen.
 
 2. Indien uit de in het eerste lid bedoelde aangifte blijkt dat het totaal der voorlopige S&O-afdrachtverminderingen:
 
@@ -452,7 +440,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 3. Indien de S&O-verklaring wordt afgegeven na afloop van het kalenderjaar waarop de verklaring betrekking heeft, doet de inhoudingsplichtige binnen vier maanden na de dagtekening van de verklaring aangifte van het in het eerste lid bedoelde loon en van het bedrag van de S&O-afdrachtvermindering. De aangifte geldt als verzoek om teruggaaf en de inspecteur geeft het bedrag van de S&O-afdrachtvermindering terug bij voor bezwaar vatbare beschikking.
 
-4. Indien een S&O-verklaring is gewijzigd, treedt voor de toepassing van dit hoofdstuk de gewijzigde S&O-verklaring in de plaats van de eerdere S&O-verklaring en worden de nog toe te passen voorlopige S&O-afdrachtverminderingen zodanig aangepast dat over het kalenderjaar het totaal der voorlopige S&O-afdrachtverminderingen niet meer bedraagt dan het op de voet van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2003-08-15&g=2003-08-15), ten hoogste te belopen bedrag aan S&O-afdrachtvermindering. Ingeval een zodanige aanpassing niet mogelijk is omdat het totaal der reeds toegepaste voorlopige S&O-afdrachtverminderingen meer bedraagt dan het ten hoogste te belopen bedrag aan S&O-afdrachtvermindering, doet de inhoudingsplichtige, vooruitlopend op de in het eerste lid bedoelde aangifte, onverwijld aangifte van die gegevens en draagt hij gelijktijdig het verschil op de aangifte af. Hetgeen op deze wijze is afgedragen wordt tevens vermeld in de in het eerste lid bedoelde aangifte en komt in mindering op het totaal der in die aangifte aangegeven voorlopige S&O-afdrachtverminderingen. Ingeval de inhoudingsplichtige op het tijdstip waarop hij kennis neemt van de gewijzigde verklaring reeds aangifte heeft gedaan als bedoeld in het eerste of het derde lid, en
+4. Indien een S&O-verklaring is gewijzigd, treedt voor de toepassing van dit hoofdstuk de gewijzigde S&O-verklaring in de plaats van de eerdere S&O-verklaring en worden de nog toe te passen voorlopige S&O-afdrachtverminderingen zodanig aangepast dat over het kalenderjaar het totaal der voorlopige S&O-afdrachtverminderingen niet meer bedraagt dan het op de voet van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2004-01-01&g=2004-01-01), ten hoogste te belopen bedrag aan S&O-afdrachtvermindering. Ingeval een zodanige aanpassing niet mogelijk is omdat het totaal der reeds toegepaste voorlopige S&O-afdrachtverminderingen meer bedraagt dan het ten hoogste te belopen bedrag aan S&O-afdrachtvermindering, doet de inhoudingsplichtige, vooruitlopend op de in het eerste lid bedoelde aangifte, onverwijld aangifte van die gegevens en draagt hij gelijktijdig het verschil op de aangifte af. Hetgeen op deze wijze is afgedragen wordt tevens vermeld in de in het eerste lid bedoelde aangifte en komt in mindering op het totaal der in die aangifte aangegeven voorlopige S&O-afdrachtverminderingen. Ingeval de inhoudingsplichtige op het tijdstip waarop hij kennis neemt van de gewijzigde verklaring reeds aangifte heeft gedaan als bedoeld in het eerste of het derde lid, en
 
 - a. het totaal der voorlopige S&O-afdrachtverminderingen vermeerderd met het door de inspecteur ingevolge het tweede lid, onderdeel **b**, of derde lid, teruggegeven bedrag en verminderd met de ingevolge het tweede lid, onderdeel **a**, afgedragen belasting meer bedraagt dan de S&O-afdrachtvermindering, doet hij van deze gegevens onverwijld aangifte en draagt hij gelijktijdig het verschil op de aangifte af;
 
@@ -466,11 +454,11 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 23
 
-Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij ministeriële regeling de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2003-08-15&g=2003-08-15), vermelde percentages met ingang van 1 januari van enig jaar worden verhoogd tot ten hoogste 47,5 respectievelijk 25, worden verlaagd, dan wel op nihil worden gesteld. Bij verlaging van de percentages wordt het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2003-08-15&g=2003-08-15), eerstvermelde percentage zo veel mogelijk ontzien. De nieuwe percentages gelden met betrekking tot loon dat wordt genoten op of na de dag waarop de wijziging in werking treedt, behoudens voor zover dat loon reeds is betrokken in een S&O-verklaring welke betrekking heeft op een periode die is aangevangen voor de dag waarop de wijziging in werking treedt.
+Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij ministeriële regeling de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2004-01-01&g=2004-01-01), vermelde percentages met ingang van 1 januari van enig jaar worden verhoogd tot ten hoogste 47,5 respectievelijk 25, worden verlaagd, dan wel op nihil worden gesteld. Bij verlaging van de percentages wordt het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2004-01-01&g=2004-01-01), eerstvermelde percentage zo veel mogelijk ontzien. De nieuwe percentages gelden met betrekking tot loon dat wordt genoten op of na de dag waarop de wijziging in werking treedt, behoudens voor zover dat loon reeds is betrokken in een S&O-verklaring welke betrekking heeft op een periode die is aangevangen voor de dag waarop de wijziging in werking treedt.
 
 ##### Artikel 24
 
-1. Aan een S&O-inhoudingsplichtige die voornemens is in een kalenderjaar speur- en ontwikkelingswerk te verrichten geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk. Voorts wordt in de verklaring vermeld het bedrag van het vermoedelijke beloop van het in dat kalenderjaar te genieten loon voor zover dat betrekking zal hebben op speur- en ontwikkelingswerk en welk gedeelte daarvan, gelet op het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2003-08-15&g=2003-08-15), bedoelde maximum ten hoogste in aanmerking kan worden genomen bij de toepassing van dat artikel. Indien de S&O-inhoudingsplichtige deel uitmaakt van een fiscale eenheid, wordt in de verklaring tevens vermeld welk deel van het op de fiscale eenheid betrekking hebbende bedrag van € 7 941 154, genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2003-08-15&g=2003-08-15), wordt toegerekend aan de S&O-inhoudingsplichtige.
+1. Aan een S&O-inhoudingsplichtige die voornemens is in een kalenderjaar speur- en ontwikkelingswerk te verrichten geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk. Voorts wordt in de verklaring vermeld het bedrag van het vermoedelijke beloop van het in dat kalenderjaar te genieten loon voor zover dat betrekking zal hebben op speur- en ontwikkelingswerk en welk gedeelte daarvan, gelet op het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2004-01-01&g=2004-01-01), bedoelde maximum ten hoogste in aanmerking kan worden genomen bij de toepassing van dat artikel. Indien de S&O-inhoudingsplichtige deel uitmaakt van een fiscale eenheid, wordt in de verklaring tevens vermeld welk deel van het op de fiscale eenheid betrekking hebbende bedrag van € 7 941 154, genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2004-01-01&g=2004-01-01), wordt toegerekend aan de S&O-inhoudingsplichtige.
 
 2. Aan een S&O-belastingplichtige die voornemens is in een kalenderjaar ten minste 625 uren van zijn voor werkzaamheden beschikbare tijd te besteden aan speur- en ontwikkelingswerk geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk.
 
@@ -482,9 +470,9 @@ Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderin
 
 6. De beslissing op het verzoek wordt gegeven binnen negen weken na de aanvang van het tijdvak waarop het verzoek betrekking heeft.
 
-7. Een S&O-verklaring kan worden gewijzigd of ingetrokken indien blijkt dat te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die Onze Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring. Een S&O-verklaring kan tevens worden ingetrokken indien blijkt dat de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2003-08-15&g=2003-08-15) bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde. De bevoegdheid tot het wijzigen of intrekken van een verklaring vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
+7. Een S&O-verklaring kan worden gewijzigd of ingetrokken indien blijkt dat te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die Onze Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring. Een S&O-verklaring kan tevens worden gewijzigd of ingetrokken indien blijkt dat de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2004-01-01&g=2004-01-01) bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde. De bevoegdheid tot het wijzigen of intrekken van een verklaring vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
-8. In afwijking van het derde lid onderscheidenlijk zesde lid kan bij ministeriële regeling van Onze Minister van Economische Zaken een latere datum worden vastgesteld waarop het verzoek uiterlijk moet zijn ingediend onderscheidenlijk de beslissing op het verzoek uiterlijk moet zijn gegeven. In samenhang daarmee kan de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2003-08-15&g=2003-08-15) bedoelde wijziging van percentages plaatsvinden na 1 januari, met terugwerkende kracht tot en met die datum.
+8. In afwijking van het derde lid onderscheidenlijk zesde lid kan bij ministeriële regeling van Onze Minister van Economische Zaken een latere datum worden vastgesteld waarop het verzoek uiterlijk moet zijn ingediend onderscheidenlijk de beslissing op het verzoek uiterlijk moet zijn gegeven. In samenhang daarmee kan de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2004-01-01&g=2004-01-01) bedoelde wijziging van percentages plaatsvinden na 1 januari, met terugwerkende kracht tot en met die datum.
 
 9. [Artikel 3.6, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6) is van overeenkomstige toepassing.
 
@@ -532,7 +520,7 @@ Indien het aan opzet of grove schuld van de inhoudingsplichtige is te wijten dat
 
 ##### Artikel 29
 
-Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=27&z=2003-08-15&g=2003-08-15) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=28&z=2003-08-15&g=2003-08-15) bedoelde verschil in belasting wordt nageheven, legt de inspecteur de in die artikelen bedoelde boeten op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt de bevoegdheid tot het opleggen van de boeten door verloop van vijf jaren na het einde van het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft.
+Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=27&z=2004-01-01&g=2004-01-01) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=28&z=2004-01-01&g=2004-01-01) bedoelde verschil in belasting wordt nageheven, legt de inspecteur de in die artikelen bedoelde boeten op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt de bevoegdheid tot het opleggen van de boeten door verloop van vijf jaren na het einde van het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft.
 
 ### Hoofdstuk X. Bijzondere bepalingen inzake beroep en bevoegdheden
 
@@ -540,11 +528,11 @@ Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofd
 
 1. De [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), is niet van toepassing met betrekking tot handelingen die worden verricht door andere dan de in [artikel 2, derde lid, onderdelen a en b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) genoemde bestuursorganen.
 
-2. Onze Minister van Economische Zaken kan ontheffing verlenen van het in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) vervatte verbod ter zake van de werkzaamheden bij de uitvoering van de [artikelen 24 tot en met 26 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2003-08-15&g=2003-08-15) door hem of de door hem aangewezen ambtenaren.
+2. Onze Minister van Economische Zaken kan ontheffing verlenen van het in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) vervatte verbod ter zake van de werkzaamheden bij de uitvoering van de [artikelen 24 tot en met 26 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2004-01-01&g=2004-01-01) door hem of de door hem aangewezen ambtenaren.
 
-3. Tegen een besluit genomen door een van de in het eerste lid dan wel de in [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2003-08-15&g=2003-08-15), genoemde bestuursorganen, met uitzondering van de Centrale organisatie werk en inkomen, kan de belanghebbende, in afwijking van [artikel 8:4, onderdeel g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), beroep instellen bij het College van Beroep voor het bedrijfsleven.
+3. Tegen een besluit genomen door een van de in het eerste lid dan wel de in [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2004-01-01&g=2004-01-01), genoemde bestuursorganen, met uitzondering van de Centrale organisatie werk en inkomen, kan de belanghebbende, in afwijking van [artikel 8:4, onderdeel g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), beroep instellen bij het College van Beroep voor het bedrijfsleven.
 
-4. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2003-08-15&g=2003-08-15) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2003-08-15&g=2003-08-15) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'loontijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer', dan wel [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2003-08-15&g=2003-08-15), met betrekking tot het begrip bedrijfsmiddelen.
+4. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2004-01-01&g=2004-01-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'loontijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer', dan wel [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2004-01-01&g=2004-01-01), met betrekking tot het begrip bedrijfsmiddelen.
 
 5. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
@@ -552,21 +540,23 @@ Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofd
 
 ##### Artikel 30a
 
-1. Bij het begin van het kalenderjaar worden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2003-08-15&g=2003-08-15) vermelde bedragen vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding van het bedrag genoemd in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) zoals dat luidt bij het begin van het kalenderjaar tot dat bedrag zoals dat luidt op 1 januari van het voorafgaande kalenderjaar en vervolgens de nodig geachte afrondingen aan te brengen.
+1. Bij het begin van het kalenderjaar worden de in [artikel 5, eerste lid, onderdeel a, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2004-01-01&g=2004-01-01), vermelde bedragen vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding van het bedrag genoemd in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) zoals dat luidt bij het begin van het kalenderjaar tot dat bedrag zoals dat luidt op 1 januari van het voorafgaande kalenderjaar en vervolgens de nodig geachte afrondingen aan te brengen.
 
-2. Bij de toepassing van het eerste lid wordt het in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2003-08-15&g=2003-08-15), vermelde bedrag niet hoger vastgesteld dan het gemiddelde bedrag van de werkgeverslasten bestaande uit premies voor de sociale verzekeringswetten en soortgelijke regelingen, premies voor regelingen voor vervroegde uittreding, premies in verband met loondoorbetaling tijdens ziekte van de werknemers. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden gesteld omtrent de vaststelling van de hoogte van het gemiddelde bedrag van de werkgeverslasten.
+2. Bij de toepassing van het eerste lid wordt het in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2004-01-01&g=2004-01-01), vermelde bedrag niet hoger vastgesteld dan het gemiddelde bedrag van de werkgeverslasten bestaande uit premies voor de sociale verzekeringswetten en soortgelijke regelingen, premies voor regelingen voor vervroegde uittreding, premies in verband met loondoorbetaling tijdens ziekte van de werknemers. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden gesteld omtrent de vaststelling van de hoogte van het gemiddelde bedrag van de werkgeverslasten.
 
 ##### Artikel 31
 
-1. Bij het begin van het kalenderjaar worden de in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15) vermelde toetslonen en de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15) vermelde maximumbedragen van de afdrachtvermindering betaald ouderschapsverlof vervangen door andere.
+1. Bij het begin van het kalenderjaar worden de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2004-01-01&g=2004-01-01), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01) vermelde toetslonen en de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01) vermelde maximumbedragen van de afdrachtvermindering betaald ouderschapsverlof vervangen door andere.
 
-2. Het in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15), vermelde toetsloon wordt gesteld op 130 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
+2. Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2004-01-01&g=2004-01-01) vermelde toetsloon wordt gesteld op 110,5 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
 
-3. Het in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15), vermelde bedragen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+3. Het in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), vermelde toetsloon wordt gesteld op 130 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
 
-4. Het in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2003-08-15&g=2003-08-15), vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+4. Het in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01), vermelde bedragen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
 
-5. Indien ingevolge een van de sociale-verzekeringswetten een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt voor de toepassing van het tweede tot en met vierde lid het percentage in aanmerking genomen dat wordt vastgesteld krachtens [artikel 9, vierde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9).
+5. Het in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2004-01-01&g=2004-01-01), vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+
+6. Indien ingevolge een van de sociale-verzekeringswetten een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt voor de toepassing van het tweede tot en met vijfde lid het percentage in aanmerking genomen dat wordt vastgesteld krachtens [artikel 9, vierde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9).
 
 ##### Artikel 32
 
@@ -576,7 +566,17 @@ Ter bevordering van een goede uitvoering van deze wet kunnen bij ministeriële r
 
 ##### Artikel 33
 
-Indien naar de regels van de wet zoals die luidden op 31 december 2002 een inhoudingsplichtige met betrekking tot een op die datum bij hem in dienstbetrekking zijnde werknemer de afdrachtvermindering langdurig werklozen geniet, blijft ten aanzien van die inhoudingsplichtige met betrekking tot die werknemer de met ingang van 1 januari 2003 vervallen regeling inzake de afdrachtvermindering langdurig werklozen doorlopen tot uiterlijk 1 januari 2007.
+1. Indien naar de regels van de wet zoals die luidden op 31 december 2002 een inhoudingsplichtige met betrekking tot een op die datum bij hem in dienstbetrekking zijnde werknemer de afdrachtvermindering langdurig werklozen geniet, blijft ten aanzien van die inhoudingsplichtige met betrekking tot die werknemer de met ingang van 1 januari 2003 vervallen regeling inzake de afdrachtvermindering langdurig werklozen doorlopen tot uiterlijk 1 januari 2007.
+
+2. Voor de toepassing van het eerste lid bedraagt de afdrachtvermindering langdurig werklozen per kalenderjaar: € 2 352.
+
+3. Voor de toepassing van het eerste lid bedraagt het toetsloon voor de afdrachtvermindering langdurig werklozen per kalenderjaar:
+
+- a. ten aanzien van de werknemer die bij aanvaarding van de dienstbetrekking de leeftijd van 50 jaar niet heeft bereikt: € 20 027;
+
+- b. ten aanzien van de werknemer die bij aanvaarding van de dienstbetrekking de leeftijd van 50 jaar heeft bereikt: € 23 015.
+
+4. Bij het begin van het kalenderjaar worden de in het derde lid vermelde toetslonen vervangen door andere. Het in het derde lid, onderdeel a, vermelde toetsloon wordt gesteld op 125 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de Werkloosheidswet en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). Het in het derde lid, onderdeel b, vermelde toetsloon wordt gesteld op 144,5 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de Werkloosheidswet en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). [Artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XI&artikel=31&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 34
 
@@ -618,7 +618,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 41
 
-Met betrekking tot werknemers voor wie de arbeidsovereenkomst voorziet in een hoger loon dan het toetsloon, zijn [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15), en [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&artikel=40&z=2003-08-15&g=2003-08-15), tot en met 31 december 1997 niet van toepassing.
+Met betrekking tot werknemers voor wie de arbeidsovereenkomst voorziet in een hoger loon dan het toetsloon, zijn [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), en [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&artikel=40&z=2004-01-01&g=2004-01-01), tot en met 31 december 1997 niet van toepassing.
 
 ##### Artikel 42
 
@@ -660,11 +660,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 51
 
-De Afbakeningsregeling speur- en ontwikkelingswerk en de Uitvoeringsregeling administratieve voorschriften Wet bevordering speur- en ontwikkelingswerk berusten op [artikel 1, derde lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2003-08-15&g=2003-08-15), onderscheidenlijk de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2003-08-15&g=2003-08-15), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2003-08-15&g=2003-08-15).
+De Afbakeningsregeling speur- en ontwikkelingswerk en de Uitvoeringsregeling administratieve voorschriften Wet bevordering speur- en ontwikkelingswerk berusten op [artikel 1, derde lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2004-01-01&g=2004-01-01), onderscheidenlijk de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2004-01-01&g=2004-01-01), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2004-01-01&g=2004-01-01).
 
 ##### Artikel 52
 
-1. Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt, in overeenstemming met Onze Minister van Financiën en na overleg met Onze Minister van Economische Zaken, voor 1 januari 2000 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 14, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2003-08-15&g=2003-08-15), in de praktijk.
+1. Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt, in overeenstemming met Onze Minister van Financiën en na overleg met Onze Minister van Economische Zaken, voor 1 januari 2000 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 14, eerste lid, onderdeel **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2004-01-01&g=2004-01-01), in de praktijk.
 
 2. Onze Minister zendt, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, in het jaar 2004 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de arbo-afdrachtvermindering alsmede van de willekeurige afschrijving arbo-bedrijfsmiddelen in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vergezeld van een oordeel over de afschaffing dan wel voortzetting van de regelingen.
 
