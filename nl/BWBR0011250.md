@@ -4,7 +4,7 @@ identifier: "BWBR0011250"
 country: "nl"
 rank: "wet"
 publication_date: "2004-07-21"
-last_updated: "2003-12-31"
+last_updated: "2004-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011250"
 soort: "wet"
@@ -76,7 +76,7 @@ Wijzigt de Wet op de naburige rechten.
 
 4. Een erkenning als bedoeld in het eerste tot en met derde lid wordt slechts verleend indien de desbetreffende omroepvereniging en de EDUCOM vooraf schriftelijk hebben verklaard met het oog op de uitvoering van de taak van de landelijke omroep bereid te zijn tot samenwerking als bedoeld in [artikel 32, derde lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=32). De omroepvereniging en de EDUCOM tonen dit aan door middel van een bij de verklaring gevoegd overzicht van het voorgenomen programmabeleid en de voorgenomen samenwerking met andere omroepverenigingen, de Stichting en de Programmastichting.
 
-5. De erkenningen, bedoeld in het eerste tot en met derde lid, worden verleend met ingang van het tijdstip waarop de krachtens [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011250&artikel=IV&z=2003-12-31&g=2003-12-31) aan de Nederlandse Omroep Stichting verleende concessie in werking treedt.
+5. De erkenningen, bedoeld in het eerste tot en met derde lid, worden verleend met ingang van het tijdstip waarop de krachtens [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011250&artikel=IV&z=2004-07-21&g=2004-07-21) aan de Nederlandse Omroep Stichting verleende concessie in werking treedt.
 
 6. Het eerste tot en met vijfde lid zijn niet van toepassing op een omroepvereniging of de Stichting EDUCOM die schriftelijk aan Onze Minister te kennen heeft gegeven niet erkend te willen worden.
 
@@ -90,7 +90,7 @@ Wijzigt de Wet op de naburige rechten.
 
 3. Alvorens op een aanvraag voor een voorlopige erkenning te beslissen vraagt Onze Minister advies aan de Raad voor cultuur.
 
-4. Een voorlopige erkenning als bedoeld in het eerste lid, wordt verleend met ingang van het tijdstip waarop de krachtens [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011250&artikel=IV&z=2003-12-31&g=2003-12-31) aan de Nederlandse Omroep Stichting verleende concessie in werking treedt.
+4. Een voorlopige erkenning als bedoeld in het eerste lid, wordt verleend met ingang van het tijdstip waarop de krachtens [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011250&artikel=IV&z=2004-07-21&g=2004-07-21) aan de Nederlandse Omroep Stichting verleende concessie in werking treedt.
 
 ##### Artikel VII
 
