@@ -4,7 +4,7 @@ identifier: "BWBR0014020"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2002-06-19"
+last_updated: "2002-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014020"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2002-11-30"
 
 ##### Artikel I
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -51,7 +51,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel V
 
