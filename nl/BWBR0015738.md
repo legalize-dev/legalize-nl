@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2004-07-01"
+last_updated: "2004-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het verslag over de uitvoering, de verklaring van de accountant en het oordeel van de gemeenteraad, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), worden uiterlijk op 20 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben door de minister ontvangen.
 
-2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2004-07-01&g=2004-07-01) bij deze regeling opgenomen model.
+2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2004-08-22&g=2004-08-22) bij deze regeling opgenomen model.
 
-3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2004-07-01&g=2004-07-01) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2004-07-01&g=2004-07-01) bij deze regeling opgenomen controle- en rapportageprotocol.
+3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2004-08-22&g=2004-08-22) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2004-08-22&g=2004-08-22) bij deze regeling opgenomen controle- en rapportageprotocol.
 
 ##### Artikel 3. Geen accountantsverklaring
 
@@ -70,7 +70,7 @@ De verplichting tot het overleggen van een verklaring van een accountant, bedoel
 
 1. Het voorlopig verslag over de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het voorlopig verslag betrekking heeft door de minister ontvangen.
 
-2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2004-07-01&g=2004-07-01) bij deze regeling opgenomen model.
+2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2004-08-22&g=2004-08-22) bij deze regeling opgenomen model.
 
 #### § 3. Betaling
 
@@ -124,7 +124,9 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - f. de eenmalige uitkering ingevolge de [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](https://wetten.overheid.nl/jci1.3:c:BWBR0009197);
 
-- g. de individuele uitkeringen in het kader van tegoeden Tweede Wereldoorlog aan leden van de Joodse, Sinti, Roma en Indische gemeenschappen.
+- g. de individuele uitkeringen in het kader van tegoeden Tweede Wereldoorlog aan leden van de Joodse, Sinti, Roma en Indische gemeenschappen;
+
+- h. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 21,– per week met een maximum van € 735,– per jaar.
 
 #### § 6. Vakantietoeslag
 
@@ -146,7 +148,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2004-07-01&g=2004-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2004-07-01&g=2004-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2004-07-01&g=2004-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2004-07-01&g=2004-07-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2004-08-22&g=2004-08-22), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2004-08-22&g=2004-08-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2004-08-22&g=2004-08-22) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2004-08-22&g=2004-08-22) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
