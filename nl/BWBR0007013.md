@@ -569,27 +569,3 @@ Diploma Nederlandse vereniging van jachtopzichters;
 Vakbekwaamheidsdiploma van de opleiding personeel openbare reinigingsbedrijven.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 26a
-
-1. Indien de buitengewoon opsporingsambtenaar een uniform of bedrijfskleding draagt, wordt dat uniform of die bedrijfskleding op een duidelijk zichtbare plaats voorzien van een insigne, waarvan het model door Onze Minister wordt vastgesteld.
-
-2. Het eerste lid is niet van toepassing op het uniform van een buitengewoon opsporingsambtenaar werkzaam bij een politiekorps, de Koninklijke marechaussee of de Belastingdienst/Douane.
-
-### Hoofdstuk 6. Het toezicht
-
-#### § 1. Algemeen
-
-#### § 2. De toezichthouder en direct toezichthouder
-
-#### § 3. De werkgever
-
-### Hoofdstuk 7. Registratie
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-## Bijlage B. bedoeld in artikel 44, eerste lid
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
