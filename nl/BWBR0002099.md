@@ -339,15 +339,3 @@ Bevat wijzigingen in andere regelgeving.
 Bevat wijzigingen in andere regelgeving.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Ia
-
-De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de [artikelen 3, onderdelen 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=3&z=2010-10-10&g=2010-10-10), en [12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=12&z=2010-10-10&g=2010-10-10), van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 37
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
