@@ -4,7 +4,7 @@ identifier: "BWBR0016943"
 country: "nl"
 rank: "wet"
 publication_date: "2004-11-01"
-last_updated: "2004-08-20"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016943"
 soort: "wet"
@@ -46,15 +46,15 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0016943&artikel=I&z=2004-09-01&g=2004-09-01), met uitzondering van onderdeel F, is niet van toepassing op studenten die reeds voor 1 september 2004 studiefinanciering ontvingen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0016943&artikel=I&z=2004-09-01&g=2004-09-01), terugwerkt tot en met 13 februari 2004 en dat [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0016943&artikel=IV&z=2004-09-01&g=2004-09-01) terug kan werken tot en met een in dat besluit te bepalen tijdstip.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
