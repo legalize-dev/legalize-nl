@@ -4,7 +4,7 @@ identifier: "BWBR0010393"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "2003-01-01"
+last_updated: "2003-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010393"
 soort: "AMvB"
@@ -56,9 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - b. subsidie: de krachtens [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42) aan de raad te verstrekken subsidie voor de uitvoering van zijn wettelijke taak;
 
-- c. deelsubsidie beheerskosten: de in artikel 2, tweede lid, onderdeel a, bedoelde deelsubsidie;
+- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10), bedoelde deelsubsidie;
 
-- d. deelsubsidie programmakosten: de in artikel 2, tweede lid, onderdeel b, bedoelde deelsubsidie.
+- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10), bedoelde deelsubsidie;
+
+- e. liquiditeitsratio: de verhouding tussen het totaal van de kortlopende vorderingen en liquide middelen enerzijds en het totaal van de kortlopende schulden van de raad anderzijds op 31 december van het boekjaar.
 
 ##### Artikel 2
 
@@ -66,29 +68,25 @@ In dit besluit wordt verstaan onder:
 
 2. De subsidie bestaat uit deelsubsidies voor:
 
-- a. de beheerskosten, bestaande uit de raads- en apparaatskosten;
+- a. de beheers- en programmakosten, waaronder zijn begrepen:
 
-- b. de programmakosten, bestaande uit de onderdelen:
+- 1°. de raads- en apparaatskosten;
 
-- 1°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening krachtens toevoeging in civiele en bestuursrechtelijke zaken en in strafzaken;
+- 2°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening krachtens toevoeging in civiele en bestuurszaken en in strafzaken;
 
-- 2°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening ten behoeve van piketregelingen;
+- 3°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening ten behoeve van piketregelingen;
 
-- 3°. de doeluitkering voor de subsidiëring van de stichtingen rechtsbijstand, verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden;
+- 4°. de doeluitkering voor de subsidiëring van de stichtingen rechtsbijstand, verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden;
 
-- 4°. indien van toepassing de doeluitkering voor de rechtsbijstand aan asielzoekers, bestaande uit de subsidiëring van de stichting rechtsbijstand asiel waaronder begrepen de overeenkomsten in het kader van asiel als bedoel in [artikel 20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=20), alsmede de subsidiëring van de Vereniging VluchtingenWerk Nederland;
+- 5°. indien van toepassing de doeluitkering voor de rechtsbijstand aan asielzoekers, bestaande uit de subsidiëring van de stichting rechtsbijstand asiel waaronder begrepen de overeenkomsten in het kader van asiel als bedoeld in [artikel 20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=20), alsmede de subsidiëring van de Vereniging VluchtelingenWerk Nederland;
 
-- 5°. overige uitgaven;
+- 6°. overige uitgaven;
 
-- c. indien van toepassing de kosten van de landelijke automatiseringsactiviteiten.
+- b. indien van toepassing de kosten van landelijke projecten en activiteiten.
 
 ##### Artikel 3
 
-De raad kan tijdens het boekjaar gelden toevoegen:
-
-- a. aan de deelsubsidie beheerskosten vanuit de deelsubsidie programmakosten tot ten hoogste 2% en vanuit de egalisatiereserve «beheerskosten», bedoeld in artikel 10, tweede lid, tot ten hoogste 5% van de deelsubsidie beheerskosten.
-
-- b. aan de onder 3°, 4° en 5° van de deelsubsidie programmakosten tot ten hoogste 2% van die respectieve bedragen.
+De raad kan tijdens het boekjaar gelden toevoegen aan de deelsubsidie landelijke projecten en activiteiten vanuit de egalisatiereserve «landelijke projecten en activiteiten» tot ten hoogste het in die egalisatiereserve beschikbare bedrag.
 
 ##### Artikel 4
 
@@ -108,7 +106,19 @@ De raad kan tijdens het boekjaar gelden toevoegen:
 
 ##### Artikel 6
 
-Onze Minister stelt de raad uiterlijk 1 juli van elk jaar schriftelijk in kennis van de voorlopige beleidsmatige en budgettaire kaders voor het daarop volgende jaar.
+1. Onze Minister stelt de raad uiterlijk 1 juli van elk jaar schriftelijk in kennis van de voorlopige beleidsmatige en budgettaire kaders voor het daarop volgende jaar.
+
+2. Bij ministeriële regeling worden nadere regels gesteld omtrent:
+
+- a. de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;
+
+- b. de bij de aanvraag tot subsidieverlening over te leggen gegevens of bescheiden;
+
+- c. de eisen waaraan de begroting moet voldoen;
+
+- d. de wijze waarop de subsidie wordt bepaald;
+
+- e. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
 
 ##### Artikel 7
 
@@ -118,33 +128,49 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 ##### Artikel 8
 
-De raad draagt ervoor zorg dat de doelstellingen waarvoor de subsidie wordt verleend op doelmatige en effectieve wijze worden nagestreefd, dat de werkzaamheden dienovereenkomstig worden geregeld, en dat een goed beleid en beheer wordt gevoerd.
+1. De raad draagt ervoor zorg dat de doelstellingen waarvoor de subsidie wordt verleend op doelmatige en effectieve wijze worden nagestreefd, dat de werkzaamheden dienovereenkomstig worden geregeld, en dat een goed beleid en beheer wordt gevoerd.
+
+2. De raad voert de op het [Besluit voorschrift informatiebeveiliging rijksdienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006836) gebaseerde beleidsregels uit.
+
+3. De raad geeft in het jaarverslag inzicht in de wijze waarop de bedrijfsvoering heeft plaatsgevonden. Daarbij komen in ieder geval aan de orde:
+
+- a. de administratieve organisatie;
+
+- b. de mate van betrouwbaarheid van de informatiebeveiliging;
+
+- c. de maatregelen die zijn gericht op de voorkoming van misbruik en oneigenlijk gebruik van subsidiegelden;
+
+- d. de wijze waarop de kwaliteit van de bedrijfsvoering wordt gewaarborgd.
 
 ##### Artikel 9
 
-Uiterlijk vier weken na afloop van de eerste vier respectievelijk acht maanden van het boekjaar, dient de raad een voortgangsrapportage in.
+1. Uiterlijk vier weken na afloop van de eerste vier respectievelijk acht maanden van het boekjaar, dient de raad een voortgangsrapportage in.
+
+2. Indien uit de voortgangsrapportage blijkt dat de bedrijfsvoering of het beheer niet worden uitgevoerd overeenkomstig de daaraan redelijkerwijs te stellen eisen, kan Onze Minister verlangen dat telkens na verloop van twee maanden van het boekjaar een voortgangsrapportage wordt ingediend. Daarbij kan Onze Minister nadere aanwijzingen geven met betrekking tot de inhoud van deze voortgangsrapportages.
+
+3. Onze Minister kan ten gunste van de raad en met instemming van de raad van de termijn, bedoeld in het tweede lid, afwijken.
 
 ##### Artikel 10
 
-1. De raad vormt voor elk van de in artikel 2, tweede lid, onderdeel a en b bedoelde deelsubsidies een egalisatiereserve, genaamd «beheerskosten» en «programmakosten».
+1. De raad vormt voor elk van de in [artikel 2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2003-09-10&g=2003-09-10) bedoelde deelsubsidies een egalisatiereserve, genaamd «beheers- en programmakosten» en «landelijke projecten en activiteiten».
 
-2. De egalisatiereserve «beheerskosten» bedraagt ten hoogste 10% van de over het boekjaar verleende deelsubsidie beheerskosten en in ieder geval niet meer dan f 500 000,–. De jaarlijkse toevoeging aan de desbetreffende egalisatiereserve bedraagt niet meer dan 5% van de over het boekjaar verleende deelsubsidie.
+2. De egalisatiereserve «beheers- en programmakosten» bedraagt op 31 december van het boekjaar ten hoogste 7,5% van de over het boekjaar verleende deelsubsidie beheers- en programmakosten.
 
-3. De egalisatiereserve «programmakosten» bedraagt ten hoogste 10% van de over het boekjaar verleende deelsubsidie programmakosten.
+3. De egalisatiereserve «landelijke projecten en activiteiten» bedraagt ten hoogste een jaarlijks door Onze Minister te bepalen maximum.
 
-4. De raad vormt, indien van toepassing, voor de in artikel 2, tweede lid, onderdeel c, bedoelde deelsubsidie een egalisatiereserve, genaamd «landelijke automatiseringsactiviteiten». Deze bedraagt ten hoogste een jaarlijks door Onze Minister te bepalen maximum.
+4. Indien de egalisatiereserve, bedoeld in het tweede lid, op 31 december van het boekjaar de toegestane grens overschrijdt, wordt een bedrag ter hoogte van die overschrijding verrekend met de renteloze langlopende vordering op Onze Minister.
 
 ##### Artikel 11
 
 1. De raad draagt er zorg voor dat het onderzoek van de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), tevens strekt tot onderzoek van de naleving van de aan de subsidie verbonden verplichtingen.
 
-2. De opdracht aan de accountant gaat vergezeld van een door Onze Minister vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 42a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42a).
+2. De opdracht aan de accountant gaat vergezeld van een door Onze Minister vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 42a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42a). Daarbij legt de raad aan de accountant het in de bijlage bij dit besluit gevoegde model volgens welke de accountant de uitslag van zijn onderzoek moet opstellen op.
 
 3. De raad draagt er zorg voor dat zijn accountant alle medewerking verleent aan de door Onze Minister van Justitie in te stellen onderzoeken naar de door de accountant verrichte controlewerkzaamheden, bedoeld in [artikel 4:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) en [4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79).
 
 ##### Artikel 12
 
-1. De raad verzekert zijn burgerrechtelijke aansprakelijkheid tegenover derden voor een som van ten minste f 1 000 000,– per gebeurtenis en per geval.
+1. De raad verzekert zijn burgerrechtelijke aansprakelijkheid tegenover derden voor een som van ten minste € 450 000,– per gebeurtenis en per geval.
 
 2. De raad verzekert zijn onroerende zaken tegen brandschade naar herbouwwaarde.
 
@@ -166,7 +192,7 @@ Uiterlijk vier weken na afloop van de eerste vier respectievelijk acht maanden v
 
 - b. het aanpassen of vervangen van de landelijke geautomatiseerde systemen in beheer bij de Stichting Integraal Rechtshulp-informatie Systeem, alsmede voor het aanpassen of vervangen van de daarbij behorende registratievoorschriften;
 
-- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=1999-04-28&g=2003-01-01).
+- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=2003-09-10&g=2003-09-10).
 
 ##### Artikel 15
 
@@ -198,7 +224,7 @@ Onze Minister kan, na overleg met de raad, de bevoorschotting van de raad verlag
 
 ##### Artikel 20
 
-Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=1999-04-28&g=2003-01-01) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
+Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=2003-09-10&g=2003-09-10) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
 
 ##### Artikel 21
 
@@ -222,7 +248,7 @@ Alvorens een bedrag toe te voegen aan de egalisatiereserve, wordt op een door On
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2003-09-10&g=2003-01-01)
+## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2003-09-10&g=2003-09-10)
 
 ### **Model accountantsverklaring**
 
