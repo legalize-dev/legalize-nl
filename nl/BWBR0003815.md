@@ -93,9 +93,3 @@ De beschikking van de Minister van Sociale Zaken en Volksgezondheid van 17 juni 
 ##### Artikel 5
 
 Deze beschikking treedt in werking met ingang van de dag na bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 1 april 1985.
-
-##### Artikel 1a
-
-1. Gedeelten van kalenderjaren, gedurende welke de pensioengerechtigde na het bereiken van de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), doch voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, verzekerd is geweest, worden voor de vaststelling of de pensioengerechtigde minimaal één kalenderjaar verzekerd is geweest als bedoeld in [artikel 7, eerste lid, onderdeel b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) samengesteld en herleid tot gehele kalenderjaren.
-
-2. [Artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003815&artikel=1&z=2015-04-01&g=2015-04-01), is van overeenkomstige toepassing.
