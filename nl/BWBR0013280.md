@@ -4,7 +4,7 @@ identifier: "BWBR0013280"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013280"
 soort: "ministeriele-regeling"
@@ -152,17 +152,17 @@ De CWI, het UWV en de SVB brengen voor het verrichten van andere taken, bedoeld 
 
 1. De belanghebbende verstrekt aan de CWI in ieder geval:
 
-- a. bij een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2005-01-01&g=2005-01-01) ('Aanvraag WWB/IOAW');
+- a. bij een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2005-03-06&g=2005-03-06) ('Aanvraag WWB/IOAW');
 
-- b. bij een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2005-01-01&g=2005-01-01) ('Aanvraag WW/TW').
+- b. bij een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) de gegevens en bewijsstukken die worden opgesomd in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2005-03-06&g=2005-03-06) ('Aanvraag WW/TW').
 
-2. Indien, in het geval van een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), bij de melding dan wel, in het geval van een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), bij de aangifte van werkloosheid blijkt dat bepaalde gegevens en bewijsstukken reeds aan de CWI, burgemeester en wethouders of het UWV zijn verstrekt, deelt de CWI de belanghebbende mede welke gegevens en bewijsstukken dit betreft. De belanghebbende wordt, voorzover laatstgenoemde gegevens en bewijsstukken naar zijn oordeel onjuist, onvolledig of inconsistent zijn, door de CWI in staat gesteld deze gegevens en bewijsstukken alsnog te verstrekken. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-01-01&g=2005-01-01) is van toepassing op deze alsnog verstrekte gegevens en bewijsstukken.
+2. Indien, in het geval van een aanvraag van bijstand op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of uitkering op grond van de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), bij de melding dan wel, in het geval van een aanvraag van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een toeslag op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), bij de aangifte van werkloosheid blijkt dat bepaalde gegevens en bewijsstukken reeds aan de CWI, burgemeester en wethouders of het UWV zijn verstrekt, deelt de CWI de belanghebbende mede welke gegevens en bewijsstukken dit betreft. De belanghebbende wordt, voorzover laatstgenoemde gegevens en bewijsstukken naar zijn oordeel onjuist, onvolledig of inconsistent zijn, door de CWI in staat gesteld deze gegevens en bewijsstukken alsnog te verstrekken. [Artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-03-06&g=2005-03-06) is van toepassing op deze alsnog verstrekte gegevens en bewijsstukken.
 
 ##### Artikel 2.3. Onderzoek verstrekte gegevens en bewijsstukken door de CWI
 
-1. De CWI controleert of de belanghebbende alle gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01), heeft verstrekt. De CWI vraagt de belanghebbende ontbrekende gegevens en bewijsstukken zo spoedig mogelijk alsnog te verstrekken.
+1. De CWI controleert of de belanghebbende alle gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06), heeft verstrekt. De CWI vraagt de belanghebbende ontbrekende gegevens en bewijsstukken zo spoedig mogelijk alsnog te verstrekken.
 
-2. De CWI onderzoekt de door de belanghebbende verstrekte gegevens en bewijsstukken alsmede de gegevens en bewijsstukken, bedoeld in [artikel 2.2, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01), op juistheid, volledigheid en consistentie door deze in ieder geval te vergelijken met de gegevens die over de belanghebbende zijn opgenomen:
+2. De CWI onderzoekt de door de belanghebbende verstrekte gegevens en bewijsstukken alsmede de gegevens en bewijsstukken, bedoeld in [artikel 2.2, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06), op juistheid, volledigheid en consistentie door deze in ieder geval te vergelijken met de gegevens die over de belanghebbende zijn opgenomen:
 
 - a. in de eigen administratie, bedoeld in [artikel 21, onderdeel l, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=21);
 
@@ -178,15 +178,15 @@ De CWI, het UWV en de SVB brengen voor het verrichten van andere taken, bedoeld 
 
 1. Bij de overdracht van een aanvraag aan burgemeester en wethouders onderscheidenlijk het UWV geeft de CWI aan:
 
-- a. welke gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01), de belanghebbende heeft verstrekt en, voorzover er gegevens of bewijsstukken ontbreken, op welke datum zij hem heeft gevraagd deze alsnog te verstrekken;
+- a. welke gegevens en bewijsstukken als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06), de belanghebbende heeft verstrekt en, voorzover er gegevens of bewijsstukken ontbreken, op welke datum zij hem heeft gevraagd deze alsnog te verstrekken;
 
-- b. welke gegevens en bewijsstukken reeds eerder aan burgemeester en wethouders onderscheidenlijk het UWV zijn verstrekt als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01);
+- b. welke gegevens en bewijsstukken reeds eerder aan burgemeester en wethouders onderscheidenlijk het UWV zijn verstrekt als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06);
 
 - c. op welk bewijsstuk een gegeven gebaseerd is;
 
-- d. per gegeven en bewijsstuk, of het op grond van het onderzoek, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-01-01&g=2005-01-01), naar haar oordeel onjuist, onvolledig of inconsistent is, de reden voor dit oordeel en op de vergelijking met welk van de administraties, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-01-01&g=2005-01-01), het oordeel is gebaseerd;
+- d. per gegeven en bewijsstuk, of het op grond van het onderzoek, bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-03-06&g=2005-03-06), naar haar oordeel onjuist, onvolledig of inconsistent is, de reden voor dit oordeel en op de vergelijking met welk van de administraties, genoemd in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-03-06&g=2005-03-06), het oordeel is gebaseerd;
 
-- e. welke verklaringen als bedoeld in [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-01-01&g=2005-01-01), de belanghebbende heeft gegeven;
+- e. welke verklaringen als bedoeld in [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2005-03-06&g=2005-03-06), de belanghebbende heeft gegeven;
 
 - f. welke andere waarnemingen zij bij de uitvoering van [artikel 28 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28) met betrekking tot de belanghebbende heeft gedaan die relevant kunnen zijn voor de beslissing op de aanvraag door burgemeester en wethouders onderscheidenlijk het UWV;
 
@@ -196,11 +196,11 @@ De CWI, het UWV en de SVB brengen voor het verrichten van andere taken, bedoeld 
 
 ##### Artikel 2.5. Directe doorverwijzing door de CWI naar de gemeente of het UWV
 
-Indien de noodzaak daartoe naar haar oordeel aannemelijk is, verwijst de CWI de belanghebbende, nadat zij hem een lijst met de gegevens en bewijsstukken, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01), heeft overhandigd, rechtstreeks door naar burgemeester en wethouders onderscheidenlijk het UWV.
+Indien de noodzaak daartoe naar haar oordeel aannemelijk is, verwijst de CWI de belanghebbende, nadat zij hem een lijst met de gegevens en bewijsstukken, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06), heeft overhandigd, rechtstreeks door naar burgemeester en wethouders onderscheidenlijk het UWV.
 
 ##### Artikel 2.6. Overeenkomsten tussen de CWI, de gemeente en het UWV
 
-De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het UWV over de uitvoering van de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-01-01&g=2005-01-01).
+De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het UWV over de uitvoering van de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2005-03-06&g=2005-03-06).
 
 ### Hoofdstuk 3. Uitvoeringsinstituut werknemersverzekeringen
 
@@ -352,7 +352,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.7. Bewaren van gegevens
 
-1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-01-01&g=2005-01-01), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
+1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-03-06&g=2005-03-06), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
 
 2. Vanaf het moment dat een verzekerde de leeftijd van 65 jaar bereikt of voor het bereiken van die leeftijd overlijdt, worden de hem betreffende, in de verzekerdenadministratie opgenomen gegevens, gedurende vijf jaren te rekenen vanaf dat moment door het UWV bewaard.
 
@@ -388,13 +388,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. Het UWV verifieert de in het tweede lid genoemde gegevens bij de authentieke bron bij de eerste opname van gegevens over de verzekerde in de verzekerdenadministratie en vervolgens, indien daartoe aanleiding is.
 
-2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-01-01&g=2005-01-01) bedoelde gegevens gelden als authentieke bron:
+2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-03-06&g=2005-03-06) bedoelde gegevens gelden als authentieke bron:
 
 - a. sociaal-fiscaal nummer: de sofi-tabel van de Rijksbelastingdienst;
 
 - b. gegevens van de arbeidsverhouding: de administratie van de werkgever.
 
-3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-01-01&g=2005-01-01) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
+3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2005-03-06&g=2005-03-06) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
 
 4. De verificatie bij eerste opname van gegevens over de verzekerde vindt plaats binnen vier weken na ontvangst van die gegevens.
 
@@ -602,7 +602,7 @@ De CWI, het UWV en de SVB bieden ieder hun meerjarenbeleidsplan jaarlijks vóór
 
 - e. een totalisering van de geraamde lasten voor de gehele organisatie.
 
-5. De raming van de CWI bevat een afzonderlijke opgave van de kosten van het organisatieonderdeel dat in het bijzonder is belast met het beheer van Suwinet, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01). Deze kosten worden in een verdiepingsbijlage nader gespecificeerd.
+5. De raming van de CWI bevat een afzonderlijke opgave van de kosten van het organisatieonderdeel dat in het bijzonder is belast met het beheer van Suwinet, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-03-06&g=2005-03-06). Deze kosten worden in een verdiepingsbijlage nader gespecificeerd.
 
 ##### Artikel 5.7. De raming van inkomsten en uitgaven
 
@@ -662,7 +662,7 @@ De toelichting bij de begroting bevat een omschrijving van:
 
 ##### Artikel 5.11. Basisgegevens
 
-1. De CWI, het UWV en de SVB dragen zorg voor de elektronische beschikbaarheid van ten minste de basisgegevens die zijn opgenomen in de bij deze regeling behorende [bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-01-01&g=2005-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=V&z=2005-01-01&g=2005-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VII&z=2005-01-01&g=2005-01-01) ten behoeve van de minister en de IWI, voorzover die gegevens noodzakelijk zijn voor het toezicht en de andere taken van de minister.
+1. De CWI, het UWV en de SVB dragen zorg voor de elektronische beschikbaarheid van ten minste de basisgegevens die zijn opgenomen in de bij deze regeling behorende [bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-03-06&g=2005-03-06), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=V&z=2005-03-06&g=2005-03-06) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VII&z=2005-03-06&g=2005-03-06) ten behoeve van de minister en de IWI, voorzover die gegevens noodzakelijk zijn voor het toezicht en de andere taken van de minister.
 
 2. De CWI, het UWV en de SVB dragen er zorg voor dat de gegevens, bedoeld in het eerste lid, ieder kwartaal worden geactualiseerd en binnen zes weken na afronding van ieder kwartaal direct leverbaar zijn.
 
@@ -672,13 +672,13 @@ De toelichting bij de begroting bevat een omschrijving van:
 
 ##### Artikel 5.12. Periodieke informatieverstrekking
 
-1. De CWI, het UWV en de SVB verstrekken ten behoeve van de beleidsvorming aan de minister de informatie, bedoeld in de bij deze regeling behorende [bijlagen IV, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-01-01&g=2005-01-01), [VI, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), en [VIII, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-01-01&g=2005-01-01), op de daarbij telkens aangegeven tijdstippen.
+1. De CWI, het UWV en de SVB verstrekken ten behoeve van de beleidsvorming aan de minister de informatie, bedoeld in de bij deze regeling behorende [bijlagen IV, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-03-06&g=2005-03-06), [VI, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), en [VIII, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-03-06&g=2005-03-06), op de daarbij telkens aangegeven tijdstippen.
 
-2. Uiterlijk binnen zes weken na het verstrijken van elke maand verstrekt het UWV ten behoeve van de beleidsvorming aan de minister de in de bij deze regeling behorende [bijlage VI, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), genoemde maandcijfers.
+2. Uiterlijk binnen zes weken na het verstrijken van elke maand verstrekt het UWV ten behoeve van de beleidsvorming aan de minister de in de bij deze regeling behorende [bijlage VI, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), genoemde maandcijfers.
 
-3. Uiterlijk op 1 februari, 1 juli en 1 november van ieder kalenderjaar verstrekken het UWV en de SVB aan de minister en de IWI een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), en [VIII, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-01-01&g=2005-01-01), is aangegeven.
+3. Uiterlijk op 1 februari, 1 juli en 1 november van ieder kalenderjaar verstrekken het UWV en de SVB aan de minister en de IWI een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), en [VIII, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-03-06&g=2005-03-06), is aangegeven.
 
-4. Binnen zes maanden na afloop van elk kalenderjaar verstrekken het UWV en de SVB aan de minister de in de bij deze regeling behorende [bijlage VI, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), respectievelijk [bijlage VIII, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-01-01&g=2005-01-01), genoemde statistische rapportages.
+4. Binnen zes maanden na afloop van elk kalenderjaar verstrekken het UWV en de SVB aan de minister de in de bij deze regeling behorende [bijlage VI, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), respectievelijk [bijlage VIII, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-03-06&g=2005-03-06), genoemde statistische rapportages.
 
 ##### Artikel 5.13. Jaarlijkse informatieverstrekking voor de Rijksbegroting
 
@@ -692,19 +692,19 @@ De SVB verstrekt jaarlijks aan de minister in mei een gedetailleerde raming van 
 
 3. Op verzoek van de minister verstrekken de CWI, het UWV en de SVB informatie aan door hem aangewezen internationaalrechtelijke organisaties.
 
-4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2005-01-01&g=2005-01-01) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2005-01-01&g=2005-01-01) genoemde bestanden.
+4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2005-03-06&g=2005-03-06) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2005-03-06&g=2005-03-06) genoemde bestanden.
 
 5. De CWI, het UWV en de SVB plegen overleg met de personen of instanties, bedoeld in het eerste, tweede, derde en vierde lid, over de inhoud, de vorm, de wijze en het tijdstip waarop de informatieverstrekking, bedoeld in het eerste, tweede, derde en vierde lid, plaatsvindt.
 
 6. De minister en de IWI dragen er zorg voor, dat de personen en instanties, bedoeld in het eerste, tweede, derde en vierde lid, van de CWI, het UWV en de SVB niet meer gegevens en informatie krijgen dan noodzakelijk is voor de uitvoering van het onderzoek dan wel voor de taak ten behoeve waarvan bedoelde personen of instanties de gegevens en informatie ontvangen en overleggen met de CWI, het UWV en de SVB over de wijze waarop dit kan worden bereikt.
 
-7. De CWI verstrekt aan de in [artikel 12, tweede lid, van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=12) daartoe door de minister aangewezen bewerker de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-01-01&g=2005-01-01), onderdeel [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), genoemde persoonsgegevens. De persoonsgegevens worden door de CWI telkenmale binnen zes weken na afloop van een halfjaarsperiode aan de bewerker verstrekt op een door die bewerker te bepalen wijze. [Artikel 13 van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=13) is van toepassing.
+7. De CWI verstrekt aan de in [artikel 12, tweede lid, van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=12) daartoe door de minister aangewezen bewerker de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-03-06&g=2005-03-06), onderdeel [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), genoemde persoonsgegevens. De persoonsgegevens worden door de CWI telkenmale binnen zes weken na afloop van een halfjaarsperiode aan de bewerker verstrekt op een door die bewerker te bepalen wijze. [Artikel 13 van de Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691&artikel=13) is van toepassing.
 
 ##### Artikel 5.15. Openbaarmaking onderzoeksrapporten en statistische rapportages
 
 1. De CWI, het UWV en de SVB brengen rapporten over onderzoek dat door of in opdracht van de uitvoeringsorganisatie is uitgevoerd, ter kennis van de minister. De rapporten over onderzoeken, waarvan de minister niet reeds op de hoogte was of kon zijn, worden uiterlijk twee weken voor openbaarmaking aan de minister verstrekt.
 
-2. De CWI, het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-01-01&g=2005-01-01) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2005-01-01&g=2005-01-01), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
+2. De CWI, het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-03-06&g=2005-03-06) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2005-03-06&g=2005-03-06), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
 
 3. In geval van de openbaarmaking, bedoeld in dit artikel, wordt de minister uiterlijk 48 uur voor de verwachte publicatietermijn geïnformeerd over de wijze waarop dit zal plaatsvinden.
 
@@ -714,7 +714,7 @@ De SVB verstrekt jaarlijks aan de minister in mei een gedetailleerde raming van 
 
 1. De CWI, het UWV en de SVB dragen zorg voor een deugdelijke administratie en organisatie, waaronder begrepen dusdanige procedures en voorzieningen dat er, mede gelet op de stand van de kennis op het terrein van de kwaliteitszorg, voldoende waarborgen aanwezig zijn voor:
 
-- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2005-01-01&g=2005-01-01);
+- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2005-03-06&g=2005-03-06);
 
 - b. tijdige verstrekking van gegevens en informatie;
 
@@ -752,11 +752,11 @@ De minister wijzigt de bepalingen in deze paragraaf en de daarbij behorende bijl
 
 ##### Artikel 5.19. Informatieverstrekking door CWI, UWV, SVB en gemeenten
 
-1. De CWI, het UWV en de SVB verstrekken de RWI op zijn verzoek de informatie, bedoeld in [artikel 5.12, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-01-01&g=2005-01-01) en de gegevens, bedoeld in het vierde en zevende lid van dat artikel, voorzover hij die nodig heeft voor de uitoefening van zijn taak.
+1. De CWI, het UWV en de SVB verstrekken de RWI op zijn verzoek de informatie, bedoeld in [artikel 5.12, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2005-03-06&g=2005-03-06) en de gegevens, bedoeld in het vierde en zevende lid van dat artikel, voorzover hij die nodig heeft voor de uitoefening van zijn taak.
 
 2. De minister kan nader bepalen dat de informatieverstrekking, bedoeld in het eerste lid, zal plaatsvinden door zijn tussenkomst.
 
-3. De gemeenten verstrekken aan de RWI, door tussenkomst van de minister, de in de bij deze regeling behorende [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=X&z=2005-01-01&g=2005-01-01) opgenomen informatie, die de RWI nodig heeft voor de uitvoering van zijn taak, en die betrekking hebben op de uitvoering van de Wet SUWI en andere wetten.
+3. De gemeenten verstrekken aan de RWI, door tussenkomst van de minister, de in de bij deze regeling behorende [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=X&z=2005-03-06&g=2005-03-06) opgenomen informatie, die de RWI nodig heeft voor de uitvoering van zijn taak, en die betrekking hebben op de uitvoering van de Wet SUWI en andere wetten.
 
 4. De gegevens, bedoeld in het eerste lid, zijn zodanig, dat natuurlijke personen niet geïdentificeerd of identificeerbaar zijn.
 
@@ -766,21 +766,21 @@ De minister wijzigt de bepalingen in deze paragraaf en de daarbij behorende bijl
 
 ##### Artikel 5.20. Nadere bepalingen voor informatieverstrekking
 
-1. [Artikel 5.14, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing ten aanzien van de informatieverstrekking aan de RWI.
+1. [Artikel 5.14, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2005-03-06&g=2005-03-06), is van overeenkomstige toepassing ten aanzien van de informatieverstrekking aan de RWI.
 
-2. [Artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.18&z=2005-01-01&g=2005-01-01) is van overeenkomstige toepassing ten aanzien van wijziging van deze paragraaf.
+2. [Artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.18&z=2005-03-06&g=2005-03-06) is van overeenkomstige toepassing ten aanzien van wijziging van deze paragraaf.
 
-3. De RWI kan de CWI, het UWV, de SVB en de gemeenten verzoeken andere informatie dan bedoeld in [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.19&z=2005-01-01&g=2005-01-01) te verstrekken, die hij nodig heeft voor de uitvoering van zijn taak en daarbij aangeven op welke wijze en op binnen welke termijn die informatie worden verstrekt.
+3. De RWI kan de CWI, het UWV, de SVB en de gemeenten verzoeken andere informatie dan bedoeld in [artikel 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.19&z=2005-03-06&g=2005-03-06) te verstrekken, die hij nodig heeft voor de uitvoering van zijn taak en daarbij aangeven op welke wijze en op binnen welke termijn die informatie worden verstrekt.
 
 #### § 5.2.1. Informatieverstrekking CWI, UWV en SVb aan de minister en de IWI
 
 ##### Artikel 5.21. Reguliere informatieverstrekking IB
 
-1. Binnen zes weken na afloop van elk kwartaal verstrekt het IB de minister en de IWI een overzicht van de gegevens die zijn opgenomen in de [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-01-01&g=2005-01-01), behorende bij deze regeling.
+1. Binnen zes weken na afloop van elk kwartaal verstrekt het IB de minister en de IWI een overzicht van de gegevens die zijn opgenomen in de [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-03-06&g=2005-03-06), behorende bij deze regeling.
 
-Het kwartaalverslag bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-01-01&g=2005-01-01).
+Het kwartaalverslag bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-03-06&g=2005-03-06).
 
-2. Het jaarverslag van het IB bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-01-01&g=2005-01-01).
+2. Het jaarverslag van het IB bevat in elk geval een omschrijving van de onderwerpen die zijn genoemd in onderdeel a van [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2005-03-06&g=2005-03-06).
 
 #### § 5.2.2. Informatieverstrekking aan de RWI
 
@@ -812,9 +812,9 @@ Suwinet biedt de Suwinet-partijen de mogelijkheid:
 
 ##### Artikel 6.2. Gegevensregister SUWI
 
-1. Het Gegevensregister SUWI alsmede de regeling, bedoeld in [artikel 5, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=5), zijn opgenomen in de bij deze regeling behorende [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2005-01-01&g=2005-01-01) (`Gegevensregister SUWI 1.0').
+1. Het Gegevensregister SUWI alsmede de regeling, bedoeld in [artikel 5, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=5), zijn opgenomen in de bij deze regeling behorende [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2005-03-06&g=2005-03-06) (`Gegevensregister SUWI 1.0').
 
-2. In het Gegevensregister SUWI worden eveneens de berichten, te weten de specifieke gegevens, documenten of andere informatie die met behulp van de mogelijkheden, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-01-01&g=2005-01-01), worden verstrekt, vastgelegd. Hierbij wordt per bericht bepaald:
+2. In het Gegevensregister SUWI worden eveneens de berichten, te weten de specifieke gegevens, documenten of andere informatie die met behulp van de mogelijkheden, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2005-03-06&g=2005-03-06), worden verstrekt, vastgelegd. Hierbij wordt per bericht bepaald:
 
 - a. welke gegevens, documenten of andere informatie er onderdeel van zijn;
 
@@ -842,25 +842,25 @@ Suwinet biedt de Suwinet-partijen de mogelijkheid:
 
 - b. de aansluiting van de decentrale elektronische voorziening op de centrale elektronische voorziening, bedoeld in het eerste lid, onderdeel a;
 
-4. In de bij deze regeling behorende [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIII&z=2005-01-01&g=2005-01-01) (`Stelselontwerp Suwinet 1.0') wordt beschreven op welke wijze en volgens welke specificaties het organisatieonderdeel, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), en de Suwinet-partijen invulling geven aan het eerste lid onderscheidenlijk het derde lid.
+4. In de bij deze regeling behorende [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIII&z=2005-03-06&g=2005-03-06) (`Stelselontwerp Suwinet 1.0') wordt beschreven op welke wijze en volgens welke specificaties het organisatieonderdeel, bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-03-06&g=2005-03-06), en de Suwinet-partijen invulling geven aan het eerste lid onderscheidenlijk het derde lid.
 
 ##### Artikel 6.4. Beveiliging Suwinet
 
-1. De Suwinet-partijen dragen zorg voor de beveiliging van de gegevensuitwisseling tegen inbreuken op de beschikbaarheid, de integriteit en de vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in de bij deze regeling behorende [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIV&z=2005-01-01&g=2005-01-01) (`Beveiliging Suwinet 1.0').
+1. De Suwinet-partijen dragen zorg voor de beveiliging van de gegevensuitwisseling tegen inbreuken op de beschikbaarheid, de integriteit en de vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in de bij deze regeling behorende [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIV&z=2005-03-06&g=2005-03-06) (`Beveiliging Suwinet 1.0').
 
 2. De Suwinet-partijen geven ieder in een beveiligingsplan aan op welke wijze zij invulling geven aan het eerste lid.
 
-3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2005-01-01&g=2005-01-01) is van overeenkomstige toepassing op het gebruik en de inrichting van Suwinet.
+3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.4&artikel=5.22&z=2005-03-06&g=2005-03-06) is van overeenkomstige toepassing op het gebruik en de inrichting van Suwinet.
 
 #### § 6.1. Suwinet
 
 ##### Artikel 6.5. Aansluitvoorwaarden gemeenten op IB
 
-In de bij deze regeling behorende [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XV&z=2005-01-01&g=2005-01-01) (`Aansluitvoorwaarden gemeenten op IB 1.0') wordt bepaald op welke wijze en op welk tijdstip de elektronische gegevensuitwisseling tussen burgemeester en wethouders en het IB plaatsvindt.
+In de bij deze regeling behorende [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XV&z=2005-03-06&g=2005-03-06) (`Aansluitvoorwaarden gemeenten op IB 1.0') wordt bepaald op welke wijze en op welk tijdstip de elektronische gegevensuitwisseling tussen burgemeester en wethouders en het IB plaatsvindt.
 
 ##### Artikel 6.6. Ontwerp elektronische voorzieningen IB
 
-In de bij deze regeling behorende [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVI&z=2005-01-01&g=2005-01-01) (`Ontwerp elektronische voorzieningen IB 1.0') wordt, in aanvulling op het gestelde in de [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-01-01&g=2005-01-01) (`Stelselontwerp Suwinet 1.0'), bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), bepaald:
+In de bij deze regeling behorende [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVI&z=2005-03-06&g=2005-03-06) (`Ontwerp elektronische voorzieningen IB 1.0') wordt, in aanvulling op het gestelde in de [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2005-03-06&g=2005-03-06) (`Stelselontwerp Suwinet 1.0'), bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-03-06&g=2005-03-06), bepaald:
 
 - a. op welke wijze de gegevensverstrekking, bedoeld in [artikel 3 van het Besluit Inlichtingenbureau](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3) gemeenten, plaatsvindt;
 
@@ -872,7 +872,7 @@ In de bij deze regeling behorende [bijlage XVI](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 6.7. Overgangsbepaling aansluiting gemeenten op IB en Suwinet
 
-1. In de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2005-01-01&g=2005-01-01) (`Aansluitschema gemeenten op IB') wordt voor de gemeenten bepaald welke datum ze de gegevens, bedoeld in [artikel 3, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3), in elk geval door tussenkomst van het IB vragen.
+1. In de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2005-03-06&g=2005-03-06) (`Aansluitschema gemeenten op IB') wordt voor de gemeenten bepaald welke datum ze de gegevens, bedoeld in [artikel 3, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3), in elk geval door tussenkomst van het IB vragen.
 
 2. Vanaf de in het eerste lid bedoelde datum maken burgemeester en wethouders van de desbetreffende gemeenten eveneens gebruik van Suwinet.
 
@@ -898,7 +898,7 @@ In afwijking van [artikel 17, tweede lid, van de Wet SUWI](https://wetten.overhe
 
 5. De minister besluit op gezamenlijk verzoek van de CWI, vertegenwoordigd door het Centrum voor werk en inkomen, en van burgemeester en wethouders, dat een besluit op grond van het eerste lid in afwijking van het vierde lid geldt tot 1 februari 2002 of 1 maart 2002. Een verzoek als bedoeld in dit lid dient uiterlijk op 15 januari 2002, onderscheidenlijk 15 februari 2002, te zijn ontvangen.
 
-6. De gemeenten waarvoor een besluit op grond van dit artikel van kracht is worden vermeld in de bij deze regeling behorende [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2005-01-01&g=2005-01-01).
+6. De gemeenten waarvoor een besluit op grond van dit artikel van kracht is worden vermeld in de bij deze regeling behorende [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2005-03-06&g=2005-03-06).
 
 7. De CWI, het betrokken Centrum voor werk en inkomen en de betrokken gemeente dragen zorg voor bekendmaking aan belanghebbenden van de besluiten op grond van dit artikel in door hen uitgegeven bladen, in daarvoor in aanmerking komende dag-, nieuws- of huis-aan-huisbladen, dan wel op andere geschikte wijzen.
 
@@ -910,7 +910,7 @@ In afwijking van de [artikelen 21, onderdeel f](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 7.4. Overgangsbepaling gebiedsindeling CWI's
 
-1. Tot het tijdstip van publicatie door de Centrale organisatie werk en inkomen van een besluit ter uitvoering van het [eerste of tweede lid van artikel 24 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=24), zijn de plaatsen van vestiging van de CWI met de aanduiding van de werkgebieden vastgesteld overeenkomstig [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIX&z=2005-01-01&g=2005-01-01) die bij deze regeling behoort.
+1. Tot het tijdstip van publicatie door de Centrale organisatie werk en inkomen van een besluit ter uitvoering van het [eerste of tweede lid van artikel 24 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=24), zijn de plaatsen van vestiging van de CWI met de aanduiding van de werkgebieden vastgesteld overeenkomstig [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XIX&z=2005-03-06&g=2005-03-06) die bij deze regeling behoort.
 
 2. Tot het in het eerste lid genoemde tijdstip wordt de beslissing over het verlenen van toestemming voor de opzegging van de arbeidsverhouding, op grond van het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014), uitsluitend uitgevoerd door de in het [Ontslagbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010062) genoemde functionaris in de navolgende locaties van vestiging van de CWI met de daarbij aangegeven werkgebieden. Daar waar in een gemeente meerdere CWI's zijn gevestigd, wordt de hoofdvestiging bedoeld:
 
@@ -3092,571 +3092,27 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid, te Den 
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlagen
-
-## Bijlage I. Aanvraag [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709)/[IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
-
-Alle relevante gegevens behorende tot de volgende categorieën:
-
-- Persoons- en stamgegevens zoals (voor zover van toepassing):
-
-- naam, adres en woonplaats
-
-- sofinummer
-
-- geboortedatum
-
-- burgerlijke staat
-
-- leefvorm
-
-- nationaliteit
-
-- verblijfstitel
-
-- werkvergunning
-
-- ziektekostenverzekering
-
-- Leefsituatie zoals (voor zover van toepassing):
-
-- huwelijk
-
-- kind(eren)
-
-- Arbeids- en werkgeversgegevens zoals (voor zover van toepassing):
-
-- rede einde arbeidsverhouding
-
-- aard arbeidsverhouding
-
-- arbeidsperiode
-
-- nettoloon en loonperiode
-
-- werkgever
-
-- werkzaamheden anders dan in arbeidsverhouding
-
-- Arbeidskwalificatiegegevens zoals (voor zover van toepassing):
-
-- arbeidsmarktkwalificaties
-
-- opleiding
-
-- werkervaring
-
-- Inkomsten zoals (voor zover van toepassing):
-
-- overige inkomsten
-
-- Arbeidstoeleidingsgegevens zoals (voor zover van toepassing):
-
-- beschikbaarheid voor arbeid
-
-- mobiliteit en belemmeringen
-
-- inschrijving werkzoekende
-
-- Uitkeringsgegevens zoals (voor zover van toepassing):
-
-- aanvraag uitkering
-
-- uitkeringsverhouding
-
-- ontslag (aantal uren, aard, bezwaar)
-
-- heffingskorting(en)
-
-- Vermogenssituatie zoals (voor zover van toepassing):
-
-- bezittingen
-
-- eigen woning
-
-- hypotheek
-
-- schulden
-
-- waardepapieren
-
-- motorrijtuig/caravan
-
-- Woonsituatie en -lasten zoals (voor zover van toepassing):
-
-- woonlasten
-
-- medebewoning
-
-- kostgeld
-
-- Bewijsstukken WWB/IOAW
-
-- Identiteit
-
-- Echtscheiding / verlating Origineel en geldig identiteitsbewijs
-
-- Indien van toepassing:
-
-- Origineel en geldig bewijs waaruit de verblijfsstatus blijkt
-
-- Echtscheiding / verlating Alle documenten, zoals:
-
-- Echtscheidingsvonnis en bewijs van boedelscheiding, inclusief de correspondentie met uw advocaat
-
-- Verzoekschrift echtscheiding
-
-- Voorlopige voorzieningen rechtbank
-
-- Bewijsstukken inzake de hoogte en duur van te ontvangen alimentatie, voor u en uw kind(eren)
-
-- Bewijsstukken inzake de hoogte en duur van te betalen alimentatie
-
-- In het geval van co-ouderschap: het gerechtelijk vonnis
-
-- Beschikking scheiding van tafel en bed
-
-- Naam adres, woonplaats, telefoonnummer, sofinummer (ex) partner
-
-- Naam adres, woonplaats, telefoonnummer advocaat echtscheiding
-
-- Sollicitatieactiviteiten Niet voor alleenstaande ouders met een kind jonger dan vijf jaar
-
-- Sollicitatieactiviteiten Alle documenten, zoals:
-
-- Overzicht sollicitatie activiteiten
-
-- Naam, adres woonplaats, telefoonnummer benaderde werkgevers
-
-- Kopieën sollicitatiebrieven, berichten van ontvangst, uitnodigingen voor gesprek, eventuele afwijzingen
-
-- Medische of psychische belemmeringen Alle documenten, zoals:
-
-- Omschrijving medische of psychische klachten
-
-- Naam, adres, woonplaats, telefoonnummer behandelend arts of andere hulpverlener
-
-- Afsprakenkaart ziekenhuis, polikliniek, RIAGG of andere instelling
-
-- Correspondentie inzake plaatsing op wachtlijst
-
-- Rapport (recente) medische keuring
-
-- Ontslag / beëindiging dienstverband Indien van toepassing
-
-- Alle documenten met betrekking tot het ontslag, zoals bijvoorbeeld:
-
-- Ontslagcorrespondentie met ex werkgever
-
-- Ontslagcorrespondentie met andere instanties
-
-- Ontslagvergunning
-
-- Verzoek / verweer schrift
-
-- Beschikking kantonrechter
-
-- Naam adres, woonplaats, telefoonnummer advocaat ontslag
-
-- Beëindiging studie / opleiding Indien van toepassing
-
-- Alle documenten met betrekking tot de beëindigde studie of opleiding zoals bijvoorbeeld:
-
-- Afstudeerverklaring
-
-- Verklaring beëindiging WSF/WTS (studiefinanciering)
-
-- Inleverbewijs OV-jaarkaart)
-
-- Diploma / getuigschrift
-
-- Bewijs uitschrijving van opleiding
-
-- Indien er sprake is van studieschuld het bewijs van de studieschuld
-
-- Bewijzen van aanvraag / toekenning / einde studiefinanciering
-
-- Gegevens van avond en / of deeltijdopleiding
-
-- Woonsituatie (huur) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot woning, schip of woonwagen in huur, zoals:
-
-- Huurcontract
-
-- Betalingsbewijs huur (bank / giroafschrift)
-
-- Verklaring omtrent berekening (bruto / netto) huur
-
-- Specificatie service en administratie kosten
-
-- Beschikking huursubsidie
-
-- Woonsituatie (onderhuur of kostganger) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot de woonsituatie, Zoals:
-
-- Onderhuurcontract
-
-- Betalingsbewijs huur / kostgeld (bank / giro afschrift)
-
-- Verklaring hoofdbewoner
-
-- Woonsituatie (koop) Indien van toepassing In geval van een gezamenlijke huishouding kan één van de partners de bewijsstukken overleggen
-
-- Alle documenten met betrekking tot woning, schip of woonwagen in eigendom, zoals:
-
-- Eigendomsakte / koopakte
-
-- Hypotheekakte
-
-- Taxatierapporten
-
-- Polis brand en opstalverzekering
-
-- Hypotheeklasten per maand (aflossing / premie)
-
-- Eigenaargedeelte OZB
-
-- Premie Opstalverzekering
-
-- Bijdrage Vereniging van Eigenaren
-
-- Kosten (groot) onderhoud
-
-- Administratiekosten
-
-- Rioolrechten
-
-- Waterschaps- en polderlasten
-
-- Erfpachtcanon
-
-- Inwonende Kinderen jonger dan 18 jaar Indien van toepassing
-
-- Kinderen jonger dan 18 jaar Van een van beide of van beide partners Naam, voornamen, geboortedatum, geboorteplaats inwonende kinderen jonger dan 18 jaar Kinderbijslag, alle documenten, zoals: Beschikking Sociale Verzekeringsbank
-
-- Studiefinanciering, alle documenten, zoals: Bewijzen betaling studiefinanciering
-
-- Beschikking toekenning of
-
-- weigering studiefinanciering
-
-- Inkomsten Overzicht inkomsten inwonende kinderen Eventuele arbeidscontracten inwonende kinderen
-
-- Medebewoners Indien van toepassing
-
-- Inwonende kinderen van 18 jaar en ouder Van een van beide of van beide partners Naam, voornamen, geboortedatum, geboorteplaats inwonende kinderen van 18 jaar en ouder Overige medebewoners
-
-- Alle documenten, zoals: Eventuele Familie relatie met de medebewoner Onderverhuur contract en / of betalingsbewijs onderverhuur Contract kostgeverschap en / of betalingsbewijs kostgeld Schriftelijke afspraken inzake de verdeling van de kosten van het huishouden
-
-- Naam, voornamen geboortedatum medebewoner(s)
-
-- Inkomsten Indien van toepassing
-
-- Inkomsten uit arbeid (loondienst) Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Werkgever
-
-- Arbeidscontract
-
-- Laatste loonstrook (vaste inkomsten)
-
-- Loonstroken afgelopen 12 maanden (wisselende inkomsten)
-
-- Inkomsten uit Uitkering Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Uitkeringsinstantie
-
-- Bewijs van toekenning (beschikking) inzake de uitkering
-
-- Bewijs van (tijdelijke) verlaging of wijziging van de uitkering
-
-- Correspondentie met de uitkeringsinstantie
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure met uitkeringsintantie
-
-- Inkomsten uit zelfstandig bedrijf of beroep Alle documenten, zoals:
-
-- Omschrijving bedrijf / beroep
-
-- Jaarcijfers over de laatste drie jaar
-
-- Inschrijving Kamer van Koophandel
-
-- Afschriften zakenrekening(en) over de afgelopen 3 maanden
-
-- Naam, adres, woonplaats en telefoonnummer boekhouder
-
-- Naam, adres, woonplaats en telefoonnummer bewindvoerder (bij surseance)
-
-- Naam, adres, woonplaats en telefoonnummer curator (bij faillissement)
-
-- Inkomsten uit Studiefinanciering Alle documenten, zoals:
-
-- Anders dan voor inwonende kinderen jonger dan 18 jaar
-
-- Naam, adres, woonplaats, telefoonnummer Studiefinanciering
-
-- Bewijs van toekenning (beschikking) inzake de uitkering
-
-- Bewijs van (tijdelijke) verlaging of wijziging van de uitkering
-
-- Correspondentie met Studiefinanciering
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure met Studiefinanciering
-
-- Inkomsten uit alimentatie, Alle aanvullende documenten, zoals:
-
-- Alleen in aanvulling op overzicht documenten bij `echtscheiding'
-
-- Bewijzen van betaling en / of betalingsachterstanden van alimentatie
-
-- Correspondentie inzake betaling en betalingsachterstanden
-
-- Naam adres, woonplaats, telefoonnummer advocaat bij procedure betalingsachterstanden
-
-- Voorlopige teruggave belastingdienst
-
-- Alle documenten, zoals:
-
-- Beschikking Belastingdienst inzake:
-
-- Algemene Heffingskorting
-
-- Combinatiekorting
-
-- Alleenstaande ouderkorting
-
-- Aanvullende Alleenstaande ouder korting
-
-- Ouderenkorting
-
-- Aanvullende Ouderenkorting
-
-- Vermogen Bank / giro gegevens altijd, overige gegevens indien van toepassing
-
-- Bank / girorekeningen Altijd meenemen:
-
-- Inclusief spaarrekeningen en Beleggingsrekeningen
-
-- Van alle rekeningen (ook in buitenland): naam. adres, woonplaats, bankinstelling en rekeningnummer Alle bescheiden waaruit spaargeld blijkt, bijvoorbeeld spaarbankboekje, spaarrekeningen Alle afschriften van de bank-, giro- en/of creditkaartrekeningen van de laatste drie maanden
-
-- Motorvoertuigen Alle documenten, zoals:
-
-- Auto, Motor, Bedrijfswagen
-
-- Het kentekenbewijs (delen I en II)
-
-- Gegevens omtrent de financiering (bijvoorbeeld financieringscontract, lening, huurkoop, uitgestelde betaling)
-
-- Aankoopbewijs
-
-- Eigendomsbewijs
-
-- Caravan of boot Alle documenten, zoals:
-
-- Omschrijving merk, type, bouwjaar
-
-- Gegevens omtrent de financiering (bijvoorbeeld financieringscontract, lening, huurkoop, uitgestelde betaling)
-
-- Aankoopbewijs
-
-- Eigendomsbewijs
-
-- Overzicht waardepapieren Alle documenten, zoals:
-
-- Lijfrente polissen
-
-- Effecten
-
-- Levensverzekeringen obligaties
-
-- Aandelen/opties Dividendoverzichten
-
-- Spaarbrieven
-
-- Koopsompolissen
-
-- Beleggingscertificaten
-
-- Overige bezittingen Overzicht, documenten, zoals:
-
-- Juwelen
-
-- Schilderijen
-
-- Onroerend goed (ook in het buitenland)
-
-- Aandeel in een onverdeelde boedel of erfenis
-
-- Taxatierapporten
-
-- Inboedelverzekering Alle documenten, zoals:
-
-- Polis inboedelverzekering
-
-- Schulden Indien van toepassing Lopende Leningen Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Kredietverschaffer
-
-- Overeenkomst of contract lening of krediet
-
-- Alle afschriften en aflossingsoverzichten van de afgelopen drie maanden
-
-- Correspondentie inzake achterstanden
-
-- Betalingsachterstanden (anders dan leningen) Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Instantie(S)
-
-- Correspondentie inzake achterstanden
-
-- Schriftelijke overeenkomst inzake aflossingsregeling
-
-- Schuldsanering Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer advocaat schuldhulpverlening
-
-- Verzoek tot regeling van de schulden
-
-- Beschikking rechter inzake wettelijke schuldregeling
-
-- Beschikking bewindvoering of onder curatele stelling
-
-- Contract saneringskrediet (Gemeentelijke Kredietbank)
-
-- Ziektekostenverzekering Altijd, indien u bent ingeschreven bij een Ziekenfonds
-
-- Ziektekostenverzekering Alle documenten, zoals:
-
-- Bewijs van inschrijving , ziekenfondskaart of pasje
-
-- Polis ziektekostenverzekering
-
-- Polis (aanvullende) ziekenfondsverzekering
-
-- Betalingsbewijzen premies ziektekostenverzekering
-
-## Bijlage II. Aanvraag [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)/[TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
-
-Alle relevante gegevens behorende tot de volgende categorieën:
-
-- Persoons- en stamgegevens zoals (voor zover van toepassing):
-
-- naam, adres en woonplaats
-
-- sofinummer
-
-- `geboortedatum
-
-- burgerlijke staat
-
-- leefvorm
-
-- nationaliteit
-
-- verblijfstitel
-
-- werkvergunning
-
-- ziektekostenverzekering
-
-- Arbeids- en werkgeversgegevens zoals (voor zover van toepassing):
-
-- aard arbeidsverhouding
-
-- arbeidsperiode
-
-- brutoloon en loonperiode
-
-- werkgever
-
-- uitzendbureau en inlener
-
-- Arbeidskwalificatiegegevens zoals (voor zover van toepassing):
-
-- arbeidsmarktkwalificaties
-
-- opleiding
-
-- werkervaring
-
-- Arbeidstoeleidingsgegevens zoals (voor zover van toepassing):
-
-- beschikbaarheid voor arbeid
-
-- mobiliteit en belemmeringen
-
-- inschrijving werkzoekende
-
-- Uitkeringsgegevens zoals (voor zover van toepassing):
-
-- aanvraag uitkering
-
-- uitkeringsverhouding
-
-- ontslag (aantal uren, aard, bezwaar)
-
-- Bewijsstukken WW/TW
-
-- Identiteit Origineel en geldig identiteitsbewijs
-
-- Indien van toepassing: Origineel en geldig bewijs waaruit de verblijfsstatus blijkt
-
-- Sollicitatie activiteiten Niet voor groepen die zijn vrijgesteld van deze verplichting Overzicht van recente sollicitaties en eventueel relevante correspondentie
-
-- Ontslag / beëindiging dienstverband Indien van toepassing
-
-- Alle documenten met betrekking tot het ontslag, zoals bijvoorbeeld:
-
-- Ontslagcorrespondentie met ex werkgever
-
-- Ontslagcorrespondentie met andere instanties
-
-- Ontslagvergunning
-
-- Verzoek / verweer schrift
-
-- Beschikking kantonrechter
-
-- Inkomen en arbeidsverleden Indien van toepassing Inkomsten uit arbeid (loondienst) Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Werkgever
-
-- Naam, adres, woonplaats, telefoonnummer uitzendbureaus en opdrachtgevers
-
-- Arbeidsovereenkomst
-
-- Laatste loonstroken
-
-- Ingevulde loonbelastingverklaring
-
-- Voor zover beschikbaar volledig ingevulde werkgeversverklaring
-
-- Statusoverzichten
-
-- Inkomsten uit Uitkering Alle documenten, zoals:
-
-- Naam, adres, woonplaats, telefoonnummer Uitkeringsinstantie
-
-- Bewijs van toekenning (beschikking) inzake de uitkering
-
-- Bewijs van (tijdelijke) verlaging of wijziging van de uitkering
-
-- Correspondentie met de uitkeringsinstantie
-
-- Ziektekostenverzekering Ziekenfonds, ziektekostenverzekering Bewijs van inschrijving
-
-## Bijlage III
-
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
-
-## Bijlage IV
+## Bijlage V
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage V
+## Bijlage VI
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage VII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage VIII
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage IX
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage X
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
@@ -3700,11 +3156,11 @@ Die regels hebben in elk geval betrekking op:
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage VI
+## Bijlage XI
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage VII
+## Bijlage XII
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
@@ -3722,13 +3178,13 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ##### Artikel 5.10a. Jaarverslag, kwartaalverslagen en jaarrekening van CWI, UWV en SVB
 
-1. De jaarverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-01-01&g=2005-01-01), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-01-01&g=2005-01-01).
+1. De jaarverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-03-06&g=2005-03-06), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-03-06&g=2005-03-06).
 
-2. De kwartaalverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-01-01&g=2005-01-01), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-01-01&g=2005-01-01), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-01-01&g=2005-01-01).
+2. De kwartaalverslagen van de CWI, het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen IV, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2005-03-06&g=2005-03-06), [VI, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2005-03-06&g=2005-03-06), en [VIII, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2005-03-06&g=2005-03-06).
 
-3. Het jaarverslag, de kwartaalverslagen en de jaarrekening van de CWI bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), bedoelde organisatieonderdeel en het andere deel op de CWI met uitzondering van het bedoelde organisatieonderdeel.
+3. Het jaarverslag, de kwartaalverslagen en de jaarrekening van de CWI bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-03-06&g=2005-03-06), bedoelde organisatieonderdeel en het andere deel op de CWI met uitzondering van het bedoelde organisatieonderdeel.
 
-4. De delen van het jaarverslag en de kwartaalverslagen die betrekking hebben op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-01-01&g=2005-01-01), bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2005-01-01&g=2005-01-01).
+4. De delen van het jaarverslag en de kwartaalverslagen die betrekking hebben op het in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2005-03-06&g=2005-03-06), bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2005-03-06&g=2005-03-06).
 
 #### § 5.1a. Verantwoording
 
@@ -3748,19 +3204,19 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage VIII
+## Bijlage XIII
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage IX
+## Bijlage XIV
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage X
+## Bijlage XV
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage XI
+## Bijlage XVI
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
@@ -3776,9 +3232,19 @@ Tot uiterlijk 1 juli 2006 worden opgaven en inlichtingen als bedoeld in [artikel
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage XII
+## Bijlage XVII. Aansluitingsschema gemeenten op IB
 
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+- 1. De volgende 81 gemeenten verstrekken de gegevens, bedoeld in [artikel 3, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3), uiterlijk met ingang van 1 oktober 2002 door tussenkomst van het IB:
+
+- Alkmaar; Almelo; Alphen aan den Rijn; Amsterdam; Anna Paulowna; Apeldoorn; Arnhem; Assen; Baarn; Bathmen; Bergen op Zoom; Bernisse; Borsele; Coevorden; Deurne; Deventer; Dordrecht; Dronten; Eindhoven; Emmen; Enschede; Epe; Gaasterlân-Sleat; Geertruidenberg; Goes; Graafstroom; Groningen; Haarlem; Heerde; Heerhugowaard; Heerlen; Hellevoetsluis; Helmond; Hengelo (Gld); Hengelo (O); Hilversum; Hoogeveen; Hoogezand-Sappemeer; Hoorn; Houten; Hummelo en Keppel; Katwijk; Leeuwarden; Lelystad; Lochem; Menterwolde; Montfoort; Mook en Middelaar; Naaldwijk; Nieuwegein; Nijmegen; Noord-Beveland; Noordoostpolder; Oldenzaal; Oostzaan; Oss; Reimerswaal; Rijnsburg; Roggel en Neer; Rotterdam; Schiedam; 's-Hertogenbosch; Sliedrecht; Smallingerland; Terneuzen; Tilburg; Urk; Velsen; Venlo; Vlaardingen; Vlissingen; Voorhout; Weert; Wijdemeren; Wormerland; Zaanstad; Zandvoort; Zeist; Zelhem; Zoetermeer; Zwolle.
+
+- 2. De volgende 55 gemeenten verstrekken de gegevens, bedoeld in [artikel 3, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3), uiterlijk met ingang van 1 januari 2003 door tussenkomst van het IB:
+
+- Aalsmeer; Abcoude; Andijk; Barneveld; Bedum; Beemster; Bergen (NH); Beverwijk; Bladel; Bloemendaal; Boarnsterhim; Borne; Breukelen; Bussum; Culemborg; De Bilt; De Ronde Venen; Dongeradeel; Eijsden; Gouda; Haaren; Heerenveen; Hellendoorn; Hilvarenbeek; Hof van Twente; Hulst; Leersum; Moerdijk; Naarden; Niedorp; Nijkerk; Noordwijk; Ooststellingwerf; Opsterland; Papendrecht; Raalte; Renkum; Ridderkerk; Rijssen; Roosendaal; Schagen; Schiermonnikoog; 's-Gravenhage; Slochteren; Steenbergen; Steenwijk; Texel; Uithoorn; Utrecht; Valkenburg; Voorschoten; Waddinxveen; Warnsveld; Zwartewaterland; Zwijndrecht.
+
+- 3. De volgende 360 gemeenten verstrekken de gegevens, bedoeld in [artikel 3, eerste lid, van het Besluit Inlichtingenbureau gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013180&artikel=3), uiterlijk met ingang van 1 april 2003 door tussenkomst van het IB:
+
+- Aa en Hunze; Aalburg; Aalten; Achtkarspelen; Alblasserdam; Albrandswaard; Alkemade; Almere; Alphen-Chaam; Ambt Montfort; Ameland; Amerongen; Amersfoort; Amstelveen; Angerlo; Appingedam; Arcen en Velden; Asten; Axel; Baarle-Nassau; Barendrecht; Beek; Beesel; Bellingwedde; Bemmel; Bennebroek; Bergambacht; Bergeijk; Bergen (L); Bergh; Bergschenhoek; Berkel en Rodenrijs; Bernheze; Best; Beuningen; Binnenmaas; Blaricum; Bleiswijk; Bodegraven; Boekel; Bolsward; Borculo; Borger-Odoorn; Boskoop; Boxmeer; Boxtel; Breda; Brielle; Brummen; Brunssum; Bunnik; Bunschoten; Buren; Capelle aan den IJssel; Castricum; Cranendonck; Cromstrijen. Cuijk. Dalfsen; Dantumadeel; De Lier; De Marne; De Wolden; Den Helder; Delft; Delfzijl; Didam; Diemen; Dinkelland; Dinxperlo; Driksland; Doesburg; Doetinchem; Dongen; Doorn; Drechterland; Driebergen-Rijsenburg; Drimmelen; Druten; Duiven; Echt; Edam-Volendam; Ede; Eemnes; Eemsmond; Eersel; Eibergen; Elburg; Enkhuizen; Ermelo; Etten-Leur; Ferwerderadiel; Franekeradeel; Geldermalsen; Geldrop; Gemert-Bakel; Gendringen; Gennep; Giessenlanden; Gilze en Rijen; Goedereede; Goirle; Gorinchem; Gorssel; Graft-De Rijp; Grave; Groenlo; Groesbeek; Grootegast; Gulpen-Wittem; Haaksbergen; Haarlemmerliede en Spaarnwoude; Haarlemmermeer; Haaksbergen; Haelen; Halderberge; Hardenberg; Harderwijk; Hardinxveld-Giessendam; Haren; Harenkarspel; Harlingen; Hattem; Heel; Heemskerk; Heemstede; Heerjansdam; Heeze-Leende; Heiloo; Helden; Hendrik-Ido-Ambacht; Het Bildt; Heumen; Heusden; Heythuysen; Hillegom; Hontenisse; Horst aan den Maas; Huizen; Hunsel; IJsselstein; Jacobswoude; Kampen; Kapelle; Kerkrade; Kessel; Kesteren; Kollumerland c.a.; Korendijk; Krimpen aan den IJssel; Laarbeek; Landerd; Landgraaf; Landsmeer; Langedijk; Laren; Leek; Leerdam; Leeuwarderadeel. Leiden; Leiderdorp; Leidschendam-Voorburg; Lemsterland; Leusden; Lichtenvoorde; Liemeer; Liesveld; Lingewaal; Lisse; Lith; Littenseradiel; Loenen; Loon op Zand; Lopik; Loppersum; Losser; Maarn; Maarssen; Maasbracht; Maasbree; Maasdonk; Maasdriel; Maasland; Maassluis; Maastricht; Margraten; Marum; Medemblik; Meerlo-Wanssum; Meerssen; Meijel; Menaldumadeel; Meppel; Middelburg; Middelharnis; Midden-Drenthe; Mierlo; Mill en Sint Hubert; Millingen aan de Rijn; Monster; Moordrecht; Muiden; Nederlek; Nederweert; Neede; Neerijnen; Nieuwerkerk aan den IJssel; Nieuwkoop; Nieuw-Lekkerland; Nijefurd; Noordenveld; Noorder-Koggenland; Noordwijkerhout; Nuenen c.a.; Nunspeet; Nuth; Obdam; Oegstgeest; Oisterwijk; Oirschot; Oldebroek; Olst-Wijhe; Ommen; Onderbanken; Oostburg; Oosterhout; Oostflakkee; Opmeer; Oud-Beijerland; Ouder-Amstel; Ouderkerk; Oudewater; Overbetuwe; Pekela; Pijnacker-Nootdorp; Purmerend; Putten; Ravenstein; Reeuwijk; Reiderland; Renswoude; Reusel-De Mierden; Rheden; Rhenen; Rijnwaarden; Rijnwoude; Rijswijk; Roerdalen; Roermond; Rozenburg; Rozendaal; Rucphen; Ruurlo; Sas van Gent; Sassenheim; Scheemda; Schermer; Scherpenzeel; Schijndel; Schinnen; Schipluiden; Schoonhoven; Schouwen-Duiveland; Sevenum; 's-Gravendeel; 's-Gravenzande; Simpelveld; Sint Anthonis; Sint-Michielsgestel; Sint-Oedenrode; Sittard-Geleen; Skarsterlan; Sluis-Aardenburg; Sneek; Soest; Someren; Son en Breugel; Spijkenisse; Stadskanaal; Staphorst; Stede Broec; Steenderen; Stein; Strijen; Susteren; Swalmen; Ten Boer; Ter Aar; Terschelling; Tholen; Thorn; Tiel; Tubbergen; Twenterand; Tynaarlo; Tytsjerksteradiel; Ubbergen; Uden; Uitgeest; Vaals; Valkenburg aan de Geul; Valkenswaard; Veendam; Veenendaal; Veere; Veghel; Veldhoven; Venhuizen; Venray; Vianen; Vlagtwedde; Vlieland; Vlist; Voerendaal; Voorst; Vorden; Vught; Waalre; Waalwijk; Wageningen; Warmond; Wassenaar; Wateringen; Waterland; Weesp; Wehl; Werkendam; Wervershoof; Wester-Koggenland; Westerveld; Westervoort; West Maas en Waal; Weststellingwerf; Westvoorne; Wierden; Wieringen; Wieringermeer; Wijchen; Wijk bij Duurstede; Winschoten; Winsum; Winterswijk; Wisch; Woensdrecht; Woerden; Wognum; Woudenberg; Woudrichem; Wunseradiel; Wymbritseradiel; Zaltbommel; Zederik; Zeevang; Zeewolde; Zevenaar; Zevenhuizen-Moerkapelle; Zijpe; Zoeterwoude. Zuidhorn; Zundert; Zutphen.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -3828,7 +3294,7 @@ In de individuele reïntegratieovereenkomst wordt in elk geval geregeld:
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage XVIII. behorende bij de regeling SUWI, [artikel 7.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=7&artikel=7.3&z=2005-01-01&g=2005-01-01)
+## Bijlage XVIII. behorende bij de regeling SUWI, [artikel 7.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=7&artikel=7.3&z=2005-03-06&g=2005-03-06)
 
 Leidschendam-Voorburg
 
@@ -3836,9 +3302,117 @@ Rijswijk
 
 Wassenaar
 
-## Bijlage XIV
+## Bijlage XIX. behorende bij de Regeling SUWI, artikel 7.4, eerste lid
 
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+| Gemeente van vestiging CWI | Werkgebied CWI's |
+| --- | --- |
+|   |   |
+| Alphen a.d. Rijn | Alphen aan den Rijn, Jacobswoude,Liemeer, Nieuwkoop, Rijnwoude, Ter Aar |
+| Delft | Delft, Nootdorp, Pijnacker, Schipluiden |
+| Den Haag (4) | 's-Gravenhage |
+| Gouda | Bergambacht, Bodegraven, Boskoop,Gouda, Moordrecht, Nederlek,Nieuwerkerk aan den IJssel, Ouderkerk,Oudewater, Reeuwijk, Schoonhoven,Vlist, Waddinxveen, Zevenhuizen-Moerkapelle |
+| Leiden | Alkemade, Leiden, Leiderdorp,Oegstgeest, Voorschoten, Zoeterwoude |
+| Lisse | Hillegom, Katwijk, Lisse, Noordwijk,Noordwijkerhout, Rijnsburg, Sassenheim,Valkenburg, Voorhout, Warmond |
+| Naaldwijk | De Lier, Maasland, Monster, Naaldwijk,'s-Gravenzande, Wateringen |
+| Voorburg | Leidschendam, Rijswijk, Voorburg,Wassenaar |
+| Zoetermeer | Zoetermeer |
+| Almere | Almere, Zeewolde |
+| Amersfoort | Amersfoort, Bunschoten, Leusden,Woudenberg |
+| Hilversum | Hilversum, Laren, Loenen, Loosdrecht,Nederhorst den Berg, 's-Graveland |
+| Huizen | Blaricum, Bussum, Huizen, Muiden,Naarden, Weesp |
+| Lelystad | Lelystad |
+| Nieuwegein | Houten, IJsselstein, Lopik, Nieuwegein,Vianen |
+| Noordoostpolder | Dronten, Noordoostpolder, Urk |
+| Soest | Baarn, Eemnes, Soest |
+| Utrecht (3) | Breukelen, Maarssen, Montfoort,Utrecht, Woerden |
+| Veenendaal | Renswoude, Rhenen, Veenendaal |
+| Zeist | Amerongen, Bunnik, De Bilt, Doorn,Driebergen-Rijsenburg, Leersum, Maarn,Wijk bij Duurstede, Zeist |
+| Almelo | Almelo, Tubbergen, Vriezenveen, Wierden |
+| Enschede | Enschede, Haaksbergen |
+| Hardenberg | Hardenberg, Ommen |
+| Hellendoorn | Hellendoorn, Rijssen |
+| Hengelo | Borne, Hengelo, Hof van Twente |
+| Oldenzaal | Denekamp, Losser, Oldenzaal |
+| Steenwijk | Meppel, Steenwijk, Westerveld |
+| Zwolle | Dalfsen, Hattem, Heerde, Kampen,Oldebroek, Raalte, Staphorst,Zwartewaterland, Zwolle |
+| Apeldoorn | Apeldoorn, Brummen, Epe, Voorst |
+| Barneveld | Barneveld, Nijkerk, Scherpenzeel |
+| Deventer | Bathmen, Deventer, Olst |
+| Ede | Ede, Wageningen |
+| Harderwijk | Elburg, Ermelo, Harderwijk, Nunspeet,Putten |
+| Zutphen | Lochem, Vorden, Warnsveld, Zutphen |
+| Arnhem (2) | Arnhem, Bemmel, Doesburg, Renkum,Rheden, Rozendaal, Valburg, Overbetuwe |
+| Doetinchem | Bergh, Doetinchem, Hengelo, Hummelo enKeppel, Steenderen, Wehl, Zelhem |
+| Nijmegen | Beuningen, Druten, Groesbeek, Heumen,Millingen aan de Rijn, Mook enMiddelaar, Nijmegen, Ubbergen, WestMaas en Waal, Wijchen |
+| Tiel (Zaltbommel) | Buren, Dodewaard, Echteld, Kesteren,Tiel, Culemborg, Geldermalsen,Lingewaal, Maasdriel, Neerijnen,Zaltbommel |
+| Winterswijk | Aalte, Borculo, Eibergen, Groenlo,Lichtenvoorde, Neede, Ruurlo,Winterswijk |
+| Wisch | Dinxperlo, Gendringen, Wisch |
+| Zevenaar | Angerlo, Didam, Duiven, Rijnwaarden,Westervoort, Zevenaar |
+| Achtkarspelen | Achtkarspelen, Kollumerland en NieuwKruisland |
+| Dongeradeel | Ameland, Dantumadeel, Dongeradeel,Schiermonnikoog |
+| Franekeradeel | Franekeradeel, Harlingen, het Bildt,Menaldumadeel, Terschelling, Vlieland |
+| Heerenveen | Gasterlan-Sleat, Heerenveen,Lemsterland, Oostellingwerf,Skarsterlan, Weststellingwerf |
+| Leeuwarden | Boarnsterhim, Ferwerderadiel,Leeuwarden, Leeuwarderadeel, deel vanTytsjerksteradiel |
+| Smallingerland | Opsterland, Smallingerland, deel vanTytsjerkeradiel, |
+| Sneek | Bolsward, Littenseradiel, Nijefurd,Sneek, Wunseradiel, Wymbritseradiel |
+| Delfzijl (Winsum)* | Appingedam, Delfzijl, Eemsmond,Loppersum, Ten Boer, Winsum, Bedum, DeMarne |
+| Groningen (2) | Groningen, Haren, Zuidhorn |
+| Hoogezand-Sappemeer | Hoogezand-Sappemeer, Slochteren |
+| Noordenveld | Grootegast, Leek, Marum, Noordenveld |
+| Stadskanaal | Stadskanaal, Vlagtwedde |
+| Veendam | Menterwolde, Pekela, Veendam |
+| Winschoten | Bellingwedde, Reiderland, Scheemda,Winschoten |
+| Assen | Aa en Hunze, Assen, Tynaarlo |
+| Emmen | Borger-Odoorn, Coevorden, Emmen |
+| Hoogeveen | De Wolden, Hoogeveen, Midden-Drenthe |
+| Den Bosch | Boxtel, Haaren, 's-Hertogenbosch, Sint-Michielsgestel, Vught |
+| Cuijk | Boxmeer, Cuijk, Grave, Mill en SintHubert, Sint Anthonis |
+| Oss | deel Bernheze, Landerd, Lith, Maasdonk,Oss, Ravenstein |
+| Tilburg (2) | Alphen-Chaam, Baarle-Nassau, Dongen,Gilze en Rijen, Goirle, Hilvarenbeek,Oisterwijk, Tilburg |
+| Veghel | Deel van Bernheze, Boekel, Schijndel,Sint-Oedenrode, Uden, Veghel |
+| Venray | Bergen(L), Gennep, Horst aan de Maas,Meerlo-Wanssum, Sevenum, Venray |
+| Waalwijk | Heusden, Loon op Zand, Waalwijk |
+| Bladel | Bladel, Eersel, Reusel-De Mierden, deelVeldhoven |
+| Eindhoven (2) | Best, Eindhoven, Geldrop, Heeze-Leende,Nuenen, Oirschot, Son en Breughel, deelVeldhoven |
+| Helmond | Asten, Deurne, Gemert-Bakel, Helmond,Laarbeek, Mierlo, Someren |
+| Valkenswaard | Bergeijk, Valkenswaard, Waalre |
+| Venlo | Arcen en Velden, Beesel, Helden,Kessel, Maasbree, Meijel, Venlo |
+| Weert | Cranendonck, Hunsel, Nederweert, Weert |
+| Gulpen | Gulpen-Wittem, Margraten, Vaals,Valkenburg aan de Geul |
+| Heerlen | Brunssum, Heerlen, Landgraaf, Nuth,Onderbanken, Simpelveld, Voerendaal |
+| Kerkrade | Kerkrade |
+| Maastricht | Eijsden, Maastricht, Meerssen |
+| Roermond | Ambt Montfort, Echt, Haelen, Heel,Heythuysen, Maasbracht, Roerdalen,Roermond, Roggel en Neer, Swalmen,Thorn |
+| Sittard | Beek, Schinnen, Sittard, Stein,Susteren |
+| Amstelveen | Amstelveen, Ouder-Amstel, Uithoorn, Deronde Venen, Abcoude |
+| Beverwijk | Beverwijk, Heemskerk, Uitgeest, Velsen |
+| Haarlem (2) | Bennebroek, Bloemendaal, Haarlem,Haarlemmerliede en Spaarnwoude,Heemstede, Zandvoort |
+| Haarlemmermeer | Aalsmeer, Haarlemmermeer |
+| Purmerend | Beemster, Edam-Volendam, Purmerend,Waterland, Zeevang |
+| Zaanstad | Oostzaan, Wormerland, Zaanstad |
+| Alkmaar | Alkmaar, Akersloot, Bergen, Castricum,Graft-De Rijp, Heerhugowaard, Heiloo,Langedijk, Limmen, Schermer |
+| Amsterdam (8) | Amsterdam, Diemen, Landsmeer |
+| Den Helder (Texel*) | Anna Paulowna, Den Helder, Texel |
+| Hoorn | Andijk, Drechterland, Enkhuizen, Hoorn,Medemblik, Noorder-Koggenland, Obdam,Opmeer, Stede Broec, Venhuizen,Wervershoof, Wester-Koggenland, Wognum |
+| Schagen | Harenkarspel, Niedorp, Schagen,Wieringen, Wieringermeer, Zijpe |
+| Capelle a/d IJssel | Capelle aan den IJssel, Krimpen aan denIJssel |
+| Dordrecht | Alblasserdam, Dordrecht, Graafstroom,Heersjansdam, Hendrik-ldo-Ambacht,Nieuw-Lekkerland, Papendrecht,Sliedrecht, Zwijndrecht |
+| Hellevoetsluis | Bernisse, Brielle, deel Dirksland,Goedereede, Hellevoetsluis, Rozenburg,Westvoorne |
+| Oud-Beijerland | Binnenmaas, Cromstrijen, 's-Gravendeel,Korendijk, Oud-Beijerland, Strijen |
+| Rotterdam (5) | Albrandswaard, Barendrecht,Bergschenhoek, Berkel en Rodenrijs,Bleiswijk, deel Dirksland, Oostflakkee,Middelharnis, Ridderkerk, Rotterdam |
+| Schiedam | Maassluis, Schiedam, Vlaardingen |
+| Spijkenisse | Spijkenisse |
+| Bergen op Zoom | Bergen op Zoom, Steenbergen,Woensdrecht |
+| Breda | Breda |
+| Etten-Leur | Etten-Leur, Moerdijk, Rucphen, Zundert |
+| Gorinchem | Aalburg, Giessenlanden, Gorinchem,Hardinxveld-Giessendam, Leerdam,Liesveld, Werkendam, Woudrichem,Zederik |
+| Oosterhout | Drimmelen, Geertruidenberg, Oosterhout |
+| Roosendaal | Halderberge, Roosendaal |
+| Goes (Schouwen-Duivenland, Tholen*) | Borsele, Goes, Kapelle, Noord-Beveland,Reimerswaal, Schouwen-Duiveland, Tholen |
+| Middelburg | Middelburg, Veere, Vlissingen |
+| Terneuzen (Oostburg*) | Axel, Hontenisse, Hulst, Oostburg, Sasvan Gent, Sluis-Aardenburg, Terneuzen |
+
+* CWI faciliteit
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -3854,13 +3428,13 @@ De hoogte van het budget ex [artikel 130c WW](https://wetten.overheid.nl/jci1.3:
 
 #### § 5.1a. Verantwoording
 
-#### § 5.1b. Accountantscontrole
+#### § 5.2. Informatievoorziening
 
 #### § 5.2.1. Informatieverstrekking CWI, UWV en SVb aan de minister en de IWI
 
 #### § 5.2.3. Informatieverstrekking IB aan de minister en de IWI
 
-#### § 5.2.2. Informatieverstrekking aan de RWI
+#### § 5.2.4. Rapportage gegevensverwerking
 
 #### § 5.2.5. Kennisgeving besluiten CWI, UWV en SVB aan de IWI
 
@@ -3868,13 +3442,13 @@ De hoogte van het budget ex [artikel 130c WW](https://wetten.overheid.nl/jci1.3:
 
 #### § 6.1. Suwinet
 
-#### § 6.1. Suwinet
+#### § 6.2. IB
 
 ### Hoofdstuk 7. Overgangsbepalingen en afwijkingen van de Wet SUWI en van het Besluit Inlichtingenbureau gemeenten i.v.m. invoering
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage XV
+## Bijlage XX
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
@@ -3955,7 +3529,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 | Financiële fouten in de verantwoording | ≤ 1% | > 1% en ≤ 3% |   | > 3% |
 | onzekerheden in de controle | ≤ 3% | > 3% en ≤ 10% | > 10% |   |
 
-3. De accountantsverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2005-03-26&g=2005-01-01) behorende bij deze regeling.
+3. De accountantsverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXI&z=2005-03-26&g=2005-03-06) behorende bij deze regeling.
 
 ##### Artikel 5.10e. Het verslag van bevindingen
 
@@ -4031,7 +3605,7 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 - Aa en Hunze; Aalburg; Aalten; Achtkarspelen; Alblasserdam; Albrandswaard; Alkemade; Almere; Alphen-Chaam; Ambt Montfort; Ameland; Amerongen; Amersfoort; Amstelveen; Angerlo; Appingedam; Arcen en Velden; Asten; Axel; Baarle-Nassau; Barendrecht; Beek; Beesel; Bellingwedde; Bemmel; Bennebroek; Bergambacht; Bergeijk; Bergen (L); Bergh; Bergschenhoek; Berkel en Rodenrijs; Bernheze; Best; Beuningen; Binnenmaas; Blaricum; Bleiswijk; Bodegraven; Boekel; Bolsward; Borculo; Borger-Odoorn; Boskoop; Boxmeer; Boxtel; Breda; Brielle; Brummen; Brunssum; Bunnik; Bunschoten; Buren; Capelle aan den IJssel; Castricum; Cranendonck; Cromstrijen. Cuijk. Dalfsen; Dantumadeel; De Lier; De Marne; De Wolden; Den Helder; Delft; Delfzijl; Didam; Diemen; Dinkelland; Dinxperlo; Driksland; Doesburg; Doetinchem; Dongen; Doorn; Drechterland; Driebergen-Rijsenburg; Drimmelen; Druten; Duiven; Echt; Edam-Volendam; Ede; Eemnes; Eemsmond; Eersel; Eibergen; Elburg; Enkhuizen; Ermelo; Etten-Leur; Ferwerderadiel; Franekeradeel; Geldermalsen; Geldrop; Gemert-Bakel; Gendringen; Gennep; Giessenlanden; Gilze en Rijen; Goedereede; Goirle; Gorinchem; Gorssel; Graft-De Rijp; Grave; Groenlo; Groesbeek; Grootegast; Gulpen-Wittem; Haaksbergen; Haarlemmerliede en Spaarnwoude; Haarlemmermeer; Haaksbergen; Haelen; Halderberge; Hardenberg; Harderwijk; Hardinxveld-Giessendam; Haren; Harenkarspel; Harlingen; Hattem; Heel; Heemskerk; Heemstede; Heerjansdam; Heeze-Leende; Heiloo; Helden; Hendrik-Ido-Ambacht; Het Bildt; Heumen; Heusden; Heythuysen; Hillegom; Hontenisse; Horst aan den Maas; Huizen; Hunsel; IJsselstein; Jacobswoude; Kampen; Kapelle; Kerkrade; Kessel; Kesteren; Kollumerland c.a.; Korendijk; Krimpen aan den IJssel; Laarbeek; Landerd; Landgraaf; Landsmeer; Langedijk; Laren; Leek; Leerdam; Leeuwarderadeel. Leiden; Leiderdorp; Leidschendam-Voorburg; Lemsterland; Leusden; Lichtenvoorde; Liemeer; Liesveld; Lingewaal; Lisse; Lith; Littenseradiel; Loenen; Loon op Zand; Lopik; Loppersum; Losser; Maarn; Maarssen; Maasbracht; Maasbree; Maasdonk; Maasdriel; Maasland; Maassluis; Maastricht; Margraten; Marum; Medemblik; Meerlo-Wanssum; Meerssen; Meijel; Menaldumadeel; Meppel; Middelburg; Middelharnis; Midden-Drenthe; Mierlo; Mill en Sint Hubert; Millingen aan de Rijn; Monster; Moordrecht; Muiden; Nederlek; Nederweert; Neede; Neerijnen; Nieuwerkerk aan den IJssel; Nieuwkoop; Nieuw-Lekkerland; Nijefurd; Noordenveld; Noorder-Koggenland; Noordwijkerhout; Nuenen c.a.; Nunspeet; Nuth; Obdam; Oegstgeest; Oisterwijk; Oirschot; Oldebroek; Olst-Wijhe; Ommen; Onderbanken; Oostburg; Oosterhout; Oostflakkee; Opmeer; Oud-Beijerland; Ouder-Amstel; Ouderkerk; Oudewater; Overbetuwe; Pekela; Pijnacker-Nootdorp; Purmerend; Putten; Ravenstein; Reeuwijk; Reiderland; Renswoude; Reusel-De Mierden; Rheden; Rhenen; Rijnwaarden; Rijnwoude; Rijswijk; Roerdalen; Roermond; Rozenburg; Rozendaal; Rucphen; Ruurlo; Sas van Gent; Sassenheim; Scheemda; Schermer; Scherpenzeel; Schijndel; Schinnen; Schipluiden; Schoonhoven; Schouwen-Duiveland; Sevenum; 's-Gravendeel; 's-Gravenzande; Simpelveld; Sint Anthonis; Sint-Michielsgestel; Sint-Oedenrode; Sittard-Geleen; Skarsterlan; Sluis-Aardenburg; Sneek; Soest; Someren; Son en Breugel; Spijkenisse; Stadskanaal; Staphorst; Stede Broec; Steenderen; Stein; Strijen; Susteren; Swalmen; Ten Boer; Ter Aar; Terschelling; Tholen; Thorn; Tiel; Tubbergen; Twenterand; Tynaarlo; Tytsjerksteradiel; Ubbergen; Uden; Uitgeest; Vaals; Valkenburg aan de Geul; Valkenswaard; Veendam; Veenendaal; Veere; Veghel; Veldhoven; Venhuizen; Venray; Vianen; Vlagtwedde; Vlieland; Vlist; Voerendaal; Voorst; Vorden; Vught; Waalre; Waalwijk; Wageningen; Warmond; Wassenaar; Wateringen; Waterland; Weesp; Wehl; Werkendam; Wervershoof; Wester-Koggenland; Westerveld; Westervoort; West Maas en Waal; Weststellingwerf; Westvoorne; Wierden; Wieringen; Wieringermeer; Wijchen; Wijk bij Duurstede; Winschoten; Winsum; Winterswijk; Wisch; Woensdrecht; Woerden; Wognum; Woudenberg; Woudrichem; Wunseradiel; Wymbritseradiel; Zaltbommel; Zederik; Zeevang; Zeewolde; Zevenaar; Zevenhuizen-Moerkapelle; Zijpe; Zoeterwoude. Zuidhorn; Zundert; Zutphen.
 
-## Bijlage XVIII. behorende bij de regeling SUWI, [artikel 7.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=7&artikel=7.3&z=2005-03-26&g=2005-01-01)
+## Bijlage XVIII. behorende bij de regeling SUWI, [artikel 7.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=7&artikel=7.3&z=2005-03-26&g=2005-03-06)
 
 Leidschendam-Voorburg
 
@@ -4155,7 +3729,7 @@ Wassenaar
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage XXI. als bedoeld in [artikel 5.10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2005-03-26&g=2005-01-01), van de Regeling SUWI
+## Bijlage XXI. als bedoeld in [artikel 5.10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2005-03-26&g=2005-03-06), van de Regeling SUWI
 
 ### 1. Goedkeurende accountantsverklaring
 
@@ -4165,7 +3739,7 @@ In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet str
 
 ### **Werkzaamheden**
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-01-01). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-03-06). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
@@ -4185,7 +3759,7 @@ In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet str
 
 ### **Werkzaamheden**
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-01-01). Accountantscontrole toegepast.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-03-06). Accountantscontrole toegepast.
 
 Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
@@ -4213,7 +3787,7 @@ In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet str
 
 ### **Werkzaamheden**
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-01-01). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-03-06). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
@@ -4239,7 +3813,7 @@ In het kader van de controle, bedoeld in [artikel 49, vierde lid, van de Wet str
 
 ### **Werkzaamheden**
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-01-01). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek van informatie ter onderbouwing van de bedragen en de toelichting in de jaarrekening. Bij onze controle zijn de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2005-03-26&g=2005-03-06). Accountantscontrole toegepast. Tevens omvat onze controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die de leiding van het de organisatie daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
