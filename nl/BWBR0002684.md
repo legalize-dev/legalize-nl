@@ -91,17 +91,3 @@ Ons besluit van 15 september 1956, **Stb.** 480, wordt ingetrokken.
 2. Het kan worden aangehaald als Besluit Huwelijksgoederenregister 1969.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Op verzoek van één of beide echtgenoten of (geregistreerde) partners wordt door de griffier in het register aangetekend dat het verzoek of de overeenkomst, bedoeld in [artikel 99, derde lid, eerste zin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99), niet meer tot het daar bedoelde gevolg kan leiden. Het verzoek is gedateerd en is behalve door de echtgenoot of echtgenoten dan wel (geregistreerde) partner of partners ondertekend door een advocaat of notaris.
-
-##### Artikel 3a
-
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2012-01-01&g=2012-01-01) genoemde stukken die voor een inschrijving in het huwelijksgoederenregister dienen te worden overgelegd, maken geen deel uit van het huwelijksgoederenregister. Zij worden ter griffie van de rechtbank op zodanige wijze bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
-
-##### Artikel 4a
-
-Dit besluit berust op de [artikelen 80b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80b), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=86), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=91), [99](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=99), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=104), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=105), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=106), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=116), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=173) en [176 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=176).
-
-Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
