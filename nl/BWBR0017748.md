@@ -4,7 +4,7 @@ identifier: "BWBR0017748"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2004-12-31"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017748"
 soort: "wet"
@@ -39,15 +39,15 @@ entry_into_force: "2004-12-31"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
@@ -55,31 +55,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet loonbelasting 1964.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel XI
 
@@ -87,7 +87,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XIII
 
@@ -95,7 +95,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIV
 
@@ -103,15 +103,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel XVIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XVII
 
@@ -123,23 +123,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIXa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XIXb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XIXc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIXd
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XX
 
@@ -151,11 +151,11 @@ Wijzigt het Belastingplan 2004.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel XXIV
 
@@ -163,79 +163,107 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+De vennootschapsbelasting over een boekjaar dat voor 1 januari 2005 aanvangt en op of na die datum eindigt, wordt, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de formule:
+
+belasting = (X/B x To) + (Y/B x Tn), waarin:
+
+X voorstelt: het aantal voor 1 januari 2005 vallende dagen van het boekjaar;
+
+Y voorstelt: het aantal na 31 december 2004 vallende dagen van het boekjaar;
+
+B voorstelt: het totale aantal dagen van het boekjaar;
+
+To voorstelt: de verschuldigde belasting over het belastbare bedrag of het belastbare Nederlandse bedrag op basis van het tarief van de vennootschapsbelasting zoals dat tarief luidt op 31 december 2004;
+
+Tn voorstelt: de verschuldigde belasting over het belastbare bedrag of het belastbare Nederlandse bedrag op basis van het tarief van de vennootschapsbelasting zoals dat tarief luidt met ingang van 1 januari 2005.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. In afwijking in zoverre van [artikel 16a van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a), is [artikel XIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIII&z=2005-01-01&g=2005-01-01), van toepassing voor bestelauto's waarvan het kenteken is tenaamgesteld na het tijdstip van inwerkingtreding van dit onderdeel.
+
+2. [Artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIII&z=2005-01-01&g=2005-01-01) vindt geen toepassing voor bestelauto's die op het in het eerste lid bedoelde tijdstip in gebruik waren genomen.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voorafgaand aan de inwerkingtreding van [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2005-01-01&g=2005-01-01) kunnen bij ministeriële regeling het aantal mg per km en het bedrag, genoemd in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2005-01-01&g=2005-01-01), worden gewijzigd, indien daartoe aanleiding bestaat ingevolge door de Europese Commissie voor te stellen dan wel voorgestelde wijzigingen van de geldende Europese norm voor de emissie van deeltjes ten aanzien van personenauto's en bestelauto's die worden aangedreven door een motor met compressieontsteking, dan wel ingevolge de uitkomsten van de notificatieprocedure op grond van [richtlijn 98/34/EG](31998L0034) van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften (PbEG L 204).
+
+2. [Artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2005-01-01&g=2005-01-01) vindt geen toepassing ten aanzien van personenauto's en bestelauto's die op het tijdstip van inwerkingtreding van dat artikel in gebruik waren genomen.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Voor een bestelauto waarvoor motorrijtuigenbelasting is voldaan over een tijdvak waarvan een gedeelte ligt na het tijdstip van inwerkingtreding van de verhogingen van de motorrijtuigenbelasting ingevolge de [artikelen XVIa, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVIa&z=2005-01-01&g=2005-01-01) en [XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVII&z=2005-01-01&g=2005-01-01), zijn deze verhogingen van toepassing met ingang van het eerstvolgende tijdvak.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) vindt geen toepassing bij het begin van het kalenderjaar 2005 op de bedragen genoemd in [artikel 27, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a).
+
+2. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XII&z=2005-01-01&g=2005-01-01), opgenomen verhogingen van de accijns.
 
 ##### Artikel XXIXa
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) vindt geen toepassing bij het begin van het kalenderjaar 2005 op de bedragen genoemd in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) en [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a).
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) vindt geen toepassing bij het begin van het kalenderjaar 2005 voorzover het betreft de aanpassing van de bedragen vermeld in [artikel 36i, eerste lid, onderdelen a tot en met d en g, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), en [artikel 36l, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l).
 
 ##### Artikel XXXa
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel XIXa, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXa&z=2005-01-01&g=2005-01-01), vindt met betrekking tot de vennootschapbelasting voor het eerst toepassing met betrekking tot tijdvakken die aanvangen op of na 1 januari 2005.
+
+2. [Artikel XIXa, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXa&z=2005-01-01&g=2005-01-01), vindt met betrekking tot de inkomstenbelasting voor het eerst toepassing met betrekking tot tijdvakken die aanvangen op of na 1 januari 2006.
+
+3. [Artikel XIXb, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXb&z=2005-01-01&g=2005-01-01), vinden voor het eerst toepassing met betrekking tot belastingaanslagen voor inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2005.
 
 ##### Artikel XXXB
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn bij het begin van het kalenderjaar 2006 van overeenkomstige toepassing op de in [artikel XIXd](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXd&z=2005-01-01&g=2005-01-01) vermelde bedragen.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Tot het loon in de zin van de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126) behoort niet een aandelenoptierecht ter zake waarvan vóór 1 januari 2005 reeds een bedrag als loon is genoten.
+
+Wijzigt deze wet.
 
 ##### Artikel XXXIa
 
-Dit onderdeel is nog niet inwerking getreden
+1. De kalenderjaren 2005, 2006 en 2007 tot en met 30 juni zijn voor de willekeurige afschrijving op films en filminvesteringsaftrek de [artikelen 3.33, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.33), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.36), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.37), [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.40), [3.42b, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b), [3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.44), [3.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a), [3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) en [10.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) en [18 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=18), alsmede de daarop berustende bepalingen, zoals die artikelen en bepalingen luidden op 31 december 2003, van toepassing met betrekking tot voortbrengingskosten, gemaakt voor 1 juli 2007. Daarbij wordt voor de toepassing van [artikel 8 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) luidde op 31 december 2003, voor de toepassing van [artikel 3.42b, derde lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b), zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) op die datum luidde, voor het daar genoemde bedrag van € 25 000 gelezen € 100 000.
+
+2. Het eerste lid is slechts van toepassing indien een verzoek om een verklaring als bedoeld in [artikel 3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.37), respectievelijk [3.42b, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) voor 1 juli 2007 is ingediend.
+
+3. Bij koninklijk besluit kan de werkingsduur van het eerste en tweede lid worden verkort indien de uitkomst van de notificatie bij de Europese Commissie dit nodig maakt.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2004 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.
 
 ##### Artikel XXXIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XXXIII
 
-1. Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van 1 januari 2005, met dien verstande dat [artikel I, onderdelen A, H, M, Q, R, S, T, U](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=I&z=2004-12-31&g=2004-12-31) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=V&z=2004-12-31&g=2004-12-31), en [artikel IV, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2004-12-31&g=2004-12-31), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2005 is toegepast.
+1. Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van 1 januari 2005, met dien verstande dat [artikel I, onderdelen A, H, M, Q, R, S, T, U](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=I&z=2005-01-01&g=2005-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=V&z=2005-01-01&g=2005-01-01), en [artikel IV, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2005-01-01&g=2005-01-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2005 is toegepast.
 
-2. In afwijking in zoverre van het eerste lid werkt [artikel XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XI&z=2004-12-31&g=2004-12-31), tweede lid, terug tot en met 1 januari 2003.
+2. In afwijking in zoverre van het eerste lid werkt [artikel XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XI&z=2005-01-01&g=2005-01-01), tweede lid, terug tot en met 1 januari 2003.
 
-3. In afwijking in zoverre van het eerste lid werken de [artikelen IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2004-12-31&g=2004-12-31), [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XX&z=2004-12-31&g=2004-12-31) en [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXIV&z=2004-12-31&g=2004-12-31) terug tot en met 27 augustus 2004, 17.00 uur.
+3. In afwijking in zoverre van het eerste lid werken de [artikelen IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=IV&z=2005-01-01&g=2005-01-01), [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XX&z=2005-01-01&g=2005-01-01) en [XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXIV&z=2005-01-01&g=2005-01-01) terug tot en met 27 augustus 2004, 17.00 uur.
 
-4. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXI&z=2004-12-31&g=2004-12-31), in werking op 31 december 2004.
+4. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXI&z=2005-01-01&g=2005-01-01), in werking op 31 december 2004.
 
-5. In afwijking van het eerste lid treedt [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=VI&z=2004-12-31&g=2004-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat deze bepaling terugwerkt tot en met 1 januari 2005.
+5. In afwijking van het eerste lid treedt [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=VI&z=2005-01-01&g=2005-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat deze bepaling terugwerkt tot en met 1 januari 2005.
 
-6. In afwijking van het eerste lid treedt [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
+6. In afwijking van het eerste lid treedt [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIV&z=2005-01-01&g=2005-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-7. In afwijking in zoverre van het eerste lid treedt [artikel XXXIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXXIa&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2005.
+7. In afwijking in zoverre van het eerste lid treedt [artikel XXXIa](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XXXIa&z=2005-01-01&g=2005-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2005.
 
-8. In afwijking van het eerste lid treedt [artikel XII, onderdeel B, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XII&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 juli 2005.
+8. In afwijking van het eerste lid treedt [artikel XII, onderdeel B, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XII&z=2005-01-01&g=2005-01-01), in werking met ingang van 1 juli 2005.
 
-9. In afwijking van het eerste lid treedt [artikel XIXb, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXb&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 januari 2006.
+9. In afwijking van het eerste lid treedt [artikel XIXb, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIXb&z=2005-01-01&g=2005-01-01), in werking met ingang van 1 januari 2006.
 
-10. In afwijking van het eerste lid treedt [artikel X, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=X&z=2004-12-31&g=2004-12-31), in werking met ingang van 1 januari 2007.
+10. In afwijking van het eerste lid treedt [artikel X, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=X&z=2005-01-01&g=2005-01-01), in werking met ingang van 1 januari 2007.
 
-11. In afwijking van het eerste lid treden de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIII&z=2004-12-31&g=2004-12-31), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVII&z=2004-12-31&g=2004-12-31) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVIII&z=2004-12-31&g=2004-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
+11. In afwijking van het eerste lid treden de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XIII&z=2005-01-01&g=2005-01-01), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVII&z=2005-01-01&g=2005-01-01) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017748&artikel=XVIII&z=2005-01-01&g=2005-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XXXIV
 
