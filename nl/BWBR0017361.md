@@ -4,7 +4,7 @@ identifier: "BWBR0017361"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-01-07"
-last_updated: "2004-11-25"
+last_updated: "2005-01-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017361"
 soort: "AMvB"
@@ -55,7 +55,7 @@ Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel IV
 
@@ -73,8 +73,8 @@ mogen worden verkocht totdat de voorraden zijn uitverkocht.
 
 2. In afwijking van het eerste lid:
 
-- a. treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017361&artikel=I&z=2004-11-25&g=2004-11-25) in werking met ingang van 25 november 2004;
+- a. treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017361&artikel=I&z=2005-01-07&g=2005-01-07) in werking met ingang van 25 november 2004;
 
-- b. treedt [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0017361&artikel=III&z=2004-11-25&g=2004-11-25) met ingang van acht weken na de in het eerste lid bedoelde datum in werking.
+- b. treedt [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0017361&artikel=III&z=2005-01-07&g=2005-01-07) met ingang van acht weken na de in het eerste lid bedoelde datum in werking.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
