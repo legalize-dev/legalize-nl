@@ -887,21 +887,3 @@ Er mogen geen voorbehouden worden gemaakt ten aanzien van de bepalingen van deze
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have affixed their signatures under this Agreement on the dates indicated.
 
 DONE at Geneva on the twenty-seventh day of June, one thousand nine hundred and eighty, in one original in the Arabic, Chinese, English, French, Russian and Spanish languages, all texts being equally authentic.
-
-### HOOFDSTUK V. ACTIVITEITEN
-
-### HOOFDSTUK VI. ORGANISATIE EN BEHEER
-
-### HOOFDSTUK VII. TERUGTREKKING DOOR EN SCHORSING VAN LEDEN
-
-### HOOFDSTUK VIII. OPSCHORTING EN BEËINDIGING VAN ACTIVITEITEN EN VEREFFENING VAN VERPLICHTINGEN
-
-### HOOFDSTUK IX. RECHTSPOSITIE, VOORRECHTEN EN IMMUNITEITEN
-
-### HOOFDSTUK X. WIJZIGINGEN
-
-### HOOFDSTUK XII. SLOTBEPALINGEN
-
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have affixed their signatures under this Agreement on the dates indicated.
-
-DONE at Geneva on the twenty-seventh day of June, one thousand nine hundred and eighty, in one original in the Arabic, Chinese, English, French, Russian and Spanish languages, all texts being equally authentic.
