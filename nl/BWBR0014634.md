@@ -62,7 +62,3 @@ De projectorganisatie bestaat uit:
 ##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).
