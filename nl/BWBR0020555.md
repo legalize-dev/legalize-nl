@@ -151,11 +151,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) en enkele andere daarmee verbandhoudende wetten, de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373), de [Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276), de [Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937) en diverse andere wetten op een of meer onderdelen te wijzigen in verband met geconstateerde gebreken en leemten of om enkele inhoudelijke wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
