@@ -1,0 +1,156 @@
+---
+title: "Wet van 2 juli 2003 tot uitvoering van de verordening (EG) Nr. 44/2001 van de Raad van de Europese Unie van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12) (Uitvoeringswet EG-executieverordening)"
+identifier: "BWBR0015325"
+country: "nl"
+rank: "wet"
+publication_date: "2017-12-23"
+last_updated: "2003-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015325"
+soort: "wet"
+stam_id: "4992123"
+version_id: "21205042"
+internal_id: "C31604861"
+label_id: "4968644"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015325/2017-12-23/0"
+intitule_bron: "Stb.2003-290"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-02"
+intitule_published: "2003-07-15"
+intitule_in_force: "2003-08-26"
+intitule_status: "goed"
+original_publication: "Stb.2014-40"
+original_signed_date: "2014-01-22"
+original_published_date: "2014-01-30"
+original_effect: "structuurwijziging"
+original_dossier: "33676"
+original_url_id: "stb-2014-40"
+entry_into_force_date: "2015-01-10"
+jci_1_3: "jci1.3:c:BWBR0015325&z=2017-12-23&g=2017-12-23"
+jci_1_0: "1.0:c:BWBR0015325&g=2017-12-23"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet EU-executieverordening en Verdrag van Lugano"
+signed_date: "2014-01-22"
+entry_into_force: "2015-01-10"
+---
+# Wet van 2 juli 2003 tot uitvoering van de verordening (EG) Nr. 44/2001 van de Raad van de Europese Unie van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12) (Uitvoeringswet EG-executieverordening)
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat wetgeving nodig is ter uitvoering van de [verordening (EG) Nr. 44/2001](32001R0044) van de Raad van de Europese Unie van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12);
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+In deze wet wordt verstaan onder «de verordening»: de [verordening (EG) nr. 44/2001](32001R0044) van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12).
+
+##### Artikel 2
+
+1. Ten aanzien van het verlof tot tenuitvoerlegging, bedoeld in artikel 38 van de verordening, zijn de [artikelen 985 tot en met 991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
+
+2. Het verlof tot tenuitvoerlegging, bedoeld in artikel 38 van de verordening, wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld. Het wordt ingediend door een deurwaarder of procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
+
+3. Onverminderd het bepaalde bij artikel 55, eerste lid, van de verordening, wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten aan de verzoeker de gelegenheid tot aanvulling gegeven.
+
+4. In afwijking van het gestelde in het tweede lid, tweede zin, is de bijstand van een deurwaarder of procureur niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd, moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93, onder a, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een andere munteenheid dan de euro, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
+
+##### Artikel 3
+
+1. Inwilliging van het verzoek, bedoeld in artikel 39, eerste lid, van de verordening, door de voorzieningenrechter geschiedt in de vorm van een eenvoudig verlof, dat op de overgelegde expeditie van de ten uitvoer te leggen beslissing wordt gesteld.
+
+2. De voorzieningenrechter veroordeelt de schuldenaar in de kosten welke op de afgifte van het verlof zijn gevallen.
+
+##### Artikel 4
+
+1. De rechtbank van welke de voorzieningenrechter op het verzoek om verlof tot tenuitvoerlegging heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 43, eerste lid, van de verordening. [Artikel 93 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93) is niet van toepassing.
+
+2. Het rechtsmiddel, bedoeld in het eerste lid, en het beroep in cassatie, bedoeld in artikel 44 van de verordening in verbinding met bijlage IV bij de verordening, worden ingesteld en behandeld met toepassing van de regels voor de dagvaardingsprocedure in eerste aanleg onderscheidenlijk in cassatie.
+
+3. Het rechtsmiddel, bedoeld in artikel 43, eerste lid, van de verordening, moet, indien het wordt ingesteld door de verzoeker, worden ingesteld binnen een maand na de dagtekening van de beschikking, waarbij het verlof is geweigerd.
+
+4. [Artikel 339, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=339) is van overeenkomstige toepassing.
+
+##### Artikel 5
+
+Voor de toepassing van de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) wordt de bij een rechtsmiddel ingestelde vordering geacht geen eis tot betaling van een bepaalde geldsom te zijn.
+
+##### Artikel 6
+
+De bevoegde autoriteit, bedoeld in artikel 57, vierde lid, van de verordening, is de notaris die de authentieke akte heeft verleden of de notaris die zijn protocol heeft overgenomen.
+
+##### Artikel 7
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 8
+
+Deze wet wordt aangehaald als: Uitvoeringswet EG-executieverordening.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 25, eerste lid, van de [verordening (EG) nr. 1346/2000](32000R1346) van de Raad van de Europese Unie van 29 mei 2000 betreffende insolventieprocedures (PbEG L 160).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+De [artikelen 2–5](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&artikel=2&z=2010-11-26&g=2010-11-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&artikel=6&z=2010-11-26&g=2010-11-26) van deze wet strekken mede tot uitvoering van het op 30 oktober 2007 te Lugano tot stand gekomen verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocollen, Verklaringen en Bijlagen (PBEU L 339) met dien verstande dat in deze artikelen voor «de verordening» het in dit artikel genoemde verdrag wordt gelezen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Afdeling 1. Begripsbepaling
+
+### Afdeling 2. Uitvoering Verdrag van Lugano
+
+### Afdeling 3. Uitvoering EU-executieverordening
+
+##### Artikel 9
+
+1. Heeft de partij tegen wie de tenuitvoerlegging zich zal richten woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2015-01-10&g=2015-01-10) bedoelde executoriale titel niet dan na verloop van een maand na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
+
+2. Heeft de partij tegen wie de tenuitvoerlegging zich richt geen woonplaats in Nederland, dan kan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=7&z=2015-01-10&g=2015-01-10) bedoelde executoriale titel niet dan na verloop van twee maanden na betekening van het certificaat bedoeld in artikel 43 van de verordening tegen die partij ten uitvoer worden gelegd.
+
+3. De voorzieningenrechter van de rechtbank kan indien daartoe gronden aanwezig zijn de in het eerste en tweede lid genoemde termijn inkorten op verzoek van de partij die de executoriale titel ten uitvoer legt. De voorzieningenrechter van de rechtbank kan de in eerste en tweede lid genoemde termijn ook inkorten op mondeling verzoek van de gerechtsdeurwaarder. De partij tegen wie de tenuitvoerlegging zich richt, wordt niet gehoord. Tegen de beschikking van de voorzieningenrechter staat geen hogere voorziening open. Het exploit van de gerechtsdeurwaarder vermeldt het door de voorzieningenrechter verleende verlof voor verkorting van de termijn. [Artikel 66 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=66) is van overeenkomstige toepassing.
+
+4. Het derde lid is niet van toepassing als de partij tegen wie de tenuitvoerlegging zich richt een polishouder, verzekerde of begunstigde is als bedoeld in de derde afdeling van het tweede hoofdstuk van de verordening, een consument als bedoeld in de vierde afdeling van het tweede hoofdstuk van de verordening of een werknemer als bedoeld in de vijfde afdeling van het tweede hoofdstuk van de verordening.
+
+##### Artikel 10
+
+1. Het gerecht dat bevoegd is om kennis te nemen van een vordering strekkende tot weigering van de tenuitvoerlegging van een rechterlijke beslissing, als bedoeld in artikel 47, eerste lid, van de verordening is de rechtbank die bevoegd is op grond van [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438).
+
+2. Het gerecht dat bevoegd is kennis te nemen van het rechtsmiddel bedoeld in artikel 49 van de verordening is het gerechtshof.
+
+3. Het gerecht dat bevoegd is kennis te nemen van het rechtsmiddel bedoeld in artikel 50 van de verordening is de Hoge Raad.
+
+##### Artikel 11
+
+Voor de toepassing van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) wordt de vordering bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=3&artikel=9&z=2015-01-10&g=2015-01-10), geacht geen eis tot betaling van een bepaalde geldsom te zijn. Het in de eerste volzin bepaalde is van overeenkomstige toepassing op de rechtsmiddelen bedoeld in artikel 9, tweede en derde lid.
+
+##### Artikel 12
+
+De autoriteit die bevoegd is tot aanpassing van een maatregel of bevel, als bedoeld in artikel 54 van de verordening, is de rechtbank die bevoegd is op grond van [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438).
+
+##### Artikel 13
+
+De autoriteit die bevoegd is om een certificaat af te geven, als bedoeld in artikel 60 van de verordening, is de notaris die de authentieke akte heeft verleden of de notaris die zijn protocol heeft overgenomen.
+
+### Afdeling 4. Slotbepalingen
+
+##### Artikel 14
+
+[Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&afdeling=2&z=2015-01-10&g=2015-01-10) van deze wet is van toepassing op rechterlijke beslissingen, authentieke akten en gerechtelijke schikkingen als bedoeld in artikel 66, tweede lid, van de verordening met dien verstande dat in die afdeling voor «het verdrag» wordt gelezen de verordening (EG), nr. 44/2001 van de Raad van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijk en handelszaken (Pb EG L 12) laatstelijk gewijzigd 22 februari 2012 (Pb EU L 50).
+
+##### Artikel 15
+
+Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 25, eerste lid, van de verordening (EG) nr. 1346/2000 van de Raad van de Europese Unie van 29 mei 2000 betreffende insolventieprocedures (Pb EG L 160).
+
+##### Artikel 16
+
+Deze wet wordt aangehaald als: Uitvoeringswet EU-executieverordening en Verdrag van Lugano.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
