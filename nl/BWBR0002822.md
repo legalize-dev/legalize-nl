@@ -229,9 +229,3 @@ Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum va
 - b. de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=16&z=2002-02-15&g=2002-02-15) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&hoofdstuk=VII&artikel=17&z=2002-02-15&g=2002-02-15) tot 1 januari 1970.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
