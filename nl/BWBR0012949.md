@@ -4,7 +4,7 @@ identifier: "BWBR0012949"
 country: "nl"
 rank: "wet"
 publication_date: "2004-11-01"
-last_updated: "2002-05-01"
+last_updated: "2004-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012949"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel l
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel ll
 
