@@ -4,7 +4,7 @@ identifier: "BWBR0012449"
 country: "nl"
 rank: "kb"
 publication_date: "2003-09-01"
-last_updated: "2001-05-23"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012449"
 soort: "KB"
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - c. personen en instellingen die op grond van [artikel 78 jo 84 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) gerechtigd zijn tot het afgeven van keuringsrapporten;
 
-- d. diensten, instellingen, onderzoeksbureaux en ondernemingen die op grond van artikel 5, eerste lid, van de [Wet op de gevaarlijke werktuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002087) door onze Minister van Sociale Zaken en Werkgelegenheid zijn aangewezen als bevoegd tot het verrichten van keuringen, tot het afgeven van certificaten van goedkeuring en tot het aanbrengen van merken van goedkeuring.
+- d. instellingen die op grond van [artikel 7a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a) door Onze Minister van Volksgezondheid, Welzijn en Sport, dan wel Onze Minister van Sociale Zaken en Werkgelegenheid zijn aangewezen als bevoegd tot het uitvoeren van daartoe aangewezen werkzaamheden in voor technische voortbrengselen voorgeschreven keurings- en beoordelingsprocedures.
 
 ##### Artikel 2
 
