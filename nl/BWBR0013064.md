@@ -1,0 +1,165 @@
+---
+title: "Wet van 29 november 2001 tot vaststelling van het Nederlandse muntstelsel in verband met de invoering van de chartale euro (Muntwet 2002)"
+identifier: "BWBR0013064"
+country: "nl"
+rank: "wet"
+publication_date: "2023-07-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013064"
+soort: "wet"
+stam_id: "1640303"
+version_id: "21867442"
+internal_id: "C31386631"
+label_id: "1593754"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013064/2023-07-01/0"
+intitule_bron: "Stb.2001-631"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-29"
+intitule_published: "2001-12-20"
+intitule_in_force: "2001-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2014-472"
+original_signed_date: "2014-11-19"
+original_published_date: "2014-12-05"
+original_effect: "structuurwijziging"
+original_dossier: "33918"
+original_url_id: "stb-2014-472"
+entry_into_force_date: "2014-11-19"
+entry_into_force_dossier: "33918"
+jci_1_3: "jci1.3:c:BWBR0013064&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0013064&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Muntwet 2002"
+signed_date: "2014-11-19"
+entry_into_force: "2014-11-19"
+---
+# Wet van 29 november 2001 tot vaststelling van het Nederlandse muntstelsel in verband met de invoering van de chartale euro (Muntwet 2002)
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het, in verband met de invoering van de chartale euro met ingang van 1 januari 2002 en ter uitvoering van [artikel 106 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=106), wenselijk is de Muntwet 1987 te vervangen door een nieuwe wettelijke regeling van het Nederlandse muntstelsel;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt verstaan onder:
+
+- a. Onze minister: Onze minister van Financiën;
+
+- b. Euromunten: de euromuntstukken, bedoeld in artikel 1 van [Verordening (EG) nr. 975/98](31998R0975) van de Raad van de Europese Unie van 3 mei 1998 over de denominaties en technische specificaties van voor circulatie bestemde euromuntstukken (PbEG L 139) zoals gewijzigd bij [Verordening (EG) nr. 423/99](31999R0423) van de Raad van de Europese Unie van 22 februari 1999 (PbEG L 52);
+
+- c. Nederlandse euromunten: de euromuntstukken uitgegeven door de Staat der Nederlanden overeenkomstig artikel 11 van [Verordening (EG) nr. 974/98](31998R0974) van de Raad van de Europese Unie van 3 mei 1998 tot invoering van de euro (PbEG L 139).
+
+##### Artikel 2
+
+De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse euromunten, bijzondere munten met de hoedanigheid van wettig betaalmiddel en munten zonder de hoedanigheid van wettig betaalmiddel.
+
+##### Artikel 3
+
+De bestanddelen van de beeldenaars van de nationale zijde van de Nederlandse euromunten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de nationale zijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden.
+
+##### Artikel 4
+
+1. De denominaties van de bijzondere munten met de hoedanigheid van wettig betaalmiddel, de materialen waaruit deze munten zijn vervaardigd, de gewichten en de afmetingen, alsmede de bedragen tot welke zij de hoedanigheid van wettig betaalmiddel hebben, worden bij algemene maatregel van bestuur vastgesteld.
+
+2. De bestanddelen van de beeldenaars van de in het eerste lid genoemde munten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de voorzijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden, en op de keerzijde de waardeaanduiding.
+
+##### Artikel 5
+
+1. Munten zonder de hoedanigheid van wettig betaalmiddel zijn:
+
+- a. de gouden dukaat;
+
+- b. de dubbele gouden dukaat;
+
+- c. de zilveren dukaat.
+
+2. De gouden dukaat heeft een goudgehalte van 983 duizendsten met een afwijking van ten hoogste twee duizendsten, een gewicht van 3,494 gram met een afwijking van ten hoogste vier duizendsten en een middellijn van 21 millimeter.
+
+3. De dubbele gouden dukaat heeft een goudgehalte van 983 duizendsten met een afwijking van ten hoogste twee duizendsten, een gewicht van 6,988 gram met een afwijking van ten hoogste vier duizendsten en een middellijn van 26 millimeter.
+
+4. De beeldenaar van de gouden dukaat en de dubbele gouden dukaat is op de voorzijde een geharnaste man tussen de cijfers van het jaartal, met het omschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester: de beeldenaar is op de keerzijde binnen een versierd vierkant: MO. AUR REG. BELGII AD LEGEM IMPERII. De munten zijn voorzien van een kabelrand.
+
+5. De zilveren dukaat heeft een zilvergehalte van 873 duizendsten met een afwijking van ten hoogste drie duizendsten, een gewicht van 28,25 gram met een afwijking van ten hoogste vijf duizendsten en een middellijn van 40 millimeter.
+
+6. De beeldenaar van de zilveren dukaat is op de voorzijde hetzij een geharnaste man met het Rijkswapen voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII, hetzij een geharnaste man met het wapen van een Nederlandse provincie voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII en de naam van de provincie; is op de keerzijde het Rijkswapen met de Koninklijke Kroon tussen de cijfers van het jaartal, met het opschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester.
+
+##### Artikel 6
+
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2002-01-01&g=2002-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+
+2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
+
+3. De in het eerste lid bedoelde opdracht wordt verleend met inachtneming van [artikel 106, tweede lid, van het Verdrag tot oprichting van de Europese Gemeenschap](onbekend).
+
+##### Artikel 7
+
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2002-01-01&g=2002-01-01), geregeld.
+
+##### Artikel 8
+
+1. Niemand is gehouden valse of vervalste munten aan te nemen.
+
+2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2002-01-01&g=2002-01-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
+
+3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze doorgesneden teruggegeven of wordt de stoffelijke waarde vergoed. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie niet vals of vervalst zijn, worden de munten teruggegeven in de staat waarin ze zijn ontvangen of wordt de nominale waarde vergoed.
+
+4. Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.
+
+##### Artikel 9
+
+1. Wijzigt de Muntwet 1987.
+
+2. De Muntwet 1987 wordt op een bij koninklijk besluit te bepalen tijdstip ingetrokken.
+
+3. De buitenomloopstelling en inwisseling van de op grond van de Muntwet 1948 en de Muntwet 1987 uitgegeven munten met de hoedanigheid van wettig betaalmiddel worden geregeld bij ministeriële regeling.
+
+##### Artikel 10
+
+Het koninklijk besluit van 4 februari 1943, Stb. D 67, betreffende de uitgifte van biljetten aan toonder als nieuw betaalmiddel voor het Rijk in Europa, wordt ingetrokken.
+
+##### Artikel 11
+
+Wijzigt de Noodwet financieel verkeer.
+
+##### Artikel 12
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 13
+
+Deze wet wordt aangehaald als: Muntwet 2002.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Beleggingsmunten zijn:
+
+- a. een gouden munt van tweehonderdvijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,093 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- b. een gouden munt van honderd-euro met een goudgehalte van 999,9 duizendste, een gewicht van 15,552 gram met een afwijking van ten hoogste 0,078 gram en een middellijn van 28,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- c. een gouden munt van vijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 7,776 gram met een afwijking van ten hoogste 0,062 gram en een middellijn van 22,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- d. een gouden munt van vijfentwintig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 3,110 gram met een afwijking van ten hoogste 0,037 gram en een middellijn van 16,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- e. een zilveren munt van tweeëneenhalve-euro met een zilvergehalte van 999 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,25 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter.
+
+2. De beeldenaar van de beleggingsmunten is op de voorzijde de beeltenis en de naam van de Koning (Koningin) met de woorden «Koning (Koningin) der Nederlanden» en op de keerzijde het Gekroond rijkswapen met daaronder de tekst «Nederland», de waardeaanduiding, het gehalte edelmetaal, het jaartal van uitgifte, het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
+
+3. De beleggingsmunten hebben een geribbelde rand.
+
+##### Artikel 6a
+
+1. De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.
+
+2. De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
+
+3. Het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester worden bij ministeriële regeling vastgesteld.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
