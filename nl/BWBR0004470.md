@@ -179,17 +179,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na datum van uitgifte
 Dit besluit kan worden aangehaald als Besluit Rode Kruis met vermelding van het jaartal van het **Staatsblad** waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en aan de Algemene Rekenkamer.
-
-##### Artikel 6a
-
-1. Het Rode Kruis en het bevoegd gezag werken waar mogelijk en wenselijk samen bij de hulpverlening aan slachtoffers van een gewapend conflict, ramp of andere bijzondere gebeurtenis binnen het Koninkrijk, alsmede de voorbereiding daarop.
-
-2. Het bevoegd gezag bevordert waar mogelijk de toegang van hulpvragers tot de hulpverlening van het Rode Kruis.
-
-#### § 3. De financiële verhouding tussen overheid en het Rode Kruis
-
-#### § 4. De eretekenen
-
-#### § 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en aan de Algemene Rekenkamer.
