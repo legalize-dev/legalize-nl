@@ -491,33 +491,3 @@ Degene, die op de dag voor de inwerkingtreding van deze wet een arbeidsongeschik
 Deze wet wordt aangehaald als «Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen».
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### ARTIKEL IXA. OVERGANGSRECHT AAW EN [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
-
-Dit onderdeel is nog niet inwerking getreden
-
-### HOOFDSTUK 3. OVERGANGSBEPALINGEN MET BETREKKING TOT DE WET ARBEIDSONGESCHIKTHEIDSVERZEKERING ZELFSTANDIGEN
-
-#### § 1. Overgangsrecht met betrekking tot bestaande rechten op arbeidsongeschiktheidsuitkering
-
-#### § 2. Overgangsrecht met betrekking tot nieuwe rechten op arbeidsongeschiktheidsuitkering
-
-#### § 3
-
-#### § 4. Uitkeringsrecht in verband met bevalling op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
-
-#### § 5. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
-
-### HOOFDSTUK 4. OVERGANGSBEPALINGEN TEN AANZIEN VAN DE WET ARBEIDSONGESCHIKTHEIDSVOORZIENING JONGGEHANDICAPTEN
-
-#### § 1. Overgangsrecht met betrekking tot bestaande rechten op arbeidsongeschiktheidsuitkering
-
-#### § 2. Overgangsrecht met betrekking tot nieuwe rechten op arbeidsongeschiktheidsuitkering
-
-#### § 3. Overige invoerings- en overgangsbepalingen met betrekking tot de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
-
-### HOOFDSTUK 5. WIJZIGING VAN VERSCHILLENDE WETTEN
-
-### HOOFDSTUK 6. OVERGANGS- EN SLOTBEPALINGEN
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
