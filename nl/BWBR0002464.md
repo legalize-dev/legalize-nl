@@ -578,35 +578,3 @@ Het inwerkingtreden van deze Rijkswet wordt door Ons geregeld bij algemene maatr
 Deze Rijkswet kan worden aangehaald als: Belastingregeling voor het Koninkrijk.
 
 Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 13a
-
-1. Indien de uiteindelijk gerechtigde van rente woonachtig is in Nederland en de uitbetalende instantie in de Nederlandse Antillen is gevestigd, heffen de Nederlandse Antillen gedurende de in artikel 10 van de [Richtlijn 2003/48/EG](32003L0048) bedoelde overgangsperiode bronbelasting, gedurende de eerste drie jaar van de overgangsperiode tegen een tarief van 15%, gedurende de volgende drie jaar tegen een tarief van 20% en daarna tegen een tarief van 35%. De uitbetalende instantie houdt de bronbelasting in op een wijze als omschreven in artikel 11, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048).
-
-2. Het opleggen van bronbelasting door de Nederlandse Antillen op grond van dit artikel belet Nederland niet de inkomsten te belasten overeenkomstig het nationale recht met inachtneming van de andere bepalingen in deze Rijkswet.
-
-3. Tijdens de overgangsperiode kunnen de Nederlandse Antillen bepalen dat een marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt voor een in Nederland gevestigde entiteit als bedoeld in artikel 4, tweede lid, van de [Richtlijn 2003/48/EG](32003L0048), wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heffen zij de bronbelasting op die rente, tenzij die entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van dat lid.
-
-4. De Nederlandse Antillen behouden 25% van de opbrengsten van de bronheffing, bedoeld in het eerste lid, en dragen 75% van de opbrengsten af aan Nederland. Indien de Nederlandse Antillen overeenkomstig het derde lid bronbelasting heffen, behouden de Nederlandse Antillen 25% van de opbrengsten geheven op rentebetalingen aan in Nederland gevestigde entiteiten als bedoeld in artikel 4, tweede lid, van de [Richtlijn 2003/48/EG](32003L0048) en dragen 75% af aan Nederland. Die overdrachten vinden plaats uiterlijk in de zes maanden volgende op het eind van het belastingjaar van de Nederlandse Antillen. De Nederlandse Antillen treffen de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
-
-5. De Nederlandse Antillen voorzien in één van beide of beide procedures, bedoeld in artikel 13, eerste lid, van de [Richtlijn 2003/48/EG](32003L0048). Op verzoek van de uiteindelijk gerechtigde geeft de bevoegde autoriteit van Nederland, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&hoofdstuk=III&artikel=37&z=2005-07-01&g=2005-07-01) een verklaring af in overeenstemming met artikel 13, tweede lid, van de [Richtlijn 2003/48/EG](32003L0048).
-
-6. Voor de toepassing van dit artikel bepalen de Nederlandse Antillen de procedures die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigde vast te stellen en dragen zorg voor de toepassing van deze procedures in de Nederlandse Antillen. Deze procedures voldoen aan de minimumnormen van artikel 3, tweede en derde lid, van de [Richtlijn 2003/48/EG](32003L0048), met dien verstande dat met betrekking tot het bepaalde in het tweede lid, onderdeel a, en in het derde lid, onderdeel a, de identiteit en woonplaats van de uiteindelijk gerechtigde worden vastgesteld op grond van de informatie waarover de uitbetalende instantie krachtens de toepassing van de desbetreffende wettelijke en bestuursrechtelijke bepalingen van de Nederlandse Antillen beschikt. De bestaande vrijstellingen of ontheffingen die in voorkomend geval op verzoek aan uiteindelijk gerechtigden met woonplaats in Nederland zijn verleend, zijn evenwel niet langer van toepassing en aan die uiteindelijk gerechtigden worden geen verdere vrijstellingen of ontheffingen van dien aard verleend.
-
-7. Aan het einde van de overgangsperiode vindt artikel 10, derde lid van de [Richtlijn 2003/48/EG](32003L0048) overeenkomstige toepassing.
-
-### Afdeling 2. Belastingen ter zake van successie en schenking
-
-### Afdeling 3. Zegelbelastingen
-
-### Afdeling 4. Belastingen op motorrijtuigen
-
-### Afdeling 5. Bijzondere bepalingen
-
-### Afdeling 6. Anti-misbruikbepalingen
-
-### Hoofdstuk III. Wederzijdse bijstand
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad**, het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
