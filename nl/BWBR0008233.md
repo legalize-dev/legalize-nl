@@ -203,17 +203,3 @@ Dit besluit treedt in werking op 1 oktober 1996.
 Dit besluit wordt aangehaald als: Maatregel te boek gestelde luchtvaartuigen, met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 2a
-
-Als kantoor waar een luchtvaartuig te boek staat, geldt het kantoor dat door het bestuur van de Dienst op grond van [artikel 4a, tweede lid, derde zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4a) is aangewezen als kantoor waar de teboekstelling van luchtvaartuigen kan plaatsvinden.
-
-### Hoofdstuk 2. Teboekstelling en doorhaling van de teboekstelling
-
-### Hoofdstuk 3. Kennisgeving van verkoop na beslag
-
-### Hoofdstuk 4. Wijziging
-
-### Hoofdstuk 5. Overige en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
