@@ -4,7 +4,7 @@ identifier: "BWBR0003256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-04-01"
-last_updated: "1979-09-06"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003256"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt onder ‘Richtlijn’ verstaan: de Eerste richtlijn van de 
 
 ##### Artikel 2
 
-De burgemeester wordt aangewezen als de instantie die bevoegd is tot afgifte van een bewijs van betrouwbaarheid als bedoeld in artikel 37, eerste lid, van de Richtlijn. Als bewijs van betrouwbaarheid dient de verklaring omtrent het gedrag, afgegeven ingevolge de artikelen 19 en volgende van de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) (Stb. 1955, 395).
+De burgemeester wordt aangewezen als de instantie die bevoegd is tot afgifte van een bewijs van betrouwbaarheid als bedoeld in artikel 37, eerste lid, van de Richtlijn. Als bewijs van betrouwbaarheid dient de verklaring omtrent het gedrag, afgegeven overeenkomstig de bepalingen van de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
 ##### Artikel 3
 
