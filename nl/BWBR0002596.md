@@ -93,29 +93,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgi
 |   | **b.** Werkzaamheden waarbij nauw en frequent met een bron van Hepatitis-B infectie plaatsvindt in de gezondheidszorg, de maatschappelijke hulpverlening, of in een laboratorium, of door werkzaamheden waarbij een infectiegevaar in vergelijkbare mate aanwezig geacht kan worden. |
 
 Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 3a
-
-Bij ministeriële regeling kan de bijlage bij dit besluit worden gewijzigd.
-
-## Bijlage. behorende bij het Koninklijk besluit van 7 juli 1967, Stb. 380, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17), vierde lid, en [artikel 66, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=66) (Besluit aanspraken bij beroepsziekten van niet ingevolge de W.A.O. verzekerden)
-
-| Beroepsziekten | Werkzaamheden |
-| --- | --- |
-| I | II |
-| Tuberculose | Werkzaamheden, verbonden aan: |
-|   | wijkverpleging, |
-|   | het houden of exploiteren van ziekenhuizen, nazorginrichtingen, klinieken, poliklinieken, medische consultatie- en keuringsbureaus, inrichtingen, waar geestelijk gestoorden of ouden van dagen worden verpleegd, sanatoria en geneeskundige- en bacteriologische laboratoria, huisbezoek en kraam- en gezinsverzorging voor gezondheids- en andere organisaties ten behoeve van de sociale dienstverlening. |
-|   |   |
-| Silicose met of zonder longtuberculose | Werkzaamheden, waarbij de werknemers aan de schadelijke inwerking van kwarts (siliciumdioxyde)-houdende stof zijn blootgesteld. |
-|   |   |
-| Asbestose met of zonder longtuberculose | Werkzaamheden, waarbij de werknemers aan de schadelijke inwerking van astbeststof zijn blootgesteld. |
-|   |   |
-| Pathologische aandoeningen veroorzaakt door ioniserende stralen | Werkzaamheden, waarbij de werknemers aan de werking van ioniserende stralen zijn blootgesteld. |
-|   |   |
-| Decompressieziekte | Werkzaamheden, verricht onder hogere druk dan de atmosferische luchtdruk. |
-|   |   |
-| Hepatitis-B | **a.** Werkzaamheden waarbij nauw en frequent contact met menselijk bloed of produkten hiervan plaatsvindt of |
-|   | **b.** Werkzaamheden waarbij nauw en frequent met een bron van Hepatitis-B infectie plaatsvindt in de gezondheidszorg, de maatschappelijke hulpverlening, of in een laboratorium, of door werkzaamheden waarbij een infectiegevaar in vergelijkbare mate aanwezig geacht kan worden. |
-
-Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
