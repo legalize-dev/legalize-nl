@@ -103,9 +103,3 @@ Ons besluit van 21 mei 1964 (**Stb.** 1964, 163) wordt ingetrokken.
 Dit besluit treedt in werking op 1 mei 1970. Het kan worden aangehaald als "Besluit aanwijzing zeegebied en kustwateren" met vermelding van het jaartal van het **Staatsblad**, waarin het is geplaatst.
 
 Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 2a
-
-De coördinaten in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002703&artikel=2&z=2023-07-20&g=2023-07-20) zijn uitgedrukt in lengte en breedte volgens het World Geodetic System 84 (WGS84), in graden en minuten en, in voorkomend geval, in seconden.
-
-Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
