@@ -443,15 +443,3 @@ DONE at Lusaka, this day of 19 Dec. 1977 in duplicate in the English language.
 **For the Government of the Republic of Zambia,**
 
 (sd.) J. M. MWANAKATWE
-
-### HOOFDSTUK I. Reikwijdte van de Overeenkomst
-
-### HOOFDSTUK II. Begripsbepalingen
-
-### HOOFDSTUK III. Belastingheffing naar het inkomen
-
-### HOOFDSTUK IV
-
-### HOOFDSTUK V. Bijzondere bepalingen
-
-### HOOFDSTUK VI. Slotbepalingen
