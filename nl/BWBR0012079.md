@@ -4,7 +4,7 @@ identifier: "BWBR0012079"
 country: "nl"
 rank: "wet"
 publication_date: "2004-04-01"
-last_updated: "2001-04-01"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012079"
 soort: "wet"
@@ -73,6 +73,6 @@ Wijzigt deze wet.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Bij koninklijk besluit kan worden bepaald dat deze wet slechts van toepassing is in bij dat koninklijk besluit aan te wijzen arrondissement of arrondissementen. Behoudens eerdere intrekking vervalt deze aanwijzing drie jaren na het in het eerste lid bedoelde tijdstip.
+2. Vervallen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
