@@ -4,7 +4,7 @@ identifier: "BWBR0005806"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2003-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005806"
 soort: "wet"
@@ -54,7 +54,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Ingeval een geregistreerd ander motorrijtuig dan een personenauto of een motorrijwiel in een zodanige staat wordt gebracht dat het een personenauto of een motorrijwiel is, is de belasting verschuldigd ter zake van de registratie als personenauto of als motorrijwiel dan wel, indien geen nieuw kenteken wordt opgegeven, ter zake van de aanvang van het gebruik als personenauto of motorrijwiel in Nederland van de weg in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
-4. Ingeval een geregistreerde personenauto als bedoeld in [artikel 9**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9a&z=2003-01-01&g=2003-01-01) in een zodanige staat wordt gebracht dat deze niet meer voldoet aan de in dat artikel genoemde voorwaarden, is de belasting verschuldigd ter zake van de aanvang van het gebruik met deze personenauto in gewijzigde staat in Nederland van de weg in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
+4. Ingeval een geregistreerde personenauto als bedoeld in [artikel 9**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9a&z=2004-01-01&g=2004-01-01) in een zodanige staat wordt gebracht dat deze niet meer voldoet aan de in dat artikel genoemde voorwaarden, is de belasting verschuldigd ter zake van de aanvang van het gebruik met deze personenauto in gewijzigde staat in Nederland van de weg in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 5. Ingeval een niet-geregistreerde personenauto of een niet-geregistreerd motorrijwiel feitelijk ter beschikking staat van een in Nederland wonende natuurlijke persoon of gevestigd lichaam, is de belasting verschuldigd ter zake van de aanvang van het gebruik met dat motorrijtuig in Nederland van de weg in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
@@ -164,7 +164,7 @@ Indien de aanvraag voor de opgave van een kenteken geschiedt door een ander dan 
 
 ##### Artikel 8
 
-In afwijking van [artikel 6, tweede lid, onderdeel **a**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=6&z=2003-01-01&g=2003-01-01), kan de inspecteur een ondernemer die voldoet aan bij ministeriële regeling te stellen voorwaarden en die in het kader van zijn bedrijfsuitoefening regelmatig om opgave van een kenteken verzoekt voor personenauto’s of motorrijwielen waarvan het kenteken op naam van een ander wordt gesteld, op aanvraag bij voor bezwaar vatbare beschikking toestaan de belasting per tijdvak te voldoen.
+In afwijking van [artikel 6, tweede lid, onderdeel **a**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=6&z=2004-01-01&g=2004-01-01), kan de inspecteur een ondernemer die voldoet aan bij ministeriële regeling te stellen voorwaarden en die in het kader van zijn bedrijfsuitoefening regelmatig om opgave van een kenteken verzoekt voor personenauto’s of motorrijwielen waarvan het kenteken op naam van een ander wordt gesteld, op aanvraag bij voor bezwaar vatbare beschikking toestaan de belasting per tijdvak te voldoen.
 
 ### Afdeling 2. Tarief
 
@@ -194,7 +194,7 @@ In afwijking van [artikel 6, tweede lid, onderdeel **a**, onder 1°](https://wet
 
 ##### Artikel 9a
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), bedraagt de belasting tot 1 juli 2004 nihil voor een personenauto die ingericht en bestemd is om uitsluitend te worden aangedreven door:
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01), bedraagt de belasting tot 1 juli 2006 nihil voor een personenauto die ingericht en bestemd is om uitsluitend te worden aangedreven door:
 
 - a. een elektromotor, mits de elektrische energie uitsluitend door een batterij of door een brandstofcel wordt geleverd,
 
@@ -206,7 +206,7 @@ In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 10
 
-1. Met betrekking tot gebruikte personenauto's of gebruikte motorrijwielen wordt het bij de personenauto of het motorrijwiel behorende bedrag aan belasting, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), berekend met inachtneming van een vermindering.
+1. Met betrekking tot gebruikte personenauto's of gebruikte motorrijwielen wordt het bij de personenauto of het motorrijwiel behorende bedrag aan belasting, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01), berekend met inachtneming van een vermindering.
 
 2. De in het eerste lid bedoelde vermindering is een percentage van het bedrag aan belasting, welk percentage is aangegeven in de navolgende tabel.
 
@@ -231,7 +231,7 @@ In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. Indien het tijdstip waarop de personenauto of het motorrijwiel voor het eerst in gebruik is genomen niet bekend is, treedt daarvoor in de plaats de laatste dag van het jaar waarin de personenauto of het motorrijwiel is vervaardigd.
 
-5. Bij ministeriële regeling kan de vermindering ingevolge de tabel in het tweede lid worden verhoogd voor personenauto's en motorrijwielen als bedoeld in [artikel 15, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15&z=2003-01-01&g=2003-01-01).
+5. Bij ministeriële regeling kan de vermindering ingevolge de tabel in het tweede lid worden verhoogd voor personenauto's en motorrijwielen als bedoeld in [artikel 15, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15&z=2004-01-01&g=2004-01-01).
 
 ##### Artikel 11
 
@@ -249,7 +249,7 @@ Degene, namens wie de belasting ingevolge deze wet door een ander wordt voldaan,
 
 1. Vrijstelling van belasting wordt in andere gevallen dan waarin vrijstelling van belasting wordt verleend krachtens [artikel 39 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), verleend voor personenauto’s en motorrijwielen waarvoor een kenteken als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), of [artikel 38, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=38) is of wordt opgegeven.
 
-2. Vrijstelling van belasting wordt verleend voor personenauto’s en motorrijwielen die op grond van artikel II van de Wet van 2 december 1982, houdende voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 (**Stb.** 181) (**Stb.** 1982, 733) niet behoeven te worden geregistreerd in het in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2003-01-01&g=2003-01-01), bedoelde register.
+2. Vrijstelling van belasting wordt verleend voor personenauto’s en motorrijwielen die op grond van artikel II van de Wet van 2 december 1982, houdende voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 (**Stb.** 181) (**Stb.** 1982, 733) niet behoeven te worden geregistreerd in het in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), bedoelde register.
 
 ##### Artikel 14
 
@@ -291,7 +291,7 @@ Degene, namens wie de belasting ingevolge deze wet door een ander wordt voldaan,
 
 2. De aanspraak op teruggaaf ontstaat telkens voor een derde gedeelte nadat een, twee en drie jaren zijn verstreken na het tijdstip waarop de personenauto, overeenkomstig de vergunning danwel het vergunningbewijs, voor openbaar vervoer of taxivervoer in gebruik is genomen.
 
-3. Indien het in het tweede lid bedoelde tijdstip is gelegen na het tijdstip waarop de personenauto is ingeschreven in het in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2003-01-01&g=2003-01-01), bedoelde register, bedraagt de teruggaaf telkens een derde gedeelte van het belastingbedrag, nadat dit belastingbedrag is verminderd overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2003-01-01&g=2003-01-01), dan wel met het op grond van [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2003-01-01&g=2003-01-01), vastgestelde percentage. Indien de personenauto reeds door een ander dan degene die aanspraak maakt op teruggaaf als taxi is gebruikt, wordt de teruggaaf verminderd met het met betrekking tot die personenauto reeds teruggegeven belastingbedrag.
+3. Indien het in het tweede lid bedoelde tijdstip is gelegen na het tijdstip waarop de personenauto is ingeschreven in het in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2004-01-01&g=2004-01-01), bedoelde register, bedraagt de teruggaaf telkens een derde gedeelte van het belastingbedrag, nadat dit belastingbedrag is verminderd overeenkomstig [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01), dan wel met het op grond van [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2004-01-01&g=2004-01-01), vastgestelde percentage. Indien de personenauto reeds door een ander dan degene die aanspraak maakt op teruggaaf als taxi is gebruikt, wordt de teruggaaf verminderd met het met betrekking tot die personenauto reeds teruggegeven belastingbedrag.
 
 4. De teruggaaf wordt verleend aan degene op wiens naam het kenteken is gesteld.
 
@@ -303,9 +303,9 @@ Degene, namens wie de belasting ingevolge deze wet door een ander wordt voldaan,
 
 ##### Artikel 16a
 
-1. In geval van een verhoging van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01) opgenomen tarieven wordt voor een personenauto of motorrijwiel waarvoor voorafgaande aan het tijdstip waarop de verhoging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), zoals dat luidde voor de inwerkingtreding, mits de tenaamstelling van het kenteken plaatsvindt binnen twee maanden na de inwerkingtreding. Indien de tenaamstelling plaatsvindt nadat deze twee maanden zijn verstreken, wordt de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), zoals dat luidt nadat de verhoging in werking is getreden.
+1. In geval van een verhoging van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01) opgenomen tarieven wordt voor een personenauto of motorrijwiel waarvoor voorafgaande aan het tijdstip waarop de verhoging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01), zoals dat luidde voor de inwerkingtreding, mits de tenaamstelling van het kenteken plaatsvindt binnen twee maanden na de inwerkingtreding. Indien de tenaamstelling plaatsvindt nadat deze twee maanden zijn verstreken, wordt de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01), zoals dat luidt nadat de verhoging in werking is getreden.
 
-2. In geval van een verlaging van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01) opgenomen tarieven wordt voor een personenauto of motorrijwiel waarvoor voorafgaande aan het tijdstip waarop de verlaging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2003-01-01&g=2003-01-01), zoals dat luidt nadat de verlaging in werking is getreden.
+2. In geval van een verlaging van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01) opgenomen tarieven wordt voor een personenauto of motorrijwiel waarvoor voorafgaande aan het tijdstip waarop de verlaging in werking treedt, een kentekenbewijs is afgegeven dat nog niet is tenaamgesteld, de belasting berekend op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2004-01-01&g=2004-01-01), zoals dat luidt nadat de verlaging in werking is getreden.
 
 3. Bij ministeriële regeling kunnen in overleg met Onze Minister van Verkeer en Waterstaat nadere regels worden gesteld ter uitvoering van dit artikel.
 
@@ -315,7 +315,7 @@ Degene, namens wie de belasting ingevolge deze wet door een ander wordt voldaan,
 
 ##### Artikel 17
 
-1. Degene, aan wie op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=8&z=2003-01-01&g=2003-01-01) is toegestaan de belasting per tijdvak te voldoen, stelt zekerheid voor de belasting die hij verschuldigd is of kan worden.
+1. Degene, aan wie op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=8&z=2004-01-01&g=2004-01-01) is toegestaan de belasting per tijdvak te voldoen, stelt zekerheid voor de belasting die hij verschuldigd is of kan worden.
 
 2. Het bedrag van de zekerheid wordt door de inspecteur vastgesteld bij voor bezwaar vatbare beschikking.
 
@@ -347,7 +347,7 @@ Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporings
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=V&afdeling=2&artikel=18&z=2003-01-01&g=2003-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=V&afdeling=2&artikel=18&z=2004-01-01&g=2004-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ### Afdeling 2. Controle
 
@@ -409,9 +409,9 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Indien vóór 1 januari 1993 geregistreerde motorrijtuigen als bedoeld in [artikel 50, tweede lid, onderdelen a, b, c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50) en [artikel 50a, tweede lid, onderdelen a en b, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50a), zoals die luidden op 31 december 1992, in een zodanige staat worden gebracht dat zij een personenauto of een motorrijwiel worden in de zin van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), onderscheidenlijk [artikel 50a van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50a), zoals die luidden op 31 december 1992, is belasting van personenauto’s en motorrijwielen verschuldigd. De belasting is verschuldigd door degene op wiens naam het motorrijtuig is geregistreerd.
 
-5. Met betrekking tot personenauto’s en motorrijwielen waarvoor bijzondere verbruiksbelasting van personenauto’s of bijzondere verbruiksbelasting van motorrijwielen is verschuldigd geworden en die na 31 december 1992 worden uitgevoerd in de zin van [artikel 50, elfde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), zoals dat luidde op 31 december 1992, blijven in afwijking van [artikel 25, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=Va&artikel=25&z=2003-01-01&g=2003-01-01), na 31 december 1992 de [artikelen 50, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), onderscheidenlijk [artikel 50a, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50a) van toepassing, zoals die luidde op 31 december 1992.
+5. Met betrekking tot personenauto’s en motorrijwielen waarvoor bijzondere verbruiksbelasting van personenauto’s of bijzondere verbruiksbelasting van motorrijwielen is verschuldigd geworden en die na 31 december 1992 worden uitgevoerd in de zin van [artikel 50, elfde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), zoals dat luidde op 31 december 1992, blijven in afwijking van [artikel 25, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=Va&artikel=25&z=2004-01-01&g=2004-01-01), na 31 december 1992 de [artikelen 50, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), onderscheidenlijk [artikel 50a, vierde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50a) van toepassing, zoals die luidde op 31 december 1992.
 
-6. Met betrekking tot een personenauto die vóór 1 januari 1993 is geregistreerd en die blijkens een ingevolge de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) geldige vergunning, dan wel vergunningbewijs, is bestemd om openbaar vervoer of taxivervoer te verrichten, wordt, in afwijking van [artikel 25, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=Va&artikel=25&z=2003-01-01&g=2003-01-01), teruggaaf verleend van de betaalde bijzondere verbruiksbelasting van personenauto’s op de voet van [artikel 50, twaalfde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), zoals dat luidde op 31 december 1992.
+6. Met betrekking tot een personenauto die vóór 1 januari 1993 is geregistreerd en die blijkens een ingevolge de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) geldige vergunning, dan wel vergunningbewijs, is bestemd om openbaar vervoer of taxivervoer te verrichten, wordt, in afwijking van [artikel 25, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=Va&artikel=25&z=2004-01-01&g=2004-01-01), teruggaaf verleend van de betaalde bijzondere verbruiksbelasting van personenauto’s op de voet van [artikel 50, twaalfde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=50), zoals dat luidde op 31 december 1992.
 
 ##### Artikel 32
 
