@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2002-01-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Rechtsbijstand kan worden verleend indien het verzoek daartoe voldoet aan de in de wet gestelde criteria en rechtsbijstand op grond van dit besluit niet is uitgesloten.
+Rechtsbijstand kan worden verleend indien de aanvraag daartoe voldoet aan de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) gestelde criteria en rechtsbijstand op grond van dit besluit niet is uitgesloten.
 
 ##### Artikel 3
 
-Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien het verzoek betrekking heeft op een vordering of verweer:
+Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de aanvraag betrekking heeft op een vordering of verweer:
 
 - a. voor de instelling waarvan de wettelijke termijn is verstreken of, indien de aanwending van een rechtsmiddel wordt voorgesteld, de termijn waarbinnen deze kan worden aangewend is verstreken;
 
@@ -68,39 +68,41 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien het
 
 - d. waarover reeds eerder door meer dan één rechtsbijstandverlener een advies is gegeven;
 
-- e. waarvan gezien de recente rechtspraak redelijkerwijs mag worden aangenomen dat deze geen kans van slagen maakt.
+- e. waarvan gezien de recente rechtspraak redelijkerwijs mag worden aangenomen dat deze geen kans van slagen maakt;
+
+- f. dat betrekking heeft op een tweede of volgende aanvraag tot verlening van een verblijfsvergunning asiel voor bepaalde tijd in welk kader redelijkerwijs buiten twijfel is dat de nieuwe feiten of omstandigheden vóór de onherroepelijke beslissing op de eerdere aanvraag tot verlening van een verblijfsvergunning asiel voor bepaalde tijd naar voren hadden kunnen worden gebracht, tenzij redelijkerwijs kan worden aangenomen dat de bijzondere omstandigheden van het geval noodzaken tot het verlenen van rechtsbijstand.
 
 ##### Artikel 4
 
-1. Rechtsbijstand wordt, als zijnde van onvoldoende belang, behalve tijdens een spreekuur als bedoeld in artikel 19, eerste lid, onder **a**, van de wet, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van f 200,-.
+1. Rechtsbijstand wordt, als zijnde van onvoldoende belang, behalve tijdens een spreekuur als bedoeld in [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=19), niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 90,–.
 
-2. Rechtsbijstand op basis van een toevoeging wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van twintig ten honderd van het inkomen van de rechtzoekende met een minimum van f 400,-.
+2. Rechtsbijstand op basis van een toevoeging wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van twintig ten honderd van het inkomen van de rechtzoekende met een minimum van € 180,–.
 
-3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van veertig ten honderd van het inkomen van de rechtzoekende met een minimum van f 800,-.
+3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van veertig ten honderd van het inkomen van de rechtzoekende met een minimum van € 360,–.
 
-4. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van f 500,–.
+4. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van € 250,–.
 
 5. In afwijking van het vierde lid wordt in de gevallen, bedoeld in de [artikelen 404, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404), en [427, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=427), een toevoeging verleend ongeacht de hoogte van het op geld waardeerbare belang.
 
 6. Indien het belang bestaat uit een periodiek te betalen of te ontvangen waarde, wordt het belang gesteld op de waarde van de betaling of ontvangst, vermenigvuldigd met het aantal malen dat deze waarde moet worden betaald dan wel ontvangen in een periode van ten hoogste twee jaar.
 
-7. In afwijking van het in de voorgaande leden bepaalde kan rechtsbijstand worden verleend of een toevoeging worden verstrekt indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen.
+7. In afwijking van het in de voorgaande leden bepaalde kan rechtsbijstand of een toevoeging worden verleend indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen.
 
 ##### Artikel 5
 
 1. Voor rechtsbijstand in strafzaken wordt, behalve tijdens het spreekuur, geen rechtsbijstand verleend indien de zaak dient bij de kantonrechter.
 
-2. In afwijking van het eerste lid kan een toevoeging worden verstrekt, indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen of de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
+2. In afwijking van het eerste lid kan een toevoeging worden verleend, indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen of de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
 ##### Artikel 6
 
-1. Voor rechtsbijstand in zaken betreffende [Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wordt geen toevoeging verstrekt:
+1. Voor rechtsbijstand in zaken betreffende [Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wordt geen toevoeging verleend:
 
 - a. indien de kantonrechter bevoegd is van het verzoek, de vordering of het verweer kennis te nemen.
 
-- b. indien het verzoek betrekking heeft op wijziging van de geslachtsnaam of wijziging van een spelfout in de voornaam.
+- b. indien de aanvraag betrekking heeft op wijziging van de geslachtsnaam of wijziging van een spelfout in de voornaam.
 
-2. In afwijking van het eerste lid onder **a** kan een toevoeing worden verstrekt:
+2. In afwijking van het eerste lid onder a kan een toevoeging worden verleend:
 
 - a. indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist of,
 
@@ -108,17 +110,17 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien het
 
 ##### Artikel 7
 
-Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aanvragen van het eigen faillissement of het kwijtschelden van een schuld wordt geen toevoeging verstrekt.
+Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aanvragen van het eigen faillissement of het kwijtschelden van een schuld wordt geen toevoeging verleend.
 
 ##### Artikel 8
 
-1. Geen toevoeging wordt verstrekt indien de rechtsbijstand uitsluitend is verzocht voor:
+1. Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor:
 
 - a. het indienen van aanvragen om toelating tot Nederland op grond van de Vreemdelingenwet, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd of de aanvraag betrekking heeft op een verzoek om toelating als vluchteling en niet kan worden volstaan met het verlenen van rechtsbijstand tijdens een spreekuur dat voorafgaat aan het gehoor;
 
 - b. het aanvragen van een uitkering;
 
-- c. het indienen van een naturalisatieverzoek;
+- c. het indienen van een aanvraag tot naturalisatie;
 
 - d. het doen van belastingaangifte;
 
@@ -132,7 +134,7 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 - i. het verkrijgen van rechtsbijstand;
 
-- j. het indienen van een ander verzoek bij een bestuursorgaan om een besluit te nemen.
+- j. het indienen van een andere aanvraag bij een bestuursorgaan om een besluit te nemen.
 
 2. In afwijking van het eerste lid kan een toevoeging worden verleend, indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
