@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2000-01-01"
+last_updated: "2004-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,13 +39,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen 9, 13, 15b, 21, 23a en 25a van de Wet op de vennootschapsbelasting 1969.
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15ad](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15b), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23a) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
-2. Deze regeling verstaat onder de wet: de Wet op de vennootschapsbelasting 1969.
+2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
 ##### Artikel 2
 
-De ingevolge artikel 9, eerste lid, onderdeel g, van de wet te bepalen redelijke rente voor de in artikel 2, eerste lid, onderdeel f, bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6,5 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2004-01-01&g=2004-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 6 percent.
 
 ##### Artikel 2a
 
@@ -87,11 +87,11 @@ Voor de toepassing van artikel 15b, derde lid, van de wet wordt onder kortlopend
 
 ##### Artikel 3
 
-1. Een voorlopige teruggaaf als bedoeld in artikel 21, derde lid, van de wet kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
+1. Een voorlopige verliesverrekening als bedoeld in [artikel 21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.
 
-2. Een voorlopige teruggaaf wordt niet eerder verleend dan zes maanden na de kalendermaand waarin de aangifte is gedaan.
+2. Een voorlopige verliesverrekening wordt niet eerder verleend dan zes maanden na de kalendermaand waarin de aangifte is gedaan.
 
-3. Bij de berekening van een voorlopige teruggaaf wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
+3. Bij de berekening van een voorlopige verliesverrekening wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
 
 ##### Artikel 4
 
@@ -120,3 +120,7 @@ Vervallen
 1. Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij is geplaatst.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsbeschikking vennootschapsbelasting 1971
+
+##### Artikel 2c
+
+De rente, bedoeld in de [artikelen 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [15ad, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), die bij het einde van de daarin bedoelde periode van acht jaren nog niet in aftrek is gekomen, wordt achtereenvolgens in mindering gebracht op en ten hoogste tot de positieve belastbare bedragen van de volgende jaren.
