@@ -107,33 +107,3 @@ Dit besluit treedt in werking met ingang van 1 december 1995.
 Dit besluit wordt aangehaald als: Registratiebesluit BIG.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 8a
-
-1. In dit artikel wordt verstaan onder transparantieregister: het register ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds een arts, apotheker, tandarts, verloskundige, of een verpleegkundige als bedoeld in [artikel 36, veertiende lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), gehouden door de Stichting Transparantieregister Zorg.
-
-2. Bij de verwerking van persoonsgegevens in het transparantieregister wordt het nummer, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), gebruikt door de rechtspersoon die het transparantieregister houdt.
-
-3. De ondernemers, bedoeld in het eerste lid, zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het register aan de rechtspersoon verstrekken, het in het tweede lid bedoelde nummer te vermelden van degene op wie de gegevens betrekking hebben.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 4a
-
-Een beroepsbeoefenaar die zich manifesteert in de hoedanigheid waaronder hij in een register als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) is ingeschreven, draagt er zorg voor dat zijn BIG-nummer kenbaar wordt gemaakt:
-
-- a. op door hem of onder zijn verantwoordelijkheid gebruikte websites en via andere digitale media;
-
-- b. op door of namens hem gebruikt briefpapier;
-
-- c. op door of namens hem opgestelde facturen;
-
-- d. in de wachtkamer.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 5a
-
-Aan een beoefenaar van een beroep als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) wordt op diens verzoek binnen twee maanden een document verstrekt, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de betrokkene geen maatregel berustend op een in Nederland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de betrokkene zijn rechten tot de uitoefening van het betrokken beroep in Nederland, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
