@@ -4,7 +4,7 @@ identifier: "BWBR0001876"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-01-01"
-last_updated: "2004-11-01"
+last_updated: "2005-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001876"
 soort: "rijkswet"
@@ -74,7 +74,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 **vissersvaartuig:** elk vaartuig, dat gebezigd wordt voor het vangen van vis, walvissen, zeehonden, walrussen of andere levende rijkdommen van de zee;
 
-**scheepsramp:** een voorval, overkomen aan een schip, ten gevolge waarvan schade van beteekenis aan dat schip of de zaken aan boord daarvan, of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, dan wel letsel aan een of meer van de opvarenden daarvan is veroorzaakt. Voor de toepassing van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2004-11-01&g=2004-11-01) wordt onder "scheepsramp" mede verstaan elk voorval, aan een schip overkomen, indien niet zoozeer met het oog op de omvangrijkheid der gevolgen als wel op grond van den aard van het voorval de waarschijnlijkheid bestaat, dat uit een onderzoek lessen kunnen worden geput, dan wel de wenschelijkheid kan blijken van het stellen van voorschriften, welke kunnen dienen ter voorkoming van scheepsrampen.
+**scheepsramp:** een voorval, overkomen aan een schip, ten gevolge waarvan schade van beteekenis aan dat schip of de zaken aan boord daarvan, of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, dan wel letsel aan een of meer van de opvarenden daarvan is veroorzaakt. Voor de toepassing van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2005-02-01&g=2005-02-01) wordt onder "scheepsramp" mede verstaan elk voorval, aan een schip overkomen, indien niet zoozeer met het oog op de omvangrijkheid der gevolgen als wel op grond van den aard van het voorval de waarschijnlijkheid bestaat, dat uit een onderzoek lessen kunnen worden geput, dan wel de wenschelijkheid kan blijken van het stellen van voorschriften, welke kunnen dienen ter voorkoming van scheepsrampen.
 
 2. Voor de toepassing van deze rijkswet wordt onder "schip" begrepen een vaartuig, een sleepschip, een dok en elk ander dergelijk drijvend voorwerp, hetwelk over zee naar zijne bestemming wordt gesleept.
 
@@ -92,9 +92,9 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - d. pleiziervaartuigen, welke uitsluitend als zodanig worden gebezigd, voorzover zij geen passagiers tegen vergoeding vervoeren;
 
-- e. schepen, welke varen onder vreemde vlag en welke niet vallen onder de omschrijving, voorkomende in het derde lid van dit artikel onder II; en, behoudens het bepaalde in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01):
+- e. schepen, welke varen onder vreemde vlag en welke niet vallen onder de omschrijving, voorkomende in het derde lid van dit artikel onder II; en, behoudens het bepaalde in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01):
 
-- f. schepen, welke slechts bij uitzondering, hetzij over korten afstand, hetzij gesleept zonder bemanning, buiten de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=1&z=2004-11-01&g=2004-11-01) genoemde lijn varen;
+- f. schepen, welke slechts bij uitzondering, hetzij over korten afstand, hetzij gesleept zonder bemanning, buiten de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=1&z=2005-02-01&g=2005-02-01) genoemde lijn varen;
 
 - g. schepen, welke hetzij hier te lande voor buitenlandsche rekening zijn gebouwd, hetzij naar het buitenland zijn verkocht, en welke over zee naar hunne bestemmingsplaats moeten worden gebracht;
 
@@ -108,11 +108,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - II. indien het in Nederland wordt uitgerust en zijne bemanning voor ten minste de helft uit Nederlanders of Rijksingezetenen bestaat.
 
-4. Met betrekking tot de bemanningen van schepen in openbare dienst zijn de [artikelen 34 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2004-11-01&g=2004-11-01) en [48 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2004-11-01&g=2004-11-01) niet van toepassing.
+4. Met betrekking tot de bemanningen van schepen in openbare dienst zijn de [artikelen 34 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2005-02-01&g=2005-02-01) en [48 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2005-02-01&g=2005-02-01) niet van toepassing.
 
 ##### Artikel 2bis
 
-1. Kapiteins van schepen, bedoeld onder de uitzonderingen [**f** tot en met **h** van artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), ondernemen met hun schip geen reis zonder vergunning van het Hoofd van de Scheepvaartinspectie.
+1. Kapiteins van schepen, bedoeld onder de uitzonderingen [**f** tot en met **h** van artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), ondernemen met hun schip geen reis zonder vergunning van het Hoofd van de Scheepvaartinspectie.
 
 2. Aan de vergunning kunnen voorschriften en beperkingen worden verbonden. De vergunning geldt voor een daarbij bepaalde periode.
 
@@ -188,15 +188,15 @@ Vervallen
 
 ##### Artikel 5
 
-1. Onze Minister kan voor schepen van een bepaalde categorie vrijstelling verlenen van één of meer van de bij of krachtens [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) gestelde eisen, zonodig onder het geven van voorschriften en beperkingen, mits zulks zonder gevaar voor deze categorie schepen of hun opvarenden mogelijk is. Een vrijstellingsregeling wordt bekend gemaakt in de **Staatscourant**, in de **Curaçaosche Courant** en in het **Afkondigingsblad van Aruba**.
+1. Onze Minister kan voor schepen van een bepaalde categorie vrijstelling verlenen van één of meer van de bij of krachtens [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) gestelde eisen, zonodig onder het geven van voorschriften en beperkingen, mits zulks zonder gevaar voor deze categorie schepen of hun opvarenden mogelijk is. Een vrijstellingsregeling wordt bekend gemaakt in de **Staatscourant**, in de **Curaçaosche Courant** en in het **Afkondigingsblad van Aruba**.
 
-2. Het Hoofd van de Scheepvaartinspectie is bevoegd om in bijzondere gevallen voor een individueel schip, zonodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) gestelde eisen. Een ontheffing kan door het Hoofd van de Scheepvaartinspectie worden gewijzigd of ingetrokken.
+2. Het Hoofd van de Scheepvaartinspectie is bevoegd om in bijzondere gevallen voor een individueel schip, zonodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) gestelde eisen. Een ontheffing kan door het Hoofd van de Scheepvaartinspectie worden gewijzigd of ingetrokken.
 
 ##### Artikel 6
 
 1. Certificaten worden afgegeven door of namens het Hoofd van de Scheepvaartinspectie. In bijzondere gevallen kan het Hoofd van de Scheepvaartinspectie aan buitenlandse autoriteiten verzoeken certificaten af te geven.
 
-2. De ambtenaren van de Scheepvaartinspectie zijn belast met het verrichten van onderzoeken als bedoeld in [artikel 3**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01). Bij of krachtens algemene maatregel van rijksbestuur kan worden bepaald dat deze onderzoeken geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen natuurlijke personen of rechtspersonen.
+2. De ambtenaren van de Scheepvaartinspectie zijn belast met het verrichten van onderzoeken als bedoeld in [artikel 3**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01). Bij of krachtens algemene maatregel van rijksbestuur kan worden bepaald dat deze onderzoeken geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen natuurlijke personen of rechtspersonen.
 
 3. Aan een aanwijzing als bedoeld in het tweede lid kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot aan een aanwijzing te verbinden voorschriften, alsmede met betrekking tot de schorsing en de intrekking van een aanwijzing.
 
@@ -234,7 +234,7 @@ Vervallen
 
 - a. het roercommando in rechtstreekschen zin te bezigen en te doen bezigen;
 
-- b. gedurende de reis alles wat tot de uitrusting van het schip behoort in deugdelijken staat en voor onmiddellijk gebruik gereed te houden, voor zoover zulks is voorgeschreven de openingen binnen en buiten boord gesloten te houden, de voorgeschreven appèls en oefeningen te houden en ook overigens aan alle krachtens de [artikelen 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2004-11-01&g=2004-11-01), gestelde eisen en voorschriften te voldoen;
+- b. gedurende de reis alles wat tot de uitrusting van het schip behoort in deugdelijken staat en voor onmiddellijk gebruik gereed te houden, voor zoover zulks is voorgeschreven de openingen binnen en buiten boord gesloten te houden, de voorgeschreven appèls en oefeningen te houden en ook overigens aan alle krachtens de [artikelen 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2005-02-01&g=2005-02-01), gestelde eisen en voorschriften te voldoen;
 
 - c. indien gedurende de reis aan het schip, de machinerieën of de uitrusting gebreken blijken, zooveel mogelijk deze gebreken te doen herstellen;
 
@@ -254,7 +254,7 @@ Vervallen
 
 - l. zorg te dragen, dat de met betrekking tot het vervoer van lading gegeven voorschriften worden nageleefd.
 
-2. De kapitein is verplicht voor het behoorlijk bijhouden van de dagboeken zorg te dragen. Hij zal telkenmale na volbrachte reis, dan wel periodiek of na het verlaten van het schip, inzage geven aan en afschrift laten nemen door of namens het Hoofd van de Scheepvaartinspectie, terwijl hij voorts verplicht is steeds op eerste aanvrage inzage van de dagboeken te geven aan de in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=63&z=2004-11-01&g=2004-11-01) bedoelde ambtenaren. Hij is bovendien verplicht bij binnenkomst in een Nederlandse haven of een haven van de Nederlandse Antillen of van Aruba aan Scheepvaartinspectie kennis te geven van de op de afgelopen reis voorgekomen averijen en ongevallen; het overleggen der dagboeken, onder verwijzing naar de aantekening omtrent de averij of het ongeval, wordt als zodanige kennisgeving beschouwd.
+2. De kapitein is verplicht voor het behoorlijk bijhouden van de dagboeken zorg te dragen. Hij zal telkenmale na volbrachte reis, dan wel periodiek of na het verlaten van het schip, inzage geven aan en afschrift laten nemen door of namens het Hoofd van de Scheepvaartinspectie, terwijl hij voorts verplicht is steeds op eerste aanvrage inzage van de dagboeken te geven aan de in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=63&z=2005-02-01&g=2005-02-01) bedoelde ambtenaren. Hij is bovendien verplicht bij binnenkomst in een Nederlandse haven of een haven van de Nederlandse Antillen of van Aruba aan Scheepvaartinspectie kennis te geven van de op de afgelopen reis voorgekomen averijen en ongevallen; het overleggen der dagboeken, onder verwijzing naar de aantekening omtrent de averij of het ongeval, wordt als zodanige kennisgeving beschouwd.
 
 3. In het geval, bedoeld in het eerste lid onder **c**, is de kapitein voorts verplicht om bij het aandoen van de eerste haven in het ontbrekende te voorzien, voor zoover dit noodzakelijk is om de veiligheid van het schip en van de opvarenden te verzekeren.
 
@@ -270,9 +270,9 @@ Vervallen
 
 3. De werkkring en de bevoegdheden van de in het vorige lid bedoelde ambtenaren worden bij algemeenen maatregel van bestuur geregeld; voor wat betreft de ambtenaren, belast met het toezicht in de Nederlandse Antillen, worden dienaangaande zonodig bij Landsverordening aanvullende regelingen getroffen.
 
-4. De bij of krachtens deze rijkswet aan de ambtenaren van de scheepvaartinspectie, uitgezonderd het krachtens het tweede lid benoemde hoofd, opgedragen taken of toegekende bevoegdheden worden in Nederland en ten aanzien van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), bedoelde schepen, verricht onderscheidenlijk uitgeoefend door de daartoe door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
+4. De bij of krachtens deze rijkswet aan de ambtenaren van de scheepvaartinspectie, uitgezonderd het krachtens het tweede lid benoemde hoofd, opgedragen taken of toegekende bevoegdheden worden in Nederland en ten aanzien van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), bedoelde schepen, verricht onderscheidenlijk uitgeoefend door de daartoe door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
-5. De bij of krachtens deze rijkswet aan de ambtenaren van de scheepvaartinspectie opgedragen taken of toegekende bevoegdheden kunnen in Nederland ten aanzien van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), bedoelde schepen, ook worden verricht onderscheidenlijk uitgeoefend door de ambtenaren die in de Nederlandse Antillen of Aruba zijn belast met de uitvoering van en het toezicht op de naleving van deze rijkswet.
+5. De bij of krachtens deze rijkswet aan de ambtenaren van de scheepvaartinspectie opgedragen taken of toegekende bevoegdheden kunnen in Nederland ten aanzien van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), bedoelde schepen, ook worden verricht onderscheidenlijk uitgeoefend door de ambtenaren die in de Nederlandse Antillen of Aruba zijn belast met de uitvoering van en het toezicht op de naleving van deze rijkswet.
 
 ##### Artikel 11
 
@@ -282,7 +282,7 @@ Vervallen
 
 ##### Artikel 12
 
-De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2004-11-01&g=2004-11-01) bedoelde ambtenaren hebben ter uitoefening van het toezicht op de naleving van de bij of krachtens deze rijkswet gestelde voorschriften toegang tot de in deze rijkswet genoemde schepen met inbegrip van de woongedeelten van deze schepen, tot de ligplaatsen daarvan, alsmede tot de plaatsen, waar deze schepen of hun werktuiglijke inrichtingen worden gebouwd of hersteld, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2005-02-01&g=2005-02-01) bedoelde ambtenaren hebben ter uitoefening van het toezicht op de naleving van de bij of krachtens deze rijkswet gestelde voorschriften toegang tot de in deze rijkswet genoemde schepen met inbegrip van de woongedeelten van deze schepen, tot de ligplaatsen daarvan, alsmede tot de plaatsen, waar deze schepen of hun werktuiglijke inrichtingen worden gebouwd of hersteld, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 ##### Artikel 13
 
@@ -296,7 +296,7 @@ De ambtenaren van de Scheepvaartinspectie in de Nederlandse Antillen en in Aruba
 
 ##### Artikel 15
 
-1. Meent een ambtenaar der scheepvaartinspectie, dat niet is of zal worden voldaan aan alle bij of krachtens de [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2004-11-01&g=2004-11-01), bepaalde eisen en voorschriften, dan bericht hij dit zoo spoedig mogelijk aan den eigenaar en aan den kapitein van dat schip en gelijktijdig aan zijnen onmiddellijken chef, onder mededeeling aan ieder hunner van hetgeen naar zijne meening ontbreekt.
+1. Meent een ambtenaar der scheepvaartinspectie, dat niet is of zal worden voldaan aan alle bij of krachtens de [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2005-02-01&g=2005-02-01), bepaalde eisen en voorschriften, dan bericht hij dit zoo spoedig mogelijk aan den eigenaar en aan den kapitein van dat schip en gelijktijdig aan zijnen onmiddellijken chef, onder mededeeling aan ieder hunner van hetgeen naar zijne meening ontbreekt.
 
 2. Op verlangen van den eigenaar of van den kapitein bericht hij dezen op welke wijze naar zijne meening in het ontbrekende kan worden voorzien.
 
@@ -306,7 +306,7 @@ De ambtenaren van de Scheepvaartinspectie in de Nederlandse Antillen en in Aruba
 
 1. Indien aan eenen ambtenaar der scheepvaartinspectie blijkt, dat een schip niet voorzien is van de noodige geldige certificaten, is hij gerechtigd het schip aan te houden.
 
-- a. Indien een ambtenaar van de Scheepvaartinspectie gegronde redenen heeft voor twijfel of een schip, niettegenstaande daarvoor de nodige geldige certificaten zijn afgegeven, voldoende zeewaardig is, dan wel of aan alle bij of krachtens de [artikelen 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2004-11-01&g=2004-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2004-11-01&g=2004-11-01), bepaalde eisen en voorschriften, is of zal worden voldaan, is hij gerechtigd het schip voor onderzoek aan te houden.
+- a. Indien een ambtenaar van de Scheepvaartinspectie gegronde redenen heeft voor twijfel of een schip, niettegenstaande daarvoor de nodige geldige certificaten zijn afgegeven, voldoende zeewaardig is, dan wel of aan alle bij of krachtens de [artikelen 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3a&z=2005-02-01&g=2005-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) of [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=11&z=2005-02-01&g=2005-02-01), bepaalde eisen en voorschriften, is of zal worden voldaan, is hij gerechtigd het schip voor onderzoek aan te houden.
 
 - b. Evenzeer is de ambtenaar gerechtigd tot aanhouding van een schip wanneer de eigenaar, de kapitein of de leden der bemanning niet de door de ambtenaar gevorderde medewerking bij de uitoefening van zijn bevoegdheden verlenen.
 
@@ -318,7 +318,7 @@ De ambtenaren van de Scheepvaartinspectie in de Nederlandse Antillen en in Aruba
 
 4. Indien Onze Minister in geval van oorlogsgevaar van oordeel is, dat de vaart te groote gevaren oplevert, kan hij een schip door een ambtenaar van de scheepvaartinspectie doen aanhouden.
 
-5. Zodra er geen reden is de aanhouding langer te laten voortduren en de mogelijk op grond van [artikel 72, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=72&z=2004-11-01&g=2004-11-01), verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, wordt de aanhouding opgeheven.
+5. Zodra er geen reden is de aanhouding langer te laten voortduren en de mogelijk op grond van [artikel 72, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=72&z=2005-02-01&g=2005-02-01), verschuldigde kosten zijn voldaan of de voldoening daarvan voldoende zeker is gesteld, wordt de aanhouding opgeheven.
 
 6. In Nederland is [afdeling 5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3) niet van toepassing op de in het eerste, tweede en vierde lid bedoelde bevoegdheid.
 
@@ -328,17 +328,17 @@ De ambtenaren van de Scheepvaartinspectie in de Nederlandse Antillen en in Aruba
 
 2. Na ontvangst van een bericht van aanhouding, als in het eerste lid bedoeld, verleenen de daar genoemde belastingambtenaren geene expeditie, alvorens hun zal zijn bericht, dat de aanhouding is opgeheven.
 
-3. De in het eerste lid bedoelde belastingambtenaren verleenen geene expeditie voor een schip, dat bestemd is om buitengaats te worden gebracht, wanneer daarvoor op eerste aanvraag geen geldig certificaat waaruit de deugdelijkheid van het schip blijkt of geene geldige vergunning, als bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01), wordt getoond.
+3. De in het eerste lid bedoelde belastingambtenaren verleenen geene expeditie voor een schip, dat bestemd is om buitengaats te worden gebracht, wanneer daarvoor op eerste aanvraag geen geldig certificaat waaruit de deugdelijkheid van het schip blijkt of geene geldige vergunning, als bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01), wordt getoond.
 
 #### § 3. Beroep
 
 ##### Artikel 18
 
-1. Beroep van beslissingen en voorschriften van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2004-11-01&g=2004-11-01) bedoelde ambtenaren kan door de betrokken eigenaar of kapitein worden ingesteld bij de voorzitter van de Raad voor de Scheepvaart of, indien het een beslissing van een ambtenaar in de Nederlandse Antillen of in Aruba betreft, bij de voorzitter van de in het betreffende land werkzame Commissie, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01).
+1. Beroep van beslissingen en voorschriften van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2005-02-01&g=2005-02-01) bedoelde ambtenaren kan door de betrokken eigenaar of kapitein worden ingesteld bij de voorzitter van de Raad voor de Scheepvaart of, indien het een beslissing van een ambtenaar in de Nederlandse Antillen of in Aruba betreft, bij de voorzitter van de in het betreffende land werkzame Commissie, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01).
 
-2. Tegen een aanhouding in de Nederlandse Antillen en in Aruba, krachtens het bepaalde in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01), kan geen beroep worden ingesteld.
+2. Tegen een aanhouding in de Nederlandse Antillen en in Aruba, krachtens het bepaalde in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01), kan geen beroep worden ingesteld.
 
-3. De voorzitter is verplicht voor het geven van zijn beslissing de ter zake meest bevoegde leden van de Raad of van de betreffende Commissie, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) , die noch rechtstreeks, noch zijdelings geacht kunnen worden bij de beslissing belang te hebben, te raadplegen en zijn uitspraak met redenen te omkleden.
+3. De voorzitter is verplicht voor het geven van zijn beslissing de ter zake meest bevoegde leden van de Raad of van de betreffende Commissie, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) , die noch rechtstreeks, noch zijdelings geacht kunnen worden bij de beslissing belang te hebben, te raadplegen en zijn uitspraak met redenen te omkleden.
 
 ##### Artikel 19
 
@@ -352,13 +352,13 @@ De ambtenaren van de Scheepvaartinspectie in de Nederlandse Antillen en in Aruba
 
 1. De werking van een beslissing of voorschrift wordt opgeschort totdat de beroepstermijn is verstreken, of indien beroep is ingesteld, op het beroep is beslist.
 
-2. Het eerste lid is niet van toepassing op een beslissing van een ambtenaar van de Scheepvaartinspectie ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01).
+2. Het eerste lid is niet van toepassing op een beslissing van een ambtenaar van de Scheepvaartinspectie ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01).
 
 ##### Artikel 21
 
 1. Hij, die een beroep van eene beslissing of een voorschrift instelt, zet in zijn beroepschrift zijne bezwaren tegen die beslissing of dat voorschrift uiteen en zendt gelijktijdig een afschrift van het beroepschrift aan den ambtenaar van wiens beslissing of voorschrift hij beroep instelt en aan het hoofd van de scheepvaartinspectie, indien deze niet is de ambtenaar van wiens beslissing of voorschrift beroep wordt ingesteld.
 
-2. Alvorens uitspraak te doen is de voorzitter van den Raad voor de scheepvaart of van een Commissie als bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) steeds bevoegd en op aanvrage van den appellant, van den ambtenaar van wiens beslissing of voorschrift beroep is ingesteld of van het hoofd van de scheepvaartinspectie, verplicht aan ieder hunner gelegenheid te geven hunne bezwaren mondeling in persoon of bij gemachtigde toe te lichten.
+2. Alvorens uitspraak te doen is de voorzitter van den Raad voor de scheepvaart of van een Commissie als bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) steeds bevoegd en op aanvrage van den appellant, van den ambtenaar van wiens beslissing of voorschrift beroep is ingesteld of van het hoofd van de scheepvaartinspectie, verplicht aan ieder hunner gelegenheid te geven hunne bezwaren mondeling in persoon of bij gemachtigde toe te lichten.
 
 ##### Artikel 22
 
@@ -388,7 +388,7 @@ De verdere regelen, bij de behandeling van beroepen in acht te nemen, worden bij
 
 ##### Artikel 24
 
-Het bij de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=12&z=2004-11-01&g=2004-11-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=13&z=2004-11-01&g=2004-11-01) ten aanzien van de ambtenaren bepaalde is ook van toepassing ten aanzien van den voorzitter, de plaatsvervangende voorzitters, den secretaris, den plaatsvervangenden secretaris, de gewone en de buitengewone leden en de plaatsvervangende leden van den Raad voor de scheepvaart.
+Het bij de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=12&z=2005-02-01&g=2005-02-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=13&z=2005-02-01&g=2005-02-01) ten aanzien van de ambtenaren bepaalde is ook van toepassing ten aanzien van den voorzitter, de plaatsvervangende voorzitters, den secretaris, den plaatsvervangenden secretaris, de gewone en de buitengewone leden en de plaatsvervangende leden van den Raad voor de scheepvaart.
 
 ##### Artikel 25
 
@@ -400,7 +400,7 @@ De voorzitter, de plaatsvervangende voorzitters, de gewone en de buitengewone le
 
 2. De voorzitter, de plaatsvervangende voorzitters, de gewone en de buitengewone leden en de plaatsvervangende leden, de secretaris en de plaatsvervangende secretaris zijn verplicht het geheim der raadkamer te bewaren.
 
-3. Voor het nemen van beslissingen moet de Raad ten minste uit drie leden, den voorzitter of plaatsvervangenden voorzitter inbegrepen, bestaan. Ingeval van staking van stemmen, wordt, wanneer het geldt eene beslissing, als in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2004-11-01&g=2004-11-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2004-11-01&g=2004-11-01) bedoeld, geacht ten voordeele van den betrokken kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist te zijn beslist; in alle andere gevallen is in geval van staking van stemmen de stem van den voorzitter beslissend.
+3. Voor het nemen van beslissingen moet de Raad ten minste uit drie leden, den voorzitter of plaatsvervangenden voorzitter inbegrepen, bestaan. Ingeval van staking van stemmen, wordt, wanneer het geldt eene beslissing, als in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2005-02-01&g=2005-02-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2005-02-01&g=2005-02-01) bedoeld, geacht ten voordeele van den betrokken kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist te zijn beslist; in alle andere gevallen is in geval van staking van stemmen de stem van den voorzitter beslissend.
 
 ##### Artikel 26bis
 
@@ -410,7 +410,7 @@ De voorzitter, de plaatsvervangende voorzitters, de gewone en de buitengewone le
 
 3. De Commissie van Onderzoek heeft ten aanzien van schepen, varende met een zeebrief van de Nederlandse Antillen, overeenkomstige bevoegdheden en een overeenkomstige taak als bij deze wet aan de Raad voor de Scheepvaart zijn toegekend, met uitzondering evenwel van de bevoegdheid tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op te treden.
 
-4. Voorzover het betreft schepen, varende met een zeebrief van de Nederlandse Antillen, is het bepaalde bij de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=24&z=2004-11-01&g=2004-11-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=25&z=2004-11-01&g=2004-11-01), [26 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26&z=2004-11-01&g=2004-11-01), [32 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=32&z=2004-11-01&g=2004-11-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=64&z=2004-11-01&g=2004-11-01) van overeenkomstige toepassing ten aanzien van de Commissie van Onderzoek.
+4. Voorzover het betreft schepen, varende met een zeebrief van de Nederlandse Antillen, is het bepaalde bij de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=24&z=2005-02-01&g=2005-02-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=25&z=2005-02-01&g=2005-02-01), [26 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26&z=2005-02-01&g=2005-02-01), [32 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=32&z=2005-02-01&g=2005-02-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=64&z=2005-02-01&g=2005-02-01) van overeenkomstige toepassing ten aanzien van de Commissie van Onderzoek.
 
 ### Hoofdstuk III A. De veiligheidscommissies
 
@@ -478,7 +478,7 @@ De samenstelling van de veiligheidscommissie wordt door Onze Minister bepaald.
 
 ##### Artikel 26g
 
-Met inachtneming van het bepaalde in [artikel 26 **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III_A&paragraaf=2&artikel=26f&z=2004-11-01&g=2004-11-01) benoemt de kapitein de leden van de veiligheidscommissie.
+Met inachtneming van het bepaalde in [artikel 26 **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III_A&paragraaf=2&artikel=26f&z=2005-02-01&g=2005-02-01) benoemt de kapitein de leden van de veiligheidscommissie.
 
 ##### Artikel 26h
 
@@ -494,9 +494,9 @@ Onze Minister kan nadere regels stellen omtrent de werkwijze van de veiligheidsc
 
 2. Het onderzoek bestaat uit een voorloopig onderzoek door de scheepvaartinspectie, zoo noodig gevolgd door een onderzoek door den Raad voor de scheepvaart.
 
-3. Het voorloopig onderzoek wordt ingesteld wanneer een schip door eene ramp is getroffen, tenzij de ramp valt onder [artikel 1, vierde lid, van de Marinescheepsongevallenwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001940&artikel=1) (**Staatsblad** n°. 69).
+3. Het voorloopig onderzoek wordt ingesteld wanneer een schip door eene ramp is getroffen, tenzij de ramp een schip betreft dat in gebruik is bij Onze Minister van Defensie of een buitenlandse krijgsmacht.
 
-4. Indien een Commissie van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01), na een onderzoek overeenkomstig het tweede lid, van oordeel is, dat aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein, stuurman, machinist of radio-telegrafist op te treden, doet de commissie geen uitspraak, doch verwijst de zaak naar de Raad voor de Scheepvaart voor het instellen van een onderzoek. Meent de Raad, dat er geen aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein, stuurman, machinist of radio-telegrafist op te treden, dan kan de Raad de zaak ter afdoening weder in handen van de Commissie stellen.
+4. Indien een Commissie van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01), na een onderzoek overeenkomstig het tweede lid, van oordeel is, dat aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein, stuurman, machinist of radio-telegrafist op te treden, doet de commissie geen uitspraak, doch verwijst de zaak naar de Raad voor de Scheepvaart voor het instellen van een onderzoek. Meent de Raad, dat er geen aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein, stuurman, machinist of radio-telegrafist op te treden, dan kan de Raad de zaak ter afdoening weder in handen van de Commissie stellen.
 
 ##### Artikel 28
 
@@ -504,7 +504,7 @@ Onze Minister kan nadere regels stellen omtrent de werkwijze van de veiligheidsc
 
 2. De notarissen en de autoriteiten, voor wie scheepsverklaringen, als bedoeld in het tweede lid van [artikel 353 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=353), [artikel 450 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=450) voor de Nederlandse Antillen of artikel 450 van het Wetboek van Koophandel voor Aruba, zijn afgelegd, zenden onverwijld afschriften van deze stukken aan het hoofd van de scheepvaartinspectie. Betreft het een schip, varende met een zeebrief van de Nederlandse Antillen of van Aruba, dan worden de stukken aan de Scheepvaartinspectie in het betreffende land gezonden.
 
-3. De Nederlandsche consulaire ambtenaren maken van elke in hun ambtsgebied aan een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), overkomen ramp een proces-verbaal op en zenden dit, nadat het ook door de door hen gehoorde personen onderteekend is en wel door ieder voor zooveel zijne eigene verklaring betreft, onverwijld aan het hoofd van de scheepvaartinspectie.
+3. De Nederlandsche consulaire ambtenaren maken van elke in hun ambtsgebied aan een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), overkomen ramp een proces-verbaal op en zenden dit, nadat het ook door de door hen gehoorde personen onderteekend is en wel door ieder voor zooveel zijne eigene verklaring betreft, onverwijld aan het hoofd van de scheepvaartinspectie.
 
 4. De personen, die ingevolge het bepaalde bij het eerste en derde lid van dit artikel worden uitgenoodigd tot het geven van inlichtingen en tot het onderteekenen van het proces-verbaal, zijn verplicht aan die uitnoodiging gevolg te geven.
 
@@ -512,25 +512,23 @@ Onze Minister kan nadere regels stellen omtrent de werkwijze van de veiligheidsc
 
 ##### Artikel 29
 
-1. Het hoofd van de scheepvaartinspectie stelt, met inachtneming van het voorschrift in [het derde lid van artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=27&z=2004-11-01&g=2004-11-01) gegeven, nopens elke te zijner kennis gekomen scheepsramp een onderzoek in of doet dit instellen door een of meer der in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2004-11-01&g=2004-11-01) bedoelde ambtenaren en deelt de uitkomsten van dit onderzoek zoo spoedig mogelijk onder overlegging van stukken aan den voorzitter van den Raad mede, vergezeld van zijn voorstel om met het oog op aard en omvang van de ramp al dan niet een onderzoek daarnaar door den Raad te doen instellen. Hij kan daarbij eene opgave indienen van de getuigen en deskundigen, wier verhoor tijdens de behandeling voor den Raad hij noodig acht. Betreft de scheepsramp een schip, varende met een zeebrief van de Nederlandse Antillen of van Aruba, dan treedt een aldaar daartoe aangewezen ambtenaar van de Scheepvaartinspectie op en worden de uitkomsten van het onderzoek met de stukken aan de in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) genoemde commissie ter hand gesteld, die hiermede handelt als voor de Raad voor de Scheepvaart is voorgeschreven.
+1. Het hoofd van de scheepvaartinspectie stelt, met inachtneming van het voorschrift in [het derde lid van artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=27&z=2005-02-01&g=2005-02-01) gegeven, nopens elke te zijner kennis gekomen scheepsramp een onderzoek in of doet dit instellen door een of meer der in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=10&z=2005-02-01&g=2005-02-01) bedoelde ambtenaren en deelt de uitkomsten van dit onderzoek zoo spoedig mogelijk onder overlegging van stukken aan den voorzitter van den Raad mede, vergezeld van zijn voorstel om met het oog op aard en omvang van de ramp al dan niet een onderzoek daarnaar door den Raad te doen instellen. Hij kan daarbij eene opgave indienen van de getuigen en deskundigen, wier verhoor tijdens de behandeling voor den Raad hij noodig acht. Betreft de scheepsramp een schip, varende met een zeebrief van de Nederlandse Antillen of van Aruba, dan treedt een aldaar daartoe aangewezen ambtenaar van de Scheepvaartinspectie op en worden de uitkomsten van het onderzoek met de stukken aan de in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) genoemde commissie ter hand gesteld, die hiermede handelt als voor de Raad voor de Scheepvaart is voorgeschreven.
 
-2. Op dezelfde wijze wordt door hem gehandeld ten aanzien van eene scheepsramp, waarvan de stukken hem op grond van [artikel 17 van de Marinescheepsongevallenwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001940&artikel=17) (**Staatsblad** n°. 69) in handen zijn gesteld. Betreft de scheepsramp een schip, varende met een zeebrief van de Nederlandse Antillen of van Aruba, dan zendt het hoofd van de scheepvaartinspectie de stukken door aan de Scheepvaartinspectie in het betreffende land voor het instellen van een onderzoek overeenkomstig het eerste lid.
+2. Over het voorstel van het hoofd van de scheepvaartinspectie om al dan niet een onderzoek in te stellen wordt beslist door eene commissie uit den Raad, bestaande uit den voorzitter en twee door dezen opgeroepen leden. Wijst deze commissie het voorstel af, dan heeft het hoofd van de scheepvaartinspectie het recht te vorderen, dat de Raad de beslissing herziet, waarna de voorzitter zoo spoedig mogelijk den Raad bijeenroept, die - na het hoofd van de scheepvaartinspectie te hebben gehoord - ter zake eene eindbeslissing neemt. De leden der commissie, met uitzondering van den voorzitter, nemen aan deze zitting geen deel.
 
-3. Over het voorstel van het hoofd van de scheepvaartinspectie om al dan niet een onderzoek in te stellen wordt beslist door eene commissie uit den Raad, bestaande uit den voorzitter en twee door dezen opgeroepen leden. Wijst deze commissie het voorstel af, dan heeft het hoofd van de scheepvaartinspectie het recht te vorderen, dat de Raad de beslissing herziet, waarna de voorzitter zoo spoedig mogelijk den Raad bijeenroept, die - na het hoofd van de scheepvaartinspectie te hebben gehoord - ter zake eene eindbeslissing neemt. De leden der commissie, met uitzondering van den voorzitter, nemen aan deze zitting geen deel.
+3. Wanneer beslist is, dat een onderzoek zal worden ingesteld, stelt de voorzitter de plaats, den dag en het uur daarvoor vast en worden door of namens hem de noodige getuigen en deskundigen tegen die zitting van den Raad opgeroepen.
 
-4. Wanneer beslist is, dat een onderzoek zal worden ingesteld, stelt de voorzitter de plaats, den dag en het uur daarvoor vast en worden door of namens hem de noodige getuigen en deskundigen tegen die zitting van den Raad opgeroepen.
-
-5. De commissie en de Raad zijn bevoegd zoo noodig het hoofd van de scheepvaartinspectie op te dragen middelerwijl nog nopens bepaalde onderwerpen nadere gegevens te verzamelen.
+4. De commissie en de Raad zijn bevoegd zoo noodig het hoofd van de scheepvaartinspectie op te dragen middelerwijl nog nopens bepaalde onderwerpen nadere gegevens te verzamelen.
 
 ##### Artikel 30
 
-1. De [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=8a), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=10)[11](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=14), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=15), [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=19), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=23), en [25 van de Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=25) zijn, voorzover zij niet afwijken van de voorgaande bepalingen van deze rijkswet, van toepassing op het onderzoek, in te stellen door het Hoofd van de Scheepvaartinspectie of de door hem krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2004-11-01&g=2004-11-01), met het onderzoek belaste ambtenaren en door de Raad.
+1. De [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=8a), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=10)[11](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=14), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=15), [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=19), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=23), en [25 van de Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=25) zijn, voorzover zij niet afwijken van de voorgaande bepalingen van deze rijkswet, van toepassing op het onderzoek, in te stellen door het Hoofd van de Scheepvaartinspectie of de door hem krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2005-02-01&g=2005-02-01), met het onderzoek belaste ambtenaren en door de Raad.
 
 2. Dezen komen dezelfde bevoegdheden toe als bij die artikelen aan de aldaar bedoelde commissie van onderzoek zijn toegekend.
 
-3. Nochtans zal in het geval, geregeld bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=13&z=2004-11-01&g=2004-11-01) der in het eerste lid genoemde wet, het bevel van medebrenging mede door den voorzitter van den Raad kunnen worden verleend.
+3. Nochtans zal in het geval, geregeld bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=13&z=2005-02-01&g=2005-02-01) der in het eerste lid genoemde wet, het bevel van medebrenging mede door den voorzitter van den Raad kunnen worden verleend.
 
-4. Ten aanzien van de Commissie van Onderzoek, bedoeld in [artikel 26bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01), en de aangewezen ambtenaar van de Scheepvaartinspectie in de Nederlandse Antillen of in Aruba worden overeenkomstige regelen bij Landsverordening gesteld.
+4. Ten aanzien van de Commissie van Onderzoek, bedoeld in [artikel 26bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01), en de aangewezen ambtenaar van de Scheepvaartinspectie in de Nederlandse Antillen of in Aruba worden overeenkomstige regelen bij Landsverordening gesteld.
 
 ##### Artikel 31
 
@@ -542,7 +540,7 @@ Aan getuigen en deskundigen, voor zooverre hunne dienstverhouding tot het Rijk o
 
 2. Verzuim van overlegging binnen de gestelde termijn wordt gelijkgesteld met een weigering gevolg te geven aan een vordering ingevolge [artikel 3, eerste lid, van de Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=3). De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=11), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=15), en [16, eerste en derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001841&artikel=16) zijn van toepassing.
 
-3. Overeenkomstige regelen, als in het vorige lid, worden met betrekking tot de Scheepvaartinspectie in de Nederlandse Antillen onderscheidenlijk in Aruba en de Commissies van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) , bij Landsverordening gesteld.
+3. Overeenkomstige regelen, als in het vorige lid, worden met betrekking tot de Scheepvaartinspectie in de Nederlandse Antillen onderscheidenlijk in Aruba en de Commissies van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) , bij Landsverordening gesteld.
 
 ##### Artikel 33
 
@@ -560,7 +558,7 @@ Aan getuigen en deskundigen, voor zooverre hunne dienstverhouding tot het Rijk o
 
 2. Ook indien geene scheepsramp heeft plaats gehad kan in bijzondere omstandigheden het hoofd van de scheepvaartinspectie aan den Raad voor de scheepvaart voorstellen een onderzoek in te stellen naar de ongeschiktheid van den kapitein of van één of meer stuurlieden, machinisten, radiotelegrafisten of radiotelefonisten.
 
-3. Beslist de commissie uit den Raad of de Raad, dat de kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist ter zake zal worden gehoord, dan wordt den betrokkene een afschrift der beslissing beteekend. Voorts wordt gehandeld overeenkomstig [het vierde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2004-11-01&g=2004-11-01).
+3. Beslist de commissie uit den Raad of de Raad, dat de kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist ter zake zal worden gehoord, dan wordt den betrokkene een afschrift der beslissing beteekend. Voorts wordt gehandeld overeenkomstig [het vierde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2005-02-01&g=2005-02-01).
 
 4. Indien echter eerst tijdens het onderzoek, door den Raad gehouden, omstandigheden aan het licht komen, welke bij het hoofd van de scheepvaartinspectie of bij den Raad de vraag doen rijzen, of de ramp is veroorzaakt door de ongeschiktheid van den kapitein of van één of meer stuurlieden, machinisten, radiotelegrafisten of radiotelefonisten, dan kan de Raad op voorstel van het hoofd van de scheepvaartinspectie of uit eigen beweging besluiten, dat ook over deze vraag het onderzoek zal loopen.
 
@@ -570,7 +568,7 @@ Aan getuigen en deskundigen, voor zooverre hunne dienstverhouding tot het Rijk o
 
 7. De betrokkene heeft het recht zich bij de behandeling zijner zaak door eenen raadsman te doen bijstaan of zich te doen vertegenwoordigen door eenen bijzonder voor dit doel gemachtigde, behoudens de verplichting van den betrokkene om in persoon te verschijnen, wanneer de Raad dit vordert. De betrokkene en zijn raadsman, of zijn gemachtigde, hebben het recht de stukken van het voorloopig onderzoek vóór de behandeling der zaak ter secretarie van den Raad voor de scheepvaart in te zien.
 
-8. De Raad kan in de gevallen, bedoeld in het derde en vierde lid, bij eene met redenen omkleede beslissing den betrokkene tevens onbevoegd verklaren om gedurende het onderzoek als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), dienst te doen.
+8. De Raad kan in de gevallen, bedoeld in het derde en vierde lid, bij eene met redenen omkleede beslissing den betrokkene tevens onbevoegd verklaren om gedurende het onderzoek als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), dienst te doen.
 
 ##### Artikel 35
 
@@ -580,7 +578,7 @@ Aan getuigen en deskundigen, voor zooverre hunne dienstverhouding tot het Rijk o
 
 ##### Artikel 36
 
-1. De Raad kan, hetzij op vordering van het hoofd van de scheepvaartinspectie, hetzij dien hoofdambtenaar gehoord, bij eene met redenen omkleede beslissing den kapitein of één of meer stuurlieden, machinisten, radiotelegrafisten of radiotelefonisten onbevoegd verklaren om als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), dienst te doen, indien hij den betrokkene ongeschikt acht om zijne beroepsplichten te vervullen.
+1. De Raad kan, hetzij op vordering van het hoofd van de scheepvaartinspectie, hetzij dien hoofdambtenaar gehoord, bij eene met redenen omkleede beslissing den kapitein of één of meer stuurlieden, machinisten, radiotelegrafisten of radiotelefonisten onbevoegd verklaren om als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), dienst te doen, indien hij den betrokkene ongeschikt acht om zijne beroepsplichten te vervullen.
 
 2. De onbevoegdverklaring gaat in op den dag van de beteekening van de uitspraak.
 
@@ -610,7 +608,7 @@ Aan getuigen en deskundigen, voor zooverre hunne dienstverhouding tot het Rijk o
 
 ##### Artikel 40
 
-Wanneer, nadat door den Raad voor de scheepvaart krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2004-11-01&g=2004-11-01) eene bevoegdheid is ontnomen, nieuwe feiten aan het licht komen, welke tijdens het eerste onderzoek nog niet bekend waren en welke op de beslissing invloed zouden kunnen hebben gehad, wordt door den Raad opnieuw een onderzoek ingesteld en wordt de zaak voor zooveel noodig opnieuw behandeld.
+Wanneer, nadat door den Raad voor de scheepvaart krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2005-02-01&g=2005-02-01) eene bevoegdheid is ontnomen, nieuwe feiten aan het licht komen, welke tijdens het eerste onderzoek nog niet bekend waren en welke op de beslissing invloed zouden kunnen hebben gehad, wordt door den Raad opnieuw een onderzoek ingesteld en wordt de zaak voor zooveel noodig opnieuw behandeld.
 
 ##### Artikel 41
 
@@ -624,13 +622,13 @@ Door den Raad voor de scheepvaart kan de ontnomen bevoegdheid aan den belanghebb
 
 2. Deze uitspraak moet een overzicht bevatten van den gang van het gehouden onderzoek.
 
-3. Is door den Raad krachtens het bepaalde in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2004-11-01&g=2004-11-01) eene bevoegdheid ontnomen, of heeft de Raad tot het ontnemen van eene bevoegdheid niet besloten, hoewel het hoofd van de scheepvaartinspectie daartoe heeft geraden, dan worden aan dit deel van het onderzoek in de uitspraak afzonderlijke overwegingen gewijd.
+3. Is door den Raad krachtens het bepaalde in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=36&z=2005-02-01&g=2005-02-01) eene bevoegdheid ontnomen, of heeft de Raad tot het ontnemen van eene bevoegdheid niet besloten, hoewel het hoofd van de scheepvaartinspectie daartoe heeft geraden, dan worden aan dit deel van het onderzoek in de uitspraak afzonderlijke overwegingen gewijd.
 
 4. Een gewaarmerkt afschrift van de uitspraak wordt zoo spoedig mogelijk aan Onzen Minister en aan het hoofd van de scheepvaartinspectie toegezonden.
 
 5. De uitspraken worden op door Ons te bepalen wijze openbaar gemaakt.
 
-6. Indien de uitspraak van een Commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26&z=2004-11-01&g=2004-11-01)**bis** doet vermoeden, dat zich een der gevallen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2004-11-01&g=2004-11-01) en [artikel 48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2004-11-01&g=2004-11-01), voordoet en zich geen geval voordoet, waarin de Raad voor de Scheepvaart de zaak heeft terugverwezen naar de betrokken Commissie, handelt het hoofd van de scheepvaartinspectie als in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2004-11-01&g=2004-11-01) is aangegeven voor een schip, niet varende met een zeebrief van de Nederlandse Antillen of van Aruba.
+6. Indien de uitspraak van een Commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26&z=2005-02-01&g=2005-02-01)**bis** doet vermoeden, dat zich een der gevallen, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2005-02-01&g=2005-02-01) en [artikel 48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2005-02-01&g=2005-02-01), voordoet en zich geen geval voordoet, waarin de Raad voor de Scheepvaart de zaak heeft terugverwezen naar de betrokken Commissie, handelt het hoofd van de scheepvaartinspectie als in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=29&z=2005-02-01&g=2005-02-01) is aangegeven voor een schip, niet varende met een zeebrief van de Nederlandse Antillen of van Aruba.
 
 ##### Artikel 43
 
@@ -654,7 +652,7 @@ Door den Raad voor de scheepvaart kan de ontnomen bevoegdheid aan den belanghebb
 
 ##### Artikel 45
 
-De kosten van het onderzoek volgens de bepalingen van dit hoofdstuk worden gedragen door het Rijk voorzover het gedaan wordt door de Raad voor de Scheepvaart en door de Nederlandse Antillen, onderscheidenlijk Aruba, voorzover het gedaan wordt door de in het betreffende land werkzame Commissie van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) .
+De kosten van het onderzoek volgens de bepalingen van dit hoofdstuk worden gedragen door het Rijk voorzover het gedaan wordt door de Raad voor de Scheepvaart en door de Nederlandse Antillen, onderscheidenlijk Aruba, voorzover het gedaan wordt door de in het betreffende land werkzame Commissie van Onderzoek, bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) .
 
 ##### Artikel 46
 
@@ -668,27 +666,27 @@ Blijkt bij het onderzoek, dat door iemand een strafbaar feit is gepleegd, dan wo
 
 ##### Artikel 48
 
-1. De kapitein, die zich ten opzichte van zijn scheepvaartonderneming, de bevrachters, de schepelingen, de passagiers of andere opvarenden op eenigerlei wijze heeft misdragen, kan, onafhankelijk van de burgerlijke en de strafvordering, door den Raad voor de scheepvaart, na ingesteld onderzoek, disciplinair worden gestraft door het uitspreken van eene berisping of door ontneming van de bevoegdheid om gedurende eenen bepaalden tijd, twee jaren niet te boven gaande, als kapitein op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), te varen.
+1. De kapitein, die zich ten opzichte van zijn scheepvaartonderneming, de bevrachters, de schepelingen, de passagiers of andere opvarenden op eenigerlei wijze heeft misdragen, kan, onafhankelijk van de burgerlijke en de strafvordering, door den Raad voor de scheepvaart, na ingesteld onderzoek, disciplinair worden gestraft door het uitspreken van eene berisping of door ontneming van de bevoegdheid om gedurende eenen bepaalden tijd, twee jaren niet te boven gaande, als kapitein op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), te varen.
 
-2. Desgelijks kan de kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist door den Raad voor de scheepvaart disciplinair worden gestraft door het uitspreken van eene berisping of door ontneming van de bevoegdheid om gedurende eenen bepaalden tijd, twee jaren niet te boven gaande, in een of meer dezer betrekkingen op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), te varen, een en ander wanneer de Raad bij het in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2004-11-01&g=2004-11-01) bedoelde onderzoek tot de overtuiging komt, dat aan zijne schuld eene scheepsramp is te wijten.
+2. Desgelijks kan de kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist door den Raad voor de scheepvaart disciplinair worden gestraft door het uitspreken van eene berisping of door ontneming van de bevoegdheid om gedurende eenen bepaalden tijd, twee jaren niet te boven gaande, in een of meer dezer betrekkingen op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), te varen, een en ander wanneer de Raad bij het in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2005-02-01&g=2005-02-01) bedoelde onderzoek tot de overtuiging komt, dat aan zijne schuld eene scheepsramp is te wijten.
 
-3. De Raad kan bij eene met redenen omkleede beslissing den betrokkene onbevoegd verklaren om gedurende het onderzoek als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01), dienst te doen.
+3. De Raad kan bij eene met redenen omkleede beslissing den betrokkene onbevoegd verklaren om gedurende het onderzoek als kapitein, stuurman, machinist, radiotelegrafist of radiotelefonist op een schip, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01), dienst te doen.
 
 ##### Artikel 49
 
-1. Het onderzoek ter zake van de in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2004-11-01&g=2004-11-01), bedoelde misdragingen heeft, zoo daartoe naar het oordeel van eene commissie uit den Raad, bestaande uit den voorzitter en twee door dezen opgeroepen leden, termen bestaan, plaats, indien eene aanklacht is ingediend door of op last van het hoofd van de scheepvaartinspectie, door den eigenaar, door een of meer van de assuradeuren, van de bevrachters, van de schepelingen, van de passagiers of van andere opvarenden.
+1. Het onderzoek ter zake van de in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2005-02-01&g=2005-02-01), bedoelde misdragingen heeft, zoo daartoe naar het oordeel van eene commissie uit den Raad, bestaande uit den voorzitter en twee door dezen opgeroepen leden, termen bestaan, plaats, indien eene aanklacht is ingediend door of op last van het hoofd van de scheepvaartinspectie, door den eigenaar, door een of meer van de assuradeuren, van de bevrachters, van de schepelingen, van de passagiers of van andere opvarenden.
 
 2. De aanklacht moet, om ontvankelijk te zijn, bij het Hoofd van de Scheepvaartinspectie, bij de Raad voor de Scheepvaart of, indien het een klacht betreft van een zich in de Nederlandse Antillen of in Aruba bevindende persoon, dan wel tegen de kapitein van een schip, varende met een zeebrief van de Nederlandse Antillen of van Aruba, bij een aldaar aangewezen ambtenaar van de Scheepvaartinspectie of de in het betreffende land werkzame Commissie van Onderzoek, zijn ingekomen binnen drie maanden na de dag, waarop de tot klacht gerechtigde kennis heeft verkregen van het gepleegde feit, met uitbreiding van die termijn tot drie weken na de dag van aankomst van het schip ter plaatse van bestemming hier te lande, respectievelijk in de Nederlandse Antillen of in Aruba of van aankomst hier te lande, respectievelijk in de Nederlandse Antillen of in Aruba van de aangeklaagde, indien deze zonder het schip terugkeert.
 
 3. Indien een der tot het indienen van eene aanklacht gerechtigde personen, die zich in het buitenland bevindt, grond heeft om te vermoeden verhinderd te zullen zijn, om binnen den bepaalden termijn zijne aanklacht bij het hoofd van de scheepvaartinspectie of bij den Raad in te dienen, kan hij zich binnen drie weken na den eersten dag, waarop hij daartoe in de gelegenheid kwam, onder opgave van de redenen van verhindering, tot het indienen van eene aanklacht wenden tot den bevoegden consulairen ambtenaar, door wiens tusschenkomst de aanklacht wordt ingezonden aan den Raad voor de scheepvaart.
 
-4. Indien een Commissie van Onderzoek als bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2004-11-01&g=2004-11-01) , na een onderzoek overeenkomstig [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2004-11-01&g=2004-11-01), van oordeel is, dat er aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein te varen, doet de Commissie geen uitspraak doch verwijst de zaak naar de Raad voor de Scheepvaart voor het instellen van een onderzoek. Meent de Raad voor de Scheepvaart, dat er geen aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein te varen, dan kan de Raad de zaak ter afdoening weder in handen van de Commissie van Onderzoek stellen.
+4. Indien een Commissie van Onderzoek als bedoeld in [artikel 26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=III&artikel=26bis&z=2005-02-01&g=2005-02-01) , na een onderzoek overeenkomstig [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=V&artikel=48&z=2005-02-01&g=2005-02-01), van oordeel is, dat er aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein te varen, doet de Commissie geen uitspraak doch verwijst de zaak naar de Raad voor de Scheepvaart voor het instellen van een onderzoek. Meent de Raad voor de Scheepvaart, dat er geen aanleiding bestaat tot het uitspreken van een berisping of het ontnemen van de bevoegdheid om als kapitein te varen, dan kan de Raad de zaak ter afdoening weder in handen van de Commissie van Onderzoek stellen.
 
 5. Het recht van onderzoek vervalt wegens verjaring, door verloop van één jaar nadat de aanklacht bij den Raad voor de scheepvaart of de Commissie van Onderzoek is ingekomen, behoudens, dat elke daad van onderzoek de verjaring stuit, mits blijke, dat die daad ter kennis van den aangeklaagde gebracht is.
 
 ##### Artikel 50
 
-Ten aanzien van de maatregelen van tucht, van het onderzoek en van de uitspraken van den Raad voor de scheepvaart, gelden de bepalingen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2004-11-01&g=2004-11-01), voor zoover deze voor toepassing vatbaar zijn, met uitzondering van [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=37&z=2004-11-01&g=2004-11-01).
+Ten aanzien van de maatregelen van tucht, van het onderzoek en van de uitspraken van den Raad voor de scheepvaart, gelden de bepalingen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2005-02-01&g=2005-02-01), voor zoover deze voor toepassing vatbaar zijn, met uitzondering van [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=37&z=2005-02-01&g=2005-02-01).
 
 ##### Artikel 51
 
@@ -700,19 +698,19 @@ Door Ons kan, den Raad voor de scheepvaart gehoord, de ontnomen bevoegdheid aan 
 
 ##### Artikel 52
 
-1. Het is de kapitein verboden een reis te ondernemen of voort te zetten zonder dat de vereiste geldige certificaten zijn afgegeven of - in het geval bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01) - de vereiste geldige verklaring is afgegeven.
+1. Het is de kapitein verboden een reis te ondernemen of voort te zetten zonder dat de vereiste geldige certificaten zijn afgegeven of - in het geval bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01) - de vereiste geldige verklaring is afgegeven.
 
-2. Het is de kapitein verboden een reis te ondernemen of voort te zetten, terwijl één of meer van de vereiste certificaten ingevolge het bepaalde in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=7&z=2004-11-01&g=2004-11-01), zijn ingetrokken.
+2. Het is de kapitein verboden een reis te ondernemen of voort te zetten, terwijl één of meer van de vereiste certificaten ingevolge het bepaalde in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=7&z=2005-02-01&g=2005-02-01), zijn ingetrokken.
 
-3. Het is de kapitein verboden te handelen in strijd met de voorschriften en beperkingen, krachtens [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01) of [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-11-01&g=2004-11-01), verbonden aan een verklaring onderscheidenlijk een certificaat.
+3. Het is de kapitein verboden te handelen in strijd met de voorschriften en beperkingen, krachtens [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01) of [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-02-01&g=2005-02-01), verbonden aan een verklaring onderscheidenlijk een certificaat.
 
 ##### Artikel 53
 
-De eigenaar of de kapitein is verplicht de vereiste geldige certificaten of - in het geval bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01) - de vereiste geldige verklaring op eerste aanvraag te tonen aan de in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=63&z=2004-11-01&g=2004-11-01) bedoelde ambtenaren.
+De eigenaar of de kapitein is verplicht de vereiste geldige certificaten of - in het geval bedoeld in [artikel 2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01) - de vereiste geldige verklaring op eerste aanvraag te tonen aan de in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=3&artikel=63&z=2005-02-01&g=2005-02-01) bedoelde ambtenaren.
 
 ##### Artikel 54
 
-Het is de kapitein verboden met een schip een reis te ondernemen of voort te zetten, indien en zolang het op grond van [artikel 16, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01), door een ambtenaar van de scheepvaartinspectie is aangehouden of zolang door de betrokken ambtenaren der invoerrechten en accijnzen geen expeditie is verleend.
+Het is de kapitein verboden met een schip een reis te ondernemen of voort te zetten, indien en zolang het op grond van [artikel 16, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01), door een ambtenaar van de scheepvaartinspectie is aangehouden of zolang door de betrokken ambtenaren der invoerrechten en accijnzen geen expeditie is verleend.
 
 ##### Artikel 54bis
 
@@ -720,23 +718,23 @@ Vervallen
 
 ##### Artikel 55
 
-Het is de eigenaar van een schip verboden de kapitein van dat schip door een der in [artikel 47, eerste lid, 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) vermelde middelen of - indien het een schip betreft, varende met een zeebrief van de Nederlandse Antillen of van Aruba - door een der middelen, vermeld in artikel 49, eerste lid, 2°, van het Wetboek van Strafrecht voor de Nederlandse Antillen, onderscheidenlijk door een der middelen, vermeld in artikel 49, eerste lid, onderdeel **b**, van het Wetboek van Strafrecht voor Aruba, opzettelijk te bewegen ten aanzien van dat schip in strijd te handelen met het bepaalde in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2004-11-01&g=2004-11-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2004-11-01&g=2004-11-01) of [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2004-11-01&g=2004-11-01).
+Het is de eigenaar van een schip verboden de kapitein van dat schip door een der in [artikel 47, eerste lid, 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) vermelde middelen of - indien het een schip betreft, varende met een zeebrief van de Nederlandse Antillen of van Aruba - door een der middelen, vermeld in artikel 49, eerste lid, 2°, van het Wetboek van Strafrecht voor de Nederlandse Antillen, onderscheidenlijk door een der middelen, vermeld in artikel 49, eerste lid, onderdeel **b**, van het Wetboek van Strafrecht voor Aruba, opzettelijk te bewegen ten aanzien van dat schip in strijd te handelen met het bepaalde in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2005-02-01&g=2005-02-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2005-02-01&g=2005-02-01) of [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2005-02-01&g=2005-02-01).
 
 #### § 2. Strafbare feiten
 
 ##### Artikel 56
 
-1. Gedragingen in strijd met de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01), [9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2004-11-01&g=2004-11-01), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=28&z=2004-11-01&g=2004-11-01), [32, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=32&z=2004-11-01&g=2004-11-01), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2004-11-01&g=2004-11-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2004-11-01&g=2004-11-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=53&z=2004-11-01&g=2004-11-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2004-11-01&g=2004-11-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2004-11-01&g=2004-11-01) zijn strafbare feiten.
+1. Gedragingen in strijd met de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01), [9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2005-02-01&g=2005-02-01), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=28&z=2005-02-01&g=2005-02-01), [32, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=1&artikel=32&z=2005-02-01&g=2005-02-01), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2005-02-01&g=2005-02-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2005-02-01&g=2005-02-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=53&z=2005-02-01&g=2005-02-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2005-02-01&g=2005-02-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2005-02-01&g=2005-02-01) zijn strafbare feiten.
 
-2. Gedragingen in strijd met de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2004-11-01&g=2004-11-01), en [52, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2004-11-01&g=2004-11-01), zijn misdrijven voor zover zij opzettelijk zijn begaan en overigens overtredingen. Gedragingen in strijd met de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2004-11-01&g=2004-11-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2004-11-01&g=2004-11-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2004-11-01&g=2004-11-01) zijn misdrijven. Gedragingen in strijd met de overige in het eerste lid genoemde artikelen zijn overtredingen.
+2. Gedragingen in strijd met de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=9&z=2005-02-01&g=2005-02-01), en [52, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2005-02-01&g=2005-02-01), zijn misdrijven voor zover zij opzettelijk zijn begaan en overigens overtredingen. Gedragingen in strijd met de [artikelen 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=52&z=2005-02-01&g=2005-02-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=54&z=2005-02-01&g=2005-02-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2005-02-01&g=2005-02-01) zijn misdrijven. Gedragingen in strijd met de overige in het eerste lid genoemde artikelen zijn overtredingen.
 
-3. Niet strafbaar is hij die aan de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=53&z=2004-11-01&g=2004-11-01) vermelde aanvraag geen gevolg geeft, omdat hij het bedoelde document nog niet heeft kunnen verkrijgen.
+3. Niet strafbaar is hij die aan de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=53&z=2005-02-01&g=2005-02-01) vermelde aanvraag geen gevolg geeft, omdat hij het bedoelde document nog niet heeft kunnen verkrijgen.
 
 ##### Artikel 57
 
-1. De in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&artikel=56&z=2004-11-01&g=2004-11-01), bedoelde misdrijven worden, behoudens de gedragingen in strijd met [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2004-11-01&g=2004-11-01), gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste € 11 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 25 000 onderscheidenlijk AWG 25 000. Gedragingen in strijd met [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2004-11-01&g=2004-11-01) worden gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van ten hoogste € 11 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 25 000 onderscheidenlijk AWG 25 000.
+1. De in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&artikel=56&z=2005-02-01&g=2005-02-01), bedoelde misdrijven worden, behoudens de gedragingen in strijd met [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2005-02-01&g=2005-02-01), gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van ten hoogste € 11 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 25 000 onderscheidenlijk AWG 25 000. Gedragingen in strijd met [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2005-02-01&g=2005-02-01) worden gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van ten hoogste € 11 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 25 000 onderscheidenlijk AWG 25 000.
 
-2. De in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&artikel=56&z=2004-11-01&g=2004-11-01), bedoelde overtredingen worden, behoudens de gedragingen in strijd met [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2004-11-01&g=2004-11-01), gestraft met hechtenis van ten hoogste vier maanden of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000. Gedragingen in strijd met [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2004-11-01&g=2004-11-01), worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
+2. De in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&artikel=56&z=2005-02-01&g=2005-02-01), bedoelde overtredingen worden, behoudens de gedragingen in strijd met [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2005-02-01&g=2005-02-01), gestraft met hechtenis van ten hoogste vier maanden of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000. Gedragingen in strijd met [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=39&z=2005-02-01&g=2005-02-01), worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
 
 ##### Artikel 58
 
@@ -758,7 +756,7 @@ Vervallen
 
 ##### Artikel 62
 
-Indien de eigendom van een schip behoort aan een rechtspersoon, worden voor toepassing van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2004-11-01&g=2004-11-01) als eigenaren aangemerkt alle leden van het bestuur, die het strafbare feit hebben gepleegd.
+Indien de eigendom van een schip behoort aan een rechtspersoon, worden voor toepassing van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&artikel=55&z=2005-02-01&g=2005-02-01) als eigenaren aangemerkt alle leden van het bestuur, die het strafbare feit hebben gepleegd.
 
 ##### Artikel 63
 
@@ -794,7 +792,7 @@ Vervallen
 
 ##### Artikel 67
 
-1. Op een schip van vreemde nationaliteit waarmede vanuit een haven in de Nederlandse Antillen of Aruba een reis zal worden ondernomen, en dat niet ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01) of [2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01) onder de bepalingen van deze rijkswet valt, zijn de in het tweede en derde lid genoemde bepalingen op een naar het oordeel van het Hoofd van de Scheepvaartinspectie overeenkomstige wijze van toepassing indien:
+1. Op een schip van vreemde nationaliteit waarmede vanuit een haven in de Nederlandse Antillen of Aruba een reis zal worden ondernomen, en dat niet ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01) of [2**bis**](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01) onder de bepalingen van deze rijkswet valt, zijn de in het tweede en derde lid genoemde bepalingen op een naar het oordeel van het Hoofd van de Scheepvaartinspectie overeenkomstige wijze van toepassing indien:
 
 - a. ten aanzien van de onderwerpen genoemd in het tweede lid, in het land waartoe het schip door zijn nationaliteit behoort, geen bepalingen van kracht zijn, dan wel bepalingen van kracht zijn die naar het oordeel van het Hoofd van de Scheepvaartinspectie in onvoldoende mate een overeenkomstige strekking en draagwijdte hebben als de hier te lande geldende wettelijke bepalingen, ofwel
 
@@ -808,11 +806,11 @@ Vervallen
 
 3. Op een schip als bedoeld in het eerste lid van dit artikel is van overeenkomstige toepassing het bepaalde in:
 
-- a. de [artikelen 16, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01) en [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=17&z=2004-11-01&g=2004-11-01);
+- a. de [artikelen 16, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01) en [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=17&z=2005-02-01&g=2005-02-01);
 
-- b. [Hoofdstuk II, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=3&z=2004-11-01&g=2004-11-01);
+- b. [Hoofdstuk II, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=3&z=2005-02-01&g=2005-02-01);
 
-- c. [Hoofdstuk VI, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&z=2004-11-01&g=2004-11-01) en [2, met uitzondering van de artikelen 52, eerste en tweede lid, 53 en 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&z=2004-11-01&g=2004-11-01).
+- c. [Hoofdstuk VI, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&z=2005-02-01&g=2005-02-01) en [2, met uitzondering van de artikelen 52, eerste en tweede lid, 53 en 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&z=2005-02-01&g=2005-02-01).
 
 4. Bij algemene maatregel van rijksbestuur kunnen bij of krachtens deze rijkswet uitgevaardigde bepalingen, andere dan in het tweede of derde lid genoemd, van toepassing worden verklaard op een schip als bedoeld in het eerste lid.
 
@@ -824,7 +822,7 @@ Wanneer een schip krachtens het bepaalde in het vorige artikel is aangehouden, w
 
 ##### Artikel 69
 
-1. Onafhankelijk van het bepaalde in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=67&z=2004-11-01&g=2004-11-01) is een ambtenaar van de Scheepvaartinspectie gerechtigd tot aanhouding van een schip van vreemde nationaliteit dat niet ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2004-11-01&g=2004-11-01) of [2bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2004-11-01&g=2004-11-01) onder de bepalingen van deze rijkswet valt, indien dit schip:
+1. Onafhankelijk van het bepaalde in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=67&z=2005-02-01&g=2005-02-01) is een ambtenaar van de Scheepvaartinspectie gerechtigd tot aanhouding van een schip van vreemde nationaliteit dat niet ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2&z=2005-02-01&g=2005-02-01) of [2bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=I&artikel=2bis&z=2005-02-01&g=2005-02-01) onder de bepalingen van deze rijkswet valt, indien dit schip:
 
 - a. vanuit een haven in de Nederlandse Antillen of Aruba een reis zal ondernemen, en
 
@@ -832,13 +830,13 @@ Wanneer een schip krachtens het bepaalde in het vorige artikel is aangehouden, w
 
 2. Op een schip als bedoeld in het eerste lid van dit artikel is van overeenkomstige toepassing het bepaalde in:
 
-- a. de [artikelen 16, tweede lid, onder b, c en d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01), [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=17&z=2004-11-01&g=2004-11-01), en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=68&z=2004-11-01&g=2004-11-01);
+- a. de [artikelen 16, tweede lid, onder b, c en d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01), [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=17&z=2005-02-01&g=2005-02-01), en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=68&z=2005-02-01&g=2005-02-01);
 
-- b. [Hoofdstuk VI, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&z=2004-11-01&g=2004-11-01) en [2, met uitzondering van het bepaalde in de artikelen 52, eerste en tweede lid, 53 en 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&z=2004-11-01&g=2004-11-01).
+- b. [Hoofdstuk VI, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=1&z=2005-02-01&g=2005-02-01) en [2, met uitzondering van het bepaalde in de artikelen 52, eerste en tweede lid, 53 en 55](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VI&paragraaf=2&z=2005-02-01&g=2005-02-01).
 
 3. De consulaire ambtenaar is bevoegd iemand aan te wijzen om met den ambtenaar de zaak te onderzoeken.
 
-4. Deelt deze persoon de ongunstige meening van den ambtenaar, dan wordt de aanhouding van het schip niet opgeheven, totdat zulks op grond van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2004-11-01&g=2004-11-01), dient te geschieden.
+4. Deelt deze persoon de ongunstige meening van den ambtenaar, dan wordt de aanhouding van het schip niet opgeheven, totdat zulks op grond van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=2&artikel=16&z=2005-02-01&g=2005-02-01), dient te geschieden.
 
 5. Deelt deze persoon de ongunstige mening van de ambtenaar niet, dan kan tegen de aanhouding beroep worden ingesteld, overeenkomstig de bepalingen van Hoofdstuk II, § 4.
 
@@ -846,13 +844,13 @@ Wanneer een schip krachtens het bepaalde in het vorige artikel is aangehouden, w
 
 ##### Artikel 69a
 
-De toepasselijkheid van de [artikelen 67 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=67&z=2004-11-01&g=2004-11-01) op schepen van vreemde nationaliteit die in eigendom of in dienst zijn van een staat, en die worden gebruikt voor andere dan handelsdoeleinden, wordt beperkt door de regels van het volkenrecht.
+De toepasselijkheid van de [artikelen 67 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=VII&artikel=67&z=2005-02-01&g=2005-02-01) op schepen van vreemde nationaliteit die in eigendom of in dienst zijn van een staat, en die worden gebruikt voor andere dan handelsdoeleinden, wordt beperkt door de regels van het volkenrecht.
 
 ##### Artikel 70
 
 1. Indien een schip van Nederlandsche nationaliteit, dat krachtens artikel 2 van de toepassing van deze rijkswet is uitgezonderd, door eene scheepsramp wordt getroffen, wordt naar de oorzaken daarvan een onderzoek ingesteld. Deze bepaling is mede van toepassing op vaartuigen in openbare dienst van het Rijk, geene zeeschepen zijnde, en op schepen van vreemde nationaliteit, indien de scheepsramp heeft plaats gehad op of in de nabijheid van de Nederlandsche kust of in de Nederlandsche zeegaten en havens met hunne toegangen naar zee dan wel op of in de nabijheid van de kust van de Nederlandse Antillen of van Aruba of in een haven van een van beide landen.
 
-2. Bij een onderzoek, als in het eerste lid bedoeld, worden de bepalingen van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2004-11-01&g=2004-11-01) in acht genomen, met uitzondering van die, vervat in de [artikelen 34 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2004-11-01&g=2004-11-01).
+2. Bij een onderzoek, als in het eerste lid bedoeld, worden de bepalingen van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&z=2005-02-01&g=2005-02-01) in acht genomen, met uitzondering van die, vervat in de [artikelen 34 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV&paragraaf=2&artikel=34&z=2005-02-01&g=2005-02-01).
 
 ##### Artikel 71
 
@@ -882,9 +880,9 @@ Vervallen
 
 ##### Artikel 77
 
-1. Deze wet treedt in werking op een nader door Ons te bepalen tijdstip , met uitzondering van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-11-01&g=2004-11-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01).
+1. Deze wet treedt in werking op een nader door Ons te bepalen tijdstip , met uitzondering van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-02-01&g=2005-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01).
 
-2. Later wordt het tijdstip van in werking treden van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-11-01&g=2004-11-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2004-11-01&g=2004-11-01) eveneens door Ons vastgesteld.
+2. Later wordt het tijdstip van in werking treden van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-02-01&g=2005-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=II&paragraaf=1&artikel=4&z=2005-02-01&g=2005-02-01) eveneens door Ons vastgesteld.
 
 3. De wet wordt met betrekking tot het schip, dat zich op laatstbedoeld tijdstip buitengaats bevindt, eerst van toepassing na verloop van zes maanden of zooveel vroeger, als dit schip eene haven in Nederland binnenloopt.
 
