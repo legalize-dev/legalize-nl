@@ -131,15 +131,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Wet op de formeel buitenlandse vennootschappen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-Ten aanzien van vennootschappen afkomstig uit het Verenigd Koninkrijk die op het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie voldoen aan de omschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=1&z=2020-02-01&g=2020-02-01) geldt:
-
-- a. de opgave ter inschrijving in het handelsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=2&z=2020-02-01&g=2020-02-01), vindt plaats binnen drie maanden na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie;
-
-- b. de verplichting tot het opmaken van een jaarrekening en een bestuursverslag, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=5&z=2020-02-01&g=2020-02-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=6&z=2020-02-01&g=2020-02-01) zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie;
-
-- c. [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009191&artikel=4&z=2020-02-01&g=2020-02-01) wordt eerst drie maanden na het tijdstip van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie toepasselijk.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
