@@ -4,7 +4,7 @@ identifier: "BWBR0015459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-11-06"
-last_updated: "2003-10-01"
+last_updated: "2003-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015459"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ Gelet op [artikel 9 van de regeling tegemoetkoming schade bij overstroming van d
 
 Besluit:
 
-De volgende normbedragen vast te stellen ten aanzien van de berekening van de teeltplanschade overeenkomstig artikel 9 van de regeling tegemoetkoming schade bij overstroming van de Maas januari 2003:
+De volgende normbedragen vast te stellen ten aanzien van de berekening van de teeltplanschade overeenkomstig [artikel 9 van de regeling tegemoetkoming schade bij overstroming van de Maas januari 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014589&artikel=9):
 
 | **Granen** |   |
 | --- | --- |
@@ -106,7 +106,7 @@ De volgende normbedragen vast te stellen ten aanzien van de berekening van de te
 | Eenjarig plantgoed | 210.537,– |
 | Tweejarig doorteelt van plantgoed | 137.472,– |
 | Driejarig van plantgoed | 122.561,– |
-| Tweejarig leverbaar | 45.844,– |
+| Tweejarig leverbaar | 345.844,– |
 | Tweejarig van gezaaid | 46.946,– |
 | Tweejarig van tweejarig plantgoed | 80.280,– |
 |   |   |
