@@ -4,7 +4,7 @@ identifier: "BWBR0016186"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-10-19"
-last_updated: "2004-03-07"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016186"
 soort: "ministeriele-regeling"
@@ -63,7 +63,7 @@ Er is een Commissie Evaluatie Vreemdelingenwet 2000, verder te noemen de commiss
 
 ##### Artikel 3
 
-De commissie bestaat uit zes leden, waaronder een voorzitter.
+De commissie bestaat uit zeven leden, waaronder een voorzitter.
 
 ##### Artikel 4
 
