@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2003-09-01"
+last_updated: "2003-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -88,5 +88,11 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Deze wet wordt aangehaald als: Uitvoeringswet EG-executieverordening.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 25, eerste lid, van de [verordening (EG) nr. 1346/2000](32000R1346) van de Raad van de Europese Unie van 29 mei 2000 betreffende insolventieprocedures (PbEG L 160).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
