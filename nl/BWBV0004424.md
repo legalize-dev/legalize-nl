@@ -167,39 +167,3 @@ Elke Verdragsluitende Staat doet overeenkomstig zijn nationale wetgeving de Raad
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
 
 DONE at The Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
-
-##### Artikel 2bis
-
-1. Elke staat die partij is kan in overeenstemming met zijn nationale rechtsbeginselen de nodige maatregelen nemen om een op zijn grondgebied gevestigde of overeenkomstig zijn wetgeving opgezette rechtspersoon aansprakelijk te kunnen stellen indien een persoon belast met het beheer van of toezicht op die rechtspersoon in die hoedanigheid een strafbaar feit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) heeft gepleegd. Deze aansprakelijkheid kan strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
-
-2. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die de strafbare feiten hebben gepleegd.
-
-3. Indien een staat die partij is de noodzakelijke maatregelen neemt om een rechtspersoon aansprakelijk te stellen in overeenstemming met het eerste lid van dit artikel, tracht hij er op toe te zien dat de toepasselijke strafrechtelijke, civielrechtelijke of bestuursrechtelijke sancties doeltreffend, evenredig en ontmoedigend zijn. Deze sancties kunnen geldelijke sancties omvatten.
-
-##### Artikel 3bis
-
-1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van staten en individuen op grond van het internationaal recht, met name de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) en het internationaal humanitair recht.
-
-2. De handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht vallen niet onder dit Verdrag, evenmin als de handelingen ondernomen door de strijdkrachten van een staat bij de uitoefening van hun officiële taken, voor zover onderworpen aan andere bepalingen van het internationaal recht.
-
-3. De bepalingen van het tweede lid van dit artikel mogen niet zodanig worden uitgelegd dat anderszins wederrechtelijke gedragingen zouden worden gebillijkt of gewettigd of dat vervolging op grond van andere wetten wordt belet.
-
-##### Artikel 7bis
-
-Iedere persoon die in hechtenis wordt genomen of tegen wie andere maatregelen worden getroffen of een procedure wordt ingesteld op grond van dit Verdrag, wordt een eerlijke behandeling verzekerd, met inbegrip van het genot van alle rechten en waarborgen in overeenstemming met het recht van de staat op het grondgebied waarvan die persoon zich bevindt en de toepasselijke bepalingen van het internationaal recht, met inbegrip van het internationaal recht inzake de rechten van de mens.
-
-##### Artikel 8bis
-
-Geen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of om wederzijdse rechtshulp op grond van een dergelijk strafbaar feit niet worden geweigerd uitsluitend op grond van het feit dat het een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven betreft.
-
-##### Artikel 8ter
-
-Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering of tot het verlenen van wederzijdse rechtshulp zou inhouden indien de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten of om wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden.
-
-##### Artikel 10bis
-
-Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=4&z=2018-01-01&g=2018-01-01), bedoelde staten zijn.
-
-IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
-
-DONE at The Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
