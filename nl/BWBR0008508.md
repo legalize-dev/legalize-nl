@@ -349,19 +349,3 @@ Deze wet treedt in werking met ingang van 22 september 1996. Indien het **Staats
 Deze wet wordt aangehaald als: Wet op de Europese ondernemingsraden.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 14a
-
-1. Indien de structuur van de communautaire onderneming of groep, ingrijpend wordt gewijzigd en in de toepasselijke overeenkomsten daarover geen of strijdige bepalingen zijn opgenomen start het hoofdbestuur op eigen initiatief of op schriftelijk verzoek van ten minste 100 werknemers of hun vertegenwoordigers afkomstig uit ten minste twee ondernemingen of vestigingen in ten minste twee verschillende betrokken staten de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-11-15&g=2011-11-15), bedoelde onderhandelingen en richt daartoe een bijzondere onderhandelingsgroep op.
-
-2. Behalve de overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2011-11-15&g=2011-11-15) gekozen of aangewezen leden van de bijzondere onderhandelingsgroep, zijn ten minste drie leden van de bestaande Europese ondernemingsraad of van elk van de bestaande Europese ondernemingsraden lid van de bijzondere onderhandelingsgroep.
-
-3. Tijdens de onderhandelingen, bedoeld in het eerste lid, blijven de bestaande Europese ondernemingsraad of -raden functioneren in overeenstemming met de toepasselijke overeenkomst of overeenkomsten, danwel blijft een andere procedure van informatieverstrekking en raadpleging van werknemers van toepassing, indien die is overeengekomen.
-
-#### Paragraaf 3. Subsidiaire bepalingen over informatieverstrekking en raadpleging buiten overeenkomst
-
-### Hoofdstuk 3. Informatieverstrekking en raadpleging van werknemers in niet-Nederlandse communautaire ondernemingen en groepen
-
-### Hoofdstuk 4. Slotbepalingen
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
