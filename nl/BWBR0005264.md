@@ -265,27 +265,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de [Paspoortwet](http
 Dit besluit kan worden aangehaald als "Besluit paspoortgelden".
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
-
-##### Artikel 2a
-
-1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
-
-2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens artikel 8.58, eerste lid, van de Belastingwet BES gestelde regels.
-
-3. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, die plaatsvindt ter vervanging van een eerder geleverd reisdocument, dat door toedoen van de leverancier niet op de juiste wijze was vervaardigd.
-
-#### § 2. In Aruba, Curaçao en Sint Maarten aan het Rijk verschuldigde kosten
-
-#### § 3. De kosten
-
-### Hoofdstuk III. Rechten, verschuldigd terzake van reisdocumenten
-
-#### § 1. Heffing van rechten in Nederland en buiten het Koninkrijk
-
-#### § 2. Heffing van rechten in Aruba, Curaçao en Sint Maarten
-
-#### § 3. De rechten
-
-### Hoofdstuk IV. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
