@@ -4,7 +4,7 @@ identifier: "BWBR0010346"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2004-10-01"
+last_updated: "2005-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010346"
 soort: "wet"
@@ -95,7 +95,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - i. arbeidsongeval: een aan een werknemer in verband met het verrichten van arbeid overkomen ongewilde, plotselinge gebeurtenis, die schade aan de gezondheid tot vrijwel onmiddellijk gevolg heeft gehad en heeft geleid tot ziekteverzuim, of de dood tot vrijwel onmiddellijk gevolg heeft gehad;
 
-- j. arbodienst: een dienst als bedoeld in [artikel 14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01).
+- j. arbodienst: een dienst als bedoeld in [artikel 14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14).
 
 4. In deze wet en de daarop berustende bepalingen wordt verstaan onder beboetbaar feit: een handeling die of een nalaten dat in strijd is met deze wet of de daarop berustende bepalingen, en terzake waarvan een bestuurlijke boete kan worden opgelegd en welke handeling of nalaten niet als overtreding of misdrijf is aangemerkt op grond van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063).
 
@@ -159,7 +159,7 @@ Onderdeel van dit beleid is in ieder geval:
 
 2. De risico-inventarisatie en -evaluatie bevat een lijst van arbeidsongevallen waarop de aard van het ongeval en de datum waarop het ongeval zich heeft voorgedaan wordt geregistreerd.
 
-3. Een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico's en de samenhang daartussen een en ander overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2004-10-01&g=2004-10-01), maakt deel uit van de risico-inventarisatie en -evaluatie. In het plan van aanpak, over de uitvoering waarvan jaarlijks schriftelijk wordt gerapporteerd, wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen. De werkgever voert over de jaarlijkse rapportage vooraf overleg met de ondernemingsraad, de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, met de belanghebbende werknemers. Bij dit overleg komt in ieder geval aan de orde het al dan niet meer actueel zijn van de risico-inventarisatie en -evaluatie.
+3. Een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico's en de samenhang daartussen een en ander overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2005-02-14&g=2005-02-14), maakt deel uit van de risico-inventarisatie en -evaluatie. In het plan van aanpak, over de uitvoering waarvan jaarlijks schriftelijk wordt gerapporteerd, wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen. De werkgever voert over de jaarlijkse rapportage vooraf overleg met de ondernemingsraad, de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, met de belanghebbende werknemers. Bij dit overleg komt in ieder geval aan de orde het al dan niet meer actueel zijn van de risico-inventarisatie en -evaluatie.
 
 4. De risico-inventarisatie en -evaluatie wordt aangepast zo dikwijls als de daarmee opgedane ervaring, gewijzigde werkmethoden of werkomstandigheden of de stand van de wetenschap en professionele dienstverlening daartoe aanleiding geven.
 
@@ -175,7 +175,7 @@ Onderdeel van dit beleid is in ieder geval:
 
 - a. de categorieën van bedrijven, inrichtingen of delen daarvan ten aanzien waarvan de werkgever die maatregelen neemt;
 
-- b. de gegevens die de werkgever met betrekking tot de bedrijven, inrichtingen of delen daarvan, bedoeld onder a, op schrift stelt of verstrekt aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) of aan werknemers, andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01);
+- b. de gegevens die de werkgever met betrekking tot de bedrijven, inrichtingen of delen daarvan, bedoeld onder a, op schrift stelt of verstrekt aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) of aan werknemers, andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14);
 
 - c. de maatregelen die de werkgever neemt ten aanzien van de bedrijven, inrichtingen of delen daarvan, bedoeld onder a;
 
@@ -193,19 +193,21 @@ Onderdeel van dit beleid is in ieder geval:
 
 ##### Artikel 7
 
-1. De daartoe aangewezen ambtenaar, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01), stelt krachtens [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2004-10-01&g=2004-10-01), verschafte en bij algemene maatregel van bestuur aangewezen gegevens uit eigen beweging ter beschikking van het publiek. Bij of krachtens algemene maatregel van bestuur kunnen terzake regels worden gesteld.
+1. De daartoe aangewezen ambtenaar, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14), stelt krachtens [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2005-02-14&g=2005-02-14), verschafte en bij algemene maatregel van bestuur aangewezen gegevens uit eigen beweging ter beschikking van het publiek. Bij of krachtens algemene maatregel van bestuur kunnen terzake regels worden gesteld.
 
 2. Onverminderd [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) en in afwijking van [artikel 10, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) blijft het verstrekken van gegevens als bedoeld in het eerste lid achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:
 
-- a. de eerbiediging van de persoonlijke levenssfeer;
+- a. het belang, bedoeld in [artikel 10, tweede lid, onder e, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10);
 
-- b. het voorkomen van sabotage.
+- b. het belang, bedoeld in [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), voorzover het betreft het voorkomen van sabotage.
 
-3. [Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2004-10-01&g=2004-10-01) ter uitvoering van [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10).
+3. [Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2005-02-14&g=2005-02-14) ter uitvoering van [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10).
 
 4. [Artikel 10, tweede lid, aanhef en onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is op het op verzoek verstrekken van informatie over gegevens als bedoeld in het derde lid uitsluitend van toepassing, voorzover die gegevens een vertrouwelijk karakter hebben.
 
 5. [Artikel 10, tweede lid, aanhef en onder g, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is op het op verzoek verstrekken van gegevens als bedoeld in het derde lid uitsluitend van toepassing voor zover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.
+
+6. In afwijking van het vijfde lid is, voorzover het gaat om milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a), [artikel 10, zevende lid, aanhef en onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) uitsluitend van toepassing voorzover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.
 
 #### Voorlichting en onderricht
 
@@ -213,7 +215,7 @@ Onderdeel van dit beleid is in ieder geval:
 
 1. De werkgever zorgt ervoor dat de werknemers doeltreffend worden ingelicht over de te verrichten werkzaamheden en de daaraan verbonden risico's, alsmede over de maatregelen die erop gericht zijn deze risico's te voorkomen of te beperken.
 
-Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht over de wijze waarop de deskundige bijstand, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2004-10-01&g=2004-10-01), in zijn bedrijf of inrichting is georganiseerd.
+Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht over de wijze waarop de deskundige bijstand, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2005-02-14&g=2005-02-14), in zijn bedrijf of inrichting is georganiseerd.
 
 2. De werkgever zorgt ervoor dat aan de werknemers doeltreffend en aan hun onderscheiden taken aangepast onderricht wordt verstrekt met betrekking tot de arbeidsomstandigheden.
 
@@ -227,9 +229,9 @@ Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht
 
 ##### Artikel 9
 
-1. Indien een werknemer een arbeidsongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood tot gevolg heeft, doet de werkgever hiervan onverwijld mededeling aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) en rapporteert hierover zo spoedig mogelijk schriftelijk. Onder ernstig lichamelijk of geestelijk letsel wordt voor de toepassing van dit artikellid verstaan: schade aan de gezondheid, die binnen 24 uur na het tijdstip van de gebeurtenis leidt tot opname in een ziekenhuis ter observatie of behandeling, dan wel naar redelijk oordeel blijvend zal zijn.
+1. Indien een werknemer een arbeidsongeval overkomt dat ernstig lichamelijk of geestelijk letsel of de dood tot gevolg heeft, doet de werkgever hiervan onverwijld mededeling aan een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) en rapporteert hierover zo spoedig mogelijk schriftelijk. Onder ernstig lichamelijk of geestelijk letsel wordt voor de toepassing van dit artikellid verstaan: schade aan de gezondheid, die binnen 24 uur na het tijdstip van de gebeurtenis leidt tot opname in een ziekenhuis ter observatie of behandeling, dan wel naar redelijk oordeel blijvend zal zijn.
 
-2. De werkgever meldt de bedrijfshulpverleners, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2004-10-01&g=2004-10-01), alsmede de ondernemingsraad of de personeelsvertegenwoordiging, of bij het ontbreken daarvan, de belanghebbende werknemers, onverwijld, dat de mededeling van een arbeidsongeval als bedoeld in het eerste lid heeft plaatsgevonden.
+2. De werkgever meldt de bedrijfshulpverleners, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2005-02-14&g=2005-02-14), alsmede de ondernemingsraad of de personeelsvertegenwoordiging, of bij het ontbreken daarvan, de belanghebbende werknemers, onverwijld, dat de mededeling van een arbeidsongeval als bedoeld in het eerste lid heeft plaatsgevonden.
 
 3. Indien is aangetoond dat een werknemer aan een beroepsziekte lijdt, doet de arbodienst hiervan mededeling aan een door Onze Minister hiertoe aangewezen instelling.
 
@@ -253,11 +255,11 @@ De werknemer is verplicht om in verband met de arbeid de nodige voorzichtigheid 
 
 - c. de op arbeidsmiddelen of anderszins aangebrachte beveiligingen niet te veranderen of buiten noodzaak weg te halen en deze op de juiste wijze te gebruiken;
 
-- d. mede te werken aan het voor hem georganiseerde onderricht bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2004-10-01&g=2004-10-01);
+- d. mede te werken aan het voor hem georganiseerde onderricht bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2005-02-14&g=2005-02-14);
 
 - e. de door hem opgemerkte gevaren voor de veiligheid of de gezondheid terstond ter kennis te brengen aan de werkgever of degene die namens deze ter plaatse met de leiding is belast;
 
-- f. de werkgever en de werknemers, andere personen en diensten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01), indien nodig bij te staan bij de uitvoering van hun verplichtingen en taken op grond van deze wet.
+- f. de werkgever en de werknemers, andere personen en diensten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14), indien nodig bij te staan bij de uitvoering van hun verplichtingen en taken op grond van deze wet.
 
 ### Hoofdstuk 3. Samenwerking, overleg, bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers en de regeling van de deskundige bijstand
 
@@ -267,13 +269,13 @@ De werknemer is verplicht om in verband met de arbeid de nodige voorzichtigheid 
 
 1. Bij de uitvoering van het arbeidsomstandighedenbeleid werken de werkgever en werknemers samen. De werkgever voert vooraf overleg met de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan met de belanghebbende werknemers over de uitvoering van het arbeidsomstandighedenbeleid. Bij dit overleg komt in ieder geval aan de orde de risico-inventarisatie en -evaluatie, de inschakeling van de arbodienst en de bedrijfshulpverlening.
 
-2. De werkgever zendt aan de ondernemingsraad of de personeelsvertegenwoordiging, of bij het ontbreken daarvan, aan de belanghebbende werknemers afschrift van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01).
+2. De werkgever zendt aan de ondernemingsraad of de personeelsvertegenwoordiging, of bij het ontbreken daarvan, aan de belanghebbende werknemers afschrift van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14).
 
 3. Aan de leden van de ondernemingsraad of de personeelsvertegenwoordiging wordt in verband met hun taak in het kader van de arbeidsomstandigheden van de werknemers:
 
-- a. de mogelijkheid geboden zich met de ambtenaren, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01), tijdens hun bezoek aan het bedrijf of de inrichting buiten tegenwoordigheid van anderen te onderhouden;
+- a. de mogelijkheid geboden zich met de ambtenaren, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14), tijdens hun bezoek aan het bedrijf of de inrichting buiten tegenwoordigheid van anderen te onderhouden;
 
-- b. de mogelijkheid geboden de ambtenaren, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01), tijdens hun bezoek aan het bedrijf of de inrichting te vergezellen, behoudens voor zover deze te kennen geven dat daartegen vanwege een goede uitoefening van hun taak bezwaren bestaan.
+- b. de mogelijkheid geboden de ambtenaren, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14), tijdens hun bezoek aan het bedrijf of de inrichting te vergezellen, behoudens voor zover deze te kennen geven dat daartegen vanwege een goede uitoefening van hun taak bezwaren bestaan.
 
 4. Voor het bij of krachtens deze wet bepaalde treedt voor de toepassing van de [afdelingen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.6) en [4.1.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) een ondernemingsraad of personeelsvertegenwoordiging in de plaats van de belanghebbende werknemers.
 
@@ -295,13 +297,13 @@ Vervallen
 
 3. Het verlenen van bijstand bij de uitvoering van verplichtingen op grond van deze wet houdt in elk geval in:
 
-- a. het verlenen van medewerking aan het verrichten en opstellen van een risico-inventarisatie en -evaluatie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01), waaronder mede begrepen het toetsen ervan en het adviseren daaromtrent;
+- a. het verlenen van medewerking aan het verrichten en opstellen van een risico-inventarisatie en -evaluatie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14), waaronder mede begrepen het toetsen ervan en het adviseren daaromtrent;
 
 - b. de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten, met inbegrip van de bijstand bij de uitvoering van bij of krachtens [artikel 71a, eerste, tweede, derde, vierde en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) gestelde regels;
 
 - c. het uitvoeren van:
 
-- 1°. het arbeidsgezondheidskundig onderzoek bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2004-10-01&g=2004-10-01);
+- 1°. het arbeidsgezondheidskundig onderzoek bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2005-02-14&g=2005-02-14);
 
 - 2°. de aanstellingskeuring, indien de werkgever deze laat verrichten;
 
@@ -311,7 +313,7 @@ Vervallen
 
 - f. de uitvoering van de in onderdeel e bedoelde maatregelen dan wel de medewerking daaraan.
 
-De werkgever laat zich met betrekking tot de onder a tot en met d bedoelde taken bijstaan door een arbodienst, ten behoeve waarvan, overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), een certificaat is afgegeven.
+De werkgever laat zich met betrekking tot de onder a tot en met d bedoelde taken bijstaan door een arbodienst, ten behoeve waarvan, overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), een certificaat is afgegeven.
 
 4. De wijze waarop de bijstandverlening plaatsvindt met betrekking tot de in het derde lid in onderdeel b, genoemde taak, wordt schriftelijk vastgelegd.
 
@@ -327,7 +329,7 @@ De werkgever laat zich met betrekking tot de onder a tot en met d bedoelde taken
 
 ##### Artikel 15
 
-1. De werkgever laat zich ten aanzien van verplichtingen op grond van [artikel 3, eerste lid, onder e, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2004-10-01&g=2004-10-01) bijstaan door een of meer werknemers die door hem zijn aangewezen als bedrijfshulpverleners.
+1. De werkgever laat zich ten aanzien van verplichtingen op grond van [artikel 3, eerste lid, onder e, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2005-02-14&g=2005-02-14) bijstaan door een of meer werknemers die door hem zijn aangewezen als bedrijfshulpverleners.
 
 2. Het verlenen van de bijstand houdt in elk geval in:
 
@@ -355,7 +357,7 @@ De werkgever laat zich met betrekking tot de onder a tot en met d bedoelde taken
 
 - a. hebben betrekking op de arbozorg en de organisatie van de arbeid, de inrichting van de arbeidsplaatsen, het werken met gevaarlijke stoffen en biologische agentia, de mate van fysieke belasting waaraan werknemers blootstaan, de fysische factoren die zich op de arbeidsplaats voordoen, de bij de arbeid gebruikte arbeidsmiddelen en persoonlijke beschermingsmiddelen en de op de arbeidsplaats te gebruiken veiligheids- en gezondheidssignalering en
 
-- b. kunnen mede strekken ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2004-10-01&g=2004-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2004-10-01&g=2004-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2004-10-01&g=2004-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2004-10-01&g=2004-10-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2004-10-01&g=2004-10-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2004-10-01&g=2004-10-01).
+- b. kunnen mede strekken ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2005-02-14&g=2005-02-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2005-02-14&g=2005-02-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2005-02-14&g=2005-02-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2005-02-14&g=2005-02-14), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2005-02-14&g=2005-02-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2005-02-14&g=2005-02-14).
 
 3. De in het eerste en tweede lid bedoelde regels kunnen inhouden:
 
@@ -439,23 +441,23 @@ De werkgever stelt de werknemers periodiek in de gelegenheid een onderzoek te on
 
 ##### Artikel 21
 
-1. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen verstrekken desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+1. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen verstrekken desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-2. Bij algemene maatregel van bestuur kunnen de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen worden verplicht tot het periodiek opstellen en toezenden aan Onze Minister van een verslag van de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), genoemde werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in de afgelopen periode.
+2. Bij algemene maatregel van bestuur kunnen de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen worden verplicht tot het periodiek opstellen en toezenden aan Onze Minister van een verslag van de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), genoemde werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in de afgelopen periode.
 
 #### Aanwijzingen
 
 ##### Artikel 22
 
-1. Onze Minister kan de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen aanwijzingen geven met betrekking tot de uitoefening van hun taak. Hij treedt daarbij niet in individuele gevallen.
+1. Onze Minister kan de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen aanwijzingen geven met betrekking tot de uitoefening van hun taak. Hij treedt daarbij niet in individuele gevallen.
 
-2. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen zijn gehouden overeenkomstig de aanwijzing, bedoeld in het eerste lid, te handelen.
+2. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen zijn gehouden overeenkomstig de aanwijzing, bedoeld in het eerste lid, te handelen.
 
 #### Taakverwaarlozing
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen, voor zoveel nodig in afwijking van deze wet, voorzieningen worden getroffen voor het geval de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.
+Bij algemene maatregel van bestuur kunnen, voor zoveel nodig in afwijking van deze wet, voorzieningen worden getroffen voor het geval de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.
 
 ### Hoofdstuk 5. Toezicht en ambtelijke bevelen
 
@@ -483,45 +485,45 @@ Bij algemene maatregel van bestuur kunnen, voor zoveel nodig in afwijking van de
 
 ##### Artikel 25
 
-Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij en krachtens deze wet door krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen.
+Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij en krachtens deze wet door krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen.
 
 #### Geheimhouding
 
 ##### Artikel 26
 
-De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) bedoelde ambtenaren zijn, behoudens tegenover hen aan wier gezag zij uit kracht van hun ambt zijn onderworpen, verplicht tot geheimhouding van de namen der personen door wie een klacht is ingediend of aangifte is gedaan van een overtreding van het bij of krachtens deze wet bepaalde, behoudens wanneer deze personen schriftelijk hebben verklaard tegen de mededeling van hun namen geen bedenkingen te hebben.
+De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) bedoelde ambtenaren zijn, behoudens tegenover hen aan wier gezag zij uit kracht van hun ambt zijn onderworpen, verplicht tot geheimhouding van de namen der personen door wie een klacht is ingediend of aangifte is gedaan van een overtreding van het bij of krachtens deze wet bepaalde, behoudens wanneer deze personen schriftelijk hebben verklaard tegen de mededeling van hun namen geen bedenkingen te hebben.
 
 #### Eis tot naleving
 
 ##### Artikel 27
 
-1. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) kan aan een werkgever een eis stellen betreffende de wijze waarop een of meer bepalingen gesteld bij of krachtens deze wet moeten worden nageleefd.
+1. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) kan aan een werkgever een eis stellen betreffende de wijze waarop een of meer bepalingen gesteld bij of krachtens deze wet moeten worden nageleefd.
 
 2. Een eis vermeldt van welke regelen hij de wijze van naleving bepaalt en bevat de termijn waarbinnen eraan moet zijn voldaan.
 
 3. De werkgever is verplicht om aan de eis te voldoen. De werknemers zijn verplicht aan de eis te voldoen voor zover zulks bij de eis is bepaald. De werkgever draagt zorg dat de werknemers van de op hen rustende verplichting zo spoedig mogelijk in kennis worden gesteld.
 
-4. Voor de toepassing van de vorige leden worden met een werkgever gelijkgesteld: de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2004-10-01&g=2004-10-01) bedoelde personen voor zover het betreft de krachtens dat artikel omschreven verplichtingen.
+4. Voor de toepassing van de vorige leden worden met een werkgever gelijkgesteld: de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2005-02-14&g=2005-02-14) bedoelde personen voor zover het betreft de krachtens dat artikel omschreven verplichtingen.
 
-5. Een eis kan worden gesteld tot naleving van het bepaalde bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2004-10-01&g=2004-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2004-10-01&g=2004-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2004-10-01&g=2004-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2004-10-01&g=2004-10-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2004-10-01&g=2004-10-01), [14, eerste lid, derde lid, laatste volzin, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2004-10-01&g=2004-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2004-10-01&g=2004-10-01) voor zover dat bij de krachtens dat artikel gestelde regels is bepaald, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2004-10-01&g=2004-10-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2004-10-01&g=2004-10-01).
+5. Een eis kan worden gesteld tot naleving van het bepaalde bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2005-02-14&g=2005-02-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2005-02-14&g=2005-02-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2005-02-14&g=2005-02-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2005-02-14&g=2005-02-14), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2005-02-14&g=2005-02-14), [14, eerste lid, derde lid, laatste volzin, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2005-02-14&g=2005-02-14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2005-02-14&g=2005-02-14) voor zover dat bij de krachtens dat artikel gestelde regels is bepaald, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2005-02-14&g=2005-02-14) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2005-02-14&g=2005-02-14).
 
-6. De werkgever brengt de inhoud van de eis zo spoedig mogelijk ter kennis van de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01) alsmede van de ondernemingsraad of de personeelsvertegenwoordiging.
+6. De werkgever brengt de inhoud van de eis zo spoedig mogelijk ter kennis van de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14) alsmede van de ondernemingsraad of de personeelsvertegenwoordiging.
 
 #### Stillegging van het werk
 
 ##### Artikel 28
 
-1. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) is bevoegd mondeling of bij gedagtekend schrijven te bevelen, dat personen niet mogen blijven in door hem aangewezen plaatsen, of dat door hem aangewezen werkzaamheden worden gestaakt dan wel niet mogen worden aangevangen, indien naar zijn redelijk oordeel dat verblijf of die werkzaamheden ernstig gevaar opleveren voor personen.
+1. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) is bevoegd mondeling of bij gedagtekend schrijven te bevelen, dat personen niet mogen blijven in door hem aangewezen plaatsen, of dat door hem aangewezen werkzaamheden worden gestaakt dan wel niet mogen worden aangevangen, indien naar zijn redelijk oordeel dat verblijf of die werkzaamheden ernstig gevaar opleveren voor personen.
 
 2. Een mondeling bevel wordt zo spoedig mogelijk schriftelijk aan de werkgever bevestigd.
 
-3. De bevoegdheid, bedoeld in het eerste lid, geldt mede in die gevallen, waarin op grond van het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2004-10-01&g=2004-10-01) aan een gestelde eis nog geen uitvoering behoeft te worden gegeven.
+3. De bevoegdheid, bedoeld in het eerste lid, geldt mede in die gevallen, waarin op grond van het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2005-02-14&g=2005-02-14) aan een gestelde eis nog geen uitvoering behoeft te worden gegeven.
 
 4. Zodra naar het oordeel van de ambtenaar die een bevel als bedoeld in het eerste lid gaf, geen ernstig gevaar meer aanwezig is, trekt hij het bevel in.
 
 5. Degene, die een bevel als bedoeld in het eerste lid gegeven heeft, is bevoegd met betrekking tot dit bevel de nodige maatregelen te treffen, met inbegrip van toepassing van bestuursdwang, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen. De maatregelen en aanwijzingen kunnen onder meer betrekking hebben op het verzegelen van arbeidsmiddelen en arbeidsplaatsen.
 
-6. De werkgever brengt de inhoud van een bevel als bedoeld in het eerste lid zo spoedig mogelijk bij gedagtekend schrijven ter kennis van de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01), en van de ondernemingsraad, de personeelsvertegenwoordiging of, bij het ontbreken daarvan, van de belanghebbende werknemers.
+6. De werkgever brengt de inhoud van een bevel als bedoeld in het eerste lid zo spoedig mogelijk bij gedagtekend schrijven ter kennis van de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14), en van de ondernemingsraad, de personeelsvertegenwoordiging of, bij het ontbreken daarvan, van de belanghebbende werknemers.
 
 7. Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel, als bedoeld in het eerste lid en een aanwijzing als bedoeld in het vijfde lid.
 
@@ -531,13 +533,13 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 ##### Artikel 29
 
-1. Een werknemer is bevoegd het werk te onderbreken en de onderbreking voort te zetten, indien en zolang naar zijn redelijk oordeel ernstig gevaar voor personen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2004-10-01&g=2004-10-01) aanwezig is en naar zijn redelijk oordeel het gevaar zo onmiddellijk dreigt dat een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) niet tijdig kan optreden. Voor de duur van de onderbreking behoudt de werknemer zijn aanspraak op het naar tijdruimte vastgesteld loon. De werknemer mag als gevolg van de werkonderbreking niet worden benadeeld in zijn positie in het bedrijf of in de inrichting.
+1. Een werknemer is bevoegd het werk te onderbreken en de onderbreking voort te zetten, indien en zolang naar zijn redelijk oordeel ernstig gevaar voor personen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2005-02-14&g=2005-02-14) aanwezig is en naar zijn redelijk oordeel het gevaar zo onmiddellijk dreigt dat een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) niet tijdig kan optreden. Voor de duur van de onderbreking behoudt de werknemer zijn aanspraak op het naar tijdruimte vastgesteld loon. De werknemer mag als gevolg van de werkonderbreking niet worden benadeeld in zijn positie in het bedrijf of in de inrichting.
 
 2. Degene die stelt dat de werknemer de aanwezigheid van onmiddellijk dreigend gevaar als bedoeld in het eerste lid op grond van de feiten waarop hij zich beroept, niet naar zijn redelijk oordeel mocht aannemen, moet dit bewijzen.
 
 3. Indien de onderbreking van het werk geschiedt buiten weten van de werkgever onderscheidenlijk de bij de arbeid betrokken leidinggevende persoon, moet de werknemer de onderbreking terstond bij deze melden.
 
-4. De onderbreking van het werk wordt zo spoedig mogelijk ter kennis gebracht van de ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) bevoegde ambtenaar, die een bevel geeft krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2004-10-01&g=2004-10-01), of verklaart, zo nodig onder het stellen van een eis als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2004-10-01&g=2004-10-01), dat de arbeid kan worden verricht. Door de beschikking van de ambtenaar eindigt de bevoegdheid van de werknemer de werkonderbreking voort te zetten.
+4. De onderbreking van het werk wordt zo spoedig mogelijk ter kennis gebracht van de ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) bevoegde ambtenaar, die een bevel geeft krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2005-02-14&g=2005-02-14), of verklaart, zo nodig onder het stellen van een eis als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2005-02-14&g=2005-02-14), dat de arbeid kan worden verricht. Door de beschikking van de ambtenaar eindigt de bevoegdheid van de werknemer de werkonderbreking voort te zetten.
 
 ### Hoofdstuk 6. Vrijstellingen, ontheffingen en beroep
 
@@ -545,9 +547,9 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 ##### Artikel 30
 
-1. Onze Minister kan met betrekking tot categorieën van bedrijven, inrichtingen, of arbeidsverhoudingen vrijstelling verlenen van de voorschriften zoals die bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01), en de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=12&z=2004-10-01&g=2004-10-01) zijn vastgesteld.
+1. Onze Minister kan met betrekking tot categorieën van bedrijven, inrichtingen, of arbeidsverhoudingen vrijstelling verlenen van de voorschriften zoals die bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14), en de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=12&z=2005-02-14&g=2005-02-14) zijn vastgesteld.
 
-2. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01) kan met betrekking tot een individueel bedrijf of inrichting ontheffing verlenen van de in het eerste lid bedoelde voorschriften, tenzij met betrekking tot een dergelijk voorschrift een eis is gesteld.
+2. Een daartoe aangewezen ambtenaar als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14) kan met betrekking tot een individueel bedrijf of inrichting ontheffing verlenen van de in het eerste lid bedoelde voorschriften, tenzij met betrekking tot een dergelijk voorschrift een eis is gesteld.
 
 3. Bij algemene maatregel van bestuur kunnen regelen worden gesteld inzake het verlenen van vrijstellingen of ontheffingen als bedoeld in het eerste onderscheidenlijk tweede lid.
 
@@ -563,7 +565,7 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 - c. zich na de verlening zodanige feiten of omstandigheden voordoen dat, indien deze ten tijde van de verlening bekend waren geweest, de vrijstelling of ontheffing niet of niet in die vorm zou zijn verleend.
 
-7. De werkgever zendt zo spoedig mogelijk een afschrift van zijn verzoek om ontheffing aan de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01) alsmede aan de ondernemingsraad of aan de personeelsvertegenwoordiging. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging brengt de werkgever de inhoud van zijn verzoek zo spoedig mogelijk ter kennis van de belanghebbende werknemers.
+7. De werkgever zendt zo spoedig mogelijk een afschrift van zijn verzoek om ontheffing aan de betrokken werknemers en andere personen en diensten als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14) alsmede aan de ondernemingsraad of aan de personeelsvertegenwoordiging. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging brengt de werkgever de inhoud van zijn verzoek zo spoedig mogelijk ter kennis van de belanghebbende werknemers.
 
 8. De werking van een beschikking inzake een ontheffing wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
@@ -571,11 +573,11 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 ##### Artikel 31
 
-1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01), kan door een belanghebbende administratief beroep worden ingesteld bij Onze Minister.
+1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14), kan door een belanghebbende administratief beroep worden ingesteld bij Onze Minister.
 
 2. Onze Minister kan een commissie instellen, die is belast met het horen van belanghebbenden.
 
-3. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2004-10-01&g=2004-10-01), en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), wordt gegeven namens Onze Minister.
+3. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2005-02-14&g=2005-02-14), en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), wordt gegeven namens Onze Minister.
 
 ### Hoofdstuk 7. Sancties
 
@@ -591,9 +593,9 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 ##### Artikel 33
 
-1. Als beboetbaar feit wordt aangemerkt de handeling of het nalaten in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2004-10-01&g=2004-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2004-10-01&g=2004-10-01), [5, met uitzondering van de derde en vierde volzin van het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2004-10-01&g=2004-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2004-10-01&g=2004-10-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2004-10-01&g=2004-10-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2004-10-01&g=2004-10-01), [14, eerste lid, derde lid, laatste volzin en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2004-10-01&g=2004-10-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2004-10-01&g=2004-10-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2004-10-01&g=2004-10-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2004-10-01&g=2004-10-01). Terzake van de feiten bedoeld in de vorige volzin, kan een boete worden opgelegd van de eerste categorie.
+1. Als beboetbaar feit wordt aangemerkt de handeling of het nalaten in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2005-02-14&g=2005-02-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2005-02-14&g=2005-02-14), [5, met uitzondering van de derde en vierde volzin van het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2005-02-14&g=2005-02-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2005-02-14&g=2005-02-14), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2005-02-14&g=2005-02-14), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2005-02-14&g=2005-02-14), [14, eerste lid, derde lid, laatste volzin en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2005-02-14&g=2005-02-14), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2005-02-14&g=2005-02-14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2005-02-14&g=2005-02-14), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2005-02-14&g=2005-02-14). Terzake van de feiten bedoeld in de vorige volzin, kan een boete worden opgelegd van de eerste categorie.
 
-2. Als beboetbaar feit wordt tevens aangemerkt de handeling of het nalaten in strijd met [artikel 16, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2004-10-01&g=2004-10-01), voor zover het niet naleven van de in dat artikellid bedoelde voorschriften en verboden bij algemene maatregel van bestuur is aangemerkt als beboetbaar feit. Terzake van de feiten, bedoeld in de vorige volzin, wordt bij algemene maatregel van bestuur bepaald of een boete kan worden opgelegd van de eerste of tweede categorie.
+2. Als beboetbaar feit wordt tevens aangemerkt de handeling of het nalaten in strijd met [artikel 16, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2005-02-14&g=2005-02-14), voor zover het niet naleven van de in dat artikellid bedoelde voorschriften en verboden bij algemene maatregel van bestuur is aangemerkt als beboetbaar feit. Terzake van de feiten, bedoeld in de vorige volzin, wordt bij algemene maatregel van bestuur bepaald of een boete kan worden opgelegd van de eerste of tweede categorie.
 
 3. Een beboetbaar feit als bedoeld in het eerste of tweede lid wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een daaraan voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een zelfde feit, een bestuurlijke boete is opgelegd die onherroepelijk is geworden.
 
@@ -607,7 +609,7 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt de boete op aan de natuurlijke of rechtspersoon op wie de verplichtingen rusten die voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als beboetbaar feit.
 
-2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=33&z=2004-10-01&g=2004-10-01), bedoelde algemene maatregel van bestuur.
+2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=33&z=2005-02-14&g=2005-02-14), bedoelde algemene maatregel van bestuur.
 
 3. De hoogte van de bestuurlijke boete die ten hoogste voor een beboetbaar feit kan worden opgelegd is gelijk aan de geldsom van de categorie die voor het beboetbaar feit is bepaald.
 
@@ -627,13 +629,13 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 1. Indien de toezichthouder jegens de belanghebbende een handeling verricht waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaalde gedraging een bestuurlijke boete zal worden opgelegd, is die belanghebbende niet langer verplicht terzake van die gedraging enige verklaring af te leggen, voor zover het de boeteoplegging betreft. De belanghebbende wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
 
-2. Indien de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), voornemens is om aan de belanghebbende een bestuurlijke boete op te leggen, wordt hiervan kennis gegeven aan de belanghebbende onder vermelding van de gronden waarop het voornemen berust. De kennisgeving is een handeling als bedoeld in het eerste lid.
+2. Indien de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), voornemens is om aan de belanghebbende een bestuurlijke boete op te leggen, wordt hiervan kennis gegeven aan de belanghebbende onder vermelding van de gronden waarop het voornemen berust. De kennisgeving is een handeling als bedoeld in het eerste lid.
 
-3. Op verzoek van de belanghebbende die de in het vorige lid bedoelde kennisgeving wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), er zoveel mogelijk zorg voor dat de in die kennisgeving vermelde gronden aan de belanghebbende worden medegedeeld in een voor hem begrijpelijke taal.
+3. Op verzoek van de belanghebbende die de in het vorige lid bedoelde kennisgeving wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), er zoveel mogelijk zorg voor dat de in die kennisgeving vermelde gronden aan de belanghebbende worden medegedeeld in een voor hem begrijpelijke taal.
 
-4. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), de belanghebbende in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
+4. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), de belanghebbende in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
 
-5. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
+5. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt de daartoe aangewezen ambtenaar, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
 #### Informatie, zwijgrecht en cautie
 
@@ -651,7 +653,7 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 - d. de natuurlijke of rechtspersoon op wie de verplichting rust tot naleving van het beboetbare wettelijke voorschrift.
 
-3. Het rapport wordt toegezonden aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar.
+3. Het rapport wordt toegezonden aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar.
 
 4. Een afschrift van het rapport wordt toegezonden of uitgereikt aan de in het tweede lid, onder c en d bedoelde persoon. Indien de in de eerste volzin bedoelde persoon het rapport niet begrijpt, draagt de toezichthouder er zo veel mogelijk zorg voor dat de in het rapport vermelde informatie aan hem wordt meegedeeld in een voor hem begrijpelijke taal.
 
@@ -659,7 +661,7 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 ##### Artikel 37
 
-1. Een bestuurlijke boete wordt opgelegd bij beschikking van een daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar. De beschikking wordt gegeven binnen 13 weken na dagtekening van het boeterapport, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2004-10-01&g=2004-10-01).
+1. Een bestuurlijke boete wordt opgelegd bij beschikking van een daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar. De beschikking wordt gegeven binnen 13 weken na dagtekening van het boeterapport, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2005-02-14&g=2005-02-14).
 
 2. In de beschikking wordt in ieder geval vermeld:
 
@@ -673,35 +675,35 @@ De in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&a
 
 - e. de termijn of de termijnen waarbinnen de boete moet worden betaald.
 
-3. Indien een persoon als bedoeld in het tweede lid, onder c en d, de inhoud van de beschikking niet begrijpt, draagt de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar er zoveel mogelijk zorg voor dat de in de beschikking vermelde informatie aan hem wordt meegedeeld in een voor hem begrijpelijke taal.
+3. Indien een persoon als bedoeld in het tweede lid, onder c en d, de inhoud van de beschikking niet begrijpt, draagt de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar er zoveel mogelijk zorg voor dat de in de beschikking vermelde informatie aan hem wordt meegedeeld in een voor hem begrijpelijke taal.
 
 #### Boetebeschikking
 
 ##### Artikel 38
 
-1. De bestuurlijke boete wordt betaald aan de Staat binnen 6 weken nadat de beschikking, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2004-10-01&g=2004-10-01), is bekendgemaakt.
+1. De bestuurlijke boete wordt betaald aan de Staat binnen 6 weken nadat de beschikking, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2005-02-14&g=2005-02-14), is bekendgemaakt.
 
-2. Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn. Bij ministeriële regeling worden nadere regels gesteld.
+2. Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn. Bij ministeriële regeling worden nadere regels gesteld.
 
 #### Betaling
 
 ##### Artikel 39
 
-1. Bij gebreke van betaling maant de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar degene aan wie de bestuurlijke boete is opgelegd, schriftelijk aan binnen 2 weken alsnog aan zijn verplichtingen te voldoen. De verschuldigde boete wordt verhoogd met de op de aanmaning betrekking hebbende kosten.
+1. Bij gebreke van betaling maant de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar degene aan wie de bestuurlijke boete is opgelegd, schriftelijk aan binnen 2 weken alsnog aan zijn verplichtingen te voldoen. De verschuldigde boete wordt verhoogd met de op de aanmaning betrekking hebbende kosten.
 
-2. De aanmaning bevat de aanzegging dat de bestuurlijke boete, voorzover deze binnen de in de aanmaning gestelde termijn niet wordt voldaan, wordt ingevorderd overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=40&z=2004-10-01&g=2004-10-01).
+2. De aanmaning bevat de aanzegging dat de bestuurlijke boete, voorzover deze binnen de in de aanmaning gestelde termijn niet wordt voldaan, wordt ingevorderd overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=40&z=2005-02-14&g=2005-02-14).
 
 #### Aanmaning
 
 ##### Artikel 40
 
-1. Bij gebreke van tijdige betaling vordert de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2004-10-01&g=2004-10-01), aangewezen ambtenaar van degene aan wie de boete is opgelegd, de verschuldigde bestuurlijke boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel in.
+1. Bij gebreke van tijdige betaling vordert de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2005-02-14&g=2005-02-14), aangewezen ambtenaar van degene aan wie de boete is opgelegd, de verschuldigde bestuurlijke boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel in.
 
 2. Het dwangbevel wordt op kosten van degene aan wie de bestuurlijke boete is opgelegd bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
 
 3. Gedurende 6 weken staat verzet tegen het dwangbevel open door dagvaarding van de Staat.
 
-4. Het verzet kan niet worden gegrond op de stelling dat de beschikking, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2004-10-01&g=2004-10-01), niet is ontvangen of dat de bij die beschikking opgelegde bestuurlijke boete ten onrechte of op een te hoge geldsom is vastgesteld.
+4. Het verzet kan niet worden gegrond op de stelling dat de beschikking, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2005-02-14&g=2005-02-14), niet is ontvangen of dat de bij die beschikking opgelegde bestuurlijke boete ten onrechte of op een te hoge geldsom is vastgesteld.
 
 5. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter van de rechtbank in kort geding anders beslist.
 
@@ -749,7 +751,7 @@ Wijzigt de Wet op de economische delicten
 
 ##### Artikel 47
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01) en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de rechtmatigheid en doeltreffendheid van het functioneren van de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2004-10-01&g=2004-10-01), aangewezen instellingen.
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14) en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de rechtmatigheid en doeltreffendheid van het functioneren van de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2005-02-14&g=2005-02-14), aangewezen instellingen.
 
 #### Evaluatie
 
@@ -769,7 +771,7 @@ Voor de toepassing van deze wet worden het [Arbeidsomstandighedenbesluit](https:
 
 ##### Artikel 51
 
-Voor de toepassing van deze wet worden vrijstellingen en ontheffingen alsmede andere besluiten die door Onze Minister genomen zijn op grond van het bij of krachtens de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=8&artikel=48&z=2004-10-01&g=2004-10-01) genoemde wet bepaalde en die op het tijdstip van het in werking treden van deze wet nog van kracht zijn, geacht te zijn verleend onderscheidenlijk genomen krachtens deze wet.
+Voor de toepassing van deze wet worden vrijstellingen en ontheffingen alsmede andere besluiten die door Onze Minister genomen zijn op grond van het bij of krachtens de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=8&artikel=48&z=2005-02-14&g=2005-02-14) genoemde wet bepaalde en die op het tijdstip van het in werking treden van deze wet nog van kracht zijn, geacht te zijn verleend onderscheidenlijk genomen krachtens deze wet.
 
 ##### Artikel 52
 
