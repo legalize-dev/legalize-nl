@@ -110,19 +110,3 @@ Onze Minister van Justitie doet de in artikel 998, eerste lid, van het Burgerlij
 2. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6a
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6b
-
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
