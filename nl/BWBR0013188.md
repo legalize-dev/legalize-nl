@@ -4,7 +4,7 @@ identifier: "BWBR0013188"
 country: "nl"
 rank: "wet"
 publication_date: "2003-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013188"
 soort: "wet"
@@ -88,9 +88,9 @@ In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](http
 
 ##### Artikel IX. Overgangsrecht [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251)
 
-1. [Artikel VI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-01-01&g=2002-01-01), vindt toepassing voordat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2002 wordt toegepast.
+1. [Artikel VI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-05-08&g=2002-05-08), vindt toepassing voordat [artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) bij het begin van het kalenderjaar 2002 wordt toegepast.
 
-2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de in [artikel VI, onderdeel A, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-01-01&g=2002-01-01), bedoelde verlaging van de accijns.
+2. [Artikel 84b van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84b) vindt geen toepassing op de in [artikel VI, onderdeel A, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-05-08&g=2002-05-08), bedoelde verlaging van de accijns.
 
 ##### Artikel IXA. Wijziging van de [Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0012606)
 
@@ -108,20 +108,20 @@ Wijzigt de Wet Inkomstenbelasting 2001.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2002.
 
-2. In afwijking van het eerste lid treden [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=I&z=2002-01-01&g=2002-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
+2. In afwijking van het eerste lid treden [artikel I, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=I&z=2002-05-08&g=2002-05-08) in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht heeft tot 1 januari 2002.
 
-3. In afwijking van het eerste lid treedt [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=I&z=2002-01-01&g=2002-01-01), in werking met ingang van 1 januari 2002 en werkt terug tot en met 1 januari 2001.
+3. In afwijking van het eerste lid treedt [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=I&z=2002-05-08&g=2002-05-08), in werking met ingang van 1 januari 2002 en werkt terug tot en met 1 januari 2001.
 
-4. [Artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01), vindt toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2002 is toegepast.
+4. [Artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08), vindt toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2002 is toegepast.
 
-5. In afwijking van het eerste lid treedt [artikel III, onderdelen F, G en K, eerste lid, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01), in werking met ingang van 1 januari 2002 en werkt terug tot en met 1 januari 2001.
+5. In afwijking van het eerste lid treedt [artikel III, onderdelen F, G en K, eerste lid, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08), in werking met ingang van 1 januari 2002 en werkt terug tot en met 1 januari 2001.
 
-6. In afwijking van het eerste lid treedt [artikel III, onderdelen H, eerste lid, J, derde en vierde lid, en M](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01), in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, en werkt terug tot en met 1 januari 2001. Indien [artikel III, onderdelen H, eerste lid, J, derde en vierde lid, of M](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01) eerder in werking treden dan [artikel XI, onderdelen F, eerste lid, I](onbekend), of de in onderdeel O opgenomen [afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](onbekend) van de [Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011985), wordt in het in de eerste volzin genoemde besluit bepaald dat onderdelen F, eerste lid, I, of het in onderdeel O opgenomen [tweede en vierde lid van artikel 36t van afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](onbekend) van de [Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011985)vervallen.
+6. In afwijking van het eerste lid treedt [artikel III, onderdelen H, eerste lid, J, derde en vierde lid, en M](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08), in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, en werkt terug tot en met 1 januari 2001. Indien [artikel III, onderdelen H, eerste lid, J, derde en vierde lid, of M](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08) eerder in werking treden dan [artikel XI, onderdelen F, eerste lid, I](onbekend), of de in onderdeel O opgenomen [afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](onbekend) van de [Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011985), wordt in het in de eerste volzin genoemde besluit bepaald dat onderdelen F, eerste lid, I, of het in onderdeel O opgenomen [tweede en vierde lid van artikel 36t van afdeling 13 van hoofdstuk Va van de Wet belastingen op milieugrondslag](onbekend) van de [Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011985)vervallen.
 
-7. In afwijking van het eerste lid treedt [artikel III, onderdelen J, tweede lid, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01), in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2002 wordt uitgegeven, in dat besluit bepaald wordt dat [artikel III, onderdeel J, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01), terugwerkt tot en met 1 januari 2002.
+7. In afwijking van het eerste lid treedt [artikel III, onderdelen J, tweede lid, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08), in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2002 wordt uitgegeven, in dat besluit bepaald wordt dat [artikel III, onderdeel J, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08), terugwerkt tot en met 1 januari 2002.
 
-8. In afwijking van het eerste lid treden [artikel III, onderdelen Aa, Ba en Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-01-01&g=2002-01-01) in werking op het tijdstip waarop [artikel XI van de Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen) (Stb. 346)](https://wetten.overheid.nl/jci1.3:c:BWBR0012606&artikel=XI) in werking treedt.
+8. In afwijking van het eerste lid treden [artikel III, onderdelen Aa, Ba en Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=III&z=2002-05-08&g=2002-05-08) in werking op het tijdstip waarop [artikel XI van de Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen) (Stb. 346)](https://wetten.overheid.nl/jci1.3:c:BWBR0012606&artikel=XI) in werking treedt.
 
-9. In afwijking van het eerste lid treedt [artikel VI, onderdelen C tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-01-01&g=2002-01-01), in werking met ingang van 1 oktober 2002.
+9. In afwijking van het eerste lid treedt [artikel VI, onderdelen C tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0013188&hoofdstuk=1&artikel=VI&z=2002-05-08&g=2002-05-08), in werking met ingang van 1 oktober 2002.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
