@@ -4,7 +4,7 @@ identifier: "BWBR0007041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "1996-07-01"
+last_updated: "2004-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007041"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De aanvraag van een schorsing als bedoeld in artikel 67 van de wet alsmede de aanvraag van opheffing van de schorsing, bedoeld in artikel 69 van de wet, geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een daartoe aangewezen postvestiging van PTT Post BV.
+De aanvraag van een schorsing als bedoeld in [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=67) alsmede de aanvraag van opheffing van de schorsing, bedoeld in [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=69), geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een daartoe aangewezen postvestiging van Postkantoren BV.
 
 ##### Artikel 2
 
@@ -52,7 +52,7 @@ De aantekening van schorsing, bedoeld in artikel 67, vijfde lid, van de wet word
 
 ##### Artikel 3
 
-De aanvraag van een nieuw deel II van het kentekenbewijs bij het einde van de schorsing geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een postvestiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007041&artikel=1&z=1996-07-01&g=1996-07-01), zulks met inachtneming van het bepaalde bij en krachtens [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51).
+De aanvraag van een nieuw deel II van het kentekenbewijs bij het einde van de schorsing geschiedt bij een daartoe aangewezen vestiging van de Dienst Wegverkeer dan wel een postvestiging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007041&artikel=1&z=2004-02-20&g=2004-02-20), zulks met inachtneming van het bepaalde bij en krachtens [artikel 51 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=51).
 
 ##### Artikel 4
 
