@@ -75,7 +75,3 @@ Ons besluit van 3 maart 1970, Stcrt. 51, sedertdien gewijzigd, wordt ingetrokken
 Dit besluit treedt in werking met ingang van 1 april 1980.
 
 Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in de Nederlandse Staatscourant zal worden bekendgemaakt.
-
-##### Artikel 4
-
-Dit besluit wordt aangehaald als: Besluit organisaties gerechtigd tot het benoemen van SER-leden.
