@@ -4,7 +4,7 @@ identifier: "BWBR0007577"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-05-23"
-last_updated: "1995-10-28"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007577"
 soort: "AMvB"
@@ -52,15 +52,15 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211);
 
-- b. Amp-wet: Algemene militaire pensioenwet;
+- b. vervallen;
 
 - c. Onze Minister: Onze Minister van Defensie;
 
-- d. militair: militair als bedoeld in artikel 28, eerste lid, onderdeel **b**, onder 3° van de wet;
+- d. militair: militair als bedoeld in [artikel 28, eerste lid, onderdeel b, onder 3° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=28);
 
-- e. inhouding: inhouding ter uitvoering van artikel 66 van de wet, met als doel niet beoogde inkomensvoordelen te voorkomen;
+- e. inhouding: inhouding ter uitvoering van [artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&artikel=66), met als doel niet beoogde inkomensvoordelen te voorkomen;
 
-- f. inkomsten: inkomsten en geldswaarden van emolumenten die bepalend zijn voor de pensioengrondslag van de militair, bedoeld in artikel C 1 van de Amp-wet, voorzover deze feitelijk zijn genoten, met dien verstande dat de aanspraak op vakantie-uitkering over de maand waarin deze is opgebouwd, tot de inkomsten wordt gerekend.
+- f. inkomsten: inkomstenbestanddelen, die deel uitmaken van de berekeningsgrondslag voor pensioenen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde regelingen, voorzover deze feitelijk zijn genoten, met dien verstande dat de aanspraak op vakantie-uitkering over de maand waarin deze is opgebouwd, tot de inkomsten wordt gerekend.
 
 ##### Artikel 2
 
