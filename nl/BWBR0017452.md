@@ -355,11 +355,3 @@ Deze wet wordt aangehaald als: Wet op de vaste boekenprijs.
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 27a
-
-Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-07-01&g=2009-07-01), zijn de [artikelen 5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
