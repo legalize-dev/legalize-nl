@@ -53,9 +53,3 @@ Voor de toepassing van [artikel 85, derde lid, van de Werkloosheidswet](https://
 Deze regeling treedt in werking met ingang van 1 juli 1997.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Deze regeling berust mede op [artikel 37, derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=37).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
