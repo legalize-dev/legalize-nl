@@ -1543,23 +1543,3 @@ Op de gevallen, waarin volgens art. 186 der [Grondwet](https://wetten.overheid.n
 Deze wet kan worden aangehaald onder den titel van "onteigeningswet".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 81
-
-1. Indien het te onteigenen gebouw onbewoonbaar is verklaard, wordt de waarde vergoed van de grond en van de bouwmaterialen, ingeval het gebouw voor geen enkel doeleinde kan worden gebruikt. Indien het gebouw voor een ander doeleinde dan bewoning kan worden gebruikt, wordt de waarde vergoed van de grond en van de bouwmaterialen, vermeerderd met zodanig bedrag als billijk kan worden geacht in verband met het voordeel dat de eigenaar uit dat andere gebruik zou kunnen trekken.
-
-2. Indien slechts een gedeelte van het te onteigenen gebouw onbewoonbaar is verklaard, wordt daarmee rekening gehouden bij de bepaling van de waarde van het geheel. Daarbij wordt gelet op de geschiktheid of ongeschiktheid van het onbewoonbaar verklaarde deel voor andere doeleinden dan bewoning.
-
-## Titel VIIa. Evaluatie
-
-##### Artikel 125
-
-1. Onze Ministers van Justitie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat zenden binnen drie jaar na de inwerkingtreding van de [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.9), [3.10, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.10), [3.12, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.12), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.14), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.23) en [3.24, onderdeel D, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=3.24).
-
-2. Binnen vijf jaar na de inwerkingtreding van de [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431) wordt een voorstel van wet tot regeling van de in het eerste lid bedoelde onderwerpen ingediend bij de Staten-Generaal.
-
-## Titel VIII. Over onteigening in het belang der natuurbescherming
-
-#### Slotbepalingen
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Collegien en Ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.
