@@ -133,25 +133,3 @@ Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte
 Deze wet kan worden aangehaald als: Wet Fonds economische structuurversterking.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-1. In afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), wordt met betrekking tot het jaar 2007 een percentage van 40,9 toegepast.
-
-2. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), worden met betrekking tot het jaar 2007 de ontvangsten van Energie Beheer Nederland B.V. onder de ontvangsten als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), verstaan.
-
-3. Met betrekking tot het jaar 2007 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), verminderd met € 1 000 000 000.
-
-4. Met betrekking tot het jaar 2009 worden de ontvangsten van het fonds, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2007-01-01&g=2007-01-01), vermeerderd met € 1 000 000 000 vermeerderd met rente.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-1. Voor het fonds kan worden afgezien van het indienen van een voorstel van wet tot vaststelling van de begroting.
-
-2. Indien in enig begrotingsjaar geen voorstel als bedoeld in het eerste lid wordt ingediend, worden, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2&z=2018-01-01&g=2018-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=3&z=2018-01-01&g=2018-01-01) de ontvangsten, respectievelijk de uitgaven, van het fonds voor dat begrotingsjaar op nihil gesteld.
-
-3. Dit artikel vervalt op het moment dat een voorstel als bedoeld in het eerste lid wordt ingediend.
-
-Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
