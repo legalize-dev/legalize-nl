@@ -4,7 +4,7 @@ identifier: "BWBR0013748"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2002-08-31"
+last_updated: "2002-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013748"
 soort: "wet"
@@ -52,11 +52,11 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel IIIa
 
@@ -64,23 +64,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen
 
 ##### Artikel IIIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel IIId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel Va
 
@@ -88,15 +88,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel Vb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel VIIa
 
@@ -104,19 +104,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel VIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen .
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen
 
 ##### Artikel IXa
 
@@ -136,11 +136,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 september 2002, met dien verstande dat de bepalingen, genoemd in het tweede tot en met zesde lid, in werking treden met ingang van de in die leden vermelde tijdstippen.
 
-2. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=I&z=2002-08-31&g=2002-08-31) CCC, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat dit onderdeel met uitzondering van de artikelen 17a.2, 17a.2a, 17a.2b, 17a.2c, 17a.3, 17a.11 en 17a.13, tweede lid, voor het eerst betrekking heeft op het studiejaar 2002–2003.
+2. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=I&z=2002-09-01&g=2002-09-01) CCC, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat dit onderdeel met uitzondering van de artikelen 17a.2, 17a.2a, 17a.2b, 17a.2c, 17a.3, 17a.11 en 17a.13, tweede lid, voor het eerst betrekking heeft op het studiejaar 2002–2003.
 
-3. [Artikel III, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-08-31&g=2002-08-31) Aa, R, S, HH en II, treedt in werking met ingang van 1 september 2004.
+3. [Artikel III, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-09-01&g=2002-09-01) Aa, R, S, HH en II, treedt in werking met ingang van 1 september 2004.
 
-4. [Artikel III, onderdelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-08-31&g=2002-08-31), Na en QQa, en de artikelen IIIa, Va, VIIa en IXb treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+4. [Artikel III, onderdelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-09-01&g=2002-09-01), Na en QQa, en de artikelen IIIa, Va, VIIa en IXb treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 5. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt artikel IXa in werking met ingang van 31 augustus 2002.
 
