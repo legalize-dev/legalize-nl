@@ -4,7 +4,7 @@ identifier: "BWBR0009408"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2002-09-01"
+last_updated: "2004-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009408"
 soort: "wet"
@@ -65,7 +65,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.
 
-3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2002-09-01&g=2002-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2002-09-01&g=2002-09-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2002-09-01&g=2002-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2002-09-01&g=2002-09-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2002-09-01&g=2002-09-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2002-09-01&g=2002-09-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2002-09-01&g=2002-09-01).
+3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2004-05-01&g=2004-05-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2004-05-01&g=2004-05-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2004-05-01&g=2004-05-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2004-05-01&g=2004-05-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2004-05-01&g=2004-05-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2004-05-01&g=2004-05-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2004-05-01&g=2004-05-01).
 
 ##### Artikel 2
 
@@ -159,7 +159,7 @@ Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen van w
 
 2. Op de verplichting van de verzekeraar tot vergoeding van de schade als bedoeld in het eerste lid is [afdeling 10 van titel 1 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&afdeling=10) van overeenkomstige toepassing, voor zover de strekking van de betrokken bepalingen in verband met de aard van de verplichting zich daartegen niet verzet.
 
-3. Bij algemene maatregel van bestuur worden ter zake van de verzekering nadere regelen gesteld. Deze regelen kunnen ook afwijkingen bevatten van het bepaalde in het eerste en tweede lid. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+3. Bij of krachtens algemene maatregel van bestuur worden ter zake van de verzekering nadere regelen gesteld. De bij algemene maatregel van bestuur te stellen regelen kunnen ook afwijkingen bevatten van het bepaalde in het eerste en tweede lid. Krachtens algemene maatregel van bestuur te stellen regels betreffen slechts wijziging van in die maatregel opgenomen geldbedragen die naar hun aard met regelmaat wijziging behoeven. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 4. De wijze waarop uitvoering wordt gegeven aan het eerste lid wordt vastgelegd in het onderzoeksprotocol.
 
@@ -223,7 +223,7 @@ Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat, alvo
 
 - b. indien zij wegens hun lichamelijke of geestelijke toestand moeten worden geacht de geschiktheid voor het vervullen van hun functie te hebben verloren.
 
-8. De leden en de plaatsvervangende leden ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten, een en ander overeenkomstig bij algemene maatregel van bestuur te stellen regels.
+8. De leden en de plaatsvervangende leden ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten, een en ander overeenkomstig bij ministeriële regeling te stellen regels.
 
 9. De centrale commissie regelt haar werkwijze bij een reglement dat de goedkeuring van Onze Minister behoeft.
 
