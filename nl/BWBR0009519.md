@@ -4,7 +4,7 @@ identifier: "BWBR0009519"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-02-15"
-last_updated: "1998-05-01"
+last_updated: "2005-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009519"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Onverminderd het bepaalde in de [Regeling snelle motorboten Rijkswateren 1995](h
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009519&artikel=1&z=1998-05-01&g=1998-05-01) genoemde maximum vaarsnelheid geldt niet op de betonde vaargeulen van:
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009519&artikel=1&z=2005-02-15&g=2005-02-15) genoemde maximum vaarsnelheid geldt niet op de betonde vaargeulen van:
 
 zee naar de havens van Den Helder, Oudeschild en Den Oever via respectievelijk het ’Marsdiep, de Texelstroom en Visjagersgaatje’;
 
@@ -52,7 +52,9 @@ Den Helder naar de havens van Kornwerderzand en Harlingen via de ’Texelstroom,
 
 zee naar de havens van Harlingen via de ’Vliestroom en Blauwe Slenk’;
 
-zee naar de haven van Lauwersoog via de ’Zoutkamperlaag’ en de veerbootroutes van en naar de Waddeneilanden.
+zee naar de haven van Lauwersoog via de ’Zoutkamperlaag’ en de veerbootroutes van en naar de Waddeneilanden;
+
+zee naar de scheidingston WA 22/MG 1.
 
 ##### Artikel 3
 
