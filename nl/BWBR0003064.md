@@ -99,13 +99,3 @@ Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot 1 oktober 1976.
 
 Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 5a. Grondslag besluit
-
-Dit besluit berust op [artikel 59a, zevende lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=59a) en [artikel 3:50, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:50).
-
-##### Artikel 6a. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid.
-
-Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
