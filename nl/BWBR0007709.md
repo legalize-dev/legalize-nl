@@ -4,7 +4,7 @@ identifier: "BWBR0007709"
 country: "nl"
 rank: "amvb"
 publication_date: "2003-12-01"
-last_updated: "2001-09-05"
+last_updated: "2002-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007709"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Met inachtneming van artikel 40, eerste lid, van de wet worden de taken en bevoe
 
 ##### Artikel 3
 
-1. Aan de overdracht van de taken en bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007709&artikel=2&z=2001-09-05&g=2001-09-05), worden de in het tweede tot en met achtste lid bedoelde beperkingen en voorschriften gesteld onderscheidenlijk verbonden.
+1. Aan de overdracht van de taken en bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007709&artikel=2&z=2001-09-05&g=2002-03-01), worden de in het tweede tot en met achtste lid bedoelde beperkingen en voorschriften gesteld onderscheidenlijk verbonden.
 
 2. Schriftelijke afspraken tussen de Stichting en andere toezichthoudende autoriteiten die tot uitwerking van de in artikel 33 van de wet bedoelde informatie-uitwisseling dienen, worden ter voorafgaande instemming aan Onze Minister voorgelegd. Onze Minister kan zijn instemming aan deze afspraken slechts onthouden indien naar zijn oordeel de belangen die worden gediend door verdragen of bindende besluiten als bedoeld in artikel 36, eerste lid, van de wet dan wel het algemeen belang zich tegen die afspraken verzetten onderscheidenlijk verzet.
 
