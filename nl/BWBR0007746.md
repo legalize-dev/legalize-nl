@@ -4,7 +4,7 @@ identifier: "BWBR0007746"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-02-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007746"
 soort: "wet"
@@ -114,7 +114,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - p. haalbaarheidsonderzoek: een activiteit gericht op het tot stand brengen van een schriftelijk rapport, inhoudende een systematisch opgezette en afgeronde analyse van de technische mogelijkheden van speur- en ontwikkelingswerk;
 
-- q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-02-01) aan een S&O-inhoudingsplichtige of een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk.
+- q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-07-01) aan een S&O-inhoudingsplichtige of een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk.
 
 2. Voor de toepassing van het eerste lid, onderdeel c, wordt:
 
@@ -132,7 +132,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De in deze wet bedoelde ministeriële regelingen worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen bedoeld in:
 
-- a. de artikelen [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=12&z=2002-02-01&g=2002-02-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01) in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en, wat betreft [artikel 12, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=12&z=2002-02-01&g=2002-02-01), na overleg met Onze Minister van Economische Zaken;
+- a. de artikelen [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=12&z=2002-02-01&g=2002-07-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01) in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en, wat betreft [artikel 12, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=12&z=2002-02-01&g=2002-07-01), na overleg met Onze Minister van Economische Zaken;
 
 - b. artikel 14 in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
@@ -200,19 +200,19 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 - b. de afdrachtvermindering langdurig werklozen: € 2400 per kalenderjaar;
 
-- c. de afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-02-01), bedoelde werknemers: € 2400 per kalenderjaar. De afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-02-01), bedoelde werknemer: € 1529 per kalenderjaar;
+- c. de afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-07-01), bedoelde werknemers: € 2400 per kalenderjaar. De afdrachtvermindering onderwijs beloopt met betrekking tot de in [artikel 14, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-07-01), bedoelde werknemer: € 1529 per kalenderjaar;
 
-2. De afdrachtvermindering scholing beloopt een bedrag te bepalen op de voet van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VA&z=2002-02-01&g=2002-02-01).
+2. De afdrachtvermindering scholing beloopt een bedrag te bepalen op de voet van [hoofdstuk VA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VA&z=2002-02-01&g=2002-07-01).
 
-3. De afdrachtvermindering kinderopvang beloopt een bedrag te bepalen op de voet van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VI&z=2002-02-01&g=2002-02-01).
+3. De afdrachtvermindering kinderopvang beloopt een bedrag te bepalen op de voet van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VI&z=2002-02-01&g=2002-07-01).
 
-4. De afdrachtvermindering betaald ouderschapsverlof beloopt een bedrag te bepalen op de voet van [hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&z=2002-02-01&g=2002-02-01).
+4. De afdrachtvermindering betaald ouderschapsverlof beloopt een bedrag te bepalen op de voet van [hoofdstuk VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&z=2002-02-01&g=2002-07-01).
 
-5. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2002-02-01&g=2002-02-01).
+5. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2002-02-01&g=2002-07-01).
 
-6. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2002-02-01&g=2002-02-01).
+6. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2002-02-01&g=2002-07-01).
 
-7. De arbo-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&z=2002-02-01&g=2002-02-01).
+7. De arbo-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&z=2002-02-01&g=2002-07-01).
 
 8. Ingeval de som van de afdrachtvermindering lage lonen en de afdrachtvermindering onderwijs op de voet van de vorige leden meer dan € 3248 bedraagt, wordt de afdrachtvermindering lage lonen zodanig verlaagd dat de bedoelde som € 3248 bedraagt.
 
@@ -220,7 +220,7 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 ##### Artikel 6
 
-1. De in [artikel 5, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-02-01), opgenomen bedragen alsmede het toetsloon worden naar evenredigheid verminderd met betrekking tot:
+1. De in [artikel 5, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-07-01), opgenomen bedragen alsmede het toetsloon worden naar evenredigheid verminderd met betrekking tot:
 
 - a. de werknemer met een overeengekomen arbeidsduur die korter is dan de volledige arbeidsduur;
 
@@ -292,7 +292,7 @@ Vervallen
 
 1. De Centrale organisatie werk en inkomen trekt bij beschikking de verklaring langdurig werkloze in met ingang van het tijdstip waarop:
 
-- a. een of meer andere arbeidsovereenkomsten dan die met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-02-01) bedoelde werknemer, na verkregen toestemming van de Centrale organisatie werk en inkomen worden beëindigd op grond van bedrijfseconomische redenen, ingeval deze beëindiging plaatsvindt binnen zes maanden na het tijdstip waarop de afdrachtvermindering langdurig werklozen voor het eerst met betrekking tot die werknemer is toegepast;
+- a. een of meer andere arbeidsovereenkomsten dan die met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-07-01) bedoelde werknemer, na verkregen toestemming van de Centrale organisatie werk en inkomen worden beëindigd op grond van bedrijfseconomische redenen, ingeval deze beëindiging plaatsvindt binnen zes maanden na het tijdstip waarop de afdrachtvermindering langdurig werklozen voor het eerst met betrekking tot die werknemer is toegepast;
 
 - b. blijkt dat te harer verkrijging verstrekte gegevens zodanig onjuist zijn dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden bekend zouden zijn geweest;
 
@@ -304,7 +304,7 @@ Vervallen
 
 ##### Artikel 12
 
-Bij ministeriële regeling kan met betrekking tot [artikel 1, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01), zo nodig onder voorwaarden, worden bepaald:
+Bij ministeriële regeling kan met betrekking tot [artikel 1, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01), zo nodig onder voorwaarden, worden bepaald:
 
 - a. dat de periode van 12 maanden wordt verkort, doch niet verder dan tot 6 maanden, voor aan te wijzen gebieden met een hoge werkloosheid;
 
@@ -314,13 +314,13 @@ Bij ministeriële regeling kan met betrekking tot [artikel 1, eerste lid, onderd
 
 ##### Artikel 13
 
-Bij ministeriële regeling kan Onze Minister van Sociale Zaken en Werkgelegenheid, na overleg met Onze Minister van Financiën, regels stellen ter bevordering van een goede uitvoering van dit hoofdstuk, alsmede met betrekking tot het verschaffen van inlichtingen aan de Minister van Sociale Zaken en Werkgelegenheid die hij nodig heeft voor het verkrijgen van inzicht in de werking van dit hoofdstuk en [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&z=2002-02-01&g=2002-02-01).
+Bij ministeriële regeling kan Onze Minister van Sociale Zaken en Werkgelegenheid, na overleg met Onze Minister van Financiën, regels stellen ter bevordering van een goede uitvoering van dit hoofdstuk, alsmede met betrekking tot het verschaffen van inlichtingen aan de Minister van Sociale Zaken en Werkgelegenheid die hij nodig heeft voor het verkrijgen van inzicht in de werking van dit hoofdstuk en [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&z=2002-02-01&g=2002-07-01).
 
 ### Hoofdstuk V. Afdrachtvermindering onderwijs
 
 ##### Artikel 13a
 
-In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01), wordt voor de toepassing van dit hoofdstuk het loon tevens verminderd met toeslagen die verband houden met ploegendiensten dan wel met onregelmatige diensten.
+In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01), wordt voor de toepassing van dit hoofdstuk het loon tevens verminderd met toeslagen die verband houden met ploegendiensten dan wel met onregelmatige diensten.
 
 ##### Artikel 14
 
@@ -338,7 +338,7 @@ In aanvulling op [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl
 
 2. Het eerste lid, aanhef en onderdelen **a** en **d**, is niet van toepassing ingeval het loon van die werknemer die jonger is dan 25 jaar in het desbetreffende loontijdvak meer bedraagt dan diens toetsloon voor dat tijdvak. Het toetsloon voor de afdrachtvermindering onderwijs bedraagt € 19.776 per kalenderjaar.
 
-3. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdelen **b** en **c**, is met betrekking tot een werknemer gedurende ten hoogste 48 maanden van toepassing. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdeel **d**, is met betrekking tot een werknemer ten hoogste 24 maanden van toepassing. Indien [artikel 6, eerste lid, aanhef en onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-02-01), met betrekking tot een werknemer toepassing vindt, wordt de termijn van 48 maanden onderscheidenlijk 24 maanden met betrekking tot deze werknemer naar evenredigheid verlengd.
+3. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdelen **b** en **c**, is met betrekking tot een werknemer gedurende ten hoogste 48 maanden van toepassing. De afdrachtvermindering onderwijs op de voet van het eerste lid, onderdeel **d**, is met betrekking tot een werknemer ten hoogste 24 maanden van toepassing. Indien [artikel 6, eerste lid, aanhef en onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-07-01), met betrekking tot een werknemer toepassing vindt, wordt de termijn van 48 maanden onderscheidenlijk 24 maanden met betrekking tot deze werknemer naar evenredigheid verlengd.
 
 4. Het eerste lid, aanhef en onderdeel e, is niet van toepassing indien:
 
@@ -416,7 +416,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 | 22 jaren | 23 jaren: | € 9 154 |
 | 23 jaren: |   | € 10 769 |
 
-[Artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-02-01), is van overeenkomstige toepassing.
+[Artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-07-01), is van overeenkomstige toepassing.
 
 2. Het toetsloon voor de afdrachtvermindering betaald ouderschapsverlof bedraagt per kalenderjaar
 
@@ -432,7 +432,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 | 22 jaren | 23 jaren: | € 9 154 |
 | 23 jaren: |   | € 10 769 |
 
-3. Op het toetsloon is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-02-01) niet van toepassing. Het toetsloon en het maximum van de afdrachtvermindering worden naar evenredigheid verminderd met betrekking tot de werknemer wiens ouderschapsverlof een kortere duur heeft dan de volledige arbeidsduur in de zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-02-01).
+3. Op het toetsloon is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-07-01) niet van toepassing. Het toetsloon en het maximum van de afdrachtvermindering worden naar evenredigheid verminderd met betrekking tot de werknemer wiens ouderschapsverlof een kortere duur heeft dan de volledige arbeidsduur in de zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=6&z=2002-02-01&g=2002-07-01).
 
 4. Volgens bij ministeriële regeling te stellen regels worden de afspraken tussen inhoudingsplichtige en werknemer met betrekking tot het opnemen van betaald ouderschapsverlof en de hoogte van het doorbetaalde loon per kind waarvoor ouderschapsverlof wordt opgenomen, schriftelijk vastgelegd en door beide partijen ondertekend. De inhoudingsplichtige bewaart een afschrift van deze overeenkomst bij de loonadministratie.
 
@@ -452,7 +452,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 - c. met betrekking tot de zeevarende die niet aan de loonbelasting is onderworpen en premieplichtig is voor de volksverzekeringen: 10 percent.
 
-3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01), niet van toepassing.
+3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01), niet van toepassing.
 
 4. De in het tweede lid vermelde percentages kunnen bij ministeriële regeling met ingang van een kalenderkwartaal worden vervangen door andere.
 
@@ -460,7 +460,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 ##### Artikel 18
 
-1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2002-02-01&g=2002-02-01), bedoelde loon en van het bedrag van de afdrachtvermindering zeevaart.
+1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2002-02-01&g=2002-07-01), bedoelde loon en van het bedrag van de afdrachtvermindering zeevaart.
 
 2. De inhoudingsplichtige bewaart en registreert met betrekking tot het schip of de schepen waarop een of meer zeevarenden werkzaam zijn met betrekking tot wie de afdrachtvermindering zeevaart wordt toegepast:
 
@@ -478,7 +478,7 @@ De afdrachtvermindering geldt ten hoogste voor het totale aantal uren verlof waa
 
 ##### Artikel 19
 
-Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2002-02-01&g=2002-02-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
+Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2002-02-01&g=2002-07-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
 
 ##### Artikel 20
 
@@ -492,7 +492,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 2. Indien de inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven, wordt het in het eerste lid vermelde percentage van 40 vervangen door 70. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar
 
-3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01), niet van toepassing.
+3. Op het in het eerste lid bedoelde loon is [artikel 1, eerste lid, onderdeel **c**, onder 1°, 2°, 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01), niet van toepassing.
 
 4. Bij wijze van voorlopige voorziening kan niet meer dan een tijdsevenredig gedeelte van het op de voet van het eerste lid ten hoogste te belopen bedrag aan S&O-afdrachtvermindering in mindering worden gebracht op de over de ten tijde van de dagtekening van de S&O-verklaring nog niet verstreken tijdvakken van het kalenderjaar af te dragen loonbelasting (voorlopige S&O-afdrachtvermindering). De voorlopige S&O-afdrachtvermindering kan de over het tijdvak af te dragen loonbelasting niet verder verminderen dan tot nihil.
 
@@ -500,7 +500,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 22
 
-1. De inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, doet binnen vier maanden na afloop van het kalenderjaar aangifte van het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-02-01), bedoelde loon, van het bedrag van de S&O-afdrachtvermindering en van de over het kalenderjaar toegepaste voorlopige S&O-afdrachtverminderingen.
+1. De inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, doet binnen vier maanden na afloop van het kalenderjaar aangifte van het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-07-01), bedoelde loon, van het bedrag van de S&O-afdrachtvermindering en van de over het kalenderjaar toegepaste voorlopige S&O-afdrachtverminderingen.
 
 2. Indien uit de in het eerste lid bedoelde aangifte blijkt dat het totaal der voorlopige S&O-afdrachtverminderingen:
 
@@ -510,7 +510,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 3. Indien de S&O-verklaring wordt afgegeven na afloop van het kalenderjaar waarop de verklaring betrekking heeft, doet de inhoudingsplichtige binnen vier maanden na de dagtekening van de verklaring aangifte van het in het eerste lid bedoelde loon en van het bedrag van de S&O-afdrachtvermindering. De aangifte geldt als verzoek om teruggaaf en de inspecteur geeft het bedrag van de S&O-afdrachtvermindering terug bij voor bezwaar vatbare beschikking.
 
-4. Indien een S&O-verklaring is gewijzigd, treedt voor de toepassing van dit hoofdstuk de gewijzigde S&O-verklaring in de plaats van de eerdere S&O-verklaring en worden de nog toe te passen voorlopige S&O-afdrachtverminderingen zodanig aangepast dat over het kalenderjaar het totaal der voorlopige S&O-afdrachtverminderingen niet meer bedraagt dan het op de voet van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-02-01), ten hoogste te belopen bedrag aan S&O-afdrachtvermindering. Ingeval een zodanige aanpassing niet mogelijk is omdat het totaal der reeds toegepaste voorlopige S&O-afdrachtverminderingen meer bedraagt dan het ten hoogste te belopen bedrag aan S&O-afdrachtvermindering, doet de inhoudingsplichtige, vooruitlopend op de in het eerste lid bedoelde aangifte, onverwijld aangifte van die gegevens en draagt hij gelijktijdig het verschil op de aangifte af. Hetgeen op deze wijze is afgedragen wordt tevens vermeld in de in het eerste lid bedoelde aangifte en komt in mindering op het totaal der in die aangifte aangegeven voorlopige S&O-afdrachtverminderingen. Ingeval de inhoudingsplichtige op het tijdstip waarop hij kennis neemt van de gewijzigde verklaring reeds aangifte heeft gedaan als bedoeld in het eerste of het derde lid, en
+4. Indien een S&O-verklaring is gewijzigd, treedt voor de toepassing van dit hoofdstuk de gewijzigde S&O-verklaring in de plaats van de eerdere S&O-verklaring en worden de nog toe te passen voorlopige S&O-afdrachtverminderingen zodanig aangepast dat over het kalenderjaar het totaal der voorlopige S&O-afdrachtverminderingen niet meer bedraagt dan het op de voet van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-07-01), ten hoogste te belopen bedrag aan S&O-afdrachtvermindering. Ingeval een zodanige aanpassing niet mogelijk is omdat het totaal der reeds toegepaste voorlopige S&O-afdrachtverminderingen meer bedraagt dan het ten hoogste te belopen bedrag aan S&O-afdrachtvermindering, doet de inhoudingsplichtige, vooruitlopend op de in het eerste lid bedoelde aangifte, onverwijld aangifte van die gegevens en draagt hij gelijktijdig het verschil op de aangifte af. Hetgeen op deze wijze is afgedragen wordt tevens vermeld in de in het eerste lid bedoelde aangifte en komt in mindering op het totaal der in die aangifte aangegeven voorlopige S&O-afdrachtverminderingen. Ingeval de inhoudingsplichtige op het tijdstip waarop hij kennis neemt van de gewijzigde verklaring reeds aangifte heeft gedaan als bedoeld in het eerste of het derde lid, en
 
 - a. het totaal der voorlopige S&O-afdrachtverminderingen vermeerderd met het door de inspecteur ingevolge het tweede lid, onderdeel **b**, of derde lid, teruggegeven bedrag en verminderd met de ingevolge het tweede lid, onderdeel **a**, afgedragen belasting meer bedraagt dan de S&O-afdrachtvermindering, doet hij van deze gegevens onverwijld aangifte en draagt hij gelijktijdig het verschil op de aangifte af;
 
@@ -524,11 +524,11 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 ##### Artikel 23
 
-Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij ministeriële regeling de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-02-01), vermelde percentages met ingang van 1 januari van enig jaar worden verhoogd tot ten hoogste 47,5 respectievelijk 25, worden verlaagd, dan wel op nihil worden gesteld. Bij verlaging van de percentages wordt het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-02-01), eerstvermelde percentage zo veel mogelijk ontzien. De nieuwe percentages gelden met betrekking tot loon dat wordt genoten op of na de dag waarop de wijziging in werking treedt, behoudens voor zover dat loon reeds is betrokken in een S&O-verklaring welke betrekking heeft op een periode die is aangevangen voor de dag waarop de wijziging in werking treedt.
+Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij ministeriële regeling de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-07-01), vermelde percentages met ingang van 1 januari van enig jaar worden verhoogd tot ten hoogste 47,5 respectievelijk 25, worden verlaagd, dan wel op nihil worden gesteld. Bij verlaging van de percentages wordt het in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-07-01), eerstvermelde percentage zo veel mogelijk ontzien. De nieuwe percentages gelden met betrekking tot loon dat wordt genoten op of na de dag waarop de wijziging in werking treedt, behoudens voor zover dat loon reeds is betrokken in een S&O-verklaring welke betrekking heeft op een periode die is aangevangen voor de dag waarop de wijziging in werking treedt.
 
 ##### Artikel 24
 
-1. Aan een S&O-inhoudingsplichtige die voornemens is in een kalenderjaar speur- en ontwikkelingswerk te verrichten geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk. Voorts wordt in de verklaring vermeld het bedrag van het vermoedelijke beloop van het in dat kalenderjaar te genieten loon voor zover dat betrekking zal hebben op speur- en ontwikkelingswerk en welk gedeelte daarvan, gelet op het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2002-02-01&g=2002-02-01), bedoelde maximum ten hoogste in aanmerking kan worden genomen bij de toepassing van dat artikel. Indien de S&O-inhoudingsplichtige deel uitmaakt van een fiscale eenheid, wordt in de verklaring tevens vermeld welk deel van het op de fiscale eenheid betrekking hebbende bedrag van € 6 806 703, genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-02-01), wordt toegerekend aan de S&O-inhoudingsplichtige.
+1. Aan een S&O-inhoudingsplichtige die voornemens is in een kalenderjaar speur- en ontwikkelingswerk te verrichten geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk. Voorts wordt in de verklaring vermeld het bedrag van het vermoedelijke beloop van het in dat kalenderjaar te genieten loon voor zover dat betrekking zal hebben op speur- en ontwikkelingswerk en welk gedeelte daarvan, gelet op het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2002-02-01&g=2002-07-01), bedoelde maximum ten hoogste in aanmerking kan worden genomen bij de toepassing van dat artikel. Indien de S&O-inhoudingsplichtige deel uitmaakt van een fiscale eenheid, wordt in de verklaring tevens vermeld welk deel van het op de fiscale eenheid betrekking hebbende bedrag van € 6 806 703, genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=21&z=2002-02-01&g=2002-07-01), wordt toegerekend aan de S&O-inhoudingsplichtige.
 
 2. Aan een S&O-belastingplichtige die voornemens is in een kalenderjaar ten minste 625 uren van zijn voor werkzaamheden beschikbare tijd te besteden aan speur- en ontwikkelingswerk geeft Onze Minister van Economische Zaken op verzoek een S&O-verklaring af. In de verklaring wordt vermeld dat het aangemelde werk is aangemerkt als speur- en ontwikkelingswerk.
 
@@ -540,9 +540,9 @@ Teneinde zoveel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderin
 
 6. De beslissing op het verzoek wordt gegeven binnen negen weken na de aanvang van het tijdvak waarop het verzoek betrekking heeft.
 
-7. Een S&O-verklaring kan worden gewijzigd of ingetrokken indien blijkt dat te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die Onze Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring. Een S&O-verklaring kan tevens worden ingetrokken indien blijkt dat de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2002-02-01&g=2002-02-01) bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde. De bevoegdheid tot het wijzigen of intrekken van een verklaring vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
+7. Een S&O-verklaring kan worden gewijzigd of ingetrokken indien blijkt dat te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die Onze Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring. Een S&O-verklaring kan tevens worden ingetrokken indien blijkt dat de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2002-02-01&g=2002-07-01) bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde. De bevoegdheid tot het wijzigen of intrekken van een verklaring vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
-8. In afwijking van het derde lid onderscheidenlijk zesde lid kan bij ministeriële regeling van Onze Minister van Economische Zaken een latere datum worden vastgesteld waarop het verzoek uiterlijk moet zijn ingediend onderscheidenlijk de beslissing op het verzoek uiterlijk moet zijn gegeven. In samenhang daarmee kan de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2002-02-01&g=2002-02-01) bedoelde wijziging van percentages plaatsvinden na 1 januari, met terugwerkende kracht tot en met die datum.
+8. In afwijking van het derde lid onderscheidenlijk zesde lid kan bij ministeriële regeling van Onze Minister van Economische Zaken een latere datum worden vastgesteld waarop het verzoek uiterlijk moet zijn ingediend onderscheidenlijk de beslissing op het verzoek uiterlijk moet zijn gegeven. In samenhang daarmee kan de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2002-02-01&g=2002-07-01) bedoelde wijziging van percentages plaatsvinden na 1 januari, met terugwerkende kracht tot en met die datum.
 
 ##### Artikel 25
 
@@ -592,7 +592,7 @@ Indien het aan opzet of grove schuld van de inhoudingsplichtige is te wijten dat
 
 ##### Artikel 29
 
-Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=27&z=2002-02-01&g=2002-02-01) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=28&z=2002-02-01&g=2002-02-01) bedoelde verschil in belasting wordt nageheven, legt de inspecteur de in die artikelen bedoelde boeten op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt de bevoegdheid tot het opleggen van de boeten door verloop van vijf jaren na het einde van het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft.
+Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=27&z=2002-02-01&g=2002-07-01) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&artikel=28&z=2002-02-01&g=2002-07-01) bedoelde verschil in belasting wordt nageheven, legt de inspecteur de in die artikelen bedoelde boeten op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt de bevoegdheid tot het opleggen van de boeten door verloop van vijf jaren na het einde van het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft.
 
 ### Hoofdstuk X. Bijzondere bepalingen inzake beroep en bevoegdheden
 
@@ -600,37 +600,37 @@ Indien het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofd
 
 1. De [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), met uitzondering van artikel 67, is niet van toepassing met betrekking tot handelingen die worden verricht door andere dan de in [artikel 2, derde lid, onderdelen **a** en **b**, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) genoemde bestuursorganen.
 
-2. Onze Minister van Economische Zaken kan ontheffing verlenen van het in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) vervatte verbod ter zake van de werkzaamheden bij de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-02-01) tot en met [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=26&z=2002-02-01&g=2002-02-01) van deze wet door hem of de door hem aangewezen ambtenaren.
+2. Onze Minister van Economische Zaken kan ontheffing verlenen van het in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) vervatte verbod ter zake van de werkzaamheden bij de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-07-01) tot en met [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=26&z=2002-02-01&g=2002-07-01) van deze wet door hem of de door hem aangewezen ambtenaren.
 
-3. Tegen een besluit genomen door een van de in het eerste lid dan wel de in [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2002-02-01&g=2002-02-01), genoemde bestuursorganen, met uitzondering van de Centrale organisatie werk en inkomen, kan de belanghebbende, in afwijking van [artikel 8:4, onderdeel **g**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), beroep instellen bij het College van Beroep voor het bedrijfsleven.
+3. Tegen een besluit genomen door een van de in het eerste lid dan wel de in [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2002-02-01&g=2002-07-01), genoemde bestuursorganen, met uitzondering van de Centrale organisatie werk en inkomen, kan de belanghebbende, in afwijking van [artikel 8:4, onderdeel **g**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), beroep instellen bij het College van Beroep voor het bedrijfsleven.
 
-4. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2002-02-01&g=2002-02-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'loontijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer', dan wel [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2002-02-01&g=2002-02-01), met betrekking tot het begrip bedrijfsmiddelen.
+4. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2002-02-01&g=2002-07-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'loontijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer', dan wel [artikel 26a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIIIA&artikel=26a&z=2002-02-01&g=2002-07-01), met betrekking tot het begrip bedrijfsmiddelen.
 
 5. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-6. [Artikel 8:4, onderdeel g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) is niet van toepassing ten aanzien van besluiten van de Centrale organisatie werk en inkomen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=9&z=2002-02-01&g=2002-02-01) van deze wet.
+6. [Artikel 8:4, onderdeel g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) is niet van toepassing ten aanzien van besluiten van de Centrale organisatie werk en inkomen op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=9&z=2002-02-01&g=2002-07-01) van deze wet.
 
 ### Hoofdstuk XI. Aanvullende regelingen
 
 ##### Artikel 30a
 
-1. Bij het begin van het kalenderjaar worden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-02-01) vermelde bedragen vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding van het bedrag genoemd in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) zoals dat luidt bij het begin van het kalenderjaar tot dat bedrag zoals dat luidt op 1 januari van het voorafgaande kalenderjaar en vervolgens de nodig geachte afrondingen aan te brengen.
+1. Bij het begin van het kalenderjaar worden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-07-01) vermelde bedragen vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding van het bedrag genoemd in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) zoals dat luidt bij het begin van het kalenderjaar tot dat bedrag zoals dat luidt op 1 januari van het voorafgaande kalenderjaar en vervolgens de nodig geachte afrondingen aan te brengen.
 
-2. Bij de toepassing van het eerste lid wordt het in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-02-01), vermelde bedrag niet hoger vastgesteld dan het gemiddelde bedrag van de werkgeverslasten bestaande uit premies voor de sociale verzekeringswetten en soortgelijke regelingen, premies voor regelingen voor vervroegde uittreding, premies in verband met loondoorbetaling tijdens ziekte van de werknemers. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden gesteld omtrent de vaststelling van de hoogte van het gemiddelde bedrag van de werkgeverslasten.
+2. Bij de toepassing van het eerste lid wordt het in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=II&artikel=5&z=2002-02-01&g=2002-07-01), vermelde bedrag niet hoger vastgesteld dan het gemiddelde bedrag van de werkgeverslasten bestaande uit premies voor de sociale verzekeringswetten en soortgelijke regelingen, premies voor regelingen voor vervroegde uittreding, premies in verband met loondoorbetaling tijdens ziekte van de werknemers. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister van Financiën, kunnen nadere regels worden gesteld omtrent de vaststelling van de hoogte van het gemiddelde bedrag van de werkgeverslasten.
 
 ##### Artikel 31
 
-1. Bij het begin van het kalenderjaar worden de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-02-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-02-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-02-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01) vermelde toetslonen en de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01) vermelde maximum bedragen van de afdrachtvermindering betaald ouderschapsverlof vervangen door andere.
+1. Bij het begin van het kalenderjaar worden de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-07-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01) vermelde toetslonen en de in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01) vermelde maximum bedragen van de afdrachtvermindering betaald ouderschapsverlof vervangen door andere.
 
-2. Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-02-01) laatstvermelde toetsloon wordt gesteld op 115 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-02-01) vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+2. Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-07-01) laatstvermelde toetsloon wordt gesteld op 115 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=III&artikel=7&z=2002-02-01&g=2002-07-01) vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
 
-3. De in de [artikelen 8, eerste lid, tweede volzin, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-02-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-02-01) vermelde toetslonen worden gesteld op 130 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
+3. De in de [artikelen 8, eerste lid, tweede volzin, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-07-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-07-01) vermelde toetslonen worden gesteld op 130 percent van het twaalfvoud van het in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
 
-4. Het in [artikel 8, eerste lid, tweede volzin, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-02-01), vermelde toetsloon wordt gesteld op 150 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
+4. Het in [artikel 8, eerste lid, tweede volzin, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-07-01), vermelde toetsloon wordt gesteld op 150 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
 
-5. Het in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01), vermelde bedragen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+5. Het in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01), vermelde bedragen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
 
-6. Het in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-02-01), vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
+6. Het in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01), laatstvermelde bedrag wordt gesteld op 70 percent van het twaalfvoud van het in [Artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag, verminderd met het werknemersaandeel in de premies ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en vermeerderd met het werkgeversaandeel in de premie ingevolge de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460). De overige in [artikel 16b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIA&artikel=16b&z=2002-02-01&g=2002-07-01), vermelde toetslonen worden dienovereenkomstig vastgesteld op basis van de desbetreffende krachtens [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bepaalde minimumjeugdlonen.
 
 7. Indien ingevolge een van de sociale-verzekeringswetten een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt voor de toepassing van het tweede tot en met zesde lid het percentage in aanmerking genomen dat wordt vastgesteld krachtens [artikel 9, vierde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9).
 
@@ -686,7 +686,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 41
 
-Met betrekking tot werknemers voor wie de arbeidsovereenkomst voorziet in een hoger loon dan het toetsloon, zijn [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-02-01), en [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&artikel=40&z=2002-02-01&g=2002-02-01), tot en met 31 december 1997 niet van toepassing.
+Met betrekking tot werknemers voor wie de arbeidsovereenkomst voorziet in een hoger loon dan het toetsloon, zijn [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=V&artikel=14&z=2002-02-01&g=2002-07-01), en [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&artikel=40&z=2002-02-01&g=2002-07-01), tot en met 31 december 1997 niet van toepassing.
 
 ##### Artikel 42
 
@@ -728,13 +728,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 51
 
-De Afbakeningsregeling speur- en ontwikkelingswerk en de Uitvoeringsregeling administratieve voorschriften Wet bevordering speur- en ontwikkelingswerk berusten op [artikel 1, derde lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-02-01), onderscheidenlijk de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-02-01), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2002-02-01&g=2002-02-01).
+De Afbakeningsregeling speur- en ontwikkelingswerk en de Uitvoeringsregeling administratieve voorschriften Wet bevordering speur- en ontwikkelingswerk berusten op [artikel 1, derde lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2002-02-01&g=2002-07-01), onderscheidenlijk de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2002-02-01&g=2002-07-01), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2002-02-01&g=2002-07-01).
 
 ##### Artikel 52
 
 1. Onze Minister zendt, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van hoofdstuk IV van deze wet in de praktijk.
 
-2. Op basis van het verslag kan de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-02-01), genoemde termijn bij algemene maatregel van bestuur worden verlengd.
+2. Op basis van het verslag kan de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IV&artikel=8&z=2002-02-01&g=2002-07-01), genoemde termijn bij algemene maatregel van bestuur worden verlengd.
 
 3. Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt, in overeenstemming met Onze Minister van Financiën en na overleg met Onze Minister van Economische Zaken, voor 1 januari 2000 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel 14, eerste lid, onderdeel **d**, in de praktijk.
 
