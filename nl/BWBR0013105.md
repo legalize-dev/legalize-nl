@@ -4,7 +4,7 @@ identifier: "BWBR0013105"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2002-10-02"
+last_updated: "2003-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013105"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel V
 
@@ -86,13 +86,13 @@ Wijzigt de Wet verzelfstandiging Informatiseringsbank.
 
 ##### Artikel XI
 
-1. De rijksbelastingdienst verstrekt binnen één week na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2002-10-02&g=2002-10-02) aan de ouders, voogden of verzorgers van een jongere die op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2002-10-02&g=2002-10-02) de leeftijd van ten minste drie jaar en zes maanden heeft bereikt, doch de leeftijd van achttien jaar nog niet heeft bereikt, kosteloos een afschrift van de gegevens van die jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer.
+1. De rijksbelastingdienst verstrekt binnen één week na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2003-01-24&g=2003-01-24) aan de ouders, voogden of verzorgers van een jongere die op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2003-01-24&g=2003-01-24) de leeftijd van ten minste drie jaar en zes maanden heeft bereikt, doch de leeftijd van achttien jaar nog niet heeft bereikt, kosteloos een afschrift van de gegevens van die jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer.
 
-2. De rijksbelastingdienst verstrekt binnen één week na inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2002-10-02&g=2002-10-02) aan de ouders, voogden of verzorgers van een jongere die op het tijdstip van inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2002-10-02&g=2002-10-02) de leeftijd van ten minste tien jaar heeft bereikt, doch de leeftijd van achttien jaar nog niet heeft bereikt, kosteloos een afschrift van de gegevens van die jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer.
+2. De rijksbelastingdienst verstrekt binnen één week na inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2003-01-24&g=2003-01-24) aan de ouders, voogden of verzorgers van een jongere die op het tijdstip van inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2003-01-24&g=2003-01-24) de leeftijd van ten minste tien jaar heeft bereikt, doch de leeftijd van achttien jaar nog niet heeft bereikt, kosteloos een afschrift van de gegevens van die jongere betreffende zijn geslachtsnaam, voorletters, geboortedatum, geslacht en sociaal-fiscaalnummer.
 
-3. Indien de artikelen I en II op een eerder tijdstip in werking treden dan [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2002-10-02&g=2002-10-02), blijft het tweede lid buiten toepassing.
+3. Indien de artikelen I en II op een eerder tijdstip in werking treden dan [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2003-01-24&g=2003-01-24), blijft het tweede lid buiten toepassing.
 
-4. Indien artikel III op een eerder tijdstip in werking treedt dan de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2002-10-02&g=2002-10-02), wordt het eerste lid uitsluitend toegepast, voorzover de desbetreffende gegevens niet reeds op grond van het tweede lid zijn verstrekt.
+4. Indien artikel III op een eerder tijdstip in werking treedt dan de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2003-01-24&g=2003-01-24), wordt het eerste lid uitsluitend toegepast, voorzover de desbetreffende gegevens niet reeds op grond van het tweede lid zijn verstrekt.
 
 ##### Artikel XIa
 
@@ -116,21 +116,21 @@ Wijzigt de Wet verzelfstandiging Informatiseringsbank.
 
 ##### Artikel XII
 
-1. De ouders, voogden of verzorgers van een leerling van een basisschool, een speciale school voor basisonderwijs, een school voor speciaal onderwijs, een school of instelling voor speciaal en voortgezet speciaal onderwijs, een school voor voortgezet speciaal onderwijs of een school voor voortgezet onderwijs, onderscheidenlijk de ouders, voogden of verzorgers van een deelnemer van een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), verstrekken binnen vier maanden na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02) tot en met [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2002-10-02&g=2002-10-02) aan het bevoegd gezag van die school, onderscheidenlijk instelling, het sociaal-fiscaalnummer van de leerling, onderscheidenlijk deelnemer, aan de hand van een van overheidswege verstrekt document, waarop tevens de geslachtsnaam, de voorletters, de geboortedatum en het geslacht van de leerling, onderscheidenlijk deelnemer, zijn vermeld.
+1. De ouders, voogden of verzorgers van een leerling van een basisschool, een speciale school voor basisonderwijs, een school voor speciaal onderwijs, een school of instelling voor speciaal en voortgezet speciaal onderwijs, een school voor voortgezet speciaal onderwijs of een school voor voortgezet onderwijs, onderscheidenlijk de ouders, voogden of verzorgers van een deelnemer van een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), verstrekken binnen vier maanden na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24) tot en met [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2003-01-24&g=2003-01-24) aan het bevoegd gezag van die school, onderscheidenlijk instelling, het sociaal-fiscaalnummer van de leerling, onderscheidenlijk deelnemer, aan de hand van een van overheidswege verstrekt document, waarop tevens de geslachtsnaam, de voorletters, de geboortedatum en het geslacht van de leerling, onderscheidenlijk deelnemer, zijn vermeld.
 
 2. Indien de leerling, onderscheidenlijk de deelnemer, meerderjarig is, rust de verplichting, omschreven in het eerste lid, op de leerling, onderscheidenlijk de deelnemer, zelf.
 
 3. Het bevoegd gezag draagt zorg voor de vaststelling van het sociaal-fiscaalnummer aan de hand van het in het eerste lid bedoelde document en neemt het sociaal-fiscaalnummer op in de leerlingenadministratie van de school, onderscheidenlijk de administratie van de instelling.
 
-4. Indien de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02) tot en met [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2002-10-02&g=2002-10-02) niet alle op hetzelfde tijdstip in werking treden, vindt de verstrekking, bedoeld in het eerste lid, plaats:
+4. Indien de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24) tot en met [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2003-01-24&g=2003-01-24) niet alle op hetzelfde tijdstip in werking treden, vindt de verstrekking, bedoeld in het eerste lid, plaats:
 
-- a. binnen vier maanden na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2002-10-02&g=2002-10-02), voor wat betreft leerlingen van scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- a. binnen vier maanden na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=I&z=2003-01-24&g=2003-01-24), voor wat betreft leerlingen van scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- b. binnen vier maanden na de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2002-10-02&g=2002-10-02), voor wat betreft leerlingen van scholen en instellingen als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- b. binnen vier maanden na de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=II&z=2003-01-24&g=2003-01-24), voor wat betreft leerlingen van scholen en instellingen als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- c. binnen vier maanden na de inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2002-10-02&g=2002-10-02), voor wat betreft leerlingen van scholen als bedoeld in deel I of deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- c. binnen vier maanden na de inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=III&z=2003-01-24&g=2003-01-24), voor wat betreft leerlingen van scholen als bedoeld in deel I of deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- d. binnen vier maanden na de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2002-10-02&g=2002-10-02), voor wat betreft deelnemers van instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- d. binnen vier maanden na de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IV&z=2003-01-24&g=2003-01-24), voor wat betreft deelnemers van instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel XIII
 
@@ -148,7 +148,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het bevoegd gezag van een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) meldt, voor zover zulks niet reeds is geschied op grond van [artikel 8.1.1.a, derde lid, van voornoemde wet](onbekend), voor 15 oktober van het jaar, bedoeld in artikel XIa, vijfde lid, aan de Informatie Beheer Groep van de deelnemers aan een beroepsopleiding, waarvan geen sociaal-fiscaalnummer is overgelegd en die op 1 oktober daaraan voorafgaand op de instelling zijn ingeschreven, de gegevens betreffende geslachtsnaam, voornamen, geboortedatum, geslacht, adres en woonplaats.
+
+2. De Informatie Beheer Groep verstrekt uiterlijk op 31 december van het jaar, bedoeld in het eerste lid, het bevoegd gezag het sociaal-fiscaalnummer of, voor zover is gebleken dat aan de deelnemer geen sociaal-fiscaalnummer is toegekend, een door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer voor de desbetreffende deelnemer, het onderwijsnummer.
+
+3. Het bevoegd gezag neemt na ontvangst van het sociaal-fiscaalnummer of het onderwijsnummer van een deelnemer aan een beroepsopleiding, dit nummer op in de administratie van de instelling.
 
 ##### Artikel XVI
 
@@ -196,7 +200,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVII
 
-De [artikelen 164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104)en [261 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=261) en [11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1) zijn van overeenkomstige toepassing op de [artikelen XII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XII&z=2002-10-02&g=2002-10-02), [XIV, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIV&z=2002-10-02&g=2002-10-02), en [XV, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XV&z=2002-10-02&g=2002-10-02).
+De [artikelen 164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104)en [261 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=261) en [11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1) zijn van overeenkomstige toepassing op de [artikelen XII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XII&z=2003-01-24&g=2003-01-24), [XIV, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XIV&z=2003-01-24&g=2003-01-24), en [XV, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=XV&z=2003-01-24&g=2003-01-24).
 
 ##### Artikel XXVIII
 
@@ -210,6 +214,6 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Het tijdstip van inwerkingtreding van [artikel IX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IX&z=2002-10-02&g=2002-10-02), kan verschillend worden vastgesteld voor onderscheidenlijk scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), scholen als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), scholen als bedoeld in deel I van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en scholen als bedoeld in deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+2. Het tijdstip van inwerkingtreding van [artikel IX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0013105&artikel=IX&z=2003-01-24&g=2003-01-24), kan verschillend worden vastgesteld voor onderscheidenlijk scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), scholen als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), scholen als bedoeld in deel I van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en scholen als bedoeld in deel II van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
