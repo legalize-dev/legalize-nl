@@ -157,17 +157,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Besluit detectie radioactief besmet schroot.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. Het is verboden radioactief besmet schroot of schroot waarvan men redelijkerwijs kan vermoeden dat het radioactief besmet schroot betreft te gebruiken, in de handel te brengen of te verwijderen in strijd met een daarop betrekking hebbende mededeling van de Autoriteit.
-
-2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste lid.
-
-##### Artikel 6b
-
-1. [Artikel 6.4 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.4) is van overeenkomstige toepassing.
-
-2. In gevallen, behorend tot een bij regeling van Onze Minister aangewezen categorie, dient degene die de inrichting drijft te beschikken over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7). De aanwijzing staat in een passende verhouding tot de aard en zwaarte van de betrokken risico’s, overeenkomstig de graduele benadering, bedoeld in [artikel 1.1, eerste lid, van het genoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.1)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
