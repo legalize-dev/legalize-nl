@@ -4,7 +4,7 @@ identifier: "BWBR0013748"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2002-06-19"
+last_updated: "2002-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013748"
 soort: "wet"
@@ -134,15 +134,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 september 2002, met dien verstande dat de bepalingen, genoemd in het tweede tot en met vijfde lid, in werking treden met ingang van de in die leden vermelde tijdstippen.
+1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 september 2002, met dien verstande dat de bepalingen, genoemd in het tweede tot en met zesde lid, in werking treden met ingang van de in die leden vermelde tijdstippen.
 
-2. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel I, onderdeel CCC](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=I&z=2002-06-19&g=2002-06-19), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat dit onderdeel met uitzondering van de artikelen 17a.2, 17a.2a, 17a.2b, 17a.2c, 17a.3, 17a.11 en 17a.13, tweede lid, voor het eerst betrekking heeft op het studiejaar 2002–2003.
+2. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=I&z=2002-07-25&g=2002-07-25) CCC, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met dien verstande dat dit onderdeel met uitzondering van de artikelen 17a.2, 17a.2a, 17a.2b, 17a.2c, 17a.3, 17a.11 en 17a.13, tweede lid, voor het eerst betrekking heeft op het studiejaar 2002–2003.
 
-3. [Artikel III, onderdelen A, R, S, HH en II](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-06-19&g=2002-06-19), treedt in werking met ingang van 1 september 2004.
+3. [Artikel III, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-07-25&g=2002-07-25) Aa, R, S, HH en II, treedt in werking met ingang van 1 september 2004.
 
-4. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=IXa&z=2002-06-19&g=2002-06-19) in werking met ingang van 31 augustus 2002.
+4. [Artikel III, onderdelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=III&z=2002-07-25&g=2002-07-25), Na en QQa, en de artikelen IIIa, Va, VIIa en IXb treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-5. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt [artikel IXc](https://wetten.overheid.nl/jci1.3:c:BWBR0013748&artikel=IXc&z=2002-06-19&g=2002-06-19) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+5. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt artikel IXa in werking met ingang van 31 augustus 2002.
+
+6. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt artikel IXc in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ## Bijlage bij de Wet van 6 juni 2002 (Stb. 303)
 
