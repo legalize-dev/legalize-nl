@@ -4,7 +4,7 @@ identifier: "BWBR0016667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2004-03-01"
+last_updated: "2004-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016667"
 soort: "ministeriele-regeling"
@@ -51,9 +51,9 @@ In deze regeling wordt verstaan onder:
 
 - d. klager: de indiener van een klacht;
 
-- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=3&z=2004-05-13&g=2004-03-01);
+- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=3&z=2004-05-13&g=2004-05-13);
 
-- f. klachtcoördinator: de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=4&z=2004-05-13&g=2004-03-01).
+- f. klachtcoördinator: de functionaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=4&z=2004-05-13&g=2004-05-13).
 
 ##### Artikel 2. Verantwoordelijkheid beheerder
 
@@ -135,11 +135,11 @@ De beheerder draagt er zorg voor dat de in het vorige artikel bedoelde geregistr
 
 1. Aan de bevelhebber van de Koninklijke Marechaussee wordt machtiging verleend tot:
 
-- a. de afdoening van klachten als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2004-05-13&g=2004-03-01);
+- a. de afdoening van klachten als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2004-05-13&g=2004-05-13);
 
-- b. het aanwijzen van een klachtcoördinator als bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2004-05-13&g=2004-03-01);
+- b. het aanwijzen van een klachtcoördinator als bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=1&z=2004-05-13&g=2004-05-13);
 
-- c. het doen van de publicatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=13&z=2004-05-13&g=2004-03-01).
+- c. het doen van de publicatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016667&artikel=13&z=2004-05-13&g=2004-05-13).
 
 2. De bevelhebber van de Koninklijke Marechaussee maakt geen gebruik van de machtiging, bedoeld in het eerste lid, onderdeel a, indien hij bij de gedraging waarop de klacht betrekking heeft rechtstreeks is betrokken.
 
