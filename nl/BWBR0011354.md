@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2004-03-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -514,7 +514,7 @@ AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 decem
 
 - b. voor de levensverzekering ten minste vijftien jaar jaarlijks premies zijn voldaan waarbij de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste, of
 
-- c. de levensverzekering voldoet aan het bepaalde in artikel 76 van de Wet op de inkomstenbelasting 1964, waardoor de rente begrepen in een kapitaalsuitkering niet tot de inkomsten uit vermogen in die zin van de wet hoort, of
+- c. de levensverzekering voldoet aan het bepaalde in artikel 76 van de Wet op de inkomstenbelasting 1964, waardoor de rente begrepen in een kapitaalsuitkering niet tot de inkomsten uit vermogen in de zin van die wet hoort, of
 
 - d. sprake is van een overeenkomst van levensverzekering als bedoeld in [artikel 3.91, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), dan wel [artikel 3.92, tweede lid, onderdeel a, onder 2°, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
 
@@ -620,7 +620,7 @@ AQ. Geldleningen aan beginnende ondernemers; deelnemingen in partcipatiemaatscha
 
 - 2. De tijdelijke verhoging van de algemene heffingskorting bedraagt {(Ba – LB)/Ba} x {Bb – 1,25 x (Bb – 0,1 x H)}, maar niet meer dan M, waarbij Ba voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning zonder rekening te houden met de heffingskorting voor de inkomstenbelasting; LB voorstelt: de loonbelasting die ingehouden zou zijn indien geen rekening zou zijn gehouden met de heffingskorting voor de loonbelasting; Bb voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting en vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting; H voorstelt: de heffingskorting voor de inkomstenbelasting zonder toepassing van de arbeidskorting, de kinderkorting, de aanvullende kinderkorting, de combinatiekorting, de aanvullende combinatiekorting, de tijdelijke verhoging van de algemene heffingskorting, de korting voor maatschappelijke beleggingen, de korting voor directe beleggingen in durfkapitaal en culturele beleggingen, de toetrederskorting en de maximering van de gecombineerde heffingskorting op grond van [artikel 8.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8); en M voorstelt: de verschuldigde belasting op het belastbare inkomen uit werk en woning na vermindering met het bedrag van de heffingskorting voor de inkomstenbelasting vóór toepassing van de tijdelijke verhoging van de algemene heffingskorting, en verminderd met het bedrag van de met de aanslag te verrekenen voorheffingen voorzover die betrekking hebben op het belastbare inkomen uit werk en woning. Indien de berekening van het deel van de berekeningsformule dat (Bb – 0,1 x H) voorstelt tot een negatief bedrag leidt, wordt dat bedrag op nihil gesteld.
 
-- 3. Voor de belastingplichtige met een partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) die niet in aanmerking komt voor de tijdelijke verhoging van de algemene heffingskorting wordt, indien hij een belastbaar inkomen uit werk en woning heeft dat minder bedraagt dan het in de tweede volzin vermelde bedrag, bij de toepassing van het tweede lid voor de toepassing van de factoren Bb en M de verschuldigde belasting niet verminderd met de heffingskorting voor de inkomstenbelasting en wordt de factor 0,1 vervangen door 1. Het in de eerste volzin bedoeld bedrag bedraagt voor het kalenderjaar 2001 € 4395, voor het kalenderjaar 2002 € 5239, voor het kalenderjaar 2003 € 5582 en voor de kalenderjaren 2004 en 2005 € 5833.
+- 3. Voor de belastingplichtige met een partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) die niet in aanmerking komt voor de tijdelijke verhoging van de algemene heffingskorting wordt, indien hij een belastbaar inkomen uit werk en woning heeft dat minder bedraagt dan het in de tweede volzin vermelde bedrag, bij de toepassing van het tweede lid voor de toepassing van de factoren Bb en M de verschuldigde belasting niet verminderd met de heffingskorting voor de inkomstenbelasting en wordt de factor 0,1 vervangen door 1. Het in de eerste volzin bedoeld bedrag bedraagt voor het kalenderjaar 2001 € 4395, voor het kalenderjaar 2002 € 5239, voor het kalenderjaar 2003 € 5582, voor het kalenderjaar 2004 € 5 921en voor het kalenderjaar 2005 € 6 199.
 
 - 4. Voor het kalenderjaar 2001 bedraagt de tijdelijke verhoging van de algemene heffingskorting 100% van de op grond van de voorgaande leden berekende tijdelijke verhoging van de algemene heffingskorting . Voor het jaar 2002 bedraagt dit percentage 80%, voor het jaar 2003 60%, voor het jaar 2004 47% en voor het jaar 2005 23,5%.
 
@@ -678,9 +678,13 @@ Artikel II is van overeenkomstige toepassing met betrekking tot [artikel 6, eers
 
 ##### Artikel IV. Overgangsrecht vennootschapsbelasting
 
-A. Sanctiebepaling participatiemaatschappijen. Voorzover de periode tussen het niet meer voldoen aan de voorwaarden en het intrekken van de aanwijzing, bedoeld in [artikel 23b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23b), is gelegen voor het tijdstip van inwerkingtreding van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) is, in afwijking van dat artikel, [artikel 23b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23b), zoals dat luidde voor inwerkingtreding van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), van overeenkomstige toepassing.
+Sanctiebepaling participatiemaatschappijen
 
-- 1. Indien een aan de heffing van de vennootschapsbelasting onderworpen lichaam tijdens de periode van 1 januari 2001 tot en met 31 december 2005 winstuitdelingen verricht die in enig kalenderjaar in totaal uitgaan boven het volgens het tweede lid berekende bedrag, wordt de over het boekjaar waarin 31 december van dat kalenderjaar valt door dat lichaam verschuldigde belasting die is berekend op de voet van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), vermeerderd met 20 percent van het verschil tussen de verrichte winstuitdelingen en het volgens tweede lid berekende bedrag.
+A. Voorzover de periode tussen het niet meer voldoen aan de voorwaarden en het intrekken van de aanwijzing, bedoeld in [artikel 23b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23b), is gelegen voor het tijdstip van inwerkingtreding van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) is, in afwijking van dat artikel, [artikel 23b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23b), zoals dat luidde voor inwerkingtreding van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), van overeenkomstige toepassing.
+
+Winstuitdelingen
+
+- 1. Indien een aan de heffing van de vennootschapsbelasting onderworpen lichaam tijdens de periode van 1 januari 2001 tot en met 31 december 2004 winstuitdelingen verricht die in enig kalenderjaar in totaal uitgaan boven het volgens het tweede lid berekende bedrag, wordt de over het boekjaar waarin 31 december van dat kalenderjaar valt door dat lichaam verschuldigde belasting die is berekend op de voet van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), vermeerderd met 20 percent van het verschil tussen de verrichte winstuitdelingen en het volgens tweede lid berekende bedrag.
 
 - 2. Het in het eerste lid bedoelde bedrag wordt gesteld op de hoogste van de volgende bedragen:
 
@@ -700,7 +704,7 @@ A. Sanctiebepaling participatiemaatschappijen. Voorzover de periode tussen het n
 
 - a. met betrekking tot het vaststellen van de bestendige gedragslijn;
 
-- b. voor het geval dat op het lichaam in de periode van 1 januari 2001 tot en met 31 december 2005 niet dezelfde bepalingen voor het bepalen van de winst van toepassing zijn als gedurende de drie jaren die onmiddellijk voorafgaan aan het jaar 2001;
+- b. voor het geval dat op het lichaam in de periode van 1 januari 2001 tot en met 31 december 2004 niet dezelfde bepalingen voor het bepalen van de winst van toepassing zijn als gedurende de drie jaren die onmiddellijk voorafgaan aan het jaar 2001;
 
 - c. voor het geval het lichaam een boekjaar heeft of heeft gehad van korter dan twaalf maanden, is opgericht na 1 januari 1998, na 1 januari 1998 nieuwe aandelen heeft uitgegeven of gaat uitgeven, of in het kader van een fusie of splitsing onder algemene titel vermogen verkrijgt.
 
@@ -708,7 +712,7 @@ A. Sanctiebepaling participatiemaatschappijen. Voorzover de periode tussen het n
 
 - 5. Voor de toepassing van dit artikel wordt onder winstuitdelingen verstaan al hetgeen voor de uiteindelijk gerechtigde daarvan op de voet van [artikel 3 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=3) tot de opbrengst van aandelen in, winstbewijzen van, of winstdelende obligaties van dat lichaam behoort. Voor de toepassing van de eerste volzin blijft [artikel 3b van de Wet op de dividendbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=3b) buiten toepassing. De tweede volzin is niet van toepassing met betrekking tot een beleggingsinstelling waarvoor het tenminste vanaf 14 september 1999 – bij oprichting na die datum: vanaf de oprichtingsdatum reeds gebruik was om aangeboden eigen aandelen of bewijzen van deelgerechtigdheid in te kopen teneinde de koers van haar aandelen of bewijzen van deelgerechtigdheid te stabiliseren op de intrinsieke waarde, indien de beleggingsinstelling uitsluitend in verband met dit gebruik aangeboden eigen aandelen of bewijzen van deelgerechtigdheid tegen contanten inkoopt, doch slechts ingeval het initiatief tot de inkoop niet kan worden toegerekend aan de beleggingsinstelling of een daarmee verbonden vennootschap.
 
-- 6. Het eerste lid is niet van toepassing voorzover de tijdens de periode van 1 januari 2001 tot en met 31 december 2005 verrichte winstuitdelingen in totaliteit meer bedragen dan het saldo van de bezittingen, schulden en voorzieningen, berekend naar de waarde in het economische verkeer, verminderd met het gestorte kapitaal aan het einde van het laatste boekjaar dat eindigt voor 1 januari 2001.
+- 6. Het eerste lid is niet van toepassing voorzover de tijdens de periode van 1 januari 2001 tot en met 31 december 2004 verrichte winstuitdelingen in totaliteit meer bedragen dan het saldo van de bezittingen, schulden en voorzieningen, berekend naar de waarde in het economische verkeer, verminderd met het gestorte kapitaal aan het einde van het laatste boekjaar dat eindigt voor 1 januari 2001.
 
 - 7. Over het gedeelte van de winstuitdeling dat ingevolge het eerste en vierde lid leidt tot een vermeerdering van de verschuldigde vennootschapsbelasting, kan het lichaam inhouding van dividendbelasting achterwege laten.
 
@@ -724,11 +728,17 @@ A. Sanctiebepaling participatiemaatschappijen. Voorzover de periode tussen het n
 
 - 11. Dit artikel wordt ten aanzien van een vennootschap die deel uitmaakt van een fiscale eenheid in de zin van [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), toegepast alsof deze zelfstandig belastingplichtig is voor de vennootschapsbelasting.
 
-C. Herwaardering onroerende zaken bij buitenlands belastingplichtigen. Indien het binnenlandse inkomen uit een onroerende zaak bij een buitenlandse belastingplichtige wordt bepaald op de voet van [artikel 17 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) in verbinding met artikel 49, eerste lid, onderdeel c, van de Wet op de inkomstenbelasting 1964, wordt de onroerende zaak onmiddellijk voorafgaande aan 1 januari 2001 te boek gesteld voor de waarde in het economische verkeer.
+Herwaardering onroerende zaken bij buitenlands belastingplichtigen
 
-D. Terugkeer uit de BV. Indien de onderneming van een vennootschap als bedoeld in [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) door die vennootschap wordt gedreven als gevolg van de omzetting met toepassing van artikel 18, eerste lid, van de Wet op de inkomstenbelasting 1964 van de onderneming van een in het genoemde [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) bedoelde aandeelhouder of houder van winstbewijzen, en de voorovereenkomst of de intentieverklaring tot die omzetting is gesloten respectievelijk opgesteld op of na 27 juni 2000, maar voor 1 januari 2001, kunnen, in afwijking in zoverre van [artikel 14c, zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), tevens nadere voorwaarden worden gesteld voor de berekening van de in artikel 3.54a bedoelde terugkeerreserve.
+C. Indien het binnenlandse inkomen uit een onroerende zaak bij een buitenlandse belastingplichtige wordt bepaald op de voet van [artikel 17 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17) in verbinding met artikel 49, eerste lid, onderdeel c, van de Wet op de inkomstenbelasting 1964, wordt de onroerende zaak onmiddellijk voorafgaande aan 1 januari 2001 te boek gesteld voor de waarde in het economische verkeer.
 
-E. Toepassing herinvesteringsreserve bij fiscale eenheid. Indien aan een moedermaatschappij en een dochtermaatschappij die een eenheid vormen in de zin van [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), voor het tijdstip van inwerkingtreding van de onderhavige wet op de voet van het derde lid van dat artikel een voorwaarde is gesteld met betrekking tot transacties binnen die eenheid ten gevolge waarvan de samenstelling van het vermogen van de dochtermaatschappij is gewijzigd, vindt deze voorwaarde ter zake van een in die voorwaarde bedoelde vervangingsreserve in de zin van artikel 14 van de Wet op de inkomstenbelasting 1964 overeenkomstig toepassing ter zake van een herinvesteringsreserve in de zin van [artikel 3.54 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54).
+Terugkeer uit de BV
+
+D. Indien de onderneming van een vennootschap als bedoeld in [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) door die vennootschap wordt gedreven als gevolg van de omzetting met toepassing van artikel 18, eerste lid, van de Wet op de inkomstenbelasting 1964 van de onderneming van een in het genoemde [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) bedoelde aandeelhouder of houder van winstbewijzen, en de voorovereenkomst of de intentieverklaring tot die omzetting is gesloten respectievelijk opgesteld op of na 27 juni 2000, maar voor 1 januari 2001, kunnen, in afwijking in zoverre van [artikel 14c, zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), tevens nadere voorwaarden worden gesteld voor de berekening van de in artikel 3.54a bedoelde terugkeerreserve.
+
+Toepassing herinvesteringsreserve bij fiscale eenheid
+
+E. Indien aan een moedermaatschappij en een dochtermaatschappij die een eenheid vormen in de zin van [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), voor het tijdstip van inwerkingtreding van de onderhavige wet op de voet van het derde lid van dat artikel een voorwaarde is gesteld met betrekking tot transacties binnen die eenheid ten gevolge waarvan de samenstelling van het vermogen van de dochtermaatschappij is gewijzigd, vindt deze voorwaarde ter zake van een in die voorwaarde bedoelde vervangingsreserve in de zin van artikel 14 van de Wet op de inkomstenbelasting 1964 overeenkomstig toepassing ter zake van een herinvesteringsreserve in de zin van [artikel 3.54 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54).
 
 ##### Artikel VI. Overig overgangsrecht
 
@@ -752,9 +762,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-03-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-01-01&g=2005-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2004-03-01&g=2004-03-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-01-01&g=2005-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
