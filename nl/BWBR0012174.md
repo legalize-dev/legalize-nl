@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2003-01-01"
+last_updated: "2003-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -104,9 +104,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2003-01-01&g=2003-01-01) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2003-05-09&g=2003-05-09) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2003-01-01&g=2003-01-01), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2003-05-09&g=2003-05-09), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -114,7 +114,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2003-01-01&g=2003-01-01).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2003-05-09&g=2003-05-09).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
