@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "1998-11-01"
+last_updated: "2002-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.2
 
-1. Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in het [Besluit verwijdering batterijen](https://wetten.overheid.nl/jci1.3:c:BWBR0007227).
+1. Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in het [Besluit beheer batterijen](https://wetten.overheid.nl/jci1.3:c:BWBR0007227).
 
 2. Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10).
 
@@ -84,13 +84,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.2
 
-1. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=1998-11-01&g=1998-11-01), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
+1. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
 
 - a. een verwarmingsthermostaat, alsmede de kwikschakelaar die uitsluitend bestemd is voor toepassing in een verwarmingsthermostaat, en
 
 - b. een activiteitsmeter voor dieren, alsmede de kwikschakelaar die uitsluitend bestemd is voor toepassing in een activiteitsmeter voor dieren.
 
-2. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=1998-11-01&g=1998-11-01), geldt voorts tot 1 januari 2005 niet met betrekking tot het vervaardigen of in Nederland invoeren van een kwikhoudende barometer; bij koninklijk besluit kan een latere datum worden vastgesteld dan 1 januari 2005.
+2. Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), geldt voorts tot 1 januari 2005 niet met betrekking tot het vervaardigen of in Nederland invoeren van een kwikhoudende barometer; bij koninklijk besluit kan een latere datum worden vastgesteld dan 1 januari 2005.
 
 ##### Artikel 2.3
 
@@ -102,7 +102,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=1998-11-01&g=1998-11-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=1998-11-01&g=1998-11-01), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2002-05-08&g=2002-05-08), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -144,7 +144,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=1998-11-01&g=1998-11-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=1998-11-01&g=1998-11-01), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2002-05-08&g=2002-05-08), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2002-05-08&g=2002-05-08), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 3. Slotbepalingen
 
