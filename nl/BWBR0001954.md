@@ -4,7 +4,7 @@ identifier: "BWBR0001954"
 country: "nl"
 rank: "kb"
 publication_date: "2009-12-02"
-last_updated: "1998-01-01"
+last_updated: "2003-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001954"
 soort: "KB"
@@ -86,35 +86,23 @@ Degeen, wien de ministerieele toestemming is verleend, zal bij de uitoefening va
 
 ##### Artikel 8
 
-Degeen, wien de ministerieele toestemming is verleend, onderwerpt zich aan toezicht, gelijk in de volgende artikelen voorzien.
+Vervallen
 
 ##### Artikel 9
 
-1. Met het toezicht op de naleving van [artikel 30a van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a) en het bij of krachtens dit besluit bepaalde is belast de Regeringscommissaris.
-
-2. De Regeringscommissaris beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+Vervallen
 
 ##### Artikel 10
 
-1. De Regeeringscommissaris wordt benoemd door Onzen Minister voor een tijdvak van vier jaren. Dezelfde persoon kan na afloop daarvan opnieuw worden benoemd.
-
-2. Onze Minister kan één of meer plaatsvervangende Regeeringscommissarissen benoemen.
-
-3. De Regeeringscommissaris verstrekt Onzen Minister alle door dezen verlangde inlichtingen. Hij is verder gehouden aan de instructie, welke Onze Minister voor hem mocht vaststellen.
+Vervallen
 
 ##### Artikel 11
 
-1. De Regeeringscommissaris houdt zich op de hoogte van de wijze, waarop degeen, wien de ministerieele toestemming is verleend, het bedrijf uitoefent. Daarbij let hij er op, of algemeene regels van goed beheer worden gevolgd en ook de belangen van hen, die muziekwerken in het openbaar uitvoeren of laten uitvoeren, niet worden veronachtzaamd.
-
-2. Hem wordt, op zijn verzoek, gelegenheid gegeven om vergaderingen van bestuurderen, commissarissen of andere leidende personen in het bedrijf bij te wonen en aan de beraadslagingen deel te nemen. Hij heeft voorts het recht door een accountant te zijner keuze de boekhouding te doen onderzoeken.
+Vervallen
 
 ##### Artikel 12
 
-1. De Regeringscommissaris hoort ten minste eenmaal per jaar vertegenwoordigers van de door Onze Minister aan te wijzen groepen van hen die muziekwerken in het openbaar uitvoeren of doen uitvoeren, en stelt hen daarbij in de gelegenheid de in hun kring levende wensen kenbaar te maken.
-
-2. De Regeringscommissaris is bevoegd ook vertegenwoordigers van andere dan de door Onze Minister aangewezen groepen te horen.
-
-3. De Regeringscommissaris kan een of meer vertegenwoordigers van degeen aan wie de ministeriële toestemming is verleend, in de gelegenheid stellen de besprekingen met de in de vorige leden genoemde vertegenwoordigers bij te wonen.
+Vervallen
 
 ##### Artikel 13
 
@@ -134,21 +122,19 @@ Vervallen
 
 ##### Artikel 17
 
-De Regeringscommissaris brengt ten minste eenmaal per jaar aan Onze Minister verslag uit over zijn werkzaamheden.
+Vervallen
 
 ##### Artikel 18
 
-1. De Regeringscommissaris geniet vergoeding van reis- en verblijfkosten overeenkomstig regels door Onze Minister te stellen.
-
-2. Den Regeeringscommissaris kan door Onzen Minister eene toelage worden toegekend. Zulks geschiedt niet, dan nadat degeen, wien de ministerieele toestemming is verleend, is gehoord.
+Vervallen
 
 ##### Artikel 19
 
-Ingeval, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001954&artikel=4&z=1998-01-01&g=1998-01-01), eene ministerieele toestemming slechts beperkt wordt verleend, kan het toezicht, met afwijking van het bij dit besluit bepaalde, eenvoudiger worden ingericht, met dien verstande, dat een Regeeringscommissaris niet mag ontbreken. Bij het besluit, houdende de verleening der toestemming, wordt de noodige voorziening getroffen.
+Vervallen
 
 ##### Artikel 20
 
-Het bedrag der kosten, aan de uitoefening van het toezicht verbonden, welke door den Staat zijn gemaakt, wordt door Onzen Minister op door hem te bepalen tijdstippen vastgesteld en door dengeen, wien de ministerieele toestemming is verleend, aan den Staat voldaan.
+Vervallen
 
 ##### Artikel 21
 
