@@ -4,7 +4,7 @@ identifier: "BWBR0017655"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-02-01"
-last_updated: "2004-07-01"
+last_updated: "2005-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017655"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In dit besluit wordt verstaan onder
 
 - b. het ministerie: het Ministerie van Verkeer en Waterstaat en de daaronder ressorterende diensten;
 
-- c. Commissie: de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=2&z=2005-02-01&g=2004-07-01);
+- c. Commissie: de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=2&z=2005-02-01&g=2005-02-01);
 
-- d. voorzitter: de voorzitter van de commissie bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=3&z=2005-02-01&g=2004-07-01);
+- d. voorzitter: de voorzitter van de commissie bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=3&z=2005-02-01&g=2005-02-01);
 
 - e. besluit: hetgeen daaronder wordt verstaan in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
@@ -96,7 +96,7 @@ Ieder lid van de Commissie alsmede het secretariaat dat de Commissie bijstaat, d
 
 ##### Artikel 8. Inwerkingtreding
 
-Dit besluit werkt terug tot 1 juli 2004 en vervalt, behoudens verlenging bij besluit van de minister, met ingang van de datum waarop geen bezwaren, bedoeld in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=2&z=2005-02-01&g=2004-07-01) meer aanhangig of te verwachten zijn.
+Dit besluit werkt terug tot 1 juli 2004 en vervalt, behoudens verlenging bij besluit van de minister, met ingang van de datum waarop geen bezwaren, bedoeld in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017655&artikel=2&z=2005-02-01&g=2005-02-01) meer aanhangig of te verwachten zijn.
 
 ##### Artikel 9. Citeertitel
 
