@@ -73,11 +73,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling Zimbabwe 2004.
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
-
-2. De bevoegde autoriteit bedoeld in artikel 4, artikel 4bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
