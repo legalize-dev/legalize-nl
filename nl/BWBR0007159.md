@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=17), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8aa, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8aa), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
+1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10a), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11c), [11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11f), [11i, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11i), [11j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11j), [11k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11k), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15), [18, tweede lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [18b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18b), [18c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18c), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=19), [26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=26), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [36a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36a), [36c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c), [36h, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36h), [36i, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i), [36j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j), [36k, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36k), [36l, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), [36m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36m), en [36n, derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36n) en aan de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=7b), [8aa, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8aa), [8c, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8c), [8ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8ca), en [8f van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=8f).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -167,54 +167,17 @@ De administratie van de belastingplichtige, bedoeld in artikel 11d van de wet, i
 
 1. Het gewicht van de in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=13) bedoelde afvalstoffen wordt onder verantwoordelijkheid van de houder van een afvalverwerkingsinrichting onmiddellijk vóór dan wel aansluitend op de afgifte bepaald in kilogrammen door weging met een weegwerktuig als bedoeld in de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082).
 
-2. Voor de toepassing van [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=15) wordt, in afwijking in zoverre van het eerste lid, het gewicht van baggerspecie die wordt afgegeven aan een andere inrichting dan een stortplaats voor baggerspecie op land als bedoeld in [artikel 1, onderdeel d, van de Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&artikel=1) in eenheden van duizend kilogram (ton) als volgt bepaald:
-
-- a. bij afgifte vanuit een geijkt middel van transport volgens de formule: waarbij
-
-- rhow voorstelt: de dichtheid van het water in ton/m³;
-
-- rhova.st voorstelt: de dichtheid van de vaste stof in ton/m³;
-
-- m voorstelt: de gemeten massa van de baggerspecie in ton;
-
-- V voorstelt: het gemeten volume van de baggerspecie in m³;
-
-| m | — rhow | x rhova.st x V x 1,25 |
-| --- | --- | --- |
-| v | — rhow | x rhova.st x V x 1,25 |
-| rhova.st | — rhow | x rhova.st x V x 1,25 |
-
-- b. bij afgifte waarbij uitsluitend sprake is van hydraulisch transport volgens de formule: rhositu x V waarbij
-
-- rhositu voorstelt: de in situ dichtheid van de aangeboden baggerspecie in ton/m³;
-
-- V voorstelt: het volume van de aangeboden baggerspecie in m³.
-
-3. Indien geen waarden bekend zijn voor rhowen rhova.st, wordt in afwijking van het tweede lid, onderdeel a, het gewicht van de baggerspecie bepaald volgens de formule: (1,606 x (m - V)) x 1,25.
-
-4. De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door het met het registratienummer van de container, kipwagen of het vaartuig corresponderende volume.
+2. De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door het met het registratienummer van de container, kipwagen of het vaartuig corresponderende volume.
 
 ##### Artikel 5a
 
-De vrijstelling, bedoeld in artikel 17, eerste lid, onderdeel a, van de wet, is van toepassing indien:
+1. Het tarief, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18) vindt slechts toepassing op de afvalstoffen als bedoeld in [artikel 18, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18) indien de aanbieder van de afvalstoffen aan de houder van een afvalverwerkingsinrichting een ondertekende verklaring afgeeft waarin wordt aangegeven de hoeveelheid aangeboden afvalstoffen en het productieproces waarvan de afvalstoffen afkomstig zijn.
 
-- a. voor de verwijdering van de baggerspecie een ontheffing is verleend krachtens de Wet verontreiniging zeewater;
-
-- b. in de ontheffing de voorwaarde is opgenomen, dat de baggerspecie voldoet aan de normering 'uniforme gehaltetoets verspreiding baggerspecie in zoute wateren' uit de Vierde Nota Waterhuishouding, en
-
-- c. de houder van de inrichting beschikt over een afschrift van de ontheffing.
+2. Indien de afvalstoffen niet worden aangeboden door de producent, wordt de verklaring, bedoeld in het eerste lid, zowel door de producent als door de vervoerder ondertekend.
 
 ##### Artikel 5aa
 
-De vrijstelling, bedoeld in artikel 17, eerste lid, onderdeel b, van de wet, is van toepassing indien:
-
-- a. het een inrichting betreft waarop bijlage I, categorie 28.3, onderdeel f, van het Inrichtingen- en vergunningenbesluit milieubeheer van toepassing is;
-
-- b. voor de verwijdering van de baggerspecie een vergunning is verleend krachtens de Wet verontreiniging oppervlaktewateren;
-
-- c. in de vergunning de voorwaarde is opgenomen, dat de baggerspecie behoort tot de klasse 0, 1 of 2 overeenkomstig de classificatie krachtens de Vierde Nota Waterhuishouding dan wel dat de baggerspecie voldoet aan de normering 'uniforme gehaltetoets verspreiding baggerspecie in zoute wateren' uit de Vierde Nota Waterhuishouding, en
-
-- d. de houder van de inrichting beschikt over een afschrift van de vergunning.
+Vervallen
 
 ##### Artikel 5ab
 
@@ -224,49 +187,17 @@ De vrijstelling, bedoeld in artikel 17, eerste lid, onderdeel b, van de wet, is 
 
 ##### Artikel 5b
 
-1. De administratie van de houder van de afvalverwerkingsinrichting is zodanig ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
+De administratie van de houder van de afvalverwerkingsinrichting is zodanig ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
 
 - a. de aanbieders van de aangeboden partij afvalstoffen;
 
 - b. het gewicht per partij afval;
 
-- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2005-01-01&g=2005-01-01).
-
-2. In afwijking in zoverre van het eerste lid, is de administratie van de houder van een inrichting waar baggerspecie ter verwijdering wordt afgegeven zodanig ingericht dat daarin per partij op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
-
-- a. de herkomst van de baggerspecie;
-
-- b. de wijze waarop de baggerspecie is aangeboden;
-
-- c. het zandgehalte van de baggerspecie;
-
-- d. de hoeveelheid zand alsmede het residu van de reiniging van baggerspecie;
-
-- e. de dichtheid van het water in de baggerspecie;
-
-- f. de dichtheid van de vaste stof van de baggerspecie;
-
-- g. de gemeten massa van de baggerspecie;
-
-- h. het gemeten volume van de baggerspecie.
-
-3. Bij afgifte van baggerspecie waarbij uitsluitend sprake is van hydraulisch transport wordt, in afwijking van het tweede lid, de administratie van de houder van een inrichting waar baggerspecie wordt afgegeven zodanig ingericht dat daarin per partij op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
-
-- a. de herkomst van de baggerspecie;
-
-- b. de wijze waarop de baggerspecie is aangeboden;
-
-- c. het zandgehalte van de baggerspecie;
-
-- d. de hoeveelheid zand alsmede het residu van de reiniging van baggerspecie;
-
-- e. de in situ dichtheid van de baggerspecie;
-
-- f. het volume van de aangeboden baggerspecie.
+- c. de verklaring als bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=III&artikel=5a&z=2005-03-18&g=2005-03-18).
 
 ##### Artikel 5c
 
-Voor de toepassing van [artikel 18, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18) worden aangewezen residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib, regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen, anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis en residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval.
+Voor de toepassing van [artikel 18, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18) worden aangewezen residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib, regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen, anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis en residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval.
 
 ##### Artikel 6
 
@@ -450,7 +381,7 @@ De verklaring, bedoeld in [artikel 8b, eerste, derde en vierde lid, van het besl
 
 - e. de stand van de warmtehoeveelheidsmeter aan het begin en aan het einde van de verbruiksperiode.
 
-4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2005-01-01&g=2005-01-01), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
+4. In de afrekening, bedoeld in [artikel 8c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8c&z=2005-03-18&g=2005-03-18), van het Uitvoeringsbesluit, worden vermeld de totale hoeveelheid warmte die in het blokverwarmingscomplex is verbruikt in de verbruiksperiode waarop het verzoek om teruggaaf betrekking heeft, alsmede het aandeel van de gebruiker daarin.
 
 5. In het verzoek om teruggaaf, bedoeld in [artikel 36l, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l), worden de volgende gegevens vermeld:
 
@@ -560,7 +491,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2005-01-01&g=2005-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 8aa](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=IVa&artikel=8aa&z=2005-03-18&g=2005-03-18) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -627,3 +558,7 @@ Deze regeling wordt aangehaald als:
 - b. met behulp van elektriciteitsmeters de hoeveelheid elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 36c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c).
 
 ### Hoofdstuk V. Slotbepalingen
+
+### Hoofdstuk IV. Brandstoffenbelasting
+
+### Hoofdstuk IVa. Energiebelasting
