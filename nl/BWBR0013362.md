@@ -4,7 +4,7 @@ identifier: "BWBR0013362"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2002-03-01"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013362"
 soort: "AMvB"
@@ -116,7 +116,7 @@ De confrontatie wordt geleid door een daartoe door de korpsbeheerder onderscheid
 
 ##### Artikel 9
 
-De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2002-03-01&g=2002-03-01), bedoelde proces-verbaal of rapport.
+De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2002-12-25&g=2002-12-25), bedoelde proces-verbaal of rapport.
 
 ##### Artikel 10
 
@@ -138,7 +138,7 @@ Als helper bij het uitvoeren van de geuridentificatieproef kunnen optreden opspo
 
 ##### Artikel 14
 
-De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2002-03-01&g=2002-03-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2002-03-01&g=2002-03-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
+De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2002-12-25&g=2002-12-25), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2002-12-25&g=2002-12-25), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
 
 - a. een verslag van de helper omtrent de gevolgde procedure;
 
@@ -154,7 +154,7 @@ De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR00133
 
 ##### Artikel 15
 
-1. De maatregel tot plaatsing in een observatiecel, bedoeld in [artikel 62a, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62a) wordt alleen toegepast in de gevallen waarin en voor zolang noodzakelijk het gevaar aanwezig is dat de verdachte mogelijk aanwezige sporen onbruikbaar maakt of verwijdert dan wel op andere wijze het onderzoek naar sporen belemmert of bemoeilijkt.
+1. De maatregel tot plaatsing in een observatiecel, bedoeld in [artikel 61a, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=61a) wordt alleen toegepast in de gevallen waarin en voor zolang noodzakelijk het gevaar aanwezig is dat de verdachte mogelijk aanwezige sporen onbruikbaar maakt of verwijdert dan wel op andere wijze het onderzoek naar sporen belemmert of bemoeilijkt.
 
 2. Degene die het bevel geeft kan daarbij aanwijzingen geven omtrent de uitvoering van het bevel.
 
