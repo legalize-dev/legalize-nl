@@ -4,7 +4,7 @@ identifier: "BWBR0013462"
 country: "nl"
 rank: "wet"
 publication_date: "2012-10-01"
-last_updated: "2003-02-19"
+last_updated: "2003-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013462"
 soort: "wet"
@@ -66,29 +66,29 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel V
 
-1. De in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) MMMM, bedoelde verordeningen worden vastgesteld vóór de vaststelling van de begroting over het jaar 2004, doch uiterlijk op 15 november 2003. De in dit onderdeel bedoelde accountantsverklaring en het in dit onderdeel bedoelde verslag van bevindingen voldoen met ingang van het jaar 2004 aan de in dit onderdeel gestelde eisen.
+1. De in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) MMMM, bedoelde verordeningen worden vastgesteld vóór de vaststelling van de begroting over het jaar 2004, doch uiterlijk op 15 november 2003. De in dit onderdeel bedoelde accountantsverklaring en het in dit onderdeel bedoelde verslag van bevindingen voldoen met ingang van het jaar 2004 aan de in dit onderdeel gestelde eisen.
 
-2. De in [artikel I, onderdelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) en NNNN, bedoelde verordeningen, de in [artikel I, onderdelen D, N](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) en DD, bedoelde gedragscodes en de in [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) QQQ en SSS bedoelde regels worden vastgesteld binnen een jaar na de datum van inwerkingtreding van deze onderdelen.
+2. De in [artikel I, onderdelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) en NNNN, bedoelde verordeningen, de in [artikel I, onderdelen D, N](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) en DD, bedoelde gedragscodes en de in [artikel I, onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) QQQ en SSS bedoelde regels worden vastgesteld binnen een jaar na de datum van inwerkingtreding van deze onderdelen.
 
-3. De raad kan besluiten de in het tweede lid genoemde termijn voor de vaststelling van de in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) NNNN, bedoelde verordening en de in [artikel I, onderdelen D, N](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) en DD, bedoelde gedragscodes met ten hoogste een jaar te verlengen.
+3. De raad kan besluiten de in het tweede lid genoemde termijn voor de vaststelling van de in [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) NNNN, bedoelde verordening en de in [artikel I, onderdelen D, N](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) en DD, bedoelde gedragscodes met ten hoogste een jaar te verlengen.
 
 ##### Artikel VI
 
-1. De ambtenaar die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) WWW, werkzaam is op basis van een aanstelling door de raad, wordt met ingang van bedoelde datum van inwerkingtreding geacht te zijn aangesteld door het college.
+1. De ambtenaar die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) WWW, werkzaam is op basis van een aanstelling door de raad, wordt met ingang van bedoelde datum van inwerkingtreding geacht te zijn aangesteld door het college.
 
-2. De door de raad op grond van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) vastgestelde voorschriften die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) WWW, gelden, worden met ingang van bedoelde datum van inwerkingtreding geacht te zijn vastgesteld door het college.
+2. De door de raad op grond van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) vastgestelde voorschriften die op de dag voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) WWW, gelden, worden met ingang van bedoelde datum van inwerkingtreding geacht te zijn vastgesteld door het college.
 
 3. Het eerste en het tweede lid zijn niet van toepassing op de secretaris.
 
 ##### Artikel VII
 
-1. Commissies die zijn ingesteld op grond van [artikel 82 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) KK, en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk twee jaar na deze datum blijven uitoefenen of, bij eerdere opheffing van de commissie, tot de datum van opheffing, met inachtneming van het bepaalde bij of krachtens [hoofdstuk V van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=V) zoals dat luidde onmiddellijk voorafgaand aan bedoelde datum van inwerkingtreding.
+1. Commissies die zijn ingesteld op grond van [artikel 82 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=82) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) KK, en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk twee jaar na deze datum blijven uitoefenen of, bij eerdere opheffing van de commissie, tot de datum van opheffing, met inachtneming van het bepaalde bij of krachtens [hoofdstuk V van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=V) zoals dat luidde onmiddellijk voorafgaand aan bedoelde datum van inwerkingtreding.
 
-2. Het eerste lid is niet van toepassing op een commissie als bedoeld in [artikel 87 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=87) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) OO, noch op zijn dagelijks bestuur.
+2. Het eerste lid is niet van toepassing op een commissie als bedoeld in [artikel 87 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=87) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) OO, noch op zijn dagelijks bestuur.
 
 ##### Artikel VIII
 
-[Artikel 91 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=91) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19) TT, blijft van toepassing op vaste commissies van advies aan het college van burgemeester en wethouders of aan de burgemeester die zijn ingesteld voor deze datum, tot de dag van eerste samenkomst van de bij de periodieke verkiezing van 2002 gekozen leden van de raad.
+[Artikel 91 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=91) zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17) TT, blijft van toepassing op vaste commissies van advies aan het college van burgemeester en wethouders of aan de burgemeester die zijn ingesteld voor deze datum, tot de dag van eerste samenkomst van de bij de periodieke verkiezing van 2002 gekozen leden van de raad.
 
 ##### Artikel IX
 
@@ -122,23 +122,25 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel VIa
 
-De in [artikel I, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19), bedoelde rekenkamer of rekenkamerfunctie wordt ingesteld voor 1 januari 2006.
+De in [artikel I, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17), bedoelde rekenkamer of rekenkamerfunctie wordt ingesteld voor 1 januari 2006.
 
 ##### Artikel VIb
 
-1. De in [artikel I, onderdeel ZZ](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19), bedoelde griffier wordt benoemd voor 7 maart 2003.
+1. De in [artikel I, onderdeel ZZ](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17), bedoelde griffier wordt benoemd voor 7 maart 2003.
 
-2. Met ingang van de datum waarop de in [artikel I, onderdeel ZZ](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19), bedoelde griffier wordt benoemd, wordt de secretaris geacht te zijn aangesteld door het college en worden de door de raad op grond de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) vastgestelde voorschriften ten aanzien van de secretaris geacht te zijn vastgesteld door het college.
+2. Met ingang van de datum waarop de in [artikel I, onderdeel ZZ](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17), bedoelde griffier wordt benoemd, wordt de secretaris geacht te zijn aangesteld door het college en worden de door de raad op grond de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [125c](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125c) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) vastgestelde voorschriften ten aanzien van de secretaris geacht te zijn vastgesteld door het college.
 
 3. Tot de datum waarop de griffier wordt benoemd, staat de secretaris de raad en de door hem ingestelde commissies bij de uitoefening van hun taak terzijde en blijft de door de raad vastgestelde instructie op de secretaris van toepassing.
 
 ##### Artikel VIIa
 
-Commissies als bedoeld in [artikel 84 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84), zoals dat luidt met ingang van de inwerkingtreding van [artikel I, onderdeel LL](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-02-19&g=2003-02-19), voldoen uiterlijk twee jaar na de inwerkingtreding van dit onderdeel aan de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84) gestelde eisen.
+Commissies als bedoeld in [artikel 84 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84), zoals dat luidt met ingang van de inwerkingtreding van [artikel I, onderdeel LL](https://wetten.overheid.nl/jci1.3:c:BWBR0013462&artikel=I&z=2003-10-17&g=2003-10-17), voldoen uiterlijk twee jaar na de inwerkingtreding van dit onderdeel aan de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=84) gestelde eisen.
 
 ##### Artikel VIIIa
 
-Voor zover bij of krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en bij of krachtens de [Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620) bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) gestelde regels van toepassing zijn verklaard, blijven de bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) gestelde regels zoals die luidden onmiddellijk voorafgaand aan de datum van inwerkingtreding van deze wet, van toepassing.
+1. Voor zover bij of krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en bij of krachtens de [Kaderwet bestuur in verandering](https://wetten.overheid.nl/jci1.3:c:BWBR0006620) bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) gestelde regels van toepassing zijn verklaard, blijven de bij of krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) gestelde regels zoals die luidden onmiddellijk voorafgaand aan de datum van inwerkingtreding van deze wet, van toepassing.
+
+2. Het eerste lid is niet van toepassing op de [artikelen 186 tot en met 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186) en de krachtens deze artikelen vastgestelde regels.
 
 ##### Artikel VIIIb
 
