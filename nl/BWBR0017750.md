@@ -4,7 +4,7 @@ identifier: "BWBR0017750"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-01"
-last_updated: "2001-01-01"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017750"
 soort: "wet"
@@ -55,7 +55,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VI
 
