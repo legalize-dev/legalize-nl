@@ -4,7 +4,7 @@ identifier: "BWBR0001941"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-28"
-last_updated: "2002-10-01"
+last_updated: "2003-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001941"
 soort: "wet"
@@ -55,19 +55,21 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - e. Enkelvoudig Verdrag: het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (**Trb.** 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (**Trb.** 1987, 90);
 
-- f. Psychotrope Stoffen Verdrag: het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (**Trb.** 1989, 129).
+- f. Psychotrope Stoffen Verdrag: het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (**Trb.** 1989, 129);
+
+- g. Gemeenschappelijk optreden: het Gemeenschappelijk Optreden nr. 97/396/JBZ van 16 juni 1997 vastgesteld door de Raad van de Europese Unie op basis van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de informatie-uitwisseling, risicoanalyse en controle van nieuwe synthetische drugs (PbEG L 167).
 
 2. Voor toepassing van deze wet en de daarop berustende bepalingen worden de zouten van de substanties met die substanties gelijkgesteld.
 
 3. Voor de toepassing van deze wet wordt onder vervaardigen begrepen raffineren en omzetten.
 
-4. Onder binnen het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), is begrepen: het binnen het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling, met betrekking tot die middelen, die binnen het grondgebied van Nederland zijn gebracht, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
+4. Onder binnen het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), is begrepen: het binnen het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling, met betrekking tot die middelen, die binnen het grondgebied van Nederland zijn gebracht, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
 
-5. Onder buiten het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), is begrepen: het buiten het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer dan wel ten wederuitvoer aangeven, daaronder begrepen het in kennis stellen van de wederuitvoer, in de zin van [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (**PbEG** L 302) of het in, op of aan een naar het buitenland bestemd vaar-, voer- of luchtvaartuig aanwezig hebben van die middelen, of van die voorwerpen of goederen.
+5. Onder buiten het grondgebied van Nederland brengen van middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), is begrepen: het buiten het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer dan wel ten wederuitvoer aangeven, daaronder begrepen het in kennis stellen van de wederuitvoer, in de zin van [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (**PbEG** L 302) of het in, op of aan een naar het buitenland bestemd vaar-, voer- of luchtvaartuig aanwezig hebben van die middelen, of van die voorwerpen of goederen.
 
 ##### Artikel 2
 
-1. Het is verboden de middelen, vermeld op de bij deze wet behorende lijst I, dan wel aangewezen krachtens het tweede of derde lid:
+Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2003-03-17&g=2003-03-17):
 
 - A. binnen of buiten het grondgebied van Nederland te brengen;
 
@@ -77,21 +79,9 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - D. te vervaardigen.
 
-2. Bij algemene maatregel van bestuur kunnen worden aangewezen:
-
-- a. bewustzijnsbeïnvloedende middelen, welke bij aanwending bij de mens kunnen leiden tot schade voor zijn gezondheid en schade voor de samenleving;
-
-- b. middelen, welke onder de werking van het Enkelvoudig Verdrag of van het Psychotrope Stoffen Verdrag zijn gebracht.
-
-3. Indien aanwijzing van een middel krachtens het tweede lid in overweging is, en naar het oordeel van Onze Minister een onverwijlde voorziening is vereist, kan aanwijzing geschieden bij besluit van Onze Minister.
-
-Dit besluit blijft, behoudens eerdere intrekking, van kracht, totdat de algemene maatregel van bestuur waarbij het betreffende middel wordt aangewezen, in werking treedt, doch uiterlijk tot een jaar na het in werking treden van het besluit.
-
-4. Een besluit ingevolge het derde lid wordt geplaatst in de Nederlandse Staatscourant.
-
 ##### Artikel 3
 
-1. Het is verboden de middelen, vermeld op de bij deze wet behorende lijst II:
+Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) dan wel aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2003-03-17&g=2003-03-17):
 
 - A. binnen of buiten het grondgebied van Nederland te brengen;
 
@@ -101,101 +91,109 @@ Dit besluit blijft, behoudens eerdere intrekking, van kracht, totdat de algemene
 
 - D. te vervaardigen.
 
-2. Lijst II kan ten aanzien van middelen welke onder de werking van het Psychotrope Stoffen Verdrag zijn gebracht, bij algemene maatregel van bestuur worden gewijzigd.
-
 ##### Artikel 3a
 
-1. Bij algemene maatregel van bestuur kunnen middelen en toepassingen worden aangewezen, waarvoor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) omschreven verboden geheel of ten dele niet gelden.
+1. Bij algemene maatregel van bestuur worden aan de bij deze wet behorende [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) middelen toegevoegd indien deze onder de werking van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag worden gebracht of uit hoofde van de uit het Gemeenschappelijk optreden voortvloeiende verplichting onder de werking van deze wet dienen te worden gebracht. Bij algemene maatregel van bestuur kunnen van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) middelen worden geschrapt indien deze aan de werking van de in de eerste volzin bedoelde verdragen worden onttrokken dan wel indien de in die volzin bedoelde verplichting uit hoofde van het Gemeenschappelijk optreden komt te vervallen.
 
-2. Bij algemene maatregel van bestuur kunnen met betrekking tot de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoelde middelen voorschriften worden gegeven om naleving van de bepalingen van het Enkelvoudig Verdrag en van het Psychotrope Stoffen Verdrag te verzekeren of om misbruik van die middelen te voorkomen.
+2. Bij algemene maatregel van bestuur kunnen aan [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) middelen worden toegevoegd indien is gebleken dat deze het bewustzijn van de mens beïnvloeden en bij gebruik door de mens kunnen leiden tot schade aan zijn gezondheid en schade voor de samenleving.
+
+3. Bij algemene maatregel van bestuur worden middelen die krachtens het tweede lid zijn toegevoegd, van [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) geschrapt indien is gebleken dat zij de in het tweede lid bedoelde eigenschappen niet of niet meer bezitten.
+
+4. Een algemene maatregel van bestuur als bedoeld in het eerste, tweede en derde lid, wordt niet vastgesteld dan nadat vier weken zijn verstreken nadat het ontwerp van de maatregel is overgelegd aan de beide Kamers der Staten-Generaal en binnen die termijn niet door of namens een van beide Kamers de wens te kennen wordt gegeven dat het in het ontwerp van de maatregel geregelde onderwerp wordt geregeld bij wet.
+
+5. Indien naar het oordeel van Onze Minister handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) ten aanzien van een middel onverwijld moeten worden verboden en de totstandkoming van een algemene maatregel van bestuur als bedoeld in het eerste of tweede lid niet kan worden afgewacht, kan het middel daartoe bij ministeriële regeling worden aangewezen. Onze Minister draagt ervoor zorg dat tegelijk met de vaststelling van deze ministeriële regeling het ontwerp van een algemene maatregel van bestuur met dezelfde inhoud ter beoordeling aan de ministerraad wordt aangeboden. De ministeriële regeling blijft, behoudens eerdere intrekking, van kracht totdat de algemene maatregel van bestuur waarbij het betreffende middel wordt aangewezen in werking treedt, doch uiterlijk tot een jaar na het inwerkingtreden van de regeling.
 
 ##### Artikel 3b
 
-1. Elke openbaarmaking, welke er kennelijk op is gericht de verkoop, aflevering of verstrekking van een middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) te bevorderen, is verboden.
+1. Elke openbaarmaking, welke er kennelijk op is gericht de verkoop, aflevering of verstrekking van een middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) te bevorderen, is verboden.
 
 2. Het in het eerste lid vervatte verbod geldt niet ter zake van openbaarmaking in het kader van medische of wetenschappelijke voorlichting.
 
 ##### Artikel 4
 
-1. Het is verboden een middel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), of 3, voor te schrijven op recept, tenzij het middel daartoe, in het belang van de volksgezondheid, is aangewezen bij algemene maatregel van bestuur. Bij de maatregel kunnen voorschriften worden gesteld ter zake van het recept en het doel waarvoor een middel wordt voorgeschreven.
+1. Het is verboden een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) voor te schrijven op recept, tenzij het middel daartoe, in het belang van de volksgezondheid, is aangewezen bij algemene maatregel van bestuur. Bij de maatregel kunnen voorschriften worden gesteld ter zake van het recept en het doel waarvoor een middel wordt voorgeschreven.
 
 Een krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.
 
-Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. In het belang van de volksgezondheid kan, in afwijking van de eerste volzin, bij ministeriële regeling een middel worden aangewezen dat mag worden voorgeschreven op recept, zolang het middel tevens is aangewezen krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01).
+Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal. In het belang van de volksgezondheid kan, in afwijking van de eerste volzin, bij ministeriële regeling een middel worden aangewezen dat mag worden voorgeschreven op recept, zolang het middel tevens is aangewezen krachtens [artikel 3a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2003-03-17&g=2003-03-17).
 
-2. Het bestellen van enig middel, in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoeld, door houders van een verlof, bedoeld in het [eerste lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01), en door apothekers, apotheekhoudende artsen en dierenartsen, bedoeld in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01), mag slechts geschieden met inachtneming van nader door Onze Minister te geven voorschriften.
+2. Het bestellen van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17), door:
 
-3. Het is verboden ter verkrijging van enig middel, in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoeld:
+- a. beroepsbeoefenaren als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2003-03-17&g=2003-03-17),
+
+- b. instellingen en personen als bedoeld in [artikel 5, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2003-03-17&g=2003-03-17), en
+
+- c. houders van een ontheffing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2003-03-17&g=2003-03-17),
+
+geschiedt met inachtneming van bij ministeriële regeling vastgestelde voorschriften.
+
+3. Het is verboden ter verkrijging van enig middel, in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) bedoeld:
 
 - a. een vals of vervalst recept aan te bieden;
 
 - b. een recept aan te bieden, waarin een andere naam of een ander adres is vermeld dan de naam of het adres van degene te wiens behoeve het recept is voorgeschreven.
 
-4. Het is een persoon ten aanzien van wie een in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01), bedoeld besluit geldt, verboden enig middel, in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoeld, voor te schrijven.
-
 ##### Artikel 5
 
-1. Het verbod, gesteld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), A, en het verbod, gesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), A, is niet van toepassing in geval het brengen binnen of buiten het grondgebied van Nederland geschiedt met verlof van Onze Minister en met inachtneming van de door of vanwege Onze Minister te geven voorschriften. Deze voorschriften kunnen verschillen voor de onderscheidene middelen, in die artikelen bedoeld.
+1. Bij algemene maatregel van bestuur worden voorschriften gesteld ter zake van het afleveren van krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17) aangewezen middelen. Onverminderd deze algemene maatregel van bestuur, is het verbod op het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben van een middel bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17), niet van toepassing op:
 
-2. Voor een in het eerste lid bedoeld verlof kan een vergoeding worden geheven volgens een tarief, overeenkomstig bij algemene maatregel van bestuur te stellen regelen.
+- a. apothekers en apotheekhoudende artsen indien zij krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17), aangewezen middelen voor geneeskundige doeleinden bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben en deze werkzaamheden geschieden binnen de normale beroepsuitoefening;
+
+- b. dierenartsen, indien zij de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17) aangewezen middelen voor diergeneeskundige doeleinden verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben.
+
+2. De verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17), zijn voorts niet van toepassing op daartoe bij algemene maatregel van bestuur aangewezen instellingen en op hen die de desbetreffende middelen in de aanwezige hoeveelheid tot uitoefening van de geneeskunst, de tandheelkunde of de diergeneeskunde, dan wel voor eigen geneeskundig gebruik behoeven of krachtens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg hebben verkregen.
+
+3. Voorts kunnen, indien een noodtoestand als bedoeld in [artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=1) is afgekondigd, bij koninklijk besluit, op voordracht van Onze Minister, andere instellingen of personen dan die, bedoeld in het eerste en tweede lid, worden aangewezen voor wie de verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17), niet van toepassing zijn. Deze aanwijzing kan worden beperkt tot bepaalde gebieden en bepaalde middelen. Voorts kunnen aan de aanwijzing nadere voorschriften worden verbonden. De aanwijzing vervalt van rechtswege indien de noodtoestand wordt beëindigd, en kan voorts worden ingetrokken bij koninklijk besluit, op voordracht van Onze Minister.
+
+4. De verboden inzake het vervoeren of aanwezig hebben zijn bovendien niet van toepassing op hen die de middelen vervoeren of daartoe aanwezig hebben in opdracht van degene die tot zodanig vervoer bevoegd is.
 
 ##### Artikel 6
 
-1. Onverminderd de bij algemene maatregel van bestuur gestelde voorschriften ter zake van de aflevering van Opiumwetmiddelen op recept, is een verbod als bedoeld in artikel 2, eerste lid, onder B, C en D, en in [artikel 3, eerste lid, onder B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), niet van toepassing voor zover Onze Minister schriftelijk verlof heeft gegeven tot het verrichten van een in die bepalingen bedoelde handeling. Voor een verlof kan een jaarlijkse vergoeding worden geheven volgens een tarief dat overeenkomstig bij algemene maatregel van bestuur te stellen regels wordt bepaald.
+1. Onze Minister kan, met inachtneming van [artikel 8i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2003-03-17&g=2003-03-17), ontheffing verlenen van een verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17). Hij kan voorts een ontheffing verlengen, wijzigen, aanvullen of intrekken.
 
-2. Een verbod als bedoeld in artikel 2, eerste lid, onder B en C, en in [artikel 3, eerste lid, onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), is tevens niet van toepassing:
+2. Een ontheffing of een verlenging daarvan wordt verleend voor ten hoogste vijf jaren, met dien verstande dat een ontheffing van een verbod als bedoeld in [artikel 2, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17), of [artikel 3, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), wordt verleend per geval en voor ten hoogste zes maanden.
 
-- a. ten aanzien van gevestigde apothekers en apotheekhoudende artsen, indien zij krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2002-10-01&g=2002-10-01), aangewezen middelen voor geneeskundige doeleinden bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben en deze werkzaamheden geschieden binnen de normale beroepsuitoefening;
-
-- b. ten aanzien van dierenartsen, indien zij krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2002-10-01&g=2002-10-01), aangewezen middelen voor diergeneeskundige doeleinden verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben.
-
-3. Onverlet de bij algemene maatregel van bestuur gegeven voorschriften, zijn de verboden, voor zoveel betreft het verstrekken en het vervoeren, gesteld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), B, en in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), B, en de verboden, gesteld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), C, en in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), C, mede niet van toepassing op bij vorenbedoelde maatregel aangewezen instellingen en op hen die aantonen dat zij de in dat artikel bedoelde middelen in de bevonden hoeveelheid tot uitoefening van de geneeskunst, de tandheelkunst, of van de diergeneeskunst dan wel voor eigen geneeskundig gebruik behoeven of krachtens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg verkregen hebben.
-
-4. De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) gestelde verboden met betrekking tot het vervoeren en het aanwezig hebben zijn mede niet van toepassing op hen die aantonen dat zij de middelen vervoeren in opdracht van een daartoe bevoegde.
-
-5. Indien een persoon bevoegd tot het afleveren onderscheidenlijk tot het voorschrijven van de in de artikelen 2en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoelde middelen wegens het niet naleven van een krachtens dit artikel gegeven voorschrift bij herhaling is veroordeeld, kan Onze Minister, gehoord de door Ons aangewezen hoofdinspecteurs van het Staatstoezicht op de Volksgezondheid, bepalen dat het tweede onderscheidenlijk derde lid voor die persoon niet meer geldt.
-
-6. Een beschikking als bedoeld in het vijfde lid, geldt voor een termijn van ten hoogste vier jaren. Van de beschikking wordt mededeling gedaan aan degenen die bevoegd zijn tot afleveren van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoelde middelen.
+3. Onze Minister stelt de aanvrager van een ontheffing of van een verlenging daarvan binnen drie maanden na ontvangst van de aanvraag in kennis van zijn beslissing.
 
 ##### Artikel 7
 
-1. Onze Minister kan een verlof als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01), slechts verlenen:
+1. Voor de behandeling van een aanvraag voor een ontheffing of een wijziging, aanvulling of verlenging daarvan, kan een vergoeding worden geheven. Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in [artikel 8i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i&z=2003-03-17&g=2003-03-17), is geen vergoeding verschuldigd.
 
-- a. aan personen of instellingen die ten genoegen van Onze Minister aantonen dat zij het verlof nodig hebben voor wetenschappelijke of instructieve doeleinden;
+2. Voor een ontheffing kan jaarlijks een vergoeding worden geheven. Het eerste lid, tweede volzin, is van overeenkomstige toepassing met betrekking tot de jaarlijkse vergoeding.
 
-- b. voorzover het belang van de volksgezondheid zulks vordert:
-
-- 1°. aan hen die in het bezit zijn van een uitsluitend tot het afleveren van geneesmiddelen verleende vergunning als bedoeld in [artikel 2, eerste lid, onder **d**, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=2);
-
-- 2°. aan hen die in het bezit zijn van een vergunning tot het bereiden van geneesmiddelen en het afleveren daarvan als bedoeld in [artikel 2, eerste lid, onder **d**, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=2) en ten genoegen van Onze Minister aantonen dat zij de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoelde middelen zullen vervaardigen in uitsluitend daartoe aangewezen en nauwkeurig omschreven lokaliteiten;
-
-- 3°. aan anderen, ten behoeve van de Staat, in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmee verband houdende buitengewone omstandigheden.
-
-- c. voor zover het belang van de gezondheid van dieren zulks vordert aan hen die in het bezit zijn van een vergunning, bedoeld in [artikel 21, eerste lid, van de Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818&artikel=21).
-
-2. Een verlof kan worden verleend onder beperkingen. Aan een verlof kunnen voorschriften worden verbonden om naleving van de bepalingen van het Enkelvoudig Verdrag en van de bij of krachtens deze wet gestelde bepalingen te verzekeren, of om misbruik van de middelen, waarop een verlof betrekking heeft, te voorkomen.
-
-3. Een verlof kan worden ingetrokken indien:
-
-- a. het belang van de volksgezondheid zulks vordert;
-
-- b. de houder van het verlof handelt in strijd met de bij of krachtens deze wet gegeven voorschriften of met de aan het verlof verbonden voorschriften.
-
-4. De intrekking geschiedt bij een beschikking van Onze Minister; daarbij kan een termijn worden gesteld, binnen welke de handelaar of de fabrikant zich van zijn vóór de intrekking op wettige wijze verkregen voorraad zal kunnen ontdoen met inachtneming van de voorschriften door Onze Minister te stellen.
+3. De hoogte van de vergoedingen, bedoeld in het eerste en tweede lid, wordt bij ministeriële regeling vastgesteld en kan per categorie van ontheffing verschillend worden vastgesteld. Indien een ontheffing voor een periode korter dan een jaar geldt, wordt de vergoeding, bedoeld in het tweede lid, naar evenredigheid op een lager bedrag vastgesteld.
 
 ##### Artikel 7a
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
+Vervallen
 
 ##### Artikel 8
 
-Met het opsporen van de feiten, strafbaar gesteld in deze wet zijn, behalve de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
+1. Een ontheffing kan slechts worden verleend of verlengd indien de aanvrager ten genoegen van Onze Minister heeft aangetoond:
+
+- a. dat daarmee het belang van de volksgezondheid of dat van de gezondheid van dieren wordt gediend;
+
+- b. deze nodig te hebben voor het verrichten van wetenschappelijk of analytisch-chemisch onderzoek dan wel voor instructieve doeleinden, voor zover het belang van de volksgezondheid zich hier niet tegen verzet, of
+
+- c. deze nodig te hebben voor het verrichten van een handeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) krachtens een overeenkomst met:
+
+- 1. een ander aan wie krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2003-03-17&g=2003-03-17), een ontheffing is verleend;
+
+- 2. een apotheker of apotheekhoudende arts;
+
+- 3. een dierenarts;
+
+- 4. een instelling of persoon, aangewezen krachtens [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2003-03-17&g=2003-03-17);
+
+- 5. een houder van een in een ander land verleende vergunning of ontheffing om de desbetreffende middelen in dat land in te voeren, voor zover het belang van de volksgezondheid zich hier niet tegen verzet.
+
+2. Een ontheffing kan voorts worden verleend of verlengd indien de aanvrager deze nodig heeft voor het telen van cannabis krachtens een overeenkomst met Onze Minister.
 
 ##### Artikel 9
 
 1. De opsporingsambtenaren hebben, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is, toegang:
 
-- a. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) of [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01);
+- a. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17);
 
 - b. tot de plaatsen, waar een overtreding van deze wet gepleegd wordt of waar redelijkerwijze vermoed kan worden, dat zodanige overtreding gepleegd wordt.
 
@@ -203,31 +201,31 @@ Met het opsporen van de feiten, strafbaar gesteld in deze wet zijn, behalve de b
 
 3. Zij zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-4. De officier van justitie of de hulpofficier van justitie voor wie de verdachte wordt geleid of die zelf de verdachte heeft aangehouden is bevoegd een persoon die zojuist binnen het grondgebied van Nederland is binnengekomen of die op het punt staat dit grondgebied te verlaten, en die is aangehouden terzake van een bij deze wet als misdrijf strafbaar gesteld feit, een vordering te geven tot medewerking aan een urineonderzoek, gericht op het aantonen van de aanwezigheid in het lichaam van middelen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) of 3, eerste lid.
+4. De officier van justitie of de hulpofficier van justitie voor wie de verdachte wordt geleid of die zelf de verdachte heeft aangehouden is bevoegd een persoon die zojuist binnen het grondgebied van Nederland is binnengekomen of die op het punt staat dit grondgebied te verlaten, en die is aangehouden terzake van een bij deze wet als misdrijf strafbaar gesteld feit, een vordering te geven tot medewerking aan een urineonderzoek, gericht op het aantonen van de aanwezigheid in het lichaam van middelen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17).
 
 ##### Artikel 10
 
 1. Hij die handelt in strijd met:
 
-- a. een in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), het in [artikel 3**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b&z=2002-10-01&g=2002-10-01), of een in [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2002-10-01&g=2002-10-01), gegeven verbod;
+- a. een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17), het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b&z=2003-03-17&g=2003-03-17), of een in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17), gegeven verbod;
 
-- b. een der krachtens [artikel 3**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3a&z=2002-10-01&g=2002-10-01), [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2002-10-01&g=2002-10-01), [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=5&z=2002-10-01&g=2002-10-01), of [artikel 6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01), gegeven voorschriften;
+- b. een krachtens [artikel 3c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2003-03-17&g=2003-03-17), of [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17), gegeven voorschrift;
 
-- c. een der voorschriften verbonden aan een verlof als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=6&z=2002-10-01&g=2002-10-01) of gesteld bij de beschikking tot intrekking als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=7&z=2002-10-01&g=2002-10-01),
+- c. een krachtens [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8a&z=2003-03-17&g=2003-03-17), aan een ontheffing verbonden voorschrift;
 
 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-2. Hij die opzettelijk handelt in strijd met het in [artikel 2, eerste lid, onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), het in [artikel 3**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3b&z=2002-10-01&g=2002-10-01), of het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+2. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17), het in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), of het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-3. Hij die opzettelijk handelt in strijd met het in [artikel 2, eerste lid, onder B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
+3. Hij die opzettelijk handelt in strijd met het in [artikel 2 onder B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-4. Hij die opzettelijk handelt in strijd met een in [artikel 2, eerste lid, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
+4. Hij die opzettelijk handelt in strijd met een in [artikel 2 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 5. Indien het feit, bedoeld in het tweede onderscheidenlijk het vierde lid, betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, wordt gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie opgelegd.
 
 ##### Artikel 10a
 
-1. Hij die om een feit, bedoeld in het [derde of vierde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2002-10-01&g=2002-10-01), voor te bereiden of te bevorderen:
+1. Hij die om een feit, bedoeld in het [derde of vierde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2003-03-17&g=2003-03-17), voor te bereiden of te bevorderen:
 
 - 1°. een ander tracht te bewegen om dat feit te plegen, te doen plegen, mede te plegen of uit te lokken, om daarbij behulpzaam te zijn of om daartoe gelegenheid, middelen of inlichtingen te verschaffen,
 
@@ -241,45 +239,45 @@ wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de
 
 ##### Artikel 11
 
-1. Hij die handelt in strijd met een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) gegeven verbod, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+1. Hij die handelt in strijd met een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) gegeven verbod, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-2. Hij die opzettelijk handelt in strijd met een in [artikel 3, eerste lid onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+2. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-3. Hij die in de uitoefening van een beroep of bedrijf opzettelijk handelt in strijd met een in [artikel 3, eerste lid, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+3. Hij die in de uitoefening van een beroep of bedrijf opzettelijk handelt in strijd met een in [artikel 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-4. Hij die opzettelijk handelt in strijd met een in [artikel 3, eerste lid onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+4. Hij die opzettelijk handelt in strijd met een in [artikel 3 onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-5. Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van de in onderdeel b van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), bedoelde lijst vermelde middelen van ten hoogste 30 gram.
+5. Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van hennep of hasjiesj van ten hoogste 30 gram.
 
-6. Het tweede en vierde lid zijn niet van toepassing, indien het feit betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, van de in onderdeel a van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01), bedoelde lijst vermelde middelen.
+6. Het tweede en vierde lid zijn niet van toepassing, indien het feit betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, van de in [onderdeel a van de in artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17), bedoelde lijst vermelde middelen.
 
 ##### Artikel 12
 
-Indien de waarde der zaken, waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de [artikelen 10, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2002-10-01&g=2002-10-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2002-10-01&g=2002-10-01), en [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2002-10-01&g=2002-10-01), zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum der geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd.
+Indien de waarde der zaken, waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de [artikelen 10, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2003-03-17&g=2003-03-17), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2003-03-17&g=2003-03-17), en [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2003-03-17&g=2003-03-17), zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum der geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd.
 
 ##### Artikel 13
 
-1. De in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2002-10-01&g=2002-10-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2002-10-01&g=2002-10-01), strafbaar gestelde feiten zijn overtredingen.
+1. De in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2003-03-17&g=2003-03-17), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11&z=2003-03-17&g=2003-03-17), strafbaar gestelde feiten zijn overtredingen.
 
 2. De in artikel 10, tweede, derde, vierde en vijfde lid, in artikel 10**a**, eerste lid, en in artikel 11, tweede, derde en vierde lid, strafbaar gestelde feiten zijn misdrijven.
 
 3. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt aan:
 
-- a. een der in [artikel 10**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2002-10-01&g=2002-10-01), strafbaar gestelde feiten voorzover die zijn gepleegd om het in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2002-10-01&g=2002-10-01), strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel
+- a. een der in [artikel 10**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a&z=2003-03-17&g=2003-03-17), strafbaar gestelde feiten voorzover die zijn gepleegd om het in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2003-03-17&g=2003-03-17), strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel
 
-- b. poging tot of deelneming aan het in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2002-10-01&g=2002-10-01), strafbaar gestelde feit.
+- b. poging tot of deelneming aan het in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10&z=2003-03-17&g=2003-03-17), strafbaar gestelde feit.
 
 ##### Artikel 13a
 
-Onverminderd het bepaalde in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33) tot en met [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=35) en [36**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b) tot en met [36**d** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36d) worden de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2002-10-01&g=2002-10-01) bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.
+Onverminderd het bepaalde in de [artikelen 33 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33) en [36**b** tot en met 36**d** van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36) worden de in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.
 
 ##### Artikel 13b
 
-1. De burgemeester is bevoegd tot toepassing van bestuursdwang indien in voor het publiek toegankelijke lokalen en daarbij behorende erven een middel als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2002-10-01&g=2002-10-01) of 3 wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is.
+1. De burgemeester is bevoegd tot toepassing van bestuursdwang indien in voor het publiek toegankelijke lokalen en daarbij behorende erven een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is.
 
 2. Het eerste lid is niet van toepassing indien de desbetreffende lokalen gebruikt worden ter uitoefening van de artsenijbereidkunst, de geneeskunst, de tandheelkunst of de diergeneeskunde door onderscheidenlijk apothekers, artsen, tandartsen en dierenartsen.
 
-3. Indien de burgemeester op grond van het eerste lid een besluit tot sluiting van het desbetreffende lokaal of erf heeft genomen, doet hij het besluit zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16). [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) van dat boek is niet van toepassing.
+3. Indien de burgemeester op grond van het eerste lid een besluit tot sluiting van het desbetreffende lokaal of erf heeft genomen, doet hij het besluit zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16). [Artikel 24 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
 ##### Artikel 14
 
@@ -785,15 +783,31 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 3c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij algemene maatregel van bestuur kunnen middelen en toepassingen worden aangewezen waarvoor een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) omschreven verbod geheel of ten dele niet geldt.
+
+2. Bij algemene maatregel van bestuur kunnen met betrekking tot middelen als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) regels worden gesteld om naleving van de bepalingen van het Enkelvoudig Verdrag of het Psychotrope Stoffen Verdrag te verzekeren of om misbruik van die middelen te voorkomen.
 
 ##### Artikel 8a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Aan een ontheffing kunnen voorschriften worden verbonden om naleving van de bepalingen van het Enkelvoudig Verdrag en het Psychotrope Stoffen Verdrag en de bij of krachtens deze wet gestelde voorschriften te verzekeren, of om misbruik van een middel als bedoeld in [lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I&z=2003-03-17&g=2003-03-17) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II&z=2003-03-17&g=2003-03-17) te voorkomen.
+
+2. In de ontheffing wordt ten minste vermeld:
+
+- a. voor welke van de verboden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17) zij wordt verleend;
+
+- b. voor welke doeleinden zij wordt verleend;
+
+- c. op welk perceel of in welke lokaliteit de desbetreffende handelingen mogen plaatsvinden;
+
+- d. de wijze van opslag;
+
+- e. de wijze van beveiliging;
+
+- f. de manier waarop de voorraadadministratie is ingericht.
 
 ##### Artikel 8b
 
-Dit onderdeel is nog niet inwerking getreden
+Een ontheffing of een verlenging daarvan wordt geweigerd indien de aanvrager ingevolge een onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld dan wel zijn goederen onder bewind zijn gesteld.
 
 ##### Artikel 8c
 
@@ -801,37 +815,259 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8d
 
-Dit onderdeel is nog niet inwerking getreden
+Een ontheffing wordt ingetrokken:
+
+- a. op aanvraag van de houder van de ontheffing;
+
+- b. indien het belang van de volksgezondheid dit vordert;
+
+- c. indien naar het oordeel van Onze Minister de doeleinden waarvoor de ontheffing is verleend niet meer gerealiseerd kunnen worden;
+
+- d. indien een krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=7&z=2003-03-17&g=2003-03-17), verschuldigde vergoeding niet binnen 30 dagen na heffing is voldaan en evenmin gevolg is gegeven aan de aanmaning van Onze Minister, gedaan na afloop van die termijn, om alsnog binnen acht dagen te betalen.
 
 ##### Artikel 8e
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een ontheffing kan worden ingetrokken:
+
+- indien de houder van de ontheffing handelt in strijd met een bij of krachtens deze wet gesteld voorschrift;
+
+- dit onderdeel is nog niet in werking getreden..
+
+2. Dit lid is nog niet in werking getreden.
 
 ##### Artikel 8f
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene wiens ontheffing wordt ingetrokken ontdoet zich van de middelen waarop de ontheffing betrekking heeft, gedurende het tijdvak, gelegen tussen de mededeling van de intrekking en de laatste dag waarop de ontheffing geldt. Hij ontdoet zich van die middelen hetzij door vernietiging, hetzij door overdracht aan personen, rechtspersonen daaronder begrepen, die bevoegd zijn tot het verrichten van handelingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2&z=2003-03-17&g=2003-03-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2003-03-17&g=2003-03-17).
+
+2. In afwijking van het eerste lid, ontdoet de houder van een ontheffing voor de teelt van hennep zich van de middelen waarop de ontheffing betrekking heeft, hetzij door vernietiging van die middelen, hetzij door overdracht daarvan aan Onze Minister.
 
 ##### Artikel 8g
 
-Dit onderdeel is nog niet inwerking getreden
+Een ontheffing vervalt:
+
+- a. door het overlijden van de houder;
+
+- b. indien ingevolge een onherroepelijk geworden rechterlijke uitspraak de houder van de ontheffing onder curatele is gesteld dan wel zijn goederen onder bewind zijn gesteld;
+
+- c. indien de rechtspersoon aan wie de ontheffing is verleend, wordt ontbonden, fuseert en niet de verkrijgende rechtspersoon is, of wordt gesplitst.
 
 ##### Artikel 8h
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister draagt ervoor zorg dat:
+
+- a. in Nederland voldoende hennep wordt geteeld voor wetenschappelijk onderzoek naar de geneeskundige toepassing van hennep, hasjiesj en hennepolie of voor de productie van geneesmiddelen;
+
+- b. de geteelde hennep, bedoeld onder a, wordt gebruikt voor een onder a genoemd doel.
 
 ##### Artikel 8i
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister verleent niet meer ontheffingen van het verbod tot teelt van hennep dan nodig is voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2003-03-17&g=2003-03-17) bedoelde doeleinden en voor de veredeling van hennep.
+
+2. Een ontheffing van het verbod op het telen van hennep dan wel tot het verwerken, bewerken of vervoeren van hennep, hasjiesj en hennepolie voor de in [artikel 8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h&z=2003-03-17&g=2003-03-17) genoemde doeleinden, wordt slechts verleend aan degene met wie Onze Minister ter zake een overeenkomst tot het verrichten van zodanige handelingen aangaat.
+
+3. Een overeenkomst als bedoeld in het tweede lid eindigt van rechtswege met ingang van de datum waarop de aan de wederpartij verleende ontheffing wordt ingetrokken of vervalt.
+
+4. In een overeenkomst als bedoeld in het tweede lid, wordt in elk geval bepaald dat de wederpartij van Onze Minister de geteelde hennep binnen vier maanden na het oogsten uitsluitend aan hem verkoopt en aflevert en de overtollige hennep vernietigt.
+
+5. Onze Minister is met uitsluiting van anderen bevoegd hennep, hasjiesj en hennepolie:
+
+- a. binnen of buiten het grondgebied van Nederland te brengen;
+
+- b. te verkopen en af te leveren;
+
+- c. aanwezig te hebben, met uitzondering van de voorraden die worden beheerd door degenen die ontheffing hebben deze middelen te telen, te bewerken of te verwerken.
+
+6. Het vijfde lid is niet van toepassing voor zover toepassingen van hennep, hasjiesj of hennepolie krachtens [artikel 3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3c&z=2003-03-17&g=2003-03-17), zijn aangewezen.
 
 ##### Artikel 8j
 
-Dit onderdeel is nog niet inwerking getreden
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid en de ambtenaren van de belastingdienst, bevoegd inzake douane.
 
 ##### Artikel 8k
 
-Dit onderdeel is nog niet inwerking getreden
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, behalve de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen personen, belast de ambtenaren, bedoeld in [artikel 8j](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8j&z=2003-03-17&g=2003-03-17).
 
-## Lijst I. behorende bij de Opiumwet
+## Lijst I
+
+| International Non-proprietary Name (INN)1 | andere benamingen | nadere omschrijving |
+| --- | --- | --- |
+| acetorfine | – |   |
+| – | acetyl-**alfa**-methylfentanyl | **N**-[1-(**alfa**-methylfenethyl)-4-piperidyl]-acetanilide |
+| – | acetyldihydrocodeïne | 4,5-epoxy-3-methoxy-**N**-methylmorfinan-6-yl-acetaat |
+| acetylmethadol | – |   |
+| alfacetylmethadol | – |   |
+| alfameprodine | – |   |
+| alfamethadol | – |   |
+| – | **alfa**-methylfentanyl | **N**-[1(**alfa**-methylfenethyl)-4-piperidyl]propionanilide |
+| – | **alfa**-methylthiofentanyl | **N**-[1-[1-methyl-2-(2-thienyl)ethyl]-4-piperidyl]propionanilide |
+| alfaprodine | – |   |
+| alfentanil | – |   |
+| allylprodine | – |   |
+| amfetamine | – |   |
+| anileridine | – |   |
+| benzethidine | – |   |
+| – | benzylmorfine | 3-benzoyloxy-4,5-epoxy-**N**-methyl-7-morfineen-6-ol |
+| betacetylmethadol | – |   |
+| – | **beta**-hydroxy-3-methylfentanyl | **N**-[1-(**beta**-hydroxyfenethyl)-3-methyl-4-piperidyl]propionanilide |
+| – | **beta**-hydroxyfentanyl | **N**-[1-(**beta**-hydroxyfenethyl)-4-piperidyl]-propionanilide |
+| betameprodine | – |   |
+| betamethadol | – |   |
+| betaprodine | – |   |
+| bezitramide | – |   |
+| – | bolkaf | alle delen van de plant Papaver somniferum L. na het oogsten, met uitzondering van het zaad |
+| brolamfetamine | – |   |
+| cathinon | – |   |
+| – | 2C-B | 4-bromo-2,5-dimethoxyfenetylamine |
+| clonitazeen | – |   |
+| – | cocablad | bladeren van planten van het geslacht Erythroxylon |
+| – | cocaïne | (-)-3-**beta-**benzoyloxytropaan-2-**beta-**carbonzure methylester |
+| – | codeïne | 4,5-epoxy-3-methoxy-**N**-methyl-7-morfineen-6-ol |
+| codoxim | – |   |
+| – | concentraat van bolkaf | het materiaal dat wordt verkregen door bolkaf te onderwerpen aan een behandeling ter concentratie van zijn alkaloïden |
+| desomorfine | – |   |
+| dexamfetamine | – |   |
+| dextromoramide | – |   |
+| dextropropoxyfeen | – |   |
+| diampromide | – |   |
+| diëthylthiambuteen | – |   |
+| – | **N,N**-diëthyltryptamine, DET | 3-[2-(diethylamino)ethyl]indol |
+| difenoxine | – |   |
+| difenoxylaat | – |   |
+| dihydrocodeïne | – |   |
+| – | dihydroethorfine | 7,8-dihydro-7-**alfa**-[1-(**R**)-hydroxy- 1-methylbutyl]-6,14-**endo**-ethano-tetrahydro-oripavine |
+| – | dihydromorfine | 4,5-epoxy-**N**-methylmorfinan-3,6-diol |
+| dimefeptanol | – |   |
+| dimenoxadol | – |   |
+| – | 2,5-dimethoxyamfetamine, DMA | (±)-2,5-dimethoxy-**alfa**-methylfenethylamine |
+| – | 2,5-dimethoxy-4-ethylamfetamine, DOET | (±)-4-ethyl-2,5-dimethoxy-**alfa**-methylfenethylamine |
+| – | 2,5-dimethoxy-4-methamfetamine, STP, DOM | 2,5-dimethoxy-**alfa**,4-dimethylfenethylamine |
+| dimethylthiambuteen | – |   |
+| – | **N,N-**dimethyltryptamine, DMT | 3-[2-(dimethylamino)ethyl]indol |
+| dioxafetylbutiraat | – |   |
+| dipipanon | – |   |
+| – | DMHP | 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6**H**-dibenzo[**b,d**]pyran-1-ol |
+| drotebanol | – |   |
+| – | ecgonine | 3-hydroxy-2-tropaancarbonzuur |
+| – | **N**-ethyl-3,4-methyleendioxy-amfetamine, **N**-ethyl-MDA | (±)-**N**-ethyl-**alfa**-methyl-3,4-(methyleen-dioxy)fenethylamine |
+| ethylmethylthiambuteen | – |   |
+| – | ethylmorfine | 4,5-epoxy-3-ethoxy-**N**-methyl-7-morfineen-6-ol |
+| eticyclidine | – |   |
+| etonitazeen | – |   |
+| etorfine | – |   |
+| etoxeridine | – |   |
+| etryptamine | – |   |
+| fenadoxon | – |   |
+| fenampromide | – |   |
+| fenazocine | – |   |
+| fencyclidine | – |   |
+| fenetylline | – |   |
+| fenmetrazine | – |   |
+| fenomorfan | – |   |
+| fenoperidine | – |   |
+| fentanyl | – |   |
+| folcodine | – |   |
+| – | furethidine | 1-(2-tetrahydrofurfuryloxyethyl)-4-fenyl-piperidine-4-carbonzure ethylester |
+| – | hennepolie | concentraat van planten van het geslacht Cannabis (hennep) verkregen door extractie van hennep of hasjiesj, al dan niet vermengd met olie |
+| – | heroïne, diamorfine | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat |
+| hydrocodon | – |   |
+| hydromorfinol | – |   |
+| hydromorfon | – |   |
+| – | **N**-hydroxymethyleen-dioxy-amfetamine, **N**-hydroxyMDA | (±)-**N**-[**alfa**-methyl-3,4-(methyleendioxy)-fenethyl]hydroxylamine |
+| hydroxypethidine | – |   |
+| isomethadon | – |   |
+| ketobemidon | – |   |
+| levamfetamine | – |   |
+| levofenacylmorfan | – |   |
+| – | levomethamfetamine | (-)-**N**,**alfa**-dimethylfenethylamine |
+| levomethorfan | – |   |
+| levomoramide | – |   |
+| levorfanol | – |   |
+| lysergide |   |   |
+| mecloqualon | – |   |
+| – | mescaline | 3,4,5-trimethoxyfenethylamine |
+| metamfetamine | – |   |
+| metamfetamine racemaat | – |   |
+| metazocine | – |   |
+| methadon | – |   |
+| – | methadon-tussenproduct | 4-cyano-2-dimethylamino-4,4-difenylbutaan |
+| methaqualon | – |   |
+| – | methcathinon | (2-methylamino)-1-fenylpropaan-1-on |
+| – | 2-methoxy-4,5-methyleendioxyamfetamine, MMDA | 2-methoxy-**alfa**-methyl-4,5-(methyleendioxy)- fenethylamine |
+| – | 4-methylaminorex | (±)-**cis-**2-amino-4-methyl-5-fenyl-2-oxazoline |
+| methyldesorfine | – |   |
+| methyldihydromorfine | – |   |
+| – | 3,4-methyleendioxymethamfetamine, MDMA | (±)-**N**,**alfa**-dimethyl-3,4-(methyleendioxy)-fenethylamine |
+| methylfenidaat | – |   |
+| – | 3-methylfentanyl | **N**-(3-methyl-1-fenethyl-4-piperidyl)propionanilide |
+| – | MPPP | 1-methyl-4-fenyl-4-piperidinol propionaat (ester) |
+| – | 4-methylthioamfetamine, 4-MTA | 4-methylthio-**alfa**-methylfenethylamine |
+| – | 3-methylthiofentanyl | **N**-[3-methyl-1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide |
+| metopon | – |   |
+| – | moramide-tussenproduct | 2-methyl-3-morfolino-1,1-difenylpropaan-carbonzuur |
+| morferidine | – |   |
+| – | morfine | 4,5-epoxy-**N**-methyl-7-morfineen-3,6-diol |
+| – | morfine-methobromide | 4,5-epoxy-**N**-methyl-7-morfineen-3,6-diol methylbromide |
+| – | morfine-**N**-oxide | 4,5-epoxy-3,6-dihydroxy-**N**-methyl-7-morfine |
+| myrofine | – |   |
+| nicocodine | – |   |
+| nicodicodine | – |   |
+| nicomorfine | – |   |
+| noracymethadol | – |   |
+| norcodeïne | – |   |
+| norlevorfanol | – |   |
+| normethadon | – |   |
+| normorfine | – |   |
+| norpipanon | – |   |
+| – | opium | het gestremde melksap, verkregen van de plant Papaver somniferum L. |
+| oxycodon | – |   |
+| oxymorfon | – |   |
+| – | **para**-fluorfentanyl | 4'-fluoro-**N**-(1-fenethyl-4-piperidyl)propionanilide |
+| – | parahexyl | 3-hexyl-7,8,9,10-tetrahydro-6,6,9-trimethyl-6**H**- dibenzo[**b,d**]pyran-1-ol |
+| – | **para**-methoxyamfetamine, PMA | **p**-methoxy-**alfa**-methylfenethylamine |
+| – | **para**-methoxymethamfetamine, PMMA | **N**-methyl-1-(4-methoxyfenyl)-2-aminopropaan |
+| – | PEPAP | 1-fenethyl-4-fenyl-4-piperidinolacetaat (ester) |
+| pethidine | – |   |
+| – | pethidine-tussenproduct A | 4-cyano-1-methyl-4-phenylpiperidine |
+| – | pethidine-tussenproduct B | 4-fenylpiperidine-4-carbonzure ethylester |
+| – | pethidine-tussenproduct C | 1-methyl-4-fenylpiperidine-4-carbonzuur |
+| piminodine | – |   |
+| piritramide | – |   |
+| proheptazine | – |   |
+| properidine | – |   |
+| propiram | – |   |
+| – | psilocine | 3-[2-(dimethylamino)ethyl]indol-4-ol |
+| psilocybine | – |   |
+| racemethorfan | – |   |
+| racemoramide | – |   |
+| racemorfan | – |   |
+| remifentanil | – |   |
+| rolicyclidine | – |   |
+| secobarbital | – |   |
+| sufentanil | – |   |
+| tenamfetamine | – |   |
+| tenocyclidine | – |   |
+| – | tetrahydrocannabinol | (6**aR**,10**aR**)-6**a**,7,8,10**a**-tetrahydro-6,6,9-trimethyl-3-pentyl-6**H**-dibenzo[**b,d**]pyran-1-ol |
+| thebacon | – |   |
+| – | thebaïne | 4,5-epoxy-3,6-dimethoxy-**N**-methyl-6,8-morfine |
+| – | thiofentanyl | **N**-[1-[2-(2-thienyl)ethyl]-4- piperidyl]propionanilide |
+| tilidine | – |   |
+| trimeperidine | – |   |
+| – | 3,4,5-trimethoxyamfetamine, TMA | (±)-3,4,5-trimethoxy-**alfa**-methylfenethylamine |
+| zipeprol | – |   |
+
+1 De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming.
+
+de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en cocaïne;
+
+de mono- en di-alkylamide-, de pyrrolidine- en morfolinederivaten van lyserginezuur, en de daarvan door invoering van methyl-, acetyl- of halogeengroepen verkregen middelen;
+
+vijfwaardige stikstof-gesubstitueerde morfinederivaten, waaronder begrepen morfine-**N**-oxide-derivaten, zoals codeïne-**N**-oxide;
+
+de isomeren en stereoisomeren van tetrahydrocannabinol;
+
+de ethers, esters en enantiomeren van de bovengenoemde substanties, met uitzondering van dextromethorfan (INN) als enantiomeer van levomethorfan en racemethorfan, en met uitzondering van dextrorfanol (INN) als enantiomeer van levorfanol en racemorfan;
+
+preparaten die één of meer van de bovengenoemde substanties bevatten.
 
 ### A. Substanties, voorkomende op de Lijst I bedoeld in artikel 2, eerste lid van het enkelvoudig Verdrag
 
@@ -894,5 +1130,87 @@ Zolpidem
 Hennep, waaronder wordt begrepen elk deel van de plant van het geslacht Cannabis, waaraan de hars niet is onttrokken, met uitzondering van de zaden.
 
 Gebruikelijke vaste mengsels van hennephars en plantaardige elementen van hennep (zoals hashish, esrar, chiras en djamba), waaraan geen andere substanties zijn toegevoegd.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+## Lijst II
+
+| International Non-proprietary Name (INN) | andere benamingen | nadere omschrijving |
+| --- | --- | --- |
+| allobarbital | – |   |
+| alprazolam | – |   |
+| amobarbital | – |   |
+| amfepramon | – |   |
+| aminorex | – |   |
+| barbital | – |   |
+| benzfetamine | – |   |
+| bromazepam | – |   |
+| brotizolam | – |   |
+| buprenorfine | – |   |
+| butalbital | – |   |
+| – | butobarbital | 2-bromo-4-(**o**-chlorofenyl)-9-methyl-6**H**-thieno[3,2-**f**]-**s**-triazolo[ 4,3-**a**][1,4]diazepine |
+| camazepam | – |   |
+| cathine | – |   |
+| chlordiazepoxide | – |   |
+| clobazam | – |   |
+| clonazepam | – |   |
+| clorazepaat | – |   |
+| clotiazepam | – |   |
+| cloxazolam | – |   |
+| cyclobarbital | – |   |
+| delorazepam | – |   |
+| diazepam | – |   |
+| estazolam | – |   |
+| ethchlorvynol | – |   |
+| ethinamaat | – |   |
+| ethylloflazepaat | – |   |
+| ethylamfetamine | – |   |
+| fencamfamine | – |   |
+| fendimetrazine | – |   |
+| fenobarbital | – |   |
+| fenproporex | – |   |
+| fentermine | – |   |
+| fludiazepam | – |   |
+| flunitrazepam | – |   |
+| flurazepam | – |   |
+| gluthethimide | – |   |
+| halazepam | – |   |
+| haloxazolam | – |   |
+| – | hasjiesj | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten |
+| – | hennep | elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden |
+|   |   | 4-hydroxyboterzuur |
+| ketazolam | – |   |
+| lefetamine | – |   |
+| loprazolam | – |   |
+| lorazepam | – |   |
+| lormetazepam | – |   |
+| mazindol | – |   |
+| medazepam | – |   |
+| mefenorex | – |   |
+| meprobamaat | – |   |
+| mesocarb | – |   |
+| methylfenobarbital | – |   |
+| methyprylon | – |   |
+| midazolam | – |   |
+| nimetazepam | – |   |
+| nitrazepam | – |   |
+| nordazepam | – |   |
+| oxazepam | – |   |
+| oxazolam | – |   |
+| pemoline | – |   |
+| pentazocine | – |   |
+| pentobarbital | – |   |
+| pinazepam | – |   |
+| pipradrol | – |   |
+| prazepam | – |   |
+| pyrovaleron | – |   |
+| secbutabarbital | – |   |
+| temazepam | – |   |
+| tetrazepam | – |   |
+| triazolam | – |   |
+| vinylbital | – |   |
+| zolpidem | – |   |
+
+Preparaten die één of meer van de bovengenoemde substanties bevatten, met uitzondering van hennepolie.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
