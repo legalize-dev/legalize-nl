@@ -69,9 +69,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 Deze regeling wordt aangehaald als: Regeling vrijlating vergoedingen scholing Werkloosheidswet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Aanvulling wettelijke grondslag
-
-Deze regeling berust op [artikel 47a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47a).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
