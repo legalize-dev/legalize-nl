@@ -305,27 +305,3 @@ Dit besluit treedt in werking op het tijdstip waarop de Wet van 13 juli 2002 tot
 - d. preparaten van vorenstaande opiumwetmiddelen, voor zover deze geen opiumwetmiddelen bevatten die niet in deze bijlage worden genoemd.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage 2. behorende bij het Opiumwetbesluit
-
-- a. het op [Lijst I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde middel heroïne, diamorfine
-
-- b. preparaten van het onder a bedoelde middel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 15a
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 6. Aangewezen instellingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-## Bijlage 2. behorende bij het Opiumwetbesluit
-
-- a. het op [Lijst I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde middel heroïne, diamorfine
-
-- b. preparaten van het onder a bedoelde middel.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
