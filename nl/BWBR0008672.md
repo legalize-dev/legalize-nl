@@ -62,7 +62,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 6
 
 Dit besluit kan worden aangehaald als ’Besluit gebruik stormvloedkering Nieuwe Waterweg’.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=1).
