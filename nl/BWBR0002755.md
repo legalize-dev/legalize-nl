@@ -4,7 +4,7 @@ identifier: "BWBR0002755"
 country: "nl"
 rank: "wet"
 publication_date: "2021-03-01"
-last_updated: "2002-01-01"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002755"
 soort: "wet"
@@ -55,9 +55,9 @@ produkten: alle voortbrengselen van de landbouw en de visserij, alsmede de bij b
 
 bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;
 
-landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2002-01-01&g=2002-01-01);
+landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2004-04-01&g=2004-04-01);
 
-controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01).
+controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01).
 
 2. Voor de toepassing van het bepaalde bij of krachtens deze wet wordt mede verstaan onder:
 
@@ -97,7 +97,7 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 3. Verordeningen, bedoeld in het tweede lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en, op aanvrage, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften te verlenen.
 
-4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2004-04-01&g=2004-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -105,7 +105,7 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 2. Bij dat besluit bepalen Wij tevens, in welke gevallen Onze Minister of Onze Minister en Onze Ministers, wie het mede aangaat, tezamen regelen krachtens een landbouwkwaliteitsbesluit niet vaststellen dan in overeenstemming met Onze Minister van Economische Zaken met het oog op de daarbij betrokken consumentenbelangen.
 
-3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2002-01-01&g=2002-01-01), mede de goedkeuring van Onze genoemde Minister.
+3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2004-04-01&g=2004-04-01), mede de goedkeuring van Onze genoemde Minister.
 
 ##### Artikel 6
 
@@ -129,9 +129,9 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 ##### Artikel 9
 
-1. In een landbouwkwaliteitsbesluit kan worden bepaald, dat gedragingen, ter zake waarvan bij of krachtens dat besluit regelen zijn gesteld, uitsluitend zijn toegestaan aan degenen, die zijn aangesloten bij een controle-instelling, daarbij krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01) aangewezen.
+1. In een landbouwkwaliteitsbesluit kan worden bepaald, dat gedragingen, ter zake waarvan bij of krachtens dat besluit regelen zijn gesteld, uitsluitend zijn toegestaan aan degenen, die zijn aangesloten bij een controle-instelling, daarbij krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01) aangewezen.
 
-2. In een landbouwkwaliteitsbesluit kan worden bepaald, dat controle-instellingen, welke daarin krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01) bevoegd zijn verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2002-01-01&g=2002-01-01) bedoeld, die merken, tekenen of bewijsstukken slechts mogen uitreiken aan of ten behoeve van bij hen aangeslotenen.
+2. In een landbouwkwaliteitsbesluit kan worden bepaald, dat controle-instellingen, welke daarin krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01) bevoegd zijn verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2004-04-01&g=2004-04-01) bedoeld, die merken, tekenen of bewijsstukken slechts mogen uitreiken aan of ten behoeve van bij hen aangeslotenen.
 
 ##### Artikel 10
 
@@ -145,9 +145,9 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 - d. zij moet door de samenstelling van haar bestuur een algemeen de belanghebbenden vertegenwoordigend karakter hebben;
 
-- e. zij moet, indien bij of krachtens een landbouwkwaliteitsbesluit overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2002-01-01&g=2002-01-01) een keuring is voorgeschreven, een reglement vaststellen betreffende het verloop van de keuring en van het uitreiken van merken, tekenen en bewijsstukken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2002-01-01&g=2002-01-01), indien de instelling overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01) tot dat keuren en uitreiken bevoegd is verklaard; zij moet in dat reglement tevens regelen stellen inzake het maken van bezwaar tegen bij de keuring genomen beslissingen.
+- e. zij moet, indien bij of krachtens een landbouwkwaliteitsbesluit overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2004-04-01&g=2004-04-01) een keuring is voorgeschreven, een reglement vaststellen betreffende het verloop van de keuring en van het uitreiken van merken, tekenen en bewijsstukken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2004-04-01&g=2004-04-01), indien de instelling overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01) tot dat keuren en uitreiken bevoegd is verklaard; zij moet in dat reglement tevens regelen stellen inzake het maken van bezwaar tegen bij de keuring genomen beslissingen.
 
-2. Een controle-instelling als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01), moet in zoverre in afwijking van het in het eerste lid bepaalde:
+2. Een controle-instelling als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01), moet in zoverre in afwijking van het in het eerste lid bepaalde:
 
 - -. ten doel hebben de goede hoedanigheid van een of meer produkten door middel van betaling naar gelang van de kwaliteit te bevorderen;
 
@@ -157,7 +157,7 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 ##### Artikel 11
 
-1. Een controle-instelling kan bedragen vaststellen voor de kosten van toezicht, keuring en, indien zij is een controle-instelling, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2002-01-01&g=2002-01-01), de in dat lid bedoelde uitvoering; zij regelt daarbij de wijze van inning van het uit dien hoofde door aangeslotenen verschuldigde.
+1. Een controle-instelling kan bedragen vaststellen voor de kosten van toezicht, keuring en, indien zij is een controle-instelling, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2004-04-01&g=2004-04-01), de in dat lid bedoelde uitvoering; zij regelt daarbij de wijze van inning van het uit dien hoofde door aangeslotenen verschuldigde.
 
 2. Regelingen, bedoeld in het eerste lid, behoeven de goedkeuring van Onze Minister. Zij worden door de zorg van Onze Minister in de **Staatscourant** bekendgemaakt.
 
@@ -173,21 +173,23 @@ in- en uitvoer: iedere handeling, die kennelijk rechtstreeks gericht is op het b
 
 ##### Artikel 13
 
-1. Bij overtreding van het bepaalde bij of krachtens een landbouwkwaliteitsbesluit door aangeslotenen bij een controle-instelling kunnen een of meer der volgende maatregelen worden opgelegd:
+1. Bij overtreding van bij of krachtens een landbouwkwaliteitsbesluit gestelde regelen kunnen een of meer van de volgende tuchtrechtelijke maatregelen worden opgelegd:
 
 - a. berisping;
 
-- b. geldboete van de derde categorie;
+- b. geldboete;
 
-- c. het stellen van de aangeslotene onder verscherpte controle op zijn kosten voor ten hoogste twee jaren;
+- c. het stellen van de betrokkene onder verscherpte controle op zijn kosten voor ten hoogste twee jaren;
 
-- d. openbaarmaking van de tuchtbeschikking op kosten van de aangeslotene.
+- d. openbaarmaking van de uitspraak op kosten van de betrokkene.
 
-2. De artikelen 2, 4, 5, eerste lid, 6, 7, 9-33, 34, eerste lid, en 36 eerste zin, van de [Wet tuchtrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002145) zijn van overeenkomstige toepassing. De controle-instelling geeft aan de opbrengsten van de geldboeten een bijzondere bestemming, welke de goedkeuring van Onze Minister behoeft.
+2. De controle-instelling regelt bij reglement de samenstelling en bevoegdheid van haar organen die de tuchtrechtspraak uitoefenen, alsmede de rechtsgang van het tuchtrechtelijk geding, een en ander met inachtneming van bij algemene maatregel van bestuur te stellen regelen.
 
-3. De controle-instelling regelt bij reglement de samenstelling en bevoegdheid van haar organen die de tuchtrechtspraak uitoefenen, alsmede de rechtsgang van het tuchtrechtelijk geding, een en ander met inachtneming van bij algemene maatregel van bestuur te stellen regelen.
+3. De [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=1), [3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=3), [21 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=21), [27 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=27), [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=42), en [44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=44) zijn van overeenkomstige toepassing, met dien verstande dat onder «de voorzitter van het bedrijfslichaam» en «bedrijfslichaam» in die artikelen telkens moet worden verstaan: de controle-instelling.
 
-4. In afwijking van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan tegen een besluit van een tuchtgerecht of een centraal tuchtgerecht, ingesteld door een controle-instelling, geen bezwaar worden gemaakt.
+4. De controle-instelling geeft aan de opbrengsten van de geldboeten een bijzondere bestemming, welke de goedkeuring van Onze Minister behoeft.
+
+5. In afwijking van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan tegen een besluit van een tuchtgerecht of een centraal tuchtgerecht, ingesteld door een controle-instelling, geen bezwaar worden gemaakt.
 
 ##### Artikel 14
 
@@ -213,7 +215,7 @@ Vervallen
 
 1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2002-01-01&g=2002-01-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2004-04-01&g=2004-04-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
 
 ##### Artikel 19
 
