@@ -4,7 +4,7 @@ identifier: "BWBV0004033"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2004-11-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004033"
 soort: "verdrag"
@@ -1157,38 +1157,28 @@ De Raad wordt door zijn Voorzitter, op diens initiatief, op initiatief van één
 
 1. Voor zover in dit Verdrag niet anders is bepaald, neemt de Raad zijn besluiten met volstrekte meerderheid van stemmen van zijn leden.
 
-2. Voor de besluiten van de Raad waarvoor een gekwalificeerde meerderheid is vereist, worden de stemmen der leden als volgt gewogen:
+2. Voor de besluiten van de Raad waarvoor een gekwalificeerde meerderheid vereist is, worden de stemmen der leden als volgt gewogen:
 
 | België | 12 |
 | --- | --- |
-| Tsjechië | 12 |
 | Denemarken | 7 |
 | Duitsland | 29 |
-| Estland | 4 |
 | Griekenland | 12 |
 | Spanje | 27 |
 | Frankrijk | 29 |
 | Ierland | 7 |
 | Italië | 29 |
-| Cyprus | 4 |
-| Letland | 4 |
-| Litouwen | 7 |
 | Luxemburg | 4 |
-| Hongarije | 12 |
-| Malta | 3 |
 | Nederland | 13 |
 | Oostenrijk | 10 |
-| Polen | 27 |
 | Portugal | 12 |
-| Slovenië | 4 |
-| Slowakije | 7 |
 | Finland | 7 |
 | Zweden | 10 |
 | Verenigd Koninkrijk | 29 |
 
-De besluiten van de Raad komen tot stand wanneer zij ten minste 232 stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
+De besluiten komen tot stand wanneer zij ten minste honderdnegenenzestig stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
 
-In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 232 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen.
+In de overige gevallen komen de besluiten tot stand wanneer zij ten minste honderdnegenenzestig stemmen hebben verkregen, en ten minste twee derden van de leden voorstemmen.
 
 3. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het aannemen der besluiten van de Raad waarvoor eenparigheid van stemmen is vereist.
 
@@ -1244,9 +1234,9 @@ Jaarlijks, ten minste een maand vóór de opening van de zitting van het Europee
 
 1. De leden van de Commissie worden op grond van hun algemene bekwaamheid gekozen en bieden alle waarborgen voor onafhankelijkheid.
 
-Het aantal leden van de Commissie is kleiner dan het aantal lidstaten. De leden van de Commissie worden gekozen volgens een toerbeurtsysteem op voet van gelijkheid waarvan de nadere regels door de Raad met eenparigheid van stemmen worden vastgesteld.
+In de Commissie heeft een onderdaan van elke lidstaat zitting.
 
-Het aantal leden van de Commissie wordt door de Raad met eenparigheid van stemmen vastgesteld.
+Het aantal leden van de Commissie kan door de Raad met eenparigheid van stemmen worden gewijzigd.
 
 2. De leden van de Commissie oefenen hun ambt volkomen onafhankelijk uit in het algemeen belang van de Gemeenschap.
 
