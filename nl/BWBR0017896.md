@@ -4,7 +4,7 @@ identifier: "BWBR0017896"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-01-19"
-last_updated: "2005-01-01"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017896"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Ter zake van de aanvaarding geldt als voorwaarde dat niet eerder dan na twee jar
 
 - a. zijn er op grond van aantallen nog steeds voldoende gronden voor uitoefening van de voogdij, de voorlopige voogdij en de (voorlopige) ondertoezichtstelling door de Stichting Nidos, in plaats van door een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1)?
 
-- b. is voldaan aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017896&artikel=2&z=2005-01-19&g=2005-01-01) opgenomen voorwaarden, en
+- b. is voldaan aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017896&artikel=2&z=2005-01-19&g=2005-01-19) opgenomen voorwaarden, en
 
 - c. op welke wijze is voorzien in scheiding van voogdij en opvang?
 
