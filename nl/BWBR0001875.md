@@ -237,19 +237,3 @@ Alle noodzakelijke kosten, ter zake van de uitvoerbaarverklaring van uitspraken 
 Deze wet treedt in werking op een nader door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11a
-
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
-
-##### Artikel 18a
-
-Een afwijzende beslissing op grond van artikel 15, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2 en artikel 14, tweede lid van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
-
-#### Rogatoire commissiën door den Nederlandschen rechter opgedragen
-
-#### Verhaal der proceskosten
-
-#### Slotbepaling
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
