@@ -586,13 +586,3 @@ De regeling zal worden geplaatst in de MP-31-serie.
 ##### Artikel 24
 
 Deze regeling wordt aangehaald als: Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
-
-##### Artikel 22c
-
-De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2004-01-01&g=2004-01-01), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
-
-##### Artikel 20c
-
-De in de artikelen 18, 20, tweede lid, 20a en 20b genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer.
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
