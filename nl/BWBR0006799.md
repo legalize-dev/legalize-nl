@@ -221,19 +221,3 @@ Deze wet treedt in werking op de dertigste dag na de datum van uitgifte van het 
 Deze wet kan worden aangehaald als: Rijkswet goedkeuring en bekendmaking verdragen.
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 16a
-
-Indien elektronische uitgifte van het Tractatenblad op de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=16&z=2009-07-01&g=2009-07-01) voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze minister van Buitenlandse Zaken in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
-
-##### Artikel 16b
-
-1. Aan een ieder wordt op verzoek een papieren afschrift van het Tractatenblad verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
-
-2. Onze minister van Buitenlandse Zaken wijst een uitgiftepunt aan waar het afschrift verkregen kan worden.
-
-##### Artikel 16c
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
