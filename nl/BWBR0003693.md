@@ -4,7 +4,7 @@ identifier: "BWBR0003693"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2003-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003693"
 soort: "AMvB"
@@ -48,45 +48,45 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- -. de wet: de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664) (**Stb.** 1984, 94);
+- -. de wet: de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664);
 
-- -. de minimum-grondslag: het bedrag bedoeld in artikel 10, achtste lid, onder **a**, van de wet;
+- -. de minimum-grondslag: het bedrag bedoeld in [artikel 10, achtste lid, onder **a**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10);
 
-- -. de maximum-grondslag: het bedrag bedoeld in artikel 10, achtste lid, onder **b**, van de wet.
+- -. de maximum-grondslag: het bedrag bedoeld in [artikel 10, achtste lid, onder **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10).
 
 ##### Artikel 2
 
-1. Bij het bepalen van de financiële draagkracht van het burger-oorlogsslachtoffer ter zake van kosten van voorzieningen, welke als bijzondere kosten in de zin van artikel 33, derde lid, van de wet worden aangemerkt, wordt uitgegaan van het onzuivere inkomen in de zin van de Wet op de inkomstenbelasting 1964.
+1. Bij het bepalen van de financiële draagkracht van het burger-oorlogsslachtoffer ter zake van de toekenning van een tegemoetkoming in kosten van voorzieningen als bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=33) wordt als zijn inkomen aangemerkt:
 
-2. In afwijking van het eerste lid worden de zuivere inkomsten uit vermogen vastgesteld op 6% per jaar van het vermogen, met dien verstande dat van het aldus berekende bedrag buiten beschouwing wordt gelaten:
+- a. de uitkering berekend op grond van [hoofdstuk II, paragraaf 3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&paragraaf=3) met uitzondering van de toeslagen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=22);
 
-- -. over de periode 1 juli 1981 tot 1 januari 1982 een bedrag van f 870,- per jaar;
+- b. de inkomensbestanddelen welke op grond van [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=28) op de uitkering in mindering worden gebracht indien een uitkering wordt genoten, dan wel in mindering zouden worden gebracht indien een uitkering zou worden genoten met dien verstande dat:
 
-- -. over de periode 1 januari 1982 tot 1 januari 1983 een bedrag van f 930,- per jaar;
+- 1. in afwijking van [artikel 28, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=28) voor de vaststelling van de bruto-inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, geen rekening wordt gehouden met een vrijlating van 20% van de uitkeringsgrondslag;
 
-- -. met ingang van 1 januari 1983 een bedrag van f 1.254,-Per 1 januari 2002: € 675,22. per jaar.
+- 2. in afwijking van [artikel 28, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=28) voor de vaststelling van de inkomsten uit ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van een gehuwde gerechtigde rekening wordt gehouden met 50% van het aan de gerechtigde en de echtgenoot toegekende ouderdomspensioen krachtens deze wet;
 
-3. Onder het inkomen bedoeld in het eerste lid, worden niet begrepen de vergoeding en de tegemoetkoming, bedoeld in de artikelen 32 en 33 van de wet dan wel de rentebaten, bedoeld in artikel 44**a**, tweede lid, van de wet.
+- 3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 28, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=28).
+
+2. Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de definitieve vaststelling van de uitkering, bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=60), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend. Indien een uitkering als bedoeld in het eerste lid, onder a, wordt genoten en in de maand met ingang waarvan de tegemoetkoming wordt toegekend een eenmalige grondslagverhoging is uitgekeerd, wordt deze verhoging buiten beschouwing gelaten.
+
+3. Wanneer toepassing is gegeven aan de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=18) of [32, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=32) wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in [artikel 18, eerste lid, onder a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=18).
 
 ##### Artikel 3
 
-1. De financiële draagkracht wordt op jaarbasis berekend en bepaald op:
+De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
-- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2002-01-01&g=2002-01-01) vastgestelde inkomen dat de maximum-grondslag, op jaarbasis, niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag, op jaarbasis, wordt vrijgelaten;
+- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27) vastgestelde inkomen dat de maximum-grondslag niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag wordt vrijgelaten;
 
-- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2002-01-01&g=2002-01-01) vastgestelde inkomen dat de maximum-grondslag, op jaarbasis, overschrijdt.
-
-2. Voor de berekening van de financiële draagkracht wordt, indien de toeslag bedoeld in artikel 19 van de wet is toegekend, van het bedrag dat is berekend met toepassing van het eerste lid, afgetrokken een bedrag ter grootte van 5% van de minimum-grondslag, op jaarbasis, nadat deze grondslag is verminderd met het bedrag bedoeld in artikel 26, eerste lid, van de wet.
+- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27) vastgestelde inkomen dat de maximum-grondslag overschrijdt.
 
 ##### Artikel 4
 
-De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2002-01-01&g=2002-01-01), bedoelde bijzondere kosten wordt vastgesteld op het bedrag waarmede die kosten jaarlijks de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2002-01-01&g=2002-01-01) berekende financiële draagkracht overschrijden.
+De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2003-08-27&g=2003-08-27) berekende financiële draagkracht overschrijden.
 
 ##### Artikel 5
 
-1. Het percentage genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2002-01-01&g=2002-01-01), wordt door Onze Minister herzien, indien naar zijn oordeel belangrijke wijzigingen in het rendement van de staatsleningen, zoals dat wordt gepubliceerd in het **Statistisch Bulletin** van het Centraal Bureau voor de Statistiek, daartoe aanleiding geven.
-
-2. Het bedrag genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2002-01-01&g=2002-01-01), wordt door Onze Minister telkens herzien met ingang van 1 januari, indien en voorzover de ontwikkeling van het prijsindexcijfer van de gezinsconsumptie in de periode 1 november tot en met 31 oktober daaraan voorafgaand, daartoe aanleiding geeft.
+Vervallen
 
 ##### Artikel 6
 
