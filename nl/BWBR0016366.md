@@ -4,7 +4,7 @@ identifier: "BWBR0016366"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2004-03-23"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016366"
 soort: "wet"
@@ -67,13 +67,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - i. overeenstemmingsbeoordeling: onderzoek naar het voldoen aan de essentiële eisen van veiligheidscomponenten of subsystemen;
 
-- j. kabelbaanvergunning: vergunning als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2004-03-23&g=2004-03-23);
+- j. kabelbaanvergunning: vergunning als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2005-01-01&g=2005-01-01);
 
-- k. keuringsinstantie: ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2004-03-23&g=2004-03-23) aangewezen instantie;
+- k. keuringsinstantie: ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01) aangewezen instantie;
 
 - l. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
-2. In [hoofdstuk 4, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&z=2004-03-23&g=2004-03-23), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&z=2004-03-23&g=2004-03-23), wordt onder keuringsinstantie mede verstaan een door een andere lidstaat van de Europese Unie bij de Commissie van de Europese Gemeenschappen aangemelde instantie, belast met de in het kader van de procedure van overeenstemmingsbeoordeling in bijlage V en VII van de richtlijn uit te voeren taken, dan wel het uitvoeren van een veiligheidsanalyse op grond van bijlage III van de richtlijn.
+2. In [hoofdstuk 4, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&z=2005-01-01&g=2005-01-01), en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&z=2005-01-01&g=2005-01-01), wordt onder keuringsinstantie mede verstaan een door een andere lidstaat van de Europese Unie bij de Commissie van de Europese Gemeenschappen aangemelde instantie, belast met de in het kader van de procedure van overeenstemmingsbeoordeling in bijlage V en VII van de richtlijn uit te voeren taken, dan wel het uitvoeren van een veiligheidsanalyse op grond van bijlage III van de richtlijn.
 
 3. In deze wet wordt onder het bouwen van een kabelbaaninstallatie mede verstaan het vernieuwen, veranderen of vergroten van een kabelbaaninstallatie.
 
@@ -127,11 +127,11 @@ Onze Minister kan, met inachtneming van bijlage VIII van de richtlijn, keuringsi
 
 ##### Artikel 6
 
-1. Aan een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2004-03-23&g=2004-03-23) kunnen beperkingen en voorschriften worden verbonden. De voorschriften kunnen mede betrekking hebben op de door de keuringsinstanties in rekening te brengen tarieven.
+1. Aan een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01) kunnen beperkingen en voorschriften worden verbonden. De voorschriften kunnen mede betrekking hebben op de door de keuringsinstanties in rekening te brengen tarieven.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld betreffende de criteria voor de aanwijzing van instanties als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2004-03-23&g=2004-03-23), de wijze van beoordeling, het op keuringsinstanties uit te oefenen toezicht en de door instanties verschuldigde vergoeding voor de kosten van de beoordeling en de uitoefening van het toezicht.
+2. Bij ministeriële regeling kunnen regels worden gesteld betreffende de criteria voor de aanwijzing van instanties als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01), de wijze van beoordeling, het op keuringsinstanties uit te oefenen toezicht en de door instanties verschuldigde vergoeding voor de kosten van de beoordeling en de uitoefening van het toezicht.
 
-3. Onze Minister trekt een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2004-03-23&g=2004-03-23) in:
+3. Onze Minister trekt een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01) in:
 
 - a. op verzoek van de desbetreffende instantie;
 
@@ -141,7 +141,7 @@ Onze Minister kan, met inachtneming van bijlage VIII van de richtlijn, keuringsi
 
 ##### Artikel 7
 
-Onze Minister stelt onverwijld de Commissie van de Europese Gemeenschappen en de andere lidstaten van de Europese Unie in kennis van een aanwijzing of een intrekking daarvan ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2004-03-23&g=2004-03-23) onderscheidenlijk [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=6&z=2004-03-23&g=2004-03-23), en vermeldt in geval van een aanwijzing de aan de aangewezen instantie toegekende taken.
+Onze Minister stelt onverwijld de Commissie van de Europese Gemeenschappen en de andere lidstaten van de Europese Unie in kennis van een aanwijzing of een intrekking daarvan ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01) onderscheidenlijk [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=6&z=2005-01-01&g=2005-01-01), en vermeldt in geval van een aanwijzing de aan de aangewezen instantie toegekende taken.
 
 ### Hoofdstuk 4. De procedure van overeenstemmingsbeoordeling
 
@@ -173,7 +173,7 @@ Onze Minister stelt onverwijld de Commissie van de Europese Gemeenschappen en de
 
 2. De CE-markering wordt zodanig op de veiligheidscomponent of een daaraan bevestigd plaatje aangebracht, dat het zichtbaar en leesbaar is.
 
-3. Indien de procedure bedoeld in [artikel 9, eerste lid, onderdeel a of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2004-03-23&g=2004-03-23), is gevolgd, brengt de constructeur naast de CE-markering het identificatienummer van de keuringsinstantie aan die de procedure uitvoert. Het tweede lid is van overeenkomstige toepassing op het aanbrengen van het identificatienummer.
+3. Indien de procedure bedoeld in [artikel 9, eerste lid, onderdeel a of onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), is gevolgd, brengt de constructeur naast de CE-markering het identificatienummer van de keuringsinstantie aan die de procedure uitvoert. Het tweede lid is van overeenkomstige toepassing op het aanbrengen van het identificatienummer.
 
 ##### Artikel 11
 
@@ -183,7 +183,7 @@ Onze Minister stelt onverwijld de Commissie van de Europese Gemeenschappen en de
 
 ##### Artikel 12
 
-De constructeur verleent de keuringsinstantie en de door deze ingevolge [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=2&artikel=15&z=2004-03-23&g=2004-03-23), aangewezen natuurlijke personen of rechtspersonen, alle medewerking voorzover dat noodzakelijk is ten behoeve van de procedure van overeenstemmingsbeoordeling en de uitoefening van andere in deze wet bedoelde taken.
+De constructeur verleent de keuringsinstantie en de door deze ingevolge [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=2&artikel=15&z=2005-01-01&g=2005-01-01), aangewezen natuurlijke personen of rechtspersonen, alle medewerking voorzover dat noodzakelijk is ten behoeve van de procedure van overeenstemmingsbeoordeling en de uitoefening van andere in deze wet bedoelde taken.
 
 ##### Artikel 13
 
@@ -209,13 +209,13 @@ De constructeur verleent de keuringsinstantie en de door deze ingevolge [artikel
 
 ##### Artikel 16
 
-1. Een keuringsinstantie draagt zorg voor het aanbrengen van haar identificatienummer op elke veiligheidscomponent waarvan zij op basis van de procedure bedoeld in [artikel 9, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2004-03-23&g=2004-03-23), heeft vastgesteld dat de veiligheidscomponent voldoet aan de essentiële eisen.
+1. Een keuringsinstantie draagt zorg voor het aanbrengen van haar identificatienummer op elke veiligheidscomponent waarvan zij op basis van de procedure bedoeld in [artikel 9, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), heeft vastgesteld dat de veiligheidscomponent voldoet aan de essentiële eisen.
 
-2. Een keuringsinstantie stelt ten aanzien van de in het kader van de procedure bedoeld in [artikel 9, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2004-03-23&g=2004-03-23), verrichte proeven een schriftelijke verklaring van overeenstemming op.
+2. Een keuringsinstantie stelt ten aanzien van de in het kader van de procedure bedoeld in [artikel 9, eerste lid, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-01-01&g=2005-01-01), verrichte proeven een schriftelijke verklaring van overeenstemming op.
 
 ##### Artikel 17
 
-1. Een keuringsinstantie stelt voor een subsysteem waarvan zij op basis van de procedure bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=11&z=2004-03-23&g=2004-03-23), heeft vastgesteld dat het voldoet aan de essentiële eisen, een EG-verklaring van overeenstemming, overeenkomstig bijlage VI en een EG-keuringscerficaat overeenkomstig bijlage VII van de richtlijn op, en bepaalt daarbij welke technische documentatie bij het EG-keuringscertificaat wordt gevoegd.
+1. Een keuringsinstantie stelt voor een subsysteem waarvan zij op basis van de procedure bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=11&z=2005-01-01&g=2005-01-01), heeft vastgesteld dat het voldoet aan de essentiële eisen, een EG-verklaring van overeenstemming, overeenkomstig bijlage VI en een EG-keuringscerficaat overeenkomstig bijlage VII van de richtlijn op, en bepaalt daarbij welke technische documentatie bij het EG-keuringscertificaat wordt gevoegd.
 
 2. De technische documentatie bedoeld in het eerste lid, omvat in ieder geval:
 
@@ -263,7 +263,7 @@ De constructeur verleent de keuringsinstantie en de door deze ingevolge [artikel
 
 2. Bij de aanvraag voor een kabelbaanvergunning worden overgelegd:
 
-- a. de voor de kabelbaaninstallatie opgestelde veiligheidsanalyse bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2004-03-23&g=2004-03-23) en het op basis daarvan opgestelde veiligheidsrapport;
+- a. de voor de kabelbaaninstallatie opgestelde veiligheidsanalyse bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2005-01-01&g=2005-01-01) en het op basis daarvan opgestelde veiligheidsrapport;
 
 - b. de EG-verklaringen van overeenstemming en de EG-keuringscertificaten van alle in de kabelbaaninstallatie toe te passen veiligheidscomponenten en subsystemen;
 
@@ -301,9 +301,9 @@ De vergunninghouder bewaart de volgende documenten en bewaart kopieën van deze 
 
 - a. de kabelbaanvergunning;
 
-- b. het veiligheidsrapport bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2004-03-23&g=2004-03-23);
+- b. het veiligheidsrapport bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2005-01-01&g=2005-01-01);
 
-- c. de veiligheidsanalyse bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2004-03-23&g=2004-03-23);
+- c. de veiligheidsanalyse bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2005-01-01&g=2005-01-01);
 
 - d. de EG-keuringscertificaten van de toegepaste subsystemen en technische documentatie inclusief alle documenten met betrekking tot de kenmerken van de kabelbaaninstallatie;
 
@@ -323,7 +323,7 @@ De vergunninghouder bewaart de volgende documenten en bewaart kopieën van deze 
 
 1. Indien Onze Minister van oordeel is dat een veiligheidscomponent die is voorzien van een CE-markering, of een subsysteem dat is voorzien van een EG-verklaring van overeenstemming, ook wanneer die veiligheidscomponent of dat subsysteem in overeenstemming met zijn bestemming wordt gebruikt en op de juiste wijze wordt onderhouden, de veiligheid of gezondheid van personen of de veiligheid van goederen in gevaar kan brengen, neemt hij passende voorlopige maatregelen. Hij kan het gebruik verbieden, aan het gebruik beperkingen stellen, verbieden dat het in de handel wordt gebracht of voorwaarden verbinden aan het in de handel brengen.
 
-2. Onze Minister stelt de Commissie van de Europese Gemeenschappen onmiddellijk en onder opgaaf van redenen in kennis van maatregelen als bedoeld in het eerste lid. Daarbij vermeldt hij of de maatregelen voortvloeien uit het niet beantwoorden aan de essentiële eisen of een verkeerde toepassing van of een leemte in de normen bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=2&artikel=4&z=2004-03-23&g=2004-03-23).
+2. Onze Minister stelt de Commissie van de Europese Gemeenschappen onmiddellijk en onder opgaaf van redenen in kennis van maatregelen als bedoeld in het eerste lid. Daarbij vermeldt hij of de maatregelen voortvloeien uit het niet beantwoorden aan de essentiële eisen of een verkeerde toepassing van of een leemte in de normen bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=2&artikel=4&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 28
 
@@ -333,11 +333,11 @@ De vergunninghouder bewaart de volgende documenten en bewaart kopieën van deze 
 
 ##### Artikel 29
 
-De constructeur of degene die verantwoordelijk is voor het in de handel brengen, verleent alle medewerking die noodzakelijk is voor de uitvoering van maatregelen als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2004-03-23&g=2004-03-23) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2004-03-23&g=2004-03-23).
+De constructeur of degene die verantwoordelijk is voor het in de handel brengen, verleent alle medewerking die noodzakelijk is voor de uitvoering van maatregelen als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2005-01-01&g=2005-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 30
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2004-03-23&g=2004-03-23), en ter uitvoering van de maatregelen bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2004-03-23&g=2004-03-23), en [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2004-03-23&g=2004-03-23).
+Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van het bepaalde in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2005-01-01&g=2005-01-01), en ter uitvoering van de maatregelen bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2005-01-01&g=2005-01-01), en [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2005-01-01&g=2005-01-01).
 
 ### Hoofdstuk 7. Verbodsbepalingen
 
@@ -347,7 +347,7 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van het
 
 2. Het is verboden op veiligheidscomponenten een CE-markering aan te brengen of subsystemen te voorzien van een EG-keuringscertificaat indien deze veiligheidscomponenten of subsystemen niet in overeenstemming zijn met de essentiële eisen, of indien voor deze veiligheidscomponenten of subsystemen geen procedure van overeenstemmingsbeoordeling is gevolgd.
 
-3. Het is verboden te handelen in strijd met een verbod of een maatregel op grond van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2004-03-23&g=2004-03-23) en [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2004-03-23&g=2004-03-23).
+3. Het is verboden te handelen in strijd met een verbod of een maatregel op grond van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2005-01-01&g=2005-01-01) en [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2005-01-01&g=2005-01-01).
 
 ##### Artikel 32
 
@@ -373,15 +373,15 @@ Het is verboden op veiligheidscomponenten merktekens of opschriften aan te breng
 
 1. Deze wet is niet van toepassing op subsystemen en veiligheidscomponenten die voor de inwerkingtreding van deze wet in de handel zijn gebracht.
 
-2. [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2004-03-23&g=2004-03-23), is niet van toepassing op het in bedrijf hebben van een kabelbaaninstallaties die voor de inwerkingtreding van deze wet in bedrijf is gesteld.
+2. [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2005-01-01&g=2005-01-01), is niet van toepassing op het in bedrijf hebben van een kabelbaaninstallaties die voor de inwerkingtreding van deze wet in bedrijf is gesteld.
 
 ##### Artikel 36
 
-1. Tot 4 mei 2004 zijn de [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=2&artikel=3&z=2004-03-23&g=2004-03-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=8&z=2004-03-23&g=2004-03-23), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=11&z=2004-03-23&g=2004-03-23) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=14&z=2004-03-23&g=2004-03-23) niet van toepassing op het in de handel brengen van veiligheidscomponenten en subsystemen.
+1. Tot 4 mei 2004 zijn de [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=2&artikel=3&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=8&z=2005-01-01&g=2005-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=11&z=2005-01-01&g=2005-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=4&paragraaf=1&artikel=14&z=2005-01-01&g=2005-01-01) niet van toepassing op het in de handel brengen van veiligheidscomponenten en subsystemen.
 
-2. Tot 4 mei 2004 zijn de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2004-03-23&g=2004-03-23), [21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2004-03-23&g=2004-03-23), niet van toepassing op de bouw en inbedrijfstelling van kabelbaaninstallaties, met dien verstande dat voor kabelbaaninstallaties waarvoor voor 4 mei 2004 een bouwvergunning is verleend, maar waarvan met de bouw op de datum van inwerkingtreding nog niet is aangevangen, een kabelbaanvergunning is vereist.
+2. Tot 4 mei 2004 zijn de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2005-01-01&g=2005-01-01), [21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=21&z=2005-01-01&g=2005-01-01), niet van toepassing op de bouw en inbedrijfstelling van kabelbaaninstallaties, met dien verstande dat voor kabelbaaninstallaties waarvoor voor 4 mei 2004 een bouwvergunning is verleend, maar waarvan met de bouw op de datum van inwerkingtreding nog niet is aangevangen, een kabelbaanvergunning is vereist.
 
-3. De [artikelen 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=7&artikel=31&z=2004-03-23&g=2004-03-23), en [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=7&artikel=33&z=2004-03-23&g=2004-03-23) zijn tot 4 mei 2004 niet van toepassing.
+3. De [artikelen 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=7&artikel=31&z=2005-01-01&g=2005-01-01), en [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=7&artikel=33&z=2005-01-01&g=2005-01-01) zijn tot 4 mei 2004 niet van toepassing.
 
 ### Hoofdstuk 10. Slotbepalingen
 
@@ -399,19 +399,19 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 40
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Spoorwegwet.
 
 ##### Artikel 41
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Locaalspoor- en Tramwegwet.
 
 ##### Artikel 42
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Spoorwegwet.
 
 ##### Artikel 43
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=10&artikel=40&z=2004-03-23&g=2004-03-23), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=10&artikel=40&z=2005-01-01&g=2005-01-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel 44
 
