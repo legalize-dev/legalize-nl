@@ -79,15 +79,3 @@ Het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk 
 Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1a
-
-1. Artikel 27, paragraaf 1 en 4, van het in artikel 1 bedoelde Verdrag zijn van overeenkomstige toepassing op natuurlijke personen die inwoner zijn van Nederland en uit België beloningen verkrijgen die ingevolge artikel 19, paragraaf 1, ter heffing aan België zijn toegewezen.
-
-2. Artikel 27, paragraaf 2 tot en met 4, van het in artikel 1 bedoelde Verdrag zijn van overeenkomstige toepassing op natuurlijke personen die inwoner zijn van Nederland en die beloningen verkrijgen die voor het tijdstip waarop de bepalingen van dat Verdrag van toepassing zijn, ingevolge de bepalingen van
-
-a. artikel 15, paragraaf 3, subparagraaf 1°, van de op 19 oktober 1970 te Brussel getekende Overeenkomst tussen de regering van het Koninkrijk België en de regering van het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting op het gebied van belastingen naar het inkomen en naar het vermogen en tot het vaststellen van enige andere regelen verband houdende met de belastingheffing, met Protocol, ter heffing aan Nederland waren toegewezen en die ingevolge de bepalingen van artikel 19, paragraaf 1, van het in artikel 1 bedoelde Verdrag ter heffing aan België zijn toegewezen;
-
-b. artikel 15, paragraaf 3, subparagraaf 2°, van de in onderdeel a bedoelde Overeenkomst ter heffing aan Nederland waren toegewezen en die ingevolge de bepalingen van artikel 15 van het in artikel 1 bedoelde Verdrag ter heffing aan België zijn toegewezen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
