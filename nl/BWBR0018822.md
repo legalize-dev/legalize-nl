@@ -529,13 +529,3 @@ Deze verklaring wordt afgegeven aan de hiervoor genoemde ontvanger ten behoeve v
 (naam accountant en ondertekening)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage 4. bij het besluit locatiegebonden subsidies 2005
-
-Vervallen
-
-## Bijlage 5. bij het besluit locatiegebonden subsidies 2005
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
