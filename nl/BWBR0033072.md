@@ -183,23 +183,3 @@ Eenieder die in het kader van de activiteiten van de Stichting betreffende het v
 2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de voorafgaande goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
 
 ## Bijlage
-
-##### Artikel 16. Vaststelling en wijziging reglement
-
-1. Het bestuur van de Stichting stelt het reglement en wijzigingen daarin vast.
-
-2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
-
-##### Artikel 17. Eerder vastgestelde reglementen
-
-Dit reglement vervangt eerder vastgestelde reglementen.
-
-##### Artikel 12a. Adviescommissie Stichting donorgegevens kunstmatige bevruchting
-
-1. Er is een Adviescommissie Stichting donorgegevens kunstmatige bevruchting
-
-2. De adviescommissie bestaat uit een jurist, een ethicus en een pedagoog/psycholoog.
-
-3. Het bestuur van de Stichting benoemt de leden van de adviescommissie voor een termijn van 4 jaar met eenmalig de mogelijkheid tot verlenging van 4 jaar.
-
-4. De leden van de adviescommissie ontvangen voor hun werkzaamheden een vergoeding overeenkomstig het Besluit vergoedingen adviescolleges en commissies.
