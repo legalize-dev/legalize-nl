@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2002-01-01"
+last_updated: "2005-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Vervallen
 
 ##### Artikel 6
 
-Indien bij of krachtens [artikel 25, achtste, negende, elfde of zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), uitstel van betaling is verleend, wordt invorderingsrente in rekening gebracht voorzover betaling niet plaatsvindt binnen de termijn waarvoor uitstel is verleend, dan wel, voorzover het uitstel door de ontvanger wordt beëindigd, met ingang van de dag volgende op de dag waarop zich de omstandigheid voordeed welke heeft geleid tot beëindiging van het uitstel.
+Indien bij of krachtens [artikel 25, achtste, negende, elfde of zeventiende tot en met negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), uitstel van betaling is verleend, wordt invorderingsrente in rekening gebracht voorzover betaling niet plaatsvindt binnen de termijn waarvoor uitstel is verleend, dan wel, voorzover het uitstel door de ontvanger wordt beëindigd, met ingang van de dag volgende op de dag waarop zich de omstandigheid voordeed welke heeft geleid tot beëindiging van het uitstel.
 
 ### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
 
@@ -92,7 +92,7 @@ Indien bij of krachtens [artikel 25, achtste, negende, elfde of zeventiende lid,
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2002-01-01&g=2002-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2005-02-09&g=2005-02-09), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -100,7 +100,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2002-01-01&g=2002-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2005-02-09&g=2005-02-09), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
