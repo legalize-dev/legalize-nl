@@ -4,7 +4,7 @@ identifier: "BWBR0037026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-04-09"
-last_updated: "2001-11-23"
+last_updated: "2004-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037026"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [artikel 5 van de Wet capaciteitsbeheersing binnenvaartvloot](https://w
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet capaciteitsbeheersing binnenvaartvloot in werking treedt.
+
 ##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder ton: kubieke meter waterverplaatsing als bedoeld in [artikel 1, onderdeel f, van het Metingsbesluit Binnenvaartuigen 1978](https://wetten.overheid.nl/jci1.3:c:BWBR0003246&artikel=1).
@@ -62,7 +64,7 @@ Aanvragen om een slooppremie als bedoeld in artikel 6 van de Raadsverordening da
 
 ##### Artikel 5
 
-Bij de indiening van een aanvraag dan wel aanmelding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2001-11-23&g=2001-11-23) legt de eigenaar met betrekking tot het desbetreffende binnenschip, ter vaststelling of dat binnenschip tot de actieve vloot behoort en bedrijfszeker is, de volgende bescheiden over:
+Bij de indiening van een aanvraag dan wel aanmelding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) legt de eigenaar met betrekking tot het desbetreffende binnenschip, ter vaststelling of dat binnenschip tot de actieve vloot behoort en bedrijfszeker is, de volgende bescheiden over:
 
 - a. een uittreksel uit het register, bedoeld in [artikel 783 van boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=783), onderscheidenlijk [artikel 193 van boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=193);
 
@@ -122,17 +124,17 @@ De eigenaar van een binnenschip dat definitief uit de vaart is genomen in afwach
 
 - a. een door hem ondertekende verklaring met de exacte gegevens van de ligplaats van het binnenschip;
 
-- b. voor zover van toepassing de bescheiden, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2001-11-23&g=2001-11-23).
+- b. voor zover van toepassing de bescheiden, bedoeld in [artikel 7, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2004-04-09&g=2004-04-09).
 
 ##### Artikel 9
 
-[Artikel 7, eerste lid, tweede lid, onderdelen a, b, c en d, en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2001-11-23&g=2001-11-23), is van overeenkomstige toepassing op de sloop van een binnenschip als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=8&z=2001-11-23&g=2001-11-23).
+[Artikel 7, eerste lid, tweede lid, onderdelen a, b, c en d, en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2004-04-09&g=2004-04-09), is van overeenkomstige toepassing op de sloop van een binnenschip als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=8&z=2004-04-09&g=2004-04-09).
 
 ##### Artikel 10
 
 1. De Minister houdt een register bij van de binnenschepen, bedoeld in artikel 5, tweede lid, van de Raadsverordening.
 
-2. De [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2001-11-23&g=2001-11-23) zijn van overeenkomstige toepassing op binnenschepen als bedoeld in het eerste lid.
+2. De [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) zijn van overeenkomstige toepassing op binnenschepen als bedoeld in het eerste lid.
 
 ##### Artikel 11
 
@@ -140,17 +142,17 @@ In het geval ter voldoening aan een van de voorwaarden, bedoeld in artikel 4, ee
 
 ##### Artikel 12
 
-1. Het model van het aanmeldingsformulier, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=2&z=2001-11-23&g=2001-11-23), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde[bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2001-11-23&g=2001-11-23).
+1. Het model van het aanmeldingsformulier, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=2&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde[bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2004-04-09&g=2004-04-09).
 
-2. Het model van het bewijs, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=3&z=2001-11-23&g=2001-11-23), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=2&z=2001-11-23&g=2001-11-23).
+2. Het model van het bewijs, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=3&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=2&z=2004-04-09&g=2004-04-09).
 
-3. Het model van het formulier waarmee een aanvraag om een slooppremie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2001-11-23&g=2001-11-23) wordt ingediend wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=3&z=2001-11-23&g=2001-11-23).
+3. Het model van het formulier waarmee een aanvraag om een slooppremie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) wordt ingediend wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=3&z=2004-04-09&g=2004-04-09).
 
-4. Het model van het formulier waarmee aanmelding wordt gedaan van het voornemen tot sloop van een binnenschip in het kader van compenserende tonnage als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2001-11-23&g=2001-11-23) wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=4&z=2001-11-23&g=2001-11-23).
+4. Het model van het formulier waarmee aanmelding wordt gedaan van het voornemen tot sloop van een binnenschip in het kader van compenserende tonnage als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=4&z=2004-04-09&g=2004-04-09) wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=4&z=2004-04-09&g=2004-04-09).
 
-5. Het model van de verklaring, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2001-11-23&g=2001-11-23), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=5&z=2001-11-23&g=2001-11-23).
+5. Het model van de verklaring, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=7&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=5&z=2004-04-09&g=2004-04-09).
 
-6. Het model van het formulier waarmee binnenschepen worden aangemeld bij het register, bedoeld in[artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=10&z=2001-11-23&g=2001-11-23), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=6&z=2001-11-23&g=2001-11-23).
+6. Het model van het formulier waarmee binnenschepen worden aangemeld bij het register, bedoeld in[artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&artikel=10&z=2004-04-09&g=2004-04-09), wordt vastgesteld overeenkomstig de bij deze regeling gevoegde [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=6&z=2004-04-09&g=2004-04-09).
 
 ##### Artikel 13
 
@@ -204,4 +206,4 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2001-11-23&g=2001-11-23), die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037026&bijlage=1&z=2004-04-09&g=2004-04-09), die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
