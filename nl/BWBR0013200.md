@@ -4,7 +4,7 @@ identifier: "BWBR0013200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-08-01"
-last_updated: "2003-10-02"
+last_updated: "2003-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013200"
 soort: "ministeriele-regeling"
@@ -42,7 +42,29 @@ Besluiten:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
+1. In deze regeling wordt verstaan onder:
+
+- a. ambtenaar: de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onderdelen a en c, en tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), die rechtens is uitgerust met een of meer geweldsmiddelen;
+
+- b. geweldsmiddel: geweldsmiddel als bedoeld in [artikel 1, derde lid, onderdeel d, onder 1e, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1);
+
+- c. LSOP: het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum, genoemd in [artikel 2 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=2) ;
+
+- d. de toets geweldsbeheersing: de door het LSOP, samengestelde toets ter beoordeling van de kennis op het gebied van geweldsbeheersing volgens de competentiegerichte eindtermen van de initiële opleidingen voor politieambtenaren, genoemd in [artikel 14 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=14), of de door het LSOP samengestelde toets ter beoordeling van kennis op het gebied van geweldsbeheersing volgens de competentiegerichte eindtermen van een door de betrokken ambtenaar gevolgde postinitiële opleiding;
+
+- e. de toets aanhoudings- en zelfverdedigingsvaardigheden: de door het LSOP samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de competentiegerichte eindtermen van de initiële opleidingen voor politieambtenaren, genoemd in [artikel 14 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=14), of de door het LSOP samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de competentiegerichte eindtermen van een door de betrokken ambtenaar gevolgde postinitiële opleiding;
+
+- f. de toets schietvaardigheid: de door het LSOP samengestelde toets ter beoordeling van de schietvaardigheid volgens de competentiegerichte eindtermen van de initiële opleidingen voor politieambtenaren, genoemd in [artikel 14 van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=14), of de door het LSOP samengestelde toets ter beoordeling van de schietvaardigheid volgens de competentiegerichte eindtermen van een door de betrokken ambtenaar gevolgde postinitiële opleiding;
+
+- g. toetser: de ambtenaar van politie die heeft voldaan aan de competentiegerichte eindtermen van de daartoe strekkende opleiding en is gecertificeerd door het LSOP om de toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden, of de toets schietvaardigheid af te nemen.
+
+- h. de korpsbeheerder:
+
+- 1°. de burgemeester, bedoeld in [artikel 23 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=23), voor zover het ambtenaren van een regionaal politiekorps, bedoeld in [artikel 3 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), betreft,
+
+- 2°. de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover het ambtenaren van het Korps landelijke politiediensten, bedoeld in [artikel 38 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=38), betreft,
+
+- 3°. de Minister van Justitie voor zover het bijzondere ambtenaren van politie, bedoeld in [artikel 43, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=43), betreft.
 
 ##### Artikel 2
 
@@ -58,31 +80,29 @@ In deze regeling wordt verstaan onder:
 
 4. Onverminderd het eerste tot en met derde lid, wordt de ambtenaar van wie een geweldsmiddel op grond van het vijfde lid is ingenomen, voor de resterende duur van het lopende kalenderjaar of kalenderhalfjaar, geacht wederom geoefend te zijn in het gebruik van dat geweldsmiddel, vanaf het moment dat hij de toetsen die hij niet of niet met voldoende resultaat had afgelegd, alsnog met voldoende resultaat aflegt.
 
-5. De korpsbeheerder onderscheidenlijk de direct toezichthouder draagt er voor zorg dat de ambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een ambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door de korpsbeheerder onderscheidenlijk de direct toezichthouder ingenomen.
+5. De korpsbeheerder draagt er voor zorg dat de ambtenaar slechts over een geweldsmiddel beschikt, anders dan voor het vervoer en het gebruik ervan voor het volgen van onderwijs, indien hij geoefend is in het gebruik van dat geweldsmiddel. Indien een ambtenaar op de laatste dag van een kalenderjaar of kalenderhalfjaar de in het eerste, tweede en derde lid bedoelde toetsen nog niet met voldoende resultaat heeft afgelegd, wordt het geweldsmiddel in het gebruik waarvan hij dientengevolge niet langer is geoefend, door de korpsbeheerder ingenomen.
 
-6. In afwijking van het vijfde lid, dragen de korpsbeheerder onderscheidenlijk de direct toezichthouder en de werkgever er voor zorg dat de ambtenaar wiens vuurwapen is ingenomen, tijdens de uitoefening van de dienst ook niet beschikt over de geweldsmiddelen in het gebruik waarvan hij wel is geoefend, totdat zij in een individueel plan van aanpak met de ambtenaar afspraken hebben gemaakt over zijn verantwoorde inzet zonder het vuurwapen.
+6. In afwijking van het vijfde lid, draagt de korpsbeheerder er voor zorg dat de ambtenaar wiens vuurwapen is ingenomen, tijdens de uitoefening van de dienst ook niet beschikt over de geweldsmiddelen in het gebruik waarvan hij wel is geoefend, totdat in een individueel plan van aanpak met deze ambtenaar afspraken zijn gemaakt over zijn verantwoorde inzet zonder het vuurwapen.
 
 ##### Artikel 3
 
-1. De korpsbeheerder onderscheidenlijk de werkgever biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing. De korpsbeheerder onderscheidenlijk de direct toezichthouder draagt zorg voor de inhoud en organisatie van de training en voor de organisatie van de toetsing.
+1. De korpsbeheerder biedt de ambtenaar de gelegenheid tot het volgen van ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing. De korpsbeheerder onderscheidenlijk de direct toezichthouder draagt zorg voor de inhoud en organisatie van de training en voor de organisatie van de toetsing.
 
 2. De ambtenaar neemt jaarlijks deel aan ten minste 32 uren training ter voorbereiding op de af te leggen toetsen, en toetsing.
 
-3. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door de korpsbeheerder onderscheidenlijk de direct toezichthouder daartoe aangewezen toetser.
+3. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door de korpsbeheerder daartoe aangewezen toetser.
 
 ##### Artikel 4
 
-1. Indien een ambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02) bedoelde perioden, een van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de korpsbeheerder dan wel de direct toezichthouder.
-
-2. De direct toezichthouder stelt, na raadpleging van de toezichthouder, zowel het College van procureurs-generaal als de werkgever onverwijld schriftelijk in kennis van het niet of niet met voldoende resultaat afleggen van een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02) bedoelde toetsen door een buitengewoon opsporingsambtenaar.
+Indien een ambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde perioden, een van de in dat artikel bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de korpsbeheerder.
 
 ##### Artikel 5
 
-1. De korpsbeheerder onderscheidenlijk de direct toezichthouder draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02) bedoelde toetsen.
+1. De korpsbeheerder draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen.
 
-2. Het regionale college publiceert jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02) bedoelde toetsen.
+2. Het regionale college publiceert jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde jaarverslag een overzicht van de stand van zaken betreffende de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen.
 
-3. Het regionale college verstrekt jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02) bedoelde toetsen alsmede het gevoerde beleid hieromtrent. De werkgever verstrekt jaarlijks de Minister van Justitie een overzicht als bedoeld in de eerste volzin.
+3. Het regionale college verstrekt jaarlijks in het in [artikel 31 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=31) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
 ##### Artikel 6
 
@@ -92,9 +112,9 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2002 en vervalt met ingang van 1 januari 2005. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2001, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2002.
 
-2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02), treedt met ingang van 1 januari 2003 in werking.
+2. [Artikel 2, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18), treedt met ingang van 1 januari 2003 in werking.
 
-3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-01-01&g=2003-10-02), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2003-01-01&g=2003-10-02), vervallen met ingang van 1 januari 2004.
+3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2003-12-18&g=2003-12-18), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2003-12-18&g=2003-12-18), vervallen met ingang van 1 januari 2004.
 
 ##### Artikel 8
 
