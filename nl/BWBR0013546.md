@@ -172,9 +172,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel A, 
 Deze regeling wordt aangehaald als: Regeling Europese afvalstoffenlijst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
