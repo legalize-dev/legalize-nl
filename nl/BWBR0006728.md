@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2002-04-19"
+last_updated: "2004-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -100,7 +100,9 @@ De commissaris brengt met redelijke tussenpozen bezoeken aan de gemeenten in de 
 
 2. De commissaris onderzoekt de mogelijkheid of een gerezen conflict tussen de raad en de burgemeester kan worden opgelost.
 
-3. Na de ontvangst van de aanbeveling inzake het ontslag van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
+3. Ingeval van een mogelijke verstoorde verhouding tussen de burgemeester en de raad adviseert de commissaris op diens verzoek Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ter voorbereiding van het oordeel als bedoeld in [artikel 46a, eerste lid, onder b, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=46a).
+
+4. Na de ontvangst van de aanbeveling inzake het ontslag van de burgemeester zendt de commissaris deze door naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vergezeld van zijn advies daarover. Tevens rapporteert de commissaris over zijn bevindingen met betrekking tot de inhoud en het verloop van de procedure. Daarbij gaat hij in op zijn overleg met de raad.
 
 ##### Artikel 8
 
@@ -116,7 +118,7 @@ De commissaris brengt met redelijke tussenpozen bezoeken aan de gemeenten in de 
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2002-04-19&g=2002-04-19), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2004-08-25&g=2004-08-25), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
