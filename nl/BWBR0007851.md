@@ -4,7 +4,7 @@ identifier: "BWBR0007851"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-01-01"
-last_updated: "1996-01-27"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007851"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als bewaarder als bedoeld in de [aanhef van artikel 1 van het Besluit inbeslaggenomen voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1) wordt aangewezen: de Dienst Landelijke service bij regelingen (LASER) van het Ministerie van Landbouw, Natuurbeheer en Visserij.
+Als bewaarder als bedoeld in de [aanhef van artikel 1 van het Besluit inbeslaggenomen voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0007823&artikel=1) wordt aangewezen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 2
 
