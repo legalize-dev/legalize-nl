@@ -4,7 +4,7 @@ identifier: "BWBR0009399"
 country: "nl"
 rank: "wet"
 publication_date: "2003-12-01"
-last_updated: "2002-05-15"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009399"
 soort: "wet"
@@ -58,9 +58,7 @@ Wijzigt de Wet van 7 september 1972 (Stb. 461).
 
 ##### Artikel IV
 
-1. Degene die wordt bezoldigd overeenkomstig salariscategorie 1, 2 of 3, bedoeld in artikel 7 van de Wet rechtspositie rechterlijke ambtenaren, ontvangt met ingang van 1 juni 1999 maandelijks naast het desbetreffende salaris een toelage van 4,1% van dat salaris.
-
-2. In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 augustus 1999 1,2% van het salaris.
+Vervallen
 
 ##### Artikel V
 
@@ -104,15 +102,15 @@ Wijzigt de Wet op de rechterlijke organisatie.
 
 1. Deze wet treedt wat de volgende onderdelen betreft in werking met ingang van de eerste dag van de maand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug als volgt:
 
-- a. wat [artikel I, onderdelen A, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2002-05-15&g=2002-05-15) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=VI&z=2002-05-15&g=2002-05-15) betreft: tot en met 1 april 1995;
+- a. wat [artikel I, onderdelen A, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2003-12-01&g=2003-12-01) en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=VI&z=2003-12-01&g=2003-12-01) betreft: tot en met 1 april 1995;
 
-- b. wat [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2002-05-15&g=2002-05-15), betreft: tot en met 1 oktober 1995;
+- b. wat [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 oktober 1995;
 
-- c. wat [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2002-05-15&g=2002-05-15), betreft: tot en met 1 oktober 1996;
+- c. wat [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2003-12-01&g=2003-12-01), betreft: tot en met 1 oktober 1996;
 
-- d. wat [artikel I, onderdelen D, J, K, L, M, N, O, onderdeel a, P, Q, S](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2002-05-15&g=2002-05-15), en de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=IV&z=2002-05-15&g=2002-05-15), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=V&z=2002-05-15&g=2002-05-15), en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=VII&z=2002-05-15&g=2002-05-15) tot en met [X](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=X&z=2002-05-15&g=2002-05-15) betreft: tot en met 1 januari 1997.
+- d. wat [artikel I, onderdelen D, J, K, L, M, N, O, onderdeel a, P, Q, S](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2003-12-01&g=2003-12-01), en de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=IV&z=2003-12-01&g=2003-12-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=V&z=2003-12-01&g=2003-12-01), en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=VII&z=2003-12-01&g=2003-12-01) tot en met [X](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=X&z=2003-12-01&g=2003-12-01) betreft: tot en met 1 januari 1997.
 
-2. [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2002-05-15&g=2002-05-15), en [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=XI&z=2002-05-15&g=2002-05-15) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=I&z=2003-12-01&g=2003-12-01), en [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0009399&artikel=XI&z=2003-12-01&g=2003-12-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 3. Voor het overige treedt deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
