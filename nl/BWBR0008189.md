@@ -4,7 +4,7 @@ identifier: "BWBR0008189"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2004-05-19"
-last_updated: "1996-08-01"
+last_updated: "2004-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008189"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 1. Een nummer als bedoeld in dit besluit bestaat uitsluitend uit cijfers.
 
-2. De lengte van een nummer kan variëren en is aangegeven in de bijlage genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008189&artikel=2&z=1996-08-01&g=1996-08-01).
+2. De lengte van een nummer kan variëren en is aangegeven in de bijlage genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008189&artikel=2&z=2004-05-19&g=2004-05-19).
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ Aan de toekenning of reservering van een nummer wordt het voorschrift verbonden 
 
 ##### Artikel 5
 
-Indien een aanvraag om toekenning of reservering van een nummer strijdig is met dit besluit en de Minister van Verkeer en Waterstaat het voornemen heeft dit besluit zodanig te wijzigen dat inwilliging van de aanvraag alsdan mogelijk wordt, wordt de aanvraag vooruitlopend op de wijziging van dit besluit in behandeling genomen.
+Vervallen
 
 ##### Artikel 6
 
@@ -72,9 +72,9 @@ Dit besluit treedt in werking met ingang van 1 augustus 1996.
 
 Dit besluit wordt aangehaald als: Nummerplan telexdiensten.
 
-Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij het Ministerie van Verkeer en Waterstaat, Directie Toezicht Netwerken en Diensten.
+Dit besluit met de bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommunicatie Autoriteit.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008189&artikel=2&z=1996-08-01&g=1996-08-01) van het Besluit nummerplan telexdiensten
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008189&artikel=2&z=2004-05-19&g=2004-05-19) van het Besluit nummerplan telexdiensten
 
 | **Eerste cijfer van** **het nummer** | **Bestemming** | **Lengte van het nummer** |
 | --- | --- | --- |
