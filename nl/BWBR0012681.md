@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2002-10-26"
+last_updated: "2003-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -85,6 +85,16 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 - s. voor deelname aan de multinationale operatie `Enduring Freedom', voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan en Kirgizië: ENDURING FREEDOM;
 
 - t. voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX.
+
+- u. voor deelname aan de European Union Police Mission voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina, vanaf september 2002; EUPM.
+
+- v. voor deelname aan de Nederlandse operatie Tulip Guardian van 8 februari 2003 tot 4 maart 2003 danwel voor deelname aan de NAVO operatie Display Deterrence vanaf 4 maart 2003 i.v.m. de stationering van Patriot raketten ter ondersteuning van Turkije; LUCHTVERDEDIGING TURKIJE.
+
+- w. voor deelname aan een uitzending in het kader van een Mine Action Center, waar ook ter wereld, vanaf september 2002; MINE ACTION CENTER.
+
+- x. voor deelname aan de door de Europese Unie geleide militaire operatie ‘Concordia’ in Macedonië, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf maart 2003; EU OPERATIE CONCORDIA.
+
+- y. voor deelname aan de internationale stabilisatiemacht voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van Irak en het Arabisch Schiereiland vanaf 25 juni 2003; STABILISATION FORCE IRAK.
 
 ##### Artikel 2
 
