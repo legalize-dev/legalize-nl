@@ -380,13 +380,3 @@ kaliumfluoride
 natriumfluoride
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Een wijziging van bijlage I of bijlage II bij richtlijn 2002/46/EG gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
-
-## Bijlage 2
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
