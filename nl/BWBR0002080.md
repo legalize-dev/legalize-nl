@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2002-09-01"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -111,7 +111,7 @@ De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bes
 
 - 1. Arrondissement Dordrecht: Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, 's-Gravendeel, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.
 
-- 2. Arrondissement 's-Gravenhage: Alkemade, Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, De Lier, Delft, Gouda, 's-Gravenhage, 's-Gravenzande, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Liemeer, Lisse, Maasland, Monster, Moordrecht, Naaldwijk, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnsburg, Rijnwoude, Rijswijk, Sassenheim, Schipluiden, Schoonhoven, Ter Aar, Valkenburg (Z.-H.), Vlist, Voorhout, Voorschoten, Waddinxveen, Warmond, Wassenaar, Wateringen, Zevenhuizen-Moerkappelle, Zoetermeer, Zoeterwoude.
+- 2. Arrondissement 's-Gravenhage: Alkemade, Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Liemeer, Lisse, Midden-Delfland, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnsburg, Rijnwoude, Rijswijk, Sassenheim, Schoonhoven, Ter Aar, Valkenburg (Z.-H.), Vlist, Voorhout, Voorschoten, Waddinxveen, Warmond, Wassenaar, Westland, Zevenhuizen-Moerkapelle, Zoetermeer, Zoeterwoude.
 
 - 3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.
 
@@ -135,7 +135,7 @@ De rechtsgebieden van de tot het ressort 's-Hertogenbosch behorende rechtbanken 
 
 - 1. Arrondissement Breda: Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Made, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem, Zundert.
 
-- 2. Arrondissement 's-Hertogenbosch: Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Budel, Cuijk, Deurne, Eersel, Eindhoven, Geldrop, Gemert-Bakel, Gerwen en Nederwetten, Grave, Haaren, Heeze-Leende, Helmond, 's-Hertogenbosch, Heusden, Laarbeek, Landerd, Lith, Maasdonk, Mierlo, Mill en Sint Hubert, Nuenen, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre.
+- 2. Arrondissement 's-Hertogenbosch: Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Budel, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Gerwen en Nederwetten, Grave, Haaren, Heeze-Leende, Helmond, 's-Hertogenbosch, Heusden, Laarbeek, Landerd, Lith, Maasdonk, Mill en Sint Hubert, Nuenen, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre.
 
 - 3. Arrondissement Maastricht: Beek, Brunssum, Eijsden, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Margraten, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
 
