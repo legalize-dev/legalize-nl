@@ -4,7 +4,7 @@ identifier: "BWBR0011857"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-10-31"
-last_updated: "2002-10-11"
+last_updated: "2003-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011857"
 soort: "ministeriele-regeling"
@@ -66,39 +66,11 @@ Er is een stuurgroep 'Handhaven op niveau', hierna te noemen stuurgroep.
 
 In de stuurgroep hebben zitting:
 
-- a. als voorzitter, en tevens lid:
+- a. als voorzitter, en tevens lid: dr. R.W. Welschen;
 
-- dr. R.W. Welschen, burgemeester van Eindhoven;
+- b. als leden: ir. P.A.E. van Erkelens, voorzitter van het Waterschap Regge en Dinkel; mr. C. Riezenbos, plaatsvervangend directeur Bestuurlijke en Financiële Organisatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties; mr. H.J. Haverkamp, directeur Fiscale Inlichtingen- en Opsporingsdienst (FIOD); mevr. drs. A.Th.B. Bijleveld-Schouten, burgemeester van de gemeente Hof van Twente; mr. B. Poelert, korpschef Politie Gelderland-Zuid; mr. S. Tempel, hoofd Advocaat-generaal ressortparket Leeuwarden; mr. J.L. de Wijkerslooth, voorzitter van het College van procureurs-generaal; mevr. prof. mr. C.P.M. Cleiren, hoogleraar strafrecht en strafprocesrecht, Rijksuniversiteit Leiden; prof. mr. drs. F.C.M.A. Michiels, hoogleraar bestuursrecht in het bijzonder omgevingsrecht, Universiteit Utrecht; mr. J. Stam, directeur Handhaving van het Ministerie van Justitie; mr. H.M. Meijdam, lid van het College van Gedeputeerde Staten van de provincie Noord-Holland.
 
-- b. als leden:
-
-- ir. P.A.E. van Erkelens, voorzitter van het Waterschap Regge en Dinkel;
-
-- mr. C. Riezenbos, plaatsvervangend directeur Bestuurlijke en Financiële Organisatie bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
-
-- mr. H.J. Haverkamp, directeur Fiscale Inlichtingen- en Opsporingsdienst (FIOD);
-
-- mevr. L.B.M. van Maaren-van Balen, burgemeester van Leeuwarden;
-
-- mr. B. Poelert, korpschef Politie Gelderland-Zuid;
-
-- mr. S. Tempel, hoofd Advocaat-generaal ressortsparket Leeuwarden;
-
-- mr. J.L. de Wijkerslooth, voorzitter van het College van Procureurs-Generaal;
-
-- mevr. prof. mr. C.P.M. Cleiren, hoogleraar strafrecht en strafprocesrecht, Rijksuniverstiteit Leiden;
-
-- prof. mr. drs. F.C.M.A. Michiels, hoogleraar bestuursrecht in het bijzonder omgevingsrecht, Universiteit Utrecht.
-
-- mr. J. Stam, directeur Handhaving van het ministerie van Justitie, m.i.v. 1-1-2001;
-
-- mr. H.M. Meijdam, lid van het College van Gedeputeerde Staten van Noord-Holland;
-
-- c. als secretarissen:
-
-- drs. M.L. Hagen, directie Handhaving van het ministerie van Justitie;
-
-- mevr. drs. T.P. Schavemaker, directie Handhaving van het ministerie van Justitie.
+- c. als secretarissen: drs. M.L. Hagen, directie Handhaving van het Ministerie van Justitie; mevr. ing. E.M. Jägers, directie Handhaving van het Ministerie van Justitie.
 
 ##### Artikel 4
 
@@ -128,7 +100,7 @@ De stuurgroep kan nadere regels stellen omtrent haar werkwijze.
 
 ##### Artikel 9
 
-De Minister van Justitie kan de stuurgroep ten aanzien van de uitvoering van haar taak als bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011857&artikel=2&z=2002-10-11&g=2002-10-11) bijzondere aanwijzingen geven.
+De Minister van Justitie kan de stuurgroep ten aanzien van de uitvoering van haar taak als bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011857&artikel=2&z=2003-10-31&g=2003-10-31) bijzondere aanwijzingen geven.
 
 ##### Artikel 10
 
