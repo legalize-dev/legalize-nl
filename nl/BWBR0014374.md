@@ -64,9 +64,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2003.
 Deze regeling wordt aangehaald als: Regeling gelijkstelling pleegkinderen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 4, vierde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=4).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
