@@ -125,13 +125,3 @@ Dit besluit kan worden aangehaald als "Vaststellingsbesluit Binnenvaartpolitiere
 [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Binnenvaartpolitiereglement in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
-
-##### Artikel 1a
-
-Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van [richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG L 208), gaat voor de toepassing van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-## Bijlage. Binnenvaartpolitiereglement (BPR)
-
-[Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
-
-Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Binnenvaartpolitiereglement in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
