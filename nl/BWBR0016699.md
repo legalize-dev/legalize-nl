@@ -4,7 +4,7 @@ identifier: "BWBR0016699"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-04-01"
-last_updated: "2004-05-19"
+last_updated: "2004-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016699"
 soort: "AMvB"
@@ -86,5 +86,13 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet implementatie Europ
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit voorwaardelijke toegang.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+1. Het college laat toe dat een onderneming die moet voldoen aan een verplichting als bedoeld in [artikel 6a.7, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.7), betreffende het beheersen van tarieven, een redelijke opbrengst verkrijgt uit zijn efficiënte kapitaalinbreng, de aangegane risico’s in aanmerking genomen.
+
+2. Het eerste lid is van overeenkomstige toepassing indien een onderneming moet voldoen aan een verplichting als bedoeld in [artikel 6a.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.13), een verplichting als bedoeld in [artikel 6a.17, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.17) of een verplichting betreffende het beheersen van tarieven als bedoeld in een krachtens [artikel 6a.19. tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6a.19) gestelde regeling.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
