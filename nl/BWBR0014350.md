@@ -4,7 +4,7 @@ identifier: "BWBR0014350"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2003-08-01"
+last_updated: "2004-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014350"
 soort: "wet"
@@ -84,7 +84,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 3. Het bevoegd gezag van de school of afdeling waarvoor expertisebekostiging beschikbaar is, stelt vast aan welke criteria de leerlingen moeten voldoen die op basis van de expertisebekostiging onderwijs en begeleiding kunnen ontvangen.
 
-4. De school rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze minister van Onderwijs, Cultuur en Wetenschappen en over de gehanteerde criteria aan de landelijke commissie toezicht indicatiestelling, bedoeld in [artikel 28e, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28e).
+4. De school rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze minister van Onderwijs, Cultuur en Wetenschap en over de gehanteerde criteria aan de landelijke commissie toezicht indicatiestelling, bedoeld in [artikel 28e, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28e).
 
 5. Voor de vaststelling van de bedragen ingevolge het Gemeentefonds blijft voor het aantal meervoudig gehandicapte leerlingen dat op 31 juli 2002 was ingeschreven bij een van de in het eerste lid bedoelde scholen en afdelingen de leerlingenmaatstaf die voor die leerlingen op die datum gold, gehandhaafd. De in de eerste volzin bedoelde leerlingen worden in het kader van de leerlingenmaatstaf slechts in één categorie meegerekend.
 
@@ -104,7 +104,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 2. De ministeriële regeling, bedoeld in het eerste lid, wordt bekend gemaakt in het officiële publicatieblad van het Ministerie van Onderwijs, Cultuur en Wetenschappen, onder gelijktijdige overlegging aan de Tweede Kamer der Staten-Generaal. Van de bekendmaking wordt mededeling gedaan in de Staatscourant. De ministeriële regeling treedt niet in werking dan nadat 4 weken zijn verstreken na het overleggen aan de Tweede Kamer en gedurende die termijn niet door of namens de Kamer de wens tot overleg over de ministeriële regeling te kennen wordt gegeven dan wel met de Tweede Kamer overleg is gevoerd.
 
-3. Naar aanleiding van het overleg met de Tweede Kamer kunnen wijzigingen in de ministeriële regeling worden aangebracht. De wijzigingen worden bekendgemaakt in het officiële publicatieblad van het Ministerie van Onderwijs, Cultuur en Wetenschappen. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
+3. Naar aanleiding van het overleg met de Tweede Kamer kunnen wijzigingen in de ministeriële regeling worden aangebracht. De wijzigingen worden bekendgemaakt in het officiële publicatieblad van het Ministerie van Onderwijs, Cultuur en Wetenschap. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel X. Formatiegarantie
 
@@ -126,7 +126,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 3. De commissie, bedoeld in het eerste lid, adviseert in alle gevallen waarin de ouders bezwaar aantekenen tegen een besluit van het bevoegd gezag van de school over toelating van een leerling of besteding van het leerlinggebonden budget.
 
-4. De commissie, bedoeld in het eerste lid, rapporteert jaarlijks aan Onze Minister van Onderwijs, Cultuur en Wetenschappen over de aan haar gevraagde adviezen. Onze Minister zendt deze rapportage aan beide kamers der Staten-Generaal.
+4. De commissie, bedoeld in het eerste lid, rapporteert jaarlijks aan Onze Minister van Onderwijs, Cultuur en Wetenschap over de aan haar gevraagde adviezen. Onze Minister zendt deze rapportage aan beide kamers der Staten-Generaal.
 
 5. Bij ministeriële regeling worden in elk geval regels gegeven met betrekking tot de samenstelling van de commissie, bedoeld in het eerste lid.
 
@@ -134,7 +134,7 @@ Voor de periode gerekend vanaf de datum waarop deze wet in werking treedt tot de
 
 ##### Artikel XIII. Verplicht advies
 
-Indien de ouders van een leerling als bedoeld in [artikel XII, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2003-08-01&g=2003-08-01), hun bezwaren kenbaar maken tegen een beslissing van het bevoegd gezag om die leerling niet toe te laten dan wel tegen de besteding van het leerlinggebonden budget, beslist het bevoegd gezag niet eerder op het bezwaar dan nadat het advies is uitgebracht door de commissie, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2003-08-01&g=2003-08-01).
+Indien de ouders van een leerling als bedoeld in [artikel XII, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2004-02-13&g=2004-02-13), hun bezwaren kenbaar maken tegen een beslissing van het bevoegd gezag om die leerling niet toe te laten dan wel tegen de besteding van het leerlinggebonden budget, beslist het bevoegd gezag niet eerder op het bezwaar dan nadat het advies is uitgebracht door de commissie, bedoeld in [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XII&z=2004-02-13&g=2004-02-13).
 
 ##### Artikel XIV. Experiment Almere
 
