@@ -4,7 +4,7 @@ identifier: "BWBR0014647"
 country: "nl"
 rank: "wet"
 publication_date: "2003-02-26"
-last_updated: "2002-09-12"
+last_updated: "2003-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014647"
 soort: "wet"
@@ -60,6 +60,6 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 12 september 2002.
 
-2. [Artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0014647&artikel=I&z=2003-02-26&g=2002-09-12), heeft voor het verzorgen van een nieuwe opleiding voor het eerst betrekking op het studiejaar 2004–2005.
+2. [Artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0014647&artikel=I&z=2003-02-26&g=2003-02-26), heeft voor het verzorgen van een nieuwe opleiding voor het eerst betrekking op het studiejaar 2004–2005.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
