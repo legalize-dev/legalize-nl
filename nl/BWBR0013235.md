@@ -4,7 +4,7 @@ identifier: "BWBR0013235"
 country: "nl"
 rank: "amvb"
 publication_date: "2004-07-23"
-last_updated: "2002-10-02"
+last_updated: "2004-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013235"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In afwijking van de [artikelen C15b tot en met C15m van het Besluit trekkende be
 
 ##### Artikel V. Overgangsbepaling leerlingtelling per 1 oktober
 
-In afwijking van [artikel C 15l van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_15l) telt het bevoegd gezag van de school voor ligplaatsonderwijs, bedoeld in [artikel C 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_1), zoals gewijzigd door dit besluit, jaarlijks op de teldatum 1 oktober in de kalenderjaren 2001, 2002 en 2003 de ingeschreven leerlingen, en zendt deze telling voor 1 januari daaropvolgend aan Onze Minister. Indien dit besluit in werking treedt na 1 januari 2002, wordt de leerlingtelling per 1 oktober 2001 uiterlijk een maand na de inwerkingtreding aan Onze Minister gezonden.
+In afwijking van [artikel C 15l van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_15l) telt het bevoegd gezag van de school voor ligplaatsonderwijs, bedoeld in [artikel C 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_1), zoals gewijzigd door dit besluit, jaarlijks op de teldatum 1 oktober in de kalenderjaren 2001 tot en met 2004 de ingeschreven leerlingen, en zendt deze telling voor 1 januari daaropvolgend aan Onze Minister. Indien dit besluit in werking treedt na 1 januari 2002, wordt de leerlingtelling per 1 oktober 2001 uiterlijk een maand na de inwerkingtreding aan Onze Minister gezonden.
 
 ##### Artikel VI. Overgangsbepaling beëindiging van de bekostiging
 
@@ -78,7 +78,7 @@ Wijzigt het Besluit vrijstelling leerplicht trekkende bevolking.
 
 2. Dit besluit wordt aan de Tweede Kamer der Staten-Generaal overgelegd. Het treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in dit besluit geregelde onderwerp bij de wet wordt geregeld.
 
-3. In het besluit tot inwerkingtreding, bedoeld in het eerste lid, wordt bepaald dat artikel I, onderdelen C tot en met G, I tot en met K, en O, vierde tot en met achtste en tiende tot en met dertiende lid, alsmede de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=II&z=2002-10-02&g=2002-10-02), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=III&z=2002-10-02&g=2002-10-02) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=V&z=2002-10-02&g=2002-10-02) terugwerken tot en met 1 augustus 2001.
+3. In het besluit tot inwerkingtreding, bedoeld in het eerste lid, wordt bepaald dat artikel I, onderdelen C tot en met G, I tot en met K, en O, vierde tot en met achtste en tiende tot en met dertiende lid, alsmede de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=II&z=2004-07-23&g=2004-07-23), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=III&z=2004-07-23&g=2004-07-23) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0013235&artikel=V&z=2004-07-23&g=2004-07-23) terugwerken tot en met 1 augustus 2001.
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, drs. K. Y. I. J. Adelmund, van 18 september 2001, nr. WJZ/2001/36999(2557), directie Wetgeving en Juridische Zaken;
 
