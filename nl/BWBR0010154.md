@@ -286,19 +286,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling burgerluchtvaartinlichtingen.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6) en [26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
-
-### Hoofdstuk 2
-
-### Hoofdstuk 3
-
-### Hoofdstuk 4
-
-### Hoofdstuk 5
-
-### Hoofdstuk 6
-
-### Hoofdstuk 7
