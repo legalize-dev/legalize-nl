@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2004-07-14"
+last_updated: "2004-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -76,7 +76,7 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2004-07-14&g=2004-07-14);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2004-09-01&g=2004-09-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van lid van het bestuur vast te stellen salarishoogte;
 
@@ -186,7 +186,7 @@ Vervallen
 
 3. Het College is voorts, bij uitsluiting, belast met de behandeling in eerste aanleg tevens in hoogste ressort van de bij de wet aan het College opgedragen geschillen.
 
-4. Op de bevoegdheid van het College zijn de [artikelen 8:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2), [8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:3) en [8:6, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6) van toepassing.
+4. Op de bevoegdheid van het College zijn de [artikelen 8:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2), [8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:3), [8:4, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), en [8:6, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6) van toepassing.
 
 ##### Artikel 19
 
@@ -212,11 +212,13 @@ Vervallen
 
 - a. een uitspraak van de rechtbank na toepassing van [artikel 8:54, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:54),
 
-- b. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, vijfde lid, van die wet](onbekend),
+- b. een uitspraak van de rechtbank als bedoeld in [artikel 8:54a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:54a),
 
-- c. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:84, tweede lid, van die wet](onbekend), en
+- c. een uitspraak van de rechtbank als bedoeld in [artikel 8:55, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:55),
 
-- d. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75**a**, eerste lid](onbekend), in verband met [artikel 8:84, vierde lid, van die wet](onbekend).
+- d. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:84, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84), en
+
+- e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a), in verband met [artikel 8:84, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84).
 
 4. Tegen andere beslissingen van de rechtbank onderscheidenlijk de voorzieningenrechter kan slechts tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak hoger beroep worden ingesteld.
 
@@ -268,7 +270,7 @@ Vervallen
 
 1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven.[Artikel 24, eerste lid, tweede en derde volzin, tweede en zesde lid](onbekend), is van overeenkomstige toepassing.
 
-2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2004-07-14&g=2004-07-14), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2004-09-01&g=2004-09-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -300,7 +302,7 @@ Het College bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 29
 
-In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2004-07-14&g=2004-07-14), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2004-09-01&g=2004-09-01), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 30
 
