@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2001-01-01"
+last_updated: "2004-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2001-01-01&g=2001-01-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2004-05-31&g=2004-05-31).
 
 2. De vrijstelling als bedoeld in het eerste lid wordt slechts verleend indien:
 
@@ -94,17 +94,17 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 - b. uitsluitend de afstand van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd wordt overbrugd.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2001-01-01&g=2001-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2004-05-31&g=2004-05-31), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2001-01-01&g=2001-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2001-01-01&g=2001-01-01) verleend voor uit een ander land afkomstige personenauto's en motorrijwielen indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2004-05-31&g=2004-05-31) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2004-05-31&g=2004-05-31) verleend voor uit een ander land afkomstige personenauto's en motorrijwielen indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lid-staat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een personenauto of een motorrijwiel, wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
 3. Vrijstelling voor een in het buitenland aan een in Nederland wonende natuurlijke persoon of gevestigd lichaam verhuurde personenauto of motorrijwiel wordt slechts verleend indien de personenauto of het motorrijwiel uiterlijk aan het eind van de dag volgende op die waarop het gebruik van de Nederlandse weg is aangevangen, buiten Nederland wordt gebracht, dan wel wordt ingeleverd bij een Nederlandse vestiging van de verhuurmaatschappij.
 
-4. Indien voor de in het eerste lid bedoelde personenauto's en motorrijwielen vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2001-01-01&g=2001-01-01), van overeenkomstige toepassing.
+4. Indien voor de in het eerste lid bedoelde personenauto's en motorrijwielen vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2004-05-31&g=2004-05-31), van overeenkomstige toepassing.
 
 5. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -242,11 +242,11 @@ De in artikel 15, eerste lid, aanhef en onderdeel **i**, van de wet bedoelde ter
 
 ##### Artikel 14
 
-1. De in artikel 16, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien de belastingplichtige daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
+1. De in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=16) bedoelde teruggaaf wordt slechts verleend indien de belastingplichtige daartoe verzoekt binnen dertien weken nadat het recht op teruggaaf is ontstaan en bij het verzoek worden overgelegd:
 
-- 1°. een afschrift van de in artikel 16, eerste lid, van de wet bedoelde vergunning;
+- 1°. een afschrift van de in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=16) bedoelde vergunning;
 
-- 2°. een afschrift van de delen I en II van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de personenauto; en
+- 2°. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de personenauto; en
 
 - 3°. een verklaring van de exploitant van de personenauto dat de personenauto in de periode van een jaar waarop het verzoek betrekking heeft, geheel of nagenoeg geheel is gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470).
 
