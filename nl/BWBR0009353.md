@@ -155,17 +155,3 @@ Dit besluit treedt in werking met ingang van 1 maart 1998.
 Dit besluit wordt aangehaald als: Besluit registratie vissersvaartuigen 1998.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.
-
-2. Een visvergunning, verleend op grond van [artikel 2, tweede lid, van de Regeling Visvergunning](https://wetten.overheid.nl/jci1.3:c:BWBR0016244&artikel=2) geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
-
-3. De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
-
-##### Artikel 10a
-
-Dit besluit berust mede op [artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
