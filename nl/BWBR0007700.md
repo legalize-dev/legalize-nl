@@ -4,7 +4,7 @@ identifier: "BWBR0007700"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "1996-01-12"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007700"
 soort: "AMvB"
@@ -86,7 +86,7 @@ De commandant van een Nederlands of bondgenootschappelijk oorlogsschip is, voor 
 
 ##### Artikel 6
 
-In afwijking van het bepaalde in artikel 4A.02, eerste lid, onderdeel **b**, van het Binnenvaartpolitiereglement, en [artikel 19, zesde lid, onderdeel **c**, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), mag een Nederlands of bondgenootschappelijk oorlogsschip op de vaarwegen bedoeld in [artikel 2, van het Vaststellingsbesluit Binnenvaartpolitiereglement](onbekend), en op de wateren genoemd in [artikel 1, eerste lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=1), gebruik maken van de radar ook al bevindt zich aan boord geen persoon die houder is van een diploma als bedoeld in artikel 4A.02, eerste lid, onderdeel **b**, van het Binnenvaartpolitiereglement, en [artikel 19, zesde lid, onderdeel **c**, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19).
+In afwijking van het bepaalde in [artikel 4.06, eerste lid, onderdeel b, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), en [artikel 19, zesde lid, onderdeel **c**, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), mag een Nederlands of bondgenootschappelijk oorlogsschip op de vaarwegen bedoeld in [artikel 2, van het Vaststellingsbesluit Binnenvaartpolitiereglement](onbekend), en op de wateren genoemd in [artikel 1, eerste lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=1), gebruik maken van de radar ook al bevindt zich aan boord geen persoon die houder is van een diploma als bedoeld in [artikel 4.06, eerste lid, onderdeel b, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), en [artikel 19, zesde lid, onderdeel **c**, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19).
 
 ##### Artikel 7
 
