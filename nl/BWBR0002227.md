@@ -4,7 +4,7 @@ identifier: "BWBR0002227"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2002-09-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002227"
 soort: "AMvB"
@@ -136,9 +136,9 @@ Vervallen
 
 ##### Artikel 12
 
-1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2002-01-01&g=2002-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2002-01-01&g=2002-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
+1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2002-09-25&g=2002-09-25) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2002-09-25&g=2002-09-25), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
 
-2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-01-01&g=2002-01-01) opgenomen voorwaarden.
+2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-09-25&g=2002-09-25) opgenomen voorwaarden.
 
 3. Indien Onze Minister besluit ter zake van de overdracht van het voorwerp aan de Staat kwijtschelding van successierecht te verlenen, vermeldt het besluit tevens de waarde in het economische verkeer die voor de berekening van de kwijtschelding aan het voorwerp zal worden toegekend.
 
@@ -146,7 +146,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-01-01&g=2002-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
+1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-09-25&g=2002-09-25), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
 2. De commissie bestaat uit een voorzitter, tevens lid, en twee andere leden.
 
@@ -162,9 +162,9 @@ Vervallen
 
 ##### Artikel 14
 
-1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-01-01&g=2002-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
+1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2002-09-25&g=2002-09-25), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
 
-2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2002-01-01&g=2002-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
+2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2002-09-25&g=2002-09-25), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
 
 ##### Artikel 15
 
@@ -172,7 +172,7 @@ Kwijtschelding van successierecht kan slechts worden verleend ter zake van de ov
 
 - a. voorkomen op de Lijst van beschermde voorwerpen behorende bij de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659),
 
-- b. niet voorkomen op de lijst bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van [artikel 2 van het Besluit behoud cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003775&artikel=2), of,
+- b. niet voorkomen op de lijst bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van [artikel 2 van de Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=2), of,
 
 - c. op grond van één of meer van de volgende criteria van groot nationaal cultuurhistorisch of kunsthistorisch belang zijn:
 
