@@ -4,7 +4,7 @@ identifier: "BWBR0008233"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-01-01"
-last_updated: "1996-10-01"
+last_updated: "2002-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008233"
 soort: "AMvB"
@@ -92,11 +92,11 @@ De bewaarder is bevoegd ter zake van het verzoek tot teboekstelling van een luch
 
 ##### Artikel 6
 
-1. Teneinde de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&hoofdstuk=2&artikel=5&z=1996-10-01&g=1996-10-01), bedoelde goedkeuring van de verklaring te verkrijgen, legt de verzoeker over:
+1. Teneinde de in artikel 5, derde lid, bedoelde goedkeuring van de verklaring te verkrijgen, legt de verzoeker over:
 
 - a. een bewijs van inschrijving van het luchtvaartuig in het nationaliteitsregister;
 
-- b. een door de directeur-generaal van de Rijksluchtvaartdienst afgegeven verklaring waaruit de maximaal toegelaten massa van het luchtvaartuig blijkt;
+- b. een door de directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat afgegeven verklaring waaruit de maximaal toegelaten massa van het luchtvaartuig blijkt;
 
 - c. ingeval het luchtvaartuig reeds in een verdragsregister of in enig soortgelijk buitenlands register heeft te boek gestaan, een door de bevoegde autoriteit afgegeven verklaring, waaruit blijkt dat de teboekstelling is doorgehaald nadat aan die autoriteit was gebleken dat ten aanzien van het luchtvaartuig geen rechten of beslagen waren ingeschreven dan wel dat degenen van wier recht of beslag uit een inschrijving blijkt, in de doorhaling hadden toegestemd, benevens een koopakte of enig ander stuk waaruit blijkt dat de verzoeker eigenaar van het luchtvaartuig is;
 
@@ -136,7 +136,7 @@ De bewaarder is bevoegd ter zake van het verzoek tot teboekstelling van een luch
 
 - a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 107, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), vermeldende ten minste de gegevens, bedoeld in artikel 92, tweede lid, onder **a**, **c**, **d**, **e**, **f** en **g**, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
 
-- b. indien het luchtvaartuig niet of niet meer de hoedanigheid van Nederlands luchtvaartuig heeft, een door de directeur-generaal van de Rijksluchtvaartdienst afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het nationaliteitsregister is doorgehaald;
+- b. indien het luchtvaartuig niet of niet meer de hoedanigheid van Nederlands luchtvaartuig heeft, een door de directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het nationaliteitsregister is doorgehaald;
 
 - c. in de andere gevallen de bescheiden, waaruit de gestelde feiten blijken.
 
@@ -152,7 +152,7 @@ De bewaarder is bevoegd ter zake van het verzoek tot teboekstelling van een luch
 
 - a. een uittreksel van de registratie voor luchtvaartuigen, als bedoeld in [artikel 107, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), vermeldende ten minste de gegevens, bedoeld in artikel 92, tweede lid, onder **a**, **c**, **d**, **e**, **f** en **g**, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen;
 
-- b. in gevallen, als bedoeld in artikel 1304, eerste lid, onder **b**, onderdelen 1°, 2° en 3°, van Boek 8 van het Burgerlijk Wetboek, een door de directeur-generaal van de Rijksluchtvaartdienst afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het nationaliteitsregister is doorgehaald;
+- b. in gevallen, als bedoeld in artikel 1304, eerste lid, onder **b**, onderdelen 1°, 2° en 3°, van Boek 8 van het Burgerlijk Wetboek, een door de directeur-hoofdinspecteur van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat afgegeven verklaring, dat de inschrijving van het luchtvaartuig in het nationaliteitsregister is doorgehaald;
 
 - c. in een geval, als bedoeld in artikel 1304, eerste lid, onder **b**, onderdeel 4°, van Boek 8 van het Burgerlijk Wetboek, een door de bevoegde autoriteit afgegeven bewijsstuk van teboekstelling of een uittreksel uit het verdragsregister waaruit blijkt dat het luchtvaartuig aldaar te boek staat.
 
