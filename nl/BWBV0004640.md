@@ -327,11 +327,3 @@ De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk authentiek.
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Fifty-fifth Session which was held at Geneva and declared closed the thirtieth day of October 1970.
 
 IN FAITH WHEREOF we have appended our signatures this thirtieth day of October 1970.
-
-## DEEL I. - ALGEMENE BEPALINGEN
-
-## DEEL II. VOORSCHRIFTEN BETREFFENDE DE VERBLIJVEN VAN DE BEMANNING
-
-## DEEL III. TOEPASSING VAN HET VERDRAG OP BESTAANDE SCHEPEN
-
-## DEEL IV. SLOTBEPALINGEN
