@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2003-03-16"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -731,7 +731,7 @@ Bij kunstvluchten en bij wolkenvluchten moet iedere inzittende van een zweef- of
 
 ##### Artikel 117b. Oefen- en examenvluchten
 
-Onverminderd het bij of krachtens artikel 88, derde lid, bepaalde moet bij een oefen- of examenvlucht met een zweef- of motorzweefvliegtuig de aan de vlucht voorafgaande dagelijkse inspectie worden uitgevoerd door een zweefvlieginstructeur.
+Vervallen
 
 ### Afdeling V. Gebruik van het luchtruim
 
