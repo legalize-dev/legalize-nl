@@ -4,7 +4,7 @@ identifier: "BWBR0014988"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2003-12-25"
-last_updated: "2003-04-30"
+last_updated: "2003-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014988"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1
 
-I. Het subsidieplafond voor het jaar 2003 voor het verlenen van projectsubsidies als bedoeld in de [Subsidieregeling maatschappelijke organisaties en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0010671) bedraagt € 5.075.000,-.
+I. Het subsidieplafond voor het jaar 2003 voor het verlenen van projectsubsidies als bedoeld in de [Subsidieregeling maatschappelijke organisaties en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0010671) bedraagt € 6.070.000,–.
 
 II. Van het bedrag, genoemd in het eerste lid, is:
 
-- A. voor projecten als bedoeld in artikel 6, tweede lid, onder a, van de in het eerste lid genoemde regeling ten hoogste € 1.915.000,- beschikbaar;
+- A. voor projecten als bedoeld in [artikel 6, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010671&artikel=6), van de in het eerste lid genoemde regeling ten hoogste € 2.447.000,– beschikbaar;
 
-- B. voor projecten als bedoeld in artikel 6, tweede lid, onder b, van de in het eerste lid genoemde regeling ten hoogste € 835.000,- beschikbaar, en
+- B. voor projecten als bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010671&artikel=6), van de in het eerste lid genoemde regeling ten hoogste € 1.121.000,– beschikbaar, en
 
-- C. voor projecten als bedoeld in artikel 6, tweede lid, onder c, van de in het eerste lid genoemde regeling ten hoogste € 2.325.000,- beschikbaar.
+- C. voor projecten als bedoeld in [artikel 6, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010671&artikel=6), van de in het eerste lid genoemde regeling ten hoogste € 2.502.000,– beschikbaar.
 
 ##### Artikel 2
 
-Het subsidieplafond voor het jaar 2003 voor het verlenen van programmasubsidies als bedoeld in de [Subsidieregeling maatschappelijke organisaties en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0010671) bedraagt € 785.000,-.
+Het subsidieplafond voor het jaar 2003 voor het verlenen van programmasubsidies als bedoeld in de [Subsidieregeling maatschappelijke organisaties en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0010671) bedraagt € 1.418.000,–.
 
 ##### Artikel 3
 
