@@ -315,25 +315,3 @@ De constanten en waarden worden berekend op basis van de gegevens omtrent CO2-ui
 De contanten en waarden, die voor deze periode van 12 maanden worden gevonden, worden gecorrigeerd voor de verwachte afname of toename van de gemiddelde CO2-uitstoot over de periode van 1,5 jaar gelegen tussen de 12 maanden, waarover de constanten en waarden zijn bepaald, en het kalenderjaar, waarin de constanten en waarden van toepassing zijn. Deze correctie wordt uitgevoerd door de gevonden constanten en waarden over de periode van juli tot en met juni van het voorgaande jaar voor benzine en diesel afzonderlijk met een percentage te verlagen of te verhogen. Deze percentages, die worden afgerond op een tiende procent, worden mede bepaald aan de hand van de gemiddelde afname of toename van de gemiddelde CO2-uitstoot van het derde kalenderjaar ten opzichte van het vierde kalenderjaar en van het tweede kalenderjaar ten opzichte van het derde kalenderjaar voorafgaand aan het kalenderjaar waarin de constanten van toepassing zijn.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-De waarden voor de lengte en de breedte worden in meters, met een nauwkeurigheid van drie cijfers achter de komma ingevuld. De waarde voor de specifieke CO2-uitstoot wordt in gram/km, afgerond op het dichtstbijzijnde gehele cijfer ingevuld.
-
-### II. Vaststelling constanten en waarden ten behoeve van de berekening
-
-De contanten en waarden, die voor deze periode van 12 maanden worden gevonden, worden gecorrigeerd voor de verwachte afname of toename van de gemiddelde CO2-uitstoot over de periode van 1,5 jaar gelegen tussen de 12 maanden, waarover de constanten en waarden zijn bepaald, en het kalenderjaar, waarin de constanten en waarden van toepassing zijn. Deze correctie wordt uitgevoerd door de gevonden constanten en waarden over de periode van juli tot en met juni van het voorgaande jaar voor benzine en diesel afzonderlijk met een percentage te verlagen of te verhogen. Deze percentages, die worden afgerond op een tiende procent, worden mede bepaald aan de hand van de gemiddelde afname of toename van de gemiddelde CO2-uitstoot van het derde kalenderjaar ten opzichte van het vierde kalenderjaar en van het tweede kalenderjaar ten opzichte van het derde kalenderjaar voorafgaand aan het kalenderjaar waarin de constanten van toepassing zijn.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels vastgesteld voor:
-
-- a. de bepaling van de energie-efficiëntieklasse en
-
-- b. de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid.
-
-## Bijlage 4. bij het Besluit etikettering energiegebruik personenauto's
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
