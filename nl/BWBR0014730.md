@@ -73,17 +73,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling Somalië 2003.
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De bevoegde autoriteit, bedoeld in artikel 2 bis onder a en b, van Verordening (EG) nr. 631/2007 van de Raad van de Europese Unie van 7 juni 2007 tot wijziging van Verordening (EG) nr. 147/2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 146), is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 2 bis onder a, en de Minister van Economische Zaken voor zover het betreft technisch advies, bijstand of opleiding, bedoeld in voornoemd artikel 2 bis onder a. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis onder b, is de Minister van Economische Zaken.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. Het is verboden te handelen in strijd met de artikelen 2, 8, 9, van Verordening (EU) nr. 356/2010 van de Raad van de Europese Unie van 26 april 2010 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen sommige natuurlijke personen of rechtspersonen, entiteiten of lichamen, in het licht van de situatie in Somalië (Pb EU L 105).
-
-2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 3, 4, eerste lid, 5 of 6 van Verordening (EU) nr. 356/2010 van toepassing is.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.
