@@ -4,7 +4,7 @@ identifier: "BWBR0005645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-01-16"
+last_updated: "2003-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005645"
 soort: "wet"
@@ -69,7 +69,7 @@ In deze wet wordt verstaan onder:
 
 - b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. commissie: een commissie als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2002-01-16&g=2002-01-16).
+- c. commissie: een commissie als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&titeldeel=II&hoofdstuk=V&artikel=80&z=2003-01-01&g=2003-01-01).
 
 ## Titel II. De inrichting en samenstelling van het provinciaal bestuur
 
@@ -1737,7 +1737,11 @@ De rechten, bedoeld in artikel 223, eerste lid, kunnen worden geheven door de pr
 
 1. In verordeningen op grond waarvan rechten als bedoeld in artikel 223, eerste lid, worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
 
-2. Onder de in het eerste lid bedoelde lasten worden mede verstaan bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa.
+2. Onder de in het eerste lid bedoelde lasten worden mede verstaan:
+
+- a. bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa;
+
+- b. de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) recht geeft op een bijdrage uit het fonds.
 
 ##### Artikel 226
 
@@ -1817,7 +1821,7 @@ Provinciale belastingen kunnen worden geheven bij wege van aanslag, bij wege van
 
 ##### Artikel 228
 
-Bij de heffing van provinciale belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) van die wet buiten toepassing.
+Bij de heffing van provinciale belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van provinciale belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) van die wet buiten toepassing.
 
 ##### Artikel 228a
 
