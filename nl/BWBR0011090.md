@@ -4,7 +4,7 @@ identifier: "BWBR0011090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-03-01"
-last_updated: "2000-01-14"
+last_updated: "2004-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011090"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Besluit:
 
 ##### Artikel 3
 
-Het CAM wordt ondersteund bij zijn taken door de klankbordgroep en de commissie risicoschatting nieuwe drugs, bedoeld in de [regeling risicoschatting nieuwe drugs](https://wetten.overheid.nl/jci1.3:c:BWBR0011091).
+Vervallen
 
 ##### Artikel 4
 
