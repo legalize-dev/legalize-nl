@@ -131,17 +131,3 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel **a**, van het Besluit
 ### C2. Samenhangende zaken
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### B. Waarde per punt
-
-2. 1 punt = € 472 Per 1 januari 2016: € 496 in de overige gevallen.
-
-### C2. Samenhangende zaken
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### C. Wegingsfactoren
-
-### C1. Gewicht van de zaak
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
