@@ -83,9 +83,3 @@ Onze Minister van Justitie zendt een exemplaar van alle gegevens, die hij van de
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5a
-
-De gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal kunnen worden tenuitvoergelegd, en die zijn genomen voor 23 juli 2002, vindt plaats overeenkomstig deze wet.
-
-Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
