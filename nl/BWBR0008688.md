@@ -337,13 +337,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Tuchtrechtbesluit BIG.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-##### Artikel 32a
-
-Voor de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50) wordt voor zaken waar in hoogste instantie een maatregel is opgelegd door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen, advies ingewonnen bij de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
-
-### HOOFDSTUK 4. MAATREGELEN WEGENS ONGESCHIKTHEID
-
-### HOOFDSTUK 5. SLOTBEPALINGEN
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
