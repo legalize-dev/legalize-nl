@@ -4,7 +4,7 @@ identifier: "BWBR0016131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2004-01-01"
+last_updated: "2004-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016131"
 soort: "ministeriele-regeling"
@@ -156,9 +156,9 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 ##### Artikel 9. Grenzen aansprakelijkstelling
 
-1. Indien de aansprakelijkheid zowel loonbelasting of omzetbelasting als premie betreft, is zowel de ontvanger als het Uitvoeringsinstituut bevoegd de inlener, aannemer of opdrachtgever aansprakelijk te stellen voor de ingevolge diens aansprakelijkheid te vorderen belasting, onderscheidenlijk premie. Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het gezamenlijke bedrag aan loonbelasting, omzetbelasting en premie waarvoor bij de inlener, aannemer of opdrachtgever in eerste aanleg aansprakelijkheid is ontstaan en het gezamenlijke bedrag van de terzake door de inlener, aannemer of opdrachtgever op de g-rekening van de uitlener, de onderaannemer of de confectie-aannemer gestorte bedragen. Deze bedragen komen slechts in mindering op het gezamenlijke bedrag aan loonbelasting, omzetbelasting en premie waarvoor in eerste aanleg aansprakelijkheid is ontstaan indien aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6&z=2004-01-01&g=2004-01-01) is voldaan. Indien zowel de ontvanger als het Uitvoeringsinstituut omtrent dezelfde tot aansprakelijkheid leidende feiten daadwerkelijk tot aansprakelijkstelling overgaat, overtreft het gezamenlijke bedrag van beide aansprakelijkstellingen niet het bedrag waarvoor de inlener, aannemer of opdrachtgever ten hoogste aansprakelijk kan worden gesteld.
+1. Indien de aansprakelijkheid zowel loonbelasting of omzetbelasting als premie betreft, is zowel de ontvanger als het Uitvoeringsinstituut bevoegd de inlener, aannemer of opdrachtgever aansprakelijk te stellen voor de ingevolge diens aansprakelijkheid te vorderen belasting, onderscheidenlijk premie. Aansprakelijkstelling vindt plaats voor ten hoogste het verschil tussen het gezamenlijke bedrag aan loonbelasting, omzetbelasting en premie waarvoor bij de inlener, aannemer of opdrachtgever in eerste aanleg aansprakelijkheid is ontstaan en het gezamenlijke bedrag van de terzake door de inlener, aannemer of opdrachtgever op de g-rekening van de uitlener, de onderaannemer of de confectie-aannemer gestorte bedragen. Deze bedragen komen slechts in mindering op het gezamenlijke bedrag aan loonbelasting, omzetbelasting en premie waarvoor in eerste aanleg aansprakelijkheid is ontstaan indien aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=6&z=2004-03-05&g=2004-03-05) is voldaan. Indien zowel de ontvanger als het Uitvoeringsinstituut omtrent dezelfde tot aansprakelijkheid leidende feiten daadwerkelijk tot aansprakelijkstelling overgaat, overtreft het gezamenlijke bedrag van beide aansprakelijkstellingen niet het bedrag waarvoor de inlener, aannemer of opdrachtgever ten hoogste aansprakelijk kan worden gesteld.
 
-2. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=8&z=2004-01-01&g=2004-01-01), is van overeenkomstige toepassing.
+2. [Artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=8&z=2004-03-05&g=2004-03-05), is van overeenkomstige toepassing.
 
 ##### Artikel 10. Deblokkering
 
@@ -176,9 +176,9 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 - a. de rekeninghouder geen of op onjuiste wijze gebruik maakt van de g-rekening;
 
-- b. de rekeninghouder niet of niet meer de hoedanigheid blijkt te bezitten van ondernemer, uitlener of doorlener als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2004-01-01&g=2004-01-01);
+- b. de rekeninghouder niet of niet meer de hoedanigheid blijkt te bezitten van ondernemer, uitlener of doorlener als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2004-03-05&g=2004-03-05);
 
-- c. het samenwerkingsverband, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2004-01-01&g=2004-01-01), is beëindigd;
+- c. het samenwerkingsverband, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2004-03-05&g=2004-03-05), is beëindigd;
 
 - d. met de rekeninghouder meer dan één g-rekening is gesloten en de rekeninghouder niet aannemelijk maakt dat het aanhouden van meer dan één g-rekening voor zijn bedrijfsvoering noodzakelijk is;
 
@@ -194,7 +194,7 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 4. Na opzegging van de g-rekeningovereenkomst blijft die overeenkomst niettemin van toepassing op het saldo van de g-rekening ten tijde van de opzegging, alsmede op hetgeen nadien op die rekening wordt gestort, een en ander voorzover daardoor geen strijdigheid ontstaat met de gevolgen die rechtens zijn verbonden aan het in staat van faillissement verklaren van de rekeninghouder, van het aan hem verlenen van surséance van betaling of van het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen.
 
-5. Een betaling die wordt verricht op een rekening die oorspronkelijk is geopend ingevolge een g-rekeningovereenkomst doch met betrekking waartoe een opzegging van die overeenkomst van kracht is geworden, wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), of [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) of de [artikelen 16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a), of [16b, vijfde lid, van de Coördinatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) niet aangemerkt als betaling die in mindering wordt gebracht op het bedrag aan loonbelasting of omzetbelasting, onderscheidenlijk premie, waarvoor aansprakelijkheid is ontstaan, tenzij die betaling deel is gaan uitmaken van het saldo op die rekening of het gedeelte van dat saldo op die rekening waarop ondanks die opzegging ingevolge het vierde lid het in [artikel 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1&z=2004-01-01&g=2004-01-01), bedoelde pandrecht is komen te rusten.
+5. Een betaling die wordt verricht op een rekening die oorspronkelijk is geopend ingevolge een g-rekeningovereenkomst doch met betrekking waartoe een opzegging van die overeenkomst van kracht is geworden, wordt voor de toepassing van de [artikelen 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34), of [35, vijfde lid, van de Invorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) of de [artikelen 16a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a), of [16b, vijfde lid, van de Coördinatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) niet aangemerkt als betaling die in mindering wordt gebracht op het bedrag aan loonbelasting of omzetbelasting, onderscheidenlijk premie, waarvoor aansprakelijkheid is ontstaan, tenzij die betaling deel is gaan uitmaken van het saldo op die rekening of het gedeelte van dat saldo op die rekening waarop ondanks die opzegging ingevolge het vierde lid het in [artikel 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=1&z=2004-03-05&g=2004-03-05), bedoelde pandrecht is komen te rusten.
 
 ##### Artikel 12. Intrekking regelingen en vervallen van artikelen
 
@@ -204,7 +204,7 @@ Het door partijen getekende exemplaar van de g-rekeningovereenkomst wordt door d
 
 ##### Artikel 13. Overgangsbepaling
 
-G-rekeningovereenkomsten die voldoen aan de voorschriften van de regelingen en artikelen, die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=12&z=2004-01-01&g=2004-01-01) worden ingetrokken respectievelijk vervallen, worden aangemerkt als g-rekeningovereenkomsten, bedoeld in deze regeling.
+G-rekeningovereenkomsten die voldoen aan de voorschriften van de regelingen en artikelen, die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=12&z=2004-03-05&g=2004-03-05) worden ingetrokken respectievelijk vervallen, worden aangemerkt als g-rekeningovereenkomsten, bedoeld in deze regeling.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -216,17 +216,13 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling inleners-, keten- en opd
 
 ## Bijlage
 
-G-rekeningovereenkomst
+**g-rekeningovereenkomst**
 
 De ondergetekenden:
 
-– ... (naam), ... (adres, postcode en woon- of vestigingsplaats), ingeschreven in het Handelsregister bij de Kamer van Koophandel en Fabrieken te ... onder
+– ... (naam), ... (adres, postcode en woon- of vestigingsplaats), ingeschreven in het Handelsregister bij de Kamer van Koophandel en Fabrieken te ... onder nummer ..., verder te noemen de rekeninghouder;
 
-nummer ..., verder te noemen de rekeninghouder;
-
-– het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), verder te noemen
-
-het Uitvoeringsinstituut;
+– het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), verder te noemen het Uitvoeringsinstituut;
 
 – de ontvanger der rijksbelastingen, verder te noemen de ontvanger;
 
@@ -234,9 +230,7 @@ het Uitvoeringsinstituut;
 
 Overwegende:
 
-– dat de rekeninghouder inhoudingsplichtige is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en als zodanig bij de ontvanger bekend staat onder nummer ...
-
-en/of werkgever is in de zin van de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126) (CSV) en als zodanig bij het Uitvoeringsinstituut bekend staat onder nummer ..., dan wel op de rekeninghouder [artikel 2, eerste lid, onderdelen a en f, en tweede lid, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid](onbekend) van toepassing is;
+– dat de rekeninghouder inhoudingsplichtige is in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en als zodanig bij de ontvanger bekend staat onder nummer ... en/of werkgever is in de zin van de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126) (CSV) en als zodanig bij het Uitvoeringsinstituut bekend staat onder nummer ..., dan wel op de rekeninghouder [artikel 2, eerste lid, onderdelen a en f, en tweede lid, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131&artikel=2&z=2004-03-05&g=2004-03-05) van toepassing is;
 
 – dat de rekeninghouder, die zijn bedrijf uitsluitend of nagenoeg uitsluitend maakt van het tegen vergoeding uitlenen van personeel, voor de heffing van omzetbelasting bij de ontvanger bekend staat onder nummer ...;
 
@@ -246,7 +240,7 @@ en/of werkgever is in de zin van de [Coördinatiewet Sociale Verzekering](https:
 
 – dat het in verband met het vorenstaande noodzakelijk is dat de saldi van die rekening worden verpand aan de ontvanger en het Uitvoeringsinstituut gezamenlijk.
 
-**Zijn overeengekomen als volgt**:
+Zijn overeengekomen als volgt:
 
 1. De rekeninghouder opent hierbij een geblokkeerde rekening (g-rekening) bij de kredietinstelling onder nummer ... .
 
@@ -256,31 +250,35 @@ en/of werkgever is in de zin van de [Coördinatiewet Sociale Verzekering](https:
 
 4. De kredietinstelling verklaart in verband met het vorenstaande afstand te doen van haar recht op verrekening, van pand of enig ander recht dat afbreuk zou kunnen doen aan het ten behoeve van de ontvanger en het Uitvoeringsinstituut gevestigde pandrecht.
 
-5. Betalingen ten laste van de g-rekening, andere dan die, bedoeld in de beweegreden van deze overeenkomst zullen slechts geschieden na daartoe ontvangen schriftelijke toestemming van de ontvanger of het Uitvoeringsinstituut.
+5. Betalingen ten laste van de g-rekening, andere dan die, bedoeld in de beweegreden van deze overeenkomst, en andere dan terugstortingen als bedoeld in punt 9, zullen slechts geschieden na daartoe ontvangen schriftelijke toestemming van de ontvanger of het Uitvoeringsinstituut.
 
 6. De rekeninghouder verleent hierbij aan de ontvanger en het Uitvoeringsinstituut gezamenlijk volmacht tot inning van de saldi van de g-rekening alsmede tot verrekening van het aldus geïnde met al hetgeen zij nu of te eniger tijd van hem te vorderen hebben of zullen krijgen ter zake van de in punt 2 bedoelde belasting en premie.
 
-7. Het Uitvoeringsinstituut werknemersverzekeringen en de ontvanger verlenen volmacht aan de rekeninghouder ten laste van de g-rekening bedragen over te maken naar het Uitvoeringsinstituut werknemersverzekeringen en de ontvanger alsmede naar andere g-rekeningen, mits deze stortingen naar andere g-rekeningen betrekking hebben op het verrichten van werkzaamheden door een ter beschikking gestelde werknemer in de zin van de artikelen [16a, vijfde lid, van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a) en [34, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) of op aanneming van werk in de zin van de [artikelen 16b, vijfde lid, van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) en [35, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
+7. De ontvanger en het Uitvoeringsinstituut verlenen volmacht aan de rekeninghouder ten laste van de g-rekening bedragen over te maken naar de ontvanger en het Uitvoeringsinstituut alsmede naar andere g-rekeningen, mits deze stortingen naar andere g-rekeningen betrekking hebben op het verrichten van werkzaamheden door een ter beschikking gestelde werknemer in de zin van de [artikelen 16a, vijfde lid, van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a) en [34, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) of op aanneming van werk in de zin van de [artikelen 16b, vijfde lid, van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) en [35, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35).
 
-8. De rekeninghouder verplicht zich hierbij tegenover de ontvanger en het Uitvoeringsinstituut om in geval van faillissement, aanvraag tot surséance van betaling en in het algemeen bij opschorting van zijn betalingen uiterlijk binnen drie dagen mededeling te doen van het saldo van de g-rekening.
+8. De rekeninghouder verplicht zich hierbij tegenover de ontvanger en het Uitvoeringsinstituut om in geval van faillissement, aanvraag tot surséance van betaling, aanvraag tot toepassing van de schuldsaneringsregeling natuurlijke personen en in het algemeen bij opschorting van zijn betalingen uiterlijk binnen drie dagen mededeling te doen van het saldo van de g-rekening.
 
-9. De rekeninghouder verplicht zich hierbij tegenover de ontvanger en het Uitvoeringsinstituut om opdrachten tot betaling ten laste van de g-rekening slechts op één aangifte of één belastingaanslag, onderscheidenlijk slechts op één premienota betrekking te doen hebben.
+9. De rekeninghouder verplicht zich hierbij tegenover de ontvanger en het Uitvoeringsinstituut om in het geval dat op zijn g-rekening vanaf een andere g-rekening een bedrag wordt gestort dat geen betrekking heeft op aanneming van werk in de zin van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) en [35a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35a) en de [artikelen 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16b) en [16ba van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16ba) of op het aan derden ter beschikking stellen van werknemers in de zin van [artikel 34 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34) en [artikel 16a van de CSV](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=16a), dit bedrag onmiddellijk terug te storten op de g-rekening van de storter, opdat de ontvanger en het Uitvoeringsinstituut op dit bedrag jegens de storter hun pandrecht kunnen doen gelden. Indien dit laatste niet of niet meer mogelijk is omdat de storter inmiddels in staat van faillissement is verklaard, aan hem surseance van betaling is verleend dan wel ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is, verplicht de rekeninghouder zich om, in afwijking van de vorige volzin, dit bedrag onder vermelding van de herkomst over te maken aan de ontvanger of het Uitvoeringsinstituut.
 
-10. In de administratie van de kredietinstelling worden bij betalingen ten gunste van de g-rekening de gegevens vastgelegd zoals deze op de desbetreffende betalingsopdrachten zijn vermeld. Hetzelfde geldt voor de gegevens die bij betalingen ten laste van de g-rekening op de betalingsopdrachten zijn vermeld.
+10. De rekeninghouder verplicht zich hierbij tegenover de ontvanger en het Uitvoeringsinstituut om opdrachten tot betaling ten laste van de g-rekening slechts op één aangifte of één belastingaanslag, onderscheidenlijk slechts op één premienota betrekking te doen hebben.
 
-11. De kredietinstelling zal de ontvanger en het Uitvoeringsinstituut op een afzonderlijk tussen hen overeen te komen wijze regelmatig op de hoogte houden van alle gegevens die op de g-rekening betrekking hebben. De rekeninghouder verklaart zich met deze gegevensuitwisseling akkoord.
+11. De kredietinstelling verklaart in verband met de in punt 9 omschreven plicht tot terugstorten op de daadwerkelijk terugstortingen punt 4 overeenkomstig te zullen toepassen.
 
-Aldus overeengekomen en getekend te op
+12. In de administratie van de kredietinstelling worden bij betalingen ten gunste van de g-rekening de gegevens vastgelegd zoals deze op de desbetreffende betalingsopdrachten zijn vermeld. Hetzelfde geldt voor de gegevens die bij betalingen ten laste van de g-rekening op de betalingsopdrachten zijn vermeld.
+
+13. De kredietinstelling zal de ontvanger en het Uitvoeringsinstituut op een afzonderlijk tussen hen overeen te komen wijze regelmatig op de hoogte houden van alle gegevens die op de g-rekening betrekking hebben. De rekeninghouder verklaart zich met deze gegevensuitwisseling akkoord.
+
+Aldus overeengekomen en getekend te … op …
 
 De rekeninghouder,
 
 De ontvanger,
 
-voor deze,
+voor deze:
 
 Het Uitvoeringsinstituut werknemersverzekeringen,
 
-voor deze,
+voor deze:
 
 De kredietinstelling,
 
