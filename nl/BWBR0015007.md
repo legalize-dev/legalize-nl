@@ -4,7 +4,7 @@ identifier: "BWBR0015007"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2005-02-15"
+last_updated: "2005-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015007"
 soort: "wet"
@@ -63,9 +63,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. lidstaat: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- h. beheerder: houder van een concessie als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=16&z=2005-02-15&g=2005-02-15);
+- h. beheerder: houder van een concessie als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=16&z=2005-03-16&g=2005-03-16);
 
-- i. keuringsinstantie: instantie aangewezen op grond van [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-02-15&g=2005-02-15);
+- i. keuringsinstantie: instantie aangewezen op grond van [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-03-16&g=2005-03-16);
 
 - j. veiligheidsfunctie: functie van bestuurder van een spoorvoertuig of een andere, bij algemene maatregel van bestuur omschreven, functie binnen het spoorwegverkeerssysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer;
 
@@ -81,7 +81,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. Verdrag: Verdrag betreffende het internationale spoorwegvervoer (Trb. 1980, 160), zoals gewijzigd ingevolge het op 20 december 1990 te Bern tot stand gekomen Protocol 1990 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Trb. 1997, 19) en het op 3 juni 1999 te Vilnius tot stand gekomen Protocol 1999 inzake de herziening van het Verdrag betreffende het Internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Trb. 2000, 70);
 
-- q. raad van bestuur NMa: raad van bestuur van de mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2).
+- q. directeur-generaal NMa: directeur-generaal van de mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2).
 
 ##### Artikel 2
 
@@ -117,7 +117,7 @@ Het is een ieder verboden zich zodanig te gedragen dat gevaar op de spoorweg wor
 
 3. Het is verboden een veiligheidsfunctie te doen uitoefenen dan wel op de uitoefening van zodanige functie toezicht te doen houden door een persoon waarvan men weet of redelijkerwijs moet weten dat deze verkeert in een toestand als in het eerste of tweede lid is omschreven.
 
-4. Op de eerste vordering van bij of krachtens [artikel 86 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-02-15&g=2005-02-15) of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.
+4. Op de eerste vordering van bij of krachtens [artikel 86 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-03-16&g=2005-03-16) of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.
 
 5. Dit artikel is niet van toepassing voorzover [artikel 8 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) van toepassing is.
 
@@ -149,53 +149,51 @@ Na de inwerkingtreding van deze wet berusten de hierna genoemde algemene maatreg
 
 - c. dit onderdeel is nog niet in werking getreden;
 
-- d. dit onderdeel is nog niet in werking getreden;
-
-- e. dit onderdeel is nog niet in werking getreden;
+- d. dit onderdeel is nog niet in werking getreden.
 
 #### § 2. Overige overgangsbepalingen
 
 ##### Artikel 117
 
-De schadevergoedingsplicht, bedoeld in [artikel 57, eerste en tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=57), rust niet op de eigenaar van een erf met een recht van uitweg over de hoofdspoorweg, indien dat recht van kracht was op de dag voorafgaande aan de dag waarop [artikel 103, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=8&artikel=103&z=2005-02-15&g=2005-02-15), in werking treedt.
+De schadevergoedingsplicht, bedoeld in [artikel 57, eerste en tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=57), rust niet op de eigenaar van een erf met een recht van uitweg over de hoofdspoorweg, indien dat recht van kracht was op de dag voorafgaande aan de dag waarop [artikel 103, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=8&artikel=103&z=2005-03-16&g=2005-03-16), in werking treedt.
 
 ##### Artikel 118
 
-1. Tot en met de eerste dag van de vierde kalendermaand na de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15) in werking treedt, worden houders van een vergunning voor openbaar vervoer per trein, verleend ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), en houders van een erkenning als spoorwegonderneming, afgegeven door Onze Minister, voor de toepassing van deze wet aangemerkt als houders van een bedrijfsvergunning.
+1. Tot en met de eerste dag van de vierde kalendermaand na de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16) in werking treedt, worden houders van een vergunning voor openbaar vervoer per trein, verleend ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), en houders van een erkenning als spoorwegonderneming, afgegeven door Onze Minister, voor de toepassing van deze wet aangemerkt als houders van een bedrijfsvergunning.
 
-2. Het eerste lid geldt ook na de daarin bedoelde periode ten aanzien van de in het eerste lid bedoelde houders, indien zij voor de afloop van die periode een aanvraag hebben ingediend voor een vergunning als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15) en zolang als daarop niet onherroepelijk is beslist.
+2. Het eerste lid geldt ook na de daarin bedoelde periode ten aanzien van de in het eerste lid bedoelde houders, indien zij voor de afloop van die periode een aanvraag hebben ingediend voor een vergunning als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16) en zolang als daarop niet onherroepelijk is beslist.
 
 ##### Artikel 119
 
-1. Vergunningen die ingevolge [artikel 29a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29a) (Stb. 1875, 67) zijn verleend en gelden op het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15) in werking treedt, aangemerkt als verleend op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15).
+1. Vergunningen die ingevolge [artikel 29a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29a) (Stb. 1875, 67) zijn verleend en gelden op het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16) in werking treedt, aangemerkt als verleend op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16).
 
-2. Vergunningaanvragen die ingevolge [artikel 29a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29a) (Stb. 1875, 67) door Onze Minister in behandeling zijn genomen voor het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15) in werking treedt, aangemerkt als vergunningaanvragen op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15).
+2. Vergunningaanvragen die ingevolge [artikel 29a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=29a) (Stb. 1875, 67) door Onze Minister in behandeling zijn genomen voor het tijdstip van inwerkingtreding van deze wet, worden vanaf de dag waarop [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16) in werking treedt, aangemerkt als vergunningaanvragen op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 120
 
-1. Een geldende concessie ter uitoefening van de dienst verleend op grond van [artikel 2 van de Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen waarop uitsluitend met beperkte snelheid wordt vervoerd](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=2) (Stb. 118) wordt tot en met de eerste dag van de vierde kalendermaand na de dag waarop [artikel 103, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=8&artikel=103&z=2005-02-15&g=2005-02-15), in werking treedt, aangemerkt als een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-02-15&g=2005-02-15).
+1. Een geldende concessie ter uitoefening van de dienst verleend op grond van [artikel 2 van de Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen waarop uitsluitend met beperkte snelheid wordt vervoerd](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=2) (Stb. 118) wordt tot en met de eerste dag van de vierde kalendermaand na de dag waarop [artikel 103, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=8&artikel=103&z=2005-03-16&g=2005-03-16), in werking treedt, aangemerkt als een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-03-16&g=2005-03-16).
 
-2. De in het eerste lid bedoelde concessie wordt ook na de daarin bedoelde periode aangemerkt als een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-02-15&g=2005-02-15), indien de houder voor die dag een aanvraag heeft ingediend voor een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-02-15&g=2005-02-15) en zolang daarop niet onherroepelijk is beslist.
+2. De in het eerste lid bedoelde concessie wordt ook na de daarin bedoelde periode aangemerkt als een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-03-16&g=2005-03-16), indien de houder voor die dag een aanvraag heeft ingediend voor een veiligheidsattest als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-03-16&g=2005-03-16) en zolang daarop niet onherroepelijk is beslist.
 
 ##### Artikel 121
 
-Hoofdspoorweginfrastructuur die in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15) in werking treedt, wordt gebruikt, wordt met ingang van de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15) in werking treedt, aangemerkt als in overeenstemming met [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15).
+Hoofdspoorweginfrastructuur die in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16) in werking treedt, wordt gebruikt, wordt met ingang van de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16) in werking treedt, aangemerkt als in overeenstemming met [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 122
 
-1. Een spoorvoertuig dat in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15) in werking treedt, kan worden gebruikt op de hoofdspoorweg, wordt met ingang van de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15) in werking treedt, aangemerkt als in overeenstemming met de [onderdelen a en b van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15).
+1. Een spoorvoertuig dat in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16) in werking treedt, kan worden gebruikt op de hoofdspoorweg, wordt met ingang van de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16) in werking treedt, aangemerkt als in overeenstemming met de [onderdelen a en b van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16).
 
-2. [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), is niet van toepassing op spoorvoertuigen en uitrusting daarvan die voor de datum van inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15) in gebruik zijn genomen.
+2. [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), is niet van toepassing op spoorvoertuigen en uitrusting daarvan die voor de datum van inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16) in gebruik zijn genomen.
 
 ##### Artikel 123
 
-Erkenningen op grond van [artikel 32d, zevende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=32d) (Stb. 1875, 67) berusten met ingang van de dag waarop [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-02-15&g=2005-02-15) in werking treedt op [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-02-15&g=2005-02-15).
+Erkenningen op grond van [artikel 32d, zevende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=32d) (Stb. 1875, 67) berusten met ingang van de dag waarop [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-03-16&g=2005-03-16) in werking treedt op [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=8&artikel=93&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 124
 
-1. Bij de eerste toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-02-15&g=2005-02-15) kunnen in afwijking van [artikel 2, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-02-15&g=2005-02-15), spoorwegen als hoofdspoorwegen worden aangewezen, indien deze spoorwegen rechtstreeks of middellijk in overwegende mate zijn aangelegd op kosten van het Rijk en naar het oordeel van Onze Minister voldoende is komen vast te staan dat gedurende de periode van twee jaar voorafgaand aan de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-02-15&g=2005-02-15) deze spoorwegen door Railinfrabeheer b.v., gevestigd te Utrecht, werden onderhouden.
+1. In afwijking van [artikel 2, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-03-16&g=2005-03-16), kunnen spoorwegen als hoofdspoorwegen worden aangewezen, indien deze spoorwegen rechtstreeks of middellijk in overwegende mate zijn aangelegd op kosten van het Rijk en naar het oordeel van Onze Minister voldoende is komen vast te staan dat gedurende de periode van twee jaar voorafgaand aan de datum van inwerkingtreding van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-03-16&g=2005-03-16) deze spoorwegen door Railinfrabeheer b.v., gevestigd te Utrecht, werden onderhouden.
 
-2. Tot 1 januari 2005 kunnen in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-02-15&g=2005-02-15), spoorwegen als hoofdspoorwegen worden aangewezen, indien Railinfrabeheer b.v. of Railinfratrust b.v., gevestigd te Utrecht, rechthebbende is ten aanzien van deze spoorwegen.
+2. Tot 1 januari 2008 kunnen in afwijking van [artikel 2, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=2&z=2005-03-16&g=2005-03-16), spoorwegen als hoofdspoorwegen worden aangewezen, indien Railinfrabeheer b.v., of Railinfratrust b.v., gevestigd te Utrecht, of hun rechtsopvolger rechthebbende is ten aanzien van deze spoorwegen.
 
 ##### Artikel 125
 
@@ -247,9 +245,9 @@ Onze Minister draagt zorg voor de aanleg, het beheer en het onderhoud van hoofds
 
 ##### Artikel 7
 
-1. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15) gestelde regels zijn hoofdspoorwegen waar een snelheid van meer dan 40 kilometer per uur is toegestaan, voorzien van een bij ministeriële regeling te omschrijven systeem van beveiliging.
+1. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16) gestelde regels zijn hoofdspoorwegen waar een snelheid van meer dan 40 kilometer per uur is toegestaan, voorzien van een bij ministeriële regeling te omschrijven systeem van beveiliging.
 
-2. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15) gestelde regels zijn gedeelten van een hoofdspoorweg die niet zijn gelegen in een gelijkvloerse kruising met een weg of in een voor het openbaar verkeer openstaande weg, zodanig afgesloten van de omgeving dat het publiek zich niet of slechts met bijzondere moeite op de spoorweg kan begeven.
+2. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16) gestelde regels zijn gedeelten van een hoofdspoorweg die niet zijn gelegen in een gelijkvloerse kruising met een weg of in een voor het openbaar verkeer openstaande weg, zodanig afgesloten van de omgeving dat het publiek zich niet of slechts met bijzondere moeite op de spoorweg kan begeven.
 
 3. Onze Minister kan ontheffing verlenen van het eerste en tweede lid.
 
@@ -257,7 +255,7 @@ Onze Minister draagt zorg voor de aanleg, het beheer en het onderhoud van hoofds
 
 ##### Artikel 8
 
-1. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-02-15&g=2005-02-15) gestelde regels voldoet hoofdspoorweginfrastructuur waarover internationaal verkeer plaatsvindt aan de toepasselijke voorschriften van de [richtlijnen 2001/16/EG](32001L0016) en [96/48/EG](31996L0048) of van het Verdrag.
+1. Onverminderd de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=2&artikel=6&z=2005-03-16&g=2005-03-16) gestelde regels voldoet hoofdspoorweginfrastructuur waarover internationaal verkeer plaatsvindt aan de toepasselijke voorschriften van de [richtlijnen 2001/16/EG](32001L0016) en [96/48/EG](31996L0048) of van het Verdrag.
 
 2. De in het eerste lid bedoelde infrastructuur wordt vermoed te voldoen aan de voorschriften:
 
@@ -269,13 +267,13 @@ Onze Minister draagt zorg voor de aanleg, het beheer en het onderhoud van hoofds
 
 ##### Artikel 9
 
-1. Een EG-keuringsverklaring als bedoeld in [artikel 8, tweede lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15), wordt afgegeven indien:
+1. Een EG-keuringsverklaring als bedoeld in [artikel 8, tweede lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16), wordt afgegeven indien:
 
 - a. de spoorweginfrastructuur voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van [richtlijn 2001/16/EG](32001L0016), respectievelijk artikel 2, onderdeel g, van [richtlijn 96/48/EG](31996L0048);
 
 - b. ten aanzien van de spoorweginfrastructuur een conformiteitsverklaring als bedoeld in [richtlijn 2001/16/EG](32001L0016), bijlage VI, punt 3, respectievelijk in [richtlijn 96/48/EG](31996L0048), bijlage VI, punt 3, is afgegeven door een keuringsinstantie.
 
-2. Een goedkeuringscertificaat als bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15), wordt afgegeven indien de spoorweginfrastructuur voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
+2. Een goedkeuringscertificaat als bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16), wordt afgegeven indien de spoorweginfrastructuur voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
 ##### Artikel 10
 
@@ -293,19 +291,19 @@ Onze Minister draagt zorg voor de aanleg, het beheer en het onderhoud van hoofds
 
 ##### Artikel 11
 
-1. Een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), wordt afgegeven indien:
+1. Een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), wordt afgegeven indien:
 
 - a. de desbetreffende onderdelen voldoen aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van [richtlijn 2001/16/EG](32001L0016), respectievelijk artikel 2, onderdeel g, van [richtlijn 96/48/EG](31996L0048);
 
 - b. de toetsing van onderdeel a is uitgevoerd door een keuringsinstantie, respectievelijk door een keuringsinstantie voorzover de technische specificaties dat vereisen.
 
-2. Een goedkeuringscertificaat als bedoeld in [artikel 10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), wordt afgegeven indien de desbetreffende onderdelen voldoen aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
+2. Een goedkeuringscertificaat als bedoeld in [artikel 10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), wordt afgegeven indien de desbetreffende onderdelen voldoen aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
 3. Indien met betrekking tot de in het eerste lid bedoelde onderdelen andere EG-richtlijnen bestaan ten aanzien van andere aspecten dan geregeld in bedoelde technische specificaties, vermelden de verklaringen, bedoeld in dat lid, tevens of de onderdelen aan die andere EG-richtlijnen voldoen.
 
 ##### Artikel 12
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de aanvraag, afgifte, vorm en inhoud van EG-keuringsverklaringen als bedoeld in [artikel 8, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15), EG-verklaringen als bedoeld in [artikel 10, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), en goedkeuringscertificaten als bedoeld in de [artikelen 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15), en [10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag en afgifte.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de aanvraag, afgifte, vorm en inhoud van EG-keuringsverklaringen als bedoeld in [artikel 8, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16), EG-verklaringen als bedoeld in [artikel 10, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), en goedkeuringscertificaten als bedoeld in de [artikelen 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16), en [10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag en afgifte.
 
 2. Met de in het eerste lid bedoelde EG-keuringsverklaringen en EG-verklaringen worden gelijkgesteld zodanige verklaringen afgegeven met inachtneming van de [richtlijnen 2001/16/EG](32001L0016) of [96/48/EG](31996L0048) door de bevoegde instantie van een andere lidstaat.
 
@@ -313,19 +311,19 @@ Onze Minister draagt zorg voor de aanleg, het beheer en het onderhoud van hoofds
 
 ##### Artikel 13
 
-1. Het is verboden een EG-keuringsverklaring als bedoeld in [artikel 8, tweede lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15), af te geven indien niet is voldaan aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=9&z=2005-02-15&g=2005-02-15).
+1. Het is verboden een EG-keuringsverklaring als bedoeld in [artikel 8, tweede lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16), af te geven indien niet is voldaan aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=9&z=2005-03-16&g=2005-03-16).
 
-2. Het is verboden een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), af te geven indien niet is voldaan aan [artikel 11, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=11&z=2005-02-15&g=2005-02-15).
+2. Het is verboden een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), af te geven indien niet is voldaan aan [artikel 11, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=11&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 14
 
-1. De fabrikant van onderdelen van hoofdspoorweginfrastructuur als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), en zijn in Nederland gevestigde gemachtigde, die in strijd met [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=13&z=2005-02-15&g=2005-02-15), een EG-verklaring als daar bedoeld hebben afgegeven, zijn verplicht op eerste vordering van Onze Minister en binnen een door deze te stellen termijn het verzuim te herstellen. Zij zijn verplicht de daarbij door Onze Minister gegeven aanwijzingen op te volgen.
+1. De fabrikant van onderdelen van hoofdspoorweginfrastructuur als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), en zijn in Nederland gevestigde gemachtigde, die in strijd met [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=13&z=2005-03-16&g=2005-03-16), een EG-verklaring als daar bedoeld hebben afgegeven, zijn verplicht op eerste vordering van Onze Minister en binnen een door deze te stellen termijn het verzuim te herstellen. Zij zijn verplicht de daarbij door Onze Minister gegeven aanwijzingen op te volgen.
 
 2. Indien de fabrikant of zijn in Nederland gevestigde gemachtigde niet voldoet aan het eerste lid, neemt Onze Minister met toepassing van artikel 12 van [richtlijn 2001/16/EG](32001L0016) of van [richtlijn 96/48/EG](31996L0048) maatregelen om het in de handel brengen van het betrokken onderdeel te beperken, te verbieden of het uit de handel te doen nemen.
 
 ##### Artikel 15
 
-Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), ondanks het feit dat ten aanzien daarvan een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-02-15&g=2005-02-15), is afgegeven en ondanks het feit dat dit onderdeel overeenkomstig zijn bestemming wordt gebruikt, de veiligheid van het verkeer op de hoofdspoorwegen of interoperabiliteit als bedoeld in artikel 2, onderdeel b, van [richtlijn 96/48/EG](31996L0048) of van [richtlijn 2001/16/EG](32001L0016) in gevaar brengt, neemt hij met toepassing van de artikelen 12 van deze richtlijnen maatregelen om het toepassingsgebied van dit onderdeel te beperken, het gebruik ervan te verbieden of het uit de handel te doen nemen.
+Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), ondanks het feit dat ten aanzien daarvan een EG-verklaring als bedoeld in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=10&z=2005-03-16&g=2005-03-16), is afgegeven en ondanks het feit dat dit onderdeel overeenkomstig zijn bestemming wordt gebruikt, de veiligheid van het verkeer op de hoofdspoorwegen of interoperabiliteit als bedoeld in artikel 2, onderdeel b, van [richtlijn 96/48/EG](31996L0048) of van [richtlijn 2001/16/EG](32001L0016) in gevaar brengt, neemt hij met toepassing van de artikelen 12 van deze richtlijnen maatregelen om het toepassingsgebied van dit onderdeel te beperken, het gebruik ervan te verbieden of het uit de handel te doen nemen.
 
 #### § 4. Beheer van hoofdspoorwegen
 
@@ -369,7 +367,7 @@ Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur
 
 - c. het opstellen van een financiële verantwoording van het uitvoeren van de concessie, welke verantwoording gescheiden is van die voor andere werkzaamheden.
 
-3. Een wijziging van de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur die de gebruiksmogelijkheden van de hoofdspoorwegen aanmerkelijk verandert, behoeft de voorafgaande instemming van Onze Minister. De beheerder vermeldt in zijn verzoek om instemming de zienswijzen van betrokken gerechtigden als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15) en, voorzover de wijziging afwijkt van die zienswijzen, een deugdelijke motivering van die afwijking.
+3. Een wijziging van de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur die de gebruiksmogelijkheden van de hoofdspoorwegen aanmerkelijk verandert, behoeft de voorafgaande instemming van Onze Minister. De beheerder vermeldt in zijn verzoek om instemming de zienswijzen van betrokken gerechtigden als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16) en, voorzover de wijziging afwijkt van die zienswijzen, een deugdelijke motivering van die afwijking.
 
 ##### Artikel 18
 
@@ -377,7 +375,7 @@ Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur
 
 2. Onze Minister gaat niet tot intrekking over dan nadat hij de beheerder de gelegenheid heeft geboden om binnen een daartoe te bepalen termijn zijn handelen alsnog in overeenstemming te brengen met de concessie, dan wel het wettelijk voorschrift.
 
-3. Voordat Onze Minister een concessie verleent, wijzigt of geheel of gedeeltelijk intrekt, stelt hij betrokken gerechtigden als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15) in de gelegenheid om gedurende een door Onze Minister daarbij te bepalen termijn van ten hoogste drie weken hun zienswijze naar voren te brengen.
+3. Voordat Onze Minister een concessie verleent, wijzigt of geheel of gedeeltelijk intrekt, stelt hij betrokken gerechtigden als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16) in de gelegenheid om gedurende een door Onze Minister daarbij te bepalen termijn van ten hoogste drie weken hun zienswijze naar voren te brengen.
 
 4. Een concessie wordt niet eerder verleend dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -401,7 +399,7 @@ Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur
 
 ##### Artikel 20
 
-1. Bij een hoofdspoorweg wordt de begrenzing van de hoofdspoorweg, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-02-15&g=2005-02-15), aan weerszijden gevormd door een lijn liggend op een afstand:
+1. Bij een hoofdspoorweg wordt de begrenzing van de hoofdspoorweg, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-03-16&g=2005-03-16), aan weerszijden gevormd door een lijn liggend op een afstand:
 
 - a. van elf meter bij een hoofdspoorweg op maaiveldniveau gemeten vanaf het hart van het buitenste spoor, zijnde een denkbeeldige lijn in de lengterichting van het spoor midden tussen beide spoorstaven;
 
@@ -435,11 +433,21 @@ Indien Onze Minister vaststelt dat een onderdeel van hoofdspoorweginfrastructuur
 
 - d. enige handeling op of nabij de hoofdspoorweg te verrichten waardoor het beheer van de hoofdspoorweginfrastructuur kan worden gehinderd of belemmerd.
 
-2. Het eerste lid is niet van toepassing op het uitvoeren van het beheer, de uitoefening van een veiligheidsfunctie of de uitoefening van een wettelijke taak.
+2. Het eerste lid is niet van toepassing op:
+
+- a. het uitvoeren van het beheer;
+
+- b. de uitoefening van een veiligheidsfunctie;
+
+- c. de uitoefening van een wettelijke taak;
+
+- d. het uitvoeren van werkzaamheden in opdracht van een spoorwegonderneming die beschikt over een veiligheidsattest als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-03-16&g=2005-03-16), of een proefattest als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=34&z=2005-03-16&g=2005-03-16).
+
+3. Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod. [Artikel 21, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=21&z=2005-03-16&g=2005-03-16), zijn van toepassing.
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-02-15&g=2005-02-15).
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de [artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 24
 
@@ -479,9 +487,9 @@ Deze paragraaf geldt onverkort voor de rechthebbende ten aanzien van de onder of
 
 - b. die niet beschikt over een geldig veiligheidsattest of proefattest;
 
-- c. die niet voldoet aan de voor haar ingevolge [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=6&artikel=55&z=2005-02-15&g=2005-02-15) geldende verzekeringsplicht;
+- c. die niet voldoet aan de voor haar ingevolge [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=6&artikel=55&z=2005-03-16&g=2005-03-16) geldende verzekeringsplicht;
 
-- d. indien het recht op die toegang niet rechtstreeks voortvloeit uit een toegangsovereenkomst als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=3&artikel=59&z=2005-02-15&g=2005-02-15);
+- d. indien het recht op die toegang niet rechtstreeks voortvloeit uit een toegangsovereenkomst als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=3&artikel=59&z=2005-03-16&g=2005-03-16);
 
 - e. die anderszins niet gerechtigd is van de hoofdspoorweg gebruik te maken.
 
@@ -489,7 +497,7 @@ Deze paragraaf geldt onverkort voor de rechthebbende ten aanzien van de onder of
 
 ##### Artikel 28
 
-1. Onze Minister verleent op aanvraag een bedrijfsvergunning aan een in Nederland gevestigde spoorwegonderneming, indien deze voldoet aan de vereisten van goede naam, financiële draagkracht en beroepsbekwaamheid alsmede de uit [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=6&artikel=55&z=2005-02-15&g=2005-02-15) voortvloeiende verzekeringsplicht.
+1. Onze Minister verleent op aanvraag een bedrijfsvergunning aan een in Nederland gevestigde spoorwegonderneming, indien deze voldoet aan de vereisten van goede naam, financiële draagkracht en beroepsbekwaamheid alsmede de uit [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=6&artikel=55&z=2005-03-16&g=2005-03-16) voortvloeiende verzekeringsplicht.
 
 2. Onze Minister kan voor bij of krachtens algemene maatregel van bestuur omschreven soorten van gebruik van de hoofdspoorweg, bij de verlening van een bedrijfsvergunning een of meer van de bij of krachtens algemene maatregel van bestuur aangewezen, in het eerste lid bedoelde eisen geheel of gedeeltelijk buiten toepassing laten. Alsdan is een zodanige beperkte bedrijfsvergunning slechts geldig voor het gebruik waarvoor deze is verleend.
 
@@ -503,7 +511,7 @@ Deze paragraaf geldt onverkort voor de rechthebbende ten aanzien van de onder of
 
 Onze Minister schorst de bedrijfsvergunning of trekt deze in, indien:
 
-- a. de vergunninghouder niet meer voldoet aan de bij of krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15) toepasselijke eisen of voorschriften;
+- a. de vergunninghouder niet meer voldoet aan de bij of krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16) toepasselijke eisen of voorschriften;
 
 - b. de veiligheid van het spoorverkeer door wijziging van de rechtspositie van de vergunninghouder ingeval van fusie of bedrijfsovername naar het oordeel van Onze Minister niet langer is gewaarborgd of
 
@@ -511,21 +519,21 @@ Onze Minister schorst de bedrijfsvergunning of trekt deze in, indien:
 
 ##### Artikel 30
 
-1. Een vergunning als bedoeld in artikel 2, onderdeel b, van [richtlijn 95/18/EG](31995L0018) die is verleend door een bevoegde instantie van een andere lidstaat aan een aldaar gevestigde spoorwegonderneming, wordt voor de toepassing van deze wet gelijkgesteld met een bedrijfsvergunning, verleend op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15).
+1. Een vergunning als bedoeld in artikel 2, onderdeel b, van [richtlijn 95/18/EG](31995L0018) die is verleend door een bevoegde instantie van een andere lidstaat aan een aldaar gevestigde spoorwegonderneming, wordt voor de toepassing van deze wet gelijkgesteld met een bedrijfsvergunning, verleend op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16).
 
-2. Met een bedrijfsvergunning verleend op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15), worden voorts voor de toepassing van deze wet gelijkgesteld:
+2. Met een bedrijfsvergunning verleend op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16), worden voorts voor de toepassing van deze wet gelijkgesteld:
 
-- a. de bij ministeriële regeling omschreven documenten die in het buitenland door het aldaar bevoegde gezag zijn afgegeven en die in voldoende mate kunnen gelden als bewijs dat ten minste wordt voldaan aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15), bedoelde eisen;
+- a. de bij ministeriële regeling omschreven documenten die in het buitenland door het aldaar bevoegde gezag zijn afgegeven en die in voldoende mate kunnen gelden als bewijs dat ten minste wordt voldaan aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16), bedoelde eisen;
 
-- b. een besluit van Onze Minister waarin ten aanzien van een in het buitenland gevestigde spoorwegonderneming is verklaard dat ten minste wordt voldaan aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15), vermelde eisen.
+- b. een besluit van Onze Minister waarin ten aanzien van een in het buitenland gevestigde spoorwegonderneming is verklaard dat ten minste wordt voldaan aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16), vermelde eisen.
 
-3. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=29&z=2005-02-15&g=2005-02-15) is van overeenkomstige toepassing op de gelijkstelling krachtens het tweede lid.
+3. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=29&z=2005-03-16&g=2005-03-16) is van overeenkomstige toepassing op de gelijkstelling krachtens het tweede lid.
 
 ##### Artikel 31
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven over de uitvoering van deze paragraaf, waaronder regels over:
 
-- a. de toepassing van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-02-15&g=2005-02-15), eerste lid, bedoelde eisen;
+- a. de toepassing van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=2&artikel=28&z=2005-03-16&g=2005-03-16), eerste lid, bedoelde eisen;
 
 - b. de verlening, weigering, wijziging, schorsing of intrekking van een bedrijfsvergunning;
 
@@ -581,9 +589,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 2. Het proefattest wordt verleend met het oog op het opdoen van ervaring of het testen van procedures of spoorvoertuigen ten behoeve van verlening of wijziging van een veiligheidsattest.
 
-3. Het proefattest is ten hoogste dertien weken geldig en vervalt van rechtswege bij de verlening of de wijziging, bedoeld in het tweede lid. Indien toepassing is gegeven aan [artikel 32, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-02-15&g=2005-02-15), vervalt het proefattest met ingang van de dag na de laatste dag van de krachtens die bepaling gestelde termijn.
+3. Het proefattest is ten hoogste dertien weken geldig en vervalt van rechtswege bij de verlening of de wijziging, bedoeld in het tweede lid. Indien toepassing is gegeven aan [artikel 32, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=32&z=2005-03-16&g=2005-03-16), vervalt het proefattest met ingang van de dag na de laatste dag van de krachtens die bepaling gestelde termijn.
 
-4. [Artikel 33, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=33&z=2005-02-15&g=2005-02-15), is op het proefattest van overeenkomstige toepassing.
+4. [Artikel 33, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=33&z=2005-03-16&g=2005-03-16), is op het proefattest van overeenkomstige toepassing.
 
 ##### Artikel 35
 
@@ -601,9 +609,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 1. Het is verboden over een hoofdspoorweg te rijden met een spoorvoertuig:
 
-- a. waarvoor geen geldige EG-keuringsverklaring of geldig goedkeuringscertificaat als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-02-15&g=2005-02-15) is afgegeven;
+- a. waarvoor geen geldige EG-keuringsverklaring of geldig goedkeuringscertificaat als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-03-16&g=2005-03-16) is afgegeven;
 
-- b. dat niet voldoet aan de toepasselijke technische specificaties of eisen, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=47&z=2005-02-15&g=2005-02-15);
+- b. dat niet voldoet aan de toepasselijke technische specificaties of eisen, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=47&z=2005-03-16&g=2005-03-16);
 
 - c. dat storingen, buitensporige slijtage of schade aan de desbetreffende spoorweginfrastructuur kan veroorzaken;
 
@@ -613,9 +621,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 3. Met een goedkeuringscertificaat als bedoeld in het eerste lid, voorzover afgegeven op basis van het Verdrag wordt gelijkgesteld een zodanig certificaat afgegeven met inachtneming van het Verdrag door de bevoegde instantie van een andere staat die partij is bij het Verdrag.
 
-4. Tot het bewijs dat een spoorvoertuig is gecontroleerd op het voldoen aan de regels, bedoeld in [artikel 38, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-02-15&g=2005-02-15), is een geldig inzetcertificaat vereist, afgegeven door Onze Minister, de beheerder gehoord.
+4. Tot het bewijs dat een spoorvoertuig is gecontroleerd op het voldoen aan de regels, bedoeld in [artikel 38, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-03-16&g=2005-03-16), is een geldig inzetcertificaat vereist, afgegeven door Onze Minister, de beheerder gehoord.
 
-5. Onze Minister, de beheerder gehoord, kan het certificaat, bedoeld in het vierde lid, wijzigen of intrekken indien niet langer aan de regels, bedoeld in [artikel 38, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-02-15&g=2005-02-15), wordt voldaan.
+5. Onze Minister, de beheerder gehoord, kan het certificaat, bedoeld in het vierde lid, wijzigen of intrekken indien niet langer aan de regels, bedoeld in [artikel 38, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-03-16&g=2005-03-16), wordt voldaan.
 
 6. Het certificaat, bedoeld in het vierde lid, kan onder voorschriften of beperkingen worden afgegeven.
 
@@ -623,25 +631,25 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 ##### Artikel 37
 
-1. Een EG-keuringsverklaring als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), wordt afgegeven indien:
+1. Een EG-keuringsverklaring als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), wordt afgegeven indien:
 
 - a. het spoorvoertuig dan wel de uitrusting daarvan voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van [richtlijn 2001/16/EG](32001L0016), respectievelijk artikel 2, onderdeel g, van [richtlijn 96/48/EG](31996L0048) en
 
 - b. ten aanzien van het spoorvoertuig of de uitrusting daarvan een conformiteitsverklaring als bedoeld in [richtlijn 2001/16/EG](32001L0016), bijlage VI, punt 3, respectievelijk in [richtlijn 96/48/EG](31996L0048), bijlage VI, punt 3, is afgegeven door een keuringsinstantie.
 
-2. Een goedkeuringscertificaat als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), wordt afgegeven, indien het spoorvoertuig of de uitrusting daarvan voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
+2. Een goedkeuringscertificaat als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), wordt afgegeven, indien het spoorvoertuig of de uitrusting daarvan voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
 ##### Artikel 38
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels of nadere regels gesteld over:
 
-- a. de compatibiliteit van spoorvoertuigen met de spoorweginfrastructuur, bedoeld in [artikel 36, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15);
+- a. de compatibiliteit van spoorvoertuigen met de spoorweginfrastructuur, bedoeld in [artikel 36, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16);
 
-- b. de aanvraag, afgifte, wijziging, intrekking, vorm of inhoud van de EG-keuringsverklaringen, de goedkeuringscertificaten en de inzetcertificaten, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), en de aan die certificaten te verbinden voorschriften of beperkingen, alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag, afgifte, wijziging of intrekking;
+- b. de aanvraag, afgifte, wijziging, intrekking, vorm of inhoud van de EG-keuringsverklaringen, de goedkeuringscertificaten en de inzetcertificaten, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), en de aan die certificaten te verbinden voorschriften of beperkingen, alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag, afgifte, wijziging of intrekking;
 
 - c. het onderzoek naar de overeenstemming van de productie van spoorvoertuigen of uitrusting daarvan, waarvoor een goedkeuring van het type is verleend, met het goedgekeurde type.
 
-2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen in het belang van de veiligheid of de interoperabiliteit van het verkeer over hoofdspoorwegen aanvullende technische specificaties worden gesteld op de technische specificaties, bedoeld in [artikel 37, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-02-15&g=2005-02-15).
+2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen in het belang van de veiligheid of de interoperabiliteit van het verkeer over hoofdspoorwegen aanvullende technische specificaties worden gesteld op de technische specificaties, bedoeld in [artikel 37, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 39
 
@@ -659,13 +667,13 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 ##### Artikel 40
 
-1. Een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), wordt afgegeven indien:
+1. Een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), wordt afgegeven indien:
 
 - a. de desbetreffende onderdelen voldoen aan de toepasselijke technische specificaties inzake interoperabiliteit als bedoeld in artikel 2, onderdeel g, van [richtlijn 2001/16/EG](32001L0016), respectievelijk artikel 2, onderdeel g, van [richtlijn 96/48/EG](31996L0048);
 
 - b. de toetsing van onderdeel a is uitgevoerd door een keuringsinstantie, respectievelijk door een keuringsinstantie voorzover de technische specificaties dit vereisen.
 
-2. Een goedkeuringscertificaat als bedoeld in [artikel 39, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), wordt afgegeven indien de desbetreffende onderdelen voldoen aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
+2. Een goedkeuringscertificaat als bedoeld in [artikel 39, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), wordt afgegeven indien de desbetreffende onderdelen voldoen aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
 3. Indien met betrekking tot de in het eerste lid bedoelde onderdelen, andere EG-richtlijnen bestaan ten aanzien van andere aspecten dan geregeld in bedoelde technische specificaties, vermelden de verklaringen, bedoeld in dat lid, tevens of deze onderdelen aan die andere EG-richtlijnen voldoen.
 
@@ -673,27 +681,27 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven ove
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels of nadere regels gesteld over:
 
-- a. de aanvraag, afgifte, vorm en inhoud van de EG-verklaringen en de goedkeuringscertificaten, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag en afgifte;
+- a. de aanvraag, afgifte, vorm en inhoud van de EG-verklaringen en de goedkeuringscertificaten, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), alsmede over het registreren of bewaren van gegevens of documenten over de aanvraag en afgifte;
 
 - b. het onderzoek naar de overeenstemming van de productie van als zodanig aangewezen onderdelen van spoorvoertuigen of uitrusting daarvan, waarvoor een goedkeuring van het type is verleend, met het goedgekeurde type.
 
-2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen in het belang van de veiligheid of de interoperabiliteit van het verkeer over de hoofdspoorwegen aanvullende technische specificaties worden gesteld op de technische specificaties, bedoeld in [artikel 40, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-02-15&g=2005-02-15).
+2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen in het belang van de veiligheid of de interoperabiliteit van het verkeer over de hoofdspoorwegen aanvullende technische specificaties worden gesteld op de technische specificaties, bedoeld in [artikel 40, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 42
 
-1. Het is verboden een EG-keuringsverklaring als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), af te geven indien niet is voldaan aan [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-02-15&g=2005-02-15).
+1. Het is verboden een EG-keuringsverklaring als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), af te geven indien niet is voldaan aan [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-03-16&g=2005-03-16).
 
-2. Het is verboden een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), af te geven indien niet is voldaan aan [artikel 40, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-02-15&g=2005-02-15).
+2. Het is verboden een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), af te geven indien niet is voldaan aan [artikel 40, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 43
 
-1. De fabrikant van onderdelen van spoorvoertuigen of uitrusting daarvan als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), en zijn in Nederland gevestigde gemachtigde die in strijd met [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=42&z=2005-02-15&g=2005-02-15), een EG-verklaring als daar bedoeld voor die onderdelen hebben afgegeven, zijn verplicht op eerste vordering van Onze Minister en binnen een door deze te stellen termijn het verzuim te herstellen. Zij zijn verplicht de daarbij door Onze Minister gegeven aanwijzingen op te volgen.
+1. De fabrikant van onderdelen van spoorvoertuigen of uitrusting daarvan als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), en zijn in Nederland gevestigde gemachtigde die in strijd met [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=42&z=2005-03-16&g=2005-03-16), een EG-verklaring als daar bedoeld voor die onderdelen hebben afgegeven, zijn verplicht op eerste vordering van Onze Minister en binnen een door deze te stellen termijn het verzuim te herstellen. Zij zijn verplicht de daarbij door Onze Minister gegeven aanwijzingen op te volgen.
 
 2. Indien de fabrikant of zijn in Nederland gevestigde gemachtigde niet voldoet aan het eerste lid, neemt Onze Minister met toepassing van artikel 12 van [richtlijn 2001/16/EG](32001L0016) of van [richtlijn 96/48/EG](31996L0048) maatregelen om het in de handel brengen van het betrokken onderdeel te beperken, te verbieden of het uit de handel te doen nemen.
 
 ##### Artikel 44
 
-Indien Onze Minister vaststelt dat een onderdeel van een spoorvoertuig of uitrusting daarvan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), ondanks het feit dat ten aanzien daarvan een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-02-15&g=2005-02-15), is afgegeven en ondanks het feit dat dit onderdeel overeenkomstig zijn bestemming wordt gebruikt, de veiligheid van het verkeer op de hoofdspoorwegen of interoperabiliteit als bedoeld in artikel 2, onderdeel b, van [richtlijn 96/48/EG](31996L0048) of van [richtlijn 2001/16/EG](32001L0016) in gevaar brengt, neemt hij met toepassing van de artikelen 12 van deze richtlijnen maatregelen om het toepassingsgebied van dit onderdeel te beperken, het gebruik ervan te verbieden of het uit de handel te doen nemen.
+Indien Onze Minister vaststelt dat een onderdeel van een spoorvoertuig of uitrusting daarvan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), ondanks het feit dat ten aanzien daarvan een EG-verklaring als bedoeld in [artikel 39, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=39&z=2005-03-16&g=2005-03-16), is afgegeven en ondanks het feit dat dit onderdeel overeenkomstig zijn bestemming wordt gebruikt, de veiligheid van het verkeer op de hoofdspoorwegen of interoperabiliteit als bedoeld in artikel 2, onderdeel b, van [richtlijn 96/48/EG](31996L0048) of van [richtlijn 2001/16/EG](32001L0016) in gevaar brengt, neemt hij met toepassing van de artikelen 12 van deze richtlijnen maatregelen om het toepassingsgebied van dit onderdeel te beperken, het gebruik ervan te verbieden of het uit de handel te doen nemen.
 
 ##### Artikel 45
 
@@ -707,7 +715,7 @@ De spoorwegonderneming die een krachtens deze wet goedgekeurd spoorvoertuig gebr
 
 ##### Artikel 46
 
-1. Onze Minister, de beheerder gehoord, kan ontheffing verlenen van het verbod, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15).
+1. Onze Minister, de beheerder gehoord, kan ontheffing verlenen van het verbod, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16).
 
 2. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden in het belang van een veilig en ongestoord gebruik van hoofdspoorwegen.
 
@@ -719,7 +727,7 @@ De spoorwegonderneming die een krachtens deze wet goedgekeurd spoorvoertuig gebr
 
 - a. de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van [richtlijn 2000/16/EG](32000L0016), respectievelijk artikel 2, onderdeel g, van [richtlijn 96/48/EG](31996L0048);
 
-- b. de eisen, bedoeld in de [artikelen 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-02-15&g=2005-02-15), [38, eerste lid, onderdeel a, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-02-15&g=2005-02-15), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-02-15&g=2005-02-15), of [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=41&z=2005-02-15&g=2005-02-15).
+- b. de eisen, bedoeld in de [artikelen 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=37&z=2005-03-16&g=2005-03-16), [38, eerste lid, onderdeel a, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-03-16&g=2005-03-16), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=40&z=2005-03-16&g=2005-03-16), of [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=41&z=2005-03-16&g=2005-03-16).
 
 2. Voor de toepassing van dit artikel wordt onder houder van een spoorvoertuig verstaan degene die als eigenaar of anderszins beschikkingsbevoegde dit voertuig duurzaam als transportmiddel exploiteert.
 
@@ -729,7 +737,7 @@ De spoorwegonderneming die een krachtens deze wet goedgekeurd spoorvoertuig gebr
 
 2. Een erkenning wordt op aanvraag verleend indien:
 
-- a. de natuurlijke persoon of de bestuurders van de rechtspersoon beschikken over een met het oog op de erkenning verleende verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) dan wel voldoen aan gelijkwaardige eisen van betrouwbaarheid;
+- a. de natuurlijke persoon of de bestuurders van de rechtspersoon beschikken over een met het oog op de erkenning verleende verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) dan wel voldoen aan gelijkwaardige eisen van betrouwbaarheid;
 
 - b. de natuurlijke persoon of de bestuurders van de rechtspersoon aantonen dat de onderhouds- en herstelwerkzaamheden met de grootste beroepsintegriteit en vakbekwaamheid worden uitgevoerd en
 
@@ -773,19 +781,19 @@ De spoorwegonderneming die een krachtens deze wet goedgekeurd spoorvoertuig gebr
 
 1. Personen die binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie uitoefenen, beschikken, behoudens bij algemene maatregel van bestuur vastgestelde uitzonderingen, over:
 
-- a. een certificaat van bekwaamheid, afgegeven door een door Onze Minister aangewezen exameninstituut, waaruit blijkt dat zij voldoen aan de in [artikel 49, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-02-15&g=2005-02-15), bedoelde eisen;
+- a. een certificaat van bekwaamheid, afgegeven door een door Onze Minister aangewezen exameninstituut, waaruit blijkt dat zij voldoen aan de in [artikel 49, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-03-16&g=2005-03-16), bedoelde eisen;
 
-- b. een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid, afgegeven door een door Onze Minister aangewezen keuringsinstituut, waaruit blijkt dat zij voldoen aan de in [artikel 49, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-02-15&g=2005-02-15), bedoelde eisen.
+- b. een geldige verklaring van medische geschiktheid en een geldige verklaring van psychologische geschiktheid, afgegeven door een door Onze Minister aangewezen keuringsinstituut, waaruit blijkt dat zij voldoen aan de in [artikel 49, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-03-16&g=2005-03-16), bedoelde eisen.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de afgifte, de inhoud en de geldigheid van de in het eerste lid bedoelde documenten alsmede over de aanwijzing van exameninstituten en keuringsinstituten.
 
 ##### Artikel 51
 
-1. Degene onder wiens gezag binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie wordt uitgeoefend verschaft, behoudens bij algemene maatregel van bestuur omschreven uitzonderingen, aan degene die de betrokken functie uitoefent, die beschikt over de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=50&z=2005-02-15&g=2005-02-15), bedoelde documenten en die naar zijn oordeel beschikt over de voor de uitoefening van die functie vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, een bedrijfspas.
+1. Degene onder wiens gezag binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie wordt uitgeoefend verschaft, behoudens bij algemene maatregel van bestuur omschreven uitzonderingen, aan degene die de betrokken functie uitoefent, die beschikt over de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=50&z=2005-03-16&g=2005-03-16), bedoelde documenten en die naar zijn oordeel beschikt over de voor de uitoefening van die functie vereiste specifieke, taakgebonden en bedrijfsgebonden kennis en bekwaamheid, een bedrijfspas.
 
 2. De bedrijfspas voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.
 
-3. De houder van de bedrijfspas is verplicht die pas op eerste vordering te tonen aan de krachtens de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=1&artikel=69&z=2005-02-15&g=2005-02-15) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-02-15&g=2005-02-15) met het toezicht op de naleving onderscheidenlijk de opsporing van strafbare feiten belaste personen.
+3. De houder van de bedrijfspas is verplicht die pas op eerste vordering te tonen aan de krachtens de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=1&artikel=69&z=2005-03-16&g=2005-03-16) en [86](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-03-16&g=2005-03-16) met het toezicht op de naleving onderscheidenlijk de opsporing van strafbare feiten belaste personen.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over:
 
@@ -801,9 +809,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de veilig
 
 Het is verboden een veiligheidsfunctie binnen het hoofdspoorwegverkeerssysteem te doen uitoefenen door een persoon:
 
-- a. die niet beschikt over de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=50&z=2005-02-15&g=2005-02-15), bedoelde documenten;
+- a. die niet beschikt over de in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=50&z=2005-03-16&g=2005-03-16), bedoelde documenten;
 
-- b. waarvan men weet of redelijkerwijs moet weten dat hij niet voldoet aan de voor de uitoefening van de functie gestelde eisen als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-02-15&g=2005-02-15).
+- b. waarvan men weet of redelijkerwijs moet weten dat hij niet voldoet aan de voor de uitoefening van de functie gestelde eisen als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=49&z=2005-03-16&g=2005-03-16).
 
 ##### Artikel 54
 
@@ -827,9 +835,9 @@ Degene onder wiens gezag een persoon die binnen het hoofdspoorwegverkeerssysteem
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. gerechtigde: gerechtigde als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15);
+- a. gerechtigde: gerechtigde als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16);
 
-- b. toegangsovereenkomst: toegangsovereenkomst als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=3&artikel=59&z=2005-02-15&g=2005-02-15);
+- b. toegangsovereenkomst: toegangsovereenkomst als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=3&artikel=59&z=2005-03-16&g=2005-03-16);
 
 - c. kaderovereenkomst: kaderovereenkomst als bedoeld in artikel 17 van [richtlijn 2001/14/EG](32001L0014);
 
@@ -869,7 +877,7 @@ Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst
 
 3. Dit lid is nog niet in werking getreden.
 
-4. De beheerder brengt in de netverklaring zo nodig wijzigingen aan. Met inachtneming van artikel 8, vierde lid, van [richtlijn 2001/14/EG](32001L0014) en tegen vergoeding van ten hoogste de kostprijs stelt hij de gewijzigde netverklaring algemeen verkrijgbaar en doet hij van de wijzigingen mededeling aan de betrokken spoorwegondernemingen en aan de raad van bestuur NMa.
+4. De beheerder brengt in de netverklaring zo nodig wijzigingen aan. Met inachtneming van artikel 8, vierde lid, van [richtlijn 2001/14/EG](32001L0014) en tegen vergoeding van ten hoogste de kostprijs stelt hij de gewijzigde netverklaring algemeen verkrijgbaar en doet hij van de wijzigingen mededeling aan de betrokken spoorwegondernemingen en aan de directeur-generaal NMa.
 
 #### § 3. Toegangsovereenkomst
 
@@ -893,7 +901,7 @@ Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst
 
 2. In een kaderovereenkomst wordt uitgesloten dat overeengekomen capaciteit kan worden overgedragen aan of gebruikt door een ander dan een gerechtigde.
 
-3. Een kaderovereenkomst met een geldigheidsduur van meer dan vijf jaar behoeft de voorafgaande instemming van de raad van bestuur NMa.
+3. Een kaderovereenkomst met een geldigheidsduur van meer dan vijf jaar behoeft de voorafgaande instemming van de directeur-generaal NMa.
 
 4. Bij algemene maatregel van bestuur kunnen ten behoeve van de kaderovereenkomst algemene voorwaarden als bedoeld in [artikel 231 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=231) worden vastgesteld. In dat geval wordt in de kaderovereenkomst naar die algemene voorwaarden verwezen.
 
@@ -933,9 +941,9 @@ Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst
 
 ##### Artikel 63
 
-1. Onderhandelingen tussen een gerechtigde en de beheerder betreffende de hoogte van de gebruiksvergoeding zijn niet toegestaan dan na een melding aan en onder toezicht van de raad van bestuur NMa.
+1. Onderhandelingen tussen een gerechtigde en de beheerder betreffende de hoogte van de gebruiksvergoeding zijn niet toegestaan dan na een melding aan en onder toezicht van de directeur-generaal NMa.
 
-2. De raad van bestuur NMa legt, indien de onderhandelingen naar zijn oordeel in strijd zijn met [richtlijn 2001/14/EG](32001L0014), aan de overtreder zo nodig een last onder dwangsom op. Aan de last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur NMa. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3), [56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=56), [62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), en [65 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=65) zijn van overeenkomstige toepassing.
+2. De directeur-generaal NMa legt, indien de onderhandelingen naar zijn oordeel in strijd zijn met [richtlijn 2001/14/EG](32001L0014), aan de overtreder zo nodig een last onder dwangsom op. Aan de last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de directeur-generaal NMa. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3), [56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=56), [62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), en [65 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=65) zijn van overeenkomstige toepassing.
 
 #### § 7. Nadere bepalingen inzake het gebruik van hoofdspoorwegen
 
@@ -987,7 +995,7 @@ Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst
 
 ##### Artikel 68
 
-Bij algemene maatregel van bestuur kunnen regels worden gesteld over de kostenoriëntatie, bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-02-15&g=2005-02-15), en nadere regels ter waarborging van de toegang, op een niet-discriminerende grondslag, tot diensten en voorzieningen als bedoeld in dat artikel. Die nadere regels kunnen in elk geval inhouden dat de rechthebbende:
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over de kostenoriëntatie, bedoeld in [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-03-16&g=2005-03-16), en nadere regels ter waarborging van de toegang, op een niet-discriminerende grondslag, tot diensten en voorzieningen als bedoeld in dat artikel. Die nadere regels kunnen in elk geval inhouden dat de rechthebbende:
 
 - a. jaarlijks bekendmaakt:
 
@@ -1003,7 +1011,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over de kostenor
 
 ##### Artikel 69
 
-1. Behoudens [artikel 70, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-02-15&g=2005-02-15), zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de bij besluit van Onze Minister daartoe aangewezen personen.
+1. Behoudens [artikel 70, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-03-16&g=2005-03-16), zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de bij besluit van Onze Minister daartoe aangewezen personen.
 
 2. Een besluit als bedoeld in het eerste lid bevat een aanduiding van de voorschriften op naleving waarvan toezicht wordt gehouden.
 
@@ -1013,13 +1021,13 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over de kostenor
 
 ##### Artikel 70
 
-1. De raad van bestuur NMa is de toezichthoudende instantie, bedoeld in artikel 10, zevende lid, van [richtlijn 91/440/EEG](31991L0440) en de artikelen 30 en 31 van [richtlijn 2001/14/EG](32001L0014).
+1. De directeur-generaal NMa is de toezichthoudende instantie, bedoeld in artikel 10, zevende lid, van [richtlijn 91/440/EEG](31991L0440) en de artikelen 30 en 31 van [richtlijn 2001/14/EG](32001L0014).
 
-2. De bij besluit van de raad van bestuur NMa aangewezen ambtenaren van deze autoriteit zijn belast met:
+2. De bij besluit van de directeur-generaal NMa aangewezen ambtenaren van deze autoriteit zijn belast met:
 
-- a. voor de toepassing van het eerste lid: het toezicht op de naleving van het bepaalde krachtens [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-02-15&g=2005-02-15), en het bepaalde bij of krachtens de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=1&artikel=27&z=2005-02-15&g=2005-02-15), [57 tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-02-15&g=2005-02-15), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=68&z=2005-02-15&g=2005-02-15) en [95, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-02-15&g=2005-02-15);
+- a. voor de toepassing van het eerste lid: het toezicht op de naleving van het bepaalde krachtens [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-03-16&g=2005-03-16), en het bepaalde bij of krachtens de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=1&artikel=27&z=2005-03-16&g=2005-03-16), [57 tot en met 63](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-03-16&g=2005-03-16), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=68&z=2005-03-16&g=2005-03-16) en [95, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-03-16&g=2005-03-16);
 
-- b. voor de toepassing van het eerste lid en [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=71&z=2005-02-15&g=2005-02-15): het onderzoek, bedoeld in [artikel 1 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=1).
+- b. voor de toepassing van het eerste lid en [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=71&z=2005-03-16&g=2005-03-16): het onderzoek, bedoeld in [artikel 1 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=1).
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -1027,21 +1035,25 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over de kostenor
 
 ##### Artikel 71
 
-1. Een gerechtigde als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15) of een andere belanghebbende kan de raad van bestuur NMa schriftelijk verzoeken om te onderzoeken of de beheerder, een spoorwegonderneming of een rechthebbende als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-02-15&g=2005-02-15) of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-02-15&g=2005-02-15) de verzoeker oneerlijk heeft behandeld, heeft gediscrimineerd of anderszins heeft benadeeld als bedoeld in artikel 10, zevende lid, van [richtlijn 91/440/EEG](31991L0440) of artikel 30, tweede lid, van [richtlijn 2001/14/EG](32001L0014).
+1. Een gerechtigde als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16) of een andere belanghebbende kan de directeur-generaal NMa schriftelijk verzoeken om te onderzoeken of de beheerder, een spoorwegonderneming of een rechthebbende als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-03-16&g=2005-03-16) of [95](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-03-16&g=2005-03-16) de verzoeker oneerlijk heeft behandeld, heeft gediscrimineerd of anderszins heeft benadeeld als bedoeld in artikel 10, zevende lid, van [richtlijn 91/440/EEG](31991L0440) of artikel 30, tweede lid, van [richtlijn 2001/14/EG](32001L0014).
 
-2. Een partij bij een toegangsovereenkomst of een kaderovereenkomst als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&z=2005-02-15&g=2005-02-15) kan de raad van bestuur NMa schriftelijk verzoeken om een oordeel over het gedrag van de wederpartij.
+2. Een partij bij een toegangsovereenkomst of een kaderovereenkomst als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&z=2005-03-16&g=2005-03-16) kan de directeur-generaal NMa schriftelijk verzoeken om een oordeel over het gedrag van de wederpartij.
 
-3. Indien de raad van bestuur NMa van oordeel is dat de klacht ongegrond is, geeft hij dat oordeel binnen uiterlijk twee maanden na ontvangst van de gegevens en bescheiden die voor zijn oordeel nodig zijn.
+3. De directeur-generaal NMa geeft zijn oordeel over de klacht uiterlijk twee maanden na ontvangst van de gegevens en bescheiden die voor zijn oordeel nodig zijn.
 
-4. Indien de raad van bestuur NMa van oordeel is dat de klacht gegrond is, legt hij zo nodig een last onder dwangsom op. De raad van bestuur NMa kiest de termijn, bedoeld in [artikel 5:32, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), zodanig dat de last moet zijn uitgevoerd binnen uiterlijk twee maanden na ontvangst van de gegevens en bescheiden die voor het oordeel van de raad van bestuur NMa nodig zijn.
+4. Indien de directeur-generaal NMa van oordeel is dat de klacht gegrond is, legt hij zo nodig een last onder dwangsom op.
 
-5. Aan een last als bedoeld in het vierde lid kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur NMa. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3), [56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=56), [62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), en [65 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=65) zijn van overeenkomstige toepassing.
+5. Aan een last als bedoeld in het vierde lid kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de directeur-generaal NMa. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3), [56, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=56), [62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), en [65 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=65) zijn van overeenkomstige toepassing.
 
 6. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot ten behoeve van het onderzoek te verstrekken gegevens en bescheiden, alsmede met betrekking tot de termijnen voor het verstrekken van de gegevens en bescheiden.
 
 ##### Artikel 72
 
-De raad van bestuur NMa en de krachtens[artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-02-15&g=2005-02-15), aangewezen ambtenaren gebruiken de gegevens of inlichtingen die zij hebben verkregen bij de uitoefening van hun in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-02-15&g=2005-02-15) bedoelde taken, uitsluitend voor de uitoefening van die taken of van de bij of krachtens de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) aan hen opgedragen taken of toegekende bevoegdheden.
+1. De directeur-generaal NMa en de krachtens[artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-03-16&g=2005-03-16), aangewezen ambtenaren gebruiken de gegevens of inlichtingen die zij hebben verkregen bij de uitoefening van hun in dat artikel bedoelde taken, uitsluitend voor de uitoefening van die taken of van de bij of krachtens de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) aan hen opgedragen taken of toegekende bevoegdheden.
+
+2. De directeur-generaal NMa kan desgevraagd aan Onze Minister de voor de uitoefening van diens taak benodigde gegevens of inlichtingen verstrekken.
+
+3. Onze Minister kan desgevraagd aan de directeur-generaal NMa de voor de uitoefening van diens taak benodigde gegevens of inlichtingen verstrekken.
 
 ##### Artikel 73
 
@@ -1055,13 +1067,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 75
 
-De raad van bestuur NMa kan aan degene die jegens een krachtens [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-02-15&g=2005-02-15), aangewezen ambtenaar in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500. De [artikelen 69, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=70), [77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=77), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=81) en [82 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=82) zijn van overeenkomstige toepassing.
+De directeur-generaal NMa kan aan degene die jegens een krachtens [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=2&artikel=70&z=2005-03-16&g=2005-03-16), aangewezen ambtenaar in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien het een onderneming of ondernemingsvereniging als bedoeld in [artikel 1 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=1) betreft en indien dat meer is, van ten hoogste 1% van de omzet van de onderneming, onderscheidenlijk van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking. De [artikelen 69, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=70), [77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=77), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=81) en [82 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=82) zijn van overeenkomstige toepassing.
 
 ##### Artikel 76
 
 1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen met uitzondering van de verplichtingen als bedoeld in het tweede lid.
 
-2. In geval van overtreding van het bepaalde krachtens [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-02-15&g=2005-02-15), of het bepaalde bij of krachtens de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=1&artikel=27&z=2005-02-15&g=2005-02-15), [57 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-02-15&g=2005-02-15), [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=6&artikel=63&z=2005-02-15&g=2005-02-15), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-02-15&g=2005-02-15), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=68&z=2005-02-15&g=2005-02-15) en [95, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-02-15&g=2005-02-15), kan de raad van bestuur NMa de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
+2. In geval van overtreding van het bepaalde krachtens [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=17&z=2005-03-16&g=2005-03-16), of het bepaalde bij of krachtens de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=1&artikel=27&z=2005-03-16&g=2005-03-16), [57 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=1&artikel=57&z=2005-03-16&g=2005-03-16), [63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=6&artikel=63&z=2005-03-16&g=2005-03-16), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=67&z=2005-03-16&g=2005-03-16), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=5&artikel=68&z=2005-03-16&g=2005-03-16) en [95, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=95&z=2005-03-16&g=2005-03-16), kan de directeur-generaal NMa de natuurlijke persoon of rechtspersoon aan wie de overtreding kan worden toegerekend:
 
 - a. een bestuurlijke boete opleggen;
 
@@ -1071,7 +1083,7 @@ De raad van bestuur NMa kan aan degene die jegens een krachtens [artikel 70, twe
 
 ##### Artikel 77
 
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van de [artikelen 33, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=33&z=2005-02-15&g=2005-02-15), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=53&z=2005-02-15&g=2005-02-15), en [96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=10&artikel=96&z=2005-02-15&g=2005-02-15).
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van de [artikelen 33, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=3&artikel=33&z=2005-03-16&g=2005-03-16), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=53&z=2005-03-16&g=2005-03-16), en [96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=10&artikel=96&z=2005-03-16&g=2005-03-16).
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
@@ -1107,9 +1119,9 @@ De raad van bestuur NMa kan aan degene die jegens een krachtens [artikel 70, twe
 
 1. Voor de overtredingen gelden de volgende vaste bedragen van de bestuurlijke boete:
 
-- a. voor overtreding van de [artikelen 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=53&z=2005-02-15&g=2005-02-15): € 10 000;
+- a. voor overtreding van de [artikelen 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=53&z=2005-03-16&g=2005-03-16): € 10 000;
 
-- b. voor overtreding van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=10&artikel=96&z=2005-02-15&g=2005-02-15): € 50 000.
+- b. voor overtreding van [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=10&artikel=96&z=2005-03-16&g=2005-03-16): € 50 000.
 
 2. Indien de boete wordt opgelegd voor het overtreden van een bepaling vermeld in het eerste lid is bij de vaststelling van de hoogte van deze boete de onderstaande categorie-indeling naar omzet van toepassing met de daarbij behorende factor. De omzet is de omzet in het kalenderjaar voorafgaand aan de datum van overtreding. De boete wordt vastgesteld door het in het eerste lid vermelde bedrag te vermenigvuldigen met de factor behorende bij de onderstaande omzet-categorie:
 
@@ -1175,7 +1187,7 @@ De beschikking tot oplegging van de bestuurlijke boete vermeldt de naam van de o
 
 ##### Artikel 85
 
-Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 82, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=3&artikel=82&z=2005-02-15&g=2005-02-15), is verzonden, heeft dit dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging als bedoeld in [artikel 243 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=243), met dien verstande dat [artikel 245a van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=245a) niet van toepassing is.
+Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 82, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=3&artikel=82&z=2005-03-16&g=2005-03-16), is verzonden, heeft dit dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging als bedoeld in [artikel 243 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=243), met dien verstande dat [artikel 245a van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=245a) niet van toepassing is.
 
 #### § 4. Strafrechtelijke handhaving
 
@@ -1189,13 +1201,13 @@ Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld 
 
 ##### Artikel 87
 
-1. Overtreding van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-02-15&g=2005-02-15), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=21&z=2005-02-15&g=2005-02-15), [22, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=22&z=2005-02-15&g=2005-02-15), en [51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=51&z=2005-02-15&g=2005-02-15), alsmede overtreding van de krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&z=2005-02-15&g=2005-02-15) en de [artikelen 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=64&z=2005-02-15&g=2005-02-15), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=65&z=2005-02-15&g=2005-02-15), en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=94&z=2005-02-15&g=2005-02-15) vastgestelde voorschriften, voorzover die overtreding daarbij uitdrukkelijk als strafbaar feit is aangemerkt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+1. Overtreding van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-03-16&g=2005-03-16), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=21&z=2005-03-16&g=2005-03-16), [22, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=22&z=2005-03-16&g=2005-03-16), en [51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=5&artikel=51&z=2005-03-16&g=2005-03-16), alsmede overtreding van de krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&z=2005-03-16&g=2005-03-16) en de [artikelen 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=64&z=2005-03-16&g=2005-03-16), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=65&z=2005-03-16&g=2005-03-16), en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=9&artikel=94&z=2005-03-16&g=2005-03-16) vastgestelde voorschriften, voorzover die overtreding daarbij uitdrukkelijk als strafbaar feit is aangemerkt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-2. Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=3&z=2005-02-15&g=2005-02-15), [22, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=22&z=2005-02-15&g=2005-02-15), en [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=65&z=2005-02-15&g=2005-02-15), wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
+2. Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=3&z=2005-03-16&g=2005-03-16), [22, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=22&z=2005-03-16&g=2005-03-16), en [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=4&paragraaf=7&artikel=65&z=2005-03-16&g=2005-03-16), wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
-3. Overtreding van [artikel 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), [artikel 88, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=88&z=2005-02-15&g=2005-02-15), [artikel 89, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=89&z=2005-02-15&g=2005-02-15), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
+3. Overtreding van [artikel 4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), [artikel 88, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=88&z=2005-03-16&g=2005-03-16), [artikel 89, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=89&z=2005-03-16&g=2005-03-16), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
-4. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), kan hem de bevoegdheid tot het uitoefenen van die functie voor ten hoogste vijf jaren worden ontzegd.
+4. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), kan hem de bevoegdheid tot het uitoefenen van die functie voor ten hoogste vijf jaren worden ontzegd.
 
 5. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van het bepaalde krachtens deze wet, kan hem in die gevallen waarin dit bij algemene maatregel van bestuur is bepaald, de bevoegdheid tot het uitoefenen van die functie voor ten hoogste twee jaar worden ontzegd.
 
@@ -1203,7 +1215,7 @@ Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld 
 
 ##### Artikel 88
 
-1. Een van de bij of krachtens [artikel 86 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-02-15&g=2005-02-15) of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren, kan een in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), bedoelde persoon van wie, uit het in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.
+1. Een van de bij of krachtens [artikel 86 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=86&z=2005-03-16&g=2005-03-16) of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren, kan een in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), bedoelde persoon van wie, uit het in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.
 
 2. De ambtenaar die een verbod als bedoeld in het eerste lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.
 
@@ -1211,13 +1223,13 @@ Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld 
 
 ##### Artikel 89
 
-1. Bij verdenking dat een persoon heeft gehandeld in strijd met [artikel 4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), kan de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=88&z=2005-02-15&g=2005-02-15), bedoelde ambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15).
+1. Bij verdenking dat een persoon heeft gehandeld in strijd met [artikel 4, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), kan de in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=6&paragraaf=4&artikel=88&z=2005-03-16&g=2005-03-16), bedoelde ambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16).
 
 2. Degene aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de betrokken ambtenaar ten dienste van het onderzoek gegeven aanwijzingen.
 
 3. De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is.
 
-4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de betrokken ambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15). Gelijke bevoegdheid heeft de betrokken ambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), bedoelde stof dan alcoholhoudende drank verkeert.
+4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de betrokken ambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16). Gelijke bevoegdheid heeft de betrokken ambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), bedoelde stof dan alcoholhoudende drank verkeert.
 
 5. Indien de verdachte zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.
 
@@ -1225,17 +1237,17 @@ Indien een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld 
 
 7. De in het zesde lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.
 
-8. De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek ten einde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), bedoelde stoffen of het in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), genoemde gehalte vast te stellen.
+8. De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek ten einde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), bedoelde stoffen of het in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), genoemde gehalte vast te stellen.
 
 9. Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.
 
-10. Bij algemene maatregel van bestuur worden nadere regels gesteld over de wijze van uitvoering van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-02-15&g=2005-02-15), en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.
+10. Bij algemene maatregel van bestuur worden nadere regels gesteld over de wijze van uitvoering van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=1&artikel=4&z=2005-03-16&g=2005-03-16), en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.
 
 #### § 5. Beroep
 
 ##### Artikel 90
 
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet, met uitzondering van besluiten op grond van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-02-15&g=2005-02-15) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=21&z=2005-02-15&g=2005-02-15), de rechtbank te Rotterdam bevoegd.
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet, met uitzondering van besluiten op grond van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=19&z=2005-03-16&g=2005-03-16) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=4&artikel=21&z=2005-03-16&g=2005-03-16), de rechtbank te Rotterdam bevoegd.
 
 #### § 6. Heffingen
 
@@ -1263,11 +1275,11 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 - b. de goedkeuring als bedoeld in de artikelen 18 van de [richtlijnen 96/48/EG](31996L0048) en [2001/16/EG](32001L0016) en de afgifte van de bijbehorende EG-keuringsverklaringen als bedoeld in de artikelen 16 van deze richtlijnen;
 
-- c. de afgifte van goedkeuringscertificaten als bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-02-15&g=2005-02-15);
+- c. de afgifte van goedkeuringscertificaten als bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=2&paragraaf=3&artikel=8&z=2005-03-16&g=2005-03-16);
 
-- d. de afgifte van goedkeuringscertificaten als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-02-15&g=2005-02-15);
+- d. de afgifte van goedkeuringscertificaten als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=36&z=2005-03-16&g=2005-03-16);
 
-- e. het onderzoek, bedoeld in [artikel 38, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-02-15&g=2005-02-15).
+- e. het onderzoek, bedoeld in [artikel 38, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=3&paragraaf=4&artikel=38&z=2005-03-16&g=2005-03-16).
 
 2. De instanties, de directeur en het personeel daarvan voldoen ten minste aan de toepasselijke eisen, neergelegd in bijlage VII van [richtlijn 96/48/EG](31996L0048), respectievelijk [richtlijn 2001/16/EG](32001L0016), en aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -1303,41 +1315,23 @@ Voorzover dit noodzakelijk is ter beoordeling van het voldoen aan de bij of krac
 
 ##### Artikel 98
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 99 tot en met 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=7&artikel=99&z=2005-02-15&g=2005-02-15), en [102](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&hoofdstuk=7&artikel=102&z=2005-02-15&g=2005-02-15) in werking worden gesteld.
-
-2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
-
-3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
-
-4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
-
-5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
-
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het Staatsblad.
+Vervallen
 
 ##### Artikel 99
 
-1. Wegens redenen van staatsbelang kan Onze Minister de staking van de dienst bevelen.
-
-2. Een besluit op grond van het eerste lid wordt in de Staatscourant bekendgemaakt en in de provincies waarin de spoorweg ligt zo spoedig mogelijk algemeen bekend gemaakt.
-
-3. Een krachtens het eerste lid gestaakte dienst wordt niet hervat dan na toestemming van Onze Minister.
-
-4. Indien Onze Minister staking van de dienst beveelt vanuit het oogpunt van de verdediging, kan hij tevens bepalen dat al het spoorwegmaterieel wordt verwijderd. In dat geval wijst Onze Minister van Defensie de plaats of plaatsen aan waarheen dat materieel moet worden vervoerd.
+Vervallen
 
 ##### Artikel 100
 
-Onze Minister van Defensie is bevoegd bevel te geven tot het geheel of gedeeltelijk onbruikbaar maken van spoorweginfrastructuur. Zo spoedig als het staatsbelang het toelaat wordt de spoorweginfrastructuur op bevel van Onze Minister en op kosten van het Rijk hersteld.
+Vervallen
 
 ##### Artikel 101
 
-1. Onze Minister wie het aangaat is bevoegd, tegen schadeloosstelling, het gebruik van spoorweginfrastructuur en spoorwegmaterieel te vorderen.
-
-2. Bij algemene maatregel van bestuur worden regels gesteld over de toepassing van het eerste lid.
+Vervallen
 
 ##### Artikel 102
 
-Onze Minister van Defensie kan in overeenstemming met Onze Minister aan een spoorwegonderneming en de beheerder aanwijzingen geven betreffende de uitvoering van hun werkzaamheden.
+Vervallen
 
 ### Hoofdstuk 8. Aanpassing en intrekking van andere wetten
 
