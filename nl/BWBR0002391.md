@@ -4,7 +4,7 @@ identifier: "BWBR0002391"
 country: "nl"
 rank: "wet"
 publication_date: "2005-03-16"
-last_updated: "1998-01-01"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002391"
 soort: "wet"
@@ -50,19 +50,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. "vervoermiddelen":
 
-- 1°. vaartuigen, hoe ook genaamd en van welke aard ook, behalve zeeschepen in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek;
+- 1°. vaartuigen, hoe ook genaamd en van welke aard ook, behalve zeeschepen in de zin van [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2);
 
 - 2°. motorrijtuigen in de zin van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en aanhangwagens, bestemd om door zodanige motorrijtuigen te worden voortbewogen;
 
-- 3°. spoor- of tramrijtuigen of -wagens, niet toebehorende aan ondernemers of concessiehouders als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=1998-01-01&g=1998-01-01);
+- 3°. spoor- of tramrijtuigen of -wagens, niet toebehorende aan beheerders of gebruikers van spoorwegen;
 
 - 4°. wagens, ingericht voor het vervoer van goederen en om te worden voortbewogen door één of meer paarden;
 
 - c. "houder": hij die als eigenaar of krachtens enige andere rechtstitel gerechtigd is een vervoermiddel te gebruiken;
 
-- d. "College": het College van Bewindvoering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=6&z=1998-01-01&g=1998-01-01);
+- d. "College": het College van Bewindvoering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=6&z=2005-01-01&g=2005-01-01);
 
-- e. "Directeur": de Directeur Binnenlands Vervoer, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=7&z=1998-01-01&g=1998-01-01).
+- e. "Directeur": de Directeur Binnenlands Vervoer, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=7&z=2005-01-01&g=2005-01-01).
 
 2. Onder vervoermiddelen worden in deze wet niet begrepen vaartuigen, motorrijtuigen, aanhangwagens en spoor- of tramrijtuigen en -wagens in dienst van het Rijk.
 
@@ -70,7 +70,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=1998-01-01&g=1998-01-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-01-01&g=2005-01-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -84,7 +84,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-Zolang op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, worden de in deze wet aan Onze Minister toegekende bevoegdheden en de hem opgedragen taak uitgeoefend, onderscheidenlijk uitgevoerd door Onze Ministers van Verkeer en Waterstaat en van Defensie gezamenlijk. Voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=5&z=1998-01-01&g=1998-01-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=6&z=1998-01-01&g=1998-01-01), wordt alsdan onder "Onze Minister" verstaan Onze voornoemde Ministers gezamenlijk.
+Zolang op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, worden de in deze wet aan Onze Minister toegekende bevoegdheden en de hem opgedragen taak uitgeoefend, onderscheidenlijk uitgevoerd door Onze Ministers van Verkeer en Waterstaat en van Defensie gezamenlijk. Voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=5&z=2005-01-01&g=2005-01-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=II&artikel=6&z=2005-01-01&g=2005-01-01), wordt alsdan onder "Onze Minister" verstaan Onze voornoemde Ministers gezamenlijk.
 
 ##### Artikel 4
 
@@ -94,7 +94,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Wij stellen een Vervoersraad in zodra en voor zolang de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01) in werking zijn; Wij kunnen de raad eerder instellen en langer handhaven.
+1. Wij stellen een Vervoersraad in zodra en voor zolang de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01) in werking zijn; Wij kunnen de raad eerder instellen en langer handhaven.
 
 2. De Vervoersraad heeft tot taak Onze Minister en het College desgevraagd of eigener beweging van advies te dienen omtrent de uitvoering van deze wet; de raad heeft in het bijzonder tot taak van advies te dienen omtrent de orde van voorrang bij het vervoer van personen en goederen.
 
@@ -104,7 +104,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Wij stellen een College van Bewindvoering Binnenlands Vervoer in zodra en voor zolang de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01) in werking zijn; Wij kunnen het College eerder instellen en langer handhaven.
+1. Wij stellen een College van Bewindvoering Binnenlands Vervoer in zodra en voor zolang de [artikelen 8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01) in werking zijn; Wij kunnen het College eerder instellen en langer handhaven.
 
 2. Het College is onder verantwoordelijkheid van Onze Minister belast met de zorg voor de instandhouding van het vervoer te land en op de binnenwateren en voor een doelmatig gebruik der vervoermiddelen.
 
@@ -118,7 +118,7 @@ Vervallen
 
 ##### Artikel 7
 
-Het College wordt bijgestaan door een Directeur Binnenlands Vervoer. De Directeur handelt volgens de aanwijzingen van het College. Zolang geen Directeur is benoemd worden de bevoegdheden en de taak, aan deze toegekend, onderscheidenlijk opgedragen bij de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=1998-01-01&g=1998-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=1998-01-01&g=1998-01-01), uitgeoefend door het College.
+Het College wordt bijgestaan door een Directeur Binnenlands Vervoer. De Directeur handelt volgens de aanwijzingen van het College. Zolang geen Directeur is benoemd worden de bevoegdheden en de taak, aan deze toegekend, onderscheidenlijk opgedragen bij de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-01-01&g=2005-01-01), uitgeoefend door het College.
 
 ### Hoofdstuk III. Vervoer en Vervoermiddelen
 
@@ -136,7 +136,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11
 
-1. Met betrekking tot het in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01) bedoelde vervoer gelden tussen de vervoerder en hem te wiens behoeve het vervoer plaats vindt de voor soortgelijk vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de door het College vastgestelde tarieven en voorwaarden.
+1. Met betrekking tot het in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01) bedoelde vervoer gelden tussen de vervoerder en hem te wiens behoeve het vervoer plaats vindt de voor soortgelijk vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden; bij gebreke zowel van gebruikelijke als van rechtens geldende tarieven en voorwaarden gelden de door het College vastgestelde tarieven en voorwaarden.
 
 2. Het College kan voorschriften vaststellen ter aanvulling of ter vervanging van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
 
@@ -152,9 +152,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 14
 
-1. Indien aan een overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01) gegeven aanwijzing geen gevolg wordt gegeven of een overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=1998-01-01&g=1998-01-01) opgelegde verplichting niet wordt nagekomen, is Onze Minister bevoegd tot toepassing van bestuursdwang.
+1. Indien aan een overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01) gegeven aanwijzing geen gevolg wordt gegeven of een overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01) opgelegde verplichting niet wordt nagekomen, is Onze Minister bevoegd tot toepassing van bestuursdwang.
 
-2. Voor zover spoor- of tramrijtuigen of -wagens als bedoeld in [artikel 1, eerste lid, onder **b**, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=1&z=1998-01-01&g=1998-01-01), zich bevinden op terreinen of spoorbanen, welke behoren tot het bedrijf van een in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=1998-01-01&g=1998-01-01) bedoelde ondernemer of concessiehouder, wordt met betrekking tot deze vervoermiddelen geen gebruik gemaakt van de in het eerste lid omschreven bevoegdheid dan na overleg met die ondernemer of concessiehouder.
+2. Voor zover spoor- of tramrijtuigen of -wagens als bedoeld in [artikel 1, eerste lid, onder **b**, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-01-01), zich bevinden op terreinen of spoorbanen, welke behoren tot het bedrijf van een beheerder van een spoorweg, wordt met betrekking tot deze vervoermiddelen geen gebruik gemaakt van de in het eerste lid omschreven bevoegdheid dan na overleg met die beheerder.
 
 ##### Artikel 15
 
@@ -180,7 +180,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 18
 
-1. Bij algemene maatregel van bestuur regelen Wij de vergoeding van buitengewone kosten, door de betrokkene gemaakt bij het gevolggeven aan aanwijzingen, als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=1998-01-01&g=1998-01-01), of bij het nakomen van verplichtingen, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=1998-01-01&g=1998-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=1998-01-01&g=1998-01-01).
+1. Bij algemene maatregel van bestuur regelen Wij de vergoeding van buitengewone kosten, door de betrokkene gemaakt bij het gevolggeven aan aanwijzingen, als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-01-01&g=2005-01-01), of bij het nakomen van verplichtingen, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-01-01&g=2005-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01).
 
 2. Bij algemene maatregel van bestuur regelen Wij de uitkering alsmede de vergoeding wegens genees- en heelkundige behandeling in daarbij te bepalen gevallen terzake van tijdelijke of blijvende vermindering van arbeidsgeschiktheid of overlijden als gevolg van het nakomen of de medewerking aan het nakomen van krachtens deze wet opgelegde verplichtingen, indien en voorzover niet uit anderen hoofde aanspraak op een dergelijke uitkering of vergoeding bestaat.
 
@@ -194,17 +194,17 @@ Vervallen
 
 ##### Artikel 20
 
-1. Overtreding van het bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=4&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=1998-01-01&g=1998-01-01), [10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=1998-01-01&g=1998-01-01), [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=1998-01-01&g=1998-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=16&z=1998-01-01&g=1998-01-01) of 17 bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
+1. Overtreding van het bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=4&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-01-01&g=2005-01-01), [10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01), [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-01-01&g=2005-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=16&z=2005-01-01&g=2005-01-01) of 17 bepaalde wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Het feit is een overtreding.
 
 ##### Artikel 21
 
-1. Opzettelijke overtreding van het krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=4&z=1998-01-01&g=1998-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=1998-01-01&g=1998-01-01), [10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=1998-01-01&g=1998-01-01), [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=1998-01-01&g=1998-01-01), of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=1998-01-01&g=1998-01-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren.
+1. Opzettelijke overtreding van het krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=I&artikel=4&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=9&z=2005-01-01&g=2005-01-01), [10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=10&z=2005-01-01&g=2005-01-01), [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=13&z=2005-01-01&g=2005-01-01), of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=IV&artikel=17&z=2005-01-01&g=2005-01-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vijf jaren.
 
 2. Het feit is een misdrijf.
 
-3. Indien het in het eerste lid bedoelde misdrijf wordt begaan in een gebied, waarvoor, op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderings toestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, kan de straf met een derde worden verhoogd.
+3. Indien het in het eerste lid bedoelde misdrijf wordt begaan in een gebied, waarvoor, op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderings toestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, kan de straf met een derde worden verhoogd.
 
 ##### Artikel 22
 
@@ -222,7 +222,7 @@ De bepalingen van dit Hoofdstuk zijn ook van toepassing op de Rijksingezetene in
 
 ##### Artikel 25
 
-Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=VI&artikel=24&z=1998-01-01&g=1998-01-01) bedoelde ambtenaren toegang tot elke plaats en zijn zij bevoegd inzage van alle bescheiden te vorderen, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
+Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=VI&artikel=24&z=2005-01-01&g=2005-01-01) bedoelde ambtenaren toegang tot elke plaats en zijn zij bevoegd inzage van alle bescheiden te vorderen, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 ##### Artikel 26
 
@@ -232,7 +232,7 @@ Vervallen
 
 ##### Artikel 27
 
-Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie wijzen Wij de autoriteiten aan, die in enig gebied de in de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=1998-01-01&g=1998-01-01) omschreven bevoegdheden uitoefenen, voor zolang de verbinding tussen dat gebied en Onze Minister, het College of de Directeur tengevolge van oorlogsomstandigheden verbroken is; Ons besluit wordt bekend gemaakt in de Nederlandse Staatscourant.
+Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie wijzen Wij de autoriteiten aan, die in enig gebied de in de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&hoofdstuk=III&artikel=8&z=2005-01-01&g=2005-01-01) omschreven bevoegdheden uitoefenen, voor zolang de verbinding tussen dat gebied en Onze Minister, het College of de Directeur tengevolge van oorlogsomstandigheden verbroken is; Ons besluit wordt bekend gemaakt in de Nederlandse Staatscourant.
 
 ##### Artikel 28
 
