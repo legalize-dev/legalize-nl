@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2003-11-19"
+last_updated: "2004-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -68,7 +68,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde, uitgezonderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=8), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) en [17, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17), [38a van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38a) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011333&artikel=7) en [8 van het Sociaal beleidskader reorganisaties zittende magistratuur](https://wetten.overheid.nl/jci1.3:c:BWBR0011333&artikel=8), wordt ten aanzien van de rechterlijk ambtenaar met rechtspraak belast die tevens is benoemd als lid van een gerechtsbestuur of van de Raad voor de rechtspraak, onder« salaris» en «bezoldiging» mede verstaan de toelage die in verband met het verrichten van de werkzaamheden als lid van het gerechtsbestuur of van de Raad voor de rechtspraak wordt genoten, met dien verstande dat in [artikel 38e, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38e) in plaats van «krachtens artikel 8 van de wet» wordt gelezen: krachtens artikel 8 van de wet en artikel 1, achtste lid, van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
+Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde, uitgezonderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=8), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) en [17, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38a) en [38da van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38da) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011333&artikel=7) en [8 van het Sociaal beleidskader reorganisaties zittende magistratuur](https://wetten.overheid.nl/jci1.3:c:BWBR0011333&artikel=8), wordt ten aanzien van de rechterlijk ambtenaar met rechtspraak belast die tevens is benoemd als lid van een gerechtsbestuur of van de Raad voor de rechtspraak, onder «salaris» en «bezoldiging» mede verstaan de toelage die in verband met het verrichten van de werkzaamheden als lid van het gerechtsbestuur of van de Raad voor de rechtspraak wordt genoten, met dien verstande dat:
+
+- a. in [artikel 38e, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38e) in plaats van «krachtens artikel 8 van de wet» wordt gelezen: krachtens artikel 8 van de wet en artikel 1, achtste lid, van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak; en
+
+- b. in [artikel 1, tweede lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826&artikel=1) in plaats van «op grond van artikel 38a of de artikelen 38d en 38e» wordt gelezen: op grond van de artikelen 38d en 38e.
 
 ##### Artikel 3
 
@@ -86,7 +90,7 @@ Voor de toepasselijkheid van het bij en krachtens de [Wet rechtspositie rechterl
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de directeuren bedrijfsvoering uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2003-11-19&g=2003-11-19), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2004-08-20&g=2004-08-20), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
 
@@ -128,7 +132,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2003-11-19&g=2003-11-19) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
+In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2004-08-20&g=2004-08-20) hebben de in dat artikel bedoelde personen in geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, geen aanspraak op een onkostenvergoeding en een representatievergoeding na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend.
 
 ##### Artikel 9b
 
