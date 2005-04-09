@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2004-12-01"
+last_updated: "2005-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -249,8 +249,6 @@ Besluit:
 - 1. van km 1.600 tot km 3.060;
 
 - 2. van km 3.750 tot km 4.750;
-
-- am. de Afgedamde Maas.
 
 2. 2. Het gestelde in het eerste lid is niet van toepassing:
 
@@ -500,4 +498,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2004-12-01&g=2004-12-01), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2005-04-09&g=2005-04-09), van overeenkomstige toepassing.
