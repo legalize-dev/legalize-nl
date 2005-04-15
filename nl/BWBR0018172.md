@@ -4,7 +4,7 @@ identifier: "BWBR0018172"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-04-15"
-last_updated: "2004-11-02"
+last_updated: "2005-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018172"
 soort: "ministeriele-regeling"
@@ -43,11 +43,11 @@ Besluit:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+De ambtenaren van de divisie Scheepvaart van Inspectie Verkeer en Waterstaat, bedoeld in [artikel 10 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+De ambtenaren van de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat, aangewezen op grond van [artikel 71 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=71) en bedoeld in [artikel 102 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102), worden aangewezen als ambtenaren belast met de opsporing van overtredingen van voorschriften, gesteld bij of krachtens de Arbeidsomstandighedenwet, voor zover deze overtredingen economische delicten zijn in de zin van [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
 ##### Artikel 3
 
