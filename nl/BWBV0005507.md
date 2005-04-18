@@ -4,7 +4,7 @@ identifier: "BWBV0005507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-10"
-last_updated: "2002-11-28"
+last_updated: "2005-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005507"
 soort: "verdrag"
@@ -492,7 +492,7 @@ De Raad is bevoegd:
 
 ##### Artikel 56. Benoeming en instelling van de Commissie
 
-De Commissie voor het Luchtverkeer bestaat uit vijftien leden, benoemd door de Raad uit personen voorgedragen door de Verdragsluitende Staten. Deze personen moeten ter zake kundig zijn en ervaring hebben op het gebied van de wetenschap en de praktijk van de luchtvaart. De Raad richt tot alle Verdragsluitende Staten het verzoek een voordracht in te dienen. De Voorzitter van de Commissie voor het Luchtverkeer wordt benoemd door de Raad.
+De Commissie voor het Luchtverkeer bestaat uit negentien leden, benoemd door de Raad uit personen voorgedragen door de Verdragsluitende Staten. Deze personen moeten ter zake kundig zijn en ervaring hebben op het gebied van de wetenschap en de praktijk van de luchtvaart. De Raad richt tot alle Verdragsluitende Staten het verzoek een voordracht in te dienen. De Voorzitter van de Commissie voor het Luchtverkeer wordt benoemd door de Raad.
 
 ##### Artikel 57. Verplichtingen van de Commissie
 
