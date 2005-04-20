@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2005-03-01"
+last_updated: "2005-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -8558,7 +8558,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28234 | Salbutamol a ecosal aer cfkv 100 spbs 200d+inh |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | 0.030046 per dosis |
+| SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | 0.030347 per dosis |
 |   |   |   |
 | Registratienummer | Artikelnaam |   |
 | 29458 | Salbutamol novolizer inhalpdr 100mcg/do 200do +inh |   |
