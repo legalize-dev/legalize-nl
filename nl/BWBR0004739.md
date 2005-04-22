@@ -4,7 +4,7 @@ identifier: "BWBR0004739"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2005-02-25"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004739"
 soort: "AMvB"
@@ -188,29 +188,29 @@ Vervallen
 
 Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 een beschikking tot vaststelling van een bijdrage ten bedrage van € 453 780,22 ten behoeve van:
 
-- a. een jaarlijkse rapportage vóór 1 juli in 1995, 1996, 1997 en 1998 over de voortgang bij de provincies van het akoestisch onderzoek met betrekking tot de in [artikel 3**a**, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-02-25&g=2005-02-25), bedoelde industrieterreinen, en
+- a. een jaarlijkse rapportage vóór 1 juli in 1995, 1996, 1997 en 1998 over de voortgang bij de provincies van het akoestisch onderzoek met betrekking tot de in [artikel 3**a**, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-04-22&g=2005-04-22), bedoelde industrieterreinen, en
 
 - b. een jaarlijkse rapportage vóór 1 juli in 1999, 2000, 2001, 2002, 2003, 2004, 2005 en 2006 over de voortgang van de uitvoering van de programma’s van maatregelen.
 
 ##### Artikel 4a
 
-1. Het Interprovinciaal Overleg richt de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), in overeenkomstig [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-02-25&g=2005-02-25).
+1. Het Interprovinciaal Overleg richt de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), in overeenkomstig [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-04-22&g=2005-04-22).
 
-2. Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), wordt ingericht.
+2. Onze Minister kan aan het Interprovinciaal Overleg aanwijzingen geven omtrent de inhoud van en de wijze waarop de rapportage, bedoeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), wordt ingericht.
 
 ##### Artikel 4b
 
-1. Indien een rapportage als bedoeld in [artikel 4, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), te laat of in het geheel niet over een kalenderjaar wordt toegezonden, dan wel niet is opgesteld overeenkomstig [artikel 4**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2005-02-25&g=2005-02-25), kan Onze Minister de beschikking tot vaststelling van de bijdrage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), geheel of gedeeltelijk intrekken. Onze Minister kan het betaalde bedrag geheel of gedeeltelijk terugvorderen.
+1. Indien een rapportage als bedoeld in [artikel 4, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), te laat of in het geheel niet over een kalenderjaar wordt toegezonden, dan wel niet is opgesteld overeenkomstig [artikel 4**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2005-04-22&g=2005-04-22), kan Onze Minister de beschikking tot vaststelling van de bijdrage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), geheel of gedeeltelijk intrekken. Onze Minister kan het betaalde bedrag geheel of gedeeltelijk terugvorderen.
 
 2. Onze Minister kent zo spoedig mogelijk na ontvangst van het teruggevorderde bedrag aan het provinciaal bestuur een twaalfde van dat bedrag toe.
 
 3. Indien het uitblijven van de rapportage mede het gevolg is van het niet of onvolledig verstrekken door een provinciaal bestuur van gegevens aan het Interprovinciaal Overleg, kent Onze Minister dat bestuur geen gedeelte van het teruggevorderde bedrag toe. Hij verdeelt dan het teruggevorderde bedrag over de overige provinciale besturen.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien een rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), te laat of in het geheel niet in één van de in dat artikel, onder **b** , bedoelde kalenderjaren is ontvangen, dan wel die rapportage niet is opgesteld overeenkomstig de [artikelen 4**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2005-02-25&g=2005-02-25) en [4**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-02-25&g=2005-02-25).
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien een rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), te laat of in het geheel niet in één van de in dat artikel, onder **b** , bedoelde kalenderjaren is ontvangen, dan wel die rapportage niet is opgesteld overeenkomstig de [artikelen 4**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4a&z=2005-04-22&g=2005-04-22) en [4**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-04-22&g=2005-04-22).
 
 ##### Artikel 4c
 
-1. Het provinciaal bestuur verstrekt aan het Interprovinciaal Overleg ten behoeve van de rapportage, bedoeld in [artikel 4, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), met ingang van 1996 telkens in januari van het lopende kalenderjaar de gegevens over de voortgang in hun provincie van het akoestisch onderzoek met betrekking tot de in [artikel 3**a**, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-02-25&g=2005-02-25), bedoelde industrieterreinen.
+1. Het provinciaal bestuur verstrekt aan het Interprovinciaal Overleg ten behoeve van de rapportage, bedoeld in [artikel 4, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), met ingang van 1996 telkens in januari van het lopende kalenderjaar de gegevens over de voortgang in hun provincie van het akoestisch onderzoek met betrekking tot de in [artikel 3**a**, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3a&z=2005-04-22&g=2005-04-22), bedoelde industrieterreinen.
 
 2. Indien de gegevens niet of onvolledig zijn verstrekt, doet het Interprovinciaal Overleg daarvan mededeling in de rapportage.
 
@@ -222,21 +222,21 @@ Onze Minister geeft aan het Interprovinciaal Overleg in het kalenderjaar 1994 ee
 
 - a. het totale aantal saneringsprogramma’s waarin maatregelen zijn genoemd die vóór 1 januari 2003 geëffectueerd moeten zijn;
 
-- b. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1996 zijn uitgevoerd, onder vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma, en welk percentage daarvan is bekostigd uit de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25), voor het jaar 1995;
+- b. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1996 zijn uitgevoerd, onder vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma, en welk percentage daarvan is bekostigd uit de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22), voor het jaar 1995;
 
-- c. met betrekking tot de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25), voor het jaar 1995:
+- c. met betrekking tot de bijdrage, bedoeld in [artikel 6**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22), voor het jaar 1995:
 
 - 1°. het bedrag dat in dat jaar niet is uitgegeven;
 
 - 2°. het bedrag dat van het in dat jaar niet-uitgegeven bedrag is verplicht, onder vermelding van het jaar waarin de betaling wordt verwacht, en
 
-- 3°. het bedrag dat van het in 1995 niet-uitgegeven bedrag is gereserveerd voor het doen van toekomstige uitgaven als bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25);
+- 3°. het bedrag dat van het in 1995 niet-uitgegeven bedrag is gereserveerd voor het doen van toekomstige uitgaven als bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22);
 
 - d. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6**a**, tweede lid, op 1 januari 1997 zullen zijn uitgevoerd.
 
 3. Bij de vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma worden de kosten uitgesplitst naar de in [artikel 2, eerste lid, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2) onderscheiden categorieën van maatregelen.
 
-4. Voor zover het verlenen, wijzigen of aanvullen van een vergunning deel uitmaakt van de op 1 januari 1996 uitgevoerde maatregelen, bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25), verklaren gedeputeerde staten ten aanzien van iedere verleende, gewijzigde of aangevulde vergunning dat deze voorziet in een effectuering vóór 1 januari 2003. De verklaringen maken deel uit van de gegevens, bedoeld in het tweede lid.
+4. Voor zover het verlenen, wijzigen of aanvullen van een vergunning deel uitmaakt van de op 1 januari 1996 uitgevoerde maatregelen, bedoeld in [artikel 6**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22), verklaren gedeputeerde staten ten aanzien van iedere verleende, gewijzigde of aangevulde vergunning dat deze voorziet in een effectuering vóór 1 januari 2003. De verklaringen maken deel uit van de gegevens, bedoeld in het tweede lid.
 
 5. Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg, met ingang van 1997, telkens in januari van het lopende kalenderjaar de gegevens, bedoeld in het tweede lid, onder **b** en **c**, over het daaraan voorafgaande kalenderjaar en de gegevens, bedoeld in het tweede lid, onder **d**, per 1 januari van het kalenderjaar dat volgt op het lopende kalenderjaar. Het derde en vierde lid zijn van overeenkomstige toepassing.
 
@@ -264,7 +264,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 
 ##### Artikel 6a
 
-1. Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3&z=2005-02-25&g=2005-02-25) bedoelde lijst en het in [artikel 3**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3b&z=2005-02-25&g=2005-02-25) bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.
+1. Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3&z=2005-04-22&g=2005-04-22) bedoelde lijst en het in [artikel 3**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3b&z=2005-04-22&g=2005-04-22) bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.
 
 2. De subsidie kan uitsluitend worden besteed aan kosten van uiterlijk vóór 1 januari 2006 te treffen maatregelen als bedoeld in [artikel 2, eerste lid, onder **a** tot en met **e**, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2). Voor zover het maatregelen betreft als bedoeld in [artikel 2, eerste lid, onder b en c, van het Besluit saneringsmaatregelen industrieterreinen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007107&artikel=2) kan ten hoogste 20% van de met betrekking tot die maatregelen vastgestelde subsidie tevens worden besteed aan kosten van voorbereiding, begeleiding en toezicht van deze maatregelen.
 
@@ -286,7 +286,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 | Noord-Brabant | € 4 859 366,25 |
 | Limburg | € 2 405 772,54 |
 
-2. Onze Minister kan, gelet op één of meer rapportages als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), de voor de uitvoering van deze paragraaf beschikbare subsidie, op aanvraag van het Interprovinciaal Overleg, één keer met € 1 815 120,86 verhogen.
+2. Onze Minister kan, gelet op één of meer rapportages als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), de voor de uitvoering van deze paragraaf beschikbare subsidie, op aanvraag van het Interprovinciaal Overleg, één keer met € 1 815 120,86 verhogen.
 
 3. De aanvraag, bedoeld in het tweede lid, gaat vergezeld van een voorstel – waarmee door alle provinciale besturen is ingestemd – tot verdeling van de in het tweede lid genoemde subsidie over de provincies.
 
@@ -318,31 +318,31 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 
 ##### Artikel 6d
 
-De betaling van de voor iedere provincie voor de uitvoering van het saneringsprogramma krachtens [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2005-02-25&g=2005-02-25) vastgestelde subsidie, vindt telkens uiterlijk in mei plaats.
+De betaling van de voor iedere provincie voor de uitvoering van het saneringsprogramma krachtens [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6b&z=2005-04-22&g=2005-04-22) vastgestelde subsidie, vindt telkens uiterlijk in mei plaats.
 
 ##### Artikel 6e
 
-1. Indien uit de jaarlijkse rapportage, bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), in 1999, 2000, 2001, 2002, 2003, 2004 of 2005 blijkt dat er nagenoeg geen kans is dat ten aanzien van alle in [artikel 4**d** , tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-02-25&g=2005-02-25), bedoelde saneringsprogramma’s de daarin genoemde maatregelen vóór 1 januari 2006 zijn uitgevoerd, kan Onze Minister het provinciaal bestuur de verplichting opleggen om op eigen kosten, met inachtneming van door Onze Minister te stellen richtlijnen, een onderzoek in te stellen naar de factoren die de oorzaak zijn van dit dreigend tekortschieten en de mogelijkheden deze weg te nemen, dan wel daarin verbetering te brengen.
+1. Indien uit de jaarlijkse rapportage, bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), in 1999, 2000, 2001, 2002, 2003, 2004 of 2005 blijkt dat er nagenoeg geen kans is dat ten aanzien van alle in [artikel 4**d** , tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-04-22&g=2005-04-22), bedoelde saneringsprogramma’s de daarin genoemde maatregelen vóór 1 januari 2006 zijn uitgevoerd, kan Onze Minister het provinciaal bestuur de verplichting opleggen om op eigen kosten, met inachtneming van door Onze Minister te stellen richtlijnen, een onderzoek in te stellen naar de factoren die de oorzaak zijn van dit dreigend tekortschieten en de mogelijkheden deze weg te nemen, dan wel daarin verbetering te brengen.
 
 2. Onze Minister maakt uiterlijk binnen 12 weken na ontvangst van de rapportage gebruik van zijn bevoegdheid, bedoeld in het eerste lid, of van de hem toekomende bevoegdheden met betrekking tot de vastgestelde subsidie.
 
 ##### Artikel 6f
 
-Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), de gegevens, bedoeld in [artikel 4d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-02-25&g=2005-02-25), niet of onvolledig hebben verstrekt aan het Interprovinciaal Overleg, of die rapportage op 1 oktober van het kalenderjaar waarin zij op 1 juli ontvangen had moeten zijn, niet ontvangen is, kan Onze Minister gedeputeerde staten verplichten uiterlijk op de eerstvolgende 1 februari te rapporteren over de voortgang van de afronding van de uitvoering van de saneringsprogramma's. Artikel 3m, tweede en derde lid, is van overeenkomstige toepassing.
+Indien gedeputeerde staten blijkens een rapportage als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), de gegevens, bedoeld in [artikel 4d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4d&z=2005-04-22&g=2005-04-22), niet of onvolledig hebben verstrekt aan het Interprovinciaal Overleg, of die rapportage op 1 oktober van het kalenderjaar waarin zij op 1 juli ontvangen had moeten zijn, niet ontvangen is, kan Onze Minister gedeputeerde staten verplichten uiterlijk op de eerstvolgende 1 februari te rapporteren over de voortgang van de afronding van de uitvoering van de saneringsprogramma's. Artikel 3m, tweede en derde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 6g
 
-1. In afwijking van [artikel 6**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25), geeft Onze Minister in het vervolg geen ambtshalve beschikking tot subsidievaststelling indien:
+1. In afwijking van [artikel 6**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22), geeft Onze Minister in het vervolg geen ambtshalve beschikking tot subsidievaststelling indien:
 
-- a. een aan gedeputeerde staten krachtens [artikel 6**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6e&z=2005-02-25&g=2005-02-25) opgelegde rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-02-25&g=2005-02-25), door hem op 1 februari niet ontvangen is, of
+- a. een aan gedeputeerde staten krachtens [artikel 6**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6e&z=2005-04-22&g=2005-04-22) opgelegde rapportage als bedoeld in [artikel 4, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=4&z=2005-04-22&g=2005-04-22), door hem op 1 februari niet ontvangen is, of
 
 - b. blijkens de hem toegezonden rapportage gedeputeerde staten aan het Interprovinciaal Overleg niet of onvolledig de gevraagde gegevens hebben verstrekt.
 
-2. [Artikel 3**o**, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3o&z=2005-02-25&g=2005-02-25), is van overeenkomstige toepassing.
+2. [Artikel 3**o**, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=3o&z=2005-04-22&g=2005-04-22), is van overeenkomstige toepassing.
 
 ##### Artikel 6h
 
-1. Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-02-25&g=2005-02-25), is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.
+1. Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=1&artikel=6a&z=2005-04-22&g=2005-04-22), is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.
 
 2. Onze Minister stelt bij de in het eerste lid bedoelde mededeling een termijn van ten hoogste acht weken binnen welke de ontbrekende informatie alsnog moet worden verstrekt.
 
@@ -368,7 +368,7 @@ In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. gemeenschappelijke regeling krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) omtrent in ieder geval het treffen van geluidwerende maatregelen of geluidhinderbestrijding, of
 
-- 2°. samenwerkingsverband ten behoeve van structurele samenwerking tussen gemeentebesturen ter zake van een activiteit als bedoeld [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8&z=2005-02-25&g=2005-02-25);
+- 2°. samenwerkingsverband ten behoeve van structurele samenwerking tussen gemeentebesturen ter zake van een activiteit als bedoeld [onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8&z=2005-04-22&g=2005-04-22);
 
 - c. samenwerkingsverband: samenwerkingsverband waaraan in 1996 op grond van de Regeling saneringsprogramma verkeerslawaai een bijdrage voor 1999 is verleend, alsmede een samenwerkingsverband dat na 1996 is ontstaan uit een combinatie van in 1996 bestaande samenwerkingsverbanden, waaraan in 1996 op grond van de Regeling saneringsprogramma verkeerslawaai een bijdrage voor 1999 zijn verleend.
 
@@ -526,7 +526,7 @@ Een aanvraag om subsidie voor voorbereiding, begeleiding en toezicht bevat in ie
 
 - b. een zo nauwkeurig mogelijke raming van de kosten van de geluidwerende maatregelen;
 
-- c. een verklaring dat bij die raming reeds zo veel mogelijk rekening is gehouden met [artikel 8**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-02-25&g=2005-02-25), en
+- c. een verklaring dat bij die raming reeds zo veel mogelijk rekening is gehouden met [artikel 8**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-04-22&g=2005-04-22), en
 
 - d. het kalenderjaar waarin de geluidwerende maatregelen opgenomen zullen worden in een programma van maatregelen als bedoeld in [artikel 89, eerste lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89).
 
@@ -538,25 +538,25 @@ Een aanvraag om subsidie voor voorbereiding, begeleiding en toezicht bevat in ie
 
 - b. binnen welk tijdvak de voorbereiding plaats dient te vinden.
 
-2. [Artikel 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=52&z=2005-02-25&g=2005-02-25), is niet van toepassing.
+2. [Artikel 52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=52&z=2005-04-22&g=2005-04-22), is niet van toepassing.
 
 ##### Artikel 11c
 
 1. Binnen vier weken na de verlening van een subsidie voor voorbereiding, begeleiding en toezicht betaalt Onze Minister een voorschot op die subsidie van 7,5% van de door hem geraamde kosten van de geluidwerende maatregelen.
 
-2. Indien Onze Minister tevens een subsidie als bedoeld in [artikel 11**f**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-02-25&g=2005-02-25), verleent voor de geluidwerende maatregelen, betaalt hij de subsidie voor voorbereiding, begeleiding en toezicht binnen vier weken daarna.
+2. Indien Onze Minister tevens een subsidie als bedoeld in [artikel 11**f**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-04-22&g=2005-04-22), verleent voor de geluidwerende maatregelen, betaalt hij de subsidie voor voorbereiding, begeleiding en toezicht binnen vier weken daarna.
 
 ##### Artikel 11d
 
-1. Indien Onze Minister tevens een subsidie als bedoeld in [artikel 11**f**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-02-25&g=2005-02-25), verleent voor de geluidwerende maatregelen, stelt hij bij die beschikking de subsidie voor voorbereiding, begeleiding en toezicht vast op 15% van het bedrag van de verlening van de subsidie voor de maatregelen.
+1. Indien Onze Minister tevens een subsidie als bedoeld in [artikel 11**f**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-04-22&g=2005-04-22), verleent voor de geluidwerende maatregelen, stelt hij bij die beschikking de subsidie voor voorbereiding, begeleiding en toezicht vast op 15% van het bedrag van de verlening van de subsidie voor de maatregelen.
 
-2. Onze Minister stelt de subsidie voor voorbereiding, begeleiding en toezicht vast op ten hoogste het bedrag van het voorschot, bedoeld in [artikel 11**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11c&z=2005-02-25&g=2005-02-25):
+2. Onze Minister stelt de subsidie voor voorbereiding, begeleiding en toezicht vast op ten hoogste het bedrag van het voorschot, bedoeld in [artikel 11**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11c&z=2005-04-22&g=2005-04-22):
 
 - a. zodra hij van oordeel is dat het gemeentebestuur de geluidwerende maatregelen niet binnen afzienbare tijd op zal nemen in een programma van maatregelen als bedoeld in [artikel 89, eerste lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89), of
 
 - b. als vier jaren zijn verstreken na de verlening van de subsidie en geen aanvraag is ontvangen om een subsidie voor de geluidwerende maatregelen.
 
-3. Indien Onze Minister besluit om de geluidwerende maatregelen niet vast te stellen krachtens [artikel 90, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=90), stelt hij de subsidie voor voorbereiding, begeleiding en toezicht vast op de gemaakte kosten daarvan, met een maximum van 15% van de in [artikel 11**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11c&z=2005-02-25&g=2005-02-25), bedoelde geraamde kosten van de maatregelen.
+3. Indien Onze Minister besluit om de geluidwerende maatregelen niet vast te stellen krachtens [artikel 90, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=90), stelt hij de subsidie voor voorbereiding, begeleiding en toezicht vast op de gemaakte kosten daarvan, met een maximum van 15% van de in [artikel 11**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11c&z=2005-04-22&g=2005-04-22), bedoelde geraamde kosten van de maatregelen.
 
 ##### Artikel 11e
 
@@ -570,15 +570,15 @@ Vervallen
 
 2. Onze Minister kan een onderzoek instellen naar de kwaliteit en de kosten van de geluidwerende maatregelen waarvoor subsidie als bedoeld in het eerste lid is verleend.
 
-3. Indien uit het onderzoek mocht blijken dat de geluidwerende maatregelen de geluidsbelasting niet hebben teruggebracht tot de waarden, bedoeld in [artikel 8c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-02-25&g=2005-02-25), stelt Onze Minister het gemeentebestuur of het bestuur in de gelegenheid om de geluidwerende maatregelen binnen een door hem te bepalen termijn alsnog te voltooien of aan te vullen, dan wel opnieuw te treffen.
+3. Indien uit het onderzoek mocht blijken dat de geluidwerende maatregelen de geluidsbelasting niet hebben teruggebracht tot de waarden, bedoeld in [artikel 8c, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-04-22&g=2005-04-22), stelt Onze Minister het gemeentebestuur of het bestuur in de gelegenheid om de geluidwerende maatregelen binnen een door hem te bepalen termijn alsnog te voltooien of aan te vullen, dan wel opnieuw te treffen.
 
 4. De geluidwerende maatregelen zijn binnen de door Onze Minister gestelde termijn voltooid, aangevuld of opnieuw getroffen. Indien de betrokken maatregelen niet zijn getroffen, treft Onze Minister op kosten van het gemeentebestuur of het bestuur de nodige maatregelen.
 
-5. Indien uit het onderzoek mocht blijken dat de kosten van de geluidwerende maatregelen niet voldoen aan [artikel 8c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-02-25&g=2005-02-25), stelt Onze Minister het gemeentebestuur of het bestuur in de gelegenheid om daarover opheldering te verschaffen binnen een door hem te bepalen termijn.
+5. Indien uit het onderzoek mocht blijken dat de kosten van de geluidwerende maatregelen niet voldoen aan [artikel 8c, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-04-22&g=2005-04-22), stelt Onze Minister het gemeentebestuur of het bestuur in de gelegenheid om daarover opheldering te verschaffen binnen een door hem te bepalen termijn.
 
 6. Onze Minister kan een onafhankelijke instantie aanwijzen die belast is met de toepassing van het tweede, derde en vijfde lid. Hij doet daarvan mededeling aan de gemeentebesturen en de besturen.
 
-7. [De artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11&z=2005-02-25&g=2005-02-25), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11a&z=2005-02-25&g=2005-02-25) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11b&z=2005-02-25&g=2005-02-25) zijn van overeenkomstige toepassing.
+7. [De artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11&z=2005-04-22&g=2005-04-22), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11a&z=2005-04-22&g=2005-04-22) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11b&z=2005-04-22&g=2005-04-22) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11g
 
@@ -594,11 +594,11 @@ Onze Minister betaalt als voorschot telkens 20% van de subsidie voor de geluidwe
 
 ##### Artikel 11h
 
-1. Bij de subsidieverlening, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-02-25&g=2005-02-25), gelden als verplichtingen dat:
+1. Bij de subsidieverlening, bedoeld in [artikel 11f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11f&z=2005-04-22&g=2005-04-22), gelden als verplichtingen dat:
 
 - a. de kosten van de geluidwerende maatregelen de verleende subsidie niet met meer dan 5% overstijgen, en
 
-- b. de maatregelen worden getroffen binnen het in [artikel 11g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-02-25&g=2005-02-25) bedoelde tijdvak.
+- b. de maatregelen worden getroffen binnen het in [artikel 11g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-04-22&g=2005-04-22) bedoelde tijdvak.
 
 2. Het gemeentebestuur of het bestuur doet Onze Minister onverwijld mededeling van wijzigingen in omstandigheden die er naar verwachting toe leiden dat niet aan de in het eerste lid bedoelde verplichtingen wordt voldaan.
 
@@ -616,19 +616,19 @@ Onze Minister betaalt als voorschot telkens 20% van de subsidie voor de geluidwe
 
 ##### Artikel 11j
 
-Indien het gemeentebestuur of het bestuur de in [artikel 11**i**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-02-25&g=2005-02-25), bedoelde stukken niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van Onze Minister onvolledig zijn, stelt Onze Minister het gemeentebestuur of het bestuur binnen zes weken na de in [artikel 11**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-02-25&g=2005-02-25) gestelde termijn dan wel na ontvangst van de naar het oordeel van Onze Minister onvolledige stukken, in de gelegenheid om binnen een door Onze Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
+Indien het gemeentebestuur of het bestuur de in [artikel 11**i**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-04-22&g=2005-04-22), bedoelde stukken niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van Onze Minister onvolledig zijn, stelt Onze Minister het gemeentebestuur of het bestuur binnen zes weken na de in [artikel 11**i**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-04-22&g=2005-04-22) gestelde termijn dan wel na ontvangst van de naar het oordeel van Onze Minister onvolledige stukken, in de gelegenheid om binnen een door Onze Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
 
 ##### Artikel 11k
 
 1. Behoudens het derde lid stelt Onze Minister de subsidie vast binnen twaalf weken na ontvangst van de stukken, bedoeld in artikel 11**i**, op het bedrag van de gemaakte kosten, met dien verstande dat de subsidie niet hoger is dan de verleende subsidie vermeerderd met 5%.
 
-2. Indien het gemeentebestuur of het bestuur niet binnen de in [artikel 11**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11j&z=2005-02-25&g=2005-02-25) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan Onze Minister voor iedere week die het gemeentebestuur of het bestuur in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen op het door hem vastgestelde bedrag. De korting bedraagt 2,5% van de verleende subsidie.
+2. Indien het gemeentebestuur of het bestuur niet binnen de in [artikel 11**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11j&z=2005-04-22&g=2005-04-22) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan Onze Minister voor iedere week die het gemeentebestuur of het bestuur in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen op het door hem vastgestelde bedrag. De korting bedraagt 2,5% van de verleende subsidie.
 
-3. Indien het gemeentebestuur of het bestuur de in [artikel 11**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11j&z=2005-02-25&g=2005-02-25) bedoelde termijn met twaalf weken heeft overschreden, stelt Onze Minister de subsidie vast, waarbij hij een korting toepast van ten minste 50% en ten hoogste 100% van de verleende subsidie.
+3. Indien het gemeentebestuur of het bestuur de in [artikel 11**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11j&z=2005-04-22&g=2005-04-22) bedoelde termijn met twaalf weken heeft overschreden, stelt Onze Minister de subsidie vast, waarbij hij een korting toepast van ten minste 50% en ten hoogste 100% van de verleende subsidie.
 
 ##### Artikel 11l
 
-De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11k&z=2005-02-25&g=2005-02-25), wordt bij de subsidievaststelling verrekend. Voor zover de korting niet verrekend kan worden, vordert Onze Minister haar terug.
+De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11k&z=2005-04-22&g=2005-04-22), wordt bij de subsidievaststelling verrekend. Voor zover de korting niet verrekend kan worden, vordert Onze Minister haar terug.
 
 #### § 2.4. Verkeersmaatregelen en afschermende maatregelen
 
@@ -640,7 +640,7 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 - b. voorbereiding en begeleiding van en het toezicht op die maatregelen;
 
-- c. geluidwerende maatregelen tegen wegverkeerslawaai, voor zover hij deze in plaats van of in aanvulling op [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25) genoemde maatregelen heeft vastgesteld.
+- c. geluidwerende maatregelen tegen wegverkeerslawaai, voor zover hij deze in plaats van of in aanvulling op [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22) genoemde maatregelen heeft vastgesteld.
 
 2. De subsidie, bedoeld in het eerste lid, onder b, wordt afzonderlijk aangevraagd en verleend.
 
@@ -658,7 +658,7 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 - a. niet elders een zodanige toename van de geluidsbelasting veroorzaken, dat de kosten van de bestrijding van deze toename hoger zijn dan de kostenbesparing die door het treffen van de verkeersmaatregelen wordt bereikt;
 
-- b. niet elders leiden tot een toename van de geluidsbelasting tot boven de 70 dB(A), dan wel 60 dB(A) voor gebouwen als bedoeld in [artikel 1, onder **e**, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=1&artikel=1&z=2005-02-25&g=2005-02-25);
+- b. niet elders leiden tot een toename van de geluidsbelasting tot boven de 70 dB(A), dan wel 60 dB(A) voor gebouwen als bedoeld in [artikel 1, onder **e**, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=1&artikel=1&z=2005-04-22&g=2005-04-22);
 
 - c. niet leiden tot het ter plaatse of elders overschrijden van de grenswaarden die, onverminderd artikel 5.2, derde lid, van de wet, gelden krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=16), en [17 van het Besluit luchtkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0012550&artikel=17);
 
@@ -666,7 +666,7 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 - e. niet voortvloeien uit het normale beheer en onderhoud van de weg.
 
-2. Verkeersmaatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van onderdeel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-02-25&g=2005-02-25) bij dit besluit.
+2. Verkeersmaatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van onderdeel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-04-22&g=2005-04-22) bij dit besluit.
 
 ##### Artikel 12b
 
@@ -674,9 +674,9 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 - a. indien de maatregelen strekken tot een verlaging met ten minste 10 dB(A) van de geluidsbelasting, op de begane grond, van de uitwendige scheidingsconstructie van de woningen of andere geluidsgevoelige gebouwen ten aanzien waarvan die geluidsbelasting door de maatregelen het sterkst wordt verlaagd;
 
-- b. indien de maatregelen worden uitgevoerd te zamen met afschermende maatregelen in verband met een reconstructie van een weg, en die maatregelen te zamen strekken tot [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-02-25&g=2005-02-25) genoemde verlaging, of
+- b. indien de maatregelen worden uitgevoerd te zamen met afschermende maatregelen in verband met een reconstructie van een weg, en die maatregelen te zamen strekken tot [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-04-22&g=2005-04-22) genoemde verlaging, of
 
-- c. indien de maatregelen worden uitgevoerd te zamen met verkeersmaatregelen en de maatregelen te zamen strekken tot [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-02-25&g=2005-02-25) genoemde verlaging.
+- c. indien de maatregelen worden uitgevoerd te zamen met verkeersmaatregelen en de maatregelen te zamen strekken tot [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-04-22&g=2005-04-22) genoemde verlaging.
 
 2. In afwijking van het eerste lid, onder **a**, komen afschermende maatregelen in aanmerking voor subsidie indien:
 
@@ -690,7 +690,7 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 ##### Artikel 12c
 
-1. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), bevat in ieder geval:
+1. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), bevat in ieder geval:
 
 - a. een vermelding van het tijdvak waarin de maatregelen getroffen zullen worden;
 
@@ -698,11 +698,11 @@ De korting, bedoeld in [artikel 11k, tweede en derde lid](https://wetten.overhei
 
 - c. een opgave omtrent bekostiging van de maatregelen door anderen dan Onze Minister.
 
-2. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), voor verkeersmaatregelen of afschermende maatregelen bevat tevens een bestek van deze maatregelen.
+2. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), voor verkeersmaatregelen of afschermende maatregelen bevat tevens een bestek van deze maatregelen.
 
-3. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), voor voorbereiding en begeleiding van en het toezicht op verkeersmaatregelen of afschermende maatregelen, vermeldt tevens het kalenderjaar waarin de maatregelen opgenomen zullen worden in een programma van maatregelen als bedoeld in [artikel 89, eerste lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89).
+3. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), voor voorbereiding en begeleiding van en het toezicht op verkeersmaatregelen of afschermende maatregelen, vermeldt tevens het kalenderjaar waarin de maatregelen opgenomen zullen worden in een programma van maatregelen als bedoeld in [artikel 89, eerste lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89).
 
-4. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), voor geluidwerende maatregelen bevat tevens een verklaring dat bij de kostenraming reeds zo veel mogelijk rekening is gehouden met [artikel 8**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-02-25&g=2005-02-25).
+4. Een aanvraag om een subsidie als bedoeld in [artikel 12, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), voor geluidwerende maatregelen bevat tevens een verklaring dat bij de kostenraming reeds zo veel mogelijk rekening is gehouden met [artikel 8**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-04-22&g=2005-04-22).
 
 ##### Artikel 12d
 
@@ -714,9 +714,9 @@ Onze Minister weigert een aanvraag om subsidie in ieder geval, voor zover naar z
 
 ##### Artikel 12e
 
-1. Indien de maatregelen zullen worden uitgevoerd tegen de kosten van de laagst geprijsde offerte en die kosten niet meer dan 10% hoger zijn dan het bedrag van de subsidieverlening, stelt het gemeentebestuur of – in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25) – Rijkswaterstaat Onze Minister schriftelijk in kennis van alle uitgebrachte offertes en van de redenen die ten grondslag liggen aan de gemaakte keuze.
+1. Indien de maatregelen zullen worden uitgevoerd tegen de kosten van de laagst geprijsde offerte en die kosten niet meer dan 10% hoger zijn dan het bedrag van de subsidieverlening, stelt het gemeentebestuur of – in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22) – Rijkswaterstaat Onze Minister schriftelijk in kennis van alle uitgebrachte offertes en van de redenen die ten grondslag liggen aan de gemaakte keuze.
 
-2. In andere gevallen dan bedoeld in het eerste lid dient het gemeentebestuur of -in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25) – Rijkswaterstaat bij Onze Minister een schriftelijk en gemotiveerd verzoek in om in te stemmen met de kosten van de uitvoering van de maatregelen.
+2. In andere gevallen dan bedoeld in het eerste lid dient het gemeentebestuur of -in het geval, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22) – Rijkswaterstaat bij Onze Minister een schriftelijk en gemotiveerd verzoek in om in te stemmen met de kosten van de uitvoering van de maatregelen.
 
 3. Onze Minister beschikt binnen drie weken na ontvangst van het verzoek. Hij kan daarbij het bedrag van de subsidieverlening wijzigen.
 
@@ -724,11 +724,11 @@ Onze Minister weigert een aanvraag om subsidie in ieder geval, voor zover naar z
 
 ##### Artikel 12f
 
-1. [De artikelen 11**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11b&z=2005-02-25&g=2005-02-25) tot en met [11**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11e&z=2005-02-25&g=2005-02-25) en [11**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11h&z=2005-02-25&g=2005-02-25) tot en met [11l](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11l&z=2005-02-25&g=2005-02-25) zijn van overeenkomstige toepassing op de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25) bedoelde subsidie, met dien verstande dat in plaats van de in [artikel 11**i**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-02-25&g=2005-02-25), genoemde termijn een termijn geldt van dertig weken.
+1. [De artikelen 11**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11b&z=2005-04-22&g=2005-04-22) tot en met [11**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11e&z=2005-04-22&g=2005-04-22) en [11**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11h&z=2005-04-22&g=2005-04-22) tot en met [11l](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11l&z=2005-04-22&g=2005-04-22) zijn van overeenkomstige toepassing op de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22) bedoelde subsidie, met dien verstande dat in plaats van de in [artikel 11**i**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-04-22&g=2005-04-22), genoemde termijn een termijn geldt van dertig weken.
 
-2. [Artikel 11**g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-02-25&g=2005-02-25) is van overeenkomstige toepassing op de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25) bedoelde subsidie, behalve indien de subsidie aan Rijkswaterstaat is verleend.
+2. [Artikel 11**g**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-04-22&g=2005-04-22) is van overeenkomstige toepassing op de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22) bedoelde subsidie, behalve indien de subsidie aan Rijkswaterstaat is verleend.
 
-3. In afwijking van het eerste lid is [artikel 11**i**, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-02-25&g=2005-02-25), niet van toepassing indien de subsidie aan Rijkswaterstaat is verleend.
+3. In afwijking van het eerste lid is [artikel 11**i**, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-04-22&g=2005-04-22), niet van toepassing indien de subsidie aan Rijkswaterstaat is verleend.
 
 #### § 3.2
 
@@ -738,7 +738,7 @@ Onze Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie ve
 
 ##### Artikel 12h
 
-1. Bij de subsidieverlening, bedoeld in [artikel 12g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-02-25&g=2005-02-25), geldt de verplichting dat de maatregelen worden getroffen binnen het aangegeven tijdvak.
+1. Bij de subsidieverlening, bedoeld in [artikel 12g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-04-22&g=2005-04-22), geldt de verplichting dat de maatregelen worden getroffen binnen het aangegeven tijdvak.
 
 2. Het gemeentebestuur of bestuur doet Onze Minister onverwijld mededeling van wijzigingen in omstandigheden die er naar verwachting toe leiden dat niet aan de in het eerste lid bedoelde verplichtingen wordt voldaan.
 
@@ -746,21 +746,21 @@ Onze Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie ve
 
 ##### Artikel 12i
 
-1. Het gemeentebestuur of het bestuur zendt Onze Minister binnen zestien weken na het einde van het tijdvak waarin de maatregelen getroffen moesten worden met gebruikmaking van een door Onze Minister ter beschikking te stellen formulier, een verklaring dat de in [artikel 12g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-02-25&g=2005-02-25) bedoelde maatregelen getroffen zijn.
+1. Het gemeentebestuur of het bestuur zendt Onze Minister binnen zestien weken na het einde van het tijdvak waarin de maatregelen getroffen moesten worden met gebruikmaking van een door Onze Minister ter beschikking te stellen formulier, een verklaring dat de in [artikel 12g](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-04-22&g=2005-04-22) bedoelde maatregelen getroffen zijn.
 
 2. Onze Minister kan de termijn, bedoeld in het eerste lid, op schriftelijk verzoek van het gemeentebestuur of het bestuur verlengen, mits het verzoek binnen die termijn is ontvangen en voldoende gemotiveerd is.
 
 ##### Artikel 12j
 
-Indien het gemeentebestuur of het bestuur het in [artikel 12i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-02-25&g=2005-02-25), bedoelde formulier niet tijdig heeft toegezonden of indien het ingezonden formulier naar het oordeel van Onze Minister onvolledig is, stelt Onze Minister het gemeentebestuur of het bestuur binnen zes weken na het einde van de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-02-25&g=2005-02-25) bedoelde termijn dan wel na ontvangst van het naar het oordeel van Onze Minister onvolledige formulier, in de gelegenheid om binnen een door Onze Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
+Indien het gemeentebestuur of het bestuur het in [artikel 12i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-04-22&g=2005-04-22), bedoelde formulier niet tijdig heeft toegezonden of indien het ingezonden formulier naar het oordeel van Onze Minister onvolledig is, stelt Onze Minister het gemeentebestuur of het bestuur binnen zes weken na het einde van de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-04-22&g=2005-04-22) bedoelde termijn dan wel na ontvangst van het naar het oordeel van Onze Minister onvolledige formulier, in de gelegenheid om binnen een door Onze Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
 
 ##### Artikel 12k
 
-1. Behoudens het derde lid stelt Onze Minister de subsidie vast binnen twaalf weken na ontvangst van de stukken, bedoeld in artikel 12i, op het bedrag van de gemaakte kosten, met dien verstande dat de subsidie niet hoger is dan het bedrag dat volgt uit de toepassing van onderdeel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-02-25&g=2005-02-25) bij dit besluit.
+1. Behoudens het derde lid stelt Onze Minister de subsidie vast binnen twaalf weken na ontvangst van de stukken, bedoeld in artikel 12i, op het bedrag van de gemaakte kosten, met dien verstande dat de subsidie niet hoger is dan het bedrag dat volgt uit de toepassing van onderdeel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-04-22&g=2005-04-22) bij dit besluit.
 
-2. Indien het gemeentebestuur of het bestuur niet binnen de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-02-25&g=2005-02-25) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan Onze Minister voor iedere week die het gemeentebestuur of het bestuur in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen op het door hem vastgestelde bedrag. De korting bedraagt 2,5% van de verleende subsidie.
+2. Indien het gemeentebestuur of het bestuur niet binnen de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-04-22&g=2005-04-22) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan Onze Minister voor iedere week die het gemeentebestuur of het bestuur in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen op het door hem vastgestelde bedrag. De korting bedraagt 2,5% van de verleende subsidie.
 
-3. Indien het gemeentebestuur of het bestuur de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-02-25&g=2005-02-25) bedoelde termijn met zestien weken heeft overschreden, stelt Onze Minister de subsidie vast, waarbij hij een korting toepast van 100% van de verleende subsidie.
+3. Indien het gemeentebestuur of het bestuur de in [artikel 12i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12i&z=2005-04-22&g=2005-04-22) bedoelde termijn met zestien weken heeft overschreden, stelt Onze Minister de subsidie vast, waarbij hij een korting toepast van 100% van de verleende subsidie.
 
 ### Afdeling 3. Subsidie geluidhinderbestrijding spoorweglawaai
 
@@ -768,9 +768,9 @@ Indien het gemeentebestuur of het bestuur het in [artikel 12i, eerste lid](https
 
 ##### Artikel 13
 
-1. Op deze afdeling is [artikel 8, aanhef en onder **a**, **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8&z=2005-02-25&g=2005-02-25), van toepassing en [artikel 8**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8a&z=2005-02-25&g=2005-02-25) van overeenkomstige toepassing.
+1. Op deze afdeling is [artikel 8, aanhef en onder **a**, **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8&z=2005-04-22&g=2005-04-22), van toepassing en [artikel 8**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8a&z=2005-04-22&g=2005-04-22) van overeenkomstige toepassing.
 
-2. Op [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.3&z=2005-02-25&g=2005-02-25) is [artikel 8**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-02-25&g=2005-02-25) is van overeenkomstige toepassing.
+2. Op [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.3&z=2005-04-22&g=2005-04-22) is [artikel 8**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=8c&z=2005-04-22&g=2005-04-22) is van overeenkomstige toepassing.
 
 3. Niet in aanmerking voor subsidie krachtens deze afdeling komen maatregelen:
 
@@ -784,9 +784,7 @@ Indien het gemeentebestuur of het bestuur het in [artikel 12i, eerste lid](https
 
 5. Onze Minister kan alleen toestemmen in het in uitvoering nemen van maatregelen, bedoeld in het vierde lid, indien het naar zijn oordeel om redenen van doelmatigheid zeer wenselijk is deze maatregelen in uitvoering te nemen.
 
-6. Maatregelen komen slechts in aanmerking voor subsidie krachtens deze afdeling, indien zij door Onze Minister zijn vastgesteld met overeenkomstige toepassing van [artikel 90, tweede en vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=90).
-
-7. Maatregelen komen voorts slechts in aanmerking voor een bijdrage indien zij worden getroffen ten behoeve van op 1 juli 1987 aanwezige woningen en andere geluidsgevoelige gebouwen tegen spoorweglawaai vanwege een op die datum aanwezige spoorweg, al dan niet in wijziging, alsmede voor het treffen van geluidbeperkende voorzieningen ten behoeve van op 1 juli 1987 aanwezige geluidsgevoelige terreinen tegen spoorweglawaai vanwege een op die datum aanwezige spoorweg, al dan niet in wijziging, voorzover de geluidsbelasting op 1 juli 1987 voor woningen en geluidgevoelige terreinen hoger was dan 65 dB(A) en voor andere geluidgevoelige gebouwen op die datum hoger was dan 60 dB(A).
+6. Maatregelen komen slechts in aanmerking voor subsidie krachtens deze afdeling, indien zij door Onze Minister zijn vastgesteld met toepassing van [artikel 27, tweede tot en met vierde lid, en negende lid, van het Besluit geluidhinder spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0004137&artikel=27).
 
 ##### Artikel 13a
 
@@ -816,9 +814,9 @@ Vervallen
 
 - b. voorbereiding en begeleiding van en het toezicht op die maatregelen.
 
-2. [De artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11&z=2005-02-25&g=2005-02-25), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), zijn van overeenkomstige toepassing.
+2. [De artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11&z=2005-04-22&g=2005-04-22), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), zijn van overeenkomstige toepassing.
 
-3. [De artikelen 11a, aanhef en onder a, b en c, 11b, 11c, 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11a&z=2005-02-25&g=2005-02-25) met uitzondering van het tweede lid, onder a en 11g tot en met 11k zijn van overeenkomstige toepassing.
+3. [De artikelen 11a, aanhef en onder a, b en c, 11b, 11c, 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11a&z=2005-04-22&g=2005-04-22) met uitzondering van het tweede lid, onder a en 11g tot en met 11k zijn van overeenkomstige toepassing.
 
 #### § 3.4. Afschermende en geluidreducerende maatregelen
 
@@ -830,23 +828,23 @@ Vervallen
 
 - b. voorbereiding en begeleiding van en het toezicht op die maatregelen;
 
-- c. geluidwerende maatregelen tegen spoorweglawaai, voor zover hij deze in plaats van of in aanvulling op [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=16&z=2005-02-25&g=2005-02-25) genoemde maatregelen heeft vastgesteld.
+- c. geluidwerende maatregelen tegen spoorweglawaai, voor zover hij deze in plaats van of in aanvulling op [de onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=16&z=2005-04-22&g=2005-04-22) genoemde maatregelen heeft vastgesteld.
 
 2. Onze Minister kan de subsidie aan de spoorwegexploitant verlenen, indien het gemeentebestuur met hem schriftelijk is overeengekomen dat hij de werkzaamheden zal verrichten, de uitvoering van de maatregelen daarbij inbegrepen.
 
 3. De subsidie, bedoeld in het eerste lid, onder **b**, wordt slechts verleend ten behoeve van maatregelen ter bescherming van woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen die een hogere geluidsbelasting vanwege een spoorweg ondervinden dan een door Onze Minister jaarlijks – gelijktijdig met de vaststelling van de susidieplafonds voor de uitvoering van dit besluit, krachtens [artikel 15.13, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) – in de **Staatscourant** bekend te maken waarde.
 
-4. [Artikel 12, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-02-25&g=2005-02-25), is van overeenkomstige toepassing.
+4. [Artikel 12, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12&z=2005-04-22&g=2005-04-22), is van overeenkomstige toepassing.
 
 ##### Artikel 17
 
 1. De artikelen 11b tot en met 11d zijn van overeenkomstige toepassing.
 
-2. [De artikelen 11g tot en met 11l](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-02-25&g=2005-02-25), [12b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-02-25&g=2005-02-25), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12c&z=2005-02-25&g=2005-02-25), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12d&z=2005-02-25&g=2005-02-25) en [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12e&z=2005-02-25&g=2005-02-25) zijn van overeenkomstige toepassing, met dien verstande dat de in [artikel 11i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-02-25&g=2005-02-25) bedoelde stukken aan Onze Minister gezonden moeten worden uiterlijk op de eerste dag van de zevende kalendermaand na het in dat artikel bedoelde tijdvak.
+2. [De artikelen 11g tot en met 11l](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11g&z=2005-04-22&g=2005-04-22), [12b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12b&z=2005-04-22&g=2005-04-22), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12c&z=2005-04-22&g=2005-04-22), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12d&z=2005-04-22&g=2005-04-22) en [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12e&z=2005-04-22&g=2005-04-22) zijn van overeenkomstige toepassing, met dien verstande dat de in [artikel 11i](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=11i&z=2005-04-22&g=2005-04-22) bedoelde stukken aan Onze Minister gezonden moeten worden uiterlijk op de eerste dag van de zevende kalendermaand na het in dat artikel bedoelde tijdvak.
 
 ##### Artikel 18
 
-Geluidreducerende maatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van onderdeel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-02-25&g=2005-02-25) bij dit besluit.
+Geluidreducerende maatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van onderdeel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-04-22&g=2005-04-22) bij dit besluit.
 
 #### § 3.5. Onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen vanwege spoorweglawaai.
 
@@ -854,9 +852,9 @@ Geluidreducerende maatregelen komen slechts in aanmerking voor subsidie, voor zo
 
 1. Onze Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie verlenen terzake van de kosten van het treffen van maatregelen tegen spoorweglawaai die strekken tot onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen.
 
-2. [De artikelen 12g tot en met 12j](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-02-25&g=2005-02-25) zijn van overeenkomstige toepassing.
+2. [De artikelen 12g tot en met 12j](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12g&z=2005-04-22&g=2005-04-22) zijn van overeenkomstige toepassing.
 
-3. [Artikel 12k](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2005-02-25&g=2005-02-25) is van overeenkomstige toepassing, met dien verstande dat de subsidie niet hoger is dan het bedrag dat volgt uit de toepassing van onderdeel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-02-25&g=2005-02-25) bij dit besluit.
+3. [Artikel 12k](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2005-04-22&g=2005-04-22) is van overeenkomstige toepassing, met dien verstande dat de subsidie niet hoger is dan het bedrag dat volgt uit de toepassing van onderdeel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&bijlage=A&z=2005-04-22&g=2005-04-22) bij dit besluit.
 
 ### Afdeling 4
 
@@ -1128,15 +1126,15 @@ Vervallen
 
 ##### Artikel 50
 
-Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-02-25&g=2005-02-25) betrekking heeft op een activiteit die nog niet geheel is uitgevoerd, is de aanvrager verplicht zodra de activiteit is uitgevoerd of is stopgezet Onze Minister daarvan in kennis te stellen.
+Indien de aanvraag tot subsidieverlening als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-04-22&g=2005-04-22) betrekking heeft op een activiteit die nog niet geheel is uitgevoerd, is de aanvrager verplicht zodra de activiteit is uitgevoerd of is stopgezet Onze Minister daarvan in kennis te stellen.
 
 ##### Artikel 51
 
-1. Onze Minister geeft de beschikking op de aanvraag tot verlening van subsidie als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-02-25&g=2005-02-25) binnen vijf maanden na de datum waarop de aanvraag is ontvangen.
+1. Onze Minister geeft de beschikking op de aanvraag tot verlening van subsidie als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-04-22&g=2005-04-22) binnen vijf maanden na de datum waarop de aanvraag is ontvangen.
 
 2. In de gevallen waarin de aanvraag, bedoeld in het eerste lid, betrekking heeft op een activiteit die is uitgevoerd, wordt een aanvraag tot verlening van subsidie geacht een aanvraag tot subsidievaststelling te zijn. Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverlening gegeven.
 
-3. In de gevallen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=50&z=2005-02-25&g=2005-02-25), geeft Onze Minister de beschikking tot subsidievaststelling binnen vijf maanden na de ontvangst van de mededeling van de aanvrager dat de activiteit is uitgevoerd of stopgezet.
+3. In de gevallen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=50&z=2005-04-22&g=2005-04-22), geeft Onze Minister de beschikking tot subsidievaststelling binnen vijf maanden na de ontvangst van de mededeling van de aanvrager dat de activiteit is uitgevoerd of stopgezet.
 
 ##### Artikel 52
 
@@ -1162,15 +1160,15 @@ Vervallen
 
 ##### Artikel 55
 
-In afwijking van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=51&z=2005-02-25&g=2005-02-25), kan Onze Minister, in afwachting van een wijziging van het voor dat jaar vastgestelde subsidieplafond de beslissing op een subsidie-aanvraag geheel of gedeeltelijk aanhouden tot uiterlijk 15 december van het kalenderjaar waarin de subsidie is aangevraagd. Hij deelt de aanhouding aan de aanvrager mee.
+In afwijking van [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=51&z=2005-04-22&g=2005-04-22), kan Onze Minister, in afwachting van een wijziging van het voor dat jaar vastgestelde subsidieplafond de beslissing op een subsidie-aanvraag geheel of gedeeltelijk aanhouden tot uiterlijk 15 december van het kalenderjaar waarin de subsidie is aangevraagd. Hij deelt de aanhouding aan de aanvrager mee.
 
 ##### Artikel 56
 
-Indien Onze Minister toepassing heeft gegeven aan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=55&z=2005-02-25&g=2005-02-25) geeft hij uiterlijk binnen acht weken na afloop van de aanhouding een beschikking op de aanvraag.
+Indien Onze Minister toepassing heeft gegeven aan [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=3&artikel=55&z=2005-04-22&g=2005-04-22) geeft hij uiterlijk binnen acht weken na afloop van de aanhouding een beschikking op de aanvraag.
 
 ##### Artikel 57
 
-Indien krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-02-25&g=2005-02-25), afdelingen 2 en 3, een beschikking tot subsidievaststelling moet worden gegeven, in een geval waarin de werkelijk gemaakte kosten hoger zijn dan het bedrag van de beschikking tot subsidieverlening en daarmee het voor de betrokken activiteit voor dat kalenderjaar vastgestelde subsidieplafond overschreden zou worden, stelt Onze Minister, in afwijking daarvan, in het daaropvolgende kalenderjaar, ambtshalve de subsidie vast op het bedrag van de werkelijk gemaakte kosten. De beschikking tot weigering van de vaststelling van de subsidie vermeldt dat in het daaropvolgende kalenderjaar, zonder nieuwe indiening van de aanvraag, het subsidiebedrag ambtshalve wordt vastgesteld op de hoogte van de werkelijk gemaakte kosten.
+Indien krachtens [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&z=2005-04-22&g=2005-04-22), afdelingen 2 en 3, een beschikking tot subsidievaststelling moet worden gegeven, in een geval waarin de werkelijk gemaakte kosten hoger zijn dan het bedrag van de beschikking tot subsidieverlening en daarmee het voor de betrokken activiteit voor dat kalenderjaar vastgestelde subsidieplafond overschreden zou worden, stelt Onze Minister, in afwijking daarvan, in het daaropvolgende kalenderjaar, ambtshalve de subsidie vast op het bedrag van de werkelijk gemaakte kosten. De beschikking tot weigering van de vaststelling van de subsidie vermeldt dat in het daaropvolgende kalenderjaar, zonder nieuwe indiening van de aanvraag, het subsidiebedrag ambtshalve wordt vastgesteld op de hoogte van de werkelijk gemaakte kosten.
 
 ##### Artikel 58
 
@@ -1282,7 +1280,7 @@ Vervallen
 
 ##### Artikel 81a
 
-Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), 15.13, [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2005-02-25&g=2005-02-25) en [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2005-02-25&g=2005-02-25), en 21.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en 106, 126a, 129 en 174 van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
+Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), 15.13, [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2005-04-22&g=2005-04-22) en [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=7&artikel=81a&z=2005-04-22&g=2005-04-22), en 21.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en 106, 126a, 129 en 174 van de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
 
 ##### Artikel 82
 
@@ -1892,7 +1890,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 1. Verkeersmaatregelen tegen wegverkeerslawaai
 
-Het in [artikel 12**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12a&z=2005-02-25&g=2005-02-25), bedoelde bedrag is de uitkomst van de volgende berekening volgens de onderstaande desbetreffende tabel:
+Het in [artikel 12**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12a&z=2005-04-22&g=2005-04-22), bedoelde bedrag is de uitkomst van de volgende berekening volgens de onderstaande desbetreffende tabel:
 
 de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt, verminderd met de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) toeneemt.
 
@@ -1904,17 +1902,17 @@ de som van de normbedragen voor de woningen, andere geluidsgevoelige gebouwen of
 
 ### 2. Geluidreducerende maatregelen aan de constructie van een spoorweg
 
-Het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=18&z=2005-02-25&g=2005-02-25) bedoelde bedrag is de uitkomst van de volgende berekening volgens onderstaande tabel: de som van de normbedragen voor de woningen of andere geluidsgevoelige gebouwen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt:
+Het in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.4&artikel=18&z=2005-04-22&g=2005-04-22) bedoelde bedrag is de uitkomst van de volgende berekening volgens onderstaande tabel: de som van de normbedragen voor de woningen of andere geluidsgevoelige gebouwen waarvan de geluidsbelasting als gevolg van de maatregelen met ten minste 3 dB(A) afneemt:
 
 Het bedrag dat de uitkomst is van de berekening volgens bovenstaande tabel kan worden verhoogd met maximaal 30%, ter vergoeding van eventuele bijkomende werkzaamheden aan de constructie van de spoorweg die noodzakelijk zijn om het treffen van de geluidreducerende maatregelen mogelijk te maken.
 
 ### 3. Onttrekking aan bestemming vanwege wegverkeerslawaai
 
-Het in [artikel 12k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2005-02-25&g=2005-02-25), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
+Het in [artikel 12k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=2&artikel=12k&z=2005-04-22&g=2005-04-22), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
 
 ### 4. Onttrekking aan bestemming vanwege railverkeerslawaai
 
-Het in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.5&artikel=19&z=2005-02-25&g=2005-02-25), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
+Het in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&hoofdstuk=2&afdeling=3&paragraaf=3.5&artikel=19&z=2005-04-22&g=2005-04-22), bedoelde bedrag bestaat uit de som van de per woning of andere geluidsgevoelige gebouw bepaalde maximale bijdragen met behulp van onderstaande tabel.
 
 ## Bijlage B. Behorende bij het Bijdragenbesluit openbare lichamen milieubeheer
 
