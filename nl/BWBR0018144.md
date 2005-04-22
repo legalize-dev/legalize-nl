@@ -4,7 +4,7 @@ identifier: "BWBR0018144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2005-01-01"
+last_updated: "2005-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018144"
 soort: "ministeriele-regeling"
@@ -160,7 +160,7 @@ Subsidie wordt telkens verleend voor een boekjaar.
 
 ##### Artikel 7. Niet vervullen begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2005-04-22&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2005-04-22&g=2005-01-01) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
+In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2005-04-22&g=2005-04-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2005-04-22&g=2005-04-22) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
 
 ##### Artikel 8. Voorschotten
 
