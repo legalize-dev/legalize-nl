@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-10-30"
+last_updated: "2005-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -104,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2004-10-30&g=2004-10-30), wordt jaarlijks aangepast overeenkomstig:
+1. De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-04-27&g=2005-04-27), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -120,13 +120,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7
 
-De inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2004-10-30&g=2004-10-30), worden aangepast overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2004-10-30&g=2004-10-30), is van toepassing.
+De inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2005-04-27&g=2005-04-27), worden aangepast overeenkomstig de ontwikkeling van de contractlonen zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-04-27&g=2005-04-27), is van toepassing.
 
 ##### Artikel 8
 
 1. De tegemoetkoming van het Rijk wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in de tabellen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2004-10-30&g=2004-10-30).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in de tabellen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2005-04-27&g=2005-04-27).
 
 #### Paragraaf 2. Specifieke berekeningsfactoren bij extra tegemoetkoming van het Rijk voor een ouder met partner
 
@@ -138,7 +138,7 @@ De inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De extra tegemoetkoming van het Rijk wordt uitgedrukt in een percentage van een derde deel van de totale kosten van kinderopvang, voor zover dat deel hoger is dan de in het eerste lid bedoelde bijdragen in de kosten van kinderopvang.
 
-4. De percentages, bedoeld in het derde lid, worden vermeld in de tabellen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2004-10-30&g=2004-10-30).
+4. De percentages, bedoeld in het derde lid, worden vermeld in de tabellen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2005-04-27&g=2005-04-27).
 
 ##### Artikel 10
 
@@ -168,15 +168,15 @@ Voor een ouder die geen partner heeft, wordt de tegemoetkoming van het Rijk verm
 
 1. Indien een ouder tegenwoordige arbeid verricht en geen partner heeft, wordt de tegemoetkoming van het Rijk vermeerderd met de extra tegemoetkoming van het Rijk, voor zover de bijdrage in de kosten van kinderopvang die hij in het kader van het verrichten van tegenwoordige arbeid heeft ontvangen en de tegemoetkoming van de gemeente, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=24), of de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=30), die hij heeft ontvangen, minder bedraagt dan een zesde deel van de kosten van kinderopvang.
 
-2. Indien de in het eerste lid bedoelde bijdrage in de kosten van kinderopvang hoger is dan een zesde deel van de kosten van kinderopvang, brengt de inspecteur bij de vaststelling van de tegemoetkoming van het Rijk het verschil tussen de vermeerdering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=10&z=2004-10-30&g=2004-10-30), en die bijdrage in mindering op die vermeerdering.
+2. Indien de in het eerste lid bedoelde bijdrage in de kosten van kinderopvang hoger is dan een zesde deel van de kosten van kinderopvang, brengt de inspecteur bij de vaststelling van de tegemoetkoming van het Rijk het verschil tussen de vermeerdering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=3&artikel=11&z=2005-04-27&g=2005-04-27), en die bijdrage in mindering op die vermeerdering.
 
 3. De extra tegemoetkoming van het Rijk wordt uitgedrukt in een percentage van een zesde deel van de totale kosten van kinderopvang, voor zover dat deel hoger is dan de in het eerste lid bedoelde bijdragen in de kosten van kinderopvang.
 
-4. Bij toepassing van het eerste lid is [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=9&z=2004-10-30&g=2004-10-30), van overeenkomstige toepassing.
+4. Bij toepassing van het eerste lid is [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=9&z=2005-04-27&g=2005-04-27), van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-In de gevallen, bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=95), wordt de extra tegemoetkoming van het Rijk voor een ouder die geen partner heeft vermeerderd met een bedrag dat wordt bepaald door het toepasselijke percentage, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=10&z=2004-10-30&g=2004-10-30), toe te passen op het bedrag dat resteert, indien een zesde deel van de kosten van kinderopvang wordt verminderd met:
+In de gevallen, bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=95), wordt de extra tegemoetkoming van het Rijk voor een ouder die geen partner heeft vermeerderd met een bedrag dat wordt bepaald door het toepasselijke percentage, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=2&artikel=10&z=2005-04-27&g=2005-04-27), toe te passen op het bedrag dat resteert, indien een zesde deel van de kosten van kinderopvang wordt verminderd met:
 
 - a. de bijdrage die deze ouder heeft ontvangen in het kader van het verrichten van tegenwoordige arbeid en de tegemoetkoming die hij heeft ontvangen van de gemeente, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=24), of van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=30), en
 
@@ -214,7 +214,7 @@ In de gevallen, bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.o
 
 ##### Artikel 17
 
-De [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2004-10-30&g=2004-10-30), [14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=14&z=2004-10-30&g=2004-10-30) zijn van overeenkomstige toepassing op de extra tegemoetkoming van het Rijk.
+De [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-04-27&g=2005-04-27), [14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=14&z=2005-04-27&g=2005-04-27) zijn van overeenkomstige toepassing op de extra tegemoetkoming van het Rijk.
 
 ### Hoofdstuk 3. Tegemoetkoming Uitvoeringsinstituut werknemersverzekeringen
 
@@ -234,7 +234,7 @@ De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen wordt in 
 
 ##### Artikel 21
 
-De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=15&z=2004-10-30&g=2004-10-30) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=16&z=2004-10-30&g=2004-10-30) zijn van overeenkomstige toepassing op de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen, met dien verstande dat voor «de ontvanger» wordt gelezen «het Uitvoeringsinstituut werknemersverzekeringen».
+De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=15&z=2005-04-27&g=2005-04-27) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=16&z=2005-04-27&g=2005-04-27) zijn van overeenkomstige toepassing op de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen, met dien verstande dat voor «de ontvanger» wordt gelezen «het Uitvoeringsinstituut werknemersverzekeringen».
 
 ##### Artikel 22
 
@@ -250,9 +250,9 @@ De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&pa
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2004-10-30&g=2004-10-30), in werking op 1 januari 2009; en
+- a. [artikel 6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2005-04-27&g=2005-04-27), in werking op 1 januari 2009; en
 
-- b. [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=14&z=2004-10-30&g=2004-10-30), in werking op 1 januari 2006.
+- b. [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=4&artikel=14&z=2005-04-27&g=2005-04-27), in werking op 1 januari 2006.
 
 ##### Artikel 24
 
