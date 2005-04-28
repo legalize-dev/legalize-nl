@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2004-10-30"
+last_updated: "2005-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -54,7 +54,9 @@ In deze regeling wordt verstaan onder:
 
 - c. minister: de Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder.
+- d. vraagouder: ouder die kinderopvang vraagt die geboden wordt door een gastouder;
+
+- e. innovatieve gastouderopvang: kinderopvang op grond van [artikel 1 van het Tijdelijk besluit innovatieve kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0018054&artikel=1).
 
 #### Paragraaf 2. Tegemoetkoming van de gemeente en het Uitvoeringsinstituut werknemersverzekeringen
 
@@ -68,7 +70,7 @@ Het bedrag, bedoeld in de [artikelen 24, eerste, tweede en derde lid](https://we
 
 ##### Artikel 4. Voorkoming samenloop toeslag
 
-Indien de ouder of zijn partner gedurende een tegemoetkomingsjaar een persoon is als bedoeld in als bedoeld in[6, eerste lid, onder c, e of, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), terwijl de ander een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2004-10-30&g=2004-10-30), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6).
+Indien de ouder of zijn partner gedurende een tegemoetkomingsjaar een persoon is als bedoeld in [artikel 6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), terwijl de ander een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2005-04-28&g=2005-04-28), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6).
 
 #### Paragraaf 3. Melding en gemeentelijk register
 
@@ -88,7 +90,7 @@ Indien de ouder of zijn partner gedurende een tegemoetkomingsjaar een persoon is
 
 - f. indien het betreffende kindercentrum op hetzelfde adres is gevestigd als de houder, bedoeld onder a of b, tevens: naam en telefoonnummer van het kindercentrum.
 
-2. Het eerste lid, aanhef en onder a, b, d, e en f, is van overeenkomstige toepassing op degene, die blijkens een melding als bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=45), voornemens is een gastouderbureau in exploitatie te nemen.
+2. Het eerste lid, aanhef en onder a, b, d, e en f, is van overeenkomstige toepassing op degene, die blijkens een melding als bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=45), voornemens is een gastouderbureau in exploitatie te nemen. Bij een melding als bedoeld in de eerste volzin vermeldt degene die een gastouderbureau in exploitatie wil nemen tevens of hij voornemens is innovatieve gastouderopvang tot stand te brengen en te begeleiden.
 
 3. Indien het voornemen bestaat meerdere kindercentra dan wel gastouderbureaus in exploitatie te nemen, worden bij een melding als bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=45) per kindercentrum of gastouderbureau de gegevens, bedoeld in het eerste of tweede lid vermeld.
 
@@ -102,7 +104,7 @@ Indien de ouder of zijn partner gedurende een tegemoetkomingsjaar een persoon is
 
 ##### Artikel 7. Uittreksels en inlichtingen
 
-1. Het college verstrekt aan een ieder op aanvraag uittreksels uit het register en inlichtingen over in het register opgenomen gegevens. Een uittreksel bevat een verklaring dat op het tijdstip waarop het uittreksel wordt verstrekt een kindercentrum of gastouderbureau is ingeschreven in het register dan wel dat een kindercentrum of gastouderbureau, tot het tijdstip van verwijdering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9&z=2004-10-30&g=2004-10-30), in het register was opgenomen.
+1. Het college verstrekt aan een ieder op aanvraag uittreksels uit het register en inlichtingen over in het register opgenomen gegevens. Een uittreksel bevat een verklaring dat op het tijdstip waarop het uittreksel wordt verstrekt een kindercentrum of gastouderbureau is ingeschreven in het register dan wel dat een kindercentrum of gastouderbureau, tot het tijdstip van verwijdering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9&z=2005-04-28&g=2005-04-28), in het register was opgenomen.
 
 2. Uittreksels uit het register en inlichtingen over in het register opgenomen gegevens worden tegen betaling van de werkelijke kosten verkrijgbaar gesteld.
 
@@ -158,9 +160,11 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 - a. een overzicht van alle bij dat gastouderbureau aangesloten gastouders, vermeldende in ieder geval naam en adres, postcode, woonplaats, telefoonnummer,
 
-- b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) van bij het gastouderbureau aangesloten gastouders, en
+- b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) dan wel volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) van bij het gastouderbureau aangesloten gastouders,
 
-- c. afschriften van alle met vraagouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de voor de gastouderopvang te betalen prijs per uur en, indien van toepassing, de bemiddelingskosten, naam, geboortedatum, adres, postcode en woonplaats van het kind, het aantal uren gastouderopvang per kind per jaar, evenals de duur van de overeenkomst.
+- c. afschriften van alle met vraagouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de voor de gastouderopvang te betalen prijs per uur en, indien van toepassing, de bemiddelingskosten, naam, geboortedatum, adres, postcode en woonplaats van het kind, het aantal uren gastouderopvang per kind per jaar, evenals de duur van de overeenkomst, en,
+
+- d. voor zover daarvan sprake is, een overzicht van gastouders die innovatieve gastouderopvang bieden.
 
 4. De administratie van een kindercentrum of gastouderbureau is voorts zodanig ingericht dat de houder aan een ouder als bedoeld in [artikel 94 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=94) op aanvraag een verklaring verstrekt dat in de maand voorafgaand aan het tijdstip van inwerkingtreding van de wet van kinderopvang als bedoeld in [artikel 95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=95) gebruik is gemaakt.
 
@@ -186,6 +190,8 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 3. Het verslag dat het college ingevolge [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=67) aan de Gemeenteraad en de minister zendt, staat tevens ten dienste van de Inspectie Werk en Inkomen.
 
+4. Een verslag wordt ingericht overeenkomstig het als bijlage bij deze regeling opgenomen model.
+
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
 ##### Artikel 13. Aanvraag van buitenlandse kinderopvang ten behoeve van opneming in centraal register
@@ -202,7 +208,7 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 ##### Artikel 14. Kinderopvang in België
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2004-10-30&g=2004-10-30), in België wordt gerekend:
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2005-04-28&g=2005-04-28), in België wordt gerekend:
 
 - a. een erkend kinderdagverblijf,
 
@@ -212,23 +218,23 @@ Binnen acht weken na een melding als bedoeld in [artikel 45, eerste lid, van de 
 
 - d. een opvanggezin, aangesloten bij een erkende dienst voor opvanggezinnen.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2004-10-30&g=2004-10-30), wordt gerekend een geldige erkenning of attest van toezicht verleend door Kind en Gezin.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2005-04-28&g=2005-04-28), wordt gerekend een geldige erkenning of attest van toezicht verleend door Kind en Gezin.
 
 ##### Artikel 15. Kinderopvang in Duitsland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2004-10-30&g=2004-10-30), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2005-04-28&g=2005-04-28), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2004-10-30&g=2004-10-30), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2005-04-28&g=2005-04-28), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
 
 ##### Artikel 16. Wijzigingen in centraal register
 
-De minister kan wijzigingen in het centrale register, bedoeld in [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2004-10-30&g=2004-10-30), niet overeenstemmen met de werkelijke situatie.
+De minister kan wijzigingen in het centrale register, bedoeld in [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2005-04-28&g=2005-04-28), niet overeenstemmen met de werkelijke situatie.
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2004-10-30&g=2004-10-30) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2005-04-28&g=2005-04-28) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -237,5 +243,11 @@ De Regeling Wet kinderopvang treedt in werking op het tijdstip waarop de [Wet ki
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Wet kinderopvang.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage
+
+Ligt ter inzage op het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
