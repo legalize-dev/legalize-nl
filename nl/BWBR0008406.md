@@ -4,7 +4,7 @@ identifier: "BWBR0008406"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-06-24"
-last_updated: "2005-01-01"
+last_updated: "2005-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008406"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 Voorzieningen worden verleend in de vorm van:
 
-- a. leefvoorzieningen als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&z=2005-01-01&g=2005-01-01); deze voorzieningen kunnen betrekking hebben op:
+- a. leefvoorzieningen als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&z=2005-04-28&g=2005-04-28); deze voorzieningen kunnen betrekking hebben op:
 
 - 1. verplaatsing per taxi of auto;
 
@@ -85,15 +85,15 @@ Voorzieningen worden verleend in de vorm van:
 
 - 9. algemene dagelijkse levensverrichtingen;
 
-- b. werkvoorzieningen als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4&z=2005-01-01&g=2005-01-01);
+- b. werkvoorzieningen als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4&z=2005-04-28&g=2005-04-28);
 
-- c. voorzieningen ter zake van de kosten van geneeskundige verzorging als bedoeld in [hoofdstuk 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&z=2005-01-01&g=2005-01-01);
+- c. voorzieningen ter zake van de kosten van geneeskundige verzorging als bedoeld in [hoofdstuk 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&z=2005-04-28&g=2005-04-28);
 
-- d. bijzondere voorzieningen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=5&z=2005-01-01&g=2005-01-01).
+- d. bijzondere voorzieningen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=5&z=2005-04-28&g=2005-04-28).
 
 ##### Artikel 3
 
-Een voorziening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-01-01&g=2005-01-01) wordt slechts verleend indien:
+Een voorziening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-04-28&g=2005-04-28) wordt slechts verleend indien:
 
 - a. de verstrekking daarvan in verband met de aanwezige invaliditeit om medische dan wel sociaal-medische redenen aangewezen is;
 
@@ -159,15 +159,15 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 ##### Artikel 5
 
-1. De in [artikel 4, onderdeel a, onder 1 en 3, en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bedoelde voorzieningen worden toegekend tot maximaal 10.000 kilometers. De in [artikel 4, onderdeel a, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bedoelde voorziening wordt toegekend tot maximaal 5.000 kilometers.
+1. De in [artikel 4, onderdeel a, onder 1 en 3, en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde voorzieningen worden toegekend tot maximaal 10.000 kilometers. De in [artikel 4, onderdeel a, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde voorziening wordt toegekend tot maximaal 5.000 kilometers.
 
 2. Bij het vaststellen van de in het eerste lid bedoelde voorzieningen wordt geen rekening gehouden met bespaarde kosten op het openbaar vervoer.
 
-3. De in [artikel 4, onderdeel a en e, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bedoelde voorzieningen worden toegekend voor een periode van vijf jaren. Indien de medische dan wel sociaal-medische redenen voor deze voorzieningen vervallen kunnen deze voorzieningen voor elke toegekende periode van vijf jaren gedurende een termijn van één jaar worden voortgezet doch ten hoogste voor de duur van drie jaar.
+3. De in [artikel 4, onderdeel a en e, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde voorzieningen worden toegekend voor een periode van vijf jaren. Indien de medische dan wel sociaal-medische redenen voor deze voorzieningen vervallen kunnen deze voorzieningen voor elke toegekende periode van vijf jaren gedurende een termijn van één jaar worden voortgezet doch ten hoogste voor de duur van drie jaar.
 
 ##### Artikel 6
 
-1. Voor de vaststelling van het recht op een voorziening als bedoeld in [artikel 4, onderdeel a tot en met c, en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), is de hoogte van het inkomen van de betrokkene bepalend.
+1. Voor de vaststelling van het recht op een voorziening als bedoeld in [artikel 4, onderdeel a tot en met c, en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), is de hoogte van het inkomen van de betrokkene bepalend.
 
 2. Bij de vaststelling van het inkomen van de betrokkene wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge [artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8) dan wel [artikel 3 van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=3) buiten beschouwing blijft.
 
@@ -175,9 +175,9 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 4. De in het eerste lid bedoelde voorzieningen worden toegekend indien het inkomen van de betrokkene in het kalenderjaar waarin het verzoek tot toekenning van de voorziening is gedaan niet meer bedraagt dan 261 x 80% van het maximumdagloon, bedoeld in de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) en [9a, vierde lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9a).
 
-5. Indien het inkomen van de betrokkene in een kalenderjaar meer bedraagt dan 261 x 80% van het maximumdagloon, bedoeld in de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) en [9a, vierde lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9a), vervallen de in [artikel 4, onderdeel b, c en e, onder 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bedoelde voorzieningen.
+5. Indien het inkomen van de betrokkene in een kalenderjaar meer bedraagt dan 261 x 80% van het maximumdagloon, bedoeld in de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9) en [9a, vierde lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=9a), vervallen de in [artikel 4, onderdeel b, c en e, onder 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde voorzieningen.
 
-6. Indien het inkomen van de betrokkene meer bedraagt dan het op grond van het in het vierde lid vastgestelde bedrag worden de voorzieningen, bedoeld in [artikel 4, onderdeel a en e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), gedeeltelijk toegekend overeenkomstig het hierna bepaalde:
+6. Indien het inkomen van de betrokkene meer bedraagt dan het op grond van het in het vierde lid vastgestelde bedrag worden de voorzieningen, bedoeld in [artikel 4, onderdeel a en e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), gedeeltelijk toegekend overeenkomstig het hierna bepaalde:
 
 - bij een overschrijding tot maximaal f 1250 wordt tot 90% van de op jaarbasis vastgestelde waarde van de voorziening tegemoetgekomen;
 
@@ -311,11 +311,11 @@ Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich
 
 ##### Artikel 10
 
-1. Onder werkvoorzieningen worden verstaan de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), die betrekking hebben op het woon-werkvervoer dan wel op een combinatie van woon-werkvervoer en leefvervoer.
+1. Onder werkvoorzieningen worden verstaan de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), die betrekking hebben op het woon-werkvervoer dan wel op een combinatie van woon-werkvervoer en leefvervoer.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-01-01&g=2005-01-01) zijn niet van toepassing op de werkvoorzieningen, bedoeld in het eerste lid.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-04-28&g=2005-04-28), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-04-28&g=2005-04-28) zijn niet van toepassing op de werkvoorzieningen, bedoeld in het eerste lid.
 
-3. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01), worden de in [artikel 4, onderdeel a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bedoelde voorzieningen indien die betrekking hebben op het woon-werkvervoer toegekend tot maximaal 80 werkkilometers vice versa per werkdag.
+3. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-04-28&g=2005-04-28), worden de in [artikel 4, onderdeel a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde voorzieningen indien die betrekking hebben op het woon-werkvervoer toegekend tot maximaal 80 werkkilometers vice versa per werkdag.
 
 ### Hoofdstuk 4a. Voorzieningen ter zake van de kosten van geneeskundige verzorging
 
@@ -389,7 +389,7 @@ Indien voor het ter beschikking stellen van een voorziening in de zin van deze r
 
 1. Indien een in bruikleen verstrekte voorziening wordt beëindigd kan de betrokkene in de gelegenheid worden gesteld die voorziening te kopen voor een prijs die de actuele waarde daarvan in het maatschappelijk verkeer niet te boven gaat.
 
-2. Indien een voorziening als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), wordt beëindigd kan de eventuele restwaarde van de in dat onderdeel bedoelde auto geheel of gedeeltelijk worden teruggevorderd.
+2. Indien een voorziening als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), wordt beëindigd kan de eventuele restwaarde van de in dat onderdeel bedoelde auto geheel of gedeeltelijk worden teruggevorderd.
 
 ##### Artikel 15
 
@@ -399,31 +399,31 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 ##### Artikel 16
 
-1. De in artikel 4, onderdeel g, onder 1, bedoelde financiële tegemoetkoming betreft maximaal 100 autorijlessen en 25 proef- en gewenningslessen.
+1. De in [artikel 4, onderdeel g, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming betreft maximaal 100 autorijlessen en 25 proef- en gewenningslessen.
 
-2. De financiële tegemoetkoming in de afleveringskosten, bedoeld in artikel 4, onderdeel g, onder 2, bedraagt maximaal € 300,–.
+2. De financiële tegemoetkoming in de afleveringskosten, bedoeld in [artikel 4, onderdeel g, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bedraagt maximaal € 303,–.
 
 ##### Artikel 17
 
 1. Voor elk kalenderjaar bedraagt in geval van leefvervoer de financiële tegemoetkoming in de kosten van:
 
-- 1. het gebruik van een rolstoeltaxi als bedoeld in [artikel 4, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 X f 1,00 per kilometer, alsmede van een taxi als bedoeld in [artikel 4, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 X f 0,65 per kilometer;
+- 1. het gebruik van een rolstoeltaxi als bedoeld in [artikel 4, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 X f 1,00 per kilometer, alsmede van een taxi als bedoeld in [artikel 4, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 X f 0,65 per kilometer;
 
-- b. het gebruik van een taxi ingeval van slechtziendheid als bedoeld in [artikel 4, onderdeel a, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 5.000 X f 0,65 per kilometer;
+- b. het gebruik van een taxi ingeval van slechtziendheid als bedoeld in [artikel 4, onderdeel a, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 5.000 X f 0,65 per kilometer;
 
-- c. het vervoer door derden, bedoeld in [artikel 4, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 X f 0,65 per kilometer;
+- c. het vervoer door derden, bedoeld in [artikel 4, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 X f 0,65 per kilometer;
 
-- d. het gebruik van een eigen auto als bedoeld in [artikel 4, onderdeel e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 X f 0,65 per kilometer;
+- d. het gebruik van een eigen auto als bedoeld in [artikel 4, onderdeel e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 X f 0,65 per kilometer;
 
-- e. het gebruik van een standaard auto als bedoeld in [artikel 4, onderdeel e, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), of een duurdere auto dan de standaard auto, bedoeld in [artikel 4, onderdeel e, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 X f 0,49 per kilometer;
+- e. het gebruik van een standaard auto als bedoeld in [artikel 4, onderdeel e, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), of een duurdere auto dan de standaard auto, bedoeld in [artikel 4, onderdeel e, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 X f 0,49 per kilometer;
 
-- f. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel e, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), ten hoogste 10.000 kilometers X de kilometervergoeding die afgestemd is op het merk en type auto.
+- f. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel e, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), ten hoogste 10.000 kilometers X de kilometervergoeding die afgestemd is op het merk en type auto.
 
 2. Ingeval van woon-werkvervoer worden de in het eerste lid bedoelde financiële tegemoetkomingen in de kosten van het gebruik van bedoelde (rolstoel)taxi of auto toegekend tot maximaal 80 werkkilometers vice versa per werkdag.
 
 3. In afwijking van het eerste en tweede lid bedraagt voor elk kalenderjaar ingeval van een combinatie van het woon-werkvervoer en leefvervoer de financiële tegemoetkoming in de kosten van:
 
-- a. het vervoer door derden, bedoeld in [artikel 4, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), of het gebruik van een eigen auto als bedoeld in [artikel 4, onderdeel e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01):
+- a. het vervoer door derden, bedoeld in [artikel 4, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), of het gebruik van een eigen auto als bedoeld in [artikel 4, onderdeel e, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28):
 
 - tot 15.000 kilometers f 0,46 per kilometer;
 
@@ -431,7 +431,7 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 - bij meer dan 25.000 kilometers f 0,32 per kilometer;
 
-- b. het gebruik van een standaard auto als bedoeld in [artikel 4, onderdeel e, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), of een duurdere auto als bedoeld in [artikel 4, onderdeel e, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01):
+- b. het gebruik van een standaard auto als bedoeld in [artikel 4, onderdeel e, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), of een duurdere auto als bedoeld in [artikel 4, onderdeel e, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28):
 
 - tot 15.000 kilometers f 0,49 per kilometer;
 
@@ -445,37 +445,37 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 - bij meer dan 33.000 kilometers f 0,27 per kilometer;
 
-- c. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel e, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto.
+- c. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel e, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto.
 
 ##### Artikel 18
 
-1. De in artikel 7, onderdeel c, onder 1, bedoelde financiële tegemoetkoming in de kosten van een rolstoelgarderobe bedraagt maximaal € 2000,-.
+1. De in [artikel 7, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=7&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van een rolstoelgarderobe bedraagt maximaal € 2020,-.
 
-2. De in artikel 7, onderdeel c, onder 2, bedoelde financiële tegemoetkoming in de kosten van een sportrolstoel of een ander sporttoestel bedraagt maximaal € 2300,-.
+2. De in [artikel 7, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=7&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van een sportrolstoel of een ander sporttoestel bedraagt maximaal € 2323,-.
 
-3. De in artikel 7, onderdeel c, onder 3, bedoelde financiële tegemoetkoming in de kosten van het onderhoud en de reparatie van een sportrolstoel bedraagt voor een periode van drie jaar maximaal € 500,-.
+3. De in [artikel 7, onderdeel c, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=7&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van het onderhoud en de reparatie van een sportrolstoel bedraagt voor een periode van drie jaar maximaal € 505,-.
 
 ##### Artikel 19
 
-1. De berekening van de in [artikel 8, onderdeel b onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde financiële tegemoetkoming in de kosten van inrichting van de woning vindt plaats overeenkomstig het Verplaatsingskostenbesluit militairen.
+1. De berekening van de in [artikel 8, onderdeel b onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=8&z=2005-04-28&g=2005-04-28) bedoelde financiële tegemoetkoming in de kosten van inrichting van de woning vindt plaats overeenkomstig het Verplaatsingskostenbesluit militairen.
 
-2. De in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=8&z=2005-01-01&g=2005-01-01), bedoelde financiële tegemoetkoming in de kosten wordt slechts toegekend voorzover die het bedrag van f 500 te boven gaat.
+2. De in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=8&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten wordt slechts toegekend voorzover die het bedrag van f 500 te boven gaat.
 
 ##### Artikel 20
 
-1. Het in [artikel 9, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-01-01&g=2005-01-01), bedoeld uurloon wordt landelijk vastgesteld door het College voor zorgverzekeringen.
+1. Het in [artikel 9, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-04-28&g=2005-04-28), bedoeld uurloon wordt landelijk vastgesteld door het College voor zorgverzekeringen.
 
-2. De in [artikel 9, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-01-01&g=2005-01-01), bedoelde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddegoed wordt bepaald aan de hand van de orthobanda-lijst.
+2. De in [artikel 9, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddegoed wordt bepaald aan de hand van de orthobanda-lijst.
 
-3. De in [artikel 9, onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-01-01&g=2005-01-01), bedoelde financiële tegemoetkoming in de kosten van de vervanging van een garderobe wordt bepaald aan de hand van de door het Nationaal instituut voor budgetvoorlichting vastgestelde normen.
+3. De in [artikel 9, onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van de vervanging van een garderobe wordt bepaald aan de hand van de door het Nationaal instituut voor budgetvoorlichting vastgestelde normen.
 
-4. De in [artikel 9, onderdeel b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-01-01&g=2005-01-01), bedoelde financiële tegemoetkoming in de verwarmings- en elektriciteitskosten wordt slechts toegekend, voorzover die meer bedragen dan hetgeen, gegeven de situering en toestand van de woning van de betrokkene, gebruikelijk is.
+4. De in [artikel 9, onderdeel b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de verwarmings- en elektriciteitskosten wordt slechts toegekend, voorzover die meer bedragen dan hetgeen, gegeven de situering en toestand van de woning van de betrokkene, gebruikelijk is.
 
-5. De in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-01-01&g=2005-01-01), bedoelde financiële tegemoetkoming betreft het premiedeel dat vanwege de invaliditeit van de betrokkene boven het gebruikelijke tarief in rekening wordt gebracht, tenzij deze verhoging onredelijk is. De financiële tegemoetkoming bedraagt niet meer dan de extra premie.
+5. De in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming betreft het premiedeel dat vanwege de invaliditeit van de betrokkene boven het gebruikelijke tarief in rekening wordt gebracht, tenzij deze verhoging onredelijk is. De financiële tegemoetkoming bedraagt niet meer dan de extra premie.
 
 ##### Artikel 20a
 
-1. De in artikel 9a, eerste lid onderdeel a, bedoelde financiële tegemoetkoming bedraagt rekening houdend met de eigen bijdrage maximaal € 2000,- per jaar. De hoogte van de eigen bijdrage bedraagt:
+1. De in [artikel 9a, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt rekening houdend met de eigen bijdrage maximaal € 2020,- per jaar. De hoogte van de eigen bijdrage bedraagt:
 
 - a. bij een inkomen tot het bruto minimumloon 1% van het inkomen;
 
@@ -483,75 +483,75 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 - c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, 2% van het inkomen.
 
-Bij de vaststelling van het inkomen is het bepaalde in artikel 6, tweede en derde lid van overeenkomstige toepassing.
+Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-04-28&g=2005-04-28) van overeenkomstige toepassing.
 
-2. De in artikel 9a, eerste lid onderdeel b, bedoelde financiële tegemoetkoming bedraagt maximaal € 500,- per jaar.
+2. De in [artikel 9a, eerste lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt maximaal € 505,- per jaar.
 
-3. De in artikel 9a, tweede lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 500,- per jaar.
+3. De in [artikel 9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt maximaal € 505,- per jaar.
 
-4. De in artikel 9a, derde lid, onder a, bedoelde financiële tegemoetkoming bedraagt, rekening houdend met een eigen bijdrage van € 365,– maximaal € 500,–. De in artikel 9a, derde lid, onder b, bedoelde financiële tegemoetkoming bedraagt maximaal € 200,– per jaar.
+4. De in [artikel 9a, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt, rekening houdende met een eigen bijdrage van € 368,65 maximaal € 505,–. De in [artikel 9a, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt maximaal € 202,– per jaar.
 
-5. De in artikel 9a, vierde lid onder b, bedoelde financiële tegemoetkomingen bedragen maximaal € 150,– per vijf jaar, respectievelijk maximaal € 40,– per jaar.
+5. De in [artikel 9a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkomingen bedragen maximaal € 151,50 per vijf jaar, respectievelijk maximaal € 40,40 per jaar.
 
-6. De in artikel 9a, vijfde lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 450,– per middel dan wel behandeling per jaar.
+6. De in [artikel 9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt maximaal € 454,50 per middel dan wel behandeling per jaar.
 
 ##### Artikel 20b
 
-1. De in artikel 10a, onderdeel b, onder 1, bedoelde financiële tegemoetkoming in de kosten van een hoortoestel bestaat ten hoogste uit de aanschaffingskosten van het hoortoestel minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds, minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.4. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).
+1. De in [artikel 10a, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van een hoortoestel bestaat ten hoogste uit de aanschaffingskosten van het hoortoestel minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds, minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.4. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).
 
-2. De in artikel 10a, onderdeel b, onder 2, bedoelde financiële tegemoetkoming in de kosten van een prothese bestaat ten hoogste uit de aanschaffingskosten van de prothese minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.1. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).
+2. De in [artikel 10a, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de kosten van een prothese bestaat ten hoogste uit de aanschaffingskosten van de prothese minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.1. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).
 
-3. De in artikel 10a, onderdeel b, onder 3 tot en met 8, bedoelde financiële tegemoetkomingen bestaan ten hoogste uit de aanschafkosten van de onder die punten vermelde verstrekkingen minus de eventuele vergoeding van de ziektekostenverzekeraar dan wel het ziekenfonds minus de eventuele aanvullende vergoeding ingevolge de Regeling ziektekostenverzekering militairen en bedragen ten hoogste voor:
+3. De in het [artikel 10a, onderdeel b, onder 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkomingen bestaan ten hoogste uit de aanschafkosten van de onder die punten vermelde verstrekkingen minus de eventuele vergoeding van de ziektekostenverzekeraar dan wel het ziekenfonds minus de eventuele aanvullende vergoeding ingevolge de Regeling ziektekostenverzekering militairen en bedragen ten hoogste voor:
 
-- –. een sta-op-stoel € 2500.–;
+- –. een sta-op-stoel € 2525,–;
 
-- –. een sta-stoel € 1000,–;
+- –. een sta-stoel € 1010,–;
 
-- –. een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1500,–;
+- –. een bureaustoel i.v.m. thuis te verrichten werkzaamheden € 1515,–;
 
-- –. twee éénpersoonsbedden inclusief de eerste aankleding € 2000,–;
+- –. twee eenpersoonsbedden inclusief de eerste aankleding € 2020,–;
 
-- –. een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2000,–;
+- –. een speciaal bed inclusief de eerste aankleding en of bodem en of matras € 2020,–;
 
-- –. een douche-toiletstoel € 3000,–;
+- –. een douche/toiletstoel € 3030,–;
 
-- –. psychologische hulp € 2000,– per jaar;
+- –. psychologische hulp € 2020,– per jaar;
 
-- –. gezinsbegeleiding € 2000,– per jaar;
+- –. gezinsbegeleiding € 2020,– per jaar;
 
-- –. zelfverzorgingsproducten voor brandwonden € 1000,– per jaar.
+- –. zelfverzorgingsproducten voor brandwonden € 1010,– per jaar.
 
-4. De in artikel 10a, onder c, bedoelde financiële tegemoetkoming bedraagt maximaal € 450,– per middel dan wel behandeling per jaar.
+4. De in [artikel 10a, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming bedraagt maximaal € 454,50 per middel dan wel behandeling per jaar.
 
-5. De in artikel 10a, onderdeel c, bedoelde financiële tegemoetkoming in de extra kosten van de premie van een ziektekostenverzekering bestaat ten hoogste uit het verschil tussen de verschuldigde hogere premie en de gemiddelde premie voor particuliere ziektekostenverze-keringen die als uitgangspunt wordt genomen voor de toepassing van het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.
+5. De in [artikel 10a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële tegemoetkoming in de extra kosten van de premie van een ziektekostenverzekering bestaat ten hoogste uit het verschil tussen de verschuldigde hogere premie en de gemiddelde premie voor particuliere ziektekostenverze-keringen die als uitgangspunt wordt genomen voor de toepassing van het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
 ##### Artikel 21
 
-1. Indien een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-01-01&g=2005-01-01) voor de datum van de inwerkingtreding van deze regeling in het kader van de uitvoering van artikel X 5, tweede lid, van de Algemene militaire pensioenwet is verstrekt op basis van de regels zoals die tot 1 januari 1997 golden wordt deze voorziening na 1 januari 1997 gedurende de nog resterende looptijd voortgezet met toepassing van de regels, zoals die daarvoor golden, behoudens het bepaalde in het tweede lid.
+1. Indien een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-04-28&g=2005-04-28) voor de datum van de inwerkingtreding van deze regeling in het kader van de uitvoering van artikel X 5, tweede lid, van de Algemene militaire pensioenwet is verstrekt op basis van de regels zoals die tot 1 januari 1997 golden wordt deze voorziening na 1 januari 1997 gedurende de nog resterende looptijd voortgezet met toepassing van de regels, zoals die daarvoor golden, behoudens het bepaalde in het tweede lid.
 
 2. Vanaf de datum van de inwerkingtreding van deze regeling heeft de betrokkene recht op:
 
-- a. een leefvoorziening als bedoeld in [artikel 4, onderdeel a tot en met c en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-01-01&g=2005-01-01), met toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-01-01&g=2005-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=17&z=2005-01-01&g=2005-01-01);
+- a. een leefvoorziening als bedoeld in [artikel 4, onderdeel a tot en met c en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2005-04-28&g=2005-04-28), met toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-04-28&g=2005-04-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-04-28&g=2005-04-28) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=17&z=2005-04-28&g=2005-04-28);
 
-- b. een werkvoorziening, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4&artikel=10&z=2005-01-01&g=2005-01-01), zonder toepassing van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-01-01&g=2005-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-01-01&g=2005-01-01).
+- b. een werkvoorziening, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4&artikel=10&z=2005-04-28&g=2005-04-28), zonder toepassing van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=5&z=2005-04-28&g=2005-04-28), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-04-28&g=2005-04-28).
 
 3. Ambtshalve wordt zo spoedig mogelijk een beslissing genomen, waarin de voorziening als bedoeld in het tweede lid wordt vastgelegd.
 
 ##### Artikel 22
 
-De vóór 1 januari 1997 ingediende aanvragen voor een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-01-01&g=2005-01-01) worden afgehandeld op basis van de regels zoals die vóór de datum van de inwerkingtreding van deze regeling luidden, met dien verstande dat de voorziening vanaf 1 januari 1997 wordt toegekend met toepassing van de bepalingen van deze regeling.
+De vóór 1 januari 1997 ingediende aanvragen voor een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2005-04-28&g=2005-04-28) worden afgehandeld op basis van de regels zoals die vóór de datum van de inwerkingtreding van deze regeling luidden, met dien verstande dat de voorziening vanaf 1 januari 1997 wordt toegekend met toepassing van de bepalingen van deze regeling.
 
 ##### Artikel 22a
 
-1. De betrokkene heeft vanaf 1 januari 1995 tot en met 31 december 1996 aanspraak op een voorziening als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-01-01&g=2005-01-01) met overeenkomstige toepassing van de bepalingen van deze regeling.
+1. De betrokkene heeft vanaf 1 januari 1995 tot en met 31 december 1996 aanspraak op een voorziening als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28) met overeenkomstige toepassing van de bepalingen van deze regeling.
 
-2. Aan de in het eerste lid bedoelde betrokkene, aan wie voor 1 januari 1995 een volledige vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen is verstrekt, wordt voor de periode genoemd in het eerste lid alsmede vanaf 1 januari 1997 de in [artikel 10a, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-01-01&g=2005-01-01), bedoelde financiële vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen toegekend, ook al is er geen sprake van extra slijtage.
+2. Aan de in het eerste lid bedoelde betrokkene, aan wie voor 1 januari 1995 een volledige vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen is verstrekt, wordt voor de periode genoemd in het eerste lid alsmede vanaf 1 januari 1997 de in [artikel 10a, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2005-04-28&g=2005-04-28), bedoelde financiële vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen toegekend, ook al is er geen sprake van extra slijtage.
 
 ##### Artikel 22b
 
-In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-01-01&g=2005-01-01), wordt de voorziening die met toepassing van het [Besluit inkomensgrens vervoersvoorzieningen buitenshuis/AAW](onbekend) voor 1 juli 1998 is verstrekt, na 1 juli 1998 gedurende de resterende looptijd van de voorziening ongewijzigd voortgezet.
+In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2005-04-28&g=2005-04-28), wordt de voorziening die met toepassing van het [Besluit inkomensgrens vervoersvoorzieningen buitenshuis/AAW](onbekend) voor 1 juli 1998 is verstrekt, na 1 juli 1998 gedurende de resterende looptijd van de voorziening ongewijzigd voortgezet.
 
 ##### Artikel 23
 
@@ -565,10 +565,10 @@ Deze regeling wordt aangehaald als: Voorzieningenregeling voor militaire oorlogs
 
 ##### Artikel 22c
 
-De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2005-01-01&g=2005-01-01), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
+De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2005-04-28&g=2005-04-28), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
 
 ##### Artikel 20c
 
-De in de artikelen 18, 20, tweede lid, 20a en 20b genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer.
+De in [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=16&z=2005-04-28&g=2005-04-28), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=18&z=2005-04-28&g=2005-04-28), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2005-04-28&g=2005-04-28), [20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20a&z=2005-04-28&g=2005-04-28) en [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2005-04-28&g=2005-04-28) genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
