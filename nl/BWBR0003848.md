@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2004-08-01"
+last_updated: "2005-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -90,7 +90,7 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2003-08-01&g=2004-08-01) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2005-04-29&g=2005-04-29) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap, met dien verstande dat een van de handicaps de handicap is op grond waarvan zij tot de school waaraan de afdeling is verbonden, kunnen worden toegelaten.
 
@@ -244,39 +244,7 @@ Vervallen
 
 ##### Artikel 22. Bewijzen van bekwaamheid
 
-De bewijzen van bekwaamheid die bevoegdheid verlenen tot het geven van onderwijs in een allochtone levende taal als bedoeld in artikel 158, eerste lid, van de wet zijn:
-
-- a. het diploma van de applicatiecursus volledig bevoegd onderwijzer voor buitenlandse onderwijsgevenden;
-
-- b. het diploma van de applicatiecursus eigen taal en cultuur te zamen met
-
-- 1°. een verklaring van het Instituut voor Toetsontwikkeling dat de toets Nederlands als tweede taal voor OETC-leraren met goed gevolg is afgelegd,
-
-- 2°. een diploma van het staatsexamen Nederlands als tweede taal volgens programma II,
-
-- 3°. een verklaring van het Instituut voor Toetsontwikkeling dat een, twee of drie onderdelen van de toets Nederlands als tweede taal voor OETC-leraren met goed gevolg is onderscheidenlijk zijn afgelegd alsmede de met de overige onderdelen van die toets overeenkomende certificaten van het staatsexamen Nederlands als tweede taal volgens programma II,
-
-- 4°. een certificaat Nederlands als vreemde taal van de Nederlandse Taalunie waarbij de examens op het hoogste niveau zijn afgelegd,
-
-- 5°. een diploma, een certificaat Nederlandse taal en letterkunde of een certificaat Nederlandse taal van het voorbereidend wetenschappelijk onderwijs, het hoger algemeen voortgezet onderwijs of een opleiding van het middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs,
-
-- 6°. één van de bewijzen van bekwaamheid, genoemd in [artikel 171, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=171), dan wel een bevoegdheid op grond van [artikel 171, tweede lid eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=171),
-
-- 7°. een met een onder 5° of 6° bedoeld diploma vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België,
-
-- 8°. een getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd afsluitend examen in de vierjarige deeltijdse studierichting leraar voortgezet onderwijs van de tweede graad in Arabisch, of
-
-- 9°. een getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd afsluitend examen in de vierjarige deeltijdse studierichting leraar voortgezet onderwijs van de tweede graad in Turks;
-
-- c. het getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd afsluitend examen in de studierichting die voorbereidt op het beroep van leraar in één der allochtone levende talen in het primair onderwijs;
-
-- d. het getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd afsluitend examen in de studierichting die voorbereidt op het beroep van leraar basisonderwijs, tezamen met een verklaring dat de leerroute onderwijs in allochtone levende talen met gunstig resultaat is voltooid;
-
-- e. het getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd examen in de vierjarige deeltijdse studierichting leraar voortgezet onderwijs van de tweede graad in Turks, of in Arabisch, tezamen met een verklaring dat de leerroute onderwijs in allochtone levende talen met gunstig resultaat is voltooid;
-
-- f. het diploma van de pedagogisch-didactische cursus onderwijs in een allochtone levende taal.
-
-De bevoegdheid bedoeld in de eerste volzin betreft het geven van onderwijs in de taal van het land van oorsprong van de bezitter van het diploma of van diens ouders.
+Vervallen
 
 ## Titel VIII. Slotbepalingen
 
