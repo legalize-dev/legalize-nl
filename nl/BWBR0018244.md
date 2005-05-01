@@ -116,17 +116,3 @@ Deze regeling wordt aangehaald als: Regeling geluidscertificaten en geluidsverkl
 ## Bijlage
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.24) en [artikel 16 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=16).
-
-#### Paragraaf 2. Afgifte van een geluidscertificaat of geluidsverklaring
-
-#### Paragraaf 3. Wijziging, overdracht, schorsing, intrekking en vernieuwing van het geluidscertificaat en geluidsverklaring
-
-#### Paragraaf 4. Slotbepalingen
-
-## Bijlage
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
