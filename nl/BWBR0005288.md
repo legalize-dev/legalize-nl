@@ -4,7 +4,7 @@ identifier: "BWBR0005288"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2004-07-01"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005288"
 soort: "wet"
@@ -79,9 +79,9 @@ Hij die een aan niemand toebehorende roerende zaak in bezit neemt, verkrijgt daa
 
 ##### Artikel 6
 
-1. De vinder die aan de hem in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) gestelde eisen heeft voldaan, verkrijgt de eigendom van de zaak één jaar na de in [artikel 5 lid 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) bedoelde aangifte of mededeling, mits de zaak zich op dat tijdstip nog bevindt in de macht van de vinder of van de gemeente.
+1. De vinder die aan de hem in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) gestelde eisen heeft voldaan, verkrijgt de eigendom van de zaak één jaar na de in [artikel 5 lid 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) bedoelde aangifte of mededeling, mits de zaak zich op dat tijdstip nog bevindt in de macht van de vinder of van de gemeente.
 
-2. Is de zaak anders dan op haar vordering aan de gemeente in bewaring gegeven en valt zij onder de niet-kostbare zaken, aangewezen bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 12 onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=12&z=2004-07-01&g=2004-07-01), dan is lid 1 niet van toepassing en is de burgemeester drie maanden na de inbewaringgeving bevoegd de zaak voor rekening van de gemeente te verkopen of haar om niet aan een derde over te dragen of te vernietigen.
+2. Is de zaak anders dan op haar vordering aan de gemeente in bewaring gegeven en valt zij onder de niet-kostbare zaken, aangewezen bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 12 onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=12&z=2005-05-01&g=2005-05-01), dan is lid 1 niet van toepassing en is de burgemeester drie maanden na de inbewaringgeving bevoegd de zaak voor rekening van de gemeente te verkopen of haar om niet aan een derde over te dragen of te vernietigen.
 
 3. Is de zaak in bewaring gegeven aan de gemeente en is noch lid 1, noch lid 2 van toepassing, dan is de burgemeester één jaar na de inbewaringgeving bevoegd de zaak voor rekening van de gemeente te verkopen of haar om niet aan een derde over te dragen of te vernietigen.
 
@@ -107,23 +107,23 @@ Bestaat de aan de gemeente in bewaring gegeven zaak in geld, dan is de gemeente 
 
 ##### Artikel 10
 
-1. Hij die de zaak opeist van de gemeente of van de vinder die aan de hem in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) gestelde eisen heeft voldaan, is verplicht de kosten van bewaring en onderhoud en tot opsporing van de eigenaar of een andere tot ontvangst bevoegde te vergoeden. De gemeente of de vinder is bevoegd de afgifte op te schorten totdat deze verplichting is nagekomen. Indien degene die de zaak opeist, de verschuldigde kosten niet binnen een maand nadat ze hem zijn opgegeven, heeft voldaan, wordt hij geacht zijn recht op de zaak te hebben prijsgegeven.
+1. Hij die de zaak opeist van de gemeente of van de vinder die aan de hem in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) gestelde eisen heeft voldaan, is verplicht de kosten van bewaring en onderhoud en tot opsporing van de eigenaar of een andere tot ontvangst bevoegde te vergoeden. De gemeente of de vinder is bevoegd de afgifte op te schorten totdat deze verplichting is nagekomen. Indien degene die de zaak opeist, de verschuldigde kosten niet binnen een maand nadat ze hem zijn opgegeven, heeft voldaan, wordt hij geacht zijn recht op de zaak te hebben prijsgegeven.
 
 2. De vinder die aan de op hem rustende verplichtingen heeft voldaan, heeft naar omstandigheden recht op een redelijke beloning.
 
 ##### Artikel 11
 
-Indien een vinder die op grond van [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=6&z=2004-07-01&g=2004-07-01) eigenaar is geworden van een aan de gemeente in bewaring gegeven zaak, zich niet binnen één maand na zijn verkrijging bij de gemeente heeft aangemeld om de zaak in ontvangst te nemen, is de burgemeester bevoegd de zaak voor rekening van de gemeente te verkopen, om niet aan een derde over te dragen of te vernietigen.
+Indien een vinder die op grond van [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=6&z=2005-05-01&g=2005-05-01) eigenaar is geworden van een aan de gemeente in bewaring gegeven zaak, zich niet binnen één maand na zijn verkrijging bij de gemeente heeft aangemeld om de zaak in ontvangst te nemen, is de burgemeester bevoegd de zaak voor rekening van de gemeente te verkopen, om niet aan een derde over te dragen of te vernietigen.
 
 ##### Artikel 12
 
 Bij of krachtens algemene maatregel van bestuur kunnen:
 
-- a. nadere regels worden gesteld omtrent de uitoefening van de uit de [artikelen 5-11](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) voor de gemeenten voortvloeiende bevoegdheden;
+- a. nadere regels worden gesteld omtrent de uitoefening van de uit de [artikelen 5-11](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) voor de gemeenten voortvloeiende bevoegdheden;
 
-- b. groepen van niet-kostbare zaken worden aangewezen, waarvoor [artikel 6 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=6&z=2004-07-01&g=2004-07-01) geldt;
+- b. groepen van niet-kostbare zaken worden aangewezen, waarvoor [artikel 6 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=6&z=2005-05-01&g=2005-05-01) geldt;
 
-- c. nadere regels worden gesteld omtrent de aanwijzing van bepaalde soorten personen en instellingen, waarbij deze, geheel of gedeeltelijk en al dan niet onder nadere voorwaarden, worden vrijgesteld van de aangifteplicht van [artikel 5 lid 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) of voor de afwikkeling van vondsten worden gelijkgesteld met een gemeente;
+- c. nadere regels worden gesteld omtrent de aanwijzing van bepaalde soorten personen en instellingen, waarbij deze, geheel of gedeeltelijk en al dan niet onder nadere voorwaarden, worden vrijgesteld van de aangifteplicht van [artikel 5 lid 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) of voor de afwikkeling van vondsten worden gelijkgesteld met een gemeente;
 
 - d. voor de afwikkeling van vondsten door personen of instellingen als bedoeld onder **c** groepen van niet afgehaalde zaken met gevonden zaken worden gelijkgesteld.
 
@@ -133,7 +133,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen:
 
 2. Een schat is een zaak van waarde, die zolang verborgen is geweest dat daardoor de eigenaar niet meer kan worden opgespoord.
 
-3. De ontdekker is verplicht van zijn vondst aangifte te doen overeenkomstig [artikel 5 lid 1 onder **a.**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) Indien geen aangifte is gedaan of onzeker is aan wie de zaak toekomt, kan de gemeente overeenkomstig [artikel 5 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2004-07-01&g=2004-07-01) vorderen dat deze aan haar in bewaring wordt gegeven, totdat vaststaat wie rechthebbende is.
+3. De ontdekker is verplicht van zijn vondst aangifte te doen overeenkomstig [artikel 5 lid 1 onder **a.**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) Indien geen aangifte is gedaan of onzeker is aan wie de zaak toekomt, kan de gemeente overeenkomstig [artikel 5 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=5&z=2005-05-01&g=2005-05-01) vorderen dat deze aan haar in bewaring wordt gegeven, totdat vaststaat wie rechthebbende is.
 
 ##### Artikel 14
 
@@ -239,7 +239,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 
 ##### Artikel 30
 
-1. Een verplaatsing van de oeverlijn wijzigt de grens niet meer, nadat deze is vastgelegd, hetzij door de eigenaars van land en water overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=31&z=2004-07-01&g=2004-07-01), hetzij door de rechter op vordering van een hunner tegen de ander overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=32&z=2004-07-01&g=2004-07-01). De vastlegging geldt jegens een ieder.
+1. Een verplaatsing van de oeverlijn wijzigt de grens niet meer, nadat deze is vastgelegd, hetzij door de eigenaars van land en water overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=31&z=2005-05-01&g=2005-05-01), hetzij door de rechter op vordering van een hunner tegen de ander overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=32&z=2005-05-01&g=2005-05-01). De vastlegging geldt jegens een ieder.
 
 2. Indien bij de vastlegging in plaats van de werkelijke eigenaar van een erf iemand die als zodanig in de openbare registers was ingeschreven, partij is geweest, is niettemin het vorige lid van toepassing, tenzij de werkelijke eigenaar tegen inschrijving van de akte of het vonnis verzet heeft gedaan voordat zij is geschied.
 
@@ -271,7 +271,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 
 3. Het vorige lid is van overeenkomstige toepassing ten behoeve van hem die het water voor enig doel mag gebruiken en daartoe een erfdienstbaarheid op het aan het water liggende erf heeft.
 
-4. In geval van grensvastlegging overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=32&z=2004-07-01&g=2004-07-01) zijn de vorige leden reeds van toepassing, wanneer de oeverlijn zich na de inschrijving van de vordering verplaatst.
+4. In geval van grensvastlegging overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=32&z=2005-05-01&g=2005-05-01) zijn de vorige leden reeds van toepassing, wanneer de oeverlijn zich na de inschrijving van de vordering verplaatst.
 
 ##### Artikel 34
 
@@ -283,7 +283,7 @@ De oeverlijn in de zin van de vorige vijf artikelen wordt bepaald door de normal
 
 2. Daarentegen verliest deze eigenaar de grond welke door afneming van het duin deel van het strand wordt.
 
-3. Uitbreiding of afneming van een duin als bedoeld in de leden 1 en 2 brengt geen wijziging meer in de eigendom nadat de grens is vastgesteld, hetzij door de eigenaars van strand en duin, hetzij door de rechter op vordering van een hunner tegen de ander. De[artikelen 30-32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=30&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing.
+3. Uitbreiding of afneming van een duin als bedoeld in de leden 1 en 2 brengt geen wijziging meer in de eigendom nadat de grens is vastgesteld, hetzij door de eigenaars van strand en duin, hetzij door de rechter op vordering van een hunner tegen de ander. De[artikelen 30-32](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=30&z=2005-05-01&g=2005-05-01) zijn van overeenkomstige toepassing.
 
 4. Buiten het geval van de leden 1 en 2 brengt uitbreiding of afneming van een duin geen wijziging in de eigendom.
 
@@ -313,7 +313,7 @@ De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artike
 
 ##### Artikel 41
 
-Van de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=38&z=2004-07-01&g=2004-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=39&z=2004-07-01&g=2004-07-01) en [40 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=40&z=2004-07-01&g=2004-07-01) kan bij verordening worden afgeweken.
+Van de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=38&z=2005-05-01&g=2005-05-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=39&z=2005-05-01&g=2005-05-01) en [40 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=4&artikel=40&z=2005-05-01&g=2005-05-01) kan bij verordening worden afgeweken.
 
 ##### Artikel 42
 
@@ -487,7 +487,7 @@ Iedere mede-eigenaar mag op de mandelige scheidsmuur tot op de helft der dikte e
 
 ##### Artikel 69
 
-De [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=64&z=2004-07-01&g=2004-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=65&z=2004-07-01&g=2004-07-01), [66 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=66&z=2004-07-01&g=2004-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=67&z=2004-07-01&g=2004-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=68&z=2004-07-01&g=2004-07-01) vinden geen toepassing voorzover een overeenkomstig [artikel 168 van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=168) getroffen regeling anders bepaalt.
+De [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=64&z=2005-05-01&g=2005-05-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=65&z=2005-05-01&g=2005-05-01), [66 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=66&z=2005-05-01&g=2005-05-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=67&z=2005-05-01&g=2005-05-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=5&artikel=68&z=2005-05-01&g=2005-05-01) vinden geen toepassing voorzover een overeenkomstig [artikel 168 van boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=168) getroffen regeling anders bepaalt.
 
 ## Titel 6. Erfdienstbaarheden
 
@@ -565,9 +565,9 @@ De rechter kan op vordering van de eigenaar van het heersende erf de inhoud van 
 
 ##### Artikel 81
 
-1. De rechter kan een vordering als bedoeld in de [artikelen 78-80](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=78&z=2004-07-01&g=2004-07-01) toewijzen onder door hem te stellen voorwaarden.
+1. De rechter kan een vordering als bedoeld in de [artikelen 78-80](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=78&z=2005-05-01&g=2005-05-01) toewijzen onder door hem te stellen voorwaarden.
 
-2. Rust op een der erven beperkt recht, dan is de vordering slechts toewijsbaar, indien de beperkt gerechtigde in het geding is geroepen. Bij het oordeel of aan de maatstaven van de [artikelen 78 onder **a**.](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=78&z=2004-07-01&g=2004-07-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=79&z=2004-07-01&g=2004-07-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=80&z=2004-07-01&g=2004-07-01) is voldaan, dient mede met zijn belangen rekening te worden gehouden.
+2. Rust op een der erven beperkt recht, dan is de vordering slechts toewijsbaar, indien de beperkt gerechtigde in het geding is geroepen. Bij het oordeel of aan de maatstaven van de [artikelen 78 onder **a**.](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=78&z=2005-05-01&g=2005-05-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=79&z=2005-05-01&g=2005-05-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=80&z=2005-05-01&g=2005-05-01) is voldaan, dient mede met zijn belangen rekening te worden gehouden.
 
 ##### Artikel 82
 
@@ -583,7 +583,7 @@ Indien op het tijdstip waarop het heersende en het dienende erf één eigenaar v
 
 1. Hij die een recht van erfpacht, opstal of vruchtgebruik op een onroerende zaak heeft, kan een erfdienstbaarheid ten behoeve van deze zaak bedingen. Hij kan haar ook met een erfdienstbaarheid belasten.
 
-2. Erfdienstbaarheden, bedongen door een beperkt gerechtigde ten behoeve van de zaak waarop zijn recht rust of door een opstaller ten behoeve van de opstal, gaan bij het einde van het beperkte recht slechts teniet, indien dit in de akte van vestiging van de erfdienstbaarheid is bepaald. Blijft de erfdienstbaarheid voortbestaan, dan staat een beding als bedoeld in [artikel 82 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=82&z=2004-07-01&g=2004-07-01) niet langer aan afstand van de erfdienstbaarheid in de weg.
+2. Erfdienstbaarheden, bedongen door een beperkt gerechtigde ten behoeve van de zaak waarop zijn recht rust of door een opstaller ten behoeve van de opstal, gaan bij het einde van het beperkte recht slechts teniet, indien dit in de akte van vestiging van de erfdienstbaarheid is bepaald. Blijft de erfdienstbaarheid voortbestaan, dan staat een beding als bedoeld in [artikel 82 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=6&artikel=82&z=2005-05-01&g=2005-05-01) niet langer aan afstand van de erfdienstbaarheid in de weg.
 
 3. Erfdienstbaarheden, gevestigd door een beperkt gerechtigde ten laste van de zaak waarop zijn recht rust of door een opstaller ten laste van de opstal, gaan teniet bij het einde van het beperkte recht, tenzij dit eindigt door vermenging of afstand of de eigenaar van de zaak waarop het beperkte recht rustte bij een in de openbare registers ingeschreven akte heeft verklaard met de vestiging van de erfdienstbaarheid in te stemmen.
 
@@ -611,9 +611,9 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 ##### Artikel 88
 
-1. Iedere opzegging geschiedt bij exploit. Zij geschiedt tenminste een jaar voor het tijdstip waartegen wordt opgezegd, doch in het geval van [artikel 87 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2004-07-01&g=2004-07-01) tenminste een maand voor dat tijdstip.
+1. Iedere opzegging geschiedt bij exploit. Zij geschiedt tenminste een jaar voor het tijdstip waartegen wordt opgezegd, doch in het geval van [artikel 87 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2005-05-01&g=2005-05-01) tenminste een maand voor dat tijdstip.
 
-2. In het geval van [artikel 87 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2004-07-01&g=2004-07-01) weigert de bewaarder de inschrijving van de opzegging als niet tevens wordt overgelegd de betekening daarvan aan degenen die in de openbare registers als beperkt gerechtigde of beslaglegger op de erfpacht stonden ingeschreven.
+2. In het geval van [artikel 87 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2005-05-01&g=2005-05-01) weigert de bewaarder de inschrijving van de opzegging als niet tevens wordt overgelegd de betekening daarvan aan degenen die in de openbare registers als beperkt gerechtigde of beslaglegger op de erfpacht stonden ingeschreven.
 
 ##### Artikel 89
 
@@ -687,7 +687,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 ##### Artikel 98
 
-1. Wanneer de tijd waarvoor de erfpacht is gevestigd, is verstreken en de erfpachter de zaak niet op dat tijdstip heeft ontruimd, blijft de erfpacht doorlopen, tenzij de eigenaar uiterlijk zes maanden na dat tijdstip doet blijken dat hij haar als geëindigd beschouwt. De eigenaar en de erfpachter kunnen de verlengde erfpacht opzeggen op de wijze en met inachtneming van de termijn vermeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2004-07-01&g=2004-07-01).
+1. Wanneer de tijd waarvoor de erfpacht is gevestigd, is verstreken en de erfpachter de zaak niet op dat tijdstip heeft ontruimd, blijft de erfpacht doorlopen, tenzij de eigenaar uiterlijk zes maanden na dat tijdstip doet blijken dat hij haar als geëindigd beschouwt. De eigenaar en de erfpachter kunnen de verlengde erfpacht opzeggen op de wijze en met inachtneming van de termijn vermeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2005-05-01&g=2005-05-01).
 
 2. Ieder beding dat ten nadele van de erfpachter van dit artikel afwijkt, is nietig.
 
@@ -735,9 +735,9 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 ##### Artikel 104
 
-1. De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=92&z=2004-07-01&g=2004-07-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=95&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing op het recht van opstal.
+1. De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=92&z=2005-05-01&g=2005-05-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=95&z=2005-05-01&g=2005-05-01) zijn van overeenkomstige toepassing op het recht van opstal.
 
-2. De [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=86&z=2004-07-01&g=2004-07-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2004-07-01&g=2004-07-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2004-07-01&g=2004-07-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=91&z=2004-07-01&g=2004-07-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=93&z=2004-07-01&g=2004-07-01), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=94&z=2004-07-01&g=2004-07-01), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=97&z=2004-07-01&g=2004-07-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=98&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing op een zelfstandig recht van opstal.
+2. De [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=86&z=2005-05-01&g=2005-05-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2005-05-01&g=2005-05-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2005-05-01&g=2005-05-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=91&z=2005-05-01&g=2005-05-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=93&z=2005-05-01&g=2005-05-01), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=94&z=2005-05-01&g=2005-05-01), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=97&z=2005-05-01&g=2005-05-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=98&z=2005-05-01&g=2005-05-01) zijn van overeenkomstige toepassing op een zelfstandig recht van opstal.
 
 ##### Artikel 105
 
@@ -745,7 +745,7 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 2. Voor zover niet in de akte van vestiging anders is bepaald, heeft de opstaller bij het einde van zijn recht de bevoegdheid gebouwen, werken en beplantingen die door hemzelf of een rechtsvoorganger onverplicht zijn aangebracht dan wel van de eigenaar tegen vergoeding der waarde zijn overgenomen weg te nemen, mits hij de onroerende zaak waarop het recht rustte in de oude toestand terugbrengt.
 
-3. De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=99&z=2004-07-01&g=2004-07-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=100&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing, met dien verstande dat het aan de opstaller toekomende retentierecht slechts de gebouwen, werken en beplantingen omvat.
+3. De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=99&z=2005-05-01&g=2005-05-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=100&z=2005-05-01&g=2005-05-01) zijn van overeenkomstige toepassing, met dien verstande dat het aan de opstaller toekomende retentierecht slechts de gebouwen, werken en beplantingen omvat.
 
 ## Titel 9. Appartementsrechten
 
@@ -755,15 +755,17 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 1. Een eigenaar, erfpachter of opstaller is bevoegd zijn recht op een gebouw met toebehoren en op de daarbij behorende grond met toebehoren te splitsen in appartementsrechten.
 
-2. Een appartementsrecht is op zijn beurt voor splitsing in appartementsrechten vatbaar. Een appartementseigenaar is hiertoe bevoegd, voor zover in de akte van splitsing niet anders is bepaald.
+2. Een eigenaar, erfpachter of opstaller is eveneens bevoegd zijn recht op een stuk grond te splitsen in appartementsrechten.
 
-3. Onder appartementsrecht wordt verstaan een aandeel in de goederen die in de splitsing zijn betrokken, dat de bevoegdheid omvat tot het uitsluitend gebruik van bepaalde gedeelten van het gebouw die blijkens hun inrichting bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt. Het aandeel kan mede omvatten de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van de bij het gebouw behorende grond.
+3. Een appartementsrecht is op zijn beurt voor splitsing in appartementsrechten vatbaar. Een appartementseigenaar is tot deze ondersplitsing bevoegd, voor zover in de akte van splitsing niet anders is bepaald.
 
-4. Onder appartementseigenaar wordt verstaan de gerechtigde tot een appartementsrecht.
+4. Onder appartementsrecht wordt verstaan een aandeel in de goederen die in de splitsing zijn betrokken, dat de bevoegdheid omvat tot het uitsluitend gebruik van bepaalde gedeelten van het gebouw die blijkens hun inrichting bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt. Het aandeel kan mede omvatten de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van de bij het gebouw behorende grond. In het geval van lid 2 omvat het aandeel de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van het stuk grond, die blijkens hun inrichting of aanduiding bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt.
 
-5. Onder gebouw wordt in deze titel mede verstaan een groep van gebouwen die in één splitsing zijn betrokken.
+5. Onder appartementseigenaar wordt verstaan de gerechtigde tot een appartementsrecht.
 
-6. Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
+6. Onder gebouw wordt in deze titel mede verstaan een groep van gebouwen die in één splitsing zijn betrokken.
+
+7. Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 ##### Artikel 107
 
@@ -771,9 +773,9 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 
 ##### Artikel 108
 
-1. De appartementseigenaars zijn jegens elkander verplicht de bouw en de inrichting van het gebouw en de daarbij behorende grond tot stand te brengen en in stand te houden in overeenstemming met het daaromtrent in de akte van splitsing bepaalde.
+1. De appartementseigenaars zijn jegens elkander verplicht de bouw, de inrichting van het gebouw of de inrichting of aanduiding van de grond tot stand te brengen en in stand te houden in overeenstemming met het daaromtrent in de akte van splitsing bepaalde.
 
-2. De rechter kan de uitspraak op een vordering, gegrond op het vorige lid, aanhouden wanneer een op [artikel 144 lid 1 onder **c, d** of **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=144&z=2004-07-01&g=2004-07-01) gegrond verzoek aanhangig is.
+2. De rechter kan de uitspraak op een vordering, gegrond op het vorige lid, aanhouden wanneer een op [artikel 144 lid 1 onder **c, d** of **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=144&z=2005-05-01&g=2005-05-01) gegrond verzoek aanhangig is.
 
 ##### Artikel 109
 
@@ -793,9 +795,9 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 
 De akte van splitsing moet inhouden:
 
-- a. de vermelding van de plaatselijke ligging van het gebouw;
+- a. de vermelding van de plaatselijke ligging van het gebouw of de grond;
 
-- b. een nauwkeurige omschrijving van de gedeelten van de onroerende zaken die bestemd zijn om als afzonderlijk geheel te worden gebruikt, welke omschrijving kan plaatsvinden door verwijzing naar de in [artikel 109 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=109&z=2004-07-01&g=2004-07-01) bedoelde tekening, alsmede de vermelding voor elk dier gedeelten, tot welk appartementsrecht de bevoegdheid tot gebruik daarvan behoort;
+- b. een nauwkeurige omschrijving van de onderscheiden gedeelten van het gebouw of de grond, die bestemd zijn om als afzonderlijk geheel te worden gebruikt, welke omschrijving kan plaatsvinden door verwijzing naar de in [artikel 109 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=109&z=2005-05-01&g=2005-05-01) bedoelde tekening, alsmede de vermelding voor elk dier gedeelten, tot welk appartementsrecht de bevoegdheid tot gebruik daarvan behoort;
 
 - c. de kadastrale aanduiding van de appartementsrechten en de vermelding van de appartementseigenaar;
 
@@ -823,7 +825,7 @@ De akte van splitsing moet inhouden:
 
 - c. een regeling omtrent door de appartementseigenaars periodiek, tenminste jaarlijks, aan de vereniging verschuldigde bijdragen;
 
-- d. de wijze van bijeenroeping van de algemene vergadering en de bepaling van het aantal stemmen dat ieder der appartementseigenaars in de vergadering kan uitbrengen.
+- d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling van het aantal stemmen dat ieder der appartementseigenaars in de vergadering kan uitbrengen.
 
 3. Het reglement kan een regeling inhouden, krachtens welke aan alle of bepaalde appartementsrechten mede verbonden is het lidmaatschap van een andere, nader in het reglement omschreven vereniging of coöperatie, voor zover dit lidmaatschap in overeenstemming is met de statuten van die vereniging of coöperatie.
 
@@ -831,7 +833,7 @@ De akte van splitsing moet inhouden:
 
 ##### Artikel 113
 
-1. De aandelen die door de splitsing in appartementsrechten ontstaan, zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald.
+1. De aandelen die door de splitsing in appartementsrechten ontstaan, zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald. In het laatste geval blijkt uit de akte op welke grondslag die verhouding berust.
 
 2. In de schulden en kosten die ingevolge de wet of het reglement voor rekening van de gezamenlijke appartementseigenaars komen, moeten zij onderling en jegens de vereniging van eigenaars voor elk appartementsrecht een gelijk deel bijdragen, tenzij daarvoor bij het reglement een andere verhouding is bepaald.
 
@@ -851,17 +853,17 @@ De akte van splitsing moet inhouden:
 
 ##### Artikel 115
 
-1. Wanneer een recht van erfpacht of opstal in de splitsing wordt betrokken, wordt de canon of retributie die daarna opeisbaar wordt, over de appartementsrechten verdeeld in een verhouding als bedoeld in [artikel 113 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=113&z=2004-07-01&g=2004-07-01).
+1. Wanneer een recht van erfpacht of opstal in de splitsing wordt betrokken, wordt de canon of retributie die daarna opeisbaar wordt, over de appartementsrechten verdeeld in een verhouding als bedoeld in [artikel 113 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=113&z=2005-05-01&g=2005-05-01).
 
 2. De vereniging van eigenaars is hoofdelijk verbonden voor de door een of meer appartementseigenaars verschuldigde canon of retributie.
 
 ##### Artikel 116
 
-1. Wanneer een recht van erfpacht of opstal in de splitsing betrokken is, geldt ter aanvulling van de [artikelen 87 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2004-07-01&g=2004-07-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2004-07-01&g=2004-07-01) het in de volgende leden bepaalde.
+1. Wanneer een recht van erfpacht of opstal in de splitsing betrokken is, geldt ter aanvulling van de [artikelen 87 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2005-05-01&g=2005-05-01) en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2005-05-01&g=2005-05-01) het in de volgende leden bepaalde.
 
 2. Opzegging van het recht wegens verzuim in de betaling van de canon of retributie kan slechts geschieden, wanneer de gehele canon of retributie over twee achtereenvolgende jaren onbetaald is gebleven.
 
-3. Rust op een of meer appartementsrechten een beperkt recht of een beslag dan zijn [artikel 87 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2004-07-01&g=2004-07-01), en [artikel 88 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2004-07-01&g=2004-07-01) mede van overeenkomstige toepassing met betrekking tot dit beperkte recht of dit beslag.
+3. Rust op een of meer appartementsrechten een beperkt recht of een beslag dan zijn [artikel 87 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=87&z=2005-05-01&g=2005-05-01), en [artikel 88 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=7&artikel=88&z=2005-05-01&g=2005-05-01) mede van overeenkomstige toepassing met betrekking tot dit beperkte recht of dit beslag.
 
 4. Is het voor een appartementsrecht verschuldigde deel van de canon of retributie over de twee achtereenvolgende jaren onbetaald gebleven, dan kan het appartementsrecht door de rechter op vordering van de grondeigenaar aan deze worden toegewezen. De dagvaarding moet op straffe van niet-ontvankelijkheid binnen acht dagen worden betekend aan hen die als beperkt gerechtigde of beslaglegger op het appartementsrecht in de openbare registers staan ingeschreven.
 
@@ -875,7 +877,7 @@ De akte van splitsing moet inhouden:
 
 1. Een appartementsrecht kan als een zelfstandig registergoed worden overgedragen, toegedeeld, bezwaard en uitgewonnen.
 
-2. Onverminderd het in [artikel 114 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=114&z=2004-07-01&g=2004-07-01) bepaalde kunnen goederen die in de splitsing betrokken zijn niet geheel of voor een deel worden overgedragen, verdeeld, bezwaard of uitgewonnen.
+2. Onverminderd het in [artikel 114 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=114&z=2005-05-01&g=2005-05-01) bepaalde kunnen goederen die in de splitsing betrokken zijn niet geheel of voor een deel worden overgedragen, verdeeld, bezwaard of uitgewonnen.
 
 3. Beëindiging van de splitsing met betrekking tot een gedeelte van de in de splitsing betrokken registergoederen kan slechts geschieden door wijziging van de akte van splitsing.
 
@@ -901,17 +903,17 @@ De akte van splitsing moet inhouden:
 
 ##### Artikel 120
 
-1. Onverminderd het in [artikel 112 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2004-07-01&g=2004-07-01) bepaalde is een appartementseigenaar bevoegd het gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, zelf te gebruiken of aan een ander in gebruik te geven, met inbegrip van het hem toekomende medegebruik van de gedeelten die niet bestemd zijn om als afzonderlijk geheel te worden gebruikt.
+1. Onverminderd het in [artikel 112 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2005-05-01&g=2005-05-01) bepaalde is een appartementseigenaar bevoegd het gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, zelf te gebruiken of aan een ander in gebruik te geven, met inbegrip van het hem toekomende medegebruik van de gedeelten die niet bestemd zijn om als afzonderlijk geheel te worden gebruikt.
 
 2. Voorschriften van het reglement omtrent gebruik, beheer en onderhoud zijn ook van toepassing op degeen die het gebruik verkrijgt. Andere bepalingen van het reglement kunnen in het reglement op de gebruiker van toepassing worden verklaard.
 
 3. Ten aanzien van een huurder geldt een na het tot stand komen van de huurovereenkomst ingeschreven reglementsbepaling niet, tenzij hij daarin heeft toegestemd. Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste deel daarvan is gelegen, op verzoek van iedere appartementseigenaar beslissen dat de reglementsbepaling ten aanzien van de huurder komt te gelden.
 
-4. Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hem bezwarende voorwaarden is geschied.
+4. Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hen bezwarende voorwaarden is geschied.
 
 ##### Artikel 121
 
-1. In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in [artikel 112 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2004-07-01&g=2004-07-01), met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.
+1. In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in [artikel 112 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2005-05-01&g=2005-05-01), met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.
 
 2. Gaat de handeling met kosten gepaard, dan kan de kantonrechter op verzoek van een appartementseigenaar of van de vereniging van eigenaars tevens bepalen in welke verhouding alle of bepaalde appartementseigenaars of de vereniging van eigenaars in de kosten moeten bijdragen.
 
@@ -927,6 +929,10 @@ De akte van splitsing moet inhouden:
 
 4. In het reglement kan worden bepaald in hoeverre voor bijdragen, genoemd in het vorige lid, alleen de vroegere eigenaar of alleen de verkrijger aansprakelijk zal zijn. In het reglement kan ook worden bepaald dat voor bepaalde bijdragen die later opeisbaar worden de vroegere appartementseigenaar in plaats van de verkrijger verbonden zal zijn.
 
+5. De notaris draagt zorg dat aan de akte van overdracht of toedeling een door het bestuur van de vereniging van eigenaars afgegeven verklaring wordt gehecht, die met betrekking tot de in lid 3 genoemde bijdragen waarvoor de verkrijger aansprakelijk zal zijn, een opgave inhoudt van hetgeen de betrokken appartementseigenaar op de dag van de overdracht of toedeling aan de vereniging schuldig is. De verkrijger is jegens de vereniging niet verder aansprakelijk dan tot het bedrag dat uit de opgave blijkt.
+
+6. De verklaring houdt tevens een opgave in van de omvang van het reservefonds van de vereniging, bedoeld in [artikel 126 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=2&artikel=126&z=2005-05-01&g=2005-05-01).
+
 ##### Artikel 123
 
 1. In geval van vruchtgebruik van een appartementsrecht treedt de vruchtgebruiker in de plaats van de appartementseigenaar ten aanzien van de aansprakelijkheid voor de gezamenlijke schulden en de aan de gezamenlijke appartementseigenaars en de vereniging van eigenaars verschuldigde bijdragen. De vruchtgebruiker is echter bevoegd de door hem betaalde bedragen, voor zover zij niet betrekking hebben op de gewone lasten en herstellingen, bij het einde van het vruchtgebruik van de appartementseigenaar terug te vorderen.
@@ -935,7 +941,7 @@ De akte van splitsing moet inhouden:
 
 3. Tenzij bij de instelling van het vruchtgebruik anders wordt bepaald wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de vruchtgebruiker.
 
-4. [Artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=122&z=2004-07-01&g=2004-07-01) is van overeenkomstige toepassing bij de vestiging, bij overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.
+4. [Artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=122&z=2005-05-01&g=2005-05-01) is van overeenkomstige toepassing bij de vestiging, bij overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.
 
 ### Afdeling 2. De vereniging van eigenaars
 
@@ -943,7 +949,7 @@ De akte van splitsing moet inhouden:
 
 1. De vereniging van eigenaars is een rechtspersoon.
 
-2. [Titel 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=1) is slechts van toepassing behoudens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=4&z=2004-07-01&g=2004-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=6&z=2004-07-01&g=2004-07-01), [13 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=13&z=2004-07-01&g=2004-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=17&z=2004-07-01&g=2004-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=18&z=2004-07-01&g=2004-07-01), [19 leden 1-3, lid 5, tweede zin, en lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=2&artikel=19&z=2004-07-01&g=2004-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=20&z=2004-07-01&g=2004-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=21&z=2004-07-01&g=2004-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=3&artikel=22&z=2004-07-01&g=2004-07-01) en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.
+2. [Titel 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=1) is van toepassing behoudens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=6), [13 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18), [19 leden 1-3, lid 4, tweede zin, lid 6, tweede zin, en lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=22) en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.
 
 3. [Titel 2 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=2) is slechts van toepassing voor zover de onderhavige afdeling daarnaar verwijst.
 
@@ -953,13 +959,11 @@ De akte van splitsing moet inhouden:
 
 2. Iedere appartementseigenaar is van rechtswege lid van de vereniging van eigenaars. Wanneer een lid ophoudt appartementseigenaar te zijn, eindigt zijn lidmaatschap van rechtswege.
 
-3. Behoren op het tijdstip van de inschrijving van de akte van splitsing alle appartementsrechten nog aan één persoon of dezelfde personen toe, dan ontstaat de vereniging eerst zodra de appartementsrechten aan verschillende personen toebehoren.
-
-4. [Artikel 40 lid 2 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=40) is van toepassing.
+3. [Artikel 40 lid 2 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=40) is van toepassing.
 
 ##### Artikel 126
 
-1. De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt.
+1. De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt. De vereniging houdt een reservefonds in stand ter bestrijding van andere dan de gewone jaarlijkse kosten.
 
 2. De vereniging kan binnen de grenzen van haar bevoegdheid de gezamenlijke appartementseigenaars in en buiten rechte vertegenwoordigen.
 
@@ -971,6 +975,8 @@ De akte van splitsing moet inhouden:
 
 2. Tenzij de statuten anders bepalen, wordt de voorzitter van de vergadering van eigenaars door de vergadering uit de leden der vereniging benoemd. Zowel de voorzitter als het bestuur van de vereniging zijn bevoegd de vergadering bijeen te roepen.
 
+3. In geval van ondersplitsing komen de stemmen van de appartementseigenaar wiens recht is gesplitst, toe aan de gerechtigden tot de door de ondersplitsing ontstane appartementsrechten. Deze stemmen worden in de vergadering van eigenaars uitgebracht door het bestuur van de bij de ondersplitsing opgerichte vereniging van eigenaars. De stemmen behoeven niet eensluidend te worden uitgebracht. De gerechtigden tot de door de ondersplitsing ontstane appartementsrechten zijn bevoegd de vergadering van eigenaars bij te wonen. Het bestuur, bedoeld in de tweede zin, is bevoegd om in de vergadering het woord te voeren.
+
 ##### Artikel 128
 
 1. De vergadering van eigenaars is bevoegd regels te stellen betreffende het gebruik van de gedeelten die niet bestemd zijn als afzonderlijk geheel te worden gebruikt, voor zover het reglement daarover geen bepalingen bevat.
@@ -981,7 +987,7 @@ De akte van splitsing moet inhouden:
 
 1. Voor de toepassing van [artikel 14 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=14) wordt de akte van splitsing gelijkgesteld met de statuten.
 
-2. Voor de toepassing van [artikel 15 lid 1 onder **c** van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=15) geldt het reglement dat krachtens [artikel 111 onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=111&z=2004-07-01&g=2004-07-01) deel van de akte van splitsing uitmaakt, niet als een reglement.
+2. Voor de toepassing van [artikel 15 lid 1 onder **c** van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=15) geldt het reglement dat krachtens [artikel 111 onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=111&z=2005-05-01&g=2005-05-01) deel van de akte van splitsing uitmaakt, niet als een reglement.
 
 ##### Artikel 130
 
@@ -1029,7 +1035,7 @@ De [artikelen 45 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=
 
 1. Hij, die krachtens het reglement verplicht is het gebouw te doen verzekeren, vertegenwoordigt de gezamenlijke appartementseigenaars bij de uitoefening van de rechten die uit de verzekeringsovereenkomst voortvloeien, en voert voor hen het beheer over de ontvangen verzekeringspenningen.
 
-2. Zodra tot herstel is besloten, worden de verzekeringspenningen tot dit doel aangewend, met dien verstande dat de verhouding van de waarde van de appartementsrechten na het herstel dezelfde moet zijn als tevoren. Bij de berekening van die waarde mag echter geen rekening worden gehouden met hetgeen een appartementseigenaar in het gedeelte dat hij als afzonderlijk geheel gebruikt, heeft aangebracht, tenzij hij hiervan tijdig aan de vereniging van eigenaars had kennis gegeven.
+2. Zodra tot herstel is besloten, worden de verzekeringspenningen tot dit doel aangewend, met dien verstande dat de verhouding van de waarde van de appartementsrechten na het herstel dezelfde moet zijn als tevoren. Bij de berekening van die waarde mag echter geen rekening worden gehouden met veranderingen die een appartementseigenaar in het gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, heeft aangebracht, tenzij hij hiervan tijdig aan de vereniging van eigenaars had kennis gegeven.
 
 3. Herstel van schade aan gedeelten die bestemd zijn om als afzonderlijk geheel te worden gebruikt, geschiedt zoveel mogelijk volgens de aanwijzingen van de appartementseigenaars die het aangaat.
 
@@ -1051,25 +1057,29 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 
 ##### Artikel 139
 
-1. Wijziging van de akte van splitsing kan slechts geschieden met medewerking van alle appartementseigenaars. Zij behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, alsmede van hen die daarop beslag hebben gelegd. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.
+1. De akte van splitsing kan worden gewijzigd met medewerking van alle appartementseigenaars.
 
-2. Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.
+2. De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald. De termijn voor oproeping tot de vergadering bedraagt ten minste vijftien dagen. [Artikel 42 leden 1, eerste zin, 2, eerste zin, en 3 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=42) is van overeenkomstige toepassing.
 
-3. De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de daarbij behorende grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is [artikel 109 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=109&z=2004-07-01&g=2004-07-01) van overeenkomstige toepassing.
+3. Wijziging van de akte van splitsing behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, van hen die daarop beslag hebben gelegd alsmede, indien een recht van erfpacht of opstal in de splitsing is betrokken, van de grondeigenaar. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.
+
+4. Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.
+
+5. De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is [artikel 109 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=109&z=2005-05-01&g=2005-05-01) van overeenkomstige toepassing.
 
 ##### Artikel 140
 
-1. Indien een of meer der in het eerste lid van het vorige artikel genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
+1. Indien een of meer der in de [leden 1 en 3 van het vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01) genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 2. De machtiging kan slechts worden verleend op verzoek van een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt.
 
 3. De machtiging kan ook op verzoek van twee appartementseigenaars, of op verzoek van een appartementseigenaar aan wie verschillende appartementsrechten toebehoren worden verleend, wanneer de wijziging uitsluitend strekt tot een verandering van de onderlinge begrenzing der gedeelten die bestemd zijn door hen als afzonderlijk geheel te worden gebruikt, al dan niet gepaard gaande met een verandering in de onderlinge verhouding van hun aandelen in de goederen die in de splitsing zijn betrokken, of van hun bijdragen in de schulden en kosten die ingevolge de wet of het reglement voor rekening van de gezamenlijke appartementseigenaars komen.
 
-4. Alle personen wier medewerking of toestemming ingevolge [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2004-07-01&g=2004-07-01) is vereist, worden bij name opgeroepen om op een verzoek als in de vorige leden bedoeld te worden gehoord.
+4. Alle personen wier medewerking of toestemming ingevolge [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01) is vereist, worden bij name opgeroepen om op een verzoek als in de vorige leden bedoeld te worden gehoord.
 
 ##### Artikel 141
 
-1. Bij gebreke van de in de twee voorgaande artikelen bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
+1. Bij gebreke van de in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2005-05-01&g=2005-05-01) bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
 
 2. De bevoegdheid om vernietiging te vorderen verjaart door verloop van een jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop degeen die de vernietiging kan vorderen kennis heeft genomen van de wijziging dan wel hem schriftelijk van die wijziging mededeling is gedaan.
 
@@ -1089,19 +1099,19 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 
 - b. door inschrijving in de openbare registers van het vonnis waarbij een in de splitsing betrokken kadastraal perceel in zijn geheel is onteigend, wanneer geen andere percelen in de splitsing betrokken zijn.
 
-2. In alle andere gevallen geschiedt de opheffing van de splitsing door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. De [artikelen 139 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2004-07-01&g=2004-07-01), [140 leden 1, 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2004-07-01&g=2004-07-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=141&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing.
+2. In alle andere gevallen geschiedt de opheffing van de splitsing door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. De [artikelen 139 leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01), [140 leden 1, 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2005-05-01&g=2005-05-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=141&z=2005-05-01&g=2005-05-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 144
 
 1. Op verzoek van een persoon wiens medewerking of toestemming tot de wijziging van de akte van splitsing of tot opheffing van de splitsing is vereist, kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, bevelen dat de akte van splitsing wordt gewijzigd dan wel de splitsing wordt opgeheven:
 
-- a. wanneer de akte van splitsing niet voldoet aan de in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=111&z=2004-07-01&g=2004-07-01) en [112](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2004-07-01&g=2004-07-01) gestelde vereisten;
+- a. wanneer de akte van splitsing niet voldoet aan de in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=111&z=2005-05-01&g=2005-05-01) en [112](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2005-05-01&g=2005-05-01) gestelde vereisten;
 
-- b. wanneer uit de inrichting van de gedeelten van het gebouw die bestemd zijn als afzonderlijk geheel te worden gebruikt, deze bestemming niet blijkt;
+- b. wanneer uit de inrichting van de gedeelten van het gebouw of uit de inrichting of aanduiding van de gedeelten van de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, deze bestemming niet blijkt;
 
-- c. wanneer de bouw of inrichting van het gebouw dan wel de inrichting van de daarbij behorende grond niet of niet meer beantwoordt aan de omschrijving in de akte van splitsing;
+- c. wanneer de bouw of inrichting van het gebouw dan wel de inrichting of aanduiding van de grond niet of niet meer beantwoordt aan de omschrijving in de akte van splitsing;
 
-- d. in geval van splitsing met toepassing van [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=107&z=2004-07-01&g=2004-07-01), wanneer de stichting of de gewijzigde inrichting van het gebouw niet binnen een termijn van drie jaren te rekenen vanaf de dag van de inschrijving is voltooid;
+- d. in geval van splitsing met toepassing van [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=107&z=2005-05-01&g=2005-05-01), wanneer de stichting of de gewijzigde inrichting van het gebouw niet binnen een termijn van drie jaren te rekenen vanaf de dag van de inschrijving is voltooid;
 
 - e. wanneer een recht van erfpacht of opstal dat naast een of meer andere registergoederen in de splitsing betrokken is, eindigt;
 
@@ -1113,11 +1123,11 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 
 2. Aan de toewijzing van het verzoek kan de rechter voorwaarden verbinden.
 
-3. [Artikel 140 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2004-07-01&g=2004-07-01) is van overeenkomstige toepassing.
+3. [Artikel 140 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2005-05-01&g=2005-05-01) is van overeenkomstige toepassing.
 
 ##### Artikel 145
 
-1. De appartementseigenaars zijn verplicht aan een bevel als bedoeld in het vorige artikel uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen [139 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2004-07-01&g=2004-07-01) en [143 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=143&z=2004-07-01&g=2004-07-01) bedoelde toestemming is in dit geval niet vereist.
+1. De appartementseigenaars zijn verplicht aan een bevel als bedoeld in het vorige artikel uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen [139 leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01) en [143 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=143&z=2005-05-01&g=2005-05-01) bedoelde toestemming is in dit geval niet vereist.
 
 2. Indien de kantonrechter met toepassing van [artikel 300 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=300) een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.
 
@@ -1131,6 +1141,28 @@ Beperkte rechten, beslagen en voorrechten op een appartementsrecht rusten na oph
 
 2. De vereffening geschiedt met inachtneming van de volgende afwijkingen van de [artikelen 23-24 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23).
 
-3. De vereffenaar draagt hetgeen na voldoening der schuldeisers van het vermogen van de ontbonden vereniging is overgebleven, over aan hen die bij de opheffing van de splitsing appartementseigenaar waren, ieder voor een aandeel als bedoeld in [artikel 113 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=113&z=2004-07-01&g=2004-07-01).
+3. De vereffenaar draagt hetgeen na voldoening der schuldeisers van het vermogen van de ontbonden vereniging is overgebleven, over aan hen die bij de opheffing van de splitsing appartementseigenaar waren, ieder voor een aandeel als bedoeld in [artikel 113 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=1&artikel=113&z=2005-05-01&g=2005-05-01).
 
-4. De [artikelen 23 lid 2, eerste zin, en lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23) en [23c, lid 1, van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23c) zijn niet van toepassing. De in [artikel 23**b** lid 4 van Boek 2](onbekend) bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in [artikel 24, lid 2, van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) en [artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=995) aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
+4. De [artikelen 23 lid 1, derde zin, en lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23) en [23c, lid 1, van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23c) zijn niet van toepassing. De in [artikel 23b lid 4 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=23b) bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in [artikel 24, lid 2, van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) en [artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=995) aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
+
+##### Artikel 118a
+
+1. Een appartementseigenaar kan, voor zover in de akte van splitsing niet anders is bepaald, zonder medewerking van de overige appartementseigenaars en beperkt gerechtigden op het gedeelte van de onroerende zaken dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, een recht van erfpacht en, behoudens voor zover het betreft in de splitsing betrokken gebouwen, werken en beplantingen, een recht van opstal vestigen.
+
+2. In de akte van vestiging van het recht wordt bepaald in hoeverre de gerechtigde naast de appartementseigenaar hoofdelijk aansprakelijk is voor de ter zake van het appartementsrecht verschuldigde bijdragen.
+
+3. Tenzij bij de vestiging van het recht van erfpacht anders wordt bepaald, wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de erfpachter. Tenzij bij de vestiging van het recht van opstal anders wordt bepaald, behoudt de appartementseigenaar die een recht van opstal heeft gevestigd, het aan zijn appartementsrecht verbonden stemrecht in de vergadering van eigenaars.
+
+### Afdeling 2. De vereniging van eigenaars
+
+### Afdeling 3. Rechten uit verzekeringsovereenkomsten
+
+### Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
+
+##### Artikel 140a
+
+1. Op vordering van een appartementseigenaar die niet voor een overeenkomstig [artikel 139 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2005-05-01&g=2005-05-01) bij meerderheid van stemmen genomen besluit tot wijziging van de akte van splitsing heeft gestemd, wordt het besluit bij rechterlijke uitspraak vernietigd.
+
+2. De bevoegdheid om vernietiging te vorderen verjaart door verloop van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop het besluit door de vergadering van eigenaars is genomen.
+
+3. De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.
