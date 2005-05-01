@@ -4,7 +4,7 @@ identifier: "BWBR0009408"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2004-05-01"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009408"
 soort: "wet"
@@ -65,7 +65,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.
 
-3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2004-05-01&g=2004-05-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2004-05-01&g=2004-05-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2004-05-01&g=2004-05-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2004-05-01&g=2004-05-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2004-05-01&g=2004-05-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2004-05-01&g=2004-05-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2004-05-01&g=2004-05-01).
+3. Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699) en, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2005-05-01&g=2005-05-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=9&z=2005-05-01&g=2005-05-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=4&artikel=8&z=2005-05-01&g=2005-05-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=5&artikel=11&z=2005-05-01&g=2005-05-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=8&artikel=33&z=2005-05-01&g=2005-05-01), voor zover deze betrekking hebben op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&artikel=7&z=2005-05-01&g=2005-05-01), op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](https://wetten.overheid.nl/jci1.3:c:BWBR0013797) een positief oordeel heeft gekregen van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2005-05-01&g=2005-05-01).
 
 ##### Artikel 2
 
@@ -73,19 +73,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Over dit onderzoeksprotocol moet een positief oordeel zijn verkregen:
 
-- a. van een daartoe bevoegde krachtens artikel 16 erkende commissie, wanneer onderdeel b, onder 2°, 3° en 4°, niet van toepassing is;
+- a. van een daartoe bevoegde krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2005-05-01&g=2005-05-01) erkende commissie, wanneer onderdeel b, onder 2°, 3° en 4°, niet van toepassing is;
 
-- b. van de centrale commissie, bedoeld in artikel 14 , wanneer het betreft:
+- b. van de centrale commissie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=14&z=2005-05-01&g=2005-05-01) , wanneer het betreft:
 
 - 1°. een beslissing op een administratief beroep;
 
-- 2°. een wetenschappelijk onderzoek als bedoeld in de tweede volzin van artikel 4 , eerste lid, dat niet aan de betrokken proefpersoon ten goede kan komen en waarbij diens toestand opzettelijk wordt gewijzigd;
+- 2°. een wetenschappelijk onderzoek als bedoeld in de [tweede volzin van artikel 4 , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&artikel=4&z=2005-05-01&g=2005-05-01), dat niet aan de betrokken proefpersoon ten goede kan komen en waarbij diens toestand opzettelijk wordt gewijzigd;
 
-- 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge artikel 19 bij de centrale commissie berust;
+- 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=19&z=2005-05-01&g=2005-05-01) bij de centrale commissie berust;
 
-- 4°. overige bij algemene maatregel van bestuur aangewezen vormen van wetenschappelijk onderzoek ten aanzien waarvan een schaarse deskundigheid bestaat.
+- 4°. overige bij algemene maatregel van bestuur aangewezen vormen van wetenschappelijk onderzoek waarvan beoordeling door de centrale commissie gewenst is gelet op de aan het onderzoek verbonden maatschappelijke, ethische of juridische aspecten.
 
-3. De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de paragrafen 2 en 3.
+3. De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=2&z=2005-05-01&g=2005-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=3&z=2005-05-01&g=2005-05-01).
 
 #### Paragraaf 2. Regels voor wetenschappelijk onderzoek met proefpersonen
 
@@ -93,7 +93,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Een commissie kan slechts een positief oordeel over een onderzoeksprotocol geven, indien:
 
-- a. redelijkerwijs aannemelijk is dat het wetenschappelijk onderzoek tot de vaststelling van nieuwe inzichten op het gebied van de geneeskunst zal leiden;
+- a. redelijkerwijs aannemelijk is dat het wetenschappelijk onderzoek tot de vaststelling van nieuwe inzichten op het gebied van de medische wetenschap zal leiden;
 
 - b. redelijkerwijs aannemelijk is dat de vaststelling, bedoeld onder a, niet door andere vormen of methoden van wetenschappelijk onderzoek dan wetenschappelijk onderzoek met proefpersonen of door het verrichten van onderzoek van minder ingrijpende aard kan geschieden;
 
@@ -127,7 +127,7 @@ Het is verboden wetenschappelijk onderzoek te verrichten met proefpersonen van w
 
 - b. indien de proefpersoon minderjarig is doch de leeftijd van twaalf jaar heeft bereikt en onderdeel c niet van toepassing is: zonder schriftelijke toestemming van de betrokkene alsmede die van de ouders die het gezag uitoefenen of van zijn voogd;
 
-- c. indien de proefpersoon twaalf jaar of ouder is en niet in staat is tot een redelijke waardering van zijn belangen ter zake: zonder de schriftelijke toestemming van de ouders die het gezag uitoefenen of van de voogd dan wel indien hij meerderjarig is, van de wettelijke vertegenwoordiger van de betrokkene of, indien deze ontbreekt, van de persoon die daartoe door de betrokkene schriftelijk is gemachtigd of, bij het ontbreken van zodanig persoon, van de echtgenoot, geregistreerde partner of andere levensgezel van de betrokkene;
+- c. indien de proefpersoon twaalf jaar of ouder is en niet in staat is tot een redelijke waardering van zijn belangen ter zake: zonder de schriftelijke toestemming van de ouders die het gezag uitoefenen of van de voogd dan wel indien hij meerderjarig is, van de wettelijke vertegenwoordiger van de betrokkene of, indien deze ontbreekt, van de persoon die daartoe door de betrokkene schriftelijk is gemachtigd of, bij het ontbreken van zodanig persoon, van de echtgenoot, geregistreerde partner of andere levensgezel van de betrokkene of, indien deze ontbreekt, de ouders van de betrokkene of, indien ook dezen ontbreken, de redelijkerwijs bereikbare meerderjarige kinderen dan wel, indien dezen eveneens ontbreken, de redelijkerwijs bereikbare meerderjarige broers en zussen van de betrokkene;
 
 - d. indien de proefpersoon de leeftijd van twaalf jaar nog niet heeft bereikt: zonder de schriftelijke toestemming van de ouders die het gezag uitoefenen of van zijn voogd.
 
@@ -243,13 +243,15 @@ Wijzigingen in het reglement behoeven eveneens de goedkeuring van Onze Minister.
 
 - a. die in elk geval bestaat uit een of meer artsen en uit personen die deskundig zijn op het gebied van de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon;
 
-- b. in welker reglement genoegzaam is voorzien in medewerking door andere deskundigen met het oog op de aard van de haar ter beoordeling voorgelegde onderzoeksprotocollen;
+- b. waarvan de leden voldoen aan door de centrale commissie vast te stellen nadere eisen betreffende opleiding en ervaring;
 
-- c. uit welker reglement blijkt voor welke kring zij werkzaam zal zijn;
+- c. in welker reglement genoegzaam is voorzien in medewerking door andere deskundigen met het oog op de aard van de haar ter beoordeling voorgelegde onderzoeksprotocollen;
 
-- d. welker reglement voorziet in een behoorlijke regeling van haar werkwijze;
+- d. uit welker reglement blijkt voor welke kring zij werkzaam zal zijn;
 
-- e. waarvan redelijkerwijs aannemelijk is dat aan haar onderzoeksprotocollen ter beoordeling zullen worden voorgelegd tot tenminste het door de centrale commissie daartoe vastgestelde aantal.
+- e. welker reglement voorziet in een behoorlijke regeling van haar werkwijze;
+
+- f. waarvan redelijkerwijs aannemelijk is dat aan haar onderzoeksprotocollen ter beoordeling zullen worden voorgelegd tot tenminste het door de centrale commissie daartoe vastgestelde aantal.
 
 ##### Artikel 17
 
@@ -259,7 +261,7 @@ Wijzigingen in het reglement behoeven eveneens de goedkeuring van Onze Minister.
 
 ##### Artikel 18
 
-Een krachtens artikel 16 erkende commissie doet van een wijziging van haar reglement schriftelijk mededeling aan de centrale commissie.
+Een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2005-05-01&g=2005-05-01) erkende commissie doet van een wijziging van haar reglement en van haar opheffing schriftelijk mededeling aan de centrale commissie.
 
 ##### Artikel 19
 
@@ -301,17 +303,17 @@ De centrale commissie houdt toezicht op de werkzaamheden van de commissies. Zij 
 
 1. De centrale commissie trekt een aan een commissie verleende erkenning in indien:
 
-- a. de commissie niet langer voldoet aan een van de in artikel 16, tweede lid, onder a tot en met d, met het oog op erkenning gestelde voorwaarden;
+- a. de commissie niet langer voldoet aan een van de in [artikel 16, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2005-05-01&g=2005-05-01), met het oog op erkenning gestelde voorwaarden;
 
 - b. de commissie de verplichtingen die voor haar voortvloeien uit deze wet, onvoldoende nakomt;
 
 - c. door een wijziging van het reglement van de commissie een goede uitoefening van de werkzaamheden waarmee zij ingevolge deze wet is belast, redelijkerwijs niet langer is verzekerd.
 
-2. De centrale commissie kan voorts een erkenning intrekken indien aan de commissie over de laatste drie kalenderjaren een kleiner aantal onderzoeksprotocollen ter beoordeling is voorgelegd dan het aantal, bedoeld in artikel 16, tweede lid, onder e.
+2. De centrale commissie kan voorts een erkenning intrekken indien door de commissie in de laatste twee kalenderjaren een kleiner aantal onderzoeksprotocollen is beoordeeld dan het aantal, bedoeld in [artikel 16, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=16&z=2005-05-01&g=2005-05-01).
 
 3. Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de commissie door de centrale commissie is gehoord.
 
-4. Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. Artikel 17, tweede lid, is van overeenkomstige toepassing.
+4. Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&paragraaf=6&artikel=17&z=2005-05-01&g=2005-05-01), is van overeenkomstige toepassing.
 
 ##### Artikel 26
 
