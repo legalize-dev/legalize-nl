@@ -125,9 +125,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling bijstand bestrijding luchtvaartterrorisme.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-Deze regeling berust op [artikel 58, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
