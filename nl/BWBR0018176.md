@@ -4,7 +4,7 @@ identifier: "BWBR0018176"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-05-01"
-last_updated: "2005-04-22"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018176"
 soort: "AMvB"
@@ -51,11 +51,11 @@ Wijzigt het Reglement Verkeersregels en Verkeerstekens 1990.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit personenvervoer 2000.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit ex artikel 4 Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer.
 
 ##### Artikel IV
 
@@ -63,10 +63,10 @@ Wijzigt het Reglement rijbewijzen.
 
 ##### Artikel V
 
-[Artikel 69, eerste lid, onderdeel d, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=69), zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018176&artikel=IV&z=2005-04-22&g=2005-04-22), blijft van kracht ten aanzien van aanvragen die voor dat tijdstip zijn ingediend.
+[Artikel 69, eerste lid, onderdeel d, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=69), zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018176&artikel=IV&z=2005-05-01&g=2005-05-01), blijft van kracht ten aanzien van aanvragen die voor dat tijdstip zijn ingediend.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 mei 2005, met uitzondering van de [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018176&artikel=I&z=2005-05-01&g=2005-05-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018176&artikel=IV&z=2005-05-01&g=2005-05-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0018176&artikel=V&z=2005-05-01&g=2005-05-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
