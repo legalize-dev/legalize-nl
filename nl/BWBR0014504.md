@@ -4,7 +4,7 @@ identifier: "BWBR0014504"
 country: "nl"
 rank: "wet"
 publication_date: "2008-07-19"
-last_updated: "2005-04-06"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014504"
 soort: "wet"
@@ -49,11 +49,13 @@ Wijzigt de Wet luchtvaart.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De houder van een burgerluchtvaartuig waarvoor bij de inwerkingtreding van deze wet een bewijs van luchtwaardigheid of een ontheffing als bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.21) is afgegeven, dient zijn aanvraag voor een (voorlopig) geluidscertificaat, een (voorlopige) geluidsverklaring of (voorlopige) aanvullende geluidsverklaring in, tegelijkertijd met de eerstvolgende aanvraag tot afgifte of verlenging van het bewijs van luchtwaardigheid van dat luchtvaartuig, dan wel tot afgifte of verlenging van de ter zake verleende ontheffing.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Documenten omtrent de geluidsproductie van een burgerluchtvaartuig welke zijn afgegeven voor de inwerkingtreding van deze wet vervallen op de dag waarop ingevolge deze wet dat luchtvaartuig voorzien dient te zijn van een (voorlopig) geluidscertificaat, een (voorlopige) geluidsverklaring of een (voorlopige) aanvullende geluidsverklaring.
+
+2. Een document dat is vervallen ingevolge het eerste lid wordt op eerste vordering van Onze Minister van Verkeer en Waterstaat binnen acht dagen ingeleverd bij Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel IV
 
