@@ -4,7 +4,7 @@ identifier: "BWBR0002172"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2002-01-01"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002172"
 soort: "wet"
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie kunnen worden tenuitvoergelegd, wordt in Nederland gericht tot Onze Minister van Justitie.
+De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie kunnen worden tenuitvoergelegd, wordt in Nederland gericht tot Onze Minister van Justitie.
 
 ##### Artikel 2
 
@@ -81,5 +81,11 @@ Onze Minister van Justitie zendt een exemplaar van alle gegevens, die hij van de
 ##### Artikel 6
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+De gedwongen tenuitvoerlegging van uitspraken en beschikkingen, die ingevolge het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal kunnen worden tenuitvoergelegd, en die zijn genomen voor 23 juli 2002, vindt plaats overeenkomstig deze wet.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
