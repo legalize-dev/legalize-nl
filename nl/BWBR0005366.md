@@ -4,7 +4,7 @@ identifier: "BWBR0005366"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-07-01"
-last_updated: "2002-01-01"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005366"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De indiening van een tweede of volgende asielaanvraag geeft geen recht op opvang
 
 ##### Artikel 2
 
-Deze regeling heeft betrekking op een asielzoeker die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien. Een asielzoeker wordt als zodanig aangemerkt indien hij in aanmerking zou komen voor een periodieke normuitkering op grond van de [Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333) (Stb. 1963, 284) wanneer hem niet de verstrekkingen, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), zouden worden geboden.
+Deze regeling heeft betrekking op een asielzoeker die niet beschikt over voldoende middelen om in de noodzakelijke kosten van het bestaan te voorzien. Een asielzoeker wordt als zodanig aangemerkt indien hij in aanmerking zou komen voor een periodieke normuitkering op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) wanneer hem niet de verstrekkingen, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), zouden worden geboden.
 
 ##### Artikel 3
 
@@ -68,11 +68,11 @@ Vervallen
 
 ##### Artikel 4
 
-De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een asielzoeker worden onthouden indien de asielzoeker:
+De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), bedoelde verstrekkingen kunnen geheel of gedeeltelijk aan een asielzoeker worden onthouden indien de asielzoeker:
 
-- a. niet desgevraagd mededeling doet van op hem betrekking hebbende gegevens die nodig zijn voor het realiseren van de opvang, waaronder in elk geval zijn naam, geboortedatum, nationaliteit, land van herkomst, gezinssamenstelling, vermogenspositie en de datum waarop door of ten behoeve van hem een verzoek als bedoeld in [artikel 1, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=I&artikel=1&z=2002-01-01&g=2002-01-01), is ingediend;
+- a. niet desgevraagd mededeling doet van op hem betrekking hebbende gegevens die nodig zijn voor het realiseren van de opvang, waaronder in elk geval zijn naam, geboortedatum, nationaliteit, land van herkomst, gezinssamenstelling, vermogenspositie en de datum waarop door of ten behoeve van hem een verzoek als bedoeld in [artikel 1, eerste lid, onder b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=I&artikel=1&z=2005-05-01&g=2005-05-01), is ingediend;
 
-- b. een hem overeenkomstig het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=22&z=2002-01-01&g=2002-01-01) in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;
+- b. een hem overeenkomstig het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=22&z=2005-05-01&g=2005-05-01) in rekening gebrachte tegemoetkoming in de kosten van opvang niet betaalt;
 
 - c. de door de gemeente ten behoeve van de opvang gestelde regels niet naleeft;
 
@@ -120,13 +120,13 @@ Vervallen
 
 ##### Artikel 14
 
-1. De minister sluit met de gemeente slechts een overeenkomst omtrent het bieden van opvang aan asielzoekers, indien de gemeente zich in die overeenkomst verplicht de in de [artikelen 15 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01) omschreven verplichtingen na te komen. De minister verplicht zich in die overeenkomst tot het betalen van bijdragen overeenkomstig de [artikelen 27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2002-01-01&g=2002-01-01).
+1. De minister sluit met de gemeente slechts een overeenkomst omtrent het bieden van opvang aan asielzoekers, indien de gemeente zich in die overeenkomst verplicht de in de [artikelen 15 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01) omschreven verplichtingen na te komen. De minister verplicht zich in die overeenkomst tot het betalen van bijdragen overeenkomstig de [artikelen 27 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2005-05-01&g=2005-05-01).
 
 2. In de overeenkomst wordt bovendien vastgesteld het aantal opvangplaatsen voor asielzoekers in de gemeente alsmede gedurende welke periode opvang van asielzoekers zal plaatsvinden, en wordt voorts bepaald dat de minister op verzoek in bijzondere gevallen kan afwijken van het in de overeenkomst bepaalde.
 
 ##### Artikel 15
 
-1. De gemeente is verplicht opvang te bieden aan asielzoekers ten aanzien van wie de minister aan de gemeente een daartoe strekkend verzoek heeft gericht, tot ten hoogste een aantal asielzoekers dat gelijk is aan het aantal in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) door de gemeente beschikbaar te stellen opvangplaatsen.
+1. De gemeente is verplicht opvang te bieden aan asielzoekers ten aanzien van wie de minister aan de gemeente een daartoe strekkend verzoek heeft gericht, tot ten hoogste een aantal asielzoekers dat gelijk is aan het aantal in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01) door de gemeente beschikbaar te stellen opvangplaatsen.
 
 2. De opvang door de gemeente omvat de volgende verstrekkingen:
 
@@ -170,7 +170,7 @@ Vervallen
 
 ##### Artikel 18
 
-Voor de toepassing van dit hoofdstuk zijn de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=10&z=2002-01-01&g=2002-01-01), ten aanzien van de gemeente van overeenkomstige toepassing.
+Voor de toepassing van dit hoofdstuk zijn de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=10&z=2005-05-01&g=2005-05-01), ten aanzien van de gemeente van overeenkomstige toepassing.
 
 ##### Artikel 19
 
@@ -192,9 +192,9 @@ Het verstrekken van sociaal-culturele activiteiten houdt in het doen bieden van 
 
 ##### Artikel 22
 
-1. Indien een asielzoeker aan wie door de gemeente opvang wordt geboden, in enige maand inkomsten heeft, anders dan een uitkering op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2002-01-01&g=2002-01-01) bedoelde toelage, brengt de gemeente aan die asielzoeker een tegemoetkoming in rekening in de kosten van opvang van de betrokken asielzoeker en zijn gezinsleden. De tegemoetkoming bedraagt per maand ten hoogste € 326,72 vermeerderd met een bedrag van € 326,72 voor ieder gezinslid én met het bedrag van de toelagen die op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2002-01-01&g=2002-01-01) aan de asielzoeker en zijn gezinsleden beschikbaar worden gesteld, met dien verstande dat de tegemoetkoming niet meer bedraagt dan het bedrag van de in de eerste volzin bedoelde inkomsten.
+1. Indien een asielzoeker aan wie door de gemeente opvang wordt geboden, in enige maand inkomsten heeft, anders dan een uitkering op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2005-05-01&g=2005-05-01) bedoelde toelage, brengt de gemeente aan die asielzoeker een tegemoetkoming in rekening in de kosten van opvang van de betrokken asielzoeker en zijn gezinsleden. De tegemoetkoming bedraagt per maand ten hoogste € 326,72 vermeerderd met een bedrag van € 326,72 voor ieder gezinslid én met het bedrag van de toelagen die op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2005-05-01&g=2005-05-01) aan de asielzoeker en zijn gezinsleden beschikbaar worden gesteld, met dien verstande dat de tegemoetkoming niet meer bedraagt dan het bedrag van de in de eerste volzin bedoelde inkomsten.
 
-2. Voor de toepassing van het eerste lid worden als gezinslid aangemerkt de personen die behoren tot een van de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=13&z=2002-01-01&g=2002-01-01), omschreven categorieën indien zij met de betrokken asielzoeker in gezinsverband samenleven en hen eveneens door de gemeente opvang wordt geboden.
+2. Voor de toepassing van het eerste lid worden als gezinslid aangemerkt de personen die behoren tot een van de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=13&z=2005-05-01&g=2005-05-01), omschreven categorieën indien zij met de betrokken asielzoeker in gezinsverband samenleven en hen eveneens door de gemeente opvang wordt geboden.
 
 ##### Artikel 23
 
@@ -202,7 +202,7 @@ De gemeente doet onmiddellijk schriftelijk mededeling aan de minister van:
 
 - a. de datum waarop de opvang van de asielzoeker wordt aangevangen;
 
-- b. de datum, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), waarop de opvang van de asielzoeker wordt beëindigd;
+- b. de datum, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), waarop de opvang van de asielzoeker wordt beëindigd;
 
 - c. de datum waarop een asielzoeker aan wie door de gemeente opvang wordt geboden, is toegelaten als vluchteling.
 
@@ -214,25 +214,25 @@ De gemeente vermeldt daarbij steeds de naam, het door de minister gegeven regist
 
 2. Indien de som van de in het eerste lid bedoelde opgave vermelde bedragen kleiner is dan € 25 000 kan ter zake worden volstaan met een verklaring van het gemeentebestuur.
 
-3. Op basis van de in het eerste lid bedoelde opgave worden de bijdragen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2002-01-01&g=2002-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2002-01-01&g=2002-01-01) voor het betrokken kalenderjaar vastgesteld.
+3. Op basis van de in het eerste lid bedoelde opgave worden de bijdragen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2005-05-01&g=2005-05-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2005-05-01&g=2005-05-01) voor het betrokken kalenderjaar vastgesteld.
 
 ##### Artikel 25
 
-Aan de door de minister aan te wijzen ambtenaren worden door de gemeente alle inlichtingen verschaft en bescheiden getoond die noodzakelijk zijn voor het toezicht op een juiste uitvoering van de overeenkomst. De gemeente verleent de minister toestemming om bij de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=24&z=2002-01-01&g=2002-01-01) bedoelde deskundige inlichtingen in te winnen omtrent de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=24&z=2002-01-01&g=2002-01-01) bedoelde opgave.
+Aan de door de minister aan te wijzen ambtenaren worden door de gemeente alle inlichtingen verschaft en bescheiden getoond die noodzakelijk zijn voor het toezicht op een juiste uitvoering van de overeenkomst. De gemeente verleent de minister toestemming om bij de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=24&z=2005-05-01&g=2005-05-01) bedoelde deskundige inlichtingen in te winnen omtrent de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=24&z=2005-05-01&g=2005-05-01) bedoelde opgave.
 
 ##### Artikel 26
 
-De gemeente betaalt op vordering van de minister een bijdrage geheel of gedeeltelijk terug indien de gemeente de in de [artikelen 15 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01) gestelde voorschriften niet naleeft.
+De gemeente betaalt op vordering van de minister een bijdrage geheel of gedeeltelijk terug indien de gemeente de in de [artikelen 15 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01) gestelde voorschriften niet naleeft.
 
 ##### Artikel 27
 
-1. De minister verstrekt aan de gemeente een bijdrage in de kosten verbonden aan het bieden van de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), bedoelde verstrekkingen aan een asielzoeker op wie een mededeling als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=23&z=2002-01-01&g=2002-01-01) omtrent de aanvang van de opvang betrekking heeft.
+1. De minister verstrekt aan de gemeente een bijdrage in de kosten verbonden aan het bieden van de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), bedoelde verstrekkingen aan een asielzoeker op wie een mededeling als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=23&z=2005-05-01&g=2005-05-01) omtrent de aanvang van de opvang betrekking heeft.
 
-2. Voor de berekening van de in het eerste lid bedoelde bijdrage wordt de periode in aanmerking genomen die begint op de eerste dag van de maand waarin de verstrekkingen aan de betrokken asielzoeker worden aangevangen en die voortduurt tot en met de laatste dag van de maand waarin de datum van beëindiging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), is gelegen.
+2. Voor de berekening van de in het eerste lid bedoelde bijdrage wordt de periode in aanmerking genomen die begint op de eerste dag van de maand waarin de verstrekkingen aan de betrokken asielzoeker worden aangevangen en die voortduurt tot en met de laatste dag van de maand waarin de datum van beëindiging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), is gelegen.
 
-3. De bijdrage, bedoeld in het eerste lid, wordt voorts verstrekt zolang de gemeente van het ingaan van de datum van beëindiging van de opvang als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2002-01-01&g=2002-01-01), niet op de hoogte was althans redelijkerwijs niet redelijkerwijs op de hoogte kon zijn.
+3. De bijdrage, bedoeld in het eerste lid, wordt voorts verstrekt zolang de gemeente van het ingaan van de datum van beëindiging van de opvang als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=15&z=2005-05-01&g=2005-05-01), niet op de hoogte was althans redelijkerwijs niet redelijkerwijs op de hoogte kon zijn.
 
-4. De in het eerste lid bedoelde bijdrage bedraagt voor iedere maand een bedrag van € 326,72 vermeerderd met de aan de asielzoeker betaalde toelage, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2002-01-01&g=2002-01-01), en verminderd met de tegemoetkoming die de asielzoeker ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=22&z=2002-01-01&g=2002-01-01) aan de gemeente verschuldigd is.
+4. De in het eerste lid bedoelde bijdrage bedraagt voor iedere maand een bedrag van € 326,72 vermeerderd met de aan de asielzoeker betaalde toelage, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2005-05-01&g=2005-05-01), en verminderd met de tegemoetkoming die de asielzoeker ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=22&z=2005-05-01&g=2005-05-01) aan de gemeente verschuldigd is.
 
 ##### Artikel 27a
 
@@ -242,29 +242,29 @@ Vervallen
 
 1. De minister verstrekt aan de gemeente éénmaal per vier jaar een bijdrage in de kosten van de inrichting en het gebruiksklaar maken van woonruimte voor de huisvesting van asielzoekers.
 
-2. De bijdrage, bedoeld in het eerste lid, bedraagt € 907,56 per opvangplaats in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) beschikbaar wordt gesteld.
+2. De bijdrage, bedoeld in het eerste lid, bedraagt € 907,56 per opvangplaats in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01) beschikbaar wordt gesteld.
 
 ##### Artikel 29
 
-Indien het aantal asielzoekers aan wie de gemeente opvang biedt in een maand lager is dan het aantal in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) door de gemeente beschikbaar gehouden opvangplaatsen, verstrekt de minister aan de gemeente over die maand een bijdrage van € 99,83, vermenigvuldigd met het verschil tussen vorenbedoelde aantallen.
+Indien het aantal asielzoekers aan wie de gemeente opvang biedt in een maand lager is dan het aantal in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01) door de gemeente beschikbaar gehouden opvangplaatsen, verstrekt de minister aan de gemeente over die maand een bijdrage van € 99,83, vermenigvuldigd met het verschil tussen vorenbedoelde aantallen.
 
 ##### Artikel 30
 
-1. Bijdragen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2002-01-01&g=2002-01-01) worden verstrekt voor ten hoogste het aantal asielzoekers waaraan door de gemeente opvang wordt geboden in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01). Bijdragen als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2002-01-01&g=2002-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2002-01-01&g=2002-01-01) worden verstrekt voor ten hoogste het aantal opvangplaatsen dat in het kader van een overeenkomst als vorenbedoeld beschikbaar worden gesteld.
+1. Bijdragen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2005-05-01&g=2005-05-01) worden verstrekt voor ten hoogste het aantal asielzoekers waaraan door de gemeente opvang wordt geboden in het kader van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01). Bijdragen als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2005-05-01&g=2005-05-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2005-05-01&g=2005-05-01) worden verstrekt voor ten hoogste het aantal opvangplaatsen dat in het kader van een overeenkomst als vorenbedoeld beschikbaar worden gesteld.
 
-2. Op de bijdragen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2002-01-01&g=2002-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2002-01-01&g=2002-01-01), worden voorschotten verstrekt.
+2. Op de bijdragen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2005-05-01&g=2005-05-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2005-05-01&g=2005-05-01), worden voorschotten verstrekt.
 
-3. Bijdragen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2002-01-01&g=2002-01-01) worden vastgesteld en betaald vóór de datum vanaf welke de opvangplaatsen ingevolge een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) beschikbaar zullen worden gesteld. Deze vaststelling en betaling worden steeds na vier jaren herhaald, voor zover het desbetreffende aantal opvangplaatsen nog in het kader van een overeenkomst als vorenbedoeld door de gemeente beschikbaar wordt gehouden.
+3. Bijdragen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2005-05-01&g=2005-05-01) worden vastgesteld en betaald vóór de datum vanaf welke de opvangplaatsen ingevolge een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01) beschikbaar zullen worden gesteld. Deze vaststelling en betaling worden steeds na vier jaren herhaald, voor zover het desbetreffende aantal opvangplaatsen nog in het kader van een overeenkomst als vorenbedoeld door de gemeente beschikbaar wordt gehouden.
 
 ##### Artikel 31
 
-In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01) kan de minister met een gemeente een overeenkomst omtrent het bieden van opvang aan asielzoekers sluiten ten aanzien waarvan voor zover nodig wordt afgeweken van het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01), indien het een overeenkomst betreft omtrent het bieden van opvang aan asielzoekers die:
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01) kan de minister met een gemeente een overeenkomst omtrent het bieden van opvang aan asielzoekers sluiten ten aanzien waarvan voor zover nodig wordt afgeweken van het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01), indien het een overeenkomst betreft omtrent het bieden van opvang aan asielzoekers die:
 
-- a. specifieke aandacht en begeleiding behoeven en om die reden niet kunnen worden gehuisvest op opvangplaatsen die beschikbaar worden gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01), of;
+- a. specifieke aandacht en begeleiding behoeven en om die reden niet kunnen worden gehuisvest op opvangplaatsen die beschikbaar worden gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01), of;
 
-- b. bij een bloed- of aanverwant in de eerste of tweede graad dan wel bij hun (huwelijks)partner wonen, terwijl zij niet gehuisvest zijn op een opvangplaats die beschikbaar wordt gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01), dan wel;
+- b. bij een bloed- of aanverwant in de eerste of tweede graad dan wel bij hun (huwelijks)partner wonen, terwijl zij niet gehuisvest zijn op een opvangplaats die beschikbaar wordt gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01), dan wel;
 
-- c. wegens een te geringe capaciteit niet kunnen worden gehuisvest op opvangplaatsen die beschikbaar worden gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2002-01-01&g=2002-01-01).
+- c. wegens een te geringe capaciteit niet kunnen worden gehuisvest op opvangplaatsen die beschikbaar worden gesteld op grond van een overeenkomst als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=14&z=2005-05-01&g=2005-05-01).
 
 ### Hoofdstuk IIIA. Verstrekkingen van gemeenten aan houders van een voorwaardelijke vergunning tot verblijf
 
@@ -296,7 +296,7 @@ Vervallen
 
 ##### Artikel 32
 
-Onverminderd het bepaalde in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2002-01-01&g=2002-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2002-01-01&g=2002-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2002-01-01&g=2002-01-01), verstrekt de minister aan de gemeente tot 1 juli 1992 per asielzoeker een éénmalige bijdrage van f 200. Deze bijdrage wordt vastgesteld en betaald zo spoedig mogelijk, doch in ieder geval binnen een maand na schriftelijke mededeling van de gemeente dat de opvang van de betrokken asielzoeker door de gemeente is aangevangen.
+Onverminderd het bepaalde in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=27&z=2005-05-01&g=2005-05-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=28&z=2005-05-01&g=2005-05-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=29&z=2005-05-01&g=2005-05-01), verstrekt de minister aan de gemeente tot 1 juli 1992 per asielzoeker een éénmalige bijdrage van f 200. Deze bijdrage wordt vastgesteld en betaald zo spoedig mogelijk, doch in ieder geval binnen een maand na schriftelijke mededeling van de gemeente dat de opvang van de betrokken asielzoeker door de gemeente is aangevangen.
 
 ##### Artikel 32a
 
@@ -306,7 +306,7 @@ Onverminderd het bepaalde in de [artikelen 27](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 33
 
-De minister stelt de in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=8&z=2002-01-01&g=2002-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=9&z=2002-01-01&g=2002-01-01) en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2002-01-01&g=2002-01-01), bedoelde bedragen vast in overeenstemming met de minister van Sociale Zaken en Werkgelegenheid.
+De minister stelt de in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=8&z=2005-05-01&g=2005-05-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=II&artikel=9&z=2005-05-01&g=2005-05-01) en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005366&hoofdstuk=III&artikel=17&z=2005-05-01&g=2005-05-01), bedoelde bedragen vast in overeenstemming met de minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 34
 
