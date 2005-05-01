@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2004-02-13"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2004-02-13&g=2004-02-13);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2005-05-01&g=2005-05-01);
 
-- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2004-02-13&g=2004-02-13).
+- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2005-05-01&g=2005-05-01).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -118,7 +118,7 @@ Het algemeen bestuur is verantwoording verschuldigd aan Onze Minister. Het verst
 
 1. Bij reglement wordt vastgesteld voor welke wetenschapsgebieden er gebiedsbesturen zijn.
 
-2. Een gebiedsbestuur is, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2004-02-13&g=2004-02-13), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoekprogramma's.
+2. Een gebiedsbestuur is, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-05-01&g=2005-05-01), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoekprogramma's.
 
 3. Een gebiedsbestuur adviseert het algemeen bestuur desgevraagd of uit eigen beweging.
 
@@ -176,7 +176,7 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 
 ##### Artikel 17. Vaststelling wetenschapbudget
 
-1. Het wetenschapsbudget wordt vastgesteld uiterlijk vier jaar na het tijdstip van vaststelling van het vorige wetenschapsbudget.
+1. Het wetenschapsbudget wordt vastgesteld uiterlijk vier jaar na het tijdstip van vaststelling van het vorige wetenschapsbudget. Na overleg met de beide Kamers der Staten-Generaal kan het wetenschapsbudget uiterlijk zes maanden na het tijdstip, bedoeld in de eerste volzin, worden vastgesteld.
 
 2. Onze Minister biedt uiterlijk zes maanden voorafgaand aan het tijdstip waarop het wetenschapsbudget moet zijn vastgesteld, een ontwerp daarvan aan de beide Kamers der Staten-Generaal aan.
 
@@ -186,7 +186,7 @@ Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekki
 
 1. Het algemeen bestuur stelt, rekening houdend met voorstellen van de gebiedsbesturen, een instellingsplan vast uiterlijk vier jaar na het tijdstip van vaststelling van het vorige plan. Het algemeen bestuur zendt het plan na vaststelling onverwijld aan Onze Minister.
 
-2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2004-02-13&g=2004-02-13), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
+2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2005-05-01&g=2005-05-01), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
 
 3. Het instellingsplan omvat in elk geval:
 
@@ -228,15 +228,15 @@ Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de 
 
 1. Het algemeen bestuur zendt jaarlijks voor 1 november aan Onze Minister de begroting voor het daaropvolgende jaar.
 
-2. De begroting behelst een raming van de baten en lasten van de organisatie, een raming van de voorgenomen investeringsuitgaven en een raming van de inkomsten en uitgaven. In de begroting is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2004-02-13&g=2004-02-13). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
+2. De begroting behelst een raming van de baten en lasten van de organisatie, een raming van de voorgenomen investeringsuitgaven en een raming van de inkomsten en uitgaven. In de begroting is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-05-01&g=2005-05-01). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
 
 3. De begrotingsposten worden ieder afzonderlijk van een toelichting voorzien. Uit de toelichting blijkt steeds welke begrotingsposten betrekking hebben op de uitoefening van de bij of krachtens de wet aan de organisatie opgedragen taken dan wel op andere activiteiten.
 
-4. Tenzij de activiteiten waarop de begroting betrekking heeft nog niet eerder werden verricht, behelst de begroting een vergelijking met de begroting van het lopende jaar en de laatst goedgekeurde jaarrekening, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2004-02-13&g=2004-02-13).
+4. Tenzij de activiteiten waarop de begroting betrekking heeft nog niet eerder werden verricht, behelst de begroting een vergelijking met de begroting van het lopende jaar en de laatst goedgekeurde jaarrekening, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-05-01&g=2005-05-01).
 
 ##### Artikel 22. Goedkeuring begroting
 
-1. Het besluit tot vaststelling van de begroting, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2004-02-13&g=2004-02-13), behoeft de goedkeuring van Onze Minister.
+1. Het besluit tot vaststelling van de begroting, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2005-05-01&g=2005-05-01), behoeft de goedkeuring van Onze Minister.
 
 2. De goedkeuring wordt verleend of onthouden aan de vastgestelde begroting in haar geheel. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
@@ -272,7 +272,7 @@ Vervallen
 
 4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en inrichting van de werkzaamheden van de organisatie voldoen aan eisen van doelmatigheid.
 
-5. Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze Minister, onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2004-02-13&g=2004-02-13), bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na de ontvangst van de jaarrekening bekend aan het algemeen bestuur.
+5. Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze Minister, onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-05-01&g=2005-05-01), bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na de ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
 ##### Artikel 27. Voorschriften begroting, jaarverslag en jaarrekening
 
@@ -292,9 +292,9 @@ Vervallen
 
 Vervallen
 
-##### Artikel 30
+##### Artikel 30. Besluiten van een gebiedsbestuur
 
-Vervallen
+Een belanghebbende kan tegen een besluit van een gebiedsbestuur administratief beroep instellen bij het algemeen bestuur.
 
 #### § 2. Rechtsbescherming
 
@@ -350,7 +350,7 @@ Vervallen
 
 ##### Artikel 41. Overgangsbepaling instellingplan
 
-Het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2004-02-13&g=2004-02-13), wordt voor de eerste maal uitgebracht in het jaar 2006. Tot het tijdstip van kennisname van het standpunt door het algemeen bestuur, bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2004-02-13&g=2004-02-13), wordt, voor de toepassing van de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=2&artikel=9&z=2004-02-13&g=2004-02-13), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2004-02-13&g=2004-02-13), en [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2004-02-13&g=2004-02-13), de beleidsnota, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=17&z=2004-02-13&g=2004-02-13) zoals die bepaling luidde op de dag voorafgaande aan de inwerkingtreding van deze wet, beschouwd als instellingsplan.
+Het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-05-01&g=2005-05-01), wordt voor de eerste maal uitgebracht in het jaar 2006. Tot het tijdstip van kennisname van het standpunt door het algemeen bestuur, bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2005-05-01&g=2005-05-01), wordt, voor de toepassing van de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=2&artikel=9&z=2005-05-01&g=2005-05-01), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=21&z=2005-05-01&g=2005-05-01), en [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=3&artikel=25&z=2005-05-01&g=2005-05-01), de beleidsnota, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=17&z=2005-05-01&g=2005-05-01) zoals die bepaling luidde op de dag voorafgaande aan de inwerkingtreding van deze wet, beschouwd als instellingsplan.
 
 ##### Artikel 42
 
