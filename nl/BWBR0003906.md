@@ -4,7 +4,7 @@ identifier: "BWBR0003906"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-01"
-last_updated: "2004-02-13"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003906"
 soort: "wet"
@@ -59,7 +59,7 @@ Onze minister draagt zorg voor de samenhang en doeltreffendheid van het door de 
 
 1. Er is een Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO.
 
-2. Zij bezit rechtspersoonlijkheid en is gevestigd te 's-Gravenhage.
+2. Zij bezit rechtspersoonlijkheid en is gevestigd te Delft.
 
 ### Hoofdstuk 2. Doelstelling
 
@@ -71,13 +71,13 @@ De Organisatie heeft ten doel ertoe bij te dragen dat op toepassing gericht tech
 
 De Organisatie tracht haar doel te bereiken door:
 
-- a. het verrichten en doen verrichten van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2004-02-13&g=2004-02-13) omschreven onderzoek op werkterreinen te bepalen op eigen initiatief, dan wel na overleg met, in overeenstemming met, of in opdracht van de rijksoverheid, de lagere overheden, ondernemingen, andere maatschappelijke groeperingen en natuurlijke personen;
+- a. het verrichten en doen verrichten van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2005-05-01&g=2005-05-01) omschreven onderzoek op werkterreinen te bepalen op eigen initiatief, dan wel na overleg met, in overeenstemming met, of in opdracht van de rijksoverheid, de lagere overheden, ondernemingen, andere maatschappelijke groeperingen en natuurlijke personen;
 
-- b. het toegankelijk maken en overdragen van resultaten van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2004-02-13&g=2004-02-13) omschreven onderzoek door middel van voorlichting en advisering alsmede het begeleiden en ondersteunen van derden bij de toepassing van dit onderzoek;
+- b. het toegankelijk maken en overdragen van resultaten van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2005-05-01&g=2005-05-01) omschreven onderzoek door middel van voorlichting en advisering alsmede het begeleiden en ondersteunen van derden bij de toepassing van dit onderzoek;
 
-- c. samenwerking met andere onderzoekinstellingen ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2004-02-13&g=2004-02-13) omschreven onderzoek en
+- c. samenwerking met andere onderzoekinstellingen ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2005-05-01&g=2005-05-01) omschreven onderzoek en
 
-- d. het leveren van bijdragen aan de coördinatie van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2004-02-13&g=2004-02-13) omschreven onderzoek in Nederland en aan internationale samenwerking op dit gebied;
+- d. het leveren van bijdragen aan de coördinatie van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2005-05-01&g=2005-05-01) omschreven onderzoek in Nederland en aan internationale samenwerking op dit gebied;
 
 - e. het verrichten van de werkzaamheden die haar voorts worden opgedragen bij wet of algemene maatregel van bestuur.
 
@@ -93,7 +93,7 @@ De Organisatie heeft een raad van bestuur, een raad van toezicht en een raad voo
 
 ##### Artikel 7
 
-1. De raad van bestuur bestaat uit een voorzitter en vier andere leden. Het lidmaatschap van de raad van bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht.
+1. De raad van bestuur bestaat uit een voorzitter en ten hoogste vier andere leden. Het lidmaatschap van de raad van bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht.
 
 2. Wij benoemen en ontslaan de voorzitter en drie van de vier andere leden van de raad van bestuur op voordracht van Onze minister, gedaan in overeenstemming met het gevoelen van de raad van ministers. Wij benoemen en ontslaan het vierde andere lid van de raad van bestuur op voordracht van Onze minister van defensie, gedaan in overeenstemming met Onze minister en met het gevoelen van de raad van ministers. De raad van toezicht doet een aanbeveling voor de eerstgenoemde voordrachten, nadat hij de raad van bestuur daarover heeft gehoord. Voor de voordracht van Onze minister van defensie doen de raad van toezicht en de raad voor het defensie-onderzoek een gemeenschappelijke aanbeveling, nadat zij de raad van bestuur daarover hebben gehoord. De ondernemingsraad van de Organisatie wordt in de gelegenheid gesteld over deze aanbevelingen advies uit te brengen.
 
@@ -121,17 +121,15 @@ De Organisatie heeft een raad van bestuur, een raad van toezicht en een raad voo
 
 ##### Artikel 10
 
-1. De raad van toezicht bestaat uit een voorzitter en zeven andere leden.
+1. De raad van toezicht bestaat uit een voorzitter en zes andere leden.
 
 2. Wij benoemen en ontslaan de voorzitter en drie andere leden van de raad van toezicht op voordracht van Onze minister, gedaan in overeenstemming met het gevoelen van de raad van ministers en gehoord de raad van toezicht. Voor de voordracht van één der andere leden bedoeld in de vorige volzin wordt de ondernemingsraad van de Organisatie uitgenodigd een aanbeveling in te dienen van twee personen, die niet in dienst van de Organisatie zijn.
 
 3. Wij benoemen en ontslaan drie andere leden van de raad van toezicht op voordracht van Onze minister van economische zaken gedaan na overleg met Onze minister, in overeenstemming met het gevoelen van de raad van ministers en gehoord de raad van toezicht.
 
-4. Op voordracht van Onze minister benoemen en ontslaan Wij een ambtenaar van het departement van Onze minister als lid, met adviserende stem, van de raad van toezicht.
-
 ##### Artikel 11
 
-1. De leden van de raad van toezicht, met uitzondering van het lid bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=10&z=2004-02-13&g=2004-02-13), worden benoemd voor een tijdvak van vijf jaren, behoudens door Ons tussentijds op eigen verzoek van betrokkene, dan wel om zwaarwichtige redenen verleend ontslag, en zijn éénmaal voor een tijdvak van vijf jaren herbenoembaar. Hun wordt ontslag verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van zeventig jaren bereiken.
+1. De leden van de raad van toezicht worden benoemd voor een tijdvak van vijf jaren, behoudens door Ons tussentijds op eigen verzoek van betrokkene, dan wel om zwaarwichtige redenen verleend ontslag, en zijn éénmaal voor een tijdvak van vijf jaren herbenoembaar. Hun wordt ontslag verleend met ingang van de eerste dag van de maand, waarin zij de leeftijd van zeventig jaren bereiken.
 
 2. Zolang in een vacature in de raad van toezicht niet is voorzien, vormen de overblijvende leden de raad van toezicht.
 
@@ -141,7 +139,7 @@ De leden van de raad van bestuur wonen de vergaderingen van de raad van toezicht
 
 ##### Artikel 13
 
-1. De raad van toezicht heeft tot taak toezicht te houden op het beleid van de raad van bestuur. Hij staat de raad van bestuur met raad terzijde. Bij de vervulling van zijn taak richt de raad zich naar het belang van de Organisatie en neemt daarbij de doelstelling van de Organisatie, zoals geformuleerd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2004-02-13&g=2004-02-13), tot zijn richtlijn.
+1. De raad van toezicht heeft tot taak toezicht te houden op het beleid van de raad van bestuur. Hij staat de raad van bestuur met raad terzijde. Bij de vervulling van zijn taak richt de raad zich naar het belang van de Organisatie en neemt daarbij de doelstelling van de Organisatie, zoals geformuleerd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=2&artikel=4&z=2005-05-01&g=2005-05-01), tot zijn richtlijn.
 
 2. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze.
 
@@ -157,19 +155,21 @@ De leden van de raad van bestuur wonen de vergaderingen van de raad van toezicht
 
 1. Het bestuur van de Organisatie en hetgeen verder de inrichting van de Organisatie betreft wordt, met inachtneming van het daaromtrent bij of krachtens deze wet bepaalde, nader bij reglement geregeld door de raad van bestuur, onder goedkeuring van de raad van toezicht en, voorzover het betreft de hoofdgroep voor defensie-onderzoek van de raad voor het defensie-onderzoek. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
-2. Er zijn hoofdgroepen. Onder "hoofdgroep" wordt verstaan een organisatorische eenheid welke, met inachtneming van het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=5&artikel=16&z=2004-02-13&g=2004-02-13), bestaat uit door de raad van bestuur aangewezen instituten en/of andere onderdelen van de Organisatie. Hoofdgroepen, met uitzondering van de hoofdgroep voor defensie-onderzoek, worden ingesteld en opgeheven door de raad van bestuur, onder goedkeuring van de raad van toezicht.
+2. Het reglement, bedoeld in het eerste lid, wordt toegezonden aan Onze minister.
 
-3. Er is per hoofdgroep een programma-adviesraad met adviserende bevoegdheden. Bij algemene maatregel van bestuur worden regels gegeven over de bevoegdheden van programma-adviesraden.
+3. De Organisatie kent instituten die, met uitzondering van de instituten van de hoofdgroep voor defensie-onderzoek, worden ingesteld en opgeheven door de raad van bestuur, onder goedkeuring van de raad van toezicht.
+
+4. Er is per instituut een programma-adviesraad met adviserende bevoegdheden. Bij algemene maatregel van bestuur worden regels gegeven over de bevoegdheden van programma-adviesraden.
 
 #### § 5. Defensie-onderzoek
 
 ##### Artikel 16
 
-Er is een hoofdgroep voor defensie-onderzoek, welke bestaat uit door de raad voor het defensie-onderzoek aangewezen instituten en/of andere onderdelen.
+Er is een hoofdgroep voor defensie-onderzoek. Dit is een organisatorische eenheid die bestaat uit door de raad voor het defensie-onderzoek aangewezen instituten of andere onderdelen.
 
 ##### Artikel 17
 
-1. De raad voor het defensie-onderzoek bestaat uit een voorzitter en ten hoogste twaalf andere leden die door Ons, op voordracht van Onze minister van defensie, worden benoemd en ontslagen. Als voorzitter treedt op het lid van de raad van bestuur bedoeld in de [tweede volzin van artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=2&artikel=7&z=2004-02-13&g=2004-02-13). Bij algemene maatregel van bestuur worden nadere regels gegeven over de samenstelling van de raad voor het defensie-onderzoek en de zittingstijd van zijn leden.
+1. De raad voor het defensie-onderzoek bestaat uit een voorzitter en ten hoogste twaalf andere leden die door Ons, op voordracht van Onze minister van defensie, worden benoemd en ontslagen. Als voorzitter treedt op het lid van de raad van bestuur bedoeld in de [tweede volzin van artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=2&artikel=7&z=2005-05-01&g=2005-05-01). Bij algemene maatregel van bestuur worden nadere regels gegeven over de samenstelling van de raad voor het defensie-onderzoek en de zittingstijd van zijn leden.
 
 2. De voorzitter van de raad van bestuur heeft toegang tot de vergaderingen van de raad voor het defensie-onderzoek.
 
@@ -193,7 +193,9 @@ Er is een hoofdgroep voor defensie-onderzoek, welke bestaat uit door de raad voo
 
 2. Het strategisch plan formuleert de op middellange en lange termijn te realiseren doelstellingen en de hoofdlijnen van het daarop te richten beleid. Het omschrijft de gebieden, de richtingen, de aard en het kwaliteitsniveau van de door de Organisatie te leveren prestaties, alsmede de financiële, personele, materiële en organisatorische voorwaarden die daartoe vervuld moeten worden.
 
-3. Onze minister brengt zijn standpunt over het strategisch plan, bepaald in overeenstemming met Onze ministers van defensie, van economische zaken en van volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, binnen zes maanden na ontvangst van het plan ter kennis van de raad van bestuur. Onze minister doet daarvan en van het strategisch plan afschrift toekomen aan de Staten-Generaal.
+3. Het strategisch plan houdt rekening met het door de overheid gevoerde beleid en met het wetenschapsbudget, als bedoeld in [artikel 16a van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=16a).
+
+4. Onze minister brengt zijn standpunt over het strategisch plan, bepaald in overeenstemming met Onze ministers van defensie, van economische zaken en van volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, binnen zes maanden na ontvangst van het plan ter kennis van de raad van bestuur. Onze minister doet daarvan en van het strategisch plan afschrift toekomen aan de Staten-Generaal.
 
 ### Hoofdstuk 5. Geldmiddelen
 
@@ -203,21 +205,23 @@ De Organisatie verwerft haar geldmiddelen door het aanvaarden van van rijkswege 
 
 ##### Artikel 21
 
-1. Aan de Organisatie wordt jaarlijks van rijkswege subsidie verstrekt. De raad van bestuur dient hiertoe jaarlijks bij Onze minister een met redenen omklede aanvraag in. Het onderdeel van deze aanvraag dat de hoofdgroep voor defensie-onderzoek betreft, wordt vastgesteld door de raad voor het defensie-onderzoek.
+1. Aan de Organisatie wordt jaarlijks van rijkswege een subsidie verstrekt. De raad van bestuur dient hiertoe jaarlijks voor 1 april bij Onze minister een met redenen omklede aanvraag en begroting voor het daaropvolgende jaar in. Het onderdeel van deze aanvraag dat de hoofdgroep voor defensie-onderzoek betreft wordt vastgesteld door de raad voor defensie-onderzoek.
 
-2. De aanvraag behoeft de instemming van de raad van toezicht, met uitsluiting van het onderdeel dat de hoofdgroep voor defensie-onderzoek betreft.
+2. De begroting behelst een raming van de baten en lasten van de Organisatie en een raming van de inkomsten en uitgaven. In de begroting is een allocatie van middelen opgenomen die in overeenstemming is met het strategisch plan, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2005-05-01&g=2005-05-01).
 
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de subsidieverstrekking en over de bij de aanvraag over te leggen bescheiden. De raad van bestuur zendt van de aanvraag ende daarbij te voegen bescheiden een afschrift aan Onze ministers, wie het mede aangaat.
+3. De begrotingsposten worden ieder afzonderlijk van een toelichting voorzien. Uit de toelichting blijkt steeds welke begrotingsposten betrekking hebben op de uitoefening van de bij of krachtens de wet aan de Organisatie opgedragen taken dan wel op andere activiteiten.
 
-4. Onze minister, in overeenstemming met Onze Ministers van Defensie, van Economische Zaken en van Volksgezondheid, Welzijn en Sport en met het gevoelen van de raad van ministers, doet de raad van bestuur in de jaarlijkse beschikking tot subsidieverlening mededeling van de voor het volgende kalenderjaar ten laste van de rijksbegroting beschikbare bedragen en de verplichtingen aangaande de bestemming van deze bedragen.
+4. Tenzij de activiteiten waarop de begroting betrekking heeft nog niet eerder werden verricht, behelst de begroting een vergelijking met de begroting van het lopende jaar en de laatste jaarrekening, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=25&z=2005-05-01&g=2005-05-01). De aanvraag voor subsidie behoeft de instemming van de raad van toezicht, met uitzondering van het onderdeel dat de hoofdgroep voor defensie-onderzoek betreft.
 
-5. Bij algemene maatregel van bestuur worden regels gegeven over de vaststelling van de bedragen, bedoeld in het vierde lid.
+5. Onze minister, in overeenstemming met Onze ministers van defensie, economische zaken en volksgezondheid, welzijn en sport en met het gevoelen van de raad van ministers, doet de raad van bestuur in de jaarlijkse beschikking tot subsidieverlening mededeling van de voor het volgende kalenderjaar ten laste van de rijksbegroting beschikbare bedragen en de verdeling daarvan over de daarvoor in aanmerking komende hoofdstukken van de rijksbegroting. Onze minister geeft daarbij aan welke verplichtingen bestaan aangaande de bestemming van deze bedragen.
+
+6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de subsidieverstrekking en over de bij de aanvraag over te leggen bescheiden. De raad van bestuur zendt van de aanvraag en de daarbij te voegen bescheiden een afschrift aan Onze ministers wie het mede aangaat.
+
+7. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de vaststelling van bedragen, bedoeld in het vijfde lid.
 
 ##### Artikel 22
 
-1. Van rijkswege kunnen aan de Organisatie, volgens door Onze minister in overeenstemming met Onze minister van financiën te stellen regels, rentedragende leningen worden verstrekt. Geen andere leningen kunnen door de Organisatie worden aangegaan zonder de goedkeuring van Onze minister, gegeven in overeenstemming met Onze minister van financiën. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang
-
-2. Door de Organisatie kunnen financiële reserves worden gevormd, volgens door Onze minister in overeenstemming met Onze minister van financiën en, voorzover het betreft de hoofdgroep voor defensie-onderzoek, ook in overeenstemming met Onze minister van defensie te stellen regels.
+Door de Organisatie kunnen financiële reserves worden gevormd, volgens door Onze minister in overeenstemming met Onze minister van financiën en, voorzover het betreft de hoofdgroep voor defensie-onderzoek, ook in overeenstemming met Onze minister van defensie te stellen regels.
 
 ##### Artikel 23
 
@@ -233,41 +237,47 @@ Vervallen
 
 ##### Artikel 25
 
-1. De raad van bestuur brengt Onze minister jaarlijks vóór 1 september verslag uit van de werkzaamheden van de Organisatie en voegt daarbij de balans en verlies- en winstrekening over het afgelopen kalenderjaar. Deze stukken behoeven de instemming van de raad van toezicht, en voor wat betreft het onderdeel dat betrekking heeft op de hoofdgroep voor defensie-onderzoek van de raad voor het defensie-onderzoek. De raad van bestuur doet daarvan afschrift toekomen aan Onze ministers wie het mede aangaat.
+1. De raad van bestuur zendt jaarlijks voor 1 juli het jaarverslag en de jaarrekening over het voorafgaande kalenderjaar aan Onze minister. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid en geeft aan in hoeverre de doelstellingen uit het strategisch plan, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2005-05-01&g=2005-05-01), zijn verwezenlijkt. Deze stukken behoeven de instemming van de raad van toezicht, en voor wat betreft het onderdeel dat betrekking heeft op de hoofdgroep voor defensie-onderzoek van de raad voor het defensie-onderzoek. De raad van bestuur doet daarvan afschrift toekomen aan Onze ministers wie het mede aangaat.
 
 2. Onze minister brengt deze stukken ter kennis van de Staten-Generaal.
 
 ##### Artikel 26
 
-1. Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Financiën, de raad van bestuur gehoord, regels worden vastgesteld met betrekking tot de jaarrekening en de administratie.
+1. De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
-2. Onze minister wijst, in overeenstemming met de Algemene Rekenkamer, een accountant aan die met de controle van de jaarrekening van de Organisatie wordt belast. Het controle-programma van de accountant wordt aan de Algemene Rekenkamer overgelegd. Onze minister brengt het uitgebrachte accountantsrapport ter kennis van de Staten-Generaal en de Algemene Rekenkamer.
+2. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Bij de aanwijzing van de accountant bedingt de raad van toezicht dat aan Onze minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.
 
-3. Aan de Algemene Rekenkamer en aan de in het tweede lid bedoelde accountant wordt desverlangd inzage gegeven van de boeken en bescheiden en worden alle inlichtingen verstrekt, welke zij nodig achten om een juist inzicht te verkrijgen in het financieel beheer van de Organisatie.
+3. De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door de Organisatie.
 
-4. De Algemene Rekenkamer wijdt aandacht aan de doelmatigheid van het beheer, van de organisatorische structuur en van het functioneren van de Organisatie. Zij deelt aan Onze minister en aan de raad van bestuur de opmerkingen en bedenkingen mede, die zij naar aanleiding van de door haar verrichte controle van belang acht. De Algemene Rekenkamer verstrekt aan Onze Minister van Financiën alsmede aan de Staten-Generaal zodanige mededelingen als zij in 's Rijks belang nodig oordeelt; zij kan naar aanleiding daarvan met hen nader overleg plegen.
+4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de inrichting van de werkzaamheden van de Organisatie voldoen aan eisen van doelmatigheid.
 
-5. Ten aanzien van de Algemene Rekenkamer en van de in het tweede lid bedoelde accountant is [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=24&z=2004-02-13&g=2004-02-13), van overeenkomstige toepassing.
+5. Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de subsidie, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=5&artikel=21&z=2005-05-01&g=2005-05-01), is verleend, niet behoorlijk zijn uitgevoerd of de subsidie ondoelmatig is aangewend, kan Onze minister bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de subsidie. Hij maakt dit binnen een jaar na de ontvangst van de jaarrekening bekend aan de raad van toezicht.
+
+6. Ten aanzien van de in het tweede lid bedoelde accountant is [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=24&z=2005-05-01&g=2005-05-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging
 
 ##### Artikel 27
 
-1. De raad van toezicht neemt een besluit omtrent de goedkeuring als bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2004-02-13&g=2004-02-13), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=34&z=2004-02-13&g=2004-02-13) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=35&z=2004-02-13&g=2004-02-13), dan wel een beslissing omtrent de instemming als bedoeld in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2004-02-13&g=2004-02-13), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=5&artikel=21&z=2004-02-13&g=2004-02-13), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=25&z=2004-02-13&g=2004-02-13), binnen drie maanden na de dag waarop de stukken die goedkeuring dan wel instemming behoeven, hem zijn aangeboden.
+1. De raad van toezicht neemt een besluit omtrent de goedkeuring als bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2005-05-01&g=2005-05-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=34&z=2005-05-01&g=2005-05-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=35&z=2005-05-01&g=2005-05-01), dan wel een beslissing omtrent de instemming als bedoeld in de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2005-05-01&g=2005-05-01), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=5&artikel=21&z=2005-05-01&g=2005-05-01), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=25&z=2005-05-01&g=2005-05-01), binnen drie maanden na de dag waarop de stukken die goedkeuring dan wel instemming behoeven, hem zijn aangeboden.
 
-2. De raad voor het defensie-onderzoek neemt een besluit omtrent de goedkeuring als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2004-02-13&g=2004-02-13), dan wel een beslissing omtrent de instemming als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=25&z=2004-02-13&g=2004-02-13), binnen drie maanden na de dag waarop de stukken die goedkeuring dan wel instemming behoeven, hem zijn aangeboden.
+2. De raad voor het defensie-onderzoek neemt een besluit omtrent de goedkeuring als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2005-05-01&g=2005-05-01), dan wel een beslissing omtrent de instemming als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=6&artikel=25&z=2005-05-01&g=2005-05-01), binnen drie maanden na de dag waarop de stukken die goedkeuring dan wel instemming behoeven, hem zijn aangeboden.
 
 3. De raad van toezicht, onderscheidenlijk de raad voor het defensie-onderzoek, wordt geacht goedkeuring dan wel instemming te hebben verleend, indien hij binnen de in de vorige leden gestelde termijn van drie maanden geen besluit aan de raad van bestuur heeft gezonden.
 
 ##### Artikel 28
 
-1. De besluiten van de raad van toezicht, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=13&z=2004-02-13&g=2004-02-13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=14&z=2004-02-13&g=2004-02-13), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2004-02-13&g=2004-02-13), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=34&z=2004-02-13&g=2004-02-13), alsmede de besluiten van de raad voor defensie-onderzoek, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2004-02-13&g=2004-02-13), en [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=5&artikel=18&z=2004-02-13&g=2004-02-13), kunnen bij koninklijk besluit worden vernietigd.
+1. De besluiten van de raad van toezicht, bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=13&z=2005-05-01&g=2005-05-01), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=3&artikel=14&z=2005-05-01&g=2005-05-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2005-05-01&g=2005-05-01), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=8&artikel=34&z=2005-05-01&g=2005-05-01), alsmede de besluiten van de raad voor defensie-onderzoek, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=4&artikel=15&z=2005-05-01&g=2005-05-01), en [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=3&paragraaf=5&artikel=18&z=2005-05-01&g=2005-05-01), kunnen bij koninklijk besluit worden vernietigd.
 
 2. Het koninklijk besluit tot vernietiging wordt in het **Staatsblad** geplaatst.
 
 ##### Artikel 29
 
-Vervallen
+1. Indien de raad van bestuur naar het oordeel van Onze minister zijn taak ernstig verwaarloost, kan Onze minister de noodzakelijke voorzieningen treffen.
+
+2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de raad van bestuur in de gelegenheid is gesteld om binnen een door Onze minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.
+
+3. Onze minister stelt de beide Kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
 
 ##### Artikel 30
 
@@ -307,11 +317,11 @@ Vervallen
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven terzake van in deze wet geregelde onderwerpen, voorzover in de wet niet anders is bepaald.
 
-### Hoofdstuk 10. Overgangs- en slotbepalingen
+### Hoofdstuk 9. Nadere regels
 
 ##### Artikel 38
 
-Het strategisch plan, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2004-02-13&g=2004-02-13), wordt door de raad van bestuur voor de eerste maal bij Onze minister ingediend voor 1 april 1987.
+Het strategisch plan, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&hoofdstuk=4&artikel=19&z=2005-05-01&g=2005-05-01), wordt door de raad van bestuur voor de eerste maal bij Onze minister ingediend voor 1 april 1987.
 
 ##### Artikel 39
 
@@ -348,5 +358,23 @@ De Wet van 30 oktober 1930 tot regeling van het toegepast natuurwetenschappelijk
 1. Deze wet kan worden aangehaald als: TNO-wet.
 
 2. Zij treedt in werking op een door Ons te bepalen tijdstip.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 21a
+
+Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven, doet de raad van bestuur daarvan terstond mededeling aan Onze minister onder vermelding van de oorzaak van de verschillen.
+
+### Hoofdstuk 6. Inlichtingen, verslaglegging en controle
+
+##### Artikel 26a
+
+Bij ministeriële regeling kunnen, de raad van bestuur gehoord, nadere voorschriften worden vastgesteld voor de inrichting van de begroting, het jaarverslag en de jaarrekening.
+
+### Hoofdstuk 7. Goedkeuring, schorsing, vernietiging en taakverwaarlozingsregeling
+
+### Hoofdstuk 8. Overige onderwerpen
+
+### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
