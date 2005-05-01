@@ -240,17 +240,3 @@ Deze wet wordt met uitzondering van de [artikelen 18](https://wetten.overheid.nl
 Deze wet wordt aangehaald als: Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a. Verlenging aanwijzing van opleidingen
-
-1. Een aanwijzing als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=6&z=2007-06-13&g=2007-06-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=7&z=2007-06-13&g=2007-06-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=8&z=2007-06-13&g=2007-06-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&paragraaf=2&artikel=9&z=2007-06-13&g=2007-06-13) die betrekking heeft op de studiejaren 2005–2006 en 2006–2007 dan wel op het studiejaar 2006–2007, wordt verlengd voor het studiejaar 2007–2008, tenzij het instellingsbestuur Onze Minister voor 1 september 2007 meedeelt dat verlenging van de aanwijzing niet nodig is.
-
-2. Onze Minister kan op aanvraag van het instellingsbestuur besluiten een op grond van het eerste lid verlengde aanwijzing voor een of meer studiejaren te verlengen.
-
-#### Paragraaf 4. Overige bepalingen
-
-#### Paragraaf 5. Wijzigingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
-
-#### Paragraaf 6. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
