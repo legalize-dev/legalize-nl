@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2005-04-02"
+last_updated: "2005-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -79,7 +79,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De indicatieve bedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=3&z=2005-04-02&g=2005-04-02), worden jaarlijks voor 1 mei geïndexeerd aan de hand van de door het Centraal Planbureau in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar vastgestelde ontwikkeling van het contractloon in de marktsector.
+1. De indicatieve bedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=3&z=2005-04-02&g=2005-05-01), worden jaarlijks voor 1 mei geïndexeerd aan de hand van de door het Centraal Planbureau in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar vastgestelde ontwikkeling van het contractloon in de marktsector.
 
 2. Wijziging van de indicatieve bedragen, anders dan bedoeld in het eerste lid, vindt plaats in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.
 
@@ -105,7 +105,7 @@ Kostenopgaven bevatten voorts de volgende gegevens voor zover van toepassing op 
 
 ### **III. Indicatieve tarieven als bedoeld in artikel 1, onder f**
 
-A. De indicatieve tarieven, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=2&z=2005-04-02&g=2005-04-02), bedragen voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
+A. De indicatieve tarieven, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=2&z=2005-04-02&g=2005-05-01), bedragen voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
 
 B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.
 
