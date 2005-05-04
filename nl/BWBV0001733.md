@@ -181,19 +181,3 @@ Dit protocol is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, de Es
 De tekst van de Europaovereenkomst, met inbegrip van de bijlagen en de protocollen die daarvan een integrerend onderdeel vormen, de slotakte en de daaraan gehechte verklaringen worden opgemaakt in de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taal, zijnde die teksten evenzeer authentiek als de oorspronkelijke teksten. De Associatieraad keurt deze teksten goed.
 
 GEDAAN te Brussel, de vierde mei tweeduizend vijf.
-
-### AFDELING I
-
-#### OVEREENKOMSTSLUITENDE PARTIJEN
-
-#### HET VERSTRIJKEN VAN HET EGKS-VERDRAG
-
-### AFDELING II. LANDBOUWPRODUCTEN
-
-### AFDELING III. OORSPRONGSREGELS
-
-### AFDELING IV. Economische en monetaire unie
-
-### AFDELING V. OVERGANGSBEPALINGEN
-
-### AFDELING VI. ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
