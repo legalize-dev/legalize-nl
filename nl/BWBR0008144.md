@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2004-11-04"
+last_updated: "2005-05-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -59,11 +59,11 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - d. het op verzoek van gemeenten en provincies bemiddelen bij het verlenen van ontheffingen als bedoeld in [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149);
 
-- e. het verlenen van erkenningen als bedoeld in [artikel 70 a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70a), alsmede het schorsen, wijzigen en intrekken daarvan;
+- e. het afgeven van vervangende kentekenbewijzen in geval van vermissing van de bijbehorende kentekenplaten; [artikel 55 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=55) is van overeenkomstige toepassing;
 
-- f. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel e bedoelde erkenningen;
+- f. vervallen;
 
-- g. het met inachtneming van het bepaalde in [artikel 4 q van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) vaststellen van de tarieven, bedoeld in [artikel 70d, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70d);
+- g. vervallen;
 
 - h. het op verzoek verstrekken van een verklaring omtrent de verkrijging van kentekenplaten als bedoeld in [artikel 9 e, eerste lid, onderdeel b, van de Regeling legitimatievoorschriften kentekenbewijzen en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091&artikel=9e);
 
@@ -79,9 +79,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2004-11-04&g=2004-11-04), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2005-05-06&g=2005-05-06), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2004-11-04&g=2004-11-04) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2005-05-06&g=2005-05-06) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
