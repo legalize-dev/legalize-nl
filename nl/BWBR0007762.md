@@ -4,7 +4,7 @@ identifier: "BWBR0007762"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007762"
 soort: "ministeriele-regeling"
@@ -41,15 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-- A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1.345,24;
+- A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1352,86;
 
-- B. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen wordt vastgesteld op: € 1.227,78;
+- B. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen wordt vastgesteld op: € 1234,97;
 
-- C. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen wordt vastgesteld op: € 1.045,03;
+- C. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen wordt vastgesteld op: € 1049,68;
 
-- D. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen wordt vastgesteld op: € 805,04;
+- D. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen wordt vastgesteld op: € 805,48;
 
-- E. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen wordt vastgesteld op: € 679,37;
+- E. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen wordt vastgesteld op: € 679,84;
 
 - F. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 1.181,22;
 
