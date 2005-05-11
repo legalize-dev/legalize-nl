@@ -4,7 +4,7 @@ identifier: "BWBR0003262"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-05-11"
-last_updated: "2004-08-01"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003262"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtingen over de betrokkene of over de omstandigheden bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2003-05-23&g=2004-08-01), worden ingewonnen en te zijner beschikking gesteld, zorgt Onze Minister dat hieraan zoveel mogelijk wordt voldaan.
+Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtingen over de betrokkene of over de omstandigheden bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2005-05-11&g=2005-05-11), worden ingewonnen en te zijner beschikking gesteld, zorgt Onze Minister dat hieraan zoveel mogelijk wordt voldaan.
 
 ##### Artikel 4
 
@@ -100,7 +100,7 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 - j. het al dan niet aanwezig zijn van een der in artikel E 8 of E 9 van de pensioenwet aangegeven omstandigheden.
 
-2. Bij zijn rapport legt de arts de stukken over waarvan voor het opmaken van het rapport gebruik is gemaakt, desgewenst in gewaarmerkt afschrift, waaronder, indien aanwezig, het schriftelijk advies van de gekozen arts, alsmede de omschrijving van de betrokkene, zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2003-05-23&g=2004-08-01).
+2. Bij zijn rapport legt de arts de stukken over waarvan voor het opmaken van het rapport gebruik is gemaakt, desgewenst in gewaarmerkt afschrift, waaronder, indien aanwezig, het schriftelijk advies van de gekozen arts, alsmede de omschrijving van de betrokkene, zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2005-05-11&g=2005-05-11).
 
 ##### Artikel 5
 
@@ -114,9 +114,9 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 - a. het uittreksel uit het rapport, indien het naar zijn oordeel onvoldoende of onvolledige gegevens bevat, te doen aanvullen, zonodig na een door de arts voortgezet onderzoek;
 
-- b. zich in bijzondere gevallen het rapport met de stukken genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=4&z=2003-05-23&g=2004-08-01), te doen toezenden, zulks onder gehoudenheid de functionarissen aan te wijzen, die bij uitsluiting bevoegd zijn van een volledig rapport kennis te nemen.
+- b. zich in bijzondere gevallen het rapport met de stukken genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=4&z=2005-05-11&g=2005-05-11), te doen toezenden, zulks onder gehoudenheid de functionarissen aan te wijzen, die bij uitsluiting bevoegd zijn van een volledig rapport kennis te nemen.
 
-5. Het uittreksel uit het rapport bevat de gegevens, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=4&z=2003-05-23&g=2004-08-01), een en ander met weglating van eventuele medische gegevens.
+5. Het uittreksel uit het rapport bevat de gegevens, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=4&z=2005-05-11&g=2005-05-11), een en ander met weglating van eventuele medische gegevens.
 
 ##### Artikel 6
 
@@ -124,13 +124,13 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 2. Onze Minister is voorts bevoegd de betrokkene met diens instemming nogmaals geneeskundig te doen onderzoeken dan wel voor de tijd van ten hoogste drie maanden in een inrichting ter observatie te doen opnemen.
 
-3. Het in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=5&z=2003-05-23&g=2004-08-01), bepaalde is van overeenkomstige toepassing op het door de deskundige(n) uitgebrachte schriftelijk oordeel, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=6&z=2003-05-23&g=2004-08-01).
+3. Het in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=5&z=2005-05-11&g=2005-05-11), bepaalde is van overeenkomstige toepassing op het door de deskundige(n) uitgebrachte schriftelijk oordeel, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=6&z=2005-05-11&g=2005-05-11).
 
 ##### Artikel 7
 
 1. Onze Minister van Defensie kan nadere regels vaststellen met betrekking tot de uitvoering van dit besluit.
 
-2. Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in het eerste lid kan mandaat worden verleend aan de directeur-generaal personeel en materieel van het Ministerie van Defensie.
+2. Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in het eerste lid kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 8
 
