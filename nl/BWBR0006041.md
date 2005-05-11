@@ -4,7 +4,7 @@ identifier: "BWBR0006041"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "1998-12-23"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006041"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. ontslag: een ontslag als bedoeld in [artikel 119 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=119);
 
-- c. betrokkene: de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), aan wie ontslag bedoeld [onder **b** van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=1998-12-23&g=1998-12-23) is verleend;
+- c. betrokkene: de gewezen ambtenaar in de zin van het [Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), aan wie ontslag bedoeld [onder **b** van dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=2005-05-11&g=2005-05-11) is verleend;
 
 - d. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
 
@@ -66,17 +66,17 @@ In dit besluit wordt verstaan onder:
 
 - i. **WAO**: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- j. uitkering: de uitkering bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=3&z=1998-12-23&g=1998-12-23) van dit besluit;
+- j. uitkering: de uitkering bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=3&z=2005-05-11&g=2005-05-11) van dit besluit;
 
 - k. Reglement FPU: het Reglement flexibel pensioen en uittreden ter zake van basisuitkering en aanvullende uitkering als bedoeld in artikel 6, tweede lid, van de Centrale vut-overeenkomst overheids- en onderwijspersoneel.
 
 ##### Artikel 2
 
-1. In dit besluit wordt verstaan onder bezoldiging: de bezoldiging in de zin van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038) vermeerderd met de vakantie-uitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaand aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.
+1. In dit besluit wordt verstaan onder bezoldiging: de bezoldiging in de zin van het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) vermeerderd met de vakantie-uitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaand aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.
 
-2. In afwijking van het in het eerste lid bepaalde gelden de toelagen, genoemd in de artikelen 13 en 17, eerste lid, van het in het eerste lid genoemde besluit en de over die toelagen berekende vakantie-uitkering niet als deel van de bezoldiging.
+2. In afwijking van het in het eerste lid bepaalde maken de waarnemingstoelage, bedoeld in de [artikel 17 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=17) en de aflopende toelage onregelmatige dienst, bedoeld in de [artikel 21 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=21) en de over die toelagen berekende vakantie-uitkering geen deel uit van de bezoldiging.
 
-3. Indien de betrokkene geen ambtenaar is in de zin van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038) geldt als bezoldiging hetgeen met het in het eerste en het tweede lid daaromtrent bepaalde overeenkomt.
+3. Indien de betrokkene geen ambtenaar is in de zin van het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) geldt als bezoldiging hetgeen met het in het eerste en het tweede lid daaromtrent bepaalde overeenkomt.
 
 4. Indien de door een betrokkene over de laatste aan het ontslag voorafgaande twaalf volle kalendermaanden genoten bezoldiging in de zin van het in het eerste lid genoemde besluit, dan wel hetgeen daarmede overeenkomt, alsmede de over die maanden genoten vakantie-uitkering dan wel verkregen aanspraak daarop geheel of gedeeltelijk uit wisselende inkomsten waaronder begrepen de evengenoemde aanspraken bestonden, geldt in zoverre in afwijking van het eerste lid als bezoldiging, met inachtneming van het in het tweede en derde lid bepaalde, het gemiddelde van die inkomsten.
 
@@ -114,7 +114,7 @@ de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet p
 
 ##### Artikel 4a
 
-1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=1998-12-23&g=1998-12-23) genoemde uitkering wordt, voor zover daarop recht bestaat, verminderd met het bedrag van het flexibel pensioen krachtens het Pensioenreglement van de Stichting Pensioenfonds Abp, het bedrag van de basisuitkering krachtens het Reglement FPU en het bedrag van de aanvullende uitkering krachtens het Reglement FPU.
+1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2005-05-11&g=2005-05-11) genoemde uitkering wordt, voor zover daarop recht bestaat, verminderd met het bedrag van het flexibel pensioen krachtens het Pensioenreglement van de Stichting Pensioenfonds Abp, het bedrag van de basisuitkering krachtens het Reglement FPU en het bedrag van de aanvullende uitkering krachtens het Reglement FPU.
 
 2. Indien het bedrag van de basisuitkering is verminderd in verband met samenloop van andere inkomsten, wordt voor de toepassing van het eerste lid niettemin uitgegaan van het onverminderde bedrag.
 
@@ -122,7 +122,7 @@ de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet p
 
 4. Indien als gevolg van handelingen of nalaten van handelingen door de ambtenaar de basisuitkering of de aanvullende uitkering geheel of ten dele vervallen zijn verklaard dan wel geheel of gedeeltelijk worden geweigerd, worden deze uitkeringen voor de toepassing van dit artikel steeds aangemerkt als uitkeringen die onverminderd zijn genoten.
 
-5. Ingeval naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=1998-12-23&g=1998-12-23) genoemde uitkering inkomsten uit of in verband met arbeid of bedrijf als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23) worden genoten, wordt op de uitkering in voorkomend geval boven de vermindering die reeds krachtens het eerste lid van dit artikel plaatsvindt, een vermindering toegepast. Deze vermindering is gelijk aan het bedrag waarmede de onverminderde uitkering krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=1998-12-23&g=1998-12-23) vermeerderd met het totaal bedrag van de inkomsten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23), en verminderd met het bedrag van de inkomsten dat reeds in mindering is gebracht op de basisuitkering krachtens het Reglement FPU tezamen de laatstelijk genoten bezoldiging te boven gaat.
+5. Ingeval naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2005-05-11&g=2005-05-11) genoemde uitkering inkomsten uit of in verband met arbeid of bedrijf als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11) worden genoten, wordt op de uitkering in voorkomend geval boven de vermindering die reeds krachtens het eerste lid van dit artikel plaatsvindt, een vermindering toegepast. Deze vermindering is gelijk aan het bedrag waarmede de onverminderde uitkering krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2005-05-11&g=2005-05-11) vermeerderd met het totaal bedrag van de inkomsten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11), en verminderd met het bedrag van de inkomsten dat reeds in mindering is gebracht op de basisuitkering krachtens het Reglement FPU tezamen de laatstelijk genoten bezoldiging te boven gaat.
 
 ##### Artikel 4b
 
@@ -140,7 +140,7 @@ Voor zover betrokkene de mogelijkheid tot vrijwillige voortzetting van zijn pens
 
 4. Voor de toepassing van dit artikel wordt een uitkering op grond van de Algemene Arbeidsongeschiktheidswet, zoals die wet luidde op de dag voorafgaand aan de inwerkingtreding van de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658), alsmede een uitkering krachtens de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) aangemerkt als inkomsten in verband met arbeid.
 
-5. In afwijking van het bepaalde in de voorgaande leden wordt een tweede uitkering als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=1998-12-23&g=1998-12-23), in mindering gebracht op de eerste uitkering.
+5. In afwijking van het bepaalde in de voorgaande leden wordt een tweede uitkering als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=2005-05-11&g=2005-05-11), in mindering gebracht op de eerste uitkering.
 
 In het geval tevens inkomsten als bedoeld in het eerste en derde lid worden genoten, worden deze inkomsten, na toepassing van de eerste volzin, op de voet van het eerste lid met de tweede uitkering verrekend.
 
@@ -152,11 +152,11 @@ In het geval tevens inkomsten als bedoeld in het eerste en derde lid worden geno
 
 Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen door de betrokkene met betrekking tot de inkomsten uit of in verband met arbeid of bedrijf.
 
-2. Brengt de aard van de werkzaamheden of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23), van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
+2. Brengt de aard van de werkzaamheden of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11), van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
 
 3. Onze Minister kan bij de vaststelling van het bedrag van de vermindering van de opgave van de betrokkene afwijken.
 
-4. Het eerste, tweede en derde lid vinden overeenkomstige toepassing ten aanzien van de arbeid of bedrijf en de inkomsten daaruit, bedoeld in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23).
+4. Het eerste, tweede en derde lid vinden overeenkomstige toepassing ten aanzien van de arbeid of bedrijf en de inkomsten daaruit, bedoeld in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11).
 
 5. De betrokkene aan wie uitkering is toegekend, wordt door het aanvaarden van de uitkering geacht erin toe te stemmen, dat allen, die daarvoor naar het oordeel van Onze Minister in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.
 
@@ -208,7 +208,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens zie
 
 ##### Artikel 11
 
-Ten aanzien van de betrokkene, die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking, waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=10&z=1998-12-23&g=1998-12-23) tot het einde van de periode, waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
+Ten aanzien van de betrokkene, die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking, waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=10&z=2005-05-11&g=2005-05-11) tot het einde van de periode, waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
 
 ##### Artikel 12
 
@@ -220,9 +220,9 @@ Indien de betrokkene de gegevens, die noodzakelijk zijn voor de vaststelling of 
 
 1. De uitkering over een maand berekend, wordt in maandelijkse termijnen betaald. Met toestemming van de betrokkene kan de uitbetaling in langere termijnen geschieden.
 
-2. Zo spoedig mogelijk na het overlijden van de betrokkene aan wie uitkering is toegekend, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Wordt op de uitkering een vermindering toegepast krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4a&z=1998-12-23&g=1998-12-23), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=6&z=1998-12-23&g=1998-12-23) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=12&z=1998-12-23&g=1998-12-23), of wordt [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=9&z=1998-12-23&g=1998-12-23), toegepast, dan is de in de eerste volzin bedoelde uitkering gelijk aan het bedrag van de uitkering die de betrokkene op de dag van het overlijden ontving, over een tijdvak van drie maanden. Ingeval recht bestaat op twee uitkeringen als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=1998-12-23&g=1998-12-23), en geen vermindering, anders dan krachtens [artikel 5, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=1998-12-23&g=1998-12-23), krachtens enige bepaling van dit besluit wordt toegepast, wordt meerbedoelde uitkering gesteld op het bedrag van de hoogste bezoldiging, waarvan de betreffende uitkering is afgeleid, over een tijdvak van drie maanden. Indien zulks wel het geval is, wordt op het bedrag der uitkering in mindering gebracht de uitkering wegens overlijden, waarop aanspraak bestaat uit hoofde van een andere dienstbetrekking.
+2. Zo spoedig mogelijk na het overlijden van de betrokkene aan wie uitkering is toegekend, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging over een tijdvak van drie maanden. Wordt op de uitkering een vermindering toegepast krachtens de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4a&z=2005-05-11&g=2005-05-11), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=6&z=2005-05-11&g=2005-05-11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=12&z=2005-05-11&g=2005-05-11), of wordt [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=9&z=2005-05-11&g=2005-05-11), toegepast, dan is de in de eerste volzin bedoelde uitkering gelijk aan het bedrag van de uitkering die de betrokkene op de dag van het overlijden ontving, over een tijdvak van drie maanden. Ingeval recht bestaat op twee uitkeringen als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=1&z=2005-05-11&g=2005-05-11), en geen vermindering, anders dan krachtens [artikel 5, vijfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=5&z=2005-05-11&g=2005-05-11), krachtens enige bepaling van dit besluit wordt toegepast, wordt meerbedoelde uitkering gesteld op het bedrag van de hoogste bezoldiging, waarvan de betreffende uitkering is afgeleid, over een tijdvak van drie maanden. Indien zulks wel het geval is, wordt op het bedrag der uitkering in mindering gebracht de uitkering wegens overlijden, waarop aanspraak bestaat uit hoofde van een andere dienstbetrekking.
 
-3. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=13&z=1998-12-23&g=1998-12-23) wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner dan wel de achtergebleven partner die is aangemeld bij de Stichting Pensioenfonds ABP en door het bestuur van dat fonds als zodanig is aangemerkt.
+3. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=13&z=2005-05-11&g=2005-05-11) wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner dan wel de achtergebleven partner die is aangemeld bij de Stichting Pensioenfonds ABP en door het bestuur van dat fonds als zodanig is aangemerkt.
 
 4. De in het derde lid bedoelde gelijkstelling is niet van toepassing indien die aanmerking als partner anders dan door overlijden van de betrokken ambtenaar is geëindigd.
 
