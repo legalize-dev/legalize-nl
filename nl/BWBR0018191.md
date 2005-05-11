@@ -4,7 +4,7 @@ identifier: "BWBR0018191"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2004-08-01"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018191"
 soort: "AMvB"
@@ -37,7 +37,7 @@ entry_into_force: "2005-05-11"
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Hoofdstuk 2. Salaris
+### Hoofdstuk 1. Algemene bepalingen
 
 ### Hoofdstuk 3. Overige bezoldiging
 
@@ -55,7 +55,7 @@ entry_into_force: "2005-05-11"
 
 ##### Artikel 62. Hardheidsclausule
 
-Dit onderdeel is nog niet inwerking getreden
+Indien de billijkheid dat vordert, kan Onze Minister de ambtenaar schadeloos stellen, kosten vergoeden of overigens een geldelijke tegemoetkoming toekennen.
 
 ##### Artikel 63. [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482)
 
@@ -75,7 +75,7 @@ Wijzigt het Besluit georganiseerd overleg sector Defensie.
 
 ##### Artikel 67. [Besluit personenchauffeurs defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010280)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit personenchauffeurs defensie.
 
 ##### Artikel 68. [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0003538)
 
@@ -103,19 +103,29 @@ Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ##### Artikel 74. [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
 
 ##### Artikel 75. Intrekking besluiten
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- a. het [Besluit betaling emolumenten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006037);
+
+- b. het [Besluit maaltijdvergoeding bij overwerk burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006036);
+
+- c. het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006038);
+
+- d. het [Interimbesluit ziektekosten burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006034);
+
+- e. het [Telefoonkostenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006035).
 
 ##### Artikel 76. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, met dien verstande dat de [artikelen 63, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=63&z=2005-05-11&g=2005-05-11), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=64&z=2005-05-11&g=2005-05-11), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=65&z=2005-05-11&g=2005-05-11), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=66&z=2005-05-11&g=2005-05-11), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=68&z=2005-05-11&g=2005-05-11), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=69&z=2005-05-11&g=2005-05-11), [70, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=70&z=2005-05-11&g=2005-05-11), [71, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=71&z=2005-05-11&g=2005-05-11), [72, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=72&z=2005-05-11&g=2005-05-11), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=9&artikel=73&z=2005-05-11&g=2005-05-11) terugwerken tot en met 1 augustus 2004.
 
 ##### Artikel 77. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ## Bijlage A. (IBBAD, [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=8&z=2005-05-11&g=2004-08-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
 
@@ -1315,230 +1325,5 @@ Bedragen met ingang van 1 januari 2003 (in euro’s)
 | 14611 | 49406 | 17556 | 55433 | 20520 | 60035 | 23484 | 64386 | 26429 | 66451 |
 | 14687 | 49583 | 17651 | 55608 | 20596 | 60168 | 23560 | 64513 | 26524 | 66507 |
 | 14782 | 49754 | 17727 | 55758 | 20691 | 60284 | 23636 | 64663 | 26600 | 66576 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 44a. Inkomenstoeslag
-
-De burgerambtenaar heeft aanspraak op een inkomenstoeslag ter hoogte van € 116,67 per maand. Deze inkomenstoeslag wordt voor de ambtenaar met een deeltijdaanstelling vastgesteld op een evenredig deel van de uitkering behorend bij een voltijdaanstelling.
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 8. Verschuldigde bedragen
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2006-08-02&g=2006-01-01)) van het Inkomstenbesluit burgerlijke ambtenaren defensie
-
-Jaarsalaris burgertandartsen
-
-Bedragen met ingang van 1 januari 2003 (in euro’s)
-
-| aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11818 | 43609 |   |   |   |   |   |   |   |   |
-| 11913 | 43790 | 14858 | 49926 | 17822 | 55893 | 20767 | 60411 | 23731 | 64717 |
-| 11989 | 43965 | 14953 | 50102 | 17898 | 56022 | 20862 | 60541 | 23807 | 64773 |
-| 12084 | 44140 | 15029 | 50274 | 17993 | 56098 | 20938 | 60668 | 23902 | 64826 |
-| 12160 | 44320 | 15124 | 50447 | 18069 | 56228 | 21033 | 60797 | 23978 | 64879 |
-| 12236 | 44496 | 15200 | 50622 | 18164 | 56360 | 21109 | 60805 | 24073 | 64935 |
-| 12331 | 44671 | 15276 | 50795 | 18240 | 56492 | 21204 | 60932 | 24149 | 64988 |
-| 12407 | 44849 | 15371 | 50970 | 18316 | 56624 | 21280 | 61059 | 24244 | 65042 |
-| 12502 | 45027 | 15447 | 51143 | 18411 | 56754 | 21356 | 61189 | 24320 | 65098 |
-| 12578 | 45207 | 15542 | 51316 | 18487 | 56886 | 21451 | 61313 | 24396 | 65151 |
-| 12673 | 45382 | 15618 | 51491 | 18582 | 57018 | 21527 | 61440 | 24491 | 65204 |
-| 12749 | 45560 | 15713 | 51664 | 18658 | 57147 | 21622 | 61570 | 24567 | 65260 |
-| 12844 | 45738 | 15789 | 51788 | 18753 | 57280 | 21698 | 61699 | 24662 | 65314 |
-| 12920 | 45913 | 15884 | 51961 | 18829 | 57412 | 21793 | 61826 | 24738 | 65369 |
-| 12996 | 46091 | 15960 | 52134 | 18924 | 57541 | 21869 | 61956 | 24833 | 65423 |
-| 13091 | 46269 | 16036 | 52309 | 19000 | 57673 | 21964 | 62083 | 24909 | 65474 |
-| 13167 | 46444 | 16131 | 52481 | 19076 | 57805 | 22040 | 62210 | 25004 | 65529 |
-| 13262 | 46619 | 16207 | 52654 | 19171 | 57937 | 22116 | 62339 | 25080 | 65585 |
-| 13338 | 46800 | 16302 | 52829 | 19247 | 58067 | 22211 | 62466 | 25156 | 65639 |
-| 13433 | 46975 | 16378 | 53005 | 19342 | 58199 | 22287 | 62596 | 25251 | 65695 |
-| 13509 | 47150 | 16473 | 53177 | 19418 | 58331 | 22382 | 62723 | 25327 | 65748 |
-| 13604 | 47330 | 16549 | 53350 | 19513 | 58461 | 22458 | 62852 | 25422 | 65801 |
-| 13680 | 47506 | 16644 | 53523 | 19589 | 58593 | 22553 | 62979 | 25498 | 65857 |
-| 13756 | 47683 | 16720 | 53698 | 19684 | 58725 | 22629 | 63109 | 25593 | 65910 |
-| 13851 | 47861 | 16796 | 53871 | 19760 | 58857 | 22724 | 63236 | 25669 | 65964 |
-| 13927 | 47991 | 16891 | 54044 | 19836 | 58986 | 22800 | 63360 | 25764 | 66017 |
-| 14022 | 48166 | 16967 | 54219 | 19931 | 59119 | 22876 | 63490 | 25840 | 66070 |
-| 14098 | 48344 | 17062 | 54394 | 20007 | 59248 | 22971 | 63617 | 25916 | 66126 |
-| 14193 | 48522 | 17138 | 54567 | 20102 | 59380 | 23047 | 63746 | 26011 | 66182 |
-| 14269 | 48697 | 17233 | 54740 | 20178 | 59510 | 23142 | 63873 | 26106 | 66236 |
-| 14364 | 48875 | 17309 | 54915 | 20273 | 59644 | 23218 | 64000 | 26182 | 66289 |
-| 14440 | 49052 | 17404 | 55088 | 20349 | 59774 | 23313 | 64130 | 26258 | 66345 |
-| 14516 | 49228 | 17480 | 55263 | 20444 | 59906 | 23389 | 64257 | 26353 | 66396 |
-| 14611 | 49406 | 17556 | 55433 | 20520 | 60035 | 23484 | 64386 | 26429 | 66451 |
-| 14687 | 49583 | 17651 | 55608 | 20596 | 60168 | 23560 | 64513 | 26524 | 66507 |
-| 14782 | 49754 | 17727 | 55758 | 20691 | 60284 | 23636 | 64663 | 26600 | 66576 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 49a. Tijdelijke maatregel bij de vergoeding voor overwerk
-
-1. De commandant kent aan de ambtenaar met salarisschaal 11 en 12 een vergoeding voor overwerk als bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2007-12-29&g=2007-10-01), toe, indien de ambtenaar in de periode van 1 oktober 2007 tot en met 28 februari 2009 in opdracht van de commandant overwerk verricht.
-
-2. [Artikel 49, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=6&artikel=49&z=2007-12-29&g=2007-10-01), zijn van overeenkomstige toepassing.
-
-3. De vergoeding voor overwerk bedraagt per uur de helft van het voor de ambtenaar geldende salaris per uur.
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 8. Verschuldigde bedragen
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage C. bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2007-12-29&g=2007-10-01), IBBAD
-
-**Jaarsalaris burgertandartsen**
-
-**Bedragen met ingang van 1 januari 2007 (in euro's)**
-
-| aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris | aantal punten per jaar | jaarsalaris |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11818 | 44679 |   |   |   |   |   |   |   |   |
-| 11913 | 44865 | 14858 | 51152 | 17822 | 57266 | 20767 | 61894 | 23731 | 66306 |
-| 11989 | 45044 | 14953 | 51332 | 17898 | 57397 | 20862 | 62028 | 23807 | 66363 |
-| 12084 | 45224 | 15029 | 51508 | 17993 | 57475 | 20938 | 62158 | 23902 | 66418 |
-| 12160 | 45408 | 15124 | 51686 | 18069 | 57609 | 21033 | 62290 | 23978 | 66472 |
-| 12236 | 45589 | 15200 | 51865 | 18164 | 57744 | 21109 | 62298 | 24073 | 66530 |
-| 12331 | 45768 | 15276 | 52042 | 18240 | 57879 | 21204 | 62429 | 24149 | 66584 |
-| 12407 | 45951 | 15371 | 52221 | 18316 | 58015 | 21280 | 62558 | 24244 | 66639 |
-| 12502 | 46133 | 15447 | 52399 | 18411 | 58148 | 21356 | 62691 | 24320 | 66696 |
-| 12578 | 46318 | 15542 | 52576 | 18487 | 58282 | 21451 | 62819 | 24396 | 66750 |
-| 12673 | 46496 | 15618 | 52756 | 18582 | 58418 | 21527 | 62949 | 24491 | 66805 |
-| 12749 | 46678 | 15713 | 52933 | 18658 | 58550 | 21622 | 63082 | 24567 | 66863 |
-| 12844 | 46861 | 15789 | 53059 | 18753 | 58686 | 21698 | 63214 | 24662 | 66918 |
-| 12920 | 47040 | 15884 | 53237 | 18829 | 58822 | 21793 | 63344 | 24738 | 66974 |
-| 12996 | 47223 | 15960 | 53414 | 18924 | 58954 | 21869 | 63477 | 24833 | 67029 |
-| 13091 | 47405 | 16036 | 53594 | 19000 | 59089 | 21964 | 63608 | 24909 | 67081 |
-| 13167 | 47585 | 16131 | 53770 | 19076 | 59225 | 22040 | 63738 | 25004 | 67138 |
-| 13262 | 47764 | 16207 | 53947 | 19171 | 59360 | 22116 | 63869 | 25080 | 67196 |
-| 13338 | 47950 | 16302 | 54126 | 19247 | 59492 | 22211 | 64000 | 25156 | 67251 |
-| 13433 | 48128 | 16378 | 54306 | 19342 | 59628 | 22287 | 64133 | 25251 | 67308 |
-| 13509 | 48307 | 16473 | 54483 | 19418 | 59763 | 22382 | 64263 | 25327 | 67362 |
-| 13604 | 48492 | 16549 | 54660 | 19513 | 59896 | 22458 | 64396 | 25422 | 67417 |
-| 13680 | 48672 | 16644 | 54838 | 19589 | 60032 | 22553 | 64526 | 25498 | 67474 |
-| 13756 | 48854 | 16720 | 55016 | 19684 | 60167 | 22629 | 64658 | 25593 | 67528 |
-| 13851 | 49036 | 16796 | 55194 | 19760 | 60302 | 22724 | 64789 | 25669 | 67584 |
-| 13927 | 49170 | 16891 | 55371 | 19836 | 60435 | 22800 | 64916 | 25764 | 67638 |
-| 14022 | 49349 | 16967 | 55551 | 19931 | 60571 | 22876 | 65049 | 25840 | 67693 |
-| 14098 | 49532 | 17062 | 55730 | 20007 | 60702 | 22971 | 65180 | 25916 | 67750 |
-| 14193 | 49713 | 17138 | 55906 | 20102 | 60838 | 23047 | 65311 | 26011 | 67807 |
-| 14269 | 49892 | 17233 | 56084 | 20178 | 60971 | 23142 | 65441 | 26106 | 67862 |
-| 14364 | 50075 | 17309 | 56263 | 20273 | 61108 | 23218 | 65572 | 26182 | 67916 |
-| 14440 | 50256 | 17404 | 56441 | 20349 | 61242 | 23313 | 65705 | 26258 | 67975 |
-| 14516 | 50437 | 17480 | 56620 | 20444 | 61377 | 23389 | 65835 | 26353 | 68027 |
-| 14611 | 50619 | 17556 | 56795 | 20520 | 61509 | 23484 | 65967 | 26429 | 68083 |
-| 14687 | 50801 | 17651 | 56973 | 20596 | 61646 | 23560 | 66097 | 26524 | 68140 |
-| 14782 | 50976 | 17727 | 57127 | 20691 | 61764 | 23636 | 66251 | 26600 | 68211 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 24a. Uitkering premievrijval aftoppingsgrens pensioengevend inkomen
-
-1. In dit artikel wordt verstaan onder:
-
-- –. **pensioengevend inkomen:** de som van de inkomensbestanddelen, die op grond van de pensioenregeling voor burgerambtenaren, die geldt tot 1 januari 2019, pensioengevend zijn voor de opbouw van aanspraken op ouderdomspensioen en het daarvan afgeleide partnerpensioen en wezenpensioen;
-
-- –. **aftoppingsgrens:** de aftoppingsgrens van het pensioengevend inkomen op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
-
-2. De ambtenaar heeft aanspraak op een uitkering indien zijn pensioengevend inkomen wordt afgetopt op basis van [artikel 18ga van de Wet op de Loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga).
-
-3. De uitkering, bedoeld in het tweede lid, wordt berekend door het werkgeversdeel van de premie voor ouderdoms- en nabestaandenpensioen te vermenigvuldigen met het pensioengevend inkomen boven de aftoppingsgrens.
-
-4. Dit artikel is niet van toepassing op de ambtenaar wiens salaris de ontwikkeling volgt van de sector Rijk.
-
-### Hoofdstuk 4. Bezoldiging tijdens ziekte
-
-### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
-
-### Hoofdstuk 6. Overige inkomsten
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 8. Verschuldigde bedragen
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2021-02-12&g=2015-01-01))
-
-**Jaarsalaris burgertandartsen**
-
-**Bedragen met ingang van 1 maart 2012**
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 75a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2021-02-12&g=2020-01-01))
-
-**Jaarsalaris burgertandartsen**
-
-**Bedragen met ingang van 1 januari 2018**
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11a. Overgangsbepaling salaristabel 1 januari 2023
-
-Het salarisnummer van de ambtenaar op wie salarisschaal 3, 4, 5, 6 of 7 van toepassing is, wordt met ingang van 1 januari 2023 met één salarisnummer verhoogd.
-
-### Hoofdstuk 3. Overige bezoldiging
-
-### Hoofdstuk 4. Bezoldiging tijdens ziekte
-
-### Hoofdstuk 5. Bezoldiging tijdens bijzondere situaties
-
-### Hoofdstuk 6. Overige inkomsten
-
-### Hoofdstuk 7. Tegemoetkoming ziektekostenverzekering
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage C. (IBBAD, [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&hoofdstuk=2&artikel=14&z=2025-01-17&g=2023-01-01))
-
-**Jaarsalaris burgertandartsen**
-
-| **aantal punten per jaar** | **jaarsalaris** | **aantal punten per jaar** | **jaarsalaris** | **aantal punten per jaar** | **jaarsalaris** | **aantal punten per jaar** | **jaarsalaris** | **aantal punten per jaar** | **jaarsalaris** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11.818 | 55.638 |   |   |   |   |   |   |   |   |
-| 11.913 | 55.870 | 14.858 | 63.700 | 17.822 | 71.312 | 20.767 | 77.077 | 23.731 | 82.573 |
-| 11.989 | 56.094 | 14.953 | 63.923 | 17.898 | 71.476 | 20.862 | 77.242 | 23.807 | 82.640 |
-| 12.084 | 56.316 | 15.029 | 64.144 | 17.993 | 71.572 | 20.938 | 77.406 | 23.902 | 82.711 |
-| 12.160 | 56.545 | 15.124 | 64.365 | 18.069 | 71.739 | 21.033 | 77.567 | 23.978 | 82.775 |
-| 12.236 | 56.772 | 15.200 | 64.586 | 18.164 | 71.909 | 21.109 | 77.578 | 24.073 | 82.850 |
-| 12.331 | 56.993 | 15.276 | 64.807 | 18.240 | 72.076 | 21.204 | 77.742 | 24.149 | 82.919 |
-| 12.407 | 57.222 | 15.371 | 65.029 | 18.316 | 72.245 | 21.280 | 77.903 | 24.244 | 82.986 |
-| 12.502 | 57.449 | 15.447 | 65.253 | 18.411 | 72.410 | 21.356 | 78.068 | 24.320 | 83.056 |
-| 12.578 | 57.681 | 15.542 | 65.471 | 18.487 | 72.578 | 21.451 | 78.228 | 24.396 | 83.121 |
-| 12.673 | 57.900 | 15.618 | 65.696 | 18.582 | 72.748 | 21.527 | 78.390 | 24.491 | 83.192 |
-| 12.749 | 58.127 | 15.713 | 65.918 | 18.658 | 72.911 | 21.622 | 78.556 | 24.567 | 83.262 |
-| 12.844 | 58.357 | 15.789 | 66.072 | 18.753 | 73.081 | 21.698 | 78.718 | 24.662 | 83.331 |
-| 12.920 | 58.578 | 15.884 | 66.295 | 18.829 | 73.249 | 21.793 | 78.881 | 24.738 | 83.402 |
-| 12.996 | 58.805 | 15.960 | 66.514 | 18.924 | 73.415 | 21.869 | 79.047 | 24.833 | 83.469 |
-| 13.091 | 59.032 | 16.036 | 66.739 | 19.000 | 73.582 | 21.964 | 79.210 | 24.909 | 83.536 |
-| 13.167 | 59.256 | 16.131 | 66.958 | 19.076 | 73.752 | 22.040 | 79.372 | 25.004 | 83.604 |
-| 13.262 | 59.478 | 16.207 | 67.180 | 19.171 | 73.919 | 22.116 | 79.536 | 25.080 | 83.677 |
-| 13.338 | 59.713 | 16.302 | 67.400 | 19.247 | 74.083 | 22.211 | 79.697 | 25.156 | 83.747 |
-| 13.433 | 59.933 | 16.378 | 67.625 | 19.342 | 74.254 | 22.287 | 79.864 | 25.251 | 83.817 |
-| 13.509 | 60.158 | 16.473 | 67.847 | 19.418 | 74.422 | 22.382 | 80.026 | 25.327 | 83.886 |
-| 13.604 | 60.387 | 16.549 | 68.066 | 19.513 | 74.589 | 22.458 | 80.191 | 25.422 | 83.952 |
-| 13.680 | 60.611 | 16.644 | 68.287 | 19.589 | 74.756 | 22.553 | 80.353 | 25.498 | 84.026 |
-| 13.756 | 60.838 | 16.720 | 68.511 | 19.684 | 74.925 | 22.629 | 80.518 | 25.593 | 84.092 |
-| 13.851 | 61.065 | 16.796 | 68.732 | 19.760 | 75.093 | 22.724 | 80.682 | 25.669 | 84.161 |
-| 13.927 | 61.230 | 16.891 | 68.953 | 19.836 | 75.257 | 22.800 | 80.839 | 25.764 | 84.229 |
-| 14.022 | 61.453 | 16.967 | 69.178 | 19.931 | 75.429 | 22.876 | 81.003 | 25.840 | 84.297 |
-| 14.098 | 61.683 | 17.062 | 69.398 | 20.007 | 75.592 | 22.971 | 81.169 | 25.916 | 84.369 |
-| 14.193 | 61.909 | 17.138 | 69.618 | 20.102 | 75.760 | 23.047 | 81.331 | 26.011 | 84.439 |
-| 14.269 | 62.129 | 17.233 | 69.840 | 20.178 | 75.928 | 23.142 | 81.492 | 26.106 | 84.509 |
-| 14.364 | 62.357 | 17.309 | 70.062 | 20.273 | 76.097 | 23.218 | 81.656 | 26.182 | 84.575 |
-| 14.440 | 62.582 | 17.404 | 70.284 | 20.349 | 76.263 | 23.313 | 81.822 | 26.258 | 84.648 |
-| 14.516 | 62.806 | 17.480 | 70.507 | 20.444 | 76.432 | 23.389 | 81.985 | 26.353 | 84.713 |
-| 14.611 | 63.036 | 17.556 | 70.726 | 20.520 | 76.596 | 23.484 | 82.148 | 26.429 | 84.782 |
-| 14.687 | 63.263 | 17.651 | 70.948 | 20.596 | 76.767 | 23.560 | 82.310 | 26.524 | 84.854 |
-| 14.782 | 63.480 | 17.727 | 71.138 | 20.691 | 76.913 | 23.636 | 82.500 | 26.600 | 84.943 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
