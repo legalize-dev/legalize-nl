@@ -4,7 +4,7 @@ identifier: "BWBR0006043"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2004-08-01"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006043"
 soort: "AMvB"
@@ -154,11 +154,11 @@ Onze Minister kan regels stellen ter voorkoming of beperking van samenloop van u
 
 ##### Artikel 11a
 
-Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de[artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=10&z=2003-05-23&g=2004-08-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=11&z=2003-05-23&g=2004-08-01) kan mandaat worden verleend aan de directeur-generaal personeel en materieel van het Ministerie van Defensie.
+Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=10&z=2005-05-11&g=2005-05-11) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=11&z=2005-05-11&g=2005-05-11) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
 ##### Artikel 12
 
-1. Een betrokkene als bedoeld in [artikel 1, onder **e**, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=2003-05-23&g=2004-08-01), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
+1. Een betrokkene als bedoeld in [artikel 1, onder **e**, onderdelen 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006043&artikel=1&z=2005-05-11&g=2005-05-11), die bezwaar heeft tegen een beslissing welke te zijnen aanzien ter uitvoering van dit besluit is genomen, kan tegen die beslissing bezwaar maken.
 
 2. [Artikel 3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) is van overeenkomstige toepassing.
 
