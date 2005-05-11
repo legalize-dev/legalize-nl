@@ -4,7 +4,7 @@ identifier: "BWBR0006042"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2004-08-01"
+last_updated: "2005-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006042"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - d. centrale: een centrale van verenigingen, welke zich mede ten doel stellen het behartigen van de belangen van de militaire ambtenaren of de ambtenaren op het terrein van de rechtstoestand;
 
-- e. sectorcommissie: de commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=2&z=2003-05-23&g=2004-08-01);
+- e. sectorcommissie: de commissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=2&z=2005-05-11&g=2005-05-11);
 
-- f. bijzondere commissie: een commissie, genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2003-05-23&g=2004-08-01);
+- f. bijzondere commissie: een commissie, genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2005-05-11&g=2005-05-11);
 
 - g. ministerie: het Ministerie van Defensie en de daaronder ressorterende diensten, bedrijven en instellingen;
 
@@ -88,7 +88,7 @@ Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelege
 
 - e. de implementatie van verplichtingen voortvloeiend uit een verdrag of uit een besluit van een volkenrechtelijke organisatie;
 
-5. Indien in het overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het vierde lid onder d, voldaan wordt aan de voorwaarde dat het totaal van rechten en verplichtingen van militaire ambtenaren of ambtenaren over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan arbitrage door de advies- en arbitragecommissie, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2003-05-23&g=2004-08-01).
+5. Indien in het overleg een geschil ontstaat over de vraag of bij een voorstel als bedoeld in het vierde lid onder d, voldaan wordt aan de voorwaarde dat het totaal van rechten en verplichtingen van militaire ambtenaren of ambtenaren over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan arbitrage door de advies- en arbitragecommissie, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2005-05-11&g=2005-05-11).
 
 ##### Artikel 4
 
@@ -106,7 +106,7 @@ Er is een sectorcommissie Defensie voor het georganiseerd overleg over aangelege
 
 3. Een toelating krachtens het tweede lid vindt niet plaats, alvorens Onze Minister daarover het advies van de sectorcommissie heeft ingewonnen.
 
-4. Bij koninklijk besluit kan een toelating tot het overleg krachtens het eerste lid worden geschorst en kan een toelating tot het overleg krachtens het tweede lid, dan wel een toelating krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=5&z=2003-05-23&g=2004-08-01) worden ingetrokken, indien de centrale niet meer representatief is, dan wel het algemeen belang of het belang van een goed overleg zich tegen verdere deelneming aan het overleg verzet.
+4. Bij koninklijk besluit kan een toelating tot het overleg krachtens het eerste lid worden geschorst en kan een toelating tot het overleg krachtens het tweede lid, dan wel een toelating krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=5&z=2005-05-11&g=2005-05-11) worden ingetrokken, indien de centrale niet meer representatief is, dan wel het algemeen belang of het belang van een goed overleg zich tegen verdere deelneming aan het overleg verzet.
 
 5. Vanaf de dag waarop het voornemen tot schorsing dan wel intrekking van de toelating tot het overleg aan het bestuur van de betrokken centrale kenbaar is gemaakt, tot aan de dag waarop daarover een beslissing is genomen, nemen vertegenwoordigers van deze centrale niet meer deel aan het overleg.
 
@@ -128,7 +128,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. Het overleg met de sectorcommissie staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan de directeur-generaal personeel en materieel van het ministerie, indien de aard van de te bespreken aangelegenheden dit toelaat.
+1. Het overleg met de sectorcommissie staat onder leiding van Onze Minister. Onze Minister is bevoegd de leiding van het overleg op te dragen aan de hoofddirecteur personeel van het ministerie, indien de aard van de te bespreken aangelegenheden dit toelaat.
 
 2. Onze Minister wijst functionarissen aan die hem, of de functionaris die namens hem het overleg voert, bij het overleg terzijde staan.
 
@@ -138,15 +138,15 @@ Vervallen
 
 ##### Artikel 8
 
-1. De centrale die van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2003-05-23&g=2004-08-01), genoemde bevoegdheid gebruik maakt, doet aan Onze Minister mededeling van de statuten, het huishoudelijk reglement en van de daarin aangebrachte wijzigingen, alsmede van de statuten en de daarin aangebrachte wijzigingen van de bij die centrale aangesloten verenigingen die militaire ambtenaren of ambtenaren als leden hebben.
+1. De centrale die van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2005-05-11&g=2005-05-11), genoemde bevoegdheid gebruik maakt, doet aan Onze Minister mededeling van de statuten, het huishoudelijk reglement en van de daarin aangebrachte wijzigingen, alsmede van de statuten en de daarin aangebrachte wijzigingen van de bij die centrale aangesloten verenigingen die militaire ambtenaren of ambtenaren als leden hebben.
 
 2. Bij de aanvang van elk kalenderjaar verstrekt iedere centrale aan Onze Minister een opgave van het aantal militaire ambtenaren en het aantal ambtenaren dat lid is van de bij die centrale aangesloten verenigingen.
 
 ##### Artikel 9
 
-1. Aangelegenheden, die ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) in het overleg met de sectorcommissie worden behandeld, of waarover deze commissie moet worden gehoord, worden door Onze Minister voorgelegd aan de sectorcommissie.
+1. Aangelegenheden, die ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) in het overleg met de sectorcommissie worden behandeld, of waarover deze commissie moet worden gehoord, worden door Onze Minister voorgelegd aan de sectorcommissie.
 
-2. Elke centrale die in de sectorcommissie is vertegenwoordigd, kan Onze Minister verzoeken een aangelegenheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) in een vergadering van het overleg te behandelen. Aan het verzoek wordt voldaan, tenzij het onderwerp naar het oordeel van Onze Minister niet of nog niet voor behandeling in het overleg geschikt is. De betrokken centrale wordt daarvan in dat geval schriftelijk mededeling gedaan, onder vermelding van de redenen die aan deze beslissing ten grondslag liggen.
+2. Elke centrale die in de sectorcommissie is vertegenwoordigd, kan Onze Minister verzoeken een aangelegenheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) in een vergadering van het overleg te behandelen. Aan het verzoek wordt voldaan, tenzij het onderwerp naar het oordeel van Onze Minister niet of nog niet voor behandeling in het overleg geschikt is. De betrokken centrale wordt daarvan in dat geval schriftelijk mededeling gedaan, onder vermelding van de redenen die aan deze beslissing ten grondslag liggen.
 
 ##### Artikel 10
 
@@ -158,13 +158,13 @@ Vervallen
 
 ##### Artikel 11
 
-1. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) voorbereidende besprekingen te voeren of in het overleg naar voren gekomen standpunten uit te werken, wordt die voorbereiding of uitwerking verricht door werkgroepen, bestaande uit leden of plaatsvervangende leden van de sectorcommissie, aangewezen door deze commissie en uit functionarissen, aangewezen door Onze Minister.
+1. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) voorbereidende besprekingen te voeren of in het overleg naar voren gekomen standpunten uit te werken, wordt die voorbereiding of uitwerking verricht door werkgroepen, bestaande uit leden of plaatsvervangende leden van de sectorcommissie, aangewezen door deze commissie en uit functionarissen, aangewezen door Onze Minister.
 
-2. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01), die uitsluitend militaire ambtenaren of uitsluitend ambtenaren betreffen, voorbereidende besprekingen te voeren of in het overleg naar voren gekomen standpunten uit te werken, kan die voorbereiding of die uitwerking verricht worden door een kamer voor militaire ambtenaren onderscheidenlijk een kamer voor ambtenaren, bestaande uit leden of plaatsvervangende leden van de sectorcommissie, aangewezen door deze commissie, en uit functionarissen aangewezen door Onze Minister. De leden of plaatsvervangende leden van de sectorcommissie kunnen zich voor het overleg in een kamer laten vervangen.
+2. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11), die uitsluitend militaire ambtenaren of uitsluitend ambtenaren betreffen, voorbereidende besprekingen te voeren of in het overleg naar voren gekomen standpunten uit te werken, kan die voorbereiding of die uitwerking verricht worden door een kamer voor militaire ambtenaren onderscheidenlijk een kamer voor ambtenaren, bestaande uit leden of plaatsvervangende leden van de sectorcommissie, aangewezen door deze commissie, en uit functionarissen aangewezen door Onze Minister. De leden of plaatsvervangende leden van de sectorcommissie kunnen zich voor het overleg in een kamer laten vervangen.
 
 3. Een werkgroep en een kamer staan onder leiding van een door Onze Minister aangewezen functionaris.
 
-4. Op het deelnemen aan een vergadering van een werkgroep of kamer is [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2003-05-23&g=2004-08-01), van overeenkomstige toepassing.
+4. Op het deelnemen aan een vergadering van een werkgroep of kamer is [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2005-05-11&g=2005-05-11), van overeenkomstige toepassing.
 
 5. De sectorcommissie is bevoegd over een aangelegenheid die haar ter behandeling is voorgelegd het advies in te winnen van een bijzondere commissie. De voorzitter van het overleg met de sectorcommissie kan aanwijzingen geven omtrent de behandeling van die aangelegenheid in het overleg met een bijzondere commissie.
 
@@ -174,15 +174,15 @@ Het standpunt van de sectorcommissie wordt bepaald bij eenvoudige meerderheid va
 
 ##### Artikel 13
 
-In de [artikelen 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=14&z=2003-05-23&g=2004-08-01) wordt verstaan onder:
+In de [artikelen 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=14&z=2005-05-11&g=2005-05-11) wordt verstaan onder:
 
 - a. deelnemers aan het overleg: de voorzitter en de tot het overleg toegelaten centrales;
 
-- b. advies- en arbitragecommissie: de Advies- en Arbitragecommissie genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2003-05-23&g=2004-08-01).
+- b. advies- en arbitragecommissie: de Advies- en Arbitragecommissie genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2005-05-11&g=2005-05-11).
 
 ##### Artikel 14
 
-De [artikelen 15 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2003-05-23&g=2004-08-01) zijn slechts van toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01), voorzover die aangelegenheden uitsluitend de rechtstoestand van militaire ambtenaren of ambtenaren, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, betreffen.
+De [artikelen 15 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2005-05-11&g=2005-05-11) zijn slechts van toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11), voorzover die aangelegenheden uitsluitend de rechtstoestand van militaire ambtenaren of ambtenaren, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, betreffen.
 
 ##### Artikel 15
 
@@ -190,7 +190,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 ##### Artikel 16
 
-1. Binnen vijf dagen na de kennisgeving, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2003-05-23&g=2004-08-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen één week, nadat deze is uitgeschreven.
+1. Binnen vijf dagen na de kennisgeving, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=15&z=2005-05-11&g=2005-05-11), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen één week, nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter en de sectorcommissie wordt besloten het overleg voort te zetten dan wel te beëindigen, wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg, nadat het advies is ingewonnen van de advies- en arbitragecommissie, dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van de advies- en arbitragecommissie.
 
@@ -200,7 +200,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 ##### Artikel 17
 
-1. Binnen drie dagen na de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2003-05-23&g=2004-08-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de advies- en arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken, en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2003-05-23&g=2004-08-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen ter kennis van de voorzitter van de advies- en arbitragecommissie.
+1. Binnen drie dagen na de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2005-05-11&g=2005-05-11), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de advies- en arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken, en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=16&z=2005-05-11&g=2005-05-11), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen ter kennis van de voorzitter van de advies- en arbitragecommissie.
 
 2. De eerste zin van het eerste lid is van overeenkomstige toepassing op het onderwerpen van het geschil aan een arbitrale uitspraak. Het verzoek daartoe wordt ondertekend door alle deelnemers aan het overleg en dient tenminste te bevatten:
 
@@ -228,7 +228,7 @@ Indien de voorzitter dan wel één of meer van de centrales, in het overleg tot 
 
 2. Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de advies- en arbitragecommissie reeds advies is uitgebracht, treedt voor een lid dat bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.
 
-3. De voorzitter van de advies- en arbitragecommissie draagt er zorg voor dat het advies of de uitspraak binnen vier weken nadat de kennisgeving, genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=17&z=2003-05-23&g=2004-08-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
+3. De voorzitter van de advies- en arbitragecommissie draagt er zorg voor dat het advies of de uitspraak binnen vier weken nadat de kennisgeving, genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=17&z=2005-05-11&g=2005-05-11), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
 4. De advies- en arbitragecommissie stelt nadere regels vast met betrekking tot haar werkwijze.
 
@@ -256,7 +256,7 @@ De uitspraak van de advies- en arbitragecommissie heeft bindende kracht.
 
 ##### Artikel 23
 
-Het standpunt van de sectorcommissie over de in het overleg besproken aangelegenheden, alsmede over de aan de commissie ingevolge [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=34&z=2003-05-23&g=2004-08-01), ter kennis gekomen adviezen van een bijzondere commissie, wordt schriftelijk aan Onze Minister bevestigd, waarbij desverlangd een samenvatting van de aan dit standpunt ten grondslag liggende argumenten wordt gegeven. Indien in de sectorcommissie een minderheidsstandpunt is, wordt daarvan desverlangd melding gemaakt.
+Het standpunt van de sectorcommissie over de in het overleg besproken aangelegenheden, alsmede over de aan de commissie ingevolge [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=34&z=2005-05-11&g=2005-05-11), ter kennis gekomen adviezen van een bijzondere commissie, wordt schriftelijk aan Onze Minister bevestigd, waarbij desverlangd een samenvatting van de aan dit standpunt ten grondslag liggende argumenten wordt gegeven. Indien in de sectorcommissie een minderheidsstandpunt is, wordt daarvan desverlangd melding gemaakt.
 
 ##### Artikel 24
 
@@ -266,7 +266,7 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 1. Het secretariaat van het overleg wordt gevoerd door een door Onze Minister aangewezen secretaris. Over de aanwijzing van de secretaris wordt de sectorcommissie gehoord. Onze Minister kan adjunct-secretarissen aanwijzen.
 
-2. De secretaris staat, onder leiding van de voorzitter van het overleg, ter beschikking van de voorzitter en van de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2003-05-23&g=2004-08-01), bedoelde functionarissen, alsmede van de sectorcommissie.
+2. De secretaris staat, onder leiding van de voorzitter van het overleg, ter beschikking van de voorzitter en van de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2005-05-11&g=2005-05-11), bedoelde functionarissen, alsmede van de sectorcommissie.
 
 ##### Artikel 26
 
@@ -284,9 +284,9 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 2. Over aangelegenheden van algemeen belang voor de rechtstoestand, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, van hetzij de militaire ambtenaren, hetzij de ambtenaren, wordt, indien zij louter betrekking hebben op militaire ambtenaren of ambtenaren waarvoor een bijzondere commissie is ingesteld, niet beslist alvorens daarover namens Onze Minister overleg is gevoerd met de desbetreffende bijzondere commissie.
 
-3. Op het overleg met een bijzondere commissie is het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) van overeenkomstige toepassing.
+3. Op het overleg met een bijzondere commissie is het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) van overeenkomstige toepassing.
 
-4. Een voorstel, voor zover het strekt tot het regelen van rechten of verplichtingen van individuele militaire ambtenaren of individuele ambtenaren en voor zover het een uitwerking betreft van een voorstel dat in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=2&z=2003-05-23&g=2004-08-01) bedoelde overleg is overeengekomen, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de bijzondere commissie. Het standpunt van de bijzondere commissie wordt bepaald bij meerderheid van stemmen. Elke centrale brengt één stem uit. Indien de stemmen binnen de bijzondere commissie staken, beslist de voorzitter van het overleg met de bijzondere commissie of het voorstel ten uitvoer wordt gebracht.
+4. Een voorstel, voor zover het strekt tot het regelen van rechten of verplichtingen van individuele militaire ambtenaren of individuele ambtenaren en voor zover het een uitwerking betreft van een voorstel dat in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=2&z=2005-05-11&g=2005-05-11) bedoelde overleg is overeengekomen, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de bijzondere commissie. Het standpunt van de bijzondere commissie wordt bepaald bij meerderheid van stemmen. Elke centrale brengt één stem uit. Indien de stemmen binnen de bijzondere commissie staken, beslist de voorzitter van het overleg met de bijzondere commissie of het voorstel ten uitvoer wordt gebracht.
 
 ##### Artikel 28
 
@@ -294,9 +294,9 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 2. Een centrale is bevoegd twee leden en twee plaatsvervangende leden in een bijzondere commissie aan te wijzen. Van deze aanwijzing geeft de centrale kennis aan Onze Minister.
 
-3. Schorsing of intrekking van een toelating tot het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) bedoelde overleg heeft van rechtswege schorsing, onderscheidenlijk intrekking, van de toelating tot het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2003-05-23&g=2004-08-01) bedoelde overleg tot gevolg.
+3. Schorsing of intrekking van een toelating tot het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) bedoelde overleg heeft van rechtswege schorsing, onderscheidenlijk intrekking, van de toelating tot het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2005-05-11&g=2005-05-11) bedoelde overleg tot gevolg.
 
-4. Onze Minister kan een door een centrale aangewezen lid of plaatsvervangend lid uitsluiten van deelneming aan het overleg. Het [tweede, derde en vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2003-05-23&g=2004-08-01) zijn van overeenkomstige toepassing.
+4. Onze Minister kan een door een centrale aangewezen lid of plaatsvervangend lid uitsluiten van deelneming aan het overleg. Het [tweede, derde en vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2005-05-11&g=2005-05-11) zijn van overeenkomstige toepassing.
 
 ##### Artikel 29
 
@@ -306,17 +306,17 @@ Indien over een aangelegenheid in afwijking van het standpunt van de sectorcommi
 
 ##### Artikel 30
 
-1. Aangelegenheden die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2003-05-23&g=2004-08-01) in het overleg met een bijzondere commissie moeten worden behandeld, of waarover deze commissie moet worden gehoord, worden door Onze Minister voorgelegd aan die bijzondere commissie.
+1. Aangelegenheden die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2005-05-11&g=2005-05-11) in het overleg met een bijzondere commissie moeten worden behandeld, of waarover deze commissie moet worden gehoord, worden door Onze Minister voorgelegd aan die bijzondere commissie.
 
-2. Een centrale, die in een bijzondere commissie is vertegenwoordigd, kan Onze Minister verzoeken een aangelegenheid als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2003-05-23&g=2004-08-01) in een vergadering van die commissie te doen behandelen. [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=9&z=2003-05-23&g=2004-08-01), is van overeenkomstige toepassing.
+2. Een centrale, die in een bijzondere commissie is vertegenwoordigd, kan Onze Minister verzoeken een aangelegenheid als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2005-05-11&g=2005-05-11) in een vergadering van die commissie te doen behandelen. [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=9&z=2005-05-11&g=2005-05-11), is van overeenkomstige toepassing.
 
 ##### Artikel 31
 
-1. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2003-05-23&g=2004-08-01) voorbereidende besprekingen te voeren of in het overleg met een bijzondere commissie naar voren gekomen standpunten uit te werken, wordt die voorbereiding of uitwerking verricht door werkgroepen, bestaande uit leden of plaatsvervangende leden van de desbetreffende bijzondere commissie, aangewezen door deze commissie, en uit functionarissen, aangewezen door de voorzitter.
+1. Indien het gewenst is over aangelegenheden als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=3&artikel=27&z=2005-05-11&g=2005-05-11) voorbereidende besprekingen te voeren of in het overleg met een bijzondere commissie naar voren gekomen standpunten uit te werken, wordt die voorbereiding of uitwerking verricht door werkgroepen, bestaande uit leden of plaatsvervangende leden van de desbetreffende bijzondere commissie, aangewezen door deze commissie, en uit functionarissen, aangewezen door de voorzitter.
 
 2. Een werkgroep wordt ingesteld door de voorzitter. De vergaderingen worden door de voorzitter, of door een door hem aan te wijzen functionaris geleid.
 
-3. Op het deelnemen aan een vergadering van een werkgroep zijn het [derde en vierde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2003-05-23&g=2004-08-01) van overeenkomstige toepassing.
+3. Op het deelnemen aan een vergadering van een werkgroep zijn het [derde en vierde lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=7&z=2005-05-11&g=2005-05-11) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
@@ -324,9 +324,9 @@ Het standpunt van de bijzondere commissie wordt bepaald bij eenvoudige meerderhe
 
 ##### Artikel 33
 
-De [artikelen 13 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=13&z=2003-05-23&g=2004-08-01) zijn van overeenkomstige toepassing op het overleg met een bijzondere commissie, met dien verstande dat de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2003-05-23&g=2004-08-01) genoemde advies- en arbitragecommissie voor de behandeling van een geschil met een bijzondere commissie wordt uitgebreid met twee bijzondere leden, die worden benoemd door Onze Minister. Één lid wordt benoemd op voordracht van de voorzitter en één lid op voordracht van de tot het overleg toegelaten centrales. Niet benoembaar tot bijzonder lid zijn:
+De [artikelen 13 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=13&z=2005-05-11&g=2005-05-11) zijn van overeenkomstige toepassing op het overleg met een bijzondere commissie, met dien verstande dat de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2005-05-11&g=2005-05-11) genoemde advies- en arbitragecommissie voor de behandeling van een geschil met een bijzondere commissie wordt uitgebreid met twee bijzondere leden, die worden benoemd door Onze Minister. Één lid wordt benoemd op voordracht van de voorzitter en één lid op voordracht van de tot het overleg toegelaten centrales. Niet benoembaar tot bijzonder lid zijn:
 
-- a. personen die ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2003-05-23&g=2004-08-01) zijn uitgesloten van het lidmaatschap of het plaatsvervangend lidmaatschap;
+- a. personen die ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=18&z=2005-05-11&g=2005-05-11) zijn uitgesloten van het lidmaatschap of het plaatsvervangend lidmaatschap;
 
 - b. personen die lid of plaatsvervangend lid zijn van de bijzondere commissie, dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.
 
@@ -334,27 +334,27 @@ De [artikelen 13 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&
 
 1. Het standpunt van een bijzondere commissie over in het overleg besproken aangelegenheden wordt schriftelijk aan Onze Minister bevestigd, waarbij desverlangd een samenvatting van de aan dit standpunt ten grondslag liggende argumenten wordt gegeven. Indien er in de bijzondere commissie een minderheidsstandpunt is, wordt daarvan desverlangd melding gemaakt.
 
-2. Het advies van een bijzondere commissie over een aangelegenheid die haar ingevolge [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=11&z=2003-05-23&g=2004-08-01) door de sectorcommissie is voorgelegd, wordt schriftelijk aan de sectorcommissie bevestigd, waarbij een samenvatting van de aan dit advies ten grondslag liggende argumenten wordt gegeven.
+2. Het advies van een bijzondere commissie over een aangelegenheid die haar ingevolge [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=11&z=2005-05-11&g=2005-05-11) door de sectorcommissie is voorgelegd, wordt schriftelijk aan de sectorcommissie bevestigd, waarbij een samenvatting van de aan dit advies ten grondslag liggende argumenten wordt gegeven.
 
 De laatste zin van het eerste lid is van toepassing.
 
 ##### Artikel 35
 
-De voorzitter wordt bijgestaan door een secretaris. [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=25&z=2003-05-23&g=2004-08-01) is van overeenkomstige toepassing.
+De voorzitter wordt bijgestaan door een secretaris. [Artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=25&z=2005-05-11&g=2005-05-11) is van overeenkomstige toepassing.
 
 ##### Artikel 36
 
-De voorzitter van het overleg met een bijzondere commissie doet aan de voorzitter van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2003-05-23&g=2004-08-01) bedoelde overleg en aan de sectorcommissie tijdig de agenda van elke vergadering toekomen, alsmede een exemplaar van de notulen van de gehouden vergadering.
+De voorzitter van het overleg met een bijzondere commissie doet aan de voorzitter van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=3&z=2005-05-11&g=2005-05-11) bedoelde overleg en aan de sectorcommissie tijdig de agenda van elke vergadering toekomen, alsmede een exemplaar van de notulen van de gehouden vergadering.
 
 ##### Artikel 37
 
-Op het overleg met een bijzondere commissie zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=10&z=2003-05-23&g=2004-08-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=24&z=2003-05-23&g=2004-08-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=26&z=2003-05-23&g=2004-08-01) van overeenkomstige toepassing.
+Op het overleg met een bijzondere commissie zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=10&z=2005-05-11&g=2005-05-11), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=24&z=2005-05-11&g=2005-05-11) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=26&z=2005-05-11&g=2005-05-11) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 38
 
-Onze Minister kan in afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2003-05-23&g=2004-08-01), bepalen dat het aantal vertegenwoordigers van de centrales in de sectorcommissie tijdelijk wordt verhoogd.
+Onze Minister kan in afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&hoofdstuk=2&artikel=6&z=2005-05-11&g=2005-05-11), bepalen dat het aantal vertegenwoordigers van de centrales in de sectorcommissie tijdelijk wordt verhoogd.
 
 ##### Artikel 39
 
