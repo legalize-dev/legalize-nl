@@ -315,11 +315,3 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing gebieden voor luchtverke
 ## Bijlage P. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=19&z=2005-05-12&g=2005-05-12) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 5.14, aanhef en onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14).
-
-## Bijlage P. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018273&artikel=19&z=2008-05-28&g=2008-05-28) van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
