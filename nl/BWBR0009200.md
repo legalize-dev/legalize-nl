@@ -4,7 +4,7 @@ identifier: "BWBR0009200"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-05-25"
-last_updated: "2004-01-01"
+last_updated: "2005-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009200"
 soort: "AMvB"
@@ -64,9 +64,9 @@ In dit besluit wordt verstaan onder de Wet: de [Wet arbeidsongeschiktheidsverzek
 
 Voor de toepassing van [artikel 8, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) wordt voor de vaststelling van de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend, onder inkomsten verstaan al hetgeen anders dan uit dienstbetrekking wordt genoten als belastbaar loon uit tegenwoordige arbeid of belastbaar resultaat uit overige werkzaamheden, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3) en [7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7), behoudens voorzover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92).
 
-##### Artikel 4. Grondslag bij toepassing artikel 72, derde lid, van de Wet
+##### Artikel 4. Grondslag bij toepassing [artikel 12a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a)
 
-Zonodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=3&z=2004-01-01&g=2004-01-01) wordt voor de verzekerde, ten aanzien van wie artikel 72, derde lid, van de Wet toepassing heeft gevonden in het kalenderjaar onmiddellijk voorafgaande aan het intreden van zijn arbeidsongeschiktheid, de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend vastgesteld op het bedrag dat als premie-inkomen in aanmerking is genomen in dat kalenderjaar, onverminderd artikel 8, zevende lid, van de Wet.
+Zonodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=3&z=2005-05-25&g=2005-05-25) wordt voor de verzekerde, ten aanzien van wie [artikel 12a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) toepassing heeft gevonden in het kalenderjaar onmiddellijk voorafgaande aan het intreden van zijn arbeidsongeschiktheid, de grondslag waarnaar de arbeidsongeschiktheidsuitkering wordt berekend gesteld op het bedrag van het in dat kalenderjaar genoten loon, vastgesteld op grond van dit [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a), onverminderd [artikel 8, zevende lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8).
 
 ##### Artikel 5. Grondslag meewerkende echtgenoot en echtgenoot/zefstandige
 
@@ -112,7 +112,7 @@ Indien de totaalsom van de door een verzekerde als zodanig verworven winst en in
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van artikel 8 van de Wet of dit besluit voor zover de toepassing daarvan, gelet op het tijdstip van verwerving van een bestanddeel van de winst of de inkomsten, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen op welke periode dat bestanddeel betrekking heeft en hoe dit bestanddeel is verdeeld over die periode.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=7&z=2004-01-01&g=2004-01-01) van dit besluit voor zover toepassing daarvan, gelet op de berekening van de gemiddeld per dag genoten winst of inkomsten, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen een ander getal dan het getal, genoemd in [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=7&z=2004-01-01&g=2004-01-01).
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=7&z=2005-05-25&g=2005-05-25) van dit besluit voor zover toepassing daarvan, gelet op de berekening van de gemiddeld per dag genoten winst of inkomsten, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen een ander getal dan het getal, genoemd in [artikel 7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=7&z=2005-05-25&g=2005-05-25).
 
 3. Het Uitvoeringsinstituut werknemersverzekeringen kan afwijken van [artikel 8, tweede lid, onderdeel a, of derde lid, onderdeel a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) of dit besluit voor zover de toepassing daarvan, gelet op het tijdstip waarop de arbeidsongeschiktheid is ingetreden, zal leiden tot een onbillijkheid van overwegende aard. Alsdan bepaalt het Uitvoeringsinstituut werknemersverzekeringen in plaats van het boekjaar of kalenderjaar een andere aaneengesloten periode van 12 maanden waarover de grondslag van de uitkering wordt berekend, welke periode evenwel ingaat na de dag van ingang van bedoeld boekjaar of kalenderjaar.
 
@@ -120,7 +120,7 @@ Indien de totaalsom van de door een verzekerde als zodanig verworven winst en in
 
 ##### Artikel 11. Grondslagwijziging amvb in verband met Aanpassingswet
 
-Indien het bij koninklijke boodschap van 21 juni 1997 ingediende voorstel van wet tot aanpassing van een aantal wetten in verband met de invoering van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving) en de Organisatiewet sociale verzekeringen 1997 (Aanpassingswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen: kamerstuk nr. 25 415) tot wet wordt verheven en in werking treedt, berust [dit besluit op artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=8&z=2004-01-01&g=2004-01-01), achttiende lid, van de Wet.
+Indien het bij koninklijke boodschap van 21 juni 1997 ingediende voorstel van wet tot aanpassing van een aantal wetten in verband met de invoering van de [Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008655), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en de Organisatiewet sociale verzekeringen 1997 (Aanpassingswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen: kamerstuk nr. 25 415) tot wet wordt verheven en in werking treedt, berust [dit besluit op artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009200&artikel=8&z=2005-05-25&g=2005-05-25), achttiende lid, van de Wet.
 
 ##### Artikel 12. Inwerkingtreding
 
