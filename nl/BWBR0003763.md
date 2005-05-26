@@ -4,7 +4,7 @@ identifier: "BWBR0003763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2003-09-01"
+last_updated: "2005-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003763"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit
 
 ##### Artikel 3
 
-De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2003-09-01&g=2003-09-01).
+De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2005-05-26&g=2005-05-26).
 
 ##### Artikel 4
 
@@ -248,11 +248,9 @@ Vervallen
 
 ### Hoofdstuk VII. Slotbepalingen
 
-##### Artikel 19
+##### Artikel 19. Citeertitel
 
-1. Deze regeling wordt in de Nederlandse Staatscourant geplaatst.
-
-2. Zij treedt in werking op het tijdstip waarop het [Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584) in werking treedt, met uitzondering van [artikel 12, onder b, 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=III&artikel=12&z=2003-09-01&g=2003-09-01), dat in werking treedt met ingang van 1 januari 1987.
+Deze regeling wordt aangehaald als: Warenwetregeling containers.
 
 ##### Artikel 2a
 
