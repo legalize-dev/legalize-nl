@@ -4,7 +4,7 @@ identifier: "BWBR0006022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-09-01"
+last_updated: "2005-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006022"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2012-11-02"
 ---
 # Regeling houdende nadere regels ten aanzien van machines
 
-Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2003-09-01&g=2003-09-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2003-09-01&g=2003-09-01), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
+Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2005-05-26&g=2005-05-26), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2005-05-26&g=2005-05-26), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
@@ -104,9 +104,9 @@ Vervallen
 
 De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in [het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577), worden gesteld in de Nederlandse taal, of in een andere door de aangewezen instelling of aangewezen aangemelde instelling aanvaarde taal.
 
-##### Artikel 5
+##### Artikel 5. Citeertitel
 
-Vervallen
+Deze regeling wordt aangehaald als: Warenwetregeling machines.
 
 ##### Artikel 6
 
@@ -118,7 +118,7 @@ Vervallen
 
 ##### Artikel 8
 
-Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot 17 maart 1993.
+Vervallen
 
 ##### Artikel 2a
 
@@ -130,7 +130,7 @@ hijskranen voor haakbedrijf op rupsen of banden alsmede een torenvormige hijskra
 
 - b. grondverzetmachines die ontgravingen maken en daarop aansluitend leidingwerk in die ontgravingen leggen of ten behoeve van het uitvoeren van grondverzetwerkzaamheden ondersteuningsschotten plaatsen.
 
-2. Als categorie torenkranen als bedoeld in [artikel 6d, tweede lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d) worden aangewezen:
+2. Als categorie torenkranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d) worden aangewezen:
 
 torenvormige hijskranen, die vast zijn opgesteld of die verrijdbaar zijn op rails, met een bedrijfslastmoment van ten minste 10 tonmeter.
 
