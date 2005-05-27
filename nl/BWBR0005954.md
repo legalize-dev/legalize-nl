@@ -4,7 +4,7 @@ identifier: "BWBR0005954"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-05-19"
-last_updated: "1998-05-03"
+last_updated: "2005-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005954"
 soort: "ministeriele-regeling"
@@ -34,99 +34,95 @@ entry_into_force: "1993-04-24"
 ---
 # Aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen
 
-Gelet op [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005954&artikel=2&z=1998-05-03&g=1998-05-03), 1°, van het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315);
+Gelet op [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005954&artikel=2&z=2005-05-27&g=2005-05-27), 1°, van het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315);
 
 Besluit:
 
 ##### Artikel 1
 
-De bevoegde autoriteit, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005954&artikel=2&z=1998-05-03&g=1998-05-03), 1°, van het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315), is:
+De bevoegde autoriteit, bedoeld in [artikel 2, tweede lid, onderdeel a, 1°, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2), is:
 
-- a. voor zover het betreft de vaarweg en de zijkanalen waar de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer is opgedragen aan het Directoraat-Generaal Goederenvervoer: de Rijkshavenmeester Westerschelde, bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990, in de artikelen:
+- a. voor zover het betreft de vaarweg en de zijkanalen waar de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer is opgedragen aan het Directoraat-Generaal Goederenvervoer: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2), in de artikelen:
 
-- 2, eerste lid, onderdelen d en i;
+- [2, eerste lid, onderdelen d en i](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2);
 
-- 2, tweede lid, onderdeel c;
+- [2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2);
 
-- 3, zesde lid;
+- [3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=3);
 
-- 6, eerste lid, onderdeel c;
+- [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=6);
 
-- 9, vierde lid, vijfde lid, onderdeel b, zesde lid, zevende lid, onderdeel c, en elfde lid;
+- [9, vierde lid, vijfde lid, onderdeel b, zesde lid, zevende lid, onderdeel c, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=9);
 
-- 13, zevende lid;
+- [13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=13);
 
-- 18, tweede en derde lid;
+- [18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=18);
 
-- 19, zevende lid;
+- [19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19);
 
-- 30, derde lid, onderdeel c;
+- [30, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=30);
 
-- 38, derde, vierde en vijfde lid;
+- [38, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=38);
 
-- 40;
+- [40](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=40);
 
-- 41, negende lid;
+- [41, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=41);
 
-- 42, derde en vierde lid;
+- [42, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=42);
 
-- 43, eerste lid;
+- [43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=43);
 
-- 43a, eerste lid;
+- [43a, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=43a);
 
-- 43b, eerste lid;.
+- [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=45);
 
-- 45, vierde lid;
+- [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=46);
 
-- 46;
+- [47, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=47);
 
-- 47, onderdeel a;
+- [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=48);
 
-- 48;
+- [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=49);
 
-- 49;
-
-- 53, eerste en tweede lid;
+- [53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=53);
 
 - b. voor zover het betreft de vaarweg, de zijkanalen en de objecten waar de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer en de technische zorg is opgedragen aan het Directoraat-Generaal Rijkswaterstaat; de hoofdingenieur-directeur van de Rijkswaterstaat in de directie Zeeland, in de artikelen:
 
-- 2, eerste lid, onderdeel d;
+- [2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2);
 
-- 2, tweede lid, onderdeel c;
+- [2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=2);
 
-- 6, eerste lid, onderdeel c;
+- [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=6);
 
-- 9, vierde lid, vijfde lid, onderdeel b, zesde lid, zevende lid, onderdeel c, en elfde lid;
+- [9, vierde lid, vijfde lid, onderdeel b, zesde lid, zevende lid, onderdeel c, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=9);
 
-- 30, derde lid, onderdeel c;
+- [30, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=30);
 
-- 38, derde, vierde en vijfde lid;
+- [38, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=38);
 
-- 39, eerste, tweede, vierde, vijfde en twaalfde lid;
+- [39, eerste, tweede, vierde, vijfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=39);
 
-- 41, negende lid;
+- [41, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=41);
 
-- 42, derde en vierde lid;
+- [42, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=42);
 
-- 43, eerste lid;
+- [43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=43);
 
-- 45, vierde lid;
+- [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=45);
 
-- 46;
+- [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=46);
 
-- 47, onderdeel a;
+- [47, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=47);
 
-- 48;
+- [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=48);
 
-- 49;
+- [49;](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=49)
 
-- 53, eerste lid;
+- [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=53);
 
 - c. voor Terneuzen; de havenmeester van het havenschap, in de artikelen:
 
-- 43a, eerste lid;
-
-- 43b, eerste lid.
+- [43a, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=43a);
 
 ##### Artikel 2
 
