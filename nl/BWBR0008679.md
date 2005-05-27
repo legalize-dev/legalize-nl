@@ -4,7 +4,7 @@ identifier: "BWBR0008679"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008679"
 soort: "ministeriele-regeling"
@@ -154,7 +154,7 @@ a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 - g. het plaatsvervangend hoofd bedrijfshulpverlening voldoende inzetbaar is geweest voor het in geval van een calamiteit leiding geven aan de leden van de bedrijfshulpverleningsorganisatie. Daartoe dient het plaatsvervangend hoofd bedrijfshulpverlening te voldoen aan de opleidingseisen van een van de taken genoemd onder het vijfde lid, onder b tot en met d, en bovendien met goed gevolg de opleiding voor hoofd bedrijfshulpverlening van de VZBI/NVB zuid-west te hebben gevolgd.
 
-3. De bedrijfshulpverlener is voldoende inzetbaar, indien de bedrijfshulpverlener zich vrijwillig gedurende een jaar verdienstelijk heeft gemaakt op het terrein van de bedrijfshulpverlening, conform het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2000-09-01&g=2004-01-01), per taak binnen de BHV-organisatie bepaalde, hetgeen blijkt uit het met gunstig gevolg afleggen van een proef van bekwaamheid inclusief het gevolgd hebben van de gebouwgebonden instructie. Voor de ontruimer geldt dat hij de voor hem geldende informatiebijeenkomst dient te volgen.
+3. De bedrijfshulpverlener is voldoende inzetbaar, indien de bedrijfshulpverlener zich vrijwillig gedurende een jaar verdienstelijk heeft gemaakt op het terrein van de bedrijfshulpverlening, conform het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2005-05-27&g=2005-05-27), per taak binnen de BHV-organisatie bepaalde, hetgeen blijkt uit het met gunstig gevolg afleggen van een proef van bekwaamheid inclusief het gevolgd hebben van de gebouwgebonden instructie. Voor de ontruimer geldt dat hij de voor hem geldende informatiebijeenkomst dient te volgen.
 
 Vervolgens blijkt de voldoende inzetbaarheid jaarlijks uit het regelmatig en in voldoende mate, te weten minimaal 20 uren per jaar, deelnemen aan de herhalingslessen en oefeningen inclusief het gevolgd hebben van de gebouwgebonden instructie per taak. Voor de ontruimer geldt dat hij wederom de voor hem geldende informatiebijeenkomst dient te volgen.
 
@@ -164,29 +164,29 @@ Vervolgens blijkt de voldoende inzetbaarheid jaarlijks uit het regelmatig en in 
 
 ##### Artikel 4. Vergoedingen
 
-1. Indien de bedrijfshulpverlener heeft voldaan aan de voor hem geldende criteria van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2000-09-01&g=2004-01-01) en tijdig mutaties in zijn omstandigheden betreffende de BHV doorgeeft ontvangt de bedrijfshulpverlener een toelage. De toelage bestaat voor de ontruimer uit een basisgratificatie en voor de overige bedrijfshulpverleners uit een basisgratificatie en - indien aan de nadere voorwaarden wordt voldaan - een taaktoeslag, een wedstrijdtoeslag, een toeslag wegens langdurige deelname, een BHV-uurvergoeding, een EHBO-toelage en een beschikbaarheidstoeslag. De in dit artikel genoemde bedragen zijn bruto-bedragen.
+1. Indien de bedrijfshulpverlener heeft voldaan aan de voor hem geldende criteria van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2005-05-27&g=2005-05-27) en tijdig mutaties in zijn omstandigheden betreffende de BHV doorgeeft ontvangt de bedrijfshulpverlener een toelage. De toelage bestaat voor de ontruimer uit een basisgratificatie en voor de overige bedrijfshulpverleners uit een basisgratificatie en - indien aan de nadere voorwaarden wordt voldaan - een taaktoeslag, een wedstrijdtoeslag, een toeslag wegens langdurige deelname, een BHV-uurvergoeding, een EHBO-toelage en een beschikbaarheidstoeslag. De in dit artikel genoemde bedragen zijn bruto-bedragen.
 
 2. De toelage van de ontruimer wordt per jaar of naar rato van het aantal maanden dat de aanwijzing geldt betaald. Ingeval de ontruimer in deeltijd werkt vindt vergoeding naar rato van het dienstverband plaats.
 
 De toelage van de overige bedrijfshulpverleners wordt per jaar of - met uitzondering van het eerste jaar van aanwijzing als bedrijfshulpverlener - naar rato van het aantal maanden dat de aanwijzing geldt betaald.
 
-3. De basisgratificatie wordt verleend aan een bedrijfshulpverlener die voldoet aan een of meer van de onderdelen, genoemd in [artikel 3, tweede lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2000-09-01&g=2004-01-01). De basisgratificatie bedraagt f 350,00. Indien de bedrijfshulpverlener voldoet aan [artikel 3, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2000-09-01&g=2004-01-01) gezamenlijk wordt een bedrag van f 250,00 extra toegekend.
+3. De basisgratificatie wordt verleend aan een bedrijfshulpverlener die voldoet aan een of meer van de onderdelen, genoemd in [artikel 3, tweede lid, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2005-05-27&g=2005-05-27). De basisgratificatie bedraagt € 195,35. Indien de bedrijfshulpverlener voldoet aan [artikel 3, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2005-05-27&g=2005-05-27) gezamenlijk wordt een bedrag van € 113,45 extra toegekend.
 
-4. Een taaktoeslag, ten bedrage van f 350,00 wordt toegekend indien de bedrijfshulpverlener als leidinggevende, zoals bedoeld in [artikel 3, tweede lid, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2000-09-01&g=2004-01-01), is aangewezen.
+4. Een taaktoeslag, ten bedrage van € 195,35 wordt toegekend indien de bedrijfshulpverlener als leidinggevende, zoals bedoeld in [artikel 3, tweede lid, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2005-05-27&g=2005-05-27), is aangewezen.
 
-5. Wegens deelname aan een of meer wedstrijden per jaar wordt f 150,00 toegekend.
+5. Wegens deelname aan een of meer wedstrijden per jaar wordt € 68,07 toegekend.
 
-6. De bedragen, bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=4&z=2000-09-01&g=2004-01-01), kunnen cumuleren tot een maximum van f 700,00.
+6. De bedragen, bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=4&z=2005-05-27&g=2005-05-27), kunnen cumuleren tot een maximum van € 390,70.
 
-7. De bedragen, bedoeld in [artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=4&z=2000-09-01&g=2004-01-01), kunnen cumuleren tot een maximum van f 750,00.
+7. De bedragen, bedoeld in [artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=4&z=2005-05-27&g=2005-05-27), kunnen cumuleren tot een maximum van € 390,70.
 
-8. Wegens langdurig deelnemerschap wordt elke vijf jaren vanaf het eerste 5-jarig deelnemerschap f 550,00 toegekend.
+8. Wegens langdurig deelnemerschap wordt elke vijf jaren vanaf het eerste 5-jarig deelnemerschap € 249,58 toegekend.
 
-9. Een BHV-uurvergoeding, ten bedrage van f 25,91 per uur, wordt toegekend indien de voorgeschreven BHV-aktiviteiten worden gehouden buiten de voor de betreffende BHV-er vastgestelde werktijd.
+9. Een BHV-uurvergoeding, ten bedrage van € 11,76 per uur, wordt toegekend indien de voorgeschreven BHV-aktiviteiten worden gehouden buiten de voor de betreffende BHV-er vastgestelde werktijd.
 
-10. Een EHBO-toelage, ten bedrage van f 16,01 per maand, wordt toegekend indien een bedrijfshulpverlener reeds een EHBO-taak vervulde vóór invoering van het [BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) 1984 en na 1 januari 1984 voor hem niet een salarisschaal geldt met een hoger maximum-salaris dan de per genoemde datum voor hem geldende salarisschaal.
+10. Een EHBO-toelage, ten bedrage van € 7,27 per maand, wordt toegekend indien een bedrijfshulpverlener reeds een EHBO-taak vervulde vóór invoering van het [BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) 1984 en na 1 januari 1984 voor hem niet een salarisschaal geldt met een hoger maximum-salaris dan de per genoemde datum voor hem geldende salarisschaal.
 
-11. Een beschikbaarheidstoeslag, waarvan de hoogte wordt vastgesteld door het diensthoofd, ten bedrage van maximaal f 1000,‐, wordt toegekend indien de bedrijfshulpverlener minimaal 75% van de volgens het BHV-rooster geldende tijd beschikbaar is geweest voor zijn BHV-taak.
+11. Een beschikbaarheidstoeslag, waarvan de hoogte wordt vastgesteld door het diensthoofd, ten bedrage van maximaal € 453,78, wordt toegekend indien de bedrijfshulpverlener minimaal 75% van de volgens het BHV-rooster geldende tijd beschikbaar is geweest voor zijn BHV-taak.
 
 12. Door of namens de Minister kunnen de in dit artikel genoemde bedragen worden verhoogd.
 
