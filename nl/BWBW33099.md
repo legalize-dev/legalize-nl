@@ -4,7 +4,7 @@ identifier: "BWBW33099"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-02-01"
-last_updated: "2005-03-01"
+last_updated: "2005-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBW33099"
 soort: "circulaire"
@@ -98,19 +98,19 @@ entry_into_force: "2026-02-01"
 
 ### Artikel 27
 
-### Artikel 28
+### Artikel 12
 
 ### Artikel II RRWN
 
-### Artikel III RRWN
+### Artikel 14
 
 ### Artikel IV RRWN
 
-### Artikel V RRWN
+### Artikel 15a
 
 ### Artikel VI RRWN
 
-### Artikel VII RRWN
+### Artikel 16a
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
@@ -150,7 +150,7 @@ Het ligt op de weg van de optant c.q. zijn wettelijk vertegenwoordiger om aannem
 
 Als volgens de optant sprake is geweest van samenleving in gezinsverband in Nederland, zal dit over het algemeen aannemelijk gemaakt kunnen worden door het overleggen van een uittreksel uit de GBA. Als sprake is geweest van samenleving in gezinsverband in het buitenland dan dient dit – voor zover mogelijk – aan de hand van een officieel document van een overheidsinstantie, of anderszins genoegzaam, te worden aangetoond. Uit dit/deze document(en) moet blijken dat de vader en het minderjarige kind op hetzelfde adres ingeschreven hebben gestaan gedurende een periode van tenminste drie jaar na de erkenning of wettiging van het kind. Behoudens in het geval van contra-indicaties (bijvoorbeeld als uit andere bronnen blijkt dat vader en kind in die periode niet (constant) hebben samengeleefd op hetzelfde adres), kan met het overleggen van (een) dergelijk document worden volstaan.
 
-### 4. Naamskeuze voor/door de optant
+### Artikel 17
 
 De verkrijging van de Nederlandse nationaliteit heeft op zich geen invloed op de geslachtsnaam of op de voornamen van de optant. Dat vloeit voort uit [artikel 4, tweede lid, WCN](https://wetten.overheid.nl/jci1.3:c:BWBR0004580&artikel=4). Omdat de verkrijging van de Nederlandse nationaliteit door optie ingevolge [artikel 6, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) rechtstreeks verband houdt met de erkenning of de wettiging (het betreft in feite een uitgestelde verkrijging van de Nederlandse nationaliteit), heeft de wetgever het redelijk geacht de hier bedoelde optanten in de gelegenheid te stellen op het tijdstip van de optie een naamskeuze te doen. In dit verband wordt de aandacht gevestigd op [artikel 5b WCN](https://wetten.overheid.nl/jci1.3:c:BWBR0004580&artikel=5b), waarvan de tekst luidt:
 
@@ -158,33 +158,33 @@ Uit een relatie tussen de ongehuwde vrouw A van Turkse nationaliteit en de Neder
 
 De ongehuwde vrouw D van Surinaamse nationaliteit heeft uit een relatie met de Nederlander E kind F gekregen. Dit kind is op 30 september 2005 geboren te Amsterdam. F is uitsluitend in het bezit van de Surinaamse nationaliteit. D en E wonen niet samen en zijn dat ook niet van plan. E is bereid om kind F als het zijne te erkennen en financieel bij te dragen aan zijn onderhoud. De dagelijkse verzorging en opvoeding laat hij liever over aan D. D en E spreken af dat E zijn kind wel af en toe mag meenemen voor bezoekjes aan oma. Zowel D als E vinden het belangrijk dat F in het bezit komt van de Nederlandse nationaliteit. Zij vragen daarover advies aan een ambtenaar Burgerzaken van de Gemeente Amsterdam. Deze adviseert E het kind niet te erkennen, maar moeder D bij de Rechtbank Amsterdam een verzoek in te laten dienen tot vaststelling van het vaderschap van F. Dit is een goed advies. Immers, E zal vermoedelijk nooit in gezinsverband met F gaan samenwonen en het is twijfelachtig of hij ooit intensief bij de opvoeding en verzorging van F zal zijn betrokken. Een optie op grond van [artikel 6, eerste lid, aanhef en onder c, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6) zal vermoedelijk nooit met succes ten behoeve van F kunnen worden afgelegd. Door vaststelling van het vaderschap van E krijgt F op grond van [artikel 4, eerste lid, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=4) van rechtswege de Nederlandse nationaliteit.
 
-### paragraaf 5. Naamskeuze voor/door de optant
+### Artikel 21
 
-### paragraaf 6. Overgangsrecht
+### Artikel 22
 
-### 6-1-d. Toelichting ad artikel 6, eerste lid, aanhef en onder d
+### Artikel 23
 
-### 6-1-e. Toelichting ad artikel 6, eerste lid, aanhef en onder e
+### Artikel 24
 
-### 6-1-f. Toelichting ad artikel 6, eerste lid, aanhef en onder f
+### Artikel 25
 
-### 6-1-g. Toelichting ad artikel 6, eerste lid, aanhef en onder g
+### Artikel 26
 
-### 6-1-h. Toelichting ad artikel 6, eerste lid, aanhef en onder h
+### Artikel 27
 
-### 6-2. Toelichting ad artikel 6, tweede lid
+### Artikel 28
 
-### 1. Algemeen
+### Artikel II RRWN
 
 In [artikel 21 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21) is bepaald dat bij algemene maatregel van rijksbestuur de autoriteiten en ambtenaren worden aangewezen die bevoegd zijn tot het in ontvangst nemen van optieverklaringen tot verkrijging van het Nederlanderschap. Voorts is bepaald dat bij algemene maatregel van rijksbestuur nadere voorschriften kunnen worden gesteld betreffende de wijze van inontvangstneming van de verklaringen en de bevestigingen van de verkrijging van het Nederlanderschap, alsmede betreffende de verdere administratieve behandeling van de verkrijging van het Nederlanderschap. In het [BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605) zijn deze voorschriften opgenomen en vorenbedoelde autoriteiten en ambtenaren aangewezen. In [artikel 2, aanhef en onder a, BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) is bepaald dat in Nederland de burgemeesters bevoegd zijn tot het in ontvangst nemen van de optieverklaringen. De vormvoorschriften, procedurele vereisten en administratieve behandeling van de verklaringen zijn voor Nederland geregeld in de [artikelen 3 tot en met 12 BVVN](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=3). In de hierna opgenomen procedurebeschrijving is de volgorde van het BVVN aangehouden. Hierop wordt echter een uitzondering gemaakt voor de eerste procedurestap: ‘Informatieverstrekking’ die zich naar zijn aard niet leent voor opname in het BVVN, maar in de uitvoeringspraktijk over het algemeen wel aan het afleggen van de optieverklaring vooraf zal gaan.
 
-### 2. Procedure
+### Artikel IV RRWN
 
-### 2.1. Informatieverstrekking
+### Artikel V RRWN
 
 Het afleggen van een optieverklaring zal worden voorafgegaan door informatieverstrekking aan de aspirant-optant door de tot het in ontvangst nemen van de verklaring burgemeester. Voor een deel zal daarbij gebruik kunnen worden gemaakt van IND-brochures. Verder kan in deze fase aan de aspirant-optant bijvoorbeeld opgave worden gedaan van de bij het afleggen van de optieverklaring te verstrekken gegevens en over te leggen documenten. Indien al onmiddellijk blijkt dat niet wordt voldaan aan de vereisten voor optie, kan de betrokkene worden gewezen op de eventuele mogelijkheid en voorwaarden voor verlening van de Nederlandse nationaliteit door naturalisatie.
 
-### 2.2. Afleggen van de optieverklaring
+### Artikel VII RRWN
 
 ### 2.2.1. Vormvereisten: afleggen in persoon
 
@@ -1124,7 +1124,7 @@ Tot 1 april 2003 verkreeg een minderjarige vreemdeling de Nederlandse nationalit
 
 Sinds 1 april 1998 kan op grond van [artikel 1:207 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=207) gerechtelijk worden vastgesteld wie de vader van een kind is. Door deze vaststelling van het vaderschap komt het kind vanaf de geboorte in familierechtelijke betrekking met de vader te staan (zie [artikel 1:207, vijfde lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=207)). Voor de beoordeling of het kind daardoor tevens de Nederlandse nationaliteit heeft verkregen, moet onderscheid worden gemaakt tussen de volgende situaties.
 
-Indien het kind is geboren vóór 1 januari 1985 en de vaststelling van het vaderschap in beginsel25 Met (in beginsel) onherroepelijk wordt de situatie bedoeld dat de termijnen voor het instellen van rechtsmiddelen zijn verstreken. Dit neemt niet weg dat een onbekend gebleven belanghebbende alsnog de gerechtelijke vaststelling van het vaderschap door middel van een rechterlijke procedure kan aantasten. onherroepelijk is geworden vóór 1 april 2003, heeft het kind het Nederlanderschap niet verkregen. Weliswaar vestigt de vaststelling van het vaderschap een familierechtelijke betrekking tussen vader en kind vanaf de geboorte, maar dit leidt dit niet tot verkrijging van het Nederlanderschap. Immers, artikel 1, aanhef en onder a, WNI (die gold tot 1 januari 1985) kent een limitatieve opsomming voor verkrijging van het Nederlanderschap, namelijk: “het wettig, gewettigd, of door den vader erkend natuurlijk kind”. In de opsomming wordt niet genoemd de familierechtelijke betrekking tussen vader en kind, ontstaan door gerechtelijke vaststelling van het vaderschap. Het ligt daarom niet in de rede om deze rechtsfiguur, die pas in 1998 werd ingevoerd in het Nederlands familierecht, met terugwerkende kracht ‘in te lezen’ in een wet die stamt uit 1892 en die bovendien niet meer van kracht is. De rechtszekerheid, die in het nationaliteitsrecht zware eisen stelt, staat hier geen ruimere dan een grammaticale interpretatie toe. Een andere opvatting zou in strijd zijn met [artikel 25 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=25). Uit het voorgaande volgt tevens dat geen beroep mogelijk is op artikel 1, aanhef en onder b, WNI noch op artikel 2, aanhef en onder a, WNI.
+Indien het kind is geboren vóór 1 januari 1985 en de vaststelling van het vaderschap in beginsel25Met (in beginsel) onherroepelijk wordt de situatie bedoeld dat de termijnen voor het instellen van rechtsmiddelen zijn verstreken. Dit neemt niet weg dat een onbekend gebleven belanghebbende alsnog de gerechtelijke vaststelling van het vaderschap door middel van een rechterlijke procedure kan aantasten. onherroepelijk is geworden vóór 1 april 2003, heeft het kind het Nederlanderschap niet verkregen. Weliswaar vestigt de vaststelling van het vaderschap een familierechtelijke betrekking tussen vader en kind vanaf de geboorte, maar dit leidt dit niet tot verkrijging van het Nederlanderschap. Immers, artikel 1, aanhef en onder a, WNI (die gold tot 1 januari 1985) kent een limitatieve opsomming voor verkrijging van het Nederlanderschap, namelijk: “het wettig, gewettigd, of door den vader erkend natuurlijk kind”. In de opsomming wordt niet genoemd de familierechtelijke betrekking tussen vader en kind, ontstaan door gerechtelijke vaststelling van het vaderschap. Het ligt daarom niet in de rede om deze rechtsfiguur, die pas in 1998 werd ingevoerd in het Nederlands familierecht, met terugwerkende kracht ‘in te lezen’ in een wet die stamt uit 1892 en die bovendien niet meer van kracht is. De rechtszekerheid, die in het nationaliteitsrecht zware eisen stelt, staat hier geen ruimere dan een grammaticale interpretatie toe. Een andere opvatting zou in strijd zijn met [artikel 25 RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=25). Uit het voorgaande volgt tevens dat geen beroep mogelijk is op artikel 1, aanhef en onder b, WNI noch op artikel 2, aanhef en onder a, WNI.
 
 [RRWN](https://wetten.overheid.nl/jci1.3:c:BWBR0012089): [artikelen IB](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=IB); [II.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=II) en [V.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012089&artikel=V)
 
@@ -1140,7 +1140,7 @@ Vóór 1 april 2003 kreeg een minderjarige vreemdeling die tijdens zijn minderja
 
 Het ligt op de weg van de optant c.q. zijn wettelijk vertegenwoordiger om aannemelijk te maken dat sprake is geweest van opvoeding en verzorging gedurende een onafgebroken periode van drie jaar na erkenning of wettiging. Niet iedere optant zal daartoe op gelijke wijze in staat zijn. Van geval tot geval zal moeten worden beoordeeld of de optant dit aannemelijk heeft gemaakt.
 
-### 3.2. Bewijsmiddelen
+### Artikel VI RRWN
 
 Als volgens de optant sprake is geweest van samenleving in gezinsverband in Nederland, zal dit over het algemeen aannemelijk gemaakt kunnen worden door het overleggen van een uittreksel uit de GBA. Als sprake is geweest van samenleving in gezinsverband in het buitenland dan dient dit – voor zover mogelijk – aan de hand van een officieel document van een overheidsinstantie, of anderszins genoegzaam, te worden aangetoond. Uit dit/deze document(en) moet blijken dat de vader en het minderjarige kind op hetzelfde adres ingeschreven hebben gestaan gedurende een periode van tenminste drie jaar na de erkenning of wettiging van het kind. Behoudens in het geval van contra-indicaties (bijvoorbeeld als uit andere bronnen blijkt dat vader en kind in die periode niet (constant) hebben samengeleefd op hetzelfde adres), kan met het overleggen van (een) dergelijk document worden volstaan.
 
@@ -1615,6 +1615,20 @@ Voor de procedure en de door optant te overleggen documenten geldt hetzelfde als
 ### Artikel VI RRWN
 
 ### Artikel VII RRWN
+
+## Bijlage 1. Modellen behorende bij de optieprocedure
+
+## Bijlage 2. Modellen behorende bij de naturalisatieprocedure
+
+## Bijlage 3. Modellen met beperking tot bezit en afstand van het Nederlanderschap
+
+### Artikel 18
+
+### Artikel 19
+
+### Artikel 20
+
+### Artikel III RRWN
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
