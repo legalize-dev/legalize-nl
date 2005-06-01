@@ -211,35 +211,3 @@ c. In afwijking van onderdeel b, is het op afstand onderhouden van geautomatisee
 d. Reparatie aan het geautomatiseerde informatiesysteem waarin de informatie en de gegevens worden verwerkt vindt op locatie plaats. Van de eerste volzin kan worden afgeweken indien de informatie en gegevens zijn verwijderd en niet te achterhalen zijn.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
-
-## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01)
-
-### I. Beveiligingseis algemeen
-
-Er is een functionaris, belast met het toezicht op de uitvoering en naleving van de beveiligingsmaatregelen. De functionaris voert daartoe regelmatig controles uit en legt de resultaten daarvan vast.
-
-### II. Beveiligingseisen ten aanzien van personeel
-
-c. Uitsluitend personeel dat overeenkomstig de functiebeschrijving belast is met de verwerking van de informatie en gegevens heeft toegang tot de informatie en de gegevens.
-
-### III. Fysieke beveiliging en beveiliging van de omgeving
-
-g. Personen belast met onderhouds- en reparatiewerkzaamheden in de ruimte waarin de informatie en de gegevens zich bevinden worden door eigen geautoriseerd personeel begeleid.
-
-### IV. Beheer van communicatie- en bedieningsprocessen
-
-d. De verwijdering en vernietiging van de informatie en gegevens geschiedt op een onomkeerbare wijze. Van de verwijdering en vernietiging wordt een rapport opgemaakt, dat in afschrift wordt gezonden aan de bevoegde autoriteit wie het aangaat dan wel een door deze aangewezen instantie.
-
-### V. Toegangsbeveiliging van geautomatiseerde informatiesystemen
-
-h. De autorisaties van alle gebruikers worden vastgelegd.
-
-### VI. Ontwikkeling, onderhoud en reparatie van geautomatiseerde informatiesystemen
-
-d. Reparatie aan het geautomatiseerde informatiesysteem waarin de informatie en de gegevens worden verwerkt vindt op locatie plaats. Van de eerste volzin kan worden afgeweken indien de informatie en gegevens zijn verwijderd en niet te achterhalen zijn.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
