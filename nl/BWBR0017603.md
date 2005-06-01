@@ -4,7 +4,7 @@ identifier: "BWBR0017603"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-06-01"
-last_updated: "2004-12-12"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017603"
 soort: "ministeriele-regeling"
@@ -41,15 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer is van het archief ‘Collectie Van Kleffens II 1947–1951’ het inventarisnummer 337 pas geheel openbaar met ingang van 1 januari van het vijfde jaar na het overlijden van de daarin genoemde personen.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer is van het archief ‘Collectie Van Kleffens II 1947–1951’ het inventarisnummer 337 pas geheel openbaar met ingang van 1 januari 2010.
 
 ##### Artikel 2
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017603&artikel=1&z=2004-12-12&g=2004-12-12) genoemde inventarisnummer, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017603&artikel=1&z=2005-06-01&g=2005-06-01) genoemde inventarisnummer, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 3
 
-Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017603&artikel=1&z=2004-12-12&g=2004-12-12) genoemde inventarisnummer, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017603&artikel=1&z=2005-06-01&g=2005-06-01) genoemde inventarisnummer, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 4
 
