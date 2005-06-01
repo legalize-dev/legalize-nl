@@ -4,7 +4,7 @@ identifier: "BWBR0005813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005813"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
+1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
 
 2. Deze regeling verstaat onder:
 
@@ -117,7 +117,13 @@ Ingeval de eenheid van de Belastingdienst waar aangifte moet worden gedaan ter z
 
 ##### Artikel 7
 
-Vervallen
+1. Het voldoen aan de in [artikel 9b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) vermelde voorwaarde dient te blijken uit de voor de auto verleende typegoedkeuring als bedoeld in [artikel 22 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22).
+
+2. Indien voor de auto geen typegoedkeuring is verleend, dient het voldoen aan de in het eerste lid bedoelde voorwaarde te blijken uit een voor de auto verleende individuele goedkeuring als bedoeld in [artikel 26 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26).
+
+3. Bij de in het tweede lid bedoelde individuele keuring van de auto wordt door belanghebbende het goedkeuringsformulier, als bedoeld in bijlage X behorende bij [richtlijn nr. 70/220/EEG](31970L0220) van de Raad van de Europese Gemeenschappen van 20 maart 1970 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten met betrekking tot de maatregelen die moeten worden genomen tegen de luchtverontreiniging door gassen afkomstig van motoren met elektrische ontsteking in motorvoertuigen (PbEG L 76), overgelegd. Uit dit goedkeuringsformulier dient te blijken wat de gemeten emissie van deeltjes is.
+
+4. Indien uit het goedkeuringsformulier zelf niet blijkt wat de gemeten emissie van deeltjes is, kan het aantonen daarvan geschieden door overlegging van het bij het goedkeuringsformulier behorende testrapport. Het testrapportnummer dient volledig overeen te komen met het nummer dat is vermeld op het goedkeuringsformulier.
 
 ##### Artikel 8
 
