@@ -4,7 +4,7 @@ identifier: "BWBR0011173"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2000-07-01"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011173"
 soort: "wet"
@@ -93,6 +93,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 11. Uitsluitend ten aanzien van vermeerdering van de arbeidsduur kan van dit artikel of een of meer onderdelen daarvan worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging.
 
 12. Dit artikel is niet van toepassing ten aanzien van een werkgever met minder dan 10 werknemers. Deze dient een regeling te treffen met betrekking tot het recht van de werknemers op aanpassing van de arbeidsduur.
+
+13. Voor de toepassing van het elfde lid geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
 
 #### Beëindiging arbeidsverhouding
 
