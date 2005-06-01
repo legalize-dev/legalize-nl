@@ -4,7 +4,7 @@ identifier: "BWBR0002170"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2005-02-01"
+last_updated: "2005-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002170"
 soort: "wet"
@@ -70,7 +70,7 @@ Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](onbekend) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op de Centrale Raad van Beroep, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2005-02-01&g=2005-02-01);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2005-06-01&g=2005-06-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de Wet rechtspositie rechterlijke ambtenaren genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk lid van het bestuur vast te stellen salarishoogte;
 
@@ -262,9 +262,9 @@ De werking van een uitspraak met betrekking tot een besluit, genomen op grond va
 
 ##### Artikel 23
 
-1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven. [Artikel 22, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-02-01&g=2005-02-01), is van overeenkomstige toepassing.
+1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven. [Artikel 22, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-06-01&g=2005-06-01), is van overeenkomstige toepassing.
 
-2. [Artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-02-01&g=2005-02-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-06-01&g=2005-06-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -296,7 +296,7 @@ De Centrale Raad van Beroep bevestigt de uitspraak van de rechtbank, hetzij met 
 
 ##### Artikel 27
 
-In de gevallen, bedoeld in [artikel 26, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=26&z=2005-02-01&g=2005-02-01), kan de Centrale Raad van Beroep de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 26, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=26&z=2005-06-01&g=2005-06-01), kan de Centrale Raad van Beroep de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 28
 
@@ -310,9 +310,9 @@ Bij een wijziging van de bijlage die bij deze wet behoort, blijft de bijlage zoa
 
 - a. de mogelijkheid om hoger beroep in te stellen tegen een uitspraak die voor dat tijdstip is gedaan;
 
-- b. de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=19&z=2005-02-01&g=2005-02-01) bedoelde gevolgen van dat hoger beroep;
+- b. de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=19&z=2005-06-01&g=2005-06-01) bedoelde gevolgen van dat hoger beroep;
 
-- c. de hoogte van het griffierecht bij hoger beroep tegen een uitspraak inzake een besluit als bedoeld in [artikel 22, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-02-01&g=2005-02-01), dat voor dat tijdstip is bekendgemaakt;
+- c. de hoogte van het griffierecht bij hoger beroep tegen een uitspraak inzake een besluit als bedoeld in [artikel 22, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2005-06-01&g=2005-06-01), dat voor dat tijdstip is bekendgemaakt;
 
 - d. de hoogte van het griffierecht bij beroep tegen een besluit als bedoeld in [artikel 8:41, derde lid, onderdeel a, onder 1°, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41), dat voor dat tijdstip is bekendgemaakt.
 
