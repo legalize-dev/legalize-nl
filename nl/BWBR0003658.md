@@ -4,7 +4,7 @@ identifier: "BWBR0003658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-20"
-last_updated: "2005-04-20"
+last_updated: "2005-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003658"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
-- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-04-20&g=2005-04-20) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
+- a. onbewerkte of bewerkte eet- of drinkwaren, met uitzondering van: voor zover de producten uit de genoemde productgroepen onder 1 en 2 niet met name in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-06-04&g=2005-06-04) zijn genoemd, in welk geval het residugehalte niet hoger mag zijn dan in de desbetreffende bijlage met inachtneming van de daarbij gestelde aanwijzingen is aangegeven;
 
 - 1. specerijen, bedoeld in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
@@ -56,13 +56,13 @@ De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbar
 
 - 4. de waren, bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
 
-- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-04-20&g=2005-04-20) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
+- b. bewerkte eet- of drinkwaren, waarvoor in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-06-04&g=2005-06-04) geen afzonderlijk toegelaten gehalte is aangegeven, mag niet hoger zijn dan het in de voor onbewerkte eet- of drinkwaren vastgestelde gehalte, waarbij rekening gehouden wordt met de concentratie- of verdunningsfactor;
 
-- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-04-20&g=2005-04-20), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
+- c. samengestelde eet- of drinkwaren mag niet hoger zijn dan het volgens [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-06-04&g=2005-06-04), toegelaten gehalte van de afzonderlijke onbewerkte eet- of drinkwaren in het mengsel, waarbij rekening gehouden wordt met de relatieve concentraties van deze eet- of drinkwaren in het mengsel en met het gestelde onder b.
 
 ##### Artikel 2
 
-Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-04-20&g=2005-04-20) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2005-04-20&g=2005-04-20) in acht te worden genomen.
+Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2005-06-04&g=2005-06-04) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2005-06-04&g=2005-06-04) in acht te worden genomen.
 
 ##### Artikel 3
 
@@ -998,8 +998,8 @@ Door vernummering vervallen.
 |   |   |   | oliehoudende zaden | 0,02* |   |   |
 |   |   |   | thee | 0,02* |   |   |
 |   |   |   | hop | 0,05 |   |   |
-|   |   |   | runderlever | 0,02 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | overig vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | runderlever | 0,02 | 1) in het vet |   |
+|   |   |   | overig vlees | 0,01* | 1) in het vet |   |
 |   |   |   | melk | 0,005* |   |   |
 |   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
@@ -1091,7 +1091,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | aramiet | geen | aramiet | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,01* | 1) in het vet |   |
 |   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
 | arseenverbindingen | geen | As | fruit | 0,1 |   |   |
@@ -1106,14 +1106,14 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | azamethifos | geen | azamethifos | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| azimsulfuron | geen | azimsulfuron | oliehoudende zaden | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |   |
-|   |   |   | thee | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |   |
-|   |   |   | hop | 0,1* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |   |
-|   |   |   | overige | 0,02* | 1. Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148). |   |
+| azimsulfuron | geen | azimsulfuron | oliehoudende zaden | 0,1* | 1) in het vet |   |
+|   |   |   | thee | 0,1* | 1) in het vet |   |
+|   |   |   | hop | 0,1* | 1) in het vet |   |
+|   |   |   | overige | 0,02* | 1) in het vet |   |
 |   |   |   |   |   |   |   |
 | azinfos-ethyl | geen | azinfos-ethyl | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | azinfos-methyl | geen | azinfos-methyl | citrusvruchten | 2 |   |   |
@@ -1184,7 +1184,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | barban | geen | barban | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | benalaxyl | geen | benalaxyl | tafel- en wijndruiven | 0,2 |   |   |
@@ -1250,7 +1250,7 @@ Door vernummering vervallen.
 |   |   |   | hop | 10 |   |   |
 |   |   |   | tarwe, gerst, haver en triticale | 0,5 |   |   |
 |   |   |   | rundvet | 0,1 |   |   |
-|   |   |   | overig vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | overig vlees | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,01* |   |   |
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -1279,7 +1279,7 @@ Door vernummering vervallen.
 |   |   |   | oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | boscalid | geen | boscalid | Cucurbitacea (met eetbare schil) | 0,2 |   | 19 |
@@ -1327,7 +1327,7 @@ Door vernummering vervallen.
 |   |   |   | oliehoudende zaden | 0,1* |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | buminafos | di-n-butylfosfiet | buminafos | alle | 0,05* |   |   |
@@ -1351,15 +1351,15 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | camfechloor (toxafeen) |   |   |   |   |   |   |
 | a) plantaardige producten | geen | camfechloor (toxafeen) (gechloreerd kamfeen met 67-69% chloor | alle | 0,1* |   | 9 |
-| b) dierlijke producten | Parlar 26, Parlar 50 en Parlar 62 | som van Parlar 26, Parlar 50 en Parlar 62 | pluimveevlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148)en 22)in de residudefinitie betrokken congeneren van camfechloor (toxafeen) zijn:Parlar 26: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-octachloorbornaanParlar 50: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-nonachloorbornaanParlar 62: 2,2,5,5,8,9,9,10,10-nonachloorbornaan | 9 |
+| b) dierlijke producten | Parlar 26, Parlar 50 en Parlar 62 | som van Parlar 26, Parlar 50 en Parlar 62 | pluimveevlees | 0,05* | 1) in het veten 22)in de residudefinitie betrokken congeneren van camfechloor (toxafeen) zijn:Parlar 26: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-octachloorbornaanParlar 50: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-nonachloorbornaanParlar 62: 2,2,5,5,8,9,9,10,10-nonachloorbornaan | 9 |
 |   |   |   | eieren | 0,05* | 22) in de residudefinitie betrokken congeneren van camfechloor (toxafeen) zijn: Parlar 26: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-octachloorbornaan Parlar 50: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-nonachloorbornaan Parlar 62: 2,2,5,5,8,9,9,10,10-nonachloorbornaan | 9 |
-|   | geen | camfechloor (toxafeen) (gechloreerd kamfeen met 67-69% chloor | vlees (behalve pluimveevlees) | 0,1* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   | geen | camfechloor (toxafeen) (gechloreerd kamfeen met 67-69% chloor | vlees (behalve pluimveevlees) | 0,1* | 1) in het vet | 9 |
 |   |   |   | melk | 0,1* |   | 9 |
 |   |   |   |   |   |   |   |
 | captafol | geen | captafol | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | granen | 0,05 |   |   |
-|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   |   |   | vlees | 0,01* | 1) in het vet | 9 |
 |   |   |   | melk | 0,01* |   | 9 |
 |   |   |   | eieren | 0,01* |   | 9 |
 |   |   |   | overige | 0,02* |   |   |
@@ -1524,13 +1524,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | chloorbenside | geen | chloorbenside | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,05* |   |   |
 |   |   |   | eieren | 0,05* |   |   |
 |   |   |   | overige | 0,01* |   |   |
 | chloorbenzilaat | geen | chloorbenzilaat | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,1* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,1* | 1) in het vet |   |
 |   |   |   | melk | 0,1* |   |   |
 |   |   |   | eieren | 0,1* |   |   |
 |   |   |   | overige | 0,02* |   |   |
@@ -1573,7 +1573,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | chloorfenson | geen | chloorfenson | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,05* |   |   |
 |   |   |   | eieren | 0,05* |   |   |
 |   |   |   | overige | 0,01* |   |   |
@@ -1642,7 +1642,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | gerst | 0,2 |   |   |
-|   |   |   | pluimveevlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |   |
 |   |   |   | rundvlees | 2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | schapenvlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,01* |   |   |
@@ -1660,7 +1660,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | granen | 3 |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,01* |   |   |
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -1719,7 +1719,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | chloroxuron | geen | chloroxuron | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | chlozolinaat | geen | chlozolinaat | thee | 0,1* |   |   |
@@ -1742,6 +1742,8 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cloquintoceet-mexyl | 5-chloor-8-quinolinyloxy-azijnzuur | cloquintoceetmexyl | alle | 0,1* |   |   |
+|   |   |   |   |   |   |   |
+| codlemon | geen | codlemon | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cresolen | geen | cresol | alle | 0,1* |   |   |
 |   |   |   |   |   |   |   |
@@ -1772,6 +1774,16 @@ Door vernummering vervallen.
 | cyanofenfos | geen | cyanofenfos | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | cyazofamid | geen | cyazofamid | alle | 0,01* |   | 19 |
+|   |   |   |   |   |   |   |
+| cyazofamide | geen | cyazofamide | tafel- en wijndruiven | 0,5 |   | 6 |
+|   |   |   | tomaten | 0,2 |   | 6 |
+|   |   |   | komkommers | 0,1 |   | 6 |
+|   |   |   | Cucurbitaceae (met niet-eetbare schil) | 0,1 |   | 6 |
+|   |   |   | oliehoudende zaden | 0,02* |   | 6 |
+|   |   |   | thee | 0,02* |   | 6 |
+|   |   |   | hop | 0,02* |   | 6 |
+|   |   |   | granen | 0,02* |   | 6 |
+|   |   |   | overige | 0,01* |   | 6 |
 |   |   |   |   |   |   |   |
 | cycloaat | geen | cycloaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -1908,7 +1920,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,5 |   |   |
 |   |   |   | hop | 30 |   |   |
 |   |   |   | gerst, haver | 0,2 |   |   |
-|   |   |   | pluimveevlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |   |
 |   |   |   | overig vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,02 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   | overige | 0,05* |   |   |
@@ -1949,6 +1961,12 @@ Door vernummering vervallen.
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
+| 2,4-DB | geen | 2,4-DB | thee | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* |   | 6 |
+|   |   |   | lever en nieren | 0,1 |   |   |
+|   |   |   | melk | 0,01* |   | 6 |
+|   |   |   | overige | 0,05* |   | 6 |
+|   |   |   |   |   |   |   |
 | dalapon | geen | dalapon | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | daminozide | 1,1-dimethyl-hydrazine | daminozide | noten | 0,05* |   |   |
@@ -1963,7 +1981,7 @@ Door vernummering vervallen.
 | dazomet | methylisothiocyanaat | methylisothiocyanaat | zie methylisothiocyanaat |   |   |   |
 |   |   |   |   |   |   |   |
 | DDT | p.p/\1\/-DDE en p.p/\1\/-TDE | som van o.p/\1\/-DDT, p.p/\1\/-DDT, p.p /\1\/-DDE en p.p/\1\/-TDE, uitgedrukt als DDT | thee | 0,2 |   |   |
-|   |   |   | cacaoproducten | 0,5 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | cacaoproducten | 0,5 | 1) in het vet |   |
 |   |   |   | vlees | 1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,04 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   | eieren | 0,05 | 4) Het maximumgehalte voor eieren en eiproducten met een vetgehalte van 10% of minder wordt uitgedrukt op basis van het product. Voor eieren en eiproducten met een vetgehalte van meer dan 10% wordt het maximumgehalte uitgedrukt in mg/kg in vet. In dit geval is het maximumgehalte tienmaal hoger dan het maximumgehalte voor eieren. |   |
@@ -2007,7 +2025,7 @@ Door vernummering vervallen.
 |   |   |   | meel | 0,1 |   |   |
 |   |   |   | volkorenmeel | 0,5 |   |   |
 |   |   |   | zemelen (onbewerkt) | 2 |   |   |
-|   |   |   | pluimveevlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | pluimveevlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | demeton (demeton-O en demeton-S) | demeton-sulfoxide en -sulfon | demeton-sulfon (thiolo-vorm) | alle | 0,05* |   |   |
@@ -2091,13 +2109,13 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | 1,1-dichloor-2,2-bis(4-ethyl-fenyl)ethaan | geen | 1,1-dichloor-2,2-bis(4-ethyl-fenyl)ethaan | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,01* | 1) in het vet |   |
 |   |   |   | overige | 0,01* |   |   |
 |   |   |   |   |   |   |   |
 | 1,2-dichloorethaan | geen | 1,2-dichloorethaan | oliehoudende zaden | 0,2* |   | 9 |
 |   |   |   | thee | 0,02* |   | 9 |
 |   |   |   | hop | 0,02* |   | 9 |
-|   |   |   | vlees | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   |   |   | vlees | 0,01* | 1) in het vet | 9 |
 |   |   |   | melk | 0,01* |   |   |
 |   |   |   | eieren | 0,01* |   |   |
 |   |   |   | overige | 0,01* |   | 9 |
@@ -2204,7 +2222,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | dimethachloor | geen | dimethachloor | alle | 0,02* |   |   |
 |   |   |   |   |   |   |   |
-| dimethenamid-P | dimethenamid | som van dimethenamid-P en dimethenamid uitgedrukt als dimethenamid | alle | 0,01* |   | 19 |
+| dimethenamid-P | dimethenamid | som van dimethenamid-P en dimethenamid uitgedrukt als dimethenamid | alle | alle |   | 19 |
 |   |   |   |   |   |   |   |
 | dimethipin | geen | dimethipin | alle | 0,01* |   |   |
 |   |   |   |   |   |   |   |
@@ -2400,16 +2418,16 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,05* |   |   |
 |   |   |   | gerst, haver | 0,2 |   |   |
 |   |   |   | rogge, tarwe en triticale | 0,05 |   |   |
-|   |   |   | vlees (behalve slachtpluimvee) | 0,2 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | slachtpluimvee | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees (behalve slachtpluimvee) | 0,2 | 1) in het vet |   |
+|   |   |   | slachtpluimvee | 0,02* | 1) in het vet |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 |   |   | som van RS- en SR-isomeren | oliehoudende zaden | 0,05* |   |   |
 |   |   |   | thee | 0,05* |   |   |
 |   |   |   | hop | 0,05* |   |   |
 |   |   |   | gerst, haver | 0,05 |   |   |
-|   |   |   | vlees (behalve pluimveevlees) | 0,05 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | slachtpluimvee | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees (behalve pluimveevlees) | 0,05 | 1) in het vet |   |
+|   |   |   | slachtpluimvee | 0,02* | 1) in het vet |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | etheenoxide | 2-chloorethanol | som van etheenoxide en 2-chloorethanol, uitgedrukt als etheenoxide | oliehoudende zaden | 0,2* |   | 9 |
@@ -2417,7 +2435,7 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,02* |   | 9 |
 |   |   |   | granen | 0,02* |   | 9 |
 |   |   |   | specerijen | 0,02* |   | 9 |
-|   |   |   | vlees | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   |   |   | vlees | 0,02* | 1) in het vet | 9 |
 |   |   |   | melk | 0,02* |   | 9 |
 |   |   |   | eieren | 0,02* |   | 9 |
 |   |   |   | overige | 0,01* |   | 9 |
@@ -2481,6 +2499,10 @@ Door vernummering vervallen.
 | ethoxyquin | geen | ethoxyquin | appelen | 3 |   |   |
 |   |   |   | peren | 3 |   |   |
 |   |   |   | overige | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| ethoxysulfuron | geen | ethoxysulfuron | thee | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* |   | 6 |
+|   |   |   | overige | 0,05* |   | 6 |
 |   |   |   |   |   |   |   |
 | ethyleenthioureum | geen | ethyleenthioureum | verhitte eet- en drinkwaar | 0,1 |   |   |
 |   |   |   | overige | 0,02* |   |   |
@@ -2562,7 +2584,7 @@ Door vernummering vervallen.
 |   |   |   | courgettes | 0,5 |   |   |
 |   |   |   | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,02* |   |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2661,7 +2683,7 @@ Door vernummering vervallen.
 |   |   |   | pinda's | 0,05* |   |   |
 |   |   |   | aardappelen | 0,1 |   |   |
 |   |   |   | maïs | 0,1 |   |   |
-|   |   |   | vlees | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,02* | 1) in het vet |   |
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | fenthion | fenthion-sulfoxide en -sulfon | fenthion-sulfon | alle | 0,05* |   |   |
@@ -2720,7 +2742,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | flucythrinaat | geen | som van de isomeren, uitgedrukt als flucythrinaat | thee | 0,1* |   |   |
 |   |   |   | hop | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* |   |   |
 |   |   |   |   |   |   |   |
 | fludioxonil | geen | fludioxonil | tafel- en wijndruiven | 2 |   | 13 |
@@ -2729,9 +2751,6 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | flufenacet | N-(4-(fluorofenyl)-N-isopropyl afgeleide metabolieten | som van flufenacet en N-(4-(fluorofenyl)-N-isopropyl afgeleide metabolieten | aardappelen | 0,1 |   | 19 |
 |   |   |   | overige | 0,05* |   | 19 |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 | flufenoxuron | geen | flufenoxuron | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2754,11 +2773,11 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |
 | flurenol | geen | flurenol | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
-| fluroxypyr | geen | fluroxypyr | thee | 0,1* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |   |
-|   |   |   | hop | 0,1* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |   |
-|   |   |   | gerst, haver, rogge, tarwe en triticale | 0,1 | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |   |
-|   |   |   | nieren | 0,5 | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |   |
-|   |   |   | overige | 0,05* | 3. Aanpassing aan richtlijn 2001/57/EG van 25 juli 2001 (PbEG L 208) |   |
+| fluroxypyr | geen | fluroxypyr | thee | 0,1* | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
+|   |   |   | hop | 0,1* | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
+|   |   |   | gerst, haver, rogge, tarwe en triticale | 0,1 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
+|   |   |   | nieren | 0,5 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
+|   |   |   | overige | 0,05* | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   |   |   |   |   |
 | flusilazol | geen | flusilazol | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2787,6 +2806,10 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,1* |   |   |
 |   |   |   | melk | 0,02* |   |   |
 |   |   |   | overige | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| foramsulfuron | geen | foramsulfuron | thee | 0,05* |   | 6 |
+|   |   |   | hop | 0,05* |   | 6 |
+|   |   |   | overige | 0,01* |   | 6 |
 |   |   |   |   |   |   |   |
 | formetanaat | geen | formetanaat | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -2881,7 +2904,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,02* | 5) som van alfa-HCH en bèta-HCH. | 9 |
 |   |   |   | hop | 0,02* | 5) som van alfa-HCH en bèta-HCH. | 9 |
 |   |   |   | granen | 0,02 | 5) som van alfa-HCH en bèta-HCH. | 9 |
-|   |   |   | cacaoproducten | 0,1 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | cacaoproducten | 0,1 | 1) in het vet |   |
 |   |   |   | vlees | 0,2 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,004 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   | eieren | 0,02 | 4) Het maximumgehalte voor eieren en eiproducten met een vetgehalte van 10% of minder wordt uitgedrukt op basis van het product. Voor eieren en eiproducten met een vetgehalte van meer dan 10% wordt het maximumgehalte uitgedrukt in mg/kg in vet. In dit geval is het maximumgehalte tienmaal hoger dan het maximumgehalte voor eieren. |   |
@@ -2895,7 +2918,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,02* | 5) som van alfa-HCH en bèta-HCH. | 9 |
 |   |   |   | hop | 0,02* | 5) som van alfa-HCH en bèta-HCH. | 9 |
 |   |   |   | granen | 0,02 | 5) som van alfa-HCH en bèta-HCH. |   |
-|   |   |   | cacaoproducten | 0,15 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | cacaoproducten | 0,15 | 1) in het vet |   |
 |   |   |   | vlees | 0,1 | 2) Het maximaal aanvaardbare residugehalte in vlees en bereidingen van vlees wordt uitgedrukt in mg/kg vet. Bedraagt het vetgehalte echter 10 gewichtsprocenten of minder, dan wordt het residu gerelateerd aan het totale gewicht van het uitgebeende product. Het maximaal toegelaten residu bedraagt dan 1/10 van de aan het vetgehalte gerelateerde waarde, maar 0,01 mg/kg. |   |
 |   |   |   | melk | 0,003 | 3) Het maximaal aanvaardbare residugehalte in koemelk wordt uitgedrukt op basis van het product. Bij de vaststelling ervan is uitgegaan van een gewichtspercentage vet van 4%. Voor van andere dieren afkomstige melk en voor producten van melk worden residuen als volgt uitgedrukt. met een vetgehalte van minder dan 2 gewichtsprocenten is het maximumgehalte gelijk aan de helft van het voor melk vastgestelde maximumgehalte; met een vetgehalte van tenminste 2 gewichtsprocenten wordt het maximumgehalte uitgedrukt in mg/kg vet. In dit geval is het maximumgehalte 25-maal het voor melk vastgestelde maximumgehalte. |   |
 |   |   |   | eieren | 0,01 | 4) Het maximumgehalte voor eieren en eiproducten met een vetgehalte van 10% of minder wordt uitgedrukt op basis van het product. Voor eieren en eiproducten met een vetgehalte van meer dan 10% wordt het maximumgehalte uitgedrukt in mg/kg in vet. In dit geval is het maximumgehalte tienmaal hoger dan het maximumgehalte voor eieren. |   |
@@ -2991,6 +3014,10 @@ Door vernummering vervallen.
 |   |   |   | overige | 0,02* |   |   |
 |   |   |   |   |   |   |   |
 | imazamethabenz-methyl | geen | imazamethabenz-methyl | alle | 0,05* |   |   |
+|   |   |   |   |   |   |   |
+| imazamox | geen | imazamox | thee | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* |   | 6 |
+|   |   |   | overige | 0,05* |   | 6 |
 |   |   |   |   |   |   |   |
 | imazapyr | geen | imazapyr | alle | 0,05* |   |   |
 |   |   |   |   |   |   |   |
@@ -3128,7 +3155,7 @@ Door vernummering vervallen.
 | kwikverbindingen | geen | Hg | oliehoudende zaden | 0,02* | 0,02* |   | 9 |
 |   |   |   | thee | 0,02* | 0,02* |   | 9 |
 |   |   |   | hop | 0,02* | 0,02* |   | 9 |
-|   |   |   | vlees | 0,02* | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   |   |   | vlees | 0,02* | 0,02* | 1) in het vet | 9 |
 |   |   |   | visserijproducten |   |   | 18) zie Warenwetregeling Verontreinigingen in levensmiddelen |   |
 |   |   |   | overige | 0,01* | 0,01* |   | 9 |
 |   |   |   |   |   |   |   |   |
@@ -3142,7 +3169,19 @@ Door vernummering vervallen.
 |   |   |   | hop | 0,05* | 0,05* |   |   |
 |   |   |   | overige | 0,01* | 0,01* |   |   |
 |   |   |   |   |   |   |   |   |
-| linuron | 3,4-dichlooraniline | 3,4-dichlooraniline | zie 3,4-dichlooraniline |   |   |   |   |
+| linuron | geen | linuron | wortelen | 0,2 | 0,2 |   | 6 |
+|   |   |   | knolselderij | 0,5 | 0,5 |   | 6 |
+|   |   |   | pastinaken | 0,2 | 0,2 |   | 6 |
+|   |   |   | wortelpeterselie | 0,2 | 0,2 |   | 6 |
+|   |   |   | peterselie | 1 | 1 |   | 6 |
+|   |   |   | selderijbladeren | 1 | 1 |   | 6 |
+|   |   |   | bonen (zonder peul) | 0,1 | 0,1 |   | 6 |
+|   |   |   | erwten (zonder peul) | 0,1 | 0,1 |   | 6 |
+|   |   |   | bleekselderij | 0,1 | 0,1 |   | 6 |
+|   |   |   | oliehoudende zaden | 0,1* | 0,1* |   | 6 |
+|   |   |   | thee | 0,1* | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* | 0,1* |   | 6 |
+|   |   |   | overige | 0,05* | 0,05* |   | 6 |
 |   |   |   |   |   |   |   |   |
 | malathion | malaoxon | malathion | citrusvruchten | 2 | 2 |   |   |
 |   |   |   | overig fruit | 0,5 | 0,5 |   |   |
@@ -3249,7 +3288,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | methacrifos | geen | methacrifos | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | vlees | 0,01* | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,01* | 0,01* | 1) in het vet |   |
 |   |   |   | melk | 0,01* | 0,01* |   |   |
 |   |   |   | eieren | 0,01* | 0,01* |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
@@ -3326,7 +3365,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | methoxychloor | geen | methoxychloor | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | vlees | 0,01* | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,01* | 0,01* | 1) in het vet |   |
 |   |   |   | overige | 0,01* | 0,01* |   |   |
 |   |   |   |   |   |   |   |   |
 | methylbromide | geen (voor de metaboliet bromide-ion, zie bromide anorganisch) | methylbromide | noten | 0,1* | 0,1* |   |   |
@@ -3464,7 +3503,7 @@ Door vernummering vervallen.
 | nitrofen | geen | nitrofen | oliehoudende zaden | 0,02* | 0,02* |   | 9 |
 |   |   |   | thee | 0,02* | 0,02* |   | 9 |
 |   |   |   | hop | 0,02* | 0,02* |   | 9 |
-|   |   |   | vlees | 0,01* | 0,01* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) | 9 |
+|   |   |   | vlees | 0,01* | 0,01* | 1) in het vet | 9 |
 |   |   |   | overige | 0,01* | 0,01* |   |   |
 |   |   |   |   |   |   |   |   |
 | nitrothal-isopropyl | 5-nitro-isoftaalzuur | som van nitrothal-isopropyl en 5-nitro-isoftaalzuur | appelen | 0,5 | 0,5 |   |   |
@@ -3479,6 +3518,10 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | orbencarb | geen | orbencarb | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
+| oxadiargyl | geen | oxadiargyl | thee | 0,05* | 0,05* |   | 6 |
+|   |   |   | hop | 0,05* | 0,05* |   | 6 |
+|   |   |   | overige | 0,01* | 0,01* |   | 6 |
+|   |   |   |   |   |   |   |   |
 | oxadixyl | geen | oxadixyl | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
 | oxamyl | oxamyl-oxim | oxamyl | bananen | 0,05 | 0,05 |   |   |
@@ -3489,6 +3532,10 @@ Door vernummering vervallen.
 |   |   |   | andijvie | 0,5 | 0,5 |   |   |
 |   |   |   | bonen (met peul) | 0,2 | 0,2 |   |   |
 |   |   |   | overige | 0,02* | 0,02* |   |   |
+|   |   |   |   |   |   |   |   |
+| oxasulfuron | geen | oxasulfuron | thee | 0,1* | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* | 0,1* |   | 6 |
+|   |   |   | overige | 0,05* | 0,05* |   | 6 |
 |   |   |   |   |   |   |   |   |
 | oxycarboxim | aniline | aniline | zie aniline |   |   |   |   |
 |   |   |   |   |   |   |   |   |
@@ -3526,15 +3573,24 @@ Door vernummering vervallen.
 |   |   |   | artisjokken | 0,2 | 0,2 |   |   |
 |   |   |   | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,5 | 0,5 |   |   |
-|   |   |   | vlees | 0,05* | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0.01* | 0.01* |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
 | pencycuron | geen | pencycuron | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
-| pendimethalin | geen | pendimethalin | alle | 0,05* | 0,05* |   |   |
+| pendimethalin | geen | pendimethalin | wortelen | 0,2 | 0,2 |   | 6 |
+|   |   |   | mierikswortel | 0,2 | 0,2 |   | 6 |
+|   |   |   | pastinaken | 0,2 | 0,2 |   | 6 |
+|   |   |   | wortelpeterselie | 0,2 | 0,2 |   | 6 |
+|   |   |   | peulgroenten (vers) | 0,2 | 0,2 |   | 6 |
+|   |   |   | oliehoudende zaden | 0,1* | 0,1* |   | 6 |
+|   |   |   | thee | 0,1* | 0,1* |   | 6 |
+|   |   |   | hop | 0,1* | 0,1* |   | 6 |
+|   |   |   | vlees | 0,05* | 0,05* | 1) in het vet | 6 |
+|   |   |   | overige | 0,05* | 0,05* |   | 6 |
 |   |   |   |   |   |   |   |   |
-| pentachloorfenol | geen | pentachloorfenol | alle | 0,01* | 0,01* |   |   |
+| pentachloorfenol | geen | pentachloorfenol | alle | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
 | perazijnzuur | geen | peroxide | zie peroxide |   |   |   |   |
 |   |   |   |   |   |   |   |   |
@@ -3634,10 +3690,10 @@ Door vernummering vervallen.
 |   |   |   | rijst | 1 | 1 |   |   |
 |   |   |   | gerst en haver | 1 | 1 |   |   |
 |   |   |   | rogge, tarwe en triticale | 0,5 | 0,5 |   |   |
-|   |   |   | rundervet | 0,2 | 0,2 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | runderlever | 2 | 2 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | rundernieren | 0,5 | 0,5 | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
-|   |   |   | overig vlees | 0,1* | 0,1* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | rundervet | 0,2 | 0,2 | 1) in het vet |   |
+|   |   |   | runderlever | 2 | 2 | 1) in het vet |   |
+|   |   |   | rundernieren | 0,5 | 0,5 | 1) in het vet |   |
+|   |   |   | overig vlees | 0,1* | 0,1* | 1) in het vet |   |
 |   |   |   | melk | 0,02* | 0,02* |   |   |
 |   |   |   | eieren | 0,1* | 0,1* |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
@@ -3683,16 +3739,16 @@ Door vernummering vervallen.
 |   |   |   | katoenzaad | 2 | 2 |   |   |
 |   |   |   | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 0,05* | 1) in het vet |   |
 |   |   |   | melk | 0,01* | 0,01* |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
-| prohexadion | geen | som van prohexadion en zijn zouten, uitgedrukt als prohexadion | oliehoudende zaden | 0,1* | 0,1* | 1. |   |
-|   |   |   | thee | 0,1* | 0,1* | 1. |   |
-|   |   |   | hop | 0,1* | 0,1* | 1. |   |
-|   |   |   | tarwe, gerst | 0,2 | 0,2 | 1. |   |
-|   |   |   | melk | 0,01* | 0,01* | 1. |   |
-|   |   |   | overige | 0,05* | 0,05* | 1. |   |
+| prohexadion | geen | som van prohexadion en zijn zouten, uitgedrukt als prohexadion | oliehoudende zaden | 0,1* | 0,1* |   | 1 |
+|   |   |   | thee | 0,1* | 0,1* |   | 1 |
+|   |   |   | hop | 0,1* | 0,1* |   | 1 |
+|   |   |   | tarwe, gerst | 0,2 | 0,2 |   | 1 |
+|   |   |   | melk | 0,01* | 0,01* |   | 1 |
+|   |   |   | overige | 0,05* | 0,05* |   | 1 |
 |   |   |   |   |   |   |   |   |
 | prometryn | geen | prometryn | groenten | 0,1 | 0,1 |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
@@ -3829,7 +3885,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | pyrazofos | geen | pyrazofos | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | vlees | 0,02* | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,02* | 0,02* | 1) in het vet |   |
 |   |   |   | koemelk | 0,02* | 0,02* |   |   |
 |   |   |   | eieren en eiproducten | 0,1* | 0,1* |   |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
@@ -3902,7 +3958,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,2* | 0,2* |   |   |
 |   |   |   | hop | 0,2* | 0,2* |   |   |
 |   |   |   | granen | 0,05* | 0,05* |   |   |
-|   |   |   | vlees | 0,1* | 0,1* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,1* | 0,1* | 1) in het vet |   |
 |   |   |   | overige | 0,1* | 0,1* |   |   |
 |   |   |   |   |   |   |   |   |
 | rimsulfuron | geen | rimsulfuron | alle | 0,05* | 0,05* |   |   |
@@ -3969,7 +4025,7 @@ Door vernummering vervallen.
 |   |   |   |   |   |   |   |   |
 | tecnazeen | geen | tecnazeen | thee | 0,1* | 0,1* |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
-|   |   |   | vlees | 0,05* | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
 | teflubenzuron | geen | teflubenzuron | pitvruchten | 0,5 | 0,5 |   |   |
@@ -4099,7 +4155,7 @@ Door vernummering vervallen.
 |   |   |   | tafel- en wijndruiven | 2 | 2 |   |   |
 |   |   |   | aardbeien (andere dan bosaardbeien) | 0,5 | 0,5 |   |   |
 |   |   |   | bananen | 0,2 | 0,2 |   |   |
-|   |   |   | ananassen | 3 | 3 | 23) waarvan maximaal 1 mg/kg afkomstig van triadimenol. | 22 |
+|   |   |   | ananassen | 3 | 3 | 23) waarvan maximaal 1 mg/kg afkomstig van triadimenol. |   |
 |   |   |   | uien | 0,5 | 0,5 |   |   |
 |   |   |   | bosuien | 1 | 1 |   |   |
 |   |   |   | tomaten | 0,3 | 0,3 |   |   |
@@ -4109,7 +4165,7 @@ Door vernummering vervallen.
 |   |   |   | thee | 0,2* | 0,2* |   |   |
 |   |   |   | hop | 10 | 10 |   |   |
 |   |   |   | gerst, haver, rogge, tarwe en triticale | 0,2 | 0,2 |   |   |
-|   |   |   | vlees | 0,1* | 0,1* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,1* | 0,1* | 1) in het vet |   |
 |   |   |   | overige | 0,1* | 0,1* |   |   |
 |   |   |   |   |   |   |   |   |
 | triadimenol | zie triadimefon | zie triadimefon | zie triadimefon | zie triadimefon | zie triadimefon | zie triadimefon | zie triadimefon |
@@ -4131,10 +4187,13 @@ Door vernummering vervallen.
 | triazofos | geen | triazofos | katoenzaad | 0,1 | 0,1 |   |   |
 |   |   |   | thee | 0,05* | 0,05* |   |   |
 |   |   |   | hop | 0,05* | 0,05* |   |   |
-|   |   |   | vlees | 0,02* | 0,02* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,02* | 0,02* | 1) in het vet |   |
 |   |   |   | overige | 0,02* | 0,02* |   |   |
 |   |   |   |   |   |   |   |   |
-| trifloxystrobine | geen | trifloxystrobine | alle | 0,05* | 0,05* |   |   |
+| trifloxystrobine | geen | trifloxystrobine | pitvruchten | 0,5 | 0,5 |   | 19 |
+|   |   |   | gerst | 0,2 | 0,2 |   | 19 |
+|   |   |   | tarwe | 0,05 | 0,05 |   | 19 |
+|   |   |   | overige | 0,02* | 0,02* |   | 19 |
 |   |   |   |   |   |   |   |   |
 | trichlofenidine | geen | trichlofenidine | alle | 0,01* | 0,01* |   |   |
 |   |   |   |   |   |   |   |   |
@@ -4164,15 +4223,10 @@ Door vernummering vervallen.
 |   |   |   | thee | 20 | 20 |   |   |
 |   |   |   | hop | 0,1* | 0,1* |   |   |
 |   |   |   | gerst, haver | 0,2 | 0,2 |   |   |
-|   |   |   | vlees | 0,05* | 0,05* | 1) Aanpassing aan richtlijn 2001/39/EG van 23 mei 2001 (PbEG L 148) |   |
+|   |   |   | vlees | 0,05* | 0,05* | 1) in het vet |   |
 |   |   |   | overige | 0,05* | 0,05* |   |   |
 |   |   |   |   |   |   |   |   |
 | trifenmorf | trifenylcarbinol | trifenmorf | alle | 0,01* | 0,01* |   |   |
-|   |   |   |   |   |   |   |   |
-| trifloxystrobine | geen | trifloxystrobine | pitvruchten | 0,5 | 0,5 |   | 19 |
-|   |   |   | gerst | 0,2 | 0,2 |   | 19 |
-|   |   |   | tarwe | 0,05 | 0,05 |   | 19 |
-|   |   |   | overige | 0,02* | 0,02* |   | 19 |
 |   |   |   |   |   |   |   |   |
 | triflumizool | geen | triflumizool | tomaten | 1 | 1 |   | 23 |
 |   |   |   | komkommers | 0,2 | 0,2 |   |   |
@@ -4323,7 +4377,7 @@ Bij thiabendazool in plaats van granaatappels te lezen papaja’s.
 
 ##### Artikel 1a
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2005-04-20&g=2005-04-20) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&artikel=1&z=2005-06-04&g=2005-06-04) is een hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in een eetwaar op basis van een landbouwproduct, eveneens aanvaardbaar uit oogpunt van volksgezondheid en goed landbouwkundig gebruik, voor zover:
 
 - a. het desbetreffende landbouwproduct in de handel is gebracht in een lidstaat van de Europese Unie die voor dat landbouwproduct een voorlopig maximum residugehalte heeft vastgesteld en die lidstaat dat voorlopig maximum heeft medegedeeld aan de Commissie van de Europese Unie overeenkomstig artikel 4, eerste lid, onder f, van richtlijn nr. 91/414/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 414); en
 
