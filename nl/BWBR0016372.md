@@ -4,7 +4,7 @@ identifier: "BWBR0016372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-01"
-last_updated: "2005-01-08"
+last_updated: "2005-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016372"
 soort: "ministeriele-regeling"
@@ -103,7 +103,7 @@ Ten aanzien van elektrische lastoestellen die deel uitmaken van de uitrusting va
 
 ##### Artikel 3.2
 
-1. In afwijking van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2005-01-08&g=2005-01-08) mogen elektrische lastoestellen die reeds op 15 november 2001 deel uitmaakten van de uitrusting van een vissersvaartuig en die niet voldoen aan [artikel 3.1, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2005-01-08&g=2005-01-08), tot ten hoogste vier jaar na genoemde datum in gebruik blijven aan boord van dat vaartuig, mits de voorschriften van het tweede tot en met zesde lid in acht worden genomen.
+1. In afwijking van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2005-06-08&g=2005-06-08) mogen elektrische lastoestellen die reeds op 15 november 2001 deel uitmaakten van de uitrusting van een vissersvaartuig en die niet voldoen aan [artikel 3.1, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2005-06-08&g=2005-06-08), tot ten hoogste vier jaar na genoemde datum in gebruik blijven aan boord van dat vaartuig, mits de voorschriften van het tweede tot en met zesde lid in acht worden genomen.
 
 2. De elektrische lastoestellen, bedoeld in het eerste lid, en de bijbehorende apparatuur zijn zodanig samengesteld, dat zij geen gevaar voor personen of voor de omgeving kunnen opleveren en zijn op duurzame en opvallende wijze voorzien van de instructies en aanduidingen, nodig voor een veilige bediening en een veilig gebruik.
 
@@ -123,7 +123,7 @@ Ten aanzien van het uitvoeren van laswerkzaamheden met elektrische lastoestellen
 
 - b. de met de laswerkzaamheden belaste persoon maakt gebruik van de bij deze werkzaam-heden behorende beschermende kleding en beschermingsmiddelen;
 
-- c. in geval van lassen met behulp van elektrische lastoestellen die zijn voorzien van apparatuur ter verlaging van de nullast spanning, overtuigt de met de laswerkzaamheden belaste persoon zich bij de aanvang van het werk ervan, met behulp van de in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.2&z=2005-01-08&g=2005-01-08), genoemde controle-inrichting, dat die apparatuur naar behoren werkt;
+- c. in geval van lassen met behulp van elektrische lastoestellen die zijn voorzien van apparatuur ter verlaging van de nullast spanning, overtuigt de met de laswerkzaamheden belaste persoon zich bij de aanvang van het werk ervan, met behulp van de in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.2&z=2005-06-08&g=2005-06-08), genoemde controle-inrichting, dat die apparatuur naar behoren werkt;
 
 - d. onder ongunstige omstandigheden zijn bij het uitvoeren van laswerkzaamheden steeds ten minste twee personen ter plaatse van het werk aanwezig, de persoon die de laswerkzaam-heden verricht hierbij inbegrepen.
 
@@ -147,7 +147,7 @@ Een noodstopvoorziening van de vislieren als bedoeld in [artikel 6.14, tweede li
 
 1. De vislierinstallatie kan in beide richtingen worden aangedreven. De aandrijving van de vislierinstallatie, alsmede de remmen en de koppelingen van de trommels zijn vanuit het stuurhuis bedienbaar.
 
-2. In het stuurhuis is nabij de bedieningsplaats van de vislier een afzonderlijke voorziening aangebracht waarmee, na gebruik van de noodstopvoorziening, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4&artikel=4.1&z=2005-01-08&g=2005-01-08), de remmen van de liertrommels kunnen worden gelicht teneinde een onder spanning staande visdraad vrij te laten vieren. Deze voorziening is zodanig uitgevoerd dat deze bij het loslaten automatisch in de ruststand terugkeert.
+2. In het stuurhuis is nabij de bedieningsplaats van de vislier een afzonderlijke voorziening aangebracht waarmee, na gebruik van de noodstopvoorziening, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4&artikel=4.1&z=2005-06-08&g=2005-06-08), de remmen van de liertrommels kunnen worden gelicht teneinde een onder spanning staande visdraad vrij te laten vieren. Deze voorziening is zodanig uitgevoerd dat deze bij het loslaten automatisch in de ruststand terugkeert.
 
 ##### Artikel 4.3
 
@@ -159,9 +159,9 @@ Vislieren met elektrische of hydraulische aandrijving zijn zodanig ingericht dat
 
 - c. bij toepassing van elektrische hulpstroom het ontstaan van een aardsluiting in de hulpstroomketen niet tot het in gang komen of blijven van de aandrijfmotor of het lichten of gelicht blijven van de remmen kan leiden, en
 
-- d. het in bedrijf komen van de vislier kan worden verhinderd door een in de directe omgeving van de vislier opgestelde werkschakelaar, een noodstopvoorziening als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4&artikel=4.1&z=2005-01-08&g=2005-01-08) of een andere doelmatige inrichting.
+- d. het in bedrijf komen van de vislier kan worden verhinderd door een in de directe omgeving van de vislier opgestelde werkschakelaar, een noodstopvoorziening als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4&artikel=4.1&z=2005-06-08&g=2005-06-08) of een andere doelmatige inrichting.
 
-#### § 4a. Nieuwe vissersvaartuigen
+#### § 4a. Nieuwe vissersvaartuigen, gebouwd op of na 1 januari 2003
 
 ##### Artikel 5.1
 
@@ -177,9 +177,15 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 1. Vissersvaartuigen die zijn gebouwd op of na 1 januari 2003 voldoen aan de voorschriften van [richtlijn nr. 2002/35/EG](32002L0035) van de Commissie van de Europese Gemeenschappen van 25 april 2002 (PbEG L 112) tot wijziging van [Richtlijn 97/70/EG](31997L0070) van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt.
 
-2. De tussentijdse onderzoeken van vissersvaartuigen als bedoeld in het eerste lid vinden eenmaal per twee jaar plaats in de periode van drie maanden voor tot drie maanden na de dag en de maand van afgifte van het certificaat van overeenstemming.
+2. Het eerste lid is slechts van toepassing op vissersvaartuigen die dienstdoen in Nederlandse wateren of hun vangst aan land brengen in een Nederlandse haven.
 
-3. Het eerste en tweede lid zijn slechts van toepassing op vissersvaartuigen die dienstdoen in Nederlandse wateren of hun vangst aan land brengen in een Nederlandse haven.
+#### § 4b. Interval tussentijdse onderzoeken
+
+Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+
+##### Artikel 4b.1
+
+Tussentijdse onderzoeken als bedoeld in [artikel 1.12, vierde lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) vinden eenmaal per twee jaar plaats in de periode van drie maanden voor tot drie maanden na de dag en de maand van afgifte van het certificaat van overeenstemming.
 
 #### § 5. Slotbepalingen
 
