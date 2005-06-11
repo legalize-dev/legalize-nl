@@ -104,9 +104,3 @@ Deze beleidsregels treden in werking de tweede dag na de dagtekening van de Staa
 Deze beleidsregels worden aangehaald als: Beleidsregels van de Minister van Economische Zaken over door het college uit te oefenen taken in de elektronische communicatiesector.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Deze beleidsregels berusten op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [hoofdstuk 6a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=6a) en [artikel 3.2 van de Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&artikel=3.2).
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
