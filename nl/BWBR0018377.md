@@ -468,11 +468,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: EZ-intrekkingsregeling 2005.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 1. Intrekking regelingen betreffende subsidies
-
-#### § 2. Intrekking overige regelingen
-
-#### § 3. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
