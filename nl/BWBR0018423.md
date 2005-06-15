@@ -366,29 +366,3 @@ Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden b
 De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 is verleend, verrichte werkzaamheden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 18a
-
-Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger de Minister telkens nadat een jaar is verstreken binnen drie maanden over de voortgang van het project door middel van een verslag, dat ten minste bevat:
-
-- a. een beschrijving van de activiteiten die tot dan toe in het kader van het project zijn verricht en de activiteiten die gepland staan voor het komende jaar;
-
-- b. een beschrijving van de mate waarin de activiteiten hebben bijgedragen aan de doelstellingen, omschreven in het projectplan;
-
-- c. een financiële rapportage over de betalingen en kosten die tot dan toe in het kader van het project zijn verricht respectievelijk gemaakt en een financiële planning voor het resterende termijn van het project.
-
-#### § 4. Bevoorschotting
-
-#### § 5. Subsidievaststelling
-
-#### § 6. Overgangs- en slotbepalingen
-
-## Bijlage 2. Controleprotocol, als bedoeld in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2007-03-01&g=2007-03-01), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
-
-Bij de controle, op basis waarvan de eindrapportage, als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=5&artikel=22&z=2007-03-01&g=2007-03-01), van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 plaatsvindt, dient aan de naleving van de volgende artikelen op de daarbij aangegeven wijze aandacht te worden besteed.
-
-### Toelichting op het controleprotocol
-
-De minister kan de Accountantsdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit een review laten uitvoeren op de door de accountant van de aanvrager, aan wie de subsidie ingevolge de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 is verleend, verrichte werkzaamheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
