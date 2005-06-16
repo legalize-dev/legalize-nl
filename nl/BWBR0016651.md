@@ -4,7 +4,7 @@ identifier: "BWBR0016651"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-06-16"
-last_updated: "2003-01-01"
+last_updated: "2005-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016651"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Er is een Bestuurlijk landelijk overleg milieuwethandhaving, verder te noemen BL
 
 1. De leden van het BLOM bevorderen dat de afspraken die zijn neergelegd in het beleidsplan, doorwerken in het handhavingsbeleid zoals dat tot stand komt door de instanties die zij vertegenwoordigen of waarvoor zij verantwoordelijk zijn.
 
-2. De leden van het BLOM bevorderen dat de instanties die zij vertegenwoordigen, de gegevens aanleveren, die nodig zijn voor het verslag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016651&paragraaf=1&artikel=3&z=2005-06-16&g=2003-01-01).
+2. De leden van het BLOM bevorderen dat de instanties die zij vertegenwoordigen, de gegevens aanleveren, die nodig zijn voor het verslag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016651&paragraaf=1&artikel=3&z=2005-06-16&g=2005-06-16).
 
 ##### Artikel 5
 
@@ -132,7 +132,7 @@ Het ALOM heeft tot taak de werkzaamheden van het BLOM voor te bereiden en door h
 
 1. De leden van het ALOM bevorderen dat de afspraken die zijn neergelegd in het werkprogramma doorwerken in het handhavingsbeleid zoals dat tot stand komt door de instanties die zij vertegenwoordigen of waarvoor zij verantwoordelijk zijn.
 
-2. De leden van het ALOM bevorderen dat de instanties die zij vertegenwoordigen, de gegevens aanleveren, die nodig zijn voor het verslag, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016651&paragraaf=2&artikel=8&z=2005-06-16&g=2003-01-01).
+2. De leden van het ALOM bevorderen dat de instanties die zij vertegenwoordigen, de gegevens aanleveren, die nodig zijn voor het verslag, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016651&paragraaf=2&artikel=8&z=2005-06-16&g=2005-06-16).
 
 ##### Artikel 10
 
