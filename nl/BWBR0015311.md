@@ -4,7 +4,7 @@ identifier: "BWBR0015311"
 country: "nl"
 rank: "pbo"
 publication_date: "2005-06-18"
-last_updated: "2003-06-01"
+last_updated: "2005-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015311"
 soort: "pbo"
@@ -65,11 +65,11 @@ BESLUIT:
 
 2. De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
 
-3. Uiterlijk voor 1 december 2003 neemt het bestuur, met inachtneming van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=3&artikel=4&z=2005-06-18&g=2003-06-01) een besluit of en tot welk bedrag een heffing als bedoeld in het eerste lid, wordt opgelegd.
+3. Uiterlijk voor 1 december 2003 neemt het bestuur, met inachtneming van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=3&artikel=4&z=2005-06-18&g=2005-06-18) een besluit of en tot welk bedrag een heffing als bedoeld in het eerste lid, wordt opgelegd.
 
 ##### Artikel 3
 
-1. Indien een besluit als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=2&artikel=2&z=2005-06-18&g=2003-06-01), is genomen doet de teler bij het productschap aangifte van de in 2003 beplante oppervlakte van de door hem geteelde bloembollen.
+1. Indien een besluit als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=2&artikel=2&z=2005-06-18&g=2005-06-18), is genomen doet de teler bij het productschap aangifte van de in 2003 beplante oppervlakte van de door hem geteelde bloembollen.
 
 2. De opgave als bedoeld in het eerste lid, wordt gedaan op het "Registratieformulier beplante oppervlakte bloembollen", bedoeld in de Registratieverordening PT bloembollenteelt 1997, met in achtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -77,7 +77,7 @@ BESLUIT:
 
 ##### Artikel 4
 
-1. De heffing die de teler nadat het bestuur een besluit heeft genomen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=2&artikel=2&z=2005-06-18&g=2003-06-01), is verschuldigd, wordt opgelegd naar het grondoppervlak waarop de bloembollen worden geteeld.
+1. De heffing die de teler nadat het bestuur een besluit heeft genomen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=2&artikel=2&z=2005-06-18&g=2005-06-18), is verschuldigd, wordt opgelegd naar het grondoppervlak waarop de bloembollen worden geteeld.
 
 2. De heffing, bedoeld in het eerste lid, bedraagt ten hoogste voor:
 
@@ -110,7 +110,7 @@ Indien een heffingsplichtige gegevens die hem krachtens deze verordening of de V
 
 ##### Artikel 7
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=5&z=2005-06-18&g=2003-06-01), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=5&z=2005-06-18&g=2005-06-18), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 8
 
@@ -126,7 +126,7 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 ##### Artikel 9
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=8&z=2005-06-18&g=2003-06-01) bedoelde termijn heeft betaald, kunnen:
+Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=8&z=2005-06-18&g=2005-06-18) bedoelde termijn heeft betaald, kunnen:
 
 - a. de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
@@ -134,11 +134,11 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 8](https
 
 ##### Artikel 10
 
-De invorderingskosten voortvloeiend uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=8&z=2005-06-18&g=2003-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=9&z=2005-06-18&g=2003-06-01), zijn voor rekening en risico van de ondernemer.
+De invorderingskosten voortvloeiend uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=8&z=2005-06-18&g=2005-06-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=9&z=2005-06-18&g=2005-06-18), zijn voor rekening en risico van de ondernemer.
 
 ##### Artikel 11
 
-De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=5&z=2005-06-18&g=2003-06-01).
+De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015311&paragraaf=4&artikel=5&z=2005-06-18&g=2005-06-18).
 
 ##### Artikel 12
 
