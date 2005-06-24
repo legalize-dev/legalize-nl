@@ -4,7 +4,7 @@ identifier: "BWBR0018404"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-06-24"
-last_updated: "2005-01-01"
+last_updated: "2005-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018404"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ In dit besluit wordt verstaan onder:
 
 - a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de stuurgroep: de stuurgroep, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018404&artikel=2&z=2005-06-24&g=2005-01-01);
+- b. de stuurgroep: de stuurgroep, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018404&artikel=2&z=2005-06-24&g=2005-06-24);
 
-- c. de weesgeneesmiddelen: de geneesmiddelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018404&artikel=2&z=2005-06-24&g=2005-01-01).
+- c. de weesgeneesmiddelen: de geneesmiddelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018404&artikel=2&z=2005-06-24&g=2005-06-24).
 
 ##### Artikel 2
 
