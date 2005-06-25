@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2005-02-05"
+last_updated: "2005-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.145](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.145), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [3.156](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.156), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14) en [9.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.145](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.145), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14) en [9.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2).
 
 2. Deze regeling verstaat onder:
 
@@ -275,15 +275,11 @@ Bij het in [artikel 3.154, eerste lid, van de wet](https://wetten.overheid.nl/jc
 
 ##### Artikel 24a. Beperking geldingsduur verklaring arbeidsrelatie
 
-1. De in [artikel 3.156, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.156) bedoelde termijn van 24 maanden wordt voor de belastingplichtige die ten tijde van het verzoek, bedoeld in het eerste lid van dat artikel, nog niet of nog geen zes maanden de in dat artikel bedoelde voordelen geniet, verkort tot 12 maanden.
-
-2. De termijn gaat voor de in het eerste lid bedoelde belastingplichtige in op de datum waarop de in [artikel 3.156, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.156) bedoelde werkzaamheden zijn aangevangen of naar verwachting zullen aanvangen.
+Vervallen
 
 ##### Artikel 24b. Beperking geldingsduur verklaring arbeidsrelatie
 
-1. Voor de belastingplichtige die nog niet of nog geen zes maanden de in [artikel 3.157, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.157) bedoelde werkzaamheden verricht ten tijde van het verzoek, bedoeld in dat artikel, wordt de in [artikel 3.156, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.156) bedoelde termijn verkort tot 12 maanden.
-
-2. De termijn gaat voor de in het eerste lid bedoelde belastingplichtige in op de datum waarop de in [artikel 3.157, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.157) bedoelde werkzaamheden zijn aangevangen of naar verwachting zullen aanvangen.
+Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -752,11 +748,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2005-02-05) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2005-02-05) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2005-02-05) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2005-06-25&g=2005-06-25) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
