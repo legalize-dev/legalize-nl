@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2005-01-01"
+last_updated: "2005-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -472,7 +472,7 @@ Vervallen
 
 - e. per werknemer het aantal uren dat deze heeft besteed aan het S&O-werk;
 
-- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2005-01-01&g=2005-01-01), bedoelde vereenvoudigde S&O-loon;
+- f. per werknemer het door deze ter zake van het S&O-werk genoten loon uit tegenwoordige dienstbetrekking, dan wel het in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007780&hoofdstuk=VII&artikel=22&z=2005-06-25&g=2005-06-25), bedoelde vereenvoudigde S&O-loon;
 
 - g. de berekening van de S&O-afdrachtvermindering.
 
