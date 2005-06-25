@@ -4,7 +4,7 @@ identifier: "BWBV0002913"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-07-01"
-last_updated: "2003-04-01"
+last_updated: "2005-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002913"
 soort: "verdrag"
@@ -67,7 +67,7 @@ De lidstaten treffen maatregelen voor de toepassing van de besluiten en aanbevel
 
 ##### Artikel 3
 
-Het standpunt dat de lidstaten innemen ten aanzien van de tenuitvoerlegging van de artikelen 96 en 97 van de ACS-EG-Overeenkomst, wanneer hiermee aangelegenheden die onder hun bevoegdheid vallen gemoeid zijn, wordt vastgesteld door de Raad overeenkomstig de in de bijlage opgenomen procedure.
+Het standpunt dat de lidstaten innemen ten aanzien van de uitvoering van de [artikelen 11 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=11_ter), [96](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=96) en [97 van de ACS-EG-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=97), wanneer hiermee aangelegenheden die onder hun bevoegdheid vallen gemoeid zijn, wordt vastgesteld door de Raad overeenkomstig de in de bijlage opgenomen procedure.
 
 Indien de voorgenomen maatregelen betrekking hebben op gebieden die onder de bevoegdheid van de lidstaten vallen, kan de Raad tevens een besluit nemen op initiatief van een lidstaat.
 
@@ -97,6 +97,6 @@ Indien aan het bepaalde in de eerste alinea is voldaan, treedt dit akkoord in we
 
 ##### Artikel 9
 
-Dit akkoord, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde de elf teksten gelijkelijk authentiek, wordt nedergelegd in het archief van het secretariaat-generaal van de Raad, dat een voor eensluitend gewaarmerkt afschrift daarvan doet toekomen aan de regeringen van elk van de ondertekenende staten.
+Dit akkoord, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde de twintig teksten gelijkelijk authentiek, wordt nedergelegd in het archief van het Secretariaat-generaal van de Raad, dat een voor eensluidend gewaarmerkt afschrift doet toekomen aan de regeringen van elk van de ondertekenende staten.
 
 GEDAAN te Brussel, de achttiende september tweeduizend.
