@@ -4,7 +4,7 @@ identifier: "BWBR0012420"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-06-25"
-last_updated: "2001-05-05"
+last_updated: "2005-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012420"
 soort: "ministeriele-regeling"
@@ -64,25 +64,23 @@ Ter uitvoering van zijn taken stelt het BRC tweejaarlijks een werkplan op en zen
 
 1. Het BRC is als volgt samengesteld:
 
-- a. de heer dr. R.W. Welschen, korpsbeheerder van het regionale politiekorps Brabant-Zuid-Oost, voorzitter;
+- a. de heer drs. H.J. Meijer, korpsbeheerder van het regionale politiekorps IJsselland, voorzitter;
 
-- b. de heer drs. A.H.C. Annink, directeur-generaal Openbare Orde en Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te 's-Gravenhage;
+- b. de plaatsvervangend directeur-generaal Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, lid;
 
-- c. mevrouw D. van As-Kleijwegt, korpsbeheerder van het regionale politiekorps Drenthe;
+- c. mevrouw mr. H.W. Samsom-Geerlings, hoofdofficier van justitie van het arrondissementsparket Utrecht, lid;
 
-- d. de heer mr. M.J. Bolhaar, hoofdofficier van justitie te 's-Hertogenbosch;
+- d. mevrouw A.J. Brink-Grootoonk, korpschef van het regionale politiekorps Noord-Holland-Noord, lid;
 
-- e. de heer E.T. van Hoorn, korpschef van het regionale politiekorps Brabant-Noord;
+- e. de heer P.J. van Zunderd, korpschef van het Korps Landelijke Politiediensten;
 
-- f. de heer J. Kuiper, korpschef van het regionale politiekorps Amsterdam-Amstelland;
+- f. de heer J.J. Hoogendoorn MPA, korpschef van het regionale politiekorps Noord- en Oost-Gelderland, lid;
 
-- g. de heer mr. J. Wiarda, korpschef van het regionale politiekorps Haaglanden;
+- g. de heer mr. J.H. van den Heuvel, directeur Opsporingsbeleid van het ministerie van Justitie, lid;
 
-- h. de heer mr. J.H. van den Heuvel, hoofd van de directie opsporingsbeleid van het Ministerie van Justitie te 's-Gravenhage;
+- h. mevrouw drs. A.M. Miedema, hoofd van het Bureau landelijk management development politie en brandweer van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, secretaris.
 
-- i. mevrouw drs. A.M. Miedema, hoofd van het Coördinatiepunt landelijk management development politie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te te 's-Gravenhage, secretaris;
-
-2. De Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie voorzien in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met g, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.
+2. De minister van Binnenlandse Zaken en Koninkrijksrelaties voorziet in overeenstemming met de minister van Justitie in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met f, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.
 
 ##### Artikel 5
 
