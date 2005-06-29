@@ -4,7 +4,7 @@ identifier: "BWBR0003954"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2005-05-13"
+last_updated: "2005-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003954"
 soort: "wet"
@@ -48,9 +48,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De bepalingen van deze wet strekken ten behoeve van de nakoming van verplichtingen die voortvloeien uit richtlijnen van de Raad van de Europese Gemeenschappen en uit andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen naar het inkomen, de winst en het vermogen, de heffing van belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en schenkingen, alsmede de heffing van omzetbelasting en van accijns en de heffing op verzekeringspremies.
 
-2. Deze wet is niet van toepassing op de samenwerking in het kader van artikel 19, zesde lid, van [richtlijn nr. 92/12/EEG](31992L0012) van de Raad van de Europese Gemeenschappen van 25 februari 1992 betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (**PbEG** L76).
+2. Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van:
 
-3. Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van de omzetbelasting in het kader van [verordening (EG) nr. 1798/2003](32003R1798) van de Raad van de Europese Unie van 7 oktober 2003 betreffende de administratieve samenwerking op het gebied van de belasting over de toegevoegde waarde en tot intrekking van [verordening (EEG) nr. 218/92](31992R0218) (PbEU L 264). Bij toepassing van die verordening zijn de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=11&z=2005-01-01&g=2005-05-13) van deze wet van overeenkomstige toepassing.
+- a. de omzetbelasting in het kader van [verordening (EG) nr. 1798/2003](32003R1798) van de Raad van de Europese Unie van 7 oktober 2003 betreffende de administratieve samenwerking op het gebied van de belasting over de toegevoegde waarde en tot intrekking van [verordening (EEG) nr. 218/92](31992R0218) (PbEU L 264);
+
+- b. de accijnzen in het kader van [verordening (EG) nr. 2073/2004](32004R2073) van de Raad van de Europese Unie van 16 november 2004 betreffende de administratieve samenwerking op het gebied van de accijnzen (PbEU L 359).
+
+Bij toepassing van die verordeningen zijn de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=11&z=2005-06-29&g=2005-06-29) van deze wet van overeenkomstige toepassing.
 
 ##### Artikel 2
 
@@ -60,7 +64,7 @@ Deze wet en de daarop berustende bepalingen verstaan onder:
 
 - b. lidstaat: lidstaat van de Europese Unie;
 
-- c. staat: een lidstaat, een Mogendheid of een bestuurlijke eenheid waarmee in de relatie met Nederland een wederkerige regeling bestaat die voorziet in wederzijdse bijstand bij de heffing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-05-13) bedoelde belastingen, alsmede de Nederlandse Antillen en Aruba;
+- c. staat: een lidstaat, een Mogendheid of een bestuurlijke eenheid waarmee in de relatie met Nederland een wederkerige regeling bestaat die voorziet in wederzijdse bijstand bij de heffing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-06-29&g=2005-06-29) bedoelde belastingen, alsmede de Nederlandse Antillen en Aruba;
 
 - d. bevoegde functionaris: de functionaris van de rijksbelastingdienst die als zodanig bij ministeriële regeling is aangewezen;
 
@@ -68,7 +72,7 @@ Deze wet en de daarop berustende bepalingen verstaan onder:
 
 ##### Artikel 3
 
-Als belastingen naar het inkomen, de winst en het vermogen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-05-13) worden, ongeacht de wijze waarop de belasting wordt geheven, beschouwd alle belastingen die worden geheven naar het gehele inkomen, naar de gehele winst, naar het gehele vermogen of naar bestanddelen van het inkomen, van de winst of van het vermogen, daaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende of onroerende zaken en belastingen geheven naar loonsommen.
+Als belastingen naar het inkomen, de winst en het vermogen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-06-29&g=2005-06-29) worden, ongeacht de wijze waarop de belasting wordt geheven, beschouwd alle belastingen die worden geheven naar het gehele inkomen, naar de gehele winst, naar het gehele vermogen of naar bestanddelen van het inkomen, van de winst of van het vermogen, daaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende of onroerende zaken en belastingen geheven naar loonsommen.
 
 ##### Artikel 4
 
@@ -98,7 +102,7 @@ Met betrekking tot de in Nederland geheven belastingen vindt deze wet toepassing
 
 ##### Artikel 5
 
-1. Op verzoek van een bevoegde autoriteit kan Onze Minister haar de inlichtingen verstrekken waarom zij vraagt en die voor haar van belang kunnen zijn bij de heffing van een van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-05-13) bedoelde belastingen.
+1. Op verzoek van een bevoegde autoriteit kan Onze Minister haar de inlichtingen verstrekken waarom zij vraagt en die voor haar van belang kunnen zijn bij de heffing van een van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-06-29&g=2005-06-29) bedoelde belastingen.
 
 2. Onze Minister stelt degene van wie de inlichtingen afkomstig zijn en die in Nederland woont of is gevestigd, in kennis van zijn besluit tot inwilliging van het verzoek om inlichtingen. Bij de kennisgeving geeft Onze Minister een omschrijving van de te verstrekken inlichtingen en vermeldt hij de bevoegde autoriteit van wie het verzoek afkomstig is.
 
@@ -130,19 +134,19 @@ Met betrekking tot de in Nederland geheven belastingen vindt deze wet toepassing
 
 - d. zulks overigens naar het oordeel van Onze Minister is geboden.
 
-2. Onze Minister stelt degene van wie de inlichtingen afkomstig zijn en die in Nederland woont of is gevestigd, in kennis van zijn besluit de inlichtingen te verstrekken. Bij de kennisgeving geeft Onze Minister een omschrijving van de te verstrekken inlichtingen en vermeldt hij de bevoegde autoriteit aan wie de inlichtingen zullen worden verstrekt.[Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2005-01-01&g=2005-05-13), is van overeenkomstige toepassing.
+2. Onze Minister stelt degene van wie de inlichtingen afkomstig zijn en die in Nederland woont of is gevestigd, in kennis van zijn besluit de inlichtingen te verstrekken. Bij de kennisgeving geeft Onze Minister een omschrijving van de te verstrekken inlichtingen en vermeldt hij de bevoegde autoriteit aan wie de inlichtingen zullen worden verstrekt.[Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2005-06-29&g=2005-06-29), is van overeenkomstige toepassing.
 
 ### Afdeling 4. Onderzoek in het kader van te verlenen bijstand
 
 ##### Artikel 8
 
-1. Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2005-01-01&g=2005-05-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6&z=2005-01-01&g=2005-05-13) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=3&artikel=7&z=2005-01-01&g=2005-05-13).
+1. Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2005-06-29&g=2005-06-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6&z=2005-06-29&g=2005-06-29) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=3&artikel=7&z=2005-06-29&g=2005-06-29).
 
 2. Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van [Hoofdstuk VIII, afdeling 2, met uitzondering van artikel 53, tweede en derde lid, van de Algemene wet](onbekend) van overeenkomstige toepassing.
 
 ##### Artikel 9
 
-1. Onze Minister kan na overleg met een bevoegde autoriteit van een staat toestaan dat een ambtenaar van de belastingadministratie van die staat aanwezig is bij een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13).
+1. Onze Minister kan na overleg met een bevoegde autoriteit van een staat toestaan dat een ambtenaar van de belastingadministratie van die staat aanwezig is bij een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29).
 
 2. Bij het overleg worden de voorwaarden vastgesteld waaronder Onze Minister de in het eerste lid bedoelde toestemming kan verlenen.
 
@@ -150,15 +154,15 @@ Met betrekking tot de in Nederland geheven belastingen vindt deze wet toepassing
 
 ##### Artikel 10
 
-Degene bij wie een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13) wordt ingesteld, is verplicht de ambtenaar van de rijksbelastingdienst alsmede de ambtenaar die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=9&z=2005-01-01&g=2005-05-13) bij dit onderzoek aanwezig is, ten behoeve van dit onderzoek toegang te verlenen.
+Degene bij wie een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29) wordt ingesteld, is verplicht de ambtenaar van de rijksbelastingdienst alsmede de ambtenaar die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=9&z=2005-06-29&g=2005-06-29) bij dit onderzoek aanwezig is, ten behoeve van dit onderzoek toegang te verlenen.
 
 ##### Artikel 11
 
-[Hoofdstuk IX van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX) is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=10&z=2005-01-01&g=2005-05-13) bedoelde verplichtingen.
+[Hoofdstuk IX van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX) is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=10&z=2005-06-29&g=2005-06-29) bedoelde verplichtingen.
 
 ##### Artikel 12
 
-Ten dienste van de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-01-01&g=2005-05-13) bedoelde belastingen kan Onze Minister een ambtenaar van de rijksbelastingdienst aanwijzen om aanwezig te zijn bij een onderzoek in een andere staat, dat door of vanwege de bevoegde autoriteit van die staat wordt ingesteld, in het kader van het verstrekken van inlichtingen aan Nederland.
+Ten dienste van de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-06-29&g=2005-06-29) bedoelde belastingen kan Onze Minister een ambtenaar van de rijksbelastingdienst aanwijzen om aanwezig te zijn bij een onderzoek in een andere staat, dat door of vanwege de bevoegde autoriteit van die staat wordt ingesteld, in het kader van het verstrekken van inlichtingen aan Nederland.
 
 ### Hoofdstuk III. Begrenzing van door Nederland te verlenen bijstand; wederkerigheid
 
@@ -170,7 +174,7 @@ Ten dienste van de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1
 
 - b. de openbare orde van de Nederlandse staat zich daartegen verzet;
 
-- c. die inlichtingen in Nederland krachtens wettelijke bepalingen of op grond van de administratieve praktijk niet zouden kunnen worden verkregen voor de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-01-01&g=2005-05-13) bedoelde belastingen;
+- c. die inlichtingen in Nederland krachtens wettelijke bepalingen of op grond van de administratieve praktijk niet zouden kunnen worden verkregen voor de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-06-29&g=2005-06-29) bedoelde belastingen;
 
 - d. aannemelijk is dat de bevoegde autoriteit in de eigen staat niet eerst de gebruikelijke mogelijkheden voor het verkrijgen van de door haar gevraagde inlichtingen heeft aangewend;
 
@@ -184,19 +188,19 @@ Ten dienste van de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1
 
 ##### Artikel 14
 
-1. Het bepaalde betreffende de verplichting tot geheimhouding in artikel 67 van de Algemene wet is van overeenkomstige toepassing op de inlichtingen die door een bevoegde autoriteit zijn verstrekt, alsmede op inlichtingen die bij een onderzoek, als is bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13), zijn verkregen.
+1. Het bepaalde betreffende de verplichting tot geheimhouding in artikel 67 van de Algemene wet is van overeenkomstige toepassing op de inlichtingen die door een bevoegde autoriteit zijn verstrekt, alsmede op inlichtingen die bij een onderzoek, als is bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29), zijn verkregen.
 
 2. Onze Minister verstrekt geen inlichtingen aan een bevoegde autoriteit indien de wetgeving van de staat van die autoriteit geen verplichting tot geheimhouding oplegt aan ambtenaren van de belastingadministratie van die staat met betrekking tot hetgeen hun wordt medegedeeld of blijkt bij de uitvoering van de belastingwetten van die staat.
 
 ##### Artikel 15
 
-1. Tenzij een bevoegde autoriteit anders bepaalt, kunnen de door haar aan Onze Minister verstrekte inlichtingen uitsluitend worden gebruikt voor de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-01-01&g=2005-05-13) bedoelde belastingen.
+1. Tenzij een bevoegde autoriteit anders bepaalt, kunnen de door haar aan Onze Minister verstrekte inlichtingen uitsluitend worden gebruikt voor de heffing van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=1&artikel=4&z=2005-06-29&g=2005-06-29) bedoelde belastingen.
 
 2. Uitsluitend met toestemming van de bevoegde autoriteit van een staat kan Onze Minister de door hem van haar ontvangen inlichtingen aan de bevoegde autoriteit van een andere staat verstrekken.
 
 3. De in artikel 7, eerste lid, eerste alinea, van de richtlijn van de Raad van de Europese Gemeenschappen van 19 december 1977, nr. 77/799/EEG (PbEG L 336) bedoelde inlichtingen mogen door de bevoegde autoriteit van de andere lidstaat worden gebruikt voor de vaststelling van heffingen, rechten en belastingen die vallen onder artikel 2 van de richtlijn van de Raad van de Europese Gemeenschappen van 15 maart 1976, nr. 76/308/EEG (PbEG L 73).
 
-4. Onze Minister kan aan een bevoegde autoriteit toestemming verlenen de inlichtingen voor een ander doel te gebruiken dan voor de heffing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-05-13) bedoelde belastingen.
+4. Onze Minister kan aan een bevoegde autoriteit toestemming verlenen de inlichtingen voor een ander doel te gebruiken dan voor de heffing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-06-29&g=2005-06-29) bedoelde belastingen.
 
 5. Onze Minister kan op een daartoe strekkend verzoek een bevoegde autoriteit toestemming verlenen de van hem ontvangen inlichtingen aan een bevoegde autoriteit van een andere staat te verstrekken.
 
@@ -242,7 +246,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - a. de rente die is aangegroeid of gekapitaliseerd op het moment van de verkoop, de terugbetaling of de aflossing van de schuldvordering;
 
-- b. inkomsten uit rentebetalingen als bedoeld in [artikel 4a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-01-01&g=2005-05-13), en dit lid, onderdeel a, indien deze rechtstreeks of via een uitbetalende instantie als bedoeld in [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-01-01&g=2005-05-13), worden uitgekeerd door een collectieve beleggingsinstelling;
+- b. inkomsten uit rentebetalingen als bedoeld in [artikel 4a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-06-29&g=2005-06-29), en dit lid, onderdeel a, indien deze rechtstreeks of via een uitbetalende instantie als bedoeld in [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-06-29&g=2005-06-29), worden uitgekeerd door een collectieve beleggingsinstelling;
 
 - c. inkomsten die zijn gerealiseerd bij de verkoop, terugbetaling of aflossing van aandelen of bewijzen van deelneming in een collectieve beleggingsinstelling, indien een dergelijke instelling rechtstreeks of via een andere dergelijke instelling meer dan 15% van zijn vermogen belegt in schuldvorderingen.
 
@@ -250,11 +254,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - a. een icbe;
 
-- b. een entiteit die gebruik mag maken van de keuzemogelijkheid van [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4e&z=2005-01-01&g=2005-05-13), of een overeenkomstige keuzemogelijkheid in de lidstaat van vestiging;
+- b. een entiteit die gebruik mag maken van de keuzemogelijkheid van [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4e&z=2005-06-29&g=2005-06-29), of een overeenkomstige keuzemogelijkheid in de lidstaat van vestiging;
 
 - c. een instelling voor collectieve belegging die is gevestigd buiten het grondgebied waarop artikel 299 van het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is.
 
-3. De inkomsten, bedoeld in het eerste lid, onderdeel c, worden slechts als rentebetaling aangemerkt voorzover deze rechtstreeks of middellijk afkomstig zijn van rentebetalingen als bedoeld in [artikel 4a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-01-01&g=2005-05-13), en dit artikel, eerste lid, onderdeel a.
+3. De inkomsten, bedoeld in het eerste lid, onderdeel c, worden slechts als rentebetaling aangemerkt voorzover deze rechtstreeks of middellijk afkomstig zijn van rentebetalingen als bedoeld in [artikel 4a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-06-29&g=2005-06-29), en dit artikel, eerste lid, onderdeel a.
 
 4. Indien een uitbetalende instantie met het oog op de toepassing van het eerste lid, onderdelen b en c, geen informatie heeft over het deel van de inkomsten dat voortkomt uit rentebetalingen, bedoeld in die onderdelen, wordt het volledige bedrag aan inkomsten als rentebetaling aangemerkt.
 
@@ -290,7 +294,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4e. Icbe na keuze
 
-1. De entiteit die op grond van [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-01-01&g=2005-05-13) als uitbetalende instantie wordt aangemerkt, wordt, indien deze daarvoor kiest, voor de toepassing van deze afdeling mede als icbe aangemerkt. Een in Nederland gevestigde entiteit maakt de keuze, bedoeld in de eerste volzin, kenbaar aan de bevoegde functionaris. De bevoegde functionaris bevestigt bij beschikking indien is voldaan aan de voorwaarden voor de keuze.
+1. De entiteit die op grond van [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-06-29&g=2005-06-29) als uitbetalende instantie wordt aangemerkt, wordt, indien deze daarvoor kiest, voor de toepassing van deze afdeling mede als icbe aangemerkt. Een in Nederland gevestigde entiteit maakt de keuze, bedoeld in de eerste volzin, kenbaar aan de bevoegde functionaris. De bevoegde functionaris bevestigt bij beschikking indien is voldaan aan de voorwaarden voor de keuze.
 
 2. Omtrent de keuzemogelijkheid in het eerste lid kunnen bij ministeriële regeling nadere regels worden gesteld.
 
@@ -300,7 +304,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Een natuurlijk persoon wordt niet aangemerkt als uiteindelijk gerechtigde indien hij aantoont dat de rentebetaling niet te zijner gunste is ontvangen of is bewerkstelligd, maar dat hij:
 
-- a. handelt als een uitbetalende instantie als bedoeld in [artikel 4a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-01-01&g=2005-05-13), of
+- a. handelt als een uitbetalende instantie als bedoeld in [artikel 4a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2005-06-29&g=2005-06-29), of
 
 - b. handelt namens een rechtspersoon, of
 
@@ -308,13 +312,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - d. handelt namens een icbe, of
 
-- e. handelt namens een uitbetalende instantie als bedoeld in [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-01-01&g=2005-05-13) en hij aan de marktdeelnemer die de rentebetaling verricht de naam en het adres van deze uitbetalende instantie bekendmaakt, of
+- e. handelt namens een uitbetalende instantie als bedoeld in [artikel 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4d&z=2005-06-29&g=2005-06-29) en hij aan de marktdeelnemer die de rentebetaling verricht de naam en het adres van deze uitbetalende instantie bekendmaakt, of
 
-- f. handelt namens een andere natuurlijke persoon die de uiteindelijk gerechtigde is, en hij aan de uitbetalende instantie met inachtneming van [artikel 4g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4g&z=2005-01-01&g=2005-05-13) de identiteit van die uiteindelijk gerechtigde bekendmaakt.
+- f. handelt namens een andere natuurlijke persoon die de uiteindelijk gerechtigde is, en hij aan de uitbetalende instantie met inachtneming van [artikel 4g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4g&z=2005-06-29&g=2005-06-29) de identiteit van die uiteindelijk gerechtigde bekendmaakt.
 
 2. Het eerste lid, onderdeel e, is slechts van toepassing indien blijkt dat de daar bedoelde marktdeelnemer de hem bekendgemaakte informatie op zijn beurt doorgeeft aan de bevoegde autoriteit van de lidstaat waar hij woont of is gevestigd.
 
-3. De uitbetalende instantie is gehouden redelijke maatregelen te nemen om met inachtneming van [artikel 4g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4g&z=2005-01-01&g=2005-05-13) de identiteit van de uiteindelijk gerechtigde vast te stellen indien zij beschikt over gegevens die doen vermoeden dat de natuurlijke persoon die een rentebetaling ontvangt of ten gunste van wie een rentebetaling wordt bewerkstelligd, niet de uiteindelijk gerechtigde is, en die persoon niet valt onder het eerste lid, onderdelen a, b, c, d of e.
+3. De uitbetalende instantie is gehouden redelijke maatregelen te nemen om met inachtneming van [artikel 4g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4g&z=2005-06-29&g=2005-06-29) de identiteit van de uiteindelijk gerechtigde vast te stellen indien zij beschikt over gegevens die doen vermoeden dat de natuurlijke persoon die een rentebetaling ontvangt of ten gunste van wie een rentebetaling wordt bewerkstelligd, niet de uiteindelijk gerechtigde is, en die persoon niet valt onder het eerste lid, onderdelen a, b, c, d of e.
 
 ##### Artikel 4g. Identificatie door Nederlandse uitbetalende instantie
 
@@ -404,7 +408,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Op verzoek van een bevoegde autoriteit van een lidstaat kan Onze Minister overgaan tot de notificatie van stukken.
 
-2. In deze wet en de daarop berustende bepalingen wordt onder de notificatie van stukken verstaan de uitreiking aan de geadresseerde in Nederland van een door een administratieve autoriteit van een lidstaat uitgevaardigd document, houdende een akte of beslissing, inzake de heffing van een belasting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-01-01&g=2005-05-13).
+2. In deze wet en de daarop berustende bepalingen wordt onder de notificatie van stukken verstaan de uitreiking aan de geadresseerde in Nederland van een door een administratieve autoriteit van een lidstaat uitgevaardigd document, houdende een akte of beslissing, inzake de heffing van een belasting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2005-06-29&g=2005-06-29).
 
 3. Bij ministeriële regeling kunnen regels worden gesteld betreffende de notificatie van stukken en de behandeling van het verzoek daartoe.
 
@@ -414,7 +418,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Onze Minister kan na overleg met een of meer bevoegde autoriteiten overgaan tot een gelijktijdig onderzoek.
 
-2. In deze wet en de daarop berustende bepalingen wordt onder een gelijktijdig onderzoek verstaan een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-01-01&g=2005-05-13), dat gelijktijdig wordt uitgevoerd met een onderzoek in een of meer andere staten.
+2. In deze wet en de daarop berustende bepalingen wordt onder een gelijktijdig onderzoek verstaan een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2005-06-29&g=2005-06-29), dat gelijktijdig wordt uitgevoerd met een onderzoek in een of meer andere staten.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld betreffende het gelijktijdige onderzoek en de behandeling van een voorstel daartoe.
 
