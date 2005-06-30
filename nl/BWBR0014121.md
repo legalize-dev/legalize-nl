@@ -4,7 +4,7 @@ identifier: "BWBR0014121"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2003-01-01"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014121"
 soort: "ministeriele-regeling"
@@ -56,35 +56,43 @@ Besluit:
 
 ##### Artikel 2. Hoogte van de bijdrage voor regionale openbare lichamen
 
-De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openbaar lichaam is het saldo van het bedrag van de omzetbelasting waarvoor voor het regionaal openbaar lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het regionaal openbaar lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2003-01-01&g=2003-01-01).
+De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openbaar lichaam is het saldo van het bedrag van de omzetbelasting waarvoor voor het regionaal openbaar lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het regionaal openbaar lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2005-06-30&g=2005-06-30).
 
 ##### Artikel 3. Hoogte van de bijdrage voor publiekrechtelijke lichamen
 
 1. De bijdrage uit het BTW-compensatiefonds over 2003 voor een publiekrechtelijk lichaam is het hoogste van de in de volgende onderdelen bedoelde bedragen:
 
-- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2003-01-01&g=2003-01-01);
+- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2005-06-30&g=2005-06-30);
 
-- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2003-01-01&g=2003-01-01), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2003-01-01&g=2003-01-01).
+- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2005-06-30&g=2005-06-30), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2005-06-30&g=2005-06-30).
 
 2. De bijdrage uit het BTW-compensatiefonds over 2004 voor een publiekrechtelijk lichaam is het hoogste van de in de volgende onderdelen bedoelde bedragen, verminderd met de bijdrage over 2003:
 
-- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2003-01-01&g=2003-01-01) en vermeerderd met het over 2003 berekende bedrag bedoeld in het eerste lid, onderdeel a;
+- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2005-06-30&g=2005-06-30) en vermeerderd met het over 2003 berekende bedrag bedoeld in het eerste lid, onderdeel a;
 
-- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2003-01-01&g=2003-01-01), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2003-01-01&g=2003-01-01), vermeerderd met het over 2003 berekende bedrag bedoeld in het eerste lid, onderdeel b.
+- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2005-06-30&g=2005-06-30), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2005-06-30&g=2005-06-30), vermeerderd met het over 2003 berekende bedrag bedoeld in het eerste lid, onderdeel b.
 
-3. De bijdrage uit het BTW-compensatiefonds over 2005 voor een publiekrechtelijk lichaam is het hoogste van in de volgende onderdelen bedragen, verminderd met de bijdragen over 2003 en 2004:
+3. De bijdrage uit het BTW-compensatiefonds over 2005 voor een publiekrechtelijk lichaam is het hoogste van de in de volgende onderdelen bedoelde bedragen, verminderd met de bijdragen over 2003 en 2004:
 
-- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2003-01-01&g=2003-01-01) en vermeerderd met de over 2003 en 2004 berekende bedragen bedoeld in het tweede lid, onderdeel a.
+- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2005-06-30&g=2005-06-30) en vermeerderd met de over 2003 en 2004 berekende bedragen bedoeld in het tweede lid, onderdeel a.
 
-- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2003-01-01&g=2003-01-01), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2003-01-01&g=2003-01-01), vermeerderd met de over 2003 en 2004 berekende bedragen bedoeld in het tweede lid, onderdeel b.
+- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2005-06-30&g=2005-06-30), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2005-06-30&g=2005-06-30), vermeerderd met de over 2003 en 2004 berekende bedragen bedoeld in het tweede lid, onderdeel b.
+
+4. De bijdrage uit het BTW-compensatiefonds over 2006 voor een publiekrechtelijk lichaam is het hoogste van in de volgende onderdelen bedoelde bedragen, verminderd met de bijdragen over 2003, 2004 en 2005:
+
+- a. het saldo van het bedrag van de omzetbelasting waarvoor voor het publiekrechtelijk lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het publiekrechtelijk lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2005-06-30&g=2005-06-30) en vermeerderd met de over 2003, 2004 en 2005 berekende bedragen bedoeld in het derde lid, onderdeel a.
+
+- b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2005-06-30&g=2005-06-30), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2005-06-30&g=2005-06-30), vermeerderd met de over 2003, 2004 en 2005 berekende bedragen bedoeld in het derde lid, onderdeel b.
 
 ##### Artikel 4. Vereveningsfactoren
 
-De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2) bedraagt voor provincies 0,96 en voor gemeenten en regionale openbare lichamen 0,95.
+1. De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2) bedraagt voor provincies 0,96 en voor gemeenten en regionale openbare lichamen 0,95.
+
+2. De voor de kalenderjaren 2004, 2005 en 2006 geldende vereveningsfactor, bedoeld in [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2) bedraagt voor provincies 0,96 en voor gemeenten en regionale, openbare lichamen 0,95.
 
 ##### Artikel 5. Optelposten voor de minimumuitkering
 
-1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende optelposten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2003-01-01&g=2003-01-01), zijn:
+1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende optelposten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2005-06-30&g=2005-06-30), zijn:
 
 - a. de vermindering van de uitkering uit het gemeentefonds dan wel het provinciefonds die voor het publiekrechtelijk lichaam over 2004 wordt toegepast in verband met de invoering van het BTW-compensatiefonds;
 
@@ -106,13 +114,13 @@ De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, 
 
 ##### Artikel 6. De korting bij toepassing van de minimale uitkering
 
-1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende korting bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2003-01-01&g=2003-01-01), bedraagt:
+1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende korting bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2005-06-30&g=2005-06-30), bedraagt:
 
 - a. voor gemeenten € 4,54 maal het aantal inwoners volgens de telling per 1 januari van het kalenderjaar, zoals dat aantal ook wordt gehanteerd bij de uitkering uit het gemeentefonds van die gemeente;
 
 - b. voor provincies één procent van bruto-uitkering uit het provinciefonds voor de provincie, berekend naar de gegevens zoals die per 1 oktober van het kalenderjaar bekend zijn.
 
-2. Voor de berekening van de bijdragen voor provincies over de kalenderjaren 2004 en 2005 wordt het in het eerste lid, onderdeel b, bedoelde percentage verhoogd tot twee respectievelijk drie.
+2. Voor de berekening van de bijdragen voor provincies over de kalenderjaren 2004, 2005 en 2006 wordt het in het eerste lid, onderdeel b, genoemde percentage verhoogd tot respectievelijk twee, drie en drie.
 
 ##### Artikel 7. Omvang bijdrage en herrekening
 
@@ -128,7 +136,7 @@ De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, 
 
 ##### Artikel 8. Herziening
 
-1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=7&z=2003-01-01&g=2003-01-01) worden voor de toepassing van de bijdrage afzonderlijk in aanmerking genomen:
+1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=7&z=2005-06-30&g=2005-06-30) worden voor de toepassing van de bijdrage afzonderlijk in aanmerking genomen:
 
 - a. onroerende zaken en rechten waaraan deze zijn onderworpen;
 
@@ -144,7 +152,7 @@ De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, 
 
 ##### Artikel 9. Herziening bij levering
 
-1. In geval van levering in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) door het publiekrechtelijk lichaam of regionaal openbaar lichaam, onder omstandigheden waarvoor dat lichaam wordt aangemerkt als ondernemer in de zin van die wet, van de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2003-01-01&g=2003-01-01), bedoelde goederen, binnen de termijn waarin de bijdrage wordt herzien, is [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2003-01-01&g=2003-01-01), van overeenkomstige toepassing. Daarbij wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht tot het einde van die termijn het bezigen van het goed uitsluitend voort te zetten in het kader van zijn onderneming.
+1. In geval van levering in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) door het publiekrechtelijk lichaam of regionaal openbaar lichaam, onder omstandigheden waarvoor dat lichaam wordt aangemerkt als ondernemer in de zin van die wet, van de in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2005-06-30&g=2005-06-30), bedoelde goederen, binnen de termijn waarin de bijdrage wordt herzien, is [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2005-06-30&g=2005-06-30), van overeenkomstige toepassing. Daarbij wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht tot het einde van die termijn het bezigen van het goed uitsluitend voort te zetten in het kader van zijn onderneming.
 
 2. De herziening geschiedt in één keer bij de opgaaf over het kalenderkwartaal waarin de levering plaatsvindt.
 
