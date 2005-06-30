@@ -4,7 +4,7 @@ identifier: "BWBR0016434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-17"
-last_updated: "2004-02-10"
+last_updated: "2005-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016434"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Voor zover het voor de vervulling van haar taak nodig is kan de Commissie inlich
 
 ##### Artikel 4
 
-De Commissie bestaat uit zeven leden, onder wie de voorzitter.
+De Commissie bestaat uit acht leden, onder wie de voorzitter.
 
 ##### Artikel 5
 
