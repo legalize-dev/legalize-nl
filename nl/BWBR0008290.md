@@ -4,7 +4,7 @@ identifier: "BWBR0008290"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "1999-02-17"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008290"
 soort: "wet"
@@ -94,9 +94,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De uitkering komt ten goede aan de algemene middelen van de provincie of van de gemeente.
 
-3. De provincies hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het provinciefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=1999-02-17&g=1999-02-17), voor dat jaar.
+3. De provincies hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het provinciefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2005-07-01&g=2005-07-01), voor dat jaar.
 
-4. De gemeenten hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het gemeentefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=1999-02-17&g=1999-02-17), voor dat jaar, verminderd met het totaal aan verplichtingen voor aanvullende uitkeringen die over het uitkeringsjaar worden aangegaan.
+4. De gemeenten hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het gemeentefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2005-07-01&g=2005-07-01), voor dat jaar, verminderd met het totaal aan verplichtingen voor aanvullende uitkeringen die over het uitkeringsjaar worden aangegaan.
 
 ##### Artikel 7
 
@@ -148,7 +148,7 @@ De verdeling over de provincies en gemeenten van het voor de algemene uitkeringe
 
 1. Ten behoeve van de verdeling stellen Onze Ministers over ieder uitkeringsjaar bedragen per eenheid vast die behoren bij de verdeelmaatstaven.
 
-2. Bij de voorbereiding van de vaststelling wordt de in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) geregelde procedure gevolgd.
+2. Op de voorbereiding van de vaststelling is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 ##### Artikel 10
 
@@ -156,7 +156,7 @@ Onze Ministers stellen over ieder uitkeringsjaar de algemene uitkeringen aan de 
 
 ##### Artikel 11
 
-De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=10&z=1999-02-17&g=1999-02-17) bedoelde uitkeringsbasis voor een provincie of gemeente is de som van de produkten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden van die maatstaf te vermenigvuldigen met het bij de maatstaf behorende bedrag per eenheid.
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2005-07-01&g=2005-07-01) bedoelde uitkeringsbasis voor een provincie of gemeente is de som van de produkten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden van die maatstaf te vermenigvuldigen met het bij de maatstaf behorende bedrag per eenheid.
 
 #### Paragraaf 2.3. De aanvullende uitkering
 
@@ -180,7 +180,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&p
 
 ##### Artikel 13
 
-1. De verdeling van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=1999-02-17&g=1999-02-17), bedoelde bedragen wordt bij algemene maatregel van bestuur geregeld. Krachtens de maatregel kan de verdeling nader worden bepaald.
+1. De verdeling van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2005-07-01&g=2005-07-01), bedoelde bedragen wordt bij algemene maatregel van bestuur geregeld. Krachtens de maatregel kan de verdeling nader worden bepaald.
 
 2. De uitkering komt ten goede aan de algemene middelen van de provincie of gemeente.
 
@@ -188,7 +188,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&p
 
 ##### Artikel 14
 
-De uitkeringen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=1999-02-17&g=1999-02-17), worden vastgesteld door Onze Ministers wie het aangaat.
+De uitkeringen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2005-07-01&g=2005-07-01), worden vastgesteld door Onze Ministers wie het aangaat.
 
 #### Paragraaf 2.5. De betalingen
 
@@ -224,7 +224,7 @@ Omtrent een voorstel tot regeling van een specifieke uitkering vindt tijdig over
 
 ##### Artikel 19
 
-De [artikelen 117, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=117) en 119, eerste lid, van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in [artikel 17, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17&z=1999-02-17&g=1999-02-17).
+De [artikelen 117, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=117) en 119, eerste lid, van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in [artikel 17, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 20
 
@@ -232,7 +232,7 @@ Onze Ministers publiceren jaarlijks voor 1 oktober een overzicht van de specifie
 
 ##### Artikel 21
 
-De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16&z=1999-02-17&g=1999-02-17) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=18&z=1999-02-17&g=1999-02-17) zijn van overeenkomstige toepassing op uitkeringen uit ’s Rijks kas aan derden, ter bekostiging van activiteiten van die derden, waarbij de verstrekking afhankelijk is van de verstrekking van een uitkering door provincies of gemeenten aan die derden.
+De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16&z=2005-07-01&g=2005-07-01) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=18&z=2005-07-01&g=2005-07-01) zijn van overeenkomstige toepassing op uitkeringen uit ’s Rijks kas aan derden, ter bekostiging van activiteiten van die derden, waarbij de verstrekking afhankelijk is van de verstrekking van een uitkering door provincies of gemeenten aan die derden.
 
 ### HOOFDSTUK 4. OVERIGE BEPALINGEN, OVERGANGSBEPALINGEN EN SLOTBEPALINGEN
 
@@ -258,9 +258,9 @@ Op een uitkering als bedoeld in deze wet kan geen beslag onder de Staat worden g
 
 ##### Artikel 24
 
-1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=8&z=1999-02-17&g=1999-02-17), wordt voor de eerste maal bij wet bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens die wet, bij regeling van Onze Ministers, kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
+1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2005-07-01&g=2005-07-01), wordt voor de eerste maal bij wet bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens die wet, bij regeling van Onze Ministers, kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
 
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=9&z=1999-02-17&g=1999-02-17), worden de bedragen per eenheid behorend bij de in het eerste lid bedoelde maatstaven, over het eerste uitkeringsjaar bij wet vastgesteld. Daarbij kan worden bepaald dat Onze Ministers deze bedragen aan kunnen passen in verband met wijzigingen ten aanzien van het fonds over de jaren 1996 en 1997, die door middel van wijzigingen in de bedragen per eenheid over de gemeenten verdeeld behoren te worden. Artikel 9, tweede lid, blijft buiten toepassing bij de vaststelling van de bedragen per eenheid over het eerste uitkeringsjaar.
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2005-07-01&g=2005-07-01), worden de bedragen per eenheid behorend bij de in het eerste lid bedoelde maatstaven, over het eerste uitkeringsjaar bij wet vastgesteld. Daarbij kan worden bepaald dat Onze Ministers deze bedragen aan kunnen passen in verband met wijzigingen ten aanzien van het fonds over de jaren 1996 en 1997, die door middel van wijzigingen in de bedragen per eenheid over de gemeenten verdeeld behoren te worden. Artikel 9, tweede lid, blijft buiten toepassing bij de vaststelling van de bedragen per eenheid over het eerste uitkeringsjaar.
 
 #### Paragraaf 4.3. Slotbepalingen
 
