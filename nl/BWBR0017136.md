@@ -4,7 +4,7 @@ identifier: "BWBR0017136"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-01"
-last_updated: "2004-10-15"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017136"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Op de voorbereiding van het havenafvalplan is [afdeling 3.4 van de Algemene wet 
 
 1. De havenbeheerder zendt binnen veertien dagen na vaststelling van het havenafvalplan dit plan aan Onze Minister ter verkrijging van goedkeuring.
 
-2. Het havenafvalplan gaat vergezeld van een afschrift van de naar voren gebrachte zienswijzen en de verslagen, bedoeld in [artikel 3:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15).
+2. Het havenafvalplan gaat vergezeld van een afschrift van de naar voren gebrachte zienswijzen en de verslagen, bedoeld in de [artikelen 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) en [3:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17).
 
 ##### Artikel 7
 
