@@ -4,7 +4,7 @@ identifier: "BWBR0004665"
 country: "nl"
 rank: "wet"
 publication_date: "2005-07-01"
-last_updated: "1994-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004665"
 soort: "wet"
@@ -61,7 +61,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Onze Minister van Justitie benoemt de leden die met inachtneming van het bepaalde in het vorige artikel zijn voorgedragen, overeenkomstig de voordracht. Indien zwaarwichtige redenen daartoe nopen, kan hij benoeming overeenkomstig de voordracht weigeren en aan de organisatie die haar deed een redelijke termijn stellen om een nieuwe voordracht te doen.
 
-2. Indien niet binnen een redelijke termijn een voordracht als bedoeld in artikel 1 en in het vorige lid is gedaan, verricht Onze Minister van Justitie de benoeming naar eigen inzicht uit de kring van betrokkenen. De aldus benoemde leden worden voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=1&z=1994-01-01&g=1994-01-01) gelijk gesteld met leden voorgedragen door de organisatie die niet tot tijdige voordracht is overgegaan.
+2. Indien niet binnen een redelijke termijn een voordracht als bedoeld in artikel 1 en in het vorige lid is gedaan, verricht Onze Minister van Justitie de benoeming naar eigen inzicht uit de kring van betrokkenen. De aldus benoemde leden worden voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=1&z=2005-07-01&g=2005-07-01) gelijk gesteld met leden voorgedragen door de organisatie die niet tot tijdige voordracht is overgegaan.
 
 ##### Artikel 3
 
@@ -93,9 +93,9 @@ De commissie vergadert niet, indien niet meer dan de helft van het aantal leden 
 
 ##### Artikel 7
 
-1. Op de voorbereiding van het besluit tot vaststelling, wijziging of intrekking van een standaardregeling is de in [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) geregelde procedure van toepassing.
+1. Op de voorbereiding van het besluit tot vaststelling, wijziging of intrekking van een standaardregeling is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
-2. Het verslag, bedoeld in [artikel 3:13, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) wordt als bijlage aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=6&z=1994-01-01&g=1994-01-01), bedoelde toelichting toegevoegd.
+2. Het verslag, bedoeld in [artikel 3:17, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17) wordt als bijlage aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=6&z=2005-07-01&g=2005-07-01), bedoelde toelichting toegevoegd.
 
 ##### Artikel 8
 
@@ -113,7 +113,7 @@ Onze Minister van Justitie kan voor elk lid van de commissie een plaatsvervangen
 
 ##### Artikel 11
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de werkwijze van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=1&z=1994-01-01&g=1994-01-01) bedoelde commissies.
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de werkwijze van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004665&artikel=1&z=2005-07-01&g=2005-07-01) bedoelde commissies.
 
 ##### Artikel 12
 
