@@ -4,7 +4,7 @@ identifier: "BWBR0002979"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2002-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002979"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2002-01-01&g=2002-01-01);
+het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2005-07-01&g=2005-07-01);
 
 Onze Minister: Onze Minister van Justitie;
 
-de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2002-01-01&g=2002-01-01), die met het beheer van het fonds is belast;
+de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2005-07-01&g=2005-07-01), die met het beheer van het fonds is belast;
 
 de benadeelde: het slachtoffer, onderscheidenlijk de nabestaande, door of namens wie een verzoek om een uitkering bij het fonds is ingediend.
 
@@ -117,7 +117,7 @@ Een uitkering kan achterwege blijven of op een geringer bedrag worden bepaald, i
 
 2. De commissie bestaat uit een meervoudige kamer en een of meer enkelvoudige kamers. De meervoudige kamer bestaat uit vijf leden, die bij koninklijk besluit worden benoemd en ontslagen. Een van die leden wordt door Onze Minister als voorzitter aangewezen. Bij koninklijk besluit kunnen tevens zoveel plaatsvervangende leden worden benoemd als nodig is. Het lid van de enkelvoudige kamer wordt op voordracht van de meervoudige kamer uit haar midden eveneens door Onze Minister aangewezen. De plaatsvervangende leden hebben geen zitting in een enkelvoudige kamer.
 
-3. De benoeming van de leden en plaatsvervangende leden van de commissie geschiedt voor de tijd van vijf jaar, behoudens de mogelijkheid van eerder ontslag op eigen verzoek. Zij kunnen éénmaal voor gelijke termijn worden herbenoemd. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaren.
+3. De benoeming van de leden en plaatsvervangende leden van de commissie geschiedt voor ten hoogste vier jaar, behoudens de mogelijkheid van eerder ontslag op eigen verzoek. Herbenoeming kan tweemaal, telkens voor ten hoogste vier jaar, plaatsvinden. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaren.
 
 4. Verzoeken van eenvoudige aard die bij de commissie aanhangig worden gemaakt, worden in behandeling genomen door de enkelvoudige kamer. Indien een verzoek naar het oordeel van deze kamer ongeschikt is voor behandeling, verwijst zij dit naar de meervoudige kamer. De enkelvoudige kamer kan ook in andere gevallen een verzoek naar de meervoudige kamer verwijzen. De verwijzing kan geschieden in elke stand van het onderzoek. De behandeling van het verwezen verzoek wordt voortgezet in de stand waain het zich bevindt.
 
@@ -137,7 +137,7 @@ De leden en plaatsvervangende leden van de commissie leggen, alvorens aan de wer
 
 ##### Artikel 11
 
-De leden en plaatsvervangende leden van de meervoudige kamer genieten vergoeding voor reis- en verblijfkosten en verdere vergoeding. Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt voorts toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2002-01-01&g=2002-01-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
+De leden en plaatsvervangende leden van de meervoudige kamer genieten vergoeding voor reis- en verblijfkosten en verdere vergoeding. Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt voorts toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2005-07-01&g=2005-07-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
 
 ##### Artikel 12
 
@@ -165,7 +165,7 @@ Wanneer het verzoekschrift kennelijk niet ontvankelijk of ongegrond is, kan het 
 
 ##### Artikel 16
 
-1. De behandeling van het verzoekschrift geschiedt overeenkomstig de voorschriften gesteld bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2002-01-01&g=2002-01-01) van deze wet en de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=27), [279, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279), [283, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=283), [286, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=286), en [290, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=290). Oproepingen en mededelingen vinden plaats op de wijze voorgeschreven krachtens de [derde afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
+1. De behandeling van het verzoekschrift geschiedt overeenkomstig de voorschriften gesteld bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2005-07-01&g=2005-07-01) van deze wet en de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=27), [279, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279), [283, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=283), [286, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=286), en [290, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=290). Oproepingen en mededelingen vinden plaats op de wijze voorgeschreven krachtens de [derde afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
 
 2. Onverminderd het eerste lid is de [derde titel van het eerste boek van het Wetboek van burgerlijke rechtsvordering](onbekend) niet van toepassing op verzoeken ingevolge deze wet.
 
@@ -179,7 +179,7 @@ Met de behandeling van het verzoekschrift is een uit drie leden van het hof same
 
 2. Vernietigt het hof de beslissing van de commissie dan wijst het de zaak naar de commissie terug ten einde daarin opnieuw te beslissen.
 
-3. Op de nadere beslissing van de commissie zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=13&z=2002-01-01&g=2002-01-01)-[18](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=18&z=2002-01-01&g=2002-01-01) van toepassing.
+3. Op de nadere beslissing van de commissie zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=13&z=2005-07-01&g=2005-07-01)-[18](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=18&z=2005-07-01&g=2005-07-01) van toepassing.
 
 ##### Artikel 19
 
@@ -201,7 +201,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
-2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2002-01-01&g=2002-01-01), een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een verzoek, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
+2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2005-07-01&g=2005-07-01), een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een verzoek, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
 
 ##### Artikel 24
 
