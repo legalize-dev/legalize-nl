@@ -4,7 +4,7 @@ identifier: "BWBR0016004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-27"
-last_updated: "2004-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016004"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Besluit:
 
 1. De werknemer kan per kalenderjaar gedurende 20 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
-2. In afwijking van het eerste lid geldt een termijn van 65 dagen voor de werknemer, bedoeld in de [artikelen 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015999&artikel=1), en [3, eerste lid, van de Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999&artikel=3).
+2. In afwijking van het eerste lid geldt een termijn van 65 dagen voor de werknemer, bedoeld in de [artikelen 1, eerste lid, onderdelen b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0015999&artikel=1), en [3, eerste lid, van de Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999&artikel=3).
 
 ##### Artikel 3. In mindering brengen
 
-Op het aantal dagen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2004-01-01&g=2004-01-01), wordt in mindering gebracht:
+Op het aantal dagen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2005-07-01&g=2005-07-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste werkloosheidsdag in het desbetreffende kalenderjaar, gedeeld door 13;
 
@@ -70,7 +70,7 @@ Het aantal dagen, berekend volgens de voorgaande artikelen, wordt rekenkundig op
 
 ##### Artikel 5. Overgangsbepaling
 
-De werknemer die op 31 december 2003 op grond van artikel 2, tweede lid, van de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), per kalenderjaar gedurende 13 weken vakantie kon genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) kan, in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2004-01-01&g=2004-01-01), in 2004 gedurende maximaal 65 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de Werkloosheidswet, voorzover hij voor de datum van inwerkingtreding van deze regeling verplichtingen daartoe is aangegaan.
+De werknemer die op 31 december 2003 op grond van artikel 2, tweede lid, van de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), per kalenderjaar gedurende 13 weken vakantie kon genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) kan, in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2005-07-01&g=2005-07-01), in 2004 gedurende maximaal 65 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de Werkloosheidswet, voorzover hij voor de datum van inwerkingtreding van deze regeling verplichtingen daartoe is aangegaan.
 
 ##### Artikel 6. Intrekking
 
