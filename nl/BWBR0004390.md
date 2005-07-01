@@ -4,7 +4,7 @@ identifier: "BWBR0004390"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "1994-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004390"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Kennisgeving omtrent ledenvergaderingen van de corporatie, bedoeld in [artikel 1
 
 ##### Artikel 2
 
-De agenda en de mededeling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004390&hoofdstuk=I&artikel=1&z=1994-01-01&g=1994-01-01), bevatten in elk geval:
+De agenda en de mededeling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004390&hoofdstuk=I&artikel=1&z=2005-07-01&g=2005-07-01), bevatten in elk geval:
 
 - a. plaats, dag en aanvangsuur van de behandeling van het ontwerp van de verordening;
 
@@ -68,11 +68,11 @@ Tegelijk met de agenda van de openbare ledenvergadering wordt de tekst van het o
 
 ##### Artikel 4
 
-Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, in de **Staatscourant** geplaatst.
+Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, overeenkomstig artikel 3:12, tweede lid, van de Algemene wet bestuursrecht, in de **Staatscourant** geplaatst.
 
 ##### Artikel 5
 
-De publicatie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004390&hoofdstuk=II&artikel=4&z=1994-01-01&g=1994-01-01), geschiedt onder vermelding van de mogelijkheid voor iedere belanghebbende om gedurende drie weken na de kennisgeving van de openbare ledenvergadering schriftelijk zienswijzen naar voren te brengen bij de algemene raad.
+Vervallen
 
 ### Hoofdstuk III. Overige bepalingen
 
