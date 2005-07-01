@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
+Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f), [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII), en [artikel 7a, onderdeel b, van het Uitvoeringsbesluit motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=7a).
 
 ##### Artikel 2
 
@@ -99,9 +99,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4a
 
-1. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), wordt verstaan een bestelauto waarin constructies zijn aangebracht gericht op het vervoer van de gehandicapte in de cabine en het gelijktijdige vervoer van een niet-opvouwbare rolstoel. Onder dergelijke constructies worden met name verstaan constructies gericht op het met of vanuit een rolstoel kunnen plaatsnemen in en verlaten van de bestelauto, constructies voor het vastzetten van een rolstoel in de cabine op de plaats van een zitplaats, en constructies voor het vastzetten van een rolstoel zonder passagier in de laadruimte.
+1. Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.
 
-2. Onder een rolstoel wordt voor de toepassing van [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) mede verstaan een scootmobiel.
+2. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.
 
 ##### Artikel 5
 
@@ -153,7 +153,41 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ##### Artikel 4b
 
-De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+1. De in [artikel 24b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b) bedoelde periode van terbeschikkingstelling van een bestelauto bedraagt vier weken, verminderd met voorafgaande aansluitende periodes van terbeschikkingstelling van enige bestelauto door de ondernemer aan dezelfde persoon.
+
+2. Indien een ondernemer een bestelauto waarvoor de belasting wordt geheven op de voet van [artikel 24b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b) ter beschikking stelt aan een derde, neemt hij in zijn administratie de volgende gegevens en bescheiden op:
+
+- a. de naam, het adres en een kopie van het legitimatiebewijs van degene aan wie de bestelauto ter beschikking wordt gesteld; en
+
+- b. een kopie van het contract tussen de ondernemer en degene aan wie de bestelauto ter beschikking wordt gesteld, waaruit het kenteken van de bestelauto en de periode van terbeschikkingstelling blijkt.
+
+3. Ingeval de in het tweede lid bedoelde ondernemer de bestelauto langer dan de in het eerste lid bedoelde periode ter beschikking stelt aan een derde die voldoet aan het gestelde in [artikel 24b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), verstrekt degene aan wie de bestelauto ter beschikking wordt gesteld aan de ondernemer een verklaring:
+
+- a. dat hij ondernemer is als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7);
+
+- b. dat het geen ondernemerschap betreft als bedoeld in [artikel 7, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7);
+
+- c. dat de bestelauto meer dan bijkomstig in zijn onderneming zal worden gebruikt; en
+
+- d. dat hij bij een wijziging in deze omstandigheden onmiddellijk de ondernemer die de bestelauto aan hem ter beschikking stelt zal informeren en de verklaring zal intrekken.
+
+4. De ondernemer die een bestelauto langer dan de in het eerste lid bedoelde periode ter beschikking stelt aan een derde als bedoeld in het derde lid, neemt in zijn administratie naast de in het tweede lid bedoelde gegevens en bescheiden de volgende gegevens en bescheiden op:
+
+- a. het BTW-identificatienummer van degene aan wie de bestelauto ter beschikking wordt gesteld, en een afdruk van de verificatie van dit nummer uit het Europese datasysteem van BTW-identificatienummers; en
+
+- b. de in het derde lid bedoelde verklaring van degene aan wie de bestelauto ter beschikking wordt gesteld.
+
+5. Indien de in het derde lid bedoelde verklaring niet langer juist is, brengt degene aan wie de bestelauto ter beschikking wordt gesteld onmiddellijk de ondernemer die de bestelauto aan hem ter beschikking stelt daarvan op de hoogte, onder intrekking van de eerder afgegeven verklaring.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4c
+
+1. De houder van een personenauto, een bestelauto of een motorrijwiel waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
 
 2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op elke personenauto en bestelauto en elk motorrijwiel waarvan het kenteken op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig.
 
