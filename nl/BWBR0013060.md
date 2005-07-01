@@ -4,7 +4,7 @@ identifier: "BWBR0013060"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-05-25"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013060"
 soort: "wet"
@@ -52,21 +52,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. Raad voor werk en inkomen: de Raad voor werk en inkomen, genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&z=2005-05-25&g=2005-05-25);
+- b. Raad voor werk en inkomen: de Raad voor werk en inkomen, genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&z=2005-07-01&g=2005-07-01);
 
-- c. Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&z=2005-05-25&g=2005-05-25);
+- c. Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&z=2005-07-01&g=2005-07-01);
 
-- d. Centra voor werk en inkomen: de Centra voor werk en inkomen, genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=24&z=2005-05-25&g=2005-05-25);
+- d. Centra voor werk en inkomen: de Centra voor werk en inkomen, genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=24&z=2005-07-01&g=2005-07-01);
 
-- e. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&z=2005-05-25&g=2005-05-25);
+- e. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&z=2005-07-01&g=2005-07-01);
 
-- f. Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6&z=2005-05-25&g=2005-05-25);
+- f. Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6&z=2005-07-01&g=2005-07-01);
 
-- g. Inspectie Werk en Inkomen: de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&z=2005-05-25&g=2005-05-25);
+- g. Inspectie Werk en Inkomen: de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&z=2005-07-01&g=2005-07-01);
 
-- h. Raad van bestuur: een Raad van bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=3&z=2005-05-25&g=2005-05-25);
+- h. Raad van bestuur: een Raad van bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=3&z=2005-07-01&g=2005-07-01);
 
-- i. Raad van advies: een Raad van advies als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=3&z=2005-05-25&g=2005-05-25);
+- i. Raad van advies: een Raad van advies als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=3&z=2005-07-01&g=2005-07-01);
 
 - j. uitvoeringskosten: de kosten ten behoeve van de uitvoering van wetten door de Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
 
@@ -108,9 +108,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - o. het Inlichtingenbureau: de Stichting Inlichtingenbureau, gevestigd te Den Haag;
 
-- p. Suwinet: de elektronische infrastructuur, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25);
+- p. Suwinet: de elektronische infrastructuur, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01);
 
-- q. Gegevensregister Suwi: de weergave van de definities, de structuur en de schrijfwijze van de gegevens die door ten minste twee van de in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25), genoemde rechtspersonen worden gebruikt bij het aan elkaar verstrekken van gegevens;
+- q. Gegevensregister Suwi: de weergave van de definities, de structuur en de schrijfwijze van de gegevens die door ten minste twee van de in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01), genoemde rechtspersonen worden gebruikt bij het aan elkaar verstrekken van gegevens;
 
 - r. Stelselontwerp Suwinet: de beschrijving van de technische voorzieningen, de functionaliteiten en de specificaties die worden toegepast bij de inrichting en werking van Suwinet;
 
@@ -138,7 +138,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister benoemt, schorst en ontslaat de leden van de Raad van bestuur en de leden van de Raad van advies. De ondernemingsraad van elke in het eerste lid genoemde rechtspersoon kan voor de benoeming van één lid van de Raad van advies een aanbeveling doen.
 
-4. Schorsing en ontslag vindt slechts plaats wegens ongeschiktheid of onbekwaamheid voor de vervulde functie, wegens het niet naleven van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=4&z=2005-05-25&g=2005-05-25), dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen of met deze verband houdende redenen. Ontslag vindt voorts plaats op eigen verzoek.
+4. Schorsing en ontslag vindt slechts plaats wegens ongeschiktheid of onbekwaamheid voor de vervulde functie, wegens het niet naleven van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=4&z=2005-07-01&g=2005-07-01), dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen of met deze verband houdende redenen. Ontslag vindt voorts plaats op eigen verzoek.
 
 5. De Raad van bestuur oefent de taken en bevoegdheden uit die bij of krachtens deze wet of enige andere wet aan de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank zijn opgedragen.
 
@@ -146,7 +146,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Op verzoek van de Raad van advies verstrekt de Raad van bestuur aan de Raad van advies alle gegevens en inlichtingen die deze voor de uitoefening van zijn taak nodig heeft.
 
-8. Alvorens het meerjarenbeleidsplan, het jaarplan, het jaarverslag, de begroting, de jaarrekening, een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=6&z=2005-05-25&g=2005-05-25) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=13&z=2005-05-25&g=2005-05-25) aan Onze Minister wordt voorgelegd, legt de Raad van bestuur dit voor advies voor aan de Raad van advies.
+8. Alvorens het meerjarenbeleidsplan, het jaarplan, het jaarverslag, de begroting, de jaarrekening, een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=6&z=2005-07-01&g=2005-07-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=13&z=2005-07-01&g=2005-07-01) aan Onze Minister wordt voorgelegd, legt de Raad van bestuur dit voor advies voor aan de Raad van advies.
 
 9. Het advies van de Raad van advies over een document als bedoeld in het achtste lid, wordt door de Raad van bestuur bij aanbieding aan Onze Minister bij dat document gevoegd.
 
@@ -166,7 +166,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister bepaalt de periode van benoeming van de leden van de Raad van bestuur en de leden van de Raad van advies en kan ook de mogelijkheid van hun herbenoeming regelen.
 
-4. Ten aanzien van de leden van de Raad van bestuur en de leden van de Raad van advies wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=49&z=2005-05-25&g=2005-05-25).
+4. Ten aanzien van de leden van de Raad van bestuur en de leden van de Raad van advies wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=49&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 6. Goedkeuring besluiten
 
@@ -226,13 +226,13 @@ De Centra voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen
 
 - f. beschermd worden tegen benadeling in verband met hun deelname aan het overleg.
 
-4. In de regeling, bedoeld in het eerste lid, van de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen wordt de betrokkenheid geregeld bij de totstandkoming van de non-discriminatiecode, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=22&z=2005-05-25&g=2005-05-25) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=31&z=2005-05-25&g=2005-05-25).
+4. In de regeling, bedoeld in het eerste lid, van de Centrale organisatie werk en inkomen en het Uitvoeringsinstituut werknemersverzekeringen wordt de betrokkenheid geregeld bij de totstandkoming van de non-discriminatiecode, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=22&z=2005-07-01&g=2005-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=31&z=2005-07-01&g=2005-07-01).
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen andere onderwerpen worden aangewezen die in elk geval in de regeling, bedoeld in het eerste lid, worden geregeld en kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
 ##### Artikel 11. Cliëntenparticipatie op decentraal niveau
 
-1. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank stellen elk, na overleg met de personen en vertegenwoordigers, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-05-25&g=2005-05-25), een regeling vast die gericht is op de realisatie en vormgeving van adequate cliëntenparticipatie op decentraal niveau. Deze regeling wordt door elk van de genoemde bestuursorganen in de Staatscourant gepubliceerd.
+1. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank stellen elk, na overleg met de personen en vertegenwoordigers, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-07-01&g=2005-07-01), een regeling vast die gericht is op de realisatie en vormgeving van adequate cliëntenparticipatie op decentraal niveau. Deze regeling wordt door elk van de genoemde bestuursorganen in de Staatscourant gepubliceerd.
 
 2. In de regeling, bedoeld in het eerste lid, wordt in ieder geval geregeld de wijze waarop:
 
@@ -242,7 +242,7 @@ De Centra voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen
 
 - c. in iedere vestiging van het betrokken bestuursorgaan bekendheid wordt gegeven aan de wijze waarop uitvoering wordt gegeven aan dit artikel.
 
-3. Indien de regeling, bedoeld in het eerste lid, voorziet in overleg op decentraal niveau, is [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-05-25&g=2005-05-25), ten aanzien van die regeling van overeenkomstige toepassing.
+3. Indien de regeling, bedoeld in het eerste lid, voorziet in overleg op decentraal niveau, is [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-07-01&g=2005-07-01), ten aanzien van die regeling van overeenkomstige toepassing.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen andere onderwerpen worden aangewezen die in elk geval in de regeling, bedoeld in het eerste lid, worden geregeld en kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
@@ -250,7 +250,7 @@ De Centra voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen
 
 1. Er is een landelijke cliëntenraad.
 
-2. De landelijke cliëntenraad bestaat uit zes vertegenwoordigers van landelijke cliëntenorganisaties, twee afgevaardigden uit elk van de overleggen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-05-25&g=2005-05-25), alsmede uit drie afgevaardigden uit de cliëntenparticipatie bij de gemeenten. De afgevaardigden betreffen personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij de uitvoering van de taken van het desbetreffende orgaan.
+2. De landelijke cliëntenraad bestaat uit zes vertegenwoordigers van landelijke cliëntenorganisaties, twee afgevaardigden uit elk van de overleggen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=10&z=2005-07-01&g=2005-07-01), alsmede uit drie afgevaardigden uit de cliëntenparticipatie bij de gemeenten. De afgevaardigden betreffen personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij de uitvoering van de taken van het desbetreffende orgaan.
 
 3. De landelijke cliëntenraad heeft tot taak periodiek, doch ten minste eenmaal per jaar, te overleggen met:
 
@@ -284,7 +284,7 @@ De Centra voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de afgifte aan een in het eerste lid bedoelde natuurlijke dan wel rechtspersoon van een certificaat waaruit blijkt dat hij voldoet aan bij of krachtens deze algemene maatregel van bestuur gestelde kwaliteits- en deskundigheidseisen.
 
-3. Onze Minister dan wel een door Onze Minister op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=15&z=2005-05-25&g=2005-05-25) aangewezen instelling beslist op aanvraag over de afgifte van het certificaat, bedoeld in het eerste lid, en is tevens bevoegd een afgegeven certificaat in te trekken.
+3. Onze Minister dan wel een door Onze Minister op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=15&z=2005-07-01&g=2005-07-01) aangewezen instelling beslist op aanvraag over de afgifte van het certificaat, bedoeld in het eerste lid, en is tevens bevoegd een afgegeven certificaat in te trekken.
 
 4. Een certificaat wordt afgegeven voor een beperkte tijdsduur. Aan een certificaat kunnen voorschriften worden verbonden.
 
@@ -298,13 +298,13 @@ De Centra voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen
 
 ##### Artikel 15. Certificerende instelling
 
-1. Onze Minister kan op verzoek een instelling aanwijzen die de bevoegdheden, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=14&z=2005-05-25&g=2005-05-25), uitoefent.
+1. Onze Minister kan op verzoek een instelling aanwijzen die de bevoegdheden, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=14&z=2005-07-01&g=2005-07-01), uitoefent.
 
 2. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
 
 3. Een krachtens dit artikel aangewezen instelling verstrekt desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-4. [Artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=36&z=2005-05-25&g=2005-05-25), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-05-25&g=2005-05-25), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=42&z=2005-05-25&g=2005-05-25), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=10&artikel=78&z=2005-05-25&g=2005-05-25) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=10&artikel=81&z=2005-05-25&g=2005-05-25) zijn ten aanzien van de instelling, bedoeld in het eerste lid, van overeenkomstige toepassing.
+4. [Artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=36&z=2005-07-01&g=2005-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-07-01&g=2005-07-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=42&z=2005-07-01&g=2005-07-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=10&artikel=78&z=2005-07-01&g=2005-07-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=10&artikel=81&z=2005-07-01&g=2005-07-01) zijn ten aanzien van de instelling, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor:
 
@@ -344,7 +344,7 @@ b. het opstellen van een verslag van werkzaamheden ten behoeve van Onze Minister
 
 2. De Raad voor werk en inkomen stelt een regeling op die voorziet in overleg over de in het eerste lid genoemde onderwerpen met personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij uitvoering van die onderwerpen. Dit overleg vindt periodiek plaats, doch ten minste twee maal per jaar.
 
-3. De Raad voor werk en inkomen overlegt met de landelijke cliëntenraad, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=12&z=2005-05-25&g=2005-05-25), over de wijze waarop het overleg, bedoeld in het tweede lid, plaatsvindt.
+3. De Raad voor werk en inkomen overlegt met de landelijke cliëntenraad, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=12&z=2005-07-01&g=2005-07-01), over de wijze waarop het overleg, bedoeld in het tweede lid, plaatsvindt.
 
 ##### Artikel 18. Commissies
 
@@ -390,11 +390,11 @@ De Centrale organisatie werk en inkomen heeft tot taak:
 
 - c. het verzamelen en analyseren van informatie ten behoeve van de bevordering van de werking van en het inzicht in de arbeidsmarkt;
 
-- d. zorgdragen voor gevraagde en ongevraagde verstrekking van deugdelijke informatie en advies over de arbeidsmarkt alsmede over de uitvoering van zijn taak, aan werkgevers, werknemers, uitkeringsgerechtigden, verzekerden, werkzoekenden, regionale platforms, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=23&z=2005-05-25&g=2005-05-25), en andere belanghebbenden;
+- d. zorgdragen voor gevraagde en ongevraagde verstrekking van deugdelijke informatie en advies over de arbeidsmarkt alsmede over de uitvoering van zijn taak, aan werkgevers, werknemers, uitkeringsgerechtigden, verzekerden, werkzoekenden, regionale platforms, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=23&z=2005-07-01&g=2005-07-01), en andere belanghebbenden;
 
 - e. het adviseren van het Uitvoeringsinstituut werknemersverzekeringen en burgemeester en wethouders van de betrokken gemeente met betrekking tot mogelijkheden tot inschakeling in het arbeidsproces van moeilijk plaatsbare werkzoekenden;
 
-- f. het innemen van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25) bedoelde aanvragen voor uitkeringen, toeslagen en bijstand alsmede aangiften van werkloosheid;
+- f. het innemen van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01) bedoelde aanvragen voor uitkeringen, toeslagen en bijstand alsmede aangiften van werkloosheid;
 
 - g. het geven van voorlichting met betrekking tot de keuze van een beroep alsmede de voor een beroep benodigde opleiding;
 
@@ -412,7 +412,7 @@ De Centrale organisatie werk en inkomen heeft tot taak:
 
 ##### Artikel 22. Non-discriminatiecode Centrale organisatie werk en inkomen
 
-Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-05-25&g=2005-05-25) en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-05-25&g=2005-05-25), waakt de Centrale organisatie werk en inkomen tegen discriminatie en stelt daartoe een non-discriminatiecode vast, waarin in ieder geval aandacht wordt besteed aan discriminatie wegens ras, geslacht, hetero- of homoseksuele gerichtheid, leeftijd en handicap.
+Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01) en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-07-01&g=2005-07-01), waakt de Centrale organisatie werk en inkomen tegen discriminatie en stelt daartoe een non-discriminatiecode vast, waarin in ieder geval aandacht wordt besteed aan discriminatie wegens ras, geslacht, hetero- of homoseksuele gerichtheid, leeftijd en handicap.
 
 ##### Artikel 23. Regionale platforms
 
@@ -422,7 +422,7 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 ##### Artikel 24. Centra voor werk en inkomen
 
-1. De Centrale organisatie werk en inkomen draagt zorg voor de inrichting en instandhouding van vestigingen, genaamd Centra voor werk en inkomen, waarin de taken van de Centrale organisatie werk en inkomen, bedoeld in de [artikelen 21, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-05-25&g=2005-05-25), en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-05-25&g=2005-05-25), worden uitgevoerd, op een wijze waardoor deze organisatie voor een ieder voldoende bereikbaar is.
+1. De Centrale organisatie werk en inkomen draagt zorg voor de inrichting en instandhouding van vestigingen, genaamd Centra voor werk en inkomen, waarin de taken van de Centrale organisatie werk en inkomen, bedoeld in de [artikelen 21, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01), en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-07-01&g=2005-07-01), worden uitgevoerd, op een wijze waardoor deze organisatie voor een ieder voldoende bereikbaar is.
 
 2. De Centrale organisatie werk en inkomen kan bepalen dat een of meer van haar wettelijke taken worden uitgevoerd in een of een beperkt aantal Centra voor werk en inkomen.
 
@@ -460,7 +460,7 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 ##### Artikel 26. Beoordeling kans op werk, administratieve indeling en advies inschakeling arbeidsproces
 
-1. De Centrale organisatie werk en inkomen beoordeelt van iedere op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=25&z=2005-05-25&g=2005-05-25) geregistreerde werkzoekende zijn kans op werk, onderzoekt op welke wijze die kans kan worden verbeterd en zorgt voor een administratieve indeling van de werkzoekende.
+1. De Centrale organisatie werk en inkomen beoordeelt van iedere op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=25&z=2005-07-01&g=2005-07-01) geregistreerde werkzoekende zijn kans op werk, onderzoekt op welke wijze die kans kan worden verbeterd en zorgt voor een administratieve indeling van de werkzoekende.
 
 2. Bij ministeriële regeling worden regels gesteld betreffende de administratieve indeling, bedoeld in het eerste lid.
 
@@ -474,7 +474,7 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 1. Voorzover aan de Centrale organisatie werk en inkomen bekend is dat in een bedrijf of onderneming, of een gedeelte daarvan, een werkstaking, uitsluiting of bedrijfsbezetting plaatsvindt, verleent zij geen diensten tot het plaatsen van werkzoekenden in dat bedrijf of die onderneming, of dat gedeelte daarvan, waar de werkstaking, uitsluiting of bedrijfsbezetting heerst.
 
-2. Voorzover aan de Centrale organisatie werk en inkomen bekend is dat werkzoekenden rechtstreeks in een werkstaking, uitsluiting of bedrijfsbezetting betrokken zijn, verleent zij aan hen tijdens de duur van het arbeidsconflict geen diensten als bedoeld in [artikel 21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-05-25&g=2005-05-25).
+2. Voorzover aan de Centrale organisatie werk en inkomen bekend is dat werkzoekenden rechtstreeks in een werkstaking, uitsluiting of bedrijfsbezetting betrokken zijn, verleent zij aan hen tijdens de duur van het arbeidsconflict geen diensten als bedoeld in [artikel 21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 28. Aanvraag van een uitkering en een toeslag en aangifte van werkloosheid
 
@@ -490,9 +490,9 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 ##### Artikel 29. Het verstrekken van gegevens in verband met een uitkeringsaanvraag
 
-1. De belanghebbende verstrekt de gegevens en de bewijsstukken, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25), aan de Centrale organisatie werk en inkomen en deelt op verzoek van deze organisatie of onverwijld uit eigen beweging overigens alle feiten en omstandigheden mee, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, toeslag of bijstand, het geldend maken van het recht op uitkering, toeslag of bijstand, of de hoogte of de duur van de uitkering, toeslag of bijstand.
+1. De belanghebbende verstrekt de gegevens en de bewijsstukken, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01), aan de Centrale organisatie werk en inkomen en deelt op verzoek van deze organisatie of onverwijld uit eigen beweging overigens alle feiten en omstandigheden mee, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, toeslag of bijstand, het geldend maken van het recht op uitkering, toeslag of bijstand, of de hoogte of de duur van de uitkering, toeslag of bijstand.
 
-2. De verplichting van het eerste lid geldt tot het tijdstip van ontvangst van de mededeling van de Centrale organisatie werk en inkomen, bedoeld in [artikel 28, derde lid, vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25).
+2. De verplichting van het eerste lid geldt tot het tijdstip van ontvangst van de mededeling van de Centrale organisatie werk en inkomen, bedoeld in [artikel 28, derde lid, vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01).
 
 ### Hoofdstuk 5. Het Uitvoeringsinstituut werknemersverzekeringen
 
@@ -504,9 +504,9 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 - b. te bevorderen dat personen die een uitkering ontvangen op grond van wetten als bedoeld in onderdeel a worden ingeschakeld in het arbeidsproces;
 
-- c. beheren en administreren van de in [artikel 1, onderdeel l, subonderdelen 1 tot en met 3 en 7 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), bedoelde fondsen;
+- c. beheren en administreren van de in [artikel 1, onderdeel l, subonderdelen 1 tot en met 3 en 7 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), bedoelde fondsen;
 
-- d. zorgdragen voor gevraagde en ongevraagde verstrekking van deugdelijke informatie aan werkgevers, werknemers, uitkeringsgerechtigden, verzekerden, werkzoekenden, regionale platforms, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=23&z=2005-05-25&g=2005-05-25), en andere belanghebbenden in verband met de uitvoering van de in onderdeel a genoemde verzekeringen en wetten alsmede de in onderdeel b bedoelde taak;
+- d. zorgdragen voor gevraagde en ongevraagde verstrekking van deugdelijke informatie aan werkgevers, werknemers, uitkeringsgerechtigden, verzekerden, werkzoekenden, regionale platforms, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=23&z=2005-07-01&g=2005-07-01), en andere belanghebbenden in verband met de uitvoering van de in onderdeel a genoemde verzekeringen en wetten alsmede de in onderdeel b bedoelde taak;
 
 - e. op verzoek van een werkgever of een werknemer een onderzoek instellen naar en een oordeel geven over het bestaan van ongeschiktheid tot werken, indien de werknemer een geschil heeft met zijn werkgever over recht op loon als bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of recht op bezoldiging als bedoeld in [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV) of een onderzoek instellen naar en een oordeel geven over de nakoming van de werknemer van de verplichtingen, bedoeld in [artikel 660a van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=660a) dan wel overeenkomstige bepalingen;
 
@@ -538,15 +538,15 @@ Bij de uitvoering van de taken, bedoeld in de [artikelen 21](https://wetten.over
 
 ##### Artikel 31. Non-discriminatiecode Uitvoeringsinstituut werknemersverzekeringen
 
-Bij de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25), waakt het Uitvoeringsinstituut werknemersverzekeringen tegen discriminatie en stelt daartoe een non-discriminatiecode vast, waarin in ieder geval aandacht wordt besteed aan discriminatie wegens ras, geslacht, hetero- of homoseksuele gerichtheid, leeftijd en handicap.
+Bij de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01), waakt het Uitvoeringsinstituut werknemersverzekeringen tegen discriminatie en stelt daartoe een non-discriminatiecode vast, waarin in ieder geval aandacht wordt besteed aan discriminatie wegens ras, geslacht, hetero- of homoseksuele gerichtheid, leeftijd en handicap.
 
 ##### Artikel 32. Onderzoek
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen kan voor een onderzoek als bedoeld in [artikel 30, eerste lid, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25), kosten in rekening brengen bij de werkgever of de werknemer die heeft verzocht dit onderzoek in te stellen.
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan voor een onderzoek als bedoeld in [artikel 30, eerste lid, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01), kosten in rekening brengen bij de werkgever of de werknemer die heeft verzocht dit onderzoek in te stellen.
 
-2. Indien een werkgever verzoekt een onderzoek als bedoeld in [artikel 30, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25), in te stellen, geeft het Uitvoeringsinstituut werknemersverzekeringen slechts een oordeel over het bestaan van de ongeschiktheid tot werken van een bepaalde werknemer, indien deze werknemer bereid is zich hiertoe te laten onderzoeken.
+2. Indien een werkgever verzoekt een onderzoek als bedoeld in [artikel 30, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01), in te stellen, geeft het Uitvoeringsinstituut werknemersverzekeringen slechts een oordeel over het bestaan van de ongeschiktheid tot werken van een bepaalde werknemer, indien deze werknemer bereid is zich hiertoe te laten onderzoeken.
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen geeft een oordeel als bedoeld in [artikel 30, eerste lid, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25), binnen een termijn van twee weken na ontvangst van het verzoek. De [artikelen 4:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14) en [4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) zijn van overeenkomstige toepassing.
+3. Het Uitvoeringsinstituut werknemersverzekeringen geeft een oordeel als bedoeld in [artikel 30, eerste lid, onderdeel e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01), binnen een termijn van twee weken na ontvangst van het verzoek. De [artikelen 4:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14) en [4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) zijn van overeenkomstige toepassing.
 
 ##### Artikel 33. Verzekerdenadministratie en informatieverstrekking
 
@@ -554,11 +554,11 @@ Bij de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wett
 
 2. In de administratie van het Uitvoeringsinstituut werknemersverzekeringen wordt:
 
-- a. aantekening gehouden van de werkgevers in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), verzekerden en uitkeringsgerechtigden als bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), waarvoor dit instituut wetten uitvoert;
+- a. aantekening gehouden van de werkgevers in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), verzekerden en uitkeringsgerechtigden als bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), waarvoor dit instituut wetten uitvoert;
 
 - b. het sociaal-fiscaalnummer opgenomen van de persoon die verzekerd of uitkeringsgerechtigd is op grond van een wet die door het Uitvoeringsinstituut werknemersverzekeringen wordt uitgevoerd.
 
-3. Het sociaal-fiscaalnummer van een persoon dient tevens als registratienummer voor de verzekerde en de uitkeringsgerechtigde, bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), bij de uitvoering van de in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25), genoemde verzekeringen en wetten door het Uitvoeringsinstituut werknemersverzekeringen.
+3. Het sociaal-fiscaalnummer van een persoon dient tevens als registratienummer voor de verzekerde en de uitkeringsgerechtigde, bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), bij de uitvoering van de in [artikel 30, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01), genoemde verzekeringen en wetten door het Uitvoeringsinstituut werknemersverzekeringen.
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen meldt aan de verzekerde zo spoedig mogelijk dat de hem betreffende gegevens in de administratie zijn opgenomen.
 
@@ -578,7 +578,7 @@ Bij de uitvoering van de taken, bedoeld in [artikel 30, eerste lid](https://wett
 
 - a. de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), alsmede wetten die de uitvoering van deze wetten beheersen, uit te voeren, voorzover die uitvoering niet bij of krachtens enige andere wet aan anderen is opgedragen;
 
-- b. beheren en administreren van de in [artikel 1, onderdeel l, subonderdelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), bedoelde fondsen;
+- b. beheren en administreren van de in [artikel 1, onderdeel l, subonderdelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), bedoelde fondsen;
 
 - c. zorgdragen voor gevraagde en ongevraagde verstrekking van deugdelijke informatie aan werkgevers, werknemers, uitkeringsgerechtigden, verzekerden en andere belanghebbenden in verband met de uitvoering van de in onderdeel a genoemde wetten;
 
@@ -650,7 +650,7 @@ De Inspectie Werk en Inkomen is belast met:
 
 2. Jaarlijks vóór 1 mei stelt de Inspectie Werk en Inkomen een verslag op over de uitkomsten van de toezichtswerkzaamheden in het afgelopen kalenderjaar. Onze Minister brengt het jaarverslag, voorzien van zijn oordeel, vóór de derde woensdag in mei ter kennis van de beide Kamers der Staten-Generaal.
 
-3. Eens per twee jaar vóór bij algemene maatregel van bestuur te bepalen tijdstippen stelt de Inspectie Werk en Inkomen een verslag op over de naleving en de effectiviteit van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=22&z=2005-05-25&g=2005-05-25) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=31&z=2005-05-25&g=2005-05-25).
+3. Eens per twee jaar vóór bij algemene maatregel van bestuur te bepalen tijdstippen stelt de Inspectie Werk en Inkomen een verslag op over de naleving en de effectiviteit van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=22&z=2005-07-01&g=2005-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=31&z=2005-07-01&g=2005-07-01).
 
 4. Onze Minister brengt de bescheiden, bedoeld in het eerste en derde lid, alsmede alle overige, door de Inspectie Werk en Inkomen relevant geachte, rapportages, in de vorm waarin deze hem zijn voorgelegd en voorzien van zijn oordeel, binnen vier weken na ontvangst, ter kennis aan de beide kamers der Staten-Generaal.
 
@@ -662,13 +662,13 @@ De Inspectie Werk en Inkomen is belast met:
 
 ##### Artikel 40. Voorlichting en communicatie
 
-1. De Inspectie Werk en Inkomen draagt zorg voor de verspreiding van het jaarverslag en de overige rapportages, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=38&z=2005-05-25&g=2005-05-25), en verzorgt de voorlichting over de daarin opgenomen bevindingen.
+1. De Inspectie Werk en Inkomen draagt zorg voor de verspreiding van het jaarverslag en de overige rapportages, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=38&z=2005-07-01&g=2005-07-01), en verzorgt de voorlichting over de daarin opgenomen bevindingen.
 
 2. De Inspectie Werk en Inkomen geeft niet eerder uitvoering aan het eerste lid dan nadat Onze Minister het desbetreffende jaarverslag of de desbetreffende rapportage openbaar heeft gemaakt.
 
 ##### Artikel 41. Toezichtbaarheidstoets
 
-De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijkheden van het houden van toezicht op de rechtmatigheid en doelmatigheid van de uitvoering van beleidsvoornemens en voorgenomen wettelijke voorschriften door de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-05-25&g=2005-05-25) genoemde bestuursorganen en rechtspersonen, alsmede beleidsvoornemens en voorgenomen wettelijke voorschriften met betrekking tot andere taken, als bedoeld in [artikel 37, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-05-25&g=2005-05-25).
+De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijkheden van het houden van toezicht op de rechtmatigheid en doelmatigheid van de uitvoering van beleidsvoornemens en voorgenomen wettelijke voorschriften door de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-07-01&g=2005-07-01) genoemde bestuursorganen en rechtspersonen, alsmede beleidsvoornemens en voorgenomen wettelijke voorschriften met betrekking tot andere taken, als bedoeld in [artikel 37, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=37&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 42. Gegevensverstrekking aan de Inspectie Werk en Inkomen
 
@@ -678,7 +678,7 @@ De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijk
 
 3. De Inspectie Werk en Inkomen bepaalt de termijn waarbinnen en de wijze waarop aan de in het eerste en tweede lid bedoelde verplichtingen wordt voldaan.
 
-4. Indien naar het oordeel van de Inspectie Werk en Inkomen gerede twijfel bestaat omtrent de volledigheid of juistheid van de door het Uitvoeringsinstituut werknemersverzekeringen verstrekte stukken als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=49&z=2005-05-25&g=2005-05-25), voor zover dit betreft de rechtmatige en doelmatige besteding van door dat instituut ter beschikking gestelde financiële middelen ten behoeve van de inschakeling van werkzoekenden, uitkeringsgerechtigden en arbeidsgehandicapten in de arbeid, kan zij het Uitvoeringsinstituut werknemersverzekeringen opdragen bij de natuurlijke of rechtspersoon die deze middelen heeft besteed, ter verificatie een nader onderzoek te doen instellen door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) die bij de verstrekte informatie niet betrokken is geweest. De Inspectie Werk en Inkomen bepaalt welke aspecten van de verstrekte informatie geverifieerd dienen te worden en de termijn waarbinnen het onderzoek wordt verricht.
+4. Indien naar het oordeel van de Inspectie Werk en Inkomen gerede twijfel bestaat omtrent de volledigheid of juistheid van de door het Uitvoeringsinstituut werknemersverzekeringen verstrekte stukken als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=49&z=2005-07-01&g=2005-07-01), voor zover dit betreft de rechtmatige en doelmatige besteding van door dat instituut ter beschikking gestelde financiële middelen ten behoeve van de inschakeling van werkzoekenden, uitkeringsgerechtigden en arbeidsgehandicapten in de arbeid, kan zij het Uitvoeringsinstituut werknemersverzekeringen opdragen bij de natuurlijke of rechtspersoon die deze middelen heeft besteed, ter verificatie een nader onderzoek te doen instellen door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) die bij de verstrekte informatie niet betrokken is geweest. De Inspectie Werk en Inkomen bepaalt welke aspecten van de verstrekte informatie geverifieerd dienen te worden en de termijn waarbinnen het onderzoek wordt verricht.
 
 ##### Artikel 43. Kennisgeving besluiten
 
@@ -714,7 +714,7 @@ Onze Minister kan regels stellen waarin besluiten van de Centrale organisatie we
 
 5. De Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank kunnen slechts afwijken van het jaarplan indien Onze Minister het besluit tot afwijking van het jaarplan heeft goedgekeurd.
 
-6. Een besluit tot wijziging van de begroting behoeft de goedkeuring van Onze Minister, tenzij de wijziging, gerekend over het betrokken begrotingsjaar, een bedrag van 5 procent van het in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=48&z=2005-05-25&g=2005-05-25) bedoelde budget niet overschrijdt. In dat geval wordt het besluit ter kennis gebracht van Onze Minister.
+6. Een besluit tot wijziging van de begroting behoeft de goedkeuring van Onze Minister, tenzij de wijziging, gerekend over het betrokken begrotingsjaar, een bedrag van 5 procent van het in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=48&z=2005-07-01&g=2005-07-01) bedoelde budget niet overschrijdt. In dat geval wordt het besluit ter kennis gebracht van Onze Minister.
 
 ##### Artikel 47. Inhoud begroting
 
@@ -782,19 +782,19 @@ Onze Minister kan regels stellen waarin besluiten van de Centrale organisatie we
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank kunnen, voor de uitvoering van hun wettelijke taken, beschikken over de financiële middelen die zij in rekening-courant bij Onze Minister van Financiën aanhouden.
 
-2. Bij regeling van Onze Minister van Financiën worden, in overeenstemming met Onze Minister, na overleg met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, regels gesteld omtrent de rente die over de saldi van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-05-25&g=2005-05-25), bedoelde rekeningen-courant wordt vergoed onderscheidenlijk in rekening wordt gebracht.
+2. Bij regeling van Onze Minister van Financiën worden, in overeenstemming met Onze Minister, na overleg met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, regels gesteld omtrent de rente die over de saldi van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-07-01&g=2005-07-01), bedoelde rekeningen-courant wordt vergoed onderscheidenlijk in rekening wordt gebracht.
 
-3. Onze Minister van Financiën brengt voor het beheer van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-05-25&g=2005-05-25), bedoelde rekeningen-courant geen kosten in rekening.
+3. Onze Minister van Financiën brengt voor het beheer van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-07-01&g=2005-07-01), bedoelde rekeningen-courant geen kosten in rekening.
 
 4. Bij een tekort aan financiële middelen maken het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank uitsluitend gebruik van de kredietfaciliteiten die door Onze Minister van Financiën worden verleend.
 
-5. Onze Minister van Financiën informeert dagelijks het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank ten aanzien van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-05-25&g=2005-05-25), bedoelde rekeningen-courant, in elk geval met betrekking tot:
+5. Onze Minister van Financiën informeert dagelijks het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank ten aanzien van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-07-01&g=2005-07-01), bedoelde rekeningen-courant, in elk geval met betrekking tot:
 
 - a. de slotstanden per dag;
 
 - b. alle dagelijks geboekte mutaties of transacties in de desbetreffende rekening-courant.
 
-6. Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank informeren Onze Minister van Financiën ten aanzien van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-05-25&g=2005-05-25), bedoelde rekeningen-courant, in elk geval met betrekking tot de prognoses van de saldi van de desbetreffende rekening-courant.
+6. Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank informeren Onze Minister van Financiën ten aanzien van de in [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=50&z=2005-07-01&g=2005-07-01), bedoelde rekeningen-courant, in elk geval met betrekking tot de prognoses van de saldi van de desbetreffende rekening-courant.
 
 7. Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister, na overleg met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, nadere regels worden gesteld omtrent het vijfde en zesde lid.
 
@@ -838,7 +838,7 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Fina
 
 - b. de belastingdienst;
 
-- c. de arbodienst, bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+- c. de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) en de arbodienst, bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
 
 - d. het College voor zorgverzekeringen, genoemd in [artikel 1a van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1a), de ziekenfondsen, de ziektekostenverzekeraars en de uitvoeringsorganen, bedoeld in [artikel 4 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=4);
 
@@ -874,7 +874,7 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Fina
 
 2. Een ieder verstrekt op verzoek onverwijld aan de in het eerste lid genoemde rechtspersonen inzage in een op hem betrekking hebbend document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of een geldig rijbewijs dat is afgegeven op basis van de Wegenverkeerswet dan wel een geldig rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), voorzover dit redelijkerwijs nodig is voor de uitvoering van wettelijke taken door de betrokken rechtspersoon.
 
-3. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) stelt bij de uitvoering van zijn verplichting bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25), de identiteit van de verzekerde vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1º of 2º, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en neemt daarvan de aard, het nummer en een afschrift op in de administratie. De verzekerde verstrekt dit document daartoe aan de werkgever, bedoeld in de eerste zin, ter inzage en stelt hem in de gelegenheid daarvan afschrift te maken.
+3. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) stelt bij de uitvoering van zijn verplichting bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01), de identiteit van de verzekerde vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1º of 2º, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en neemt daarvan de aard, het nummer en een afschrift op in de administratie. De verzekerde verstrekt dit document daartoe aan de werkgever, bedoeld in de eerste zin, ter inzage en stelt hem in de gelegenheid daarvan afschrift te maken.
 
 4. De werkgever, bedoeld in het derde lid, verstrekt een afschrift van het document, bedoeld in het derde lid, aan de werkgever, bedoeld in [artikel 1, onderdeel b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=1), indien de verzekerde ten behoeve van die werkgever een vreemdeling is als bedoeld in laatstgenoemde wet. Het afschrift wordt onverwijld verstrekt na de aanvang van de arbeid door de vreemdeling.
 
@@ -882,7 +882,7 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Fina
 
 ##### Artikel 56. Melding door de Centrale organisatie werk en inkomen van het niet nakomen van verplichtingen
 
-1. De Centrale organisatie werk en inkomen geeft, indien deze organisatie het gegronde vermoeden heeft dat een belanghebbende de verplichting tot het verstrekken van inlichtingen op grond van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25), en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-05-25&g=2005-05-25), niet nakomt of anderszins onvoldoende medewerking verleent, dan wel dat een werknemer in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) een verplichting, hem opgelegd op grond van de [artikelen 24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), of [26, eerste lid, onderdeel d, e, f of i, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) niet nakomt, dan wel dat een omstandigheid als bedoeld in [artikel 18, tweede lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18), [artikel 20, eerste lid of derde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20) of [artikel 20, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20) zich voordoet, hiervan onverwijld kennis aan het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk burgemeester en wethouders van de betrokken gemeente, onder vermelding van de gronden waarop het vermoeden steunt. De kennisgeving wordt schriftelijk of langs elektronische weg vastgelegd.
+1. De Centrale organisatie werk en inkomen geeft, indien deze organisatie het gegronde vermoeden heeft dat een belanghebbende de verplichting tot het verstrekken van inlichtingen op grond van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01), en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-07-01&g=2005-07-01), niet nakomt of anderszins onvoldoende medewerking verleent, dan wel dat een werknemer in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) een verplichting, hem opgelegd op grond van de [artikelen 24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), of [26, eerste lid, onderdeel d, e, f of i, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) niet nakomt, dan wel dat een omstandigheid als bedoeld in [artikel 18, tweede lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18), [artikel 20, eerste lid of derde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20) of [artikel 20, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20) zich voordoet, hiervan onverwijld kennis aan het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk burgemeester en wethouders van de betrokken gemeente, onder vermelding van de gronden waarop het vermoeden steunt. De kennisgeving wordt schriftelijk of langs elektronische weg vastgelegd.
 
 2. De Centrale organisatie werk en inkomen geeft overeenkomstig het eerste lid kennis aan de Sociale verzekeringsbank dat een omstandigheid als bedoeld in [artikel 7, zesde lid, tweede zin, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) zich voordoet.
 
@@ -892,23 +892,23 @@ De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverz
 
 ##### Artikel 58. Meldingen door werkgever aan Uitvoeringsinstituut werknemersverzekeringen
 
-1. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) geeft, indien een verzekerde weigert de op grond van [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25), verlangde gegevens en inlichtingen aan die werkgever te verstrekken, hiervan onverwijld kennis aan het Uitvoeringsinstituut werknemersverzekeringen.
+1. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) geeft, indien een verzekerde weigert de op grond van [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01), verlangde gegevens en inlichtingen aan die werkgever te verstrekken, hiervan onverwijld kennis aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. De werkgever, bedoeld in het eerste lid, deelt de aanvang of beëindiging van werkzaamheden door een verzekerde, alsmede de wijziging in de arbeidsverhouding met de verzekerde, mede aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 59. Meldingen door verzekerde aan Uitvoeringsinstituut werknemersverzekeringen
 
-1. De verzekerde of de uitkeringsgerechtigde, bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), doet, indien de melding bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-05-25&g=2005-05-25), gegevens bevat die niet juist of niet volledig zijn, hiervan terstond na ontvangst van deze melding schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
+1. De verzekerde of de uitkeringsgerechtigde, bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), doet, indien de melding bedoeld in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-07-01&g=2005-07-01), gegevens bevat die niet juist of niet volledig zijn, hiervan terstond na ontvangst van deze melding schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
 
-2. De verzekerde die de in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-05-25&g=2005-05-25), bedoelde melding niet binnen de in dat artikel bedoelde periode heeft ontvangen en redelijkerwijs kon weten dat hij deze melding had behoren te ontvangen, doet hiervan onverwijld schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
+2. De verzekerde die de in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-07-01&g=2005-07-01), bedoelde melding niet binnen de in dat artikel bedoelde periode heeft ontvangen en redelijkerwijs kon weten dat hij deze melding had behoren te ontvangen, doet hiervan onverwijld schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
 
-3. De verzekerde die weet of redelijkerwijs kon weten dat de werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet of niet op de juiste wijze voldoet aan een hem in [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-05-25&g=2005-05-25), of [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25), opgelegde verplichting, doet hiervan onverwijld schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
+3. De verzekerde die weet of redelijkerwijs kon weten dat de werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet of niet op de juiste wijze voldoet aan een hem in [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-07-01&g=2005-07-01), of [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01), opgelegde verplichting, doet hiervan onverwijld schriftelijk mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 60. Verzekerdenadministratie van de werkgever
 
-1. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) voert een zodanige administratie dat hij aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen kan verstrekken die noodzakelijk zijn voor het uitvoeren van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25) bedoelde taak.
+1. De werkgever in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) voert een zodanige administratie dat hij aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen kan verstrekken die noodzakelijk zijn voor het uitvoeren van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01) bedoelde taak.
 
-2. De werkgever, bedoeld in het eerste lid, verlangt van de verzekerde alle gegevens en inlichtingen die noodzakelijk zijn voor het uitvoeren van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-05-25&g=2005-05-25) bedoelde taak door het Uitvoeringsinstituut werknemersverzekeringen ten aanzien van de verzekerde zelf en verstrekt deze gegevens en inlichtingen aan het Uitvoeringsinstituut werknemersverzekeringen. De verzekerde verstrekt op verzoek aan de werkgever, bedoeld in de eerste zin, de door deze op grond van dit lid verlangde gegevens en inlichtingen.
+2. De werkgever, bedoeld in het eerste lid, verlangt van de verzekerde alle gegevens en inlichtingen die noodzakelijk zijn voor het uitvoeren van de in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=30&z=2005-07-01&g=2005-07-01) bedoelde taak door het Uitvoeringsinstituut werknemersverzekeringen ten aanzien van de verzekerde zelf en verstrekt deze gegevens en inlichtingen aan het Uitvoeringsinstituut werknemersverzekeringen. De verzekerde verstrekt op verzoek aan de werkgever, bedoeld in de eerste zin, de door deze op grond van dit lid verlangde gegevens en inlichtingen.
 
 ##### Artikel 61. Melding bij vermoeden van misdrijf
 
@@ -920,19 +920,19 @@ De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverz
 
 2. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en burgemeester en wethouders van de gemeenten maken bij de uitvoering van de taken die bij of krachtens deze wet of enige andere wet aan de Centrale organisatie werk en inkomen of het Uitvoeringsinstituut werknemersverzekeringen en bij of krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) aan burgemeester en wethouders van de gemeenten is opgedragen, gebruik van een elektronische infrastructuur die daartoe door hen en Onze Minister wordt ingericht en in stand gehouden.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het gebruik van de in het tweede lid bedoelde infrastructuur door Onze Minister en de Inspectie Werk en Inkomen in verband met de toepassing van de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=42&z=2005-05-25&g=2005-05-25), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=43&z=2005-05-25&g=2005-05-25), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-05-25&g=2005-05-25) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=72&z=2005-05-25&g=2005-05-25) van deze wet.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het gebruik van de in het tweede lid bedoelde infrastructuur door Onze Minister en de Inspectie Werk en Inkomen in verband met de toepassing van de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=42&z=2005-07-01&g=2005-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7&artikel=43&z=2005-07-01&g=2005-07-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-07-01&g=2005-07-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=72&z=2005-07-01&g=2005-07-01) van deze wet.
 
-4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het gebruik van de in het tweede lid bedoelde infrastructuur voor het verstrekken van gegevens en inlichtingen, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-05-25&g=2005-05-25) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-05-25&g=2005-05-25), voorzover dit noodzakelijk is voor de opsporing van feiten strafbaar gesteld bij deze of enige andere wet of voor het toezicht op de naleving van deze of enige andere wet als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-05-25&g=2005-05-25) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-05-25&g=2005-05-25).
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het gebruik van de in het tweede lid bedoelde infrastructuur voor het verstrekken van gegevens en inlichtingen, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-07-01&g=2005-07-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-07-01&g=2005-07-01), voorzover dit noodzakelijk is voor de opsporing van feiten strafbaar gesteld bij deze of enige andere wet of voor het toezicht op de naleving van deze of enige andere wet als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-07-01&g=2005-07-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-07-01&g=2005-07-01).
 
 5. Bij ministeriële regeling kunnen het eerste en tweede lid van toepassing worden verklaard op de uitvoering van andere dan de in het eerste en tweede lid genoemde wetten door burgemeester en wethouders van de gemeenten.
 
-5. Bij de uitvoering door de Centrale organisatie werk en inkomen van de taak, bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-05-25&g=2005-05-25), is het tweede lid niet van toepassing.
+5. Bij de uitvoering door de Centrale organisatie werk en inkomen van de taak, bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21a&z=2005-07-01&g=2005-07-01), is het tweede lid niet van toepassing.
 
 ##### Artikel 63. Het Inlichtingenbureau
 
-1. Het Inlichtingenbureau is belast met de coördinatie en dienstverlening ten behoeve van de gemeenten bij de toepassing van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25).
+1. Het Inlichtingenbureau is belast met de coördinatie en dienstverlening ten behoeve van de gemeenten bij de toepassing van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01).
 
-2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=19&z=2005-05-25&g=2005-05-25) is ten aanzien van het Inlichtingenbureau van overeenkomstige toepassing.
+2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=19&z=2005-07-01&g=2005-07-01) is ten aanzien van het Inlichtingenbureau van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het Inlichtingenbureau, in ieder geval over de taken, de financiering, de goedkeuring door Onze Minister van het jaarplan en de begroting en het gebruik van het sociaal-fiscaalnummer door deze instelling.
 
@@ -972,7 +972,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de aa
 
 ##### Artikel 68. Jaarlijks verslag
 
-1. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, het Inlichtingenbureau en de rechtspersoon, bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=67&z=2005-05-25&g=2005-05-25), stellen jaarlijks in een verslag de aard en frequentie van de uitwisseling van gegevens met behulp van Suwinet vast.
+1. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, het Inlichtingenbureau en de rechtspersoon, bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=67&z=2005-07-01&g=2005-07-01), stellen jaarlijks in een verslag de aard en frequentie van de uitwisseling van gegevens met behulp van Suwinet vast.
 
 2. Bij ministeriële regeling kunnen regels gesteld worden omtrent het eerste lid.
 
@@ -982,11 +982,11 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de toerekening v
 
 ##### Artikel 70. Sociale verzekeringsbank
 
-Bij ministeriële regeling kunnen de [artikelen 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=64&z=2005-05-25&g=2005-05-25) en [66 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=66&z=2005-05-25&g=2005-05-25) van overeenkomstige toepassing worden verklaard op de Sociale verzekeringsbank.
+Bij ministeriële regeling kunnen de [artikelen 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=64&z=2005-07-01&g=2005-07-01) en [66 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=66&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing worden verklaard op de Sociale verzekeringsbank.
 
 ##### Artikel 71. Overleg over nadere regels
 
-Alvorens regels worden gesteld op grond van de [artikelen 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=63&z=2005-05-25&g=2005-05-25), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=64&z=2005-05-25&g=2005-05-25), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=65&z=2005-05-25&g=2005-05-25), [66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=66&z=2005-05-25&g=2005-05-25), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=67&z=2005-05-25&g=2005-05-25), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=68&z=2005-05-25&g=2005-05-25), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=69&z=2005-05-25&g=2005-05-25) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=70&z=2005-05-25&g=2005-05-25) stelt Onze Minister de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en een door hem aangewezen rechtspersoon die de gemeenten vertegenwoordigt, in de gelegenheid hierover met hem overleg te voeren.
+Alvorens regels worden gesteld op grond van de [artikelen 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=63&z=2005-07-01&g=2005-07-01), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=64&z=2005-07-01&g=2005-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=65&z=2005-07-01&g=2005-07-01), [66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=66&z=2005-07-01&g=2005-07-01), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=67&z=2005-07-01&g=2005-07-01), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=68&z=2005-07-01&g=2005-07-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=69&z=2005-07-01&g=2005-07-01) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=70&z=2005-07-01&g=2005-07-01) stelt Onze Minister de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en een door hem aangewezen rechtspersoon die de gemeenten vertegenwoordigt, in de gelegenheid hierover met hem overleg te voeren.
 
 ##### Artikel 72. Gegevensverstrekking door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank aan de minister
 
@@ -1002,15 +1002,15 @@ De Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Inlic
 
 - c. risicofondsen of bij collectieve arbeidsovereenkomst aangewezen instellingen of collectieve voorzieningen voor werknemers, alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van de statuten en reglementen van die fondsen of van die bij collectieve arbeidsovereenkomst aangewezen instellingen of voorzieningen;
 
-- d. aan verzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), alle gegevens en inlichtingen afkomstig van werkgevers, die worden verwerkt in de administratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-05-25&g=2005-05-25), te verstrekken die noodzakelijk zijn voor de uitvoering van overeenkomsten met werkgevers tot verzekering van het risico van betaling van loon in geval van ziekte van de werknemer dan wel van het risico van het betalen van arbeidsongeschiktheidsuitkering of de gedifferentieerde premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
+- d. aan verzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=1), alle gegevens en inlichtingen afkomstig van werkgevers, die worden verwerkt in de administratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-07-01&g=2005-07-01), te verstrekken die noodzakelijk zijn voor de uitvoering van overeenkomsten met werkgevers tot verzekering van het risico van betaling van loon in geval van ziekte van de werknemer dan wel van het risico van het betalen van arbeidsongeschiktheidsuitkering of de gedifferentieerde premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-2. Alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) worden door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank op verzoek verstrekt en kunnen door het Uitvoeringsinstituut werknemersverzekeringen uit eigen beweging worden verstrekt aan de arbodienst, bedoeld in die wet.
+2. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek uit de onder hun verantwoordelijkheid gevoerde administratie aan de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) en de arbodienst, bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitvoering van die taken door die persoon of die arbodienst, en het Uitvoeringsinstituut werknemersverzekeringen is bevoegd met het oog op de uitvoering van die taken uit eigen beweging gegevens te verstrekken, die noodzakelijk zijn voor de uitvoering van die taken.
 
 3. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken kosteloos op verzoek van het Centraal Bureau voor de Statistiek gegevens inzake de uitvoering van hun wettelijke taken ten behoeve van de statistiek.
 
 4. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank kunnen gegevens inzake de uitvoering van hun wettelijke taken ten behoeve van wetenschappelijk onderzoek of statistiek verzamelen en aan derden verstrekken.
 
-5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking van gegevens door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank aan bestuursorganen, instellingen en bedrijven, de daarvoor in rekening te brengen kosten en het gebruik daarbij van de infrastructuur, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25). Daarbij kunnen ook regels worden gesteld met betrekking tot de verstrekking van gegevens die niet herleidbaar zijn tot individuele natuurlijke personen.
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking van gegevens door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank aan bestuursorganen, instellingen en bedrijven, de daarvoor in rekening te brengen kosten en het gebruik daarbij van de infrastructuur, bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01). Daarbij kunnen ook regels worden gesteld met betrekking tot de verstrekking van gegevens die niet herleidbaar zijn tot individuele natuurlijke personen.
 
 6. De Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank kunnen aan derden persoonsgegevens verstrekken indien de persoon op wie die gegevens betrekking hebben schriftelijk heeft verklaard daar geen bezwaar tegen te hebben.
 
@@ -1022,11 +1022,11 @@ De Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Inlic
 
 2. Het in het eerste lid vervatte verbod is niet van toepassing indien enig wettelijk voorschrift tot bekendmaking verplicht.
 
-3. Degene die op grond van de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-05-25&g=2005-05-25), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=72&z=2005-05-25&g=2005-05-25) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-05-25&g=2005-05-25) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
+3. Degene die op grond van de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=62&z=2005-07-01&g=2005-07-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=72&z=2005-07-01&g=2005-07-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=73&z=2005-07-01&g=2005-07-01) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
 
 ##### Artikel 75. Openbaarheid van gegevens
 
-De door de Centrale organisatie werk en inkomen geregistreerde gegevens zijn openbaar voorzover die van belang zijn voor de uitoefening van de in [artikel 21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-05-25&g=2005-05-25), genoemde taak, met dien verstande dat openbaarmaking van tot een individuele werkzoekende of een individuele werkgever, zijnde een natuurlijke persoon, herleidbare gegevens plaatsvindt met inachtneming van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+De door de Centrale organisatie werk en inkomen geregistreerde gegevens zijn openbaar voorzover die van belang zijn voor de uitoefening van de in [artikel 21, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01), genoemde taak, met dien verstande dat openbaarmaking van tot een individuele werkzoekende of een individuele werkgever, zijnde een natuurlijke persoon, herleidbare gegevens plaatsvindt met inachtneming van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
 ##### Artikel 76. Beveiliging van gegevens
 
@@ -1034,9 +1034,9 @@ De Centrale organisatie werk en inkomen, het Inlichtingenbureau, het Uitvoerings
 
 ##### Artikel 77. Nadere regels
 
-1. Bij ministeriële regeling worden, na overleg met Onze Minister van Financiën, regels gesteld met betrekking tot de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-05-25&g=2005-05-25), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=59&z=2005-05-25&g=2005-05-25) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25).
+1. Bij ministeriële regeling worden, na overleg met Onze Minister van Financiën, regels gesteld met betrekking tot de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-07-01&g=2005-07-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=59&z=2005-07-01&g=2005-07-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01).
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels omtrent de inhoud van de gegevens die op grond van de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-05-25&g=2005-05-25), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-05-25&g=2005-05-25) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25) aan het Uitvoeringsinstituut werknemersverzekeringen verstrekt worden en omtrent de vorm waarin en de wijze waarop die gegevens worden verstrekt. Deze regels worden door het Uitvoeringsinstituut werknemersverzekeringen gepubliceerd in de Staatscourant.
+2. Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels omtrent de inhoud van de gegevens die op grond van de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-07-01&g=2005-07-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-07-01&g=2005-07-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01) aan het Uitvoeringsinstituut werknemersverzekeringen verstrekt worden en omtrent de vorm waarin en de wijze waarop die gegevens worden verstrekt. Deze regels worden door het Uitvoeringsinstituut werknemersverzekeringen gepubliceerd in de Staatscourant.
 
 3. Bij ministeriële regeling worden nadere regels gesteld omtrent de verstrekking van inlichtingen en het verlenen van inzage in gegevens en bescheiden door de Centrale organisatie werk en inkomen, het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen, de Raad voor werk en inkomen en de Sociale verzekeringsbank aan Onze Minister en aan de Inspectie Werk en Inkomen op grond van deze wet.
 
@@ -1076,17 +1076,17 @@ Indien een besluit goedkeuring behoeft op grond van deze wet of enige andere wet
 
 ##### Artikel 83. Beroepsinstantie
 
-Tegen een besluit op grond van [artikel 48, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=48&z=2005-05-25&g=2005-05-25), kan de Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank beroep instellen bij de Centrale Raad van Beroep.
+Tegen een besluit op grond van [artikel 48, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8&artikel=48&z=2005-07-01&g=2005-07-01), kan de Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank beroep instellen bij de Centrale Raad van Beroep.
 
 ### Hoofdstuk 11. Straf- en slotbepalingen
 
 ##### Artikel 84. Overtredingen en misdrijven
 
-1. Overtreding van de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25), en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-05-25&g=2005-05-25), [54, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-05-25&g=2005-05-25), en [55, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=55&z=2005-05-25&g=2005-05-25), van deze wet, [27a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), en [36, zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), en [45a, vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [29a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), en [57, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), en [63, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=40), en [55, zesde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [14a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), en [20, zesde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [17c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), en [24, zesde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [17a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), en [24, zesde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39) en [53, zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21), [35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35), en [46, vijfde lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=46) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+1. Overtreding van de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01), en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-07-01&g=2005-07-01), [54, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=54&z=2005-07-01&g=2005-07-01), en [55, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=55&z=2005-07-01&g=2005-07-01), van deze wet, [27a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), en [36, zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), en [45a, vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [29a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), en [57, zesde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), en [63, zesde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=40), en [55, zesde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [14a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), en [20, zesde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [17c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), en [24, zesde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [17a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), en [24, zesde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39) en [53, zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21), [35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35), en [46, vijfde lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=46) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-2. Overtreding van de [artikelen 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-05-25&g=2005-05-25), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25) wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Overtreding van de [artikelen 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-07-01&g=2005-07-01), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01) wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-3. Indien overtreding van de [artikelen 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-05-25&g=2005-05-25), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-05-25&g=2005-05-25) opzettelijk geschiedt, wordt dit gestraft met gevangenisstraf van ten hoogste vier jaren en geldboete van de vierde categorie, hetzij met een van deze straffen.
+3. Indien overtreding van de [artikelen 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=58&z=2005-07-01&g=2005-07-01), en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=9&artikel=60&z=2005-07-01&g=2005-07-01) opzettelijk geschiedt, wordt dit gestraft met gevangenisstraf van ten hoogste vier jaren en geldboete van de vierde categorie, hetzij met een van deze straffen.
 
 4. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -1112,7 +1112,7 @@ Tegen een besluit op grond van [artikel 48, eerste, tweede en zesde lid](https:/
 
 - a. de werking van prikkels bij de uitvoering van deze of enige andere wet door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, burgemeester en wethouders van de gemeenten voorzover het de uitvoering van de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijke arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en de [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083) betreft, alsmede de wijze waarop door middel van prikkels de doeltreffendheid van die uitvoering kan worden bevorderd;
 
-- b. de uitvoering op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=13&z=2005-05-25&g=2005-05-25) van andere dan de in deze wet bedoelde taken door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
+- b. de uitvoering op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2&artikel=13&z=2005-07-01&g=2005-07-01) van andere dan de in deze wet bedoelde taken door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;
 
 - c. de eisen die worden gesteld aan contracten op grond waarvan uitvoering wordt gegeven aan de taak van het Uitvoeringsinstituut werknemersverzekeringen en de gemeente, bedoeld in de [artikelen 72 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72), [10 van de Wet (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=10) en [8 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=8).
 
@@ -1130,7 +1130,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 82a. Experimenten
 
-1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) met betrekking tot de beoordeling van en advisering over arbeidsinschakeling en het aanvragen van uitkeringen, toeslagen of bijstand doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 21, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-05-25&g=2005-05-25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=26&z=2005-05-25&g=2005-05-25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-05-25&g=2005-05-25) en [29 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-05-25&g=2005-05-25), [artikel 41 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=41), de [artikelen 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=11a), en [16a, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=16a), de [artikelen 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=11a), en [16a, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=16a), de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=22), en [26 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [artikel 11, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=11). Bij toepassing van de eerste volzin wordt bij algemene maatregel van bestuur geregeld op welke wijze van welke artikelen wordt afgeweken.
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) met betrekking tot de beoordeling van en advisering over arbeidsinschakeling en het aanvragen van uitkeringen, toeslagen of bijstand doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 21, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=21&z=2005-07-01&g=2005-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=26&z=2005-07-01&g=2005-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=28&z=2005-07-01&g=2005-07-01) en [29 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4&artikel=29&z=2005-07-01&g=2005-07-01), [artikel 41 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=41), de [artikelen 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=11a), en [16a, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=16a), de [artikelen 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=11a), en [16a, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=16a), de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=22), en [26 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [artikel 11, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=11). Bij toepassing van de eerste volzin wordt bij algemene maatregel van bestuur geregeld op welke wijze van welke artikelen wordt afgeweken.
 
 2. Een experiment als bedoeld in het eerste lid duurt ten hoogste vijf jaar. Indien, voor een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan het experiment worden verlengd tot het tijdstip waarop het voorstel van wet in werking treedt. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
 
@@ -1182,7 +1182,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 33a. Arbeidsverledenbeschikking
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen geeft over kalenderjaren vanaf en met inbegrip van 1998 uiterlijk 18 maanden na afloop van ieder tijdvak van vijf kalenderjaren aan degene van wie in dat tijdvak als verzekerde of als uitkeringsgerechtigde als bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-05-25&g=2005-05-25), aantekening is gehouden in de administratie, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-05-25&g=2005-05-25), een beschikking waarin van ieder kalenderjaar in dat tijdvak is aangegeven of hij over 52 of meer dagen loon heeft ontvangen als bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42).
+1. Het Uitvoeringsinstituut werknemersverzekeringen geeft over kalenderjaren vanaf en met inbegrip van 1998 uiterlijk 18 maanden na afloop van ieder tijdvak van vijf kalenderjaren aan degene van wie in dat tijdvak als verzekerde of als uitkeringsgerechtigde als bedoeld in [artikel 1, onderdeel n, aanhef en sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=1&artikel=1&z=2005-07-01&g=2005-07-01), aantekening is gehouden in de administratie, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33&z=2005-07-01&g=2005-07-01), een beschikking waarin van ieder kalenderjaar in dat tijdvak is aangegeven of hij over 52 of meer dagen loon heeft ontvangen als bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42).
 
 2. Op verzoek van belanghebbende geeft het Uitvoeringsinstituut werknemersverzekeringen een beschikking over tijdvakken die niet zullen worden bestreken door de in het eerste lid bedoelde beschikking waarin van ieder kalenderjaar in dat tijdvak wordt aangegeven of hij over 52 of meer dagen loon heeft ontvangen als bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42).
 
@@ -1216,17 +1216,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 83a. Beperking belanghebbendebegrip
 
-Bij een besluit op grond van [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-05-25&g=2005-05-25) is belanghebbende de persoon op wiens aanspraken het besluit betrekking heeft.
+Bij een besluit op grond van [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-07-01&g=2005-07-01) is belanghebbende de persoon op wiens aanspraken het besluit betrekking heeft.
 
 ##### Artikel 83b. Beslistermijn bezwaarschriftprocedure
 
-In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken na ontvangst van het bezwaarschrift tegen een beschikking als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-05-25&g=2005-05-25).
+In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken na ontvangst van het bezwaarschrift tegen een beschikking als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-07-01&g=2005-07-01).
 
 ### Hoofdstuk 10B. Overgangsbepalingen
 
 ##### Artikel 83c. Overgangsrecht artikel 33a
 
-Tot 1 januari 2012 is het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-05-25&g=2005-05-25), eerste lid, bevoegd:
+Tot 1 januari 2012 is het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5&artikel=33a&z=2005-07-01&g=2005-07-01), eerste lid, bevoegd:
 
 - a. de in dat lid genoemde termijn van 18 maanden buiten beschouwing te laten, en
 
@@ -1236,11 +1236,11 @@ Tot 1 januari 2012 is het Uitvoeringsinstituut werknemersverzekeringen, in afwij
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 83d. Overgangsrecht [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-05-25&g=2005-05-25)
+##### Artikel 83d. Overgangsrecht [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-07-01&g=2005-07-01)
 
-1. Beschikkingen die de Raad voor werk en inkomen namens Onze Minister van Sociale Zaken en Werkgelegenheid heeft genomen op grond van een regeling gebaseerd op [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-05-25&g=2005-05-25), zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=I) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijven van kracht.
+1. Beschikkingen die de Raad voor werk en inkomen namens Onze Minister van Sociale Zaken en Werkgelegenheid heeft genomen op grond van een regeling gebaseerd op [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-07-01&g=2005-07-01), zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=I) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijven van kracht.
 
-2. Met betrekking tot de uitvoering van een regeling op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-05-25&g=2005-05-25), zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=I) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijft het recht zoals dat voor die datum gold van toepassing.
+2. Met betrekking tot de uitvoering van een regeling op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=3&artikel=20&z=2005-07-01&g=2005-07-01), zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=I) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijft het recht zoals dat voor die datum gold van toepassing.
 
 3. Met betrekking tot bezwaarschriften en bestuursrechtelijke gedingen inzake beschikkingen als bedoeld in het eerste lid dan wel gebaseerd op het tweede lid, blijft het recht zoals dat gold voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=I) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, van toepassing.
 
