@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2002-09-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -63,21 +63,17 @@ Overeenkomstig artikel 106 van [richtlijn nr. 2001/34/EG](32001L0034), brengt Eu
 
 ##### Artikel 6
 
-De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gesteld, geven, voor zover zulks nog niet is geschied bij het besluit, uitvoering aan [richtlijn nr. 89/298/EEG](31989L0298) en de richtlijn beleggingsdiensten.
+De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gesteld, geven, voor zover zulks nog niet is geschied bij het besluit, uitvoering aan de richtlijn beleggingsdiensten.
 
 ##### Artikel 7
 
-1. De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in:
-
-- [richtlijn nr. 89/298/EEG](31989L0298);
-
-- artikel 22, eerste lid, van de richtlijn beleggingsdiensten, met uitzondering van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007778&artikel=8&z=2002-09-01&g=2002-09-01), voor zover het kapitaaleisen betreft en artikel 8, tweede lid, van die richtlijn.
+1. De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de richtlijn beleggingsdiensten, met uitzondering van artikel 8, eerste lid, voor zover het kapitaaleisen betreft en artikel 8, tweede lid, van die richtlijn.
 
 2. De Nederlandsche Bank N.V. wordt aangewezen als de bevoegde autoriteit, bedoeld in:
 
 - artikel 9, eerste lid, van de richtlijn kapitaaltoereikendheid;
 
-- de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007778&artikel=8&z=2002-09-01&g=2002-09-01), voor zover het kapitaaleisen betreft, en 8, tweede lid, van de richtlijn beleggingsdiensten.
+- de artikelen 8, eerste lid, voor zover het kapitaaleisen betreft, en 8, tweede lid, van de richtlijn beleggingsdiensten.
 
 ##### Artikel 8
 
