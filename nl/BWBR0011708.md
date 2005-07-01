@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -96,7 +96,11 @@ In dit besluit wordt verstaan onder:
 
 - de kosten van de als gevolg van het niet of niet behoorlijke nakomen van een inlichtingenverplichting ten onrechte verleende kinderopvang, bedoeld in [artikel 22a van de REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22a), onder aftrek van de eigen bijdrage, bedoeld in het zesde lid van dat artikel;
 
-- t. werkgever: de werkgever in de zin van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
+- t. werkgever: de werkgever in de zin van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+
+- u. arbodienst: een arbodienst als bedoeld in de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+
+- v. deskundige persoon: een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
 
 ##### Artikel 2. Berekening van de boete
 
@@ -108,9 +112,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Afstemming
 
-1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2005-01-01&g=2005-01-01), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Indien de ernst van de gedraging, de mate waarin de belanghebbende de gedraging verweten kan worden of de omstandigheden waarin hij verkeert daartoe aanleiding geven, wordt de boete, die is berekend met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2&z=2005-07-01&g=2005-07-01), verhoogd of verlaagd. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2005-01-01&g=2005-01-01), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-01-01&g=2005-01-01), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2005-01-01&g=2005-01-01), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-01-01&g=2005-01-01) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Indien de ernst van de gedraging, de mate waarin de werkgever de gedraging verweten kan worden of de omstandigheden waarin de werkgever verkeert daartoe aanleiding geven, wordt de werkgeversboete ZW/WAO, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2005-07-01&g=2005-07-01), [2b, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-07-01&g=2005-07-01), of [2c van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2c&z=2005-07-01&g=2005-07-01), verhoogd of verlaagd en wordt de werkgeversboete ZW/WAO, bedoeld in [artikel 2b, eerste lid, onderdelen c en d, en tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2005-07-01&g=2005-07-01) verlaagd. Van het opleggen van een werkgeversboete ZW/WAO wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
 ##### Artikel 4. Intrekking van een besluit en vervallen van artikelen
 
@@ -164,19 +168,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. de datum van de laatste werkdag of herstel onjuist is opgegeven.
 
-2. De verplichting, bedoeld in [artikel 63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), is niet nagekomen indien de werkgever de melding dat hij zich met betrekking tot de begeleiding van zijn zieke werknemers niet meer laat bijstaan door een arbodienst, niet binnen 7 kalenderdagen heeft gedaan.
+2. De verplichting, bedoeld in [artikel 63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), is niet nagekomen indien de werkgever de melding dat hij zich met betrekking tot de begeleiding van zijn zieke werknemers niet meer laat bijstaan door een deskundige persoon of een arbodienst, niet binnen 7 kalenderdagen heeft gedaan.
 
 ##### Artikel 2b. Hoogte van de werkgeversboete bij niet of niet behoorlijke melding
 
 1. De hoogte van de boete, bedoeld in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), en [63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63) bedraagt:
 
-- a. € 68, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst minder dan 7 kalenderdagen te laat is gedaan;
+- a. € 68, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een deskundige persoon of een arbodienst minder dan 7 kalenderdagen te laat is gedaan;
 
-- b. € 227, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
+- b. € 227, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een deskundige persoon of een arbodienst 7 kalenderdagen of meer doch minder dan 28 kalenderdagen te laat is gedaan;
 
-- c. € 454, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een arbodienst 28 kalenderdagen of meer te laat is gedaan;
+- c. € 454, indien de aangifte van de laatste werkdag, de hersteldmelding respectievelijk de melding zich niet meer te laten bijstaan door een deskundige persoon of een arbodienst 28 kalenderdagen of meer te laat is gedaan;
 
-- d. € 454, indien de datum van de laatste werkdag, de datum van herstel respectievelijk de datum sedert wanneer de werkgever zich niet meer laat bijstaan door een arbodienst onjuist is opgegeven.
+- d. € 454, indien de datum van de laatste werkdag, de datum van herstel respectievelijk de datum sedert wanneer de werkgever zich niet meer laat bijstaan door een deskundige persoon of een arbodienst onjuist is opgegeven.
 
 2. De boete wegens het niet nakomen van de verplichtingen, bedoeld in [artikel 38, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), of [63, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), bedraagt € 454.
 
