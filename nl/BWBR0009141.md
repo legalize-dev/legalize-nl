@@ -4,7 +4,7 @@ identifier: "BWBR0009141"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-08-01"
-last_updated: "1998-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009141"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten waarin partijen
 
 - b. niet langer duurt dan acht weken en
 
-- c. betrekking heeft op niet meer dan vijf procent van het assortiment van roerende zaken dat de onderneming of de ondernemersvereniging die de in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=1&z=1998-01-01&g=1998-01-01), bedoelde verplichtingen op zich heeft genomen, aanbiedt aan de detailhandelsonderneming.
+- c. betrekking heeft op niet meer dan vijf procent van het assortiment van roerende zaken dat de onderneming of de ondernemersvereniging die de in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=1&z=2005-07-01&g=2005-07-01), bedoelde verplichtingen op zich heeft genomen, aanbiedt aan de detailhandelsonderneming.
 
 ##### Artikel 3
 
@@ -88,13 +88,13 @@ Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten in het kader va
 
 ##### Artikel 4
 
-De directeur-generaal kan verklaren dat op een overeenkomst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3)[artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) van toepassing is, indien in het voorafgaande boekjaar meer dan zestig procent van de totale omzet van die detailhandelsonderneming werd behaald met roerende zaken die de detailhandelsonderneming op grond van die overeenkomst verplicht is af te nemen.
+De raad van bestuur van de mededingingsautoriteit kan verklaren dat op een overeenkomst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3)[artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) van toepassing is, indien in het voorafgaande boekjaar meer dan zestig procent van de totale omzet van die detailhandelsonderneming werd behaald met roerende zaken die de detailhandelsonderneming op grond van die overeenkomst verplicht is af te nemen.
 
 ##### Artikel 5
 
-1. Ten aanzien van een voor 1 juni 1997 gesloten overeenkomst, die op dat tijdstip een verplichting als bedoeld in [artikel 3, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=1998-01-01&g=1998-01-01), bevatte, met een duur van meer dan tien jaar, geldt [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=1998-01-01&g=1998-01-01), niet, mits de op dat tijdstip resterende duur van de verplichting niet meer bedroeg dan tien jaar en zeven maanden.
+1. Ten aanzien van een voor 1 juni 1997 gesloten overeenkomst, die op dat tijdstip een verplichting als bedoeld in [artikel 3, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=2005-07-01&g=2005-07-01), bevatte, met een duur van meer dan tien jaar, geldt [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=2005-07-01&g=2005-07-01), niet, mits de op dat tijdstip resterende duur van de verplichting niet meer bedroeg dan tien jaar en zeven maanden.
 
-2. Tot twee jaar na de inwerkingtreding van dit besluit geldt voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=1998-01-01&g=1998-01-01) de in onderdeel c van dat artikel gestelde voorwaarde niet voor overeenkomsten, gesloten voor 1 juni 1997.
+2. Tot twee jaar na de inwerkingtreding van dit besluit geldt voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=3&z=2005-07-01&g=2005-07-01) de in onderdeel c van dat artikel gestelde voorwaarde niet voor overeenkomsten, gesloten voor 1 juni 1997.
 
 ##### Artikel 6
 
