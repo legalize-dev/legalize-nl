@@ -4,7 +4,7 @@ identifier: "BWBR0016209"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2004-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016209"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belast
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
@@ -61,14 +61,14 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-1. Deze wet treedt, met uitzondering van de [artikelen II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2004-01-01&g=2004-01-01), in werking op 1 januari 2004.
+1. Deze wet treedt, met uitzondering van de [artikelen II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2005-07-01&g=2005-07-01), in werking op 1 januari 2004.
 
-2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2004-01-01&g=2004-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=III&z=2004-01-01&g=2004-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip doch niet eerder dan 1 januari 2005 en vindt voor het eerst toepassing op rentebetalingen op of na dit tijdstip.
+2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2005-07-01&g=2005-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=III&z=2005-07-01&g=2005-07-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip doch niet eerder dan 1 januari 2005 en vindt voor het eerst toepassing op rentebetalingen op of na dit tijdstip.
 
-3. [Artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2004-01-01&g=2004-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip doch niet eerder dan 1 januari 2011.
+3. [Artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2005-07-01&g=2005-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip doch niet eerder dan 1 januari 2011.
 
-4. [Artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2004-01-01&g=2004-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+4. [Artikel IV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2005-07-01&g=2005-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-5. [Artikel IV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2004-01-01&g=2004-01-01), treedt in werking 24 maanden na de inwerkingtreding van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2004-01-01&g=2004-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=III&z=2004-01-01&g=2004-01-01).
+5. [Artikel IV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=IV&z=2005-07-01&g=2005-07-01), treedt in werking 24 maanden na de inwerkingtreding van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=II&z=2005-07-01&g=2005-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0016209&artikel=III&z=2005-07-01&g=2005-07-01).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
