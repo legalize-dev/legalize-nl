@@ -4,7 +4,7 @@ identifier: "BWBR0017841"
 country: "nl"
 rank: "wet"
 publication_date: "2005-07-01"
-last_updated: "2005-03-29"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017841"
 soort: "wet"
@@ -42,6 +42,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in enkele socialever
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
 ##### Artikel I. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
@@ -78,7 +80,7 @@ Wijzigt de Beroepswet.
 
 In afwijking van [artikel 28a van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=28a)
 
-- 1. is de [bijlage bij de Beroepswet](onbekend), zoals deze komt te luiden op grond van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=VIII&z=2005-03-29&g=2005-03-29), van toepassing ten aanzien van de mogelijkheid om hoger beroep in te stellen tegen een uitspraak inzake een besluit als bedoeld in [nr. 33a van die bijlage](onbekend); en
+- 1. is de [bijlage bij de Beroepswet](onbekend), zoals deze komt te luiden op grond van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017841&artikel=VIII&z=2005-07-01&g=2005-07-01), van toepassing ten aanzien van de mogelijkheid om hoger beroep in te stellen tegen een uitspraak inzake een besluit als bedoeld in [nr. 33a van die bijlage](onbekend); en
 
 - 2. gaan de bij de Centrale Raad van Beroep aanhangige zaken inzake besluiten als bedoeld in [nr. 33a van de bijlage bij de Beroepswet](onbekend) van rechtswege over naar de Afdeling bestuursrechtspraak van de Raad van State, met uitzondering van de zaken waarin de uitnodiging of oproeping voor de zitting heeft plaatsgevonden dan wel partijen toestemming hebben gegeven het onderzoek ter zitting achterwege te laten.
 
