@@ -4,7 +4,7 @@ identifier: "BWBR0003449"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-03-08"
-last_updated: "1981-11-07"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003449"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=1981-11-07&g=1981-11-07), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van de gemeenteraad opgenomen.
+Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2005-07-01&g=2005-07-01), tot eenzelfde gemeente behoren, worden zij te zamen in één besluit van de gemeenteraad opgenomen.
 
 ##### Artikel 3
 
@@ -76,15 +76,13 @@ Indien verschillende verspreid liggende gebieden als bedoeld in [artikel 1, eers
 
 - a. 1 op 25.000, indien de uitgestrektheid van de gemeente daartoe aanleiding geeft;
 
-- b. 1 op 5.000, indien de bijzondere kadastrale situatie van het gebied als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=1981-11-07&g=1981-11-07), dit noodzakelijk maakt.
+- b. 1 op 5.000, indien de bijzondere kadastrale situatie van het gebied als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003449&artikel=1&z=2005-07-01&g=2005-07-01), dit noodzakelijk maakt.
 
 3. Onze Minister kan met betrekking tot de technische uitvoering van de kaarten nadere voorschriften geven.
 
 ##### Artikel 4
 
-1. Burgemeester en wethouders maken Onze goedkeuring van het besluit bekend in de **Nederlandse Staatscourant**, in een of meer in de gemeente verspreide dag- of nieuwsbladen en voorts op de aldaar gebruikelijke wijze.
-
-2. Het door Ons goedgekeurde besluit van de gemeenteraad wordt, hetzij in druk, hetzij in afschrift, tegen betaling van de kosten algemeen verkrijgbaar gesteld.
+Vervallen
 
 ##### Artikel 5
 
