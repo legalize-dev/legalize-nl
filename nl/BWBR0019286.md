@@ -4,7 +4,7 @@ identifier: "BWBR0019286"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2004-09-26"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019286"
 soort: "wet"
@@ -120,7 +120,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XIX
 
