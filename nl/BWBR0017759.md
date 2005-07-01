@@ -4,7 +4,7 @@ identifier: "BWBR0017759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2004-12-31"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017759"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling berust op [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=7a), en [artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8a).
+Deze regeling berust op [artikel 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4a), [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=7a), en [artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8a).
 
 ### Hoofdstuk 1. Definitiebepaling
 
@@ -85,5 +85,33 @@ Deze regeling treedt in werking op 31 december 2004.
 Deze regeling wordt aangehaald als: Uitvoeringsregeling internationale
 
 bijstandsverlening bij de heffing van belastingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=2) worden met een lidstaat gelijkgesteld:
+
+- a. Aruba;
+
+- b. de Britse Maagdeneilanden;
+
+- c. het Eiland Man;
+
+- d. Guernsey;
+
+- e. Jersey;
+
+- f. Montserrat;
+
+- g. de Nederlandse Antillen.
+
+### Hoofdstuk 2. Bijstand bij heffing
+
+#### Paragraaf 1. Notificatie van stukken
+
+#### Paragraaf 2. Gelijktijdig onderzoek
+
+### Hoofdstuk 3. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
