@@ -4,7 +4,7 @@ identifier: "BWBR0006324"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006324"
 soort: "wet"
@@ -159,7 +159,7 @@ De belasting voor een personenauto, een bestelauto, een motorrijwiel en een vrac
 
 ##### Artikel 7
 
-1. Een motorrijtuig - welk begrip in [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&z=2005-01-01&g=2005-01-01) uitsluitend omvat een motorrijtuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=6&z=2005-01-01&g=2005-01-01) - wordt gehouden door degene:
+1. Een motorrijtuig - welk begrip in [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&z=2005-07-01&g=2005-07-01) uitsluitend omvat een motorrijtuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=6&z=2005-07-01&g=2005-07-01) - wordt gehouden door degene:
 
 - a. op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld in het kentekenregister als bedoeld in [artikel 1, eerste lid, onderdeel **i**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
@@ -203,7 +203,7 @@ Voor een motorrijtuig waarvoor geen kenteken is opgegeven vangt het tijdvak aan 
 
 1. Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk ter beschikking staat vangt het tijdvak aan met ingang van de dag van het gebruik van de weg in Nederland.
 
-2. In afwijking van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=10&z=2005-01-01&g=2005-01-01) kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.
+2. In afwijking van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=10&z=2005-07-01&g=2005-07-01) kan de belasting voor een in het eerste lid bedoeld motorrijtuig van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd ook worden betaald over een tijdvak van 1, 3 of 15 dagen.
 
 ##### Artikel 14
 
@@ -267,11 +267,11 @@ De belasting voor een motorrijtuig waarvoor een kenteken is opgegeven kan in é�
 
 2. Teruggaaf van belasting wordt mede verleend over het bij de aanvang van de schorsing nog niet verstreken gedeelte van het lopende tijdvak.
 
-3. [artikel18, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=4&artikel=18&z=2005-01-01&g=2005-01-01) “artikel” moet zijn “Artikel”., is van overeenkomstige toepassing.
+3. [artikel18, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=4&artikel=18&z=2005-07-01&g=2005-07-01) “artikel” moet zijn “Artikel”., is van overeenkomstige toepassing.
 
 ##### Artikel 21
 
-Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting moet worden betaald het tijdvak dat aanvangt met ingang van de dag waarop de schorsing is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die schorsing moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=11&z=2005-01-01&g=2005-01-01).
+Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting moet worden betaald het tijdvak dat aanvangt met ingang van de dag waarop de schorsing is opgeheven en dat eindigt met de dag voorafgaande aan de eerste dag van het tijdvak met ingang waarvan de belasting voor het eerst na beëindiging van die schorsing moet worden betaald op de voet van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=11&z=2005-07-01&g=2005-07-01).
 
 ### Afdeling 6. Tarief
 
@@ -332,15 +332,7 @@ Bij beëindiging van een schorsing geldt als kort tijdvak waarover de belasting 
 
 ##### Artikel 24
 
-Voor een bestelauto bedraagt de belasting:
-
-| bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
-| --- | --- | --- | --- |
-| 500 of minder | € 27,67 |   |   |
-| 600 tot en met 1000 | € 33,84 | € 4,33 | 600 kg |
-| 1100 tot en met 2000 | € 55,59 | € 4,65 | 1 100 kg |
-| 2100 tot en met 2700 | € 102,49 | € 5,01 | 2 100 kg |
-| 2800 en meer | € 135,67 | € 1,16 | 2 800 kg |
+Op de belasting die wordt geheven voor een bestelauto is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 25
 
@@ -376,7 +368,7 @@ waarbij voor de luchtvering geldt dat deze zich bevindt op de aangedreven assen 
 
 ##### Artikel 25b
 
-Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-01-01&g=2005-01-01), over een tijdvak van drie maanden € 46,06, vermeerderd met € 4,61 per 1000 kg toegestane maximum massa boven 11 000 kg.
+Voor een motorrijtuig dat wordt gebruikt in de uitoefening van de detailhandel en dat is voorzien van een voor het publiek toegankelijke besloten ruimte die blijvend is ingericht als winkel en uitsluitend als zodanig wordt gebruikt, bedraagt de belasting, in afwijking van het in deze afdeling bepaalde en onder bij algemene maatregel van bestuur te stellen voorwaarden, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-07-01&g=2005-07-01), over een tijdvak van drie maanden € 46,06, vermeerderd met € 4,61 per 1000 kg toegestane maximum massa boven 11 000 kg.
 
 ##### Artikel 26
 
@@ -400,7 +392,7 @@ De belasting die in één keer over vier aaneensluitende tijdvakken wordt betaal
 
 ##### Artikel 29
 
-Voor een motorrijwiel waarvoor een kenteken is opgegeven bedraagt de belasting die in één keer over vier aaneensluitende tijdvakken wordt betaald, een bedrag gelijk aan twee maal de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-01-01&g=2005-01-01) verschuldigde belasting over een tijdvak van drie maanden.
+Voor een motorrijwiel waarvoor een kenteken is opgegeven bedraagt de belasting die in één keer over vier aaneensluitende tijdvakken wordt betaald, een bedrag gelijk aan twee maal de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-07-01&g=2005-07-01) verschuldigde belasting over een tijdvak van drie maanden.
 
 ##### Artikel 30
 
@@ -422,9 +414,9 @@ Voor een motorrijwiel waarvoor een kenteken is opgegeven bedraagt de belasting d
 
 - h. is ingericht voor het vervoer van paarden ten behoeve van de paardensport en uitsluitend niet-beroepsmatig wordt gebruikt,
 
-bedraagt de belasting die in één keer over vier aaneensluitende tijdvakken wordt betaald een bedrag gelijk aan de ingevolge de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-01-01&g=2005-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24&z=2005-01-01&g=2005-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24a&z=2005-01-01&g=2005-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-01-01&g=2005-01-01) of [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25a&z=2005-01-01&g=2005-01-01) verschuldigde belasting over een tijdvak van drie maanden.[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=28&z=2005-01-01&g=2005-01-01) is niet van toepassing.
+bedraagt de belasting die in één keer over vier aaneensluitende tijdvakken wordt betaald een bedrag gelijk aan de ingevolge de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-07-01&g=2005-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24&z=2005-07-01&g=2005-07-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24a&z=2005-07-01&g=2005-07-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24b&z=2005-07-01&g=2005-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-07-01&g=2005-07-01) of [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25a&z=2005-07-01&g=2005-07-01) verschuldigde belasting over een tijdvak van drie maanden.[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=28&z=2005-07-01&g=2005-07-01) is niet van toepassing.
 
-2. Indien een kampeerauto, bedrijfsmatig wordt verhuurd, bedraagt de belasting in afwijking in zoverre van het eerste lid twee maal de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-01-01&g=2005-01-01) verschuldigde belasting over een tijdvak van drie maanden. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=28&z=2005-01-01&g=2005-01-01) is niet van toepassing.
+2. Indien een kampeerauto, bedrijfsmatig wordt verhuurd, bedraagt de belasting in afwijking in zoverre van het eerste lid twee maal de ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-07-01&g=2005-07-01) verschuldigde belasting over een tijdvak van drie maanden. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=28&z=2005-07-01&g=2005-07-01) is niet van toepassing.
 
 3. Het eerste lid, onderdelen **c** en **f**, is niet van toepassing op een vrachtauto waarvan de toegestane maximum massa hoger is dan 11 000 kg, tenzij wordt voldaan aan met betrekking tot de vrachtauto bij algemene maatregel van bestuur te stellen voorwaarden.
 
@@ -450,7 +442,7 @@ Vervallen
 
 - a. het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet op naam heeft gestaan van degene die het motorrijtuig houdt;
 
-- b. voor het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken een schorsing als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=19&z=2005-01-01&g=2005-01-01) van toepassing is geweest; of
+- b. voor het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken een schorsing als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=19&z=2005-07-01&g=2005-07-01) van toepassing is geweest; of
 
 - c. de verandering aan het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet was aangebracht, wordt over dat gedeelte de belasting niet nageheven.
 
@@ -466,7 +458,7 @@ Vervallen
 
 4. Indien blijkt dat een verandering aan het motorrijtuig waardoor een hoger bedrag aan belasting verschuldigd is dan vóór die verandering, niet was aangebracht over een gedeelte van de tijdsduur van twaalf maanden wordt over dat gedeelte de ter zake van die verandering meer verschuldigde belasting niet nageheven.
 
-5. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-01-01&g=2005-01-01), is van toepassing.
+5. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-07-01&g=2005-07-01), is van toepassing.
 
 6. De na te heffen belasting wordt verminderd met de belasting die over de periode waarop de naheffingsaanslag betrekking heeft voor het motorrijtuig is betaald en voorzover voor de belasting over die periode geen aanspraak op teruggaaf van belasting bestaat.
 
@@ -478,7 +470,7 @@ Vervallen
 
 3. Indien blijkt dat het motorrijtuig over een gedeelte van de tijdsduur van de vier tijdvakken niet op naam heeft gestaan van degene die het motorrijtuig houdt, wordt over dat gedeelte de belasting niet nageheven.
 
-4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-01-01&g=2005-01-01), is van toepassing.
+4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-07-01&g=2005-07-01), is van toepassing.
 
 5. De na te heffen belasting wordt verminderd met de belasting die over de periode waarop de naheffingsaanslag betrekking heeft voor het motorrijtuig is betaald en voorzover voor de belasting over die periode geen aanspraak op teruggaaf van belasting bestaat.
 
@@ -488,23 +480,23 @@ Vervallen
 
 Indien
 
-- a. de voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=IV) eindigt, anders dan bedoeld in [artikel 68, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=5&artikel=68&z=2005-01-01&g=2005-01-01), van die wet,
+- a. de voor een motorrijtuig geldende schorsing als bedoeld in [Hoofdstuk IV, paragraaf 6, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=IV) eindigt, anders dan bedoeld in [artikel 68, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=5&artikel=68&z=2005-07-01&g=2005-07-01), van die wet,
 
 - 1°. met betrekking tot een personenauto, een bestelauto of een motorrijwiel binnen drie maanden; en
 
 - 2°. met betrekking tot een vrachtauto binnen een maand; dan wel
 
-- b. niet is voldaan aan de voorwaarden en beperkingen die krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=19&z=2005-01-01&g=2005-01-01), bij algemene maatregel van bestuur zijn gesteld,
+- b. niet is voldaan aan de voorwaarden en beperkingen die krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=19&z=2005-07-01&g=2005-07-01), bij algemene maatregel van bestuur zijn gesteld,
 
-wordt de belasting waarvan krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=20&z=2005-01-01&g=2005-01-01), teruggaaf is verleend alsmede de te weinig geheven belasting nageheven.
+wordt de belasting waarvan krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=5&artikel=20&z=2005-07-01&g=2005-07-01), teruggaaf is verleend alsmede de te weinig geheven belasting nageheven.
 
 ##### Artikel 36
 
-Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting over vier aaneensluitende tijdvakken is betaald op de voet van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-01-01&g=2005-01-01) niet wordt voldaan aan de krachtens dat artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dat artikel meer verschuldigd zou zijn geweest over die vier tijdvakken worden nageheven.
+Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting over vier aaneensluitende tijdvakken is betaald op de voet van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-07-01&g=2005-07-01) niet wordt voldaan aan de krachtens dat artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dat artikel meer verschuldigd zou zijn geweest over die vier tijdvakken worden nageheven.
 
 ##### Artikel 37
 
-In de gevallen, bedoeld in [de artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-01-01&g=2005-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=34&z=2005-01-01&g=2005-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=35&z=2005-01-01&g=2005-01-01), 35a, onder b, en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-01-01&g=2005-01-01), is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
+In de gevallen, bedoeld in [de artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-07-01&g=2005-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=34&z=2005-07-01&g=2005-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=35&z=2005-07-01&g=2005-07-01), 35a, onder b, en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-07-01&g=2005-07-01), is [artikel 67c van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) van overeenkomstige toepassing.
 
 ### HOOFDSTUK IIA. TERUGGAAF BEDRIJFSVOERTUIGENPARK
 
@@ -558,7 +550,7 @@ In de gevallen, bedoeld in [de artikelen 33](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 37c
 
-1. De teruggaaf bedraagt over het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-01-01&g=2005-01-01), bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan € 232,59 bepaalt de inspecteur dat tarief op € 232,59 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.
+1. De teruggaaf bedraagt over het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-07-01&g=2005-07-01), bedoelde jaar het verschil tussen de betaalde belasting voor de vrachtauto's die in dat jaar of gedeelten daarvan deel hebben uitgemaakt van het bedrijfsvoertuigenpark en de som van de tarieven die per jaar of gedeelten daarvan voor die vrachtauto's ingevolge de richtlijn minimaal zouden moeten worden betaald, met dien verstande dat per vrachtauto het hoogste tarief wordt genomen van de tarieven die zouden gelden in combinatie met elk van de in het bedrijfsvoertuigenpark opgenomen aanhangwagens. Indien het hoogste tarief per jaar volgens de richtlijn lager zou zijn dan € 232,59 bepaalt de inspecteur dat tarief op € 232,59 of op het evenredig deel daarvan dat overeenstemt met het deel van het jaar waarover de belasting is geheven.
 
 2. De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare beschikking.
 
@@ -568,9 +560,9 @@ In de gevallen, bedoeld in [de artikelen 33](https://wetten.overheid.nl/jci1.3:c
 
 Bij constatering van gebruik van de weg met een vrachtauto die deel uitmaakt van een bedrijfsvoertuigenpark en die is verbonden met een aanhangwagen die geen deel uitmaakt van het bedrijfsvoertuigenpark:
 
-- a. is [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=3&artikel=37c&z=2005-01-01&g=2005-01-01) met betrekking tot de vrachtauto gedurende het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-01-01&g=2005-01-01), bedoelde jaar niet van toepassing; en
+- a. is [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=3&artikel=37c&z=2005-07-01&g=2005-07-01) met betrekking tot de vrachtauto gedurende het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-07-01&g=2005-07-01), bedoelde jaar niet van toepassing; en
 
-- b. kan de inspecteur bij voor bezwaar vatbare beschikking een boete opleggen van ten hoogste € 453. De boete wordt geheven en ingevorderd als ware zij belasting. De bevoegdheid tot het opleggen van de boete vervalt door verloop van vijf jaren na afloop van het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-01-01&g=2005-01-01), bedoelde jaar.
+- b. kan de inspecteur bij voor bezwaar vatbare beschikking een boete opleggen van ten hoogste € 453. De boete wordt geheven en ingevorderd als ware zij belasting. De bevoegdheid tot het opleggen van de boete vervalt door verloop van vijf jaren na afloop van het in [artikel 37b, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=2&artikel=37b&z=2005-07-01&g=2005-07-01), bedoelde jaar.
 
 ### Afdeling 4. Boetebepaling
 
@@ -592,7 +584,7 @@ De belasting voor een autobus wordt geheven van degene die het motorrijtuig houd
 
 ##### Artikel 39
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=7&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=8&z=2005-01-01&g=2005-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=9&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=7&z=2005-07-01&g=2005-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=8&z=2005-07-01&g=2005-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=1&artikel=9&z=2005-07-01&g=2005-07-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 2. Wijze van heffing
 
@@ -642,7 +634,7 @@ Vervallen
 
 ##### Artikel 47
 
-1. Voor een autobus bedraagt de belasting, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-01-01&g=2005-01-01):
+1. Voor een autobus bedraagt de belasting, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-07-01&g=2005-07-01):
 
 | bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
 | --- | --- | --- | --- |
@@ -654,7 +646,7 @@ Vervallen
 
 ##### Artikel 48
 
-Voor een in het buitenland geregistreerde autobus van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd dat in Nederland feitelijk ter beschikking staat is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=26&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+Voor een in het buitenland geregistreerde autobus van een houder die niet in Nederland zijn hoofdverblijf heeft of is gevestigd dat in Nederland feitelijk ter beschikking staat is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=26&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 49
 
@@ -662,7 +654,7 @@ De belasting over een tijdvak van twaalf maanden bedraagt het viervoud van die o
 
 ##### Artikel 50
 
-1. Voor een autobus die in de uitoefening van een bedrijf, niet zijnde een lease- of verhuurbedrijf van motorrijtuigen, wordt gebruikt als reserve-motorrijtuig, bedraagt de belasting die over een tijdvak van twaalf maanden wordt betaald een bedrag gelijk aan de ingevolge [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=47&z=2005-01-01&g=2005-01-01) verschuldigde belasting over een tijdvak van drie maanden. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=49&z=2005-01-01&g=2005-01-01) is niet van toepassing.
+1. Voor een autobus die in de uitoefening van een bedrijf, niet zijnde een lease- of verhuurbedrijf van motorrijtuigen, wordt gebruikt als reserve-motorrijtuig, bedraagt de belasting die over een tijdvak van twaalf maanden wordt betaald een bedrag gelijk aan de ingevolge [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=47&z=2005-07-01&g=2005-07-01) verschuldigde belasting over een tijdvak van drie maanden. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=49&z=2005-07-01&g=2005-07-01) is niet van toepassing.
 
 2. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld met betrekking tot het gebruik van de weg en de bestemming van de autobus.
 
@@ -692,11 +684,11 @@ Vervallen
 
 ##### Artikel 53
 
-Met betrekking tot een autobus waarvoor de belasting over een tijdvak van twaalf maanden is betaald op de voet van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-01-01&g=2005-01-01) is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+Met betrekking tot een autobus waarvoor de belasting over een tijdvak van twaalf maanden is betaald op de voet van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-07-01&g=2005-07-01) is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 54
 
-In de gevallen, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=52&z=2005-01-01&g=2005-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=53&z=2005-01-01&g=2005-01-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+In de gevallen, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=52&z=2005-07-01&g=2005-07-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=53&z=2005-07-01&g=2005-07-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Personenauto's, bestelauto’s en autobussen, verbonden met een aanhangwagen
 
@@ -708,11 +700,11 @@ In de gevallen, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 56
 
-1. De vermeerdering van de belasting bedraagt, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-01-01&g=2005-01-01), over een tijdvak van drie maanden € 5,63, vermeerderd met € 1,18 per 100 kg eigen massa van de aanhangwagen boven 500 kg.
+1. De vermeerdering van de belasting bedraagt, met overeenkomstige toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=22&z=2005-07-01&g=2005-07-01), over een tijdvak van drie maanden € 5,63, vermeerderd met € 1,18 per 100 kg eigen massa van de aanhangwagen boven 500 kg.
 
-2. Indien met betrekking tot het motorrijtuig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=26&z=2005-01-01&g=2005-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-01-01&g=2005-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=48&z=2005-01-01&g=2005-01-01) of [50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-01-01&g=2005-01-01) toepassing vindt, geldt dit mede voor de vermeerdering van de belasting.
+2. Indien met betrekking tot het motorrijtuig het bepaalde in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=26&z=2005-07-01&g=2005-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-07-01&g=2005-07-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=48&z=2005-07-01&g=2005-07-01) of [50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-07-01&g=2005-07-01) toepassing vindt, geldt dit mede voor de vermeerdering van de belasting.
 
-3. Met betrekking tot de vermeerdering van de belasting zijn de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-01-01&g=2005-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing ingeval die artikelen geen toepassing vinden voor het motorrijtuig zelf.
+3. Met betrekking tot de vermeerdering van de belasting zijn de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=30&z=2005-07-01&g=2005-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=50&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing ingeval die artikelen geen toepassing vinden voor het motorrijtuig zelf.
 
 ##### Artikel 57
 
@@ -720,19 +712,19 @@ De vermeerdering van de belasting met betrekking tot een personenauto of een bes
 
 ##### Artikel 58
 
-De vermeerdering van de belasting met betrekking tot een autobus kan worden voldaan op de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=41&z=2005-01-01&g=2005-01-01), bedoelde aangifte dan wel op afzonderlijke aangifte.
+De vermeerdering van de belasting met betrekking tot een autobus kan worden voldaan op de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=41&z=2005-07-01&g=2005-07-01), bedoelde aangifte dan wel op afzonderlijke aangifte.
 
 ##### Artikel 59
 
-Met betrekking tot de vermeerdering van de belasting die wordt voldaan op afzonderlijke aangifte zijn de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=32&z=2005-01-01&g=2005-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=40&z=2005-01-01&g=2005-01-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=41&z=2005-01-01&g=2005-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=43&z=2005-01-01&g=2005-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=44&z=2005-01-01&g=2005-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=45&z=2005-01-01&g=2005-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=51&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+Met betrekking tot de vermeerdering van de belasting die wordt voldaan op afzonderlijke aangifte zijn de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=32&z=2005-07-01&g=2005-07-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=40&z=2005-07-01&g=2005-07-01), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=2&artikel=41&z=2005-07-01&g=2005-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=43&z=2005-07-01&g=2005-07-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=44&z=2005-07-01&g=2005-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=3&artikel=45&z=2005-07-01&g=2005-07-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=51&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 60
 
-Met betrekking tot de naheffing van de vermeerdering van de belasting die wordt voldaan op afzonderlijke aangifte zijn de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-01-01&g=2005-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=52&z=2005-01-01&g=2005-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=53&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing, met dien verstande dat de naheffingsaanslag wordt opgelegd aan degene die de aanhangwagen houdt ingeval degene die het motorrijtuig houdt niet bekend is.
+Met betrekking tot de naheffing van de vermeerdering van de belasting die wordt voldaan op afzonderlijke aangifte zijn de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=36&z=2005-07-01&g=2005-07-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=52&z=2005-07-01&g=2005-07-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=5&artikel=53&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing, met dien verstande dat de naheffingsaanslag wordt opgelegd aan degene die de aanhangwagen houdt ingeval degene die het motorrijtuig houdt niet bekend is.
 
 ##### Artikel 61
 
-In het geval, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&artikel=60&z=2005-01-01&g=2005-01-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+In het geval, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&artikel=60&z=2005-07-01&g=2005-07-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk V. Motorrijtuigen in een bedrijfsvoorraad of bij een herstelbedrijf
 
@@ -748,41 +740,41 @@ De belasting voor een kenteken als bedoeld in [artikel 37, derde lid, van de Weg
 
 1. Het tijdvak waarover de belasting moet worden betaald is drie maanden.
 
-2. Het tijdvak vangt aan met ingang van de dag van dagtekening van de tenaamstelling van het kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-01-01&g=2005-01-01) en telkenmale drie maanden later.
+2. Het tijdvak vangt aan met ingang van de dag van dagtekening van de tenaamstelling van het kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-07-01&g=2005-07-01) en telkenmale drie maanden later.
 
 ##### Artikel 64
 
-De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=14&z=2005-01-01&g=2005-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=15&z=2005-01-01&g=2005-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=16&z=2005-01-01&g=2005-01-01) zijn van overeenkomstige toepassing.
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=14&z=2005-07-01&g=2005-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=15&z=2005-07-01&g=2005-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=2&artikel=16&z=2005-07-01&g=2005-07-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 3. Aangifte
 
 ##### Artikel 65
 
-De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-01-01&g=2005-01-01) wordt aangemerkt als het doen van aangifte. De aangifte geldt voor de tijdvakken dat het bijzondere kenteken te naam is gesteld in het kentekenregister als bedoeld in [artikel 1, eerste lid, onderdeel **i**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
+De aanvraag om afgifte van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-07-01&g=2005-07-01) wordt aangemerkt als het doen van aangifte. De aangifte geldt voor de tijdvakken dat het bijzondere kenteken te naam is gesteld in het kentekenregister als bedoeld in [artikel 1, eerste lid, onderdeel **i**, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1).
 
 ### Afdeling 3. Aangifte
 
 ##### Artikel 66
 
-1. Teruggaaf van belasting wordt verleend over de tijdvakken die nog niet zijn aangevangen op het tijdstip waarop de tenaamstelling van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-01-01&g=2005-01-01) vervalt, alsmede over het lopende tijdvak, voorzover dit op dat tijdstip niet is verstreken.
+1. Teruggaaf van belasting wordt verleend over de tijdvakken die nog niet zijn aangevangen op het tijdstip waarop de tenaamstelling van een kentekenbewijs behorende bij een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-07-01&g=2005-07-01) vervalt, alsmede over het lopende tijdvak, voorzover dit op dat tijdstip niet is verstreken.
 
-2. [artikel 18, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=4&artikel=18&z=2005-01-01&g=2005-01-01) “artikel” moet zijn “Artikel”., is van overeenkomstige toepassing.
+2. [artikel 18, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=4&artikel=18&z=2005-07-01&g=2005-07-01) “artikel” moet zijn “Artikel”., is van overeenkomstige toepassing.
 
 ### Afdeling 4. Teruggaaf
 
 ##### Artikel 67
 
-Voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-01-01&g=2005-01-01) bedraagt de belasting over een tijdvak van drie maanden het bedrag, opgenomen in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-01-01&g=2005-01-01), voor een personenauto met een eigen massa van 1000 kg.
+Voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-07-01&g=2005-07-01) bedraagt de belasting over een tijdvak van drie maanden het bedrag, opgenomen in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-07-01&g=2005-07-01), voor een personenauto met een eigen massa van 1000 kg.
 
 ##### Artikel 68
 
-De belasting die voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-01-01&g=2005-01-01) in één keer over vier aaneensluitende tijdvakken wordt betaald, wordt per tijdvak van drie maanden verminderd met € 3.
+De belasting die voor een kenteken als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=1&artikel=62&z=2005-07-01&g=2005-07-01) in één keer over vier aaneensluitende tijdvakken wordt betaald, wordt per tijdvak van drie maanden verminderd met € 3.
 
 ### Afdeling 6. Naheffing
 
 ##### Artikel 69
 
-1. Bij constatering van gebruik van de weg met een motorrijtuig uit een bedrijfsvoorraad of met een motorrijtuig dat voor het verrichten van werkzaamheden daaraan bij een herstelbedrijf is zonder dat is voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2005-01-01&g=2005-01-01), gestelde voorwaarden, kan de belasting worden nageheven.
+1. Bij constatering van gebruik van de weg met een motorrijtuig uit een bedrijfsvoorraad of met een motorrijtuig dat voor het verrichten van werkzaamheden daaraan bij een herstelbedrijf is zonder dat is voldaan aan de krachtens [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=1&artikel=1&z=2005-07-01&g=2005-07-01), gestelde voorwaarden, kan de belasting worden nageheven.
 
 2. De na te heffen belasting wordt berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag waarop het gebruik van de weg wordt geconstateerd.
 
@@ -790,7 +782,7 @@ De belasting die voor een kenteken als bedoeld in [artikel 62](https://wetten.ov
 
 ##### Artikel 70
 
-In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=6&artikel=69&z=2005-01-01&g=2005-01-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+In het geval, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=V&afdeling=6&artikel=69&z=2005-07-01&g=2005-07-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Vrijstellingen
 
@@ -866,9 +858,9 @@ Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te st
 
 ##### Artikel 75
 
-1. Indien met betrekking tot het motorrijtuig het bepaalde in de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=71&z=2005-01-01&g=2005-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=72&z=2005-01-01&g=2005-01-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=73&z=2005-01-01&g=2005-01-01) toepassing vindt, geldt dit mede voor de vermeerdering van de belasting voor het motorrijtuig ter zake van het verbonden zijn met een aanhangwagen.
+1. Indien met betrekking tot het motorrijtuig het bepaalde in de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=71&z=2005-07-01&g=2005-07-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=72&z=2005-07-01&g=2005-07-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=73&z=2005-07-01&g=2005-07-01) toepassing vindt, geldt dit mede voor de vermeerdering van de belasting voor het motorrijtuig ter zake van het verbonden zijn met een aanhangwagen.
 
-2. Met betrekking tot de vermeerdering van de belasting van een motorrijtuig ter zake van het verbonden zijn met een aanhangwagen is [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=72&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing ingeval dat artikel geen toepassing vindt voor het motorrijtuig zelf.
+2. Met betrekking tot de vermeerdering van de belasting van een motorrijtuig ter zake van het verbonden zijn met een aanhangwagen is [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=72&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing ingeval dat artikel geen toepassing vindt voor het motorrijtuig zelf.
 
 ##### Artikel 76
 
@@ -884,7 +876,7 @@ Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te st
 
 ##### Artikel 77
 
-In het geval, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=76&z=2005-01-01&g=2005-01-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-01-01&g=2005-01-01) van overeenkomstige toepassing.
+In het geval, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VI&artikel=76&z=2005-07-01&g=2005-07-01), is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=37&z=2005-07-01&g=2005-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk VII. Controle
 
@@ -894,7 +886,7 @@ Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporings
 
 ##### Artikel 79
 
-1. De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&artikel=78&z=2005-01-01&g=2005-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+1. De in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=VII&artikel=78&z=2005-07-01&g=2005-07-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing met betrekking tot een met een motorrijtuig verbonden aanhangwagen.
 
@@ -934,7 +926,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 81a
 
-De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de artikelen [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-01-01&g=2005-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24&z=2005-01-01&g=2005-01-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24a&z=2005-01-01&g=2005-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-01-01&g=2005-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25a&z=2005-01-01&g=2005-01-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25b&z=2005-01-01&g=2005-01-01), [37c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=3&artikel=37c&z=2005-01-01&g=2005-01-01), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=47&z=2005-01-01&g=2005-01-01), en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&artikel=56&z=2005-01-01&g=2005-01-01), vermelde bedragen.
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de artikelen [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=23&z=2005-07-01&g=2005-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24&z=2005-07-01&g=2005-07-01), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24a&z=2005-07-01&g=2005-07-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24b&z=2005-07-01&g=2005-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25&z=2005-07-01&g=2005-07-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25a&z=2005-07-01&g=2005-07-01), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=25b&z=2005-07-01&g=2005-07-01), [37c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IIA&afdeling=3&artikel=37c&z=2005-07-01&g=2005-07-01), [47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=III&afdeling=4&artikel=47&z=2005-07-01&g=2005-07-01), en [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV&artikel=56&z=2005-07-01&g=2005-07-01), vermelde bedragen.
 
 ### Hoofdstuk IX. Slotbepalingen
 
@@ -952,13 +944,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 | 2100 tot en met 2700 | € 83,49 | € 5,01 | 2 100 kg |
 | 2800 en meer | € 116,67 | € 1,16 | 2 800 kg |
 
-2. Het eerste lid is eveneens van toepassing indien in verband met de handicap van de in het eerste lid bedoelde persoon, de laadruimte van de bestelauto, in afwijking van [artikel 3, eerste lid, onderdeel b, onder 2°, of onderdeel c, onder 2°, of onderdeel d, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=2&artikel=3&z=2005-01-01&g=2005-01-01), ten gevolge van aanpassing van de bestelauto niet langer van de bestuurderszitplaats onderscheidenlijk de cabine is afgescheiden.
+2. Het eerste lid is eveneens van toepassing indien in verband met de handicap van de in het eerste lid bedoelde persoon, de laadruimte van de bestelauto, in afwijking van [artikel 3, eerste lid, onderdeel b, onder 2°, of onderdeel c, onder 2°, of onderdeel d, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=I&afdeling=2&artikel=3&z=2005-07-01&g=2005-07-01), ten gevolge van aanpassing van de bestelauto niet langer van de bestuurderszitplaats onderscheidenlijk de cabine is afgescheiden.
 
 3. Indien de belasting voor een bestelauto wordt geheven van een ander dan de gehandicapte, is het eerste lid slechts van toepassing indien het verzoek als bedoeld in het eerste lid wordt gedaan door die ander en de gehandicapte gezamenlijk.
 
 4. Bij een verandering, anders dan aan de bestelauto, waardoor de belasting voor een bestelauto hoger of lager wordt, wordt een aanvullende aangifte gedaan. De constatering van het feit dat voor een bestelauto de aanvullende aangifte niet is gedaan, wordt gelijkgesteld met een dergelijke aangifte. De aanvullende aangifte geldt voor de tijdvakken die aanvangen na het lopende tijdvak.
 
-5. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-01-01&g=2005-01-01), is van overeenkomstige toepassing.
+5. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-07-01&g=2005-07-01), is van overeenkomstige toepassing.
 
 6. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -966,7 +958,25 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 24b
 
-Dit onderdeel is nog niet inwerking getreden
+1. In afwijking van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=6&artikel=24&z=2005-07-01&g=2005-07-01) bedraagt op verzoek de belasting die voor een bestelauto wordt geheven van een ondernemer als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een persoon die ingevolge [artikel 7, zesde lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7) met betrekking tot een bepaalde levering als ondernemer wordt aangemerkt, die de bestelauto meer dan bijkomstig bezigt in het kader van zijn onderneming:
+
+| bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven |
+| --- | --- | --- | --- |
+| 500 of minder | € 27,67 |   |   |
+| 600 tot en met 1000 | € 33,84 | € 4,33 | 600 kg |
+| 1100 tot en met 2000 | € 55,59 | € 4,65 | 1 100 kg |
+| 2100 tot en met 2700 | € 102,49 | € 5,01 | 2 100 kg |
+| 2800 en meer | € 135,67 | € 1,16 | 2 800 kg |
+
+2. In afwijking in zoverre van het eerste lid gelden de daarin opgenomen belastingbedragen voor een bestelauto die door een ondernemer als bedoeld in het eerste lid voor een langere dan bij ministeriële regeling vast te stellen periode ter beschikking wordt gesteld aan een derde, slechts indien deze derde overigens voldoet aan het gestelde in het eerste lid.
+
+3. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend.
+
+4. Bij een verandering, anders dan aan de bestelauto, waardoor de belasting voor een bestelauto hoger of lager wordt, wordt een aanvullende aangifte gedaan. De constatering van het feit dat voor een bestelauto de aanvullende aangifte niet is gedaan, wordt gelijkgesteld met een dergelijke aangifte. De aanvullende aangifte geldt voor de tijdvakken die aanvangen na het lopende tijdvak.
+
+5. Bij constatering van het feit dat voor een motorrijtuig geen aanvullende aangifte is gedaan in verband met een verandering, anders dan aan het motorrijtuig, waardoor de belasting hoger wordt, kan ter zake van die verandering te weinig geheven belasting worden nageheven. [Artikel 33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=II&afdeling=7&artikel=33&z=2005-07-01&g=2005-07-01), is van overeenkomstige toepassing.
+
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 ### Afdeling 7. Naheffing
 
