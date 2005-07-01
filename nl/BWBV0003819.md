@@ -4,7 +4,7 @@ identifier: "BWBV0003819"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-12-16"
-last_updated: "2005-04-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003819"
 soort: "verdrag"
@@ -2974,19 +2974,19 @@ Totdat de ondervoorzitter verantwoordelijk voor het beroep is aangewezen en totd
 
 (2). In de zin van dit Protocol worden met de rechterlijke instanties gelijkgesteld de autoriteiten die volgens het nationale recht van een Verdragsluitende Staat bevoegd zijn te beslissen over rechtsvorderingen als in het eerste lid bedoeld. De Verdragsluitende Staten delen het Europees Octrooibureau mede aan welke autoriteiten een dergelijke bevoegdheid is verleend; het Europees Octrooibureau doet hiervan mededeling aan de andere Verdragsluitende Staten.
 
-(3). In de zin van dit Protocol wordt onder de Verdragsluitende Staten verstaan de Staten die Partij zijn bij het Verdrag en die de toepassing van dit Protocol niet hebben uitgesloten op grond van [artikel 167 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=TWAALFDE&artikel=167&z=2005-04-01&g=2005-04-01).
+(3). In de zin van dit Protocol wordt onder de Verdragsluitende Staten verstaan de Staten die Partij zijn bij het Verdrag en die de toepassing van dit Protocol niet hebben uitgesloten op grond van [artikel 167 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=TWAALFDE&artikel=167&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 2
 
-Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2005-04-01&g=2005-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-04-01&g=2005-04-01), wordt een rechtsvordering tegen de aanvrager van een Europees octrooi, die zijn woonplaats of zetel heeft in een van de Verdragsluitende Staten, ingesteld door de rechterlijke instanties van bedoelde Verdragsluitende Staat.
+Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2005-07-01&g=2005-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-07-01&g=2005-07-01), wordt een rechtsvordering tegen de aanvrager van een Europees octrooi, die zijn woonplaats of zetel heeft in een van de Verdragsluitende Staten, ingesteld door de rechterlijke instanties van bedoelde Verdragsluitende Staat.
 
 ##### Artikel 3
 
-Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2005-04-01&g=2005-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-04-01&g=2005-04-01) zijn, indien de aanvrager van een Europees octrooi noch zijn woonplaats noch zijn zetel in een van de Verdragsluitende Staten heeft en indien de persoon die de aanspraak op verlening van het Europees octrooi doet gelden zijn woonplaats of zetel wel in een van de Verdragsluitende Staten heeft, alleen de rechterlijke instanties van laatstbedoelde Staat bevoegd.
+Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2005-07-01&g=2005-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-07-01&g=2005-07-01) zijn, indien de aanvrager van een Europees octrooi noch zijn woonplaats noch zijn zetel in een van de Verdragsluitende Staten heeft en indien de persoon die de aanspraak op verlening van het Europees octrooi doet gelden zijn woonplaats of zetel wel in een van de Verdragsluitende Staten heeft, alleen de rechterlijke instanties van laatstbedoelde Staat bevoegd.
 
 ##### Artikel 4
 
-Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zijn voor rechtsvorderingen, waar de werkgever en de werknemer tegenover elkaar staan, behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-04-01&g=2005-04-01), alleen de rechterlijke instanties van die Verdragsluitende Staat bevoegd, volgens het recht waarvan het recht op het Europees octrooi wordt bepaald overeenkomstig [artikel 60, eerste lid, tweede volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=TWEEDE&hoofdstuk=II&artikel=60&z=2005-04-01&g=2005-04-01).
+Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zijn voor rechtsvorderingen, waar de werkgever en de werknemer tegenover elkaar staan, behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-07-01&g=2005-07-01), alleen de rechterlijke instanties van die Verdragsluitende Staat bevoegd, volgens het recht waarvan het recht op het Europees octrooi wordt bepaald overeenkomstig [artikel 60, eerste lid, tweede volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=TWEEDE&hoofdstuk=II&artikel=60&z=2005-07-01&g=2005-07-01).
 
 ##### Artikel 5
 
@@ -2996,11 +2996,11 @@ Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zij
 
 ##### Artikel 6
 
-Voor de gevallen waarin de artikelen 2 tot en met 4 en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-04-01&g=2005-04-01), niet van toepassing zijn, zijn alleen de rechterlijke instanties van de Duitse Bondsrepubliek bevoegd.
+Voor de gevallen waarin de artikelen 2 tot en met 4 en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2005-07-01&g=2005-07-01), niet van toepassing zijn, zijn alleen de rechterlijke instanties van de Duitse Bondsrepubliek bevoegd.
 
 ##### Artikel 7
 
-De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorderingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=1&z=2005-04-01&g=2005-04-01) aanhangig worden gemaakt, toetsen ambtshalve of zij bevoegd zijn overeenkomstig de artikelen 2 tot en met 6.
+De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorderingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=1&z=2005-07-01&g=2005-07-01) aanhangig worden gemaakt, toetsen ambtshalve of zij bevoegd zijn overeenkomstig de artikelen 2 tot en met 6.
 
 ##### Artikel 8
 
@@ -3012,13 +3012,13 @@ De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorder
 
 ##### Artikel 9
 
-(1). Behoudens het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=11&z=2005-04-01&g=2005-04-01), worden de in kracht van gewijsde gegane beslissingen, die zijn gegeven in een Verdragsluitende Staat ten aanzien van de aanspraak op verlening van het Europees octrooi voor een of meer in de Europese octrooiaanvrage aangewezen Staten in de overige Verdragsluitende Staten erkend zonder vorm van proces.
+(1). Behoudens het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=11&z=2005-07-01&g=2005-07-01), worden de in kracht van gewijsde gegane beslissingen, die zijn gegeven in een Verdragsluitende Staat ten aanzien van de aanspraak op verlening van het Europees octrooi voor een of meer in de Europese octrooiaanvrage aangewezen Staten in de overige Verdragsluitende Staten erkend zonder vorm van proces.
 
 (2). De bevoegdheid van de rechterlijke instantie waarvan de beslissing moet worden erkend en de rechtsgeldigheid van die beslissing mag niet worden aangevochten.
 
 ##### Artikel 10
 
-[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=9&z=2005-04-01&g=2005-04-01), is niet van toepassing indien:
+[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=9&z=2005-07-01&g=2005-07-01), is niet van toepassing indien:
 
 - a). de aanvrager van een Europees octrooi, die voor een rechterlijke instantie is gedaagd en niet is verschenen, bewijst dat het stuk dat het geding inleidt hem niet regelmatig en zo tijdig als met het oog op zijn verdediging nodig was, is betekend, of
 
@@ -3050,7 +3050,7 @@ Het archief van de Organisatie alsmede de documenten die haar toebehoren of die 
 
 - b). met betrekking tot een door derden ingediende civiele rechtsvordering ter zake van schade, die voortvloeit uit een ongeval dat is veroorzaakt door een aan de Organisatie toebehorend of namens haar gebruikt motorvoertuig, of met betrekking tot een verkeersovertreding waarbij een zodanig voertuig is betrokken;
 
-- c). met betrekking tot de tenuitvoerlegging van een ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=23&z=2005-04-01&g=2005-04-01) gedane scheidsrechterlijke uitspraak.
+- c). met betrekking tot de tenuitvoerlegging van een ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=23&z=2005-07-01&g=2005-07-01) gedane scheidsrechterlijke uitspraak.
 
 2. Eigendommen en activa van de Organisatie, ongeacht waar deze zich bevinden, zijn vrij van vordering, inbeslagneming, onteigening en beslaglegging.
 
@@ -3072,11 +3072,11 @@ Goederen die door de Organisatie worden ingevoerd of uitgevoerd voor het verrich
 
 ##### Artikel 6
 
-Geen vrijstelling op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2005-04-01&g=2005-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2005-04-01&g=2005-04-01) wordt verleend ten aanzien van goederen die worden aangekocht en ingevoerd ten gerieve van de personeelsleden van het Europees Octrooibureau persoonlijk.
+Geen vrijstelling op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2005-07-01&g=2005-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2005-07-01&g=2005-07-01) wordt verleend ten aanzien van goederen die worden aangekocht en ingevoerd ten gerieve van de personeelsleden van het Europees Octrooibureau persoonlijk.
 
 ##### Artikel 7
 
-1. Aan de Organisatie toebehorende goederen die zijn verworven of ingevoerd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2005-04-01&g=2005-04-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2005-04-01&g=2005-04-01), mogen uitsluitend worden verkocht of weggegeven overeenkomstig de voorwaarden vastgesteld door de Verdragsluitende Staten die de vrijstellingen hebben verleend.
+1. Aan de Organisatie toebehorende goederen die zijn verworven of ingevoerd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2005-07-01&g=2005-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2005-07-01&g=2005-07-01), mogen uitsluitend worden verkocht of weggegeven overeenkomstig de voorwaarden vastgesteld door de Verdragsluitende Staten die de vrijstellingen hebben verleend.
 
 2. De overdracht van goederen en het verlenen van diensten tussen de verschillende gebouwen van de Organisatie zijn vrij van alle heffingen of beperkingen; in voorkomende gevallen nemen de Verdragsluitende Staten alle passende maatregelen om het met deze heffingen gemoeide bedrag terug te betalen of de betrokkenen van de verplichting tot betaling daarvan te ontheffen, of om deze beperkingen op te heffen.
 
@@ -3118,7 +3118,7 @@ De Lid-Staten nemen alle gepaste maatregelen waardoor het binnenkomen, het verbl
 
 ##### Artikel 13
 
-1. Behoudens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=6&z=2005-04-01&g=2005-04-01) geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961.
+1. Behoudens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=6&z=2005-07-01&g=2005-07-01) geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961.
 
 2. De vrijstelling van rechtsvordering geldt echter niet in geval van een door de Voorzitter van het Europees Octrooibureau begane verkeersovertreding of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem werd bestuurd.
 
