@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2005-01-01"
+last_updated: "2005-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -327,7 +327,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 10a
 
-1. De in [artikel 15, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 19/119 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto of een motorrijwiel verminderd met het bij de personenauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
+1. De in [artikel 15, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 19/119 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig [artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10).
 
 2. Het bedrag van de aankoopprijs dient ten genoegen van de inspecteur te worden aangetoond aan de hand van bescheiden zoals een originele factuur, een inkoopverklaring of een betalingsbewijs.
 
@@ -431,7 +431,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de artikelen 17 en 17a wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2005-07-01&g=2005-07-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2005-07-01&g=2005-07-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -443,7 +443,7 @@ Vervallen
 
 3. De aanwijzing geldt voor alle goederen welke ten behoeve van de belanghebbende worden ingevoerd, waaronder zijn begrepen de goederen ter zake waarvan de belanghebbende aan een andere ondernemer een schriftelijke verklaring heeft afgegeven dat hij de goederen invoert of dat de invoer in zijn opdracht plaatsvindt.
 
-4. Ten aanzien van goederen welke door Koninklijke PTT Post B.V. worden ingevoerd, vindt [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23)slechts toepassing, indien:
+4. Ten aanzien van goederen welke door Koninklijke PTT Post B.V. worden ingevoerd, vindt [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) slechts toepassing, indien:
 
 - a. op de postzending of in de daarbij behorende bescheiden het aan de belanghebbende toegekende btw-identificatienummer is vermeld, of
 
@@ -451,17 +451,17 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van artikel 31;
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2005-07-01&g=2005-07-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
 6. Ingeval de belanghebbende handelt in strijd met de gestelde voorwaarden, alsmede in geval van misbruik, waaronder wordt begrepen misbruik door de vervoerder van de goederen, kan de inspecteur de aanwijzing intrekken en een nieuwe aanwijzing weigeren. De intrekking en de weigering geschieden bij voor bezwaar vatbare beschikking.
 
-7. Het eerste tot en met zesde lid zijn niet van toepassing op personenauto’s en motorrijwielen in de zin van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) en[4 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4).
+7. Het eerste tot en met zesde lid zijn niet van toepassing op personenauto’s, bestelauto’s en motorrijwielen in de zin van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) en[4 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4).
 
 ##### Artikel 18a
 
-1. Voor personenauto’s in de zin van [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en wijst hij aan waar aangifte ten invoer dient te geschieden.
+1. Voor personenauto’s en bestelauto’s in de zin van [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en wijst hij aan waar aangifte ten invoer dient te geschieden.
 
 2. Het verzoek wordt slechts ingewilligd, indien:
 
@@ -475,9 +475,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van artikel 31;
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2005-07-01&g=2005-07-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van artikel 18 aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2005-07-01&g=2005-07-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -1616,6 +1616,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 | of organische verbindingen van edele metalen, |   |
 | van radioactieve elementen, van zeldzame |   |
 | aardmetalen en van isotopen |   |
+| Onverzadigde eenwaardige acyclische carbonzuren en eenwaardige cyclische carbonzuren, daarvan afgeleide anhydriden, halogeniden, peroxiden en peroxyzuren, alsmede halogeen-, sulfo-, nitro- en nitrosoderivaten daarvan | 2916; |
 | Amidoverbindingen van carbonzuren of van koolzuur | 2924; |
 | Andere organische verbindingen van niet-metalen of van metalen | 2931; |
 | Pigmenten en preparaten op basis van | 3206 30 00; |
