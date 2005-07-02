@@ -4,7 +4,7 @@ identifier: "BWBR0016097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-08"
-last_updated: "2004-01-01"
+last_updated: "2005-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016097"
 soort: "ministeriele-regeling"
@@ -99,41 +99,61 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - r. het bemiddelen bij het verkrijgen van een document: € 103,–;
 
-- s. het behandelen van een aanvraag om een visum:
+- s. het behandelen van een aanvraag tot het verlenen van een visum:
 
-- 1°. visa afgegeven op een Koninkrijksvertegenwoordiging:
-
-- –. luchthaventransitvisum: € 35,
-
-- –. doorreisvisum: € 35,
-
-- –. visum voor kort verblijf van ten hoogste negentig dagen: € 35,
-
-- –. visum voor meerdere reizen: € 35,
+- 1°. aanvragen ingediend bij een Koninkrijksvertegenwoordiging voor een:
 
 - –. collectief visum: € 35 en € 1 per persoon,
 
-- –. machtiging tot voorlopig verblijf: € 50.
-
-- visa afgegeven aan de grens:
-
 - –. doorreisvisum: € 35,
+
+- –. luchthaventransitvisum: € 35,
+
+- –. visum voor kort verblijf van ten hoogste negentig dagen: € 35,
+
+- –. visum voor meerdere reizen: € 35.
+
+- 2°. aanvragen ingediend bij de grens voor een:
 
 - –. collectief doorreisvisum: € 35 en € 1 per persoon,
 
-- –. reisvisum: € 35,
+- –. collectief reisvisum: € 35 en € 1 per persoon,
 
-- –. collectief reisvisum: € 35 en € 1 per persoon.
+- –. doorreisvisum: € 35,
 
-- bijzondere visumafgifte:
+- –. reisvisum: € 35.
 
-- –. verlenging van een visum van ten hoogste dertig dagen: € 25,
+- 3°. aanvragen tot het verlengen van een visum:
 
-- –. verlenging van een visum van meer dan dertig dagen en van ten hoogste negentig dagen: € 30,
+- –. het verlengen van een collectief visum: € 30 en € 1 per persoon,
 
-- –. verlenging van een collectief visum: € 30 en € 1 per persoon,
+- –. het verlengen van een visum met ten hoogste dertig dagen: € 25,
 
-- –. het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 40.
+- –. het verlengen van een visum met meer dan dertig dagen en met ten hoogste negentig dagen: € 30.
+
+- 4°. aanvragen tot het wijzigen van een visum: € 35.
+
+- 5°. aanvragen tot het verstrekken van een verklaring die recht geeft op terugkeer naar Nederland (terugkeervisum): € 40.
+
+- 6°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf:
+
+- –. met toepassing van de verkorte procedure: € 250,
+
+- –. met het oog op gezinshereniging of gezinsvorming: € 830,
+
+- –. met het oog op gezinshereniging of gezinsvorming als gezinslid: € 188,
+
+- –. met het oog op verblijf als adoptie- of pleegkind: € 331,
+
+- –. met het oog op familiebezoek: € 830,
+
+- –. met het oog op het verrichten van arbeid: € 433,
+
+- –. met het oog op het volgen van een studie: € 433,
+
+- –. in het kader van een uitwisseling: € 433,
+
+- –. in overige gevallen: € 331.
 
 - t. het bemiddelen bij het afleggen van een examen: € 157,– per afzonderlijk examen;
 
@@ -145,9 +165,9 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ##### Artikel 3
 
-1. De vergoeding is in de Oekraïne verschuldigd in het equivalent aan US dollars.
+1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2005-07-02&g=2005-07-02), is in de Oekraïne verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname is verschuldigd in euro’s.
 
-2. De vergoeding is in Suriname verschuldigd in euro’s.
+2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
 ##### Artikel 4
 
@@ -156,5 +176,35 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling op de consulaire tarieven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02), is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1).
+
+2. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
+
+- a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
+
+- b. met het oog op uitwisseling binnen het kader van het ‘Working Holiday Scheme’ of het ‘Working Holiday Programme’ ten behoeve van een vreemdeling die de nationaliteit van Australië, Canada respectievelijk van Nieuw-Zeeland bezit;
+
+- c. met het oog op het verrichten van arbeid binnen het kader van het ‘Young Workers Exchange Programme’ ten behoeve van een vreemdeling die de Canadese nationaliteit bezit, of;
+
+- d. met het oog op gezinshereniging ten behoeve van de belanghebbende die verblijf beoogt bij een vreemdeling aan wie een vergunning tot verblijf als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) is verleend, mits de belanghebbende binnen drie maanden na het verlenen van deze verblijfsvergunning de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf heeft ingediend dan wel met het oog daarop een verzoek om advies is ingediend;
+
+3. De vergoeding, genoemd in [artikel 1, aanhef, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
+
+##### Artikel 3b
+
+Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2005-07-02&g=2005-07-02), niet verschuldigd indien de belanghebbende:
+
+- a. een, ter beoordeling van de Minister voor Vreemdelingenzaken en Integratie, gerechtvaardigd beroep op artikel 8 van het Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden (Trb. 1951, 154) doet;
+
+- b. aantoont dat hij niet over de middelen beschikt om de vergoeding te kunnen voldoen;
+
+- c. aantoont dat hij gedurende een redelijke termijn actief heeft getracht om de middelen, bedoeld onder b, te verwerven; en
+
+- d. aannemelijk maakt dat hij op korte termijn niet over de middelen, bedoeld onder b, zal komen te beschikken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
