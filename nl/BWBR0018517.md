@@ -131,19 +131,3 @@ Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen af
 Zodra de formalisering, voor zover dat noodzakelijk is, van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren.
 
 Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
-
-### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
-
-In aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063), zijn specifieke nadere afspraken gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
-
-### 2.4. **Beroepsrisico’s**
-
-Met betrekking tot ambtenaren die arbeidsongeschikt zijn geraakt door een dienstongeval of een beroepsziekte hebben partijen het volgende afgesproken.
-
-### 2.5. **Nieuw stelsel arbeidsongeschiktheid**
-
-Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen afspraken gemaakt. Vooruitlopen op het nieuwe stelsel van arbeidsongeschiktheid is nu niet mogelijk aangezien het wettelijk regime niet precies bekend is. Aangezien de nog in te voeren Wet Werk en Inkomen naar Arbeidsvermogen (WIA) geen inkomensgarantie biedt voor de werknemers die minder dan 35% arbeidsongeschikt zijn, maar dit overlaat aan de sociale partners in de sectoren, spreken partijen wel af dat ook voor de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% zal gelden dat werken wordt beloond en dat meer werken meer wordt beloond.
-
-### 3. Slotopmerkingen
-
-Zodra de formalisering, voor zover dat noodzakelijk is, van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren.
