@@ -4,7 +4,7 @@ identifier: "BWBR0006789"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-07-06"
-last_updated: "1994-07-20"
+last_updated: "2005-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006789"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als systeem van functiewaardering voor de Nederlandse politie worden het als bijlage 1 bij deze regeling opgenomen technische functiewaarderingssysteem en het als bijlage 2 opgenomen referentiemateriaal Functiewaardering Nederlandse Politie vastgesteld.
+Als systeem van functiewaardering voor de Nederlandse politie worden het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006789&bijlage=1&z=2005-07-06&g=2005-07-06) bij deze regeling opgenomen technische functiewaarderingssysteem het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006789&bijlage=2&z=2005-07-06&g=2005-07-06) opgenomen referentiemateriaal Functiewaardering Nederlandse Politie en het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006789&bijlage=3&z=2005-07-06&g=2005-07-06) opgenomen vernieuwde referentiemateriaal Functiewaardering Nederlandse Politie vastgesteld.
 
 ##### Artikel 2
 
@@ -54,5 +54,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ## Bijlage 2
+
+Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+
+## Bijlage 3
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
