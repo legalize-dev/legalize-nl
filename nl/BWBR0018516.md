@@ -4,7 +4,7 @@ identifier: "BWBR0018516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2005-06-01"
+last_updated: "2005-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018516"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - c. CBS: Centraal bureau voor de statistiek;
 
-- d. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-06-01);
+- d. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-07-08);
 
-- e. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-06-01) opgenomen gebiedsindeling;
+- e. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-07-08) opgenomen gebiedsindeling;
 
-- f. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2005-07-08&g=2005-06-01) opgenomen gebiedsindeling;
+- f. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2005-07-08&g=2005-07-08) opgenomen gebiedsindeling;
 
 - g. verklaring: door het bevoegd gezag van een instelling uitgereikte verklaring, bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.15);
 
@@ -318,47 +318,47 @@ De indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wett
 
 1. De percentsgewijze verdeling van de middelen voor leefbaarheid en veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01), en
+- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
 
-- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01).
+- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
 
-2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01).
+2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
 
 3. De percentsgewijze verdeling van de middelen voor de bestrijding van gezondheidsachterstanden over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01), en
+- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
 
-- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01).
+- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
 
 4. De percentsgewijze verdeling van de middelen voor maatschappelijke opvang en verslavingsbeleid respectievelijk voor vrouwenopvang over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is steeds als volgt samengesteld:
 
-- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01), en
+- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
 
-- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01).
+- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
 
 5. De percentsgewijze verdeling van de extra middelen voor veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01);
+- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
 
-- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01), en
+- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
 
-- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-06-01).
+- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
 
 ##### Artikel 12
 
@@ -476,7 +476,7 @@ In deze formule is
 
 3. Het verleende voorschot voor een kalenderjaar wordt in twee termijnen betaald.
 
-4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2005-07-08&g=2005-06-01), heeft verleend.
+4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2005-07-08&g=2005-07-08), heeft verleend.
 
 ##### Artikel 15
 
@@ -506,11 +506,11 @@ In deze formule is
 
 ##### Artikel 16
 
-1. Het verantwoordingsverslag van de gemeente, bedoeld in [artikel 24, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-07-08&g=2005-06-01) opgenomen model.
+1. Het verantwoordingsverslag van de gemeente, bedoeld in [artikel 24, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-07-08&g=2005-07-08) opgenomen model.
 
-2. Het verslag van de besteding van de verleende voorschotten door de gemeente, bedoeld in [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=D&z=2005-07-08&g=2005-06-01) opgenomen model.
+2. Het verslag van de besteding van de verleende voorschotten door de gemeente, bedoeld in [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=D&z=2005-07-08&g=2005-07-08) opgenomen model.
 
-3. De krachtens [artikel 24, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), door de gemeenteraad aangewezen één of meer accountants verrichten hun werkzaamheden met inachtneming van het in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=E&z=2005-07-08&g=2005-06-01) opgenomen controleprotocol.
+3. De krachtens [artikel 24, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), door de gemeenteraad aangewezen één of meer accountants verrichten hun werkzaamheden met inachtneming van het in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=E&z=2005-07-08&g=2005-07-08) opgenomen controleprotocol.
 
 ##### Artikel 17
 
@@ -520,7 +520,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid.
 
-## Bijlage A. behorende bij [artikel 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-07-08&g=2005-06-01)
+## Bijlage A. behorende bij [artikel 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-07-08&g=2005-07-08)
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753).
 
@@ -554,7 +554,7 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad | Het deelgebied Zaanstreek van de gezondheidsregio 14 Amsterdam |
 | Zwolle | De gezondheidsregio 04 Zwolle |
 
-## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-07-08&g=2005-06-01)
+## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-07-08&g=2005-07-08)
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753)
 
@@ -586,7 +586,7 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad | De deelgebieden Waterland en Zaanstreek van de gezondheidsregio 14 Amsterdam |
 | Zwolle | De gezondheidsregio 04 Zwolle |
 
-## Bijlage C. behorende bij [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-06-01)
+## Bijlage C. behorende bij [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-07-08)
 
 Format verantwoording Prestaties
 
@@ -649,13 +649,13 @@ Het hier volgende deel van het format verantwoording prestaties GSB/BDU SIV is a
 | t | het verminderen van criminaliteit in risicogebieden en in de woonomgeving uitgedrukt in een door de gemeente te bepalen indicator |   |
 | u | een door de gemeente te bepalen doelstelling op het gebied van veiligheid anders dan bedoeld onder n tot en met t |   |
 
-## Bijlage D. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-06-01)
+## Bijlage D. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-07-08)
 
 ### Toelichting
 
 De stad kan zelf bepalen hoe de gegevens voor deze verantwoording worden verzameld. De stad kan de gegevens herkenbaar opnemen in de jaarrekening en ten behoeve van de eenmalige verantwoording in 2010 de totalen berekenen over de jaren 2005 t/m 2009 of de stad kan in 2010 eenmalig een totaal eindverantwoording opmaken.
 
-## Bijlage E. behorende bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-06-01)
+## Bijlage E. behorende bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-07-08)
 
 ### Controleprotocol
 
@@ -733,7 +733,7 @@ De accountant stelt vast dat de in de verantwoording opgenomen bestedingen
 
 ### 2.2.3. **Gevolgen niet (geheel) realiseren prestaties**
 
-Indien uit het door de stad uitgebrachte prestatie-verantwoordingsverslag blijkt dat de prestaties niet geheel zijn gehaald dan vindt verrekening plaats op basis van de rijkstarievenlijst. De minister kan op verzoek van de gemeente de verrekening ook laten plaatsvinden op basis van de daadwerkelijke bestedingen per indicator van de rijksbijdrage door de stad. Indien de stad hiervoor kiest dan dient een aangepast financieel verslag van de bestedingen per indicator te worden ingediend (onderdeel van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-07-08&g=2005-06-01) bij deze regeling). In dit geval dient de accountant vast te stellen dat de bedragen in de prestatieverantwoording in de kolom ‘besteding ten laste van de rijksbijdrage’ een getrouw en rechtmatig beeld geven van de feitelijke bestedingen per indicator. Wanneer blijkt dat het gemeentebestuur een deel van de voorschotten heeft besteed aan andere in het MOP opgenomen onderwerpen dan die waarvoor op grond van artikel 7 indicatoren zijn vastgesteld en waaraan het bedrag van het programmadeel van de uitkering op grond van artikel 7, tweede en derde lid, percentsgewijs is toegedeeld, wordt bij de berekening van de korting niettemin uitgegaan van een 100-procents toedeling van de uitkering aan de indicatoren, bedoeld in artikel 7, tweede lid. Uitgangspunt daarbij is dan de relatieve verdeling van de feitelijke besteding over de verschillende indicatoren.
+Indien uit het door de stad uitgebrachte prestatie-verantwoordingsverslag blijkt dat de prestaties niet geheel zijn gehaald dan vindt verrekening plaats op basis van de rijkstarievenlijst. De minister kan op verzoek van de gemeente de verrekening ook laten plaatsvinden op basis van de daadwerkelijke bestedingen per indicator van de rijksbijdrage door de stad. Indien de stad hiervoor kiest dan dient een aangepast financieel verslag van de bestedingen per indicator te worden ingediend (onderdeel van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-07-08&g=2005-07-08) bij deze regeling). In dit geval dient de accountant vast te stellen dat de bedragen in de prestatieverantwoording in de kolom ‘besteding ten laste van de rijksbijdrage’ een getrouw en rechtmatig beeld geven van de feitelijke bestedingen per indicator. Wanneer blijkt dat het gemeentebestuur een deel van de voorschotten heeft besteed aan andere in het MOP opgenomen onderwerpen dan die waarvoor op grond van artikel 7 indicatoren zijn vastgesteld en waaraan het bedrag van het programmadeel van de uitkering op grond van artikel 7, tweede en derde lid, percentsgewijs is toegedeeld, wordt bij de berekening van de korting niettemin uitgegaan van een 100-procents toedeling van de uitkering aan de indicatoren, bedoeld in artikel 7, tweede lid. Uitgangspunt daarbij is dan de relatieve verdeling van de feitelijke besteding over de verschillende indicatoren.
 
 ### 2.2.4. **BTW Compensatiefonds**
 
