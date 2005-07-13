@@ -4,7 +4,7 @@ identifier: "BWBR0002644"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002644"
 soort: "AMvB"
@@ -46,9 +46,9 @@ Hebben goedgevonden en verstaan:
 
 1. Het recht, genoemd in [artikel 2, eerste lid, van de Wet rechten burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2) bedraagt voor de onder a, b en d genoemde stukken EUR 10 per 1 januari 2005: € 10,20en voor de onder c genoemde stukken EUR 18,40 per 1 januari 2005: € 18,70.
 
-2. Jaarlijks worden de bedragen, bedoeld in het eerste lid, aangepast overeenkomstig de procentuele wijziging die het prijsindexcijfer van de gezinsconsumptie over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt naar boven afgerond op 10 eurocent. Het aldus berekende bedrag wordt door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vóór 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
+2. Jaarlijks worden de bedragen, bedoeld in het eerste lid, aangepast overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt naar boven afgerond op 10 eurocent. Het aldus berekende bedrag wordt door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vóór 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
 
-3. Onder het prijsindexcijfer van de gezinsconsumptie wordt verstaan de consumentenprijsindex reeks: Alle huishoudens, totaal, op meest recente tijdsbasis, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en gepubliceerd in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.
+3. Onder de consumentenprijsindex wordt verstaan de consumentenprijsindex reeks: Alle huishoudens, totaal, op meest recente tijdsbasis, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek en gepubliceerd in het Statistisch bulletin van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 2
 
