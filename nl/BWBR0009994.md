@@ -4,7 +4,7 @@ identifier: "BWBR0009994"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2004-05-19"
+last_updated: "2005-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009994"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 13 augustus 1998, no. W09.98.0222);
 Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3 november 1998, nr. HDTP/98/3280/JWD, Hoofddirectie Telecommunicatie en Post;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking als artikel 4.10 van de Telecommunicatiewet in werking treedt.
 
 ##### Artikel 1
 
@@ -90,15 +92,15 @@ Vervallen
 
 ##### Artikel 7
 
-1. Een aanbieder van een geografisch gebonden dienst als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2004-05-19&g=2004-05-19), of van een niet-geografisch gebonden dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19), mag ter zake van de naleving van de in die artikelen bedoelde verplichtingen van degene die zijn nummer wil blijven gebruiken geen vergoeding verlangen.
+1. Een aanbieder van een geografisch gebonden dienst als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2005-07-13&g=2005-07-13), of van een niet-geografisch gebonden dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13), mag ter zake van de naleving van de in die artikelen bedoelde verplichtingen van degene die zijn nummer wil blijven gebruiken geen vergoeding verlangen.
 
-2. Van degene die, met een beroep op [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2004-05-19&g=2004-05-19), of op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19), met behoud van het gebruik van het reeds bij hem in gebruik zijnde nummer de in die artikelen bedoelde diensten voortaan van een andere aanbieder afneemt, mag door die aanbieder ter dekking van de administratieve kosten van de realisatie van het nummerbehoud een eenmalige vergoeding van ten hoogste € 10,00 worden verlangd.
+2. Van degene die, met een beroep op [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=2&z=2005-07-13&g=2005-07-13), of op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13), met behoud van het gebruik van het reeds bij hem in gebruik zijnde nummer de in die artikelen bedoelde diensten voortaan van een andere aanbieder afneemt, mag door die aanbieder ter dekking van de administratieve kosten van de realisatie van het nummerbehoud een eenmalige vergoeding van ten hoogste € 10,00 worden verlangd.
 
-3. Het in het tweede lid genoemde bedrag kan bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer van de gezinsconsumptie daartoe aanleiding geeft.
+3. Het in het tweede lid genoemde bedrag kan bij ministeriële regeling worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2004-05-19&g=2004-05-19) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2004-05-19&g=2004-05-19) die in werking treden met ingang van 1 januari 1999.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 4.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.10) in werking treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=3&z=2005-07-13&g=2005-07-13) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009994&artikel=6&z=2005-07-13&g=2005-07-13) die in werking treden met ingang van 1 januari 1999.
 
 ##### Artikel 9
 
