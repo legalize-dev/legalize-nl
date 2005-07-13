@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2005-05-11"
+last_updated: "2005-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het verslag over de uitvoering, de verklaring van de accountant en het oordeel van de gemeenteraad, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), worden uiterlijk op 20 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben door de minister ontvangen.
 
-2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2005-05-11&g=2005-05-11) bij deze regeling opgenomen model.
+2. Het verslag over de uitvoering wordt ingericht overeenkomstig het als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=1&z=2005-07-13&g=2005-07-13) bij deze regeling opgenomen model.
 
-3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2005-05-11&g=2005-05-11) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2005-05-11&g=2005-05-11) bij deze regeling opgenomen controle- en rapportageprotocol.
+3. De verklaring van de accountant wordt ingericht overeenkomstig het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=2&z=2005-07-13&g=2005-07-13) bij deze regeling opgenomen model. Het onderzoek dat resulteert in de verklaring wordt uitgevoerd overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=3&z=2005-07-13&g=2005-07-13) bij deze regeling opgenomen controle- en rapportageprotocol.
 
 ##### Artikel 3. Geen accountantsverklaring
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het voorlopig verslag over de uitvoering, bedoeld in [artikel 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77) wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het voorlopig verslag betrekking heeft door de minister ontvangen.
 
-2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2005-05-11&g=2005-05-11) bij deze regeling opgenomen model.
+2. Het voorlopig verslag wordt ingericht overeenkomstig het als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=4&z=2005-07-13&g=2005-07-13) bij deze regeling opgenomen model.
 
 #### § 3. Betaling
 
@@ -150,7 +150,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2005-05-11&g=2005-05-11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2005-05-11&g=2005-05-11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2005-05-11&g=2005-05-11) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2005-05-11&g=2005-05-11) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2005-07-13&g=2005-07-13), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2005-07-13&g=2005-07-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2005-07-13&g=2005-07-13) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2005-07-13&g=2005-07-13) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Vakantieaanspraak voor personen jonger dan 65 jaar met inkomen uit tegenwoordige arbeid
 
@@ -225,6 +225,14 @@ Indien de belanghebbende jonger dan 65 jaar is en voor de inhouding van loonheff
 - b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde uitstroom van de tekortgemeente in de jaren [t-1], [t-2] en [t-3] lager is dan de landelijke uitstroom in jaar [t] ten opzichte van de gemiddelde landelijke uitstroom in de jaren [t-1], [t-2] en [t-3].
 
 5. Het derde lid, onderdeel b, sub 2, is niet van toepassing op gemeenten met 40.000 of minder inwoners.
+
+6. Indien met betrekking tot een verzoek tot een aanvullende uitkering als bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74) over het jaar 2004, op 1 september 2005 de gegevens met betrekking tot de instroom van de tekortgemeente in jaar [t], de landelijke instroom in jaar [t], de uitstroom van de tekortgemeente in jaar [t] of de landelijke uitstroom in jaar [t] over het vierde kwartaal van het jaar 2004 nog niet bekend zijn, wordt voor de toepassing van het vierde lid in plaats van ‘jaar [t]’ gelezen: de eerste drie kwartalen van jaar [t].
+
+7. Indien de toetsingscommissie op grond van de toepassing van het zesde lid van oordeel is dat van een uitzonderlijke situatie op de arbeidsmarkt geen sprake is, wordt een op dat oordeel gebaseerd afwijzend advies als bedoeld in [artikel 10, derde lid, eerste volzin, van het Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709&artikel=10), door de toetsingscommissie aangehouden tot uiterlijk zes weken na het tijdstip waarop de toetsingscommissie kennis draagt van de gegevens over het vierde kwartaal van 2004. Bij het alsdan aan de minister uit te brengen advies blijft het zesde lid buiten toepassing. De verzoeker van een aanvullende uitkering en de minister worden door de toetsingscommissie van het aanhouden van het advies in kennis gesteld.
+
+8. Het tweede lid is niet van toepassing, indien het advies, bedoeld in [artikel 10, derde lid, eerste volzin, van het Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709&artikel=10), op grond van het zevende lid, eerste volzin, door de toetsingscommissie wordt aangehouden.
+
+9. Wijzigt deze regeling.
 
 #### § 8. Slotbepalingen
 
