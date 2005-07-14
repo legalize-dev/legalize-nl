@@ -4,7 +4,7 @@ identifier: "BWBR0017801"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2006-09-01"
-last_updated: "2005-01-01"
+last_updated: "2005-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017801"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ De algemeen directeur van de Dienst Regelingen is gemachtigd om namens de Minist
 
 ##### Artikel 3
 
-De directeur externe en interne aangelegenheden, de directeur uitvoering en de unitmanagers van de Dienst Regelingen zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit, te beslissen en stukken te ondertekenen betreffende het vaststellen van mededelingen als bedoeld in [artikel 16, onderdelen p tot en met mm](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=10&artikel=16&z=2005-01-01&g=2005-01-01), genoemde regelingen, niet inhoudende beleidsregels.
+De directeur externe en interne aangelegenheden, de directeur uitvoering en de unitmanagers van de Dienst Regelingen zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit, te beslissen en stukken te ondertekenen betreffende het vaststellen van mededelingen als bedoeld in [artikel 16, onderdelen p tot en met mm](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=10&artikel=16&z=2005-07-14&g=2005-07-14), genoemde regelingen, niet inhoudende beleidsregels.
 
 ##### Artikel 4
 
@@ -61,7 +61,7 @@ De unitmanagers van de Dienst Regelingen zijn gemachtigd om namens de Minister v
 
 ##### Artikel 5
 
-De teammanagers uitvoering en de sectormanagers van de Dienst Regelingen, zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen ten aanzien van de in de [artikelen 11 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=5&artikel=11&z=2005-01-01&g=2005-01-01) genoemde aangelegenheden.
+De teammanagers uitvoering en de sectormanagers van de Dienst Regelingen, zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen ten aanzien van de in de [artikelen 11 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=5&artikel=11&z=2005-07-14&g=2005-07-14) genoemde aangelegenheden.
 
 #### Paragraaf 2. Financieel mandaat en machtiging
 
@@ -87,7 +87,7 @@ De teammanagers uitvoering en de sectormanagers van de Dienst Regelingen, zijn g
 
 4. De teammanagers en de sectormanagers van de Dienst Regelingen zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen betreffende het sluiten van overeenkomsten voor uitgaven van materiële aard, voor zover deze een bedrag van € 5.000 niet te boven gaan.
 
-5. De controllers van de Dienst Regelingen zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen betreffende het in voorkomend geval vrijgeven van zekerheden met betrekking tot de in [artikel 16, onderdelen p tot en met mm](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=10&artikel=16&z=2005-01-01&g=2005-01-01), genoemde regelingen.
+5. De controllers van de Dienst Regelingen zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen betreffende het in voorkomend geval vrijgeven van zekerheden met betrekking tot de in [artikel 16, onderdelen p tot en met mm](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=10&artikel=16&z=2005-07-14&g=2005-07-14), genoemde regelingen.
 
 #### Paragraaf 3. Bestuursdwang, last onder dwangsom, dwangbevel, invordering, aanwijzing deskundigen, hertaxatie
 
@@ -151,7 +151,7 @@ De algemeen directeur, de directeur externe en interne aangelegenheden, de direc
 
 ##### Artikel 11
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende visserijaangelegenheden zijn beschikkingen met betrekking tot:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende visserijaangelegenheden zijn beschikkingen met betrekking tot:
 
 - a. de [Subsidieregeling satellietvolgapparatuur 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015345);
 
@@ -169,7 +169,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 12
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) zijn beschikkingen met betrekking tot:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) zijn beschikkingen met betrekking tot:
 
 - a. het besluit, bedoeld in [artikel 43 van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=43);
 
@@ -197,7 +197,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 13
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende de [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357) zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende de [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357) zijn:
 
 - a. de beschikkingen met betrekking tot de Regeling bijdragen bos- en landschapsbouw 1991;
 
@@ -227,7 +227,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 14
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende het Programma Beheer zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende het Programma Beheer zijn:
 
 - a. de beschikkingen inzake de Subsidieregeling natuurbeheer;
 
@@ -249,7 +249,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 15
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende de [Kaderregeling subsidiëring natuurprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0009851) zijn de beschikkingen met betrekking tot:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende de [Kaderregeling subsidiëring natuurprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0009851) zijn de beschikkingen met betrekking tot:
 
 - a. het [Besluit versterking natuur- en bosbeheer bij bos- en landgoedeigenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0010404);
 
@@ -275,7 +275,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 16
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) zijn de beschikkingen met betrekking tot:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) zijn de beschikkingen met betrekking tot:
 
 - a. de Regeling steunverlening producenten akkerbouwgewassen;
 
@@ -369,7 +369,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 17
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden betreffende het Stimuleringskader zijn de beschikkingen met betrekking tot:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden betreffende het Stimuleringskader zijn de beschikkingen met betrekking tot:
 
 - a. de [Stimuleringsregeling vernieuwing landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0008661);
 
@@ -385,7 +385,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 18
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden zijn:
 
 - a. de bevoegdheid, bedoeld in [artikel 15, eerste lid, van het Besluit administratieve verplichtingen Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009000&artikel=15);
 
@@ -415,7 +415,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 19
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde aangelegenheden zijn:
+De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) bedoelde aangelegenheden zijn:
 
 - a. de tegemoetkoming, bedoeld in de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=86), [90](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=90) en [91 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=91);
 
@@ -433,7 +433,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&ar
 
 ##### Artikel 20
 
-Aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) zijn de beschikkingen met betrekking tot:
+Aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=5&z=2005-07-14&g=2005-07-14) zijn de beschikkingen met betrekking tot:
 
 - a. de [Regeling oogstschade 1993 Noord-Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0006810);
 
@@ -483,7 +483,7 @@ Aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:B
 
 - x. de [Uitvoeringsregeling EG-rooisubsidie 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009335);
 
-- y. de [Regeling natuurbraaksubsidie](https://wetten.overheid.nl/jci1.3:c:BWBR0009529);
+- y. de [Tijdelijke regeling natuurbraaksubsidie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018573);
 
 - z. de [Subsidieregeling zeldzame landbouwhuisdierrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0009766);
 
@@ -535,7 +535,7 @@ Aangelegenheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 21
 
-De ondertekening, bedoeld in de [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=1&z=2005-01-01&g=2005-01-01), luidt:
+De ondertekening, bedoeld in de [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017801&paragraaf=1&artikel=1&z=2005-07-14&g=2005-07-14), luidt:
 
 ‘DE MINISTER VAN LANDBOUW, NATUUR EN VOEDSELKWALITEIT,
 
