@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2005-03-01"
+last_updated: "2005-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -37,11 +37,11 @@ entry_into_force: "2013-12-11"
 
 ##### Artikel 1. Andere toevoeging
 
-Dit onderdeel is nog niet inwerking getreden
+Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg afleggen van het afsluitend examen van een bacheloropleiding onderscheidenlijk masteropleiding in het wetenschappelijk onderwijs op het gebied van het recht, wordt vastgesteld ”of Laws”.
 
 ##### Artikel 1a. Afkorting
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2008-06-14&g=2005-03-01), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2008-06-14&g=2005-07-20), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
@@ -49,8 +49,16 @@ De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/
 
 ##### Artikel 2. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 3. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling andere toevoeging aan wo-graden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Gelet op:
+
+• [artikel 7.10a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a)
+
+Besluit
