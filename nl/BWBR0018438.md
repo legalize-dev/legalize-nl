@@ -155,9 +155,3 @@ Indien het bij koninklijke boodschap van 7 september 2004 ingediende voorstel va
 Dit besluit wordt aangehaald als: Besluit actuele waarde.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Waardering tegen marktwaarde is niet toegestaan voor een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
