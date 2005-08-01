@@ -4,7 +4,7 @@ identifier: "BWBR0005125"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-01"
-last_updated: "1991-07-11"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005125"
 soort: "wet"
@@ -48,12 +48,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Dit lid is nog niet in werking getreden.
+1. De Wet van 9 mei 1890, Stb. 80, tot nadere regeling van de heffing en bestemming der Kanselarijleges wordt ingetrokken.
 
-2. Het koninklijk besluit van 10 september 1969, **Stcrt.** 182, houdende regeling inzake de vergoeding voor het verstrekken van afschriften en voor de legalisatie van handtekeningen, wordt ingetrokken.
+2. Het koninklijk besluit van 10 september 1969, Stcrt. 182, houdende regeling inzake de vergoeding voor het verstrekken van afschriften en voor de legalisatie van handtekeningen, wordt ingetrokken.
 
 ##### Artikel 3
 
-Deze wet treedt in werking met ingang van de dag van de datum, van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met uitzondering van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005125&artikel=2&z=1991-07-11&g=1991-07-11), welke in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt in werking met ingang van de dag van de datum, van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met uitzondering van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005125&artikel=2&z=2005-08-01&g=2005-08-01), welke in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
