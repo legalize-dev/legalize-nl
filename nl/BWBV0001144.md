@@ -4,7 +4,7 @@ identifier: "BWBV0001144"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-01-01"
-last_updated: "1995-02-01"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001144"
 soort: "verdrag"
@@ -1242,7 +1242,7 @@ De Partijen ontwikkelen hun samenwerking op diverse terreinen van het waterbehee
 
 ##### Artikel 86. Monetair beleid
 
-Op verzoek van de Roemeense autoriteiten verstrekt de Gemeenschap technische bijstand ter ondersteuning van het streven van Roemenië naar de invoering van de volledige convertibiliteit van de leu en de geleidelijke aanpassing van zijn beleid aan het Europese Monetair Stelsel. Dit zal een informele uitwisseling van gegevens over de beginselen en de werking van het Europees Monetair Stelsel omvatten.
+Op verzoek van de Roemeense autoriteiten verstrekt de Gemeenschap technische bijstand ter ondersteuning van het streven van Roemenië naar de geleidelijke aanpassing van zijn beleid aan het Europees Monetair Unie. Dit houdt ook informele uitwisseling van informatie over de beginselen en de werking van de Economische en Monetaire Unie in.
 
 ##### Artikel 87. Witwassen van geld
 
