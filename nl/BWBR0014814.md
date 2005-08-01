@@ -4,7 +4,7 @@ identifier: "BWBR0014814"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2003-04-02"
+last_updated: "2005-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014814"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op geneesmiddelen, bedoeld in [artikel 1, eerste lid, onder e, van de Wet op de Geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=1).
 
-3. Dit besluit is voorts niet van toepassing op voedingssupplementen die zijn bereid met gebruikmaking van andere dan in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2003-04-02&g=2003-04-02), bedoelde microvoedingsstoffen, voor zover:
+3. Dit besluit is voorts niet van toepassing op voedingssupplementen die zijn bereid met gebruikmaking van andere dan in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2005-08-01&g=2005-08-01), bedoelde microvoedingsstoffen, voor zover:
 
 - a. de desbetreffende microvoedingsstof reeds werd gebruikt in een voedingssupplement dat uiterlijk 12 juli 2002 in Nederland of een andere lidstaat van de Europese Unie rechtmatig in het verkeer was gebracht; en
 
@@ -78,7 +78,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden voedingssupplementen te bereiden of te verhandelen die niet voldoen aan de bij of krachtens dit besluit gestelde eisen met betrekking tot hun samenstelling.
+
+2. Het is verboden voedingssupplementen aan de eindverbruiker te koop aan te bieden, te verkopen of af te leveren anders dan in een voorverpakking als bedoeld in [artikel 1, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
+
+3. Het is verboden voedingssupplementen te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
+
+4. Het is verboden voedingssupplementen te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen of voorstellingen betreffende de aard, samenstelling, hoedanigheid, eigenschappen of bestemming van de waar.
 
 #### § 2:. Bereiding en samenstelling
 
@@ -118,7 +124,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 - e. een waarschuwing dat voedingssupplementen buiten bereik van jonge kinderen moeten worden bewaard.
 
-2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2003-04-02&g=2003-04-02) bedoelde hoeveelheden.
+2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2005-08-01&g=2005-08-01) bedoelde hoeveelheden.
 
 3. Bij voedingssupplementen worden geen vermeldingen gebezigd die beweren of suggereren dat een evenwichtige en gevarieerde voeding in het algemeen geen passende hoeveelheden aan microvoedingsstoffen kan bieden.
 
@@ -142,15 +148,15 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2003-04-02&g=2003-04-02) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2003-04-02&g=2003-04-02) in werking met ingang van 1 augustus 2005.
+2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2005-08-01&g=2005-08-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2005-08-01&g=2005-08-01) in werking met ingang van 1 augustus 2005.
 
-3. [Artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=1&z=2003-04-02&g=2003-04-02), vervalt met ingang van 31 december 2009.
+3. [Artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=1&z=2005-08-01&g=2005-08-01), vervalt met ingang van 31 december 2009.
 
 ##### Artikel 10
 
