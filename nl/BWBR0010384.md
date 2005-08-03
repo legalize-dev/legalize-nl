@@ -4,7 +4,7 @@ identifier: "BWBR0010384"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1999-04-21"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010384"
 soort: "wet"
@@ -50,6 +50,8 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### ARTIKEL II
 
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### ARTIKEL III
@@ -58,12 +60,10 @@ Vervallen
 
 ##### ARTIKEL IV
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt binnen drie jaar na het tijdstip waarop [artikel 7.57e van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e) van toepassing is geworden aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Vervallen
 
 ##### ARTIKEL V
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010384&artikel=II&z=1999-04-21&g=1999-04-21), dat in werking treedt met ingang van 1 januari 2000, met dien verstande dat de bepalingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) zoals die door dat artikel worden gewijzigd voor de eerste maal worden toegepast met betrekking tot het studiejaar 2000–2001.
-
-2. In afwijking van het eerste lid treedt artikel III in werking met ingang van een bij koninklijk besluit te bepalen datum. Deze datum kan niet zijn gelegen voor het tijdstip waarop twee maanden zijn verstreken sedert de datum waarop de evaluatie van de experimenten met decentrale selectie door de regering aan de Tweede Kamer der Staten-Generaal zal zijn voorgelegd.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010384&artikel=II&z=2005-08-03&g=2005-08-03), dat in werking treedt met ingang van 1 januari 2000, met dien verstande dat de bepalingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) zoals die door dat artikel worden gewijzigd voor de eerste maal worden toegepast met betrekking tot het studiejaar 2000–2001.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
