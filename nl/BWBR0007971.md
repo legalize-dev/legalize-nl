@@ -4,7 +4,7 @@ identifier: "BWBR0007971"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1997-03-19"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007971"
 soort: "wet"
@@ -62,45 +62,19 @@ De Wet van 7 juli 1988 (**Stb**. 334) wordt ingetrokken.
 
 ##### Artikel IV
 
-In afwijking van [artikel 7.43, eerste lid en vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) is het bedrag van het collegegeld onderscheidenlijk het minimumbedrag van het collegegeld:
-
-- a. f 2 400 wat betreft het studiejaar 1996–1997, en
-
-- b. f 2 575 wat betreft het studiejaar 1997–1998.
+Vervallen
 
 ##### Artikel V
 
-Artikel 7.43, vierde lid, onder **c**, is niet van toepassing ten aanzien van de studerende die valt onder artikel V van de Wet van 29 mei 1991, **Stb**. 281 (Heroriëntering WSF I).
+Vervallen
 
 ##### ARTIKEL VI
 
-1. De studerende die valt onder artikel V van de Wet van 29 mei 1991, **Stb**. 281 (Heroriëntering WSF I), voldoet niet aan de voorwaarden voor het in aanmerking komen voor studiefinanciering op grond van [hoofdstuk II van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&hoofdstuk=II), indien deze gedurende 6 jaren als studerende in het wetenschappelijk onderwijs of in het hoger beroepsonderwijs studiefinanciering op grond van die wet heeft genoten, met dien verstande dat dit aantal jaren wordt verlengd op de voet van het tweede en derde lid.
-
-2. De periode, bedoeld in het eerste lid, wordt verlengd voor de studerende:
-
-- a. die is ingeschreven als student in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor het volgen van een opleiding als bedoeld in artikel 7.4, derde en zesde lid, van die wet voor elke 42 studiepunten die de opleiding meer bedraagt dan 168 studiepunten, met 1 jaar,
-
-- b. die is ingeschreven als student in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor het volgen van een opleiding als bedoeld in artikel 7.4, vierde lid eerste volzin en vijfde lid, van die wet voor elke 42 studiepunten, met 1 jaar en 6 maanden,
-
-- c. die beschikt over een getuigschrift van een met goed gevolg afgelegd afsluitend examen op het gebied van het wetenschappelijk onderwijs of het hoger beroepsonderwijs met een studielast van ten minste 168 studiepunten en vervolgens voor de eerste maal is ingeschreven als student in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor het volgen van een opleiding in het hoger beroepsonderwijs, onderscheidenlijk het wetenschappelijk onderwijs met een studielast van ten minste 168 studiepunten, en die gedurende meer dan 3 jaren studiefinanciering op grond van [hoofdstuk II van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&hoofdstuk=II) heeft genoten, met zoveel maanden als nodig om betrokkene voor de desbetreffende opleiding in haar geheel aanspraak te geven op 3 jaren studiefinanciering,
-
-- d. die is ingeschreven als student in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor het volgen van een opleiding in de godgeleerdheid aan: met 2 jaren en 6 maanden, of
-
-- 1°. bijzondere universiteiten,
-
-- 2°. openbare universiteiten indien deze opleidingen worden gevolgd gelijktijdig met dan wel voorafgaand aan het onderwijs in het kader van een opleiding vanwege een kerkgenootschap tot leraar of ambtsdrager voor dat kerkgenootschap, of
-
-- 3°. een opleiding op grond van artikel 1.11 van die wet aangewezen instelling, uitsluitend ten behoeve van deze opleidingen,
-
-- e. die is ingeschreven als student in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) voor het volgen van een opleiding in de humanistiek, met 2 jaar en 6 maanden.
-
-3. Ten aanzien van de studerende die als gevolg van een lichamelijke, zintuiglijke of andere functiestoornis niet in staat is het afsluitend examen binnen de voor hem volgens het eerste en tweede lid geldende periode met goed gevolg af te ronden, vindt een verlenging van die periode plaats met overeenkomstige toepassing van [artikel 17**a**, zevende lid, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=17a).
-
-4. Het tweede lid onderdeel **a** is niet van toepassing ten aanzien van de belanghebbende die zich na 21 november 1995 heeft ingeschreven voor een opleiding als bedoeld in [artikel 7.4, zesde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
+Vervallen
 
 ##### ARTIKEL VIA
 
-[Artikel II onderdeel C aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007971&artikel=II&z=1997-03-19&g=1997-03-19) geldt niet ten aanzien van de studerenden die vóór 1 september 1996 voor het volgen van hoger onderwijs studiefinanciering ontvingen op grond van [hoofdstuk II van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&hoofdstuk=II). Ten aanzien van deze studerenden zijn de beperking van het recht op studiefinanciering tot 6 jaren, bedoeld in [artikel VI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007971&artikel=VI&z=1997-03-19&g=1997-03-19), en de verlenging van die termijn, bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007971&artikel=VI&z=1997-03-19&g=1997-03-19), van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel VII
 
