@@ -4,7 +4,7 @@ identifier: "BWBR0008167"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1997-03-19"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008167"
 soort: "wet"
@@ -44,6 +44,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te tre
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Artikel I, onderdeel B, werkt terug tot en met 1 juli 1996.
+
 ##### ARTIKEL I
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
@@ -54,12 +56,12 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### ARTIKEL III
 
-Voor de toepassing van [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51) wordt met een student als bedoeld in het eerste lid onderdeel **c** van genoemd artikel gelijkgesteld een student als bedoeld in artikel VI van de wet van 28 maart 1996 (**Stb**. 226), zoals dit artikel is gewijzigd bij de wet van 28 maart 1996 (**Stb**. 227).
+Vervallen
 
 ##### ARTIKEL IV
 
-1. Deze wet treedt met uitzondering van [artikel I onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=1997-03-19&g=1997-03-19), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=1997-03-19&g=1997-03-19) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=III&z=1997-03-19&g=1997-03-19) in werking met ingang van 1 september 1996. [Artikel I onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=1997-03-19&g=1997-03-19) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=III&z=1997-03-19&g=1997-03-19) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=1997-03-19&g=1997-03-19) treedt in werking met ingang van 1 januari 2001.
+1. Deze wet treedt met uitzondering van [artikel I onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=2005-08-03&g=2005-08-03), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=2005-08-03&g=2005-08-03) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=III&z=2005-08-03&g=2005-08-03) in werking met ingang van 1 september 1996. [Artikel I onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=2005-08-03&g=2005-08-03) en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=III&z=2005-08-03&g=2005-08-03) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=2005-08-03&g=2005-08-03) treedt in werking met ingang van 1 januari 2001.
 
-2. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven op of na 1 september 1996, treedt deze wet met uitzondering van [artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=1997-03-19&g=1997-03-19) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=1997-03-19&g=1997-03-19) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. [Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=1997-03-19&g=1997-03-19) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 juli 1996. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=1997-03-19&g=1997-03-19) treedt in werking met ingang van 1 januari 2001.
+2. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven op of na 1 september 1996, treedt deze wet met uitzondering van [artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=2005-08-03&g=2005-08-03) en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=2005-08-03&g=2005-08-03) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. [Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=I&z=2005-08-03&g=2005-08-03) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 juli 1996. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008167&artikel=II&z=2005-08-03&g=2005-08-03) treedt in werking met ingang van 1 januari 2001.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
