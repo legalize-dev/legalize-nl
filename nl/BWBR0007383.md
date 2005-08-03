@@ -4,7 +4,7 @@ identifier: "BWBR0007383"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1995-05-17"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007383"
 soort: "wet"
@@ -54,26 +54,10 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel II
 
-1. Het aantal personen dat voor de studiejaren 1994-1995 en 1995-1996 voor de eerste maal kan worden ingeschreven voor de propedeutische fase van de opleiding geneeskunde aan al de universiteiten waaraan deze is verbonden, wordt vastgesteld op 1686.
-
-2. Het aantal personen bedoeld in het eerste lid wordt als volgt over de universiteiten verdeeld:
-
-| Rijksuniversiteit te Groningen | 229 |
-| --- | --- |
-| Erasmusuniversiteit te Rotterdam | 229 |
-| Universiteit van Amsterdam | 229 |
-| Vrije Universiteit te Amsterdam | 229 |
-| Rijksuniversiteit te Leiden | 180 |
-| Katholieke Universiteit te Nijmegen | 180 |
-| Universiteit te Utrecht | 210 |
-| Rijksuniversiteit Limburg te Maastricht | 200 |
-
-3. De verdeling van personen over de in het tweede lid bedoelde universiteiten geschiedt met toepassing van [artikel 7.56, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56).
-
-4. Het Besluit beperking inschrijving geneeskunde 1994-1995 en 1995-1996 (besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 17 april 1994, **Uitleg OenW-Regelingen** nr. 12, 27 april 1994) wordt ingetrokken.
+Vervallen
 
 ##### Artikel III
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007383&artikel=II&z=1995-05-17&g=1995-05-17) van deze wet werkt terug tot en met 17 april 1994.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007383&artikel=II&z=2005-08-03&g=2005-08-03) van deze wet werkt terug tot en met 17 april 1994.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
