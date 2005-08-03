@@ -4,7 +4,7 @@ identifier: "BWBR0007145"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1997-09-01"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007145"
 soort: "wet"
@@ -47,9 +47,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel II
 
-A. Indien op het tijdstip van inwerkingtreding van deze wet door het bestuur van een openbare instelling als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) geen bepalingen omtrent aanstelling, schorsing, disciplinaire maatregelen en ontslag als bedoeld in artikel 4.5, vierde lid, zijn vastgesteld, worden deze bepalingen door Onze minister vastgesteld. De door Onze minister vastgestelde bepalingen worden geacht van het instellingsbestuur afkomstig te zijn.
-
-B. Voor zover door het instellingsbestuur nog geen overeenstemming is bereikt met de vakorganisaties voor overheids- en onderwijspersoneel over de wijze van het voeren van overleg als bedoeld in artikel 4.5, vijfde lid, van de Wet op het hoger onderwijs en het wetenschappelijk onderzoek, blijven in afwijking van dat artikel de bepalingen van titel IV-C van het [Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771) (**Stb.** 1985, 110) onderscheidenlijk van het besluit van 18 april 1974, **Stb.** 251, betreffende het georganiseerd overleg op instellingsniveau en de bepalingen van [hoofdstuk I, paragraaf 2, van het Rechtspositiereglement academische ziekenhuizen](onbekend) (**Stb.** 1992, 23) van kracht tot het tijdstip waarop de vorenbedoelde overeenstemming wordt bereikt.
+Vervallen
 
 ##### Artikel III
 
