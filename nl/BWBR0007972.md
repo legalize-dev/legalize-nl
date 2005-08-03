@@ -4,7 +4,7 @@ identifier: "BWBR0007972"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "2000-09-01"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007972"
 soort: "wet"
@@ -54,6 +54,8 @@ Wijzigt de Wet op de studiefinanciering.
 
 ##### Artikel II
 
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
@@ -61,6 +63,8 @@ Dit onderdeel is nog niet inwerking getreden
 Vervallen
 
 ##### Artikel IV
+
+Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (aanpassing collegegeldbepalingen).
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -78,6 +82,8 @@ Vervallen
 
 ##### Artikel VIII
 
+Wijzigt de Algemene Kinderbijslagwet.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
@@ -94,11 +100,11 @@ Vervallen
 
 ##### Artikel XII
 
-Een studerende in het hoger onderwijs die op het tijdstip van inwerkingtreding van deze wet naar de maatstaf van [artikel 3, tweede lid, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=3) jonger is dan 18 jaar en die op grond van deze wet aanspraak krijgt op studiefinanciering op grond van [hoofdstuk II van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&hoofdstuk=II), kan, in afwijking van artikel 32, tweede lid, van die wet, het verzoek daartoe doen tot uiterlijk 31 december 1996.
+Vervallen
 
 ##### Artikel XIII
 
-De tekst van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955) wordt door Onze Minister van Justitie in het Staatsblad geplaatst.
+Vervallen
 
 ##### Artikel XIV
 
@@ -109,13 +115,5 @@ De tekst van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3
 2. Artikel VIII treedt in werking met ingang van 1 oktober 1996.
 
 3. Artikel I, de onderdelen Q, R en S, treedt in werking met ingang van 1 januari 1997.
-
-4. Artikel III treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
-
-5. Vervallen.
-
-6. Artikel VI treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
-
-7. Artikel VII treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
