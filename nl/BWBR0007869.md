@@ -4,7 +4,7 @@ identifier: "BWBR0007869"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1996-03-01"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007869"
 soort: "wet"
@@ -50,25 +50,19 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel II
 
-Het instellingsbestuur stelt uiterlijk 1 jaar na het tijdstip van inwerkingtreding van deze wet het bestuursreglement vast.
+Vervallen
 
 ##### Artikel III
 
-1. Het instellingsbestuur draagt zorg dat uiterlijk 1 jaar na het tijdstip van inwerkingtreding van deze wet verkiezingen voor de medezeggenschapsraad, bedoeld in [artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17), plaatsvinden.
-
-2. Totdat de medezeggenschapsraad overeenkomstig het eerste lid tot stand is gekomen, treden de leden van de bij inwerkingtreding van deze wet bestaande medezeggenschapsraad op als leden van de medezeggenschapsraad in de zin van [artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17) zoals dat artikel luidt na de inwerkingtreding van deze wet.
-
-3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op deelraden en gemeenschappelijke medezeggenschapsraden.
+Vervallen
 
 ##### Artikel IV
 
-1. Het instellingsbestuur legt uiterlijk vier maanden na het tijdstip waarop de verkiezingen ingevolge [artikel III, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007869&artikel=III&z=1996-03-01&g=1996-03-01), hebben plaatsgevonden, een ontwerp van het medezeggenschapsreglement voor aan de medezeggenschapsraad. De raad spreekt zich binnen vier maanden uit over het voorstel. Het instellingsbestuur stelt het reglement slechts vast voor zover het, na overleg al dan niet gewijzigde, voorstel de instemming van twee derden van het aantal leden van de raad heeft verworven.
-
-2. Het medezeggenschapsreglement, bedoeld in [artikel 10.17 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.17) zoals dat luidde op de dag voor de inwerkingtreding van deze wet, vervalt op het tijdstip waarop het instellingsbestuur het medezeggenschapsreglement, bedoeld in het eerste lid, vaststelt, tenzij het instellingsbestuur met instemming van de raad bepaalt dat het geheel of gedeeltelijk op een eerder tijdstip vervalt.
+Vervallen
 
 ##### Artikel V
 
-Ten aanzien van geschillen die voor de inwerkingtreding van deze wet door het instellingsbestuur zijn voorgelegd aan een commissie voor geschillen als bedoeld in [artikel 10.23 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.23), zoals dat luidde op de dag voor de inwerkingtreding van deze wet, blijft het recht zoals het gold voor de inwerkingtreding van deze wet van toepassing.
+Vervallen
 
 ##### Artikel VI
 
