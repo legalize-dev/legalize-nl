@@ -4,7 +4,7 @@ identifier: "BWBR0008767"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1997-07-11"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008767"
 soort: "wet"
@@ -52,15 +52,7 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### ARTIKEL II
 
-1. De raad van toezicht van de Open Universiteit wordt door Onze Minister van Onderwijs, Cultuur en Wetenschappen benoemd binnen vier maanden na het tijdstip van inwerkingtreding van deze wet.
-
-2. Het college van bestuur van de Open Universiteit wordt door de raad van toezicht benoemd binnen zes maanden na het tijdstip van inwerkingtreding van deze wet.
-
-3. Het college van bestuur draagt zorg dat uiterlijk een jaar na het tijdstip van inwerkingtreding van deze wet verkiezingen voor de studentenraad, bedoeld in [artikel 11.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13), plaatsvinden. Totdat de studentenraad overeenkomstig de eerste volzin tot stand is gekomen, treden de leden van de bij de inwerkingtreding van deze wet bestaande studentenraad op als leden van de studentenraad in de zin van artikel 11.13 van de in de eerste volzin genoemde wet, zoals dat artikel luidt na de inwerkingtreding van deze wet.
-
-4. Het college van bestuur draagt er zorg voor dat hoofdstuk 11, paragrafen 1 en 2, van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) uiterlijk een jaar na het tijdstip van inwerkingtreding van deze wet op de Open Universiteit toepassing vindt.
-
-5. Tot het tijdstip waarop hoofdstuk 11, paragrafen 1 en 2, van de in het derde lid genoemde wet op de Open Universiteit toepassing vindt, is hoofdstuk 11, paragrafen 1 tot en met 8 en 11, op de Open Universiteit van toepassing, zoals laatstbedoelde paragrafen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
+Vervallen
 
 ##### ARTIKEL III
 
