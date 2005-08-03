@@ -4,7 +4,7 @@ identifier: "BWBR0007404"
 country: "nl"
 rank: "wet"
 publication_date: "2005-08-03"
-last_updated: "1996-09-01"
+last_updated: "2005-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007404"
 soort: "wet"
@@ -56,28 +56,20 @@ Dit artikel bevat wijzigingen in andere regelgeving.
 
 ##### Artikel III
 
-Indien het bij koninklijke boodschap van 22 december 1993 ingediende voorstel van wet houdende wijziging van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) en enkele andere wetten, houdende verbeteringen en aanvullingen van overwegend technische aard (Kamerstukken II 1993/94, 23 558) tot wet wordt verheven en in werking is getreden op het moment dat deze wet in werking treedt, behoeven uit deze wet voortvloeiende wijzigingen van de onderwijs- en examenregeling ten aanzien van een opleiding genoemd in [artikel 7.4, zesde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), in afwijking van artikel 6.14, tweede lid, tweede volzin, van die wet niet aan de commissie, genoemd in artikel 6.3 van die wet ter beoordeling te worden voorgelegd.
+Vervallen
 
 ##### Artikel IV
 
-1. De studiefinanciering van degene die op grond van artikel V van de wet van 29 mei 1991, houdende wijziging van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955) ertoe strekkend om in het hoger onderwijs na de cursusduur + 1 jaar de studiefinanciering nog 2 jaren te verstrekken in de vorm van lening (heroriëntering studiefinanciering I (**Stb.** 281) niet valt onder de werking van [artikel 17**a** van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=17a), en die meer dan één studie volgt, waaronder een studie als bedoeld in [artikel 9, vijfde lid, onderdeel **b**, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=9), wordt over de periode van verlenging van de in dat onderdeel **b** bedoelde periode van 6 jaren, behoudens de reisvoorziening verstrekt in de vorm van rentedragende lening.
-
-2. Indien de in het eerste lid bedoelde studerende een door de onderwijsinstelling gewaarmerkte copie van het getuigschrift van het met goed gevolg afgelegd hebben van het afsluitend examen van de opleiding, waarop de in het eerste lid bedoelde verlenging betrekking heeft, aan de Informatie Beheer Groep overlegt, wordt zijn studiefinanciering over de in het eerste lid bedoelde leenperiode opnieuw vastgesteld alsof het eerste lid niet van toepassing was geweest.
-
-3. [Artikel 31**b**, tweede tot en met vierde lid, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=31b) is van overeenkomstige toepassing.
-
-4. Het eerste lid is niet van toepassing op de studerende die zich voor 15 november 1994 inschreef voor een studie als bedoeld in [artikel 9, vijfde lid, onderdeel **b**, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=9), en die sindsdien deze studie zonder onderbreking heeft gevolgd.
+Vervallen
 
 ##### Artikel V
 
-1. De wijzigingen in de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955) op grond van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=II&z=1996-09-01&g=1996-09-01) van deze wet zijn niet van toepassing op degenen die reeds voor de datum van inwerkingtreding van deze wet in verband met het volgen van wetenschappelijk onderwijs of hoger beroepsonderwijs studiefinanciering op grond van [hoofdstuk II van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&hoofdstuk=II) ontvingen.
-
-2. De instellingen voor hoger onderwijs als genoemd in [artikel 7.4, zesde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4) zoals dat na inwerkingtreding van deze wet luidt, geven studenten die voor de aanvang van het studiejaar 1995/1996 reeds waren ingeschreven aan een opleiding zoals opgenomen in genoemd artikellid in ieder geval tot 1 september 2000 de gelegenheid het afsluitend examen van die opleiding af te leggen op grond van de bepalingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) zoals die luidden voordat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=I&z=1996-09-01&g=1996-09-01) van deze wet in werking is getreden.
+Vervallen
 
 ##### Artikel VI
 
-1. Deze wet treedt met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=IV&z=1996-09-01&g=1996-09-01) in werking met ingang van 1 september 1995.
+1. Deze wet treedt met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=IV&z=2005-08-03&g=2005-08-03) in werking met ingang van 1 september 1995.
 
-2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=IV&z=1996-09-01&g=1996-09-01) treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007404&artikel=IV&z=2005-08-03&g=2005-08-03) treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
