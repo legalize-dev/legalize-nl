@@ -4,7 +4,7 @@ identifier: "BWBR0018240"
 country: "nl"
 rank: "pbo"
 publication_date: "2010-12-26"
-last_updated: "2005-06-01"
+last_updated: "2005-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018240"
 soort: "pbo"
@@ -71,7 +71,9 @@ entry_into_force: "2005-08-14"
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018240&paragraaf=2&artikel=2&z=2005-08-14&g=2005-08-14) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen-leverbaar.
+
+2. De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
 #### § 3. Grondslag en hoogte
 
@@ -85,27 +87,61 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen-leverbaar verkoopt of heeft verkocht door tussenkomst van een veiling, is aan het productschap een heffing verschuldigd over iedere transactie.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+
+3. De in het eerste lid bedoelde heffing wordt door de verkoper betaald aan de desbetreffende veiling, die - voor het productschap - het heffingsbedrag inhoudt op de aan de verkoper toekomende koopsom. De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgemaakt. Door deze betaling voldoet de verkoper aan de heffingsplicht, bedoeld in het eerste lid.
+
+4. Het tweede lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen-leverbaar koopt of heeft gekocht door tussenkomst van een veiling is aan het productschap een heffing verschuldigd over iedere transactie.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1 % van het factuurbedrag.
+
+3. De heffing als bedoeld in het eerste lid wordt door de koper betaald aan de desbetreffende veiling, die daartoe - voor het productschap - het heffingsbedrag inhoudt.
+
+De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgemaakt. Door deze betaling voldoet de koper aan de heffingsplicht, bedoeld in het eerste lid.
+
+4. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Degene die zonder tussenkomst van een veiling bloembollen-leverbaar verkoopt is verplicht: 2,1% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die zonder tussenkomst van een veiling bloembollen-leverbaar koopt van een teler is aan het productschap een heffing verschuldigd over iedere transactie
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+
+3. De in het eerste lid bedoelde heffing dient door de koper te worden betaald aan de desbetreffende teler, die daartoe namens het productschap het betrokken heffingsbedrag in rekening brengt bij de koper en de aldus geïncasseerde heffing, aan het productschap afdraagt.
+
+4. Door deze betaling voldoet de koper aan de heffingsplicht als bedoeld in het eerste. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van het ingevolge het eerste lid verschuldigde heffing over te gaan.
+
+5. Indien en voor zover daartoe termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen-leverbaar op het tijdstip van verkoop.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die zonder tussenkomst van een veiling door hem geteelde bloembollen-leverbaar verkoopt is aan het productschap een heffing verschuldigd over iedere transactie.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 2,1% van het factuurbedrag.
+
+3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018240&paragraaf=3&artikel=8&z=2005-08-14&g=2005-08-14).
+
+4. Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van het ingevolge het eerste lid verschuldigde heffing over te gaan.
+
+5. Indien en voor zover daartoe termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen-leverbaar op het tijdstip van verkoop.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen-leverbaar afkomstig uit eigen kraam aanwendt voor de teelt van bolbloemen is over die bloembollen-leverbaar aan het productschap een heffing verschuldigd.
+
+2. De heffing als bedoeld in het eerste lid bedraagt: 2,1% van de verkoopwaarde van de desbetreffende bloembollen.
+
+3. De verkoopwaarde van de bloembollen-leverbaar wordt vastgesteld op basis van de gemiddelde veilingprijzen in het betreffende oogstjaar.
 
 ##### Artikel 11
 
@@ -115,13 +151,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. dat de over deze inkoop en verkoop op grond van de bepalingen van deze verordening verschuldigde vakheffing, door de veiling aan het productschap is overgemaakt, kan restitutie van de betaalde vakheffing ontvangen van het productschap.
 
-2. De restitutie bedraagt het dubbele van het percentage als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018240&paragraaf=3&artikel=4&z=2010-12-26&g=2005-06-01), berekend over het verkoop-factuurbedrag van de bloembollen-leverbaar.
+2. De restitutie bedraagt het dubbele van het percentage als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018240&paragraaf=3&artikel=4&z=2005-08-14&g=2005-08-14), berekend over het verkoop-factuurbedrag van de bloembollen-leverbaar.
 
 3. Aanvragen tot restituties dienen bij het productschap te worden ingediend binnen twee jaar na de datum van de betaling van de betreffende bloembollen-leverbaar.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. Ingeval van verkoop van groen te velde verhandelde bollen van tulpen of narcissen, anders dan de in [artikel 1, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018240&paragraaf=1&artikel=1&z=2005-08-14&g=2005-08-14) bedoelde partijen, wordt de heffing berekend voor zover het betreft:
+
+| a. | tulpen over de helft, en |
+| --- | --- |
+| b. | narcissen: over 4/5 gedeelte, |
+
+van het factuurbedrag van de desbetreffende partij.
+
+2. Ingeval van verkoop van mud- en kilogramgoed van tulpen of narcissen, normaal aflopend ongeraapt, wordt de heffing berekend:
+
+| a. | voor zover het betreft tulpen indien: | 1. daarin de maten zift 10, zift 11 en zift 12/op aanwezig zijn | over 50% |
+| --- | --- | --- | --- |
+| a. | voor zover het betreft tulpen indien: | 2. daaraan de maat zift 12/op ontbreekt | over 30% |
+| a. | voor zover het betreft tulpen indien: | 3. daaraan de maten zift 11 en zift 12/op ontbreken | over 10%, |
+
+van het factuurbedrag van de desbetreffende partij;
+
+| b. | voor zover het betreft narcissen: | van het factuurbedrag van de desbetreffende partij | over 80%, |
+| --- | --- | --- | --- |
+
+3. ingeval van mud- en kilogramgoed van krokussen en/of irissen, normaal aflopend ongeraapt, wordt de heffing berekend voor zover het betreft:
+
+| a. | krokussen: | over 80%, |
+| --- | --- | --- |
+| b. | Irissen: | over 50%, |
+
+van het factuurbedrag van de desbetreffende partij.
+
+4. Ingeval van mud- en kilogramgoed van monbretia's, nat van het veld en normaal aflopend ongeraapt, wordt de heffing berekend over 40% van het factuurbedrag van de desbetreffende partij.
 
 #### § 5. Oplegging en inning
 
