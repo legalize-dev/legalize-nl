@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2003-10-01"
+last_updated: "2005-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -80,21 +80,53 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - q. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: OVSE MACEDONIË;
 
-- r. voor deelname aan de multinationale vredesmacht `International Security Assistance Force', voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan: ISAF;
+- r. voor deelname aan de multinationale vredesmacht International Security Assistance Force in Afghanistan, voor zover deze deelname heeft plaatsgevonden op het grondgebied en in het luchtruim van de Republiek Afghanistan, alsmede op en vanaf de luchthaven Termez in Oezbekistan: ISAF;
 
-- s. voor deelname aan de multinationale operatie `Enduring Freedom', voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan en Kirgizië: ENDURING FREEDOM;
+- s. voor deelname aan de multinationale operatie Enduring Freedom, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Rode Zee, de Arabische Zee, de Golf van Aden, de Golf van Oman en de Perzische Golf, alsmede op het grondgebied en in het luchtruim van het Arabisch Schiereiland en van de republieken Oezbekistan, Kirgizië en Afghanistan: ENDURING FREEDOM;
 
-- t. voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX.
+- t. voor deelname aan de NAVO-operatie `Amber Fox', voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië: AMBER FOX;
 
-- u. voor deelname aan de European Union Police Mission voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina, vanaf september 2002; EUPM.
+- u. voor deelname aan de European Union Police Mission voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina, vanaf september 2002 en voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf december 2003: EUPM;
 
-- v. voor deelname aan de Nederlandse operatie Tulip Guardian van 8 februari 2003 tot 4 maart 2003 danwel voor deelname aan de NAVO operatie Display Deterrence vanaf 4 maart 2003 i.v.m. de stationering van Patriot raketten ter ondersteuning van Turkije; LUCHTVERDEDIGING TURKIJE.
+- v. voor deelname aan de Nederlandse operatie Tulip Guardian van 8 februari 2003 tot 4 maart 2003 danwel voor deelname aan de NAVO operatie Display Deterrence vanaf 4 maart 2003 i.v.m. de stationering van Patriot raketten ter ondersteuning van Turkije: LUCHTVERDEDIGING TURKIJE;
 
-- w. voor deelname aan een uitzending in het kader van een Mine Action Center, waar ook ter wereld, vanaf september 2002; MINE ACTION CENTER.
+- w. voor deelname aan een uitzending in het kader van een Mine Action Center, waar ook ter wereld, vanaf september 2002: MINE ACTION CENTER;
 
-- x. voor deelname aan de door de Europese Unie geleide militaire operatie ‘Concordia’ in Macedonië, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf maart 2003; EU OPERATIE CONCORDIA.
+- x. voor deelname aan de door de Europese Unie geleide militaire operatie ‘Concordia’ in Macedonië, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf maart 2003: EU OPERATIE CONCORDIA;
 
-- y. voor deelname aan de internationale stabilisatiemacht voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van Irak en het Arabisch Schiereiland vanaf 25 juni 2003; STABILISATION FORCE IRAK.
+- y. voor deelname aan de internationale stabilisatiemacht voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van Irak en het Arabisch Schiereiland vanaf 25 juni 2003: STABILISATION FORCE IRAK;
+
+- z. voor deelname aan de United Nations Mission in Liberia, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Liberia, alsmede in het aangrenzende zeegebied: UNMIL;
+
+- aa. voor deelname aan de NAVO-operatie Stabilisation Force ten tijde van de overdracht aan de Europese Unie voor de EU-operatie EUFOR op 2 december 2004, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië, in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied en in de aangrenzende wateren van de Adriatische Zee: SFOR/EUFOR;
+
+- bb. voor deelname aan de EUFOR-operatie, voor zover deze deelname heeft plaatsgehad op het grondgebied van voormalig Joegoslavië, in het luchtruim daarboven voor zover gestationeerd op het vorengenoemde grondgebied en in de aangrenzende wateren van de Adriatische Zee: EUFOR;
+
+- cc. Voor deelname aan operaties van de Verenigde Naties:
+
+- 1°. de Opération des Nations Unies au Burundi ‘ONUB’ , voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
+
+- 2°. de United Nations Advanced Mission in Sudan ‘UNAMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
+
+- 3°. de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, alsmede op en vanaf de luchthaven van Amman in Jordanië;
+
+- 4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
+
+- 5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan: VN OPERATIES;
+
+- dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
+
+- 1°. de NATO Training Implementation Mission-Iraq ‘NTIM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
+
+- 2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak: NAVO OPERATIES;
+
+- ee. voor deelname aan de operatie van de Europese Unie EUPOL, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo: EU OPERATIES;
+
+- ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
+
+- 1°. de OVSE missie Kosovo Police Service School vanaf september 2001;
+
+- 2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES.
 
 ##### Artikel 2
 
