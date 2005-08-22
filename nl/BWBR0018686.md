@@ -4,7 +4,7 @@ identifier: "BWBR0018686"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-20"
-last_updated: "2005-06-01"
+last_updated: "2005-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018686"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op [artikel 28 van de Organisatieregeling Ministerie van Justitie 2005](ht
 
 Besluit:
 
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
-
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
@@ -58,7 +56,7 @@ Het werkterrein van de ISt omvat alle tot DJI behorende inrichtingen en landelij
 
 ##### Artikel 3. Taak
 
-1. De ISt heeft met betrekking tot het werkterrein, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018686&artikel=2&z=2005-08-22&g=2005-06-01), tot taak:
+1. De ISt heeft met betrekking tot het werkterrein, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018686&artikel=2&z=2005-08-22&g=2005-08-22), tot taak:
 
 - a. het houden van toezicht op de effectiviteit en kwaliteit van de uitvoering, in het bijzonder op de aspecten bejegening en beveiliging, en het daaraan gerelateerde beleid;
 
