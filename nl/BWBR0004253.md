@@ -4,7 +4,7 @@ identifier: "BWBR0004253"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-08-24"
-last_updated: "2005-08-01"
+last_updated: "2005-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004253"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Als controledocument dat in de auto aanwezig moet zijn voor het verrichten van i
 
 ##### Artikel 2
 
-Deze regeling treedt in werking met ingang van 1 januari 1988.
+Ten behoeve van het toezicht op de naleving op [artikel 75, tweede lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75), zijn in de auto waarmee een beperkte taxidienst als bedoeld in de [Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667) wordt uitgevoerd, documenten aanwezig waarmee wordt aangetoond dat met die auto vervoer als bedoeld in [artikel 1, onder b, van de Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&artikel=1) wordt verricht.
 
 ## Bijlage. Controledocument, als bedoeld in artikel 149, sub c, van het Besluit personenvervoer
 
