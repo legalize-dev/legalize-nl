@@ -4,7 +4,7 @@ identifier: "BWBR0012356"
 country: "nl"
 rank: "kb"
 publication_date: "2019-07-01"
-last_updated: "2001-06-01"
+last_updated: "2005-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012356"
 soort: "KB"
@@ -42,17 +42,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Defensie;
 
 - b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=100), ter handhaving of bevordering van de vrede;
 
-- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2001-06-01&g=2001-06-01);
+- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2005-08-24&g=2005-08-24);
 
-- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2001-06-01&g=2001-06-01);
+- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2005-08-24&g=2005-08-24);
 
 - e. versierselen: herinneringsmedaille dan wel gesp.
+
+2. Met een vredesoperatie als bedoeld in het eerste lid, onder b, wordt gelijkgesteld de uitzending van politie, in overeenstemming met Onze Minister, ter handhaving of bevordering van de vrede.
 
 ##### Artikel 2
 
