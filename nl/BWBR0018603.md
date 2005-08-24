@@ -4,7 +4,7 @@ identifier: "BWBR0018603"
 country: "nl"
 rank: "kb"
 publication_date: "2005-08-24"
-last_updated: "2004-11-20"
+last_updated: "2005-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018603"
 soort: "KB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Indien een plaatsvervangend-lid een lid vervangt ter vergadering en/of voorbereiding, is [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018603&artikel=1&z=2005-08-24&g=2004-11-20) van overeenkomstige toepassing.
+1. Indien een plaatsvervangend-lid een lid vervangt ter vergadering en/of voorbereiding, is [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018603&artikel=1&z=2005-08-24&g=2005-08-24) van overeenkomstige toepassing.
 
 2. In afwijking van het eerste lid komt een plaatsvervangend-lid jaarlijks ook in aanmerking voor een vaste beloning voor een vergadering die kan worden aangemerkt als een start- en/of slotbijeenkomst van de commissie.
 
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018603&artikel=1&z=2005-08-24&g=2004-11-20) bedoelde vaste beloning kan niet meer bedragen dan 50% van de jaarwedde volgens het eerste niveau na schaal 18 van de bezoldiging van burgerlijke rijksambtenaren.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018603&artikel=1&z=2005-08-24&g=2005-08-24) bedoelde vaste beloning kan niet meer bedragen dan 50% van de jaarwedde volgens het eerste niveau na schaal 18 van de bezoldiging van burgerlijke rijksambtenaren.
 
 ##### Artikel 4
 
