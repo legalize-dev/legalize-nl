@@ -157,11 +157,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 Dit besluit wordt aangehaald als: Warenwetbesluit verpakkingen en gebruiksartikelen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-1. De importeur of zijn vertegenwoordiger is aan de Voedsel en Waren Autoriteit een retributie verschuldigd voor de materiële controles, bedoeld in artikel 6, eerste lid, onder b, van verordening (EU) 284/2011.
-
-2. Het tarief van de retributie, bedoeld in het eerste lid, wordt vastgesteld bij regeling van Onze Minister.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
