@@ -4,7 +4,7 @@ identifier: "BWBR0007887"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-03-15"
+last_updated: "2005-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007887"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 - c. maleïnezure esters en fumaarzure esters van eenwaardige alifatische verzadigde alcoholen met een ketenlengte C4-C8.
 
-2. Voor de vervaardiging van de in het eerste lid bedoelde polymeren mogen katalysatoren, polymerisatieregelaars, zuurteregelaars en oplosmiddelen zijn gebruikt welke voor het desbetreffende polymeer zijn toegelaten bij of krachtens het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003267), voor zover dat besluit ter zake regels stelt.
+2. Voor de vervaardiging van de in het eerste lid bedoelde polymeren mogen katalysatoren, polymerisatieregelaars, zuurteregelaars en oplosmiddelen zijn gebruikt welke voor het desbetreffende polymeer zijn toegelaten bij of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370), voor zover [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018370) ter zake regels stelt.
 
 3. Voor de vervaardiging van de in het eerste lid bedoelde kunststofdispersies mogen geen andere hulpstoffen worden gebruikt dan:
 
@@ -133,7 +133,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 - c. microkristallijne was.
 
-De onder a en c bedoelde paraffine en kristallijne was voldoen aan de ter zake bij of krachtens het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003267) gestelde zuiverheidseisen.
+De onder a en c bedoelde paraffine en kristallijne was voldoen aan de ter zake bij of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370) gestelde zuiverheidseisen.
 
 2. Bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen mogen, tot een gehalte van ten hoogste 50 %, uitsluitend worden toegevoegd:
 
@@ -147,7 +147,7 @@ De onder a en c bedoelde paraffine en kristallijne was voldoen aan de ter zake b
 
 - e. gecycliseerde rubber;
 
-- f. paraffine-olie, voor zover die voldoet aan de ter zake bij of krachtens het [Verpakkingen- en gebruiksartikelenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003267) gestelde zuiverheidseisen;
+- f. paraffine-olie, voor zover die voldoet aan de ter zake bij of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370) gestelde zuiverheidseisen;
 
 - g. esters van montaanzuren met ethaandiol of 1,3-butaandiol;
 
@@ -157,7 +157,7 @@ De onder a en c bedoelde paraffine en kristallijne was voldoen aan de ter zake b
 
 alsmede BHA tot ten hoogste 0,02 %.
 
-3. Onverminderd het tweede lid mogen bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen geen andere kleurstoffen worden gebruikt dan die, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2003-03-15&g=2003-03-15).
+3. Onverminderd het tweede lid mogen bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen geen andere kleurstoffen worden gebruikt dan die, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2005-08-31&g=2005-08-31).
 
 ##### Artikel 2a
 
@@ -173,9 +173,9 @@ alsmede BHA tot ten hoogste 0,02 %.
 
 2. Bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen mogen:
 
-- a. de bestanddelen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=2&z=2003-03-15&g=2003-03-15), worden toegevoegd tot ten hoogste 10%; en
+- a. de bestanddelen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=2&z=2005-08-31&g=2005-08-31), worden toegevoegd tot ten hoogste 10%; en
 
-- b. uitsluitend de kleurstoffen worden gebruikt, genoemd in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2003-03-15&g=2003-03-15), alsmede curcumine (E 100).
+- b. uitsluitend de kleurstoffen worden gebruikt, genoemd in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2005-08-31&g=2005-08-31), alsmede curcumine (E 100).
 
 ##### Artikel 3
 
