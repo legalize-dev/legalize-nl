@@ -4,7 +4,7 @@ identifier: "BWBR0018778"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-01"
-last_updated: "2001-07-12"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018778"
 soort: "wet"
@@ -44,7 +44,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I).
 
 ##### Artikel II
 
@@ -55,11 +55,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gezien de beschikking van de Europese Commissie van 17 februari 2003, nummer C (2003) 568 definitief, (PbEG L 180), wenselijk is de concernfinancieringsregeling in de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) onder invoering van een overgangsregeling, te laten vervallen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
