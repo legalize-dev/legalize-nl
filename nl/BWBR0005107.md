@@ -4,7 +4,7 @@ identifier: "BWBR0005107"
 country: "nl"
 rank: "wet"
 publication_date: "2005-09-01"
-last_updated: "1999-02-17"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005107"
 soort: "wet"
@@ -89,7 +89,7 @@ Zij die op het tijdstip van het in werking treden van de [Kadasterwet](https://w
 
 1. Overschrijvingen in de openbare registers voor registergoederen die op het tijdstip van het in werking treden van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) door de Rijksdienst worden gehouden, worden voor de toepassing van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) met inschrijvingen gelijkgesteld.
 
-2. Stukken die vóór het in het eerste lid bedoelde tijdstip op grond van het tevoren geldende recht hebben geleid tot het stellen van aantekeningen in de in het eerste lid bedoelde openbare registers maar daarin niet zijn in- dan wel overgeschreven, blijven, voor zover zij aan de kantoren van de Dienst berusten, aldaar bewaard en zijn openbaar.
+2. Stukken die vóór het in het eerste lid bedoelde tijdstip op grond van het tevoren geldende recht hebben geleid tot het stellen van aantekeningen in de in het eerste lid bedoelde openbare registers maar daarin niet zijn in- dan wel overgeschreven, blijven, voor zover zij aan de kantoren van de Dienst berusten, aldaar bewaard en zijn openbaar. [Artikel 9 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=9) is van overeenkomstige toepassing op de stukken, bedoeld in de eerste zin.
 
 ##### Artikel VIII
 
@@ -103,33 +103,25 @@ Een in een ingeschreven stuk gekozen woonplaats in Nederland van welk stuk de in
 
 ##### Artikel X
 
-1. Artikel 48, eerste lid, voor zover betreffend de naam van hypotheekhouders, artikel 48, tweede lid, onder **a**, **b**, **c** en **f**, voor zover betreffend rechten van hypotheek en inbeslagnemingen, en [artikel 48, tweede lid, onder **g**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48) vinden eerst toepassing, voor zover daartoe door Onze Minister is besloten. Een besluit als bedoeld in de eerste zin wijst aan de rechten van hypotheek en de inbeslagnemingen waarop de in de eerste zin genoemde bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) van toepassing worden, door ten minste de vermelding:
+1. Het vermelden in de kadastrale registratie van de wettelijke benaming, als bedoeld in [artikel 48, tweede lid, onder **c**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), vindt ten aanzien van beperkte rechten en beslagen, over- dan wel ingeschreven in de openbare registers vóór het in werking treden van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), slechts toepassing, indien daaromtrent op grond van de desbetreffende over- dan wel ingeschreven stukken voldoende zekerheid bestaat.
 
-- a. van het kantoor van de Dienst waar de desbetreffende ingeschreven stukken worden bewaard, en
-
-- b. vanaf welk tijdstip de desbetreffende stukken zijn ingeschreven.
-
-2. Een besluit als bedoeld in het eerste lid wordt in de **Staatscourant** geplaatst.
-
-3. Het vermelden in de kadastrale registratie van de wettelijke benaming, als bedoeld in [artikel 48, tweede lid, onder **c**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), vindt ten aanzien van beperkte rechten en beslagen, over- dan wel ingeschreven in de openbare registers vóór het in werking treden van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), slechts toepassing, indien daaromtrent op grond van de desbetreffende over- dan wel ingeschreven stukken voldoende zekerheid bestaat.
-
-4. Het vermelden in de kadastrale registratie van de verwijzing, als bedoeld in [artikel 48, tweede lid, onder **e**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), vindt ten aanzien van stukken, over- dan wel ingeschreven vóór het in werking treden van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), niet plaats, indien in de betrokken over- dan wel ingeschreven stukken de kadastrale aanduiding van de desbetreffende onroerende zaken niet of onvolledig is vermeld, met dien verstande dat, in geval van een onvolledige vermelding in die stukken, het vermelden van de verwijzing in de kadastrale registratie dienovereenkomstig geschiedt.
+2. Het vermelden in de kadastrale registratie van de verwijzing, als bedoeld in [artikel 48, tweede lid, onder **e**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), vindt ten aanzien van stukken, over- dan wel ingeschreven vóór het in werking treden van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), niet plaats, indien in de betrokken over- dan wel ingeschreven stukken de kadastrale aanduiding van de desbetreffende onroerende zaken niet of onvolledig is vermeld, met dien verstande dat, in geval van een onvolledige vermelding in die stukken, het vermelden van de verwijzing in de kadastrale registratie dienovereenkomstig geschiedt.
 
 ##### Artikel XI
 
-1. Voor zover een besluit als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=II&artikel=X&z=1999-02-17&g=1999-02-17), van dit hoofdstuk niet is genomen, wordt door Onze Minister geregeld in hoeverre en op welke wijze bijhouding van de kadastrale registratie plaatsvindt op grond van:
-
-- a. veranderingen betreffende ingeschreven rechten van hypotheek, voor zover deze blijken uit ingeschreven stukken als bedoeld in [artikel 54, eerste lid, onder **a**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=54), en
-
-- b. veranderingen betreffende hypotheekhouders, voor zover deze blijken uit inlichtingen, als bedoeld in [artikel 54, eerste lid, onder **b** en **c**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=54).
-
-2. Het bepaalde in het eerste lid is van overeenkomstige toepassing ten aanzien van de bijhouding, bedoeld in [artikel 54, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=54).
+Vervallen
 
 ##### Artikel XII
 
-1. [Artikel 58, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=58) vindt slechts toepassing met betrekking tot een rechthebbende op een recht van hypotheek, voor zover een besluit als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=II&artikel=X&z=1999-02-17&g=1999-02-17), van dit hoofdstuk is genomen.
+1. [Artikel 58, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=58) vindt met betrekking tot een rechthebbende op een recht van hypotheek toepassing voorzover een besluit daartoe door Onze Minister is genomen.
 
-2. In geval van bijhouding op grond van veranderingen als bedoeld in artikel XI, eerste lid, onder **a** en **b**, van dit hoofdstuk en in geval van bijhouding als bedoeld in het tweede lid van dat artikel, vindt [artikel 58, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=58) eveneens slechts toepassing, voor zover een besluit als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=II&artikel=X&z=1999-02-17&g=1999-02-17), van dit hoofdstuk is genomen.
+2. Ingeval van bijhouding op grond van een:
+
+- a. verandering betreffende een ingeschreven recht van hypotheek voorzover die blijkt uit ingeschreven stukken als bedoeld in [artikel 54, eerste lid, onderdeel a, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=54), en
+
+- b. verandering betreffende een hypotheekhouder voorzover die blijkt uit inlichtingen als bedoeld in [artikel 54, eerste lid, onderdelen b en c, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=54),
+
+vindt [artikel 58, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=58) toepassing voorzover een besluit als bedoeld in het eerste lid is genomen.
 
 ##### Artikel XIII
 
@@ -141,43 +133,19 @@ Indien op het tijdstip van het in werking treden van de [Kadasterwet](https://we
 
 ##### Artikel XV
 
-1. Artikel 85, eerste lid, voor zover betreffende de naam van hypotheekhouders, artikel 85, tweede lid, onder **a**, **b**, **c** en **i**, voor zover betreffend rechten van hypotheek en inbeslagnemingen, en [artikel 85, tweede lid, onder **k**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) vinden eerst toepassing, voor zover daartoe door Onze Minister is besloten. Een besluit als bedoeld in de eerste zin wijst aan de rechten van hypotheek en de inbeslagnemingen waarop de in de eerste zin genoemde bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) van toepassing worden, door ten minste de vermelding
-
-- a. van het kantoor van de Dienst waar de desbetreffende ingeschreven stukken worden bewaard, en
-
-- b. vanaf welk tijdstip de desbetreffende stukken zijn ingeschreven.
-
-2. Een besluit als bedoeld in het eerste lid wordt in de **Staatscourant** geplaatst.
+Vervallen
 
 ##### Artikel XVI
 
-1. Voor zover een besluit als bedoeld in [artikel XV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=II&artikel=XV&z=1999-02-17&g=1999-02-17), van dit hoofdstuk niet is genomen, wordt door Onze Minister geregeld in hoeverre en op welke wijze bijhouding van de registratie voor schepen plaatsvindt op grond van:
-
-- a. veranderingen betreffende ingeschreven rechten van hypotheek, voor zover deze blijken uit ingeschreven stukken als bedoeld in [artikel 87, eerste lid, onder **a**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87), en
-
-- b. veranderingen betreffende hypotheekhouders, voor zover deze blijken uit inlichtingen, als bedoeld in [artikel 87, eerste lid, onder **b** en **c**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87).
-
-2. Het bepaalde in het eerste lid is van overeenkomstige toepassing ten aanzien van de bijhouding, bedoeld in [artikel 87, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87).
+Vervallen
 
 ##### Artikel XVII
 
-1. Artikel 92, eerste lid, voor zover betreffend de naam van hypotheekhouders, artikel 92, tweede lid, onder **a**, **b**, **c** en **i**, voor zover betreffend rechten van hypotheek en inbeslagnemingen, en [artikel 92, tweede lid, onder **k**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92) vinden eerst toepassing, voor zover daartoe door Onze Minister is besloten. Een besluit als bedoeld in de eerste zin wijst aan de rechten van hypotheek en de inbeslagnemingen waarop de in de eerste zin genoemde bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) van toepassing worden, door ten minste de vermelding:
-
-- a. van het kantoor van de Dienst waar de desbetreffende ingeschreven stukken worden bewaard, en
-
-- b. vanaf welk tijdstip de desbetreffende stukken zijn ingeschreven.
-
-2. Een besluit als bedoeld in het eerste lid wordt in de **Staatscourant** geplaatst.
+Vervallen
 
 ##### Artikel XVIII
 
-1. Voor zover een besluit als bedoeld in [artikel XVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=II&artikel=XVII&z=1999-02-17&g=1999-02-17), van dit hoofdstuk niet is genomen, wordt door Onze Minister geregeld in hoeverre en op welke wijze bijhouding van de registratie voor luchtvaartuigen plaatsvindt op grond van:
-
-- a. veranderingen betreffende ingeschreven rechten van hypotheek, voor zover deze blijken uit ingeschreven stukken als bedoeld in [artikel 94, eerste lid, onder **a**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=94), en
-
-- b. veranderingen betreffende hypotheekhouders, voor zover deze blijken uit inlichtingen, als bedoeld in [artikel 94, eerste lid, onder **b** en **c**, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=94).
-
-2. Het bepaalde in het eerste lid is van overeenkomstige toepassing ten aanzien van de bijhouding, bedoeld in [artikel 94, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=94).
+Vervallen
 
 ### Hoofdstuk III. Aanpassing van andere wetten
 
@@ -249,7 +217,7 @@ Het **koninklijk besluit van 24 april 1984 (Stb. 193**) tot instelling van een v
 
 ##### Artikel XII
 
-1. Onze Minister van Justitie brengt in de ingevolge artikel I van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=I&z=1999-02-17&g=1999-02-17) van deze wet gewijzigde [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) de aanhaling van afdelingen, artikelen en artikelleden van het Burgerlijk Wetboek, het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838) en het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) in overeenstemming met de door hem op grond van de [Invoeringswet Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005048) en van de Invoeringswet Boek 8 B.W. opnieuw vastgestelde nummering.
+1. Onze Minister van Justitie brengt in de ingevolge artikel I van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005107&hoofdstuk=I&z=2005-09-01&g=2005-09-01) van deze wet gewijzigde [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) de aanhaling van afdelingen, artikelen en artikelleden van het Burgerlijk Wetboek, het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838) en het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) in overeenstemming met de door hem op grond van de [Invoeringswet Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005048) en van de Invoeringswet Boek 8 B.W. opnieuw vastgestelde nummering.
 
 2. Onze Minister van Justitie plaatst de tekst van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541) in het Staatsblad.
 
