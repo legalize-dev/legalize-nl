@@ -4,7 +4,7 @@ identifier: "BWBR0006596"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-10"
-last_updated: "2005-07-16"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006596"
 soort: "ministeriele-regeling"
@@ -129,15 +129,15 @@ Bij de aanbieding ter inschrijving van de volgende stukken behoeft geen afschrif
 
 - a. de tekeningen moeten in zwarte inkt op het formulier, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), zijn overgenomen, waarbij geen kleuren mogen worden gebruikt;
 
-- b. wordt een tekening gesteld na de verklaring van eensluidendheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-07-16&g=2005-07-16), dan behoort deze verklaring onder de tekening te worden herhaald.
+- b. wordt een tekening gesteld na de verklaring van eensluidendheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-09-01&g=2005-09-01), dan behoort deze verklaring onder de tekening te worden herhaald.
 
 2. In afwijking van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11) kan van een tekening een niet op een door de Dienst verstrekt formulier gesteld afschrift worden aangeboden, ingeval naar het oordeel van de bewaarder de figuratie te groot of te ingewikkeld is om zonder bezwaar op bedoeld formulier te worden overgenomen.
 
-3. Het niet op een door de Dienst verstrekt formulier gesteld afschrift, bedoeld in het tweede lid, moet zijn voorzien van een verklaring van eensluidendheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-07-16&g=2005-07-16).
+3. Het niet op een door de Dienst verstrekt formulier gesteld afschrift, bedoeld in het tweede lid, moet zijn voorzien van een verklaring van eensluidendheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=3&z=2005-09-01&g=2005-09-01).
 
 ##### Artikel 6
 
-1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2005-07-16&g=2005-07-16), moet de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), voldoen aan de volgende vereisten:
+1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=5&z=2005-09-01&g=2005-09-01), moet de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), voldoen aan de volgende vereisten:
 
 - a. elk blad waaruit de tekening bestaat vermeldt de kadastrale aanduiding van het in de splitsing in appartementsrechten betrokken perceel en elk blad wordt door de desbetreffende notaris gewaarmerkt;
 
@@ -165,7 +165,7 @@ Bij de aanbieding ter inschrijving van de volgende stukken behoeft geen afschrif
 
 3. In afwijking van het eerste lid, onder i, kan een kleinere schaal worden gebruikt voor een situatieschets, welke met het oog op het aan het slot van het eerste lid, onder c, omschreven vereiste, op de tekening wordt aangebracht, als overzicht van de overige afbeeldingen.
 
-4. In geval van ondersplitsing in appartementsrechten worden de omkringde nummers, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=28&z=2005-07-16&g=2005-07-16), op de tekening gesteld in de linkerbovenhoek van elk van de desbetreffende gedeelten.
+4. In geval van ondersplitsing in appartementsrechten worden de omkringde nummers, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=28&z=2005-09-01&g=2005-09-01), op de tekening gesteld in de linkerbovenhoek van elk van de desbetreffende gedeelten.
 
 ##### Artikel 7
 
@@ -217,7 +217,7 @@ Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende
 
 2. In de kadastrale registratie worden tevens de volgende gegevens met betrekking tot onroerende zaken opgenomen:
 
-- a. het feit dat een onroerende zaak is gelegen in een herverkavelingsblok als bedoeld in [artikel 161 van de de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=161), dan wel in een gebied als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1) of [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1);
+- a. het feit dat een onroerende zaak is gelegen in een herverkavelingsblok als bedoeld in [artikel 161 van de de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=161), dan wel in een gebied als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) of [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1);
 
 - b. het feit dat afwijkingen bestaan tussen de lijst van rechthebbenden, bedoeld in [artikel 188 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=188), [artikel 68 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=68), dan wel in [artikel 53 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=53) en de kadastrale registratie;
 
@@ -233,7 +233,7 @@ Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende
 
 - 1°. ondercuratelestelling van een rechthebbende;
 
-- 2°. faillietverklaring van een rechthebbende;
+- 2°. faillietverklaring van een rechthebbende;s
 
 - 3°. surséance van betaling, verleend aan een rechthebbende;
 
@@ -379,9 +379,9 @@ Indien in een in te schrijven stuk de plaatselijke aanduiding van een onroerende
 
 - een besluit inzake verbodsbepalingen betreffende wateren;
 
-- k. de vermelding van het soort van mutatie waar het bij de desbetreffende bijhouding om gaat;
+- k. met betrekking tot een appartementsrecht:
 
-- l. met betrekking tot elke notariële akte en notariële verklaring betreffende onroerende zaken en rechten waaraan die zaken zijn onderworpen: de naam en standplaats van de notaris door wie of door wiens plaatsvervanger de akte is verleden onderscheidenlijk de verklaring is opgemaakt.
+- de naam en de woonplaats met adres van de bestuurder of bestuurders van de vereniging van eigenaars, bedoeld in [artikel 131, eerste lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=131).
 
 ### Hoofdstuk 5. Bijwerking van de kadastrale registratie en de kadastrale kaarten
 
@@ -415,15 +415,15 @@ Indien uit een ingeschreven stuk blijkt dat sprake is van een trust, wordt in de
 
 ##### Artikel 18
 
-1. De Dienst doet van het voornemen tot het houden van een onderzoek, al dan niet op verzoek van een belanghebbende, naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=29&z=2005-07-16&g=2005-07-16) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), mededeling aan belanghebbenden door middel van een brief.
+1. De Dienst doet van het voornemen tot het houden van een onderzoek, al dan niet op verzoek van een belanghebbende, naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=29&z=2005-09-01&g=2005-09-01) dan wel in [artikel 35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), mededeling aan belanghebbenden door middel van een brief.
 
-2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-07-16&g=2005-07-16), is van toepassing.
+2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-09-01&g=2005-09-01), is van toepassing.
 
 ##### Artikel 19
 
 1. De Dienst doet van het voornemen tot het ter plaatse inwinnen van nadere inlichtingen, bedoeld in [artikel 73, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=73), mededeling aan belanghebbenden door middel van een brief.
 
-2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-07-16&g=2005-07-16), is van toepassing.
+2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=5&artikel=17&z=2005-09-01&g=2005-09-01), is van toepassing.
 
 ##### Artikel 20
 
@@ -515,23 +515,23 @@ Het relaas van bevindingen bevat tenminste naast de gegevens die op grond van de
 
 5. Bij het formulier worden twee exemplaren overgelegd van de in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109) bedoelde tekening.
 
-6. De in het vijfde lid bedoelde tekening kan uit meer dan één blad bestaan. Elk blad vermeldt de in het derde lid, onder a, bedoelde gegevens, alsmede de dagtekening van het verzoek en elk blad wordt door de notaris die het formulier ondertekent, gewaarmerkt. Het bevat een open ruimte, bestemd voor de verklaring bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-07-16&g=2005-07-16).
+6. De in het vijfde lid bedoelde tekening kan uit meer dan één blad bestaan. Elk blad vermeldt de in het derde lid, onder a, bedoelde gegevens, alsmede de dagtekening van het verzoek en elk blad wordt door de notaris die het formulier ondertekent, gewaarmerkt. Het bevat een open ruimte, bestemd voor de verklaring bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01).
 
 7. De notaris die het formulier ondertekent, verklaart daarin uit hoeveel bladen de tekening bestaat, en tevens, dat de overgelegde exemplaren van de tekening onderling geheel gelijkluidend zijn.
 
-8. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=6&z=2005-07-16&g=2005-07-16) is van overeenkomstige toepassing.
+8. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=2&artikel=6&z=2005-09-01&g=2005-09-01) is van overeenkomstige toepassing.
 
 ##### Artikel 27
 
-1. Nadat de Dienst heeft bevonden dat de tekening, bedoeld in [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-07-16&g=2005-07-16), voldoet aan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-07-16&g=2005-07-16) bedoelde vereisten, stelt de Dienst het complexnummer vast.
+1. Nadat de Dienst heeft bevonden dat de tekening, bedoeld in [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01), voldoet aan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) bedoelde vereisten, stelt de Dienst het complexnummer vast.
 
-2. De beide exemplaren van het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-07-16&g=2005-07-16) bedoelde formulier en elk exemplaar van elk blad van de daarbij overgelegde tekening worden voorzien van een door de bewaarder gedagtekende en ondertekende verklaring, aangevend hoe de complexaanduiding luidt.
+2. De beide exemplaren van het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) bedoelde formulier en elk exemplaar van elk blad van de daarbij overgelegde tekening worden voorzien van een door de bewaarder gedagtekende en ondertekende verklaring, aangevend hoe de complexaanduiding luidt.
 
 Daarna zendt de bewaarder aan de notaris die het formulier heeft ondertekend, één exemplaar van dit formulier en één exemplaar van de tekening terug.
 
 ##### Artikel 28
 
-1. In geval van een ondersplitsing van een appartementsrecht als bedoeld in [artikel 106, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106), zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-07-16&g=2005-07-16) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-07-16&g=2005-07-16) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
+1. In geval van een ondersplitsing van een appartementsrecht als bedoeld in [artikel 106, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106), zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
 
 2. De tekening die bij het verzoek betreffende de voorgenomen ondersplitsing wordt overgelegd, stemt geheel overeen met de laatste ingeschreven tekening, met dien verstande dat binnen de begrenzing van het gedeelte van de gebouwen en de grond, waarvan het uitsluitend gebruik in het onder te splitsen appartementsrecht begrepen is, de begrenzingen worden aangegeven van de onderscheidene gedeelten die bestemd zijn om na de voorgenomen ondersplitsing als afzonderlijk geheel te worden gebruikt en waarvan volgens de akte van ondersplitsing het uitsluitend gebruik in de onderscheidene nieuwe appartementsrechten zal zijn begrepen.
 
@@ -541,7 +541,7 @@ Tevens wordt elk van deze gedeelten en die waarvan na de ondersplitsing het uits
 
 ##### Artikel 29
 
-1. In geval van een wijziging van de akte van splitsing als bedoeld in [artikel 139 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=139), die niet uitsluitend betrekking heeft op het reglement, zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-07-16&g=2005-07-16) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-07-16&g=2005-07-16) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
+1. In geval van een wijziging van de akte van splitsing als bedoeld in [artikel 139 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=139), die niet uitsluitend betrekking heeft op het reglement, zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=26&z=2005-09-01&g=2005-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=7&artikel=27&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing, met dien verstande dat het bestaande complexnummer gehandhaafd wordt en behoudens het tweede en derde lid.
 
 2. De appartementsindices blijven bij wijziging van de akte van splitsing gehandhaafd, voor zover deze wijziging niet een verandering betreft in de begrenzing van enig gedeelte van de gebouwen of de grond, dat al dan niet tezamen met andere gedeelten voor gebruik als afzonderlijk geheel is bestemd en waarvan het uitsluitend gebruik in een appartementsrecht is begrepen.
 
@@ -649,7 +649,7 @@ Indien uit een ingeschreven stuk blijkt dat sprake is van een trust, wordt in de
 
 ##### Artikel 38
 
-De in artikel 15 van de Maatregel teboekgestelde luchtvaartuigen 1996 bedoelde verzoeken en aangiften hebben de vorm van de modellen die als [bijlagen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=14&z=2005-07-16&g=2005-07-16) bij deze regeling zijn gevoegd.
+De in artikel 15 van de Maatregel teboekgestelde luchtvaartuigen 1996 bedoelde verzoeken en aangiften hebben de vorm van de modellen die als [bijlagen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&bijlage=14&z=2005-09-01&g=2005-09-01) bij deze regeling zijn gevoegd.
 
 ##### Artikel 39
 
@@ -733,7 +733,7 @@ Niet opgenomen.
 
 Niet opgenomen.
 
-## Bijlage 14. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-07-16&g=2005-07-16) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 14. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Verzoek tot teboekstelling van een luchtvaartuig**
 
@@ -791,7 +791,7 @@ Totaal der bijlagen: …
 
 **...**
 
-## Bijlage 15. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-07-16&g=2005-07-16) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 15. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Verzoek tot doorhaling van de teboekstelling van een luchtvaartuig**
 
@@ -823,7 +823,7 @@ Teneinde de machtiging tot deze doorhaling te verkrijgen, worden aan de arrondis
 
 Totaal der bijlagen: …
 
-## Bijlage 16. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-07-16&g=2005-07-16) van de Uitvoeringsregeling Kadasterwet 1994
+## Bijlage 16. als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&hoofdstuk=9&artikel=38&z=2005-09-01&g=2005-09-01) van de Uitvoeringsregeling Kadasterwet 1994
 
 **Aangifte**
 
