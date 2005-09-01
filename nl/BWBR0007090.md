@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2004-05-31"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - d. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (uitvoerkentekenbewijs): model 4.1;
 
-- e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers, de lettergroep BO en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers: model 5.1;
+- e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers: model 5.1;
 
 - f. een deel II van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig of een aanhangwagen dan wel voor een bedrijfsauto: model 10.1;
 
@@ -64,9 +64,9 @@ In deze regeling wordt verstaan onder:
 
 - h. een overschrijvingsbewijs: model 13.1;
 
-- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
+- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
 
-- j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers: model 15.1;
+- j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers: model 15.1;
 
 - k. een bedrijfsvoorraad deel I B: model 16.1;
 
@@ -144,11 +144,13 @@ Onverminderd [artikel 33, eerste lid, van het Kentekenreglement](https://wetten.
 
 - a. een motorfiets,
 
-- b. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
+- b. bromfiets,
 
-- c. een aanhangwagen, of;
+- c. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
 
-- d. een ander voertuig dan de in de onderdelen a, b en c genoemde, voor zover het voertuig 15 jaar of ouder is.
+- d. een aanhangwagen, of;
+
+- e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, voor zover het voertuig 15 jaar of ouder is.
 
 3. Indien door degene aan wie een kentekenbewijs is afgegeven, wordt gemeld dat het voertuig waarvoor dat bewijs is afgegeven, definitief is bestemd voor gebruik buiten de weg als bedoeld in [artikel 37, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=37), verklaart de Dienst Wegverkeer het kentekenbewijs ongeldig indien het voertuig bestemd is om als voertuig buiten de weg te worden gebruikt ten behoeve van:
 
@@ -168,7 +170,9 @@ Onverminderd [artikel 33, eerste lid, van het Kentekenreglement](https://wetten.
 
 ##### Artikel 9. Overgangsbepaling
 
-Op basis van de Wegenverkeerswet afgegeven modellen van kentekenbewijzen en delen daarvan, registratiebewijzen, kopieën deel III en ontvangstbewijzen behouden hun geldigheid tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) hun geldigheid verliezen. Op basis van de Wegenverkeerswet afgegeven modellen vrijwaringsbewijzen behouden hun geldigheid.
+1. Op basis van de Wegenverkeerswet afgegeven modellen van kentekenbewijzen en delen daarvan, registratiebewijzen, kopieën deel III en ontvangstbewijzen behouden hun geldigheid tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) hun geldigheid verliezen. Op basis van de Wegenverkeerswet afgegeven modellen vrijwaringsbewijzen behouden hun geldigheid.
+
+2. Ontvangstbewijzen afgegeven volgens model D.2 van de bijlage zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326&wetgeving) (Stb. 281), blijven geldig tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) hun geldigheid verliezen.
 
 ##### Artikel 10
 
@@ -226,7 +230,7 @@ Aan het uitvoerkentekenbewijs is tevens een groene en een gele doorslag gehecht,
 
 welke zijn bestemd voor de geregistreerde eigenaar/houder respectievelijk voor de Dienst Wegverkeer.
 
-Model 5.1 Deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers, de lettergroep BO en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers
+Model 5.1 Deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers
 
 Voorzijde (kleur:wit en grijs)
 
@@ -268,7 +272,7 @@ Achterzijde kleur: overwegend groen
 
 Model 14.1
 
-**Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken**
+Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken.
 
 **Voorzijde (kleur: wit en grijs)**
 
@@ -276,7 +280,7 @@ Model 14.1
 
 Model 15.1
 
-**Deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, GV of BO en twee groepen van twee cijfers**
+Deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers.
 
 **Voorzijde (kleur: wit)**
 
@@ -318,7 +322,7 @@ Kleur: groen
 
 Model C.1 Ontvangstbewijs dat wordt verstrekt door de Dienst Wegverkeer na een aanvraag van een kentekenbewijs of deel daarvan
 
-Vervallen.
+Vervallen
 
 Model D.1 Ingevolge artikel 39, derde lid, van het Kentekenreglement afgegeven ontvangstbewijs
 
