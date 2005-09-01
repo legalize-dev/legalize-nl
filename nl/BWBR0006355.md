@@ -4,7 +4,7 @@ identifier: "BWBR0006355"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-29"
-last_updated: "2004-01-01"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006355"
 soort: "wet"
@@ -113,7 +113,7 @@ Bevat wijzigingen in andere regelgeving.
 
 5. In afwijking van het tweede lid heeft de vrouwelijke werknemer de in dat lid bedoelde aanspraak niet gedurende de periode dat zij zwangerschaps- of bevallingsverlof geniet overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1).
 
-6. Voor de toepassing van het tweede en vierde lid worden perioden waarin betrokkene wegens ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is om zijn dienst te verrichten of zijn ambt te vervullen, samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen. Bij de vaststelling van de periode van vier weken blijven perioden, waarin zwangerschaps- of bevallingsverlof wordt genoten overeen-komstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), buiten beschouwing.
+6. Voor de toepassing van het tweede en vierde lid worden perioden waarin betrokkene wegens ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling verhinderd is om zijn dienst te verrichten of zijn ambt te vervullen, samengeteld indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
 7. Het tweede lid is niet van toepassing op zakgeldgenietenden.
 
@@ -185,7 +185,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XVIII
 
-1. Degene die op grond van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=IV&artikel=XVII&z=2004-01-01&g=2004-01-01) aanspraken heeft verkregen die voortvloeien uit [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) of [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) behoudt deze aanspraken, indien:
+1. Degene die op grond van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=IV&artikel=XVII&z=2005-09-01&g=2005-09-01) aanspraken heeft verkregen die voortvloeien uit [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) of [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) behoudt deze aanspraken, indien:
 
 - a. hij op 30 juni 1994 ongeschikt is tot werken wegens ziekte, zolang die ongeschiktheid duurt; of
 
@@ -195,7 +195,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel XIX
 
-1. De bepaling van [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=II&artikel=XIV&z=2004-01-01&g=2004-01-01) is niet van toepassing op de arbeidsverhoudingen van personen:
+1. De bepaling van [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=II&artikel=XIV&z=2005-09-01&g=2005-09-01) is niet van toepassing op de arbeidsverhoudingen van personen:
 
 - a. die op de dag vóór de inwerkingtreding van deze wet ongeschikt zijn tot het verrichten van hun arbeid wegens ziekte, zolang die ongeschiktheid duurt; of
 
@@ -213,9 +213,9 @@ De tekst van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wor
 
 ##### Artikel XXII
 
-1. De artikelen van deze wet, met uitzondering van [artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2004-01-01&g=2004-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De artikelen van deze wet, met uitzondering van [artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2005-09-01&g=2005-09-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2004-01-01&g=2004-01-01), treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.
+2. [Artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2005-09-01&g=2005-09-01), treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.
 
 ##### ARTIKEL XXIII
 
