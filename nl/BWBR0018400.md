@@ -4,7 +4,7 @@ identifier: "BWBR0018400"
 country: "nl"
 rank: "wet"
 publication_date: "2005-09-01"
-last_updated: "2005-06-22"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018400"
 soort: "wet"
@@ -43,16 +43,22 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is met spoed in de [Wet 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16, eerste lid, van de Tijdelijke referendumwet.
+
 ##### Artikel I
 
 Wijzigt de Wet op de Ruimtelijke Ordening.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 49 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49), zoals dat luidde voor het tijdstip van inwerkingtreding van deze wet, blijft van toepassing op aanvragen om vergoeding van schade die voor dat tijdstip zijn ingediend.
+
+2. Een aanvraag om vergoeding van schade als bedoeld in [artikel 49, eerste lid, onder a, b, c of f](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49), moet voorzover de desbetreffende bepaling van het bestemmingsplan onderscheidenlijk het desbetreffende besluit voor het tijdstip van inwerkingtreding van deze wet onherroepelijk is geworden, binnen vijf jaar na dat tijdstip worden ingediend.
+
+3. Een aanvraag om vergoeding van schade als bedoeld in [artikel 49, eerste lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49), moet voorzover de bestemmingsplanbepaling ten behoeve waarvan de aanhouding heeft plaatsgevonden, onderscheidenlijk het deel van het bestemmingsplan op de totstandkoming waarvan de aanwijzing is gericht, voor het tijdstip van inwerkingtreding van deze wet onherroepelijk is geworden, binnen vijf jaar na dat tijdstip worden ingediend.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018400&artikel=I&z=2005-09-01&g=2005-09-01), dat onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) in werking treedt met ingang van de dag na de hiervoor aangeduide datum.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
