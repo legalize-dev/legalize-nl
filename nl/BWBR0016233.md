@@ -4,7 +4,7 @@ identifier: "BWBR0016233"
 country: "nl"
 rank: "wet"
 publication_date: "2005-09-01"
-last_updated: "2004-12-30"
+last_updated: "2005-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016233"
 soort: "wet"
@@ -42,6 +42,8 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om een verlenging va
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
 ##### Artikel I. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
@@ -62,7 +64,7 @@ Wijzigt de Ziektewet.
 
 - A. Wijzigt de Wet terugdringing ziekteverzuim.
 
-- B. De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2004-12-30&g=2004-12-30), worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50) en [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften respectievelijk het bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
+- B. De wijzigingen in [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), bedoeld in [artikel II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016233&artikel=II&z=2005-09-01&g=2005-09-01), worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op [artikel 125 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125), [artikel 50, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=50) en [artikel 12 van de Militaire Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) gebaseerde voorschriften respectievelijk het bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
 
 ##### Artikel VI. [Wet arbeid mijnbouw Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005703)
 
@@ -98,9 +100,9 @@ Onze Ministers van Sociale Zaken en Werkgelegenheid en Justitie zenden binnen 4 
 
 ##### Artikel XIV. Overgangsrecht
 
-1. Ten aanzien van de persoon wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor 1 januari 2004 blijven de [artikelen XV van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV), [3 van de Wet arbeid mijnbouw Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005703&artikel=3), en [415a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415a), [415c](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415c) en [415d van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415d) van toepassing, zoals deze luidden op 31 december 2003.
+1. Ten aanzien van de persoon wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor 1 januari 2004 blijven de [artikelen XV, met uitzondering van het zesde lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV), [3 van de Wet arbeid mijnbouw Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005703&artikel=3), en [415a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415a), [415c](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415c) en [415d van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=415d) van toepassing, zoals deze luidden op 31 december 2003.
 
-2. Voor de toepassing van het eerste lid worden perioden van ongeschiktheid tot werken geacht eenzelfde, niet onderbroken periode van ongeschiktheid te vormen, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen. Bij de vaststelling van de periode van vier weken blijven perioden, waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), buiten beschouwing.
+2. Voor de bepaling van de eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, zwangerschap of bevalling, bedoeld in het eerste lid, worden perioden van ongeschiktheid tot werken geacht eenzelfde, niet onderbroken periode van ongeschiktheid te vormen, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig [artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
 
 ##### Artikel XV. Inwerkingtreding
 
