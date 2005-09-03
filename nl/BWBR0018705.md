@@ -4,7 +4,7 @@ identifier: "BWBR0018705"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-01-01"
-last_updated: "2005-03-01"
+last_updated: "2005-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018705"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De projectdirecteur Leren en Werken heeft tot taak om in lijn met de Lissabondoe
 
 ##### Artikel 3
 
-De projectdirecteur Leren en Werken is bevoegd om namens de Minister van Sociale Zaken en Werkgelegenheid besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018705&artikel=2&z=2005-09-03&g=2005-03-01).
+De projectdirecteur Leren en Werken is bevoegd om namens de Minister van Sociale Zaken en Werkgelegenheid besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018705&artikel=2&z=2005-09-03&g=2005-09-03).
 
 ##### Artikel 4
 
