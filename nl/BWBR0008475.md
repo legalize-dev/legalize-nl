@@ -4,7 +4,7 @@ identifier: "BWBR0008475"
 country: "nl"
 rank: "amvb"
 publication_date: "2006-08-02"
-last_updated: "2003-05-23"
+last_updated: "2005-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008475"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - e. pensioenverzekeringsautoriteit: een door Onze Minister aan te wijzen medisch adviseur, die hem adviseert omtrent de pensioenverzekeringsaspecten;
 
-- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=2003-05-23&g=2003-05-23).
+- f. commissie: de commissie genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008475&paragraaf=2&artikel=3&z=2003-05-23&g=2005-09-05).
 
 #### Paragraaf 2. Het geneeskundig onderzoek naar blijvende dienstongeschiktheid
 
