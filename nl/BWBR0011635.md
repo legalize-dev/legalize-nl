@@ -4,7 +4,7 @@ identifier: "BWBR0011635"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-10-01"
-last_updated: "2000-10-01"
+last_updated: "2005-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011635"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ Dit besluit treedt in werking met ingang van 1 oktober 2000.
 
 Dit besluit wordt aangehaald als: Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten.
 
-## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2000-10-01) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
+## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2005-09-05) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
 
-Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2000-10-01) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
+Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2005-09-05) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
 
 ##### A.. Vaste objecten
 
