@@ -4,7 +4,7 @@ identifier: "BWBR0018675"
 country: "nl"
 rank: "zbo"
 publication_date: "2005-09-08"
-last_updated: "2005-09-01"
+last_updated: "2005-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018675"
 soort: "zbo"
@@ -55,7 +55,7 @@ Deze beleidsregel is van toepassing op de student, die een educatieve masterople
 
 ##### Artikel 3. Het verzoek
 
-De student bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018675&artikel=2&z=2005-09-08&g=2005-09-01) kan op verzoek in aanmerking komen voor een verlenging van de prestatiebeurs van maximaal 12 maanden.
+De student bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018675&artikel=2&z=2005-09-08&g=2005-09-08) kan op verzoek in aanmerking komen voor een verlenging van de prestatiebeurs van maximaal 12 maanden.
 
 ##### Artikel 4. Reikwijdte
 
