@@ -4,7 +4,7 @@ identifier: "BWBR0018517"
 country: "nl"
 rank: "circulaire"
 publication_date: "2005-09-09"
-last_updated: "2005-07-06"
+last_updated: "2005-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018517"
 soort: "circulaire"
@@ -70,11 +70,9 @@ Tegen deze achtergrond zijn onderstaande afspraken gemaakt.
 
 ### 2.2. **Loondoorbetaling gedurende de eerste twee jaar van ziekte**
 
-De loondoorbetaling wordt gewijzigd. In het eerste ziektejaar bedraagt de loondoorbetaling 100% en in het tweede ziektejaar 70% van de bezoldiging. Voor alle duidelijkheid: dit betekent dat in het tweede ziektejaar over gewerkte uren 100% wordt doorbetaald en over niet gewerkte uren 70%. Als berekeningsbasis van de percentages blijft gelden de laatstgenoten bezoldiging van de ambtenaar.
+De loondoorbetaling wordt gewijzigd. In het eerste ziektejaar bedraagt de loondoorbetaling 100% en in het tweede ziektejaar 70% van de bezoldiging. Voor alle duidelijkheid: dit betekent dat in het tweede ziektejaar over gewerkte uren 100% wordt doorbetaald en over niet gewerkte uren 70%. Als berekeningsbasis van de percentages blijft gelden de bezoldiging van de ambtenaar.
 
-De pensioenopbouw vindt plaats over de ongekorte bezoldiging.
-
-Het nieuwe aansprakenniveau geldt voor de groep ambtenaren die op of na 1 januari 2004 ziek is geworden en gaat in per 1 oktober 2005.
+De pensioenopbouw vindt plaats over de ongekorte bezoldiging. Het nieuwe aansprakenniveau geldt voor de groep ambtenaren die op of na 1 januari 2004 ziek is geworden en gaat in per 1 oktober 2005.
 
 De administratieve uitvoering van deze afspraak geschiedt als volgt:
 
@@ -82,9 +80,9 @@ In voorkomende gevallen dient u de door u zelf berekende toelage als bruto belas
 
 Ook is nog in onderzoek of het haalbaar is om de korting automatisch te laten berekenen. Zodra daar uitsluitsel over is wordt u daarover bericht.
 
-### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
+Ook is nog in onderzoek of het haalbaar is om de korting automatisch te laten berekenen. Zodra daar uitsluitsel over is wordt u daarover bericht.
 
-In aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063), zijn specifieke nadere afspraken gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
+### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
 
 In het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) was al een aantal instrumenten neergelegd om te komen tot de reïntegratie van de zieke ambtenaar waardoor instroom in de WAO kan worden voorkomen.
 
@@ -110,9 +108,9 @@ Indien de ambtenaar bereid is de hier bedoelde arbeid te verrichten, krijgt hij 
 
 Indien de ambtenaar na twee jaar nog niet is geplaatst in een andere functie wordt door het bevoegd gezag beoordeeld of verdere reïntegratie-activiteiten zullen leiden tot plaatsing van de ambtenaar in een andere functie. Hierbij wordt de opvatting van de ambtenaar betrokken. Als de ambtenaar beschikt over voldoende restcapaciteit en zich actief opstelt in het reïntegratietraject, zal van de mogelijkheid hem ontslag te verlenen op grond van ongeschiktheid wegens ziekte worden afgezien. In dat geval wordt de uitvoering van reïntegratie-activiteiten voortgezet.
 
-### 2.4. **Beroepsrisico’s**
+Indien de ambtenaar na twee jaar nog niet is geplaatst in een andere functie wordt door het bevoegd gezag beoordeeld of verdere reïntegratie-activiteiten zullen leiden tot plaatsing van de ambtenaar in een andere functie. Hierbij wordt de opvatting van de ambtenaar betrokken. Als de ambtenaar beschikt over voldoende restcapaciteit en zich actief opstelt in het reïntegratietraject, zal van de mogelijkheid hem ontslag te verlenen op grond van ongeschiktheid wegens ziekte worden afgezien. In dat geval wordt de uitvoering van reïntegratie-activiteiten voortgezet.
 
-Met betrekking tot ambtenaren die arbeidsongeschikt zijn geraakt door een dienstongeval of een beroepsziekte hebben partijen het volgende afgesproken.
+### 2.4. **Beroepsrisico’s**
 
 In materiële zin wijzigt de rechtspositie van de bedoelde ambtenaren niet. De werkgever erkent de aansprakelijkheid voor beroepsrisico’s (i.e. dienstongevallen en beroepsziekten). Op grond van die aansprakelijkheid is de werkgever bereid in het geval van dienstongevallen of beroepsziekten een schadevergoeding toe te kennen die neerkomt op een volledige compensatie van de loonschade.
 
@@ -122,6 +120,26 @@ De criteria om te bepalen óf er sprake is van een dienstongeval of beroepsziekt
 
 De ambtenaar die als gevolg van een dienstongeval of beroepsziekte schade lijdt, zal een vergoeding van de volledige schade krijgen indien:
 
+De ambtenaar die als gevolg van een dienstongeval of beroepsziekte schade lijdt, zal een vergoeding van de volledige schade krijgen indien:
+
+### 2.5. **Nieuw stelsel arbeidsongeschiktheid**
+
+Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen afspraken gemaakt. Vooruitlopen op het nieuwe stelsel van arbeidsongeschiktheid is nu niet mogelijk aangezien het wettelijk regime niet precies bekend is. Aangezien de nog in te voeren Wet Werk en Inkomen naar Arbeidsvermogen (WIA) geen inkomensgarantie biedt voor de werknemers die minder dan 35% arbeidsongeschikt zijn, maar dit overlaat aan de sociale partners in de sectoren, spreken partijen wel af dat ook voor de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% zal gelden dat werken wordt beloond en dat meer werken meer wordt beloond.
+
+### 3. Slotopmerkingen
+
+Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
+
+Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
+
+### 2.3. **Specifieke rechten en plichten gedurende de eerste twee jaar van ziekte**
+
+In aanvulling op de reeds bestaande rechten en plichten van werkgevers en werknemers op het gebied van arbeid en gezondheid, zoals vastgelegd in met name het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063), zijn specifieke nadere afspraken gemaakt over reïntegratie gedurende de eerste twee jaar van ziekte.
+
+### 2.4. **Beroepsrisico’s**
+
+Met betrekking tot ambtenaren die arbeidsongeschikt zijn geraakt door een dienstongeval of een beroepsziekte hebben partijen het volgende afgesproken.
+
 ### 2.5. **Nieuw stelsel arbeidsongeschiktheid**
 
 Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen afspraken gemaakt. Vooruitlopen op het nieuwe stelsel van arbeidsongeschiktheid is nu niet mogelijk aangezien het wettelijk regime niet precies bekend is. Aangezien de nog in te voeren Wet Werk en Inkomen naar Arbeidsvermogen (WIA) geen inkomensgarantie biedt voor de werknemers die minder dan 35% arbeidsongeschikt zijn, maar dit overlaat aan de sociale partners in de sectoren, spreken partijen wel af dat ook voor de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% zal gelden dat werken wordt beloond en dat meer werken meer wordt beloond.
@@ -129,5 +147,3 @@ Voor het overige zijn voor de periode vanaf twee jaar na ziekmelding nog geen af
 ### 3. Slotopmerkingen
 
 Zodra de formalisering, voor zover dat noodzakelijk is, van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren.
-
-Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:
