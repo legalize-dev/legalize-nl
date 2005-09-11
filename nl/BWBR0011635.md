@@ -4,7 +4,7 @@ identifier: "BWBR0011635"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-10-01"
-last_updated: "2005-09-05"
+last_updated: "2005-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011635"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ De in de bijlage bij dit besluit opgenomen objecten worden aangewezen als te bew
 
 ##### Artikel 2
 
-1. Aan de bevelhebber der landstrijdkrachten, de bevelhebber der zeestrijdkrachten en de bevelhebber der luchtstrijdkrachten wordt mandaat verleend om, ieder voor zover het hem aangaat, namens de minister objecten aan te wijzen als voor een termijn van ten hoogste 12 weken te bewaken en te beveiligen objecten.
+1. Aan de Commandant Landstrijdkrachten, de Commandant Zeestrijdkrachten en de Commandant Luchtstrijdkrachten wordt mandaat verleend om, ieder voor zover het hem aangaat, namens de minister objecten aan te wijzen als voor een termijn van ten hoogste 12 weken te bewaken en te beveiligen objecten.
 
 2. De aanwijzing, bedoeld in het eerste lid, wordt hetzij in de Staatscourant dan wel in de Curaçaosche Courant of het Afkondigingsblad van Aruba geplaatst, hetzij op een andere door degene die de betrokken aanwijzing vaststelt voor dat geval aan te geven wijze kenbaar gemaakt.
 
@@ -56,9 +56,9 @@ Dit besluit treedt in werking met ingang van 1 oktober 2000.
 
 Dit besluit wordt aangehaald als: Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten.
 
-## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2005-09-05) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
+## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2005-09-11&g=2005-09-11) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
 
-Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2000-10-01&g=2005-09-05) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
+Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2005-09-11&g=2005-09-11) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
 
 ##### A.. Vaste objecten
 
