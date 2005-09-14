@@ -4,7 +4,7 @@ identifier: "BWBR0006982"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2003-07-17"
+last_updated: "2005-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006982"
 soort: "AMvB"
@@ -114,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - o. **Conventie van Stresa**: de internationale overeenkomst nopens het gebruik van aanduidingen van herkomst en benamingen van kaassoorten, tot stand gekomen te Stresa op 1 juni 1951 (**Trb.** 1952, 61)
 
-- p. **kaasstandaarden**: internationale kaasstandaarden, opgesteld: vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&bijlage=II&z=2003-07-17&g=2003-07-17);
+- p. **kaasstandaarden**: internationale kaasstandaarden, opgesteld: vermeld in bijlage II;
 
 - 1°. in het kader van de "FAO/WHO Code of Principles concerning Milk and Milk Products"; of
 
@@ -210,23 +210,13 @@ Vervallen
 
 ##### Artikel 5
 
-1. Bij de bereiding van kaas, geitekaas en schapekaas worden geen andere stremsels gebruikt dan:
+Bij de bereiding van kaas, geitenkaas en schapenkaas worden geen andere stremsels gebruikt dan:
 
-- a. stremsel verkregen door extractie van de lebmaag van het kalf of runderpepsine; of
+- a. stremsel verkregen door extractie van de lebmaag van het kalf of runderpepsine;
 
-- b. stremsel van microbiële oorsprong dat afkomstig is van een van de volgende organismen: Bacillus cereus, Endothia parasitica of Mucor species, onder de voorwaarde dat het voldoet aan:
+- b. stremsel van microbiële oorsprong dat afkomstig is van één van de volgende organismen: Bacillus cereus, Endothia parasitica, of Mucor species; of
 
-- 1°. de specificaties gesteld aan stremsel van bovengenoemde organismen; en
-
-- 2°. de Algemene specificaties voor enzympreparaten; die zijn opgenomen in het "Compendium of Food Additive Specifications volume 2" (FAO, 1992).
-
-2. In afwijking van het eerste lid, onder **b**, mag een microbieel geproduceerde chymosine worden gebruikt, dat voldoet aan [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&bijlage=I&z=2003-07-17&g=2003-07-17).
-
-3. Ten aanzien van een in het tweede lid bedoeld stremsel worden vermeldingen gebezigd waaruit blijkt:
-
-- a. uit welk organisme het preparaat verkregen is; en
-
-- b. dat de eigenschappen van het onder **a** bedoelde organisme zijn veranderd door het inbrengen van een construct.
+- c. chymosine dat is verkregen met behulp van een genetisch gemodificeerd micro-organisme.
 
 #### § 5. Etikettering van produkten op basis van melk
 
@@ -286,7 +276,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 - 3°. rijping tot de waar gereed is voor consumptie.
 
-2. In plaats van de aanduiding kaas mag een van de namen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&bijlage=II&z=2003-07-17&g=2003-07-17) en de Landbouwkwaliteitsregeling kaasprodukten, worden gebezigd, voor zover het een waar betreft waarvan de aard en samenstelling voldoet aan:
+2. In plaats van de aanduiding kaas mag een van de namen, bedoeld in de bijlage en de Landbouwkwaliteitsregeling kaasprodukten, worden gebezigd, voor zover het een waar betreft waarvan de aard en samenstelling voldoet aan:
 
 - a. de desbetreffende kaasstandaard; of
 
@@ -294,7 +284,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 ##### Artikel 10
 
-1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
+1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
 
 | A | B |
 | --- | --- |
@@ -324,15 +314,15 @@ Aan de vermeldingen 50+, 48+ en 45+ mag worden toegevoegd: volvet(te).
 
 ##### Artikel 11
 
-Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
+Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
 
-- a. vermeld is in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&bijlage=II&z=2003-07-17&g=2003-07-17) en bereid is in het daar bedoelde land van origine; of
+- a. vermeld is in bijlage II en bereid is in het daar bedoelde land van origine; of
 
 - b. voorkomt in de Landbouwkwaliteitsregeling en bereid is in Nederland.
 
 ##### Artikel 12
 
-1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), die onverpakt is en:
+1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), die onverpakt is en:
 
 - a. aanwezig is in winkels of in enige andere voor het publiek toegankelijke verkoopplaats; en
 
@@ -352,7 +342,7 @@ is voorzien van de desbetreffende aanduiding en van een vermelding, aangevende h
 
 ##### Artikel 12a
 
-1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), mogen slechts zijn aangebracht:
+1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), mogen slechts zijn aangebracht:
 
 - a. ingrediënten van eet- en drinkwaren;
 
@@ -374,7 +364,7 @@ onder de voorwaarden die ter zake zijn gesteld krachtens het [Warenwetbesluit Le
 
 3. Onze Minister kan in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels vaststellen inzake het eerste en tweede lid.
 
-4. Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.
+4. Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.
 
 ##### Artikel 13
 
@@ -478,7 +468,7 @@ Bevat wijzigingen in andere regelgeving.
 
 - a. de artikelen 2 tot en met 5, en artikel 7, tweede lid, van [verordening (EG) nr. 2597/97](31997R2597) van de Raad van 18 december 1997 houdende aanvullende voorschriften voor de gemeenschappelijke ordening der markten in de sector melk en zuivelproducten met betrekking tot consumptiemelk (PbEG L 351); en
 
-- b. artikel 2 en artikel 3 van [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen; treedt voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2003-07-17&g=2003-07-17), onderscheidenlijk [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2003-07-17&g=2003-07-17), in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
+- b. artikel 2 en artikel 3 van [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen; treedt voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2005-09-14&g=2005-09-14), onderscheidenlijk [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2005-09-14&g=2005-09-14), in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
 
 3. Een wijziging van:
 
@@ -486,23 +476,99 @@ Bevat wijzigingen in andere regelgeving.
 
 - b. [Richtlijn 85/503/EEG](31985L0503);
 
-treedt voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2003-07-17&g=2003-07-17), onderscheidenlijk [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2003-07-17&g=2003-07-17), in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+treedt voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2005-09-14&g=2005-09-14), onderscheidenlijk [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2005-09-14&g=2005-09-14), in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Zuivel.
 
-## Bijlage I. Deze bijlage behoort bij artikel 5, tweede lid.
+## Bijlage. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2005-09-14&g=2005-09-14), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2005-09-14&g=2005-09-14).
 
-Het in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=4&artikel=5&z=2003-07-17&g=2003-07-17), bedoelde microbieel geproduceerde chymosine is verkregen uit Kluyveromyces lactis (K. Lactis), waarvan in het genoom een genetisch construct is ingebracht dat codeert voor het kalverprochymosine B. Dit genoom is verkregen met inachtneming van de volgende voorschriften:
+Lijst van namen van kaassoorten, waarvoor kaasstandaarden bestaan die aanvaard zijn door de Nederlandse Regering, gevolgd door het land van origine van die soort.
 
-- a. In het construct pKS 105 wordt het DNA dat codeert voor het prochymosine B, voorafgegaan door DNA, coderend voor de signaalsequentie van mating factor uit Saccharomyces cerevisiae, die zorgdraagt voor de secretie van het Prochymosine. Daarnaast bevat het construct als selectie-marker voor de gemodificeerde gist het gen voor resistentie tegen het anti-bioticum G418. De transformatie van de gastheerstam K. lactis met het genetisch construct pKS 105 is uitgevoerd onder condities waarbij verscheidene kopieën in het genoom integreren. De integratie vindt in principe plaats in het promotor-gebied van de lactase-genen op een wijze die de transcriptie van deze genen ongemoeid laat.
+A In het kader van de FAO/WHO:
 
-- b. Bij beëindiging van het fermentatie-proces in de produktie worden de gistcellen geïnactiviteerd zonder dat lysis van de cellen optreedt, en wordt, met uitzondering van het chymosine, een belangrijk deel van het organisch materiaal gedenatureerd.
+Brie (Frankrijk)
 
-- c. Het preparaat wordt zodanig behandeld dat laag-moleculaire eiwitten en peptiden met een molecuulgewicht van ongeveer 5000 en lager, vrijwel geheel afwezig zijn.
+Butterkäse
 
-Het preparaat voldoet aan het "Compendium of Food Additive Specifications volume 2" (FAO, 1992).
+Camembert (Frankrijk)
+
+Cheshire kaas (Verenigd Koninkrijk)
+
+Coulommiers (Frankrijk)
+
+Danablu (Denemarken)
+
+Danbo (Denemarken)
+
+Emmentaler (Zwitserland)
+
+Esrom (Denemarken)
+
+Gruyère (Zwitserland en Frankrijk)
+
+Harzer Käse of Harzer Kaas
+
+Herrgardsost (Zweden)
+
+Hushallsost (Zweden)
+
+Limburger (België)
+
+Norvegia (Noorwegen)
+
+Provolone (Italië)
+
+Romadur
+
+Samsö (Denemarken)
+
+Svecia (Zweden)
+
+Tilsiter kaas
+
+B Op grond van de Conventie van Stresa:
+
+1. Uit de A-lijst:
+
+Gorgonzola (Italië)
+
+Parmigiano Reggiano (Italië)
+
+Pecorino Romano (Italië)
+
+Roquefort (Frankrijk)
+
+2. Uit de B-lijst:
+
+Adelost (Zweden)
+
+Asiago (Italië)
+
+Caciocavallo (Italië)
+
+Elbo (Denemarken)
+
+Fontina (Italië)
+
+Fiore Sardo (Italië)
+
+Fynbo (Denemarken)
+
+Harvarti (Denemarken)
+
+Maribo (Denemarken)
+
+Mycella (Denemarken)
+
+Noekkelost (Noorwegen)
+
+Saint-Paulin (Frankrijk)
+
+Sbrinz (Zwitserland)
+
+Tybo (Denemarken)
 
 ## Bijlage II. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2003-07-17&g=2003-07-17), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2003-07-17&g=2003-07-17).
 
@@ -591,5 +657,7 @@ Saint-Paulin (Frankrijk)
 Sbrinz (Zwitserland)
 
 Tybo (Denemarken)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
