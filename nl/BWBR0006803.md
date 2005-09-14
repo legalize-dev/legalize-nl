@@ -4,7 +4,7 @@ identifier: "BWBR0006803"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-19"
-last_updated: "2005-02-25"
+last_updated: "2005-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006803"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. korpschef: korpschef als bedoeld in [artikel 24 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=24);
 
-- c. richtlijn: [richtlijn nr. 93/15/EEG](31993L0015) van de Raad van de Europese Gemeenschappen van 5 april 1993 betreffende de harmonisatie van de bepalingen inzake het in de handel brengen van en de controle op explosieven voor civiel gebruik (**PbEG** L 121);
+- c. [richtlijn nr. 93/15/EEG](31993L0015): [richtlijn nr. 93/15/EEG](31993L0015) van de Raad van de Europese Gemeenschappen van 5 april 1993 betreffende de harmonisatie van de bepalingen inzake het in de handel brengen van en de controle op explosieven voor civiel gebruik (**PbEG** L 121);
 
-- d. explosieven: alle stoffen en voorwerpen die in de "United Nations Recommendations on the transport of dangerous goods" - dat wil zeggen de door de Commissie van Deskundigen inzake het Vervoer van Gevaarlijke Stoffen van de Verenigde Naties vastgestelde aanbevelingen, zoals die door die organisatie zijn gepubliceerd en zoals die op de datum van aanneming van de richtlijn zijn gewijzigd (ST/SG/AC.10/1/REV.7; United Nations, New York, 1991) - als dusdanig worden omschreven en aldaar zijn ingedeeld in klasse 1;
+- d. explosieven: alle stoffen en voorwerpen die in de "United Nations Recommendations on the transport of dangerous goods" - dat wil zeggen de door de Commissie van Deskundigen inzake het Vervoer van Gevaarlijke Stoffen van de Verenigde Naties vastgestelde aanbevelingen, zoals die door die organisatie zijn gepubliceerd en zoals die op de datum van aanneming van [richtlijn nr. 93/15/EEG](31993L0015) zijn gewijzigd (ST/SG/AC.10/1/REV.7; United Nations, New York, 1991) - als dusdanig worden omschreven en aldaar zijn ingedeeld in klasse 1;
 
 - e. in de handel brengen: voor de eerste keer, al dan niet tegen betaling, beschikbaar stellen van explosieven met het oogmerk om deze in een lid-staat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte op de markt te distribueren of te gebruiken;
 
@@ -64,19 +64,27 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. overbrenging: materiële verplaatsing van explosieven binnen de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, met uitzondering van verplaatsingen die binnen dezelfde inrichting worden uitgevoerd;
 
-- i. onderneming uit de sector explosieven: elke natuurlijke of rechtspersoon die houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-02-25&g=2005-02-25);
+- i. onderneming uit de sector explosieven: elke natuurlijke of rechtspersoon die houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-09-14&g=2005-09-14);
 
-- j. CE-markering: aanduiding, weergegeven in bijlage IV bij de richtlijn.
+- j. CE-markering: aanduiding, weergegeven in bijlage IV bij [richtlijn nr. 93/15/EEG](31993L0015).
 
 ##### Artikel 2
 
-Deze wet is niet van toepassing op:
+1. Deze wet is niet van toepassing op:
 
 - a. explosieven die bestemd zijn om te worden gebruikt door de krijgsmacht of de politie;
 
-- b. pyrotechnische artikelen en
+- b. pyrotechnische artikelen, die zijn aangewezen:
 
-- c. munitie als bedoeld in [artikel 1, eerste lid, onder 4°, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=1).
+- 1°. in bijlage I bij [richtlijn nr. 2004/57/EG](32004L0057) van de Commissie van de Europese Gemeenschappen van 23 april 2004 betreffende het identificeren van pyrotechnische voorwerpen en bepaalde munitie voor de doeleinden van [richtlijn nr. 93/15/EEG](31993L0015) van de Raad betreffende de harmonisatie van de bepalingen inzake het in de handel brengen van en de controle op explosieven voor civiel gebruik (PbEU L 127);
+
+- 2°. bij regeling van Onze Minister ingevolge bijlage II bij [richtlijn nr. 2004/57/EG](32004L0057);
+
+- 3°. bij regeling van Onze Minister voor zover die artikelen zonder die aanwijzing als binnen het werkingsgebied van deze wet vallend zouden kunnen worden beschouwd, en.
+
+- c. munitie als bedoeld in [artikel 1, eerste lid, onder 4°, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=1);
+
+2. Een wijziging van de in het eerste lid genoemde richtlijn met gevolgen voor de daarbij als zodanig aangewezen pyrotechnische artikelen gaat voor de toepassing van deze wet en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ### Hoofdstuk II. In de handel brengen van explosieven
 
@@ -86,19 +94,19 @@ Deze wet is niet van toepassing op:
 
 1. Het is verboden explosieven in de handel te brengen:
 
-- a. die niet voldoen aan de in bijlage I bij de richtlijn gestelde fundamentele veiligheidseisen;
+- a. die niet voldoen aan de in bijlage I bij [richtlijn nr. 93/15/EEG](31993L0015) gestelde fundamentele veiligheidseisen;
 
 - b. die niet zijn voorzien van de CE-markering en
 
-- c. die niet overeenkomstig de procedures, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25), op hun conformiteit zijn beoordeeld.
+- c. die niet overeenkomstig de procedures, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14), op hun conformiteit zijn beoordeeld.
 
 2. Het is verboden op explosieven een andere aanduiding dan de CE-markering aan te brengen, die verwarring zou kunnen stichten met betrekking tot de betekenis en de grafische vormgeving van de CE-markering.
 
 ##### Artikel 4
 
-Explosieven worden in elk geval vermoed aan de in [artikel 3, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-02-25&g=2005-02-25), bedoelde fundamentele veiligheidseisen te voldoen, indien zij in overeenstemming zijn met:
+Explosieven worden in elk geval vermoed aan de in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-09-14&g=2005-09-14), bedoelde fundamentele veiligheidseisen te voldoen, indien zij in overeenstemming zijn met:
 
-- a. de ter uitvoering van artikel 4, eerste lid, van de richtlijn opgestelde geharmoniseerde normen, waarvan de referentienummers in het **Publicatieblad van de Europese Gemeenschappen** zijn bekendgemaakt;
+- a. de ter uitvoering van artikel 4, eerste lid, van [richtlijn nr. 93/15/EEG](31993L0015) opgestelde geharmoniseerde normen, waarvan de referentienummers in het **Publicatieblad van de Europese Gemeenschappen** zijn bekendgemaakt;
 
 - b. de normen die overeenkomstig de onder **a** bedoelde geharmoniseerde normen in Nederland zijn vastgesteld en waarvan de referentienummers door Onze Minister in de **Staatscourant** zijn bekendgemaakt, of
 
@@ -108,19 +116,19 @@ Explosieven worden in elk geval vermoed aan de in [artikel 3, eerste lid, onder 
 
 ##### Artikel 5
 
-1. Onze Minister wijst een of meer instellingen aan die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25), bedoelde procedures. Aan zodanige aanwijzing kunnen voorschriften worden verbonden.
+1. Onze Minister wijst een of meer instellingen aan die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14), bedoelde procedures. Aan zodanige aanwijzing kunnen voorschriften worden verbonden.
 
-2. Voor een aanwijzing als bedoeld in het eerste lid komen in aanmerking instellingen die tenminste voldoen aan de voorwaarden, genoemd in bijlage III bij de richtlijn.
+2. Voor een aanwijzing als bedoeld in het eerste lid komen in aanmerking instellingen die tenminste voldoen aan de voorwaarden, genoemd in bijlage III bij [richtlijn nr. 93/15/EEG](31993L0015).
 
 3. Onze Minister trekt een aanwijzing als bedoeld in het eerste lid in elk geval in, indien de instelling:
 
 - a. niet langer voldoet aan de in het tweede lid bedoelde voorwaarden, of
 
-- b. niet voldoet aan de in het kader van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25), bedoelde procedures op haar rustende verplichtingen.
+- b. niet voldoet aan de in het kader van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14), bedoelde procedures op haar rustende verplichtingen.
 
 ##### Artikel 6
 
-Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen, zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25), bedoelde procedures, worden mede aangemerkt instellingen die in het kader van de richtlijn door andere lid-staten van de Europese Unie of andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte zijn aangemeld en waarvan de namen door de Commissie van de Europese Gemeenschappen zijn gepubliceerd in het **Publicatieblad van de Europese Gemeenschappen**.
+Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en beoordelingen, zoals omschreven in de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14), bedoelde procedures, worden mede aangemerkt instellingen die in het kader van [richtlijn nr. 93/15/EEG](31993L0015) door andere lid-staten van de Europese Unie of andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte zijn aangemeld en waarvan de namen door de Commissie van de Europese Gemeenschappen zijn gepubliceerd in het **Publicatieblad van de Europese Gemeenschappen**.
 
 #### § 3. Typekeuring alsmede controle op explosieven en fabricageprocessen
 
@@ -130,15 +138,15 @@ Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en
 
 - a.
 
-- 1°. indien het desbetreffende type blijkens een verklaring van EG-typeonderzoek overeenkomstig de in bijlage II, module B, bij de richtlijn beschreven procedure is goedgekeurd;
+- 1°. indien het desbetreffende type blijkens een verklaring van EG-typeonderzoek overeenkomstig de in bijlage II, module B, bij [richtlijn nr. 93/15/EEG](31993L0015) beschreven procedure is goedgekeurd;
 
-- 2°. zolang de vervaardiging van de desbetreffende explosieven geschiedt met inachtneming van, naar keuze van de fabrikant, een van de vier in bijlage II bij de richtlijn beschreven procedures onder de modules C tot en met F, en
+- 2°. zolang de vervaardiging van de desbetreffende explosieven geschiedt met inachtneming van, naar keuze van de fabrikant, een van de vier in bijlage II bij [richtlijn nr. 93/15/EEG](31993L0015) beschreven procedures onder de modules C tot en met F, en
 
 - 3°. zolang wordt voldaan aan de in het kader van de onder **a** en **b** bedoelde procedures op de fabrikant, diens in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die verantwoordelijk is voor het in de handel brengen van de desbetreffende explosieven, rustende verplichtingen;
 
 - b.
 
-- 1°. indien de betrokken explosieven blijkens een verklaring van overeenstemming overeenkomstig de in bijlage II, module G, bij de richtlijn beschreven procedure zijn goedgekeurd en zijn voorzien van het onder bijlage II, module G, punt 2, bedoelde identificatiesymbool;
+- 1°. indien de betrokken explosieven blijkens een verklaring van overeenstemming overeenkomstig de in bijlage II, module G, bij [richtlijn nr. 93/15/EEG](31993L0015) beschreven procedure zijn goedgekeurd en zijn voorzien van het onder bijlage II, module G, punt 2, bedoelde identificatiesymbool;
 
 - 2°. zolang de vervaardiging van deze explosieven geschiedt met inachtneming van de onder module G beschreven procedure en
 
@@ -154,13 +162,13 @@ Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en
 
 - c. module F, wordt het onder bijlage II, module F, punt 4.2, bedoelde identificatiesymbool aangebracht.
 
-4. De CE-markering geeft tevens aan dat explosieven, die onder de reikwijdte van de richtlijn vallen, vermoed worden te voldoen aan andere mede van toepassing zijnde richtlijnen en de Nederlandse regelingen ter implementatie daarvan die ook voorzien in het aanbrengen van dit teken.
+4. De CE-markering geeft tevens aan dat explosieven, die onder de reikwijdte van [richtlijn nr. 93/15/EEG](31993L0015) vallen, vermoed worden te voldoen aan andere mede van toepassing zijnde richtlijnen en de Nederlandse regelingen ter implementatie daarvan die ook voorzien in het aanbrengen van dit teken.
 
 #### § 4. Explosieven met conformiteitsgebrek
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=31&z=2005-02-25&g=2005-02-25), is Onze Minister bevoegd tot toepassing van bestuursdwang ter handhaving van de voorschriften, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25), jegens de fabrikant, diens in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die verantwoordelijk is voor het in de handel brengen van de desbetreffende explosieven, bedoeld in [artikel 7, eerste lid, onder **a**, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-02-25&g=2005-02-25).
+1. Onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=IV&artikel=31&z=2005-09-14&g=2005-09-14), is Onze Minister bevoegd tot toepassing van bestuursdwang ter handhaving van de voorschriften, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14), jegens de fabrikant, diens in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is of andere gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die verantwoordelijk is voor het in de handel brengen van de desbetreffende explosieven, bedoeld in [artikel 7, eerste lid, onder **a**, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=3&artikel=7&z=2005-09-14&g=2005-09-14).
 
 2. Tot de bevoegdheid tot toepassing van bestuursdwang behoort:
 
@@ -172,25 +180,31 @@ Als instellingen die bevoegd zijn tot het verrichten van onderzoek, controles en
 
 ##### Artikel 9
 
-Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=4&artikel=8&z=2005-02-25&g=2005-02-25) met betrekking tot explosieven waarop de CE-markering is aangebracht en die overeenkomstig hun bestemming worden gebruikt, indien deze explosieven naar zijn oordeel de veiligheid in gevaar kunnen brengen.
+Onze Minister neemt eveneens maatregelen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=4&artikel=8&z=2005-09-14&g=2005-09-14) met betrekking tot explosieven waarop de CE-markering is aangebracht en die overeenkomstig hun bestemming worden gebruikt, indien deze explosieven naar zijn oordeel de veiligheid in gevaar kunnen brengen.
 
 ### Hoofdstuk III. Overbrenging van explosieven
 
-#### § 1. Vergunningen en goedkeuring
+#### § 1. Vergunning en toestemming
 
 ##### Artikel 10
 
-Het is verboden aan te vangen met de overbrenging van explosieven zonder dat aan de verkrijger van deze explosieven daartoe vergunning is verleend en, indien de desbetreffende overbrenging in een ander land dan Nederland eindigt, zonder dat voor die overbrenging toestemming is verleend.
+1. Het is verboden explosieven over te brengen, indien de desbetreffende overbrenging in Nederland eindigt zonder dat:
+
+- a. aan de verkrijger van deze explosieven daartoe vergunning is verleend, en
+
+- b. voor zover de explosieven afkomstig zijn uit een andere lidstaat van de Europese Unie, voor het deel van die overbrenging dat binnen Nederland plaatsvindt toestemming is verleend.
+
+2. Het is verboden explosieven over te brengen, indien de desbetreffende overbrenging in een ander land dan Nederland eindigt, zonder dat voor het deel van die overbrenging dat binnen Nederland plaatsvindt toestemming is verleend.
 
 ##### Artikel 11
 
-1. Een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-02-25&g=2005-02-25) dient te worden aangevraagd door de verkrijger van de over te brengen explosieven bij burgemeester en wethouders van de gemeente waarin de overbrenging eindigt. De aanvrager voegt bij zijn aanvrage de in artikel 9, zevende lid, eerste alinea, van de richtlijn bedoelde gegevens.
+1. Een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-09-14&g=2005-09-14) dient te worden aangevraagd door de verkrijger van de over te brengen explosieven bij burgemeester en wethouders van de gemeente waarin de overbrenging eindigt. De aanvrager voegt bij zijn aanvrage de in artikel 9, zevende lid, eerste alinea, van [richtlijn nr. 93/15/EEG](31993L0015) bedoelde gegevens.
 
 2. Burgemeester en wethouders gaan aan de hand van de in het eerste lid bedoelde gegevens na of:
 
 - a. voor overbrengingen waarvoor vergunning wordt aangevraagd specifieke beveiligingseisen gelden of nodig zijn en
 
-- b. degene voor wie de explosieven bestemd zijn houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-02-25&g=2005-02-25).
+- b. degene voor wie de explosieven bestemd zijn houder is van een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-09-14&g=2005-09-14).
 
 3. Indien naar het oordeel van burgemeester en wethouders geen specifieke beveiligingseisen gelden:
 
@@ -200,19 +214,23 @@ Het is verboden aan te vangen met de overbrenging van explosieven zonder dat aan
 
 - c. wordt de vergunning verleend voor een door hen daarbij te stellen termijn.
 
+4. Voor de overbrenging van explosieven die afkomstig zijn uit een andere lidstaat van de Europese Unie wordt, indien die overbrenging in Nederland eindigt, het als bijlage bij beschikking nr. 2004/388/EG van de Commissie van de Europese Gemeenschappen van 15 april 2004 (PbEU L 120) opgenomen document als model gehanteerd voor zowel de vergunning als de toestemming.
+
+5. Een wijziging van de in het vierde lid genoemde beschikking met gevolgen voor het daarbij als bijlage opgenomen document gaat voor de toepassing van het vierde lid gelden met ingang van de dag waarop aan de betrokken beschikking uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
 ##### Artikel 12
 
-Indien naar het oordeel van burgemeester en wethouders met betrekking tot overbrenging bijzondere beveiligingseisen gelden:
+Indien naar het oordeel van burgemeester en wethouders met betrekking tot overbrenging bijzondere beveiligingseisen gelden of nodig zijn:
 
-- a. bevat een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-02-25&g=2005-02-25) de in artikel 9, zevende lid, eerste alinea, van de richtlijn bedoelde gegevens en
+- a. bevat een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-09-14&g=2005-09-14), de in artikel 9, zevende lid, eerste alinea, van [richtlijn nr. 93/15/EEG](31993L0015) bedoelde gegevens en.
 
 - b. dient voordat wordt aangevangen met een overbrenging waarvoor vergunning is verleend, aan burgemeester en wethouders van die overbrenging kennisgeving te worden gedaan.
 
 ##### Artikel 13
 
-1. In afwijking van artikel 11, eerste lid, dient een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-02-25&g=2005-02-25) voor het overbrengen van explosieven ten behoeve van de mijnbouw waarop de Mijnbouwwet van toepassing is, te worden aangevraagd bij Onze Minister van Economische Zaken. De aanvrager voegt bij zijn aanvrage de in [artikel 9, zevende lid, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=II&paragraaf=4&artikel=9&z=2005-02-25&g=2005-02-25), van de richtlijn bedoelde gegevens.
+1. In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-09-14&g=2005-09-14), dient een vergunning als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-09-14&g=2005-09-14), voor het overbrengen van explosieven ten behoeve van de mijnbouw waarop de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) van toepassing is, te worden aangevraagd bij Onze Minister van Economische Zaken. De aanvrager voegt bij zijn aanvrage de in artikel 9, zevende lid, eerste alinea, van [richtlijn nr. 93/15/EEG](31993L0015) bedoelde gegevens.
 
-2. De [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-02-25&g=2005-02-25), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2005-02-25&g=2005-02-25) zijn van toepassing, met dien verstande dat Onze Minister van Economische Zaken in de plaats treedt van burgemeester en wethouders.
+2. De [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-09-14&g=2005-09-14), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2005-09-14&g=2005-09-14) zijn van toepassing, met dien verstande dat Onze Minister van Economische Zaken in de plaats treedt van burgemeester en wethouders.
 
 ##### Artikel 14
 
@@ -220,19 +238,21 @@ De houder van een in Nederland afgegeven vergunning of van een in een andere lid
 
 ##### Artikel 15
 
-1. Toestemming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-02-25&g=2005-02-25) dient te worden aangevraagd door de voor de overbrenging verantwoordelijke persoon. Deze voegt bij zijn aanvrage de in artikel 9, zevende lid, eerste alinea, van de richtlijn bedoelde gegevens.
+1. De toestemming, bedoeld in [artikel 10, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=10&z=2005-09-14&g=2005-09-14), dient te worden aangevraagd door de voor de overbrenging verantwoordelijke persoon. Deze voegt bij zijn aanvraag de in artikel 9, zevende lid, eerste alinea, van [richtlijn nr. 93/15/EEG](31993L0015) bedoelde gegevens. De toestemming wordt verleend door Onze Minister.
 
-2. De toestemming wordt verleend door Onze Minister.
+2. Voor de overbrenging van explosieven binnen Nederland wordt, indien die overbrenging in een andere lidstaat van de Europese Unie eindigt, het als bijlage bij beschikking nr. 2004/388/EG van de Commissie van de Europese Gemeenschappen van 15 april 2004 (PbEU L 120) opgenomen document als model gehanteerd voor de toestemming.
 
 3. Onze Minister kan regels stellen met betrekking tot het melden van de overbrenging van explosieven.
 
-4. De [artikelen 11, tweede lid, onder **a**, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-02-25&g=2005-02-25), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2005-02-25&g=2005-02-25) zijn van overeenkomstige toepassing.
+4. De [artikelen 11, tweede lid, onder **a**, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-09-14&g=2005-09-14), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=12&z=2005-09-14&g=2005-09-14) zijn van overeenkomstige toepassing.
+
+5. Op een wijziging van de in het tweede lid genoemde beschikking is [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=11&z=2005-09-14&g=2005-09-14), van overeenkomstige toepassing.
 
 #### § 2. Gegevensverstrekking
 
 ##### Artikel 16
 
-Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector explosieven zenden op verzoek van burgemeester en wethouders van gemeenten waarin overbrengingen van explosieven eindigen onderscheidenlijk, indien het een overbrenging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=13&z=2005-02-25&g=2005-02-25) betreft, op verzoek van Onze Minister van Economische Zaken, de bevoegde autoriteit van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte waar de overbrengingen aanvangen onderscheidenlijk de bevoegde autoriteit van de lid-staat over welk grondgebied de overbrenging plaatsvindt de te hunner beschikking staande relevante gegevens toe over de overbrengingen.
+Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector explosieven zenden op verzoek van burgemeester en wethouders van gemeenten waarin overbrengingen van explosieven eindigen onderscheidenlijk, indien het een overbrenging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=1&artikel=13&z=2005-09-14&g=2005-09-14) betreft, op verzoek van Onze Minister van Economische Zaken, de bevoegde autoriteit van de lid-staat van de Europese Unie of de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte waar de overbrengingen aanvangen onderscheidenlijk de bevoegde autoriteit van de lid-staat over welk grondgebied de overbrenging plaatsvindt de te hunner beschikking staande relevante gegevens toe over de overbrengingen.
 
 #### § 3. Erkenning
 
@@ -246,7 +266,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 ##### Artikel 18
 
-1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-02-25&g=2005-02-25) dient te worden aangevraagd bij de korpschef in de plaats waarde aanvrager is gevestigd.
+1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-09-14&g=2005-09-14) dient te worden aangevraagd bij de korpschef in de plaats waarde aanvrager is gevestigd.
 
 2. De korpschef is bevoegd tot het verlenen en intrekken van een erkenning, alsmede tot het verlengen van de geldigheidsduur daarvan.
 
@@ -254,7 +274,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 ##### Artikel 19
 
-1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-02-25&g=2005-02-25) wordt verleend, indien:
+1. Een erkenning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=3&artikel=17&z=2005-09-14&g=2005-09-14) wordt verleend, indien:
 
 - a. de aanvrager de door Onze Minister vastgestelde gegevens heeft overgelegd;
 
@@ -270,7 +290,7 @@ Degenen voor wie de explosieven bestemd zijn of ondernemingen uit de sector expl
 
 Een erkenning kan worden ingetrokken, indien:
 
-- a. niet wordt voldaan aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2005-02-25&g=2005-02-25);
+- a. niet wordt voldaan aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&hoofdstuk=III&paragraaf=4&artikel=21&z=2005-09-14&g=2005-09-14);
 
 - b. blijkt dat aan de houder van een erkenning of, indien deze een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf, het onder zich hebben van explosieven niet langer kan worden toevertrouwd, of
 
@@ -290,7 +310,7 @@ Een erkenning kan worden ingetrokken, indien:
 
 3. De in het eerste lid bedoelde ondernemingen of hun rechtsopvolgers bewaren de documenten die betrekking hebben op de in dat lid bedoelde geregistreerde transacties gedurende een periode van ten minste drie jaar, te rekenen vanaf het einde van het kalenderjaar waarin de desbetreffende transactie heeft plaatsgevonden, ongeacht of zij tijdens die periode hun activiteiten hebben beëindigd.
 
-4. De registratie dient voorts te voldoen aan de toepassingsvoorwaarden, bedoeld in artikel 14, tweede alinea, van de richtlijn.
+4. De registratie dient voorts te voldoen aan de toepassingsvoorwaarden, bedoeld in artikel 14, tweede alinea, van [richtlijn nr. 93/15/EEG](31993L0015).
 
 5. Onze Minister kan, in overeenstemming met Onze Minister wie het mede aangaat, bij ministeriële regeling nadere regels stellen met betrekking tot de opzet van de registratie en de te registreren gegevens.
 
@@ -354,7 +374,7 @@ De afgifte van een goedkeuring, vergunning of erkenning kan afhankelijk worden g
 
 ##### Artikel 33
 
-Voor zover bij of krachtens deze wet wordt verwezen naar de richtlijn of naar een bijlage daarvan, treedt voor de toepassing van de desbetreffende bepaling een wijziging van de richtlijn of van een bijlage daarvan in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+Voor zover bij of krachtens deze wet wordt verwezen naar [richtlijn nr. 93/15/EEG](31993L0015) of naar een bijlage daarvan, treedt voor de toepassing van de desbetreffende bepaling een wijziging van [richtlijn nr. 93/15/EEG](31993L0015) of van een bijlage daarvan in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
