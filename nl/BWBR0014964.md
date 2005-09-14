@@ -4,7 +4,7 @@ identifier: "BWBR0014964"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-08-01"
-last_updated: "2005-01-01"
+last_updated: "2005-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014964"
 soort: "AMvB"
@@ -104,19 +104,19 @@ Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de 
 
 ##### Artikel 7
 
-1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2003-06-01&g=2005-01-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
+1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2005-09-14&g=2005-09-14), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2003-06-01&g=2005-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2005-09-14&g=2005-09-14), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit BIBOB.
 
-## Bijlage. als bedoeld in [artikel 2 van het Besluit BIBOB](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2003-06-01&g=2005-01-01)
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2005-09-14&g=2005-09-14) van het Besluit BIBOB
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
@@ -150,7 +150,7 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Commissie Schadefonds Geweldsmisdrijven
 
-– Instellingen voor voogdij en gezinsvoogdij
+– een rechtspersoon als bedoeld in de [artikelen 254, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=254), en [302, tweede lid van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=302)
 
 – Landelijk Bureau Inning Onderhoudsbijdragen (LBIO)
 
@@ -287,5 +287,9 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 – Nederlandse Transplantatie Stichting (NTS)
 
 – Pensioen- en Uitkeringsraad
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+– stichtingen als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
