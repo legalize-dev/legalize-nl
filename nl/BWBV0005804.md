@@ -4,7 +4,7 @@ identifier: "BWBV0005804"
 country: "nl"
 rank: "verdrag"
 publication_date: "2005-09-15"
-last_updated: "1994-07-11"
+last_updated: "2005-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005804"
 soort: "verdrag"
@@ -248,15 +248,11 @@ De Gezondheidsvergadering is bevoegd, aanbevelingen te richten tot de Leden met 
 
 ##### Artikel 24
 
-De Raad bestaat uit tweeëndertig personen, die door even zovele Lid-Staten worden aangewezen. De Gezondheidsvergadering kiest, rekening houdende met een billijke aardrijkskundige verdeling, de Leden die bevoegd zullen zijn een persoon aan te wijzen om in de Raad zitting te nemen, met dien verstande dat niet minder dan drie Leden worden gekozen uit elk van de ingevolge artikel 44 ingestelde regionale organisaties. Ieder van deze Leden moet in de Raad eer persoon benoemen die technisch deskundig is op het gebied van ds gezondheid. Deze persoon kan vergezeld zijn van plaatsvervangers en deskundigen.
+De Raad bestaat uit vierendertig personen, die door even zovele lidstaten worden aangewezen. De Gezondheidsvergadering kiest, rekening houdende met een billijke geografische verdeling, de Leden die bevoegd zullen zijn een persoon aan te wijzen om in de Raad zitting te nemen, met dien verstande dat niet minder dan drie Leden worden gekozen uit elk van de ingevolge artikel 44 ingestelde regionale organisaties. Ieder van deze Leden moet in de Raad een persoon benoemen die technisch deskundig is op het gebied van de gezondheid. Deze persoon kan vergezeld zijn van plaatsvervangers en deskundigen.
 
 ##### Artikel 25
 
-1. Deze Leden worden gekozen voor drie jaar en kunnen herkozen worden, met dien verstande dat van de Leden gekozen tijdens de eerste zitting van de Gezondheidsvergadering die wordt gehouden na het van kracht worden van de wijziging van dit Statuut, waarbij het aantal Leden van de Raad van eenendertig tot tweeëndertig werd uitgebreid, het mandaat van het gekozen bijkomende Lid, voor zover nodig, van zodanig kortere duur is dat de verkiezing, ieder jaar, van ten minste één Lid uit elke regionale organisatie wordt vergemakkelijkt.
-
-2. Besluit dat twee afschriften van deze resolutie zullen worden gewaarmerkt door de handtekening van de President van de Negenendertigste Wereldgezondheidsvergadering en van de Directeur-Generaal van de Wereldgezondheidsorganisatie, waarvan één exemplaar wordt toegezonden aan de Secretaris-Generaal van de Verenigde Naties, depositaris van het Statuut, en één exemplaar wordt bewaard in het archief van de Wereldgezondheidsorganisatie;
-
-3. Besluit dat de kennisgeving van aanvaarding van deze wijzigingen door de Leden overeenkomstig het bepaalde in artikel 73 van het Statuut zal geschieden door nederlegging van een officiële akte bij de Secretaris-Generaal van de Verenigde Naties, zoals in artikel 79, letter b, van het Statuut is voorgeschreven voor aanvaarding van dat Statuut.
+Deze Leden worden gekozen voor drie jaar en kunnen herkozen worden, met dien verstande dat van de Leden gekozen tijdens de eerste zitting van de Gezondheidsvergadering die wordt gehouden na het van kracht worden van de wijziging van dit Statuut, waarbij het aantal Leden van de Raad van tweeëndertig tot vierendertig werd uitgebreid, het mandaat van het gekozen bijkomende Lid, voor zover nodig, van zodanig kortere duur is dat de verkiezing, ieder jaar, van ten minste één Lid uit elke regionale organisatie wordt vergemakkelijkt.
 
 ##### Artikel 26
 
