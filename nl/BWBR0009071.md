@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-09-01"
+last_updated: "2005-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede de onderlinge afstand daarvan, moeten overeenkomen met de modellen A.1, A.2, B.1, C.1, C.2 of C3 van de bijlage. Het Europese embleem en de landenindicator moeten in geel respectievelijk in wit zijn aangebracht op een blauwe retroreflecterende achtergrond overeenkomstig de modellen D1 of D2 van de bijlage.
+1. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede de onderlinge afstand daarvan, moeten overeenkomen met de modellen A.1, A.2, B.1, B.2, C.1, C.2 of C.3 van de bijlage. Het Europese embleem en de landenindicator moeten in geel respectievelijk in wit zijn aangebracht op een blauwe retroreflecterende achtergrond overeenkomstig de modellen D1 of D2 van de bijlage.
 
 2. Het type en de afmetingen van de kentekenplaat moeten overeenkomen met de modellen 1.1 tot en met 27.2F, 27.10A tot en met 27.31C en 30.1A tot en met 30.16 van de bijlage.
 
@@ -113,7 +113,7 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - c. Op een aanhangwagen achter een motorrijtuig waarvoor een GV-kenteken is opgegeven, mag een kentekenplaat met het voor het trekkend motorrijtuig opgegeven kenteken worden gevoerd volgens de modellen 27.24A tot en met 27.25C.
 
-- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2005-09-01&g=2005-09-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2005-09-21&g=2005-09-21), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
 - e. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens model 18.2A tot en met 18.2C van de bijlage.
 
@@ -167,7 +167,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2005-09-01&g=2005-09-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2005-09-21&g=2005-09-21), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
@@ -245,4 +245,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2005-09-01&g=2005-09-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2005-09-21&g=2005-09-21), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenbewijs voor het voeren van deze kentekenplaten toestemming is verleend.
