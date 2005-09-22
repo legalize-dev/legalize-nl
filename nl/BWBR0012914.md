@@ -4,7 +4,7 @@ identifier: "BWBR0012914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-09-22"
-last_updated: "2001-08-01"
+last_updated: "2005-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012914"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-KPMG Management Services B.V., hierna te noemen KPMG, is bevoegd om namens de Minister van Defensie al die besluiten te nemen die de Minister van Defensie bij of krachtens de Regeling ziektekostenvoorziening defensiepersoneel (Zvd) bevoegd is te nemen.
+Het bestuur van KPMG Flexsourcing B.V., hierna te noemen KPMG, is bevoegd om namens de Minister van Defensie al die besluiten te nemen die de Minister van Defensie bij of krachtens de [Regeling ziektekostenvoorziening defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0008817) (Zvd) bevoegd is te nemen.
 
 ##### Artikel 2
 
