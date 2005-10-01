@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-07-01"
+last_updated: "2005-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Euronext Amsterdam N.V. wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 105, eerste lid, van [richtlijn nr. 2001/34/EG](32001L0034).
+Euronext Amsterdam N.V. wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 105, eerste lid, van [richtlijn nr. 2001/34/EG](32001L0034), behoudens voorzover het de artikelen 68, tweede en derde lid, 69, 81, tweede tot en met vierde lid, 82, 83 en 84 van deze richtlijn betreft.
 
 ##### Artikel 4
 
