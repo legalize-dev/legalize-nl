@@ -4,7 +4,7 @@ identifier: "BWBR0013313"
 country: "nl"
 rank: "zbo"
 publication_date: "2005-10-01"
-last_updated: "2002-07-19"
+last_updated: "2005-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013313"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit
 
 ##### Artikel 1
 
-In deze regeling en de daarbij horende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2002-07-19&g=2002-07-19) wordt verstaan onder:
+In deze regeling en de daarbij horende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2005-10-01&g=2005-10-01) wordt verstaan onder:
 
 - a. de wet: de [Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816);
 
@@ -166,7 +166,7 @@ Het geldtransactiekantoor beschikt op alle lagen van de organisatie over procedu
 
 - f. het geldtransactiekantoor beschikt over een systeem voor registratie van de aan- of afwezigheid van medewerkers.
 
-2. De administratieve organisatie van een geldtransactiekantoor is zodanig ingericht, dat zowel in de financiële administratie als op de transactiebon ten minste de informatie, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=IV&z=2002-07-19&g=2002-07-19) bij deze regeling, is opgenomen.
+2. De administratieve organisatie van een geldtransactiekantoor is zodanig ingericht, dat zowel in de financiële administratie als op de transactiebon ten minste de informatie, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=IV&z=2005-10-01&g=2005-10-01) bij deze regeling, is opgenomen.
 
 ##### Artikel 11
 
@@ -174,7 +174,7 @@ Het geldtransactiekantoor beschikt op alle lagen van de organisatie over procedu
 
 2. Het procedurehandboek is in ieder geval in de Nederlandse taal opgemaakt en wordt periodiek geactualiseerd.
 
-3. Het procedurehandboek bevat ten minste de vereisten zoals genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2002-07-19&g=2002-07-19) bij deze regeling.
+3. Het procedurehandboek bevat ten minste de vereisten zoals genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2005-10-01&g=2005-10-01) bij deze regeling.
 
 ##### Artikel 12
 
@@ -224,7 +224,7 @@ De financiële administratie wordt in de Nederlandse of de Engelse taal gevoerd,
 
 De administratieve organisatie van een geldtransactiekantoor dat geldtransferactiviteiten verricht is zodanig ingericht dat aan de volgende minimumeisen wordt voldaan:
 
-- a. het geldtransactiekantoor dient ingevolge [artikel 2, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=2), in het bezit te zijn van een bankgarantie welke is opgesteld overeenkomstig het model van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=III&z=2002-07-19&g=2002-07-19) bij deze regeling;
+- a. het geldtransactiekantoor dient ingevolge [artikel 2, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=2), in het bezit te zijn van een bankgarantie welke is opgesteld overeenkomstig het model van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=III&z=2005-10-01&g=2005-10-01) bij deze regeling;
 
 - b. de financiële administratie is zodanig ingericht dat à tempo de status van iedere geldtransfer en per saldo de openstaande ruimte van de bankgarantie kan worden vastgesteld door het geldtransactiekantoor;
 
@@ -232,9 +232,9 @@ De administratieve organisatie van een geldtransactiekantoor dat geldtransferact
 
 ##### Artikel 19
 
-1. De gegarandeerde geldtransfers worden volgens boekingsschema 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=II&z=2002-07-19&g=2002-07-19) bij deze regeling in de financiële administratie opgenomen.
+1. De gegarandeerde geldtransfers worden volgens boekingsschema 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=II&z=2005-10-01&g=2005-10-01) bij deze regeling in de financiële administratie opgenomen.
 
-2. De geadviseerde geldtransfers dienen volgens boekingsschema 2 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=II&z=2002-07-19&g=2002-07-19) bij deze regeling in de financiële administratie te worden opgenomen.
+2. De geadviseerde geldtransfers dienen volgens boekingsschema 2 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=II&z=2005-10-01&g=2005-10-01) bij deze regeling in de financiële administratie te worden opgenomen.
 
 ### Hoofdstuk 5. Werkzaamheden van de externe accountant
 
@@ -260,7 +260,7 @@ De administratieve organisatie van een geldtransactiekantoor dat geldtransferact
 
 - a. de handhaving van het 'à tempo registreren van transacties';
 
-- b. de handhaving van de vereiste functiescheidingen, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=9&z=2002-07-19&g=2002-07-19);
+- b. de handhaving van de vereiste functiescheidingen, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=9&z=2005-10-01&g=2005-10-01);
 
 - c. de aansluiting tussen aan de Bank gerapporteerde geldstromen en het overzicht van het verloop gedurende het boekjaar van de liquide middelen in de jaarrekening;
 
@@ -280,7 +280,7 @@ Een geldtransactiekantoor dat geldtransferactiviteiten verricht mag op enig mome
 
 ##### Artikel 24
 
-Indien de inschrijving in het register van een geldtransactiekantoor dat geldtransferactiviteiten verricht op grond van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=5) wordt doorgehaald op verzoek van het geldtransactiekantoor, wordt de bankgarantie van het desbetreffende geldtransactiekantoor door de Bank geretourneerd aan de bank die de bankgarantie heeft afgegeven, nadat een accountant als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=5&artikel=20&z=2002-07-19&g=2002-07-19), heeft verklaard dat het geldtransactiekantoor geen gelden uit hoofde van gegarandeerde geldtransfers meer onder zich houdt en dat alle uit dien hoofde ontvangen gelden of geldswaarden zijn uitbetaald aan de bij de gegarandeerde geldtransfers betrokken begunstigden elders.
+Indien de inschrijving in het register van een geldtransactiekantoor dat geldtransferactiviteiten verricht op grond van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=5) wordt doorgehaald op verzoek van het geldtransactiekantoor, wordt de bankgarantie van het desbetreffende geldtransactiekantoor door de Bank geretourneerd aan de bank die de bankgarantie heeft afgegeven, nadat een accountant als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=5&artikel=20&z=2005-10-01&g=2005-10-01), heeft verklaard dat het geldtransactiekantoor geen gelden uit hoofde van gegarandeerde geldtransfers meer onder zich houdt en dat alle uit dien hoofde ontvangen gelden of geldswaarden zijn uitbetaald aan de bij de gegarandeerde geldtransfers betrokken begunstigden elders.
 
 ##### Artikel 25
 
@@ -336,11 +336,11 @@ Deze regeling kan worden aangehaald als: Regeling bedrijfsvoering en administrat
 
 ##### Artikel 31
 
-Deze regeling treedt in werking op het moment dat [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816) in werking treedt, met uitzondering van [hoofdstuk 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6A&z=2002-07-19&g=2002-07-19), dat in werking treedt op een nader te bepalen tijdstip.
+Deze regeling treedt in werking op het moment dat [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013816) in werking treedt, met uitzondering van [hoofdstuk 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6A&z=2005-10-01&g=2005-10-01), dat in werking treedt op een nader te bepalen tijdstip.
 
-Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2002-07-19&g=2002-07-19) en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&bijlage=I&z=2005-10-01&g=2005-10-01) en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=11&z=2002-07-19&g=2002-07-19) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake geldtransactiekantoren
+## Bijlage I. behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=11&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake geldtransactiekantoren
 
 In het procedurehandboek van het geldtransactiekantoor is minimaal het volgende geregeld:
 
@@ -356,11 +356,11 @@ In het procedurehandboek van het geldtransactiekantoor is minimaal het volgende 
 
 ### **Specifieke procedures met betrekking tot geldtransferactiviteiten:**
 
-## Bijlage II. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2002-07-19&g=2002-07-19) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
+## Bijlage II. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
 
 ### Boekingsschema 1
 
-Gelet op [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2002-07-19&g=2002-07-19), van de regeling dienen de gegarandeerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
+Gelet op [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01), van de regeling dienen de gegarandeerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
 
 Het voorgaande betekent dat met betrekking tot de hiervoor genoemde gebeurtenissen de volgende boekingen moeten plaatsvinden:
 
@@ -376,7 +376,7 @@ Het geldtransactiekantoor legt bij de vereffening van vorderingen dan wel schuld
 
 ### Boekingsschema 2
 
-Gelet op [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2002-07-19&g=2002-07-19), van de regeling dienen de geadviseerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
+Gelet op [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=2&artikel=19&z=2005-10-01&g=2005-10-01), van de regeling dienen de geadviseerde geldtransfers volgens het onderstaande boekingsschema in de financiële administratie te worden opgenomen. Ten behoeve van dit boekingsschema kunnen vier achtereenvolgende gebeurtenissen worden onderscheiden, die als volgt kunnen worden omschreven:
 
 Het voorgaande betekent dat met betrekking tot de hiervoor genoemde gebeurtenissen de volgende boekingen moeten plaatsvinden:
 
@@ -390,7 +390,7 @@ Indien de betaling of betaalbaarstelling door kantoor D van gelden of geldswaard
 
 Het geldtransactiekantoor legt bij de vereffening van vorderingen dan wel schulden in de financiële administratie vast welk soort vereffening het betreft. De volgende drie soorten vereffening dienen daarbij te worden onderscheiden:
 
-## Bijlage III. behorende bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6&z=2002-07-19&g=2002-07-19) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
+## Bijlage III. behorende bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=6&z=2005-10-01&g=2005-10-01) van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
 
 ### Model van de bankgarantie
 
@@ -408,7 +408,7 @@ IN AANMERKING NEMENDE:
 
 VERKLAART:
 
-## Bijlage IV. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=10&z=2002-07-19&g=2002-07-19), tweede lid van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
+## Bijlage IV. bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0013313&hoofdstuk=4&paragraaf=1&artikel=10&z=2005-10-01&g=2005-10-01), tweede lid van de Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren
 
 De administratieve organisatie van een geldtransactiekantoor dat wisselactiviteiten verricht, dient zodanig te zijn ingericht, dat zowel in de financiële administratie als op de transactiebon ten minste de volgende informatie is opgenomen:
 
