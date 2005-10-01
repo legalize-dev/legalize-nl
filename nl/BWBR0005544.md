@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2001-12-01"
+last_updated: "2005-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ Aan de Stichting Exploitatie Nederlandse Staatsloterij wordt voor onbepaalde duu
 
 2. De stichting stelt reglementen op, die in ieder geval bepalingen behelzen inzake de deelnamevoorwaarden, de prijzenschema's, de prijzenreserves en de voorschriften en vergoedingen voor de verkooppunten.
 
-3. De reglementen van de stichting, alsmede wijziging daarvan en van de statuten van de stichting, behoeven de voorafgaande goedkeuring van de minister, gehoord het college.
+3. De reglementen van de stichting, alsmede de wijziging daarvan, behoeven de voorafgaande goedkeuring van de minister, gehoord het college.
 
 ##### Artikel 4
 
@@ -65,7 +65,7 @@ Er kunnen deelloten worden uitgegeven die recht geven op deelname aan een staats
 
 ##### Artikel 6
 
-De prijs van een geheel lot bedraagt ten hoogste € 27,20. De prijs van deelloten wordt naar evenredigheid berekend.
+De prijs van een geheel lot bedraagt ten hoogste € 30,–. De prijs van deelloten wordt naar evenredigheid berekend.
 
 ##### Artikel 7
 
@@ -83,7 +83,7 @@ De stichting draagt zorg voor de bewaking van de kwaliteit van haar organisatie 
 
 1. De stichting zorgt voor een doelmatige en doeltreffende administratie en exploitatie van de staatsloterij echter met dien verstande dat geen afbreuk wordt gedaan aan het goede imago van het produkt ‘staatsloterij’.
 
-2. De stichting doet binnen een maand na het einde van elk kwartaal aan de minister en aan de Minister van Justitie, alsmede aan het college schriftelijk verslag van de exploitatie van de staatsloterij betreffende dat kwartaal.
+2. De stichting doet binnen één maand na het einde van elk kwartaal aan de minister en aan het college schriftelijk verslag van de exploitatie van de staatsloterij betreffende dat kwartaal.
 
 ##### Artikel 11
 
@@ -91,49 +91,65 @@ De stichting is verantwoordelijk voor de naleving van de in deze beschikking geg
 
 ##### Artikel 12
 
+Aan personen beneden de leeftijd van achttien jaar mogen geen loten worden verkocht. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge de vorige zin niet als deelnemer mocht worden toegelaten, wordt deze deelneming buiten aanmerking gelaten.
+
+##### Artikel 13
+
+1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de minister aangewezen onafhankelijke deskundigen of keuringsinstellingen.
+
+2. Van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen en keuringsinstellingen wordt uiterlijk binnen drie maanden na afloop van een kalenderjaar verslag gedaan aan de minister en het college.
+
+3. De aan de in het eerste lid genoemde goedkeuring en controle verbonden kosten zijn voor rekening van de stichting.
+
+##### Artikel 14
+
 1. De stichting draagt zorg voor een goed regionaal verspreid verkoopnet dat voor zover het gaat om het verkoopgebied in Nederland toegankelijk moet zijn voor groepen uit alle lagen van de bevolking.
 
 2. De stichting draagt er zorg voor dat aan wervings- en reclame-activiteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de door de stichting georganiseerde kansspelen.
 
 3. De stichting neemt bij haar wervings- en reclame-activiteiten de haar door de minister gegeven aanwijzingen, gehoord het college, in acht.
 
-##### Artikel 13
+##### Artikel 15
 
 De verkoopperioden en de tijdstippen van de trekkingen worden gepubliceerd.
 
-##### Artikel 14
+##### Artikel 16
 
 De uitslag van de trekking wordt direct na de laatste trekking van die loterij bekendgemaakt en wel tenminste in één landelijk dagblad en zo mogelijk door middel van een telecommunicatiesysteem.
 
-##### Artikel 15
-
-De prijzen zijn op afgifte van het lot of deellot betaalbaar gedurende een jaar na de trekking waarbij het lot of deellot als winnend lot of deellot is aangewezen:
-
-- a. ten kantore van de niet van on-line verkoopapparatuur voorziene lotenverkopers voor zover het gaat om prijzen tot en met € 113,- per lot;
-
-- b. ten kantore van de on-line verkoopapparatuur voorziene lotenverkopers voor zover het gaat om prijzen tot en met € 454,- per lot;
-
-- c. ten kantore van de stichting voor prijzen boven € 454,- per lot.
-
-##### Artikel 16
-
-De stichting is gehouden zodanig maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars in de staatsloterij te allen tijde is gewaarborgd.
-
 ##### Artikel 17
 
-Aan ten minste 33% van de uitgegeven loten wordt, overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=4&z=2001-12-01&g=2001-12-01), 5, 6 en 7, een prijs toegekend.
+De prijzen zijn op afgifte van het lot of deellot betaalbaar gedurende een jaar na de trekking waarbij het lot als winnend lot of deellot is aangewezen:
+
+- a. ten kantore van de officiële verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 454,– per deelnamebewijs;
+
+- b. ten kantore van daartoe door de stichting aangewezen verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 5.100,– per deelnamebewijs;
+
+- c. ten kantore van de stichting voor prijzen boven een bedrag van € 5.100,– per deelnamebewijs.
 
 ##### Artikel 18
 
-1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek.
-
-2. De stichting verleent aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek.
-
-3. De stichting voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek kan worden afgegeven.
-
-4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de minister en aan de Minister van Justitie, alsmede aan het college.
+De stichting is gehouden zodanig maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars in de staatsloterij te allen tijde is gewaarborgd.
 
 ##### Artikel 19
+
+Aan ten minste 33% van de uitgegeven loten wordt, overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=4&z=2005-10-01&g=2005-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=5&z=2005-10-01&g=2005-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=6&z=2005-10-01&g=2005-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005544&artikel=7&z=2005-10-01&g=2005-10-01), een prijs toegekend.
+
+##### Artikel 20
+
+Jaarlijks stelt de Minister van Financiën het afdrachtpercentage voor de Staatsloterij vast, welk percentage ten minste 15% van de nominale waarde van de verkochte loten bedraagt.
+
+##### Artikel 21
+
+1. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting. Alvorens de Minister van Financiën tot benoeming overgaat, voert hij daarover overleg met de minister.
+
+2. De raad van commissarissen van de stichting benoemt het bestuur. Deze benoeming behoeft de voorafgaande goedkeuring van de Minister van Financiën. Alvorens de Minister van Financiën zijn goedkeuring verleent, voert hij overleg over de voorgenomen benoeming met de minister.
+
+##### Artikel 22
+
+De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen twee weken na vaststelling, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
+
+##### Artikel 23
 
 1. Deze beschikking treedt in werking met ingang van heden en wordt gepubliceerd in de Staatscourant.
 
