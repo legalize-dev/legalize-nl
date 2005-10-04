@@ -4,7 +4,7 @@ identifier: "BWBR0006755"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2004-07-01"
+last_updated: "2005-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006755"
 soort: "AMvB"
@@ -74,7 +74,9 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit wordt onder ramp tevens zwaar ongeval begrepen.
 
-3. Dit besluit is uitsluitend van toepassing op activiteiten met genetisch gemodificeerde organismen op het bij ministeriële regeling krachtens het Besluit genetisch gemodificeerde organismen aangewezen hoogste of op een na hoogste niveau in:
+3. In dit besluit wordt onder bevolking tevens de beheerders van voor publiek opengestelde inrichtingen, waaronder scholen en ziekenhuizen, verstaan.
+
+4. Dit besluit is uitsluitend van toepassing op activiteiten met genetisch gemodificeerde organismen op het bij ministeriële regeling krachtens het [Besluit genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0004703) aangewezen hoogste of op een na hoogste niveau in:
 
 - a. laboratoria voor de vervaardiging van en handelingen met genetisch gemodificeerde micro-organismen;
 
@@ -162,7 +164,7 @@ Dit geldt niet voor zover deze informatie reeds op grond van andere voorschrifte
 
 6. De gebruiker zendt de ingevolge het tweede tot en met vijfde lid verschafte informatie onmiddellijk tevens aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-7. Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=3&z=2004-07-01&g=2004-07-01) van overeenkomstige toepassing.
+7. Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=3&z=2005-10-04&g=2005-10-04) van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Verschaffing van informatie aan de bevolking
 
@@ -170,7 +172,7 @@ Dit geldt niet voor zover deze informatie reeds op grond van andere voorschrifte
 
 ##### Artikel 5
 
-De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen, omvat in ieder geval:
+1. De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen, omvat in ieder geval:
 
 - a. gegevens die inzicht verschaffen in de oorsprong, de omvang en de te verwachten gevolgen voor de bevolking of het milieu van een dergelijke ramp;
 
@@ -186,11 +188,13 @@ De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolk
 
 - g. gegevens over de wijze waarop, waar en bij wie aanvullende ter zake dienende informatie kan worden verkregen.
 
+2. De informatie wordt door burgemeester en wethouders in de meest passende vorm verschaft.
+
 #### § 2. Verschaffing van informatie door burgemeester en wethouders over mogelijke rampen in een inrichting
 
 ##### Artikel 6
 
-De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), in ieder geval:
+De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), in ieder geval:
 
 - a. de naam van degene die de inrichting drijft en de naam en het adres van de desbetreffende inrichting;
 
@@ -208,13 +212,11 @@ De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolk
 
 - h. een bevestiging van het feit dat voldaan is aan hetgeen in het [Besluit risico's zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475) omtrent het opstellen van een intern noodplan is bepaald en dat de inrichting gehouden is de nodige contacten te leggen met de hulpverleningsdiensten, een en ander ten einde ongevallen het hoofd te bieden en de gevolgen zo gering mogelijk te houden.
 
-- i. een verwijzing naar het stelsel van voorzieningen, bedoeld in [artikel 2.2e, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.2e), dat mede is opgesteld om eventuele buiten de inrichting merkbare gevolgen van een ramp te bestrijden
-
 #### § 3. Verschaffen van informatie door burgemeester en wethouders over een mogelijke ramp met stralingsgevaar
 
 ##### Artikel 7
 
-De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01):
+De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolking verschaffen omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04):
 
 - a. basiskennis over radioactiviteit en de gevolgen daarvan voor de bevolking of het milieu;
 
@@ -222,19 +224,19 @@ De informatie die burgemeester en wethouders over mogelijke rampen aan de bevolk
 
 ##### Artikel 8
 
-Burgemeester en wethouders dragen er zorg voor dat de informatie, bedoeld in [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2004-07-01&g=2004-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2004-07-01&g=2004-07-01), permanent toegankelijk is voor het publiek.
+Burgemeester en wethouders dragen er zorg voor dat de informatie, bedoeld in [de artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2005-10-04&g=2005-10-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2005-10-04&g=2005-10-04), permanent toegankelijk is voor het publiek.
 
 #### § 4. Frequentie van de verschaffing van informatie over alle typen van mogelijke rampen
 
 ##### Artikel 9
 
-1. De informatie, bedoeld in [artikel 5, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), wordt ten minste één maal per jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
+1. De informatie, bedoeld in [artikel 5, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), wordt ten minste één maal per jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
 
 2. De informatie als bedoeld in het eerste lid die betrekking of mede betrekking heeft op een inrichting wordt ten minste één maal per drie jaar opnieuw bezien en zo nodig bijgewerkt. Bijwerking vindt voorts in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
 
-3. De informatie, bedoeld in [de artikelen 5, onder a en d tot en met g, en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
+3. De informatie, bedoeld in [de artikelen 5, onder a en d tot en met g, en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
 
-4. De verschaffing van informatie als bedoeld in [artikel 5, onder a en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), die betrekking of mede betrekking heeft op een inrichting alsmede van de informatie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2004-07-01&g=2004-07-01), geschiedt ten minste één maal in de vijf jaar en voorts telkens wanneer de informatie is bijgewerkt. Ten minste één maal per drie jaar wordt bezien of bijwerking nodig is. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
+4. De verschaffing van informatie als bedoeld in [artikel 5, onder a en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), die betrekking of mede betrekking heeft op een inrichting alsmede van de informatie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2005-10-04&g=2005-10-04), geschiedt ten minste één maal in de vijf jaar en voorts telkens wanneer de informatie is bijgewerkt. Ten minste één maal per drie jaar wordt bezien of bijwerking nodig is. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
 
 5. Burgemeester en wethouders verschaffen de informatie, bedoeld in het derde en vierde lid, eerder en werken deze eerder bij, indien naar hun oordeel ontwikkelingen in de kennis over de veiligheid en over de beoordeling van risico's en over een doelmatige rampenbestrijding hiertoe nopen.
 
@@ -304,9 +306,9 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 13
 
-1. Burgemeester en wethouders van de gemeente waarin een inrichting geheel of in hoofdzaak is gelegen verschaffen de op die inrichting betrekking hebbende informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), en de informatie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2004-07-01&g=2004-07-01), tevens aan Onze Minister. Indien de bevolking of het milieu van een andere staat kunnen worden getroffen door een ramp in die inrichting, verstrekken burgemeester en wethouders tevens de informatie, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2004-07-01&g=2004-07-01), aan Onze Minister.
+1. Burgemeester en wethouders van de gemeente waarin een inrichting geheel of in hoofdzaak is gelegen verschaffen de op die inrichting betrekking hebbende informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), en de informatie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2005-10-04&g=2005-10-04), tevens aan Onze Minister. Indien de bevolking of het milieu van een andere staat kunnen worden getroffen door een ramp in die inrichting, verstrekken burgemeester en wethouders tevens de informatie, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2005-10-04&g=2005-10-04), aan Onze Minister.
 
-2. Indien de bevolking of het milieu van een andere staat kunnen worden getroffen door een ramp tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verschaffen burgemeester en wethouders van de gemeente waarin die toepassing plaatsvindt of waar zich stralingsgevaar kan voordoen de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2004-07-01&g=2004-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2004-07-01&g=2004-07-01) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2004-07-01&g=2004-07-01), tevens aan Onze Minister.
+2. Indien de bevolking of het milieu van een andere staat kunnen worden getroffen door een ramp tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verschaffen burgemeester en wethouders van de gemeente waarin die toepassing plaatsvindt of waar zich stralingsgevaar kan voordoen de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2005-10-04&g=2005-10-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2005-10-04&g=2005-10-04) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2005-10-04&g=2005-10-04), tevens aan Onze Minister.
 
 3. De verschaffing van informatie over een toepassing op grote schaal van gevaarlijke micro-organismen dan wel een activiteit met genetisch gemodificeerde organismen, bedoeld in het tweede lid, geschiedt voordat die toepassing begint.
 
@@ -316,7 +318,7 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 14
 
-1. Indien de bevolking of het milieu van een andere staat wordt getroffen of dreigt te worden getroffen door een ramp, verschaft de burgemeester van de gemeente waarin de ramp plaatsvindt, de informatie bedoeld in de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=6&artikel=11&z=2004-07-01&g=2004-07-01) en [12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2004-07-01&g=2004-07-01), tevens aan Onze Minister.
+1. Indien de bevolking of het milieu van een andere staat wordt getroffen of dreigt te worden getroffen door een ramp, verschaft de burgemeester van de gemeente waarin de ramp plaatsvindt, de informatie bedoeld in de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=6&artikel=11&z=2005-10-04&g=2005-10-04) en [12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2005-10-04&g=2005-10-04), tevens aan Onze Minister.
 
 2. Onze Minister verstrekt de hem door de burgemeester overeenkomstig het eerste lid verstrekte informatie aan de staat, bedoeld in het eerste lid.
 
@@ -336,7 +338,7 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 16
 
-Handelen in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=2&z=2004-07-01&g=2004-07-01) en handelen in strijd met [artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2004-07-01&g=2004-07-01), door degene die de inrichting drijft dan wel de gebruiker, zijn een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
+Handelen in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=2&z=2005-10-04&g=2005-10-04) en handelen in strijd met [artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2005-10-04&g=2005-10-04), door degene die de inrichting drijft dan wel de gebruiker, zijn een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
 
 ##### Artikel 17
 
