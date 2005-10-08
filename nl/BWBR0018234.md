@@ -71,23 +71,3 @@ Dit besluit treedt in werking met ingang van 8 oktober 2005.
 Dit besluit wordt aangehaald als: Besluit detergentia Wms.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a
-
-Dit besluit berust mede op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [9.2.3.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van detergentia, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van detergentia, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
