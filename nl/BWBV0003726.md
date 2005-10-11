@@ -4,7 +4,7 @@ identifier: "BWBV0003726"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-05-01"
-last_updated: "2005-06-10"
+last_updated: "2005-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003726"
 soort: "verdrag"
@@ -195,11 +195,8 @@ De Raad van Bestuur neemt, onder de in de leden 5 en 6 vastgestelde voorwaarden,
 | Finland | 3 |
 | Zweden | 4 |
 | Verenigd Koninkrijk | 10 |
-| Cyprus | 2 |
-| de Slowaakse Republiek | 5 |
-| Slovenië | 3 |
 
-De besluiten komen tot stand wanneer zij ten minste vijfenzeventig stemmen hebben verkregen, waarbij ten minste dertien Regeringen voor stemmen.
+De besluiten komen tot stand wanneer zij ten minste achtenzestig stemmen hebben verkregen, waarbij ten minste elf Regeringen voor stemmen.
 
 8. Onthouding van stemming vormt geen beletsel voor het aannemen der besluiten van de Raad van Bestuur, waarvoor eenparigheid van stemmen is vereist.
 
@@ -377,28 +374,25 @@ In de financiële voorschriften wordt een opsomming gegeven van de ontvangsten v
 
 ##### Artikel 19
 
-1. De financiële bijdragen van de Overeenkomstsluitende Staten, bestemd voor dekking van de in de begroting van het Instituut opgenomen uitgaven, worden vastgesteld overeenkomstig de volgende verdeelsleutel, in overeenstemming met het Besluit no 3/04 van de Raad van Bestuur van 10 juni 2004:
+1. De financiële bijdragen van de Overeenkomstsluitende Staten, bestemd voor dekking van de in de begroting van het Instituut opgenomen uitgaven, worden vastgesteld overeenkomstig de volgende verdeelsleutel in overeenstemming met het Besluit no 3/04 van de Raad van Bestuur van 10 juni 2004:
 
-| België | 4,97% |
+| België | 5,00 |
 | --- | --- |
-| Denemarken | 2,03% |
-| Duitsland | 17,39% |
-| Griekenland | 1,47% |
-| Spanje | 6,23% |
-| Frankrijk | 17,39% |
-| Ierland | 0,52% |
-| Italië | 17,39% |
-| Luxemburg | 0,16% |
-| Nederland | 4,97% |
-| Oostenrijk | 2,65% |
-| Polen | 2,14% |
-| Portugal | 0,74% |
-| Finland | 1,20% |
-| Zweden | 2,72% |
-| Verenigd Koninkrijk | 17,39% |
-| Cyprus | 0,12% |
-| Slowaakse Republiek | 0,28% |
-| Slovenië | 0,24% |
+| Denemarken | 2,04 |
+| Duitsland | 17,50 |
+| Griekenland | 1,48 |
+| Spanje | 6,27 |
+| Frankrijk | 17,50 |
+| Ierland | 0,52 |
+| Italië | 17,50 |
+| Luxemburg | 0,16 |
+| Nederland | 5,00 |
+| Oostenrijk | 2,67 |
+| Polen | 2,16 |
+| Portugal | 0,74 |
+| Finland | 1,20 |
+| Zweden | 2,74 |
+| Verenigd Koninkrijk | 17,50 |
 
 2. Vanaf 1 januari 1978 wordt de financiering vastgesteld volgens criteria die worden bepaald tijdens een onderzoek dat met ingang van 1 januari 1977 wordt verricht, waarbij rekening wordt gehouden met de ontwikkeling die de Europese Gemeenschappen dan hebben doorgemaakt, en met het door de communautaire financiering geboden alternatief.
 
