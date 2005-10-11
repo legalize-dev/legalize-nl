@@ -4,7 +4,7 @@ identifier: "BWBV0001507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2004-11-10"
+last_updated: "2005-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001507"
 soort: "verdrag"
@@ -1922,9 +1922,9 @@ Hij ziet erop toe dat deze richtlijnen worden opgevolgd.
 
 - b. hij stelt, ter ﬁne van artikel 9, lid 1, vast volgens welke beginselen ﬁnancieringsverrichtingen door de Bank in het kader van haar taak geschieden;
 
-- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2004-11-10&g=2004-11-10) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
+- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2005-10-11&g=2005-10-11) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
 
-- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2004-11-10&g=2004-11-10), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
+- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2005-10-11&g=2005-10-11), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
 
 - e. hij keurt het door de Raad van bewind opgestelde jaarverslag goed;
 
