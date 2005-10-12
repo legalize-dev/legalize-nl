@@ -4,7 +4,7 @@ identifier: "BWBR0017680"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2005-10-12"
-last_updated: "2005-02-01"
+last_updated: "2005-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017680"
 soort: "rijksKB"
@@ -47,6 +47,8 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligheid in werking treedt.
+
 #### § 1. Begripsomschrijving
 
 ##### Artikel 1
@@ -83,17 +85,17 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 2. Het niveau van de vergoeding is als volgt:
 
-- a. de voorzitter en de plaatsvervangende voorzitter van de raad ontvangen een vergoeding die gelijk is aan het salaris van de voorzitter van de Wetenschappelijke Raad voor het Regeringsbeleid, vermeld in [bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend);
+- a. de voorzitter en de plaatsvervangende voorzitter van de raad ontvangen een vergoeding die gelijk is aan het salaris van de voorzitter van de Wetenschappelijke Raad voor het Regeringsbeleid, vermeld in [bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A);
 
-- b. de leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](onbekend), ontvangen, voorzover zij niet vallen onder a, een vergoeding als waren zij rijksambtenaar met het maximumsalaris van schaal 17, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend);
+- b. de leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=6), ontvangen, voorzover zij niet vallen onder a, een vergoeding als waren zij rijksambtenaar met het maximumsalaris van schaal 18, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B);
 
-- c. de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid, van de rijkswet](onbekend), ontvangen een vergoeding als waren zij rijksambtenaar met het maximumsalaris van schaal 16, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](onbekend).
+- c. de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=6), ontvangen een vergoeding als waren zij rijksambtenaar met het maximumsalaris van schaal 16, vermeld in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-3. De leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](onbekend), ontvangen een vergoeding voor het vervullen van een functie met een door Onze Minister vast te stellen deeltijdpercentage.
+3. De leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=6), ontvangen een vergoeding voor het vervullen van een functie met een door Onze Minister vast te stellen deeltijdpercentage.
 
-4. De buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid, van de rijkswet](onbekend), ontvangen een vergoeding die overeenkomt met een door Onze Minister vast te stellen percentage van het jaarsalaris van het in het tweede lid te hunnen aanzien genoemde niveau.
+4. De buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=6), ontvangen een vergoeding die overeenkomt met een door Onze Minister vast te stellen percentage van het jaarsalaris van het in het tweede lid te hunnen aanzien genoemde niveau.
 
-5. Vergoeding van reis- en verblijfkosten geschiedt overeenkomstig de [artikelen 1 tot en met 16 van het Reisbesluit binnenland](onbekend) en de [artikelen 1 tot en met 16 van het Reisbesluit buitenland](onbekend).
+5. Vergoeding van reis- en verblijfkosten geschiedt overeenkomstig de [artikelen 1 tot en met 16 van het Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889&artikel=1) en de [artikelen 1 tot en met 16 van het Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842&artikel=1).
 
 6. Onze Minister kan bepalen dat de vergoedingen, bedoeld in het vijfde lid, worden vastgesteld op een forfaitair bedrag dat wordt vastgesteld op basis van de in een voorafgaand jaar daadwerkelijk gedeclareerde reis- en verblijfkosten.
 
@@ -173,7 +175,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 ##### Artikel 10
 
-Het is een ieder verboden om onbevoegd bij een voorval betrokken zaken weg te nemen of op andere wijze aan het onderzoek te onttrekken in geval de voorzitter van de raad toepassing heeft geeft aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&paragraaf=5&artikel=6&z=2005-02-01&g=2005-02-01).
+Het is een ieder verboden om onbevoegd bij een voorval betrokken zaken weg te nemen of op andere wijze aan het onderzoek te onttrekken in geval de voorzitter van de raad toepassing heeft geeft aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&paragraaf=5&artikel=6&z=2005-10-12&g=2005-10-12).
 
 ##### Artikel 11
 
