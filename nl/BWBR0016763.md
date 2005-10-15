@@ -4,7 +4,7 @@ identifier: "BWBR0016763"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2004-06-30"
+last_updated: "2005-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016763"
 soort: "wet"
@@ -110,7 +110,7 @@ In geval van doorzending van een verzoek om een handeling tot het verkrijgen van
 
 ##### Artikel 10
 
-De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten waarvan ingevolge artikel 18, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2004-06-30&g=2004-06-30), voor rekening van partijen komen.
+De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten waarvan ingevolge artikel 18, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2005-10-15&g=2005-10-15), voor rekening van partijen komen.
 
 ##### Artikel 11
 
@@ -157,5 +157,13 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Deze wet wordt aangehaald als: Uitvoeringswet EG-bewijsverordening.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12a
+
+Het verzoekende gerecht kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van een door een beëdigd vertaler vervaardigde vertaling van de stukken in een door de lidstaat van het aangezochte gerecht aanvaarde taal.
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
