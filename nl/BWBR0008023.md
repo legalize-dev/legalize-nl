@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2005-10-01"
+last_updated: "2005-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -1500,17 +1500,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Productgroep |   | Maximumprijs |
 | CARBOMEER 980-2-MG/G-OOGGEL | CARBOMEER 980-2-MG/G-OOGGEL | 0,331005 per gram |
 | Registratienummer | Artikelnaam |   |
-| 21699 | Lacrinorm ooggel 2mg/g tube 10g |   |
 | 27017 | Liposic ooggel 2mg/g tube 10g |   |
 | 14862 | Vidisic carbogel ooggel tube 10g |   |
 | 27286/14862 | Vidisic carbogel ooggel tube 10g |   |
 | 28939/14862 | Vidisic carbogel ooggel tube 10g |   |
 | 26644/14862 | Vidisic carbogel ooggel 2mg/g tube 10g |   |
-|   |   |   |
-| Productgroep |   | Maximumprijs |
-| CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | 0,320497 per ml |
-| Registratienummer | Artikelnaam |   |
-| 29773 | Vidisic carbogel edo ooggel 2mg/g 0,6ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
 | CARTEOLOL-10-MG/ML-OOGDRUPPELS | CARTEOLOL-10-MG/ML-OOGDRUPPELS | 1,134345 per ml |
@@ -8076,13 +8070,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19469 | Imigran neusspray 10mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-100-MG-BRUISTABLET | SUMATRIPTAN-100-MG-BRUISTABLET | 9,249575 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 29414 | Imigran ftab tablet filmomhuld 100mg |   |
-| 32243/29414 | Imigran ftab tablet filmomhuld 100mg |   |
-| 32285/29414 | Imigran ftab tablet filmomhuld 100mg |   |
-|   |   |   |
-| Productgroep |   | Maximumprijs |
 | SUMATRIPTAN-100-MG-TABLET | SUMATRIPTAN-100-MG-TABLET | 10,099864 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15010 | Imigran tablet 100mg |   |
@@ -8104,11 +8091,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | SUMATRIPTAN-25-MG-ZETPIL | SUMATRIPTAN-25-MG-ZETPIL | 4,283569 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19853 | Imigran zetpil 25mg |   |
-|   |   |   |
-| Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-50-MG-BRUISTABLET | SUMATRIPTAN-50-MG-BRUISTABLET | 6,370325 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 29413 | Imigran ftab tablet filmomhuld 50mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
 | SUMATRIPTAN-50-MG-TABLET | SUMATRIPTAN-50-MG-TABLET | 5,331336 per stuk |
