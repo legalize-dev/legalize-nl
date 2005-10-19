@@ -4,7 +4,7 @@ identifier: "BWBR0016186"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-10-19"
-last_updated: "2004-12-03"
+last_updated: "2005-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016186"
 soort: "ministeriele-regeling"
@@ -69,7 +69,7 @@ De commissie bestaat uit zeven leden, waaronder een voorzitter.
 
 1. De commissie brengt haar verslag en advies uit aan de Minister voor Vreemdelingenzaken en Integratie.
 
-2. De commissie brengt op uiterlijk 1 juli 2005 advies uit en wordt opgeheven op 1 oktober 2005.
+2. De werkzaamheden van de commissie worden voortgezet tot het moment, waarop het eindrapport zal worden aangeboden. Hierna wordt de commissie opgeheven.
 
 ##### Artikel 5
 
