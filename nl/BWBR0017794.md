@@ -4,7 +4,7 @@ identifier: "BWBR0017794"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-15"
-last_updated: "2005-01-01"
+last_updated: "2005-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017794"
 soort: "KB"
@@ -43,11 +43,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als hoofdspoorweg worden aangewezen:
-
-- a. de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2005-01-01&g=2005-01-01);
-
-- b. Dit onderdeel is nog niet in werking getreden.
+Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2005-10-21&g=2005-10-21).
 
 ##### Artikel 2
 
@@ -67,17 +63,13 @@ De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wo
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van:
-
-- a. [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), dat in werking treedt met ingang van de eerste dag van de tiende kalendermaand na inwerkingtreding van de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16);
-
-- b. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2005-01-01&g=2005-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2005-01-01&g=2005-01-01), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2005-10-21&g=2005-10-21) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2005-10-21&g=2005-10-21), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-## Bijlage 1. behorend bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 1. behorend bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-10-21&g=2005-10-21), van het Besluit aanwijzing hoofdspoorwegen
 
 In deze bijlage wordt verstaan onder:
 
@@ -195,74 +187,8 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 16. Rotterdam Hofplein – Den Haag Centraal, met de zijtak Leidschendam-Voorburg Aansluiting – Zoetermeer Stadslijn.
 
-## Bijlage 2. behorend bij [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 2. behorend bij artikel 1, onder b, van het Besluit aanwijzing hoofdspoorwegen
 
-Spoorwegen als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2005-01-01&g=2005-01-01), zijn:
-
-- a. de volgende spoorwegen:
-
-- 1°. Lage Zwaluwe – Moerdijk
-
-- 2°. Made en Drimmelen – Oosterhout Weststad
-
-- 3°. Sluiskil Aansluiting – Terneuzen Dow Chemical
-
-- 4°. Terneuzen Aansluiting – Axelse Vlakte
-
-- b. de spoorwegen, gelegen op de volgende locaties:
-
-- 1°. Almelo
-
-- 2°. Alphen aan den Rijn
-
-- 3°. Amsterdam Westelijk Havengebied
-
-- 4°. Arnhem
-
-- 5°. Bergen op Zoom
-
-- 6°. Blerick
-
-- 7°. Born
-
-- 8°. Dordrecht
-
-- 9°. Haven van Delfzijl
-
-- 10°. Haven van Rotterdam
-
-- 11°. Hengelo
-
-- 12°. Utrecht Lage Weide
-
-- 13°. Maastricht
-
-- 14°. Moerdijk
-
-- 15°. Nijmegen
-
-- 16°. Oosterhout Weststad
-
-- 17°. Oss
-
-- 18°. Roodeschool / Eemshaven
-
-- 19°. Roosendaal
-
-- 20°. Tilburg
-
-- 21°. Tiel
-
-- 22°. Vlaardingen
-
-- 23°. Vlissingen Sloehaven
-
-- 24°. Zeeuws Vlaanderen
-
-- 25°. Zwijndrecht
-
-- 26°. Zutphen
-
-- 27°. Zwolle
+Vervallen
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
