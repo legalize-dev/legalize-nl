@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2003-05-09"
+last_updated: "2005-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -80,7 +80,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 1. De hoeveelheid toxische pyrrolizidine-alkaloïden van kruidenpreparaten die bestaan uit materiaal dat geheel of ten dele afkomstig is van planten, bedoeld in onderdeel I van de bijlage, of van andere planten waarvan wordt aangenomen dat ze toxische pyrrolizidine-alkaloïden bevatten, bedraagt niet meer dan 1 µg per kg, onderscheidenlijk per liter.
 
-2. Kruidenpreparaten die bestaan uit materiaal dat geheel of ten dele afkomstig is van planten, bedoeld in onderdeel II van de bijlage, bevatten geen aristolochiazuren of derivaten hiervan.
+2. Kruidenpreparaten bevatten geen aristolochiazuren of derivaten hiervan.
 
 3. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten bedoeld in onderdeel III van de bijlage.
 
@@ -104,9 +104,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2003-05-09&g=2003-05-09) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2005-10-28&g=2005-10-28) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2003-05-09&g=2003-05-09), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2005-10-28&g=2005-10-28), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -114,12 +114,14 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2003-05-09&g=2003-05-09).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2005-10-28&g=2005-10-28).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
-### II. Planten uit het geslacht Aristolochia (Aristolochiaceae)
+### II. De volgende planten en schimmels:
 
 ### III. De volgende planten en schimmels:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
