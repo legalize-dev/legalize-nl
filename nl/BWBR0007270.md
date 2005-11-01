@@ -4,7 +4,7 @@ identifier: "BWBR0007270"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-21"
-last_updated: "1997-07-23"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007270"
 soort: "AMvB"
@@ -49,9 +49,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid, onderdeel **a**, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), alsmede waarin het de bescherming van de vrouw betreft, bedoeld in artikel 2, tweede lid, onderdeel **b**, van die wet, worden aangemerkt die gevallen die behoren tot één of meer van de volgende categorieën:
+Als gevallen waarin het geslacht bepalend is, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), alsmede waarin het de bescherming van de vrouw betreft, bedoeld in [artikel 2, tweede lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=2), worden aangemerkt die gevallen die behoren tot één of meer van de volgende categorieën:
 
-- a. de toegang tot de beroepsactiviteiten en de hiervoor noodzakelijke opleidingen, bedoeld in artikel 5, derde lid, aanhef en onderdeel **b**, van de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299), en die, bedoeld in [artikel 1 van het Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn](https://wetten.overheid.nl/jci1.3:c:BWBR0004551&artikel=1);
+- a. de toegang tot de beroepsactiviteiten en de hiervoor noodzakelijke opleidingen, bedoeld in [artikel 1 van het Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn](https://wetten.overheid.nl/jci1.3:c:BWBR0004551&artikel=1);
 
 - b. de bescherming van de gezondheid alsmede de geneeskundige behandeling of verzorging, waaronder begrepen geneeskundig onderzoek, in verband met zwangerschap, moederschap, de voortplantingsfunctie van de mens of anderszins de lichamelijke verschillen tussen mannen en vrouwen betreffende, voor zover voor een doelmatige bescherming dan wel behandeling of verzorging onderscheid op grond van geslacht nodig is;
 
