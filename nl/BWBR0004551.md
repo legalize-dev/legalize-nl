@@ -4,7 +4,7 @@ identifier: "BWBR0004551"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-11-01"
-last_updated: "2004-04-28"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004551"
 soort: "AMvB"
@@ -54,17 +54,19 @@ Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorko
 
 - c. de beroepsactiviteiten van modellen voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten;
 
-- d. de beroepsactiviteiten binnen particuliere huishoudens die inhouden de persoonlijke bediening, verzorging, verpleging of opvoeding van dan wel hulpverlening aan een of meer personen;
+- d. de beroepsactiviteiten van acteur, zanger, danser of kunstenaar, voor zover deze activiteiten betrekking hebben op het vertolken van bepaalde rollen;
 
-- e. de beroepsactiviteiten die inhouden de persoonlijke verzorging, verpleging of opvoeding van dan wel hulpverlening aan personen, indien de goede uitoefening van de aangeboden betrekking binnen het geheel van de arbeidsorganisatie ertoe noodzaakt dat deze wordt vervuld door een persoon van een bepaald geslacht;
+- e. de beroepsactiviteiten binnen particuliere huishoudens die inhouden de persoonlijke bediening, verzorging, verpleging of opvoeding van dan wel hulpverlening aan een of meer personen;
 
-- f. de beroepsactiviteiten die inhouden de behandeling of bejegening van personen, indien wegens ernstige schaamtegevoelens bij deze personen de goede uitoefening van de aangeboden betrekking binnen het geheel van de arbeidsorganisatie ertoe noodzaakt dat deze wordt vervuld door een persoon van een bepaald geslacht;
+- f. de beroepsactiviteiten die inhouden de persoonlijke verzorging, verpleging of opvoeding van dan wel hulpverlening aan personen, indien de goede uitoefening van de aangeboden betrekking binnen het geheel van de arbeidsorganisatie ertoe noodzaakt dat deze wordt vervuld door een persoon van een bepaald geslacht;
 
-- g. de beroepsactiviteiten waarvan de vervulling of uitoefening door personen van een bepaald geslacht feitelijk wordt belemmerd door wettelijke voorschriften betreffende de bescherming van personen van dat geslacht bij de arbeid;
+- g. de beroepsactiviteiten die inhouden de behandeling of bejegening van personen, indien wegens ernstige schaamtegevoelens bij deze personen de goede uitoefening van de aangeboden betrekking binnen het geheel van de arbeidsorganisatie ertoe noodzaakt dat deze wordt vervuld door een persoon van een bepaald geslacht;
 
-- h. de beroepsactiviteiten die uitgeoefend worden in het buitenland, indien door het aldaar geldende recht deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;
+- h. de beroepsactiviteiten waarvan de vervulling of uitoefening door personen van een bepaald geslacht feitelijk wordt belemmerd door wettelijke voorschriften betreffende de bescherming van personen van dat geslacht bij de arbeid;
 
-- i. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.
+- i. de beroepsactiviteiten die uitgeoefend worden in het buitenland, indien door het aldaar geldende recht deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;
+
+- j. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.
 
 ##### Artikel 2
 
