@@ -4,7 +4,7 @@ identifier: "BWBR0017712"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2005-01-01"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017712"
 soort: "ministeriele-regeling"
@@ -83,7 +83,7 @@ waarbij de dwarskracht Y is en de verticale kracht van de wiellast Q is.
 
 ##### Artikel 3
 
-1. De hoofdspoorweginfrastructuur voldoet aan het profiel van vrije ruimte ‘PVR-GC’, genoemd in UIC nr. 506, zoals opgenomen in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=1&z=2005-01-01&g=2005-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=2&z=2005-01-01&g=2005-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=3&z=2005-01-01&g=2005-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=4&z=2005-01-01&g=2005-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=5&z=2005-01-01&g=2005-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=6&z=2005-01-01&g=2005-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=7&z=2005-01-01&g=2005-01-01).
+1. De hoofdspoorweginfrastructuur voldoet aan het profiel van vrije ruimte ‘PVR-GC’, genoemd in UIC nr. 506, zoals opgenomen in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=1&z=2005-11-01&g=2005-11-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=2&z=2005-11-01&g=2005-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=3&z=2005-11-01&g=2005-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=4&z=2005-11-01&g=2005-11-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=5&z=2005-11-01&g=2005-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=6&z=2005-11-01&g=2005-11-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=7&z=2005-11-01&g=2005-11-01).
 
 2. Binnen het profiel van vrije ruimte bevinden zich geen vaste voorwerpen.
 
@@ -135,7 +135,7 @@ Hoofdspoorweginfrastructuur is buiten overwegen voorzien van een afscherming waa
 
 ##### Artikel 7
 
-1. De toegelaten slijtage van de wissels en de spoorstaafkop is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=8&z=2005-01-01&g=2005-01-01).
+1. De toegelaten slijtage van de wissels en de spoorstaafkop is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&bijlage=8&z=2005-11-01&g=2005-11-01).
 
 2. De wissels zijn geschikt voor wielen:
 
@@ -221,7 +221,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 ##### Artikel 11
 
-1. Openbare actief beveiligde overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-01-01&g=2005-01-01) genoemde inrichting, tevens voorzien van:
+1. Openbare actief beveiligde overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-11-01&g=2005-11-01) genoemde inrichting, tevens voorzien van:
 
 - a. een tenminste aan de rechterzijde van de weg geplaatst knipperend rood of wit licht;
 
@@ -239,7 +239,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 ##### Artikel 12
 
-1. Openbare bewaakte overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-01-01&g=2005-01-01) genoemde inrichting tevens voorzien van:
+1. Openbare bewaakte overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-11-01&g=2005-11-01) genoemde inrichting tevens voorzien van:
 
 - a. een ten minste aan de rechterzijde van de weg geplaatst knipperend rood licht;
 
@@ -307,7 +307,7 @@ De spanning aan een stroomafnemer voldoet aan NEN-EN nr. 50163.
 
 ##### Artikel 20
 
-1. De bovenleiding is geschikt voor een maximale stroomafname bij stilstand overeenkomstig EN nr. 50376.
+1. De bovenleiding is geschikt voor een maximale stroomafname bij stilstand overeenkomstig EN nr. 50367.
 
 2. De rijdraad van de bovenleiding is geschikt voor een maximale temperatuur bij stroomafname ter plaatse van de stroomafnemer van 150ºC.
 
@@ -331,33 +331,33 @@ De spanning aan een stroomafnemer voldoet aan NEN-EN nr. 50163.
 
 Hoofdspoorweginfrastructuur, die in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 6 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=6) in werking treedt, wordt gebruikt, voldoet ten aanzien van het onderhoud bij voortduring ten minste aan de volgende eisen:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=6&z=2005-01-01&g=2005-01-01) voor wat betreft de spoorwijdte;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=6&z=2005-11-01&g=2005-11-01) voor wat betreft de spoorwijdte;
 
-- b. [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-01-01&g=2005-01-01), voor wat betreft de slijtage van de wissels en de spoorstaaf;
+- b. [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-11-01&g=2005-11-01), voor wat betreft de slijtage van de wissels en de spoorstaaf;
 
-- c. [artikel 7 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-01-01&g=2005-01-01), voor wat betreft de strijkregel;
+- c. [artikel 7 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-11-01&g=2005-11-01), voor wat betreft de strijkregel;
 
-- d. [artikel 8, eerste lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-01-01&g=2005-01-01), voor wat betreft de verkanting.
+- d. [artikel 8, eerste lid, onderdelen c tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-11-01&g=2005-11-01), voor wat betreft de verkanting.
 
 #### § 9. Uitzonderingsbepalingen
 
 ##### Artikel 23
 
-1. Op hoofdspoorweginfrastructuur of onderdelen daarvan waarin nieuwe technologieën of concepten zijn verwerkt zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=6&z=2005-01-01&g=2005-01-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-01-01&g=2005-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-01-01&g=2005-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=9&z=2005-01-01&g=2005-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-01-01&g=2005-01-01) niet van toepassing, mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
+1. Op hoofdspoorweginfrastructuur of onderdelen daarvan waarin nieuwe technologieën of concepten zijn verwerkt zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=6&z=2005-11-01&g=2005-11-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-11-01&g=2005-11-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-11-01&g=2005-11-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=9&z=2005-11-01&g=2005-11-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-11-01&g=2005-11-01) niet van toepassing, mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
 
-2. Op delen van de hoofdspoorweginfrastructuur dat gebruikt wordt voor grensoverschrijdend spoorverkeer zijn de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), [4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-01-01&g=2005-01-01) niet van toepassing mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
+2. Op delen van de hoofdspoorweginfrastructuur dat gebruikt wordt voor grensoverschrijdend spoorverkeer zijn de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=3&z=2005-11-01&g=2005-11-01), [4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=4&z=2005-11-01&g=2005-11-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-11-01&g=2005-11-01) niet van toepassing mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
 
 ##### Artikel 24
 
 1. De Minister kan in ieder geval ontheffing verlenen van:
 
-- a. de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=13&z=2005-01-01&g=2005-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-01-01&g=2005-01-01) ten behoeve van het uitvoeren van proefritten;
+- a. de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=13&z=2005-11-01&g=2005-11-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-11-01&g=2005-11-01) ten behoeve van het uitvoeren van proefritten;
 
-- b. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=3&z=2005-01-01&g=2005-01-01), voor het uitvoeren van werkzaamheden;
+- b. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=3&z=2005-11-01&g=2005-11-01), voor het uitvoeren van werkzaamheden;
 
-- c. [artikel 8, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-01-01&g=2005-01-01), voor het aanleggen van spoorviaducten en tunnels mits gewaarborgd wordt dat spoorvoertuigen in beladen of onbeladen toestand een steilere helling kunnen berijden;
+- c. [artikel 8, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-11-01&g=2005-11-01), voor het aanleggen van spoorviaducten en tunnels mits gewaarborgd wordt dat spoorvoertuigen in beladen of onbeladen toestand een steilere helling kunnen berijden;
 
-- d. [artikel, 4, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=4&z=2005-01-01&g=2005-01-01), voor het aanleggen van bogen in perrons.
+- d. [artikel, 4, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=4&z=2005-11-01&g=2005-11-01), voor het aanleggen van bogen in perrons.
 
 2. De in het eerste lid, onderdelen a en b, genoemde ontheffingen gelden slechts voor de duur van de proefritten en de werkzaamheden.
 
