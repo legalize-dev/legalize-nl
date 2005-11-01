@@ -4,7 +4,7 @@ identifier: "BWBR0006502"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006502"
 soort: "wet"
@@ -44,13 +44,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;
 
 - b. direct onderscheid: onderscheid tussen personen op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;
 
 - c. indirect onderscheid: onderscheid op grond van andere hoedanigheden of gedragingen dan die bedoeld in onderdeel **b**, dat direct onderscheid tot gevolg heeft.
+
+2. Onder direct onderscheid op grond van geslacht wordt mede verstaan onderscheid op grond van zwangerschap, bevalling en moederschap.
 
 ##### Artikel 2
 
@@ -152,11 +154,13 @@ Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot
 
 ##### Artikel 8
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-01-01&g=2005-01-01), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-01-01&g=2005-01-01) of terzake bijstand heeft verleend, is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-11-01&g=2005-11-01), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-11-01&g=2005-11-01) of terzake bijstand heeft verleend, is vernietigbaar.
 
-2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
+2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
 
 3. Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.
+
+4. De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.
 
 ##### Artikel 9
 
@@ -164,7 +168,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 12
 
-1. De Commissie kan op schriftelijk verzoek onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), en haar oordeel daaromtrent kenbaar maken. Voorts kan de Commissie uit eigen beweging onderzoeken of zodanig onderscheid stelselmatig wordt gemaakt in de openbare dienst of binnen één of meer sectoren van het maatschappelijk leven, en haar oordeel daarover kenbaar maken.
+1. De Commissie kan op schriftelijk verzoek onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), en haar oordeel daaromtrent kenbaar maken. Voorts kan de Commissie uit eigen beweging onderzoeken of zodanig onderscheid stelselmatig wordt gemaakt en haar oordeel daarover kenbaar maken.
 
 2. Een schriftelijk verzoek als bedoeld in het eerste lid, kan worden ingediend door:
 
@@ -218,11 +222,11 @@ Bedingen in strijd met deze wet zijn nietig.
 
 1. De Commissie stelt geen onderzoek in, indien:
 
-- a. het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=12&z=2005-01-01&g=2005-01-01), bedoelde verzoek kennelijk ongegrond is;
+- a. het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=12&z=2005-11-01&g=2005-11-01), bedoelde verzoek kennelijk ongegrond is;
 
 - b. het belang van de verzoeker of het gewicht van de gedraging kennelijk onvoldoende is;
 
-- c. sinds het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=12&z=2005-01-01&g=2005-01-01) bedoelde onderscheid een zodanige termijn is verstreken dat in redelijkheid geen onderzoek meer kan plaatsvinden.
+- c. sinds het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=12&z=2005-11-01&g=2005-11-01) bedoelde onderscheid een zodanige termijn is verstreken dat in redelijkheid geen onderzoek meer kan plaatsvinden.
 
 2. Indien zich gevallen als bedoeld in het eerste lid voordoen, doet de Commissie daarover aan verzoeker schriftelijk en met redenen omkleed mededeling.
 
@@ -234,7 +238,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 16
 
-1. De Commissie bestaat uit negen leden - onder wie een voorzitter en twee ondervoorzitters - en evenzovele plaatsvervangende leden.
+1. De Commissie bestaat uit negen leden, onder wie een voorzitter en twee ondervoorzitters. Voorts kunnen plaatsvervangende leden worden benoemd.
 
 2. De voorzitter en de ondervoorzitters moeten voldoen aan de bij of krachtens [artikel 1d van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1d) gestelde vereisten voor benoembaarheid tot rechterlijk ambtenaar.
 
@@ -254,8 +258,6 @@ Bedingen in strijd met deze wet zijn nietig.
 
 2. Onze Minister van Justitie benoemt, bevordert, schorst en ontslaat, op voordracht van de Commissie, de personen die tot het bureau behoren. Onze Minister van Justitie bepaalt in welke gevallen zij worden benoemd, bevorderd, geschorst en ontslagen.
 
-3. De secretaris, tevens hoofd van het bureau, moet voldoen aan de bij of krachtens [artikel 1d van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1d) gestelde vereisten voor benoembaarheid tot rechterlijk ambtenaar.
-
 ##### Artikel 18
 
 1. De Commissie kan zich bij de uitoefening van haar taak doen bijstaan door daartoe door Onze Minister wie het aangaat aangewezen ambtenaren.
@@ -264,7 +266,7 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 19
 
-1. De Commissie en de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=17&z=2005-01-01&g=2005-01-01) bedoelde personen die door de Commissie daartoe zijn aangewezen, kunnen alle inlichtingen en bescheiden vorderen die voor de vervulling van de taak van de Commissie redelijkerwijze nodig zijn.
+1. De Commissie en de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=17&z=2005-11-01&g=2005-11-01) bedoelde personen die door de Commissie daartoe zijn aangewezen, kunnen alle inlichtingen en bescheiden vorderen die voor de vervulling van de taak van de Commissie redelijkerwijze nodig zijn.
 
 2. Een ieder is verplicht, behoudens verschoning wegens ambts- of beroepsgeheim, de ingevolge het eerste lid gevorderde inlichtingen en bescheiden volledig en naar waarheid te verstrekken, een en ander op de wijze en binnen de termijn door of namens de Commissie vast te stellen. Deze verplichting geldt niet, indien een persoon daardoor of zichzelf of een van zijn bloed- of aanverwanten in de rechte lijn of in de zijlijn in de tweede of de derde graad of zijn echtgenoot of eerdere echtgenoot dan wel geregistreerde partner of eerdere geregistreerde partner aan het gevaar van een strafrechtelijke veroordeling ter zake van een misdrijf zou blootstellen.
 
@@ -284,9 +286,11 @@ Bedingen in strijd met deze wet zijn nietig.
 
 - c. de openbaarheid van zittingen;
 
-- d. de openbaarmaking van haar oordeel, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=13&z=2005-01-01&g=2005-01-01).
+- d. de openbaarmaking van haar oordeel, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=13&z=2005-11-01&g=2005-11-01).
 
-2. Bij algemene maatregel van bestuur worden de bezoldiging, de vergoeding van reis- en verblijfkosten en de verdere vergoedingen van de leden en de plaatsvervangende leden van de Commissie vastgesteld en worden regels gesteld omtrent het recht op wachtgeld van de leden van de Commissie na het verstrijken van het tijdvak waarvoor zij zijn benoemd.
+2. De leden van de Commissie genieten een bezoldiging voor hun werkzaamheden. Over hun rechtspositie worden nadere regels gesteld bij algemene maatregel van bestuur. Deze regels hebben in ieder geval betrekking op aanstelling en loopbaanvorming, bezoldiging, toelagen, toeslagen, vergoedingen, rechten en plichten bij reorganisaties, disciplinaire straffen, schorsing en ontslag.
+
+3. De plaatsvervangende leden genieten een zittingsgeld voor hun werkzaamheden, alsmede een vergoeding van reis- en verblijfkosten.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -336,7 +340,7 @@ Vervallen
 
 ##### Artikel 33
 
-Onze Minister van Binnenlandse Zaken zendt in overeenstemming met Onze Ministers van Justitie, van Sociale Zaken en Werkgelegenheid, van Onderwijs en Wetenschappen en van Welzijn, Volksgezondheid en Cultuur zo spoedig mogelijk na de ontvangst van het in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=20&z=2005-01-01&g=2005-01-01), bedoelde rapport, aan de Staten-Generaal een verslag over de werking in de praktijk van deze wet, de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
+Onze Minister van Binnenlandse Zaken zendt in overeenstemming met Onze Ministers van Justitie, van Sociale Zaken en Werkgelegenheid, van Onderwijs en Wetenschappen en van Welzijn, Volksgezondheid en Cultuur zo spoedig mogelijk na de ontvangst van het in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=2&artikel=20&z=2005-11-01&g=2005-11-01), bedoelde rapport, aan de Staten-Generaal een verslag over de werking in de praktijk van deze wet, de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
 
 ##### Artikel 34
 
@@ -354,9 +358,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod van intimidatie.
 
-2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2005-01-01&g=2005-01-01), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2005-11-01&g=2005-11-01), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-3. Op het in deze wet neergelegde verbod van intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2005-01-01&g=2005-01-01), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-01-01&g=2005-01-01), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2005-01-01&g=2005-01-01), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2005-01-01&g=2005-01-01).
+3. Op het in deze wet neergelegde verbod van intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2005-11-01&g=2005-11-01), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2005-11-01&g=2005-11-01), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2005-11-01&g=2005-11-01), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2005-11-01&g=2005-11-01).
 
 #### § 2. Algemene uitzonderingen
 
@@ -376,7 +380,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2005-01-01&g=2005-01-01) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
+1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2005-11-01&g=2005-11-01) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
 
 2. Bij algemene maatregel van bestuur kunnen de begrippen sociale bescherming, sociale zekerheid en sociale voordelen, bedoeld in het eerste lid, worden omschreven. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
