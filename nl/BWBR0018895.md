@@ -81,9 +81,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet van 2
 Dit besluit wordt aangehaald als: Besluit kennisgeving gerechtelijke mededelingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Dit besluit berust op de [artikelen 36e, eerste lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e), [36g, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36g), en [36m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36m).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
