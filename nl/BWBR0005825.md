@@ -4,7 +4,7 @@ identifier: "BWBR0005825"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2002-07-10"
+last_updated: "2005-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005825"
 soort: "ministeriele-regeling"
@@ -110,19 +110,19 @@ Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wette
 
 1. De voor de officiële controle van de temperatuur van diepgevroren levensmiddelen benodigde analysemethode wordt uitgevoerd in overeenstemming met de bijlage.
 
-2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2002-07-10), worden overschreden.
+2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04), worden overschreden.
 
 ##### Artikel 10
 
-Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2002-07-10), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
+Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2005-11-04), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
 
 ##### Artikel 11
 
 1. Deze regeling treedt in werking met ingang van 10 januari 1993.
 
-2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2002-07-10&g=2002-07-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2002-07-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2002-07-10&g=2002-07-10) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
+2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2002-07-10&g=2005-11-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2005-11-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2002-07-10&g=2005-11-04) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
 
-3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2002-07-10), vervalt met ingang van 10 januari 1997.
+3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04), vervalt met ingang van 10 januari 1997.
 
 ##### Artikel 12
 
@@ -134,7 +134,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 1. Toepassingsgebied
 
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2002-07-10) voorgeschreven temperaturen van diepgevroren levensmiddelen.
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04) voorgeschreven temperaturen van diepgevroren levensmiddelen.
 
 ##### 2. Principe
 
