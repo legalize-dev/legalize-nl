@@ -83,9 +83,3 @@ Deze regeling wordt aangehaald als: Sanctieregeling Congo 2005.
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 889/2005 van de Raad van de Europese Unie van 13 juni 2005 tot vaststelling van bepaalde beperkende maatregelen ten aanzien van de Democratische Republiek Congo en tot intrekking van Verordening (EG) nr. 1727/2003 (Pb EG L 152), is de Minister van Economische Zaken voor zover het betreft technische bijstand, bedoeld in voornoemd artikel 3, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 3, eerste lid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
