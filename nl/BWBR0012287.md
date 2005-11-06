@@ -4,7 +4,7 @@ identifier: "BWBR0012287"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2005-11-01"
+last_updated: "2005-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012287"
 soort: "circulaire"
@@ -197,7 +197,7 @@ Toegang kan worden verleend aan een niet-visumplichtige vreemdeling die zijn ver
 
 Omtrent het ondertekenen van de bewustverklaring, het eventuele opleggen van de meldingsplicht en het stellen van financiële zekerheid worden aantekeningen gesteld in het document voor grensoverschrijding van de vreemdeling ([artikel 4.24, eerste lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.24)).
 
-Aan de korpschef wordt van de verlening van toegang onder voorwaarden kennis gegeven door middel van formulier [M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2005-11-01&g=2005-11-01). Door de vreemdeling overgelegde verklaringen worden met deze kennisgeving meegezonden.
+Aan de korpschef wordt van de verlening van toegang onder voorwaarden kennis gegeven door middel van formulier [M20](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M20&z=2005-11-06&g=2005-11-06). Door de vreemdeling overgelegde verklaringen worden met deze kennisgeving meegezonden.
 
 ### 5.2. Toegangsweigering
 
@@ -303,7 +303,7 @@ Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en person
 
 ### 6.3.3.3. Weigering van toegang op grond van gevaar voor de openbare orde, nationale veiligheid en volksgezondheid
 
-Aan een EU/EER-onderdaan of Zwitserse onderdaan moet bij weigering van toegang aan de grens wegens gevaar voor de openbare orde, de nationale veiligheid of de volksgezondheid een schriftelijke gemotiveerde beschikking worden uitgereikt overeenkomstig [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2005-11-01&g=2005-11-01) ([artikel 8.7, tweede lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)).
+Aan een EU/EER-onderdaan of Zwitserse onderdaan moet bij weigering van toegang aan de grens wegens gevaar voor de openbare orde, de nationale veiligheid of de volksgezondheid een schriftelijke gemotiveerde beschikking worden uitgereikt overeenkomstig [model M18](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M18&z=2005-11-06&g=2005-11-06) ([artikel 8.7, tweede lid, Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7)).
 
 ### 6.3.4. De Overeenkomst ter uitvoering van het Akkoord van Schengen
 
@@ -477,7 +477,7 @@ Aan scholieren van derde landen die rechtmatig in Nederland verblijven, kan ter 
 
 De scholieren komen voor deze faciliteit in aanmerking, indien:
 
-Voor de afgifte van de reizigerslijst dient gebruikt te worden gemaakt van [model M79](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M79&z=2005-11-01&g=2005-11-01) en deze wordt door het visaloket van de Immigratie- en Naturalisatiedienst (IND) afgegeven. Zie voor een omschrijving van de procedure paragraaf 7.4.
+Voor de afgifte van de reizigerslijst dient gebruikt te worden gemaakt van [model M79](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M79&z=2005-11-06&g=2005-11-06) en deze wordt door het visaloket van de Immigratie- en Naturalisatiedienst (IND) afgegeven. Zie voor een omschrijving van de procedure paragraaf 7.4.
 
 ### 7.2.5. Visa met verplichting tot aanmelding
 
@@ -1771,6 +1771,84 @@ Vervallen
 
 ## Model M44. Bewustverklaring Au Pair
 
+## Model M44-A. Overeenkomst Au pair – Gastgezin
+
+## Model M46-A. Verklaring op grond van art. 44, eerste lid, onder k Boek I BW en art. 36a Wet GBA
+
+## Model M46-B. Verklaring op grond van art. 44, eerste lid, onder k Boek I BW en art. 36a Wet GBA
+
+## Model M46-C. Verklaring op grond van art. 44, eerste lid, onder k Boek I BW en art. 36a Wet GBA
+
+## Model M46-D. Verklaring op grond van art. 44, eerste lid, onder k Boek I BW en art. 36a Wet GBA
+
+## Model M47. Garantverklaring
+
+## Model M47-A. Garantverklaring verkorte mvv-procedure (bedrijven en onderwijsinstelingen)
+
+## Model M48. Garantverklaring uitwisselingsorganisatie
+
+## Model M49. Arbeidsongeschiktheidsverklaring
+
+## Model M50. Checklist mvv-vereiste
+
+## Model M51-A. Verklaring ontvangst waarborgsom
+
+## Model M51-B. Verklaring teruggave waarborgsom
+
+Vervallen
+
+## Model M52. Verzoek aan de vreemdeling om in persoon te verschijnen
+
+## Model M53. Verklaring tot intrekking van de aanvraag tot het verlenen van een verblijfsvergunning
+
+## Model M54. Aanvraagformulier verstrekkingen RvA 1997
+
+## Model M55
+
+## Model M56
+
+## Model M57. Verklaring inkomen ondernemer
+
+## Model M58. Aanvraag verblijfsvergunning kennismigrant met mvv
+
+## Model M59. Aanvraag verblijfsvergunning kennismigrant of wijziging beperking zonder mvv
+
+## Model M60. Positief advies mvv
+
+Vervallen
+
+## Model M61. Negatief advies mvv
+
+Vervallen
+
+## Model M62. Staat van inlichtingen mvv
+
+Vervallen
+
+## Model M63. Voorstel of aanvraag bijzondere aanwijzing
+
+## Model M64. Beschikking tot het niet in behandeling nemen van een aanvraag verblijfsvergunning (on)bepaalde tijd (art. 4:5 Awb)
+
+Vervallen
+
+## Model M65-A. Beschikking aanvraag (on)bepaalde tijd afwijzen
+
+Vervallen
+
+## Model M65-B. Beschikking afwijzen aanvraag verlengen bepaalde tijd
+
+Vervallen
+
+## Model M65-C. Beschikking afwijzen aanvraag wijziging verblijfsvergunning
+
+Vervallen
+
+## Model M66. Beschikking intrekking verblijfsvergunning
+
+Vervallen
+
+## Model M67. Staat van inlichtingen opname ter adoptie
+
 ## Model M45. Bewustverklaring geestelijk voorganger / godsdienstleraar
 
 ## Model M46-A. Verklaring op grond van art. 44, eerste lid, onder k Boek I BW en art. 36a Wet GBA
@@ -1893,66 +1971,6 @@ Vervallen
 
 ## Model M81-A. Geprivilegieerdendocument (toelichting)
 
-## Model M82. Reisdocument voor vluchtelingen
-
-## Model M83. Aanvraag vervanging, vernieuwing of eerste aanvraag vreemdelingendocument
-
-## Model M84-M89. Gereserveerd
-
-## Model M90. Vordering van de vreemdeling om in persoon te verschijnen
-
-## Model M91. Kennisgeving adreswijziging/vertrek
-
-## Model M92. Verhuismutaties (melding aan de IND)
-
-## Model M93. Bericht omtrent signalering
-
-## Model M94-A. Verklaring ex artikel 25 lid 1 Uitvoeringsovereenkomst Schengen
-
-## Model M94-B. Verklaring ex artikel 25 lid 2 Uitvoeringsovereenkomst Schengen
-
-## Model M95-M99. Gereserveerd
-
-## Model M100. Bericht verwijdering
-
-## Model M101. Ontvangstbewijs voor het tijdelijk in bewaring nemen van reis- en/of identiteitspapieren
-
-## Model M102-M109
-
-## Model M110-A. Maatregel van bewaring
-
-## Model M110-B. Proces-verbaal van gehoor (art. 59 Vw 2000 jo. art. 5.2 Vb 2000)
-
-## Model M111-A. Proces-verbaal staandehouding (art. 50, eerste lid, van de Vreemdelingenwet)
-
-## Model M111-B. Proces-verbaal toepassing art. 50, tweede of derde lid, van de Vw
-
-## Model M111-C. Proces-verbaal art. 50 Vw (mobiel toezicht vreemdelingen)
-
-## Model M111-D. Beschikking verlenging ophouding art. 50, vierde lid van de Vw
-
-## Model M112. Verzoek opneming van een inbewaringgestelde vreemdeling in een huis van bewaring
-
-## Model M113. Opheffing van een aanwijzing/maatregel als bedoeld in artikel 6, 50, 55, 56, 57, 58 of 59* Vw
-
-## Model M114. Verzoek om ontslag uit een justitiële inrichting
-
-## Model M115. Lichtingsverzoek
-
-## Model M116. Aanwijzing ex artikel 58 Vreemdelingenwet
-
-## Model M117-A. Aanwijzing ingevolge artikel 55 en/of meldplicht ingevolge artikel 54 van de Vreemdelingenwet (asielzoekers)
-
-## Model M117-B. Vervolgaanwijzing ingevolge artikel 55 van de Vreemdelingenwet (asielzoekers)
-
-## Model M117-C. Aanwijzing ingevolge artikel 55 van de Vreemdelingenwet op de aanmeldcentra
-
-## Model M118. Geleidebrief/Checklist i.v.m. toepassing art.6/58/59 Vreemdelingenwet 2000
-
-## Model M119. Dossier vreemdelingenbewaring
-
-## Model M120. (Voortgangs)gegevens met betrekking tot uitzetting (10-dagen)
-
 Ingevolge de Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening wordt de vreemdeling voor de behandeling van een aanvraag om een terugkeervisum € 40 in rekening gebracht.
 
 Zie voor verrekening van visumgelden A2/7.8.5.
@@ -2003,7 +2021,7 @@ De vreemdeling die een passagebiljet of een garantiesom heeft gedeponeerd, moet 
 
 Vreemdelingen die Nederland hebben verlaten zonder zich vooraf wederom in het bezit van de garantiesom of het passagebiljet te hebben gesteld, dienen zich tot een in hun land gevestigde Nederlandse diplomatieke of consulaire vertegenwoordiging te wenden met het verzoek om restitutie van de garantiesom respectievelijk teruggave van het passagebiljet. Een vreemdeling die rechtstreeks vanuit het buitenland een verzoek om restitutie indient, moet worden verwezen naar de Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land.
 
-Bij de behandeling van zulke verzoeken wordt gebruik gemaakt van twee standaardformulieren, een voor de restitutie van een garantiesom ([M137-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-A&z=2005-11-01&g=2005-11-01)) en een voor de teruggave van een passagebiljet ([M137-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-B&z=2005-11-01&g=2005-11-01)). De formulieren bestaan uit vijf brieven, die tezamen één geheel vormen en niet van elkaar mogen worden gescheiden.
+Bij de behandeling van zulke verzoeken wordt gebruik gemaakt van twee standaardformulieren, een voor de restitutie van een garantiesom ([M137-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-A&z=2005-11-06&g=2005-11-06)) en een voor de teruggave van een passagebiljet ([M137-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M137-B&z=2005-11-06&g=2005-11-06)). De formulieren bestaan uit vijf brieven, die tezamen één geheel vormen en niet van elkaar mogen worden gescheiden.
 
 Nadat de in de derde brief verzochte handelingen zijn verricht, moet het formulier in zijn geheel worden teruggezonden aan de IND. Een kopie van het betreffende formulier wordt bewaard in de administratie.
 
@@ -2017,7 +2035,7 @@ Ten bewijze van het opleggen en het voldoen aan de verplichting tot periodieke a
 
 In afwijking van het bovenstaande wordt een asielzoeker in het onderzoeks- en opvangcentrum in het bezit gesteld van een registratiekaart meldingsplicht asielzoekers (W-document) (zie [C3/12.3](onbekend)).
 
-Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de meldingsplicht kan dit een aanwijzing zijn dat hij het land heeft verlaten of dat hij zich definitief aan het toezicht heeft onttrokken. Indien de vreemdeling zich twee achtereenvolgende keren niet houdt aan de meldingsplicht dient hij gevorderd te worden ([model M90](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M90&z=2005-11-01&g=2005-11-01)) om in persoon gegevens te verstrekken omtrent de onttrekking aan de meldingsplicht. Reageert de vreemdeling niet dan kan geconcludeerd worden dat hij Nederland heeft verlaten of zich definitief aan het toezicht heeft onttrokken en dient hij in het VAS te worden afgemeld. Voor asielzoekers die in een opvangcentrum verblijven geldt een uitzondering op deze regel. Gezien het betrekkelijke gemak waarmee het daadwerkelijke vertrek van de betrokkene kan worden gecontroleerd door de Vreemdelingendienst ter plaatse, dient in deze gevallen altijd een adrescontrole plaats te vinden, alvorens conclusies over het definitieve vertrek van de vreemdeling worden getrokken. Voorts vereist de omstandigheid dat deze vreemdelingen direct ten laste komen van de openbare kas en het feit dat indien een vreemdeling vertrekt, de woning kan worden betrokken door een andere vreemdeling, dat het vertrek onomstotelijk vast komt te staan.
+Indien de vreemdeling zich ondanks een verplichting daartoe niet houdt aan de meldingsplicht kan dit een aanwijzing zijn dat hij het land heeft verlaten of dat hij zich definitief aan het toezicht heeft onttrokken. Indien de vreemdeling zich twee achtereenvolgende keren niet houdt aan de meldingsplicht dient hij gevorderd te worden ([model M90](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M90&z=2005-11-06&g=2005-11-06)) om in persoon gegevens te verstrekken omtrent de onttrekking aan de meldingsplicht. Reageert de vreemdeling niet dan kan geconcludeerd worden dat hij Nederland heeft verlaten of zich definitief aan het toezicht heeft onttrokken en dient hij in het VAS te worden afgemeld. Voor asielzoekers die in een opvangcentrum verblijven geldt een uitzondering op deze regel. Gezien het betrekkelijke gemak waarmee het daadwerkelijke vertrek van de betrokkene kan worden gecontroleerd door de Vreemdelingendienst ter plaatse, dient in deze gevallen altijd een adrescontrole plaats te vinden, alvorens conclusies over het definitieve vertrek van de vreemdeling worden getrokken. Voorts vereist de omstandigheid dat deze vreemdelingen direct ten laste komen van de openbare kas en het feit dat indien een vreemdeling vertrekt, de woning kan worden betrokken door een andere vreemdeling, dat het vertrek onomstotelijk vast komt te staan.
 
 ### 6.7. Toezending van reisdocumenten aan de doorlaatpost van uitreis
 
@@ -2125,11 +2143,11 @@ Ook wordt de datum vermeld met ingang waarop de verblijfsvergunning overeenkomst
 
 ### 4.1. Taken en bevoegdheden
 
-## Model M122
+## Model M82. Reisdocument voor vluchtelingen
 
-## Model M123-M129. Gereserveerd
+## Model M83. Aanvraag vervanging, vernieuwing of eerste aanvraag vreemdelingendocument
 
-## Model M130. Brochure ongewenstverklaring
+## Model M84-M89. Gereserveerd
 
 Een signalering is een feitelijke handeling waartegen geen rechtsmiddel open staat. Een beslissing op een aanvraag om opheffing van de signalering dient echter te worden aangemerkt als een besluit in de zin van artikel 1:3, eerste lid, Algemene wet bestuursrecht (Awb). Dit brengt met zich dat tegen het besluit het rechtsmiddel bezwaar kan worden aangewend.
 
@@ -2227,19 +2245,19 @@ Ook wordt de datum vermeld met ingang waarop de verblijfsvergunning overeenkomst
 
 ### 5. Controle op juistheid van de gegevens
 
-## Model M131-A. Schema van voorrechten en immuniteiten op grond van het Diplomatenverdrag
+## Model M90. Vordering van de vreemdeling om in persoon te verschijnen
 
-## Model M131-B. Schema van voorrechten en immuniteiten op grond van het Consulaire Verdrag
+## Model M91. Kennisgeving adreswijziging/vertrek
 
-## Model M132. Verzoek om inlichtingen aan de Regionale Directie Arbeidsvoorziening
+## Model M92. Verhuismutaties (melding aan de IND)
 
-## Model M133-A. Inlichtingenformulier voor het vragen van inlichtingen conform art. 8.1 Vb
+## Model M93. Bericht omtrent signalering
 
-## Model M133-B. Antwoordformulier
+## Model M94-A. Verklaring ex artikel 25 lid 1 Uitvoeringsovereenkomst Schengen
 
-## Model M133-C. Informatieformulier voor het verstrekken van gegevens conform art. 8.2 Vb
+## Model M94-B. Verklaring ex artikel 25 lid 2 Uitvoeringsovereenkomst Schengen
 
-## Model M133-D. Informatieformulier voor het verstrekken van gegevens conform art. 8.2 Vb
+## Model M95-M99. Gereserveerd
 
 Vreemdelingen die rechtmatig verblijven indien tegen de uitzetting beletselen bestaan als bedoeld in artikel 64 Vreemdelingenwet 2000, en vreemdelingen die rechtmatig verblijven vanwege een vertrekmoratorium krijgen als identiteitsbewijs het verblijfsdocument conform bijlage 7f2.
 
@@ -2247,7 +2265,7 @@ Vreemdelingen die rechtmatig verblijven indien tegen de uitzetting beletselen be
 
 ### 3.7.1. Periodieke aanmelding ex artikel 4.51 Vreemdelingenbesluit
 
-Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2005-11-01&g=2005-11-01).
+Over het (aangenomen) vertrek van een vreemdeling wordt de IND geïnformeerd door middel van een formulier [M100](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M100&z=2005-11-06&g=2005-11-06).
 
 Indien een vreemdeling bij herhaling opzettelijk niet voldoet aan de hem opgelegde meldingsplicht kan dit onder omstandigheden aanleiding zijn voor in bewaringstelling ex [artikel 59 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) of vrijheidsontneming ex [artikel 58 Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=58). Zie A5.
 
@@ -2291,9 +2309,9 @@ Ook wijzigingen of opheffing van het voorschrift worden geregistreerd.
 
 ### 5.2. Algemene controle
 
-## Model M134. Verrekeningsstaat
+## Model M100. Bericht verwijdering
 
-## Model M135. Declaratie kosten verwijdering
+## Model M101. Ontvangstbewijs voor het tijdelijk in bewaring nemen van reis- en/of identiteitspapieren
 
 Het uitzetcentrum Zestienhoven en het uitzetcentrum Schiphol zijn locaties in de zin van [artikel 6 van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), waar het regime van het Reglement grenslogies geldt. Het uitzetcentrum is **in beginsel** bedoeld voor illegale vreemdelingen die bij (grootschalige) acties in vreemdelingenbewaring worden gesteld en voor andere illegale vreemdelingen voorzover deze op korte termijn uitzetbaar zijn. Echter, de duur van het verblijf in het uitzetcentrum is niet aan een wettelijk maximum gebonden. Vreemdelingenbewaring in een uitzetcentrum kan duren zolang de openbare orde of de nationale veiligheid dat vergt en zolang er zicht is op uitzetting. Ook vanuit de optiek van de in het uitzetcentrum aanwezige voorzieningen bestaat er geen limiet aan de verblijfsduur in het uitzetcentrum.
 
@@ -2305,9 +2323,9 @@ Wanneer een afzonderlijk verblijfsdocument wordt uitgereikt als bedoeld in [bijl
 
 ### 5.2.1. Controle op dubbele registratie
 
-## Model M136. Opgave van ingenomen gelden
+## Model M102-M109
 
-## Model M137-A. Formulier restitutie garantiesom
+## Model M110-A. Maatregel van bewaring
 
 Ook wijzigingen of opheffing van de beperking worden geregistreerd. Daarbij worden meegenomen de datum van indiening en de datum van beslissing op een aanvraag om wijziging of opheffing van de beperking.
 
@@ -2341,7 +2359,7 @@ Het uitzetcentrum Zestienhoven en het uitzetcentrum Schiphol zijn locaties in de
 
 ### 6.2. Beroep bij de rechtbank
 
-Op de dag van de indiening van het beroep (dag 0), of anders uiterlijk op dag 1 wordt aan de Immigratie- en Naturalisatiedienst (IND) het beroepschrift gezonden met het verzoek om nadere gegevens omtrent de voortgang van de verwijdering. Uiterlijk op dag 10 dient de Vreemdelingendienst dan wel de Koninklijke Marechaussee het [Model M119](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M119&z=2005-11-01&g=2005-11-01) (rapportage vreemdelingenbewaring) met de eventuele aanwezige bijlagen naar de Immigratie- en Naturalisatiedienst (IND) te faxen. Tevens dienen eventuele (nadere) gegevens omtrent de voortgang van de verwijdering te worden gefaxt onder gebruikmaking van het [model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2005-11-01&g=2005-11-01) ((voortgangs)gegevens met betrekking tot uitzetting). Ook andere gegevens die van belang kunnen zijn voor het verloop van de procedure dienen te worden gefaxt.
+Op de dag van de indiening van het beroep (dag 0), of anders uiterlijk op dag 1 wordt aan de Immigratie- en Naturalisatiedienst (IND) het beroepschrift gezonden met het verzoek om nadere gegevens omtrent de voortgang van de verwijdering. Uiterlijk op dag 10 dient de Vreemdelingendienst dan wel de Koninklijke Marechaussee het [Model M119](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M119&z=2005-11-06&g=2005-11-06) (rapportage vreemdelingenbewaring) met de eventuele aanwezige bijlagen naar de Immigratie- en Naturalisatiedienst (IND) te faxen. Tevens dienen eventuele (nadere) gegevens omtrent de voortgang van de verwijdering te worden gefaxt onder gebruikmaking van het [model M120](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M120&z=2005-11-06&g=2005-11-06) ((voortgangs)gegevens met betrekking tot uitzetting). Ook andere gegevens die van belang kunnen zijn voor het verloop van de procedure dienen te worden gefaxt.
 
 ### 6.3. Hoger beroep
 
@@ -2362,6 +2380,124 @@ Indien het een buitenlandse werknemer betreft voor wie een tewerkstellingsvergun
 ### 6.1. Functionele beveiliging
 
 ### 6.2. Fysieke beveiliging
+
+## Model M110-B. Proces-verbaal van gehoor (art. 59 Vw 2000 jo. art. 5.2 Vb 2000)
+
+## Model M111-A. Proces-verbaal staandehouding (art. 50, eerste lid, van de Vreemdelingenwet)
+
+## Model M111-B. Proces-verbaal toepassing art. 50, tweede of derde lid, van de Vw
+
+## Model M111-C. Proces-verbaal art. 50 Vw (mobiel toezicht vreemdelingen)
+
+## Model M111-D. Beschikking verlenging ophouding art. 50, vierde lid van de Vw
+
+De Overeenkomst Au pair – Gastgezin (hierna: de overeenkomst) is gesloten op ……………………………… (**datum**) tussen de partijen: de voor de duur van een jaar in Nederland verblijvende vreemdeling ……………………………… (**naam**), geboren op ………………... (**datum**), hierna te noemen ‘de au pair’, en het aan deze vreemdeling vrije kost en inwoning verschaffende gezin ………………………………………… (**naam of namen hoofd(en)**), geboren op ……………………………(**datum**), hierna te noemen ‘het gastgezin’, wonende te ………………………………………………………… (**straat, postcode, woonplaats**), te bereiken op ………………… (**telefoonnummer**). De au pair en het gastgezin tezamen worden aangeduid als Partijen. Bemiddeling tussen Partijen heeft plaatsgevonden door …………………………………… (**naam bureau of organisatie**). 1Dit hoeft uiteraard alleen te worden ingevuld indien bemiddeling heeft plaatsgevonden.
+
+### Overwegingen:
+
+In de afgelopen periode hebben Partijen informatie uitgewisseld. De au pair heeft kenbaar gemaakt, gedurende de periode van een jaar, kennis te willen maken met de Nederlandse samenleving en cultuur, door middel van verblijf als au pair bij een Nederlands gastgezin. Het gastgezin heeft kenbaar gemaakt de au pair faciliteiten te willen verlenen, in ruil waarvoor de au pair licht huishoudelijk werk verricht in het gastgezin.
+
+De au pair heeft hiertoe (in samenspraak met het gastgezin, dat als verblijfgever fungeert) een aanvraag om een verblijfsvergunning ingediend. De (door Partijen ondertekende) overeenkomst wordt in de beoordeling van bovenstaande aanvraag betrokken en moet derhalve bij de aanvraag worden overgelegd.
+
+De au pair en het gastgezin hebben de inhoud van de bewustverklaring (model M44) tot zich genomen en hebben de verklaring ondertekend en overgelegd.
+
+### De au pair en het gastgezin komen derhalve het volgende overeen:
+
+### Artikel 1 – weekindeling
+
+De au pair mag, in ruil voor kost, inwoning en zakgeld, niet meer dan acht uur per dag werken met een maximum van 30 uur per week. De au pair heeft recht op minimaal twee vrije etmalen en daarnaast twee vrije avonden per week. De au pair mag alleen licht huishoudelijk werk doen. Voorbeelden hiervan zijn het opruimen van de kinderkamer, wassen en strijken van de kinderkleren, het bereiden van lichte maaltijden, oppassen en af en toe een boodschap doen. Partijen verplichten zich ertoe zich hieraan te zullen houden. Hiertoe hebben zij onderstaande tabel (weekindeling en alternatief) in overleg met elkaar ingevuld.
+
+### Artikel 2 – alternatief
+
+De au pair functioneert als gelijkwaardig lid van het gezin. Dit betekent dat de au pair geen werk mag verrichten waarvoor hij of zij onmisbaar is. Het gastgezin belooft dat de au pair niet alleen verantwoordelijk is voor het (licht) huishoudelijk werk of de verzorging van de kinderen, en dat er (bij afwezigheid van de au pair) te allen tijde alternatieve hulp of oppas aanwezig is of kan zijn. Het gastgezin geeft in onderstaande tabel aan welk lid op welke dag als alternatief voor de au pair fungeert of kan fungeren.
+
+### Artikel 3 – culturele uitwisseling
+
+Het au pairschap is gericht op culturele uitwisseling. Dit betekent dat de au pair gedurende het verblijf deelneemt aan een aantal vrijetijdsactiviteiten. Deze activiteiten zijn bijv. een cursus volgen, een taal leren, met het gastgezin uitstapjes maken en in georganiseerd verband (al dan niet met andere au pairs) deelnemen aan een uitstapje. De au pair en het gastgezin verplichten zich ertoe dat zij zich in ieder geval aan de vijf hieronder opgegeven activiteiten zullen houden.
+
+1. ____________________________
+
+2. ____________________________
+
+3. ____________________________
+
+4. ____________________________
+
+5. ____________________________
+
+### Artikel 4 – zakgeld
+
+De au pair heeft recht op een vergoeding voor het werk dat de au pair in het gezin verricht. Deze vergoeding heeft de vorm van zakgeld en wordt niet als loon uitgekeerd omdat de au pair geen arbeid in de zin van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) (Wav) mag verrichten. Het bedrag mag niet hoger zijn dan € 340 per maand. Het gastgezin belooft een bedrag van € ________________ per maand aan de au pair te betalen.
+
+### Artikel 5 – geldigheid
+
+Deze overeenkomst is geldig vanaf het moment van ondertekenen en blijft van kracht tot op het moment dat de geldigheidsduur van de verblijfsvergunning van de au pair afloopt.
+
+### Artikel 6 – meldpunt au pairs 2Het meldpunt is tijdelijk ondergebracht bij de IND. Het telefoonnummer van het meldpunt is: (070) 370 3888.
+
+De au pair heeft de mogelijkheid klachten over het verblijf in Nederland te melden bij het meldpunt au pairs. Afhankelijk van het soort klacht zal deze vervolgens worden doorgeleid naar de politie of arbeidsinspectie of naar beide instanties. Het meldpunt is niet beschikbaar voor meldingen over fysiek en/of psychisch misbruik.
+
+Ook het gastgezin heeft de mogelijkheid contact op te nemen met het meldpunt.
+
+### Artikel 7 – geschillenclausule
+
+Op deze overeenkomst is Nederlands recht van toepassing. Bij geschillen over de interpretatie van deze overeenkomst is de rechtbank bevoegd.
+
+Aldus in drievoud opgemaakt (**Partijen en de IND ontvangen elk een exemplaar**) en getekend te …………………………………… (**locatie**) op …………………………………… (**datum**).
+
+Contractpartij Au pair,
+
+Contractpartij (Hoofd(en)) Gastgezin,
+
+## Model M112. Verzoek opneming van een inbewaringgestelde vreemdeling in een huis van bewaring
+
+## Model M113. Opheffing van een aanwijzing/maatregel als bedoeld in artikel 6, 50, 55, 56, 57, 58 of 59* Vw
+
+## Model M114. Verzoek om ontslag uit een justitiële inrichting
+
+## Model M115. Lichtingsverzoek
+
+## Model M116. Aanwijzing ex artikel 58 Vreemdelingenwet
+
+## Model M117-A. Aanwijzing ingevolge artikel 55 en/of meldplicht ingevolge artikel 54 van de Vreemdelingenwet (asielzoekers)
+
+## Model M117-B. Vervolgaanwijzing ingevolge artikel 55 van de Vreemdelingenwet (asielzoekers)
+
+## Model M117-C. Aanwijzing ingevolge artikel 55 van de Vreemdelingenwet op de aanmeldcentra
+
+## Model M118. Geleidebrief/Checklist i.v.m. toepassing art.6/58/59 Vreemdelingenwet 2000
+
+## Model M119. Dossier vreemdelingenbewaring
+
+## Model M120. (Voortgangs)gegevens met betrekking tot uitzetting (10-dagen)
+
+## Model M122
+
+## Model M123-M129. Gereserveerd
+
+## Model M130. Brochure ongewenstverklaring
+
+## Model M131-A. Schema van voorrechten en immuniteiten op grond van het Diplomatenverdrag
+
+## Model M131-B. Schema van voorrechten en immuniteiten op grond van het Consulaire Verdrag
+
+## Model M132. Verzoek om inlichtingen aan de Regionale Directie Arbeidsvoorziening
+
+## Model M133-A. Inlichtingenformulier voor het vragen van inlichtingen conform art. 8.1 Vb
+
+## Model M133-B. Antwoordformulier
+
+## Model M133-C. Informatieformulier voor het verstrekken van gegevens conform art. 8.2 Vb
+
+## Model M133-D. Informatieformulier voor het verstrekken van gegevens conform art. 8.2 Vb
+
+## Model M134. Verrekeningsstaat
+
+## Model M135. Declaratie kosten verwijdering
+
+## Model M136. Opgave van ingenomen gelden
+
+## Model M137-A. Formulier restitutie garantiesom
 
 ## Model M137-B. Formulier restitutie passagebiljet
 
