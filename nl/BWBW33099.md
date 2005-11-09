@@ -4,7 +4,7 @@ identifier: "BWBW33099"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-02-01"
-last_updated: "2005-05-28"
+last_updated: "2005-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBW33099"
 soort: "circulaire"
@@ -98,19 +98,19 @@ entry_into_force: "2026-02-01"
 
 ### Artikel 27
 
-### Artikel 12
+### Artikel 28
 
 ### Artikel II RRWN
 
-### Artikel 14
+### Artikel III RRWN
 
 ### Artikel IV RRWN
 
-### Artikel 15a
+### Artikel V RRWN
 
 ### Artikel VI RRWN
 
-### Artikel 16a
+### Artikel VII RRWN
 
 ## Bijlage 1. Modellen behorende bij de optieprocedure
 
