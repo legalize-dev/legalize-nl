@@ -129,9 +129,3 @@ Deze regeling treedt in werking met ingang van 15 november 2005.
 Deze regeling wordt aangehaald als: Vrijstellingsregeling plantenresten en tarragrond.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 2, eerste lid, onderdeel d, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
