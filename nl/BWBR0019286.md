@@ -4,7 +4,7 @@ identifier: "BWBR0019286"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2005-07-01"
+last_updated: "2005-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019286"
 soort: "wet"
@@ -60,7 +60,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VI
 
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VIIa
 
