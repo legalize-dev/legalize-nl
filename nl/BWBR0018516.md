@@ -4,7 +4,7 @@ identifier: "BWBR0018516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2005-07-08"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018516"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - c. CBS: Centraal bureau voor de statistiek;
 
-- d. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-07-08);
+- d. maatschappelijke centrumgemeenten: centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid die zijn vermeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-11-18&g=2005-11-18);
 
-- e. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-07-08&g=2005-07-08) opgenomen gebiedsindeling;
+- e. maatschappelijk zorggebied: zorggebied voor maatschappelijke opvang en verslavingsbeleid volgens de in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=A&z=2005-11-18&g=2005-11-18) opgenomen gebiedsindeling;
 
-- f. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2005-07-08&g=2005-07-08) opgenomen gebiedsindeling;
+- f. zorggebied voor vrouwenopvang: zorggebied volgens de in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=B&z=2005-11-18&g=2005-11-18) opgenomen gebiedsindeling;
 
 - g. verklaring: door het bevoegd gezag van een instelling uitgereikte verklaring, bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.15);
 
@@ -190,7 +190,7 @@ In deze formule is
 
 ##### Artikel 7
 
-Het procentuele aandeel van de gemeente in de middelen voor de inburgering van nieuwkomers, bedoeld in [artikel 4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=4), wordt bepaald volgens de formule
+1. Het procentuele aandeel van de gemeente in de middelen voor de inburgering van nieuwkomers, bedoeld in [artikel 4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=4), wordt bepaald volgens de formule
 
 (C/D) × (Midverkl/Midinbnk) + (E/F) × (Midbeschl/Midinbnk)).
 
@@ -209,6 +209,8 @@ In deze formule is
 - Midbesch: het bedrag dat voor de G30 voor maatstaf beschikkingen beschikbaar is;
 
 - Midinbnk: de middelen voor de inburgering van nieuwkomers in de GSB III periode.
+
+2. Op het met het procentuele aandeel, bedoeld in het eerste lid, corresponderende bedrag, wordt de helft van de per 31 december 2004 door de gemeente op grondslag van de [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544) gevormde reserve in mindering gebracht, mits die reserve groter is dan € 0.
 
 ##### Artikel 8
 
@@ -318,47 +320,47 @@ De indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wett
 
 1. De percentsgewijze verdeling van de middelen voor leefbaarheid en veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- a. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- b. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
+- c. 18,40 percent aan de indicator, bedoeld in [artikel 10, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18), en
 
-- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
+- d. 27,20 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18).
 
-2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
+2. Bij de percentsgewijze verdeling van de middelen voor het terugdringen van voortijdig schoolverlaten over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), wordt 100 percent toegedeeld aan de indicator, bedoeld in [artikel 10, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18).
 
 3. De percentsgewijze verdeling van de middelen voor de bestrijding van gezondheidsachterstanden over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
+- a. 80 percent aan de indicator, bedoeld in [artikel 10, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18), en
 
-- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
+- b. 20 percent aan de indicator, bedoeld in [artikel 10, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18).
 
 4. De percentsgewijze verdeling van de middelen voor maatschappelijke opvang en verslavingsbeleid respectievelijk voor vrouwenopvang over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is steeds als volgt samengesteld:
 
-- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- a. 33,90 percent aan de indicator, bedoeld in [artikel 10, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- b. 17,50 percent aan de indicator, bedoeld in [artikel 10, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
+- c. 28,60 percent aan de indicator, bedoeld in [artikel 10, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18), en
 
-- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
+- d. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18).
 
 5. De percentsgewijze verdeling van de extra middelen voor veiligheid over de indicatoren, bedoeld in [artikel 7, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=7), is als volgt samengesteld:
 
-- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- a. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- b. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- c. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder q](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- d. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08);
+- e. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder s](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18);
 
-- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08), en
+- f. 13,36 percent aan de indicator, bedoeld in [artikel 10, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18), en
 
-- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-07-08&g=2005-07-08).
+- g. 20,00 percent aan de indicator, bedoeld in [artikel 10, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=10&z=2005-11-18&g=2005-11-18).
 
 ##### Artikel 12
 
@@ -476,7 +478,7 @@ In deze formule is
 
 3. Het verleende voorschot voor een kalenderjaar wordt in twee termijnen betaald.
 
-4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2005-07-08&g=2005-07-08), heeft verleend.
+4. Het in 2005 aan de gemeente Heerlen te verlenen voorschot wordt verhoogd met het bedrag dat Onze Minister op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=12&z=2005-11-18&g=2005-11-18), heeft verleend.
 
 ##### Artikel 15
 
@@ -496,7 +498,7 @@ In deze formule is
 
 - Midbesch: het bedrag dat voor de G30 voor de maatstaf beschikkingen beschikbaar is;
 
-- S: de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 2, eerste lid, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=2), per 31 december 2004;
+- S: de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=1), per 31 december 2004;
 
 - T: het door de Minister voor Vreemdelingenzaken en Integratie vastgestelde aantal oudkomers dat bij de verlening van de voorschotten wordt betrokken.
 
@@ -506,11 +508,11 @@ In deze formule is
 
 ##### Artikel 16
 
-1. Het verantwoordingsverslag van de gemeente, bedoeld in [artikel 24, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-07-08&g=2005-07-08) opgenomen model.
+1. Het verantwoordingsverslag van de gemeente, bedoeld in [artikel 24, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-11-18&g=2005-11-18) opgenomen model.
 
-2. Het verslag van de besteding van de verleende voorschotten door de gemeente, bedoeld in [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=D&z=2005-07-08&g=2005-07-08) opgenomen model.
+2. Het verslag van de besteding van de verleende voorschotten door de gemeente, bedoeld in [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), wordt opgesteld volgens het in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=D&z=2005-11-18&g=2005-11-18) opgenomen model.
 
-3. De krachtens [artikel 24, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), door de gemeenteraad aangewezen één of meer accountants verrichten hun werkzaamheden met inachtneming van het in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=E&z=2005-07-08&g=2005-07-08) opgenomen controleprotocol.
+3. De krachtens [artikel 24, zesde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), door de gemeenteraad aangewezen één of meer accountants verrichten hun werkzaamheden met inachtneming van het in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=E&z=2005-11-18&g=2005-11-18) opgenomen controleprotocol.
 
 ##### Artikel 17
 
@@ -554,7 +556,41 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad | Het deelgebied Zaanstreek van de gezondheidsregio 14 Amsterdam |
 | Zwolle | De gezondheidsregio 04 Zwolle |
 
-## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-07-08&g=2005-07-08)
+## Bijlage A. behorende bij [artikel 1, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-11-18&g=2005-11-18)
+
+In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753).
+
+| **Centrumgemeente voor maatschappelijke opvang en verslavingsbeleid** | **Zorggebied voor maatschappelijke opvang en verslavingsbeleid** |
+| --- | --- |
+| Alkmaar | Het deelgebied Noord-Kennemerland van de gezondheidsregio12 Alkmaar |
+| Almelo | Het deelgebied Almelo van gezondheidsregio 05 Twente |
+| Amersfoort | Het deelgebied Oost-Utrecht van de gezondheidsregio 09 Utrecht |
+| Amsterdam | Het deelgebied Amsterdam, Amstelland, Meerlanden en Diemen van gezondheidsregio 14 Amsterdam |
+| Arnhem | De deelgebieden Arnhem en Zevenaar van en gezondheidsregio 07 Arnhem |
+| Breda | Het deelgebied Breda van de gezondheidsregio 22 Breda met uitzondering van het grondgebied van de gemeenten Aalburg en Alphen-Chaam |
+| Den Haag | De gezondheidsregio 16 ’s-Gravenhage |
+| Deventer | De deelgebieden Deventer en Zutphen van de gezondheidsregio 06 Stedendriehoek |
+| Dordrecht | De gezondheidsregio 20 Dordrecht |
+| Eindhoven | Het deelgebied Eindhoven/Kempenland van de gezondheidsregio 25 Eindhoven |
+| Emmen | Het deelgebied Zuid-Oost Drenthe van de gezondheidsregio 03 Drenthe |
+| Enschede | De deelgebieden Hengelo en Enschede van de gezondheidsregio 05 Twente |
+| Groningen | De gezondheidsregio 01 Groningen |
+| Haarlem | De gezondheidsregio 13 Kennemerland |
+| Heerlen | Het deelgebied Oostelijke Mijnstreek van de gezondheidsregio 27 Zuid-Limburg |
+| Helmond | Het deelgebied Helmond van de gezondheidsregio 25 Eindhoven |
+| ’s-Hertogenbosch | De deelgebieden ’s-Hertogenbosch en Ammerzoden van de gezondheidsregio 24 ’s-Hertogenbosch |
+| Leeuwarden | De gezondheidsregio 02 Friesland |
+| Leiden | De gezondheidsregio 15 Leiden |
+| Maastricht | De deelgebieden Heuvelland en Westelijke Mijnstreek van de gezondheidsregio 27 Zuid-Limburg |
+| Nijmegen | De gezondheidsregio 08 Nijmegen en het grondgebied van de gemeente Nederbetuwe |
+| Rotterdam | Het deelgebied Rotterdam van de gezondheidsregio 19 Rijnmond |
+| Tilburg | De gezondheidsregio 23 Tilburg |
+| Utrecht | Het deelgebied Midden-West-Utrecht van de gezondheidsregio 09 Utrecht |
+| Venlo | De gezondheidsregio 26 Noord-Limburg |
+| Zaanstad | Het deelgebied Zaanstreek van de gezondheidsregio 14 Amsterdam |
+| Zwolle | De gezondheidsregio 04 Zwolle |
+
+## Bijlage B. behorende bij [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=1&z=2005-11-18&g=2005-11-18)
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753)
 
@@ -586,7 +622,7 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad | De deelgebieden Waterland en Zaanstreek van de gezondheidsregio 14 Amsterdam |
 | Zwolle | De gezondheidsregio 04 Zwolle |
 
-## Bijlage C. behorende bij [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-07-08)
+## Bijlage C. behorende bij [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-11-18&g=2005-11-18)
 
 Format verantwoording Prestaties
 
@@ -649,8 +685,6 @@ Het hier volgende deel van het format verantwoording prestaties GSB/BDU SIV is a
 | t | het verminderen van criminaliteit in risicogebieden en in de woonomgeving uitgedrukt in een door de gemeente te bepalen indicator |   |
 | u | een door de gemeente te bepalen doelstelling op het gebied van veiligheid anders dan bedoeld onder n tot en met t |   |
 
-## Bijlage D. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-07-08&g=2005-07-08)
-
 ### Toelichting
 
 De stad kan zelf bepalen hoe de gegevens voor deze verantwoording worden verzameld. De stad kan de gegevens herkenbaar opnemen in de jaarrekening en ten behoeve van de eenmalige verantwoording in 2010 de totalen berekenen over de jaren 2005 t/m 2009 of de stad kan in 2010 eenmalig een totaal eindverantwoording opmaken.
@@ -659,13 +693,15 @@ De stad kan zelf bepalen hoe de gegevens voor deze verantwoording worden verzame
 
 ### Controleprotocol
 
-### 1. **Algemeen**
+### Controleprotocol
 
 Op basis van [artikel 24, tweede lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24) (hierna: het Besluit) dienen de steden een verantwoordingsverslag in over de uitvoering van het MOP bij de aanvraag tot vaststelling van het programmadeel. Het verantwoordingsverslag heeft dus geen betrekking op het inburgeringsdeel. De GSB-steden verantwoorden de gerealiseerde aantallen op inburgeringsgebied separaat aan de Minister voor Vreemdelingenzaken en Integratie. Dit is geregeld in [artikel 15 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15).
 
-Ingevolge [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), dienen de steden een verslag in waarin de bestedingen van de verleende voorschotten worden verantwoord. Het financieel verslag bevat zowel de bestedingen van de voorschotten op het programmadeel als de bestedingen van de voorschotten op het inburgeringsdeel.
+Op basis van [artikel 24, tweede lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24) (hierna: het Besluit) dienen de steden een verantwoordingsverslag in over de uitvoering van het MOP bij de aanvraag tot vaststelling van het programmadeel. Het verantwoordingsverslag heeft dus geen betrekking op het inburgeringsdeel. De GSB-steden verantwoorden de gerealiseerde aantallen op inburgeringsgebied separaat aan de Minister voor Vreemdelingenzaken en Integratie. Dit is geregeld in [artikel 15 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15).
 
 ### 1.1. **Reikwijdte accountantscontrole**
+
+Dit controleprotocol dient om de reikwijdte en het object van de accountantscontrole nader aan te geven. Er wordt niet beoogd een aanpak van de accountantscontrole voor te schrijven. Veelal zal de accountant zich immers bij zijn controle baseren op een (risico)analyse van de administratieve organisatie en interne controle bij de desbetreffende gemeente en op basis daarvan komen tot een optimale afweging van de in te zetten controlemiddelen.
 
 Dit controleprotocol dient om de reikwijdte en het object van de accountantscontrole nader aan te geven. Er wordt niet beoogd een aanpak van de accountantscontrole voor te schrijven. Veelal zal de accountant zich immers bij zijn controle baseren op een (risico)analyse van de administratieve organisatie en interne controle bij de desbetreffende gemeente en op basis daarvan komen tot een optimale afweging van de in te zetten controlemiddelen.
 
@@ -681,9 +717,9 @@ Het verantwoordingsverslag gaat vergezeld van een door de accountant opgesteld r
 
 Dit impliceert betrokkenheid van de accountant vanaf de start van de GSB III periode.
 
-De situatie kan zich voordoen dat de systemen met betrekking tot het generen van prestatiegegevens bij aanvang van de GSBIII periode nog niet geheel adequaat zijn ingericht. De accountant rapporteert dan zijn bevindingen en aanbevelingen hierover tijdig en periodiek aan het College van B&W (als verantwoordelijke voor de bedrijfsvoering), waarbij hij tevens aandacht schenkt aan het groeipad naar de gewenste situatie.
-
 ### 1.2. **Derdengegevens**
+
+Een deel van de uitkering zal in de praktijk, via subsidiëring door de gemeente, worden uitgegeven door derden die bepaalde taken zullen uitvoeren in opdracht van de gemeente. Ook daarover zal de gemeente verantwoording moeten afleggen, op dezelfde wijze als ten aanzien van de uitgaven die door de gemeente zelf zijn gedaan. De gemeente zal dan ook moeten beschikken over een beleidslijn (bijvoorbeeld in de vorm van gemeentelijke subsidievoorwaarden) ten aanzien van derden waarin onder meer moet zijn opgenomen dat de controle op de financiële gegevens en de beoordeling van de registratiesystemen analoog zijn aan de richtlijnen die voor de gemeente zelf gelden. De accountant stelt vast of een dergelijke beleidslijn bestaat en wordt nageleefd.
 
 Een deel van de uitkering zal in de praktijk, via subsidiëring door de gemeente, worden uitgegeven door derden die bepaalde taken zullen uitvoeren in opdracht van de gemeente. Ook daarover zal de gemeente verantwoording moeten afleggen, op dezelfde wijze als ten aanzien van de uitgaven die door de gemeente zelf zijn gedaan. De gemeente zal dan ook moeten beschikken over een beleidslijn (bijvoorbeeld in de vorm van gemeentelijke subsidievoorwaarden) ten aanzien van derden waarin onder meer moet zijn opgenomen dat de controle op de financiële gegevens en de beoordeling van de registratiesystemen analoog zijn aan de richtlijnen die voor de gemeente zelf gelden. De accountant stelt vast of een dergelijke beleidslijn bestaat en wordt nageleefd.
 
@@ -691,15 +727,15 @@ De gemeente is zelf verantwoordelijk voor de inrichting van een adequate AO/IC m
 
 Indien instellingen en stichtingen door een andere accountant worden gecontroleerd dan degene die de accountantsverklaring afgeeft, dan dient de gemeente ervoor zorg te dragen dat de eindbegunstigden en hun accountants op de hoogte zijn van dit controleprotocol. De instellingsaccountant dient dit protocol na te leven.
 
-Indien de gemeente accountant ten behoeve van zijn oordeelsvorming gebruik maakt van verklaringen, die door andere accountants zijn afgegeven, dan kan hij zich door middel van een review ervan te vergewissen dat hij gebruik kan maken van de werkzaamheden van de andere accountants. Hierbij kan hij onder meer na gaan of het controleprotocol is nageleefd.
-
 ### 1.3. **Regelgeving**
 
 De van toepassing zijnde regelgeving betreft:
 
 ### 2. **Aandachtspunten**
 
-### 2.1. **Outputindicatoren**
+### 2. **Aandachtspunten**
+
+Ten aanzien van de registratiesystemen kan een onderscheid worden gemaakt in systemen waarin documenten en gegevens uit externe gezaghebbende bron worden verwerkt en interne registratiesystemen waarvan de gegevens door de gemeente zelf worden bijgehouden.
 
 Ten aanzien van de registratiesystemen kan een onderscheid worden gemaakt in systemen waarin documenten en gegevens uit externe gezaghebbende bron worden verwerkt en interne registratiesystemen waarvan de gegevens door de gemeente zelf worden bijgehouden.
 
@@ -707,29 +743,27 @@ In het eerste geval zal de bemoeienis van de accountant beperkter kunnen zijn, i
 
 In het tweede geval zal de beoordeling breder zijn. De bemoeienis van de accountant richt zich bij de lokale registratiesystemen in het bijzonder op de vraag of het systeem een betrouwbare registratie van de resultaten mogelijk maakt.
 
-De volgende punten kunnen hierbij als handreiking dienen.
-
 ### 2.2. **Bestedingen per BDU**
 
 De accountant stelt vast dat de bestedingen rechtmatig zijn geweest; de bestede rijksbijdragen moeten passen binnen de reikwijdte van de BDU. Onder bestedingen wordt verstaan: de besteding door de gemeente zelf of door derden in opdracht van de steden.
 
-Bij dit onderdeel gaat het uitsluitend om de rechtmatigheid van de bestedingen door de gemeente en derden ten behoeve van de uitvoering van het MOP, uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=6), en [artikel 15 van de WIN](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=15) in 2005 en het aanbieden van inburgeringsprogramma’s voor oudkomers in 2005.
+De accountant stelt vast dat de bestedingen rechtmatig zijn geweest; de bestede rijksbijdragen moeten passen binnen de reikwijdte van de BDU. Onder bestedingen wordt verstaan: de besteding door de gemeente zelf of door derden in opdracht van de steden.
 
 ### 2.2.1. ****Voorschotten van gemeenten aan derden****
 
 In het kader van de besteding van de bijdragen GSBIII kan het voorkomen dat de gemeente aan derden voorschotten verstrekt. De stad dient voordat de verantwoording GSBIII moet worden ingediend (15 juli 2010), de aan derden verstrekte subsidies te hebben beoordeeld en vastgesteld. In de onder punt 1.2. aangehaalde gemeentelijke beleidslijn zal hierin moeten zijn voorzien.
 
-De accountant stelt vast dat dit is gebeurd.
+In het kader van de besteding van de bijdragen GSBIII kan het voorkomen dat de gemeente aan derden voorschotten verstrekt. De stad dient voordat de verantwoording GSBIII moet worden ingediend (15 juli 2010), de aan derden verstrekte subsidies te hebben beoordeeld en vastgesteld. In de onder punt 1.2. aangehaalde gemeentelijke beleidslijn zal hierin moeten zijn voorzien.
 
 ### 2.2.2. **Rechtmatige besteding**
+
+Voor de gemeenterekening wordt op grond van artikel 2, eerste lid, BBV, een stelsel van baten en lasten gehanteerd.
 
 Voor de gemeenterekening wordt op grond van artikel 2, eerste lid, BBV, een stelsel van baten en lasten gehanteerd.
 
 Het bedrag van de verleende voorschotten dat niet in het ontvangstjaar is besteed wordt gedoteerd aan een voorziening (art 44 BBV). De aanwending van de voorziening is de besteding van de uitkering.
 
 Rechtmatige bestedingen zijn dus betalingen ten aanzien van activiteiten met betrekking tot de BDU SIV in de GSBIII periode of per 31-12-2009 openstaande verplichtingen ten aanzien van bovenbedoelde activiteiten waarvan de prestatie al heeft plaatsgevonden. Dit betekent dat de voorziening BDU SIV bij de gemeente (artikel 44 BBV) per 31-12-09 nihil moet zijn, en dat de verplichtingen onder de openstaande passiva zijn opgenomen (artikel 49 BBV).
-
-De accountant stelt vast dat de in de verantwoording opgenomen bestedingen
 
 ### 2.2.3. **Gevolgen niet (geheel) realiseren prestaties**
 
@@ -741,15 +775,15 @@ De accountant stelt vast dat voorzover ten aanzien van de bestedingen van de sta
 
 ### 3. **Rapportering door de accountant**
 
-### 3.1. **De accountantsverklaring en -⁠rapportage**
+### 3. **Rapportering door de accountant**
+
+Voor geconstateerde onjuistheden en onzekerheden gaat de accountant na wat hiervan de consequenties zijn voor de af te geven accountantsverklaring.
 
 Voor geconstateerde onjuistheden en onzekerheden gaat de accountant na wat hiervan de consequenties zijn voor de af te geven accountantsverklaring.
 
 In de accountantsverklaring bij het financiële verslag dient het punt dat het controleprotocol is nageleefd tot uitdrukking te worden gebracht. Een dergelijke vermelding impliceert mede dat de controle is uitgevoerd met inachtname van de hieronder gestelde eisen.
 
 De accountant heeft bij zijn oordeelsvorming gestreefd naar een ‘hoge mate van zekerheid’. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd, dan is een betrouwbaarheid van 95% gehanteerd.
-
-De accountant heeft geconcludeerd dat de meest waarschijnlijke fout (goedkeuringstolerantie), met betrekking tot de deugdelijkheid van het financiële verslag en de rechtmatigheid van het daarin verantwoorde beheer, gerelateerd aan de BDU-bijdrage per verantwoordingsperiode, niet groter is dan aangegeven in onderstaande tabel.
 
 ### 3.3. **Rapport van bevindingen beoordeling registratiesystemen**
 
@@ -758,6 +792,72 @@ Zoals reeds onder 1.1 is aangegeven brengt de accountant een rapport van bevindi
 ### 4. **Review**
 
 Door het Rijk zal een reviewbeleid worden opgesteld ten aanzien van GSBIII. In dit beleid zal worden uiteengezet wat de uitgangspunten zijn voor het al dan niet houden van een review bij de accountant van de stad. Het review door het rijk zal door één Auditdienst (AD) per stad namens de ministeries voor de 3 bdu’s worden gehouden. De coördinatie van de reviews geschiedt door de AD/BZK. De gemeente en haar accountant zijn verplicht mee te werken aan het review door de accountant van het Rijk. Het review kan plaats vinden door een dossierreview of een collegiaal evaluerend gesprek. In het review wordt de wijze beoordeeld waarop de gemeenteaccountants zijn omgegaan met de controlevoorschriften. Dit review omvat het beoordelen van de grondslagen, de uitvoering en de uitkomsten van de verrichte controles; De AD kondigt een onderzoek altijd eerst schriftelijk aan bij de gemeente. Daarna neemt zij rechtstreeks contact op met de betreffende accountant. De bevindingen van het gehouden review worden voor commentaar voorgelegd aan de accountant. Vervolgens wordt de verantwoordelijke beleidsdirectie – en indien noodzakelijk de betrokken gemeente – op de hoogte gesteld van de bevindingen.
+
+Door het Rijk zal een reviewbeleid worden opgesteld ten aanzien van GSBIII. In dit beleid zal worden uiteengezet wat de uitgangspunten zijn voor het al dan niet houden van een review bij de accountant van de stad. Het review door het rijk zal door één Auditdienst (AD) per stad namens de ministeries voor de 3 bdu’s worden gehouden. De coördinatie van de reviews geschiedt door de AD/BZK. De gemeente en haar accountant zijn verplicht mee te werken aan het review door de accountant van het Rijk. Het review kan plaats vinden door een dossierreview of een collegiaal evaluerend gesprek. In het review wordt de wijze beoordeeld waarop de gemeenteaccountants zijn omgegaan met de controlevoorschriften. Dit review omvat het beoordelen van de grondslagen, de uitvoering en de uitkomsten van de verrichte controles; De AD kondigt een onderzoek altijd eerst schriftelijk aan bij de gemeente. Daarna neemt zij rechtstreeks contact op met de betreffende accountant. De bevindingen van het gehouden review worden voor commentaar voorgelegd aan de accountant. Vervolgens wordt de verantwoordelijke beleidsdirectie – en indien noodzakelijk de betrokken gemeente – op de hoogte gesteld van de bevindingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 15a
+
+Onverminderd [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=15&z=2005-11-18&g=2005-11-18) wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=1), per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0.
+
+## Bijlage D. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-11-18&g=2005-11-18)
+
+### Toelichting
+
+De stad kan zelf bepalen hoe de gegevens voor deze verantwoording worden verzameld. De stad kan de gegevens herkenbaar opnemen in de jaarrekening en ten behoeve van de eenmalige verantwoording in 2010 de totalen berekenen over de jaren 2005 t/m 2009 of de stad kan in 2010 eenmalig een totaal eindverantwoording opmaken.
+
+## Bijlage E. behorende bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&artikel=16&z=2005-11-18&g=2005-11-18)
+
+### 1. **Algemeen**
+
+Ingevolge [artikel 24, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=24), dienen de steden een verslag in waarin de bestedingen van de verleende voorschotten worden verantwoord. Het financieel verslag bevat zowel de bestedingen van de voorschotten op het programmadeel als de bestedingen van de voorschotten op het inburgeringsdeel.
+
+### 1.1. **Reikwijdte accountantscontrole**
+
+De situatie kan zich voordoen dat de systemen met betrekking tot het generen van prestatiegegevens bij aanvang van de GSBIII periode nog niet geheel adequaat zijn ingericht. De accountant rapporteert dan zijn bevindingen en aanbevelingen hierover tijdig en periodiek aan het College van B&W (als verantwoordelijke voor de bedrijfsvoering), waarbij hij tevens aandacht schenkt aan het groeipad naar de gewenste situatie.
+
+### 1.2. **Derdengegevens**
+
+Indien de gemeente accountant ten behoeve van zijn oordeelsvorming gebruik maakt van verklaringen, die door andere accountants zijn afgegeven, dan kan hij zich door middel van een review ervan te vergewissen dat hij gebruik kan maken van de werkzaamheden van de andere accountants. Hierbij kan hij onder meer na gaan of het controleprotocol is nageleefd.
+
+### 1.3. **Regelgeving**
+
+De van toepassing zijnde regelgeving betreft:
+
+### 2.1. **Outputindicatoren**
+
+De volgende punten kunnen hierbij als handreiking dienen.
+
+### 2.2. **Bestedingen per BDU**
+
+Bij dit onderdeel gaat het uitsluitend om de rechtmatigheid van de bestedingen door de gemeente en derden ten behoeve van de uitvoering van het MOP, uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=6), en [artikel 15 van de WIN](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=15) in 2005 en het aanbieden van inburgeringsprogramma’s voor oudkomers in 2005.
+
+### 2.2.1. ****Voorschotten van gemeenten aan derden****
+
+De accountant stelt vast dat dit is gebeurd.
+
+### 2.2.2. **Rechtmatige besteding**
+
+De accountant stelt vast dat de in de verantwoording opgenomen bestedingen
+
+### 2.2.3. **Gevolgen niet (geheel) realiseren prestaties**
+
+Indien uit het door de stad uitgebrachte prestatie-verantwoordingsverslag blijkt dat de prestaties niet geheel zijn gehaald dan vindt verrekening plaats op basis van de rijkstarievenlijst. De minister kan op verzoek van de gemeente de verrekening ook laten plaatsvinden op basis van de daadwerkelijke bestedingen per indicator van de rijksbijdrage door de stad. Indien de stad hiervoor kiest dan dient een aangepast financieel verslag van de bestedingen per indicator te worden ingediend (onderdeel van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018516&bijlage=C&z=2005-11-18&g=2005-11-18) bij deze regeling). In dit geval dient de accountant vast te stellen dat de bedragen in de prestatieverantwoording in de kolom ‘besteding ten laste van de rijksbijdrage’ een getrouw en rechtmatig beeld geven van de feitelijke bestedingen per indicator. Wanneer blijkt dat het gemeentebestuur een deel van de voorschotten heeft besteed aan andere in het MOP opgenomen onderwerpen dan die waarvoor op grond van artikel 7 indicatoren zijn vastgesteld en waaraan het bedrag van het programmadeel van de uitkering op grond van artikel 7, tweede en derde lid, percentsgewijs is toegedeeld, wordt bij de berekening van de korting niettemin uitgegaan van een 100-procents toedeling van de uitkering aan de indicatoren, bedoeld in artikel 7, tweede lid. Uitgangspunt daarbij is dan de relatieve verdeling van de feitelijke besteding over de verschillende indicatoren.
+
+### 2.2.4. **BTW Compensatiefonds**
+
+De accountant stelt vast dat voorzover ten aanzien van de bestedingen van de stad BTW in rekening is gebracht en in de gemeenterekening nettobedragen zijn opgenomen, de stad in de verantwoording op basis van een beredeneerde schatting heeft bepaald hoe groot de bruto bestedingen zijn. De accountant dient vast te stellen dat de beredeneerde schatting op aanvaardbare wijze tot stand is gekomen.
+
+### 3.1. **De accountantsverklaring en -⁠rapportage**
+
+De accountant heeft geconcludeerd dat de meest waarschijnlijke fout (goedkeuringstolerantie), met betrekking tot de deugdelijkheid van het financiële verslag en de rechtmatigheid van het daarin verantwoorde beheer, gerelateerd aan de BDU-bijdrage per verantwoordingsperiode, niet groter is dan aangegeven in onderstaande tabel.
+
+### 3.3. **Rapport van bevindingen beoordeling registratiesystemen**
+
+Zoals reeds onder 1.1 is aangegeven brengt de accountant een rapport van bevindingen uit met betrekking tot de beoordeling van de registratiesystemen vanuit het oogpunt of deze systemen een betrouwbare registratie van de resultaten mogelijk maken.
+
+### 4. **Review**
 
 Het spreekt voor zich dat de gemeente voor haar accountant in de onder 2.1 genoemde beleidslijn de mogelijkheid creëert reviews toe te passen bij de accountants van de subsidieontvangers.
 
