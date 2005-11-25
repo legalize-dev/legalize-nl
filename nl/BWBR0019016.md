@@ -4,7 +4,7 @@ identifier: "BWBR0019016"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-11-25"
-last_updated: "2005-01-01"
+last_updated: "2005-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019016"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Alvorens zijn functie te aanvaarden, legt de reclasseringswerker voor de rechtba
 
 1. De reclasseringsinstelling verzoekt de griffier van de rechtbank het tijdstip voor de beëdiging vast te stellen, zo mogelijk binnen een maand na ontvangst van het verzoek.
 
-2. Het verzoek wordt schriftelijk gedaan volgens het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&bijlage=1&z=2005-11-25&g=2005-01-01)bij deze regeling is gevoegd. Het gaat vergezeld van een afschrift van de beschikking, waaruit de aanwijzing van de reclasseringswerker blijkt.
+2. Het verzoek wordt schriftelijk gedaan volgens het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&bijlage=1&z=2005-11-25&g=2005-11-25)bij deze regeling is gevoegd. Het gaat vergezeld van een afschrift van de beschikking, waaruit de aanwijzing van de reclasseringswerker blijkt.
 
 3. De griffier deelt de reclasseringsinstelling het tijdstip mee waarop de beëdiging zal plaatsvinden.
 
@@ -136,7 +136,7 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 1. In het besluit, bedoeld in [artikel 20, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=20), worden de managementafspraken vastgelegd.
 
-2. In het besluit wordt tevens kenbaar gemaakt volgens welke aanwijzingen op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2005-11-25&g=2005-01-01), de subsidie wordt verrekend.
+2. In het besluit wordt tevens kenbaar gemaakt volgens welke aanwijzingen op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2005-11-25&g=2005-11-25), de subsidie wordt verrekend.
 
 #### Paragraaf 3.2. Subsidievaststelling
 
@@ -182,7 +182,7 @@ Het jaarverslag, bedoeld in [artikel 26, tweede lid, onder b, van de Reclasserin
 
 ##### Artikel 14
 
-1. Een reclasseringsinstelling informeert Onze Minister uiterlijk vier weken na iedere vier maanden over de uitvoering van de managementafspraken, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2005-11-25&g=2005-01-01), met een inhoudelijke en financiële toelichting ten aanzien van de verschillen met de vorige periodes van vier maanden en de planning voor het desbetreffende jaar.
+1. Een reclasseringsinstelling informeert Onze Minister uiterlijk vier weken na iedere vier maanden over de uitvoering van de managementafspraken, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2005-11-25&g=2005-11-25), met een inhoudelijke en financiële toelichting ten aanzien van de verschillen met de vorige periodes van vier maanden en de planning voor het desbetreffende jaar.
 
 2. Een reclasseringsinstelling informeert Onze Minister uiterlijk tien dagen na iedere twee maanden over de productierealisatie. Deze informatie bevat de voor de monitoring relevante informatie over de instroom, realisatie en voorraad per reclasseringsproduct.
 
@@ -240,7 +240,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en 
 
 ##### Artikel 19
 
-1. Indien een reclasseringsinstelling haar reclasseringswerkzaamheden beëindigt, komt Onze Minister een direct opeisbare vordering op de reclasseringsinstelling toe op het vermogen en/of de vermogensbestanddelen, zoals bedoeld in [artikel 16, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2005-11-25&g=2005-01-01).
+1. Indien een reclasseringsinstelling haar reclasseringswerkzaamheden beëindigt, komt Onze Minister een direct opeisbare vordering op de reclasseringsinstelling toe op het vermogen en/of de vermogensbestanddelen, zoals bedoeld in [artikel 16, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2005-11-25&g=2005-11-25).
 
 2. Het eerste lid is van overeenkomstige toepassing, indien gebouwen, terreinen of roerende zaken ten behoeve waarvan Onze Minister subsidie heeft verleend, worden vervreemd of geheel of gedeeltelijk aan hun bestemming worden onttrokken. Het bedrag van de vordering is in dit geval gelijk aan de directe opbrengstwaarde van de desbetreffende zaken.
 
