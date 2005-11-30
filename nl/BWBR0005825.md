@@ -4,7 +4,7 @@ identifier: "BWBR0005825"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2005-11-04"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005825"
 soort: "ministeriele-regeling"
@@ -92,37 +92,25 @@ Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wette
 
 ##### Artikel 8
 
-1. De middelen van vervoer, met uitzondering van vervoer per spoor, en de opslagruimten die gebruikt worden voor het vervoer onderscheidenlijk de opslag van diepgevroren levensmiddelen, zijn tijdens dat gebruik voorzien van adequate automatische apparatuur voor de regelmatige en frequente registratie van de lucht-temperatuur waarbij die diepgevroren levensmiddelen worden vervoerd onderscheidenlijk opgeslagen.
-
-2. Voor wat betreft het vervoer is de in het eerste lid bedoelde apparatuur goedgekeurd door de directeur generaal van de Voedsel en Waren Autoriteit of, voor zover het apparatuur betreft in een middel van vervoer dat geregistreerd is in een andere lid-staat van de Europese Economische Gemeenschap, door een daartoe bevoegde autoriteit in die lid-staat.
-
-3. De exploitant van een middel van vervoer of van een opslagruimte als bedoeld in het eerste lid, dateert de registratie van de in dat lid bedoelde temperaturen en bewaart die tot ten minste de datum van minimale houdbaarheid van het betrokken diepgevroren levensmiddel, doch in ieder geval gedurende één jaar.
-
-4. In afwijking van het eerste lid mag volstaan worden met het meten van de temperatuur met een gemakkelijk zichtbare thermometer:
-
-- a. tijdens de opslag in voor de verkoop aan de eindverbruiker bestemde winkelmeubelen, die bij open winkelmeubels de temperatuur van de uitstromende lucht op het niveau van de duidelijk aangegeven maximale vulhoogte aanwijst;
-
-- b. bij de regionale distributie van diepgevroren levensmiddelen;
-
-- c. in opslagruimten in winkels die een inhoud hebben van minder dan tien kubieke meter en bestemd zijn voor de opslag van reserve-voorraden diepgevroren levensmiddelen.
+Vervallen
 
 ##### Artikel 9
 
 1. De voor de officiële controle van de temperatuur van diepgevroren levensmiddelen benodigde analysemethode wordt uitgevoerd in overeenstemming met de bijlage.
 
-2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04), worden overschreden.
+2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30), worden overschreden.
 
 ##### Artikel 10
 
-Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2005-11-04), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
+Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2005-11-30&g=2005-11-30), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
 
 ##### Artikel 11
 
 1. Deze regeling treedt in werking met ingang van 10 januari 1993.
 
-2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2002-07-10&g=2005-11-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2002-07-10&g=2005-11-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2002-07-10&g=2005-11-04) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
+2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2005-11-30&g=2005-11-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2005-11-30&g=2005-11-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2005-11-30&g=2005-11-30) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
 
-3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04), vervalt met ingang van 10 januari 1997.
+3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30), vervalt met ingang van 10 januari 1997.
 
 ##### Artikel 12
 
@@ -134,7 +122,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 1. Toepassingsgebied
 
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2002-07-10&g=2005-11-04) voorgeschreven temperaturen van diepgevroren levensmiddelen.
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30) voorgeschreven temperaturen van diepgevroren levensmiddelen.
 
 ##### 2. Principe
 
