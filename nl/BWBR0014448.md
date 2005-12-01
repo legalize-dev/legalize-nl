@@ -4,7 +4,7 @@ identifier: "BWBR0014448"
 country: "nl"
 rank: "wet"
 publication_date: "2006-01-01"
-last_updated: "2005-09-01"
+last_updated: "2005-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014448"
 soort: "wet"
@@ -142,7 +142,7 @@ In de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://we
 
 ##### Artikel XXII
 
-In de [wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011983) (Stb. 567) vervallen [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=I&z=2004-01-01&g=2005-09-01), [artikel II, onderdeel B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=II&z=2004-01-01&g=2005-09-01), en [artikel XV, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XV&z=2004-01-01&g=2005-09-01).
+In de [wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011983) (Stb. 567) vervallen [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=I&z=2005-12-01&g=2005-12-01), [artikel II, onderdeel B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=II&z=2005-12-01&g=2005-12-01), en [artikel XV, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=XV&z=2005-12-01&g=2005-12-01).
 
 ##### Artikel XXIII
 
@@ -200,6 +200,10 @@ G. Verzachting blokkeringsperiode voor spaarloon van voor 2001
 
 De in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) en [artikel 6, achtste lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6) genoemde termijn van vier jaar wordt vervangen door een termijn van drie jaar voor in het kalenderjaar 1999 op de voet van een spaarloonregeling als bedoeld in genoemd [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) gespaard loon en een termijn van twee jaar voor in het kalenderjaar 2000 op de voet van een spaarloonregeling gespaard loon.
 
+H. Aanpassing blokkeringsperiode voor spaarloon van de kalenderjaren 2001 tot en met 2004
+
+De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) en [artikel 6, negende lid, van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6), zoals dat luidde op 31 december 2004, wordt vervangen door een termijn die eindigt op 1 september 2005 voor in de kalenderjaren 2001 tot en met 2004 op de voet van een spaarloonregeling als bedoeld in die bepalingen gespaard loon.
+
 ##### Artikel XXVIII
 
 Ingeval de samenloop van wetten die in 2002 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.
@@ -216,9 +220,9 @@ Ingeval de samenloop van wetten die in 2002 in het Staatsblad zijn of worden gep
 
 ##### Artikel XXX
 
-1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003, met dien verstande dat artikel I, onderdelen B, U, V, W en X, en [artikel VI, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2004-01-01&g=2005-09-01), toepassing vinden nadat [artikel 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2003 is toegepast.
+1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2003, met dien verstande dat artikel I, onderdelen B, U, V, W en X, en [artikel VI, onderdelen E, F, G, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2005-12-01&g=2005-12-01), toepassing vinden nadat [artikel 10.1 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2003 is toegepast.
 
-2. In afwijking van het eerste lid treden de [artikelen VI, onderdelen B, C, D en N, en XI, onderdelen A, lid 1b en lid 4b, B, lid 1b en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2004-01-01&g=2005-09-01), C, derde lid, G, J, lid 1b, lid 2b en lid 4b, en M, in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treden de [artikelen VI, onderdelen B, C, D en N, en XI, onderdelen A, lid 1b en lid 4b, B, lid 1b en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014448&artikel=VI&z=2005-12-01&g=2005-12-01), C, derde lid, G, J, lid 1b, lid 2b en lid 4b, en M, in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 3. In afwijking van het eerste lid treden de artikelen XVa, XVI, XVII, XVIII en XIX in werking op een bij koninklijk besluit vast te stellen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de artikelen XVa, onderdeel A, eerste, derde en vierde lid, en XVI, onderdeel B, toepassing vinden nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2003 is toegepast.
 
