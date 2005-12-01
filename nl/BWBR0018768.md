@@ -1,0 +1,52 @@
+---
+title: "Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Auteursrecht periode (1912) 1945-2000 (Minister van Sociale Zaken en Werkgelegenheid)"
+identifier: "BWBR0018768"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-12-01"
+last_updated: "2005-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018768"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7633993"
+version_id: "12519092"
+internal_id: "C25312491"
+label_id: "7621674"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018768/2005-12-01/0"
+intitule_bron: "Stcrt.2005-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-15"
+intitule_published: "2005-11-29"
+intitule_in_force: "2005-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-232"
+original_signed_date: "2005-09-15"
+original_published_date: "2005-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-232-p11-SC72187"
+entry_into_force_date: "2005-12-01"
+jci_1_3: "jci1.3:c:BWBR0018768&z=2005-12-01&g=2005-12-01"
+jci_1_0: "1.0:c:BWBR0018768&g=2005-12-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-09-15"
+entry_into_force: "2005-12-01"
+---
+# Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Auteursrecht periode (1912) 1945-2000 (Minister van Sociale Zaken en Werkgelegenheid)
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 20 juli 2005, nr. arc-20005.02444/3);
+
+Besluiten:
+
+##### Artikel 1
+
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Auteursrecht over de periode (1912) 1945–2000](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](onbekend) en toelichting in de Staatscourant zal worden geplaatst.
