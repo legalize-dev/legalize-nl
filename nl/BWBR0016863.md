@@ -4,7 +4,7 @@ identifier: "BWBR0016863"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-12-02"
-last_updated: "2004-06-20"
+last_updated: "2005-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016863"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 1. Deze regeling heeft tot doel het stimuleren van de uitvoering van het externeveiligheidsbeleid en het bevorderen van de samenwerking door gemeenten, provincies en regionale samenwerkingsverbanden op het gebied van externe veiligheid.
 
-2. Subsidie kan worden verstrekt op aanvraag van een provincie ter zake van de kosten van activiteiten die zijn opgenomen in een provinciaal programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2004-06-20&g=2004-06-20) en naar het oordeel van de minister bijdragen aan de realisatie van de doelstellingen van de subsidieregeling. De activiteiten moeten voor 31 december 2005 zijn afgerond.
+2. Subsidie kan worden verstrekt op aanvraag van een provincie ter zake van de kosten van activiteiten die zijn opgenomen in een provinciaal programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2005-12-02&g=2005-12-02) en naar het oordeel van de minister bijdragen aan de realisatie van de doelstellingen van de subsidieregeling. De activiteiten moeten voor 1 april 2006 zijn afgerond.
 
 ##### Artikel 3. Provinciaal programma
 
@@ -91,9 +91,9 @@ In deze regeling wordt verstaan onder:
 
 Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van activiteiten gericht op de versterking van de uitvoering van het externeveiligheidsbeleid, onder de volgende voorwaarden:
 
-- a. de aanvraag tot subsidieverlening gaat vergezeld van een door gedeputeerde staten vastgesteld provinciaal programma ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=2&z=2004-06-20&g=2004-06-20) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt:
+- a. de aanvraag tot subsidieverlening gaat vergezeld van een door gedeputeerde staten vastgesteld provinciaal programma ter bereiking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=2&z=2005-12-02&g=2005-12-02) beschreven doel waarin in elk geval de volgende onderdelen zijn uitgewerkt:
 
-- 1°. de verplichtingen waartoe de gemeente en de provincie zich verbinden overeenkomstig de onderdelen, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2004-06-20&g=2004-06-20);
+- 1°. de verplichtingen waartoe de gemeente en de provincie zich verbinden overeenkomstig de onderdelen, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2005-12-02&g=2005-12-02);
 
 - 2°. de duur van uitvoering van het provinciaal programma;
 
@@ -143,11 +143,11 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - b. de kosten gemaakt voor 1 januari 2004;
 
-- c. de kosten gemaakt na 31 december 2005.
+- c. de kosten gemaakt na 31 maart 2006.
 
 ##### Artikel 8. Hoogte van de subsidie
 
-Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=7&z=2004-06-20&g=2004-06-20) voor de kalenderjaren 2004 en 2005 per provincie (afgerond naar duizenden euro’s):
+Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=7&z=2005-12-02&g=2005-12-02) voor de kalenderjaren 2004 en 2005 per provincie (afgerond naar duizenden euro’s):
 
 | Provincie | Totaal | Menu | Facultatief |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 7](https://w
 
 De subsidieontvanger is verplicht:
 
-- a. het provinciaal programma, waarvoor subsidie is verleend, uit te voeren voor 31 december 2005;
+- a. het provinciaal programma, waarvoor subsidie is verleend, uit te voeren voor 1 april 2006;
 
 - b. het geactualiseerde overzicht van activiteiten te overhandigen waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13). Dit in de zesde maand na de datum van toekenning van de subsidie en vervolgens in elke zesde maand daarna;
 
