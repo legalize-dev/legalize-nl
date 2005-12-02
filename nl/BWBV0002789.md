@@ -4,7 +4,7 @@ identifier: "BWBV0002789"
 country: "nl"
 rank: "verdrag"
 publication_date: "2005-12-02"
-last_updated: "1997-08-01"
+last_updated: "2005-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002789"
 soort: "verdrag"
@@ -306,27 +306,39 @@ De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen
 
 ##### Artikel 30
 
-De Partijen dienen binnen vijf jaar vanaf de inwerkingtreding van deze Overeenkomst en daarna iedere vijf jaar, of vaker indien de meerderheid der Partijen dat vraagt, multilaterale consultaties te houden in het kader van de Raad van Europa, om de toepassing van deze Overeenkomst te bezien, alsmede de wenselijkheid van herziening of een verruiming van enige van haar bepalingen. Deze consultaties vinden plaats tijdens bijeenkomsten bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. De Partijen dienen tenminste twee maanden voor de bijeenkomst de naam van hun vertegenwoordigers mede te delen aan de Secretaris-Generaal van de Raad van Europa.
+1. De Partijen dienen binnen vijf jaar vanaf de inwerkingtreding van deze Overeenkomst en daarna iedere vijf jaar, of vaker indien de meerderheid der Partijen dat vraagt, multilaterale consultaties te houden in het kader van de Raad van Europa, om de toepassing van deze Overeenkomst te bezien, alsmede de wenselijkheid van herziening of een verruiming van enige van haar bepalingen.
 
-## DEEL XI. Slotbepalingen
+2. Deze consultaties vinden plaats tijdens bijeenkomsten bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. De Partijen dienen ten minste twee maanden voor iedere bijeenkomst de naam van hun vertegenwoordiger mede te delen aan de Secretaris-Generaal van de Raad van Europa.
+
+3. Met inachtneming van de bepalingen van deze Overeenkomst stellen de Partijen het reglement van orde voor de consultaties op.
+
+## DEEL XI. Wijzigingen
 
 ##### Artikel 31
 
-Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad van Europa en door de Europese Gemeenschappen. Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. Iedere wijziging op de Bijlagen A en B die wordt voorgesteld door een Partij of door het Comité van Ministers van de Raad van Europa wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem gezonden naar de lidstaten van de Raad van Europa, naar de Europese Gemeenschap en naar iedere niet-lidstaat van de Raad die is toegetreden of is uitgenodigd toe te treden tot de Overeenkomst overeenkomstig de bepalingen van artikel 34.
+
+2. Wijzigingen die zijn voorgesteld overeenkomstig de bepalingen van het voorgaande lid worden, na het verstrijken van een periode van ten minste zes maanden na de datum van verzending door de Secretaris-Generaal, bezien tijdens een multilaterale consultatie, waar zij kunnen worden aangenomen door een meerderheid van twee derde van de Partijen. De aangenomen tekst wordt naar de Partijen gezonden.
+
+3. Twaalf maanden na de aanneming van een wijziging tijdens een multilaterale consultatie, treedt deze in werking tenzij een derde van de Partijen bezwaren heeft kenbaar gemaakt.
 
 ##### Artikel 32
+
+Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad van Europa en door de Europese Gemeenschappen. Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+
+##### Artikel 33
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa hun instemming tot uiting hebben gebracht te worden gebonden door deze Overeenkomst in overeenstemming met de bepalingen van artikel 31.
 
 2. Voor iedere Ondertekenaar, die later zijn instemming betuigt door de Overeenkomst te worden gebonden, zal deze in werking treden op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-##### Artikel 33
+##### Artikel 34
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid is van de Raad, uitnodigen toe te treden tot deze Overeenkomst, middels een besluit, genomen bij de meerderheid van stemmen voorzien in artikel 20.d van het Statuut van de Raad van Europa, en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten, die gerechtigd zijn zitting te hebben in het Comité.
+1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid is van de Raad, uitnodigen toe te treden tot deze Overeenkomst, middels een besluit, genomen bij de meerderheid van stemmen voorzien in [artikel 20.d van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten, die gerechtigd zijn zitting te hebben in het Comité.
 
 2. Voor iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-##### Artikel 34
+##### Artikel 35
 
 1. Iedere Ondertekenaar mag, ten tijde van de ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, één of meer voorbehouden maken; geen voorbehoud mag evenwel worden gemaakt ten aanzien van de artikelen 1 tot 14 en 18 tot 20.
 
@@ -334,7 +346,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad v
 
 3. De Partij die een voorbehoud heeft gemaakt met betrekking tot een bepaling van deze Overeenkomst mag naleving van die bepaling door een andere Partij niet vorderen; zij mag evenwel, indien het voorbehoud gedeeltelijk of voorwaardelijk is, naleving vorderen van die bepaling in de mate waarin zij zelf deze heeft aanvaard.
 
-##### Artikel 35
+##### Artikel 36
 
 1. Iedere Ondertekenaar mag, ten tijde van ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden aangeven waarop deze Overeenkomst van toepassing zal zijn.
 
@@ -342,13 +354,19 @@ Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad v
 
 3. Iedere verklaring, afgelegd onder de vorige twee leden mag worden ingetrokken met betrekking tot ieder gebied in die verklaring genoemd, door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-##### Artikel 36
+##### Artikel 37
 
 1. Iedere Partij mag op elk moment deze Overeenkomst opzeggen door een kennisgeving te richten aan de Secretaris-generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-##### Artikel 37
+IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
+
+DONE at Strasbourg, this 18th day of March 1986, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Communities and to any State invited to accede to this Convention.
+
+## DEEL XII. Slotbepalingen
+
+##### Artikel 38
 
 De Secretaris-Generaal van de Raad van Europa dient de Lidstaten van de Raad van Europa, de Europese Gemeenschappen en iedere Staat die is toegetreden tot deze Overeenkomst in kennis te stellen van:
 
