@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -307,6 +307,8 @@ N. Handhaving voorwaarden met betrekking tot stamrechten van voor 1 januari 1992
 - 4. Voor de toepassing van het eerste lid wordt hetgeen wordt ontvangen ter vervanging van gederfde of te derven periodieke uitkeringen en verstrekkingen aangemerkt als uitkering of verstrekking voorzover dat niet het geval is op grond van de Wet op de inkomstenbelasting 1964 zoals die luidt op 31 december 2000. De vorige volzin is eveneens van toepassing op de omzetting van een recht op periodieke uitkeringen of verstrekkingen in een andersoortig recht.
 
 - 5. Met betrekking tot verplichtingen die tot stand zijn gekomen vóór 14 september 1999 tot het betalen van periodieke uitkeringen of verstrekkingen die de tegenwaarde voor een prestatie vormen, blijft artikel 45, eerste lid, aanhef en onderdeel b, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, van toepassing tot en met 31 december 2020. Voor zover de periodieke uitkeringen op grond van de vorige volzin zijn aan te merken als persoonlijke verplichtingen worden deze uitkeringen in aanmerking genomen als een onderhoudsverplichting als bedoeld in [afdeling 6.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.2).
+
+- 6. Op aanspraken op lijfrenten als bedoeld in artikel 25, tweede en derde lid, van de Wet op de inkomstenbelasting 1964 zoals dat artikel luidde op 31 december 1991 waarop ingevolge artikel 75 van die wet de regels van kracht zijn die daarvoor op 31 december 1991 golden, zijn in aanvulling op het eerste lid ook [artikel 1.7, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) en de daarop berustende bepalingen, van overeenkomstige toepassing.
 
 - 1. Op bij de aangifte inkomstenbelasting over het jaar 2001 gedaan verzoek van de verzekeringnemer dan wel, indien deze is overleden of de uitkeringen op grond van het recht zijn ingegaan, de begunstigde, blijft toepassing van onderdeel O, eerste lid, met ingang van 1 januari 2001 achterwege op een recht op periodieke uitkeringen of verstrekkingen waarvan de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging waarvan geen vrijstelling van toepassing is geweest.
 
@@ -762,9 +764,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-01-01&g=2005-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-12-02&g=2005-12-02), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-01-01&g=2005-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2005-12-02&g=2005-12-02), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
