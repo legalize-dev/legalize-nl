@@ -4,7 +4,7 @@ identifier: "BWBR0018584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-12-04"
-last_updated: "2005-07-20"
+last_updated: "2005-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018584"
 soort: "ministeriele-regeling"
@@ -51,15 +51,15 @@ Er is een Commissie feitenonderzoek uitzettingen naar de Democratische Republiek
 
 ##### Artikel 2
 
-1. De Commissie stelt een onafhankelijk feitenonderzoek in naar het handelen van de Nederlandse overheid in het kader van de genoemde uitzettingen naar de Democratische Republiek Congo.
+1. De commissie stelt een onafhankelijk feitenonderzoek in naar het handelen van de Nederlandse overheid in het kader van de uitzettingen naar de Democratische Republiek Congo in de periode 1999 tot heden, zoals aan de orde gesteld in de uitzendingen van Netwerk op 21 juni en 18 oktober 2005.
 
-2. De Commissie beziet ten aanzien van deze uitzettingen:
+2. De commissie beziet ten aanzien van deze uitzettingen:
 
 - –. de feitelijke gang van zaken;
 
 - –. de mogelijke verstrekking van vertrouwelijke gegevens aan de Congolese autoriteiten;
 
-- –. de technische ondersteuning die door de Nederlandse overheid aan de Congolese autoriteiten is geboden in verband met terugkeer.
+- –. de verlening van technische ondersteuning door de Nederlandse overheid aan de Congolese autoriteiten in verband met terugkeer.
 
 ##### Artikel 3
 
