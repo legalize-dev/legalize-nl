@@ -4,7 +4,7 @@ identifier: "BWBR0013815"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-07"
-last_updated: "2003-02-20"
+last_updated: "2005-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013815"
 soort: "wet"
@@ -77,7 +77,7 @@ Op het tijdstip waarop het eerste luchthavenindelingbesluit en het eerste luchth
 
 ##### Artikel IX
 
-Vanwege het streven naar een duurzame ontwikkeling moet verbetering plaatsvinden van de kwaliteit van het leefmilieu. Daartoe mag in de omgeving van Schiphol de situatie vanaf 2003 ten opzichte van 1990 niet verslechteren voor de parameters externe veiligheid en lokale luchtverontreiniging en moet de situatie verbeteren voor luchtvaartgeluid, zoals vastgesteld in de Planologische Kernbeslissing Schiphol en Omgeving en op de wijze zoals voorzien in de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=X&z=2003-02-20&g=2003-02-20) tot en met [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=XIII&z=2003-02-20&g=2003-02-20). Binnen het kader van deze milieugrenzen krijgt Schiphol de ruimte zich optimaal te ontwikkelen.
+Vanwege het streven naar een duurzame ontwikkeling moet verbetering plaatsvinden van de kwaliteit van het leefmilieu. Daartoe mag in de omgeving van Schiphol de situatie vanaf 2003 ten opzichte van 1990 niet verslechteren voor de parameters externe veiligheid en lokale luchtverontreiniging en moet de situatie verbeteren voor luchtvaartgeluid, zoals vastgesteld in de Planologische Kernbeslissing Schiphol en Omgeving en op de wijze zoals voorzien in de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=X&z=2005-12-07&g=2005-12-07) tot en met [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=XIII&z=2005-12-07&g=2005-12-07). Binnen het kader van deze milieugrenzen krijgt Schiphol de ruimte zich optimaal te ontwikkelen.
 
 ##### Artikel X. (Overgangsbepaling beperkingengebied)
 
@@ -95,17 +95,17 @@ Bij de vaststelling in het eerste luchthavenindelingbesluit van de regels voor h
 
 2. De in het eerste lid bedoelde berekeningen worden uitgevoerd aan de hand van het rekenmodel zoals dat is vastgelegd in het rapport van het Nationaal Lucht- en Ruimtevaartlaboratorium NLR CR 93372 L, nadien gewijzigd bij rapport NLR-CR-2000–147.
 
-3. Bij de vaststelling van het eerste luchthavenindelingbesluit worden de gronden, bedoeld in [artikel 8.7, derde lid, van de Wet luchtvaart](onbekend), zodanig bepaald dat zij in ieder geval de gronden gelegen binnen de in het eerste lid, onder c, bedoelde contouren omvatten.
+3. Bij de vaststelling van het eerste luchthavenindelingbesluit worden de gronden, bedoeld in [artikel 8.7, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.7), zodanig bepaald dat zij in ieder geval de gronden gelegen binnen de in het eerste lid, onder c, bedoelde contouren omvatten.
 
 4. Bij de vaststelling van het eerste luchthavenverkeerbesluit worden de grenswaarden voor het externe-veiligheidsrisico afgestemd op de in het eerste lid, onder c, bedoelde gegevens.
 
-5. Ten behoeve van het luchthavenindelingbesluit en het luchthavenverkeerbesluit wordt een statistisch-causaal model ontwikkeld voor interne en externe veiligheid (groepsrisico voor de mensen op de grond) van de luchtvaart, zoals aagegeven in [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=XVI&z=2003-02-20&g=2003-02-20). Dit model moet in 2005 klaar zijn en worden toegevoegd aan beide besluiten. Vanaf 2005 mogen de risico's, als berekend met dit nieuwe model niet groter zijn dan de met dit model herberekende risico's 1990.
+5. Onze Minister van Verkeer en Waterstaat en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ontwikkelen zo spoedig als redelijkerwijs mogelijk een causaal model dat is gericht op interne veiligheid van het luchthavenluchtverkeer. Met de voor externe veiligheid relevante uitkomsten van het model wordt rekening gehouden in het [Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) en het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329).
 
 ##### Artikel XII. (Overgangsbepaling geluidbelasting)
 
 1. Bij de vaststelling in het eerste luchthavenverkeerbesluit van de grenswaarden voor de geluidbelasting wordt voor wat betreft de belasting gedurende het gehele etmaal in de in [artikel 8.17, vijfde lid, onderdeel b, van de Wet luchtvaart](onbekend) bedoelde punten, gebruik gemaakt van de Lden als geluidbelastingindicator. Daarbij worden de volgende regels gehanteerd in verband met de overgang van Ke naar Lden:
 
-- a. op een wijze die overeenstemt met de voorschriften zoals die gelden tot de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=II&z=2003-02-20&g=2003-02-20) worden een 20 Ke-contour en een 35 Ke-contour berekend;
+- a. op een wijze die overeenstemt met de voorschriften zoals die gelden tot de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=II&z=2005-12-07&g=2005-12-07) worden een 20 Ke-contour en een 35 Ke-contour berekend;
 
 - b. het aantal ernstig gehinderden binnen de 20 Ke-contour bedraagt maximaal 45 000, vastgesteld overeenkomstig de wijze waarop dit aantal in de PKB Schiphol en Omgeving is vastgesteld;
 
@@ -119,7 +119,7 @@ Bij de vaststelling in het eerste luchthavenindelingbesluit van de regels voor h
 
 2. Bij de vaststelling in het eerste luchthavenverkeerbesluit van de grenswaarden voor de geluidbelasting wordt voor wat betreft de belasting gedurende de nacht in de in [artikel 8.17, vijfde lid, onderdeel b, van de Wet luchtvaart](onbekend) bedoelde punten, gebruik gemaakt van de Lnight als geluidbelastingindicator. Daarbij worden de volgende regels gehanteerd in verband met de overgang van LAeq naar Lnight:
 
-- a. op een wijze die overeenstemt met de voorschriften zoals die gelden tot de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=II&z=2003-02-20&g=2003-02-20) worden een 20 dB(A) LAeq-contour en een 26 dB(A) LAeq-contour berekend;
+- a. op een wijze die overeenstemt met de voorschriften zoals die gelden tot de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=II&z=2005-12-07&g=2005-12-07) worden een 20 dB(A) LAeq-contour en een 26 dB(A) LAeq-contour berekend;
 
 - b. het aantal mensen dat slaapverstoring ondervindt binnen de 20 dB(A) LAeq-contour bedraagt maximaal 39 000, vastgesteld overeenkomstig de wijze waarop dit aantal in de PKB Schiphol en Omgeving is vastgesteld;
 
@@ -161,9 +161,17 @@ Na de inwerkingtreding van dit artikel berust de Regeling geluidwerende voorzien
 
 Onze Minister van Verkeer en Waterstaat zendt voor 1 januari 2008 aan de Staten-Generaal een verslag over de doeltreffendheid van de handhaving van [titel 8.3 van de Wet luchtvaart](onbekend) door de Inspectie Verkeer en Waterstaat.
 
-##### Artikel XVI. (Implementatie veiligheidsmodel)
+##### Artikel XVI
 
-Onze Minister van Verkeer en Waterstaat bevordert de implementatie voor 1 januari 2005 van een statistisch-causaal model met betrekking tot de veiligheid van het luchthavenluchtverkeer, dat mede als grondslag dient voor de implementatie voor die datum van een op het luchthavenluchtverkeer toegesneden maat voor het bepalen van groepsrisico.
+1. Onze Minister van Verkeer en Waterstaat zendt uiterlijk drie jaar na de inwerkingtreding van deze wet, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de krachtens de [artikelen 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4) en [8.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15) vastgestelde besluiten.
+
+2. In het verslag wordt in ieder geval aangegeven op welke wijze het groepsrisico voor mensen op de grond kan worden bepaald en beheerst door middel van instrumenten die zijn gericht op het gebruik van de luchthaven in combinatie met de ruimtelijke ordening in de omgeving van de luchthaven. Onze Minister van Verkeer en Waterstaat en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voeren daartoe een ex ante evaluatie ten aanzien van het groepsrisicobeleid uit.
+
+3. Het verslag gaat vergezeld van een milieueffectrapport. Op dit rapport zijn de [artikelen 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.20), en [7.26, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.26) van overeenkomstige toepassing. In afwijking van [artikel 7.26, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.26) wordt de commissie tot uiterlijk vijf weken na ontvangst van het milieueffectrapport in de gelegenheid gesteld om advies uit te brengen.
+
+4. Het millieueffectrapport is gericht op een vergelijking van het beschermingsniveau zoals dat wordt geboden door de krachtens de [artikelen 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4) en [8.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15) vastgestelde besluiten, met het beschermingsniveau zoals dat voor de inwerkingtreding van [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=VI_(Vervallen_van_PKB_Schiphol_en_omgeving&z=2005-12-07&g=2005-12-07) ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=IX&z=2005-12-07&g=2005-12-07) wordt hierbij in acht genomen.
+
+5. Voor zover uit het rapport blijkt dat niet aan de [artikelen X tot en met XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=X&z=2005-12-07&g=2005-12-07) is voldaan, bevordert Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, dat zulks alsnog geschiedt door wijziging van de in de [artikelen 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.4) en [8.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.15) bedoelde besluiten.
 
 ##### Artikel XVII
 
