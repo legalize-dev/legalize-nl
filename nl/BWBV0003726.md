@@ -4,7 +4,7 @@ identifier: "BWBV0003726"
 country: "nl"
 rank: "verdrag"
 publication_date: "2007-05-01"
-last_updated: "2005-10-11"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003726"
 soort: "verdrag"
@@ -181,10 +181,10 @@ De Raad van Bestuur neemt, onder de in de leden 5 en 6 vastgestelde voorwaarden,
 | België | 5 |
 | --- | --- |
 | Denemarken | 3 |
+| Frankrijk | 10 |
 | Duitsland | 10 |
 | Griekenland | 5 |
 | Spanje | 8 |
-| Frankrijk | 10 |
 | Ierland | 3 |
 | Italië | 10 |
 | Luxemburg | 2 |
@@ -195,8 +195,12 @@ De Raad van Bestuur neemt, onder de in de leden 5 en 6 vastgestelde voorwaarden,
 | Finland | 3 |
 | Zweden | 4 |
 | Verenigd Koninkrijk | 10 |
+| Cyprus | 2 |
+| de Slowaakse Republiek | 5 |
+| Slovenië | 3 |
+| Estland | 3 |
 
-De besluiten komen tot stand wanneer zij ten minste achtenzestig stemmen hebben verkregen, waarbij ten minste elf Regeringen voor stemmen.
+De besluiten komen tot stand wanneer zij ten minste zevenenzeventig stemmen hebben verkregen, waarbij ten minste veertien Regeringen voor stemmen.
 
 8. Onthouding van stemming vormt geen beletsel voor het aannemen der besluiten van de Raad van Bestuur, waarvoor eenparigheid van stemmen is vereist.
 
@@ -374,25 +378,29 @@ In de financiële voorschriften wordt een opsomming gegeven van de ontvangsten v
 
 ##### Artikel 19
 
-1. De financiële bijdragen van de Overeenkomstsluitende Staten, bestemd voor dekking van de in de begroting van het Instituut opgenomen uitgaven, worden vastgesteld overeenkomstig de volgende verdeelsleutel in overeenstemming met het Besluit no 3/04 van de Raad van Bestuur van 10 juni 2004:
+1. De financiële bijdragen van de Overeenkomstsluitende Staten, bestemd voor dekking van de in de begroting van het Instituut opgenomen uitgaven, worden vastgesteld overeenkomstig de volgende verdeelsleutel, in overeenstemming met het Besluit no 3/04 van de Raad van Bestuur van 10 juni 2004:
 
-| België | 5,00 |
+| België | 4,96% |
 | --- | --- |
-| Denemarken | 2,04 |
-| Duitsland | 17,50 |
-| Griekenland | 1,48 |
-| Spanje | 6,27 |
-| Frankrijk | 17,50 |
-| Ierland | 0,52 |
-| Italië | 17,50 |
-| Luxemburg | 0,16 |
-| Nederland | 5,00 |
-| Oostenrijk | 2,67 |
-| Polen | 2,16 |
-| Portugal | 0,74 |
-| Finland | 1,20 |
-| Zweden | 2,74 |
-| Verenigd Koninkrijk | 17,50 |
+| Denemarken | 2,03% |
+| Duitsland | 17,38% |
+| Griekenland | 1,47% |
+| Spanje | 6,23% |
+| Frankrijk | 17,38% |
+| Ierland | 0,51% |
+| Italië | 17,38% |
+| Luxemburg | 0,16% |
+| Nederland | 4,96% |
+| Oostenrijk | 2,65% |
+| Polen | 2,14% |
+| Portugal | 0,74% |
+| Finland | 1,19% |
+| Zweden | 2,72% |
+| Verenigd Koninkrijk | 17,38% |
+| Cyprus | 0,12% |
+| Slowaakse Republiek | 0,28% |
+| Slovenië | 0,24% |
+| Estland | 0,07% |
 
 2. Vanaf 1 januari 1978 wordt de financiering vastgesteld volgens criteria die worden bepaald tijdens een onderzoek dat met ingang van 1 januari 1977 wordt verricht, waarbij rekening wordt gehouden met de ontwikkeling die de Europese Gemeenschappen dan hebben doorgemaakt, en met het door de communautaire financiering geboden alternatief.
 
@@ -462,7 +470,7 @@ Op dezelfde voorwaarden stelt de Italiaanse Republiek een ingerichte mensa en ee
 
 ##### Artikel 27
 
-1. De officiële talen van het Instituut zijn Deens, Duits, Engels, Fins, Frans, Grieks, Italiaans, Nederlands, Pools, Portugees, Sloveens, Slowaaks, Spaans en Zweeds.
+1. De officiële talen van het Instituut zijn Deens, Duits, Engels, Ests, Fins, Frans, Grieks, Italiaans, Nederlands, Pools, Portugees, Sloveens, Slowaaks, Spaans en Zweeds.
 
 2. Voor elke academische activiteit worden uit de in lid 1 genoemde talen twee werktalen gekozen, zulks rekening houdend met de talenkennis en de wensen van de docenten en de wetenschappelijke onderzoekers.
 
@@ -550,13 +558,15 @@ De in de Deense, de Engelse en de Ierse taal opgestelde teksten van de Overeenko
 
 De in de Griekse taal opgestelde tekst van de Overeenkomst, die als bijlage gehecht is aan het Besluit van de Raad van Bestuur waarin de wijzigingen worden omschreven die in verband met de toetreding van Griekenland nodig zijn, is gelijktijdig 1)[Red: Lees: „gelijkelijk” in plaats van „gelijktijdig”].authentiek op dezelfde voet als de bovengenoemde teksten van de Overeenkomst, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk der Overeenkomstsluitende Staten.
 
-De tekst van de Overeenkomst opgesteld in de Spaanse taal die als bijlage is gehecht aan het besluit van de Raad van Bestuur waarin de wijzigingen worden omschreven die in verband met de toetreding van het Koninkrijk Spanje nodig zijn, is authentiek op dezelfde voet als de teksten genoemd in de voorgaande alinea's en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
+De tekst van de Overeenkomst opgesteld in de Spaanse taal die als bijlage is gehecht aan het besluit van de Raad van Bestuur waarin de wijzigingen worden omschreven die in verband met de toetreding van het Koninkrijk Spanje nodig zijn, is authentiek op dezelfde voet als de teksten genoemd in de voorgaande alinea’s en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
 
-De in de Portugese taal opgestelde tekst van de Overeenkomst, die als bijlage gehecht is aan Besluit nr. 4/89 van de Raad van Bestuur van 7/12/1989 houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut naar aanleiding van de toetreding van de Portugese Republiek, is gelijkelijk authentiek op dezelfde voet als de in de voorgaande alinea's vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
+De in de Portugese taal opgestelde tekst van de Overeenkomst, die als bijlage gehecht is aan Besluit nr. 4/89 van de Raad van Bestuur van 7/12/1989 houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut naar aanleiding van de toetreding van de Portugese Republiek, is gelijkelijk authentiek op dezelfde voet als de in de voorgaande alinea’s vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
 
-De in de Finse en Zweedse taal opgestelde teksten van de Overeenkomst, die als bijlage gehecht zijn aan het Besluit van de Raad van Bestuur1)[Red: Niet opgenomen.], waarin de wijzigingen worden omschreven die in verband met de toetreding van de Finse Republiek en het Koninkrijk Zweden nodig zijn, zijn gelijkelijk authentiek op dezelfde voet als de in de voorgaande alinea's vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
+De in de Finse en Zweedse taal opgestelde teksten van de Overeenkomst, die als bijlage gehecht zijn aan het Besluit van de Raad van Bestuur1)[Red: Niet opgenomen.], waarin de wijzigingen worden omschreven die in verband met de toetreding van de Finse Republiek en het Koninkrijk Zweden nodig zijn, zijn gelijkelijk authentiek op dezelfde voet als de in de voorgaande alinea’s vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
 
 De Griekse, Sloveense en Slowaakse tekst van deze Overeenkomst, zoals opgenomen in de Bijlage bij dit Besluit van de Raad van Bestuur houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut in verband met de toetreding van de Republiek Cyprus, de Republiek Slovenië en de Slowaakse Republiek, zijn gelijkelijk authentiek op dezelfde voet als de in de voorgaande leden vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
+
+De Estse tekst van deze Overeenkomst, zoals opgenomen in de Bijlage bij dit Besluit van de Raad van Bestuur houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut in verband met de toetreding van de Republiek Estland, is gelijkelijk authentiek op dezelfde voet als de in de voorgaande leden vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
 
 De Staten die partij zijn bij de Overeenkomst houdende oprichting van een Europees Universitair Instituut, welke op 19 april 1972 te Florence is ondertekend,
 
