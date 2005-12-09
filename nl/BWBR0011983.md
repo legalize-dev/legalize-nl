@@ -4,7 +4,7 @@ identifier: "BWBR0011983"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-09"
-last_updated: "2003-01-01"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011983"
 soort: "wet"
@@ -122,7 +122,7 @@ Met betrekking tot de aansprakelijkheidstelling voor 1 januari 2001 op de voet v
 
 ##### Artikel XIVb
 
-[Artikel 12 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12) blijft buiten toepassing voorzover met betrekking tot een schuldvordering op de voet van [artikel 13b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13b), zoals dat luidde op 31 december 2000, bij de in dat artikel bedoelde belastingplichtige een voordeel in aanmerking is genomen.
+Vervallen
 
 ##### Artikel XIVc
 
@@ -144,17 +144,17 @@ Wijzigt deze wet.
 
 ##### Artikel XV
 
-1. Deze wet treedt in werking met ingang van 1 januari 2001, met uitzondering van [artikel XI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XI&z=2003-01-01&g=2003-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet treedt in werking met ingang van 1 januari 2001, met uitzondering van [artikel XI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XI&z=2005-12-09&g=2005-12-09), dat in werking treedt op 31 december 2000.
 
 2. [Artikel 20a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20a) is voor het eerst van toepassing met ingang van boekjaren die op of na 18 oktober 2000 aanvangen.
 
 3. [Artikel 3.65 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65) is van toepassing op omzettingen als bedoeld in dat artikel waarbij de oprichting van de naamloze of besloten vennootschap of de inbreng van de onderneming in de vennootschap op of na 1 januari 2001 plaatsvindt. In afwijking van de eerste volzin is artikel 18 van de Wet op de inkomstenbelasting 1964, zoals die bepaling luidde op 31 december 2000, nog van toepassing indien het voornemen tot de omzetting voor 1 januari 2001 is vastgelegd en geregistreerd en de overgang van de heffing van inkomstenbelasting naar de heffing van vennootschapsbelasting eveneens voor 1 januari 2001 plaatsvindt.
 
-4. De in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=IV&z=2003-01-01&g=2003-01-01) opgenomen wijzigingen werken terug tot en met 1 januari 2000.
+4. De in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=IV&z=2005-12-09&g=2005-12-09) opgenomen wijzigingen werken terug tot en met 1 januari 2000.
 
-5. [Artikel VII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=VII&z=2003-01-01&g=2003-01-01), vindt eerst toepassing met betrekking tot vervreemdingen die hebben plaatsgevonden na 31 december 2000. Voor vervreemdingen van voor 1 januari 2001 blijft [artikel 40 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) gelden zoals dat luidde op 31 december 2000.
+5. [Artikel VII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=VII&z=2005-12-09&g=2005-12-09), vindt eerst toepassing met betrekking tot vervreemdingen die hebben plaatsgevonden na 31 december 2000. Voor vervreemdingen van voor 1 januari 2001 blijft [artikel 40 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=40) gelden zoals dat luidde op 31 december 2000.
 
-6. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XII&z=2003-01-01&g=2003-01-01) werkt terug tot en met 27 juni 2000.
+6. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0011983&artikel=XII&z=2005-12-09&g=2005-12-09) werkt terug tot en met 27 juni 2000.
 
 ##### Artikel XVI
 
