@@ -4,7 +4,7 @@ identifier: "BWBR0016301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2004-01-28"
+last_updated: "2005-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016301"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ Besluit:
 
 - c. **beoordelaar**: een door de Nederlandse Air Display Association aangewezen persoon, die bedreven is in het uitvoeren van kunstvluchten;
 
-- d. **deelnemer**: een persoon die op basis van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2004-01-28&g=2004-01-28), als deelnemer tot de luchtvaartvertoning is toegelaten;
+- d. **deelnemer**: een persoon die op basis van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2005-12-10&g=2005-12-10), als deelnemer tot de luchtvaartvertoning is toegelaten;
 
 - e. **demonstratietoestel**: een luchtvaartuig dat onderdeel uitmaakt van de luchtvaartvertoning, onderverdeeld in de volgende categorieën:
 
@@ -117,7 +117,7 @@ Deze regeling is niet van toepassing op militaire deelnemers en militaire demons
 
 1. Indien bij een luchtvaartvertoning waarvoor door de minister de vergunning wordt verleend, militaire deelnemers of militaire demonstratietoestellen zijn betrokken, wordt de beslissing over de vergunning genomen in overeenstemming met de Minister van Defensie.
 
-2. Met uitzondering van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=32&z=2004-01-28&g=2004-01-28), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2004-01-28&g=2004-01-28), is deze regeling niet van toepassing op een deelnemer aan een luchtvaartvertoning waarvoor door de Minister van Defensie de vergunning wordt verleend.
+2. Met uitzondering van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=32&z=2005-12-10&g=2005-12-10), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2005-12-10&g=2005-12-10), is deze regeling niet van toepassing op een deelnemer aan een luchtvaartvertoning waarvoor door de Minister van Defensie de vergunning wordt verleend.
 
 #### § 2. Locatie van een luchtvaartvertoning
 
@@ -189,7 +189,7 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 ##### Artikel 7
 
-1. De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning boven water- of landoppervlak, waarbij niet wordt gestart van en geland op het vertoningterrein, indien aan de voorwaarden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c, en tweede lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2004-01-28&g=2004-01-28), is voldaan.
+1. De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning boven water- of landoppervlak, waarbij niet wordt gestart van en geland op het vertoningterrein, indien aan de voorwaarden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c, en tweede lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2005-12-10&g=2005-12-10), is voldaan.
 
 2. In afwijking van het eerste lid, mag een watervliegtuig starten van en landen op het wateroppervlak.
 
@@ -199,7 +199,7 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 2. De houder van een krachtens het eerste lid verleende vergunning dient telkens ten minste één week vóór het houden van een luchtvaartvertoning de bescheiden, bedoeld in [artikel 158, eerste lid, onderdelen a en c, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=158) aan de minister te overleggen.
 
-3. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2004-01-28&g=2004-01-28), is niet van toepassing.
+3. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2005-12-10&g=2005-12-10), is niet van toepassing.
 
 #### § 3. Organisatie van een luchtvaartvertoning
 
@@ -209,7 +209,7 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 2. De vertoningdirecteur, bedoeld in het eerste lid, heeft de vereiste ervaring behorend bij de categorie waarin de desbetreffende luchtvaartvertoning overeenkomstig tabel 2 van de bijlage, behorend bij deze regeling, wordt ingedeeld.
 
-3. Indien de organisator een vertoningdirecteur aanwijst die bij eerdere luchtvaartvertoningen aantoonbaar in strijd heeft gehandeld met bepalingen van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&z=2004-01-28&g=2004-01-28) die in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2004-01-28&g=2004-01-28) als strafbaar feit zijn aangemerkt, kan de minister besluiten de aanvraag van een vergunning af te wijzen.
+3. Indien de organisator een vertoningdirecteur aanwijst die bij eerdere luchtvaartvertoningen aantoonbaar in strijd heeft gehandeld met bepalingen van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&z=2005-12-10&g=2005-12-10) die in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2005-12-10&g=2005-12-10) als strafbaar feit zijn aangemerkt, kan de minister besluiten de aanvraag van een vergunning af te wijzen.
 
 4. Indien de vertoningdirecteur gedurende drie kalenderjaren niet belast is met de leiding van een luchtvaartvertoning inde in tabel 2 van de bijlage, behorend bij deze regeling, vermelde hoogste categorie waarvoor hij de vereiste ervaring had, wordt hij één categorie lager ingedeeld.
 
@@ -227,7 +227,7 @@ De organisator dient zich voor het houden van een luchtvaartvertoning te verzeke
 
 3. De veiligheidscommissie adviseert de vertoningdirecteur gevraagd en ongevraagd ten aanzien van veiligheidsaspecten bij de voorbereiding en uitvoering van een luchtvaartvertoning.
 
-4. Indien een veiligheidscommissie is ingesteld, wordt het verslag, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=29&z=2004-01-28&g=2004-01-28), mede ondertekend door de voorzitter van de veiligheidscommissie.
+4. Indien een veiligheidscommissie is ingesteld, wordt het verslag, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=29&z=2005-12-10&g=2005-12-10), mede ondertekend door de voorzitter van de veiligheidscommissie.
 
 #### § 4. Verplichtingen voor de vertoningdirecteur
 
@@ -279,7 +279,7 @@ De vertoningdirecteur draagt er zorg voor dat:
 
 - c. een doeltreffende geluidsinstallatie aanwezig is om het publiek toe te spreken;
 
-- d. indien een luchtvaartvertoning wordt gehouden ingevolge een vergunning op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=5&z=2004-01-28&g=2004-01-28) onderscheidenlijk [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2004-01-28&g=2004-01-28), een luchtvaartgrondstation onderscheidenlijk een mobiel luchtvaartstation beschikbaar is voor de luchtvaartterreininformatieverstrekker.
+- d. indien een luchtvaartvertoning wordt gehouden ingevolge een vergunning op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=5&z=2005-12-10&g=2005-12-10) onderscheidenlijk [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2005-12-10&g=2005-12-10), een luchtvaartgrondstation onderscheidenlijk een mobiel luchtvaartstation beschikbaar is voor de luchtvaartterreininformatieverstrekker.
 
 ##### Artikel 16
 
@@ -339,7 +339,7 @@ De vertoningdirecteur zorgt ervoor dat uitsluitend:
 
 3. De vertoningdirecteur draagt er zorg voor dat op iedere dag van de luchtvaartvertoning ten behoeve van de uitvoering van de onderdelen onder zijn leiding een mondelinge instructie, onder meer bevattend de meest recente informatie, aan de deelnemers wordt gegeven. Tijdens deze mondelinge instructie worden ten minste besproken:
 
-- a. [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2004-01-28&g=2004-01-28);
+- a. [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2005-12-10&g=2005-12-10);
 
 - b. de plaatselijke vluchten;
 
@@ -385,7 +385,7 @@ Indien met categorie A demonstratietoestellen langs- en kunstvluchten worden uit
 
 - d. per etmaal niet meer dan 70 van deze demonstratietoestellen opstijgen.
 
-2. In afwijking van [artikel 13, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2004-01-28&g=2004-01-28), mogen bemanningleden en passagiers van deze demonstratietoestellen zich bevinden op het vertoningterrein.
+2. In afwijking van [artikel 13, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2005-12-10&g=2005-12-10), mogen bemanningleden en passagiers van deze demonstratietoestellen zich bevinden op het vertoningterrein.
 
 ##### Artikel 24
 
@@ -403,7 +403,7 @@ Indien met categorie A demonstratietoestellen langs- en kunstvluchten worden uit
 
 3. Indien vluchten met modelvliegtuigen plaatsvinden, draagt de vertoningdirecteur er zorg voor dat:
 
-- a. deze plaatsvinden in overeenstemming met de [Regeling modelvliegtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0006075);
+- a. deze plaatsvinden in overeenstemming met de [Regeling modelvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0019147);
 
 - b. niet wordt gevlogen met niet bestuurbare modelvliegtuigen;
 
@@ -427,7 +427,7 @@ De vertoningdirecteur draagt er zorg voor dat:
 
 ##### Artikel 26
 
-De vertoningdirecteur draagt er zorg voor dat de deelnemer [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2004-01-28&g=2004-01-28) in acht neemt.
+De vertoningdirecteur draagt er zorg voor dat de deelnemer [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2005-12-10&g=2005-12-10) in acht neemt.
 
 ##### Artikel 27
 
@@ -445,9 +445,9 @@ De vertoningdirecteur brengt binnen dertig dagen na het houden van een luchtvaar
 
 ##### Artikel 30
 
-1. Een deelnemer voert geen vertoningvlucht uit, indien hij niet een mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2004-01-28&g=2004-01-28), heeft ontvangen.
+1. Een deelnemer voert geen vertoningvlucht uit, indien hij niet een mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2005-12-10&g=2005-12-10), heeft ontvangen.
 
-2. Een deelnemer die niet in staat is te voldoen aan het eerste lid, neemt voor de aanvang van de luchtvaartvertoning contact op met de vertoningdirecteur om de mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2004-01-28&g=2004-01-28), te ontvangen.
+2. Een deelnemer die niet in staat is te voldoen aan het eerste lid, neemt voor de aanvang van de luchtvaartvertoning contact op met de vertoningdirecteur om de mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2005-12-10&g=2005-12-10), te ontvangen.
 
 ##### Artikel 31
 
@@ -497,7 +497,7 @@ De deelnemer vliegt niet met het demonstratietoestel boven het publiekgebied, te
 
 - f. in een luchtverkeersdienstverleningsgebied klasse C tot en met G niet wordt gevlogen met een snelheid groter dan 250 knopen, tenzij in de vergunning dan wel bij de aanwijzing van een BVG een grotere snelheid is vastgesteld;
 
-- g. de minimum zichtweersomstandigheden zoals vastgesteld in tabel 4 van de bijlage, behorend bij deze regeling, in acht worden genomen, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2004-01-28&g=2004-01-28).
+- g. de minimum zichtweersomstandigheden zoals vastgesteld in tabel 4 van de bijlage, behorend bij deze regeling, in acht worden genomen, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2005-12-10&g=2005-12-10).
 
 2. Het eerste lid, onderdelen a en b, is niet van toepassing indien:
 
@@ -533,7 +533,7 @@ De luchtvaartterreininformatieverstrekker geeft in het kader van de luchtvaartve
 
 - b. het precieze tijdstip van vertrek van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma, alsmede de situatie in het vertoninggebied onmiddellijk voorafgaand aan de uitvoering van een onderdeel;
 
-- c. krachtens [artikel 19 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2004-01-28&g=2004-01-28), door de vertoningdirecteur aangebrachte wijzigingen in de vertrektijd van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma;
+- c. krachtens [artikel 19 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2005-12-10&g=2005-12-10), door de vertoningdirecteur aangebrachte wijzigingen in de vertrektijd van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma;
 
 - d. eventuele calamiteiten op de grond of in de lucht die voor een veilige uitvoering van een onderdeel van belang kunnen zijn;
 
@@ -543,7 +543,7 @@ De luchtvaartterreininformatieverstrekker geeft in het kader van de luchtvaartve
 
 ##### Artikel 39
 
-Overtreding van de [artikelen 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2004-01-28&g=2004-01-28), [13, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2004-01-28&g=2004-01-28), [16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=16&z=2004-01-28&g=2004-01-28), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=17&z=2004-01-28&g=2004-01-28), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2004-01-28&g=2004-01-28), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2004-01-28&g=2004-01-28), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2004-01-28&g=2004-01-28), [21 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2004-01-28&g=2004-01-28), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=28&z=2004-01-28&g=2004-01-28) en [30 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=30&z=2004-01-28&g=2004-01-28) wordt aangemerkt als een strafbaar feit.
+Overtreding van de [artikelen 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2005-12-10&g=2005-12-10), [13, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2005-12-10&g=2005-12-10), [16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=16&z=2005-12-10&g=2005-12-10), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=17&z=2005-12-10&g=2005-12-10), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2005-12-10&g=2005-12-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2005-12-10&g=2005-12-10), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2005-12-10&g=2005-12-10), [21 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2005-12-10&g=2005-12-10), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=28&z=2005-12-10&g=2005-12-10) en [30 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=30&z=2005-12-10&g=2005-12-10) wordt aangemerkt als een strafbaar feit.
 
 ##### Artikel 40
 
@@ -555,16 +555,16 @@ Deze regeling wordt aangehaald als: Regeling luchtvaartvertoningen.
 
 ## Bijlage
 
-### Tabel 1, behorend bij [artikel 6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2004-01-28&g=2004-01-28)
+### Tabel 1, behorend bij [artikel 6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2005-12-10&g=2005-12-10)
 
-### Tabel 2, behorend bij [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2004-01-28&g=2004-01-28), en [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=6&artikel=37&z=2004-01-28&g=2004-01-28)
+### Tabel 2, behorend bij [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2005-12-10&g=2005-12-10), en [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=6&artikel=37&z=2005-12-10&g=2005-12-10)
 
-### Tabel 3, behorend bij [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2004-01-28&g=2004-01-28)
+### Tabel 3, behorend bij [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2005-12-10&g=2005-12-10)
 
-### Tabel 4, behorend bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2004-01-28&g=2004-01-28), en [artikel 34, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=34&z=2004-01-28&g=2004-01-28)
+### Tabel 4, behorend bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2005-12-10&g=2005-12-10), en [artikel 34, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=34&z=2005-12-10&g=2005-12-10)
 
-### Tabel 5, behorend bij [artikel 22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=22&z=2004-01-28&g=2004-01-28)
+### Tabel 5, behorend bij [artikel 22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=22&z=2005-12-10&g=2005-12-10)
 
-### Tabel 6, behorend bij [artikel 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=23&z=2004-01-28&g=2004-01-28), en [artikel 33, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=33&z=2004-01-28&g=2004-01-28)
+### Tabel 6, behorend bij [artikel 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=23&z=2005-12-10&g=2005-12-10), en [artikel 33, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=33&z=2005-12-10&g=2005-12-10)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
