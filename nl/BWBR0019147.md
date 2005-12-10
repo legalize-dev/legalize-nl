@@ -109,17 +109,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling modelvliegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b
-
-1. Lichte onbemande luchtvaartuigen en modelluchtvaartuigen verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.
-
-2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
