@@ -4,7 +4,7 @@ identifier: "BWBR0010740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-07-01"
-last_updated: "2000-02-11"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010740"
 soort: "ministeriele-regeling"
@@ -116,9 +116,9 @@ Overig cockpitpersoneel aan boord van militaire luchtvaartuigen voldoet aan de v
 
 ##### Artikel 3
 
-1. [Artikel 1, onderdeel a, sub 2°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1&z=2000-02-11&g=2000-02-11), alsmede [artikel 2, onderdeel a, sub 1° tot en met 3°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=2&z=2000-02-11&g=2000-02-11), zijn niet van toepassing ten aanzien van vliegers en boordvliegproefkundigen die zijn belast met het bedienen van luchtvaartuigen tijdens vliegproeven, mits genoemd personeel met goed gevolg een opleiding aan een testvliegschool heeft gevolgd en door de bevoegde militaire autoriteiten als testvlieger danwel boordvliegproefkundige is aangemerkt.
+1. [Artikel 1, onderdeel a, sub 2°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1&z=2005-12-14&g=2005-12-14), alsmede [artikel 2, onderdeel a, sub 1° tot en met 3°, en onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=2&z=2005-12-14&g=2005-12-14), zijn niet van toepassing ten aanzien van vliegers en boordvliegproefkundigen die zijn belast met het bedienen van luchtvaartuigen tijdens vliegproeven, mits genoemd personeel met goed gevolg een opleiding aan een testvliegschool heeft gevolgd en door de bevoegde militaire autoriteiten als testvlieger danwel boordvliegproefkundige is aangemerkt.
 
-2. [Artikel 1a, onderdeel a, sub 1° en onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1a&z=2000-02-11&g=2000-02-11) is niet van toepassing ten aanzien van personen belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voorzover uitsluitend wordt gevlogen in een gebied waarin het burgerluchtverkeer is verboden of beperkt.
+2. [Artikel 1a, onderdeel a, sub 1° en onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=1&artikel=1a&z=2005-12-14&g=2005-12-14) is niet van toepassing ten aanzien van personen belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voorzover uitsluitend wordt gevlogen in een gebied waarin het burgerluchtverkeer is verboden of beperkt.
 
 #### Paragraaf 2. Eisen inzake theoretische en praktische bekwaamheid luchtverkeersdienstverleningspersoneel
 
@@ -150,7 +150,7 @@ Personeel, belast met het geven van naderingsluchtverkeersleiding, voldoet aan d
 
 - a. Theoretische bekwaamheid:
 
-- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2000-02-11&g=2000-02-11);
+- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2005-12-14&g=2005-12-14);
 
 - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het leiden van het luchtverkeer bij de naderingsluchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -166,7 +166,7 @@ Personeel, belast met het geven van algemene luchtverkeersleiding, voldoet aan d
 
 - a. Theoretische bekwaamheid:
 
-- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2000-02-11&g=2000-02-11);
+- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2005-12-14&g=2005-12-14);
 
 - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het leiden van het luchtverkeer bij de algemene luchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -182,7 +182,7 @@ Personeel, belast met het geven van radarnaderingsluchtverkeersleiding, voldoet 
 
 - a. Theoretische bekwaamheid:
 
-- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2000-02-11&g=2000-02-11);
+- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2005-12-14&g=2005-12-14);
 
 - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het geven van radarluchtverkeersleiding bij een naderingsluchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -198,7 +198,7 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 - a. Theoretische bekwaamheid:
 
-- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2000-02-11&g=2000-02-11);
+- 1. de eisen, genoemd in [artikel 4, onderdeel a, sub 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=2&artikel=4&z=2005-12-14&g=2005-12-14);
 
 - 2. grondige kennis van het samenstel van procedures die moeten worden gebruikt bij het geven van radarluchtverkeersleiding bij een algemene luchtverkeersleidingsdienst onder alle weersomstandigheden.
 
@@ -216,7 +216,7 @@ Personeel, belast met het geven van algemene radarluchtverkeersleiding, voldoet 
 
 2. Als eisen inzake de geestelijke en lichamelijke geschiktheid en inzake de keuring van niet tot de krijgsmacht behorende personen die zijn belast met het bedienen van onbemande luchtvaartuigen van de krijgsmacht, gelden de in de bijlage vastgestelde eisen.
 
-3. De in het eerste lid genoemde keuringseisen liggen ter inzage bij de stafgroep juridische zaken van de staf van de Bevelhebber der Luchtstrijdkrachten, respectievelijk bij de afdeling juridische zaken van de Bevelhebber der Zeestrijdkrachten.
+3. De in het eerste lid genoemde keuringseisen liggen ter inzage bij de militaire luchtvaart autoriteit.
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -228,7 +228,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 1999. Indien de Staatsc
 
 Deze regeling wordt aangehaald als: Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht.
 
-## Bijlage. bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=3&artikel=9&z=2000-02-11&g=2000-02-11)
+## Bijlage. bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010740&paragraaf=3&artikel=9&z=2005-12-14&g=2005-12-14)
 
 - 1. Kenmerkend voor de functie en derhalve voor een verantwoorde adequate functieuitoefening zijn:
 
