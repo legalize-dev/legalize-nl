@@ -4,7 +4,7 @@ identifier: "BWBR0001987"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-01"
-last_updated: "2004-05-01"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001987"
 soort: "wet"
@@ -47,9 +47,9 @@ Deze wet verstaat onder:
 
 - a. "Onze Minister": Onze Minister van Sociale Zaken;
 
-- b. "verbindendverklaring": de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) bedoelde algemeen verbindendverklaring;
+- b. "verbindendverklaring": de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) bedoelde algemeen verbindendverklaring;
 
-- c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovereenkomst, welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) algemeen verbindend zijn verklaard.
+- c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovereenkomst, welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) algemeen verbindend zijn verklaard.
 
 ##### Artikel 2
 
@@ -87,13 +87,11 @@ Deze wet verstaat onder:
 
 - g. gelijke behandeling van mannen en vrouwen, alsmede andere bepalingen inzake niet-discriminatie.
 
-7. Het zesde lid is slechts van toepassing voorzover de arbeid betrekking heeft op de activiteiten, die zijn opgenomen in de bijlage bij de [Richtlijn 96/71/EG](31996L0071) van het Europees parlement en van de Raad van de Europese Unie van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEG 1997, L18).
-
 ##### Artikel 2a
 
-1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
+1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
 
-2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) van deze wet, verplicht wordt bepalingen van een collectieve arbeidsovereenkomst na te komen. De rechten en verplichtingen eindigen voorts zodra de werking der verbindendverklaring eindigt.
+2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) van deze wet, verplicht wordt bepalingen van een collectieve arbeidsovereenkomst na te komen. De rechten en verplichtingen eindigen voorts zodra de werking der verbindendverklaring eindigt.
 
 ##### Artikel 3
 
@@ -141,11 +139,11 @@ Deze wet verstaat onder:
 
 3. Intrekking van de verbindendverklaring heeft geen terugwerkende kracht.
 
-4. Van de intrekking wordt aanteekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2004-05-01&g=2004-05-01).
+4. Van de intrekking wordt aanteekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2005-12-14&g=2005-12-14).
 
 ##### Artikel 7
 
-Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2004-05-01&g=2004-05-01) vindt overeenkomstige toepassing, indien de verbindendverklaring betreft wijzigingen in de bepalingen van collectieve arbeidsovereenkomsten, die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01) algemeen verbindend zijn verklaard.
+Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2005-12-14&g=2005-12-14) vindt overeenkomstige toepassing, indien de verbindendverklaring betreft wijzigingen in de bepalingen van collectieve arbeidsovereenkomsten, die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14) algemeen verbindend zijn verklaard.
 
 ##### Artikel 8
 
@@ -155,7 +153,7 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 3. Onverbindendverklaring heeft geen terugwerkende kracht.
 
-4. Van het besluit, waarbij de onverbindendverklaring wordt uitgesproken, wordt mededeling gedaan door plaatsing in de **Staatscourant**. Van de onverbindendverklaring wordt aantekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2004-05-01&g=2004-05-01).
+4. Van het besluit, waarbij de onverbindendverklaring wordt uitgesproken, wordt mededeling gedaan door plaatsing in de **Staatscourant**. Van de onverbindendverklaring wordt aantekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2005-12-14&g=2005-12-14).
 
 ##### Artikel 9
 
@@ -165,15 +163,15 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 ##### Artikel 10
 
-Indien een of meer verenigingen van werkgevers of van werknemers, op wier verzoek een verbindendverklaring is uitgesproken, het vermoeden gegrond achten, dat in een onderneming een of meer der verbindend verklaarde bepalingen niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=3&z=2004-05-01&g=2004-05-01), Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister licht de vereniging of de verenigingen, die om het onderzoek hebben gevraagd, in over hetgeen bij het onderzoek gebleken is.
+Indien een of meer verenigingen van werkgevers of van werknemers, op wier verzoek een verbindendverklaring is uitgesproken, het vermoeden gegrond achten, dat in een onderneming een of meer der verbindend verklaarde bepalingen niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=3&z=2005-12-14&g=2005-12-14), Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister licht de vereniging of de verenigingen, die om het onderzoek hebben gevraagd, in over hetgeen bij het onderzoek gebleken is.
 
 ##### Artikel 10a
 
-Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2004-05-01&g=2004-05-01), en [6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2004-05-01&g=2004-05-01), in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=17) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
+Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2005-12-14&g=2005-12-14), en [6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2005-12-14&g=2005-12-14), in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=17) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
 
 ##### Artikel 10b
 
-Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2004-05-01&g=2004-05-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2004-05-01&g=2004-05-01).
+Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2005-12-14&g=2005-12-14), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2005-12-14&g=2005-12-14).
 
 ##### Artikel 11
 
