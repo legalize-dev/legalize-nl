@@ -4,7 +4,7 @@ identifier: "BWBR0003707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-01"
-last_updated: "1984-08-31"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003707"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binn
 
 ##### Artikel 2
 
-Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elders dan binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=1984-08-31&g=1984-08-31) bedoelde verkeersleidingsgebieden, moeten de volgende voorschriften worden nagekomen:
+Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elders dan binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2005-12-14&g=2005-12-14) bedoelde verkeersleidingsgebieden, moeten de volgende voorschriften worden nagekomen:
 
 - a. Vluchten boven land, beneden een hoogte van 1000 meter (3000 voet) boven het aardoppervlak, moeten worden uitgevoerd met een lagere snelheid dan 350 knopen. Indien de vliegeigenschappen van het type luchtvaartuig, of de aard van de vluchtopdracht tot het vliegen met een hogere snelheid nopen, mag worden gevlogen met een zoveel hogere snelheid als deswege noodzakelijk is, doch niet met een hogere snelheid dan 450 knopen.
 
-- b. Tijdens incidentele vliegoefeningen, waarbij een hogere snelheid dan 450 knopen is vereist, mag krachtens een bijzondere opdracht, verstrekt namens de bevelhebber der Zeestrijdkrachten respectievelijk bevelhebber der Luchtstrijdkrachten, gedurende een in die opdracht aangegeven gedeelte van de vlucht worden gevlogen met een eveneens in de opdracht vermelde hogere snelheid, welke ten hoogste 0.86 maal de plaatselijke voortplantingssnelheid van het geluid mag bedragen.
+- b. Tijdens incidentele vliegoefeningen, waarbij een hogere snelheid dan 450 knopen is vereist, mag krachtens een bijzondere opdracht, verstrekt namens de militaire luchtvaart autoriteit, gedurende een in die opdracht aangegeven gedeelte van de vlucht worden gevlogen met een eveneens in de opdracht vermelde hogere snelheid, welke ten hoogste 0.86 maal de plaatselijke voortplantingssnelheid van het geluid mag bedragen.
 
 - c. Tijdens vluchten boven land, beneden een hoogte van 1000 meter (3000 voet) boven het aardoppervlak, moet de route zodanig worden gekozen dat het optreden van vermijdbare geluidhinder met name boven bebouwde kommen en bijzondere bebouwing zoals ziekenhuizen en sanatoria wordt voorkomen.
 
@@ -108,7 +108,7 @@ Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare gelu
 
 ##### Artikel 5
 
-Onverminderd de bepalingen van het LVR-1980, mag door of namens de bevelhebber der Zeestrijdkrachten respectievelijk bevelhebber der Luchtstrijdkrachten, ieder voor zoveel hem aangaat, van het bepaalde in de vorige artikelen worden afgeweken in bijzondere gevallen.
+Onverminderd het Luchtverkeersreglement, mag door of namens de militaire luchtvaart autoriteit van de vorige artikelen worden afgeweken in bijzondere gevallen.
 
 ##### Artikel 6
 
