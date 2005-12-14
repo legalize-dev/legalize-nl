@@ -4,7 +4,7 @@ identifier: "BWBR0012878"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2004-06-09"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012878"
 soort: "ministeriele-regeling"
@@ -64,11 +64,11 @@ De houder van het luchtvaartuig is verplicht de minister zo spoedig mogelijk in 
 
 - d. het bewijs van inschrijving verloren is gegaan;
 
-- e. de overeenkomst, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=8&z=2004-06-09&g=2004-06-09) is beëindigd;
+- e. de overeenkomst, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=8&z=2005-12-14&g=2005-12-14) is beëindigd;
 
 - f. de houder, de eigenaar of de vertegenwoordiger bedoeld in [artikel 2, vierde lid van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=2) niet meer voldoet aan de eisen voor het verkrijgen van een inschrijving, of
 
-- g. de gegevens, bedoeld in [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=8&z=2004-06-09&g=2004-06-09), zijn gewijzigd.
+- g. de gegevens, bedoeld in [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=8&z=2005-12-14&g=2005-12-14), zijn gewijzigd.
 
 #### § 2. In te dienen gegevens met betrekking tot het luchtvaartuig
 
@@ -102,7 +102,7 @@ Door een rechtspersoon worden de volgende gegevens ingediend:
 
 ##### Artikel 7
 
-Een aanvrager, bedoeld in [artikel 2, vierde lid van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=2), dient naast de gegevens volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2004-06-09&g=2004-06-09) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2004-06-09&g=2004-06-09), de volgende gegevens in:
+Een aanvrager, bedoeld in [artikel 2, vierde lid van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=2), dient naast de gegevens volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2005-12-14&g=2005-12-14) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2005-12-14&g=2005-12-14), de volgende gegevens in:
 
 - a. een schriftelijke verklaring, dat het beheer van het luchtvaartuig zal worden uitgevoerd vanuit Nederland door een vertegenwoordiger van de aanvrager. Een formulier voor deze verklaring is kosteloos te verkrijgen bij de minister;
 
@@ -112,7 +112,7 @@ Een aanvrager, bedoeld in [artikel 2, vierde lid van het Besluit luchtwaardighei
 
 ##### Artikel 8
 
-Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2004-06-09&g=2004-06-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2004-06-09&g=2004-06-09) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=7&z=2004-06-09&g=2004-06-09) dient een aanvrager, niet tevens zijnde de eigenaar de volgende gegevens in:
+Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2005-12-14&g=2005-12-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=6&z=2005-12-14&g=2005-12-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=7&z=2005-12-14&g=2005-12-14) dient een aanvrager, niet tevens zijnde de eigenaar de volgende gegevens in:
 
 - 1. een afschrift van de overeenkomst tussen de eigenaar en de aanvrager.
 
@@ -122,9 +122,9 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 9
 
-1. Bij de aanvraag tot wijziging van de in het register opgenomen gegevens van het luchtvaartuig worden de gewijzigde gegevens als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=2&artikel=4&z=2004-06-09&g=2004-06-09) overgelegd, waaruit de aard van de gevraagde wijziging blijkt.
+1. Bij de aanvraag tot wijziging van de in het register opgenomen gegevens van het luchtvaartuig worden de gewijzigde gegevens als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=2&artikel=4&z=2005-12-14&g=2005-12-14) overgelegd, waaruit de aard van de gevraagde wijziging blijkt.
 
-2. Bij de aanvraag tot wijziging van de tenaamstelling van de inschrijving van het luchtvaartuig wordt naast de gegevens vermeld in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2004-06-09&g=2004-06-09), een door de vorige eigenaar of eigenaren ondertekende verklaring, dat het luchtvaartuig is overgedragen aan de aanvrager ingediend, onder opgave van de datum van overdracht, naam, adres, woonplaats dan wel zetel en land van vestiging van de aanvrager.
+2. Bij de aanvraag tot wijziging van de tenaamstelling van de inschrijving van het luchtvaartuig wordt naast de gegevens vermeld in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2005-12-14&g=2005-12-14), een door de vorige eigenaar of eigenaren ondertekende verklaring, dat het luchtvaartuig is overgedragen aan de aanvrager ingediend, onder opgave van de datum van overdracht, naam, adres, woonplaats dan wel zetel en land van vestiging van de aanvrager.
 
 #### § 5. Vernieuwing van het bewijs van inschrijving
 
@@ -150,7 +150,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 - a. bij natuurlijke personen: alle eigenaren van het luchtvaartuig;
 
-- b. bij rechtspersonen: alle eigenaren die de rechtspersoon in en buiten rechte vertegenwoordigen zoals bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2004-06-09&g=2004-06-09).
+- b. bij rechtspersonen: alle eigenaren die de rechtspersoon in en buiten rechte vertegenwoordigen zoals bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2005-12-14&g=2005-12-14).
 
 4. De minister stelt de houder van het luchtvaartuig schriftelijk op de hoogte van de doorhaling van de inschrijving, tenzij er bijzondere redenen zijn om de houder van het luchtvaartuig niet op de hoogte te stellen van de doorhaling van de inschrijving.
 
@@ -162,7 +162,7 @@ Onverminderd het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 12
 
-Het model van het bewijs van inschrijving is overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=1&z=2004-06-09&g=2004-06-09).
+Het model van het bewijs van inschrijving is overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=1&z=2005-12-14&g=2005-12-14).
 
 #### § 8. In het register op te nemen gegevens
 
@@ -182,9 +182,9 @@ In het register wordt aantekening gehouden van:
 
 - f. Indien de houder van het luchtvaartuig niet tegelijkertijd de eigenaar is wordt eveneens aantekening gehouden van de gegevens van de eigenaar bedoeld onder a en b;
 
-- g. Indien de houder van het luchtvaartuig niet tegelijkertijd de eigenaar is wordt eveneens aantekening gehouden van de gegevens bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=8&z=2004-06-09&g=2004-06-09) en de termijn voor welke de overeenkomst tussen de houder en eigenaar is aangegaan;
+- g. Indien de houder van het luchtvaartuig niet tegelijkertijd de eigenaar is wordt eveneens aantekening gehouden van de gegevens bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=8&z=2005-12-14&g=2005-12-14) en de termijn voor welke de overeenkomst tussen de houder en eigenaar is aangegaan;
 
-- h. Indien de houder van het luchtvaartuig geen woonplaats dan wel statutaire zetel, hoofdbestuur of hoofdvestiging in Nederland heeft, wordt eveneens aantekening gehouden van de gegevens van de vertegenwoordiger van de houder, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2004-06-09&g=2004-06-09);
+- h. Indien de houder van het luchtvaartuig geen woonplaats dan wel statutaire zetel, hoofdbestuur of hoofdvestiging in Nederland heeft, wordt eveneens aantekening gehouden van de gegevens van de vertegenwoordiger van de houder, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=3&artikel=5&z=2005-12-14&g=2005-12-14);
 
 - i. Indien het luchtvaartuig is teboekgesteld, als bedoeld in de [titel 15 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&titeldeel=15) wordt eveneens aantekening gehouden van het nummer van de teboekstelling als genoemd in de `Maatregel te boek gestelde luchtvaartuigen 1996'.
 
@@ -258,13 +258,13 @@ In het register wordt aantekening gehouden van:
 
 ##### Artikel 17
 
-1. De letters zijn Romeins, zonder ornamenten en bij voorkeur volgens het model zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2004-06-09&g=2004-06-09) van deze regeling.
+1. De letters zijn Romeins, zonder ornamenten en bij voorkeur volgens het model zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2005-12-14&g=2005-12-14) van deze regeling.
 
-2. De cijfers zijn Arabisch, zonder ornamenten en bij voorkeur volgens het model zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2004-06-09&g=2004-06-09) van deze regeling.
+2. De cijfers zijn Arabisch, zonder ornamenten en bij voorkeur volgens het model zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2005-12-14&g=2005-12-14) van deze regeling.
 
-3. De breedte van het koppelteken en van ieder cijfer of iedere letter, uitgezonderd de letter L en het cijfer 1, is tweederde van de hoogte, behalve indien het model overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2004-06-09&g=2004-06-09) wordt gebruikt.
+3. De breedte van het koppelteken en van ieder cijfer of iedere letter, uitgezonderd de letter L en het cijfer 1, is tweederde van de hoogte, behalve indien het model overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2005-12-14&g=2005-12-14) wordt gebruikt.
 
-4. De dikte van de lijnen, die strak moeten zijn, bedraagt eenzesde van de hoogte van de cijfers of letters, behalve indien het model overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2004-06-09&g=2004-06-09) wordt gebruikt.
+4. De dikte van de lijnen, die strak moeten zijn, bedraagt eenzesde van de hoogte van de cijfers of letters, behalve indien het model overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&bijlage=2&z=2005-12-14&g=2005-12-14) wordt gebruikt.
 
 5. De afstand tussen de cijfers, letters en het koppelteken bedraagt ten minste een kwart van de breedte van de cijfers en letters.
 
@@ -276,9 +276,9 @@ In het register wordt aantekening gehouden van:
 
 1. In bijzondere gevallen kan de minister toestemming verlenen voor het voeren van andere kenmerken. Aan de toestemming kunnen voorschriften of beperkingen worden verbonden. Het is verboden in strijd met die voorschriften of beperkingen te handelen.
 
-2. Indien sprake is van een luchtvaartuig van historische waarde kunnen de nationaliteits- en inschrijvingskenmerken worden gevoerd op ten minste beide zijden van het luchtvaartuig met een hoogte van ten minste 5 centimeter, mits een uit historisch oogmerk ander kenmerk, dat is geaccepteerd door de minister, wordt gevoerd op de plaatsen en met de grootte, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=9&artikel=15&z=2004-06-09&g=2004-06-09) tot en met [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=9&artikel=17&z=2004-06-09&g=2004-06-09).
+2. Indien sprake is van een luchtvaartuig van historische waarde kunnen de nationaliteits- en inschrijvingskenmerken worden gevoerd op ten minste beide zijden van het luchtvaartuig met een hoogte van ten minste 5 centimeter, mits een uit historisch oogmerk ander kenmerk, dat is geaccepteerd door de minister, wordt gevoerd op de plaatsen en met de grootte, bedoeld in de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012878&paragraaf=9&artikel=15&z=2005-12-14&g=2005-12-14).
 
-3. Het aanbrengen van militaire kenmerken dan wel voormalige militaire kenmerken op luchtvaartuigen als bedoeld in het eerste lid is slechts toegestaan na het overleggen aan de minister van een schriftelijke instemming van het hoofd van de Stafgroep Juridische Zaken van de Bevelhebber der Luchtstrijdkrachten of van het hoofd van de afdeling Juridische Zaken van de marinestaf en, indien van toepassing, de betreffende buitenlandse militaire autoriteiten.
+3. Het aanbrengen van militaire kenmerken dan wel voormalige militaire kenmerken op luchtvaartuigen als bedoeld in het eerste lid is slechts toegestaan na het overleggen aan de minister van een schriftelijke instemming van de militaire luchtvaart autoriteit van het Ministerie van Defensie en, indien van toepassing, de betreffende buitenlandse militaire autoriteiten.
 
 4. De houder van een luchtvaartuig waarop een kenmerk is aangebracht als bedoeld in het eerste lid stelt de minister zo spoedig mogelijk op de hoogte indien deze kenmerken zijn verwijderd.
 
