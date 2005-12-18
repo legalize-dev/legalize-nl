@@ -4260,9 +4260,3 @@ Opmerking: Op verzoek van de vakminister, maar tenminste eens in de vier jaar
 Waardering: B (2)
 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
-
-### E. Overige actoren
-
-Bron: Regeringsverklaring van 28 mei 1973 (Handelingen II, 1972–1973, 15 061)
-
-De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.
