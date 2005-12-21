@@ -4,7 +4,7 @@ identifier: "BWBR0010334"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-13"
-last_updated: "2005-07-29"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010334"
 soort: "AMvB"
@@ -52,7 +52,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. vergoeding: vergoeding, bedoeld in [artikel 16.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1).
+- b. vergoeding: vergoeding, bedoeld in [artikel 16.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1);
+
+- c. aanbieder: onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt;
+
+- d. omzet: omzet die een aanbieder realiseert uit het in Nederland leveren van openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten en die wordt berekend overeenkomstig [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5b&z=2005-12-21&g=2005-12-21).
 
 ##### Artikel 2
 
@@ -74,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29), gelden als uitgangspunten dat:
+1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21), gelden als uitgangspunten dat:
 
 - a. deze kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;
 
@@ -90,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-07-29&g=2005-07-29), zijn, voorzover het betreft werkzaamheden of diensten van Onze Minister, werkzaamheden of diensten met betrekking tot:
+1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-12-21&g=2005-12-21), zijn, voorzover het betreft werkzaamheden of diensten van Onze Minister, werkzaamheden of diensten met betrekking tot:
 
 - a. het gebruik van frequentieruimte, bedoeld in [§ 3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&paragraaf=3.2), voor:
 
@@ -112,41 +116,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de aanwijzing van instellingen als bedoeld in [artikel 18.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17).
 
-2. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-07-29&g=2005-07-29), zijn, voorzover het betreft werkzaamheden of diensten van het college, werkzaamheden of diensten met betrekking tot:
+2. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-12-21&g=2005-12-21), zijn, voor zover het betreft werkzaamheden of diensten van het college, werkzaamheden of diensten met betrekking tot:
 
-- a. openbare elektronische communicatienetwerken;
+- a. nummers;
 
-- b. openbare elektronische communicatiediensten;
+- b. diensten van certificatiedienstverleners;
 
-- c. systemen voor voorwaardelijke toegang;
+- c. openbare elektronische communicatiediensten en openbare elektronische communicatienetwerken en bijbehorende faciliteiten.
 
-- d. toegang tot het programma-aanbod;
-
-- e. vergunningen als bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), en [20.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2);
-
-- f. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.7);
-
-- g. nummers;
-
-- h. diensten van certificatiedienstverleners.
-
-3. Bij de toerekening van de kosten, bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-07-29&g=2005-07-29), aan de categorieën, bedoeld in het tweede lid, onder a tot en met c, worden de kosten van werkzaamheden of diensten die ten behoeve van aanbieders met een aanmerkelijke macht op de markt worden verricht, afzonderlijk gecategoriseerd.
-
-4. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste en tweede lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
+3. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste en tweede lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
 
 ##### Artikel 5
 
 1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of per subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld:
 
-- a. op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-07-29&g=2005-07-29); en
+- a. op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-12-21&g=2005-12-21); en
 
-- b. naar rato van de per categorie of per subcategorie bij ministeriële regeling vast te stellen verdeelsleutel.
+- b. naar rato van de verdeelsleutel die is bepaald in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5a&z=2005-12-21&g=2005-12-21), onderscheidenlijk naar rato van de verdeelsleutel die per categorie of per subcategorie wordt vastgesteld bij ministeriële regeling.
 
-2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29), afzonderlijk vastgesteld.
+2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21), afzonderlijk vastgesteld.
 
 ##### Artikel 6
 
-Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-07-29&g=2005-07-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-07-29&g=2005-07-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2005-07-29&g=2005-07-29), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29).
+Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2005-12-21&g=2005-12-21), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-12-21&g=2005-12-21) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2005-12-21&g=2005-12-21), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21).
 
 ##### Artikel 7
 
@@ -168,7 +160,7 @@ De vergoeding wordt ingevorderd overeenkomstig de regels van het [Wetboek van Bu
 
 3. Het college wijst de aanvrager, bedoeld in het eerste lid, op het verschuldigd zijn van het bedrag en deelt hem mee dat het verschuldigde bedrag binnen vier weken na de dagtekening van zijn mededeling moet zijn betaald. Indien het bedrag niet binnen deze termijn is betaald, wordt de aanvraag niet in behandeling genomen, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is geweest.
 
-4. De [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-07-29&g=2005-07-29) zijn niet van toepassing op de in dit artikel bedoelde vergoeding.
+4. De [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2005-12-21&g=2005-12-21) zijn niet van toepassing op de in dit artikel bedoelde vergoeding.
 
 ##### Artikel 11
 
@@ -204,7 +196,7 @@ Wijzigt het Frequentiebesluit.
 
 ##### Artikel 15
 
-Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-07-29&g=2005-07-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2005-07-29&g=2005-07-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2005-07-29&g=2005-07-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2005-07-29&g=2005-07-29) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2005-12-21&g=2005-12-21), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2005-12-21&g=2005-12-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2005-12-21&g=2005-12-21) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2005-12-21&g=2005-12-21) van dit besluit.
 
 ##### Artikel 16
 
@@ -221,5 +213,41 @@ Dit besluit treedt in werking met ingang van 1 april 1999.
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Telecommunicatiewet.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+1. Bij de vaststelling van de hoogte van de vergoeding ter zake van het toezicht door het college ten aanzien van openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten worden de volgende verdeelsleutels gebruikt:
+
+- a. voor de vergoeding die verschuldigd is door aanbieders wier omzet meer bedraagt dan een bij ministeriële regeling te bepalen grensbedrag: de formule
+
+- b. voor de vergoeding die verschuldigd is door aanbieders wier omzet ten hoogste het in onderdeel a bedoelde grensbedrag bedraagt: de formule waarbij A voorstelt: de omzet van de aanbieder wiens omzet meer bedraagt dan het grensbedrag; B voorstelt: het totaal van de omzetten A; C voorstelt: het bedrag dat wordt berekend door vermenigvuldiging van het aantal aanbieders waarvan de omzet ten hoogste het grensbedrag en ten minste een bij ministeriële regeling te bepalen minimum bedraagt, met de helft van de som van dit minimum en het grensbedrag; n voorstelt: het aantal aanbieders waarvan de omzet ten hoogste het grensbedrag en ten minste een bij ministeriële regeling te bepalen minimum bedraagt.
+
+2. De hoogte van de vergoeding wordt op nihil gesteld indien de aanbieder aan het college een onderbouwde opgave over zijn omzet heeft gedaan op grond waarvan naar het oordeel van het college aannemelijk is dat de omzet minder bedraagt dan het in het eerste lid bedoelde minimum.
+
+##### Artikel 5b
+
+1. De berekening van de omzet geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
+
+2. Indien een aanbieder behoort tot een groep van ondernemingen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) worden voor de berekening van de omzet van die aanbieder de omzetten van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.
+
+3. Indien een aanbieder door het college is geregistreerd op grond van [artikel 2.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.1) in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere aanbieders waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van die aanbieder of aanbieders overeenkomstig bij ministeriële regeling te stellen regels.
+
+4. Voor gevallen waarin berekening van de omzet niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader vermelde opbrengsten geheel of gedeeltelijk buiten beschouwing kunnen blijven.
+
+##### Artikel 5c
+
+1. Bij de toepassing van de verdeelsleutels, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5a&z=2005-12-21&g=2005-12-21), wordt uitgegaan van de omzet die is gerealiseerd in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarvoor de vergoeding wordt vastgesteld.
+
+2. Een aanbieder als bedoeld in [artikel 5a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5a&z=2005-12-21&g=2005-12-21), verstrekt jaarlijks vóór 1 september het college een opgave van de omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat de opgave voldoet aan het eerste lid en aan de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5a&z=2005-12-21&g=2005-12-21) en [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5b&z=2005-12-21&g=2005-12-21).
+
+3. De aanbieder kan voor de in het tweede lid bedoelde opgave volstaan met een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+
+4. Op verzoek van het college verstrekt een aanbieder als bedoeld in [artikel 5a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5a&z=2005-12-21&g=2005-12-21), een opgave van de omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring als bedoeld in het tweede lid. Het derde lid is van overeenkomstige toepassing.
+
+5. Indien de aanbieder aan de in het tweede of vierde lid bedoelde verplichting niet tijdig heeft voldaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door het college in de gelegenheid te zijn gesteld, kan het college een schatting doen van zijn omzet en op basis daarvan de vergoeding voor de aanbieder vaststellen.
+
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de omzet door de aanbieder en over de verklaring van de accountant.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
