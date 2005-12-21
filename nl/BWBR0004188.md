@@ -4,7 +4,7 @@ identifier: "BWBR0004188"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-10-01"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004188"
 soort: "wet"
@@ -48,33 +48,23 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bep
 
 - a. bevoegd gezag: het orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende school of cursus wordt bekostigd;
 
-- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2005-10-01&g=2005-10-01);
+- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2005-12-21&g=2005-12-21);
 
 - c. cursusjaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
 - d. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het landbouwonderwijs, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- e. dagschool:
-
-- 1°. een dagschool in de zin van [de Wet op het voortgezet onderwijs](onbekend);
-
-- 1°a. een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), voor zover ten aanzien van de opleiding wordt voldaan aan [paragraaf 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&paragraaf=2.2) dan wel in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&paragraaf=2.2) en [2.3 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&paragraaf=2.3),
-
-- 2°. een inrichting voor voortgezet onderwijs als bedoeld in [artikel 61 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=61), voor zover daaraan volledig onderwijs wordt gegeven;
-
-- 3°. een school in de zin van de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
-
-- 4°. een op grond van de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) (**Stb.** 1970, 370) uit de openbare kas bekostigde dagschool, voor zover daaraan voortgezet onderwijs, speciaal onderwijs dan wel voortgezet speciaal onderwijs wordt gegeven;
+- e. dagschool: een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover ten aanzien van de opleiding wordt voldaan aan [paragraaf 2.2 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&paragraaf=2.2);
 
 - f. cursus:
 
-- 1°. een cursus in de zin van [de Wet op het voortgezet onderwijs](onbekend);
+- 1°. een cursus in de zin van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
 - 2°. een inrichting voor voortgezet onderwijs als bedoeld in [artikel 61 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=61), voor zover daaraan geen volledig onderwijs wordt gegeven;
 
 - 3°. een op grond van de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) uit de openbare kas bekostigde cursus, voor zover daaraan voortgezet onderwijs wordt gegeven;
 
-- 4°. een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), voor zover daaraan ten laste van ’s Rijks kas andere beroepsopleidingen of opleidingen voortgezet algemeen volwassenenonderwijs worden verzorgd dan bedoeld onder **e**.1°**a**.
+- 4°. Een beroepsopleiding of opleiding voortgezet algemeen volwassenenonderwijs anders dan bedoeld onder e, die aan een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) ten laste van ’s Rijks kas wordt verzorgd.
 
 - g. onderwijsnummer: het door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een sociaal-fiscaalnummer is verstrekt;
 
@@ -88,25 +78,23 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bep
 
 ##### Artikel 2. Heffing les- en cursusgeld
 
-Ter zake van het volgen van het uit de openbare kas bekostigde voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs, voortgezet algemeen volwassenenonderwijs dan wel beroepsonderwijs aan scholen en cursussen wordt lesgeld of cursusgeld geheven met inachtneming van de bepalingen van deze wet. Ter zake van het volgen van onderwijs in het kader van contractactiviteiten wordt geen lesgeld of cursusgeld volgens de bepalingen van deze wet geheven.
+Ter zake van het volgen van het uit de openbare kas bekostigde voortgezet algemeen volwassenenonderwijs dan wel beroepsonderwijs aan scholen en cursussen wordt lesgeld of cursusgeld geheven met inachtneming van de bepalingen van deze wet. Ter zake van het volgen van onderwijs in het kader van contractactiviteiten wordt geen lesgeld of cursusgeld volgens de bepalingen van deze wet geheven.
 
 ### Hoofdstuk II. Lesgeld
 
 ##### Artikel 3. Lesgeldplicht
 
-1. Lesgeld is verschuldigd ter zake van het door een leerling die vóór de aanvang van het desbetreffende cursusjaar de leeftijd van 16 jaren heeft bereikt, volgen van uit de openbare kas bekostigd onderwijs - daaronder begrepen de van het onderwijs deel uitmakende praktijktijd - aan een dagschool. Geen lesgeld is verschuldigd voor een leerling die uit de openbare kas bekostigd speciaal onderwijs of voortgezet speciaal onderwijs volgt en vóór de aanvang van het desbetreffende cursusjaar de leeftijd van 19 jaren heeft bereikt.
+1. Lesgeld is verschuldigd ter zake van het door een leerling die op de eerste dag van het desbetreffende cursusjaar de leeftijd van 18 jaren heeft bereikt, volgen van uit de openbare kas bekostigd onderwijs - daaronder begrepen de van het onderwijs deel uitmakende praktijktijd - aan een dagschool.
 
-2. Het lesgeld is verschuldigd door de leerling dan wel, indien deze de leeftijd van 18 jaren nog niet heeft bereikt en minderjarig is, door zijn wettelijke vertegenwoordiger.
-
-3. Het lesgeld is verschuldigd per cursusjaar en wordt voldaan aan de Informatie Beheer Groep.
+2. Het lesgeld is door de leerling verschuldigd per cursusjaar en wordt voldaan aan de Informatie Beheer Groep.
 
 ##### Artikel 3a. Bijzondere bepaling dove leerlingen
 
-Indien een leerling is ingeschreven op een school genoemd in [artikel 25, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25), en deze leerling tevens is ingeschreven op een school voor voortgezet onderwijs, is geen lesgeld verschuldigd met betrekking tot het onderwijs aan de laatstbedoelde school.
+Vervallen
 
 ##### Artikel 4. Inschrijvingsplicht
 
-1. Een leerling die vóór de aanvang van een cursusjaar de leeftijd van 16 jaren heeft bereikt, dient zich om in dat cursusjaar onderwijs te kunnen volgen, te laten inschrijven.
+1. Een leerling die op de eerste dag van een cursusjaar de leeftijd van 18 jaren heeft bereikt, dient zich om in dat cursusjaar onderwijs te kunnen volgen, te laten inschrijven.
 
 2. De inschrijving geschiedt door of namens het bevoegd gezag. Aan de desbetreffende leerling wordt een bewijs van inschrijving verstrekt.
 
@@ -126,9 +114,9 @@ Indien een leerling is ingeschreven op een school genoemd in [artikel 25, tweede
 
 ##### Artikel 5a. Gebruik sociaal-fiscaalnummer of onderwijsnummer
 
-De Informatie Beheer Groep gebruikt het sociaal-fiscaalnummer of onderwijsnummer van de leerling of zijn wettelijk vertegenwoordiger ter zake van de uitvoering van deze wet als registratienummer slechts:
+De Informatie Beheer Groep gebruikt het sociaal-fiscaalnummer of onderwijsnummer van de leerling ter zake van de uitvoering van deze wet als registratienummer slechts:
 
-- a. in het verkeer met de leerling op wie het nummer betrekking heeft of zijn wettelijk vertegenwoordiger;
+- a. in het verkeer met de leerling op wie het nummer betrekking heeft;
 
 - b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het sociaal-fiscaalnummer of onderwijsnummer in een persoonsregistratie;
 
@@ -164,7 +152,7 @@ Indien het bevoegd gezag van een bijzondere of een gemeentelijke school of cursu
 
 ##### Artikel 9. Schadevergoeding
 
-1. Degene die voor de aanvang van het cursusjaar de leeftijd van 16 jaren heeft bereikt en uit de openbare kas bekostigd onderwijs volgt aan een dagschool, maar niet is ingeschreven, is deswege aan de Informatie Beheer Groep een schadevergoeding verschuldigd gelijk aan het voor het desbetreffende cursusjaar verschuldigde bedrag aan lesgeld.
+1. Degene die op de eerste dag van het cursusjaar de leeftijd van 18 jaren heeft bereikt en uit de openbare kas bekostigd onderwijs volgt aan een dagschool, maar niet is ingeschreven, is deswege aan de Informatie Beheer Groep een schadevergoeding verschuldigd gelijk aan het voor het desbetreffende cursusjaar verschuldigde bedrag aan lesgeld.
 
 2. Degene die uit de openbare kas bekostigd onderwijs volgt aan een cursus, maar niet is ingeschreven, is deswege aan de Informatie Beheer Groep een schadevergoeding verschuldigd gelijk aan het voor het desbetreffende cursusjaar ten hoogste verschuldigde bedrag voor het volgen van het onderwijs aan de desbetreffende cursus.
 
@@ -184,7 +172,7 @@ De Informatie Beheer Groep kan voor bepaalde gevallen de wet buiten toepassing l
 
 ##### Artikel 10. Vaststelling lesgeld cursusjaar 1987-1988
 
-Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2005-10-01&g=2005-10-01), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
+Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2005-12-21&g=2005-12-21), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
 
 ##### Artikel 11. Intrekking Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs
 
@@ -192,7 +180,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing voor zover het betreft lesgeld verschuldigd dan wel voldaan met betrekking tot het cursusjaar 1986-1987.
 
-3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2005-10-01&g=2005-10-01), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2005-10-01&g=2005-10-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2005-10-01&g=2005-10-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2005-12-21&g=2005-12-21), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2005-12-21&g=2005-12-21), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2005-12-21&g=2005-12-21), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 12. Intrekking School- en cursusgeldwet 1972
 
@@ -200,7 +188,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing met betrekking tot de heffing en invordering van school- en cursusgelden over schoolgeldjaren onderscheidenlijk cursusjaren voorafgaand aan het cursusjaar waarop deze wet voor het eerst van toepassing is.
 
-3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2005-10-01&g=2005-10-01), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2005-10-01&g=2005-10-01), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2005-12-21&g=2005-12-21), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2005-12-21&g=2005-12-21), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 13
 
@@ -238,9 +226,9 @@ Vervallen
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.
 
-2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2005-10-01&g=2005-10-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2005-10-01&g=2005-10-01) vervallen met ingang van 1 augustus 1988.
+2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2005-12-21&g=2005-12-21) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2005-12-21&g=2005-12-21) vervallen met ingang van 1 augustus 1988.
 
-3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2005-10-01&g=2005-10-01) vervalt met ingang van 1 januari 1990.
+3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2005-12-21&g=2005-12-21) vervalt met ingang van 1 januari 1990.
 
 ##### Artikel 22. Citeertitel
 
