@@ -4,7 +4,7 @@ identifier: "BWBR0013267"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-07-13"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013267"
 soort: "AMvB"
@@ -172,17 +172,17 @@ De overdracht van een aanvraag aan het UWV van een uitkering op grond van de [WW
 
 ##### Artikel 4.3. Termijn sluiten van een individuele reïntegratieovereenkomst
 
-1. In geval van een toekennende beschikking op een aanvraag als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-07-13&g=2005-07-13), sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een reïntegratiebedrijf, deskundige persoon of arbodienst dat de in artikel [4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-07-13&g=2005-07-13), bedoelde werkzaamheden uitvoert.
+1. In geval van een toekennende beschikking op een aanvraag als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-12-21&g=2005-12-21), sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een reïntegratiebedrijf, deskundige persoon of arbodienst dat de in artikel [4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-12-21&g=2005-12-21), bedoelde werkzaamheden uitvoert.
 
 2. De arbeidsgehandicapte of de werknemer ten behoeve van wie een individuele reïntegratieovereenkomst wordt gesloten tekent een exemplaar van die overeenkomst voor gezien en verstrekt dit aan het UWV.
 
 ##### Artikel 4.4. Weigering van sluiting van een individuele reïntegratieovereenkomst
 
-De aanvraag om een individuele reïntegratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-07-13&g=2005-07-13), door het UWV gestelde voorwaarden.
+De aanvraag om een individuele reïntegratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-12-21&g=2005-12-21), door het UWV gestelde voorwaarden.
 
 ##### Artikel 4.5. Evaluatie
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-07-13&g=2005-07-13) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2005-12-21&g=2005-12-21) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
 
 ##### Artikel 4.6. Hoogte van subsidie en tijdstip van betaling
 
@@ -218,7 +218,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. arbeidsbemiddeling en andere werkzaamheden die, in aansluiting op de onder a en b bedoelde werkzaamheden, zijn gericht op behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid.
 
-3. Kosten van werkzaamheden die niet zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-07-13&g=2005-07-13), bedoelde trajectplan komen niet voor subsidiëring in aanmerking en ter uitvoering van die werkzaamheden wordt geen persoonsgebonden reïntegratie-overeenkomst gesloten, tenzij het UWV voor het verrichten van die werkzaamheden schriftelijk goedkeuring heeft verleend.
+3. Kosten van werkzaamheden die niet zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-12-21&g=2005-12-21), bedoelde trajectplan komen niet voor subsidiëring in aanmerking en ter uitvoering van die werkzaamheden wordt geen persoonsgebonden reïntegratie-overeenkomst gesloten, tenzij het UWV voor het verrichten van die werkzaamheden schriftelijk goedkeuring heeft verleend.
 
 ##### Artikel 4.9. Keuze voor subsidie of contract
 
@@ -240,7 +240,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden reïnte
 
 - 4°. de beroepsactiviteiten die de aanvrager naar verwachting na afloop van die periode kan vervullen;
 
-- 5°. een begroting van de kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-07-13&g=2005-07-13) bedoelde werkzaamheden.
+- 5°. een begroting van de kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-12-21&g=2005-12-21) bedoelde werkzaamheden.
 
 ##### Artikel 4.11. Verhaal van kosten op de werkgever
 
@@ -284,7 +284,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden reïnte
 
 1. De subsidie bedraagt ten hoogste een bij ministeriële regeling vastgesteld bedrag.
 
-2. De subsidie wordt verleend voor werkzaamheden als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-07-13&g=2005-07-13) gedurende een tijdvak van ten hoogste een jaar.
+2. De subsidie wordt verleend voor werkzaamheden als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-12-21&g=2005-12-21) gedurende een tijdvak van ten hoogste een jaar.
 
 3. Indien de aanvrager van een subsidie of de subsidie-ontvanger aantoont dat de noodzakelijke kosten van de werkzaamheden die zijn gericht op behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan subsidie worden verleend voor een hoger bedrag of een langere periode.
 
@@ -298,7 +298,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden reïnte
 
 ##### Artikel 4.15. Inlichtingenverstrekking
 
-1. De subsidie-ontvanger dient iedere drie maanden bij het UWV een rapportage in waarin een beschrijving is opgenomen van de ten behoeve van de subsidie-ontvanger verrichte werkzaamheden, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-07-13&g=2005-07-13). In de rapportage worden in ieder geval de resultaten van de uitvoering van het trajectplan en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten.
+1. De subsidie-ontvanger dient iedere drie maanden bij het UWV een rapportage in waarin een beschrijving is opgenomen van de ten behoeve van de subsidie-ontvanger verrichte werkzaamheden, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-12-21&g=2005-12-21). In de rapportage worden in ieder geval de resultaten van de uitvoering van het trajectplan en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten.
 
 2. De subsidie-ontvanger verstrekt onverwijld en uit eigen beweging alle gegevens en inlichtingen omtrent voortijdige beëindiging van gesubsidieerde trajecten aan het UWV.
 
@@ -312,7 +312,7 @@ De subsidie-ontvanger dient binnen zes weken na afloop van het tijdvak waarvoor 
 
 ##### Artikel 4.17. Sluiten van een persoonsgebonden reïntegratie-overeenkomst
 
-1. In geval van een toekennende beschikking op een aanvraag om een persoonsgebonden reïntegratie-overeenkomst, sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een reïntegratiebedrijf dat, een deskundige persoon die of een arbodienst die de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-07-13&g=2005-07-13) bedoelde werkzaamheden uitvoert.
+1. In geval van een toekennende beschikking op een aanvraag om een persoonsgebonden reïntegratie-overeenkomst, sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een reïntegratiebedrijf dat, een deskundige persoon die of een arbodienst die de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-12-21&g=2005-12-21) bedoelde werkzaamheden uitvoert.
 
 2. Het UWV sluit een overeenkomst met een reïntegratiebedrijf, deskundige persoon of arbodienst als bedoeld in het eerste lid overeenkomstig de voorkeur voor een reïntegratiebedrijf, deskundige persoon of arbodienst van de aanvrager of begunstigde.
 
@@ -326,7 +326,7 @@ Het sluiten van een persoonsgebonden reïntegratie-overeenkomst kan in ieder gev
 
 2. De persoonsgebonden reïntegratie-overeenkomst wordt gesloten voor een tijdvak van ten hoogste een jaar.
 
-3. Indien de aanvrager van een persoonsgebonden reïntegratie-overeenkomst of begunstigde aantoont dat de noodzakelijke kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-07-13&g=2005-07-13) bedoelde werkzaamheden hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan een overeenkomst worden gesloten voor een hoger bedrag of een langere periode.
+3. Indien de aanvrager van een persoonsgebonden reïntegratie-overeenkomst of begunstigde aantoont dat de noodzakelijke kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2005-12-21&g=2005-12-21) bedoelde werkzaamheden hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan een overeenkomst worden gesloten voor een hoger bedrag of een langere periode.
 
 4. De in het derde lid bedoelde bevoegdheid bestaat uitsluitend indien het in het eerste lid bedoelde bedrag of de in het derde lid bedoelde werkzaamheden gedurende een tijdvak van een jaar redelijkerwijs niet zullen kunnen leiden tot behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid.
 
@@ -336,13 +336,13 @@ Het sluiten van een persoonsgebonden reïntegratie-overeenkomst kan in ieder gev
 
 - a. de duur van de overeenkomst alsmede de hoogte van de kosten die door het reïntegratiebedrijf, de deskundige persoon of de arbodienst in rekening zullen worden gebracht;
 
-- b. dat het reïntegratiebedrijf, de deskundige persoon of de arbodienst iedere drie maanden bij het UWV een rapportage indient waarin een beschrijving is opgenomen van de werkzaamheden die zijn verricht ten behoeve van het behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid van de arbeidsgehandicapte werknemer. In de rapportage worden tevens de resultaten van de uitvoering van het trajectplan, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-07-13&g=2005-07-13), en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten;
+- b. dat het reïntegratiebedrijf, de deskundige persoon of de arbodienst iedere drie maanden bij het UWV een rapportage indient waarin een beschrijving is opgenomen van de werkzaamheden die zijn verricht ten behoeve van het behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid van de arbeidsgehandicapte werknemer. In de rapportage worden tevens de resultaten van de uitvoering van het trajectplan, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-12-21&g=2005-12-21), en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten;
 
 - c. dat de overeenkomst door beide partijen wegens gewichtige redenen tussentijds door opzegging kan worden beëindigd;
 
-- d. dat de prijs voor de overeenkomst uitsluitend wordt betaald voor die werkzaamheden, die zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-07-13&g=2005-07-13), bedoelde trajectplan, tenzij het UWV voor het verrichten van andere werkzaamheden schriftelijk goedkeuring heeft verleend;
+- d. dat de prijs voor de overeenkomst uitsluitend wordt betaald voor die werkzaamheden, die zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2005-12-21&g=2005-12-21), bedoelde trajectplan, tenzij het UWV voor het verrichten van andere werkzaamheden schriftelijk goedkeuring heeft verleend;
 
-- e. dat het reïntegratiebedrijf voldoet aan verplichtingen als bedoeld in [artikel 4.12, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.12&z=2005-07-13&g=2005-07-13);
+- e. dat het reïntegratiebedrijf voldoet aan verplichtingen als bedoeld in [artikel 4.12, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.12&z=2005-12-21&g=2005-12-21);
 
 - f. dat het reïntegratiebedrijf aan het UWV op verzoek of na toestemming van de subsidie-ontvanger uit eigen beweging gegevens verstrekt over de uitvoering van de overeenkomst.
 
@@ -400,7 +400,7 @@ Bij het verstrekken van gegevens maken de CWI, het UWV en de SVB gebruik van het
 
 ##### Artikel 5.8. Bekendmaking systematische gegevensverstrekking buiten SUWI-domein
 
-1. De CWI, het UWV en de SVB verstrekken in de in [artikel 73, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73) en in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&artikel=5.2&z=2005-07-13&g=2005-07-13) en [5.3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&artikel=5.3&z=2005-07-13&g=2005-07-13) vermelde gevallen, slechts systematisch gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), indien met de desbetreffende bestuursorganen of rechtspersonen overeenstemming is bereikt over in ieder geval de systematisch te verstrekken gegevens, alsmede de omstandigheid waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt.
+1. De CWI, het UWV en de SVB verstrekken in de in [artikel 73, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73) en in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&artikel=5.2&z=2005-12-21&g=2005-12-21) en [5.3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&artikel=5.3&z=2005-12-21&g=2005-12-21) vermelde gevallen, slechts systematisch gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), indien met de desbetreffende bestuursorganen of rechtspersonen overeenstemming is bereikt over in ieder geval de systematisch te verstrekken gegevens, alsmede de omstandigheid waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt.
 
 2. De in het eerste lid bedoelde overeenstemming wordt opgenomen in een schriftelijk besluit, dat door de CWI, het UWV of de SVB op adequate wijze bekend wordt gemaakt.
 
@@ -420,7 +420,7 @@ Dit besluit berust mede op [artikelen 7, zesde lid](https://wetten.overheid.nl/j
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2002, met uitzondering van de [artikelen 4.7 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.7&z=2005-07-13&g=2005-07-13), die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van 1 januari 2002, met uitzondering van de [artikelen 4.7 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.7&z=2005-12-21&g=2005-12-21), die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -445,5 +445,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 2. Het UWV en de CWI verstrekken uit de onder hun verantwoordelijkheid gevoerde administraties aan het participatiefonds, bedoeld in [artikel 1 van het Besluit participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008102&artikel=1), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak van het participatiefonds waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, voorzover die taak samenhangt met de uitvoering van [artikel 72a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72a).
 
 ### Hoofdstuk 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5.10. Gegevensverstrekking door het UWV ten behoeve van verzekeringen risico’s werkgever betaling loon, premie en uitkering
+
+1. Het UWV is bevoegd op verzoek van een werkgever aan die werkgever uit de onder zijn verantwoordelijkheid gevoerde administraties in verband met het aangaan van overeenkomsten tot verzekering van de risico’s van betaling van loon in geval van ziekte van zijn werknemers dan wel het risico van het betalen van arbeidsongeschiktheidsuitkering of gedifferentieerde premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) kosteloos gegevens te verstrekken op grond waarvan die werkgever kan bepalen:
+
+- a. de instroom, bedoeld in [artikel 80a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80a), over de periode van drie jaar voorafgaand aan het verzoek;
+
+- b. de ontwikkeling van het totale bedrag aan loon in de zin van de [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126) per jaar over de periode van vijf jaar voorafgaand aan het verzoek;
+
+- c. het aantal werknemers naar leeftijd en geslacht in de periode van vijf jaar voorafgaand aan het verzoek;
+
+- d. het arbeidsverleden van de werknemers die ten tijde van het verzoek bij de werkgever in dienst zijn zoals dit zou worden gemeld in de arbeidsverledenbeschikking, bedoeld in [artikel 33a van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33a),
+
+voorzover die werkgever dat niet op basis van gegevens in zijn loonadministratie kan bepalen.
+
+2. Het UWV is bevoegd uit de onder zijn verantwoordelijkheid gevoerde administraties kosteloos gegevens die het UWV verwerkt ten behoeve van de statistiek over de ontwikkeling van de arbeidsongeschiktheidsuitkeringen te verstrekken aan de verzekeraars, bedoeld in [artikel 73, eerste lid, onderdeel d, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), in verband met de in dat onderdeel bedoelde overeenkomsten:
+
+- a. aantallen nieuwe uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) per jaar, beëindigde uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) per jaar en lopende uitkeringen in een jaar, naar geslacht, leeftijd, sector als bedoeld in [artikel 97k van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=97k), en bedrijfsgrootte, dagloon, naar ingangdatum respectievelijk datum beëindiging uitkering, arbeidsongeschiktheidspercentages, diagnose, soort dienstverband en combinatie met inkomsten uit arbeid;
+
+- b. totaal aantal werknemers naar jaar, geslacht, leeftijd, sector als bedoeld in [artikel 97k van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=97k), premieplichtige loonsom, bedoeld in het [Besluit premiedifferentiatie WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0008844) en bedrijfsgrootte.
+
+### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage. als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&artikel=5.2&z=2005-12-21&g=2005-12-21), Besluit SUWI
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
