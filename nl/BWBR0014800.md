@@ -4,7 +4,7 @@ identifier: "BWBR0014800"
 country: "nl"
 rank: "zbo"
 publication_date: "2005-12-21"
-last_updated: "2003-03-20"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014800"
 soort: "zbo"
@@ -134,12 +134,18 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 2. De nieuwe loondoorbetalingsperiode wordt vastgesteld op het tijdvak dat naar verwachting benodigd zal zijn om de werkgever in staat te stellen alsnog zijn reïntegratieverplichtingen volledig na te komen en voldoende reïntegratie-inspanningen te verrichten, doch ten minste op twee maanden.
 
-3. De totale duur van de opeenvolgende loondoorbetalingsperioden bedraagt niet meer dan het maximum dat is vastgesteld op grond van [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014800&artikel=4&z=2003-03-20&g=2003-03-20), tenzij er sprake is van nieuwe feiten.
+3. De totale duur van de opeenvolgende loondoorbetalingsperioden bedraagt niet meer dan het maximum dat is vastgesteld op grond van [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014800&artikel=4&z=2005-12-21&g=2005-12-21), tenzij er sprake is van nieuwe feiten.
 
 4. De nieuwe loondoorbetalingsperiode luidt in een geheel aantal maanden, wordt niet afgerond op een kalendermaand, en wordt zo vastgesteld dat het maximum genoemd in [artikel 629, twaalfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) niet wordt overschreden.
 
 ##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
+
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+
+##### Artikel 1a. Grondslag
+
+Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
