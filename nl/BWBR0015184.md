@@ -4,7 +4,7 @@ identifier: "BWBR0015184"
 country: "nl"
 rank: "zbo"
 publication_date: "2005-12-21"
-last_updated: "2005-08-14"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015184"
 soort: "zbo"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de regeling: de [Regeling procesgang eerste en tweede ziektejaar](https://wetten.overheid.nl/jci1.3:c:BWBR0013540);
 
-- c. UWV: Uitvoeringsinstituut werknemersverzekeringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14) en [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- c. UWV: Uitvoeringsinstituut werknemersverzekeringen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) en [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
 - d. werkgever: de werkgever, bedoeld in [artikel 71a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a), en de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1);
 
@@ -108,11 +108,11 @@ In dit besluit wordt verstaan onder:
 
 1. Het UWV stelt aan de werkgever schriftelijk een termijn van veertien dagen om het reïntegratieverslag te verstrekken of aan te vullen indien:
 
-- a. gebruik is gemaakt van het formulier, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14), of [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-08-14&g=2005-08-14), doch dit formulier niet deugdelijk en volledig is ingevuld en aan de werknemer ter hand gesteld;
+- a. gebruik is gemaakt van het formulier, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21), of [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-12-21&g=2005-12-21), doch dit formulier niet deugdelijk en volledig is ingevuld en aan de werknemer ter hand gesteld;
 
-- b. een of meer elementen van het reïntegratieverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14) of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-08-14&g=2005-08-14), ontbreken doordat die elementen door de werkgever of door de bedrijfsarts of de arbodienst niet aan de werknemer ter hand zijn gesteld;
+- b. een of meer elementen van het reïntegratieverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-12-21&g=2005-12-21), ontbreken doordat die elementen door de werkgever of door de bedrijfsarts of de arbodienst niet aan de werknemer ter hand zijn gesteld;
 
-- c. het reïntegratieverslag niet voldoet aan de vorm- en herkenbaarheidsvereisten, genoemd in [artikel 2, derde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14), respectievelijk [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-08-14&g=2005-08-14).
+- c. het reïntegratieverslag niet voldoet aan de vorm- en herkenbaarheidsvereisten, genoemd in [artikel 2, derde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21), respectievelijk [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-12-21&g=2005-12-21).
 
 2. Heeft de werkgever na het verstrijken van de in het eerste lid genoemde termijn zonder deugdelijke grond het reïntegratieverslag niet verstrekt of aangevuld, dan geeft het UWV toepassing aan [artikel 39a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39a), respectievelijk [artikel 71a, negende lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a).
 
@@ -124,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 - c. het oordeel van de werknemer bij het reïntegratieverslag ontbreekt, of niet als een afzonderlijk en herkenbaar element is weergegeven;
 
-- d. een of meer elementen van het reïntegratieverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14) of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-08-14&g=2005-08-14), ontbreken, terwijl die elementen door de werkgever of door de bedrijfsarts of de arbodienst wel aan de werknemer ter hand zijn gesteld.
+- d. een of meer elementen van het reïntegratieverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2a&z=2005-12-21&g=2005-12-21), ontbreken, terwijl die elementen door de werkgever of door de bedrijfsarts of de arbodienst wel aan de werknemer ter hand zijn gesteld.
 
 4. De in het derde lid bedoelde termijn bedraagt voor de werknemer die aanspraak maakt op ziekengeld zeven dagen, en voor de werknemer die een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) heeft aangevraagd veertien dagen.
 
@@ -146,7 +146,7 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
 ##### Artikel 2a. Verkort reïntegratieverslag Ziektewet
 
-1. Indien geen probleemanalyse en geen plan van aanpak zijn opgesteld omdat naar de verwachting van de bedrijfsarts of de arbodienst geen sprake zou zijn van dreigend langdurig ziekteverzuim als bedoeld in [artikel 2, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2), of omdat de tijdsperiode tussen de eerste dag van de ongeschiktheid tot werken en de laatste dag voordat de dienstbetrekking eindigt korter is dan tien weken, kan in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-08-14&g=2005-08-14) worden volstaan met een beknopt verslag, aan te duiden als: verkort reïntegratieverslag Ziektewet.
+1. Indien geen probleemanalyse en geen plan van aanpak zijn opgesteld omdat naar de verwachting van de bedrijfsarts of de arbodienst geen sprake zou zijn van dreigend langdurig ziekteverzuim als bedoeld in [artikel 2, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013540&artikel=2), of omdat de tijdsperiode tussen de eerste dag van de ongeschiktheid tot werken en de laatste dag voordat de dienstbetrekking eindigt korter is dan tien weken, kan in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015184&artikel=2&z=2005-12-21&g=2005-12-21) worden volstaan met een beknopt verslag, aan te duiden als: verkort reïntegratieverslag Ziektewet.
 
 2. Voor het indienen van een verkort reïntegratieverslag Ziektewet stelt het UWV een afzonderlijk formulier beschikbaar.
 
@@ -157,5 +157,11 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 - b. de medische informatie van de bedrijfsarts of de arbodienst, voor zover van toepassing met een onderbouwing van de gestelde afwezigheid van dreigend langdurig ziekteverzuim;
 
 - c. het oordeel van de werknemer.
+
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+
+##### Artikel 1a. Grondslag
+
+Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
