@@ -4,7 +4,7 @@ identifier: "BWBR0010883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-12-25"
-last_updated: "1999-12-05"
+last_updated: "2005-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010883"
 soort: "ministeriele-regeling"
@@ -72,25 +72,19 @@ De regieraad stelt op basis van de resultaten jaarlijks een jaarverslag en een j
 
 1. De regieraad is als volgt samengesteld:
 
-- a. de heer mr. J. Kohnstamm, voorzitter;
+- a. de heer drs. H.J.J. Lenferink, korpsbeheerder van het regionale politiekorps Hollands-Midden, voorzitter;
 
-- b. de heer drs. A.H.C. Annink, directeur-generaal Openbare Orde en Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. de heer drs. H.W.M. Schoof, directeur-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. de heer mr. drs. C.W.M. Dessens, directeur-generaal Rechtshandhaving van het Ministerie van Justitie;
+- c. de heer mr. J. van der Vlist, directeur-generaal Rechtshandhaving van het Ministerie van Justitie;
 
-- d. de heer drs. C. Leeuwe, korpsbeheerder van het regionale politiekorps Flevoland;
+- d. de heer L.Th.C. Kuijs, korpschef van het regionale politiekorps Brabant Zuid-Oost;
 
-- e. de heer dr. J.J. Schrijen, korpsbeheerder van het regionale politiekorps Limburg-Noord;
+- e. de heer mr. H.A. van Brummen, hoofdofficier van Justitie te Rotterdam;
 
-- f. de heer J. Kuiper, korpschef van het regionale politiekorps Amsterdam-Amstelland;
+- f. de heer mr. J.R. Eland, hoofdofficier van Justitie te Middelburg.
 
-- g. de heer A.J. Meijboom, korpschef van het regionale politiekorps Twente;
-
-- h. de heer mr. H.A. van Brummen, hoofdofficier van Justitie te Haarlem;
-
-- i. de heer mr. J. Koers, hoofdofficier van Justitie te Amsterdam.
-
-2. Als secretaris van de regieraad treedt op de directeur van de Taakorganisatie-ICT/NPI, de heer D.J. Waterham.
+2. Als secretaris van de regieraad treedt op de heer C.D.G. van den Heuvel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 3. De Minister van Binnenlandse Zaken en Koninkrijksrelaties kan, op voordracht van de beraden en organisaties die door bovengenoemde leden worden vertegenwoordigd, voorzien in tussentijdse vervanging van de voorzitter en de leden.
 
@@ -98,7 +92,7 @@ De regieraad stelt op basis van de resultaten jaarlijks een jaarverslag en een j
 
 1. De regieraad wordt ondersteund door een secretariaat dat wordt gevormd door vertegenwoordigers van de Taakorganisatie-ICT/NPI, en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De regieraad stelt de inrichting en taken van het secretariaat vast.
 
-2. De regieraad bedient zich voor werkzaamheden voortvloeiende uit [artikel 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010883&artikel=2&z=1999-12-05&g=1999-12-05), van een Adviescommissie Standaardisatie.
+2. Vervallen.
 
 3. Het secretariaat archiveert de stukken van de regieraad met inachtneming van de terzake geldende bepalingen van het beheersreglement van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Na de opheffing van de regieraad wordt het archief overgedragen aan het centraal archief van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -120,7 +114,7 @@ Deze regeling wordt aangehaald als: Instellingsregeling Regieraad ICT Politie.
 
 ##### Artikel 12
 
-Deze regeling zal worden geplaatst in Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en zij vervalt met ingang van 31 december 2005.
+Deze regeling zal worden geplaatst in Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Afschrift van deze beschikking wordt gezonden aan:
 
