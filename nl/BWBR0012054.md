@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -47,19 +47,21 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 ##### Artikel 2
 
-Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in [bijlage I van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-01-01&g=2005-01-01), mits:
+1. Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in [bijlage I van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-12-25&g=2005-12-25), mits:
 
-- a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-01-01&g=2005-01-01), niet eerder is gebruikt en bestaat uit de in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-01-01&g=2005-01-01) genoemde bestanddelen; en
+- a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-12-25&g=2005-12-25), niet eerder is gebruikt en bestaat uit de in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2005-12-25&g=2005-12-25) genoemde bestanddelen; en
 
 - b. - voor zover een bouwvergunning noodzakelijk is - door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- c. – voor zover een vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) noodzakelijk is – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een zodanige vergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
+- c. – voor zover een vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) noodzakelijk is – de belastingplichtige ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) ten aanzien van het bedrijfsmiddel of een onderdeel daarvan houder is van een zodanige door het bevoegde gezag afgegeven vergunning alsmede van een MEP-beschikking ter grootte van een bedrag per Kwh. dat groter is dan nihil;
 
 - d. – voor zover het bedrijfsmiddel of het onderdeel uitsluitend bestemd is voor toepassing in of bij een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430) – door het bevoegde gezag voor die opstand een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
+2. Voor de toepassing van het eerste lid en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2005-12-25&g=2005-12-25), wordt onder MEP-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m), is verleend.
+
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-01-01&g=2005-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-12-25&g=2005-12-25) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -75,17 +77,17 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 1. De verklaring van de Minister van Economische Zaken, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2005-01-01&g=2005-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2005-01-01&g=2005-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2005-12-25&g=2005-12-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2005-12-25&g=2005-12-25).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-01-01&g=2005-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-12-25&g=2005-12-25), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-01-01&g=2005-01-01), van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de MEP-beschikking alsmede van de afgegeven vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2005-12-25&g=2005-12-25), van toepassing is.
 
 ##### Artikel 6
 
-1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2005-12-25&g=2005-12-25) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -443,27 +445,33 @@ Technische voorzieningen ten behoeve van energiebesparing in bouwwerken, door:
 
 2.1.A. Thermische isolering.
 
-2.1.B. HR-glas voor beglazing in buitengevel-, of dakconstructies van bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 1,2 W/m2K en met:
+2.1.B. HR-glas voor beglazing in buitengevel-, of dakconstructies van bedrijfsgebouwen, en bestaande uit: meervoudig glas dat gemeten is conform EN 673 voor warmtereflecterend isolerend glas met een warmtewerende coating of gasgevulde spouw, met een warmtedoorlatingscoëfficiënt U van maximaal 1,2 W/m2 K en met:
 
-2.1.C. Energieschermen voor het verminderen van het warmteverlies in tuinbouwkassen voor lichte stookteelt aan de binnenzijde van de lichtdoorlatende gebouwschil, door het aanbrengen van beweegbare schermen, en bestaande uit: schermdoek dat voor tenminste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm2 en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen (eventueel) schermkierregeling. Bij lichte stookteelt is de gemiddelde minimum etmaaltemperatuur van de stooklijn in de maand januari lager dan 17 °C.
+2.1.C. Energieschermen voor het verminderen van het warmteverlies in tuinbouwkassen voor lichte stookteelt aan de binnenzijde van de lichtdoorlatende gebouwschil, door het aanbrengen van beweegbare schermen, en bestaande uit: schermdoek dat voor tenminste 90% dicht is, waarbij de maasopeningen van het weefsel, breisel of vlechtsel kleiner zijn dan 2 mm2 en waarbij de lichtdoorlatendheid voor diffuus opvallend licht groter is dan 10%, mechanisch bedieningsmechanisme, (eventueel) kierafdichtingsvoorzieningen (eventueel) schermkierregeling. Bij lichte stookteelt is de gemiddelde minimum etmaaltemperatuur van de stooklijn in de maand januari lager dan 17°C.
 
-2.1.D. Isolatie voor bestaande constructies in bedrijfsgebouwen door verbetering van de isolatie van bestaande vloeren, daken, plafonds of wanden van ruimten, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ (Rm) = Σ (d/λ) toeneemt met ten minste 1,5 m2K/W t.o.v. de oude situatie.
+2.1.D. Isolatie voor bestaande constructies in bedrijfsgebouwen door verbetering van de isolatie van bestaande vloeren, daken, plafonds of wanden van ruimten, en bestaande uit: isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R = Σ (R m) = Σ⁠(d/λ) toeneemt met ten minste 1,5 m2 K/W t.o.v. de oude situatie.
 
-Het maximum bedrag, dat voor energie-investeringsaftrek in aanmerking komt bedraagt EUR 20/m2 te isoleren oppervlak. De warmteweerstand dient bepaald te zijn conform NEN 1068 (mei 1997).
+Het maximum bedrag, dat voor energie-investeringsaftrek in aanmerking komt bedraagt € 20/m2 te isoleren oppervlak. De warmteweerstand dient bepaald te zijn conform NEN 1068 (mei 1997).
 
-2.2.A. Beperking van ventilatie- of tochtverliezen.
+2.1.E Isolatie van koel- of vriesruimten door isolatiemateriaal waarbij de som van de warmteweerstand van de lagen R=Σ(Rm) = Σ(d/λ);
 
 ### **3. Warmtehergebruik door:**
 
+De warmteweerstand dient bepaald te zijn conform NEN 1068 (mei 1997).
+
+2.2.A. Beperking van ventilatie- of tochtverliezen.
+
+3. Warmtehergebruik door:
+
 3.1.A. Warmteterugwinning.
 
-3.2.A. Systemen voor de aanwending van afvalwarmte. Indien afvalwarmte wordt geleverd door een investerende onderneming, dan wordt de besparing op de locatie waar de afvalwarmte wordt aangewend meegenomen bij het bepalen van het besparingskental. De berekening dient te worden betrokken over het totale investeringsbedrag van alle betrokken ondernemingen.
+### **4. Efficiënte verlichting door:**
 
 Afvalwarmte is warmte die in de bestaande situatie niet nuttig wordt aangewend. Verwarmingsnetten waarbij de warmte afkomstig is van nieuw te bouwen elektrisch vermogen worden uitgesloten van deze regeling.
 
 3.2.B. Warmtebuffersysteem bestemd voor het opslaan van restwarmte vrijkomend bij warmteopwekking in tuinbouwkassen voor lichte stookteelt en bestaande uit: opslagtank of opslagzak. Bij lichte stookteelt is de gemiddelde minimum etmaaltemperatuur van de stooklijn in de maand januari lager dan 17ºC.
 
-### **4. Efficiënte verlichting door:**
+4. Efficiënte verlichting door:
 
 4.1.A. Toepassing van automatische meet- en regelapparatuur.
 
@@ -473,35 +481,37 @@ Afvalwarmte is warmte die in de bestaande situatie niet nuttig wordt aangewend. 
 
 4.2.C. Ruimteverlichting in koel- of vriescellen, en bestaande uit: light emitting diodes (LED’s) inclusief behuizing en LED-regeling.
 
-4.2.D. Noodverlichting in bedrijfsgebouwen, en bestaande uit: light emitting diodes (LED’s) inclusief behuizing en LED-regeling
-
-4.2.E. Vluchtwegsignalering voor verlichte vluchtrouteaanduiding in bedrijfsgebouwen, en bestaande uit: armaturen welke voorzien zijn van met tritiumgas gevulde buisjes (bètalights).
-
-4.2.F. Energie-efficiënt verlichtingssysteem voor:
-
-4.3.A. Additionele efficiency-verhogende voorzieningen.
+4.2.D. Noodverlichting in bedrijfsgebouwen, en bestaande uit: light emitting diodes (LED’s) inclusief behuizing en LED-regeling.
 
 ### **B. Investeringen ten behoeve van energiebesparing bij apparatuur of processen**
 
-Technische voorzieningen ten behoeve van energiebesparing bij apparatuur of processen door:
+4.2.F. Energie-efficiënt verlichtingssysteem voor:
 
 ### **1. De verbetering van de energie-efficiëntie door:**
 
 1.1.A. Toepassing van automatische meet- en regelapparatuur.
 
+Technische voorzieningen ten behoeve van energiebesparing bij apparatuur of processen door:
+
+1. De verbetering van de energie-efficiëntie door:
+
+1.1.A. Toepassing van automatische meet- en regelapparatuur.
+
 1.2.A. Toepassing van efficiëntere apparatuur.
 
-1.2.B. Gasgestookt HR-frituurtoestel voor het bereiden van maaltijden, dat gemeten is conform NEN-EN 437, NEN-EN 203 en CR 1404, waarbij het thermisch rendement ten minste 83% op onderwaarde bedraagt, de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm en de jaar-emissiewaarde van NOX niet meer bedraagt dan:
+1.2.B. Gasgestookt HR-frituurtoestel voor het bereiden van maaltijden, dat gemeten is conform NEN-EN 437, NEN-EN 203 en CR 1404, waarbij het thermisch rendement ten minste 83% op onderwaarde bedraagt, de jaar-⁠emissiewaarde van CO niet meer bedraagt dan 100 ppm en de jaar-emissiewaarde van NOX niet meer bedraagt dan:
 
-De jaar-emissiewaarden van NOx en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: hoogrendement gastoestel, gastoevoer- en verbrandingsgasafvoersysteem, exclusief accessoires.
+De jaar-emissiewaarden van NOX en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: hoogrendement gastoestel, gastoevoer- en verbrandingsgasafvoersysteem, exclusief accessoires.
 
-1.2.C. Hoogrendementmotoren voor het aandrijven van proceswerktuigen, en bestaande uit: asynchrone elektromotoren met een rendement van:
+1.2.C. Hoogrendementmotoren voor het aandrijven van proceswerktuigen, en bestaande uit: asynchrone elektromotoren exclusief bekabeling:
 
 1.2.D. Warmtepomp waarbij de warmte nuttig wordt aangewend voor processen, en bestaande uit: elektrisch gedreven warmtepomp met een COP ≥ 3,5 gemeten onder normale bedrijfsomstandigheden of een gasgedreven warmtepomp met een gas utilization efficiency ≥ 1,4 gemeten onder normale bedrijfsomstandigheden, (eventueel) bodemwarmtewisselaar of grondwaterbron, (eventueel) restwarmteopslagvat.
 
-1.2.E. Gasgestookte hogedrukreiniger voor het reinigen van oppervlakken met warm water onder hoge druk eventueel met gelijktijdige dosering van reinigingsmiddelen, die gemeten is conform NEN-EN 1196, waarbij het indirect rendement ten minste 100% op onderwaarde bedraagt, de jaar-emissiewaarde van de NOx niet meer bedraagt dan 60 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 160 ppm. De jaaremissiewaarden van NOx en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: gasgestookte hogedrukreiniger, (eventueel) standaard spuitlans, (eventueel) standaard hoge-drukslang.
+1.2.E. Gasgestookte hogedrukreiniger voor het reinigen van oppervlakken met warm water onder hoge druk eventueel met gelijktijdige dosering van reinigingsmiddelen, die gemeten is conform NEN-EN 1196, waarbij het indirect rendement ten minste 100% op onderwaarde bedraagt, de jaar-emissiewaarde van de NOX niet meer bedraagt dan 60 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 160 ppm. De jaaremissiewaarden van NOX en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: gasgestookte hogedrukreiniger, (eventueel) standaard spuitlans, (eventueel) standaard hoge-drukslang.
 
-1.2.F. CO2/NH3 cascade koelsysteem voor het koelen of vriezen, waarbij de beide koelsystemen zijn gekoppeld door een cascade koeler (CO2/NH3 warmtewisselaar), en bestaande uit: cascadekoeler (CO2/NH3 warmtewisselaar) en de componenten aan de CO2-zijde te weten: de vloeistofafscheider, koeler, (eventueel) compressor, (eventueel) circulatiepomp, (eventueel) oliewaskolom.
+1.2.F. HR-pomp bestemd voor centrale verwarming, airconditioning of tapwater in bedrijfsgebouwen en bestaande uit: stand-alone natloper centrifugaalpomp tot 2.500 Watt met een EEI < 0,4 gemeten conform EN 1151 en geclassificeerd door Europump.
+
+Het maximum bedrag, dat voor energie-investeringsaftrek in aanmerking komt bedraagt € 5 per Watt.
 
 1.2.G. Direct gasgestookte condenserende boiler voor de productie van warm tapwater, en bestaande uit: een condenserende warm tapwaterboiler, die gemeten is conform NEN-EN 89 en waarbij het rendement ten minste 100% op onderwaarde bedraagt.
 
@@ -509,65 +519,53 @@ De jaar-emissiewaarden van NOx en CO zijn gebaseerd op droge verbrandingsgassen 
 
 1.2.I. Gasgestookte lagedruk stoomvormer voor het verwarmen van kookketels voor maaltijden, en bestaande uit: gasgestookte lagedruk stoomvormer met een nominale belasting op onderwaarde van maximaal 130 kW.
 
-1.2.J. Gasgestookte (stoom)convectieoven voor het bereiden van maaltijden, die gemeten is conform NEN-EN 437 en NEN-EN 203 en CR 1404, waarbij het indirect rendement ten minste 80% op onderwaarde bedraagt, de jaaremissiewaarde van NOx niet meer bedraagt dan 83,6 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm. De jaar-emissiewaarde van NOx en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: gasgestookte (stoom)convectieoven, gastoevoer- en verbrandingsgasafvoersysteem, exclusief accessoires.
+1.2.J. Gasgestookte (stoom)⁠convectieoven voor het bereiden van maaltijden, die gemeten is conform NEN-EN 437 en NEN-EN 203 en CR 1404, waarbij het indirect rendement ten minste 80% op onderwaarde bedraagt, de jaaremissiewaarde van NOX niet meer bedraagt dan 83,6 ppm en de jaar-emissiewaarde van CO niet meer bedraagt dan 100 ppm. De jaar-emissiewaarde van NOX en CO zijn gebaseerd op droge verbrandingsgassen en stoïchiometrische verbranding, en bestaande uit: gasgestookte (stoom)convectieoven, gastoevoer- en verbrandingsgasafvoersysteem, exclusief accessoires.
 
-1.2.K. Energiezuinige koel- of vriesinstallatie voor het koelen of vriezen van opslagruimten of een energiezuinige centrale koel- of vriesinstallatie voor het koelen of vriezen van koel- of vriesmeubelen, en bestaande uit: compressor, (natte-)condensor, variabele condensordrukregeling afhankelijk van de buitenluchttemperatuur, (eventueel) automatische ontluchtingsvoorziening, (eventueel) persgasontdooi-installatie, (eventueel) vloeistofonderkoeler, (eventueel) frequentieomvormer.
+1.2.K. Energiezuinige koel- of vriesinstallatie voor het koelen of vriezen van ruimten of processen tot maximaal + 12 °C, en bestaande uit: tenminste één frequentiegeregelde compressor,
 
-Het maximum investeringsbedrag dat per kW koelvermogen voor EIA in aanmerking komt, is afhankelijk van het ontwerpkoelvermogen en de ontwerpluchtinlaattemperatuur aan de koeler.
+(natte)condensor waarvan het verschil tussen de condensatietemperatuur van het koudemiddel in de condensor en de temperatuur van de buitenlucht maximaal 10 K bedraagt, conform NEN-EN 327 voor een droge condensor of NEN-EN 15218 voor een door verdamping gekoelde condensor, en waarbij het nominaal vermogen van de condensorventilatoren maximaal 25 W per kW condensorvermogen bedraagt, weersafhankelijke condensordrukregeling die bij lagere buitenluchttemperaturen (T<13°C) de condensatietemperatuur verlaagt tot T ≤ 23°C, elektronische expansieregeling bij een direct expansiesysteem, verdamper, (eventueel) cascadekoeler (CO2/NH3 warmtewisselaar), (eventueel) CO2 koeler, (eventueel) vloeistofafscheider.
 
-De coëfficiënt of system performance (COSP) van de koel- of vriesinstallatie moet:
-
-en moet tenminste de in onderstaande tabel vermelde waarden bedragen.
-
-A = ontwerpluchtinlaattempertuur aan de koeler
-
-B = COSP bij een koelvermogen < 150 kW
-
-C = COSP bij een koelvermogen ≥ 150 kW
-
-D = maximaal bedrag per kW koelvermogen dat in aanmerking komt
-
-De COSP wordt vastgesteld op basis van het opgenomen vermogen van compressoren, condensorventilatoren, pompen en andere direct betrokken verbruikers exclusief koelerventilatoren, bij genoemde temperatuurontwerpcondities en maximaal vermogen. De COSP bij de vermelde buitentemperatuur van 13 °C en 80% RV of 7 °C en 80% RV moet door de leverancier schriftelijk worden gegarandeerd. Bij meerdere temperatuursniveaus per druktrap, wordt het hoogste niveau aangehouden.
+Het bedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt in het geval als koudemiddel:
 
 1.3.A. Additionele efficiency-verhogende voorzieningen.
 
-### **2. Vermindering van de warmte- of koellast door:**
+2. Vermindering van de warmte- of koellast door:
 
 2.1.A. Thermische isolering.
 
-### **3. Warmtehergebruik door:**
+### **2. Vermindering van de warmte- of koellast door:**
 
 3.1.A. Warmteterugwinning.
 
-3.2.A. Systemen voor de aanwending van afvalwarmte. Indien afvalwarmte wordt geleverd door een investerende onderneming, dan wordt de besparing op de locatie waar de afvalwarmte wordt aangewend meegenomen bij het bepalen van het besparingskental. De berekening dient te worden betrokken over het totale investeringsbedrag van alle betrokken ondernemingen.
+### **3. Warmtehergebruik door:**
 
 Afvalwarmte is warmte die in de bestaande situatie niet nuttig wordt aangewend. Verwarmingsnetten waarbij de warmte afkomstig is van nieuw te bouwen elektrisch vermogen worden uitgesloten van deze regeling.
 
-### **4. Efficiënte verlichting door:**
+4. Efficiënte verlichting door:
 
 4.1.A. Toepassing van automatische meet- en regelapparatuur.
 
-4.2.A. Toepassing van efficiëntere apparatuur.
+### **4. Efficiënte verlichting door:**
 
 4.2.B. LED seinlampen of LED verkeerslichten bij wegen of vaarwegen of spoorwegen, en bestaande uit: light emitting diodes (LED’s) inclusief behuizing en LED-regeling, (eventueel) vervanging van de elektronische voeding, exclusief lantaarn, exclusief palen, exclusief verkeersregeling en exclusief aansluiting op het elektriciteitsnet.
 
 4.3.A. Additionele efficiency-verhogende voorzieningen.
 
+4.2.B. LED seinlampen of LED verkeerslichten bij wegen of vaarwegen of spoorwegen, en bestaande uit: light emitting diodes (LED’s) inclusief behuizing en LED-regeling, (eventueel) vervanging van de elektronische voeding, exclusief lantaarn, exclusief palen, exclusief verkeersregeling en exclusief aansluiting op het elektriciteitsnet.
+
+Technische voorzieningen ten behoeve van energiebesparing door:
+
 ### **C. Investeringen ten behoeve van het gelijktijdig opwekken van warmte en kracht**
 
 Technische voorzieningen ten behoeve van energiebesparing door:
 
-Warmtekrachtinstallatie of brandstofcelsysteem voor het gelijktijdig opwekken van warmte en kracht, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 65% bedraagt. Onder het totaal energetisch rendement wordt verstaan de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof.
+Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor het vervoer over de weg, vaartuigen bij de binnenvaart of bij railgebonden voertuigen door:
 
 ### **D. Investeringen ten behoeve van energiebesparing bij transportmiddelen**
 
-Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor het vervoer over de weg, vaartuigen bij de binnenvaart of bij railgebonden voertuigen door:
-
-### **1. Verbetering van de energie-efficiëntie door:**
-
 1.1.A. Toepassing van automatische meet- en regelapparatuur.
 
-1.2.A. Toepassing van efficiëntere apparatuur.
+### **1. Verbetering van de energie-efficiëntie door:**
 
 1.2.B. Wielnaafmotoren voor het aandrijven van de wielen van een voertuig, en bestaande uit: elektromotoren met permanente magneten en motorcontroller die in de wielnaaf zijn geïntegreerd, oplaadbare accu’s ten behoeve van de voeding van de motoren.
 
@@ -577,19 +575,19 @@ Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor he
 
 1.3.C. Zij-afscherming voor het verminderen van de aërodynamische weerstand van voertuigen ten behoeve van goederenwegtransport door middel van panelen ter afsluiting van de open ruimte aan de zijkant van motorwagens, aanhangers, trekkers en opleggers die tevens voldoen aan de eisen voor de verkeersveiligheid conform EEG-[richtlijn 89/297](31989L0297), en bestaande uit: zij-afscherming.
 
-### **2. Vermindering van de warmte- of koellast door:**
+2. Vermindering van de warmte- of koellast door:
 
 2.1.A. Thermische isolering.
 
-2.1.B. Lichtgewicht aramide koelcontainer voor het wegvervoer, railvervoer, watervervoer of intermodaal vervoer, en bestaande uit: koelcontainer of opbouw van koelwagens of -opleggers, exclusief het aanwezige koelaggregaat, met aramide zijwanden met een lengte van ten minste 6 meter en met een dikte van het isolatiemateriaal van ten minste 42 mm. Hierbij dienen alle zijwanden ten minste 220 g/m2 aramideweefsel of -legsel te bevatten.
+### **2. Vermindering van de warmte- of koellast door:**
 
 2.2.A. Beperking van ventilatie- of tochtverlies.
 
-### **3. Warmtehergebruik door:**
+3. Warmtehergebruik door:
 
 3.1.A. Warmteterugwinning.
 
-4. Efficiënte verlichting door:
+### **3. Warmtehergebruik door:**
 
 4.1.A. Toepassing van automatische meet en regelapparatuur.
 
@@ -597,79 +595,79 @@ Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor he
 
 4.3.A. Additionele efficiency-verhogende voorzieningen.
 
-### **E. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie**
+4.2.A. Toepassing van efficiëntere apparatuur.
 
 Technische voorzieningen die er toe strekken de inzet van fossiele brandstoffen te beperken door gebruik te maken van duurzame energie door:
 
-### **1. Zonne-energie door:**
+### **E. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie**
 
 1.1.A. Conversie naar elektriciteit of warmte (met uitzondering van het gebruik van passieve zonne-energie).
 
-1.1.B. Fotovoltaïsch zonne-energiesysteem voor het opwekken van elektrische energie uit zonlicht met behulp van zonnecellen, en bestaande uit: panelen met fotovoltaïsche zonnecellen met een gezamenlijk piekvermogen van ten minste 90 Watt, (eventueel) stroom/spanningsomvormer, (eventueel) accumulator.
+### **1. Zonne-energie door:**
 
-1.1.C. Zonnecollectorsysteem voor het verwarmen van water, en bestaande uit: zonnecollector, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer,.
+1.1.C. Zonnecollectorsysteem voor het verwarmen van water, en bestaande uit: zonnecollector, (eventueel) restwarmteopslagvat, (eventueel) warmtewisselaar, (eventueel) in het vat geïntegreerde naverwarmer.
 
 1.1.D. Luchtcollectorsysteem voor drooglucht voor het benutten van zonne-energie, waardoor de drooglucht van droogprocessen wordt (voor)verwarmd, en bestaande uit: niet-watergevulde zonnecollector, (eventueel) aansluiting op droogruimte.
 
+2. Windenergie door:
+
+2.1.A. Windturbine met een nominaal vermogen > 25 kW voor het opwekken van elektrische energie, en bestaande uit: windturbine, (eventueel) mast, (eventueel) aansluiting op het elektriciteitsnet, (eventueel) uitsluitend voor plaatsing en onderhoud van de windmolen bestemde ontsluitingsweg.
+
 ### **2. Windenergie door:**
-
-2.1.A. Windturbine met een nominaal vermogen > 25 kW voor het opwekken van elektrische energie, en bestaande uit: windturbine, die is gecertificeerd volgens:
-
-Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt voor windturbines die:
 
 Het vermogen (kW) is gedefinieerd als het nominale elektrische vermogen van de windturbine.
 
 2.1.B. Windturbine met een nominaal vermogen ≤ 25 kW voor het opwekken van elektrische energie, en bestaande uit: windturbine, (eventueel) mast, (eventueel) aansluiting op het elektriciteitsnet.
 
-Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt EUR 5000/kW;
+Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt € 5000/kW;
 
 Het vermogen (kW) is gedefinieerd als het nominale elektrische vermogen van de windturbine.
 
+3. Waterkracht door:
+
+3.1.A. Conversie naar elektrische of mechanische energie.
+
 ### **3. Waterkracht door:**
 
-3.1.A. Conversie naar elektrische of mechanische energie,
-
-3.1 B. Waterkrachtinstallatie voor het benutten van waterstroming of het verval van waterstromen voor de opwekking van elektrische of mechanische energie, en bestaande uit: waterrad of waterturbine, (eventueel) transmissie, (eventueel) generator, (eventueel) transformator, (eventueel) aansluiting op het elektriciteitsnet.
-
-### **4. Benutten of opslaan van omgevingswarmte door:**
+4. Benutten of opslaan van omgevingswarmte door:
 
 4.1.A. Aardwarmtewinningssysteem voor het winnen van warmte uit diepe aardlagen ten behoeve van de verwarming van processen of van gebouwen, en bestaande uit: aardwarmtewinningsinstallatie, aansluiting op verwarmingsnet.
 
-4.1.B. Grondwarmtewisselaar voor:
+### **4. Benutten of opslaan van omgevingswarmte door:**
 
 4.1.C. Warmte- of koude-opslag in de bodem (aquifer) voor het opslaan van warmte of koude in de bodem met behulp van grondwater als opslagmedium, ten behoeve van het koelen of verwarmen van gebouwen of processen, en bestaande uit: een gesloten systeem met grondwaterbronnen/putten, die voor onttrekking en injectie worden gebruikt en waarbij de jaarlijkse netto thermische balans van de bodem nagenoeg neutraal is, grondwaterpompen, transportleiding van putten naar applicatievestiging, (eventueel) warmtewisselaar tussen grondwater en gebouwnet.
 
-### **5. Biomassa door:**
+5. Biomassa door:
 
 5.1.A. Conversie naar mechanische of elektrische energie, warmte, of gasvormige, vloeibare of vaste energiedragers en waarbij sprake moet zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct.
 
-Onder biomassa wordt hier verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO2-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO2-cyclus onvermijdelijk in het materiaal aanwezig moeten zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen.
+### **5. Biomassa door:**
 
 Bijvoorbeeld de volgende materiaalstromen:
 
-5.1.B. Biomassavergassingsinstallatie voor het opwekken van warmte of mechanische of elektrische energie door het vergassen van biomassa. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet ten minste 30% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: vergassingsreactor, (eventueel) voorbewerkingsapparatuur, (eventueel) gasmotor of -⁠turbine, (eventueel) rookgasreinigingsapparatuur, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet, (eventueel) gasreinigingsapparatuur, (eventueel) warmtewisselaar, (eventueel) brander, (eventueel) ketel.
+5.1.B. Biomassavergassingsinstallatie voor het opwekken van warmte of mechanische of elektrische energie door het vergassen van biomassa. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet ten minste 30% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: vergassingsreactor, (eventueel) voorbewerkingsapparatuur, (eventueel) gasmotor of -turbine, (eventueel) rookgasreinigingsapparatuur, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet, (eventueel) gasreinigingsapparatuur, (eventueel) warmtewisselaar, (eventueel) brander, (eventueel) ketel.
 
 Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
-5.1.C. Biomassaverbrandingsinstallatie voor het opwekken van warmte en mechanische of elektrische energie door verbranding van biomassa, waarbij de warmte nuttig moet worden aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet ten minste 40% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: verbrandingsinstallatie, ketel, (eventueel) voorbewerkingsapparatuur, (eventueel) stoomexpansieturbine, (eventueel) rookgasreinigingsapparatuur, (eventueel) generator (eventueel) aansluiting op het elektriciteitsnet.
+5.1.C. Biomassaverbrandingsinstallatie voor het opwekken van warmte en mechanische of elektrische energie door verbranding van biomassa, waarbij de warmte nuttig moet worden aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet ten minste 40% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: verbrandingsinstallatie, ketel, (eventueel) voorbewerkingsapparatuur, (eventueel) stoomexpansieturbine, (eventueel) rookgasreinigingsapparatuur, (eventueel) generator (eventueel) aansluiting op het elektriciteitsnet.
 
 Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
-5.1.D. Biomassaverbrandingsinstallatie voor het opwekken van warmte door verbranding van biomassa, waarbij de warmte nuttig wordt aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet tenminste 75% bedragen, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: verbrandingsinstallatie, ketel, (eventueel) voorbewerkingsapparatuur, (eventueel) rookgas-reinigingsapparatuur. Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
+5.1.D. Biomassaverbrandingsinstallatie voor het opwekken van warmte door verbranding van biomassa, waarbij de warmte nuttig wordt aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet tenminste 75% bedragen, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: verbrandingsinstallatie, ketel, (eventueel) voorbewerkingsapparatuur, (eventueel) rookgas-reinigingsapparatuur. Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
-5.1.E. Stortgaswinningsinstallatie voor het onttrekken van (stort)gas uit gestort afval en het nuttig aanwenden van de daarin aanwezige energie met een totaal energetisch rendement van ten minste 35%. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: stortgasonttrekkingssysteem, gasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator met of zonder aansluiting op het elektriciteitsnet, (eventueel) warmtewisselaar.
+5.1.E. Stortgaswinningsinstallatie voor het onttrekken van (stort)gas uit gestort afval en het nuttig aanwenden van de daarin aanwezige energie met een totaal energetisch rendement gemiddeld op jaarbasis van ten minste 35%. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: stortgasonttrekkingssysteem, gasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator met of zonder aansluiting op het elektriciteitsnet, (eventueel) warmtewisselaar.
 
-5.1.F. Biogasbenuttingsinstallatie voor het omzetten van biogas, afkomstig van anaërobe vergisting, in mechanische of elektrische energie of warmte. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet ten minste 50% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: (eventueel) gasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet, (eventueel) ketel, (eventueel) warmtewisselaar.
+5.1.F. Biogasbenuttingsinstallatie voor het omzetten van biogas, afkomstig van anaërobe vergisting, in mechanische of elektrische energie of warmte. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet ten minste 50% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: (eventueel) gasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet, (eventueel) ketel, (eventueel) warmtewisselaar.
 
-5.1.G. Anaërobe-vergistingsinstallatie voor het anaëroob vergisten van biomassa en het daarbij opwekken van warmte en mechanische of elektrische energie, waarbij een deel van de niet in mechanische of elektrische energie omgezette warmte nuttig wordt aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet ten minste 35% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: reactor, menger, biogashouder, warmtewisselaar, silo, biogasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet.
-
-Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
-
-5.1.H. Biomassavoorbewerkingsinstallatie voor het voorbewerken en opslaan van biomassa tot direct inzetbare brandstof, door middel van opslag en drogen of verkleinen of pelletteren of briketteren. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct, en bestaande uit: ontvangstinstallatie, opslagsilo’s, droogapparatuur of verkleiningsapparatuur of pelletteerapparatuur of briketteerapparatuur, (eventueel) transportschroeven of -banden.
+5.1.G. Anaërobe-vergistingsinstallatie voor het anaëroob vergisten van biomassa, natte drijfmest of ongeboren mest en het daarbij opwekken van warmte en mechanische of elektrische energie, waarbij een deel van de niet in mechanische of elektrische energie omgezette warmte nuttig wordt aangewend. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet ten minste 35% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van de nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: reactor, menger, biogashouder, warmtewisselaar, silo, biogasbehandelingsapparatuur, (eventueel) compressor, (eventueel) gasmotor, (eventueel) generator, (eventueel) aansluiting op het elektriciteitsnet.
 
 Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
-5.1.I. Biomassavergassingsinstallatie voor het produceren van biogas door het vergassen van biomassa en het biogas opwaarderen tot aardgasnetkwaliteit en waarbij het gas in het aardgasnet wordt gebracht. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het cold-gas rendement van de installatie moet ten minste 60% bedragen. Het cold-gas rendement wordt berekend door de onderste verbrandingswaarde van het geleverde gas van aardgasnetkwaliteit samen met de nuttig aangewende warmte, te delen door de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: vergassingsreactor, voorziening die het geproduceerde biogas opwaardeert tot aardgasnetkwaliteit, (eventueel) rookgasreinigingsapparatuur, (eventueel) gasreinigingsapparatuur.
+5.1.H. Biomassavoorbewerkingsinstallatie voor het voorbewerken en opslaan van biomassa tot direct inzetbare brandstof, door middel van opslag en drogen of verkleinen of pelletteren of briketteren. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct, en bestaande uit: ontvangstinstallatie, opslagsilo’s, droogapparatuur of verkleiningsapparatuur of pelletteerapparatuur of briketteerapparatuur, (eventueel) transportschroeven of -⁠banden.
+
+Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
+
+5.1.I. Biomassavergassingsinstallatie voor het produceren van biogas door het vergassen van biomassa en het biogas opwaarderen tot aardgasnetkwaliteit en waarbij het gas in het aardgasnet wordt gebracht. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het cold-gas rendement gemiddeld op jaarbasis van de installatie moet ten minste 60% bedragen. Het cold-gas rendement wordt berekend door de onderste verbrandingswaarde van het geleverde gas van aardgasnetkwaliteit samen met de nuttig aangewende warmte, te delen door de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: vergassingsreactor, voorziening die het geproduceerde biogas opwaardeert tot aardgasnetkwaliteit, (eventueel) rookgasreinigingsapparatuur, (eventueel) gasreinigingsapparatuur.
 
 Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
@@ -679,23 +677,87 @@ Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
 5.1.K. Biogasopwaardeerinstallatie voor het produceren van gas van aardgasnetkwaliteit, waarbij uitsluitend uit biomassa verkregen gassen als energie-input mogen dienen, en bestaande uit: voorziening die geproduceerde biogas opwaardeert naar gas van aardgasnetkwaliteit, (eventueel) gasreinigingsapparatuur, (eventueel) compressor. Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
-5.1.L. Bio-oliebenuttingsinstallatie voor het opwekken van warmte of mechanische of elektrische energie door het benutten van de energie-inhoud van uit biomassa verkregen secundaire vloeibare energiedragers. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement van de installatie moet ten minste 50% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: motor, generator, (eventueel) aansluiting op het elektriciteitsnet (eventueel) warmtewisselaar.
+5.1.L. Bio-oliebenuttingsinstallatie voor het opwekken van warmte of mechanische of elektrische energie door het benutten van de energie-inhoud van uit biomassa verkregen secundaire vloeibare energiedragers. Er moet sprake zijn van een netto opbrengst van energie, gerekend over de totale keten van voorbehandeling tot en met eindproduct. Het totaal energetisch rendement gemiddeld op jaarbasis van de installatie moet ten minste 50% bedragen. Onder het totaal energetisch rendement wordt verstaan de som van het netto energetisch rendement van de opwekking van mechanische of elektrische energie en tweederde deel van het netto energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof, en bestaande uit: motor, generator, (eventueel) aansluiting op het elektriciteitsnet (eventueel) warmtewisselaar.
 
 Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
 
 5.1.M. Stortgaswinningsinstallatie voor het onttrekken van (stort)gas uit gestort afval, waarbij het stortgas wordt opgewaardeerd naar gas van aardgasnetkwaliteit en in het aardgasnet wordt gebracht, en bestaande uit: stortgasonttrekkingssysteem, gasbehandelingsapparatuur, voorziening die het stortgas opwaardeert naar gas van aardgasnetkwaliteit, (eventueel) compressor.
 
+Wat hierbij onder biomassa is te verstaan is aangegeven onder E.5.1.A.
+
+Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit: een rapportage waarin de mogelijkheden om maatregelen te treffen ter verbetering van de energie-efficiency zijn vastgelegd. Deze rapportage bevat in ieder geval:
+
 ### **F. Energie-advies**
 
 Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit: een rapportage waarin de mogelijkheden om maatregelen te treffen ter verbetering van de energie-efficiency zijn vastgelegd. Deze rapportage bevat in ieder geval:
 
-### **Artikel 2**
+### **Artikel 3**
 
 ### **Artikel 3**
 
-Bij de berekening van de besparing gelden de volgende omrekenfactoren:
+Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3 .
 
 Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
+
+### **Artikel 4**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+1. De verbetering van de energie-efficiëntie door:
+
+2. Vermindering van de warmte- of koellast door:
+
+Bij een scheiding tussen twee gekoelde ruimten is de zwaarste warmteweerstandseis van toepassing.
+
+3.2.A. Systemen voor de aanwending van afvalwarmte. Indien afvalwarmte wordt geleverd door een investerende onderneming, dan wordt de besparing op de locatie waar de afvalwarmte wordt aangewend meegenomen bij het bepalen van het besparingskental. De berekening dient te worden betrokken over het totale investeringsbedrag van alle betrokken ondernemingen.
+
+4.2.E. Vluchtwegsignalering voor verlichte vluchtrouteaanduiding in bedrijfsgebouwen, en bestaande uit: armaturen welke voorzien zijn van met tritiumgas gevulde buisjes (bètalights).
+
+4.3.A. Additionele efficiency-verhogende voorzieningen.
+
+### **B. Investeringen ten behoeve van energiebesparing bij apparatuur of processen**
+
+3. Warmtehergebruik door:
+
+3.2.A. Systemen voor de aanwending van afvalwarmte. Indien afvalwarmte wordt geleverd door een investerende onderneming, dan wordt de besparing op de locatie waar de afvalwarmte wordt aangewend meegenomen bij het bepalen van het besparingskental. De berekening dient te worden betrokken over het totale investeringsbedrag van alle betrokken ondernemingen.
+
+4.2.A. Toepassing van efficiëntere apparatuur.
+
+### **C. Investeringen ten behoeve van het gelijktijdig opwekken van warmte en kracht**
+
+Warmtekrachtinstallatie of brandstofcelsysteem voor het gelijktijdig opwekken van warmte en kracht, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 65% bedraagt. Onder het totaal energetisch rendement wordt verstaan de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof.
+
+### **D. Investeringen ten behoeve van energiebesparing bij transportmiddelen**
+
+1. Verbetering van de energie-efficiëntie door:
+
+1.2.A. Toepassing van efficiëntere apparatuur.
+
+2.1.B. Lichtgewicht aramide koelcontainer voor het wegvervoer, railvervoer, watervervoer of intermodaal vervoer, en bestaande uit: koelcontainer of opbouw van koelwagens of -opleggers, exclusief het aanwezige koelaggregaat, met aramide zijwanden met een lengte van ten minste 6 meter en met een dikte van het isolatiemateriaal van ten minste 42 mm. Hierbij dienen alle zijwanden ten minste 220 g/m2 aramideweefsel of -legsel te bevatten.
+
+4. Efficiënte verlichting door:
+
+### **E. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie**
+
+1. Zonne-energie door:
+
+1.1.B. Fotovoltaïsch zonne-energiesysteem voor het opwekken van elektrische energie uit zonlicht met behulp van zonnecellen, en bestaande uit: panelen met fotovoltaïsche zonnecellen met een gezamenlijk piekvermogen van ten minste 90 Watt, (eventueel) stroom/spanningsomvormer, (eventueel) accumulator.
+
+Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt voor windturbines die:
+
+3.1 B. Waterkrachtinstallatie voor het benutten van waterstroming of het verval van waterstromen voor de opwekking van elektrische of mechanische energie, en bestaande uit: waterrad of waterturbine, (eventueel) transmissie, (eventueel) generator, (eventueel) transformator, (eventueel) aansluiting op het elektriciteitsnet.
+
+4.1.B. Grondwarmtewisselaar voor:
+
+Onder biomassa wordt hier verstaan: materiaal dat voor wat betreft de massa van de brandbare componenten geheel of nagenoeg geheel bestaat uit koolstofverbindingen afkomstig uit een korte CO2-cyclus, waarbij geldt dat de eventueel in het materiaal aanwezige koolstofverbindingen afkomstig uit een lange CO2-cyclus onvermijdelijk in het materiaal aanwezig moeten zijn. Hierbij mag geen sprake zijn van bijstook van kunststoffen of bijmenging van kunststoffen.
+
+### **F. Energie-advies**
+
+Voor afnemers met een energiegebruik van meer dan 25.000 m3 aardgas (of aardgasequivalent) of 50.000 kWh elektriciteit per jaar gelden de volgende aanvullende eisen:
+
+### **Artikel 2**
+
+Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
 ### **Artikel 4**
 
