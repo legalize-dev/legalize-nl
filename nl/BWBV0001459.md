@@ -4,7 +4,7 @@ identifier: "BWBV0001459"
 country: "nl"
 rank: "verdrag"
 publication_date: "2005-12-25"
-last_updated: "2001-02-01"
+last_updated: "2005-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001459"
 soort: "verdrag"
@@ -73,37 +73,27 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-Voor de toepassing van dit akkoord wordt verstaan onder:
-
-- –. „overeenkomst": de op basis van artikel K.3 van het Verdrag betreffende de Europese Unie opgestelde overeenkomst inzake het gebruik van informatica op douanegebied;
-
-- –. „Hoge Overeenkomstsluitende Partijen": de Lid-Staten van de Europese Unie die partij zijn bij de overeenkomst;
-
-- –. „Partijen": de Lid-Staten van de Europese Unie die partij zijn bij dit akkoord.
+Vervallen
 
 ##### Artikel 2
 
-De overeenkomst is tussen de Hoge Overeenkomstsluitende Partijen die partij zijn bij dit akkoord van voorlopige toepassing met ingang van de eerste dag van de derde maand na de nederlegging van de akte van goedkeuring, aanvaarding of bekrachtiging van dit akkoord door de achtste Hoge Overeenkomstsluitende Partij die deze formaliteit vervult.
+Vervallen
 
 ##### Artikel 3
 
-De voor een voorlopige toepassing van de overeenkomst noodzakelijke overgangsbepalingen worden in onderlinge overeenstemming vastgesteld door de Hoge Overeenkomstsluitende Partijen tussen welke de overeenkomst van voorlopige toepassing is, in overleg met de overige Hoge Overeenkomstsluitende Partijen. Tijdens deze periode van voorlopige toepassing worden de taken van het Comité van artikel 16 van de overeenkomst uitgeoefend door de Hoge Overeenkomstsluitende Partijen, die in nauwe samenwerking met de Commissie van de Europese Gemeenschappen en in onderlinge overeenstemming besluiten nemen. Artikel 7, lid 3, en artikel 16 van de overeenkomst kunnen tijdens deze periode niet ten uitvoer worden gelegd.
+Vervallen
 
 ##### Artikel 4
 
-1. Dit akkoord staat open voor ondertekening door de Lid-Staten die de overeenkomst hebben ondertekend. Het is onderworpen aan goedkeuring, aanvaarding of bekrachtiging. Het treedt in werking op de eerste dag van de derde maand na de nederlegging van de akte van goedkeuring, aanvaarding of bekrachtiging door de achtste Hoge Overeenkomstsluitende Partij die deze formaliteit vervult.
-
-2. Voor Hoge Overeenkomstsluitende Partijen die hun akte van goedkeuring, aanvaarding of bekrachtiging naderhand nederleggen, treedt dit akkoord in werking op de eerste dag van de derde maand na de datum van die nederlegging.
-
-3. De akten van goedkeuring, aanvaarding of bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad van de Europese Unie, die als depositaris fungeert.
+Vervallen
 
 ##### Artikel 5
 
-Dit akkoord, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek, wordt nedergelegd bij de Secretaris-Generaal van de Raad van de Europese Unie, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan alle Partijen.
+Vervallen
 
 ##### Artikel 6
 
-Dit akkoord verstrijkt op het ogenblik van de inwerkingtreding van de overeenkomst.
+Vervallen
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze Overeenkomst hebben gesteld.
 
