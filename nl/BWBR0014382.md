@@ -4,7 +4,7 @@ identifier: "BWBR0014382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2005-01-01"
+last_updated: "2005-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014382"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 2. De vergoeding voor het in behandeling nemen van een verzoek tot autorisatie bedraagt € 196,-. Deze vergoeding wordt voldaan alvorens de aanvraag in behandeling wordt genomen.
 
-3. De kosten van het door TNO/PML uit te voeren onderzoek komen ten laste van en worden in rekening gebracht bij de aanvrager.
+3. De kosten van het door TNO DV uit te voeren onderzoek komen ten laste van en worden in rekening gebracht bij de aanvrager.
 
 4. De in het tweede en derde lid bedoelde kosten zijn verschuldigd aan de minister en worden voldaan op bankrekening 19.23.23.563 ten name van Inspectie Verkeer & Waterstaat, divisie Vervoer, vergunningen.
 
@@ -80,13 +80,13 @@ De aanvraag om autorisatie van de classificatiecode van vuurwerk gaat vergezeld 
 
 ##### Artikel 5
 
-De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2005-01-01&g=2005-01-01), nadat:
+De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2005-12-25&g=2005-12-25), nadat:
 
 - a. hem is gebleken dat de classificatie overeenkomt met de classificatie volgens de defaultlijst;
 
-- b. door TNO/PML de juistheid van de classificatie is bevestigd; of
+- b. door TNO DV de juistheid van de classificatie is bevestigd; of
 
-- c. de aanvrager bij TNO/PML een monster van het te testen vuurwerk heeft ingeleverd, waarop door TNO/PML testprocedures zijn uitgevoerd en dit vuurwerk een classificatiecode is toebedeeld.
+- c. de aanvrager bij TNO DV een monster van het te testen vuurwerk heeft ingeleverd, waarop door TNO DV testprocedures zijn uitgevoerd en dit vuurwerk een classificatiecode is toebedeeld.
 
 ##### Artikel 6
 
