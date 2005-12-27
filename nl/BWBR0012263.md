@@ -4,7 +4,7 @@ identifier: "BWBR0012263"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2005-12-27"
-last_updated: "2002-03-28"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012263"
 soort: "ministeriele-regeling"
@@ -44,62 +44,46 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder de buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012263&artikel=2&z=2002-03-28&g=2002-03-28).
+Vervallen
 
 ##### Artikel 2
 
-De personen, werkzaam als parkeercontroleur/reinigingsagent bij de sector Stadstoezicht van de Dienst Milieu en Beheer van de gemeente Leiden, zijn aangewezen als buitengewoon opsporingsambtenaar.
+Vervallen
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot de opsporing van feiten strafbaar gesteld bij of krachtens:
-
-- a. de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=180), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266), [267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267) en [435, onder ten vierde, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=435). De toepassing van de hiervoor bedoelde bevoegdheden dient zich te beperken tot stilstaand verkeer, met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=10), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) en [82 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82);
-
-- b. de parkeerverordening, respectievelijk de Algemene Plaatselijke Verordening van de gemeenten Leiden, Voorschoten en Oegstgeest, voor zover de betrokkenen daarvoor door het bevoegde bestuursorgaan zijn aangewezen.
-
-2. De opsporingsbevoegdheid geldt voor het grondgebied van de gemeenten Leiden, Voorschoten en Oegstgeest.
+Vervallen
 
 ##### Artikel 4
 
-1. Het college van procureurs-generaal is bevoegd tot de beëdiging van de buitengewoon opsporingsambtenaar.
-
-2. Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporingsambtenaar beëdigd worden.
+Vervallen
 
 ##### Artikel 5
 
-1. Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de Hoofdofficier van Justitie bij het arrondissementsparket te Den Haag.
-
-2. Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het politiekorps Hollands Midden.
+Vervallen
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar is bevoegd bij de opsporing van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012263&artikel=3&z=2002-03-28&g=2002-03-28), genoemde strafbare feiten gebruik te maken van de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8). Hij gedraagt zich overeenkomstig het bepaalde in [hoofdstuk 7 van de Ambtsinstructie voor de politie, de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=7).
+Vervallen
 
 ##### Artikel 7
 
-Het hoofd van de sector Stadstoezicht van de Dienst Milieu en Beheer van de gemeente Leiden brengt jaarlijks, voor 1 april, met betrekking tot de bij die dienst werkzame buitengewoon opsporingsambtenaren verslag uit over:
-
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012263&artikel=2&z=2002-03-28&g=2002-03-28) genoemde functie;
-
-- b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
-
-- c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor de CITO-toets en hoeveel personen in dat jaar voor die CITO-toets zijn geslaagd.
+Vervallen
 
 ##### Artikel 8
 
-Het besluit buitengewoon opsporingsambtenaar Dienst Parkeerbeheer gemeente Leiden 1995 wordt ingetrokken.
+Vervallen
 
 ##### Artikel 9
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, welke zijn uitgevaardigd op het in [artikel 8 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012263&artikel=8&z=2002-03-28&g=2002-03-28) omschreven besluit, zijn van kracht tot de aan de in die akten en overige benoemingsbescheiden vermelde geldigheidsdatum.
+Vervallen
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de tweede dag na publicatie van de Staatscourant waarin het is geplaatst en werkt terug tot 27 december 2000 en vervalt op 27 december 2005.
+Vervallen
 
 ##### Artikel 11
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar van de sector Stadstoezicht van de Dienst Milieu en Beheer van de gemeente Leiden 2001.
+Vervallen
 
 Dit besluit zal in de Staatscourant en het Algemeen Politieblad worden geplaatst.
