@@ -4,7 +4,7 @@ identifier: "BWBR0019057"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-12-09"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019057"
 soort: "wet"
@@ -100,11 +100,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Het UWV stelt op aanvraag vast of recht op een uitkering op grond van deze wet ontstaat.
 
-2. Het UWV stelt de verzekerde van de mogelijkheid van het doen van een aanvraag schriftelijk in kennis uiterlijk 20 maanden na aanvang van de wachttijd. Indien [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2005-12-09&g=2005-12-09), van toepassing is doet het UWV deze kennisgeving bij de bekendmaking van de in dat artikellid bedoelde beschikking.
+2. Het UWV stelt de verzekerde van de mogelijkheid van het doen van een aanvraag schriftelijk in kennis uiterlijk 20 maanden na aanvang van de wachttijd. Indien [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2005-12-28&g=2005-12-28), van toepassing is doet het UWV deze kennisgeving bij de bekendmaking van de in dat artikellid bedoelde beschikking.
 
-3. De verzekerde doet zijn aanvraag binnen 21 maanden na aanvang van de wachttijd, tenzij [artikel 24, derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2005-12-09&g=2005-12-09) van toepassing is, in welk geval het UWV bij de bekendmaking van de in dat artikellid genoemde beschikking aangeeft binnen welke termijn de aanvraag door verzekerde wordt gedaan.
+3. De verzekerde doet zijn aanvraag binnen 21 maanden na aanvang van de wachttijd, tenzij [artikel 24, derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2005-12-28&g=2005-12-28) van toepassing is, in welk geval het UWV bij de bekendmaking van de in dat artikellid genoemde beschikking aangeeft binnen welke termijn de aanvraag door verzekerde wordt gedaan.
 
-4. Indien het UWV de in het eerste lid bedoelde aanvraag afwijst omdat een uitsluitingsgrond als bedoeld in [artikel 43, onderdeel b, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2005-12-09&g=2005-12-09), van toepassing is maakt het UWV melding van de mogelijkheid tot het doen van een nieuwe aanvraag alsmede van de termijn waarbinnen een nieuwe aanvraag dient te worden gedaan.
+4. Indien het UWV de in het eerste lid bedoelde aanvraag afwijst omdat een uitsluitingsgrond als bedoeld in [artikel 43, onderdeel b, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2005-12-28&g=2005-12-28), van toepassing is maakt het UWV melding van de mogelijkheid tot het doen van een nieuwe aanvraag alsmede van de termijn waarbinnen een nieuwe aanvraag dient te worden gedaan.
 
 5. Indien het vierde lid van toepassing is doet de verzekerde zijn nieuwe aanvraag binnen de op grond van dat lid door het UWV aangegeven termijn.
 
@@ -116,13 +116,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 65. Reïntegratieverslag bij aanvraag
 
-De aanvraag voor een uitkering op grond van deze wet gaat vergezeld van een reïntegratieverslag als bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2005-12-09&g=2005-12-09). De eerste zin is niet van toepassing voorzover [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=26&z=2005-12-09&g=2005-12-09), toepassing vindt. Het UWV beoordeelt of de werkgever en de verzekerde dan wel de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1) en de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot hem in dienstbetrekking stonden in redelijkheid hebben kunnen komen tot de reïntegratie-inspanningen, die zijn verricht.
+De aanvraag voor een uitkering op grond van deze wet gaat vergezeld van een reïntegratieverslag als bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2005-12-28&g=2005-12-28). De eerste zin is niet van toepassing voorzover [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=26&z=2005-12-28&g=2005-12-28), toepassing vindt. Het UWV beoordeelt of de werkgever en de verzekerde dan wel de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1) en de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot hem in dienstbetrekking stonden in redelijkheid hebben kunnen komen tot de reïntegratie-inspanningen, die zijn verricht.
 
 ##### Artikel 66. Aanvraag van de uitkering bij verkorte wachttijd
 
-1. Een aanvraag voor een verkorte wachttijd als bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2005-12-09&g=2005-12-09), wordt tevens aangemerkt als aanvraag, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2005-12-09&g=2005-12-09).
+1. Een aanvraag voor een verkorte wachttijd als bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2005-12-28&g=2005-12-28), wordt tevens aangemerkt als aanvraag, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2005-12-28&g=2005-12-28).
 
 2. Een aanvraag voor een verkorte wachttijd kan slechts eenmaal worden gedaan.
+
+3. Op verzoek van de werknemer verstrekt de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), die belast is met de bijstand, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14), een verklaring waaruit de medische situatie alsmede de vooruitzichten van de werknemer blijken. De verklaring wordt mede opgesteld op basis van gegevens inzake de medische specialistische onderzoeken of behandelingen die de aanvrager heeft ondergaan, tenzij in redelijkheid niet van de bedrijfsarts kan worden gevergd dat hij deze gegevens aan zijn verklaring ten grondslag legt.
+
+4. Een aanvraag voor een verkorte wachttijd gaat vergezeld van de verklaring, bedoeld in het derde lid.
+
+5. Indien de aanvraag voor een verkorte wachttijd niet vergezeld gaat van een verklaring als bedoeld in het derde lid, wordt de aanvraag niet in behandeling genomen.
+
+6. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=65&z=2005-12-28&g=2005-12-28) is niet van toepassing op een aanvraag voor een verkorte wachttijd.
 
 #### § 8.2. De betaling van de uitkering door het UWV
 
