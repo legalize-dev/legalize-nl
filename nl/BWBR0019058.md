@@ -4,7 +4,7 @@ identifier: "BWBR0019058"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2005-12-09"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019058"
 soort: "wet"
@@ -180,5 +180,129 @@ Dit onderdeel is nog niet inwerking getreden
 #### § 8. Volksgezondheid Welzijn en Sport
 
 ### Hoofdstuk 2. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2.1. Verruiming grondslag lagere regelgeving
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.2. Verruiming grondslag overige lagere regelgeving
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.3. Overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.4. Oud overgangsrecht [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.5. Opzegging ILO-Verdrag nr. 118
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.6. Experimentele prb-regeling
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.7. Overgangsrecht Experimentele prb-regeling
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.7a. Persoonsgebonden reïntegratiebudget voor zieke werknemer in dienstbetrekking
+
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van een werknemer die aanspraak heeft op loon als bedoeld in [artikel 7:629 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) en van de persoon, bedoeld in [artikel 63, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), aan wie de eigenrisicodrager ziekengeld moet betalen besluiten:
+
+- a. aan de aanvrager subsidie te verstrekken in de vorm van een op zijn arbeidsinschakeling gericht persoonsgebonden reïntegratiebudget; of
+
+- b. met een natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert, een overeenkomst te sluiten die is gericht op de arbeidsinschakeling van deze aanvrager;
+
+indien de aanvrager in verband met ziekte of gebrek een belemmering heeft bij het verrichten van arbeid.
+
+2. Een subsidie als bedoeld in het eerste lid, onderdeel a, of een overeenkomst als bedoeld in het eerste lid, onderdeel b, kan het Uitvoeringsinstituut werknemersverzekeringen op aanvraag van een in het eerste lid bedoelde persoon uitsluitend verstrekken of sluiten, indien dit instituut van oordeel is dat in het bedrijf van zijn werkgever of een ander bedrijf geen passende arbeid aanwezig is die de betrokken persoon kan verrichten.
+
+3. De in het eerste lid bedoelde subsidie-ontvanger laat de werkzaamheden die zijn gericht op arbeidsinschakeling, bedoeld in het eerste lid, verrichten door een natuurlijke persoon dan wel rechtspersoon, die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert.
+
+4. De in het eerste lid bedoelde aanvrager verstrekt de gegevens, voorzover deze noodzakelijk zijn voor de uitvoering van de werkzaamheden die zijn gericht op arbeidsinschakeling, bedoeld in het eerste lid, alsmede zijn sociaal-fiscaalnummer aan de natuurlijke persoon of rechtspersoon, die in het kader van de uitoefening van beroep of bedrijf zijn inschakeling in de arbeid bevordert.
+
+5. De in het vierde lid bedoelde natuurlijke persoon of rechtspersoon verwerkt de in dat lid bedoelde gegevens slechts voorzover dat noodzakelijk is voor de werkzaamheden, bedoeld in het eerste lid, en gebruikt slechts met dat doel het sociaal-fiscaalnummer bij die verwerking.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent dit artikel, waarbij kan worden bepaald in welke situaties een deel van de subsidiekosten in rekening kan worden gebracht bij de werkgever.
+
+7. Een algemene maatregel van bestuur als bedoeld in het vierde lid treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
+
+##### Artikel 2.7b. Overgangsrecht persoonsgebonden reïntegratiebudget voor zieke werknemer in dienstbetrekking
+
+Het [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267) berust met ingang van de dag waarop [artikel 33a van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=33a), op grond van artikel [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.10&z=2005-12-28&g=2005-12-28), vervalt, mede op [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.7&z=2005-12-28&g=2005-12-28) van deze wet.
+
+##### Artikel 2.8. Middelen tot dekking van de uitgaven van het Reïntegratiefonds
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.9. Uitgaven ten laste van het Reïntegratiefonds
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.10. Intrekking [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.11. Slotbepaling betreffende [artikel 1.4, onderdeel X](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.4&z=2005-12-28&g=2005-12-28), [artikel 76a Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.12. Slotbepaling betreffende de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.13. Slotbepaling betreffende [artikel 61, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=61)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.14. Slotbepaling betreffende de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.15. Slotbepaling betreffende [artikel 34 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=34)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.15a. Slotbepaling betreffende [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=1&paragraaf=1&artikel=1.22&z=2005-12-28&g=2005-12-28)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.16. Slotbepaling betreffende [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.9&z=2005-12-28&g=2005-12-28)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.16a. [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.17. Overgangsrecht onderwijsvoorzieningen
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.17a. Slotbepaling betreffende [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&hoofdstuk=2&artikel=2.17&z=2005-12-28&g=2005-12-28)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.18. Regelgevende bevoegdheden ten behoeve van de invoering
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.19. Nummering
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.20. Inwerkingtreding
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2.21. Citeertitel
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
