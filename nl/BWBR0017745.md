@@ -4,7 +4,7 @@ identifier: "BWBR0017745"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-12-09"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017745"
 soort: "wet"
@@ -78,31 +78,49 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. Indien het eerste lid toepassing vindt, strekt de schriftelijke garantie die aan het UWV is overgelegd met betrekking tot het zelf dragen van het risico van betaling van arbeidsongeschiktheidsuitkering overeenkomstig [hoofdstuk IIIA van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=IIIA) zich mede uit tot het zelf dragen van het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9).
 
-4. In afwijking van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-09&g=2005-12-09) verleent het UWV aan de werkgever op wie het eerste lid niet van toepassing is op aanvraag toestemming om het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) zelf te dragen, indien de werkgever een schriftelijke garantie overlegt, waaruit blijkt dat een kredietinstelling of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen. De overheidswerkgever, bedoeld in artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen, voorzover door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen, is ontheven van de verplichting tot het overleggen van een schriftelijke garantie, bedoeld in de eerste zin. De toestemming wordt niet verleend gedurende drie jaren nadat het door de werkgever zelf dragen van het risico van betaling van arbeidsongeschiktheidsuitkering overeenkomstig [hoofdstuk IIIA van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=IIIA) is beëindigd.
+4. In afwijking van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) verleent het UWV aan de werkgever op wie het eerste lid niet van toepassing is op aanvraag toestemming om het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) zelf te dragen, indien de werkgever een schriftelijke garantie overlegt, waaruit blijkt dat een kredietinstelling of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen. De overheidswerkgever, bedoeld in artikel 1, onderdeel k, van de Wet overheidspersoneel onder de werknemersverzekeringen, voorzover door Onze Minister in overeenstemming met Onze Minister van Financiën aangewezen, is ontheven van de verplichting tot het overleggen van een schriftelijke garantie, bedoeld in de eerste zin. De toestemming wordt niet verleend gedurende drie jaren nadat het door de werkgever zelf dragen van het risico van betaling van arbeidsongeschiktheidsuitkering overeenkomstig [hoofdstuk IIIA van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=IIIA) is beëindigd.
 
 5. De aanvraag bedoeld in het vierde lid, wordt uiterlijk gedaan op 28 december 2005.
 
 6. Op een aanvraag als bedoeld in het vierde lid beslist het UWV binnen 26 weken na de ontvangst van die aanvraag.
 
-7. Indien een werkgever een aanvraag als bedoeld in het vierde lid heeft ingediend is vanaf 29 december 2005 tot de datum waarop het UWV op de aanvraag heeft beslist [artikel 42 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=42) van overeenkomstige toepassing en wordt met betrekking tot de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2005-12-09&g=2005-12-09), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=29&z=2005-12-09&g=2005-12-09), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=30&z=2005-12-09&g=2005-12-09), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=37&z=2005-12-09&g=2005-12-09), voor «eigenrisicodrager» gelezen: de werkgever die een aanvraag als bedoeld in artikel 122c, vierde lid, van de Wet financiering sociale verzekering heeft ingediend.
+7. Indien een werkgever een aanvraag als bedoeld in het vierde lid heeft ingediend is vanaf 29 december 2005 tot de datum waarop het UWV op de aanvraag heeft beslist [artikel 42 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=42) van overeenkomstige toepassing en wordt met betrekking tot de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=27&z=2005-12-28&g=2005-12-28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=29&z=2005-12-28&g=2005-12-28), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=3&paragraaf=1&artikel=30&z=2005-12-28&g=2005-12-28), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=37&z=2005-12-28&g=2005-12-28), voor «eigenrisicodrager» gelezen: de werkgever die een aanvraag als bedoeld in artikel 122c, vierde lid, van de Wet financiering sociale verzekering heeft ingediend.
 
 8. Indien het UWV de werkgever op grond van het vierde lid toestemming verleent om het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) zelf te dragen, wordt de werkgever geacht dit risico zelf te hebben gedragen met ingang van 29 december 2005.
 
-9. De werkgever die in 2005 of 2006 zelf het risico draagt van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) krijgt in afwijking van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2005-12-09&g=2005-12-09) in 2007 zolang hij zelf dat risico draagt een korting op de basispremie ter hoogte van de door hem in 2005 en 2006 betaalde basispremie WGA vermenigvuldigd met de breuk waarvan de teller wordt gevormd door het aantal hele kalendermaanden dat de werkgever het risico in 2005 en 2006 heeft gedragen en de noemer 12 bedraagt.
+9. De werkgever die in 2005 of 2006 zelf het risico draagt van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) krijgt in afwijking van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=4&paragraaf=4&artikel=36&z=2005-12-28&g=2005-12-28) in 2007 zolang hij zelf dat risico draagt een korting op de basispremie ter hoogte van de door hem over 2005 en 2006 betaalde basispremie WGA vermenigvuldigd met de breuk waarvan de teller wordt gevormd door het aantal hele kalendermaanden dat de werkgever het risico in 2005 en 2006 heeft gedragen en de noemer 12 bedraagt.
 
-10. Indien het eerste lid toepassing heeft gevonden is [artikel 40, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-09&g=2005-12-09), niet van toepassing.
+10. Indien het eerste lid toepassing heeft gevonden is [artikel 40, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28), niet van toepassing.
 
-11. Aan de werkgever die eigenrisicodrager is op grond van dit artikel wordt geacht toestemming te zijn verleend om zelf het risico van betaling van de arbeidsongeschiktheidsuitkering te dragen op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-09&g=2005-12-09).
+11. Aan de werkgever die eigenrisicodrager is op grond van dit artikel wordt geacht toestemming te zijn verleend om zelf het risico van betaling van de arbeidsongeschiktheidsuitkering te dragen op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28).
+
+12. Het vijfde lid is niet van toepassing op de startende werkgever. In het zevende lid wordt ten aanzien van de startende werkgever voor «vanaf 29 december 2005» gelezen: vanaf het tijdstip waarop deze aanvangt werkgever te zijn.
+
+13. Het UWV is bevoegd te beslissen op een bezwaarschrift dat voor de datum van inwerkingtreding van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) is ingediend tegen een beschikking op grond van dit artikel.
+
+14. De inspecteur is bevoegd te beslissen op een bezwaarschrift dat op of na de datum van inwerkingtreding van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) is ingediend tegen een beschikking op grond van dit artikel.
+
+15. Op beroep tegen een uitspraak op een bezwaarschrift van het UWV inzake een beschikking op grond van dit artikel, waarop op de datum van inwerkingtreding van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) nog geen uitspraak is gedaan, wordt beslist door de rechter waarbij het beroep aanhangig is.
+
+16. In bestuursrechtelijke gedingen, waarbij beroep na de inwerkingtreding van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) wordt ingediend tegen een uitspraak op een bezwaarschrift van het UWV inzake een beschikking op grond van dit artikel, treedt de inspecteur als partij in de plaats van het UWV.
 
 ##### Artikel 122ca. Overgangsrecht geen eigenrisicodragen kleine werkgevers
 
-In afwijking van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-09&g=2005-12-09) en [artikel 122c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122c&z=2005-12-09&g=2005-12-09), wordt geen toestemming verleend om in de jaren 2005 en 2006 het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) zelf te dragen aan de werkgever te wiens laste, in het tweede kalenderjaar dat aan het premiejaar vooraf is gegaan, een premieplichtig loon is gekomen dat gelijk is of minder bedraagt dan 25 maal het gemiddelde premieplichtig loon per werknemer in dat kalenderjaar.
+In afwijking van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=3&afdeling=5&paragraaf=1&artikel=40&z=2005-12-28&g=2005-12-28) en [artikel 122c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&hoofdstuk=7a&artikel=122c&z=2005-12-28&g=2005-12-28), wordt geen toestemming verleend om in de jaren 2005 en 2006 het risico van betaling van WGA-uitkering overeenkomstig [hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9) zelf te dragen aan de werkgever te wiens laste, in het tweede kalenderjaar dat aan het premiejaar vooraf is gegaan, een premieplichtig loon is gekomen dat gelijk is of minder bedraagt dan 25 maal het gemiddelde premieplichtig loon per werknemer in dat kalenderjaar.
 
 ##### Artikel 122d. Overgangsrecht eigenrisicodragen arbeidsongeschiktheidsuitkering [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 122e. Overgangsrecht opslag en korting gedifferentieerde premie
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 8. Slot- en strafbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 122ab. Overgangsrecht premiekorting i.v.m. gewijzigd loonsanctiesysteem
 
 Dit onderdeel is nog niet inwerking getreden
 
