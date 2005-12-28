@@ -4,7 +4,7 @@ identifier: "BWBR0015927"
 country: "nl"
 rank: "wet"
 publication_date: "2005-12-28"
-last_updated: "2004-02-01"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015927"
 soort: "wet"
@@ -52,7 +52,7 @@ Wijzigt de onteigeningswet.
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+Vervallen
 
 ##### Artikel IV
 
