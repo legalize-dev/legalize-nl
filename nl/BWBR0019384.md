@@ -4,7 +4,7 @@ identifier: "BWBR0019384"
 country: "nl"
 rank: "wet"
 publication_date: "2007-01-01"
-last_updated: "2004-10-01"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019384"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2005-12-28"
 
 ### Hoofdstuk 1. Ministerie van Sociale Zaken en Werkgelegenheid
 
-### Hoofdstuk 2. Ministerie van Justitie
+### Hoofdstuk 1. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ### Hoofdstuk 3. Ministerie van Binnenlandse Zaken
 
@@ -144,39 +144,5 @@ Dit onderdeel is nog niet inwerking getreden
 ### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
 
 ### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XVIc. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
-
-Wijzigt het Burgerlijk Wetboek Boek 7.
-
-##### Artikel XVII. [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
-
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
-
-##### Artikel XIX. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
-
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel XX. Slotbepaling betreffende de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel XXI. Nummering
-
-Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Sociale Zaken en Werkgelegenheid de aanhalingen van de artikelen van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) die voorkomen in deze wet in overeenstemming met de op grond van [artikel 140 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=140) vastgestelde nummering van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
-
-##### Artikel XXII. Inwerkingtreding
-
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel XXIII. Citeertitel
-
-Deze wet wordt aangehaald als: Aanpassings- en verzamelwet Wet werk en inkomen naar arbeidsvermogen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
