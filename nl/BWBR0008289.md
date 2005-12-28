@@ -4,7 +4,7 @@ identifier: "BWBR0008289"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2000-09-20"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008289"
 soort: "wet"
@@ -51,11 +51,11 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2000-09-20&g=2000-09-20);
+- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2005-12-28&g=2005-12-28);
 
-- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2000-09-20&g=2000-09-20);
+- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2005-12-28&g=2005-12-28);
 
-- d. meerjaren-activiteitenprogramma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2000-09-20&g=2000-09-20).
+- d. meerjaren-activiteitenprogramma: een programma als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2005-12-28&g=2005-12-28).
 
 ### HOOFDSTUK 2. INSTELLING, TAAK EN WERKWIJZE
 
@@ -63,7 +63,7 @@ In deze wet wordt verstaan onder:
 
 1. Er is een Rijksinstituut voor volksgezondheid en milieu, dat ressorteert onder Onze Minister.
 
-2. De leiding van het RIVM berust bij de directeur-generaal van het RIVM. De directeur-generaal wordt door Onze Minister in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij benoemd.
+2. De leiding van het RIVM berust bij de directeur-generaal van het RIVM. De directeur-generaal wordt door Onze Minister in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit benoemd.
 
 ##### Artikel 3
 
@@ -83,9 +83,9 @@ In deze wet wordt verstaan onder:
 
 2. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, een meerjaren-activiteitenprogramma op, waarin zijn opgenomen alle activiteiten op het terrein van het milieu, die het RIVM voornemens is in de komende jaren uit te voeren. Het meerjaren-activiteitenprogramma en wijzigingen daarin behoeven de goedkeuring van Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-3. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister van Landbouw, Natuurbeheer en Visserij, een meerjarenactiviteitenprogramma op, waarin zijn opgenomen de activiteiten op het terrein van natuur, bos en landschap die het RIVM en de andere betrokken instellingen in het kader van de opstelling van de rapporten, bedoeld in [artikel 9a van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=9a), voornemens zijn in de komende jaren uit te voeren. Het meerjarenprogramma en wijzigingen daarin behoeven de goedkeuring van Onze Minister en Onze Minister van Landbouw, Natuurbeheer en Visserij.
+3. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, een meerjarenactiviteitenprogramma op, waarin zijn opgenomen de activiteiten op het terrein van natuur, bos en landschap die het RIVM en de andere betrokken instellingen in het kader van de opstelling van de rapporten, bedoeld in [artikel 9a van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=9a), voornemens zijn in de komende jaren uit te voeren. Het meerjarenprogramma en wijzigingen daarin behoeven de goedkeuring van Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-4. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij, een meerjaren-activiteitenprogramma op van onderzoek dat hij noodzakelijk acht voor het verwerven van inzichten die nodig zijn om de in [artikel 3, eerste lid, onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2000-09-20&g=2000-09-20), genoemde taken adequaat te kunnen uitvoeren.
+4. De directeur-generaal stelt jaarlijks, na overleg met Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit, een meerjaren-activiteitenprogramma op van onderzoek dat hij noodzakelijk acht voor het verwerven van inzichten die nodig zijn om de in [artikel 3, eerste lid, onder **a** en **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2005-12-28&g=2005-12-28), genoemde taken adequaat te kunnen uitvoeren.
 
 ##### Artikel 5
 
@@ -93,11 +93,11 @@ Onze Minister geeft aan de directeur-generaal geen aanwijzingen met betrekking t
 
 ##### Artikel 6
 
-De directeur-generaal zendt jaarlijks voor 1 juni aan Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij een verslag van de werkzaamheden van het RIVM in het afgelopen kalenderjaar.
+De directeur-generaal zendt jaarlijks voor 1 juni aan Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit een verslag van de werkzaamheden van het RIVM in het afgelopen kalenderjaar.
 
 ##### Artikel 7
 
-Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij zenden rapporten als bedoeld in [artikel 3, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2000-09-20&g=2000-09-20), alsmede de meerjaren-activiteitenprogramma's, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2000-09-20&g=2000-09-20), en het verslag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=6&z=2000-09-20&g=2000-09-20), aan de Staten-Generaal.
+Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit zenden rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2005-12-28&g=2005-12-28), alsmede de meerjaren-activiteitenprogramma's, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=4&z=2005-12-28&g=2005-12-28), en het verslag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=6&z=2005-12-28&g=2005-12-28), aan de Staten-Generaal.
 
 ### HOOFDSTUK 3. COMMISSIE VAN TOEZICHT
 
@@ -107,11 +107,11 @@ Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Mi
 
 2. De Commissie van toezicht bestaat uit:
 
-- a. twee door Onze Minister in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij op voordracht van de Koninklijke Nederlandse Academie van Wetenschappen telkens voor vier jaren te benoemen leden, waaronder de voorzitter, en
+- a. twee door Onze Minister in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit op voordracht van de Koninklijke Nederlandse Academie van Wetenschappen telkens voor vier jaren te benoemen leden, waaronder de voorzitter, en
 
 - b. telkens één lid, aan te wijzen door de directie van het Centraal Planbureau, de directeur van het Sociaal en Cultureel Planbureau, het hoofd van de Rijksplanologische Dienst en de directeur-generaal voor de statistiek.
 
-3. Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij kunnen daarnaast telkens voor vier jaren personen, die deskundig zijn op het terrein van het wetenschappelijk onderzoek op het gebied van de volksgezondheid, het milieu of natuur, bos of landschap, tot lid van de commissie benoemen.
+3. Onze Minister en Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit kunnen daarnaast telkens voor vier jaren personen, die deskundig zijn op het terrein van het wetenschappelijk onderzoek op het gebied van de volksgezondheid, het milieu of natuur, bos of landschap, tot lid van de commissie benoemen.
 
 ### HOOFDSTUK 4. SLOT- EN OVERGANGSBEPALINGEN
 
