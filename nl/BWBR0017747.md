@@ -4,7 +4,7 @@ identifier: "BWBR0017747"
 country: "nl"
 rank: "wet"
 publication_date: "2008-01-01"
-last_updated: "2005-05-25"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017747"
 soort: "wet"
@@ -177,5 +177,15 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 53. Citeertitel
 
 Deze wet wordt aangehaald als: Invoeringswet Wet financiering sociale verzekeringen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 48a. Financiering loopbaanonderbreking met vervanging door ANW-gerechtigde
+
+De Sociale verzekeringsbank hevelt het bedrag van de uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dat op grond van [artikel 18 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=18) niet tot uitbetaling komt in verband met het ontvangen van inkomen als vervanger, en dat ten laste komt van het Nabestaandenfonds voor de duur van de periode waarin op grond van [artikel IXa van de Wet van 28 april 2005 tot wijziging van de Wet arbeid en zorg en enige andere wetten in verband met het tot stand brengen van een recht op langdurend zorgverlof en het aanbrengen van enkele verbeteringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018262&artikel=IXa) (Stb. 274) recht bestaat op een financiële tegemoetkoming op grond van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7), over naar het Uitvoeringsinstituut werknemersverzekeringen ten gunste van het Algemeen Werkloosheidsfonds.
+
+##### Artikel 48b. Verdrag met het Koninkrijk België
+
+Zolang in artikel 27 van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocollen (Trb. 2001, 136), melding wordt gemaakt van de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), wordt de premie voor de volksverzekeringen voor de toepassing van dat artikel geacht te zijn geheven krachtens de [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538), zoals deze wet luidde op de dag voor inwerkingtreding van [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&hoofdstuk=4&artikel=48&z=2005-12-29&g=2005-12-29), van deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
