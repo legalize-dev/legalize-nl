@@ -4,7 +4,7 @@ identifier: "BWBR0002622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2000-05-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002622"
 soort: "ministeriele-regeling"
@@ -40,17 +40,17 @@ Besluit:
 
 ##### Artikel 1
 
-1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt als werknemer beschouwd degene, die wegens ziekte niet werkt, doch aan wie geen ziekengeld ingevolge de verplichte verzekering wordt verleend:
+1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene, die wegens ziekte niet werkt, doch aan wie geen ziekengeld ingevolge de verplichte verzekering wordt verleend:
 
-- a. over de zaterdagen en de zondagen, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), dan wel op grond van het bepaalde bij of krachtens [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), of [artikel 32 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=32);
+- a. over de zaterdagen en de zondagen, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), dan wel op grond van het bepaalde bij of krachtens [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=32), of [artikel 32a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=32a);
 
-- b. op grond van [artikel 44, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=44), mits de periode, waarover op grond van dit artikel geen ziekengeld wordt verleend, voorafgaat aan of een onderbreking vormt van een periode, waarover wel ziekengeld wordt verleend, dan wel volgt op een periode, waarover ziekengeld wordt verleend, en onmiddellijk voorafgaat aan een tijdvak, waarover recht bestaat op arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van ten minste 45%.
+- b. op grond van [artikel 44, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=44), mits de periode, waarover op grond van dit artikel geen ziekengeld wordt verleend, voorafgaat aan of een onderbreking vormt van een periode, waarover wel ziekengeld wordt verleend, dan wel volgt op een periode, waarover ziekengeld wordt verleend, en onmiddellijk voorafgaat aan een tijdvak, waarover recht bestaat op arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), berekend naar een arbeidsongeschiktheid van ten minste 45%, of waarover recht bestaat op een arbeidsongeschiktheidsuitkering als bedoeld in [hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) of een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) voor zover de verzekerde in staat is met arbeid ten hoogste 55% te verdienen van het maatmaninkomen per uur.
 
-2. Voor de toepassing van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) is het bepaalde in het vorige lid niet van toepassing, indien de betrokkene de leeftijd van 65 jaar heeft bereikt.
+2. Voor de toepassing van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is het bepaalde in het vorige lid niet van toepassing, indien de betrokkene de leeftijd van 65 jaar heeft bereikt.
 
 ##### Artikel 2
 
-1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt als werknemer beschouwd degene, die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
+1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene, die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
 
 - a. op grond van het bepaalde in [artikel 19, eerste lid, onderdelen k en l, en derde lid van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) (Stb. 1986, 566);
 
@@ -62,7 +62,7 @@ Besluit:
 
 ##### Artikel 3
 
-Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt als werknemer beschouwd degene wiens dienstbetrekking is geëindigd anders dan door opzegging met inachtneming van de rechtens geldende termijn, doch aan wie geen uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt verleend, aangezien hij in verband met die beëindiging recht heeft op inkomsten die worden gelijkgesteld met het recht op onverminderde doorbetaling van zijn loon als bedoeld in [artikel 16, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16).
+Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene wiens dienstbetrekking is geëindigd anders dan door opzegging met inachtneming van de rechtens geldende termijn, doch aan wie geen uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt verleend, aangezien hij in verband met die beëindiging recht heeft op inkomsten die worden gelijkgesteld met het recht op onverminderde doorbetaling van zijn loon als bedoeld in [artikel 16, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16).
 
 ##### Artikel 4
 
