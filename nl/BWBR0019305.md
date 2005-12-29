@@ -165,33 +165,3 @@ Deze regeling treedt in werking met ingang van 29 december 2005.
 Deze regeling wordt aangehaald als: Regeling vrijstelling verplichtingen WW en Wet WIA.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a. Vrijstelling in verband met pensioen, prepensioen of verlof
-
-Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de persoon die met verlof is dan wel die pensioen of prepensioen ontvangt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Aanvulling wettelijke grondslag
-
-Deze regeling berust mede op [artikel 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Vrijstelling Wajongers tijdens studie of scholing
-
-De [artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), [2:32](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:32) en [2:39, tweede, derde en vierde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39) zijn niet van toepassing op de jonggehandicapte, bedoeld in [artikel 2:43, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:43), tot twee maanden voor het beëindigen van de studie of scholing in verband waarmee hij inkomensondersteuning als bedoeld in [artikel 2:37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:37) ontvangt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6b. Vrijstelling in verband met een werkweek met evenveel uren als het gemiddeld aantal arbeidsuren
-
-1. Van de verplichtingen, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), is de werknemer drie maanden vrijgesteld indien hij evenveel:
-
-- a. arbeidsuren als bedoeld in [artikel 1a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1a), per week heeft; of
-
-- b. uren per week heeft waarover hij de hoedanigheid van werknemer verliest of heeft verloren als bedoeld in [artikel 1b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b), of [artikel 8, vierde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=8), als het gemiddeld aantal arbeidsuren als bedoeld in [artikel 16, tweede lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) en verwacht wordt dat deze werkzaamheden gedurende ten minste drie maanden zullen plaatsvinden.
-
-2. De vrijstelling wordt slechts eenmaal verleend gedurende een WW-recht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
