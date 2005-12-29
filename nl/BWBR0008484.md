@@ -4,7 +4,7 @@ identifier: "BWBR0008484"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2007-01-01"
-last_updated: "2001-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008484"
 soort: "ministeriele-regeling"
@@ -41,17 +41,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de toepassing van de WAO wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, en die een wachtgeld ontvangt uit hoofde van een dienstbetrekking die is geëindigd voor 1 januari 2001.
+1. Voor de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, en die een wachtgeld ontvangt uit hoofde van een dienstbetrekking die is geëindigd voor 1 januari 2001.
 
-2. Voor de toepassing van de WAO wordt eveneens als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt en die een wachtgeld ontvangt uit hoofde van een dienstbetrekking die is geëindigd op of na 1 januari 2001, voorzover het recht op wachtgeld zich uitstrekt over een periode gelegen na het bereiken van de volledige uitkeringsduur van het, in verband met dezelfde werkloosheid ontstane, recht op uitkering op grond van de Werkloosheidswet, bedoeld in hoofdstuk IIa of IIb van die wet, inclusief een eventuele verlenging van die duur op grond van artikel 76 van die wet.
+2. Voor de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt eveneens als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt en die een wachtgeld ontvangt uit hoofde van een dienstbetrekking die is geëindigd op of na 1 januari 2001, voorzover het recht op wachtgeld zich uitstrekt over een periode gelegen na het bereiken van de volledige uitkeringsduur van het, in verband met dezelfde werkloosheid ontstane, recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in [hoofdstuk IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIa) of [IIb van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IIb), inclusief een eventuele verlenging van die duur op grond van [artikel 76 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76).
 
 ##### Artikel 3
 
-1. Voor de toepassing van de WAO wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, doch aan wie geen wachtgeld als bedoeld in artikel 2 wordt verleend:
+1. Voor de toepassing van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd de persoon, die wegens werkloosheid niet werkt, doch aan wie geen wachtgeld als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2005-12-29&g=2005-12-29) wordt verleend:
 
-- a. op grond van een bepaling overeenkomstig artikel 19, eerste lid, onderdelen k en l, en derde lid van de WW;
+- a. op grond van een bepaling overeenkomstig [artikel 19, eerste lid, onderdelen k en l, en derde lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19);
 
-- b. op grond van een bepaling overeenkomstig de artikelen 19, eerste lid, onderdelen f en h, 24, eerste lid, onderdeel b, 25, en 26, eerste lid, en 27 van de WW en de daarop berustende bepalingen;
+- b. op grond van een bepaling overeenkomstig de [artikelen 19, eerste lid, onderdelen f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27) en de daarop berustende bepalingen;
 
 - c. over de zaterdagen en zondagen.
 
@@ -59,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Als werkgever van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2001-01-01&g=2001-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=3&z=2001-01-01&g=2001-01-01) bedoelde werknemer wordt beschouwd de instantie die de daar bedoelde bezoldiging of uitkering betaalt of zou betalen.
+Als werkgever van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=2&z=2005-12-29&g=2005-12-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008484&artikel=3&z=2005-12-29&g=2005-12-29) bedoelde werknemer wordt beschouwd de instantie die de daar bedoelde bezoldiging of uitkering betaalt of zou betalen.
 
 ##### Artikel 5
 
