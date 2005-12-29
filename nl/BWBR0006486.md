@@ -4,7 +4,7 @@ identifier: "BWBR0006486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "1998-04-19"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006486"
 soort: "ministeriele-regeling"
@@ -43,7 +43,11 @@ Besluit:
 
 ##### Artikel 1
 
-Ten aanzien van de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering en inkomsten geniet wegens het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezingen wordt samengesteld of van een algemeen bestuur van een waterschap, vinden artikel 44, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering, [artikel 58, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 50, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) geen toepassing.
+Ten aanzien van de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering en:
+
+- a. inkomsten geniet wegens het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezingen wordt samengesteld of van een algemeen bestuur van een waterschap; danwel
+
+- b. inkomsten uit arbeid verricht, die bestaan uit loon op grond van een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2)en [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3), vinden [artikel 44, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 52, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=52), [artikel 58, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 50, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=52) geen toepassing.
 
 ##### Artikel 2
 
