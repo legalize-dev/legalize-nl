@@ -4,7 +4,7 @@ identifier: "BWBR0016067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-22"
-last_updated: "2004-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016067"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 2. Indien het vrijlatingsbedrag, bedoeld in [artikel 15b, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15b) terzake van regelmatig woon–werk verkeer wordt herzien, wordt het bedrag, bedoeld in het eerste lid, onderdeel a, overeenkomstig herzien.
 
-3. In afwijking van het eerste lid, onderdeel a, worden indien de werknemer, bedoeld in [artikel 35a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a), arbeidsgehandicapte is in de zin van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) en voor zijn vervoer op medische gronden is aangewezen op vervoer per auto, de vergoedingen voor reiskosten niet in mindering gebracht op de werkloosheidsuitkering voorzover zij niet meer bedragen dan de kilometervergoeding voor vervoer per auto in eigen bezit, die het UWV op grond van [artikel 22 van de laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22) vaststelt.
+3. In afwijking van het eerste lid, onderdeel a, worden indien de werknemer, bedoeld in [artikel 35a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a), en voor zijn vervoer op medische gronden is aangewezen op vervoer per auto, de vergoedingen voor reiskosten niet in mindering gebracht op de werkloosheidsuitkering voorzover zij niet meer bedragen dan de kilometervergoeding voor vervoer per auto in eigen bezit, die het UWV op grond van [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) vaststelt.
 
 ##### Artikel 2. Overgangsrecht
 
