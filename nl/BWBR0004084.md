@@ -4,7 +4,7 @@ identifier: "BWBR0004084"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2002-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004084"
 soort: "ministeriele-regeling"
@@ -67,11 +67,11 @@ Als werkgever van de topsporter die op grond van het in overeenstemming met Onze
 
 ##### Artikel 2
 
-Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2002-01-01&g=2002-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=2&z=2002-01-01&g=2002-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2002-01-01&g=2002-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon, die niet bij wijze van beroep als auteur of redactiemedewerker voor een uitgever werkzaam is.
+Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2005-12-29&g=2005-12-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=2&z=2005-12-29&g=2005-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2005-12-29&g=2005-12-29) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon, die niet bij wijze van beroep als auteur of redactiemedewerker voor een uitgever werkzaam is.
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2002-01-01&g=2002-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655, wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon die
+Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2005-12-29&g=2005-12-29) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655, wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon die
 
 - a. als bestuurder van een vereniging of stichting dan wel als commissaris van een vennootschap voor die vereniging, stichting, onderscheidenlijk vennootschap, werkzaam is, of
 
@@ -79,19 +79,19 @@ Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR00040
 
 ##### Artikel 4
 
-1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2002-01-01&g=2002-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt geen toepassing ten aanzien van de persoon die:
+1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2005-12-29&g=2005-12-29), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt geen toepassing ten aanzien van de persoon die:
 
 - a. doorgaans op minder dan drie dagen per week werkzaam is voor een natuurlijk persoon ten behoeve van diens persoonlijke aangelegenheden, tenzij loon wordt verstrekt door degene, door wiens tussenkomst de arbeid wordt verricht;
 
 - b. bij wijze van arbeidstherapie werkzaam is.
 
-2. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2002-01-01&g=2002-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft, geen toepassing ten aanzien van de persoon die:
+2. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2005-12-29&g=2005-12-29), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft, geen toepassing ten aanzien van de persoon die:
 
 - a. door tussenkomst of mede door tussenkomst van een supranationale, internationale of buitenlandse organisatie of instelling als stagiaire werkzaam is, indien hij buiten Nederland woont;
 
 - b. door tussenkomst van een openbare of van een van overheidswege gesubsidieerde onderwijsinstelling als stagiaire werkzaam is.
 
-3. Voor de toepassing van de artikelen 3 en 5 van het besluit van 24 december 1986 (Stb. 655) wordt, voorzover het [de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) betreft, niet als dienstbetrekking beschouwd de arbeidsverhouding van de persoon die werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.
+3. Voor de toepassing van de artikelen 3 en 5 van het besluit van 24 december 1986 (Stb. 655) wordt, voorzover het [de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) betreft, niet als dienstbetrekking beschouwd de arbeidsverhouding van de persoon die werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.
 
 ##### Artikel 5
 
@@ -101,7 +101,7 @@ Voor de toepassing van de artikelen 1, 2 en 3 van het besluit van 24 december 19
 
 1. Het besluit van 26 februari 1981, nr. 50861 (Stcrt. 1981, 42), wordt ingetrokken.
 
-2. Een verklaring afgegeven op grond van [artikel 1, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2002-01-01&g=2002-01-01), van het in het eerste lid genoemde besluit, waarin begrepen een verklaring die op grond van artikel 5, tweede lid, van dat besluit als zodanig kan worden aangemerkt, wordt aangemerkt als een verklaring als bedoeld in artikel 1, tweede lid, onderdeel a, van dit besluit.
+2. Een verklaring afgegeven op grond van [artikel 1, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2005-12-29&g=2005-12-29), van het in het eerste lid genoemde besluit, waarin begrepen een verklaring die op grond van artikel 5, tweede lid, van dat besluit als zodanig kan worden aangemerkt, wordt aangemerkt als een verklaring als bedoeld in artikel 1, tweede lid, onderdeel a, van dit besluit.
 
 ##### Artikel 7
 
