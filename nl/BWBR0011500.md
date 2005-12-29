@@ -4,7 +4,7 @@ identifier: "BWBR0011500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-27"
-last_updated: "2002-02-23"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011500"
 soort: "ministeriele-regeling"
@@ -43,6 +43,20 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+
+- b. Wet WIA: de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
+
+- c. de contante waarde: de contante waarde van de periodieke verstrekkingen, bedoeld in [artikel 90, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90) en [artikel 99, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99);
+
+- d. de loondervingsuitkering: de loondervingsuitkering, bedoeld in [artikel 21, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21), de arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 6 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
+
+- e. de vervolguitkering: de vervolguitkering, bedoeld in [artikel 21, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21)
+
+- en de loonaanvullingsuitkering, bedoeld in [artikel 61, vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=61);
+
+- f. de uitkering: de loondervingsuitkering en de vervolguitkering tezamen.
+
 ##### Artikel 2. Geconsolideerde toestand van de arbeidsongeschiktheid
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan in overeenstemming met de tot schadevergoeding verplichte derde eerst tot vordering van de contante waarde overgaan, indien het Uitvoeringsinstituut werknemersverzekeringen van oordeel is dat ten aanzien van de verzekerde met betrekking tot de mate van zijn arbeidsongeschiktheid een geconsolideerde toestand is ingetreden.
@@ -68,37 +82,37 @@ c = een correctie op de periode waarover de uitkering wordt verstrekt, op grond 
 
 cL = een correctie op de periode waarover de loondervingsuitkering wordt verstrekt, op grond van de kans op overlijden en op grond van zogenoemde individuele omstandigheden;
 
-UV = het bedrag van de vervolguitkering per maand en de daarover aan de verzekerde toekomende vakantie-uitkering;
+UV = het bedrag van de vervolguitkering per maand en de daarover aan de verzekerde toekomende vakantie-uitkering met dien verstand dat bij de bepaling van de contante waarde van de arbeidsongeschiktheidsuitkering, bedoeld in [hoofdstuk 6 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&hoofdstuk=VI), deze factor op 0 wordt gesteld;
 
 UL = het bedrag van de loondervingsuitkering per maand en de daarover aan de verzekerde toekomende vakantie-uitkering;
 
-L = het gemiddeld stijgingspercentage van het dagloon, bedoeld in artikel 14 van de wet, over een periode van een maand;
+L = het gemiddeld stijgingspercentage van het dagloon, bedoeld in [artikel 14 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=14) of [artikel 13 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=13), over een periode van een maand;
 
 r = het interestpercentage per maand.
 
 ##### Artikel 4. Berekening factoren
 
-1. De factor UV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), wordt als volgt berekend:
+1. De factor UV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), wordt als volgt berekend:
 
-- a. de som van de vervolguitkering per dag en de daarover aan de verzekerde toekomende vakantie-uitkering op de dag voorafgaande aan het tijdstip van de vaststelling van de contante waarde, wordt verhoogd met de op het moment van de vaststelling op die som vallende overhevelingstoeslag als bedoeld in artikel 1 van de Wet overhevelingstoeslag opslagpremies, voorzover in aanmerking komend voor verhaal als bedoeld in [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90);
-
-- b. het onder a verkregen bedrag wordt voor de herleiding op maandbasis vermenigvuldigd met de factor 21,75.
-
-2. De factor UL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), wordt als volgt berekend:
-
-- a. de som van de loondervingsuitkering per dag en de daarover aan de verzekerde toekomende vakantie-uitkering op de dag voorafgaande aan het tijdstip van de vaststelling van de contante waarde, wordt verhoogd met de op het moment van de vaststelling op die som vallende overhevelingstoeslag als bedoeld in artikel 1 van de Wet overhevelingstoeslag opslagpremies, voorzover in aanmerking komend voor verhaal als bedoeld in [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90);
+- a. de som van de vervolguitkering per dag wordt verhoogd met de daarover aan de verzekerde toekomende vakantie-uitkering op de dag voorafgaande aan het tijdstip van de vaststelling van de contante waarde;
 
 - b. het onder a verkregen bedrag wordt voor de herleiding op maandbasis vermenigvuldigd met de factor 21,75.
 
-3. De factor m, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), is gelijk aan het aantal maanden gelegen tussen het tijdstip waarop de vervolguitkering van de verzekerde zou worden beëindigd wegens het bereiken van de 65-jarige leeftijd en het begin van de periode waarover wordt afgekocht.
+2. De factor UL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), wordt als volgt berekend:
 
-4. De factor mL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), is gelijk aan het aantal maanden gelegen tussen het tijdstip waarop de loondervingsuitkering van de verzekerde zou worden beëindigd wegens de afloop van de in [artikel 21a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21a) bedoelde periode en het begin van de periode waarover wordt afgekocht.
+- a. de som van de loondervingsuitkering per dag wordt verhoogd met de daarover aan de verzekerde toekomende vakantie-uitkering op de dag voorafgaande aan het tijdstip van de vaststelling van de contante waarde;
 
-5. De factor c en de factor cL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), worden per geval door het Uitvoeringsinstituut werknemersverzekeringen en de tot schadevergoeding verplichte derde in onderling overleg vastgesteld, onverminderd de bevoegdheid van het Uitvoeringsinstituut werknemersverzekeringen om met assuradeuren of groepen van assuradeuren hieromtrent gezamenlijke regelingen te treffen.
+- b. het onder a verkregen bedrag wordt voor de herleiding op maandbasis vermenigvuldigd met de factor 21,75.
 
-6. De factor L, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), wordt jaarlijks in de maand december vastgesteld door het Landelijk instituut sociale verzekeringen voor de duur van het volgende boekjaar, waarbij het gemiddelde stijgingspercentage per maand wordt berekend over de aan de maand december voorafgaande periode van vier jaar.
+3. De factor m, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), is gelijk aan het aantal maanden gelegen tussen het tijdstip waarop de vervolguitkering van de verzekerde zou worden beëindigd wegens het bereiken van de 65-jarige leeftijd en het begin van de periode waarover wordt afgekocht.
 
-7. De factor r, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2002-02-23&g=2002-02-23), wordt jaarlijks in de maand december vastgesteld door het Uitvoeringsinstituut werknemersverzekeringen voor de duur van het volgende boekjaar en is gelijk aan het gemiddeld effectief rendement over de voorafgaande maand november van de vijf staatsleningen met de langste gemiddeld resterende looptijd waarvan publicatie geschiedt door het Centraal Bureau voor de Statistiek. De factor r wordt voor deze formule herleid naar maanden.
+4. De factor mL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), is gelijk aan het aantal maanden gelegen tussen het tijdstip waarop de loondervingsuitkering van de verzekerde zou worden beëindigd wegens de afloop van de in [artikel 21a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21a) of [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=59) of [127, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=127) bedoelde periode en het begin van de periode waarover wordt afgekocht.
+
+5. De factor c en de factor cL, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), worden per geval door het Uitvoeringsinstituut werknemersverzekeringen en de tot schadevergoeding verplichte derde in onderling overleg vastgesteld, onverminderd de bevoegdheid van het Uitvoeringsinstituut werknemersverzekeringen om met assuradeuren of groepen van assuradeuren hieromtrent gezamenlijke regelingen te treffen.
+
+6. De factor L, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), wordt jaarlijks in de maand december vastgesteld door het Landelijk instituut sociale verzekeringen voor de duur van het volgende boekjaar, waarbij het gemiddelde stijgingspercentage per maand wordt berekend over de aan de maand december voorafgaande periode van vier jaar.
+
+7. De factor r, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=3&z=2005-12-29&g=2005-12-29), wordt jaarlijks in de maand december vastgesteld door het Uitvoeringsinstituut werknemersverzekeringen voor de duur van het volgende boekjaar en is gelijk aan het gemiddeld effectief rendement over de voorafgaande maand november van de vijf staatsleningen met de langste gemiddeld resterende looptijd waarvan publicatie geschiedt door het Centraal Bureau voor de Statistiek. De factor r wordt voor deze formule herleid naar maanden.
 
 ##### Artikel 5. Afronding
 
@@ -120,7 +134,7 @@ De regeling van de Minister van Sociale Zaken van 29 december 1980, nr. 56453, h
 
 ##### Artikel 8. Overgangsrecht
 
-Op vorderingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=2&z=2002-02-23&g=2002-02-23), waartoe voor de dag van inwerkingtreding van deze regeling voor het eerst is overgegaan, is de regeling van de Minister van Sociale Zaken van 29 december 1980, nr. 56453, houdende regels met betrekking tot vordering van de contante waarde van de periodieke uitkeringen (Stcrt. 253), zoals die luidde voor de dag van inwerkingtreding van deze regeling, van toepassing.
+Op vorderingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011500&artikel=2&z=2005-12-29&g=2005-12-29), waartoe voor de dag van inwerkingtreding van deze regeling voor het eerst is overgegaan, is de regeling van de Minister van Sociale Zaken van 29 december 1980, nr. 56453, houdende regels met betrekking tot vordering van de contante waarde van de periodieke uitkeringen (Stcrt. 253), zoals die luidde voor de dag van inwerkingtreding van deze regeling, van toepassing.
 
 ##### Artikel 9. Inwerkingtreding
 
@@ -128,6 +142,6 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 10. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling vordering contante waarde van periodieke verstrekkingen WAO.
+Deze regeling wordt aangehaald als: Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
