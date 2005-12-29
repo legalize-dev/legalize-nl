@@ -4,7 +4,7 @@ identifier: "BWBR0011478"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2005-05-04"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011478"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - c. Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- d. werknemer: de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WAO](onbekend);
+- d. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 - e. verzekerde: de verzekerde, bedoeld in [artikel 3 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=3);
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. De arbeidsongeschiktheidsbeoordeling
 
-1. De arbeidsongeschiktheidsbeoordeling wordt gebaseerd op een verzekeringsgeneeskundig onderzoek en een arbeidsdeskundig onderzoek.
+1. De arbeidsongeschiktheidsbeoordeling, bedoeld in de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en de beoordeling van volledige en duurzame arbeidsongeschiktheid of de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), worden gebaseerd op een verzekeringsgeneeskundig onderzoek en een arbeidsdeskundig onderzoek.
 
 2. Van het arbeidsdeskundig onderzoek kan worden afgezien:
 
@@ -116,19 +116,27 @@ In dit besluit wordt verstaan onder:
 
 - c. de redeneringen en conclusies van het verzekeringsgeneeskundig onderzoek zijn vrij van innerlijke tegenspraak.
 
-2. De vaststellingen en het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=2&artikel=3&z=2005-05-04&g=2005-05-04), geschieden aan de hand van algemeen aanvaarde verzekeringsgeneeskundige onderzoeksmethoden die gericht zijn op het kunnen vaststellen van ongeschiktheid tot werken als gevolg van ziekte, gebrek, zwangerschap of bevalling.
+2. De vaststellingen en het onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=2&artikel=3&z=2005-12-29&g=2005-12-29), geschieden aan de hand van algemeen aanvaarde verzekeringsgeneeskundige onderzoeksmethoden die gericht zijn op het kunnen vaststellen van ongeschiktheid tot werken als gevolg van ziekte, gebrek, zwangerschap of bevalling.
 
 ### Hoofdstuk 3. Het arbeidsdeskundig onderzoek
 
 ##### Artikel 5. Doel arbeidsdeskundig onderzoek
 
-Het arbeidsdeskundig onderzoek strekt tot vaststelling van de mate van arbeidsongeschiktheid, bedoeld in [artikel 18 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), zoals dit artikel luidt sinds 1 augustus 1993, [artikel 2 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2) en [artikel 2 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2). Daartoe wordt het maatmaninkomen van betrokkene vergeleken met hetgeen hij met arbeid kan verdienen.
+Het arbeidsdeskundig onderzoek strekt tot vaststelling van:
+
+- a. de mate van arbeidsongeschiktheid, bedoeld in [artikel 18 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=18), zoals dit artikel luidt sinds 1 augustus 1993, [artikel 2 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2) en [artikel 2 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2);
+
+- b. volledige arbeidsongeschiktheid als bedoeld in [artikel 4 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4); dan wel
+
+- c. de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in [artikel 5 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5).
+
+Daartoe wordt het maatmaninkomen per uur van betrokkene vergeleken met hetgeen hij met arbeid kan verdienen.
 
 #### § 1. Maatmaninkomen
 
-##### Artikel 6. Maatmaninkomen WAO, Waz en Wajong
+##### Artikel 6. Maatmaninkomen WAO, Wet WIA, Waz en Wajong
 
-1. Het maatmaninkomen WAO is het inkomen per uur dat gezonde personen, bedoeld in [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), met arbeid als werknemer gewoonlijk verdienen.
+1. Het maatmaninkomen WAO is het inkomen per uur dat gezonde personen, bedoeld in [artikel 18, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), met arbeid gewoonlijk verdienen.
 
 2. Het maatmaninkomen Waz is het inkomen per uur dat gezonde personen, bedoeld in [artikel 2, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2), met arbeid als verzekerde gewoonlijk verdienen.
 
@@ -146,17 +154,17 @@ Het arbeidsdeskundig onderzoek strekt tot vaststelling van de mate van arbeidson
 
 5. Indien de vaststelling van het maatmaninkomen met toepassing van het vierde lid tot een hoger maatmaninkomen leidt dan de vaststelling van het maatmaninkomen met toepassing van het derde lid, wordt uitgegaan van het eerstgenoemde maatmaninkomen.
 
-6. In de gevallen waarin [artikel 43a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43a), [artikel 20 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=20) of [artikel 19 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=19) toepassing vindt, alsmede in de gevallen waarin dat niet het geval is omdat [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) toepassing kan vinden, wordt het maatmaninkomen niet lager gesteld dan het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid in aanmerking zou worden genomen indien de arbeidsongeschiktheidsuitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de wachttijd, bedoeld in [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), [artikel 7 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7) of [artikel 6 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6), recht zou hebben bestaan op een arbeidsongeschiktheidsuitkering.
+6. In de gevallen waarin [artikel 43a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43a), [artikel 19 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=19), [artikel 48, eerste lid, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=48), [50, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=50), of [55, eerste lid, aanhef en onderdelen b en c, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=55) toepassing vindt, alsmede in de gevallen waarin dat niet het geval is omdat [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) toepassing kan vinden, wordt het maatmaninkomen niet lager vastgesteld dan het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de wachttijd, bedoeld in [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), [artikel 6 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6) of [artikel 23 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), recht zou hebben bestaan op een dergelijke uitkering.
 
-7. In de gevallen waarin, na eerdere intrekking van een arbeidsongeschiktheidsuitkering dan wel eerdere niet toekenning aan het einde van de wachttijd, bedoeld in [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), [artikel 7 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7) of [artikel 6, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6), bij de vaststelling van het maatmaninkomen wordt uitgegaan van arbeid op basis waarvan voor de betrokkene reeds eerder een maatmaninkomen is vastgesteld, wordt het maatmaninkomen vastgesteld op het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid in aanmerking zou worden genomen indien de arbeidsongeschiktheidsuitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de genoemde wachttijd recht zou hebben bestaan op een arbeidsongeschiktheidsuitkering.
+7. In de gevallen waarin, na eerdere intrekking van een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) of de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), dan wel na het eerder niet toekennen van een uitkering aan het einde van de wachttijd, bedoeld in [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), [artikel 6 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6) of [artikel 23 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), bij de vaststelling van het maatmaninkomen wordt uitgegaan van arbeid op basis waarvan voor de betrokkene reeds eerder een maatmaninkomen is vastgesteld, wordt het maatmaninkomen vastgesteld op het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de genoemde wachttijd recht zou hebben bestaan op een dergelijke uitkering.
 
-##### Artikel 7. Maatmaninkomen bij hernieuwde vaststelling en herziening
+##### Artikel 7. Maatmaninkomen bij hernieuwde vaststelling, heropening, herleving of herziening
 
-Nadat de mate van arbeidsongeschiktheid is vastgesteld, wordt bij een hernieuwde vaststelling of een herziening van de uitkering geen rekening gehouden met na de eerste vaststelling of herziening opgetreden wijzigingen in het maatmaninkomen.
+Nadat een eerste beoordeling in verband met de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&artikel=5&z=2005-12-29&g=2005-12-29), heeft plaatsgevonden, wordt bij een hernieuwde vaststelling, een heropening, een herleving of een herziening van de uitkering geen rekening gehouden met na die eerste beoordeling opgetreden wijzigingen in het maatmaninkomen.
 
 ##### Artikel 8. Indexering maatmaninkomen
 
-1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=7&z=2005-05-04&g=2005-05-04) wordt bij de vaststelling van de mate van arbeidsongeschiktheid het maatmaninkomen aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals dit door het Centraal Bureau voor de Statistiek wordt gepubliceerd.
+1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=7&z=2005-12-29&g=2005-12-29) wordt bij de vaststelling van de mate van arbeidsongeschiktheid het maatmaninkomen aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals dit door het Centraal Bureau voor de Statistiek wordt gepubliceerd.
 
 2. In gevallen waarin het maatmaninkomen voor het laatst is vastgesteld voor 1 januari 2001 vindt bij de eerstvolgende vaststelling van de mate van arbeidsongeschiktheid na deze datum naast de aanpassing, bedoeld in het eerste lid, eenmalig een extra verhoging van het maatmaninkomen plaats overeenkomstig [artikel 3 van de Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353&artikel=3).
 
@@ -168,7 +176,7 @@ Bij bepaling van hetgeen betrokkene nog met arbeid kan verdienen worden de volge
 
 - a. in aanmerking wordt genomen die algemeen geaccepteerde arbeid waarmee betrokkene per uur het meest kan verdienen, waaronder mede wordt begrepen arbeid waarvoor bekwaamheden nodig zijn die algemeen gebruikelijk zijn en binnen zes maanden kunnen worden verworven, tenzij betrokkene niet over dergelijke bekwaamheden beschikt en als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek dergelijke bekwaamheden niet kan verwerven. Onder deze bekwaamheden worden ten minste verstaan mondelinge beheersing van de Nederlandse taal en eenvoudig computergebruik. Deze arbeid wordt nader omschreven in de vorm van ten minste drie verschillende in Nederland uitgeoefende functies. Deze functies vertegenwoordigen ieder ten minste drie arbeidsplaatsen. De gegevens met betrekking tot de in aanmerking genomen functies, met alle daaraan verbonden specifieke aspecten inzake belasting, beloning en opleidingseisen mogen op het moment van de datum waarop de ter gelegenheid van de arbeidsongeschiktheidsbeoordeling gegeven beschikking betrekking heeft, niet ouder zijn dan 24 maanden;
 
-- b. bij het bepalen van de urenomvang van de onder a bedoelde functies mogen ook functies in aanmerking worden genomen met een omvang groter dan de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04) bedoelde gezonde persoon uitgeoefende arbeid, tenzij betrokkene voor een geringer aantal uren belastbaar is, in welk geval de urenomvang van de onder a bedoelde functies niet meer bedraagt dan dat aantal uren. Indien de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04) bedoelde gezonde persoon uitgeoefende arbeid per week gemiddeld groter is dan de voor een voltijdse aanstelling gebruikelijke 38 uur, wordt voor de vaststelling van de urenomvang van de in aanmerking te nemen arbeid evenwel de omvang van 38 uur per week in aanmerking genomen;
+- b. bij het bepalen van de urenomvang van de onder a bedoelde functies mogen ook functies in aanmerking worden genomen met een omvang groter dan de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29) bedoelde gezonde persoon uitgeoefende arbeid, tenzij betrokkene voor een geringer aantal uren belastbaar is, in welk geval de urenomvang van de onder a bedoelde functies niet meer bedraagt dan dat aantal uren. Indien de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29) bedoelde gezonde persoon uitgeoefende arbeid per week gemiddeld groter is dan de voor een voltijdse aanstelling gebruikelijke 38 uur, wordt voor de vaststelling van de urenomvang van de in aanmerking te nemen arbeid evenwel de omvang van 38 uur per week in aanmerking genomen;
 
 - c. arbeid, die door betrokkene alleen kan worden verricht na toepassing van zodanige voorzieningen, dat het accepteren van die toepassing in redelijkheid niet van een werkgever kan worden verlangd, blijft bij de toepassing van onderdeel a buiten beschouwing;
 
@@ -176,11 +184,11 @@ Bij bepaling van hetgeen betrokkene nog met arbeid kan verdienen worden de volge
 
 - e. indien betrokkene zodanige kenmerken heeft, dat van een werkgever in redelijkheid niet kan worden verlangd hem in bepaalde arbeid te werk te stellen, blijft die arbeid bij de toepassing van onderdeel a buiten beschouwing;
 
-- f. bij de toepassing van onderdeel a blijft arbeid die meer dan incidenteel tussen 0.00 uur en 6.00 uur wordt verricht buiten beschouwing, tenzij de gezonde persoon, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04), in dergelijke arbeid werkzaam is;
+- f. bij de toepassing van onderdeel a blijft arbeid die meer dan incidenteel tussen 0.00 uur en 6.00 uur wordt verricht buiten beschouwing, tenzij de gezonde persoon, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29), in dergelijke arbeid werkzaam is;
 
 - g. Indien betrokkene de leeftijd van 23 jaar nog niet heeft bereikt wordt onderdeel a toegepast alsof hij die leeftijd heeft bereikt;
 
-- h. in afwijking van de onderdelen b en f wordt uitgegaan van de arbeid die feitelijk wordt verricht, mits dit leidt tot een lagere mate van arbeidsongeschiktheid dan de met toepassing van onderdeel a en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-05-04&g=2005-05-04) vastgestelde mate van arbeidsongeschiktheid;
+- h. in afwijking van de onderdelen b en f wordt uitgegaan van de arbeid die feitelijk wordt verricht, mits dit leidt tot een lagere mate van arbeidsongeschiktheid dan de met toepassing van onderdeel a en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-12-29&g=2005-12-29) vastgestelde mate van arbeidsongeschiktheid;
 
 - i. voor de toepassing van onderdeel h wordt onder arbeid die feitelijk wordt verricht mede verstaan arbeid die na het intreden van de arbeidsongeschiktheid feitelijk is verricht en waartoe de betrokkene met zijn krachten en bekwaamheden in staat is.
 
@@ -188,9 +196,9 @@ Bij bepaling van hetgeen betrokkene nog met arbeid kan verdienen worden de volge
 
 1. Bij de berekening van hetgeen betrokkene met arbeid kan verdienen, wordt:
 
-- a. uitgegaan van de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04) bedoelde gezonde persoon uitgeoefende arbeid doch niet meer dan gemiddeld 38 uur, tenzij betrokkene voor een geringer aantal uren belastbaar is, in welk geval van dit aantal wordt uitgegaan; en
+- a. uitgegaan van de urenomvang van de door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29) bedoelde gezonde persoon uitgeoefende arbeid doch niet meer dan gemiddeld 38 uur, tenzij betrokkene voor een geringer aantal uren belastbaar is, in welk geval van dit aantal wordt uitgegaan; en
 
-- b. in aanmerking genomen het loon van de middelste van de in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04), bedoelde functies.
+- b. in aanmerking genomen het loon van de middelste van de in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29), bedoelde functies.
 
 2. Indien betrokkene de leeftijd van 23 jaar nog niet heeft bereikt wordt het inkomen per uur dat hij na toepassing van het eerste lid met arbeid kan verdienen verlaagd door het te vermenigvuldigen met het minimumjeugdloonpercentage, bedoeld in [artikel 2, eerste lid, van het koninklijk besluit van 29 juni 1983, houdende vaststelling van een minimumjeugdloonregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2) (Stb. 300), tenzij wordt uitgegaan van feitelijke inkomsten uit arbeid.
 
@@ -200,11 +208,13 @@ Bij bepaling van hetgeen betrokkene nog met arbeid kan verdienen worden de volge
 
 - a. indien wordt uitgegaan van de feitelijke inkomsten uit arbeid; of
 
-- b. indien betrokkene nog tot arbeid in dezelfde omvang in staat is als de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04) bedoelde gezonde persoon.
+- b. indien betrokkene nog tot arbeid in dezelfde omvang in staat is als de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29) bedoelde gezonde persoon.
+
+5. Voor de toepassing van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt onder de gezonde persoon, bedoeld in het eerste lid, onderdeel a, en het vierde lid, onderdeel b, verstaan: de gezonde persoon, bedoeld in [artikel 1, onder maatmaninkomen, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1).
 
 ##### Artikel 11. Nadere regels
 
-Bij ministeriële regeling kunnen met betrekking tot de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-05-04&g=2005-05-04) nadere regels worden gesteld. Daarbij kan worden bepaald wat mede wordt verstaan onder bekwaamheden die algemeen gebruikelijk zijn en binnen zes maanden kunnen worden verworven als bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04).
+Bij ministeriële regeling kunnen met betrekking tot de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-12-29&g=2005-12-29) nadere regels worden gesteld. Daarbij kan worden bepaald wat mede wordt verstaan onder bekwaamheden die algemeen gebruikelijk zijn en binnen zes maanden kunnen worden verworven als bedoeld in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29).
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -230,12 +240,22 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 12a. Overgangsbepaling wijzigingsbesluit met betrekking tot functieduiding en maatmaninkomensgarantie arbeidsongeschiktheidswetten
 
-1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=1&artikel=2&z=2005-05-04&g=2005-05-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-05-04&g=2005-05-04) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=11&z=2005-05-04&g=2005-05-04), zoals die luidden op de dag voor inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434), blijven van toepassing op een recht op uitkering met een ingangsdatum voor of op die dag indien betrokkene voor of op 1 juli 1954 is geboren.
+1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=1&artikel=2&z=2005-12-29&g=2005-12-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-12-29&g=2005-12-29) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=11&z=2005-12-29&g=2005-12-29), zoals die luidden op de dag voor inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434), blijven van toepassing op een recht op uitkering met een ingangsdatum voor of op die dag indien betrokkene voor of op 1 juli 1954 is geboren.
 
-2. In afwijking van het eerste lid is [artikel 9, onderdeel a, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04), van toepassing op een recht op uitkering als bedoeld in het eerste lid van de betrokkene die voor of op 1 juli 1954 is geboren.
+2. In afwijking van het eerste lid is [artikel 9, onderdeel a, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29), van toepassing op een recht op uitkering als bedoeld in het eerste lid van de betrokkene die voor of op 1 juli 1954 is geboren.
 
-3. Onverminderd het eerste lid alsmede [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=4&artikel=13&z=2005-05-04&g=2005-05-04), zijn op personen, wier mate van arbeidsongeschiktheid voor de eerste maal is vastgesteld op een datum gelegen vóór inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=1&artikel=2&z=2005-05-04&g=2005-05-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=8&z=2005-05-04&g=2005-05-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-05-04&g=2005-05-04),[10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-05-04&g=2005-05-04) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=11&z=2005-05-04&g=2005-05-04), zoals deze luiden na inwerkingtreding van dat besluit, eerst van toepassing indien een beoordeling van de mate van arbeidsongeschiktheid plaatsvindt ter zake waarvan een beschikking wordt afgegeven, bij gelegenheid van die beoordeling.
+3. Onverminderd het eerste lid alsmede [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=4&artikel=13&z=2005-12-29&g=2005-12-29), zijn op personen, wier mate van arbeidsongeschiktheid voor de eerste maal is vastgesteld op een datum gelegen vóór inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=1&artikel=2&z=2005-12-29&g=2005-12-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=8&z=2005-12-29&g=2005-12-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=9&z=2005-12-29&g=2005-12-29),[10](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=10&z=2005-12-29&g=2005-12-29) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=2&artikel=11&z=2005-12-29&g=2005-12-29), zoals deze luiden na inwerkingtreding van dat besluit, eerst van toepassing indien een beoordeling van de mate van arbeidsongeschiktheid plaatsvindt ter zake waarvan een beschikking wordt afgegeven, bij gelegenheid van die beoordeling.
 
-4. In afwijking van het derde lid is [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-05-04&g=2005-05-04), niet van toepassing in de gevallen waarin [artikel 43a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43a), [artikel 20 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=20) of [artikel 19 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=19) toepassing heeft gevonden voor de datum van inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434).
+4. In afwijking van het derde lid is [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&paragraaf=1&artikel=6&z=2005-12-29&g=2005-12-29), niet van toepassing in de gevallen waarin [artikel 43a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43a), [artikel 20 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=20) of [artikel 19 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=19) toepassing heeft gevonden voor de datum van inwerkingtreding van het besluit van 18 augustus 2004 tot wijziging van het Schattingsbesluit arbeidsongeschiktheidswetten met betrekking tot de te duiden functies alsmede in verband met de introductie van een maatmaninkomensgarantie en enkele andere onderwerpen (Stb. 434).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a. Delegatiebepaling in verband met vaststelling maatmaninkomen
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld in verband met de vaststelling van het maatmaninkomen ten behoeve van de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&hoofdstuk=3&artikel=5&z=2005-12-29&g=2005-12-29).
+
+#### § 2. Resterende verdiencapaciteit
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
