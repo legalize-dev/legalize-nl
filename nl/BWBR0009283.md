@@ -4,7 +4,7 @@ identifier: "BWBR0009283"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-12-29"
-last_updated: "2002-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009283"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder de wet: de [Wet arbeidsongeschiktheidsverzek
 
 ##### Artikel 2. Personen die uitsluitend buiten Nederland werken
 
-1. Niet verzekerd is de persoon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=3&artikel=5&z=2002-01-01&g=2002-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=4&artikel=6&z=2002-01-01&g=2002-01-01) van de wet, die gedurende een aaneengesloten periode van ten minste drie maanden uitsluitend buiten Nederland arbeid verricht.
+1. Niet verzekerd is de persoon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=2&artikel=4&z=2005-12-29&g=2005-12-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=3&artikel=5&z=2005-12-29&g=2005-12-29) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=4&artikel=6&z=2005-12-29&g=2005-12-29) van de wet, die gedurende een aaneengesloten periode van ten minste drie maanden uitsluitend buiten Nederland arbeid verricht.
 
 2. Voor de vaststelling van de in het eerste lid bedoelde periode van drie maanden worden perioden, gedurende welke de in het eerste lid bedoelde arbeid buiten Nederland wordt onderbroken wegens ziekte, gebreken, zwangerschap, bevalling of werkloosheid, beschouwd als perioden waarin uitsluitend buiten Nederland arbeid wordt verricht, tenzij tijdens deze perioden arbeid in Nederland wordt verricht.
 
@@ -68,13 +68,15 @@ In dit besluit wordt verstaan onder de wet: de [Wet arbeidsongeschiktheidsverzek
 
 2. Niet verzekerd zijn voorts politieke ambtsdragers die als gevolg van wijzigingen in de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) die tot stand komen na het tijdstip van inwerkingtreding van het besluit waarmee dit artikel is ingevoerd, hun verzekering tegen langdurige arbeidsongeschiktheid rechtstreeks aan die wet ontlenen.
 
-##### Artikel 3. Niet-werknemer in de zin van [artikel 3 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3)
+##### Artikel 3. Niet werknemer in de zin van [artikel 3 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) en [artikel 8 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=8)
 
-Niet verzekerd is de persoon die op grond van [artikel 3 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) en de daarop berustende bepalingen niet als werknemer wordt beschouwd, behoudens ter zake van arbeid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=3&artikel=5&z=2002-01-01&g=2002-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=4&artikel=6&z=2002-01-01&g=2002-01-01) van de wet, die hij daarnaast verricht.
+1. Niet verzekerd is de persoon die op grond van [artikel 3 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) en de daarop berustende bepalingen niet als werknemer wordt beschouwd, behoudens ter zake van arbeid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=5) of [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=6), die hij daarnaast verricht.
+
+2. Niet verzekerd is de persoon die op grond van [artikel 8 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=8) en de daarop berustende bepalingen, niet als werknemer wordt beschouwd, behoudens ter zake van arbeid als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=5) die hij daarnaast verricht.
 
 ##### Artikel 4. Arbeid, zowel Waz- als WAO gekwalificeerd
 
-Niet verzekerd is de persoon ter zake van door hem verrichte arbeid uit hoofde waarvan hij zowel zelfstandige is als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=2&artikel=4&z=2002-01-01&g=2002-01-01) van de wet, als werknemer in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
+Niet verzekerd is de persoon ter zake van door hem verrichte arbeid uit hoofde waarvan hij zowel zelfstandige is als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009283&paragraaf=2&artikel=4&z=2005-12-29&g=2005-12-29) van de wet, als werknemer in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
 #### § 3. Bijzondere bepalingen
 
