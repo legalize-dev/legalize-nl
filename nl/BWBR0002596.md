@@ -4,7 +4,7 @@ identifier: "BWBR0002596"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-12-29"
-last_updated: "2002-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002596"
 soort: "AMvB"
@@ -46,31 +46,61 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Degene, die niet ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) verzekerd is en die arbeidsongeschikt wordt of, in gevallen als bedoeld in artikel 37, eerste lid, van die wet, meer arbeidsongeschikt wordt als gevolg van een beroepsziekte, genoemd in kolom I van de bijlage van dit besluit, wordt voor het recht op toekenning, onderscheidenlijk herziening van een arbeidsongeschiktheidsuitkering beschouwd alsof hij verzekerd is ingevolge genoemde wet, indien de beroepsziekte veroorzaakt is door de in kolom II van de bijlage van dit besluit achter de ziekte vermelde door de betrokkene verrichte werkzaamheden en hij ter zake van die werkzaamheden ingevolge eerdergenoemde wet verzekerd was.
+1. Degene die niet op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en niet op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) verzekerd is en die arbeidsongeschikt wordt of wiens arbeidsongeschiktheid is toegenomen als gevolg van een beroepsziekte, genoemd in kolom I van de bijlage bij dit besluit, wordt voor het recht op toekenning onderscheidenlijk herziening van een arbeidsongeschiktheidsuitkering beschouwd alsof hij verzekerd is op grond van [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), indien de beroepsziekte veroorzaakt is door de in kolom II van de bijlage achter de ziekte vermelde, door de betrokkene verrichte werkzaamheden en hij ter zake van die werkzaamheden op grond van laatstgenoemde wet verzekerd was doch nimmer verzekerd is geweest op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
-2. Voor zover het betreft door de betrokkene vóór 1 juli 1967 verrichte werkzaamheden wordt bij de toepassing van het eerste lid in plaats van "ingevolge eerdergenoemde wet" gelezen: ingevolge de wettelijke ongevallenverzekering.
+2. Degene die niet op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en niet op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) verzekerd is en die volledig en duurzaam arbeidsongeschikt of gedeeltelijk arbeidsgeschikt wordt als gevolg van een beroepsziekte genoemd in kolom I van de bijlage, wordt voor het recht op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) beschouwd alsof hij verzekerd is op grond van die wet, indien de beroepsziekte veroorzaakt is door de in kolom II van de bijlage achter de ziekte vermelde door de betrokkene verrichte werkzaamheden en hij ter zake van die werkzaamheden op grond van die wet verzekerd was.
 
-3. Arbeidsongeschiktheid als gevolg van een ziekte, genoemd in kolom I van de bijlage van dit besluit, wordt, tenzij het tegendeel blijkt, geacht te zijn veroorzaakt door de in het eerste lid bedoelde door de betrokkene verrichte werkzaamheden.
+3. Voorzover het betreft door de betrokkene voor 1 juli 1967 verrichte werkzaamheden wordt bij de toepassing van het eerste lid in plaats van «beschouwd alsof hij verzekerd is op grond van [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)» gelezen: beschouwd alsof hij verzekerd is op grond van de wettelijke ongevallenverzekering.
+
+4. Arbeidsongeschiktheid als gevolg van een ziekte, genoemd in kolom I van de bijlage van dit besluit, wordt, tenzij het tegendeel blijkt, geacht te zijn veroorzaakt door de in het eerste lid bedoelde door de betrokkene verrichte werkzaamheden.
 
 ##### Artikel 2
 
 Het bepaalde in het vorige artikel blijft buiten toepassing ten aanzien van:
 
-- a. degene, die bij de intreding of toeneming van de arbeidsongeschiktheid in verband met het bepaalde in [artikel 6, eerste lid, onder **a** of **b**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6) niet verzekerd is;
+- a. degene, die bij de intreding van de arbeidsongeschiktheid in verband met het bepaalde in [artikel 6, eerste lid, onder **a** of **b**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6) niet verzekerd is;
 
-- b. degene, die ter zake van de arbeidsongeschiktheid recht op uitkering ontleent aan de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553).
+- b. degene, die ter zake van de arbeidsongeschiktheid recht op uitkering ontleent aan de [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/jci1.3:c:BWBR0002553);
+
+- c. degene die bij het intreden van de volledige en duurzame arbeidsongeschiktheid of de gedeeltelijke arbeidsgeschiktheid op grond van [artikel 8, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=8) in samenhang met [artikel 6, eerste lid, onder a of b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) niet verzekerd is op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
 ##### Artikel 3
 
-Degene, die ingevolge het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002596&artikel=1&z=2002-01-01&g=2002-01-01) beschouwd wordt alsof hij verzekerd is ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt geacht te zijn verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
+Degene, die ingevolge het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002596&artikel=1&z=2005-12-29&g=2005-12-29) beschouwd wordt alsof hij verzekerd is ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) dan wel de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt geacht te zijn verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 4
 
-Dit besluit kan worden aangehaald als Besluit aanspraken bij beroepsziekten van niet ingevolge de W.A.O. verzekerden.
+Dit besluit wordt aangehaald als: Besluit aanspraken bij beroepsziekten van niet op grond van de WAO of de Wet WIA verzekerden.
 
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 juli 1967.
+
+## Bijlage. behorende bij het Koninklijk besluit van 7 juli 1967, Stb. 380, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17), vierde lid, en [artikel 66, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=66) (Besluit aanspraken bij beroepsziekten van niet ingevolge de W.A.O. verzekerden)
+
+| Beroepsziekten | Werkzaamheden |
+| --- | --- |
+| I | II |
+| Tuberculose | Werkzaamheden, verbonden aan: |
+|   | wijkverpleging, |
+|   | het houden of exploiteren van ziekenhuizen, nazorginrichtingen, klinieken, poliklinieken, medische consultatie- en keuringsbureaus, inrichtingen, waar geestelijk gestoorden of ouden van dagen worden verpleegd, sanatoria en geneeskundige- en bacteriologische laboratoria, huisbezoek en kraam- en gezinsverzorging voor gezondheids- en andere organisaties ten behoeve van de sociale dienstverlening. |
+|   |   |
+| Silicose met of zonder longtuberculose | Werkzaamheden, waarbij de werknemers aan de schadelijke inwerking van kwarts (siliciumdioxyde)-houdende stof zijn blootgesteld. |
+|   |   |
+| Asbestose met of zonder longtuberculose | Werkzaamheden, waarbij de werknemers aan de schadelijke inwerking van astbeststof zijn blootgesteld. |
+|   |   |
+| Pathologische aandoeningen veroorzaakt door ioniserende stralen | Werkzaamheden, waarbij de werknemers aan de werking van ioniserende stralen zijn blootgesteld. |
+|   |   |
+| Decompressieziekte | Werkzaamheden, verricht onder hogere druk dan de atmosferische luchtdruk. |
+|   |   |
+| Hepatitis-B | **a.** Werkzaamheden waarbij nauw en frequent contact met menselijk bloed of produkten hiervan plaatsvindt of |
+|   | **b.** Werkzaamheden waarbij nauw en frequent met een bron van Hepatitis-B infectie plaatsvindt in de gezondheidszorg, de maatschappelijke hulpverlening, of in een laboratorium, of door werkzaamheden waarbij een infectiegevaar in vergelijkbare mate aanwezig geacht kan worden. |
+
+Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 3a
+
+Bij ministeriële regeling kan de bijlage bij dit besluit worden gewijzigd.
 
 ## Bijlage. behorende bij het Koninklijk besluit van 7 juli 1967, Stb. 380, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17), vierde lid, en [artikel 66, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=66) (Besluit aanspraken bij beroepsziekten van niet ingevolge de W.A.O. verzekerden)
 
