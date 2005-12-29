@@ -4,7 +4,7 @@ identifier: "BWBR0006468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2002-09-08"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006468"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Onder inkomsten uit arbeid als bedoeld in artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en [artikel 50, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50), worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend:
+Onder inkomsten uit arbeid als bedoeld in [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 50, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50), worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend:
 
-- a. een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waaronder begrepen een uitkering op grond van artikel 46 van die wet;
+- a. een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waaronder begrepen een uitkering op grond van [artikel 46 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46);
 
 - b. een uitkering bij ziekte krachtens een regeling, welke geldt voor personen, die op grond van [artikel 6, eerste lid, onderdeel a of b, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) niet ingevolge die wet verzekerd zijn;
 
@@ -62,13 +62,11 @@ Onder inkomsten uit arbeid als bedoeld in artikel 44, eerste lid, van de WAO, ar
 
 - f. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;
 
-- g. een uitkering als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6) en [51 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51), alsmede een uitkering verleend krachtens een verordening als bedoeld in artikel 131 van laatstgenoemde wet;
+- g. een uitkering als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) en [131 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131);
 
-- h. een financiële tegemoetkoming op grond van [hoofdstuk 7 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=7);
+- h. een uitkering op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2);
 
-- i. een uitkering op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2);
-
-- j. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land.
+- i. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land.
 
 ##### Artikel 3
 
@@ -76,11 +74,11 @@ Voor de toepassing van [artikel 44, eerste lid, van de WAO](https://wetten.overh
 
 ##### Artikel 4
 
-1. Indien de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2002-09-08&g=2002-09-08), door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald danwel indien het loon in verband met de toepassing van artikel 629, achtste lid, van Boek 7 van het Burgerlijk Wetboek niet wordt uitbetaald of indien het loon in verband met de toepassing van het eerste lid van dat artikel niet volledig wordt uitbetaald, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en [artikel 50, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) gehandeld alsof die uitkering onderscheidenlijk het volle loon wel is uitbetaald.
+1. Indien de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2005-12-29&g=2005-12-29), door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald danwel indien het loon in verband met de toepassing van [artikel 629, achtste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) niet wordt uitbetaald of indien het loon in verband met de toepassing van het eerste lid van dat artikel niet volledig wordt uitbetaald, wordt voor de toepassing van [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 50, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) gehandeld alsof die uitkering onderscheidenlijk het volle loon wel is uitbetaald.
 
-2. Indien degene op wie artikel 44 van de WAO, artikel 58 van de Waz of [artikel 50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) van toepassing is recht heeft op een uitkering als bedoeld in [artikel 2, onderdeel a, d](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2002-09-08&g=2002-09-08) of i, wordt voor de toepassing van genoemde artikelen 44, 58 en 50 gehandeld alsof hij een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), onderscheidenlijk de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), onderscheidenlijk [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), ontvangt, gelijk aan de inkomsten uit arbeid, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) bij de toepassing van laatstgenoemde artikelen rekening is gehouden.
+2. Indien degene op wie [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) van toepassing is recht heeft op een uitkering als bedoeld in [artikel 2, onderdeel a, d of h](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2005-12-29&g=2005-12-29), wordt voor de toepassing van genoemde [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) gehandeld alsof hij een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), onderscheidenlijk de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), onderscheidenlijk [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), ontvangt, gelijk aan de inkomsten uit arbeid, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) bij de toepassing van laatstgenoemde artikelen rekening is gehouden.
 
-3. Het aan de persoon, bedoeld in het eerste en tweede lid, uit te betalen bedrag aan arbeidsongeschiktheidsuitkering wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van de in [artikel 2, onderdeel a, d](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2002-09-08&g=2002-09-08) of i, bedoelde uitkering dan wel het op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek ontvangen loon.
+3. Het aan de persoon, bedoeld in het eerste en tweede lid, uit te betalen bedrag aan arbeidsongeschiktheidsuitkering wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van de in [artikel 2, onderdeel a, d of h](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2005-12-29&g=2005-12-29), bedoelde uitkering dan wel het op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) ontvangen loon.
 
 ##### Artikel 5
 
@@ -92,7 +90,7 @@ Het bedrag aan arbeidsongeschiktheidsuitkering dat wordt uitbetaald aan degene t
 
 2. De in het eerste lid bedoelde aanvulling wordt met ingang van 1 januari 1983 verminderd met 1/6 deel van het in dat lid bedoelde verschil doch met tenminste € 1,04 per dag, zo de aanvulling echter een lager bedrag betreft met dat lagere bedrag, en ten hoogste € 2,08 per dag. Op 1 januari van elk volgend jaar wordt het bedrag van de aanvulling, zoals dat gold op 31 december daaraan voorafgaand, verminderd overeenkomstig het bepaalde in de vorige volzin.
 
-3. De in het eerste lid bedoelde aanvulling wordt voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2002-09-08&g=2002-09-08) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2002-09-08&g=2002-09-08) niet aangemerkt als een arbeidsongeschiktheidsuitkering.
+3. De in het eerste lid bedoelde aanvulling wordt voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2005-12-29&g=2005-12-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2005-12-29&g=2005-12-29) niet aangemerkt als een arbeidsongeschiktheidsuitkering.
 
 ##### Artikel 7
 
@@ -146,11 +144,11 @@ Het bedrag aan arbeidsongeschiktheidsuitkering dat wordt uitbetaald aan degene t
 
 ##### Artikel 9
 
-Voor de toepassing van het eerste lid van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2002-09-08&g=2002-09-08) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2002-09-08&g=2002-09-08) wordt een onderbreking van de toepassing van de artikelen [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) van minder dan een maand, niet als een onderbreking beschouwd.
+Voor de toepassing van het eerste lid van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2005-12-29&g=2005-12-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2005-12-29&g=2005-12-29) wordt een onderbreking van de toepassing van de artikelen [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) van minder dan een maand, niet als een onderbreking beschouwd.
 
 ##### Artikel 10
 
-[Artikel 15, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) is van overeenkomstige toepassing op zowel het garantie-inkomen als op het garantiebedrag, bedoeld in het [eerste lid van de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2002-09-08&g=2002-09-08) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2002-09-08&g=2002-09-08).
+[Artikel 15, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) is van overeenkomstige toepassing op zowel het garantie-inkomen als op het garantiebedrag, bedoeld in het [eerste lid van de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2005-12-29&g=2005-12-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2005-12-29&g=2005-12-29).
 
 ##### Artikel 11
 
@@ -158,13 +156,13 @@ Voor de toepassing van het eerste lid van de [artikelen 7](https://wetten.overhe
 
 - a. op wie artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz of [artikel 50, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) van toepassing is;
 
-- b. voor wie loondispensatie is verkregen als bedoeld in [artikel 7, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7); en
+- b. voor wie loondispensatie is verkregen als bedoeld in [artikel 7, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7) zoals dat artikellid luidde op de dag voordat het op grond van [artikel 2.10 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) is vervallen of als bedoeld in [artikel 59a, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59a); en
 
 - c. die noodzakelijke persoonlijke ondersteuning geniet:
 
-- 1º. als bedoeld in artikel 31, tweede lid, van de Wet op de (re)integratie arbeids-gehandicapten; dan wel
+- 1º. als bedoeld in [artikel 31, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31) zoals dat artikellid luidde op de dag voordat het op grond van [artikel 2.10 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) is vervallen of als bedoeld in [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35); dan wel
 
-- 2º. die voldoet aan dezelfde voorwaarden op grond waarvan persoonlijke ondersteuning genoten zou kunnen worden als bedoeld in [artikel 31, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31), maar hiervoor niet in aanmerking komt, aangezien deze persoon reeds op grond van een andere regeling deze ondersteuning geniet, is het tweede lid van toepassing.
+- 2º. die voldoet aan dezelfde voorwaarden op grond waarvan persoonlijke ondersteuning genoten zou kunnen worden als bedoeld in [artikel 31, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31) zoals dat artikellid luidde op de dag voordat het op grond van [artikel 2.10 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) is vervallen of als bedoeld in [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), maar hiervoor niet in aanmerking komt, aangezien deze persoon reeds op grond van een andere regeling deze ondersteuning geniet, is het tweede lid van toepassing.
 
 2. Indien de som van het per dag tot uitbetaling komende bedrag aan arbeidsongeschiktheidsuitkering van de in het eerste lid bedoelde persoon en het door die persoon per dag genoten bedrag aan inkomsten uit arbeid, minder bedraagt dan het bij die arbeid behorende rechtens geldende loon, wordt de arbeidsongeschiktheidsuitkering verhoogd totdat deze som gelijk is aan dat rechtens geldende loon, doch ten hoogste tot 120% van het minimumloon.
 
@@ -180,7 +178,7 @@ Voor de toepassing van het eerste lid van de [artikelen 7](https://wetten.overhe
 
 ##### Artikel 12
 
-Het [tweede lid van de artikelen 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) is niet van toepassing op de persoon, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2002-09-08&g=2002-09-08), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2002-09-08&g=2002-09-08) en [11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11&z=2002-09-08&g=2002-09-08), voor zolang laatstgenoemde artikelleden op die persoon van toepassing zijn.
+Het [tweede lid van de artikelen 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [50 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=50) is niet van toepassing op de persoon, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2005-12-29&g=2005-12-29), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2005-12-29&g=2005-12-29) en [11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11&z=2005-12-29&g=2005-12-29), voor zolang laatstgenoemde artikelleden op die persoon van toepassing zijn.
 
 ##### Artikel 13
 
