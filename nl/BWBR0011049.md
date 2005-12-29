@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2002-07-03"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -194,15 +194,15 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 
 ##### Artikel 20. Tijdelijk recht op uitkering op de Nederlandse Antillen
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21. Tijdelijk recht op uitkering op Aruba
 
-1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2002-07-03&g=2002-07-03) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -213,5 +213,25 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 ##### Artikel 23. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit afwijkende regels beperking export uitkeringen.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet voor de verzekerde die werkzaamheden in het algemeen belang verricht, of zijn in hetzelfde land wonende gezinslid.
+
+### Hoofdstuk 3. Recht op uitkering op de Nederlandse Antillen
+
+##### Artikel 9a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde op de Nederlandse Antillen woont.
+
+### Hoofdstuk 4. Recht op uitkering op Aruba
+
+##### Artikel 15a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde op Aruba woont.
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
