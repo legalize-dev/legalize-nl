@@ -4,7 +4,7 @@ identifier: "BWBR0002861"
 country: "nl"
 rank: "amvb"
 publication_date: "2005-12-29"
-last_updated: "2002-01-01"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002861"
 soort: "AMvB"
@@ -56,21 +56,25 @@ Hebben goedgevonden en verstaan:
 
 2. Bij de toepassing van het bepaalde in het vorige lid wordt met een in dat lid onder **a** bedoelde uitkering slechts rekening gehouden, indien en voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als de arbeidsongeschiktheidsuitkering.
 
+3. Het eerste lid en het tweede lid zijn van overeenkomstige toepassing op de uitkeringen op grond van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) met dien verstande dat onder arbeidsongeschiktheid wordt verstaan: volledige en duurzame arbeidsongeschiktheid onderscheidenlijk gedeeltelijke arbeidsgeschiktheid als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
 ##### Artikel 2
 
-1. Ten aanzien van een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke met toepassing van artikel 17 van die wet is toegekend, dan wel wegens toegenomen arbeidsongeschiktheid is herzien, geldt het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01), behoudens de in de volgende leden van dit artikel opgenomen bijzondere bepalingen.
+1. Ten aanzien van een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke met toepassing van [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) is toegekend, dan wel wegens toegenomen arbeidsongeschiktheid is herzien, geldt het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29), behoudens de in de volgende leden van dit artikel opgenomen bijzondere bepalingen.
 
-2. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke met toepassing van artikel 17 van die wet is toegekend, met een uitkering wegens arbeidsongeschiktheid ingevolge de sociale wetgeving van een andere Mogendheid, volgens welke het bedrag van de uitkering onafhankelijk is van de duur van de verzekering of de arbeidsverhouding, wordt de arbeidsongeschiktheidsuitkering, voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid, niet uitbetaald.
+2. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke met toepassing van [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) is toegekend, met een uitkering wegens arbeidsongeschiktheid ingevolge de sociale wetgeving van een andere Mogendheid, volgens welke het bedrag van de uitkering onafhankelijk is van de duur van de verzekering of de arbeidsverhouding, wordt de arbeidsongeschiktheidsuitkering, voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid, niet uitbetaald.
 
 3. Indien een met toepassing van [artikel 17 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) toegekende arbeidsongeschiktheidsuitkering wegens toegenomen arbeidsongeschiktheid is herzien - ongeacht of ook die herziening geschiedde met toepassing van [artikel 17 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) - wordt, bij samenloop met een uitkering wegens arbeidsongeschiktheid ingevolge de sociale wetgeving van een andere Mogendheid, als bedoeld in het vorige lid, de verhoging van de arbeidsongeschiktheidsuitkering, voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als waarvoor die andere uitkering wordt verleend, evenmin uitbetaald.
 
-4. Indien een arbeidsongeschiktheidsuitkering, toegekend ingevolge de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551), dan wel een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke zonder toepassing van artikel 17 van die wet werd toegekend, met toepassing van laatstgenoemd artikel wegens toegenomen arbeidsongeschiktheid is herzien, wordt, bij samenloop met een uitkering wegens arbeidsongeschiktheid ingevolge de sociale wetgeving van een andere Mogendheid, als bedoeld in de beide voorgaande leden, de verhoging van de arbeidsongeschiktheidsuitkering, voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als waarvoor die andere uitkering wordt verleend, niet uitbetaald.
+4. Indien een arbeidsongeschiktheidsuitkering, toegekend ingevolge de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551), dan wel een arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke zonder toepassing van [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) werd toegekend, met toepassing van [laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17) wegens toegenomen arbeidsongeschiktheid is herzien, wordt, bij samenloop met een uitkering wegens arbeidsongeschiktheid ingevolge de sociale wetgeving van een andere Mogendheid, als bedoeld in de beide voorgaande leden, de verhoging van de arbeidsongeschiktheidsuitkering, voor zover deze is verleend ter zake van dezelfde arbeidsongeschiktheid als waarvoor die andere uitkering wordt verleend, niet uitbetaald.
+
+5. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op het recht op een uitkering als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) of [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7) dat als gevolg van de toepassing van [artikel 10 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) is ontstaan of herleeft.
 
 ##### Artikel 3
 
 1. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) of [artikel 4 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=4), doch zonder toepassing van artikel 12 dier wet, met één of meer vóór de dag van ingang van de arbeidsongeschiktheidsuitkering ingegane weduwenuitkeringen ingevolge de sociale wetgeving van een of meer andere Mogendheden, wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, indien en voor zover deze het bedrag van de weduwenuitkering of weduwenuitkeringen als hiervoor bedoeld, overtreft.
 
-2. Indien zowel het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01), als het bepaalde in het vorige lid van toepassing is, wordt voor de toepassing van het bepaalde in het vorige lid als arbeidsongeschiktheidsuitkering aangemerkt het overeenkomstig het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01) vastgestelde uit te betalen bedrag van die uitkering.
+2. Indien zowel het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29), als het bepaalde in het vorige lid van toepassing is, wordt voor de toepassing van het bepaalde in het vorige lid als arbeidsongeschiktheidsuitkering aangemerkt het overeenkomstig het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29) vastgestelde uit te betalen bedrag van die uitkering.
 
 ##### Artikel 4
 
@@ -84,9 +88,11 @@ Hebben goedgevonden en verstaan:
 
 - b. Het bepaalde onder **a** geldt slechts, indien en zolang de arbeidsongeschiktheid in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet is afgenomen en geen uitkering ingevolge de sociale wetgeving van een andere Mogendheid, die ingevolge de bepalingen van dit besluit leidt tot vermindering van het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering, wordt toegekend of, om andere reden dan aanpassing aan het loon- en/of prijspeil, wordt verhoogd.
 
+5. Het eerste, tweede en derde lid, zijn van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7).
+
 ##### Artikel 5
 
-Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) met een of meer uitkeringen als bedoeld in [artikel 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01) en/of een of meer uitkeringen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=3&z=2002-01-01&g=2002-01-01), wordt, zolang de arbeidsongeschiktheid niet is afgenomen, de uitbetaling van de arbeidsongeschiktheidsuitkering ter zake van die samenloop niet verder beperkt dan tot het bedrag, waarop de betrokkene laatstelijk aan invaliditeitsrente ingevolge de Invaliditeitswet en bijslag ingevolge de Interimwet invaliditeitsrentetrekkers aanspraak had.
+Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering, welke is toegekend op grond of mede op grond van het bepaalde in [artikel 3 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551&artikel=3) met een of meer uitkeringen als bedoeld in [artikel 1 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29) en/of een of meer uitkeringen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=3&z=2005-12-29&g=2005-12-29), wordt, zolang de arbeidsongeschiktheid niet is afgenomen, de uitbetaling van de arbeidsongeschiktheidsuitkering ter zake van die samenloop niet verder beperkt dan tot het bedrag, waarop de betrokkene laatstelijk aan invaliditeitsrente ingevolge de Invaliditeitswet en bijslag ingevolge de Interimwet invaliditeitsrentetrekkers aanspraak had.
 
 ##### Artikel 6
 
@@ -102,6 +108,8 @@ geldt het bepaalde in de volgende leden.
 
 3. Wanneer bij de vaststelling van het uit te betalen bedrag van de prorata arbeidsongeschiktheidsuitkering een vermindering ingevolge de bepalingen van de voorgaande artikelen moet worden toegepast, wordt het in mindering te brengen bedrag aldus berekend, dat het bedrag dat ingevolge de voorgaande artikelen ter zake van de samenloop met de in het vorige lid bedoelde uitkeringen daartoe in aanmerking zou zijn genomen als de arbeidsongeschiktheidsuitkering niet op prorata-basis zou zijn toegekend, vermenigvuldigd wordt met hetzelfde verhoudingsgetal, dat aan de berekening van de prorata arbeidsongeschiktheidsuitkering ten grondslag ligt.
 
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7).
+
 ##### Artikel 7
 
 1. Wanneer een periodieke uitkering ingevolge de sociale wetgeving van een andere Mogendheid, welke van invloed was op de hoogte van het overeenkomstig de voorgaande artikelen tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering, is afgekocht, blijft het bedrag van de uit te betalen arbeidsongeschiktheidsuitkering vastgesteld, alsof de eerstbedoelde uitkering niet was afgekocht. Na de beëindiging van de periodieke uitkering wordt de betrokkene geacht uit hoofde van de ontvangen afkoopsom een periodieke uitkering te ontvangen ter hoogte van de periodieke uitkering, die laatstelijk voor die beëindiging werd genoten.
@@ -110,30 +118,36 @@ geldt het bepaalde in de volgende leden.
 
 3. Indien, na toepassing van een van de voorgaande leden van dit artikel, het uit te betalen bedrag van de arbeidsongeschiktheidsuitkering moet worden herberekend, wordt het overeenkomstig de voorgaande leden vastgestelde in mindering te brengen bedrag aangepast overeenkomstig de percentages waarmee de arbeidsongeschiktheidsuitkering sedert de beëindiging van de periodieke uitkering werd herzien ingevolge [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15).
 
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), met dien verstande dat voor «ingevolge [artikel 15 van de Wet op de arbeidsongeschiktheidsuitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15)» wordt gelezen: ingevolge [artikel 14 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=14).
+
 ##### Artikel 8
 
-1. 1. De bij de toepassing van de voorgaande artikelen noodzakelijke omrekening in euro van een niet in euro uitgedrukte uitkering op grond van de sociale wetgeving van een andere Mogendheid geschiedt met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
+1. De bij de toepassing van de voorgaande artikelen noodzakelijke omrekening in euro van een niet in euro uitgedrukte uitkering op grond van de sociale wetgeving van een andere Mogendheid geschiedt met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
 
-2. Een wijziging in de in het eerste lid bedoelde koers beïnvloedt het op grond van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01) tot en met [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=7&z=2002-01-01&g=2002-01-01) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2002-01-01&g=2002-01-01) tot uitbetaling komende bedrag niet, met dien verstande dat:
+2. Een wijziging in de in het eerste lid bedoelde koers beïnvloedt het op grond van de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2005-12-29&g=2005-12-29) tot uitbetaling komende bedrag niet, met dien verstande dat:
 
-- a. bij herziening van het bedrag van de arbeidsongeschiktheidsuitkering, anders dan op grond van artikel 15 van de Wet op de arbeids-ongeschiktheidsverzekering of bij wijziging van het tot uitbetaling komende bedrag als gevolg van de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2002-01-01&g=2002-01-01) tot en met [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=7&z=2002-01-01&g=2002-01-01), een omrekening plaatsvindt; en
+- a. bij herziening van het bedrag van de arbeidsongeschiktheidsuitkering, anders dan op grond van [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15) of bij wijziging van het tot uitbetaling komende bedrag als gevolg van de toepassing van de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=1&z=2005-12-29&g=2005-12-29), een omrekening plaatsvindt; en
 
 - b. tenminste een keer per jaar een omrekening plaatsvindt.
 
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), met dien verstande dat voor «op grond van [artikel 15 van de Wet op de arbeidsongeschiktheidsuitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15)» wordt gelezen: op grond van [artikel 14 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=14).
+
 ##### Artikel 9
 
-Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt:
+1. Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt:
 
 - a. in geval van een herziening van de daglonen, bedoeld in [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15), het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering herzien met inachtneming van hetzelfde percentage als waarmede de daglonen worden herzien;
 
 - b. in geval van een herziening van het bedrag van de uitkering ingevolge de sociale wetgeving van een andere Mogendheid als gevolg van een wijziging van het loon- en/of prijspeil geen wijziging gebracht in het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering.
 
+2. Het eerste lid is van overeenkomstige toepassing op de uitkeringen, bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6) en [7 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7), met dien verstande dat voor «bedoeld in [artikel 15 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15)» wordt gelezen bedoeld in artikel [14 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=14).
+
 ##### Artikel 10
 
-Ons besluit van 30 augustus 1967 (**Stb.** 452) tot vaststelling van een algemene maatregel van bestuur als bedoeld in [artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=52) wordt ingetrokken.
+Dit besluit wordt aangehaald als: Besluit voorkoming en beperking samenloop WAO- en Wet WIA-uitkeringen met uitkeringen op grond van de sociale wetgeving van een andere Mogendheid.
 
 ##### Artikel 11
 
-Dit besluit treedt in werking met ingang van de eerste dag van de maand na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst, met dien verstande, dat artikel 8 terugwerkt tot 1 oktober 1969 en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2002-01-01&g=2002-01-01) tot 1 december 1969.
+Dit besluit treedt in werking met ingang van de eerste dag van de maand na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst, met dien verstande, dat artikel 8 terugwerkt tot 1 oktober 1969 en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002861&artikel=9&z=2005-12-29&g=2005-12-29) tot 1 december 1969.
 
 Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
